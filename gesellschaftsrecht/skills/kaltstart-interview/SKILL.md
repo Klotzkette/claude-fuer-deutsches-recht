@@ -53,7 +53,7 @@ Die nachfolgenden Vorschriften bilden den rechtlichen Rahmen der unterstützten 
 
 **Gesellschaftsrecht allgemein:** Paragraf 1 ff. GmbHG; Paragraf 1 ff. AktG; Paragraf 105 ff. HGB (OHG), Paragraf 161 ff. HGB (KG); Paragraf 705 ff. BGB n.F. (GbR seit 01.01.2024, MoPeG); Paragraf 1 ff. UmwG (Verschmelzung, Spaltung, Formwechsel).
 
-**M&A / Unternehmenskauf:** Paragraf 311 AktG (faktischer Konzern); Paragraf 15 GmbHG (Abtretung von Geschäftsanteilen, notarielle Form); Paragraf 17 GmbHG (Kaduzierung); Paragraf 29 ff. GmbHG (Jahresabschluss, Gewinnverwendung). Für Beteiligungserwerb an AGs: WpÜG (Pflichtangebot ab 30 % Stimmrechte, Paragraf 29 WpÜG); Paragraf 327a ff. AktG (Squeeze-out).
+**M&A / Unternehmenskauf:** Paragraf 311 AktG (faktischer Konzern); Paragraf 15 GmbHG (Abtretung von Geschäftsanteilen, notarielle Form); Paragraf 21 GmbHG (Kaduzierung); Paragraf 29 ff. GmbHG (Jahresabschluss, Gewinnverwendung). Für Beteiligungserwerb an AGs: WpÜG (Pflichtangebot ab 30 % Stimmrechte, Paragraf 29 WpÜG); Paragraf 327a ff. AktG (Squeeze-out).
 
 **Beschlussfassung / Governance:** Paragraf 48 GmbHG (Gesellschafterversammlung; Abs. 2: schriftliche Abstimmung ohne Versammlung); Paragraf 49 GmbHG (Einberufung); Paragraf 118 ff. AktG (Hauptversammlung; Paragraf 130 AktG: Niederschrift durch Notar bei AG); Paragraf 95 ff. AktG (Aufsichtsrat); Paragraf 23 Abs. 5 AktG (Satzungsstrenge).
 

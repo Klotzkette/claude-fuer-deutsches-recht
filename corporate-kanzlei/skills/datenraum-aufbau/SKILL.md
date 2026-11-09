@@ -118,7 +118,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 5, 25 DSGVO** — Datensparsamkeit; Privacy by Design; nur notwendige Daten im Datenraum
 - **§ 3 I GwG** — wirtschaftlich Berechtigter; Informationen mueglich im Datenraum
 - **Art. 18 MAR / § 13 WpHG** — Insider-Liste; Zugriff auf borsenrelevante Informationen protokollieren
-- **§ 17 UWG** — Geschäftsgeheimnis; Schutz vor unbefugter Offenlegung; Need-to-know
+- **§ 23 GeschGehG** — Geschäftsgeheimnis; Schutz vor unbefugter Offenlegung; Need-to-know
 
 ## Standard-Datenraum-Index: Corporate M&A
 
@@ -238,7 +238,7 @@ Separate NDA unterzeichnet: [Ja]
 
 ## Quellen
 
-- Art. 5, 25, 28 DSGVO; Art. 18 MAR; § 13 WpHG; § 17 UWG
+- Art. 5, 25, 28 DSGVO; Art. 18 MAR; § 13 WpHG; § 23 GeschGehG
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

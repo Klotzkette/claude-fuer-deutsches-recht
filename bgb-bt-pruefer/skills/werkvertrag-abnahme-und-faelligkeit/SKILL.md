@@ -14,7 +14,7 @@ description: "Für Werkvertrag: Abnahme und Fälligkeit Paragrafen 640 und 641 B
 
 - § 640 BGB: Abnahmepflicht des Bestellers und fingierte Abnahme
 - § 641 BGB: Fälligkeit der Vergütung (nach Abnahme)
-- § 641a BGB: Fertigstellungsbescheinigung
+- § 641a BGB a. F.: Fertigstellungsbescheinigung (aufgehoben zum 01.01.2009 durch das Forderungssicherungsgesetz; heute keine Entsprechung)
 - § 644 BGB: Gefahrtragung beim Werkvertrag
 - § 634a BGB: Verjährungsbeginn (Abnahme)
 - § 648a BGB: Kündigung aus wichtigem Grund

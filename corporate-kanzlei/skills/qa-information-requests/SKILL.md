@@ -190,7 +190,7 @@ DURCHSCHNITTLICHE ANTWORTZEIT: [Tage]
 
 ## Quellen
 
-- §§ 311 II, 444 BGB; Art. 18 MAR; § 17 UWG
+- §§ 311 II, 444 BGB; Art. 18 MAR; § 23 GeschGehG
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 6
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

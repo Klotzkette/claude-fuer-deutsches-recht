@@ -55,7 +55,7 @@ Firma -> Sitz -> Gegenstand -> Stammkapital -> Gesellschafter -> Geschäftsführ
 | 4 Stammkapital | Bar oder Sach? 25.000 EUR Minimum; Einzahlung 12.500 EUR vor Anmeldung | Sacheinlage: Differenzhaftung Paragraf 9 GmbHG | Kapitalstruktur festgelegt |
 | 5 Gesellschafter | Quoten; Mehrheit; 75-%-Schwelle für Satzungsänderung; Holding-Überlegung | Falsche Quotenplanung vor Investoren-Runde | Gesellschafterstruktur fixiert |
 | 6 Geschäftsführer | Einzel- oder Gesamtvertretung; Paragraf 181 BGB Befreiung; Anstellungsvertrag | GF ohne Anstellungsvertrag = unklares SV-Verhältnis | GF-Parameter festgelegt |
-| 7 Satzungswahl | Musterprotokoll (Paragraf 2a GmbHG, max. 3 Gesellschafter) oder individuelle Satzung | Musterprotokoll bei Investoren-Plan: teure Nachänderung | Satzungstyp gewählt |
+| 7 Satzungswahl | Musterprotokoll (Paragraf 2 Abs. 1a GmbHG, max. 3 Gesellschafter) oder individuelle Satzung | Musterprotokoll bei Investoren-Plan: teure Nachänderung | Satzungstyp gewählt |
 
 ## Schritt-für-Schritt-Workflow
 

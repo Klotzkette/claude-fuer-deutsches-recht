@@ -26,7 +26,7 @@ Strafrahmen variieren nach Tatbestand:
 - Paragraph 106 UrhG: bis drei Jahre.
 - Paragraph 108a UrhG (gewerbsmaessig): bis fuenf Jahre, Offizialdelikt.
 - Paragraph 143 MarkenG: bis drei Jahre.
-- Paragraph 143a MarkenG (bandenmaessig): drei Monate bis fuenf Jahre, Offizialdelikt.
+- Paragraph 143 Abs. 2 MarkenG (bandenmaessig): drei Monate bis fuenf Jahre, Offizialdelikt.
 - Paragraph 142 PatG: bis drei Jahre.
 - Paragraph 51 DesignG: bis drei Jahre.
 - Paragraph 23 GeschGehG: bis drei Jahre, Qualifikation bis fuenf Jahre.
@@ -35,7 +35,7 @@ Strafrahmen variieren nach Tatbestand:
 
 Im IP-Strafrecht herrschen einige Konstanten:
 
-- **Antragsdelikt** (Grundtatbestaende). Ausnahmen: Gewerbsmaessigkeit / Bandenmaessigkeit fuehren in Paragraph 108a UrhG und Paragraph 143a MarkenG zum Offizialdelikt.
+- **Antragsdelikt** (Grundtatbestaende). Ausnahmen: Gewerbsmaessigkeit / Bandenmaessigkeit fuehren in Paragraph 108a UrhG und Paragraph 143 Abs. 2 MarkenG zum Offizialdelikt.
 - **Privatklageweg Paragraph 374 StPO** in den meisten Faellen eroeffnet.
 - **Adhaesionsverfahren Paragraph 403 StPO** möglich (Schadensersatz im Strafverfahren).
 - **Parallel zivilrechtliche Verletzungsverfahren** vor LG (Patentkammer, Markenkammer, Urheberkammer) und einstweilige Verfuegung Paragraph 935 ZPO.

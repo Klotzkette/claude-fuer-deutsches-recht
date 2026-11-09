@@ -23,7 +23,7 @@ Produktionsverträge verpflichten einen Hersteller zur Fertigung nach Spezifikat
 - **BGB §§ 631-650**: Werkvertrag — Mängelhaftung und Abnahme
 - **ISO 9001:2015**: Qualitätsmanagementsystem-Anforderungen
 - **IATF 16949:2016**: Automobilindustrie-QMS (ergänzt ISO 9001)
-- **§ 17 UWG**: Geheimnisschutz / Handelsgeheimnisgesetz (HGeschGehG)
+- **§ 23 GeschGehG**: Geheimnisschutz / Handelsgeheimnisgesetz (HGeschGehG)
 - **RL (EU) 2016/943**: Geschäftsgeheimnisse-RL (EU)
 
 ## Schlüsselbegriffe

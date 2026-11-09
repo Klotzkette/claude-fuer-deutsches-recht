@@ -1,9 +1,9 @@
 ---
 name: strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme
-description: "Für Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 150 MarkenG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG
+# Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 150 MarkenG
 
 
 ## Arbeitsweg
@@ -14,13 +14,13 @@ description: "Für Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Parag
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus.
+**Fokus:** Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 150 MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus.
 
-### Grenzbeschlagnahme bei IP-Verletzungen nach VO (EU) 608/2013 und Paragraph 142a MarkenG
+### Grenzbeschlagnahme bei IP-Verletzungen nach VO (EU) 608/2013 und Paragraph 150 MarkenG
 
 ## Worum geht es
 
-Die Produktpiraterieverordnung (VO (EU) 608/2013) regelt das Taetigwerden der Zollbehoerden zur Durchsetzung von Rechten des geistigen Eigentums an der EU-Aussengrenze. Paragraph 142a MarkenG ist die deutsche Ergaenzungsnorm für Inlandsbezogene Faelle (Binnenmarkt). Anwendungsfaelle: Container mit Counterfeit-Ware aus Drittstaaten, Postsendungen aus Asien, Paralleltransporte über Binnengrenzen.
+Die Produktpiraterieverordnung (VO (EU) 608/2013) regelt das Taetigwerden der Zollbehoerden zur Durchsetzung von Rechten des geistigen Eigentums an der EU-Aussengrenze. Paragraph 150 MarkenG ist die deutsche Ergaenzungsnorm für Inlandsbezogene Faelle (Binnenmarkt). Anwendungsfaelle: Container mit Counterfeit-Ware aus Drittstaaten, Postsendungen aus Asien, Paralleltransporte über Binnengrenzen.
 
 Die Grenzbeschlagnahme ist sowohl strafrechtlich relevant (Beweissicherung, Loslassen-Verfahren, Verbindung zum Paragraph 143 / 143a MarkenG, Paragraph 142 PatG, Paragraph 108a UrhG) als auch zivilrechtlich (Schadensersatz, Unterlassung). Im Strafverfahren wird der Zoll oft zum primaeren Anzeigeerstatter, weil er die Ware physikalisch erfasst.
 
@@ -44,7 +44,7 @@ Verfahrensablauf:
 - **Vereinfachtes Vernichtungsverfahren** (Art. 23 VO): Wenn Anmelder zustimmt oder nicht widerspricht, kann Ware ohne Gerichtsverfahren vernichtet werden.
 - **Einspruch** des Anmelders: Bei Einspruch ist zivilrechtliches Verletzungsverfahren notwendig.
 
-Paragraph 142a MarkenG erweitert das Verfahren auf den **Binnenmarkt** (Transit innerhalb EU, Binnenversand). Sondernormen für Patentrecht (Paragraph 142b PatG bitte verifizieren), Designrecht (Paragraph 55 DesignG bitte verifizieren), Urheberrecht (Paragraph 111b UrhG).
+Paragraph 150 MarkenG erweitert das Verfahren auf den **Binnenmarkt** (Transit innerhalb EU, Binnenversand). Sondernormen für Patentrecht (Paragraph 142b PatG bitte verifizieren), Designrecht (Paragraph 55 DesignG bitte verifizieren), Urheberrecht (Paragraph 111b UrhG).
 
 **Privatreise-Ausnahme** Art. 1 Abs 4 VO (EU) 608/2013: Waren ohne gewerblichen Charakter im Reisegepaeck der nichtkommerziellen Einfuhr unterliegen nicht der Grenzbeschlagnahme. Faustregel: kleine Mengen für Eigenbedarf.
 
@@ -80,7 +80,7 @@ Praxisbesonderheit: Die **Benachrichtigung durch Zoll** (Art. 17 VO) loest die K
 Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgelagerte Strafverfahren:
 
 - **Anzahl der beschlagnahmten Stuecke** flieesst direkt in den Umsatz und Schaden ein; Bruttoprinzip BGH.
-- **Bei mehrfachem Aufgriff** über laengere Zeitraeume Gewerbsmaessigkeit Paragraph 143a MarkenG oder Paragraph 108a UrhG indiziert.
+- **Bei mehrfachem Aufgriff** über laengere Zeitraeume Gewerbsmaessigkeit Paragraph 143 Abs. 2 MarkenG oder Paragraph 108a UrhG indiziert.
 - **Einziehung** der beschlagnahmten Ware Paragraph 74 StGB iVm Sondereinziehungsnorm; bei Zustimmung im Vernichtungsverfahren ist Einziehung obsolet (Ware bereits vernichtet).
 - **Gewinnabschoepfung** Paragraph 73 StGB: Brutto-Verkaufswert der nicht beschlagnahmten Ware (die bereits in Verkehr gelangt ist); Mandant haftet auf Wertersatz Paragraph 73c StGB.
 
@@ -95,7 +95,7 @@ Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgel
 ## Quellen Stand 06/2026
 
 - VO (EU) 608/2013 über die Durchsetzung der Rechte geistigen Eigentums durch die Zollbehoerden.
-- Paragraph 142a MarkenG (Grenzbeschlagnahme im Binnenmarkt).
+- Paragraph 150 MarkenG (Grenzbeschlagnahme im Binnenmarkt).
 - Paragraph 111b UrhG (Grenzbeschlagnahme bei Urheberrechtsverletzungen).
 - Paragraph 55 DesignG, Paragraph 142b PatG (paralleler Anwendungsbereich — Wortlaut verifizieren).
 - Paragraph 94 StPO Beschlagnahme.

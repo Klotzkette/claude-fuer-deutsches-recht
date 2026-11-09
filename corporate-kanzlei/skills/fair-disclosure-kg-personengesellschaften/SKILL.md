@@ -131,7 +131,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 1, 19 GWB** — kartellrechtliche Verbote; Informationsaustausch zwischen Wettbewerbern vor Freigabe
 - **§ 41 GWB** — Vollzugsverbot; keine Integration vor Kartellfreigabe; auch kein Informationsaustausch
 - **§ 43a BRAO** — Kanzlei-Verschwiegenheit; Firewall zwischen mandatswidersprechenden Teams
-- **§ 17 UWG** — Geschäftsgeheimnis; Transaktionsinformationen sind schuetzwuerdig
+- **§ 23 GeschGehG** — Geschäftsgeheimnis; Transaktionsinformationen sind schuetzwuerdig
 
 ## Aktuelle Rechtsprechung
 
@@ -215,7 +215,7 @@ Ich bestatige die Kenntnis dieser Belehrung:
 
 ## Quellen
 
-- Art. 14, 17, 18 MAR; §§ 1, 19, 41 GWB; § 43a BRAO; § 17 UWG
+- Art. 14, 17, 18 MAR; §§ 1, 19, 41 GWB; § 43a BRAO; § 23 GeschGehG
 - Assmann/Schneider/Muelbert WpHG Art. 17, 18 MAR; Immenga/Mestmaecker GWB § 41
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

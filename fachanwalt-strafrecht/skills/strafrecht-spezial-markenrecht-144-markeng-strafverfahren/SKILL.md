@@ -24,7 +24,7 @@ Paragraph 144 MarkenG ist die zentrale prozessuale Klammer für Markenstraftaten
 
 - Paragraph 144 Abs 1 MarkenG: **Antragsdelikt-Charakter** des Paragraph 143 MarkenG (Grundtatbestand) und ggf. weiterer Tatbestaende mit Ausnahme besonderes öffentliches Interesse.
 - Paragraph 144 Abs 2 MarkenG: **Privatklageweg** Paragraph 374 StPO als alternative oder primaere Verfolgungsstrategie.
-- Vereinfacht: Paragraph 143a MarkenG (bandenmaessig) bleibt davon unberuehrt; siehe `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`.
+- Vereinfacht: Paragraph 143 Abs. 2 MarkenG (bandenmaessig) bleibt davon unberuehrt; siehe `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`.
 
 Praxisrelevanz: Markeninhaber stehen vor der Wahl zwischen Strafanzeige (mit Strafverfolgung durch StA), Privatklage (eigene prozessuale Initiative bei eingeschraenktem StA-Interesse) und zivilrechtlicher Unterlassungsklage (gewoehnlicher Hauptweg). Verteidigung sollte das Zusammenspiel beider Verfahrensschienen aktiv steuern.
 
@@ -59,7 +59,7 @@ Der Antrag muss schriftlich (Paragraph 158 StPO; in Praxis über Strafanzeige mi
 - **Besonderes öffentliches Interesse erschuettern.** Wenn StA Offizialverfolgung aufnimmt, ist die Annahme des besonderen öffentlichen Interesses zu prüfen. Bei nur einzelnen Verkaufstaten geringen Umfangs ist das Interesse nicht zu bejahen; Antragsmangel fuehrt zur Einstellung.
 - **Privatklageverweis anregen.** Im Schriftsatz an die StA frueh anregen, dass keine besondere öffentliche Bedeutung gegeben sei und der Markeninhaber auf den Privatklageweg verwiesen werden moege. Markeninhaber scheut Privatklageweg wegen Kostenrisiko und Aufwand; oft Effekt der faktischen Einstellung.
 - **Adhaesion vorbereiten oder verhindern.** Markeninhaber kann Adhaesionsantrag nach Paragraphen 403 ff. StPO stellen (Schadensersatz im Strafverfahren). Verteidigung sollte Bezifferung prüfen und ggf. Verweisung an Zivilverfahren beantragen (Paragraph 406 Abs 1 S 3 bis 6 StPO).
-- **Zuständigkeit.** Amtsgericht regelmaessig bei Paragraph 143 MarkenG (Strafrahmen bis drei Jahre, Paragraph 24 GVG). Bei Paragraph 143a MarkenG (Verbrechen) Landgericht (Paragraph 74 Abs 1 GVG, sofern Erwartung über vier Jahre Strafe). Bei Bezug zur Wirtschaftsstrafkammer Paragraph 74c GVG prüfen (gewerblicher Rechtsschutz ist nach Auslegung erfasst).
+- **Zuständigkeit.** Amtsgericht regelmaessig bei Paragraph 143 MarkenG (Strafrahmen bis drei Jahre, Paragraph 24 GVG). Bei Paragraph 143 Abs. 2 MarkenG (Verbrechen) Landgericht (Paragraph 74 Abs 1 GVG, sofern Erwartung über vier Jahre Strafe). Bei Bezug zur Wirtschaftsstrafkammer Paragraph 74c GVG prüfen (gewerblicher Rechtsschutz ist nach Auslegung erfasst).
 
 ## Trade-off-Matrix
 
@@ -71,13 +71,13 @@ Aus Sicht der Verteidigung: Wenn der Mandant kooperationsbereit ist, anwaltlich 
 
 ## Konkurrenzen
 
-- **Paragraph 144 MarkenG ist prozessuale Norm**, keine eigenstaendige Strafnorm. Sie modifiziert die Verfolgbarkeit der Paragraph 143 MarkenG und (eingeschraenkt) Paragraph 143a MarkenG.
-- **Paragraph 143a MarkenG** ist Offizialdelikt; Paragraph 144 MarkenG gilt insoweit nicht. Antragserfordernis entfaellt bei Bandentaten.
+- **Paragraph 144 MarkenG ist prozessuale Norm**, keine eigenstaendige Strafnorm. Sie modifiziert die Verfolgbarkeit der Paragraph 143 MarkenG und (eingeschraenkt) Paragraph 143 Abs. 2 MarkenG.
+- **Paragraph 143 Abs. 2 MarkenG** ist Offizialdelikt; Paragraph 144 MarkenG gilt insoweit nicht. Antragserfordernis entfaellt bei Bandentaten.
 - **Verhältnis zum Zivilrecht.** Verfahren parallel; rechtskraeftiges Strafurteil entfaltet im Zivilverfahren Indizwirkung, aber keine Bindungswirkung (anders als bei Schaedigung im Sinne Paragraph 14 BGB nach KapMuG; in normalen Zivilverfahren herrscht freie Beweiswuerdigung nach Paragraph 286 ZPO).
 
 ## Strafzumessung
 
-Strafrahmen ergibt sich aus dem materiellen Tatbestand: Paragraph 143 MarkenG bis drei Jahre, Paragraph 143a MarkenG drei Monate bis fuenf Jahre. Paragraph 144 MarkenG selbst enthaelt keinen Strafrahmen.
+Strafrahmen ergibt sich aus dem materiellen Tatbestand: Paragraph 143 MarkenG bis drei Jahre, Paragraph 143 Abs. 2 MarkenG drei Monate bis fuenf Jahre. Paragraph 144 MarkenG selbst enthaelt keinen Strafrahmen.
 
 Praxistipps:
 - Bei Antragsruecknahme Paragraph 77d StGB nach Vergleich mit Markeninhaber: Verfahren wird nach Paragraph 170 Abs 2 StPO eingestellt; keine Vorstrafe; Vermeidung von BZRG-Eintrag.

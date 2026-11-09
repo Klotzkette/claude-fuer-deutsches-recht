@@ -66,7 +66,7 @@ Die Fahrereigenschaft kam zum Tatzeitpunkt **[Person, Vorname Name, ggf. Anschri
 *(Alternative, wenn Fahrer nicht bekannt oder nicht benannt werden soll:)*
 Wer das Fahrzeug zum Tatzeitpunkt geführt hat, kann der/die Betroffene derzeit nicht mitteilen. Weitere Ermittlungen bleiben der Behörde überlassen.
 
-Die betroffene Person macht von ihrem Schweigerecht Gebrauch, soweit eine Auskunft sie selbst belasten könnte (§§ 46 Abs. 1 OWiG, 55 OWiG). Eine Fahrtenbuchauflage nach § 31a StVG kommt nur in Betracht, wenn die Behörde zuvor alle zumutbaren Ermittlungsmaßnahmen zur Fahrerermittlung unternommen hat (OVG Nordrhein-Westfalen, Beschluss vom 15. November 2023 — 8 A 2361/22).
+Die betroffene Person macht von ihrem Schweigerecht Gebrauch, soweit eine Auskunft sie selbst belasten könnte (§§ 46 Abs. 1 OWiG, 55 OWiG). Eine Fahrtenbuchauflage nach § 31a StVZO kommt nur in Betracht, wenn die Behörde zuvor alle zumutbaren Ermittlungsmaßnahmen zur Fahrerermittlung unternommen hat (OVG Nordrhein-Westfalen, Beschluss vom 15. November 2023 — 8 A 2361/22).
 
 ---
 

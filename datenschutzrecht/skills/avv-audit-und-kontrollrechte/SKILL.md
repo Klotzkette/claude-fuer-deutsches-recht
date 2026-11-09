@@ -99,6 +99,6 @@ Audit-Klausel:
 
 - Art. 28 Abs. 3 lit. h DSGVO.
 - Art. 32, Art. 40, Art. 42, Art. 43 DSGVO.
-- § 17 UWG, § 203 StGB, § 43a Abs. 2 BRAO.
+- § 23 GeschGehG, § 203 StGB, § 43a Abs. 2 BRAO.
 - ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, BSI C5:2020.
 - Zitierweise: `../../../references/zitierweise.md`.

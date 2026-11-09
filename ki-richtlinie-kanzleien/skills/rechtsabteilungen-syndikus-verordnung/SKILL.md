@@ -34,7 +34,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Risikoampel Rechtsabteilung Syndikus-KI-Einsatz
 - **Syndikusspezifika:** Syndikusrechtsanwalt nach § 46 BRAO; Schweigepflicht über Unternehmensgeheimnisse (Konkurrentenschutz, Insider-Informationen, M&A-Verhandlungen).
-- **Konfliktfeld:** KI-Tools können Unternehmensdaten in Anbieter-Infrastruktur laden — § 17 UWG / § 4 GeschGehG (Geschäftsgeheimnisschutz) plus § 43a BRAO.
+- **Konfliktfeld:** KI-Tools können Unternehmensdaten in Anbieter-Infrastruktur laden — § 23 GeschGehG / § 4 GeschGehG (Geschäftsgeheimnisschutz) plus § 43a BRAO.
 - **§ 87 Abs. 1 Nr. 6 BetrVG:** Bei größeren Unternehmen Betriebsratsbeteiligung — KI-Tool, das Verhaltens-/Leistungsdaten erfasst, ist mitbestimmungspflichtig.
 - **Compliance-Schnittstelle:** Kartellrecht (z. B. Kommunikation mit Konkurrenz), Geldwäsche (§ 2 GwG), Sanktionsrecht — KI darf keine kritischen Informationen leaken.
 

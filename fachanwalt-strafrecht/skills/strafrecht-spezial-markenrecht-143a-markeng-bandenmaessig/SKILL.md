@@ -1,9 +1,9 @@
 ---
 name: strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig
-description: "Für Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für Bandenmäßige Markenrechtsverletzung Paragraph 143 Abs. 2 MarkenG und gewerbsmäßige Begehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung
+# Bandenmäßige Markenrechtsverletzung Paragraph 143 Abs. 2 MarkenG und gewerbsmäßige Begehung
 
 
 ## Arbeitsweg
@@ -14,13 +14,13 @@ description: "Für Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
+**Fokus:** Bandenmäßige Markenrechtsverletzung Paragraph 143 Abs. 2 MarkenG und gewerbsmäßige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
 
-### Bandenmäßige Markenrechtsverletzung nach Paragraph 143a MarkenG
+### Bandenmäßige Markenrechtsverletzung nach Paragraph 143 Abs. 2 MarkenG
 
 ## Worum geht es
 
-Paragraph 143a MarkenG ist die Qualifikation des Paragraph 143 MarkenG für gewerbsmäßige oder bandenmäßige Begehung. Anwendungsfaelle: organisierte Counterfeit-Logistik mit Containerimporten aus Drittstaaten, Online-Marktplatz-Netzwerke mit mehreren Beteiligten in Produktion, Lagerung, Verkauf, Geldwaesche; Schmuggelringe; arbeitsteilige Vertriebsstrukturen mit klarer Rollenverteilung.
+Paragraph 143 Abs. 2 MarkenG ist die Qualifikation des Paragraph 143 MarkenG für gewerbsmäßige oder bandenmäßige Begehung. Anwendungsfaelle: organisierte Counterfeit-Logistik mit Containerimporten aus Drittstaaten, Online-Marktplatz-Netzwerke mit mehreren Beteiligten in Produktion, Lagerung, Verkauf, Geldwaesche; Schmuggelringe; arbeitsteilige Vertriebsstrukturen mit klarer Rollenverteilung.
 
 Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitsstrafe. Geldstrafe als alleinige Strafe ist ausgeschlossen. Dies ist ein Verbrechen (per definitionem; Mindestmass Freiheitsstrafe), was strafprozessual und materiell weitreichende Folgen hat (Versuchsbestrafung, Mittaeterschaft, Beihilfe).
 
@@ -36,11 +36,11 @@ Voraussetzung: Die Tat des Paragraph 143 Abs 1 MarkenG ist erfuellt **und** sie 
 
 Praxiswichtig: BGH-Linie zur Mindestpersonenzahl drei wurde im Grundsatzbeschluss des Großen Senats für Strafsachen verbindlich. Eine zwei-Personen-Verbindung ist Bande nicht ausreichend; hier bleibt es ggf. bei Paragraph 143 MarkenG plus Paragraph 25 Abs 2 StGB (Mittaeterschaft).
 
-Bandenmitglieder müssen nicht alle bei jeder Einzeltat mitwirken; die Bandenmitgliedschaft genuegt für die Strafbarkeit nach Paragraph 143a MarkenG, sofern der konkrete Taeter Bandenmitglied ist und im Rahmen der Bandenabrede handelt.
+Bandenmitglieder müssen nicht alle bei jeder Einzeltat mitwirken; die Bandenmitgliedschaft genuegt für die Strafbarkeit nach Paragraph 143 Abs. 2 MarkenG, sofern der konkrete Taeter Bandenmitglied ist und im Rahmen der Bandenabrede handelt.
 
 ## Strafantrag und Antragsbefugnis
 
-**Kein Antragserfordernis.** Offizialdelikt. Eine Strafanzeige durch den Markeninhaber, durch den Zoll oder durch Dritte loest das Ermittlungsverfahren aus. Anzeigeerstatter ist haeufig der Zoll im Rahmen Paragraph 142a MarkenG iVm VO (EU) 608/2013 (Grenzbeschlagnahme).
+**Kein Antragserfordernis.** Offizialdelikt. Eine Strafanzeige durch den Markeninhaber, durch den Zoll oder durch Dritte loest das Ermittlungsverfahren aus. Anzeigeerstatter ist haeufig der Zoll im Rahmen Paragraph 150 MarkenG iVm VO (EU) 608/2013 (Grenzbeschlagnahme).
 
 Praxisrelevant: Auch wenn kein Antrag erforderlich, ist die Mitwirkung des Markeninhabers für die Beweisfuehrung kritisch (Markenidentitaet, Originalitaetspruefung der Vergleichsmuster, Schadensbezifferung). Markeninhaber sollte vor der Anzeige Beweispaket vorbereiten.
 
@@ -58,15 +58,15 @@ Praxisrelevant: Auch wenn kein Antrag erforderlich, ist die Mitwirkung des Marke
 | --- | --- | --- |
 | Bestreiten Bandenmerkmal, Gewerbsmaessigkeit, Vorsatz; lange HV mit vielen Mitangeklagten, Telekommunikationsueberwachungen, V-Mann-Beweismitteln | Kooperation mit StA; Aussage gegen Bandenchef, Lieferanten, Logistiker; Aufdeckung weiterer Taten | Bei Verbrechensvorwurf und starker Beweislage (Container-Logs, Bankspuren, TKÜ-Ergebnisse): Pfad B bei junger Bandenposition; Pfad A bei untergeordneter Rolle, wo Beihilfe nach Paragraph 27 StGB tragfaehig ist. |
 
-Paragraph 153a StPO ist bei Paragraph 143a MarkenG (Verbrechen) **nicht** anwendbar. Einstellung nach Paragraph 153 StPO ebenfalls nicht. Verstaendigung Paragraph 257c StPO bleibt möglich, aber das Strafmass beginnt bei drei Monaten Freiheitsstrafe; Aussetzung zur Bewaehrung Paragraph 56 StGB praktisch erreichbar.
+Paragraph 153a StPO ist bei Paragraph 143 Abs. 2 MarkenG (Verbrechen) **nicht** anwendbar. Einstellung nach Paragraph 153 StPO ebenfalls nicht. Verstaendigung Paragraph 257c StPO bleibt möglich, aber das Strafmass beginnt bei drei Monaten Freiheitsstrafe; Aussetzung zur Bewaehrung Paragraph 56 StGB praktisch erreichbar.
 
 ## Konkurrenzen
 
-- **Paragraph 143a MarkenG verdraengt** Paragraph 143 MarkenG (Spezialitaet).
-- **Paragraph 143a MarkenG und Paragraph 261 StGB Geldwaesche.** Bei systematischer Geldfluss-Verschleierung der Counterfeit-Erloese Tateinheit; Paragraph 261 als selbständige Tat möglich.
-- **Paragraph 143a MarkenG und Paragraph 263 StGB.** Tateinheit mit Betrug bei Vortaeuschen einer Originalware gegenueber Kaeufern.
-- **Paragraph 143a MarkenG und Paragraphen 129, 129a StGB.** Bei strukturierten Vereinigungen prüfen, ob kriminelle Vereinigung im Sinne Paragraph 129 StGB vorliegt; mehrgliedrige Bande mit fortbestehender Struktur kann Vereinigungscharakter erreichen.
-- **Paragraph 143a MarkenG und Paragraph 108a UrhG.** Bei Doppelverletzung Marke und Urheberrecht (Bootleg mit Marke) Tateinheit; beide gewerblichen Qualifikationen können nebeneinander stehen.
+- **Paragraph 143 Abs. 2 MarkenG verdraengt** Paragraph 143 MarkenG (Spezialitaet).
+- **Paragraph 143 Abs. 2 MarkenG und Paragraph 261 StGB Geldwaesche.** Bei systematischer Geldfluss-Verschleierung der Counterfeit-Erloese Tateinheit; Paragraph 261 als selbständige Tat möglich.
+- **Paragraph 143 Abs. 2 MarkenG und Paragraph 263 StGB.** Tateinheit mit Betrug bei Vortaeuschen einer Originalware gegenueber Kaeufern.
+- **Paragraph 143 Abs. 2 MarkenG und Paragraphen 129, 129a StGB.** Bei strukturierten Vereinigungen prüfen, ob kriminelle Vereinigung im Sinne Paragraph 129 StGB vorliegt; mehrgliedrige Bande mit fortbestehender Struktur kann Vereinigungscharakter erreichen.
+- **Paragraph 143 Abs. 2 MarkenG und Paragraph 108a UrhG.** Bei Doppelverletzung Marke und Urheberrecht (Bootleg mit Marke) Tateinheit; beide gewerblichen Qualifikationen können nebeneinander stehen.
 
 ## Strafzumessung
 
@@ -87,11 +87,11 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 
 ## Quellen Stand 06/2026
 
-- Paragraph 143a MarkenG im Wortlaut (gesetze-im-internet.de): drei Monate bis fuenf Jahre Freiheitsstrafe.
+- Paragraph 143 Abs. 2 MarkenG im Wortlaut (gesetze-im-internet.de): drei Monate bis fuenf Jahre Freiheitsstrafe.
 - Paragraphen 143, 144 MarkenG.
 - Paragraph 14 MarkenG zivilrechtliche Verletzungstatbestaende.
 - BGH Großer Senat für Strafsachen, Bandenbegriff (Mindestens drei Personen, Wille kuenftiger arbeitsteiliger Tatbegehung); BGH staendige Rspr. zur Gewerbsmaessigkeit.
 - Paragraphen 25, 27, 49 StGB Taeterschaft, Beihilfe, Strafrahmenverschiebung.
 - Paragraph 46b StGB Kronzeugenregelung; Paragraph 257c StPO Verstaendigung; Paragraph 112a StPO Wiederholungsgefahr.
 - Paragraphen 73, 73c, 74 StGB Einziehung; Bruttoprinzip BGH; Gesamtschuldnerschaft bei Bandentaten BGH staendige Rspr.
-- VO (EU) 608/2013 und Paragraph 142a MarkenG; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
+- VO (EU) 608/2013 und Paragraph 150 MarkenG; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.

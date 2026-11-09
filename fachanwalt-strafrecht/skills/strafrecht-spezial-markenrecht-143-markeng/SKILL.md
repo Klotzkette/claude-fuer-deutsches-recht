@@ -22,7 +22,7 @@ description: "Für Strafvorschriften nach Paragraph 143 MarkenG: ordnet Norm, Be
 
 Paragraph 143 MarkenG sanktioniert vorsaetzliche Verletzungen des Markenrechts. Geschuetzt ist die Marke als gewerbliches Schutzrecht (Paragraph 14 MarkenG zivilrechtlich; Paragraph 143 MarkenG strafrechtlich). Anwendungsfaelle: Counterfeit-Vertrieb von Fashion- und Luxusartikeln, Produktpiraterie über Marktplaetze, Parallelimport ohne EU-Erschoepfung, taeuschend aehnliche Markenkennzeichen (Verwechslungsgefahr), Ausnutzung bekannter Marken (Bekanntheitsschutz).
 
-Strafrahmen Paragraph 143 Abs 1 MarkenG: bis drei Jahre Freiheitsstrafe oder Geldstrafe. Bandenmäßige Begehung wird über Paragraph 143a MarkenG erfasst (drei Monate bis fuenf Jahre). Antragsdelikt nach Paragraph 144 Abs 1 MarkenG; Privatklageweg möglich; Ausnahme besonderes öffentliches Interesse fuehrt zur Offizialverfolgung.
+Strafrahmen Paragraph 143 Abs 1 MarkenG: bis drei Jahre Freiheitsstrafe oder Geldstrafe. Bandenmäßige Begehung wird über Paragraph 143 Abs. 2 MarkenG erfasst (drei Monate bis fuenf Jahre). Antragsdelikt nach Paragraph 144 Abs 1 MarkenG; Privatklageweg möglich; Ausnahme besonderes öffentliches Interesse fuehrt zur Offizialverfolgung.
 
 ## Tatbestand und Geltungsbereich
 
@@ -64,7 +64,7 @@ Paragraph 153a StPO Einstellung gegen Auflage ist haeufig praxistauglich, wenn M
 
 ## Konkurrenzen
 
-- **Paragraph 143 MarkenG und Paragraph 143a MarkenG.** Bandenmaessigkeit verdraengt den Grundtatbestand (Spezialitaet).
+- **Paragraph 143 MarkenG und Paragraph 143 Abs. 2 MarkenG.** Bandenmaessigkeit verdraengt den Grundtatbestand (Spezialitaet).
 - **Paragraph 143 MarkenG und Paragraph 263 StGB.** Bei Vortaeuschen einer Originalware Tateinheit möglich; bei einfacher Counterfeit-Verkaufstat ist Paragraph 263 regelmaessig zu bejahen, wenn Kaeufer an Originalware geglaubt hat.
 - **Paragraph 143 MarkenG und Paragraph 106, 108a UrhG.** Bei Doppelverletzung (z. B. Bootleg-CD mit Originalmarke) Tateinheit.
 - **Paragraph 143 MarkenG und Paragraph 51 DesignG.** Bei Verletzung sowohl Marke als auch eingetragenem Design (Logo + Form) Tateinheit prüfen.
@@ -105,4 +105,4 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 - Paragraph 77b StGB Antragsfrist; Paragraph 374 StPO Privatklagedelikt.
 - BGH staendige Rspr. zur Verwechslungsgefahr (Wechselwirkungslehre); EuGH staendige Rspr. zur Marke unter Verordnung 2017/1001 und Vorgaengerverordnung. Konkrete Datierung vor Verwendung im Schriftsatz verifizieren.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz; Bruttoprinzip BGH.
-- VO (EU) 608/2013 (Produktpiraterieverordnung) und Paragraph 142a MarkenG für Grenzbeschlagnahme; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
+- VO (EU) 608/2013 (Produktpiraterieverordnung) und Paragraph 150 MarkenG für Grenzbeschlagnahme; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.

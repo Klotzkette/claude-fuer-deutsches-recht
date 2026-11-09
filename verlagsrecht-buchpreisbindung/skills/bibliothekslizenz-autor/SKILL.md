@@ -72,7 +72,7 @@ description: "Für Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: ordnet 
 - **Praxis**: Verlage setzen Bibliothekspreise für Lizenzen frei; keine BuchPrG-Bindung.
 - Für physische Bücher, die Bibliotheken kaufen: BuchPrG gilt; Bibliothek ist Letztabnehmer (§ 5 BuchPrG).
 
-## § 52b UrhG — Elektronische Leseplätze
+## § 60e Abs. 4 UrhG — Elektronische Leseplätze
 
 - Bibliotheken dürfen auf Terminals in Bibliotheksräumen urheberrechtlich geschützte Werke anzeigen.
 - Voraussetzung: Lizenzangebot des Verlags; Anzahl der Terminals ≤ Anzahl erworbener körperlicher Exemplare.
