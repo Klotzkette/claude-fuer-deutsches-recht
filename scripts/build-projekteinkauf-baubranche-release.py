@@ -20,9 +20,9 @@ from testakte_einzelpdf_common import document_arcname_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = 'projekteinkauf-baubranche'
-VERSION = '445.35.10'
+VERSION = '445.35.11'
 TAG = f'{PLUGIN}-v{VERSION}'
-WORKSHOP = 'Projekteinkauf_Baubranche_6_Testakten_und_Vorlagen.zip'
+WORKSHOP = 'Projekteinkauf_Baubranche_7_Testakten_und_Vorlagen.zip'
 DEBRIEF = 'Projekteinkauf_Baubranche_Nachbesprechung.zip'
 
 
@@ -66,8 +66,8 @@ def build_case(case, dist, rebuild, native, single, native_check, pdf_check):
     pdf_check.assert_same(single_zip.name, [NOTICE_FILENAME, *pdf_check.expected_arcnames(directory)],
                           pdf_check.zip_entries(single_zip, expected_suffix='.pdf'))
     writer = PdfWriter()
-    writer.add_metadata({'/Title': case['title'], '/Author': 'Limmerbogen Bau GmbH',
-                         '/Subject': f"{case['id']} · Bildungscampus Leineaue"})
+    writer.add_metadata({'/Title': case['title'], '/Author': case.get('company', 'Limmerbogen Bau GmbH'),
+                         '/Subject': f"{case['id']} · {case.get('project', 'Bildungscampus Leineaue')}"})
     with ZipFile(single_zip) as archive:
         for path, name in pairs:
             pdf = PdfReader(BytesIO(archive.read(name)))
@@ -155,15 +155,21 @@ def build(dist, rebuild):
 
 
 def verify(dist):
+    report = json.loads((dist / 'release-bestand.json').read_text())
+    layouts = {'445.35.10': (6, 7), VERSION: (7, 9)}
+    version = report.get('version')
+    if version not in layouts or report['tag'] != f'{PLUGIN}-v{version}':
+        raise ValueError('Unerwarteter Komponentenstand.')
+    case_count, template_count = layouts[version]
+    asset_count = case_count * 3 + 8
     hashes = dict(line.split('  ', 1)[::-1] for line in (dist / 'checksums-sha256.txt').read_text().splitlines())
-    if set(hashes) != {path.name for path in dist.iterdir()} - {'checksums-sha256.txt'} or len(hashes) != 25:
-        raise ValueError('Der Release muss genau 26 Dateien enthalten.')
+    if set(hashes) != {path.name for path in dist.iterdir()} - {'checksums-sha256.txt'} or len(hashes) != asset_count - 1:
+        raise ValueError(f'Der Release muss genau {asset_count} Dateien enthalten.')
     for name, digest in hashes.items():
         if checksum(dist / name) != digest:
             raise ValueError('Prüfsummenabweichung: ' + name)
-    report = json.loads((dist / 'release-bestand.json').read_text())
-    if report['tag'] != TAG or len(report['cases']) != 6:
-        raise ValueError('Unerwarteter Komponentenstand.')
+    if len(report['cases']) != case_count:
+        raise ValueError('Unerwartete Zahl an Testakten im Inventar.')
     for name, members in report['archives'].items():
         if inventory(dist / name, case_zip=name != PLUGIN + '.zip') != members:
             raise ValueError('Inventarabweichung: ' + name)
@@ -173,9 +179,10 @@ def verify(dist):
             raise ValueError('Das Plugin muss neun Skills enthalten.')
         if any('Nachbesprechung' in name for name in names):
             raise ValueError('Nachbesprechung gehört außerhalb des Plugins.')
-    with ZipFile(dist / WORKSHOP) as archive:
-        if len(archive.namelist()) != 14:
-            raise ValueError('Workshop-ZIP muss sechs Akten und sieben Vorlagen enthalten.')
+    workshop = f'Projekteinkauf_Baubranche_{case_count}_Testakten_und_Vorlagen.zip'
+    with ZipFile(dist / workshop) as archive:
+        if len(archive.namelist()) != 1 + case_count + template_count:
+            raise ValueError(f'Workshop-ZIP muss {case_count} Akten und {template_count} Vorlagen enthalten.')
         for case in report['cases']:
             if sha256(archive.read(case['original'])).hexdigest() != hashes[case['original']]:
                 raise ValueError('Abweichende Workshop-Akte: ' + case['id'])
@@ -184,7 +191,7 @@ def verify(dist):
                     raise ValueError('Abweichende Lesefassung: ' + case['id'])
                 if any('Nachbesprechung' in name for name in original.namelist()):
                     raise ValueError('Moderationsmaterial in der Arbeitsakte: ' + case['id'])
-    print(f"{TAG}: 26 Dateien, {sum(c['documents'] for c in report['cases'])} Originale, "
+    print(f"{report['tag']}: {asset_count} Dateien, {sum(c['documents'] for c in report['cases'])} Originale, "
           f"{sum(c['pages'] for c in report['cases'])} Seiten.")
 
 

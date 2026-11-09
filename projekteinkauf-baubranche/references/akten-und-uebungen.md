@@ -1,6 +1,6 @@
-# 1 Arbeiten mit den sechs Einkaufsakten
+# 1 Arbeiten mit den sieben Einkaufsakten
 
-Die fiktive Limmerbogen Bau GmbH beschafft als Generalunternehmer für den privaten Bildungscampus Leineaue in Hannover. Die Fälle spielen im Herbst 2026. Jede Akte lässt sich eigenständig bearbeiten. Daten und Firmenangaben aus den Akten sind Schulungsmaterial. Bei einer echten Recherche kennzeichnen Sie getrennt, welche Quelle tatsächlich aktuell geöffnet und geprüft wurde.
+PE-01 bis PE-06 begleiten die fiktive Limmerbogen Bau GmbH am privaten Bildungscampus Leineaue in Hannover. PE-07 begleitet die Krimpfort SE & Co. KG beim Einkauf von Brandschutztüren für das Bürohaus einer Bundesbehörde in Bremen. Jede Akte lässt sich eigenständig bearbeiten. Daten und Firmenangaben aus den Akten sind Schulungsmaterial. Bei einer echten Recherche kennzeichnen Sie, welche Quelle tatsächlich aktuell geöffnet und geprüft wurde.
 
 ## 2 Ein Arbeitsauftrag in fünf Teilen
 
@@ -29,6 +29,7 @@ Prüfen Sie eine Zahl und einen Satz im Ergebnis selbst am Original. Verbessern 
 | PE-04 Klinkerreklamation | Vergleichen Sie Muster, Bestellung und angelieferte Charge. Entwerfen Sie die gebotene Mitteilung mit Beleg und Termin. | Prüfen Sie eine Gegenäußerung, die belegte Abhilfe und einen realistischen Verhandlungsschritt. |
 | PE-05 Krannachtrag | Trennen Sie beauftragten Einsatz, beanspruchte Zusatzleistung und mögliche Vorhaltung. | Rechnen Sie die Positionen nach und erklären Sie, welcher Betrag aus welchem Grund offen bleibt. |
 | PE-06 Innenausbau und Mailakte | Finden Sie aus Mails und Protokollen die für eine Entscheidung maßgeblichen Dokumente. | Schreiben Sie einen Entwurf nur für den tatsächlich anstehenden Vorgang und korrigieren Sie ihn nach einem neuen Beleg. |
+| PE-07 Brandschutztüren | Gleichen Sie Türregister, LV, Angebotspreise und Einbausituationen ab. | Rechnen Sie Ergänzungen und Wartung nach, begründen Sie die Wertung geeigneter Angebote und schreiben Sie einen bedingten Freigabevermerk. |
 
 ## 5 Freigabepunkt
 

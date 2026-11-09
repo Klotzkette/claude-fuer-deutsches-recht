@@ -77,6 +77,12 @@ Die folgende Einteilung ist ein Vorschlag für 90 Minuten. Bei wenig Zeit wähle
 
 Erfragen Sie vor jeder Vorführung das gewünschte Produkt. Lassen Sie die Gruppe zuerst ein Ergebnis lesen, dann die Belegstelle öffnen und anschließend die konkrete Änderung beauftragen. So kann die Gruppe an einer sichtbaren Differenz erkennen, welche Anweisung und welcher Beleg die Entscheidung verbessert haben.
 
+### 4.1 Sonderübung zu 500 Brandschutztüren
+
+Bearbeiten Sie PE-07 als eigenständigen Vertiefungsfall. Zählen Sie das Türregister nach, gleichen Sie LV, Türsystem und Einbausituation ab und prüfen Sie den Umfang der Anbieterunterlagen. Für die zehn automatisierten Bürotüren an der Sonderwand benötigen Sie einen auf diese Ausführung bezogenen Nachweis. Behandeln Sie Feuerwiderstand, Rauchschutz, Selbstschließung, Akustik und Barrierefreiheit als einzelne Eigenschaften. [DIBt zu Feuerschutzabschlüssen als Innentüren](https://www.dibt.de/de/bauprodukte/informationsportal-bauprodukte-und-bauarten/produktgruppen/bauprodukte-detail/bauprodukt/feuerschutzabschluesse-als-innentueren-1).
+
+Bringen Sie die vier Angebote zunächst auf denselben Leistungsumfang. Rechnen Sie Lieferung, Montage, Antrieb, Fracht, Inbetriebnahme und Dokumentation anhand der Belege ein. Ermitteln Sie dann die Anschaffung und fünf Jahre vergleichbarer Wartung. Führen Sie bedingte Nachlässe als Szenario. Prüfen Sie je Abschnitt den belegten Termin der Funktionsbereitschaft. Geben Sie erst nach den Muss-Kriterien die Punkte aus dem Vorabvermerk frei. Eine lange Garantie erhält ihre Aussagekraft durch Beginn, Umfang, Voraussetzungen und Ausschlüsse. Eine zugesagte Reaktion des Service ist ein eigener Wert neben Termin der Wiederherstellung und Kosten.
+
 ## 5 Ergebnis und Freigabe
 
 Liefern Sie das bestellte Arbeitsprodukt mit vollständigen Sätzen und klar bezeichneten Eingabefeldern für fehlende Tatsachen. Tabellen ergänzen die Entscheidung und lassen die Rechenwege prüfen. Verwenden Sie für formatierte Dokumente, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Halten Sie den Exporthinweis bei Textausgabe vom Empfängertext getrennt. Nennen Sie den tatsächlich erzeugten Dateityp.

@@ -1,6 +1,6 @@
 # Projekteinkauf Baubranche
 
-Diese Werkstatt richtet sich an Projekteinkäuferinnen und Projekteinkäufer, die KI zum ersten Mal oder gelegentlich einsetzen. Die Unterlagen des fiktiven Bildungscampus Leineaue in Hannover liefern sechs konkrete Aufgaben. Sie beginnen mit einer Anfrage, einem Angebot oder einem auffälligen Beleg. Aus dem Material entstehen ein Preisspiegel, eine Rückfrage, eine Entscheidungsvorlage oder ein versandfertig formulierter Entwurf zur internen Freigabe.
+Diese Werkstatt richtet sich an Projekteinkäuferinnen und Projekteinkäufer, die KI zum ersten Mal oder gelegentlich einsetzen. Sie bearbeiten sechs Vorgänge am fiktiven Bildungscampus Leineaue in Hannover und den Einkauf von 500 Brandschutztüren für einen Bundesbau in Bremen. Aus dem Material entstehen ein Preisspiegel, eine Rückfrage, eine Entscheidungsvorlage oder ein versandfertig formulierter Entwurf zur internen Freigabe.
 
 ## 1 Einstieg
 
@@ -8,17 +8,18 @@ Diese Werkstatt richtet sich an Projekteinkäuferinnen und Projekteinkäufer, di
 
 | Produkt | Zugriff |
 | --- | --- |
-| Installierbares Plugin mit neun Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.10/projekteinkauf-baubranche.zip) |
+| Installierbares Plugin mit neun Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.11/projekteinkauf-baubranche.zip) |
 | Mini-Prompt | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=projekteinkauf-baubranche/projekteinkauf-baubranche-schnellstart.md) |
 | Werkstatt-Prompt | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=projekteinkauf-baubranche/projekteinkauf-baubranche-werkstatt.md) |
 | Master-Prompt | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=testakten/megaprompts/projekteinkauf-baubranche.md) |
 | Excel-Vorlage | [Preisspiegel mit Positionsrechnung](templates/Preisspiegel.xlsx) |
+| Excel-Vorlage für PE-07 | [Preisspiegel und Nutzwert für Brandschutztüren](templates/Brandschutztueren_Preisspiegel.xlsx) |
 
 [Repository-Start](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) · [Skill-Gesamtübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) · [Alphabetische Skill-Liste](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/skills-index/projekteinkauf-baubranche.md) · [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) · [Testakten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/README.md) · [Plugin-Dateien](.)
 
-## 2 Sechs Arbeitsakten
+## 2 Sieben Arbeitsakten
 
-Die Limmerbogen Bau GmbH kauft als Generalunternehmerin für ein privates Bauprojekt ein. Nele Thomsen führt den Projekteinkauf, Carlo Wiegand die Bauleitung und Derya Aksoy die kaufmännische Prüfung. Jede Akte hat eine gestufte Aufgabenstellung und eine bearbeitbare Word-Vorlage.
+In PE-01 bis PE-06 kauft die Limmerbogen Bau GmbH für ein privates Bauprojekt ein. In PE-07 prüft die Krimpfort SE & Co. KG vier Angebote für das Bürohaus einer fiktiven Bundesbehörde. Jede Akte hat gestufte Aufgaben und eine bearbeitbare Word-Vorlage.
 
 | Fall | Aufgabe | Word-Vorlage |
 | --- | --- | --- |
@@ -28,10 +29,11 @@ Die Limmerbogen Bau GmbH kauft als Generalunternehmerin für ein privates Baupro
 | [PE-04 Klinker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/projekteinkauf-klinker-reklamation/README.md) | Anlieferung, Mengen und Qualitätsbefund abgleichen und ein Reklamations- und Verhandlungsangebot entwerfen. | [Reklamationsentwurf](templates/projekteinkauf-klinker-reklamation.docx) |
 | [PE-05 Kran](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/projekteinkauf-kran-nachtrag/README.md) | Zusatzleistung, Anordnung, Leistungszeit und Kosten belegen und den Nachtrag kaufmännisch prüfen. | [Nachtragsvermerk](templates/projekteinkauf-kran-nachtrag.docx) |
 | [PE-06 Innenausbau](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/projekteinkauf-innenausbau-mailakte/README.md) | Eine größere Mailakte nach Fassungen, Anhängen, offenen Fragen und tatsächlicher Freigabe auswerten. | [Chronologie und Freigabevermerk](templates/projekteinkauf-innenausbau-mailakte.docx) |
+| [PE-07 Brandschutztüren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/projekteinkauf-brandschutztueren-krimpfort/README.md) | Vier Angebote für 500 Innentüren nach Eignung, Funktionsbereitschaft, Anschaffung, Wartung, Qualität, Service und Garantie auswerten. | [Vergleichs- und Freigabevermerk](templates/projekteinkauf-brandschutztueren-krimpfort.docx) |
 
 ## 3 Workshop-Downloads
 
-Das Workshop-Paket enthält sechs Originalformat-Akten mit ihren PDF-Lesefassungen, sechs Word-Vorlagen und einen Excel-Preisspiegel. Jede Aktenseite bietet außerdem ein separates Einzel-PDF-ZIP. Die Nachbesprechung steht der Schulungsleitung als eigenes Paket zur Verfügung.
+Das Workshop-Paket enthält sieben Originalformat-Akten mit ihren PDF-Lesefassungen, sieben Word-Vorlagen und zwei Excel-Preisspiegel. Jede Aktenseite bietet ein Einzel-PDF-ZIP. Die Nachbesprechungen stehen der Schulungsleitung als eigenes Paket zur Verfügung.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -39,8 +41,8 @@ Das Workshop-Paket enthält sechs Originalformat-Akten mit ihren PDF-Lesefassung
 
 | Paket | Download |
 | --- | --- |
-| Sechs Arbeitsakten und sieben bearbeitbare Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.10/Projekteinkauf_Baubranche_6_Testakten_und_Vorlagen.zip) |
-| Sechs getrennte Nachbesprechungen mit Rechenwegen und Belegstellen | [Nachbesprechungs-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.10/Projekteinkauf_Baubranche_Nachbesprechung.zip) |
+| Sieben Arbeitsakten und neun bearbeitbare Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.11/Projekteinkauf_Baubranche_7_Testakten_und_Vorlagen.zip) |
+| Sieben getrennte Nachbesprechungen mit Rechenwegen und Belegstellen | [Nachbesprechungs-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.11/Projekteinkauf_Baubranche_Nachbesprechung.zip) |
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

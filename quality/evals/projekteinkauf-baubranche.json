@@ -27,6 +27,11 @@
       "url": "https://www.gesetze-im-internet.de/gwb/__99.html",
       "checked_on": "2026-11-09",
       "supports": "Prüfung der Eigenschaft als öffentlicher Auftraggeber"
+    },
+    {
+      "url": "https://www.dibt.de/de/bauprodukte/informationsportal-bauprodukte-und-bauarten/produktgruppen/bauprodukte-detail/bauprodukt/feuerschutzabschluesse-als-innentueren-1",
+      "checked_on": "2026-11-09",
+      "supports": "Nachweiswege für Feuerschutzabschlüsse als Innentüren einschließlich Bauart"
     }
   ],
   "selection": {
@@ -329,6 +334,77 @@
           ]
         }
       ]
+    },
+    {
+      "id": "pe-07",
+      "request": "Prüfen Sie für die Krimpfort SE & Co. KG die vier Angebote für 500 Brandschutztüren. Führen Sie den Preisspiegel nach jeder Nachreichung fort und legen Sie die Kaufentscheidung samt Nachweisen, Garantie, Mängelrechten und Rückfalloption vor.",
+      "target_skill": "angebote-vergleichen",
+      "input_files": [
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/01_Einkaufsauftrag_Tueren.eml",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/02_BSK_Anforderungsprofil.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/03_Leistungsverzeichnis_Tueren.docx",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/04_Tuerregister_500.xlsx",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/04a_Tuerregister_500.csv",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/05_Wandtypen_und_Montage.docx",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/06_Etappenplan_Systemauszug.png",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/07_Anfrage_Tuerpaket.eml",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/08_Angebot_A_Emswiek.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/09_Angebot_B_Weserfalz.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/10_Angebot_C_Jadeholm.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/11_Angebot_D_Friesenlint.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/12_Rohkalkulation.xlsx",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/13_Rohkalkulation.csv",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/14_A_Nachtragsmail.eml",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/15_A_Preis_und_Systemklarstellung.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/16_B_Nachweismail.eml",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/17_B_Systemmatrix.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/18_B_Kapazitaetsbestaetigung.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/19_C_Qualitaetsmail.eml",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/20_C_Qualitaetsnachweise.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/21_C_Service_und_Termine.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/22_D_Familienmail.eml",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/23_D_Familienblatt.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/24_B_Konditionenmail.eml",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/25_B_Konditionen_Service.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/26_A_Montagefenster.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/27_Vermerk_Beschaffungsweg.docx",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/28_Vergleichsregeln_vor_Angebotseingang.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/29_Hauptvertrag_Service_und_Maengelrechte.pdf",
+        "testakten/projekteinkauf-brandschutztueren-krimpfort/30_Arbeitsauftrag_Tuerpaket.docx"
+      ],
+      "deliverables": [
+        "Brandschutztueren_Preisspiegel.xlsx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "500 Türen und zehn B2-Sonderwandeinbauten abgleichen. A wegen verfehlter Funktionsdaten und D wegen offener Eignung aus der Preiswertung halten.",
+          "deliverables": [
+            "Brandschutztueren_Preisspiegel.xlsx"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Für B und C 648.670 Euro und 703.060 Euro netto auf identischer Fünfjahresbasis belegen. Bedingte Nachlässe und Skonto gesondert behandeln.",
+          "deliverables": [
+            "Brandschutztueren_Preisspiegel.xlsx"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Das 45/25/20/10-Raster mit 74,00 und 96,52 Punkten reproduzieren und die Fundstellen der Zusatzleistungen dokumentieren.",
+          "deliverables": [
+            "Brandschutztueren_Preisspiegel.xlsx"
+          ]
+        },
+        {
+          "id": "pruefung-4",
+          "text": "Technische Freigaben, Termine, Ausweichbindung sowie Mängelrechte und Zusatzgarantien getrennt ausweisen.",
+          "deliverables": [
+            "Brandschutztueren_Preisspiegel.xlsx"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
@@ -338,7 +414,7 @@
       "Belegte Positionen und offene Annahmen sichtbar machen.",
       "Folgeunterlagen in denselben Entwurf einarbeiten."
     ],
-    "sha256": "d09bf8537ef40df727e9652246af6c37424827ac9cb37edb1ec43ef4ab0f42e3"
+    "sha256": "0891db61a319b58d3ec9c9a6056798450db808215abaa3f09c4364e691a3a0cf"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -347,7 +423,7 @@
       "Belegte Positionen und offene Annahmen sichtbar machen.",
       "Folgeunterlagen in denselben Entwurf einarbeiten."
     ],
-    "sha256": "e579e2e3e4ff6a5b445187260838b9591ec34e01461b613b820fbd1c04b25ec1"
+    "sha256": "969619f5ea5f2fa1dbb594cfddd2de98846b45629f50c79e3c962907e49d90bd"
   },
   "prompt_editorial_review": {
     "date": "2026-11-09",
