@@ -19,6 +19,7 @@ import json
 import tempfile
 import xml.etree.ElementTree as ET
 from copy import deepcopy
+from decimal import Decimal
 from email import policy
 from email.parser import BytesParser
 from html import unescape as html_unescape
@@ -53,6 +54,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 import reportlab
 
 from testakte_file_filter import include_in_working_dump
+from testakte_einzelpdf_common import GAEB_XML_EXTS
 from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office_batch, uncached_formula_cells
 from testakte_disclaimer import without_notice_pages
 
@@ -164,7 +166,7 @@ TYPE_ORDER = [
     "pdf",
 ]
 IMAGE_EXTS = {"jpg", "jpeg", "png"}
-STRUCTURED_EXTS = {"json", "yaml", "yml", "xml", "ics", "abc"}
+STRUCTURED_EXTS = {"json", "yaml", "yml", "xml", "ics", "abc"} | GAEB_XML_EXTS
 TYPE_LABEL = {
     "md": "Aktenstücke",
     "txt": "Notizen und Textdateien",
@@ -417,6 +419,8 @@ def structured_text_to_flowables(path: Path) -> list:
                 sort_keys=False,
                 default_flow_style=False,
             )
+        elif ext[1:] in GAEB_XML_EXTS:
+            return gaeb_to_flowables(ET.fromstring(raw), ext[2:])
         elif ext == ".xml":
             root = ET.fromstring(raw)
             ET.indent(root)
@@ -429,6 +433,74 @@ def structured_text_to_flowables(path: Path) -> list:
     if not content.strip():
         raise DocumentRenderError("strukturierte Datei enthält keinen lesbaren Inhalt")
     return txt_to_flowables(content)
+
+
+def gaeb_to_flowables(root: ET.Element, phase: str) -> list:
+    namespace, _, local = root.tag.partition("}")
+    if local != "GAEB" or not namespace.startswith(f"{{http://www.gaeb.de/GAEB_DA_XML/DA{phase}/"):
+        raise DocumentRenderError(f"Die Wurzel passt nicht zur GAEB-Austauschphase {phase}")
+    ns = {"": namespace[1:]}
+    award = root.find("Award", ns)
+    if award is None or award.findtext("DP", namespaces=ns) != phase:
+        raise DocumentRenderError(f"Die GAEB-Austauschphase {phase} fehlt")
+    boq = award.find("BoQ", ns)
+    if boq is None:
+        raise DocumentRenderError("GAEB-Datei ohne Leistungsverzeichnis")
+
+    def iter_items(body, parts=()):
+        if body is None:
+            return
+        for cat in body.findall("BoQCtgy", ns):
+            yield from iter_items(cat.find("BoQBody", ns), (*parts, cat.attrib["RNoPart"]))
+        for item in body.findall("Itemlist/Item", ns):
+            yield ".".join((*parts, item.attrib["RNoPart"])), item
+
+    def element_text(element, path):
+        node = element.find(path, ns)
+        return " ".join(" ".join(node.itertext()).split()) if node is not None else ""
+
+    def amount(value, places):
+        if not value:
+            return ""
+        number = Decimal(value)
+        decimals = max(places, -number.normalize().as_tuple().exponent)
+        return f"{number:,.{decimals}f}".translate(str.maketrans({",": ".", ".": ","}))
+
+    items = list(iter_items(boq.find("BoQBody", ns)))
+    if not items:
+        raise DocumentRenderError("GAEB-Datei ohne lesbare Position")
+    title = "Angebotsaufforderung" if phase == "83" else "Angebotsabgabe"
+    version = root.findtext("GAEBInfo/Version", namespaces=ns)
+    label = boq.findtext("BoQInfo/LblBoQ", namespaces=ns) or boq.findtext("BoQInfo/Name", namespaces=ns)
+    name = award.findtext("CTR/Address/Name1", namespaces=ns)
+    date = root.findtext("GAEBInfo/Date", namespaces=ns)
+    currency = award.findtext("AwardInfo/Cur", "", ns)
+    flow = [Paragraph(f"<b>GAEB DA XML {escape(version or '')} · X{phase} · {title}</b>", s_body)]
+    flow.extend(txt_to_flowables(" · ".join(filter(None, (label, name, date)))))
+    positions = []
+    details = []
+    for oz, item in items:
+        position = element_text(item, "Description/CompleteText/OutlineText") or item.attrib["ID"]
+        quantity = " ".join(filter(None, (amount(item.findtext("Qty", namespaces=ns), 0),
+                                          item.findtext("QU", namespaces=ns))))
+        positions.append([oz, position, quantity, amount(item.findtext("UP", namespaces=ns), 2),
+                          amount(item.findtext("IT", namespaces=ns), 2)])
+        detail = element_text(item, "Description/CompleteText/DetailTxt") or element_text(item, "BidComm")
+        if detail:
+            details.append(f"{oz} {detail}")
+    if phase == "83":
+        rows = [["OZ", "Position", "Menge"]] + [row[:3] for row in positions]
+    else:
+        rows = [["OZ", "Positions-ID", "Menge", f"Einheitspreis {currency}", f"Positionsbetrag {currency}"], *positions]
+    flow.extend(_render_table(rows, header=True))
+    total = boq.findtext("BoQInfo/Totals/TotalNet", namespaces=ns) or boq.findtext("BoQInfo/Totals/Total", namespaces=ns)
+    if total is not None:
+        flow.append(Paragraph(f"<b>Netto im GAEB-Datensatz:</b> {amount(total, 2)} {escape(currency)}", s_body))
+    note_path = "CTR/AddText/DetailAddText" if phase == "84" else "AddText/DetailAddText"
+    note = element_text(award, note_path)
+    flow.extend(txt_to_flowables("\n\n".join(filter(None, (note, *details)))))
+    flow.append(Paragraph("Lesefassung der Positionsdaten. Die unveränderte Austauschdatei liegt in der Originalakte.", s_meta))
+    return flow
 
 
 def eml_to_flowables(path: Path) -> list:

@@ -1,0 +1,176 @@
+{
+  "freigabe_template_sections": [
+    {
+      "heading": "GAEB-Abgleich und Versionskette",
+      "paragraphs": [
+        "Die Referenzfassung lautet [X83, Datum, LV-ID]. Die Angebote [Bieter und X84-Fassung] beziehen sich auf [Bezug]. Die Positionssummen ergeben [Beträge]. Die schriftlichen Ergänzungen betreffen [Umfang, Fundstelle und Wirkung auf Vergleichspreis]."
+      ]
+    },
+    {
+      "heading": "Bindung und Freigaben",
+      "paragraphs": [
+        "Bei dokumentiertem Zugang bis [Stichtag und Uhrzeit] beträgt der Bestellwert [Betrag netto]. Die fünfjährige Wartung beträgt gesondert [Betrag netto]. Der dafür notwendige Rahmen und seine Freigabe ergeben sich aus [Fundstelle]. Bei Fristablauf gilt [Rückfallbetrag und nächstes Bindungsende].",
+        "Vor Bestellung sind [Fachplanung, Bauleitung, Vertragsmanagement und kaufmännische Freigabe] mit [Voraussetzung und Verantwortlichem] zu dokumentieren. Der Versand ist nach [Freigabekette] über [Zeichnungsberechtigte Person] zu veranlassen."
+      ]
+    }
+  ],
+  "verhandlungs_template": {
+    "title": "Verhandlungsleitfaden für das Türpaket",
+    "sections": [
+      {
+        "heading": "Interner Auftrag",
+        "paragraphs": [
+          "Wir führen das Gespräch mit [Anbieter, Datum, Gesprächsform und Vertretung] auf Basis von [X84, Angebotsschreiben, Ergänzungen und internem Freigabestand]. Der gewünschte Abschluss setzt [unverzichtbare Leistung, Nachweise und Termin] voraus. Intern gilt [Rahmen je Kostenblock] bis [Zeitpunkt] gemäß [Freigabevermerk]."
+        ]
+      },
+      {
+        "heading": "Verhandlungsgegenstände",
+        "paragraphs": [
+          "Wir beginnen mit [priorisierter offener Position und Aktenbeleg]. Wir bitten um [konkrete Vertragsformulierung, Beleg und Termin]. Als bedingte Gegenleistung kommt [Abrufplan, Paketierung oder andere belegte Option] in Betracht, sofern [Gegenleistung und Freigabe] schriftlich feststehen.",
+          "Wenn [Kriterium] offen bleibt, wird die Gesprächsposition [ausgesetzt oder an Zuständige übergeben]. Die alternative Beschaffungsoption ist [Anbieter und gesicherte Bindungsfrist]."
+        ],
+        "table": {
+          "headers": [
+            "Gegenstand",
+            "Bisheriger Stand",
+            "Ziel und Austausch",
+            "Schriftlicher Nachweis"
+          ],
+          "rows": [
+            [
+              "[Punkt 1]",
+              "[Quelle und Datum]",
+              "[Ziel oder Zug um Zug]",
+              "[Verantwortlicher und Frist]"
+            ],
+            [
+              "[Punkt 2]",
+              "[Quelle und Datum]",
+              "[Ziel oder Zug um Zug]",
+              "[Verantwortlicher und Frist]"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Gesprächsbestätigung nach außen",
+        "paragraphs": [
+          "Guten Tag [Name], vielen Dank für die Abstimmung zum Türpaket. Bitte bestätigen Sie die Punkte [Anlagenstand, Leistung und Termin] sowie den konkreten Wortlaut zu [Kondition und Bindungsfrist]. Bitte senden Sie [noch benötigte Dokumente] bis [Termin]. Wir prüfen Ihre Antwort mit den zuständigen Stellen. Eine Beauftragung bedarf der gesonderten schriftlichen Bestellung.",
+          "Freundliche Grüße\n[Name und Funktion]"
+        ]
+      }
+    ]
+  },
+  "debrief": {
+    "title": "Nachbesprechung · GAEB und Verhandlung am Weserbogen",
+    "sections": [
+      {
+        "heading": "Austauschphase und Dokumentenbezug",
+        "paragraphs": [
+          "31 ist die preisfreie Angebotsaufforderung X83. 33, 35, 37 und 39 sind die nativen GAEB-Angebote X84 aus den Angebotsmails 32, 34, 36 und 38. Sie verweisen über dieselbe LV-ID auf das gemeinsame Leistungsverzeichnis. Fünf Positions-IDs und die Mengen 360, 50, 54, 24 und 12 ergeben 500 Türen. Die Datei 04 teilt sie auf die einzelnen Einbauorte auf. Der MIME-Abgleich und die GAEB-Schemaprüfung sichern Zuordnung und Struktur. Die technische Eignung wird am vollständigen System mit Einbauuntergrund geprüft.",
+          "Die X84 spiegeln den ursprünglichen Preisstand. Ein späterer Brief kann die Wertungsgrundlage ändern, ohne die ursprüngliche Datei zu ändern. In der Chronologie ist je Position zu belegen, was neu hinzukommt. Für A wird etwa der ursprünglich fehlende B2-Antrieb in 15 gesondert beziffert."
+        ],
+        "table": {
+          "headers": [
+            "Bieter",
+            "X84-Grundsumme netto",
+            "Anschaffung vollständig",
+            "Vergleich 5 Jahre netto"
+          ],
+          "rows": [
+            [
+              "A Emswiek",
+              "479.220,00 EUR",
+              "606.460,00 EUR nach 15",
+              "650.960,00 EUR vor Eignung"
+            ],
+            [
+              "B Weserfalz",
+              "606.420,00 EUR",
+              "606.420,00 EUR",
+              "648.670,00 EUR"
+            ],
+            [
+              "C Jadeholm",
+              "649.060,00 EUR",
+              "649.060,00 EUR",
+              "703.060,00 EUR"
+            ],
+            [
+              "D Friesenlint",
+              "510.940,00 EUR",
+              "Offen für konkreten Einbau",
+              "Nicht vergleichbar"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Eignung und unveränderte Basiswertung",
+        "paragraphs": [
+          "A erhält die verlangte Funktionsbereitschaft in den drei Etappen nicht. Die bestätigten Daten stehen in 26. Für D fehlen trotz 23 der Nachweis für W-S und die S1-Kombination, vergleichbare Wartung und ein belastbarer Terminplan. B und C bleiben unter Vorbehalt der Freigabe der vollständigen Nachweise vergleichbar.",
+          "B erhält in der Basis 74,00 Punkte mit 45,00 für den Preis und 5, 16 sowie 8 für Qualität, Termin und Service. C erhält 96,52 Punkte mit 41,52 für den Preis und 25, 20 sowie 10 für die übrigen Blöcke. Der Mehrpreis über fünf Jahre beträgt 54.390,00 Euro netto. Dokument 47 bestätigt für B die erforderliche Serienliste je Etappe. Der digitale Export mit verknüpfter Seriennummer bleibt ein eigenständiges Qualitätsmerkmal. Dokument 45 konkretisiert bei C den Beginn der Vor-Ort-Frist. Es entsteht daraus kein zusätzlicher Punkt über die vorhandene Bewertung hinaus."
+        ]
+      },
+      {
+        "heading": "Rechenprobe für die Freigabe am 4. Dezember",
+        "page_break_before": true,
+        "paragraphs": [
+          "Der Verhandlungsrahmen 41 trennt 645.000 Euro für die Anschaffung und 55.000 Euro für fünf Jahre Wartung. Eine Überschreitung oder Umbuchung braucht eine schriftliche Zustimmung der kaufmännischen Direktion. Für die Wertung bleibt der Vergleichspreis aus 28 maßgeblich. Für die Bestellfreigabe ist der tatsächlich gebundene Betrag unter seinen Voraussetzungen zu prüfen."
+        ],
+        "table": {
+          "headers": [
+            "Szenario",
+            "Anschaffung netto",
+            "Wartung 5 Jahre",
+            "Summe netto"
+          ],
+          "rows": [
+            [
+              "B bis 04.12., 16 Uhr mit 1,5 %",
+              "597.323,70 EUR",
+              "42.250,00 EUR",
+              "639.573,70 EUR"
+            ],
+            [
+              "B bis 11.12., 16 Uhr regulär",
+              "606.420,00 EUR",
+              "42.250,00 EUR",
+              "648.670,00 EUR"
+            ],
+            [
+              "C bis 18.12., 16 Uhr mit 1 %",
+              "642.569,40 EUR",
+              "54.000,00 EUR",
+              "696.569,40 EUR"
+            ],
+            [
+              "C ohne Paketnachlass",
+              "649.060,00 EUR",
+              "54.000,00 EUR",
+              "703.060,00 EUR"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Verhandlung, Zugriff und Rückfall",
+        "paragraphs": [
+          "B bindet den Paketnachlass bis zum Zugang der Bestellung am 4. Dezember um 16 Uhr. Dokument 47 enthält keine Verlängerung dieses Nachlasses. 50 setzt die interne Zielmarke 15.15 Uhr für die Freigaben. Bei Ablauf bleibt nur die reguläre Bindung bis 11. Dezember um 16 Uhr oder eine ausdrücklich bestätigte Verlängerung. Das Skonto bleibt nach 48 und 49 eine getrennte Möglichkeit je prüffähiger Teilrechnung. Der bis zu acht Arbeitstage dauernde Prüfweg garantiert die Einhaltung der zehn Kalendertage nicht.",
+          "C bestätigt in 45 die Rabattbasis bei Gesamtbestellung trotz anschließender Teilabrufe. Die Anschaffung unterschreitet dann den eigenen Rahmen um 2.430,60 Euro. Ohne Nachlass liegt sie 4.060 Euro darüber. Die Wartung liegt mit 54.000 Euro separat innerhalb der 55.000 Euro. Vor Bindungsende sind insbesondere die vollständigen Nachweise aus dem geschützten Datenraum, die Anschlussfreigabe und die Garantiebedingungen zu Anfahrt und Aus- sowie Einbau zu klären."
+        ]
+      },
+      {
+        "heading": "Bedingte Empfehlung und Gesprächsentwurf",
+        "page_break_before": true,
+        "paragraphs": [
+          "Am dokumentierten Stichtag liegt keine fachliche Bestellfreigabe vor. Die Projektleitung kann C für die Entscheidung vorbereiten, wenn Systemfreigabe, Lieferplan, verbindlicher Vertragswortlaut und Budget nach Paketnachlass gesichert sind. Vor einer späteren Entscheidung ist die reguläre Rückfallbindung von B aktiv zu sichern. Die Fachplanerin Brandschutz und die Bauleitung bestätigen die technische Ausführung und die Vorleistungen getrennt. Das Vertragsmanagement bestätigt Umfang, Garantie und Service. Einkaufsleitung und Projektleitung genehmigen den Auftrag im System. Die zeichnungsberechtigte Person versendet die Bestellung. Ein Entwurf oder ein Rücklauf zum Gespräch ist keine Bestellung.",
+          "Geeigneter nächster Entwurf an C",
+          "Guten Tag Herr Sander, bitte stellen Sie die vollständigen Anlagen zum System JH-50 mit Platte JH-PL8 für die Öffnungen E4-073 bis E4-082 für unsere Fachprüfung bereit. Bitte ergänzen Sie die Vertragsanlage um die Behandlung von Anfahrt sowie Aus- und Einbau bei einem anerkannten Garantiefall. Bestätigen Sie bitte nochmals die drei Funktionsdaten und die Voraussetzungen für die Gesamtbestellung bis 18. Dezember um 16 Uhr mit nachgelagerten Teilabrufen. Eine Beauftragung erfolgt gegebenenfalls gesondert.",
+          "Diskussionsfrage für die Live-Demo",
+          "Welche einzelne Information würde die Auswahl zwischen C und B heute am stärksten verändern? Begründen Sie die Antwort anhand der noch offenen Fachfreigabe, der wirtschaftlichen Differenz und der Frist, bis zu der B als Ausweichoption tatsächlich gebunden bleibt."
+        ]
+      }
+    ]
+  }
+}

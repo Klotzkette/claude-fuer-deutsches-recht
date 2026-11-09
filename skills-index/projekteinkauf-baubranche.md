@@ -1,6 +1,6 @@
 # projekteinkauf-baubranche
 
-**9 Skills** · Stand `v445.35.10`
+**9 Skills** · Stand `v445.35.11`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../projekteinkauf-baubranche/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

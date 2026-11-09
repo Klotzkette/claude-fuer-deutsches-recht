@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 313 Plugins, 23408 Skills.
+Stand v445.35.3: 314 Plugins, 23418 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -28,6 +28,7 @@ Stand v445.35.3: 313 Plugins, 23408 Skills.
 | [`barrierefreiheit-web-checker`](../barrierefreiheit-web-checker/) | Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme. | `445.35.3` | 60 |
 | [`bautraegervertrag-pruefer`](../bautraegervertrag-pruefer/) | Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, Paragrafen 650u/650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe. | `445.35.3` | 31 |
 | [`bautraegervertragspruefer`](../bautraegervertragspruefer/) | Prüft deutsche Bauträgerverträge: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklärung. Liefert Mandantengutachten und Aufforderungsschreiben an Bauträger und Notar. | `445.35.3` | 31 |
+| [`bauunternehmer-einkauf`](../bauunternehmer-einkauf/) | Arbeitswerkstatt für den strategischen und operativen Einkauf in großen Bauunternehmen. Deckt Beschaffungsstrategie, Lieferantenauswahl, Anfragen, GAEB-Angebote, Preisspiegel, Verhandlungen, Bestellung, Abnahme und Nachträge ab. | `445.35.12` | 10 |
 | [`bauvergabe-bieter`](../bauvergabe/bauvergabe-bieter/) | Bauvergabe Bieter für öffentliche Bauaufträge mit zehn Fachskills und einem Hauptskill vom konkreten Auftrag zum vollständigen Arbeitsergebnis. | `445.35.1` | 11 |
 | [`bauvergabe-nachtragsmanagement`](../bauvergabe/bauvergabe-nachtragsmanagement/) | Zehn Fachskills und ein Hauptskill für Auftragnehmer nach dem Zuschlag: Nachtragsgrund, Preise, Bauzeit, Abrechnung, Sicherung und getrennte Prüfung öffentlicher Auftragsänderungen. | `445.35.3` | 11 |
 | [`bauvergabe-rechtsschutz`](../bauvergabe/bauvergabe-rechtsschutz/) | Bauvergabe Rechtsschutz für öffentliche Bauaufträge mit zehn Fachskills und einem Hauptskill vom konkreten Auftrag zum vollständigen Arbeitsergebnis. | `445.35.1` | 11 |

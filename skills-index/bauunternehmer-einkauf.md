@@ -1,0 +1,40 @@
+# bauunternehmer-einkauf
+
+**10 Skills** · Stand `v445.35.12`
+
+[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauunternehmer-einkauf/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+
+## Downloads
+
+| Paket | Format | Link |
+| --- | --- | --- |
+| **Großer Prompt (Werkstatt)** | Markdown | [`bauunternehmer-einkauf-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart)** | Markdown | [`bauunternehmer-einkauf-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-schnellstart.md) |
+| **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Plugin (installierbar)** | ZIP | [bauunternehmer-einkauf.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.12/bauunternehmer-einkauf.zip) |
+
+## So benutzt man einen Skill
+
+Diese alphabetische Liste zeigt alle Skills im Quellbestand. Umfangreiche Spezialserien werden im installierten Paket teilweise über einen Fachrouter geöffnet und sind dann keine eigenen Menüeinträge. Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts außerhalb des Plugin-ZIPs.
+
+English: This index lists source skills, including specialist series accessed through topic routers in the installed package. Workshop and quick-start files are separate standalone prompts. A skill download provides unchanged Markdown, not an installation; additional references or tools may be required.
+
+- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen und entpacken. Es enthält neben jeder `SKILL.md` auch deren Markdown-Referenzen; beim manuellen Einsatz die benötigten Dateien gemeinsam bereitstellen.
+- **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.
+
+## Skills in diesem Plugin
+
+| Skill | Beschreibung | Markdown-Datei |
+| --- | --- | --- |
+| [`angebote-einholen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/angebote-einholen/SKILL.md) | Entwirft konsistente Angebotsanfragen für Material- und Nachunternehmerpakete im Bau. Legt LV-Stand, Preisumfang, Termine, Nachweise, Rückgabeformat und Umgang mit Varianten fest. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/angebote-einholen/SKILL.md) |
+| [`angebote-vergleichen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/angebote-vergleichen/SKILL.md) | Normalisiert Bauangebote in einem belegten Preisspiegel. Rechnet Optionen, Zusatzkosten und Wartung getrennt und wendet vorab dokumentierte Mindestanforderungen und Wertungskriterien an. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/angebote-vergleichen/SKILL.md) |
+| [`bedarf-und-beschaffungsstrategie`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/bedarf-und-beschaffungsstrategie/SKILL.md) | Leitet für Bauunternehmen aus Bedarf, Projektterminen, Schnittstellen und Kapazitäten eine Beschaffungsstrategie ab. Eignet sich für Paketschnitt, Bündelung, Eigenleistung, Fremdleistung und Ersatzkonzepte. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/bedarf-und-beschaffungsstrategie/SKILL.md) |
+| [`bestellung-und-vertrag-absichern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/bestellung-und-vertrag-absichern/SKILL.md) | Führt die freigegebene Angebotsfassung in Bestell- und Vertragsentwürfe für Baupakete über. Prüft Anlagenrang, Freigabebedingungen, Montage, Abnahme, Service, Garantie und Mängelrechte. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/bestellung-und-vertrag-absichern/SKILL.md) |
+| [`einkauf-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/einkauf-steuern/SKILL.md) | Steuert komplexe Bau-Einkaufsvorgänge vom Bedarf bis zum Vertrag und zur Nachverfolgung. Erstellt eine belegte Entscheidungsliste und verteilt Fachfragen auf die zuständigen Schritte. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/einkauf-steuern/SKILL.md) |
+| [`gaeb-angebote-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/gaeb-angebote-pruefen/SKILL.md) | Prüft X83-Anfragen und X84-Angebote auf Austauschphase, Schema, LV-Gleichstand, Positionsrechnung und Abweichungen zu PDF-Angebot und Mail-Nachträgen. Erstellt einen nachvollziehbaren Importvermerk. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/gaeb-angebote-pruefen/SKILL.md) |
+| [`lieferanten-und-nachunternehmer-auswaehlen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/lieferanten-und-nachunternehmer-auswaehlen/SKILL.md) | Erstellt eine belegte Shortlist für Lieferanten und Nachunternehmer. Prüft Firmenidentität, technische Referenzen, verfügbare Kapazität, Serviceabdeckung und erforderliche Freigaben. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/lieferanten-und-nachunternehmer-auswaehlen/SKILL.md) |
+| [`lieferung-und-abnahme-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/lieferung-und-abnahme-steuern/SKILL.md) | Steuert Lieferung, Baustellenlogistik, Einbau, Funktionsprüfung und Abnahme eines Baupakets. Verknüpft Termine mit Vorleistungen, Teilleistungen, Prüfbelegen und Ausweichabläufen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/lieferung-und-abnahme-steuern/SKILL.md) |
+| [`nachtraege-und-reklamationen-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/nachtraege-und-reklamationen-bearbeiten/SKILL.md) | Bearbeitet Zusatzforderungen, Lieferabweichungen und Mängel im Bau-Einkauf. Verknüpft Anzeige, Belege, Vertrag, Ursache und Kostenauswirkung mit einer fallbezogenen Reaktion. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/nachtraege-und-reklamationen-bearbeiten/SKILL.md) |
+| [`verhandlungen-fuehren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/verhandlungen-fuehren/SKILL.md) | Bereitet Einkaufsverhandlungen mit Zielkorridor, belastbarer Ausweichoption, Zugeständnissen und getrennten Gesprächsunterlagen vor. Führt protokollierte Ergebnisse in die Entscheidung über. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/verhandlungen-fuehren/SKILL.md) |

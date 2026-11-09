@@ -208,6 +208,16 @@
       }
     },
     {
+      "name": "bauunternehmer-einkauf",
+      "version": "445.35.12",
+      "description": "Arbeitswerkstatt für den strategischen und operativen Einkauf in großen Bauunternehmen. Deckt Beschaffungsstrategie, Lieferantenauswahl, Anfragen, GAEB-Angebote, Preisspiegel, Verhandlungen, Bestellung, Abnahme und Nachträge ab.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./bauunternehmer-einkauf"
+    },
+    {
       "name": "bauvergabe-bieter",
       "description": "Bauvergabe Bieter für öffentliche Bauaufträge mit zehn Fachskills und einem Hauptskill vom konkreten Auftrag zum vollständigen Arbeitsergebnis.",
       "author": {

@@ -16,6 +16,8 @@ from pathlib import Path
 from testakte_file_filter import include_in_working_dump
 from testakte_zip_common import flat_archive_pairs, preserves_directories, structured_archive_pairs
 
+GAEB_XML_EXTS = {"x83", "x84"}
+
 # Dokumente, die in eine eigene PDF gerendert werden. Strukturierte Rohdaten
 # bleiben im Arbeitsdateien-ZIP im Originalformat und erhalten zusätzlich eine
 # lesbare Einzel-PDF, damit beide Archive denselben Aktenbestand abbilden.
@@ -34,7 +36,7 @@ RENDER_EXTS = {
     "xml",
     "ics",
     "abc",
-}
+} | GAEB_XML_EXTS
 # Bilder werden in eine PDF-Seite eingebettet.
 IMAGE_EXTS = {"jpg", "jpeg", "png"}
 # PDFs werden unveraendert uebernommen (Original-Layout bleibt erhalten).
