@@ -38,13 +38,13 @@ Beginnen Sie mit den frühen Stücken. Lassen Sie das Modell seine Rechnung, den
 
 ### 3.1 Soloakte Hubertus Tomasius
 
-Die [Soloakte für das Jahr 2025](tomasius-solo/README.md) enthält Betrieb und privaten Alltag eines Programmierers, Datenschutzbeauftragten, Musiklehrers und Autors. Die Materialien gehören zum gemeinsamen Steuerrechts-Plugin.
+Die [Soloakte für das Jahr 2025](tomasius-solo/README.md) enthält Betrieb und privaten Alltag eines Programmierers, Datenschutzbeauftragten, Musiklehrers und Autors. Zur Einkommensteuer gehören auch die Prüfung seines Erwerbsstatus an der Musikschule und die Unterlagen zu einer vermieteten Wohnung in Rom. Die Materialien gehören zum gemeinsamen Steuerrechts-Plugin.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Originalakte Tomasius mit UStVA-Verfahren als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/Testakte_Tomasius_UStVA_Einspruch_2025_v3.zip)
+[Vollständige Tomasius-Akte als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/tomasius-steuerakte-v4/Testakte_Tomasius_2025_Rom_Musikschule_v4.zip)
 
 ## 4 Word-Vorlagen
 

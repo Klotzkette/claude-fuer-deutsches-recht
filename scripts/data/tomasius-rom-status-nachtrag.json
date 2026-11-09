@@ -1,0 +1,731 @@
+{
+  "musik": [
+    {
+      "filename": "01_Stundenplan_und_Verwaltungsablauf.eml",
+      "subject": "SVA-25 im Herbst · Raum und Eintrag der Unterrichtseinheiten",
+      "from_name": "Mara Kirschner",
+      "from_email": "mara.kirschner@musikschule-freiburg-nord.example",
+      "to_email": "hubertus@tomasius.example",
+      "date": "2025-09-18T11:42:00+02:00",
+      "paragraphs": [
+        "Guten Tag Herr Tomasius, Ihr Vorschlag für Donnerstag passt in den Raumplan. Den ursprünglich reservierten Dienstag gebe ich wieder frei. Ich habe die Ihnen zugeordneten SVA-25-Plätze mit den Zeitfenstern in den Anhang übernommen. Bitte geben Sie kurz Bescheid, wenn Sie zwischen zwei Unterrichtsblöcken mehr Zeit brauchen. Wir informieren die Familien gesammelt.",
+        "Die Schule nimmt die Teilnehmenden auf, legt die Beiträge fest und versendet die Einladungen. Bitte führen Sie die Anwesenheit unter SVA-25-HT bis zum jeweiligen Monatsabschluss im Portal. Über Reihenfolge, Übungen, Repertoire und die Wahl geeigneter Stücke entscheiden Sie wie bisher selbst. Die Schule braucht im Dezember pro Platz einen kurzen Stand für das Aufnahmegespräch im Januar. Format und Umfang stehen im Raumplan.",
+        "Wenn Sie einen Termin ändern möchten, schlagen Sie uns bitte einen freien Raumtermin vor. Innerhalb des bestätigten Blocks können Sie die Reihenfolge nach Absprache mit den Familien tauschen. Der Raumdienst darf die Räume nur für die im Schulportal eingetragenen Termine freigeben.",
+        "Viele Grüße\nMara Kirschner\nSchulverwaltung"
+      ],
+      "attachments": [
+        "02_Raum_und_Gruppenplan_Herbst_2025.pdf"
+      ]
+    },
+    {
+      "filename": "02_Raum_und_Gruppenplan_Herbst_2025.pdf",
+      "title": "Raum- und Gruppenplan · Herbst 2025",
+      "issuer": "Städtische Musikschule Freiburg Nord",
+      "date": "2025-09-18",
+      "sections": [
+        {
+          "heading": "Schulverwaltung · SVA-25-HT",
+          "paragraphs": [
+            "Honorarvertrag vom 2. Januar 2025. Auszug aus dem bestätigten Plan für Violine und Klavier am Lindenplatz 6. Die nachstehenden Raumfenster enthalten die Übergabezeiten. Abrechnungsfähig sind die jeweils dokumentierten Einheiten nach der Honorarvereinbarung."
+          ],
+          "table": {
+            "headers": [
+              "Zeitraum",
+              "Zeitfenster und Raum",
+              "Einsatz und Zuordnung"
+            ],
+            "rows": [
+              [
+                "Donnerstage im Oktober",
+                "15.40 bis 18.20 Uhr · K 2",
+                "10 Einheiten im Monat. Plätze HT-01, HT-02 und HT-03."
+              ],
+              [
+                "Donnerstage im November",
+                "15.40 bis 18.20 Uhr · K 2",
+                "10 Einheiten im Monat. Umplanung im Portal möglich."
+              ],
+              [
+                "4., 11. und 18. Dezember",
+                "15.00 bis 18.30 Uhr · K 2",
+                "10 Einheiten im Monat. Das Zeitfenster am 18. Dezember ist eine Reserve für Rückfragen nach dem Unterricht."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Freigabe und Nutzung",
+          "paragraphs": [
+            "Die Verwaltung teilt die SVA-Plätze zu. Veränderungen bei der Aufnahme oder eine Neuzuordnung von Plätzen gehen über das Schulbüro. Die Lehrkraft schlägt Unterrichtszeiten vor. Die Verwaltung gibt sie nach Abstimmung mit den Familien und dem Raumdienst im Portal frei.",
+            "K 2 liegt im Hauptgebäude. Das Klavier, die Notenständer und der Übungsraum gehören der Schule. Herr Tomasius bringt eigenes Material und seine Violine mit. Nutzung für eigene Kurse oder fremde Schülerinnen und Schüler bedarf einer gesonderten Raumvereinbarung."
+          ]
+        },
+        {
+          "heading": "Kurzer Lernstandsvermerk",
+          "paragraphs": [
+            "Je zugeordnetem Platz sind drei bis fünf Sätze zu Repertoire, Arbeitsschwerpunkt und Vorbereitung auf die Aufnahmeprüfung im Portal zu hinterlegen. Abgabe bis 19. Dezember. Die Schulleitung gibt das Formular vor. Die fachliche Beurteilung erstellt die Lehrkraft selbst."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "03_Vertretungsanfrage_und_Nachholtermin.eml",
+      "subject": "Re: SVA-25 im Herbst · Ersatz für den 13. November",
+      "from_name": "Mara Kirschner",
+      "from_email": "mara.kirschner@musikschule-freiburg-nord.example",
+      "to_email": "hubertus@tomasius.example",
+      "date": "2025-11-12T16:37:00+01:00",
+      "paragraphs": [
+        "Guten Tag Herr Tomasius, ich habe Ihren Vorschlag für Frau Paula Reiter mit der Schulleitung besprochen. Die Schule führt sie nicht im geprüften Vertretungspool. Ihre Unterlagen reichen für den Einsatz morgen nicht aus. Bitte lassen Sie Frau Reiter daher morgen nicht unterrichten und geben Sie ihr weder die Kontaktdaten der Familien noch den Schlüssel.",
+        "Helene Amselried hat Ihr Angebot für den 27. November angenommen. Die beiden für den 13. November vorgesehenen Einheiten HT-01 und HT-02 hängen wir an den bestehenden Block an. K 2 ist bis 18.50 Uhr bestätigt. Ihre Nachricht an die Familien leite ich über unser Portal weiter. Die beiden November-Einheiten rechnen Sie wie geplant im November ab. Für den ausgefallenen Termin tragen Sie im Portal keine zusätzlich vergütete Einheit ein.",
+        "Für einen späteren Ausfall können Sie eine geeignete Vertretung erneut vorschlagen. Bei einer Person, deren Nachweise uns vorliegen, reicht vorab die schriftliche Bestätigung durch die Schulleitung. Die Kosten der von Ihnen vorgeschlagenen Vertretung wären nach der mit Ihnen besprochenen Abrede aus Ihrem Honorar zu tragen. Bitte nennen Sie uns in dem Fall die betroffenen Einheiten und den Zeitraum.",
+        "Viele Grüße\nMara Kirschner"
+      ],
+      "reply_to": "01_Stundenplan_und_Verwaltungsablauf.eml"
+    },
+    {
+      "filename": "04_Unterrichts_und_Honorarabgleich_IV_2025.pdf",
+      "title": "Unterrichts- und Honorarabgleich · IV/2025",
+      "issuer": "Städtische Musikschule Freiburg Nord",
+      "date": "2026-01-08",
+      "sections": [
+        {
+          "heading": "Auszug aus der Verwaltungsakte",
+          "paragraphs": [
+            "Vertrag vom 2. Januar 2025. Lehrkraft Hubertus Tomasius. Sämtliche Positionen gehören zum Lehrgang SVA-25. Der Abgleich führt die nach Monatsabschluss dokumentierten Unterrichtseinheiten und die drei Abschlagsbeträge der Jahresvergütung zusammen."
+          ],
+          "table": {
+            "headers": [
+              "Monat",
+              "Einheiten",
+              "Beleg und Zahlung"
+            ],
+            "rows": [
+              [
+                "Oktober",
+                "10 Einheiten. 2., 9., 16. und 23. Oktober.",
+                "HT-2025-MUS-10 · 650,00 EUR · Zahlung 28.10.2025"
+              ],
+              [
+                "November",
+                "10 Einheiten. 6., 20. und 27. November. Zwei Einheiten vom 13. auf den 27. November verlegt.",
+                "HT-2025-MUS-11 · 650,00 EUR · Zahlung 28.11.2025"
+              ],
+              [
+                "Dezember",
+                "10 Einheiten. 4., 11. und 18. Dezember.",
+                "HT-2025-MUS-12 · 650,00 EUR · Zahlung 29.12.2025"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Rechnungsweg und Terminabweichung",
+          "paragraphs": [
+            "Die Zahlungen wurden nach den Rechnungen von Herrn Tomasius angewiesen. Das vereinbarte Jahreshonorar von 7.800,00 EUR ist in zwölf Monatsbeträge zu je 650,00 EUR einschließlich des Ferienausgleichs aufgeteilt. Für das vierte Quartal wurden 1.950,00 EUR angewiesen. Die Verlegung im November änderte den Betrag nicht.",
+            "Die Einheiten am 27. November wurden von Herrn Tomasius persönlich durchgeführt. Eine Vertretung wurde im vierten Quartal nicht abgerechnet. Das Schulbüro prüfte die Einheitennachweise gegen das Portal. Die Unterrichtsmethode und die Auswahl der Stücke wurden dabei nicht protokolliert."
+          ]
+        },
+        {
+          "heading": "Zeichnung",
+          "paragraphs": [
+            "Mara Kirschner · Schulverwaltung. Freiburg im Breisgau, 8. Januar 2026."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "05_Eingang_Nachtrag_127_SGB_IV.eml",
+      "subject": "Eingang Ihres Nachtrags zum Vertrag vom 2. Januar 2025",
+      "from_name": "Mara Kirschner",
+      "from_email": "mara.kirschner@musikschule-freiburg-nord.example",
+      "to_email": "hubertus@tomasius.example",
+      "date": "2026-04-28T10:15:00+02:00",
+      "paragraphs": [
+        "Guten Tag Herr Tomasius, ich bestätige den Eingang Ihres Nachtrags vom 27. April 2026 zur Zustimmung nach § 127 SGB IV. Er ging heute um 9.38 Uhr im Schulbüro ein. Die unterschriebene Fassung liegt bei der ursprünglichen Erklärung und unserer Eingangsbestätigung vom Mai 2025. Ihre ausdrückliche Zustimmung für den verlängerten Zeitraum ist damit aktenkundig.",
+        "Die Zustimmung ist dem Vertrag vom 2. Januar 2025 zugeordnet. Einen Statusbescheid haben wir in diesem Vorgang bislang nicht erhalten. Bitte teilen Sie uns mit, wenn sich der tatsächliche Ablauf, die Vergütung oder die Vertretung ändern. Der Nachtrag ändert den Honorarvertrag und den Einsatzplan nicht.",
+        "Freundliche Grüße\nMara Kirschner\nSchulverwaltung"
+      ]
+    },
+    {
+      "filename": "06_Tatsachenprotokoll_Unterrichtspraxis.pdf",
+      "title": "Tatsachenprotokoll zur Unterrichtspraxis",
+      "issuer": "Städtische Musikschule Freiburg Nord",
+      "date": "2026-11-04",
+      "sections": [
+        {
+          "heading": "Abgleich zur Jahresakte 2025",
+          "paragraphs": [
+            "Besprechung am 4. November 2026, 9.00 bis 9.35 Uhr im Schulverwaltungsbüro am Lindenplatz 6. Anwesend waren Hubertus Tomasius, Schulleiterin Helene Amselried und Mara Kirschner. Gegenstand waren die tatsächlichen Abläufe im Kalenderjahr 2025 zum Honorarvertrag vom 2. Januar 2025.",
+            "Kirschner legte den Herbstplan, die im Portal abgezeichnete Einheitendokumentation und die Aufstellung zum vierten Quartal vor. Tomasius erläuterte die Unterrichtsgestaltung und den erfolglosen Vertretungsvorschlag im November. Die Beteiligten lasen das Protokoll gemeinsam gegen."
+          ]
+        },
+        {
+          "heading": "Schulorganisation und Wahlmöglichkeiten",
+          "paragraphs": [
+            "Die Schule nahm die Teilnehmenden auf, legte den Beitrag fest und rechnete ihn selbst mit den Familien ab. Tomasius hatte keine Ansprüche gegen die Teilnehmenden und konnte frei werdende SVA-Plätze nicht selbst belegen. Die Verwaltung ordnete Räume, Zeiten und Teilnehmendencodes im Portal zu. Tomasius schlug den Wechsel vom Dienstag zum Donnerstag vor. Nach der Freigabe organisierte er Reihenfolge und Dauer der Blöcke mit den Familien im verfügbaren Rahmen.",
+            "Tomasius bestimmte Aufbau, Übungen, Repertoire und Rückmeldungen selbst. Die Schule verlangte die Zuordnung zum Lehrplan SVA-25, Anwesenheitseinträge und einen knappen Lernstandsvermerk. Sie stellte Räume, Klavier und Notenständer ohne gesonderte Kosten. Tomasius stellte seine Violine, Noten und sein Tablet. Private Kundschaft wurde im Schulraum nicht unterrichtet."
+          ]
+        },
+        {
+          "heading": "Vergütung, Durchführung und Vertretung",
+          "paragraphs": [
+            "Vereinbart waren zehn Unterrichtseinheiten im Monat und ein Jahreshonorar von 7.800,00 EUR. Der Monatsbetrag von 650,00 EUR hing nicht von der Höhe der von der Schule vereinnahmten Elternbeiträge ab. Er wurde nach Rechnung und Abgleich des Einheitennachweises angewiesen. Ausgefallene Einheiten konnten nachgeholt werden. Bezahlter Urlaub oder ein Anspruch auf ein gesondertes Krankheitsentgelt wurden in der Besprechung von keiner Seite benannt.",
+            "Nach der Vereinbarung konnte Tomasius eine fachlich geeignete Vertretung auf eigene Kosten vorschlagen. Vor dem Einsatz verlangte die Schule eine Freigabe. Die einzige 2025 konkret vorgeschlagene Vertretung kam mangels rechtzeitiger Prüfung nicht zum Einsatz. Tomasius holte die Einheiten selbst nach. Tomasius arbeitete daneben für eigene Programmier- und Datenschutzauftraggeber. Für diese Mandate nutzte er die Infrastruktur der Schule nicht."
+          ]
+        },
+        {
+          "heading": "Protokollfreigabe",
+          "paragraphs": [
+            "Freiburg im Breisgau, 4. November 2026.",
+            "Als Wiedergabe der besprochenen Abläufe freigegeben. Helene Amselried, Schulleitung. Hubertus Tomasius, Lehrkraft. Mara Kirschner, Protokoll."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "07_Mandantenmail_zur_Statuspruefung.eml",
+      "subject": "Musikschule · Unterlagen zur Jahreserklärung 2025",
+      "from_name": "Hubertus Tomasius",
+      "from_email": "hubertus@tomasius.example",
+      "to_email": "felix@boscherharb.example",
+      "date": "2026-11-05T17:20:00+01:00",
+      "paragraphs": [
+        "Guten Tag Herr Boscherharb, ich ergänze die Jahresmappe um die Unterlagen der Musikschule. Im Novembergespräch haben wir den tatsächlichen Ablauf im letzten Jahr festgehalten. Die Schule hat mich in der Planung wie die übrigen Lehrkräfte geführt. In der Unterrichtsstunde konnte ich meine Stücke, Übungen und Unterrichtsmethode selbst wählen. Als ich einmal einen Ersatz vorgeschlagen habe, musste ich am Ende selbst nachholen. Bei Software und Datenschutz läuft es anders. Dort spreche ich meine Termine und Leistungen direkt mit den einzelnen Auftraggebern ab.",
+        "Ich hatte meine Tätigkeit für die Schule seit dem Vertragsschluss als eigenes Honorar abgerechnet. Meine Zustimmung vom Mai 2025 und der Nachtrag vom April 2026 liegen der Schule vor. Von der Rentenversicherung habe ich zu diesem Vertrag keinen Statusbescheid bekommen und bisher selbst keinen Antrag gestellt. Die Zahlungen und Rechnungen in der Jahresmappe stimmen weiterhin. Die zuletzt besprochenen Unterlagen zum Einspruch und zur Klagevorbereitung betreffen unverändert das vierte Umsatzsteuervierteljahr.",
+        "Können Sie bitte für die Jahreserklärung prüfen, wie die Schulzahlungen zu erfassen sind und welche Bedeutung meine Zustimmung dabei hat? Bitte sagen Sie mir auch, ob wir für die sozialversicherungsrechtliche Prüfung noch Unterlagen nachreichen oder jemanden hinzuziehen sollten. Den Sachverhalt würde ich gern vor einer Erklärung gegenüber dem Finanzamt oder der Versicherung mit Ihnen abstimmen.",
+        "Viele Grüße\nHubertus Tomasius"
+      ],
+      "attachments": [
+        "06_Tatsachenprotokoll_Unterrichtspraxis.pdf",
+        "04_Unterrichts_und_Honorarabgleich_IV_2025.pdf"
+      ]
+    }
+  ],
+  "rom": [
+    {
+      "filename": "01_Rom_Mietvertrag_DE_EN.docx",
+      "title": "Wohnraummietvertrag | Residential Tenancy Agreement",
+      "issuer": "Hubertus Tomasius und Oliver James Mercer",
+      "date": "2024-12-20",
+      "sections": [
+        {
+          "heading": "1 Parteien und Mietgegenstand | Parties and Premises",
+          "paragraphs": [
+            "Hubertus Tomasius, Untere Gerbergasse 14, 79098 Freiburg im Breisgau, Deutschland, ist Vermieter. Prof. Dr. Oliver James Mercer, bei Unterzeichnung erreichbar über Faculty Mailbox, Moorfield College, Oxford, Vereinigtes Königreich, ist Mieter. Mercer nimmt zum Jahresbeginn eine mehrjährige Lehrtätigkeit für englische Literatur in Rom auf.",
+            "Hubertus Tomasius, Untere Gerbergasse 14, 79098 Freiburg im Breisgau, Germany, is the landlord. Prof. Dr. Oliver James Mercer, whose correspondence address at signing is Faculty Mailbox, Moorfield College, Oxford, United Kingdom, is the tenant. Mercer is taking up a multi-year teaching post in English literature in Rome at the beginning of the year.",
+            "Der Vermieter überlässt dem Mieter die möblierte Wohnung in Via di San Giovanni in Laterano, civico 00, interno 7, 00184 Roma. Die Wohnung liegt im dritten Obergeschoss, hat rund 38 m² und besteht aus Wohnraum, Schlafnische, Küchenzeile und Bad. Als Katasterangaben verwenden die Parteien Roma, codice H501, foglio 505, particella 812, subalterno 7. Der Mieter darf Wohnung und Gemeinschaftszugänge zum dauerhaften Wohnen nutzen. Ein Stellplatz oder Abstellraum ist nicht mitvermietet.",
+            "The landlord lets to the tenant the furnished apartment at Via di San Giovanni in Laterano, civico 00, interno 7, 00184 Roma. It is on the third floor above ground, measures about 38 square metres and comprises a living area, a sleeping alcove, a kitchenette and a bathroom. The parties use the following cadastral identifiers: Roma, code H501, sheet 505, parcel 812, unit 7. The tenant may use the apartment and common access areas as a long-term residence. No parking space or storage room is included."
+          ]
+        },
+        {
+          "heading": "2 Mietzeit und Wohnzweck | Term and Residential Use",
+          "paragraphs": [
+            "Die Mietzeit beginnt am 1. Januar 2025. Die erste Laufzeit endet am 31. Dezember 2028. Der Vertrag verlängert sich nach Art. 2 Abs. 1 des italienischen Gesetzes Nr. 431 vom 9. Dezember 1998 um weitere vier Jahre, soweit kein gesetzlich zulässiger und fristgerecht erklärter Grund entgegensteht. Für das Ende des Verlängerungszeitraums und die Fortsetzung gelten die gesetzlichen Verfahren und Fristen. Eine vorzeitige Kündigung des Mieters aus schwerwiegendem Grund nach italienischem Recht bleibt möglich.",
+            "The tenancy starts on 1 January 2025. The initial term ends on 31 December 2028. It renews for a further four years under Article 2(1) of Italian Law No. 431 of 9 December 1998 unless a lawful ground is asserted in due time. The statutory procedures and notice periods apply at the end of the renewal term and to any further continuation. The tenant retains the right to terminate early on serious grounds under Italian law.",
+            "Der Mieter nutzt die Räume als Wohnung. Er darf im üblichen Umfang zu Hause lesen und arbeiten. Eine entgeltliche Überlassung an Dritte, eine touristische Nutzung und der Betrieb einer öffentlich zugänglichen Einrichtung bedürfen einer vorherigen schriftlichen Vereinbarung im Rahmen des geltenden Rechts.",
+            "The tenant will use the apartment as his home. Ordinary reading and working from home are permitted. Subletting for payment, holiday letting and operating premises open to the public require prior written agreement within the limits of applicable law."
+          ]
+        },
+        {
+          "heading": "3 Miete und Zahlungsweg | Rent and Payment",
+          "paragraphs": [
+            "Die Grundmiete beträgt 620,00 EUR monatlich und 7.440,00 EUR im vollen Vertragsjahr. Der Mieter leistet zusätzlich eine Betriebskostenvorauszahlung von 60,00 EUR monatlich. Er überweist insgesamt 680,00 EUR bis zum fünften Kalendertag des jeweiligen Monats mit dem Verwendungszweck LT7 / Monat und Jahr an das gesondert mitgeteilte Fremdgeldkonto von Studio Bellandi Amministrazioni Immobiliari. Die von der Verwaltung diesem Objekt zugeordnete Gutschrift erfüllt die Zahlungspflicht gegenüber dem Vermieter in derselben Höhe.",
+            "The base rent is EUR 620.00 per month and EUR 7,440.00 for a full contractual year. The tenant also pays a monthly service charge advance of EUR 60.00. He transfers a total of EUR 680.00 by the fifth calendar day of each month to the separate client money account of Studio Bellandi Amministrazioni Immobiliari, as notified separately, with the reference LT7 / month and year. When the manager allocates the credit to this property, the tenant’s obligation to the landlord is discharged to the same extent.",
+            "Der vereinbarte Grundmietzins bleibt für 2025 unverändert. Eine spätere Änderung erfordert eine schriftlich nachvollziehbare Grundlage nach italienischem Recht. Die Verwaltung darf die monatlichen Beträge nur nach schriftlicher Mitteilung des Vermieters ändern.",
+            "The agreed base rent remains fixed throughout 2025. Any subsequent adjustment must have a documented written basis under Italian law. The manager may change the monthly amounts only on written notice from the landlord."
+          ],
+          "page_break_before": true
+        },
+        {
+          "heading": "4 Betriebskosten und Kaution | Service Charges and Deposit",
+          "paragraphs": [
+            "Die Vorauszahlung betrifft die dem Mieter zurechenbaren laufenden Gemeinschaftskosten für Wasser, Hausreinigung und Gemeinschaftsstrom. Die Verwaltung rechnet die tatsächlichen Aufwendungen nach Ablauf des Jahres mit Belegübersicht ab. Ein Guthaben wird zurückgezahlt oder mit Zustimmung des Mieters verrechnet. Die Verwaltung hält die Aufschlüsselung für den Mieter bereit. Persönlich angemeldeten Wohnungsstrom und Internet trägt der Mieter unmittelbar. Eigentümerbezogene Verwaltungskosten, Gebäudesachversicherung und der auf den Vermieter entfallende Anteil der Gemeinschaftskosten werden der Mietervorauszahlung nicht belastet.",
+            "The advance covers the tenant’s share of ongoing common costs for water, cleaning and electricity in common areas. The manager reconciles actual costs after year-end and provides a supporting schedule. A credit will be refunded or offset with the tenant’s consent. The manager makes the breakdown available to the tenant. The tenant pays separately for his own electricity account and internet. Owner-side management costs, building insurance and the landlord’s share of common expenses are excluded from the tenant’s advance.",
+            "Der Mieter hinterlegt vor Übergabe 1.240,00 EUR als Kaution. Sie wird getrennt von laufenden Mietzahlungen geführt. Für die Verzinsung und ihre Abrechnung gilt italienisches Recht. Nach Rückgabe rechnen die Parteien über die Kaution ab. Der Mieter darf sie nicht einseitig auf die letzten laufenden Mietzahlungen anrechnen.",
+            "The tenant provides a security deposit of EUR 1,240.00 before handover. It is accounted for separately from recurring rent. Italian law governs interest on the deposit and its settlement. The parties will account for the deposit after the premises are returned. The tenant may not unilaterally use it to pay the final months’ rent."
+          ]
+        },
+        {
+          "heading": "5 Übergabe, Gebrauch und Instandhaltung | Handover, Use and Repairs",
+          "paragraphs": [
+            "Bei Übergabe halten die Parteien Ausstattung, Schlüssel, Zählerstände und bereits vorhandene Gebrauchsspuren in einem Protokoll fest. Der Mieter behandelt Wohnung und Einrichtung sorgfältig und meldet einen Wasseraustritt oder anderen dringenden Schaden unverzüglich. Der Vermieter veranlasst die ihm nach dem maßgeblichen Recht obliegenden Reparaturen. Die Parteien stimmen erforderlichen Zutritt im Voraus ab, soweit keine akute Gefahr sofortiges Handeln verlangt.",
+            "At handover, the parties record the inventory, keys, meter readings and existing wear in a report. The tenant will take reasonable care of the premises and furniture and promptly report any leak or other urgent damage. The landlord arranges repairs for which he is responsible under applicable law. The parties agree any necessary access in advance except where an immediate hazard requires action."
+          ],
+          "page_break_before": true
+        },
+        {
+          "heading": "6 Registrierung und Erklärungen | Registration and Notices",
+          "paragraphs": [
+            "Der Vermieter lässt den Vertrag anhand der italienischen Übersetzung registrieren und teilt dem Mieter die Registrierungsangaben mit. Die Kosten der Erstanmeldung werden im Dezember 2024 gesondert abgerechnet. Beide Parteien erhalten die Verwalterabrechnungen.",
+            "The landlord arranges registration using the Italian translation and supplies the tenant with the registration details. The initial registration costs are settled separately in December 2024. Both parties receive the management accounts.",
+            "Mitteilungen gehen an die Anschriften unter 1, nach Einzug an die Mietanschrift. Für förmliche Erklärungen gelten die gesetzlichen Vorschriften. Für Zahlungen und Reparaturen ist Studio Bellandi Amministrazioni Immobiliari, Via Merulana, civico 00, 00185 Roma, zuständig.",
+            "Notices go to the addresses in section 1 and, after move-in, to the leased address. Formal notices must meet statutory requirements. Studio Bellandi Amministrazioni Immobiliari, Via Merulana, civico 00, 00185 Roma, handles payments and repairs."
+          ]
+        },
+        {
+          "heading": "7 Vertragsrecht und Sprachfassungen | Governing Law and Languages",
+          "paragraphs": [
+            "Dieser Mietvertrag unterliegt italienischem Recht. Die Parteien erhalten die deutsche und englische Fassung gemeinsam. Bei einem allein sprachlich bedingten Unterschied richten sie sich nach der englischen Fassung, soweit zwingendes italienisches Recht und die maßgeblichen Registrierungsangaben dem nicht entgegenstehen. Mündliche Nebenabreden bestehen bei Unterzeichnung nicht.",
+            "This agreement is governed by Italian law. The parties receive the German and English versions together. If wording alone creates an ambiguity between them, the English text prevails as between the parties, subject to mandatory Italian law and controlling registration particulars. There are no oral side agreements at signing."
+          ]
+        },
+        {
+          "heading": "8 Unterschriften und Anlagen | Signatures and Annexes",
+          "paragraphs": [
+            "Rom, 20. Dezember 2024. Beide Parteien erhalten eine Ausfertigung und bei Übergabe das Inventarprotokoll. Zahlungsdaten und Registrierungsangaben folgen gesondert.",
+            "Rome, 20 December 2024. Both parties receive a counterpart and the inventory report at handover. Payment and registration details follow separately.",
+            "Gez. Hubertus Tomasius · Vermieter | Signed Hubertus Tomasius · landlord",
+            "Gez. Oliver James Mercer · Mieter | Signed Oliver James Mercer · tenant"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "02_Rom_Wohnungsuebergabe.pdf",
+      "title": "Verbale di consegna · Wohnungsübergabe LT7",
+      "issuer": "Studio Bellandi Amministrazioni Immobiliari",
+      "date": "2024-12-31",
+      "sections": [
+        {
+          "heading": "1 Termin und Zustand",
+          "paragraphs": [
+            "Chiara Bellandi übergibt die Wohnung in Via di San Giovanni in Laterano, civico 00, interno 7, 00184 Roma, am 31. Dezember 2024 um 15.10 Uhr an Oliver James Mercer. Die Verwaltung handelt bei Schlüsselübergabe und Inventaraufnahme im Auftrag von Hubertus Tomasius. Grundlage ist der am 20. Dezember 2024 unterzeichnete Wohnraummietvertrag mit Mietbeginn 1. Januar 2025.",
+            "Die Wohnung ist gereinigt. Die Funktionsprüfung von Warmwasser, Kochfeld und Klingel war vor Ort möglich. An der Arbeitsplatte links vom Becken findet sich eine flache Druckstelle. Das kleine Fenster im Bad schließt. Seine Holzlaibung ist unten an zwei Stellen abgeschürft."
+          ],
+          "table": {
+            "headers": [
+              "Übergabepunkt",
+              "Aufnahme vor Ort"
+            ],
+            "rows": [
+              [
+                "Schlüssel",
+                "Zwei Wohnungsschlüssel, ein Haustorschlüssel, ein Briefkastenschlüssel"
+              ],
+              [
+                "Mobiliar",
+                "Esstisch, zwei Stühle, Schlafsofa, Kleiderschrank, Bücherregal, Bett und Matratze"
+              ],
+              [
+                "Wasserzähler",
+                "Unterzähler LT7-W, Stand 115,307 m³"
+              ],
+              [
+                "Stromzähler",
+                "Zähler LT7-E, Stand 8.137 kWh, Anmeldung durch den Mieter"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "2 Zahlungen und Unterschriften",
+          "paragraphs": [
+            "Die Verwaltung bestätigt die Gutschrift der Kaution von 1.240,00 EUR am 27. Dezember 2024 auf der getrennten Kautionsposition LT7-K. Die erste laufende Zahlung von 680,00 EUR ist im Januar auf das Objektkonto zu leisten. Die Zahlstelle wurde Mercer separat mitgeteilt.",
+            "Gez. Chiara Bellandi · Verwaltung",
+            "Gez. Oliver James Mercer · Mieter"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "03_Rom_RLI_Registrierungsnotiz.pdf",
+      "title": "Registrazione RLI · Mitteilung der Verwaltung",
+      "issuer": "Studio Bellandi Amministrazioni Immobiliari",
+      "date": "2024-12-27",
+      "sections": [
+        {
+          "heading": "1 Daten aus der Registrierungsakte",
+          "paragraphs": [
+            "Für Herrn Hubertus Tomasius und Prof. Dr. Oliver James Mercer. Bezug ist der Wohnraummietvertrag vom 20. Dezember 2024 zur Wohnung Via di San Giovanni in Laterano, civico 00, interno 7, 00184 Roma. Die italienische Übersetzung wurde mit der ersten Registrierung bearbeitet."
+          ],
+          "table": {
+            "headers": [
+              "Merkmal",
+              "Erfassung in der Registrierungsmappe"
+            ],
+            "rows": [
+              [
+                "Tipo di contratto",
+                "L1 · locazione di immobile ad uso abitativo"
+              ],
+              [
+                "Prima registrazione",
+                "27.12.2024 · lokaler Vorgang LT7-RLI-2024-12"
+              ],
+              [
+                "Decorrenza / scadenza iniziale",
+                "01.01.2025 / 31.12.2028"
+              ],
+              [
+                "Canone annuo",
+                "7.440,00 EUR ohne Kostenvorauszahlungen"
+              ],
+              [
+                "Cedolare secca",
+                "Keine Option erfasst"
+              ],
+              [
+                "Dati catastali",
+                "Roma H501 · foglio 505 · particella 812 · subalterno 7"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "2 Aktenstand",
+          "paragraphs": [
+            "Erstanmeldung, Register- und Stempelkosten sind im Dezember 2024 separat abgerechnet. Das Büro führt für die laufenden Zahlungen ab Januar 2025 die Objektposition LT7-2025. Die Beträge für Grundmiete, Gemeinschaftskosten und Kaution werden getrennt erfasst.",
+            "Diese Mitteilung fasst die Angaben in der Registrierungsmappe zusammen. Der vollständige behördliche Empfangsbeleg und die italienische Übersetzung sind in der vorliegenden Kopie nicht beigefügt.",
+            "Gez. Chiara Bellandi · Verwaltung"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "04_Rom_Kataster_Arbeitsauszug.pdf",
+      "title": "Visura catastale · Arbeitsauszug zur Einheit LT7",
+      "issuer": "Studio Bellandi Amministrazioni Immobiliari",
+      "date": "2026-01-22",
+      "sections": [
+        {
+          "heading": "1 Objektangaben",
+          "paragraphs": [
+            "Die Verwaltung hat die Angaben zur Einheit Via di San Giovanni in Laterano, civico 00, interno 7, 00184 Roma für die Unterlagen der Steuerberatung aus ihrer Objektmappe zusammengestellt."
+          ],
+          "table": {
+            "headers": [
+              "Katasterfeld",
+              "Übertragener Wert"
+            ],
+            "rows": [
+              [
+                "Comune / codice",
+                "Roma / H501"
+              ],
+              [
+                "Catasto fabbricati",
+                "Foglio 505, particella 812, subalterno 7"
+              ],
+              [
+                "Categoria / consistenza",
+                "A/3, 2 vani"
+              ],
+              [
+                "Superficie indicativa",
+                "38 m² laut Objektunterlagen"
+              ],
+              [
+                "Rendita catastale",
+                "203,63 EUR"
+              ],
+              [
+                "Intestazione catastale",
+                "Hubertus Tomasius, quota indicata 1/1"
+              ],
+              [
+                "Voltura in atti",
+                "28.02.2024, Vorgangsnotiz „successione“"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "2 Vorbestand und fehlende Unterlage",
+          "paragraphs": [
+            "Auf einem früheren Blatt in der Verwaltungshandakte steht der Name Hannelore Tomasius. Das Blatt trägt keinen Stempel und keine Unterschrift. In unserer Kopie der späteren Umschreibung fehlt die Seite mit der vollständigen Bezeichnung des zugrunde liegenden Vorgangs. Die Verwaltung hat die Originalunterlagen angefragt.",
+            "Der Arbeitsauszug gibt den erfassten Katasterstand wieder. Eine Ispezione ipotecaria oder Abschrift einer zugrunde liegenden Erwerbsurkunde ist in unserer Akte bisher nicht abgelegt.",
+            "Gez. Chiara Bellandi · Verwaltung"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "05_Rom_Verwalterabrechnung_2025.pdf",
+      "title": "Rendiconto 2025 · Jahresabrechnung LT7",
+      "issuer": "Studio Bellandi Amministrazioni Immobiliari",
+      "date": "2026-01-22",
+      "sections": [
+        {
+          "heading": "1 Objekt und Abrechnungsgrundlage",
+          "paragraphs": [
+            "An Hubertus Tomasius, Untere Gerbergasse 14, 79098 Freiburg im Breisgau. Die Abrechnung betrifft das Kalenderjahr 2025 für die von Oliver James Mercer bewohnte Einheit Via di San Giovanni in Laterano, civico 00, interno 7, 00184 Roma. Grundlage sind Zahlungseingänge und -ausgänge des Verwalter-Fremdgeldkontos, Unterkonto LT7-2025. Kontoinhaberin ist die Verwaltung.",
+            "Alle zwölf Monatszahlungen wurden mit jeweils 620,00 EUR Grundmiete und 60,00 EUR Betriebskostenvorauszahlung erfasst. Die Kaution steht außerhalb dieser Abrechnung auf der Position LT7-K. Im Jahr 2025 erfolgte keine Überweisung an den Vermieter auf ein deutsches Konto."
+          ]
+        },
+        {
+          "heading": "2 Soll und Ist im Objektkonto",
+          "paragraphs": [
+            "Die Liste zeigt die Bewegungen der Abrechnungsperiode. Beträge sind in Euro ausgewiesen."
+          ],
+          "table": {
+            "headers": [
+              "Position",
+              "Zahlungsbezug",
+              "Betrag EUR"
+            ],
+            "rows": [
+              [
+                "Anfangssaldo LT7-2025",
+                "01.01.2025",
+                "0,00"
+              ],
+              [
+                "Grundmiete",
+                "12 × 620,00",
+                "+7.440,00"
+              ],
+              [
+                "Vorauszahlungen des Mieters",
+                "12 × 60,00",
+                "+720,00"
+              ],
+              [
+                "Umlagefähige laufende Gemeinschaftskosten",
+                "4 × 165,00",
+                "−660,00"
+              ],
+              [
+                "Verwalterhonorar",
+                "Verwaltungsrechnung BELL-2025-LT7",
+                "−420,00"
+              ],
+              [
+                "Reparatur Wasserleitung Küchenzeile",
+                "Idraulica Conti, IC-2025-118",
+                "−285,00"
+              ],
+              [
+                "Gebäudesachversicherung",
+                "Prämienquittung LT7-2025",
+                "−168,00"
+              ],
+              [
+                "Gemeinschaftskosten, Eigentümeranteil",
+                "Condominio, Jahresabrechnung LT7",
+                "−186,00"
+              ],
+              [
+                "IMU 2025",
+                "F24, 16.06. und 16.12., je 195,00",
+                "−390,00"
+              ],
+              [
+                "IRPEF 2025, acconto",
+                "F24, 28.11., codice 4034",
+                "−360,00"
+              ],
+              [
+                "Saldo des Objektkontos",
+                "31.12.2025, einschließlich Mieterguthaben",
+                "5.691,00"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "3 Abrechnung gegenüber dem Mieter",
+          "paragraphs": [
+            "Die dem Mieter zuzurechnenden Gemeinschaftskosten betragen 318,00 EUR für Wasser, 222,00 EUR für Reinigung und 120,00 EUR für Gemeinschaftsstrom. Nach Abzug der tatsächlichen Kosten von den Vorauszahlungen ergibt sich ein Guthaben von 60,00 EUR. Es bleibt bis zur Auszahlung oder vereinbarten Verrechnung gesondert ausgewiesen. Eine Verrechnung im Jahr 2025 fand nicht statt.",
+            "Das Guthaben von 60,00 EUR ist im Saldo von 5.691,00 EUR enthalten. Die auf dem gesonderten Kautionskonto geführten 1.240,00 EUR sind darin nicht enthalten. Eine eigenständige Zinsabrechnung für die Kaution ist in dieser Abrechnung nicht enthalten."
+          ],
+          "page_break_before": true
+        },
+        {
+          "heading": "4 Nachweise zum Zahlungsstand",
+          "paragraphs": [
+            "Die Position IMU ist die in zwei Teilbeträgen gezahlte kommunale Abgabe. Der Betrag über 360,00 EUR ist als Einkommensteuervorauszahlung (acconto IRPEF) für 2025 vermerkt. Der von der Verwaltung erfasste Zahlungsbezug enthält keine Abrechnung des endgültigen Jahresbetrags und keinen Auszug aus dem Quadro RB einer eingereichten Jahreserklärung. Diese Unterlagen wurden bei der italienischen Buchhaltung angefragt.",
+            "Gez. Chiara Bellandi · Verwaltung"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "06_Rom_Reparaturbeleg_2025.pdf",
+      "title": "Fattura di riparazione · Idraulica Conti",
+      "issuer": "Idraulica Conti · Roma",
+      "date": "2025-05-20",
+      "sections": [
+        {
+          "heading": "1 Einsatz und Leistungsumfang",
+          "paragraphs": [
+            "Beleg IC-2025-118 für Hubertus Tomasius, zahlbar über Studio Bellandi Amministrazioni Immobiliari. Ausführungsort Via di San Giovanni in Laterano, civico 00, interno 7, 00184 Roma. Meldung des Mieters vom 19. Mai 2025. Unter der Spüle trat beim Öffnen des Eckventils Wasser aus.",
+            "Am 20. Mai 2025 hat der Monteur den defekten Anschluss und zwei Dichtungen ersetzt. Die vorhandene Küchenzeile, die Spüle und der Leitungsverlauf blieben erhalten. Die neue Verbindung wurde unter Betriebsdruck geprüft. Der Mieter hat den Zugang bestätigt."
+          ],
+          "table": {
+            "headers": [
+              "Abrechnungsposition",
+              "Bruttobetrag EUR"
+            ],
+            "rows": [
+              [
+                "Ersatz des Anschlusses und Dichtungsmaterial",
+                "75,00"
+              ],
+              [
+                "Arbeitszeit, Anfahrt und Druckprüfung",
+                "210,00"
+              ],
+              [
+                "Rechnungsbetrag einschließlich IVA",
+                "285,00"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "2 Zahlungsweg",
+          "paragraphs": [
+            "Der Betrag ist dem Objekt LT7 zuzuordnen und von der Verwaltung zu zahlen. Ein vom Mieter getragener Eigenanteil ist auf dieser Rechnung nicht ausgewiesen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "07_Nachricht_Vermietung_und_Familienunterlagen.eml",
+      "subject": "Wohnung am Lateran · Herkunft der Unterlagen und Geld auf dem Verwaltungskonto",
+      "from_name": "Hubertus Tomasius",
+      "from_email": "hubertus@tomasius.example",
+      "to_email": "felix@boscherharb.example",
+      "date": "2026-11-04T19:22:00+01:00",
+      "paragraphs": [
+        "Lieber Felix, als wir die Stammdaten gemacht haben, habe ich Dir nur das Freiburger Konto genannt. In Rom gibt es kein Konto auf meinen Namen. Chiara Bellandi sammelt die Miete auf einem Fremdgeldkonto ihres Büros und führt die Wohnung dort als eigenen Bestand. Für 2025 wurde mir davon nichts nach Freiburg überwiesen. Chiara hat aus den Einnahmen Reparatur, Hauskosten und zwei Sorten Steuerzahlungen bedient. Ich habe damals gedacht, ich muss das erst erwähnen, wenn sie mir etwas auszahlt. Bitte prüfe das für die Erklärung 2025.",
+        "Die Wohnung liegt nahe San Giovanni in Laterano. Meine Tante Hannelore, die sich in Rom Eleonora nannte, ist am 18. September 2023 gestorben. Sie hat mir früher gesagt, die Wohnung solle einmal an mich gehen. Im Februar 2024 hat mich das Studio wegen der Änderung im Kataster angeschrieben. In der Schachtel meiner Mutter lag außerdem ein unvollständiger Zettel mit dem Vermerk 21.000 und dem Wort contanti. Ich weiß weder, wer das geschrieben hat, noch ob das ein Kaufpreis, eine Renovierungsabrechnung oder etwas ganz anderes war. Ich habe keine Zahlung in dieser Höhe in meinen eigenen Auszügen gefunden.",
+        "Ich habe die Wohnung 2025 weder bewohnt noch zur eigenen Nutzung freigehalten. Oliver Mercer nutzt sie als Wohnung. Mein Lebensmittelpunkt und meine Wohnung waren durchgehend in Freiburg. Es gibt für die Wohnung keinen Bezug zu meinen Programmier- und Datenschutzaufträgen. Bitte sag mir, welche vollständigen Unterlagen ich aus Italien beschaffen soll und wie wir den offenen Stand in der Jahreserklärung behandeln.",
+        "Viele Grüße\nHubertus"
+      ]
+    },
+    {
+      "filename": "08_Mail_Familienarchiv_Quittungsfragment.eml",
+      "subject": "Eleonoras Ordner · nur das Blatt mit 21.000 gefunden",
+      "from_name": "Marlene Tomasius",
+      "from_email": "marlene@tomasius.example",
+      "to_email": "hubertus@tomasius.example",
+      "date": "2026-11-05T08:43:00+01:00",
+      "paragraphs": [
+        "Hubertus, ich habe im grünen Ordner die lose Kopie gefunden. Links oben ist die Seite abgerissen. Lesbar sind nur »21.000«, darunter »contanti?« und am rechten Rand »lavori / sistemazione«. Unterschrift, Datum, Empfänger und eine vollständige Anschrift sehe ich nicht. Das Wort hinter contanti kann ein Fragezeichen sein. Eine weitere Seite war nicht dabei.",
+        "Die handschriftliche Liste mit der Wohnung stand im Nachlassumschlag. Ich habe weder die vollständige italienische Erklärung noch eine notarielle Urkunde bei mir. Tante Hannelore sprach im Sommer 2022 auch von einer Renovierung im Haus. Ich kann die beiden Dinge nicht miteinander verbinden. Frage am besten im Studio nach der Quelle der Katasteränderung und beim Notariat nach der eingereichten Urkunde.",
+        "Marlene"
+      ]
+    },
+    {
+      "filename": "09_Buchungsbelege_IMU_und_IRPEF.pdf",
+      "title": "Drei Steuerzahlungen aus dem Fremdgeldkonto",
+      "issuer": "Studio Bellandi · Objektbuchhaltung",
+      "date": "2026-01-16",
+      "sections": [
+        {
+          "heading": "Buchungsnachweis",
+          "paragraphs": [
+            "Die nachstehenden Beträge wurden dem Unterkonto LT7-2025 für die Wohnung int. 7 belastet. Die Bankbewegungen sind nach Wertstellung erfasst. Die Felder zur Abgabenart stammen aus den Zahlungsaufträgen. Der Auszug enthält weder eine Steuerfestsetzung noch eine italienische Jahreserklärung."
+          ],
+          "table": {
+            "headers": [
+              "Wertstellung",
+              "Buchungsbeleg",
+              "Verwendungszweck laut Auftrag",
+              "Belastung EUR"
+            ],
+            "rows": [
+              [
+                "16.06.2025",
+                "IMU-2025-1",
+                "IMU acconto 2025 · codice tributo 3918",
+                "195,00"
+              ],
+              [
+                "28.11.2025",
+                "F24-2025-1",
+                "IRPEF acconto 2025 · codice tributo 4034",
+                "360,00"
+              ],
+              [
+                "16.12.2025",
+                "IMU-2025-2",
+                "IMU saldo 2025 · codice tributo 3918",
+                "195,00"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Ablagehinweis",
+          "paragraphs": [
+            "Die Hausverwaltung erfasste den Betrag von 360,00 EUR nach einem von Hubertus Tomasius bestätigten Zahlungsauftrag. In der Objektablage fehlt die Berechnungsgrundlage für den Abschlag. Die Unterlagen der italienischen Steuerkanzlei und eine etwaige Verrechnung mit der Jahressteuer sind dort nicht enthalten.",
+            "Chiara Bellandi · Amministrazione immobiliare"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "10_Mail_Italien_Redditi_und_Uebermittlung.eml",
+      "subject": "Roma interno 7 · registrazione, F24 e dichiarazione 2025",
+      "from_name": "Chiara Bellandi",
+      "from_email": "chiara.bellandi@studio-bellandi.example",
+      "to_email": "hubertus@tomasius.example",
+      "date": "2026-11-06T12:14:00+01:00",
+      "paragraphs": [
+        "Gentile signor Tomasius, ho trovato l'annotazione relativa alla registrazione del contratto e le tre registrazioni dei pagamenti del 2025. Il versamento di 360,00 euro è riportato come acconto IRPEF. Nell'archivio dello studio non ho trovato la dichiarazione Redditi PF relativa ai redditi del 2025, il quadro RB o una ricevuta telematica di presentazione. Ho chiesto alla commercialista di verificare se questi documenti sono nel suo fascicolo.",
+        "Für Ihren deutschen Berater fasse ich zusammen. Der Registrierungsvermerk und die drei Buchungen befinden sich in meiner Ablage. Der Betrag von 360,00 EUR wurde dort als IRPEF-Vorauszahlung geführt. Die abgegebene italienische Erklärung für 2025 samt Gebäudeangaben und Eingangsbeleg liegt mir nicht vor. Ich habe die Steuerkanzlei gebeten, ihre Ablage zu prüfen. Die Mieteingänge sind im Objektkonto vollständig. Zum Stand 31. Dezember 2025 gab es keine Auszahlung an Sie.",
+        "Cordiali saluti\nChiara Bellandi"
+      ],
+      "attachments": [
+        "09_Buchungsbelege_IMU_und_IRPEF.pdf"
+      ]
+    }
+  ],
+  "arbeitsauftrag": [
+    {
+      "filename": "01_Mandatsnachtrag_Einkommensteuer_2025.docx",
+      "title": "Mandatsnachtrag zur Einkommensteuer 2025",
+      "issuer": "Felix Boscherharb · Steuerberatung",
+      "date": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Auftrag und Bearbeitungsstand",
+          "paragraphs": [
+            "Hubertus Tomasius bittet um Vorbereitung seiner Einkommensteuererklärung 2025. Der bisherige Auftrag zur Auswertung von Programmierung, Datenschutz, Musik und Autorenhonoraren bleibt Grundlage. Am 4. November 2026 hat er erstmals die laufende Vermietung einer Wohnung in Rom mitgeteilt. Die seit Jahresbeginn durchgehend gemietete Freiburger Wohnung war nach seinen Angaben sein einziger eigener Wohnsitz. Die Miete in Rom wurde über ein Verwalterkonto vereinnahmt. Die Freiburger Bankunterlagen sind für dessen Betrieb und privaten Alltag weiterhin vollständig.",
+            "Das gesonderte Mandat zur Vorbereitung der finanzgerichtlichen Klage wegen der Umsatzsteuer-Vorauszahlung IV/2025 ist in den bisherigen Ordnern dokumentiert. Halten Sie Anmeldezeitraum, Bescheid und Jahreserklärung getrennt. Prüfen Sie Auswirkungen der neuen Tatsachen nur für die jeweils betroffene Steuerart und den jeweiligen Verfahrensstand."
+          ]
+        },
+        {
+          "heading": "Musikschule und tatsächliche Durchführung",
+          "paragraphs": [
+            "Stellen Sie die Vertragsabrede und die tatsächlich ausgeübte Tätigkeit in einer Tabelle mit konkreter Belegstelle gegenüber. Prüfen Sie insbesondere Raum und Instrumente, Stundenplan, Zuweisung von Schülern, Vertretungsmöglichkeit, Ausfallvergütung, Vorgaben zur Durchführung und eigene wirtschaftliche Gestaltung. Trennen Sie Erwerbsstatus, mögliche Beitragspflicht, Künstlersozialversicherung und steuerliche Einordnung. Ordnen Sie die beiden Schreiben zu § 127 SGB IV anhand ihrer Daten und der für den jeweiligen Zeitraum geltenden Fassung ein."
+          ]
+        },
+        {
+          "heading": "Wohnung Rom und Herkunft der Unterlagen",
+          "paragraphs": [
+            "Stimmen Sie die zwölf Mieten, Nebenkosten, Kaution, Objektkosten und Steuerzahlungen auf das Unterkonto ab. Halten Sie fest, wer Vertragspartner, Kontoinhaber und wirtschaftlich Berechtigter ist. Erklären Sie, welche Aussage Mietvertrag, Registerauszug und Familiennachrichten tragen und welche Belege zur Erwerbsart, zum zivilrechtlichen Titel und zum Zeitpunkt fehlen. Ein lückenhafter Vermerk ist als solcher zu kennzeichnen.",
+            "Prüfen Sie die Behandlung der Wohnungsvermietung in Italien und Deutschland nach dem Doppelbesteuerungsabkommen einschließlich Protokoll. Prüfen Sie gesondert Progressionsvorbehalt, Formulareintrag und ergänzende Offenlegung. Entwickeln Sie eine bedingte Bearbeitung für den Fall eines nachweisbaren italienischen Erklärungsstands und eine zweite für den gegenwärtig lückenhaften Nachweis. Benennen Sie die dafür anzufordernden italienischen Dokumente.",
+            "Beurteilen Sie getrennt, ob je nach Erwerbstitel weiterer Prüfbedarf für frühere Zeiträume oder Erwerbssteuern besteht. Stellen Sie für die nächste Mandantenbesprechung die wichtigsten drei Nachforderungen zusammen."
+          ]
+        },
+        {
+          "heading": "Arbeitsergebnis",
+          "paragraphs": [
+            "Erstellen Sie eine belegte Erklärungsvorbereitung für 2025 und einen kurzen Sachverhaltsvermerk. Kennzeichnen Sie die noch offenen Angaben mit Verantwortlichem und benötigtem Nachweis. Zur Abgabe wird erst nach gesonderter Freigabe ein abschließender Datenstand hergestellt."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "02_Freigabe_Nachtragspruefung.eml",
+      "subject": "Nachtragsprüfung ESt 2025 · Rom und Musikschule",
+      "from_name": "Felix Boscherharb",
+      "from_email": "felix@boscherharb.example",
+      "to_email": "hubertus@tomasius.example",
+      "date": "2026-11-09T10:20:00+01:00",
+      "paragraphs": [
+        "Lieber Hubertus, ich habe die Aufstellung der Hausverwaltung, die beiden Familiennachrichten und die ergänzenden Informationen zur Musikschule für die Einkommensteuer aufgenommen. Die beiliegende Arbeitsnotiz hält fest, was wir für 2025 bearbeiten und welche Nachweise wir noch brauchen.",
+        "Bitte lass Dir zur römischen Wohnung die vollständige Grundlage der Umschreibung und den italienischen Erklärungsstand für 2025 geben. Schick mir außerdem die Unterlagen, aus denen die tatsächliche Unterrichtsorganisation und Vertretungsregelung im Kalenderjahr hervorgehen. Falls eine Stelle zum Erwerbsstatus bereits ein Schreiben geschickt hat, brauche ich auch das Datum des Zugangs.",
+        "Wir besprechen die offenen Punkte vor der Freigabe der Jahreserklärung. Die Klagevorbereitung zur Umsatzsteuer läuft als eigener Vorgang weiter.",
+        "Beste Grüße\nFelix"
+      ],
+      "attachments": [
+        "01_Mandatsnachtrag_Einkommensteuer_2025.docx"
+      ]
+    }
+  ]
+}

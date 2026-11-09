@@ -95,11 +95,13 @@ Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) enth
 
 Die [Originalakte Tomasius 2025](../quality/steuerrecht-freiburg/tomasius-solo/README.md) führt Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit zusammen. Sie enthält Rechnungen, Honorare, VG WORT, Versicherungen, vollständige Kontoauszüge und bearbeitbare Arbeitsbögen. Das Umsatzsteuerverfahren für IV/2025 führt über den abweichenden Vorauszahlungsbescheid und den Einspruch zur Einspruchsentscheidung und zum Auftrag für die Klagevorbereitung.
 
+Der Einkommensteuer-Nachtrag verbindet die tatsächliche Tätigkeit an der Musikschule mit der getrennten Prüfung einer langfristig vermieteten Wohnung in Rom. Mietvertrag, Abrechnung und italienische Belege geben den Sachverhalt für die eigene Prüfung von Doppelbesteuerungsabkommen, Progressionsvorbehalt und Erklärungspflichten vor.
+
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Originalakte mit UStVA-Verfahren als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/Testakte_Tomasius_UStVA_Einspruch_2025_v3.zip)
+[Vollständige Tomasius-Akte als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/tomasius-steuerakte-v4/Testakte_Tomasius_2025_Rom_Musikschule_v4.zip)
 
 ## Umsatzsteuer-Voranmeldung aus Belegen
 

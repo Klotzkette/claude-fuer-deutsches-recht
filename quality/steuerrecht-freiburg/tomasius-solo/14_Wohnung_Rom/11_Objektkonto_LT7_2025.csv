@@ -1,0 +1,24 @@
+﻿Wertstellung;Buchungsbeleg;Buchungstext;Eingang EUR;Ausgang EUR;Beleggruppe
+2025-01-03;MIETE-01;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-02-04;MIETE-02;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-02-11;VERS-2025;Gebäudeversicherung für int. 7;0;168;Eigentümerkosten
+2025-03-04;MIETE-03;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-03-31;NK-2025-1;Umlagefähige Hauskosten Quartal 1;0;165;Mieternebenkosten
+2025-04-03;MIETE-04;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-05-05;MIETE-05;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-05-22;IDR-2025;Reparatur der Wasserleitung;0;285;Eigentümerkosten
+2025-06-04;MIETE-06;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-06-16;IMU-2025-1;IMU acconto 2025;0;195;IMU
+2025-06-30;NK-2025-2;Umlagefähige Hauskosten Quartal 2;0;165;Mieternebenkosten
+2025-07-03;MIETE-07;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-08-04;MIETE-08;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-09-03;MIETE-09;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-09-30;NK-2025-3;Umlagefähige Hauskosten Quartal 3;0;165;Mieternebenkosten
+2025-10-03;MIETE-10;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-11-04;MIETE-11;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-11-28;F24-2025-1;IRPEF acconto 2025 laut Zahlungsauftrag;0;360;IRPEF-Abschlag
+2025-12-03;MIETE-12;Oliver Mercer · Miete 620 + Vorschuss 60;680;0;Miete
+2025-12-16;IMU-2025-2;IMU saldo 2025;0;195;IMU
+2025-12-30;CONDO-2025;Hauskosten allein zu Lasten des Eigentümers;0;186;Eigentümerkosten
+2025-12-30;NK-2025-4;Umlagefähige Hauskosten Quartal 4;0;165;Mieternebenkosten
+2025-12-30;VERW-2025;Jahreshonorar der Hausverwaltung;0;420;Eigentümerkosten
