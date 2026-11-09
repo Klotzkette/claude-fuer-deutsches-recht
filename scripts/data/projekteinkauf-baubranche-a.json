@@ -1,0 +1,1708 @@
+{
+  "cases": [
+    {
+      "id": "PE-01",
+      "slug": "projekteinkauf-fassade-drei-angebote",
+      "title": "Drei Fassadenangebote auf einer Leistungsbasis",
+      "summary": "Nele Thomsen vergleicht drei Fassadenangebote für den Bildungscampus Leineaue in Hannover. Unterschiedliche Laibungseinheiten, ein Skonto und ausgeschlossene Leistungen verfälschen den ersten Preisvergleich. Nachträge klären Fracht, Bühne und Unterkonstruktion.",
+      "documents": [
+        {
+          "filename": "01_Anfrage_Fassade.eml",
+          "from_name": "Nele Thomsen · Projekteinkauf",
+          "from_email": "nele.thomsen@limmerbogen-bau.example",
+          "to_email": "angebote-fassade@limmerbogen-bau.example",
+          "date": "2026-10-13T09:10:00+02:00",
+          "subject": "PE-01 · Leistungsanfrage Fassade R3",
+          "paragraphs": [
+            "Für den Bildungscampus Leineaue bitten wir um ein Nettoangebot auf Basis des Leistungsverzeichnisses R3. Die Unterkonstruktion, Fracht, Montagehilfen und das Freigabemuster gehören zum anzubietenden Umfang. Weisen Sie abweichende Positionen gesondert aus.",
+            "Bitte nennen Sie die angebotene Mengeneinheit, die Bezugsposition jedes Nachlasses, den Ausführungszeitraum und das Bindungsende. Angebote werden zentral erfasst und getrennt geprüft. Dies ist eine private Angebotsanfrage für unsere Nachunternehmerbeauftragung."
+          ],
+          "attachments": [
+            "02_Leistungsverzeichnis_R3.docx"
+          ]
+        },
+        {
+          "filename": "02_Leistungsverzeichnis_R3.docx",
+          "title": "Leistungsverzeichnis R3 Keramikfassade",
+          "issuer": "Limmerbogen Bau GmbH · Bildungscampus Leineaue Hannover",
+          "date": "2026-10-13",
+          "sections": [
+            {
+              "heading": "1 Mengen und Leistungsumfang",
+              "paragraphs": [
+                "Die Mengenermittlung beruht auf Fassadenplan F-14 R3. Die 720 m² schließen die gesondert gemessenen Laibungen aus. Die 120 lfm Laibungen umfassen im Durchschnitt 0,35 m abwickelbare Breite. Die Position 01.05 umfasst Bühne bis 24 m Arbeitshöhe, An- und Abtransport, Betriebsmittel und Koordination der Sperrbereiche für 15 Einsatztage."
+              ],
+              "table": {
+                "headers": [
+                  "Position",
+                  "Leistungsgegenstand",
+                  "Menge",
+                  "Einheit"
+                ],
+                "rows": [
+                  [
+                    "01.01",
+                    "Vorgehängte Keramikfassade einschließlich Unterkonstruktion",
+                    720,
+                    "m²"
+                  ],
+                  [
+                    "01.02",
+                    "Laibungen im Öffnungsbereich, Abwicklung 0,35 m",
+                    120,
+                    "lfm"
+                  ],
+                  [
+                    "01.03",
+                    "Attikaabdeckung mit Tropfkanten",
+                    36,
+                    "lfm"
+                  ],
+                  [
+                    "01.04",
+                    "Freigabemuster auf Baustelle",
+                    1,
+                    "psch"
+                  ],
+                  [
+                    "01.05",
+                    "Hubarbeitsbühne und Baustellenlogistik",
+                    1,
+                    "psch"
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Ausführung und Freigabe",
+              "paragraphs": [
+                "Die Unterkonstruktion umfasst statisch geeignete Profile, Konsolen und Befestigungen nach Plan. Die Bieter benennen das angebotene System und reichen die Nachweise zur vorgesehenen brandschutztechnischen Ausführung mit ihrem Angebot ein. Freigabemuster und Montageplanung sind getrennte Freigaben.",
+                "Das Ausführungsfenster ist KW 08 bis 10 im Jahr 2027. Die Übergabe der fertig montierten Fassade ist spätestens am 12. März 2027 vorgesehen. Musterfreigabe und Freigabe der Montageplanung liegen vor der Materialabrufentscheidung."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "03_Angebot_Steinrad.pdf",
+          "title": "Angebot SF 2647 Keramikfassade",
+          "issuer": "Steinrad Fassadentechnik GmbH",
+          "date": "2026-10-19",
+          "sections": [
+            {
+              "heading": "1 Preisblatt netto",
+              "paragraphs": [
+                "Unser Angebot entspricht LV R3. Fracht, Unterkonstruktion einschließlich Befestigung sowie die Bühne für 15 Einsatztage sind enthalten. Die folgenden Preise sind vor Nachlass ausgewiesen."
+              ],
+              "table": {
+                "headers": [
+                  "Position",
+                  "Menge",
+                  "Einheit",
+                  "Einheitspreis EUR",
+                  "Gesamt EUR"
+                ],
+                "rows": [
+                  [
+                    "01.01",
+                    720,
+                    "m²",
+                    146,
+                    105120
+                  ],
+                  [
+                    "01.02",
+                    120,
+                    "lfm",
+                    42,
+                    5040
+                  ],
+                  [
+                    "01.03",
+                    36,
+                    "lfm",
+                    63,
+                    2268
+                  ],
+                  [
+                    "01.04",
+                    1,
+                    "psch",
+                    1950,
+                    1950
+                  ],
+                  [
+                    "01.05",
+                    1,
+                    "psch",
+                    6800,
+                    6800
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Konditionen und Termin",
+              "paragraphs": [
+                "Auf die Summe der fünf Positionen gewähren wir einen bindenden Angebotsnachlass von zwei Prozent. Er gilt unabhängig vom Zahlungszeitpunkt. Die Bindung läuft bis 4. November 2026, 16.00 Uhr. Den Einsatz in KW 08 bis 10 im Jahr 2027 halten wir bis dahin frei. Unser Systemblatt SF-K4 und die geforderte Branddokumentation wurden für R3 bereitgestellt."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "04_Angebot_Hinterbogen.pdf",
+          "title": "Angebot HF 1906 Keramikfassade",
+          "issuer": "Hinterbogen Gebäudehülle GmbH",
+          "date": "2026-10-19",
+          "sections": [
+            {
+              "heading": "1 Mengen und Einheitspreise",
+              "paragraphs": [
+                "Die Laibungen rechnen wir nach Abwicklungsfläche ab. Die 42 m² beziehen sich auf die in R3 genannten 120 lfm. Das Muster ist in Position 01.01 enthalten und wird nicht noch einmal berechnet. Die Unterkonstruktion und die in R3 geforderten Systemunterlagen sind in Position 01.01 enthalten."
+              ],
+              "table": {
+                "headers": [
+                  "Position",
+                  "Menge",
+                  "Einheit",
+                  "Einheitspreis EUR",
+                  "Gesamt EUR"
+                ],
+                "rows": [
+                  [
+                    "01.01",
+                    720,
+                    "m²",
+                    143,
+                    102960
+                  ],
+                  [
+                    "01.02",
+                    42,
+                    "m²",
+                    100,
+                    4200
+                  ],
+                  [
+                    "01.03",
+                    36,
+                    "lfm",
+                    67,
+                    2412
+                  ],
+                  [
+                    "01.04",
+                    1,
+                    "psch",
+                    0,
+                    0
+                  ],
+                  [
+                    "01.05",
+                    0,
+                    "psch",
+                    0,
+                    0
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Abweichung und Nachlass",
+              "paragraphs": [
+                "Position 01.05 ist bauseits zu stellen. Der Versand ist im Angebotspreis nicht enthalten. Für die Positionen 01.01 bis 01.03 gilt ein Angebotsnachlass von drei Prozent. Materialtermin und Versandpreis folgen, sobald unser Lager den Abruf bestätigt hat. Das Angebot gilt zunächst bis 30. Oktober 2026."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "05_Angebot_Kieselring.pdf",
+          "title": "Angebot KR 390 Keramikfassade",
+          "issuer": "Kieselring Montage GmbH",
+          "date": "2026-10-20",
+          "sections": [
+            {
+              "heading": "1 Leistung und Preise",
+              "paragraphs": [
+                "Unser Preis für Position 01.01 geht von einer vorhandenen tragfähigen Unterkonstruktion aus. Wir liefern die Bekleidung, die systembezogenen Befestigungsclips und die Montage. Die Hubarbeitsbühne für 15 Einsatztage und die Fracht sind enthalten."
+              ],
+              "table": {
+                "headers": [
+                  "Position",
+                  "Menge",
+                  "Einheit",
+                  "Einheitspreis EUR",
+                  "Gesamt EUR"
+                ],
+                "rows": [
+                  [
+                    "01.01",
+                    720,
+                    "m²",
+                    140,
+                    100800
+                  ],
+                  [
+                    "01.02",
+                    120,
+                    "lfm",
+                    38,
+                    4560
+                  ],
+                  [
+                    "01.03",
+                    36,
+                    "lfm",
+                    60,
+                    2160
+                  ],
+                  [
+                    "01.04",
+                    1,
+                    "psch",
+                    2200,
+                    2200
+                  ],
+                  [
+                    "01.05",
+                    1,
+                    "psch",
+                    6500,
+                    6500
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Zahlungsangebot und Bindung",
+              "paragraphs": [
+                "Der Preis ist als Nettobetrag vor Skonto angegeben. Wir gewähren zwei Prozent Skonto bei vollständiger Zahlung des fälligen Rechnungsbetrags innerhalb von zehn Kalendertagen nach Zugang. Die normale Zahlungsfrist beträgt 30 Kalendertage. Unser Angebot ist bis zum 30. Oktober 2026 gebunden. Das Ausführungsfenster ist möglich, wenn die vorgelagerte Unterkonstruktion bis Ende KW 07 im Jahr 2027 zur Montage bereitsteht."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "06_Angebotsregister_Arbeitsstand.xlsx",
+          "sheets": [
+            {
+              "name": "Eingang",
+              "headers": [
+                "Angebot",
+                "Listenpreis netto EUR",
+                "Nachlass",
+                "Fracht",
+                "Bühne",
+                "Unterkonstruktion",
+                "Termin"
+              ],
+              "rows": [
+                [
+                  "SF 2647",
+                  121178,
+                  "2 % auf Summe",
+                  "enthalten",
+                  "enthalten",
+                  "enthalten",
+                  "KW 08–10 bestätigt"
+                ],
+                [
+                  "HF 1906",
+                  109572,
+                  "3 % Pos. 01.01–01.03",
+                  "offen",
+                  "bauseits",
+                  "enthalten",
+                  "offen"
+                ],
+                [
+                  "KR 390",
+                  116220,
+                  "2 % Skonto bei 10 Tagen",
+                  "enthalten",
+                  "enthalten",
+                  "bauseits",
+                  "abhängig von Unterkonstruktion"
+                ]
+              ]
+            },
+            {
+              "name": "Mengenabgleich",
+              "headers": [
+                "Position",
+                "LV Menge",
+                "LV Einheit",
+                "Umrechnungsfaktor",
+                "HF Menge",
+                "HF Einheit"
+              ],
+              "rows": [
+                [
+                  "01.01",
+                  720,
+                  "m²",
+                  1,
+                  720,
+                  "m²"
+                ],
+                [
+                  "01.02",
+                  120,
+                  "lfm",
+                  0.35,
+                  42,
+                  "m²"
+                ],
+                [
+                  "01.03",
+                  36,
+                  "lfm",
+                  1,
+                  36,
+                  "lfm"
+                ]
+              ]
+            },
+            {
+              "name": "Freigabe",
+              "headers": [
+                "Merkmal",
+                "Stand",
+                "Quelle"
+              ],
+              "rows": [
+                [
+                  "Kostenlimit netto",
+                  117500,
+                  "Kostenstand 21.10."
+                ],
+                [
+                  "Planbarer Zahlungslauf",
+                  "14 Kalendertage ab prüffähiger Freigabe",
+                  "Kaufmännische Leitung"
+                ],
+                [
+                  "Montagezeit",
+                  "KW 08 bis 10 2027",
+                  "LV R3"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "07_Positionsdaten_Import.csv",
+          "headers": [
+            "Angebot",
+            "Position",
+            "Menge",
+            "Einheit",
+            "EP_EUR",
+            "Zeilensumme_EUR"
+          ],
+          "rows": [
+            [
+              "SF 2647",
+              "01.01",
+              720,
+              "m²",
+              146,
+              105120
+            ],
+            [
+              "SF 2647",
+              "01.02",
+              120,
+              "lfm",
+              42,
+              5040
+            ],
+            [
+              "SF 2647",
+              "01.03",
+              36,
+              "lfm",
+              63,
+              2268
+            ],
+            [
+              "SF 2647",
+              "01.04",
+              1,
+              "psch",
+              1950,
+              1950
+            ],
+            [
+              "SF 2647",
+              "01.05",
+              1,
+              "psch",
+              6800,
+              6800
+            ],
+            [
+              "HF 1906",
+              "01.01",
+              720,
+              "m²",
+              143,
+              102960
+            ],
+            [
+              "HF 1906",
+              "01.02",
+              42,
+              "m²",
+              100,
+              4200
+            ],
+            [
+              "HF 1906",
+              "01.03",
+              36,
+              "lfm",
+              67,
+              2412
+            ],
+            [
+              "HF 1906",
+              "01.04",
+              1,
+              "psch",
+              0,
+              0
+            ],
+            [
+              "HF 1906",
+              "01.05",
+              0,
+              "psch",
+              0,
+              0
+            ],
+            [
+              "KR 390",
+              "01.01",
+              720,
+              "m²",
+              140,
+              100800
+            ],
+            [
+              "KR 390",
+              "01.02",
+              120,
+              "lfm",
+              38,
+              4560
+            ],
+            [
+              "KR 390",
+              "01.03",
+              36,
+              "lfm",
+              60,
+              2160
+            ],
+            [
+              "KR 390",
+              "01.04",
+              1,
+              "psch",
+              2200,
+              2200
+            ],
+            [
+              "KR 390",
+              "01.05",
+              1,
+              "psch",
+              6500,
+              6500
+            ]
+          ]
+        },
+        {
+          "filename": "08_Hinterbogen_Nachtrag.eml",
+          "from_name": "Hinterbogen Gebäudehülle · Kalkulation",
+          "from_email": "kalkulation@hinterbogen-huelle.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-28T09:30:00+01:00",
+          "subject": "PE-01 · Ergänzung HF 1906 und Bühne",
+          "paragraphs": [
+            "Wir ergänzen zu HF 1906 eine feste Frachtpauschale von 1.800 Euro netto für die vollständige Lieferung nach Hannover. Darauf findet der Nachlass von drei Prozent keine Anwendung. Ausführung in KW 08 bis 10 im Jahr 2027 und Bindung bis 6. November 2026 um 16.00 Uhr werden bestätigt. Das Freigabemuster liefern wir ohne Aufpreis.",
+            "Die Hubarbeitsbühne nach dem separaten Angebot LB-401 kann unser Montagekolonnenführer mitnutzen. Wir übernehmen die Bedienung und Einweisung unserer Leute. Der GU bleibt für die Bestellung, die Zufahrt und die Freigabe der Sperrbereiche verantwortlich. Ohne rechtzeitige Bereitstellung der Bühne ist der bestätigte Einsatzzeitraum nicht gesichert."
+          ],
+          "attachments": [
+            "09_Buehnenangebot_LB401.pdf"
+          ]
+        },
+        {
+          "filename": "09_Buehnenangebot_LB401.pdf",
+          "title": "Angebot LB 401 Hubarbeitsbühne",
+          "issuer": "Leinebogen Hebetechnik GmbH",
+          "date": "2026-10-27",
+          "sections": [
+            {
+              "heading": "1 Mietumfang und Festpreis",
+              "paragraphs": [
+                "Für den Bildungscampus Leineaue bieten wir eine 24-m-Gelenkteleskopbühne für 15 Einsatztage in KW 08 bis 10 im Jahr 2027 an. Im Festpreis von 7.400 Euro netto sind An- und Abtransport, Ladegerät, dokumentierte Einweisung, Betriebsmittel und Abholung enthalten. Bedienpersonal wird nicht gestellt.",
+                "Die Reservierung bleibt bis 6. November 2026 um 16.00 Uhr bestehen. Die Wegefreigabe einschließlich Tragfähigkeit und Sperrbereich erfolgt durch den Besteller. Ein Einsatz über 15 Arbeitstage hinaus bedarf einer gesonderten Bestellung."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "10_Kieselring_Nachtrag.eml",
+          "from_name": "Kieselring Montage · Angebotsleitung",
+          "from_email": "angebote@kieselring-montage.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-28T13:10:00+01:00",
+          "subject": "PE-01 · Vollständige Unterkonstruktion zu KR 390",
+          "paragraphs": [
+            "Für 9.600 Euro netto zusätzlich übernehmen wir die vollständige Unterkonstruktion einschließlich Profile, Konsolen und Befestigung nach R3. Der Preis umfasst Montage und die für unser System geforderten Nachweise. Eine vom GU zu stellende Unterkonstruktion ist dann nicht mehr erforderlich.",
+            "Wir bestätigen die Ausführung einschließlich eigener Unterkonstruktion in KW 08 bis 10 im Jahr 2027 und die Bindung des kombinierten Angebots bis 6. November 2026, 16.00 Uhr. Der bisherige Skonto bleibt auf den fälligen Rechnungsbetrag anwendbar. Er ist kein unbedingter Nachlass."
+          ]
+        },
+        {
+          "filename": "11_Bauleitung_Freigabefenster.eml",
+          "from_name": "Carlo Wiegand · Bauleitung",
+          "from_email": "carlo.wiegand@limmerbogen-bau.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-29T11:25:00+01:00",
+          "subject": "PE-01 · Freigabe Zufahrt und Termin",
+          "paragraphs": [
+            "Für die Bühne aus LB-401 ist die Zufahrt grundsätzlich vorgesehen. Der aktuelle Baustelleneinrichtungsplan weist aber eine Kabelquerung im Wendebereich aus. Die örtliche Einweisung und Freigabe der Tragfähigkeit sind vor einer verbindlichen Bestellung noch durch Bauleitung und Tiefbau zu bestätigen. Ich kann das bis zum 3. November prüfen lassen.",
+            "Die drei Montagefenster überschneiden sich nicht mit der Dachübergabe. Für alle Varianten bleibt die vorherige technische Freigabe des konkreten Fassadensystems und des Musters erforderlich. Bitte halten Sie Leistungsumfang, Preis und diese Freigaben in getrennten Spalten."
+          ]
+        },
+        {
+          "filename": "12_Arbeitsauftrag_Fassade.docx",
+          "title": "Vergabevorschlag für die Keramikfassade",
+          "issuer": "Limmerbogen Bau GmbH · Bildungscampus Leineaue Hannover",
+          "date": "2026-10-29",
+          "sections": [
+            {
+              "heading": "1 Entscheidung bis zum 3. November",
+              "paragraphs": [
+                "Derya Aksoy benötigt eine Vergleichsrechnung auf identischer Leistungsbasis und einen beschlussfähigen Vergabevorschlag. Der Vorschlag muss vor dem zuerst ablaufenden Bindungsende vorliegen. Stellen Sie die Angebote vor und nach den nachgereichten Erklärungen gegenüber.",
+                "Rechnen Sie Einheit, Nachlass, Skonto und separat zu bestellende Leistung prüfbar. Bestätigen Sie für keine Variante ohne Beleg die Ausführung oder die Gesamtkosten. Erstellen Sie zusätzlich eine kurze Rückfrage zur offenen Zufahrt und nennen Sie eine belastbare Alternative, falls diese nicht freigegeben wird."
+              ]
+            }
+          ]
+        }
+      ],
+      "stages": [
+        {
+          "title": "Erster Angebotsvergleich",
+          "files": [
+            "01_Anfrage_Fassade.eml",
+            "02_Leistungsverzeichnis_R3.docx",
+            "03_Angebot_Steinrad.pdf",
+            "04_Angebot_Hinterbogen.pdf",
+            "05_Angebot_Kieselring.pdf",
+            "06_Angebotsregister_Arbeitsstand.xlsx",
+            "07_Positionsdaten_Import.csv"
+          ],
+          "prompt": "Prüfen Sie LV und drei Angebote positionsweise. Berechnen Sie die bekannten Nettobeträge. Kennzeichnen Sie offene oder nicht vergleichbare Leistungen und formulieren Sie konkrete Rückfragen."
+        },
+        {
+          "title": "Entscheidung nach belegter Ergänzung",
+          "files": [
+            "08_Hinterbogen_Nachtrag.eml",
+            "09_Buehnenangebot_LB401.pdf",
+            "10_Kieselring_Nachtrag.eml",
+            "11_Bauleitung_Freigabefenster.eml",
+            "12_Arbeitsauftrag_Fassade.docx"
+          ],
+          "prompt": "Rechnen Sie die drei Angebote mit den Nachträgen neu. Entwerfen Sie die Entscheidung für Derya Aksoy einschließlich technischer Freigaben, Ausweichentscheidung und Bindungsdatum."
+        }
+      ],
+      "template": {
+        "title": "Vergabevorschlag Fassade",
+        "sections": [
+          {
+            "heading": "1 Vergleichsgrundlage",
+            "paragraphs": [
+              "Für die Position [Position] wird die angebotene Menge [Menge und Einheit] mit der LV-Menge [Menge und Einheit] abgeglichen. Die Umrechnung [Faktor und Rechenweg] stützt sich auf [Datei und Fundstelle]. Der Leistungsumfang bleibt in [Punkt] bis [Nachweis] offen."
+            ]
+          },
+          {
+            "heading": "2 Bereinigter Preis",
+            "paragraphs": [
+              "Das Angebot [Kennung] enthält [Leistung] und schließt [Leistung] aus. Nach [Nachlassbasis] und Ergänzung um [nachgewiesene Leistung und Betrag] beträgt der vergleichbare Preis [EUR netto]. Ein mögliches Skonto von [Betrag] ist getrennt ausgewiesen, weil [Zahlungsannahme]."
+            ]
+          },
+          {
+            "heading": "3 Freigabe und Alternative",
+            "paragraphs": [
+              "Wir schlagen [Variante] vor, wenn [zuständige Person] bis [Datum und Uhrzeit] die Voraussetzungen [Belege] bestätigt. Ohne diese Freigabe gilt [Ausweichvariante und Auswirkung]. Das Angebot ist bis [Bindung] gültig. Die beiden Bestellumfänge werden durch [Rollen] verbindlich aufeinander abgestimmt."
+            ]
+          }
+        ]
+      },
+      "debrief": {
+        "title": "Nachbesprechung Fassadenvergleich",
+        "sections": [
+          {
+            "heading": "1 Einheit und Ausgangsvergleich",
+            "paragraphs": [
+              "Aus 02_Leistungsverzeichnis_R3.docx, Abschnitt 1, folgen 120 lfm × 0,35 m = 42 m² Laibungsfläche. Daher sind 04_Angebot_Hinterbogen.pdf mit 42 m² × 100 Euro = 4.200 Euro und die anderen Laibungspositionen auf denselben Umfang bezogen. Die 42 m² dürfen nicht noch einmal mit 120 multipliziert oder den 720 m² zugeschlagen werden.",
+              "Steinrad ist mit 121.178,00 Euro × 0,98 = 118.754,44 Euro netto vollständig beziffert. Hinterbogen steht zunächst bei 109.572,00 Euro × 0,97 = 106.284,84 Euro, jedoch ohne Fracht und Bühne. Kieselring nennt 116.220,00 Euro mit Bühne und Fracht, jedoch ohne Unterkonstruktion. Das unbedingte Zwei-Prozent-Preisnachlassangebot von Steinrad und das bedingte Skonto von Kieselring sind getrennt auszuweisen. Die Tabelle 06 dient als Sekundärabgleich."
+            ]
+          },
+          {
+            "heading": "2 Aktualisierter Preis und Restrisiko",
+            "paragraphs": [
+              "Hinterbogen mit 08 und 09: 106.284,84 + 1.800,00 + 7.400,00 = 115.484,84 Euro netto. Der Nachlass mindert ausschließlich die drei angebotenen Positionen. Das enthaltene Muster wird nicht zusätzlich berechnet. Kieselring mit 10: 116.220,00 + 9.600,00 = 125.820,00 Euro netto. Optionales Skonto ergibt 123.303,60 Euro nur bei belegter Zahlungsvoraussetzung. Der planbare 14-Tage-Prozess trägt diese Annahme nicht.",
+              "Hinterbogen liegt damit 3.269,60 Euro unter Steinrad und 2.015,16 Euro unter dem Limit von 117.500,00 Euro. Steinrad liegt 1.254,44 Euro über dem Limit. Hinterbogen erfordert zwei getrennte, terminlich verzahnte Bestellungen, Bedienung durch Hinterbogen und bestätigte Baustellenzufahrt. Leistungsumfang und Rollen folgen 08, 09 und 11."
+            ]
+          },
+          {
+            "heading": "3 Begründeter Vorschlag",
+            "paragraphs": [
+              "Derya Aksoy kann Hinterbogen und LB-401 gemeinsam zur Bestellung freigeben, sobald Carlo Wiegand Zufahrt, Tragfähigkeit und Sperrbereich mit dem Tiefbau bis 3. November bestätigt und die technischen Freigaben für das konkrete System termingerecht gesichert sind. Scheitert die Zufahrt oder die Koordination, soll Derya Aksoy vor Ablauf von Steinrad am 4. November um 16 Uhr die Budgetüberschreitung von 1.254,44 Euro ausdrücklich freigeben oder die Bindung verlängern lassen.",
+              "Konkrete Rückfrage: Bitte bestätigen Sie bis zum 3. November die Tragfähigkeit am Wendebereich, die zulässige Querung und den freigegebenen Sperrbereich für die 24-m-Bühne LB-401 anhand des aktuellen Baustelleneinrichtungsplans. Falls die Kabelquerung nicht freigegeben werden kann, nennen Sie die zulässige Ersatzroute oder den frühesten Freigabetermin."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "PE-02",
+      "slug": "projekteinkauf-lueftung-preis-und-lieferant",
+      "title": "Lüftungspreis und belegte Lieferantenkapazität",
+      "summary": "Der Einkauf vergleicht Kanallieferung, Eigenmontage und zwei Angebote für den Einbau. Ein Auszug aus dem internen Preisarchiv, ein Gruppenprospekt und später nachgereichte Kapazitätsdaten führen zu unterschiedlichen Aussagen über Preis, Identität und Lieferfähigkeit.",
+      "documents": [
+        {
+          "filename": "01_Rechercheauftrag_Lueftung.eml",
+          "from_name": "Derya Aksoy · Kaufmännische Leitung",
+          "from_email": "derya.aksoy@limmerbogen-bau.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-20T09:25:00+02:00",
+          "subject": "PE-02 · Lüftung Preisband und Nachunternehmer",
+          "paragraphs": [
+            "Bitte prüfen Sie, ob eine getrennte Kanalbeschaffung mit eigener Montage für den Bildungscampus wirtschaftlicher und terminlich belastbar ist. Vergleichen Sie die Kosten für lieferfertiges Material von den Kosten für das eingebaute und geprüfte Gewerk getrennt. Wir benötigen einen dokumentierten Beschaffungsstand zum 30. Oktober.",
+            "Für eine Empfehlung reichen ein niedriger Stückpreis und eine Referenzliste nicht. Halten Sie die angebotene Firma, die tatsächlich ausführende Einheit, den Leistungsumfang des Referenzprojekts und die für unser Baufeld reservierte Mannschaft getrennt fest. Der Budgetansatz liegt bei 54.000 Euro netto."
+          ],
+          "attachments": [
+            "02_Bedarfsblatt_Lueftung.docx"
+          ]
+        },
+        {
+          "filename": "02_Bedarfsblatt_Lueftung.docx",
+          "title": "Bedarfsblatt Kanalbau Haus Nord",
+          "issuer": "Limmerbogen Bau GmbH · Bildungscampus Leineaue Hannover",
+          "date": "2026-10-20",
+          "sections": [
+            {
+              "heading": "1 Vergleichbarer Leistungserfolg",
+              "paragraphs": [
+                "Im Haus Nord sind 480 m² Kanaloberfläche zu liefern, einzubauen und prüfbar zu übergeben. Die Bezugsmenge von 480 m² ist die eingebaute Oberfläche. Für die getrennte Materialbeschaffung werden einschließlich Reserve 520 m² bestellt. Sechs Brandschutzklappen nach der projektspezifischen Typenliste, Montagehilfen und die vollständige Prüf- und Übergabedokumentation gehören zum Bedarf."
+              ],
+              "table": {
+                "headers": [
+                  "Leistungsbestandteil",
+                  "Menge",
+                  "Bezugsbasis"
+                ],
+                "rows": [
+                  [
+                    "Kanalnetz eingebaut",
+                    480,
+                    "m² eingebaute Oberfläche"
+                  ],
+                  [
+                    "Blechkanäle getrennte Beschaffung",
+                    520,
+                    "m² Liefermenge einschließlich Reserve"
+                  ],
+                  [
+                    "Brandschutzklappen",
+                    6,
+                    "Stück gemäß Typenliste"
+                  ],
+                  [
+                    "Prüfung und Übergabe",
+                    1,
+                    "Pauschale gemäß Prüfplan"
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Fenster und Zugang",
+              "paragraphs": [
+                "Für die Montage stehen 11. bis 29. Januar 2027 zur Verfügung. Die Leitungsführung im Flur wird am 4. November endgültig freigegeben. Im Januar liegt an Werk­tagen ein siebenstündiges Montagefenster für Fremdfirmen vor. Die Leistungsübergabe an die Ausbaukoordination ist für den 29. Januar vorgesehen. Ein späterer Beginn benötigt eine neue Terminplanung."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "03_Angebot_Wiesenform.pdf",
+          "title": "Angebot WK 718 Kanalteile",
+          "issuer": "Wiesenform Kanalsysteme GmbH",
+          "date": "2026-10-22",
+          "sections": [
+            {
+              "heading": "1 Lieferung ab Werk und Zusatzpositionen",
+              "paragraphs": [
+                "Wir liefern 520 m² Blechkanalteile nach Aufmaß- und Stücklistenfreigabe zum Preis von 42 Euro je m² netto. Der Einheitspreis gilt für die angebotene Liefermenge und enthält keine Montage. Die Fracht zur Baustelle beträgt fest 780 Euro und die Verpackung 240 Euro. Die sechs Brandschutzklappen, Bühnen und Funktionsprüfung sind nicht enthalten."
+              ],
+              "table": {
+                "headers": [
+                  "Leistung",
+                  "Menge",
+                  "Satz EUR",
+                  "Netto EUR"
+                ],
+                "rows": [
+                  [
+                    "Kanalteile",
+                    520,
+                    42,
+                    21840
+                  ],
+                  [
+                    "Fracht",
+                    1,
+                    780,
+                    780
+                  ],
+                  [
+                    "Verpackung",
+                    1,
+                    240,
+                    240
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Bindung und Fertigung",
+              "paragraphs": [
+                "Das Angebot gilt bis 4. November 2026, 16.00 Uhr. Für die zugesagte Anlieferung bis 17. Dezember 2026 benötigen wir freigegebene Stücklisten spätestens am 5. November. Die Übergabe erfolgt auf dem Baustellenlagerplatz. Der Besteller stellt die Annahme und die trockene Zwischenlagerung."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "04_Angebot_Bredenbusch.pdf",
+          "title": "Angebot BL 528 Lieferung und Einbau",
+          "issuer": "Bredenbusch Lufttechnik GmbH",
+          "date": "2026-10-23",
+          "sections": [
+            {
+              "heading": "1 Komplettumfang",
+              "paragraphs": [
+                "Der Pauschalpreis von 52.980 Euro netto umfasst Material einschließlich Fracht, Einbau der 480 m², sechs Brandschutzklappen gemäß Typenliste, Montagehilfen und Prüf- und Übergabedokumentation. Die beigestellte Planung wird vor Fertigung auf Anschlussmaße geprüft. Planänderungen außerhalb des bezeichneten Stands sind gesondert zu vereinbaren."
+              ],
+              "table": {
+                "headers": [
+                  "Preisbestandteil",
+                  "Netto EUR"
+                ],
+                "rows": [
+                  [
+                    "Kanäle und Fracht",
+                    24100
+                  ],
+                  [
+                    "Einbau und Montagehilfen",
+                    23000
+                  ],
+                  [
+                    "Klappen und Prüfdokumentation",
+                    5880
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Ansprechpartner und Ausführung",
+              "paragraphs": [
+                "Anbieterin und Vertragspartnerin ist die Bredenbusch Lufttechnik GmbH. Für die Montage ist die Bredenbusch Montage GmbH als Nachunternehmerin vorgesehen. Das Prospektprojekt Lindenhof wird unter der gemeinsamen Gruppenbezeichnung geführt. Die genaue Eigenleistung und eine verbindliche Mannschaftsreservierung reichen wir nach. Angebotsbindung bis 6. November, 15.00 Uhr."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "05_Angebot_Nordflur.pdf",
+          "title": "Angebot NF 223 Teilumfang Kanalnetz",
+          "issuer": "Nordflur Lüftungsservice GmbH",
+          "date": "2026-10-23",
+          "sections": [
+            {
+              "heading": "1 Angebot und Abweichung",
+              "paragraphs": [
+                "Wir bieten Lieferung und Einbau der Kanaloberfläche von 480 m² einschließlich Bühne und Fracht für 49.600 Euro netto an. Brandschutzklappen und Prüfdokumentation sind nicht enthalten. Die Montage der bauseits gelieferten Klappen ist in unserem Angebotspreis berücksichtigt.",
+                "Die früheste Montage ist ab 8. Februar 2027 möglich. Wir können derzeit kein Januarfenster verbindlich anbieten. Preisbindung bis 6. November, 15.00 Uhr. Vor Bestellung kann der Besteller eine erneute Kapazitätsabfrage veranlassen."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "06_Preisarchiv_und_Kalkulation.xlsx",
+          "sheets": [
+            {
+              "name": "Vergleichsbelege",
+              "headers": [
+                "Kennung",
+                "Datum",
+                "Menge m²",
+                "Bezugsgröße",
+                "Netto EUR",
+                "Enthalten",
+                "Fehlt"
+              ],
+              "rows": [
+                [
+                  "PR-117",
+                  "2025-11-14",
+                  400,
+                  "eingebaut",
+                  41200,
+                  "Fracht, Einbau, Bühne, 4 Klappen",
+                  "Funktionsprüfung"
+                ],
+                [
+                  "PR-206",
+                  "2026-07-09",
+                  500,
+                  "geliefert",
+                  21450,
+                  "Verpackung, Fracht",
+                  "Einbau, Klappen, Bühne, Prüfung"
+                ],
+                [
+                  "WK 718",
+                  "2026-10-22",
+                  520,
+                  "geliefert",
+                  22860,
+                  "Verpackung, Fracht",
+                  "Einbau, Klappen, Bühne, Prüfung"
+                ]
+              ]
+            },
+            {
+              "name": "Eigenmontage",
+              "headers": [
+                "Position",
+                "Menge",
+                "Satz EUR",
+                "Netto EUR",
+                "Status"
+              ],
+              "rows": [
+                [
+                  "Kanalteile",
+                  520,
+                  42,
+                  21840,
+                  "Angebot WK 718"
+                ],
+                [
+                  "Fracht",
+                  1,
+                  780,
+                  780,
+                  "Angebot WK 718"
+                ],
+                [
+                  "Verpackung",
+                  1,
+                  240,
+                  240,
+                  "Angebot WK 718"
+                ],
+                [
+                  "Eigenmontage eingebaute Menge",
+                  480,
+                  32,
+                  15360,
+                  "Interner Ansatz"
+                ],
+                [
+                  "Klappen",
+                  6,
+                  780,
+                  4680,
+                  "Interner Ansatz, Beschaffung noch offen"
+                ],
+                [
+                  "Montagehilfen und Bühne",
+                  1,
+                  2500,
+                  2500,
+                  "Interner Ansatz"
+                ],
+                [
+                  "Prüfung",
+                  1,
+                  1200,
+                  1200,
+                  "Interner Ansatz"
+                ],
+                [
+                  "Aushilfskraft je Stunde",
+                  1,
+                  54,
+                  54,
+                  "Interner Richtwert, keine Reservierung"
+                ]
+              ]
+            },
+            {
+              "name": "Montagebedarf",
+              "headers": [
+                "Bezugsmenge m²",
+                "Leistungsansatz h je m²",
+                "Stundenbedarf",
+                "Kommentar"
+              ],
+              "rows": [
+                [
+                  480,
+                  0.9,
+                  432,
+                  "Eigene Montage einschließlich Klappeneinbau; gesonderte Prüfung in der Kostenübersicht"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "07_Preisarchiv_Rohdaten.csv",
+          "headers": [
+            "Beleg",
+            "Belegdatum",
+            "Menge_m2",
+            "Mengenart",
+            "Netto_EUR",
+            "Leistungsgrenze"
+          ],
+          "rows": [
+            [
+              "PR-117",
+              "2025-11-14",
+              400,
+              "eingebaut",
+              41200,
+              "Vier Klappen, keine Funktionsprüfung; anderer Grundriss"
+            ],
+            [
+              "PR-206",
+              "2026-07-09",
+              500,
+              "geliefert",
+              21450,
+              "Fracht und Verpackung enthalten; keine Montage"
+            ],
+            [
+              "WK 718",
+              "2026-10-22",
+              520,
+              "geliefert",
+              22860,
+              "Fracht und Verpackung enthalten; keine Montage"
+            ]
+          ]
+        },
+        {
+          "filename": "08_Lieferantenstamm_Systemauszug.png",
+          "title": "Interner Lieferantenstamm Lüftung",
+          "issuer": "Limmerbogen Bau GmbH · Einkaufssystem",
+          "date": "2026-10-26",
+          "paragraphs": [
+            "Erfasster Datenstand vom 26. Oktober 2026. Quelle ist der interne Lieferantenstamm mit ergänzenden Angaben aus den Angebotsunterlagen. Die Einträge ersetzen weder einen Registerbeleg noch eine Kapazitätszusage. Das Feld Einsatzreferenz enthält den ungeprüften Prospektstand."
+          ],
+          "table": {
+            "headers": [
+              "Kennung",
+              "Firma",
+              "Rolle im Angebot",
+              "Referenzstand"
+            ],
+            "rows": [
+              [
+                "L-043",
+                "Wiesenform Kanalsysteme GmbH",
+                "Lieferantin WK 718",
+                "Letzte Lieferung bestätigt"
+              ],
+              [
+                "L-218",
+                "Bredenbusch Lufttechnik GmbH",
+                "Vertragspartnerin BL 528",
+                "Lindenhof unter Gruppenname"
+              ],
+              [
+                "L-219",
+                "Bredenbusch Montage GmbH",
+                "Vorgesehene Montagefirma",
+                "Eigenanteil offen"
+              ],
+              [
+                "L-099",
+                "Nordflur Lüftungsservice GmbH",
+                "Lieferung und Einbau NF 223",
+                "Januarfenster fehlt"
+              ]
+            ]
+          }
+        },
+        {
+          "filename": "09_Bredenbusch_Referenzklarstellung.eml",
+          "from_name": "Bredenbusch Lufttechnik · Auftragskoordination",
+          "from_email": "auftraege@bredenbusch-luft.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-28T10:20:00+01:00",
+          "subject": "PE-02 · Eigenanteil Lindenhof und Reservierung",
+          "paragraphs": [
+            "Wir bestätigen die Bredenbusch Lufttechnik GmbH als Anbieterin für BL 528. Beim Referenzprojekt Lindenhof hatte unsere Firma den Auftrag für Material, Koordination und Übergabe. Die Bredenbusch Montage GmbH baute dort nach der beigefügten Bestätigung 510 m² der insgesamt 1.100 m² selbst ein. Die verbleibende Fläche ist keine Eigenleistung dieser Montagefirma.",
+            "Für Haus Nord halten wir sechs benannte Funktionen im Januarfenster frei. Die Kapazitätszusage steht in der beigefügten Bestätigung und gilt bis zur Angebotsfrist. Der Vertrag mit unserer Firma muss die Montage durch die benannte Nachunternehmerin und die Schnittstellen zum Prüfplan ausdrücklich erfassen."
+          ],
+          "attachments": [
+            "10_Referenz_und_Kapazitaet.pdf"
+          ]
+        },
+        {
+          "filename": "10_Referenz_und_Kapazitaet.pdf",
+          "title": "Bestätigungen zur Referenz und Mannschaft",
+          "issuer": "Bredenbusch Lufttechnik GmbH · Auftragskoordination",
+          "date": "2026-10-28",
+          "sections": [
+            {
+              "heading": "1 Übermittelter Referenzbeleg",
+              "paragraphs": [
+                "Die Projektleitung des fiktiven Hofcampus Lindenhof, Iven Mertens, bestätigte der Bredenbusch Lufttechnik GmbH am 8. September 2026 per Referenzauskunft die Rolle als Vertragspartnerin für Material, Koordination und Übergabe. Im örtlichen Aufmaß ist der Einbau von 510 m² Kanaloberfläche durch die Bredenbusch Montage GmbH erfasst. Die Projektgesamtmenge beträgt 1.100 m². Der Referenzgeber ist über das Funktionspostfach projektleitung@hofcampus-lindenhof.example erreichbar.",
+                "Dieser Auszug gibt die der Angebotskoordination überlassenen Angaben wieder. Ein vom GU veranlasster Rückruf oder eine Prüfung der gesellschaftsrechtlichen Vertretung wurde hierdurch nicht ersetzt."
+              ]
+            },
+            {
+              "heading": "2 Kapazitätsbestätigung für BL 528",
+              "paragraphs": [
+                "Bredenbusch Lufttechnik GmbH und Bredenbusch Montage GmbH bestätigen für Haus Nord den Einsatz einer Montageleitung und fünf Monteuren vom 11. bis zum 29. Januar 2027. Die Mannschaft ist für drei Arbeitswochen mit fünf Tagen und je sieben nutzbaren Stunden je Person vorgesehen. Die Montageleitung arbeitet operativ mit. Voraussetzung sind Zugang zum Flur, Freigabe der Leitungsführung am 4. November und schriftliche Beauftragung bis 6. November, 15.00 Uhr. Die Prüftermine am 27. und 28. Januar bleiben für die Abnahmevorbereitung freigehalten."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "11_Eigenmontage_Stundenstand.eml",
+          "from_name": "Carlo Wiegand · Bauleitung",
+          "from_email": "carlo.wiegand@limmerbogen-bau.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-29T13:05:00+01:00",
+          "subject": "PE-02 · Eigene Mannschaft reicht derzeit nicht aus",
+          "paragraphs": [
+            "Für Januar kann ich zwei unserer Monteure mit je fünf Tagen à acht verrechenbaren Stunden über drei Wochen zusagen. Weitere eigene Beschäftigte sind für den Ausbau in Haus Süd gebunden. Der geplante Stundenbedarf für Haus Nord beträgt 432 Stunden. Eine Fremdverstärkung wurde angefragt, jedoch noch nicht angeboten oder reserviert.",
+            "Die acht Stunden der Eigenmannschaft setzen eine andere Arbeitsorganisation einschließlich Vormontage im Lager voraus. Bei Fremdfirmen ist nur das siebenstündige Fenster im Flur bestätigt. Bitte setzen Sie im Preisvergleich nicht stillschweigend dieselbe Stundenbasis an. Das Änderungsrisiko am Flur kläre ich bis 4. November."
+          ]
+        },
+        {
+          "filename": "12_Arbeitsauftrag_Lueftung.docx",
+          "title": "Beschaffungsentscheidung Lüftung",
+          "issuer": "Limmerbogen Bau GmbH · Bildungscampus Leineaue Hannover",
+          "date": "2026-10-30",
+          "sections": [
+            {
+              "heading": "1 Entscheidungsunterlage",
+              "paragraphs": [
+                "Für die Freigaberunde werden ein Preisvergleich zum 30. Oktober, eine begrenzte Lieferantenbewertung und eine versandfertige Nachfrage benötigt. Nennen Sie zu jeder Zahl Beleg, Leistungsumfang, Preisbasis, Datum und Grenzen. Trennen Sie die internen Archivwerte von tatsächlich bindenden Angeboten. Ein Preisband aus zwei internen Vergleichsbelegen ist kein aktueller Marktpreis.",
+                "Verknüpfen Sie die Kapazitätslücke mit dem Termin und einer Kostenempfindlichkeit. Berichten Sie den nachgereichten Referenzanteil getrennt von der Auftragnehmeridentität. Nennen Sie die Bedingung, unter der eine Entscheidung vor dem Bindungsende getroffen werden kann."
+              ]
+            }
+          ]
+        }
+      ],
+      "stages": [
+        {
+          "title": "Recherche und Vergleichsgrenzen",
+          "files": [
+            "01_Rechercheauftrag_Lueftung.eml",
+            "02_Bedarfsblatt_Lueftung.docx",
+            "03_Angebot_Wiesenform.pdf",
+            "04_Angebot_Bredenbusch.pdf",
+            "05_Angebot_Nordflur.pdf",
+            "06_Preisarchiv_und_Kalkulation.xlsx",
+            "07_Preisarchiv_Rohdaten.csv",
+            "08_Lieferantenstamm_Systemauszug.png"
+          ],
+          "prompt": "Erstellen Sie einen Quellen- und Preisvergleich und trennen Sie gelieferte von eingebauter Menge. Prüfen Sie bei jedem Anbieter Firma, Rolle, Leistungsumfang, Datum und Evidenz. Formulieren Sie die konkreten fehlenden Nachweise."
+        },
+        {
+          "title": "Nachgereichte Referenz und Kapazität",
+          "files": [
+            "09_Bredenbusch_Referenzklarstellung.eml",
+            "10_Referenz_und_Kapazitaet.pdf",
+            "11_Eigenmontage_Stundenstand.eml",
+            "12_Arbeitsauftrag_Lueftung.docx"
+          ],
+          "prompt": "Korrigieren Sie Preisvergleich und Lieferantenbewertung anhand der Belege. Berechnen Sie die Kapazitätslücke und die Kostenschwelle. Entwerfen Sie Beschaffungsvorschlag und Nachfragen ohne bereits eine Bestellung auszulösen."
+        }
+      ],
+      "template": {
+        "title": "Preisvergleich und Lieferantenentscheidung",
+        "sections": [
+          {
+            "heading": "1 Datengrundlage",
+            "paragraphs": [
+              "Die Preisangabe [Betrag netto] vom [Datum] betrifft [Menge, Einheit, Lieferort und Leistungsumfang]. [Datei und Fundstelle] belegt [Bindung oder bloßen Archivwert]. Für den Vergleich mit [Alternative] werden [Unterschiede] getrennt ausgewiesen."
+            ]
+          },
+          {
+            "heading": "2 Leistungsfähigkeit",
+            "paragraphs": [
+              "Vertragspartnerin ist [Firma]. Die Arbeiten führt [benannte Einheit] aus. Die Referenz [Beleg] erfasst [konkrete eigene Leistung] und trägt die Aussage [begrenzte Vergleichbarkeit]. Die Kapazität von [Rollen und Stunden] ist bis [Datum] unter [Bedingung] reserviert. Offen bleibt [konkreter Nachweis]."
+            ]
+          },
+          {
+            "heading": "3 Freigabe und Rückfrage",
+            "paragraphs": [
+              "Wir empfehlen [Beschaffungsweg] bei [Preis und terminlicher Bedingung]. Die günstigere Alternative [Variante] ist nur bei [nachgewiesene Kapazität und Kosten] tragfähig. Bis [Datum] klärt [Rolle] anhand [Beleg] die verbleibenden Punkte [konkrete Fragen]."
+            ]
+          }
+        ]
+      },
+      "debrief": {
+        "title": "Nachbesprechung Lüftungsbeschaffung",
+        "sections": [
+          {
+            "heading": "1 Quellen und Preise",
+            "paragraphs": [
+              "PR-206 vom 9. Juli 2026: 21.450 / 500 = 42,90 Euro netto je geliefertem m² einschließlich Fracht und Verpackung. WK 718 vom 22. Oktober: 22.860 / 520 = 43,96 Euro je geliefertem m² auf derselben Kostengrundlage. Die Belege sind zwei interne Beobachtungen mit verschiedener Menge. Daraus folgen weder eine repräsentative Preisspanne noch ein belastbarer allgemeiner Preisauftrieb. PR-117 vom 14. November 2025 ergibt 103,00 Euro je eingebautem m² mit vier Klappen und ohne Prüfung. Dieser Altbeleg darf nicht in die Liefereinheitsspanne aufgenommen werden.",
+              "A bei Eigenmontage: 22.860 + 15.360 + 4.680 + 2.500 + 1.200 = 46.600 Euro netto, davon 22.860 Euro bindende Lieferpreise und 23.740 Euro interne Ansätze. Die eingebaute Menge für Montagekosten ist 480 m². Bredenbusch kostet für den kompletten Umfang 52.980 Euro netto. Nordflur kostet 49.600 Euro und ergibt mit 4.680 Euro Klappen und 1.200 Euro Prüfung einen Vergleichsansatz von 55.480 Euro netto. Die Ergänzungsbeträge sind interne Ansätze und der Februarbeginn verfehlt das Januarfenster."
+            ]
+          },
+          {
+            "heading": "2 Kapazität und Referenz",
+            "paragraphs": [
+              "Aus 02, 06 und 11: 480 × 0,9 = 432 Stunden Bedarf. 2 Personen × 3 Wochen × 5 Tage × 8 Stunden = 240 Stunden zugesagt. Es fehlen 192 Stunden. Beim internen Richtwert 54 Euro je Stunde würde Verstärkung 10.368 Euro kosten und Eigenmontage auf 56.968 Euro erhöhen. Das ist eine Rechenvariante ohne bindenden Preis oder gebuchte Leistung. Die Differenz B zu A ohne Verstärkung beträgt 6.380 Euro. Bei vollständig vergleichbarem Mehrumfang und ohne weitere Kosten liegt die Kostenschwelle der Zusatzstunden bei 6.380 / 192 = 33,2292 Euro je Stunde. Rundung für einen Entscheidungsvergleich auf 33,23 Euro, für eine strikte Obergrenze auf Cent 33,22 Euro.",
+              "B: 6 Personen × 3 Wochen × 5 Tage × 7 Stunden = 630 reservierte Einsatzstunden einschließlich operativer Montageleitung. Kapazität und Ausführung sind dennoch von Zugänglichkeit und Planfreigabe abhängig. 08 erfasst zwei unterschiedliche Firmen. 09 und 10 klären die Bredenbusch Lufttechnik GmbH als Auftragnehmerin und die Bredenbusch Montage GmbH als vorgesehene Ausführende. Der übermittelte Referenzbeleg trägt für die Montage 510 m² Eigenanteil, nicht das Gesamtprojekt von 1.100 m². Die Quellenqualität eines unabhängigen Rückrufs und einer belegten Vertretungsprüfung bleibt getrennt zu beurteilen."
+            ]
+          },
+          {
+            "heading": "3 Freigabereifer Vorschlag",
+            "paragraphs": [
+              "Empfehlung zum 30. Oktober: Bredenbusch BL 528 in Höhe von 52.980 Euro netto mit benannter Montagefirma und vollständiger Prüfleistung vorbereiten. Der Preis bleibt 1.020 Euro unter dem Budget. Vor Bestellung sind Planfreigabe, Zugänglichkeit, eindeutige Vertragsunterlagen und der Kapazitätsvorbehalt bis zur Bindungsfrist 6. November um 15 Uhr zu bestätigen. A bleibt nur mit rechtzeitig nachgewiesener Ersatzkapazität und kalkulierbaren Kosten eine Alternative. C passt weder in das aktuelle Zeitfenster noch in den Budgetansatz.",
+              "Konkrete Nachfrage an Bredenbusch: Bitte bestätigen Sie die personelle Besetzung für 11. bis 29. Januar, die Vertretung bei Ausfall, die Einsatzzeiten im Flur sowie die Verantwortlichkeit für Einbau, Prüfprotokoll und Übergabe. Übermitteln Sie außerdem die Vertrags- und Registerdaten der beiden beteiligten Gesellschaften und bestätigen Sie, dass bis zum 6. November um 15 Uhr kein Vorbehalt zu Typenliste oder Prüfplan hinzutritt."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "PE-03",
+      "slug": "projekteinkauf-abdichtung-vertragsklauseln",
+      "title": "Dachabdichtung mit zwei Preiswegen und klaren Schnittstellen",
+      "summary": "Die Bauleitung benötigt eine abschnittsweise Dachabdichtung. Der erste Vertragsentwurf und die Bedingungen des Nachunternehmers regeln Preis, Abnahme und Schlusszahlung gegensätzlich. Ein neuer Planstand, ein geänderter Materialpreis und ein zweites Vertragsangebot eröffnen zwei belegte Verhandlungsoptionen.",
+      "documents": [
+        {
+          "filename": "01_Vertragsversand_R1.eml",
+          "from_name": "Nele Thomsen · Projekteinkauf",
+          "from_email": "nele.thomsen@limmerbogen-bau.example",
+          "to_email": "vertraege@kranzfeld-dach.example",
+          "date": "2026-10-13T11:10:00+02:00",
+          "subject": "PE-03 · Vertragsentwurf R1 Dachabdichtung",
+          "paragraphs": [
+            "Anbei erhalten Sie den Vertragsentwurf R1 für die Dachabdichtung Haus West. Bitte teilen Sie uns abweichende Preis- und Ausführungsbedingungen in einer gesonderten Stellungnahme mit. Die Zusendung dient der Verhandlung. Ein Auftrag ist damit nicht erteilt.",
+            "Maßgeblich für Ihre Kalkulation sollen die im Entwurf beschriebene Fläche, die zwölf Ablaufanschlüsse nach D1 und der Leistungsstand vom 13. Oktober sein. Bitte benennen Sie auch Ihre Voraussetzungen für Materialdisposition, Arbeitsaufnahme und Übergabe."
+          ],
+          "attachments": [
+            "02_Vertragsentwurf_GU_R1.docx"
+          ]
+        },
+        {
+          "filename": "02_Vertragsentwurf_GU_R1.docx",
+          "title": "Nachunternehmervertrag Dachabdichtung Entwurf R1",
+          "issuer": "Limmerbogen Bau GmbH · Bildungscampus Leineaue Hannover",
+          "date": "2026-10-13",
+          "sections": [
+            {
+              "heading": "1 Leistung und Unterlagen",
+              "paragraphs": [
+                "Der Nachunternehmer liefert und montiert die Dachabdichtung am Haus West einschließlich des Abdichtungsaufbaus auf 1.600 m², 160 lfm Aufkantungen und zwölf Ablaufanschlüssen nach Detail D1. Die Vorreinigung und Grundierung gehören zur Leistung. Der Besteller stellt die planmäßigen Gefälleflächen und den Zugang. Eine zusätzliche Gefälledämmung ist in diesem Entwurf nicht beschrieben.",
+                "Dieser Vertrag und die bestätigte Leistungsbeschreibung gehen vor. Im Übrigen gilt die jeweils aktuelle VOB/B nach der Verweisung im Beschaffungsportal. Die nachstehenden Regelungen zu Abnahme, Nachträgen und Zahlung gelten auch bei einer abweichenden VOB/B-Regelung. Ein VOB/B-Text ist diesem Entwurf nicht beigefügt."
+              ]
+            },
+            {
+              "heading": "2 Preis und Ausführung",
+              "paragraphs": [
+                "Der Preis ist für den beschriebenen Umfang fest. Die Dachfläche wird bis 15. Januar 2027 baureif bereitgestellt. Die Arbeiten beginnen am 19. Januar und werden am 5. Februar 2027 abgeschlossen. Das Folgegewerk benötigt die Fläche ab 8. Februar."
+              ]
+            },
+            {
+              "heading": "3 Änderungen und Kontrolle",
+              "paragraphs": [
+                "Zusätzliche Arbeiten werden nur bezahlt, wenn der Besteller die Vergütung vorab schriftlich bestätigt hat. Kontrolltermine für verdeckte Schichten werden protokolliert. Die Abnahme erfolgt erst, wenn der Bauherr die Gesamtleistung des Generalunternehmers abgenommen hat und der Generalunternehmer ein Abnahmeprotokoll unterschreibt."
+              ]
+            },
+            {
+              "heading": "4 Abschläge und Schlusszahlung",
+              "paragraphs": [
+                "Der Besteller leistet Abschläge binnen 18 Kalendertagen nach Eingang einer prüfbaren Aufstellung der vertragsgemäß erbrachten Leistungen. Die Schlusszahlung ist 60 Kalendertage nach Vorlage der Schlussrechnung und frühestens nach Eingang der auf das Gewerk entfallenden Zahlung des Bauherrn zu leisten."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "03_Angebot_Kranzfeld_KD882.pdf",
+          "title": "Angebot KD 882 Dachabdichtung Haus West",
+          "issuer": "Kranzfeld Dachabdichtung GmbH",
+          "date": "2026-10-15",
+          "sections": [
+            {
+              "heading": "1 Leistung und Pauschale",
+              "paragraphs": [
+                "Wir bieten für den in R1 beschriebenen Leistungsumfang eine Pauschale von 146.400 Euro netto an. Die Tabelle erläutert die Kalkulationsbestandteile der Pauschale. Die Herstellung oder nachträgliche Änderung des Gefälles ist nicht enthalten. Die 12 Ablaufanschlüsse sind nach D1 kalkuliert."
+              ],
+              "table": {
+                "headers": [
+                  "Position",
+                  "Leistung",
+                  "Menge",
+                  "Einheit",
+                  "Kalkulationssatz EUR",
+                  "Anteil EUR"
+                ],
+                "rows": [
+                  [
+                    "A-01",
+                    "Abdichtungsaufbau Dachflächen",
+                    1600,
+                    "m²",
+                    66,
+                    105600
+                  ],
+                  [
+                    "A-02",
+                    "Aufkantungen und Anschlüsse",
+                    160,
+                    "lfm",
+                    111,
+                    17760
+                  ],
+                  [
+                    "A-03",
+                    "Ablaufanschlüsse gemäß D1",
+                    12,
+                    "Stück",
+                    980,
+                    11760
+                  ],
+                  [
+                    "A-04",
+                    "Einrichtung, Schutz und Dokumentation",
+                    1,
+                    "pauschal",
+                    11280,
+                    11280
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Disposition und Angebotsbindung",
+              "paragraphs": [
+                "Das Angebot steht unter unseren Lieferantenbedingungen LB-D 2024. Bei Beauftragung bis 2. November 2026 halten wir die Montage ab 19. Januar 2027 unter der Voraussetzung einer baureifen Gesamtfläche frei. Für den Materialabruf verlangen wir 30 Prozent Vorauszahlung bei Vertragsschluss. Die Zusage des Materiallieferanten ist gesondert befristet."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "04_Kranzfeld_Bedingungen.eml",
+          "from_name": "Rika Sennewald · Kranzfeld Dachabdichtung",
+          "from_email": "vertraege@kranzfeld-dach.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-19T14:15:00+02:00",
+          "subject": "PE-03 · Rückmeldung zu Vertrag R1",
+          "paragraphs": [
+            "Wir haben Ihren Entwurf erhalten. Unsere Angebotsabteilung hat über den Portalhinweis keinen Vertragstext der VOB/B heruntergeladen. Der Hinweis allein ist für uns keine Einigung über die Vertragsunterlagen. Unser Angebot nimmt auf LB-D 2024 Bezug. Die dort für dieses Gewerk vorgesehenen Abschnitte übermitteln wir nun im beigefügten Auszug.",
+            "Wir wollen die Dachflächen nach Leistungserstellung gemeinsam prüfen und können den Zahlungseingang aus dem Hauptvertrag nicht kontrollieren. Den im R1 vorgesehenen Schlusszahlungstermin bestätigen wir nicht. Die Parteien sollen die Unterlagen und Zahlungsbedingungen vor Materialbestellung in einer gemeinsamen Fassung festhalten."
+          ],
+          "attachments": [
+            "05_Lieferantenbedingungen_LBD2024.pdf"
+          ],
+          "reply_to": "01_Vertragsversand_R1.eml"
+        },
+        {
+          "filename": "05_Lieferantenbedingungen_LBD2024.pdf",
+          "title": "Lieferantenbedingungen LB D 2024 Auszug",
+          "issuer": "Kranzfeld Dachabdichtung GmbH",
+          "date": "2026-10-19",
+          "sections": [
+            {
+              "heading": "1 Preis und Ausführung",
+              "paragraphs": [
+                "Der Auftragnehmer ist berechtigt, nach Vertragsschluss gestiegene Kosten für Baustoffe, Löhne oder Transport dem Auftraggeber gesondert zu berechnen. Maßgeblich ist der vom Auftragnehmer ermittelte Aufwand. Eine Preissenkung findet nicht statt. Beginnt die Ausführung später als vorgesehen, werden neue Preise angeboten."
+              ]
+            },
+            {
+              "heading": "2 Abnahme und Abrechnung",
+              "paragraphs": [
+                "Das Werk gilt als abgenommen, sobald ein Folgegewerk eine bearbeitete Dachfläche betritt. Der Auftraggeber leistet 30 Prozent der Vertragssumme bei Vertragsschluss. Weitere Teilbeträge werden nach Fortschritt und der Restbetrag zehn Kalendertage nach Rechnung gestellt. Abweichende Bedingungen des Auftraggebers werden nicht anerkannt."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "06_Kalkulation_und_Terminfenster.xlsx",
+          "sheets": [
+            {
+              "name": "Budget und Mengen",
+              "headers": [
+                "Position",
+                "Betrag oder Menge",
+                "Einheit",
+                "Nachweis"
+              ],
+              "rows": [
+                [
+                  "Budgetfreigabe",
+                  160000,
+                  "EUR netto",
+                  "Kostenstand 20.10."
+                ],
+                [
+                  "KD 882 Basis",
+                  146400,
+                  "EUR netto",
+                  "03_Angebot_Kranzfeld_KD882.pdf"
+                ],
+                [
+                  "Gefälledämmung R4",
+                  180,
+                  "m²",
+                  "07_Baufeld_und_Planstand.csv"
+                ],
+                [
+                  "Satz R4",
+                  44,
+                  "EUR netto je m²",
+                  "erst zu bestätigen"
+                ],
+                [
+                  "Materialbasis Vergleich",
+                  40000,
+                  "EUR netto",
+                  "Materialkalkulation vom 8. Oktober"
+                ]
+              ]
+            },
+            {
+              "name": "Ablauf R1 und R4",
+              "headers": [
+                "Vorgang",
+                "R1 Datum",
+                "R4 Vorschlag",
+                "Bedingung"
+              ],
+              "rows": [
+                [
+                  "Übergabe Teilfläche A",
+                  "2027-01-15",
+                  "2027-01-18",
+                  "Zugang und trockenes Deck"
+                ],
+                [
+                  "Übergabe Teilfläche B",
+                  "2027-01-15",
+                  "2027-01-26",
+                  "Untergrundfreigabe"
+                ],
+                [
+                  "Abdichtung fertig A",
+                  "2027-02-05",
+                  "2027-02-05",
+                  "Kontrollprotokoll"
+                ],
+                [
+                  "Abdichtung fertig B",
+                  "2027-02-05",
+                  "2027-02-12",
+                  "Kontrollprotokoll"
+                ],
+                [
+                  "Folgegewerk A",
+                  "2027-02-08",
+                  "2027-02-08",
+                  "Technische Freigabe"
+                ],
+                [
+                  "Folgegewerk B",
+                  "2027-02-08",
+                  "2027-02-15",
+                  "Abschnittsweise Belegung"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "07_Baufeld_und_Planstand.csv",
+          "headers": [
+            "Zeitpunkt",
+            "Planstand",
+            "Teilflaeche",
+            "Befund",
+            "Fortschreibung"
+          ],
+          "rows": [
+            [
+              "2026-10-13",
+              "D1",
+              "A und B",
+              "12 Abläufe; Gefälle bauseits geplant",
+              "R1 angenommene Bereitstellung 15.01.2027"
+            ],
+            [
+              "2026-10-27",
+              "D2/R4",
+              "B",
+              "Zusätzliche Gefälledämmung auf 180 m² erforderlich",
+              "Vor Beauftragung Umfang eindeutig ergänzen"
+            ],
+            [
+              "2026-10-28",
+              "Baufeld B-7",
+              "A",
+              "1100 m² Untergrundbereitstellung ab 18.01.2027 vorgesehen",
+              "Abdichtungsabschluss A 05.02.2027 planbar"
+            ],
+            [
+              "2026-10-28",
+              "Baufeld B-7",
+              "B",
+              "500 m² Untergrundbereitstellung erst 26.01.2027 vorgesehen",
+              "Abdichtungsabschluss B 12.02.2027 planbar"
+            ],
+            [
+              "2026-10-28",
+              "Belegungsplan F-9",
+              "B",
+              "Folgegewerk B kann auf 15.02.2027 umgestellt werden",
+              "Freigabe und Sicherung der Teilflächen erforderlich"
+            ]
+          ]
+        },
+        {
+          "filename": "08_Materialpreis_Rollenpaket.pdf",
+          "title": "Preisbestätigung MD 620 Rollenmaterial",
+          "issuer": "Mergelform Dachwerkstoffe GmbH",
+          "date": "2026-10-29",
+          "sections": [
+            {
+              "heading": "1 Preisbasis",
+              "paragraphs": [
+                "Für das bezeichnete Rollenmaterialpaket bleiben Artikel, Menge und Anlieferung gegenüber unserem Kalkulationsangebot vom 8. Oktober unverändert. Der damalige Nettobetrag von 40.000 Euro ist abgelaufen. Der neue angebotene Nettobetrag lautet 44.000 Euro einschließlich Anlieferung. Sonstige Baustoffe, Löhne und Arbeiten sind nicht Gegenstand dieses Angebots."
+              ],
+              "table": {
+                "headers": [
+                  "Kennung",
+                  "Stand",
+                  "Menge",
+                  "Angebotsbetrag EUR",
+                  "Status"
+                ],
+                "rows": [
+                  [
+                    "MD-590",
+                    "08.10.2026",
+                    1,
+                    40000,
+                    "abgelaufen"
+                  ],
+                  [
+                    "MD-620",
+                    "29.10.2026",
+                    1,
+                    44000,
+                    "bis 13.11.2026 bindend"
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Abrechnungsgrenze",
+              "paragraphs": [
+                "Der neue Preis gilt bei bestätigter Bestellung bis 13. November 2026. Ein tatsächlicher Bezug oder eine Rechnung ist mit dieser Preisbestätigung noch nicht dokumentiert. Etwaige nachträgliche Gutschriften werden im Kundenkonto gesondert ausgewiesen."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "09_Bauleitung_Schnittstellen.eml",
+          "from_name": "Carlo Wiegand · Bauleitung",
+          "from_email": "carlo.wiegand@limmerbogen-bau.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-10-30T10:15:00+01:00",
+          "subject": "PE-03 · R4 und abschnittsweise Dachübergabe",
+          "paragraphs": [
+            "Die ursprünglich angenommene Bereitstellung der Gesamtfläche am 15. Januar ist überholt. Für A ist der 18. Januar und für B der 26. Januar als Zugangstermin vorgesehen. Die Folgegewerke können abschnittsweise ab dem 8. beziehungsweise 15. Februar arbeiten. Vor Betreten der jeweiligen Teilfläche benötigen wir die technische Freigabe und einen dokumentierten Schutzweg. Diese technische Freigabe soll keine Abnahmeerklärung im Namen des GU sein.",
+            "Die Planung R4 ergänzt in B 180 m² Gefälledämmung. Der Punkt muss in der Leistungsbeschreibung vor Beauftragung ausdrücklich geklärt werden. Im Moment besteht kein Auftrag, der durch eine Änderung angewiesen werden könnte. Bitte lassen Sie Umfang, Preis und Auswirkung auf B gemeinsam bestätigen. Ich kann die Planfreigabe dokumentieren, aber keine zusätzlichen Kosten freigeben."
+          ]
+        },
+        {
+          "filename": "10_Aenderungsvorschlag_R2.docx",
+          "title": "Änderungsvorschlag R2 Dachabdichtung",
+          "issuer": "Limmerbogen Bau GmbH · Bildungscampus Leineaue Hannover",
+          "date": "2026-11-02",
+          "sections": [
+            {
+              "heading": "1 Einheitlicher Vertragstext",
+              "paragraphs": [
+                "Die Parteien vereinbaren einen BGB-Bauvertrag über die Dachabdichtung nach der unterzeichneten Leistungsbeschreibung R4 einschließlich der bezeichneten 180 m² Gefälledämmung. Dieser Vertrag und die ausdrücklich beigefügten Unterlagen bilden die Vertragsgrundlage. Die Verweise auf VOB/B und LB-D 2024 werden nicht übernommen. Dieser Text dient als Vorschlag bis zur abschließenden Einigung."
+              ]
+            },
+            {
+              "heading": "2 Preisvarianten",
+              "paragraphs": [
+                "In Variante F beträgt der Festpreis für den in KD 882 kalkulierten Basisumfang 149.600 Euro netto. In Variante M beträgt der Basispreis 146.400 Euro netto. In M ändert er sich nur um den nachgewiesenen Nettounterschied zwischen der Vergleichsbasis von 40.000 Euro und dem tatsächlich gezahlten Nettopreis des identischen, für dieses Projekt beschafften Rollenpakets. Gutschriften, Nachlässe und Rückvergütungen werden berücksichtigt. Die Veränderung beträgt insgesamt höchstens 3.200 Euro nach oben oder unten. Andere Kosten bleiben mit dem Basispreis abgegolten. Die Parteien wählen F oder M vor der Bestellung. Beide Varianten enthalten die gleiche Leistung.",
+                "Für die zusätzlich bezeichnete Gefälledämmung mit 180 m² wird ein gesonderter Festbetrag von 7.920 Euro netto vorgeschlagen. Die R4-Anlage bestimmt Ort, Umfang und Schnittstellen dieser Leistung."
+              ]
+            },
+            {
+              "heading": "3 Termine und Abnahme",
+              "paragraphs": [
+                "Der Besteller stellt Teilfläche A bis 18. Januar und Teilfläche B bis 26. Januar 2027 trocken, sicher und zugänglich bereit. Der Auftragnehmer stellt die Abdichtung auf A bis 5. Februar und auf B bis 12. Februar fertig, wenn die jeweiligen Flächen rechtzeitig bereitstehen. Bei einer nicht eingehaltenen Voraussetzung zeigen beide Seiten den betroffenen Arbeitsablauf und die konkrete Terminwirkung unverzüglich an und stimmen einen aktualisierten Plan ab.",
+                "Die Parteien dokumentieren verdeckte Schichten und Freigaben für Folgegewerke getrennt von der Abnahme. Nach Fertigstellung vereinbaren sie einen gemeinsamen Abnahmetermin und halten den Befund schriftlich fest. Das bloße Betreten durch das Folgegewerk löst nach diesem Vertrag keine automatische Abnahme aus. Gesetzliche Abnahmeregeln bleiben unberührt."
+              ]
+            },
+            {
+              "heading": "4 Änderungen und Zahlungen",
+              "paragraphs": [
+                "Nach Vertragsschluss zeigen die Parteien geänderte Leistungen mit Planstand, Menge, Preis- und Terminwirkung in Textform an und streben eine nachvollziehbare Vereinbarung an. Nele Thomsen sammelt die Nachweise. Derya Aksoy entscheidet für den Besteller über die kaufmännische Freigabe. Die gesetzlichen Änderungs- und Vergütungsregelungen bleiben unberührt.",
+                "Eine Vorauszahlung wird nicht vereinbart. Der Auftragnehmer kann für nachgewiesene, vertragsgemäß erbrachte Leistungen Abschläge nach den gesetzlichen und vereinbarten Voraussetzungen verlangen. Abschläge werden binnen 18 Kalendertagen nach Zugang einer prüfbaren Leistungsaufstellung bezahlt, soweit die Voraussetzungen erfüllt sind. Die Schlusszahlung erfolgt spätestens 20 Kalendertage nach Abnahme beziehungsweise deren gesetzlicher Entbehrlichkeit und Zugang der prüffähigen Schlussrechnung. Eine Zahlung oder Abnahme des Bauherrn ist keine zusätzliche Zahlungsvoraussetzung."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "11_Kranzfeld_Variantenbestaetigung.eml",
+          "from_name": "Rika Sennewald · Kranzfeld Dachabdichtung",
+          "from_email": "vertraege@kranzfeld-dach.example",
+          "to_email": "nele.thomsen@limmerbogen-bau.example",
+          "date": "2026-11-03T14:40:00+01:00",
+          "subject": "PE-03 · Verhandlungsstand Festpreis oder Materialkorridor",
+          "paragraphs": [
+            "Wir bieten entweder F zu 149.600 Euro netto oder M zu 146.400 Euro netto mit dem in R2 geregelten Materialkorridor an. Der Ansatz von 44 Euro netto je m² für die 180 m² zusätzliche Gefälledämmung ist bestätigt. In beiden Varianten übernehmen wir bei den vereinbarten Voraussetzungen die Termine für A und B, verzichten auf die 30-Prozent-Vorauszahlung und akzeptieren die in R2 beschriebene Zahlungssystematik. Beide Preise sind bis 11. November 2026 um 15.00 Uhr gebunden.",
+            "Wir haben noch keine Variante gemeinsam ausgewählt. Unser Angebot bezieht sich auf die R4-Leistung und setzt eine unterschriftsreife gemeinsame Fassung einschließlich Anlagenliste voraus. Die Formulare R1 und LB-D 2024 sollen nicht Bestandteil dieser Fassung werden. Bitte übermitteln Sie Ihre Entscheidung zunächst als Freigabevorschlag, damit wir Leistungsblatt und Termine gemeinsam abgleichen können."
+          ]
+        },
+        {
+          "filename": "12_Arbeitsauftrag_Vertrag.docx",
+          "title": "Entscheidungsauftrag zum Nachunternehmervertrag",
+          "issuer": "Limmerbogen Bau GmbH · Bildungscampus Leineaue Hannover",
+          "date": "2026-11-04",
+          "sections": [
+            {
+              "heading": "1 Freigabeunterlage für Derya Aksoy",
+              "paragraphs": [
+                "Erstellen Sie eine Klauselprüfung mit alter und neuer Fundstelle und ordnen Sie zu, welche Unterlagen überhaupt vereinbart sind. Stellen Sie dann die beiden aktuellen Preisvarianten einschließlich Gefälledämmung, Budgetrest und Beleglage dar. Begründen Sie die Empfehlung unter Berücksichtigung der Beschaffungskosten und der Prüfung späterer Belege.",
+                "Formulieren Sie einen abgestimmten Vertragsvorschlag zu Preis, Terminen, Abnahme, Änderungsprozess und Zahlung. Prüfen Sie die Einflussnahme auf Vorformulierungen sowie die gesetzlichen Grundlagen für Bauverträge. Ordnen Sie den Planwechsel R4 zeitlich ein. Erstellen Sie eine Anlagenliste mit Fassungsdatum und Freigaberollen. Der Einkauf bereitet die Bestellung erst nach technischer und kaufmännischer Freigabe vor."
+              ]
+            }
+          ]
+        }
+      ],
+      "stages": [
+        {
+          "title": "Vertragsstand und Klauselkonflikte",
+          "files": [
+            "01_Vertragsversand_R1.eml",
+            "02_Vertragsentwurf_GU_R1.docx",
+            "03_Angebot_Kranzfeld_KD882.pdf",
+            "04_Kranzfeld_Bedingungen.eml",
+            "05_Lieferantenbedingungen_LBD2024.pdf",
+            "06_Kalkulation_und_Terminfenster.xlsx"
+          ],
+          "prompt": "Vergleichen Sie Vertrag R1, Angebot und Lieferantenbedingungen. Ordnen Sie Unterlagenstatus und Klauselrisiken ein. Rechnen Sie die alte Vorauszahlungsforderung und formulieren Sie Rückfragen zu Umfang, Preis und Schlusszahlung."
+        },
+        {
+          "title": "Neue Planung und Freigabevorschlag",
+          "files": [
+            "07_Baufeld_und_Planstand.csv",
+            "08_Materialpreis_Rollenpaket.pdf",
+            "09_Bauleitung_Schnittstellen.eml",
+            "10_Aenderungsvorschlag_R2.docx",
+            "11_Kranzfeld_Variantenbestaetigung.eml",
+            "12_Arbeitsauftrag_Vertrag.docx"
+          ],
+          "prompt": "Prüfen Sie Planwechsel, zwei Preiswege und den Vorschlag R2. Berechnen Sie den Gesamtkorridor. Formulieren Sie eine belastbare Entscheidungsunterlage mit konkreten Vertragsklauseln und Anlagenliste."
+        }
+      ],
+      "template": {
+        "title": "Vertragsfreigabe für ein Baugewerk",
+        "sections": [
+          {
+            "heading": "1 Vertrag und Anlagen",
+            "paragraphs": [
+              "Die Parteien [vollständige Firmenbezeichnungen] verhandeln über [Werkerfolg]. Der freizugebende Text [Version und Datum] bezieht [abschließende Anlagenliste] ein. Für [abweichende Fassung oder Bedingungen] ist [ausdrückliche Klarstellung] vorgesehen. [Beleg] zeigt, welche Unterlagen bereits übermittelt und welche noch zu bestätigen sind."
+            ]
+          },
+          {
+            "heading": "2 Preis und nachgewiesener Umfang",
+            "paragraphs": [
+              "Für die Leistung [Umfang] gilt [Festpreis oder konkrete Preisregel] mit [berechenbare Bezugsbasis und Grenze]. Der Umfang [Planänderung vor Beauftragung] ist durch [Plan, Menge und Preis] gesondert bestimmt. Bei vollständigem Umfang beträgt die Belastung [Preis und Budgetrest] unter den Annahmen [Beleg und Grenzen]."
+            ]
+          },
+          {
+            "heading": "3 Termin und Abnahme",
+            "paragraphs": [
+              "Der Besteller stellt [Teilfläche und Zugang] bis [Datum] bereit. Der Auftragnehmer stellt [Teilfläche] bis [Termin] fertig. [Rolle] dokumentiert [Kontrolle] und entscheidet über [technische Weitergabe an das Folgegewerk]. Die Abnahme erfolgt nach [Verfahren]. Bekannte Mängel werden mit [Vorgehen] dokumentiert."
+            ]
+          },
+          {
+            "heading": "4 Änderungen und Zahlung",
+            "paragraphs": [
+              "Änderungswünsche werden mit [Planstand, Leistung, Preis und Termin] durch [Rolle] erfasst. [Rolle] prüft die kaufmännische Wirkung und die zulässige Beauftragung. Abschläge werden anhand [Leistungsaufstellung] und nach [Fälligkeit] bezahlt. Die Schlusszahlung erfolgt nach [Abnahme und prüffähige Rechnung] innerhalb von [Frist]."
+            ]
+          },
+          {
+            "heading": "5 Entscheidung",
+            "paragraphs": [
+              "Wir empfehlen [Variante] aufgrund [konkreter Preis-, Termin- und Prüfgründe]. Vor Beauftragung bestätigen [Rollen] bis [Datum] [offene Nachweise]. Die gemeinsame Endfassung erhält [Kennung und Anlagenliste]. Die Angebotserklärung ist bis [Bindungsende] nutzbar."
+            ]
+          }
+        ]
+      },
+      "debrief": {
+        "title": "Nachbesprechung Vertragsfreigabe Dachabdichtung",
+        "sections": [
+          {
+            "heading": "1 Kein übereinstimmender Vertrag in R1",
+            "paragraphs": [
+              "01 bezeichnet den Vertragsversand als Verhandlung. 03 verweist auf LB-D 2024, 04 widerspricht dem Zahlungsmodell und bestätigt, dass ein VOB/B-Text nicht heruntergeladen wurde. 05 ist ein Auszug, keine beiderseits abgestimmte Anlagenliste. 11 enthält zwei Alternativen und lässt die Auswahl offen. Die bislang vorliegenden Dokumente tragen keine Einigung auf eine vollständige Vertragsfassung.",
+              "Die Abdichtung als Teil der Herstellung eines Bauwerks spricht für § 650a Absatz 1 BGB. Im Unternehmerverkehr gelten die Einbeziehungsformalitäten des § 305 Absätze 2 und 3 BGB gemäß § 310 Absatz 1 Satz 1 nicht. Der rechtsgeschäftliche Konsens über das Regelwerk bleibt erforderlich. Die Privilegierung der VOB/B setzt die vollständige Einbeziehung in der bei Abschluss geltenden Fassung ohne inhaltliche Abweichungen voraus. R1 erklärt eigene abweichende Regelungen zum Vorrang und trägt daher keine Berufung auf diese Privilegierung. Eine tatsächliche Individualabrede hat nach § 305b BGB Vorrang, ein bloßes Formular oder eine Unterschrift belegt kein Aushandeln.",
+              "Amtliche Grundlagen: https://www.gesetze-im-internet.de/bgb/__650a.html · https://www.gesetze-im-internet.de/bgb/__305.html · https://www.gesetze-im-internet.de/bgb/__305b.html · https://www.gesetze-im-internet.de/bgb/__310.html"
+            ]
+          },
+          {
+            "heading": "2 Preis und Zahlungsbedingungen",
+            "paragraphs": [
+              "Die vier Kalkulationsanteile in 03 ergeben 105.600 + 17.760 + 11.760 + 11.280 = 146.400 Euro netto. Die ursprünglich verlangte Vorauszahlung beträgt 30 Prozent davon, also 43.920 Euro. 07 und 09 datieren den Planstand R4 vor einer Beauftragung. Die 180 m² sind als ergänzter Vertragsumfang einzubeziehen. 11 bestätigt 180 × 44 = 7.920 Euro netto. Diese Position ist in beiden Varianten nur einmal zu addieren.",
+              "F kostet 149.600 + 7.920 = 157.520 Euro netto. M reicht bei nachgewiesener Verringerung oder Erhöhung des Materialpreises um jeweils 3.200 Euro von 151.120 bis 157.520 Euro netto einschließlich R4. Ohne nachgewiesene Preisänderung beträgt M 154.320 Euro. MD-620 deutet auf 4.000 Euro Mehrpreis hin und würde bei einem entsprechenden belegten Bezug an der Obergrenze nur 3.200 Euro auslösen. MD-620 ist ein Angebot und keine Rechnung. Beide Varianten unterschreiten selbst am oberen Ende das Budget von 160.000 Euro um 2.480 Euro. M erlaubt nur für identische tatsächlich beschaffte Menge und unter Anrechnung von Rückvergütungen eine Anpassung. Die einseitige offene Kostenerhöhung in 05 ist als gestellte Bedingung auf Transparenz und unangemessene Benachteiligung zu prüfen. § 307 BGB: https://www.gesetze-im-internet.de/bgb/__307.html",
+              "Abschlag nach § 632a BGB und Vorauszahlung sind verschiedene Vorgänge. Der gesetzliche Abschlag knüpft an nachgewiesenen Leistungswert an. Bei Stoffen oder Bauteilen gelten die zusätzlichen Voraussetzungen des § 632a Absatz 1 Satz 6. Schlussvergütung beim BGB-Bauvertrag setzt im gesetzlichen Ausgangspunkt Abnahme beziehungsweise gesetzliche Entbehrlichkeit und prüffähige Schlussrechnung voraus. § 641 Absatz 2 regelt zudem Fälle spätestens eintretender Fälligkeit in der Vertragskette. Bei der R1-Koppelung an Bauherrenzahlung und 60 Tage sind § 271a BGB sowie bei gestellten Bedingungen § 308 Nummer 1a und § 310 BGB zu prüfen. Eine 60-Tage-Zahlungsregel ist im Unternehmerverkehr nicht allein aufgrund der Tageszahl automatisch wirksam. https://www.gesetze-im-internet.de/bgb/__632a.html · https://www.gesetze-im-internet.de/bgb/__650g.html · https://www.gesetze-im-internet.de/bgb/__641.html · https://www.gesetze-im-internet.de/bgb/__271a.html · https://www.gesetze-im-internet.de/bgb/__308.html"
+            ]
+          },
+          {
+            "heading": "3 Termine, Abnahme und Änderungen",
+            "paragraphs": [
+              "07 und 09 ersetzen die R1-Annahme einer Gesamtflächenbereitstellung. A ist ab 18. Januar mit Abschluss 5. Februar und B ab 26. Januar mit Abschluss 12. Februar 2027 planbar. Begehung am 8. und 15. Februar dient dem jeweiligen Folgegewerk. Sie soll nur nach dokumentierter technischer Freigabe erfolgen. Abnahme und gesetzliche Folgen nach § 640 BGB sind davon getrennt zu prüfen. Eine Abnahmefiktion setzt nach Absatz 2 unter anderem Fertigstellung, eine angemessene Fristsetzung und die ausbleibende fristgerechte Verweigerung unter Angabe mindestens eines Mangels voraus. Die pauschale Begehungsklausel aus 05 deckt diese Voraussetzungen nicht ab. https://www.gesetze-im-internet.de/bgb/__640.html",
+              "R4 liegt vor Vertragsschluss. §§ 650b und 650c BGB betreffen Änderungen nach Vertragsschluss und sind dafür noch kein Anordnungsweg. Bei späteren Änderungen sind Einigungsversuch, Planungsverantwortung, konkrete Vergütung und gegebenenfalls die gesetzlichen Voraussetzungen der Anordnung und Abschlagsberechnung gesondert zu prüfen. Die allgemeine Regel in R1, ohne vorherige schriftliche Preisbestätigung nie zu vergüten, bildet diese möglichen gesetzlichen Ansprüche nicht ab. https://www.gesetze-im-internet.de/bgb/__650b.html · https://www.gesetze-im-internet.de/bgb/__650c.html"
+            ],
+            "page_break_before": true
+          },
+          {
+            "heading": "4 Ausformulierter Entscheidungsvorschlag",
+            "paragraphs": [
+              "Wir schlagen Variante F in der Endfassung des R2 vor. Der Preis einschließlich R4 beträgt 157.520 Euro netto. Der aktuelle Materialbeleg spricht für das Erreichen der Obergrenze in M. F bietet denselben Höchstbetrag ohne späteren Preisnachweis. Kann die Kranzfeld Dachabdichtung GmbH vor der Entscheidung belastbar einen wesentlich niedrigeren tatsächlichen Einkaufspreis belegen und stimmt Derya Aksoy dem Prüfaufwand zu, kommt M mit der exakt bezeichneten Bezugsbasis und Obergrenze in Betracht.",
+              "Vertragstext: Die Kranzfeld Dachabdichtung GmbH stellt die Dachabdichtung für Haus West nach der gemeinsam unterzeichneten Leistungsbeschreibung R4 einschließlich 180 m² Gefälledämmung her. Der Gesamtfestpreis beträgt 157.520 Euro netto. Bestandteil sind ausschließlich der unterzeichnete Vertrag, Leistungsbeschreibung R4 mit D2, der bestätigte Terminplan für A und B und der vereinbarte Kontrollplan für verdeckte Schichten. Die in R1 und KD 882 genannten Formularbedingungen werden ausgeschlossen. Carlo Wiegand bestätigt bis 10. November die Planfassung, die Übergabetermine und die Schutzwege. Derya Aksoy gibt Preis, Zahlung und die finale Anlagenliste vor Ablauf der Angebotsbindung am 11. November um 15 Uhr frei.",
+              "Vertragstext zur Abwicklung: Der Besteller stellt A am 18. Januar und B am 26. Januar 2027 baureif bereit. Bei rechtzeitiger Bereitstellung stellt der Auftragnehmer A bis 5. Februar und B bis 12. Februar fertig. Die Parteien dokumentieren technische Kontrollen und Abnahme getrennt. Nach Fertigstellung führen sie eine gemeinsame Abnahme mit Protokoll durch. Die gesetzlichen Abnahmeregeln bleiben unberührt. Änderungen werden mit Umfang, Planstand und Auswirkungen auf Preis und Termin dokumentiert. Die gesetzlichen Ansprüche aus einem geänderten Bauvertrag bleiben erhalten. Abschläge werden bei nachgewiesenem Leistungswert innerhalb von 18 Kalendertagen nach prüfbarer Aufstellung gezahlt. Die Schlusszahlung erfolgt spätestens 20 Kalendertage nach Abnahme beziehungsweise gesetzlicher Entbehrlichkeit und Zugang der prüffähigen Schlussrechnung. Eine Vorauszahlung oder zusätzliche Koppelung an den Hauptvertrag ist nicht vereinbart."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

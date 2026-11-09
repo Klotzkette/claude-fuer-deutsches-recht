@@ -1,0 +1,7 @@
+Vorgang,Fassung,Menge m²,Öffnungen,Planstatus,Beleg
+Grundauftrag,A,420,24,Kaufmännisch bestellt,01_Vertrag_A225.pdf
+Planungsanfrage,B,432,30,"Zur Prüfung, ohne Ausführungsfreigabe",05_Plan_Revision_B.pdf
+Nachtragsangebot,V2,12,6,"Angebot zu B, gültig bis 20.10. 12:00",08_Angebot_V2.pdf
+Überarbeitete Planung,C,426,28,"Zur Werkstattprüfung, kaufmännisch offen",12_Plan_Revision_C.pdf
+Nachtragsangebot,V3,6,4,Angebot zu C mit Expressoption,15_Angebot_V3.pdf
+Erster unstrittiger Startbereich,West,160,,"Vermerkt am 21.10., vor neuer Sperrfläche",19_Bautagesbericht.docx
