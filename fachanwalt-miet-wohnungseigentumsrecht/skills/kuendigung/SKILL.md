@@ -60,7 +60,7 @@ Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klä
 - **§ 543 Abs. 1 BGB** — wichtiger Grund, der es dem Kündigenden unzumutbar macht, das Mietverhältnis fortzuführen.
 - **§ 543 Abs. 2 Nr. 3 BGB** — Zahlungsverzug: lit. a bei zwei aufeinanderfolgenden Monaten jeweils mind. eine Monatsmiete; lit. b Verzug über zwei Mietzeiträume mit mehr als einer Monatsmiete.
 - **§ 543 Abs. 3 BGB** — Abmahnungserfordernis vor Kündigung wegen Ruhestörung/Pflichtverletzung.
-- **§ 569 Abs. 3 Nr. 1 BGB** — Schonfristzahlung heilt die fristlose Kündigung: vollständige Begleichung binnen zwei Monaten nach Zustellung der Räumungsklage. Die Schonfristzahlung wirkt nur für die fristlose, nicht die hilfsweise ordentliche Kündigung wegen Zahlungsverzugs (st. Rspr.).
+- **§ 569 Abs. 3 Nr. 2 BGB.** Bis zwei Monate nach Rechtshängigkeit des Räumungsanspruchs kann die Befriedigung wegen fälliger Miete und fälliger Nutzungsentschädigung nach § 546a Abs. 1 BGB oder die Verpflichtung einer öffentlichen Stelle die fristlose Zahlungsverzugskündigung unwirksam machen. Die Zweijahressperre prüfen. Eine hilfsweise ordentliche Kündigung eigenständig nach § 573 BGB prüfen, insbesondere das Gewicht der schuldhaften Pflichtverletzung und die Folgen des Ausgleichs im Einzelfall. BGH, Urteil vom 30. September 2026 – VIII ZR 21/26, Rn. 11–14 und 18–22. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__21-26.pdf?__blob=publicationFile&v=1)
 
 ### Sozialklausel / Widerspruch
 

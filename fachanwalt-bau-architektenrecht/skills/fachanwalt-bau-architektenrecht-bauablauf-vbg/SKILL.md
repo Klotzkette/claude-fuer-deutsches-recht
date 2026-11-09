@@ -37,9 +37,9 @@ description: "Für Bauablauf-Störung — Behinderungsanzeige und Mehrkostenford
 
 Stehende BGH-Linien zur Bauablaufstoerung (Aktenzeichen vor Ausgabe ueber dejure.org / bundesgerichtshof.de verifizieren):
 
-- BGH VII. Zivilsenat: § 6 Abs. 6 VOB/B — Mehrkostenanspruch setzt Verschulden des Auftraggebers voraus; Behinderungsanzeige § 6 Abs. 1 VOB/B als Anspruchsvoraussetzung; konkrete Substantiierungspflicht (Ursache, Beginn, Dauer, Kausalitaet)
-- BGH zu § 642 BGB — Annahmeverzugsentschaedigung unabhaengig von Verschulden; Voraussetzung: Mitwirkungspflichtverletzung Besteller (BGH 24.01.2013 VII ZR 224/12, dejure.org/2013,1063 — verifiziert)
-- BGH zur VOB/B § 2 Abs. 5 Mehrverguetung: Tendenz zur Berechnung anhand der tatsaechlich erforderlichen Kosten zuzueglich angemessener Zuschlaege (Aufgabe der reinen urkalkulatorischen Preisfortschreibung) — Eckentscheidung BGH 08.08.2019 (VII ZR-Senat); konkretes Aktenzeichen vor Ausgabe ueber bundesgerichtshof.de verifizieren
+- Bei Schadensersatz nach Paragraf 6 Absatz 6 Satz 1 VOB/B Pflichtverletzung, Vertretenmüssen, Behinderungsanzeige oder Offenkundigkeit, konkreten Bauablauf und Kausalität prüfen.
+- BGH, Versäumnisurteil vom 26. Oktober 2017 – VII ZR 16/17, Rn. 18–34. § 642 BGB setzt Annahmeverzug wegen unterbliebener Mitwirkung voraus. Leistungsangebot, Leistungsfähigkeit und bei einbezogener VOB/B die Anzeige oder Offenkundigkeit der Behinderung prüfen. Lohn- und Materialpreissteigerungen bei der späteren Ausführung fallen aus diesem Anspruch heraus. [Amtlicher Volltext](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-10&Gericht=bgh&anz=237&nr=80084&pos=12)
+- BGH, Urteil vom 19. September 2024 – VII ZR 10/24, Rn. 17–26. Für § 2 Abs. 5 VOB/B ist eine rechtsgeschäftliche Anordnung erforderlich. Eine bloße Reaktion auf eine Behinderung, etwa die Mitteilung eines darauf abgestimmten Bauablaufplans, genügt für sich genommen nicht. Die Frage der Anspruchshöhe folgt erst nach Klärung des Anspruchsgrunds. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__10-24.pdf?__blob=publicationFile&v=1)
 - Konkretisierung der Substantiierungsanforderungen bei Bauzeitverlaengerungs- und Mehrkostenansprueechen — laufende Senatsrechtsprechung; vor Ausgabe per dejure.org pruefen
 
 ## Prüfschema — Mehrkostenanspruch bei Bauablaufstörung
@@ -103,7 +103,7 @@ Der BGH verlangt für Mehrkostenansprüche bei Bauablaufstörungen:
 - Einfluss auf kritischen Pfad nachgewiesen?
 
 **4. Kausalität der Störung**
-- Nicht jede Störung führt zu Bauzeitverlängerung (nur kritischer Pfad)
+- Für geltend gemachte Bauzeitverlängerung belegen, ob die Störung einen für den Endtermin relevanten Vorgang traf und welche Verschiebung daraus folgte.
 - Parallele Störungen: Gesamtwirkung zu bewerten
 
 **Praxis-Hinweis:** Ohne qualifiziertes SV-Gutachten bei komplexen Bauablaufstörungen kaum gerichtlich durchsetzbar. Baurechts-SV frühzeitig einschalten.
@@ -304,8 +304,8 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 | Strategie | Empfehlung | Begründung |
 |-----------|-----------|------------|
 | Bautagebuch | Täglich führen, von Bauleitung beider Seiten gegenzeichnen lassen | Entscheidender Beweis; nachträgliche Rekonstruktion kaum möglich |
-| Substantiierung | Konkreter Behinderungstatbestand mit Beginn, Ursache, Dauer (BGH VII ZR 11/16, 30.11.2017) | Pauschale Anzeige genuegt nicht |
-| Behinderungsanzeige | Schriftlich binnen 48 h nach Erkennen; Einschreiben + E-Mail | Doppelsicherung Zugang |
+| Substantiierung | Bauablaufbezogen darlegen, welche Pflichtverletzung welche Arbeiten wann und in welchem Umfang behindert hat. BGH, Urteil vom 19. September 2024 – VII ZR 10/24, Rn. 34–37. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__10-24.pdf?__blob=publicationFile&v=1) | Haftungsgrund und Kausalität nach § 286 ZPO prüfen |
+| Behinderungsanzeige | Nach § 6 Abs. 1 VOB/B unverzüglich schriftlich anzeigen, soweit Anzeige erforderlich. Inhalt, Zugang und vertragliche Vorgaben sichern. | Eine interne 48-Stunden-Eskalation ist nur eine organisatorische Vorgabe. |
 | Frühzeitige SV-Einschaltung | Ab erkennbarer Bauzeitverlängerung > 10 Tage | BGH-Anforderungen ohne SV kaum erfüllbar |
 | Beschleunigung | Nur auf ausdrückliche Anweisung und Vergütungsvereinbarung mit AG | Sonst eigenes Kostenrisiko |
 | Schlussrechnung | Alle Mehrkosten vollständig in Schlussrechnung aufnehmen | § 16 Abs. 3 Nr. 2 VOB/B: nicht aufgenommene Ansprüche verloren |
@@ -320,7 +320,7 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 - VOB/B §§ 1, 2, 6, 16
 - BGB §§ 642, 643, 650b, 650c
-- BGH VII ZR 224/12 (24.01.2013) — § 642 BGB Annahmeverzugsentschaedigung (dejure.org/2013,1063)
+- BGH, Versäumnisurteil vom 26. Oktober 2017 – VII ZR 16/17, Rn. 18–34, zur Entschädigung nach § 642 BGB. [Amtlicher Volltext](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-10&Gericht=bgh&anz=237&nr=80084&pos=12)
 - Weitere BGH-VII.-Senat-Linien zur Bauablaufstoerung und VOB/B-Mehrverguetung vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit Aktenzeichen verifizieren
 - Ingenstau/Korbion, VOB-Kommentar, 22. Aufl.
 - Kapellmann/Schiffers, Vergütung und Bauablauf, 7. Aufl.

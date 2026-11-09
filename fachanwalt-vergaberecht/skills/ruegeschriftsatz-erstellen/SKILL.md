@@ -387,7 +387,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - VgV, SektVO, KonzVgV
 - VO (EU) 2014/24, VO (EU) 2022/1031 (IPI), VO (EU) 2023/1441 (Schwellenwerte)
 - EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben (curia.europa.eu)
-- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhältnismäßigkeit Ausschluss (curia.europa.eu)
+- EuGH 03.10.2019, C-267/18 (Delta), Rn. 25–38: frühere Vertragsmängel im Einzelfall würdigen und Abhilfemaßnahmen prüfen. Falsche oder zurückgehaltene Angaben gesondert nach § 124 Abs. 1 Nr. 8 GWB einordnen. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0267)
 - EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss (curia.europa.eu)
 - OLG Vergabesenate (öffentliche Datenbanken: olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de)
 - VK Bund: bundeskartellamt.de/Vergabe

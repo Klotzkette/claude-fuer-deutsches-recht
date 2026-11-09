@@ -257,6 +257,16 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62023CJ0065",
       "checked_on": "2026-11-04",
       "supports": "EuGH, Urteil vom 19.12.2024, C-65/23, Rn. 44 bis 61. Vollständige Kontrolle der Erforderlichkeit der Verarbeitung und Einhaltung von Artikel 5, 6 und 9 DSGVO auch bei Kollektivvereinbarung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/",
+      "checked_on": "2026-11-10",
+      "supports": "BAG, Urteil vom 25.06.2026 – 6 AZR 7/26, Rn. 27–36. Aufgabenbezug des Anzeigefehlers anhand des konkreten Meldeinhalts prüfen. Geringfügige Überzählung blieb im Streitfall unschädlich. Fehlende Anzeige und Anzeige vor abgeschlossener erforderlicher Konsultation gesondert prüfen. Die Sperrfrist betrifft die Beendigungswirkung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/",
+      "checked_on": "2026-11-10",
+      "supports": "BAG, Urteil vom 30.07.2026 – 2 AZR 91/24, Rn. 10–17. Vorherigen Ausschluss von Annahmeverzugsansprüchen wegen einer unwirksamen oder erst später wirkenden Arbeitgeberkündigung auch bei Rechtswahl am maßgeblichen zwingenden deutschen Schutz messen. Deutscher Schutzstandard nur nach dem einschlägigen Kollisionsrecht. Keine abschließende Zuerkennung, da die Sache zurückverwiesen wurde."
     }
   ],
   "mini_review": {
@@ -273,9 +283,10 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
       "04.11.2026: Kompakten Einstieg bei KI-bezogenen Personalmaßnahmen mit Stichtagsprüfung, Pflichtenabgrenzung, Beteiligung und milderen Mitteln ergänzt.",
-      "Wiederholte Fristen- und Ausgabeschritte verdichtet und bestehende Beleg- und Fallanker erhalten. Grenzen des Mini-Formats geprüft."
+      "Wiederholte Fristen- und Ausgabeschritte verdichtet und bestehende Beleg- und Fallanker erhalten. Grenzen des Mini-Formats geprüft.",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Reihenfolge von Konsultation, Anzeige und Kündigung sowie die begrenzte Fehlerfolge bei Überzählung eingearbeitet."
     ],
-    "sha256": "0a6afe7c6bc04c1e737291f796e63513a67f2cc332513b1d87212e5e50020133",
+    "sha256": "85087718548b539a973b3ba2d2fabd90069be98c59fc089b604fbed4255e9f11",
     "reviewed_on": "2026-11-04",
     "method": "desk_review"
   },
@@ -289,12 +300,13 @@
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
       "25.09.2026: Zitierdatum des Fokus-Skills für 5 AZR 347/21 anhand amtlicher Metadaten auf 09.02.2022 korrigiert; Anspruchs- und Berechnungsmethode unverändert.",
-      "04.11.2026: Kündigungsgrund mit KI-Bezug und konkrete Qualifizierung als milderes Mittel von der eigenständigen Annahmeverzugsrechnung abgegrenzt."
+      "04.11.2026: Kündigungsgrund mit KI-Bezug und konkrete Qualifizierung als milderes Mittel von der eigenständigen Annahmeverzugsrechnung abgegrenzt.",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Schutz des Annahmeverzugsanspruchs vor einem Ausschluss bei Rechtswahl im Zielskill ergänzt."
     ],
     "prompt_path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
     "prompt_sha256": "2f097024e60b38814834d0f96fab9bfc2bae8c6b327272723929602e0466d391",
     "skill_path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
-    "skill_sha256": "d5d857ca9d91a2d19589243edb189b6c3addebacad653d770395138695f4d6a5"
+    "skill_sha256": "39b3e344ea8e2d4dc462b41cdb1f84a81e9c306cd2dfd5280b7f07db2dbc949f"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -310,9 +322,10 @@
       "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
-      "04.11.2026: Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert."
+      "04.11.2026: Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert.",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Funktionalen Maßstab für Anzeigefehler eingearbeitet."
     ],
-    "sha256": "c3611a2565c80496a8d6e277bce7d519cb00dc84a7e7bf22f10fe523e5b2ccb6",
+    "sha256": "15567317927d47782f96398b37eb978ba80f7fa750f00a2bcb9539f480b69f00",
     "reviewed_on": "2026-11-04"
   },
   "selection": {
@@ -1062,6 +1075,20 @@
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-282-10/",
         "application": "Konkrete Weisung, Drittzugriff, Pflichtverletzung und Abmahnung bei Datenverarbeitung getrennt prüfen.",
         "limit": "Private Festplatte im Einzelfall. Abweichende Risiken eines externen KI-Anbieters ermitteln."
+      },
+      {
+        "citation": "BAG, Urteil vom 25.06.2026 – 6 AZR 7/26, Rn. 27–36",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/",
+        "application": "Aufgabenbezug des Anzeigefehlers anhand des konkreten Meldeinhalts prüfen. Geringfügige Überzählung blieb im Streitfall unschädlich.",
+        "limit": "Fehlende Anzeige und Anzeige vor abgeschlossener erforderlicher Konsultation gesondert prüfen. Die Sperrfrist betrifft die Beendigungswirkung.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BAG, Urteil vom 30.07.2026 – 2 AZR 91/24, Rn. 10–17",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/",
+        "application": "Vorherigen Ausschluss von Annahmeverzugsansprüchen wegen einer unwirksamen oder erst später wirkenden Arbeitgeberkündigung auch bei Rechtswahl am maßgeblichen zwingenden deutschen Schutz messen.",
+        "limit": "Deutscher Schutzstandard nur nach dem einschlägigen Kollisionsrecht. Keine abschließende Zuerkennung, da die Sache zurückverwiesen wurde.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [

@@ -156,7 +156,7 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 - EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 — Vorverlegung als Annullierung
 - EuGH, Urt. v. 16.5.2024, C-405/23 — Personalmangel Flughafen
 - EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung bestaetigend
-- EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler Triebwerk
+- EuGH, Urt. v. 13.6.2024, C-411/23 — versteckter Konstruktionsfehler Triebwerk
 - EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
@@ -211,6 +211,6 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
  - C-146/20, C-188/20, C-196/20 (21.12.2021) — Vorverlegung als Annullierung
  - C-405/23 (16.5.2024) — Personalmangel Flughafen
  - C-394/23 (9.1.2025) — Vorverlegung bestaetigend
- - C-411/23 (13.6.2025) — versteckter Konstruktionsfehler
+ - C-411/23 (13.6.2024) — versteckter Konstruktionsfehler
  - C-399/24 (16.10.2025) — Blitzschlag
 - Leitlinien der Kommission zur Auslegung VO 261/2004: ABl. EU C 2024/05687

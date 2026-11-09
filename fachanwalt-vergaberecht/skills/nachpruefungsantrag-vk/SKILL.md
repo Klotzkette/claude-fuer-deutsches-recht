@@ -52,7 +52,7 @@ description: "Für Nachprüfungsantrag bei der Vergabekammer nach Paragrafen 160
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---|---|---|---|---|
 | EuGH | C-292/15 (Hoersch Auto) | 27.10.2016 | Vergabe öffentlicher Liefer-/Dienstleistungen unterhalb der Schwellenwerte: Transparenz- und Diskriminierungsverbot bei „grenzueberschreitendem Interesse" | curia.europa.eu (Akte C-292/15) |
-| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Auslegung VO 2014/24/EU: Ausschluss wegen Falschangaben — Verhältnismäßigkeit; nationale Behörde muss konkrete Wuerdigung vornehmen | curia.europa.eu |
+| EuGH | C-267/18 (Delta) | 03.10.2019 | Bei erheblicher oder fortdauernder mangelhafter Erfüllung eines früheren Auftrags die Zuverlässigkeit eigenständig und verhältnismäßig prüfen und Gelegenheit zur Darlegung von Abhilfemaßnahmen geben (Rn. 25–38) | [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0267) |
 | EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstossen § 124 GWB / Art. 57 RL 2014/24: ein einzelner Verstoss reicht; Beurteilung obliegt AG | curia.europa.eu |
 | OLG Duesseldorf, Vergabesenat | Verg laufende Senatsentscheidungen — vor Ausgabe verifizieren | 2023–2025 | Ruegeprueclusion § 160 Abs. 3 GWB; konkrete Anforderungen an Rueginhalt | olg-duesseldorf.nrw.de |
 | OLG Karlsruhe | 15 Verg (laufende Senatsrspr.) | 2023–2025 | Antragsbefugnis und drohender Schaden bei ausgeschlossenem Bieter | landesrecht-bw.de / openjur.de |

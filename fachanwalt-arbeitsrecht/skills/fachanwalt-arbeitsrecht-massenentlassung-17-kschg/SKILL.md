@@ -7,16 +7,16 @@ description: "Für Massenentlassung Paragraf 17 KSchG: ordnet Norm, Beweislast u
 
 ## Zweck
 
-Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlassung vorbereiten. Versaeumnis fuehrt zur **Unwirksamkeit ALLER Kuendigungen** (EuGH Junk / BAG). Dieser Skill deckt sowohl die Arbeitgeber-Strategie (Compliance-Checkliste) als auch die Arbeitnehmer-Strategie (Klageerhebung bei Verfahrensfehler) ab.
+Anzeige, Konsultation und Sozialplan bei Massenentlassungen getrennt vorbereiten und die jeweilige Fehlerfolge bestimmen. Der Skill führt durch die Verfahrensplanung auf Arbeitgeberseite und durch die Prüfung einer Kündigungsschutzklage auf Arbeitnehmerseite.
 
 ## Triage — vor jeder Bearbeitung klaeren
 
 1. **Wie viele Arbeitnehmer hat der Betrieb?** — Betriebsbegriff nach BAG (nicht Unternehmen!): selbstaendige Organisation mit eigener Leitung, Paragraf 4 BetrVG.
 2. **Wie viele Entlassungen sind geplant, in welchem Zeitraum?** — Massgeblich: 30 Tage.
 3. **Gibt es einen Betriebsrat?** — Ohne BR: keine Konsultation, aber Anzeige bei BA zwingend; Sozialplan-Pflicht entfaellt.
-4. **Ist Insolvenz im Hintergrund?** — Bei Insolvenz: Paragraf 125 InsO vereinfacht Sozialplan; aber Anzeigepflicht bleibt bestehen.
-5. **Wurde das Konsultationsverfahren bereits eingeleitet?** — Reihenfolge zwingend: (1) Konsultation, (2) Anzeige, (3) Kuendigung; Abkuerzung = Unwirksamkeit.
-6. **Wann sollen die Kuendigungen ausgesprochen werden?** — Entlassungssperre 1 Monat nach Anzeige; ggf. Verlaengerung durch BA bis 2 Monate einplanen.
+4. **Ist Insolvenz im Hintergrund?** — Bei Insolvenz die Sonderregeln zum Sozialplan (§§ 123, 124 InsO) und zur Kündigung (§ 125 InsO) getrennt prüfen. Die Anzeigepflicht bleibt zu prüfen.
+5. **Wurde das Konsultationsverfahren bereits eingeleitet?** — Erforderliche Konsultation abschließen, wirksame Anzeige erstatten und erst dann die Kündigung erklären. Bei Fehlern deren Zweckbezug und die betroffene Kündigung prüfen.
+6. **Wann sollen die Kuendigungen ausgesprochen werden?** — Datum des Ausspruchs, Ablauf der Kündigungsfrist und Sperrfrist getrennt planen. Eine Zustimmung zur Verkürzung oder Verlängerung durch die Agentur einbeziehen.
 7. **Plant AG Sozialplan-Verhandlung oder versucht er es zu vermeiden?** — Bei Verweigerung des Versuchs: Nachteilsausgleich Paragraf 113 BetrVG.
 8. **Handelt es sich um einen AN-Mandanten nach Kuendigungserhalt?** — Dann sofort: 3-Wochen-Frist Paragraf 4 KSchG sichern; BA-Anfrage ob Anzeige ordnungsgemaess war.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -32,7 +32,7 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 | Paragraf 17 Abs. 3 KSchG | Anzeige bei der Bundesagentur fuer Arbeit (schriftlich) |
 | Paragraf 18 Abs. 1 KSchG | Entlassungssperre: 1 Monat nach Anzeige |
 | Paragraf 18 Abs. 2 KSchG | Verlaengerung bis 2 Monate durch BA |
-| Paragraf 20 KSchG | Folgen der Anzeige; Ausnahmen bei bestimmten Insolvenzfaellen |
+| Paragraf 20 KSchG | Entscheidungsträger, Anhörung und Abwägung bei Entscheidungen der Agentur nach § 18 Abs. 1 und 2 KSchG |
 | Paragraf 112 BetrVG | Interessenausgleich und Sozialplan; Einigungsstelle |
 | Paragraf 112a BetrVG | Sozialplan-Pflicht bei Betriebsaenderungen; Einschraenkungen |
 | Paragraf 113 BetrVG | Nachteilsausgleich bei Umgehung des Interessenausgleichs |
@@ -48,27 +48,29 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 | 500 AN und mehr | Mindestens 30 Entlassungen |
 
 
-### Leitentscheidungen (Stand Mai 2026)
+### Leitentscheidungen zur Konsultation und Anzeige
 
-| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
+| Gericht | Aktenzeichen | Datum | Kernaussage | Amtlicher Volltext |
 |---|---|---|---|---|
-| BAG, 6. Senat | 6 AZR 152/22 | 01.04.2026 | Verfruehte Massenentlassungsanzeige (vor Abschluss der BR-Konsultation) fuehrt zur Unwirksamkeit aller Kuendigungen; keine Heilung nach Kuendigungsausspruch | dejure.org Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren" |
-| BAG, 6. Senat | 6 AZR 157/22 | 01.04.2026 | Fehlende Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller Kuendigungen; keine Heilung nach Kuendigungsausspruch | dejure.org Vernetzung; bundesarbeitsgericht.de Pressemitteilung |
-| EuGH | C-134/24 (Tomann) | 30.10.2025 | Massenentlassungsanzeige bleibt Wirksamkeitsvoraussetzung; eine fehlende Anzeige ist nach Kuendigungsausspruch nicht heilbar | dejure.org Vernetzung |
-| EuGH | C-402/24 (Sewel) | 30.10.2025 | Verfruehte Anzeige vor Abschluss der Konsultation ist unzulaessig; 30-Tage-Sperrfrist (Art. 4 RL 98/59/EG) beginnt erst mit ordnungsgemaesser Anzeige | dejure.org Vernetzung |
-| BAG, 6. Senat | 6 AZR 155/21 | (vor 2026) | Bloss unterbliebene Uebermittlung der Abschrift nach Paragraf 17 Abs. 3 Satz 1 KSchG ist fuer sich allein kein zur Unwirksamkeit fuehrender Fehler | dejure.org / bundesarbeitsgericht.de |
+| BAG | 6 AZR 7/26 | 25.06.2026 | Eine vorhandene Anzeige bleibt trotz Fehler wirksam, wenn die Arbeitsverwaltung ihre Aufgabe erfüllen kann. Im entschiedenen Fall war die Angabe von 34 statt 31 Entlassungen unschädlich. | [Rn. 27 bis 36](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/) |
+| BAG | 6 AZR 152/22 | 01.04.2026 | Die vor Abschluss der erforderlichen Konsultation erstattete Anzeige trägt die daraufhin ausgesprochene Kündigung nicht. | [Leitsatz und Rn. 23 ff.](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-152-22/) |
+| BAG | 6 AZR 157/22 | 01.04.2026 | Die anzeigepflichtige Kündigung ist unwirksam, wenn die erforderliche Anzeige vor Ausspruch fehlt. | [Leitsatz](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-157-22/) |
+| EuGH | C-134/24 (Tomann) | 30.10.2025 | Eine ohne erforderliche Anzeige ausgesprochene Kündigung kann nicht durch Nachholen der Anzeige wirksam werden. | [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0134) |
+| EuGH | C-402/24 (Sewel) | 30.10.2025 | Die Anzeige setzt den Abschluss der erforderlichen Konsultation voraus. Die Sperrfrist dient der Suche nach arbeitsmarktpolitischen Lösungen. | [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0402) |
+| BAG | 6 AZR 155/21 | 23.05.2024 | Die isoliert fehlende Abschrift der einleitenden Unterrichtung nach Paragraf 17 Absatz 3 Satz 1 KSchG führt nicht zur Unwirksamkeit. | [Leitsatz](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-155-21/) |
+
 
 ## Pruefschema Massenentlassung
 
 | Schritt | Pruefpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Schwellenwert erreicht? (Betriebsgroesse x Entlassungszahl) | Paragraf 17 Abs. 1 KSchG | Kein Anzeigeverfahren noetig |
-| 3 | Konsultation BR vollstaendig und rechtzeitig? | Paragraf 17 Abs. 2 KSchG | Anzeige und Kuendigungen unwirksam |
+| 3 | Konsultation BR vollstaendig und rechtzeitig? | Paragraf 17 Abs. 2 KSchG | Anzeige vor Abschluss der erforderlichen Konsultation trägt die daraufhin erklärte Kündigung nicht. |
 | 5 | Anzeige schriftlich bei zustaendiger BA? | Paragraf 17 Abs. 3 KSchG | Fehlende Anzeige = Unwirksamkeit |
-| 6 | BR-Stellungnahme der Anzeige beigefuegt? | Paragraf 17 Abs. 3 S. 2 KSchG | Anzeige unvollstaendig |
-| 8 | Entlassungssperre 1 Monat beachtet? | Paragraf 18 Abs. 1 KSchG | Kuendigung vor Fristablauf unwirksam |
+| 6 | BR-Stellungnahme der Anzeige beigefuegt? | Paragraf 17 Abs. 3 S. 2 und 3 KSchG | Bei fehlender Stellungnahme prüfen, ob Unterrichtung mindestens zwei Wochen vor Anzeige glaubhaft gemacht und Beratungsstand dargelegt wurde. |
+| 8 | Beendigungswirkung und Sperrfrist prüfen | Paragraf 18 Absatz 1 und 2 KSchG | Anzeige vor Ausspruch, Ablauf der Sperrfrist und gegebenenfalls behördliche Zustimmung getrennt prüfen |
 | 9 | Interessenausgleich versucht? | Paragraf 112 Abs. 2 BetrVG | Nachteilsausgleich Paragraf 113 BetrVG |
-| 10 | Sozialplan-Verhandlung oder Einigungsstelle? | Paragraf 112 Abs. 2-4 BetrVG | Erzwingbar; keine Kuendigung ohne Sozialplan moeglich wenn BR widerspricht |
+| 10 | Sozialplan oder Einigungsstelle prüfen | Paragraf 112 und 112a BetrVG | Erzwingbarkeit und Folgen einer durchgeführten Betriebsänderung gesondert prüfen. Ein ausstehender Sozialplan und ein Widerspruch bilden für sich kein Kündigungsverbot. |
 | 11 | Individuelle BR-Anhoerung nach Paragraf 102 BetrVG pro Kuendigung? | Paragraf 102 BetrVG | Gesonderte Unwirksamkeit jeder einzelnen Kuendigung |
 
 ## Konsultationsverfahren Paragraf 17 Abs. 2 KSchG
@@ -92,12 +94,12 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 
 ```
 1. Schriftliche Unterrichtung des Betriebsrats (Paragraf 17 Abs. 2 S. 1 KSchG)
-2. Konsultationsverhandlungen — Dauer: mindestens 2 Wochen
-3. Stellungnahme des Betriebsrats einholen (oder Schweigen nach Fristablauf dokumentieren)
+2. Erforderliche Konsultation führen und ihren Abschluss dokumentieren
+3. Stellungnahme beifügen oder Voraussetzungen des § 17 Abs. 3 Satz 3 KSchG belegen
 4. Schriftliche Anzeige bei der Bundesagentur fuer Arbeit (Paragraf 17 Abs. 3 KSchG)
 5. Eingang der Anzeige bei BA abwarten (nicht nur Absendung!)
-6. Ablauf Entlassungssperre 1 Monat ab Anzeigeneingang (Paragraf 18 Abs. 1 KSchG)
-7. Erst jetzt: Kuendigungsschreiben aushaendigen
+6. Nach Eingang der wirksamen Anzeige und gesonderter Anhörung (§ 102 BetrVG) Kündigung erklären
+7. Für die Beendigungswirkung Kündigungsfrist und Sperrfrist (§ 18 KSchG) prüfen
 ```
 
 
@@ -109,19 +111,18 @@ Agentur fuer Arbeit [Ort — Betriebssitz]
 
 Massenentlassungs-Anzeige nach Paragraf 17 KSchG
 
-1. Name und Anschrift des Arbeitgebers: [...]
-2. Branche / Wirtschaftszweig: [...]
+1. Name des Arbeitgebers: [...]
+2. Sitz und Art des Betriebs: [...]
 3. Gruende fuer die geplanten Entlassungen: [...]
-4. Zahl der in der Regel beschaeftigten Arbeitnehmer: [...]
+4. Zahl und Berufsgruppen der in der Regel beschäftigten Arbeitnehmer: [...]
 5. Zahl und Berufsgruppen der zu entlassenden Arbeitnehmer: [...]
 6. Geplanter Zeitraum der Entlassungen (30-Tages-Fenster): [...]
 7. Vorgesehene Kriterien fuer die Auswahl (Sozialauswahl): [...]
-8. Fuer die Berechnung etwaiger Abfindungen vorgesehene Kriterien: [...]
-9. Name, Anschrift, Art des Betriebsrats: [...]
+8. Sollangaben nach § 17 Abs. 3 Satz 5 KSchG im Einvernehmen mit dem Betriebsrat: [...]
 
 Anlagen:
 - Schreiben an Betriebsrat zur Konsultation (Paragraf 17 Abs. 2 KSchG) vom [Datum]
-- Stellungnahme des Betriebsrats vom [Datum] / Protokoll Konsultationsgespraeche
+- Stellungnahme des Betriebsrats vom [Datum] oder Glaubhaftmachung der rechtzeitigen Unterrichtung und Darlegung des Beratungsstands
 
 [Ort, Datum, Unterschrift Geschaeftsfuehrung]
 ```
@@ -158,23 +159,23 @@ Anlagen:
 3. Sozialplan-Volumen vorab kalkulieren: Budget festlegen (0.5 bis 1.0 Monat x Betriebsjahre)
 4. Kommunikationsplan: wann informiert AG wen? Reihenfolge BR — BA — Presse
 
-### Phase 2 — Konsultation Betriebsrat (Mindestens 2 Wochen)
+### Phase 2 — Konsultation des Betriebsrats bis zum Abschluss
 
 5. Schriftliche Unterrichtung nach Paragraf 17 Abs. 2 KSchG (vollstaendiger Inhalt — s. Checkliste)
 6. Erste Konsultationssitzung: Protokollierung, Alternativvorschlaege des BR entgegennehmen
 7. Verhandlung Interessenausgleich parallel beginnen
-8. BR-Stellungnahme einholen; bei Schweigen: Schweigen nach Fristablauf dokumentieren
+8. Stellungnahme einholen. Fehlt sie, Abschluss der Konsultation und Voraussetzungen des § 17 Abs. 3 Satz 3 KSchG dokumentieren.
 
 ### Phase 3 — Anzeige bei BA
 
-9. Vollstaendige Anzeige inkl. BR-Stellungnahme; Eingang bei BA bestaetigen lassen
+9. Vollständige Anzeige mit Stellungnahme oder Nachweisen nach § 17 Abs. 3 Satz 3 KSchG erstatten und Eingang belegen.
 10. Entlassungssperre von 1 Monat in Planung eintragen (Paragraf 18 Abs. 1 KSchG)
 11. Ggf. Verlaengerung durch BA bis 2 Monate beachten (Paragraf 18 Abs. 2 KSchG)
 
 ### Phase 4 — Kuendigungen
 
-12. Erst nach Ablauf der Entlassungssperre: individuelle Kuendigungsschreiben aushaendigen
-13. Fuer jede Kuendigung: gesonderte BR-Anhoerung nach Paragraf 102 BetrVG
+12. Vor jeder Kündigung den Betriebsrat nach § 102 BetrVG gesondert anhören.
+13. Kündigung nach Eingang der wirksamen Anzeige und abgeschlossener Anhörung erklären. Für das Beendigungsdatum § 18 KSchG prüfen.
 14. Dokumentation: Zugangsnachweise sichern (Boten-Zustellung, Einschreiben)
 
 ### Phase 5 — Nachbereitung
@@ -234,7 +235,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
 | 30-Tages-Fenster fuer Schwellenwert | 30 Tage | Paragraf 17 Abs. 1 KSchG |
-| Konsultation Betriebsrat | Mindestens 2 Wochen (Praxis) | Paragraf 17 Abs. 2 KSchG i.V.m. BAG |
+| Ersatznachweis bei fehlender Stellungnahme | Unterrichtung mindestens zwei Wochen vor Anzeige und Darlegung des Beratungsstands | § 17 Abs. 3 Satz 3 KSchG |
 | Entlassungssperre nach Anzeige | 1 Monat | Paragraf 18 Abs. 1 KSchG |
 | Verlaengerung durch BA | Bis 2 Monate | Paragraf 18 Abs. 2 KSchG |
 | Kuendigungsschutzklage AN | 3 Wochen ab Zugang | Paragraf 4 KSchG |
@@ -244,12 +245,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 | Fehler | Folge |
 |---|---|
-| Konsultation nach Anzeige statt davor | EuGH-Junk-Verstoss; alle Kuendigungen unwirksam |
-| Kuendigungsschreiben vor BA-Eingang der Anzeige | Alle Kuendigungen unwirksam |
-| Anzeige ohne BR-Stellungnahme | Anzeige unvollstaendig; wiederholen |
-| Sozialplan-Verhandlung umgangen | Nachteilsausgleich Paragraf 113 BetrVG fuer alle entlassenen AN |
+| Anzeige vor Abschluss der erforderlichen Konsultation | Anzeige trägt die daraufhin erklärte Kündigung nicht (BAG 6 AZR 152/22). |
+| Kündigung vor Eingang der erforderlichen Anzeige | Kündigung unwirksam (BAG 6 AZR 157/22). |
+| Anzeige ohne Stellungnahme des Betriebsrats | Ersatznachweis nach § 17 Abs. 3 Satz 3 KSchG und funktionales Gewicht des Fehlers prüfen. |
+| Betriebsänderung ohne Versuch eines Interessenausgleichs durchgeführt | Anspruchsvoraussetzungen des § 113 BetrVG für die betroffenen Beschäftigten prüfen. |
 | Paragraf 102 BetrVG-Anhoerung pro Kuendigung vergessen | Jede einzelne Kuendigung gesondert unwirksam |
-| Individuelle Kuendigung vor Ablauf der Entlassungssperre | Unwirksam nach Paragraf 18 Abs. 1 KSchG |
+| Geplante Beendigungswirkung innerhalb der Sperrfrist | Ablauf der Sperrfrist, Zustimmung der Agentur und Kündigungstermin gesondert prüfen. |
 
 ## Streitwert und Kosten
 

@@ -103,7 +103,11 @@ Trägt: Fehlt beim Anspruchsgegner die Verbindung von Gesellschafter- und Darleh
 
 Trägt nicht: Ein bloßer Umgehungsvorwurf, persönliche Bekanntschaft, beobachtende Teilnahme an Gesprächen, Einflussmöglichkeit oder ein auffälliger Kaufpreis genügten ohne weitere Tatsachen. Die Entscheidung ersetzt nicht die gesonderte Prüfung einer Abtretung innerhalb der Jahresfrist nach IX ZR 32/12.
 
-### 4.5 Prüfung vor Verwendung
+### 4.5. Rangdurchsetzung und Zinszahlungen bei Auslandsbezug
+
+[BGH, Urteil vom 17.09.2026 – IX ZR 229/23](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip), Rn. 13–16, 24, 28–29 und 37–38, ordnet § 135 Abs. 1 Nr. 2 InsO als Durchsetzung des Gesellschafterdarlehensnachrangs ein. Art. 13 EuInsVO a. F. steht diesem Zugriff nicht entgegen. Prüfen Sie weiterhin die Gläubigerbenachteiligung und jede einzelne Leistung. Vertragliche Zinszahlungen fallen grundsätzlich nicht unter § 135 Abs. 1 Nr. 2 InsO. Prüfen Sie insbesondere Überhöhung gegenüber marktüblichen Zinsen oder eine darlehensgleiche Stundung. Der BGH bestätigte die Beurteilung zu Tilgung und darlehensgleichen Warenlieferungen. Zur Anfechtbarkeit der Zinszahlungen verwies er die Sache zurück, weil Feststellungen fehlten.
+
+### 4.6 Prüfung vor Verwendung
 
 Prüfen Sie die anwendbare Normfassung und jede tragende gerichtliche Aussage anhand der [Rechtsquellen](../../references/rechtsquellen.md) und der [Zitierweise](../../references/zitierweise.md). Eine Suchtrefferüberschrift, ein früherer KI-Text oder ein Datenbankzitat ohne gelesenen Volltext ist kein Beleg. Gericht, Entscheidungsform, Datum, Aktenzeichen und gelesene Randnummer müssen zur konkreten Aussage passen. Dokumentieren Sie, was der Anker trägt und was er nicht trägt. Übernehmen Sie keine allgemeine Bindung aus einem Präzedenzfall.
 

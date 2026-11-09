@@ -121,6 +121,21 @@
       "checked_on": "2026-10-16",
       "supports": "Rn. 31 bis 44: Artikel 85 Absatz 1 DSGVO erlaubt keine zusätzlichen Ausnahmen außerhalb des Rahmens von Absatz 2. Rn. 45 bis 51: Rechtsbehelfe aus Artikeln 77 bis 79 und 82 dürfen nicht durch bloße Verleumdungsverfahren ersetzt werden. Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind für journalistische Zwecke maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus; beliebiger zahlender Nutzerkreis wird durch mögliche Journalistennutzung nicht privilegiert. Grenze: Tatsachenprüfung bleibt dem nationalen Gericht; keine pauschale Entscheidung über sämtliche deutschen Medienausnahmen. Kein automatischer Löschungs- oder Schadensersatzanspruch. Recherche vor Veröffentlichung einschließlich nicht verwendeten Materials kann erfasst sein. Eigene Kundennutzung, etwa Bewerberprüfung, gesondert nach Artikel 10 und eigener Rechtsgrundlage prüfen; Lizenz ersetzt keine datenschutzrechtliche Erlaubnis.",
       "verification_status": "status: Amtliche deutsche Urteilsfassung gezielt gelesen; read_scope: Sachverhalt, Rn. 31 bis 78 und Tenor; method: Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.; verified_on: 2026-10-16; opinion_distinction: Schlussanträge vom 04.09.2025 sind nicht das Urteil."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler, Rn. 37–45, 48–55 und 59–67. Auch der erste Auskunftsantrag kann bei nachgewiesener Absicht, künstlich einen Ersatzanspruch herbeizuführen, exzessiv sein. Ein Auskunftsverstoß kann Art. 82 DSGVO auslösen. Anzahl früherer Anträge und kurze Zeitabstände reichen für sich genommen nicht. Tatsächlichen Schaden und Kausalität eigenständig prüfen. Eine Handlung der betroffenen Person kann als entscheidende Schadensursache die Kausalität unterbrechen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:72023L2225DEU_202603294",
+      "checked_on": "2026-11-10",
+      "supports": "BGBl. 2026 I Nr. 139, Art. 3 Nr. 3 und 4, Art. 16 Abs. 1. § 31 BDSG wird zum 20.11.2026 aufgehoben, gleichzeitig tritt § 37a BDSG in Kraft. Unionsrechtliche Voraussetzungen und datumsbezogene Anwendung gesondert prüfen."
     }
   ],
   "mini_review": {
@@ -133,9 +148,10 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Auskunft, Verarbeitung und konkretes Dokument werden unmittelbar verständlich; der vorhandene CRIF-Absatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24"
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Amtlichen Volltext Brillen Rottler mit geprüften Randnummern eingebunden."
     ],
-    "sha256": "53f8857d30d91b2bbd41be248c8e8d5afa3acb924641193e1ffc47b3fe548b30"
+    "sha256": "c75853add58c864f4d6800909665621ab7581366fcf8665a115653d97cd519cb"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -148,9 +164,10 @@
       "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Auskunft, Verarbeitung und konkretes Dokument werden unmittelbar verständlich; der vorhandene CRIF-Absatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24"
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Brillen Rottler und Dun & Bradstreet auf amtliche Volltexte umgestellt. Scoring nach dem Stichtag der BDSG-Neuregelung eingeordnet."
     ],
-    "sha256": "9ba03704d029aa36a2c20c72930daf96881378c2630bbb6c2577be3da689fa59"
+    "sha256": "7d575b5f37c0a04c3a1191f7e0ba2d5b798359042a93532cc1158911c425335c"
   },
   "selection": {
     "positive": [
@@ -302,10 +319,11 @@
         "limit": "Verstoß allein genügt nicht, keine automatische Schadenspauschale oder Strafentschädigung."
       },
       {
-        "citation": "EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler",
-        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038en.pdf",
-        "application": "Erster Auskunftsantrag kann bei nachgewiesener künstlicher Herbeiführung eines Ersatzanspruchs exzessiv sein; Schaden und Kausalität eigenständig prüfen.",
-        "limit": "Gerichtliche englische PM 38/26 vollständig neu gelesen; kein Volltext und keine Randnummernprüfung. Zahl früherer Anträge allein genügt nicht."
+        "citation": "EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler, Rn. 37–45, 48–55 und 59–67",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526",
+        "application": "Auch der erste Auskunftsantrag kann bei nachgewiesener Absicht, künstlich einen Ersatzanspruch herbeizuführen, exzessiv sein. Ein Auskunftsverstoß kann Art. 82 DSGVO auslösen.",
+        "limit": "Anzahl früherer Anträge und kurze Zeitabstände reichen für sich genommen nicht. Tatsächlichen Schaden und Kausalität eigenständig prüfen. Eine Handlung der betroffenen Person kann als entscheidende Schadensursache die Kausalität unterbrechen.",
+        "checked_on": "2026-11-10"
       },
       {
         "citation": "BFH, Urteil vom 30.06.2026 – IX R 2/25, Gründe II.1 und II.3",
@@ -322,6 +340,13 @@
         "verification_status": "status: Amtliche deutsche Urteilsfassung gezielt gelesen; read_scope: Sachverhalt, Rn. 31 bis 78 und Tenor; method: Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.; verified_on: 2026-10-16; opinion_distinction: Schlussanträge vom 04.09.2025 sind nicht das Urteil.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
         "workflow_effect": "Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben."
+      },
+      {
+        "citation": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+        "application": "Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen.",
+        "limit": "An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [

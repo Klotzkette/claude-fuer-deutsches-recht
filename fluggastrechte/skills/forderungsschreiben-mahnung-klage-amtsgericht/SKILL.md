@@ -149,7 +149,7 @@ Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben 
 - EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — übliche technische Betriebsprobleme regelmäßig nicht außergewöhnlich; externe Ursachen und Gegenmaßnahmen gesondert prüfen
 - EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspätung Anschlussflüge
 - EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung als Annullierung
-- EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler Triebwerk
+- EuGH, Urt. v. 13.6.2024, C-411/23 — versteckter Konstruktionsfehler Triebwerk
 - EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
 ## Triage vor Mahnung — Checkliste

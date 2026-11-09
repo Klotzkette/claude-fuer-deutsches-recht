@@ -13,7 +13,7 @@ Nutze diesen Skill, wenn eine Auskunftei erledigte Zahlungsstörungen, Restschul
 
 - DSGVO Art. 5 Abs. 1 lit. a, c, e; Art. 6 Abs. 1 lit. f; Art. 12, 15, 16, 17, 18, 21, 22, 77, 79, 82.
 - DSGVO Art. 40, wenn genehmigte Verhaltensregeln der Auskunfteien als Orientierung behauptet werden.
-- BDSG § 31 als nationaler Scoring-Anker nur unionsrechtskonform verwenden.
+- Bei Scoring § 31 BDSG bis 19.11.2026, § 37a BDSG ab 20.11.2026 nach Vorgangsdatum prüfen und an Art. 22 DSGVO messen.
 - ZPO §§ 882c, 882e, 882f zum Schuldnerverzeichnis.
 - InsO § 9 und InsBekV § 3 zu öffentlichen Insolvenzbekanntmachungen.
 
@@ -21,7 +21,7 @@ Nutze diesen Skill, wenn eine Auskunftei erledigte Zahlungsstörungen, Restschul
 
 - **EuGH, Urteil vom 07.12.2023 - C-634/21, SCHUFA Holding (Scoring)**: Automatisiertes Scoring kann eine Entscheidung nach Art. 22 DSGVO sein, wenn Dritte den Score maßgeblich für Vertragsentscheidungen nutzen.
 - **EuGH, Urteil vom 07.12.2023 - C-26/22 und C-64/22, SCHUFA Holding (Restschuldbefreiung)**: Speicherung aus öffentlichen Insolvenzregistern darf die öffentliche Löschfrist nicht unterlaufen; Art. 5 und Art. 6 DSGVO verlangen strenge Abwägung.
-- **BGH, Urteil vom 18.12.2025 - I ZR 97/25**: Für von Vertragspartnern gemeldete erledigte Zahlungsstörungen ist die Löschfrist des Schuldnerverzeichnisses nicht automatisch die Obergrenze; zulässig ist nur eine konkrete Art.-6-Abs.-1-lit.-f-Abwägung mit Datenminimierung und Einzelfallbesonderheiten.
+- Bei unmittelbar von Vertragspartnern gemeldeten, erledigten Zahlungsstörungen entscheidet die konkrete Abwägung nach Art. 6 Abs. 1 lit. f DSGVO. Die vom BGH besprochenen Verhaltensregeln können Orientierung geben. Sie sehen im Regelfall drei Jahre und unter kumulativen Voraussetzungen 18 Monate vor. Prüfe Ausgleich binnen 100 Tagen ab Einmeldung, weitere Negativmeldungen bis zum Ablauf der 18 Monate und das Vorliegen von Informationen aus dem Schuldnerverzeichnis oder aus Insolvenzbekanntmachungen. Besondere Umstände können eine kürzere Frist erfordern. Der BGH verwies die Sache zurück. [BGH, Urteil vom 18.12.2025 – I ZR 97/25, Rn. 36 und 45–52](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/i_zr__97-25.pdf).
 
 ## Prüfprogramm
 

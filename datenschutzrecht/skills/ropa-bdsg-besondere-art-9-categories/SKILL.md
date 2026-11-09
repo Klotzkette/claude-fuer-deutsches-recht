@@ -39,11 +39,11 @@ Verarbeitung zulässig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeits
 
 ### § 26 BDSG – Beschäftigtendaten
 
-§ 26 BDSG bleibt nach Aufhebung durch BVerfG-Rechtsprechung und nachfolgende Gesetzgebung als Rechtsgrundlage praeskriptiv relevant; daneben kommen Kollektivvereinbarungen (§ 26 Abs. 4 BDSG) und Einwilligung (§ 26 Abs. 2 BDSG) in Betracht.
+Prüfe § 26 BDSG absatz- und zweckbezogen. Die Entscheidung zur hessischen Beschäftigtendatennorm gibt den Prüfmaßstab für die Anwendbarkeit nationaler Vorschriften vor. Prüfe die spezifischen Garantien nach Art. 88 Abs. 2 DSGVO und die eigenständig einschlägige Grundlage nach Art. 6 DSGVO. Bei besonderen Datenkategorien kommt Art. 9 DSGVO hinzu, etwa Art. 9 Abs. 2 lit. b in Verbindung mit § 26 Abs. 3 BDSG. [EuGH, Urteil vom 30.03.2023 – C-34/21, Rn. 65–89](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0034).
 
 ### § 22 BDSG
 
-§ 22 BDSG regelt die Verarbeitung besonderer Datenkategorien zu im öffentlichen Interesse liegenden Zwecken, für Beschäftigungszwecke, für praeventive Medizin u. a.; § 22 Abs. 2 BDSG verlangt **spezifische TOMs**, die im RoPA dokumentiert werden müssen.
+§ 22 Abs. 1 BDSG enthält zweck- und stellenbezogene Erlaubnisse, etwa für die Gesundheitsvorsorge oder Beurteilung der Arbeitsfähigkeit unter den dortigen Geheimhaltungsvoraussetzungen. Erfasst der Vorgang § 22 Abs. 1 BDSG, sind die angemessenen und spezifischen Maßnahmen nach § 22 Abs. 2 BDSG zu bestimmen und nachvollziehbar zu dokumentieren. Für das RoPA den Verweis auf das Schutzkonzept aufnehmen. [§ 22 BDSG](https://www.gesetze-im-internet.de/bdsg_2018/__22.html).
 
 ### Art. 10 DSGVO
 
@@ -84,11 +84,11 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 - TOMs nach Art. 32 statt nach § 22 Abs. 2 BDSG (zusaetzliche Anforderungen).
 - Religionszugehoerigkeit aus Lohnsteuerklasse abgeleitet und ungesichert im allgemeinen HR-System.
 
-## Quellen Stand 06/2026
+## Quellen Stand 11/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 9, Art. 10, Art. 30, Art. 35.
 - BDSG, §§ 22, 26.
 - BGB § 630f (Patientenakte).
 - EStG § 39 (Lohnsteuermerkmale).
 - EDSA: Leitlinien 03/2019 zur Verarbeitung personenbezogener Daten durch Videoeinrichtungen (Version 2.0 vom 29.01.2020).
-- BVerfG, Beschluss vom 11.11.2020 – 1 BvR 3214/15 (Antiterrordatei-Folgeentscheidung) – bei Anpassung des § 22 BDSG sinngemäß beachten; vor Zitierung amtliche Fundstelle prüfen.
+- Ein Medizinischer Dienst kann auch die Arbeitsfähigkeit eigener Beschäftigter begutachten, wenn er in der Rolle des Medizinischen Dienstes handelt. Art. 9 Abs. 2 lit. h und Abs. 3 DSGVO, die einschlägigen Anforderungen an die Vertraulichkeit und mindestens eine Rechtsgrundlage nach Art. 6 Abs. 1 DSGVO getrennt prüfen. [EuGH, Urteil vom 21.12.2023 – C-667/21, Rn. 43–55, 61–70 und 71–79](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0667).

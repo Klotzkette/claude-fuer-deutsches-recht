@@ -19,7 +19,7 @@ description: "Für Airline-Standardausreden — Katalog und Gegenargumente: ordn
 
 > EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — Übliche technische Betriebs-/Wartungsprobleme entlasten regelmäßig nicht. Rn. 23–27 und 39–43 unterscheiden externe, nicht beherrschbare Ursachen wie einen verdeckten Fabrikationsfehler; auch dann Kausalität und zumutbare Gegenmaßnahmen konkret belegen. Keine ungeprüften Randnummern einsetzen.
 >
-> Ausnahme: versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v. 13.6.2025, C-411/23 (curia.europa.eu) — kann ausnahmsweise außergewöhnlich sein, auch wenn die Airline Monate vor dem Flug informiert war.
+> Ausnahme: versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v. 13.6.2024, C-411/23 ([amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62023CJ0411)) — kann ausnahmsweise außergewöhnlich sein, auch wenn die Airline Monate vor dem Flug informiert war.
 
 Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebener Fehler kurz vor dem Flug entdeckt wird oder Sabotage durch Dritte vorliegt.
 

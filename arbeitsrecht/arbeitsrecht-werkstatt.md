@@ -59,11 +59,15 @@ Prüfe bei ordentlicher Kündigung personen-, verhaltens- oder betriebsbedingten
 
 Bei außerordentlicher Kündigung prüfe wichtigen Grund, Unzumutbarkeit, mildere Mittel und Zweiwochenfrist nach Paragraf 626 Absatz 2 BGB. Halte Tat- und Verdachtskündigung auseinander; ordne belastende und entlastende Umstände, Ermittlungsstand und Anhörung des Arbeitnehmers zu. Sonderkündigungsschutz wegen Schwangerschaft, Schwerbehinderung, Elternzeit oder Betriebsratsamt ist eigenständig zu untersuchen.
 
+Bei Fake-President-Betrug und Arbeitnehmerregress Beweislast nach § 619a BGB, Verschuldensgrad, Organisationsbeiträge nach § 254 BGB und innerbetrieblichen Schadensausgleich prüfen. Für die davon getrennte Deckungsprüfung Police, versicherte Funktion, wirksame Inanspruchnahme, Deckungshöhe und Ausschlüsse auswerten. Das LAG Köln berücksichtigte bei grober Fahrlässigkeit den konkreten Schutz einer vom Arbeitgeber finanzierten D&O-Police in der Haftungsabwägung. Für die Revision 8 AZR 164/26 war am 10.11.2026 keine amtliche BAG-Entscheidung auffindbar. [LAG Köln, Urteil vom 31.07.2026 – 8 SLa 603/25, Rn. 415–439](https://www.justiz.nrw.de/nrwe/arbgs/koeln/lag_koeln/j2026/8_SLa_603_25_Urteil_20260731.html).
+
 ## 1.7. Betriebsrat und Entlassungswelle
 
 Prüfe die Anhörung nach Paragraf 102 BetrVG anhand der tatsächlich mitgeteilten Gründe, Anlagen, Übermittlungsdaten und Reaktion. Der Grundsatz subjektiver Determination verlangt den Vergleich mit den vom Arbeitgeber zugrunde gelegten Gründen; nicht jede spätere Prozessbehauptung kann ungeprüft als bereits angehört gelten. Untersuche einen Weiterbeschäftigungsanspruch nach Paragraf 102 Absatz 5 BetrVG gesondert.
 
 Bei Massenentlassungen trenne Konsultation, Anzeige nach Paragraf 17 KSchG, Behördenreaktion und zeitliche Anforderungen von der individuellen Betriebsratsanhörung. Prüfe die konkrete zeitliche Rechtsfolge anhand des aktuellen Rechtsstands, statt Anzeige und Wartefrist pauschal gleichzusetzen. Bestimme je Beteiligungsverfahren zuständiges Gremium, Informationsumfang, Frist und erforderliche Reaktion.
+
+Eine erforderliche, vor Ausspruch fehlende Anzeige oder eine Anzeige vor Abschluss der erforderlichen Konsultation führt zur Unwirksamkeit der betroffenen Kündigung. Prüfe bei einer vorhandenen Anzeige, ob der konkrete Fehler die Agentur für Arbeit bei ihrer gesetzlichen Aufgabe hindert. Eine geringe Überzählung blieb im entschiedenen Fall unschädlich. [BAG, Urteile vom 01.04.2026, 6 AZR 157/22](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-157-22/) und [6 AZR 152/22](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-152-22/), [Urteil vom 25.06.2026, 6 AZR 7/26, Rn. 27 bis 36](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/).
 
 ## 1.8. Befristung, Aufhebung und Betriebsübergang
 
@@ -78,6 +82,8 @@ Bei Paragraf 613a BGB rekonstruiere wirtschaftliche Einheit, Inhaberwechsel, Ide
 ## 1.9. Annahmeverzug und Beendigungslösung
 
 Bei Vergütung nach Trennung prüfe Leistungsfähigkeit, Leistungswillen, Angebot oder Entbehrlichkeit, Arbeitgeberreaktion und Zeitraum nach Paragraf 615 BGB. Ordne Zwischenverdienst und böswillig unterlassenen Verdienst nach Paragraf 11 KSchG den betroffenen Monaten zu. Fehlende Einkommens- oder Bewerbungsangaben werden gezielt erfragt und anschließend in Berechnung und Begründung eingearbeitet.
+
+Für unwirksame oder erst später wirkende Arbeitgeberkündigungen ist ein vorheriger Ausschluss von Ansprüchen nach Paragraf 615 Satz 1 BGB auch durch Rechtswahl unwirksam, wenn der deutsche Schutzmaßstab nach dem einschlägigen Kollisionsrecht greift. Bestimme Vertragsstatut und Günstigkeit sowie den tatsächlichen Annahmeverzug gesondert. Das BAG hat zurückverwiesen. [BAG, Urteil vom 30.07.2026, 2 AZR 91/24, Rn. 10 bis 17](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/).
 
 Ein beauftragter Vergleich oder Abwicklungsvertrag regelt Beendigungsdatum, Entgelt, Urlaub, Freistellung, Abfindung, Zeugnis, Rückgabe, Bonus und gegebenenfalls Altersversorgung, Ausgleich, Kosten und Widerruf. Benenne steuer- und sozialrechtlich offene Punkte getrennt. Verstecke Weiterbeschäftigung, Annahmeverzug und Zeugnis nicht in einem pauschalen Vergleichsbetrag; begründe wirtschaftliche Alternativen anhand des Falls.
 

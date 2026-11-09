@@ -54,7 +54,7 @@ description: "Für Mietkaution-Rückforderung: ordnet Norm, Beweislast und Gegen
 
 ### Angemessene Frist
 
-- **BGH 18.01.2006, VIII ZR 71/05**: Abrechnungsfrist nach Mietende ueblicherweise sechs Monate; konkrete Hoechstdauer einzelfallabhaengig (dejure.org/2006,484).
+- **BGH, Urteil vom 18. Januar 2006 – VIII ZR 71/05.** Die Abrechnungs- und Prüfungsfrist hängt von den Umständen ab. Es gibt keine allgemeine Sechsmonatsfrist für jede Kautionsrückzahlung. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZR__71-05.pdf?__blob=publicationFile&v=1)
 - Bei längerer Frist Recht-fertigungsbedarf des Vermieters
 - Bei kurzfristigen Konstellationen drei Monate
 
@@ -82,7 +82,7 @@ description: "Für Mietkaution-Rückforderung: ordnet Norm, Beweislast und Gegen
 ### Nachzahlung Betriebskosten
 
 - **Sicherheits-Einbehalt** zulässig bis Abrechnung der laufenden Periode
-- **BGH 18.01.2006, VIII ZR 71/05**: Vermieter darf Teil der Kaution bis zur naechsten Betriebskostenabrechnung einbehalten, wenn Nachforderung zu erwarten (dejure.org/2006,484).
+- **BGH, Urteil vom 18. Januar 2006 – VIII ZR 71/05, Leitsatz.** Bei erwarteter Betriebskostennachforderung kann der Vermieter einen angemessenen Kautionsteil bis zum Ablauf seiner Abrechnungsfrist einbehalten. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZR__71-05.pdf?__blob=publicationFile&v=1)
 
 ### Schönheitsreparaturen
 
@@ -187,7 +187,7 @@ Mit freundlichen Grüßen
 - § 551 BGB **nicht** anwendbar
 - Vertragliche Vereinbarung gilt
 - AGB-Kontrolle Klausel
-- BGH 19.06.2013, XII ZR 137/12 (Gewerbemiete, Buergschaft als Kaution; § 307 BGB-Kontrolle; dejure.org/2013,13420).
+- Bei einer Bürgschaft in der Gewerbemiete Sicherungsabrede, Sicherungszweck, Abrufvoraussetzungen und AGB-Kontrolle getrennt prüfen. § 551 BGB ist eine Vorschrift zur Wohnraummiete. [§ 307 BGB](https://www.gesetze-im-internet.de/bgb/__307.html)
 
 ## Schritt 11 — Strategie
 

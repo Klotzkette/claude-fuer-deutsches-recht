@@ -100,6 +100,8 @@ Fehlt Leistungsbeleg oder Titel, genau diesen anfordern. Nach Antwort Anspruch, 
 
 Ordne Steuer- und Beitragsforderungen nach Entstehungsgrund, Zeitraum, Verfahrensabschnitt und gegebenenfalls eigenem Verwaltungshandeln den Paragrafen 38 und 55 InsO zu. Erklärungspflichten nach Paragrafen 34 und 35 AO von Haftung, insbesondere Paragraf 69 AO, trennen. Bescheid, Voranmeldung und Zahlungslauf abgleichen. Das Steuerprivileg des Paragrafen 15b Absatz 8 InsO ist keine allgemeine Befreiung des Verwalters von Steuerpflichten.
 
+Bei Sollbesteuerung und nach Eröffnung vereinnahmtem Entgelt für eine vor Eröffnung erbrachte Leistung prüfe nach [BFH, Urteil vom 18.12.2025 – V R 34/23, Rn. 20–24 und 27–33](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610082/) zwei getrennte Berichtigungen nach § 17 UStG. Die Uneinbringlichkeit wirkt zugunsten des Insolvenzbereichs nach § 38 InsO. Der spätere Eingang begründet in Höhe des Berichtigungsbetrags eine Masseverbindlichkeit nach § 55 Abs. 1 Nr. 1 InsO. Das gilt auch in Eigenverwaltung und wenn die erste Berichtigung verfahrensrechtlich unterblieb. Prüfe eine mögliche Doppelbelastung gesondert im vorinsolvenzrechtlichen Abschnitt.
+
 Bei Personalmaßnahmen Kündigungsbefugnis, Paragraf 113 InsO, konkrete Kündigungsfrist und Endtermin sowie erforderliche Beteiligung prüfen. Nicht pauschal drei Monate ab beliebigem Datum rechnen. Abrechnungen und Insolvenzgeldbezug nach tatsächlicher Beschäftigungs- und Verfahrenszeit behandeln. Steuerliche Folgen eines Insolvenzplans gehören in eine eigene Planrechnung, nicht in eine reine Forderungsrangtabelle.
 
 ## 1.9. Berichte, Schlussrechnung und Verteilung

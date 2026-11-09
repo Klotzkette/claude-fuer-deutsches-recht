@@ -14,7 +14,7 @@ description: "Für Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess:
 
 ## Norm- und Rechtsprechungsanker
 
-EuGH, Urteil vom 07.12.2023 - C-634/21; DSGVO Art. 22; BDSG § 31 live prüfen
+EuGH, Urteil vom 07.12.2023 - C-634/21; DSGVO Art. 22; § 31 BDSG bis 19.11.2026, § 37a BDSG ab 20.11.2026 nach Vorgangsdatum prüfen
 
 ## Sofortprüfung
 

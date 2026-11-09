@@ -143,7 +143,7 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 | BS bewusst vermeiden vs. anerkennen | Aktivitaeten reduzieren auf Vorbereitung/Hilfsfunktion, Mitarbeiter ohne Vollmacht | BS akzeptieren, AOA-Doku aufbauen | bei lukrativen lokalen Maerkten BS akzeptieren, Steuerersparnis durch Freistellungsmethode oft attraktiver |
 | Anti-Fragmentierung: Strukturoptimierung | Aktivitaeten auf mehrere verbundene Unternehmen aufteilen — vor BEPS oft genutzt | Aktivitaeten zentralisieren, eine klare BS | seit MLI Art. 13: Pfad A scheitert regelmaessig — Pfad B sicherer |
 | Server-BS vs. Server-Cloud | dedizierter Server vor Ort (Verfuegungsmacht) — kann BS sein | Cloud-Hosting (Drittanbieter) — regelmaessig keine BS | bei E-Commerce: Cloud-Hosting bevorzugen, wenn Quellenstaat-Steuer vermieden werden soll |
-| Switch-Over hinnehmen vs. aktive Einkuenfte erzeugen | passive BS-Einkuenfte > 25 % der BS-Einnahmen — § 20 Abs. 2 AStG | Aktivierung (z.B. echte Vertriebs- oder Produktionstaetigkeit dazu) | bei strukturellem Switch-Over Pfad B planen, sonst Freistellungsverlust |
+| Switch-Over hinnehmen vs. aktive Einkuenfte erzeugen | hypothetische Zwischeneinkünfte nach [§ 20 Abs. 2 AStG](https://www.gesetze-im-internet.de/astg/__20.html) einschließlich Niedrigbesteuerung | Aktivierung (z.B. echte Vertriebs- oder Produktionstaetigkeit dazu) | bei strukturellem Switch-Over Pfad B planen, sonst Freistellungsverlust |
 
 ## Was Reviewer/Prüfer triggert
 
@@ -166,7 +166,7 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 | Bauausfuehrung-Dauer | Art. 5 Abs. 3 DBA | [12 Monate / abweichend; Subunternehmer addiert] | [ueberschritten/nicht] |
 | Vorbereitungs-/Hilfstaetigkeit (negativ) | Art. 5 Abs. 4 DBA + MLI Art. 13 | [Lager/Wareneinkauf/Information; Anti-Fragmentierung] | [Ausnahme greift / greift nicht] |
 | Vertreter-BS | Art. 5 Abs. 5/6 DBA + MLI Art. 12 | [Vollmacht oder Hauptrolle; verbundenes Unternehmen?] | [ja/nein] |
-| Switch-Over passive BS | § 20 Abs. 2 AStG | [passive Einkuenfte > 25 %?] | [Switch greift / greift nicht] |
+| Switch-Over passive BS | § 20 Abs. 2 AStG | [hypothetische Zwischeneinkünfte und zeitlich anwendbare Niedrigbesteuerung nach § 8 Abs. 5 und § 21 Abs. 6 AStG?] | [Switch greift / greift nicht] |
 
 ## Berechnungsbeispiel AOA-Gewinnabgrenzung (schematisch)
 

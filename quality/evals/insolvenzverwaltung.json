@@ -38,6 +38,11 @@
       "checked_on": "2026-10-16",
       "supports": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein. Grenze: Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
       "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610082/",
+      "checked_on": "2026-11-10",
+      "supports": "Bei Sollbesteuerung Uneinbringlichkeit und späteren Entgelteingang getrennt nach § 17 UStG im Insolvenz- und Massebereich berichtigen. Die zweite Berichtigung bleibt bei verfahrensrechtlich unterbliebener erster Berichtigung zulässig."
     }
   ],
   "mini_review": {
@@ -64,9 +69,10 @@
       "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
       "Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung.",
-      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25"
+      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
+      "2026-11-10: Umsatzsteuerberichtigung bei vorinsolvenzlicher Leistung und Zahlung nach Eröffnung getrennt nachvollzogen."
     ],
-    "sha256": "531b35491a9f5152c089626a0562bdd5a66906cc530d0e6b319704b4d22f4f94"
+    "sha256": "4ce95c72c4c56f0054864a5d308b69ec78ce072353492865b188c1f13b9cb886"
   },
   "selection": {
     "positive": [
@@ -172,7 +178,8 @@
       "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
       "insolvenzverwaltung/README.md",
       "quality/evals/insolvenzverwaltung.json",
-      "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md"
+      "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md",
+      "insolvenzverwaltung/skills/steuern-sozialversicherung/SKILL.md"
     ],
     "opening_change": "Verwalterbefugnis, Massebestand und zulässige Zahlung anhand des Beschlusses und der Konten bestimmen.",
     "norms": [
@@ -201,12 +208,20 @@
         "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
         "workflow_effect": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern."
+      },
+      {
+        "citation": "BFH, Urteil vom 18.12.2025 – V R 34/23, Rn. 20–24, 27–33, veröffentlicht 2026",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610082/",
+        "application": "Bei Sollbesteuerung Uneinbringlichkeit und späteren Entgelteingang getrennt nach § 17 UStG im Insolvenz- und Massebereich berichtigen. Die zweite Berichtigung bleibt bei verfahrensrechtlich unterbliebener erster Berichtigung zulässig.",
+        "limit": "Gilt auch bei Eigenverwaltung. Ob eine doppelte Belastung eingetreten war, blieb offen. Rechtsbehelfs- oder Billigkeitsweg für den vorinsolvenzrechtlichen Zeitraum gesondert prüfen.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Keine Vollprüfung aller Arbeits-, Steuer- oder Auslandsfragen; Maßnahmen erfordern Beschluss- und Zahlungsdaten des konkreten Verfahrens.",
-      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
+      "2026-11-10: Gezielter Quellenabgleich der ergänzten Entscheidungen und Fachpassagen. Kein erneuter Live-Modelltest."
     ],
     "supplement_checked_on": "2026-09-30"
   },

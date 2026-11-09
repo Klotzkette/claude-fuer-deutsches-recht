@@ -100,6 +100,11 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Vorläufig titulierte Forderung bei vorliegenden Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung zum Nennwert im Status berücksichtigen. Grenze: Keine Prozessrisikoquote, aber objektive Rechtslage und gerichtliche Vollstreckungsentscheidungen prüfen; keine automatische subjektive Kenntnis oder Organhaftung."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip",
+      "checked_on": "2026-11-10",
+      "supports": "Tilgung, atypisch vorfinanzierte Warenlieferung und Zinszahlungen getrennt prüfen. Die Anfechtung der Befriedigung einer Gesellschafterdarlehensforderung nach § 135 Abs. 1 Nr. 2 InsO setzt den insolvenzrechtlichen Nachrang durch."
     }
   ],
   "mini_review": {
@@ -110,9 +115,10 @@
       "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
     ],
-    "sha256": "80f1d91b052b9338ea1367d27d159ad2caa1008aa3153a56d8242927a2a2c003"
+    "sha256": "e8566178e5e4691f2c3e6182a0c72db4e2685613a8f8b726304e4152473a992d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -122,9 +128,10 @@
       "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
       "Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung.",
       "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
     ],
-    "sha256": "d2e9d07c834738b1a4e0bf5c479f0ded7fd1c297636fd89b6ef50c21c10c1578"
+    "sha256": "a8240f8c454c05e611294dd53ed57ab2e31cf28b1ec7fef87aa132a1610f2ebb"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -209,7 +216,11 @@
       "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
       "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
       "fachanwalt-insolvenz-sanierungsrecht/skills/zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen/SKILL.md",
-      "quality/evals/fachanwalt-insolvenz-sanierungsrecht.json"
+      "quality/evals/fachanwalt-insolvenz-sanierungsrecht.json",
+      "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md",
+      "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
+      "fachanwalt-insolvenz-sanierungsrecht/references/insolvenzanfechtung-rechtsquellen.md",
+      "fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/SKILL.md"
     ],
     "opening_change": "Insolvenzreife und einzelne Organforderungen aus Zahlungsjournal und Gegenwerten bestimmen. Workflow-Ergänzung: Leer: Insolvenzstatus, Organ-Zahlungshaftung oder Gläubigerforderung anbieten. Dateien ohne Aufgabe: Liquiditätsunterlagen, Zahlungsjournal und Verfahrensbeschlüsse still lesen; Status-, Haftungs- oder Forderungsziel klären. Klarer Auftrag: verlangtes Gutachten oder Haftungsschreiben unmittelbar ausarbeiten; keine automatische gesamte Insolvenzakte referieren.",
     "norms": [
@@ -236,13 +247,21 @@
         "application": "Vorläufig titulierte Forderung bei vorliegenden Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung zum Nennwert im Status berücksichtigen.",
         "limit": "Keine Prozessrisikoquote, aber objektive Rechtslage und gerichtliche Vollstreckungsentscheidungen prüfen; keine automatische subjektive Kenntnis oder Organhaftung.",
         "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BGH, Urteil vom 17.09.2026 – IX ZR 229/23, Rn. 13–16, 24, 28–29, 37–38",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip",
+        "application": "Tilgung, atypisch vorfinanzierte Warenlieferung und Zinszahlungen getrennt prüfen. Die Anfechtung der Befriedigung einer Gesellschafterdarlehensforderung nach § 135 Abs. 1 Nr. 2 InsO setzt den insolvenzrechtlichen Nachrang durch.",
+        "limit": "Art. 13 EuInsVO a. F. hindert diese Rangdurchsetzung nicht. Art. 16 der Neufassung und gewöhnliche Fremdfinanzierung gesondert prüfen. Zinszahlungen zur Tatsachenfeststellung zurückverwiesen.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Historischer Haftungsanker ersetzt keine vollständige aktuelle Prüfung aller Ausnahmen des Paragrafen 15b InsO; weitere Spezialfälle bleiben Rechercheaufträge.",
       "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 15a InsO scheiterte; vorhandene Frist- und Rechtsprechungsnachweise nicht als neu volltextverifiziert ausgegeben.",
-      "01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert."
+      "01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert.",
+      "2026-11-10: Gezielter Quellenabgleich der ergänzten Entscheidungen und Fachpassagen. Kein erneuter Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {

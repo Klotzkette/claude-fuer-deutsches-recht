@@ -76,7 +76,7 @@ Für UmwRG-Verfahren Anerkennung der Vereinigung, Fallgruppe, angegriffene Entsc
 
 Bei LkSG und CSDDD Unternehmensdaten, Sitz, Konzernstruktur und betroffenen Zeitraum erheben. Richtlinie, nationale Umsetzung, geltende Pflichten und künftige Anwendung unterscheiden. Alte Entwurfsfristen und sektorbezogene Schwellen nicht ungeprüft als geltendes Recht übernehmen.
 
-Bei CSRD, ESRS und Greenwashing Berichtspflicht, Berichtsjahr und behauptete Umwelteigenschaft trennen. CSR-RUG und CSRD-Umsetzung nicht gleichsetzen; eine ESRS-Regelung allein beweist nicht den persönlichen Anwendungsbereich einer Berichtspflicht. Klimabehauptungen anhand Zertifikat, Audit, Methodik und tatsächlichem Umfang prüfen.
+Bei CSRD, ESRS und Greenwashing Berichtspflicht, Berichtsjahr und behauptete Umwelteigenschaft trennen. CSR-RUG und CSRD-Umsetzung nicht gleichsetzen; eine ESRS-Regelung allein beweist nicht den persönlichen Anwendungsbereich einer Berichtspflicht. Bei mehrdeutiger Klimawerbung prüfe Aussage und Erläuterung im selben Werbemittel. [BGH, Urteil vom 27.06.2024, I ZR 98/23, Rn. 20–29](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-6&Gericht=bgh&anz=311&nr=138206&pos=13) betrifft das damalige Irreführungsrecht. Ab 27.09.2026 bei Verbraucherwerbung zuerst Nr. 4a bis 4c des [Anhangs zu Paragraf 3 Absatz 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/anhang.html) prüfen. Eine Erläuterung heilt keine nach Nr. 4c verbotene produktbezogene Klimabehauptung auf Kompensationsbasis. Bei Altware die Anspruchsausübung nach Paragraf 15b UWG getrennt prüfen.
 
 ## 1.7 Umwelt-Due-Diligence und Vertragsfolgen
 

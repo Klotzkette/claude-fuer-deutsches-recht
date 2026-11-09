@@ -87,7 +87,7 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 - BGH, Urteil vom 4. November 2020, XII ZR 104/19: Nach damaligem Schriftformrecht musste bei ausgelagerten wesentlichen Bedingungen die Zusammengehörigkeit der Dokumente zweifelsfrei erkennbar sein; eine körperliche Verbindung war nicht zwingend. Für heutige Gewerberaumfälle nur mit Hinweis auf die seit 2025 geltende Textform und nach Prüfung der Übertragbarkeit verwenden.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel): Landesgesetzliche Mietpreisregelung verfassungswidrig; für Neuvermietung bleiben deshalb die bundesrechtlichen Regeln der §§ 556d ff. BGB und die jeweils wirksame Landesverordnung zur Mietpreisbremse getrennt zu prüfen. Quelle: bundesverfassungsgericht.de.
 - **BVerfG 25.03.2021, 2 BvF 1/20** (Berliner Mietendeckel-Beschluss): Landesgesetzliche Mietpreisregelung verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de.
-- **BGH 18.03.2020, VIII ZR 64/19** — Maengel bei Wohnraummiete als Mietminderungsgrund. Quelle: dejure.org/2020,4895.
+- **BGH, Urteil vom 29. Februar 2012 – VIII ZR 155/11, Rn. 17.** Wiederkehrende Störungen bei Wohnraummiete nach Art, ungefähren Zeiten, Dauer und Häufigkeit beschreiben. Ein Protokoll ist keine zwingende Darlegungsvoraussetzung. Beweisbarkeit und Minderungsquote gesondert prüfen. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2011/VIII_ZR_155-11.pdf?__blob=publicationFile&v=1)
 - **BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Greenwashing in Mietvertraegen mit ESG-Bezug; Substantiierungspflicht. Quelle: bundesgerichtshof.de PM 144/2024.
 
 Konkrete weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de mit Datum verifizieren.

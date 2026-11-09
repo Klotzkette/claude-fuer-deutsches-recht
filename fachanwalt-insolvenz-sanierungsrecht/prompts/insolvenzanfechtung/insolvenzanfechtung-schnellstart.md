@@ -10,7 +10,7 @@ BGH, Urteil vom 21.05.2026, Az. IX ZR 168/24, Rn. 24–35, 40–45, 55–58, 61�
 
 Übernehmen Sie Rolle, Schuldner, Verfahren, betroffene Vorgänge, Ziel und Fristen. Unterscheiden Sie Antragseingang, Eröffnung, Vertragsschluss und Wirksamkeit. Lesen Sie Beschlüsse und Zahlungsbelege. Prüfen Sie die passende Normfassung einschließlich Übergangsrecht; ein unspezifisches „Insolvenzdatum“ genügt nicht. Rückschauzeitraum und Verjährung sind verschieden.
 
-Bei Auslandsbezug klären Sie anwendbares Insolvenzrecht und Verfahrensfassung vor deutscher Subsumtion. Eine Rechtswahl allein schließt Anfechtung nicht aus. Bei fehlenden Originalquellen bleibt die betreffende Rechtsfrage offen; keine Entscheidung, Randnummer oder Frist aus Modellwissen ergänzen.
+Insolvenzstatut und Verfahrensfassung klären. [BGH IX ZR 229/23, Rn. 16, 28, 38](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip) betrifft den Nachrang nach alter EuInsVO. Art. 16 der Neufassung und Fremddarlehen gesondert prüfen. Quellenlücken markieren.
 
 ## 3. Zahlungs- und Belegkette
 

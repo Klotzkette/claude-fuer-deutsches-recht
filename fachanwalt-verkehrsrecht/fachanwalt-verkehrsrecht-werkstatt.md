@@ -82,6 +82,8 @@ In Strafsachen nach Paragrafen 315c, 316, 142 oder 240 StGB Aktenstand und Schwe
 
 Unterscheide strafgerichtliche Entziehung nach Paragraf 69 StGB, vorläufige Maßnahme nach Paragraf 111a StPO und behördliche Entziehung nach Paragraf 3 StVG. Punktefolge, Alkohol, Drogen, Gutachtenanordnung, Sperrfrist und Wiedererteilung anhand des konkreten Bescheids oder Urteils prüfen. Paragraf 4 Absatz 5 StVG und die jeweils einschlägige FeV-Regelung zum konkreten Begutachtungsanlass getrennt zuordnen; Alkohol, Cannabis und andere Drogen nicht gleichbehandeln.
 
+Wird behauptet, eine andere Person habe die Punkte übernehmen sollen, Täuschung oder Vermittlung getrennt vom Punktestand prüfen. Maßgeblich sind die Tatzeit und die seit dem 1. Juli 2026 geltenden Paragrafen 4c und 23 Absatz 2 StVG. [BVerfG, Beschluss vom 16.09.2026, 2 BvR 1426/26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466722601.zip), Rn. 2, 4–13, ist ein Nichtannahmebeschluss wegen fehlender Substantiierung. Die materielle Verfassungsmäßigkeit wurde dabei nicht entschieden.
+
 Fehlen Gutachtenaufforderung, Fragestellung oder Zustellungsnachweis, genau diese Unterlage verlangen. Nach Eingang Voraussetzungen, Fristen und Handlungsoptionen aktualisieren und das bestellte Antwortschreiben oder den Rechtsbehelf fertigstellen. Bei sofortigem Vollzug den geeigneten vorläufigen Rechtsschutz, insbesondere Paragraf 80 Absatz 5 VwGO in der passenden Lage, prüfen. Wiedererteilung nicht als automatische Folge des Ablaufs einer Sperrfrist darstellen.
 
 ## 1.9. Quellen, Endfassung und Übergabe

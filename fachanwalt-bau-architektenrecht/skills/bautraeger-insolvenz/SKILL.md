@@ -30,31 +30,20 @@ description: "Für Insolvenz des Bauträgers: Ansprüche des Erwerbers, Schutzre
 
 ## 2) MaBV-Schutz nach § 7 MaBV
 
-### Bürgschaft
-
-- Bauträger muss Bürgschaft auf erstes Anfordern über 5 % der Bausumme zugunsten Erwerber stellen
-- Bürgschaft umfasst:
- - Fertigstellungs-Risiko
- - Mangelbeseitigung (5 Jahre)
-
-### Bei Insolvenz
-
-- **Erwerber kann Bürgschaft direkt ziehen** vom Buergen
-- Buerge (Bank, Versicherung) zahlt Fertigstellungs-/Mangel-Aufwand
-- Bürgschaft erlischt mit Mangel-Frei-Erklärung
+- § 7 MaBV ermöglicht unter seinen Voraussetzungen Zahlungen gegen Sicherheit für Ansprüche auf Rückgewähr oder Auszahlung überlassener Vermögenswerte. Einordnung, Sicherungszweck, Betrag, Laufzeit und Abrufvoraussetzungen aus Urkunde und Zahlungsweg prüfen. [§ 7 MaBV](https://www.gesetze-im-internet.de/gewo_34cdv/__7.html)
+- Gesondert bei Verbrauchern die Fertigstellungssicherheit nach § 650m Abs. 2 BGB in Verbindung mit § 650u Abs. 2 und § 650v BGB prüfen. Die 5 % beziehen sich auf diese Sicherheit für rechtzeitige Herstellung ohne wesentliche Mängel. Sie kann etwa durch Einbehalt oder Garantie erbracht werden. [§ 650m BGB](https://www.gesetze-im-internet.de/bgb/__650m.html)
+- In der Insolvenz anhand der Urkunde prüfen, welche Ansprüche gesichert und fällig sind. Erst dann den Sicherungsgeber unter Beifügung der erforderlichen Nachweise in Anspruch nehmen.
 
 ## 3) Vormerkung § 883 BGB
 
 ### Funktion
 
 - Sicherung des Eigentums-Verschaffungs-Anspruchs
-- Bei Insolvenz: vorrangig vor Insolvenz-Verwalter-Forderungen
+- Für die Erfüllung eines wirksam vorgemerkten Anspruchs gilt § 106 InsO nach Maßgabe der Vormerkung. [§ 106 InsO](https://www.gesetze-im-internet.de/inso/__106.html)
 
 ### Bei Insolvenz
 
-- Vormerkung schuetzt vor Anfechtung Insolvenzverwalter
-- Anwartschaft auf Eigentum bleibt bestehen
-- Erwerber kann Auflassung / Eigentum verlangen
+- Wirksamen Erwerb, Rang, Anfechtungsrisiken und Umfang des vorgemerkten Anspruchs prüfen. Ein Anspruch auf Fertigstellung oder Mangelbeseitigung folgt daraus für sich genommen nicht.
 
 ### Praxis
 
@@ -73,13 +62,13 @@ description: "Für Insolvenz des Bauträgers: Ansprüche des Erwerbers, Schutzre
 ### Tag 4-14
 
 - **Forderungs-Anmeldung** zur Insolvenztabelle § 174 InsO
-- **Verwalter-Anfrage**: § 103 InsO Wahlrecht — Erfüllung oder Ablehnung?
-- **Eigene Klage** auf Auflassung gegen Insolvenzverwalter
+- **Verwalter-Anfrage nach Eröffnung**: Bei Anwendbarkeit von § 103 InsO zur Erklärung über die Erfüllungswahl auffordern.
+- Durchsetzung eines gesicherten Auflassungsanspruchs nach § 106 InsO nach Nachweis der Fälligkeit und Prüfung der Gegenleistung vorbereiten.
 
 ### Tag 15-60
 
-- Bei Verwalter-Ablehnung § 103 InsO: Erwerber kann **Schadensersatz** zur Insolvenztabelle anmelden
-- Bürgschaft ziehen
+- Bei Nichterfüllung die Insolvenzforderung aus § 103 Abs. 2 Satz 1 InsO beziffern und anmelden.
+- Eine Sicherheit nur bei belegtem Sicherungsfall abrufen.
 - Bei sicherheits-rechtlichem Konflikt: einstweiliger Rechtsschutz
 
 ## 5) § 103 InsO — Verwalter-Wahlrecht
@@ -92,24 +81,16 @@ description: "Für Insolvenz des Bauträgers: Ansprüche des Erwerbers, Schutzre
 - Erwerber zahlt Restkaufpreis
 - Vertrag bleibt bestehen
 
-### Ablehnungs-Wahl
+### Ablehnung oder unterbliebene Erklärung
 
-- Vertrag wird beendet
-- Erwerber erhaelt:
- - **Bürgschaft** für Fertigstellung
- - **Schadensersatz** zur Insolvenztabelle
- - Vormerkung bleibt (Eigentums-Anspruch)
-
-### Verwalter-Frist
-
-- Verwalter muss innerhalb angemessener Frist (typisch 4-6 Wochen) entscheiden
-- **BGH 27.10.2011, IX ZR 11/11**: Wahlrecht des Insolvenzverwalters § 103 InsO — Erklaerungsfrist „unverzueglich" auf Aufforderung; Schweigen gilt als Ablehnung. Quelle: dejure.org/2011,30144.
+- Bei abgelehnter Erfüllung bleibt dem Vertragspartner insoweit die Forderung wegen Nichterfüllung als Insolvenzforderung. Den Anspruch auf Eigentumsverschaffung nach § 106 InsO und etwaige Sicherheiten gesondert prüfen.
+- Nach Aufforderung durch den Vertragspartner muss der bestellte Verwalter sich unverzüglich erklären. Unterbleibt die Erklärung, kann er auf Erfüllung nicht bestehen. Die Aufforderung an den vorläufigen Verwalter genügt auch bei Personenidentität nicht. BGH, Urteil vom 8. November 2007 – IX ZR 53/04, Rn. 8–12. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR__53-04.pdf?__blob=publicationFile&v=1)
 
 ## 6) Erwerber-Strategien
 
 ### Strategie A — Bürgschaft + Eigene Fertigstellung
 
-- Bürgschaft 5 % ziehen
+- Sicherungsfall, Abrufform und Deckung des konkreten Mehrbedarfs prüfen.
 - Mit eigenen Mitteln (+ Bürgschafts-Geld) Bauvorhaben abschließen
 - Schadensersatz wegen Mehrkosten zur Tabelle
 
@@ -126,9 +107,7 @@ description: "Für Insolvenz des Bauträgers: Ansprüche des Erwerbers, Schutzre
 
 ## 7) Mehrere Erwerber
 
-- Erwerber haben **gleichen Rang**
-- Bürgschaft-Verteilung anteilig
-- Vormerkungen jeweils in Rang ihrer Eintragung
+- Für jeden Erwerber getrennt Grundbuchrang, Sicherungszweck, Höhe und Berechtigung prüfen.
 - Bei Bauteil-Differenzierung: einheitliche Lösung schwierig
 
 ## 8) Typische Fehler
@@ -139,12 +118,10 @@ description: "Für Insolvenz des Bauträgers: Ansprüche des Erwerbers, Schutzre
 4. **Verwalter-Wahlrecht übersehen** -> Erfüllung mit hohem Restbetrag
 5. **Bauverzug-Pflichten ignoriert** -> Mangelrechte verjaehren
 
-## 9) BGH-/IX. Senat-Linien (Stand 05/2026, verifiziert dejure.org)
+## 9) Rechtsprechung und Aussagegrenzen
 
-- **BGH 27.10.2011, IX ZR 11/11**: Wahlrecht des Verwalters § 103 InsO; Erfuellungsablehnung. Quelle: dejure.org/2011,30144.
-- **BGH 19.07.2018, IX ZR 296/17**: Bautraegervertrag (§§ 650u, 650v BGB) im Insolvenzverfahren — Erwerber-Schutz durch Vormerkung und Buergschaft nach MaBV. Quelle: dejure.org/2018,17854.
-- **BGH 26.04.2018, IX ZR 238/17**: Insolvenzanfechtung § 133 InsO — Vorsatzanfechtung im Bauvertragsumfeld. Quelle: dejure.org/2018,11260.
-- **BGH 25.02.2016, VII ZR 49/15**: Bautraegervertrag — AGB-Abnahmeklausel unwirksam (Erwerber-Schutz). Quelle: dejure.org/2016,3146.
+- BGH, Urteil vom 8. November 2007 – IX ZR 53/04, Rn. 8–12. Die Entscheidung betrifft die Aufforderung an den Verwalter nach § 103 Abs. 2 InsO. Die Wirkung einer Vormerkung ist gesondert nach § 106 InsO zu prüfen. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR__53-04.pdf?__blob=publicationFile&v=1)
+- BGH, Urteil vom 25. Februar 2016 – VII ZR 49/15, Leitsätze und Rn. 23–35. Eine vom Bauträger gestellte AGB-Klausel, die Nachzügler an eine frühere Abnahme des Gemeinschaftseigentums bindet und ihre Mängelverjährung verkürzt, ist unwirksam. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR__49-15.pdf?__blob=publicationFile&v=1)
 
 ## 10) Honorar
 
@@ -152,23 +129,14 @@ description: "Für Insolvenz des Bauträgers: Ansprüche des Erwerbers, Schutzre
 - Klage: nach Streitwert (Restkaufpreis + Bürgschafts-Höhe)
 - Forderungs-Anmeldung Insolvenz: separat nach § 22 RVG
 
-## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
-
-- BGH 25.02.2016, VII ZR 49/15 — Bautraegervertrag AGB-Abnahmeklausel unwirksam (dejure.org/2016,3146)
-- BGH 19.07.2018, IX ZR 296/17 — Bautraegervertrag in Insolvenz; Erwerber-Schutz (dejure.org/2018,17854)
-- BGH 27.10.2011, IX ZR 11/11 — Wahlrecht § 103 InsO (dejure.org/2011,30144)
-- BGH 26.04.2018, IX ZR 238/17 — Insolvenzanfechtung § 133 InsO (dejure.org/2018,11260)
-
-MaBV (Makler- und Bautraegerverordnung) — aktuell §§ 3-7 MaBV, vor Anwendung Stand des BMJ-Bundesanzeigers prüfen.
-
 ## Fristen-Sofort-Check bei Bautraeger-Insolvenz
 
 | Frist | Norm | Zeitfenster |
 |-------|------|-------------|
 | Forderungsanmeldung Insolvenztabelle | § 174 InsO | Bis Anmeldefrist laut Insolvenzbekanntmachung |
-| Anmeldung Aussonderungsrecht Vormerkung | § 47 InsO | Unverzueglich nach Verfahrensoeffnung |
-| Aufforderung Verwalter-Wahlrecht § 103 InsO | § 103 Abs. 2 InsO | Angemessene Frist setzen (4-6 Wochen) |
-| Buerschaft ziehen | MaBV | Sofort bei Feststellung Insolvenz |
+| Durchsetzung des vorgemerkten Anspruchs | § 106 InsO | Anspruch, Fälligkeit und Rang nach Eröffnung sichern und dem Verwalter belegen |
+| Aufforderung zur Erfüllungswahl | § 103 Abs. 2 InsO | An den bestellten Verwalter nach Eröffnung. Erklärung unverzüglich nach Aufforderung |
+| Abruf einer Sicherheit | Sicherungsurkunde und einschlägiges Recht | Sicherungsfall, Fälligkeit und Abrufvoraussetzungen prüfen |
 | Mängelverjährung Bauwerk | § 634a BGB | 5 Jahre ab Abnahme |
 
 ## Adressat und Tonfall

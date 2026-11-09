@@ -32,6 +32,11 @@
       "url": "https://www.gesetze-im-internet.de/ustdv_1980/__34a.html",
       "checked_on": "2026-11-06",
       "supports": "Besondere Kleinunternehmerrechnung und zulässige sonstige Rechnung; keine automatische Pflicht zu gesondertem Steuerausweis."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202510245/",
+      "checked_on": "2026-11-10",
+      "supports": "Prüfe beim Steuerausweis, ob und wann eine Gefährdung des Steueraufkommens endgültig ausgeschlossen war. Ist sie erst später beseitigt, wirkt die Berichtigung zu diesem Zeitpunkt."
     }
   ],
   "selection": {
@@ -164,9 +169,10 @@
     "changes": [
       "Den Auftrag bis zu tatsächlich erzeugten Dateien führen und nur entscheidende Lücken nachfordern.",
       "Schema, Geschäftsregeln und vollständige PDF/A-Prüfung an den endgültigen Ausgabebytes unterscheiden.",
-      "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen."
+      "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen.",
+      "2026-11-10: § 14c UStG um BFH-Maßstab zur endgültigen Gefährdungsbeseitigung ergänzt."
     ],
-    "sha256": "4f8e78499afc747794514efc8c0db0585d19875a63792fe8a2146f655e3db62f"
+    "sha256": "d0fba362e94dfb4b365d5c203075d718eb95b5d6f0f2a50947864178fddba650"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -175,9 +181,10 @@
     "changes": [
       "Den Auftrag bis zu tatsächlich erzeugten Dateien führen und nur entscheidende Lücken nachfordern.",
       "Schema, Geschäftsregeln und vollständige PDF/A-Prüfung an den endgültigen Ausgabebytes unterscheiden.",
-      "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen."
+      "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen.",
+      "2026-11-10: § 14c UStG um BFH-Maßstab zur endgültigen Gefährdungsbeseitigung ergänzt."
     ],
-    "sha256": "a3852ee0f44ade8df20b85d8c637ee4e4941a2c037d2f8094b220d14d92d54f5"
+    "sha256": "df65485c4fbed750a37bfe82a2423d8a5e70726805795890f9e45bb1527fa53f"
   },
   "focus_review": {
     "verdict": "revised",
@@ -200,7 +207,8 @@
     "files": [
       "e-rechnung-werkstatt/e-rechnung-werkstatt-werkstatt.md",
       "e-rechnung-werkstatt/e-rechnung-werkstatt-schnellstart.md",
-      "e-rechnung-werkstatt/e-rechnung-werkstatt-hauptproblem.md"
+      "e-rechnung-werkstatt/e-rechnung-werkstatt-hauptproblem.md",
+      "e-rechnung-werkstatt/skills/rechnung-berichtigen-und-ausgabe-pruefen/SKILL.md"
     ],
     "opening_change": "Ausgangsunterlagen und gewünschte Rechnungsdatei zuerst; konkrete strukturierte E-Rechnung nach § 14 UStG als früher Anker, danach Ermittlung, tatsächliche Erzeugung und vollständige Prüfung.",
     "norms": [
@@ -215,12 +223,20 @@
         "url": "https://xeinkauf.de/xrechnung/versionen-und-bundles/",
         "application": "Schema und fachliche Geschäftsregeln mit der passenden Konfiguration prüfen; Rechnungsversion und Regelstand im Bericht ausweisen.",
         "limit": "Keine Gerichtsentscheidung. Der technische Erfolg belegt weder eine steuerrechtlich zutreffende Leistungseinordnung noch die Annahme durch ein bestimmtes Portal."
+      },
+      {
+        "citation": "BFH, Urteil vom 09.07.2025 – XI R 25/23, Leitsätze 2–3, Rn. 36–39 und 54–57",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202510245/",
+        "application": "Prüfe beim Steuerausweis, ob und wann eine Gefährdung des Steueraufkommens endgültig ausgeschlossen war. Ist sie erst später beseitigt, wirkt die Berichtigung zu diesem Zeitpunkt.",
+        "limit": "Aussage zur Steuerschuld des Ausstellers, keine Aussage zum Vorsteuerabzug aus korrigierter Rechnung. Tatbestand und Verfahren nach § 14c Abs. 1 und 2 getrennt prüfen.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
       "Redaktionelle Textprüfung, keine erfolgreiche automatische Skill-Auswahl in einem bestimmten Client nachgewiesen.",
       "Der lokale Helfer unterstützt gewöhnliche inländische EUR-Rechnungen mit 7 und 19 Prozent; andere Fälle benötigen eine passende erweiterte Fakturaanbindung.",
-      "Ein technischer Generatorlauf beweist keine allgemeine Qualität der Extraktion aus jedem Dateityp oder aus unleserlichen Scans."
+      "Ein technischer Generatorlauf beweist keine allgemeine Qualität der Extraktion aus jedem Dateityp oder aus unleserlichen Scans.",
+      "2026-11-10: Gezielter Quellenabgleich der ergänzten Entscheidungen und Fachpassagen. Kein erneuter Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {

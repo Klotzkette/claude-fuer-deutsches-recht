@@ -74,7 +74,8 @@ Vor jeder Sperre: kurzer schriftlicher Vermerk durch HR mit Anlass, Zeitpunkt, b
 
 - **BAG, Urt. v. 31.01.2019 — 2 AZR 426/18** (Datenschutz bei E-Mail-Auswertung): Auswertung dienstlicher E-Mails kann auf § 26 BDSG gestuetzt werden, wenn private Nutzung wirksam ausgeschlossen ist und Verhältnismäßigkeit gewahrt bleibt. Live-Check empfohlen: https://www.bundesarbeitsgericht.de
 - **BAG, Urt. v. 27.07.2017 — 2 AZR 681/16** (Keylogger): Ueberwachungssoftware ohne konkreten Verdacht ist unverhaeltnismaessig; gewonnene Erkenntnisse unterliegen Verwertungsverbot.
-- **EuGH, Urt. v. 17.10.2019 — C-324/17** (Lopez Ribalda II): Heimliche Videoueberwachung am Arbeitsplatz nur bei konkretem Verdacht und Verhältnismäßigkeit — uebertragbar auf E-Mail-Auswertung.
+- **EGMR (Große Kammer), Urteil vom 5. September 2017, 61496/08, Bărbulescu, Rn. 121–122:** Bei Überwachung elektronischer Kommunikation Vorabinformation, Eingriffsintensität, Gründe, mildere Mittel, Folgen und Schutzvorkehrungen prüfen. Der Fall betraf Messenger-Kommunikation im Arbeitsverhältnis. Für den Zugriff auf Postfächer zusätzlich die konkrete datenschutzrechtliche Grundlage und den Zweck prüfen. [HUDOC](https://hudoc.echr.coe.int/?i=001-177082)
+- **EGMR (Große Kammer), Urteil vom 17. Oktober 2019, 1874/13 und 8567/13, López Ribalda, Rn. 116–122, 126–137:** Die verdeckte Videoüberwachung wurde anhand konkreter Verdachtsmomente und begrenzter Durchführung beurteilt. Gegenstand war Videoüberwachung im Betrieb. [HUDOC](https://hudoc.echr.coe.int/?i=001-197098)
 - **LAG Hamm, Urt. v. 10.07.2012 — 14 Sa 1711/10**: Arbeitgeber bei erlaubter Privatnutzung wie Diensteanbieter behandelt; Zugriff auf Postfach ohne Einwilligung problematisch.
 
 Quellen für Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-lex.europa.eu, curia.europa.eu. Keine Modellwissen-Zitate ohne Verifikation.

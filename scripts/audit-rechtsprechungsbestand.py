@@ -42,7 +42,10 @@ def main() -> None:
         slug = plugin["name"]
         directory = ROOT / plugin["source"].removeprefix("./")
         files = set(directory.glob("*-werkstatt.md")) | set(directory.glob("*-schnellstart.md")) | set(directory.glob("*-hauptproblem.md"))
-        for folder in (directory / "skills", directory / "references"):
+        for pattern in ("README.md", "*-arbeitsprompt-*.md", "*-kurzprompt-*.md"):
+            files.update(directory.glob(pattern))
+        for folder in (directory / "skills", directory / "references", directory / "prompts",
+                       directory / "unified-mini-prompts", directory / "ustva"):
             if folder.exists():
                 files.update(folder.rglob("*.md"))
         mega = ROOT / "testakten/megaprompts" / (slug + ".md")

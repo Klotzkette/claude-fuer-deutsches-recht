@@ -38,13 +38,13 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 - **§ 50d Abs. 8 EStG** — Subject-to-Tax bei Arbeitseinkuenften.
 - **§ 50d Abs. 9 EStG** — generelle Subject-to-Tax-Klausel mit Wechsel zur Anrechnung.
 - **§ 50d Abs. 10 EStG** — Klarstellung Sondervergaben Personengesellschafter.
-- **§ 20 Abs. 2 AStG** — Switch-Over bei niedrig besteuerter passiver Betriebsstaette (Steuersatz unter 25 Prozent; nach AStG-Reform 2022 gilt weiterhin die 25-Prozent-Niedrigsteuer-Schwelle gemäß § 8 Abs. 5 AStG n.F. — aktuellen BMF-Stand im Einzelfall prüfen).
+- **§ 20 Abs. 2 AStG** — Switch-Over bei niedrig besteuerter passiver Betriebsstaette nach der hypothetischen Prüfung von Zwischeneinkünften.
 - **§ 7 ff. AStG** — Hinzurechnungsbesteuerung als verwandtes Instrument.
 - **§ 26 KStG** — Anrechnung im KStG-Bereich.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zu Aktivitaetsklauseln in freier amtlicher Quelle abrufen.
+- [BFH, Urteil vom 21.05.2025 – I R 5/22, Rn. 10–17 und 22](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520222/). Die Ausnahmen des § 32b Abs. 1 Satz 2 EStG gelten für abkommensrechtlich freigestellte Einkünfte nach Satz 1 Nr. 3. Bei fiktiver unbeschränkter Steuerpflicht und Progression nach Satz 1 Nr. 5 greift die Ausnahme im entschiedenen Fall nicht.
 - Aktuelle BFH-Rechtsprechung zu Subject-to-Tax-Klauseln in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zur Anwendung des § 34c EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 - BMF-Schreiben zur Anrechnungsmethode und Per-Country-Limitation — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
@@ -54,10 +54,10 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 ### Freistellungsmethode mit Progressionsvorbehalt
 
 - Ausländische Einkunft wird in Deutschland von der Steuerbemessungsgrundlage ausgenommen.
-- Aufgrund § 32b EStG erhoeht sie aber den durchschnittlichen Steuersatz auf das verbleibende inlaendische Einkommen.
+- Prüfe den positiven oder negativen Progressionsvorbehalt und seine Ausnahmen nach [§ 32b EStG](https://www.gesetze-im-internet.de/estg/__32b.html) gesondert. Bei privater EU-Vermietung unterscheide Steuerpflicht und Ansässigkeit, Belegenheitsrecht, abkommensrechtliche Freistellung, Progression und Erklärungspflicht. Bei Wohnraum in Italien prüfe insbesondere Art. 6, Art. 24 Abs. 3 Buchst. a und Protokoll Nr. 16 Buchst. d des [DBA-Italien](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Italien/1990-08-18-Italien-Abkommen-DBA.html). Die Entscheidung I R 5/22 betrifft die fiktive unbeschränkte Steuerpflicht im Verhältnis zu Polen.
 - Wirkt sich nur aus, wenn andere inlaendische Einkuenfte existieren.
 - Voraussetzung haeufig: Aktivitaetsklausel (echtes Geschäft im Ausland).
-- Anlage AUS / Anlage N-AUS dient der Erfassung.
+- Bestimme anhand des amtlichen Formulars für den Veranlagungszeitraum, ob und in welcher Anlage die Einkünfte anzugeben sind.
 
 ### Anrechnungsmethode
 
@@ -83,7 +83,7 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - Anwendbar bei ausländischen Betriebsstaetten.
 - Voraussetzung: passive Einkuenfte und niedrige Besteuerung.
-- AStG-Reform 2022: Niedrigsteuer-Schwelle betraegt weiterhin 25 Prozent gemäß § 8 Abs. 5 AStG n.F. — aktuellen Anwendungserlass im Einzelfall prüfen.
+- Die maßgebliche Ertragsteuerbelastung liegt nach [§ 8 Abs. 5 AStG](https://www.gesetze-im-internet.de/astg/__8.html) unter 15 Prozent. Beachte den zeitlichen Anwendungsbereich nach [§ 21 Abs. 6 AStG](https://www.gesetze-im-internet.de/astg/__21.html) für Wirtschaftsjahre, die nach dem 31.12.2023 enden. Prüfe die Ausnahmen des [§ 20 Abs. 2 AStG](https://www.gesetze-im-internet.de/astg/__20.html) und die einschlägigen DBA-Regeln.
 
 ## Workflow
 

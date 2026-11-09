@@ -37,6 +37,12 @@
       "url": "https://www.gesetze-im-internet.de/gbo/__71.html",
       "checked_on": "2026-09-22",
       "supports": "Grundbuchbeschwerde und beschränkter Angriff gegen erfolgte Eintragung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB___8-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-10",
+      "supports": "Paragraf 892 BGB kann bei rechtsgeschäftlicher vorweggenommener Erbfolge eingreifen. Für Paragraf 53 Absatz 1 Satz 1 GBO fortbestehende Unrichtigkeit nach einem Zwischenerwerb prüfen.",
+      "source_sha256": "03dc81653f19627ea5ef37db6ab10fc7322a1d1d3834a97c867526d4b07526f7"
     }
   ],
   "mini_review": {
@@ -47,9 +53,10 @@
       "Allgemeine Beschwerde, Nachreichungsfrist und Grenze des Angriffs gegen Eintragung getrennt.",
       "Auflassung von Erbfallberichtigung sowie Tilgung von Grundschuldlöschung getrennt; echte Antwortbeispiele statt Promptbausteinen.",
       "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
-      "Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt."
+      "Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt.",
+      "Quellenprüfung 10.11.2026: V ZB 8/25 auf Amtswiderspruch und rechtsgeschäftliche Vorwegnahme der Erbfolge angewendet."
     ],
-    "sha256": "5d82b8b24585d6b3336f200a908367a5d3c0ffc4bdecd66cdb5a3cf6329e2f10"
+    "sha256": "8c08ffdad40bced6b0b46735767e8ffba29ad8ba8bb84d8301fdd74b45666a36"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -59,9 +66,10 @@
       "Allgemeine Beschwerde, Nachreichungsfrist und Grenze des Angriffs gegen Eintragung getrennt.",
       "Auflassung von Erbfallberichtigung sowie Tilgung von Grundschuldlöschung getrennt; echte Antwortbeispiele statt Promptbausteinen.",
       "Rangerhalt und Hindernisheiligung, konkrete Zweifel am Erbnachweis, verlorener Brief, Löschungsbewilligung und verfahrensbezogener Rechtsbehelf.",
-      "Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt."
+      "Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt.",
+      "Quellenprüfung 10.11.2026: V ZB 8/25 auf Amtswiderspruch und rechtsgeschäftliche Vorwegnahme der Erbfolge angewendet."
     ],
-    "sha256": "129f2f8a15d3d7a02adfaa713a25708a405b459c31186b004f3b735b3709d2e7"
+    "sha256": "4e8cf2fb1b4f43d0719f3e158a719c9362f0d00f77f819ac00410d93a0d37b86"
   },
   "selection": {
     "positive": [
@@ -131,6 +139,13 @@
         "limit": "Grundbuchrechtlicher Nachweis bei öffentlicher Verfügung; keine materielle Bestätigung jedes Testaments, keine positive Publizität des Vollstreckervermerks.",
         "checked_on": "2026-09-25",
         "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BGH, Beschluss vom 18.12.2025 – V ZB 8/25, Rn. 6–12, 17–20 und 28–36",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB___8-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-10",
+        "application": "Paragraf 892 BGB kann bei rechtsgeschäftlicher vorweggenommener Erbfolge eingreifen. Für Paragraf 53 Absatz 1 Satz 1 GBO fortbestehende Unrichtigkeit nach einem Zwischenerwerb prüfen.",
+        "limit": "Keine Übertragung auf Gesamtrechtsnachfolge. Der konkrete Kenntnisstand und Grundbuchstand blieben nach Zurückverweisung zu klären."
       }
     ],
     "remaining_limits": [

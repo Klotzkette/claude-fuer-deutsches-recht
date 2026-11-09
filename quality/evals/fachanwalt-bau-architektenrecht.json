@@ -115,6 +115,12 @@
       "verification_status": "frisch_amtlicher_volltext_passagen",
       "source_sha256": "b5399e80d48297d3136bb409ff687e9fe554f78ce8596802a5acf28b60d594ec",
       "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bau-architektenrecht.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__10-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-10",
+      "supports": "Eine Anordnung nach Paragraf 2 Absatz 5 VOB/B setzt eine rechtsgeschäftliche Erklärung voraus. Bei Paragraf 6 Absatz 6 Satz 1 VOB/B konkreten Bauablauf und haftungsbegründende Kausalität darlegen.",
+      "source_sha256": "29ae3e26331bb8ac7bb99ae13475a804073ad51bad06d5e246bbd5ac81e0c989"
     }
   ],
   "mini_review": {
@@ -127,9 +133,10 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben.",
       "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Vergütung, Mangel oder Verzögerung führen direkt zum bestellten Schreiben; Bereithaltung wird von pauschalem Umsatzverlust getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Vergütung, Mangel oder Verzögerung führen direkt zum bestellten Schreiben; Bereithaltung wird von pauschalem Umsatzverlust getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenprüfung 10.11.2026: VII ZR 10/24 und VII ZR 16/17 im Bauablauf abgegrenzt, Bauträgerinsolvenz mit IX ZR 53/04 sowie Paragrafen 103 und 106 InsO neu belegt."
     ],
-    "sha256": "28cfa354ece1b30c380ab673df56397fa7ca28a21265558550c4cad1816927be",
+    "sha256": "0f6df219cde5a01eec82672a1b46393c7d771b21b9786cad18ee50e356abb00f",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -143,9 +150,10 @@
       "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
       "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben.",
       "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Vergütung, Mangel oder Verzögerung führen direkt zum bestellten Schreiben; Bereithaltung wird von pauschalem Umsatzverlust getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Vergütung, Mangel oder Verzögerung führen direkt zum bestellten Schreiben; Bereithaltung wird von pauschalem Umsatzverlust getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenprüfung 10.11.2026: VII ZR 10/24 und VII ZR 16/17 im Bauablauf abgegrenzt, Bauträgerinsolvenz mit IX ZR 53/04 sowie Paragrafen 103 und 106 InsO neu belegt."
     ],
-    "sha256": "0923ca0855b05cb6e259017be48e645d6d67d2c2e107cd17e0b16eb67db36eb7",
+    "sha256": "dfed689aab5c3814bf758b13333e32e5a28cae6e97b9cda0060fb16a29d98444",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -235,7 +243,10 @@
       "quality/evals/fachanwalt-bau-architektenrecht.json",
       "fachanwalt-bau-architektenrecht/skills/abnahme-mit-vorbehalt/SKILL.md",
       "fachanwalt-bau-architektenrecht/skills/architektenrecht-tatbestand-beweis-und-belege/SKILL.md",
-      "fachanwalt-bau-architektenrecht/skills/bautraeger-abnahme-formgerecht-640-bgb/SKILL.md"
+      "fachanwalt-bau-architektenrecht/skills/bautraeger-abnahme-formgerecht-640-bgb/SKILL.md",
+      "fachanwalt-bau-architektenrecht/skills/bautraeger-insolvenz/SKILL.md",
+      "fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bautraeger-insolvenz/SKILL.md",
+      "fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bauablauf-vbg/SKILL.md"
     ],
     "opening_change": "Vereinbarte, geänderte, erbrachte und abgenommene Leistung mit Forderung und Abwehr abgleichen; Fokus rechnet Beschäftigte und Geräte. Workflow-Ergänzung: Leer: Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung anbieten. Dateien ohne Aufgabe: Vertrag, Pläne, Bautagebuch und Kostenbelege still lesen; Mangel-, Vergütungs- oder Vorhalteziel klären. Klarer Auftrag: verlangte Rüge, Rechnung oder Anspruchserwiderung unmittelbar bearbeiten, bekannte Bauabschnitte übernehmen.",
     "norms": [
@@ -286,6 +297,13 @@
         "passages_read": "Entscheidungskopf, Rn. 36–43, 49, 53–54 und 56; frühere Prüfung als Kontext",
         "source_sha256": "b5399e80d48297d3136bb409ff687e9fe554f78ce8596802a5acf28b60d594ec",
         "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bau-architektenrecht.json"
+      },
+      {
+        "citation": "BGH, Urteil vom 19.09.2024 – VII ZR 10/24, Rn. 17–26 und 34–37",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__10-24.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-10",
+        "application": "Eine Anordnung nach Paragraf 2 Absatz 5 VOB/B setzt eine rechtsgeschäftliche Erklärung voraus. Bei Paragraf 6 Absatz 6 Satz 1 VOB/B konkreten Bauablauf und haftungsbegründende Kausalität darlegen.",
+        "limit": "Keine Regel zu einem zwingenden Einheitspreis oder zu jeder Terminänderung. Paragraf 287 ZPO setzt einen belegten Haftungsgrund voraus."
       }
     ],
     "remaining_limits": [

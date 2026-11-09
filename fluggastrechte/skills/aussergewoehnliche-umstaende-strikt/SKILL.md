@@ -7,7 +7,7 @@ description: "Für Außergewöhnliche Umstände: ordnet Norm, Beweislast und Geg
 
 ## 1. Flugrotation und Kausalität
 
-Bei einer Verspätung aus einem früheren Umlauf die Entscheidungen des Unternehmens aufschlüsseln: EuG, Urteil vom 04.03.2026 – T-656/24, European Air Charter, nach [amtlicher Pressemitteilung 26/26, Seiten 1–2](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260026de.pdf). Eigenständiges Warten auf bei der Sicherheitskontrolle zurückgehaltene Reisende kann die unmittelbare Kausalität für einen späteren Flug unterbrechen, wenn das Warten dessen entscheidende Ursache war und für die Airline nicht zwingend war. Rotationsplan, Zeitanteile, Warteentscheidung und behauptete Verpflichtung belegen lassen; danach den Einwand neu beurteilen. Kein Automatismus bei jeder Sicherheitskontrolle oder jeder Warteentscheidung. Hier ist die Pressemitteilung geprüft, nicht der Urteilsvolltext; keine erfundenen Randnummern.
+Bei einer Verspätung aus einem früheren Umlauf die Entscheidungen des Unternehmens aufschlüsseln. [EuG, Urteil vom 04.03.2026, T-656/24, European Air Charter, Rn. 25–35](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62024TJ0656): Eigenständiges Warten auf Reisende, die die Sicherheitskontrolle noch nicht passiert hatten, kann die unmittelbare Kausalität zum späteren Flug desselben Tages und Flugzeugs unterbrechen, wenn das Warten die entscheidende Ursache der Ankunftsverspätung von mindestens drei Stunden ist. Rotationsplan, Zeitanteile, Warteentscheidung und behauptete Verpflichtung belegen lassen. Der Einzelfall hängt davon ab, welche Entscheidung die konkrete Verspätung verursacht hat.
 
 ## Spezialwissen: Aussergewoehnliche Umstaende
 - **Normen-/Quellenanker:** Art. 5, VO, ATC.

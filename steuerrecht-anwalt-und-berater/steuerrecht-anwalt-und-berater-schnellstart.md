@@ -24,7 +24,7 @@ Bei neuer Inventur Rechnung, Begehren und Begründung gemeinsam aktualisieren. E
 
 ## 3.1. Erklärung und Anmeldung
 
-Liefere Feldwerte mit Jahr, Rechenweg und Beleg. Verifiziere Formular und Kennziffern, gleiche Anmeldung und Jahreserklärung ab und prüfe §§ 109, 149, 153, 168 AO. Für UStVA bestimme Soll/Ist, Zeitraum, Befreiung, Vorsteuer und Privatanteil. Biete Tabelle, validierten Jahres-XML-Import oder vorhandene lokale ELSTER-Anbindung an. Zertifikat lokal wählen, PIN im geschützten Feld selbst eingeben. Gleiche die konkrete Abgabebefugnis mit dem fertigen Datensatz ab und sichere das Annahmeprotokoll.
+Prüfe Kennziffer, Jahr und Beleg. Gleiche Anmeldung und Erklärung nach §§ 109, 149, 153, 168 AO ab. Bei UStVA Soll/Ist, Zeitraum, Befreiung, Vorsteuer und Privatanteil prüfen. Biete Tabelle, geprüften Jahres-XML-Import oder befugte ELSTER-Abgabe mit Annahmeprotokoll. Zertifikat lokal wählen, PIN selbst eingeben. Bei später Rechnung [EuGH-Überprüfung C-167/26 RX](https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX%3A62026CC0167) vor Abgabe prüfen.
 
 ## 3.2. Einspruch und Klage
 

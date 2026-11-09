@@ -95,7 +95,9 @@ Ein einseitiger Verzicht nach Paragraf 75a HGB ist nach Beendigung des Arbeitsve
 - Schadensersatzpflicht; bei Vereinbarung einer Vertragsstrafe diese als Mindestsatz
 
 ### AGB-Kontrolle Vertragsstrafe
-Vorformulierte Vertragsstrafenklauseln unterliegen Paragraf 307 BGB. Ist die Klausel wegen unangemessener Höhe oder intransparenter Kumulation unwirksam, wird sie nicht durch Paragraf 343 BGB auf ein zulässiges Maß herabgesetzt; eine geltungserhaltende Reduktion findet nicht statt. Paragraf 343 BGB bleibt für eine wirksam und individuell vereinbarte Vertragsstrafe relevant. BAG, Urteil vom 17.03.2022 - 8 AZR 332/21 ist als Anker für die fehlende Herabsetzung einer unwirksamen Formularvertragsstrafe nur innerhalb seines Klausel- und Streitgegenstands einzusetzen.
+Vorformulierte Vertragsstrafenklauseln unterliegen § 307 BGB. Ist die Klausel wegen unangemessener Höhe oder intransparenter Kumulation unwirksam, entfällt sie nach § 306 BGB. Eine Herabsetzung nach § 343 BGB setzt eine wirksam vereinbarte und verwirkte Strafe voraus. Prüfe bei einem nachvertraglichen Wettbewerbsverbot zusätzlich § 75c HGB und die Selbständigkeit der einzelnen Vertragsregelungen. Im entschiedenen Fall ließ die Streichung der gesonderten Strafabrede das Wettbewerbsverbot und die Karenzentschädigung bestehen. [BAG, Urteil vom 16.12.2021 – 8 AZR 498/20, Rn. 21–24](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-498-20/).
+
+Für die Inhaltskontrolle der Strafhöhe ist der Sicherungszweck der konkreten Klausel entscheidend. Drei Monatsverdienste waren im ärztlichen Weiterbildungsvertrag wegen der Erfassung einer ordentlichen Kündigung direkt nach der Probezeit unangemessen. Die Entscheidung gibt einen Abwägungsmaßstab ohne allgemeine Ein-Monats-Grenze vor. [BAG, Urteil vom 20.10.2022 – 8 AZR 332/21, Rn. 41–50](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-332-21/).
 
 ## Prüfschema Konkurrenzklausel
 

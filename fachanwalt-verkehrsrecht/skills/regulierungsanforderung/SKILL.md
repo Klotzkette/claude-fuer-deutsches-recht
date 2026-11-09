@@ -53,7 +53,7 @@ description: "Für Regulierungsanforderung: ordnet Norm, Beweislast und Gegenarg
 | BGH VI. ZS | VI ZR 253/22 | 16.1.2024 | Werkstattrisiko: Geschädigter trägt im Regelfall nicht das Risiko überhöhter Reparaturkosten der Werkstatt | juris.bundesgerichtshof.de |
 | BGH VI. ZS | VI ZR 239/22 | 16.1.2024 | Unbezahlte Rechnung: Zahlung nur an die Werkstatt Zug um Zug gegen Abtretung; der Zessionar trägt das Werkstattrisiko | juris.bundesgerichtshof.de |
 | BGH VI. ZS | VI ZR 280/22 | 12.3.2024 | Werkstattrisiko-Grundsätze gelten auch für überhöhte Sachverstaendigenkosten | juris.bundesgerichtshof.de |
-| BGH VI. ZS | VI ZR 12/24 | 5.11.2024 | Fiktiver Haushaltsfuehrungsschaden: Mindestlohn ist Untergrenze, jedoch nachvollziehbare Begründung des Stundensatzes erforderlich (§ 287 ZPO) | juris.bundesgerichtshof.de |
+| BGH VI. ZS | VI ZR 12/24 | 5.11.2024 | Fiktiver Haushaltsfuehrungsschaden: Mindestlohn ist Untergrenze des Bruttolohns, der Nettoansatz ist herzuleiten, jedoch nachvollziehbare Begründung des Stundensatzes erforderlich (§ 287 ZPO) | juris.bundesgerichtshof.de |
 | BGH VI. ZS | VI ZR 24/25 | 14.10.2025 | Überspannte Substantiierungsanforderungen an Geschädigten zu Haushaltsfuehrungs-/Mehrbedarfsschaden verletzen Art. 103 Abs. 1 GG | juris.bundesgerichtshof.de |
 
 Hinweis: Reihenfolge Rspr. vor Lit.; neueste zuerst. Keine Aufsatz- oder Kommentar-Fundstellen aus Modellwissen. Verifikation in der BGH-eigenen Datenbank, dejure.org oder openjur.de Pflicht.
@@ -72,7 +72,7 @@ Hinweis: Reihenfolge Rspr. vor Lit.; neueste zuerst. Keine Aufsatz- oder Komment
 | 6 | Wertminderung beziffert (SV-Gutachten)? | § 251 BGB | Eigenständige Position neben Reparaturkosten |
 | 7 | Schmerzensgeld nach § 253 Abs. 2 BGB? | § 253 BGB | Bei Personenschaden; Genugtuung als Bemessungsgesichtspunkt (st. Rspr. BGH VI. ZS) |
 | 8 | Mietwagenkosten oder Nutzungsausfall? | §§ 249, 251 BGB | Wahlrecht; Schadensminderungspflicht; Schätzgrundlage Schwacke und/oder Fraunhofer (§ 287 ZPO) |
-| 9 | Haushaltsfuehrungsschaden nachvollziehbar begründet? | § 251 BGB i.V.m. BGH VI ZR 12/24 | Mindestlohn ist Untergrenze, aber konkrete Begründung des Stundensatzes erforderlich |
+| 9 | Haushaltsfuehrungsschaden nachvollziehbar begründet? | § 251 BGB i.V.m. BGH VI ZR 12/24 | Mindestlohn ist Untergrenze des Bruttolohns, der Nettoansatz ist herzuleiten, aber konkrete Begründung des Stundensatzes erforderlich |
 | 10 | Verdienstausfall beziffert? | § 252 BGB | Bruttolohn minus erhaltenes Krankengeld |
 | 11 | SGB X-Übergang berücksichtigt? | § 116 SGB X | Quotenvorrecht sichern; SV-Träger informieren |
 | 12 | Anwaltskosten angesetzt? | § 249 BGB | Außergerichtlich 1.3 Geschäftsgebühr Nr. 2300 VV RVG |
@@ -294,7 +294,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Verbringungskosten abgelehnt | Regionale Werkstattpraxis belegen; bei tatsächlich angefallenen Kosten keine Diskussion |
 | Sachverstaendigenkosten ueberhoeht | Sachverstaendigenrisiko liegt beim Schädiger; BGH VI ZR 280/22 (12.3.2024) — Quelle in juris.bundesgerichtshof.de prüfen |
 | Mietwagen-Tagessatz überhöht | Schätzgrundlage Schwacke und/oder Fraunhofer in tatrichterlicher Würdigung (§ 287 ZPO); BGH-Linie offen für beide Modelle |
-| Haushaltsfuehrungsschaden zu niedrig angesetzt | Mindestlohn ist Untergrenze, aber konkrete Begründung des Stundensatzes erforderlich; BGH VI ZR 12/24 (5.11.2024) |
+| Haushaltsfuehrungsschaden zu niedrig angesetzt | Mindestlohn ist Untergrenze des Bruttolohns, der Nettoansatz ist herzuleiten, aber konkrete Begründung des Stundensatzes erforderlich; BGH VI ZR 12/24 (5.11.2024) |
 
 ## Streitwert und Kosten
 
@@ -324,5 +324,5 @@ Aktueller Stand Mai 2026 (verifizierte Aktenzeichen mit offener Quelle):
 - BGH VI ZR 253/22 v. 16.1.2024 (Werkstattrisiko)
 - BGH VI ZR 239/22 v. 16.1.2024 (Werkstattrisiko bei unbezahlter Rechnung und Abtretung)
 - BGH VI ZR 280/22 v. 12.3.2024 (Sachverstaendigenrisiko)
-- BGH VI ZR 12/24 v. 5.11.2024 (Haushaltsfuehrungsschaden, Mindestlohn als Untergrenze)
+- BGH VI ZR 12/24 v. 5.11.2024 (Haushaltsfuehrungsschaden, Mindestlohn als Untergrenze des Bruttolohns, kein Netto-Pauschalsatz)
 - BGH VI ZR 24/25 v. 14.10.2025 (Art. 103 Abs. 1 GG — Substantiierungsanforderungen Schaden)

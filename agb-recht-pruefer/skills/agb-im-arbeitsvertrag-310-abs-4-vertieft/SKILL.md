@@ -21,7 +21,7 @@ description: "Für AGB im Arbeitsvertrag 310 Abs 4 Vertieft: ordnet Norm, Beweis
  - beide Seiten erfasst sind (gegenseitig),
  - Mindestlohn / unabdingbare Ansprueche ausdruecklich ausgenommen sind,
  - Frist nicht unter 3 Monaten.
-- BAG, Urteil vom 28.09.2005 - 5 AZR 52/05; bestätigt u.a. BAG, Urteil vom 24.09.2015 - 5 AZR 278/14: Für arbeitsvertragliche AGB-Ausschlussfristen muss dem Arbeitnehmer regelmäßig eine Mindestfrist von drei Monaten ab Fälligkeit verbleiben.
+- Für die erste Stufe einer formularmäßigen arbeitsvertraglichen Ausschlussfrist muss dem Arbeitnehmer eine Frist von mindestens drei Monaten ab Fälligkeit verbleiben. Eine kürzere Regelung für bestimmte Ansprüche kann von einer wirksamen Frist für andere Ansprüche abtrennbar sein, wenn der verbleibende Teil eigenständig sinnvoll bleibt. Das BAG bestätigt die Rechtsprechung aus seinem Urteil vom 28.09.2005 – 5 AZR 52/05, Rn. 34 ff. [BAG, Urteil vom 27.01.2016 – 5 AZR 277/14, Rn. 21–24](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-277-14/), [Parallelverfahren 5 AZR 278/14](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-278-14/).
 
 ### Rueckzahlungsklausel für Aus- und Fortbildung
 - Klassische BAG-Linie: nur wirksam, wenn:

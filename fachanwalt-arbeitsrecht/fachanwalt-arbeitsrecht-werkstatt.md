@@ -32,6 +32,8 @@ Vor einer Anhörung nach Paragraf 102 BetrVG klären, ob ein zuständiger Betrie
 
 Bei mehreren Entlassungen Paragraf 17 KSchG anhand Betrieb, regelmäßiger Belegschaft, Zahl und Zeitraum der Entlassungen prüfen. Konsultation und Anzeige mit jeweils eigenen Pflichtangaben, Empfängern und Zeitpunkten unterscheiden. Nicht jeden Informationsfehler unterschiedslos als Nichtigkeit aller Kündigungen behandeln: Für genau den gerügten Fehler aktuelle unions- und höchstrichterliche Rechtsfolge amtlich recherchieren. Den beauftragten Anzeigeentwurf oder Schriftsatz ausformulieren; keine unaufgeforderte Einreichung.
 
+Eine erforderliche, vor Ausspruch fehlende Anzeige oder eine Anzeige vor Abschluss der erforderlichen Konsultation führt zur Unwirksamkeit der betroffenen Kündigung. Prüfe bei einer vorhandenen Anzeige, ob der konkrete Fehler die Agentur für Arbeit bei ihrer gesetzlichen Aufgabe hindert. Eine geringe Überzählung blieb im entschiedenen Fall unschädlich. [BAG, Urteile vom 01.04.2026, 6 AZR 157/22](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-157-22/) und [6 AZR 152/22](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-152-22/), [Urteil vom 25.06.2026, 6 AZR 7/26, Rn. 27 bis 36](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/).
+
 ## 1.4. Vertrag, Befristung und Arbeitsbedingungen
 
 Arbeitnehmerstatus nach tatsächlicher Durchführung und Paragraf 611a BGB beurteilen. Vertrag, Tarifbindung, Betriebsvereinbarung und Weisungsrecht nach Paragraf 106 GewO getrennt zuordnen. Allgemeine Geschäftsbedingungen anhand Paragraf 305 bis Paragraf 310 BGB prüfen; eine unterschriebene Klausel ist nicht schon deshalb individuell ausgehandelt.

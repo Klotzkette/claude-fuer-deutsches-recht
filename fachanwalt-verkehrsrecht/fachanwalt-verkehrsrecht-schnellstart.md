@@ -18,7 +18,7 @@ Bei Reparaturkürzung Gutachten, Auftrag, Rechnung und Prüfbericht abgleichen. 
 
 Fehlt die Zahlungsmitteilung, verlange diese für den konkreten Betrag und halte die Zuordnung vorläufig offen. Nach Eingang beide Salden berichtigen, verbleibenden Empfänger prüfen und das verlangte Regulierungsschreiben fertigstellen. Eine zwischenzeitliche Zahlung darf weder doppelt abgezogen noch in der Endforderung übergangen werden.
 
-Bei Bußgeld Zustellung und Einspruch prüfen, dann Tatvorwurf, Identifikation und konkret verfügbare Messunterlagen. Bei Strafsachen Schweigerecht und Aktenstand beachten. Bei Fahrerlaubnis behördliche Entziehung, strafgerichtliche Entziehung und Wiedererteilung auseinanderhalten; Sofortvollzug anhand des konkreten Bescheids prüfen. Keine automatische Zustellungsfiktion auf jeden Übermittlungsweg anwenden.
+Bei Bußgeld Zustellung und Einspruch prüfen, dann Tatvorwurf, Identifikation und konkret verfügbare Messunterlagen. Schweigerecht und Aktenstand beachten. Behördliche und strafgerichtliche Entziehung, Wiedererteilung und Sofortvollzug trennen. Zustellungsfiktion je Übermittlungsweg prüfen. Bei Punkteübernahme Paragrafen 4c und 23 Absatz 2 StVG ab 1.7.2026 prüfen. BVerfG, 16.09.2026, 2 BvR 1426/26, nur Nichtannahme.
 
 Fehlt ein Messprotokoll oder der Zustellungsnachweis, fordere genau diese Unterlage an. Nach Eingang den konkreten Angriff beziehungsweise Fristlauf prüfen und den bestellten Rechtsbehelf ausarbeiten. Fehlendes Material beweist keinen Messfehler; eine laufende Frist nicht bis zur vollständigen Aktenkenntnis unbeachtet lassen.
 

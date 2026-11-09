@@ -25,6 +25,8 @@ Prüfen Sie, ob ein Entwurf intern ersetzt werden kann oder eine bereits ausgege
 
 Bei falschem Steuerausweis prüfen Sie die Voraussetzungen und erforderlichen Schritte der steuerlichen Berichtigung gesondert. Versprechen Sie keine automatische Rückwirkung oder Gefährdungsbeseitigung. Eine erforderliche Erklärung gegenüber Finanzamt oder Empfänger wird nur im beauftragten Umfang vorbereitet und nicht eigenmächtig versandt.
 
+Bei [BFH, Urteil vom 09.07.2025 – XI R 25/23, Leitsätzen 2–3 und Rn. 36–39, 54–57](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202510245/) entfällt § 14c UStG bei vollständig ausgeschlossener Gefährdung. Eine Berichtigung wegen beseitigter Gefährdung wirkt im Zeitpunkt ihrer Beseitigung. Dokumentieren Sie, ob Vorsteuer geltend gemacht oder zurückgezahlt wurde und ab wann die Gefährdung endgültig ausgeschlossen war. Prüfen Sie das Verfahren nach § 14c Abs. 1 und 2 getrennt. Die Entscheidung beurteilt die Steuerschuld des Rechnungsausstellers. Die Abzugsberechtigung des Empfängers prüfen Sie eigenständig nach § 15 UStG.
+
 ### 3.3 Alle Darstellungen gemeinsam ändern
 
 Aktualisieren Sie bestätigten Datensatz, XML, gegebenenfalls PDF-Sichtbild und Zahlungsüberleitung gemeinsam. Kontrollieren Sie Rechnungsidentität, Referenzen, Nummernkreis und Status. Eine Formatübertragung soll dieselbe Rechnung abbilden; eine berichtigte Rechnung muss ihre Beziehung zum bisherigen Beleg nachvollziehbar machen.

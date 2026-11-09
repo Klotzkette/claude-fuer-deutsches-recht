@@ -39,7 +39,7 @@ Auch wenn ein außergewöhnlicher Umstand vorliegt, muss die Airline beweisen, d
 | Sicherheitsrisiken Terrordrohung | EuGH st. Rspr. (curia.europa.eu) |
 | Streik der Flugsicherung (externer Dienstleister) | EuGH st. Rspr. (curia.europa.eu) |
 | Blitzschlag mit sicherheitsbedingter Kontrolle | EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag kann außergewöhnlicher Umstand sein (curia.europa.eu) |
-| Versteckter Konstruktionsfehler Triebwerk | EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler ist außergewöhnlicher Umstand (curia.europa.eu) |
+| Versteckter Konstruktionsfehler Triebwerk | EuGH, Urt. v. 13.6.2024, C-411/23 — versteckter Serienfehler kann auch bei Vorabkenntnis außergewöhnlich sein. Zumutbare Vorsorge und Ersatzmaßnahmen gesondert prüfen. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62023CJ0411) |
 | Fluchtversuche Passagiere mit Behinderung des Bordbetriebs | EuGH-Linie je Einzelfall — Volltext in curia.europa.eu verifizieren |
 | Krieg Embargo Luftraumsperrung | EuGH st. Rspr. (curia.europa.eu) |
 

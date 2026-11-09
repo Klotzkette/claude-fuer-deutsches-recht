@@ -51,4 +51,4 @@ Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7
 
 ## 1. Auskunftsfälle gezielt weiterführen
 
-Bei behauptetem Missbrauch eines Auskunftsantrags zu `dsgvo-auskunft` wechseln: EuGH vom 19.03.2026, C-526/24, verlangt den Nachweis der missbräuchlichen Absicht. Bei Finanzbehörden vor einem Antrag auf eidesstattliche Versicherung `auskunft-behoerden-gericht-und-registerweg` und BFH vom 30.06.2026, IX R 2/25, prüfen; stattdessen konkret fehlende Auskunftsteile nachfordern. Keine Übertragung dieser Sonderroute auf jede private Auskunft.
+Bei behauptetem Missbrauch eines Auskunftsantrags zu `dsgvo-auskunft` wechseln: Missbrauchsabsicht anhand aller Umstände prüfen. Die Beweislast trägt der Verantwortliche. [EuGH, Urteil vom 19.03.2026 – C-526/24, Rn. 37–45](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526). Bei Finanzbehörden vor einem Antrag auf eidesstattliche Versicherung `auskunft-behoerden-gericht-und-registerweg` und BFH vom 30.06.2026, IX R 2/25, prüfen; stattdessen konkret fehlende Auskunftsteile nachfordern. Keine Übertragung dieser Sonderroute auf jede private Auskunft.

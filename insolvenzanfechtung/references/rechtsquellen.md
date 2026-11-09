@@ -179,7 +179,9 @@ Trägt: Art. 13 der Verordnung (EG) Nr. 1346/2000 ist nicht gegen die Rückforde
 
 Trägt nicht: Allgemeiner Ausschluss der Einwendung ausländischen Rechts bei jeder Anfechtung oder jedem Bankdarlehen. Fragen 2 bis 4 wurden ausdrücklich nicht beantwortet. Das Urteil betrifft die alte EuInsVO; die Anwendung auf den heutigen Normzusammenhang muss offengelegt und begründet werden.
 
-Die zugrunde liegende BGH-Vorlage vom 16. Januar 2025 – IX ZR 229/23, berichtigt am 12. Februar 2025, ist damit unionsrechtlich beantwortet und darf nicht mehr als unbeantwortete Vorlage dargestellt werden. Gelesen wurden Vorlagefragen sowie Rn. 1 bis 16 des [amtlichen BGH-PDFs](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_229-23.pdf?__blob=publicationFile&v=1). Ein nachfolgender abschließender nationaler Urteilsausspruch wurde in dieser Runde nicht verifiziert.
+Die zugrunde liegende BGH-Vorlage vom 16. Januar 2025 – IX ZR 229/23, berichtigt am 12. Februar 2025, ist damit unionsrechtlich beantwortet und darf nicht mehr als unbeantwortete Vorlage dargestellt werden. Gelesen wurden Vorlagefragen sowie Rn. 1 bis 16 des [amtlichen BGH-PDFs](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_229-23.pdf?__blob=publicationFile&v=1).
+
+[BGH, Urteil vom 17.09.2026 – IX ZR 229/23](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip), Rn. 13–16, 24, 28–29 und 37–38, ordnet § 135 Abs. 1 Nr. 2 InsO als Durchsetzung des Gesellschafterdarlehensnachrangs ein. Art. 13 EuInsVO a. F. steht diesem Zugriff nicht entgegen. Prüfen Sie weiterhin die Gläubigerbenachteiligung und jede einzelne Leistung. Vertragliche Zinszahlungen fallen grundsätzlich nicht unter § 135 Abs. 1 Nr. 2 InsO. Prüfen Sie insbesondere Überhöhung gegenüber marktüblichen Zinsen oder eine darlehensgleiche Stundung. Der BGH bestätigte die Beurteilung zu Tilgung und darlehensgleichen Warenlieferungen. Zur Anfechtbarkeit der Zinszahlungen verwies er die Sache zurück, weil Feststellungen fehlten. Das Urteil betrifft die alte EuInsVO. Art. 16 der Verordnung (EU) 2015/848 und gewöhnliche Fremddarlehen sind gesondert zu prüfen.
 
 ## 3. Internationaler Prüfweg für Weserfunken
 
@@ -207,6 +209,6 @@ Die bisherige Aussage, Zedent und Zessionar müssten bei Abtretung stets jeweils
 - IX ZR 129/22 ist nicht die Erlaubnis, ungeachtet eigener Wahrnehmung alles pauschal zu bestreiten.
 - IX ZR 239/22 verlangt eine ex-ante-Prüfung der Deckungslücke und Beseitigungsmöglichkeiten, kein automatisches Tabellenritual.
 - IX ZR 122/23 ist nicht als neue allgemeine 30-Tage-Regel für Löhne oder Waren zu präsentieren. Gesetzliche Sonderregeln und tatsächlich entschiedene Dienstleistung auseinanderhalten.
-- IX ZR 229/23 nicht mehr als offene EuGH-Vorlage führen; C-43/25 ist seit 19. März 2026 entschieden.
+- Den EuGH-Maßstab aus C-43/25 zusammen mit der nationalen Anwendung in BGH IX ZR 229/23 heranziehen. Tilgung, darlehensgleiche Leistung und Zinsen getrennt prüfen.
 - Rechtsfolgen nach § 143 Abs. 3 gegen den Gesellschafter nicht mit Ansprüchen gegen die empfangende Bank verwechseln.
 - Ratenvereinbarung, Aufrechnung, Sicherung, Darlehensrückzahlung und tatsächliche Drittzahlung sind eigenständige Prüfgegenstände. Ein Vertragsetikett ersetzt keine rechtliche Einordnung.

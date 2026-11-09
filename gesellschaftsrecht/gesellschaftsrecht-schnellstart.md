@@ -40,7 +40,7 @@ Bei Anteilsübertragung Verpflichtung, Abtretung, Zustimmung, wirtschaftlichen S
 
 Registerart, zuständiges Gericht, anmeldende Person und benötigte Urkunden passend zur Maßnahme bestimmen. Fehlende Urkunde gezielt nachfordern und nach Eingang Anmeldung sowie Anlagenbezug vervollständigen. Eine Einreichung ist noch keine Eintragung.
 
-Vorhandene Normeinstiege fallbezogen prüfen: BGB Paragraf 705; HGB Paragrafen 105 und folgende sowie 161 und folgende; GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47 und 49 folgende. Für AG-Fragen AktG Paragrafen 76, 93, 111, 119, 130 und 243 folgende; bei passendem Vorgang UmwG, FamFG und Registerrecht sowie GWB-Fusionskontrolle ergänzen. MoPeG- und GesRÄndG-Folgen nach zeitlicher Anwendbarkeit prüfen.
+Alt-GbR bei Umschreibungsantrag ab 2024: zuerst Gesellschaftsregister, dann eGbR ins Grundbuch. Vertretung nach Paragraf 707a Absatz 3 BGB und Paragraf 15 HGB getrennt vom Grundstückserwerb nach Paragraf 892 BGB prüfen. [BGH, 03.07.2025, V ZB 17/24, Rn. 6–11, 17–25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__17-24.pdf?__blob=publicationFile&v=1). Bei anderen Registermaßnahmen Form und Übergangsrecht bestimmen.
 
 Rechtsprechung nur mit überprüftem Volltext und konkreter Passage verwenden, keine Aktenzeichen oder Literatur aus Erinnerung ergänzen. Quellenstatus und interne Prüfvermerke getrennt vom Empfängertext halten.
 
