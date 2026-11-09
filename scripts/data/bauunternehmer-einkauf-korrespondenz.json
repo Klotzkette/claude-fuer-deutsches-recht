@@ -1,0 +1,384 @@
+{
+  "documents": [
+    {
+      "filename": "31a_Austauschhinweis_GAEB.eml",
+      "from_name": "Maren Renken · Projekteinkauf Krimpfort",
+      "from_email": "baueinkauf@krimpfort.example",
+      "to_email": "jaron.sander@jadeholm.example",
+      "date": "2026-11-04T10:21:00+01:00",
+      "subject": "KPF-WB-31 · Einheitliche Austauschdatei zur Türanfrage",
+      "paragraphs": [
+        "Guten Morgen, Herr Sander,",
+        "hier kommt wie angekündigt die GAEB-Datei zur bereits versandten Anfrage. Wir geben denselben Stand allen vier angefragten Häusern getrennt heraus. Der Kurzname in der AVA lautet „Türpaket Weserbogen“, die LV-Nummer lautet KPF-WB-31. Die fünf Ordnungszahlen entsprechen in aufsteigender Reihenfolge B1, B2, F1, T1 und S1. Die Mengengrundlage bleibt das Türregister mit 500 einzelnen Kennungen.",
+        "Bitte senden Sie die ausgefüllte Angebotsdatei als X84 im GAEB-DA-XML-Austausch und Ihr schriftliches Angebots-PDF bis Mittwoch, 25. November, 12 Uhr, zurück. Belassen Sie die OZ und Mengen des Datensatzes unverändert. Falls Ihre Kalkulation Montage, Antriebe, Fracht oder andere Pflichtleistungen außerhalb dieser Positionen führt, benötigen wir die gesonderten Beträge und den zugehörigen Umfang im PDF. Für Wartung, Fristen, Nachlass und Abweichungen verwenden Sie bitte ebenfalls das Angebotsschreiben. Geben Sie im Anschreiben die Angebotsnummer und den Stand beider Anlagen an.",
+        "Wir prüfen Dateistruktur und Mengengerüst beim Eingang. Eine Eingangsbestätigung oder ein erfolgreicher Import sagt noch nichts über den vollständigen Leistungsumfang oder die technische Freigabe.",
+        "Freundliche Grüße\nMaren Renken\nProjekteinkauf · Krimpfort SE & Co. KG"
+      ],
+      "attachments": [
+        "31_Tuerpaket_LV_R1.x83"
+      ]
+    },
+    {
+      "filename": "32_A_Angebotseingang_Emswiek.eml",
+      "from_name": "Tessa Eilers · Vertrieb Emswiek",
+      "from_email": "tessa.eilers@emswiek.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-11-23T16:42:00+01:00",
+      "subject": "ET-26-241 · Warenangebot und Angebotsdatei Weserbogen",
+      "paragraphs": [
+        "Guten Nachmittag, Frau Renken,",
+        "im Anhang finden Sie unser Angebot ET-26-241 und die bepreiste Austauschdatei. Beides trägt den heutigen Preisstand. Unsere Angebotsdatei enthält die fünf Warenpositionen für insgesamt 479.220,00 Euro netto. Unser Werk kann die Größen nach dem Türregister fertigen. Die Zeile für B2 kalkuliert das vorbereitete Element mit Zarge. Die vollständige Automatik gehört in die später abzustimmende Ausrüstung.",
+        "Bei der Übernahme des Betrags in Ihren Preisspiegel beachten Sie bitte die Abgrenzung auf Seite 1 des Angebots. Montage, Baustellenfracht, Entladung und die Antriebsausrüstung sind gesondert zu bepreisen. Für die Anschlusssituation an der Stahl-Sturztraverse kann ich heute weder Ausführung noch Montagezeit bestätigen. Für die Preisbildung der Ergänzung habe ich den Außendienst um eine gemeinsame Begehung und die Montageleitung um eine Kolonnenplanung gebeten.",
+        "Das Warenangebot bleibt bis 11. Dezember um 16 Uhr gebunden. Für die Fertigungsplanung hilft uns eine Rückmeldung, ob Sie die gesamte Montage an denselben Lieferanten vergeben wollen.",
+        "Mit freundlichen Grüßen\nTessa Eilers\nObjektvertrieb · Emswiek Türsysteme GmbH"
+      ],
+      "attachments": [
+        "08_Angebot_A_Emswiek.pdf",
+        "33_A_Emswiek_ET-26-241.x84"
+      ],
+      "reply_to": "07_Anfrage_Tuerpaket.eml"
+    },
+    {
+      "filename": "34_B_Angebotseingang_Weserfalz.eml",
+      "from_name": "Ina Wieters · Weserfalz Objekttechnik",
+      "from_email": "ina.wieters@weserfalz.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-11-24T14:26:00+01:00",
+      "subject": "WF-702 R1 · Komplettangebot Bremen und X84-Preisdatei",
+      "paragraphs": [
+        "Guten Tag, Frau Renken,",
+        "wir übersenden WF-702 R1 für alle 500 Elemente. Die X84 entspricht dem Preisstand des beigefügten Angebots und schließt die im Schreiben aufgeschlüsselten Leistungen in den fünf Einheitspreisen ein. Unser Angebotsbetrag in dieser Fassung beträgt 606.420,00 Euro netto. Eine gesonderte Montageposition ist im Datensatz deshalb nicht vorgesehen. Das gilt auch für die Sonderbefestigungen, die wir für die zehn B2-Türen in E4 bereits kalkuliert haben.",
+        "Für die Sonderwand steht die Zusammenstellung zum Herstellernachweis noch aus. Unser Werk prüft gerade die Kombination aus WF-A50, Befestigungsplatte und Stahl-Sturztraverse. Sobald die Zuordnung auf dem angebotenen Stand vorliegt, erhalten Sie die Unterlage zusammen mit der Disposition. Bitte übernehmen Sie bis dahin die technische Bestätigung als offenen Punkt.",
+        "Im PDF finden Sie die getrennten Fristen für Bindung und Paketnachlass sowie die Wartungsvergütung. Die XML-Datei gibt die Preise vor bedingtem Nachlass und Skonto wieder. Falls bei Ihrem Import eine abweichende LV-Fassung angezeigt wird, schicken Sie uns bitte die betroffene Ordnungszahl und den angezeigten Stand.",
+        "Mit freundlichen Grüßen\nIna Wieters\nWeserfalz Objekttechnik GmbH"
+      ],
+      "attachments": [
+        "09_Angebot_B_Weserfalz.pdf",
+        "35_B_Weserfalz_WF-702.x84"
+      ]
+    },
+    {
+      "filename": "36_C_Angebotseingang_Jadeholm.eml",
+      "from_name": "Jaron Sander · Projektleitung Jadeholm",
+      "from_email": "jaron.sander@jadeholm.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-11-24T16:08:00+01:00",
+      "subject": "AW: KPF-WB-31 · JH-WB-26 für Lieferung und Montage",
+      "paragraphs": [
+        "Guten Tag, Frau Renken,",
+        "anbei erhalten Sie die Angebotsdatei zu KPF-WB-31 und unser Objektangebot JH-WB-26. Der Betrag von 649.060,00 Euro netto enthält sämtliche fünf Gruppen einschließlich der automatisierten Türen und der vorgesehenen Montage an W-S. Der Anschaffungspreis schließt die Muster- und Systemprüfungen, die Einweisung und das digital auswertbare Verzeichnis ein. Es ist kein separates Entgelt für den Dokumentationsexport vorgesehen.",
+        "Die Wartungsvergütung von 10.800,00 Euro netto pro Jahr und der unter den genannten Bedingungen angebotene Paketnachlass stehen im Schreiben. Die X84 überträgt die fünf Anschaffungspositionen vor Nachlass. Unsere Elementnachweise und die genaue Zuordnung zum Einbau folgen, sobald Werk und Montageleitung die Unterlagen gemeinsam abgezeichnet haben.",
+        "Wenn Sie die zusätzliche Musterprüfung mit der Bauleitung erörtern möchten, bereiten wir für das Gespräch eine kurze Darstellung der Arbeitsfolge vor. Die drei vorgesehenen Funktionsdaten stehen bereits im Angebot.",
+        "Freundliche Grüße\nJaron Sander\nProjektleitung · Jadeholm Metallbau GmbH"
+      ],
+      "attachments": [
+        "10_Angebot_C_Jadeholm.pdf",
+        "37_C_Jadeholm_JH-WB-26.x84"
+      ],
+      "reply_to": "31a_Austauschhinweis_GAEB.eml"
+    },
+    {
+      "filename": "38_D_Angebotseingang_Friesenlint.eml",
+      "from_name": "Marit Behrens · Objektvertrieb Friesenlint",
+      "from_email": "marit.behrens@friesenlint.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-11-25T09:17:00+01:00",
+      "subject": "FL-500 · Türpaket Weserbogen für Ihren heutigen Angebotsabschluss",
+      "paragraphs": [
+        "Guten Morgen, Frau Renken,",
+        "wir senden Ihnen FL-500 im PDF und als X84. Der Preis der fünf Gruppen einschließlich Montage beträgt 510.940,00 Euro netto. Bitte lesen Sie zur E4-Gruppe die Erläuterung im PDF. Im Programm haben wir alle B2 mit unserem Standard-Automatikpaket erfasst. Der Montagepartner rechnet damit, die Anschlüsse in der Sonderwand vor Ort anpassen zu können. Den Aufbau für dieses Detail haben wir im Werk noch nicht freigegeben.",
+        "Die drei Termine aus Ihrer Anfrage haben wir als geplante Zieltermine übernommen. Der Montagepartner hat die Wochen telefonisch als möglich bezeichnet. Die namentliche Kolonnenplanung erfolgt nach Auftrag. Wenn Sie vorher eine verbindliche Zuordnung benötigen, hole ich eine schriftliche Rückmeldung ein und kann Ihnen frühestens danach belastbare Zeitfenster nennen.",
+        "Unser Wartungsangebot umfasst die Antriebe. Auf Ihre Bitte um Preise für alle Türgruppen kommen wir gesondert zurück. Die Bedingungen für den Paketnachlass stehen in Abschnitt 4 unseres Schreibens. Die Anschaffungspreise im Datensatz sind ungekürzt.",
+        "Viele Grüße\nMarit Behrens\nObjektvertrieb · Friesenlint Türtechnik GmbH"
+      ],
+      "attachments": [
+        "11_Angebot_D_Friesenlint.pdf",
+        "39_D_Friesenlint_FL-500.x84"
+      ]
+    },
+    {
+      "filename": "40_Abstimmung_Verhandlungsauftrag.eml",
+      "from_name": "Hanna Onken · Leiterin Einkauf Krimpfort",
+      "from_email": "hanna.onken@krimpfort.example",
+      "to_email": "maren.renken@krimpfort.example",
+      "date": "2026-12-02T15:18:00+01:00",
+      "subject": "Weserbogen · Rückfragen und Freigabestufe für die Schlussrunde",
+      "paragraphs": [
+        "Maren,",
+        "bitte sichere morgen früh bei Weserfalz und Jadeholm die entscheidenden Vertragsangaben. Leite bei beiden ausschließlich die Punkte weiter, die ihr eigenes Angebot betreffen. Ich brauche aus der Runde einen belastbaren Bestellstand für den regulären Ablauf und eine tatsächlich verfügbare zweite Möglichkeit. Eine Preisdatei mit identischer LV-Nummer bestätigt noch nicht, dass die Montage-, Wartungs- und Nachweisleistungen in gleicher Weise enthalten sind.",
+        "Das Projektcontrolling hat seine Verfügung für dieses Los in der Anlage hinterlegt. In der Sitzung interessiert vor allem, welche Zusagen bei einem späteren Auftrag weiter gelten, wie viel wir auf den Anschaffungspreis tatsächlich anrechnen dürfen und welcher Preisvorteil bei getrennten Bestellungen entfiele. Fristen, die wir intern nicht halten können, gehören ausdrücklich in die Vorlage.",
+        "Bitte stelle mir die Freigabefassung am Freitag um 13.30 Uhr in die Vorgangsmappe. Die Freigabe eines Rückfragetextes durch den Einkauf umfasst keine Bestellung. Ich informiere die Projektleitung vor der Sitzung gesondert über den Stand der technischen Nachweise.",
+        "Danke und viele Grüße\nHanna\nLeitung Einkauf · Krimpfort SE & Co. KG"
+      ],
+      "attachments": [
+        "41_Interner_Verhandlungsrahmen.pdf"
+      ]
+    },
+    {
+      "filename": "41_Interner_Verhandlungsrahmen.pdf",
+      "title": "Interne Verfügung · Freigaberahmen für die Schlussrunde",
+      "issuer": "Krimpfort SE & Co. KG · Projektcontrolling und Einkaufsleitung",
+      "date": "2026-12-02",
+      "sections": [
+        {
+          "heading": "1 Ausgangslage und Betragsgrenzen",
+          "paragraphs": [
+            "Diese Verfügung betrifft den Beschaffungsvorgang KPF-WB-31 für das Kontor am Weserbogen. Für den vollständigen Liefer-, Montage- und Inbetriebnahmeumfang stehen 645.000,00 Euro netto bereit. Für fünf Jahre vergleichbarer Mindestwartung stehen getrennt 55.000,00 Euro netto bereit. Verschleißteile und Störungsreparaturen werden gesondert im Betriebsrisiko geführt. Die beiden Budgets werden getrennt freigegeben. Ein nicht ausgeschöpfter Wartungsansatz erhöht den Beschaffungsrahmen nicht.",
+            "Der Einkauf darf bei der Freigabe nur einen schriftlich zugeordneten Nachlass verwenden, dessen Voraussetzungen durch den geplanten Bestellweg erfüllt werden. Mögliches Rechnungsskonto gehört als Liquiditätsszenario in die Vorlage. Es senkt die Freigabesumme erst, wenn und soweit es im Zahlvorgang tatsächlich genutzt wird. Interner Zielpreis, Obergrenzen und Einkaufskalkulation bleiben vertraulich."
+          ]
+        },
+        {
+          "heading": "2 Mandat für die Verhandlung",
+          "paragraphs": [
+            "Der Einkauf darf die Bindung, den vollständigen Leistungsumfang, die Zuordnung der Nachweise, die Bedingungen zur Nachlassberechtigung sowie Abnahme, Dokumentation und Störungsdienst klären. Zur Absicherung einer Ausweichoption darf er eine verbindliche Verlängerung der Kondition erfragen. Eine Zusage auf Mengenbindung, Vorabzahlung oder Beauftragung ist gesondert zu genehmigen.",
+            "Für die Fachwertung bleibt der am 4. November festgelegte Maßstab maßgeblich. Bedingte Preisvorteile werden neben der Basiswertung ausgewiesen. Eingaben in die AVA dürfen die Ursprungspreise nicht überschreiben. Die Schlussfassung nennt je verhandelter Änderung den bisherigen Stand, die schriftliche Aussage und die noch erforderliche Zustimmung."
+          ]
+        },
+        {
+          "heading": "3 Entscheidung und Zeichnung",
+          "paragraphs": [
+            "Die Leitung Projekteinkauf verantwortet die kaufmännische Vorlage. Die Projektleitung bestätigt Leistung, Bauablauf und Kostenstelle. Die Fachplanerin Brandschutz und die Bauleitung erteilen die Fachfreigabe getrennt. Das Vertragsmanagement prüft die weiterzugebenden Pflichten und die Abnahmebedingungen. Diese Fachfreigaben werden vor der verbindlichen Erklärung abgelegt.",
+            "Bei einer Überschreitung eines Einzelbudgets ist zusätzlich die schriftliche Zustimmung der kaufmännischen Direktion erforderlich. Eine Umbuchung zwischen den beiden Ansätzen kommt nur durch deren ausdrückliche Entscheidung in Betracht. Jede Bestellung wird im System durch Einkaufsleitung und Projektleitung freigegeben. Der anschließende Versand erfolgt durch die im System zeichnungsberechtigte Person. Die Freigaben sind am konkreten Preis- und Leistungsstand zu dokumentieren.",
+            "Hanna Onken · Einkaufsleitung",
+            "Sophia Wessels · Projektcontrolling"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "42_C_Anfrage_Konditionen_und_System.eml",
+      "from_name": "Maren Renken · Projekteinkauf Krimpfort",
+      "from_email": "einkauf@krimpfort.example",
+      "to_email": "jaron.sander@jadeholm.example",
+      "date": "2026-12-03T08:11:00+01:00",
+      "subject": "AW: JH-WB-26 · Vertragsklärungen zum Stand 01.12.",
+      "paragraphs": [
+        "Guten Morgen, Herr Sander,",
+        "vielen Dank für Ihre Systemzuordnung und den Serviceplan. Zur Freigabe brauchen wir die kurze schriftliche Bestätigung in der Anlage. Bitte lassen Sie dabei erkennen, welche Unterlage oder Fassung Ihre jeweilige Aussage trägt. Besonders wichtig sind der Geltungsbereich der W-S-Befestigung für E4-073 bis E4-082, die Voraussetzungen der zugesagten Einbaufenster und der Beginn der Servicezeit.",
+        "Die Preisdatei führt 649.060,00 Euro netto für die fünf Gruppen. Bitte bestätigen Sie, welcher Anschaffungspreis bei gebündelter Beauftragung unter den von Ihnen bereits genannten Bedingungen anzusetzen wäre. Die Wartung möchten wir getrennt bepreisen und in derselben Vertragsmappe dokumentieren. Uns hilft außerdem eine klare Aussage, wie Sie eine gemeinsame Bestellung mit anschließenden Teilabrufen behandeln.",
+        "Bitte antworten Sie bis Freitag um 10 Uhr. Diese Nachricht dient der Vertragsklärung für die interne Entscheidung.",
+        "Freundliche Grüße\nMaren Renken\nProjekteinkauf · Krimpfort SE & Co. KG"
+      ],
+      "attachments": [
+        "43_C_Klaerungsliste_Krimpfort.pdf"
+      ],
+      "reply_to": "19_C_Qualitaetsmail.eml"
+    },
+    {
+      "filename": "43_C_Klaerungsliste_Krimpfort.pdf",
+      "title": "Ergänzende Anfrage zu JH-WB-26",
+      "issuer": "Krimpfort SE & Co. KG · Projekteinkauf",
+      "date": "2026-12-03",
+      "sections": [
+        {
+          "heading": "1 Lieferumfang und Bindung",
+          "paragraphs": [
+            "Sehr geehrter Herr Sander,",
+            "bitte bestätigen Sie uns für das Kontor am Weserbogen den am 24. November angebotenen Umfang aus Lieferung, Entladung, Montage, Funktionsprüfung und Übergabedokumentation für alle 500 Türen. Wir bitten um Bestätigung des Geltungsendes, der Bezugsgröße des Paketnachlasses und der Behandlung der drei vorgesehenen Ausführungsabrufe nach gemeinsamer Bestellung. Geben Sie die jährliche Wartungsvergütung weiterhin getrennt an."
+          ]
+        },
+        {
+          "heading": "2 System und Übergabe",
+          "paragraphs": [
+            "Bitte ordnen Sie den zehn B2-Türen E4-073 bis E4-082 das angebotene System mit Antrieb, Befestigungsplatte und Stahl-Sturztraverse eindeutig zu. Wir benötigen Zugang zum maßgeblichen Nachweis einschließlich der im Auszug referenzierten Anlagen. Benennen Sie die Voraussetzungen, von denen Ihre Terminbestätigungen abhängen. Teilen Sie uns mit, zu welchem Zeitpunkt das Muster und das Ergebnis der Funktionsprüfung dokumentiert vorliegen können."
+          ]
+        },
+        {
+          "heading": "3 Betrieb, Garantie und offene Nachweise",
+          "paragraphs": [
+            "Wir bitten um Benennung des Ereignisses, das Ihre Frist zum Eintreffen am Objekt auslöst. Erläutern Sie die Behandlung einer Meldung außerhalb des Servicezeitfensters und die Voraussetzungen des abgestimmten Ersatzbetriebs. Bitte grenzen Sie bei der freiwilligen Garantie die Arbeiten und Kosten für Ausbau, Einbau und Anfahrt von den allgemeinen Mängelrechten ab. Soweit Ihr bisheriges Angebot keine verbindliche Antwort enthält, bezeichnen Sie den Punkt und den Zeitpunkt, bis zu dem Sie ihn klären können.",
+            "Mit freundlichen Grüßen",
+            "Maren Renken · Projekteinkauf"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "44_C_Ruecklauf_Vertragsklarstellung.eml",
+      "from_name": "Jaron Sander · Projektleitung Jadeholm",
+      "from_email": "jaron.sander@jadeholm.example",
+      "to_email": "einkauf@krimpfort.example",
+      "date": "2026-12-03T17:14:00+01:00",
+      "subject": "AW: JH-WB-26 · Preisbindung, Freigabeunterlagen und offene Vertragsangaben",
+      "paragraphs": [
+        "Guten Abend, Frau Renken,",
+        "anbei unsere Rückmeldung zu Ihren drei Themen. Der eine Prozentpunkt gilt, wenn bis zum 18. Dezember um 16 Uhr eine bestätigte Bestellung über den vollständigen Anschaffungsumfang vorliegt. Bei einer solchen Bestellung bleiben Teilabrufe für die Durchführung möglich. Getrennt beauftragte Teilmengen lösen den Nachlass nicht aus. Die Wartung bleibt gesondert bepreist.",
+        "Die vollständigen Nachweisunterlagen zu den zehn Öffnungen stellt unser Werk der Fachplanung im geschützten Projektraum bereit. Wir melden uns, sobald der Zugriff gesetzt ist. Bis dahin haben Sie den Auszug vom 1. Dezember. Die Frage zur Abrechnung von Ausbau und Anfahrt möchte ich im Vertrag ausdrücklich lösen. Bitte lassen Sie den Punkt bis zur beiderseitigen Einigung als offen stehen.",
+        "Wir gehen weiterhin von den vereinbarten Montageflächen und Vorleistungen aus. An den angebotenen Terminen und der angegebenen Serviceleistung ändert die Antwort nichts.",
+        "Freundliche Grüße\nJaron Sander\nProjektleitung · Jadeholm Metallbau GmbH"
+      ],
+      "attachments": [
+        "45_C_Bestaetigung_Lieferumfang_und_Bindung.pdf"
+      ],
+      "reply_to": "42_C_Anfrage_Konditionen_und_System.eml"
+    },
+    {
+      "filename": "45_C_Bestaetigung_Lieferumfang_und_Bindung.pdf",
+      "title": "Schriftliche Klarstellung zu JH-WB-26",
+      "issuer": "Jadeholm Metallbau GmbH · Objektgeschäft Nord",
+      "date": "2026-12-03",
+      "sections": [
+        {
+          "heading": "1 Anschaffung und Wartung",
+          "paragraphs": [
+            "An die Krimpfort SE & Co. KG, Oldenburg. Die fünf Anschaffungspositionen unseres Angebots vom 24. November 2026 ergeben 649.060,00 Euro netto. Bei einer bestätigten gebündelten Bestellung über alle 500 Türen bis 18. Dezember 2026 um 16 Uhr beträgt der Abzug 6.490,60 Euro netto. Die Durchführung darf in den drei angebotenen Etappen abgerufen werden, sofern die Bestellung bereits den gesamten Umfang bindend erfasst. Ein einzelner Losabruf ersetzt die Gesamtbestellung nicht. Der Wartungspreis beträgt gesondert 10.800,00 Euro netto je Vertragsjahr für die angebotenen fünf Jahre."
+          ]
+        },
+        {
+          "heading": "2 Systemunterlagen und Bauablauf",
+          "paragraphs": [
+            "Der Auszug vom 1. Dezember ordnet für E4-073 bis E4-082 die Türgruppe B2, den Antrieb JH-50 und die Befestigungsplatte JH-PL8 dem vorgesehenen Aufbau W-S mit Stahl-Sturztraverse zu. Die vollständigen zugehörigen Nachweise einschließlich Anlagen wird die Werksleitung dem Fachplanungsbüro zur Prüfung zugänglich machen. Die Fachplanungsfreigabe ist in dieser Bestätigung nicht enthalten.",
+            "Die in unserer Disposition vom 1. Dezember genannten Termine einschließlich der vereinbarten Aufmaß- und Planfreigaben gelten unverändert. Wir nehmen die Musterprüfung im gemeinsam freigegebenen Montagebereich vor Serienbeginn vor. Werk und Bauleitung stimmen den Tag innerhalb des vorgesehenen Einbaufensters gemeinsam ab. Das Prüfprotokoll ist Teil der Übergabeunterlagen."
+          ]
+        },
+        {
+          "heading": "3 Wartung, Störung und Garantie",
+          "paragraphs": [
+            "Das Servicezeitfenster und die Zeiten nach unserem Serviceblatt bleiben unverändert. Meldungen werden der Servicestelle Bremen-Hemelingen zugeordnet. Die vereinbarten Servicezeitstunden beginnen bei Eingang innerhalb des Servicefensters. Für außerhalb dieses Fensters erfasste Meldungen werden nur die Servicezeitstunden des jeweils folgenden Fensters gezählt. Die acht Servicezeitstunden für einen erforderlichen Einsatz beziehen sich auf das Eintreffen. Ein abgestimmter Ersatzbetrieb und die endgültige Wiederherstellung richten sich nach dem Befund und den im Serviceblatt benannten Voraussetzungen.",
+            "Der zeitliche Umfang der freiwilligen Garantie ergibt sich weiterhin aus dem Serviceblatt. Ob Aus- und Einbau sowie die Anfahrt ohne gesonderte Berechnung übernommen werden, ist für den schriftlichen Vertrag noch abzustimmen. Die vertraglichen und gesetzlichen Mängelrechte beurteilen sich unabhängig von dieser Zusatzgarantie.",
+            "Jaron Sander · Projektleitung"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "46_B_Ruecklauf_Bindungsfenster.eml",
+      "from_name": "Ina Wieters · Weserfalz Objekttechnik",
+      "from_email": "ina.wieters@weserfalz.example",
+      "to_email": "einkauf@krimpfort.example",
+      "date": "2026-12-04T08:54:00+01:00",
+      "subject": "AW: WF-702 · Rückruf zur Bindung am Freitag",
+      "paragraphs": [
+        "Guten Morgen, Frau Renken,",
+        "ich habe Ihre Bitte aus dem gestrigen Telefonat intern vorgelegt. Unser Vertrieb hält den Paketnachlass weiterhin bis heute um 16 Uhr für eine bestätigte Bestellung aller 500 Elemente. Eine Verlängerung über heute hinaus kann ich Ihnen nicht anbieten. Eine schriftliche Interessenbekundung oder die Ankündigung eines späteren Auftrags reicht dafür nicht aus.",
+        "Die reguläre Angebotsgültigkeit und die reservierten Kapazitäten bleiben unter den bisherigen Voraussetzungen bestehen. Wir können die gemeinsame Bestellung als einen Auftrag und die Zahlungen über prüffähige Teilrechnungen abwickeln. Das Skonto setzt die Einhaltung des Zehntagesfensters je einzelner Rechnung voraus.",
+        "Die Anmerkung zur Zuordnung nach Seriennummer habe ich mit der Projektabwicklung besprochen. Wir liefern die im Anhang beschriebene Zuordnung je Etappe. Wenn Ihre Projektleitung eine dauerhaft fortgeschriebene Zuordnung in der Betriebsdatei verlangt, müssten wir das gesondert aufnehmen und kalkulieren.",
+        "Mit freundlichen Grüßen\nIna Wieters\nWeserfalz Objekttechnik GmbH"
+      ],
+      "attachments": [
+        "47_B_Bestaetigung_Bindung_und_Dokumentation.pdf"
+      ],
+      "reply_to": "24_B_Konditionenmail.eml"
+    },
+    {
+      "filename": "47_B_Bestaetigung_Bindung_und_Dokumentation.pdf",
+      "title": "WF-702 R1 · Bindung und Dokumentationsübergabe",
+      "issuer": "Weserfalz Objekttechnik GmbH · Objektvertrieb",
+      "date": "2026-12-04",
+      "sections": [
+        {
+          "heading": "1 Angebot und Nachlass",
+          "paragraphs": [
+            "An die Krimpfort SE & Co. KG, Oldenburg. Wir halten die Anschaffungspreise aus WF-702 R1 und unsere Klarstellungen vom 30. November und 2. Dezember bis zum 11. Dezember 2026 um 16 Uhr aufrecht. Der gesonderte Paketnachlass von 1,5 Prozent setzt voraus, dass uns spätestens am 4. Dezember 2026 um 16 Uhr die bestätigte Bestellung aller 500 Türen vorliegt. Dieser Stichtag bleibt unverändert.",
+            "Das gesonderte Skonto von 2 Prozent setzt je Teilrechnung voraus, dass uns die Zahlung binnen zehn Kalendertagen ab Eingang der prüffähigen Rechnung erreicht. Bei wirksam gewährtem Paketnachlass wird die ermäßigte Rechnungsbasis angesetzt. Wartung wird getrennt abgerechnet und bleibt nach Maßgabe des Konditionenblatts unverändert."
+          ]
+        },
+        {
+          "heading": "2 Lieferumfang und Dateiformat",
+          "paragraphs": [
+            "Mit der Übergabe der jeweiligen Etappe übermitteln wir eine gesonderte Liste mit Türkennung, Modellbezeichnung und Seriennummer. Daneben erhalten Sie das bereits angebotene digitale Verzeichnis, das die Türkennung den Einbau- und Nachweisdokumenten zuordnet. Die getrennte Serienliste lässt sich zur Abnahme im Projektordner zur betreffenden Etappe ablegen. Eine zusätzliche Verknüpfung der Seriennummern mit dem digitalen Nachweisverzeichnis oder den laufenden Wartungsdaten ist weiterhin nicht Bestandteil unseres Angebots.",
+            "Wir behalten die schriftlich bestätigten Termine unter den in unserer Disposition vom 30. November genannten Voraussetzungen bei. Die Angaben zu Störungsannahme und Vor-Ort-Frist sowie die freiwillige Garantie ergeben sich weiterhin aus dem Konditionenblatt vom 2. Dezember.",
+            "Ina Wieters · Objektvertrieb"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "48_Finanzbuchhaltung_Skonto_und_Abrufe.eml",
+      "from_name": "Sophia Wessels · Projektcontrolling Krimpfort",
+      "from_email": "sophia.wessels@krimpfort.example",
+      "to_email": "maren.renken@krimpfort.example",
+      "date": "2026-12-04T10:32:00+01:00",
+      "subject": "KPF-WB-31 · Zahlungsweg für die Entscheidungsvorlage",
+      "paragraphs": [
+        "Maren,",
+        "das Zahlungsbüro hat die vorgeschlagenen Teilabrechnungen für Lieferung, Montage und Abnahme mit unserem üblichen Prüfweg abgeglichen. Die zehn Kalendertage lassen sich bei einer vollständigen und unbeanstandeten Rechnung möglicherweise einhalten. Die Prüfung mit zwei Freigaben und einer korrigierten Rechnung kann länger dauern. Es gibt für dieses Paket noch keinen verbindlichen Schnelllauf.",
+        "Bitte verwende bei der Freigabe den Anschaffungspreis nach einem nachgewiesenen Paketnachlass und ohne vorweggenommenes Skonto. Für die wirtschaftliche Erörterung kannst du die günstigste Skontovariante als solche aufführen. Lass in der Übersicht Anschaffung und Wartung getrennt. Die Positionen in der Lieferanten-XML werden durch unsere Zahlungsweise nicht verändert.",
+        "Ich hänge den Ablauf für die Rücksprache mit der Projektleitung an. Bitte sende weder den Prüfweg noch die Budgetgrenzen an Anbieter.",
+        "Danke und viele Grüße\nSophia\nProjektcontrolling · Krimpfort SE & Co. KG"
+      ],
+      "attachments": [
+        "49_Zahlungspruefung_Teilrechnungen.pdf"
+      ]
+    },
+    {
+      "filename": "49_Zahlungspruefung_Teilrechnungen.pdf",
+      "title": "Interner Prüfvermerk zum Zahlungsablauf",
+      "issuer": "Krimpfort SE & Co. KG · Projektcontrolling",
+      "date": "2026-12-04",
+      "sections": [
+        {
+          "heading": "1 Rechnungseingang und Zuständigkeiten",
+          "paragraphs": [
+            "Die prüffähige Teilrechnung geht im zentralen Rechnungspostfach ein. Sie muss dem Auftrag, der Leistung und dem vereinbarten Abruf eindeutig zugeordnet werden können. Das Rechnungsbüro leitet sie der Bauleitung zur Mengen- und Leistungsprüfung sowie der Einkaufsleitung zur Prüfung der Konditionen zu. Die Zahlung erfolgt nach den beiden sachlichen Freigaben und der Freigabe im Zahlungslauf.",
+            "Für die Terminplanung rechnen wir im unbeanstandeten Fall mit bis zu zwei Arbeitstagen für Eingang und Zuordnung, bis zu vier weiteren Arbeitstagen für die fachliche Prüfung und bis zu zwei weiteren Arbeitstagen für die kaufmännische Freigabe und Überweisung. Feiertage, Wochenenden, Rückläufer und Banklaufzeit können einen Zahlungseingang außerhalb eines Zehntagesfensters zur Folge haben. Die Schätzung ersetzt keinen verbindlichen Sonderprozess."
+          ]
+        },
+        {
+          "heading": "2 Auswertung im Entscheidungspapier",
+          "paragraphs": [
+            "Der Vergleich weist das vertraglich geschuldete Entgelt je Beschaffungsalternative aus. Ein Skonto wird in einem separaten Szenario als möglichen Liquiditätsvorteil dargestellt. Es ist je prüffähiger Rechnung und unter Berücksichtigung der tatsächlich erreichbaren Zahlungsfrist zu berechnen. Bei Kombination von Paketnachlass und Skonto wird die vertraglich vereinbarte Reihenfolge berücksichtigt. Rundungsunterschiede einzelner Teilrechnungen sind möglich.",
+            "Ein Teilabruf wird im Bestellsystem dem vollständigen Auftrag zugeordnet, sofern das Angebot dies zulässt. Vor Beauftragung ist zu klären, welche Teilleistungen zum jeweiligen Abrechnungsschritt nachgewiesen werden. Eine Freigabe des Zahlungsablaufs stellt weder die Leistung noch den Zugang der vollständigen Lieferantenunterlagen fest.",
+            "Sophia Wessels · Projektcontrolling"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "50_Freigaberunde_Entscheidung_offen.eml",
+      "from_name": "Projektleitung Kontor am Weserbogen · Krimpfort",
+      "from_email": "projektleitung@krimpfort.example",
+      "to_email": "maren.renken@krimpfort.example",
+      "date": "2026-12-04T13:34:00+01:00",
+      "subject": "Weserbogen · Entscheidungsstand vor dem Nachlassstichtag",
+      "paragraphs": [
+        "Maren,",
+        "für die Freigaberunde haben wir den Stand der heutigen Rückläufe erfasst. Die Fachplanung hat die Zuordnungstabellen gelesen und wartet noch auf Einsicht in die dort referenzierten Unterlagen. Für eine Bestellung brauchen wir den dokumentierten Abschluss dieser Prüfung. Der Einkauf kann heute die Freigabe vorbereiten. Die Entscheidung über den Anbieter treffen Projektleitung und Einkaufsleitung nach der Fach- und Vertragsfreigabe.",
+        "Bitte führe in der Vorlage beide Bindungsdaten von Weserfalz getrennt. Zeige auch, welche Bestandteile sich bei Jadeholm nur bei gebündelter Bestellung unter der Angebotsfrist innerhalb unseres Anschaffungsrahmens halten. Bei einer abweichenden Bestellung brauche ich den Preis und den dazugehörigen Freigabeweg. Warte mit der Lieferantenmitteilung, bis die zeichnungsberechtigten Stellen den konkreten Stand im System freigegeben haben.",
+        "Wenn die erforderlichen Freigaben heute bis 15.15 Uhr vorliegen, können wir die Zeichnung und den Zugang beim Lieferanten vor 16 Uhr prüfen. Wenn das nicht gelingt, halte den Rückfall ab Montag zu den tatsächlich noch gebundenen Konditionen fest. Kläre in der Vorlage, welche noch nicht belegte Leistung oder fehlende Antwort eine Wahl auch dann verhindern würde. Der Verteiler bleibt intern.",
+        "Viele Grüße\nProjektleitung Kontor am Weserbogen\nKrimpfort SE & Co. KG"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "title": "Austauschstand und Angebotszugang",
+      "prompt": "Ordnen Sie die vier fristgerechten Angebote mit Datum, Fassungsbezug und MIME-Anlagen dem gemeinsamen Leistungsverzeichnis zu. Prüfen Sie zuerst OZ, Mengen und Beträge in X83 und X84 und danach die abweichende Preis- und Leistungsbasis anhand der PDF-Schreiben.",
+      "files": [
+        "31_Tuerpaket_LV_R1.x83",
+        "31a_Austauschhinweis_GAEB.eml",
+        "32_A_Angebotseingang_Emswiek.eml",
+        "33_A_Emswiek_ET-26-241.x84",
+        "34_B_Angebotseingang_Weserfalz.eml",
+        "35_B_Weserfalz_WF-702.x84",
+        "36_C_Angebotseingang_Jadeholm.eml",
+        "37_C_Jadeholm_JH-WB-26.x84",
+        "38_D_Angebotseingang_Friesenlint.eml",
+        "39_D_Friesenlint_FL-500.x84"
+      ]
+    },
+    {
+      "title": "Verhandlungsauftrag und Klärungen",
+      "prompt": "Überführen Sie die Nachreichungen in einen kaufmännischen und technischen Klärungsstand. Verwenden Sie den internen Freigaberahmen nur intern. Entwerfen Sie für beide vergleichbaren Bieter die Anschlussverhandlung mit wenigen priorisierten Forderungen und klarer Verhandlungsgrenze.",
+      "files": [
+        "40_Abstimmung_Verhandlungsauftrag.eml",
+        "41_Interner_Verhandlungsrahmen.pdf",
+        "42_C_Anfrage_Konditionen_und_System.eml",
+        "43_C_Klaerungsliste_Krimpfort.pdf",
+        "44_C_Ruecklauf_Vertragsklarstellung.eml",
+        "45_C_Bestaetigung_Lieferumfang_und_Bindung.pdf",
+        "46_B_Ruecklauf_Bindungsfenster.eml",
+        "47_B_Bestaetigung_Bindung_und_Dokumentation.pdf"
+      ]
+    },
+    {
+      "title": "Bestellfreigabe und Rückfall",
+      "prompt": "Rechnen Sie den Entscheidungsstand am 4. Dezember vor 16 Uhr und den Rückfall nach diesem Zeitpunkt getrennt. Stellen Sie die Freigaben, fehlenden Unterlagen und den noch verfügbaren Bestellweg dar. Der Versand eines Auftrags bleibt von der dokumentierten Freigabe abhängig.",
+      "files": [
+        "48_Finanzbuchhaltung_Skonto_und_Abrufe.eml",
+        "49_Zahlungspruefung_Teilrechnungen.pdf",
+        "50_Freigaberunde_Entscheidung_offen.eml"
+      ]
+    }
+  ]
+}

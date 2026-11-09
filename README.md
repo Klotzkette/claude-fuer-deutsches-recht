@@ -86,14 +86,14 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 313 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 23408 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 311 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Plugins** | 314 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 23418 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 312 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 310 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 613 zentral / 626 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Schnellstart-/Mini-Prompts** | 311 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 614 zentral / 627 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23408 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23418 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -130,9 +130,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 313 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 23408: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 613 zentral / 626 gesamt |
+| **Plugins** | 314 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 23418: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 614 zentral / 627 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -327,6 +327,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`barrierefreiheit-web-checker`](./barrierefreiheit-web-checker) | Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme. |
 | [`bautraegervertrag-pruefer`](./bautraegervertrag-pruefer) | Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, Paragrafen 650u/650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe. |
 | [`bautraegervertragspruefer`](./bautraegervertragspruefer) | Prüft deutsche Bauträgerverträge: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklärung. Liefert Mandantengutachten und Aufforderungsschreiben an Bauträger und Notar. |
+| [`bauunternehmer-einkauf`](./bauunternehmer-einkauf) | Arbeitswerkstatt für den strategischen und operativen Einkauf in großen Bauunternehmen. Deckt Beschaffungsstrategie, Lieferantenauswahl, Anfragen, GAEB-Angebote, Preisspiegel, Verhandlungen, Bestellung, Abnahme und Nachträge ab. |
 | [`bauvergabe-bieter`](./bauvergabe/bauvergabe-bieter) | Bauvergabe Bieter für öffentliche Bauaufträge mit zehn Fachskills und einem Hauptskill vom konkreten Auftrag zum vollständigen Arbeitsergebnis. |
 | [`bauvergabe-nachtragsmanagement`](./bauvergabe/bauvergabe-nachtragsmanagement) | Zehn Fachskills und ein Hauptskill für Auftragnehmer nach dem Zuschlag: Nachtragsgrund, Preise, Bauzeit, Abrechnung, Sicherung und getrennte Prüfung öffentlicher Auftragsänderungen. |
 | [`bauvergabe-rechtsschutz`](./bauvergabe/bauvergabe-rechtsschutz) | Bauvergabe Rechtsschutz für öffentliche Bauaufträge mit zehn Fachskills und einem Hauptskill vom konkreten Auftrag zum vollständigen Arbeitsergebnis. |

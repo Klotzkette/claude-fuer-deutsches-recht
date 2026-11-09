@@ -61,6 +61,28 @@ def main() -> int:
         require("Datum" in text and "Fahrräder" in text and "Mäßner" in text, "UTF-8-CSV muss alle Überschriften und Umlaute erhalten")
         require("\ufeff" not in text and "■" not in text, "UTF-8-Kennung darf kein Kästchen im PDF erzeugen")
         require(source.read_bytes() == original, "PDF-Konvertierung darf die CSV-Quelle nicht verändern")
+    with tempfile.TemporaryDirectory() as temporary:
+        case = Path(temporary)
+        source = case / "angebot.x84"
+        data = b"""<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/DA84/3.3">
+          <GAEBInfo><Version>3.3</Version></GAEBInfo>
+          <Award><DP>84</DP><AwardInfo><Cur>EUR</Cur></AwardInfo>
+            <BoQ><BoQInfo><Totals><Total>280800.00</Total></Totals></BoQInfo>
+              <BoQBody><Itemlist><Item ID="POS_B1" RNoPart="0001">
+                <Qty>360.000</Qty><UP>780.000</UP><IT>280800.00</IT>
+              </Item></Itemlist></BoQBody>
+            </BoQ>
+          </Award>
+        </GAEB>"""
+        source.write_bytes(data)
+        require(E.document_arcname_pairs(case) == [(source, "angebot.pdf")],
+                "Eine native X84 muss in der PDF-Fassung berücksichtigt werden")
+        pdf = E.render_document_pdf(source, case)
+        text = "\n".join(page.extract_text() for page in G.PdfReader(io.BytesIO(pdf)).pages)
+        require(all(value in text for value in ("POS_B1", "360", "780,00", "280.800,00")),
+                "GAEB-PDF muss OZ, Menge und Beträge lesbar wiedergeben")
+        require("360.000" not in text, "Eine ganzzahlige Menge darf nicht wie eine deutsche Tausenderzahl aussehen")
+        require(source.read_bytes() == data, "GAEB-PDF darf die native Angebotsdatei nicht verändern")
     headers = ["Tag", "Valuta", "Referenz", "Empfänger", "Buchungstext", "Betrag", "Saldo", "Belegdatei"]
     ledger = [headers] + [["2026-07-08", "2026-07-08", f"B-{i:03}", "Müller & Sohn",
                           "Hausgeldübertrag auf das gemeinsame Konto mit unveränderter Zahlungsreferenz",

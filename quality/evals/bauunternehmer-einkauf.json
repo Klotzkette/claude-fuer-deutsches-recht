@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "plugin": "bauunternehmer-einkauf",
+  "reviewed_on": "2026-11-09",
+  "sources": [
+    {
+      "url": "https://www.gaeb.de/de/produkte/gaeb-datenaustausch/versionen/gaeb-da-xml-version-3-3-stand-2023-01/",
+      "checked_on": "2026-11-09",
+      "supports": "X83 als Angebotsaufforderung und X84 als Angebotsabgabe im Paket Leistungsverzeichnis 2021-05."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__99.html",
+      "checked_on": "2026-11-09",
+      "supports": "Auftraggeberstatus für Einkauf auf Grundlage eines Hauptauftrags prüfen."
+    }
+  ],
+  "selection": {
+    "positive": [
+      "Ordne die vier X84 dem freigegebenen X83 zu und kläre Preisabweichungen.",
+      "Bereite die Verhandlung und die Bestellfreigabe beim Türpaket vor."
+    ],
+    "negative": [
+      "Führe ein öffentliches Nachprüfungsverfahren vor der Vergabekammer.",
+      "Schreibe eine technische Zulassung für den Brandschutzabschluss."
+    ]
+  },
+  "cases": [
+    {
+      "id": "be-01-gaeb",
+      "target_skill": "gaeb-angebote-pruefen",
+      "request": "Prüfen Sie die vier GAEB-Angebote gegen das gemeinsame X83 und stellen Sie die im jeweiligen PDF angebotene Leistung dem X84-Betrag gegenüber.",
+      "input_files": [
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/08_Angebot_A_Emswiek.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/09_Angebot_B_Weserfalz.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/10_Angebot_C_Jadeholm.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/11_Angebot_D_Friesenlint.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/31_Tuerpaket_LV_R1.x83",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/31a_Austauschhinweis_GAEB.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/32_A_Angebotseingang_Emswiek.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/33_A_Emswiek_ET-26-241.x84",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/34_B_Angebotseingang_Weserfalz.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/35_B_Weserfalz_WF-702.x84",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/36_C_Angebotseingang_Jadeholm.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/37_C_Jadeholm_JH-WB-26.x84",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/38_D_Angebotseingang_Friesenlint.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/39_D_Friesenlint_FL-500.x84"
+      ],
+      "deliverables": [
+        "Brandschutztueren_Preisspiegel.xlsx"
+      ],
+      "criteria": [
+        {
+          "id": "abgleich-1",
+          "text": "Gleiche LV-ID, fünf gleiche OZ und 500 Türen belegen. Die Einzelbeträge anhand der Mengen nachrechnen.",
+          "deliverables": [
+            "Brandschutztueren_Preisspiegel.xlsx"
+          ]
+        },
+        {
+          "id": "abgleich-2",
+          "text": "A 479.220, B 606.420, C 649.060 und D 510.940 Euro netto als ursprünglichen GAEB-Stand erfassen. A als Materialpreis abgrenzen.",
+          "deliverables": [
+            "Brandschutztueren_Preisspiegel.xlsx"
+          ]
+        },
+        {
+          "id": "abgleich-3",
+          "text": "Vier Angebotsmails samt zugehörigem PDF und X84 eindeutig zuordnen. Eine Schemaprüfung und die technische Eignung getrennt bewerten.",
+          "deliverables": [
+            "Brandschutztueren_Preisspiegel.xlsx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be-01-verhandlung",
+      "target_skill": "verhandlungen-fuehren",
+      "request": "Führen Sie Preisvergleich und interne Verhandlungsentscheidung zum Stand 4. Dezember fort und entwerfen Sie die nächste Bieterklärung mit gesichertem Rückfall.",
+      "input_files": [
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/01_Einkaufsauftrag_Tueren.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/02_BSK_Anforderungsprofil.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/03_Leistungsverzeichnis_Tueren.docx",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/04_Tuerregister_500.xlsx",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/04a_Tuerregister_500.csv",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/05_Wandtypen_und_Montage.docx",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/06_Etappenplan_Systemauszug.png",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/07_Anfrage_Tuerpaket.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/08_Angebot_A_Emswiek.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/09_Angebot_B_Weserfalz.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/10_Angebot_C_Jadeholm.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/11_Angebot_D_Friesenlint.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/12_Rohkalkulation.xlsx",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/13_Rohkalkulation.csv",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/14_A_Nachtragsmail.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/15_A_Preis_und_Systemklarstellung.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/16_B_Nachweismail.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/17_B_Systemmatrix.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/18_B_Kapazitaetsbestaetigung.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/19_C_Qualitaetsmail.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/20_C_Qualitaetsnachweise.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/21_C_Service_und_Termine.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/22_D_Familienmail.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/23_D_Familienblatt.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/24_B_Konditionenmail.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/25_B_Konditionen_Service.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/26_A_Montagefenster.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/27_Vermerk_Beschaffungsweg.docx",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/28_Vergleichsregeln_vor_Angebotseingang.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/29_Hauptvertrag_Service_und_Maengelrechte.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/30_Arbeitsauftrag_Tuerpaket.docx",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/31_Tuerpaket_LV_R1.x83",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/31a_Austauschhinweis_GAEB.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/32_A_Angebotseingang_Emswiek.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/33_A_Emswiek_ET-26-241.x84",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/34_B_Angebotseingang_Weserfalz.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/35_B_Weserfalz_WF-702.x84",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/36_C_Angebotseingang_Jadeholm.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/37_C_Jadeholm_JH-WB-26.x84",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/38_D_Angebotseingang_Friesenlint.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/39_D_Friesenlint_FL-500.x84",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/40_Abstimmung_Verhandlungsauftrag.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/41_Interner_Verhandlungsrahmen.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/42_C_Anfrage_Konditionen_und_System.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/43_C_Klaerungsliste_Krimpfort.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/44_C_Ruecklauf_Vertragsklarstellung.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/45_C_Bestaetigung_Lieferumfang_und_Bindung.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/46_B_Ruecklauf_Bindungsfenster.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/47_B_Bestaetigung_Bindung_und_Dokumentation.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/48_Finanzbuchhaltung_Skonto_und_Abrufe.eml",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/49_Zahlungspruefung_Teilrechnungen.pdf",
+        "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/50_Freigaberunde_Entscheidung_offen.eml"
+      ],
+      "deliverables": [
+        "Verhandlungsleitfaden.docx"
+      ],
+      "criteria": [
+        {
+          "id": "verhandlung-1",
+          "text": "Die interne Anschaffungsgrenze von 645.000 Euro getrennt vom Wartungsrahmen von 55.000 Euro auswerten.",
+          "deliverables": [
+            "Verhandlungsleitfaden.docx"
+          ]
+        },
+        {
+          "id": "verhandlung-2",
+          "text": "B-Bindung zum regulären Preis bis 11.12. und früheren Paketnachlass bis 04.12. unterscheiden. Skonto bleibt gesonderte Variante.",
+          "deliverables": [
+            "Verhandlungsleitfaden.docx"
+          ]
+        },
+        {
+          "id": "verhandlung-3",
+          "text": "Bei C 642.569,40 Euro bedingt und 649.060 Euro regulär rechnen. Fachliche Freigabe, Angebotstermine und fehlende Garantiebedingungen offen ausweisen. Die Preisgrenze bleibt intern.",
+          "deliverables": [
+            "Verhandlungsleitfaden.docx"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-11-09",
+    "files": [
+      "bauunternehmer-einkauf/bauunternehmer-einkauf-schnellstart.md",
+      "bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md",
+      "testakten/megaprompts/bauunternehmer-einkauf.md"
+    ],
+    "opening_change": "Aus Angeboten, LV und Kommunikation entsteht ein belegter Preisspiegel mit technisch und kaufmännisch freigegebener Handlungsoption.",
+    "norms": [
+      "§ 99 GWB"
+    ],
+    "decisions": [
+      {
+        "citation": "GAEB DA XML 3.3, Fachdokumentation 2023-01, Abschnitte 4.6.19 und 11.2.3",
+        "application": "Im Fall Krimpfort ordnet die gleichbleibende LV-Struktur die fünf Positionen jeder X84 der X83 zu. Die Bieterdatei trägt Preise und verweist für abweichende Leistungsgrenzen auf den Schriftstand.",
+        "limit": "Der technische und kaufmännische Leistungsabgleich erfordert die Begleitunterlagen. Eine XML-Prüfung weist weder einen geeigneten Brandschutzabschluss noch verbindliche Vertragskonditionen nach.",
+        "url": "https://www.gaeb.de/wp-content/uploads/2023/09/Fachdokumentation_GAEB-DA-XML_3.3_2023-01.pdf"
+      }
+    ],
+    "remaining_limits": [
+      "Eine Ausführung in einer externen Pluginoberfläche wurde nicht gemessen. Die GAEB-Dateien wurden gegen das offizielle Schema geprüft."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-09",
+    "method": "desk_review",
+    "opening_modes": [
+      "Klarer Vergleichsauftrag mit X83, X84 und PDF.",
+      "Unterlagen ohne Auftrag mit Klärung des gewünschten Ergebnisses.",
+      "Leerstart mit Angebotsanfrage, Vergleich oder Verhandlung."
+    ],
+    "continuation": "Neuere Unterlagen ändern den bestehenden Preisspiegel und Verhandlungsauftrag positionsbezogen.",
+    "enrichment": "Verbindliche Preise, Ausweichfristen, Zuständigkeiten und Eignungsnachweise getrennt dokumentieren.",
+    "limits": "Belegprüfung und Arbeitsproben sind dokumentiert. Eine vollständige Modellabnahme wurde nicht durchgeführt."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Redaktionelle und fachliche Gegenlese anhand der Krimpfort-Arbeitsakte.",
+    "changes": [
+      "Angebotsdaten, Nachweise und Kalkulation verbinden.",
+      "Beschaffungsrahmen und Bindung in den fortgeschriebenen Arbeitsstand übernehmen."
+    ],
+    "sha256": "30916d3bb77a422a0cd8f7dc2576c377c033da1ff00284caf0c0d56cafc73439"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Redaktionelle und fachliche Gegenlese anhand der Krimpfort-Arbeitsakte.",
+    "changes": [
+      "Angebotsdaten, Nachweise und Kalkulation verbinden.",
+      "Beschaffungsrahmen und Bindung in den fortgeschriebenen Arbeitsstand übernehmen."
+    ],
+    "sha256": "a99c22fa0eb3419afa7dc37147bf2109f74cb40026530696322107077400fbac"
+  }
+}

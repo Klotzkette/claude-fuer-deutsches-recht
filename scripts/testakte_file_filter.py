@@ -17,7 +17,7 @@ import re
 import zipfile
 
 TEXT_EXTS = {".md", ".txt", ".csv", ".eml"}
-CONTENT_SCAN_EXTS = TEXT_EXTS | {".docx", ".xlsx", ".odt", ".json", ".xml", ".yaml", ".yml"}
+CONTENT_SCAN_EXTS = TEXT_EXTS | {".docx", ".xlsx", ".odt", ".json", ".xml", ".yaml", ".yml", ".x83", ".x84"}
 
 META_MARKERS = (
     "demonstrationsakte",

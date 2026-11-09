@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23408 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23418 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -37,6 +37,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (60 Skills)
 - [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (31 Skills)
 - [bautraegervertragspruefer](./bautraegervertragspruefer.md) (31 Skills)
+- [bauunternehmer-einkauf](./bauunternehmer-einkauf.md) (10 Skills)
 - [bauvergabe-bieter](./bauvergabe-bieter.md) (11 Skills)
 - [bauvergabe-nachtragsmanagement](./bauvergabe-nachtragsmanagement.md) (11 Skills)
 - [bauvergabe-rechtsschutz](./bauvergabe-rechtsschutz.md) (11 Skills)
