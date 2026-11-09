@@ -1,0 +1,1416 @@
+{
+  "documents": [
+    {
+      "filename": "01_Arbeitsvertrag_Treasury.docx",
+      "title": "Arbeitsvertrag mit Funktionsnachtrag",
+      "issuer": "Dreisamtal Sensorik GmbH · Personal",
+      "date": "2024-01-01",
+      "sections": [
+        {
+          "heading": "Vertragsparteien und Funktion",
+          "paragraphs": [
+            "Die Dreisamtal Sensorik GmbH, Freiburg im Breisgau, beschäftigt Mara Falk seit dem 1. Oktober 2018 unbefristet. Seit dem 1. Januar 2024 führt sie den Bereich Treasury am Standort Freiburg. Sie leitet fünf Beschäftigte, berichtet fachlich an Finanzchef Leonhard Kern und bleibt Arbeitnehmerin der Gesellschaft. Bestellung zur Geschäftsführerin, Prokura und selbständige Personalentscheidungen sind mit der Funktion nicht verbunden.",
+            "Die Aufgaben umfassen Liquiditätsplanung, Bankverbindungen, Zahlungsverkehr und Weiterentwicklung der Kontrollen. Fachliche Eskalationen sind an den Finanzchef oder dessen benannte Vertretung zu richten. Die aktuelle Zahlungsrichtlinie und die dazu erteilten internen Freigaben sind Bestandteil der Organisationsvorgaben. Die Bankvollmacht wird in einer gesonderten Vollmachtsakte geführt."
+          ]
+        },
+        {
+          "heading": "Vergütung und Verantwortung",
+          "paragraphs": [
+            "Für die Vollzeittätigkeit zahlt die Gesellschaft 11.800 Euro brutto monatlich. Zusätzlich kann eine variable Jahresvergütung gewährt werden. Das Ziel von 15 Prozent des Jahresfestgehalts steht unter dem Vorbehalt der Zielerreichung und der jährlichen Feststellung. Es ist keine garantierte Vergütung.",
+            "Zahlungsfreigaben dürfen nur im jeweiligen sachlichen und technischen Berechtigungsrahmen erteilt werden. Die Mitarbeiterin meldet Auffälligkeiten in der Zahlungskette unverzüglich über die vorgesehenen Kanäle. Eine Vertragsstrafe oder eine besondere Haftungszusage für Fehlüberweisungen ist im Vertrag nicht vorgesehen."
+          ]
+        },
+        {
+          "heading": "Ausfertigung",
+          "paragraphs": [
+            "Ausfertigung für die Personalakte. Unterzeichnet am 18. September 2018. Der Funktionsnachtrag vom 15. Dezember 2023 gilt ab dem oben genannten Datum. Die Originalunterschriften befinden sich in der Personalakte."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "02_Entgelt_und_Rollenzuordnung.pdf",
+      "title": "Entgelt- und Rollenauszug · September 2026",
+      "issuer": "Dreisamtal Sensorik GmbH · Personal",
+      "date": "2026-09-25",
+      "sections": [
+        {
+          "heading": "Stammdaten und Bezüge",
+          "paragraphs": [
+            "Die Gesellschaft beschäftigt am Standort Freiburg rund 420 Arbeitnehmerinnen und Arbeitnehmer. Mara Falk ist der Personalgruppe Führung Treasury zugeordnet. Die Septemberabrechnung weist das Festgehalt ohne Sonderzahlung oder leistungsbezogene Vergütung aus."
+          ],
+          "table": {
+            "headers": [
+              "Abrechnungsmerkmal",
+              "Wert",
+              "Quelle"
+            ],
+            "rows": [
+              [
+                "Festgehalt pro Monat",
+                "11.800,00 EUR brutto",
+                "Abrechnung 09/2026"
+              ],
+              [
+                "Jahresfestgehalt",
+                "141.600,00 EUR brutto",
+                "12 Monatsbeträge"
+              ],
+              [
+                "Zielbonus",
+                "15 % bei Zielerreichung, nicht garantiert",
+                "Funktionsnachtrag"
+              ],
+              [
+                "Bonus 2026",
+                "Zum Stand 25.09.2026 nicht festgesetzt",
+                "HR-Zielkonto"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Zeichnung und Linienvertretung",
+          "paragraphs": [
+            "Die fachliche Weisungslinie führt zu Leonhard Kern. Für dessen Abwesenheit vom 14. bis 18. September war Jakob Mertens in der Organisationsliste als CFO-Vertretung benannt. Das Rollenprofil verzeichnet für Falk eine interne Zahlungsfreigaberolle und eine Bankzeichnungsberechtigung. Eine unbeschränkte Vertretungsmacht oder Organstellung ist nicht verzeichnet."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "03_Zahlungsrichtlinie_TR04.pdf",
+      "title": "Zahlungsrichtlinie TR-04 · Fassung 4.2",
+      "issuer": "Dreisamtal Sensorik GmbH · Treasury",
+      "date": "2026-06-01",
+      "sections": [
+        {
+          "heading": "Regelprozess",
+          "paragraphs": [
+            "Zahlungen über 100.000 Euro durchlaufen getrennte Erstellung und Freigabe. Der Maker prüft Beleg, Projektzuordnung und Fälligkeit und legt den Datensatz im ERP an. Der Checker prüft zusätzlich den wirtschaftlichen Zweck und den Empfänger, bevor die Bankdatei freigegeben wird. Ein technisch akzeptierter Auftrag bestätigt die vereinbarte Übermittlungsberechtigung. Die sachliche Freigabe ist in der Auftragsakte zu dokumentieren.",
+            "Neue Zahlungsempfänger und geänderte Kontodaten werden über eine bereits im Stammdatensatz gespeicherte Rufnummer oder über einen dokumentierten zweiten Kontaktkanal rückbestätigt. Rufnummern oder Links aus der Zahlungsanweisung sind dazu ungeeignet. Bei geheimhaltungsbedürftigen Projekten darf der Personenkreis klein bleiben. Der Rückruf oder eine dokumentierte Prüfung durch die CFO-Vertretung bleibt erforderlich."
+          ]
+        },
+        {
+          "heading": "Unterbrechung des Regelprozesses",
+          "paragraphs": [
+            "Der Notweg dient einer zeitkritischen Zahlung, wenn ERP oder reguläre Bankanbindung vorübergehend nicht nutzbar sind. Eine namentlich benannte Person darf bis zu 2.000.000 Euro je Auftrag mit ihrer Bankkennung allein übermitteln. Vor Übermittlung sind der Ausfall und die zweite sachliche Freigabe des CFO oder der benannten Vertretung aktenkundig zu machen. Der Vorgang wird spätestens am nächsten Geschäftstag im ERP nachgeführt.",
+            "Vertraulichkeit, Zeitdruck oder die kurzfristige Nichterreichbarkeit einer einzelnen Person begründen für sich keinen Systemausfall. Bei Auffälligkeiten ist der Auftrag anzuhalten und an Risk sowie die Finanzleitung zu melden."
+          ]
+        },
+        {
+          "heading": "Schulung und Kenntnisnahme",
+          "paragraphs": [
+            "Der Versandnachweis für Version 4.2 weist für Falk eine Empfangsbestätigung vom 4. Juni 2026 aus. Im Lernportal ist ihr Basismodul zur Empfängerprüfung am 3. September 2026 als abgeschlossen verbucht. Das Portal weist keine gesonderte Übung zum Notweg für vertrauliche Projekte aus."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "04_Notweg_Praxis_und_Berechtigungen.pdf",
+      "title": "Notweg EBICS · Rechte und zwei Vergleichsvorgänge",
+      "issuer": "Dreisamtal Sensorik GmbH · IT Governance",
+      "date": "2026-09-21",
+      "sections": [
+        {
+          "heading": "Rechtevergabe",
+          "paragraphs": [
+            "Der Bankkanal für Zahlungsnotfälle läuft getrennt vom ERP. Bei Anlage der Bankrolle im Januar 2025 wurde für Falk das Einzelzeichnungsrecht bis 2.000.000 Euro je Auftrag eingerichtet. Die technische Freigabe fragt weder das IT-Störungsticket noch die zweite sachliche Freigabe ab. Die Rolle war am 14. bis 18. September durchgehend aktiv. Ein Gesamttageslimit für diese Rolle ist im übergebenen Berechtigungsauszug nicht ersichtlich.",
+            "Die Geschäftsleitung ließ die dauerhafte Aktivierung im April 2026 zur Sicherung der Handlungsfähigkeit bestehen. Für den vorgeschlagenen Abgleich der Notfreigaben mit dem ERP gab es am 18. September noch keinen automatisierten Warnlauf. Der Monatsreview wurde für August von der zuständigen Stelle abgezeichnet."
+          ]
+        },
+        {
+          "heading": "Zwei Aktenfälle aus dem laufenden Jahr",
+          "paragraphs": [],
+          "table": {
+            "headers": [
+              "Vorgang",
+              "Aktenstand",
+              "Betrag"
+            ],
+            "rows": [
+              [
+                "11.05.2026",
+                "ERP-Schnittstelle ausgefallen. Bekannter Empfänger. Teams-Freigabe von Kern vor der Übermittlung im Ticket abgelegt.",
+                "186.000 EUR"
+              ],
+              [
+                "27.07.2026",
+                "Eilzahlung an bekannten Empfänger bei regulärem ERP-Betrieb. Kerns Anruf vor Zahlung nachträglich von Falk vermerkt. Zweite elektronische Bestätigung erst am Folgetag.",
+                "237.000 EUR"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Hinweis zum Aktenstand",
+          "paragraphs": [
+            "Zum Juli-Vorgang fand die Revision bei der Stichprobe im August einen Nachvermerk, aber keine Beanstandung. Eine generelle Änderung der Richtlinie oder eine Freigabe für neue Empfänger ohne Rückbestätigung ist in dieser Akte nicht dokumentiert. Die Vergleichsvorgänge beruhen auf den Tickets und den ERP-Auszügen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "05_Fingierte_Projektmail.eml",
+      "subject": "BERGFINK | Vorauszahlung für den Prüfstand",
+      "date": "2026-09-14T08:39:00+02:00",
+      "from_name": "Leonhard Kern",
+      "from_email": "leonhard.kern@dreisamtal-sensorlk.example",
+      "to_email": "mara.falk@dreisamtal-sensorik.example",
+      "paragraphs": [
+        "Hallo Mara, wie eben am Telefon. Die Vorauszahlung für den Prüfstand BERGFINK soll heute noch in den Lauf. Die 480.000 Euro sind im Projektbudget eingeplant. Veldorn hat für das Labor eine neue Zahlungsstelle genannt. Die Bankdaten kommen aus dem beigefügten Blatt.",
+        "Bitte lass Johanna den Datensatz vorbereiten. Schicke mir keine Details an die Verteileradresse. Ich bin in der Lieferantensitzung und melde mich bei Bedarf über den vereinbarten Kanal.",
+        "Leonhard"
+      ],
+      "attachments": [
+        "06_Proforma_Pruefstand_Bergfink.pdf"
+      ]
+    },
+    {
+      "filename": "06_Proforma_Pruefstand_Bergfink.pdf",
+      "title": "Pro-forma invoice · BERGFINK test station",
+      "issuer": "Veldorn Calibration Ltd.",
+      "date": "2026-09-14",
+      "sections": [
+        {
+          "heading": "Order reference and scope",
+          "paragraphs": [
+            "To Dreisamtal Sensorik GmbH, Treasury, Freiburg im Breisgau. This provisional invoice refers to the test station reservation dated 10 September 2026. The advance covers the laboratory slot, fixtures for two specimen series and initial calibration. The internal project reference notified to us is BERGFINK."
+          ],
+          "table": {
+            "headers": [
+              "Document reference",
+              "Advance due",
+              "Beneficiary as stated"
+            ],
+            "rows": [
+              [
+                "VCL-PF-260914-71",
+                "480,000.00 EUR · 14 September 2026",
+                "Veldorn Calibration Ltd."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Payment notice",
+          "paragraphs": [
+            "Please remit the advance using the replacement bank details accompanying this instruction. Quote VCL-PF-260914-71 in the remittance field. The former payment details are not to be used for this reservation.",
+            "A certified copy showing the full account details is retained in the bank file. For the circulation copy, the account number is masked and ends in 8731."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "07_Kommunikations_und_Telefonexport.pdf",
+      "title": "Kommunikationsauszug · 14. bis 18. September",
+      "issuer": "Dreisamtal Sensorik GmbH · IT-Sicherheit",
+      "date": "2026-09-22",
+      "sections": [
+        {
+          "heading": "Sicherung und Abgrenzung",
+          "paragraphs": [
+            "Der Auszug fasst das gesicherte Telefonjournal des Dienstgeräts, die auf dem Gerät gespeicherten Nachrichten und eine schriftliche Gedächtnisnotiz von Falk zusammen. Die Rufnummernanzeige entspricht am 14. September dem Eintrag Leonhard Kern im Telefonbuch. Eine Tonaufzeichnung liegt nicht vor. Der Messenger-Export bezeichnet das Profil nur mit dem am Gerät sichtbaren Anzeigenamen."
+          ],
+          "table": {
+            "headers": [
+              "Zeitpunkt",
+              "Quelle",
+              "Inhalt oder Anzeige"
+            ],
+            "rows": [
+              [
+                "14.09. · 08:32",
+                "Anrufjournal",
+                "CFO-Nummer angezeigt, 56 Sekunden. Gesprächsinhalt nur aus Gedächtnisnotiz."
+              ],
+              [
+                "14.09. · 08:39",
+                "E-Mail 05",
+                "BERGFINK, Vorauszahlung, geforderte abweichende Bankverbindung."
+              ],
+              [
+                "15.09. · 08:17",
+                "Messenger",
+                "Profil Leonhard Kern bittet um Einzahlung an Kelwick Trade Services Ltd. und Ausführung über den Notweg."
+              ],
+              [
+                "16.09. · 08:44",
+                "Messenger",
+                "Zahlung an Ardent Meridian Ventures Ltd. erbeten. Ein angeblicher Projektjurist soll den Vorgang begleiten."
+              ],
+              [
+                "17.09. · 08:16",
+                "Messenger",
+                "Weitere Rate für Ardent Meridian Ventures Ltd. mit kurzer Frist. Nachfrage nach Vertrag soll warten."
+              ],
+              [
+                "18.09. · 08:53",
+                "Messenger",
+                "Erneut Kelwick Trade Services Ltd. und Bitte, keine weiteren Personen einzubeziehen."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Notiz der Beschäftigten",
+          "paragraphs": [
+            "Falk gibt an, die Stimme im ersten Anruf nach der Anrede und einzelnen gewohnten Formulierungen für die Stimme von Kern gehalten zu haben. Beim späteren Messenger-Kontakt prüfte sie die Teilnehmerkennung nicht gegen das interne Verzeichnis. Die Abfolge erlaubt keine sichere Aussage zur Urheberschaft einzelner Sprach- oder Textnachrichten."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "08_ERP_und_Bankfreigaben.pdf",
+      "title": "Freigabejournal · ERP und Bankkanal",
+      "issuer": "Dreisamtal Sensorik GmbH · Treasury Controls",
+      "date": "2026-09-22",
+      "sections": [
+        {
+          "heading": "Zahlungsereignisse und Berechtigungen",
+          "paragraphs": [
+            "Die Uhrzeiten sind Buchungs- beziehungsweise Annahmezeiten aus dem Bankjournal, jeweils MESZ. Die Rollenbezeichnungen stammen aus den korrespondierenden Systemprotokollen. Zur Zuordnung der späteren Rückflüsse dienen die untenstehenden internen Referenzen."
+          ],
+          "table": {
+            "headers": [
+              "Vorgang und Zeit",
+              "Betrag",
+              "Weg und technische Freigabe",
+              "Zweite Sachprüfung"
+            ],
+            "rows": [
+              [
+                "T01 · 14.09. · 10:14",
+                "480.000 EUR",
+                "ERP-Lauf. Anlage Beck, Freigabe Falk.",
+                "Beck prüfte Projekt und Beleg. Rückruf nicht erfasst."
+              ],
+              [
+                "T02 · 15.09. · 09:42",
+                "920.000 EUR",
+                "Notweg. Erfassung und Einzelzeichnung Falk.",
+                "Keine zweite Sachfreigabe belegt."
+              ],
+              [
+                "T03 · 16.09. · 10:06",
+                "1.550.000 EUR",
+                "Notweg. Erfassung und Einzelzeichnung Falk.",
+                "Keine zweite Sachfreigabe belegt."
+              ],
+              [
+                "T04 · 17.09. · 09:35",
+                "1.700.000 EUR",
+                "Notweg. Erfassung und Einzelzeichnung Falk.",
+                "Keine zweite Sachfreigabe belegt."
+              ],
+              [
+                "T05 · 18.09. · 09:18",
+                "1.850.000 EUR",
+                "Notweg. Erfassung und Einzelzeichnung Falk.",
+                "Keine zweite Sachfreigabe belegt."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Ergänzende Buchungsdaten",
+          "paragraphs": [
+            "Bei T01 dokumentiert der ERP-Workflow zwei Nutzeraktionen. Er enthält weder die Rückbestätigung der abweichenden Bankverbindung noch die Qualifikation des Prüfumfangs. Der Legitimität der neuen Empfängerbankverbindung wurde kein eigener Prüfstatus zugewiesen.",
+            "T02 bis T05 wurden erst nach Bekanntwerden des Vorfalls anhand der Bankauszüge im ERP nachvollzogen. Für die relevanten Sendezeiten war kein allgemeiner Systemausfall gemeldet. Die manuelle Bankfreigabe zeigt in allen vier Fällen die Kennung von Falk. Sie belegt den Übermittlungsweg und die verwendete Signatur."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "09_Risikohinweis_aus_Zahlungsabgleich.eml",
+      "subject": "Bitte prüfen · zwei manuelle Aufträge ohne ERP-Bezug",
+      "date": "2026-09-16T12:20:00+02:00",
+      "from_name": "Johanna Beck",
+      "from_email": "johanna.beck@dreisamtal-sensorik.example",
+      "to_email": "svenja.roth@dreisamtal-sensorik.example",
+      "paragraphs": [
+        "Hallo Svenja, beim Bankabgleich fallen mir zwei Aufträge aus dem Notkanal auf. Am Dienstag 920.000 Euro an Kelwick, heute 1.550.000 Euro an Ardent Meridian. Im ERP finde ich zu beiden keinen Antrag und im Störungsprotokoll keinen Ausfall. Mara hat heute auf ein vertrauliches CFO-Projekt verwiesen und mich gebeten, bis zur Nachbuchung nicht bei den Fachabteilungen nachzufragen.",
+        "Die Überweisungen sind angenommen. Die manuelle Bankrolle ist weiter aktiv. Bitte klärt, ob es eine zweite Freigabe gibt und ob man den Notkanal bis zur Klärung sperren sollte. Ich kann die Bankrolle weder entziehen noch weitere Aufträge in diesem Kanal anhalten.",
+        "Johanna"
+      ]
+    },
+    {
+      "filename": "10_Weiterleitung_an_CFO_Vertretung.eml",
+      "subject": "Dringend · Einzelzeichnung Treasury prüfen",
+      "date": "2026-09-16T12:43:00+02:00",
+      "from_name": "Svenja Roth",
+      "from_email": "svenja.roth@dreisamtal-sensorik.example",
+      "to_email": "jakob.mertens@dreisamtal-sensorik.example",
+      "paragraphs": [
+        "Hallo Jakob, Johanna meldet 920.000 und 1.550.000 Euro aus dem Notweg. Zwei neue Gegenparteien, keine ERP-Anträge, kein IT-Ausfall im Ticket. Mara beruft sich auf Leonhards vertrauliches Projekt. Ich erreiche Leonhard über die intern bekannte Nummer heute bislang nicht.",
+        "Bitte prüfe die sachliche Freigabe und entscheide über eine vorläufige Sperre der Einzelzeichnung. Der Bankadmin kann das nach Deiner schriftlichen Weisung umsetzen. Ich halte das Ticket offen. Die Zahlungen sind bereits technisch angenommen.",
+        "Svenja"
+      ],
+      "reply_to": "09_Risikohinweis_aus_Zahlungsabgleich.eml"
+    },
+    {
+      "filename": "11_Risk_Ticket_RK_1847.pdf",
+      "title": "Risk-Ticket RK-1847 · Ereignisverlauf",
+      "issuer": "Dreisamtal Sensorik GmbH · Risk",
+      "date": "2026-09-18",
+      "sections": [
+        {
+          "heading": "Statuswechsel und Bearbeiter",
+          "paragraphs": [
+            "Der Systemauszug wurde nach Aufnahme des Vorfalls am 18. September aus dem Ticketmodul exportiert. Er zeigt den verfügbaren Freitext und die Zeitpunkte der Statuswechsel. Telefonische Gespräche oder außerhalb des Tickets erteilte Anweisungen werden darin nur sichtbar, wenn sie nachgetragen wurden."
+          ],
+          "table": {
+            "headers": [
+              "Zeit",
+              "Rolle",
+              "Eintrag"
+            ],
+            "rows": [
+              [
+                "16.09. · 12:27",
+                "Risk",
+                "Neuanlage. Beträge und Empfänger aus Becks E-Mail erfasst."
+              ],
+              [
+                "16.09. · 12:43",
+                "Risk",
+                "Zur Entscheidung über vorläufige Sperre an Jakob Mertens weitergeleitet."
+              ],
+              [
+                "16.09. · 13:08",
+                "CFO-Vertretung",
+                "Gelesen. Rückfrage nach Freigabe von Leonhard. Bis zur Antwort vorläufig keine Sperranweisung."
+              ],
+              [
+                "17.09. · 08:41",
+                "Risk",
+                "Rückfrage im Ticket. Keine Freigabeunterlage eingegangen. Status offen."
+              ],
+              [
+                "18.09. · 10:05",
+                "CFO-Vertretung",
+                "Kern über bekannte Rufnummer erreicht. Er bestreitet Projektanweisung und Zahlungen. Bankadmin und Bankkontakt einschalten."
+              ],
+              [
+                "18.09. · 10:16",
+                "Bankadmin",
+                "Einzelzeichnungsrecht Falk im Notkanal deaktiviert. Bank informiert."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Berechtigung zum Sperrauftrag",
+          "paragraphs": [
+            "Die interne Zuständigkeitsliste gestattet der CFO-Vertretung, eine vorläufige Sperre schriftlich auszulösen. Der Bankadmin war laut Dienstplan am 16. September zwischen 08.00 und 17.00 Uhr verfügbar. Ein Sperrauftrag vor dem 18. September ist im Ticket und im vorliegenden Rollenjournal nicht erfasst."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "12_Bank_Rueckrufauftrag.eml",
+      "subject": "Zahlungsrückruf T01 bis T05 · TK-2026-0918",
+      "date": "2026-09-18T10:24:00+02:00",
+      "from_name": "Jakob Mertens",
+      "from_email": "jakob.mertens@dreisamtal-sensorik.example",
+      "to_email": "payments.support@oberlicht-bank.example",
+      "paragraphs": [
+        "Guten Tag, ich verweise auf die telefonische Notfallmeldung um 10.18 Uhr. Bitte leiten Sie für die fünf benannten Überweisungen unverzüglich die Rückruf- und Sicherungsersuchen ein. Die Projektanweisungen waren nach Bestätigung durch den echten Finanzchef nicht von ihm veranlasst. Die Einzelzeichnung im Notkanal ist intern inzwischen deaktiviert.",
+        "Die Referenzen lauten T01 vom 14.09., T02 vom 15.09., T03 vom 16.09., T04 vom 17.09. und T05 von heute. Es geht um insgesamt 6.500.000 Euro. Die kontoführenden Stellen haben die zur Identifizierung erforderlichen vollständigen Daten über die gesicherte Bankstrecke erhalten.",
+        "Bitte bestätigen Sie getrennt, welche Beträge endgültig gutgeschrieben, lediglich gesichert oder noch Gegenstand eines Rückrufs sind.",
+        "Jakob Mertens, CFO-Vertretung"
+      ]
+    },
+    {
+      "filename": "13_Bank_Rueckflussbestaetigung.pdf",
+      "title": "Rückruf und endgültige Kontogutschriften",
+      "issuer": "Oberlicht Bank AG · Zahlungsverkehr",
+      "date": "2026-09-30",
+      "sections": [
+        {
+          "heading": "Rückrufstand TK-2026-0918",
+          "paragraphs": [
+            "Wir bestätigen den Eingang des telefonisch angekündigten und um 10.24 Uhr schriftlich veranlassten Rückrufs vom 18. September 2026. Der nachfolgende Stand erfasst ausschließlich endgültig auf dem Konto der Dreisamtal Sensorik GmbH gebuchte Rückflüsse. Alle Zahlungen waren in Euro gebucht. Bankentgelte wurden in dieser Übersicht nicht verrechnet."
+          ],
+          "table": {
+            "headers": [
+              "Vorgang",
+              "Belastung EUR",
+              "Gutschrift EUR und Datum",
+              "Saldo EUR"
+            ],
+            "rows": [
+              [
+                "T01 · 14.09.",
+                "480.000",
+                "300.000 · 21.09.",
+                "180.000"
+              ],
+              [
+                "T02 · 15.09.",
+                "920.000",
+                "0 · keine Gutschrift",
+                "920.000"
+              ],
+              [
+                "T03 · 16.09.",
+                "1.550.000",
+                "450.000 · 24.09.",
+                "1.100.000"
+              ],
+              [
+                "T04 · 17.09.",
+                "1.700.000",
+                "0 · keine Gutschrift",
+                "1.700.000"
+              ],
+              [
+                "T05 · 18.09.",
+                "1.850.000",
+                "250.000 · 29.09.",
+                "1.600.000"
+              ],
+              [
+                "Gesamt",
+                "6.500.000",
+                "1.000.000",
+                "5.500.000"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Vorbehalt zum weiteren Verlauf",
+          "paragraphs": [
+            "Weitere Beträge sind nach unserer Übersicht am Stichtag weder dem Konto gutgeschrieben noch verbindlich zur Auszahlung bestätigt. Rückfragen an Empfängerbanken laufen weiter. Die Aufstellung betrifft die Kontobuchungen und enthält keine Erklärung zur rechtlichen Einordnung der Zahlungsaufträge oder zu etwaigen Erstattungsansprüchen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "14_Forensischer_Zwischenbericht.pdf",
+      "title": "Forensischer Zwischenbericht · TK-2026-0918",
+      "issuer": "Birkenspur Forensik · Fallteam",
+      "date": "2026-10-02",
+      "sections": [
+        {
+          "heading": "Auftrag und verfügbare Spuren",
+          "paragraphs": [
+            "Untersucht wurden ein Export des dienstlichen Mailpostfachs, das gesicherte Diensttelefon, die ERP-Ereignisse und die Bankdateien. Von den privaten Geräten liegen keine Daten vor. Die Bank- und Ticketzeiten wurden auf MESZ vereinheitlicht. Die übergebenen Exporte sind unverändert gespeichert. Die hier wiedergegebenen Auszüge enthalten keine vollständigen Kontonummern oder Zugangsdaten.",
+            "Die Mail vom 14. September zeigt im tatsächlichen Absenderfeld dreisamtal-sensorlk.example anstelle der Geschäftsdomäne dreisamtal-sensorik.example. In der mobilen Kompaktansicht wurde zunächst nur der Anzeigename dargestellt. Die Nachricht stammt nach dem verfügbaren Mail-Gateway-Export von außerhalb der Unternehmensumgebung. Die interne Rufnummer im Telefonjournal beweist die Herkunft des Anrufs nicht. Der Provider konnte im vorliegenden Datenstand lediglich bestätigen, dass der Anruf aus einer externen Netzübergabe kam."
+          ]
+        },
+        {
+          "heading": "Plausibilitätsprüfung nach Vorgängen",
+          "paragraphs": [
+            "Das Projekt BERGFINK und eine hierfür vorbereitete Zahlung von 480.000 Euro sind im ERP tatsächlich belegt. Das legitime Lieferantendossier enthält weder die in der Mail genannte Ersatzbankverbindung noch die Pro-forma-Referenz VCL-PF-260914-71. T01 passt im Betrag zur offenen Position und weicht bei Beleg und Bankverbindung ab. Die Rechnungsposition blieb nach dem Abgang gegenüber dem echten Projektlieferanten offen.",
+            "Die weiteren Aufträge lassen sich weder BERGFINK noch einem anderen freigegebenen Projekt zuordnen. Nach den Bankprotokollen nutzte die Kennung Falk den Notweg. Es gibt derzeit keinen Nachweis dafür, dass Dritte die Bankkennung technisch übernommen oder die Freigabe unmittelbar erteilt hätten. Die Protokolle können die Vorstellungen der handelnden Person über den Zahlungszweck nicht abbilden."
+          ]
+        },
+        {
+          "heading": "Zeitfenster nach dem Hinweis",
+          "paragraphs": [
+            "Der Prüfstand vom 16. September um 12.20 Uhr lag nach den ersten drei Bankannahmen. Die beiden weiteren Aufträge wurden erst am 17. beziehungsweise 18. September übermittelt. Nach Auskunft des Bankadmins hätte eine intern wirksam ausgelöste Sperre des Einzelzeichnungsrechts bereits am Nachmittag des 16. September umgesetzt werden können. Ob dann ausnahmsweise ein anderer Zugang eingesetzt worden wäre, lässt sich aus den Protokollen nicht ableiten.",
+            "Eine Zurechnung zu bestimmten natürlichen Personen außerhalb des Unternehmens ist anhand der vorhandenen Daten nicht möglich. Ob synthetische Stimme eingesetzt wurde oder der Eindruck von der Verbindung und Erwartung beeinflusst war, bleibt offen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "15_Anhoerung_Mara_Falk.docx",
+      "title": "Besprechungsprotokoll · Stellungnahme zum Zahlungsverkehr",
+      "issuer": "Dreisamtal Sensorik GmbH · Personal und Recht",
+      "date": "2026-09-23",
+      "sections": [
+        {
+          "heading": "Teilnehmende und Gegenstand",
+          "paragraphs": [
+            "Mara Falk, für Personal Nadine Ritter und für Recht Eike Bronn. Das Gespräch begann um 14.00 Uhr und endete um 15.10 Uhr. Auf dem Tisch lagen der ERP-Auszug, der Bankauszug und das Rückrufticket. Falk ergänzte die schriftliche Fassung am selben Tag per E-Mail. Die Ergänzungen sind in den folgenden Absätzen als ihre Angaben gekennzeichnet."
+          ]
+        },
+        {
+          "heading": "Stellungnahme zum ersten Auftrag",
+          "paragraphs": [
+            "Falk gibt an, BERGFINK und den Betrag von 480.000 Euro bereits aus der Budgetbesprechung gekannt zu haben. Die am Display angezeigte Rufnummer, die Anrede am Telefon und der Freigabelauf über Beck hätten ihren Eindruck bestätigt. Sie habe die vollständige Absenderadresse auf dem Dienstgerät nicht geprüft. Einen Rückruf über die gespeicherte Nummer oder eine Rückfrage beim Lieferanten könne sie nicht belegen.",
+            "Beck sei im ERP als Erstellerin sichtbar gewesen. Falk sei damals davon ausgegangen, dass Beck beim Anlegen auch die neue Bankverbindung geprüft habe. Ob sie Beck hierzu ausdrücklich angewiesen habe, könne sie nicht erinnern. Der ERP-Vermerk nennt Projekt und Beleg. Eine konkrete Aussage von Beck zur Bankverbindung enthält er nicht."
+          ]
+        },
+        {
+          "heading": "Stellungnahme zu den weiteren Aufträgen",
+          "paragraphs": [
+            "Falk bestätigt, dass sie T02 bis T05 mit ihrer eigenen Kennung im Notkanal übermittelt hat. Sie habe die Folgeanweisungen für einen streng vertraulichen Auftrag gehalten. Auf den Messenger sei sie nach dem ersten Anruf durch einen Kontaktvorschlag gelangt. Die neuen Empfänger seien ihr als Dienstleister des angeblichen Sonderprojekts genannt worden. Vertrag, dokumentierten Rückruf und Freigabe der CFO-Vertretung könne sie nicht vorlegen.",
+            "Falk erinnert an die Juli-Zahlung, bei der nach dem damaligen Telefonat ein elektronischer Nachtrag erst am Folgetag erfolgte. Sie habe daraus abgeleitet, bei hoher Dringlichkeit genüge die telefonische oder schriftliche Anweisung des CFO zunächst. Ritter hält fest, dass der Notweg im Juli einen bereits bekannten Empfänger betraf."
+          ]
+        },
+        {
+          "heading": "Fragen zum Warnhinweis",
+          "paragraphs": [
+            "Die Beteiligten legten Falk den internen Ticketverlauf vom 16. September vor. Sie gibt an, die Weiterleitung an Risk und Mertens erst nach der Aufdeckung gesehen zu haben. Beck habe am 16. September lediglich nach dem fehlenden ERP-Bezug gefragt. Eine Aufforderung zur Sperre sei ihr an diesem Tag nicht mitgeteilt worden. Der Gesprächsinhalt zwischen Falk und Beck wird durch dieses Protokoll nicht unabhängig bestätigt."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "16_DO_Versicherungsschein.pdf",
+      "title": "Versicherungsschein · Vermögensschaden-Haftpflicht",
+      "issuer": "Kandelbogen Industrieversicherung AG",
+      "date": "2025-12-19",
+      "sections": [
+        {
+          "heading": "Vertragsübersicht",
+          "paragraphs": [
+            "Die Kandelbogen Industrieversicherung AG erteilt der Dreisamtal Sensorik GmbH in Freiburg im Breisgau den nachstehenden Versicherungsschein zur Vermögensschaden-Haftpflichtversicherung für Organe und ausdrücklich eingeschlossene Funktionen. Die Vertragsunterlagen werden der Versicherungsnehmerin zur Weitergabe an die in den Nachträgen benannten Personen bereitgestellt."
+          ],
+          "table": {
+            "headers": [
+              "Vertragsmerkmal",
+              "Angabe"
+            ],
+            "rows": [
+              [
+                "Versicherungsschein",
+                "KB-DO-26-0419 · Vertragsstand 19. Dezember 2025"
+              ],
+              [
+                "Versicherungsnehmerin",
+                "Dreisamtal Sensorik GmbH, Freiburg im Breisgau"
+              ],
+              [
+                "Versicherungsperiode",
+                "1. Januar 2026, 00.00 Uhr bis 31. Dezember 2026, 24.00 Uhr, Ortszeit Freiburg"
+              ],
+              [
+                "Versicherungssumme",
+                "4.000.000,00 EUR je Versicherungsfall und zugleich als gemeinsamer Höchstbetrag für alle Versicherungsfälle der Periode"
+              ],
+              [
+                "Deckungsauslöser",
+                "Erstmalige schriftliche Geltendmachung eines Haftpflichtanspruchs in der Versicherungsperiode nach Ziffer 2 der Bedingungen"
+              ],
+              [
+                "Versicherte Personen",
+                "Organe gemäß Bedingungen sowie die im Nachtrag 02 benannten Funktionsinhaber"
+              ],
+              [
+                "Prämienzahlung",
+                "Die Versicherungsnehmerin trägt die Prämie. Ein Prämienanteil der versicherten Arbeitnehmer ist nicht vereinbart."
+              ],
+              [
+                "Schadenmeldestelle",
+                "claims@kandelbogen-iv.example · Betreff mit Versicherungsscheinnummer"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Vertragsbestandteile",
+          "paragraphs": [
+            "Es gelten die Bedingungen KB-VH 2026 und die beigefügten Nachträge. Bei Abweichungen geht der konkrete Nachtrag der allgemeinen Bedingung vor. Für die Treasury-Leitung gilt der Nachtrag 02. Die Versicherungssumme steht allen versicherten Personen gemeinsam nach Maßgabe der Bedingungen zur Verfügung.",
+            "Für die Bestandsabteilung gezeichnet. Hannah Rott, Firmenkundenvertrag."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "17_DO_Bedingungsauszug.pdf",
+      "title": "Bedingungen KB-VH 2026 · Auszug",
+      "issuer": "Kandelbogen Industrieversicherung AG",
+      "date": "2025-12-19",
+      "sections": [
+        {
+          "heading": "Gegenstand der Versicherung",
+          "paragraphs": [
+            "Der Versicherer gewährt einer versicherten Person Schutz, wenn gegen sie wegen einer behaupteten Pflichtverletzung bei Ausübung ihrer versicherten Tätigkeit ein Anspruch auf Ersatz eines Vermögensschadens erhoben wird. Ein Vermögensschaden liegt vor, soweit der Anspruch weder einen Personen- noch einen Sachschaden oder einen daraus folgenden Schaden betrifft. Auch ein auf gesetzliche Haftpflichtbestimmungen gestützter Anspruch der Versicherungsnehmerin gegen die versicherte Person kann Gegenstand des Versicherungsschutzes sein.",
+            "Die Versicherung ersetzt der Versicherungsnehmerin keinen eigenen Vermögensabfluss als solchen. Ein durch Täuschung ausgelöster Zahlungsabgang ist für sich allein kein Anspruch gegen eine versicherte Person. Maßgeblich ist der gegen diese Person erhobene Haftpflichtanspruch. Die Befugnis, eine Zahlung anzulegen, zu autorisieren oder auszuführen, wird anhand der versicherten Funktion und des geltend gemachten Vorwurfs geprüft."
+          ]
+        },
+        {
+          "heading": "Versicherungsfall und Anzeige",
+          "paragraphs": [
+            "Versicherungsfall ist die erstmalige schriftliche Geltendmachung eines Schadensersatzanspruchs gegen eine versicherte Person innerhalb der Versicherungsperiode. Das Schreiben muss den in Anspruch Genommenen und den zugrunde gelegten Sachverhalt so bezeichnen, dass die Inanspruchnahme bestimmbar ist. Die bloße Kenntnis eines Betrugsverdachts oder die Unterrichtung über interne Ermittlungen ist keine schriftliche Geltendmachung.",
+            "Die Versicherungsnehmerin oder die versicherte Person hat den Anspruch nach Kenntnis unverzüglich bei der im Versicherungsschein bezeichneten Schadenmeldestelle anzuzeigen. Das Anspruchsschreiben, der Zugang, die verfügbaren Belege und gerichtliche Fristen sind mitzuteilen. Vorläufige Angaben sind als solche zu kennzeichnen und bei neuem Kenntnisstand zu ergänzen. Die Entgegennahme einer Anzeige und die Zuteilung eines Aktenzeichens enthalten keine Deckungszusage."
+          ]
+        },
+        {
+          "heading": "Abwehr und Freistellung",
+          "paragraphs": [
+            "Der Versicherer prüft den erhobenen Anspruch, wehrt unbegründete Ansprüche ab und stellt die versicherte Person von begründeten Ansprüchen frei, soweit Versicherungsschutz besteht. Die Freistellung setzt eine für den Versicherer bindende Feststellung des Haftpflichtanspruchs voraus. Eine Vorschusszahlung für Abwehrkosten enthält keine Erklärung über die Berechtigung oder Höhe des Anspruchs.",
+            "Bei einer Inanspruchnahme durch die Versicherungsnehmerin kann die versicherte Person einen eigenen Rechtsbeistand benennen. Die Parteien stimmen das Kostenbudget und den Umfang externer Gutachterleistungen vorab ab. Gerichtliche Fristen bleiben zu wahren. Eine Abtretung des Freistellungsanspruchs wird durch diese Bedingungen nicht ausgeschlossen."
+          ]
+        },
+        {
+          "heading": "Höchstbetrag und Kosten",
+          "page_break_before": true,
+          "paragraphs": [
+            "Entschädigungen und zu erstattende oder bevorschusste Abwehrkosten werden, soweit vertraglich und gesetzlich zulässig, auf die Versicherungssumme angerechnet. Die im Versicherungsschein bezeichnete Jahreshöchstleistung steht für alle Versicherungsfälle und alle versicherten Personen gemeinsam zur Verfügung. Es gibt weder je Person noch je einzelne Zahlung eine zusätzliche Versicherungssumme.",
+            "Ansprüche aus derselben oder aus mehreren sachlich eng zusammenhängenden Pflichtverletzungen werden für die Summenbegrenzung als ein Versicherungsfall geführt. Die Bündelung bestimmt nicht, ob die versicherte Person in Bezug auf jede einzelne Handlung haftet. Eine interne Reserve mindert den ausgewiesenen verbleibenden Betrag nicht bereits durch ihre Bildung. Erstattungen oder Umbuchungen werden nach Gutschrift gesondert ausgewiesen."
+          ]
+        },
+        {
+          "heading": "Vorsatz und wissentliche Pflichtverletzung",
+          "paragraphs": [
+            "Ausgeschlossen sind Ansprüche gegen diejenige versicherte Person, die den Schaden vorsätzlich und widerrechtlich herbeigeführt oder die ihr konkret obliegende Pflicht wissentlich verletzt hat. Auf eine wissentliche Pflichtverletzung kann die Leistungsablehnung nach dieser Ziffer gestützt werden, wenn die Pflichtkenntnis und der bewusste Verstoß für die betroffene Person rechtskräftig festgestellt sind oder sie diese Tatsachen in einer eigenen ausdrücklichen schriftlichen Erklärung anerkannt hat. Gesetzliche Leistungsausschlüsse bleiben unberührt.",
+            "Bis zur Klärung kann der Versicherer Abwehrkosten unter Vorbehalt bevorschussen. Ist ein Ausschluss nach dieser Ziffer endgültig nachgewiesen, kann der Versicherer Rückzahlung des auf den ausgeschlossenen Anspruch entfallenden Vorschusses verlangen. Betreffen Anspruch und Abwehr versicherte und nicht versicherte Umstände, sind die jeweils verursachten Kosten nach ihrer Zuordnung abzurechnen. Lassen sich Kosten nicht unmittelbar zuordnen, stimmen Versicherer und versicherte Person die Aufteilung anhand der gebotenen Verteidigungsmaßnahmen ab."
+          ]
+        },
+        {
+          "heading": "Personenbezogene Zurechnung",
+          "paragraphs": [
+            "Für den Ausschluss nach Ziffer 5 wird das Wissen oder Verhalten einer anderen versicherten Person der betroffenen versicherten Person nicht allein wegen ihrer Stellung im Unternehmen zugerechnet. Die tatsächliche Weitergabe einer konkreten Information an die betroffene Person und ihre eigene Reaktion sind gesondert festzustellen.",
+            "Für vorvertragliche Angaben zum Antrag werden der Versicherungsnehmerin die Informationen der von ihr mit Antragstellung oder Vertragsverhandlungen betrauten Personen nach Maßgabe der gesetzlichen Vorschriften zugerechnet. Diese Regelung ersetzt keine Feststellung zur Kenntnis der versicherten Person von einer im Haftpflichtfall behaupteten Pflicht."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "18_Nachtrag_Versicherte_Funktionen.pdf",
+      "title": "Nachtrag 02 · Einbeziehung Treasury-Leitung",
+      "issuer": "Kandelbogen Industrieversicherung AG",
+      "date": "2025-12-19",
+      "sections": [
+        {
+          "heading": "Person und versicherte Tätigkeit",
+          "paragraphs": [
+            "Zum Versicherungsschein KB-DO-26-0419 wird mit Wirkung ab 1. Januar 2026 Frau Mara Falk für die Dauer ihrer Funktion als Leiterin Treasury der Dreisamtal Sensorik GmbH als versicherte Person eingeschlossen. Der Versicherungsschutz für Frau Falk setzt keine Organstellung voraus. Die Einbeziehung ist auf die ihr dienstlich zugewiesenen Aufgaben beschränkt.",
+            "Erfasst sind die Planung von Liquidität, die Administration von Bankverbindungen und die Vorbereitung, Freigabe sowie Veranlassung betrieblicher Zahlungsvorgänge im Rahmen der Treasury-Funktion. Der Vorwurf, Frau Falk habe im Zusammenhang mit einem solchen Vorgang ihre interne Entscheidungsbefugnis überschritten, beendet den Tätigkeitsbezug für sich allein nicht. Ob tatsächlich ein Tätigkeitsbezug besteht und ob ein Ausschluss greift, wird anhand des geltend gemachten Sachverhalts und der Bedingungen geprüft."
+          ]
+        },
+        {
+          "heading": "Innenansprüche, Kosten und Selbstbehalt",
+          "paragraphs": [
+            "Die Einbeziehung gilt auch bei einem Haftpflichtanspruch der Versicherungsnehmerin wegen einer behaupteten Pflichtverletzung im Rahmen der beschriebenen Aufgaben. Frau Falk kann ihre Ansprüche auf Abwehr und Freistellung gegenüber dem Versicherer selbst geltend machen. Die Bedingungen zur Anzeige, Prüfung und Kostenabstimmung gelten entsprechend.",
+            "Für Frau Falk ist kein persönlicher Selbstbehalt vereinbart. Die Einbeziehung erhöht die gemeinsame Versicherungssumme von 4.000.000,00 EUR nicht und begründet keine besondere Teilsumme zugunsten der Treasury-Leitung. Die Ziffern 4 bis 6 der Bedingungen bleiben anwendbar.",
+            "Für die Bestandsabteilung gezeichnet. Hannah Rott, Firmenkundenvertrag."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "19_Schadenanzeige_06_10.eml",
+      "subject": "KB-DO-26-0419 · Schriftliche Inanspruchnahme Mara Falk",
+      "from_name": "Dreisamtal Sensorik GmbH · Versicherungskoordination",
+      "from_email": "risiko@dreisamtal-sensorik.example",
+      "to_email": "claims@kandelbogen-iv.example",
+      "date": "2026-10-06T09:08:00+02:00",
+      "paragraphs": [
+        "Sehr geehrte Damen und Herren, wir zeigen zu unserem Vertrag KB-DO-26-0419 die schriftliche Inanspruchnahme der im Nachtrag 02 aufgeführten Treasury-Leiterin Mara Falk an. Das Anspruchsschreiben vom 5. Oktober 2026 ist Frau Falk nach unserem Ablagevermerk am selben Tag zugegangen.",
+        "Die Anzeige betrifft fünf Zahlungen im September nach mutmaßlicher Täuschung durch Personen, die sich als Finanzchef beziehungsweise als externe Transaktionsberater ausgaben. Die Gesamtbelastung beträgt 6.500.000,00 EUR. Unsere Aufstellung berücksichtigt 1.000.000,00 EUR zugeordnete Rückführungen. Für die mit dem Schreiben erhobene Forderung setzen wir 5.500.000,00 EUR an. Die Bank- und Systemunterlagen halten wir zur Nachreichung bereit.",
+        "In der Anlage finden Sie das Meldeblatt. Bitte teilen Sie uns den Eingang und das Aktenzeichen mit. Frau Falk soll Hinweise zur Anmeldung eigener Abwehransprüche auf einem gesonderten Weg erhalten. Ihre Prozessvertretung übernimmt die Versicherungsnehmerin nicht.",
+        "Mit freundlichen Grüßen\nVersicherungskoordination"
+      ],
+      "attachments": [
+        "20_Schadenanzeige_Formblatt.pdf"
+      ]
+    },
+    {
+      "filename": "20_Schadenanzeige_Formblatt.pdf",
+      "title": "D&O-Schadenanzeige · Meldestand",
+      "issuer": "Dreisamtal Sensorik GmbH",
+      "date": "2026-10-06",
+      "sections": [
+        {
+          "heading": "Meldedaten",
+          "table": {
+            "headers": [
+              "Merkmal",
+              "Angabe der Versicherungsnehmerin"
+            ],
+            "rows": [
+              [
+                "Vertrag",
+                "KB-DO-26-0419 · Versicherungsperiode 2026"
+              ],
+              [
+                "In Anspruch genommene Person",
+                "Mara Falk · Leitung Treasury · Nachtrag 02"
+              ],
+              [
+                "Anspruchstellerin",
+                "Dreisamtal Sensorik GmbH"
+              ],
+              [
+                "Erstes Anspruchsschreiben",
+                "5. Oktober 2026 · Zugang nach Ablagevermerk am selben Tag"
+              ],
+              [
+                "Sachverhalt",
+                "Fünf Zahlungen vom 14. bis 18. September 2026 nach vorgetäuschter konzerninterner Anweisung"
+              ],
+              [
+                "Zahlungsabgänge",
+                "6.500.000,00 EUR"
+              ],
+              [
+                "Zuordenbare Rückführungen",
+                "1.000.000,00 EUR"
+              ],
+              [
+                "Bezifferter Haftpflichtanspruch",
+                "5.500.000,00 EUR Hauptforderung"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Ermittlungsstand und nachzureichende Unterlagen",
+          "paragraphs": [
+            "Die Versicherungsnehmerin stützt die Inanspruchnahme auf die behauptete Verletzung von Prüf-, Freigabe- und Eskalationspflichten. Sie macht die Forderung im eigenen Namen gegen Frau Falk geltend. Die vorliegende Anzeige enthält keine Erklärung von Frau Falk zum Haftpflichtanspruch. Eine endgültige interne Feststellung zu den Berechtigungen im Zahlungsworkflow liegt der meldenden Stelle nicht vor.",
+            "Nachzureichen sind das Anspruchsschreiben mit Zugangsnachweis, die Einzelbelege samt Rückführungsnachweisen, die Berechtigungsmatrix für den relevanten Zeitraum und die erhaltenen Nachrichten. Ermittlungsunterlagen zu anderen Personen werden erst nach Freigabe über einen geschützten Datenkanal bereitgestellt."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "21_Deckungsschreiben_Vorbehalt.pdf",
+      "title": "Schaden KB-26-1072 · Abwehrkosten unter Vorbehalt",
+      "issuer": "Kandelbogen Industrieversicherung AG",
+      "date": "2026-10-19",
+      "sections": [
+        {
+          "heading": "Adressierung und Eingang",
+          "paragraphs": [
+            "An die Dreisamtal Sensorik GmbH, Versicherungskoordination. Gesonderte Abschrift an Frau Mara Falk zur eigenen Verwendung.",
+            "Wir bestätigen den Eingang Ihrer Anzeige vom 6. Oktober 2026 zu KB-DO-26-0419. Das Anspruchsschreiben vom 5. Oktober 2026 und der Nachtrag 02 liegen uns vor. Wir führen den Vorgang unter KB-26-1072. Für die Erstprüfung behandeln wir das Anspruchsschreiben als die nach Aktenstand erste schriftliche Geltendmachung. Die Prüfung früherer Inanspruchnahmen und des versicherten Tätigkeitsbezugs ist damit nicht abgeschlossen."
+          ]
+        },
+        {
+          "heading": "Prüfungsbedarf",
+          "paragraphs": [
+            "Entscheidend ist die konkret gegen Frau Falk erhobene Forderung. Für die Abgrenzung von der unmittelbaren Belastung Ihrer Zahlungskonten benötigen wir den Haftpflichtvorwurf und die Belege je Zahlung. Bitte reichen Sie ein, wer jede Zahlung erfasst, geprüft, autorisiert und im Bankportal ausgeführt hat. Benennen Sie die damals geltenden Vorgaben und den Ablauf des benutzten Notfallwegs.",
+            "Wir prüfen außerdem, ob eine nach Ziffer 5 relevante wissentliche Pflichtverletzung vorliegt. Eine Abweichung von einer Richtlinie reicht uns dafür derzeit nicht aus. Von Bedeutung sind die Frau Falk nachweislich bekannte konkrete Pflicht, die tatsächlich wahrgenommenen Warnungen und ihr Handlungsspielraum im jeweiligen Zahlungszeitpunkt. Mit diesem Schreiben machen wir keinen endgültigen Leistungsausschluss geltend."
+          ]
+        },
+        {
+          "heading": "Vorschuss und weiteres Verfahren",
+          "paragraphs": [
+            "Wir geben für die gebotene arbeitsgerichtliche und außergerichtliche Abwehr sowie die fallbezogene technische Auswertung einen Vorschussrahmen von bis zu 120.000,00 EUR nach Vorlage eines Kostenplans und separater Rechnungsaufstellung frei. Die vorläufige Freigabe enthält weder eine Bestätigung der geltend gemachten Haftung noch eine Freistellungszusage. Wir buchen tatsächlich ausgezahlte Beträge zunächst auf das Jahresaggregat. Die endgültige Anrechenbarkeit und eine nach Ziffer 5 mögliche Rückforderung bleiben vorbehalten.",
+            "Bitte reichen Sie gerichtliche Unterlagen und Fristen unmittelbar nach Zugang ein. Wir haben keine Weisung erteilt, einen bestimmten Prozess zu führen. Frau Falk bleibt die Abstimmung mit ihrer eigenen Prozessbevollmächtigten vorbehalten. Die Verteidigung der Versicherungsnehmerin ist Gegenstand dieses Vorschusses nur, soweit die Kosten ausdrücklich gesondert freigegeben werden. Eine solche Freigabe liegt derzeit nicht vor.",
+            "Gezeichnet. Sibel Aydin, Schadenprüfung Financial Lines."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "22_Aggregatkonto_06_11.pdf",
+      "title": "Aggregatkonto 2026 · Buchungsstand",
+      "issuer": "Kandelbogen Industrieversicherung AG",
+      "date": "2026-11-06",
+      "sections": [
+        {
+          "heading": "Vertrag und Zeitraum",
+          "paragraphs": [
+            "Versicherungsschein KB-DO-26-0419. Periode 2026. Die folgende Übersicht weist ausgezahlte und derzeit auf den gemeinsamen Höchstbetrag gebuchte Positionen aus. Der andere Schadenfall ist aus Gründen der Vertraulichkeit ohne Personendaten bezeichnet."
+          ],
+          "table": {
+            "headers": [
+              "Buchungsdatum",
+              "Vorgang",
+              "Bewegung",
+              "Rechnerischer Stand"
+            ],
+            "rows": [
+              [
+                "01.01.2026",
+                "Höchstbetrag Periode 2026",
+                "4.000.000,00 EUR",
+                "4.000.000,00 EUR"
+              ],
+              [
+                "31.08.2026",
+                "Anderer Versicherungsfall · Freistellung tatsächlich gezahlt",
+                "−750.000,00 EUR",
+                "3.250.000,00 EUR"
+              ],
+              [
+                "26.10.2026",
+                "KB-26-1072 · erster Abwehrkostenvorschuss ausgezahlt",
+                "−60.000,00 EUR",
+                "3.190.000,00 EUR"
+              ],
+              [
+                "04.11.2026",
+                "KB-26-1072 · weiterer Abwehrkostenvorschuss ausgezahlt",
+                "−60.000,00 EUR",
+                "3.130.000,00 EUR"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Auskunftsgrenzen",
+          "paragraphs": [
+            "Die beiden Vorschüsse zu KB-26-1072 sind unter Vorbehalt ausgezahlt und vorläufig auf den Höchstbetrag gebucht. Rückzahlungen, Korrekturen und weitere Zahlungen können den ausgewiesenen Stand verändern. Interne Reserven sind in der Tabelle nicht enthalten. Für KB-26-1072 wurde bis zum Stichtag keine Entschädigung an die Anspruchstellerin ausgezahlt.",
+            "Die verbleibende Summe ist ein rechnerischer Stichtagswert für sämtliche Ansprüche der Periode. Sie ist weder eine Einzelreservierung für Frau Falk noch eine Freistellungszusage für den Haftpflichtanspruch der Dreisamtal Sensorik GmbH.",
+            "Gezeichnet. Sibel Aydin, Schadenprüfung Financial Lines."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "23_Deckungsbegehren_Falk.docx",
+      "title": "Deckungsbegehren der versicherten Person",
+      "issuer": "Riedmüller & März · Rechtsanwälte",
+      "date": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Adressat und Vertretung",
+          "paragraphs": [
+            "An die Kandelbogen Industrieversicherung AG, Schadenprüfung Financial Lines, zu Händen Frau Sibel Aydin.",
+            "Zu KB-DO-26-0419 und KB-26-1072. Wir vertreten Frau Mara Falk. Unsere Mandantin macht als im Nachtrag 02 bezeichnete versicherte Person ihre vertraglichen Ansprüche auf Abwehr und gegebenenfalls Freistellung geltend. Dieses Schreiben wird nach dem heutigen Gütetermin vor dem Arbeitsgericht Freiburg im Breisgau, 4 Ca 317/26, übersandt."
+          ]
+        },
+        {
+          "heading": "Abwehrschutz und Entscheidungsvorbehalt",
+          "paragraphs": [
+            "Der gegen unsere Mandantin erhobene Haftpflichtanspruch stützt sich gerade auf die ihr übertragene Treasury-Funktion. Die streitige Benutzung eines Ausweichwegs bei der Abwicklung der Zahlungen ändert aus unserer Sicht nichts an der Einordnung als behauptete betriebliche Pflichtverletzung. Nach Aktenstand hat die Arbeitgeberin den Anspruch am 5. Oktober 2026 erstmals schriftlich geltend gemacht und am Folgetag angezeigt. Die Verfahrensunterlagen konkretisieren die Inanspruchnahme.",
+            "Unsere Mandantin bestreitet, eine konkrete Prüf- oder Freigabepflicht wissentlich verletzt zu haben. Die Arbeitgeberin und unsere Mandantin schildern den Einsatz des Notfallwegs unterschiedlich. Vorhandene Protokolle zu Genehmigung und Warnung müssen für jede Zahlung ausgewertet werden. Es liegt weder eine rechtskräftige Feststellung noch eine eigene schriftliche Erklärung unserer Mandantin vor, mit der sie Pflichtkenntnis und bewussten Verstoß anerkennt.",
+            "Wir bitten um schriftliche Bestätigung des weiteren Abwehrschutzes und um Abstimmung des nächsten Kostenplans. Für den Fall, dass ein von der Police erfasster Haftpflichtanspruch mit bindender Wirkung festgestellt wird, beantragen wir Freistellung im Umfang des geschuldeten Versicherungsschutzes. Unsere Mandantin erkennt weder eine Haftung noch eine bestimmte Haftungsquote an."
+          ]
+        },
+        {
+          "heading": "Auskunft zum Höchstbetrag",
+          "paragraphs": [
+            "Bitte erläutern Sie die Grundlage, nach der die beiden Vorschüsse vorläufig auf das Jahresaggregat gebucht wurden. Bitte teilen Sie mit, welche Positionen bis heute tatsächlich ausgezahlt sind und ob sich seit dem Buchungsstand vom 6. November 2026 weitere Bewegungen ergeben haben. Wir bitten um getrennte Angaben zur vorläufigen Buchung, zur endgültigen Kostenanrechnung und zu einer etwaigen lediglich internen Reserve.",
+            "Wir bitten außerdem um Bestätigung, dass der Nachtrag 02 keinen persönlichen Selbstbehalt vorsieht. Für eine Zahlung an die Arbeitgeberin, ein Anerkenntnis oder eine Abtretung haben wir derzeit keinen Auftrag. Bitte richten Sie weitere Korrespondenz zu den Ansprüchen von Frau Falk unmittelbar an unsere Kanzlei.",
+            "Dr. Cora Riedmüller, Rechtsanwältin"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "24_Schadensersatzverlangen_05_10.pdf",
+      "title": "Geltendmachung von Schadensersatz",
+      "issuer": "Wendel | Lenz Rechtsanwälte · Freiburg",
+      "date": "2026-10-05",
+      "sections": [
+        {
+          "heading": "Adressatin und Vertretung",
+          "paragraphs": [
+            "An Frau Mara Falk, Auenackerweg 37, 79110 Freiburg im Breisgau. Unser Zeichen WL 26-482. Übermittlung als Anlage zur heutigen E-Mail.",
+            "Sehr geehrte Frau Falk, wir vertreten die Dreisamtal Sensorik GmbH, Am Sensorbogen 18, 79111 Freiburg im Breisgau. Unsere Mandantin macht gegen Sie Schadensersatz aus den fünf Zahlungen der Vorgangsgruppe TK-2026-0918 geltend."
+          ]
+        },
+        {
+          "heading": "Beträge und Rückflüsse",
+          "paragraphs": [
+            "Wir rechnen die bis zum 29. September bestätigten Rückflüsse zahlungsbezogen an. Die unten ausgewiesenen Beträge beruhen auf dem Buchungsstand vom 30. September. Weitere Rückflüsse werden nach dem Eingang berücksichtigt."
+          ],
+          "table": {
+            "headers": [
+              "Zahlung",
+              "Valuta",
+              "Abgang",
+              "Rückfluss",
+              "Anspruch"
+            ],
+            "rows": [
+              [
+                "T01",
+                "14.09.2026",
+                "480.000 EUR",
+                "300.000 EUR",
+                "180.000 EUR"
+              ],
+              [
+                "T02",
+                "15.09.2026",
+                "920.000 EUR",
+                "0 EUR",
+                "920.000 EUR"
+              ],
+              [
+                "T03",
+                "16.09.2026",
+                "1.550.000 EUR",
+                "450.000 EUR",
+                "1.100.000 EUR"
+              ],
+              [
+                "T04",
+                "17.09.2026",
+                "1.700.000 EUR",
+                "0 EUR",
+                "1.700.000 EUR"
+              ],
+              [
+                "T05",
+                "18.09.2026",
+                "1.850.000 EUR",
+                "250.000 EUR",
+                "1.600.000 EUR"
+              ],
+              [
+                "Summe",
+                "",
+                "6.500.000 EUR",
+                "1.000.000 EUR",
+                "5.500.000 EUR"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Grund und Zahlungsfrist",
+          "paragraphs": [
+            "Nach dem bisherigen Ermittlungsstand haben Sie den angeblichen Auftrag der Konzernfinanzleitung ohne unabhängige Bestätigung angenommen. Bei den Zahlungen T02 bis T05 haben Sie überdies den technischen Notweg genutzt. Unsere Mandantin hat bislang keine sachliche Zweitfreigabe für diese Aufträge gefunden. Sie sieht darin eine Verletzung der Treasury-Richtlinie und Ihrer arbeitsvertraglichen Pflichten.",
+            "Bitte zahlen Sie 5.500.000,00 EUR bis einschließlich 16. Oktober 2026 auf das Ihnen bekannte Geschäftskonto der Gesellschaft, Referenz TK-2026-0918. Wir bitten zugleich um Mitteilung, ob und wann Ihnen die D&O-Unterlagen vorliegen. Die Gesellschaft wird den Vorgang dem Versicherer zur Prüfung melden. Mit diesem Schreiben wird keine Aussage über die Deckung getroffen.",
+            "Mit freundlichen Grüßen\nDr. Bastian Wendel, Rechtsanwalt"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "25_Mail_Geltendmachung_05_10.eml",
+      "subject": "Schadensersatzverlangen der Dreisamtal Sensorik GmbH · TK-2026-0918",
+      "from_name": "Dr. Bastian Wendel",
+      "from_email": "bastian.wendel@wendel-lenz.example",
+      "to_email": "mara.falk@falk.example",
+      "date": "2026-10-05T15:34:00+02:00",
+      "paragraphs": [
+        "Sehr geehrte Frau Falk, anbei erhalten Sie das heutige Schreiben für unsere Mandantin. Bitte bestätigen Sie kurz, ob die PDF-Datei lesbar angekommen ist.",
+        "Die darin genannte Zahlungsfrist läuft bis einschließlich 16. Oktober 2026. Zu ergänzenden Unterlagen können Sie uns unter dem im Schreiben angegebenen Aktenzeichen kontaktieren.",
+        "Mit freundlichen Grüßen\nDr. Bastian Wendel"
+      ],
+      "attachments": [
+        "24_Schadensersatzverlangen_05_10.pdf"
+      ]
+    },
+    {
+      "filename": "26_Falk_Antwort_Regress.eml",
+      "subject": "AW: Schadensersatzverlangen vom 5. Oktober",
+      "from_name": "Mara Falk",
+      "from_email": "mara.falk@falk.example",
+      "to_email": "bastian.wendel@wendel-lenz.example",
+      "date": "2026-10-12T10:18:00+02:00",
+      "paragraphs": [
+        "Sehr geehrter Herr Dr. Wendel, das Schreiben war für mich bereits am 5. Oktober lesbar. Ich erkenne die Forderung nicht an. Der erste Auftrag kam im Zusammenhang mit BERGFINK über einen Anruf, der mir mit der Nummer von Herrn Kern angezeigt wurde. Ich hielt ihn damals für echt. Die Zahlung lief über Johanna Beck und mich im regulären Bankkanal.",
+        "Bei den vier anderen Aufträgen hatte ich Zugriff auf den Notweg. Damit behaupte ich nicht, dass eine weitere Freigabe erteilt wurde. Für mich war der Weg betrieblich vorgesehen und nicht nur eine Hintertür. Was im Risikoteam am 16. September gemeldet wurde, erfuhr ich erst bei der Aufarbeitung. Bitte sichern Sie die Originale der Bank- und Systemprotokolle sowie die Nachrichten vom 16. September.",
+        "Bitte geben Sie mir die vollständigen D&O-Unterlagen und die Schadenreferenz, damit ich meine Rechte selbst wahrnehmen kann. Ich habe keine Erklärung abgegeben, die den Umfang einer Deckung anerkennt. Meine weitere Korrespondenz erfolgt nach anwaltlicher Beratung.",
+        "Mit freundlichen Grüßen\nMara Falk"
+      ],
+      "attachments": [],
+      "reply_to": "25_Mail_Geltendmachung_05_10.eml"
+    },
+    {
+      "filename": "27_Zahlungsklage_ArbG_Freiburg.pdf",
+      "title": "Klage auf Ersatz von fünf Zahlungsabgängen",
+      "issuer": "Wendel | Lenz Rechtsanwälte · Freiburg",
+      "date": "2026-10-22",
+      "sections": [
+        {
+          "heading": "Rubrum und Klageantrag",
+          "paragraphs": [
+            "An das Arbeitsgericht Freiburg. Einreichung über beA. Unser Zeichen WL 26-482.",
+            "Dreisamtal Sensorik GmbH, Am Sensorbogen 18, 79111 Freiburg im Breisgau, vertreten durch die Geschäftsführerin Dr. Ulrike Staudt, Klägerin, Prozessbevollmächtigte Wendel | Lenz Rechtsanwälte, gegen Mara Falk, Auenackerweg 37, 79110 Freiburg im Breisgau, Beklagte.",
+            "Namens der Klägerin erheben wir Klage und beantragen, die Beklagte zur Zahlung von 5.500.000,00 EUR nebst Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 17. Oktober 2026 zu verurteilen. Gegenstand sind die fünf in Abschnitt 3 jeweils einzeln bezeichneten Schadensbeträge."
+          ]
+        },
+        {
+          "heading": "Arbeitsverhältnis und Zahlungsorganisation",
+          "paragraphs": [
+            "Die Beklagte ist seit 1. Oktober 2018 am Standort Freiburg beschäftigt und leitet seit 1. Januar 2024 das Treasury. Sie ist Arbeitnehmerin ohne Geschäftsführerstellung, Prokura oder selbständige Personalentscheidungsbefugnis. Ihr monatliches Bruttofestentgelt beträgt 11.800,00 EUR. Die variable Vergütung ist nach den Entgeltunterlagen mit 15 Prozent als Zielgröße vorgesehen und nicht garantiert. Maßgeblich für die Aufgaben und die Zahlungswege sind Arbeitsvertrag, Funktionsbeschreibung und Treasury-Richtlinie.",
+            "Unstreitig bestanden der reguläre Freigabeweg und ein technischer Notweg. Die Klägerin bestreitet, dass dessen Aktivierung eine Weisung zur Ausführung vertraulicher Großzahlungen ohne unabhängige sachliche Prüfung enthielt. Bei den ersten Kontakten wurde der echte Projektcode BERGFINK genannt. Der angebliche Auftrag zu den Zahlungen stammte nach der bisherigen Forensik dennoch nicht von CFO Leonhard Kern.",
+            "Beweis zum tatsächlichen Inhalt eines etwaigen Auftrags und zu den Rückrufmöglichkeiten bietet die Klägerin durch das Zeugnis des Herrn Kern an. Zum Ablauf der ersten Zahlung und zum üblichen Zusammenspiel von Anlage und Freigabe wird das Zeugnis von Johanna Beck angeboten. Beide sind über die Klägerin zu laden."
+          ]
+        },
+        {
+          "heading": "Einzelne Zahlungsabgänge und Schadenshöhe",
+          "paragraphs": [
+            "Die Klägerin bezeichnet für jeden Schaden den Bankvorgang und die bereits gutgeschriebene Rückzahlung. Bank- und ERP-Protokoll sowie die Rückflussbestätigung dokumentieren die Zuordnung. Der derzeitige Nettobetrag je Zahlung ist die Differenz aus Abgang und Rückfluss. Die Klägerin behauptet keine zusätzliche Schadensposition für dieselben Beträge."
+          ],
+          "table": {
+            "headers": [
+              "Zahlung",
+              "Valuta",
+              "Abgang",
+              "Rückfluss",
+              "Anspruch"
+            ],
+            "rows": [
+              [
+                "T01",
+                "14.09.2026",
+                "480.000 EUR",
+                "300.000 EUR",
+                "180.000 EUR"
+              ],
+              [
+                "T02",
+                "15.09.2026",
+                "920.000 EUR",
+                "0 EUR",
+                "920.000 EUR"
+              ],
+              [
+                "T03",
+                "16.09.2026",
+                "1.550.000 EUR",
+                "450.000 EUR",
+                "1.100.000 EUR"
+              ],
+              [
+                "T04",
+                "17.09.2026",
+                "1.700.000 EUR",
+                "0 EUR",
+                "1.700.000 EUR"
+              ],
+              [
+                "T05",
+                "18.09.2026",
+                "1.850.000 EUR",
+                "250.000 EUR",
+                "1.600.000 EUR"
+              ],
+              [
+                "Summe",
+                "",
+                "6.500.000 EUR",
+                "1.000.000 EUR",
+                "5.500.000 EUR"
+              ]
+            ]
+          },
+          "page_break_before": true
+        },
+        {
+          "heading": "Pflichtwidrigkeit, Verschulden und Warnhinweis",
+          "paragraphs": [
+            "Die Klägerin stützt die Ansprüche auf §§ 280 Abs. 1, 241 Abs. 2 BGB in Verbindung mit dem Arbeitsvertrag. Sie trägt das Vertretenmüssen nach § 619a BGB vor. Bei T01 unterblieb ein Rückruf über die im Unternehmen hinterlegte Nummer. Die Anlage im regulären Kanal belegte nur den technischen Lauf. Sie ersetzte weder die Prüfung eines neuen Empfängers noch die Herkunftsprüfung des Auftrags.",
+            "Spätestens vor T02 hätte die Beklagte den ungewöhnlichen Wechsel der Kommunikation, die Geheimhaltungsvorgabe und die fehlende Dokumentation einer zweiten Sachfreigabe zusammen bewerten müssen. T03 vergrößerte den Abfluss erneut, bevor der interne Warnhinweis einging. Bei T04 und T05 setzte die Beklagte die Reihe ohne Rückfrage fort. Die Klägerin hält den Pflichtenverstoß bei T01 und jedenfalls den bei T02 bis T05 für gravierend. Für jede Zahlung wäre eine Rückfrage bei Kern oder der formal benannten Vertretung geeignet gewesen, die Fälschung vor Bankfreigabe aufzudecken.",
+            "Die interne Weiterleitung am 16. September wird nicht bestritten. Die Klägerin macht geltend, die dortige Nachricht habe zunächst einen Prüfbedarf, aber noch keine bestätigte Fälschung ausgewiesen. Sie bestreitet, dass allein ein organisatorischer Rückstand den eigenständigen Beitrag der Beklagten aufhebt. Welche Sofortmaßnahmen vor T04 und T05 technisch verfügbar waren und wer sie auslösen durfte, ist durch das Zeugnis von Svenja Roth und Jakob Mertens, beide zu laden über die Klägerin, sowie durch die Ticket- und Bankdaten zu klären."
+          ]
+        },
+        {
+          "heading": "Innerbetrieblicher Schadensausgleich, Versicherung und Zinsen",
+          "paragraphs": [
+            "Die Zahlungen wurden im betrieblichen Funktionsbereich veranlasst. Die Klägerin hält eine Kürzung im Ergebnis für nicht gerechtfertigt. Sie beruft sich auf die Wiederholung der Verstöße, die besondere Stellung der Beklagten und die Möglichkeit versicherter Freistellung. Die Beklagte ist im Nachtrag zur D&O-Police KB-DO-26-0419 ausdrücklich genannt. Die Meldung vom 6. Oktober und das Schreiben vom 19. Oktober zeigen den laufenden Deckungsvorgang. Das Versicherungsunternehmen hat bis heute keine Zahlung auf den geltend gemachten Hauptschaden zugesagt. Die Klägerin verlangt keine Entscheidung gegen das Versicherungsunternehmen. Sie stützt ihre Auffassung zur möglichen Berücksichtigung einer arbeitgeberfinanzierten Deckung auf LAG Köln, Urteil vom 31. Juli 2026, 8 SLa 603/25, Rn. 428–439. Die Reichweite dieser Erwägung für den vorliegenden Fall ist streitig.",
+            "Die Beklagte hat das Verlangen vom 5. Oktober erhalten und am 12. Oktober zurückgewiesen. Die Klägerin berechnet Zinsen nach §§ 286, 288 Abs. 1 BGB erst nach Ablauf der eingeräumten Zahlungsfrist. Etwaige weitere tatsächliche Erlöse aus dem Rückruf oder vom Empfänger werden offengelegt und in die Berechnung eingestellt.",
+            "Dr. Bastian Wendel, Rechtsanwalt"
+          ],
+          "page_break_before": true
+        }
+      ]
+    },
+    {
+      "filename": "28_Ladung_zur_Gueteverhandlung.pdf",
+      "title": "Ladung zur Güteverhandlung",
+      "issuer": "Arbeitsgericht Freiburg · 4. Kammer",
+      "date": "2026-10-27",
+      "sections": [
+        {
+          "heading": "Verfahren und Termin",
+          "paragraphs": [
+            "4 Ca 317/26. Dreisamtal Sensorik GmbH gegen Mara Falk wegen Schadensersatzes aus dem Arbeitsverhältnis.",
+            "Termin zur Güteverhandlung wird bestimmt auf Montag, 9. November 2026, 09.30 Uhr, im Dienstgebäude des Arbeitsgerichts Freiburg, Habsburgerstraße 103, 79104 Freiburg im Breisgau, Sitzungssaal nach Aushang. Der Termin findet vor dem Vorsitzenden statt. Bringen Sie dieses Schreiben mit.",
+            "Die Klage vom 22. Oktober 2026 ist der Beklagten mit der Ladung zuzustellen. An die Prozessvertretung wird nach ihrer Anzeige elektronisch zugestellt. Nach Ablauf der Sitzung wird der weitere Verfahrensgang mitgeteilt."
+          ]
+        },
+        {
+          "heading": "Erscheinen und Vorbereitung",
+          "paragraphs": [
+            "Das persönliche Erscheinen der Beklagten und für die Klägerin das Erscheinen ihrer Geschäftsführerin wird zur Sachverhaltsaufklärung und Vergleichserörterung angeordnet. Die gesetzlichen Möglichkeiten einer sachkundigen und zum Vergleichsabschluss ermächtigten Vertretung bleiben unberührt. Verhinderungen sind unverzüglich unter Angabe des Grundes mitzuteilen.",
+            "Bitte halten Sie für die Verhandlung die Aufstellung der Zahlungen und Rückflüsse sowie die vorgerichtliche Korrespondenz bereit. Es wird derzeit keine abschließende Frist zur Klageerwiderung gesetzt. Sie können schriftlich vortragen.",
+            "Dr. Jorin Eckbert von Halden, Richter am Arbeitsgericht"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "29_Klageerwiderung_Falk.docx",
+      "title": "Klageerwiderung und Anträge zum weiteren Verfahren",
+      "issuer": "Riedmüller & März · Rechtsanwälte",
+      "date": "2026-11-05",
+      "sections": [
+        {
+          "heading": "Rubrum und Antrag",
+          "paragraphs": [
+            "An das Arbeitsgericht Freiburg, 4 Ca 317/26. Einreichung über beA. Unser Zeichen RM 26-197. Dreisamtal Sensorik GmbH gegen Mara Falk.",
+            "Namens und in Vollmacht der Beklagten beantragen wir, die Klage abzuweisen. Hilfsweise sind ein etwaiger Anspruch und dessen Höhe für jede Zahlung gesondert unter Berücksichtigung der betrieblichen Veranlassung, des jeweiligen Verschuldens und der Beiträge der Klägerin festzustellen. Eine Schadens- oder Haftungsquote wird nicht anerkannt."
+          ]
+        },
+        {
+          "heading": "Erste Zahlung und nachfolgende Zahlungsserie",
+          "paragraphs": [
+            "Die Beklagte bestreitet nicht ihre technische Mitwirkung. T01 lief über den üblichen Kanal. Frau Beck legte den Auftrag an, die Beklagte gab ihn frei. Die Beklagte hörte eine vertraut klingende Stimme, sah die bisher bekannte Rufnummer und erhielt den zutreffenden Projektcode. Sie räumt ein, dass sie die Nummer nicht selbst aus dem internen Verzeichnis anwählte. Ob ihr zu diesem Zeitpunkt die Fälschung in einem gesteigerten Grad vorwerfbar war, ist damit nicht entschieden. Beweis zu Anruf und Begleitumständen: gesicherte Geräte- und Verbindungsdaten, Anhörung der Beklagten, Zeugnis Johanna Beck zum Zahlungsablauf.",
+            "T02 und T03 wurden über den Notweg ausgeführt. Die Beklagte beruft sich auf die gelebte Handhabung im Treasury, nicht auf eine dokumentierte Ausnahmegenehmigung für diesen Empfänger. Der Notweg lief technisch getrennt vom ERP und war der Beklagten betrieblich zugewiesen. Eine vorhandene Freischaltung sagt für sich weder aus, wer den Auftrag sachlich freigegeben hat, noch aus, dass sämtliche Kontrollen entfallen durften. Die Klägerin soll die Unterlagen zu vorangegangenen Notwegfällen vollständig vorlegen.",
+            "Die Beklagte bestreitet, dass sie jede Zahlung grob fahrlässig veranlasst hat. Das Auftreten der angeblichen Auftraggeber änderte sich. Für jeden Zeitpunkt ist zu klären, welche Nachricht und welche Anlage die Beklagte vor der Freigabe tatsächlich kannte. Ein am 30. September gezogener Export belegt für sich keinen früheren Kenntnisstand. Die Klägerin trägt die Darlegungs- und Beweislast nach § 619a BGB."
+          ]
+        },
+        {
+          "heading": "Reaktion des Unternehmens und Schadensminderung",
+          "paragraphs": [
+            "Die Risikomeldung vom 16. September ging nach T03, aber vor T04 und T05 ein. Die CFO-Vertretung wurde um 12.43 Uhr unterrichtet. Um 13.08 Uhr ist eine Rückfrage dokumentiert. Die Klägerin hat im Anschluss weder den Notweg gesperrt noch die Bank über die verdächtige Zahlungsserie unterrichtet. Die Beklagte erhielt aus der internen Eskalation keine Sperranweisung.",
+            "Als rechtzeitige Maßnahme kamen jedenfalls eine vorläufige Sperre für den Notweg, ein Kontakt zur Bank und eine direkte Warnung an das Treasury in Betracht. Die jeweiligen Zuständigkeiten, Zeiten und technischen Folgen sind anhand des Tickets und der Bankunterlagen zu ermitteln. Bei T04 und T05 sind diese Umstände für einen Beitrag der Klägerin nach § 254 BGB und für den innerbetrieblichen Schadensausgleich erheblich. Die Beklagte beantragt, Svenja Roth und Jakob Mertens zum Zeitpunkt der Kenntnis, zu ihren Befugnissen und zu unterbliebenen Sicherungsmaßnahmen zu hören.",
+            "Die rechnerischen Rückflüsse von 1.000.000,00 EUR werden nach dem mitgeteilten Buchungsstand nicht bestritten. Bestritten bleibt, dass keine weiteren Ansprüche gegen Empfänger oder Dritte durchsetzbar oder weitere Rückzahlungen in Aussicht sind. Wir bitten um Offenlegung der Empfänger-, Rückruf- und Abtretungsunterlagen. Die rechtliche Bedeutung einer Abtretung von Ersatzansprüchen und eines Zug-um-Zug-Vorbehalts bleibt vorbehalten."
+          ]
+        },
+        {
+          "heading": "Haftungsabwägung und offene D&O-Deckung",
+          "paragraphs": [
+            "Für den innerbetrieblichen Schadensausgleich kommt es auf den konkreten Auftrag, die Schadensträchtigkeit der Tätigkeit, die betrieblichen Kontrollen, die individuellen Beiträge und die persönlichen Verhältnisse an. Vergütung und eine nicht garantierte Bonuschance erlauben keinen Rückschluss, die Beklagte könne einen Millionenbetrag wirtschaftlich tragen. Eine feste Obergrenze aus Monatsgehältern wird nicht behauptet. Maßgeblich ist die Abwägung im Einzelfall. Vgl. BAG, Urteil vom 28. Oktober 2010, 8 AZR 418/09, und BAG, Urteil vom 15. November 2012, 8 AZR 705/11.",
+            "Ein etwaiger Freistellungsanspruch setzt einen versicherten Haftpflichtanspruch voraus. Das Abwehrinteresse wird getrennt behandelt. Nach dem Trennungsprinzip bestimmt sich die Haftung nach Arbeitsrecht, die Deckung nach dem Versicherungsvertrag. Eine gesetzlich vorgeschriebene Haftpflichtversicherung lässt sich nicht mit einer freiwilligen D&O-Police mit geteiltem Aggregat und streitigen Ausschlüssen gleichsetzen. Nach dem Schreiben vom 19. Oktober prüft Kandelbogen die Deckung unter Vorbehalt. Das Jahresaggregat von vier Millionen Euro steht weder vollständig zur Verfügung noch ist die Auszahlung des rechnerischen Rests gesichert. Die Position zu Verteidigungskosten ist von einer Freistellung für den Hauptanspruch zu unterscheiden. Die Erwägungen des LAG Köln in 8 SLa 603/25 tragen bei dieser Sachlage keine abstrakte Vollhaftung. Zu der Entscheidung ist in der amtlichen Veröffentlichung das Revisionsverfahren BAG 8 AZR 164/26 verzeichnet.",
+            "Auch wenn das Gericht eine wirtschaftlich verlässliche Entlastung in die Abwägung einbezieht, ist nur deren konkret belegtes Ausmaß von Belang. Eine allein aus der Police hergeleitete Vollhaftung setzte die Beklagte dem Teil der Forderung aus, für den das Unternehmen gerade keine Freistellung nachgewiesen hat. Die Klägerin möge insbesondere den vollständigen Nachtrag zur versicherten Funktion und den aktuellen Stand des Jahresaggregats vorlegen. Der Versicherer ist nicht Partei dieses Rechtsstreits.",
+            "Dr. Cora Riedmüller, Rechtsanwältin"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "30_Protokoll_Gueteverhandlung_09_11.pdf",
+      "title": "Protokoll der Güteverhandlung vom 9. November 2026",
+      "issuer": "Arbeitsgericht Freiburg · 4. Kammer",
+      "date": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Aufruf und Beteiligte",
+          "paragraphs": [
+            "4 Ca 317/26. Öffentlich verhandelt in Freiburg im Breisgau am 9. November 2026. Beginn 09.30 Uhr. Vorsitzender Richter am Arbeitsgericht Dr. Jorin Eckbert von Halden. Als Urkundsbeamtin der Geschäftsstelle Jule Ketterer.",
+            "Für die Klägerin erscheinen Geschäftsführerin Dr. Ulrike Staudt und Rechtsanwalt Dr. Bastian Wendel. Die Beklagte Mara Falk erscheint persönlich mit Rechtsanwältin Dr. Cora Riedmüller. Der Versicherer ist nicht geladen und nicht beteiligt."
+          ]
+        },
+        {
+          "heading": "Güteerörterung",
+          "paragraphs": [
+            "Die Parteien erörtern den Stand der Rückflüsse und die zeitliche Trennung der Zahlungen. Die Klägerin bestätigt, dass nach ihrem Kenntnisstand keine Deckungsleistung auf die Hauptforderung geflossen ist. Sie hält an der Forderung fest. Die Beklagtenvertreterin verweist auf ihre Klageerwiderung und verlangt einen konkreten Vortrag zur Zeit zwischen Risikomeldung und den letzten beiden Zahlungen.",
+            "Die Beklagte erklärt persönlich, sie habe die erste angezeigte Nummer für die von Herrn Kern gehalten und im Telefonverzeichnis nicht erneut abgeglichen. Die Klägerin behauptet, ihre Richtlinie habe gerade bei einem solchen Auftrag einen Rückruf verlangt. Die Beklagte erklärt weiter, sie habe die E-Mail des Risikoteams vor T04 und T05 nicht gesehen. Der Vorsitzende weist darauf hin, dass die Frage, wer wann Kenntnis hatte und welche Maßnahme möglich war, noch nicht aufgeklärt ist.",
+            "Der Vorsitzende erörtert einen Vergleich auf der Grundlage aktualisierter Rückflüsse und einer belastbaren Stellungnahme des Versicherers. Die Klägerin sieht sich gegenwärtig zu einer Bezifferung eines Vergleichsbetrages nicht in der Lage. Die Beklagte lehnt ein persönliches Schuldanerkenntnis ab. Ein Vergleich kommt nicht zustande."
+          ]
+        },
+        {
+          "heading": "Weiteres Verfahren",
+          "paragraphs": [
+            "Der Vorsitzende schließt die Güteverhandlung um 10.04 Uhr. Eine Beweisaufnahme findet nicht statt. Der Kammertermin und weitere Auflagen werden durch gesonderte Verfügung bekannt gegeben.",
+            "Dr. Jorin Eckbert von Halden, Vorsitzender. Jule Ketterer, Urkundsbeamtin der Geschäftsstelle."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "31_Verfuegung_Kammertermin_und_Auflagen.pdf",
+      "title": "Verfügung zur Vorbereitung des Kammertermins",
+      "issuer": "Arbeitsgericht Freiburg · 4. Kammer",
+      "date": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Termin und vorbereitende Auflagen",
+          "paragraphs": [
+            "4 Ca 317/26. Kammertermin wird auf Dienstag, 12. Januar 2027, 09.15 Uhr, im Arbeitsgericht Freiburg bestimmt. Ladungen sind gesondert auszufertigen. Die folgenden Maßnahmen dienen der Vorbereitung nach § 56 ArbGG. Über Erheblichkeit, Beweislast und Beweisaufnahme entscheidet die Kammer nach dem weiteren Vortrag.",
+            "Die Klägerin erhält Gelegenheit zur Ergänzung ihres Vortrags bis 23. November 2026. Sie soll für jede der fünf Zahlungen die einschlägige Freigaberegel, die ihr bekannten Kommunikationsbelege vor Freigabe, den jeweiligen Abgang und die bereits realisierten Rückflüsse angeben. Für den 16. September soll sie aufschlüsseln, wann die Meldung welche Person erreichte, wer eine Sperre veranlassen konnte und ab wann diese bei Bank oder ERP gegriffen hätte."
+          ]
+        },
+        {
+          "heading": "Unterlagen und Deckungsstand",
+          "paragraphs": [
+            "Die Klägerin soll das vollständige Ticket zu TK-2026-0918 einschließlich Änderungsverlauf, den im September geltenden Stand der Treasury-Richtlinie, die Freigabeprotokolle und die Bankrückflussbelege vorlegen. Ferner soll sie die Police mit Funktionsnachtrag sowie die bisherige Korrespondenz zum Deckungsstand vorlegen, soweit sie daraus Folgerungen für die Haftungsabwägung ableitet. Die Vorlagen sind nach Zahlungsbezug und Dokumentstand zu bezeichnen.",
+            "Soweit beim Notweg die technische Berechtigung und die interne Sachfreigabe auseinanderfallen, soll die Klägerin den Unterschied für den konkreten Ablauf erläutern. Frühere Ausnahmefälle sind mit Datum, Anlass und dokumentierter Zweitkontrolle anzugeben. Zum Beweis sollen ladungsfähige Anschriften und konkrete Beweisthemen mitgeteilt werden."
+          ]
+        },
+        {
+          "heading": "Gelegenheit zur Stellungnahme",
+          "paragraphs": [
+            "Die Beklagte kann bis 7. Dezember 2026 erwidern. Sie soll insbesondere nach Zahlung und Zeitpunkt darlegen, welche Auftrags- und Empfängerinformationen ihr vorlagen, auf welche konkreten Fälle früherer Notfreigaben sie sich stützt und inwieweit sie wirtschaftliche Überforderung geltend macht. Eine pauschale Offenlegung ihrer privaten Finanzverhältnisse wird nicht angeordnet. Wenn sie sich darauf beruft, kann sie die maßgeblichen Umstände mit geeigneten, auf das Erforderliche begrenzten Unterlagen belegen.",
+            "Beide Parteien sollen mitteilen, ob zwischenzeitlich weitere Beträge zurückgeflossen sind oder sich der Deckungsstand geändert hat. Der Versicherer ist nicht Partei. Die Auflage enthält keine Entscheidung über dessen Eintrittspflicht. Der Termin bleibt von einer einvernehmlichen Lösung unberührt, solange keine anderweitige gerichtliche Mitteilung ergeht.",
+            "Dr. Jorin Eckbert von Halden, Richter am Arbeitsgericht"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "32_Falk_Mandatsmail_nach_Guete.eml",
+      "subject": "Nach der Güteverhandlung · Unterlagen und Deckung getrennt prüfen",
+      "from_name": "Mara Falk",
+      "from_email": "mara.falk@falk.example",
+      "to_email": "cora.riedmueller@riedmueller-maerz.example",
+      "date": "2026-11-09T16:37:00+01:00",
+      "paragraphs": [
+        "Liebe Frau Dr. Riedmüller, nach dem Termin möchte ich vor allem verstehen, welche der fünf Zahlungen das Gericht getrennt betrachten kann. Ich habe nie geglaubt, dass ich privat für jede fehlerhafte Überweisung in voller Höhe aufkommen müsste. Bitte prüfen Sie aber auch, welche Nachteile aus der fehlenden Rückfrage und dem Notweg entstehen. Eine Erklärung zum Anerkenntnis möchte ich derzeit nicht abgeben.",
+        "Mein Bruttofestentgelt liegt bei 11.800,00 EUR im Monat. Die 15 Prozent sind eine Zielgröße, keine Zusage. Nach meinem heutigen Stand liegen auf meinem Tagesgeldkonto 42.000 EUR und in meinem Depot rund 20.000 EUR. Ich habe kein Grundeigentum. Mein monatlicher Anteil an der Warmmiete liegt bei 1.100 EUR. Für die Betreuung und laufenden Ausgaben unseres Kindes trage ich regelmäßig rund 590 EUR monatlich. Den Ratenkredit für das Auto bediene ich selbst mit 460 EUR monatlich. Dazu kann ich die letzten drei Gehaltsabrechnungen, die Konto- und Depotübersicht, den Mietvertrag und Belege zu Betreuung und Kredit nachreichen. Bitte verwenden Sie geschwärzte Unterlagen, soweit die betreffenden Angaben für den Rechtsstreit erforderlich sind.",
+        "Ich möchte von Kandelbogen eine nachvollziehbare Auskunft dazu, ob die Deckung von der Art des Vorwurfs abhängt und ob die Verteidigungskosten das verbleibende Limit mindern. Bitte prüfen Sie auch, ob Sie meine persönlichen Deckungsinteressen gegenüber Kandelbogen im selben Mandat vertreten können oder ob dafür eine getrennte Vertretung erforderlich ist. Ich möchte nicht, dass vertrauliche Angaben aus meiner Verteidigung ohne Abstimmung an den Versicherer weitergegeben werden. Das Unternehmen soll mir außerdem den Originalverlauf des Tickets vom 16. September und die Bankdaten geben. Was im Ticket nachgetragen wurde, kann ich aus dem Ausdruck nicht erkennen.",
+        "Bitte trennen Sie bei Ihrem Entwurf die Antwort an das Gericht von den Schritten gegenüber dem Versicherer. In einem Vergleich möchte ich keine Deckungsposition aufgeben, solange nicht feststeht, wer welchen Betrag trägt. Wenn eine Zustimmung des Versicherers nötig sein kann, klären Sie das bitte vor einer verbindlichen Erklärung.",
+        "Beste Grüße\nMara Falk"
+      ],
+      "attachments": [
+        "31_Verfuegung_Kammertermin_und_Auflagen.pdf"
+      ]
+    },
+    {
+      "filename": "34_Mandatsauftrag_Falk.docx",
+      "title": "Mandatsauftrag · Regress und Versicherungsschutz",
+      "issuer": "Riedmüller & März · Arbeitsrecht",
+      "date": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Auftrag nach dem Gütetermin",
+          "paragraphs": [
+            "Mara Falk bittet nach dem Gütetermin beim Arbeitsgericht Freiburg um eine belastbare Einschätzung der Zahlungsklage. Gegenstand sind fünf einzelne Überweisungen aus September 2026 und der von Dreisamtal Sensorik nach Rückflüssen geltend gemachte Schaden. Frau Falk möchte die Verteidigung auf die Tatsachen und Belege je Zahlung stützen. Sie möchte wissen, welche Folgen eine mögliche Verurteilung für sie persönlich hätte.",
+            "Der Versicherer prüft die Freistellung noch. Die bisherige Übernahme bestimmter Abwehrkosten stellt nach dem Deckungsschreiben eine vorläufige Leistung dar. Die Versicherungsakte ist mit eigenem Auftrag und getrennten Empfängern zu bearbeiten."
+          ]
+        },
+        {
+          "heading": "Belege und Fragen zur Haftung",
+          "paragraphs": [
+            "Erstellen Sie eine Chronologie der fünf Überweisungen und der Rückflüsse. Vergleichen Sie bei jeder Zahlung die fachliche Freigabe mit der technischen Bankberechtigung. Stellen Sie fest, wann der echte Projektbezug plausibel erschien, wann weitere Warnzeichen vorlagen und welche Personen eine Sperre veranlassen konnten. Ordnen Sie zu jeder bestrittenen Behauptung Belege oder Zeugen zu.",
+            "Prüfen Sie Pflichtverletzung, Verschulden, Kausalität, Schaden, betrieblichen Schadensausgleich und Mitverursachung des Unternehmens. Berücksichtigen Sie bei der Abwägung die belegte wirtschaftliche Lage. Entwickeln Sie eine nachvollziehbare Linie für den Schriftsatz nach dem Gütetermin."
+          ]
+        },
+        {
+          "heading": "Deckung und Vergleich",
+          "paragraphs": [
+            "Lesen Sie den Versicherungsschein mit den Bedingungen und dem Funktionsnachtrag. Arbeiten Sie den Zeitpunkt der Inanspruchnahme, die Prüfungsvorbehalte und den verfügbaren Betrag getrennt heraus. Berechnen Sie anhand der Akte, was bei unterschiedlicher Haftung und Deckung persönlich verbleiben könnte.",
+            "Vergleichen Sie die Argumentation zur arbeitgeberfinanzierten D&O-Versicherung mit den Falltatsachen und der arbeitsgerichtlichen Entscheidung aus Köln. Halten Sie bei einer Vergleichsoption ausdrücklich fest, wer welche Leistung verbindlich zusagt und welche Ansprüche gegebenenfalls erledigt oder abgetreten werden. Eine Zustimmung zu einem Vergleich ist gesondert einzuholen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "35_Zahlungs_und_Deckungsmatrix.xlsx"
+    },
+    {
+      "filename": "36_Buchungsjournal_Treasury.csv"
+    },
+    {
+      "filename": "37_Zeitfenster_Treasury.png",
+      "title": "Zeitfenster zwischen Zahlung und Sperre",
+      "issuer": "Dreisamtal Sensorik · Interne Revision",
+      "date": "2026-09-30",
+      "paragraphs": [
+        "Arbeitsansicht des Vorfalls TK-2026-0918. Sie stellt Buchung und Weiterleitung gegenüber. Die verbindlichen Detailzeiten und die dokumentierten Empfänger stehen in den Quelldateien.",
+        "Am 16. September erreichte nach T03 eine Nachricht den Bereich Risk. Vor T04 und T05 war im Bankjournal keine Sperre vermerkt."
+      ],
+      "table": {
+        "headers": [
+          "Tag",
+          "Bankjournal",
+          "Eskalationsstand laut Akte"
+        ],
+        "rows": [
+          [
+            "14.09.",
+            "T01 · 10.14 Uhr",
+            "Erste Anweisung mit Projektbezug BERGFINK"
+          ],
+          [
+            "15.09.",
+            "T02 · 09.42 Uhr",
+            "Zahlung im technischen Notweg"
+          ],
+          [
+            "16.09.",
+            "T03 · 10.06 Uhr",
+            "12.20 Uhr Risikohinweis. 12.43 Uhr Weiterleitung"
+          ],
+          [
+            "17.09.",
+            "T04 · 09.35 Uhr",
+            "Bankberechtigung weiterhin aktiv"
+          ],
+          [
+            "18.09.",
+            "T05 · 09.18 Uhr",
+            "Sperrmaßnahmen nach Aufdeckung"
+          ]
+        ]
+      }
+    }
+  ],
+  "debrief": {
+    "title": "Nachbesprechung · Fünf Freigaben",
+    "sections": [
+      {
+        "heading": "Anspruch und getrennte Beweisspuren",
+        "paragraphs": [
+          "Mara Falk ist Arbeitnehmerin. Das Treasury-Mandat und die Einbeziehung in die D&O-Police machen sie nicht zum Organ. Die Arbeitgeberin stützt den Regress insbesondere auf §§ 280 Abs. 1, 241 Abs. 2, 611a und 619a BGB. Die Arbeitgeberin muss eine konkrete Pflichtverletzung, das Vertretenmüssen, den Schaden und die Ursächlichkeit für die jeweils geltend gemachte Zahlung darlegen und beweisen. § 619a BGB verhindert die bloße Übernahme der allgemeinen Verschuldensvermutung des § 280 Abs. 1 Satz 2 BGB.",
+          "Technische Einzelzeichnungsrechte und die tatsächliche Praxis des Notwegs sind auseinanderzuhalten. Ein Bankprotokoll weist aus, wer eine Transaktion ausgeführt oder freigegeben hat. Die fachliche Freigabe, der unabhängige Rückruf und die legitime Anordnung ergeben sich aus anderen Unterlagen. Werten Sie die Meldungen und Anlagen in ihrer damaligen Reihenfolge aus."
+        ],
+        "table": {
+          "headers": [
+            "Zahlung",
+            "Ausgang",
+            "Rückfluss",
+            "Offener Betrag"
+          ],
+          "rows": [
+            [
+              "T01",
+              "480.000 EUR",
+              "300.000 EUR",
+              "180.000 EUR"
+            ],
+            [
+              "T02",
+              "920.000 EUR",
+              "0 EUR",
+              "920.000 EUR"
+            ],
+            [
+              "T03",
+              "1.550.000 EUR",
+              "450.000 EUR",
+              "1.100.000 EUR"
+            ],
+            [
+              "T04",
+              "1.700.000 EUR",
+              "0 EUR",
+              "1.700.000 EUR"
+            ],
+            [
+              "T05",
+              "1.850.000 EUR",
+              "250.000 EUR",
+              "1.600.000 EUR"
+            ],
+            [
+              "Gesamt",
+              "6.500.000 EUR",
+              "1.000.000 EUR",
+              "5.500.000 EUR"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Fahrlässigkeit und Mitverursachung",
+        "page_break_before": true,
+        "paragraphs": [
+          "Bei T01 sind der Projektcode und die scheinbar plausible Anweisung entlastend zu würdigen. Dagegen spricht der unterlassene Rückruf über einen unabhängigen Kanal. Ab T02 sind Umgehung des regulären Wegs, neue Empfängerdaten, Vertraulichkeitsdruck und spätere Auffälligkeiten getrennt zu gewichten. Der anfängliche Irrtum belegt weder einheitlich grobe Fahrlässigkeit noch eine Entlastung für den gesamten Zeitraum. Entscheidend sind jeweils die objektive Schwere und die persönliche Vorwerfbarkeit.",
+          "Bei betrieblich veranlasster Tätigkeit richtet sich die Haftung nach den Grundsätzen des innerbetrieblichen Schadensausgleichs. Leichteste Fahrlässigkeit führt regelmäßig zu keiner Haftung. Bei normaler Fahrlässigkeit kommt eine Teilung in Betracht. Bei grober Fahrlässigkeit ist die volle Haftung der Ausgangspunkt. Die Einzelfallabwägung kann sie begrenzen. Heranzuziehen sind insbesondere Betriebsrisiko, Organisation, Versicherungsschutz, Entgelt, persönliche Verhältnisse und die Höhe des Schadens. Eine feste Grenze nach Monatsgehältern folgt daraus nicht.",
+          "Die frühe interne Warnung nach T03 trägt einen eigenständigen Einwand zu T04 und T05. Prüfen Sie nach § 254 BGB konkret, wer die Meldung tatsächlich erhielt, wie eine Sperre hätte ausgelöst werden können und ob sie bei einem zumutbaren Ablauf rechtzeitig gewirkt hätte. Der Nettobetrag beider späteren Buchungen beträgt zusammen 3.300.000 EUR. Eine mögliche Vermeidbarkeit dieser Zahlungen ersetzt keine Prüfung der ersten drei. Umgekehrt entlastet eine Organisationslücke Falk nicht automatisch für die eigene Entscheidung.",
+          "Für den Vortrag zur wirtschaftlichen Belastung sind die belegten Entgelt- und Haushaltsdaten maßgeblich. Das feste Jahresbrutto beträgt 141.600 EUR. Die Zielprämie ist keine garantierte Einnahme. Rücklagen, Unterhalt und Verpflichtungen sind mit Belegen zu konkretisieren. Auch eine außergewöhnliche Belastung liefert für sich keine mathematische Haftungsquote."
+        ]
+      },
+      {
+        "heading": "Was das Urteil aus Köln für den Fall bedeutet",
+        "page_break_before": true,
+        "paragraphs": [
+          "Das LAG Köln behandelt die arbeitgeberfinanzierte D&O-Police in seinem Urteil vom 31. Juli 2026, 8 SLa 603/25, Rn. 428–439, als Argument gegen eine Haftungsmilderung. In den Gründen legt es Gewicht darauf, dass die Versicherung einen wirklichen Schutz vermitteln und wirtschaftliche Überforderung ausschließen kann. Das Gericht hielt den Vortrag des dortigen Klägers zur noch nicht erteilten Deckungszusage im konkreten Prozess für unzureichend. Das Urteil ließ die Revision zu. Der amtliche Entscheidungskopf nennt BAG 8 AZR 164/26. Zum Bearbeitungsstand 9. November 2026 ist in der geprüften amtlichen Veröffentlichung kein Revisionsurteil ausgewiesen.",
+          "Die Arbeitgeberin kann sich auf diese Linie und die Finanzierung der Police berufen. Die Verteidigung muss die Unterschiede mit Unterlagen belegen. Im Freiburger Fall reicht bereits das rechnerisch unbeanspruchte Aggregat nicht an den geltend gemachten Betrag heran. Die Tragfähigkeit der Deckung ist zudem offen. Das Entgelt, der frühere Warnzeitpunkt und die technische wie fachliche Organisation unterscheiden sich vom Kölner Fall. Ein Hinweis auf laufende Deckungsprüfung ohne Vertrags- und Zahlenbelege wäre deutlich schwächer.",
+          "BAG, Urteil vom 28. Oktober 2010, 8 AZR 418/09, Rn. 17–29, ist die Grundlage für die Abwägung und die Unterscheidung zwischen Pflichtversicherung, freiwilliger Privathaftpflicht und vertraglich verlangtem Versicherungsschutz. Das Urteil hat keine allgemeine Regel für jede D&O-Police aufgestellt. BAG, Urteil vom 15. November 2012, 8 AZR 705/11, Rn. 24–27, lehnt eine starre Summengrenze ab. Die Rechtsfrage, in welchem Umfang eine konkret gesicherte Freistellung in die Arbeitnehmerhaftung einfließt, bleibt als Streitfrage zu bearbeiten."
+        ]
+      },
+      {
+        "heading": "Deckungsprüfung, Rechnung und Vergleich",
+        "page_break_before": true,
+        "paragraphs": [
+          "Im Haftungsprozess geht es um Bestehen und Höhe des Anspruchs gegen Falk. Im Deckungsverhältnis sind Abwehr und Freistellung nach Vertrag und VVG zu prüfen. Das Trennungsprinzip schließt nicht aus, dass eine verbindlich festgestellte Haftung deckungsrechtlich in Grenzen bindet. Die Bindung erfasst nur entscheidungserhebliche Feststellungen bei voraussetzungsidentischen Fragen. Sie ersetzt keine Prüfung von Ausschlüssen, Versicherungsperiode, versicherter Funktion und verfügbaren Limits.",
+          "Das Schreiben vom 5. Oktober ist die dokumentierte erstmalige Inanspruchnahme. Die Meldung vom 6. Oktober ist davon zu unterscheiden. Prüfen Sie beide anhand des Anspruchserhebungsprinzips. Der Funktionsnachtrag bezieht Falk ein. Dass sie Zahlungen bewusst technisch ausgeführt hat, beweist noch keine wissentliche Pflichtverletzung im Sinne der Klausel. Halten Sie die Voraussetzungen des Ausschlusses und den Entscheidungsvorbehalt des Versicherers fest.",
+          "Aus 4.000.000 EUR Jahresaggregat abzüglich 750.000 EUR aus einem anderen Fall und 120.000 EUR vorläufig belasteter Abwehrkosten ergeben sich rechnerisch 3.130.000 EUR. Kostenanrechnung, Abwehrkosten und spätere Veränderungen des Aggregats bleiben zu prüfen. Bei voller Haftung von 5.500.000 EUR und tatsächlich erbrachter Freistellung von 3.130.000 EUR blieben vor weiteren Belastungen 2.370.000 EUR persönlich offen. Die tatsächlich gezahlten Abwehrkosten mindern nicht den durch die fünf Überweisungen entstandenen Verlust.",
+          "Für einen Vergleich benötigen Arbeitgeberin, Falk und gegebenenfalls Versicherer einen klar bezeichneten Zahlungs- und Erledigungsumfang. Vermeiden Sie ein unbedingtes Anerkenntnis ohne geklärte Folgen für die Deckung. Prüfen Sie Ansprüche gegen Zahlungsempfänger, spätere Rückflüsse und gegebenenfalls Abtretung oder Zug-um-Zug-Einwendungen getrennt. Eine Abtretung des Freistellungsanspruchs ist von einem unmittelbaren gesetzlichen Direktanspruch gegen den Versicherer zu unterscheiden."
+        ]
+      },
+      {
+        "heading": "Amtliche Fundstellen",
+        "page_break_before": true,
+        "paragraphs": [
+          "LAG Köln, Urteil vom 31. Juli 2026, 8 SLa 603/25, insbesondere Rn. 428–439. https://www.justiz.nrw.de/nrwe/arbgs/koeln/lag_koeln/j2026/8_SLa_603_25_Urteil_20260731.html",
+          "BAG, Urteil vom 28. Oktober 2010, 8 AZR 418/09. https://www.bundesarbeitsgericht.de/entscheidung/8-azr-418-09/",
+          "BAG, Urteil vom 15. November 2012, 8 AZR 705/11. https://www.bundesarbeitsgericht.de/entscheidung/8-azr-705-11/",
+          "BGH, Urteil vom 28. September 2005, IV ZR 255/04, Rn. 19–20, zum Trennungsprinzip. https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2005-9-28&Gericht=bgh&anz=16&nr=34550&pos=3",
+          "BGH, Urteil vom 13. April 2016, IV ZR 304/13, zum Anspruchserhebungsprinzip und zur Abtretung im Innenhaftungsfall. https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-4-13&Gericht=bgh&anz=19&nr=74557&pos=5",
+          "§ 619a BGB. https://www.gesetze-im-internet.de/bgb/__619a.html",
+          "§§ 100 und 101 VVG. https://www.gesetze-im-internet.de/vvg_2008/__100.html und https://www.gesetze-im-internet.de/vvg_2008/__101.html"
+        ]
+      }
+    ]
+  }
+}
