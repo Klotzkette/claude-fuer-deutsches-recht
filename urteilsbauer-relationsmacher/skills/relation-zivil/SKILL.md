@@ -125,7 +125,7 @@ Für jede Variante: Hauptsache-Tenor Kosten vorläufige Vollstreckbarkeit.
 - Vorläufige Vollstreckbarkeit: Paragraf 708 Nummer 11 ZPO (Bagatelltitel bis 1500 EUR) oder Paragraf 709 ZPO (sonst) in Verbindung mit Paragraf 711 ZPO
 - Streitwert: Paragraf 63 GKG
 - Zinsen: Paragraf 286 BGB Paragraf 288 BGB Artikel 78 CISG
-- Rechtsmittelzulassung: Paragraf 511 Absatz 4 ZPO (bei Streitwert unter 600 EUR oder bei Grundsatzbedeutung)
+- Rechtsmittelzulassung: Paragraf 511 Absatz 4 ZPO (bei Streitwert unter 1.000 EUR oder bei Grundsatzbedeutung)
 
 ### 10. Selbstkontrolle
 

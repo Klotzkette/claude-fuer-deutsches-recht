@@ -20,14 +20,14 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 ## Triage zu Beginn
 
 1. Handelt es sich um ein Endurteil (→ Berufung § 511 ZPO) oder einen Beschluss (→ sofortige Beschwerde § 567 ZPO)?
-2. Ist die Beschwer der Berufungsklägerin über 600 EUR (§ 511 Abs. 2 Nr. 1 ZPO)?
+2. Ist die Beschwer der Berufungsklägerin über 1.000 EUR (§ 511 Abs. 2 Nr. 1 ZPO)?
 3. Hat das Gericht die Berufung zugelassen (§ 511 Abs. 4 ZPO)?
 4. Welches Berufungsgericht ist zuständig — LG (bei AG-Urteilen) oder OLG (bei LG-Urteilen)?
 
 ## Zentrale Normen
 
 - § 232 ZPO — Pflicht zur Rechtsmittelbelehrung
-- § 511 ZPO — Berufung (statthaft gegen Endurteile über 600 EUR Beschwer oder bei Zulassung)
+- § 511 ZPO — Berufung (statthaft gegen Endurteile über 1.000 EUR Beschwer oder bei Zulassung); für bis 31.12.2025 verkündete Entscheidungen weiter 600 EUR (§ 47 EGZPO)
 - § 517 ZPO — Berufungsfrist (1 Monat nach Zustellung)
 - § 520 ZPO — Berufungsbegründungsfrist (2 Monate nach Zustellung)
 - § 567 ZPO — sofortige Beschwerde gegen Beschlüsse (Frist 2 Wochen)
@@ -36,7 +36,7 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 ## Schritt-für-Schritt-Workflow
 
 1. **Entscheidungsart bestimmen:** Urteil (→ Berufung) oder Beschluss (→ sofortige Beschwerde)?
-2. **Statthaftigkeit prüfen:** Beschwer > 600 EUR oder Berufungszulassung?
+2. **Statthaftigkeit prüfen:** Beschwer > 1.000 EUR oder Berufungszulassung?
 3. **Berufungsgericht bestimmen:** AG-Urteil → LG; LG-Urteil → OLG.
 4. **Fristen einsetzen:** 1 Monat Einlegung, 2 Monate Begründung — jeweils ab Zustellung.
 5. **Standardformel einfügen** (s. unten).
@@ -58,14 +58,14 @@ zu begründen.
 
 Vor dem Berufungsgericht besteht Anwaltszwang.
 
-[Falls keine Berufung statthaft (Beschwer unter 600 EUR, keine Zulassung):]
+[Falls keine Berufung statthaft (Beschwer unter 1.000 EUR, keine Zulassung):]
 Gegen dieses Urteil ist ein Rechtsmittel nicht gegeben.
 ```
 
 ## Berufung
 
 Statthaft gegen Endurteile (Paragraf 511 Abs. 1 ZPO). Voraussetzungen:
-- Beschwer der Berufungsklägerin / des Berufungsklägers über 600 EUR (Paragraf 511 Abs. 2 Nr. 1 ZPO) ODER
+- Beschwer der Berufungsklägerin / des Berufungsklägers über 1.000 EUR (Paragraf 511 Abs. 2 Nr. 1 ZPO) ODER
 - Zulassung der Berufung durch das erstinstanzliche Gericht (Paragraf 511 Abs. 4 ZPO)
 
 Form und Frist:

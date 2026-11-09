@@ -18,7 +18,7 @@ Lizenz: Apache-2.0 OR MIT.
 
 ## Einschlägige Normen
 - § 58 FamFG (Statthaftigkeit), § 59 FamFG (Beschwerdeberechtigung: Beeinträchtigung in eigenen Rechten; Abs. 2: Antragszurückweisung)
-- § 61 Abs. 1 FamFG (Beschwerdewert über 600 EUR in vermögensrechtlichen Angelegenheiten)
+- § 61 Abs. 1 FamFG (Beschwerdewert über 1.000 EUR in vermögensrechtlichen Angelegenheiten)
 - § 63 FamFG (Beschwerdefrist ein Monat; Fristbeginn spätestens fünf Monate nach Erlass)
 - § 64 FamFG (Einlegung beim Ausgangsgericht, Form, Aussetzung der Vollziehung), § 65 FamFG (Begründung)
 - §§ 68, 69 FamFG (Abhilfe, Verfahren und Entscheidung des Beschwerdegerichts, Zurückverweisung)

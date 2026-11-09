@@ -116,7 +116,7 @@ description: "Für Behandlungsvertrag 630a: ordnet Norm, Beweislast und Gegenarg
 ### Schritt 4 — Verhandlung / Klage
 
 - Vergleich mit Versicherer
-- Bei Streit: LG (Streitwert + 5.000 EUR Grenze)
+- Bei Streit: LG ohne Rücksicht auf den Streitwert (§ 71 Abs. 2 Nr. 9 GVG, Streitigkeiten aus Heilbehandlungen; gilt für ab 01.01.2026 anhängig gewordene Verfahren, § 44 EGGVG)
 - Beweisaufnahme Sachverständiger
 
 ## 6) Schadensersatz / Schmerzensgeld

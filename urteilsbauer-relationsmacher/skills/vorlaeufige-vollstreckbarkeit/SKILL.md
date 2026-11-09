@@ -9,7 +9,7 @@ description: "Für Vorläufige Vollstreckbarkeit: ordnet Norm, Beweislast und Ge
 
 1. Welcher Entscheidungstyp liegt vor — Endurteil, Versäumnisurteil, Anerkenntnisurteil, Beschluss?
 2. Wie hoch ist der Verurteilungsbetrag — bis 1.500 EUR (§ 708 Nr. 11 ZPO) oder darüber (§ 709 ZPO)?
-3. Ist Berufung statthaft (Beschwer > 600 EUR) — wenn nein: § 713 ZPO (ohne Sicherheit)?
+3. Ist Berufung statthaft (Beschwer > 1.000 EUR) — wenn nein: § 713 ZPO (ohne Sicherheit)?
 4. Hat die unterlegene Partei einen Schutzantrag nach § 711 ZPO gestellt?
 
 ## Zentrale Normen
@@ -20,7 +20,7 @@ description: "Für Vorläufige Vollstreckbarkeit: ordnet Norm, Beweislast und Ge
  - Nr. 11: Endurteile bis 1.500 EUR
 - § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent (Regel)
 - § 711 ZPO — Schutzantrag der unterliegenden Partei
-- § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 600 EUR)
+- § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 1.000 EUR)
 - § 719 ZPO — Einstellung der Vollstreckung bei Berufung
 
 ## Schritt-für-Schritt-Entscheidungsbaum
@@ -31,9 +31,9 @@ Entscheidungstyp?
 ├── Anerkenntnisurteil → § 708 Nr. 4 ZPO (ohne Sicherheit)
 ├── Endurteil bis 1.500 EUR → § 708 Nr. 11 ZPO (ohne Sicherheit)
 └── Endurteil über 1.500 EUR:
- ├── Berufung statthaft (Beschwer > 600 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
+ ├── Berufung statthaft (Beschwer > 1.000 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
  │ └── Schutzantrag § 711 ZPO gestellt? → § 711 ZPO Formulierung ergänzen
- └── Berufung nicht statthaft (Beschwer ≤ 600 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
+ └── Berufung nicht statthaft (Beschwer ≤ 1.000 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
 ```
 
 ## Output-Template
@@ -75,7 +75,7 @@ Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 1
 - Paragraf 708 Nr. 4 ZPO - Anerkenntnisurteile
 - Paragraf 708 Nr. 11 ZPO - bestimmte Endurteile bis 1500 EUR (Repo-Konvention Punkt)
 - Paragraf 711 ZPO - Schutzantrag der unterliegenden Partei (Sicherheitsleistung wegen unverhältnismäßigen Schadens)
-- Paragraf 713 ZPO - Beschwer unter 600 EUR und keine Berufung - ohne Sicherheit
+- Paragraf 713 ZPO - Beschwer unter 1.000 EUR und keine Berufung - ohne Sicherheit
 - Paragraf 719 ZPO - Aufhebung bei Berufung
 
 ## Formulierung

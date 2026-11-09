@@ -73,7 +73,7 @@ in der oben bezeichneten Angelegenheit ist die erste Instanz abgeschlossen. Wir 
 
 #### 3. Statthaftes Rechtsmittel und Frist
 
-3.1 **Variante A — Berufung im Zivilprozess, geeignet gegen Endurteile der ersten Instanz bei einer Beschwer über 600 EUR oder bei Zulassung (§ 511 ZPO):** Gegen das Urteil ist die Berufung statthaft. Die Berufungsfrist beträgt einen Monat ab Zustellung des in vollständiger Form abgefassten Urteils (§ 517 ZPO) und läuft am [konkretes Datum] ab; die Frist zur Berufungsbegründung beträgt zwei Monate ab Zustellung (§ 520 Abs. 2 Satz 1 ZPO) und läuft am [konkretes Datum] ab.
+3.1 **Variante A — Berufung im Zivilprozess, geeignet gegen Endurteile der ersten Instanz bei einer Beschwer über 1.000 EUR oder bei Zulassung (§ 511 ZPO):** Gegen das Urteil ist die Berufung statthaft. Die Berufungsfrist beträgt einen Monat ab Zustellung des in vollständiger Form abgefassten Urteils (§ 517 ZPO) und läuft am [konkretes Datum] ab; die Frist zur Berufungsbegründung beträgt zwei Monate ab Zustellung (§ 520 Abs. 2 Satz 1 ZPO) und läuft am [konkretes Datum] ab.
 
 3.2 **Variante B — sofortige Beschwerde, geeignet gegen erstinstanzliche Beschlüsse in den gesetzlich vorgesehenen Fällen:** Gegen den Beschluss ist die sofortige Beschwerde statthaft. Sie ist binnen einer Notfrist von zwei Wochen ab Zustellung einzulegen (§ 569 Abs. 1 ZPO); die Frist läuft am [konkretes Datum] ab.
 

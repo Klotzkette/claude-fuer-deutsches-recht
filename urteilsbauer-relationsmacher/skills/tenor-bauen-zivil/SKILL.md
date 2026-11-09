@@ -71,10 +71,10 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
  - bei mehreren Beklagten: Paragraf 100 ZPO
 3. **Vorläufige Vollstreckbarkeit** (Paragraf 708 ff ZPO)
  - Standardformel: "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
- - Bei Beschwer unter 600 EUR: Paragraf 713 ZPO - ohne Sicherheit
+ - Bei Beschwer unter 1.000 EUR: Paragraf 713 ZPO - ohne Sicherheit
  - Bei Versäumnisurteil: Paragraf 708 Nr. 2 ZPO
 4. **Streitwert** (gesonderter Beschluss oder im Tenor)
-5. **Berufungszulassung** (Paragraf 511 Abs. 4 ZPO bei AG-Urteilen mit Beschwer unter 600 EUR)
+5. **Berufungszulassung** (Paragraf 511 Abs. 4 ZPO bei AG-Urteilen mit Beschwer unter 1.000 EUR)
 
 ## Bestimmtheitsgebot
 

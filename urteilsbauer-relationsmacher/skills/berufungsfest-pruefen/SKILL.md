@@ -11,7 +11,7 @@ description: "Für Berufungsfestigkeit prüfen: ordnet Norm, Beweislast und Gege
 2. Wurde die Hinweispflicht (§ 139 ZPO) im gesamten Verfahren beachtet?
 3. Sind alle Anträge beschieden (§ 308 ZPO — ne ultra petita)?
 4. Ist der Tenor vollstreckungsfähig und bestimmt genug?
-5. Besteht eine Berufungszulassungsfrage (§ 511 Abs. 4 ZPO — Streitwert unter 600 EUR)?
+5. Besteht eine Berufungszulassungsfrage (§ 511 Abs. 4 ZPO — Streitwert unter 1.000 EUR)?
 
 ## Zentrale Normen
 
@@ -19,7 +19,7 @@ description: "Für Berufungsfestigkeit prüfen: ordnet Norm, Beweislast und Gege
 - § 546 ZPO — Revisionsgrund: fehlerhafte Rechtsanwendung
 - § 547 ZPO — Absolute Revisionsgründe (Nr. 6: fehlende Begründung)
 - § 139 ZPO — Hinweispflicht des Gerichts
-- § 511 ZPO — Statthaftigkeit der Berufung; Beschwer 600 EUR
+- § 511 ZPO — Statthaftigkeit der Berufung; Beschwer 1.000 EUR (für bis 31.12.2025 verkündete Entscheidungen weiter 600 EUR, § 47 EGZPO)
 - § 538 Abs. 2 ZPO — Zurückverweisung durch Berufungsgericht bei Verfahrensmangel
 
 ## Haeufige Aufhebungsgründe

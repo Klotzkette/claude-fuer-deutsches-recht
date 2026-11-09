@@ -46,7 +46,7 @@ Angefochtene Entscheidung: [Feststellungsbeschluss nach § 352e FamFG / Zurückw
 
 2.3 Soweit eine förmliche Bekanntgabe nicht nachweisbar ist, begann die Frist spätestens fünf Monate nach Erlass des Beschlusses (§ 63 Abs. 3 Satz 2 FamFG). Ist die Rechtsbehelfsbelehrung unterblieben oder unrichtig, wird vorsorglich Wiedereinsetzung in den vorigen Stand beantragt; das fehlende Verschulden an der Fristversäumung wird nach § 17 Abs. 2 FamFG vermutet. Die versäumte Verfahrenshandlung wird mit dieser Beschwerdeschrift nachgeholt (§ 18 Abs. 3 Satz 3 FamFG).
 
-2.4 Der Wert des Beschwerdegegenstands übersteigt 600 EUR (§ 61 Abs. 1 FamFG): Das wirtschaftliche Interesse der beschwerdeführenden Person entspricht [dem Wert des Nachlasses von Betrag in EUR / dem Wert des streitigen Erbteils von Betrag in EUR].
+2.4 Der Wert des Beschwerdegegenstands übersteigt 1.000 EUR (§ 61 Abs. 1 FamFG): Das wirtschaftliche Interesse der beschwerdeführenden Person entspricht [dem Wert des Nachlasses von Betrag in EUR / dem Wert des streitigen Erbteils von Betrag in EUR].
 
 ### 3. Begründung
 
@@ -90,7 +90,7 @@ _____________________________
 
 1.4 Die Beschwerdeberechtigung nach § 59 FamFG ist konkret begründet: Die eigene behauptete Erbenstellung mit Quote ist dargestellt; ein bloßes Pflichtteils- oder Vermächtnisinteresse wird nicht als Beschwer ausgegeben.
 
-1.5 Der Beschwerdewert über 600 EUR (§ 61 Abs. 1 FamFG) ist mit dem wirtschaftlichen Interesse ([Nachlasswert / Wert des streitigen Erbteils]) belegt.
+1.5 Der Beschwerdewert über 1.000 EUR (§ 61 Abs. 1 FamFG) ist mit dem wirtschaftlichen Interesse ([Nachlasswert / Wert des streitigen Erbteils]) belegt.
 
 1.6 Der Aussetzungs- und Zurückstellungsantrag nach § 352e Abs. 2, § 64 Abs. 3 FamFG ist enthalten, wenn ein stattgebender Feststellungsbeschluss angegriffen wird, damit der Erbschein nicht während des Verfahrens mit Gutglaubenswirkung (§§ 2365, 2366 BGB) erteilt wird.
 

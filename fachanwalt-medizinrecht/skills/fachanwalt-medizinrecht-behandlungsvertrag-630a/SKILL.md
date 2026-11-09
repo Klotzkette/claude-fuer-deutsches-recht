@@ -103,7 +103,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 ### Schritt 4 — Verhandlung / Klage
 
 - Vergleich mit Versicherer
-- Bei Streit: LG (Streitwert + 5.000 EUR Grenze)
+- Bei Streit: LG ohne Rücksicht auf den Streitwert (§ 71 Abs. 2 Nr. 9 GVG, Streitigkeiten aus Heilbehandlungen; gilt für ab 01.01.2026 anhängig gewordene Verfahren, § 44 EGGVG)
 - Beweisaufnahme Sachverständiger
 
 ## 6) Schadensersatz / Schmerzensgeld
