@@ -4,23 +4,25 @@
   "reviewed_on": "2026-11-08",
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten.",
+    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft.",
     "changes": [
       "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
       "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
-      "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen"
+      "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen",
+      "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt"
     ],
-    "sha256": "9a1c39688f7f8ecbcd4c6b996f5ad834f56311d90caba27350caec778cf87868"
+    "sha256": "427e17878f9eec97e1ced58e1657f0d8338342d1e559b90bc31a0f6c2f7677b1"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten.",
+    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft.",
     "changes": [
       "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
       "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
-      "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen"
+      "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen",
+      "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt"
     ],
-    "sha256": "033d4ef3f3c085263430c704328db2bbfd138367ab0f30b7bcf3f7ea302c2633"
+    "sha256": "1dc86e644380111b2d4cd4f823bd4cf1b124ae3ad0823f408733dbe01b3152dd"
   },
   "sources": [
     {
@@ -2204,7 +2206,8 @@
     "norms": [
       "Art. 22 DSGVO",
       "Art. 4, 5, 6, 14, 26, 111 und 113 KI-Verordnung",
-      "§§ 17 und 18 HinSchG"
+      "§§ 17 und 18 HinSchG",
+      "Art. 12 und 15 DSGVO"
     ],
     "decisions": [
       {
@@ -2212,10 +2215,32 @@
         "application": "Prüft bei personenbezogenen Bewertungen die tatsächliche maßgebliche Verwendung.",
         "limit": "Konkrete Datenverarbeitung und Wirkung für natürliche Personen prüfen. Die KI-Verordnung erfordert eine eigenständige Einordnung.",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0634"
+      },
+      {
+        "citation": "EuGH, Urteil vom 4. Mai 2023, C-487/21, Rn. 32, 39–45",
+        "application": "Erhält Kundendaten und benötigten Kontext in der Datenkopie. Wählt einen geeigneten Auszug oder das ganze Dokument, soweit dies für die wirksame Rechtsausübung erforderlich ist.",
+        "limit": "Kopie der personenbezogenen Daten und einzelfallbezogene Abwägung nach Art. 15 Abs. 4 DSGVO. Eine rote KI-Markierung ersetzt keine Entscheidung.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A62021CJ0487",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "EuGH, Urteil vom 12. Januar 2023, C-154/21, Rn. 43–51",
+        "application": "Ordnet nachgewiesene konkrete Empfänger der Kundenauskunft zu.",
+        "limit": "Kategorien bei objektiv fehlender Identifizierbarkeit oder nachgewiesener offenkundiger Unbegründetheit oder Exzessivität.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=celex%3A62021CJ0154",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "EuGH, Urteil vom 22. Juni 2023, C-579/21, Rn. 73–83",
+        "application": "Bei Zugriffsprotokollen Datum und Zweck der Abfragen von der Identität weisungsgebundener Beschäftigter trennen.",
+        "limit": "Identität der Beschäftigten bei Unerlässlichkeit für die wirksame Rechtsausübung und unter Berücksichtigung ihrer Rechte und Freiheiten prüfen. Der Fall betrifft interne Zugriffe.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62021CJ0579",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
-      "Redaktionelle Quellen- und Verfahrensprüfung; keine umfassende Modellmessung aller 35 Fälle oder aller Zieloberflächen. Gesonderte Forward-Tests werden als solche dokumentiert."
+      "Redaktionelle Quellen- und Verfahrensprüfung; keine umfassende Modellmessung aller 35 Fälle oder aller Zieloberflächen. Gesonderte Forward-Tests werden als solche dokumentiert.",
+      "Quellen- und Verfahrensprüfung für ME-36. Die Fallübung bildet einen simulierten Tool-Lauf ab."
     ]
   },
   "prompt_workflow_review": {

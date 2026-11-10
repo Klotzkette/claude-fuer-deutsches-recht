@@ -2,7 +2,7 @@
 
 Das Plugin unterstützt Rechts- und Compliance-Teams eines Industriekonzerns bei konkreten Entscheidungen. Es ordnet Zuständigkeiten und Belege, bereitet Freigaben, Ermittlungen, Kontrollentscheidungen und Organvorlagen vor und hält die Grenzen der jeweiligen Freigabe fest.
 
-Die 35 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln. Das Unternehmen entwickelt Industrieantriebe und Schalttechnik. Die Rechts- und Compliance-Abteilung arbeitet mit Werken, Einkauf, Datenschutz und Konzernorganen. Jede Akte enthält eine ergänzende Stellungnahme und ein Beleg- und Sicherungsprotokoll. Vier Schwerpunktakten führen den Vorgang mit zusätzlichen Originalbelegen bis zu einer weiteren Entscheidung. Die 35 bearbeitbaren Word-Vorlagen verbinden den konkreten Auftrag mit Gegenargumenten, Nachweisen und umsetzbaren Entscheidungstexten.
+Die 36 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln. Das Unternehmen entwickelt Industrieantriebe und Schalttechnik. Die Rechts- und Compliance-Abteilung arbeitet mit Werken, Einkauf, Datenschutz und Konzernorganen. Die 35 Akten der bisherigen Workshop-Reihe enthalten jeweils eine ergänzende Stellungnahme und ein Beleg- und Sicherungsprotokoll. Die neue Auskunftsakte enthält eine KI-Prüfansicht, einen gesperrten Exportkandidaten und eine separat prüfbare Bildbeilage. Vier Schwerpunktakten führen den Vorgang mit zusätzlichen Originalbelegen bis zu einer weiteren Entscheidung. Die 35 bearbeitbaren Word-Vorlagen verbinden den konkreten Auftrag mit Gegenargumenten, Nachweisen und umsetzbaren Entscheidungstexten.
 
 ## 1 Einstieg
 
@@ -46,6 +46,7 @@ Jeder Fachskill kann direkt aufgerufen werden. Er verarbeitet die vorhandenen Un
 | ME-13 | [Der Treffer mit zwei Adressen](../testakten/compliance-hameln-treffer-im-lieferantencheck/README.md) | Third-Party-Screening und Maßnahmen | [Vorlage](templates/compliance-hameln-treffer-im-lieferantencheck.docx) |
 | ME-14 | [Die sechs Rechnungen für eine Nachtschicht](../testakten/compliance-hameln-untersuchung-servicekonto/README.md) | Interne Untersuchung und Beweissicherung | [Vorlage](templates/compliance-hameln-untersuchung-servicekonto.docx) |
 | ME-15 | [Das fehlende Wort im Interview](../testakten/compliance-hameln-interview-und-transkript/README.md) | KI-Interviewtranskripte und menschlicher Abgleich | [Vorlage](templates/compliance-hameln-interview-und-transkript.docx) |
+| ME-36 | [Die Auskunft mit den roten Markierungen](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/README.md) | Kundenauskunft, KI-Schwärzungen und Bildbeifang | [Word-Vorlage](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/07_Vorlage_Auskunftsschreiben.docx) |
 | ME-16 | [Drei rote Punkte vor dem Ausschuss](../testakten/compliance-hameln-vorstandsreport-mit-ki/README.md) | KI-unterstütztes Organreporting | [Vorlage](templates/compliance-hameln-vorstandsreport-mit-ki.docx) |
 | ME-17 | [Der Assistent am Aufsichtsratstisch](../testakten/compliance-hameln-aufsichtsrat-eigener-assistent/README.md) | KI-Nutzung durch das Organ | [Vorlage](templates/compliance-hameln-aufsichtsrat-eigener-assistent.docx) |
 
@@ -91,6 +92,7 @@ Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PD
 | --- | --- |
 | 35 Arbeitsakten in Originalformaten mit Gesamt-PDFs und 35 Word-Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_35_Testakten_und_Vorlagen.zip) |
 | 35 getrennte fallbezogene Prüfblätter aus den beiden Reihen | [Nachbesprechung als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_Nachbesprechung_35.zip) |
+| ME-36 · Auskunft nach Art. 15 DSGVO | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-auskunft-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) · [Fall und Moderationsmaterial](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/README.md) |
 
 Die Nachbesprechung enthält die bisherigen Prüfblätter der beiden Fallreihen. Die ergänzenden Stellungnahmen und Sicherungsprotokolle sind im eigenen Durchlauf zusätzlich gegen die ursprünglichen Belege zu prüfen. Die Aktenseiten bieten die jeweiligen Originalformat-ZIPs und Einzel-PDF-ZIPs; die Nachbesprechung liegt getrennt von diesen Arbeitsunterlagen.
 

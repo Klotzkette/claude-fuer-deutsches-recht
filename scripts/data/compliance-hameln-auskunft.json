@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "id": "ME-36",
+      "slug": "compliance-hameln-auskunft-mit-schwaerzungen",
+      "title": "Die Auskunft mit den roten Markierungen",
+      "company": "Merrensteg Elektrosysteme SE",
+      "project": "Recht und Compliance · Hameln",
+      "message_domain": "merrensteg.example",
+      "documents": [
+        {
+          "filename": "01_Portalexport_Auskunftsersuchen.eml",
+          "from_name": "Merrensteg · Kundenportal",
+          "from_email": "kundenportal@merrensteg.example",
+          "to_email": "datenschutz@merrensteg.example",
+          "date": "2026-10-29T09:14:00+01:00",
+          "subject": "ME-36 | Authentifizierter Eingang K-60418",
+          "paragraphs": [
+            "Automatische Eingangsbestätigung für das Datenschutzpostfach. Der Antrag wurde am 29.10.2026 um 09.14 Uhr nach Anmeldung mit zweitem Faktor im persönlichen Kundenkonto K-60418 von Mara Lindhorst abgesendet. Die Nachricht und das Aktenzeichen DSAR-2026-036 sind seit 09.14 Uhr im Postfach sichtbar.",
+            "Guten Tag, bitte erteilen Sie mir nach Art. 15 DSGVO Auskunft darüber, welche personenbezogenen Daten Sie über mich verarbeiten. Bitte schicken Sie mir auch eine Kopie der Daten, gerade der Einträge und E-Mails zu meinem Reparaturvorgang SV-41782. Ich möchte nachvollziehen, warum ich im Portal kurz als nicht erreichbar geführt wurde und wer Daten aus der Reparatur erhalten hat. Die Fragen zum Reparaturvorgang sind Beispiele. Meine Anfrage betrifft auch sonstige Daten zu meiner Person.",
+            "Bitte stellen Sie die Antwort in mein Kundenportal. Ich brauche keine Daten anderer Kunden und keine privaten Rufnummern Ihrer Mitarbeitenden. Wenn Sie einen Textauszug schicken, möchte ich verstehen können, auf welche Nachricht oder Handlung sich der Inhalt bezieht.",
+            "Mara Lindhorst · über K-60418"
+          ]
+        },
+        {
+          "filename": "02_CRM_und_Serviceakte.docx",
+          "title": "CRM und Serviceakte zum Kundenkonto 60418",
+          "issuer": "Kundenservice · Derya Mattheis",
+          "date": "2026-11-02",
+          "sections": [
+            {
+              "heading": "Kontostamm und Suchumfang",
+              "paragraphs": [
+                "K-60418 ist das persönliche Kundenkonto von Mara Lindhorst, mara.lindhorst@kunden.example. Das Konto wurde am 06.04.2025 angelegt. Sie kaufte privat das Energiesteuermodul MS-E Home 4, Bestellung BE-50217, bezahlt 289,00 EUR. Seriennummer ES4-71482. Kundenkonto und Bestellung sind im CRM verknüpft. Die Bestellung und die Rechnung liegen getrennt im ERP.",
+                "Suchlauf vom 02.11.2026 über Kundenkennung, E-Mail und Ticket in Portal, CRM und ERP. Sechs einschlägige Stammdaten-/Vorgangstreffer, zwei davon Dubletten. Der gleichnamige Import MA-LINDHORST-ALT wurde anhand einer abweichenden Konto- und Mailkennung ausgeschlossen. Das Supportpostfach und sein Altarchiv wurden getrennt geprüft. Die am 21.10.2026 tatsächlich übermittelte Anlage ist in 03_Servicepartner_Versandnachweis.eml nachgewiesen. Der in einer alten Weiterleitungsvorlage genannte Nordwelle-Kurierdienst taucht in der konkreten Versandakte nicht auf."
+              ]
+            },
+            {
+              "heading": "Serviceverlauf und CRM-Freitext",
+              "table": {
+                "headers": ["Datum", "Quelle", "Erfasster Inhalt"],
+                "rows": [
+                  ["19.10.2026", "Portal · SV-41782", "Lindhorst meldet einen Aussetzer nach der Sicherheitsabschaltung und bittet um einen Rückruf ab 17.30 Uhr."],
+                  ["20.10.2026", "CRM · Eintrag SV-41782/03", "Mara Lindhorst meldete am 19.10.2026 einen Aussetzer nach der Sicherheitsabschaltung. Servicestatus am 20.10.2026 irrtümlich auf „Kundin nicht erreichbar“ gesetzt."],
+                  ["21.10.2026", "CRM · Versand SV-41782/05", "Beschränkter Diagnoseauszug mit Kundennamen, Ticket, Seriennummer und Fehlerbild an Okerquell Prüftechnik GmbH."],
+                  ["22.10.2026", "CRM · Eintrag SV-41782/07", "Status auf „Rückruf ab 17.30 Uhr gewünscht“ berichtigt. Kein Rückrufversuch vor 17.30 Uhr belegt. Der alte Status bleibt im Änderungsprotokoll sichtbar."],
+                  ["26.10.2026", "Portal · SV-41782", "Lindhorst bestätigt am Abend den Erhalt des Ersatzmoduls. Der Servicevorgang ist abgeschlossen."]
+                ]
+              }
+            },
+            {
+              "heading": "Gemischte Servicenachricht",
+              "page_break_before": true,
+              "paragraphs": [
+                "Der Teamvermerk vom 20.10.2026 liegt im Sammel-Thread SV-41782 / SV-41931. Im ersten Absatz stehen Lindhorsts Rückrufzeit und der missverständliche Status. Der zweite Absatz betrifft allein den Kunden Jonas Evers (SV-41931) und nennt die private Rückrufnummer 05151 000 0187. Die Signatur der verfassenden Mitarbeiterin enthält zusätzlich ihre privat genutzte Mobilnummer. Der Name der Mitarbeiterin ist für die zeitliche Einordnung des Fehlers nicht entscheidend. Die Verantwortlichkeit für die Statuskorrektur ergibt sich aus der Funktion „Schichtleitung Service“.",
+                "Zum Foto vom 19.10.2026: Der Vordergrund dokumentiert den Kundenvorgang (Seriennummer ES4-71482 und Alarmleuchte). Im Hintergrund liegt das Abholkärtchen von SV-41931 mit Fremdkennzeichen und Kurierfenster. Auf der eingescannten Fremdbeilage vom 21.10.2026 stehen zusätzlich die Namenszeile von Jonas Evers und das Werkstattabzeichen WK-12-774 / Platz B-14. Das aus dem Bild gewonnene OCR-Ergebnis ist getrennt von der sichtbaren Bildfassung zu prüfen."
+              ]
+            },
+            {
+              "heading": "Herkunft, Zwecke und Fristenblatt",
+              "paragraphs": [
+                "Stammdaten, Fotos, Rückrufwunsch und Fehlerbeschreibung stammen aus dem Konto bzw. den Nachrichten der Kundin. Status und Korrektur stammen aus dem Service. Die Prüfempfehlung ist eine Rückmeldung von Okerquell. Zwecke sind Kontoverwaltung, Kaufabwicklung, Durchführung der Serviceprüfung und Nachweis des Reparaturverlaufs. Eine Verarbeitung zur personalisierten Werbung ist für K-60418 im Suchlauf nicht belegt.",
+                "Interne Übersicht: Kontodaten werden bei Kontoschließung geprüft; erforderliche Bestell- und Rechnungsunterlagen bleiben nach dem Löschplan abhängig von den einschlägigen Aufbewahrungsfristen erhalten. Serviceakte: Löschprüfung drei Jahre nach Ende des Abschlussjahrs, Vorbehalt offener Ansprüche. Auskunftsakte: drei Jahre nach Abschluss gemäß interner Verfahrensregel, Vorbehalt laufender Verfahren. Die am Vorgang beteiligten Systeme liegen nach aktuellem Verzeichnis im EWR. Der Serviceprioritätsscore ist für diesen Servicekanal deaktiviert, die Rückrufplanung erfolgt durch Beschäftigte."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "03_Servicepartner_Versandnachweis.eml",
+          "from_name": "Okerquell Prüftechnik · Prüfannahme",
+          "from_email": "pruefannahme@okerquell.example",
+          "to_email": "kundendienst@merrensteg.example",
+          "date": "2026-10-21T11:06:00+02:00",
+          "subject": "SV-41782 | Eingangsbestätigung Prüfauftrag OP-2026-212",
+          "paragraphs": [
+            "Guten Tag, wir bestätigen den Eingang des gesicherten Uploads am 21.10.2026 um 10.42 Uhr. Unser Unternehmen, Okerquell Prüftechnik GmbH, hat zu SV-41782 genau eine Diagnosezeile erhalten. Die enthaltenen Felder sind Mara Lindhorst, SV-41782, ES4-71482 sowie „Aussetzer nach Sicherheitsabschaltung“. Rückrufdaten, Rechnungsdaten und der Sammel-Thread wurden nicht übertragen.",
+            "Unsere Prüfannahme hat den Fehler als sicherheitsbezogenen Aussetzer eingestuft und einen Modultausch empfohlen. Dieses Votum ist eine technische Empfehlung für Ihre Serviceabteilung. Eine Entscheidung über den Austausch treffen wir nicht.",
+            "Für Ihre Unterlagen: Übertragung SFT-ME-1711, Prüfstelle Hameln, Auswertung im EWR. Falls Sie die zugehörige Versandzeile aus Ihrer Übergabeakte abgleichen möchten, genügt SFT-ME-1711.",
+            "Prüfannahme · Okerquell Prüftechnik GmbH"
+          ]
+        },
+        {
+          "filename": "04_Pilotlauf_und_Freigabestand.docx",
+          "title": "Prüfvermerk zum Pilotlauf 036 von Klarblende",
+          "issuer": "IT-Sicherheit · Datenschutzkoordination",
+          "date": "2026-11-10",
+          "sections": [
+            {
+              "heading": "Testumgebung und Verantwortung",
+              "paragraphs": [
+                "P-036 wurde mit synthetischen Übungsdaten in einer lokal isolierten Umgebung ausgeführt. Die Fallunterlagen bilden einen fiktiven operativen Vorgang ab. Die eingesetzte Oberfläche ist simuliert. Rot bedeutet Vorschlag der Erkennung, grau bedeutet außerhalb des verarbeiteten Bereichs. Der Zähler erfasst Vorschläge. Er bestätigt weder die Vollständigkeit der Erkennung noch eine Entscheidung über den Auskunftsumfang.",
+                "Die Freigabe für einen späteren Einsatz mit realen Daten ist offen. Für die alternativ angebotene Cloud-Version fehlen ein geprüfter Vertrag zur Auftragsverarbeitung, die Angaben zu Unterauftragnehmern, Telemetrie und Supportzugriffen sowie Belege zur Löschfunktion. Beschaffung und Datenschutz prüfen die Verarbeitung des Inputs, bevor reale Akten eingegeben werden. Rechte, Zweckbindung, Zugriff, Protokollierung, Aufbewahrung und mögliche Drittlandzugriffe sind je Umgebung zu klären. Die Erforderlichkeit einer Datenschutz-Folgenabschätzung ist anhand des konkreten Betriebs zu bewerten."
+              ]
+            },
+            {
+              "heading": "Befunde und Rückfragen",
+              "paragraphs": [
+                "Der Trefferexport 05_Klarblende_Trefferliste.csv bildet die Vorschläge ab. Im Sammel-Thread stehen Namen und Telefonnummern aus zwei Vorgängen. Die interne Anweisung des Service lautet: „Wenn rot, im Zweifel den ganzen Absatz weglassen.“ Für den CRM-Eintrag zur Kundin ist unklar, welche Information dann noch nachvollziehbar bliebe.",
+                "Die Laufdiagnose nennt „Texterkennung nur für digitale Textebene“. Das Servicefoto und die Randzeile auf der gescannten Seite haben keinen Erkennungsstatus. Der sichtbare PDF-Prüfexport 10_Exportkandidat_Sperren.pdf zeigt Deckflächen, deren technische Wirkung im Prüfprogramm kontrolliert werden muss. Auch Dateieigenschaften, Anmerkungen, eingebettete Dateien und alternative Textschichten sind im Exporttest zu prüfen."
+              ]
+            },
+            {
+              "heading": "Zwei getrennte Verwendungszwecke",
+              "paragraphs": [
+                "Die Kundenkopie soll die personenbezogenen Daten von Mara Lindhorst verständlich erhalten. Drittpersonen und andere schutzbedürftige Inhalte werden fundstellenbezogen geprüft. Die Kundenkopie bleibt wegen des Bezugs zu Lindhorst personenbezogen.",
+                "Die Schulungsleitung bittet zusätzlich um eine interne Demofassung des Ablaufs. In dieser zweiten Fassung sollen Personen durch neutrale Rollen ersetzt werden. Ob die Kombination aus Ticket, Datum, Seriennummer, Schicht und Kurierfenster weiterhin einen Rückschluss erlaubt, ist gesondert zu prüfen. Für die Vorführung sollen möglichst die hier bereits synthetisch rekonstruierten Unterlagen verwendet werden."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "05_Klarblende_Trefferliste.csv",
+          "headers": ["Treffer", "Quelle", "Fundstelle", "Ausgabe", "Erkennung", "Beobachtung"],
+          "rows": [
+            ["KB-01", "CRM-Auszug", "Eintrag SV-41782/03", "Mara Lindhorst", "rot · Person", "Vorschlag: gesamten Eintrag maskieren"],
+            ["KB-02", "Sammel-Thread", "Absatz 2", "Jonas Evers", "rot · Person", "Vorschlag: sichtbaren Namen überdecken"],
+            ["KB-03", "Sammel-Thread", "Absatz 2", "05151 000 0187", "rot · Telefon", "Vorschlag: sichtbare Nummer überdecken"],
+            ["KB-04", "Sammel-Thread", "Signatur", "Privatkontakt der Bearbeiterin", "rot · Telefon", "Funktion und privater Kontakt getrennt prüfen"],
+            ["KB-05", "Sammelblatt", "Randzeile des Scans", "kein OCR-Treffer", "grau · Bereich ohne Text", "Scan in der Bildansicht nachprüfen"],
+            ["KB-06", "Servicefoto", "Kurierkarte im Hintergrund", "kein Treffer", "grau · Bild", "Kombination aus Kennung und Kurierfenster prüfen"],
+            ["KB-07", "Versandnachweis", "SFT-ME-1711", "Okerquell Prüftechnik GmbH", "rot · Organisation", "Vorschlag: Empfängername im Antwortentwurf ersetzen"],
+            ["KB-08", "Kundendatenkopie", "Entwurf PDF", "Sammel-Thread Absatz 2", "rot · Fläche", "Kopieren, Suche und Dateistruktur prüfen"]
+          ]
+        },
+        {
+          "filename": "06_Arbeitsmappe_Schwaerzungspruefung.xlsx",
+          "sheets": [
+            {
+              "name": "Prüfmatrix",
+              "title": "ME-36 · Schwärzungsprüfung",
+              "note": "Je Fundstelle zuerst die betroffene Person und den Auskunftsbezug bestimmen. Entscheidung und Begründung danach eintragen. Die Zeilen sind Suchhilfen, keine Freigaben.",
+              "headers": ["ID", "Fundstelle", "KI-Vorschlag", "Bezug / Rechte Dritter", "Entscheidung / Begründung", "Nachprüfung / Status"],
+              "rows": [
+                ["01", "CRM SV-41782/03", "Ganzen Eintrag maskieren", "", "", ""],
+                ["02", "CRM SV-41782/07", "Kein Treffer", "", "", ""],
+                ["03", "Sammel-Thread Abs. 2", "Name und Rufnummer rot", "", "", ""],
+                ["04", "Sammel-Thread Signatur", "Rufnummer rot", "", "", ""],
+                ["05", "11_Fremdbeilage / Scanrand", "Keine OCR-Erkennung", "", "", ""],
+                ["06", "Servicefoto / Hintergrund", "Bildbereich übersprungen", "", "", ""],
+                ["07", "SFT-ME-1711", "Organisation rot", "", "", ""],
+                ["08", "10_Exportkandidat", "Deckfläche sichtbar", "", "", ""]
+              ]
+            },
+            {
+              "name": "Freigabe",
+              "title": "ME-36 · Freigabe und technische Prüfung",
+              "note": "Die Datei gehört zur internen Arbeitsakte. Ergebnisse und freigegebene Dateifassung vor Bereitstellung im Kundenportal bestätigen.",
+              "headers": ["Nr.", "Prüfschritt", "Test / Beleg", "Befund", "Rolle / Datum"],
+              "rows": [
+                ["A", "Kundenumfang und Kopie", "CRM, Support, ERP und Portal abgleichen", "", ""],
+                ["B", "Sichtprüfung", "Seiten, Fotos, Scanrand und Kontext", "", ""],
+                ["C", "Textprüfung", "Markieren, kopieren, suchen und extrahieren", "", ""],
+                ["D", "Dateistruktur", "Metadaten, Kommentare, Anlagen und frühere Revisionen", "", ""],
+                ["E", "Unabhängige Kontrolle", "Quell- und Zielbestand vergleichen", "", ""],
+                ["F", "Bereitstellung", "Portalprofil, Dateifassung und Frist", "", ""]
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "07_Vorlage_Auskunftsschreiben.docx",
+          "title": "Entwurfsvorlage für Auskunft und Datenkopie",
+          "issuer": "Versandvorbereitung Datenschutz",
+          "date": "2026-11-10",
+          "sections": [
+            {
+              "heading": "Kundenanschreiben",
+              "paragraphs": [
+                "An [verifizierter Name / Kanal]. Zu Ihrem Ersuchen vom [Eingang] teilen wir Ihnen Folgendes mit. Wir [verarbeiten / verarbeiten nicht] personenbezogene Daten zu Ihrer Person. [Kurzer Überblick und Zugang zu den geprüften Anlagen.]"
+              ]
+            },
+            {
+              "heading": "Angaben zur Verarbeitung",
+              "paragraphs": [
+                "Zwecke und Datenkategorien: [konkrete Verarbeitung je Quelle]. Empfänger: [tatsächlicher Empfänger, betroffene Daten und Anlass / begründete Grenze]. Speicherdauer oder Kriterien: [je Verarbeitung]. Herkunft der nicht bei Ihnen erhobenen Daten: [konkrete Herkunft]. Drittlandübermittlungen und Garantien: [Stand laut Beleg]. Automatisierte Entscheidungen und Profiling: [Feststellung für diesen Vorgang und gegebenenfalls die erforderlichen Informationen]."
+              ]
+            },
+            {
+              "heading": "Datenkopie und weitere Rechte",
+              "paragraphs": [
+                "Anlagen [Dateien und verständliche Bezeichnung]. Die Datenkopie enthält [Daten, Auszüge und den jeweils nötigen Kontext]. [Soweit Inhalte aus Rücksicht auf Rechte Dritter ausgelassen werden, nach außen nachvollziehbar erläutern, ohne diese Inhalte offenzulegen. Bei teilweiser Nichtstattgabe Gründe und Rechtsschutz nach Art. 12 Abs. 4 DSGVO prüfen.] Rechte und Beschwerdemöglichkeit: [konkrete Belehrung für den Fall]."
+              ]
+            },
+            {
+              "heading": "Interner Freigabevermerk vor dem Versand",
+              "paragraphs": [
+                "Diesen internen Abschnitt vor der Kundenbereitstellung aus der Ausfertigung entfernen und getrennt ablegen. [Zugriffsprüfung und Suchumfang.] [Beleg- und Schwärzungsprotokoll einschließlich der überstimmten und fehlenden Tool-Treffer.] [Genaue freigegebene Dateifassung, Kontrollperson, Zeitpunkt und Portalnachweis.]"
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "08_Arbeitsauftrag.docx",
+          "title": "Arbeitsauftrag zur Auskunft mit den roten Markierungen",
+          "issuer": "Team Datenschutz",
+          "date": "2026-11-10",
+          "sections": [
+            {
+              "heading": "Auftrag für die erste Runde",
+              "paragraphs": [
+                "Bearbeiten Sie die Anfrage der Privatkundin Mara Lindhorst für die Merrensteg Elektrosysteme SE. Stellen Sie Datum, Identität, Frist und Umfang fest. Trennen Sie die unternehmensinterne Zielfrist 25.11.2026 vom gesetzlichen Monatslauf. Prüfen Sie bei der Berechnung, dass der 29.11.2026 ein Sonntag ist. Ermitteln Sie auch personenbezogene Kundendaten außerhalb des Reparaturtickets, soweit sie in der Akte verarbeitet werden.",
+                "Erstellen Sie aus den Belegen ein ausformuliertes Kundenanschreiben und eine verständliche Kopie. Stimmen Sie Datei, Fundstelle und vorgeschlagene Behandlung in der Prüfmatrix ab. Prüfen Sie Art. 15 Abs. 1 bis 4 DSGVO und die Reichweite des Kopierechts anhand EuGH, Urteil vom 04.05.2023, C-487/21, Rn. 32–45. Behandeln Sie den tatsächlichen Datenempfänger anhand EuGH, Urteil vom 12.01.2023, C-154/21, Rn. 39–48."
+              ]
+            },
+            {
+              "heading": "Verschiedene Arten roter Markierung",
+              "paragraphs": [
+                "Kontrollieren Sie, welche rot markierte Passage im Kundenkontext erhalten bleiben muss. Identifizieren Sie außerdem Fremddaten, die nicht markiert wurden. Entwerfen Sie eine funktionsbezogene Wiedergabe oder begrenzte Auszüge, soweit der Kontext für die Kundin verständlich bleibt. Prüfen Sie am PDF-Export, ob die sichtbare Markierung auch technisch wirksam ist. Schreiben Sie für den Kundenversand eine eigene endgültige Freigabeentscheidung vor.",
+                "Für die zweite Runde entwerfen Sie eine kurze Prüfanweisung für die separate Schulungsfassung. Berücksichtigen Sie Gesichter, Namensschilder, Handschrift, Kennzeichen, indirekte Kennungen und Kombinationen sowie Textschichten und Metadaten. Prüfen Sie Identifizierbarkeit anhand von Art. 4 Nr. 1 und 5 und Erwägungsgrund 26 DSGVO. Begründen Sie, ob Rollenmarker und gekürzte Daten genügen oder nur Pseudonymisierung vorliegt."
+              ]
+            },
+            {
+              "heading": "Amtliche Quellen",
+              "paragraphs": [
+                "DSGVO (Art. 12 und 15): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679",
+                "EuGH, C-487/21 (Kopie und Rechte Dritter): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0487",
+                "EuGH, C-154/21 (Empfänger): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0154",
+                "Fristenberechnung, Art. 3 der Verordnung Nr. 1182/71: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31971R1182"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

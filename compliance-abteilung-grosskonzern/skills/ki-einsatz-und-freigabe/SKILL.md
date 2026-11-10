@@ -1,6 +1,6 @@
 ---
 name: ki-einsatz-und-freigabe
-description: "Prüft KI-Beschaffung und konkrete Nutzung in Legal, Compliance und Beschäftigung. Für belastbare Pilottests, Prompt-Versionierung, Datenflüsse, Quellenkorrektur, menschliche Kontrolle, Fehlerzurechnung, Kompetenzmaßnahmen, Qualifizierung und zeitstandsbezogene Beschäftigungs-KI."
+description: "Prüft KI-Beschaffung und konkrete Nutzung in Legal, Compliance und Beschäftigung. Für belastbare Pilottests, Prompt-Versionierung, Datenflüsse, KI-Schwärzung bei Kundenauskünften nach Art. 15 DSGVO, Quellenkorrektur, menschliche Kontrolle, Fehlerzurechnung, Kompetenzmaßnahmen, Qualifizierung und zeitstandsbezogene Beschäftigungs-KI."
 ---
 
 # KI-Einsatz und Freigabe
@@ -39,6 +39,20 @@ Sichern Sie bei fehlerhafter Ausleitung Entwurf, Prüffassung, Systemänderung, 
 
 Für Organentscheidungen erfassen Sie damalige Informationsgrundlage, Alternativen, Systemgrenzen und Vollkosten. Eine gemessene Ersparnis begründet allein keine allgemeine KI-Nutzungspflicht. Bei Stellenabbau verbinden Sie tatsächlichen Aufgabenwegfall, Restarbeit, geeignete freie Stellen, zumutbare Qualifizierung und erforderliche Beteiligung. Trennen Sie technische Mitbestimmung, Berufsbildung, Betriebsänderung und Sozialplan anhand ihrer jeweiligen Voraussetzungen.
 
+### 3.5 Kundenauskunft und Schwärzung
+
+Bei einer Kundenanfrage nach Art. 15 DSGVO erfassen Sie Eingang, Umfang, Verantwortlichen, Antwortkanal und belegte Identität. Zusätzliche Identitätsangaben nur bei begründeten Zweifeln und im nötigen Umfang. Antworten Sie unverzüglich, spätestens binnen eines Monats. Bei Komplexität oder zahlreichen Anträgen können Sie erforderlichenfalls um bis zu zwei weitere Monate verlängern. Informieren Sie die Person innerhalb des ersten Monats über Verlängerung und Gründe. Die erste Kopie ist unentgeltlich. Suchen Sie auch in internen Vermerken und Freitext nach Kundendaten und dokumentieren Sie Systeme, Suchschlüssel und Lücken. Das Antwortschreiben enthält die fallbezogenen Angaben nach Art. 15 Abs. 1 und gegebenenfalls Abs. 2. Benennen Sie belegte konkrete Empfänger nach C-154/21, Rn. 43–51. Kategorien kommen bei objektiv fehlender Identifizierbarkeit oder nachgewiesener offenkundiger Unbegründetheit oder Exzessivität des Antrags in Betracht. [Art. 12 und 15 DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu) · [EuGH C-154/21](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=celex%3A62021CJ0154)
+
+Die Datenkopie gibt die verarbeiteten Kundendaten originalgetreu und verständlich wieder. Fügen Sie Auszüge und bei Erforderlichkeit ganze Dokumente oder Datenbankauszüge bei, wenn erst der Kontext die wirksame Rechtsausübung ermöglicht. Trennen Sie reine Fremddaten von gemischten Zeilen und wägen Sie dort konkret nach Art. 15 Abs. 4 DSGVO ab. Erhalten Sie Kundendaten und erforderlichen Kontext, etwa die Bewertung in einem internen Vermerk. Schwärzen Sie bei Bedarf nur das schutzbedürftige Element oder stellen Sie einen geeigneten originalgetreuen Auszug her. [EuGH, Urteil vom 4. Mai 2023, C-487/21, Rn. 32 und 39–45](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A62021CJ0487)
+
+Unterscheiden Sie nachgewiesene externe Empfänger von internen Beschäftigten, die unter Verantwortung und nach Weisung auf die Kundendaten zugreifen. Erfassen Sie bei solchen Zugriffen Datum und Zweck. Ob die Namen der Beschäftigten für die wirksame Rechtsausübung unerlässlich sind, prüfen Sie getrennt unter Berücksichtigung ihrer Rechte und Freiheiten. [EuGH, Urteil vom 22. Juni 2023, C-579/21, Rn. 73–83](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62021CJ0579)
+
+Vor dem Upload prüfen Sie, ob der konkrete Arbeitsbereich und die tatsächliche Konfiguration für diesen Zweck und diese Datenarten freigegeben sind. Belegen Sie Rollen, Berechtigungen, Speicherort und Übermittlungen, Auftragsverarbeitung, Unterauftragnehmer, Protokollierung, Löschung sowie die Einstellung zur Nachnutzung. Fehlt die Freigabe für Originaldaten, bearbeiten Sie die Auskunft im zugelassenen manuellen Verfahren weiter.
+
+Rote KI-Markierungen sind Vorschläge. Prüfen Sie am Original sowohl markierte als auch unmarkierte Stellen, auch OCR-Textschichten, Bildinhalte, indirekte Kennungen, Kommentare, Metadaten und Anhänge. Erfassen Sie je Fundstelle Beibehalten, Teilschwärzung oder Entfernen mit knapper Begründung. Entfernen Sie geschützte Inhalte technisch aus der Empfängerkopie. Eine farbige oder schwarze Überdeckung reicht dafür nicht. Öffnen, rendern und extrahieren Sie die konkrete Ausgabedatei erneut. Prüfen Sie Suche, Kopieren, eingebettete Inhalte, verbleibende Kundendaten und Lesbarkeit. Dokumentieren Sie Fehlmarkierungen, übersehene Stellen, Prüfergebnis und freigegebene Version getrennt von der Kundenantwort.
+
+Für weitere Anonymisierungsaufträge bestimmen Sie Verwendungszweck und Empfängerkreis. Prüfen Sie direkte Merkmale wie Name oder Gesicht sowie Kombinationen aus Ort, Datum, Kennungen und verfügbarer Zusatzinformation. Ist eine Person mit vernünftigerweise einsetzbaren Mitteln weiterhin bestimmbar, behandeln Sie das Ergebnis weiter als personenbezogen. Halten Sie die interne Zuordnung getrennt und beschränkt. [Erwägungsgrund 26 und Art. 4 Nr. 5 DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu)
+
 ## 4 Quellenpflicht
 
 Beachten Sie [Quellen und Zitierweise](../../references/zitierweise.md). Öffnen Sie Rechtsquellen am Original, prüfen Sie Aussage und Übertragbarkeit und nennen Sie ungeprüfte tragende Sätze konkret. Tatsachen erhalten die genaue Originalfundstelle; KI-Ausgaben sind keine unabhängige Tatsachenquelle. Verifizieren Sie bei späterem Einsatz insbesondere Änderungen und Übergänge der KI-Verordnung erneut.
@@ -50,3 +64,5 @@ Liefern Sie das bestellte Dokument in vollständigen, ausformulierten Sätzen; S
 ## 6 Beispiele
 
 ME-04 verlangt eine Quellenkorrektur am Original. ME-30 rekonstruiert den Fehlerweg bis zum Kunden statt den letzten Freigabehaken automatisch als Alleinschuld zu werten. ME-35 verlangt eine tatsächliche Scoreprüfung und eine zeitstandsbezogene Rechtsbewertung; eine künftige Betreiberpflicht wird nicht vorzeitig als geltender Verstoß behandelt.
+
+ME-36 verlangt Antwortentwurf, Datenkopie und eine getrennte dokumentierte Kontrolle der Schwärzungen.

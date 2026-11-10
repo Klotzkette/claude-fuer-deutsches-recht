@@ -60,6 +60,7 @@ Bewerten Sie widersprechende Belege nach Herkunft, zeitlicher Nähe, Vollständi
 | ME-33 Sechs Wochen Kurs und zwei unbesetzte Stellen | KI-Einsatz und Freigabe | Weiterbeschäftigungs- und Qualifizierungsprüfung am relevanten Stellenbestand. |
 | ME-34 Die alte Linie und der leere Schulungsraum | KI-Einsatz und Freigabe | Beteiligungs- und Qualifizierungsunterlage mit getrennten kollektivrechtlichen Tatbeständen. |
 | ME-35 Der Score vor der ersten Nachtschicht | KI-Einsatz und Freigabe | Zeitstandsbezogene Freigabeprüfung mit tatsächlicher Scorewirkung und eigenständiger Datenschutzprüfung. |
+| ME-36 Die Auskunft mit den roten Markierungen | KI-Einsatz und Freigabe, Kundenauskunft | Antwort nach Art. 15 DSGVO, verständliche Datenkopie und separater Freigabevermerk mit Prüfung von Textschicht und Bildbeifang. |
 
 Die Fachwege können sich überschneiden. Bei ME-18 prüft der Meldungsweg zunächst Schutz und Sachverhalt; eine arbeitsrechtliche Endentscheidung benötigt den entsprechenden gesonderten Prüfauftrag. Bei ME-17 verantwortet der KI-Fachweg die Werkzeugnutzung, während der Bericht nach dem tatsächlich zuständigen Organ ausgerichtet wird.
 
