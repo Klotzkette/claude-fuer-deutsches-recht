@@ -1,6 +1,6 @@
 ---
 name: compliance-auftrag-steuern
-description: "Steuert konkrete Aufträge der Konzernrechts- und Compliance-Abteilung bis zum fertigen Arbeitsprodukt. Für Richtlinienauskunft, Ausnahmeentscheidung, Rechtsrecherche und Regulierungsmonitoring sowie die Zuordnung zu KI-Freigabe, Meldestelle, Geschäftspartnerprüfung oder Organbericht."
+description: "Steuert konkrete Aufträge der Konzernrechts- und Compliance-Abteilung bis zum fertigen Arbeitsprodukt. Für Richtlinienauskunft, Ausnahmeentscheidung, Rechtsrecherche und Regulierungsmonitoring sowie die Zuordnung zu KI-Freigabe, Kundenauskunft, Meldestelle, Geschäftspartnerprüfung oder Organbericht."
 ---
 
 # Compliance-Auftrag steuern
@@ -29,7 +29,9 @@ Vergleichen Sie für eine Klauseländerung Ausgangsfassung und geänderten Text 
 
 ### 3.3 Fachweg und Fortsetzung
 
-Wechseln Sie bei klarem Sachgegenstand zu [KI-Einsatz und Freigabe](../ki-einsatz-und-freigabe/SKILL.md), [Meldungen und Untersuchungen](../meldungen-und-untersuchungen/SKILL.md), [Geschäftspartner und Transaktionen](../geschaeftspartner-und-transaktionen/SKILL.md) oder [Kontrollen und Organberichte](../kontrollen-und-organberichte/SKILL.md). Die [Fallwege](../../references/belegpruefung-und-fallwege.md) ordnen sämtliche 35 Hamelner Fälle einem führenden Arbeitsprodukt zu; sie geben kein rechtliches Ergebnis vor.
+Wechseln Sie bei klarem Sachgegenstand zu [KI-Einsatz und Freigabe](../ki-einsatz-und-freigabe/SKILL.md), [Meldungen und Untersuchungen](../meldungen-und-untersuchungen/SKILL.md), [Geschäftspartner und Transaktionen](../geschaeftspartner-und-transaktionen/SKILL.md) oder [Kontrollen und Organberichte](../kontrollen-und-organberichte/SKILL.md). Die [Fallwege](../../references/belegpruefung-und-fallwege.md) ordnen sämtliche Hamelner Fälle einem führenden Arbeitsprodukt zu; sie geben kein rechtliches Ergebnis vor.
+
+Bei einer Kundenanfrage nach Art. 15 DSGVO trennen Sie den fälligen Auskunftsentwurf mit Datenkopie von der internen Werkzeugfreigabe. Für Umfang, Einzelfallabwägung und Prüfung der Schwärzung nutzen Sie [Kundenauskunft und Schwärzung](../ki-einsatz-und-freigabe/SKILL.md#35-kundenauskunft-und-schwärzung).
 
 Für eine Entscheidung über Untersuchung und Schutzmaßnahmen, einen konkreten Vertrag oder Zahlungsweg, die Betriebsfreigabe eines KI-Systems oder eine ausgefallene Kontrolle mit Organbedarf verwenden Sie direkt den passenden Fachskill. Übergeben Sie den vorhandenen Entwurf, seine tragenden Belege und die offenen Entscheidungspunkte an [Interne Untersuchung entscheiden](../interne-untersuchung-entscheiden/SKILL.md), [Geschäftspartnerfreigabe entscheiden](../geschaeftspartner-freigabe-entscheiden/SKILL.md), [KI-Betriebsfreigabe entscheiden](../ki-system-betriebsfreigabe-entscheiden/SKILL.md) oder [Kontrollversagen und Organentscheidung](../kontrollversagen-und-organentscheidung/SKILL.md).
 

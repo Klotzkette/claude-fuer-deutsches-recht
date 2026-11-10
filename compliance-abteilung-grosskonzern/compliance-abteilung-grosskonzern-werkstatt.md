@@ -1,6 +1,6 @@
 # 1 Arbeitsauftrag für die Konzern-Compliance
 
-Erarbeiten Sie für den konkreten Vorgang eine belastbare Richtlinienantwort, Geschäftspartnerentscheidung, Untersuchungsunterlage, Kontrollprüfung, Organvorlage oder KI-Freigabe. Verbinden Sie jede entscheidende Feststellung mit einem Aktenbeleg, dem passenden rechtlichen Maßstab und ihrer praktischen Folge. Arbeiten Sie bis zum bestellten Dokument weiter; eine Themenliste oder bloße Zusammenfassung genügt nicht.
+Erarbeiten Sie für den konkreten Vorgang eine belastbare Richtlinienantwort, Geschäftspartnerentscheidung, Untersuchungsunterlage, Kontrollprüfung, Organvorlage oder KI-Freigabe. Bei Kundenanfragen erstellen Sie eine Auskunft samt Datenkopie. Verbinden Sie jede entscheidende Feststellung mit einem Aktenbeleg, dem passenden rechtlichen Maßstab und ihrer praktischen Folge. Arbeiten Sie bis zum bestellten Dokument weiter; eine Themenliste oder bloße Zusammenfassung genügt nicht.
 
 Ein früher Prüfanker für automatisierte Personenbewertungen ist EuGH, Urteil vom 7. Dezember 2023, C-634/21, ECLI:EU:C:2023:957, Rn. 48–50 und 73: Eine automatisierte Bonitätsbewertung kann selbst eine Entscheidung nach Art. 22 DSGVO sein, wenn die Vertragsentscheidung des Dritten maßgeblich von ihr abhängt. Prüfen Sie deshalb die tatsächliche Wirkung eines Scores und die reale Entscheidungsmacht des Menschen. Das Urteil entscheidet weder sämtliche Beschäftigtenbewertungen noch die Risikoklasse nach der KI-Verordnung. [Amtliche Entscheidung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0634).
 
@@ -78,6 +78,18 @@ Bei Arbeitsplatzabbau quantifizieren Sie Aufgabenwegfall und verbleibende Arbeit
 
 Unterscheiden Sie Unterrichtung und Beratung, § 87 Abs. 1 Nr. 6 BetrVG, Berufsbildung nach §§ 96 bis 98 BetrVG und eine tatbestandlich zu prüfende Betriebsänderung mit Interessenausgleich und Sozialplan nach §§ 111, 112, gegebenenfalls 112a BetrVG. Eine KI-Einführung löst nicht pauschal jede dieser Rechtsfolgen aus. Für Beschäftigungs-KI prüfen Sie Art. 6 und Anhang III Nr. 4 sowie, soweit zeitlich und sachlich anwendbar, die Information nach Art. 26 Abs. 7 vor Inbetriebnahme oder Verwendung. Die DSGVO einschließlich Art. 22 und die nationalen Beteiligungsrechte bleiben selbständig.
 
+### 4.6 Kundenauskunft und KI-Schwärzung
+
+Bei einer Kundenanfrage nach Art. 15 DSGVO erfassen Sie Eingang, Umfang, Verantwortlichen, Antwortkanal und belegte Identität. Zusätzliche Identitätsangaben nur bei begründeten Zweifeln und im nötigen Umfang. Antworten Sie unverzüglich, spätestens binnen eines Monats. Bei Komplexität oder zahlreichen Anträgen können Sie erforderlichenfalls um bis zu zwei weitere Monate verlängern. Informieren Sie die Person innerhalb des ersten Monats über Verlängerung und Gründe. Die erste Kopie ist unentgeltlich. Suchen Sie auch in internen Vermerken und Freitext nach Kundendaten und dokumentieren Sie Systeme, Suchschlüssel und Lücken. Das Antwortschreiben enthält die fallbezogenen Angaben nach Art. 15 Abs. 1 und gegebenenfalls Abs. 2. Benennen Sie belegte konkrete Empfänger nach C-154/21, Rn. 43–51. Kategorien kommen bei objektiv fehlender Identifizierbarkeit oder nachgewiesener offenkundiger Unbegründetheit oder Exzessivität des Antrags in Betracht. [Art. 12 und 15 DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu) · [EuGH C-154/21](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=celex%3A62021CJ0154)
+
+Die Datenkopie gibt die verarbeiteten Kundendaten originalgetreu und verständlich wieder. Fügen Sie Auszüge und bei Erforderlichkeit ganze Dokumente oder Datenbankauszüge bei, wenn erst der Kontext die wirksame Rechtsausübung ermöglicht. Trennen Sie reine Fremddaten von gemischten Zeilen und wägen Sie dort konkret nach Art. 15 Abs. 4 DSGVO ab. Erhalten Sie Kundendaten und erforderlichen Kontext, etwa die Bewertung in einem internen Vermerk. Schwärzen Sie bei Bedarf nur das schutzbedürftige Element oder stellen Sie einen geeigneten originalgetreuen Auszug her. [EuGH, Urteil vom 4. Mai 2023, C-487/21, Rn. 32 und 39–45](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A62021CJ0487)
+
+Unterscheiden Sie nachgewiesene externe Empfänger von internen Beschäftigten, die unter Verantwortung und nach Weisung auf die Kundendaten zugreifen. Erfassen Sie bei solchen Zugriffen Datum und Zweck. Ob die Namen der Beschäftigten für die wirksame Rechtsausübung unerlässlich sind, prüfen Sie getrennt unter Berücksichtigung ihrer Rechte und Freiheiten. [EuGH, Urteil vom 22. Juni 2023, C-579/21, Rn. 73–83](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62021CJ0579)
+
+Vor dem Upload prüfen Sie, ob der konkrete Arbeitsbereich und die tatsächliche Konfiguration für diesen Zweck und diese Datenarten freigegeben sind. Belegen Sie Rollen, Berechtigungen, Speicherort und Übermittlungen, Auftragsverarbeitung, Unterauftragnehmer, Protokollierung, Löschung sowie die Einstellung zur Nachnutzung. Fehlt die Freigabe für Originaldaten, bearbeiten Sie die Auskunft im zugelassenen manuellen Verfahren weiter.
+
+Rote KI-Markierungen sind Vorschläge. Prüfen Sie am Original sowohl markierte als auch unmarkierte Stellen, auch OCR-Textschichten, Bildinhalte, indirekte Kennungen, Kommentare, Metadaten und Anhänge. Erfassen Sie je Fundstelle Beibehalten, Teilschwärzung oder Entfernen mit knapper Begründung. Entfernen Sie geschützte Inhalte technisch aus der Empfängerkopie. Eine farbige oder schwarze Überdeckung reicht dafür nicht. Öffnen, rendern und extrahieren Sie die konkrete Ausgabedatei erneut. Prüfen Sie Suche, Kopieren, eingebettete Inhalte, verbleibende Kundendaten und Lesbarkeit. Dokumentieren Sie Fehlmarkierungen, übersehene Stellen, Prüfergebnis und freigegebene Version getrennt von der Kundenantwort.
+
 ## 5 Meldungen und interne Untersuchungen
 
 ### 5.1 Aufnahme, Schutz und Fristen
@@ -142,7 +154,7 @@ Bei einem Nachtrag aktualisieren Sie denselben Entwurf. Nennen Sie knapp den neu
 
 ## 9 Fallbezogene Anwendung in der Hamelner Sammlung
 
-Die 35 Akten können einzeln oder in einer Folgeübung genutzt werden. Die vorhandenen fünf Skills bündeln sie nach dem konkreten Auftrag; ein Fall kann mehrere Prüfwege benötigen. Entscheiden Sie anhand des verlangten Produkts und ziehen Sie nur die dazu nötigen Unterlagen heran.
+Die 36 Akten können einzeln oder in einer Folgeübung genutzt werden. Die vorhandenen Skills bündeln sie nach dem konkreten Auftrag; ein Fall kann mehrere Prüfwege benötigen. Entscheiden Sie anhand des verlangten Produkts und ziehen Sie nur die dazu nötigen Unterlagen heran.
 
 | Fälle | Ausgangsproblem | Geeigneter erster Arbeitsstand | Sinnvolle Gegenprobe |
 | --- | --- | --- | --- |
@@ -154,5 +166,6 @@ Die 35 Akten können einzeln oder in einer Folgeübung genutzt werden. Die vorha
 | ME-24 bis ME-28 | Vermittler, Zukauf, Bericht zwischen Sitzungen, Dialog und Wirksamkeit. | Eine bedingte Partnerentscheidung, Integrationsaufgabe oder Kontrollbewertung. | Leistung und Zahlungsweg, Dealphase, Zuständigkeit und tatsächlichen Nachtest prüfen. |
 | ME-29 bis ME-32 | Einführungsentscheidung, Servicefehler, Upload und Pflichtbetrieb ohne Stopppfad. | Eine begründete Organvorlage oder ein getrennt zurechnender Vorfallsvermerk. | Pilotdaten, menschliche Prüfmöglichkeit, Systemänderung und mildere Maßnahmen vergleichen. |
 | ME-33 bis ME-35 | Freie Stelle, Montageinsel und Personalscore. | Eine Beschäftigungs-, Beteiligungs- oder Einsatzprüfung mit Stichtag. | Stellenregister und Qualifizierung, konkrete Betriebsänderung sowie Wirkung und Zeitstand der KI getrennt prüfen. |
+| ME-36 | Kundenanfrage mit gemischten Daten und roten KI-Schwärzungsvorschlägen. | Antwortentwurf mit Datenkopie und separatem Schwärzungsvermerk. | Kundenbezug, Empfängerliste, OCR und die genaue Ausgangsdatei gegenprüfen. |
 
 Ein Vorführdurchlauf beginnt mit dem Auftrag und wenigen Originalen, setzt sich mit einem widersprechenden Nachtrag fort und endet mit dem überarbeiteten Dokument. Die Präsentation zeigt damit eine begründete Änderung am Ergebnis und nicht nur eine längere Zusammenfassung.

@@ -1,0 +1,9 @@
+Treffer,Quelle,Fundstelle,Ausgabe,Erkennung,Beobachtung
+KB-01,CRM-Auszug,Eintrag SV-41782/03,Mara Lindhorst,rot · Person,Vorschlag: gesamten Eintrag maskieren
+KB-02,Sammel-Thread,Absatz 2,Jonas Evers,rot · Person,Vorschlag: sichtbaren Namen überdecken
+KB-03,Sammel-Thread,Absatz 2,05151 000 0187,rot · Telefon,Vorschlag: sichtbare Nummer überdecken
+KB-04,Sammel-Thread,Signatur,Privatkontakt der Bearbeiterin,rot · Telefon,Funktion und privater Kontakt getrennt prüfen
+KB-05,Sammelblatt,Randzeile des Scans,kein OCR-Treffer,grau · Bereich ohne Text,Scan in der Bildansicht nachprüfen
+KB-06,Servicefoto,Kurierkarte im Hintergrund,kein Treffer,grau · Bild,Kombination aus Kennung und Kurierfenster prüfen
+KB-07,Versandnachweis,SFT-ME-1711,Okerquell Prüftechnik GmbH,rot · Organisation,Vorschlag: Empfängername im Antwortentwurf ersetzen
+KB-08,Kundendatenkopie,Entwurf PDF,Sammel-Thread Absatz 2,rot · Fläche,"Kopieren, Suche und Dateistruktur prüfen"
