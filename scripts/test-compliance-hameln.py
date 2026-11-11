@@ -86,7 +86,8 @@ class ComplianceAkten(unittest.TestCase):
     def test_35_cases_have_individual_complete_additions(self):
         self.assertEqual(len(self.cases), 35)
         self.assertEqual({c['nr'] for c in self.cases}, {f'ME-{n:02d}' for n in range(1, 36)})
-        self.assertEqual(sum(len(document_arcname_pairs(ROOT / 'testakten' / c['slug'])) for c in self.cases), 420)
+        self.assertEqual(sum(path.name != '00_Einstieg.pdf' for c in self.cases
+                             for path, _ in document_arcname_pairs(ROOT / 'testakten' / c['slug'])), 420)
         bodies = set()
         for case in self.cases:
             directory = ROOT / 'testakten' / case['slug']
@@ -205,7 +206,8 @@ class ComplianceAkten(unittest.TestCase):
         report = json.loads((DIST / 'release-bestand.json').read_text())
         for case in self.cases:
             directory = ROOT / 'testakten' / case['slug']
-            pairs = document_arcname_pairs(directory)
+            pairs = [(path, name) for path, name in document_arcname_pairs(directory)
+                     if path.name != '00_Einstieg.pdf']
             item = next(r for r in report['cases'] if r['slug'] == case['slug'])
             self.assertEqual(item['documents'], len(pairs))
             with ZipFile(DIST / item['original']) as original, ZipFile(DIST / item['individual']) as pdfs:
@@ -215,7 +217,6 @@ class ComplianceAkten(unittest.TestCase):
                 combined_name = case['slug'] + '_gesamt.pdf'
                 data = original.read(combined_name)
                 self.assertEqual(data, (DIST / combined_name).read_bytes())
-                self.assertEqual(data, (directory / 'gesamt-pdf' / combined_name).read_bytes())
                 combined = PdfReader(BytesIO(data))
                 self.assertEqual(len(combined.pages), item['pages'])
                 expected_destinations = []

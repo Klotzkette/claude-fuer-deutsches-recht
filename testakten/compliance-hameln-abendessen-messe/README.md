@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-21. Richtlinienberatung und dok
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Fertigen Sie eine Entscheidung zum Ausnahmeantrag samt Vorschlag für die Teilnehmer, eine getrennte Kostentragung und eine Antwort an Vertrieb und Einkauf an.
+Der Vertrieb von Merrensteg reserviert am Vorabend einer Fachmesse einen Tisch für acht Personen. Zwei eingeladene Gäste arbeiten bei einem privaten Anlagenbauer, der über einen Abruf für 420.000 Euro entscheidet. Der dritte arbeitet für ein kommunal beherrschtes Stadtwerk, das gerade Bieterinformationen verschickt. Bislang kennen die Gäste nur den Termin. Der Vertrieb braucht bis morgen eine Antwort.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Das Essen kostet 68 Euro je Person ohne Getränke. Die interne Prüfschwelle liegt bei 70 Euro einschließlich Getränken und erlaubt eine Einladung während eines laufenden Verfahrens nicht automatisch. Ein günstigeres Menü und ein offenes technisches Treffen am Messestand stehen als Alternativen bereit. Die digitale Freigabe kann an der Budgetgrenze grün zeigen, obwohl Rolle und Zeitpunkt der Einladung ungeklärt sind.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Prüft für jeden Gast, in wessen Interesse er handelt und wie nah seine Rolle an der anstehenden Entscheidung liegt.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Rechnet die Angebote einschließlich Getränken und vergleicht die Kosten mit dem konkreten Regeltext. Prüft den Messestand als eigene Kontaktform.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die zusätzlichen Angaben zum Verfahren und zu den Gästen hinzu. Entwerft eine individuelle Entscheidung je Gast und einen neutralen Text für die Änderung des Termins.
+
+**Entscheidung am Ende.** Wer kann in welcher Form eingeladen werden, und welche Kontakte verschiebt der Vertrieb bis nach der Entscheidung?
+
+**Arbeitsauftrag.** Fertigen Sie eine Entscheidung zum Ausnahmeantrag samt Vorschlag für die Teilnehmer, eine getrennte Kostentragung und eine Antwort an Vertrieb und Einkauf an. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-abendessen-messe.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-abendessen-messe_gesamt.pdf`](gesamt-pdf/compliance-hameln-abendessen-messe_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-abendessen-messe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-abendessen-messe.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-abendessen-messe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-abendessen-messe-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-abendessen-messe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-abendessen-messe.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-abendessen-messe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-abendessen-messe-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-29. Vorstandssorgfalt, Pilotnac
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Entwerfe eine Beschlussvorlage mit zwei Optionen, Entscheidungsgrundlage, Annahmen, Haftungsfragen, technischen Freigabekriterien und Abbruchrecht. Begrenze die Aussagekraft des Kanzleivermerks.
+Merrensteg Elektrosysteme SE verkauft von Hameln aus Industrieantriebe und hält Ersatzteile für ältere Baureihen vor. Erik Dörnbusch möchte für 740.000 Euro einen KI-Assistenten kaufen, der im Service eine Ersatzteilfreigabe vorbereitet. Der Vorstand soll bis zum 21. Oktober entscheiden. Irma Winkelreuth bereitet die Vorlage vor. Nora Eibenrode aus Compliance fragt, ob bei alten Baureihen auch elektrisch inkompatible Teile vorgeschlagen werden können.
 
-Beginnen Sie mit den Stücken 01 bis 03 und dem Arbeitsauftrag 08. Reichen Sie das Register, die späteren Stücke und die Zusatzbelege nach dem ersten Entwurf ein. Die Gesamt-PDF enthält die vollständige Akte.
+Der Assistent sucht nach passenden Ersatzteilen in einem Katalog. Eine alte Tabelle kann einen Treffer plausibel aussehen lassen, obwohl die Baureihe oder Versorgungsspannung nicht passt. Die grüne Vergleichsgrafik bildet diesen Fehler und die Zeit für manuelle Korrekturen kaum ab. Eine Ersparnis im Durchschnitt sagt deshalb wenig über das Risiko einer falschen Kundenfreigabe.
+
+### 1.1 Vorführung in drei Runden
+
+1. Lesen Sie 01_Eingang.eml, 02_Sachgrundlage.docx und 03_Stellungnahme.eml. Lassen Sie erklären, was der Vorstand heute kaufen würde und auf welche Angaben sich der Preisvorteil stützt.
+2. Geben Sie 06_Nachtrag.pdf, 10_Beleg_10.pdf und 11_Beleg_11.pdf dazu. Lassen Sie die KI den Fehler am konkreten Ersatzteil erklären und die Optionen Vollrollout, begrenzter Pilot und Aufschub vergleichen.
+3. Prüfen Sie mit 12_Ergaenzende_Stellungnahme.eml und 13_Belegabgleich_und_Sicherungsstand.docx, welche Abnahmekriterien und Sperrmöglichkeiten eine verantwortbare Freigabe braucht. Schreiben Sie dann eine Beschlussvorlage mit Testgrenzen und Rückfallweg.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,12 +30,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-vorstand-freigabefenster_gesamt.pdf`](gesamt-pdf/compliance-hameln-vorstand-freigabefenster_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vorstand-freigabefenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vorstand-freigabefenster.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vorstand-freigabefenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vorstand-freigabefenster-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vorstand-freigabefenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-vorstand-freigabefenster.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vorstand-freigabefenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-vorstand-freigabefenster-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease zu KI und Arbeit. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den versionierten Release der Hamelner Praxisakten. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned release on AI and employment.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln practice release.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -39,6 +45,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

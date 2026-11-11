@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-19. Prävention, Früherkennung
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstellen Sie eine Entscheidungsvorlage über vorläufige Maßnahmen bei auffälligen Wartungsfreigaben und entwerfen Sie einen kurzen, belastbaren Zwischenstand für betroffene Kunden.
+Merrensteg wartet Schaltzellen in Papierwerken. Auf drei Servicefreigaben steht dieselbe Kennung A-1889. Zwei Werke planen ihre nächste Revision am Wochenende. Der Serviceleiter muss mit Nora Eibenrode entscheiden, ob einzelne Anlagen vorerst eingeschränkt betrieben werden und was den Kunden mitzuteilen ist. Einen gemeldeten Personenschaden gibt es nicht.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Die Serviceanweisung unterscheidet Anlage, austauschbare Baugruppe und Prüfadapter. Auf zwei Originalmessblättern stehen verschiedene Anlagen und derselbe Adapter. Eine Freigabe-PDF kann die falsche Kennung aus einer Vorlage übernommen haben. Die technische Frage bleibt, ob die konkrete Anlage tatsächlich geprüft wurde. Dafür braucht das Team die Messdaten, nicht nur das zuletzt erzeugte Dokument.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Markiert die betroffenen Werke, Anlagen und nächsten Betriebsentscheidungen. Haltet die vorsorgliche Maßnahme getrennt von einer Aussage über die Fehlerursache.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Führt für jede Freigabe Anlagenkennung, Baugruppe, Adapter und Originalmessung zusammen. Erklärt, welche Zuordnung sich aus dem PDF allein nicht treffen lässt.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die nachgereichten Mess- und Zeitnachweise auf. Entwerft je Werk einen kurzen Stand mit Einsatzentscheidung, Nachprüfung und zuständiger Kontaktperson.
+
+**Entscheidung am Ende.** Welche Schaltzelle darf weiterlaufen, welche muss vor der Revision untersucht werden und wem teilt der Service das mit?
+
+**Arbeitsauftrag.** Erstellen Sie eine Entscheidungsvorlage über vorläufige Maßnahmen bei auffälligen Wartungsfreigaben und entwerfen Sie einen kurzen, belastbaren Zwischenstand für betroffene Kunden. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-seriennummer-fruehwarnung.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-seriennummer-fruehwarnung_gesamt.pdf`](gesamt-pdf/compliance-hameln-seriennummer-fruehwarnung_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-seriennummer-fruehwarnung.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-seriennummer-fruehwarnung.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

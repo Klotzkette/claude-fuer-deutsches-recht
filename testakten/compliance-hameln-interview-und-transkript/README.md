@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-15. KI-Interviewtranskripte und
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle ein verifiziertes Gesprächsprotokoll mit Korrekturtabelle und einen Freigabevermerk zur Speicherung, weiteren Transkription und Anhörung.
+Legal untersucht für Merrensteg, ob in einem Handelsvertretergeschäft ein Preis an einen Wettbewerber weitergegeben wurde. Am 13. Oktober befragt die Rechtsabteilung zwei Beschäftigte. Laut Einladung sind Handnotizen vorgesehen. Nora Eibenrode bekommt trotzdem ein 27-minütiges automatisch erzeugtes Transkript. Darin steht, eine Sachbearbeiterin habe den Preis weitergegeben. Sie sagt schriftlich, sie habe genau das Gegenteil gesagt.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Zwei Stimmen tragen im Export dasselbe Initial. Die Interviewerin hat markiert, dass das entscheidende Frage-Antwort-Paar unterbrochen wurde. Das Adminprotokoll zeigt den Start eines Transkriptionsdienstes. Im Ordner liegt außerdem ein Tonexport unbekannter Herkunft. Die Akte muss klären, was tatsächlich gesagt wurde, wer welchen Satz gesagt hat und welche Funktionen entgegen der geplanten Handnotiz liefen.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Spielt die strittige Stelle ohne Namensnennung nach. Lasst die Gruppe zwischen einer sicheren Aussage, einer unsicheren Sprecherzuordnung und dem Widerspruch der Betroffenen unterscheiden.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Gleicht Einladung, Adminprotokoll, Zeitmarken und Tonexport ab. Führt Gesprächsinhalt und Zulässigkeit von Aufzeichnung, Transkription und weiteren Funktionen getrennt.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die ergänzende Stellungnahme und den Sicherungsstand hinzu. Entwerft einen Vermerk, der nur belegte Aussagen übernimmt, die strittige Passage kennzeichnet und Zugriffe auf sensible Dateien begrenzt.
+
+**Entscheidung am Ende.** Welche Fassung darf in die Untersuchungsakte, und muss Irma die Betroffene nochmals ohne automatischen Mitschnitt befragen?
+
+**Arbeitsauftrag.** Erstelle ein verifiziertes Gesprächsprotokoll mit Korrekturtabelle und einen Freigabevermerk zur Speicherung, weiteren Transkription und Anhörung. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-interview-und-transkript.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-interview-und-transkript_gesamt.pdf`](gesamt-pdf/compliance-hameln-interview-und-transkript_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-interview-und-transkript.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-interview-und-transkript.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-interview-und-transkript-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-interview-und-transkript-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-interview-und-transkript.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-interview-und-transkript.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-interview-und-transkript-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-interview-und-transkript-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

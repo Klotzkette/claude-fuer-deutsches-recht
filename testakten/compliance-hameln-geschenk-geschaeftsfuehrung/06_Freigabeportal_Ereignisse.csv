@@ -1,0 +1,7 @@
+Zeit CET/CEST,Vorgang,Version,Ereignis,Konto,Wert EUR,Gegenstand,Freigabeverweis
+2026-10-22T10:21:11+02:00,EF-511,1,erstellt,einkauf.barlach,160.00,Prüfstandschulung für Lorberg und Barlach,
+2026-10-23T08:42:29+02:00,EF-511,1,genehmigt,compliance.breede,160.00,"fachliche Schulung ohne Begleitperson, ohne Hotel",ZW-2026-119
+2026-11-02T09:31:08+01:00,EF-511,2,Import Lieferantenportal,svc.vendor-sync,1590.00,Hotel für zwei Personen und vier Konzertkarten,
+2026-11-02T09:31:09+01:00,EF-511,2,Hinweisstatus auf Karte synchronisiert,svc.dashboard,1590.00,Kartenstatus grün aus Vorgangsversion 1,ZW-2026-119
+2026-11-02T11:45:05+01:00,EF-511,2,Kalendereintrag vorläufig,assistenz.wiemken,1590.00,Gastgebertermin vorgemerkt,
+2026-11-03T07:55:01+01:00,EF-511,2,Revision exportiert,audit.readonly,1590.00,kein neues Prüfereignis im Export,

@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-25. M&A-Due-Diligence und Integ
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstellen Sie einen Entscheidungsvermerk zur Fortsetzung der Transaktion und einen Freigabeplan für Signing, Closing und Integration mit Schutz des Informationsaustauschs.
+Merrensteg will für rund 28 Millionen Euro einen Schaltanlagenservice kaufen. Rund 37 Prozent seines Umsatzes hängen an einem öffentlichen Rahmenkunden. Zu den Zahlungen an zwei Absatzberater liegen zunächst nur unvollständige Daten vor. Das Integrationsteam verlangt bereits sämtliche Kundenpreise und Zugang zum Auftragsbuch, obwohl die zuständige Wettbewerbsbehörde noch nicht freigegeben hat.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Im Datenraum stehen Zusammenfassungen, Verträge und Rechnungen in verschiedenen Fassungen. Ein beschränktes Prüferteam darf sensible Inhalte sichten, der aktive Vertrieb gehört nicht dazu. Wer einen Datenraum-Assistenten pauschal zusammenfassen lässt und das Ergebnis ins Integrationsteam weiterleitet, kann Berechtigungen und Zweckbindung umgehen. Die kaufentscheidenden Fragen müssen trotzdem vor der Unterschrift auf den Tisch.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Trennt Prüfbedarf vor Unterschrift, Vorbereitung bis zur Freigabe und Integration nach zulässigem Vollzug. Legt für jede Stufe den Empfängerkreis fest.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Prüft Wechselklausel, Beraterverträge und offene Zahlungen. Benennt Originalbelege, die für die Kaufentscheidung benötigt werden, und Daten, die nur aggregiert weitergegeben werden sollen.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die nachgereichten Hinweise aus dem Datenraum auf. Formuliert für jede rote Linie eine Bedingung vor Vertragsschluss oder eine vertragliche Absicherung mit Termin.
+
+**Entscheidung am Ende.** Welche Frage kann den Kauf stoppen und welche Daten darf das Integrationsteam jetzt bekommen?
+
+**Arbeitsauftrag.** Erstellen Sie einen Entscheidungsvermerk zur Fortsetzung der Transaktion und einen Freigabeplan für Signing, Closing und Integration mit Schutz des Informationsaustauschs. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-zukauf-schaltservice.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-zukauf-schaltservice_gesamt.pdf`](gesamt-pdf/compliance-hameln-zukauf-schaltservice_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-zukauf-schaltservice.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-zukauf-schaltservice.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-zukauf-schaltservice-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-zukauf-schaltservice-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-zukauf-schaltservice.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-zukauf-schaltservice.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-zukauf-schaltservice-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-zukauf-schaltservice-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

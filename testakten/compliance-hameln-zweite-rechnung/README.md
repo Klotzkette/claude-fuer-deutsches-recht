@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-04. Quellenprüfung, Halluzinat
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Überprüfe den Entwurf Satz für Satz. Liefere eine Belegmatrix, eine juristisch belastbare Sachverhaltsbeschreibung und einen Entwurf für die interne Weiterbearbeitung.
+Die Merrensteg Elektrosysteme SE kauft Leistungsmodule für ihre Antriebe. Bei der Rechnung LV-614 über 18.460 Euro findet die Kreditorenbuchhaltung zwei Buchungszeilen mit derselben Rechnungsnummer. Eine interne KI nennt das im Entwurf „erwiesenen Abrechnungsbetrug“ und empfiehlt, die Lieferantin zu sperren. Das hätte sofort Folgen: Der Einkauf will am nächsten Morgen Ersatzteile bei ihr bestellen. Nora Eibenrode gibt den Entwurf zur Kontrolle an Irma Winkelreuth.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Das System zieht aus zwei Einträgen einen Schluss über zwei Zahlungen und die Absicht der Lieferantin. Der Bankauszug zeigt zunächst nur einen Abgang, das Zwischenkonto außerdem eine Gegenbuchung. Für die angebliche Entscheidung „XK 417/26“ fehlen Gericht, Datum und eine Direktfundstelle. Der Screenshot belegt lediglich, was die KI ausgegeben hat. Für eine belastbare Lagebeurteilung muss das Team Buchung, Zahlungsauftrag und ausgeführte Zahlung getrennt nachvollziehen.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Zerlegt den KI-Entwurf in einzelne Aussagen. Welche sind Tatsachenbehauptungen, welche Vorwürfe, welche Schlussfolgerungen aus einer behaupteten Quelle?
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Verfolgt LV-614 vom Postfach über die Beleg-IDs bis zum Zwischenkonto und zur Bank. Prüft die Fundstelle unabhängig und dokumentiert das Ergebnis als Suchstand.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Öffnet Stapellaufbericht und Rückmeldung der Bank. Lasst Wiederholungszeile, Gegenbuchung und abgewiesenen Datensatz in der Akte. Schreibt danach eine Kurzmeldung, die bestätigte Vorgänge und offene Metadatenfragen getrennt nennt.
+
+**Entscheidung am Ende.** Was kann der Einkauf vor der Ersatzteilbestellung mit Sicherheit wissen, und welche Sicherungsmaßnahme ist bis zur technischen Aufklärung begründbar?
+
+**Arbeitsauftrag.** Überprüfe den Entwurf Satz für Satz. Liefere eine Belegmatrix, eine juristisch belastbare Sachverhaltsbeschreibung und einen Entwurf für die interne Weiterbearbeitung. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-zweite-rechnung.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-zweite-rechnung_gesamt.pdf`](gesamt-pdf/compliance-hameln-zweite-rechnung_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-zweite-rechnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-zweite-rechnung.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-zweite-rechnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-zweite-rechnung-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-zweite-rechnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-zweite-rechnung.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-zweite-rechnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-zweite-rechnung-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

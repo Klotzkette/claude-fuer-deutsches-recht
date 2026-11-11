@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-23. Interne Untersuchung, Beleg
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Entwerfen Sie einen verhältnismäßigen Untersuchungsauftrag, ein Belegregister und einen vertraulichen Zwischenbericht mit Alternativerklärungen und Prüfschritten.
+Merrensteg hat eine Schaltfeldprüfung im Außendienst bestellt. In der Buchhaltung stehen zwei Rechnungen über je 18.760 Euro mit derselben Auftragsnummer, aber unterschiedlichen Gesellschaften und Bankverbindungen. Eine ist bereits bezahlt, die zweite wartet auf Freigabe. Im Anlagenbuch findet sich nur ein Termin. Nora Eibenrode soll klären, wer welche Leistung abrechnen darf und ob eine Bankverbindung geändert wurde.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Das Systemprotokoll nennt für die Änderung am 7. Oktober das technische Sammelkonto TK-Service. Zwei Vertretungen nutzen dieses Konto. Die vorgeschriebene unabhängige Rückfrage bei der bekannten Nummer ist in einer Notiz ohne Telefonnummer vermerkt. Ein KI-Entwurf kann aus „TK-Service änderte die Bankdaten“ eine persönliche Zuschreibung machen, die der technische Nachweis nicht trägt.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Verfolgt beide Rechnungen vom Eingang bis zum Zahlungslauf. Haltet gesondert fest, welche Zahlung tatsächlich ausgeführt wurde.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Gleicht Rechtsträger, Vertrag, Einsatznachweis und Bankdaten ab. Legt den möglichen Rückrufweg und die Grenzen der Nutzerzuordnung offen.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die nachgereichten Angaben zur Leistung und zum Konto hinzu. Formuliert eine sichere Zwischenentscheidung und gezielte Rückfragen, ohne einzelne Beschäftigte zu beschuldigen.
+
+**Entscheidung am Ende.** Welche Verbindlichkeit und welcher Zahlungsweg sind ausreichend belegt, um die noch offene Rechnung freizugeben?
+
+**Arbeitsauftrag.** Entwerfen Sie einen verhältnismäßigen Untersuchungsauftrag, ein Belegregister und einen vertraulichen Zwischenbericht mit Alternativerklärungen und Prüfschritten. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-wartungsvertrag-doppelbuchung.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-wartungsvertrag-doppelbuchung_gesamt.pdf`](gesamt-pdf/compliance-hameln-wartungsvertrag-doppelbuchung_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wartungsvertrag-doppelbuchung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wartungsvertrag-doppelbuchung.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wartungsvertrag-doppelbuchung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wartungsvertrag-doppelbuchung-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wartungsvertrag-doppelbuchung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-wartungsvertrag-doppelbuchung.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wartungsvertrag-doppelbuchung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-wartungsvertrag-doppelbuchung-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-31. Geschäftsgeheimnis, öffen
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle eine getrennte Datenschutz- und Personalspur mit Kenntniszeitpunkten, offenen Tatsachen, Risikoprüfung, Beweissicherung und einem Entwurf für die Entscheidung über die nächsten Maßnahmen.
+In Hameln entwickelt Merrensteg Elektrosysteme SE einen neuen Motor. In einer Stückliste stehen unveröffentlichte Bezugsquellen, Staffelpreise und geschäftliche Kontaktadressen. Wiebke Harndorf aus der Nachtschicht wollte mit einem KI-Werkzeug ein Kalkulationsproblem für einen Zulieferer übersetzen. Ein Browseralarm meldet einen Upload. Die Führungskraft fordert ihre sofortige Kündigung. IT und Datenschutz wollen zuerst klären, welche Daten wohin gelangt sind.
 
-Beginnen Sie mit den Stücken 01 bis 03 und dem Arbeitsauftrag 08. Reichen Sie das Register, die späteren Stücke und die Zusatzbelege nach dem ersten Entwurf ein. Die Gesamt-PDF enthält die vollständige Akte.
+Auf dem Leihgerät führt ein Favorit auf eine andere Seite als am Standardarbeitsplatz. Deshalb kann ein Werkzeug auf dem Bildschirm vertraut wirken, während der Upload den geschützten Unternehmensbereich verlässt. Außerdem bezeichnet der Alarm einen technischen Zeitpunkt. Welche Stelle wann genug über Inhalt und Empfänger wusste, ergibt sich erst aus weiteren Belegen.
+
+### 1.1 Vorführung in drei Runden
+
+1. Lesen Sie 01_Eingang.eml bis 03_Stellungnahme.eml. Lassen Sie eine Liste der konkret zu sichernden Daten erstellen und zwischen der Stückliste, den Kontaktadressen und dem Browseralarm unterscheiden.
+2. Ergänzen Sie 04_Datenregister.xlsx, 06_Nachtrag.pdf sowie 10_Beleg_10.pdf und 11_Beleg_11.pdf. Rekonstruieren Sie den Zielbereich und die Zeitpunkte der Kenntnis. Halten Sie fehlende Angaben des Anbieters fest.
+3. Verwenden Sie 12_Ergaenzende_Stellungnahme.eml und 13_Belegabgleich_und_Sicherungsstand.docx. Entwerfen Sie eine getrennte Empfehlung zu Datenschutz, Systemabsicherung und dem arbeitsrechtlichen Vorgehen.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,12 +30,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-offenes-fenster-fuer-stuecklisten_gesamt.pdf`](gesamt-pdf/compliance-hameln-offenes-fenster-fuer-stuecklisten_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-offenes-fenster-fuer-stuecklisten-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease zu KI und Arbeit. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den versionierten Release der Hamelner Praxisakten. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned release on AI and employment.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln practice release.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -39,6 +45,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

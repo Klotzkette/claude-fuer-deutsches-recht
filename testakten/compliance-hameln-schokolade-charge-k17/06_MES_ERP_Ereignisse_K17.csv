@@ -1,0 +1,12 @@
+Zeit Europe/Berlin,System,Objekt,Ereignis,Konto oder Gerät,Vorher,Nachher,Nachweis
+2026-10-26T17:36:00+01:00,MES,BK64-K17,Serienauftrag aus ERP importiert,svc_erp_bridge,-,BK64-R04 | 1200 kg,MES-50176
+2026-10-26T18:43:11+01:00,MES,BK64-K17,Rezeptzuordnung manuell überschrieben,svc_linebridge via TERM-L3-02,BK64-R04,BK64-M06,MES-50201
+2026-10-26T18:43:13+01:00,MES,BK64-K17,Warnung fehlende Serienfreigabe bestätigt,svc_linebridge via TERM-L3-02,BLOCK,ACCEPT_OVERRIDE,MES-50202
+2026-10-26T18:43:17+01:00,ERP,BK-64080,Versionsabgleich Auftrag,svc_mes_bridge,R04 | V08,WARN_RECIPE_MAP_MISSING | R04 und V08 bleiben,ERP-62029
+2026-10-27T06:12:43+01:00,MES,BK64-K17,Verwiegung Kakaomasse abgeschlossen,WAAGE-L3-01,KM-44 Lot KM261023,"528,00 kg",MES-50311
+2026-10-27T06:16:41+01:00,MES,BK64-K17,Verwiegung Kakaobutter abgeschlossen,WAAGE-L3-01,KB-20 Lot KB261022,"240,00 kg",MES-50312
+2026-10-27T06:26:17+01:00,MES,BK64-K17,Verwiegung Ballaststoff abgeschlossen,WAAGE-L3-01,Inulin Lot IN261019,"240,00 kg",MES-50313
+2026-10-27T06:31:57+01:00,MES,BK64-K17,Verwiegung Süßungsmittel abgeschlossen,WAAGE-L3-01,Maltit E 965(i) Lot MA261020,"190,80 kg",MES-50314
+2026-10-27T06:34:36+01:00,MES,BK64-K17,Verwiegung Premix abgeschlossen,WAAGE-L3-03,Premix E 960a Lot ST261021,"1,20 kg",MES-50315
+2026-10-27T14:13:05+01:00,Drucksystem,BK64-K17,Charge auf Folie gedruckt,PRINT-L3-04,V08 vorbedruckt,V08 | L K17 | 27.04.2027,PRINT-19225
+2026-10-27T18:38:00+01:00,ERP,BK64-K17,Routinefreigabe Verpackung und Warenbewegung,qs_line3,Prüflos 2610273,FREI | Spezifikation R04 in Anzeige,ERP-62198

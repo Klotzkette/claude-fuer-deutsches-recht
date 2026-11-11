@@ -2,7 +2,7 @@
 
 Das Plugin unterstützt Rechts- und Compliance-Teams eines Industriekonzerns bei konkreten Entscheidungen. Es ordnet Zuständigkeiten und Belege, bereitet Freigaben, Ermittlungen, Kontrollentscheidungen und Organvorlagen vor und hält die Grenzen der jeweiligen Freigabe fest.
 
-Die 36 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln. Das Unternehmen entwickelt Industrieantriebe und Schalttechnik. Die Rechts- und Compliance-Abteilung arbeitet mit Werken, Einkauf, Datenschutz und Konzernorganen. Die 35 Akten der bisherigen Workshop-Reihe enthalten jeweils eine ergänzende Stellungnahme und ein Beleg- und Sicherungsprotokoll. Die neue Auskunftsakte enthält eine KI-Prüfansicht, einen gesperrten Exportkandidaten und eine separat prüfbare Bildbeilage. Vier Schwerpunktakten führen den Vorgang mit zusätzlichen Originalbelegen bis zu einer weiteren Entscheidung. Die 35 bearbeitbaren Word-Vorlagen verbinden den konkreten Auftrag mit Gegenargumenten, Nachweisen und umsetzbaren Entscheidungstexten.
+In 39 fiktiven Fällen übernehmen Sie die Rolle der Konzern-Compliance. Die meisten Akten spielen bei Merrensteg Elektrosysteme SE, einem Hersteller von Industrieantrieben und Schalttechnik in Hameln. Die Schokoladenakte führt in eine eigenständige Lebensmittelfabrik der Region. Jeder Fall beginnt mit einer lesbaren Geschichte über Betrieb, Beteiligte, Konflikt und anstehende Entscheidung. Der Einstieg führt in der Reihenfolge der Bearbeitung zu den Originalstücken und erklärt, wo die digitale Auswertung oder der Prozess in die Irre führen kann.
 
 ## 1 Einstieg
 
@@ -80,6 +80,14 @@ Jeder Fachskill kann direkt aufgerufen werden. Er verarbeitet die vorhandenen Un
 | ME-34 | [Die alte Linie und der leere Schulungsraum](../testakten/compliance-hameln-montageinsel-sozialplan/README.md) | Betriebsänderung, Interessenausgleich, Qualifizierungs-Sozialplan und § 97 BetrVG | [Word-Vorlage](templates/compliance-hameln-montageinsel-sozialplan.docx) |
 | ME-35 | [Der Score vor der ersten Nachtschicht](../testakten/compliance-hameln-personalscore-vor-start/README.md) | Beschäftigungs-KI nach Anhang III, Art. 26 Abs. 7, DSGVO und Betriebsrat | [Word-Vorlage](templates/compliance-hameln-personalscore-vor-start.docx) |
 
+## 4.1 Produkt- und Personal-Compliance
+
+| Fall | Anlass |
+| --- | --- |
+| ME-37 · [Die Tafel aus Charge K17](../testakten/compliance-hameln-schokolade-charge-k17/README.md) | Rezepturänderung, Süßstoffe, Kennzeichnung, Chargen und Maßnahmen im Handel |
+| ME-38 · [Das Wochenende des Geschäftsführers](../testakten/compliance-hameln-geschenk-geschaeftsfuehrung/README.md) | Einladung an den Geschäftsführer, Vergabeentscheidung, Interessenkonflikt und Kontrollspur |
+| ME-39 · [Das Sicherheitsrelais mit der falschen Freigabe](../testakten/compliance-hameln-sicherheitsrelais-hinweis/README.md) | Sicherheitsrelais, widersprüchliche Prüfbelege, Feldmaßnahmen und Schutz nach einem Hinweis |
+
 ## 5 Workshop-Downloads
 
 Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PDF mit Lesezeichen. Die Materialien enthalten EML, DOCX, XLSX, CSV, PNG und PDF. Ausgewählte Besprechungen enthalten zusätzlich bearbeitbare PowerPoint-Folien.
@@ -90,17 +98,26 @@ Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PD
 
 | Paket | Datei |
 | --- | --- |
-| 35 Arbeitsakten in Originalformaten mit Gesamt-PDFs und 35 Word-Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_35_Testakten_und_Vorlagen.zip) |
+| 39 Arbeitsakten in Originalformaten mit Gesamt-PDFs und bearbeitbaren Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/Hameln_Compliance_39_Praxisakten.zip) |
 | 35 getrennte fallbezogene Prüfblätter aus den beiden Reihen | [Nachbesprechung als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_Nachbesprechung_35.zip) |
-| ME-36 · Auskunft nach Art. 15 DSGVO | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-auskunft-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) · [Fall und Moderationsmaterial](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/README.md) |
+| ME-36 · Auskunft nach Art. 15 DSGVO | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) · [Fall und Moderationsmaterial](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/README.md) |
 
 Die Nachbesprechung enthält die bisherigen Prüfblätter der beiden Fallreihen. Die ergänzenden Stellungnahmen und Sicherungsprotokolle sind im eigenen Durchlauf zusätzlich gegen die ursprünglichen Belege zu prüfen. Die Aktenseiten bieten die jeweiligen Originalformat-ZIPs und Einzel-PDF-ZIPs; die Nachbesprechung liegt getrennt von diesen Arbeitsunterlagen.
 
 ## 6 Ablauf der Vorführung
 
-Beginnen Sie mit der E-Mail und dem Dokument aus der Fachabteilung. Fordern Sie eine Belegmatrix und einen ersten Entwurf in der Word-Vorlage an. Reichen Sie anschließend Datenregister und Nachtrag nach und lassen Sie gezielt die betroffenen Feststellungen und den Entscheidungsvorschlag überarbeiten. Bei einer Anlagenübung die relevanten Originale als PDF-Arbeitskopien zusammenstellen, nummerieren und mit Fundstellen verknüpfen. Die Stücke 12 und 13 bilden eine weitere Bearbeitungsrunde: Welche Aussage wird durch den Nachtrag gestützt, eingeschränkt oder widerlegt? Fordern Sie eine überarbeitete Endfassung und eine kurze Änderungsnotiz an. Die Nachbesprechung bleibt für diesen Durchlauf separat.
+Lesen Sie gemeinsam den Sachverhalt am Anfang. Klären Sie in einem Satz, wer heute über was entscheiden muss. Laden Sie für die erste Runde nur die dort benannten Ausgangsbelege. Fordern Sie eine Erklärung in Alltagssprache und eine vorläufige Entscheidung. Legen Sie die widersprechende Unterlage erst dann nach. Die Prüfmatrix gehört an das Ende des Durchlaufs. Sie verknüpft die entscheidenden Aussagen mit Originalstellen und zeigt, was noch fehlt.
 
-Bei ME-22, ME-24, ME-28 und ME-35 folgen danach die Stücke 14 bis 16. Legen Sie die vorherige Fassung und die neuen Belege zusammen vor. Lassen Sie die Änderung an der konkreten Handlungsempfehlung begründen und verwenden Sie die Fortsetzungsseite der jeweiligen Word-Vorlage. Für die Moderation gibt es einen [getrennten Leitfaden zur letzten Bearbeitungsrunde](../quality/compliance-vertiefung/fachvertiefung-moderation.md).
+| Wenn Sie vorführen möchten, wie … | Öffnen Sie … | Woran Sie den Nutzen erkennen |
+| --- | --- | --- |
+| … man ein KI-Werkzeug für den Betrieb auswählt | [ME-01 · KI-Toolpilot](../testakten/compliance-hameln-ki-toolpilot/README.md) | Der Entwurf legt fest, was ein Pilot beweisen muss und welche Daten dabei verwendet werden dürfen. |
+| … ein Ranking in die Personalauswahl eingreift | [ME-35 · Der Score vor der ersten Nachtschicht](../testakten/compliance-hameln-personalscore-vor-start/README.md) | Die Gruppe findet heraus, ob die zuständige Schichtleitung ausgeblendete Bewerbungen sehen und berücksichtigen kann. |
+| … ein unzulässiges Produkt aus dem Handel genommen werden kann | [ME-37 · Die Tafel aus Charge K17](../testakten/compliance-hameln-schokolade-charge-k17/README.md) | Die Gruppe verbindet Rezeptur, Labor und Lieferdaten und formuliert eine konkrete Entscheidung für die betroffene Charge. |
+| … ein Interessenkonflikt vor dem Zuschlag aufgeklärt wird | [ME-38 · Geschenk und Vergabe](../testakten/compliance-hameln-geschenk-geschaeftsfuehrung/README.md) | Die Gruppe prüft Einladung, Empfänger, Rolle und Genehmigungsstand vor der Entscheidung über den Anbieter. |
+| … Produktsicherheit und der Schutz einer hinweisgebenden Person parallel bearbeitet werden | [ME-39 · Sicherheitsrelais und Hinweis](../testakten/compliance-hameln-sicherheitsrelais-hinweis/README.md) | Die Gruppe verfolgt Seriennummern, Prüfstände und Schichtentscheidung in den Originaldaten. |
+
+Bei ME-22, ME-24, ME-28 und ME-35 folgt eine zusätzliche Runde mit den Stücken 14 bis 16. Legen Sie den ersten Entwurf neben die neuen Belege. Lassen Sie die Änderung an der Handlungsempfehlung begründen und nutzen Sie die Fortsetzungsseite der jeweiligen Word-Vorlage. [Leitfaden für die Moderation](../quality/compliance-vertiefung/fachvertiefung-moderation.md).
+
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

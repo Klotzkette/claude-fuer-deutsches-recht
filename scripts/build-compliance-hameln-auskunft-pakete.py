@@ -53,6 +53,8 @@ def build(dist, rebuild):
     )
     builder = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(builder)
+    if (CASE / '00_Einstieg.pdf').is_file():
+        raise ValueError('Für den historischen Release bitte den Tag ' + TAG + ' auschecken.')
     if dist.exists() and any(dist.iterdir()):
         raise ValueError('Das Ausgabeziel muss leer sein.')
     dist.mkdir(parents=True, exist_ok=True)

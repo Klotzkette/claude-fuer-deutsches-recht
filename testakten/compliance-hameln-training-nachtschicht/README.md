@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-11. Compliance-Training und Awa
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle ein rollenbezogenes Trainingskonzept mit Lernkontrollen, Begleitmaterial, einem belastbaren Messkonzept und einem Freigabevermerk für die nächste Pilotwelle.
+In Hameln startet Merrensteg die Nachtschicht für die Endmontage von Elektrosystemen. Das Lernportal meldet 418 bestandene KI-Kurse, die Personalliste nennt 480 Beschäftigte und Einsatzkräfte. Nora Eibenrode will die erste Schulungswelle abschließen. In der Schichtbesprechung konnte jedoch niemand erklären, wo ein vermutlich falscher Wartungshinweis zu melden ist.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Ein 24-Minuten-Kurs mit drei Klickfragen sagt wenig darüber, ob jemand im Ernstfall handeln kann. Schichtpersonal liest KI-Hinweise, Teamleitungen nutzen Freigabeentwürfe und externe Dolmetscher bearbeiten Störungstickets. Diese Gruppen brauchen unterschiedliche Übungen. Der Lernexport zählt Konten, die Personalliste zählt Personen zum Stichtag. Für manche Externe gibt es nur Einsatzkennungen, manchen Nachtschichtkräften fehlt Zugang während bezahlter Arbeitszeit.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Spielt einen falschen Wartungshinweis durch. Lasst Schichtkraft, Teamleitung und Dolmetscher jeweils erklären, was sie prüfen, weitergeben und melden.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Gleicht Lernkonten, Personen, Externe und den Stichtag ab. Trennt Teilnahme, Ergebnis und rollenbezogene Befähigung. Zeigt, welche Zuordnungen offen sind.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Prüft die zusätzlichen Lernbelege und Zugangshindernisse. Entwerft eine Übung und einen belegbaren Nachtest je Rolle, einschließlich eines Angebots für die Nachtschicht.
+
+**Entscheidung am Ende.** Was kann Nora der Leitung als belegten Schulungsstand berichten, und welche Gruppen brauchen vor dem weiteren Einsatz noch eine Maßnahme?
+
+**Arbeitsauftrag.** Erstelle ein rollenbezogenes Trainingskonzept mit Lernkontrollen, Begleitmaterial, einem belastbaren Messkonzept und einem Freigabevermerk für die nächste Pilotwelle. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-training-nachtschicht.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-training-nachtschicht_gesamt.pdf`](gesamt-pdf/compliance-hameln-training-nachtschicht_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-training-nachtschicht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-training-nachtschicht.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-training-nachtschicht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-training-nachtschicht-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-training-nachtschicht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-training-nachtschicht.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-training-nachtschicht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-training-nachtschicht-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)
