@@ -21,7 +21,7 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import expected_arcnames
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 SLUG = 'fintech-darlehen-vertragsuebernahme-bremen'
@@ -269,7 +269,7 @@ class FintechCase(unittest.TestCase):
     def test_release_archives_match_sources(self):
         if ASSETS is None:
             self.skipTest('--assets für den zusätzlichen Archivvergleich angeben')
-        expected = working_dump_archive_pairs(CASE, include_gesamt_pdf=True)
+        expected = working_dump_archive_pairs(CASE, include_gesamt_pdf=source_zip_includes_gesamt_pdf(CASE))
         with zipfile.ZipFile(ASSETS/('testakte-'+SLUG+'.zip')) as archive:
             self.assertEqual(set(archive.namelist()), {'README.txt', *(name for _,name in expected)})
             self.assertEqual(archive.read('README.txt'), NOTICE_BYTES)

@@ -2,6 +2,8 @@
 
 Die Akte gehört zum Plugin [Steuerrecht für Anwalt und Berater](../../../steuerrecht-anwalt-und-berater/README.md). Hubertus Tomasius lebt in Freiburg und verbindet Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit. Felix Boscherharb ist sein Steuerberater, Sascha Strauß ein Ansprechpartner im Datenschutzmandat.
 
+Öffnen Sie für die eigene Auswertung nur den Ordner `Grundakte` im Originalformat-ZIP. Die Ordnerangaben in der Beschreibung bezeichnen die Sachgruppen. Die späteren Unterlagen zur Umsatzsteuer und die ausgefüllten Arbeitsbögen stehen außerhalb der Grundakte.
+
 ## 1 Arbeitsauftrag
 
 Bereiten Sie aus den Originalunterlagen die steuerliche Auswertung und die Erklärungen für 2025 vor. Das Umsatzsteuerverfahren für das vierte Quartal führt von der Anmeldung zum abweichenden Vorauszahlungsbescheid, zum Einspruch und zur ablehnenden Einspruchsentscheidung. Der letzte Aktenstand enthält Auftrag und Material für die anschließende Klagevorbereitung.
@@ -26,7 +28,7 @@ Die Ordner 13 bis 15 enthalten den Einkommensteuer-Nachtrag. Der deutsch-englisc
 
 | Datei | Zugriff |
 | --- | --- |
-| Vollständige native Akte mit Musikschul- und Rom-Unterlagen | [ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/tomasius-steuerakte-v4/Testakte_Tomasius_2025_Rom_Musikschule_v4.zip) |
+| Originalformat-ZIP mit Grundakte, Musikschul- und Rom-Unterlagen | [ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Testakte_Tomasius_2025_Grundakte.zip) |
 | Release-Prüfsummen | [SHA-256 herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/tomasius-steuerakte-v4/checksums-sha256.txt) |
 | Verfahrensakte ohne Einkommensteuer-Nachtrag | [ZIP-Fassung v3](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/Testakte_Tomasius_UStVA_Einspruch_2025_v3.zip) |
 | Frühere Originalakte | [ZIP-Fassung v2](Testakte_Tomasius_Lebenswelt_2025_v2.zip) |

@@ -31,9 +31,9 @@ Beginnen Sie mit den frühen Stücken. Lassen Sie das Modell seine Rechnung, den
 
 | Paket | Download |
 | --- | --- |
-| Fünf Verfahrensakten und drei Vorführfälle mit Word-Vorlagen | [Alle acht Akten als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Steuerwerkstatt_8_Testakten.zip) |
-| Drei Vorführfälle mit Word-Vorlagen | [Workshop-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Workshop_3_Livefaelle.zip) |
-| Ehegatten-Oderkonto mit sechs Word-Vorlagen | [Oderkonto-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.1/Freiburg_Oderkonto_Akte_und_Vorlagen.zip) |
+| Fünf Verfahrensakten und drei Vorführfälle mit Word-Vorlagen | [Alle acht Akten als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Freiburg_Steuerwerkstatt_8_Testakten.zip) |
+| Drei Vorführfälle mit Word-Vorlagen | [Workshop-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Freiburg_Workshop_3_Livefaelle.zip) |
+| Ehegatten-Oderkonto mit sechs Word-Vorlagen | [Oderkonto-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Freiburg_Oderkonto_Akte_und_Vorlagen.zip) |
 | Interne Nachbesprechung und Rechenwege | [Dozentenmappe als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Dozentenmappe.zip) |
 
 ### 3.1 Soloakte Hubertus Tomasius
@@ -44,7 +44,7 @@ Die [Soloakte für das Jahr 2025](tomasius-solo/README.md) enthält Betrieb und 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Vollständige Tomasius-Akte als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/tomasius-steuerakte-v4/Testakte_Tomasius_2025_Rom_Musikschule_v4.zip)
+[Tomasius-Akte mit Grundakte als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Testakte_Tomasius_2025_Grundakte.zip)
 
 ## 4 Word-Vorlagen
 

@@ -54,6 +54,8 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Zugeordnete Testakten
 
+Entpacken Sie das Originalformat-ZIP und laden Sie für den ersten Durchlauf nur `Grundakte`. Dort liegen die Eingangsunterlagen, einschließlich eines gegebenenfalls anzufechtenden Ausgangsbescheids. Die späteren Verfahrensstücke liegen außerhalb dieses Ordners. Die Gesamt-PDF ist separat abrufbar.
+
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -62,13 +64,30 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Pflegekasse Trier: nächtliche Weglauftendenz, Pflegegrad und Entlastungsleistungen](../testakten/sozialrecht-pflegegrad-demenz-nachtwache-trier/README.md) | [Gesamt-PDF](../testakten/sozialrecht-pflegegrad-demenz-nachtwache-trier/gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf) | [`testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) | [`testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip) |
-| [Sozialrecht: Wohnraumanpassung und Rampe in Wittenberge](../testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/README.md) | [Gesamt-PDF](../testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) | [`testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) | [`testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip) |
+| [Pflegekasse Trier: nächtliche Weglauftendenz, Pflegegrad und Entlastungsleistungen](../testakten/sozialrecht-pflegegrad-demenz-nachtwache-trier/README.md) | [Gesamt-PDF](../testakten/sozialrecht-pflegegrad-demenz-nachtwache-trier/gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf) | [`testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) | [`testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip) |
+| [Sozialrecht: Wohnraumanpassung und Rampe in Wittenberge](../testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/README.md) | [Gesamt-PDF](../testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) | [`testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) | [`testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Pflegegrad prüfen, die Versorgung finanzieren und den nächsten Antrag oder Rechtsbehelf ausarbeiten. Dieses eigenständige Paket konzentriert sich auf Pflegeversicherung nach dem SGB XI. Vorhandene Pflegeinhalte anderer Plugins bleiben unverändert dort verfügbar.
+
+### Fünf Arbeitsakten mit Grundakte
+
+In Trier und Wittenberge stehen Pflegegrad, Nachtversorgung und die Finanzierung eines barrierefreien Zugangs im Mittelpunkt. Die drei ergänzenden Akten zeigen die Schnittstellen zu Hilfsmitteln der Krankenkasse, weiteren Sozialleistungen und der gesetzlichen Unfallversicherung. Öffnen Sie für den eigenen Entwurf zuerst `Grundakte`. In der Vollakte finden Sie anschließend die Verfahrensstücke und die vertieften Gutachten.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte | Arbeits-ZIP |
+| --- | --- |
+| [Pflegegrad und Nachtversorgung in Trier](../testakten/sozialrecht-pflegegrad-demenz-nachtwache-trier/README.md) | [Originalunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) |
+| [Rampe und Wohnraumanpassung in Wittenberge](../testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/README.md) | [Originalunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) |
+| [Elektrorollstuhl für Heinz Körner in Oldenburg](../testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg/README.md) | [Originalunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip) |
+| [Aktivrollstuhl und weitere Ansprüche der Familie Tannenberg](../testakten/sozialrecht-rollstuhl-tannenberg/README.md) | [Originalunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
+| [Asbestverdacht nach Werftarbeit in Bremen](../testakten/berufskrankheit-asbest-schlosser-werft-bremen/README.md) | [Originalunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip) |
+| Alle fünf Akten | [Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Pflegerecht_5_Testakten_mit_Grundakte.zip) |
 
 ## 1. Einsteigen
 

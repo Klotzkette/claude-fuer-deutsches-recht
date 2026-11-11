@@ -1,11 +1,23 @@
-# Berufskrankheitenakte Asbest Schlosser Werft Bremen
+# Asbest auf der Werft in Bremen
+
+Der frühere Werftschlosser Dieter Harms erkrankt mit 72 Jahren an Lungenkrebs. Auf der Fähre Nordlicht und an der Dampfleitung der Santa Felicia hat er alte Rohrpackungen entfernt. Vier Jahrzehnte später muss er rekonstruieren, an welchen Arbeiten er persönlich beteiligt war. Die Berufsgenossenschaft hat die Anerkennung als Berufskrankheit zunächst abgelehnt. Seine Frau bringt den Briefumschlag, erste Befunde und eine Vollmacht in die Kanzlei. Während dort die Unterlagen eingehen, beginnt die Radio-Chemotherapie.
+
+<!-- reserved-example-contacts -->
+
+## 1 Erstauftrag mit der Grundakte
+
+Öffnen Sie im Originalformat-ZIP den Unterordner der Grundakte. Sein Stand ist der Vormittag des 14. Juli 2026 vor Einlegung des Widerspruchs. Darin finden Sie die Ausgangsentscheidung, den Posteingang, die Arbeitsanamnese, originale E-Mails, Werftnachweise, medizinische Unterlagen und die Kostenliste der Familie. Entwerfen Sie daraus den Widerspruch mit einem eigenen Fristenvermerk. Arbeiten Sie heraus, auf welchen Schiffen Arbeitsstoff und persönlicher Einsatz zusammen belegt sind. Vergleichen Sie die rechtsseitige Vorerkrankung mit den getrennt vom Tumor beschriebenen Pleuraauffälligkeiten. Legen Sie fest, was die Berufsgenossenschaft zu jedem Befund noch ermitteln soll.
+
+## 2 Bearbeitung nach dem Widerspruch
+
+Für die zweite Runde öffnen Sie die Nachermittlung des Präventionsdienstes, den Widerspruchsbescheid und dessen Zugangsnachweis. Prüfen Sie, ob die Dosisrechnung die Grenze von 25 Faserjahren nachweist und welche Schlüsse sich aus den im Widerspruchsbescheid eingeräumten Arbeitseinsätzen ziehen lassen. Geben Sie das später eingegangene arbeitsmedizinische Aktengutachten erst danach hinzu und entwerfen Sie Ihre Klage mit Beweisthemen. Die vollständigen Fassungen von Widerspruch, Klage, Klageerwiderung und internem Vermerk stehen außerhalb der Grundakte für den Vergleich bereit.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -14,33 +26,25 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/berufskrankheit-asbest-schlosser-werft-bremen_gesamt.pdf`](gesamt-pdf/berufskrankheit-asbest-schlosser-werft-bremen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-berufskrankheit-asbest-schlosser-werft-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-berufskrankheit-asbest-schlosser-werft-bremen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-berufskrankheit-asbest-schlosser-werft-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-berufskrankheit-asbest-schlosser-werft-bremen-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Arbeitsakte zu einer geltend gemachten Berufskrankheit nach jahrzehntelanger Asbestexposition eines Werftschlossers in Bremen, mit Expositionskalender, Lungenbefunden, BG-Ermittlung, Witwen- und Rentenfolgefragen. Die Akte ist für `fachanwalt-sozialrecht` und `rentenpruefer` gedacht.
+## 3 Aktenstücke für die zweite Runde
 
-Enthalten sind ausformulierte Aktenstücke, Bescheide, medizinische oder betriebliche Unterlagen, Fristenmaterial, Tabellen und Arbeitsentwürfe. Die rechtliche Bewertung bleibt offen; die Unterlagen liefern den Sachverhalt für Widerspruch, Klage, Eilverfahren, Statusprüfung, Reha- und Rentenfolgefragen.
+Die arbeitstechnische Nachermittlung enthält zwei nachvollziehbare Rechenvarianten mit unterschiedlichen Annahmen zu Zeit, Faserstaub und Material. Das arbeitsmedizinische Aktengutachten vergleicht die Pleura in CT-Untersuchungen vor und nach der Tumordiagnose. Die Klageerwiderung grenzt ein, welche Beweisthemen nach Vorlage des Gutachtens tatsächlich streitig geblieben sind. In der Mandantenkorrespondenz lassen sich Fahrtkosten, Altersrente und eine mögliche Verletztenrente gesondert prüfen.
 
----
+## 4 Quellen für die rechtliche Prüfung
 
-<!-- BEGIN nachgereichte-originalunterlagen -->
-## Nachgereichte Originalunterlagen
-
-Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
-
-| Datei | Herkunft und Inhalt |
-| --- | --- |
-| [`13_werftarbeitsbuch_arbeitsplaetze_1974_1992.docx`](13_werftarbeitsbuch_arbeitsplaetze_1974_1992.docx) | Betriebsarchiv-Auskunft mit konkreten Dock- und Materialfundstellen |
-| [`14_email_ehemaliger_kollege_rohrisolierung.eml`](14_email_ehemaliger_kollege_rohrisolierung.eml) | Zeugennachricht eines früheren Arbeitsvorbereiters |
-| [`15_kolonnenbuch_fundstellen_asbest.csv`](15_kolonnenbuch_fundstellen_asbest.csv) | Rohabschrift der erhaltenen Kolonnenbücher |
-| [`16_email_zeuge_brase_antwort.eml`](16_email_zeuge_brase_antwort.eml) | Antwort des früheren Kollegen Willi Brase auf das Zeugenanschreiben zur Fähre Nordlicht 1978 |
-| [`17_telefonvermerk_bg_widerspruchseingang.docx`](17_telefonvermerk_bg_widerspruchseingang.docx) | Kanzleivermerk zum Telefonat mit der BG über Widerspruchseingang und Nachermittlung |
-| [`18_behandlungstermine_fahrtkosten.csv`](18_behandlungstermine_fahrtkosten.csv) | Termin- und Fahrtkostenliste der laufenden Radio-Chemotherapie |
-
-<!-- END nachgereichte-originalunterlagen -->
+- [Berufskrankheiten-Verordnung Anlage 1 Nummern 4103 und 4104](https://www.gesetze-im-internet.de/bkv/anlage_1.html)
+- [Paragraf 9 SGB VII](https://www.gesetze-im-internet.de/sgb_7/__9.html)
+- [BSG Urteil vom 30. Januar 2007 B 2 U 15/05 R zur technischen Alternative](https://www.dguv.de/uv-recht/2007/12_2007/12_2007_03.pdf)
+- [BSG Urteil vom 16. März 2021 B 2 U 11/19 R zu den Anforderungen an den Nachweis einer Listen-Berufskrankheit](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2021/2021_03_16_B_02_U_11_19_R.pdf?__blob=publicationFile&v=2)
+- [Hessisches LSG Urteil vom 4. Mai 2021 L 3 U 174/20 zu medizinischen und technischen Brückenbefunden](https://www.sozialgerichtsbarkeit.de/node/169770/pdf)
+- [DGUV Begutachtungsempfehlung für asbestbedingte Berufskrankheiten](https://publikationen.dguv.de/versicherungleistungen/berufskrankheiten/2459/empfehlung-fuer-die-begutachtung-asbestbedingter-berufskrankheiten-falkensteiner-empfehlung)
+- [IFA BK-Report Faserjahre](https://www.dguv.de/ifa/publikationen/reports-download/reports-2013/bk-report-1-2013/index.jsp)

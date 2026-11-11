@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Integration und Pfadsicherheit bestellter Projektordner-ZIPs. Autor: Klotzkette."""
 from contextlib import redirect_stderr, redirect_stdout
+from email.message import EmailMessage
 import importlib.util
 import io
 from pathlib import Path
@@ -97,6 +98,42 @@ class ProjectDirectories(unittest.TestCase):
             archive, _ = W.build_single(case, dist)
             with zipfile.ZipFile(archive) as result:
                 self.assertEqual(result.namelist(), ['README.txt', 'eingang__brief.txt'])
+
+    def test_intake_is_only_in_native_archive_and_contains_each_source_once(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            case = root / 'probe'
+            case.mkdir()
+            (case / 'Eingang.txt').write_text('Bitte prüfen Sie den Vertrag und den Zahlungseingang.')
+            (case / 'Klageentwurf.txt').write_text('Entwurf eines Schriftsatzes aus der späteren Bearbeitung.')
+            combined = case / 'gesamt-pdf' / 'probe_gesamt.pdf'
+            combined.parent.mkdir()
+            canvas = Canvas(str(combined))
+            canvas.drawString(50, 700, 'Lesefassung')
+            canvas.save()
+            with patch('testakte_zip_common.selection', return_value={'central': {'probe': ['Eingang.txt']}}):
+                original, _ = W.build_single(case, root)
+                with zipfile.ZipFile(original) as archive:
+                    self.assertEqual(archive.namelist(), ['README.txt', 'Grundakte/Eingang.txt', 'Klageentwurf.txt'])
+                    self.assertEqual(archive.read('Grundakte/Eingang.txt'), (case / 'Eingang.txt').read_bytes())
+                singles, _ = E.build_single(case, root)
+                with zipfile.ZipFile(singles) as archive:
+                    self.assertEqual(set(archive.namelist()), {'README.txt', 'Eingang.pdf', 'Klageentwurf.pdf'})
+
+    def test_intake_rejects_procedural_attachment_in_selected_email(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            case = root / 'probe'
+            case.mkdir()
+            message = EmailMessage()
+            message.set_content('Hier ist das vom Gericht zugestellte Schreiben.')
+            message.add_attachment(b'PDF-Inhalt', maintype='application', subtype='pdf',
+                                   filename='Widerspruchsbescheid.pdf')
+            (case / 'Eingang.eml').write_bytes(message.as_bytes())
+            with patch('testakte_zip_common.selection', return_value={'central': {'probe': ['Eingang.eml']}}):
+                with self.assertRaisesRegex(ValueError, 'Widerspruchsbescheid'):
+                    W.build_single(case, root)
+                self.assertFalse((root / 'testakte-probe.zip').exists())
 
     def test_path_traversal_absolute_windows_and_control_paths_are_rejected(self):
         for path in ('../brief.txt', '/brief.txt', '01/../../brief.txt', '01\\brief.txt', 'C:/brief.txt',

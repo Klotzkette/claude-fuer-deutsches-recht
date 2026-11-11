@@ -1,6 +1,8 @@
-jahr,taetigkeit,asbestkontakt_wahrscheinlichkeit,dauer_pro_woche,beleg,zeuge
-1974,Rohrleitungsdemontage,hoch,18 Stunden,Arbeitsbuch Halle 3,Günter Kroll
-1978,Fähre Nordlicht Isolierung,hoch,24 Stunden,Werftauftrag handschriftlich,Willi Brase
-1983,Dichtungen schneiden,mittel,10 Stunden,Lagerkarte Dichtungsmaterial,Jens Tietjen
-1987,Heißdampfleitung Tanker,hoch,16 Stunden,Schichtplan Nachtarbeit,Mehmet Ucar
-1989,Werftabwicklung,mittel,6 Stunden,Abwicklungsplan,unklar
+Zeitraum;Arbeitsort;Tätigkeit;Angabe zur Dauer;Herkunft;Bezug zu Harms
+1974-09 bis 1975-06;Halle 3 und Kühlfrachter Alsterblick;Leitungen demontiert und Pumpen ersetzt;"regelmäßig; etwa 18 Stunden je Reparaturwoche nach Erinnerung";Arbeitsbuch H3-74 und Gespräch am 9.7.2026;Lohnkarte D 1578 und Kroll als Zeuge
+1978-05;Fähre Nordlicht;Alte Rohrisolierung geöffnet und abgestemmt;"mehrere Wochen; erinnerte 24 Stunden je Woche nicht durchgängig belegt";Arbeitsauftrag N-78/16 und Zeuge Brase;Persönlicher Tageszettel erhalten
+1982-02;Santa Felicia Deck 4;Dampfleitungsflansche freigelegt;"drei Kalenderwochen Kolonnenzeit; zwölf Nachtschichten persönlich zugeordnet";Nachtschichtliste 4-6 und Mößner;Kürzel DH und Personalnummer 1578
+1983-03 bis 1983-06;Dock 2 und Rohrwerkstatt;Dichtungen mit Messer und Schleifer bearbeitet;etwa zehn Stunden je Reparaturwoche aus Erinnerung;Materialkarte D/83 und Zeuge Tietjen;Kein gesicherter Materialanteil
+1987-11;Tanker Bremer Stern;Heißdampfleitungen im Nachtdienst repariert;"zwei Wochen im Schichtplan; persönliche Teilzeiten offen";Liste BS 11/87 und Zeuge Ucar;Namenszeile erhalten
+1989-01 bis 1989-09;Werkstatt Rohrbau und Lager;Abwicklung und Ausbau alter Teile;etwa sechs Stunden je Woche nach Erinnerung;"Abwicklungsplan; Tage fehlen";Unklar welcher Raum und welches Material
+1989-10 bis 2016-06;Hansa Antriebstechnik GmbH;Maschinenmontage und Wartung;Vollzeit bis zum Renteneintritt;Versicherungsverlauf und eigene Angaben;"Keine erinnerte Isolierarbeit; Betriebsunterlagen fehlen"

@@ -1,11 +1,15 @@
 # Akte: Familie Tannenberg - vier Sozialrechtsverfahren parallel
 
+In Kiel bittet die Familie Tannenberg wegen vier Bescheiden um Hilfe. Olaf benötigt nach einer Verschlechterung seiner Multiplen Sklerose einen Rollstuhl, den er mit der rechten Hand führen kann. Lena braucht Unterstützung beim Schulbesuch, Margarete hat nach Schlaganfall und Fraktur mehr Pflegebedarf, und Bodo streitet über seine Erwerbsminderungsrente. In der Grundakte liegen die mitgebrachten Unterlagen und Erstbescheide nach Personen geordnet. Für Olaf ist der Stichtag das erste Kanzleigespräch am 20. Mai 2026. Erst im weiteren Verfahrensmaterial stehen für ihn der Widerspruchsbescheid, die Klage und der Antrag auf eine vorläufige Versorgung.
+
+<!-- reserved-example-contacts -->
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -14,12 +18,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf`](gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-rollstuhl-tannenberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-rollstuhl-tannenberg-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-rollstuhl-tannenberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-rollstuhl-tannenberg-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -61,7 +65,13 @@ sozialrecht-rollstuhl-tannenberg/
 │   ├── Wohnungsskizze_Mandant_Beschreibung.docx       <- Wohnung, Zuschnitt, Engstellen
 │   ├── Bildbeschreibung_Rollator_kaputt.docx          <- Zustand des vorhandenen Rollators
 │   ├── Widerspruchsschreiben_RA_Holm_20-05-2026.docx  <- Anwaltlicher Widerspruch
-│   └── Eilantrag_SG_Kiel_25-08-2026.docx              <- Eilantrag nach Paragraf 86b SGG
+│   ├── Versuchsprotokoll_Aktivrollstuhl_06-02-2026.docx <- Funktionsprüfung dreier Antriebsvarianten
+│   ├── Erklaerung_Briefzugang_und_Alltag_20-05-2026.docx <- Eigene Angaben zum Bescheidzugang und Hilfebedarf
+│   ├── Aerztliche_Verlaufsmitteilung_14-08-2026.docx  <- Befund für die aktuelle Versorgungslage
+│   ├── Erklaerung_Begleitung_August_25-08-2026.docx   <- Angaben zu Begleitung, Leihgerät und Vorfinanzierung
+│   ├── Widerspruchsbescheid_Nordsee-BKK_18-08-2026.docx <- Zweiter Bescheid mit Zustellvermerk
+│   ├── Klageschrift_SG_Kiel_25-08-2026.docx            <- Hauptsache zur Hilfsmittelversorgung
+│   └── Eilantrag_SG_Kiel_25-08-2026.docx              <- Vorläufige Versorgung nach Paragraf 86b SGG
 ├── 02-lena-schulbegleitung/                           <- Eingliederungshilfe Schulbegleitung (SGB VIII)
 │   ├── Bescheid_Jugendamt_Kiel_12-03-2026.pdf         <- Ablehnung der Schulbegleitung
 │   ├── KJP-Stellungnahme_Dr_Maibaum_22-02-2026.pdf    <- Kinder- und jugendpsychiatrische Stellungnahme
@@ -74,6 +84,7 @@ sozialrecht-rollstuhl-tannenberg/
 │   ├── MD-Pflegegutachten_18-03-2026.pdf              <- Pflegegutachten nach Hausbesuch
 │   ├── Pflegetagebuch_Margarete_Februar_2026.xlsx     <- Pflegetagebuch der Schwiegertochter
 │   ├── Hausarzt_Stellungnahme_Dr_Petersen_25-03-2026.pdf <- Hausärztliche Stellungnahme
+│   ├── Beobachtungsbogen_Abend_Nacht_Maerz_2026.docx  <- Konkrete Hilfeleistungen aus dem Alltag
 │   └── Widerspruchsentwurf_Pflegegrad.docx            <- Anwaltlicher Widerspruchsentwurf
 ├── 04-bodo-em-rente/                                  <- Volle Erwerbsminderungsrente (SGB VI)
 │   ├── Notiz_Kanzlei_Erstgespraech_Bodo.txt           <- Erstgespräch und Einkommenslage
@@ -96,17 +107,17 @@ sozialrecht-rollstuhl-tannenberg/
 
 Details: `Fallkonferenz_Tannenberg_Workflow.docx`.
 
-## Stand der Verfahren (Datum 22.05.2026)
+## Stand der Verfahren (Datum 25.08.2026)
 
-- **Olaf:** Widerspruch eingelegt am 20.05.2026, Eilantrag für Sitzung 25.08.2026 vorbereitet
+- **Olaf:** Widerspruch eingelegt am 20.05.2026, Widerspruch mit Bescheid vom 18.08.2026 zurückgewiesen, Klage und Eilantrag am 25.08.2026
 - **Lena:** Widerspruch eingelegt am 06.04.2026, Antwort Jugendamt steht aus
 - **Margarete:** Widerspruchsentwurf vom 28.04.2026 eingereicht, Antwort AOK steht aus
 - **Bodo:** Widerspruchsentwurf vom 02.05.2026 eingereicht, PKH für mgl. Klage vorbereitet
 
 ## Empfohlener Einstieg
 
-1. `Fallkonferenz_Tannenberg_Workflow.docx` lesen, um den Aufbau zu verstehen
-2. Im Plugin `fachanwalt-sozialrecht` mit Skill `sozialrecht-fallaufnahme-routing` starten
-3. Bei jedem Fall den Bescheid lesen, dann das Gutachten, dann den Widerspruchsentwurf
+1. Den Ordner der jeweiligen Person in der Grundakte öffnen und die Eingänge nach Datum ordnen.
+2. Ausgangsbescheid, tatsächliche Feststellungen und Zugang getrennt prüfen.
+3. Erst nach dem eigenen Entwurf die spätere Verfahrensakte öffnen und den Ansatz vergleichen.
 4. Fristen-XLSX dazulegen, um die Termin-Logik zu verstehen
 5. Den Mandantenbrief von Lena lesen und überlegen, wie er für Bodo aussehen würde
