@@ -20,6 +20,7 @@ STRUCTURED_TESTAKTEN = frozenset({
     'bauvergabe-klinikum-muenster',
     'bauvergabe-wohnhaus-bielefeld',
     'bauwirtschaft-hildesheim-lebensakte',
+    'compliance-hameln-schokolade-charge-k17',
     'fintech-darlehen-vertragsuebernahme-bremen',
     'insolvenzverwaltung-klangbogen-buehnentechnik-bamberg',
 })
@@ -28,6 +29,7 @@ STRUCTURED_TESTAKTEN = frozenset({
 # Produkte. Das Originalformat-ZIP enthält nur die Quelldokumente; das
 # Gesamt-PDF wird separat und zusätzlich als Einzel-PDF-ZIP bereitgestellt.
 SOURCE_ZIP_WITHOUT_GESAMT_PDF = frozenset({
+    'compliance-hameln-schokolade-charge-k17',
     'filmrechte-sicherungsuebertragung-insolvenz-schwetzingen',
     'kurpfalz-taxware-software-ip-insolvenz',
     'markenrechte-sicherungsuebertragung-insolvenz-mannheim',

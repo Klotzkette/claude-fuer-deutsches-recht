@@ -220,6 +220,8 @@ def check_notice(archive):
 
 
 def build(dist, basis, jobs):
+    if (ROOT / 'testakten/compliance-hameln-schokolade-charge-k17/Grundakte').is_dir():
+        raise ValueError(f'Für den historischen Workshop-Stand bitte den Tag {TAG} auschecken.')
     if dist.exists() and any(dist.iterdir()):
         raise ValueError('Das Ausgabeziel muss leer sein.')
     dist.mkdir(parents=True, exist_ok=True)

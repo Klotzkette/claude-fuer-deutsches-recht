@@ -1,0 +1,60 @@
+From: Dr. Nora Bentfeld <nora.bentfeld@bruchkakao.example>
+To: Ivo Heidemark <ivo.heidemark@bruchkakao.example>,
+ Joris van Heesen <joris.vanheesen@bruchkakao.example>
+Cc: Joana Rottmann <joana.rottmann@bruchkakao.example>,
+ Melina Korte <melina.korte@bruchkakao.example>
+Date: Fri, 06 Nov 2026 10:20:00 +0100
+Message-ID: <iu-k17.02.20261106@bruchkakao.example>
+Subject: K17 / Sicherungsauftrag und Zugriff auf Arbeitskopien
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Guten Morgen,
+
+bitte sichern Sie jetzt gezielt die Quellen zum Vorgang BK64-K17. F=C3=BCr di=
+e Auswahl der Daten reicht die auftrags- und ger=C3=A4tebezogene Suche. Halte=
+n Sie die Rohdateien mit ihren Originalzeitstempeln fest. Speichern Sie Umrec=
+hnungen und Anmerkungen nur in Arbeitskopien.
+
+Ivo: Exportieren Sie am 26.10. f=C3=BCr TERM-L3-02 das Zeitfenster 18:20 bis =
+19:00 Uhr Ortszeit einschlie=C3=9Flich HMI-Eingabetyp, Sitzungsreferenz und M=
+ES-Transaktion. F=C3=BCr die Fernwartung verwenden Sie dasselbe Zeitfenster i=
+n UTC und nur den Kanal zu TERM-L3-02. Legen Sie den Wartungsauftrag vom 21.1=
+0. samt =C3=84nderungshistorie und Belege zur Uhrzeitbasis hinzu. Sicherung d=
+er Altbest=C3=A4nde erfolgt lesend. Vermerken Sie Filter, Toolversion, Pr=C3=
+=BCfsummen und erkennbare L=C3=BCcken.
+
+Joris: Sichern Sie Verwiegung, Folienfreigabe und Warenbewegung zu K17 sowie =
+die zugeh=C3=B6rigen Lieferscheine und R=C3=BCckstellproben. K16 und K18 blei=
+ben in der Produktspur separat. F=C3=BCr eine Erweiterung der technischen Pr=
+=C3=BCfung auf Nachbarchargen brauche ich eine benannte Sachfrage und einen e=
+igenen, protokollierten Datenzugriff.
+
+Das Zugangsprotokoll des Geb=C3=A4udes ist personenbezogen. Der Verantwortlic=
+he f=C3=BCr die Zutrittsanlage h=C3=A4lt bis 9.11. nur die Eintr=C3=A4ge am W=
+erkstor vom 26.10., 18:20 bis 19:00 Uhr, in seinem Quellsystem vor. Kein Name=
+nsexport und kein Abgleich mit dem Schichtplan ohne dokumentierte Erforderlic=
+hkeit, tragf=C3=A4hige Rechtsgrundlage und Pr=C3=BCfung der einschl=C3=A4gige=
+n Beteiligungsrechte. Zugangsdaten zum Geb=C3=A4ude w=C3=BCrden auch dann nur=
+ die Passage am Tor zeigen. Bitte weder Besch=C3=A4ftigtenpostf=C3=A4cher dur=
+chsuchen noch private Ger=C3=A4te sichern.
+
+Die gesch=C3=BCtzte Originalablage bleibt schreibgesch=C3=BCtzt. IT dokumenti=
+ert Import, Zugriff und Hashpr=C3=BCfung. Das Untersuchungsteam arbeitet mit =
+getrennten, soweit m=C3=B6glich pseudonymisierten Kopien. QS erh=C3=A4lt f=C3=
+=BCr die Produktspur nur die erforderlichen Daten. Bitte keine identifizieren=
+den Ausz=C3=BCge per E-Mail oder an externe KI-Dienste geben. Fragen zum Eins=
+atz von Personal- oder Gespr=C3=A4chsdaten stimmen Sie vorab mit mir, Joana u=
+nd nach Beratung durch Melina ab.
+
+Am 9.11. um 08:30 Uhr pr=C3=BCfen wir, ob die Vorhaltung des Zugangsauszugs =
+=C3=BCberhaupt weiter erforderlich ist. Am 20.11. pr=C3=BCfen wir L=C3=B6schu=
+ng oder begr=C3=BCndete weitere Aufbewahrung jeder Beleggruppe. Vorgeschriebe=
+ne Aufbewahrung der Produktakte l=C3=A4uft getrennt weiter. Best=C3=A4tigen S=
+ie mir bis 12 Uhr, welche Quellen gesichert sind und bei welchen Quellen ein =
+Datenverlust droht.
+
+Dr. Nora Bentfeld
+Interne Rechtsfunktion
+Hamelner Bruchkakao GmbH
