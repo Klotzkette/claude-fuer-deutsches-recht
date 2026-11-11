@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-30. Persönliche Arbeitsleistun
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle einen personalrechtlichen Sachverhalts- und Maßnahmenvermerk mit einer Versionschronologie, einer Einordnung der Erst- und Wiederholungsfälle und einem Korrekturablauf für den Kundenservice.
+Merrensteg Elektrosysteme SE in Hameln wartet Industrieantriebe. Zwei Kunden erhielten eine Zusage über zehn Jahre Ersatzteilverfügbarkeit. Der Katalog nennt fünf Jahre ab Serienende. Die Teamleitung verdächtigt den Disponenten Lennart Öving, einen KI-Text ungeprüft freigegeben zu haben. HR erwägt eine Kündigung und verweist auf einen älteren Personalbrief. Eine Kundin hat bereits mit Folgekosten gerechnet.
 
-Beginnen Sie mit den Stücken 01 bis 03 und dem Arbeitsauftrag 08. Reichen Sie das Register, die späteren Stücke und die Zusatzbelege nach dem ersten Entwurf ein. Die Gesamt-PDF enthält die vollständige Akte.
+Die Anwendung speichert, dass jemand eine Fassung freigegeben hat. Danach kann ein Hintergrundprozess den Text ändern. Ein grüner Freigabehaken beweist daher erst dann eine Prüfung der versandten Aussage, wenn freigegebene und versandte Fassung übereinstimmen. Auch das Datum auf dem Personalbrief und dessen Zugang sind zwei überprüfbare Ereignisse.
+
+### 1.1 Vorführung in drei Runden
+
+1. Geben Sie 01_Eingang.eml, 02_Sachgrundlage.docx und 03_Stellungnahme.eml vor. Lassen Sie eine Zeitleiste und den konkreten Vorwurf pro Kundenfall ausgeben.
+2. Öffnen Sie 04_Datenregister.xlsx, 06_Nachtrag.pdf sowie 10_Beleg_10.pdf und 11_Beleg_11.pdf. Vergleichen Sie Freigabe, Systemänderung und Versand für Z-65 und Z-68. Lassen Sie den Zugang des Personalbriefs gesondert belegen.
+3. Mit 12_Ergaenzende_Stellungnahme.eml und 13_Belegabgleich_und_Sicherungsstand.docx überarbeiten Sie die Empfehlung an HR, den Kundenentwurf und den Vorschlag für eine prüfbare Versandfreigabe.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,12 +30,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-freigabehaken-im-service_gesamt.pdf`](gesamt-pdf/compliance-hameln-freigabehaken-im-service_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-freigabehaken-im-service.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-freigabehaken-im-service.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-freigabehaken-im-service-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-freigabehaken-im-service-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-freigabehaken-im-service.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-freigabehaken-im-service.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-freigabehaken-im-service-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-freigabehaken-im-service-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease zu KI und Arbeit. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den versionierten Release der Hamelner Praxisakten. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned release on AI and employment.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln practice release.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -39,6 +45,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

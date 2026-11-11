@@ -61,7 +61,7 @@ def inspect_archive(path, *, flat=False):
         return result
 
 
-def build_case(task):
+def build_case(task, *, individual=None):
     case, destination, rebuild = task
     dist = Path(destination)
     directory = ROOT / 'testakten' / case['slug']
@@ -70,7 +70,8 @@ def build_case(task):
     native = module('build-testakten-release-zips.py')
     separate_check = module('validate-testakten-einzelpdf-zips.py')
     native_check = module('validate-testakten-release-zips.py')
-    individual, _ = separate.build_single(directory, dist)
+    if individual is None:
+        individual, _ = separate.build_single(directory, dist)
     separate_check.assert_same(individual.name, [NOTICE_FILENAME, *separate_check.expected_arcnames(directory)],
                               separate_check.zip_entries(individual, expected_suffix='.pdf'))
     writer = PdfWriter()
@@ -120,6 +121,8 @@ def build(dist, *, rebuild=False, jobs=4):
     cases = json.loads(MATERIAL.read_text())['cases']
     if len(cases) != 35 or len({c['slug'] for c in cases}) != 35:
         raise ValueError('35 verschiedene Compliance-Akten sind erforderlich.')
+    if any((ROOT / 'testakten' / c['slug'] / '00_Einstieg.pdf').is_file() for c in cases):
+        raise ValueError('Für den historischen Release bitte den Tag ' + TAG + ' auschecken.')
     package = module('build-compatibility-release.py')
     plugin = ROOT / PLUGIN
     for manifest in ('plugin.json', '.claude-plugin/plugin.json', '.codex-plugin/plugin.json'):

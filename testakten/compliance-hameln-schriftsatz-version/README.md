@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-06. Fehlerfolgen, Berichtigung 
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle einen Sofortmaßnahmenplan, eine intern freigabefähige Korrekturmitteilung und einen Kontrollentwurf für künftige Weitergaben.
+Merrensteg lässt sich bei einem Streit über die Vergütung von Rufbereitschaft von einer externen Kanzlei vertreten. Irma Winkelreuth hat am 9. Oktober einen KI-Entwurf angelegt. Die freigegebene A7 hält eine Frage zur Zeiterfassung offen. Die jüngere A8 erklärt einen Schichttausch für bestätigt und ergänzt zwei ungeprüfte Urteilsreferenzen. Die Assistenz hat nach Änderungsdatum sortiert und die jüngere Datei in den Ausgang gelegt.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Nora Eibenrode muss nun feststellen, welche Fassung bei wem angekommen ist. Das interne Freigabeprotokoll nennt einen Dateinamen, aber keine Prüfsumme. Neben der Kanzlei steht im Adressbuch ein ähnlich benanntes Funktionspostfach beim Zeiterfassungsdienstleister. Die falsche Ablage, eine ungewollte Datenweitergabe und ein Fehler in einer eingereichten PDF wären drei verschiedene Vorgänge.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Erstellt eine kleine Versandchronologie für A7 und A8. Trennt intern freigegeben, an die Kanzlei übergeben und nachweislich extern eingereicht.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Gleicht Freigabe, Änderung, Empfänger und Dateibezeichnung ab. Markiert für jede Station den Nachweis, der in der frühen Akte fehlt.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Prüft anhand der Kanzleibestätigung, des Versandbelegs und des Gateways die tatsächlichen Übermittlungen. Bereitet für die Kanzlei eine präzise Korrektur vor und behandelt die Kopie an den Dienstleister getrennt.
+
+**Entscheidung am Ende.** Welche Aussage muss die Kanzlei inhaltlich berichtigen und welche weitere Maßnahme braucht die ungewollte Kopie?
+
+**Arbeitsauftrag.** Erstelle einen Sofortmaßnahmenplan, eine intern freigabefähige Korrekturmitteilung und einen Kontrollentwurf für künftige Weitergaben. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-schriftsatz-version.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-schriftsatz-version_gesamt.pdf`](gesamt-pdf/compliance-hameln-schriftsatz-version_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-schriftsatz-version.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-schriftsatz-version.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-schriftsatz-version-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-schriftsatz-version-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-schriftsatz-version.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-schriftsatz-version.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-schriftsatz-version-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-schriftsatz-version-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

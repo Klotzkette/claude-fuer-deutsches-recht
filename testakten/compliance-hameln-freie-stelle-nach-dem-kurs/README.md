@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-33. KI-bedingter Arbeitsplatzab
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Entwirf den Vermerk vor einer Kündigungsentscheidung mit Stellen- und Qualifizierungsmatrix, Aufgabenprognose, Sozialauswahl sowie offenen Angaben zur Betriebsratsanhörung.
+Merrensteg Elektrosysteme SE plant in Hameln acht Stellen im technischen Kundendienst abzubauen. Ein KI-Assistent soll viele Reparaturvorschläge übernehmen. Für Annika Sölter, seit elf Jahren im Unternehmen und zuständig für zwei Altserien, liegt ein Kündigungsentwurf vor. Sie hat sich für eine interne Prüfstelle beworben. Im Organigramm ist sie eingezeichnet, im Stellenportal steht sie auf gesperrt. Ein sechs Wochen langer Kurs könnte den Wechsel vorbereiten.
 
-Beginnen Sie mit den Stücken 01 bis 03 und dem Arbeitsauftrag 08. Reichen Sie das Register, die späteren Stücke und die Zusatzbelege nach dem ersten Entwurf ein. Die Gesamt-PDF enthält die vollständige Akte.
+Das Projekt zählt Fälle als automatisiert erledigt, die Menschen später nacharbeiten. Der Automatisierungsbericht und der wirkliche Personalbedarf können deshalb auseinanderfallen. Zugleich kann ein Portalstatus zu einer anderen Einschätzung freier Stellen führen als das genehmigte Budget.
+
+### 1.1 Vorführung in drei Runden
+
+1. Beginnen Sie mit 01_Eingang.eml, 02_Sachgrundlage.docx und 03_Stellungnahme.eml. Lassen Sie den behaupteten Aufgabenwegfall, eine Weiterbeschäftigung und die Auswahl vergleichbarer Beschäftigter als drei eigene Prüfungen darstellen.
+2. Geben Sie 04_Datenregister.xlsx, 06_Nachtrag.pdf, 10_Beleg_10.pdf und 11_Beleg_11.pdf dazu. Vergleichen Sie Pilotzahlen, Kursende, Stellenfreigabe und vorgesehenes Vertragsende.
+3. Reichen Sie 12_Ergaenzende_Stellungnahme.eml und 13_Belegabgleich_und_Sicherungsstand.docx nach. Lassen Sie die Empfehlung und die für den Betriebsrat benötigte Fassung der Fakten überarbeiten.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,12 +30,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-freie-stelle-nach-dem-kurs_gesamt.pdf`](gesamt-pdf/compliance-hameln-freie-stelle-nach-dem-kurs_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-freie-stelle-nach-dem-kurs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-freie-stelle-nach-dem-kurs.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-freie-stelle-nach-dem-kurs-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-freie-stelle-nach-dem-kurs-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-freie-stelle-nach-dem-kurs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-freie-stelle-nach-dem-kurs.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-freie-stelle-nach-dem-kurs-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-freie-stelle-nach-dem-kurs-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease zu KI und Arbeit. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den versionierten Release der Hamelner Praxisakten. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned release on AI and employment.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln practice release.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -39,6 +45,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

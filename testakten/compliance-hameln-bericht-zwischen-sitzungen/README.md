@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-26. Konzern-Governance, Zustän
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Entwerfen Sie eine vertrauliche Kurzunterrichtung mit Empfängerkreis, Freigabeweg und Termin für die nächste Lagebeurteilung. Legen Sie eine Zuständigkeitsmatrix für die beteiligten Gesellschaften vor.
+Eine tschechische Tochter von Merrensteg setzt einen Vertrag über 9,4 Millionen Euro wegen ungeklärter Vertreterzahlungen aus. Ein Aufsichtsratsmitglied erfährt bei einer Werkreise davon und bittet Nora Eibenrode direkt um Verträge und Namen. Der Aufsichtsrat tagt regulär erst am 8. Dezember. Das Leitungsorgan muss entscheiden, ob eine frühere Sonderunterrichtung nötig ist. Die Tochter möchte zunächst selbst berichten.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Ein Teil der Informationen stammt aus einer geschützten Meldestelle. Vertragswert, mögliche Liquiditätsfolge und Untersuchungsstand dürfen im digitalen Bericht nicht in einer einzigen Risikozahl verschwinden. Dass ein Aufsichtsratsmitglied den Vorgang kennt, sagt außerdem noch nichts darüber, welche Unterlagen es über welchen Weg erhalten soll. Tochtergeschäftsführung, Konzernleitung und Aufsicht haben unterschiedliche Aufgaben.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Ordnet Information, Vertrag und Hinweis jeweils der Stelle zu, die dafür verantwortlich ist. Markiert die Entscheidung, die nicht bis zur Sitzung warten kann.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Vergleicht Berichtsordnung, Zahlen und empfangsberechtigte Personen. Unterscheidet die Auswirkungen auf Tochter und Obergesellschaft.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die neuen Status- und Zugriffsangaben auf. Entwerft eine knappe Sonderunterrichtung mit gesondert geschützter Anlage und einem verbindlichen Folgetermin.
+
+**Entscheidung am Ende.** Was soll das Leitungsorgan vor dem 8. Dezember berichten, über welchen Weg und ohne welche Identitätsangaben?
+
+**Arbeitsauftrag.** Entwerfen Sie eine vertrauliche Kurzunterrichtung mit Empfängerkreis, Freigabeweg und Termin für die nächste Lagebeurteilung. Legen Sie eine Zuständigkeitsmatrix für die beteiligten Gesellschaften vor. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-bericht-zwischen-sitzungen.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-bericht-zwischen-sitzungen_gesamt.pdf`](gesamt-pdf/compliance-hameln-bericht-zwischen-sitzungen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-bericht-zwischen-sitzungen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-bericht-zwischen-sitzungen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-bericht-zwischen-sitzungen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-bericht-zwischen-sitzungen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-bericht-zwischen-sitzungen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-bericht-zwischen-sitzungen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-bericht-zwischen-sitzungen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-bericht-zwischen-sitzungen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

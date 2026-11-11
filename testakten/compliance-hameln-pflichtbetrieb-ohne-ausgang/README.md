@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-32. Verbindlicher KI-Einsatz, O
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Entwirf einen Wiederanlaufvermerk mit überprüfbaren Kompetenzmaßnahmen, funktionierendem Stopprecht, Protokollierung und einem gesonderten Abschnitt zur persönlichen und betrieblichen Verantwortung.
+Seit dem 8. Oktober muss der Warenausgang von Merrensteg Elektrosysteme SE in Hameln jede Sendung in einem KI-Prüfportal erfassen. Die Leitung erwartet, dass 98 Prozent der Prüfungen im Portal erledigt werden. Nach einem Wechsel der Datenquelle leuchtet die Anzeige für ein falsch eingestuftes Antriebsmodul grün. Joost Kehrmeyer bestätigt den Vorgang. Im Versandlager wird das Modul noch gestoppt.
 
-Beginnen Sie mit den Stücken 01 bis 03 und dem Arbeitsauftrag 08. Reichen Sie das Register, die späteren Stücke und die Zusatzbelege nach dem ersten Entwurf ein. Die Gesamt-PDF enthält die vollständige Akte.
+Die Farbe hat im Bedienbildschirm und im Versandprotokoll unterschiedliche Bedeutungen. Zugleich fehlt im Nachtprofil vorübergehend die Stoppschaltfläche. Eine Klickliste und ein abgeschlossener Onlinekurs können deshalb den Eindruck einer funktionierenden Kontrolle erwecken, während eine Schicht technisch kaum aussteuern kann.
+
+### 1.1 Vorführung in drei Runden
+
+1. Beginnen Sie mit 01_Eingang.eml, 02_Sachgrundlage.docx und 03_Stellungnahme.eml. Lassen Sie den Arbeitsablauf vom Portal bis zum Versand und die Aufgaben von Beschäftigten und Leitung erklären.
+2. Reichen Sie 06_Nachtrag.pdf, 10_Beleg_10.pdf und 11_Beleg_11.pdf nach. Lassen Sie die Bedeutung der grünen Anzeige, den tatsächlich verfügbaren Stopp und den Versandstatus aus den Unterlagen prüfen.
+3. Legen Sie 12_Ergaenzende_Stellungnahme.eml und 13_Belegabgleich_und_Sicherungsstand.docx vor. Entwerfen Sie eine Wiederfreigabe mit manueller Kontrolle, einem Praxistest je Schicht und Zuständigkeiten. Begründen Sie gesondert, was zu einer möglichen Pflichtverletzung feststeht.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,12 +30,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-pflichtbetrieb-ohne-ausgang_gesamt.pdf`](gesamt-pdf/compliance-hameln-pflichtbetrieb-ohne-ausgang_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-pflichtbetrieb-ohne-ausgang-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease zu KI und Arbeit. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den versionierten Release der Hamelner Praxisakten. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned release on AI and employment.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln practice release.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -39,6 +45,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-03. Berufsgeheimnis und Datensc
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle eine Freigabeakte für die geplante Verarbeitung mit getrennten Rollen, Datenfluss und belegbaren Mindestbedingungen.
+Merrensteg wartet die eigenen Industrieantriebe auch beim Kunden. Im Streit um Wartungskosten prüft Irma Winkelreuth mit Kanzleianwältin Hanne Kaulbeke einen zwölfseitigen Vermerk: Namen von Beschäftigten, Schichtzeiten, eine Einschätzung der Prozesschancen und ein Vergleichsangebot von 180.000 Euro stehen darin. Sechs Konten arbeiten bereits in „Test Hameln“. Die Frage lautet, ob man den Text dort von einer externen KI ordnen lassen darf und ob er womöglich schon hochgeladen wurde.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Der Anbieter hat sowohl einen öffentlichen Pilotlink als auch einen geschlossenen Unternehmensbereich angeboten. „Verlauf: aus“ ist in der Anwenderansicht zu sehen, während der Adminexport eine eingeschaltete Protokollierung zeigt. Das kann unterschiedliche Speicherorte betreffen. Ein Vertrag für den Unternehmensbereich oder den Bereich der Kanzlei klärt die Bedingungen des vorhandenen Pilotkontos nur, wenn er dafür tatsächlich gilt.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Zeichnet den Weg vom Kanzleivermerk zum Pilotkonto. Markiert Verantwortliche, Empfänger und die Daten, ohne die sich die Aufgabe ebenso erledigen ließe.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Trennt die verschiedenen Arbeitsbereiche und Speicherarten. Nennt für jede Annahme die konkrete Einstellung oder Vertragsanlage, die noch fehlt.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Verfolgt den protokollierten Upload und vergleicht die Versionen des gleichnamigen PDFs. Bezeichnet genau, was Dateiname und verkürzter Hash belegen. Trennt nötige Sicherungsmaßnahmen von der Freigabe für einen künftigen Test.
+
+**Entscheidung am Ende.** Muss Irma zuerst einen möglichen Vorfall aufklären, und unter welchen Bedingungen kann die Rechtsabteilung ihren Test später wieder aufnehmen?
+
+**Arbeitsauftrag.** Erstelle eine Freigabeakte für die geplante Verarbeitung mit getrennten Rollen, Datenfluss und belegbaren Mindestbedingungen. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-vertraulicher-testtenant.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-vertraulicher-testtenant_gesamt.pdf`](gesamt-pdf/compliance-hameln-vertraulicher-testtenant_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vertraulicher-testtenant.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vertraulicher-testtenant.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vertraulicher-testtenant-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vertraulicher-testtenant-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vertraulicher-testtenant.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-vertraulicher-testtenant.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vertraulicher-testtenant-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-vertraulicher-testtenant-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

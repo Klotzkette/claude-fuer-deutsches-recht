@@ -1,0 +1,8 @@
+Zeit CET,Los,Konto,Ereignis,Vorher,Nachher,Referenz,Belegtext
+2026-10-28T13:21:04+01:00,L261026,qa.pruefstand,Prüflos angelegt,,QA_HOLD,P-39-102,Fehlender Wiederanlauftest
+2026-10-28T16:47:13+01:00,L261026,planung_nacht,Status manuell gesetzt,QA_HOLD,FREI,,"Auslieferung KW 44, Laborbefund wird nachgereicht"
+2026-10-28T16:47:20+01:00,L261026,svc.warehouse,Status synchronisiert,QA_HOLD,FREI,QUEUE-131,Kommissionierung möglich
+2026-10-29T08:31:15+01:00,L261026,lager.scan,Warenausgang,FREI,FREI,LS-8112,Teilmenge 120
+2026-10-30T11:05:51+01:00,L261026,lager.scan,Warenausgang,FREI,FREI,LS-8126,Teilmenge 110
+2026-11-02T10:32:11+01:00,L261026,lager.scan,Warenausgang,FREI,FREI,LS-8140,Teilmenge 90
+2026-11-04T08:14:39+01:00,L261026,qa.hinrichs,Chargensperre gesetzt,FREI,QA_HOLD,P-39-118,"Werksbestand sperren, Kundenstatus noch ungeklärt"

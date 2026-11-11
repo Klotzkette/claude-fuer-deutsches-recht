@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-35. Beschäftigungs-KI nach Anh
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Entwirf die Freigabeentscheidung mit Stichtagsmatrix, Einstufung, Informationspaket für beide Adressatengruppen und einer separaten Liste der nationalen Beteiligungs- und Datenschutzfragen.
+Merrensteg Elektrosysteme SE in Hameln verteilt freiwillige Zusatzschichten. Im fiktiven Vorgang vom Dezember 2027 setzt die Planung das Programm Planlotse ein. Personal bezeichnet es als unverbindliche Hilfe. Schichtleitungen berichten dagegen, dass Bewerbungen unter 58 Punkten aus ihrer Ansicht verschwinden. Eine Beschäftigte meldet, dass sie eine begehrte Zuschlagsschicht verpasst hat. Der Betriebsrat kennt bisher nur eine Broschüre und einen Starttermin.
 
-Beginnen Sie mit den Stücken 01 bis 03 und dem Arbeitsauftrag 08. Reichen Sie das Register, die späteren Stücke und die Zusatzbelege nach dem ersten Entwurf ein. Die Gesamt-PDF enthält die vollständige Akte.
+Der Score entscheidet praktisch mit, wenn die schichtverantwortliche Person die ausgeblendeten Bewerbungen weder sieht noch wieder anzeigen kann. Ein Test mit Administratorrechten zeigt nur, was dieses Profil kann. Für die Freigabe kommt es auch darauf an, wann Ranking und Filter tatsächlich mit Beschäftigtendaten in Betrieb gingen.
+
+### 1.1 Vorführung in drei Runden
+
+1. Öffnen Sie 01_Eingang.eml, 02_Sachgrundlage.docx und 03_Stellungnahme.eml. Zeichnen Sie den Weg einer Bewerbung vom Eingang bis zur Schichtliste und markieren Sie, an welcher Stelle der Mensch eingreifen kann.
+2. Vergleichen Sie mit 04_Datenregister.xlsx, 06_Nachtrag.pdf sowie 10_Beleg_10.pdf und 11_Beleg_11.pdf alte und neue Version. Prüfen Sie das für den Fall angenommene Datum und recherchieren Sie den dafür maßgeblichen Rechtsstand.
+3. Geben Sie 12 und 13 sowie anschließend 14_Systembetrieb_Planexport.eml, 15_Abgleich_Rollen_und_Dienstplan.docx und 16_Protokollauszug_ME35.csv hinzu. Rekonstruieren Sie die Schichtentscheidung und entwerfen Sie eine Freigabeentscheidung mit Alternativablauf, Vorabinformation und gesonderter Beteiligungsprüfung.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,12 +30,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-personalscore-vor-start_gesamt.pdf`](gesamt-pdf/compliance-hameln-personalscore-vor-start_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-personalscore-vor-start.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-personalscore-vor-start.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-personalscore-vor-start-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-personalscore-vor-start-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-personalscore-vor-start.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-personalscore-vor-start.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-personalscore-vor-start-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-personalscore-vor-start-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease zu KI und Arbeit. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den versionierten Release der Hamelner Praxisakten. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned release on AI and employment.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln practice release.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -39,6 +45,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

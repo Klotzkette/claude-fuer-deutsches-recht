@@ -1,0 +1,77 @@
+From: Janka Thormann <janka.thormann@merrensteg.example>
+To: produktsicherheit@merrensteg.example
+Subject: ME-39 | =?utf-8?q?Ausz=C3=BCge?= gesichert, Benutzerzuordnung offen
+Date: Wed, 04 Nov 2026 11:14:00 +0100
+Message-ID: <me-39.06_erp_beweissicherung@merrensteg.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="ME-39-06_ERP_Beweissicherung-anlagen"
+
+--ME-39-06_ERP_Beweissicherung-anlagen
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Die Anlagen enthalten den Warenausgang f=C3=BCr Los L261026 und den Statusver=
+lauf mit Zeitstempeln. Die 160 im Werk erfassten St=C3=BCcke schlie=C3=9Fen d=
+ie beiden im Labor gepr=C3=BCften R=C3=BCckstellmuster ein. Die drei best=C3=
+=A4tigten Einbauzahlen stammen aus R=C3=BCckrufen des Produktservice. Es ist =
+noch offen, ob weitere Ger=C3=A4te an Betreiber geliefert oder inzwischen in =
+Maschinen eingebaut wurden.
+
+Am 28. Oktober nutzte die Produktionsplanung das Funktionskonto planung_nacht=
+ an zwei Schichtterminals. Der Export weist f=C3=BCr die Status=C3=A4nderung =
+um 16.47 Uhr dieses Konto aus. Er enth=C3=A4lt keine personenbezogene Anmeldu=
+ng oder eindeutige Zuordnung zu einem Terminal. Ich kann auf dieser Basis kei=
+ne Person als Verursacherin benennen. Die Rolle besa=C3=9F durch eine Migrati=
+onszuordnung technisch die M=C3=B6glichkeit, eine Qualit=C3=A4tsblockade zu l=
+=C3=B6sen. Diese Berechtigung ist inzwischen entzogen.
+
+Gesichert sind Rohereignisse und Warehouse-Warteschlange f=C3=BCr den Zeitrau=
+m 27. Oktober bis 4. November sowie die damalige Rollenkonfiguration. Der Dat=
+eisatz liegt im gesch=C3=BCtzten Revisionsspeicher. Der Auszug enth=C3=A4lt b=
+ewusst nur dieses Los. Bis heute 15.00 Uhr pr=C3=BCfe ich weitere Nutzungen d=
+erselben Rolle an anderen Losen.
+
+Anlagen dieser Nachricht
+04_ERP_Losbewegungen.csv
+05_ERP_Freigabeereignisse.csv
+
+--ME-39-06_ERP_Beweissicherung-anlagen
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="04_ERP_Losbewegungen.csv"
+MIME-Version: 1.0
+
+RGF0dW0sQmVsZWcsTG9zLFNlcmllbm51bW1lciB2b24sU2VyaWVubnVtbWVyIGJpcyxPcnQgb2Rl
+ciBBYm5laG1lcixNZW5nZSxkYXZvbiBlaW5nZWJhdXQgYmVzdMOkdGlndCxTdGFuZCBiZXN0w6R0
+aWd0IGFtCjIwMjYtMTAtMjksTFMtODExMixMMjYxMDI2LFNSMjYtMTAwMDEsU1IyNi0xMDEyMCwi
+TmVzc2VsaG9sbSBBdXRvbWF0aW9uIEdtYkgsIERFIiwxMjAsMjgsMjAyNi0xMS0wNCAxMDoxOAoy
+MDI2LTEwLTMwLExTLTgxMjYsTDI2MTAyNixTUjI2LTEwMTIxLFNSMjYtMTAyMzAsIlphdmVscG9v
+cnQgSW5kdXN0cmllIE5WLCBCRSIsMTEwLDIxLDIwMjYtMTEtMDQgMTA6MjYKMjAyNi0xMS0wMixM
+Uy04MTQwLEwyNjEwMjYsU1IyNi0xMDIzMSxTUjI2LTEwMzIwLCJMZWluZXRha3QgQW5sYWdlbmJh
+dSBHbWJILCBERSIsOTAsMTUsMjAyNi0xMS0wNCAxMDo0MQoyMDI2LTExLTA0LFdILTEzMDcsTDI2
+MTAyNixTUjI2LTEwMzIxLFNSMjYtMTA0ODAsV2Vya3NiZXN0YW5kIEhhbWVsbiBlaW5zY2hsaWXD
+n2xpY2ggUsO8Y2tzdGVsbG11c3RlciwxNjAsMCwyMDI2LTExLTA0IDA5OjU2Cg==
+
+--ME-39-06_ERP_Beweissicherung-anlagen
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="05_ERP_Freigabeereignisse.csv"
+MIME-Version: 1.0
+
+WmVpdCBDRVQsTG9zLEtvbnRvLEVyZWlnbmlzLFZvcmhlcixOYWNoaGVyLFJlZmVyZW56LEJlbGVn
+dGV4dAoyMDI2LTEwLTI4VDEzOjIxOjA0KzAxOjAwLEwyNjEwMjYscWEucHJ1ZWZzdGFuZCxQcsO8
+ZmxvcyBhbmdlbGVndCwsUUFfSE9MRCxQLTM5LTEwMixGZWhsZW5kZXIgV2llZGVyYW5sYXVmdGVz
+dAoyMDI2LTEwLTI4VDE2OjQ3OjEzKzAxOjAwLEwyNjEwMjYscGxhbnVuZ19uYWNodCxTdGF0dXMg
+bWFudWVsbCBnZXNldHp0LFFBX0hPTEQsRlJFSSwsIkF1c2xpZWZlcnVuZyBLVyA0NCwgTGFib3Ji
+ZWZ1bmQgd2lyZCBuYWNoZ2VyZWljaHQiCjIwMjYtMTAtMjhUMTY6NDc6MjArMDE6MDAsTDI2MTAy
+NixzdmMud2FyZWhvdXNlLFN0YXR1cyBzeW5jaHJvbmlzaWVydCxRQV9IT0xELEZSRUksUVVFVUUt
+MTMxLEtvbW1pc3Npb25pZXJ1bmcgbcO2Z2xpY2gKMjAyNi0xMC0yOVQwODozMToxNSswMTowMCxM
+MjYxMDI2LGxhZ2VyLnNjYW4sV2FyZW5hdXNnYW5nLEZSRUksRlJFSSxMUy04MTEyLFRlaWxtZW5n
+ZSAxMjAKMjAyNi0xMC0zMFQxMTowNTo1MSswMTowMCxMMjYxMDI2LGxhZ2VyLnNjYW4sV2FyZW5h
+dXNnYW5nLEZSRUksRlJFSSxMUy04MTI2LFRlaWxtZW5nZSAxMTAKMjAyNi0xMS0wMlQxMDozMjox
+MSswMTowMCxMMjYxMDI2LGxhZ2VyLnNjYW4sV2FyZW5hdXNnYW5nLEZSRUksRlJFSSxMUy04MTQw
+LFRlaWxtZW5nZSA5MAoyMDI2LTExLTA0VDA4OjE0OjM5KzAxOjAwLEwyNjEwMjYscWEuaGlucmlj
+aHMsQ2hhcmdlbnNwZXJyZSBnZXNldHp0LEZSRUksUUFfSE9MRCxQLTM5LTExOCwiV2Vya3NiZXN0
+YW5kIHNwZXJyZW4sIEt1bmRlbnN0YXR1cyBub2NoIHVuZ2VrbMOkcnQiCg==
+
+--ME-39-06_ERP_Beweissicherung-anlagen--

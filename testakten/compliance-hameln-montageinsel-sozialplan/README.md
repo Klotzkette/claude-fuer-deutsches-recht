@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-34. Betriebsänderung, Interess
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle eine Verhandlungsunterlage mit Beteiligungspfaden und ein konkretes Qualifizierungsmodul für einen etwaigen Sozialplan. Zeige, welche Nachteile belegt und welche noch zu prüfen sind.
+Merrensteg Elektrosysteme SE baut im Werk Hameln zwei bisherige Prüfstationen zu einer lernenden Montageinsel um. Von 410 Beschäftigten sollen 72 andere Aufgaben übernehmen, 19 sollen dauerhaft anders eingesetzt werden. Erste Fundamente sind beauftragt. Der Betriebsrat verlangt den Projektplan. HR bietet einen freiwilligen Onlinekurs an, der bisher vor allem die Frühschicht erreicht.
 
-Beginnen Sie mit den Stücken 01 bis 03 und dem Arbeitsauftrag 08. Reichen Sie das Register, die späteren Stücke und die Zusatzbelege nach dem ersten Entwurf ein. Die Gesamt-PDF enthält die vollständige Akte.
+Der Umbau ändert nicht nur das Bedienmenü. Das System verändert die Fehlersuche, Schichtabläufe und möglicherweise Zulagen. Ein Projektdashboard zeigt den Baufortschritt. Es beantwortet weder, ob die betroffenen Beschäftigten den neuen Ablauf praktisch beherrschen, noch welche Auswirkungen bereits geprüft wurden.
+
+### 1.1 Vorführung in drei Runden
+
+1. Starten Sie mit 01_Eingang.eml, 02_Sachgrundlage.docx und 03_Stellungnahme.eml. Lassen Sie die baulichen, personellen und technischen Änderungen jeweils mit dem Stand der Entscheidung beschreiben.
+2. Geben Sie 04_Datenregister.xlsx, 06_Nachtrag.pdf sowie 10_Beleg_10.pdf und 11_Beleg_11.pdf nach. Vergleichen Sie die zwei Schulungsoptionen, die Schichtabdeckung und die Grundlagen der Zulagenrechnung.
+3. Nutzen Sie 12_Ergaenzende_Stellungnahme.eml und 13_Belegabgleich_und_Sicherungsstand.docx. Erstellen Sie eine Verhandlungsunterlage für die Betriebsleitung mit Informationsbedarf, Bildungsmaßnahmen und konkret überprüfbaren Bedingungen vor der Inbetriebnahme.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,12 +30,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-montageinsel-sozialplan_gesamt.pdf`](gesamt-pdf/compliance-hameln-montageinsel-sozialplan_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-montageinsel-sozialplan.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-montageinsel-sozialplan.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-montageinsel-sozialplan-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-montageinsel-sozialplan-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-montageinsel-sozialplan.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-montageinsel-sozialplan.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-montageinsel-sozialplan-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-montageinsel-sozialplan-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease zu KI und Arbeit. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den versionierten Release der Hamelner Praxisakten. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned release on AI and employment.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln practice release.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -39,6 +45,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

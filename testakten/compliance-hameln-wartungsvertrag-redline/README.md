@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-09. Vertrags- und Policy-Vergle
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Vergleiche Vertragsfassungen, Konzernvorgabe und Kundenpflicht. Entwirf eine belastbare Änderung mit Gegenüberstellung und verbleibenden Verhandlungspunkten.
+Tessa Rabenau verhandelt für Merrensteg einen dreijährigen Wartungsvertrag für Produktionssteuerungen. Der Dienstleister will Updates über einen weiteren Fernwartungspartner einspielen. Meldet er eine Störung zu spät, kann Merrensteg seinen eigenen Maschinenkunden nicht rechtzeitig informieren. Irma Winkelreuth soll vor der Unterschrift eine umsetzbare Meldekette formulieren.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+In drei Unterlagen stehen 48, zwölf und acht Stunden. Jede Frist hat einen anderen Empfänger und einen anderen möglichen Startpunkt. Dazu bietet der Vertrag Erreichbarkeit rund um die Uhr an, während die Leistungsanlage den Dienst auf Werktage begrenzt. Ein KI-Vergleich, der nur Zahlen sortiert, kann diese Widersprüche verdecken.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Legt die Kette vom Fernwartungspartner über Merrenstegs Produktsicherheit bis zum Maschinenkunden an. Fragt bei jeder Stelle nach Erreichbarkeit und Informationsbedarf.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Tragt für jede Frist Trigger, Adressat, Rang und Bindungsstand ein. Übersetzt das Ergebnis in eine Schichtanweisung: Wer ruft wen an, wenn am Samstag ein Hinweis eingeht?
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die spätere Vierstunden-Mail und die neue Kundenfassung auf. Unterscheidet Verhandlungsstand und unterschriebene Pflicht. Entwerft eine Klausel mit einem getesteten Eingangskanal und klarer Abdeckung von Wochenenden.
+
+**Entscheidung am Ende.** Welche Meldekette muss Tessa vertraglich absichern, bevor sie dem Einkauf die Freigabe empfiehlt?
+
+**Arbeitsauftrag.** Vergleiche Vertragsfassungen, Konzernvorgabe und Kundenpflicht. Entwirf eine belastbare Änderung mit Gegenüberstellung und verbleibenden Verhandlungspunkten. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-wartungsvertrag-redline.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-wartungsvertrag-redline_gesamt.pdf`](gesamt-pdf/compliance-hameln-wartungsvertrag-redline_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wartungsvertrag-redline.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-wartungsvertrag-redline.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-10. Compliance-Content, Überse
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle eine deutsche Masterfassung und zwei freigabefähige lokalisierte Entwürfe für den Intranet-Hinweis. Liefere eine Abweichungsliste und eine Freigabenotiz.
+Vor der Herbstbestellung einer Motorenbaureihe will Nora Eibenrode für Hameln, Brünn und Porto erklären, wie der Vertrieb mit Einladungen von Lieferanten umgeht. Ein Sprachdienst hat maschinelle Rohfassungen geliefert. Die deutsche Richtlinie verlangt vor einer laufenden Angebotsentscheidung eine Meldung. Aus dieser Pflicht wird in der tschechischen Fassung eine Empfehlung, in der portugiesischen Fassung verschiebt sich der Schritt hinter die Teilnahme.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Im Material stehen auch 60 Euro als interne Kostenorientierung für bereits freigegebene Messebesuche. Wer nur einen kurzen, flüssigen Text verlangt, kann aus der Zahl eine allgemeine Erlaubnis machen. Die Fassungen müssen in allen Ländern zur gleichen Handlung führen und zugleich die jeweils erreichbare Stelle nennen.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Gebt drei Personen dieselbe Einladung in drei Sprachfassungen. Lasst sie jeweils sagen, wann sie melden und ob sie teilnehmen würden.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Ordnet jede Muss-Aussage ihrer Richtlinienfassung und ihrem Anwendungsfall zu. Kontrolliert die Übersetzung durch eine fachliche Rückübersetzung und testet, ob die genannte Stelle erreichbar ist.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Prüft den R4-Entwurf, den Testmandanten und den Eingang nach 18 Uhr getrennt. Entwerft je einen Fall für normale Freigabe, Vorabklärung und Eskalation.
+
+**Entscheidung am Ende.** Welche Sprachfassung und welcher Meldeweg sind heute freigabefähig, und welche Änderungen bleiben bis zur Bestätigung gesperrt?
+
+**Arbeitsauftrag.** Erstelle eine deutsche Masterfassung und zwei freigabefähige lokalisierte Entwürfe für den Intranet-Hinweis. Liefere eine Abweichungsliste und eine Freigabenotiz. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-sprache-im-werk.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-sprache-im-werk_gesamt.pdf`](gesamt-pdf/compliance-hameln-sprache-im-werk_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-sprache-im-werk.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-sprache-im-werk.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-sprache-im-werk-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-sprache-im-werk-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-sprache-im-werk.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-sprache-im-werk.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-sprache-im-werk-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-sprache-im-werk-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

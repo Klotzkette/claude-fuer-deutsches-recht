@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-22. Hinweisaufnahme, Vertraulic
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstellen Sie eine Eingangsbestätigung, ein Zugriffskonzept für die Fallakte und eine Entscheidungsvorlage über eine vertrauliche, verhältnismäßige Folgemaßnahme.
+Eine befristet eingesetzte Beschäftigte eines Vertragslagers meldet Merrensteg, dass im September Prüfvermerke an 14 Wareneingängen nachträglich überschrieben worden seien. Zwei Chargen betreffen Schutzschalter für Förderanlagen. Die Beschäftigte hat ihren Namen im Portal angegeben und bittet um Antwort im geschützten Postkorb. Die Qualitätssicherung braucht die Losdaten schnell, um Produkte prüfen zu können.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Einer der Bildschirmauszüge zeigt Benutzerkennung und Schicht. In der betreffenden Nacht waren nur fünf Personen eingesetzt. Auch nach Löschen des Namens kann die Kombination aus Schicht, Detailwissen und Screenshot die Person identifizieren. Der Lagerleiter hat keinen regulären Zugriff auf die Meldestellenakte. Die technische Prüfung muss deshalb mit einem eigenen, auf den Zweck begrenzten Auszug beginnen.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Erstellt zwei Aufträge: einen an die Meldestelle zur Kommunikation und zum Schutz der Quelle, einen an die Qualitätssicherung zu Losen und Prüfstatus.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Testet an Screenshot und Datenregister, welche Angaben nach einer einfachen Namensschwärzung noch Rückschlüsse erlauben. Legt fest, was in der Prüfkopie erforderlich ist.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die späteren Erkenntnisse zum Zugriff und zur Schichtplanung auf. Prüft, was sie über Kenntnis und eine mögliche Benachteiligung belegen, und formuliert getrennte Maßnahmen.
+
+**Entscheidung am Ende.** Welche Informationen gehen jetzt an die Qualitätssicherung, ohne die Quelle unnötig offenzulegen, und was muss die Meldestelle separat sichern?
+
+**Arbeitsauftrag.** Erstellen Sie eine Eingangsbestätigung, ein Zugriffskonzept für die Fallakte und eine Entscheidungsvorlage über eine vertrauliche, verhältnismäßige Folgemaßnahme. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-meldung-nachtschicht.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-meldung-nachtschicht_gesamt.pdf`](gesamt-pdf/compliance-hameln-meldung-nachtschicht_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-meldung-nachtschicht.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-meldung-nachtschicht.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-28. Wirksamkeitsprüfung, Audit
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstellen Sie einen Wirksamkeitsbericht mit nachgerechneten Kennzahlen, dokumentierten Feststellungen und einem priorisierten Maßnahmen- und Nachtestplan.
+Im Quartalsbericht der Merrensteg Elektrosysteme SE steht, 98 Prozent aller Partnerzahlungen seien rechtzeitig geprüft. Die Revision findet für vier von 24 untersuchten Zahlungen keinen vor Auszahlung bestätigten Leistungsnachweis. Es geht um 82.400 Euro. Nora Eibenrode hat zwei Tage bis zum nächsten Bericht und muss klären, ob die Kontrolle versagt oder die Kennzahl etwas anderes misst als behauptet.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Die 98 Prozent stammen aus 588 grünen Systemzeilen bei 600 Datensätzen. Eine Zeile kann auch nach der Zahlung grün werden. Der Nenner enthält Stornos und interne Verrechnungen. Die Revision untersucht nur ausgeführte Zahlungen an Externe und hat gezielt Risikofälle gezogen. Dazu kommen ein Fragebogen von sieben der neun Teams und ein Branchenvergleich, der nur Erstfreigaben misst. Ein einheitlicher Balken lässt diese unterschiedlichen Aussagen wie dieselbe Quote aussehen.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Lasst die KI zunächst aufschreiben, was „rechtzeitig geprüft“ im Alltag konkret heißen muss: welcher Leistungsnachweis, welche Bestätigung und welcher Zeitpunkt.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Rechnet die 98 Prozent nach. Zeigt zu jeder Quelle Grundgesamtheit, Zeitpunkt und Kontrollziel. Vergleicht die 24 Prüffälle mit dem Bericht, ohne aus der Risikostichprobe eine Konzernquote zu machen.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Nehmt die zusätzlichen Zeitnachweise und die offenen Zeilen auf. Entwerft einen korrigierten Bericht und einen Nachtest, der vor der Auszahlung fehlende Belege sichtbar macht.
+
+**Entscheidung am Ende.** Welche Aussage ersetzt die 98-Prozent-Behauptung, und welche Maßnahme kann Nora mit dem begrenzten Budget bis Ende November prüfen lassen?
+
+**Arbeitsauftrag.** Erstellen Sie einen Wirksamkeitsbericht mit nachgerechneten Kennzahlen, dokumentierten Feststellungen und einem priorisierten Maßnahmen- und Nachtestplan. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-wirksamkeit-nachtest.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-wirksamkeit-nachtest_gesamt.pdf`](gesamt-pdf/compliance-hameln-wirksamkeit-nachtest_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wirksamkeit-nachtest.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wirksamkeit-nachtest.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wirksamkeit-nachtest-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wirksamkeit-nachtest-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wirksamkeit-nachtest.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-wirksamkeit-nachtest.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wirksamkeit-nachtest-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-wirksamkeit-nachtest-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

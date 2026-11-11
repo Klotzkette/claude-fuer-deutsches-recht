@@ -4,11 +4,21 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-20. Konzernweite Compliance-Ris
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstellen Sie eine nachvollziehbare Priorisierung und einen Prüfplan für 320 Stunden. Stellen Sie Unsicherheiten, eine alternative Gewichtung und Entscheidungspunkte für die Leitung dar.
+Die Hamelner Compliance-Leitung hat im ersten Quartal 320 Prüfstunden für vier Tochterstandorte. In Bredelmoor laufen 74 Händlerverträge aus, in Wildenhagen liegen Behördenkontakte bei nur einer Person, in Lüntenried gehen Daten an externe Servicebetriebe und in Faltenkamp werden technische Freigaben in einem gemeinsamen Konto bearbeitet. Die Revision beantragt zusätzlich 40 Stunden für Nachtests.
 
-Für einen gestuften Vorführlauf zuerst die Stücke 01 bis 03 und den Arbeitsauftrag 08 verwenden. Datenregister, Screenshot und die Stücke 06 und 07 erst nach dem ersten Entwurf öffnen. Die PDF-Gesamtakte enthält den vollständigen Verlauf.
+Die Standorte haben sich anhand von Schadensschwere, Wahrscheinlichkeit und Kontrolllücke bewertet. Die Zahlen sehen gleichartig aus, beruhen aber auf Vertragsstichproben, Selbstauskünften oder älteren Zugriffsdaten. Eine KI-Rangliste kann dadurch einen hohen, schwach belegten Wert mit einem gut belegten akuten Problem gleich behandeln. Die Leitung braucht einen Plan, der Datenqualität, Termine und den Nutzen jeder Prüfung ausweist.
+
+### Vorführung in drei Runden
+
+1. **Einstieg.** `01_Eingang.eml`, `02_Sachgrundlage.docx` öffnen. Lasst die Gruppe zunächst einen Standort und eine sofortige Maßnahme wählen. Nennt für die Wahl einen drohenden Schaden und den Zeitpunkt, zu dem er eintreten könnte.
+2. **Abgleich.** `03_Stellungnahme.eml`, `04_Datenregister.xlsx` öffnen. Prüft die vier Bewertungen gegen ihre Belege. Plant Aufwand, lokale Sofortmaßnahmen und die Stunden für Nachtests innerhalb der Gesamtgrenze.
+3. **Neue Runde.** `06_Nachtrag.pdf`, `12_Ergaenzende_Stellungnahme.eml`, `13_Belegabgleich_und_Sicherungsstand.docx` öffnen. Aktualisiert den Plan nach der zusätzlichen Rückmeldung. Haltet je verschobener Prüfung fest, wer das Restrisiko trägt, welche Zwischenmaßnahme läuft und wann neu entschieden wird.
+
+**Entscheidung am Ende.** Welche Prüfungen starten sofort, und welche begründete Verschiebung legt die Leitung dem Vorstand zur Entscheidung vor?
+
+**Arbeitsauftrag.** Erstellen Sie eine nachvollziehbare Priorisierung und einen Prüfplan für 320 Stunden. Stellen Sie Unsicherheiten, eine alternative Gewichtung und Entscheidungspunkte für die Leitung dar. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-vier-werke-risikobudget.docx`. Die Gesamtakte enthält alle Runden.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -24,8 +34,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-vier-werke-risikobudget_gesamt.pdf`](gesamt-pdf/compliance-hameln-vier-werke-risikobudget_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vier-werke-risikobudget.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vier-werke-risikobudget.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vier-werke-risikobudget-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vier-werke-risikobudget-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vier-werke-risikobudget.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-vier-werke-risikobudget.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vier-werke-risikobudget-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-vier-werke-risikobudget-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -39,6 +49,7 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01_Eingang.eml](01_Eingang.eml)
 - [02_Sachgrundlage.docx](02_Sachgrundlage.docx)
 - [03_Stellungnahme.eml](03_Stellungnahme.eml)

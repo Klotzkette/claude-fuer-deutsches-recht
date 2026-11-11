@@ -4,11 +4,17 @@ Merrensteg Elektrosysteme SE, Hameln. Vorgang ME-36. Die Privatkundin Mara Lindh
 
 <!-- reserved-example-contacts -->
 
-## 1 Arbeitsauftrag
+## 1 Einstieg und Arbeitsauftrag
 
-Erstelle das Antwortschreiben nach Art. 15 DSGVO, die verständliche Kopie der Daten und einen getrennten internen Freigabevermerk. Entscheide für jede Fundstelle, welche Daten der Kundin und welcher zum Verständnis notwendige Kontext erhalten bleiben. Prüfe bei Informationen über Dritte, ob Weglassen, Schwärzen oder Ersetzen durch eine Funktionsbezeichnung im konkreten Dokument ausreicht. Halte den tatsächlichen Empfänger anhand des Versandnachweises fest.
+Die fiktive Merrensteg Elektrosysteme SE baut Industrieantriebe und bietet in Hameln auch Kundendienst an. Die Privatkundin Mara Lindhorst will wissen, was im Servicevorgang SV-41782 über sie gespeichert und an wen es weitergegeben wurde. Im Serviceexport stehen ihre Angaben neben Notizen der Beschäftigten und einer eingescannten Beilage aus einem fremden Vorgang. Der Dienstleister, an den etwas tatsächlich gesendet wurde, muss aus dem Versandnachweis ermittelt werden.
 
-Beginne für die Vorführung mit 01 bis 04. Öffne anschließend die Trefferliste, die Excel-Prüfmappe und die rote PDF-Vorschau. Prüfe danach den gesperrten PDF-Export durch Suche oder Textextraktion und die Bildbeilage durch Sichtkontrolle. Entwirf erst dann die Ausgabe. Stelle zusätzlich dar, wie dieselbe Prüfung bei anonymisierten Schulungsbildern oder Screenshots funktionieren würde, wenn Kombinationen aus Gesicht, Namensschild, Arbeitsplatz und Kennungen eine Person erkennbar machen.
+Das Testsystem Klarblende markiert Namen und andere Treffer rot. Der farbige Kasten im PDF kann aber über einer durchsuchbaren Textschicht liegen. In einem Scan gibt es umgekehrt sichtbare Angaben, die die Textsuche gar nicht findet. Für die Auskunft zählt daher zuerst, was die Kundin verständlich erfahren muss. Danach lässt sich prüfen, ob eine konkrete Exportdatei für den Versand geeignet ist.
+
+### 1.1 Vorführung in drei Runden
+
+1. Geben Sie 01_Portalexport_Auskunftsersuchen.eml, 02_CRM_und_Serviceakte.docx und 03_Servicepartner_Versandnachweis.eml vor. Lassen Sie die Kundendaten, den erforderlichen Kontext und den Empfänger jeweils am Original belegen.
+2. Ergänzen Sie 05_Klarblende_Trefferliste.csv, 06_Arbeitsmappe_Schwaerzungspruefung.xlsx und 09_KI_Pruefansicht.pdf. Vergleichen Sie die Vorschläge mit der Akte. Welche Treffer müssen im Kontext erhalten bleiben?
+3. Testen Sie 10_Exportkandidat_Sperren.pdf mit Suche oder Textextraktion und 11_Gescannte_Fremdbeilage.pdf per Sichtkontrolle. Entwerfen Sie die Auskunft in 07_Vorlage_Auskunftsschreiben.docx, die verständliche Datenkopie und einen internen Vermerk zu Freigabe und Sperren. Übertragen Sie den Test auf ein Schulungsbild, auf dem Gesicht, Namensschild und Arbeitsplatz zusammen eine Person erkennen lassen.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -22,8 +28,8 @@ Beginne für die Vorführung mit 01 bis 04. Öffne anschließend die Trefferlist
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [Gesamt-PDF](gesamt-pdf/compliance-hameln-auskunft-mit-schwaerzungen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-auskunft-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-auskunft-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen-einzelpdfs.zip) |
 
 Das Akten-ZIP enthält die nativen Dateien und die Lesefassung auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP stellt die Arbeitsstücke jeweils als eigene PDF bereit.
 
@@ -35,6 +41,7 @@ Das Akten-ZIP enthält die nativen Dateien und die Lesefassung auf der ZIP-Wurze
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
+- [Sachverhalt und Arbeitsauftrag (PDF)](00_Einstieg.pdf)
 - [01 Portalexport des Auskunftsersuchens](01_Portalexport_Auskunftsersuchen.eml)
 - [02 CRM- und Serviceakte](02_CRM_und_Serviceakte.docx)
 - [03 Versandnachweis des Servicepartners](03_Servicepartner_Versandnachweis.eml)
