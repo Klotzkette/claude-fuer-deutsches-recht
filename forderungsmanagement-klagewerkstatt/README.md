@@ -54,6 +54,8 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Zugeordnete Testakten
 
+Entpacken Sie das Originalformat-ZIP und laden Sie für den ersten Durchlauf nur `Grundakte`. Dort liegen die Eingangsunterlagen, einschließlich eines gegebenenfalls anzufechtenden Ausgangsbescheids. Die späteren Verfahrensstücke liegen außerhalb dieses Ordners. Die Gesamt-PDF ist separat abrufbar.
+
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -62,8 +64,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Weserfunken Darlehensverfahren Bremen](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) | [Gesamt-PDF](../testakten/fintech-darlehen-vertragsuebernahme-bremen/gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
-| [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
+| [Weserfunken Darlehensverfahren Bremen](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) | [Gesamt-PDF](../testakten/fintech-darlehen-vertragsuebernahme-bremen/gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
+| [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

@@ -9,6 +9,7 @@ from typing import Iterable
 
 from testakte_file_filter import include_in_working_dump
 from testakte_disclaimer import NOTICE_FILENAME
+from testakte_grundakte import FOLDER, PROCEEDING, check_intake_member, selection
 
 
 MAX_ARCHIVE_NAME = 220
@@ -37,9 +38,14 @@ def preserves_directories(testakte_dir: Path) -> bool:
     return testakte_dir.name in STRUCTURED_TESTAKTEN
 
 
+def original_zip_preserves_directories(testakte_dir: Path) -> bool:
+    return preserves_directories(testakte_dir) or testakte_dir.name in selection()["central"]
+
+
 def source_zip_includes_gesamt_pdf(testakte_dir: Path) -> bool:
     """Gibt die je Akte bestellte Trennung von Originalen und Lesefassung zurück."""
-    return testakte_dir.name not in SOURCE_ZIP_WITHOUT_GESAMT_PDF
+    return (testakte_dir.name not in SOURCE_ZIP_WITHOUT_GESAMT_PDF
+            and testakte_dir.name not in selection()["central"])
 
 
 def safe_archive_name(name: str, *, allow_directories: bool) -> bool:
@@ -154,7 +160,28 @@ def working_dump_flat_pairs(testakte_dir: Path, *, include_gesamt_pdf: bool) -> 
 
 def working_dump_archive_pairs(testakte_dir: Path, *, include_gesamt_pdf: bool) -> list[tuple[Path, str]]:
     items = _working_dump_items(testakte_dir, include_gesamt_pdf=include_gesamt_pdf)
-    return structured_archive_pairs(items) if preserves_directories(testakte_dir) else flat_archive_pairs(items)
+    pairs = structured_archive_pairs(items) if preserves_directories(testakte_dir) else flat_archive_pairs(items)
+    intake = selection()["central"].get(testakte_dir.name)
+    if intake is None:
+        return pairs
+
+    all_sources = {relative.as_posix(): source for source, relative in items}
+    if not intake or len(set(intake)) != len(intake) or set(intake) - all_sources.keys():
+        raise ValueError(f"{testakte_dir.name}: Grundaktenauswahl leer, doppelt oder ohne Exportquelle")
+    selected = {all_sources[name] for name in intake}
+    for source in selected:
+        if source.is_symlink():
+            raise ValueError(f"Symbolischer Link in der Grundakte: {source}")
+        check_intake_member(source.name, source.read_bytes() if source.suffix.lower() == ".eml" else None)
+    organized = []
+    for source, relative in items:
+        if source in selected:
+            # Belege aus einer später benannten Ablage behalten ihren Dateinamen,
+            # ohne einen Ordner namens "Klageerwiderung" in die Grundakte zu tragen.
+            parts = [part for part in relative.parts[:-1] if not PROCEEDING.search(part)]
+            organized.append((source, Path(FOLDER, *parts, relative.name)))
+    organized += [(source, Path(name)) for source, name in pairs if source not in selected]
+    return structured_archive_pairs(organized)
 
 
 def working_dump_expected_arcnames(

@@ -15,7 +15,7 @@ from pathlib import Path
 
 from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
 from testakte_zip_common import (
-    preserves_directories,
+    original_zip_preserves_directories,
     safe_archive_name,
     source_zip_includes_gesamt_pdf,
     working_dump_expected_arcnames,
@@ -126,7 +126,7 @@ def main() -> None:
         actual = zip_entries(
             dist / f"testakte-{testakte_dir.name}.zip",
             require_notice=True,
-            allow_directories=preserves_directories(testakte_dir),
+            allow_directories=original_zip_preserves_directories(testakte_dir),
         )
         assert_same(f"testakte-{testakte_dir.name}.zip", entries, actual)
     if empty_dirs:

@@ -294,7 +294,7 @@ Die fachliche Leitung prüft dabei nicht nur den Textentwurf, sondern auch Chron
 
 ## Testakten
 
-Die [zehn Fälle mit jeweils drei Downloadformen](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/TESTAKTEN.md) gehören vollständig zum Projekt. Beginne mit Lange (Bankwechsel, Kulanz und Belegdublette), danach Braun (Betriebskosten und Beleglücken). Lade je Fall nur eine Darreichungsform, damit dasselbe Aktenstück nicht mehrfach im Eingang landet.
+Die [neun Fälle und der Mietspiegel mit jeweils drei Downloadformen](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/TESTAKTEN.md) gehören zum Projekt. Für den ersten Durchlauf genügt der Ordner `Grundakte` im Arbeits-ZIP. Beginne mit Lange (Bankwechsel, Kulanz und Belegdublette), danach Braun (Betriebskosten und Beleglücken). Lade je Fall nur eine Darreichungsform, damit dasselbe Aktenstück nicht mehrfach im Eingang landet.
 
 ## Quellen und Konsistenz
 

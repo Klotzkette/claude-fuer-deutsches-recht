@@ -52,7 +52,7 @@ class WolkenfelsTests(unittest.TestCase):
                 with self.subTest(file=filename, page=number):
                     self.assertIn(page.extract_text(), texts)
 
-    def test_archives_preserve_sources_and_stay_flat(self):
+    def test_archives_preserve_sources_and_keep_intake_separate(self):
         expected = set(expected_arcnames(CASE))
         self.assertEqual(len(expected), 8)
         for builder_name in ("build-testakten-release-zips.py", "build-testakten-einzelpdf-zips.py"):
@@ -64,23 +64,24 @@ class WolkenfelsTests(unittest.TestCase):
                     actual = validator.zip_entries(archive_path, expected_suffix=".pdf")
                     validator.assert_same(SLUG, sorted(expected | {"README.txt"}), actual)
                 else:
-                    actual = validator.zip_entries(archive_path, require_notice=True)
+                    actual = validator.zip_entries(archive_path, require_notice=True, allow_directories=True)
                     validator.assert_same(SLUG, validator.expected_entries(CASE), actual)
                 with zipfile.ZipFile(archive_path) as archive:
                     names = archive.namelist()
                     self.assertEqual(len(names), len(set(names)))
-                    self.assertTrue(all("/" not in name and "\\" not in name for name in names))
+                    prefix = "" if "einzelpdf" in builder_name else "Grundakte/"
+                    self.assertTrue(all("/" not in name.removeprefix(prefix) and "\\" not in name for name in names))
                     self.assertFalse(any(name.endswith(".md") for name in names))
                     self.assertEqual(archive.read("README.txt"), NOTICE_BYTES)
                     self.assertIsNone(archive.testzip())
                     for filename in ORIGINALS:
-                        self.assertEqual(archive.read(filename), (CASE / filename).read_bytes())
+                        self.assertEqual(archive.read(prefix + filename), (CASE / filename).read_bytes())
                     if "einzelpdf" in builder_name:
                         self.assertEqual(set(names), expected | {"README.txt"})
                     else:
                         for source in CASE.iterdir():
                             if source.suffix in {".eml", ".txt", ".csv"}:
-                                self.assertEqual(archive.read(source.name), source.read_bytes())
+                                self.assertEqual(archive.read(prefix + source.name), source.read_bytes())
 
     def test_both_entry_points_link_to_same_case(self):
         for relative in ("fachanwalt-steuerrecht/README.md", "steuerrecht-anwalt-und-berater/README.md", "testakten/README.md"):

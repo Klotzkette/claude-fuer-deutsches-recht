@@ -18,7 +18,7 @@ from PIL import Image
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import expected_arcnames
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 CASE = ROOT / 'testakten/inkasso-zahlungsklage-modefuchs'
@@ -116,7 +116,9 @@ class ModefuchsCase(unittest.TestCase):
         pairs = working_dump_archive_pairs(CASE, include_gesamt_pdf=False)
         self.assertEqual(len(pairs), 47)
         names = [name for _, name in pairs]
-        self.assertTrue(all('/' not in name for name in names))
+        self.assertTrue(all('/' not in name for name in names if not name.startswith('Grundakte/')))
+        self.assertIn('Grundakte/originale/01_Bestellbestaetigung_03-04-2025.pdf', names)
+        self.assertFalse(any(name.startswith('Grundakte/') and 'klage' in name.lower() for name in names))
         self.assertTrue(all(Path(name).suffix not in {'.md', '.json', '.yaml'} for name in names))
         for term in ('claim_gate', 'anspruchsmatrix', 'klagefreigabe', 'fehleranalyse', 'mahnlauf_modefuchs'):
             self.assertFalse(any(term in name for name in names), term)
@@ -137,7 +139,7 @@ class ModefuchsCase(unittest.TestCase):
             self.skipTest('--assets für den vollständigen Archivvergleich angeben')
         slug = CASE.name
         with zipfile.ZipFile(ASSETS / f'testakte-{slug}.zip') as archive:
-            expected = working_dump_archive_pairs(CASE, include_gesamt_pdf=True)
+            expected = working_dump_archive_pairs(CASE, include_gesamt_pdf=source_zip_includes_gesamt_pdf(CASE))
             self.assertEqual(set(archive.namelist()), {'README.txt', *(name for _, name in expected)})
             self.assertEqual(archive.read('README.txt'), NOTICE_BYTES)
             for path, name in expected:

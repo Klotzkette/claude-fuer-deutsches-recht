@@ -11,7 +11,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner für Eingang, Klageerwiderung und Korrespondenz. Das Originalformat-ZIP enthält PDF, Word, Excel, E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine Lesezeichen führen zu den getrennten Arbeitsbereichen.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -20,12 +20,12 @@ Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf`](gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
 
-Die ZIP-Links laden die Aktenfassung zum Komponentenrelease `insolvenzanfechtung-v1.1.0`. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the insolvency-avoidance component release 1.1.0.
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -158,7 +158,9 @@ Die zwanzig Anfechtungsunterlagen werden separat durch `scripts/build-fintech-br
 <!-- END fintech-inventory -->
 
 <!-- BEGIN pruefmaterial-insolvenz -->
-## Vorlagen und Vergleichsmaterial
+<!-- decimal-anchor --> <a id="vorlagen-und-vergleichsmaterial"></a>
+
+## 1.7. Vorlagen und Vergleichsmaterial
 
 Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
 

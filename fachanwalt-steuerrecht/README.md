@@ -32,6 +32,8 @@ Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) bün
 
 ### Grundsteuerakte Wolkenfels
 
+Entpacken Sie das Originalformat-ZIP und laden Sie für den ersten Durchlauf nur `Grundakte`. Dort liegen die Eingangsunterlagen, einschließlich eines gegebenenfalls anzufechtenden Ausgangsbescheids. Die späteren Verfahrensstücke liegen außerhalb dieses Ordners. Die Gesamt-PDF ist separat abrufbar.
+
 Die [Aktenübersicht Wolkenfels](../testakten/steuer-grundsteuer-wolkenfels-berlin/README.md) enthält die beiden unverändert übernommenen Bescheid-PDFs und sechs ergänzende Unterlagen. Dieselbe Akte ist im gemeinsamen Steuerrechts-Plugin verzeichnet.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -41,7 +43,7 @@ Die [Aktenübersicht Wolkenfels](../testakten/steuer-grundsteuer-wolkenfels-berl
 | Fassung | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamtakte lesen](../testakten/steuer-grundsteuer-wolkenfels-berlin/gesamt-pdf/steuer-grundsteuer-wolkenfels-berlin_gesamt.pdf) |
-| Originaldateien | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-steuer-grundsteuer-wolkenfels-berlin.zip) |
+| Originaldateien | [Akten-ZIP mit Grundakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-steuer-grundsteuer-wolkenfels-berlin.zip) |
 | Einzel-PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-steuer-grundsteuer-wolkenfels-berlin-einzelpdfs.zip) |
 
 English: Both entry points use the same case. The two supplied PDFs are unchanged; additional correspondence remains separate. ZIP files contain no subfolders or Markdown documents.

@@ -1,11 +1,13 @@
 # Pflegekasse Trier: nächtliche Weglauftendenz, Pflegegrad und Entlastungsleistungen
 
+<!-- reserved-example-contacts -->
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -14,35 +16,33 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf`](gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Der 84-jährige frühere Steinmetz Anton Birk soll trotz fortgeschrittener Demenz nur Pflegegrad 2 behalten. Seine Tochter dokumentiert nächtliches Umhergehen, Herdsituationen und Stürze; die Pflegekasse verweist auf einen kurzen Hausbesuch und lehnt eine Höherstufung sowie zusätzliche Nachtentlastung ab.
+## 1 Sachverhalt
 
-## Akteninhalt
+Der 84-jährige Anton Birk lebt allein in Trier-Euren. In vertrauten Abläufen kann er sich tagsüber noch teilweise selbst versorgen. Nachts verwechselt er Türen, sucht verstorbene Angehörige und braucht regelmäßig jemanden, der ihn zurückbegleitet. Seine Tochter Mara Birk arbeitet im Schichtdienst. Der ambulante Dienst kommt morgens und an drei Abenden pro Woche. Die Familie organisiert Nachtstunden zusätzlich und kann eine private Bereitschaft nur vorübergehend finanzieren. Der Medizinische Dienst hat bei einem Vormittagsbesuch 43,75 gewichtete Punkte festgestellt. Die Pflegekasse hält an Pflegegrad 2 fest.
 
-1. Ausgangslage, Bescheide, Schreiben oder Registerauszüge.
-2. Medizinische, wirtschaftliche oder markenrechtliche Belege mit Fristenkern.
-3. Kommunikation, Tabellen und Arbeitsfassungen für Widerspruch, Klage, Vergleich oder Prüfungstermin.
+## 2 Mit der Grundakte beginnen
 
-## Geeignete Plugins
+Öffnen Sie im Originalformat-ZIP ausschließlich den Ordner `Grundakte`. Er zeigt den Eingang bei der Kanzlei am 24. Juni 2026 mit Antrag, Ausgangsbescheid, Vollmacht, erstem Pflegegutachten, ärztlichem Befund, Übergaben und dem bis dahin geführten Nachtkalender. Ziehen Sie die dortigen Angaben zur Medikamentenhilfe und die Mandatsanfrage hinzu. Rekonstruieren Sie den Beginn der Verschlechterung und den Fristlauf. Entwerfen Sie den Widerspruch und legen Sie fest, welche Informationen zu einzelnen Nächten, Pflegemaßnahmen und Zugangsbelegen nachzufordern sind.
 
-`fachanwalt-sozialrecht`, `pflegeversicherung`, `selbstvertreter-sozialgericht`, `richter-sozialgericht`.
+## 3 Fortsetzung der Gesamtakte
 
-## Nachgereichte Unterlagen
+Für die Nachbesprechung enthält die Gesamtakte den ausformulierten Widerspruch der Tochter, spätere Pflege- und Kommunikationsbelege, Kostenvoranschlag, Dienstrechnung, interne Begutachtung zu Höherstufung und Leistungspfaden, den ergänzenden MD-Vermerk, den Widerspruchsbescheid und die Klage. Wenn Sie die Klage selbst entwerfen möchten, legen Sie zunächst die späteren Originalbelege und den Widerspruchsbescheid vor. Vergleichen Sie Ihren Entwurf anschließend mit der ausgearbeiteten Klage.
 
-| Datei | Inhalt |
-| --- | --- |
-| `08_rechnung_nachtbereitschaft_01_bis_05_juli_2026.docx` | Rechnung des Pflegedienstes Porta Nigra über die ersten fünf Nächte Nachtbereitschaft (1.034,50 EUR) |
-| `09_sms_verlauf_mara_birk_karin_lauer_juni_2026.txt` | SMS-Verlauf der Tochter mit der Nachbarin Karin Lauer zu Nachtereignissen, Gutachterbesuch und Bescheid |
-| `eml/2026-07-13_pflegekasse_zwischennachricht_widerspruch.eml` | Zwischennachricht der Pflegekasse: Eingang des Widerspruchs, erneute Begutachtung angefordert, Unterlagen bis 31.07.2026 |
+Die Akte erlaubt es, zwei Arten von Hilfebedarf am selben Datum zu unterscheiden. Am 3. Juni dokumentieren Nachbarin und Pflegedienst unterschiedliche Vorgänge in derselben Nacht. Die Tabellen enthalten außerdem beobachtete und unbeobachtete Zeiträume. Prüfen Sie die Häufigkeit je Kriterium und den jeweils höheren Wert aus den Modulen 2 und 3. Für Nachtentlastung, Wohnraumsicherung und Pflegegrad sind die jeweiligen Anträge und Nachweise gesondert zu bestimmen.
 
-## Sachverhaltskern
+## 4 Amtliche Quellen
 
-Anton Birk lebt in Trier-Euren in einer engen Erdgeschosswohnung mit zwei Stufen zum Bad und einem Herd mit alten Drehreglern. Nachts verlässt er mehrfach das Bett, sucht den verstorbenen Bruder im Innenhof und lässt Wasser laufen. Die Tochter Mara Birk führt seit April 2026 ein Belastungsprotokoll. Es enthält Uhrzeiten, Sturzspuren, vergessene Medikamentengaben und die Zeiten der ambulanten Pflege. Der MD-Besuch dauerte nach ihrer Notiz 29 Minuten. Die Pflegekasse Knappschaft-Mosel hält Pflegegrad 2 für ausreichend. Der Widerspruch läuft noch; die Monatsfrist endet am 17.07.2026. Die Familie kann private Nachtwache nur zwei Wochen finanzieren.
+- [Paragrafen 14 und 15 SGB XI mit den Anlagen zur Begutachtung](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html)
+- [Amtliche Begutachtungsrichtlinien des Medizinischen Dienstes Bund](https://md-bund.de/themen/pflegebeduerftigkeit-und-pflegebegutachtung/begutachtungs-richtlinien.html)
+- [Sozialgerichtsgesetz](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html)
+
+Die Akte ist dem Pflegerecht, dem Sozialrecht und der Arbeit mit sozialgerichtlichen Verfahren zugeordnet.

@@ -24,13 +24,19 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 - Belege nicht nur behaupten, sondern als Datei, Tabelle, E-Mail, Scan oder Foto anlegen.
 - Juristische Spezialfragen nicht spoilern; die Akte darf neugierig machen, soll aber nicht lösen.
 
+### Grundakte für die erste Bearbeitung
+
+Akten für Steuerrecht, Forderungsmanagement, Pflegerecht und Sozialversicherungsstatus enthalten im Originalformat-ZIP den Unterordner `Grundakte`. Er bildet die beim ersten Auftrag verfügbare Sachgrundlage ab. Ein bereits ergangener Ausgangsbescheid kann dazugehören. Ausgearbeitete Rechtsbehelfe, Entscheidungen darüber, gerichtliche Stücke, Lösungstexte und die Gesamt-PDF stehen außerhalb der Grundakte. Bei Mischdokumenten ist ein klar bezeichneter Tatsachenauszug möglich. Prüfen Sie bei E-Mails auch die eingebetteten Anlagen.
+
+Die Auswahl wird je Fall in [testakten-grundakten.json](../scripts/data/testakten-grundakten.json) ausdrücklich erfasst. Jede ausgewählte Datei steht genau einmal im Originalformat-ZIP. Die Einzel-PDFs und die Gesamt-PDF sind gesonderte Darreichungsformen der Akte.
+
 ## Dateiformate im Akten-ZIP — Grundregel für alle Testakten
 
 Der Akten-ZIP-Export ist das Herzstück der Lebensnähe: ein hybrider, bewusst unaufgeräumter Formatemix, wie er im Anwaltsalltag anfällt. Daran wird gezeigt, wie eine KI echte Dateien liest, umbenennt und umwandelt. Deshalb gilt verbindlich — auch für jede künftig von Menschen oder Coding-Agents erzeugte Testakte:
 
 - **Kein Markdown als Aktenstück.** Aktenstücke liegen in lebensechten Formaten vor: Word-Dokumente mit Briefkopf, schlichte Bürodateien, generierte oder gescannt wirkende PDFs, unbereinigte Excel-Tabellen, öffnungsfähige E-Mail-Dateien mit Kopfzeilen und Anlagen, Screenshots, Fotos, Chat-Exporte und gegebenenfalls bearbeitbare Präsentationen. Inhalt und Nummerierung bleiben mit dem Gesamt-PDF konsistent.
 - **Markdown bleibt außerhalb der Auslieferung.** README-Dateien und redaktionelle Begleittexte dürfen im Repository als Markdown vorliegen, werden aber aus Akten-ZIP und Einzel-PDF-ZIP ausnahmslos herausgefiltert. Die vom Builder erzeugte `README.txt` ist die einzige obligatorische Begleitdatei in beiden ZIP-Varianten.
-- **Flache Archive sind die verbindliche Grundregel.** Außerhalb der oben bezeichneten Projektordner-Ausnahme gilt: Weder das Akten-ZIP noch das Einzel-PDF-ZIP darf Verzeichniseinträge oder Dateipfade mit `/` enthalten. Gleichnamige Dateien aus früheren Unterordnern erhalten kollisionssichere Namen mit doppeltem Unterstrich.
+- **Flache Archive sind die verbindliche Grundregel.** Außerhalb der Projektordner- und Grundakten-Ausnahmen gilt: Weder das Akten-ZIP noch das Einzel-PDF-ZIP darf Verzeichniseinträge oder Dateipfade mit `/` enthalten. Gleichnamige Dateien aus früheren Unterordnern erhalten kollisionssichere Namen mit doppeltem Unterstrich.
 - **Werkzeuge:** `scripts/convert-testakte-aktenstuecke-nativ.py` wandelt Markdown-Aktenstücke in formatierte DOCX um (bestehende gleichnamige DOCX-Zwillinge gewinnen); `scripts/validate-testakten-keine-markdown-aktenstuecke.py` prüft die Regel repo-weit. Der Gesamt-PDF-Builder liest DOCX, XLSX, PDF, Bilder und EML. Für die layoutgetreue Lesefassung von PPTX verwendet er LibreOffice Impress.
 - **Vorführakten** enthalten für jede verwendete Quelle die passende Datei im Originalformat sowie eine PDF-Lesefassung. Auszüge, rekonstruierte Screenshots und abgeleitete Präsentationen werden als solche bezeichnet. Ein Muster-Anlagenband liegt getrennt von der offenen Arbeitsakte.
 - **Neue Akten** werden von Anfang an in nativen Formaten angelegt; wer schneller in Markdown entwirft, konvertiert vor dem Commit und baut das Gesamt-PDF neu.
