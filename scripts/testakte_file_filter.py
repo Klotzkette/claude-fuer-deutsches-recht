@@ -287,7 +287,11 @@ def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
             or (testakte_dir.name == 'compliance-hameln-auskunft-mit-schwaerzungen'
                 and relative.as_posix() == '07_Vorlage_Auskunftsschreiben.docx')
             or (testakte_dir.name == 'compliance-hameln-schokolade-charge-k17'
-                and relative.as_posix() == '12_Vorlage_Erstentscheidung.docx')
+                and relative.as_posix() in {
+                    'Grundakte/12_Vorlage_Erstentscheidung.docx',
+                    'Interne_Untersuchung/U09_Vorlage_Belegwuerdigung_und_Naechster_Schritt.docx',
+                    'Massnahmen_und_Auswertung/M11_Vorlage_Entscheidung_nach_Untersuchung.docx',
+                })
             or (testakte_dir.name == 'compliance-hameln-geschenk-geschaeftsfuehrung'
                 and relative.as_posix() == '09_Vorlage_Entscheidungsvorlage.docx')
         )

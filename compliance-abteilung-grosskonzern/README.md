@@ -84,7 +84,7 @@ Jeder Fachskill kann direkt aufgerufen werden. Er verarbeitet die vorhandenen Un
 
 | Fall | Anlass |
 | --- | --- |
-| ME-37 · [Die Tafel aus Charge K17](../testakten/compliance-hameln-schokolade-charge-k17/README.md) | Rezepturänderung, Süßstoffe, Kennzeichnung, Chargen und Maßnahmen im Handel |
+| ME-37 · [Die Tafel aus Charge K17](../testakten/compliance-hameln-schokolade-charge-k17/README.md) | Rezepturänderung, Chargenrückruf, gestufte interne Untersuchung und sechs Einzelbefragungen |
 | ME-38 · [Das Wochenende des Geschäftsführers](../testakten/compliance-hameln-geschenk-geschaeftsfuehrung/README.md) | Einladung an den Geschäftsführer, Vergabeentscheidung, Interessenkonflikt und Kontrollspur |
 | ME-39 · [Das Sicherheitsrelais mit der falschen Freigabe](../testakten/compliance-hameln-sicherheitsrelais-hinweis/README.md) | Sicherheitsrelais, widersprüchliche Prüfbelege, Feldmaßnahmen und Schutz nach einem Hinweis |
 
@@ -98,8 +98,9 @@ Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PD
 
 | Paket | Datei |
 | --- | --- |
-| 39 Arbeitsakten in Originalformaten mit Gesamt-PDFs und bearbeitbaren Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/Hameln_Compliance_39_Praxisakten.zip) |
+| 39 Arbeitsakten in Originalformaten und bearbeitbare Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-k17-v1.1.0/Hameln_Compliance_39_Praxisakten.zip) |
 | 35 getrennte fallbezogene Prüfblätter aus den beiden Reihen | [Nachbesprechung als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_Nachbesprechung_35.zip) |
+| ME-37 · Die Tafel aus Charge K17 mit Grundakte und Befragungen | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-k17-v1.1.0/testakte-compliance-hameln-schokolade-charge-k17.zip) |
 | ME-36 · Auskunft nach Art. 15 DSGVO | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) · [Fall und Moderationsmaterial](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/README.md) |
 
 Die Nachbesprechung enthält die bisherigen Prüfblätter der beiden Fallreihen. Die ergänzenden Stellungnahmen und Sicherungsprotokolle sind im eigenen Durchlauf zusätzlich gegen die ursprünglichen Belege zu prüfen. Die Aktenseiten bieten die jeweiligen Originalformat-ZIPs und Einzel-PDF-ZIPs; die Nachbesprechung liegt getrennt von diesen Arbeitsunterlagen.
@@ -112,7 +113,7 @@ Lesen Sie gemeinsam den Sachverhalt am Anfang. Klären Sie in einem Satz, wer he
 | --- | --- | --- |
 | … man ein KI-Werkzeug für den Betrieb auswählt | [ME-01 · KI-Toolpilot](../testakten/compliance-hameln-ki-toolpilot/README.md) | Der Entwurf legt fest, was ein Pilot beweisen muss und welche Daten dabei verwendet werden dürfen. |
 | … ein Ranking in die Personalauswahl eingreift | [ME-35 · Der Score vor der ersten Nachtschicht](../testakten/compliance-hameln-personalscore-vor-start/README.md) | Die Gruppe findet heraus, ob die zuständige Schichtleitung ausgeblendete Bewerbungen sehen und berücksichtigen kann. |
-| … ein unzulässiges Produkt aus dem Handel genommen werden kann | [ME-37 · Die Tafel aus Charge K17](../testakten/compliance-hameln-schokolade-charge-k17/README.md) | Die Gruppe verbindet Rezeptur, Labor und Lieferdaten und formuliert eine konkrete Entscheidung für die betroffene Charge. |
+| … ein unzulässiges Produkt aus dem Handel genommen werden kann | [ME-37 · Die Tafel aus Charge K17](../testakten/compliance-hameln-schokolade-charge-k17/README.md) | Die Gruppe entscheidet mit der Grundakte über die betroffene Charge und überprüft später die Aussagen der Befragten an den technischen Belegen. |
 | … ein Interessenkonflikt vor dem Zuschlag aufgeklärt wird | [ME-38 · Geschenk und Vergabe](../testakten/compliance-hameln-geschenk-geschaeftsfuehrung/README.md) | Die Gruppe prüft Einladung, Empfänger, Rolle und Genehmigungsstand vor der Entscheidung über den Anbieter. |
 | … Produktsicherheit und der Schutz einer hinweisgebenden Person parallel bearbeitet werden | [ME-39 · Sicherheitsrelais und Hinweis](../testakten/compliance-hameln-sicherheitsrelais-hinweis/README.md) | Die Gruppe verfolgt Seriennummern, Prüfstände und Schichtentscheidung in den Originaldaten. |
 

@@ -97,6 +97,15 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
                      'LV-Freigabe. Die Unterlagen zur Angebotsphase und Verhandlung liegen auf der Wurzelebene. '
                      'Das Originalformat-ZIP enthält die Arbeitsdateien einschließlich GAEB. Das Einzel-PDF-ZIP '
                      'liefert die Aktenstücke jeweils als PDF. Die Lesezeichen im Gesamt-PDF führen zu den einzelnen Unterlagen.')
+        if slug == 'compliance-hameln-schokolade-charge-k17':
+            intro = ('Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Dort liegt der Stand der Entdeckung '
+                     'vom 6. November 2026, 09:25 Uhr. Die späteren Arbeitsstücke stehen in den Ordnern '
+                     '`Interne_Untersuchung`, `Zeugenbefragungen` und `Massnahmen_und_Auswertung`. '
+                     'Das Einzel-PDF-ZIP verwendet dieselbe Ordnerstruktur.')
+            trailer = ('Die Gesamt-PDF mit Lesezeichen führt durch alle Phasen. Für die erste Bearbeitung '
+                       'laden Sie nur die Grundakte aus einem der ZIPs.')
+            english = ('English: Both ZIPs preserve the four case folders. For the first exercise, open only '
+                       '`Grundakte`, which contains the intake records as of 09:25 on 6 November 2026.')
         if slug == 'fintech-darlehen-vertragsuebernahme-bremen':
             intro = ('Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner '
                      'für Eingang, Klageerwiderung und Korrespondenz. Das Originalformat-ZIP enthält PDF, Word, '
