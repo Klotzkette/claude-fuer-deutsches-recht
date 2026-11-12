@@ -22,7 +22,7 @@ from prompt_profiles import validate_files, hand_curated
 from quality_lab import validate_profile
 from release_routing import validate_plugin_version
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = json.loads((ROOT / "bauwirtschaft-rundum/seminarfaelle.json").read_text())
@@ -147,7 +147,9 @@ class SeminarSuite(unittest.TestCase):
                     self.assertEqual(len(pairs), len({n for _, n in pairs}))
                     pdf_pairs = document_arcname_pairs(folder)
                     self.assertEqual(len(pdf_pairs), len(source))
-                    self.assertTrue(all("/" not in n for _, n in pairs + pdf_pairs))
+                    self.assertTrue(all(safe_archive_name(n, allow_directories=original_zip_preserves_directories(folder))
+                                        for _, n in pairs))
+                    self.assertTrue(all(safe_archive_name(n, allow_directories=False) for _, n in pdf_pairs))
                     pdf = folder / "gesamt-pdf" / f"{folder.name}_gesamt.pdf"
                     self.assertGreaterEqual(len(PdfReader(pdf).pages), len(source))
                     text = "\n".join(p.extract_text() or "" for p in PdfReader(pdf).pages)

@@ -153,6 +153,10 @@ class BerichtserstellerTest(unittest.TestCase):
         for item in manifest["created"]:
             source = directory / item["path"]
             self.assertTrue(source.is_file(), item["path"])
+            if source.name == "README.md":
+                # Die Fallseite ist der aktuelle Downloadweg, kein eingefrorener Aktenbeleg.
+                self.assertIn("Akten-ZIP", source.read_text(encoding="utf-8"))
+                continue
             self.assertEqual(source.stat().st_size, item["size"], item["path"])
             self.assertEqual(sha(source), item["sha256"], item["path"])
         book = load_workbook(directory / "09_Schlussrechnung_und_Kontenabgleich.xlsx", data_only=False)

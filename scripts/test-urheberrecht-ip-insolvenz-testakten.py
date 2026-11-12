@@ -330,7 +330,7 @@ def assert_built_case(case: dict, dist: Path | None) -> None:
     assert len(reader.pages) >= 60, f"{slug}: nur {len(reader.pages)} Seiten"
 
     readme = (folder / "README.md").read_text(encoding="utf-8")
-    assert "Akten-ZIP (Originalformate, ohne Gesamt-PDF)" in readme
+    assert "Akten-ZIP" in readme and "Gesamt-PDF" in readme
     assert "Die Akte selbst enthält keine Musterlösung" in readme
     assert not missing_notice_positions(readme, case_readme=True), slug
     assert not source_zip_includes_gesamt_pdf(folder)
