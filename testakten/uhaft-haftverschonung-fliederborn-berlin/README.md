@@ -29,9 +29,9 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Beide ZIPs sind flach und enthalten den zweisprachigen Hinweis in README.txt. Das Originalformat-ZIP enthält zusätzlich das Gesamt-PDF, aber kein Markdown. Die PDF-Sammlung enthält genau ein PDF je Originalunterlage. Mehrseitige Unterlagen bleiben jeweils zusammen; verschiedene Originale werden nicht zu einem Einzel-PDF vermischt.
+Im Originalformat-ZIP liegen die ausgewählten Eingangsunterlagen im Ordner `Grundakte`. Die Einzel-PDFs sind separat verfügbar. Mehrseitige Unterlagen bleiben jeweils in einer Datei. Beide ZIPs enthalten den zweisprachigen Hinweis in README.txt.
 
-English: Nine separate source documents, no answer key. Choose the combined reading PDF, the flat archive of individual PDFs, or the flat archive of native documents. The native archive also includes the combined PDF. Notices accompany the downloads and sit in README.txt inside both archives, not within the PDFs.
+English: The native archive contains an intake folder named `Grundakte`. The combined reading PDF and the archive of individual PDFs are separate downloads. Both archives carry the bilingual notice in README.txt.
 
 ## 1.3. Unterlagen
 

@@ -20,14 +20,13 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 from pypdf import PdfReader, PdfWriter
 
-from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN
+from testakte_disclaimer import NOTICE_BYTES
+from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_office_pdf import render_office_batch
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = Path(__file__).with_name("data") / "untersuchungshaft-akten.json"
 DOWNLOADS = ROOT / "untersuchungshaft/testakte/downloads"
-TAG = "untersuchungshaft-v1.0.0"
-BASE = f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{TAG}"
 STAMP = datetime(2026, 10, 16, 8)
 
 
@@ -135,24 +134,16 @@ def write_original(path, item, slug):
         raise ValueError(suffix)
 
 
-def download_section(slug):
-    return f"""<!-- BEGIN gesamt-pdf-section (autogen) -->
-
-## 1.2. Downloads
-
-{NOTICE_MARKDOWN}
-
-| Format | Download |
-| --- | --- |
-| Gesamt-PDF mit Lesezeichen | [Gesamtakte](gesamt-pdf/{slug}_gesamt.pdf) |
-| Jede Unterlage als eigenes PDF | [Einzel-PDF-ZIP]({BASE}/testakte-{slug}-einzelpdfs.zip) |
-| Word, E-Mails, Tabelle und Text | [Akten-ZIP mit Originalunterlagen]({BASE}/testakte-{slug}.zip) |
-
-<!-- END gesamt-pdf-section (autogen) -->"""
+def append_pdf(writer, pdf, label):
+    start = len(writer.pages)
+    for page in PdfReader(io.BytesIO(pdf)).pages:
+        writer.add_page(page)
+    writer.add_outline_item(label, start)
 
 
 def build():
     renderer = module("build-testakten-einzelpdf-zips")
+    readme_generator = module("inject-gesamt-pdf-section")
     cases = json.loads(DATA.read_text(encoding="utf-8"))
     DOWNLOADS.mkdir(parents=True, exist_ok=True)
     report = []
@@ -167,8 +158,9 @@ def build():
                 raise ValueError(f"Ungültiger Originalname: {item['name']}")
             write_original(path, item, slug)
             paths.append(path)
-        cache = render_office_batch(paths)
-        missing = [p.name for p in paths if p.suffix == ".docx" and p not in cache]
+        additions = [path for path, _ in document_arcname_pairs(directory) if path not in paths]
+        cache = render_office_batch(paths + additions)
+        missing = [p.name for p in paths + additions if p.suffix == ".docx" and p not in cache]
         if missing:
             raise RuntimeError(f"Layoutgetreue Office-PDFs fehlen: {missing}")
         single = {"README.txt": NOTICE_BYTES}
@@ -180,38 +172,51 @@ def build():
                 raise RuntimeError(f"Leeres PDF: {path}")
             single[path.stem + ".pdf"] = pdf
             original[path.name] = path.read_bytes()
-            start = len(writer.pages)
-            for page in PdfReader(io.BytesIO(pdf)).pages:
-                writer.add_page(page)
-            writer.add_outline_item(path.name, start)
+            append_pdf(writer, pdf, path.name)
         writer.add_metadata({"/Title": case["title"], "/Author": "Klotzkette"})
+        component_pages = len(writer.pages)
         total = directory / "gesamt-pdf" / f"{slug}_gesamt.pdf"
         total.parent.mkdir(exist_ok=True)
-        with total.open("wb") as handle:
-            writer.write(handle)
-        original[total.name] = total.read_bytes()
+        component_pdf = io.BytesIO()
+        writer.write(component_pdf)
+        original[total.name] = component_pdf.getvalue()
         for suffix, entries in (("", original), ("-einzelpdfs", single)):
             (DOWNLOADS / f"testakte-{slug}{suffix}.zip").write_bytes(archive_bytes(entries))
-        rows = "\n".join(f"| [{d['name']}]({d['name']}) | {d['title']} |" for d in case["files"])
+        rows = [f"| [{d['name']}]({d['name']}) | {d['title']} |" for d in case["files"]]
+        for path in additions:
+            relative = path.relative_to(directory).as_posix()
+            pdf = renderer.render_document_pdf(path, directory, cache)
+            if not pdf:
+                raise RuntimeError(f"Leeres PDF: {path}")
+            append_pdf(writer, pdf, relative)
+            rows.append(f"| [{path.name}]({relative}) | Ergänzende Eingangsunterlage |")
+        if additions:
+            with total.open("wb") as handle:
+                writer.write(handle)
+        else:
+            total.write_bytes(original[total.name])
+        pdf_rel = total.relative_to(directory).as_posix()
+        download_section = readme_generator.section_block(slug, pdf_rel, has_einzelpdf=True)
+        document_rows = "\n".join(rows)
+        additional_material = (
+            "\n\nDas Unterlagenverzeichnis führt auch die ergänzenden Eingangsunterlagen auf."
+            if additions else ""
+        )
         readme = f"""# 1. {case['title']}
 
 {case['summary']}
 
 ## 1.1. Einstieg und Material
 
-Stand {case['date']}. Neun eigenständige Unterlagen: fünf Word-Dokumente, zwei E-Mails, eine Tabelle und eine Textdatei. Beginnen Sie mit der ersten gerichtlichen oder polizeilichen Unterlage und wählen Sie Ihre Rolle. Die vorhandenen Schreiben sind Verfahrensmaterial, keine vorweggenommene Lösung. Eine Entscheidung über den nächsten Antrag ist nicht beigelegt.
+Stand {case['date']}. Neun eigenständige Unterlagen: fünf Word-Dokumente, zwei E-Mails, eine Tabelle und eine Textdatei. Beginnen Sie mit der ersten gerichtlichen oder polizeilichen Unterlage und wählen Sie Ihre Rolle. Die vorhandenen Schreiben sind Verfahrensmaterial, keine vorweggenommene Lösung. Eine Entscheidung über den nächsten Antrag ist nicht beigelegt.{additional_material}
 
-{download_section(slug)}
-
-Beide ZIPs sind flach und enthalten den zweisprachigen Hinweis in README.txt. Das Originalformat-ZIP enthält zusätzlich das Gesamt-PDF, aber kein Markdown. Die PDF-Sammlung enthält genau ein PDF je Originalunterlage. Mehrseitige Unterlagen bleiben jeweils zusammen; verschiedene Originale werden nicht zu einem Einzel-PDF vermischt.
-
-English: Nine separate source documents, no answer key. Choose the combined reading PDF, the flat archive of individual PDFs, or the flat archive of native documents. The native archive also includes the combined PDF. Notices accompany the downloads and sit in README.txt inside both archives, not within the PDFs.
+{download_section}
 
 ## 1.3. Unterlagen
 
 | Datei | Gegenstand |
 | --- | --- |
-{rows}
+{document_rows}
 
 ## 1.4. Einordnung
 
@@ -227,9 +232,9 @@ Personen, private Stellen, Adressen und Vorgangsnummern sind erfunden; die genan
         for index, path in enumerate(paths, 1):
             rubric += f"- id: dokument-{index}\n  check_type: file_exists\n  description: Eigenständiges Original vorhanden.\n  path: {path.name}\n"
         (directory / "rubric.yaml").write_text(rubric, encoding="utf-8")
-        report.append({"slug": slug, "documents": len(paths), "pages": len(writer.pages),
+        report.append({"slug": slug, "documents": len(paths), "pages": component_pages,
                        "originals": {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in paths}})
-        print(f"{slug}: {len(paths)} Originale, {len(writer.pages)} PDF-Seiten, zwei flache ZIPs", flush=True)
+        print(f"{slug}: {len(paths)} Originale in den Komponenten-ZIPs, {len(writer.pages)} Seiten im zentralen PDF", flush=True)
     out = ROOT / "quality/untersuchungshaft"
     out.mkdir(parents=True, exist_ok=True)
     (out / "aktenbestand.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

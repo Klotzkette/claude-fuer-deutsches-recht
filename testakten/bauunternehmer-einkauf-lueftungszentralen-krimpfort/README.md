@@ -2,6 +2,8 @@
 
 Die Krimpfort SE & Co. KG baut eine fiktive Klinik in Oldenburg bei laufendem Betrieb um. Der Projekteinkauf soll neun Lüftungszentralen beschaffen. Drei große Geräte müssen in engen Modulen durch den südlichen Bestand und während vierstündiger Nachtfenster eingebracht werden. Vier Anbieter haben auf das gemeinsame Leistungsverzeichnis geboten. Die Akte eignet sich für den Angebotsvergleich, die Schnittstellenklärung und eine begründete Freigabevorlage für die Projektleitung.
 
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
+
 <!-- reserved-example-contacts -->
 
 ## 1 Aktenstand

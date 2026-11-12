@@ -16,10 +16,14 @@ import zipfile
 from docx import Document
 from pypdf import PdfReader
 
+from release_routing import case_asset_url
 from testakte_disclaimer import NOTICE_DE, NOTICE_EN, NOTICE_BYTES
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "untersuchungshaft"
+DOWNLOADS = PLUGIN / "testakte/downloads"
+DRESDEN = "uhaft-sechsmonate-kornfeld-dresden"
+DRESDEN_EXCERPT = "Tatsachenauszuege/01-festnahme-und-ermittlungsstand.txt"
 
 
 def require(value, message):
@@ -46,11 +50,13 @@ def load_script(name):
 
 def check(dist=None):
     download_check = load_script("validate-testakten-readme-downloads")
-    case_builder = load_script("build-untersuchungshaft-akten")
+    cases = json.loads((ROOT / "scripts/data/untersuchungshaft-akten.json").read_text())
+    require(len(cases) == 4, "Vier Akten erforderlich")
     download_errors = []
     plugin_readme = (PLUGIN / "README.md").read_text()
     groups = download_check.validate_download_notices("untersuchungshaft/README.md", plugin_readme, download_errors)
-    require(groups == 4 and not download_errors, f"Downloadhinweise: {download_errors}")
+    download_check.validate_release_routes("untersuchungshaft/README.md", plugin_readme, download_errors)
+    require(groups >= len(cases) and not download_errors, f"Downloadhinweise ({groups}): {download_errors}")
     skills = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
     require(len(skills) == 10, "Skillzahl")
     names = {p.parent.name for p in skills}
@@ -109,19 +115,21 @@ def check(dist=None):
         body = (PLUGIN / "skills" / slug / "SKILL.md").read_text()
         for phrase in phrases:
             require(phrase in body, f"Verfahrensgrenze fehlt: {slug}: {phrase}")
-    cases = json.loads((ROOT / "scripts/data/untersuchungshaft-akten.json").read_text())
-    require(len(cases) == 4, "Vier Akten erforderlich")
     total_pages = 0
+    component_pdfs = {}
     for case in cases:
         slug = case["slug"]
         require(len(slug) <= 64 and re.fullmatch(r"[a-z0-9-]+", slug), "Aktenslug")
         directory = ROOT / "testakten" / slug
         require(len(case["files"]) == 9, "Neun Originale je Akte")
         readme = (directory / "README.md").read_text()
-        require(NOTICE_DE in readme and NOTICE_EN in readme, "Hinweis auf Downloadseite")
-        require(case_builder.download_section(slug) in readme, f"Downloadblock nicht reproduzierbar: {slug}")
+        download_errors = []
         hits = download_check.validate_local_readme(slug, directory, download_errors)
         require(hits == 6 and not download_errors, f"Akten-Downloadstandard: {download_errors}")
+        for suffix in ("", "-einzelpdfs"):
+            href = f"]({case_asset_url(slug, suffix)})"
+            require(href in readme and href in plugin_readme, f"Downloadziel fehlt: {href}")
+        require(f"](gesamt-pdf/{slug}_gesamt.pdf)" in readme, f"Gesamt-PDF-Link fehlt: {slug}")
         originals = {}
         for item in case["files"]:
             path = directory / item["name"]
@@ -152,9 +160,25 @@ def check(dist=None):
             require(not any(word in body.casefold() for word in
                     ("musterlösung", "antwortmatrix", "lorem ipsum", "platzhalter", "testakte")), f"Metatext {path}")
         full = directory / "gesamt-pdf" / f"{slug}_gesamt.pdf"
-        full_pages = pdf_pages(full.read_bytes())
+        full_data = full.read_bytes()
+        full_pages = pdf_pages(full_data)
         total_pages += len(full_pages)
-        pdfzip = PLUGIN / "testakte/downloads" / f"testakte-{slug}-einzelpdfs.zip"
+        with zipfile.ZipFile(DOWNLOADS / f"testakte-{slug}.zip") as archive:
+            require(set(archive.namelist()) == set(originals) | {"README.txt", full.name}, "Original-ZIP Umfang")
+            require(archive.read("README.txt") == NOTICE_BYTES, "Originalhinweis")
+            for name, data in originals.items():
+                require(archive.read(name) == data, f"Original weicht ab: {name}")
+            component_pdfs[full.name] = component_pdf = archive.read(full.name)
+            require(archive.testzip() is None, "Original-ZIP defekt")
+        component_pages = pdf_pages(component_pdf)
+        if slug == DRESDEN:
+            excerpt = (directory / DRESDEN_EXCERPT).read_text(encoding="utf-8")
+            heading = excerpt.splitlines()[0]
+            require(len(full_pages) > len(component_pages) and any(heading in page for page in full_pages),
+                    "Zentrale Dresdner Lesefassung ohne Tatsachenauszug")
+        else:
+            require(component_pdf == full_data, f"Gesamt-PDF im Originalpaket veraltet: {slug}")
+        pdfzip = DOWNLOADS / f"testakte-{slug}-einzelpdfs.zip"
         with zipfile.ZipFile(pdfzip) as archive:
             expected = {Path(n).stem + ".pdf" for n in originals} | {"README.txt"}
             require(set(archive.namelist()) == expected, "Einzel-PDF-Zuordnung")
@@ -162,14 +186,8 @@ def check(dist=None):
             separate_pages = []
             for name in originals:
                 separate_pages += pdf_pages(archive.read(Path(name).stem + ".pdf"))
-            require(separate_pages == full_pages, f"Gesamt-PDF nicht identisch mit Einzelbestand: {slug}")
+            require(separate_pages == component_pages, f"Komponenten-Gesamt-PDF weicht vom Einzelbestand ab: {slug}")
             require(archive.testzip() is None, "ZIP defekt")
-        with zipfile.ZipFile(PLUGIN / "testakte/downloads" / f"testakte-{slug}.zip") as archive:
-            require(set(archive.namelist()) == set(originals) | {"README.txt", full.name}, "Original-ZIP Umfang")
-            require(archive.read("README.txt") == NOTICE_BYTES, "Originalhinweis")
-            for name, data in originals.items():
-                require(archive.read(name) == data, f"Original weicht ab: {name}")
-            require(archive.read(full.name) == full.read_bytes(), "Gesamt-PDF im Originalpaket veraltet")
     manifests = [json.loads((PLUGIN / p).read_text()) for p in
                  ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json")]
     require(len({(m["name"], m["version"], m["description"]) for m in manifests}) == 1, "Manifestkohärenz")
@@ -200,10 +218,10 @@ def check(dist=None):
         for case in cases:
             slug = case["slug"]
             name = f"{slug}_gesamt.pdf"
-            require((dist / name).read_bytes() == (ROOT / "testakten" / slug / "gesamt-pdf" / name).read_bytes(), "PDF-Release veraltet")
+            require((dist / name).read_bytes() == component_pdfs[name], f"Gesamt-PDF des Komponentenpakets weicht ab: {slug}")
             for suffix in ("", "-einzelpdfs"):
                 name = f"testakte-{slug}{suffix}.zip"
-                require((dist / name).read_bytes() == (PLUGIN / "testakte/downloads" / name).read_bytes(), "Aktenrelease veraltet")
+                require((dist / name).read_bytes() == (DOWNLOADS / name).read_bytes(), "Aktenrelease veraltet")
     print(f"OK: 10 Skills, 15 Rechtsprechungsanker, lesbarer Mini ({len(mini.encode())} Bytes), 4 Akten, 36 Originale, {total_pages} PDF-Seiten. Technische Regression, keine Modellbewertung.")
 
 

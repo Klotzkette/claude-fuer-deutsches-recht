@@ -2,6 +2,8 @@
 
 Die Krimpfort SE & Co. KG beschafft Naturstein für die Sanierung eines fiktiven Altstadtabschnitts in Goslar. Der vorhandene Bestand reicht für 180 der 1.364 Meter Bordlinie. Für den übrigen Bedarf soll der Einkauf vier Angebote auswerten und eine Entscheidung vorbereiten. Das Vorhaben verbindet denkmalgerechte Oberflächen, maßgenaue Kurven und Querungen mit einem engen Lieferfenster für den Wochenmarkt.
 
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
+
 ## 1 Erste Sichtung
 
 Öffnen Sie im Originalformat-ZIP zunächst `Grundakte`. Beginnen Sie mit dem Vertragsauszug, dem Aufmaß und dem Bestandsbefund. Die Inventarkarte nennt „Biedermeier“ als Gestaltungsvorbild. Die Aufgabe der Planung bestand darin, diesen Eindruck in prüfbare Anforderungen zu übersetzen. So entstanden ein Muster aus dem vorhandenen Granit, eine matt gestockte Auftrittsfläche, kurze Werkzeugspuren auf der Vorderseite und ein gerundeter Kopf. Sechs Querungen brauchen eigene Profile.

@@ -1,6 +1,6 @@
 ---
 name: kontrollversagen-und-organentscheidung
-description: "Bearbeitet konkretes Kontrollversagen vom Erstbefund über den Eskalationsbericht bis zum Wiederanlauf. Rekonstruiert die Grundgesamtheit und prüft Kontrollschritte unabhängig anhand von Originalbelegen. Trennt offene Nachweise von bestätigten Abweichungen und liefert einen Organbericht mit Verantwortlichkeiten, Beschlussoptionen, Sperren, Nachtests und Fristen."
+description: "Bearbeitet Kontrollversagen vom Erstbefund bis zum Wiederanlauf. Rekonstruiert die betroffenen Vorgänge anhand von Originalbelegen und unterscheidet bestätigte Abweichungen von offenen Nachweisen. Erstellt einen Organbericht mit Beschlussoptionen, Sperren, Nachtests, Zuständigkeiten und Fristen."
 ---
 
 # Kontrollversagen und Organentscheidung

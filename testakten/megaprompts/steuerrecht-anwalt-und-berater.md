@@ -14,7 +14,7 @@ Diese Vollprüfung verbindet neun Fachmodule des Plugins `steuerrecht-anwalt-und
 6. **erstgespraech-mandatsannahme** — Für Erstgespräch und Mandatsannahme im Steuerrecht (Beratung und Prozess): ordnet Norm, Beweislast und Gegenargument; Er…
 7. **grunderwerbsteuer-share-deal-grundsteuer-bundesmodell** — Für Grunderwerbsteuer beim Share Deal — Paragraf 1 Abs. 2a 2b 3 3a GrEStG: ordnet Norm, Beweislast und Gegenargument; Er…
 8. **haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d** — Für Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht): ordnet Norm, Beweislast und Gegenargum…
-9. **umsatzsteuer-voranmeldung-erstellen** — Erstellt eine Umsatzsteuer-Voranmeldung aus Rechnungen, Gutschriften, Bankdaten und Buchungen. Prüft Zeitraum, Soll- ode…
+9. **umsatzsteuer-voranmeldung-erstellen** — Erstellt Umsatzsteuer-Voranmeldungen aus Belegen und Buchungen. Prüft Zeitraum, Soll- oder Istbesteuerung, Befreiunge…
 
 ---
 
@@ -916,7 +916,7 @@ Rechtsstand vor Versand prüfen. Paragraf 15b InsO ersetzt die früheren rechtsf
 
 ## Skill: `umsatzsteuer-voranmeldung-erstellen`
 
-_Erstellt eine Umsatzsteuer-Voranmeldung aus Rechnungen, Gutschriften, Bankdaten und Buchungen. Prüft Zeitraum, Soll- oder Istbesteuerung, Steuerbefreiungen, Vorsteuer, Auslandsfälle und Berichtigungen und liefert eine belegte ELSTER-Erfassungstabelle. Bereitet verifizierten XML-Import oder die beauftragte lokale Übermittlung mit Prüfung und Eingangsprotokoll vor._
+_Erstellt Umsatzsteuer-Voranmeldungen aus Belegen und Buchungen. Prüft Zeitraum, Soll- oder Istbesteuerung, Befreiungen, Vorsteuer, Auslandsfälle und Berichtigungen. Liefert eine ELSTER-Tabelle mit Belegzuordnung und bereitet verifizierten XML-Import oder beauftragte lokale Übermittlung mit Eingangsprotokoll vor._
 
 # Umsatzsteuer-Voranmeldung aus Belegen erstellen
 
