@@ -29,6 +29,12 @@ from openpyxl import load_workbook
 from PIL import Image, ImageStat
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    safe_archive_name,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -467,13 +473,16 @@ class HildesheimCase(unittest.TestCase):
         self.assertGreaterEqual(retained / required, 0.98,
                                 f'{original.name}: Originalinhalt fehlt im PDF ({retained}/{required} Wörter)')
 
-    def test_release_archives_exact_originals_flat_readme_first_and_pdf_coverage(self):
+    def test_release_archives_exact_originals_readme_first_and_pdf_coverage(self):
         if ASSETS is None:
             self.skipTest('Release-Pakete nur mit --assets DIR prüfen')
         aggregate = CASE/'gesamt-pdf'/f'{SLUG}_gesamt.pdf'
         self.assertTrue(aggregate.is_file())
-        expected_originals = {p.name: p for p in self.paths}
-        expected_originals[aggregate.name] = aggregate
+        include_combined = source_zip_includes_gesamt_pdf(CASE)
+        original_pairs = working_dump_archive_pairs(CASE, include_gesamt_pdf=include_combined)
+        self.assertEqual({path for path, _ in original_pairs},
+                         set(self.paths) | ({aggregate} if include_combined else set()))
+        expected_originals = {name: path for path, name in original_pairs}
         original_zip = ASSETS/f'testakte-{SLUG}.zip'
         single_zip = ASSETS/f'testakte-{SLUG}-einzelpdfs.zip'
         for archive in (original_zip, single_zip):
@@ -482,7 +491,9 @@ class HildesheimCase(unittest.TestCase):
                 names = z.namelist()
                 self.assertEqual(names[0], 'README.txt')
                 self.assertEqual(len(names), len(set(n.casefold() for n in names)))
-                self.assertTrue(all('/' not in n and '\\' not in n and not n.startswith('.') for n in names))
+                allow_directories = archive == original_zip and original_zip_preserves_directories(CASE)
+                self.assertTrue(all(safe_archive_name(n, allow_directories=allow_directories)
+                                    and not n.startswith('.') for n in names))
                 notice = z.read('README.txt')
                 self.assertTrue(notice.startswith(NOTICE_BYTES))
                 notice.decode('utf-8')

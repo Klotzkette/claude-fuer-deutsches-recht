@@ -23,7 +23,7 @@ from prompt_limits import MAX_WORKSHOP_BYTES
 from readme_decimal_headings import normalize_decimal_headings
 from quality_lab import load, marketplace, validate_profile
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
-from testakte_zip_common import working_dump_archive_pairs, preserves_directories, safe_archive_name
+from testakte_zip_common import working_dump_archive_pairs, original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf
 from themen_profile import EXACT_PROFILE_KEYS
 
 
@@ -172,8 +172,10 @@ class BauwirtschaftTests(unittest.TestCase):
             self.assertLessEqual(len(data.decode("utf-8")), MAX_WORKSHOP_BYTES if kind == "werkstatt" else 7500)
             self.assertNotRegex(data.decode("utf-8"), r"\[[^\]]+\]\(\)")
             link = "download.html?path=" + path.relative_to(ROOT).as_posix()
-            self.assertIn(link, (directory / "README.md").read_text())
-            self.assertIn(link, (ROOT / "README.md").read_text())
+            download_page = ROOT / "ASSET_INDEX.md" if kind == "hauptproblem" else directory / "README.md"
+            self.assertIn(link, download_page.read_text())
+            index = "SCHWERPUNKTE.md" if kind == "hauptproblem" else "docs/werkstatt-und-schnellstart-coverage.md"
+            self.assertIn(link, (ROOT / index).read_text())
         self.assertFalse((directory / "testakte").exists())
         self.assertFalse((directory / "testakten").exists())
         self.assertEqual(
@@ -266,10 +268,10 @@ class BauwirtschaftTests(unittest.TestCase):
                 with self.subTest(case=slug):
                     directory = ROOT / "testakten" / slug
                     archive, _ = builder.build_single(directory, Path(temporary))
-                    expected = {name: path for path, name in working_dump_archive_pairs(directory, include_gesamt_pdf=True)}
+                    expected = {name: path for path, name in working_dump_archive_pairs(directory, include_gesamt_pdf=source_zip_includes_gesamt_pdf(directory))}
                     with ZipFile(archive) as bundle:
                         self.assertEqual(set(bundle.namelist()), set(expected) | {NOTICE_FILENAME})
-                        self.assertTrue(all(safe_archive_name(name, allow_directories=preserves_directories(directory))
+                        self.assertTrue(all(safe_archive_name(name, allow_directories=original_zip_preserves_directories(directory))
                                             for name in bundle.namelist()))
                         self.assertEqual(bundle.read(NOTICE_FILENAME), NOTICE_BYTES)
                         self.assertIsNone(bundle.testzip())

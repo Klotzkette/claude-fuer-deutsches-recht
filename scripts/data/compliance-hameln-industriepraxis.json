@@ -1,0 +1,1139 @@
+{
+  "compliance-hameln-retrofit-beratung": {
+    "nr": "ME-07",
+    "title": "Kühlung für den umgebauten Antrieb",
+    "cutoff": "13. Oktober 2026, 12 Uhr",
+    "intro": "Der belgische Verpackungsbetrieb Houtveer füllt in Turnhout Lebensmittelkartons ab. Ein Umrichter dosiert den Strom für den Motor eines Förderbands. Seit Houtveer die sechs Geräte in einen geschlossenen Schrank gesetzt hat, fällt die Linie unter Last aus. Welches Gerät wie warm wurde und ob die Schaltung tatsächlich wegen Wärme abschaltete, ist für das Ersatzangebot und den sicheren Wiederanlauf entscheidend.",
+    "task": "Vergleiche Montageanordnung und Vertragsstand. Lege danach für den Service fest, wie er eine Übertemperatur von einem anderen Fehler trennen kann. Entwirf ein gemeinsames Prüfangebot ohne Zusage zu den 72.000 Euro Stillstandskosten.",
+    "sources": [
+      [
+        "UN-Kaufrecht, insbesondere Art. 1, 6, 35, 38–39, 74 und 77",
+        "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "30_B54_T2_Montageauszug.pdf",
+        "title": "Montageblatt T2 zum Auftrag B54",
+        "office": "Houtveer Packaging BV · Technischer Einkauf · 17. April 2026",
+        "body": [
+          "Die sechs Umrichter U01 bis U06 werden mit 120 mm freiem Raum über den Geräten in den vorhandenen Schaltschrank gesetzt. Für diese Anordnung beträgt die zulässige Ansauglufttemperatur 40 °C am Geräteeinlass. Der Luftstrom muss vom unteren Schrankgitter zu den oberen Auslässen frei geführt werden.",
+          "Ein nachträglich eingebauter Kanal ist auf Durchsatz und ungehinderten Luftaustritt zu prüfen. Das Blatt D08 beschreibt eine offene Montage bei 45 °C und gehört zur Produktfamilie. Das Abnahmefeld AB1 erfasst den Lauf bei 50 % Last und zwanzig Minuten Dauer."
+        ],
+        "ground": true
+      },
+      {
+        "file": "31_Serviceexport_Umrichter.csv",
+        "title": "Auszug aus dem Schichtservice",
+        "columns": [
+          "Zeit MESZ",
+          "Station",
+          "Code",
+          "Messwert °C",
+          "Messort",
+          "Quelle"
+        ],
+        "rows": [
+          [
+            "2026-10-09 13:18",
+            "U01",
+            "T71",
+            41,
+            "oben am Schrank",
+            "Handgerät H6"
+          ],
+          [
+            "2026-10-09 13:20",
+            "U02",
+            "T71",
+            42,
+            "oben am Schrank",
+            "Handgerät H6"
+          ],
+          [
+            "2026-10-09 13:22",
+            "U03",
+            "P02",
+            39,
+            "Einlass",
+            "Handgerät H3"
+          ],
+          [
+            "2026-10-09 14:07",
+            "U01",
+            "T71",
+            null,
+            "",
+            "Maschinenjournal"
+          ],
+          [
+            "2026-10-09 14:08",
+            "U03",
+            "P02",
+            null,
+            "",
+            "Maschinenjournal"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "32_Houtveer_Ausfall_Linie.eml",
+        "title": "Linie 4 fällt seit dem Umbau aus",
+        "sender": "luc.dewit@houtveer.example",
+        "recipient": "irma.winkelreuth@merrensteg.example",
+        "date": "2026-10-12T07:31:00+02:00",
+        "body": [
+          "Wir stehen seit Freitag immer wieder, wenn die Frühschicht auf volle Leistung schaltet. Auf der Anzeige stehen zwei verschiedene Fehlercodes. Unsere Elektrikerin hat die Werte am Schrank und am Gerät gemessen. Ich hänge den Export an, damit Ihre Leute beide Messorte sehen.",
+          "Wir brauchen morgen bis zwölf Uhr einen Termin und eine Ersatzstrategie. Der Umbauauftrag an unseren Schrankbauer und dessen Messung zum neuen Luftkanal liegen noch bei ihm."
+        ],
+        "attachments": [
+          "31_Serviceexport_Umrichter.csv"
+        ],
+        "ground": true
+      }
+    ]
+  },
+  "compliance-hameln-meldefrist-firmware": {
+    "nr": "ME-08",
+    "title": "Zwei Termine im Regulierungsmonitor",
+    "cutoff": "13. Oktober 2026, 12 Uhr",
+    "intro": "Der C18 steuert die Drehzahl eines Anlagenmotors und ist per Netzwerk erreichbar. Eine öffentlich beschriebene Angriffsmethode genügt dem Service für ein Ticket. Ein niederländischer Anlagenbauer liefert erst später Router- und Produktdaten zu einem konkreten Zugriff. Die Meldeuhr hängt daran, welche Information wann im Unternehmen vorlag.",
+    "task": "Prüfe Herstellerrolle, Produktumfang, Kenntnis und Auslöser der einzelnen Fristen. Erstelle einen Zeitstrahl in Ortszeit und UTC und eine Meldeskizze, die eine Schwachstelle und einen schwerwiegenden Sicherheitsvorfall getrennt behandelt.",
+    "sources": [
+      [
+        "Cyberresilienz-Verordnung, Art. 3, 14, 16, 69 und 71",
+        "https://eur-lex.europa.eu/eli/reg/2024/2847/oj?locale=de"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "30_Dienstplan_PSIRT.docx",
+        "title": "Dienstplan für gemeldete Produktschwachstellen",
+        "office": "Merrensteg · Produktsicherheit · Bereitschaft Oktober 2026",
+        "body": [
+          "Das Servicepostfach nimmt technische Kundenmails rund um die Uhr an. Der Netzüberwachungsdienst sieht ein gesondertes Alarmfach. Am Sonntag wird das Servicepostfach von 17 bis 23 Uhr durch die Servicebereitschaft betreut. Bei Kennzeichen SEC soll sie die Nachricht an die Produktsicherheit weiterleiten.",
+          "Hinweise auf veröffentlichte Angriffsmethoden erhalten ein eigenes Ticket. Ein Kundenfall soll Routerzeit, Modell, Firmware und Angaben zu einem erfolgreichen oder abgewehrten Zugriff enthalten. Der Dienstplan belegt, wer eingeteilt ist. Lesebestätigungen entstehen nur in der Serviceanwendung."
+        ],
+        "ground": true
+      },
+      {
+        "file": "31_PSIRT_Ereignisse_UTC.csv",
+        "title": "K18 aus Service und Produktsicherheit",
+        "columns": [
+          "Zeit UTC",
+          "System",
+          "Ereignis",
+          "Feld"
+        ],
+        "rows": [
+          [
+            "2026-10-18T18:16:00Z",
+            "Waalmeer-Router",
+            "Verbindung zum Wartungsport",
+            "C18 / 3.7"
+          ],
+          [
+            "2026-10-18T20:02:00Z",
+            "Mailgateway",
+            "K18 zugestellt",
+            "Mailbox Service"
+          ],
+          [
+            "2026-10-18T20:05:00Z",
+            "Serviceplattform",
+            "Automatische Zuweisung",
+            "Bereitschaft"
+          ],
+          [
+            "2026-10-19T05:48:00Z",
+            "Serviceplattform",
+            "K18 geöffnet",
+            "Service PSIRT"
+          ],
+          [
+            "2026-10-19T07:55:00Z",
+            "Prüfstand",
+            "Unbeaufsichtigte Anfrage reproduziert",
+            "C18 / 3.7"
+          ]
+        ],
+        "ground": false
+      },
+      {
+        "file": "32_Waalmeer_Kundenmeldung.eml",
+        "title": "Unbekannter Zugriff auf C18 im Wartungsnetz",
+        "sender": "niels.vanderveen@waalmeer.example",
+        "recipient": "service@merrensteg.example",
+        "date": "2026-10-18T22:02:00+02:00",
+        "body": [
+          "Bei unserer Anlage in Nijmegen hat sich heute um 20.16 Uhr ein zuvor unbekannter Client mit dem Wartungsport verbunden. Nach dem Verbindungsaufbau wurde ein Diagnosewert abgerufen. Der Wartungsrechner unseres Integrators war nach dessen Aussage vom Netz getrennt.",
+          "Wir haben die Route anschließend geschlossen und lassen den Controller im abgesicherten Betrieb. An der Maschine ist die Firmware 3.7 vermerkt. Die Steuerungsdaten zeigen keine Änderung der Drehzahlsollwerte. Eine Zuordnung des Clients können wir noch nicht liefern."
+        ],
+        "attachments": [],
+        "ground": false
+      }
+    ]
+  },
+  "compliance-hameln-treffer-im-lieferantencheck": {
+    "nr": "ME-13",
+    "title": "Der Treffer mit zwei Adressen",
+    "cutoff": "13. Oktober 2026, 12 Uhr",
+    "intro": "Die neue Lieferung galvanisierter Stromschienen hält die Montage in Hameln am Laufen. Gleichzeitig soll eine für den nächsten Banklauf vorgemerkte Zahlung für eine frühere Lieferung auf ein neues Konto in einem anderen Mitgliedstaat gehen. Ein automatisches Screening bringt drei Firmen mit ähnlich geschriebenen Namen durcheinander. Einkauf und Treasury brauchen Entscheidungen, bevor die Bankdatei ausläuft.",
+    "task": "Führe zuerst Firma, Standort, Eigentum und Zahlungsweg getrennt. Ziehe für die Entscheidung über die Zahlung die bekannte Kontaktquelle heran. Rechne daneben einen Lieferpuffer mit und ohne bereits freigegebene Zweitquelle.",
+    "sources": [
+      [
+        "EU-Kommission, offizielle Sanktionsquellen und Werkzeuge",
+        "https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/overview-sanctions-and-related-resources_en"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "30_Werkdisposition_Stromschienen.xlsx",
+        "title": "Materialdeckung am 13. Oktober",
+        "columns": [
+          "Position",
+          "Verfügbar Stk",
+          "Bedarf je Arbeitstag",
+          "Lieferzeit AT",
+          "Preis netto EUR",
+          "Aktenbezug"
+        ],
+        "rows": [
+          [
+            "Ist-Lager",
+            2200,
+            200,
+            null,
+            null,
+            "DISPO-13"
+          ],
+          [
+            "Grabenwacht Erstabruf",
+            null,
+            200,
+            8,
+            112000,
+            "AN-112"
+          ],
+          [
+            "Alternative Zweitquelle",
+            null,
+            200,
+            11,
+            120736,
+            "vergleichbarer Abruf zuzüglich 7,8 %"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "31_Geanderter_Zahlungsweg.eml",
+        "title": "Stammdaten für Rechnung GR-2026-904",
+        "sender": "kreditoren@gw-abrechnung.example",
+        "recipient": "kreditoren@merrensteg.example",
+        "date": "2026-10-13T08:17:00+02:00",
+        "body": [
+          "Für die alte Rechnung über 36.400 Euro bitten wir um Zahlung an unseren neuen Abwickler. Die Bankverbindung im Auftrag selbst wurde noch nicht geändert. Bitte nehmen Sie für diesen Zahlungslauf die neue Kontoreferenz IB-14 aus dem Stammdatenportal.",
+          "Unsere Gesellschaftsbezeichnung bleibt auf Ihrer Bestellung bestehen. Für Rückfragen ist derzeit nur die in diesem Mailkopf angegebene Adresse zu verwenden."
+        ],
+        "attachments": [],
+        "ground": true
+      },
+      {
+        "file": "32_Kreditorenprotokoll_GR34.docx",
+        "title": "Änderungsprotokoll für Kreditor GR 34",
+        "office": "Merrensteg · Treasury · 13. Oktober 2026, 10.40 Uhr",
+        "body": [
+          "Der ursprüngliche Kreditorenstamm nennt die Registerkennung 8182 und die Bestandsrufnummer +49 5151 000341. Die Mail vom neuen Absender wurde für den Zahlungslauf vorgemerkt. Ein Rückruf ist in der Anwendung noch nicht dokumentiert.",
+          "Die Portalzeile SP-77 enthält den Punktwert 92, einen Namen in englischer Schreibweise und keine Listen-ID. Das Register GR-34 wurde aus dem früheren Onboarding importiert. Die Zeilen sind in unterschiedlichen Masken gespeichert."
+        ],
+        "ground": true
+      }
+    ]
+  },
+  "compliance-hameln-seriennummer-fruehwarnung": {
+    "nr": "ME-19",
+    "title": "Dreimal dieselbe Seriennummer",
+    "cutoff": "13. Oktober 2026, 12 Uhr",
+    "intro": "In einer Schaltzelle wird ein Anlagenteil spannungsfrei geschaltet, bevor Personal zur Wartung hineingeht. Merrensteg kontrolliert die Zellen in mehreren Papierwerken. Auf drei Freigaben steht A-1889 im falschen Feld. Zwei Papiere nennen zusätzlich dieselben Messwerte. Vor der Revision muss jedes Werk wissen, welcher Nachweis zu seiner konkreten Anlage gehört.",
+    "task": "Führe Anlagenkennung, Adapter, PDF-Druck und Originalmessung je Werk zusammen. Priorisiere anhand von Revisionszeit und Ersatzmöglichkeit. Entwirf eine Kundeninformation zum Status der konkreten Anlage.",
+    "sources": [
+      [
+        "Betriebssicherheitsverordnung, insbesondere § 14 und Anhang 3",
+        "https://www.gesetze-im-internet.de/betrsichv_2015/"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "30_Wartungsanweisung_ST4.pdf",
+        "title": "Anlagenprüfung und Gerätezuordnung",
+        "office": "Merrensteg · Außendienst Elektrotechnik · Revision ST4.3",
+        "body": [
+          "Vor Beginn wird das Feld spannungsfrei geschaltet und gegen Wiedereinschalten gesichert. Die Anlagenkennung wird vom fest angebrachten Schild übernommen. Für den Messschritt wird der Prüfadapter angesteckt. Adapterkennung und Anlagenkennung werden getrennt im Messgerät gespeichert.",
+          "Für die Bestätigung der Prüfung ist das Messblatt mit Anlagenkennung, Messwerten und Ausführungszeit abzulegen. Beim späteren Druck aus dem Serviceportal können Felder aus unterschiedlichen Registern zusammengeführt werden. Nachdruck und erneute Messung erscheinen im Portal als getrennte Ereignisse."
+        ],
+        "ground": true
+      },
+      {
+        "file": "31_Servicefreigaben_Drucklauf.xlsx",
+        "title": "Dienstleisterexport Wartung Oktober",
+        "columns": [
+          "Werk",
+          "Anlage im Auftrag",
+          "Kennung in PDF",
+          "Messblatt",
+          "Adapter",
+          "Revision"
+        ],
+        "rows": [
+          [
+            "Harsegrund",
+            "A-2041",
+            "A-1889",
+            "vorhanden",
+            "A-1889",
+            "Samstag 06:00"
+          ],
+          [
+            "Harsegrund",
+            "A-2052",
+            "A-1889",
+            "vorhanden",
+            "A-1889",
+            "Reserve"
+          ],
+          [
+            "Tahlenberg",
+            "A-2158",
+            "A-1889",
+            "nicht abgelegt",
+            null,
+            "Sonntag 05:30"
+          ],
+          [
+            "Eikenwerft",
+            "A-2210",
+            "A-2210",
+            "vorhanden",
+            "A-1889",
+            "läuft"
+          ],
+          [
+            "Ronnenfeld",
+            "A-2214",
+            "A-2214",
+            "vorhanden",
+            "A-1889",
+            "geplanter Stillstand"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "32_Tahlenberg_Revisionsfenster.eml",
+        "title": "Schaltfeld A-2158 für die Sonntagsrevision",
+        "sender": "carla.bruning@tahlenberg.example",
+        "recipient": "service@merrensteg.example",
+        "date": "2026-10-12T08:36:00+02:00",
+        "body": [
+          "Für Sonntag ist die erste Revisionsschicht um halb sechs bestellt. Unser Plan nennt A-2158. Auf Ihrer Freigabe steht unter Anlagenkennung A-1889. Die Widerstandswerte sind bis auf die letzte Dezimalstelle wie in der letzten Freigabe aus Harsegrund.",
+          "Wir können auf das Reservefeld ausweichen, wenn wir das vor dem Schichttausch wissen. Könnten Sie uns das Originalmessblatt mit der Kennung vom Schaltfeld zeigen?"
+        ],
+        "attachments": [],
+        "ground": true
+      }
+    ]
+  },
+  "compliance-hameln-untersuchung-servicekonto": {
+    "nr": "ME-14",
+    "title": "Die sechs Rechnungen für eine Nachtschicht",
+    "cutoff": "13. Oktober 2026, 12 Uhr",
+    "intro": "Für Hamelns Hochstromprüfanlage wird Bereitschaft separat von Einsätzen abgerechnet. Eine anonyme Meldung behauptet, sechs Zahlungen seien durch Aufteilung eines Auftrags vorbereitet worden. Vier Rechnungen sind ausgeführt und zwei stehen noch im Mittwochslauf. Die Chronologie von Bestellung, tatsächlichem Einsatz, technischer Abnahme und kaufmännischer Freigabe muss aus getrennten Quellen rekonstruiert werden.",
+    "task": "Sichere die auftragsbezogenen Daten vor Ablauf der Frist beim Zutrittsdienst. Stelle den Hinweis den Vertragspositionen und dem Bankjournal gegenüber und begründe, für welche gezielten Ermittlungsschritte die Akte bereits Anlass gibt.",
+    "sources": [
+      [
+        "Strafgesetzbuch §§ 263, 266 und 299",
+        "https://www.gesetze-im-internet.de/stgb/"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "30_B630_Abrufbedingungen.pdf",
+        "title": "Bedingungen für den Abruf B 630",
+        "office": "Merrensteg · Anlagenbetrieb und Einkauf · 14. September 2026",
+        "body": [
+          "Die Dienstleistung umfasst Anlaufhilfe an den Prüffeldern HP-21 bis HP-25 und Bereitschaft am Wochenende. Für einen tatsächlichen Einsatz unterschreibt die Schichtführung das Arbeitsprotokoll AP-32. Bereitschaft wird für den vereinbarten Zeitraum pauschal anhand des Bereitschaftsplans BP-11 bestätigt.",
+          "Das System verlangt bei Aufträgen ab 10.000 Euro eine zweite kaufmännische Freigabe. Die technische Abnahme bestätigt Einsatz oder Vorhaltung. Sie enthält keine Zahlungsfreigabe. Mehrere Rechnungen zum Abruf tragen dieselbe Bestellnummer und müssen der jeweils abgerechneten Position zuordenbar sein."
+        ],
+        "ground": true
+      },
+      {
+        "file": "31_Rechnungsjournal_B630.xlsx",
+        "title": "Kreditorenjournal zum Abruf B 630",
+        "columns": [
+          "Rechnung",
+          "Betrag EUR",
+          "Feld",
+          "Dokument",
+          "Zahlung",
+          "Bankdatum"
+        ],
+        "rows": [
+          [
+            "R-601",
+            9800,
+            "HP-21",
+            "AP-32",
+            "ausgeführt",
+            "09.10.2026"
+          ],
+          [
+            "R-602",
+            9800,
+            "HP-23",
+            "AP-32",
+            "ausgeführt",
+            "09.10.2026"
+          ],
+          [
+            "R-603",
+            9800,
+            "HP-24",
+            "BP-11",
+            "ausgeführt",
+            "09.10.2026"
+          ],
+          [
+            "R-604",
+            9800,
+            "HP-25",
+            "AP-32",
+            "ausgeführt",
+            "09.10.2026"
+          ],
+          [
+            "R-605",
+            9800,
+            "HP-21",
+            "AP-32",
+            "vorgemerkt",
+            null
+          ],
+          [
+            "R-606",
+            9800,
+            "HP-25",
+            "BP-11",
+            "vorgemerkt",
+            null
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "32_Zutrittsdienst_Vorhaltezeit.eml",
+        "title": "Halle 4 Datenvorhaltung zu Abruf B-630",
+        "sender": "disposition@pfortenwerk.example",
+        "recipient": "anlagenbetrieb@merrensteg.example",
+        "date": "2026-10-13T10:14:00+02:00",
+        "body": [
+          "Die Zutrittsdaten zu Halle 4 stehen in der laufenden Sicht bis Freitag, 16. Oktober, zur Verfügung. Der Export ist nach Tür, Kartenkennung und Terminalzeit filterbar. Die Daten für Halle 2 liegen in einer anderen Anlage.",
+          "Für eine Sicherung teilen Sie uns bitte den betroffenen Zeitraum und die Räume mit. Auf dem Schichtblatt kann nach Mitternacht der vorherige Schichttag stehen. Im Terminalexport wird stets das Kalenderdatum in Ortszeit geführt."
+        ],
+        "attachments": [],
+        "ground": true
+      }
+    ]
+  },
+  "compliance-hameln-vertriebspartner-marktstart": {
+    "nr": "ME-24",
+    "title": "Acht Prozent für eine Türöffnung",
+    "cutoff": "13. Oktober 2026, 12 Uhr",
+    "intro": "Drei Vertriebsgesellschaften benötigen für denselben Markteintritt unterschiedliche Hilfe. Die niederländische Einheit braucht Händlerschulungen. In Österreich sind technische Präsentationen geplant. Der deutsche Entwurf verknüpft acht Prozent des ersten Jahresumsatzes mit dem Erfolg bei zwei kommunalen Kunden. Im Konzernportal steht bei allen drei Anträgen derselbe grüne Status mit einem Verweis auf eine ältere Messebuchung.",
+    "task": "Prüfe Leistung und Empfänger je Vertrag, stelle dokumentierte Arbeit und Erfolgsvergütung gegenüber und beschreibe, welchen Teil jede Gesellschaft mit welchen Kontrollen beauftragen könnte. Beziehe die spätere Teilung des Zahlungsstroms ein.",
+    "sources": [
+      [
+        "StGB, §§ 299, 331–335a",
+        "https://www.gesetze-im-internet.de/stgb/"
+      ],
+      [
+        "GWB, §§ 123–125 zu Ausschluss und Selbstreinigung",
+        "https://www.gesetze-im-internet.de/gwb/"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "30_Bedarfsantraege_NL_DE_AT.xlsx",
+        "title": "Lokale Leistungsanträge zur Angebotsrunde",
+        "columns": [
+          "Einheit",
+          "Leistung",
+          "Vergütung",
+          "Geplante Basis EUR",
+          "Referenz"
+        ],
+        "rows": [
+          [
+            "Nordwest / NL",
+            "drei Händlerschulungen",
+            "4.800 EUR",
+            null,
+            "NW-S3"
+          ],
+          [
+            "Netz / DE",
+            "Vermittlung kommunale Kunden",
+            "8 %",
+            800000,
+            "NET-ALT"
+          ],
+          [
+            "Alpen / AT",
+            "vier private Produktpräsentationen",
+            "9.600 EUR",
+            null,
+            "AL-P4"
+          ],
+          [
+            "Frühere Messe",
+            "schriftlich erfasster Messestand",
+            "9.800 EUR",
+            null,
+            "MES-24"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "31_NET_ALT_Leistungsauszug.docx",
+        "title": "Leistungsbeschreibung NET ALT",
+        "office": "Merrensteg Netz · Vertriebskommunen · Entwurf vom 8. Oktober 2026",
+        "body": [
+          "Der Vermittler stellt Kontakte zu den beiden kommunalen Zielkunden her. Er bleibt bis zur Zuschlagsentscheidung erreichbar und unterstützt auf Nachfrage die Ansprache weiterer Personen beim Kunden. Eine Liste der zu kontaktierenden Personen und die Rolle etwaiger Unterauftragnehmer sind im Entwurf noch nicht bezeichnet.",
+          "Vergütet werden acht Prozent der Erlöse im ersten Vertragsjahr nach erfolgreichem Auftrag. Als vorläufige Bezugsgröße führt der Vertrieb 800.000 Euro. Ein Bericht über Termine oder nachweisbare Leistungen ist im Entwurf nicht als Zahlungsvoraussetzung vorgesehen."
+        ],
+        "ground": true
+      },
+      {
+        "file": "32_Regionale_Auftragsklaerung.eml",
+        "title": "Händlerschulung bitte einzeln anlegen",
+        "sender": "svenja.devries@merrensteg.example",
+        "recipient": "tessa.rabenau@merrensteg.example",
+        "date": "2026-10-12T10:26:00+02:00",
+        "body": [
+          "In den Niederlanden geht es um drei feste Schulungstage zum Antrieb. Wir können Teilnehmerlisten und Agenda führen. Eine Erfolgsvergütung haben wir in unserem Antrag nicht beantragt.",
+          "Im Portal steht bei uns bereits grün. Ich sehe als Bezug die Messevertretung vom letzten Jahr. Ist diese Freigabe auf die Schulungen übertragbar? Der deutsche Kontaktplan und sein kommunaler Bezug wurden hier nicht geprüft."
+        ],
+        "attachments": [],
+        "ground": true
+      }
+    ]
+  },
+  "compliance-hameln-sicherheitsrelais-hinweis": {
+    "nr": "ME-39",
+    "title": "Das Sicherheitsrelais mit der falschen Freigabe",
+    "cutoff": "4. November 2026, 11.30 Uhr",
+    "intro": "Nach dem Beinaheunfall muss die Produktsicherheit wissen, welche Relais in welchen Maschinen stecken. Der belgische Integrator kann zunächst 21 Einbauten bestätigen, während sein Lager weitere Stücke hält. Er braucht einen Serienbereich und eine eindeutige technische Zwischenanweisung, bevor eine zweite Zelle zur Abnahme geht.",
+    "task": "Stimme Kundennummern und Serienbereiche je Standort ab, bereite technische Maßnahmen für Werk, Integratoren und Betreiber vor und prüfe Marktüberwachung in beiden Ländern. Halte den geschützten Vorgang der Meldestelle aus der Produktakte heraus.",
+    "sources": [
+      [
+        "Maschinenrichtlinie 2006/42/EG, Art. 2 und Anhang V",
+        "https://eur-lex.europa.eu/eli/dir/2006/42/oj?locale=de"
+      ],
+      [
+        "Marktüberwachungsverordnung (EU) 2019/1020, Art. 4, 16 und 19",
+        "https://eur-lex.europa.eu/eli/reg/2019/1020/oj?locale=de"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "30_Zavelpoort_Ruecklauf_BE.eml",
+        "title": "SR-24X2 Lieferung LS-8126 · Einbau und Lagerbestand",
+        "sender": "lies.declerck@zavelpoort.example",
+        "recipient": "produktsicherheit@merrensteg.example",
+        "date": "2026-11-04T10:26:00+01:00",
+        "body": [
+          "Zu LS-8126 haben wir 110 Stück angenommen. 21 Stück sind in acht Zellen bestätigt. Bei 14 Stück liegt bereits ein Auslagerungsschein vor. Der Monteur hat die Seriennummern auf diesen Scheinen noch nicht als Einbau gescannt.",
+          "Der übrige Bestand ist in Antwerpen vorhanden. Eine zweite Kundenabnahme wäre um 14 Uhr. Bitte schicken Sie bis zwölf Uhr den betroffenen Serienbereich und sagen Sie, ob bis zur technischen Rückmeldung auch eine Inbetriebnahme im Probebetrieb unterbleiben soll."
+        ],
+        "attachments": [],
+        "ground": true
+      },
+      {
+        "file": "31_Zavelpoort_Ortsspiegel.xlsx",
+        "title": "Lieferschein LS 8126",
+        "columns": [
+          "Status",
+          "Menge",
+          "Nachweis",
+          "Land",
+          "Zeit MEZ"
+        ],
+        "rows": [
+          [
+            "Einbau bestätigt",
+            21,
+            "Montageprotokolle",
+            "BE",
+            "10:26"
+          ],
+          [
+            "Aus Lager ausgebucht",
+            14,
+            "Auslagerungsschein, Einbau offen",
+            "BE",
+            "10:26"
+          ],
+          [
+            "Lagerbestand",
+            75,
+            "Bestandsmeldung",
+            "BE",
+            "10:26"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "32_Pruefstandsblatt_SR24X2.pdf",
+        "title": "Prüfblatt Wiederanlauf SR 24X2",
+        "office": "Merrensteg · Prüflabor Hameln · 4. November 2026, 11.02 Uhr",
+        "body": [
+          "Im Versuch wird der Fahrbefehl nach einer kurzen Spannungsunterbrechung erneut angefordert. Das Signal für die offene Schutztür bleibt dabei bestehen. Bei zwei Rückstellmustern zeigt die Ausgabeleitung in dieser Kombination eine unzulässig fortbestehende Freigabe.",
+          "Die beiden Rückstellmuster gehören zum Los L261026. Ein Vergleichsmuster des Vorloses schaltete im Einzelversuch ab. Eine Reihe weiterer Versuche ist noch nicht dokumentiert. Die Abgrenzung zwischen Bauteil, Geräteparametrierung und Anlagenverdrahtung bleibt Teil der Untersuchung."
+        ],
+        "ground": true
+      }
+    ]
+  },
+  "compliance-hameln-schaltanlagen-parallele-angebote": {
+    "nr": "ME-40",
+    "title": "Drei Angebotspreise in der Datei des Prüfdienstes",
+    "cutoff": "9. November 2026, 11.30 Uhr",
+    "intro": "Ein deutscher Netzbetreiber will drei neue Mittelspannungsschaltanlagen beschaffen. Ein zweites Los ist bei einem niederländischen Betreiber ausgeschrieben. Merrensteg kalkuliert aus Hameln für beide Projekte und kauft dafür Prüfleistungen ein. Nach einer gemeinsamen Terminbesprechung erhält die Kalkulation eine Datei des Prüfdienstes. Sie enthält Beträge, die als Angebotspreise der Wettbewerber gelesen werden können. Das eigene Angebot für das deutsche Los ist bereits eingereicht, die Frist für Änderungen läuft heute um 15 Uhr ab.",
+    "task": "Entscheide, welche Unterlagen gesichert werden und wer Zugang erhält. Prüfe für jedes Los, ob die Unterlagen bisher nur ein gemeinsames Prüffeld, eine Weitergabe wettbewerblich sensibler Daten oder eine mögliche Angebotsabsprache belegen. Halte fest, welche Schritte vor 15 Uhr eine befugte Stelle entscheiden muss und was dabei die Kenntnis von vertraulichen Fremdpreisen für eine neue unabhängige Kalkulation bedeutet.",
+    "sources": [
+      [
+        "Art. 101 AEUV",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E101"
+      ],
+      [
+        "Horizontalleitlinien der Europäischen Kommission 2023, Abschnitt zum Informationsaustausch",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52023XC0721(01)"
+      ],
+      [
+        "§ 1 GWB",
+        "https://www.gesetze-im-internet.de/gwb/__1.html"
+      ],
+      [
+        "§ 298 StGB",
+        "https://www.gesetze-im-internet.de/stgb/__298.html"
+      ],
+      [
+        "Bundeskartellamt, Kronzeugenprogramm und anwendbare Verfahrensregeln",
+        "https://www.bundeskartellamt.de/DE/Aufgaben/Kartelle/Kronzeugenprogramm/kronzeugenprogramm_node.html"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "01_Netzauftrag_Los_DE34.pdf",
+        "title": "Auszug aus den Angebotsbedingungen für Los DE 34",
+        "office": "Weserleit Netz AG · Beschaffungsstelle · 19. Oktober 2026",
+        "body": [
+          "Drei Mittelspannungsschaltanlagen sind an zwei Standorten zu liefern und gemeinsam abzunehmen. Jeder Bieter kalkuliert seine Material- und Prüfkosten eigenständig. Die Prüfleistung kann durch eine vom Bieter ausgewählte qualifizierte Stelle erbracht werden. Gemeinsame Anfragen zu Prüfplatzkapazitäten sind möglich.",
+          "Das Portal schließt am 9. November 2026 um 15 Uhr MEZ. Bis dahin können Bieter ihr Angebot zurückziehen und neu einreichen. Die Vergabestelle erteilt Auskünfte allen Bietern über das Portal. Ein paralleles Vorhaben des niederländischen Netzbetreibers Fallmeer Netbeheer NV ist eine eigene Ausschreibung."
+        ],
+        "ground": true
+      },
+      {
+        "file": "02_Auftrag_Pruefdienst.docx",
+        "title": "Bestellung eines Prüfplatzes für zwei Lose",
+        "office": "Merrensteg · Projekteinkauf · 22. Oktober 2026",
+        "body": [
+          "Der Prüfdienst Bogenprüf GmbH soll drei Prüfungen in Kalenderwoche 9 und zwei weitere Prüfungen in Kalenderwoche 13 vormerken. Der Stückpreis für eine Standardprüfung beträgt nach dem Preisblatt 8.400 Euro. Für Prüfzeit am Wochenende nennt das Preisblatt einen eigenen Stundensatz.",
+          "Der Dienst erhält die Kennwerte der Schaltanlagen und den gewünschten Zeitraum. Das Preisblatt nennt keinen Zielpreis für ein Gesamtangebot. Der Prüfdienst arbeitet auch für Nordweide Schaltbau und Vlietstroom Systems."
+        ],
+        "ground": true
+      },
+      {
+        "file": "03_Kalkulationshistorie_DE34.xlsx",
+        "title": "Kalkulationsstände in Euro netto",
+        "columns": [
+          "Stand MEZ",
+          "Verfasser",
+          "Los",
+          "Material und Montage",
+          "Prüfung",
+          "Angebot EUR"
+        ],
+        "rows": [
+          [
+            "05.11.2026 16:21",
+            "Kalkulation Hameln",
+            "DE-34",
+            1170600,
+            25200,
+            1195800
+          ],
+          [
+            "06.11.2026 09:06",
+            "Kalkulation Hameln",
+            "DE-34",
+            1194800,
+            25200,
+            1220000
+          ],
+          [
+            "06.11.2026 14:18",
+            "Kalkulation Hameln",
+            "DE-34",
+            1214800,
+            25200,
+            1240000
+          ],
+          [
+            "06.11.2026 14:35",
+            "Merrensteg NL",
+            "NL-18",
+            748200,
+            16800,
+            765000
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "04_Bogenpruef_Anhang_Lose.csv",
+        "title": "Anhang der Mail aus der Prüfdisposition",
+        "columns": [
+          "Kennung",
+          "Los",
+          "Prüftermin",
+          "Prüfung je Stück EUR",
+          "Angebot EUR",
+          "Kurznotiz"
+        ],
+        "rows": [
+          [
+            "MST",
+            "DE-34",
+            "KW09",
+            8400,
+            1240000,
+            "Reihe 1"
+          ],
+          [
+            "NWS",
+            "DE-34",
+            "KW09",
+            8400,
+            1248000,
+            "Reihe 2"
+          ],
+          [
+            "VLS",
+            "DE-34",
+            "KW09",
+            8400,
+            1256000,
+            "Reihe 3"
+          ],
+          [
+            "VLS",
+            "NL-18",
+            "KW13",
+            8400,
+            758000,
+            "Reihe 1"
+          ],
+          [
+            "MST",
+            "NL-18",
+            "KW13",
+            8400,
+            765000,
+            "Reihe 2"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "05_Bogenpruef_Anhang.eml",
+        "title": "Reihenfolge für die beiden Lose",
+        "sender": "marco.nehring@bogenpruef.example",
+        "recipient": "kalkulation@merrensteg.example",
+        "date": "2026-11-06T08:54:00+01:00",
+        "body": [
+          "Hier ist der Stand zu den Prüfplätzen. Für DE würde ich es bei der Reihenfolge vom gestrigen Gespräch belassen. Bei Fallmeer war Vlietstroom zuerst an der Reihe. Die Prüfpauschale bleibt bei 8.400 Euro.",
+          "Bitte den Anhang nur intern verwenden. Wenn Sie eine Woche verschieben, geben Sie mir bis Montagmorgen Bescheid."
+        ],
+        "attachments": [
+          "04_Bogenpruef_Anhang_Lose.csv"
+        ],
+        "ground": true
+      },
+      {
+        "file": "06_Vergabeportal_Empfang.csv",
+        "title": "Zeitpunkte laut Portal und Kalkulationsablage",
+        "columns": [
+          "Zeit MEZ",
+          "Quelle",
+          "Los",
+          "Ereignis",
+          "Datei"
+        ],
+        "rows": [
+          [
+            "2026-11-06T14:48:20+01:00",
+            "Portal Weserleit",
+            "DE-34",
+            "Angebot eingegangen",
+            "DE34_MST_F3.pdf"
+          ],
+          [
+            "2026-11-09T09:38:49+01:00",
+            "Mailclient",
+            "DE-34",
+            "Anhang geöffnet laut lokalem Verlauf",
+            "04_Bogenpruef_Anhang_Lose.csv"
+          ],
+          [
+            "2026-11-09T10:55:30+01:00",
+            "Portal Fallmeer",
+            "NL-18",
+            "Entwurf vorhanden",
+            "NL18_MST_F2.pdf"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "07_Kalkulation_Eskalation.eml",
+        "title": "Prüfdatei enthält fremde Angebotsbeträge",
+        "sender": "oliver.holling@merrensteg.example",
+        "recipient": "nora.eibenrode@merrensteg.example",
+        "date": "2026-11-09T10:12:00+01:00",
+        "body": [
+          "Ich habe beim Eintragen des Prüfzeitraums den Anhang vom Freitag geöffnet. Er enthält in zwei Zeilen Beträge, die deutlich über den Prüfkosten liegen. Einer stimmt mit unserem eingereichten Endpreis überein.",
+          "Der Postkorb wird auch vom Vertriebsinnendienst genutzt. Die Datei ist in meinem lokalen Verlauf erst heute zu sehen. Ob jemand sie vor der Abgabe über das Telefon oder ein anderes Gerät gesehen hat, kann ich nicht sagen. Beim Gespräch am Donnerstag war ich nicht dabei."
+        ],
+        "attachments": [],
+        "ground": true
+      },
+      {
+        "file": "08_Bogenpruef_Erklaerung.eml",
+        "title": "Rückfrage zur Kapazitätsliste",
+        "sender": "marco.nehring@bogenpruef.example",
+        "recipient": "legal@merrensteg.example",
+        "date": "2026-11-10T11:06:00+01:00",
+        "body": [
+          "Die Zahlenspalte stammt aus meiner internen Auslastungsplanung. Ich habe für Ausfallrisiken Gesamtbeträge geschätzt. Mit den Bietern habe ich aus meiner Sicht nur Prüfplätze reserviert. Wie die Zeilen befüllt wurden, lasse ich vom Backoffice prüfen.",
+          "Für den Donnerstagstermin gibt es eine Teilnehmerliste. Der Termin endete um 15.50 Uhr. Ein Gesprächsprotokoll haben wir nicht erstellt."
+        ],
+        "attachments": [],
+        "ground": false
+      },
+      {
+        "file": "09_Gespraechsvermerk_Kalkulation.docx",
+        "title": "Erstes Gespräch zur Preisdatei",
+        "office": "Merrensteg · Interne Revision · 10. November 2026",
+        "body": [
+          "Der Kalkulator nennt den gemeinsamen Einkaufspreis für einen Leistungsschalter als Grund für die Anpassung vom Freitagvormittag. Er hat in der Ablage ein Angebot über 19.500 Euro je Schalter gefunden. Die Kalkulationsänderung enthält auch einen geänderten Risikozuschlag, dessen Anlass im Register fehlt.",
+          "Die Vertriebsassistenz erinnert sich an das Wort „Reihenfolge“, weiß aber nicht mehr, ob es bei der Besprechung um Prüftermine oder um die Angebotsbeträge ging. Die Beteiligten nennen für das Gespräch unterschiedliche Teilnehmer. Eine externe Mitteilung ist laut Besprechungsvermerk noch nicht erfolgt."
+        ],
+        "ground": false
+      },
+      {
+        "file": "10_Fallmeer_Portalauszug_NL18.pdf",
+        "title": "Portaalstatus schakelinstallaties NL 18",
+        "office": "Fallmeer Netbeheer NV · Inkoopportaal · 9 november 2026 om 11.05 CET",
+        "body": [
+          "Ontwerp NL18_MST_F2 is in het dossier opgeslagen. Het portaal heeft nog geen inschrijving ontvangen. Het venster voor definitieve indiening sluit dinsdag 10 november om 16.00 uur CET. Er is geen ontvangstbewijs afgegeven.",
+          "Voor elk van de twee installaties verstrekt de inschrijver het plan voor de fabrieksproef en de naam van de beoogde keuringsdienst. De opdrachtgever schrijft geen bepaalde keuringsdienst voor. Vragen over vrije proefcapaciteit kunnen in de gezamenlijke vragenronde worden gesteld.",
+          "Interne Arbeitssprache Hameln: Die Eingabemaske zeigt einen gespeicherten Entwurf. Eine rechtsverbindliche Übermittlung müsste am gesonderten Empfangsbeleg nachgewiesen werden. Der Portalzeitpunkt gehört nur zum niederländischen Vorgang."
+        ],
+        "ground": true
+      }
+    ],
+    "template": {
+      "title": "Erstentscheidung bei fremden Angebotsdaten",
+      "office": "Merrensteg Elektrosysteme SE · Konzernrecht und Compliance · ME-40",
+      "body": [
+        [
+          "Entscheidungsauftrag",
+          "Die Stelle [Funktion] entscheidet bis [Uhrzeit je Los] über [konkreter Schritt] anhand von [Ausschreibungsregel und Portalnachweis]."
+        ],
+        [
+          "Belegter Ablauf",
+          "Die jeweilige Fassung [Datei und Version] war am [Zeitpunkt] gespeichert, geöffnet oder übermittelt. Dies ist durch [Originalbeleg] belegt. Ungeklärt bleibt [Lücke in der Zeitfolge oder Beteiligung]."
+        ],
+        [
+          "Sicherung und Zugriff",
+          "[Funktion] sichert [konkreter Datensatz] bis [Zeitpunkt] in [Ablage] und dokumentiert die Übergabe. Zugang erhält [Personenkreis] wegen [Aufgabe]."
+        ],
+        [
+          "Nächster Schritt je Los",
+          "Für das Los [Kennung] wird [Handlung] vorbereitet. Vor ihrer Freigabe müssen [Voraussetzungen] vorliegen. [Funktion] prüft daneben anhand [Quellen und Tatsachen] den weiteren Kontaktweg."
+        ]
+      ]
+    }
+  },
+  "compliance-hameln-foerderabruf-pruefstand-eu": {
+    "nr": "ME-41",
+    "title": "Dieselben Prüfkosten in zwei Förderabrufen",
+    "cutoff": "10. November 2026, 10.30 Uhr",
+    "intro": "Eine deutsche und eine tschechische Merrensteg-Gesellschaft entwickeln im geförderten Verbundprojekt einen Prüfstand für energiesparende Antriebe. Der Prüfdienst hat einen Auftrag über 120.000 Euro in zwei Raten abgerechnet. Die erste Rate wurde in Deutschland in einem Förderabruf berücksichtigt. Im tschechischen Entwurf taucht kurz vor der Einreichung eine zweite Buchungszeile zur gleichen Leistungsperiode auf. Sie trägt eine neue Dokumentennummer. Das Förderportal fragt heute nach dem Nachweis, ob derselbe Aufwand schon an anderer Stelle geltend gemacht wurde.",
+    "task": "Gleiche Rechnung, Bankzahlung, Kostenstelle, Leistungsperiode und die zwei Förderabrufe ab. Beziffere getrennt, welche Kosten belegt, erklärt, anerkannt und ausgezahlt sind und welcher EU-Anteil nur gefährdet sein könnte. Halte die Tatsachen für die Entscheidung über Berichtigung, Sicherung der Originale und externe Meldung fest.",
+    "sources": [
+      [
+        "Verordnung (EU) 2021/1060, insbesondere Art. 63 Abs. 9 zur Erklärung von Ausgaben",
+        "https://eur-lex.europa.eu/eli/reg/2021/1060/oj?locale=de"
+      ],
+      [
+        "Richtlinie (EU) 2017/1371, Art. 3 und 4",
+        "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:32017L1371"
+      ],
+      [
+        "Verordnung (EU) 2017/1939, Art. 22–25",
+        "https://eur-lex.europa.eu/eli/reg/2017/1939/oj?locale=de"
+      ],
+      [
+        "§ 264 StGB",
+        "https://www.gesetze-im-internet.de/stgb/__264.html"
+      ],
+      [
+        "§ 3 SubvG",
+        "https://www.gesetze-im-internet.de/subvg/__3.html"
+      ]
+    ],
+    "documents": [
+      {
+        "file": "01_Foerderbescheid_Auszug.pdf",
+        "title": "Kosten und Abrufe im Projekt REG 613",
+        "office": "Bewilligungsstelle Weser · EFRE-Verbundprojekt · 1. April 2026",
+        "body": [
+          "Projektpartner sind Merrensteg Elektrosysteme SE, Hameln, und Merrensteg Systems s.r.o., Brno. Der Bescheid setzt für den deutschen Teil eine Förderquote von 50 Prozent der anerkannten Ausgaben fest. Der EU-Anteil beträgt 60 Prozent der Förderauszahlung. Der tschechische Projektteil hat einen gesonderten Bescheid.",
+          "Projektpartner erklären je Abruf, welche Kosten sie tragen und ob dieselben Ausgabenpositionen bereits für einen anderen Fonds, ein anderes Unionsinstrument oder ein anderes Programm desselben Fonds geltend gemacht wurden. Ein vereinbarter Kostenanteil ist betragsmäßig auszuweisen. Falsche oder doppelte Einträge sind über die zuständige Stelle zu korrigieren."
+        ],
+        "ground": true
+      },
+      {
+        "file": "02_Leistungsblatt_Pruefstand.docx",
+        "title": "Leistungsstand zum Auftrag VS 771",
+        "office": "Merrensteg · Verbundprojekt Prüfstand · 31. August 2026",
+        "body": [
+          "Die Voltried Prüftechnik GmbH schuldet Kalibrierung und Prüfabläufe für zwei Laborstationen. Die erste Rate von 80.000 Euro wird nach Annahme der Kalibrierung in Hameln fällig. Eine zweite Rate von 40.000 Euro ist erst nach dokumentiertem Vergleichslauf in Brno fällig.",
+          "Die Projektvereinbarung ordnet vorläufig 25 Prozent der ersten Rate dem tschechischen Projektpartner zu. Die endgültige Belastung wird anhand der Nutzungsanteile abgerechnet. In der Projektablage steht die interne Freigabe der Verrechnung noch auf offen. Der Beginn der Arbeiten in Brno wurde separat bestätigt."
+        ],
+        "ground": true
+      },
+      {
+        "file": "03_Bankjournal_Foerderprojekt.csv",
+        "title": "Bankjournal der deutschen Gesellschaft",
+        "columns": [
+          "Wertstellung",
+          "Beleg",
+          "Zahlungsempfänger",
+          "Netto EUR",
+          "Buchungstext"
+        ],
+        "rows": [
+          [
+            "2026-09-10",
+            "VP-611",
+            "Voltried Prüftechnik GmbH",
+            80000,
+            "Rate 1 VS-771"
+          ],
+          [
+            "2026-10-28",
+            "VP-722",
+            "Voltried Prüftechnik GmbH",
+            40000,
+            "Rate 2 VS-771"
+          ],
+          [
+            "2026-10-30",
+            "REG613-02",
+            "Merrensteg Elektrosysteme SE",
+            40000,
+            "Förderauszahlung Abruf DE-02"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "04_Foerderportal_Abrufe.xlsx",
+        "title": "Abrufe und Positionen",
+        "columns": [
+          "Abruf",
+          "Partner",
+          "Referenz",
+          "Basis EUR",
+          "Quote Förderung",
+          "Davon EU",
+          "Status"
+        ],
+        "rows": [
+          [
+            "DE-02",
+            "Hameln",
+            "VP-611",
+            80000,
+            0.5,
+            0.6,
+            "anerkannt und ausgezahlt"
+          ],
+          [
+            "CZ-03",
+            "Brno",
+            "CZ-404 / VP-611-A",
+            20000,
+            0.5,
+            0.65,
+            "Entwurf, nicht eingereicht"
+          ],
+          [
+            "CZ-03",
+            "Brno",
+            "VP-722",
+            40000,
+            0.5,
+            0.65,
+            "Entwurf, nicht eingereicht"
+          ]
+        ],
+        "ground": true
+      },
+      {
+        "file": "05_Rechnung_VP611.pdf",
+        "title": "Rechnung VP 611 über die erste Rate",
+        "office": "Voltried Prüftechnik GmbH · 3. September 2026",
+        "body": [
+          "Rechnungsempfänger ist Merrensteg Elektrosysteme SE, Projekt REG 613, Hameln. Abgerechnet werden 80.000 Euro netto für Kalibrierung und Funktionsprüfung im Leistungszeitraum 3. bis 31. August 2026 nach Auftrag VS-771. Leistungsnachweis Q-771 ist genannt.",
+          "Als Zahlstelle ist die Kreditorenbuchhaltung Hameln angegeben. Rechnungsnummer und Leistungszeitraum stehen auf beiden Originalseiten in der Projektablage."
+        ],
+        "ground": true
+      },
+      {
+        "file": "06_Brno_Kostenstelle.eml",
+        "title": "Zwanzigtausend für CZ-03 zuordnen",
+        "sender": "petra.urbanova@merrensteg.example",
+        "recipient": "projektcontrolling@merrensteg.example",
+        "date": "2026-11-09T14:34:00+01:00",
+        "body": [
+          "Unsere Projektdatei führt CZ-404 für den Anteil an der Kalibrierung. Im Anhang des deutschen Abrufs steht auch VP-611. Laut Kostenblatt tragen wir ein Viertel. Ich habe darum 20.000 Euro in CZ-03 eingestellt.",
+          "Eine Gegenbuchung aus Hameln ist hier bisher nicht sichtbar. Die 40.000 Euro der Vergleichsprüfung gehören zur späteren Rechnung VP-722. Bitte sagt uns bis heute Mittag, welchen Beleg das Portal für die Kostenübernahme akzeptiert."
+        ],
+        "attachments": [],
+        "ground": true
+      },
+      {
+        "file": "07_Portalrueckfrage.eml",
+        "title": "REG 613 und CZ 03 · Nachfrage zur Ausgabenposition",
+        "sender": "pruefung@weser-foerderstelle.example",
+        "recipient": "projektcontrolling@merrensteg.example",
+        "date": "2026-11-10T09:20:00+01:00",
+        "body": [
+          "Beim Datenabgleich haben die Stellen zu REG 613 und zum tschechischen Projektteil übereinstimmende Leistungszeiträume gefunden. Bitte reichen Sie den Originalbeleg und die Abrechnung der Kostenverteilung nach.",
+          "Bitte geben Sie bis 12. November, 12 Uhr MEZ, an, ob VP-611 bei der deutschen Erklärung über 80.000 Euro vollständig berücksichtigt wurde und ob eine weitere Erklärung derselben Ausgabenposition bereits abgegeben wurde."
+        ],
+        "attachments": [],
+        "ground": true
+      },
+      {
+        "file": "08_Rechnungseingang_Brno.eml",
+        "title": "CZ-404 ist eine interne Nummer",
+        "sender": "kreditoren.brno@merrensteg.example",
+        "recipient": "projektcontrolling@merrensteg.example",
+        "date": "2026-11-10T14:18:00+01:00",
+        "body": [
+          "Unser Buchungsbeleg CZ-404 zeigt als Gegenkonto die deutsche Gesellschaft. Als Anhang liegt im System eine Kopie der Rechnung VP-611, keine zusätzliche Rechnung der Voltried GmbH. Die interne Umbuchung wurde am 4. November angelegt und am 6. November vorläufig gestoppt.",
+          "Das Portalprotokoll zeigt einen Speichervorgang am 9. November um 15.05 Uhr. Das Feld zur finalen Übermittlung ist leer. Für unsere bisherige Gesamtabrechnung war dieses Feld ausgeblendet."
+        ],
+        "attachments": [],
+        "ground": false
+      },
+      {
+        "file": "09_Stand_Projektkontrolle.docx",
+        "title": "Abgleich der Zahlungs und Portalstände",
+        "office": "Merrensteg · Projektkontrolle · 11. November 2026",
+        "body": [
+          "Die deutsche Bankzeile zeigt die Förderung zum Abruf DE-02 als Einmalzahlung. Der Abruf nennt die Rechnung VP-611 mit dem vollen Nettobetrag. Die Akte enthält weder eine Erstattung an die deutsche Bewilligungsstelle noch eine Auszahlung zu CZ-03.",
+          "Die Projektleiterin erinnert sich, dass die geplante Verteilung vor der Einreichung in Hameln diskutiert wurde. Das Protokoll enthält dazu keine Abstimmung. Zwei Fassungen des Kostenblatts nennen unterschiedliche Zeitpunkte, ab denen die Verteilung gelten sollte."
+        ],
+        "ground": false
+      },
+      {
+        "file": "10_Kostenverteilung_Standspeicher.csv",
+        "title": "Änderungsjournal zur Kostenverteilung",
+        "columns": [
+          "Erfasst MEZ",
+          "Objekt",
+          "Vorgang",
+          "Satz",
+          "Wirksam ab",
+          "Stand"
+        ],
+        "rows": [
+          [
+            "2026-08-28 10:13",
+            "VP-611",
+            "Anteil Brno vorgeschlagen",
+            "25 %",
+            "ab Abnahme",
+            "Entwurf der Projektleitung"
+          ],
+          [
+            "2026-09-01 15:42",
+            "VP-611",
+            "Anteil Brno in Arbeitsstand übernommen",
+            "25 %",
+            "ab Projektbeginn",
+            "noch ohne zweite Freigabe"
+          ],
+          [
+            "2026-11-04 11:08",
+            "CZ-404",
+            "Interner Buchungsbeleg angelegt",
+            "25 %",
+            "04.11.2026",
+            "in Vorbereitung"
+          ],
+          [
+            "2026-11-06 16:31",
+            "CZ-404",
+            "Interner Buchungsbeleg gesperrt",
+            "25 %",
+            "offen",
+            "Warte auf Abstimmung REG 613"
+          ]
+        ],
+        "ground": false
+      }
+    ],
+    "template": {
+      "title": "Abgleich vor der Korrektur eines Förderabrufs",
+      "office": "Merrensteg Elektrosysteme SE · Projektkontrolle · ME-41",
+      "body": [
+        [
+          "Sachstand je Abruf",
+          "Die Gesellschaft [Firma] hat unter [Abrufnummer] Ausgaben von [Betrag] erklärt. Der Stand [Entwurf, übermittelt, anerkannt oder ausgezahlt] folgt aus [Originalbeleg]."
+        ],
+        [
+          "Kostenidentität und Aufteilung",
+          "Die Ausgabenposition [Rechnung und Leistungsperiode] ist in [Vorgang] enthalten. Der Anteil [Betrag] ist nach [Vereinbarung und Nachweis] zugeordnet. Abweichungen bleiben bei [Buchung oder Nachweis] offen."
+        ],
+        [
+          "Auszahlung und EU Anteil",
+          "Tatsächlich ausgezahlt wurden [Betrag] nach [Beleg]. Der rechnerische EU-Anteil beträgt [Betrag] auf der Grundlage von [Förderquote und EU-Finanzierungssatz]. Die Wirkung des weiteren Abrufs ist [gesonderter Stand]."
+        ],
+        [
+          "Frist und Zuständigkeit",
+          "[Funktion] sichert bis [Zeitpunkt] [Unterlagen]. [Funktion] prüft die Berichtigung und etwaige Meldewege. Die fristgerechte Rückmeldung an [Stelle] wird durch [verantwortliche Stelle] freigegeben."
+        ]
+      ]
+    }
+  }
+}

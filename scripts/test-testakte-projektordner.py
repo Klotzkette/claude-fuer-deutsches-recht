@@ -69,7 +69,8 @@ class ProjectDirectories(unittest.TestCase):
                 path.write_text(text, encoding='utf-8')
             dist = root/'dist'
             dist.mkdir()
-            original, count = W.build_single(case, dist)
+            with patch('testakte_zip_common.selection', return_value={'central': {}}):
+                original, count = W.build_single(case, dist)
             self.assertEqual(count, 3)
             with zipfile.ZipFile(original) as archive:
                 self.assertEqual(archive.namelist()[0], 'README.txt')

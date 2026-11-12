@@ -13,7 +13,7 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 
 from testakte_file_filter import include_in_working_dump
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parent.parent
 SLUGS = (
@@ -36,9 +36,12 @@ class ContractFiles(unittest.TestCase):
                 for path in sources:
                     self.assertIn(f']({path.name})', readme)
                 self.assertFalse(include_in_working_dump(case / 'rubric.yaml', case))
-                exported = [name for _, name in working_dump_archive_pairs(case, include_gesamt_pdf=True)]
-                self.assertEqual(len(exported), 13)
-                self.assertTrue(all('/' not in n and not n.endswith(('.md', '.yaml')) for n in exported))
+                combined = source_zip_includes_gesamt_pdf(case)
+                exported = working_dump_archive_pairs(case, include_gesamt_pdf=combined)
+                self.assertEqual(len(exported), len(sources) + int(combined))
+                self.assertEqual({source for source, _ in exported if source.parent == case}, set(sources))
+                self.assertTrue(all(safe_archive_name(name, allow_directories=original_zip_preserves_directories(case))
+                                    for _, name in exported))
 
     def test_emails_and_embedded_attachments(self):
         ids = set()

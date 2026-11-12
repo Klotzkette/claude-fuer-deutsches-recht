@@ -1,0 +1,991 @@
+{
+  "id": "BE-03",
+  "slug": "bauunternehmer-einkauf-altstadt-bordsteine",
+  "title": "Bordsteine für den Rosenbogen in Goslar",
+  "company": "Krimpfort SE & Co. KG",
+  "project": "Altstadtkern Rosenbogen · Goslar",
+  "as_of": "2026-11-10",
+  "project_id": "3c648c4b159159cb819ee82bfd8c8906",
+  "boq_id": "a2be7a30017956a198fba5b34e49b54f",
+  "lv_number": "KPF-GS-BORD-R02",
+  "tender_date": "2026-10-20",
+  "bid_deadline": "2026-11-04T12:00:00+01:00",
+  "request_date": "2026-10-20T09:00:00+02:00",
+  "buyer_name": "Maren Franke",
+  "buyer_email": "maren.franke@krimpfort.example",
+  "lv_notes": [
+    "Die Anfrage betrifft die Beschaffung für das Bauvorhaben Rosenbogen durch Krimpfort. Vier getrennt verpackte Lieferabrufe sind vorgesehen. Einbau, Bettung und Freigabe der Höhen im Straßenraum liegen bei Krimpfort.",
+    "Die historische Wirkung ergibt sich aus Farbmischung, Bearbeitung der Sichtflächen und dem profilierten Kopf. Maßgeblich sind der schriftlich beschriebene Musterkorridor RB-04 sowie die Positionsanforderungen. Das sichtbare Profil wird am trockenen und nassen Muster beurteilt. Eine Serienfreigabe liegt noch nicht vor.",
+    "Nettopreise bis zum Entladeplatz Bauhof Süd angeben. Der letzte Transport auf der Altstadtstrecke erfolgt durch Krimpfort. Grundangebot auf allen Positionen bepreisen. Fremde Altware kann mit Herkunft, nachgewiesener Nettoausbeute und Mengenlimit separat angeboten werden. Die städtischen 180 m bleiben bauseits bereitgestellt.",
+    "Angebotsschluss ist der 04.11.2026 um 12 Uhr. Verwenden Sie für das Schriftangebot und die X84 den LV-Stand KPF-GS-BORD-R02. Nennen Sie Zusatzpreise, Vorbehalte, Reservierungsbedingungen und Geltungsdauer im Schriftangebot."
+  ],
+  "request_subject": "Anfrage KPF-GS-BORD-R02 | Naturstein Rosenbogen",
+  "request_paragraphs": [
+    "bitte senden Sie Preisblatt und GAEB-X84 bis Mittwoch, 4. November, 12 Uhr. Die Abschnitte und Abrufe sind im Leistungsverzeichnis beschrieben.",
+    "Bitte geben Sie bei Serienmaterial Werk, Steinbezeichnung, Prüfstand und verfügbare Abrufmengen an. Eine Alternative mit gebrauchtem Material kann außerhalb des Grundangebots als eigener Preisstand eingereicht werden. Für die drei Formprofile benötigen wir Querschnitt und Zuschnittschema.",
+    "Zur gemeinsamen Bemusterung reservieren wir den 23. November. Bitte bestätigen Sie, ob bis dahin ein Nass- und Trockenmuster aus der vorgesehenen Herkunft vorliegt."
+  ],
+  "groups": {
+    "01": "Städtischen Bestand aufbereiten",
+    "02": "Werkstein und Formsteine liefern",
+    "03": "Bemusterung und Seriennachweise",
+    "04": "Abschnittsweise anliefern"
+  },
+  "positions": [
+    {
+      "oz": "01.0010",
+      "short": "Altbestand sortieren und aufarbeiten",
+      "quantity": 180,
+      "unit": "m",
+      "text": "Die Stadt stellt am Bauhof 180 m freigegebene Altsteine bereit. Reinigen, nach Abschnitt und Profil sortieren, nur nach Freigabe am Fuß nacharbeiten und mit der bisherigen Sichtseite kennzeichnen. Bruch und Ausfall je Kennung dokumentieren. Abruf A umfasst 84 m, Abruf B 58 m, Abruf C 38 m."
+    },
+    {
+      "oz": "02.0010",
+      "short": "Gerade Bordsteine aus Granit",
+      "quantity": 1040,
+      "unit": "m",
+      "text": "Granit grau bis graubeige gemäß RB-04. Nennprofil 180 mm breit und 270 mm hoch. Kopf mit weichem Kantenradius 12 ± 3 mm. Oberseite matt fein gestockt, Sichtvorderseite mit kurzen Handwerkzeugspuren nach Muster. Stoßflächen rechtwinklig gesägt. Sichtbreite 180 ± 5 mm. Die Mindestlänge je Stück beträgt 0,80 m, ausgenommen ausdrücklich bestellte Passstücke."
+    },
+    {
+      "oz": "02.0020",
+      "short": "Gebogene Bordsteine aus Granit",
+      "quantity": 96,
+      "unit": "m",
+      "text": "Gleiches Sichtprofil und gleiche Oberflächen wie OZ 02.0010. Bogenlänge in der Bordachse messen. Die Radien R 2,50 m, R 4,00 m und R 7,50 m sind nach Aufmaßschablone zu fertigen. Fugen und Stücklängen sind in einer Abwicklung auszuweisen. Die gekrümmte Sichtlinie muss ohne facettenartigen Knick verlaufen."
+    },
+    {
+      "oz": "02.0030",
+      "short": "Übergangs und Absenksteine",
+      "quantity": 48,
+      "unit": "m",
+      "text": "Sechs Querungen zu je 8 m Materiallänge einschließlich Übergangsstücken. Profile H0 für die niveaugleiche Rollspur und H6 für den Abschnitt mit 60 mm Tastkante nach Projektplan Q-R2. Kanten in der Rollspur bleiben für die Projektfreigabe prüfbar. Linke und rechte Übergänge dauerhaft an der Unterseite kennzeichnen. Tastfelder gehören zum Straßenbau, die Lieferposition umfasst die passenden Steinprofile."
+    },
+    {
+      "oz": "03.0010",
+      "short": "Musterstrecke mit Materialtafel",
+      "quantity": 1,
+      "unit": "psch",
+      "text": "Eine Musterstrecke von 6 m mit geradem Stein, Kurve und einem Übergang vorbereiten. Materialproben trocken und nass vorlegen, eindeutige Steinbruch- und Fertigungsloszuordnung beifügen. Die projektspezifische Oberflächenfreigabe erteilen die Stadt und die Denkmalfachplanung gemeinsam. Das Muster darf als Depotprobe bis zur letzten Lieferung einbehalten werden."
+    },
+    {
+      "oz": "03.0020",
+      "short": "Prüf und Chargendokumentation",
+      "quantity": 4,
+      "unit": "St",
+      "text": "Für jeden Abruf steinbezogene Leistungsangaben und Prüfunterlagen zur Eignung als Bordstein nach DIN EN 1343 vorlegen, soweit für das jeweilige Produkt einschlägig. Zusätzlich Chargenbezug, Herkunft, Profilmaße und Stückliste am Lieferschein hinterlegen. Vergleichsmessungen für Bestand und Neustein müssen Material und Prüfkörper erkennen lassen."
+    },
+    {
+      "oz": "04.0010",
+      "short": "Lieferung und Entladung",
+      "quantity": 4,
+      "unit": "St",
+      "text": "Anlieferung frei Bauhof Süd einschließlich Entladen und Palettierung in Baufolge. Abruf A am 19.04.2027 mit 528 m Neustein, B am 17.05.2027 mit 460 m Neustein und C am 14.06.2027 mit 172 m Neustein. Abruf D am 21.06.2027 mit den verbleibenden 24 m Neustein für den Endanschluss in Abschnitt C. Der Bauhof nimmt zwei Lkw je Vormittag an. Für A und B ist ein drittes Entladefenster am jeweiligen Nachmittag vorgesehen. Geben Sie die benötigte Fahrzeugzahl und Nutzlast an."
+    }
+  ],
+  "offers": [
+    {
+      "id": "A",
+      "name": "Grauwinkler Granitwerk GmbH",
+      "person": "Inga Knust",
+      "email": "i.knust@grauwinkler.example",
+      "number": "GG-261104",
+      "date": "2026-11-03T08:46:00+01:00",
+      "validity": "2026-11-25",
+      "prices": {
+        "01.0010": 77,
+        "02.0010": 217,
+        "02.0020": 408,
+        "02.0030": 455,
+        "03.0010": 5200,
+        "03.0020": 1190,
+        "04.0010": 2700
+      },
+      "notes": {
+        "02.0010": "Oberseite fein geflammt im Einheitspreis. Fein gestockt nach RB-04 gegen Zusatzpreis.",
+        "02.0020": "Standardradien 4,00 und 7,50 m. R 2,50 m ist als Zusatzleistung kalkuliert."
+      },
+      "conditions": [
+        {
+          "heading": "Bearbeitung und Termine",
+          "paragraphs": [
+            "Das angebotene Material G-19 stammt aus dem Werk Grauwinkel. Wir können im April mit 528 m beginnen. Für fein gestockte Oberseiten aller 1.184 m Neusteine berechnen wir zusätzlich 14 EUR je Meter. Die Anpassung von 24 m Bogenstücken auf R 2,50 m kostet zusätzlich 95 EUR je Meter. Beide Beträge stehen außerhalb der ausgewiesenen Nettosumme.",
+            "Wir könnten am 23.11. zunächst G-19 geflammt und ein 1-m-Stück fein gestockt vorlegen. Das vollständige Muster RB-04 ist am 30.11. verfügbar. Bei Beauftragung bis 25.11. bleibt der erste Liefertermin reserviert."
+          ]
+        },
+        {
+          "heading": "Zahlung und Nachweise",
+          "paragraphs": [
+            "20 % Anzahlung bei Serienfreigabe gegen Bankbürgschaft. Schlusszahlung 30 Tage nach prüffähiger Rechnung. Das bisherige Prüfblatt nennt die Oberfläche geflammt. Einen chargenbezogenen Nachweis für fein gestockt bieten wir vor dem ersten Abruf an."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Tag Frau Franke,",
+        "anbei das Preisblatt und die X84 für GG-261104.",
+        "Das Werk hat am 23.11. nur den Einzelstein fein gestockt bereit. Der Werkmeister bestätigt mir bis Ende der Woche, ob wir die vollständige Strecke vorziehen können.",
+        "Freundliche Grüße\nInga Knust"
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Börde Natursteinmanufaktur KG",
+      "person": "Yannik Drees",
+      "email": "y.drees@boerde-naturstein.example",
+      "number": "BN-4106",
+      "date": "2026-11-03T15:12:00+01:00",
+      "validity": "2026-12-04",
+      "prices": {
+        "01.0010": 92,
+        "02.0010": 239,
+        "02.0020": 486,
+        "02.0030": 521,
+        "03.0010": 7400,
+        "03.0020": 1570,
+        "04.0010": 3100
+      },
+      "notes": {
+        "02.0010": "Fertigungslose P-27 A bis C. Die angegebenen Werksteinpreise umfassen die beiden Sichtbearbeitungen.",
+        "02.0020": "R 2,50, R 4,00 und R 7,50 m nach aufgemessener Schablone enthalten."
+      },
+      "conditions": [
+        {
+          "heading": "Kapazität und Qualität",
+          "paragraphs": [
+            "Die Musterstrecke am 23.11. kann aus P-27 A hergestellt werden. Der erste Lieferabruf ist reserviert, sofern die Serienfreigabe am 04.12. vorliegt. Die aktuelle Prüfserie umfasst P-27 A. Für die Lose B und C werden Herkunft und Chargenprüfblätter vor dem jeweiligen Abruf nachgereicht.",
+            "Wir planen je Abschnitt eine durchgehende Charge. Die Anschlüsse zwischen den Abschnitten können sichtbar unterschiedlich ausfallen. Wir schlagen vor, die Übergänge an den Querungen anzuordnen und je Charge eine weitere Depotprobe vorzuhalten."
+          ]
+        },
+        {
+          "heading": "Kaufmännische Bedingungen",
+          "paragraphs": [
+            "Die Preise gelten bis zur Lieferung im Juni 2027. 10 % Anzahlung nach Serienfreigabe, alternativ 30 Tage ab Lieferung mit einem Aufschlag von 1,2 % auf die Werksteinpositionen 02.0010 bis 02.0030. Einlagern bis zu zwei Wochen je Abruf ist im Preis enthalten."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Tag Frau Franke,",
+        "anbei das Preisblatt und die X84 für BN-4106.",
+        "Wir haben die drei Radien im Angebot berücksichtigt. Wegen der Reihenfolge P-27 A bis C würden wir gern vor der Serienfreigabe die Übergänge im Bauablauf kurz durchsprechen.",
+        "Freundliche Grüße\nYannik Drees"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Altwerk Steinrückbau und Handel GmbH",
+      "person": "Juna Fahl",
+      "email": "j.fahl@altwerk-stein.example",
+      "number": "AS-730",
+      "date": "2026-11-04T09:03:00+01:00",
+      "validity": "2026-11-18",
+      "prices": {
+        "01.0010": 82,
+        "02.0010": 233,
+        "02.0020": 465,
+        "02.0030": 515,
+        "03.0010": 6600,
+        "03.0020": 1350,
+        "04.0010": 2880
+      },
+      "notes": {
+        "01.0010": "Die Aufbereitung betrifft ausschließlich den städtischen Altbestand.",
+        "02.0010": "Grundangebot in Neugranit A-11. Separates Tauschangebot für gebrauchten Stein im Schriftangebot."
+      },
+      "conditions": [
+        {
+          "heading": "Alternative mit Fremdaltstein",
+          "paragraphs": [
+            "Für die OZ 02.0010 bieten wir bis zu 240 m Fremdaltstein zu 167 EUR/m an. Das Lagerlos H18 misst 320 m vor Sortierung. Für 260 m liegt ein Rückbauverzeichnis mit Herkunft vor. Für 60 m aus einem älteren Lagergang ist nur der Händler dokumentiert. Aus dem verzeichneten Teil waren 39 von 52 m der Stichprobe maß- und frostschadensfrei. Wir können die Menge erst nach Vollsortierung bestätigen.",
+            "Der Preis der Alternative gilt bei Übernahme von mindestens 180 m verwendbarer Ware und einem Eigentumsnachweis vor Abruf. Für bis zu 240 m dieses Abrufs beträgt die Zusatzfracht 1.950 EUR netto. Nicht benötigte Ware bleibt im Lager, wenn Sie bis 18.11. entscheiden. Bei Abweichung vom Muster A-11 können Sie bis zur Serienfreigabe auf das Grundangebot zurückgehen."
+          ]
+        },
+        {
+          "heading": "Leistung im Grundangebot",
+          "paragraphs": [
+            "Muster am 23.11. möglich. Unsere Lieferfenster im April und Mai sind für das Grundangebot vorgemerkt. Die Längenangaben der Fremdaltware beziehen sich auf die vorhandene Länge vor Zuschnitt und Prüfung. Die zugesicherte Nettomenge wird erst nach der Eingangssortierung beziffert."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Tag Frau Franke,",
+        "anbei das Preisblatt und die X84 für AS-730.",
+        "Das separate Lagerangebot ist im Schreiben erläutert. Ich kann das Rückbauverzeichnis vor dem Termin mitbringen. Die Stücke mit offenem Herkunftsnachweis stehen im Lager noch auf derselben Bank.",
+        "Freundliche Grüße\nJuna Fahl"
+      ]
+    },
+    {
+      "id": "D",
+      "name": "Steinwerk IJsselrand BV",
+      "person": "Noor van Hees",
+      "email": "n.vanhees@ijsselrand.example",
+      "number": "IJ-26-558",
+      "date": "2026-11-04T10:14:00+01:00",
+      "validity": "2026-12-11",
+      "prices": {
+        "01.0010": 86,
+        "02.0010": 205,
+        "02.0020": 449,
+        "02.0030": 532,
+        "03.0010": 5800,
+        "03.0020": 1470,
+        "04.0010": 3250
+      },
+      "notes": {
+        "02.0010": "Grau-gelber Granit IJ-G04. Bearbeitung gemäß Schriftangebot und Musterauftrag.",
+        "04.0010": "Eine Anfahrt je Abruf ist eingepreist. Entladen durch Empfänger."
+      },
+      "conditions": [
+        {
+          "heading": "Preis und Logistik",
+          "paragraphs": [
+            "Der Nettopreis gilt für höchstens vier einfache Anfahrten. Für Entladung am Bauhof berechnen wir 590 EUR je Anfahrt. Jede zusätzliche Fahrzeugstellung im selben Abruf kostet 780 EUR einschließlich Entladung. Der Palettenplan sieht bisher für A und B jeweils zwei Fahrzeuge vor. Er enthält noch keine Nutzlastberechnung.",
+            "Unser Hersteller meldet auf Abruf A maximal 400 m am 19.04. und weitere 128 m am 03.05. Die kleineren Mengen sind planmäßig möglich. Der Zeitraum für das Material des ersten Abschnitts bleibt bis zur Produktionsfreigabe disponibel."
+          ]
+        },
+        {
+          "heading": "Oberfläche und Prüfunterlagen",
+          "paragraphs": [
+            "Wir können am 23.11. zwei Stücke IJ-G04 im gewünschten Farbband liefern. Das erste Prüfblatt bezieht sich auf eine fein geschliffene Oberfläche. Die vorgelegte Serienprobe erhält eine matt gestockte Auftrittsfläche. Der Prüfstand für die konkrete Oberflächencharge folgt frühestens am 15.12. Die sichtbaren Kopfkanten werden in der Serie gebürstet."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Tag Frau Franke,",
+        "anbei das Preisblatt und die X84 für IJ-26-558.",
+        "Wir haben für April 400 m bestätigt bekommen. Ich kläre noch, ob das Werk das Restlos vom 03.05. früher verpacken kann. Die niederländische Prüfunterlage ist abrufbar, sobald das Oberflächenlos feststeht.",
+        "Freundliche Grüße\nNoor van Hees"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Grundakte/01_Bedarf/01_Hauptvertrag_Auszug.pdf",
+      "title": "Vertragsauszug zur Sanierung Rosenbogen",
+      "issuer": "Stadt Goslar · Projektbüro Rosenbogen",
+      "date": "2026-08-31",
+      "sections": [
+        {
+          "heading": "Straßenraum und Material",
+          "paragraphs": [
+            "Krimpfort erneuert im Abschnitt A zwischen Einfahrt und Platzkante, im Abschnitt B am Hang und im Abschnitt C im Rosenbogen Beläge, Entwässerung und Bordlinien. Die Stadt stellt geeignete eigene Altsteine aus dem Bauhof bereit. Krimpfort beschafft Ergänzungssteine und baut beide Materialgruppen ein.",
+            "Die sichtbaren Oberflächen werden vor der Bestellung an einer Musterstrecke beurteilt. Projektbüro und Denkmalfachplanung erteilen die Freigabe gemeinsam. Das Aufmaß der endgültigen Bordlinien gilt für die Lieferanfrage. Die Stadt übernimmt die Straßenabschnitte nach eigener Abnahme."
+          ]
+        },
+        {
+          "heading": "Bauablauf",
+          "paragraphs": [
+            "Der Wochenmarkt bleibt mittwochs und samstags geöffnet. Der erste Abschnitt muss bis zur Marktwoche ab 7. Juni begehbar sein. Für die noch offenen Höhen an den Querungen sind die Querungspläne vom 30. September vorzulegen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/02_Bestandsbefund.docx",
+      "title": "Bestandsbefund zur historischen Bordlinie",
+      "issuer": "Steinbild Denkmalfachplanung",
+      "date": "2026-09-09",
+      "sections": [
+        {
+          "heading": "Befund am Rosenbogen",
+          "paragraphs": [
+            "Am Zugang zur Westseite liegt grauer bis graubeiger Granit in Längen zwischen 82 und 151 cm. Die Kopfkante ist flach gerundet. Unter dem Streiflicht sind kurze, unregelmäßig gesetzte Werkzeugspuren sichtbar. Die Gehfläche ist matt. Im nassen Zustand hebt sich bei vier Steinen ein rostbrauner Rand ab. Diese Stücke verbleiben als Vergleich im städtischen Lager.",
+            "Die Bezeichnung Biedermeier stand bereits auf einer älteren Inventarkarte. Sie dient als gestalterische Bezeichnung für die flache Rundung und die ruhige, matt bearbeitete Oberfläche. Die Datierung der vorhandenen Stücke ist offen."
+          ]
+        },
+        {
+          "heading": "Sichtproben",
+          "table": {
+            "headers": [
+              "Probe",
+              "Befund",
+              "Verbleib"
+            ],
+            "rows": [
+              [
+                "RB-B1",
+                "Mattgrau und enges Korn",
+                "Bauhof Fach 2"
+              ],
+              [
+                "RB-B2",
+                "Graubeige und kurze Schlageisen-Spuren",
+                "Bauhof Fach 2"
+              ],
+              [
+                "RB-B3",
+                "Oberkante mit ausgebrochenem Kopf",
+                "Sperrlager"
+              ],
+              [
+                "RB-B4",
+                "Rostbraune Kante nach Benetzung",
+                "Bauhof Fach 3"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/03_Aufmass_und_Baustellenfunde.eml",
+      "subject": "Aufmaß RB-M2 und Aussortierung am Bauhof",
+      "from_name": "Mina Recke",
+      "from_email": "mina.recke@quadratmass.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-09-16T16:28:00+02:00",
+      "paragraphs": [
+        "Hallo Maren,",
+        "anbei das zweite Aufmaß. An A haben wir zusätzlich die beiden Zugangswege gefasst. In B fällt die alte Stichgasse auf der Nordseite aus der Bordlinie. Die städtische Menge bitte mit 180 m eintragen. Die 220 m im ersten Aufmaß waren die gemessene Bruttolänge einschließlich Sperrlager.",
+        "Der Lageplan enthält die Bogenlängen in der Achse. Beim Radius von 2,50 m darf keine gerade Abschnittssumme eingesetzt werden. Karim bestätigt die Querungen noch.",
+        "Viele Grüße\nMina"
+      ],
+      "attachments": [
+        "Grundakte/01_Bedarf/04_Aufmass_RB_M2.csv",
+        "Grundakte/01_Bedarf/05_Bauhof_Altsteinbestand.xlsx"
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/04_Aufmass_RB_M2.csv",
+      "headers": [
+        "Abschnitt",
+        "Lage",
+        "R01 m",
+        "R02 m",
+        "Stadtbestand m",
+        "Gerade neu m",
+        "Radius neu m",
+        "Übergänge m"
+      ],
+      "rows": [
+        [
+          "A",
+          "Platzkante West",
+          600,
+          612,
+          84,
+          446,
+          58,
+          24
+        ],
+        [
+          "B",
+          "Hang und Stichgasse",
+          580,
+          518,
+          58,
+          420,
+          24,
+          16
+        ],
+        [
+          "C",
+          "Rosenbogen Ost",
+          242,
+          234,
+          38,
+          174,
+          14,
+          8
+        ]
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/05_Bauhof_Altsteinbestand.xlsx",
+      "sheets": [
+        {
+          "name": "Bereitstellung",
+          "title": "Bauhof Bestand für Rosenbogen",
+          "note": "Abstellplatz Süd · Prüfung am 16.09.2026 · Längen in Metern",
+          "headers": [
+            "Stapel",
+            "Abschnitt",
+            "Brutto m",
+            "Freigegeben m",
+            "Aussortierung"
+          ],
+          "rows": [
+            [
+              "GS-A24",
+              "A",
+              96,
+              84,
+              "12 m abgesprengt"
+            ],
+            [
+              "GS-B11",
+              "B",
+              74,
+              58,
+              "16 m nach Befund gesperrt"
+            ],
+            [
+              "GS-C07",
+              "C",
+              50,
+              38,
+              "12 m zu kurze Stücke"
+            ],
+            [
+              "Gesamt",
+              "",
+              null,
+              null,
+              "Aussonderung am 16.09."
+            ]
+          ],
+          "formulas": {
+            "C7": "=SUM(C4:C6)",
+            "D7": "=SUM(D4:D6)"
+          },
+          "formulaFormat": "0"
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/06_Querungsskizze_Q_R2.pdf",
+      "title": "Querschnitte für sechs Querungen",
+      "issuer": "Wegebau Plan Partnerschaft",
+      "date": "2026-09-30",
+      "sections": [
+        {
+          "heading": "Achsen und Formsteine",
+          "paragraphs": [
+            "Querungen A1, A2, A3, B1, B2 und C1 umfassen je 8 m Steinmaterial. Der Regelstein hat 180 mm Sichtbreite, 270 mm Nennhöhe und am sichtbaren Kopf einen Radius von 12 ± 3 mm. Für jede Querung wird die Rollspur H0 niveaugleich eingepasst. Die getrennte Tastspur H6 hat im Projekt 60 mm Anschlag und erhält das zugeordnete Tastfeld. Die Höhen sind projektbezogen am fertigen Weg zu kontrollieren.",
+            "Richtung und Lage sind je Stein mit A1 bis C1, H0 oder H6, sowie der steigenden oder fallenden Übergangsrichtung zu beschriften. Prüfen Sie die Übergänge an einer vor Ort zusammengesteckten Reihe."
+          ]
+        },
+        {
+          "heading": "Bögen außerhalb der Querungen",
+          "table": {
+            "headers": [
+              "Abschnitt",
+              "R 2,50 m",
+              "R 4,00 m",
+              "R 7,50 m"
+            ],
+            "rows": [
+              [
+                "A",
+                "24 m",
+                "20 m",
+                "14 m"
+              ],
+              [
+                "B",
+                "0 m",
+                "10 m",
+                "14 m"
+              ],
+              [
+                "C",
+                "0 m",
+                "6 m",
+                "8 m"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/07_Portal_Bauhof_Sperrlager.png",
+      "title": "Bauhof Magazin Kartenansicht RB",
+      "issuer": "Bauhof Süd · Bestandserfassung",
+      "date": "2026-09-16",
+      "paragraphs": [
+        "Gesicherte Ansicht 16.09.2026 um 15:27. Die Summenzeile des Kartenfilters zeigt weiterhin die vermessene Bruttolänge."
+      ],
+      "table": {
+        "headers": [
+          "Lagerfach",
+          "Status",
+          "Erfasst",
+          "Freigegeben"
+        ],
+        "rows": [
+          [
+            "GS-A24",
+            "Teilmenge reserviert",
+            "96 m",
+            "84 m"
+          ],
+          [
+            "GS-B11",
+            "Teilmenge reserviert",
+            "74 m",
+            "58 m"
+          ],
+          [
+            "GS-C07",
+            "Teilmenge reserviert",
+            "50 m",
+            "38 m"
+          ],
+          [
+            "Filter Gesamt",
+            "3 Stapel",
+            "220 m",
+            "180 m"
+          ]
+        ]
+      }
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/08_Musterblatt_RB04.pdf",
+      "title": "Anforderungen an das Muster RB04",
+      "issuer": "Steinbild Denkmalfachplanung",
+      "date": "2026-10-08",
+      "sections": [
+        {
+          "heading": "Sichtbild und Prüfsituation",
+          "paragraphs": [
+            "Halten Sie am trockenen und am benetzten Werkstück das Farbband zwischen RB-B1 und RB-B2 ein. Geprüft wird im diffusen Tageslicht neben den Depotproben. Die flach gerundete Kopfkante soll die Linie der Altsteine aufnehmen. Auf der oberen Gehfläche bleibt ein mattes, fein gestocktes Profil. Die Bearbeitung an der Vorderseite darf den Werkzeugeindruck aufnehmen."
+          ]
+        },
+        {
+          "heading": "Maße und Werkspur",
+          "paragraphs": [
+            "Der Kopf wird am Prüfmuster an drei Stellen mit einer Profillehre abgenommen. Die sichtbare Breite beträgt 180 ± 5 mm. Muster und technische Nachweise werden getrennt protokolliert. Die Freigabe der Oberfläche setzt die Zuordnung zum vorgesehenen Materiallos voraus."
+          ]
+        },
+        {
+          "heading": "Dokumentation der Serie",
+          "paragraphs": [
+            "Bei abweichender Steinbruchcharge oder Bearbeitung ist vor Auslieferung erneut zu bemustern. Bei gebrauchten Ergänzungssteinen müssen Herkunft und nutzbare Länge je Lieferlos dokumentiert werden. Mit der Bemusterung wird keine Serienlieferung freigegeben."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/09_Rueckmeldung_Denkmalfachplanung.eml",
+      "subject": "RB-04 nach der Begehung",
+      "from_name": "Vera Wessel",
+      "from_email": "vera.wessel@steinbild.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-10-08T12:32:00+02:00",
+      "paragraphs": [
+        "Guten Tag Frau Franke,",
+        "das abgestimmte Musterblatt liegt anbei. Herr Richter hat die Querung H0 aus dem freigegebenen Q-R2 übernommen. Die historische Beschreibung im Befundblatt lässt sich in die Anfrage aufnehmen, sofern die Profile und Sichtanforderungen vollständig mitgehen.",
+        "Wir sind am 23.11. um 10 Uhr am Bauhof. Die Beteiligten möchten auch die Kanten im nassen Zustand sehen. Ein Freigabevermerk folgt erst nach der Bemusterung.",
+        "Viele Grüße\nVera Wessel"
+      ],
+      "attachments": [
+        "Grundakte/01_Bedarf/08_Musterblatt_RB04.pdf",
+        "Grundakte/01_Bedarf/06_Querungsskizze_Q_R2.pdf"
+      ]
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/01_Marktabfrage.eml",
+      "subject": "Vorabfrage Rosenbogen | Stein und Kapazität",
+      "from_name": "Maren Franke",
+      "from_email": "maren.franke@krimpfort.example",
+      "to_email": "joel.weerts@harzkante.example",
+      "date": "2026-09-21T09:17:00+02:00",
+      "paragraphs": [
+        "Guten Tag Herr Weerts,",
+        "wir prüfen, in welchen Mengen die regionalen Betriebe graue Granitsteine mit gerundetem Kopf und matter Sichtfläche liefern könnten. Uns interessieren vorab die ungefähren Liefermonate, Fertigungslose und Möglichkeiten für 2,50 m Bogenradius. Bitte nennen Sie die Nettolänge nach Sortierung, sofern Sie Altware einbeziehen.",
+        "Als Grundlage habe ich den aktuellen Bestandsbefund beigefügt. Der verbindliche Zuschnitt und der Leistungsumfang werden erst mit der Angebotsanfrage ausgegeben.",
+        "Viele Grüße\nMaren Franke"
+      ],
+      "attachments": [
+        "Grundakte/01_Bedarf/02_Bestandsbefund.docx"
+      ]
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/02_Ruecklauf_Harzkante.eml",
+      "subject": "Vorabfrage Rosenbogen | Harzkante",
+      "from_name": "Joel Weerts",
+      "from_email": "joel.weerts@harzkante.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-09-24T11:37:00+02:00",
+      "paragraphs": [
+        "Guten Tag Frau Franke,",
+        "für 200 m bis 350 m könnten wir eine kleine Werkserie in der zweiten Aprilhälfte ansetzen. Kalkulationsrahmen 245 bis 280 EUR/m gerade Steine ab Werk. 2,50-m-Bögen nur nach einzelner Schablone, Lieferzeit mindestens zwölf Wochen ab Freigabe. Für mehr als 350 m möchten wir noch kein Zeitfenster nennen.",
+        "Beste Grüße\nJoel Weerts"
+      ],
+      "attachments": [],
+      "reply_to": "Grundakte/02_Markterkundung/01_Marktabfrage.eml"
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/03_Ruecklauf_Berglager.eml",
+      "subject": "Altbestand aus zwei Höfen | Rosenbogen",
+      "from_name": "Finja Blome",
+      "from_email": "finja.blome@berglager.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-09-29T14:11:00+02:00",
+      "paragraphs": [
+        "Hallo Frau Franke,",
+        "wir messen aktuell 480 m in beiden Lagerhöfen. Bei der Stichprobe an der Nordwand waren 28 m von 40 m gerade, stabil und breit genug. Ein Hof enthält gemischte Ware, die nach Lieferzettel zugeordnet werden muss. Als Preisrahmen nenne ich 155 EUR/m aus der belegten Charge, sortiert ab Lager.",
+        "Wir können vor der Anfrage rund 120 m absondern und vorzeigen. Die Radien bieten wir als Neustein aus Partnerfertigung an, wenn Sie die Abwicklung liefern.",
+        "Freundliche Grüße\nFinja Blome"
+      ],
+      "attachments": []
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/04_Ruecklauf_IJsselrand.eml",
+      "subject": "Vorabfenster April | Werk Steinwerk IJsselrand",
+      "from_name": "Noor van Hees",
+      "from_email": "n.vanhees@ijsselrand.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-10-01T08:25:00+02:00",
+      "paragraphs": [
+        "Guten Morgen,",
+        "für gerade Steine sehen wir ab der zweiten Aprilhälfte eine Anfangslieferung um 400 m. Das ist ein Richtwert aus der Produktionsplanung. Werk und Technik prüfen noch, ob sich eine matt gestockte Oberseite bei dem vorgesehenen Stein im Zeitfenster herstellen lässt.",
+        "Ein Foto des farblich passenden Materials schicken wir gern, sobald Sie die Depotprobe ausgewählt haben. Wenn die Fahrzeuge im Bauhof entladen werden müssen, bitte in der Anfrage ausdrücklich aufnehmen.",
+        "Viele Grüße\nNoor van Hees"
+      ],
+      "attachments": []
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/05_Leitungsrunde_Markterkundung.docx",
+      "title": "Protokoll der Markterkundung Rosenbogen",
+      "issuer": "Krimpfort SE & Co. KG",
+      "date": "2026-10-05",
+      "sections": [
+        {
+          "heading": "Richtpreise und Kapazität",
+          "paragraphs": [
+            "Der Preisrahmen der regionalen Kleinserie deckt 200 m bis 350 m. Das niederländische Werk stellt vorläufig 400 m im April in Aussicht. Bei gebrauchten Ergänzungssteinen muss die verfügbare Menge nach Herkunft und Vollsortierung getrennt erhoben werden. Die Stichprobe von Berglager ergäbe hochgerechnet 336 m, wobei die 480 m weder vollständig zugeordnet noch durchsortiert sind."
+          ]
+        },
+        {
+          "heading": "Einladung zum Angebotsstand",
+          "paragraphs": [
+            "Für das gemeinsame LV sollen vier Betriebe mit zugesagter Abgabe zu allen Positionen angefragt werden. Harzkante und Berglager haben jeweils nur eine Teilleistung bestätigt. Altwerk bietet Aufbereitung und Neustein aus einem Partnerwerk an. Grauwinkler, Börde und IJsselrand wollen nach der Vorabklärung zu allen Positionen Stellung nehmen."
+          ]
+        },
+        {
+          "heading": "Anforderungen an die Werkangebote",
+          "paragraphs": [
+            "Das Preisblatt soll erkennen lassen, welche Oberflächen, Radien und Lieferfenster der Einheitspreis deckt. Die Alternativangebote für Fremdaltstein führen wir getrennt und mit Mengenbasis. Der Bauhof kann vormittags zwei Lkw annehmen und reserviert für A und B vorsorglich ein Nachmittagsfenster. Fahrzeuggröße und Entladepflicht stehen daher im Lieferumfang."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/03_Leistungsverzeichnis/01_LV_Mengenbruecke_R02.xlsx",
+      "sheets": [
+        {
+          "name": "Bordlinie",
+          "title": "Überleitung aus Aufmaß RB-M2 in R02",
+          "note": "Länge in der Bordachse · Stadtbestand nach Vollsortierung · 15.10.2026",
+          "headers": [
+            "Abschnitt",
+            "Lage",
+            "R01 m",
+            "R02 m",
+            "Stadtbestand m",
+            "Gerade neu m",
+            "Radius neu m",
+            "Übergänge m"
+          ],
+          "rows": [
+            [
+              "A",
+              "Platzkante West",
+              600,
+              612,
+              84,
+              446,
+              58,
+              24
+            ],
+            [
+              "B",
+              "Hang und Stichgasse",
+              580,
+              518,
+              58,
+              420,
+              24,
+              16
+            ],
+            [
+              "C",
+              "Rosenbogen Ost",
+              242,
+              234,
+              38,
+              174,
+              14,
+              8
+            ],
+            [
+              "Gesamt",
+              "",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ],
+          "formulas": {
+            "C7": "=SUM(C4:C6)",
+            "D7": "=SUM(D4:D6)",
+            "E7": "=SUM(E4:E6)",
+            "F7": "=SUM(F4:F6)",
+            "G7": "=SUM(G4:G6)",
+            "H7": "=SUM(H4:H6)"
+          },
+          "formulaFormat": "0"
+        },
+        {
+          "name": "OZ Ableitung",
+          "title": "Positionsbezug des gemeinsamen Leistungsverzeichnisses",
+          "note": "Projekt GS-RB · LV-Stand R02",
+          "headers": [
+            "OZ",
+            "Quelle",
+            "Ableitung",
+            "Menge",
+            "Einheit"
+          ],
+          "rows": [
+            [
+              "01.0010",
+              "Bauhof Bestand GS-A24 B11 C07",
+              "84 + 58 + 38",
+              180,
+              "m"
+            ],
+            [
+              "02.0010",
+              "Aufmaß RB-M2 gerade R02",
+              "446 + 420 + 174",
+              1040,
+              "m"
+            ],
+            [
+              "02.0020",
+              "Aufmaß RB-M2 und Q-R2",
+              "58 + 24 + 14",
+              96,
+              "m"
+            ],
+            [
+              "02.0030",
+              "Sechs Querungen Q-R2",
+              "6 × 8",
+              48,
+              "m"
+            ],
+            [
+              "03.0010",
+              "Musterblatt RB-04",
+              "6 m Musterstrecke",
+              1,
+              "psch"
+            ],
+            [
+              "03.0020",
+              "Chargenplanung R02",
+              "A B C D",
+              4,
+              "St"
+            ],
+            [
+              "04.0010",
+              "Bauzeiten und Lieferfenster",
+              "A B C D",
+              4,
+              "St"
+            ]
+          ],
+          "textColumns": [
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/03_Leistungsverzeichnis/02_Lieferfolge_Bauhof.pdf",
+      "title": "Anlieferfolge zum Leistungsverzeichnis R02",
+      "issuer": "Krimpfort SE & Co. KG",
+      "date": "2026-10-16",
+      "sections": [
+        {
+          "heading": "Abrufe am Bauhof Süd",
+          "table": {
+            "headers": [
+              "Abruf",
+              "Termin 2027",
+              "Abschnitt",
+              "Neustein m",
+              "Stadtbestand m"
+            ],
+            "rows": [
+              [
+                "A",
+                "19.04.",
+                "A",
+                528,
+                84
+              ],
+              [
+                "B",
+                "17.05.",
+                "B",
+                460,
+                58
+              ],
+              [
+                "C",
+                "14.06.",
+                "C",
+                172,
+                38
+              ],
+              [
+                "D",
+                "21.06.",
+                "C Endanschluss",
+                24,
+                0
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Fenster und Paletten",
+          "paragraphs": [
+            "Je Vormittag stehen am Bauhof Süd zwei Stellfenster zur Entladung zur Verfügung. Der Lieferant plant die Fahrzeuge und Kennzeichnung der Paletten in Einbaureihenfolge. Für A und B ist jeweils ein drittes Entladefenster um 13:30 Uhr vorgemerkt. Das Bauhofpersonal stellt für Fremdfahrzeuge keinen Gabelstapler. Die Verteilung von dort in den Altstadtkern übernimmt Krimpfort.",
+            "Das städtische Bestandsmaterial wird für A, B und C am Bauhof aufgearbeitet. Die 24 m im Abruf D sind Bestandteil der 196 m Neustein für C. Das Lieferdatum für D wurde mit der Bauleitung für den Endanschluss gesondert disponiert."
+          ]
+        },
+        {
+          "heading": "Vorkalkulation der Transporte",
+          "paragraphs": [
+            "Für den Vorabvergleich rechnet der Bauhof mit 130 kg/m einschließlich einer mittleren Profilreserve. Addieren Sie für Ladungsträger und Sicherung 1,50 t für A, 1,40 t für B, 0,60 t für C und 0,20 t für D. Pro Lkw setzt die Baustelle 24 t Nutzlast an. Die tatsächlichen Gewichte und Lastgrenzen sind vor dem Abruf mit dem Frachtführer zu bestätigen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/03_Leistungsverzeichnis/03_LV_Versandfreigabe.eml",
+      "subject": "Freigabe R02 für die vier Anfragen",
+      "from_name": "Arne Pape",
+      "from_email": "arne.pape@krimpfort.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-10-19T15:02:00+02:00",
+      "paragraphs": [
+        "Maren,",
+        "R02 kann an die vier Betriebe raus. Aufmaß und Freigabe sind jetzt in der Mengenbrücke abgeglichen. Bitte die 180 m Bestand als eigene Leistungsposition führen. Die Musterfreigabe ist noch offen, der 23.11. steht im Kalender.",
+        "Abruf A muss für den Markttermin vollständig am 19.04. in den Bauhof. Teilmengen und abweichende Liefertermine kommen in das Begleitschreiben. Bis zu zwei Fahrzeuge können vormittags entladen. Die Nachmittagsfenster für den jeweils dritten Wagen sind für A und B vorgemerkt.",
+        "Danke\nArne"
+      ],
+      "attachments": [
+        "Grundakte/03_Leistungsverzeichnis/01_LV_Mengenbruecke_R02.xlsx",
+        "Grundakte/03_Leistungsverzeichnis/02_Lieferfolge_Bauhof.pdf"
+      ]
+    },
+    {
+      "filename": "Grundakte/04_Angebote/00_Eingangsregister.csv",
+      "headers": [
+        "Lieferant",
+        "Angebot",
+        "Eingang",
+        "Bezugsstand",
+        "Anlagenstatus"
+      ],
+      "rows": [
+        [
+          "Grauwinkler Granitwerk GmbH",
+          "GG-261104",
+          "2026-11-03T08:46:00+01:00",
+          "KPF-GS-BORD-R02",
+          "Schriftangebot und X84"
+        ],
+        [
+          "Börde Natursteinmanufaktur KG",
+          "BN-4106",
+          "2026-11-03T15:12:00+01:00",
+          "KPF-GS-BORD-R02",
+          "Schriftangebot und X84"
+        ],
+        [
+          "Altwerk Steinrückbau und Handel GmbH",
+          "AS-730",
+          "2026-11-04T09:03:00+01:00",
+          "KPF-GS-BORD-R02",
+          "Schriftangebot und X84"
+        ],
+        [
+          "Steinwerk IJsselrand BV",
+          "IJ-26-558",
+          "2026-11-04T10:14:00+01:00",
+          "KPF-GS-BORD-R02",
+          "Schriftangebot und X84"
+        ]
+      ]
+    },
+    {
+      "filename": "Nachlauf/01_Clarification_Grauwinkler.eml",
+      "subject": "GG-261104 | Musterstrecke und Bogen",
+      "from_name": "Inga Knust",
+      "from_email": "i.knust@grauwinkler.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-06T08:52:00+01:00",
+      "paragraphs": [
+        "Hallo Frau Franke,",
+        "wir können die komplette Musterstrecke am 26.11. liefern. Den Termin am 23.11. schaffen wir für das Einzelstück. Den 2,50-m-Radius kalkulieren wir weiter für 24 m. Unsere Werkplanung benötigt die Freigabe bis Freitag, 04.12., um den Aprilabruf fest einzuplanen.",
+        "Den Preisstand können wir nach eigener Rücksprache bis 27.11. verlängern, wenn wir Ihre Nachricht dazu bis Mittwoch erhalten.",
+        "Freundliche Grüße\nInga Knust"
+      ],
+      "attachments": [],
+      "reply_to": "Grundakte/04_Angebote/A_GG-261104.eml"
+    },
+    {
+      "filename": "Nachlauf/02_Altwerk_Sortierung.eml",
+      "subject": "AS-730 | Sortierlauf 09.11.",
+      "from_name": "Juna Fahl",
+      "from_email": "j.fahl@altwerk-stein.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-09T16:08:00+01:00",
+      "paragraphs": [
+        "Guten Tag Frau Franke,",
+        "von den 260 m mit dokumentiertem Herkunftsweg haben wir bisher 156 m vollständig sortiert. Davon sind 114 m für das Sichtprofil und die vorgesehenen Längen geeignet. 34 m sind gesperrt, bei 8 m ist die Prüfung offen. Die anderen 104 m stehen noch aus. Das zweite Prüfteam kann am 16.11. in den Lagergang.",
+        "Wenn Sie vor Ablauf der Bindung entscheiden müssen, können wir Ihnen die 114 m reservieren. Für die im Angebot verlangten 180 m Mindestabnahme kann ich noch keine Bestätigung geben.",
+        "Freundliche Grüße\nJuna Fahl"
+      ],
+      "attachments": [],
+      "reply_to": "Grundakte/04_Angebote/C_AS-730.eml"
+    },
+    {
+      "filename": "Nachlauf/03_IJsselrand_Logistik.eml",
+      "subject": "IJ-26-558 | Abstellplatz und 128 m Restmenge",
+      "from_name": "Noor van Hees",
+      "from_email": "n.vanhees@ijsselrand.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-10T09:13:00+01:00",
+      "paragraphs": [
+        "Guten Tag Frau Franke,",
+        "der Werktermin für 128 m bleibt am 03.05. Der Transport könnte am gleichen Morgen abgefertigt werden. Wir kalkulieren dafür eine gesonderte Fahrzeugstellung. Eine gleichmäßige Farbwirkung beider Anlieferungen hängt am Freigabelos IJ-G04.",
+        "Wir prüfen aktuell, ob 48 m aus dem Lager technisch und optisch passen. Das wäre eine andere Charge. Bitte teilen Sie mit, ob wir diese Charge zum Termin mitbringen sollen.",
+        "Mit freundlichen Grüßen\nNoor van Hees"
+      ],
+      "attachments": [],
+      "reply_to": "Grundakte/04_Angebote/D_IJ-26-558.eml"
+    },
+    {
+      "filename": "Nachlauf/04_Mustertermin_Vorabstimmung.docx",
+      "title": "Vorabstimmung zum Mustertermin am Bauhof",
+      "issuer": "Krimpfort SE & Co. KG",
+      "date": "2026-11-10",
+      "sections": [
+        {
+          "heading": "Termin und Teilnehmer",
+          "paragraphs": [
+            "Am 23.11. treffen sich Projektbüro, Denkmalfachplanung, Bauleitung und Einkauf um 10 Uhr am Bauhof Süd. Wir stellen die Depotproben RB-B1 und RB-B2 bereit. Für den gebogenen Prüfstein nimmt die Bauleitung die Schablone R 2,50 m mit. Die Profilprüfung und das Nassmuster werden je Probe dokumentiert."
+          ]
+        },
+        {
+          "heading": "Voraussetzungen der Bestellung",
+          "paragraphs": [
+            "Vor der Serie müssen die Herkunft, die Sichtfläche und die Liefertermine abschnittsbezogen vorliegen. Der Einkauf holt die fehlenden verbindlichen Zeitfenster und die Nachweise zu den abweichenden Oberflächen ein. Der Vorabtermin wird in der Akte als geplant geführt."
+          ]
+        }
+      ]
+    }
+  ]
+}

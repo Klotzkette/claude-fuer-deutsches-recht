@@ -31,7 +31,7 @@ from pypdf import PdfReader
 from reportlab.pdfgen import canvas
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import working_dump_archive_pairs, safe_archive_name
+from testakte_zip_common import safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 SLUG = 'bauwirtschaft-hildesheim-lebensakte'
@@ -302,7 +302,8 @@ class ProjectFile(unittest.TestCase):
         spec = importlib.util.spec_from_file_location('baseline_regression', ROOT/'scripts/test-bauwirtschaft-hildesheim.py')
         baseline = importlib.util.module_from_spec(spec); spec.loader.exec_module(baseline)
         checker = baseline.HildesheimCase()
-        originals = dict((arc, path) for path, arc in working_dump_archive_pairs(CASE, include_gesamt_pdf=True))
+        include_combined = source_zip_includes_gesamt_pdf(CASE)
+        originals = {arc: path for path, arc in working_dump_archive_pairs(CASE, include_gesamt_pdf=include_combined)}
         single_names = dict((arc, path) for path, arc in self.pairs)
         for suffix in ('', '-einzelpdfs'):
             with ZipFile(ASSETS/f'testakte-{SLUG}{suffix}.zip') as archive:

@@ -15,19 +15,25 @@ Die persönlichen Zusatzangaben aus dem Mandantengespräch und die rechtliche Ge
 Alle Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadressen verwenden reservierte .example-Domains. Die App-Ansichten sind Rekonstruktionen einer erfundenen Oberfläche und keine Aufnahmen eines realen Kontos. Originale und PDFs enthalten bewusst die unterschiedlichen Tatsachenbehauptungen ihrer jeweiligen Absender.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
 
-## 1.2. Downloads
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Format | Download |
-| --- | --- |
-| Gesamt-PDF | [Durchsuchbare Gesamtakte](gesamt-pdf/arbeitsrecht-muster-seewerk-konzept-radolfzell_gesamt.pdf) |
-| Einzel-PDF-ZIP | [Jedes tatsächliche Dokument als eigenes PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-einzelpdfs.zip) |
-| Akten-ZIP | [Bearbeitbare Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip) |
-| Anlagen K1 bis K14 | [Vierzehn geordnete Anlagen-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-anlagen-k1-k14.zip) |
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/arbeitsrecht-muster-seewerk-konzept-radolfzell_gesamt.pdf`](gesamt-pdf/arbeitsrecht-muster-seewerk-konzept-radolfzell_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-einzelpdfs.zip) |
+
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

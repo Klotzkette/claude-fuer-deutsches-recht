@@ -64,8 +64,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [1. Faltenfels: Mandatspost und Lieferkisten](../testakten/sanktionen-eu-faltenfels-mandat/README.md) | [Gesamt-PDF](../testakten/sanktionen-eu-faltenfels-mandat/gesamt-pdf/sanktionen-eu-faltenfels-mandat_gesamt.pdf) | [`testakte-sanktionen-eu-faltenfels-mandat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat.zip) | [`testakte-sanktionen-eu-faltenfels-mandat-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat-einzelpdfs.zip) |
-| [1. Zwirnmark: Ersatzteile und Gesellschafterpost](../testakten/sanktionen-eu-zwirnmark-beteiligung/README.md) | [Gesamt-PDF](../testakten/sanktionen-eu-zwirnmark-beteiligung/gesamt-pdf/sanktionen-eu-zwirnmark-beteiligung_gesamt.pdf) | [`testakte-sanktionen-eu-zwirnmark-beteiligung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung.zip) | [`testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip) |
+| [1. Faltenfels: Mandatspost und Lieferkisten](../testakten/sanktionen-eu-faltenfels-mandat/README.md) | [Gesamt-PDF](../testakten/sanktionen-eu-faltenfels-mandat/gesamt-pdf/sanktionen-eu-faltenfels-mandat_gesamt.pdf) | [`testakte-sanktionen-eu-faltenfels-mandat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat.zip) | [`testakte-sanktionen-eu-faltenfels-mandat-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat-einzelpdfs.zip) |
+| [1. Zwirnmark: Ersatzteile und Gesellschafterpost](../testakten/sanktionen-eu-zwirnmark-beteiligung/README.md) | [Gesamt-PDF](../testakten/sanktionen-eu-zwirnmark-beteiligung/gesamt-pdf/sanktionen-eu-zwirnmark-beteiligung_gesamt.pdf) | [`testakte-sanktionen-eu-zwirnmark-beteiligung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung.zip) | [`testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -137,7 +137,7 @@ Ein Ersatzteilauftrag über 86.400 EUR, eine noch nicht gutgeschriebene Anzahlun
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/sanktionen-eu-zwirnmark-beteiligung_gesamt.pdf) |
 | Einzel-PDF-ZIP / Individual PDFs | [Einzelne Dokumente](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip) |
-| Originalformat-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung.zip) |
+| Originalformat-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung.zip) |
 
 ### 1.5.2. Faltenfels: Mandatspost und Lieferkisten
 
@@ -151,7 +151,7 @@ Eine Kanzlei vertritt ein erfundenes gelistetes Unternehmen. Ein selbständiger 
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/sanktionen-eu-faltenfels-mandat_gesamt.pdf) |
 | Einzel-PDF-ZIP / Individual PDFs | [Einzelne Dokumente](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat-einzelpdfs.zip) |
-| Originalformat-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat.zip) |
+| Originalformat-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat.zip) |
 
 Die ZIPs enthalten keine Unterordner. Gesamt-PDF und Einzel-PDFs geben dieselben zwölf Originale wieder; die Archive enthalten zusätzlich eine zweisprachige Hinweisdatei. Die Akten werden nicht mit dem Plugin installiert.
 

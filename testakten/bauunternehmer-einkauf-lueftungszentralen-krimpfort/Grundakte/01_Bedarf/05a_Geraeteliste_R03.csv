@@ -1,0 +1,10 @@
+Kennung,Versorgung,m³/h je Luftweg,Zuluft extern Pa,Abluft extern Pa,Zugang,Einbringfenster,Max. Masse kg,Betrieb h/Jahr
+S01,Sterilgutbereitung,18000,650,550,Süd,29.06.2027 22:00,780,4700
+S02,Eingriffsbereich,18000,650,550,Süd,01.07.2027 22:00,780,4700
+S03,Funktionsdiagnostik,18000,650,550,Süd,27.07.2027 22:00,780,4300
+W01,Bettenhaus Ost 1,12500,550,450,Nord,16.08.2027 07:00,1200,3800
+W02,Bettenhaus Ost 2,12500,550,450,Nord,17.08.2027 07:00,1200,3800
+W03,Bettenhaus West 1,12500,550,450,Nord,18.08.2027 07:00,1200,3800
+W04,Bettenhaus West 2,12500,550,450,Nord,19.08.2027 07:00,1200,3800
+O01,Verwaltung Erdgeschoss,7000,400,350,Nord,06.09.2027 07:00,1200,2500
+O02,Besprechung Ebene 2,7000,400,350,Nord,07.09.2027 07:00,1200,2500

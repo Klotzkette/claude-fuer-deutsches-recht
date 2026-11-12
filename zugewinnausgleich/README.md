@@ -76,7 +76,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [1. Zugewinnausgleich: Familie Bergmann in Potsdam](../testakten/zugewinnausgleich-familie-bergmann-potsdam/README.md) | [Gesamt-PDF](../testakten/zugewinnausgleich-familie-bergmann-potsdam/gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf) | [`testakte-zugewinnausgleich-familie-bergmann-potsdam.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) | [`testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
+| [1. Zugewinnausgleich: Familie Bergmann in Potsdam](../testakten/zugewinnausgleich-familie-bergmann-potsdam/README.md) | [Gesamt-PDF](../testakten/zugewinnausgleich-familie-bergmann-potsdam/gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf) | [`testakte-zugewinnausgleich-familie-bergmann-potsdam.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) | [`testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -157,7 +157,7 @@ The [Bergmann family practice file, Potsdam](../testakten/zugewinnausgleich-fami
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamte Akte als PDF](../testakten/zugewinnausgleich-familie-bergmann-potsdam/gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf) |
 | Einzel-PDFs / Individual PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
-| Originalformate / Original Formats | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) |
+| Originalformate / Original Formats | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) |
 
 <!-- decimal-anchor --> <a id="fachliche-sicherungen--legal-safeguards"></a>
 

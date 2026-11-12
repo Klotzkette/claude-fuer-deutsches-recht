@@ -11,7 +11,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Diese Projektakte gibt es in drei Formaten. Das Originalformat-ZIP erhält die vollständige Unterordnerstruktur nach Leistungsphasen und Arbeitsbereichen. Es enthält bearbeitbare Word- und Excel-Dateien, E-Mails mit Anlagen sowie die übrigen Originalbelege; Markdown wird nicht mitgeliefert. Das Gesamt-PDF führt die Unterlagen mit einem Dokumentenregister und navigierbaren Lesezeichen zusammen. Im Einzel-PDF-ZIP bleibt dieselbe Ordnerstruktur erhalten; jede Originalunterlage liegt als eigene A4-Lesefassung vor.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -20,12 +20,12 @@ Diese Projektakte gibt es in drei Formaten. Das Originalformat-ZIP erhält die v
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf`](gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauvergabe-wohnhaus-bielefeld.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bauvergabe-wohnhaus-bielefeld.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauvergabe-wohnhaus-bielefeld.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-bauvergabe-wohnhaus-bielefeld.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -80,5 +80,5 @@ Alle Gesellschaften, Personen, Anschriften, Vergabeverfahren, Preise und Geschä
 | Format | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf) |
-| Originaldateien | [Projektakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bauvergabe-wohnhaus-bielefeld.zip) |
+| Originaldateien | [Projektakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-bauvergabe-wohnhaus-bielefeld.zip) |
 | Einzel-PDFs | [Alle Unterlagen als einzelne PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip) |

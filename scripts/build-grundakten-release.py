@@ -16,7 +16,7 @@ from zipfile import ZipFile
 from openpyxl import load_workbook
 from pypdf import PdfReader, PdfWriter
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, notice_text_errors, pdf_content_errors
-from testakte_grundakte import FOLDER, check_intake_member, selection
+from testakte_grundakte import FOLDER, base_selection, check_intake_member
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
@@ -188,7 +188,7 @@ def build(dist, jobs):
     if dist.exists() and any(dist.iterdir()):
         raise ValueError("Das Ausgabeziel muss leer sein.")
     dist.mkdir(parents=True, exist_ok=True)
-    config = selection()
+    config = base_selection()
     native = load_script("build-testakten-release-zips")
     for slug in config["central"]:
         native.build_single(ROOT / "testakten" / slug, dist)
@@ -225,7 +225,7 @@ def build(dist, jobs):
 
 
 def inspect_release(dist):
-    config = selection()
+    config = base_selection()
     orig_check = load_script("validate-testakten-release-zips")
     pdf_check = load_script("validate-testakten-einzelpdf-zips")
     report = {"tag": TAG, "central": {}, "project": {}, "tomasius": {}, "pdfs": {}}

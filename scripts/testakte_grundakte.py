@@ -10,6 +10,10 @@ import re
 
 FOLDER = "Grundakte"
 CONFIG = Path(__file__).resolve().parent / "data/testakten-grundakten.json"
+ADDITIONAL_CONFIGS = (
+    CONFIG.with_name("testakten-grundakten-eingangsbestand.json"),
+    CONFIG.with_name("testakten-grundakten-hameln.json"),
+)
 PROCEEDING = re.compile(
     r"widerspruch|einspruch|klageschrift|klageerwiderung|klage.entwurf|"
     r"gerichtlich|klageverfahren|(?:^|[-_])klage(?:[-_.]|$)|urteils?|mahnbescheid|erwiderung|"
@@ -20,8 +24,22 @@ PROCEEDING = re.compile(
 
 
 @lru_cache
-def selection():
+def base_selection():
     return json.loads(CONFIG.read_text(encoding="utf-8"))
+
+
+@lru_cache
+def selection():
+    selections = {**base_selection(), "central": dict(base_selection()["central"])}
+    for path in ADDITIONAL_CONFIGS:
+        if not path.is_file():
+            continue
+        cases = json.loads(path.read_text(encoding="utf-8"))
+        overlap = selections["central"].keys() & cases.keys()
+        if overlap:
+            raise ValueError(f"Doppelte Grundaktenauswahl in {path.name}: {sorted(overlap)}")
+        selections["central"].update(cases)
+    return selections
 
 
 def check_intake_member(name, data=None):

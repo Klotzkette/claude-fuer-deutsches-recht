@@ -28,6 +28,7 @@ from PIL import Image, ImageDraw
 from pypdf import PdfReader
 from testakte_office_pdf import office_binary
 from testakte_disclaimer import notice_text_errors
+from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = None
@@ -199,14 +200,19 @@ def sources_and_exports():
             raise AssertionError('Angefordertes Archiv fehlt: '+str(ASSETS/name))
         original=archive_path(f'testakte-{case}.zip','testakten')
         singles=archive_path(f'testakte-{case}-einzelpdfs.zip','testakten-einzelpdfs')
+        include_combined = source_zip_includes_gesamt_pdf(directory)
+        original_pairs = working_dump_archive_pairs(directory, include_gesamt_pdf=include_combined)
+        check({p for p, _ in original_pairs} == (set(sources) | ({combined} if include_combined else set())),
+              case+' Exportquellen stimmen mit dem Originalbestand überein')
         with zipfile.ZipFile(original) as z:
-            expected={p.name for p in sources}|{'README.txt',combined.name}
-            check(set(z.namelist())==expected and len(z.namelist())==len(expected),case+' Original-ZIP vollständig, flach und ohne QA-Dateien')
+            expected={'README.txt', *(name for _, name in original_pairs)}
+            check(set(z.namelist())==expected and len(z.namelist())==len(expected),case+' Original-ZIP vollständig und ohne QA-Dateien')
             check(not notice_text_errors(z.read('README.txt')),case+' Original-ZIP Hinweis nach zentralem Standard')
-            for p in sources:check(z.read(p.name)==p.read_bytes(),p.name+' Original-ZIP bytegleich')
-            aggregate=PdfReader(io.BytesIO(z.read(combined.name)))
-            exported_pdf(aggregate,case+' archiviertes Gesamt-PDF')
-            for p in sources:exported_content(aggregate,p,case+' Gesamt-PDF / '+p.name)
+            for p, name in original_pairs:
+                check(z.read(name)==p.read_bytes(),name+' Original-ZIP bytegleich')
+        aggregate=PdfReader(combined)
+        exported_pdf(aggregate,case+' Gesamt-PDF')
+        for p in sources:exported_content(aggregate,p,case+' Gesamt-PDF / '+p.name)
         with zipfile.ZipFile(singles) as z:
             expected={p.stem+'.pdf' for p in sources}|{'README.txt'}
             check(set(z.namelist())==expected and len(z.namelist())==len(expected),case+' Einzel-PDF-ZIP vollständig, flach und ohne QA-Dateien')

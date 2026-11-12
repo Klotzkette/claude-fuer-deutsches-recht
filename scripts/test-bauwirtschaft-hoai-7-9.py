@@ -7,7 +7,6 @@ import csv
 from email import policy
 from email.parser import BytesParser
 import importlib.util
-import hashlib
 import io
 from pathlib import Path
 import re
@@ -24,6 +23,12 @@ from pypdf import PdfReader
 import yaml
 from readme_decimal_headings import normalize_decimal_headings
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN, NOTICE_MARKDOWN
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    safe_archive_name,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 
 HERE=Path(__file__).resolve().parent
 spec=importlib.util.spec_from_file_location("hoai789_build",HERE/"build-bauwirtschaft-hoai-7-9-akten.py")
@@ -156,21 +161,30 @@ class Originals(unittest.TestCase):
     def test_canonical_exports(self):
         for phase,c in B.CASES.items():
             slug=c["slug"];folder=B.ROOT/"testakten"/slug
+            total=folder/"gesamt-pdf"/(slug+"_gesamt.pdf")
+            include_combined = source_zip_includes_gesamt_pdf(folder)
+            original_pairs = working_dump_archive_pairs(folder, include_gesamt_pdf=include_combined)
+            sources = {folder / document["filename"] for document in B.FILES[phase].values()}
+            self.assertEqual({source for source, _ in original_pairs},
+                             sources | ({total} if include_combined else set()))
             for suffix,originals in [("",True),("-einzelpdfs",False)]:
                 path=ASSETS/f"testakte-{slug}{suffix}.zip";self.assertTrue(path.is_file(),str(path))
                 with zipfile.ZipFile(path) as z:
-                    names=z.namelist();self.assertEqual(len(names),len(set(names)));self.assertTrue(all("/" not in n for n in names))
+                    names=z.namelist();self.assertEqual(len(names),len(set(names)))
+                    allow_directories = originals and original_zip_preserves_directories(folder)
+                    self.assertTrue(all(safe_archive_name(n, allow_directories=allow_directories) for n in names))
                     self.assertFalse(any(n.endswith((".md",".yaml")) for n in names));notice=z.read("README.txt").decode("utf-8")
                     self.assertEqual(z.read("README.txt"),NOTICE_BYTES)
                     self.assertIn(NOTICE_DE,notice[:500]);self.assertIn(NOTICE_EN,notice[:500])
-                    for d in B.FILES[phase].values():
-                        name=d["filename"] if originals else Path(d["filename"]).stem+".pdf"
-                        self.assertIn(name,names)
-                        if originals:self.assertEqual(hashlib.sha256(z.read(name)).hexdigest(),hashlib.sha256((folder/name).read_bytes()).hexdigest(),f"{slug}/{name}: Exportstand weicht vom Original ab")
+                    pairs = original_pairs if originals else [(source, source.stem + ".pdf") for source in sources]
+                    self.assertEqual(set(names), {"README.txt", *(name for _, name in pairs)})
+                    for source, name in pairs:
+                        if originals:
+                            self.assertEqual(z.read(name), source.read_bytes(),
+                                             f"{slug}/{name}: Exportstand weicht vom Original ab")
                         else:
                             text=pdf_text(io.BytesIO(z.read(name)));self.assertNotIn(NOTICE_DE,text);self.assertNotIn(NOTICE_EN,text)
-                    if not originals:self.assertEqual(len(names),len(B.FILES[phase])+1)
-            total=folder/"gesamt-pdf"/(slug+"_gesamt.pdf");self.assertTrue(total.is_file())
+            self.assertTrue(total.is_file())
             text=pdf_text(total);self.assertNotIn(NOTICE_DE,text);self.assertNotIn(NOTICE_EN,text)
 
 

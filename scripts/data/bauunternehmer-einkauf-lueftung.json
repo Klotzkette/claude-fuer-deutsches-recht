@@ -1,0 +1,971 @@
+{
+  "id": "BE-02",
+  "slug": "bauunternehmer-einkauf-lueftungszentralen-krimpfort",
+  "title": "Neun Lüftungszentralen für die Klinik am Huntepark",
+  "company": "Krimpfort SE & Co. KG",
+  "project": "Klinik am Huntepark · Oldenburg",
+  "as_of": "2026-11-09",
+  "project_id": "e69e988f03ea4ee6b13df9c0ac98664b",
+  "boq_id": "7f5eb79d65dc4902a3386fd79506bcf3",
+  "lv_number": "KPF-HP-RLT-R02",
+  "tender_date": "2026-10-15",
+  "bid_deadline": "2026-10-30T12:00:00+01:00",
+  "request_date": "2026-10-15T09:00:00+02:00",
+  "buyer_name": "Maren Franke",
+  "buyer_email": "maren.franke@krimpfort.example",
+  "lv_notes": [
+    "Krimpfort fragt neun Lüftungszentralgeräte für einen Umbau bei laufendem Klinikbetrieb an. Angebotsschluss ist am 30.10.2026 um 12:00 Uhr. Neben dem Preisblatt ist ein X84 zum ausgegebenen Stand KPF-HP-RLT-R02 einzureichen.",
+    "Die Einbringung Süd ist für S01 am 29.06.2027, S02 am 01.07.2027 und S03 am 27.07.2027 ab 22:00 Uhr vorgesehen. Das Fenster endet jeweils um 02:00 Uhr am Folgetag. W01 bis W04 sind für den 16.–19.08., O01 und O02 für den 06.–07.09. jeweils ab 07:00 Uhr vorgesehen.",
+    "Weisen Sie Abweichungen und Voraussetzungen je Position aus. Externe Pumpenstationen oder andere notwendige Systemkomponenten mit Leistungsaufnahme und Zusatzpreis gesondert benennen. Geben Sie bei gestellter Bauleistung an, welches Gewerk sie übernehmen soll."
+  ],
+  "request_subject": "Anfrage KPF-HP-RLT-R02 | Klinik am Huntepark",
+  "request_paragraphs": [
+    "bitte schicken Sie uns Ihr Preisblatt und die X84 zum gemeinsamen LV-Stand bis Freitag, 30. Oktober, 12 Uhr. Wir wollen die neun Geräte als ein Paket mit Lieferung, Montage und Prüfung einkaufen.",
+    "Für S01 bis S03 geben Sie bitte Maße und Gewichte einschließlich Transporthilfen an. Wenn Sie einen anderen Betriebspunkt, eine Vorleistung oder ein alternatives Lieferfenster kalkulieren, führen Sie das im Begleitschreiben auf."
+  ],
+  "groups": {
+    "01": "Geräte",
+    "02": "Lieferung und Montage",
+    "03": "Prüfung und Inbetriebnahme",
+    "04": "Inspektion"
+  },
+  "positions": [
+    {
+      "oz": "01.0010",
+      "short": "Modulgerät S",
+      "quantity": 3,
+      "unit": "St",
+      "text": "Geräte S01 bis S03. Je 18.000 m³/h Zu- und Abluft bei 650 Pa externer Druckreserve für die Zuluft und 550 Pa für die Abluft. Gerät für 100 % Außenluft mit stofflich getrennten Luftwegen. Mittelwert der gemessenen elektrischen Aufnahme beider Ventilatoren am beschriebenen Punkt als Gesamtwert pro Gerät ausweisen. Die geräteinterne Regelung gehört zum Lieferumfang."
+    },
+    {
+      "oz": "01.0020",
+      "short": "Modulgerät W",
+      "quantity": 4,
+      "unit": "St",
+      "text": "Geräte W01 bis W04. Je 12.500 m³/h Zu- und Abluft bei 550 Pa Zuluft und 450 Pa Abluft. Wärmerückgewinnung, motorische Absperrklappen und Kondensatanschluss gehören zum Gerät. Beide Ventilatorleistungen am Sollpunkt getrennt und als Summe ausweisen."
+    },
+    {
+      "oz": "01.0030",
+      "short": "Modulgerät O",
+      "quantity": 2,
+      "unit": "St",
+      "text": "Geräte O01 bis O02. Je 7.000 m³/h Zu- und Abluft bei 400 Pa Zuluft und 350 Pa Abluft. Standardgerät für Verwaltung und Besprechung. Luftseitige Klappen und geräteinterne Regelung sind enthalten."
+    },
+    {
+      "oz": "02.0010",
+      "short": "Lieferung und Einbringung",
+      "quantity": 9,
+      "unit": "St",
+      "text": "Fracht, Entladung und Einbringung der Geräte bis zum gekennzeichneten Aufstellplatz. S01 und S02 über Logistikweg Süd. S03 nach Aufnahme vom 28.09. ebenfalls über Süd. Je Modul maximal 2,10 × 0,92 × 2,05 m mit Transportmitteln und 780 kg. W und O über Anlieferung Nord. Nachtzuschläge sowie Transporthilfen für die beschriebenen Fenster einrechnen."
+    },
+    {
+      "oz": "02.0020",
+      "short": "Montage und Wiederabdichtung",
+      "quantity": 9,
+      "unit": "St",
+      "text": "Montage der getrennten Module einschließlich Dichtungen, Wiederverdrahtung geräteinterner Leitungen und dokumentierter Wiederherstellung der Gerätefunktion. Wasser-, Kanal- und Zuleitungsanschlüsse außerhalb des Geräts führt Krimpfort aus."
+    },
+    {
+      "oz": "03.0010",
+      "short": "Werksprüfungen S",
+      "quantity": 3,
+      "unit": "St",
+      "text": "Je Gerät die Kombination aus Zu- und Abluft am spezifizierten Betriebspunkt prüfen. Protokolliert werden Druck, Volumenstrom, elektrische Leistungsaufnahme und eindeutige Gerätekennung. Krimpfort und Klinik können online teilnehmen."
+    },
+    {
+      "oz": "03.0020",
+      "short": "Inbetriebnahme und Schnittstellentest",
+      "quantity": 9,
+      "unit": "St",
+      "text": "Enthalten sind Kalt- und Warmtest, Prüfung des Zustands nach Netzwiederkehr, Probealarm, Datenpunkttest sowie eine nach Gerätenummer getrennte Dokumentation. Der Gebäudeautomationspartner übernimmt die Leitstation."
+    },
+    {
+      "oz": "04.0010",
+      "short": "Inspektion in den ersten zwei Betriebsjahren",
+      "quantity": 18,
+      "unit": "St",
+      "text": "Je Gerät eine Inspektion pro Betriebsjahr einschließlich Fahrt, Prüfbericht und Prüfung der Regelung. Der Betreiber stellt turnusmäßige Filterwechsel und Filtermaterial separat. Einsatz und Entstörzeit für außerplanmäßige Störungen separat erläutern."
+    }
+  ],
+  "offers": [
+    {
+      "id": "A",
+      "name": "Emsried Klimatechnik GmbH",
+      "email": "r.boldt@emsried.example",
+      "person": "Ragna Boldt",
+      "number": "EK-26-881",
+      "date": "2026-10-29T09:12:00+01:00",
+      "validity": "2026-11-24",
+      "prices": {
+        "01.0010": 112400,
+        "01.0020": 81400,
+        "01.0030": 47800,
+        "02.0010": 2400,
+        "02.0020": 4800,
+        "03.0010": 3600,
+        "03.0020": 2450,
+        "04.0010": 820
+      },
+      "notes": {
+        "02.0010": "Kalkuliert ist Anlieferung bis Rampe Nord. Für S01 bis S03 ist die Einbringung über Süd separat zu beauftragen.",
+        "03.0020": "Geräteseitiger Funktionstest. Der protokollierte Datenpunkttest an der Leitstation wird separat berechnet."
+      },
+      "conditions": [
+        {
+          "heading": "Logistik und Zusatzpreise",
+          "paragraphs": [
+            "Für die Einbringung Süd sind zusätzlich 21.600 EUR netto für alle drei S-Geräte kalkuliert. Der Preis gilt für drei getrennte Nachteinsätze mit maximal vier Stunden Dauer. Für den protokollierten Datenpunkttest aller Geräte berechnen wir zusammen 12.800 EUR netto. Beide Beträge stehen außerhalb des Positionssummenblatts.",
+            "Das S-Modul ist im Angebot mit 2,02 × 0,96 × 1,98 m einschließlich Rollrahmen angegeben. Wir prüfen einen anderen Rahmen. Die Querachse ohne Rahmen misst 0,90 m. Als möglicher Einbringungstermin ist die Kalenderwoche 27 vorgemerkt."
+          ]
+        },
+        {
+          "heading": "Betrieb",
+          "paragraphs": [
+            "Der Planwert für S beträgt 12,1 kW je Gerät bei 600 Pa Zuluft und 500 Pa Abluft. Das Leistungsblatt am LV-Betriebspunkt reichen wir nach. Zahlungsziel sind 30 Tage netto ab prüfbarer Rechnung."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Morgen Frau Franke,",
+        "im Preisblatt steht die Anlieferung bis Nord. Im Abschnitt Logistik stehen die beiden Ergänzungspreise. Der Kollege aus der Werksplanung meldet sich noch zum Rollrahmen.",
+        "Viele Grüße\nRagna Boldt"
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Wattje Raumluftsysteme GmbH",
+      "email": "t.peters@wattje.example",
+      "person": "Tjark Peters",
+      "number": "WR-6108",
+      "date": "2026-10-29T14:46:00+01:00",
+      "validity": "2026-11-20",
+      "prices": {
+        "01.0010": 123500,
+        "01.0020": 87900,
+        "01.0030": 54200,
+        "02.0010": 3600,
+        "02.0020": 5350,
+        "03.0010": 3350,
+        "03.0020": 3600,
+        "04.0010": 1060
+      },
+      "notes": {
+        "01.0010": "Gegenstrom-Plattenwärmerückgewinnung mit getrennten Luftwegen. Zeichnung zur Dichtungsführung folgt nach Auftrag.",
+        "02.0010": "Einbringung Süd in allen drei vereinbarten Nachtfenstern enthalten. Der Vorbehalt im Abschnitt Logistik gilt."
+      },
+      "conditions": [
+        {
+          "heading": "Leistungsblatt",
+          "paragraphs": [
+            "Für S sind bei 18.000 m³/h sowie 650 Pa Zuluft und 550 Pa Abluft insgesamt 13,8 kW je Gerät angesetzt. Die Angabe enthält die beiden Geräteventilatoren. Am Zwischenstand vom 20.10. war noch 13,1 kW bei reduziertem Druck eingetragen.",
+            "Die Transportmodule für S messen laut Maßblatt 2,07 × 0,91 × 2,00 m bei 740 kg. Der Rollrahmen ist im Maß und Gewicht berücksichtigt."
+          ]
+        },
+        {
+          "heading": "Logistik und Zahlungsbedingung",
+          "paragraphs": [
+            "S01 und S02 sind für die beiden Nächte der Kalenderwoche 26 angeboten. Für S03 gilt der Nachteinsatz in Kalenderwoche 30. Voraussetzung ist die Freigabe der Maßblätter bis 20.11.2026. Für die Reservierung verlangen wir 20 % Abschlag bei Bestellung gegen eine Anzahlungsbürgschaft. Das Bürgschaftsmuster prüfen wir auf Anfrage."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Tag Frau Franke,",
+        "die drei Einsätze über Süd sind mit dem Werk abgestimmt. Für die Werkreservierung brauchen wir die Maßblattfreigabe in demselben Zeitfenster wie die Bestellung. Den tatsächlichen Stand schicken wir auf Nachfrage.",
+        "Mit freundlichen Grüßen\nTjark Peters"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "PolderVent Anlagenbau GmbH",
+      "email": "p.nolte@poldervent.example",
+      "person": "Pia Nolte",
+      "number": "PV-2713",
+      "date": "2026-10-30T08:05:00+01:00",
+      "validity": "2026-12-04",
+      "prices": {
+        "01.0010": 128600,
+        "01.0020": 89200,
+        "01.0030": 49600,
+        "02.0010": 2950,
+        "02.0020": 4950,
+        "03.0010": 3190,
+        "03.0020": 3350,
+        "04.0010": 940
+      },
+      "notes": {
+        "01.0010": "Kreislaufverbundsystem mit zwei getrennten Luftwegen. Der externe hydraulische Anschluss für S wird vom Auftraggeber hergestellt.",
+        "03.0010": "Werksprüfung umfasst die Geräteluftseite. Die Kennwerte des Kreislaufverbunds mit den angebotenen Medienparametern stehen im Schriftangebot."
+      },
+      "conditions": [
+        {
+          "heading": "Leistung und Schnittstellen",
+          "paragraphs": [
+            "Für S betragen die aufgenommenen Ventilatorleistungen am LV-Punkt zusammen 11,9 kW je Gerät. Das außen angeordnete Pumpenpaket benötigt laut Auslegung weitere 1,1 kW je Gerät. Die Werte beruhen auf derselben Geräteauswahl PV-S3.",
+            "Das externe Pumpenpaket einschließlich Frostschutz- und hydraulischer Überwachungstechnik kostet für drei S-Geräte 24.600 EUR netto zusätzlich. Im Positionspreis ist die Lieferung der externen Anschlussverrohrung zwischen Gerät und Pumpenpaket nicht enthalten. Diese ist vor Ort aufzunehmen."
+          ]
+        },
+        {
+          "heading": "Termin und Service",
+          "paragraphs": [
+            "S01 und S02 liefern wir in Kalenderwoche 25 an. Die Nachteinbringung ist für die beiden Nächte der Kalenderwoche 26 kalkuliert, falls die Module eine Woche trocken zwischengelagert werden können. S03 ist erst für Kalenderwoche 31 avisiert. Für eine Vorziehung auf Kalenderwoche 30 erwarten wir die Freigabe der Produktionsplanung bis 12.11."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Morgen Frau Franke,",
+        "bitte gleichen Sie die Pumpenbaugruppe vor der Bewertung mit dem hydraulischen Plan ab. Der Block in Kalenderwoche 30 wird im Werk gerade frei. Für eine Reservierung brauche ich Ihre Rückmeldung bis zum 12. November.",
+        "Beste Grüße\nPia Nolte"
+      ]
+    },
+    {
+      "id": "D",
+      "name": "Noordkade Luchttechniek B.V.",
+      "email": "e.vandijk@noordkade.example",
+      "person": "Eva van Dijk",
+      "number": "NL-5531",
+      "date": "2026-10-30T10:41:00+01:00",
+      "validity": "2026-11-30",
+      "prices": {
+        "01.0010": 120800,
+        "01.0020": 85650,
+        "01.0030": 51750,
+        "02.0010": 3400,
+        "02.0020": 4950,
+        "03.0010": 2950,
+        "03.0020": 3300,
+        "04.0010": 1100
+      },
+      "notes": {
+        "01.0010": "Rotationswärmerückgewinner mit Spülsektor als Serienausführung angeboten. Trennsystem als gesonderte Variante.",
+        "02.0010": "Kalenderwoche 26 für S01 und S02 zugesagt bei Verfügbarkeit eines Bauaufzugs mit mindestens 1.000 kg Nutzlast."
+      },
+      "conditions": [
+        {
+          "heading": "S-Variante",
+          "paragraphs": [
+            "Für eine Ausführung mit getrennten Luftwegen liegt eine Vorplanung vor. Der Austausch des Rotors gegen die Trennvariante ist mit einem Mehrpreis von 39.000 EUR netto für die drei S-Geräte indiziert. Serienausführung und Variante haben getrennte Kennwerte. Der Werktermin zur Variante ist offen.",
+            "Die Serienausführung erreicht 11,2 kW je S-Gerät bei den im LV genannten Druckwerten. Eine Angabe zur Trennvariante liegt zum heutigen Stand nicht vor."
+          ]
+        },
+        {
+          "heading": "Montage und Abnahme",
+          "paragraphs": [
+            "Der Transportabschnitt Süd ist mit einem vorhandenen Aufzug von mindestens 1.000 kg Nutzlast kalkuliert. Für die Geräteabschnitte ist eine Kombination aus Rahmen und Hebezeug von zusammen 920 kg vorgesehen. Der Wartungsbericht kann in deutscher Sprache erstellt werden. Für Störungen außerhalb der Servicezeiten gilt eine gesonderte Anfahrtspauschale."
+          ]
+        }
+      ],
+      "email_body": [
+        "Guten Tag Frau Franke,",
+        "das GAEB-Angebot entspricht unserer Serienausführung. Die Trennvariante finden Sie als separate Preisindikation im PDF. Die Maße des Bauaufzugs würden wir gern bei einem gemeinsamen Termin aufnehmen.",
+        "Freundliche Grüße\nEva van Dijk"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Grundakte/01_Bedarf/01_Projektleitung_Einkaufsauftrag.eml",
+      "from_name": "Katrin Wessels",
+      "from_email": "katrin.wessels@krimpfort.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-09-17T08:06:00+02:00",
+      "subject": "Huntepark | Gerätepaket RLT bitte übernehmen",
+      "paragraphs": [
+        "Moin Maren,",
+        "die Klinik lässt die drei ersten Bereiche abschnittsweise umbauen. Wir sollen das Paket für alle neun Zentralgeräte in einem Vorgang einkaufen. Die Montage und Funktionsprüfung des Geräts gehören ins Paket. Heizung, Kanäle und die Leitstation bleiben bei unseren bereits beauftragten Gewerken.",
+        "Ich schicke den Bauablauf aus dem Hauptvertrag mit. Die Termine für Süd können wir nur mit der Betriebsleitung tauschen. Bitte kläre vor dem LV, ob es am Markt Geräte gibt, die in Modulen durch den Bestand passen.",
+        "Viele Grüße\nKatrin"
+      ],
+      "attachments": [
+        "Grundakte/01_Bedarf/02_Hauptvertrag_Auszug_Bauablauf.pdf"
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/02_Hauptvertrag_Auszug_Bauablauf.pdf",
+      "title": "Hauptvertrag · Auszug Bauablauf und Schnittstellen",
+      "issuer": "Klinik am Huntepark Betriebsgesellschaft",
+      "date": "2026-09-15",
+      "sections": [
+        {
+          "heading": "Betriebsübergabe",
+          "paragraphs": [
+            "Krimpfort koordiniert Gerätelieferung, Aufstellung und Inbetriebnahme für den Bauabschnitt RLT. Für S01 und S02 sind Betriebsübergaben am 23.07.2027 vorgesehen. Für S03 ist die Betriebsübergabe am 20.08.2027 vorgesehen. Die Abschaltungen der bisherigen Geräte bedürfen jeweils der schriftlichen Zustimmung der Klinik."
+          ]
+        },
+        {
+          "heading": "Transport",
+          "paragraphs": [
+            "Die Nebenlogistik Süd dient tagsüber der Klinikversorgung. Für S01 und S02 sind Einbringungen am 29.06. und 01.07. jeweils ab 22:00 Uhr bis spätestens 02:00 Uhr am Folgetag vorgesehen. Der Termin für S03 ist mit dem Aufmaß zu bestätigen. Die Termine für W und O sind im Bauzeitenplan eingetragen."
+          ]
+        },
+        {
+          "heading": "Leistungsgrenze",
+          "paragraphs": [
+            "Die Klinik stellt die Leitstation und deren Systemintegrator. Krimpfort schuldet die Koordination der Schnittstellen und die gewerkeübergreifende Übergabe. Das gerätespezifische Signalprotokoll, die Datenpunktliste und der Test am Gerät müssen spätestens bei der Funktionsprüfung vorliegen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/03_Klinikhygiene_Stellungnahme.docx",
+      "title": "Gerätezuordnung und Anforderungen der Klinikhygiene",
+      "issuer": "Klinik am Huntepark · Hygiene und Betrieb",
+      "date": "2026-09-21",
+      "sections": [
+        {
+          "heading": "Getrennte Luftwege in Bereich S",
+          "paragraphs": [
+            "Für die Geräte S01 bis S03 verlangt die Klinik in diesem Projekt stofflich getrennte Wege für Zu- und Abluft über die Wärmerückgewinnung. Die Anforderung gilt auch während Frostschutz und Anlauf. Aus dem Datenblatt sollen die Luftführung, die Dichtungsanordnung und der Medienweg erkennbar sein. Die Abstimmung betrifft diese drei Geräte."
+          ]
+        },
+        {
+          "heading": "Komponenten außerhalb der Geräte",
+          "paragraphs": [
+            "Die Fachplanung erfasst raumseitige Endfilter und die Druckkaskade separat. Bei der Geräteabnahme wird die geräteseitige Regelung geprüft. Die Klinik nimmt die Raumfunktionen erst nach Fertigstellung der Kanäle und Endkomponenten ab."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/04_Aufmass_Transportweg_Sued.pdf",
+      "title": "Aufmaß Transportweg Süd · Termin 28.09.",
+      "issuer": "Planbüro Reemt · Technische Ausrüstung",
+      "date": "2026-09-28",
+      "sections": [
+        {
+          "heading": "Engstelle Zugang HN-12",
+          "paragraphs": [
+            "An der Biegung hinter der Schleuse wurden 0,97 m lichte Breite, 2,16 m lichte Höhe und 2,18 m nutzbare Tiefe gemessen. Nach Abzug der Wegschutzplatten und der Bewegungsreserve gelten für den Transport einschließlich Rollrahmen 2,10 × 0,92 × 2,05 m. Das Gewicht von Modul und Transporthilfe darf zusammen 780 kg je Transporteinheit nicht überschreiten."
+          ]
+        },
+        {
+          "heading": "Änderung bei S03",
+          "paragraphs": [
+            "Der früher geplante Zugang über Nord erreicht den Technikraum S03 nur über den im Bestand gesperrten Gang N-12. S03 wird wie S01 und S02 über Süd eingebracht. Die Klinik hat den 27.07.2027 ab 22:00 Uhr bis 02:00 Uhr vorgemerkt. Der klinikeigene Aufzug HN-12 bleibt während der Nacht verfügbar. Eine Baustellenlast von mehr als 780 kg ist für diesen Weg nicht freigegeben."
+          ]
+        },
+        {
+          "heading": "Aufstellung und Kontrolle",
+          "paragraphs": [
+            "Krimpfort markiert die Gerätefüße vor Ort. Der Lieferant dokumentiert die Einheit, den Transportzustand und die Freigabe des gewählten Transportmittels. Die Maßkette ist vor der Werkfreigabe vorzulegen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/05_Geraeteliste_R03.xlsx",
+      "sheets": [
+        {
+          "name": "Geräte R03",
+          "title": "Geräte- und Terminstände nach Aufmaß",
+          "note": "Planbüro Reemt · 30.09.2026 · Volumenstrom und Druck je Luftweg",
+          "headers": [
+            "Kennung",
+            "Versorgung",
+            "m³/h je Luftweg",
+            "Zuluft extern Pa",
+            "Abluft extern Pa",
+            "Zugang",
+            "Einbringfenster",
+            "Max. Masse kg",
+            "Betrieb h/Jahr"
+          ],
+          "rows": [
+            [
+              "S01",
+              "Sterilgutbereitung",
+              18000,
+              650,
+              550,
+              "Süd",
+              "29.06.2027 22:00",
+              780,
+              4700
+            ],
+            [
+              "S02",
+              "Eingriffsbereich",
+              18000,
+              650,
+              550,
+              "Süd",
+              "01.07.2027 22:00",
+              780,
+              4700
+            ],
+            [
+              "S03",
+              "Funktionsdiagnostik",
+              18000,
+              650,
+              550,
+              "Süd",
+              "27.07.2027 22:00",
+              780,
+              4300
+            ],
+            [
+              "W01",
+              "Bettenhaus Ost 1",
+              12500,
+              550,
+              450,
+              "Nord",
+              "16.08.2027 07:00",
+              1200,
+              3800
+            ],
+            [
+              "W02",
+              "Bettenhaus Ost 2",
+              12500,
+              550,
+              450,
+              "Nord",
+              "17.08.2027 07:00",
+              1200,
+              3800
+            ],
+            [
+              "W03",
+              "Bettenhaus West 1",
+              12500,
+              550,
+              450,
+              "Nord",
+              "18.08.2027 07:00",
+              1200,
+              3800
+            ],
+            [
+              "W04",
+              "Bettenhaus West 2",
+              12500,
+              550,
+              450,
+              "Nord",
+              "19.08.2027 07:00",
+              1200,
+              3800
+            ],
+            [
+              "O01",
+              "Verwaltung Erdgeschoss",
+              7000,
+              400,
+              350,
+              "Nord",
+              "06.09.2027 07:00",
+              1200,
+              2500
+            ],
+            [
+              "O02",
+              "Besprechung Ebene 2",
+              7000,
+              400,
+              350,
+              "Nord",
+              "07.09.2027 07:00",
+              1200,
+              2500
+            ]
+          ],
+          "textColumns": [
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/05a_Geraeteliste_R03.csv",
+      "headers": [
+        "Kennung",
+        "Versorgung",
+        "m³/h je Luftweg",
+        "Zuluft extern Pa",
+        "Abluft extern Pa",
+        "Zugang",
+        "Einbringfenster",
+        "Max. Masse kg",
+        "Betrieb h/Jahr"
+      ],
+      "rows": [
+        [
+          "S01",
+          "Sterilgutbereitung",
+          18000,
+          650,
+          550,
+          "Süd",
+          "29.06.2027 22:00",
+          780,
+          4700
+        ],
+        [
+          "S02",
+          "Eingriffsbereich",
+          18000,
+          650,
+          550,
+          "Süd",
+          "01.07.2027 22:00",
+          780,
+          4700
+        ],
+        [
+          "S03",
+          "Funktionsdiagnostik",
+          18000,
+          650,
+          550,
+          "Süd",
+          "27.07.2027 22:00",
+          780,
+          4300
+        ],
+        [
+          "W01",
+          "Bettenhaus Ost 1",
+          12500,
+          550,
+          450,
+          "Nord",
+          "16.08.2027 07:00",
+          1200,
+          3800
+        ],
+        [
+          "W02",
+          "Bettenhaus Ost 2",
+          12500,
+          550,
+          450,
+          "Nord",
+          "17.08.2027 07:00",
+          1200,
+          3800
+        ],
+        [
+          "W03",
+          "Bettenhaus West 1",
+          12500,
+          550,
+          450,
+          "Nord",
+          "18.08.2027 07:00",
+          1200,
+          3800
+        ],
+        [
+          "W04",
+          "Bettenhaus West 2",
+          12500,
+          550,
+          450,
+          "Nord",
+          "19.08.2027 07:00",
+          1200,
+          3800
+        ],
+        [
+          "O01",
+          "Verwaltung Erdgeschoss",
+          7000,
+          400,
+          350,
+          "Nord",
+          "06.09.2027 07:00",
+          1200,
+          2500
+        ],
+        [
+          "O02",
+          "Besprechung Ebene 2",
+          7000,
+          400,
+          350,
+          "Nord",
+          "07.09.2027 07:00",
+          1200,
+          2500
+        ]
+      ]
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/06_Bauportal_Transportfenster.png",
+      "title": "Transportfenster · Portalstand R03",
+      "issuer": "Krimpfort · Bauportal",
+      "date": "2026-09-30",
+      "paragraphs": [
+        "Klinik am Huntepark. Die Sperrzeiten Süd gelten ab der im Portal eingetragenen Uhrzeit."
+      ],
+      "table": {
+        "headers": [
+          "Gerät",
+          "Datum und Uhrzeit",
+          "Tor",
+          "Betriebsleitung"
+        ],
+        "rows": [
+          [
+            "S01",
+            "29.06.2027 22:00–02:00",
+            "Süd HN-12",
+            "Vorgemerkt"
+          ],
+          [
+            "S02",
+            "01.07.2027 22:00–02:00",
+            "Süd HN-12",
+            "Vorgemerkt"
+          ],
+          [
+            "S03",
+            "27.07.2027 22:00–02:00",
+            "Süd HN-12",
+            "Vorgemerkt"
+          ],
+          [
+            "W01–W04",
+            "16.–19.08.2027 07:00",
+            "Nord",
+            "Bauzeitenplan"
+          ],
+          [
+            "O01–O02",
+            "06.–07.09.2027 07:00",
+            "Nord",
+            "Bauzeitenplan"
+          ]
+        ]
+      }
+    },
+    {
+      "filename": "Grundakte/01_Bedarf/07_Planung_Aenderung_R03.eml",
+      "from_name": "Anja Reemt",
+      "from_email": "anja.reemt@reemt-tga.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-09-30T12:35:00+02:00",
+      "subject": "Geräteliste R03 und geänderte Einbringung S03",
+      "paragraphs": [
+        "Hallo Frau Franke,",
+        "aus der Begehung am Montag ist R03 entstanden. Neun Geräte bleiben es weiterhin. S03 steht jetzt in derselben Süd-Logistik wie die zwei ersten S-Geräte. Bitte im LV drei Transporte Süd kalkulieren lassen. In R02 waren es zwei.",
+        "Die Drücke in der Tabelle sind die externen Reserven je Luftweg. Die elektrischen Werte der Hersteller sind nur am dort genannten Betriebspunkt vergleichbar. Bei einem Kreislaufverbund bitte Pumpe und externe Baugruppe getrennt abfragen.",
+        "Beste Grüße\nAnja Reemt"
+      ],
+      "attachments": [
+        "Grundakte/01_Bedarf/04_Aufmass_Transportweg_Sued.pdf",
+        "Grundakte/01_Bedarf/05_Geraeteliste_R03.xlsx"
+      ]
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/01_Anfrage_Markterkundung.eml",
+      "from_name": "Maren Franke",
+      "from_email": "maren.franke@krimpfort.example",
+      "to_email": "m.heeren@luftwerkstatt.example",
+      "date": "2026-10-01T10:23:00+02:00",
+      "subject": "Unverbindliche Markterkundung | drei teilbare RLT-Sondergeräte",
+      "paragraphs": [
+        "Guten Tag Herr Heeren,",
+        "für drei Geräte mit je 18.000 m³/h suchen wir marktübliche Teilungen. Zu- und Abluft müssen in der Wärmerückgewinnung stofflich getrennt geführt werden. Der Bestand erlaubt eine Transporteinheit von höchstens 2,10 × 0,92 × 2,05 m und 780 kg einschließlich Hilfsmittel. Wäre das mit Ihrem Programm erreichbar?",
+        "Bitte nennen Sie den Preisrahmen ab Werk, mögliche Zusatzteile und die Vorlaufzeit ab Maßblattfreigabe. Für die Markterkundung genügt ein Richtwert. Die eigentliche Anfrage senden wir mit einem einheitlichen LV.",
+        "Freundliche Grüße\nMaren Franke"
+      ]
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/02_Ruecklauf_Plattensystem.eml",
+      "from_name": "Mats Heeren",
+      "from_email": "m.heeren@luftwerkstatt.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-10-05T13:48:00+02:00",
+      "subject": "RE Unverbindliche Markterkundung | geteiltes Plattensystem",
+      "paragraphs": [
+        "Guten Tag Frau Franke,",
+        "wir bauen das größere Modell üblicherweise mit Plattenübertrager und bauseitiger Zusammenführung. Mit unserem kurzen Gestell liegen wir bei rund 0,91 m Breite. Den Nachweis führen wir erst mit der konkreten Maßzeichnung. Richtwert je S-Gerät ab Werk 108.000 bis 125.000 EUR netto, zuzüglich Wiederabdichtung, Einbringung und Inbetriebnahme. Mit 24 bis 28 Wochen ab Zeichnungsfreigabe müssen Sie rechnen.",
+        "Freundliche Grüße\nMats Heeren"
+      ],
+      "reply_to": "Grundakte/02_Markterkundung/01_Anfrage_Markterkundung.eml"
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/03_Ruecklauf_Kreislaufverbund.eml",
+      "from_name": "Pia Nolte",
+      "from_email": "p.nolte@poldervent.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-10-06T08:40:00+02:00",
+      "subject": "Richtwerte Huntepark | Kreislaufverbund",
+      "paragraphs": [
+        "Guten Morgen Frau Franke,",
+        "beim Kreislaufverbund können wir Zu- und Abluft als schmalere Module transportieren. Bitte entscheiden Sie vor Ausschreibung, wer Pumpenstation und externe Verrohrung liefert. Unsere Gerätezahl setzt die Nennleistung am geforderten Luftpunkt voraus. Für eine Pumpengruppe pro Gerät rechnen wir bei drei gleichen Gruppen zunächst mit zusammen 23.000 bis 29.000 EUR netto. Das ist ein Richtwert auf Basis der Typenliste.",
+        "Beste Grüße\nPia Nolte"
+      ]
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/04_Telefonnotizen_Markt.docx",
+      "title": "Telefonnotizen Markterkundung",
+      "issuer": "Krimpfort · Projekteinkauf",
+      "date": "2026-10-08",
+      "sections": [
+        {
+          "heading": "Nordland Gerätebau, 7. Oktober",
+          "paragraphs": [
+            "Der Hersteller bietet das Gerät in zweifach geteilten Sektionen an. Das breiteste Segment misst 0,98 m ohne Gestell. Eine Sonderteilung wäre technisch machbar, aber der Vertriebsleiter nennt 34 Wochen. Die Firma hat für den Juni-Termin keine Kapazität bestätigt."
+          ]
+        },
+        {
+          "heading": "Wattje, 8. Oktober",
+          "paragraphs": [
+            "Der technische Vertrieb hält 0,91 m mit Transporthilfe bei Verwendung des kurzen Rahmens für möglich. Er bittet um Nennung der verfügbaren Tiefe nach der Biegung. Die Prüfung der letzten 0,01 m bleibt Bestandteil der Werkplanung."
+          ]
+        },
+        {
+          "heading": "Noordkade, 8. Oktober",
+          "paragraphs": [
+            "Der Standard verwendet nach Auskunft des Vertriebs einen Rotor. Eine Planung mit getrennten Luftwegen sei möglich. Der Vertrieb wollte zum Telefontermin weder Mehrpreis noch Werktermin nennen. Die Frage wurde als eigener Punkt in den Entwurf der Angebotsanfrage übernommen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/02_Markterkundung/05_Marktpreise_Notizen.xlsx",
+      "sheets": [
+        {
+          "name": "Richtwerte",
+          "title": "Richtpreise aus den Vorgesprächen",
+          "note": "Stand 08.10.2026 · Unverbindliche Angaben und unterschiedliche Liefergrenzen",
+          "headers": [
+            "Rücklauf",
+            "Bezug",
+            "Untere Grenze netto EUR",
+            "Obere Grenze netto EUR",
+            "Preisgrenze",
+            "Vorlauf Wochen"
+          ],
+          "rows": [
+            [
+              "Luftwerkstatt",
+              "Ein S-Gerät",
+              108000,
+              125000,
+              "Ab Werk",
+              "24–28"
+            ],
+            [
+              "PolderVent",
+              "Drei Pumpengruppen",
+              23000,
+              29000,
+              "Externe Verrohrung separat",
+              null
+            ],
+            [
+              "Nordland",
+              "Sonderteilung",
+              null,
+              null,
+              "Kein Richtpreis genannt",
+              "34"
+            ],
+            [
+              "Wattje",
+              "Kurzer Rahmen",
+              null,
+              null,
+              "Maßprüfung nach LV",
+              null
+            ],
+            [
+              "Noordkade",
+              "Serienrotor",
+              null,
+              null,
+              "Trennvariante offen",
+              null
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/03_Leistungsverzeichnis/01_Abstimmung_Freigabe_R02.pdf",
+      "title": "Abstimmung und Freigabe RLT-LV R02",
+      "issuer": "Krimpfort · Technischer Einkauf",
+      "date": "2026-10-14",
+      "sections": [
+        {
+          "heading": "Mengen aus R03",
+          "paragraphs": [
+            "Die Fachplanung gibt 3 Geräte S, 4 Geräte W und 2 Geräte O frei. Die neun Transporte und Montagen bleiben einzeln bepreist. Die getrennte Werksprüfung erfolgt für drei Geräte der Gruppe S. Neun Geräte erhalten Inbetriebnahme und einen Datenpunkttest. Für zwei Jahre sind 18 einzelne Inspektionen vorgesehen."
+          ]
+        },
+        {
+          "heading": "Übernahme aus der Markterkundung",
+          "paragraphs": [
+            "In die Anfrage gehen Mindestquerschnitt, zulässige Transportmaße samt Rollrahmen, die drei Nachteinsätze und die Schnittstellen ein. Das LV lässt unterschiedliche Bauarten der Wärmerückgewinnung zu, sofern die Luftwege bei S getrennt bleiben. Externe Komponenten, die ein Anbieter zur Funktion benötigt, sind separat mit Einzelpreis und Leistungsaufnahme darzustellen."
+          ]
+        },
+        {
+          "heading": "Teilnehmerkreis und Versandfreigabe",
+          "paragraphs": [
+            "Emsried kommt aus der Krimpfort-Lieferantenliste. Das Unternehmen lieferte 2025 drei teilbare Zentralgeräte für den Umbau des Gesundheitszentrums in Moorwerder. Für die vorliegende Transportstrecke muss Emsried die Maße erneut nachweisen. Wattje hat eine Lösung mit kurzem Rahmen in Aussicht gestellt. PolderVent und Noordkade werden wegen ihrer unterschiedlichen Ansätze zur Wärmerückgewinnung einbezogen. Alle vier haben im Vorgespräch erklärt, Lieferung und Montage für das gesamte Paket anbieten zu können.",
+            "Luftwerkstatt wollte den Richtpreis ab Werk wegen der fehlenden Montagekapazität nicht zu einem Paketangebot ausbauen. Nordland hat für die Sonderteilung 34 Wochen genannt und den ersten Einbringungstermin nicht bestätigt. Einkauf sendet denselben LV-Stand an Emsried, Wattje, PolderVent und Noordkade. Abgabe bis 30.10.2026 um 12:00 Uhr. Die Projektleitung möchte Angebote mit Montage- oder Terminvorbehalt ausdrücklich gekennzeichnet sehen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Grundakte/03_Leistungsverzeichnis/02_Projektvorgaben_Kostenansatz.pdf",
+      "title": "Kosten- und Betriebsansätze für die Geräteauswahl",
+      "issuer": "Klinik am Huntepark · Technischer Betrieb",
+      "date": "2026-10-14",
+      "sections": [
+        {
+          "heading": "Betriebsstunden und Energie",
+          "paragraphs": [
+            "Für eine vergleichbare Variante mit belegtem Betriebspunkt setzen wir intern 4.700 Vollbenutzungsstunden für S01 und S02 und 4.300 für S03 an. Für die fünfjährige Gegenüberstellung liegt ein einheitlicher Arbeitspreis von 0,22 EUR/kWh netto zugrunde. Abweichende Teillastannahmen sind als eigene Variante auszuweisen. Interne und externe Hilfsenergie sollen anhand des angebotenen Systems ausgewiesen werden."
+          ]
+        },
+        {
+          "heading": "Budget",
+          "paragraphs": [
+            "Die Projektleitung hat intern 990.000 EUR netto für das Gerätepaket einschließlich Einbringung, Tests, externer Systemkomponenten des Pakets und zweijähriger Inspektion vorgesehen. Energie und betriebliche Wartung nach dem zweiten Jahr liegen beim Betreiber. Aufträge oberhalb des Budgets brauchen vor Versand die Zusatzfreigabe des kaufmännischen Leiters."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Nachlauf/01_Betriebsleitung_Terminfenster.eml",
+      "from_name": "Ingo Menke",
+      "from_email": "ingo.menke@huntepark-klinik.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-02T07:54:00+01:00",
+      "subject": "Süd | Zwischenspeicher und Ersatztermin S03",
+      "paragraphs": [
+        "Guten Morgen Frau Franke,",
+        "wir haben die Lagerfläche in der Nordhalle vom 21. bis 25. Juni neu an die Labormöbel vergeben. Eine externe trockene Zwischenlagerung und eine nächtliche Zuführung aus dem Lager können wir mit der Logistik abstimmen, wenn Sie uns Maße und Preis geben.",
+        "Der vorgeschlagene Ersatztermin am 3. August kollidiert mit dem Betrieb der Funktionsdiagnostik. Für Mittwoch, 28. Juli, kann die Betriebsleitung nach Rücksprache mit dem Bereitschaftsdienst eventuell vier Stunden freigeben. Geben Sie bitte bis 11. November Bescheid.",
+        "Mit freundlichen Grüßen\nIngo Menke"
+      ]
+    },
+    {
+      "filename": "Nachlauf/02_Wattje_Massblatt_und_Buergschaft.eml",
+      "from_name": "Tjark Peters",
+      "from_email": "t.peters@wattje.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-03T13:26:00+01:00",
+      "subject": "WR-6108 | Stand Rahmen, Freigabe und Bank",
+      "paragraphs": [
+        "Hallo Frau Franke,",
+        "das Werk hat das bisherige Maß bestätigt. Auf die rechte Rahmenseite kommt für den Transport noch ein Stoßschutz. Den Überstand hat die Werkplanung im beigefügten Maßblatt gesondert angegeben. Ich lasse die Breite im fertig verpackten Zustand nachmessen. Unsere Bank kann nach heutigem Stand eine selbstschuldnerische Bürgschaft anbieten. Das Muster des Auftraggebers hat sie noch nicht geprüft.",
+        "Mit freundlichen Grüßen\nTjark Peters"
+      ],
+      "attachments": [
+        "Nachlauf/03_Wattje_Rahmenzeichnung_Auszug.pdf"
+      ],
+      "reply_to": "Grundakte/04_Angebote/B_WR-6108.eml"
+    },
+    {
+      "filename": "Nachlauf/03_Wattje_Rahmenzeichnung_Auszug.pdf",
+      "title": "Begleitblatt Rahmen S-1 · Maßstand 3. November",
+      "issuer": "Wattje Raumluftsysteme GmbH",
+      "date": "2026-11-03",
+      "sections": [
+        {
+          "heading": "Breite",
+          "paragraphs": [
+            "Die gemessene Breite am Rollenrahmen beträgt 910 mm. Der vorgesehene Stoßschutz sitzt rechts 15 mm außerhalb des Rahmens. Für einen Austausch gegen eine innenliegende Lösung liegt noch keine Werkfreigabe vor."
+          ]
+        },
+        {
+          "heading": "Höhe und Gewicht",
+          "paragraphs": [
+            "Die Höhe von 2.000 mm umfasst die Rollen. Das Blatt nennt 740 kg einschließlich Rahmen. Die Schutzstreifen wiegen zusammen rund 3 kg. Das Werk führt die Außenkontur bis zur Entscheidung über die Schutzstreifen als vorläufig."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "Nachlauf/04_Emsried_Nachmessung_und_Termin.eml",
+      "from_name": "Ragna Boldt",
+      "from_email": "r.boldt@emsried.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-05T15:08:00+01:00",
+      "subject": "EK-26-881 | Termin Süd und Rahmen",
+      "paragraphs": [
+        "Hallo Frau Franke,",
+        "der neue Rahmen wäre voraussichtlich 0,915 m breit einschließlich der Rollen. Er benötigt eine separate Abnahme. Für die ersten beiden Einsätze haben wir nur eine Kolonne für die Nacht zum 2. Juli und eine für die Nacht zum 3. Juli frei. Den 29. Juni können wir zurzeit nicht zusagen.",
+        "Zum Prüfpunkt der Ventilatorleistung fehlt noch die Werksauswahl. Für die nächste Runde sende ich Ihnen das angepasste Datenblatt.",
+        "Viele Grüße\nRagna Boldt"
+      ],
+      "reply_to": "Grundakte/04_Angebote/A_EK-26-881.eml"
+    },
+    {
+      "filename": "Nachlauf/05_PolderVent_Pumpen_und_Produktion.eml",
+      "from_name": "Pia Nolte",
+      "from_email": "p.nolte@poldervent.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-06T08:17:00+01:00",
+      "subject": "PV-2713 | Produktionsfenster S03 und Pumpenstation",
+      "paragraphs": [
+        "Guten Morgen Frau Franke,",
+        "wenn wir die Bestellung bis Donnerstag, 12. November, 14 Uhr erhalten, können wir S03 für den 27. Juli am Werkstor bereitstellen. Die nächtliche Einbringung am selben Tag müsste über einen Direkttransport abgesichert werden. Der Spediteur hat uns eine endgültige Bestätigung noch nicht gegeben.",
+        "Die Anschlussverrohrung zwischen Gerät und Pumpenstation kann Ihr Rohrbauer übernehmen. Die Anschlussdaten haben wir dafür beigelegt. Ob die Leitungsführung auch für die Pumpe rechts am Gerät S03 passt, klären wir am Aufstellungsplan.",
+        "Beste Grüße\nPia Nolte"
+      ],
+      "attachments": [
+        "Nachlauf/06_PolderVent_Anschlussdaten.csv"
+      ],
+      "reply_to": "Grundakte/04_Angebote/C_PV-2713.eml"
+    },
+    {
+      "filename": "Nachlauf/06_PolderVent_Anschlussdaten.csv",
+      "headers": [
+        "Gerät",
+        "Pumpengruppe",
+        "Leistung Pumpe kW",
+        "Anschluss",
+        "Leitungslänge geplant m",
+        "Status"
+      ],
+      "rows": [
+        [
+          "S01",
+          "PV-KVS-3",
+          1.1,
+          "DN 50",
+          5,
+          "vorläufig"
+        ],
+        [
+          "S02",
+          "PV-KVS-3",
+          1.1,
+          "DN 50",
+          5,
+          "vorläufig"
+        ],
+        [
+          "S03",
+          "PV-KVS-3",
+          1.1,
+          "DN 50",
+          null,
+          "Aufstellrichtung offen"
+        ]
+      ]
+    },
+    {
+      "filename": "Nachlauf/07_Projektleitung_Freigaberunde.eml",
+      "from_name": "Katrin Wessels",
+      "from_email": "katrin.wessels@krimpfort.example",
+      "to_email": "maren.franke@krimpfort.example",
+      "date": "2026-11-09T11:09:00+01:00",
+      "subject": "RLT-Geräte | Unterlagen für Runde Mittwoch",
+      "paragraphs": [
+        "Hallo Maren,",
+        "am Mittwoch brauche ich eine Übersicht zu den vier Angeboten mit den Varianten für Süd. Bitte benenne die Kosten, die beim Rohrbau, in der Gebäudeautomation oder bei der externen Zwischenlagerung landen. Die Klinik möchte wissen, für welchen Termin wir das alte Gerät stehen lassen müssen.",
+        "Schick mir außerdem die Rückfragen, die bis Donnerstag beantwortet sein müssen. Eine Bestellfreigabe haben wir derzeit noch nicht. Der Vertrag für den Gerätelieferanten liegt beim kaufmännischen Team.",
+        "Viele Grüße\nKatrin"
+      ]
+    }
+  ]
+}

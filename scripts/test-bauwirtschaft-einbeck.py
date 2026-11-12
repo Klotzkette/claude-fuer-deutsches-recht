@@ -27,6 +27,12 @@ from PIL import Image, ImageStat
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_file_filter import include_in_working_dump
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    safe_archive_name,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 
 HERE=Path(__file__).resolve().parent
 def load(name,filename):
@@ -161,6 +167,12 @@ def main():
     pdf_pages=None
     if args.assets:
         individual_pages=0
+        include_combined = source_zip_includes_gesamt_pdf(B.CASE)
+        original_pairs = working_dump_archive_pairs(B.CASE, include_gesamt_pdf=include_combined)
+        combined_source = B.CASE / "gesamt-pdf" / f"{B.SLUG}_gesamt.pdf"
+        assert {source for source, _ in original_pairs} == (
+            set(all_original) | ({combined_source} if include_combined else set())
+        )
         for variant in ["", "-einzelpdfs"]:
             filename=f"testakte-{B.SLUG}{variant}.zip"
             candidates=[args.assets/filename,args.assets/"testakten-einzelpdfs"/filename,args.assets/"testakten"/filename]
@@ -168,15 +180,16 @@ def main():
             assert p is not None,f"Paket fehlt: {filename}"
             with zipfile.ZipFile(p) as z:
                 names=z.namelist();assert len(set(names))==len(names)
-                assert all("/" not in name and not name.endswith(".md") for name in names)
+                allow_directories = not variant and original_zip_preserves_directories(B.CASE)
+                assert all(safe_archive_name(name, allow_directories=allow_directories)
+                           and not name.endswith(".md") for name in names)
                 assert z.read("README.txt").startswith(NOTICE_BYTES)
                 if variant:
                     assert set(names)=={p.stem+".pdf" for p in all_original}|{"README.txt"}
                 else:
-                    extra=set(names)-{p.name for p in all_original}-{"README.txt"}
-                    assert extra.issubset({B.SLUG+"_gesamt.pdf","gesamt-pdf__"+B.SLUG+"_gesamt.pdf"}),extra
-                    assert set(B.FILES.values()).issubset(names)
-                    for name in B.FILES.values():assert z.read(name)==(B.CASE/name).read_bytes(),name
+                    assert set(names) == {"README.txt", *(name for _, name in original_pairs)}
+                    for source, name in original_pairs:
+                        assert z.read(name) == source.read_bytes(), name
                 for name in names:
                     if name.endswith(".pdf"):
                         pdf=PdfReader(io.BytesIO(z.read(name)))

@@ -113,7 +113,7 @@ Rechnen Sie den Entscheidungsstand am 4. Dezember vor 16 Uhr und den Rückfall n
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Beide ZIPs enthalten den Ordner `00_LV_Entstehung` mit Planung, Markterkundung und LV-Freigabe. Die Unterlagen zur Angebotsphase und Verhandlung liegen auf der Wurzelebene. Das Originalformat-ZIP enthält die Arbeitsdateien einschließlich GAEB. Das Einzel-PDF-ZIP liefert die Aktenstücke jeweils als PDF. Die Lesezeichen im Gesamt-PDF führen zu den einzelnen Unterlagen.
+Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Unter `00_LV_Entstehung` liegen Planung, Markterkundung und LV-Freigabe. In der Grundakte finden Sie außerdem das gemeinsame LV und die vier ersten Angebote mit GAEB-Dateien. Spätere Rückfragen, Nachträge und Verhandlungsunterlagen folgen außerhalb der Grundakte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -122,11 +122,11 @@ Beide ZIPs enthalten den Ordner `00_LV_Entstehung` mit Planung, Markterkundung u
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf`](gesamt-pdf/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Das Einzel-PDF-ZIP enthält die Lesefassungen der einzelnen Dokumente. Die Lesezeichen im Gesamt-PDF führen zu den Aktenstücken.
 
-English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: The original-format ZIP starts with the initial records under `Grundakte`. They include planning, market research, the final bill of quantities and the first four bids. Later correspondence is available outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->

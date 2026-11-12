@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Krankenhaus Auenhöhe in Thüringen](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/README.md) | [Gesamt-PDF](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/gesamt-pdf/krankenhaus-it-ki-auenhoehe-thueringen_gesamt.pdf) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip) |
+| [Krankenhaus Auenhöhe in Thüringen](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/README.md) | [Gesamt-PDF](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/gesamt-pdf/krankenhaus-it-ki-auenhoehe-thueringen_gesamt.pdf) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

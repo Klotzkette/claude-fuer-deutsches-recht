@@ -95,23 +95,22 @@ class AlltagsaktenTests(unittest.TestCase):
     def test_archives_sources_and_full_pdf_text(self):
         base = Path(os.environ['KOMMUNALE_ALLTAG_ZIPS'])
         for case in CASES:
-            from testakte_zip_common import working_dump_archive_pairs
+            from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
             from testakte_einzelpdf_common import document_arcname_pairs
-            native_pairs = dict((arc,p) for p,arc in working_dump_archive_pairs(directory(case), include_gesamt_pdf=False))
+            case_dir = directory(case)
+            native_pairs = dict((arc,p) for p,arc in working_dump_archive_pairs(case_dir, include_gesamt_pdf=source_zip_includes_gesamt_pdf(case_dir)))
             originals = set(native_pairs)
             for suffix in ('','-einzelpdfs'):
                 with zipfile.ZipFile(base/f"testakte-{case['slug']}{suffix}.zip") as z:
                     self.assertIsNone(z.testzip())
                     names = z.namelist()
                     self.assertEqual(len(names), len(set(names)))
-                    self.assertTrue(all('/' not in n for n in names))
+                    self.assertTrue(all(safe_archive_name(n, allow_directories=not suffix and original_zip_preserves_directories(case_dir)) for n in names))
                     self.assertTrue(z.read('README.txt').decode().startswith(NOTICE_TEXT))
                     if not suffix:
-                        combined = f"{case['slug']}_gesamt.pdf"
-                        self.assertEqual(set(names), originals | {'README.txt',combined})
+                        self.assertEqual(set(names), originals | {'README.txt'})
                         for name in originals:
                             self.assertEqual(z.read(name), native_pairs[name].read_bytes(), name)
-                        self.assertEqual(z.read(combined), (directory(case)/'gesamt-pdf'/combined).read_bytes())
                     else:
                         self.assertEqual(set(names), {arc for p,arc in document_arcname_pairs(directory(case))} | {'README.txt'})
                         for item in case['documents']:

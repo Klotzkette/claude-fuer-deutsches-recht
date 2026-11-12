@@ -15,20 +15,25 @@ Der Bestand umfasst 41 Originalunterlagen und 41 PDF-Seiten: 24 PDF-Belege, 7 Wo
 Alle Personen, Unternehmen, Anschriften, Kontakte und Aktenzeichen sind erfunden. Reale Ortsnamen bilden nur den geografischen Rahmen. Kontaktadressen verwenden reservierte .example-Domains.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
 
-## 1.2. Downloads
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Format | Download |
-| --- | --- |
-| Gesamt-PDF | [Gesamte Akte](gesamt-pdf/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen_gesamt.pdf) |
-| Einzel-PDF-ZIP | [Jede Unterlage als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen-einzelpdfs.zip) |
-| Akten-ZIP | [Originale als PDF, DOCX, EML und XLSX](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen.zip) |
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen_gesamt.pdf`](gesamt-pdf/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen-einzelpdfs.zip) |
 
-Die ZIPs sind flach und enthalten jeweils 41 Unterlagen sowie README.txt mit dem zweisprachigen Hinweis. Markdown-Dateien und das Gesamt-PDF sind nicht Teil des Original-ZIPs. E-Mail-Anlagen werden in der PDF-Lesefassung nicht erneut angehängt, weil sie als einzelne Unterlagen enthalten sind.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

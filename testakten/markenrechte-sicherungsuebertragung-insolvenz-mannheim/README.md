@@ -8,9 +8,9 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin](../../fachanwalt-urheber-medienrecht/README.md) · [Download-Index](../../ASSET_INDEX.md)
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Die Akte steht in drei getrennten Fassungen bereit. Das Gesamt-PDF ist die Lesefassung. Das Originalformat-ZIP enthält ausschließlich die nativen Aktenstücke und die vorgeschriebene README.txt; das Gesamt-PDF, redaktionelle Dateien und eine Lösung sind darin nicht enthalten. Das Einzel-PDF-ZIP enthält jede Aktenunterlage als eigene PDF-Datei.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -18,11 +18,13 @@ Die Akte steht in drei getrennten Fassungen bereit. Das Gesamt-PDF ist die Lesef
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF | PDF | [`gesamt-pdf/markenrechte-sicherungsuebertragung-insolvenz-mannheim_gesamt.pdf`](gesamt-pdf/markenrechte-sicherungsuebertragung-insolvenz-mannheim_gesamt.pdf) |
-| Akten-ZIP (Originalformate, ohne Gesamt-PDF) | ZIP | [`testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.1/testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip) |
-| Einzel-PDF-ZIP | ZIP | [`testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.1/testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim-einzelpdfs.zip) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/markenrechte-sicherungsuebertragung-insolvenz-mannheim_gesamt.pdf`](gesamt-pdf/markenrechte-sicherungsuebertragung-insolvenz-mannheim_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.1/testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim-einzelpdfs.zip) |
 
-English: The original-format ZIP contains native working files only. It does not include the combined PDF, editorial files, or a solution. The individual-PDF ZIP contains one PDF per source document.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

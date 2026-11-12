@@ -2,7 +2,7 @@
 
 Das Plugin unterstützt Rechts- und Compliance-Teams eines Industriekonzerns bei konkreten Entscheidungen. Es ordnet Zuständigkeiten und Belege, bereitet Freigaben, Ermittlungen, Kontrollentscheidungen und Organvorlagen vor und hält die Grenzen der jeweiligen Freigabe fest.
 
-In 39 fiktiven Fällen übernehmen Sie die Rolle der Konzern-Compliance. Die meisten Akten spielen bei Merrensteg Elektrosysteme SE, einem Hersteller von Industrieantrieben und Schalttechnik in Hameln. Die Schokoladenakte führt in eine eigenständige Lebensmittelfabrik der Region. Jeder Fall beginnt mit einer lesbaren Geschichte über Betrieb, Beteiligte, Konflikt und anstehende Entscheidung. Der Einstieg führt in der Reihenfolge der Bearbeitung zu den Originalstücken und erklärt, wo die digitale Auswertung oder der Prozess in die Irre führen kann.
+In 41 fiktiven Fällen übernehmen Sie die Rolle der Konzern-Compliance. Die meisten Akten spielen bei Merrensteg Elektrosysteme SE, einem Hersteller von Industrieantrieben und Schalttechnik in Hameln. Die Schokoladenakte führt in eine eigenständige Lebensmittelfabrik der Region. Jeder Fall beginnt mit einer lesbaren Geschichte über Betrieb, Beteiligte, Konflikt und anstehende Entscheidung. Der Einstieg führt in der Reihenfolge der Bearbeitung zu den Originalstücken und erklärt, wo die digitale Auswertung oder der Prozess in die Irre führen kann.
 
 ## 1 Einstieg
 
@@ -88,6 +88,20 @@ Jeder Fachskill kann direkt aufgerufen werden. Er verarbeitet die vorhandenen Un
 | ME-38 · [Das Wochenende des Geschäftsführers](../testakten/compliance-hameln-geschenk-geschaeftsfuehrung/README.md) | Einladung an den Geschäftsführer, Vergabeentscheidung, Interessenkonflikt und Kontrollspur |
 | ME-39 · [Das Sicherheitsrelais mit der falschen Freigabe](../testakten/compliance-hameln-sicherheitsrelais-hinweis/README.md) | Sicherheitsrelais, widersprüchliche Prüfbelege, Feldmaßnahmen und Schutz nach einem Hinweis |
 
+### 4.1 Produktsicherheit, Lieferungen und Wirtschaftskriminalität
+
+| Vorgang | Anstehende Entscheidung |
+| --- | --- |
+| [ME-07 · Kühlung für den umgebauten Antrieb](../testakten/compliance-hameln-retrofit-beratung/README.md) | Welche Montage war vereinbart und wie lässt sich der Ausfall der belgischen Verpackungslinie unter Last prüfen? |
+| [ME-08 · Zwei Termine im Regulierungsmonitor](../testakten/compliance-hameln-meldefrist-firmware/README.md) | Welcher Hinweis betrifft einen vernetzten Controller und wann wurde aus der technischen Warnung ein konkreter Kundenfall? |
+| [ME-13 · Der Treffer mit zwei Adressen](../testakten/compliance-hameln-treffer-im-lieferantencheck/README.md) | Welche Stromschienen werden wann benötigt, welche Firma betrifft der Screeningtreffer und woher stammt die geänderte Zahlstelle? |
+| [ME-14 · Die sechs Rechnungen für eine Nachtschicht](../testakten/compliance-hameln-untersuchung-servicekonto/README.md) | Welche Rechnungen betreffen Arbeit vor Ort, welche die Vorhaltung eines Teams und welche Belege können das unterscheiden? |
+| [ME-19 · Dreimal dieselbe Seriennummer](../testakten/compliance-hameln-seriennummer-fruehwarnung/README.md) | Welche Schaltzellen wurden geprüft und wo wurde lediglich die Kennung des Prüfadapters übernommen? |
+| [ME-24 · Acht Prozent für eine Türöffnung](../testakten/compliance-hameln-vertriebspartner-marktstart/README.md) | Was soll der Vermittler in Deutschland, Österreich und den Niederlanden tun und wie sind Leistung und Vergütung jeweils nachzuweisen? |
+| [ME-39 · Das Sicherheitsrelais mit der falschen Freigabe](../testakten/compliance-hameln-sicherheitsrelais-hinweis/README.md) | Welche Geräte sind beim deutschen oder belgischen Integrator und für welche Anlagen muss vor der Abnahme gehandelt werden? |
+| [ME-40 · Drei Angebotspreise in der Datei des Prüfdienstes](../testakten/compliance-hameln-schaltanlagen-parallele-angebote/README.md) | Was zeigen die Preiszeilen eines gemeinsamen Prüfdienstes bei zwei Schaltanlagen-Ausschreibungen in Deutschland und den Niederlanden? |
+| [ME-41 · Dieselben Prüfkosten in zwei Förderabrufen](../testakten/compliance-hameln-foerderabruf-pruefstand-eu/README.md) | Welche Ausgaben für den deutsch-tschechischen Prüfstand wurden bereits erklärt oder ausgezahlt und was ist am Portalstand zu berichtigen? |
+
 ## 5 Workshop-Downloads
 
 Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PDF mit Lesezeichen. Die Materialien enthalten EML, DOCX, XLSX, CSV, PNG und PDF. Ausgewählte Besprechungen enthalten zusätzlich bearbeitbare PowerPoint-Folien.
@@ -98,16 +112,16 @@ Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PD
 
 | Paket | Datei |
 | --- | --- |
-| 39 Arbeitsakten in Originalformaten und bearbeitbare Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-k17-v1.1.0/Hameln_Compliance_39_Praxisakten.zip) |
+| 41 Arbeitsakten mit Grundakte und bearbeitbare Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/Hameln_Compliance_41_Praxisakten.zip) |
 | 35 getrennte fallbezogene Prüfblätter aus den beiden Reihen | [Nachbesprechung als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_Nachbesprechung_35.zip) |
 | ME-37 · Die Tafel aus Charge K17 mit Grundakte und Befragungen | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-k17-v1.1.0/testakte-compliance-hameln-schokolade-charge-k17.zip) |
-| ME-36 · Auskunft nach Art. 15 DSGVO | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) · [Fall und Moderationsmaterial](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/README.md) |
+| ME-36 · Auskunft nach Art. 15 DSGVO | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/testakte-compliance-hameln-auskunft-mit-schwaerzungen.zip) · [Fall und Moderationsmaterial](../testakten/compliance-hameln-auskunft-mit-schwaerzungen/README.md) |
 
 Die Nachbesprechung enthält die bisherigen Prüfblätter der beiden Fallreihen. Die ergänzenden Stellungnahmen und Sicherungsprotokolle sind im eigenen Durchlauf zusätzlich gegen die ursprünglichen Belege zu prüfen. Die Aktenseiten bieten die jeweiligen Originalformat-ZIPs und Einzel-PDF-ZIPs; die Nachbesprechung liegt getrennt von diesen Arbeitsunterlagen.
 
 ## 6 Ablauf der Vorführung
 
-Lesen Sie gemeinsam den Sachverhalt am Anfang. Klären Sie in einem Satz, wer heute über was entscheiden muss. Laden Sie für die erste Runde nur die dort benannten Ausgangsbelege. Fordern Sie eine Erklärung in Alltagssprache und eine vorläufige Entscheidung. Legen Sie die widersprechende Unterlage erst dann nach. Die Prüfmatrix gehört an das Ende des Durchlaufs. Sie verknüpft die entscheidenden Aussagen mit Originalstellen und zeigt, was noch fehlt.
+Lesen Sie gemeinsam den Sachverhalt am Anfang. Klären Sie in einem Satz, wer heute über was entscheiden muss. Entpacken Sie zuerst den Ordner `Grundakte` aus dem Originalformat-ZIP. Beginnen Sie mit den dort vorhandenen Eingangsmails, Belegen und Rohdaten. Fordern Sie eine Erklärung in Alltagssprache und eine vorläufige Entscheidung. Legen Sie die widersprechende Unterlage erst dann nach. Die Prüfmatrix gehört an das Ende des Durchlaufs. Sie verknüpft die entscheidenden Aussagen mit Originalstellen und zeigt, was noch fehlt.
 
 | Wenn Sie vorführen möchten, wie … | Öffnen Sie … | Woran Sie den Nutzen erkennen |
 | --- | --- | --- |

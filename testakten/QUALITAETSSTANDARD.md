@@ -8,11 +8,11 @@ Jede Testakte wird in drei gleichwertigen Fassungen ausgeliefert:
 
 1. Gesamt-PDF: ein konsolidiertes, durchsuchbares PDF unter `gesamt-pdf/<aktenordner>_gesamt.pdf`, damit sich die Akte am Stück lesen und ausdrucken lässt. Es enthält weder eine Hinweisseite noch den verbindlichen zweisprachigen Warntext; dieser steht unmittelbar über dem Downloadlink oder der Downloadtabelle auf der README-Seite.
 2. Einzel-PDF-ZIP: jede Unterlage als eigene PDF ohne Hinweisseite oder Warntext. Im Regelfall liegen sämtliche PDFs unmittelbar auf der Wurzelebene des ZIPs; frühere Ordnernamen werden bei Bedarf mit doppeltem Unterstrich in den Dateinamen übernommen. Hinzu kommt die UTF-8-kodierte `README.txt`, die mit dem verbindlichen zweisprachigen Hinweis beginnt.
-3. Akten-ZIP: die disparaten Originaldateien in realistischen Formaten, etwa EML, DOCX, XLSX, CSV, PPTX, PDF, JPG, PNG oder TXT. Im Regelfall ist auch dieses ZIP vollständig flach und enthält weder Unterordner noch Markdown-Dateien. Hinzu kommt ausschließlich die UTF-8-kodierte `README.txt`, die mit dem verbindlichen zweisprachigen Hinweis beginnt.
+3. Akten-ZIP: die disparaten Originaldateien in realistischen Formaten, etwa EML, DOCX, XLSX, CSV, PPTX, PDF, JPG, PNG oder TXT. Für Fälle mit gesonderten Eingangsunterlagen enthält das Archiv den Ordner `Grundakte`. Projektakten können weitere Unterordner führen. Das Archiv enthält die UTF-8-kodierte `README.txt` mit dem verbindlichen zweisprachigen Hinweis.
 
 Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben den heterogenen Originaldateien. Die beiden ZIPs müssen nach dem Öffnen ihre Ablage ohne vorgeschalteten Aktenordner zeigen.
 
-**Ausdrücklich bestellte Projektordner:** Für `bauwirtschaft-hildesheim-lebensakte`, `fintech-darlehen-vertragsuebernahme-bremen`, `bauvergabe-klinikum-muenster` und `bauvergabe-wohnhaus-bielefeld` bleiben auf Nutzerwunsch die relativen Unterordner in beiden ZIP-Varianten erhalten. Die `README.txt` steht weiterhin zuerst auf der ZIP-Wurzel. Pfadtraversal, absolute Pfade, Steuerzeichen und Namenskollisionen bleiben ausgeschlossen. Alle anderen Akten behalten ihre flachen Archive.
+**Ausdrücklich bestellte Projektordner:** Die im [ZIP-Builder](../scripts/testakte_zip_common.py) geführten Projektakten erhalten ihre relative Ablage in beiden ZIP-Varianten. Die `README.txt` steht zuerst auf der ZIP-Wurzel. Die Prüfung schließt Pfadtraversal, absolute Pfade, Steuerzeichen und Namenskollisionen aus.
 
 ## Inhaltliche Qualität
 
@@ -26,9 +26,9 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 
 ### Grundakte für die erste Bearbeitung
 
-Akten für Steuerrecht, Forderungsmanagement, Pflegerecht und Sozialversicherungsstatus enthalten im Originalformat-ZIP den Unterordner `Grundakte`. Er bildet die beim ersten Auftrag verfügbare Sachgrundlage ab. Ein bereits ergangener Ausgangsbescheid kann dazugehören. Ausgearbeitete Rechtsbehelfe, Entscheidungen darüber, gerichtliche Stücke, Lösungstexte und die Gesamt-PDF stehen außerhalb der Grundakte. Bei Mischdokumenten ist ein klar bezeichneter Tatsachenauszug möglich. Prüfen Sie bei E-Mails auch die eingebetteten Anlagen.
+Fallakten mit ausreichend abgrenzbaren Eingangsunterlagen enthalten im Originalformat-ZIP den Unterordner `Grundakte`. Er bildet die für den ersten Arbeitsauftrag belegbare Sachgrundlage ab, etwa durch Erstkontakt, Verträge, E-Mails, Buchungen, Tabellen, Bilder oder technische Rohdaten. Ein bereits ergangener Ausgangsbescheid kann dazugehören. Ausgearbeitete Rechtsbehelfe, Entscheidungen darüber, gerichtliche Stücke, Lösungstexte und die Gesamt-PDF stehen außerhalb der Grundakte. Bei Mischdokumenten ist ein klar bezeichneter Tatsachenauszug möglich. Prüfen Sie bei E-Mails auch die eingebetteten Anlagen.
 
-Die Auswahl wird je Fall in [testakten-grundakten.json](../scripts/data/testakten-grundakten.json) ausdrücklich erfasst. Jede ausgewählte Datei steht genau einmal im Originalformat-ZIP. Die Einzel-PDFs und die Gesamt-PDF sind gesonderte Darreichungsformen der Akte.
+Die Auswahl ist je Fall als Dateiliste im [Eingangsbestand](../scripts/data/testakten-grundakten-eingangsbestand.json), im [Bestand für Steuerrecht, Forderungsmanagement, Pflege und Status](../scripts/data/testakten-grundakten.json) oder in der jeweiligen Projektakte erfasst. Jede ausgewählte Datei steht als selbstständiges Aktenstück einmal im Originalformat-ZIP. Eingebettete MIME-Anlagen bleiben erhalten. Für diese Archive bleibt die Gesamt-PDF eine separate Lesefassung. Eine bereits als Ordnerakte angelegte Testakte kann dieselbe Phase auch im Einzel-PDF-ZIP abbilden.
 
 ## Dateiformate im Akten-ZIP — Grundregel für alle Testakten
 
