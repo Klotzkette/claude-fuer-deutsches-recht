@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -14,12 +14,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zwangsverwaltung-friedrichshoefe-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zwangsverwaltung-friedrichshoefe-berlin-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -31,7 +31,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-zwangsverwaltung-friedrichshoefe-berlin` (Akte) | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
+| `testakte-zwangsverwaltung-friedrichshoefe-berlin` (Akte) | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 

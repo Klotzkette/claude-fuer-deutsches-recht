@@ -23,6 +23,12 @@ from pypdf import PdfReader
 import yaml
 from readme_decimal_headings import normalize_decimal_headings
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN, pdf_content_errors
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    safe_archive_name,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 
 HERE = Path(__file__).resolve().parent
 spec = importlib.util.spec_from_file_location("hoai456_qa", HERE / "build-bauwirtschaft-hoai-4-6-qa.py")
@@ -194,27 +200,30 @@ class ExportTests(unittest.TestCase):
         for phase, count in COUNTS.items():
             slug = QA.SLUGS[phase]
             originals = QA.original_files(phase)
+            directory = case(phase)
+            total = directory / "gesamt-pdf" / f"{slug}_gesamt.pdf"
+            include_combined = source_zip_includes_gesamt_pdf(directory)
+            original_pairs = working_dump_archive_pairs(directory, include_gesamt_pdf=include_combined)
+            self.assertEqual({p for p, _ in original_pairs},
+                             set(originals) | ({total} if include_combined else set()))
             for pdf_mode in (False, True):
                 suffix = "-einzelpdfs" if pdf_mode else ""
                 path = ASSETS / f"testakte-{slug}{suffix}.zip"
                 with self.subTest(asset=path.name), zipfile.ZipFile(path) as archive:
                     names = archive.namelist()
                     self.assertEqual(len(names), len(set(names)))
-                    self.assertTrue(all("/" not in name and "\\" not in name and name.isascii() for name in names))
+                    allow_directories = not pdf_mode and original_zip_preserves_directories(directory)
+                    self.assertTrue(all(name.isascii() and safe_archive_name(name, allow_directories=allow_directories)
+                                        for name in names))
                     notice = archive.read("README.txt")
                     self.assertEqual(notice, NOTICE_BYTES)
-                    expected = {p.with_suffix(".pdf").name if pdf_mode else p.name for p in originals} | {"README.txt"}
-                    combined = f"{slug}_gesamt.pdf"
-                    if not pdf_mode:
-                        expected.add(combined)
-                        self.assertEqual(archive.read(combined), (case(phase) / "gesamt-pdf" / f"{slug}_gesamt.pdf").read_bytes())
+                    pairs = [(p, p.with_suffix(".pdf").name) for p in originals] if pdf_mode else original_pairs
+                    expected = {"README.txt", *(name for _, name in pairs)}
                     self.assertEqual(set(names), expected)
-                    for source in originals:
-                        name = source.with_suffix(".pdf").name if pdf_mode else source.name
+                    for source, name in pairs:
                         data = archive.read(name)
                         if name.endswith(".pdf"): self.assertEqual(pdf_content_errors(data), [])
                         if not pdf_mode: self.assertEqual(data, source.read_bytes())
-            total = case(phase) / "gesamt-pdf" / f"{slug}_gesamt.pdf"
             data = total.read_bytes()
             self.assertEqual(pdf_content_errors(data), [])
             text = "\n".join(p.extract_text() or "" for p in PdfReader(io.BytesIO(data)).pages)

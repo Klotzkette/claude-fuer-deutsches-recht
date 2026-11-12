@@ -1,0 +1,18 @@
+From: niels.vanderveen@waalmeer.example
+To: service@merrensteg.example
+Subject: ME-08 | Unbekannter Zugriff auf C18 im Wartungsnetz
+Date: Sun, 18 Oct 2026 22:02:00 +0200
+Message-ID: <me-08.32.industrie@merrensteg.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Bei unserer Anlage in Nijmegen hat sich heute um 20.16 Uhr ein zuvor unbekann=
+ter Client mit dem Wartungsport verbunden. Nach dem Verbindungsaufbau wurde e=
+in Diagnosewert abgerufen. Der Wartungsrechner unseres Integrators war nach d=
+essen Aussage vom Netz getrennt.
+
+Wir haben die Route anschlie=C3=9Fend geschlossen und lassen den Controller i=
+m abgesicherten Betrieb. An der Maschine ist die Firmware 3.7 vermerkt. Die S=
+teuerungsdaten zeigen keine =C3=84nderung der Drehzahlsollwerte. Eine Zuordnu=
+ng des Clients k=C3=B6nnen wir noch nicht liefern.

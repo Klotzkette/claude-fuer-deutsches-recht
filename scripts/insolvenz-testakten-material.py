@@ -277,7 +277,11 @@ def inspect_material(material):
         directory = case / INSOLVENZ_PRUEFMATERIAL
         if not directory.is_dir() or set(entries) != {path.name for path in directory.iterdir()}:
             raise ValueError(f"Unvollständiger oder unerwarteter Materialbestand: {slug}")
-        if download_block(entries) not in (case / "README.md").read_text(encoding="utf-8"):
+        readme = (case / "README.md").read_text(encoding="utf-8")
+        readme = re.sub(r"^<!-- decimal-anchor -->.*\n\n?", "", readme, flags=re.M)
+        readme = re.sub(r"^## (?:\d+\.)+ Vorlagen und Vergleichsmaterial$", "## Vorlagen und Vergleichsmaterial",
+                        readme, flags=re.M)
+        if download_block(entries) not in readme:
             raise ValueError(f"Downloadverzeichnis fehlt oder ist veraltet: {slug}")
         outputs = {}
         for name, source in entries.items():

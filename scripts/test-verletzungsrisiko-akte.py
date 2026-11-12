@@ -19,7 +19,7 @@ import yaml
 
 from verletzungsrisiko_akte_daten import SLUG, TITLE, DOCUMENTS, TEXTS, CSV_NAME, ATTACHMENTS
 from testakte_disclaimer import NOTICE_BYTES
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 from testakte_einzelpdf_common import document_arcname_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -107,19 +107,20 @@ class Verletzungsrisiko(unittest.TestCase):
         self.assertNotIn('Diese Testakte wurde mit KI generiert', text)
         self.assertNotIn('This test case file was generated', text)
 
-    def test_native_zip_bytes_and_flatness(self):
+    def test_native_zip_bytes_and_safe_paths(self):
         path = PACKAGES/f'testakte-{SLUG}.zip'
         if not path.exists():
             self.skipTest('Archivprüfung benötigt VERLETZUNG_PAKETE oder dist')
         with zipfile.ZipFile(path) as archive:
             names = archive.namelist()
             self.assertEqual(len(names), len(set(names)))
-            self.assertFalse(any('/' in n or '\\' in n for n in names))
-            self.assertEqual(set(names), {arc for p,arc in working_dump_archive_pairs(CASE, include_gesamt_pdf=True)} | {'README.txt'})
+            allow_directories = original_zip_preserves_directories(CASE)
+            self.assertTrue(all(safe_archive_name(name, allow_directories=allow_directories) for name in names))
+            pairs = working_dump_archive_pairs(CASE, include_gesamt_pdf=source_zip_includes_gesamt_pdf(CASE))
+            self.assertEqual(set(names), {name for _, name in pairs} | {'README.txt'})
             self.assertTrue(archive.read('README.txt').startswith(NOTICE_BYTES))
-            for name in NAMES:
-                self.assertEqual(archive.read(name), (CASE/name).read_bytes())
-            self.assertEqual(archive.read(PDF.name), PDF.read_bytes())
+            for source, name in pairs:
+                self.assertEqual(archive.read(name), source.read_bytes())
 
     def test_individual_pdf_zip(self):
         path = PACKAGES/f'testakte-{SLUG}-einzelpdfs.zip'

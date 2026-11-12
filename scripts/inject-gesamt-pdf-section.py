@@ -92,11 +92,6 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             intro += ' Im Einzel-PDF-ZIP bleibt dieselbe Ordnerstruktur erhalten; jede Originalunterlage liegt als eigene A4-Lesefassung vor.'
         english = ('English: This project-file edition preserves its subfolders in both ZIP formats. '
                    'The original-format ZIP contains editable working documents and supporting records, without Markdown.')
-        if slug == 'bauunternehmer-einkauf-brandschutztueren-krimpfort':
-            intro = ('Beide ZIPs enthalten den Ordner `00_LV_Entstehung` mit Planung, Markterkundung und '
-                     'LV-Freigabe. Die Unterlagen zur Angebotsphase und Verhandlung liegen auf der Wurzelebene. '
-                     'Das Originalformat-ZIP enthält die Arbeitsdateien einschließlich GAEB. Das Einzel-PDF-ZIP '
-                     'liefert die Aktenstücke jeweils als PDF. Die Lesezeichen im Gesamt-PDF führen zu den einzelnen Unterlagen.')
         if slug == 'compliance-hameln-schokolade-charge-k17':
             intro = ('Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Dort liegt der Stand der Entdeckung '
                      'vom 6. November 2026, 09:25 Uhr. Die späteren Arbeitsstücke stehen in den Ordnern '
@@ -124,6 +119,16 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
                    "für die Nachbesprechung getrennt bereit.")
         english = ("English: Start with the `Grundakte` folder in the original-format ZIP. It contains "
                    "the selected intake records. Later procedural documents are outside that folder.")
+    if slug == 'bauunternehmer-einkauf-brandschutztueren-krimpfort':
+        intro = ('Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Unter `00_LV_Entstehung` liegen '
+                 'Planung, Markterkundung und LV-Freigabe. In der Grundakte finden Sie außerdem das gemeinsame '
+                 'LV und die vier ersten Angebote mit GAEB-Dateien. Spätere Rückfragen, Nachträge und '
+                 'Verhandlungsunterlagen folgen außerhalb der Grundakte.')
+        trailer = ('Das Einzel-PDF-ZIP enthält die Lesefassungen der einzelnen Dokumente. '
+                   'Die Lesezeichen im Gesamt-PDF führen zu den Aktenstücken.')
+        english = ('English: The original-format ZIP starts with the initial records under `Grundakte`. '
+                   'They include planning, market research, the final bill of quantities and the first four bids. '
+                   'Later correspondence is available outside that folder.')
     if pdf_rel is not None:
         if source_zip_includes_gesamt_pdf(TESTAKTEN_DIR / slug):
             english += " Choose the combined PDF for reading; it is also included in that ZIP."

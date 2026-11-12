@@ -19,7 +19,7 @@ from vorfuehrakte_gesellschafter_berlin import CASE as BERLIN
 from vorfuehrakte_gesellschafter_muenchen import CASE as MUENCHEN
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN, NOTICE_FILENAME
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import safe_archive_name, working_dump_archive_pairs
+from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 CASES = [BERLIN, MUENCHEN]
@@ -35,11 +35,11 @@ class CasesTest(unittest.TestCase):
         originals = working_dump_archive_pairs(case_dir, include_gesamt_pdf=False)
         documents = document_arcname_pairs(case_dir)
         self.assertEqual({p for p, _ in documents}, {p for p, _ in originals})
-        pairs = documents if einzelpdfs else working_dump_archive_pairs(case_dir, include_gesamt_pdf=True)
+        pairs = documents if einzelpdfs else working_dump_archive_pairs(case_dir, include_gesamt_pdf=source_zip_includes_gesamt_pdf(case_dir))
         self.assertIsNone(archive.testzip())
         names = archive.namelist()
         self.assertEqual(len(names), len({name.casefold() for name in names}))
-        self.assertTrue(all(safe_archive_name(name, allow_directories=False) for name in names))
+        self.assertTrue(all(safe_archive_name(name, allow_directories=not einzelpdfs and original_zip_preserves_directories(case_dir)) for name in names))
         self.assertEqual(set(names), {NOTICE_FILENAME, *(name for _, name in pairs)})
         self.assertEqual(archive.read(NOTICE_FILENAME), NOTICE_BYTES)
         for source, name in pairs:

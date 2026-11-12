@@ -280,13 +280,14 @@ def write_eml(path, record, case, directory, documents):
     attachments = record.get('attachments', [])
     body = '\n\n'.join(record['paragraphs']) + '\n'
     if attachments:
-        body += '\nAnlagen dieser Nachricht\n' + '\n'.join(attachments) + '\n'
+        body += '\nAnlagen dieser Nachricht\n' + '\n'.join(Path(name).name for name in attachments) + '\n'
     msg.set_content(body, charset='utf-8', cte='quoted-printable')
     for filename in attachments:
         if filename not in documents or Path(filename).suffix == '.eml':
             raise ValueError('Anlage fehlt im Aktenverzeichnis: ' + filename)
         main, subtype = (mimetypes.guess_type(filename)[0] or 'application/octet-stream').split('/', 1)
-        msg.add_attachment((directory / filename).read_bytes(), maintype=main, subtype=subtype, filename=filename)
+        msg.add_attachment((directory / filename).read_bytes(), maintype=main, subtype=subtype,
+                           filename=Path(filename).name)
     if attachments:
         msg.set_boundary(f"{case['id']}-{path.stem}-anlagen")
     path.write_bytes(msg.as_bytes())

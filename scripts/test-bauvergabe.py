@@ -22,7 +22,7 @@ from bauvergabe_aktentexte import documents
 from prompt_profiles import validate_files
 from quality_lab import validate_profile
 from release_routing import validate_plugin_version
-from testakte_zip_common import working_dump_archive_pairs, preserves_directories
+from testakte_zip_common import working_dump_archive_pairs, preserves_directories, source_zip_includes_gesamt_pdf
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_einzelpdf_common import document_arcname_pairs
 
@@ -175,7 +175,11 @@ class Bauvergabe(unittest.TestCase):
         exported=working_dump_archive_pairs(folder,include_gesamt_pdf=False)
         self.assertEqual({p.relative_to(folder).as_posix() for p,_ in exported},wanted,
                          'Exportfilter hat native Aktenstücke verworfen oder zusätzliche Dateien aufgenommen.')
-        self.assertEqual({name for _,name in exported},wanted)
+        expected_names = {
+            f'Grundakte/{name}' if name.startswith('01-vergabeunterlagen/') else name
+            for name in wanted
+        }
+        self.assertEqual({name for _,name in exported},expected_names)
         self.assertEqual(len(exported),len(wanted))
 
     def test_all_77_native_originals_survive_export_filter(self):
@@ -223,7 +227,8 @@ class Bauvergabe(unittest.TestCase):
             folder=ROOT/'testakten'/c['slug']
             self.assertTrue(preserves_directories(folder))
             self.assertTrue(set(STAGES)<= {p.name for p in folder.iterdir() if p.is_dir()})
-            sources=working_dump_archive_pairs(folder,include_gesamt_pdf=True)
+            has_combined = source_zip_includes_gesamt_pdf(folder)
+            sources=working_dump_archive_pairs(folder,include_gesamt_pdf=has_combined)
             self.assertEqual(len(sources),len({n for _,n in sources}))
             self.assertFalse(any(p.suffix in {'.md','.yaml'} for p,_ in sources))
             original=dist/f"testakte-{c['slug']}.zip"
@@ -231,8 +236,8 @@ class Bauvergabe(unittest.TestCase):
             if strict:
                 self.assertTrue(original.is_file(),f'Native ZIP fehlt: {original}')
                 self.assertTrue(individual.is_file(),f'Einzel-PDF-ZIP fehlt: {individual}')
-                self.assertEqual(len(sources),NATIVE_COUNTS[c['slug']]+1)
-                self.assertIn(folder/'gesamt-pdf'/f"{c['slug']}_gesamt.pdf",{p for p,_ in sources})
+                self.assertEqual(len(sources),NATIVE_COUNTS[c['slug']]+int(has_combined))
+                self.assertEqual(folder/'gesamt-pdf'/f"{c['slug']}_gesamt.pdf" in {p for p,_ in sources}, has_combined)
             if original.exists():
                 with zipfile.ZipFile(original) as z:
                     self.assertEqual(len(z.namelist()),len(set(z.namelist())))

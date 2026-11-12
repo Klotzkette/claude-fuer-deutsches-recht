@@ -22,7 +22,7 @@ Sechs Prozesspumpen für eine Sirupküche in Lyon. Angebot, Einkaufsbedingungen 
 | --- | --- |
 | Gesamt-PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/cisg-klauselkollision-pumpen-bremen-lyon_gesamt.pdf) |
 | Einzel-PDF-ZIP | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-klauselkollision-pumpen-bremen-lyon-einzelpdfs.zip) |
-| Akten-ZIP | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-klauselkollision-pumpen-bremen-lyon.zip) |
+| Akten-ZIP | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-cisg-klauselkollision-pumpen-bremen-lyon.zip) |
 
 ## 1.2. Sensorenlieferung Turin Ulm
 
@@ -38,7 +38,7 @@ Sechs Prozesspumpen für eine Sirupküche in Lyon. Angebot, Einkaufsbedingungen 
 | --- | --- |
 | Gesamt-PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/cisg-transportschaden-sensoren-ulm-turin_gesamt.pdf) |
 | Einzel-PDF-ZIP | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin-einzelpdfs.zip) |
-| Akten-ZIP | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin.zip) |
+| Akten-ZIP | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin.zip) |
 
 ## 1.3. Abfüllmaschine Brno Leipzig
 
@@ -54,4 +54,4 @@ Eine neue Abfüllmaschine soll zwei Flaschenformate im Zweischichtbetrieb verarb
 | --- | --- |
 | Gesamt-PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/cisg-maschinenlieferung-nachbesserung-leipzig-brno_gesamt.pdf) |
 | Einzel-PDF-ZIP | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-maschinenlieferung-nachbesserung-leipzig-brno-einzelpdfs.zip) |
-| Akten-ZIP | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-maschinenlieferung-nachbesserung-leipzig-brno.zip) |
+| Akten-ZIP | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-cisg-maschinenlieferung-nachbesserung-leipzig-brno.zip) |

@@ -24,7 +24,7 @@ Eine Gesellschaft aus dem erfundenen Klingelgau bestellt Komponenten in US-Dolla
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/sanktionen-us-klingelgau-eigentum_gesamt.pdf) |
 | Einzel-PDF-ZIP / Individual PDFs | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-us-klingelgau-eigentum-einzelpdfs.zip) |
-| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-us-klingelgau-eigentum.zip) |
+| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-us-klingelgau-eigentum.zip) |
 
 ## 1.2. Sonnenquast: Spendenpost mit ähnlich geschriebenen Namen
 
@@ -40,4 +40,4 @@ Eine Stiftung sammelt Spenden für eine Einrichtung im erfundenen Sonnenquast. A
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/sanktionen-us-sonnenquast-namensgleichheit_gesamt.pdf) |
 | Einzel-PDF-ZIP / Individual PDFs | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-us-sonnenquast-namensgleichheit-einzelpdfs.zip) |
-| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-us-sonnenquast-namensgleichheit.zip) |
+| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-us-sonnenquast-namensgleichheit.zip) |

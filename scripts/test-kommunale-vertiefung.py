@@ -19,7 +19,7 @@ from pypdf import PdfReader
 from kommunale_vertiefung_daten import cases, FOLDER, native_names
 from kommunale_schriftverkehr_daten import cases as old_cases
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -162,13 +162,13 @@ class Vertiefung(unittest.TestCase):
         packages = Path(os.environ['KOMMUNALE_VERTIEFUNG_ZIPS'])
         for case in cases():
             root = ROOT/'testakten'/case['slug']
-            for suffix, pairs in [('', working_dump_archive_pairs(root, include_gesamt_pdf=True)), ('-einzelpdfs', document_arcname_pairs(root))]:
+            for suffix, pairs in [('', working_dump_archive_pairs(root, include_gesamt_pdf=source_zip_includes_gesamt_pdf(root))), ('-einzelpdfs', document_arcname_pairs(root))]:
                 with zipfile.ZipFile(packages/f"testakte-{case['slug']}{suffix}.zip") as archive:
                     expected = {arc: p for p, arc in pairs}
                     self.assertEqual(set(archive.namelist()), set(expected)|{'README.txt'})
                     self.assertEqual(len(archive.namelist()), len(expected)+1)
                     self.assertTrue(archive.read('README.txt').startswith(NOTICE_BYTES))
-                    self.assertTrue(all('/' not in n for n in archive.namelist()))
+                    self.assertTrue(all(safe_archive_name(n, allow_directories=not suffix and original_zip_preserves_directories(root)) for n in archive.namelist()))
                     self.assertIsNone(archive.testzip())
                     for arc, path in expected.items():
                         if not suffix or path.suffix == '.pdf': self.assertEqual(archive.read(arc), path.read_bytes())

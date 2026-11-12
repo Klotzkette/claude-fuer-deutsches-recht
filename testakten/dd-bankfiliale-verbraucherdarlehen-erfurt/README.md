@@ -25,16 +25,25 @@ Die PDF-Briefe verwenden die PDF-Standardschrift Times. Word ist auf Times New R
 ## 3 Downloads
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Fassung | Download |
-| --- | --- |
-| Gesamt-PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf) · [Repositoryfassung](gesamt-pdf/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf) |
-| Originaldateien | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt.zip) |
-| Einzel-PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt-einzelpdfs.zip) |
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf`](gesamt-pdf/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dd-bankfiliale-verbraucherdarlehen-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dd-bankfiliale-verbraucherdarlehen-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt-einzelpdfs.zip) |
+
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

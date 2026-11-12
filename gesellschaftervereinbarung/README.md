@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Drohnenfriseur Berlin – Gesellschaftervereinbarung](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/gesamt-pdf/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
+| [Drohnenfriseur Berlin – Gesellschaftervereinbarung](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/gesamt-pdf/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -117,7 +117,7 @@ Die Word-Ausfüllfassung umfasst 32 Kapitel mit ausgearbeiteten Vertragsanlagen,
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) |
 | Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
-| Originaldateien | [Flaches Akten-ZIP mit Word, Excel, E-Mail, PDF, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
+| Originaldateien | [Flaches Akten-ZIP mit Word, Excel, E-Mail, PDF, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
 
 Wählen Sie eine Fassung für Ihren Arbeitsordner. Das Originalformat-ZIP enthält zusätzlich die Gesamt-PDF als Lesefassung; bei Auswertung der Einzeldateien diese Lesefassung nicht nochmals mitladen. Dasselbe gilt für separat vorhandene E-Mail-Anhänge. Die Vertragsfassung ist ein fallbezogener Entwurf mit konkreten Ausfüllfeldern, nicht bereits beurkundet oder zur ungeprüften Unterzeichnung bestimmt. Die beiden ZIPs enthalten die zweisprachige README.txt; die PDF-Dateien keine zusätzlichen Warnseiten.
 

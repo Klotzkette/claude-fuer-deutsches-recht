@@ -1,0 +1,264 @@
+{
+  "compliance-hameln-abendessen-messe": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-aufsichtsrat-eigener-assistent": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-auskunft-mit-schwaerzungen": [
+    "01_Portalexport_Auskunftsersuchen.eml",
+    "02_CRM_und_Serviceakte.docx",
+    "03_Servicepartner_Versandnachweis.eml"
+  ],
+  "compliance-hameln-bericht-zwischen-sitzungen": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-foerderabruf-pruefstand-eu": [
+    "01_Foerderbescheid_Auszug.pdf",
+    "02_Leistungsblatt_Pruefstand.docx",
+    "03_Bankjournal_Foerderprojekt.csv",
+    "04_Foerderportal_Abrufe.xlsx",
+    "05_Rechnung_VP611.pdf",
+    "06_Brno_Kostenstelle.eml",
+    "07_Portalrueckfrage.eml"
+  ],
+  "compliance-hameln-freie-stelle-nach-dem-kurs": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-freigabe-personalassistent": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-freigabehaken-im-service": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-geschenk-geschaeftsfuehrung": [
+    "01_Freigabeanfrage_Einkauf.eml",
+    "02_Vergabevermerk_und_Kontrollregel.docx",
+    "03_Einladung_Fachschulung.eml",
+    "04_Nachricht_des_Bieters.eml",
+    "05_Hotel_Reservierungsauszug.pdf",
+    "06_Freigabeportal_Ereignisse.csv"
+  ],
+  "compliance-hameln-interview-und-transkript": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-kampagne-werkstattdialog": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-ki-toolpilot": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-kontrollen-vor-freigabe": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-meldefrist-firmware": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "30_Dienstplan_PSIRT.docx"
+  ],
+  "compliance-hameln-meldung-nachtschicht": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-montageinsel-sozialplan": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-offenes-fenster-fuer-stuecklisten": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-personalscore-vor-start": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-pflichtbetrieb-ohne-ausgang": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-prompt-register": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-retrofit-beratung": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "30_B54_T2_Montageauszug.pdf",
+    "31_Serviceexport_Umrichter.csv",
+    "32_Houtveer_Ausfall_Linie.eml"
+  ],
+  "compliance-hameln-schaltanlagen-parallele-angebote": [
+    "01_Netzauftrag_Los_DE34.pdf",
+    "02_Auftrag_Pruefdienst.docx",
+    "03_Kalkulationshistorie_DE34.xlsx",
+    "04_Bogenpruef_Anhang_Lose.csv",
+    "05_Bogenpruef_Anhang.eml",
+    "06_Vergabeportal_Empfang.csv",
+    "07_Kalkulation_Eskalation.eml",
+    "10_Fallmeer_Portalauszug_NL18.pdf"
+  ],
+  "compliance-hameln-schichttausch-kodex": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-schriftsatz-version": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-seriennummer-fruehwarnung": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png",
+    "30_Wartungsanweisung_ST4.pdf",
+    "31_Servicefreigaben_Drucklauf.xlsx",
+    "32_Tahlenberg_Revisionsfenster.eml"
+  ],
+  "compliance-hameln-sicherheitsrelais-hinweis": [
+    "01_Kundenmeldung_Beinaheunfall.eml",
+    "02_Produktblatt_und_Verantwortung.docx",
+    "03_Prueflabor_Kurzbericht.pdf",
+    "04_ERP_Losbewegungen.csv",
+    "05_ERP_Freigabeereignisse.csv",
+    "06_ERP_Beweissicherung.eml",
+    "30_Zavelpoort_Ruecklauf_BE.eml",
+    "31_Zavelpoort_Ortsspiegel.xlsx",
+    "32_Pruefstandsblatt_SR24X2.pdf"
+  ],
+  "compliance-hameln-sprache-im-werk": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-training-nachtschicht": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-treffer-im-lieferantencheck": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "30_Werkdisposition_Stromschienen.xlsx",
+    "31_Geanderter_Zahlungsweg.eml",
+    "32_Kreditorenprotokoll_GR34.docx"
+  ],
+  "compliance-hameln-untersuchung-servicekonto": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png",
+    "30_B630_Abrufbedingungen.pdf",
+    "31_Rechnungsjournal_B630.xlsx",
+    "32_Zutrittsdienst_Vorhaltezeit.eml"
+  ],
+  "compliance-hameln-vertraulicher-testtenant": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-vertriebspartner-marktstart": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "30_Bedarfsantraege_NL_DE_AT.xlsx",
+    "31_NET_ALT_Leistungsauszug.docx",
+    "32_Regionale_Auftragsklaerung.eml"
+  ],
+  "compliance-hameln-vier-werke-risikobudget": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-vorstand-freigabefenster": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-vorstandsreport-mit-ki": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-wartungsvertrag-doppelbuchung": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-wartungsvertrag-redline": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-wirksamkeit-nachtest": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ],
+  "compliance-hameln-zukauf-schaltservice": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx",
+    "04_Datenregister.xlsx",
+    "04a_Rohdaten.csv",
+    "05_Registerauszug.png"
+  ],
+  "compliance-hameln-zweite-rechnung": [
+    "01_Eingang.eml",
+    "02_Sachgrundlage.docx"
+  ]
+}

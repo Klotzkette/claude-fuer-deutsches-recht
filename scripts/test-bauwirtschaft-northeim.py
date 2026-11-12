@@ -25,6 +25,11 @@ from pypdf import PdfReader
 from office_process import run_office
 from testakte_office_pdf import office_binary
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 
 ROOT=Path(__file__).resolve().parents[1]
 SLUG='bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim'
@@ -176,7 +181,13 @@ class CaseTests(unittest.TestCase):
         single=next((p for p in candidates if p.is_file()),candidates[0])
         self.assertTrue(source.is_file(),f'Originalarchiv fehlt: {source}')
         self.assertTrue(single.is_file(),f'Einzel-PDF-Archiv fehlt in {ASSETS} oder testakten-einzelpdfs')
-        rz.assert_same('Originale',rz.expected_entries(CASE),rz.zip_entries(source,require_notice=True))
+        include_combined = source_zip_includes_gesamt_pdf(CASE)
+        original_pairs = working_dump_archive_pairs(CASE, include_gesamt_pdf=include_combined)
+        combined = CASE/'gesamt-pdf'/f'{SLUG}_gesamt.pdf'
+        sources = {p for p in CASE.iterdir() if p.is_file() and p.name[:2].isdigit()}
+        self.assertEqual({p for p, _ in original_pairs}, sources | ({combined} if include_combined else set()))
+        rz.assert_same('Originale', rz.expected_entries(CASE),
+                       rz.zip_entries(source, require_notice=True, allow_directories=original_zip_preserves_directories(CASE)))
         ez.assert_same('Einzel-PDF',[ez.NOTICE_FILENAME,*ez.expected_arcnames(CASE)],ez.zip_entries(single,expected_suffix='.pdf'))
         with zipfile.ZipFile(single) as z:
             self.assertEqual(len(z.namelist()),46)
@@ -190,17 +201,16 @@ class CaseTests(unittest.TestCase):
                     compact=re.sub(r'\s+','','\n'.join(p.extract_text() or '' for p in reader.pages))
                     for amount in ('313.600,00','356.178,00','371.876,00'):self.assertIn(amount,compact)
         with zipfile.ZipFile(source) as z:
-            self.assertEqual(len(z.namelist()),47)
+            self.assertEqual(len(z.namelist()), 46 + int(include_combined))
             self.assertTrue(z.read('README.txt').startswith(NOTICE_BYTES))
             self.assertFalse(any(n.endswith(('.json','.ndjson','.yaml','.md')) for n in z.namelist()))
-            for original in CASE.iterdir():
-                if original.is_file() and original.name[:2].isdigit():
-                    self.assertEqual(z.read(original.name),original.read_bytes(),original.name)
-            total=PdfReader(io.BytesIO(z.read(f'{SLUG}_gesamt.pdf')))
-            self.assertGreaterEqual(len(total.pages),32)
-            content='\n'.join(p.extract_text() or '' for p in total.pages)
-            for marker in ('NO-FH26-L430','Nachprüfungsantrag','25.09.2026','313.600,00','356.178,00','371.876,00'):
-                self.assertIn(marker,content)
+            for original, name in original_pairs:
+                self.assertEqual(z.read(name), original.read_bytes(), name)
+        total=PdfReader(combined)
+        self.assertGreaterEqual(len(total.pages),32)
+        content='\n'.join(p.extract_text() or '' for p in total.pages)
+        for marker in ('NO-FH26-L430','Nachprüfungsantrag','25.09.2026','313.600,00','356.178,00','371.876,00'):
+            self.assertIn(marker,content)
 
     def test_07_readme_and_strict_validator(self):
         r=module('northeim_readme','validate-testakten-readme-downloads.py');errors=[]

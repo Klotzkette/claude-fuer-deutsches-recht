@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/DA84/3.3">
+  <GAEBInfo>
+    <Version>3.3</Version>
+    <VersDate>2021-05</VersDate>
+    <Date>2026-11-03</Date>
+    <ProgSystem>Krimpfort LV-Export</ProgSystem>
+    <ProgName>Leistungsverzeichnis X84</ProgName>
+  </GAEBInfo>
+  <PrjInfo>
+    <NamePrj>KPF-GS-BORD-R02</NamePrj>
+    <PrjID>3c648c4b159159cb819ee82bfd8c8906</PrjID>
+    <LblPrj>Altstadtkern Rosenbogen · Goslar</LblPrj>
+  </PrjInfo>
+  <Award>
+    <DP>84</DP>
+    <AwardInfo>
+      <BoQID>a2be7a30017956a198fba5b34e49b54f</BoQID>
+      <Cur>EUR</Cur>
+      <CurLbl>Euro</CurLbl>
+      <BidDate>2026-11-03</BidDate>
+    </AwardInfo>
+    <CTR>
+      <Address>
+        <Name1>Grauwinkler Granitwerk GmbH</Name1>
+        <Street />
+        <PCode />
+        <City />
+        <Country>Deutschland</Country>
+        <Email>i.knust@grauwinkler.example</Email>
+      </Address>
+      <AwardNo>KPF-GS-BORD-R02</AwardNo>
+      <AddText>
+        <DetailAddText>
+          <p>
+            <span>Preisstand GG-261104. Bindung und Leistungseinschränkungen stehen im Schriftangebot.</span>
+          </p>
+        </DetailAddText>
+      </AddText>
+    </CTR>
+    <BoQ ID="LV_KPF_GS_BORD_R02">
+      <BoQInfo>
+        <Name>KPF-GS-BORD-R02</Name>
+        <BoQBkdn>
+          <Type>BoQLevel</Type>
+          <Length>2</Length>
+          <Num>Yes</Num>
+        </BoQBkdn>
+        <BoQBkdn>
+          <Type>Item</Type>
+          <Length>4</Length>
+          <Num>Yes</Num>
+        </BoQBkdn>
+        <Totals>
+          <Total>321308.00</Total>
+          <TotalNet>321308.00</TotalNet>
+        </Totals>
+      </BoQInfo>
+      <BoQBody>
+        <BoQCtgy ID="TITEL_01" RNoPart="01">
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_01_0010" RNoPart="0010">
+                <Qty>180.000</Qty>
+                <UP>77.000</UP>
+                <IT>13860.00</IT>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+          <Totals>
+            <Total>13860.00</Total>
+            <TotalNet>13860.00</TotalNet>
+          </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="TITEL_02" RNoPart="02">
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_02_0010" RNoPart="0010">
+                <Qty>1040.000</Qty>
+                <UP>217.000</UP>
+                <IT>225680.00</IT>
+                <BidComm>
+                  <p>
+                    <span>Oberseite fein geflammt im Einheitspreis. Fein gestockt nach RB-04 gegen Zusatzpreis.</span>
+                  </p>
+                </BidComm>
+              </Item>
+              <Item ID="POS_02_0020" RNoPart="0020">
+                <Qty>96.000</Qty>
+                <UP>408.000</UP>
+                <IT>39168.00</IT>
+                <BidComm>
+                  <p>
+                    <span>Standardradien 4,00 und 7,50 m. R 2,50 m ist als Zusatzleistung kalkuliert.</span>
+                  </p>
+                </BidComm>
+              </Item>
+              <Item ID="POS_02_0030" RNoPart="0030">
+                <Qty>48.000</Qty>
+                <UP>455.000</UP>
+                <IT>21840.00</IT>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+          <Totals>
+            <Total>286688.00</Total>
+            <TotalNet>286688.00</TotalNet>
+          </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="TITEL_03" RNoPart="03">
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_03_0010" RNoPart="0010">
+                <Qty>1.000</Qty>
+                <UP>5200.000</UP>
+                <IT>5200.00</IT>
+              </Item>
+              <Item ID="POS_03_0020" RNoPart="0020">
+                <Qty>4.000</Qty>
+                <UP>1190.000</UP>
+                <IT>4760.00</IT>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+          <Totals>
+            <Total>9960.00</Total>
+            <TotalNet>9960.00</TotalNet>
+          </Totals>
+        </BoQCtgy>
+        <BoQCtgy ID="TITEL_04" RNoPart="04">
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_04_0010" RNoPart="0010">
+                <Qty>4.000</Qty>
+                <UP>2700.000</UP>
+                <IT>10800.00</IT>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+          <Totals>
+            <Total>10800.00</Total>
+            <TotalNet>10800.00</TotalNet>
+          </Totals>
+        </BoQCtgy>
+      </BoQBody>
+    </BoQ>
+  </Award>
+</GAEB>

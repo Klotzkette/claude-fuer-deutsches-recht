@@ -11,7 +11,7 @@ from docx import Document
 from pypdf import PdfReader
 from kommunale_schriftverkehr_daten import cases,FOLDER,filename
 from testakte_disclaimer import NOTICE_TEXT,NOTICE_DE,NOTICE_EN
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 from testakte_einzelpdf_common import document_arcname_pairs
 ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('schriftverkehr',ROOT/'scripts/build-kommunale-schriftverkehr.py');b=importlib.util.module_from_spec(spec);spec.loader.exec_module(b)
@@ -80,10 +80,10 @@ class SchriftverkehrTest(unittest.TestCase):
  def test_both_archive_formats_and_complete_new_pdf_text(self):
   base=Path(os.environ['KOMMUNALE_SCHRIFTVERKEHR_ZIPS'])
   for c in cases():
-   root=directory(c);native={a:p for p,a in working_dump_archive_pairs(root,include_gesamt_pdf=True)};pdfs={a:p for p,a in document_arcname_pairs(root)}
+   root=directory(c);native={a:p for p,a in working_dump_archive_pairs(root,include_gesamt_pdf=source_zip_includes_gesamt_pdf(root))};pdfs={a:p for p,a in document_arcname_pairs(root)}
    for suffix,expected in [('',native),('-einzelpdfs',pdfs)]:
     with zipfile.ZipFile(base/f"testakte-{c['slug']}{suffix}.zip") as z:
-     self.assertIsNone(z.testzip());self.assertEqual(set(z.namelist()),set(expected)|{'README.txt'});self.assertEqual(len(z.namelist()),len(set(z.namelist())));self.assertTrue(all('/' not in n for n in z.namelist()));self.assertTrue(z.read('README.txt').decode().startswith(NOTICE_TEXT))
+     self.assertIsNone(z.testzip());self.assertEqual(set(z.namelist()),set(expected)|{'README.txt'});self.assertEqual(len(z.namelist()),len(set(z.namelist())));self.assertTrue(all(safe_archive_name(n, allow_directories=not suffix and original_zip_preserves_directories(root)) for n in z.namelist()));self.assertTrue(z.read('README.txt').decode().startswith(NOTICE_TEXT))
      for name,p in expected.items():
       if not suffix or p.suffix=='.pdf':self.assertEqual(z.read(name),p.read_bytes(),name)
      if suffix:

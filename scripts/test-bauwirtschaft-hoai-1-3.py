@@ -24,6 +24,12 @@ import zipfile
 from readme_decimal_headings import normalize_decimal_headings
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN, pdf_content_errors
 from testakte_file_filter import include_in_working_dump
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    safe_archive_name,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 import importlib.util
 
 HERE = Path(__file__).resolve().parent
@@ -243,25 +249,30 @@ class Originals(unittest.TestCase):
         for phase, case in B.CASES.items():
             slug = case["slug"]
             total_name = slug + "_gesamt.pdf"
-            total = B.ROOT / "testakten" / slug / "gesamt-pdf" / total_name
+            folder = B.ROOT / "testakten" / slug
+            total = folder / "gesamt-pdf" / total_name
             self.assertFalse(pdf_content_errors(total.read_bytes()))
+            include_combined = source_zip_includes_gesamt_pdf(folder)
+            original_pairs = working_dump_archive_pairs(folder, include_gesamt_pdf=include_combined)
+            self.assertEqual({p for p, _ in original_pairs},
+                             {folder / n for n in case["files"]} | ({total} if include_combined else set()))
             for suffix in ["", "-einzelpdfs"]:
                 archive = args.assets / f"testakte-{slug}{suffix}.zip"
                 with zipfile.ZipFile(archive) as z:
                     names = z.namelist()
                     expected = ({Path(n).stem + ".pdf" for n in case["files"]} if suffix
-                                else set(case["files"]) | {total_name}) | {"README.txt"}
+                                else {name for _, name in original_pairs}) | {"README.txt"}
                     self.assertEqual(set(names), expected)
                     self.assertEqual(len(names), len(expected))
-                    self.assertTrue(all("/" not in n for n in names))
+                    allow_directories = not suffix and original_zip_preserves_directories(folder)
+                    self.assertTrue(all(safe_archive_name(n, allow_directories=allow_directories) for n in names))
                     self.assertEqual(z.read("README.txt"), NOTICE_BYTES)
-                    for number, name in enumerate(case["files"], 1):
-                        if suffix:
+                    if suffix:
+                        for name in case["files"]:
                             self.assertFalse(pdf_content_errors(z.read(Path(name).stem + ".pdf")))
-                        else:
-                            self.assertEqual(z.read(name), P.original(phase, number).read_bytes())
-                    if not suffix:
-                        self.assertEqual(z.read(total_name), total.read_bytes())
+                    else:
+                        for source, name in original_pairs:
+                            self.assertEqual(z.read(name), source.read_bytes())
 
     @unittest.skipUnless(args.native, "Office-Mutationsprüfung mit --native")
     def test_native_input_mutations_zero_and_blank(self):

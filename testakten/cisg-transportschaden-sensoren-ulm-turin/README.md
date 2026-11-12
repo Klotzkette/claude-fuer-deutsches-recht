@@ -13,18 +13,25 @@ Für die anwaltliche Bearbeitung internationaler Warenkäufe. Lesen Sie die Unte
 Alle Parteien, Personen, Geschäftsadressen, Vorgangsnummern und Kontaktadressen sind erfunden. Orte dienen als geografischer Rahmen. E-Mail-Adressen verwenden reservierte .example-Domains.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
 
-## 1.2. Downloads
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Format | Download |
-| --- | --- |
-| Gesamt-PDF | [Gesamtakte](gesamt-pdf/cisg-transportschaden-sensoren-ulm-turin_gesamt.pdf) |
-| Einzel-PDF-ZIP | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin-einzelpdfs.zip) |
-| Akten-ZIP | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin.zip) |
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/cisg-transportschaden-sensoren-ulm-turin_gesamt.pdf`](gesamt-pdf/cisg-transportschaden-sensoren-ulm-turin_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-cisg-transportschaden-sensoren-ulm-turin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-cisg-transportschaden-sensoren-ulm-turin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin-einzelpdfs.zip) |
+
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

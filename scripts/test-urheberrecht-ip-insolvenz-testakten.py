@@ -20,7 +20,7 @@ from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
 from testakte_download_notices import missing_notice_positions
 from testakte_einzelpdf_common import expected_arcnames as expected_individual_names
-from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_expected_arcnames
+from testakte_zip_common import original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf, working_dump_expected_arcnames
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -330,7 +330,7 @@ def assert_built_case(case: dict, dist: Path | None) -> None:
     assert len(reader.pages) >= 60, f"{slug}: nur {len(reader.pages)} Seiten"
 
     readme = (folder / "README.md").read_text(encoding="utf-8")
-    assert "Akten-ZIP (Originalformate, ohne Gesamt-PDF)" in readme
+    assert "Akten-ZIP" in readme and "Gesamt-PDF" in readme
     assert "Die Akte selbst enthält keine Musterlösung" in readme
     assert not missing_notice_positions(readme, case_readme=True), slug
     assert not source_zip_includes_gesamt_pdf(folder)
@@ -350,7 +350,7 @@ def assert_built_case(case: dict, dist: Path | None) -> None:
         assert not any("_gesamt.pdf" in name.lower() for name in names)
         assert not any(name.lower().endswith(".md") for name in names)
         assert not any("lösung" in name.lower() or "loesung" in name.lower() for name in names)
-        assert not any("/" in name for name in names)
+        assert all(safe_archive_name(name, allow_directories=original_zip_preserves_directories(folder)) for name in names)
 
     with zipfile.ZipFile(individual_zip) as archive:
         assert archive.testzip() is None

@@ -10,7 +10,7 @@ from pathlib import Path
 from release_routing import check_asset_limit
 
 
-SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt"}
+SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt", "release-bestand.json"}
 ASSET_SUFFIXES = {".zip", ".md"}
 # GitHub verlangt pro Release-Asset strikt weniger als 2 GiB.
 # https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases

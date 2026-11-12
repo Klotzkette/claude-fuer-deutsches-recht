@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/DA83/3.3">
+  <GAEBInfo>
+    <Version>3.3</Version>
+    <VersDate>2021-05</VersDate>
+    <Date>2026-10-20</Date>
+    <ProgSystem>Krimpfort LV-Export</ProgSystem>
+    <ProgName>Leistungsverzeichnis X83</ProgName>
+  </GAEBInfo>
+  <PrjInfo>
+    <NamePrj>KPF-GS-BORD-R02</NamePrj>
+    <PrjID>3c648c4b159159cb819ee82bfd8c8906</PrjID>
+    <LblPrj>Altstadtkern Rosenbogen · Goslar</LblPrj>
+    <BidCommPerm>Yes</BidCommPerm>
+  </PrjInfo>
+  <Award>
+    <DP>83</DP>
+    <AwardInfo>
+      <BoQID>a2be7a30017956a198fba5b34e49b54f</BoQID>
+      <Cur>EUR</Cur>
+      <CurLbl>Euro</CurLbl>
+      <OpenDate>2026-11-04</OpenDate>
+      <OpenTime>12:00:00</OpenTime>
+    </AwardInfo>
+    <OWN>
+      <Address>
+        <Name1>Krimpfort SE &amp; Co. KG</Name1>
+        <Street />
+        <PCode />
+        <City />
+        <Country>Deutschland</Country>
+        <Email>maren.franke@krimpfort.example</Email>
+      </Address>
+      <AwardNo>KPF-GS-BORD-R02</AwardNo>
+    </OWN>
+    <CnstSite>
+      <CnstSiteName>Altstadtkern Rosenbogen · Goslar</CnstSiteName>
+    </CnstSite>
+    <AddText>
+      <DetailAddText>
+        <p>
+          <span>Die Anfrage betrifft die Beschaffung für das Bauvorhaben Rosenbogen durch Krimpfort. Vier getrennt verpackte Lieferabrufe sind vorgesehen. Einbau, Bettung und Freigabe der Höhen im Straßenraum liegen bei Krimpfort.</span>
+        </p>
+        <p>
+          <span>Die historische Wirkung ergibt sich aus Farbmischung, Bearbeitung der Sichtflächen und dem profilierten Kopf. Maßgeblich sind der schriftlich beschriebene Musterkorridor RB-04 sowie die Positionsanforderungen. Das sichtbare Profil wird am trockenen und nassen Muster beurteilt. Eine Serienfreigabe liegt noch nicht vor.</span>
+        </p>
+        <p>
+          <span>Nettopreise bis zum Entladeplatz Bauhof Süd angeben. Der letzte Transport auf der Altstadtstrecke erfolgt durch Krimpfort. Grundangebot auf allen Positionen bepreisen. Fremde Altware kann mit Herkunft, nachgewiesener Nettoausbeute und Mengenlimit separat angeboten werden. Die städtischen 180 m bleiben bauseits bereitgestellt.</span>
+        </p>
+        <p>
+          <span>Angebotsschluss ist der 04.11.2026 um 12 Uhr. Verwenden Sie für das Schriftangebot und die X84 den LV-Stand KPF-GS-BORD-R02. Nennen Sie Zusatzpreise, Vorbehalte, Reservierungsbedingungen und Geltungsdauer im Schriftangebot.</span>
+        </p>
+      </DetailAddText>
+    </AddText>
+    <BoQ ID="LV_KPF_GS_BORD_R02">
+      <BoQInfo>
+        <Name>KPF-GS-BORD-R02</Name>
+        <LblBoQ>Bordsteine für den Rosenbogen in Goslar</LblBoQ>
+        <Date>2026-10-20</Date>
+        <OutlCompl>AllTxt</OutlCompl>
+        <BoQBkdn>
+          <Type>BoQLevel</Type>
+          <Length>2</Length>
+          <Num>Yes</Num>
+        </BoQBkdn>
+        <BoQBkdn>
+          <Type>Item</Type>
+          <Length>4</Length>
+          <Num>Yes</Num>
+        </BoQBkdn>
+      </BoQInfo>
+      <BoQBody>
+        <BoQCtgy ID="TITEL_01" RNoPart="01">
+          <LblTx>
+            <p>
+              <span>Städtischen Bestand aufbereiten</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_01_0010" RNoPart="0010">
+                <Qty>180.000</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p>
+                          <span>Die Stadt stellt am Bauhof 180 m freigegebene Altsteine bereit. Reinigen, nach Abschnitt und Profil sortieren, nur nach Freigabe am Fuß nacharbeiten und mit der bisherigen Sichtseite kennzeichnen. Bruch und Ausfall je Kennung dokumentieren. Abruf A umfasst 84 m, Abruf B 58 m, Abruf C 38 m.</span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p>
+                            <span>Altbestand sortieren und aufarbeiten</span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+        <BoQCtgy ID="TITEL_02" RNoPart="02">
+          <LblTx>
+            <p>
+              <span>Werkstein und Formsteine liefern</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_02_0010" RNoPart="0010">
+                <Qty>1040.000</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p>
+                          <span>Granit grau bis graubeige gemäß RB-04. Nennprofil 180 mm breit und 270 mm hoch. Kopf mit weichem Kantenradius 12 ± 3 mm. Oberseite matt fein gestockt, Sichtvorderseite mit kurzen Handwerkzeugspuren nach Muster. Stoßflächen rechtwinklig gesägt. Sichtbreite 180 ± 5 mm. Die Mindestlänge je Stück beträgt 0,80 m, ausgenommen ausdrücklich bestellte Passstücke.</span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p>
+                            <span>Gerade Bordsteine aus Granit</span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="POS_02_0020" RNoPart="0020">
+                <Qty>96.000</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p>
+                          <span>Gleiches Sichtprofil und gleiche Oberflächen wie OZ 02.0010. Bogenlänge in der Bordachse messen. Die Radien R 2,50 m, R 4,00 m und R 7,50 m sind nach Aufmaßschablone zu fertigen. Fugen und Stücklängen sind in einer Abwicklung auszuweisen. Die gekrümmte Sichtlinie muss ohne facettenartigen Knick verlaufen.</span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p>
+                            <span>Gebogene Bordsteine aus Granit</span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="POS_02_0030" RNoPart="0030">
+                <Qty>48.000</Qty>
+                <QU>m</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p>
+                          <span>Sechs Querungen zu je 8 m Materiallänge einschließlich Übergangsstücken. Profile H0 für die niveaugleiche Rollspur und H6 für den Abschnitt mit 60 mm Tastkante nach Projektplan Q-R2. Kanten in der Rollspur bleiben für die Projektfreigabe prüfbar. Linke und rechte Übergänge dauerhaft an der Unterseite kennzeichnen. Tastfelder gehören zum Straßenbau, die Lieferposition umfasst die passenden Steinprofile.</span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p>
+                            <span>Übergangs und Absenksteine</span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+        <BoQCtgy ID="TITEL_03" RNoPart="03">
+          <LblTx>
+            <p>
+              <span>Bemusterung und Seriennachweise</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_03_0010" RNoPart="0010">
+                <Qty>1.000</Qty>
+                <QU>psch</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p>
+                          <span>Eine Musterstrecke von 6 m mit geradem Stein, Kurve und einem Übergang vorbereiten. Materialproben trocken und nass vorlegen, eindeutige Steinbruch- und Fertigungsloszuordnung beifügen. Die projektspezifische Oberflächenfreigabe erteilen die Stadt und die Denkmalfachplanung gemeinsam. Das Muster darf als Depotprobe bis zur letzten Lieferung einbehalten werden.</span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p>
+                            <span>Musterstrecke mit Materialtafel</span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+              <Item ID="POS_03_0020" RNoPart="0020">
+                <Qty>4.000</Qty>
+                <QU>St</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p>
+                          <span>Für jeden Abruf steinbezogene Leistungsangaben und Prüfunterlagen zur Eignung als Bordstein nach DIN EN 1343 vorlegen, soweit für das jeweilige Produkt einschlägig. Zusätzlich Chargenbezug, Herkunft, Profilmaße und Stückliste am Lieferschein hinterlegen. Vergleichsmessungen für Bestand und Neustein müssen Material und Prüfkörper erkennen lassen.</span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p>
+                            <span>Prüf und Chargendokumentation</span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+        <BoQCtgy ID="TITEL_04" RNoPart="04">
+          <LblTx>
+            <p>
+              <span>Abschnittsweise anliefern</span>
+            </p>
+          </LblTx>
+          <BoQBody>
+            <Itemlist>
+              <Item ID="POS_04_0010" RNoPart="0010">
+                <Qty>4.000</Qty>
+                <QU>St</QU>
+                <Description>
+                  <CompleteText>
+                    <DetailTxt>
+                      <Text>
+                        <p>
+                          <span>Anlieferung frei Bauhof Süd einschließlich Entladen und Palettierung in Baufolge. Abruf A am 19.04.2027 mit 528 m Neustein, B am 17.05.2027 mit 460 m Neustein und C am 14.06.2027 mit 172 m Neustein. Abruf D am 21.06.2027 mit den verbleibenden 24 m Neustein für den Endanschluss in Abschnitt C. Der Bauhof nimmt zwei Lkw je Vormittag an. Für A und B ist ein drittes Entladefenster am jeweiligen Nachmittag vorgesehen. Geben Sie die benötigte Fahrzeugzahl und Nutzlast an.</span>
+                        </p>
+                      </Text>
+                    </DetailTxt>
+                    <OutlineText>
+                      <OutlTxt>
+                        <TextOutlTxt>
+                          <p>
+                            <span>Lieferung und Entladung</span>
+                          </p>
+                        </TextOutlTxt>
+                      </OutlTxt>
+                    </OutlineText>
+                  </CompleteText>
+                </Description>
+              </Item>
+            </Itemlist>
+          </BoQBody>
+        </BoQCtgy>
+      </BoQBody>
+    </BoQ>
+  </Award>
+</GAEB>

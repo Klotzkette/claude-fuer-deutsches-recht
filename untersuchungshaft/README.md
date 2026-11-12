@@ -62,10 +62,10 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [1. Haftverschonung Fliederborn Berlin](../testakten/uhaft-haftverschonung-fliederborn-berlin/README.md) | [Gesamt-PDF](../testakten/uhaft-haftverschonung-fliederborn-berlin/gesamt-pdf/uhaft-haftverschonung-fliederborn-berlin_gesamt.pdf) | [`testakte-uhaft-haftverschonung-fliederborn-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin.zip) | [`testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip) |
-| [1. Haftvorführung Wolkensteg Bremen](../testakten/uhaft-jugend-wolkensteg-bremen/README.md) | [Gesamt-PDF](../testakten/uhaft-jugend-wolkensteg-bremen/gesamt-pdf/uhaft-jugend-wolkensteg-bremen_gesamt.pdf) | [`testakte-uhaft-jugend-wolkensteg-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen.zip) | [`testakte-uhaft-jugend-wolkensteg-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen-einzelpdfs.zip) |
+| [1. Haftverschonung Fliederborn Berlin](../testakten/uhaft-haftverschonung-fliederborn-berlin/README.md) | [Gesamt-PDF](../testakten/uhaft-haftverschonung-fliederborn-berlin/gesamt-pdf/uhaft-haftverschonung-fliederborn-berlin_gesamt.pdf) | [`testakte-uhaft-haftverschonung-fliederborn-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin.zip) | [`testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip) |
+| [1. Haftvorführung Wolkensteg Bremen](../testakten/uhaft-jugend-wolkensteg-bremen/README.md) | [Gesamt-PDF](../testakten/uhaft-jugend-wolkensteg-bremen/gesamt-pdf/uhaft-jugend-wolkensteg-bremen_gesamt.pdf) | [`testakte-uhaft-jugend-wolkensteg-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen.zip) | [`testakte-uhaft-jugend-wolkensteg-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen-einzelpdfs.zip) |
 | [1. Sechsmonatsvorlage Kornfeld Dresden](../testakten/uhaft-sechsmonate-kornfeld-dresden/README.md) | [Gesamt-PDF](../testakten/uhaft-sechsmonate-kornfeld-dresden/gesamt-pdf/uhaft-sechsmonate-kornfeld-dresden_gesamt.pdf) | [`testakte-uhaft-sechsmonate-kornfeld-dresden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden.zip) | [`testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip) |
-| [1. Kontakte und Vollzugsalltag Falkenried Köln](../testakten/uhaft-vollzug-falkenried-koeln/README.md) | [Gesamt-PDF](../testakten/uhaft-vollzug-falkenried-koeln/gesamt-pdf/uhaft-vollzug-falkenried-koeln_gesamt.pdf) | [`testakte-uhaft-vollzug-falkenried-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln.zip) | [`testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip) |
+| [1. Kontakte und Vollzugsalltag Falkenried Köln](../testakten/uhaft-vollzug-falkenried-koeln/README.md) | [Gesamt-PDF](../testakten/uhaft-vollzug-falkenried-koeln/gesamt-pdf/uhaft-vollzug-falkenried-koeln_gesamt.pdf) | [`testakte-uhaft-vollzug-falkenried-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln.zip) | [`testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -157,7 +157,7 @@ Berlin: an existing detention order, disputed evidence and subsequent housing an
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/testakten/uhaft-haftverschonung-fliederborn-berlin/gesamt-pdf/uhaft-haftverschonung-fliederborn-berlin_gesamt.pdf) |
 | Einzel-PDFs / Individual PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip) |
-| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin.zip) |
+| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin.zip) |
 
 ### 1.4.2. Kontakte und Vollzugsalltag Falkenried Köln
 
@@ -173,7 +173,7 @@ Cologne: judicial contact restrictions, a prison clothing decision and a medical
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/testakten/uhaft-vollzug-falkenried-koeln/gesamt-pdf/uhaft-vollzug-falkenried-koeln_gesamt.pdf) |
 | Einzel-PDFs / Individual PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip) |
-| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln.zip) |
+| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln.zip) |
 
 ### 1.4.3. Sechsmonatsvorlage Kornfeld Dresden
 
@@ -205,7 +205,7 @@ Bremen: a 15-year-old awaiting a detention decision, with family and school reco
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/testakten/uhaft-jugend-wolkensteg-bremen/gesamt-pdf/uhaft-jugend-wolkensteg-bremen_gesamt.pdf) |
 | Einzel-PDFs / Individual PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen-einzelpdfs.zip) |
-| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen.zip) |
+| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen.zip) |
 
 ## 1.5. Quellen, Prüfstand und Grenzen
 

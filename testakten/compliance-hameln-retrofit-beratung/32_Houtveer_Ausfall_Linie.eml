@@ -1,0 +1,35 @@
+From: luc.dewit@houtveer.example
+To: irma.winkelreuth@merrensteg.example
+Subject: ME-07 | Linie 4 =?utf-8?q?f=C3=A4llt?= seit dem Umbau aus
+Date: Mon, 12 Oct 2026 07:31:00 +0200
+Message-ID: <me-07.32.industrie@merrensteg.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="merrensteg-me-07-32"
+
+--merrensteg-me-07-32
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Wir stehen seit Freitag immer wieder, wenn die Fr=C3=BChschicht auf volle Lei=
+stung schaltet. Auf der Anzeige stehen zwei verschiedene Fehlercodes. Unsere =
+Elektrikerin hat die Werte am Schrank und am Ger=C3=A4t gemessen. Ich h=C3=A4=
+nge den Export an, damit Ihre Leute beide Messorte sehen.
+
+Wir brauchen morgen bis zw=C3=B6lf Uhr einen Termin und eine Ersatzstrategie.=
+ Der Umbauauftrag an unseren Schrankbauer und dessen Messung zum neuen Luftka=
+nal liegen noch bei ihm.
+
+--merrensteg-me-07-32
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="31_Serviceexport_Umrichter.csv"
+MIME-Version: 1.0
+
+WmVpdCBNRVNaLFN0YXRpb24sQ29kZSxNZXNzd2VydCDCsEMsTWVzc29ydCxRdWVsbGUKMjAyNi0x
+MC0wOSAxMzoxOCxVMDEsVDcxLDQxLG9iZW4gYW0gU2NocmFuayxIYW5kZ2Vyw6R0IEg2CjIwMjYt
+MTAtMDkgMTM6MjAsVTAyLFQ3MSw0MixvYmVuIGFtIFNjaHJhbmssSGFuZGdlcsOkdCBINgoyMDI2
+LTEwLTA5IDEzOjIyLFUwMyxQMDIsMzksRWlubGFzcyxIYW5kZ2Vyw6R0IEgzCjIwMjYtMTAtMDkg
+MTQ6MDcsVTAxLFQ3MSwsLE1hc2NoaW5lbmpvdXJuYWwKMjAyNi0xMC0wOSAxNDowOCxVMDMsUDAy
+LCwsTWFzY2hpbmVuam91cm5hbAo=
+
+--merrensteg-me-07-32--

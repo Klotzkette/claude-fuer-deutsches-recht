@@ -1,6 +1,6 @@
 # Bauunternehmer Einkauf
 
-Die Werkstatt richtet sich an Projekt- und Zentraleinkauf großer Bauunternehmen, die Material- und Nachunternehmerpakete vorbereiten, bewerten und verhandeln. Sie führt von Bedarf und Angebotsanfrage über GAEB-Prüfung und Preisspiegel bis zu Bestellung, Abnahme und Reklamation. Als Übung dient das Türpaket der fiktiven Krimpfort SE & Co. KG.
+Die Werkstatt richtet sich an Projekt- und Zentraleinkauf großer Bauunternehmen, die Material- und Nachunternehmerpakete vorbereiten, bewerten und verhandeln. Sie führt von Bedarf und Angebotsanfrage über GAEB-Prüfung und Preisspiegel bis zu Bestellung, Abnahme und Reklamation. Drei Beschaffungsakten der fiktiven Krimpfort SE & Co. KG führen von der Markterkundung über das Leistungsverzeichnis bis zur Angebotsprüfung.
 
 ## 1 Einstieg
 
@@ -8,7 +8,7 @@ Beginnen Sie mit einer konkreten Aufgabe und den zugehörigen Unterlagen. Verwen
 
 | Arbeitsmittel | Zugriff |
 | --- | --- |
-| Installierbares Plugin mit zehn Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/bauunternehmer-einkauf.zip) |
+| Installierbares Plugin mit zehn Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/bauunternehmer-einkauf.zip) |
 | Mini-Prompt | [Schnellstart als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-schnellstart.md) |
 | Werkstatt-Prompt | [Werkstatt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md) |
 | Master-Prompt | [Master-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=testakten/megaprompts/bauunternehmer-einkauf.md) |
@@ -18,11 +18,13 @@ Beginnen Sie mit einer konkreten Aufgabe und den zugehörigen Unterlagen. Verwen
 
 [Repository-Start](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) · [Skill-Gesamtübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) · [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md)
 
-## 2 Arbeitsakte Krimpfort
+## 2 Die drei Krimpfort-Akten
+
+### 2.1 Brandschutztüren am Weserbogen
 
 Die Krimpfort SE & Co. KG vergleicht vier Angebote für 500 Brandschutztüren im fiktiven Bremer Bundesbau Kontor am Weserbogen. Das Türregister umfasst 410 Büro- und Besprechungsraumtüren. Bei zehn automatischen Türen ist der konkrete Einbau in eine Sonderwand zu belegen. Die Akte verbindet die gemeinsame GAEB-Anfrage X83 und die vier Angebotsdateien X84 mit PDF-Angeboten, Leistungsverzeichnis, Türregister, nativen E-Mails mit Anlagen und weiterem Schriftverkehr.
 
-Beginnen Sie im Ordner `00_LV_Entstehung` mit Planungsständen, drei unverbindlichen Marktangeboten und der Mengenüberleitung. Verfolgen Sie die Herkunft der fünf LV-Positionen bis zur Versandfreigabe. Öffnen Sie anschließend Anfrage und Angebote. Prüfen Sie, welche Kostenpositionen und Bedingungen erst in den Begleitunterlagen stehen. Geben Sie dann die Nachreichungen und den Verhandlungsschriftverkehr hinzu. Führen Sie dieselbe Vergleichsrechnung fort und erstellen Sie intern eine Empfehlung mit Freigabegrenzen sowie extern einen Gesprächs- oder Mailentwurf. [Aktenseite mit Aufgaben](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort)
+Beginnen Sie im Originalformat-ZIP unter `Grundakte/00_LV_Entstehung` mit Planungsständen, drei unverbindlichen Marktangeboten und der Mengenüberleitung. Verfolgen Sie die Herkunft der fünf LV-Positionen bis zur Versandfreigabe. Öffnen Sie anschließend Anfrage und Angebote. Prüfen Sie, welche Kostenpositionen und Bedingungen erst in den Begleitunterlagen stehen. Geben Sie dann die Nachreichungen und den Verhandlungsschriftverkehr hinzu. Führen Sie dieselbe Vergleichsrechnung fort und erstellen Sie intern eine Empfehlung mit Freigabegrenzen sowie extern einen Gesprächs- oder Mailentwurf. [Aktenseite mit Aufgaben](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort)
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -30,11 +32,35 @@ Beginnen Sie im Ordner `00_LV_Entstehung` mit Planungsständen, drei unverbindli
 
 | Fassung | Download |
 | --- | --- |
-| Originalformate mit LV-Vorgeschichte, X83, vier X84, E-Mails, Anlagen, Excel und Lesefassung | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) |
-| Lesefassung mit den Aktenstücken als einzelne PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip) |
-| Gesamt-PDF zum Lesen und Ausdrucken | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf) |
-| Arbeitsakte und drei bearbeitbare Vorlagen für den Kurs | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/Bauunternehmer_Einkauf_Brandschutztueren_Workshop.zip) |
-| Getrennte Auswertung für die Kursleitung | [Nachbesprechung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/BE-01_Nachbesprechung.pdf) |
+| Originalformate mit Grundakte, LV-Vorgeschichte, X83, vier X84, E-Mails, Anlagen und Excel | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) |
+| Lesefassung mit den Aktenstücken als einzelne PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip) |
+| Gesamt-PDF zum Lesen und Ausdrucken | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf) |
+| Drei Arbeitsakten und bearbeitbare Vorlagen für den Kurs | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/Bauunternehmer_Einkauf_3_Praxisakten.zip) |
+| Getrennte Auswertung für die Kursleitung | [Nachbesprechung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/BE-01_Nachbesprechung.pdf) |
+
+### 2.2 Lüftungszentralen für die Klinik am Huntepark
+
+Neun Anlagen für den Umbau einer laufenden Klinik in Oldenburg. Aufmaß, Hygieneanforderungen, Nachtfenster und Richtpreisabfragen erklären das LV. Die Angebote unterscheiden sich bei Einbringung, Pumpenanschluss, Werksprüfung und Terminsicherheit. [Aktenseite und Arbeitsaufträge](../testakten/bauunternehmer-einkauf-lueftungszentralen-krimpfort/README.md).
+
+Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Für die zweite Bearbeitung liegen spätere Auskünfte und Schriftwechsel unter `Nachlauf`.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort.zip) · [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort-einzelpdfs.zip) · [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/bauunternehmer-einkauf-lueftungszentralen-krimpfort_gesamt.pdf)
+
+### 2.3 Bordsteine für den Rosenbogen in Goslar
+
+Ausbau und Ergänzung einer 1.364 Meter langen Bordlinie im Altstadtkern. Bestandsaufmaß, Steinmuster und Rückmeldungen der Lieferanten erklären, wie aus dem historischen Erscheinungsbild messbare Positionen entstanden. Vier Anbieter kalkulieren die Aufbereitung des Altbestands und die Ergänzung durch neue Steine. [Aktenseite und Arbeitsaufträge](../testakten/bauunternehmer-einkauf-altstadt-bordsteine/README.md).
+
+Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Für die zweite Bearbeitung liegen spätere Auskünfte und Schriftwechsel unter `Nachlauf`.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-altstadt-bordsteine.zip) · [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-altstadt-bordsteine-einzelpdfs.zip) · [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/bauunternehmer-einkauf-altstadt-bordsteine_gesamt.pdf)
 
 ## 3 Aufgaben zuordnen
 

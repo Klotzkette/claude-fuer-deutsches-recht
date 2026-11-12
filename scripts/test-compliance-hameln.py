@@ -68,6 +68,13 @@ class ComplianceAkten(unittest.TestCase):
     def setUpClass(cls):
         cls.cases = json.loads((ROOT / 'scripts/data/compliance-hameln-vertiefung.json').read_text())['cases']
         cls.extensions = json.loads((ROOT / 'scripts/data/compliance-hameln-fachvertiefung.json').read_text())['cases']
+        industry = json.loads((ROOT / 'scripts/data/compliance-hameln-industriepraxis.json').read_text())
+        cls.later_additions = {slug: {doc['file'] for doc in case['documents']} for slug, case in industry.items()}
+
+    def historical_pairs(self, slug):
+        excluded = {'00_Einstieg.pdf', *self.later_additions.get(slug, ())}
+        return [(source, name) for source, name in document_arcname_pairs(ROOT / 'testakten' / slug)
+                if source.name not in excluded]
 
     def test_all_338_existing_originals_are_unchanged(self):
         baseline = json.loads((ROOT / 'quality/compliance-vertiefung/ursprungsbestand-445.35.4.json').read_text())
@@ -86,8 +93,7 @@ class ComplianceAkten(unittest.TestCase):
     def test_35_cases_have_individual_complete_additions(self):
         self.assertEqual(len(self.cases), 35)
         self.assertEqual({c['nr'] for c in self.cases}, {f'ME-{n:02d}' for n in range(1, 36)})
-        self.assertEqual(sum(path.name != '00_Einstieg.pdf' for c in self.cases
-                             for path, _ in document_arcname_pairs(ROOT / 'testakten' / c['slug'])), 420)
+        self.assertEqual(sum(len(self.historical_pairs(case['slug'])) for case in self.cases), 420)
         bodies = set()
         for case in self.cases:
             directory = ROOT / 'testakten' / case['slug']
@@ -206,8 +212,7 @@ class ComplianceAkten(unittest.TestCase):
         report = json.loads((DIST / 'release-bestand.json').read_text())
         for case in self.cases:
             directory = ROOT / 'testakten' / case['slug']
-            pairs = [(path, name) for path, name in document_arcname_pairs(directory)
-                     if path.name != '00_Einstieg.pdf']
+            pairs = self.historical_pairs(case['slug'])
             item = next(r for r in report['cases'] if r['slug'] == case['slug'])
             self.assertEqual(item['documents'], len(pairs))
             with ZipFile(DIST / item['original']) as original, ZipFile(DIST / item['individual']) as pdfs:

@@ -1,0 +1,6 @@
+Zeit UTC,System,Ereignis,Feld
+2026-10-18T18:16:00Z,Waalmeer-Router,Verbindung zum Wartungsport,C18 / 3.7
+2026-10-18T20:02:00Z,Mailgateway,K18 zugestellt,Mailbox Service
+2026-10-18T20:05:00Z,Serviceplattform,Automatische Zuweisung,Bereitschaft
+2026-10-19T05:48:00Z,Serviceplattform,K18 geöffnet,Service PSIRT
+2026-10-19T07:55:00Z,Prüfstand,Unbeaufsichtigte Anfrage reproduziert,C18 / 3.7

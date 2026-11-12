@@ -24,7 +24,7 @@ Ein Ersatzteilauftrag in Euro trifft auf eine ältere Gesellschafterliste, beson
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/sanktionen-eu-zwirnmark-beteiligung_gesamt.pdf) |
 | Einzel-PDF-ZIP / Individual PDFs | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip) |
-| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung.zip) |
+| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung.zip) |
 
 ## 1.2. Faltenfels: Mandatspost und Lieferkisten
 
@@ -40,4 +40,4 @@ Eine Kanzlei erhält ein Mandat eines erfundenen gelisteten Unternehmens. Danebe
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamtakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/sanktionen-eu-faltenfels-mandat_gesamt.pdf) |
 | Einzel-PDF-ZIP / Individual PDFs | [Einzelne Unterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat-einzelpdfs.zip) |
-| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat.zip) |
+| Akten-ZIP / Native documents | [DOCX, EML, CSV und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-eu-faltenfels-mandat.zip) |

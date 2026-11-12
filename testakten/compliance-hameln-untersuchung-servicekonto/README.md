@@ -20,12 +20,24 @@ Das Rechnungsjournal nennt verschiedene Anlagenkennungen. Die Bestellung umfasst
 
 **Arbeitsauftrag.** Entwirf einen Untersuchungsauftrag mit begrenzter Sicherungsanordnung, Beleg- und Gegenbelegmatrix, vorläufiger Maßnahmenentscheidung und abgestuften Berichtswegen. Nutzt dafür den `08_Arbeitsauftrag.pdf` und die `compliance-hameln-untersuchung-servicekonto.docx`. Die Gesamtakte enthält alle Runden.
 
+### Ausgangslage im Betrieb
+
+Für Hamelns Hochstromprüfanlage wird Bereitschaft separat von Einsätzen abgerechnet. Eine anonyme Meldung behauptet, sechs Zahlungen seien durch Aufteilung eines Auftrags vorbereitet worden. Vier Rechnungen sind ausgeführt und zwei stehen noch im Mittwochslauf. Die Chronologie von Bestellung, tatsächlichem Einsatz, technischer Abnahme und kaufmännischer Freigabe muss aus getrennten Quellen rekonstruiert werden.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+Beginne mit der `Grundakte` für den Stand am 13. Oktober 2026, 12 Uhr. Dort findest du zusätzlich [Bedingungen für den Abruf B 630](30_B630_Abrufbedingungen.pdf), [Kreditorenjournal zum Abruf B 630](31_Rechnungsjournal_B630.xlsx), [Halle 4 Datenvorhaltung zu Abruf B-630](32_Zutrittsdienst_Vorhaltezeit.eml).
+
+Sichere die auftragsbezogenen Daten vor Ablauf der Frist beim Zutrittsdienst. Stelle den Hinweis den Vertragspositionen und dem Bankjournal gegenüber und begründe, für welche gezielten Ermittlungsschritte die Akte bereits Anlass gibt.
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -34,12 +46,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-untersuchung-servicekonto_gesamt.pdf`](gesamt-pdf/compliance-hameln-untersuchung-servicekonto_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-untersuchung-servicekonto.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-untersuchung-servicekonto.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-untersuchung-servicekonto-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-untersuchung-servicekonto-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-untersuchung-servicekonto.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/testakte-compliance-hameln-untersuchung-servicekonto.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-untersuchung-servicekonto-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/testakte-compliance-hameln-untersuchung-servicekonto-einzelpdfs.zip) |
 
-Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the versioned Hameln compliance release.
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -84,3 +96,7 @@ Die ergänzende Stellungnahme und das Beleg- und Sicherungsprotokoll bilden eine
 [Fallbezogene Prüfhinweise als PDF](../../quality/hameln-compliance/nachbesprechung/compliance-hameln-untersuchung-servicekonto-nachbesprechung.pdf)
 
 [Alle Hamelner Akten und das Plugin](../../compliance-abteilung-grosskonzern/README.md)
+
+## Fachquellen zum Fallzeitpunkt
+
+- [Strafgesetzbuch §§ 263, 266 und 299](https://www.gesetze-im-internet.de/stgb/)

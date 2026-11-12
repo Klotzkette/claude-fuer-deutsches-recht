@@ -26,17 +26,25 @@ Auskunftsbegehren verfassen und die unbekannte Erbquote sowie den Schenkungsnach
 Die Akte enthält genau vier E Mails, drei PDF Belege, eine Excel-Arbeitsmappe und zwei Word Dateien. Die Excel-Arbeitsmappe trennt bestätigte Werte, fehlende Angaben und einen noch nicht freigegebenen Rechnungsentwurf. Die vier Zeitzeilen stimmen mit Datei 04 und der Honorargrundlage in Datei 10 überein.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## 3 Downloads
+## Akte komplett herunterladen
+
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Fassung | Download |
-|---|---|
-| Originaldateien | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-erbrecht.zip) |
-| Je Dokument ein PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-erbrecht-einzelpdfs.zip) |
-| Lesefassung | [Gesamt-PDF](gesamt-pdf/si-kanzlei-erbrecht_gesamt.pdf) |
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/si-kanzlei-erbrecht_gesamt.pdf`](gesamt-pdf/si-kanzlei-erbrecht_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-si-kanzlei-erbrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-si-kanzlei-erbrecht.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-si-kanzlei-erbrecht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-erbrecht-einzelpdfs.zip) |
+
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

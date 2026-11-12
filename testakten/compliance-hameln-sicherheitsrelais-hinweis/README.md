@@ -24,10 +24,24 @@ Die Logistik sieht im Warenwirtschaftssystem den Status `FREI` und kann dann kom
 
 **Vertiefung:** „Stimme die Seriennummern und Mengen in Dateien 04–06 ab. Erstelle eine Maßnahmenliste je Lagerort und Abnehmer. Gib für jede Handlung Verantwortliche, Zeitpunkt, Beleg und ausstehenden Rücklauf an. Verwende für eine externe Nachricht allein die freigegebenen technischen Informationen.“
 
+### Ausgangslage im Betrieb
+
+Nach dem Beinaheunfall muss die Produktsicherheit wissen, welche Relais in welchen Maschinen stecken. Der belgische Integrator kann zunächst 21 Einbauten bestätigen, während sein Lager weitere Stücke hält. Er braucht einen Serienbereich und eine eindeutige technische Zwischenanweisung, bevor eine zweite Zelle zur Abnahme geht.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+Beginne mit der `Grundakte` für den Stand am 4. November 2026, 11.30 Uhr. Dort findest du zusätzlich [SR-24X2 Lieferung LS-8126 · Einbau und Lagerbestand](30_Zavelpoort_Ruecklauf_BE.eml), [Lieferschein LS 8126](31_Zavelpoort_Ortsspiegel.xlsx), [Prüfblatt Wiederanlauf SR 24X2](32_Pruefstandsblatt_SR24X2.pdf).
+
+Stimme Kundennummern und Serienbereiche je Standort ab, bereite technische Maßnahmen für Werk, Integratoren und Betreiber vor und prüfe Marktüberwachung in beiden Ländern. Halte den geschützten Vorgang der Meldestelle aus der Produktakte heraus.
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
+Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -35,9 +49,13 @@ Die Logistik sieht im Warenwirtschaftssystem den Status `FREI` und kann dann kom
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei) | PDF | [Gesamt-PDF](gesamt-pdf/compliance-hameln-sicherheitsrelais-hinweis_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-sicherheitsrelais-hinweis.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.0.0/testakte-compliance-hameln-sicherheitsrelais-hinweis-einzelpdfs.zip) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-sicherheitsrelais-hinweis_gesamt.pdf`](gesamt-pdf/compliance-hameln-sicherheitsrelais-hinweis_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-sicherheitsrelais-hinweis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/testakte-compliance-hameln-sicherheitsrelais-hinweis.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-sicherheitsrelais-hinweis-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/testakte-compliance-hameln-sicherheitsrelais-hinweis-einzelpdfs.zip) |
+
+Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+
+English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -71,3 +89,8 @@ Die Logistik sieht im Warenwirtschaftssystem den Status `FREI` und kann dann kom
 - [§ 87 Abs. 1 Nr. 2 BetrVG zur Schichtplanung](https://www.gesetze-im-internet.de/betrvg/__87.html)
 
 [Zur Hamelner Compliance-Werkstatt](../../compliance-abteilung-grosskonzern/README.md)
+
+## Fachquellen zum Fallzeitpunkt
+
+- [Maschinenrichtlinie 2006/42/EG, Art. 2 und Anhang V](https://eur-lex.europa.eu/eli/dir/2006/42/oj?locale=de)
+- [Marktüberwachungsverordnung (EU) 2019/1020, Art. 4, 16 und 19](https://eur-lex.europa.eu/eli/reg/2019/1020/oj?locale=de)
