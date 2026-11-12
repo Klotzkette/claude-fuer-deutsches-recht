@@ -92,6 +92,10 @@ def release_url(slug: str, suffix: str = "") -> str:
 
 
 def validate_release_routes(label: str, text: str, errors: list[str]) -> None:
+    # Das eigenständige Vergaberecht-Projekt prüft seine Release-Links
+    # gegen den eigenen Paketbestand, auch bei gleichnamigen zentralen Akten.
+    if label.startswith("vergaberecht-werkstatt/"):
+        return
     rewritten = rewrite_case_asset_urls(text, root=ROOT)
     for number, (actual, expected) in enumerate(zip(text.splitlines(), rewritten.splitlines()), start=1):
         if actual != expected:
