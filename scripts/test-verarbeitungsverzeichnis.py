@@ -20,7 +20,7 @@ from pypdf import PdfReader
 import pdfplumber
 import yaml
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN
 from release_routing import case_asset_url, plugin_asset_url
 from vvt_workbook_pdf import render as render_workbook
@@ -121,7 +121,8 @@ class VVTComponentTests(unittest.TestCase):
     def test_component_routes(self):
         self.assertIn('/verarbeitungsverzeichnis-v1.0.0/',plugin_asset_url(NAME))
         for case in CASES:
-            for suffix in ('','-einzelpdfs'):self.assertIn('/verarbeitungsverzeichnis-v1.0.0/',case_asset_url(case,suffix))
+            self.assertIn('/grundakten-sammlung-v1.0.0/', case_asset_url(case))
+            self.assertIn('/verarbeitungsverzeichnis-v1.0.0/', case_asset_url(case, '-einzelpdfs'))
 
     def test_workbook_reading_view_preserves_cells_and_legibility(self):
         for case in CASES:
@@ -168,7 +169,7 @@ class VVTComponentTests(unittest.TestCase):
             folder=ROOT/'testakten'/case
             with zipfile.ZipFile(DIST/f'testakte-{case}.zip') as archive:
                 self.assertTrue(archive.read('README.txt').startswith(NOTICE_BYTES))
-                for path,name in working_dump_archive_pairs(folder, include_gesamt_pdf=True):self.assertEqual(archive.read(name),path.read_bytes())
+                for path,name in working_dump_archive_pairs(folder, include_gesamt_pdf=source_zip_includes_gesamt_pdf(folder)):self.assertEqual(archive.read(name),path.read_bytes())
             combined=PdfReader(DIST/f'{case}_gesamt.pdf');pages=[]
             with zipfile.ZipFile(DIST/f'testakte-{case}-einzelpdfs.zip') as archive:
                 self.assertTrue(archive.read('README.txt').startswith(NOTICE_BYTES))

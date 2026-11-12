@@ -26,7 +26,7 @@ from dd_bankakte_pdf import assert_preserved, display, render as render_bank_wor
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN
 from testakte_file_filter import include_in_working_dump
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = 'due-diligence'
@@ -273,14 +273,14 @@ class DueDiligenceTests(unittest.TestCase):
             self.assertEqual(formulas['Buchungen'][f'J{row}'].data_type, 'f')
             self.assertEqual(formulas['Buchungen'][f'M{row}'].data_type, 'f')
 
-    def test_component_routes_do_not_displace_existing_case_downloads(self):
+    def test_plugin_pdfs_and_native_intake_have_separate_release_routes(self):
         self.assertIn('/due-diligence-v1.0.1/', plugin_asset_url(NAME))
         for case in CASES:
-            for suffix in ('', '-einzelpdfs'):
-                self.assertIn('/due-diligence-v1.0.1/', case_asset_url(case, suffix))
+            self.assertIn('/grundakten-sammlung-v1.0.0/', case_asset_url(case))
+            self.assertIn('/due-diligence-v1.0.1/', case_asset_url(case, '-einzelpdfs'))
         for case in ('weg-lindenhof-jahresabrechnung-2025', 'weg-sonnenwinkel-bettwanzen', 'weg-spreebogen-mieterumlage-belege'):
-            for suffix in ('', '-einzelpdfs'):
-                self.assertIn('/akten-v445.35.3/', case_asset_url(case, suffix))
+            self.assertIn('/grundakten-sammlung-v1.0.0/', case_asset_url(case))
+            self.assertIn('/akten-v445.35.3/', case_asset_url(case, '-einzelpdfs'))
 
     def test_installable_archive_sources_do_not_include_test_cases_or_prompts(self):
         paths = load_builder().plugin_sources()
@@ -319,7 +319,7 @@ class DueDiligenceTests(unittest.TestCase):
             directory = ROOT / 'testakten' / case
             with zipfile.ZipFile(DIST / f'testakte-{case}.zip') as archive:
                 self.assertIsNone(archive.testzip())
-                pairs = working_dump_archive_pairs(directory, include_gesamt_pdf=True)
+                pairs = working_dump_archive_pairs(directory, include_gesamt_pdf=source_zip_includes_gesamt_pdf(directory))
                 self.assertEqual(set(archive.namelist()), {'README.txt', *(name for _, name in pairs)})
                 self.assertTrue(archive.read('README.txt').startswith(NOTICE_BYTES))
                 self.assertFalse(any('/' in name or name.endswith('.md') for name in archive.namelist()))
