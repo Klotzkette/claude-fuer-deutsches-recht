@@ -16,7 +16,7 @@ Beginnen Sie mit einer konkreten Aufgabe und den zugehörigen Unterlagen. Verwen
 | Vorlage für die Entscheidung | [Word-Vergleichs- und Freigabevermerk](templates/bauunternehmer-einkauf-brandschutztueren-krimpfort.docx) |
 | Vorlage für die Verhandlung | [Word-Verhandlungsleitfaden](templates/Verhandlungsleitfaden.docx) |
 
-[Repository-Start](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) · [Skill-Gesamtübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) · [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md)
+[Repository-Start](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) · [Skill-Gesamtübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) · [Alphabetische Skill-Liste](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/skills-index/bauunternehmer-einkauf.md) · [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) · [Testakten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/README.md) · [Plugin-Dateien](.)
 
 ## 2 Die drei Krimpfort-Akten
 
@@ -64,7 +64,7 @@ Ausbau und Ergänzung einer 1.364 Meter langen Bordlinie im Altstadtkern. Bestan
 
 ## 3 Aufgaben zuordnen
 
-Starten Sie bei mehreren zusammenhängenden Fragen mit [Einkaufsvorgang steuern](skills/einkauf-steuern/SKILL.md). Für Einzelaufträge führen [Angebote einholen](skills/angebote-einholen/SKILL.md), [GAEB-Angebote prüfen](skills/gaeb-angebote-pruefen/SKILL.md), [Angebote vergleichen](skills/angebote-vergleichen/SKILL.md) und [Verhandlungen führen](skills/verhandlungen-fuehren/SKILL.md) direkt zum benötigten Ergebnis. Bei ausgewähltem Angebot führt [Bestellung und Vertrag absichern](skills/bestellung-und-vertrag-absichern/SKILL.md) den geprüften Stand in einen Freigabeentwurf über.
+Starten Sie bei mehreren zusammenhängenden Fragen mit [Einkaufsvorgang steuern](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/einkauf-steuern/SKILL.md). Für Einzelaufträge führen [Angebote einholen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/angebote-einholen/SKILL.md), [GAEB-Angebote prüfen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/gaeb-angebote-pruefen/SKILL.md), [Angebote vergleichen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/angebote-vergleichen/SKILL.md) und [Verhandlungen führen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/verhandlungen-fuehren/SKILL.md) direkt zum benötigten Ergebnis. Bei ausgewähltem Angebot führt [Bestellung und Vertrag absichern](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/skills/bestellung-und-vertrag-absichern/SKILL.md) den geprüften Stand in einen Freigabeentwurf über.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

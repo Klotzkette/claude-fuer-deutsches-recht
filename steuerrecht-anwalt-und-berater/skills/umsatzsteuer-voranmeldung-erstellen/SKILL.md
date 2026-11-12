@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-voranmeldung-erstellen
-description: "Erstellt eine Umsatzsteuer-Voranmeldung aus Rechnungen, Gutschriften, Bankdaten und Buchungen. Prüft Zeitraum, Soll- oder Istbesteuerung, Steuerbefreiungen, Vorsteuer, Auslandsfälle und Berichtigungen und liefert eine belegte ELSTER-Erfassungstabelle. Bereitet verifizierten XML-Import oder die beauftragte lokale Übermittlung mit Prüfung und Eingangsprotokoll vor."
+description: "Erstellt Umsatzsteuer-Voranmeldungen aus Belegen und Buchungen. Prüft Zeitraum, Soll- oder Istbesteuerung, Befreiungen, Vorsteuer, Auslandsfälle und Berichtigungen. Liefert eine ELSTER-Tabelle mit Belegzuordnung und bereitet verifizierten XML-Import oder beauftragte lokale Übermittlung mit Eingangsprotokoll vor."
 ---
 
 # Umsatzsteuer-Voranmeldung aus Belegen erstellen

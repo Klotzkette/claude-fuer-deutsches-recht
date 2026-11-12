@@ -1,6 +1,6 @@
 ---
 name: ki-system-betriebsfreigabe-entscheiden
-description: "Prüft die Betriebsfreigabe einer konkreten KI-Systemversion vom isolierten Test bis zur produktiven Nutzung. Rekonstruiert Eingriffe in Arbeits- und Personalentscheidungen und prüft Hochrisikoeinstufung, Übergangsrecht, KI-Kompetenz, Aufsicht, Datenschutz und Beteiligung. Liefert einen belegten Freigabe- oder Aussetzungsvermerk mit Abnahmetests, Verantwortlichen, Terminen und Bedingungen für den Wiederanlauf."
+description: "Prüft die Betriebsfreigabe einer konkreten KI-Systemversion für Pilot, Produktivstart, Update oder Wiederanlauf. Bewertet die Wirkung auf Entscheidungen sowie Hochrisiko, Übergangsrecht, KI-Kompetenz, Aufsicht, Datenschutz und Beteiligung. Liefert einen Freigabe- oder Aussetzungsvermerk mit Abnahmetests, Zuständigkeiten und Fristen."
 ---
 
 # Über die Betriebsfreigabe eines KI-Systems entscheiden

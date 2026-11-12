@@ -27,9 +27,13 @@ from pypdf import PdfReader
 import yaml
 
 from release_routing import case_asset_url, plugin_asset_url
-from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN, pdf_content_errors
+from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "strafvollzug-jva"
@@ -101,10 +105,11 @@ def pdf_text(data):
 def office_pdf_text(data):
     # LibreOffice marks ligatures with /ActualText. pypdf and pdfplumber can
     # duplicate the following character; Poppler respects the replacement text.
+    # Use drawing order so a wrapped cell stays together across text lines.
     executable = shutil.which("pdftotext")
     if not executable:
         raise RuntimeError("pdftotext (Poppler) ist für die native Office-PDF-Prüfung erforderlich.")
-    return subprocess.run([executable, "-", "-"], input=data,
+    return subprocess.run([executable, "-raw", "-", "-"], input=data,
                           stdout=subprocess.PIPE, stderr=subprocess.PIPE,
                           check=True).stdout.decode("utf-8")
 
@@ -189,11 +194,12 @@ class JVAComponentTests(unittest.TestCase):
             self.assertTrue(yaml.safe_load(parts[1])["description"])
             self.assertIn("$ARGUMENTS", parts[2])
         for path in PLUGIN.rglob("*.md"):
+            link_root = ROOT if path == PLUGIN / "README.md" else PLUGIN
             for target in re.findall(r"\]\(([^ )]+)\)", path.read_text()):
                 if target.startswith(("https:", "http:", "#", "mailto:")):
                     continue
                 dest = (path.parent / unquote(target.split("#")[0])).resolve()
-                self.assertTrue(dest.is_relative_to(PLUGIN.resolve()), f"{path}: {target}")
+                self.assertTrue(dest.is_relative_to(link_root.resolve()), f"{path}: {target}")
                 self.assertTrue(dest.exists(), f"{path}: {target}")
 
     def test_prompt_pairs_and_review_hashes(self):
@@ -322,18 +328,28 @@ class JVAComponentTests(unittest.TestCase):
                 self.assertEqual(sha(path), before)
 
     def test_download_notices_links_and_component_routes(self):
+        downloads = module("validate-testakten-readme-downloads.py")
         readme = (PLUGIN / "README.md").read_text()
         self.assertIn("/strafvollzug-jva-v1.1.0/", plugin_asset_url(NAME))
+        errors = []
+        downloads.validate_download_notices(f"{NAME}/README.md", readme, errors)
+        downloads.validate_release_routes(f"{NAME}/README.md", readme, errors)
+        self.assertFalse(errors)
         for c in CASES:
             release = "/strafvollzug-jva-v1.0.0/" if c in LEGACY_CASES else "/strafvollzug-jva-v1.1.0/"
-            text = (ROOT / "testakten" / c / "README.md").read_text()
-            self.assertIn(NOTICE_MARKDOWN, text)
-            for suffix in ("", "-einzelpdfs"):
-                self.assertIn(release, case_asset_url(c, suffix))
-                self.assertIn(f"testakte-{c}{suffix}.zip", text)
-            self.assertIn(f"{c}_gesamt.pdf", text)
-            self.assertLess(text.index(NOTICE_MARKDOWN), text.index("releases/download/"))
-            self.assertIn(c + "/README.md", readme)
+            directory = ROOT / "testakten" / c
+            text = (directory / "README.md").read_text()
+            with self.subTest(case=c):
+                errors = []
+                self.assertEqual(downloads.validate_local_readme(c, directory, errors), 6, errors)
+                self.assertFalse(errors)
+                self.assertIn(release, case_asset_url(c, "-einzelpdfs"))
+                for suffix in ("", "-einzelpdfs"):
+                    link = f"]({case_asset_url(c, suffix)})"
+                    self.assertIn(link, text)
+                    self.assertIn(link, readme)
+                self.assertIn(f"](gesamt-pdf/{c}_gesamt.pdf)", text)
+                self.assertIn(c + "/README.md", readme)
         for kind in KINDS:
             for suffix in ("md", "txt", "pdf"):
                 self.assertIn(f"{NAME}-{kind}.{suffix}", readme)
@@ -492,20 +508,25 @@ class JVAComponentTests(unittest.TestCase):
             original = DIST / f"testakte-{case}.zip"
             single = DIST / f"testakte-{case}-einzelpdfs.zip"
             original_validator.assert_same(original.name, original_validator.expected_entries(folder),
-                                           original_validator.zip_entries(original, require_notice=True))
+                                           original_validator.zip_entries(
+                                               original, require_notice=True,
+                                               allow_directories=original_zip_preserves_directories(folder)))
             single_validator.assert_same(single.name, ["README.txt", *single_validator.expected_arcnames(folder)],
                                          single_validator.zip_entries(single, expected_suffix=".pdf"))
+            include_combined = source_zip_includes_gesamt_pdf(folder)
+            combined_name = f"{case}_gesamt.pdf"
+            combined_data = (DIST / combined_name).read_bytes()
+            self.assertEqual((folder / "gesamt-pdf" / combined_name).read_bytes(), combined_data)
             with zipfile.ZipFile(original) as archive:
                 self.assertEqual(archive.namelist()[0], "README.txt")
                 self.assertEqual(archive.read("README.txt"), NOTICE_BYTES)
                 originals = list(working_dump_archive_pairs(folder, include_gesamt_pdf=False))
-                self.assertEqual(len(archive.namelist()), len(originals) + 2)
+                self.assertEqual(len(archive.namelist()), len(originals) + 1 + include_combined)
                 for original_path, filename in originals:
                     self.assertEqual(archive.read(filename), original_path.read_bytes(), f"{case}/{filename}")
                     total += 1
-                combined_data = (DIST / f"{case}_gesamt.pdf").read_bytes()
-                self.assertEqual(archive.read(f"{case}_gesamt.pdf"), combined_data)
-                self.assertEqual((folder / "gesamt-pdf" / f"{case}_gesamt.pdf").read_bytes(), combined_data)
+                if include_combined:
+                    self.assertEqual(archive.read(combined_name), combined_data)
             combined = PdfReader(io.BytesIO(combined_data))
             page_number = 0
             with zipfile.ZipFile(single) as archive:

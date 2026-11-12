@@ -1,0 +1,87 @@
+{
+  "arbeitszeugnis-analyse-bluehendes-leben": [
+    "01-sachverhalt-und-offene-punkte.docx",
+    "12-email-nachforderung-originale.eml",
+    "13-email-weiterleitung-voss-intern.eml"
+  ],
+  "familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung": [
+    "eml/01_bamf_anhoerungs_einladung.eml",
+    "eml/02_deutsche_botschaft_teheran_ablehnung.eml",
+    "pdfs/aerztliches_attest_herzleiden_redacted.pdf",
+    "pdfs/bamf_ablehnungsbescheid_redacted.pdf"
+  ],
+  "hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung": [
+    "docx/aufgabenstellung_wandersleben_ss26_original.docx",
+    "emails/2026-04-12_wandersleben_an_studenten_themenausgabe.eml"
+  ],
+  "jva-bw-schutzmassnahmen-finkbeiner": [
+    "03_Eingabe_30_September.docx",
+    "09_Schutzanordnung_28_September.pdf",
+    "10_Bekanntgabe_und_Verwahrung.pdf",
+    "11_Beobachtungsnotiz_29_September.pdf"
+  ],
+  "jva-hessen-absonderung-hagedorn": [
+    "03_Eingabe_an_die_Anstaltsleitung.docx",
+    "09_Anordnung_09_September.pdf",
+    "11_Dienstbericht_Fruehdienst.pdf",
+    "12_Dienstbericht_Spaetdienst.pdf"
+  ],
+  "kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen": [
+    "Tatsachenauszuege/00_Sachauszug_Erstgespraech_14_Februar_2026.txt",
+    "emails/2026-02-14_grosskopf_an_kanzlei_zusammenschluss_idee.eml"
+  ],
+  "ki-register-fuldatal-sozialhilfe": [
+    "01_Pruefauftrag.docx",
+    "02_Versionsnotiz.docx",
+    "04_Auftrag.eml",
+    "05_Anbieter.eml",
+    "06_Planungswerte.eml",
+    "07_Fachamt.eml",
+    "11_Versionsvergleich.xlsx",
+    "12_Projektchat.txt"
+  ],
+  "krisenfrueherkennung-starug-vier-varianten": [
+    "01_veyra_Liquiditaetsplan_24-Monate_Stand-30-04-2026.xlsx",
+    "01_veyra_Mail_Nordlicht-Cloud_Zahlungsrueckstand_02-05-2026.eml",
+    "01_veyra_Mandantenanfrage_GF_03-05-2026.pdf",
+    "02_hartmann_BWA_Q1-2026_15-04-2026.pdf",
+    "02_hartmann_Gesellschaftsprofil_Ersterfassung_15-04-2026.pdf",
+    "04_salaltbar_Verbindlichkeiten_Stand_26-04-2026.csv",
+    "Tatsachenauszuege/03-nordfels-gesellschaftsdaten.txt",
+    "Tatsachenauszuege/03-nordfels-schreiben-westshore.txt",
+    "Tatsachenauszuege/04-salaltbar-eingangsmail.txt"
+  ],
+  "methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim": [
+    "email-mandant-tannenmoor-anfrage.eml",
+    "radarwarner-foto-tatobjekt.jpg",
+    "werkstatt-tannenmoor-schaufenster.jpg"
+  ],
+  "rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach": [
+    "Tatsachenauszuege/fall-01-energieabsperrung-rwe.txt",
+    "Tatsachenauszuege/fall-02-jobcenter-rueckforderung.txt",
+    "Tatsachenauszuege/fall-03-vermieterkuendigung-eigenbedarf.txt",
+    "Tatsachenauszuege/fall-04-unterhaltsstreit-vater.txt",
+    "Tatsachenauszuege/fall-05-schuldenregulierung-pauschalreise.txt",
+    "Tatsachenauszuege/fall-06-aufenthaltstitel-verlust.txt",
+    "Tatsachenauszuege/fall-07-inkassoforderung-telefonvertrag.txt",
+    "Tatsachenauszuege/fall-08-grundsicherung-ablehnung.txt",
+    "Tatsachenauszuege/fall-09-arbeitslosengeld-sperrzeit.txt",
+    "Tatsachenauszuege/fall-10-fluggast-pauschale.txt"
+  ],
+  "uhaft-sechsmonate-kornfeld-dresden": [
+    "02_Gutachterauftrag.docx",
+    "03_Gutachten_Brandspuren.docx",
+    "Tatsachenauszuege/01-festnahme-und-ermittlungsstand.txt"
+  ],
+  "verkehrsowi-rotlicht-tempo": [
+    "09_fahrtenbuch_arbeitgeber.csv",
+    "Tatsachenauszuege/01-erstgespraech-mertens.txt",
+    "Tatsachenauszuege/02-anhoerung-tatdaten.txt",
+    "Tatsachenauszuege/03-festsetzung-und-tatvorwurf.txt",
+    "Tatsachenauszuege/04-zustellvermerk.txt"
+  ],
+  "wirtschaftsstrafsache-uhaft-bankert-frankfurt": [
+    "Tatsachenauszuege/01-person-und-vorwuerfe-bankert.txt",
+    "eml/02_sta_an_marx_akteneinsicht_01042025.eml"
+  ]
+}

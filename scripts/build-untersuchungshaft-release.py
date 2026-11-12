@@ -46,13 +46,15 @@ def build(dist):
     for path in skills:
         shutil.copyfile(path, dist / f"{NAME}-{path.parent.name}.md")
     cases = json.loads((ROOT / "scripts/data/untersuchungshaft-akten.json").read_text())
+    downloads = plugin / "testakte/downloads"
     for case in cases:
         slug = case["slug"]
-        pdf = ROOT / "testakten" / slug / "gesamt-pdf" / f"{slug}_gesamt.pdf"
-        shutil.copyfile(pdf, dist / pdf.name)
+        pdf_name = f"{slug}_gesamt.pdf"
+        with zipfile.ZipFile(downloads / f"testakte-{slug}.zip") as snapshot:
+            (dist / pdf_name).write_bytes(snapshot.read(pdf_name))
         for suffix in ("", "-einzelpdfs"):
             name = f"testakte-{slug}{suffix}.zip"
-            shutil.copyfile(plugin / "testakte/downloads" / name, dist / name)
+            shutil.copyfile(downloads / name, dist / name)
     files = sorted(dist.iterdir())
     if len(files) != 26:
         raise ValueError("Unvollständiger Releaseumfang")

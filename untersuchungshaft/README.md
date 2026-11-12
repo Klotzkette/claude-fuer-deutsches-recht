@@ -5,7 +5,7 @@
 
 Untersuchungshaft für Gericht, Staatsanwaltschaft, Verteidigung und Betroffene: zehn Skills zu Haftbefehl, Vorfuehrung, Haftverschonung, Haftpruefung, Beschwerde, Haftdauer, Vollzugsrechten und Jugendhaft. Mit konkreten Antraegen und Entscheidungsvorlagen.
 
-Dieses Plugin gehört zum Marketplace mit 313 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 314 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`untersuchungshaft-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 313 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 314 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -64,7 +64,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 | --- | --- | --- | --- |
 | [1. Haftverschonung Fliederborn Berlin](../testakten/uhaft-haftverschonung-fliederborn-berlin/README.md) | [Gesamt-PDF](../testakten/uhaft-haftverschonung-fliederborn-berlin/gesamt-pdf/uhaft-haftverschonung-fliederborn-berlin_gesamt.pdf) | [`testakte-uhaft-haftverschonung-fliederborn-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin.zip) | [`testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip) |
 | [1. Haftvorführung Wolkensteg Bremen](../testakten/uhaft-jugend-wolkensteg-bremen/README.md) | [Gesamt-PDF](../testakten/uhaft-jugend-wolkensteg-bremen/gesamt-pdf/uhaft-jugend-wolkensteg-bremen_gesamt.pdf) | [`testakte-uhaft-jugend-wolkensteg-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen.zip) | [`testakte-uhaft-jugend-wolkensteg-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-jugend-wolkensteg-bremen-einzelpdfs.zip) |
-| [1. Sechsmonatsvorlage Kornfeld Dresden](../testakten/uhaft-sechsmonate-kornfeld-dresden/README.md) | [Gesamt-PDF](../testakten/uhaft-sechsmonate-kornfeld-dresden/gesamt-pdf/uhaft-sechsmonate-kornfeld-dresden_gesamt.pdf) | [`testakte-uhaft-sechsmonate-kornfeld-dresden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden.zip) | [`testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip) |
+| [1. Sechsmonatsvorlage Kornfeld Dresden](../testakten/uhaft-sechsmonate-kornfeld-dresden/README.md) | [Gesamt-PDF](../testakten/uhaft-sechsmonate-kornfeld-dresden/gesamt-pdf/uhaft-sechsmonate-kornfeld-dresden_gesamt.pdf) | [`testakte-uhaft-sechsmonate-kornfeld-dresden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden.zip) | [`testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip) |
 | [1. Kontakte und Vollzugsalltag Falkenried Köln](../testakten/uhaft-vollzug-falkenried-koeln/README.md) | [Gesamt-PDF](../testakten/uhaft-vollzug-falkenried-koeln/gesamt-pdf/uhaft-vollzug-falkenried-koeln_gesamt.pdf) | [`testakte-uhaft-vollzug-falkenried-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln.zip) | [`testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
@@ -188,8 +188,8 @@ Dresden: a pending six-month review with expert evidence, scheduling corresponde
 | Format | Download |
 | --- | --- |
 | Gesamt-PDF / Combined PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/testakten/uhaft-sechsmonate-kornfeld-dresden/gesamt-pdf/uhaft-sechsmonate-kornfeld-dresden_gesamt.pdf) |
-| Einzel-PDFs / Individual PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip) |
-| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden.zip) |
+| Einzel-PDFs / Individual PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden-einzelpdfs.zip) |
+| Originalunterlagen / Native documents | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-uhaft-sechsmonate-kornfeld-dresden.zip) |
 
 ### 1.4.4. Haftvorführung Wolkensteg Bremen
 
