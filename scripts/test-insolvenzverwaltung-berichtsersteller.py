@@ -32,7 +32,7 @@ import yaml
 from quality_lab import validate_profile
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_einzelpdf_common import document_arcname_pairs
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -733,7 +733,7 @@ class BerichtserstellerTest(unittest.TestCase):
             with zipfile.ZipFile(DIST / f"testakte-{case}.zip") as archive:
                 self.assertIsNone(archive.testzip())
                 self.assertTrue(archive.read("README.txt").startswith(NOTICE_BYTES))
-                expected = working_dump_archive_pairs(directory, include_gesamt_pdf=True)
+                expected = working_dump_archive_pairs(directory, include_gesamt_pdf=source_zip_includes_gesamt_pdf(directory))
                 for source, arcname in expected:
                     self.assertEqual(archive.read(arcname), source.read_bytes())
             with zipfile.ZipFile(DIST / f"testakte-{case}-einzelpdfs.zip") as archive:

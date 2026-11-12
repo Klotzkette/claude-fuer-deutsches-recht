@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 import zipfile
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES
-from testakte_zip_common import working_dump_expected_arcnames
+from testakte_zip_common import working_dump_flat_pairs
 from testakte_einzelpdf_common import expected_arcnames
 ROOT=Path(__file__).resolve().parents[1]
 NS={'s':'http://schemas.openxmlformats.org/spreadsheetml/2006/main'}
@@ -28,7 +28,7 @@ def main():
   d=ROOT/'testakten'/c['slug'];names={i['name'] for i in c['files']};readme=(d/'README.md').read_text();assert 'reserved-example-contacts' in readme
   for link in ['../../README.md','../../ASSET_INDEX.md','../README.md','../../insolvenzsachbearbeitung/README.md']:assert link in readme
   for marker in ['<!-- BEGIN gesamt-pdf-section (autogen) -->','<!-- END gesamt-pdf-section (autogen) -->']:assert marker in readme
-  original_validator.assert_same(c['slug'],working_dump_expected_arcnames(d,include_gesamt_pdf=False),original_validator.zip_entries(args.dist/f"testakte-{c['slug']}.zip",require_notice=True))
+  original_validator.assert_same(c['slug'],['README.txt', *(arc for _, arc in working_dump_flat_pairs(d, include_gesamt_pdf=False))],original_validator.zip_entries(args.dist/f"testakte-{c['slug']}.zip",require_notice=True))
   pdf_validator.assert_same(c['slug'],['README.txt',*expected_arcnames(d)],pdf_validator.zip_entries(args.dist/f"testakte-{c['slug']}-einzelpdfs.zip",expected_suffix='.pdf'))
   attachment_count=0;xlsx_count=0
   with zipfile.ZipFile(args.dist/f"testakte-{c['slug']}.zip") as z:
