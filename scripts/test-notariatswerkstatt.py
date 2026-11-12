@@ -15,6 +15,7 @@ from docx import Document
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import expected_arcnames
+from testakte_grundakte import FOLDER, selection
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = ROOT / 'notariat-alltag'
@@ -157,33 +158,40 @@ class NotariatswerkstattTests(unittest.TestCase):
                     if source.is_file() and source.name[:2].isdigit():
                         self.assertIn(source.name, text)
 
-    def test_archives_are_flat_and_match_the_sources(self):
+    def test_archives_match_the_sources_and_format_specific_paths(self):
+        intake_selection = selection()["central"]
         for slug in CASES:
             case = ROOT / 'testakten' / slug
             sources = {p.name: p for p in case.iterdir() if p.is_file() and p.name[:2].isdigit()}
             expected = set(expected_arcnames(case))
             self.assertEqual(len(expected), 8)
+            intake = set(intake_selection[slug])
+            self.assertTrue(intake and intake <= sources.keys(), slug)
+            original_entries = {
+                f'{FOLDER}/{name}' if name in intake else name: source
+                for name, source in sources.items()
+            }
             for filename in ('build-testakten-release-zips.py', 'build-testakten-einzelpdf-zips.py'):
                 with self.subTest(case=slug, builder=filename), tempfile.TemporaryDirectory() as directory:
                     path, _ = builder(filename).build_single(case, Path(directory))
                     with zipfile.ZipFile(path) as archive:
                         names = archive.namelist()
                         self.assertEqual(len(names), len(set(names)))
-                        self.assertTrue(all('/' not in n and chr(92) not in n for n in names))
                         self.assertFalse(any(n.endswith('.md') for n in names))
+                        self.assertEqual(names[0], 'README.txt')
                         self.assertEqual(archive.read('README.txt'), NOTICE_BYTES)
                         self.assertIsNone(archive.testzip())
                         if 'einzelpdf' in filename:
+                            self.assertTrue(all('/' not in n and chr(92) not in n for n in names))
                             self.assertEqual(set(names), expected | {'README.txt'})
                             for name in expected:
                                 data = archive.read(name)
                                 self.assertEqual(pdf_content_errors(data), [], name)
                                 self.assertGreater(len(PdfReader(io.BytesIO(data)).pages), 0)
                         else:
-                            self.assertEqual(set(names), set(sources) | {'README.txt', f'{slug}_gesamt.pdf'})
-                            for name, source in sources.items():
+                            self.assertEqual(set(names), original_entries.keys() | {'README.txt'})
+                            for name, source in original_entries.items():
                                 self.assertEqual(archive.read(name), source.read_bytes())
-                            self.assertEqual(archive.read(f'{slug}_gesamt.pdf'), (case / 'gesamt-pdf' / f'{slug}_gesamt.pdf').read_bytes())
 
     def test_cases_are_listed_in_plugin_and_central_index(self):
         for path in (PLUGIN / 'README.md', ROOT / 'testakten/README.md'):

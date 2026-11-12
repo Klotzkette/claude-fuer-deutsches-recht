@@ -40,6 +40,6 @@ Ralf Büning möchte seine Beteiligung an der Weserbogen Technik GmbH an Alina V
 
 ## 3. Formate und Zugriff
 
-Acht getrennte Unterlagen in DOCX, EML und TXT bilden den Arbeitsordner. Das Gesamt-PDF und das Einzel-PDF-ZIP enthalten dieselben Dokumente. Das Originalformat-ZIP enthält die nativen Dateien und das Gesamt-PDF, ohne Unterordner oder Markdown. Beide ZIPs enthalten eine README.txt mit dem vorgeschriebenen Hinweis. Entwürfe, die erst aus diesen Unterlagen erstellt werden sollen, sind nicht als Ergebnis vorgegeben.
+Acht getrennte Unterlagen in DOCX, EML und TXT bilden den Arbeitsordner. Das Gesamt-PDF und das Einzel-PDF-ZIP enthalten dieselben Dokumente. Im Originalformat-ZIP liegen die Eingangsunterlagen im Ordner `Grundakte`. Die PDF-Lesefassung steht als eigener Download bereit. Beide ZIPs enthalten eine README.txt mit dem vorgeschriebenen Hinweis. Entwürfe, die erst aus diesen Unterlagen erstellt werden sollen, sind nicht als Ergebnis vorgegeben.
 
-English: Eight separate source documents for notarial staff preparation. Choose the combined PDF for reading, the individual-PDF ZIP for separate documents or the native-format ZIP for the original working files. Both ZIP archives are flat. Outstanding evidence and pending decisions remain open; the documents do not prescribe an outcome.
+English: Eight separate source documents for notarial staff preparation. Choose the combined PDF for reading, the individual-PDF ZIP for separate documents or the native-format ZIP for the original working files. Start with the `Grundakte` folder inside the native archive. Outstanding evidence and pending decisions remain open; the documents do not prescribe an outcome.
