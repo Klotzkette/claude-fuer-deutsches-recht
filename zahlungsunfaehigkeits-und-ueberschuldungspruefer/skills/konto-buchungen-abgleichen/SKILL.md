@@ -20,13 +20,20 @@ Erfasse Konto und Währung, jeweilige Salden, Buchungstag, Wertstellung, Zeitpun
 3. Erkenne Eigenüberträge mit Gegenbuchung. Sie verändern den Standort der Liquidität. Bei zeitversetzter Gutschrift oder einem gesperrten Zielkonto kann die Verfügbarkeit trotzdem wechseln. Doppelzählung von Originalauszug und Duplikat ausschließen. Konten verschiedener Rechtsträger einzeln halten.
 4. Gib pro Vorgang Rechtsgrund, Tilgungszuordnung und Restforderung an, soweit belegt. Trenne nur im Journal erfasste Vorgänge, später zurückgebuchte Zahlungen und tatsächlich endgültige Mittelbewegungen. Wenn ein Auszug keine Uhrzeit zeigt und derselbe Tag entscheidend ist, führe Alternativen mit Belegbedarf.
 
+5. Führe ein Eingangsprotokoll je Datei mit Absender, Erhalt, Zeitraum und Kennzeichnung als Original, Export, Duplikat oder nachträgliche Rekonstruktion. Bewahre den unbearbeiteten Bestand. Ein Screenshot kann Buchungen zeigen, ersetzt aber den Auszug samt Salden und Folgeblättern nicht. In EML-Dateien Kopfzeilen und Anlagen getrennt erfassen; Anhang und lose Kopie über Belegnummer und Inhalt zusammenführen.
+6. Erstelle einen Konten- und Periodenspiegel. Prüfe Geschäftskonten, Nebenkonten, Kasse, Fremdwährung und Zahlungsdienstleister gegen die Finanzbuchhaltung. Markiere verschwundene Auszugnummern, doppelte Exporte und manuelle Nachbuchungen. Lasse ungeklärte Beträge offen und rechne ihre mögliche Auswirkung; schließe Lücken nicht durch erfundene Zeilen.
 ## 1.4. Quellenpflicht
 
-Die in BGH II ZR 88/16 Rn. 20–27 und II ZR 112/21 Rn. 14–17 behandelten Rechnungen benötigen konkrete Bestände und Fälligkeiten. Ziehe neben den Rechtsquellen die Originalauszüge und Kontenbestätigungen heran. Die [amtliche Quellenübersicht](../../references/insolvenzreife-quellen.md) führt zu Normen und Volltexten. Zitiere nur fallbezogen geprüfte Fundstellen und nenne Belegdatei und Stelle für jede entscheidende Tatsache.
+Die Rechnungen benötigen konkrete Bestände und Fälligkeiten. Originalauszüge und Kontenbestätigungen tragen die Zahlen; die Rechtsprechung ersetzt diese Belege nicht.
+
+- [BGH, Urteil vom 19. Dezember 2017 – Az. II ZR 88/16, Rn. 20–27 und 58–59](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1).
+- [BGH, Urteil vom 28. Juni 2022 – Az. II ZR 112/21, Rn. 14–17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1).
+
+Die [amtliche Quellenübersicht](../../references/insolvenzreife-quellen.md) ordnet die Volltexte und ihre Grenzen ein. Zitiere nur fallbezogen geprüfte Fundstellen. Nenne für jede entscheidende Tatsache die Belegdatei und genaue Stelle.
 
 ## 1.5. Ausgabeformat
 
-Liefere eine Kontenabstimmung mit eindeutigen Beleg-IDs, Saldenabweichungen, ungeklärten Gegenbuchungen und Datenlücken. Formuliere in einem kurzen Begleitvermerk, welche Konten und Tage belastbar sind. Liefere den Vermerk in vollständigen Sätzen und mit dezimaler Gliederung. Für formatierten Export verwende soweit technisch möglich Times New Roman, 11 pt.
+Liefere eine Kontenabstimmung mit eindeutigen Beleg-IDs, Saldenabweichungen, ungeklärten Gegenbuchungen und Datenlücken. Formuliere in einem kurzen Begleitvermerk, welche Konten und Tage belastbar sind. Liefere zusätzlich die ungeklärten Differenzen mit dem konkret benötigten Kontoauszug oder Gegenbeleg und einer bearbeitbaren Rohdatentabelle. Zahlungseingang, Umsatz, Gewinn und verfügbarer Kassenbestand dürfen dabei nicht gleichgesetzt werden. Liefere den Vermerk gemäß der Ausformulierungspflicht in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungen ersetzen kein Endprodukt. Der Formatstandard ist Times New Roman, 11 pt, soweit technisch möglich, mit ausschließlich dezimaler Gliederung. Die Quellenprüfung folgt den im Repository geltenden Regeln aus `references/zitierweise.md`: verifizierte Rechtsprechung mit Datum, Aktenzeichen und genauer Stelle, Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle.
 
 ## 1.6. Beispiel
 

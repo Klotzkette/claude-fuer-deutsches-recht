@@ -1,3 +1,9 @@
+# Zahlungsunfähigkeits- und Überschuldungsprüfer 1.1.0 vom 13. November 2026
+
+Alle elf Skills und beide Prompts sind an 20 amtlichen BGH-Entscheidungen überprüft. Der Rechner trennt Zahlungseinstellung, Rechenbefund und Beleglücken und behandelt historische Prognosezeiträume gesondert.
+
+Die drei Testakten enthalten 84 zusätzliche Originaldateien und ein eigenes Sammel-ZIP mit ausschließlich den 216 Eingangsunterlagen. Verfahrensstücke und Nachbesprechung bleiben getrennt. [Umfang, Quellenprüfung und Prüfgrenzen](docs/releases/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0.md).
+
 # 1. Kündigungsschutzklagewerkstatt 1.1.0 vom 22. Oktober 2026
 
 Das Mandat Muster / Seewerk ist in zwei getrennten Fassungen aufgenommen: vorlagengetreu mit vierzehn logischen Anlagen sowie als ausführliche Lebensakte mit weiteren Originaldokumenten und App-Ansichten. Jede Fassung bietet einen Gesamtband, dokumentweise getrennte Einzel-PDFs, native Originale und einen zusätzlichen Satz mit genau K1 bis K14.

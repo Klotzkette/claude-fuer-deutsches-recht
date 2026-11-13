@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZahlungsausgangExport format="Interner ERP-Export" version="1" unternehmen="Spreeglasur Industriekeramik GmbH" erstellt="2026-07-07">
+  <Hinweis>Anwendungsinterner Datenexport; keine Bankeinreichungsdatei. Offene Aufträge begründen keine weitere Forderung neben dem genannten Beleg.</Hinweis>
+  <Vorgang beleg="CB-K02-01">
+    <Empfaenger>Tonfeld Rohstoffe GmbH</Empfaenger>
+    <BetragCent>3481400</BetragCent>
+    <FaelligkeitLautStamm>2024-08-02</FaelligkeitLautStamm>
+    <Ausfuehrung>2024-08-02</Ausfuehrung>
+    <Bankreferenz>CB-K02-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-K12-04">
+    <Empfaenger>Werkofen Service OHG</Empfaenger>
+    <BetragCent>1121500</BetragCent>
+    <FaelligkeitLautStamm>2025-06-13</FaelligkeitLautStamm>
+    <Ausfuehrung>2025-06-13</Ausfuehrung>
+    <Bankreferenz>CB-K12-04-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-CAPEX-01">
+    <Empfaenger>Werkofen Service OHG</Empfaenger>
+    <BetragCent>17680000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-08</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-08</Ausfuehrung>
+    <Bankreferenz>CB-CAPEX-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-FA-01">
+    <Empfaenger>Finanzamt Cottbus</Empfaenger>
+    <BetragCent>7800000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-11</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-GAS-01">
+    <Empfaenger>Lausitz Industriegas GmbH</Empfaenger>
+    <BetragCent>12200000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-11</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-RATE-01">
+    <Empfaenger>Lausitzer Werkbank AG</Empfaenger>
+    <BetragCent>5800000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-19</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-TON-01">
+    <Empfaenger>Tonfeld Rohstoffe GmbH</Empfaenger>
+    <BetragCent>4000000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-22</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-22</Ausfuehrung>
+    <Bankreferenz>CB-TON-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-SV-01">
+    <Empfaenger>Betriebskrankenkasse Werk &amp; Land</Empfaenger>
+    <BetragCent>3900000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-27</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="CB-LOHN-01">
+    <Empfaenger>Treuhand Zeit &amp; Lohn GmbH</Empfaenger>
+    <BetragCent>5000000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-29</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-29</Ausfuehrung>
+    <Bankreferenz>CB-LOHN-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+</ZahlungsausgangExport>

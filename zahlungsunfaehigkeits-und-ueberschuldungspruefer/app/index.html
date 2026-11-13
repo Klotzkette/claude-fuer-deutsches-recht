@@ -18,11 +18,22 @@
   <main class="wrap">
     <section class="card" aria-labelledby="input-title">
       <h2 id="input-title">Falldaten</h2>
-      <p>Öffnen Sie eine JSON-Datei oder fügen Sie den Inhalt ein. Die Berechnung erfolgt in diesem Browser.</p>
+      <p>Erfassen Sie belegte Positionen aus der Grundakte als JSON. Der Rechner summiert die eingegebenen Ansätze und zeigt offene Punkte. Die Berechnung erfolgt in diesem Browser.</p>
+      <details>
+        <summary>Von den Originalunterlagen zur Stichtagsrechnung</summary>
+        <ol>
+          <li>Konten, Kreditlinien und offene Posten abstimmen. Eine Zahlungsliste allein zeigt weder alle fälligen Schulden noch frei verfügbare Mittel.</li>
+          <li>Jede Position mit Betrag, Datum und genauer Fundstelle erfassen. Bestreiten, Stundung, Nachrang, Sicherheiten und Drittmittel gesondert begründen. Ungeklärte Positionen bleiben offen.</li>
+          <li>Für § 19 Eigentum und nachvollziehbare Verwertungswerte sowie die damalige Fortbestehensprognose prüfen. Den späteren Insolvenzverkaufspreis nicht ungeprüft zurückübertragen.</li>
+          <li>Rechnung und Zahlungseinstellung getrennt würdigen. Weitere Stichtage ergänzen, bis sich die relevante Veränderung anhand der Unterlagen eingrenzen lässt.</li>
+        </ol>
+        <p>Das Applet liest keine PDFs oder Bankauszüge. Die Skills und Prompts helfen bei der Belegauswertung. Die Originaldateien und jede rechtliche Einordnung sind vor der Übernahme in den Rechner zu prüfen.</p>
+      </details>
       <div class="file-actions">
         <label for="file">JSON-Datei auswählen</label>
         <input type="file" id="file" accept=".json,application/json">
         <button type="button" id="sample" class="secondary">Beispiel öffnen</button>
+        <button type="button" id="blank" class="secondary">Leere Arbeitsdatei</button>
       </div>
       <label for="input">JSON-Eingabe</label>
       <textarea id="input" rows="8" spellcheck="false" placeholder='{"caseName":"…","dates":[…]}'></textarea>

@@ -28,7 +28,8 @@
             "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
             "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
             "amountCents": 0,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
           },
           {
             "id": "PR-INV-03",
@@ -76,7 +77,7 @@
           },
           {
             "id": "PR-CAPEX-01",
-            "description": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+            "description": "Luftwert Flugtechnik GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
             "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK",
             "amountCents": 3280000,
             "decision": "include"
@@ -132,7 +133,8 @@
             "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
             "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
             "amountCents": 0,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
           },
           {
             "id": "PR-INV-03",
@@ -180,7 +182,7 @@
           },
           {
             "id": "PR-CAPEX-01",
-            "description": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+            "description": "Luftwert Flugtechnik GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
             "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK",
             "amountCents": 3280000,
             "decision": "include"
@@ -205,7 +207,7 @@
           "through": "2027-05-04",
           "source": "PR-PLAN-2026-05-04",
           "failureOn": "2026-09-30",
-          "reason": "Ungedeckter Finanzbedarf ab 2026-09 von 19.032,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+          "reason": "Ungedeckter Finanzbedarf ab 2026-09 von 19.032,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
         }
       }
     },
@@ -233,7 +235,8 @@
             "kind": "cash",
             "amountCents": 7500000,
             "availableOn": "2026-05-17",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Linie ist bereits vollständig in Anspruch genommen. Der nominelle Rahmen schafft keine zusätzliche freie Liquidität."
           },
           {
             "id": "PR-PAT-02",
@@ -242,7 +245,8 @@
             "kind": "cash",
             "amountCents": 36000000,
             "availableOn": "2026-05-17",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
           },
           {
             "id": "PR-DEB-01",
@@ -269,7 +273,8 @@
             "kind": "inflow",
             "amountCents": 8700000,
             "availableOn": "2026-06-02",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die vorsorgliche Kontingentabrechnung wurde widerrufen. Ein auf dieser Rechnung beruhender Zahlungseingang im Dreiwochenfenster ist nicht belegt."
           }
         ],
         "liabilities": [
@@ -397,7 +402,8 @@
             "kind": "cash",
             "amountCents": 7500000,
             "availableOn": "2026-05-18",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Linie ist bereits vollständig in Anspruch genommen. Der nominelle Rahmen schafft keine zusätzliche freie Liquidität."
           },
           {
             "id": "PR-PAT-02",
@@ -406,7 +412,8 @@
             "kind": "cash",
             "amountCents": 36000000,
             "availableOn": "2026-05-18",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
           },
           {
             "id": "PR-DEB-01",
@@ -433,7 +440,8 @@
             "kind": "inflow",
             "amountCents": 8700000,
             "availableOn": "2026-06-02",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die vorsorgliche Kontingentabrechnung wurde widerrufen. Ein auf dieser Rechnung beruhender Zahlungseingang im Dreiwochenfenster ist nicht belegt."
           },
           {
             "id": "PR-DEB-03",
@@ -559,7 +567,8 @@
             "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
             "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
             "amountCents": 0,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
           },
           {
             "id": "PR-INV-03",
@@ -674,7 +683,7 @@
           "through": "2027-05-18",
           "source": "PR-PLAN-2026-05-18",
           "failureOn": "2026-05-31",
-          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 89.545,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 89.545,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
         }
       }
     },
@@ -713,7 +722,8 @@
             "kind": "cash",
             "amountCents": 7500000,
             "availableOn": "2026-05-26",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Linie ist bereits vollständig in Anspruch genommen. Der nominelle Rahmen schafft keine zusätzliche freie Liquidität."
           },
           {
             "id": "PR-PAT-02",
@@ -722,7 +732,8 @@
             "kind": "cash",
             "amountCents": 36000000,
             "availableOn": "2026-05-26",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
           },
           {
             "id": "PR-DEB-04",
@@ -731,7 +742,8 @@
             "kind": "inflow",
             "amountCents": 8700000,
             "availableOn": "2026-06-02",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die vorsorgliche Kontingentabrechnung wurde widerrufen. Ein auf dieser Rechnung beruhender Zahlungseingang im Dreiwochenfenster ist nicht belegt."
           },
           {
             "id": "PR-DEB-03",
@@ -886,7 +898,8 @@
             "kind": "cash",
             "amountCents": 36000000,
             "availableOn": "2026-06-19",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
           },
           {
             "id": "PR-DEB-06",
@@ -985,7 +998,8 @@
             "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
             "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
             "amountCents": 0,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
           },
           {
             "id": "PR-INV-03",
@@ -1079,7 +1093,7 @@
           "through": "2027-06-19",
           "source": "PR-PLAN-2026-06-19",
           "failureOn": "2026-06-30",
-          "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 192.713,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+          "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 192.713,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
         }
       }
     }

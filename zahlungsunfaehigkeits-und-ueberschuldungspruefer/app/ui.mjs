@@ -97,7 +97,15 @@ function findingPanel(kind, finding) {
   content.append(node('h3', kind), node('p', finding.label, 'finding'), node('p', finding.detail))
   if (!finding.totals) return content
   const totals = finding.totals
+  if (!finding.complete) content.append(node('p', 'Die folgenden Summen umfassen nur die bislang erfassten Positionen.', 'muted'))
   if (finding.timeline) {
+    if (finding.result !== finding.arithmetic.result) content.append(node('p', `Rechenbefund: ${finding.arithmetic.label}. ${finding.arithmetic.detail}`))
+    const cessationLabels = { established: 'Als festgestellt und nicht widerlegt eingegeben', rebutted: 'Vermutung als widerlegt eingegeben', open: 'Gesonderte Würdigung offen' }
+    const cessation = finding.paymentCessation
+    content.append(node('p', `Zahlungseinstellung: ${cessationLabels[cessation.result]}.`))
+    if (cessation.source) content.append(node('p', `${cessation.reason} Quelle: ${cessation.source}.`),
+      node('p', `Gegenindizien und Wiederaufnahme: ${cessation.counterEvidence}`))
+    if (cessation.externalConduct) content.append(node('p', `Außenverhalten am ${date(cessation.establishedOn)}: ${cessation.externalConduct}`))
     const ratio = totals.remainingGapBasisPoints === null ? '—'
       : percent.format(totals.remainingGapBasisPoints / 10_000)
     const moneyRows = Object.entries(liquidityLabels).map(([key, label]) => [label, amount(totals[key])])
@@ -125,8 +133,20 @@ function findingPanel(kind, finding) {
     if (finding.forecast.source) {
       content.append(node('p', `Prognose bis ${date(finding.forecast.through)}. Quelle ${finding.forecast.source}.`))
     }
-    if (finding.forecast.failureOn) content.append(node('p', `Erfasster Finanzierungsabbruch am ${date(finding.forecast.failureOn)}.`))
-    content.append(node('p', `Zwölfmonatshorizont bis ${date(finding.forecast.requiredThrough)}.`, 'muted'))
+    if (finding.forecast.failureOn) content.append(node('p', `Erfasste späteste zeitliche Grenze des erwarteten Finanzierungsabbruchs: ${date(finding.forecast.failureOn)}.`))
+    content.append(node('p', `Rechtlich zugrunde gelegtes Prognoseende: ${date(finding.forecast.requiredThrough)}.`, 'muted'),
+      node('p', `Zeitraum: ${finding.period.source}. ${finding.period.reason}`, 'muted'))
+  }
+  const openCount = finding.items.filter(row => row.decision === 'open').length
+  const excludedCount = finding.items.filter(row => row.decision === 'exclude').length
+  content.append(node('p', `${finding.items.length} Positionen, davon ${openCount} offen und ${excludedCount} ausgeschlossen. Erfassungsumfang ${finding.complete ? 'als vollständig bestätigt' : 'unvollständig'}.`, 'muted'))
+  if (finding.evidence.length) {
+    const inventory = collapsible('Eingangsunterlagen und offene Nachforderungen')
+    const states = { present: 'Vorhanden', partial: 'Unvollständig', missing: 'Fehlt' }
+    inventory.append(table(['Unterlage', 'Prüfbereich', 'Stand', 'Fundstelle oder fehlender Teil'],
+      finding.evidence.map(row => [`${row.id} · ${row.description}`, row.scope === 'forecast' ? 'Fortbestehensprognose' : 'Rechenpositionen',
+        states[row.status], [row.source, row.reason].filter(Boolean).join(' · ')])))
+    content.append(inventory)
   }
   for (const note of finding.notes) content.append(node('p', note, 'muted'))
   const positions = collapsible('Positionen und Quellen')
@@ -165,6 +185,7 @@ file.addEventListener('change', async () => {
   if (!file.files.length) return
   try {
     input.value = await file.files[0].text()
+    input.scrollTop = 0
     clearReport()
     feedbackText('JSON-Datei geladen. Starten Sie die Berechnung.')
   } catch (error) {
@@ -182,6 +203,7 @@ document.querySelector('#sample').addEventListener('click', async () => {
     const response = await fetch('./beispiel.json')
     if (!response.ok) throw new Error(`HTTP ${response.status}`)
     input.value = await response.text()
+    input.scrollTop = 0
     clearReport()
     feedbackText('Beispiel geladen. Starten Sie die Berechnung.')
   } catch (error) {
@@ -189,11 +211,25 @@ document.querySelector('#sample').addEventListener('click', async () => {
   }
 })
 
+document.querySelector('#blank').addEventListener('click', () => {
+  input.value = JSON.stringify({ caseName: 'Fallbezeichnung eintragen', dates: [{ date: new Date().toISOString().slice(0, 10),
+    liquidity: { complete: false, assets: [], liabilities: [], notes: ['Bankkonten, Kreditlinien, Fälligkeiten und Zuflüsse aus der Grundakte noch erfassen.'],
+      evidence: [{ id: 'BANK', description: 'Kontoauszüge sämtlicher Konten', status: 'missing', reason: 'Noch nicht gesichtet und abgestimmt.' }],
+      paymentCessation: { result: 'open' } },
+    overindebtedness: { complete: false, assets: [], liabilities: [], forecast: { result: 'open' },
+      evidence: [{ id: 'PLAN', description: 'Datierte Finanzplanung und Finanzierungszusagen', scope: 'forecast', status: 'missing', reason: 'Prognosegrundlagen noch nicht gesichtet.' }],
+      notes: ['Eigentum, Verwertungswerte, Verbindlichkeiten und Fortbestehensprognose noch belegen.'] },
+  }] }, null, 2)
+  input.scrollTop = 0
+  clearReport()
+  feedbackText('Leere Arbeitsdatei angelegt. Fallbezeichnung und Stichtag anpassen, dann Belegpositionen ergänzen. Unvollständige Abschnitte bleiben offen.')
+})
+
 document.querySelector('#calculate').addEventListener('click', () => {
   try {
     report = analyzeCase(JSON.parse(input.value.replace(/^\uFEFF/, '')))
     render(report)
-    feedbackText(`${report.results.length} Stichtage berechnet.`)
+    feedbackText(`${report.results.length} ${report.results.length === 1 ? 'Stichtag' : 'Stichtage'} berechnet.`)
   } catch (error) {
     clearReport()
     feedbackText(`Prüfung abgebrochen. ${error.message}`, true)

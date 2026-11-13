@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZahlungsausgangExport format="Interner ERP-Export" version="1" unternehmen="Uckerbogen Rotorcharter GmbH" erstellt="2026-07-07">
+  <Hinweis>Anwendungsinterner Datenexport; keine Bankeinreichungsdatei. Offene Aufträge begründen keine weitere Forderung neben dem genannten Beleg.</Hinweis>
+  <Vorgang beleg="PR-K03-01">
+    <Empfaenger>Rotorservice Havel GmbH</Empfaenger>
+    <BetragCent>2206300</BetragCent>
+    <FaelligkeitLautStamm>2024-09-04</FaelligkeitLautStamm>
+    <Ausfuehrung>2024-09-04</Ausfuehrung>
+    <Bankreferenz>PR-K03-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="PR-K11-04">
+    <Empfaenger>Luftwert Versicherungsmakler GmbH</Empfaenger>
+    <BetragCent>618800</BetragCent>
+    <FaelligkeitLautStamm>2025-05-14</FaelligkeitLautStamm>
+    <Ausfuehrung>2025-05-14</Ausfuehrung>
+    <Bankreferenz>PR-K11-04-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="PR-CAPEX-01">
+    <Empfaenger>Luftwert Flugtechnik GmbH</Empfaenger>
+    <BetragCent>3280000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-15</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-15</Ausfuehrung>
+    <Bankreferenz>PR-CAPEX-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="PR-ROTOR-01">
+    <Empfaenger>Rotorservice Havel GmbH</Empfaenger>
+    <BetragCent>11600000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-18</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="PR-LEASE-01">
+    <Empfaenger>Fluggeräte Pool Ost GmbH</Empfaenger>
+    <BetragCent>4800000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-26</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="PR-SV-01">
+    <Empfaenger>Betriebskrankenkasse Luft &amp; Technik</Empfaenger>
+    <BetragCent>2600000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-27</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="PR-FUEL-01">
+    <Empfaenger>Turbinenkraft Nord KG</Empfaenger>
+    <BetragCent>1800000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-29</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-29</Ausfuehrung>
+    <Bankreferenz>PR-FUEL-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="PR-LOHN-01">
+    <Empfaenger>Uckerflug Personalservice GmbH</Empfaenger>
+    <BetragCent>5000000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-29</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-29</Ausfuehrung>
+    <Bankreferenz>PR-LOHN-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+</ZahlungsausgangExport>

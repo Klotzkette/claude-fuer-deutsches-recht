@@ -34,7 +34,8 @@
             "kind": "cash",
             "amountCents": 24000000,
             "availableOn": "2026-04-19",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
           },
           {
             "id": "BZ-DEB-01",
@@ -52,7 +53,8 @@
             "kind": "inflow",
             "amountCents": 7400000,
             "availableOn": "2026-05-05",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Der Nachtrag ist nicht freigegeben. Ein realisierbarer Zahlungseingang innerhalb des Dreiwochenfensters ist nicht belegt."
           }
         ],
         "liabilities": [
@@ -124,7 +126,8 @@
             "kind": "cash",
             "amountCents": 24000000,
             "availableOn": "2026-04-20",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
           },
           {
             "id": "BZ-DEB-01",
@@ -142,7 +145,8 @@
             "kind": "inflow",
             "amountCents": 7400000,
             "availableOn": "2026-05-05",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Der Nachtrag ist nicht freigegeben. Ein realisierbarer Zahlungseingang innerhalb des Dreiwochenfensters ist nicht belegt."
           },
           {
             "id": "BZ-DEB-02",
@@ -267,7 +271,8 @@
             "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
             "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
             "amountCents": 18500000,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
           },
           {
             "id": "BZ-GEW-01",
@@ -310,7 +315,7 @@
           "through": "2027-04-20",
           "source": "BZ-PLAN-2026-04-20",
           "failureOn": "2026-04-30",
-          "reason": "Ungedeckter Finanzbedarf ab 2026-04 von 87.367,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+          "reason": "Ungedeckter Finanzbedarf ab 2026-04 von 87.367,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
         }
       }
     },
@@ -338,7 +343,8 @@
             "kind": "cash",
             "amountCents": 1500000,
             "availableOn": "2026-05-11",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Kreditlaufzeit ist beendet. Eine verbindliche Fortsetzung oder zusätzliche Abrufmöglichkeit ist nicht dokumentiert."
           },
           {
             "id": "BZ-PAT-01",
@@ -347,7 +353,8 @@
             "kind": "cash",
             "amountCents": 24000000,
             "availableOn": "2026-05-11",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
           },
           {
             "id": "BZ-DEB-03",
@@ -481,7 +488,8 @@
             "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
             "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
             "amountCents": 18500000,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
           },
           {
             "id": "BZ-GEW-01",
@@ -538,7 +546,7 @@
           "through": "2027-05-17",
           "source": "BZ-PLAN-2026-05-17",
           "failureOn": "2026-05-31",
-          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 52.500,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 52.500,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
         }
       }
     },
@@ -592,7 +600,8 @@
             "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
             "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
             "amountCents": 18500000,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
           },
           {
             "id": "BZ-GEW-01",
@@ -649,7 +658,7 @@
           "through": "2027-05-18",
           "source": "BZ-PLAN-2026-05-18",
           "failureOn": "2026-05-31",
-          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 51.400,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 51.400,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
         }
       }
     },
@@ -677,7 +686,8 @@
             "kind": "cash",
             "amountCents": 1500000,
             "availableOn": "2026-06-18",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Kreditlaufzeit ist beendet. Eine verbindliche Fortsetzung oder zusätzliche Abrufmöglichkeit ist nicht dokumentiert."
           },
           {
             "id": "BZ-PAT-01",
@@ -686,7 +696,8 @@
             "kind": "cash",
             "amountCents": 24000000,
             "availableOn": "2026-06-18",
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
           },
           {
             "id": "BZ-DEB-07",
@@ -815,7 +826,8 @@
             "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
             "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
             "amountCents": 18500000,
-            "decision": "exclude"
+            "decision": "exclude",
+            "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
           },
           {
             "id": "BZ-GEW-01",
@@ -879,7 +891,7 @@
           "through": "2027-06-18",
           "source": "BZ-PLAN-2026-06-18",
           "failureOn": "2026-06-30",
-          "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 106.220,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+          "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 106.220,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
         }
       }
     }

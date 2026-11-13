@@ -6,7 +6,11 @@ on:
       - 'testakten/**'
       - 'quality/insolvenz-testakten/**'
       - 'quality/insolvenzreife/**'
-      - 'zahlungsunfaehigkeits-und-ueberschuldungspruefer/app/**'
+      - 'zahlungsunfaehigkeits-und-ueberschuldungspruefer/**'
+      - 'scripts/build-insolvenzreife-*.py'
+      - 'scripts/insolvenzreife_grundakten.py'
+      - 'scripts/test-insolvenzreife-grundakten.py'
+      - 'scripts/data/testakten-grundakten-insolvenzreife.json'
       - 'scripts/data/zu-insolvenzfaelle.json'
       - 'scripts/test-insolvenzreife-rechenfaelle.mjs'
       - 'docs/experimentell/vorlagensammlung-recht/insolvenzrecht/**'
@@ -35,8 +39,10 @@ jobs:
         with:
           node-version: '22'
       - name: Abhängigkeiten installieren
-        run: python3 -m pip install python-docx pypdf
+        run: python3 -m pip install python-docx pypdf reportlab
       - name: Bestand, Aktenstand und Exporttrennung prüfen
         run: python3 scripts/insolvenz-testakten-material.py
       - name: Insolvenzreife aus den drei Akten nachrechnen
         run: node --test zahlungsunfaehigkeits-und-ueberschuldungspruefer/app/engine.test.mjs scripts/test-insolvenzreife-rechenfaelle.mjs
+      - name: Originalbelege, Mailanlagen und Grundakten abgleichen
+        run: python3 scripts/test-insolvenzreife-grundakten.py

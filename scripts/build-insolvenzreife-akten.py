@@ -10,6 +10,7 @@ from email import policy
 from email.message import EmailMessage
 from email.utils import format_datetime
 import json
+import os
 from pathlib import Path
 import re
 from xml.sax.saxutils import escape
@@ -20,7 +21,10 @@ from reportlab.lib.colors import HexColor
 from reportlab.lib.pagesizes import A4, landscape
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfgen.canvas import Canvas
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
+from insolvenzreife_grundakten import build_supplements
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "scripts/data/zu-insolvenzfaelle.json"
@@ -30,6 +34,29 @@ ACCENT = "#006663"
 PAPER = "#EAF2F1"
 MONTHS = ("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August",
           "September", "Oktober", "November", "Dezember")
+
+
+def register_letter_fonts():
+    """Original-TTFs nutzen; keine stillschweigende Ersatzschrift für Kanzleibriefe."""
+    candidates = [Path(os.environ["INSOLVENZREIFE_FONT_DIR"])] if os.environ.get("INSOLVENZREIFE_FONT_DIR") else [
+        Path("/System/Library/Fonts/Supplemental"), Path("/Library/Fonts"),
+        Path("/usr/share/fonts/truetype/msttcorefonts")]
+    variants = {
+        "InsoTimes": ("Times New Roman.ttf", "times.ttf", "Times_New_Roman.ttf"),
+        "InsoTimes-Bold": ("Times New Roman Bold.ttf", "timesbd.ttf", "Times_New_Roman_Bold.ttf"),
+        "InsoTimes-Italic": ("Times New Roman Italic.ttf", "timesi.ttf", "Times_New_Roman_Italic.ttf"),
+        "InsoTimes-BoldItalic": ("Times New Roman Bold Italic.ttf", "timesbi.ttf", "Times_New_Roman_Bold_Italic.ttf"),
+    }
+    for directory in candidates:
+        files = {name: next((directory / filename for filename in filenames if (directory / filename).is_file()), None)
+                 for name, filenames in variants.items()}
+        if all(files.values()):
+            for name, file in files.items():
+                pdfmetrics.registerFont(TTFont(name, str(file)))
+            pdfmetrics.registerFontFamily("InsoTimes", normal="InsoTimes", bold="InsoTimes-Bold",
+                                          italic="InsoTimes-Italic", boldItalic="InsoTimes-BoldItalic")
+            return
+    raise RuntimeError("Lizenzierte Times-New-Roman-TTFs fehlen (Regular, Bold, Italic, Bold Italic); INSOLVENZREIFE_FONT_DIR setzen")
 
 
 def eur(cents):
@@ -131,17 +158,17 @@ def body_paragraphs(item):
 
 def letter_pdf(path, case, item):
     is_court = item["type"] in {"interim_order", "opening_notice", "opening_order"}
-    color = "#344351" if is_court else ACCENT
+    color = item.get("color", "#344351" if is_court else "#304E6C" if item["type"] == "bank" else ACCENT)
     title = item["subject"]
     issuer = item["issuer"]
     kwargs = dict(pagesize=A4, leftMargin=56, rightMargin=56, topMargin=114, bottomMargin=66,
                   title=title, author=issuer)
     document = SimpleDocTemplate(str(path), **kwargs)
-    body = ParagraphStyle("Brief", fontName="Times-Roman", fontSize=11, leading=15, spaceAfter=11,
+    body = ParagraphStyle("Brief", fontName="InsoTimes", fontSize=11, leading=15, spaceAfter=11,
                           textColor=HexColor(INK))
-    heading = ParagraphStyle("Betreff", parent=body, fontName="Times-Bold", fontSize=16, leading=20,
+    heading = ParagraphStyle("Betreff", parent=body, fontName="InsoTimes-Bold", fontSize=16, leading=20,
                              spaceBefore=12, spaceAfter=17)
-    section_heading = ParagraphStyle("Abschnitt", parent=body, fontName="Times-Bold", keepWithNext=True,
+    section_heading = ParagraphStyle("Abschnitt", parent=body, fontName="InsoTimes-Bold", keepWithNext=True,
                                      spaceBefore=4, spaceAfter=5)
     meta = ParagraphStyle("Aktenzeichen", parent=body, fontName="Helvetica", fontSize=9, leading=13,
                           spaceAfter=5)
@@ -167,7 +194,12 @@ def letter_pdf(path, case, item):
         canvas.setFont("Helvetica-Bold", 16 if len(issuer) < 45 else 12)
         canvas.drawString(56, h - 61, issuer)
         canvas.setFont("Helvetica", 8)
-        canvas.drawString(56, h - 78, "Insolvenzsachen" if is_court else "Geschäftskorrespondenz")
+        line = item.get("letterhead_line") or ("Insolvenzsachen" if is_court else {
+            "bank": "Firmenkunden und Kreditverwaltung", "contract": "Vertragsverwaltung",
+            "valuation": "Bewertung und Vermarktung", "demand": "Forderungsmanagement",
+            "profile": "Betrieb und Organisation", "accounting": "Rechnungswesen", "petition": "Beitrags- und Forderungskonto",
+            "handover": "Insolvenzverwaltung"}.get(item["type"], "Rechnungswesen"))
+        canvas.drawString(56, h - 78, line)
         canvas.drawString(56, 40, item["id"])
         canvas.drawRightString(w - 56, 40, f"Seite {doc.page}")
 
@@ -238,6 +270,7 @@ def mandate(path, case):
 
 
 def make_cases(data, root):
+    register_letter_fonts()
     selection = {}
     for case in data["cases"]:
         directory = root / "testakten" / case["slug"]
@@ -282,6 +315,7 @@ def make_cases(data, root):
                 letter_pdf(target, case, item)
             if not procedural:
                 sources.append(target)
+        sources.extend(build_supplements(case, directory, letter_pdf, csv_file))
         selection[case["slug"]] = [path.relative_to(directory).as_posix() for path in sorted(sources)]
     return selection
 

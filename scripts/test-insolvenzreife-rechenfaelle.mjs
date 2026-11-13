@@ -116,6 +116,7 @@ test('Banklinien, Patronat, Nachrang und Verwertung ändern nur den gewählten P
         } else {
           position.decision = position.decision === 'exclude' ? 'include' : 'exclude'
         }
+        position.reason = 'Abweichende Rechenannahme für den isolierten Sensitivitätstest. Die aktenbasierte Haupteinordnung bleibt im unveränderten Ausgangsfall erhalten.'
         const scenario = findings(changed, date)
         const total = scenario[field].totals
         assert.equal(total.remainingGapCents ?? total.netAssetsCents, amount, id)
@@ -124,4 +125,21 @@ test('Banklinien, Patronat, Nachrang und Verwertung ändern nur den gewählten P
       }
     }
   }
+})
+
+test('Eine später erkannte frühere Wertminderung verschiebt den Befund und nicht bloß das Erkenntnisdatum', () => {
+  const base = casesByPrefix.get('BZ').control.engine_input
+  const earlierValuation = structuredClone(base)
+  for (const entry of earlierValuation.dates) {
+    const hall = entry.overindebtedness?.assets.find(item => item.id === 'BZ-INV-01')
+    if (hall) {
+      hall.amountCents = 54_500_000
+      hall.reason = 'Gegenannahme: Einschränkung des Wegerechts minderte den Verwertungswert bereits an diesem früheren Tag; BZ-WEG-01 und Käuferunterlagen gesondert würdigen.'
+    }
+  }
+  const scenario = analyzeCase(earlierValuation)
+  assert.equal(scenario.firstCandidate.overindebtedness.date, '2026-04-20')
+  assert.equal(findings(earlierValuation, '2026-04-20').overindebtedness.totals.netAssetsCents, -3_512_000)
+  assert.equal(scenario.firstCandidate.overindebtedness.previousContraryDate, null)
+  assert.deepEqual(scenario.results.map(item => item.liquidity), analyzeCase(base).results.map(item => item.liquidity))
 })

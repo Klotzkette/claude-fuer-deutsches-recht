@@ -6,12 +6,14 @@ Für Insolvenzverwaltung, Kanzlei und Rechnungswesen. Rekonstruieren Sie aus Kon
 
 | Arbeitsweg | Datei oder Download |
 | --- | --- |
-| Plugin für die laufende Arbeit | [Plugin-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip) |
+| Plugin für die laufende Arbeit | [Plugin-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip) |
 | ChatGPT oder Claude ohne Plugin | [Werkstatt-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md) |
 | Schneller erster Arbeitsstand | [Mini-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-schnellstart.md) |
 | Einzelne Arbeitsschritte | [Alle elf Skills](../skills-index/zahlungsunfaehigkeits-und-ueberschuldungspruefer.md) |
 
-Laden Sie den Werkstatt-Prompt und den Ordner `Grundakte` in den Chat. Bitten Sie zuerst um einen Saldenabgleich und eine Liste der Stichtage mit ihrem jeweiligen Beweisstand. Der erste Arbeitsstand sollte klar benennen, welche Zahlungen, Fälligkeiten und Werte sich bereits belegen lassen. Laden Sie anschließend bei Bedarf die Verfahrensunterlagen hinzu.
+Laden Sie den Werkstatt-Prompt und zunächst nur den Ordner `Grundakte` in den Chat. Beginnen Sie mit dem Auftrag „Ordne den Eingang, gleiche die Konten und offenen Posten ab und zeige mir, welche Unterlagen und Tatsachen für die erste Prüfung fehlen.“ Danach lassen Sie die Stichtage mit ihrem Beweisstand untersuchen. Kontoauszüge allein zeigen keine vollständige Fälligkeitslage und tragen keine Fortbestehensprognose. Die Skills verbinden deshalb die Geldbewegungen mit Rechnungen, Zahlungsvereinbarungen, Verträgen, Planunterlagen und Vermögensnachweisen.
+
+Im Originalformat-ZIP bleiben die Verfahrensunterlagen in `10_Verfahren` gesondert zugänglich. Das Grundakten-Sammelpaket enthält ausschließlich die Eingangsunterlagen der drei Unternehmen. Vorweggenommene rechtliche Lösungen und Recheneingaben zur Nachbesprechung liegen in einem eigenen Paket.
 
 ## 2. Applet und Kommandozeile
 
@@ -27,11 +29,14 @@ Für dieselbe Rechnung im Terminal verwenden Sie `node app/cli.mjs Eingabe.json`
 
 | Fall | Originalakten und Lesefassungen |
 | --- | --- |
-| Keramikfabrik Cottbus | [Aktenseite](../testakten/insolvenzreife-keramikfabrik-cottbus/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/testakte-insolvenzreife-keramikfabrik-cottbus.zip) |
-| Metallbau Berlin-Zehlendorf | [Aktenseite](../testakten/insolvenzreife-metallbau-berlin-zehlendorf/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/testakte-insolvenzreife-metallbau-berlin-zehlendorf.zip) |
-| Hubschrauberbetrieb Prenzlau | [Aktenseite](../testakten/insolvenzreife-hubschrauber-prenzlau/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
-| Alle drei Originalakten | [Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/Insolvenzreife_Drei_Originalakten.zip) |
+| Keramikfabrik Cottbus | [Aktenseite](../testakten/insolvenzreife-keramikfabrik-cottbus/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/testakte-insolvenzreife-keramikfabrik-cottbus.zip) |
+| Metallbau Berlin-Zehlendorf | [Aktenseite](../testakten/insolvenzreife-metallbau-berlin-zehlendorf/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/testakte-insolvenzreife-metallbau-berlin-zehlendorf.zip) |
+| Hubschrauberbetrieb Prenzlau | [Aktenseite](../testakten/insolvenzreife-hubschrauber-prenzlau/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
+| Nur die drei Grundakten | [Grundakten-Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/Insolvenzreife_Drei_Grundakten.zip) |
+| Alle drei Originalakten | [Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/Insolvenzreife_Drei_Originalakten.zip) |
 
+
+Die drei Fälle verbinden 24 monatliche Bankauszüge pro Unternehmen mit Buchungsdaten, offenen Posten, Geschäftskorrespondenz und den zugehörigen Belegen. Papierartige Briefe und Rechnungen, E-Mails mit Anlagen, Excel und CSV bleiben als Originaldateien erhalten. Die Akten verlangen insbesondere die Prüfung von Verfügbarkeit, Fälligkeit, Durchsetzbarkeit, Bewertungsannahmen und dem damaligen Kenntnisstand.
 
 ## 4. Nachbesprechung
 
@@ -39,7 +44,9 @@ Für dieselbe Rechnung im Terminal verwenden Sie `node app/cli.mjs Eingabe.json`
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Stichtagskontrolle und Recheneingaben herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/Stichtagskontrolle_Nachbesprechung.zip)
+[Stichtagskontrolle und Recheneingaben herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/Stichtagskontrolle_Nachbesprechung.zip)
+
+[Rechtsquellen und Aussagegrenzen](references/insolvenzreife-quellen.md) · [Versionshinweise](../docs/releases/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0.md)
 
 [Insolvenzrecht](../insolvenzrecht/README.md) · [Insolvenzanfechtung](../insolvenzanfechtung/README.md) · [Testakten](../testakten/README.md) · [Download-Index](../ASSET_INDEX.md) · [Alle Skills im Repository](../SKILLS.md) · [Plugin-Dateien](.) · [Repository](../README.md)
 
