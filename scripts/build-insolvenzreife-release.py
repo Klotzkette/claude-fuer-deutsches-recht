@@ -23,7 +23,7 @@ from testakte_zip_common import working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "zahlungsunfaehigkeits-und-ueberschuldungspruefer"
-VERSION = "1.1.0"
+VERSION = "1.2.0"
 TAG = f"{NAME}-v{VERSION}"
 PLUGIN = ROOT / NAME
 CASES = (
@@ -35,6 +35,8 @@ BUNDLE = "Insolvenzreife_Drei_Originalakten.zip"
 INTAKE_BUNDLE = "Insolvenzreife_Drei_Grundakten.zip"
 INVENTORY = "release-bestand.json"
 CHECKSUMS = "checksums-sha256.txt"
+TEMPLATE_BUNDLE = "Insolvenzanfechtung_Vorlagen.zip"
+TEMPLATES = ("01_Anfechtungsschreiben.docx", "02_Anfechtungsklage.docx")
 
 
 def load(name):
@@ -98,7 +100,7 @@ def combined_pdf(single_zip, target, title):
 def asset_names():
     return {
         f"{NAME}.zip", f"{NAME}-portable.zip", f"{NAME}-werkstatt.md", f"{NAME}-schnellstart.md",
-        BUNDLE, INTAKE_BUNDLE, "Stichtagskontrolle_Nachbesprechung.zip",
+        BUNDLE, INTAKE_BUNDLE, "Stichtagskontrolle_Nachbesprechung.zip", TEMPLATE_BUNDLE, *TEMPLATES,
         *(file for slug in CASES for file in (original_name(slug), single_name(slug))),
     }
 
@@ -117,6 +119,14 @@ def build(dist):
     for kind in ("werkstatt", "schnellstart"):
         prompt = f"{NAME}-{kind}.md"
         copyfile(PLUGIN / prompt, dist / prompt)
+    for name in TEMPLATES:
+        copyfile(PLUGIN / "vorlagen" / name, dist / name)
+    with ZipFile(dist / TEMPLATE_BUNDLE, "x") as archive:
+        native.write_bytes(archive, NOTICE_BYTES, NOTICE_FILENAME)
+        for path in sorted((PLUGIN / "vorlagen").iterdir()):
+            if path.is_file() and path.suffix in {".md", ".docx"}:
+                native.write_file(archive, path, path.name)
+        native.write_file(archive, PLUGIN / "references/anfechtung-vorlagen-quellen.md", "Quellen.md")
     for slug in CASES:
         case_dir = ROOT / "testakten" / slug
         native.build_single(case_dir, dist)
@@ -160,7 +170,17 @@ def intake_pairs(slug):
 def inspect(dist):
     native = load("validate-testakten-release-zips")
     pdf = load("validate-testakten-einzelpdf-zips")
-    report = {"tag": TAG, "cases": {}}
+    report = {"tag": TAG, "cases": {}, "templates": {}}
+    for name in TEMPLATES:
+        assert (dist / name).read_bytes() == (PLUGIN / "vorlagen" / name).read_bytes(), name
+        report["templates"][name] = digest(dist / name)
+    with ZipFile(dist / TEMPLATE_BUNDLE) as archive:
+        template_sources = {path.name: path for path in sorted((PLUGIN / "vorlagen").iterdir())
+                            if path.is_file() and path.suffix in {".md", ".docx"}}
+        template_sources["Quellen.md"] = PLUGIN / "references/anfechtung-vorlagen-quellen.md"
+        assert archive.namelist() == [NOTICE_FILENAME, *template_sources]
+        assert archive.read(NOTICE_FILENAME) == NOTICE_BYTES and archive.testzip() is None
+        assert all(archive.read(name) == path.read_bytes() for name, path in template_sources.items())
     for kind in ("werkstatt", "schnellstart"):
         name = f"{NAME}-{kind}.md"
         assert (dist / name).read_bytes() == (PLUGIN / name).read_bytes(), f"Veralteter Prompt: {name}"
@@ -181,11 +201,16 @@ def inspect(dist):
             assert all(archive.read(name) == source.read_bytes() for source, name in pairs)
         bank = sum(name.startswith("Grundakte/01_Bank/Auszug_") for name in expected)
         procedural = sum(name.startswith("10_Verfahren/") for name in expected)
+        templates = [name for name in expected if name.startswith("20_Vorlagen/")]
+        assert set(templates) == {f"20_Vorlagen/{name}" for name in TEMPLATES}, slug
+        with ZipFile(archive_path) as archive:
+            for name in TEMPLATES:
+                assert archive.read(f"20_Vorlagen/{name}") == (PLUGIN / "vorlagen" / name).read_bytes()
         assert bank == 24 and procedural >= 4, slug
         intake = intake_pairs(slug)
-        assert len(intake) + procedural == len(pairs), f"Unzugeordnete Originale: {slug}"
+        assert len(intake) + procedural + len(templates) == len(pairs), f"Unzugeordnete Originale: {slug}"
         assert not any("gesamt" in name.lower() or "recheninput" in name.lower() or name.endswith(".md")
-                       or "/10_Verfahren/" in name for _, name in intake), slug
+                       or "/10_Verfahren/" in name or "/20_Vorlagen/" in name for _, name in intake), slug
         attachments = 0
         for source, name in intake:
             if source.suffix.lower() != ".eml":
@@ -210,12 +235,15 @@ def inspect(dist):
         assert len(reader.pages) == pages and len(reader.outline) == len(expected_pdfs)
         report["cases"][slug] = {"originals": len(pairs), "bank_months": bank, "procedure_documents": procedural,
                                  "intake_originals": len(intake),
+                                 "blank_templates": len(templates),
                                  "embedded_attachments": attachments,
                                  "pdf_pages": pages, "original_sha256": digest(archive_path),
                                  "combined_sha256": digest(combined)}
     for name in (f"{NAME}.zip", f"{NAME}-portable.zip",
                  *(file for slug in CASES for file in (original_name(slug), single_name(slug)))):
         assert scoped_asset_url(name, root=ROOT).endswith(f"/{TAG}/{name}")
+    for name in (TEMPLATE_BUNDLE, *TEMPLATES):
+        assert f"releases/download/{TAG}/{name}" in (PLUGIN / "README.md").read_text(encoding="utf-8")
     with ZipFile(dist / BUNDLE) as archive:
         assert archive.namelist() == [NOTICE_FILENAME, *(original_name(slug) for slug in CASES)]
         assert archive.read(NOTICE_FILENAME) == NOTICE_BYTES and archive.testzip() is None

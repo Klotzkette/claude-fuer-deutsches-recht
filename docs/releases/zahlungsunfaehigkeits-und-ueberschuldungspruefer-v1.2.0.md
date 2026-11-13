@@ -1,0 +1,13 @@
+# Zahlungsunfähigkeits- und Überschuldungsprüfer 1.2.0
+
+Das Plugin verbindet die stichtagsbezogene Insolvenzreifeprüfung mit der Vorbereitung konkreter Anfechtungsansprüche. Elf Skills, Werkstatt-Prompt und Mini-Prompt führen bei entsprechendem Auftrag bis zum ausformulierten Anfechtungsschreiben oder zur Klage. Die beiden Wordvorlagen enthalten Variablen für Schuldner, Antragsteller, Verwalter, Gericht, Geschäftszeichen, maßgebliche Zeitpunkte, Beträge und Belege. Tatbestandsvarianten werden ausgewählt und fallbezogen begründet; sie sind keine Behauptung, dass sämtliche Anfechtungsnormen gleichzeitig eingreifen.
+
+Die drei Fälle erhalten jeweils den Unterordner `Grundakte/09_Zahlungskomplex`. Cottbus behandelt eine aufgeschlüsselte Schlusszahlung mit Lieferantendarlehenszinsen; Berlin-Zehlendorf behandelt eine behauptete Verrechnung bei unterschiedlichen Forderungsparteien zwei Monate vor Antrag; Prenzlau verbindet eine Lieferantenzahlung mit Kenntnisbelegen und einem gesonderten Vorkassegeschäft. Die vorhandenen Bankbewegungen bleiben als überprüfbare Grundlage erhalten. Rechtliche Ergebnisse werden nicht in die Eingangsdokumente geschrieben.
+
+Die unausgefüllten Wordvorlagen stehen zusätzlich in jeder vollständigen Originalakte unter `20_Vorlagen`, außerhalb der Grundakte. Ein eigenes Vorlagenpaket enthält beide Worddateien, die Markdownfassungen und die Ausfüllhilfe mit verifizierten Primärquellen. Die beiden Worddateien sind auch einzeln als Release-Assets abrufbar. Die Grundakten-Sammlung enthält weiterhin weder Vorlagen noch Verfahrensunterlagen oder Vergleichslösungen.
+
+[Quellenprüfung und Aussagegrenzen](../../zahlungsunfaehigkeits-und-ueberschuldungspruefer/references/anfechtung-vorlagen-quellen.md) · [Plugin und Downloads](../../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md)
+
+Die Prüfung umfasst Belegzuordnung, Rechnung, Archivtrennung, Vorlagenstruktur, Quellenabgleich und visuelle Dokumentkontrolle. Sie ist keine Behauptung einer erfolgreich ausgeführten KI-Fallbearbeitung in einer bestimmten Chatoberfläche. Frühere Releases und Tags bleiben unverändert erhalten.
+
+Der Bestand umfasst 36 zusätzliche Zahlungsunterlagen. Die Grundakten enthalten zusammen 252 Originaldateien. Hinzu kommen 15 Verfahrensdokumente und je zwei Blankovorlagen, insgesamt 273 Dateien in den vollständigen Originalakten. Die drei Lesefassungen umfassen 792 Seiten. Alle 822 ursprünglichen Bankbewegungen und die bisherigen OP- und Statusdaten bleiben unverändert. Zwölf Tests prüfen die neuen Belegketten, Varianten und Exportgrenzen; die heruntergeladenen Release-Dateien werden zusätzlich gegen Originale, Inventar und Prüfsummen geprüft.

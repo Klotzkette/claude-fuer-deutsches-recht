@@ -72,7 +72,19 @@
     "07_Vermoegen/CB-RUECK-02.pdf",
     "08_Uebergabe/CB-Belegablage_Export.csv",
     "08_Uebergabe/CB-MAIL-RECH.eml",
-    "08_Uebergabe/CB-UEB-01.docx"
+    "08_Uebergabe/CB-UEB-01.docx",
+    "09_Zahlungskomplex/CB-ZK-01.docx",
+    "09_Zahlungskomplex/CB-ZK-02.pdf",
+    "09_Zahlungskomplex/CB-ZK-03.pdf",
+    "09_Zahlungskomplex/CB-ZK-04.pdf",
+    "09_Zahlungskomplex/CB-ZK-05.pdf",
+    "09_Zahlungskomplex/CB-ZK-06.eml",
+    "09_Zahlungskomplex/CB-ZK-07.eml",
+    "09_Zahlungskomplex/CB-ZK-08.pdf",
+    "09_Zahlungskomplex/CB-ZK-09.pdf",
+    "09_Zahlungskomplex/CB-ZK-10.docx",
+    "09_Zahlungskomplex/CB-ZK-11_Bankzuordnung.csv",
+    "09_Zahlungskomplex/CB-ZK-12_Belegregister.csv"
   ],
   "insolvenzreife-metallbau-berlin-zehlendorf": [
     "00_Auftrag.docx",
@@ -146,7 +158,19 @@
     "07_Vermoegen/BZ-WEG-01.pdf",
     "08_Uebergabe/BZ-Belegablage_Export.csv",
     "08_Uebergabe/BZ-MAIL-RECH.eml",
-    "08_Uebergabe/BZ-UEB-01.docx"
+    "08_Uebergabe/BZ-UEB-01.docx",
+    "09_Zahlungskomplex/BZ-ZK-01.docx",
+    "09_Zahlungskomplex/BZ-ZK-02.pdf",
+    "09_Zahlungskomplex/BZ-ZK-03.docx",
+    "09_Zahlungskomplex/BZ-ZK-04.pdf",
+    "09_Zahlungskomplex/BZ-ZK-05.eml",
+    "09_Zahlungskomplex/BZ-ZK-06.docx",
+    "09_Zahlungskomplex/BZ-ZK-07.eml",
+    "09_Zahlungskomplex/BZ-ZK-08.pdf",
+    "09_Zahlungskomplex/BZ-ZK-09.pdf",
+    "09_Zahlungskomplex/BZ-ZK-10.pdf",
+    "09_Zahlungskomplex/BZ-ZK-11_Bankzuordnung.csv",
+    "09_Zahlungskomplex/BZ-ZK-12_Belegregister.csv"
   ],
   "insolvenzreife-hubschrauber-prenzlau": [
     "00_Auftrag.docx",
@@ -219,6 +243,18 @@
     "07_Vermoegen/PR-VCH-02.docx",
     "08_Uebergabe/PR-Belegablage_Export.csv",
     "08_Uebergabe/PR-MAIL-RECH.eml",
-    "08_Uebergabe/PR-UEB-01.docx"
+    "08_Uebergabe/PR-UEB-01.docx",
+    "09_Zahlungskomplex/PR-ZK-01.docx",
+    "09_Zahlungskomplex/PR-ZK-02.pdf",
+    "09_Zahlungskomplex/PR-ZK-03.pdf",
+    "09_Zahlungskomplex/PR-ZK-04.eml",
+    "09_Zahlungskomplex/PR-ZK-05.eml",
+    "09_Zahlungskomplex/PR-ZK-06.pdf",
+    "09_Zahlungskomplex/PR-ZK-07.pdf",
+    "09_Zahlungskomplex/PR-ZK-08.pdf",
+    "09_Zahlungskomplex/PR-ZK-09.pdf",
+    "09_Zahlungskomplex/PR-ZK-10.eml",
+    "09_Zahlungskomplex/PR-ZK-11_Bankzuordnung.csv",
+    "09_Zahlungskomplex/PR-ZK-12_Belegregister.csv"
   ]
 }

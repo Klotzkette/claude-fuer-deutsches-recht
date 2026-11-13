@@ -18,8 +18,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzreife-hubschrauber-prenzlau_gesamt.pdf`](gesamt-pdf/insolvenzreife-hubschrauber-prenzlau_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
@@ -43,7 +43,15 @@ Stimmen Sie die Kontoauszüge vom Juli 2024 bis Juni 2026 mit dem Buchungsjourna
 - `05_Betrieb` enthält Auftrags-, Liefer- und andere betriebliche Unterlagen.
 - `06_Finanzierung` und `07_Vermoegen` enthalten Unterlagen zu Finanzierung, Sicherheiten, Eigentum und Wertansätzen.
 - `08_Uebergabe` enthält den Eingang aus dem Unternehmen mit noch offenen Unterlagenanforderungen.
+- `09_Zahlungskomplex` enthält die ausgewählten Vorgänge samt Verträgen, Abrechnungen, E-Mails und Zahlungszuordnung. Dieser Ordner liegt im Originalformat-ZIP innerhalb der `Grundakte`.
+- `20_Vorlagen` enthält das unausgefüllte Anfechtungsschreiben und die Klagevorlage; beide bleiben außerhalb der `Grundakte`.
 - `10_Verfahren` enthält Fremdantrag, gerichtliche Zwischenentscheidung, kurze Eröffnungsmitteilung und vollständigen Eröffnungsbeschluss.
+
+## 3. Ausgewählte Zahlungen und Anspruchsverfolgung
+
+Eine Treibstoffrechnung wird trotz anderer Rückstände bezahlt. E-Mails dokumentieren, was der Lieferant über die finanzielle Lage wusste und warum er auf Zahlung bestand. Daneben steht ein späterer Vorkasseabruf mit zugehöriger Lieferung. Vergleichen Sie die Vorgänge, ohne die alte Rechnung und das neue Geschäft zusammenzurechnen oder aus einer Mahnung eine Vollstreckung abzuleiten.
+
+Beginnen Sie mit den Originalbelegen in `Grundakte/09_Zahlungskomplex`. Ziehen Sie die vorhandenen Verfahrensdokumente zur Bestimmung der maßgeblichen Daten hinzu. Erst für den Schreibauftrag öffnen Sie die Vorlagen in `20_Vorlagen`; diese enthalten keine ausgefüllte Falllösung. Ordnen Sie jeder verwendeten Tatsache einen Beleg zu und halten Sie nicht belegte Voraussetzungen im internen Arbeitsvermerk offen.
 
 <!-- reserved-example-contacts -->
 

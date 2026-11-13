@@ -1,0 +1,634 @@
+{
+  "schema_version": 1,
+  "cases": {
+    "CB": {
+      "title": "Schlusszahlung aus Lieferantenfinanzierung und Zinsabrechnung",
+      "payment_refs": [
+        "CB-CAPEX-01-BK"
+      ],
+      "event_date": "2026-05-08",
+      "amount_cents": 17680000,
+      "components": [
+        {
+          "label": "Darlehenskapital",
+          "amount_cents": 16000000
+        },
+        {
+          "label": "Zusatzmaterial netto",
+          "amount_cents": 1008403
+        },
+        {
+          "label": "Umsatzsteuer Zusatzmaterial",
+          "amount_cents": 191597
+        },
+        {
+          "label": "Darlehenszinsen",
+          "amount_cents": 480000
+        }
+      ],
+      "documents": [
+        {
+          "id": "CB-ZK-01",
+          "kind": "docx",
+          "date": "2026-07-09",
+          "issuer": "Spreeglasur Industriekeramik GmbH",
+          "subject": "Unterlagen zur Schlusszahlung an Werkofen Service",
+          "recipient": "Rechtsanwältin Jette Rabenau",
+          "signature": "Marlene Wendt",
+          "body": [
+            "1 Anlass der Nachlieferung",
+            "Frau Rabenau hat nach den Unterlagen zur Überweisung vom 8. Mai gefragt. Im Konto steht nur „Schlussrate elektrische Formpresse und Abgasmesstechnik“. Wir haben deshalb den roten Projektordner SP-119 und die Nachrichten von Werkofen herausgesucht. Der Betrag von 176.800,00 EUR ist einmal vom Geschäftskonto abgegangen. Die drei Abrechnungspositionen in der ergänzten Ablage bezeichnen Teile dieses einen Vorgangs, nicht drei zusätzliche Überweisungen.",
+            "2 Aufbau des Vorgangs",
+            "Die Vertragsabwicklung wurde im Januar geändert. Ein bereits abgerechneter Kaufpreisteil von 160.000,00 EUR wurde in ein verzinsliches Lieferantendarlehen überführt. Daneben standen 12.000,00 EUR für das zusätzliche Messpaket sowie 4.800,00 EUR Zinsen. Unsere Kreditorenliste blieb beim gesamten Schlussbetrag unter der alten Belegnummer. Sie war für die Fälligkeitspflege gedacht und wurde nicht nach steuerlichen Komponenten umgebaut.",
+            "3 Unstimmigkeit in der Ablage",
+            "Die alte Rechnung vom 18. Dezember behandelt den Gesamtbetrag mit 19 Prozent Umsatzsteuer. Werkofen hat am 26. Mai eine Berichtigung geschickt; im Papierordner lag weiterhin zuerst das alte Blatt. Die Rechnungskorrektur, der Finanzierungsnachtrag und die Abrechnung sind zusammen zu lesen. Ein weiterer Geldzufluss im Januar steht nicht hinter dem Darlehen. Es wurde keine neue Bankauszahlung vereinbart.",
+            "4 Gesuchte Unterlagen und Ansprechpartner",
+            "Marlene Wendt kann die Freigabe am 8. Mai erläutern. Bei Werkofen ist Henning Rade für das Kundenkonto zuständig. Eine bestätigte Wiedergabe der Telefonate vom 6. Mai liegt nicht vor. Die Nachricht von Werkofen beschreibt den Gesprächsinhalt aus dessen Sicht; unsere Antwort enthält einen engeren Wortlaut. Bitte halten Sie beide Fassungen zusammen. Eine rechtliche Bewertung oder ein Rückforderungsschreiben ist bislang nicht erstellt."
+          ]
+        },
+        {
+          "id": "CB-ZK-02",
+          "kind": "pdf",
+          "date": "2026-01-08",
+          "issuer": "Werkofen Service OHG",
+          "subject": "Finanzierungsnachtrag zum Vertrag SP 119",
+          "recipient": "Spreeglasur Industriekeramik GmbH",
+          "signature": "Mira Busse, Werkofen Service OHG\nElin von Tannrode, Spreeglasur Industriekeramik GmbH",
+          "body": [
+            "1 Beteiligte und bisherige Abrechnung",
+            "Werkofen Service OHG, Zum alten Wasserturm 9, 03050 Cottbus, vertreten durch die geschäftsführende Gesellschafterin Mira Busse, und Spreeglasur Industriekeramik GmbH, Brennring 17, 03044 Cottbus, vertreten durch Elin von Tannrode, ergänzen den Vertrag SP-119 vom 18. November 2025. Die im Dezember gelieferten Hauptkomponenten sind abgenommen. Ein Kaufpreisteil von 160.000,00 EUR brutto ist noch offen.",
+            "Die Parteien reduzieren den Warenpreis des alten Sammelbelegs von 176.800,00 EUR auf 172.000,00 EUR brutto. Der Nachlass von 4.800,00 EUR wird bei der Neustrukturierung gewährt. Daneben wird ein gesondertes Kreditentgelt von 4.800,00 EUR vereinbart. Der Gesamtzahlbetrag am 8. Mai bleibt damit unverändert.",
+            "2 Umstellung auf ein Darlehen",
+            "Mit Wirkung zum 8. Januar 2026 wird die bezeichnete Kaufpreisforderung durch eine Darlehensrückzahlungsforderung von 160.000,00 EUR ersetzt. Die Valuta wird durch Ablösung der Kaufpreisforderung bereitgestellt. Eine zusätzliche Bankauszahlung oder Erhöhung des Kontoguthabens erfolgt nicht. Der abgelöste Kaufpreis kann nicht nochmals gesondert verlangt werden.",
+            "3 Zinsen und Rückzahlung",
+            "Das Kapital wird vom 8. Januar bis zum 8. Mai 2026 mit neun Prozent jährlich verzinst. Nach der vereinbarten Methode von 30 Tagen je Monat und 360 Tagen je Jahr entstehen für 120 Tage 4.800,00 EUR Zinsen. Kapital und Zinsen sind am 8. Mai 2026 fällig. Monatliche Zinsfälligkeiten, Zinskapitalisierung, eine automatische Verlängerung oder weitere Kreditmittel werden nicht vereinbart.",
+            "4 Zusatzpaket und Eigentum",
+            "Das am 4. Mai 2026 zu liefernde Messpaket wird für 12.000,00 EUR einschließlich Umsatzsteuer separat abgerechnet und ebenfalls am 8. Mai bezahlt. Der bereits erfolgte Eigentumsübergang an den abgenommenen Hauptkomponenten bleibt bestehen. Es werden weder ein neuer Eigentumsvorbehalt noch ein Pfandrecht vereinbart. Der Zins schafft keinen weiteren körperlichen Vermögensgegenstand.",
+            "5 Unterzeichnung",
+            "Änderungen bedürfen beiderseitiger Unterschrift. Beide Seiten erhalten eine Ausfertigung. Eine Rangrücktrittsabrede oder Gesellschaftervereinbarung ist nicht enthalten."
+          ]
+        },
+        {
+          "id": "CB-ZK-03",
+          "kind": "pdf",
+          "date": "2026-05-06",
+          "issuer": "Werkofen Service OHG",
+          "subject": "Zinsabrechnung zur Lieferantenfinanzierung",
+          "recipient": "Spreeglasur Industriekeramik GmbH",
+          "signature": "Henning Rade, Kaufmännische Leitung",
+          "body": [
+            "Sehr geehrte Frau von Tannrode,",
+            "für die Finanzierung gemäß Nachtrag vom 8. Januar 2026 rechnen wir die vereinbarten Darlehenszinsen ab. Unsere Abrechnungsnummer lautet SP-119-Z. Die Kapitalbasis von 160.000,00 EUR war während der vereinbarten Laufzeit unverändert. Weder eine Teiltilgung noch eine zusätzliche Auszahlung wurde in unserem Darlehenskonto verbucht.",
+            "1 Berechnung",
+            "Der Zeitraum vom 8. Januar bis zum 8. Mai 2026 umfasst nach der vereinbarten Methode 30/360 genau 120 Zinstage. Die Rechnung lautet 160.000,00 EUR × 9 Prozent × 120 / 360 = 4.800,00 EUR. Fällig ist der Zinsbetrag am 8. Mai 2026. Es handelt sich um das Entgelt für die Kreditgewährung; auf diesen gesonderten Betrag wird keine Umsatzsteuer ausgewiesen.",
+            "2 Zahlungszuordnung",
+            "Der Zinsbetrag soll gemeinsam mit dem Kapital von 160.000,00 EUR und dem Materialbetrag von 12.000,00 EUR überwiesen werden. Die Zahlungsanforderung beläuft sich damit auf insgesamt 176.800,00 EUR. Verwenden Sie bitte SP-119 / Schlussrate als Verwendungszweck. Die Zusammenfassung der Zahlungsanforderung ersetzt die unterschiedliche Abrechnung der einzelnen Positionen nicht.",
+            "3 Abgrenzung",
+            "Diese Abrechnung enthält keine Mahnkosten, keine Verzugszinsen und keine Tilgung. Der Darlehensbetrag wird daneben nur einmal zurückgezahlt. Für die steuerliche Einordnung des alten Sammelbelegs lassen wir Ihnen eine berichtigte Abrechnung zukommen. Bis dahin bitten wir, diese Zinsabrechnung beim Vertrag abzulegen."
+          ]
+        },
+        {
+          "id": "CB-ZK-04",
+          "kind": "pdf",
+          "date": "2026-05-04",
+          "issuer": "Werkofen Service OHG",
+          "subject": "Liefernachweis und Abrechnung des Messpakets",
+          "recipient": "Spreeglasur Industriekeramik GmbH",
+          "signature": "Henning Rade\nEmpfang am 04.05.2026: Marlene Wendt",
+          "body": [
+            "1 Lieferung und Leistungsumfang",
+            "Am 4. Mai 2026 haben unsere Techniker im Werk Cottbus das zusätzliche Messpaket MP-12 eingebaut. Es besteht aus zwei Abgassensoren, einer Prüfbox und der Verbindung zur vorhandenen Pressensteuerung. Marlene Wendt hat die Stückzahl, Inbetriebnahme und Übergabe der Bedienunterlagen bestätigt. Die elektrische Formpresse und die im Dezember abgenommenen Hauptkomponenten sind nicht nochmals Gegenstand dieses Lieferscheins.",
+            "2 Preis und Umsatzsteuer",
+            "Der vereinbarte Preis beträgt netto 10.084,03 EUR zuzüglich 1.915,97 EUR Umsatzsteuer von 19 Prozent, insgesamt 12.000,00 EUR. Die Rechnung trägt die Nummer SP-119-MP. Das Leistungsdatum ist der 4. Mai 2026. Der Betrag wird am 8. Mai 2026 gemeinsam mit der Lieferantenfinanzierung abgerechnet. Er ist kein zusätzliches Darlehenskapital und kein Zinsbestandteil.",
+            "3 Empfang und Betrieb",
+            "Die Probemessung am Schichtende lief durch. Ein Hinweis auf eine instabile Schnittstelle wurde aufgenommen; die Nachjustierung am Folgetag gehört zum Festpreis. Ein zurückbehaltener oder strittiger Teil des Materialpreises wurde bei der Übergabe nicht vermerkt. Die Gegenzeichnung bestätigt den Empfang und die Funktion des Messpakets, nicht die Richtigkeit einer früheren Sammelrechnung.",
+            "4 Zahlungsweg",
+            "Bitte zahlen Sie auf das bekannte Geschäftskonto von Werkofen Service OHG. Zusammen mit dem Darlehenskapital und den gesondert ausgewiesenen Zinsen ergibt sich die angekündigte Schlusszahlung von 176.800,00 EUR. Eine Einzelzahlung über 12.000,00 EUR neben diesem Gesamtbetrag ist nicht verlangt."
+          ]
+        },
+        {
+          "id": "CB-ZK-05",
+          "kind": "pdf",
+          "date": "2026-05-26",
+          "issuer": "Werkofen Service OHG",
+          "subject": "Berichtigung der Sammelrechnung CB CAPEX 01",
+          "recipient": "Spreeglasur Industriekeramik GmbH",
+          "signature": "Henning Rade, Kaufmännische Leitung",
+          "body": [
+            "Sehr geehrte Frau Wendt,",
+            "wir berichtigen die unter CB-CAPEX-01 abgelegte Sammelrechnung vom 18. Dezember 2025 über 176.800,00 EUR. Der Gesamtzahlbetrag bleibt unverändert. Die Darstellung des gesamten Betrags als steuerpflichtige Lieferung mit 19 Prozent Umsatzsteuer war nach Abschluss des Finanzierungsnachtrags nicht mehr zutreffend. Bitte verbinden Sie die alte Rechnung dauerhaft mit diesem Berichtigungsbeleg SP-119-K. Der frühere Steuerausweis wird ersetzt; die alte Fassung darf nicht zusätzlich verbucht werden.",
+            "1 Richtige Aufteilung des bereits gezahlten Betrags",
+            "160.000,00 EUR entfallen auf die Rückzahlung des am 8. Januar 2026 durch Ablösung des Kaufpreises begründeten Darlehens. Der zugrunde liegende ursprüngliche Lieferpreis enthielt netto 134.453,78 EUR und 25.546,22 EUR Umsatzsteuer. Die Rückzahlung der Darlehensvaluta löst keine erneute Lieferung und keinen zweiten Vorsteuerbetrag aus.",
+            "12.000,00 EUR entfallen auf das am 4. Mai 2026 gelieferte Messpaket, davon 10.084,03 EUR netto und 1.915,97 EUR Umsatzsteuer. 4.800,00 EUR entfallen auf die viermonatige Kreditgewährung gemäß Zinsabrechnung SP-119-Z. Der Zins wird umsatzsteuerfrei abgerechnet. Zusammen ergeben diese Positionen 176.800,00 EUR.",
+            "2 Korrektur des Steuerausweises",
+            "Die alte Sammelrechnung wies 148.571,43 EUR netto und 28.228,57 EUR Umsatzsteuer aus. Die steuerpflichtigen Lieferungen betragen zusammen 144.537,81 EUR netto und 27.462,19 EUR Umsatzsteuer. Hinzu tritt der steuerfreie Zins von 4.800,00 EUR. Die Differenz im ausgewiesenen Steuerbetrag beträgt 766,38 EUR. Die Korrektur ist mit der Buchhaltung abzustimmen; dieser Beleg enthält keine Aussage über bereits abgegebene Steueranmeldungen.",
+            "3 Zahlungsbestätigung",
+            "Die Gutschrift vom 8. Mai 2026 über 176.800,00 EUR ist bei uns vollständig dem bezeichneten Vorgang zugeordnet. Es bleibt weder ein Restkapital noch ein offener Vertragszins aus diesem Nachtrag. Wir erteilen mit diesem Schreiben keine neue Zahlungsaufforderung. Die Sicherung von Ofen 2 im Juni betrifft einen anderen Auftrag und wird gesondert abgerechnet."
+          ]
+        },
+        {
+          "id": "CB-ZK-06",
+          "kind": "eml",
+          "date": "2026-05-06",
+          "issuer": "Spreeglasur Industriekeramik GmbH",
+          "subject": "SP 119 und die für Freitag vorgesehene Zahlung",
+          "recipient": "Werkofen Service OHG",
+          "signature": "Elin von Tannrode",
+          "body": [
+            "Guten Morgen Herr Rade,",
+            "wir halten an der für Freitag vorgesehenen Gesamtzahlung fest. Ich muss aber klarstellen, was ich gestern gesagt habe: Die abgesagte Wärmepumpenserie lässt sich nicht kurzfristig ersetzen. Von den erwarteten Abnahmen sind vorerst nur 45.000 EUR am 18. Mai belastbar bestätigt. Die Zwischenlinie ist ausgelaufen; einen neuen Abruf hat die Bank nicht zugesagt.",
+            "Am Montag stehen unter anderem die Umsatzsteuer und die offene Gasabrechnung an. Nach der Schlusszahlung bleiben auf dem Konto ungefähr 70.000 EUR. Damit können wir diese beiden Posten zusammen nicht bedienen. Ich habe bei dem Gasversorger um ein Gespräch gebeten; einen verbindlichen Aufschub haben wir nicht. Die erwarteten weiteren Kundeneingänge sind später und nicht beliebig vorziehbar.",
+            "Bitte geben Sie diese Angaben nicht als Zusage weiter, wir hätten die übrigen Gläubiger bereits geordnet. Die von Ihnen benötigte Freigabe bezieht sich allein auf SP-119. Eine besondere Sicherungsbestellung oder eine Änderung der Zinsfälligkeit haben wir nicht vereinbart."
+          ]
+        },
+        {
+          "id": "CB-ZK-07",
+          "kind": "eml",
+          "date": "2026-05-07",
+          "issuer": "Werkofen Service OHG",
+          "subject": "AW SP 119 und die für Freitag vorgesehene Zahlung",
+          "recipient": "Spreeglasur Industriekeramik GmbH",
+          "signature": "Henning Rade",
+          "body": [
+            "Guten Morgen Frau von Tannrode,",
+            "ich habe Ihre Nachricht vom 6. Mai gelesen. Wir verstehen die Zahlen so, dass die beiden von Ihnen genannten anderen Rechnungen am Montag zunächst offenbleiben werden. Wir möchten für unser Darlehen dennoch keine weitere Verlängerung vereinbaren. Unser eigener Lieferant wartet auf Geld. Bitte führen Sie Kapital, Materialbetrag und Zins am Freitag wie vereinbart aus.",
+            "Zum Telefonat möchte ich ergänzen: Sie haben von schwieriger Liquidität und dem Ausfall der Serie gesprochen. Mir lag keine vollständige Liste Ihrer fälligen Verbindlichkeiten vor. Ich ging davon aus, dass die laufenden kleineren Abnahmen weiterkommen und Sie mit Gaslieferant und Finanzamt sprechen. Dass diese Gespräche bereits zu verbindlichen Zahlungsaufschüben geführt hätten, haben Sie nicht gesagt.",
+            "Unsere Servicetechniker hatten am Montag ein laufendes Werk gesehen. Der Betriebseindruck ersetzt für mich keine Übersicht Ihrer finanziellen Lage. Weitere Kreditmittel können wir nicht bereitstellen. Die Unterlagen zur Zinsabrechnung liegen dieser Nachricht nochmals bei."
+          ],
+          "attachments": [
+            "CB-ZK-03.pdf"
+          ]
+        },
+        {
+          "id": "CB-ZK-08",
+          "kind": "pdf",
+          "date": "2026-05-08",
+          "issuer": "Spreeglasur Industriekeramik GmbH",
+          "subject": "Freigabe der Sammelüberweisung SP 119",
+          "recipient": "Buchhaltung",
+          "signature": "Elin von Tannrode\nErfasst: Marlene Wendt",
+          "body": [
+            "1 Anweisung",
+            "Die Geschäftsführung gibt die Überweisung von 176.800,00 EUR an Werkofen Service OHG frei. Im Onlinebanking ist als Buchung CB-CAPEX-01-BK mit Wertstellung 8. Mai 2026 hinterlegt. Die Freigabe erfolgt um 08:42 Uhr durch Elin von Tannrode. Die Buchhaltung hat keine neue Kreditlinie für diese Anweisung aktiviert. Es werden vorhandene Mittel des Geschäftskontos verwendet.",
+            "2 Inhalt der Zahlung",
+            "Die Zahlung umfasst 160.000,00 EUR Kapital, 4.800,00 EUR Darlehenszins und 12.000,00 EUR für das Messpaket. Die Komponenten werden im Buchungsjournal gemeinsam unter 1200 / 1600 geführt. Die feinere Kosten- und Steuerzuordnung erfolgt im Sachkonto nach Rechnungskorrektur. Der Zins darf nicht noch einmal als eigener Bankabgang angesetzt werden.",
+            "3 Weitere fällige Posten",
+            "Die für Montag angemeldete Umsatzsteuer und die Jahresabrechnung des Gasversorgers werden durch diese Anweisung nicht bezahlt. Marlene Wendt hat darauf hingewiesen, dass die nach der Zahlung verbleibenden rund 70.000 EUR dafür nicht reichen. Die Geschäftsführung will zunächst die Rückmeldung des Gasversorgers abwarten. Eine vollständige Zahlungsfreigabe für die kommende Woche ist nicht beigefügt.",
+            "4 Technischer Abschluss",
+            "Die Buchhaltung soll den ausgeführten Kontoauszug ablegen und den Sollbetrag mit der Rechnung abstimmen. Ein zweiter Überweisungsauftrag über die Zinsen ist zu sperren. Der Zahlungsstatus wird erst nach erfolgreicher Ausführung gesetzt."
+          ]
+        },
+        {
+          "id": "CB-ZK-09",
+          "kind": "pdf",
+          "date": "2026-07-10",
+          "issuer": "Werkofen Service OHG",
+          "subject": "Auskunft zur Geschäftsverbindung und Zahlung SP 119",
+          "recipient": "Rechtsanwältin Jette Rabenau",
+          "signature": "Henning Rade",
+          "body": [
+            "Sehr geehrte Frau Rabenau,",
+            "auf Ihre Bitte um Übersendung der Geschäftsunterlagen erhalten Sie den Nachtrag, die Berichtigung und den Kontenabgleich. Werkofen Service OHG ist Lieferantin und Kreditgeberin der Betriebsgesellschaft. Wir halten keine Geschäftsanteile an der Spreeglasur Industriekeramik GmbH oder ihrer Muttergesellschaft. Die Geschäftsführung liegt bei Mira Busse. Henning Rade bearbeitet als kaufmännischer Leiter das Kundenkonto. Eine personelle Überschneidung mit deren Geschäftsführung besteht nach unseren Unterlagen nicht.",
+            "Die Finanzierung beruhte auf dem Verkaufsvertrag. Wir wollten den Auftrag behalten und der Kundin eine Zahlung nach der Inbetriebnahme ermöglichen. Der Zins von neun Prozent war von Beginn des Nachtrags an für die gesamte viermonatige Laufzeit vereinbart. Es gab vorher keine fälligen Monatszinsen, die wir stehen gelassen oder auf das Kapital aufgeschlagen hätten. Den Nachtrag vom 8. Januar haben beide Seiten unterschrieben.",
+            "Wir bestreiten nicht, dass uns Anfang Mai die abgesagte Serie und die knappe Liquidität mitgeteilt wurden. Wir kannten die offenen Beträge der übrigen Gläubiger aber nur auszugsweise. Eine vollständige Bilanz, ein Liquiditätsstatus oder ein Insolvenzantrag lag uns bei Geldeingang nicht vor. Unser Kunde sprach noch über laufende Abnahmen und Gespräche mit den anderen Gläubigern. Bitte ziehen Sie auch unsere Antwort vom 7. Mai heran.",
+            "Das Schreiben beantwortet Ihre Beleganforderung. Es enthält weder ein Anerkenntnis eines Erstattungsanspruchs noch einen Verzicht auf Einwendungen. Einen Rückzahlungsanspruch haben Sie bislang nicht beziffert geltend gemacht."
+          ]
+        },
+        {
+          "id": "CB-ZK-10",
+          "kind": "docx",
+          "date": "2026-07-10",
+          "issuer": "Spreeglasur Industriekeramik GmbH",
+          "subject": "Abgleich der Finanzierung mit dem Anlagenkonto",
+          "recipient": "Rechtsanwältin Jette Rabenau",
+          "signature": "Svenja Kossack, Buchhaltung",
+          "body": [
+            "1 Bank und Kreditor",
+            "Die 176.800,00 EUR im Kontoauszug Mai gehören zum Vorgang CB-CAPEX-01. Der Kreditor ist damit ausgeglichen. Die Darlehensvereinbarung erklärt, weshalb die Gläubigerin einen Teil als Kapital und einen Teil als Zins bezeichnet. Sie ersetzt keinen Bankbeleg. In den Konten gibt es am 8. Januar keinen weiteren Zahlungseingang von 160.000,00 EUR.",
+            "2 Anlagen und Aufwand",
+            "Die Formpresse und die Abgasmesstechnik wurden bereits im Dezember übernommen. Das Messpaket kam am 4. Mai hinzu. Die spätere Erstattung einer Zahlung würde die Maschinen nicht automatisch ein zweites Mal in das Vermögen bringen. Der Zins bezieht sich auf die Finanzierung; er ist kein gesondert verwertbarer Gegenstand. Die vorhandenen Verwerterangebote beurteilen die tatsächlich vorgefundenen Anlagen und werden durch eine Umbuchung des Zinsaufwands nicht ohne Weiteres höher.",
+            "3 Steuerliche Nacharbeit",
+            "Die Rechnungskorrektur wurde im Mai-Ordner falsch hinter der Servicemeldung abgeheftet. Der Ausweis des bereits beim ursprünglichen Kaufpreis entstandenen Steuerbetrags und die spätere Rückzahlung müssen im Sachkonto getrennt nachvollzogen werden. Die Ausgangsdaten des Zahlungsjournals dürfen dafür nicht um eine fiktive Januar-Auszahlung erweitert werden. Ob und in welchem Anmeldungszeitraum eine steuerliche Korrektur erforderlich ist, wird in der Steuerakte gesondert bearbeitet.",
+            "4 Noch zu klären",
+            "Für die rechtliche Prüfung ist insbesondere aufzuklären, welche Fälligkeiten und verfügbaren Mittel am 8. Mai tatsächlich bestanden und was Werkofen zu diesem Zeitpunkt wusste. Die späteren Stichtagsrechnungen sind nicht als fertiger Nachweis für einen früheren Tag abgeheftet. In der Übergabe liegt keine abschließende Bewertung der Rückforderbarkeit."
+          ]
+        }
+      ],
+      "loan": {
+        "principal_cents": 16000000,
+        "annual_rate_percent": "9",
+        "interest_from": "2026-01-08",
+        "interest_through": "2026-05-08",
+        "interest_days_30_360": 120,
+        "interest_cents": 480000,
+        "creditor": "Werkofen Service OHG",
+        "shareholder": false
+      }
+    },
+    "BZ": {
+      "title": "Verrechnung einer Nachtragsforderung mit einer fremden Stahlforderung",
+      "payment_refs": [],
+      "event_date": "2026-04-18",
+      "amount_cents": 7400000,
+      "components": [],
+      "documents": [
+        {
+          "id": "BZ-ZK-01",
+          "kind": "docx",
+          "date": "2026-07-09",
+          "issuer": "Schlachtensee Stahl & Form GmbH",
+          "subject": "Übergebener Vorgang Fensterbänder und Verrechnung",
+          "recipient": "Rechtsanwalt Lasse von Jagow",
+          "signature": "Pauline Forck, Buchhaltung",
+          "body": [
+            "1 Gegenstand der Ablage",
+            "Herr von Jagow hat nach den 74.000,00 EUR gefragt, die im Debitorenexport unter BZ-DEB-06 stehen. Die Fassadenbau Kreiser GmbH will diesen Nachtrag nicht bezahlen. Sie behauptet einerseits, die Änderung sei nicht wirksam beauftragt worden; andererseits beruft sie sich seit dem 18. April auf eine Verrechnung mit der Stahlforderung einer anderen Gesellschaft. Die Buchhaltung hat weder einen Zahlungseingang noch einen endgültigen Ausgleich gebucht.",
+            "2 Beteiligte",
+            "Unsere Gesellschaft ist Auftragnehmerin der Fassadenbau Kreiser GmbH. Die Südspange Stahlhandel GmbH hat uns die zugeschnittenen Stahlprofile geliefert und verlangt dafür 128.000,00 EUR. Beide Gegenparteien nutzen für einzelne Abrechnungsarbeiten denselben kaufmännischen Dienstleister. Sie haben aber unterschiedliche Geschäftsführer, Handelsregisternummern und Geschäftskonten. Ein gemeinsamer Ansprechpartner hat den Vorschlag zur Verrechnung vermittelt. In unserer Vertragsakte ist keine Vereinbarung über eine gemeinsame Abrechnungseinheit enthalten.",
+            "3 Verschiedene Forderungen",
+            "Der reguläre Betrag von 24.000,00 EUR für Fassade 7, Aufmaß 3, ist unter BZ-DEB-02 am 11. Mai eingegangen. Dieser Eingang bezahlt den Nachtrag BZ-DEB-06 nicht. Die beiden Rechnungen dürfen nicht zusammengerechnet oder gegeneinander vertauscht werden. Die 74.000,00 EUR sind auch nicht zusätzlich von unserem Konto abgegangen.",
+            "4 Noch offene Unterlagen",
+            "Wir übergeben die Änderungsanweisung, das Aufmaß, die Verrechnungsnachricht und einen späteren Abtretungsentwurf. Unterzeichnete Ausfertigungen der Abtretung sind nicht aufgefunden. Herr Kreiser hat eine mündliche Gesamtabsprache behauptet. Tillmann Seifert erinnert dagegen nur ein Gespräch über einen möglichen Ausgleich, nicht über eine bereits geschlossene Vereinbarung. Die Frage nach Auftrag, Höhe und tatsächlicher Berechtigung ist offen."
+          ]
+        },
+        {
+          "id": "BZ-ZK-02",
+          "kind": "pdf",
+          "date": "2026-04-14",
+          "issuer": "Fassadenbau Kreiser GmbH",
+          "subject": "Schriftliche Anweisung zu den Fensterbändern",
+          "recipient": "Schlachtensee Stahl & Form GmbH",
+          "signature": "Nils Westhoff, Bauleitung Fassade 7",
+          "body": [
+            "An die Montageleitung Schlachtensee Stahl & Form,",
+            "bitte halten Sie die Arbeiten an den Fensterbändern der Westfassade nicht an. Die Bauherrschaft verlangt die geänderten Rahmenprofile und die verstärkten Anschlussbleche. Die im Planstand W-17 blau markierten Positionen sollen nach Aufmaß ausgeführt werden. Die Ausführung muss vor dem Schließen des Gerüsts erledigt sein. Die Positionen gehören nicht zu den bereits abgerechneten Standardteilen im Aufmaß 3.",
+            "Ihre Preisankündigung über insgesamt 74.000,00 EUR brutto habe ich an unsere Geschäftsführung weitergegeben. Ich kann die technische Ausführung vor Ort koordinieren, aber keine Preisfreigabe für einen Nachtrag dieser Größenordnung allein unterzeichnen. Bitte senden Sie die Aufschlüsselung und den Hinweis auf die Abweichung vom Hauptauftrag nochmals an das kaufmännische Büro. Bis dahin sollen Sie die technische Vorbereitung und die aus Sicherheitsgründen unvermeidbaren Arbeiten durchführen.",
+            "Die Geschäftsführung ist über die beabsichtigte Umrüstung informiert. Ob daraus bereits eine Zustimmung zum gesamten Angebot folgt, kann ich nicht verbindlich erklären. Meine Unterschrift bestätigt daher die technische Anweisung und den beschriebenen Umfang. Sie ersetzt keine kaufmännische Unterschrift auf Ihrem Nachtragsangebot."
+          ]
+        },
+        {
+          "id": "BZ-ZK-03",
+          "kind": "docx",
+          "date": "2026-04-17",
+          "issuer": "Schlachtensee Stahl & Form GmbH",
+          "subject": "Aufmaß und Abrechnung der geänderten Fensterbänder",
+          "recipient": "Kaufmännische Leitung",
+          "signature": "Tillmann Seifert\nAufmaß aufgenommen: Sina Dorn\nMaße gesehen: Nils Westhoff",
+          "body": [
+            "1 Aufmaßstand",
+            "Am 17. April 2026 wurden die gefertigten und teilweise bereits montierten Fensterbänder aufgemessen. Anwesend waren Monteurin Sina Dorn und Bauleiter Nils Westhoff. Erfasst sind 175 laufende Meter geänderter Rahmen einschließlich Anschlussblechen. Die technischen Maße sind in Plan W-17 bezeichnet. Die zum Standardlos gehörenden Teile wurden vorher abgesetzt; sie bleiben im regulären Aufmaß 3.",
+            "2 Preisansatz",
+            "Für die geänderten Profile und die Montage werden brutto 70.000,00 EUR angesetzt, entsprechend 400,00 EUR je laufendem Meter. Weitere 4.000,00 EUR brutto betreffen die vereinbarte zusätzliche Gerüstlogistik und den zweiten Transport. Der abgerechnete Gesamtbetrag beträgt 74.000,00 EUR brutto, darin 62.184,87 EUR netto und 11.815,13 EUR Umsatzsteuer. Das Angebot über diese Werte wurde am 13. April per E-Mail an das kaufmännische Büro geschickt.",
+            "3 Stand der Zustimmung",
+            "Herr Westhoff hat die Maße und den Einbau der geänderten Komponenten bestätigt. Er hat auf dem Aufmaßzettel vermerkt, dass die kaufmännische Freigabe noch aussteht. Die Geschäftsführung der Auftraggeberin hat das Nachtragsangebot nicht unterschrieben. Unsere Montageleitung verweist auf die technische Anweisung vom 14. April und darauf, dass die geänderten Teile anschließend im Bauwerk verblieben sind.",
+            "4 Rechnung und Belege",
+            "Die Rechnung BZ-DEB-06 wurde am 17. April mit Zahlungsziel 5. Mai 2026 versandt. Als Anlagen wurden Plan W-17, die Preisliste vom 13. April und dieses Aufmaß beigefügt. Das Fälligkeitsdatum im Nebenbuch gibt unsere Rechnungsangabe wieder. Es belegt für sich weder eine wirksame Preisvereinbarung noch die abschließende Freigabe. Bei einer Kürzung sind die betroffenen Mengen, Arbeiten und Preisbestandteile einzeln zu benennen."
+          ]
+        },
+        {
+          "id": "BZ-ZK-04",
+          "kind": "pdf",
+          "date": "2026-04-18",
+          "issuer": "Fassadenbau Kreiser GmbH",
+          "subject": "Verrechnungserklärung zum Fensterbandnachtrag",
+          "recipient": "Schlachtensee Stahl & Form GmbH",
+          "signature": "Joris Kreiser, Geschäftsführer",
+          "body": [
+            "Sehr geehrte Frau von Hallern,",
+            "wir weisen Ihre Rechnung BZ-DEB-06 über 74.000,00 EUR zurück. Eine von unserer Geschäftsführung freigegebene Preisvereinbarung liegt nicht vor. Herr Westhoff war nur mit der technischen Bauleitung betraut. Ihre Arbeiten werden auf Doppelansätze zum Hauptauftrag geprüft.",
+            "Unabhängig hiervon erklären wir die Verrechnung Ihres Rechnungsbetrags von 74.000,00 EUR mit der offenen Forderung der Südspange Stahlhandel GmbH gegen Ihre Gesellschaft aus BZ-STA-01. Diese Stahlforderung beträgt 128.000,00 EUR. Wir gehen davon aus, dass für uns und Südspange eine gemeinsame kaufmännische Abwicklung möglich ist. Nach unserer Berechnung würde auf der Stahlseite ein Rest von 54.000,00 EUR verbleiben. Eine Zahlung von 74.000,00 EUR an uns oder durch uns ist nicht vorgesehen.",
+            "Eine gesonderte Abtretungsurkunde haben wir heute nicht beigefügt. Unser Herr Kreiser hat mit dem Ansprechpartner von Südspange über eine Gesamtbereinigung gesprochen. Wir bitten Sie, den Vorgang in Ihren Büchern entsprechend auszubuchen und die Rückmeldung zur Restforderung direkt mit Südspange abzustimmen. Die Zahlung des unstrittigen regulären Aufmaßes 3 bleibt davon getrennt.",
+            "Unser Schreiben bedeutet weder, dass wir Ihren Nachtrag dem Grunde oder der Höhe nach anerkennen, noch dass wir eine eigene Forderung aus dem Stahlliefervertrag behaupten. Die Verrechnung soll im Verhältnis der drei beteiligten Gesellschaften erfolgen. Bitte teilen Sie uns mit, falls Sie hierfür zusätzliche Vertragsunterlagen benötigen.",
+            "Der uns bekannte Terminaufschub der Stahlforderung endet erst am 20. April. Wir wollen die gemeinsame Bereinigung trotzdem schon heute erfassen. Eine Erklärung von Südspange, den Aufschub vorzeitig aufzuheben oder den Ausgleich bereits am 18. April zuzulassen, liegt diesem Schreiben nicht bei."
+          ]
+        },
+        {
+          "id": "BZ-ZK-05",
+          "kind": "eml",
+          "date": "2026-04-21",
+          "issuer": "Südspange Stahlhandel GmbH",
+          "subject": "Ihre Nachfrage zur Verrechnung mit Fassadenbau Kreiser",
+          "recipient": "Schlachtensee Stahl & Form GmbH",
+          "signature": "Mara Rehfeld, Forderungsmanagement Südspange",
+          "body": [
+            "Guten Tag Herr Seifert,",
+            "uns liegt das Schreiben von Fassadenbau Kreiser vom 18. April vor. Die Stahlforderung von 128.000 EUR besteht nach unserer Buchhaltung weiterhin gegenüber Ihrer Gesellschaft. Wir haben sie bislang weder an Fassadenbau Kreiser abgetreten noch eine Teilzahlung über 74.000 EUR von diesem Unternehmen erhalten. Der Terminaufschub bis 20. April ist verstrichen. Eine neue Stundung ist nicht vereinbart.",
+            "Es gab am 16. April ein Gespräch über eine mögliche Dreieckslösung. Dabei wurde aber ausdrücklich festgehalten, dass zunächst die streitige Nachtragsrechnung und die finanzielle Tragfähigkeit geklärt werden müssen. Unser Geschäftsführer hat keinem Forderungserlass zugestimmt. Ein gemeinsamer Abrechnungsdienstleister macht die Unternehmen nicht zu einer Gesellschaft. Herr Kreiser kann nicht für uns auf Forderungen verzichten.",
+            "Falls Sie einen von allen Seiten unterschriebenen Text haben, schicken Sie ihn bitte. In unserer Ablage steht bislang nur die Gesprächsnotiz und der Vorschlag, der noch an die Rechtsabteilung gehen sollte. Wir führen die vollen 128.000 EUR weiter. Bitte buchen Sie deshalb bei uns keine Teilzahlung oder Verrechnung ein."
+          ]
+        },
+        {
+          "id": "BZ-ZK-06",
+          "kind": "docx",
+          "date": "2026-04-22",
+          "issuer": "Fassadenbau Kreiser GmbH",
+          "subject": "Entwurf einer dreiseitigen Abrechnungsvereinbarung",
+          "recipient": "Schlachtensee Stahl & Form GmbH",
+          "signature": "Fassadenbau Kreiser GmbH – ohne Unterschrift\nSüdspange Stahlhandel GmbH – ohne Unterschrift\nSchlachtensee Stahl & Form GmbH – ohne Unterschrift",
+          "body": [
+            "Bearbeitungsstand 22. April 2026. Von Fassadenbau Kreiser versandter Entwurf. Die vorgesehenen Unterschriften fehlen.",
+            "1 Vorgesehene Beteiligte und Forderungen",
+            "Die Fassadenbau Kreiser GmbH, die Südspange Stahlhandel GmbH und die Schlachtensee Stahl & Form GmbH sollen die Rechnungen BZ-DEB-06 und BZ-STA-01 in Höhe eines Teilbetrags von 74.000,00 EUR miteinander abrechnen. Die Parteien sollen vor Unterzeichnung bestätigen, ob und in welcher Höhe der Fensterbandnachtrag besteht. Der Entwurf enthält bislang keine solche gemeinsame Bestätigung.",
+            "2 Vorgesehene Abtretung",
+            "Südspange soll einen Teilbetrag ihrer Stahlforderung über 74.000,00 EUR an Fassadenbau Kreiser abtreten. Die Abtretung soll erst wirksam werden, wenn alle drei Gesellschaften diesen Text unterzeichnet haben und Südspange den vereinbarten Gegenwert von Fassadenbau Kreiser erhalten hat. Ein bestimmter Zahlungstermin für diesen Gegenwert ist in dem übersandten Text nicht vereinbart. Bis zum Wirksamwerden soll Südspange Gläubigerin der gesamten Stahlforderung bleiben.",
+            "3 Vorgesehene Abrechnung",
+            "Nach Eintritt der Voraussetzungen soll Fassadenbau Kreiser den erworbenen Teilbetrag gegen einen festgestellten Werklohnanspruch von Schlachtensee Stahl & Form aufrechnen. Die beabsichtigte Abrechnung setzt eine abschließende Einigung über den Bestand der Werklohnforderung voraus. Eine vorläufige Ausbuchung im Rechnungswesen soll keine zusätzliche vertragliche Wirkung entfalten.",
+            "4 Stand der Zustimmung",
+            "Unter dem Text stehen lediglich die maschinenschriftlichen Firmennamen. Eine Annahmeerklärung der Südspange Stahlhandel GmbH und der Schlachtensee Stahl & Form GmbH ist auf dieser Fassung nicht vorhanden. Die Datei wurde mit der Bitte um Prüfung versandt. Die Begleitnachricht enthält keinen Hinweis auf eine bereits zuvor vollzogene Abtretung."
+          ]
+        },
+        {
+          "id": "BZ-ZK-07",
+          "kind": "eml",
+          "date": "2026-04-23",
+          "issuer": "Schlachtensee Stahl & Form GmbH",
+          "subject": "Keine Freigabe der vorgeschlagenen Dreiecksabrechnung",
+          "recipient": "Fassadenbau Kreiser GmbH",
+          "signature": "Juno Bern von Hallern",
+          "body": [
+            "Sehr geehrter Herr Kreiser,",
+            "wir stimmen der Ausbuchung unserer Nachtragsrechnung nicht zu. Die von Ihnen angeführte Gegenforderung gehört nach den uns vorliegenden Unterlagen Südspange und nicht Ihrer Gesellschaft. Südspange führt den Betrag zudem unverändert weiter. Bitte legen Sie die behauptete Übertragungs- oder Abrechnungsvereinbarung vor und erklären Sie, wer wann für wen gehandelt haben soll.",
+            "Zum Nachtrag bleiben wir bei unserem Rechnungsbetrag. Ihre technische Bauleitung hat die Arbeiten verlangt und die Maße bestätigt. Dass Ihre Geschäftsführung die Preisfreigabe nicht unterschrieben hat, kennen wir. Wir meinen dennoch, dass die angeforderte und im Bauwerk verbliebene Leistung nicht unentgeltlich ist. Die Frage soll anhand des Schriftverkehrs und der Leistungsaufstellung geklärt werden. Ein Anerkenntnis der Gegenseite liegt uns bisher nicht vor.",
+            "Die im Mai erwartete Zahlung von 24.000 EUR betrifft nur das reguläre Aufmaß 3. Dieser Betrag darf weder als Abschlag auf die 74.000 EUR noch als Gegenleistung für die geplante Abtretung behandelt werden. Die Buchhaltung wird beide Positionen getrennt weiterführen.",
+            "Den von Ihnen übersandten, nicht unterzeichneten Entwurf füge ich zur eindeutigen Zuordnung bei. Wir haben darin keine Unterschrift ergänzt."
+          ],
+          "attachments": [
+            "BZ-ZK-06.docx"
+          ]
+        },
+        {
+          "id": "BZ-ZK-08",
+          "kind": "pdf",
+          "date": "2026-07-10",
+          "issuer": "Fassadenbau Kreiser GmbH",
+          "subject": "Antwort zur Beleganforderung des Insolvenzverwalters",
+          "recipient": "Rechtsanwalt Lasse von Jagow",
+          "signature": "Joris Kreiser",
+          "body": [
+            "Sehr geehrter Herr von Jagow,",
+            "wir übersenden die Unterlagen aus unserem Projektkonto. Für die streitige Nachtragsrechnung von 74.000,00 EUR haben wir keinen Bankauftrag ausgelöst. Unsere Erklärung vom 18. April 2026 war als gemeinsame Bereinigung mit Südspange gedacht. Der Text vom 22. April blieb in unserer Ablage ohne Unterschriften. Eine von Südspange gegengezeichnete Abtretung können wir Ihnen derzeit nicht vorlegen.",
+            "Herr Kreiser erinnert, dass der dortige Ansprechpartner die Lösung telefonisch als vernünftig bezeichnet habe. Ob er damit bereits eine rechtlich bindende Erklärung abgeben wollte und durfte, ist zwischen den Beteiligten umstritten. Südspange hat dem schriftlich widersprochen. Die Gesprächsnotizen wurden nicht von beiden Seiten unterschrieben. Wir haben Südspange für einen Forderungserwerb keine 74.000,00 EUR gezahlt.",
+            "Unsere Einwendung gegen den Fensterbandnachtrag besteht unabhängig von dieser Abrechnungsfrage. Herr Westhoff durfte Mengen und technische Änderungen koordinieren, aber keine Zusatzkosten in dieser Höhe verbindlich freigeben. Wir prüfen außerdem, ob bestimmte Anschlussbleche bereits zum Hauptauftrag gehörten. Die technische Nutzung der eingebauten Teile bestreiten wir nicht. Eine ausdrückliche Preisgenehmigung durch unsere Geschäftsführung ist nicht dokumentiert.",
+            "Der reguläre Betrag von 24.000,00 EUR ist am 11. Mai 2026 gezahlt worden. Er ist auf unserem Konto dem Aufmaß 3 zugeordnet. Wir bitten, ihn nicht nochmals als offenen Betrag zu behandeln. Dieses Schreiben beantwortet Ihre Unterlagenanforderung; es enthält keine Vereinbarung über einen Verjährungsverzicht."
+          ]
+        },
+        {
+          "id": "BZ-ZK-09",
+          "kind": "pdf",
+          "date": "2026-07-09",
+          "issuer": "Schlachtensee Stahl & Form GmbH",
+          "subject": "Stammdaten der drei Vertragsparteien",
+          "recipient": "Rechtsanwalt Lasse von Jagow",
+          "signature": "Pauline Forck",
+          "body": [
+            "1 Schlachtensee Stahl & Form GmbH",
+            "Unsere Gesellschaft ist im Handelsregister des Amtsgerichts Charlottenburg unter der in der Hauptakte geführten Registernummer eingetragen. Geschäftsführerin ist Juno Bern von Hallern. Sie ist Auftragnehmerin der Fassadenbau Kreiser GmbH und Käuferin des von Südspange gelieferten Stahls. Vertragspartner, Debitor und Kreditor werden im System jeweils mit eigener Stammdatennummer geführt.",
+            "2 Fassadenbau Kreiser GmbH",
+            "Fassadenbau Kreiser wird unter Debitor 14007 geführt. Geschäftsführer ist Joris Kreiser; Postanschrift ist Gewerbebogen 34, 13581 Berlin. Die Gesellschaft ist Auftraggeberin für die Fensterbänder. Die Stammkarte enthält keine Vollmacht zur Vertretung der Südspange Stahlhandel GmbH. Eine bloße Angabe „Gruppe Kreiser“ in einer E-Mail-Signatur wurde im System nicht als Rechtsträger erfasst.",
+            "3 Südspange Stahlhandel GmbH",
+            "Südspange wird unter Kreditor 16018 geführt. Die Geschäftsführung ist auf dem Rechnungsbriefkopf mit Mira Busse bezeichnet; Postanschrift ist Zum alten Wasserturm 9, 13581 Berlin. Hanno Burk betreut die Vertragsverwaltung und hat den Terminaufschub vom 18. März unterzeichnet. Die Gesellschaft hat ein eigenes Geschäftskonto und stellt ihre Rechnungen unter eigenem Namen. Für BZ-STA-01 beträgt der offene Betrag 128.000,00 EUR. Die Gesellschaft hat erklärt, dass keine Abtretung und keine Verrechnungsvereinbarung vollzogen worden seien.",
+            "4 Aussagegrenze der Stammkarten",
+            "Diese Zusammenstellung stammt aus den kaufmännischen Stammdaten und den übergebenen Verträgen. Sie ist kein aktueller Handelsregisterauszug und keine Bescheinigung über sämtliche gesellschaftsrechtlichen Beziehungen. Für die behauptete Abtretung müssen konkrete Erklärungen der jeweils vertretungsberechtigten Personen vorliegen; ein ähnlich gestalteter Briefkopf genügt als Ablagebeleg nicht."
+          ]
+        },
+        {
+          "id": "BZ-ZK-10",
+          "kind": "pdf",
+          "date": "2026-07-10",
+          "issuer": "Schlachtensee Stahl & Form GmbH",
+          "subject": "Buchungsabgleich zum Fensterbandnachtrag",
+          "recipient": "Rechtsanwalt Lasse von Jagow",
+          "signature": "Pauline Forck",
+          "body": [
+            "1 Unveränderter Bankbestand",
+            "Für die behauptete Verrechnung vom 18. April 2026 gibt es keinen Zahlungsausgang und keinen Zahlungseingang auf dem Geschäftskonto. Der Betrag von 74.000,00 EUR ist im Debitorenexport als streitige Rechnung BZ-DEB-06 enthalten. Er wird dort nicht als empfangen ausgewiesen. Die korrespondierende Stahlverbindlichkeit BZ-STA-01 bleibt ebenfalls in voller Höhe offen.",
+            "2 Bestehender Zahlungseingang",
+            "Am 11. Mai 2026 gingen unter BZ-DEB-02-BK 24.000,00 EUR von Fassadenbau Kreiser ein. Dieser Betrag betrifft den freigegebenen Hauptauftrag. Der Buchungstext lautet „Fassade 7, Aufmaß 3“. In der beigefügten Zuordnungstabelle steht dieser Eingang nur als Abgrenzung, nicht als Zahlung auf den Nachtrag. Ein Abzug von 24.000,00 EUR von der Nachtragsforderung wäre daher ohne weiteren Beleg falsch.",
+            "3 Buchungswunsch und tatsächlicher Stand",
+            "Das Schreiben vom 18. April enthält den Wunsch, eine Forderung von 74.000,00 EUR und eine fremde Verbindlichkeit bis zu dieser Höhe auszubuchen. Der Vorschlag wurde wegen der abweichenden Parteien nicht umgesetzt. Die angeführte Restzahl von 54.000,00 EUR ist nur eine Rechnung der Gegenpartei: 128.000,00 EUR minus 74.000,00 EUR. Sie ersetzt keine Bestätigung über eine wirksame Teilbefriedigung.",
+            "4 Übergabe",
+            "Für die Bearbeitung sind deshalb Forderungsbestand, Vertretung, behauptete Abtretung und Zeitpunkt der Erklärungen getrennt nachzuvollziehen. Die Buchhaltung liefert hierzu die Dokumente, trifft aber keine rechtliche Entscheidung darüber, ob und gegen wen ein Anspruch geltend zu machen ist. Die Frage der Vergütung des Nachtrags bleibt auch dann offen, wenn der Verrechnungseinwand nicht trägt."
+          ]
+        }
+      ],
+      "setoff": {
+        "claim_id": "BZ-DEB-06",
+        "claim_creditor": "Schlachtensee Stahl & Form GmbH",
+        "claim_debtor": "Fassadenbau Kreiser GmbH",
+        "claim_cents": 7400000,
+        "counterclaim_id": "BZ-STA-01",
+        "counterclaim_creditor": "Südspange Stahlhandel GmbH",
+        "counterclaim_debtor": "Schlachtensee Stahl & Form GmbH",
+        "counterclaim_cents": 12800000,
+        "bank_amount_cents": 0,
+        "assignment_status": "Entwurf ohne Annahme; Abtretung bestritten",
+        "petition_on": "2026-06-18"
+      },
+      "comparison_payment": {
+        "id": "BZ-DEB-02-BK",
+        "amount_cents": 2400000,
+        "event_date": "2026-05-11",
+        "kind": "Bezahlter Hauptauftrag; kein Eingang auf BZ-DEB-06"
+      }
+    },
+    "PR": {
+      "title": "Bevorzugte Zahlung einer Sammelrechnung und gesonderter Vorkasseabruf",
+      "payment_refs": [
+        "PR-FUEL-01-BK",
+        "PR-FUEL-02-BK"
+      ],
+      "event_date": "2026-05-29",
+      "amount_cents": 1800000,
+      "components": [],
+      "documents": [
+        {
+          "id": "PR-ZK-01",
+          "kind": "docx",
+          "date": "2026-07-10",
+          "issuer": "Uckerbogen Rotorcharter GmbH",
+          "subject": "Zahlungen an Turbinenkraft und zugehörige Lieferunterlagen",
+          "recipient": "Rechtsanwältin Frida von Weiden",
+          "signature": "Malin Stange",
+          "body": [
+            "1 Umfang der Nachlieferung",
+            "Frau von Weiden hat um die Unterlagen zu den beiden Zahlungen an Turbinenkraft Nord gebeten. Am 29. Mai 2026 wurden 18.000,00 EUR auf die Rechnung TK-21 bezahlt; am 15. Juni folgten 6.000,00 EUR für einen neuen Abruf. Die Buchungen tragen PR-FUEL-01-BK und PR-FUEL-02-BK. Beide stammen aus vorhandenen Mitteln des Geschäftskontos und sind in den monatlichen Kontoauszügen enthalten.",
+            "2 Unterschiedliche Vorgänge",
+            "Die Mai-Rechnung betraf Kerosin und Sicherheitsprüfungen aus dem bereits abgewickelten Lieferpaket. Der Juni-Abruf wurde erst nach Eingang der Vorauszahlung freigegeben. Turbinenkraft bezeichnet beide Zahlungen im Kundenkonto pauschal als Treibstoff. Für die Bearbeitung liegen deshalb die Rechnung, die Leistungsnachweise und die einzelnen Nachrichten daneben. Die zweite Zahlung ist kein Teilbetrag auf die erste Rechnung.",
+            "3 Kommunikation im Mai",
+            "Unsere Geschäftsführung hat am 19. Mai die ausgefallenen Sommerbuchungen, den gesperrten Kontoteil und die nicht verlängerte Unterstützung der Mutter angesprochen. Turbinenkraft hat auf Bezahlung der eigenen Rechnung bestanden. Ein gerichtlicher Titel oder ein bereits erteilter Vollstreckungsauftrag ist in diesem Vorgang nicht vorhanden. Der Lieferant hatte die Einschaltung eines Anwalts erwogen, falls am Fälligkeitstag kein Geld eingehen sollte.",
+            "4 Offene Bearbeitung",
+            "Die Unterlagen sollen zunächst ausgewertet werden. Ein beziffertes Rückforderungsschreiben oder eine Klage ist noch nicht versandt. Zu prüfen bleiben insbesondere der damalige Kenntnisstand des Lieferanten, die Zuordnung der Leistungen und der unterschiedliche zeitliche Ablauf. Die internen Stichtagsunterlagen und die Korrespondenz mit anderen Gläubigern liegen außerhalb dieses Unterordners in der allgemeinen Akte.",
+            "Die Mai-Zahlung erfolgte 16 Tage nach der Leistung. Auch das bisherige Zahlungsziel von 14 bis 18 Tagen ist deshalb anhand des Rahmenvertrags zu berücksichtigen. Der Umstand, dass dem Lieferanten Zahlungsschwierigkeiten bekannt waren, ersetzt diese Prüfung des konkreten Leistungsaustauschs nicht. Eine Absprache über das Beiseiteschaffen von Waren oder einen zweckwidrigen Einsatz der Lieferung ist in den übergebenen Nachrichten nicht dokumentiert."
+          ]
+        },
+        {
+          "id": "PR-ZK-02",
+          "kind": "pdf",
+          "date": "2026-05-14",
+          "issuer": "Turbinenkraft Nord KG",
+          "subject": "Rechnung TK 21 für Kerosin und Sicherheitsprüfungen",
+          "recipient": "Uckerbogen Rotorcharter GmbH",
+          "signature": "Tabea Birk, Kundenabrechnung",
+          "body": [
+            "Sehr geehrter Herr von Falkenhag,",
+            "wir berechnen das am 13. Mai 2026 abgeschlossene Versorgungspaket am Sonderlandeplatz Uckerbogen. Die Rechnung TK-21 entspricht Ihrer Bestellnummer PR-FUEL-01. Die Leistungen umfassen die vereinbarte Kerosinmenge, den Tankdienst und die im selben Paket durchgeführten Sicherheitsprüfungen. Sie wurden nicht erst für einen künftigen Juni-Abruf bereitgestellt.",
+            "1 Rechnungssumme",
+            "Das Zahlungsziel von 16 Kalendertagen nach Ausführung entspricht den in dieser Geschäftsverbindung üblicherweise vereinbarten 14 bis 18 Tagen. Es wurde für TK-21 nicht erst nach Fälligkeit oder wegen der später mitgeteilten Zahlungsschwierigkeiten verlängert. Eine Gegenüberstellung mit anderen Lieferanten ist hiermit nicht erstellt.",
+            "Der Nettobetrag für das Paket beträgt 15.126,05 EUR. Hinzu kommen 2.873,95 EUR Umsatzsteuer von 19 Prozent. Insgesamt sind 18.000,00 EUR zu zahlen. Das Leistungsdatum ist der 13. Mai 2026. Zahlungsziel ist der 29. Mai 2026 ohne Abzug. Die Rechnung enthält weder ein Darlehen noch einen Verzugszins oder Vollstreckungskosten.",
+            "2 Abrechnung und Empfang",
+            "Die Einzelmengen und Prüfpositionen sind im Übergabeblatt TK-21-L bezeichnet. Ihre Disposition hat den Empfang bestätigt. Für Rechnungseinwände nennen Sie bitte die betroffene Liefer- oder Prüfposition. Eine gesonderte Vergütung für dieselben Leistungen soll nicht neben diesem Paket erhoben werden.",
+            "3 Bankverbindung und Zuordnung",
+            "Bitte überweisen Sie auf unser bekanntes Geschäftskonto unter Angabe TK-21. Nach erfolgter Zahlung werden künftige Abrufe separat abgerechnet. Eine Zahlung auf TK-21 stellt keine Vorauszahlung für die nächste Tankung dar."
+          ]
+        },
+        {
+          "id": "PR-ZK-03",
+          "kind": "pdf",
+          "date": "2026-05-13",
+          "issuer": "Turbinenkraft Nord KG",
+          "subject": "Liefer und Leistungsnachweis TK 21",
+          "recipient": "Uckerbogen Rotorcharter GmbH",
+          "signature": "Tabea Birk\nEmpfang am 13.05.2026: Malin Stange",
+          "body": [
+            "1 Ausführung",
+            "Am 13. Mai wurden im vertraglich vereinbarten Versorgungspaket 8.000 Liter Kerosin in die bezeichneten Betriebsbehälter übergeben. Der Tankdienst begann um 07:20 Uhr und war um 09:10 Uhr abgeschlossen. Die Chargennummer lautet TK-260513. Malin Stange nahm die Menge für Uckerbogen Rotorcharter entgegen. Die Tankwagenanzeige und der betriebliche Zugangszähler zeigten dieselbe übergebene Menge.",
+            "2 Zusätzliche Leistungen",
+            "Zum Paket gehörten die vereinbarten Kontrollen von Schlauchkupplungen, Erdung und Notabschaltung an den verwendeten Übergabepunkten. Die Prüfungen wurden am Vormittag abgeschlossen. Zwei Dichtungen wurden im Rahmen des vereinbarten Paketpreises gewechselt. Eine noch ausstehende spätere Hauptleistung wurde auf dem Empfangsblatt nicht vermerkt.",
+            "3 Preisbezug",
+            "Dieses Blatt belegt die tatsächliche Ausführung des Pakets zur Rechnung TK-21 über 18.000,00 EUR brutto. Es ist keine zweite Rechnung und löst keinen zusätzlichen Zahlungsposten aus. Die Rechnung ist nach der vereinbarten Kreditfrist am 29. Mai fällig. Bei Übergabe wurde kein Zahlungseingang verlangt und keine Vorauszahlung geleistet.",
+            "4 Empfang",
+            "Die Kraftstoffmenge wurde im laufenden Charterbetrieb verwendet. Weder eine Rückgabe des gesamten Pakets noch eine Rückübertragung der gelieferten Menge ist in der Disposition erfasst. Der Nachweis sagt nichts über die finanzielle Gesamtlage des Kunden aus."
+          ]
+        },
+        {
+          "id": "PR-ZK-04",
+          "kind": "eml",
+          "date": "2026-05-19",
+          "issuer": "Uckerbogen Rotorcharter GmbH",
+          "subject": "TK 21 und unsere Zahlungslage",
+          "recipient": "Turbinenkraft Nord KG",
+          "signature": "Skyler von Falkenhag",
+          "body": [
+            "Guten Morgen Frau Birk,",
+            "ich möchte offen ansprechen, weshalb wir um ein Gespräch über TK-21 bitten. Der Reiseveranstalter hat das für den Sommer fest eingeplante Kontingent abgesagt. Unsere Mutter übernimmt neue Lücken seit Anfang Mai nicht mehr. Von dem Guthaben, das auf dem Bankauszug steht, ist ein Teil für das Kartenprogramm gesperrt und nicht für Lieferanten verfügbar.",
+            "Die seit dem 18. Mai fällige Rechnung von Rotorservice über 116.000 EUR können wir gegenwärtig nicht vollständig bezahlen. Auch für die am 26. Mai fällig werdende Leasingrate fehlt eine gesicherte Deckung. Auch aus den für die nächsten drei Wochen erwarteten, bereits bestätigten Einzahlungen ergibt sich dafür kein vollständiger Ausgleich. Einen verlässlichen Ratenplan für alle diese Posten kann ich Ihnen nicht nennen. Es geht also nicht nur um eine technisch verzögerte Überweisung.",
+            "TK-21 wird erst am 29. Mai fällig. Wir versuchen, Ihre 18.000 EUR aus den einzelnen Chartereingängen noch zu bedienen, damit der Tankdienst weiterarbeitet. Eine Zusicherung, dass damit auch alle übrigen fälligen Rechnungen bezahlt werden können, gebe ich ausdrücklich nicht. Bitte sagen Sie uns, ob Sie weitere Lieferungen überhaupt noch auf Ziel ausführen würden."
+          ]
+        },
+        {
+          "id": "PR-ZK-05",
+          "kind": "eml",
+          "date": "2026-05-20",
+          "issuer": "Turbinenkraft Nord KG",
+          "subject": "AW TK 21 und unsere Zahlungslage",
+          "recipient": "Uckerbogen Rotorcharter GmbH",
+          "signature": "Tabea Birk",
+          "body": [
+            "Guten Tag Herr von Falkenhag,",
+            "Ihre Angaben zur nicht bezahlbaren Rotorrechnung, zur Leasingrate und zu den fehlenden Mitteln für die kommenden drei Wochen habe ich an unseren Geschäftsführer weitergegeben. Wir stimmen einem Aufschub für TK-21 nicht zu. Die Rechnung wird am 29. Mai fällig. Bitte behandeln Sie unsere Zahlung bevorzugt, auch wenn mit den übrigen Lieferanten noch keine Lösung vereinbart ist.",
+            "Ab sofort erfolgt jeder weitere Abruf nur nach gesonderter Vorauszahlung und Freigabe durch unsere Disposition. Der bestehende Betrag von 18.000 EUR wird dadurch nicht zu einer Vorauszahlung umgebucht. Wir haben ihn auf dem Kundenkonto unverändert als offene Rechnung für bereits ausgeführte Leistungen stehen.",
+            "Sollte am 29. Mai kein Geld eingehen, werden wir die Angelegenheit unserem Anwalt zur Prüfung geben. Derzeit besteht in dieser Sache kein gerichtlicher Titel, und ein Gerichtsvollzieher ist von uns nicht beauftragt. Die laufende Versorgung setzen wir ohne neue Zahlungsabsprache nicht auf Kredit fort. Ein konkreter zusätzlicher Juni-Abruf wird erst nach eigener Bestellung angeboten."
+          ]
+        },
+        {
+          "id": "PR-ZK-06",
+          "kind": "pdf",
+          "date": "2026-05-29",
+          "issuer": "Uckerbogen Rotorcharter GmbH",
+          "subject": "Zahlungsfreigabe für die Rechnung TK 21",
+          "recipient": "Buchhaltung",
+          "signature": "Skyler von Falkenhag\nErfasst: Malin Stange",
+          "body": [
+            "1 Freigegebener Auftrag",
+            "Die Überweisung an Turbinenkraft Nord KG über 18.000,00 EUR wird aus dem Geschäftskonto ausgeführt. Die Buchungsreferenz lautet PR-FUEL-01-BK, Wertstellung 29. Mai 2026. Die Zahlung ist ausschließlich auf die Rechnung TK-21 über bereits geliefertes Kerosin und die dazugehörigen Sicherheitsprüfungen bestimmt. Es wird weder eine künftige Lieferung angezahlt noch eine andere Rechnung ausgeglichen.",
+            "2 Entscheidungsgrundlage",
+            "Der Geschäftsführer will den Versorger im Betrieb halten. Turbinenkraft hat nach der Krisennachricht vom 19. Mai auf Zahlung bestanden und weitere Kreditlieferungen ausgeschlossen. Die für den Zahlungsauftrag benötigten Mittel stehen auf dem frei verfügbaren Teil des Geschäftskontos bereit. Es ist kein zusätzliches Darlehen und keine Zahlung der Mutter in Anspruch genommen worden.",
+            "3 Andere Verpflichtungen",
+            "Die Freigabe ändert nichts daran, dass die Rotorrechnung und weitere fällige Verpflichtungen nicht vollständig bedient werden. Die Buchhaltung hat vor Freigabe auf diese Rückstände hingewiesen. Auch die Lohnsammelzahlung für Mai steht am selben Tag zur Ausführung an. Für eine allgemeine Bereinigung sämtlicher Rückstände besteht kein bestätigter Zahlungsplan.",
+            "4 Abschluss",
+            "Malin Stange soll die Bankausführung mit dem Kundenkonto TK-21 abgleichen. Der Lieferant hat keine neue Ware als unmittelbare Gegenleistung für die heutige Zahlung zugesagt. Weitere Abrufe werden getrennt bestellt und bezahlt."
+          ]
+        },
+        {
+          "id": "PR-ZK-07",
+          "kind": "pdf",
+          "date": "2026-06-05",
+          "issuer": "Turbinenkraft Nord KG",
+          "subject": "Kundenkonto nach Ausgleich der Rechnung TK 21",
+          "recipient": "Uckerbogen Rotorcharter GmbH",
+          "signature": "Tabea Birk, Kundenabrechnung",
+          "body": [
+            "Sehr geehrte Frau Stange,",
+            "wir bestätigen den Eingang von 18.000,00 EUR am 29. Mai 2026. Der Betrag ist vollständig der Rechnung TK-21 zugeordnet. Der Rechnungsbetrag setzt sich aus 15.126,05 EUR netto und 2.873,95 EUR Umsatzsteuer zusammen. Auf diesem Posten besteht kein Rest. Die Bestätigung enthält keine Gutschrift und keinen neuen Geldfluss.",
+            "Eine zusätzliche Zahlung auf diese Rechnung wird nicht verlangt. Die von Ihnen angekündigte Bestellung für einen einzelnen Juni-Abruf führen wir noch nicht als ausgeführte Lieferung. Bitte warten Sie das Angebot und die konkrete Vorauszahlungsrechnung ab. Eine Verrechnung der Mai-Zahlung mit dieser neuen Bestellung wäre in unserem Kundenkonto falsch.",
+            "Die Absprache vom 20. Mai bleibt bestehen: Neue Lieferungen erfolgen nur gegen Zahlung vor Freigabe. Wir kennen weiterhin keinen von Ihnen vorgelegten vollständigen Sanierungs- oder Zahlungsplan. Ob Ihre anderen Gläubiger inzwischen bezahlt wurden, ist uns nicht bestätigt worden."
+          ]
+        },
+        {
+          "id": "PR-ZK-08",
+          "kind": "pdf",
+          "date": "2026-06-12",
+          "issuer": "Turbinenkraft Nord KG",
+          "subject": "Vorauszahlungsrechnung für den Juni Abruf",
+          "recipient": "Uckerbogen Rotorcharter GmbH",
+          "signature": "Tabea Birk",
+          "body": [
+            "Sehr geehrte Frau Stange,",
+            "für Ihre Bestellung TK-26 vom 5. Juni bieten wir 3.000 Liter Kerosin einschließlich Tankdienst am 15. Juni 2026 an. Die Leistung wird erst nach Zahlungseingang freigegeben. Es handelt sich um einen neuen, vom Paket TK-21 getrennten Auftrag. Ein Ausgleich alter Forderungen oder eine Sicherheitsleistung für die Geschäftsverbindung ist mit der Zahlung nicht verbunden.",
+            "1 Betrag und Leistungszeit",
+            "Der Nettopreis beträgt 5.042,02 EUR zuzüglich 957,98 EUR Umsatzsteuer von 19 Prozent, insgesamt 6.000,00 EUR. Die Überweisung muss spätestens am Morgen des 15. Juni auf unserem Konto gutgeschrieben sein. Nach Freigabe kann die für den Nachmittag reservierte Tankfahrt ausgeführt werden. Bei unterbleibender Lieferung wäre die Vorauszahlung diesem Auftrag zuzuordnen und abzurechnen; sie wird nicht automatisch auf andere Posten verrechnet.",
+            "2 Dokumentation",
+            "Bitte verwenden Sie als Zahlungsreferenz PR-FUEL-02 / TK-26. Unsere Disposition meldet den Eingang an den Fahrer und erstellt bei Übergabe einen gesonderten Lieferschein. Dieser Lieferschein ist für Menge, Datum und tatsächliche Ausführung maßgeblich. Die bloße Vorauszahlungsrechnung bestätigt noch keine Lieferung.",
+            "3 Bestellung",
+            "Der Abruf dient drei bereits bestätigten Einzelchartern. Eine darüber hinausgehende Kreditzusage ist nicht vereinbart. TK-21 bleibt mit der Zahlung vom 29. Mai abgeschlossen."
+          ]
+        },
+        {
+          "id": "PR-ZK-09",
+          "kind": "pdf",
+          "date": "2026-06-15",
+          "issuer": "Turbinenkraft Nord KG",
+          "subject": "Tankprotokoll zum Juni Abruf TK 26",
+          "recipient": "Uckerbogen Rotorcharter GmbH",
+          "signature": "Tabea Birk\nEmpfang: Malin Stange",
+          "body": [
+            "1 Eingang der Vorauszahlung",
+            "Die Kundenabrechnung hat am 15. Juni 2026 um 09:18 Uhr den Eingang von 6.000,00 EUR bestätigt. Der Betrag trägt die Referenz PR-FUEL-02 und ist dem neuen Auftrag TK-26 zugeordnet. Die Freigabe wurde um 09:24 Uhr an die Disposition gegeben. Eine alte Forderung wurde aus diesem Betrag nicht ausgebucht.",
+            "2 Ausführung am selben Tag",
+            "Der Tankwagen traf um 14:35 Uhr am Sonderlandeplatz ein. Zwischen 14:45 Uhr und 15:20 Uhr wurden 3.000 Liter Kerosin übergeben. Malin Stange bestätigte Zählerstand, Menge und vorgesehenen Verwendungszweck für die gebuchten Einzelcharter. Der Tankdienst ist im Pauschalpreis enthalten. Die vereinbarte Leistung ist mit Übergabe am selben Tag vollständig ausgeführt worden.",
+            "3 Verbrauchszuordnung",
+            "Die Disposition reservierte die Menge für die Aufträge Nordroute, Inseltransfer und Moorflug. Eine Absprache, die Ware ungenutzt aus dem Betrieb abzuziehen oder außerhalb des Unternehmens zu verwerten, ist in unserer Bestellung nicht enthalten. Die wirtschaftliche Tragfähigkeit aller anderen Flüge wurde von unserem Tankdienst nicht geprüft.",
+            "4 Abrechnung",
+            "Dieses Protokoll schließt die Leistung zur Vorauszahlungsrechnung vom 12. Juni ab. Es ist keine weitere Rechnung über 6.000,00 EUR und kein Beleg für einen zweiten Zahlungseingang. Der Vergleich mit TK-21 soll anhand der getrennten Rechnungen und Zahlungsreferenzen erfolgen."
+          ]
+        },
+        {
+          "id": "PR-ZK-10",
+          "kind": "eml",
+          "date": "2026-07-10",
+          "issuer": "Turbinenkraft Nord KG",
+          "subject": "Unterlagen zu TK 21 und TK 26",
+          "recipient": "Rechtsanwältin Frida von Weiden",
+          "signature": "Tabea Birk",
+          "body": [
+            "Sehr geehrte Frau von Weiden,",
+            "anbei erhalten Sie unsere beiden Rechnungen und den Nachweis über die Juni-Lieferung. Wir bestätigen, dass uns Herr von Falkenhag am 19. Mai die Schwierigkeiten mit Rotorrechnung, Leasing, Charterabsage und der nicht verlängerten Unterstützung geschildert hat. Unsere Antwort vom 20. Mai steht unverändert in der Mailablage. Einen konkreten Insolvenzantrag kannten wir bei den beiden Zahlungseingängen nicht.",
+            "Wir hielten den Betrieb für weiterlaufend und wollten jedenfalls neue Leistungen nur noch gegen sofortige Zahlung ausführen. Daraus folgt aus unserer Sicht nicht, dass beide Zahlungen denselben Hintergrund hatten. TK-21 war die normale Rechnung für das am 13. Mai abgeschlossene Paket. TK-26 war ein neuer Auftrag, der erst nach Zahlung tatsächlich geliefert wurde. Die Rechnungen sind wirtschaftlich und im Kundenkonto getrennt.",
+            "Eine Vollstreckung haben wir nicht eingeleitet. Wir hatten einen Anwalt nur für den Fall ausbleibender Zahlung in Aussicht gestellt. Die Unterlagen enthalten keinen Vollstreckungstitel. Wir bestreiten nicht die in Ihren Bankdaten ausgewiesenen Beträge, behalten uns aber Einwendungen gegen eine etwaige Rückforderung vor. Ihr bisheriges Schreiben war eine Beleganforderung und enthielt noch keine Zahlungsforderung."
+          ],
+          "attachments": [
+            "PR-ZK-02.pdf",
+            "PR-ZK-08.pdf",
+            "PR-ZK-09.pdf"
+          ]
+        }
+      ],
+      "comparison_payment": {
+        "id": "PR-FUEL-02-BK",
+        "amount_cents": 600000,
+        "event_date": "2026-06-15",
+        "kind": "Gesonderter Vorkasseabruf mit zeitnaher Lieferung"
+      }
+    }
+  }
+}
