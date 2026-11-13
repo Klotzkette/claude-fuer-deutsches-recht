@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zahlungsunfähigkeits- und Überschuldungsprüfer</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./ui.mjs"></script>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <p class="eyebrow">Insolvenzprüfung · §§ 17 und 19 InsO</p>
+      <h1>Zahlungsunfähigkeits- und Überschuldungsprüfer</h1>
+      <p>Berechnen Sie die Liquiditätslücke und die Vermögensdeckung für die erfassten Stichtage.</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="card" aria-labelledby="input-title">
+      <h2 id="input-title">Falldaten</h2>
+      <p>Öffnen Sie eine JSON-Datei oder fügen Sie den Inhalt ein. Die Berechnung erfolgt in diesem Browser.</p>
+      <div class="file-actions">
+        <label for="file">JSON-Datei auswählen</label>
+        <input type="file" id="file" accept=".json,application/json">
+        <button type="button" id="sample" class="secondary">Beispiel öffnen</button>
+      </div>
+      <label for="input">JSON-Eingabe</label>
+      <textarea id="input" rows="8" spellcheck="false" placeholder='{"caseName":"…","dates":[…]}'></textarea>
+      <button type="button" id="calculate">Stichtage berechnen</button>
+      <p id="feedback" role="status" hidden></p>
+    </section>
+    <section id="output" aria-labelledby="output-title" hidden>
+      <div class="result-header">
+        <h2 id="output-title">Befund</h2>
+        <button type="button" id="download" class="secondary">Ergebnis als JSON</button>
+      </div>
+      <div id="results"></div>
+    </section>
+  </main>
+</body>
+</html>

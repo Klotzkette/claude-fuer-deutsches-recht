@@ -1,0 +1,12 @@
+name: Keramikfabrik Cottbus
+plugin: zahlungsunfaehigkeits-und-ueberschuldungspruefer
+stand: '2026-11-13'
+checks:
+- id: bankauszug
+  check_type: file_exists
+  description: Erster Monatsauszug vorhanden
+  path: 01_Bank/Auszug_2024-07.pdf
+- id: stichtagsunterlagen
+  check_type: file_exists
+  description: Bestandswerte und Finanzplanung vorhanden
+  path: 02_Buchhaltung/05_Stichtagsunterlagen.xlsx

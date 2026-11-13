@@ -14,6 +14,7 @@ ADDITIONAL_CONFIGS = (
     CONFIG.with_name("testakten-grundakten-eingangsbestand.json"),
     CONFIG.with_name("testakten-grundakten-hameln.json"),
     CONFIG.with_name("testakten-grundakten-ergaenzung.json"),
+    CONFIG.with_name("testakten-grundakten-insolvenzreife.json"),
 )
 PROCEEDING = re.compile(
     r"widerspruch|einspruch|klageschrift|klageerwiderung|klage.entwurf|"

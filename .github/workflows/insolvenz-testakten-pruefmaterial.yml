@@ -5,6 +5,10 @@ on:
     paths:
       - 'testakten/**'
       - 'quality/insolvenz-testakten/**'
+      - 'quality/insolvenzreife/**'
+      - 'zahlungsunfaehigkeits-und-ueberschuldungspruefer/app/**'
+      - 'scripts/data/zu-insolvenzfaelle.json'
+      - 'scripts/test-insolvenzreife-rechenfaelle.mjs'
       - 'docs/experimentell/vorlagensammlung-recht/insolvenzrecht/**'
       - 'docs/experimentell/vorlagensammlung-recht/restrukturierungsrecht-starug/**'
       - 'scripts/insolvenz-testakten-material.py'
@@ -22,10 +26,17 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.sha }}
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       - name: Abhängigkeiten installieren
         run: python3 -m pip install python-docx pypdf
       - name: Bestand, Aktenstand und Exporttrennung prüfen
         run: python3 scripts/insolvenz-testakten-material.py
+      - name: Insolvenzreife aus den drei Akten nachrechnen
+        run: node --test zahlungsunfaehigkeits-und-ueberschuldungspruefer/app/engine.test.mjs scripts/test-insolvenzreife-rechenfaelle.mjs

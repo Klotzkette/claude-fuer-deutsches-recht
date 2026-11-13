@@ -1,0 +1,1087 @@
+{
+  "caseName": "Uckerbogen Rotorcharter GmbH",
+  "dates": [
+    {
+      "date": "2026-05-03",
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Nur zwei Hubschrauber gehören der Gesellschaft. Der noch nicht freigegebene Kontoteil ist bei der stichtagsbezogenen Zahlungsmittelverfügbarkeit gesondert zu erfassen. Die Sicherheit bleibt ein eigenes Bankguthaben der Gesellschaft, auf dem ein Pfandrecht der Bank für tatsächlich entstehende Rückbelastungen lastet. Die Bank meldet am Bewertungsstichtag keine entstandenen Rückbelastungen. Die absehbaren Stornos eigener Kundengutscheine sind separat unter PR-VCH-01 ausgewiesen und betreffen keine Kartenrückbelastung."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "PR-BANK · Kontostand 03.05.2026",
+            "amountCents": 12780000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-01",
+            "description": "Zwei eigene Hubschrauber, Nettoverwertung",
+            "source": "PR-INV-01 · Gutachterbewertung nach Lebensdauer und Demontagekosten",
+            "amountCents": 52500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-02",
+            "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
+            "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
+            "amountCents": 0,
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-INV-03",
+            "description": "Betriebsgeräte und eigene Ersatzteile",
+            "source": "PR-INV-03 · Verwerterangebot mit Abtransport und Gebühr",
+            "amountCents": 8600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-04",
+            "description": "Hangareinbauten und Schulungsausrüstung",
+            "source": "PR-INV-04 · Rückbaukosten bereits im Angebot abgezogen",
+            "amountCents": 3300000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-DAR-01",
+            "description": "Besichertes Fluggerätedarlehen",
+            "source": "PR-DAR-01 · Bankbestätigung Fluggerätekauf und Kontokorrent",
+            "amountCents": 62000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-02",
+            "description": "Ablöse für Restlaufzeit ab Juni bei sofortiger Rückgabe der vier Maschinen",
+            "source": "PR-LEASE-02 · Rahmenvertrag und Gegenangebot vom 30.04.2026; nur Abgeltung künftiger Raten ab Juni 2026. Bereits entstandene Mai-Rate PR-LEASE-01 und deren Nebenkosten sind ausdrücklich ausgenommen",
+            "amountCents": 22000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-VCH-01",
+            "description": "Rückabwicklung von Kundengutscheinen",
+            "source": "PR-VCH-01 · Kundenliste und bestätigte Stornierungen",
+            "amountCents": 6800000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-NR-01",
+            "description": "Eigenständiges Gesellschafterdarlehen",
+            "source": "PR-NR-01 · Kein Rangrücktritt. Die Ausstattungszusage betrifft nicht die Rangfolge.",
+            "amountCents": 15500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-CAPEX-01",
+            "description": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+            "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK",
+            "amountCents": 3280000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Rotorservice Havel GmbH · Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Fluggeräte Pool Ost GmbH · Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "positive",
+          "through": "2027-05-03",
+          "source": "PR-PLAN-2026-05-03",
+          "failureOn": null,
+          "reason": "Der aus der damaligen Auftragslage plausibilisierte Plan weist im vollständigen Prognosezeitraum keinen ungedeckten Bedarf aus. Bis 3. Mai liegen der bestätigte Sommerflugplan und eine befristete, für den laufenden Frühjahrsbedarf tragfähige Ausstattungszusage vor. Der Grundplan ab 4. Mai trägt die Kosten aus den vertraglichen Charterabschlägen, ohne eine künftige Verlängerung der Zusage einzurechnen."
+        }
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Nur zwei Hubschrauber gehören der Gesellschaft. Der noch nicht freigegebene Kontoteil ist bei der stichtagsbezogenen Zahlungsmittelverfügbarkeit gesondert zu erfassen. Die Sicherheit bleibt ein eigenes Bankguthaben der Gesellschaft, auf dem ein Pfandrecht der Bank für tatsächlich entstehende Rückbelastungen lastet. Die Bank meldet am Bewertungsstichtag keine entstandenen Rückbelastungen. Die absehbaren Stornos eigener Kundengutscheine sind separat unter PR-VCH-01 ausgewiesen und betreffen keine Kartenrückbelastung."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "PR-BANK · Kontostand 04.05.2026",
+            "amountCents": 12780000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-01",
+            "description": "Zwei eigene Hubschrauber, Nettoverwertung",
+            "source": "PR-INV-01 · Gutachterbewertung nach Lebensdauer und Demontagekosten",
+            "amountCents": 52500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-02",
+            "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
+            "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
+            "amountCents": 0,
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-INV-03",
+            "description": "Betriebsgeräte und eigene Ersatzteile",
+            "source": "PR-INV-03 · Verwerterangebot mit Abtransport und Gebühr",
+            "amountCents": 8600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-04",
+            "description": "Hangareinbauten und Schulungsausrüstung",
+            "source": "PR-INV-04 · Rückbaukosten bereits im Angebot abgezogen",
+            "amountCents": 3300000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-DAR-01",
+            "description": "Besichertes Fluggerätedarlehen",
+            "source": "PR-DAR-01 · Bankbestätigung Fluggerätekauf und Kontokorrent",
+            "amountCents": 62000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-02",
+            "description": "Ablöse für Restlaufzeit ab Juni bei sofortiger Rückgabe der vier Maschinen",
+            "source": "PR-LEASE-02 · Rahmenvertrag und Gegenangebot vom 30.04.2026; nur Abgeltung künftiger Raten ab Juni 2026. Bereits entstandene Mai-Rate PR-LEASE-01 und deren Nebenkosten sind ausdrücklich ausgenommen",
+            "amountCents": 22000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-VCH-01",
+            "description": "Rückabwicklung von Kundengutscheinen",
+            "source": "PR-VCH-01 · Kundenliste und bestätigte Stornierungen",
+            "amountCents": 6800000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-NR-01",
+            "description": "Eigenständiges Gesellschafterdarlehen",
+            "source": "PR-NR-01 · Kein Rangrücktritt. Die Ausstattungszusage betrifft nicht die Rangfolge.",
+            "amountCents": 15500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-CAPEX-01",
+            "description": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+            "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK",
+            "amountCents": 3280000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Rotorservice Havel GmbH · Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Fluggeräte Pool Ost GmbH · Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-05-04",
+          "source": "PR-PLAN-2026-05-04",
+          "failureOn": "2026-09-30",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-09 von 19.032,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "PR-BANK · Geschäftskonto am 17.05.2026",
+            "kind": "cash",
+            "amountCents": 9500000,
+            "availableOn": "2026-05-17",
+            "decision": "include"
+          },
+          {
+            "id": "PR-BANK-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "PR-BANK-01 · Rahmen laut Stammdaten; bereits vollständig ausgeschöpft, kein weiterer Abruf",
+            "kind": "cash",
+            "amountCents": 7500000,
+            "availableOn": "2026-05-17",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-PAT-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "PR-PAT-02 · Nur Entwurf für neue Laufzeit; kein unterschriebener Nachtrag",
+            "kind": "cash",
+            "amountCents": 36000000,
+            "availableOn": "2026-05-17",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-DEB-01",
+            "description": "Luftbildauftrag, Restbetrag nach Übergabe",
+            "source": "PR-OPOS · PR-DEB-01; Bank · PR-DEB-01-BK",
+            "kind": "inflow",
+            "amountCents": 1600000,
+            "availableOn": "2026-05-22",
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-02",
+            "description": "Transferreihe, bestätigtes Abschlagslos",
+            "source": "PR-OPOS · PR-DEB-02; Bank · PR-DEB-02-BK",
+            "kind": "inflow",
+            "amountCents": 3100000,
+            "availableOn": "2026-05-26",
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-04",
+            "description": "Vorsorgliche Restabrechnung Kontingent, widerrufen",
+            "source": "PR-OPOS · PR-DEB-04; PR-DEB-04 Korrespondenz",
+            "kind": "inflow",
+            "amountCents": 8700000,
+            "availableOn": "2026-06-02",
+            "decision": "exclude"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "dueOn": "2026-05-18",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-KLEIN-21",
+            "description": "Ersatzdichtung Vorkasse, eigene neue Position",
+            "source": "PR-OPOS; Bank",
+            "amountCents": 120000,
+            "dueOn": "2026-05-21",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "dueOn": "2026-05-26",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "PR-OPOS · PR-SV-01",
+            "amountCents": 2600000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-FUEL-01",
+            "description": "Kerosin und Sicherheitsprüfungen, Rechnung TK-21",
+            "source": "PR-OPOS · PR-FUEL-01; Bank · PR-FUEL-01-BK",
+            "amountCents": 1800000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LOHN-01",
+            "description": "Pilotinnen, Piloten und Technik, Lohn Mai",
+            "source": "PR-OPOS · PR-LOHN-01; Bank · PR-LOHN-01-BK",
+            "amountCents": 5000000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-HANG-01",
+            "description": "Hangarmiete Juni 2026",
+            "source": "PR-OPOS · PR-HANG-01; Bank · PR-HANG-01-BK",
+            "amountCents": 1250000,
+            "dueOn": "2026-06-01",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-HANG-02",
+            "description": "Behaupteter Nachtrag Hallentorantrieb; Abnahme bestritten",
+            "source": "PR-OPOS · PR-HANG-02; PR-ABG-01",
+            "amountCents": 4700000,
+            "dueOn": "2026-06-04",
+            "decision": "exclude",
+            "reason": "Der Gegenbeleg weist die erst später zu prüfende Abnahme des Nachtrags aus."
+          },
+          {
+            "id": "PR-KLEIN-05",
+            "description": "Prämie Fotoflug-Einzeltag",
+            "source": "PR-OPOS; Bank",
+            "amountCents": 175000,
+            "dueOn": "2026-06-05",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "PR-BANK · PR-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt.",
+          "Buchsaldo und tatsächlich verfügbares Bankguthaben unterscheiden sich um die Kartenreserve."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "PR-BANK · Geschäftskonto am 18.05.2026",
+            "kind": "cash",
+            "amountCents": 4000000,
+            "availableOn": "2026-05-18",
+            "decision": "include"
+          },
+          {
+            "id": "PR-RES-01",
+            "description": "Buchguthaben mit Verfügungssperre",
+            "source": "PR-RES-01",
+            "kind": "cash",
+            "amountCents": 5500000,
+            "availableOn": "2026-05-18",
+            "decision": "exclude",
+            "reason": "Sperrbetrag steht im Dreiwochenfenster nicht für allgemeine Gläubiger zur Verfügung."
+          },
+          {
+            "id": "PR-BANK-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "PR-BANK-01 · Rahmen laut Stammdaten; bereits vollständig ausgeschöpft, kein weiterer Abruf",
+            "kind": "cash",
+            "amountCents": 7500000,
+            "availableOn": "2026-05-18",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-PAT-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "PR-PAT-02 · Nur Entwurf für neue Laufzeit; kein unterschriebener Nachtrag",
+            "kind": "cash",
+            "amountCents": 36000000,
+            "availableOn": "2026-05-18",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-DEB-01",
+            "description": "Luftbildauftrag, Restbetrag nach Übergabe",
+            "source": "PR-OPOS · PR-DEB-01; Bank · PR-DEB-01-BK",
+            "kind": "inflow",
+            "amountCents": 1600000,
+            "availableOn": "2026-05-22",
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-02",
+            "description": "Transferreihe, bestätigtes Abschlagslos",
+            "source": "PR-OPOS · PR-DEB-02; Bank · PR-DEB-02-BK",
+            "kind": "inflow",
+            "amountCents": 3100000,
+            "availableOn": "2026-05-26",
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-04",
+            "description": "Vorsorgliche Restabrechnung Kontingent, widerrufen",
+            "source": "PR-OPOS · PR-DEB-04; PR-DEB-04 Korrespondenz",
+            "kind": "inflow",
+            "amountCents": 8700000,
+            "availableOn": "2026-06-02",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-DEB-03",
+            "description": "Chartergutscheine Programm Juni",
+            "source": "PR-OPOS · PR-DEB-03; Bank · PR-DEB-03-BK",
+            "kind": "inflow",
+            "amountCents": 1700000,
+            "availableOn": "2026-06-08",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "dueOn": "2026-05-18",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-KLEIN-21",
+            "description": "Ersatzdichtung Vorkasse, eigene neue Position",
+            "source": "PR-OPOS; Bank",
+            "amountCents": 120000,
+            "dueOn": "2026-05-21",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "dueOn": "2026-05-26",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "PR-OPOS · PR-SV-01",
+            "amountCents": 2600000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-FUEL-01",
+            "description": "Kerosin und Sicherheitsprüfungen, Rechnung TK-21",
+            "source": "PR-OPOS · PR-FUEL-01; Bank · PR-FUEL-01-BK",
+            "amountCents": 1800000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LOHN-01",
+            "description": "Pilotinnen, Piloten und Technik, Lohn Mai",
+            "source": "PR-OPOS · PR-LOHN-01; Bank · PR-LOHN-01-BK",
+            "amountCents": 5000000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-HANG-01",
+            "description": "Hangarmiete Juni 2026",
+            "source": "PR-OPOS · PR-HANG-01; Bank · PR-HANG-01-BK",
+            "amountCents": 1250000,
+            "dueOn": "2026-06-01",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-HANG-02",
+            "description": "Behaupteter Nachtrag Hallentorantrieb; Abnahme bestritten",
+            "source": "PR-OPOS · PR-HANG-02; PR-ABG-01",
+            "amountCents": 4700000,
+            "dueOn": "2026-06-04",
+            "decision": "exclude",
+            "reason": "Der Gegenbeleg weist die erst später zu prüfende Abnahme des Nachtrags aus."
+          },
+          {
+            "id": "PR-KLEIN-05",
+            "description": "Prämie Fotoflug-Einzeltag",
+            "source": "PR-OPOS; Bank",
+            "amountCents": 175000,
+            "dueOn": "2026-06-05",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "PR-BANK · PR-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      },
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Nur zwei Hubschrauber gehören der Gesellschaft. Der noch nicht freigegebene Kontoteil ist bei der stichtagsbezogenen Zahlungsmittelverfügbarkeit gesondert zu erfassen. Die Sicherheit bleibt ein eigenes Bankguthaben der Gesellschaft, auf dem ein Pfandrecht der Bank für tatsächlich entstehende Rückbelastungen lastet. Die Bank meldet am Bewertungsstichtag keine entstandenen Rückbelastungen. Die absehbaren Stornos eigener Kundengutscheine sind separat unter PR-VCH-01 ausgewiesen und betreffen keine Kartenrückbelastung."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "PR-BANK · Kontostand 18.05.2026",
+            "amountCents": 9500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-01",
+            "description": "Zwei eigene Hubschrauber, Nettoverwertung",
+            "source": "PR-INV-01 · Gutachterbewertung nach Lebensdauer und Demontagekosten",
+            "amountCents": 52500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-02",
+            "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
+            "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
+            "amountCents": 0,
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-INV-03",
+            "description": "Betriebsgeräte und eigene Ersatzteile",
+            "source": "PR-INV-03 · Verwerterangebot mit Abtransport und Gebühr",
+            "amountCents": 8600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-04",
+            "description": "Hangareinbauten und Schulungsausrüstung",
+            "source": "PR-INV-04 · Rückbaukosten bereits im Angebot abgezogen",
+            "amountCents": 3300000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-01",
+            "description": "Abgenommene Forderung · Moorflug Fotoproduktion KG",
+            "source": "PR-OPOS · PR-DEB-01; Bank · PR-DEB-01-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 1488000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-02",
+            "description": "Abgenommene Forderung · Inselblick Transfer GmbH",
+            "source": "PR-OPOS · PR-DEB-02; Bank · PR-DEB-02-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 2883000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-03",
+            "description": "Abgenommene Forderung · Kranich Eventservice GmbH",
+            "source": "PR-OPOS · PR-DEB-03; Bank · PR-DEB-03-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 1581000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-DAR-01",
+            "description": "Besichertes Fluggerätedarlehen",
+            "source": "PR-DAR-01 · Bankbestätigung Fluggerätekauf und Kontokorrent",
+            "amountCents": 62000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-02",
+            "description": "Ablöse für Restlaufzeit ab Juni bei sofortiger Rückgabe der vier Maschinen",
+            "source": "PR-LEASE-02 · Rahmenvertrag und Gegenangebot vom 30.04.2026; nur Abgeltung künftiger Raten ab Juni 2026. Bereits entstandene Mai-Rate PR-LEASE-01 und deren Nebenkosten sind ausdrücklich ausgenommen",
+            "amountCents": 22000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-VCH-01",
+            "description": "Rückabwicklung von Kundengutscheinen",
+            "source": "PR-VCH-01 · Kundenliste und bestätigte Stornierungen",
+            "amountCents": 6800000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-NR-01",
+            "description": "Eigenständiges Gesellschafterdarlehen",
+            "source": "PR-NR-01 · Kein Rangrücktritt. Die Ausstattungszusage betrifft nicht die Rangfolge.",
+            "amountCents": 15500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Rotorservice Havel GmbH · Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-KLEIN-21",
+            "description": "Rotorservice Havel GmbH · Ersatzdichtung Vorkasse, eigene neue Position",
+            "source": "PR-OPOS; Bank",
+            "amountCents": 120000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Fluggeräte Pool Ost GmbH · Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-SV-01",
+            "description": "Betriebskrankenkasse Luft & Technik · Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "PR-OPOS · PR-SV-01",
+            "amountCents": 2600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-FUEL-01",
+            "description": "Turbinenkraft Nord KG · Kerosin und Sicherheitsprüfungen, Rechnung TK-21",
+            "source": "PR-OPOS · PR-FUEL-01; Bank · PR-FUEL-01-BK",
+            "amountCents": 1800000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-HANG-01",
+            "description": "Uckerhangar Liegenschaften KG · Hangarmiete Juni 2026",
+            "source": "PR-OPOS · PR-HANG-01; Bank · PR-HANG-01-BK",
+            "amountCents": 1250000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-05-18",
+          "source": "PR-PLAN-2026-05-18",
+          "failureOn": "2026-05-31",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 89.545,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+        }
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt.",
+          "Buchsaldo und tatsächlich verfügbares Bankguthaben unterscheiden sich um die Kartenreserve."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "PR-BANK · Geschäftskonto am 26.05.2026",
+            "kind": "cash",
+            "amountCents": 8580000,
+            "availableOn": "2026-05-26",
+            "decision": "include"
+          },
+          {
+            "id": "PR-RES-01",
+            "description": "Buchguthaben mit Verfügungssperre",
+            "source": "PR-RES-01",
+            "kind": "cash",
+            "amountCents": 5500000,
+            "availableOn": "2026-05-26",
+            "decision": "exclude",
+            "reason": "Sperrbetrag steht im Dreiwochenfenster nicht für allgemeine Gläubiger zur Verfügung."
+          },
+          {
+            "id": "PR-BANK-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "PR-BANK-01 · Rahmen laut Stammdaten; bereits vollständig ausgeschöpft, kein weiterer Abruf",
+            "kind": "cash",
+            "amountCents": 7500000,
+            "availableOn": "2026-05-26",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-PAT-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "PR-PAT-02 · Nur Entwurf für neue Laufzeit; kein unterschriebener Nachtrag",
+            "kind": "cash",
+            "amountCents": 36000000,
+            "availableOn": "2026-05-26",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-DEB-04",
+            "description": "Vorsorgliche Restabrechnung Kontingent, widerrufen",
+            "source": "PR-OPOS · PR-DEB-04; PR-DEB-04 Korrespondenz",
+            "kind": "inflow",
+            "amountCents": 8700000,
+            "availableOn": "2026-06-02",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-DEB-03",
+            "description": "Chartergutscheine Programm Juni",
+            "source": "PR-OPOS · PR-DEB-03; Bank · PR-DEB-03-BK",
+            "kind": "inflow",
+            "amountCents": 1700000,
+            "availableOn": "2026-06-08",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "dueOn": "2026-05-18",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "dueOn": "2026-05-26",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "PR-OPOS · PR-SV-01",
+            "amountCents": 2600000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-FUEL-01",
+            "description": "Kerosin und Sicherheitsprüfungen, Rechnung TK-21",
+            "source": "PR-OPOS · PR-FUEL-01; Bank · PR-FUEL-01-BK",
+            "amountCents": 1800000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LOHN-01",
+            "description": "Pilotinnen, Piloten und Technik, Lohn Mai",
+            "source": "PR-OPOS · PR-LOHN-01; Bank · PR-LOHN-01-BK",
+            "amountCents": 5000000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-HANG-01",
+            "description": "Hangarmiete Juni 2026",
+            "source": "PR-OPOS · PR-HANG-01; Bank · PR-HANG-01-BK",
+            "amountCents": 1250000,
+            "dueOn": "2026-06-01",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-HANG-02",
+            "description": "Behaupteter Nachtrag Hallentorantrieb; Abnahme bestritten",
+            "source": "PR-OPOS · PR-HANG-02; PR-ABG-01",
+            "amountCents": 4700000,
+            "dueOn": "2026-06-04",
+            "decision": "exclude",
+            "reason": "Der Gegenbeleg weist die erst später zu prüfende Abnahme des Nachtrags aus."
+          },
+          {
+            "id": "PR-KLEIN-05",
+            "description": "Prämie Fotoflug-Einzeltag",
+            "source": "PR-OPOS; Bank",
+            "amountCents": 175000,
+            "dueOn": "2026-06-05",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-FA-01",
+            "description": "Umsatzsteuer Mai 2026 ohne Dauerfristverlängerung",
+            "source": "PR-OPOS · PR-FA-01",
+            "amountCents": 2300000,
+            "dueOn": "2026-06-10",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-FUEL-02",
+            "description": "Treibstoff Juni, nur laufender Abruf",
+            "source": "PR-OPOS · PR-FUEL-02; Bank · PR-FUEL-02-BK",
+            "amountCents": 600000,
+            "dueOn": "2026-06-15",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-KLEIN-16",
+            "description": "Verbrauchskosten Uckerhangar Mai",
+            "source": "PR-OPOS; Bank",
+            "amountCents": 92000,
+            "dueOn": "2026-06-16",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "PR-BANK · PR-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt.",
+          "Buchsaldo und tatsächlich verfügbares Bankguthaben unterscheiden sich um die Kartenreserve."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "PR-BANK · Geschäftskonto am 19.06.2026",
+            "kind": "cash",
+            "amountCents": 3213000,
+            "availableOn": "2026-06-19",
+            "decision": "include"
+          },
+          {
+            "id": "PR-RES-01",
+            "description": "Buchguthaben mit Verfügungssperre",
+            "source": "PR-RES-01",
+            "kind": "cash",
+            "amountCents": 5500000,
+            "availableOn": "2026-06-19",
+            "decision": "exclude",
+            "reason": "Sperrbetrag steht im Dreiwochenfenster nicht für allgemeine Gläubiger zur Verfügung."
+          },
+          {
+            "id": "PR-PAT-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "PR-PAT-02 · Nur Entwurf für neue Laufzeit; kein unterschriebener Nachtrag",
+            "kind": "cash",
+            "amountCents": 36000000,
+            "availableOn": "2026-06-19",
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-DEB-06",
+            "description": "Rückflug Abruf 55, nur ein Teilflug gebucht",
+            "source": "PR-OPOS · PR-DEB-06; Bank · PR-DEB-06-BK",
+            "kind": "inflow",
+            "amountCents": 1250000,
+            "availableOn": "2026-06-25",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "dueOn": "2026-05-18",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "dueOn": "2026-05-26",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "PR-OPOS · PR-SV-01",
+            "amountCents": 2600000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-HANG-02",
+            "description": "Behaupteter Nachtrag Hallentorantrieb; Abnahme bestritten",
+            "source": "PR-OPOS · PR-HANG-02; PR-ABG-01",
+            "amountCents": 4700000,
+            "dueOn": "2026-06-04",
+            "decision": "exclude",
+            "reason": "Der Gegenbeleg weist die erst später zu prüfende Abnahme des Nachtrags aus."
+          },
+          {
+            "id": "PR-FA-01",
+            "description": "Umsatzsteuer Mai 2026 ohne Dauerfristverlängerung",
+            "source": "PR-OPOS · PR-FA-01",
+            "amountCents": 2300000,
+            "dueOn": "2026-06-10",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "PR-LOHN-02",
+            "description": "Pilotinnen, Piloten und Technik, Lohn Juni",
+            "source": "PR-OPOS · PR-LOHN-02; Bank · PR-LOHN-02-BK",
+            "amountCents": 3500000,
+            "dueOn": "2026-06-30",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "PR-BANK · PR-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      },
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Nur zwei Hubschrauber gehören der Gesellschaft. Der noch nicht freigegebene Kontoteil ist bei der stichtagsbezogenen Zahlungsmittelverfügbarkeit gesondert zu erfassen. Die Sicherheit bleibt ein eigenes Bankguthaben der Gesellschaft, auf dem ein Pfandrecht der Bank für tatsächlich entstehende Rückbelastungen lastet. Die Bank meldet am Bewertungsstichtag keine entstandenen Rückbelastungen. Die absehbaren Stornos eigener Kundengutscheine sind separat unter PR-VCH-01 ausgewiesen und betreffen keine Kartenrückbelastung."
+        ],
+        "assets": [
+          {
+            "id": "PR-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "PR-BANK · Kontostand 19.06.2026",
+            "amountCents": 8713000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-01",
+            "description": "Zwei eigene Hubschrauber, Nettoverwertung",
+            "source": "PR-INV-01 · Gutachterbewertung nach Lebensdauer und Demontagekosten",
+            "amountCents": 52500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-02",
+            "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
+            "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
+            "amountCents": 0,
+            "decision": "exclude"
+          },
+          {
+            "id": "PR-INV-03",
+            "description": "Betriebsgeräte und eigene Ersatzteile",
+            "source": "PR-INV-03 · Verwerterangebot mit Abtransport und Gebühr",
+            "amountCents": 8600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-INV-04",
+            "description": "Hangareinbauten und Schulungsausrüstung",
+            "source": "PR-INV-04 · Rückbaukosten bereits im Angebot abgezogen",
+            "amountCents": 3300000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-DEB-06",
+            "description": "Abgenommene Forderung · Inselblick Transfer GmbH",
+            "source": "PR-OPOS · PR-DEB-06; Bank · PR-DEB-06-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 1162500,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "PR-DAR-01",
+            "description": "Besichertes Fluggerätedarlehen",
+            "source": "PR-DAR-01 · Bankbestätigung Fluggerätekauf und Kontokorrent",
+            "amountCents": 62000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-02",
+            "description": "Ablöse für Restlaufzeit ab Juni bei sofortiger Rückgabe der vier Maschinen",
+            "source": "PR-LEASE-02 · Rahmenvertrag und Gegenangebot vom 30.04.2026; nur Abgeltung künftiger Raten ab Juni 2026. Bereits entstandene Mai-Rate PR-LEASE-01 und deren Nebenkosten sind ausdrücklich ausgenommen",
+            "amountCents": 22000000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-VCH-01",
+            "description": "Rückabwicklung von Kundengutscheinen",
+            "source": "PR-VCH-01 · Kundenliste und bestätigte Stornierungen",
+            "amountCents": 6800000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-NR-01",
+            "description": "Eigenständiges Gesellschafterdarlehen",
+            "source": "PR-NR-01 · Kein Rangrücktritt. Die Ausstattungszusage betrifft nicht die Rangfolge.",
+            "amountCents": 15500000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-ROTOR-01",
+            "description": "Rotorservice Havel GmbH · Zahlungsziel für Triebwerksüberholung 02",
+            "source": "PR-OPOS · PR-ROTOR-01",
+            "amountCents": 11600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LEASE-01",
+            "description": "Fluggeräte Pool Ost GmbH · Leasingraten Mai nach Nachtrag",
+            "source": "PR-OPOS · PR-LEASE-01",
+            "amountCents": 4800000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-SV-01",
+            "description": "Betriebskrankenkasse Luft & Technik · Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "PR-OPOS · PR-SV-01",
+            "amountCents": 2600000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-FA-01",
+            "description": "Finanzamt Angermünde · Umsatzsteuer Mai 2026 ohne Dauerfristverlängerung",
+            "source": "PR-OPOS · PR-FA-01",
+            "amountCents": 2300000,
+            "decision": "include"
+          },
+          {
+            "id": "PR-LOHN-02",
+            "description": "Uckerflug Personalservice GmbH · Pilotinnen, Piloten und Technik, Lohn Juni",
+            "source": "PR-OPOS · PR-LOHN-02; Bank · PR-LOHN-02-BK",
+            "amountCents": 3500000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-06-19",
+          "source": "PR-PLAN-2026-06-19",
+          "failureOn": "2026-06-30",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 192.713,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+        }
+      }
+    }
+  ]
+}

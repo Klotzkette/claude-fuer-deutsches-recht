@@ -25,6 +25,9 @@ STRUCTURED_TESTAKTEN = frozenset({
     'compliance-hameln-schokolade-charge-k17',
     'fintech-darlehen-vertragsuebernahme-bremen',
     'insolvenzverwaltung-klangbogen-buehnentechnik-bamberg',
+    'insolvenzreife-hubschrauber-prenzlau',
+    'insolvenzreife-keramikfabrik-cottbus',
+    'insolvenzreife-metallbau-berlin-zehlendorf',
 })
 
 # Für diese Akten sind Lesefassung und native Arbeitsakte bewusst getrennte

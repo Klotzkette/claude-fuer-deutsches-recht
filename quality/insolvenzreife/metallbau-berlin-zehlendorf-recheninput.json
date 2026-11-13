@@ -1,0 +1,887 @@
+{
+  "caseName": "Schlachtensee Stahl & Form GmbH",
+  "dates": [
+    {
+      "date": "2026-04-19",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "BZ-BANK · Geschäftskonto am 19.04.2026",
+            "kind": "cash",
+            "amountCents": 5200000,
+            "availableOn": "2026-04-19",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-BANK-01",
+            "description": "Unbeanspruchter Rahmen",
+            "source": "BZ-BANK-01 · Unbeanspruchte Kontokorrentlinie; bis 30.04.2026 auch an Wochenenden unmittelbar über bereits freigeschaltete Kreditdisposition nutzbar",
+            "kind": "cash",
+            "amountCents": 1500000,
+            "availableOn": "2026-04-19",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "BZ-PAT-01 · Konsortiale Wunschliste; bei Bedarf weitere Gespräche zugesagt",
+            "kind": "cash",
+            "amountCents": 24000000,
+            "availableOn": "2026-04-19",
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-DEB-01",
+            "description": "Südspange, Schlussrate freigegeben",
+            "source": "BZ-OPOS · BZ-DEB-01; Bank · BZ-DEB-01-BK",
+            "kind": "inflow",
+            "amountCents": 3700000,
+            "availableOn": "2026-04-23",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-DEB-06",
+            "description": "Werklohn Fensterbänder; Nachtrag ohne Freigabe",
+            "source": "BZ-OPOS · BZ-DEB-06; BZ-DEB-06 Korrespondenz",
+            "kind": "inflow",
+            "amountCents": 7400000,
+            "availableOn": "2026-05-05",
+            "decision": "exclude"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-STA-01",
+            "description": "Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "dueOn": "2026-04-20",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "dueOn": "2026-04-28",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SCH-01",
+            "description": "Draht und Schutzgas nach Rahmenabruf",
+            "source": "BZ-OPOS · BZ-SCH-01; Bank · BZ-SCH-01-BK",
+            "amountCents": 2200000,
+            "dueOn": "2026-05-07",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "BZ-BANK · BZ-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      }
+    },
+    {
+      "date": "2026-04-20",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "BZ-BANK · Geschäftskonto am 20.04.2026",
+            "kind": "cash",
+            "amountCents": 5200000,
+            "availableOn": "2026-04-20",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-BANK-01",
+            "description": "Unbeanspruchter Rahmen",
+            "source": "BZ-BANK-01 · Unbeanspruchte Kontokorrentlinie; bis 30.04.2026 auch an Wochenenden unmittelbar über bereits freigeschaltete Kreditdisposition nutzbar",
+            "kind": "cash",
+            "amountCents": 1500000,
+            "availableOn": "2026-04-20",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "BZ-PAT-01 · Konsortiale Wunschliste; bei Bedarf weitere Gespräche zugesagt",
+            "kind": "cash",
+            "amountCents": 24000000,
+            "availableOn": "2026-04-20",
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-DEB-01",
+            "description": "Südspange, Schlussrate freigegeben",
+            "source": "BZ-OPOS · BZ-DEB-01; Bank · BZ-DEB-01-BK",
+            "kind": "inflow",
+            "amountCents": 3700000,
+            "availableOn": "2026-04-23",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-DEB-06",
+            "description": "Werklohn Fensterbänder; Nachtrag ohne Freigabe",
+            "source": "BZ-OPOS · BZ-DEB-06; BZ-DEB-06 Korrespondenz",
+            "kind": "inflow",
+            "amountCents": 7400000,
+            "availableOn": "2026-05-05",
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-DEB-02",
+            "description": "Fassade 7, Aufmaß 3",
+            "source": "BZ-OPOS · BZ-DEB-02; Bank · BZ-DEB-02-BK",
+            "kind": "inflow",
+            "amountCents": 2400000,
+            "availableOn": "2026-05-11",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-STA-01",
+            "description": "Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "dueOn": "2026-04-20",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "dueOn": "2026-04-28",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SCH-01",
+            "description": "Draht und Schutzgas nach Rahmenabruf",
+            "source": "BZ-OPOS · BZ-SCH-01; Bank · BZ-SCH-01-BK",
+            "amountCents": 2200000,
+            "dueOn": "2026-05-07",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-FA-01",
+            "description": "Umsatzsteuer April 2026 ohne Dauerfristverlängerung",
+            "source": "BZ-OPOS · BZ-FA-01",
+            "amountCents": 1900000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "BZ-BANK · BZ-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      },
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Bis zur Zugangsauskunft ist eine erhebliche stille Reserve der Halle belegt. Zum neuen Erlösangebot tritt kein weiterer Aktivwert für dieselbe Fläche hinzu. Das Gesellschafterdarlehen ist vom objektiven Fortbestand anderer Verbindlichkeiten zu unterscheiden."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "BZ-BANK · Kontostand 20.04.2026",
+            "amountCents": 5200000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-01",
+            "description": "Werkhalle und Grundstück (netto nach Veräußerungskosten)",
+            "source": "BZ-INV-01 · Vorläufige Maklerschätzung, ausdrücklich abhängig von gesicherter Feuerwehrzufahrt",
+            "amountCents": 89500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-02",
+            "description": "Schweißroboter, Brennschneider, Montagefahrzeuge",
+            "source": "BZ-INV-02 · Kaufangebote und Begutachtung ab Standort",
+            "amountCents": 16500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-03",
+            "description": "Verwertbare Profile und nicht gebundene Treppenteile",
+            "source": "BZ-INV-03 · Lagerinventur und Verwerterangebot",
+            "amountCents": 5500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-DEB-01",
+            "description": "Abgenommene Forderung · Baukontor Wuhletal GmbH",
+            "source": "BZ-OPOS · BZ-DEB-01; Bank · BZ-DEB-01-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 3441000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-DEB-02",
+            "description": "Abgenommene Forderung · Fassadenbau Kreiser GmbH",
+            "source": "BZ-OPOS · BZ-DEB-02; Bank · BZ-DEB-02-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 2232000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-DEB-03",
+            "description": "Abgenommene Forderung · Wasserwerk Baupartner KG",
+            "source": "BZ-OPOS · BZ-DEB-03; Bank · BZ-DEB-03-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 5115000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-DAR-01",
+            "description": "Besichertes Hallendarlehen",
+            "source": "BZ-DAR-01 · Banksaldo vom 20.04.; durchgehend dieselbe Valuta",
+            "amountCents": 64000000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-NR-01",
+            "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
+            "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
+            "amountCents": 18500000,
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-GEW-01",
+            "description": "Abgrenzbare Gewährleistungsfälle aus zwei Aufträgen",
+            "source": "BZ-GEW-01 · Zwei Abnahmeprotokolle mit Kostenkalkulation",
+            "amountCents": 9700000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-VER-01",
+            "description": "Werkstatt-Rückbau und Maschinenpacht",
+            "source": "BZ-VER-01 · Schlusskalkulation; keine Doppelung mit laufenden Kranaufträgen",
+            "amountCents": 3900000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-STA-01",
+            "description": "Südspange Stahlhandel GmbH · Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Betriebskrankenkasse Handwerk & Stadt · Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SCH-01",
+            "description": "Schweisspunkt Berlin GmbH · Draht und Schutzgas nach Rahmenabruf",
+            "source": "BZ-OPOS · BZ-SCH-01; Bank · BZ-SCH-01-BK",
+            "amountCents": 2200000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-04-20",
+          "source": "BZ-PLAN-2026-04-20",
+          "failureOn": "2026-04-30",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-04 von 87.367,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+        }
+      }
+    },
+    {
+      "date": "2026-05-11",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "BZ-BANK · Geschäftskonto am 11.05.2026",
+            "kind": "cash",
+            "amountCents": 9100000,
+            "availableOn": "2026-05-11",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-BANK-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "BZ-BANK-02 · Kreditvertrag abgelaufen; keine Fortsetzung schriftlich bestätigt",
+            "kind": "cash",
+            "amountCents": 1500000,
+            "availableOn": "2026-05-11",
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "BZ-PAT-01 · Konsortiale Wunschliste; bei Bedarf weitere Gespräche zugesagt",
+            "kind": "cash",
+            "amountCents": 24000000,
+            "availableOn": "2026-05-11",
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-DEB-03",
+            "description": "Brückenmontage, Restbetrag nach Prüfung",
+            "source": "BZ-OPOS · BZ-DEB-03; Bank · BZ-DEB-03-BK",
+            "kind": "inflow",
+            "amountCents": 5500000,
+            "availableOn": "2026-05-12",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-STA-01",
+            "description": "Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "dueOn": "2026-04-20",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "dueOn": "2026-04-28",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-FA-01",
+            "description": "Umsatzsteuer April 2026 ohne Dauerfristverlängerung",
+            "source": "BZ-OPOS · BZ-FA-01",
+            "amountCents": 1900000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-KLEIN-14",
+            "description": "Anlieferpauschale Stahl Südspange, neues Kleinteilelos",
+            "source": "BZ-OPOS; Bank",
+            "amountCents": 210000,
+            "dueOn": "2026-05-14",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-BES-01",
+            "description": "Beschichtung Treppengeländer",
+            "source": "BZ-OPOS · BZ-BES-01; Bank · BZ-BES-01-BK",
+            "amountCents": 1750000,
+            "dueOn": "2026-05-25",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SV-02",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "BZ-OPOS · BZ-SV-02",
+            "amountCents": 3600000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-LOHN-01",
+            "description": "Nettolohnsammeldatei Mai 2026",
+            "source": "BZ-OPOS · BZ-LOHN-01; Bank · BZ-LOHN-01-BK",
+            "amountCents": 6000000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "BZ-BANK · BZ-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Bis zur Zugangsauskunft ist eine erhebliche stille Reserve der Halle belegt. Zum neuen Erlösangebot tritt kein weiterer Aktivwert für dieselbe Fläche hinzu. Das Gesellschafterdarlehen ist vom objektiven Fortbestand anderer Verbindlichkeiten zu unterscheiden."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "BZ-BANK · Kontostand 17.05.2026",
+            "amountCents": 14390000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-01",
+            "description": "Werkhalle und Grundstück (netto nach Veräußerungskosten)",
+            "source": "BZ-INV-01 · Vorläufige Maklerschätzung, ausdrücklich abhängig von gesicherter Feuerwehrzufahrt",
+            "amountCents": 89500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-02",
+            "description": "Schweißroboter, Brennschneider, Montagefahrzeuge",
+            "source": "BZ-INV-02 · Kaufangebote und Begutachtung ab Standort",
+            "amountCents": 16500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-03",
+            "description": "Verwertbare Profile und nicht gebundene Treppenteile",
+            "source": "BZ-INV-03 · Lagerinventur und Verwerterangebot",
+            "amountCents": 5500000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-DAR-01",
+            "description": "Besichertes Hallendarlehen",
+            "source": "BZ-DAR-01 · Banksaldo vom 20.04.; durchgehend dieselbe Valuta",
+            "amountCents": 64000000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-NR-01",
+            "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
+            "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
+            "amountCents": 18500000,
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-GEW-01",
+            "description": "Abgrenzbare Gewährleistungsfälle aus zwei Aufträgen",
+            "source": "BZ-GEW-01 · Zwei Abnahmeprotokolle mit Kostenkalkulation",
+            "amountCents": 9700000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-VER-01",
+            "description": "Werkstatt-Rückbau und Maschinenpacht",
+            "source": "BZ-VER-01 · Schlusskalkulation; keine Doppelung mit laufenden Kranaufträgen",
+            "amountCents": 3900000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-STA-01",
+            "description": "Südspange Stahlhandel GmbH · Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Betriebskrankenkasse Handwerk & Stadt · Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-FA-01",
+            "description": "Finanzamt Steglitz · Umsatzsteuer April 2026 ohne Dauerfristverlängerung",
+            "source": "BZ-OPOS · BZ-FA-01",
+            "amountCents": 1900000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-BES-01",
+            "description": "Blankwerk Pulverbeschichtung GmbH · Beschichtung Treppengeländer",
+            "source": "BZ-OPOS · BZ-BES-01; Bank · BZ-BES-01-BK",
+            "amountCents": 1750000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SV-02",
+            "description": "Betriebskrankenkasse Handwerk & Stadt · Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "BZ-OPOS · BZ-SV-02",
+            "amountCents": 3600000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-05-17",
+          "source": "BZ-PLAN-2026-05-17",
+          "failureOn": "2026-05-31",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 52.500,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Bis zur Zugangsauskunft ist eine erhebliche stille Reserve der Halle belegt. Zum neuen Erlösangebot tritt kein weiterer Aktivwert für dieselbe Fläche hinzu. Das Gesellschafterdarlehen ist vom objektiven Fortbestand anderer Verbindlichkeiten zu unterscheiden."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "BZ-BANK · Kontostand 18.05.2026",
+            "amountCents": 14390000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-01",
+            "description": "Werkhalle und Grundstück (netto nach Veräußerungskosten)",
+            "source": "BZ-INV-01 · Angebot nach Zugangsauskunft am 18.05.2026; Erwerbsnebenkosten abgesetzt",
+            "amountCents": 54500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-02",
+            "description": "Schweißroboter, Brennschneider, Montagefahrzeuge",
+            "source": "BZ-INV-02 · Kaufangebote und Begutachtung ab Standort",
+            "amountCents": 16500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-03",
+            "description": "Verwertbare Profile und nicht gebundene Treppenteile",
+            "source": "BZ-INV-03 · Lagerinventur und Verwerterangebot",
+            "amountCents": 5500000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-DAR-01",
+            "description": "Besichertes Hallendarlehen",
+            "source": "BZ-DAR-01 · Banksaldo vom 20.04.; durchgehend dieselbe Valuta",
+            "amountCents": 64000000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-NR-01",
+            "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
+            "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
+            "amountCents": 18500000,
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-GEW-01",
+            "description": "Abgrenzbare Gewährleistungsfälle aus zwei Aufträgen",
+            "source": "BZ-GEW-01 · Zwei Abnahmeprotokolle mit Kostenkalkulation",
+            "amountCents": 9700000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-VER-01",
+            "description": "Werkstatt-Rückbau und Maschinenpacht",
+            "source": "BZ-VER-01 · Schlusskalkulation; keine Doppelung mit laufenden Kranaufträgen",
+            "amountCents": 3900000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-STA-01",
+            "description": "Südspange Stahlhandel GmbH · Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Betriebskrankenkasse Handwerk & Stadt · Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-FA-01",
+            "description": "Finanzamt Steglitz · Umsatzsteuer April 2026 ohne Dauerfristverlängerung",
+            "source": "BZ-OPOS · BZ-FA-01",
+            "amountCents": 1900000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-BES-01",
+            "description": "Blankwerk Pulverbeschichtung GmbH · Beschichtung Treppengeländer",
+            "source": "BZ-OPOS · BZ-BES-01; Bank · BZ-BES-01-BK",
+            "amountCents": 1750000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SV-02",
+            "description": "Betriebskrankenkasse Handwerk & Stadt · Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "BZ-OPOS · BZ-SV-02",
+            "amountCents": 3600000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-05-18",
+          "source": "BZ-PLAN-2026-05-18",
+          "failureOn": "2026-05-31",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 51.400,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+        }
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "BZ-BANK · Geschäftskonto am 18.06.2026",
+            "kind": "cash",
+            "amountCents": 12442000,
+            "availableOn": "2026-06-18",
+            "decision": "include"
+          },
+          {
+            "id": "BZ-BANK-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "BZ-BANK-02 · Kreditvertrag abgelaufen; keine Fortsetzung schriftlich bestätigt",
+            "kind": "cash",
+            "amountCents": 1500000,
+            "availableOn": "2026-06-18",
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "BZ-PAT-01 · Konsortiale Wunschliste; bei Bedarf weitere Gespräche zugesagt",
+            "kind": "cash",
+            "amountCents": 24000000,
+            "availableOn": "2026-06-18",
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-DEB-07",
+            "description": "Restlieferung Werkstattzugang",
+            "source": "BZ-OPOS · BZ-DEB-07; Bank · BZ-DEB-07-BK",
+            "kind": "inflow",
+            "amountCents": 1800000,
+            "availableOn": "2026-06-24",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-STA-01",
+            "description": "Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "dueOn": "2026-04-20",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "dueOn": "2026-04-28",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-FA-01",
+            "description": "Umsatzsteuer April 2026 ohne Dauerfristverlängerung",
+            "source": "BZ-OPOS · BZ-FA-01",
+            "amountCents": 1900000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-SV-02",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "BZ-OPOS · BZ-SV-02",
+            "amountCents": 3600000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-TRP-01",
+            "description": "Schlussrechnung Kran im Bauabschnitt 4",
+            "source": "BZ-OPOS · BZ-TRP-01; Bank · BZ-TRP-01-BK",
+            "amountCents": 1800000,
+            "dueOn": "2026-06-25",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "BZ-LOHN-02",
+            "description": "Nettolohnsammeldatei Juni 2026",
+            "source": "BZ-OPOS · BZ-LOHN-02; Bank · BZ-LOHN-02-BK",
+            "amountCents": 4900000,
+            "dueOn": "2026-06-30",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "BZ-BANK · BZ-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      },
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Bis zur Zugangsauskunft ist eine erhebliche stille Reserve der Halle belegt. Zum neuen Erlösangebot tritt kein weiterer Aktivwert für dieselbe Fläche hinzu. Das Gesellschafterdarlehen ist vom objektiven Fortbestand anderer Verbindlichkeiten zu unterscheiden."
+        ],
+        "assets": [
+          {
+            "id": "BZ-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "BZ-BANK · Kontostand 18.06.2026",
+            "amountCents": 12442000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-01",
+            "description": "Werkhalle und Grundstück (netto nach Veräußerungskosten)",
+            "source": "BZ-INV-01 · Angebot nach Zugangsauskunft am 18.05.2026; Erwerbsnebenkosten abgesetzt",
+            "amountCents": 54500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-02",
+            "description": "Schweißroboter, Brennschneider, Montagefahrzeuge",
+            "source": "BZ-INV-02 · Kaufangebote und Begutachtung ab Standort",
+            "amountCents": 16500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-INV-03",
+            "description": "Verwertbare Profile und nicht gebundene Treppenteile",
+            "source": "BZ-INV-03 · Lagerinventur und Verwerterangebot",
+            "amountCents": 5500000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-DEB-07",
+            "description": "Abgenommene Forderung · Kranbogen Ausbau SE",
+            "source": "BZ-OPOS · BZ-DEB-07; Bank · BZ-DEB-07-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 1674000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "BZ-DAR-01",
+            "description": "Besichertes Hallendarlehen",
+            "source": "BZ-DAR-01 · Banksaldo vom 20.04.; durchgehend dieselbe Valuta",
+            "amountCents": 64000000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-NR-01",
+            "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
+            "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
+            "amountCents": 18500000,
+            "decision": "exclude"
+          },
+          {
+            "id": "BZ-GEW-01",
+            "description": "Abgrenzbare Gewährleistungsfälle aus zwei Aufträgen",
+            "source": "BZ-GEW-01 · Zwei Abnahmeprotokolle mit Kostenkalkulation",
+            "amountCents": 9700000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-VER-01",
+            "description": "Werkstatt-Rückbau und Maschinenpacht",
+            "source": "BZ-VER-01 · Schlusskalkulation; keine Doppelung mit laufenden Kranaufträgen",
+            "amountCents": 3900000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-STA-01",
+            "description": "Südspange Stahlhandel GmbH · Stahl Südspange, fester Zahlungstermin laut Nachtrag",
+            "source": "BZ-OPOS · BZ-STA-01; BZ-STA-01 Vertragsnachtrag",
+            "amountCents": 12800000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SV-01",
+            "description": "Betriebskrankenkasse Handwerk & Stadt · Gesamtsozialversicherungsbeitrag April 2026",
+            "source": "BZ-OPOS · BZ-SV-01",
+            "amountCents": 3400000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-FA-01",
+            "description": "Finanzamt Steglitz · Umsatzsteuer April 2026 ohne Dauerfristverlängerung",
+            "source": "BZ-OPOS · BZ-FA-01",
+            "amountCents": 1900000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-SV-02",
+            "description": "Betriebskrankenkasse Handwerk & Stadt · Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "BZ-OPOS · BZ-SV-02",
+            "amountCents": 3600000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-TRP-01",
+            "description": "Kranfahrten Havel KG · Schlussrechnung Kran im Bauabschnitt 4",
+            "source": "BZ-OPOS · BZ-TRP-01; Bank · BZ-TRP-01-BK",
+            "amountCents": 1800000,
+            "decision": "include"
+          },
+          {
+            "id": "BZ-LOHN-02",
+            "description": "Werkstattlohn Berlin eG · Nettolohnsammeldatei Juni 2026",
+            "source": "BZ-OPOS · BZ-LOHN-02; Bank · BZ-LOHN-02-BK",
+            "amountCents": 4900000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-06-18",
+          "source": "BZ-PLAN-2026-06-18",
+          "failureOn": "2026-06-30",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 106.220,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+        }
+      }
+    }
+  ]
+}

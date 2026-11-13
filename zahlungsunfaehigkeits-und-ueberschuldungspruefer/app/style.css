@@ -1,0 +1,53 @@
+:root {
+  color-scheme: light;
+  --ink: #16293d;
+  --subtle: #536375;
+  --navy: #142d45;
+  --link: #145f73;
+  --accent: #af5224;
+  --paper: #f5f7f7;
+  --line: #ced8dc;
+  font-family: "Instrument Sans", system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; }
+.wrap { width: min(74rem, calc(100% - 2rem)); margin: auto; }
+header { color: #fff; background: var(--navy); padding: 2.5rem 0 2rem; }
+header p:last-child { max-width: 40rem; color: #dbe6ee; font-size: 1.08rem; }
+.eyebrow { color: #c2dce4; font-weight: 600; letter-spacing: .04em; }
+h1 { font-size: clamp(1.75rem, 4.1vw, 3.25rem); margin: .55rem 0 1rem; max-width: 52rem; line-height: 1.1; }
+h2, h3, h4 { line-height: 1.25; }
+main { padding: 2rem 0 3rem; }
+p { line-height: 1.5; }
+.card { background: #fff; border: 1px solid var(--line); border-radius: .75rem; padding: clamp(1rem, 3vw, 1.6rem); }
+.card h2, .card h3 { margin-top: 0; }
+button { border-radius: .35rem; border: 1px solid transparent; cursor: pointer; font: inherit; font-weight: 650; padding: .65rem .9rem; background: var(--link); color: #fff; }
+button:hover { background: #0c4b5c; }
+button.secondary { background: #fff; border-color: var(--line); color: var(--link); }
+button.secondary:hover { background: #eaf4f4; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+label { display: block; font-weight: 650; }
+.file-actions { display: flex; gap: .7rem; align-items: center; flex-wrap: wrap; padding: .6rem 0 1.2rem; }
+textarea { width: 100%; display: block; resize: vertical; margin: .45rem 0 1rem; font: .93rem/1.5 "IBM Plex Mono", ui-monospace, monospace; color: var(--ink); border: 1px solid #80929e; border-radius: .35rem; padding: .8rem; }
+#feedback { font-weight: 650; margin-bottom: 0; }
+#feedback.error { color: #8d251f; }
+.result-header { display: flex; align-items: center; justify-content: space-between; gap: .75rem; margin: 1.2rem 0 .45rem; flex-wrap: wrap; }
+.result-header h2 { margin: .6rem 0; }
+.candidates { display: grid; gap: .8rem; grid-template-columns: repeat(auto-fit, minmax(min(18rem, 100%), 1fr)); }
+.candidates .card { border-top: .2rem solid var(--link); }
+.candidates p { margin-bottom: 0; }
+.date-value { font-size: 1.5rem; font-weight: 700; }
+.muted { color: var(--subtle); }
+summary { cursor: pointer; padding: .65rem .2rem; font-weight: 650; }
+details { margin-top: .5rem; }
+details.card { padding-top: .45rem; padding-bottom: .45rem; }
+.scroll { max-width: 100%; overflow: auto; }
+table { width: 100%; border-collapse: collapse; margin: .6rem 0 1rem; font-size: .92rem; }
+th, td { border-bottom: 1px solid var(--line); text-align: left; padding: .55rem .45rem; vertical-align: top; }
+th { background: #eff3f4; }
+.money { white-space: nowrap; font-variant-numeric: tabular-nums; text-align: right; }
+.money-heading { text-align: right; }
+.finding { font-weight: 700; }
