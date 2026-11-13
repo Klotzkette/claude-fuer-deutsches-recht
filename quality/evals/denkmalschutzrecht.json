@@ -163,7 +163,7 @@
       "Bauteilbezogene Reparatur- und Ersatzvarianten, Befundschichten und Planfassung; vergleichbarer Kostenumfang statt Komfortkosten; Förderungsausfall, Baustopp, Anhörung und getrennte Steuerbescheinigung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Genehmigung, Nutzung und Zumutbarkeit führen zu einem benannten Antrag oder Schreiben; reale Entlastung steht neben der Eigentumsbelastung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "4c53b7e0469cbb203c6163047ac8e20dfcce8cf043a2ba91bce5c2ec10a087e2"
+    "sha256": "273a81a5cf91f6f106e714b89582f3b75d7eddbbd3c5323a7ebf7a20f82faee1"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -219,5 +219,15 @@
     "continuation": "Günstigeres Angebot für denselben Erhaltungsumfang -> Zumutbarkeitsrechnung, Ablehnungsgründe und Maßnahmenantrag gemeinsam ändern.",
     "enrichment": "Bauteilbezogene Reparatur- und Ersatzvarianten, Befundschichten und Planfassung; vergleichbarer Kostenumfang statt Komfortkosten; Förderungsausfall, Baustopp, Anhörung und getrennte Steuerbescheinigung.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

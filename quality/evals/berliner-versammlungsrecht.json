@@ -862,7 +862,7 @@
       "Berliner Sanktionen §§ 26/27, Datenkategorien §§ 18/30 und Kostenregel § 29 ausdrücklich getrennt.",
       "16.10.2026: Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen."
     ],
-    "sha256": "227e6f48a105fd9f41eceb90da4eb9cb110672997ec2d01cf3e0f1e342bb5009",
+    "sha256": "925ce3fe1f6d34fe6158dfee8a7651f33fbf8392e9e22de47f26ccef9969105e",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -880,7 +880,7 @@
     "prompt_path": "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md",
     "skill_path": "berliner-versammlungsrecht/skills/versammlung-mandat-zum-ergebnis/SKILL.md",
     "prompt_sha256": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f",
-    "skill_sha256": "5dbb8399bc334fbb8cf4f5443471aafcb76d84e0da13530a4dabc1cd6558ef3d"
+    "skill_sha256": "d8bce2f02cee138310b3a041d32edd3b856ece6b3468c443e19162e4f0575cfb"
   },
   "prompt_opening_review_2026_10_16": {
     "batch": 1,
@@ -902,5 +902,17 @@
         "anchor_or_exception": "Artikel 8 GG, Artikel 26 VvB und VersFG BE; BVerfG 01.10.2025 1 BvR 2428/20: eigener kommunikativer Gegenprotest kann geschützt sein; Strafbarkeit gesondert."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md",
+      "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+      "berliner-versammlungsrecht/skills/versammlung-mandat-zum-ergebnis/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

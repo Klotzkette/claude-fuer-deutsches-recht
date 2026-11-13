@@ -49,7 +49,7 @@ Wohngebäudeversicherung: Umbau der Abdichtungsebene kann als Gefahrerhöhung ge
 
 Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5; Antrag VOR Maßnahmenbeginn; aufstockbar wenn sich Pflegebedarf verschlechtert. Norm: https://www.gesetze-im-internet.de/sgb_11/__40.html
 
-Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier: vermietender Eigentümer) einen Anspruch auf Genehmigung barrierefreier Umbauten gegen Absicherung des Rückbaus. Dieser Anspruch ist vom WEG-internen Anspruch des Eigentümers gegen die GdWE zu trennen. Norm: https://www.gesetze-im-internet.de/bgb/__554.html
+Mietrecht § 554 BGB: Der Mieter kann die Erlaubnis zu baulichen Veränderungen verlangen, die dem Gebrauch durch Menschen mit Behinderungen dienen. Die Zumutbarkeit ist unter Würdigung beiderseitiger Interessen zu prüfen; eine besondere Sicherheit kann vereinbart werden. Dieser Anspruch ist vom WEG-internen Anspruch des Eigentümers gegen die GdWE zu trennen. Norm: https://www.gesetze-im-internet.de/bgb/__554.html
 
 ## Cross-Refs
 

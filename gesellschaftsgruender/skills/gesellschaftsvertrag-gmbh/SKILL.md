@@ -26,7 +26,7 @@ GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassu
 
 ## Triage — kläre vor dem Satzungsentwurf
 
-1. Musterprotokoll (Paragraf 2a GmbHG, max. 3 Gesellschafter, 1 GF) oder individuelle Satzung?
+1. Musterprotokoll (Paragraf 2 Abs. 1a GmbHG, max. 3 Gesellschafter, 1 GF) oder individuelle Satzung?
 2. Sollen Vesting-/Leaver-Mechanismen eingebaut werden — dann: Einziehungsklausel (Paragraf 34 GmbHG) in Satzung zwingend.
 3. Sind Vorkaufsrechte oder Drag-Along/Tag-Along in Satzung oder nur in SHA gewünscht?
 4. Gibt es Vinkulierungsklauseln (Paragraf 15 Abs. 5 GmbHG) — Anteilsübertragung nur mit Gesellschafterzustimmung?

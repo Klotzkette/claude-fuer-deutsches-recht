@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - **Art. 5, 28 DSGVO** — Datensparsamkeit; Auftragsverarbeitung; keine unnoetigen Personal-Daten im DR
 - **§§ 1, 19 GWB** — kartellrechtliche Clean-Room-Anforderung bei Wettbewerber-Transaktionen; Informationsaustausch verboten bis Freigabe
-- **§ 17 UWG** — Geschäftsgeheimnis; Schutz sensibler Informationen auch im DD-Prozess
+- **§§ 2, 4, 23 GeschGehG** — Geschäftsgeheimnis; Schutz sensibler Informationen auch im DD-Prozess
 - **Art. 18 MAR** — Insider-Log für jeden mit Datenraum-Zugang bei borsennotierten Zielgesellschaften
 
 ## Aktuelle Rechtsprechung
@@ -189,7 +189,7 @@ Verpflichtungen unterschrieben: [Ja/Nein]
 
 ## Quellen
 
-- Art. 5, 28 DSGVO; §§ 1, 19 GWB; § 17 UWG; Art. 18 MAR
+- Art. 5, 28 DSGVO; §§ 1, 19 GWB; §§ 2, 4, 23 GeschGehG; Art. 18 MAR
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -72,7 +72,7 @@
       "Rechenbeispiel mit geänderter Teilgruppe, Sowieso-Gegenargument, digitale Ausnahmefälle und zeitlich begrenzter Übergangsprozess bis zur Textkorrektur ausgearbeitet.",
       "Redaktion 16.10.2026: Methodische Aufwandsermittlung und politische Zielkontrolle früh getrennt; kein unpassender Universal-Gerichtsanker. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "30d38e2f708289432e65a36171d209fdb339ed643c78ac8066b95b3020402114"
+    "sha256": "44742a7953b886fc73dbbf5661ec0a43b717a1118e30429aee8634a3db00416d"
   },
   "selection": {
     "positive": [
@@ -166,5 +166,15 @@
     "continuation": "Geänderte Zahl quartalsweise meldender Betriebe verändert Teilgruppen und Jahressumme in aufwandstabelle.md sowie die korrespondierende Passage in stellungnahme.md; Umstellungskosten nur nach ihrem eigenen Betroffenenkreis ändern.",
     "enrichment": "Pflicht gegenüber Tätigkeit, Bestands- und Zugangsfälle, vollständige Zahlenvariante, konkrete Sowieso-Gegenprobe, vergleichbare Zeiträume, digitale Ausnahmefälle und Übergang bis zur fertigen Stellungnahme.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "normenkontrollrat-nkr/normenkontrollrat-nkr-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

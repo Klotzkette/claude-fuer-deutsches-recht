@@ -270,7 +270,7 @@
       "Rollenfelder, Planungsstatus und Grenzen des tatsächlichen Helfers mit den Referenzen abgeglichen.",
       "Technische Entwertung jeder Sachänderung von verhältnismäßiger fachlicher Wiederprüfung unterschieden; vier Statuswerte erklärt."
     ],
-    "sha256": "5e122f9af0536caf979dee65f2da5114fdfa09cbae59ff919e186ef15da41c27"
+    "sha256": "171b2ea5f3b8ef4b4c405f9c7651117f959e1513b52bb8a95326e00b6548f0c7"
   },
   "focus_review": {
     "method": "desk_review",
@@ -283,7 +283,7 @@
     "prompt_path": "verarbeitungsverzeichnis/verarbeitungsverzeichnis-hauptproblem.md",
     "skill_path": "verarbeitungsverzeichnis/skills/verarbeitungsverzeichnis-steuern/SKILL.md",
     "prompt_sha256": "190db9556965f18f68a4377a6dde965683a55a55234b279f2532bbc7311c1d89",
-    "skill_sha256": "86ba394b7f008385a40781f6472f82d4a582a3a3a8f97d73a83c65b766958053"
+    "skill_sha256": "89cbf5e8bf239ad7afecd9d917fd22ee3952af5285d94e852e3fe9e96ec227f4"
   },
   "prompt_workflow_review": {
     "date": "2026-10-10",
@@ -330,5 +330,17 @@
       "Länderspezifische Listen und spätere Gesetzesänderungen im konkreten Auftrag prüfen.",
       "Keine SaaS-Benutzerverwaltung, automatisierte Aufsichtsbehördenmeldung oder behauptete Kompatibilität mit fremden XML-Schemata."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verarbeitungsverzeichnis/skills/verarbeitungsverzeichnis-steuern/SKILL.md",
+      "verarbeitungsverzeichnis/verarbeitungsverzeichnis-hauptproblem.md",
+      "verarbeitungsverzeichnis/verarbeitungsverzeichnis-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

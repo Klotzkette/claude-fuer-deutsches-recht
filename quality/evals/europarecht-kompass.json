@@ -109,7 +109,7 @@
       "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "4979ead4d252554ac56b25afb391c2deb8928c0f350a7583eda01d5ef8b6f967"
+    "sha256": "f036027b62b4e77ba5f1359596da95a6f25c49e888b390e7310dd316854e0e1f"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -169,5 +169,15 @@
     "reference": "europarecht-kompass/references/ki-normen-und-fallpruefung.md",
     "focus": "Trennen Sie autonome Begriffe der Verordnung, unverbindliche Leitlinien und technische Normen. Begründen Sie eine Übertragung aus Datenschutz- oder Sicherheitsrecht ausdrücklich, statt sie als unmittelbare Auslegung der KI-VO auszugeben.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "europarecht-kompass/europarecht-kompass-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

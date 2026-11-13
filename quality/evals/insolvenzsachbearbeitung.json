@@ -472,7 +472,7 @@
       "Gesprächsphasen, Statusblock, Produktkennungen, Übergabematrix, Fehlerrouten und fassungsspezifische Freigaben vereinheitlicht."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "6e362c17756679d62bd09fb56674cddbe47d01d1d27ad656983d5cc19b6117de"
+    "sha256": "f40a3d07060a699d6e49f9813a9cd3c8d2c21bba16c10ae5935c638151305d98"
   },
   "focus_review": {
     "verdict": "revised",
@@ -489,7 +489,7 @@
     "prompt_path": "insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.md",
     "skill_path": "insolvenzsachbearbeitung/skills/insolvenzsachbearbeitung-steuern/SKILL.md",
     "prompt_sha256": "d341df72b59b1860ad30779c2e4562693953679b0272610e42c808126dd2d797",
-    "skill_sha256": "2f85b199f63528ab0b88d4cfccabf12ed23e1a82c475b7f70f30d4d073da0751"
+    "skill_sha256": "d76f8d1b6eb25b80461f1839bbd5973b13b9d1931e0dcffb8ec6aaf114adf9bc"
   },
   "prompt_editorial_review": {
     "date": "2026-10-22",
@@ -616,5 +616,17 @@
     "continuation": "Neue Belege werden unter derselben Vorgangskennung als Änderung verarbeitet; nur abhängige Beträge, Textstellen, Tabellenzeilen, Fristen und Übergaben werden fortgeschrieben.",
     "enrichment": "Zehn Produktkennungen verbinden Fachrouten, Statusblock und vier Freigabestufen. Vier Sprechgänge und Fehlerrouten decken Forderungspaket, Warenrechte, Kassenabweichung und Verbraucherakte ab.",
     "limits": "Redaktionelle Prüfung und technische Validierung; kein behaupteter Modelltest, Versand, Zahlung oder echtes Verfahrensergebnis."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.md",
+      "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+      "insolvenzsachbearbeitung/skills/insolvenzsachbearbeitung-steuern/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

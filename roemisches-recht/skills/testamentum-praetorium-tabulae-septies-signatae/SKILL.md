@@ -38,7 +38,7 @@ description: "Für Rom 144 Testamentum Praetorium Tabulae Septies Signatae: ordn
 ## Vergleich zu modernem Recht
 
 - §§ 2231 ff. BGB.
-- § 2356 BGB Erbschein.
+- § 352 Abs. 3 FamFG: Nachweise und Versicherung an Eides statt im Erbscheinsverfahren.
 
 ## Prüfraster
 

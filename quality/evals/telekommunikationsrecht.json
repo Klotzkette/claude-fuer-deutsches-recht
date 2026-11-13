@@ -104,7 +104,7 @@
       "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "be4d3c0d0417e2692cfc81984274b9c40b86c9457a56bc42f92b08ef6c5ef469",
+    "sha256": "efec55d6f227d97480f4f044f92f00bb7323d494d421ba21ee5681789eb80fb7",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
@@ -151,5 +151,15 @@
       "Keine Neuprüfung aller BNetzA-Messvorgaben, Frequenz- und Marktzugangsverfahren; Grenztage und tatsächliche Ersatzversorgung bleiben fallbezogen.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "telekommunikationsrecht/telekommunikationsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

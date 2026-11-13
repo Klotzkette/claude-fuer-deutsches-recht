@@ -36,7 +36,7 @@ description: "Für AGB Anwaltsvertrag und Allg Mandatsbedingungen: ordnet Norm, 
 - BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung.
 
 ### Haftungsbeschraenkung
-- § 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig (§ 51 Abs. 4 BRAO; Mindestversicherungssumme 250.000 Euro pro Versicherungsfall, somit Obergrenze in AGB 1 Mio. Euro); § 51a BRAO regelt demgegenueber die Berufshaftpflicht von Berufsausuebungsgesellschaften.
+- § 52 Abs. 1 Nr. 2 BRAO erlaubt in vorformulierten Bedingungen die Begrenzung bei einfacher Fahrlässigkeit auf den vierfachen Betrag der jeweils einschlägigen Mindestversicherungssumme, sofern dafür Versicherungsschutz besteht. Das ist keine Höchstgrenze für eine vereinbarte Haftung. Für Einzelanwälte § 51 Abs. 4, für Berufsausübungsgesellschaften §§ 59n, 59o BRAO einschließlich Größen- und Rechtsformunterschieden prüfen; nicht pauschal jede Gesellschaft auf eine Million Euro begrenzen.
 - Hoehere Pflicht bei groberen Faellen.
 
 ### Verschwiegenheit
@@ -46,5 +46,5 @@ description: "Für AGB Anwaltsvertrag und Allg Mandatsbedingungen: ordnet Norm, 
 
 1. Honorarvereinbarung formgerecht?
 2. RVG-Konformitaet?
-3. Haftungsbeschraenkung im Rahmen § 52 BRAO (nur einfache Fahrlaessigkeit, max. vierfache Mindestversicherungssumme)?
+3. Haftungsbeschraenkung im Rahmen § 52 BRAO (nur einfache Fahrlässigkeit; mindestens vierfache einschlägige Mindestversicherungssumme und insoweit bestehender Versicherungsschutz)?
 4. Beratungspflichten?

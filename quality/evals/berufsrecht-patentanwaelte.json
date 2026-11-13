@@ -70,7 +70,7 @@
       "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme.",
       "16.10.2026: Berufsrechtliches Ergebnis und Vertretungs-/Kostenfrage getrennt eröffnet."
     ],
-    "sha256": "f09389e536525a369720891b904a3ff28303b8f41c8a5716188237d4d0b841fb",
+    "sha256": "3291fff6100c90bb7d730955be77fe9e684d758afb7552acf0a7dc6cd5f60dc2",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -178,5 +178,15 @@
         "anchor_or_exception": "Paragraf 3 PAO; BGH 07.11.2023 X ZB 7/21: paralleler anhängiger Verletzungsprozess für Doppelvertretungskosten, bloße Drohung nicht gleichsetzen; Kostenentscheidung ersetzt keine Postulationsbefugnis."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

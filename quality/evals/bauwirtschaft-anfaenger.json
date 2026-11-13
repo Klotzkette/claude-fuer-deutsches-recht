@@ -21,7 +21,7 @@
     "changes": [
       "16.10.2026: Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben."
     ],
-    "sha256": "83188fe19a2aeaadf256148bc53e2190e4584d7bf00b790748405ae10423ccba",
+    "sha256": "d50f1dde8c75907db9019c8a44420957026bd2d46f4bedc814ba4fc15c61536e",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -436,5 +436,15 @@
         "anchor_or_exception": "Technische Ausnahme: Projektunterlagen und bei belegter Einbeziehung Paragraf 6 Absatz 1 VOB/B; Anzeige aus tatsächlicher Behinderung, keine VOB/B-Geltung allein aus Vergabe und kein allgemeines Urteil für Protokollarbeit."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -72,10 +72,10 @@ description: "Für Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: ordnet 
 - **Praxis**: Verlage setzen Bibliothekspreise für Lizenzen frei; keine BuchPrG-Bindung.
 - Für physische Bücher, die Bibliotheken kaufen: BuchPrG gilt; Bibliothek ist Letztabnehmer (§ 5 BuchPrG).
 
-## § 52b UrhG — Elektronische Leseplätze
+## § 60e Abs. 4 UrhG — Elektronische Leseplätze
 
 - Bibliotheken dürfen auf Terminals in Bibliotheksräumen urheberrechtlich geschützte Werke anzeigen.
-- Voraussetzung: Lizenzangebot des Verlags; Anzahl der Terminals ≤ Anzahl erworbener körperlicher Exemplare.
+- § 60e Abs. 4 UrhG erlaubt den dort bezeichneten Bibliotheken die Zugänglichmachung von Bestandswerken an Terminals in ihren Räumen für Forschung oder private Studien. Die Vorschrift enthält keine allgemeine Begrenzung der Terminalzahl auf die Zahl körperlicher Exemplare. Ein bloßes Lizenzangebot ist keine Voraussetzung; speziell auf Terminalzugang oder Einzelbestellversand bezogene Vereinbarungen haben nach § 60g Abs. 2 UrhG Vorrang. Zulässige Vervielfältigungen je Sitzung anhand § 60e Abs. 4 Satz 2 prüfen.
 - BGH „Elektronische Leseplätze II", I ZR 69/11: Kontext bestätigt; nur körperlich vorhandene Exemplare dürfen gleichzeitig angezeigt werden.
 
 ## Vergriffene Werke und Bibliotheken (DSM-RL Art. 8)

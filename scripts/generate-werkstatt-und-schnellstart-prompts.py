@@ -3337,10 +3337,18 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
         if skill_file.exists():
             try:
                 chunk_lines: list[str] = []
+                in_visual_block = False
                 with skill_file.open("r", encoding="utf-8", errors="ignore") as handle:
-                    for line_no, line in enumerate(handle, 1):
+                    for line in handle:
+                        if line.strip() == "<!-- BEGIN werkstatt-visualisierung -->":
+                            in_visual_block = True
+                            continue
+                        if in_visual_block:
+                            if line.strip() == "<!-- END werkstatt-visualisierung -->":
+                                in_visual_block = False
+                            continue
                         chunk_lines.append(line)
-                        if line_no >= (180 if position < 80 else 32):
+                        if len(chunk_lines) >= (180 if position < 80 else 32):
                             break
                 text = "".join(chunk_lines)
                 desc = frontmatter_description(text) or desc
@@ -7445,7 +7453,9 @@ def build_werkstatt(
         lines += [""] + practice_routes_lines(routes, 16)
 
     text = "\n".join(lines).strip() + "\n"
-    return sanitize(compact_werkstatt(text))
+    from werkstatt_visualisierung import block as visual_block
+
+    return compact_werkstatt(visual_block(sanitize(compact_werkstatt(text)), slug))
 
 
 def compact_schnellstart(text: str) -> str:

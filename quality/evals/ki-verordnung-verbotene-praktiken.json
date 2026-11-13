@@ -49,7 +49,7 @@
       "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
       "Redaktion 16.10.2026: Tatbestandsprüfung und begrenztes Ergebnis vor Arbeitsmodus; redundanter Hersteller-Eignungssatz entfernt, sämtliche anschließenden Werkzeuggrenzen erhalten. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "53ea64e373c5983910593b3c5a07157d2ff58fb355840be29d4c66893a8861a1"
+    "sha256": "398a78e8b2242456a1050f2a9cb5b0cf66f37369c9a28f2ec6d84955ce62c540"
   },
   "cases": [
     {
@@ -331,7 +331,7 @@
     "prompt_path": "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.md",
     "skill_path": "ki-verordnung-verbotene-praktiken/skills/verbotene-ki-praktiken-loesen/SKILL.md",
     "prompt_sha256": "10f512ac61259fd50574f75e2e78e2bd38066fea3bf2273587b57fb6f311db75",
-    "skill_sha256": "5a0e19b122bae8976e6b5d83caab3769fac9c928c1ff1146318d56140f186933"
+    "skill_sha256": "df668d625576bfba10615b271a47f32f3f2dc033eabb3397015c7d3b21441c73"
   },
   "prompt_workflow_review": {
     "method": "desk_review",
@@ -384,5 +384,17 @@
         "supports": "Artikel 3 Nummer 39 und Artikel 5; gesonderte Merkmalsketten, alternative Nachteile, Emotionswortlaut und Dringlichkeit."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.md",
+      "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md",
+      "ki-verordnung-verbotene-praktiken/skills/verbotene-ki-praktiken-loesen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

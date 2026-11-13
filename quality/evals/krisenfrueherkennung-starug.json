@@ -110,7 +110,7 @@
       "Finanzierungszeitpunkt, rollierende Folgeperioden, geschäftsmodellbezogene Frühwarnsignale, integrierte Überleitung und Auswirkungen geänderter Gläubigerrechte auf Planregeln vertieft.",
       "Redaktion 16.10.2026: Erwartete Gesellschaftermittel anhand Fähigkeit und Bereitschaft statt pauschaler Unterstützungshoffnung eingeordnet. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "588f8e66ef6c85022aa17af5f35444222611f738391d2883f4512a43915971a9",
+    "sha256": "e3770f7d3db05f6b9673ca433cfc67099711409744a0ac474affabecff46ee2a",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -152,5 +152,15 @@
     "continuation": "Einlage erst in Monat 19 ändert in krisenvermerk.md Zufluss, Zwischenbedarf und Folgeperioden sowie in organbericht.md die Handlungsfrist; bestehende Nutzerpfade bleiben bestehen.",
     "enrichment": "400000-Euro-Lücke in Monat 18 trotz späterer 450000-Euro-Einlage, Stundung und Kreditkündigung als neue Auslöser, Ergebnis-/Zahlungsüberleitung ohne Doppelansatz, konkrete Warnsignale und Plananpassung bei neu bekannter Sicherheit.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "krisenfrueherkennung-starug/krisenfrueherkennung-starug-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

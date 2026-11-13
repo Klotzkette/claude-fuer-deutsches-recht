@@ -86,7 +86,7 @@
       "Finanzierungsalternativen, Zumutbarkeit persönlicher Sicherheiten, legitimes Eigeninteresse, Beschlussstadium und Schadenskausalität.",
       "Einstiegsredaktion 16.10.2026: Gegenstimme von Pflichtverletzung abgegrenzt; Unabweisbarkeit, Zumutbarkeit und fehlender allgemeiner Nachschusszwang früh benannt."
     ],
-    "sha256": "2a6826573744865710fc68051e3996f0b9a67ed948f0fb4c8c2009061b1c2861"
+    "sha256": "150b999791103a609a25d9844884ce90308602ca30783e29acecfe801dfb51a9"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -184,5 +184,15 @@
         "utf8_bytes": 6620
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

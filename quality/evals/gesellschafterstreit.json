@@ -689,7 +689,7 @@
       "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist.",
       "Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt."
     ],
-    "sha256": "4e892d66c2eb0370349bf423156279fb136c3d5feb62914b3f97145bc973bce6"
+    "sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a"
   },
   "focus_review": {
     "method": "desk_review",
@@ -704,7 +704,7 @@
     "prompt_path": "gesellschafterstreit/gesellschafterstreit-hauptproblem.md",
     "skill_path": "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
     "prompt_sha256": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30",
-    "skill_sha256": "a34243d57429b784ae2eee4bf68cb77caca7b7fe61304f4659149d2cfd8644fa"
+    "skill_sha256": "544288c84ad40199b1e154bcc22aaf3d0632945ec2b4cea8bf77832fefdee869"
   },
   "prompt_editorial_review": {
     "date": "2026-10-09",
@@ -1694,10 +1694,10 @@
     "gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md": "1dbc1cb5425e054f4a9d4494ba82d8d5bb6b074ab75ca23c80d5bc7f502ecb7e",
     "gesellschafterstreit/skills/darlehen-und-vertretung-pruefen/SKILL.md": "d55a35d1efb3c43fc6e00f55e1ed7a0c0a6dff7f173e157f503993f845ba10fc",
     "gesellschafterstreit/skills/einziehung-und-ausschluss-pruefen/SKILL.md": "6789b7c9bf1b0d8c0e4b8c16124ee409fa6ceb0c8aed228239def1092113d481",
-    "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md": "a34243d57429b784ae2eee4bf68cb77caca7b7fe61304f4659149d2cfd8644fa",
+    "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md": "544288c84ad40199b1e154bcc22aaf3d0632945ec2b4cea8bf77832fefdee869",
     "gesellschafterstreit/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md": "f7c61c17e8a5c7865b63e9c15b1731e56cec4df1cd6f92f80bf700250a83a419",
     "gesellschafterstreit/skills/stimmen-und-mehrheiten-pruefen/SKILL.md": "405b0bfc006a2ef0896fd91626473631407b714df707431d19ebe930e278b0a0",
-    "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md": "46e76d25ea3205a34d9f8de0af8fb38bdd1b7530b7b03dfea11ca6c8bd5567a7",
+    "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md": "39c57d226c974ac20f83d0d716204f8b463a500515f884512abc9b1ac1986b43",
     "gesellschafterstreit/skills/versammlung-und-tagesordnung-vorbereiten/SKILL.md": "6a26a686c2a441f09654a2970e78e96e77ddbc4046c14a1e4ef9988c417f4b0f",
     "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md": "af5871faf92e41122bfd94c6c870ec874f8b05b00793c2fd214b74da40700f81",
     "gesellschafterstreit/references/beschlusslogik.md": "ef3472e5ba26a6f0ef34ba242670f0c3871639e0a262ebdf76b226c5eb9ddded",
@@ -2177,5 +2177,18 @@
       "gesellschafterstreit/gesellschafterstreit-schnellstart.md",
       "gesellschafterstreit/gesellschafterstreit-werkstatt.md"
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gesellschafterstreit/gesellschafterstreit-hauptproblem.md",
+      "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+      "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
+      "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

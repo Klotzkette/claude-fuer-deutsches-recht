@@ -78,7 +78,7 @@
       "2026-10-16, redaktioneller Einstiegsreview: Korrekturberechnung und Eingabe vor Lebenslaufbeispielen; Vormerkung von Rentenhöhe und späterer Bewertung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R"
     ],
-    "sha256": "ffdb1a6098c20314cc33263a0c8ff92f5a82ae8c2a03e2daa45c8243ced81425",
+    "sha256": "af6b520625d5df867e76f480f4be078c841c760590f631f91cf3aff000f7635d",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -229,5 +229,15 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "rentenpruefer/rentenpruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

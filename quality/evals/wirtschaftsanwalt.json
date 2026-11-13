@@ -150,7 +150,7 @@
       "Ein H1, dezimale H2-Hauptkapitel, vollständige Endprodukte und getrennte interne Vermerke.",
       "Autorvorspann durch betriebliche Entscheidung und bestelltes Dokument ersetzt. 2 AZR 68/24 als begrenztes Beispiel für Zugangsnachweise, nicht als generelles Einschreibenverbot."
     ],
-    "sha256": "8315759d8c25ffd05ab687ab479aa6545cff80b35dac08b380c7c935c0b54c1e",
+    "sha256": "9d41c86689b0069b14da7d196b62184c530c0c4f9542c2374aef20aaace98aba",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -167,7 +167,7 @@
     "prompt_path": "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md",
     "prompt_sha256": "6f8f2fae69f16b523b8bd8e0bf3aea7f12c69b38a6650ce83af0d1d10cc73b94",
     "skill_path": "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
-    "skill_sha256": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871"
+    "skill_sha256": "b10da34aca6fd911769d99f355d0411111e7ecdaa459e84ce481ddac09e2132c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -745,7 +745,7 @@
     "wirtschaftsanwalt/skills/lieferforderung-und-maengeleinwand-bearbeiten/SKILL.md": "08c8ef0a995b4249818f91f8bf968c8e5f5c6504fc56d0fb10ac19164b06698c",
     "wirtschaftsanwalt/skills/liquiditaetsrisiken-und-fristenwarnung-bearbeiten/SKILL.md": "6061d04acc352915240a4ebd0602e5e4b14febd3746ed67348588f399ea12627",
     "wirtschaftsanwalt/skills/personalmassnahme-pruefen-und-dokumentieren/SKILL.md": "4715af71310b3a70aed91fe43d854ed51520306849e19e345c6f2eb425a88791",
-    "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871",
+    "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md": "b10da34aca6fd911769d99f355d0411111e7ecdaa459e84ce481ddac09e2132c",
     "wirtschaftsanwalt/skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md": "b2b7a0e093e63d957d9cb3901402cfb1348c2d98c7b431894c9e3bd6c5b3bb5e",
     "wirtschaftsanwalt/skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md": "4f5a21a511b34d2082d2565e5cf043346e4c8b43d7a9ebd9d0f878aebe218500"
   },
@@ -788,5 +788,17 @@
       "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md",
       "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md"
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
+      "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md",
+      "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

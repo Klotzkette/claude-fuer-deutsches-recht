@@ -102,7 +102,7 @@
       "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme.",
       "16.10.2026: Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt."
     ],
-    "sha256": "a39f27e034d3003a630dae44b16598be18310daefcebf4ad039db9282de2b2c8",
+    "sha256": "e03361b2a64e13aa5c017e4d9bb97e7ac11e2bd1c84ccc5146143279c9bc68e7",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -166,5 +166,15 @@
         "anchor_or_exception": "Paragrafen 118a und 123 AktG; BGH 25.03.2025 II ZR 208/22: satzungsmäßiger Nachweis bei nicht börsennotierter AG, keine allgemeine Aussage zu Eigentum oder virtuellen Rechten."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

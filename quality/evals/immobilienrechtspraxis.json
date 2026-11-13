@@ -41,7 +41,7 @@
       "Ablösefrist und Treuhandauflagen, Offenlegung versus Garantie, unvollendeter Bauträgerbau, Kostenanteile und vollständige objektbezogene Klauseln.",
       "Einstiegsredaktion 16.10.2026: Kauf- und Bewirtschaftungsauftrag getrennt; Aufklärung über Sanierungslasten mit begrenzter Datenraumwirkung früh benannt."
     ],
-    "sha256": "816d5c9853c15d2f3a3558b3f438da7697b6fea750ecb20bc2c191431a3a422d"
+    "sha256": "d70e4a986ecbdf10d3a65f8a5047e927e92254e11b7135ed6951e8f078b78585"
   },
   "selection": {
     "positive": [
@@ -175,5 +175,15 @@
         "utf8_bytes": 6397
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "immobilienrechtspraxis/immobilienrechtspraxis-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

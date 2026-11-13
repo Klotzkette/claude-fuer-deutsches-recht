@@ -34,3 +34,23 @@ Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelet
 „Die Angebotsbearbeitung wird intern bis zu einem Aufwand von [Betrag] freigegeben. Voraussetzung für die abschließende Abgabefreigabe ist, dass die Vergabestelle die widersprüchlichen Bauzeitvorgaben bis [Datum] verbindlich klärt und die vorgesehene Nachunternehmerin ihre Kapazität bestätigt. Diese Bedingungen werden nicht Bestandteil des Angebots. Bleibt die Klärung aus, entscheidet [Funktion] vor Ablauf der maßgeblichen Fristen anhand der dokumentierten Kosten und Rechtsschutzmöglichkeiten erneut.“
 
 Der Baustein ist an die tatsächliche Akte anzupassen; die darin genannten Angaben gelten nicht ohne Beleg als vorhanden.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 1. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+**Leitfrage für Vergaberecht:** Welche Angebote sind auf derselben Grundlage vergleichbar und wo fehlt eine belastbare Angabe?
+
+**Erste Ansicht:** Zeige einen positionsbezogenen Vergleich von Leistungsumfang, Mengen, Preisbestandteilen, Qualität, Nachweisen und Liefertermin. Fehlende Leistungen und bedingte Preise bleiben als Abweichung sichtbar.
+
+**Sinnvolle Interaktion:** Erlaube die Auswahl einer Position oder eines zulässigen Vergleichsszenarios. Veröffentlicht festgelegte Wertungskriterien werden nicht durch frei verschiebbare Gewichte ersetzt; eigene Sensitivitäten sind getrennte interne Szenarien.
+
+**Datengrundlage:** LV-Position, Einheit, Menge, Netto und Steuer getrennt, Nebenleistung, Terminbedingung, Kriterium und Angebotsfundstelle. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+**Weiter zum Ergebnis:** begründeter Angebotsvergleich sowie konkrete Aufklärungsfragen oder Entscheidungsvorlage. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->

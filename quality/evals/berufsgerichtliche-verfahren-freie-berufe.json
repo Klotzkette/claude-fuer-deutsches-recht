@@ -70,7 +70,7 @@
       "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf.",
       "16.10.2026: Berufsgerichtlichen Vorwurf und konkrete Verteidigung im Einstieg greifbar gemacht."
     ],
-    "sha256": "88dc8fe1acde34ae5caf5b6e1bc137fc075f71adf55feee530b5909defed8b71",
+    "sha256": "b1cdcb971ced8e948379dd13da5d9781b13f0efd13f98ac51281a12c0d103dc3",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -185,5 +185,15 @@
         "anchor_or_exception": "Paragraf 43a Absatz 3 BRAO, Artikel 5 GG; BVerfG 02.07.2013 1 BvR 1751/12: enger Schmähkritikbegriff und Kontext; zivilrechtlicher Fall hebt keine Kammerrüge automatisch auf."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

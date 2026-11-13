@@ -126,12 +126,38 @@
       "target_skill": "us-sanktionsmandat-steuern",
       "request": "Die Bank schreibt nur under review wegen eines ähnlich benannten Lieferanten. Vertrag und Registernummer liegen vor, eine OFAC-Kennung und der genaue Bankweg fehlen. Der Mandant benötigt heute eine Antwort an die Bank, keine neue allgemeine Mandatsaufnahme. Erstellen Sie das Schreiben und führen Sie nach einer ergänzten Listenkennung denselben Entwurf fort.",
       "input_files": [],
-      "deliverables": ["bankantwort.md"],
+      "deliverables": [
+        "bankantwort.md"
+      ],
       "criteria": [
-        {"id": "status", "text": "Interne Prüfung wird nicht als schon gemeldete Blockierung dargestellt; fehlende Kennung und Bankweg werden konkret erfragt.", "deliverables": ["bankantwort.md"]},
-        {"id": "routing", "text": "Identitäts- und Zuständigkeitsfragen werden gezielt zugeordnet, nicht alle zehn Skills oder sämtliche Programme ungefragt geladen.", "deliverables": ["bankantwort.md"]},
-        {"id": "dokument", "text": "Anrede, Bezug, begründete Auskunftsbitte und Anlagen sind ausformuliert; nach Antwort derselbe Brief fortgesetzt, nicht nur eine Analyse geliefert.", "deliverables": ["bankantwort.md"]},
-        {"id": "freigabe", "text": "Keine externe Nachricht, Meldung oder Zahlungsfreigabe ohne ausdrücklichen Auftrag; kein behaupteter aktueller Listenabgleich bei fehlendem Zugriff.", "deliverables": ["bankantwort.md"]}
+        {
+          "id": "status",
+          "text": "Interne Prüfung wird nicht als schon gemeldete Blockierung dargestellt; fehlende Kennung und Bankweg werden konkret erfragt.",
+          "deliverables": [
+            "bankantwort.md"
+          ]
+        },
+        {
+          "id": "routing",
+          "text": "Identitäts- und Zuständigkeitsfragen werden gezielt zugeordnet, nicht alle zehn Skills oder sämtliche Programme ungefragt geladen.",
+          "deliverables": [
+            "bankantwort.md"
+          ]
+        },
+        {
+          "id": "dokument",
+          "text": "Anrede, Bezug, begründete Auskunftsbitte und Anlagen sind ausformuliert; nach Antwort derselbe Brief fortgesetzt, nicht nur eine Analyse geliefert.",
+          "deliverables": [
+            "bankantwort.md"
+          ]
+        },
+        {
+          "id": "freigabe",
+          "text": "Keine externe Nachricht, Meldung oder Zahlungsfreigabe ohne ausdrücklichen Auftrag; kein behaupteter aktueller Listenabgleich bei fehlendem Zugriff.",
+          "deliverables": [
+            "bankantwort.md"
+          ]
+        }
       ]
     },
     {
@@ -139,12 +165,40 @@
       "target_skill": "us-bezug-zustaendigkeit-pruefen",
       "request": "Zwei nichtamerikanische Unternehmen vereinbaren einen Dollarpreis. Noch ist kein Zahlungsauftrag erteilt; die Bank hat keinen Korrespondenzweg bestätigt. Ein US-Staatsangehöriger soll intern die Leistung freigeben. Erstellen Sie den Zuständigkeitsvermerk und die erforderliche Bankrückfrage, ohne aus der Währung bereits jedes US-Verbot abzuleiten.",
       "input_files": [],
-      "deliverables": ["us-bezug.md", "bankweg-anfrage.md"],
+      "deliverables": [
+        "us-bezug.md",
+        "bankweg-anfrage.md"
+      ],
       "criteria": [
-        {"id": "person", "text": "Persönlicher US-Bezug des beteiligten Entscheiders wird getrennt von Gesellschaft und Bank behandelt; Umfang folgt dem einschlägigen Programm.", "deliverables": ["us-bezug.md"]},
-        {"id": "waehrung", "text": "Dollar allein ersetzt keinen tatsächlichen Zahlungsweg; Euro wird ebenfalls nicht als sichere Ausnahme empfohlen.", "deliverables": ["bankweg-anfrage.md"]},
-        {"id": "sekundaer", "text": "Primärpflicht, Veranlassung eines US-Verstoßes und Sekundärsanktionsrisiko werden normbezogen unterschieden, ohne weltweite Gleichsetzung.", "deliverables": ["us-bezug.md"]},
-        {"id": "keine-umgehung", "text": "Keine Empfehlung zur Umleitung oder Verschleierung des US-Bezugs; gezielte Frage und begrenzter Vermerk statt pauschaler Freigabe.", "deliverables": ["bankweg-anfrage.md", "us-bezug.md"]}
+        {
+          "id": "person",
+          "text": "Persönlicher US-Bezug des beteiligten Entscheiders wird getrennt von Gesellschaft und Bank behandelt; Umfang folgt dem einschlägigen Programm.",
+          "deliverables": [
+            "us-bezug.md"
+          ]
+        },
+        {
+          "id": "waehrung",
+          "text": "Dollar allein ersetzt keinen tatsächlichen Zahlungsweg; Euro wird ebenfalls nicht als sichere Ausnahme empfohlen.",
+          "deliverables": [
+            "bankweg-anfrage.md"
+          ]
+        },
+        {
+          "id": "sekundaer",
+          "text": "Primärpflicht, Veranlassung eines US-Verstoßes und Sekundärsanktionsrisiko werden normbezogen unterschieden, ohne weltweite Gleichsetzung.",
+          "deliverables": [
+            "us-bezug.md"
+          ]
+        },
+        {
+          "id": "keine-umgehung",
+          "text": "Keine Empfehlung zur Umleitung oder Verschleierung des US-Bezugs; gezielte Frage und begrenzter Vermerk statt pauschaler Freigabe.",
+          "deliverables": [
+            "bankweg-anfrage.md",
+            "us-bezug.md"
+          ]
+        }
       ]
     },
     {
@@ -152,12 +206,38 @@
       "target_skill": "ofac-treffer-identitaet-klaeren",
       "request": "Eine ausschließlich simulierte Schulungsliste nennt Sonnenquast als Terrorlisteneintrag. Die Vertragspartei hat einen ähnlichen Namen, aber eine andere Rechtsform und Registernummer. Die Unterlage enthält keinen echten amtlichen Treffer. Erstellen Sie das Identitätsblatt für die Schulung und beschreiben Sie, was vor einer realen Bankanfrage zusätzlich belegt werden müsste.",
       "input_files": [],
-      "deliverables": ["identitaet-schulung.md"],
+      "deliverables": [
+        "identitaet-schulung.md"
+      ],
       "criteria": [
-        {"id": "isolation", "text": "Simulierter Terrorlisteneintrag wird ausdrücklich als solcher bezeichnet; keine Vermischung mit Produktionslisten, echten Behördenmeldungen oder realen Kundenstammdaten.", "deliverables": ["identitaet-schulung.md"]},
-        {"id": "merkmale", "text": "Rechtsform, Registernummer und weitere Identifikatoren werden abgewogen; Namensähnlichkeit und Suchwert sind kein hinreichender Rechtsbefund.", "deliverables": ["identitaet-schulung.md"]},
-        {"id": "listentyp", "text": "FTO, SDGT, SDN und Non-SDN werden nicht austauschbar behandelt; tatsächliche Quelle und Kennung müssten für eine reale Prüfung verifiziert werden.", "deliverables": ["identitaet-schulung.md"]},
-        {"id": "begrenzt", "text": "Aus dem Schulungsfall wird weder eine echte Entlistung noch eine aktuelle Freigabe behauptet; personenbezogene Originale nicht öffentlich hochladen.", "deliverables": ["identitaet-schulung.md"]}
+        {
+          "id": "isolation",
+          "text": "Simulierter Terrorlisteneintrag wird ausdrücklich als solcher bezeichnet; keine Vermischung mit Produktionslisten, echten Behördenmeldungen oder realen Kundenstammdaten.",
+          "deliverables": [
+            "identitaet-schulung.md"
+          ]
+        },
+        {
+          "id": "merkmale",
+          "text": "Rechtsform, Registernummer und weitere Identifikatoren werden abgewogen; Namensähnlichkeit und Suchwert sind kein hinreichender Rechtsbefund.",
+          "deliverables": [
+            "identitaet-schulung.md"
+          ]
+        },
+        {
+          "id": "listentyp",
+          "text": "FTO, SDGT, SDN und Non-SDN werden nicht austauschbar behandelt; tatsächliche Quelle und Kennung müssten für eine reale Prüfung verifiziert werden.",
+          "deliverables": [
+            "identitaet-schulung.md"
+          ]
+        },
+        {
+          "id": "begrenzt",
+          "text": "Aus dem Schulungsfall wird weder eine echte Entlistung noch eine aktuelle Freigabe behauptet; personenbezogene Originale nicht öffentlich hochladen.",
+          "deliverables": [
+            "identitaet-schulung.md"
+          ]
+        }
       ]
     },
     {
@@ -165,12 +245,38 @@
       "target_skill": "ofac-eigentum-beteiligungsketten-pruefen",
       "request": "Für eine isolierte Schulungsrechnung gilt X als blockiert. X hält genau 50 Prozent an A, A genau 50 Prozent an B. Daneben hält X 40 Prozent an C und darf dessen Geschäftsführung bestimmen; sonstige Eigentümer sind nach den Fallvorgaben nicht blockiert. Erstellen Sie den Eigentumsvermerk nach OFAC-FAQ 401 und 398. Die vorgelegte Finanzrechnung nennt für B lediglich 25 Prozent wirtschaftlichen Anteil.",
       "input_files": [],
-      "deliverables": ["eigentumsvermerk.md"],
+      "deliverables": [
+        "eigentumsvermerk.md"
+      ],
       "criteria": [
-        {"id": "kaskade", "text": "A UND B sind blockiert: X blockiert mit 50 Prozent A, A blockiert mit 50 Prozent B. Die Rechnung 50 mal 50 gleich 25 Prozent wird ausdrücklich als falscher rechtlicher Test verworfen.", "deliverables": ["eigentumsvermerk.md"]},
-        {"id": "kontrolle", "text": "C ist unter der Eigentumsregel allein nicht automatisch blockiert; Kontrolle, besondere Programmregeln, mögliche eigene Listung und Geschäfte mit X bleiben gesondert zu prüfen.", "deliverables": ["eigentumsvermerk.md"]},
-        {"id": "aggregation", "text": "Anteile verschiedener blockierter Eigentümer werden auf jeder relevanten Ebene aggregiert, identische Anteile nicht doppelt gezählt; keine Übertragung der Regel auf jede BIS-/FTO-Liste.", "deliverables": ["eigentumsvermerk.md"]},
-        {"id": "beleg", "text": "Amtliche FAQ 401 mit ihrem konkreten Kettenbeispiel und Aussagegrenze wird nachgewiesen. Schulungsergebnis bleibt von aktuellen realen Listungen getrennt.", "deliverables": ["eigentumsvermerk.md"]}
+        {
+          "id": "kaskade",
+          "text": "A UND B sind blockiert: X blockiert mit 50 Prozent A, A blockiert mit 50 Prozent B. Die Rechnung 50 mal 50 gleich 25 Prozent wird ausdrücklich als falscher rechtlicher Test verworfen.",
+          "deliverables": [
+            "eigentumsvermerk.md"
+          ]
+        },
+        {
+          "id": "kontrolle",
+          "text": "C ist unter der Eigentumsregel allein nicht automatisch blockiert; Kontrolle, besondere Programmregeln, mögliche eigene Listung und Geschäfte mit X bleiben gesondert zu prüfen.",
+          "deliverables": [
+            "eigentumsvermerk.md"
+          ]
+        },
+        {
+          "id": "aggregation",
+          "text": "Anteile verschiedener blockierter Eigentümer werden auf jeder relevanten Ebene aggregiert, identische Anteile nicht doppelt gezählt; keine Übertragung der Regel auf jede BIS-/FTO-Liste.",
+          "deliverables": [
+            "eigentumsvermerk.md"
+          ]
+        },
+        {
+          "id": "beleg",
+          "text": "Amtliche FAQ 401 mit ihrem konkreten Kettenbeispiel und Aussagegrenze wird nachgewiesen. Schulungsergebnis bleibt von aktuellen realen Listungen getrennt.",
+          "deliverables": [
+            "eigentumsvermerk.md"
+          ]
+        }
       ]
     },
     {
@@ -178,12 +284,38 @@
       "target_skill": "us-regime-transaktionen-abgrenzen",
       "request": "Der Mandant erhält einen Non-SDN-Hinweis zu einem Geschäftspartner und möchte eine Warenlieferung sowie eine langfristige Finanzierung anbieten. Er meint zusätzlich, Van Loon habe US-Sanktionen gegen digitale Zahlungssysteme generell unwirksam gemacht. Die konkrete Directive fehlt. Erstellen Sie einen begrenzten Transaktionsvermerk und fordern Sie nur die entscheidende Grundlage nach.",
       "input_files": [],
-      "deliverables": ["transaktionsvermerk.md"],
+      "deliverables": [
+        "transaktionsvermerk.md"
+      ],
       "criteria": [
-        {"id": "directive", "text": "Warenlieferung und Finanzierung werden getrennt geprüft; Non-SDN bedeutet weder automatische Vollsperre noch vollständige Erlaubnis. Fehlende Directive konkret benennen.", "deliverables": ["transaktionsvermerk.md"]},
-        {"id": "reichweite", "text": "Van Loon wird auf die dortigen unveränderlichen Smart Contracts und den IEEPA-Eigentumsbegriff begrenzt; kein allgemeiner gerichtlicher Override und kein Freibrief für andere Beteiligte.", "deliverables": ["transaktionsvermerk.md"]},
-        {"id": "zeitstand", "text": "Urteil vom 26.11.2024, OFAC-Streichung vom 21.03.2025 und heutige Listenprüfung werden nicht gleichgesetzt.", "deliverables": ["transaktionsvermerk.md"]},
-        {"id": "produkt", "text": "Ausformulierter begrenzter Vermerk mit bearbeitbaren Teilen und präziser Nachforderung; keine unbelegte Negativbescheinigung.", "deliverables": ["transaktionsvermerk.md"]}
+        {
+          "id": "directive",
+          "text": "Warenlieferung und Finanzierung werden getrennt geprüft; Non-SDN bedeutet weder automatische Vollsperre noch vollständige Erlaubnis. Fehlende Directive konkret benennen.",
+          "deliverables": [
+            "transaktionsvermerk.md"
+          ]
+        },
+        {
+          "id": "reichweite",
+          "text": "Van Loon wird auf die dortigen unveränderlichen Smart Contracts und den IEEPA-Eigentumsbegriff begrenzt; kein allgemeiner gerichtlicher Override und kein Freibrief für andere Beteiligte.",
+          "deliverables": [
+            "transaktionsvermerk.md"
+          ]
+        },
+        {
+          "id": "zeitstand",
+          "text": "Urteil vom 26.11.2024, OFAC-Streichung vom 21.03.2025 und heutige Listenprüfung werden nicht gleichgesetzt.",
+          "deliverables": [
+            "transaktionsvermerk.md"
+          ]
+        },
+        {
+          "id": "produkt",
+          "text": "Ausformulierter begrenzter Vermerk mit bearbeitbaren Teilen und präziser Nachforderung; keine unbelegte Negativbescheinigung.",
+          "deliverables": [
+            "transaktionsvermerk.md"
+          ]
+        }
       ]
     },
     {
@@ -191,13 +323,45 @@
       "target_skill": "us-terrorismus-unterstuetzung-pruefen",
       "request": "In einem ausdrücklich erfundenen Schulungsfall gilt eine Organisation nur als FTO, nicht als SDGT. Ein US-Finanzinstitut erkennt Mittel dieser Organisation unter seiner Kontrolle. Eine US-Person plant abgestimmte Schulungen, ein unabhängiger Verein eine öffentliche Stellungnahme ohne Abstimmung. Erstellen Sie einen Beratungsvermerk zu den getrennten Pflichten, ohne echte Listentreffer zu erfinden.",
       "input_files": [],
-      "deliverables": ["unterstuetzungsvermerk.md"],
+      "deliverables": [
+        "unterstuetzungsvermerk.md"
+      ],
       "criteria": [
-        {"id": "tatbestaende", "text": "18 USC 2339B, Kenntnis und Zuständigkeit werden eigenständig geprüft, nicht aus OFAC-Zivilhaftung abgeleitet. SDGT/Part 594 nicht allein aus einer FTO-Bezeichnung herleiten.", "deliverables": ["unterstuetzungsvermerk.md"]},
-        {"id": "fto-only", "text": "Ohne SDGT besteht der eigenständige FTO-Pfad nach 597.201(b): US-Finanzinstitut muss die erkannten betroffenen Mittel halten und nach 501.603 berichten. Pflichtkreisbegrenzung nach 597.601 erläutern, keine pauschale Gleichstellung sämtlicher Nichtbanken.", "deliverables": ["unterstuetzungsvermerk.md"]},
-        {"id": "holder", "text": "Holder 561 US 1: koordinierte Unterstützung trotz friedlichen Ziels von unabhängiger Fürsprache trennen; kein pauschales Verbot jeder humanitären oder juristischen Tätigkeit.", "deliverables": ["unterstuetzungsvermerk.md"]},
-        {"id": "lizenzgrenze", "text": "Eine OFAC-Lizenz wird nicht als generelle Freistellung vom Unterstützungsstrafrecht dargestellt.", "deliverables": ["unterstuetzungsvermerk.md"]},
-        {"id": "simulation", "text": "Erfundene FTO-/SDGT-Angaben bleiben ausdrücklich simuliert; kein Upload in produktives Screening, kein externer Vorwurf.", "deliverables": ["unterstuetzungsvermerk.md"]}
+        {
+          "id": "tatbestaende",
+          "text": "18 USC 2339B, Kenntnis und Zuständigkeit werden eigenständig geprüft, nicht aus OFAC-Zivilhaftung abgeleitet. SDGT/Part 594 nicht allein aus einer FTO-Bezeichnung herleiten.",
+          "deliverables": [
+            "unterstuetzungsvermerk.md"
+          ]
+        },
+        {
+          "id": "fto-only",
+          "text": "Ohne SDGT besteht der eigenständige FTO-Pfad nach 597.201(b): US-Finanzinstitut muss die erkannten betroffenen Mittel halten und nach 501.603 berichten. Pflichtkreisbegrenzung nach 597.601 erläutern, keine pauschale Gleichstellung sämtlicher Nichtbanken.",
+          "deliverables": [
+            "unterstuetzungsvermerk.md"
+          ]
+        },
+        {
+          "id": "holder",
+          "text": "Holder 561 US 1: koordinierte Unterstützung trotz friedlichen Ziels von unabhängiger Fürsprache trennen; kein pauschales Verbot jeder humanitären oder juristischen Tätigkeit.",
+          "deliverables": [
+            "unterstuetzungsvermerk.md"
+          ]
+        },
+        {
+          "id": "lizenzgrenze",
+          "text": "Eine OFAC-Lizenz wird nicht als generelle Freistellung vom Unterstützungsstrafrecht dargestellt.",
+          "deliverables": [
+            "unterstuetzungsvermerk.md"
+          ]
+        },
+        {
+          "id": "simulation",
+          "text": "Erfundene FTO-/SDGT-Angaben bleiben ausdrücklich simuliert; kein Upload in produktives Screening, kein externer Vorwurf.",
+          "deliverables": [
+            "unterstuetzungsvermerk.md"
+          ]
+        }
       ]
     },
     {
@@ -205,13 +369,46 @@
       "target_skill": "ofac-lizenzen-rechtsberatung-pruefen",
       "request": "Eine deutsche Kanzlei mit einem US-Berufsträger prüft zwei Mandate: eines unter Part 594, eines für eine ausschließlich als FTO bezeichnete Organisation unter Part 597. Beide möchten Vorschuss aus Drittmitteln zahlen und einen Vergleich aus blockierten Mitteln abwickeln. Erstellen Sie den Leistungs-/Lizenzvermerk und Mandatsbrief; legal services permitted genügt nicht als pauschale Begründung.",
       "input_files": [],
-      "deliverables": ["lizenzvermerk.md", "mandatsbrief.md"],
+      "deliverables": [
+        "lizenzvermerk.md",
+        "mandatsbrief.md"
+      ],
       "criteria": [
-        {"id": "trennung", "text": "Rechtsdienstleistung nach 594.506, Vergütung nach 594.517 und Vergleichs-/Fremdgeldzahlung werden separat geprüft; keine allgemeine Kanzleiausnahme.", "deliverables": ["lizenzvermerk.md"]},
-        {"id": "fto-lizenz", "text": "Part 597 erhält eigenen Pfad: 597.505 ist mögliche Einzelfallautorisierung für Honorar-/Auslagenzahlung für bestimmte Rechtsleistungen, nicht blanket General License. 597.513 Zahlungsherkunft, fremde blockierte Interessen und eigene zehnjährige Aufzeichnungen nach (c) prüfen; 597.601 beseitigt diese nicht.", "deliverables": ["lizenzvermerk.md"]},
-        {"id": "bedingungen", "text": "Passende Leistungskategorie, Zahlungsherkunft, Zeitraum und Bedingungen der General License werden konkret festgestellt oder gezielt erfragt.", "deliverables": ["lizenzvermerk.md"]},
-        {"id": "antrag", "text": "Ungedeckte Handlungen werden für einen Specific-License-Antrag abgegrenzt; Antragstellung nicht mit Erlaubnis verwechselt.", "deliverables": ["mandatsbrief.md"]},
-        {"id": "vollstaendig", "text": "Mandatsbrief enthält vollständige Sätze, erlaubten vorläufigen Umfang und offene Zahlungsfragen; keine Auszahlung oder Behördenmeldung ohne Freigabe.", "deliverables": ["mandatsbrief.md"]}
+        {
+          "id": "trennung",
+          "text": "Rechtsdienstleistung nach 594.506, Vergütung nach 594.517 und Vergleichs-/Fremdgeldzahlung werden separat geprüft; keine allgemeine Kanzleiausnahme.",
+          "deliverables": [
+            "lizenzvermerk.md"
+          ]
+        },
+        {
+          "id": "fto-lizenz",
+          "text": "Part 597 erhält eigenen Pfad: 597.505 ist mögliche Einzelfallautorisierung für Honorar-/Auslagenzahlung für bestimmte Rechtsleistungen, nicht blanket General License. 597.513 Zahlungsherkunft, fremde blockierte Interessen und eigene zehnjährige Aufzeichnungen nach (c) prüfen; 597.601 beseitigt diese nicht.",
+          "deliverables": [
+            "lizenzvermerk.md"
+          ]
+        },
+        {
+          "id": "bedingungen",
+          "text": "Passende Leistungskategorie, Zahlungsherkunft, Zeitraum und Bedingungen der General License werden konkret festgestellt oder gezielt erfragt.",
+          "deliverables": [
+            "lizenzvermerk.md"
+          ]
+        },
+        {
+          "id": "antrag",
+          "text": "Ungedeckte Handlungen werden für einen Specific-License-Antrag abgegrenzt; Antragstellung nicht mit Erlaubnis verwechselt.",
+          "deliverables": [
+            "mandatsbrief.md"
+          ]
+        },
+        {
+          "id": "vollstaendig",
+          "text": "Mandatsbrief enthält vollständige Sätze, erlaubten vorläufigen Umfang und offene Zahlungsfragen; keine Auszahlung oder Behördenmeldung ohne Freigabe.",
+          "deliverables": [
+            "mandatsbrief.md"
+          ]
+        }
       ]
     },
     {
@@ -219,12 +416,38 @@
       "target_skill": "ofac-sperrung-meldungen-dokumentieren",
       "request": "Ein US-Finanzinstitut hält nach den Fallvorgaben Mittel einer nur als FTO bezeichneten Organisation, hat den Erstbericht abgegeben und erhält später eine Freigabe. Die deutsche Kanzlei berät lediglich. Ihre Altvorlage sieht Löschung nach fünf Jahren vor. Ein zweiter Vorgang wurde nur nach Bankpolitik abgelehnt. Erstellen Sie Verfahrens- und Aufbewahrungsvermerk ohne tatsächliche Meldung.",
       "input_files": [],
-      "deliverables": ["meldungen-aufbewahrung.md"],
+      "deliverables": [
+        "meldungen-aufbewahrung.md"
+      ],
       "criteria": [
-        {"id": "pflichtiger", "text": "FTO-only über 597.201(b) zu 501.603 führen und Pflichtkreis nach 597.601 auf US-Finanzinstitut und dessen bezeichnete Funktionsträger begrenzen; Kanzlei nicht allein wegen Beratung zum Verpflichteten machen. Eigene Lizenzpflichten 597.513(c) unberührt lassen. Blocking, Rejection und Bankpolitik trennen.", "deliverables": ["meldungen-aufbewahrung.md"]},
-        {"id": "fristen", "text": "501.603/604 mit zehn US-Geschäftstagen, Jahresbestand 30. Juni bis 30. September sowie Freigabemeldung und Ausnahmen korrekt einordnen; aktuellen ORS-/Sonderweg prüfen.", "deliverables": ["meldungen-aufbewahrung.md"]},
-        {"id": "zehn-jahre", "text": "Fünfjahresvorlage verwerfen: 501.601 während der Sperre plus mindestens zehn Jahre nach Freigabe; sonst grundsätzlich zehn Jahre ab Transaktion. Wirksamkeit seit 12.03.2025 anhand Interim und Final Rule belegen, Altbestandsfragen begrenzen.", "deliverables": ["meldungen-aufbewahrung.md"]},
-        {"id": "keine-einreichung", "text": "Keine automatische Rückzahlung, Meldung oder Löschung und keine behauptete Einreichungsbestätigung. Private Bankablehnung allein löst keine gesetzliche Reject-Meldung aus.", "deliverables": ["meldungen-aufbewahrung.md"]}
+        {
+          "id": "pflichtiger",
+          "text": "FTO-only über 597.201(b) zu 501.603 führen und Pflichtkreis nach 597.601 auf US-Finanzinstitut und dessen bezeichnete Funktionsträger begrenzen; Kanzlei nicht allein wegen Beratung zum Verpflichteten machen. Eigene Lizenzpflichten 597.513(c) unberührt lassen. Blocking, Rejection und Bankpolitik trennen.",
+          "deliverables": [
+            "meldungen-aufbewahrung.md"
+          ]
+        },
+        {
+          "id": "fristen",
+          "text": "501.603/604 mit zehn US-Geschäftstagen, Jahresbestand 30. Juni bis 30. September sowie Freigabemeldung und Ausnahmen korrekt einordnen; aktuellen ORS-/Sonderweg prüfen.",
+          "deliverables": [
+            "meldungen-aufbewahrung.md"
+          ]
+        },
+        {
+          "id": "zehn-jahre",
+          "text": "Fünfjahresvorlage verwerfen: 501.601 während der Sperre plus mindestens zehn Jahre nach Freigabe; sonst grundsätzlich zehn Jahre ab Transaktion. Wirksamkeit seit 12.03.2025 anhand Interim und Final Rule belegen, Altbestandsfragen begrenzen.",
+          "deliverables": [
+            "meldungen-aufbewahrung.md"
+          ]
+        },
+        {
+          "id": "keine-einreichung",
+          "text": "Keine automatische Rückzahlung, Meldung oder Löschung und keine behauptete Einreichungsbestätigung. Private Bankablehnung allein löst keine gesetzliche Reject-Meldung aus.",
+          "deliverables": [
+            "meldungen-aufbewahrung.md"
+          ]
+        }
       ]
     },
     {
@@ -232,12 +455,39 @@
       "target_skill": "us-eu-rechtskonflikte-loesen",
       "request": "Ein deutsches Unternehmen will wegen eines US-Sanktionsrisikos kündigen. Noch ist unbekannt, welcher US-Rechtsakt einschlägig ist und ob er im Anhang der Verordnung 2271/96 steht. Die Geschäftsleitung bittet darum, ersatzweise einen angeblichen Qualitätsmangel als Grund zu nennen. Erstellen Sie einen rechtlich ehrlichen Vermerk und eine Anfrage an die zuständigen Fachberater.",
       "input_files": [],
-      "deliverables": ["rechtskonflikt.md", "fachanfrage.md"],
+      "deliverables": [
+        "rechtskonflikt.md",
+        "fachanfrage.md"
+      ],
       "criteria": [
-        {"id": "anhang", "text": "Person, konkreter Anhangsrechtsakt und Befolgungshandlung prüfen; keine pauschale Anwendung des Blocking Statute auf sämtliche US-Sanktionen.", "deliverables": ["rechtskonflikt.md"]},
-        {"id": "wahrheit", "text": "Erfundener Kündigungsgrund wird nicht formuliert; echte wirtschaftliche Gründe nur anhand tatsächlicher Belege.", "deliverables": ["rechtskonflikt.md"]},
-        {"id": "bank-melli", "text": "Bank Melli mit begrenzter Aussage zur Befolgung und Verhältnismäßigkeit einordnen. Amtliche Mitteilung nicht als gelesenen Volltext oder Quelle erfundener Randnummern ausgeben.", "deliverables": ["rechtskonflikt.md"]},
-        {"id": "genehmigung", "text": "Artikel 2 Information und Artikel 5 Genehmigung trennen; gezielte US-/EU-Fragen mit gleichem Sachstand formulieren, keine externe Anfrage ohne Freigabe.", "deliverables": ["fachanfrage.md"]}
+        {
+          "id": "anhang",
+          "text": "Person, konkreter Anhangsrechtsakt und Befolgungshandlung prüfen; keine pauschale Anwendung des Blocking Statute auf sämtliche US-Sanktionen.",
+          "deliverables": [
+            "rechtskonflikt.md"
+          ]
+        },
+        {
+          "id": "wahrheit",
+          "text": "Erfundener Kündigungsgrund wird nicht formuliert; echte wirtschaftliche Gründe nur anhand tatsächlicher Belege.",
+          "deliverables": [
+            "rechtskonflikt.md"
+          ]
+        },
+        {
+          "id": "bank-melli",
+          "text": "Bank Melli mit begrenzter Aussage zur Befolgung und Verhältnismäßigkeit einordnen. Amtliche Mitteilung nicht als gelesenen Volltext oder Quelle erfundener Randnummern ausgeben.",
+          "deliverables": [
+            "rechtskonflikt.md"
+          ]
+        },
+        {
+          "id": "genehmigung",
+          "text": "Artikel 2 Information und Artikel 5 Genehmigung trennen; gezielte US-/EU-Fragen mit gleichem Sachstand formulieren, keine externe Anfrage ohne Freigabe.",
+          "deliverables": [
+            "fachanfrage.md"
+          ]
+        }
       ]
     },
     {
@@ -245,13 +495,46 @@
       "target_skill": "ofac-fehler-rechtsschutz-bearbeiten",
       "request": "Zur getrennten Prüfung liegen vor: gemeldete Fehlblockierung wegen Schreibfehlers, echte OFAC-Listung, State-Department-FTO-Bezeichnung mit Federal-Register-Veröffentlichung vor zehn Tagen und eine Pre-Penalty Notice vom Oktober 2026 per E-Mail. Die Altvorlage routet alles zu 501.807 und nennt 30 Geschäftstage. Erstellen Sie Verfahrenszuordnung und begrenzte Erwiderung; Vollmacht ist noch offen.",
       "input_files": [],
-      "deliverables": ["verfahrenswege.md", "erwiderung.md"],
+      "deliverables": [
+        "verfahrenswege.md",
+        "erwiderung.md"
+      ],
       "criteria": [
-        {"id": "wege", "text": "501.806 Fehlblockierung, 501.807 Listungsüberprüfung und Part 505 Sanktionsverfahren getrennt behandeln; keine automatische Entsperrung durch Antrag.", "deliverables": ["verfahrenswege.md"]},
-        {"id": "fto-rechtsschutz", "text": "State-Department-FTO nicht zu 501.807 routen: 8 USC 1189(c)(1), bezeichnete Organisation, D.C. Circuit, 30 Tage ab Federal-Register-Veröffentlichung; Publikationsnachweis und US-Vertretung sichern. Petition nach (a)(4)(B) grundsätzlich erstmals zwei Jahre nach Bezeichnung, erneut zwei Jahre nach voriger Entscheidung, geänderte Umstände und 180-Tage-Entscheidungsfrist. Keine automatische Suspendierung.", "deliverables": ["verfahrenswege.md"]},
-        {"id": "part505", "text": "505.402 grundsätzlich 30 Tage, nicht 30 Geschäftstage; E-Mail-Auslöser, Wochenenden, US-Bundesfeiertage, mögliche Verlängerung und Vertretungsanforderung prüfen. 505.405 für initial Finding of Violation gesondert erkennen.", "deliverables": ["erwiderung.md"]},
-        {"id": "exxon", "text": "Exxon als kontextgebundenen Fair-Notice-Anker einordnen, nicht als heutige Erlaubnis zu blockierten Unterzeichnern; aktuelle FAQ 400 beachten.", "deliverables": ["erwiderung.md"]},
-        {"id": "status", "text": "Vollmacht und fehlende Belege offenhalten, bearbeitbare Erwiderung in vollständigen Sätzen liefern; keine Selbstoffenlegung, Löschung von Belegen oder Behördenkommunikation ohne Freigabe.", "deliverables": ["erwiderung.md"]}
+        {
+          "id": "wege",
+          "text": "501.806 Fehlblockierung, 501.807 Listungsüberprüfung und Part 505 Sanktionsverfahren getrennt behandeln; keine automatische Entsperrung durch Antrag.",
+          "deliverables": [
+            "verfahrenswege.md"
+          ]
+        },
+        {
+          "id": "fto-rechtsschutz",
+          "text": "State-Department-FTO nicht zu 501.807 routen: 8 USC 1189(c)(1), bezeichnete Organisation, D.C. Circuit, 30 Tage ab Federal-Register-Veröffentlichung; Publikationsnachweis und US-Vertretung sichern. Petition nach (a)(4)(B) grundsätzlich erstmals zwei Jahre nach Bezeichnung, erneut zwei Jahre nach voriger Entscheidung, geänderte Umstände und 180-Tage-Entscheidungsfrist. Keine automatische Suspendierung.",
+          "deliverables": [
+            "verfahrenswege.md"
+          ]
+        },
+        {
+          "id": "part505",
+          "text": "505.402 grundsätzlich 30 Tage, nicht 30 Geschäftstage; E-Mail-Auslöser, Wochenenden, US-Bundesfeiertage, mögliche Verlängerung und Vertretungsanforderung prüfen. 505.405 für initial Finding of Violation gesondert erkennen.",
+          "deliverables": [
+            "erwiderung.md"
+          ]
+        },
+        {
+          "id": "exxon",
+          "text": "Exxon als kontextgebundenen Fair-Notice-Anker einordnen, nicht als heutige Erlaubnis zu blockierten Unterzeichnern; aktuelle FAQ 400 beachten.",
+          "deliverables": [
+            "erwiderung.md"
+          ]
+        },
+        {
+          "id": "status",
+          "text": "Vollmacht und fehlende Belege offenhalten, bearbeitbare Erwiderung in vollständigen Sätzen liefern; keine Selbstoffenlegung, Löschung von Belegen oder Behördenkommunikation ohne Freigabe.",
+          "deliverables": [
+            "erwiderung.md"
+          ]
+        }
       ]
     }
   ],
@@ -259,34 +542,74 @@
     "method": "desk_review",
     "verdict": "revised",
     "reason": "Eigenständiger kompakter Prüfablauf mit echten Verzweigungen für Identität, Eigentum, Lizenzen und fertige Dokumente.",
-    "changes": ["50-Prozent-Kaskade ausdrücklich", "Zehnjährige Aufbewahrung seit März 2025", "Part 505 und unterschiedliche Fristen", "FTO-only nach Part 597 und State-Department-Rechtsschutz", "Nur entscheidende Rückfragen"],
+    "changes": [
+      "50-Prozent-Kaskade ausdrücklich",
+      "Zehnjährige Aufbewahrung seit März 2025",
+      "Part 505 und unterschiedliche Fristen",
+      "FTO-only nach Part 597 und State-Department-Rechtsschutz",
+      "Nur entscheidende Rückfragen"
+    ],
     "sha256": "c6fbb110bca56e6594c766bb0e46ef04a6f8b57de1616baa2363a2bf760dce86"
   },
   "workshop_review": {
     "method": "desk_review",
     "verdict": "revised",
     "reason": "Fachspezifischer Ablauf für Unternehmen und deutsche Kanzleien mit begrenzten Gerichtsankern, Fehlerwegen und ausformulierten Folgeprodukten.",
-    "changes": ["US-Bezug nicht aus Dollar ableiten", "FTO-only mit Part 597 und begrenztem Pflichtkreis", "597.505/513 neben 594.506/517", "FTO-Rechtsschutz nach 8 USC 1189 statt 501.807", "Aktuelle Verfahren und Quellenstand begrenzen", "Bank Melli nur mit tatsächlichem Quellenstatus"],
-    "sha256": "61bb997f74d5314f600a400adb99e3490edb33e687ada9880e193a447b513844"
+    "changes": [
+      "US-Bezug nicht aus Dollar ableiten",
+      "FTO-only mit Part 597 und begrenztem Pflichtkreis",
+      "597.505/513 neben 594.506/517",
+      "FTO-Rechtsschutz nach 8 USC 1189 statt 501.807",
+      "Aktuelle Verfahren und Quellenstand begrenzen",
+      "Bank Melli nur mit tatsächlichem Quellenstatus"
+    ],
+    "sha256": "06fd39d0539c99e46e5f6c17114d6cf60150fa16a8b1794f93c9e55075bf8bb1"
   },
   "focus_review": {
     "method": "desk_review",
     "reviewed_on": "2026-10-21",
     "verdict": "revised",
     "reason": "Hauptskill und Hauptproblem-Prompt bearbeiten einen angehaltenen Vorgang bis zum erforderlichen Schreiben; ein Treffer löst keine automatische Meldung oder Zahlung aus.",
-    "changes": ["Bankstatus vor Verfahrenswahl", "Gezielte Fachschritte statt Vollkatalog", "FTO-only und State-Department-Rechtsschutz getrennt", "Antworten in denselben Entwurf", "Fiktive Treffer strikt isoliert"],
+    "changes": [
+      "Bankstatus vor Verfahrenswahl",
+      "Gezielte Fachschritte statt Vollkatalog",
+      "FTO-only und State-Department-Rechtsschutz getrennt",
+      "Antworten in denselben Entwurf",
+      "Fiktive Treffer strikt isoliert"
+    ],
     "prompt_path": "us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md",
     "skill_path": "us-sanktionspruefer/skills/us-sanktionsmandat-steuern/SKILL.md",
     "prompt_sha256": "62a58fb5206ae9e0144a3c23bdb3db92b00b9ebe842a5ce6791c87c63fb3af27",
-    "skill_sha256": "c507641fa59791f1b58a1a39faa28dafd4e49c1f2e68cd1058dc357a6b14993d"
+    "skill_sha256": "7626d2350917e0cc6ed489f86ab7ec6ceb98bdb6da06ff583c22790e1e72e278"
   },
   "prompt_editorial_review": {
     "method": "desk_review",
     "date": "2026-10-21",
     "opening_change": "Geschäft, Zahlung oder Mandat und benötigtes Dokument stehen vor Methodenlisten. Fachlich passende gerichtliche Grenzen erscheinen bereits im Einstieg; Normen sind nach Funktion geordnet.",
-    "norms": ["50 USC 1701 ff.", "31 CFR Chapter V, konkretes Sanktionsprogramm", "31 CFR 501.601 bis 501.604", "31 CFR 501.801 und 501.806 bis 501.807", "31 CFR 505.402 und 505.405", "31 CFR 594.506 und 594.517", "31 CFR 597.201(b), 597.601, 597.505 und 597.513", "18 USC 2339B", "8 USC 1189(c)(1) und (a)(4)(B)", "Verordnung EG 2271/96, Artikel 2 und 5 samt Anhang"],
-    "remaining_limits": ["Redaktionelle Durchsicht, kein Live-Modelltest und keine Erfolgsquote", "Aktuelle Listen, konkrete Lizenzen und Programme bei jedem relevanten Vorgang erneut prüfen", "Bank Melli nur amtliche Mitteilung und Register verifiziert; Volltext vor tragendem Schriftsatzzitat lesen", "Keine allgemeine Verfügbarkeit von Datenbanken, Behördenzugängen oder Ausführungswerkzeugen", "US-/EU-Fachberatung bei Zuständigkeits- und Normkonflikten"],
-    "files": ["us-sanktionspruefer/us-sanktionspruefer-werkstatt.md", "us-sanktionspruefer/us-sanktionspruefer-schnellstart.md", "us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md"],
+    "norms": [
+      "50 USC 1701 ff.",
+      "31 CFR Chapter V, konkretes Sanktionsprogramm",
+      "31 CFR 501.601 bis 501.604",
+      "31 CFR 501.801 und 501.806 bis 501.807",
+      "31 CFR 505.402 und 505.405",
+      "31 CFR 594.506 und 594.517",
+      "31 CFR 597.201(b), 597.601, 597.505 und 597.513",
+      "18 USC 2339B",
+      "8 USC 1189(c)(1) und (a)(4)(B)",
+      "Verordnung EG 2271/96, Artikel 2 und 5 samt Anhang"
+    ],
+    "remaining_limits": [
+      "Redaktionelle Durchsicht, kein Live-Modelltest und keine Erfolgsquote",
+      "Aktuelle Listen, konkrete Lizenzen und Programme bei jedem relevanten Vorgang erneut prüfen",
+      "Bank Melli nur amtliche Mitteilung und Register verifiziert; Volltext vor tragendem Schriftsatzzitat lesen",
+      "Keine allgemeine Verfügbarkeit von Datenbanken, Behördenzugängen oder Ausführungswerkzeugen",
+      "US-/EU-Fachberatung bei Zuständigkeits- und Normkonflikten"
+    ],
+    "files": [
+      "us-sanktionspruefer/us-sanktionspruefer-werkstatt.md",
+      "us-sanktionspruefer/us-sanktionspruefer-schnellstart.md",
+      "us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md"
+    ],
     "decisions": [
       {
         "citation": "Fifth Circuit, 26.11.2024, No. 23-50669, Van Loon v. Department of the Treasury",
@@ -328,9 +651,25 @@
   "prompt_workflow_review": {
     "method": "desk_review",
     "date": "2026-10-21",
-    "opening_modes": ["Leerer Einstieg: Vorgang und benötigtes Dokument gezielt klären", "Vollständige Akte: direkt Bankstatus, Identität und betroffene Handlung prüfen", "Neue Antwort: denselben Entwurf fortsetzen und nur betroffene Feststellungen ändern"],
+    "opening_modes": [
+      "Leerer Einstieg: Vorgang und benötigtes Dokument gezielt klären",
+      "Vollständige Akte: direkt Bankstatus, Identität und betroffene Handlung prüfen",
+      "Neue Antwort: denselben Entwurf fortsetzen und nur betroffene Feststellungen ändern"
+    ],
     "continuation": "Jeder Fachschritt liefert begrenzte Feststellungen und einen ausformulierten Dokumententeil an den Hauptauftrag zurück. Bei Rechercheausfall werden offene Belege benannt, nicht Ausführung oder Negativtreffer erfunden.",
     "enrichment": "50-Prozent-Kaskade, Kontrollgrenzen, juristische Dienstleistungen und Vergütung, FTO-only/Part 597 neben SDGT, State-Department-Rechtsschutz, Van-Loon-Scope, Blocking/Reject, zehn Jahre Aufbewahrung sowie Part 505 werden getrennt bearbeitet.",
     "limits": "Desk-Review der geschriebenen Anweisungen und Prüffälle, keine beobachtete Auswahlgüte oder Garantie für externe Oberflächen. Reale Meldungen und Zahlungen bleiben freigabepflichtig."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "us-sanktionspruefer/skills/us-sanktionsmandat-steuern/SKILL.md",
+      "us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md",
+      "us-sanktionspruefer/us-sanktionspruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

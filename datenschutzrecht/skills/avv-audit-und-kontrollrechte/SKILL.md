@@ -22,7 +22,7 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
 - Art. 32 DSGVO: TOM-Pflicht, die Audit-Grundlage ist.
 - Art. 42, Art. 43 DSGVO: Zertifizierungen und Prüfstellen.
 - Art. 40 DSGVO: Verhaltensregeln (Codes of Conduct).
-- § 17 UWG, § 203 StGB: Schutz von Geschäftsgeheimnissen und Berufsgeheimnis bei Audit.
+- §§ 2, 4, 23 GeschGehG, § 203 StGB: Schutz von Geschäftsgeheimnissen und Berufsgeheimnis bei Audit.
 
 ## Ablauf / Checkliste
 
@@ -99,6 +99,6 @@ Audit-Klausel:
 
 - Art. 28 Abs. 3 lit. h DSGVO.
 - Art. 32, Art. 40, Art. 42, Art. 43 DSGVO.
-- § 17 UWG, § 203 StGB, § 43a Abs. 2 BRAO.
+- §§ 2, 4, 23 GeschGehG, § 203 StGB, § 43a Abs. 2 BRAO.
 - ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, BSI C5:2020.
 - Zitierweise: `../../../references/zitierweise.md`.

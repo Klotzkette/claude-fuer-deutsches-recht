@@ -209,6 +209,16 @@
       "Angebotsdaten, Nachweise und Kalkulation verbinden.",
       "Beschaffungsrahmen und Bindung in den fortgeschriebenen Arbeitsstand übernehmen."
     ],
-    "sha256": "a99c22fa0eb3419afa7dc37147bf2109f74cb40026530696322107077400fbac"
+    "sha256": "96b07536d82a99c95c5d04193c7dc7ff075701e84ae5875dcb349429d48d3b0b"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

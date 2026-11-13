@@ -116,7 +116,7 @@
       "Unbrauchbaren Kontaktweg und ausdrückliche Preisgrenze gezielt intern klären; neue Kanzleientscheidung bis zur vollständigen Antwortdatei umsetzen.",
       "Redaktion 16.10.2026: Interne Grenzen für Absage und Honorarauskunft früh ergänzt, ohne Urteilsblock in der Empfänger-E-Mail zu verlangen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "a0676495dc94e9096140a54efb4af400e780a3432a6075785e268769206fc09f"
+    "sha256": "a08fb9d6f03c13886f05cd383af56d0fdd7ecaa7c66cd31537557cbfcb188a8a"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -165,5 +165,15 @@
         "sha256": "cc502da074d57fe21949c3ef4ffffb0f6740e8a99895a63c6a1a8c081b217bf4"
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

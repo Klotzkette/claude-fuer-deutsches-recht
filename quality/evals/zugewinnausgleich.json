@@ -178,7 +178,7 @@
       "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt.",
       "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
     ],
-    "sha256": "406169921a1f3077ccdd420dc5c8cde6100a920cbe880ff4595fe8f064459e9a",
+    "sha256": "06e622084fe1a35680c0eefde15de38afb836bb594d472c0223313ba9ee89eef",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -539,7 +539,7 @@
     "prompt_path": "zugewinnausgleich/zugewinnausgleich-hauptproblem.md",
     "prompt_sha256": "9a00ce7c71c4de8845e97bd8fe7bf57066ab4bd3e0973b6da96edcf73d9fdc2f",
     "skill_path": "zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md",
-    "skill_sha256": "43c91f5d982fd17da16a26f8a0ad6eb1330ce05764fd76ff95665d86e8c59442"
+    "skill_sha256": "82fcc92f29ab7a67b2bb78589d0fbd890b24b97debd11043b720da1d5928cfbf"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -644,5 +644,17 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md",
+      "zugewinnausgleich/zugewinnausgleich-hauptproblem.md",
+      "zugewinnausgleich/zugewinnausgleich-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

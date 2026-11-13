@@ -312,7 +312,7 @@
       "Hauptüberschrift und 25 dezimale Kapitel in eindeutige Markdown-Hierarchie gesetzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Prüfungsbericht, Vertragsklausel und Transaktionsentscheidung werden konkret benannt; Betriebsübergang und Offenlegung sind eng an ihren jeweiligen Fall gebunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "0ab4d292626bebfa0f7d36a2fc5a36dbe0c12790c0475050e89aa789324a3f5b"
+    "sha256": "e38eb457dbd422f720e25c35cdb5c7e8269143b81acbb74474a476ce6be106c6"
   },
   "focus_review": {
     "method": "desk_review",
@@ -325,7 +325,7 @@
     "prompt_path": "due-diligence/due-diligence-hauptproblem.md",
     "skill_path": "due-diligence/skills/due-diligence-steuern/SKILL.md",
     "prompt_sha256": "c6e35c7f10df243e55cd7abbbcf74ea1b7f7858c1a2210f4c01ac39dcc2b2a1e",
-    "skill_sha256": "7cb3dbb5b47b197b5f136954c2f326adc3980d804bd77a299d457b276814a5c2"
+    "skill_sha256": "cceb614b06c5776dd4e784f6b74554d5f198e9c92127c825fa00d23e233c876a"
   },
   "prompt_workflow_review": {
     "date": "2026-10-10",
@@ -372,5 +372,17 @@
       "Historische Vertragsfassungen und weitere Spezialmaterien müssen im konkreten Mandat erneut geprüft werden.",
       "Die 20 Darlehensfälle bilden keine repräsentative Stichprobe von 1000 Forderungen."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "due-diligence/due-diligence-hauptproblem.md",
+      "due-diligence/due-diligence-werkstatt.md",
+      "due-diligence/skills/due-diligence-steuern/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

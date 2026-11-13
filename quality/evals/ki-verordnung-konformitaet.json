@@ -20,7 +20,7 @@
       "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt.",
       "Redaktion 16.10.2026: Konformitätsweg, Nachweisplan und Grenze des Managementzertifikats statt austauschbarer Einleitung; Nummer 11.9 zu 11.5 berichtigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "d6ffa3376107242d6621b6dba8574f68581ed057c9dad2b76e9925b7fa5869c5"
+    "sha256": "fb17efbb2a14c248c77838a86c0bff052f6982d4d2bca73db723c9883517ef87"
   },
   "selection": {
     "target_skill": "konformitaetsfrage-loesen",
@@ -291,7 +291,7 @@
     "prompt_path": "ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.md",
     "skill_path": "ki-verordnung-konformitaet/skills/konformitaetsfrage-loesen/SKILL.md",
     "prompt_sha256": "c365859747b54f27bf8692b543593234fcabc1e3249577ea930a7033764f2aa0",
-    "skill_sha256": "fdce8278a536067893c62d70d8aa908f6c6d599e6d5112ec82abb6e0a73e44a7"
+    "skill_sha256": "7938360bdf37400f3fb1413ea04324b7015c3cf36202b5ca311c247c6a2f7730"
   },
   "prompt_workflow_review": {
     "method": "desk_review",
@@ -341,5 +341,17 @@
       "Kein Normvolltext oder konkreter Amtsblatt-Referenzakt als geprüft behauptet.",
       "Kein ausgeführter Modelltest, technischer Systemtest oder Portalvorgang behauptet."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.md",
+      "ki-verordnung-konformitaet/ki-verordnung-konformitaet-werkstatt.md",
+      "ki-verordnung-konformitaet/skills/konformitaetsfrage-loesen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

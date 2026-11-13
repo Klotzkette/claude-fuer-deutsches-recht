@@ -83,7 +83,7 @@
       "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Brief erklären und konkrete Antwort erstellen stehen vor der Verfahrensbeschreibung; Anhörung, Bescheid und wirksame Nachholung werden auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "9ca57bf3adac2d9f040b9518336f16913c29d84e67864840370d8483838d8234"
+    "sha256": "6c96224d6a7dc31d3741e958354408875613a70dddda8c28182d2534faaaeb74"
   },
   "selection": {
     "positive": [
@@ -180,5 +180,15 @@
       "search_2026": "Keine passenden Ergebnisse der gezielten amtlichen 2026-Suche zu Anhörung und Äußerungsfrist im Sozialverwaltungsverfahren.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -65,7 +65,7 @@
       "Zwei mögliche nationale Ergebnisse als Relevanzprobe, Partei gegenüber vorlegendem Gericht, bindender Unionsakt gegenüber Durchführung, Rechtsfehler gegenüber Tatsachenrüge und konkret drohender Eilschaden.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Bestellter Schriftsatz und konkrete Verfahrenslage stehen vor der Zuständigkeitsübersicht; Vorlagepflicht wird mit ihren begrenzten Ausnahmen erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "dc647efd9d0260c46b06acbe26312e373e9a45ebf8de4af4bdf5412c0115681b"
+    "sha256": "7423dadb1043ab123a34191fd2ba32e13322ec3a60c5210f898c848eba0706ff"
   },
   "selection": {
     "positive": [
@@ -149,5 +149,15 @@
     "continuation": "Unabhängiger nationaler Abweisungsgrund wird bekannt -> Entscheidungserheblichkeit der Vorlagefrage und Vorlageanregung ändern; neuer Zustellbeleg -> Friststand korrigieren.",
     "enrichment": "Zwei mögliche nationale Ergebnisse als Relevanzprobe, Partei gegenüber vorlegendem Gericht, bindender Unionsakt gegenüber Durchführung, Rechtsfehler gegenüber Tatsachenrüge und konkret drohender Eilschaden.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "europaeisches-prozessrecht/europaeisches-prozessrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

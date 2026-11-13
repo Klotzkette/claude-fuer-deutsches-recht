@@ -293,7 +293,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Urteil vom 24.06.2026, IV ZR 141/25"
     ],
-    "sha256": "68ce2f7f680d817a22f8caa2865361ed3a73851750d65742a2406798ec120abe",
+    "sha256": "eff4d649965c11e902b6dad70da19c7325166f8749852f0992325d4887442f46",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -487,5 +487,16 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

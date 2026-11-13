@@ -119,7 +119,7 @@
       "IX ZB 55/04 auf ehemaligen Alleingesellschafter-Geschäftsführer und beschäftigungsbezogene Haftungsschulden begrenzt.",
       "Gläubiger statt Forderungspositionen gezählt; Regelinsolvenz nicht mit fehlender Restschuldbefreiung gleichgesetzt."
     ],
-    "sha256": "a7213415aebeb058461ebaba183f07b16004dafe9e6c2ec9888fed4d6e088106"
+    "sha256": "63bfe505b1a210c911e8023b62df772cc7208271bec3c030bad9150917f7606c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -147,5 +147,15 @@
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Kein pauschaler Ausschluss aller ehemaligen Geschäftsführer oder öffentlichen Forderungen; P-Konto-Grenzen, Formulare und Sonderattribute nicht vollständig neu verifiziert."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

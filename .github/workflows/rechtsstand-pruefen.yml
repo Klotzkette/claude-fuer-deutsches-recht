@@ -6,8 +6,11 @@ on:
       - '**/*.md'
       - 'scripts/validate-current-law-sentinels.py'
       - 'scripts/test-externe-hinweise.py'
+      - 'scripts/test-reviewed-law-corrections.py'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
+      - 'scripts/test-prompt-generator-excerpts.py'
+      - 'scripts/test-generate-megaprompt.py'
       - 'scripts/generate-*.py'
       - 'scripts/inject-*.py'
       - 'scripts/refine-*.py'
@@ -18,8 +21,11 @@ on:
       - '**/*.md'
       - 'scripts/validate-current-law-sentinels.py'
       - 'scripts/test-externe-hinweise.py'
+      - 'scripts/test-reviewed-law-corrections.py'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
+      - 'scripts/test-prompt-generator-excerpts.py'
+      - 'scripts/test-generate-megaprompt.py'
       - 'scripts/generate-*.py'
       - 'scripts/inject-*.py'
       - 'scripts/refine-*.py'
@@ -40,7 +46,13 @@ jobs:
           python-version: '3.12'
       - name: Fehlermuster und Altjahresabgrenzung testen
         run: python3 scripts/test-externe-hinweise.py
+      - name: Eigenständig geprüfte Norm- und Verfahrenskorrekturen testen
+        run: python3 scripts/test-reviewed-law-corrections.py
       - name: Generator-Hilfe ohne Dateiveränderung prüfen
         run: python3 scripts/test-generator-cli.py
+      - name: Fachtexte in generierten Prompts erhalten
+        run: |
+          python3 scripts/test-prompt-generator-excerpts.py
+          python3 scripts/test-generate-megaprompt.py
       - name: Quellenbestand auf bekannte Rückfälle prüfen
         run: python3 scripts/validate-current-law-sentinels.py

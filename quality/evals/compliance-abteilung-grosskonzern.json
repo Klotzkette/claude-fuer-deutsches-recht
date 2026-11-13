@@ -22,7 +22,7 @@
       "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen",
       "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt"
     ],
-    "sha256": "1dc86e644380111b2d4cd4f823bd4cf1b124ae3ad0823f408733dbe01b3152dd"
+    "sha256": "ab8f31e92143eafebca699446bfd0bd1ddff08e4baf1f9194de9bc47610cc77e"
   },
   "sources": [
     {
@@ -2254,5 +2254,15 @@
     "continuation": "Stücke 12 und 13 gegen benannte Originalbelege prüfen, abweichende Sichtweise und bestätigte Tatsache auseinanderhalten, vorhandenen Entwurf gezielt fortschreiben.",
     "enrichment": "Quellenprüfung und Freigabe mit getrennten Rollen, Widersprüchen und neuen Belegen geprobt.",
     "limits": "Desk Review aller Bearbeitungswege; gesonderte praktische Stichproben ersetzen keine Modellmessung aller Akten."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

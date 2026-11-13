@@ -413,7 +413,7 @@
       "Fracht- und Kaufansprüche getrennt",
       "Empfängerfähige Folgeprodukte"
     ],
-    "sha256": "b784a0f80581164a34add66855d5e891a0fd908526cc1c29319b4a85008fe1c0"
+    "sha256": "020b958a2d29a44c68e0427beba2fb50c8746d05f831be825b65ff882cf1408a"
   },
   "focus_review": {
     "method": "desk_review",
@@ -428,7 +428,7 @@
     "prompt_path": "un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md",
     "skill_path": "un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md",
     "prompt_sha256": "03e1b1ec3c28a71d2d6f6846079768dab93bfee84c77643c922f6646ba5f5397",
-    "skill_sha256": "fe3805f59e5ef5a337b2cf3bffff01f0dc30c69855ec74370bbf735ceec893d6"
+    "skill_sha256": "36b7299569fe62a6455acd393b9dfd6b4cdc0720a97144ecb633d76471131e54"
   },
   "prompt_editorial_review": {
     "date": "2026-10-18",
@@ -510,5 +510,17 @@
     "continuation": "Die zehn Fachwege liefern Belegfragen und konkrete Dokumente an denselben Hauptauftrag zurück. Ein Versand oder eine rechtsgestaltende Erklärung bleibt freigabepflichtig.",
     "enrichment": "Vertragsfassungen, technische Messbedingungen, Gefahrübergang, Rüge, Nachbesserung, Aufhebung, Berechnung und Fristsicherung werden fallbezogen verzweigt.",
     "limits": "Redaktionelle Prüfung und technische Regression, keine beobachtete Auswahlgüte oder pauschale Laufzeitzusage für fremde Oberflächen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md",
+      "un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md",
+      "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

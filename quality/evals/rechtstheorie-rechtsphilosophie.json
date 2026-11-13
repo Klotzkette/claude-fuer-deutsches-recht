@@ -83,7 +83,7 @@
       "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
       "2026-10-16, redaktioneller Einstiegsreview: Essay und Argumentrekonstruktion aus Original oder Paraphrase eröffnet; Theorie nicht an künstlicher Anspruchsprüfung gemessen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "eebe219ee33670f9c6778574aa0982b1ac03bb09147e709388eff980be42a372",
+    "sha256": "0f332add2929d0a6b73da932e5e673a6c36d19732789d49a088f5e4b80f406b6",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -124,5 +124,15 @@
     "continuation": "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
     "enrichment": "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

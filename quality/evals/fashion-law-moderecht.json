@@ -98,7 +98,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "Einstiegsredaktion 16.10.2026: Etikett, Werbung und Rechtekette voneinander abgegrenzt; Klimawerbung mit begrenztem Leitsatznachweis früh eingeordnet; redundanten Aufnahmehinweis gestrafft."
     ],
-    "sha256": "438993ade5392f4bc5fc32b4745de6742cdd9a858948ad2920349be90131a0ac",
+    "sha256": "9211f96555d0263ca947e4023fd4d46c33318ed965956c27e83348924e3cd36e",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
@@ -195,5 +195,15 @@
         "utf8_bytes": 7441
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -119,7 +119,7 @@
       "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt.",
       "Vertragsfassung, Nachtrag und Kündigung als unterschiedliche Aufträge erhalten. VII ZR 895/21 zum E-Mail-Zugang früh, ohne bloßes Absenden zum Nachweis zu erklären."
     ],
-    "sha256": "5fb8e0840b49c2e59ae0b8df634928e58d2769423d3c19a8989d2a88f04fc342",
+    "sha256": "deab03f16204a6129f1beb000d46b77061eefbcb8f45efcd4b6330ccfe272f4d",
     "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
@@ -190,5 +190,15 @@
       "vertragsrecht/vertragsrecht-werkstatt.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "vertragsrecht/vertragsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

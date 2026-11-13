@@ -103,7 +103,7 @@
       "Gegenbelege ändern Gefahrenprognose und Antrag; nach erledigtem Termin wird das fortbestehende Rechtsschutzziel geklärt.",
       "Anzeige, Routenalternative und Eilrechtsschutz als Arbeitswege; 1 BvR 2211/15 früh mit Schutz gegen Drittstörer, Polizeinotstand und ausdrücklich fehlender Durchführungsgarantie."
     ],
-    "sha256": "aec0d452ccc2409b0a4ddddeafd2f16335f30a72f07d7f479111154443e83113",
+    "sha256": "d2f1ff5ee268abf24f7dd5fa7de6be528f0602bd60c0b13b00eb03efc0aba201",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -159,5 +159,15 @@
       "search_2026": "Exakte amtliche Suche nach 2026-Polizeinotstand und Versammlungsfreiheit ohne passenden neuen Treffer.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "versammlungsrecht/versammlungsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -66,7 +66,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "2026-10-16, redaktioneller Einstiegsreview: Schriftsatzziel vor Bedienhinweise gesetzt; Verteidigungsfrist und dokumentbezogener Eingangsnachweis früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "699c3ed028aeae64bfe1f8c0c06ee7d8345d1b85dba775e7e79e884f144ab9c5",
+    "sha256": "c237d970f70a455a61b28bc97c1e98d27ddc09585aa68fa613f35d9d6cf23f1c",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -179,5 +179,15 @@
     "reference": "prozessrecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie private Schriftsatzhilfe von einem im Auftrag der Justiz eingesetzten entscheidungsunterstützenden System. Die Bezeichnung Recherchehilfe beweist nicht, dass tatsächlicher Entscheidungseinfluss fehlt.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "prozessrecht/prozessrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

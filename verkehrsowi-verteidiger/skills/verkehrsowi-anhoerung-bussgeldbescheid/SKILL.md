@@ -21,7 +21,7 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 
 1. **Anhörungsbogen erhalten?** — Unterschied zum Bussgeldbescheid: Anhörung ist Vorstadium; kein Bussgeldbescheid noch offen.
 2. **Schweigen oder Stellungnahme?** — § 55 OWiG: Betroffener muss auf Anhörung nicht reagieren; Schweigen kann nicht nachteilig gewertet werden.
-3. **Fahreridentifikation?** — Betroffener muss sich nicht als Fahrender identifizieren; Halter-Auskunft ist OWi-Pflicht (§ 31a StVG bei Halter-Anfrage), aber Fahrernennung ist freiwillig.
+3. **Fahreridentifikation?** — Betroffenen- und Zeugenstellung unterscheiden und die jeweiligen Aussage- und Auskunftsverweigerungsrechte prüfen. § 31a StVZO regelt die Fahrtenbuchauflage und begründet keine allgemeine Pflicht, sich selbst als Fahrer zu benennen.
 4. **Bussgeldbescheid bereits erlassen?** — Wenn ja: Einspruchsfrist 2 Wochen ab Zustellung (§ 67 Abs. 1 OWiG) prüfen.
 5. **Zustellungsfiktion prüfen?** — § 33 Abs. 1 OWiG i.V.m. §§ 177-182 ZPO; Einwurf-Einschreiben.
 
@@ -33,7 +33,7 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 - **§ 67 Abs. 1 OWiG** — Einspruch: 2 Wochen ab Zustellung des Bussgeldbescheids
 - **§ 67 Abs. 2 OWiG** — Beschraenkter Einspruch (nur Rechtsfolgen) möglich
 - **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
-- **§ 31a StVG** — Recht auf Fahrerauskunft (nur Halter-Auskunft, nicht Fahrernennung)
+- **§ 31a StVZO** — Fahrtenbuchauflage bei nicht möglicher Fahrerfeststellung nach Verkehrsverstoß; behördliche Ermittlungen, Ermessen und Verhältnismäßigkeit prüfen, keine automatische Sanktion des Schweigens.
 
 ## Anhörungsbogen — Strategie
 

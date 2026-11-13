@@ -95,7 +95,7 @@
       "Planindex und Änderungsgrund, Textform nach Paragraf 10, nicht abgerufene versus mangelhafte Leistung, Kostenbasis, Abschläge und Kontrolle verdeckter Bauteile.",
       "Einstiegsredaktion 16.10.2026: Abruf, Leistung und Honorar früh getrennt; Altvertrags-Mindestsatzentscheidung zeitlich und personell begrenzt."
     ],
-    "sha256": "db7a53ac51027a872b6fd44d6108d94ec56dc2089f1515a677ceeef5dfa82545"
+    "sha256": "b2f03e960e47f6c5199d2008ffedbfe106616d77579cedc71a87058e96649cdc"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -184,5 +184,15 @@
         "utf8_bytes": 20338
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

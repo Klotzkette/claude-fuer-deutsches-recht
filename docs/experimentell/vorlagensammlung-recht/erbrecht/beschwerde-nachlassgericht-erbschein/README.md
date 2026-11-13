@@ -18,7 +18,7 @@ Lizenz: Apache-2.0 OR MIT.
 
 ## Einschlägige Normen
 - § 58 FamFG (Statthaftigkeit), § 59 FamFG (Beschwerdeberechtigung: Beeinträchtigung in eigenen Rechten; Abs. 2: Antragszurückweisung)
-- § 61 Abs. 1 FamFG (Beschwerdewert über 600 EUR in vermögensrechtlichen Angelegenheiten)
+- § 61 Abs. 1 FamFG (Beschwerdewert über 1.000 EUR in vermögensrechtlichen Angelegenheiten)
 - § 63 FamFG (Beschwerdefrist ein Monat; Fristbeginn spätestens fünf Monate nach Erlass)
 - § 64 FamFG (Einlegung beim Ausgangsgericht, Form, Aussetzung der Vollziehung), § 65 FamFG (Begründung)
 - §§ 68, 69 FamFG (Abhilfe, Verfahren und Entscheidung des Beschwerdegerichts, Zurückverweisung)
@@ -64,3 +64,7 @@ Häufige Fehler: Erstens wird die Beschwerde direkt beim Oberlandesgericht einge
 
 ## Warnung
 Diese Vorlage ist ein Experiment — unverbindlich, keine Rechtsberatung. Niemand haftet für ihre Verwendung. Nutzung ausschließlich auf eigene Gefahr.
+
+## Zeitliche Anwendung des Beschwerdewerts
+
+Die aktuelle Wertgrenze des [§ 61 FamFG](https://www.gesetze-im-internet.de/famfg/__61.html) beträgt mehr als 1.000 EUR. Nach [§ 493 Abs. 6 FamFG](https://www.gesetze-im-internet.de/famfg/__493.html) bleibt bei bis einschließlich 31.12.2025 erlassenen Entscheidungen die frühere Grenze von mehr als 600 EUR maßgeblich. Den Erlasszeitpunkt anhand der Akte feststellen und die Vorlage entsprechend anpassen; eine Zulassung nach § 61 Abs. 2 und 3 bleibt gesondert zu prüfen. Für Familienstreitsachen und Verbundentscheidungen enthält § 493 Abs. 6 weitere Anknüpfungen an Verhandlungsschluss beziehungsweise schriftlichen Einreichungsschluss. Normabgleich: 13.11.2026.

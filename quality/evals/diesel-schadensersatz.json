@@ -301,7 +301,7 @@
     "changes": [
       "Einstiegsredaktion 16.10.2026, Batch 2: Fahrzeugbezogener Anspruch und gewünschtes Schreiben eröffnen den Prompt; redundante Modusaufnahme wurde entschärft, Sicherheits- und Fachzweige bleiben bestehen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "bb4a683fb3ee50ad838a62a29fb5d0f8542c7b65c098582905a48d868d80ae06"
+    "sha256": "7bee7fc6d6cd6d096d188c2d7a18c276a06b5ebae52656cdbd08a6e7f4aa72ce"
   },
   "prompt_editorial_review": {
     "date": "2026-09-30",
@@ -827,5 +827,15 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "diesel-schadensersatz/diesel-schadensersatz-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

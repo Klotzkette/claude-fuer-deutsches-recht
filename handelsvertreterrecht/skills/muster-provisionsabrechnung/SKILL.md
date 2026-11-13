@@ -70,7 +70,7 @@ Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
 Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
 Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
 Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
-Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 90 HGB) und Delkredere (§ 86b HGB)
 ergänzen den praxisrelevanten Rechtsrahmen.
 Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
 

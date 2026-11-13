@@ -46,7 +46,7 @@
       "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
       "2026-10-16, redaktioneller Einstiegsreview: Exegese und actio/exceptio aus belegter Zeitstufe eröffnet; Barbierfall als Juristentext statt Gerichtsurteil eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "7e1d494c6653e5e8ca6fa2b3b8d06ed0e936714aaf207b89e1517cb08b295b62",
+    "sha256": "ea4c39227cb8f96310c2371565ff5085b8e28a5b202c50696e4b2e5a0f51260b",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -131,5 +131,15 @@
     "continuation": "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
     "enrichment": "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "roemisches-recht/roemisches-recht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

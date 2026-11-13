@@ -146,7 +146,7 @@
       "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Grundbuch und gewünschte Erklärung führen unmittelbar zur Bearbeitung; Zinsanpassung wird von bloß nicht geltend gemachten Erhöhungen getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "77daf53701465589774a3946550936a23f84443e5ebe02b71acf6f0c84a214b1"
+    "sha256": "f2c9fbc3361562444bd8700786a47038cf702125640b14b3db12a720e660581b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -198,5 +198,15 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

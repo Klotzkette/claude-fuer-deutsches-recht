@@ -142,7 +142,7 @@ Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Sch
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
-| Werkstatt-Gesamtprompt (119 KB) | [`testakten/megaprompts/bieter-unternehmen.md`](../testakten/megaprompts/bieter-unternehmen.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md) |
+| Werkstatt-Gesamtprompt (125 KB) | [`testakten/megaprompts/bieter-unternehmen.md`](../testakten/megaprompts/bieter-unternehmen.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md) |
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -278,7 +278,7 @@ Der vollständige Katalog enthält 113 Skills. Für die normale Fallbearbeitung 
 Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plugin-ZIP enthalten.
 
 <details>
-<summary><strong>Alle 27 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
+<summary><strong>Alle 28 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
@@ -300,6 +300,7 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 | `references/LEGACY-SYSTEME-INTEGRATION.md` | [Ansehen](references/LEGACY-SYSTEME-INTEGRATION.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/LEGACY-SYSTEME-INTEGRATION.md) |
 | `references/OUTPUT-FORMAT.md` | [Ansehen](references/OUTPUT-FORMAT.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/OUTPUT-FORMAT.md) |
 | `references/QUELLEN-AKTUALITAET.md` | [Ansehen](references/QUELLEN-AKTUALITAET.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/QUELLEN-AKTUALITAET.md) |
+| `references/arbeitsoberflaeche-und-visualisierung.md` | [Ansehen](references/arbeitsoberflaeche-und-visualisierung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/arbeitsoberflaeche-und-visualisierung.md) |
 | `references/bundeswehrbeschaffung-bwbbg-2026.md` | [Ansehen](references/bundeswehrbeschaffung-bwbbg-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/bundeswehrbeschaffung-bwbbg-2026.md) |
 | `references/leitentscheidungen-anker.md` | [Ansehen](references/leitentscheidungen-anker.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/leitentscheidungen-anker.md) |
 | `references/methodik-vergaberecht.md` | [Ansehen](references/methodik-vergaberecht.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/methodik-vergaberecht.md) |

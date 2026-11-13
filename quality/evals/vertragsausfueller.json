@@ -52,7 +52,7 @@
       "Preisfreigabe mit Vereinbarungsstatus, Flächenkonflikt mit Anlagenänderung und Vertretungsnachweis mit konkretem Unterschriftsblock ausgearbeitet; dezimale Gliederung auch für Altvorlagen klargestellt.",
       "Freigegebene Falldaten kontrolliert eintragen, keine ungefragte Klauseländerung. V ZR 89/22 früh als begrenzter Grundstücksauslegungsanker, nicht als allgemeine Heilung fehlerhafter Datenübernahme."
     ],
-    "sha256": "f227795dcd5aebe7d18359b2689d3ebad085e43e665b3226b5ad1d4f7d3af762",
+    "sha256": "b47a1c7485d0500ca56d0c235326a99992a93d7dfd6059e4cfc31acbed804482",
     "reviewed_on": "2026-10-16"
   },
   "selection": {
@@ -185,5 +185,15 @@
         "sha256": "a4c0979dde92aede870a405ea9fcb5b7182348586bef068f0219efd543c1d1c3"
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "vertragsausfueller/vertragsausfueller-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

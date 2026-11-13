@@ -8,6 +8,8 @@
 
 Ein konkreter Fall ist der beste Einstieg. Wähle das passende Fachgebiet und einen Arbeitsweg:
 
+Bei komplexen Unterlagen helfen die Werkstätten mit fachlich passenden Zeitachsen, Vergleichen und Belegansichten. Unterstützt die verwendete Umgebung Interaktion, können daraus kleine Applets entstehen; eine Auswahl fließt anschließend in die Berechnung oder den laufenden Entwurf ein. [So funktionieren die visuellen Werkstätten](./docs/werkstatt-visualisierung.md).
+
 | Dein Vorhaben | Passender Einstieg |
 | --- | --- |
 | **Direkt an einem Fall arbeiten** | Einen [Mini-Prompt](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) als Markdown herunterladen und zusammen mit Auftrag und Unterlagen als Arbeitsanweisung verwenden. |

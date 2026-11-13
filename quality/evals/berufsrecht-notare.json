@@ -114,7 +114,7 @@
       "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung.",
       "16.10.2026: Amtsgeschäft und Mitwirkungsentscheidung vor abstrakten Berufspflichten; Unterlagenbezug nach Einfügung ausdrücklich wiederholt."
     ],
-    "sha256": "dd958c5b7b54dfac41bef12df01703e918fac3e37f30716aa74430871541e18a",
+    "sha256": "f7b62798075244677e3c117fccd094cdd707f5f1d20693851d07044203d8a720",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -378,5 +378,15 @@
         "anchor_or_exception": "Paragraf 14 BNotO, Paragraf 3 BeurkG; BGH 26.11.2012 NotSt(Brfg) 2/12 Rn. 8 bis 14: dieselbe Angelegenheit und Vorbefassung, nicht jede frühere Beratung und keine automatische Urkundennichtigkeit."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berufsrecht-notare/berufsrecht-notare-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

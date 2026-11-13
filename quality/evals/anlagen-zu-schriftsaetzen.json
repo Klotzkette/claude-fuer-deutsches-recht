@@ -75,7 +75,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten."
     ],
-    "sha256": "8482012553673ac0623e9888e94e6b0284ad28c1a9e578f50631604691983ff8",
+    "sha256": "c912c5943013734e68c7b44e165f08d600d6167a922f2aacd9c22f5bc15ae0c6",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -208,5 +208,15 @@
         "anchor_or_exception": "Paragraf 130a Absätze 3 und 5 ZPO; BAG 22.01.2025 7 ABR 23/23 Rn. 33 bis 36: qualifizierte Signatur bei delegierter Übermittlung; arbeitsgerichtlicher Kontext, gewöhnliche Anlagen gesondert."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

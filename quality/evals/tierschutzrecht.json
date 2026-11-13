@@ -62,7 +62,7 @@
       "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten.",
       "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill."
     ],
-    "sha256": "53b0d47b640f2995d2c3e1f0bd9a356762b2d64aeec54a957bbdb18f2b144d09",
+    "sha256": "cd6d8ad945b60d32adcc827d0d754a41486eed2753346f37bef20865517fe6fe",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
@@ -172,5 +172,15 @@
       "search_2026": "3 C 2.25 vom 23.04.2026 neu amtlich gelesen und ergänzt.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "tierschutzrecht/tierschutzrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

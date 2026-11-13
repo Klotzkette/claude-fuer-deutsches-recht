@@ -86,7 +86,7 @@
       "Sprachliche Unklarheit von fehlendem persönlichen Inhalt getrennt; politische Begleitmotive, allmählicher Wandel, konkrete Behördenzweifel, fremde Stellungnahmen und tatsächlicher Weiterleitungsstand vertieft.",
       "Redaktion 16.10.2026: Gewissensentscheidung mit allmählichem Wandel verknüpft; Anerkennung und Dienstpflichten getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "0ecaa4471d9de8345f21d54d5a8c37b8926617628db6ac9b821a8c93875ae5aa",
+    "sha256": "b6b9af177a50ad62a2dd39fe04a77d2cc9eaa38400d64fa29e7d8561f666e62b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -230,5 +230,15 @@
     "continuation": "Persönliche Erklärung zum Praktikumsjahr ändert in begruendung-kommentar.md Datum und Entwicklung; Eingangsnachweis ändert in sachstandsanfrage.md Verfahrensbezug und Auskunftsbegehren, ohne erneute Statusaufnahme.",
     "enrichment": "Nicht suggestive Fragen zu politischem Anlass und Gewissensgrenze, Umgang mit ungenauen Erinnerungen, frühere Schießausbildung als konkreter Zweifel, Grenzen dritter Beobachtungen, Protokollkorrektur und gezielte Antwort auf fehlenden Lebenslaufabschnitt.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -94,7 +94,7 @@
       "Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort.",
       "Redaktion 16.10.2026: Tatsächliche Austauschbarkeit vor methodischer Navigation verankert; historischen Produktmarkt nicht übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "ba4ff39028268860d84cfe0355ba3f48daa0b8a6444c700cac05964a515afc40"
+    "sha256": "2dfa187cdafbf90e5e602a9014e762930ff1f60adcc95225670d6a3b4e8d69bc"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -145,5 +145,15 @@
       "kartellrecht-marktabgrenzung-pruefung/skills/ssnip-test-anwendung/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

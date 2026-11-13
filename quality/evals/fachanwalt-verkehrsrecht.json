@@ -178,7 +178,7 @@
       "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "2fe872e76c87f248a7700b080c0cf2511323e36ec9320261fc4aa17751a0e8d0"
+    "sha256": "643a749fcc53feaac5440731fa66a58a2558c993f1bff0d71f12c55b91bc3f40"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -278,5 +278,16 @@
     ],
     "focus_scope": "Beide neuen Entscheidungen in Hauptproblem und Fokus-Skill als vorgeschaltete Abrechnungswahl/Wechselroute ergänzt; Werkstattrisiko nach VI ZR 253/22 bleibt eigene Prüfung.",
     "new_model_tests": false
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-hauptproblem.md",
+      "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

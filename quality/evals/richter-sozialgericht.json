@@ -93,7 +93,7 @@
       "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich.",
       "2026-10-16, redaktioneller Einstiegsreview: Gerichtliches Produkt für konkreten Zeitraum eröffnet; existenzielle Eile ohne automatische Leistungszusage eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "6d259079dd4b774d52553956ab8ec279a070e228f09e57b82a1a6fc342dd4596",
+    "sha256": "26c1503b6869bac702e074e75c1f65b134ca4957a1c5b8b624536a4267c94558",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -151,5 +151,15 @@
     "reference": "gerichtsplugins/richter-sozialgericht/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie bei der Anwendung für sozialgerichtliche Entscheidung technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

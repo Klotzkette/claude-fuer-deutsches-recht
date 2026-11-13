@@ -510,7 +510,7 @@
       "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert.",
       "16.10.2026: Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten."
     ],
-    "sha256": "41a7b7d7c8dc15551e4fef016ba871fc8b969bd5882d919160843eea631ffc92",
+    "sha256": "e9ebd79c3352e02b8010634a4d3a7824254f92c97ed8743f339c41465f417b64",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -534,5 +534,15 @@
         "anchor_or_exception": "Mini: Paragraf 642 BGB, BGH 26.10.2017 VII ZR 16/17, keine beliebige spätere Kostensteigerung. Werkstatt: Paragrafen 650b, 650c BGB und Paragraf 2 Absatz 3 Nummer 2 VOB/B; BGH 08.08.2019 VII ZR 34/18, nicht automatisch auf Absätze 5 und 6 übertragen."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

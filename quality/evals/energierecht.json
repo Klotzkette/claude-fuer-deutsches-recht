@@ -125,7 +125,7 @@
       "Zählerwechsel, Preisperioden und Gutschriften, technische Anschlussgründe gegenüber unvollständigem Antrag, Speicher-Nutzungsmodell, PPA-Risiken und Verbraucherbeschwerde mit zugangsbezogener Vierwochenfrist.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Rechnung, Netzanschluss oder Vertragsstreit führen zum passenden Schreiben; Verbrauchssprung und Einwendungsrecht werden eng verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "42f278a4ae7adfa78f3cb3b85f458863b1a96d2f4e2af317561ebc66da6caefe"
+    "sha256": "66250bc75bd9fde37e75f06e925b3fc6c0c6fb12fa032b0c022c099e94bc7662"
   },
   "selection": {
     "positive": [
@@ -236,5 +236,15 @@
         "sha256": "63db04e1bd43e5511aa45d820ebd98f549fd8aa396877ffb5f2efbdce151452f"
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "energierecht/energierecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -69,7 +69,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — Einstellung nach § 153a StPO oder Einstellungsantrag | Einstellungsantrag nach Schema; Template unten |
 | Variante A — Mandant will Freispruch nicht bloss Einstellung | Vollstaendige Verteidigung; Einstellung nur als Hilfsantrag |
-| Variante B — Auflage nach § 153a ZPO zu hoch verhandelbar | Auflagenverhandlung vor Annahme; Reduzierung anstreben |
+| Variante B — Auflage nach § 153a StPO zu hoch verhandelbar | Auflagenverhandlung vor Annahme; Reduzierung anstreben |
 | Variante C — Einstellung wuerde Vorstrafeneintrag vermeiden | Einstellung § 153 ohne Auflage anstreben; § 153a als Rueckfall |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.

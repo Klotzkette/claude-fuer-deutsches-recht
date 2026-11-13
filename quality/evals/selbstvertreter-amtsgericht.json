@@ -95,7 +95,7 @@
       "Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen.",
       "2026-10-16, redaktioneller Einstiegsreview: Verständliches Parteischreiben eröffnet; Verhandlungswunsch nicht als Ersatz für Verteidigungsfrist oder Beweis dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "9980fe4f93977630858f197c3ac405417b0216f7d30b58b08ab069b8533cdbab",
+    "sha256": "1431b478a2f785b8dc20408e4249885efa4bcca7accb2958ca081511418d749c",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -141,5 +141,15 @@
     "continuation": "Nachgewiesene Teilzahlung verändert Restbetrag und Begründung; eine Fristverlängerung wird nur ihrem tatsächlichen Inhalt nach in den Verfahrensplan übernommen.",
     "enrichment": "Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

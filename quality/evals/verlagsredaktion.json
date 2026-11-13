@@ -60,7 +60,7 @@
       "Konkrete Stellungnahmeanfrage, begründbarer Antworttermin, fachlicher Autorenwiderspruch und kanalbezogene Korrekturfortsetzung ergänzt.",
       "Endfassung einer Meldung oder eines Manuskripts als Zweck; 1 BvR 573/25 trennt presserechtliche Sorgfalt von strafprozessualer Verdachtsstufe, ohne Mindesttatsachen und Anhörung aufzugeben."
     ],
-    "sha256": "fe602b79386e801cf68a0f30fb5acb19e3974da6e6f0fb1ec721ad11850874fa",
+    "sha256": "49eef235b421bd76696f0d416340a598802b0a5e1776dd2832e86f49ca2c0e34",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -156,5 +156,15 @@
     "reference": "verlagsredaktion/references/ki-normen-und-fallpruefung.md",
     "focus": "Halten Sie fest, wer welche Passage in welcher Fassung geprüft und die redaktionelle Verantwortung übernommen hat. Eine bloße Schlussfreigabe ohne erkennbaren Gegenstand ist als Beleg gesondert zu würdigen.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verlagsredaktion/verlagsredaktion-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

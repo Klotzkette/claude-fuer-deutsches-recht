@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Normen
 
 - **Art. 14, 15 MAR** — Insiderhandelsverbot; Marktmanipulation; Expert der Insiderinfos hat darf diese nicht weitergeben; Kaeufer darf keine Insiderinfos intentional bekommen
-- **§ 17 UWG** — Geschäftsgeheimnis des Zielunternehmens; ehemaliger Mitarbeiter darf keine Geheimnisse offenbaren
+- **§§ 2, 4, 23 GeschGehG** — Geschäftsgeheimnis des Zielunternehmens; bei ehemaligen Beschäftigten konkrete vertragliche Bindungen, Geheimnisqualität, erlaubte Handlungen und strafrechtlichen Tatbestand getrennt prüfen
 - **Art. 6 I DSGVO** — Rechtsgrundlage für Aufnahme und Verarbeitung von Expert-Call-Gespraechen
 - **§ 201 StGB** — Verletzung der Vertraulichkeit des Wortes; Aufnahme ohne Einwilligung verboten in Deutschland
 
@@ -140,7 +140,7 @@ Nach dem Call:
 ## Schritt-für-Schritt-Workflow
 
 1. **Expert identifizieren** — via Expert-Network (GLG, Guidepoint, Glenbrook) oder eigenes Netzwerk
-2. **Compliance-Vorpruefung** — aktuelle Insider-Status prüfen; ex-Mitarbeiter: § 17 UWG-Abgrenzung
+2. **Compliance-Vorpruefung** — aktuelle Insider-Status prüfen; ex-Mitarbeiter: §§ 2, 4, 23 GeschGehG-Abgrenzung
 3. **Call-Vorbereitung** — Fragenkatalog; Themen-Scope; Grenzen definieren
 4. **NDA/Expert-Protokoll** — Einwilligung schriftlich; Aufnahme-Einwilligung
 5. **Call durchfuehren** — strukturiert; Protokoll; bei Insider-Alarm: Unterbrechung
@@ -178,12 +178,12 @@ INSIDER-COMPLIANCE-CHECK:
 
 - Insider-Information im Call erhalten und nicht gemeldet → Art. 14 MAR; Strafbarkeit
 - Aufnahme ohne Einwilligung → § 201 StGB; Verwertbarkeit fraglich
-- § 17 UWG: Geschäftsgeheimnis der Zielgesellschaft weitergegeben → UWG-Klage; Schadensersatz
+- Geschäftsgeheimnis der Zielgesellschaft unbefugt weitergegeben: Voraussetzungen nach §§ 2, 4 GeschGehG prüfen; Unterlassung und Beseitigung nach § 6 sowie Schadensersatz nach § 10 GeschGehG getrennt von einer möglichen Strafbarkeit nach § 23 prüfen. Ausnahmen des § 5 berücksichtigen.
 - Transkript in DD-Report ohne Anonymisierung → DSGVO-Risiko; Persoenlichkeitsrechtsverletzung
 
 ## Quellen
 
-- Art. 14, 15 MAR; § 17 UWG; § 201 StGB; Art. 6 DSGVO
+- Art. 14, 15 MAR; §§ 2, 4, 23 GeschGehG; § 201 StGB; Art. 6 DSGVO
 - Ohly/Sosnitza UWG § 17; Assmann/Schneider/Muelbert WpHG Art. 14 MAR
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

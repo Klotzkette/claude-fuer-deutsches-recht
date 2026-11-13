@@ -1,0 +1,2827 @@
+{
+  "schema_version": 1,
+  "plugins": {
+    "agb-recht-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "verbraucher",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Agb Recht Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "agb-werkstatt": {
+      "entry_skills": [
+        "agb-hauptproblem-loesen",
+        "agb-auftrag-klaeren"
+      ],
+      "theme": "bgb",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Aus Geschäftsunterlagen vollständige AGB erstellen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "aktenaufbereiter-strafrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "strafjustiz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Aktenaufbereiter Strafrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "aktenauszug-gerichtsverfahren": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "zivilprozess",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Aktenauszug Gerichtsverfahren“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "aktienrecht-hauptversammlung-ag-se": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "aktg_hv",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Aktienrecht Hauptversammlung AG SE“; vorhandener Einstieg bleibt erhalten."
+    },
+    "anlagen-zu-schriftsaetzen": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "zivilprozess",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Anlagen Zu Schriftsätzen“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "antidiskriminierung-agg": {
+      "entry_skills": [
+        "agg-fall-zum-schreiben-fuehren"
+      ],
+      "theme": "arbeits",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „AGG-Fall zum nächsten Schreiben führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "anwaltschaft-generell": {
+      "entry_skills": [
+        "mandat-bis-zum-schreiben-bearbeiten"
+      ],
+      "theme": "anwaltschaft-generell",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Mandat bis zum Schreiben bearbeiten“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "apothekenrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "apotheke",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Apothekenrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "arbeitsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "arbeits",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Arbeitsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "arbeitsrecht-kuendigungsschutzklagewerkstatt": {
+      "entry_skills": [
+        "kuendigungsschutzmandat-steuern"
+      ],
+      "theme": "forderung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kündigungsschutzmandat bis zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "arbeitszeugnis-analyse": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "kaltstart-triage"
+      ],
+      "theme": "zeugnis",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Arbeitszeugnis Analyse“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "arbeitszeugnisgenerator": {
+      "entry_skills": [
+        "arbeitszeugnis-erstellen"
+      ],
+      "theme": "zeugnis",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Arbeitszeugnis erstellen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "arbeitszeugnispruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "zeugnis",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Arbeitszeugnisrechtlich begründen“; vorhandener Einstieg bleibt erhalten."
+    },
+    "aufsichtsrat-ag-se-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Aufsichtsrat AG SE Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "aussenwirtschaft-zoll-sanktionen": {
+      "entry_skills": [
+        "aussenwirtschaft-kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "transport_handel",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "bank-rechtsabteilung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "bank",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bank Rechtsabteilung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "barrierefreiheit-web-checker": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "barrierefreiheit",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Barrierefreiheit Web Checker“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "bautraegervertrag-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "bau",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bauträgervertrag Prüfer“; vorhandener Einstieg bleibt erhalten."
+    },
+    "bautraegervertragspruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "bau",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bauträgervertragsprüfer“; vorhandener Einstieg bleibt erhalten."
+    },
+    "bauunternehmer-einkauf": {
+      "entry_skills": [
+        "einkauf-steuern",
+        "bedarf-und-beschaffungsstrategie"
+      ],
+      "theme": "bau",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Einkaufsvorgang steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "bauvergabe-bieter": {
+      "entry_skills": [
+        "bauangebot-steuern",
+        "bid-no-bid-entscheiden"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "bauvergabe-nachtragsmanagement": {
+      "entry_skills": [
+        "nachtragsmanagement-hauptproblem",
+        "vertragsbaseline-pruefen"
+      ],
+      "theme": "bau",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Nachtragsmanagement nach dem Zuschlag“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "bauvergabe-rechtsschutz": {
+      "entry_skills": [
+        "bauvergaberechtsschutz-steuern"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "bauvergabe-unterlagen": {
+      "entry_skills": [
+        "bauvergabe-unterlagen-steuern",
+        "bedarf-planungsreife"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Erstellung der Bauvergabeunterlagen steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "bauvergabe-verfahren": {
+      "entry_skills": [
+        "bauvergabe-verfahren-steuern",
+        "verfahrenswahl-terminplan"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Bauvergabeverfahren auf Auftraggeberseite steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "bauwirtschaft": {
+      "entry_skills": [
+        "bauprojekt-starten-und-arbeitsstand-fortfuehren",
+        "projektziele-und-entscheidungsrahmen-festlegen"
+      ],
+      "theme": "bauwirtschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Bauprojekt zum belastbaren Arbeitsstand führen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "bauwirtschaft-anfaenger": {
+      "entry_skills": [
+        "bauaufgabe-zum-arbeitsprodukt-fuehren"
+      ],
+      "theme": "bauwirtschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Bauaufgabe zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "bauwirtschaft-fortgeschrittene": {
+      "entry_skills": [
+        "projektvorgang-steuern"
+      ],
+      "theme": "bauwirtschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Projektvorgang fachübergreifend steuern“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "bav-strategie-konzern": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "bav",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - bAV Strategie Konzern“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "bea-versand": {
+      "entry_skills": [
+        "bea-anlagen-versand"
+      ],
+      "theme": "dokumentenworkflow",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „beA-Anlagen-Versand vorbereiten“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "beamtenrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "beamten",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Beamtenrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "bereicherungs-und-anfechtungsrecht-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "bgb",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bereicherungs Und Anfechtungsrecht Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "berichtspflichten-erlediger": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "reporting",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berichtspflichten Erlediger“; vorhandener Einstieg bleibt erhalten."
+    },
+    "berliner-asog-polizeirecht": {
+      "entry_skills": [
+        "asog-mandat-zum-ergebnis"
+      ],
+      "theme": "verwaltung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "berliner-gewerbeaufsicht-betrieb": {
+      "entry_skills": [
+        "betrieb-hauptproblem-zum-ergebnis-fuehren"
+      ],
+      "theme": "verwaltung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "berliner-hochschulrecht-professoren": {
+      "entry_skills": [
+        "professur-mandat-zum-ergebnis-fuehren"
+      ],
+      "theme": "bildung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "berliner-schulrecht-eltern-schueler": {
+      "entry_skills": [
+        "berlin-bildungsmandat-steuern"
+      ],
+      "theme": "bildung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "berliner-versammlungsrecht": {
+      "entry_skills": [
+        "versammlung-mandat-zum-ergebnis"
+      ],
+      "theme": "verwaltung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Berliner Versammlungsmandat zum Ergebnis führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "berufsgerichtliche-verfahren-freie-berufe": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berufsgerichtliche Verfahren Freie Berufe“; vorhandener Einstieg bleibt erhalten."
+    },
+    "berufsrecht-anwaelte": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berufsrecht Anwälte“; vorhandener Einstieg bleibt erhalten."
+    },
+    "berufsrecht-ki-vertragspruefung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berufsrechtliche Systemvertragsprüfung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "berufsrecht-notare": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berufsrecht Notare“; vorhandener Einstieg bleibt erhalten."
+    },
+    "berufsrecht-patentanwaelte": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berufsrecht Patentanwälte“; vorhandener Einstieg bleibt erhalten."
+    },
+    "berufsrecht-steuerberater": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berufsrecht Steuerberater“; vorhandener Einstieg bleibt erhalten."
+    },
+    "berufsrecht-wirtschaftspruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Berufsrecht Wirtschaftsprüfer“; vorhandener Einstieg bleibt erhalten."
+    },
+    "betaeubungsmittelrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "straf",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Betäubungsmittelrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "betreuungsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "betreuung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Betreuungsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "betriebskosten-hausverwaltung": {
+      "entry_skills": [
+        "belege-bis-zur-abrechnung"
+      ],
+      "theme": "verwaltung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Belege bis zur Abrechnung“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "bgb-at-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "bgb",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - BGB At Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "bgb-bt-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "bgb",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - BGB Bt Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "bieter-unternehmen": {
+      "entry_skills": [
+        "vergabe-os-master-orchestrator"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Bieter-Cockpit: prüft Unterlagen, Formate, Fristen, Angebotsabgabe, Rüge, VK-Antrag und OLG-Strategie.“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "buerokratieversteher-entbuerokratisierer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "behoerdenklartext",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bürokratieversteher Entbürokratisierer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "bundesnetzagentur-verfahren": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "regulierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bundesnetzagentur Verfahren“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "bundeswehrrecht-wehrrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "wehr",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bundeswehrrecht Wehrrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "commercial-courts-deutschland": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "commercial_court",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Commercial Courts Deutschland“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "common-law-kompass": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "commonlaw",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Common-Law-Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "compliance-abteilung-grosskonzern": {
+      "entry_skills": [
+        "compliance-auftrag-steuern"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Compliance-Auftrag steuern“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "corporate-contract-law": {
+      "entry_skills": [
+        "wirtschaftsvertrag-bis-zur-unterschrift-erstellen",
+        "verhandlungsauftrag-und-eckpunkte-klaeren"
+      ],
+      "theme": "corporate-contract-law",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Wirtschaftsvertrag bis zur Unterschrift erstellen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "corporate-kanzlei": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "ma_finanzierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Deal-Kommandocenter — Corporate/M&A“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "datenbankrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "datenbank",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Datenbankrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "datenschutz-sanktionsverfahren-verteidigung": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "datenschutz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Datenschutz Sanktionsverfahren Verteidigung“; vorhandener Einstieg bleibt erhalten."
+    },
+    "datenschutzrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "datenschutz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Datenschutzrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "denkmalschutzrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "kaltstart-triage"
+      ],
+      "theme": "denkmalschutz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Denkmalschutzrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "designrecht-geschmacksmusterrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "design",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Designrecht Geschmacksmusterrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "deutsche-rechtsgeschichte": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "rechtsgeschichte",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Deutsche Rechtsgeschichte“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "dfg-foerderantrag": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "foerderantrag",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Dfg Förderantrag“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "diesel-schadensersatz": {
+      "entry_skills": [
+        "01-kaltstart-aktenaufnahme",
+        "06-anspruchstriage-fallstrategie"
+      ],
+      "theme": "produkt",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kaltstart und Aktenaufnahme“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "dsa-dma-digitalregulierung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "digitalplattform",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - DSA DMA Digitalregulierung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "due-diligence": {
+      "entry_skills": [
+        "due-diligence-steuern",
+        "auftrag-transaktion-abgrenzen"
+      ],
+      "theme": "ma_finanzierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Due Diligence vom Einstieg bis zur Kaufentscheidung steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "e-rechnung-werkstatt": {
+      "entry_skills": [
+        "e-rechnung-erstellen",
+        "unterlagen-und-rechnungsdaten-abgleichen"
+      ],
+      "theme": "erechnung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „E-Rechnung aus vorhandenen Unterlagen erstellen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "ecommerce-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "ecommerce",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Ecommerce Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "eigenbedarfskuendigungschecker": {
+      "entry_skills": [
+        "eigenbedarf-pruefen-und-klaeren"
+      ],
+      "theme": "miet",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Eigenbedarf prüfen und sachlich klären“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "einfache-leichte-sprache-jura": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "methodik",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "einigungsvertrag-vermoegensrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "einigungsvertrag",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Einigungsvertrag Vermögensrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "email-umformulierer-berufsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "berufsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Email Umformulierer Berufsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "energierecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "energie",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Energierecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "enteignung-artikel-14": {
+      "entry_skills": [
+        "eingriff-und-verfahrensstand-einordnen"
+      ],
+      "theme": "verfass",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "erbbaurecht-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "immobilien",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Erbbaurecht Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "eu-sanktionspruefer": {
+      "entry_skills": [
+        "eu-sanktionsfall-steuern"
+      ],
+      "theme": "transport_handel",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „EU-Sanktionsfall bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "europaeisches-prozessrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "eu_prozess",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Europäisches Prozessrecht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "europarecht-kompass": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "eu_recht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Europarecht Kompass“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-agrarrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "agrar",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Agrarrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-arbeitsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "arbeits",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Arbeitsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-bank-kapitalmarktrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "bank",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Bank Kapitalmarktrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-bau-architektenrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "bau",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Bau Architektenrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-erbrecht": {
+      "entry_skills": [
+        "erbfall-mandat-klaeren"
+      ],
+      "theme": "erbrecht",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Erbfall und Mandatsziel klären“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "fachanwalt-familienrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "famil",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Familienrecht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "fachanwalt-gewerblicher-rechtsschutz": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "gewerblicher_rechtsschutz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Gewerblicher Rechtsschutz“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-handels-gesellschaftsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Handels Gesellschaftsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-insolvenz-sanierungsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "sanierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Insolvenz Sanierungsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-internationales-wirtschaftsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "international",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Internationales Wirtschaftsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-it-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "it",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt IT Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-medizinrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "medizin",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Medizinrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-miet-wohnungseigentumsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "miet",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Miet Wohnungseigentumsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-migrationsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "migration",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Migrationsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-sozialrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "sozial",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Sozialrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-sportrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "sport",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Sportrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-strafrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "straf",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Strafrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-transport-speditionsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "transport_handel",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Transport Speditionsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-urheber-medienrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "urheber",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Urheber Medienrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-vergaberecht": {
+      "entry_skills": [
+        "vergabe-os-master-orchestrator",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Vergabe-OS für Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "fachanwalt-verkehrsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "verkehr",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Verkehrsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-versicherungsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "versicherung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Versicherungsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fachanwalt-verwaltungsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "verwaltung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Verwaltungsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "factoring-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "forderung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Factoring Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fahrgastrechte": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "fahrgast",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fahrgastrechte“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fashion-law-moderecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "gewerblicher_rechtsschutz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fashion Law Moderecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "festlandchina-wirtschaftsverkehr": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "international",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Festlandchina Wirtschaftsverkehr“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fluggastrechte": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "fluggast",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fluggastrechte“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "forderungsmanagement-klagewerkstatt": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "workflow-kaltstart-und-routing",
+        "kaltstart-triage"
+      ],
+      "theme": "forderung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Forderungsmanagement Klagewerkstatt“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "forschungszulage-antragstellung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "forschungszulage",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Forschungszulage Antragstellung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "fortbestehensprognose": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "sanierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fortbestehensprognose“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "franchiserecht-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "vertragsgestaltung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Franchiserecht Praxis“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "gebrauchsmusterrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "gebrauchsmuster",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Gebrauchsmusterrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "geldwaeschebeauftragter": {
+      "entry_skills": [
+        "geldwaescheproblem-loesen",
+        "verpflichtung-organisation-klaeren"
+      ],
+      "theme": "geldwaesche",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Geldwäscheproblem lösen und den Vorgang weiterführen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "geldwaeschepraevention-aml-kyc": {
+      "entry_skills": [
+        "einstieg-routing"
+      ],
+      "theme": "geldwaesche",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Geldwäschevorgang aufnehmen“; vorhandener Einstieg bleibt erhalten."
+    },
+    "gesellschafterstreit": {
+      "entry_skills": [
+        "gesellschafterstreit-loesen",
+        "streitstand-und-fristen-klaeren"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Gesellschafterstreit geordnet lösen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "gesellschaftervereinbarung": {
+      "entry_skills": [
+        "vereinbarung-erstellen",
+        "auftrag-und-unterlagen-klaeren"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Gesellschaftervereinbarung erstellen und weiterverhandeln“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "gesellschaftsgruender": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Gesellschaftsgründer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "gesellschaftsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Gesellschaftsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "gesellschaftsrecht-legal-english": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Gesellschaftsrecht Legal English“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "gesellschaftsrechtliche-treuepflicht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Gesellschaftsrechtliche Treuepflicht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "gewerblicher-rechtsschutz": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "gewerblicher_rechtsschutz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Gewerblicher Rechtsschutz“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "gmbh-gesellschafterversammlung": {
+      "entry_skills": [
+        "gesellschafterversammlung-organisieren",
+        "unterlagen-und-versammlungsregeln-pruefen"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Gesellschafterversammlung organisieren“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "goae-gebuehrenordnung-aerzte": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "goae",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - GOÄ Gebührenordnung Ärzte“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "grosskanzlei-corporate-ma": {
+      "entry_skills": [
+        "deal-os-orchestrator",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "ma_finanzierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Deal-OS-Orchestrator für große Corporate- und M&A-Mandate: steuert Deal-Phase, Rolle, Fristen, Workstreams, Risikoampeln, Padlet-Canvas, Tabellenmatrix, Junior-Fuehrung und naechste Deliverables aus einer Hand.“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "grundbuchamt-assistent": {
+      "entry_skills": [
+        "grundbuchvorgang-zum-ergebnis-fuehren"
+      ],
+      "theme": "immobilien",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "grundbuchamt-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "immobilien",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Grundbuchamt Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "grundsteuerrecht": {
+      "entry_skills": [
+        "bescheide-und-fristen-ordnen",
+        "landesmodell-und-stichtag-bestimmen"
+      ],
+      "theme": "grundsteuerrecht",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Bescheide und Fristen ordnen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "grundstuecksrecherche": {
+      "entry_skills": [
+        "grundstuecksrecherche-starten"
+      ],
+      "theme": "default",
+      "mode": "app",
+      "rationale": "Bestehender lokaler Startskill; Publikationsprofil verbietet eigenständige Begleitprompts. Vorhandene App beziehungsweise technische Werkstatt beibehalten."
+    },
+    "gvb-reinigungsvergabe": {
+      "entry_skills": [
+        "a1-reinigungsauftrag-und-vergabeverfahren"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Reinigungsauftrag rechtlich einordnen und Vergabeweg festlegen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "handelsrecht-hgb": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "handelsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Handelsrecht Hgb“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "handelsregister-assistent": {
+      "entry_skills": [
+        "hauptproblem-registervorgang-zum-vollzug"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Hauptproblem: Registervorgang vom Befund zum Vollzug“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "handelsregister-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Handelsregister Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "handelsvertreterrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "handelsrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Handelsvertreterrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "hausarbeitenmacher": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "ausbildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Hausarbeitenmacher“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "haushaltsrecht-bho-bund-laender": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "haushalt",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Haushaltsrecht Bho Bund Länder“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "hinweisgeberschutz-compliance": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "hinweisgeber",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Hinweisgeberschutz Compliance“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "hoai-leistungsphasen-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "hoai",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - HOAI Leistungsphasen Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "hochschulrecht-laender": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "bildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Hochschulrecht Länder“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "immobilienrechtspraxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "immobilien",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Immobilienrechtspraxis“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "influencer-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "influencer",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Influencer Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "informationsfreiheit-presseauskunft": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "informationszugang",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Informationsfreiheit Presseauskunft“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "insiderrecht-compliance": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "kapitalmarkt",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Insiderrecht Compliance“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "insolvenzanfechtung": {
+      "entry_skills": [
+        "anfechtung-steuern",
+        "zahlungskette-und-belege"
+      ],
+      "theme": "insolvenzanfechtung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Insolvenzanfechtung vom Akteneingang bis zum Endprodukt steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "insolvenzforderungen-checker": {
+      "entry_skills": [
+        "forderungen-pruefen-und-tabelle-vorbereiten",
+        "anmeldung-und-glaeubiger-klaeren"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Forderungen prüfen und Tabelle vorbereiten“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "insolvenzforderungsanmeldungspruefung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Insolvenzforderungsanmeldungsprüfung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "insolvenzplan-starug-planwerkstatt": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "sanierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kommandocenter für Planverfahren“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "insolvenzrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Insolvenzrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "insolvenzsachbearbeitung": {
+      "entry_skills": [
+        "insolvenzsachbearbeitung-steuern",
+        "verfahren-und-beschluesse-erfassen"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Insolvenzsachbearbeitung vom Auftrag zum Arbeitsprodukt steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "insolvenzverwaltung": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Insolvenzverwaltungs-Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "insolvenzverwaltung-berichtsersteller": {
+      "entry_skills": [
+        "berichtserstellung-steuern",
+        "akte-und-berichtsanlass-steuern"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Berichtserstellung steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "internal-investigations-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "investigations",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Internal Investigations Praxis“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "internationales-handelsrecht-lex-mercatoria": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "transport_handel",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Internationales Handelsrecht Lex Mercatoria“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "jura-in-einfacher-sprache": {
+      "entry_skills": [
+        "juristischen-text-erklaeren",
+        "schreiben-in-einfacher-sprache-erstellen"
+      ],
+      "theme": "methodik",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Juristischen Text erklären“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "jurastudium": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "ausbildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Jurastudium“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "juristische-praesentationen": {
+      "entry_skills": [
+        "praesentation-starten",
+        "fallverlauf-und-belege-visualisieren"
+      ],
+      "theme": "juristische-praesentationen",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Juristische Präsentation starten“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "juristische-presseberichterstattung": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "presse",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Juristische Presseberichterstattung“; vorhandener Einstieg bleibt erhalten."
+    },
+    "juristische-sprache-deutsch-als-zweitsprache": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "methodik",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Juristische Sprache Deutsch Als Zweitsprache“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "jveg-kostenpruefer": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "jveg",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „JVEG-Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "kanzlei-allgemein": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "kanzleibetrieb",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "kanzlei-builder-hub": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "dokumentenworkflow",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Kanzlei Builder Hub“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "kanzlei-management": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "kanzleibetrieb",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Kanzlei Management“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "kanzlei-mandant-lifecycle": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "kanzleibetrieb",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Kanzlei Mandant Lifecycle“; vorhandener Einstieg bleibt erhalten."
+    },
+    "kanzlei-website-redaktion": {
+      "entry_skills": [
+        "website-redaktion-steuern"
+      ],
+      "theme": "kanzleibetrieb",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kanzlei-Website redaktionell führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "kartellrecht-marktabgrenzung-pruefung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "kartell",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Kartellrecht Marktabgrenzung Prüfung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "ki-governance": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "technikregulierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Governance algorithmischer Systeme“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "ki-halluzinationsreduzierer": {
+      "entry_skills": [
+        "halluzinationspruefung-steuern"
+      ],
+      "theme": "fundstellenverifikation",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Juristische Fundstellenprüfung steuern“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "ki-native-kanzlei": {
+      "entry_skills": [
+        "ki-kanzlei-steuern"
+      ],
+      "theme": "kanzleibetrieb",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „KI-native Kanzlei: das Mandat vom Auftrag bis zum Ergebnis führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "ki-richtlinie-kanzleien": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "kanzleibetrieb",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Systemrichtlinie für Kanzleien“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "ki-verordnung-hochrisiko-pruefer": {
+      "entry_skills": [
+        "hochrisikofrage-loesen",
+        "hr-zweck-und-systemabgrenzung"
+      ],
+      "theme": "technikregulierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Hochrisikofrage durch den ganzen Vorgang lösen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "ki-verordnung-konformitaet": {
+      "entry_skills": [
+        "konformitaetsfrage-loesen"
+      ],
+      "theme": "technikregulierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Konformitätsfrage vollständig lösen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "ki-verordnung-register-meldungen": {
+      "entry_skills": [
+        "register-und-meldung-loesen"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Register und Meldungsfrage vollständig lösen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "ki-verordnung-transparenzpruefer": {
+      "entry_skills": [
+        "rollen-und-anwendungsdatum",
+        "transparenzfreigabe-dokumentieren"
+      ],
+      "theme": "technikregulierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Rollen und Anwendungsdatum“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "ki-verordnung-verbotene-praktiken": {
+      "entry_skills": [
+        "verbotene-ki-praktiken-loesen",
+        "anwendungsbereich-stichtag-klaeren"
+      ],
+      "theme": "technikregulierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Verbotene KI-Praktiken insgesamt klären“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "ki-vo-ai-act-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "technikregulierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Europäische Systemregulierung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "kommunale-haftpflicht": {
+      "entry_skills": [
+        "kommunalen-haftpflichtfall-bearbeiten",
+        "schaden-aufnehmen-und-belege-sichern"
+      ],
+      "theme": "schadensregulierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kommunalen Haftpflichtfall bearbeiten“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "kommunalrecht-laender": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "kommunal",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Kommunalrecht Länder“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "konkurrenten-rechtsschutz": {
+      "entry_skills": [
+        "konkurrenzrechtsschutz-orchestrator",
+        "startbildschirm-konkurrentenangriff"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Konkurrenzrechtsschutz Orchestrator“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "krankenhaus-it-ki": {
+      "entry_skills": [
+        "krankenhaus-digitalisierung-steuern",
+        "vorhaben-datenfluesse-rollen"
+      ],
+      "theme": "datenschutz",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Krankenhausdigitalisierung vom Vorhaben zum Betrieb steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "krankenhausrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "krankenhaus",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Krankenhausrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "krankenkassenrecht-krankenversicherung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "sozial",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Krankenkassenrecht Krankenversicherung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "kriegsdienstverweigerung-wehrdienst": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "dienst",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Kriegsdienstverweigerung Wehrdienst“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "krisenfrueherkennung-starug": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "sanierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Krisenfrüherkennung StaRUG“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "leasingrecht-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "vertragsgestaltung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Leasingrecht Praxis“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "legistik-werkstatt": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "normsetzung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Legistik Werkstatt“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "liquiditaetsplanung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "liquiditaet",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Liquiditätsplanung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "lizenzvertragsersteller": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing"
+      ],
+      "theme": "lizenz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Lizenzvertragsersteller“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "lobbyregister-bundestag": {
+      "entry_skills": [
+        "lobbyregister-kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "lobbyregister",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Lobbyregister-Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "luftrecht-flughafenrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "luftrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Luftrecht Flughafenrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "mandantenanfragen-assistent": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "methodik",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Mandantenanfragen Assistent“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "markenamt-assistent": {
+      "entry_skills": [
+        "marke-sichern-trotz-offener-rechte",
+        "markenauftrag-und-fristen-klaeren"
+      ],
+      "theme": "marke",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Marke sichern trotz offener Rechte“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "markenrecht-fashion-luxus": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "marke",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Markenrecht Fashion Luxus“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "meinungspruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "verfass",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Meinungsprüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "memorandums-ersteller": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "methodik",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Memorandums Ersteller“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "methodenlehre-buergerliches-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "ausbildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Methodenlehre Bürgerliches Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "mietchecker": {
+      "entry_skills": [
+        "miete-pruefen-und-klaeren"
+      ],
+      "theme": "miet",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Miethöhe prüfen und sachlich klären“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "mietrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "miet",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Mietrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "mittelstand-corporate-ma": {
+      "entry_skills": [
+        "deal-kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "ma_finanzierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Deal-Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "nachbarschaftsstreit-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "nachbar",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Nachbarschaftsstreit Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "nda-abgleich": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "vertragsgestaltung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Nda Abgleich“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "nda-verschwiegenheit-generator-checker": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "vertragsgestaltung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Nda Verschwiegenheit Generator Checker“; vorhandener Einstieg bleibt erhalten."
+    },
+    "nis2-cybersecurity-compliance": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "cybersicherheit",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - NIS2 Cybersecurity Compliance“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "normenkontrolle-bauleitplanung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "bauplanung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Normenkontrolle Bauleitplanung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "normenkontrollrat-nkr": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "nkr",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Normenkontrollrat Nkr“; vorhandener Einstieg bleibt erhalten."
+    },
+    "notariat-alltag": {
+      "entry_skills": [
+        "kaltstart-triage"
+      ],
+      "theme": "notariat",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Hauptworkflow vom Kundenordner zur Urkundenmappe“; vorhandener Einstieg bleibt erhalten."
+    },
+    "oeffentliches-wirtschaftsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "wirtschaftsverwaltung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Öffentliches Wirtschaftsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "ordnungswidrigkeitenrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "owi_praxis",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Ordnungswidrigkeitenrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "parteienrecht-parteiorganisation": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "parteienrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Parteienrecht Parteiorganisation“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "patentrecherche": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "patent",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Patentrecherche“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "patentrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "patent",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Patentrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "pflegerecht-sgb-xi": {
+      "entry_skills": [
+        "pflegefall-bearbeiten"
+      ],
+      "theme": "sozial",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Pflegefall nach SGB XI bearbeiten“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "phishing-vorfall-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "phishing",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Phishing Vorfall Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "playbook-pruefer": {
+      "entry_skills": [
+        "playbook-pruefung-durchfuehren",
+        "playbook-auswaehlen"
+      ],
+      "theme": "vertragsgestaltung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Vertrag vollständig am Playbook prüfen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "preussisches-allgemeines-landrecht-pralr": {
+      "entry_skills": [
+        "historische-anfrage-einordnen",
+        "historischen-fall-begutachten"
+      ],
+      "theme": "pralr",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Historische Anfrage einordnen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "private-equity-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "ma_finanzierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Private Equity Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "produktrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "produkt",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Produktrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "projekteinkauf-baubranche": {
+      "entry_skills": [
+        "ki-arbeitsauftrag-formulieren",
+        "dokumentenakte-auswerten"
+      ],
+      "theme": "bau",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „KI-Arbeitsauftrag formulieren und erproben“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "prozessrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "zivilprozess",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Prozessrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "pruefungsrecht-hochschule": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "bildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Prüfungsrecht Hochschule“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "rechtsabteilung-forderungsmanagement-immobilienunternehmen": {
+      "entry_skills": [
+        "06-fallziel-renofa-triage",
+        "01-sap-akte-importieren"
+      ],
+      "theme": "forderung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Fallziel und Renofa-Triage“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "rechtsberatungsstelle": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "methodik",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Rechtsberatungsstelle“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "rechtstheorie-rechtsphilosophie": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "ausbildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Rechtstheorie Rechtsphilosophie“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "regulatorisches-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "regulierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Regulatorisches Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "relationstechnik-zivilrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "justiz_zivil",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Relationstechnik Zivilrecht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "rentenpruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "renten",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Rentenprüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "richter-amtsgericht-handelsregister": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Amtsgericht Handelsregister“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-amtsgericht-insolvenz-restrukturierung": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Amtsgericht Insolvenz Restrukturierung“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-amtsgericht-straf": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "strafjustiz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Amtsgericht Straf“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-amtsgericht-zivil": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "justiz_zivil",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Amtsgericht Zivil“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-arbeitsgericht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "arbeits",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Arbeitsgericht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-bverfg-verfassungsbeschwerden": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "verfass",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter BVerfG Verfassungsbeschwerden“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-familiengericht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "famil",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Familiengericht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-finanzgericht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "finanzgericht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Finanzgericht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-landgericht-strafkammer": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "strafjustiz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Landgericht Strafkammer“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-landgericht-zivilkammer": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "justiz_zivil",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Landgericht Zivilkammer“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-sozialgericht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "sozial",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Sozialgericht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "richter-verwaltungsgericht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "verwaltungsgericht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Richter Verwaltungsgericht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "robotik-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "produkt",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Robotik Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "roemisch-katholisches-kirchenrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "kirchenrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Römisch Katholisches Kirchenrecht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "roemisches-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "roemisch",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Römisches Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "schadensregulierung": {
+      "entry_skills": [
+        "haftpflichtschaden-regulieren",
+        "schadenfall-aufnehmen"
+      ],
+      "theme": "schadensregulierung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Haftpflichtschaden regulieren“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "schoeffen-handelsrichter-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "ehrenamtliche_richter",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Schöffen Handelsrichter Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "schriftform-und-textform-bgb": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "bgb",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Schriftform Und Textform BGB“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "schriftsatz-versandwerkstatt": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "dokumentenworkflow",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Formhindernisse der Versandmappe begründen“; vorhandener Einstieg bleibt erhalten."
+    },
+    "schriftsatzwerkstatt-bea": {
+      "entry_skills": [
+        "01-bea-ordner-annahme"
+      ],
+      "theme": "default",
+      "mode": "app",
+      "rationale": "Bestehender lokaler Startskill; Publikationsprofil verbietet eigenständige Begleitprompts. Vorhandene App beziehungsweise technische Werkstatt beibehalten."
+    },
+    "schulrecht-laender": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "bildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Schulrecht Länder“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "seerecht-schifffahrtsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "transport_handel",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Seerecht Schifffahrtsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "sektorenvergabe-workflow": {
+      "entry_skills": [
+        "sektorenvergabe-steuern",
+        "auftrag-und-sektorenbezug-klaeren"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Sektorenvergabe steuern“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "selbstvertreter-amtsgericht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "zivilprozess",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Selbstvertreter Amtsgericht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "selbstvertreter-sozialgericht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "sozial",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Selbstvertreter Sozialgericht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "softwarerecht-de-eu-us": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "it",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Softwarerecht De EU US“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "solo-selbststaendige-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "selbststaendige",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Solo Selbstständige Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "sozialrecht-fuer-laien": {
+      "entry_skills": [
+        "meinen-sozialfall-starten"
+      ],
+      "theme": "sozial",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Meinen Sozialfall starten“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "sozialversicherungspflicht-pruefer": {
+      "entry_skills": [
+        "sozialversicherungspflicht-pruefen"
+      ],
+      "theme": "versicherung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Sozialversicherungspflicht prüfen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "sozialversicherungsstatus-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "sozialstatus",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Sozialversicherungsstatus Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "staatsanwaltschaft-amtsanwaltschaft": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "strafjustiz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Staatsanwaltschaft Amtsanwaltschaft“; vorhandener Einstieg bleibt erhalten."
+    },
+    "staatsanwaltschaft-praxis-einstieg": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "strafjustiz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Staatsanwaltschaft Praxis Einstieg“; vorhandener Einstieg bleibt erhalten."
+    },
+    "startup-gruender": {
+      "entry_skills": [
+        "gruendung-begleiten",
+        "gruender-und-rollen-klaeren"
+      ],
+      "theme": "gesellschaft",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Startup-Gründung begleiten“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "startup-hr-personalabteilung-berlin": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "hr",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Startup HR Personalabteilung Berlin“; vorhandener Einstieg bleibt erhalten."
+    },
+    "status-navigator-step-plan": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "dokumentenworkflow",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Status Navigator Step Plan“; vorhandener Einstieg bleibt erhalten."
+    },
+    "steuerrecht-anwalt-und-berater": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "steuer",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Steuerrecht Anwalt Und Berater“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "strafanzeige-vorbereiter": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "straf",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Strafanzeige Vorbereiter“; vorhandener Einstieg bleibt erhalten."
+    },
+    "strafbefehl-verteidiger": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "straf",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Strafbefehl Verteidiger“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "strafvollzug-jva": {
+      "entry_skills": [
+        "strafvollzug-fall-steuern"
+      ],
+      "theme": "straf",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Strafvollzugsfall steuern“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "strafzumessung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "strafjustiz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Strafzumessung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "strassennutzung-genehmigungen": {
+      "entry_skills": [
+        "strassenstatus-widmung-und-zustaendigkeit",
+        "antraege-rechtsbehelfe-und-eilrechtsschutz"
+      ],
+      "theme": "strassennutzung-genehmigungen",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Straßenstatus, Widmung und Zuständigkeit“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "strassenrecht-infrastruktur": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "strassenrecht",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Strassenrecht Infrastruktur“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "strassenverkehrsrecht-stvo": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "stvo",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Strassenverkehrsrecht Stvo“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "subsumtions-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "ausbildung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Subsumtions Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "tabellenreview-3d": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "dokumentenworkflow",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Tabellenreview 3D“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "telekommunikationsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "telekom",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Telekommunikationsrecht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "tierschutzrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "tierschutz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Tierschutzrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "transparenzregister-assistent": {
+      "entry_skills": [
+        "hauptproblem-unklare-kontrolle-loesen",
+        "registervorgang-aufnehmen"
+      ],
+      "theme": "geldwaesche",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Hauptproblem: Unklare Kontrolle unter Meldedruck“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "umweltrecht": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "umweltplanung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Umweltrecht-Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "umweltschutzverband-verbandsklage": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "umweltverband",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Umweltschutzverband Verbandsklage“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "un-kaufrecht-cisg": {
+      "entry_skills": [
+        "cisg-kaufmandat-steuern"
+      ],
+      "theme": "transport_handel",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „UN-Kaufrecht: Kaufmandat bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "untersuchungshaft": {
+      "entry_skills": [
+        "uhaft-verfahren-steuern"
+      ],
+      "theme": "straf",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Untersuchungshaftsache bearbeiten“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "urheberrecht-de-eu": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "urheber",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Urheberrecht De EU“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "urteilsbauer-relationsmacher": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "justiz_zivil",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Urteilsbauer Relationsmacher“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "us-bankruptcy-code": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "us_insolvency",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - US Bankruptcy Code“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "us-copyright-registrierung-verlag": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "us_copyright",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - US Copyright Registrierung Verlag“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "us-sanktionspruefer": {
+      "entry_skills": [
+        "us-sanktionsmandat-steuern"
+      ],
+      "theme": "transport_handel",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „US-Sanktionsmandat bis zum fertigen Dokument führen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "venture-capital-geber": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "ma_finanzierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Venture Capital Geber“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "verarbeitungsverzeichnis": {
+      "entry_skills": [
+        "verarbeitungsverzeichnis-steuern",
+        "verarbeitungen-erheben"
+      ],
+      "theme": "datenschutz",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Verarbeitungsverzeichnis anlegen und im Alltag pflegen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "verbraucher-rechtsstaat-alltag": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "verbraucher",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verbraucher Rechtsstaat Alltag“; vorhandener Einstieg bleibt erhalten."
+    },
+    "verbraucherinsolvenz-schuldenbereinigung": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verbraucherinsolvenz Schuldenbereinigung“; vorhandener Einstieg bleibt erhalten."
+    },
+    "verbraucherschutzrecht-pruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "verbraucher",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verbraucherschutzrecht Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "verbraucherschutzverband-durchsetzung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "verbraucher",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verbraucherschutzverband Durchsetzung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "vereinsrecht-vereinsmanager": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "verein",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Vereinsrecht Vereinsmanager“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "verfassungsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "verfass",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verfassungsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "vergabestelle-behoerden": {
+      "entry_skills": [
+        "vergabe-os-master-orchestrator"
+      ],
+      "theme": "vergabe",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Vergabestellen-Cockpit: sichert Verfahren, Fristen, Unterlagen, Wertung, Rechtsschutz und Veröffentlichung.“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "vergesellschaftung-artikel-15": {
+      "entry_skills": [
+        "vergesellschaftungsvorhaben-einordnen"
+      ],
+      "theme": "verfass",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zweck und Anwendungsfall“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "verhaeltnismaessigkeitspruefer": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "verfass",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verhältnismäßigkeitsprüfer“; vorhandener Einstieg bleibt erhalten."
+    },
+    "verkehr-infrastrukturrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "umweltplanung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verkehr Infrastrukturrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "verkehrsowi-verteidiger": {
+      "entry_skills": [
+        "verkehrsowi-kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "straf",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „VerkehrsOWi-Verteidiger — Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "verlagsrecht-buchpreisbindung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "verlag",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verlagsrecht Buchpreisbindung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "verlagsredaktion": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "presse",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Verlagsredaktion“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "versammlungsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "versammlung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Versammlungsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "versicherungsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "versicherung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Versicherungsrecht“; vorhandener Einstieg bleibt erhalten."
+    },
+    "vertragsausfueller": {
+      "entry_skills": [
+        "kommandocenter-mehrsprachige-vertraege",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "vertragsgestaltung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "vertragserstellung": {
+      "entry_skills": [
+        "vertrag-vom-auftrag-bis-zur-endfassung-erstellen",
+        "eckpunkte-form-und-vertretung-festlegen"
+      ],
+      "theme": "vertragserstellung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Einen B2B-Vertrag aus dem konkreten Geschäftsauftrag erstellen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "vertragsrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "vertragsgestaltung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Vertragsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "wahlkampfrecht-praxis": {
+      "entry_skills": [
+        "juristischer-argumentationskern"
+      ],
+      "theme": "verfass",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Wahlkampfrecht Praxis“; vorhandener Einstieg bleibt erhalten."
+    },
+    "wandeldarlehen-lebenszyklus": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "ma_finanzierung",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Wandeldarlehen Lebenszyklus“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "weg-hausverwaltung": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "weg",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - WEG Hausverwaltung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "weltraumrecht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "kaltstart-triage"
+      ],
+      "theme": "weltraum",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Weltraumrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "wirtschaftsanwalt": {
+      "entry_skills": [
+        "unternehmensmandat-bis-zum-dokument-bearbeiten"
+      ],
+      "theme": "wirtschaftsanwalt",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Unternehmensentscheidung mit verknüpften Rechtsfolgen ausarbeiten“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "word-legal-ai-plugin-and-skill-for-german-lawyers": {
+      "entry_skills": [
+        "kaltstart-drafting-kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "dokumentenworkflow",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Vom Eingangsmaterial zur vollständigen Fassung“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "zahlungsunfaehigkeits-und-ueberschuldungspruefer": {
+      "entry_skills": [
+        "insolvenzreife-stichtagsbezogen-pruefen"
+      ],
+      "theme": "insolvenz",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zahlungsunfähigkeit und Überschuldung zeitlich bestimmen“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "zitierweise-deutsches-recht": {
+      "entry_skills": [
+        "juristischer-argumentationskern",
+        "einstieg-routing",
+        "workflow-kaltstart-und-routing"
+      ],
+      "theme": "methodik",
+      "mode": "prompt",
+      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Zitierweise Deutsches Recht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
+    },
+    "zugewinnausgleich": {
+      "entry_skills": [
+        "vermoegensbelege-bis-zur-gesamtberechnung"
+      ],
+      "theme": "zugewinnausgleich",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Vermögensbelege bis zur Gesamtberechnung“ führt den Vorgang zum Arbeitsprodukt."
+    },
+    "zwangsverwaltung-zvg": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "zwangsverwaltung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zwangsverwaltungs-Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "zwangsvollstreckung": {
+      "entry_skills": [
+        "kommandocenter",
+        "juristischer-argumentationskern"
+      ],
+      "theme": "vollstreckung",
+      "mode": "prompt",
+      "rationale": "Fachlicher Hauptablauf „Zwangsvollstreckung – Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    }
+  }
+}

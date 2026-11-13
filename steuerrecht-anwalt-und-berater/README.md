@@ -138,7 +138,7 @@ Wenn du das hier öffnest, willst du einen Steuerbescheid prüfen und Einspruch 
 > | **Umsatzsteuerrecht** | `fa-stu-ust-vorsteuerabzug-15-ustg`, `fa-stu-ust-innergemeinschaftlich-6a-ustg`, `fa-stu-ust-rechnungspflicht-14-ustg`, `fa-stu-ust-organschaft-2-abs-2-ustg` |
 > | **Erbschaft- und Schenkungsteuer / Bewertung** | `fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg`, `fa-stu-schenkung-zehnjahresfrist`, `fa-stu-bewertung-immobilien-bewg` |
 > | **Bilanz- und Buchführungsrecht** | `fa-stu-bilanzberichtigung-4-abs-2-estg`, `fa-stu-handels-vs-steuerbilanz`, `fa-stu-rueckstellungen-249-hgb` |
-> | **Steuerstrafrecht (§§ 369 ff. AO, § 26b UStG)** | `fa-stu-steuerhinterziehung-370-ao`, `fa-stu-selbstanzeige-371-ao`, `fa-stu-leichtfertige-steuerverkuerzung-378-ao` |
+> | **Steuerstrafrecht (§§ 369 ff. AO, § 26c UStG)** | `fa-stu-steuerhinterziehung-370-ao`, `fa-stu-selbstanzeige-371-ao`, `fa-stu-leichtfertige-steuerverkuerzung-378-ao` |
 > | **Zoll-, Verbrauchsteuer- und Außenwirtschaftsrecht** | `fa-stu-zollwert-unionszollkodex`, `fa-stu-energiesteuerentlastung`, `fa-stu-aussenwirtschaftsembargo` |
 > | **Berufsrecht und Gebührenrecht** | `fa-stu-stberg-vereinbare-taetigkeit`, `fa-stu-rvg-steuerstreit`, `fa-stu-vorbehaltsaufgaben-stberg` |
 

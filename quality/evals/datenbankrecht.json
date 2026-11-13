@@ -155,7 +155,7 @@
       "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Geschützte Investition und konkrete Nutzung führen zu Rechteprüfung oder fertigem Schreiben; Directmedia erklärt Entnahme ohne Kopierautomatismus. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "98b6072a8c2117382fe0b407a2f2c3738816aeeca5793951a700bf924108aff6"
+    "sha256": "095eb8211ac676562d461a63b742c8c3e0a6bfb73a1833203b60176024ef4347"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -195,5 +195,15 @@
       "Keine vollständige Neuprüfung sämtlicher Spezialfragen zu Datenschutz, Export und Training.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "datenbankrecht/datenbankrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

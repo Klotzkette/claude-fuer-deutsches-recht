@@ -242,7 +242,7 @@
       "Einlegung und Begründung der Revision mit eigenständigen Auslösern; bestimmte Anträge und Freigabegrenzen statt Fehlerliste.",
       "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
     ],
-    "sha256": "5b9f7a8f60f0441b32210091b8d806c7cccb036621fa653f0121b38dedfc3498",
+    "sha256": "3bf69cc275b75ff93f92b4999b86dc4d660a98a49f2f8f6935918f3b07651a2d",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -293,5 +293,15 @@
       "Workflow-Erweiterung am 23. September: neue Normbezüge gezielt geprüft; BGH-Zäsuranker aus dem dokumentierten vorherigen Review unverändert übernommen. Normen 56 StGB sowie 341 und 345 StPO im amtlichen Suchabruf statt gescheitertem Direktabruf gelesen.",
       "Enger Quellenabgleich 01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "strafzumessung/strafzumessung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -94,7 +94,7 @@
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
       "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt."
     ],
-    "sha256": "6606e4e857cee07efb0f673b1b9d0cf6773fdcec82dc7e49fb5a9da1327a9e5a"
+    "sha256": "87f41998e4e69fc13893dee94c75ed9017273e8e1ab53d392dbf9af368a76638"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -270,5 +270,16 @@
         "utf8_bytes": 7018
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "insolvenzrecht/insolvenzrecht-hauptproblem.md",
+      "insolvenzrecht/insolvenzrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

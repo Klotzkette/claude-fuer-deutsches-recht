@@ -86,7 +86,7 @@
       "Operativen Sichtbarkeitsmaßstab mit Beweislast und Grenzen in beide Prompts integriert.",
       "Paragraf 45 Absatz 10 Nummer 2 gegenüber Absatz 9 Satz 4 Nummer 7 abgegrenzt; Werkstatt um Bewohnerparkkonzept und Schulweg-Ausnahme präzisiert."
     ],
-    "sha256": "ddfd1d26a4c248ccdd39bb3f281483ac67c7168046e69219b2befe3988de07f0"
+    "sha256": "53fa14768b022cf863e2870bd2ea14e7d3a54628394e9b4e53cc8ac4123407dc"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -136,5 +136,15 @@
       "search_2026": "3 B 9.25 vom 24.06.2026 gefunden, betrifft prozessuale Klageänderung/Frist und nicht den bisherigen Sichtbarkeitsmaßstab. Keine ungeprüfte materielle Änderung vorgenommen.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -43,6 +43,31 @@ class RechtsstandRegressionen(unittest.TestCase):
         self.assertIsNone(sentinel.pattern.search('Paragraf 48b: BZSt-Freistellungsbescheinigung drei Jahre'))
         self.assertIsNone(sentinel.pattern.search('BZSt-Freistellungsbescheinigung galt früher drei Jahre'))
 
+    def test_entlastungsverfahren_und_missbrauchspruefung_bleiben_getrennt(self):
+        sentinel = next(item for item in law.SENTINELS if 'Entlastungsverfahren unter 50d' in item.label)
+        for text in (
+            '| Paragraf 50d EStG | Erstattungs-/Freistellungsverfahren beim BZSt |',
+            '§ 50d Abs. 1 EStG: Freistellungsverfahren beim BZSt',
+        ):
+            with self.subTest(text=text):
+                self.assertIsNotNone(sentinel.pattern.search(text))
+        for text in (
+            '| Paragraf 50c EStG | Erstattungs-/Freistellungsverfahren beim BZSt |',
+            '§ 50d Abs. 3 EStG: Missbrauchsprüfung im Freistellungsverfahren',
+            '§ 50d EStG a.F.: Freistellungsverfahren bis 2021',
+            'Früher: § 50d EStG: Freistellungsverfahren beim BZSt',
+            '§ 50d EStG: kein Freistellungsverfahren; dieses steht in § 50c EStG.',
+        ):
+            with self.subTest(text=text):
+                self.assertIsNone(sentinel.pattern.search(text))
+
+    def test_unbekannte_nutzungsarten_mit_richtigem_gesetzeskuerzel(self):
+        sentinel = next(item for item in law.SENTINELS if '31a UhG' in item.label)
+        self.assertIsNotNone(sentinel.pattern.search('Paragraf 31a UhG – unbekannte Nutzungsarten'))
+        self.assertIsNotNone(sentinel.pattern.search('§ 31a UhG'))
+        self.assertIsNone(sentinel.pattern.search('Paragraf 31a UrhG – unbekannte Nutzungsarten'))
+        self.assertIsNone(sentinel.pattern.search('Projektname UhG ohne Normzitat'))
+
     def test_muster_und_vorfilter_sind_vollstaendig(self):
         self.assertEqual(len(law.SENTINELS), len(law.SENTINEL_HINTS))
 

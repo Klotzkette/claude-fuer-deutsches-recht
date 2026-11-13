@@ -105,7 +105,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Ansichten und gewünschter Schutzvergleich eröffnen die Arbeit; der bestehende Karen-Millen-Absatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "5874b47b4d415b55fc81244608edca329387e66bd70c176283f2d4dd82f58c62",
+    "sha256": "cdc041af3605d71d1e83cd425a5f667bd114757610313ea479f3aafa5827fc80",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -196,5 +196,15 @@
     "continuation": "Älteres Bild zeigt zusätzlich die Rückseite -> Einzelvergleich, Eigenartsangriff und Anspruchs- oder Abwehrtext neu bewerten, kein Merkmalsmosaik bilden.",
     "enrichment": "Konsistente Ansichten für Anmeldung, eigene und fremde Offenbarung, Beweis des nicht eingetragenen Schutzes, produktbezogene Verkaufsnachweise, Lizenzumfang und Abverkauf mit Freigabegrenzen.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

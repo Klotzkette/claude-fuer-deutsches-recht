@@ -102,7 +102,7 @@
       "Amtlichen Normtext, indexierte Leitsaetze und gesperrte Volltexte unterschieden; BMF-Ausgabe als datierte Zusatzquelle vermerkt.",
       "Autor- und Installationsvorspann durch B2B-Geschäftszweck ersetzt. Werkstatt: tatsächliches Aushandeln nach VII ZR 248/13; Mini: Abnahme und Abrechnungsverhältnis nach VII ZR 301/13. Quellenstatus des Bestands beibehalten."
     ],
-    "sha256": "58ad931197f0d5ee1ead140a3b8738b13d9c2b9db0abc64db21c9ccffd1a4cba"
+    "sha256": "027cc2427c9df2ab4fbfcdcd0b1b0cd72998beefe109701a9bf18a18dddf4c20"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -116,7 +116,7 @@
     "prompt_path": "vertragserstellung/vertragserstellung-hauptproblem.md",
     "prompt_sha256": "118079f3ff8271e16142bb2794865bbefaa83b487e6779e56b3dd97bbbd5ef64",
     "skill_path": "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
-    "skill_sha256": "f7f2a4190e453ad19883b1d32876c99651519b114ff1aacb1ed46096e779081e"
+    "skill_sha256": "0dab551745996ada99b4e758527e5b69bc6fb020306ee657c93daa0850fec550"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -607,5 +607,17 @@
       "vertragserstellung/vertragserstellung-werkstatt.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
+      "vertragserstellung/vertragserstellung-hauptproblem.md",
+      "vertragserstellung/vertragserstellung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

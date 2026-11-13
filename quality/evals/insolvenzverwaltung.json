@@ -72,7 +72,7 @@
       "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
       "2026-11-10: Umsatzsteuerberichtigung bei vorinsolvenzlicher Leistung und Zahlung nach Eröffnung getrennt nachvollzogen."
     ],
-    "sha256": "4ce95c72c4c56f0054864a5d308b69ec78ce072353492865b188c1f13b9cb886"
+    "sha256": "4b631a64b4c33ab55e8049d5f2c057e9330c3b5f579df5f2923efc1b9b894e64"
   },
   "selection": {
     "positive": [
@@ -309,5 +309,15 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

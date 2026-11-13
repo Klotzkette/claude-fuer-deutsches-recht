@@ -102,7 +102,7 @@
       "Paragraf 93 BVerfGG nur für den beauftragten Verfassungsbeschwerdeweg mit konkretem Fristauslöser ergänzt.",
       "Konkrete Belastung und milderes Mittel zuerst; 1 BvR 2380/21 nur mit Trennung von Erforderlichkeit und Angemessenheit und begrenztem Tierarzneimittel-Sachverhalt vorgezogen."
     ],
-    "sha256": "c40adcf3a584e5b2d94be3266374b0f7c9b41136678fcf18c07f0eeb6d648a69",
+    "sha256": "d35e53b787283d80833453eb9b2d49ac3e6be5719c30ac648109ac6f72f3ba2b",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -157,5 +157,15 @@
       "search_2026": "2 BvR 1096/22 vom 21.05.2026 als Suchtreffer gefunden, nur allgemeine Zweckpassage. Ohne konkreten vollständig gelesenen Fallabgleich nicht als Universalanker eingefügt.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

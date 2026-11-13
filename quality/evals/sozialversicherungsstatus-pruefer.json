@@ -115,7 +115,7 @@
       "30.09.2026: BSG 23.07.2026 B 12 BA 10/24 R in Altplugin übernommen: Stichentscheid kann bei 50/50 die verlässliche Verhinderungsmacht beseitigen.",
       "2026-10-16, redaktioneller Einstiegsreview: Tatsächliche Einsatzgestaltung mit Paragraf 7 SGB IV und begrenztem VHS-Anker früh verbunden. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "3087648b89452adfcb06740f4947f11601e9f876eee34f8c11d51ff4debad6bb",
+    "sha256": "f1d4d0782614dc28b07896e58e1a4f3a330061a8e6e7a80cd7bbd13b4f35f68d",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -197,5 +197,15 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

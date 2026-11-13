@@ -57,7 +57,7 @@
       "Besitzer als Adressat der Zweigfrist, bestimmte Abhilfe, Terminantwort und Änderung des vorhandenen Dokumentpfads verbunden.",
       "Redaktion 16.10.2026: Überhang-Selbsthilfe früh von Fällung, Zutritt und Naturschutz abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f7de076e077e21a756acacff5500cb82b6f69de82b4845895e93d660ab3d9990"
+    "sha256": "ead9feeb438236cce252d7db621f7ec4441b57a2094820d76c5f7c4ffd296b0d"
   },
   "selection": {
     "positive": [
@@ -149,5 +149,15 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

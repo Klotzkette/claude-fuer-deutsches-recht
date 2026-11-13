@@ -200,7 +200,7 @@
       "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt.",
       "Bescheid, Fahrerzuordnung und Messung bleiben Einstieg; 2 BvR 1616/18 früh mit Verteidigungsbezug, vorhandenen Daten und Grenze gegenüber Ausforschung und automatischem Freispruch."
     ],
-    "sha256": "bc9171bf189fc0ce5a8d782edf216cbf7d999ae1e621c9e6d0d7b211aeea8b6d",
+    "sha256": "03e672a4cf815875e8bede3a97fe99c3406fff1a74f67625a645009d18c2bbf8",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -254,5 +254,15 @@
       "Nichtannahme 2023 ist keine allgemeine Sachentscheidung über jede Speicherungspflicht; aktuelle gerätespezifische Vorgaben bleiben zu prüfen.",
       "Workflow-Erweiterung 23.09.2026: Paragraf 67 OWiG erneut gelesen; bestehende qualifizierte Nachweise zu den Messdatenentscheidungen erhalten, keine neue vollständige Entscheidungsprüfung oder Geräteprüfung behauptet."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

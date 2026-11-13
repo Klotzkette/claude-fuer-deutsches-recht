@@ -470,7 +470,7 @@
       "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert.",
       "16.10.2026: Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt."
     ],
-    "sha256": "0f0b406bcde429a47d48e1734a96bd4c5113c719268c3591bc42acb240e30af8",
+    "sha256": "b9dd3a523d48ce19998859b321caa4fb656a8f9452f59c8659336e6cf7875874",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -494,5 +494,15 @@
         "anchor_or_exception": "Paragraf 160 GWB; EuGH 12.02.2004 C-230/02 Grossmann: Teilnahmehindernis und Interesse konkret, kein genereller Ausschluss jedes Nichtbieters; weiterer vorhandener Anker C-54/21 unverändert."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bauvergabe/bauvergabe-rechtsschutz/bauvergabe-rechtsschutz-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

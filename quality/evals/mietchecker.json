@@ -455,6 +455,16 @@
       "Bestandsaufnahme, örtliche Berechnung, Rechtsfolge und Fortsetzung nach Belegeingang ausformuliert.",
       "Redaktion 16.10.2026: Tatsächliche Fläche und fortbestehende Kappungsgrenze im Einstieg; vorhandener Leitsatzstatus sichtbar. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "da958e2ad825f46e14c1ee23d9591ace0d5820619682c05f466a69d428e04c3c"
+    "sha256": "40b76c696c420d169932d2cf1da2ad498eb5a9c8788a51815d3af7ae30269efe"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "mietchecker/mietchecker-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

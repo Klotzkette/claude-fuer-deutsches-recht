@@ -57,7 +57,7 @@
       "Zweckwechsel, Testprotokolle, externer KI-Dienst, Beraterarchive und Abruf gegenüber Weitergabeverdacht in konkrete Klausel- oder Schreibenänderungen überführt.",
       "Redaktion 16.10.2026: Gesetzlicher Geheimnisbegriff und vertragliche Nachwirkung früh unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f3c97a39c1a595149cff5d89517235e2a902bfe314ef4347cc30339bdb7b5eb2"
+    "sha256": "a430b739516f739b6a41046f778c5290283c875d072a49fe8b0384e5cad3b0fc"
   },
   "selection": {
     "positive": [
@@ -140,5 +140,15 @@
     "continuation": "Erlaubter Berater-Test ändert Zweck, Empfängerbindung und Auswertungsrückgabe im vorhandenen nda-entwurf.md; nachgewiesene Vorveröffentlichung beschränkt den Vorwurf im bestellten verletzungsschreiben.md.",
     "enrichment": "Offenlegung vor Vertrag, Kennzeichnung als Schutzvoraussetzung gegenüber Beweishilfe, technische Test- und Entwicklungszwecke, Teilöffentlichkeit, Backups und belegbezogene Reaktion auf Weitergabe.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

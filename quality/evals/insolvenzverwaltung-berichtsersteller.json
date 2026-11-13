@@ -23,7 +23,7 @@
       "Masseunzulänglichkeit, Betriebsfortführung, Asset Deal, Mietverhältnis, natürliche Person und Nachtragsverteilung geroutet.",
       "Empfängerfassung, Anlagenkontrolle, Datenschutz, Statistik und Red-Team-Prüfung ergänzt."
     ],
-    "sha256": "2f881e0c1a990f087363575b159131dc726d358b4518f43842bf9bb8a68a3b13"
+    "sha256": "719b63690fa95609ef8a8464f2b8990af3fe2da6e7ecf1660b83de0c652d09a1"
   },
   "selection": {
     "target_skill": "berichtserstellung-steuern",
@@ -351,5 +351,15 @@
     "continuation": "Neue Unterlagen aktualisieren nur die betroffenen Fachmodule und erzeugen eine neue führende Version. Frühere eingereichte Fassungen bleiben unverändert und nachweisbar.",
     "enrichment": "Vier fiktive Akten erproben fortlaufende Zwischenberichte, langen Abschlusslauf, geschlossene Rechenbrücke, gerichtliche Gates und spätere Nachtragsverteilung.",
     "limits": "Desk Review; keine autonome Einreichung, gerichtliche Zustimmung, Zahlung, Hinterlegung oder Aufhebung."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

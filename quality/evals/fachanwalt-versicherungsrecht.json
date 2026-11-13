@@ -141,7 +141,7 @@
       "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Leistungsablehnung und fertige Erwiderung stehen vor der Fachübersicht; berufliche Teilhandlungen werden im Gesamtvorgang bewertet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "29ab59e6526b63157d9665a4e98f8915e8bdcabc84359402b33ad8278a71dbeb",
+    "sha256": "57c14f83d8449f32197516edd53e169f30d055f2ee0117be5095aa2baebc1b82",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -329,5 +329,16 @@
       "BGH, Urteil vom 09.09.2026, IV ZR 259/25"
     ],
     "new_model_test": false
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
+      "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

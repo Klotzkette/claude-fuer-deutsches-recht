@@ -103,7 +103,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 ### Schritt 4 — Verhandlung / Klage
 
 - Vergleich mit Versicherer
-- Bei Streit: LG (Streitwert + 5.000 EUR Grenze)
+- Für seit 1.1.2026 anhängige bürgerliche Streitigkeiten aus Heilbehandlungen ist nach [§ 71 Abs. 2 Nr. 9 GVG](https://www.gesetze-im-internet.de/gvg/__71.html) das Landgericht unabhängig vom Streitwert ausschließlich zuständig. Für schon vor diesem Datum anhängige Verfahren gilt die Ausnahme des [§ 44 EGGVG](https://www.gesetze-im-internet.de/gvgeg/__44.html); Anhängigkeitsdatum und Rechtsweg daher vor der Gerichtsbestimmung feststellen. Normabgleich: 13.11.2026.
 - Beweisaufnahme Sachverständiger
 
 ## 6) Schadensersatz / Schmerzensgeld

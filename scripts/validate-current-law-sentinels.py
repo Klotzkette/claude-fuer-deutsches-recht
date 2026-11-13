@@ -2014,6 +2014,21 @@ SENTINELS += (
             re.IGNORECASE,
         ),
     ),
+    Sentinel(
+        "aktuelles Entlastungsverfahren unter 50d statt 50c EStG",
+        re.compile(
+            r"^(?![^\n]*(?:\ba[.]\s*F[.]|Alt(?:recht|fall|fälle)|früher|bis\s+2021))"
+            r"[^\n]*(?:§|Paragraf)\s*50d\s+"
+            r"(?:(?:Absatz|Abs[.]?)\s*(?:1a?|2)\s+)?EStG"
+            r"\s*(?:\||:|–|—|-)\s*(?:Erstattungs|Freistellungs)"
+            r"[^\n|]{0,60}(?:verfahren|bescheinigung|antrag)",
+            re.IGNORECASE | re.MULTILINE,
+        ),
+    ),
+    Sentinel(
+        "unbekannte Nutzungsarten mit falschem Gesetzeskürzel 31a UhG",
+        re.compile(r"(?:§|Paragraf)\s*31a\s+UhG\b", re.IGNORECASE),
+    ),
 )
 SENTINEL_HINTS += (
     ("geschenke",),
@@ -2022,6 +2037,8 @@ SENTINEL_HINTS += (
     ("freistellungsbescheinigung",),
     ("kryptostg",),
     ("wechselrecht",),
+    ("50d",),
+    ("uhg",),
 )
 
 if len(SENTINEL_HINTS) != len(SENTINELS):

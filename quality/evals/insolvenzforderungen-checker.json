@@ -960,7 +960,7 @@
       "Übergabe spricht entscheidungsreife, formell offene und materiell offene Positionen getrennt an."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "a4aafa388e0ef02533d7a0fa5aa5454909be56122f59c80a241f48f97b03fab2"
+    "sha256": "137d442f4ee8186fe19acaf0f7b384a5144c445dea20eb2fb9c862e60e09949d"
   },
   "prompt_opening_review": {
     "date": "2026-10-16",
@@ -1023,5 +1023,15 @@
         "sha256": "243e03b9e17b9fe844689e1e9ce16cf12301782da4b9d4b3c65dc2389b45f440"
       }
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

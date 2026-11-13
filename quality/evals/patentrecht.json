@@ -79,7 +79,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4924c25447af6f7d870069c7197f2d523fea9ceaccb5c08e585e34c1f85f5be8",
+    "sha256": "05b29370b7f2973ce8fb2656a64ac2fa13b101167b7382a7293550b9c2005678",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -173,5 +173,15 @@
     "continuation": "Neue Serienzeichnung ändert Sensorbefund und Schlussfolgerung in verletzungsvermerk.md; Offenbarungsstelle ändert Anspruch und Begründung in bescheidserwiderung.md; Gebietsangabe ändert Rechteumfang und Verweise in lizenzvertrag.md.",
     "enrichment": "Technische Alternativen und ursprüngliche Stütze, Änderung und Hilfsanträge, EPA-Frist und nationale Sperre, reproduzierbare Produktbefunde, einzelne Rechtsfolgen und konkrete Lizenzabrechnung.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "patentrecht/patentrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

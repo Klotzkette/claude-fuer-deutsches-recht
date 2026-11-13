@@ -179,7 +179,7 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 ## Schritt 10 — Streitwert
 
 - Anfechtungsklage: häufig nach wirtschaftlichem Interesse Beschluss
-- Sonderfälle § 49a GKG Anwendung
+- Sonderfälle § 49 GKG Anwendung
 
 ## Ausgabe
 

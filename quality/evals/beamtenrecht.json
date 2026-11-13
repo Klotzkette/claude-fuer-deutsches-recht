@@ -110,7 +110,7 @@
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
       "16.10.2026: Beantragte beamtenrechtliche Entscheidung und Eilrechtsschutz früh konkretisiert."
     ],
-    "sha256": "5c1642999adbe329e7f6176ae4cb079a11541e243ebb537d0ec1c5298d234437",
+    "sha256": "545607affe487ba41077e58f0f6ea90580a76e1182f3802190731f461b4d369e",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -186,5 +186,15 @@
         "anchor_or_exception": "Artikel 33 Absatz 2 GG, Paragraf 123 VwGO; BVerwG 03.03.2025 2 VR 4.24: realistische Auswahlchance, keine freie Notenverbesserung oder unbesehene Übernahme alter Übergangsregeln."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "beamtenrecht/beamtenrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

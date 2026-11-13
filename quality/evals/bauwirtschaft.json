@@ -329,7 +329,7 @@
       "Eigenständige Werkstatt nennt ausdrücklich Erfüllungsgehilfenfall und unmittelbares Bauherrnmandat; bestehende RDG-Regression nach Korrektur bestanden.",
       "16.10.2026: Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert."
     ],
-    "sha256": "cbcfcd199f47b2f152e1f41f11fc79f6fa1369edacf5090c359fee2a517deb92",
+    "sha256": "3c4fee0962ef0e69cc5525852f2106a5055faf5cac48c08eccf56413e7c07345",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
@@ -348,7 +348,7 @@
     "prompt_path": "bauwirtschaft/bauwirtschaft-hauptproblem.md",
     "prompt_sha256": "5ae291ea025b1c6f5bfcbedc999c5d832771d51b9a8767b5d4751e550872f0e2",
     "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-    "skill_sha256": "6715d35f88a9798d09fed3fab8deac274858fd3b69419e9bf5ae7e15c3cc9d7f"
+    "skill_sha256": "fad7befdfe2ab95ea8a2c0f0ac7efe3c606e76f2817eecb22b40ab79ea1b9024"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -2432,5 +2432,17 @@
         "anchor_or_exception": "Hauptwerkstatt: Paragraf 650p BGB, HOAI, Paragrafen 3 und 5 RDG; BGH 09.11.2023 VII ZR 190/22 zur individuellen Skontoklausel, kein Verbot technischer Mitwirkung. Mini: Paragraf 307 BGB; BGH 15.02.2024 VII ZR 42/22 zur Vertragsstrafenobergrenze."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bauwirtschaft/bauwirtschaft-hauptproblem.md",
+      "bauwirtschaft/bauwirtschaft-werkstatt.md",
+      "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

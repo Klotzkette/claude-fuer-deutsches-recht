@@ -88,7 +88,7 @@
       "Damals vorhandene Hindernisse, konkreter Gerüchteinhalt, Widerspruch zu öffentlicher Kommunikation, Prognosevalidierung und Order vor Kenntnis.",
       "Einstiegsredaktion 16.10.2026: Kenntniszeitfolge und Dokumentziel konkretisiert; Geltl-Anker ausdrücklich nicht als Aussage zu geänderten Veröffentlichungspflichten ausgegeben."
     ],
-    "sha256": "c3f795790e38879ebdc124820ef06002610ec5aeb6adc3c2d5500c650aa17662"
+    "sha256": "e7f5982e9d83a669a08e1f7409d91f650ed0f07885ff1f8381ea8e98f29fa93f"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -184,5 +184,15 @@
         "utf8_bytes": 22283
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "insiderrecht-compliance/insiderrecht-compliance-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

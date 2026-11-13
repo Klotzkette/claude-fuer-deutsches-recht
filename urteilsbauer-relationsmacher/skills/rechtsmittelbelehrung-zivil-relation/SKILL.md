@@ -15,19 +15,19 @@ description: "Für Rechtsmittelbelehrung Zivil: ordnet Norm, Beweislast und Gege
 
 ## Spezialwissen
 
-Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, gegen die ein selbständiges Rechtsmittel statthaft ist.
+§ 232 ZPO regelt die Belehrung über statthafte Rechtsbehelfe. In Verfahren mit Anwaltszwang entfällt sie grundsätzlich; Ausnahmen gelten unter anderem für Einspruch und Widerspruch sowie Belehrungen an Zeugen oder Sachverständige. Vor Erstellung die konkrete Belehrungspflicht prüfen.
 
 ## Triage zu Beginn
 
 1. Handelt es sich um ein Endurteil (→ Berufung § 511 ZPO) oder einen Beschluss (→ sofortige Beschwerde § 567 ZPO)?
-2. Ist die Beschwer der Berufungsklägerin über 600 EUR (§ 511 Abs. 2 Nr. 1 ZPO)?
+2. Ist die Beschwer der Berufungsklägerin über 1.000 EUR (§ 511 Abs. 2 Nr. 1 ZPO)?
 3. Hat das Gericht die Berufung zugelassen (§ 511 Abs. 4 ZPO)?
 4. Welches Berufungsgericht ist zuständig — LG (bei AG-Urteilen) oder OLG (bei LG-Urteilen)?
 
 ## Zentrale Normen
 
 - § 232 ZPO — Pflicht zur Rechtsmittelbelehrung
-- § 511 ZPO — Berufung (statthaft gegen Endurteile über 600 EUR Beschwer oder bei Zulassung)
+- § 511 ZPO — Berufung (statthaft gegen Endurteile über 1.000 EUR Beschwer oder bei Zulassung)
 - § 517 ZPO — Berufungsfrist (1 Monat nach Zustellung)
 - § 520 ZPO — Berufungsbegründungsfrist (2 Monate nach Zustellung)
 - § 567 ZPO — sofortige Beschwerde gegen Beschlüsse (Frist 2 Wochen)
@@ -36,7 +36,7 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 ## Schritt-für-Schritt-Workflow
 
 1. **Entscheidungsart bestimmen:** Urteil (→ Berufung) oder Beschluss (→ sofortige Beschwerde)?
-2. **Statthaftigkeit prüfen:** Beschwer > 600 EUR oder Berufungszulassung?
+2. **Statthaftigkeit prüfen:** Beschwer > 1.000 EUR oder Berufungszulassung?
 3. **Berufungsgericht bestimmen:** AG-Urteil → LG; LG-Urteil → OLG.
 4. **Fristen einsetzen:** 1 Monat Einlegung, 2 Monate Begründung — jeweils ab Zustellung.
 5. **Standardformel einfügen** (s. unten).
@@ -52,20 +52,22 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 Gegen dieses Urteil ist die Berufung statthaft.
 
 Die Berufung ist binnen einer Frist von einem Monat nach Zustellung dieses Urteils beim
-[Landgericht / Oberlandesgericht] [ORT], [ANSCHRIFT], schriftlich oder zu Protokoll der
-Geschäftsstelle einzulegen und binnen einer weiteren Frist von einem Monat nach Zustellung
-zu begründen.
+[Landgericht / Oberlandesgericht] [ORT], [ANSCHRIFT], durch Einreichung einer
+anwaltlichen Berufungsschrift einzulegen. Die Berufungsbegründungsfrist beträgt zwei
+Monate. Beide Fristen beginnen mit Zustellung des in vollständiger Form abgefassten
+Urteils, spätestens mit Ablauf von fünf Monaten nach seiner Verkündung. Die elektronische
+Einreichungspflicht nach § 130d ZPO ist zu beachten.
 
 Vor dem Berufungsgericht besteht Anwaltszwang.
 
-[Falls keine Berufung statthaft (Beschwer unter 600 EUR, keine Zulassung):]
+[Falls keine Berufung statthaft (Beschwer von nicht mehr als 1.000 EUR, keine Zulassung):]
 Gegen dieses Urteil ist ein Rechtsmittel nicht gegeben.
 ```
 
 ## Berufung
 
 Statthaft gegen Endurteile (Paragraf 511 Abs. 1 ZPO). Voraussetzungen:
-- Beschwer der Berufungsklägerin / des Berufungsklägers über 600 EUR (Paragraf 511 Abs. 2 Nr. 1 ZPO) ODER
+- Beschwer der Berufungsklägerin / des Berufungsklägers über 1.000 EUR (Paragraf 511 Abs. 2 Nr. 1 ZPO) ODER
 - Zulassung der Berufung durch das erstinstanzliche Gericht (Paragraf 511 Abs. 4 ZPO)
 
 Form und Frist:
@@ -83,8 +85,14 @@ Form und Frist:
 
 ## Standardformulierung
 
-"Gegen dieses Urteil ist die Berufung statthaft. Die Berufung ist binnen einer Frist von einem Monat nach Zustellung des Urteils beim Landgericht Hamburg (Sievekingplatz Nummer 1 in 20355 Hamburg) schriftlich oder zu Protokoll der Geschäftsstelle einzulegen und binnen einer Frist von zwei Monaten nach Zustellung schriftlich zu begründen. Vor dem Berufungsgericht besteht Anwaltszwang."
+„Gegen dieses Urteil ist die Berufung statthaft. Sie ist binnen eines Monats durch anwaltliche Berufungsschrift beim [zuständigen Berufungsgericht, Sitz und Anschrift] einzulegen. Die Begründungsfrist beträgt zwei Monate. Beide Fristen beginnen mit Zustellung des in vollständiger Form abgefassten Urteils, spätestens mit Ablauf von fünf Monaten nach seiner Verkündung. Vor dem Berufungsgericht besteht Anwaltszwang; die elektronische Einreichungspflicht nach § 130d ZPO ist zu beachten.“
+
+Diese Formel nur nach positiver Statthaftigkeits- und Zuständigkeitsprüfung verwenden. Eine Berufung kann nicht zu Protokoll der Geschäftsstelle eingelegt werden. Einlegungs- und Begründungsfrist laufen ab demselben Ausgangsereignis; eine Verlängerung der Begründungsfrist richtet sich nach § 520 Abs. 2 ZPO. Amtliche Anker: [§ 232](https://www.gesetze-im-internet.de/zpo/__232.html), [§ 517](https://www.gesetze-im-internet.de/zpo/__517.html), [§ 519](https://www.gesetze-im-internet.de/zpo/__519.html), [§ 520 ZPO](https://www.gesetze-im-internet.de/zpo/__520.html).
 
 ---
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+## Übergangsrecht zum Berufungswert
+
+Die Grenze des § 511 Abs. 2 Nr. 1 ZPO liegt grundsätzlich bei **mehr als 1.000 EUR Beschwer**; genau 1.000 EUR reichen nicht. Beschwer und Streitwert unterscheiden und die Zulassung gesondert prüfen. Nach [§ 47 EGZPO](https://www.gesetze-im-internet.de/zpoeg/__47.html) gilt die frühere Grenze von mehr als 600 EUR weiter, wenn die Entscheidung bis einschließlich 31.12.2025 verkündet oder mangels Verkündung der Geschäftsstelle übergeben wurde. Gleiches gilt bei bis dahin geschlossener mündlicher Verhandlung; im schriftlichen Verfahren ist der Einreichungsschluss maßgeblich. Daher auch bei einem Entscheidungsdatum im Jahr 2026 die Übergangstatsachen erheben. Normabgleich mit [§ 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html) am 13.11.2026.

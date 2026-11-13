@@ -142,7 +142,7 @@
       "Redaktion 16.10.2026: Gerichtlicher Antrag und konkrete Gemeinderüge bereits im Einstieg getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25"
     ],
-    "sha256": "bdaf17a753e282ca7af37271c87eea5ed47eb06d4357ea5c9f582c359bae92e6"
+    "sha256": "0fc2cea92f4752f382d518f6b45c21b8a7709096d96efb226b6a86da84a1975a"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -251,5 +251,15 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

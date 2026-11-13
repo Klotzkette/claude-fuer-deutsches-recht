@@ -95,7 +95,7 @@
       "Messeoffenbarung, Herkunftsnachweis, ursprüngliche technische Kombination, zeitliche Alternativen und unbekannte Verletzungsmerkmale konkretisiert.",
       "Einstiegsredaktion 16.10.2026: Anspruchsvergleich und Ergebnis vorangestellt; Erfindungshöhe und besonderer Stand der Technik unterschieden, begrenzten Leitsatznachweis in Reviewdaten erhalten."
     ],
-    "sha256": "bd593b465425df0e5b0d1bd64c78107a60409dc98d845669d47248cad1083e7c"
+    "sha256": "0f259eb76bdde78078b69ecb9a8494ddb46281f6f5dca293cd18a8cfba4eb84b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -184,5 +184,15 @@
         "utf8_bytes": 19703
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -192,7 +192,7 @@
       "Gegenprüfung: Ausnahme nach Paragraf 92c HGB ergänzt; Weisungsausnahme auf Unions- und Mitgliedstaatenrecht begrenzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "cfddc1b501ac59e583b57a01c3bafc72e37505f70834a21ec476be0c2dc5ee28",
+    "sha256": "dd36d5070759522f2d5666ad02dbf9781617232949eb2f7b230737633f978ec0",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -210,7 +210,7 @@
     "prompt_path": "corporate-contract-law/corporate-contract-law-hauptproblem.md",
     "prompt_sha256": "a3bab039bbef1250c24c41ecfa798b53aebcfaaf7b38a3f7bdb6ff849ed8e853",
     "skill_path": "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md",
-    "skill_sha256": "f20a1df53357a772c676d7f1832ad7080ae66790cdfbd040ca8bbe5039385771"
+    "skill_sha256": "d5b6abc288e03054162596d607cf8fb6dbde082a0db28f9d6ed89a89ac25d4e2"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -987,5 +987,17 @@
       "corporate-contract-law/skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md",
       "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md"
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "corporate-contract-law/corporate-contract-law-hauptproblem.md",
+      "corporate-contract-law/corporate-contract-law-werkstatt.md",
+      "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

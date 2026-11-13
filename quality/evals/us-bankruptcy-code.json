@@ -53,7 +53,7 @@
       "Nachgereichte Order verändert nur die gedeckte Handlung; Besitzbeginn und zusätzliche Zahlungsbedingungen steuern getrennte Fulton- und Stay-Prüfung.",
       "Forderungsdifferenz, Teilzahlung, Bar-Date-Order und Order-Neufassung verändern Anmeldung beziehungsweise begrenzte Einwendung; Gegenargument wirtschaftlicher Verluste berücksichtigt."
     ],
-    "sha256": "15561ffe2cce6b30c901c8d3d81fae082f9d3d6be95ff8e8fe33207d0b4e7a4c"
+    "sha256": "2f8355e88ad22795a116e440a96da1df44105158bbd24fe43c33de934672b913"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -137,5 +137,15 @@
       "Aktueller US-Code-Volltextabruf technisch gescheitert; nur amtlich indexierter Normtext und der im Urteil behandelte Wortlaut geprüft. Aktuelle Code-Fassung, Local Rules und konkrete Orders vor Mandatsverwendung prüfen.",
       "Keine Live-Prüfung von PACER oder ECF und keine vollständige Neuverifikation sämtlicher Chapter."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "us-bankruptcy-code/us-bankruptcy-code-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -64,7 +64,7 @@
       "Bündelerlös, spätere Retoure, Abverkauf, fortbestehende Kundenrechte und Support getrennt bearbeiten; Escrow-Build und Komponentenrechte nicht gleichsetzen.",
       "Redaktion 16.10.2026: Rechtebestand, Vergütung und Fortbestand wirksamer Unterlizenzen am Anfang verbunden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "cc6a4ba85df63e05f5306bdb876b1f17ce0078c1785c917ff1553e03881c5405"
+    "sha256": "fef6a11902f9043b8b8dcd2deda822ab51596939ff315e40fdadbd67c06f9336"
   },
   "selection": {
     "positive": [
@@ -149,5 +149,15 @@
     "continuation": "Erlaubte Weiterlizenzierung bei ausgeschlossenem Bearbeitungsrecht verändert im vereinbarten Pfad, beispielsweise vertraege/lizenzvertrag.md, Rechteanlage, Unterlizenzregel, Bearbeitungs- und davon abhängige Leistungszusagen.",
     "enrichment": "Zusammengesetzte Lizenzprodukte, Fertigungs- und Vertriebswege, Exklusivitätsgegenleistung, Bündelabrechnung und spätere Retouren, Bestände bei Beendigung sowie technischer und rechtlicher Umfang einer Escrow-Hinterlegung.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "lizenzvertragsersteller/lizenzvertragsersteller-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

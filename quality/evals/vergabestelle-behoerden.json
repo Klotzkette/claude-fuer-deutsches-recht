@@ -20,7 +20,7 @@
     "changes": [
       "Generische Eigenbeschreibung und vorgeschaltete Slug-Tabelle ersetzt. Unterlagen, Wertung und Rüge sind die Einstiegswege; X ZB 10/16 begrenzt auf Preisaufklärung. Optionale Skill-Tabelle ans Ende verschoben, doppelte Mini-Abschnitte gestrafft."
     ],
-    "sha256": "e7b5c175dd13c89bf259699528dfd7f52d0af9ad6901b8896dfe94d80779d241",
+    "sha256": "1336d1311482556aa66a67f2b291e4959c8aae3509f04bcc117ae85951436f2a",
     "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
@@ -228,5 +228,15 @@
     "reference": "vergaberecht-werkstatt/vergabestelle-behoerden/references/ki-normen-und-fallpruefung.md",
     "focus": "Lassen Sie Bieter Systemzweck, Version und konkrete Nachweise beschreiben. Ein Zertifikatsname oder allgemeines Risikokonzept ersetzt keinen überprüfbaren Leistungs- und Testgegenstand.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

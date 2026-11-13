@@ -45,7 +45,7 @@
       "Nachgelieferte Passage verändert Text und alle Kurzbelege; Quellenprotokoll und Empfängertext bis zur konsistenten Fassung führen.",
       "Aussagebezug und korrigierte Fassung bleiben der Zweck. C-516/17 zum Zitatzweck früh; Fußnotenstil bleibt Konvention und keine Erlaubnis beliebiger Literaturübernahme."
     ],
-    "sha256": "deaf08e53ee35731ad53ac44c52e29f852ff4104b1f26cec807544536012fb26",
+    "sha256": "ef04e9941e47a9c601c2bb441442e42d89af854827d87c720fe033b1b8c957a8",
     "method": "desk_review",
     "reviewed_on": "2026-10-16"
   },
@@ -127,5 +127,15 @@
       "Workflow-Review: keine lizenzierte Literaturprüfung; aktuelle Paragrafen 51 und 63 UrhG direkt gelesen, erneute EuGH-Pinpointprüfung durch Robot-Prüfung begrenzt.",
       "Konkret zitierte Literatur muss weiterhin in passender Auflage zugänglich sein."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "zitierweise-deutsches-recht/zitierweise-deutsches-recht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

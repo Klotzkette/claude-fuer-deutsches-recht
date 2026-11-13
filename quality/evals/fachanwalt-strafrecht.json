@@ -226,7 +226,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Bestellter Verteidigungstext und interne Prüfung sind von einer Einlassung getrennt; tatsächliche Verfügungsmacht steuert die Einziehung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 09.09.2026, AK 46/26; BGH, Beschluss vom 05.02.2026, StB 3/26"
     ],
-    "sha256": "3c9a2c4b169ef0577757978cad720fd4cff1c75fb795bde7ed0f7c40cbb456be",
+    "sha256": "8041551eda74632dc0e805534ecbaeca7f0a3cc746274099018092763c3491fa",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -477,5 +477,16 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
+      "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

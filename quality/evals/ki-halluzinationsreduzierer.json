@@ -548,7 +548,7 @@
       "Quellenbefund von fallbezogener Darlegung und tatsächlicher menschlicher Entscheidung getrennt.",
       "Keine pauschale Nichtbeachtlichkeit und keine fingierte Prüfbestätigung."
     ],
-    "sha256": "93b03d9413ca030a914092d5e361c89c02777968cfd2aa2881ede6545f0f9ddf",
+    "sha256": "bffea96acf3f76088f6c32c4692be0ffc12bf5c504f3d417faf97bff697e2984",
     "reviewed_on": "2026-10-19"
   },
   "focus_review": {
@@ -564,7 +564,7 @@
     "prompt_path": "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md",
     "skill_path": "ki-halluzinationsreduzierer/skills/halluzinationspruefung-steuern/SKILL.md",
     "prompt_sha256": "cfc3e46772b0a55ed6640f3ece31cfc16815b761b0d08db181537975f547b382",
-    "skill_sha256": "8e4038e4124c8298efea2eec7d760e2e88bf92e743a4076dce68280ecb03f874"
+    "skill_sha256": "20cf36833c15e9eb6f86cc1754a97a3ad6ba99bbe442bca548ba2e740889244b"
   },
   "prompt_workflow_review": {
     "date": "2026-10-19",
@@ -641,5 +641,17 @@
       "Nichtamtliche Literatur nur am zugänglichen Verlagsoriginal und nur im zugelassenen Prüfbereich.",
       "Eine gelesene Quelle garantiert keine richtige Fallanwendung; diese wird gesondert begründet."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md",
+      "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.md",
+      "ki-halluzinationsreduzierer/skills/halluzinationspruefung-steuern/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

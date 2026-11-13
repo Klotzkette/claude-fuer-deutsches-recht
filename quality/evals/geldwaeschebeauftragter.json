@@ -220,7 +220,7 @@
       "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto.",
       "Einstiegsredaktion 16.10.2026: Konkrete Risiko-, Nachforderungs- und Meldeprodukte vorangestellt; verhältnismäßige Unterlagenanforderung mit Rodl-Anker verbunden und erneute Pflichtaufnahme vermieden."
     ],
-    "sha256": "67d583b421eaeadb7ea7c39a5194cbff9ae04b5c3a19f7b528b3139a3a8c896f"
+    "sha256": "10e7a704b7eec12939b2528e139fc54f4dd1d6cd934839def496d832045198f1"
   },
   "focus_review": {
     "method": "desk_review",
@@ -234,7 +234,7 @@
     "prompt_path": "geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md",
     "skill_path": "geldwaeschebeauftragter/skills/geldwaescheproblem-loesen/SKILL.md",
     "prompt_sha256": "adb3550d88fc11ad3ab791b511f4493d4f0ef10ab49c0522bf8baa585a6f0c4d",
-    "skill_sha256": "e60cc0371c12b1d31986361028ecac662f7cd895b64b81a0b81a7a8948199b70"
+    "skill_sha256": "bba804a6eb934b8ce2694fe57acfb3ec08e656d130e037aa3e00c1c3d1c570d2"
   },
   "prompt_editorial_review": {
     "date": "2026-10-08",
@@ -518,5 +518,17 @@
         "utf8_bytes": 7160
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md",
+      "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md",
+      "geldwaeschebeauftragter/skills/geldwaescheproblem-loesen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

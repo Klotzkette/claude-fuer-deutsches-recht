@@ -163,7 +163,7 @@
       "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "83f5187f577b61be3b1bbc2cb743a7d00ee680d376182e2ee2a4fe80b2d04508",
+    "sha256": "10dd7a020ca00c34b6cd8eaa7f5a3e24447ea7534c40f7d49d4514b114de087c",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
     "previous_reviews": [
@@ -361,5 +361,15 @@
       }
     ],
     "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -105,7 +105,7 @@
       "Sponsoring und Drittzahlungen anhand Vereinbarung und Bankbeleg bis zur Korrektur der Berichtsposition verfolgt.",
       "2026-10-16, redaktioneller Einstiegsreview: Wahl und Ausschluss früh anhand PartG getrennt; staatliche Kontrolle nicht mit politischer Zweckmäßigkeit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "cdd1c86cb7a698bf936366511d66e4ae5bd5f42519f634d938e5acf9e0a41629",
+    "sha256": "faa404f178e51b2657b285a08ddd114481b5ced894e11cbf38611472070f144f",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -162,5 +162,15 @@
     "continuation": "Neue Anwesenheitszahl ändert nur betroffene Wahlgänge in wahlpruefung.md und den belegten Protokollentwurf; neue Gegenleistungsvereinbarung verändert Einordnung und Berichtsposition in rechenschaftsvermerk.md.",
     "enrichment": "Satzungswechsel und Einladung, Stimmzahlen und elektronische Geheimwahl, tatsächlicher neuer Wahlgang, Ausschlussbelege und Dringlichkeit sowie Zahlungszuordnung und vollständiger Dokumentabschluss.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

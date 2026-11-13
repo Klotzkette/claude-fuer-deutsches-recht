@@ -120,7 +120,7 @@
       "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25"
     ],
-    "sha256": "3be923ba1fb4442b0df3e68fa93edab217c1f7d7a3d8a25c5d0d722e1a63b440",
+    "sha256": "998f537d8fab6068fcbd8e0023af100c1b7e13ce294f74990b115d069f3b7d1f",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -335,5 +335,15 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

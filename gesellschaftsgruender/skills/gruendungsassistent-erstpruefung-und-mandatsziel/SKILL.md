@@ -70,5 +70,5 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 - **UG vs. GmbH:** UG spart Stammkapital, kostet aber 25 %-Gewinnthesaurierung und schlechteres Image bei Banken/Lieferanten.
 - **GmbH vs. GmbH & Co. KG:** KG ermöglicht steuerliche Verlustverrechnung beim Kommanditisten, aber komplexere Struktur und höhere laufende Kosten (zwei Jahresabschlüsse).
-- **PartG mbB vs. Sozietät:** mbB schützt vor Berufsfehlern der Partner, aber nur bei Pflichtversicherung (Paragraf 8 Abs. 4 PartGG i.V.m. Paragraf 51a BRAO bei Anwälten).
+- **PartG mbB vs. Sozietät:** mbB schützt vor Berufsfehlern der Partner, aber nur bei Pflichtversicherung (Paragraf 8 Abs. 4 PartGG i.V.m. Paragrafen 59n, 59o BRAO bei anwaltlichen Berufsausübungsgesellschaften).
 - **DiRUG-Online-Gründung:** seit 01.08.2022 Paragraf 2 Abs. 3 GmbHG erweitert; vereinfacht GmbH-Gründung. Beachte: Sacheinlagen weiterhin Präsenznotar.

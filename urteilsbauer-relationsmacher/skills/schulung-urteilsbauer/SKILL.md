@@ -103,7 +103,7 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 3. CISG ist anwendbar, auch ohne ausdrücklichen Ausschluss in beiden AGB.
 4. Incoterm FOB Galway - Gefahrübergang dort, also vor Eintritt in die EU - aber DSGVO greift trotzdem nach Art. 3 II DSGVO.
 5. Streitwert 1577 EUR - sachlich zuständig AG nach Paragraf 23 Nr. 1 GVG.
-6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR für Beklagte) - der Kläger hat aber Beschwer über 600 EUR, also Berufung statthaft.
+6. Die Rechtsmittelbeschwer beider Parteien anhand des konkreten Tenors getrennt berechnen. Nach § 511 Abs. 2 Nr. 1 ZPO muss sie grundsätzlich 1.000 EUR übersteigen; genau 1.000 EUR genügen nicht, die Zulassung bleibt gesondert zu prüfen. Die frühere Grenze von mehr als 600 EUR gilt nach § 47 EGZPO weiter, wenn die Entscheidung bis 31.12.2025 verkündet oder der Geschäftsstelle übergeben oder die zugrunde liegende Verhandlung bis dahin geschlossen wurde; im schriftlichen Verfahren ist der Einreichungsschluss maßgeblich. Ohne diese Daten kein festes Berufungsergebnis zusagen.
 
 ---
 

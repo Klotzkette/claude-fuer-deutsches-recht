@@ -734,7 +734,7 @@
       "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 2/25 R; BSG, Urteil vom 01.10.2026, B 3 P 3/25 R"
     ],
-    "sha256": "61ed77d1c44f457634a0af3f99cb7fd08afba5d735776b5593ffe9df2138fbe3",
+    "sha256": "2cd842802e6850bf784c5c534310b5ae857100030ac7c179fc8e95a5c2d50302",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -813,5 +813,15 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

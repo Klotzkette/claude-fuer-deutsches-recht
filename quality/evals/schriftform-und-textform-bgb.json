@@ -93,7 +93,7 @@
       "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
       "2026-10-16, redaktioneller Einstiegsreview: Form-/Zugangsvermerk als Zweck; geschäftlichen E-Mail-Zugang nicht als Formheilung oder Absendenachweis behandelt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "95c5dd5caf03a51d8b039094646fb2fe537996a75f6c9387689e37f36077e8e0",
+    "sha256": "f689f9ddfa4a37fb31da5a673ec084a7b57548e522288a9a5515b26f82912446",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -255,5 +255,15 @@
       "schriftform-und-textform-bgb/skills/sftf-doppelschriftform-aufhebung-spezial/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

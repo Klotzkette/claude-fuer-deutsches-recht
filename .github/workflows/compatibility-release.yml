@@ -14,6 +14,9 @@ on:
       - 'phishing-vorfall-pruefer/scripts/**'
       - 'scripts/*runtime-performance*'
       - 'scripts/*quickstart-usability*'
+      - 'scripts/*werkstatt-visualisierung*'
+      - 'scripts/werkstatt_visualisierung.py'
+      - 'scripts/data/werkstatt-visualisierung-profile.json'
       - 'scripts/*readme*'
       - 'scripts/*release-zips*'
       - 'scripts/validate-manufacturer-plugins.py'
@@ -92,6 +95,7 @@ jobs:
           python3 scripts/validate-runtime-performance.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/audit-prompt-profile-routing.py
+          python3 scripts/sync-werkstatt-visualisierung.py --check
           python3 scripts/validate-manufacturer-plugins.py
       - name: Regressionen prüfen
         run: |
@@ -111,6 +115,7 @@ jobs:
           python3 scripts/audit-quickstart-usability.py
           python3 scripts/test-portable-starts.py
           python3 scripts/test-prompt-openings.py
+          python3 scripts/test-werkstatt-visualisierung.py
           python3 scripts/test-prompt-routing-scope.py
           python3 scripts/test-schwerpunkt-coverage.py SchwerpunktCoverage.test_every_specialist_has_concrete_skill_and_prompt SchwerpunktContractRegressions
           python3 scripts/test-quality-lab.py

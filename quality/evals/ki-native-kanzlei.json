@@ -759,7 +759,7 @@
       "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse.",
       "Redaktion 16.10.2026: Konkretes Dokument statt Prozesskürzel an den Anfang; Neugründung als eigener Zweig, Handaktenanker mit Berechtigungsgrenze; Typografie bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "efe0bbbbcf769c0710ba4d1c9fa3c3880176f4a8aeebdd62a673be91a698b20b"
+    "sha256": "59f56d3ee6e5dda6dfaa48858aa0135ebc04f67ab96cc24eec56c5eec1e41572"
   },
   "focus_review": {
     "method": "desk_review",
@@ -775,7 +775,7 @@
     "prompt_path": "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
     "skill_path": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
     "prompt_sha256": "06cab7c33ec546afa41611436ac0bbd5e767dc21e5f9f6b2a0c2e114581ec9ef",
-    "skill_sha256": "5f9d97ffab02ef4f85f9418ce2d87e0136242eaaae79e67711ef985fdf84c982"
+    "skill_sha256": "ea01024b601091fb6165d80d3e5f84888a5b10c92c2bcc7bf0f0214f028d6ced"
   },
   "prompt_editorial_review": {
     "date": "2026-10-08",
@@ -844,5 +844,17 @@
     "reference": "ki-native-kanzlei/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie getrennt interne Entwürfe, tatsächliche Mandantendialoge und assistierte Außenhandlungen. Unabhängig von der KI-VO-Einstufung bleiben persönliche Freigaben, sichere Zugangsdaten und belegte Fristobjekte nötig.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
+      "ki-native-kanzlei/ki-native-kanzlei-werkstatt.md",
+      "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

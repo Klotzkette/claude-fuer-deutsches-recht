@@ -26,7 +26,7 @@
       "Redaktion 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
       "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "299125b7ac8d8b3b9cfba4db425c153c06e0158969dc119e37ddf62e6b605332"
+    "sha256": "9396144b79d4001a37ccd3b6906a9b8c490b88aa22e54b50667278011b791b87"
   },
   "selection": {
     "target_skill": "hochrisikofrage-loesen",
@@ -974,7 +974,7 @@
     "prompt_path": "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-hauptproblem.md",
     "skill_path": "ki-verordnung-hochrisiko-pruefer/skills/hochrisikofrage-loesen/SKILL.md",
     "prompt_sha256": "37ee0a35c6bd21c1e63ff6c094b3d229366d48f2408ec256f148539384e81425",
-    "skill_sha256": "6b0a7791ee7b326a88fdf293c03d53997c65e4a968cc42fe2422f359ecdefb4c"
+    "skill_sha256": "785852b212862c33918d46b18ea3c73f8305950a008d490cb771e08de334bdf9"
   },
   "argumentation_review": {
     "method": "desk_review",
@@ -1060,5 +1060,17 @@
         "arbeitsprodukt": "Getrennter Anspruchs- und Belegvermerk neben der Vorfallbewertung"
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-hauptproblem.md",
+      "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-werkstatt.md",
+      "ki-verordnung-hochrisiko-pruefer/skills/hochrisikofrage-loesen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

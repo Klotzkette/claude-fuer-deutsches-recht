@@ -85,7 +85,7 @@
       "Kenntnis und Offenlegung, Garantie/Freistellung, Doppelzählung in Debt und Working Capital, eingeschränkte Bankzustimmung und tatsächlicher Vollzugsnachweis.",
       "Einstiegsredaktion 16.10.2026: Vertragsprodukt mit operativen Vetorechten vor Closing verbunden; Wertschutz und EU-Anwendungsbereich ausdrücklich begrenzt. Frühe Mini-Tabelle in sechs lesbare Arbeitsabsätze umgebaut; sämtliche Prüfgegenstände und Produkte erhalten. Redaktionelles Wort Bestandsanker durch Die Entscheidung ersetzt."
     ],
-    "sha256": "62fb71fac0fe5aeafdc7a072aef40b7ac2ecf058329b438f3e18678b23b12ba1"
+    "sha256": "a6f3ec1fea22dd5bb245a68a16f30fcccc009ae78500da42cbbf41c170a75efa"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -176,5 +176,15 @@
         "utf8_bytes": 30761
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

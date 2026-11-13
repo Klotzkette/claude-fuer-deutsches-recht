@@ -222,7 +222,7 @@
       "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Pacht, Hofabfindung und Förderangelegenheit führen zum passenden Dokument; Windenergienutzung wird nach Zweck und Gewinnbezug eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "a9684ef555e831562c185e0c920e41749eb302ae47b5baf592d4884ec42e64b1"
+    "sha256": "801456daa532be7f57376101b518ca374804f71a5d842fd18290b5f2555d5d11"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -373,5 +373,16 @@
     ],
     "focus_scope": "Hauptproblem Windenergieerlöse/Nachabfindung bleibt bei BLw 21/08. Erbteilgenehmigung und Stallprivilegierung tragen dessen Erlösberechnung nicht.",
     "new_model_tests": false
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

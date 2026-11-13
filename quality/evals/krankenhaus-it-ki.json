@@ -423,7 +423,7 @@
       "Konkrete AI-Act-Fassung, Einstufungs- und Zeitpfade nach Fachabgleich aktualisiert.",
       "Redaktion 16.10.2026: Bestellte Datenschutzdokumente und Gesundheitsdatenbegriff früh benannt; Rollen und klinische Fachzweige erhalten, Typografie bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "2e3510f088f39f5c9392924595f93db01d43ca15afd8347b712c799688f70157"
+    "sha256": "2ac4ced94f56117e7acfecc9f43793e3e1349375349a42faf8d4047fe1abe0dc"
   },
   "focus_review": {
     "method": "desk_review",
@@ -437,7 +437,7 @@
     "prompt_path": "krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md",
     "skill_path": "krankenhaus-it-ki/skills/krankenhaus-digitalisierung-steuern/SKILL.md",
     "prompt_sha256": "1ba7bd1e1b90348373711188d28bb3c447a378659aaae7e6ab1646be9845de55",
-    "skill_sha256": "d6ccf75e5e35d5f56e65d527580ff1aa94ba4932396430188977bd29f35e78a3"
+    "skill_sha256": "07fa683a92642cfeba4cd4095f61cf43fbb9303619af55d393ed4740e35455ae"
   },
   "prompt_editorial_review": {
     "date": "2026-10-06",
@@ -486,5 +486,17 @@
     "reference": "krankenhaus-it-ki/references/ki-normen-und-fallpruefung.md",
     "focus": "Vergleichen Sie administrative Dokumentation, Triage, Befundhilfe und Forschung nach ihrem konkreten Zweck. Ein konzernweites ISO-Zertifikat ersetzt weder die Produktbewertung noch eine einzelfallbezogene Datenschutz- oder Betreiberprüfung.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md",
+      "krankenhaus-it-ki/krankenhaus-it-ki-werkstatt.md",
+      "krankenhaus-it-ki/skills/krankenhaus-digitalisierung-steuern/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

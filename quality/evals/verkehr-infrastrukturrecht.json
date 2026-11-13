@@ -71,7 +71,7 @@
       "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus.",
       "Plan, Grundstück, Lärm und Zugang bleiben konkrete Arbeitsgegenstände. 7 C 5.25 zur gerichtlichen Begründungsfrist einschließlich gesetzlicher Ausnahmen früh platziert."
     ],
-    "sha256": "708c1ec3a2ddea3a53cf78d8e44e1244255ed2f95082eba501e743ec69a6632d",
+    "sha256": "4864a86eebb6e5262c5a11886c6f91fe326b5066f956c9e880af5c0937a0900d",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -176,5 +176,15 @@
       "search_2026": "2026-Präklusionssuche lieferte auch 9 A 8.17 wegen einer FFH-Gebietsnummer 2026; kein Jahresnachweis. Sachlich passender 7 C 5.25 frisch gelesen und ergänzt.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

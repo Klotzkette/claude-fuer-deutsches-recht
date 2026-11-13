@@ -186,7 +186,7 @@
       "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe.",
       "16.10.2026: Konkreten Vertrags- und Datenflussentscheid statt allgemeiner KI-Metaregeln eröffnet."
     ],
-    "sha256": "a51f1f8798f1f3e1802ba10452d68cb34c5795b22ba8e5108cdec86d02548181",
+    "sha256": "cd1168ab9533f30faeb66902b38edffbf48f282ef87ed0c0aa20f89ac9f17187",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -259,5 +259,15 @@
         "anchor_or_exception": "Paragraf 43e BRAO, Artikel 46 DSGVO; EuGH 16.07.2020 C-311/18 Rn. 125 bis 135: Empfängerrecht und Zusatzmaßnahmen bei Standardklauseln prüfen; kein generelles Cloud-Verbot, keine abschließende BRAO- oder Angemessenheitsentscheidung."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

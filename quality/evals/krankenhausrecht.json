@@ -90,7 +90,7 @@
       "Planungsnachweise nach Standort und Zeitpunkt, Bewilligung gegenüber Bauzahlungsplan, Kostenüberleitung und konkrete MD-Kürzungsgründe vertieft.",
       "Redaktion 16.10.2026: Versorgungsvertrag und Planaufnahme bereits im Einstieg unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "98cff8cbd44806ee57a6cc1971cec9eb189209bcb403450080328533c0e9bfc1",
+    "sha256": "5cb21a487e3f97c5ab86ce23702ef125ea6b8fc879e82dbcf16190503d077e5b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -149,5 +149,15 @@
     "reference": "krankenhausrecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Klären Sie, wer das KI-System beschafft, in medizinische Abläufe einbindet und ändert. Dokumentierte klinische Verantwortlichkeiten und KI-Anbieterrollen müssen am realen Ablauf geprüft werden.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "krankenhausrecht/krankenhausrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -71,7 +71,7 @@ Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
 entgegenstehende Klauseln sind nach § 134 BGB nichtig.
 Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
 Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
-Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 90 HGB) und Delkredere (§ 86b HGB)
 ergänzen das Recht praxisnah.
 
 ## Quellen

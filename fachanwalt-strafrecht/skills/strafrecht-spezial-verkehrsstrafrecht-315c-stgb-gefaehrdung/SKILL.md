@@ -68,7 +68,7 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 
 | Pfad A vollumfaengliches Bestreiten | Pfad B Gestaendnis Verkehrsverstoss, Bestreiten konkrete Gefahr | Empfehlung |
 | --- | --- | --- |
-| Risiko: Polizeizeugen sind oft glaubhaft; lange HV; Fahrerlaubnis bleibt vorlaeufig entzogen. | Vorteil: Verkehrsverstoss meist objektiv beweisbar; Streit nur um Gefahrnaehe entlastet. | Bei objektiv klarem Verkehrsverstoss und unsicherer Gefahrnaehe ist Pfad B taktisch sinnvoller. Fuehrt oft zu Paragraph 240 StVG Noetigung im Strassenverkehr oder OWi statt Paragraph 315c StGB. |
+| Risiko: Polizeizeugen sind oft glaubhaft; lange HV; Fahrerlaubnis bleibt vorlaeufig entzogen. | Vorteil: Verkehrsverstoss meist objektiv beweisbar; Streit nur um Gefahrnaehe entlastet. | Bei objektiv klarem Verkehrsverstoss und unsicherer Gefahrnaehe ist Pfad B taktisch sinnvoller. Fuehrt oft zu Paragraph 240 StGB Noetigung im Strassenverkehr oder OWi statt Paragraph 315c StGB. |
 
 ## Konkurrenzen
 

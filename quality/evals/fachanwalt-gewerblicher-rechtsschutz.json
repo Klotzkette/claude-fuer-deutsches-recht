@@ -138,7 +138,7 @@
       "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Verletzungsform und gewünschter Anspruchstext eröffnen den Prompt; Verletzergewinn wird an zurechenbare Kosten gebunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "042682834736e393498862fc7fb10b814962c991fb271024a461d4669e8f3941",
+    "sha256": "410d2b0d38d3c0229f4a3da89d0c9d609e152eac8a479ef160befe2b3520dea1",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -284,5 +284,16 @@
     "reference": "fachanwalt-gewerblicher-rechtsschutz/references/ki-normen-und-fallpruefung.md",
     "focus": "Verlangen Sie bei einem beworbenen KI-Zertifikat Aussteller, geprüften Gegenstand, Systemversion und behauptete Rechtswirkung. Eine transparente Herkunftskennzeichnung ersetzt weder eine Lizenz noch den Nachweis einer Werbeaussage.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -90,7 +90,7 @@
       "Wiederholungsrechnung gegen wiederkehrende Leistung prüfen, Datensicherung von Auswertung trennen, neue Datenquellen begrenzen, offene Fragen vor Vorhalten stellen und Kontrollmangel nicht mit Vorsatz gleichsetzen.",
       "Einstiegsredaktion 16.10.2026: Verdacht, Gegenbelege und konkretes Untersuchungsprodukt vorangestellt; Überwachungsanker auf Eingriffsintensität und historische Rechtsgrundlage begrenzt."
     ],
-    "sha256": "cd1e63eae816b950619f9ea54bf18039e8f625a98da68f03c255273dbbc3b7d6"
+    "sha256": "5c268f420c3b53a69e985edf2db80035f0934d75770b0e7dc38205ef1036a114"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -167,5 +167,15 @@
         "utf8_bytes": 7271
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "internal-investigations-praxis/internal-investigations-praxis-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

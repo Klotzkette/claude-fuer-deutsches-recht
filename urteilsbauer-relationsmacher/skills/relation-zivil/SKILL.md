@@ -122,10 +122,10 @@ Für jede Variante: Hauptsache-Tenor Kosten vorläufige Vollstreckbarkeit.
 ### 9. Nebenentscheidungen
 
 - Kosten: Paragraf 91 ZPO (Grundregel) Paragraf 92 ZPO (teilweises Obsiegen) Paragraf 93 ZPO (sofortiges Anerkenntnis) Paragraf 269 ZPO (Klageruecknahme)
-- Vorläufige Vollstreckbarkeit: Paragraf 708 Nummer 11 ZPO (Bagatelltitel bis 1500 EUR) oder Paragraf 709 ZPO (sonst) in Verbindung mit Paragraf 711 ZPO
+- Vorläufige Vollstreckbarkeit: Paragraf 708 Nummer 11 ZPO (Hauptsacheverurteilung höchstens 1.250 EUR; bei allein vollstreckbarer Kostenentscheidung höchstens 1.500 EUR Vollstreckungswert), sonst gegebenenfalls Paragraf 709 ZPO. Die Abwendungsbefugnis nach Paragraf 711 gilt für die Fälle des Paragrafen 708 Nummern 4 bis 11; Paragraf 713 gesondert prüfen
 - Streitwert: Paragraf 63 GKG
 - Zinsen: Paragraf 286 BGB Paragraf 288 BGB Artikel 78 CISG
-- Rechtsmittelzulassung: Paragraf 511 Absatz 4 ZPO (bei Streitwert unter 600 EUR oder bei Grundsatzbedeutung)
+- Rechtsmittelzulassung: Paragraf 511 Absatz 4 ZPO (Beschwer von nicht mehr als 1.000 EUR und zusätzlich Grundsatzbedeutung, Rechtsfortbildung oder Sicherung einheitlicher Rechtsprechung)
 
 ### 10. Selbstkontrolle
 
@@ -141,3 +141,7 @@ Die Relation muss am Ende eindeutig sagen:
 3. Die Beklagte hat **erhebliche Einwendungen** vorgetragen (oder nicht).
 4. Streitig und beweisbedürftig sind: ...
 5. Tenor-Vorschlag für die wahrscheinliche Variante: ...
+
+## Übergangsrecht zum Berufungswert
+
+Die Grenze des § 511 Abs. 2 Nr. 1 ZPO liegt grundsätzlich bei **mehr als 1.000 EUR Beschwer**; genau 1.000 EUR reichen nicht. Beschwer und Streitwert unterscheiden und die Zulassung gesondert prüfen. Nach [§ 47 EGZPO](https://www.gesetze-im-internet.de/zpoeg/__47.html) gilt die frühere Grenze von mehr als 600 EUR weiter, wenn die Entscheidung bis einschließlich 31.12.2025 verkündet oder mangels Verkündung der Geschäftsstelle übergeben wurde. Gleiches gilt bei bis dahin geschlossener mündlicher Verhandlung; im schriftlichen Verfahren ist der Einreichungsschluss maßgeblich. Daher auch bei einem Entscheidungsdatum im Jahr 2026 die Übergangstatsachen erheben. Normabgleich mit [§ 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html) am 13.11.2026.

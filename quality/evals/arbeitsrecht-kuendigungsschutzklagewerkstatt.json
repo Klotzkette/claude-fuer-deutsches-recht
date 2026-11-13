@@ -583,7 +583,7 @@
       "Sechs Flyerentscheidungen mit Aussagegrenze und Pressemitteilungsstatus abgleichen",
       "Gezielter amtlicher Quellenabgleich am 10.11.2026. Vorherigen Ausschluss von Annahmeverzug und Rechtswahl anhand des amtlichen Volltexts 2 AZR 91/24 eingeordnet."
     ],
-    "sha256": "579ab01fbf41d24dcd1ace16fbc3b6759a8e653f717e4fce817d5ef4fb7897b4"
+    "sha256": "ebb6486ab065b1fe92ab9140d8037f025f176bc6cc6c0220d139c84dd0aa9b70"
   },
   "focus_review": {
     "method": "desk_review",
@@ -599,7 +599,7 @@
     "prompt_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md",
     "skill_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/skills/kuendigungsschutzmandat-steuern/SKILL.md",
     "prompt_sha256": "d3047f3d7ea26bed43b95c235e86609e59accc4a6f32e13201a037dd132e5b43",
-    "skill_sha256": "470558b7c821af046f88389227f4c28caa58f6593ce559fb56f255a0dad652c2"
+    "skill_sha256": "180a46ca8c876bb6bf2ca8abd4daa4c54304b8948136561b8abd87fd87e020ed"
   },
   "prompt_editorial_review": {
     "date": "2026-11-01",
@@ -802,5 +802,17 @@
     "continuation": "Fachskills liefern konkrete Dokumentteile zurück; Rückfragen ändern den vorhandenen Entwurf und neue Kündigungen erhalten eigene Anträge.",
     "enrichment": "Zugang, Schutzbereich, soziale Rechtfertigung, Beteiligung, Anzeige, Beweisführung und finanzielle Folgen werden anhand der konkreten Unterlagen verzweigt.",
     "limits": "Redaktionelle Prüffälle und technische Archivprüfungen belegen keinen Live-Modelllauf und keine Laufzeitgarantie."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md",
+      "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
+      "arbeitsrecht-kuendigungsschutzklagewerkstatt/skills/kuendigungsschutzmandat-steuern/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

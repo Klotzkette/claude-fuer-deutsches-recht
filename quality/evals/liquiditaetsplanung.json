@@ -258,7 +258,7 @@
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
       "Redaktion 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "d0899bc793a5cdb61d8a2d37da0593553a0950b51e6252d4043e0744d0944714"
+    "sha256": "c16797df9610f9ded11c2c9442fb43684aad6b9743ffc6c71bdf783df8147704"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",
@@ -366,5 +366,15 @@
     "continuation": "Späterer oder bedingter Bankzufluss ändert im vereinbarten Pfad, beispielsweise planung/liquiditaet.xlsx, Zufluss und Folgebestände sowie in planung/finanzierungsvermerk.md Bereitstellungstag und Zwischenbedarf; ohne Dateizugriff aktualisierte Tabelle und Text.",
     "enrichment": "Beleg-/OCR-Kontrolle, taggenaues Dreiwochenfenster, getrennte operative und rechtliche Bewertung, 12/24-Monatsprognose, Rangrücktritt und belastbare Drittmittel; konkrete Antworten ändern Rechnung, Vermerk und Fristbewertung.",
     "limits": "Dieses Feld dokumentiert desk_review; gesonderte Verhaltenstests ersetzen keinen umfassenden statistischen Benchmark."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

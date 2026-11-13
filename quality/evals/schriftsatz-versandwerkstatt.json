@@ -90,7 +90,7 @@
       "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt.",
       "2026-10-16, redaktioneller Einstiegsreview: Versandmappe als technisches Ergebnis; vorhandenen Eingangsanker nach vorn verschoben, keine materielle Prüfung oder eigene Versendung. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "a90235a267af6c793368eaaad41d41d19c9431d0345e7d6e415fa598de7c60c0",
+    "sha256": "9d652f46fbf7f49849a3d6f590e1b935cd79cf0d2792b9d51fe722ecb484b5e9",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -235,5 +235,15 @@
         "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f"
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }
