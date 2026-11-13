@@ -110,7 +110,7 @@
       "Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden.",
       "2026-10-16, redaktioneller Einstiegsreview: Klausel, Mängelrüge und Rechtebewertung zuerst; UsedSoft auf Downloadkopien begrenzt, kein SaaS- oder US-Freibrief. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "6986c9cfe2cc7191961715b304846f949b6bc12295e4f9f9f26816da5bb26b60",
+    "sha256": "5002b6e976a41df9555bf29ee521cef78eef5b7fc8e5fe9d43386bde7d19fd17",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -168,5 +168,15 @@
     "reference": "softwarerecht-de-eu-us/references/ki-normen-und-fallpruefung.md",
     "focus": "Vergleichen Sie Vertrag, Anleitung und tatsächlich ausgelieferten Funktionsumfang. Modellanpassung, Änderung der Zweckbestimmung und wesentliche Systemänderung sind verschiedene Fragen und benötigen jeweils technische Belege.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "softwarerecht-de-eu-us/softwarerecht-de-eu-us-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -54,7 +54,7 @@
       "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
       "2026-10-16, redaktioneller Einstiegsreview: Neutralen gerichtlichen Entwurf vor Aufnahme gesetzt; Zugang, Klagefrist und Beweislücke beim Einwurfeinschreiben getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "20ced3292e00ac926315e8246caabd5279ac00e8cef4c52b588ff1e73b54f6a2",
+    "sha256": "7710ea4e7f5bb90886f1ae05539eac0f4af0cfcea354d0fae3e11278eeaaee5e",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -160,5 +160,15 @@
     "reference": "gerichtsplugins/richter-arbeitsgericht/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie bei der Anwendung für arbeitsgerichtliche Entscheidung technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

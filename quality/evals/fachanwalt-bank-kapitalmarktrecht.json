@@ -264,7 +264,7 @@
       "2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "41dae4b1c62cae9bbeb196c7321c18f08cf024599a0d3ea46d54c1b009996704",
+    "sha256": "331ccbacedfc2418d0d3d7c97fb54644603ea797a1bca532bb6dae5eedd75c32",
     "previous_reviews": [
       {
         "sha256": "9875821950e39de2e81437f2e1a821cf2b7c3852eea739b6116cd238ec5946ff"
@@ -474,5 +474,16 @@
       }
     ],
     "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

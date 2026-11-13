@@ -159,7 +159,7 @@
       "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Rechtsordnung und gewünschte Vertragsfunktion kommen vor dem Begriffsüberblick; Wortlaut und Kontext werden anhand Wood v Capita erläutert. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "2a6994399d01850a428a519565a910b43959f899ea114a28216459f3caac1751"
+    "sha256": "8b1361a3046978e531e9c27ae2a06b90f7e8e49ecc1261af028957b4bce0b9fc"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -209,5 +209,15 @@
       "common-law-kompass/skills/ma-commercial-drafting/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "common-law-kompass/common-law-kompass-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -187,7 +187,7 @@
       "Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "423b4972de282678a52033970083604ec3e3096a5b5a2a9672c6a56146caeac1"
+    "sha256": "d60134f35e99339c42612814fa976e3297d238e6ee527a7a5f1cf8ff49c49ee0"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -240,5 +240,15 @@
     "reference": "ecommerce-recht/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie konkrete Dialoge, Preispräsentation und Auswahl schutzbedürftiger Gruppen. Eine irreführende Verkaufsbotschaft ist nicht ohne Schadens- und Wirkungssubsumtion bereits eine verbotene KI-Praxis.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ecommerce-recht/ecommerce-recht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

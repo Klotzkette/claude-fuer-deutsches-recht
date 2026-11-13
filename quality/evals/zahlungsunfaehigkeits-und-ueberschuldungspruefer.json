@@ -945,7 +945,7 @@
       "Trennung von Rechnung, Zahlungseinstellung, Insolvenzgrund und Anfechtungsmerkmalen."
     ],
     "reviewed_on": "2026-11-13",
-    "sha256": "4f1c1b5b8b8931222f632561da89a0394b9c9165ca5d9a9ab07628bda1b4bbfe"
+    "sha256": "c13a2f39e43e31900e9b5fced63730f3062214a873c849a75ea99ed1954a7250"
   },
   "prompt_editorial_review": {
     "date": "2026-11-13",
@@ -1035,5 +1035,15 @@
     "continuation": "Nachgereichte Vertragsdaten ändern nur die betroffenen Positionen und Stichtage. Unterschiede zu der ersten Fassung ausweisen.",
     "enrichment": "Drei erweiterte Grundakten mit belegten Eingangsdokumenten und separatem Verfahrensbestand. Vier zusätzliche fachliche Gegenfälle zu Zahlungseinstellung, Liquidierbarkeit, Verwertungswerten und Prognoselücken. Der Rechner trennt Rechenbefund, manuelle Zahlungseinstellungswürdigung und dokumentbezogene Vollständigkeit. Drei eigenständige Zahlungskomplexe mit Originalbelegen und gesonderten Blankovorlagen für Schreiben und Klage; keine fertige Anspruchslösung in der Grundakte.",
     "limits": "Redaktioneller Nachweis und deterministische Berechnung. Keine behauptete Modellbewertung."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -325,7 +325,7 @@
       "04.11.2026: Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert.",
       "Gezielter amtlicher Quellenabgleich am 10.11.2026. Funktionalen Maßstab für Anzeigefehler eingearbeitet."
     ],
-    "sha256": "15567317927d47782f96398b37eb978ba80f7fa750f00a2bcb9539f480b69f00",
+    "sha256": "8e496ec4789bc335e9712204eb34a5d95041d22744d4a6d78dd3984439e6b5be",
     "reviewed_on": "2026-11-04"
   },
   "selection": {
@@ -1223,5 +1223,16 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
+      "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -142,7 +142,7 @@
       "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform.",
       "16.10.2026: Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei."
     ],
-    "sha256": "62e8e135d54dd23307602f2f6fb0b033babe3168299506041f036d29e8383d93",
+    "sha256": "a4744fb30ab1aa756a5d2c31e328f468f659dc7d40242020deccb975ca72400c",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -348,5 +348,15 @@
         "anchor_or_exception": "Paragraf 109 GewO; BAG 27.04.2021 9 AZR 262/20 Rn. 15 bis 18: individualisierte Beurteilung statt schulischer Notentabelle, keine erfundenen Leistungen."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

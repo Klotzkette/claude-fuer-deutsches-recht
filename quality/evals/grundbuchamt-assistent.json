@@ -682,7 +682,7 @@
       "Einstiegsredaktion 16.10.2026: Abstrakte Systembeschreibung durch konkrete Antragsprodukte ersetzt; Mini behält frühe Einsichtsanker, Werkstatt konkretisiert öffentlichen Erbnachweis.",
       "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "5eca11575a37435a933ed1b0238547c695a6538dd42fa23333e33de70a93298e"
+    "sha256": "3ac19a0478ec45b9ee51a78af3e49678bf4baa3e9a46a20357153543750116e6"
   },
   "focus_review": {
     "verdict": "revised",
@@ -696,7 +696,7 @@
     "prompt_path": "grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md",
     "skill_path": "grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md",
     "prompt_sha256": "c0c91561f566b5bccd96ab6a6e8ce8c0a2664ad98b7b11e9044afa6f008b524b",
-    "skill_sha256": "ee9b3f3e93da18c5693a5c07957d5ab65e5b092953cd4600a023528fa8a574a1"
+    "skill_sha256": "5bba69d4cf369faadeb7f889b7cd522e5c86ae4cce445d5c181bd51a1c343902"
   },
   "prompt_opening_review": {
     "date": "2026-10-16",
@@ -745,5 +745,17 @@
         "utf8_bytes": 7349
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md",
+      "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+      "grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

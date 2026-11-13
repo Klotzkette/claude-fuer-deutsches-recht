@@ -52,7 +52,7 @@ Fragen zum Einstieg:
 - **§ 288 Abs. 5 BGB**: 40-EUR-Pauschale bei Verzug im B2B.
 - **DSGVO Art. 13, 14**: Informationspflichten.
 - **UWG § 7**: Unzumutbare Belästigung – relevant bei unerbetenen Massenkommunikation an Verbraucher.
-- **§ 31a RDG**: Inkassodienstleistungen – Hinweis- und Belehrungspflichten beim Verbraucher.
+- **§ 13a RDG**: Inkassodienstleistungen – Hinweis- und Belehrungspflichten beim Verbraucher.
 
 ## / Schritt für Schritt
 

@@ -12,7 +12,7 @@ Dieser Skill erklaert **Bescheid Verstehen** so, dass auch Menschen ohne juristi
 ## Norm- und Praxisanker
 
 - Verwaltungsakt (Bescheid): § 31 SGB X – Regelung im Einzelfall.
-- Bestandteile: Inhalt (Regelung), Begruendung (§ 35 SGB X), Rechtsbehelfsbelehrung (§ 36 SGG).
+- Bestandteile: Inhalt (Regelung), Begruendung (§ 35 SGB X), Rechtsbehelfsbelehrung (§ 36 SGB X).
 - Bekanntgabe / Zugang: § 37 SGB X – seit 1.1.2025 Vier-Tage-Fiktion nach Aufgabe zur Post (PostModG); zuvor Drei-Tage-Fiktion.
 - Widerspruchsfrist: § 84 SGG – einen Monat ab Bekanntgabe; bei fehlender oder fehlerhafter Belehrung: 1 Jahr Frist (§ 66 SGG).
 - Nichtigkeit / Aufhebbarkeit: § 40 SGB X (Nichtigkeit); § 41 SGB X (Heilung von Formfehlern).

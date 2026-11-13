@@ -58,3 +58,23 @@ Die Ausformulierungspflicht gilt für Begleittexte und Rechnungsbeschreibungen: 
 Ein Auftrag enthält einen Word-Vertrag, eine Stundenliste und eine E-Mail mit der nächsten freigegebenen Rechnungsnummer. Ermitteln Sie die abrechenbaren Stunden, klären Sie einen widersprüchlichen Stundensatz und erzeugen Sie nach der Antwort die gewünschte Rechnung samt Prüfung.
 
 Eine vorhandene Rechnung soll nur als ZUGFeRD geliefert werden. Klären Sie, ob sie bereits ausgegeben wurde. Bewahren Sie ihre Identität und kennzeichnen Sie eine zulässige Formatübertragung entsprechend. Nehmen Sie keine unbemerkte steuerliche oder preisliche Änderung vor.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 7. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+**Leitfrage für E-Rechnungen als ZUGFeRD und XRechnung:** Welche Rechnungsdaten lassen sich belegen und passen Rechnung, Steuerbeträge und Ausgabeformat zusammen?
+
+**Erste Ansicht:** Zeige die Zuordnung von Eingangsbeleg zu Rechnungsfeld, Position, Betrag und Validierungsbefund. Rechne Netto, Steuer und Brutto sichtbar nach; fehlende Pflichtdaten bleiben offene Felder.
+
+**Sinnvolle Interaktion:** Eine Korrektur an einer belegten Position aktualisiert Summen und die neu erzeugte Rechnung; die anschließende Formatprüfung wird erneut ausgeführt. Eine hübsche Ansicht ist kein Nachweis der Standardkonformität.
+
+**Datengrundlage:** Beleg, Rechnungsfeld, Positionsnummer, Menge, Einheit, Nettobetrag, Steuersatz, Währung und Validierungsquelle. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+**Weiter zum Ergebnis:** die tatsächlich erzeugte Rechnung im beauftragten Format samt verständlichem Prüfprotokoll. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->

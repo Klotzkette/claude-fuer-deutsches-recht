@@ -829,7 +829,7 @@
     "method": "desk_review",
     "reviewed_on": "2026-10-16",
     "prompt_path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
-    "sha256": "f318cc7390dd9003611126c28e725e61d8629970b33b0e2f0ab5796b84938d6f",
+    "sha256": "9136786c9a55d9d974f60d0e2cbce11f3e43abcc7b9519551ea4c3cfa5db9a3b",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
@@ -846,7 +846,7 @@
     "sha256": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad",
     "skill_path": "berliner-asog-polizeirecht/skills/asog-mandat-zum-ergebnis/SKILL.md",
     "prompt_sha256": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad",
-    "skill_sha256": "43afdfc4a33b73f3c1cd5284b69de55806b7f999e35173deae464e034c1ecba6"
+    "skill_sha256": "c32bfb4bb3365c6a9fd7a322d0c6af0cc777ca3e544067ef948b44b7cf935a2f"
   },
   "prompt_opening_review_2026_10_16": {
     "batch": 1,
@@ -868,5 +868,17 @@
         "anchor_or_exception": "Paragraf 36 ASOG Berlin; BVerfG 30.09.2025 2 BvR 460/25: Durchsuchungszweck konkret bestimmen, ausländerrechtlicher Fall liefert keine ASOG-Eingriffsbefugnis."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berliner-asog-polizeirecht/berliner-asog-polizeirecht-hauptproblem.md",
+      "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+      "berliner-asog-polizeirecht/skills/asog-mandat-zum-ergebnis/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -153,7 +153,7 @@
       "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert.",
       "Gezielter amtlicher Quellenabgleich am 10.11.2026. Anforderungen an verständliche Ergebnislogik und getrennte Prüfung der stichtagsabhängigen Scoring-Regeln ergänzt."
     ],
-    "sha256": "d838babfca7a91897cd49c2550a90ed2ecee3804894f72d29e969963d9f30eae"
+    "sha256": "6ee9a4608ba3d4af81edbf394f07471909fac9d22fa9950c1da8cebcea6fe401"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -209,5 +209,15 @@
     "reference": "ki-governance/references/ki-normen-und-fallpruefung.md",
     "focus": "Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-governance/ki-governance-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

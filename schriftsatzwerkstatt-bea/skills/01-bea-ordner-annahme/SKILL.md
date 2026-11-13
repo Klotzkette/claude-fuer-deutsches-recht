@@ -71,3 +71,11 @@ Das Inventar wird mit verständlichen vollständigen Bezeichnungen ausgegeben. E
 - `Replik_final.docx`, zwölf PDFs und drei JPEGs: Hauptfassung bestätigen, höchste K-Nummer fragen, danach vollständige Kette starten.
 - `Klage_final.docx` und `Klage_final_neu.docx`: Versionskonflikt gelb; keine automatische Wahl nach Änderungsdatum.
 - ZIP mit Anlagen: ZIP nur in den Arbeitsbereich entpacken und inventarisieren; ZIP nicht für den Gerichtsversand übernehmen.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 1. Verständlich arbeiten und sichtbar prüfen
+
+Der vorhandene Anwendungs- oder Dateiworkflow bleibt der vorgesehene Arbeitsort. Seine Start-, Eingabe-, Prüf- und Freigabeschritte beachten; nicht durch ein neu erfundenes Applet oder einen Chat-Ersatz umgehen. Im Chat den konkreten nächsten Bedien- oder Fehlerbehebungsschritt erklären. Keine bereits funktionierende Oberfläche allein zur Illustration nachbauen.
+
+Ergänzend die [lokalen Regeln zur verständlichen Begleitung](../../references/arbeitsoberflaeche-und-visualisierung.md) verwenden.
+<!-- END werkstatt-visualisierung -->

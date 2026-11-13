@@ -204,6 +204,8 @@ jobs:
           python3 scripts/test-prompt-routing-scope.py
           python3 scripts/test-prompt-workflow-preservation.py
           python3 scripts/test-prompt-openings.py
+          python3 scripts/test-werkstatt-visualisierung.py
+          python3 scripts/sync-werkstatt-visualisierung.py --check
           python3 scripts/test-prompt-hygiene-links.py
           python3 scripts/test-portable-starts.py
           python3 scripts/test-generate-megaprompt.py
@@ -212,6 +214,7 @@ jobs:
           python3 scripts/test-quickstart-usability.py
           python3 scripts/audit-quickstart-usability.py
           python3 scripts/validate-current-law-sentinels.py
+          python3 scripts/test-reviewed-law-corrections.py
           python3 scripts/test-legal-calculators.py
           python3 scripts/test-gmbh-gesellschafterversammlung.py
           node scripts/test-liquiditaetsplanung-rechenlogik.mjs
@@ -270,6 +273,7 @@ jobs:
             echo "Baue $plugin.zip"
             (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . \
               -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md' \
+                 'testakte/*' 'testakten/*' \
                  '*-werkstatt.md' '*-schnellstart.md' '*-hauptproblem.md' \
                  '*-werkstatt.txt' '*-schnellstart.txt' '*-hauptproblem.txt' \
                  '*-werkstatt.docx' '*-werkstatt.pdf')

@@ -115,7 +115,7 @@
       "Entbindung, nachgewiesene Vollmacht, Verwerfungsrisiko und Wiedereinsetzungsfrist in einen konkreten Terminbrief überführt.",
       "Redaktion 16.10.2026: Einspruch, Akteneinsicht und zusätzlicher Informationszugang am Anfang unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "e7c5d64c35ada99892edc6e22f18cfb2cd6c311c8483b732bfd9510a4802148d",
+    "sha256": "860eb0eeadb8f5df97a0aa03469949aceb84415d6090ac0dd73ad3d49e2b44e7",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -156,5 +156,15 @@
     "continuation": "Neuer Meldebeleg ändert Pflichtzuordnung und konkrete Passage in einlassung.md; nachgereichter Unterbrechungsvermerk ändert Datum, Rechnung und Empfehlung in verjaehrungsvermerk.md.",
     "enrichment": "Tatzeitbezogene Melde- und Kontrollbelege, tatsächliche Delegation und Aufsicht, personenbezogene Verjährung sowie Entbindung, Abwesenheitsurteil und fertiger Terminbrief.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ordnungswidrigkeitenrecht/ordnungswidrigkeitenrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -79,7 +79,7 @@
       "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
       "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
     ],
-    "sha256": "17850972d7a562553e24938b5519c7bc6557e483baf746af128002a6700a5d52",
+    "sha256": "b84873c8705f0f813ee8bf922e34106fe8b6a47b9704839351aeab54ec83f41a",
     "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {
@@ -191,5 +191,15 @@
       "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

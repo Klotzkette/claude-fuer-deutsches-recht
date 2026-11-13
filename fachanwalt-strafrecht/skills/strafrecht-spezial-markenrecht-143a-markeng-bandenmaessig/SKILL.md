@@ -1,97 +1,56 @@
 ---
 name: strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig
-description: "Für Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für Bandenmäßige Markenrechtsverletzung Paragraph 143 Abs. 2 MarkenG und gewerbsmäßige Begehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung
+# Gewerbs- und bandenmäßige Kennzeichenverletzung nach § 143 Abs. 2 MarkenG
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Prüfe bei Importen, Plattformverkäufen und arbeitsteiligen Vertriebsstrukturen den Vorwurf einer gewerbs- oder bandenmäßigen Kennzeichenverletzung. Erstelle daraus die beauftragte Verteidigung, Strafanzeige oder Risikobewertung. Der technische Skillname bleibt aus Gründen bestehender Verlinkungen erhalten; eine aktuelle Vorschrift „§ 143a MarkenG“ gibt es nicht.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+§ 143 Abs. 2 MarkenG droht drei Monate bis fünf Jahre Freiheitsstrafe an. Damit liegt ein Vergehen nach § 12 Abs. 2 StGB vor, kein Verbrechen. Bei Verletzungen von Unionsmarken ist § 144 Abs. 1 und 2 MarkenG zu prüfen. Die Einordnung ist für Verfahrensbeendigung, Zuständigkeit und Versuchsstrafbarkeit getrennt auszuwerten.
 
-**Fokus:** Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
+## 2. Eingaben
 
-### Bandenmäßige Markenrechtsverletzung nach Paragraph 143a MarkenG
+Ermittle betroffene Kennzeichen und deren Schutz, Zeitraum, konkrete Benutzungshandlungen, Rollen sämtlicher Beteiligter, Chatverläufe, Lieferketten, Rechnungen und Geldflüsse. Trenne Absatzumsatz, Schaden, Erlangtes und Vermögenswerte für eine mögliche Einziehung. Frage nach früheren Kontakten, Absprachen, fortlaufender Erwerbsabsicht und dem Kenntnisstand jedes Beteiligten; ein bloßes Arbeitsverhältnis oder eine gemeinsame Anschrift beweist keine Bandenmitgliedschaft.
 
-## Worum geht es
+## 3. Ablauf
 
-Paragraph 143a MarkenG ist die Qualifikation des Paragraph 143 MarkenG für gewerbsmäßige oder bandenmäßige Begehung. Anwendungsfaelle: organisierte Counterfeit-Logistik mit Containerimporten aus Drittstaaten, Online-Marktplatz-Netzwerke mit mehreren Beteiligten in Produktion, Lagerung, Verkauf, Geldwaesche; Schmuggelringe; arbeitsteilige Vertriebsstrukturen mit klarer Rollenverteilung.
+### 3.1 Grundtatbestand und Qualifikation
 
-Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitsstrafe. Geldstrafe als alleinige Strafe ist ausgeschlossen. Dies ist ein Verbrechen (per definitionem; Mindestmass Freiheitsstrafe), was strafprozessual und materiell weitreichende Folgen hat (Versuchsbestrafung, Mittaeterschaft, Beihilfe).
+Prüfe zunächst § 143 Abs. 1 MarkenG und Vorsatz. Stelle anschließend Gewerbsmäßigkeit und Bandenbegehung als alternative Qualifikationsmerkmale gesondert dar. Für Gewerbsmäßigkeit kommt es auf die auf wiederholte Tatbegehung gerichtete Einnahmeerzielungsabsicht an; die erste Tat kann genügen, ein hoher Einzelumsatz beweist die Absicht allein nicht. Beim Bandenbegriff sind mindestens drei Personen, eine auf mehrere künftige Taten angelegte Verbindung und die konkrete Beteiligung zu prüfen. Die bloße Mitgliedschaft ersetzt keinen strafbaren eigenen Tatbeitrag.
 
-**Offizialdelikt.** Antragserfordernis aus Paragraph 144 MarkenG entfaellt. Die StA verfolgt von Amts wegen, sobald Anfangsverdacht der Gewerbsmaessigkeit oder Bandenmaessigkeit besteht.
+Die einschlägige BGH-Rechtsprechung zum Bandenbegriff und zur Gewerbsmäßigkeit vor Verwendung konkret ermitteln und auf den Kennzeichenstraftatbestand beziehen. Keine ungeprüfte Entscheidung als bereits verifizierten Markenrechtsfall ausgeben. Mittäterschaft, Anstiftung und Beihilfe anhand §§ 25 bis 27 StGB individuell begründen; eine untergeordnete Berufsbezeichnung entscheidet die Einordnung nicht.
 
-## Tatbestand und Geltungsbereich
+### 3.2 Verfolgung, Einstellung und Zwangsmaßnahmen
 
-Voraussetzung: Die Tat des Paragraph 143 Abs 1 MarkenG ist erfuellt **und** sie wird gewerbsmaessig oder bandenmaessig begangen.
+§ 143 Abs. 4 MarkenG beschränkt das Antragserfordernis auf Fälle des Absatzes 1. Bei Absatz 2 ist ein Strafantrag daher keine Verfolgungsvoraussetzung; eine Antragsrücknahme beendet das Verfahren nicht automatisch. Versuch ist nach § 143 Abs. 3 ausdrücklich strafbar, nicht aufgrund einer vermeintlichen Verbrechenseinordnung.
 
-**Gewerbsmaessigkeit** nach staendiger BGH-Rspr.: Absicht, sich aus wiederholter Tatbegehung eine fortlaufende Einnahmequelle von einigem Umfang und einiger Dauer zu verschaffen. Bereits die erste Tat in Verfolgung dieser Absicht ist gewerbsmaessig.
+Eine Einstellung nach §§ 153, 153a StPO ist nicht schon wegen § 143 Abs. 2 ausgeschlossen. Schuld, öffentliches Interesse, Verfahrensstand und erforderliche Zustimmungen gesondert prüfen; keine Einstellungszusage geben. Verständigung nach § 257c StPO und Aufklärungshilfe nach § 46b StGB sind unterschiedliche Instrumente. Bei § 46b insbesondere taugliche Ausgangstat, Katalogtat, Zusammenhang, Aufklärungsleistung und Zeitpunkt prüfen. Eine Bande allein eröffnet weder Kronzeugenregelung noch Untersuchungshaft. Haftgrund, dringender Tatverdacht und Verhältnismäßigkeit müssen eigenständig vorliegen; § 112a StPO darf nicht auf jeden Bandenvorwurf übertragen werden.
 
-**Bande** nach staendiger BGH-Rspr.: Zusammenschluss von mindestens drei Personen, die sich mit dem Willen zusammengeschlossen haben, kuenftig für eine gewisse Dauer mehrere selbständige, im Einzelnen noch ungewisse Straftaten der genannten Art zu begehen. Bandenabrede muss nicht foermlich sein; konkludentes Zusammenwirken genuegt; Hierarchie ist nicht erforderlich.
+### 3.3 Sanktionen und Vermögensfolgen
 
-Praxiswichtig: BGH-Linie zur Mindestpersonenzahl drei wurde im Grundsatzbeschluss des Großen Senats für Strafsachen verbindlich. Eine zwei-Personen-Verbindung ist Bande nicht ausreichend; hier bleibt es ggf. bei Paragraph 143 MarkenG plus Paragraph 25 Abs 2 StGB (Mittaeterschaft).
+Den Strafrahmen von drei Monaten bis fünf Jahren zugrunde legen; gesetzliche Strafrahmenmilderungen und gegebenenfalls § 47 Abs. 2 StGB gesondert prüfen. Bewährung, Berufsverbot und Gewerbeuntersagung nicht als automatische oder statistisch wahrscheinliche Folgen ausgeben. Maßgeblich sind die jeweiligen gesetzlichen und tatsächlichen Voraussetzungen.
 
-Bandenmitglieder müssen nicht alle bei jeder Einzeltat mitwirken; die Bandenmitgliedschaft genuegt für die Strafbarkeit nach Paragraph 143a MarkenG, sofern der konkrete Taeter Bandenmitglied ist und im Rahmen der Bandenabrede handelt.
+Für Einziehung zwischen Tatprodukten und Tatmitteln sowie Taterträgen und Wertersatz nach §§ 73 ff., 74 ff. StGB und § 143 Abs. 5 MarkenG unterscheiden. Jedem Beteiligten nur das rechtlich zurechenbare Erlangte zuordnen; der Gesamtumsatz einer Gruppe haftet nicht allein wegen Bandenmitgliedschaft jedem gesamtschuldnerisch an. Konkurrenzfragen zu Betrug, Geldwäsche, Urheberrecht und Vereinigungsdelikten jeweils am zusätzlichen Tatbestand prüfen.
 
-## Strafantrag und Antragsbefugnis
+### 3.4 Beweis- und Verhandlungsstrategie
 
-**Kein Antragserfordernis.** Offizialdelikt. Eine Strafanzeige durch den Markeninhaber, durch den Zoll oder durch Dritte loest das Ermittlungsverfahren aus. Anzeigeerstatter ist haeufig der Zoll im Rahmen Paragraph 142a MarkenG iVm VO (EU) 608/2013 (Grenzbeschlagnahme).
+Erstelle eine nach Personen und Einzelhandlungen geordnete Belegübersicht: belastender Umstand, entlastender Umstand, Quelle und offene Ermittlungsfrage. Prüfe, ob ein Beweisantrag eine konkrete Beweistatsache und ein geeignetes Beweismittel nennt. Ein Sachverständiger entscheidet nicht allgemein die Rechtsfrage, ob eine Person Bandenmitglied war.
 
-Praxisrelevant: Auch wenn kein Antrag erforderlich, ist die Mitwirkung des Markeninhabers für die Beweisfuehrung kritisch (Markenidentitaet, Originalitaetspruefung der Vergleichsmuster, Schadensbezifferung). Markeninhaber sollte vor der Anzeige Beweispaket vorbereiten.
+Vergleiche Bestreiten und begrenzte Einlassung anhand des tatsächlich bekannten Akteninhalts. Eine Kooperation erst nach Prüfung der Selbstbelastungsfolgen und des erwartbaren Nutzens ausarbeiten. Schadensausgleich und Einziehungsfragen dürfen nicht mit einem garantierten Verfahrensausgang verknüpft werden.
 
-## Praktikertipps der Verteidigung
+## 4. Quellenpflicht
 
-- **Bandenmerkmal bestreiten.** Drei-Personen-Schwelle prüfen. Wer ist Bandenmitglied? Lager-Mitarbeiter, Logistikdienstleister, Buchhalter können Beihilfeleister, nicht Bandenmitglieder sein. Bandenabrede setzt Wille zur kuenftigen Begehung weiterer Taten voraus; einmaliges Mittun ohne Absprache kein Bandenmerkmal.
-- **Gewerbsmaessigkeit erschuettern.** Wenn Mandant nur einen einzelnen Containerimport beguenstigt hat, ohne Wiederholungsabsicht: keine Gewerbsmaessigkeit. Wichtig: die subjektive Erwerbsabsicht muss nachgewiesen werden; nicht jeder einmalig hohe Umsatz genuegt.
-- **Aussteigerregelung prüfen.** Kein Paragraph 31 BtMG-Äquivalent im MarkenG, aber Paragraph 46b StGB (Kronzeugenregelung) bei Bandenkriminalitaet anwendbar, wenn die Tat als Verbrechen einzuordnen ist. Mandant kann durch Aussage gegen Mittaeter Strafmilderung erreichen.
-- **Mittaeter vs. Beihilfe trennen.** Untergeordnete Mitwirkende (Fahrer, einfache Lagerhelfer, technische Hilfskraefte) sollten als Gehilfen nach Paragraph 27 StGB eingestuft werden; Strafmilderung nach Paragraph 27 Abs 2 iVm Paragraph 49 Abs 1 StGB; mildere Strafzumessung.
-- **Verbrechen-Folgen beachten.** Versuch ist immer strafbar (Paragraph 23 Abs 1 StGB). Anstiftung und Beihilfe weiterhin möglich. Untersuchungshaft Paragraph 112 StPO wird wegen Wiederholungsgefahr (Paragraph 112a StPO) bei Bandenkriminalitaet hoch wahrscheinlich, sofern keine starke Verteidigungsstrategie greift.
+Punktuell am 13.11.2026 geprüft: [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 12 StGB](https://www.gesetze-im-internet.de/stgb/__12.html), [§ 153 StPO](https://www.gesetze-im-internet.de/stpo/__153.html) und [§ 153a StPO](https://www.gesetze-im-internet.de/stpo/__153a.html). Weitere Normen und Rechtsprechung zur konkreten Beteiligung, Aufklärungshilfe und Einziehung live prüfen. Zitierweise nach `references/zitierweise.md`; keine Literaturfundstellen aus bloßem Modellwissen.
 
-## Trade-off-Matrix
+## 5. Ausgabeformat
 
-| Pfad A vollumfaengliches Bestreiten | Pfad B Kronzeugenregelung Paragraph 46b StGB | Empfehlung |
-| --- | --- | --- |
-| Bestreiten Bandenmerkmal, Gewerbsmaessigkeit, Vorsatz; lange HV mit vielen Mitangeklagten, Telekommunikationsueberwachungen, V-Mann-Beweismitteln | Kooperation mit StA; Aussage gegen Bandenchef, Lieferanten, Logistiker; Aufdeckung weiterer Taten | Bei Verbrechensvorwurf und starker Beweislage (Container-Logs, Bankspuren, TKÜ-Ergebnisse): Pfad B bei junger Bandenposition; Pfad A bei untergeordneter Rolle, wo Beihilfe nach Paragraph 27 StGB tragfaehig ist. |
+Liefere den bestellten Schriftsatz vollständig ausformuliert mit Antrag, tatsächlicher Einlassung, individueller Subsumtion und Belegen. Schreibe in Times New Roman 11 pt, soweit technisch möglich, und gliedere ausschließlich dezimal. Eine kurze interne Belegübersicht darf die Endfassung begleiten, aber nicht ersetzen.
 
-Paragraph 153a StPO ist bei Paragraph 143a MarkenG (Verbrechen) **nicht** anwendbar. Einstellung nach Paragraph 153 StPO ebenfalls nicht. Verstaendigung Paragraph 257c StPO bleibt möglich, aber das Strafmass beginnt bei drei Monaten Freiheitsstrafe; Aussetzung zur Bewaehrung Paragraph 56 StGB praktisch erreichbar.
+Beispiel eines auf Tatsachen zu vervollständigenden Absatzes: „Die bisher benannten Unterlagen belegen nicht, dass [Person] an einer auf wiederholte Kennzeichenverletzungen gerichteten Bandenabrede beteiligt war. Aus [Beleg] ergibt sich lediglich [konkrete Tätigkeit]. Für eine weitergehende Absprache fehlt bislang [konkreter Nachweis]. Die individuelle Tatbeteiligung und der Kenntnisstand sind unabhängig von der organisatorischen Stellung zu prüfen.“
 
-## Konkurrenzen
+## 6. Beispiele
 
-- **Paragraph 143a MarkenG verdraengt** Paragraph 143 MarkenG (Spezialitaet).
-- **Paragraph 143a MarkenG und Paragraph 261 StGB Geldwaesche.** Bei systematischer Geldfluss-Verschleierung der Counterfeit-Erloese Tateinheit; Paragraph 261 als selbständige Tat möglich.
-- **Paragraph 143a MarkenG und Paragraph 263 StGB.** Tateinheit mit Betrug bei Vortaeuschen einer Originalware gegenueber Kaeufern.
-- **Paragraph 143a MarkenG und Paragraphen 129, 129a StGB.** Bei strukturierten Vereinigungen prüfen, ob kriminelle Vereinigung im Sinne Paragraph 129 StGB vorliegt; mehrgliedrige Bande mit fortbestehender Struktur kann Vereinigungscharakter erreichen.
-- **Paragraph 143a MarkenG und Paragraph 108a UrhG.** Bei Doppelverletzung Marke und Urheberrecht (Bootleg mit Marke) Tateinheit; beide gewerblichen Qualifikationen können nebeneinander stehen.
-
-## Strafzumessung
-
-Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitsstrafe. Aussetzung zur Bewaehrung Paragraph 56 StGB bei Strafe bis zwei Jahre möglich; bei laengerer Strafe nicht. Zumessungsgesichtspunkte: Umsatz der Bande, Anzahl Beteiligter, Hierarchieposition des Taeters, Schadenshoehe, Verfahrensdauer, Reue, Kooperation.
-
-- **Einziehung des Tatobjekts** Paragraph 74 StGB iVm Paragraph 143 Abs 5 MarkenG: Container, Lagerbestaende, Pressformen, Druckmaschinen.
-- **Gewinnabschoepfung** Paragraph 73 StGB iVm Paragraph 73c StGB: Bruttoprinzip; Gesamtumsatz der Bandentaten kann jedem Bandenmitglied gesamtschuldnerisch zugerechnet werden (BGH staendige Rspr. zur Gesamtschuldnerschaft bei Bandentaten).
-- **Berufsverbot** Paragraph 70 StGB hoch wahrscheinlich; Gewerbeuntersagung Paragraph 35 GewO regelmaessig.
-- **BZRG-Eintrag** bei Verbrechensverurteilung; Sperre als Geschäftsführer Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG nicht direkt einschlaegig, aber Berufsverbot nach Verurteilung praxisrelevant.
-
-## Mustertexte
-
-**Schutzschrift-Snippet:** "Mein Mandant hat als Lagerhelfer bei der Y GmbH gearbeitet. Eine Bandenmitgliedschaft im Sinne der BGH-Rspr. (Großer Senat für Strafsachen, Bandenabrede zwischen mindestens drei Personen mit Willen kuenftiger arbeitsteiliger Tatbegehung) wird bestritten. Mein Mandant hat lediglich auf Weisung des Geschäftsführers Verpackungstaetigkeiten ausgefuehrt; eine vorausgehende Absprache über die Begehung kuenftiger Markenverletzungen war nicht vorhanden. Hilfsweise wird Beihilfe nach Paragraph 27 StGB beantragt, mit Strafmilderung nach Paragraph 49 Abs 1 StGB."
-
-**Verstaendigungssnippet (Kronzeugenregelung):** "Mein Mandant ist bereit, gemäß Paragraph 46b StGB substantielle Aufklaerungshilfe zu leisten. Er kann die organisatorische Struktur der Bande sowie die Identitaet der Hauptverantwortlichen umfassend offenlegen. Im Gegenzug wird Strafmilderung beantragt."
-
-**Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten zur Personalstaerke und Tataufteilung der Y-Organisation einzuholen zum Beweis der Tatsache, dass nur zwei Personen die Tatkernhandlungen vornahmen und mein Mandant nicht in den engeren Kreis der Bandenmitglieder gehoerte."
-
-## Quellen Stand 06/2026
-
-- Paragraph 143a MarkenG im Wortlaut (gesetze-im-internet.de): drei Monate bis fuenf Jahre Freiheitsstrafe.
-- Paragraphen 143, 144 MarkenG.
-- Paragraph 14 MarkenG zivilrechtliche Verletzungstatbestaende.
-- BGH Großer Senat für Strafsachen, Bandenbegriff (Mindestens drei Personen, Wille kuenftiger arbeitsteiliger Tatbegehung); BGH staendige Rspr. zur Gewerbsmaessigkeit.
-- Paragraphen 25, 27, 49 StGB Taeterschaft, Beihilfe, Strafrahmenverschiebung.
-- Paragraph 46b StGB Kronzeugenregelung; Paragraph 257c StPO Verstaendigung; Paragraph 112a StPO Wiederholungsgefahr.
-- Paragraphen 73, 73c, 74 StGB Einziehung; Bruttoprinzip BGH; Gesamtschuldnerschaft bei Bandentaten BGH staendige Rspr.
-- VO (EU) 608/2013 und Paragraph 142a MarkenG; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
+Ein Lagerhelfer mit Kenntnis einzelner Fälschungen ist nicht ohne Prüfung seiner Absprachen Bandenmitglied; sein möglicher Vorsatz und Tatbeitrag bleiben dennoch zu untersuchen. Bei zwei selbständigen Verkäufern scheitert die Bandenvariante an der Mindestpersonenzahl, während Gewerbsmäßigkeit gesondert vorliegen kann. Bei fortlaufenden Importen darf der gesamte Gruppenumsatz nicht ohne Feststellung individueller Verfügungsmacht als persönlich erlangt angesetzt werden.

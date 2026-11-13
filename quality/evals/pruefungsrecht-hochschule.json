@@ -55,7 +55,7 @@
       "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
       "2026-10-16, redaktioneller Einstiegsreview: Konkrete Bewertungsrüge und Ergebnis vor Beispielen; übersehene oder vertretbare Antwort statt pauschalem Notenwunsch. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "ecb673fc8b484d7f9dcaa028ae8e39e56a133ecc4f0ee542b3c92caf8d1ed8d6",
+    "sha256": "e242ebe548e7769af5f310faf4197fda76af5204905972d433e4578595fb93b3",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -156,5 +156,15 @@
     "continuation": "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
     "enrichment": "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

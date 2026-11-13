@@ -141,7 +141,7 @@
       "Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Anspruch, Vermögensobjekt und bestelltes Schreiben werden vor den Verfahrensschritten geklärt; Konkretisierung wird von Neuanmeldung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "5237ca7b727adc81ea3e5532a69ebd60e9e83781e577c594aa55162c1d0c1a3a"
+    "sha256": "fa99d29c594d8868c290bef04bb023b02a89a4572ee2ef343e2cc2ec6d93d81b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -193,5 +193,15 @@
     "continuation": "Altes Flurstück wurde geteilt -> Identitätskette, Umfang des Altantrags und heutige Bezeichnung berichtigen, keinen neuen Vermögenswert stillschweigend einbeziehen.",
     "enrichment": "Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -138,7 +138,7 @@
     "changes": [
       "Einstiegsredaktion 16.10.2026: Vertragsziel mit Anteilsform und individueller Leaver-Grenze verbunden; KG-Managementmodell nicht als Gründer-Vesting-Freigabe dargestellt."
     ],
-    "sha256": "cf1e2a99bbcb6a9b32c156d270492b1f6aa590e5831a6f42a0c0c67db260412e"
+    "sha256": "630cdc71e299a718449db991d5d6633e03a1c5a076b66e1993409ec72e4afe03"
   },
   "focus_review": {
     "method": "desk_review",
@@ -149,7 +149,7 @@
     "prompt_path": "gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md",
     "skill_path": "gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md",
     "prompt_sha256": "6273a0e25726ac4293600be51d881f71e8e0a33403b04caa895a2cedbb71badc",
-    "skill_sha256": "bc4011e01cf9df965ad2a957b248da1603bea8d65e92e0edf8c05d9fc558fef6"
+    "skill_sha256": "63edb3f0d4203bf6b7e5a0fcf7f96961982e128d385907fb624c01ab6477f31b"
   },
   "prompt_workflow_review": {
     "date": "2026-10-09",
@@ -225,5 +225,17 @@
         "utf8_bytes": 6188
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md",
+      "gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md",
+      "gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

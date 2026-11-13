@@ -180,7 +180,7 @@
       "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Bußgeldverteidigung und behördliche Anordnung sind früh getrennt; der gewünschte Rechtsbehelf folgt aus dem vorliegenden Material. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "e8c413066f286189aabda464f022fd37bd8597d1d4c9a1e02efe60a0e56cba1f"
+    "sha256": "0ca6d26f1a0c84e8009f5c455f246d553cb9adccd13976ad274631966e74c162"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -229,5 +229,15 @@
     "reference": "datenschutz-sanktionsverfahren-verteidigung/references/ki-normen-und-fallpruefung.md",
     "focus": "Trennen Sie die behauptete Datenpanne, die tatsächlichen Empfänger und einen möglichen KI-Systemvorfall. Weder die Speicherung pseudonymisierter Daten noch die Bezeichnung Bias-Test beantwortet Rechtmäßigkeit und Meldeweg allein.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

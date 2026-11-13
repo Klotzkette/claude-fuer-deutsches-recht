@@ -1,105 +1,54 @@
 ---
 name: strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme
-description: "Für Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 150 MarkenG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG
+# Grenzmaßnahmen bei Kennzeichenverletzungen
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Bearbeite eine Zollmitteilung über angehaltene Ware und erstelle den beauftragten Widerspruch, eine Freigabebegründung, eine Antwort des Rechtsinhabers oder eine Entscheidungsvorlage zur Vernichtung. Trenne das zollrechtliche Verfahren von zivilrechtlicher Verletzungsklage und Strafverfahren. Ein Zollaufgriff ist noch kein Nachweis einer strafbaren Kennzeichenverletzung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-**Fokus:** Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus.
+Benötigt werden die vollständige Zollmitteilung mit Zugangsdaten und Frist, Versand- und Zollstatus, Art und Menge der Ware, Rechtebestand, Bilder oder Muster, Originalrechnungen, Lizenz- und Lieferunterlagen sowie die Rolle des Auftraggebers. Erfasse insbesondere, ob leicht verderbliche Waren, Kleinsendungen oder persönliches Reisegepäck betroffen sind. Fehlende Daten unmittelbar aus der Mitteilung oder mit einer gezielten Rückfrage klären.
 
-### Grenzbeschlagnahme bei IP-Verletzungen nach VO (EU) 608/2013 und Paragraph 142a MarkenG
+## 3. Ablauf
 
-## Worum geht es
+### 3.1 Verfahrensgrundlage bestimmen
 
-Die Produktpiraterieverordnung (VO (EU) 608/2013) regelt das Taetigwerden der Zollbehoerden zur Durchsetzung von Rechten des geistigen Eigentums an der EU-Aussengrenze. Paragraph 142a MarkenG ist die deutsche Ergaenzungsnorm für Inlandsbezogene Faelle (Binnenmarkt). Anwendungsfaelle: Container mit Counterfeit-Ware aus Drittstaaten, Postsendungen aus Asien, Paralleltransporte über Binnengrenzen.
+Prüfe den Anwendungsbereich der Verordnung (EU) Nr. 608/2013 anhand der zollrechtlichen Situation. § 150 MarkenG ergänzt dieses Verfahren durch Verweis auf §§ 148 Abs. 1 und 2, 149 MarkenG, soweit die Verordnung nicht entgegensteht; er erweitert die Verordnung nicht pauschal auf den Binnenmarkt.
 
-Die Grenzbeschlagnahme ist sowohl strafrechtlich relevant (Beweissicherung, Loslassen-Verfahren, Verbindung zum Paragraph 143 / 143a MarkenG, Paragraph 142 PatG, Paragraph 108a UrhG) als auch zivilrechtlich (Schadensersatz, Unterlassung). Im Strafverfahren wird der Zoll oft zum primaeren Anzeigeerstatter, weil er die Ware physikalisch erfasst.
+Soweit die Verordnung nicht anwendbar ist, kommt § 146 MarkenG für widerrechtlich gekennzeichnete Waren bei Ein- oder Ausfuhr in Betracht. Dafür sind unter anderem Antrag, Sicherheitsleistung und offensichtliche Rechtsverletzung zu prüfen. Im EU-/EWR-Verkehr gilt diese Regel nur, soweit Zollkontrollen stattfinden. Andere Schutzrechtsarten anhand ihrer eigenen Vorschriften behandeln; keine Markenregel automatisch auf Patente oder Urheberrechte übertragen.
 
-Strafrechtlich knuepft die Grenzbeschlagnahme an die materiellen IP-Strafnormen an (Paragraph 143 MarkenG, Paragraph 142 PatG, Paragraph 106 UrhG, Paragraph 51 DesignG). Sie ist kein eigener Straftatbestand, sondern ein Verfahrensinstrument.
+### 3.2 Ware und Rechte aufklären
 
-## Tatbestand und Geltungsbereich
+Vergleiche die konkrete Ware mit dem Rechtebestand und den Originalitätsunterlagen. Rechtmäßige Parallelimporte, Erschöpfung, Zustimmung, Lizenzumfang und nichtgewerbliches Reisegepäck getrennt prüfen. Eine feste Stückzahl als allgemeine Freigrenze nicht erfinden. Bei Reisegepäck ist die Ausnahme des Art. 1 Abs. 4 der Verordnung an ihren Merkmalen zu prüfen.
 
-VO (EU) 608/2013 regelt das Verfahren der Zollkontrolle bei Verdacht auf Verletzung eines geschuetzten Rechts an geistigem Eigentum. Erfasste Schutzrechte (Art. 2 Abs 1 VO):
+Antrag auf Tätigwerden, Dauer seiner Stattgabe, Zurückhaltung und Beschlagnahme präzise benennen. Für die mögliche Vernichtung die tatsächlich einschlägige Verfahrensart, Beteiligtenbestätigungen und Fristen der Verordnung ermitteln. Insbesondere Regeln für leicht verderbliche Waren und Kleinsendungen nicht unter einer allgemeinen Zehn-Tage-Formel verstecken.
 
-- Marken (national, Unionsmarke, international).
-- Urheberrecht und verwandte Schutzrechte.
-- Geschmacksmuster (national, Unionsdesign).
-- Patente.
-- Erganzende Schutzzertifikate, Sortenschutz, Topographien, geografische Angaben.
+### 3.3 Fristgebundene Reaktion erstellen
 
-Verfahrensablauf:
+Erfasse für jede Erklärung Fristbeginn, gesetzliche Dauer, Zugang und möglichen Verlängerungsweg. Ein Widerspruch gegen Vernichtung ist von einem Rechtsbehelf gegen eine Zollmaßnahme zu unterscheiden. Zuständige Stelle und Rechtsweg anhand Verfahrensgrundlage und Rechtsbehelfsbelehrung bestimmen; nicht jede Maßnahme führt ohne Weiteres zu derselben Behörde oder demselben Gericht.
 
-- **AGZ-Antrag** (Antrag auf Grenzueberwachung): Rechteinhaber stellt Antrag beim Generalzolldirektion Zentralstelle Gewerblicher Rechtsschutz auf Taetigwerden. Antrag gilt für ein Jahr (verlaengerbar).
-- **Aufgriff durch Zoll**: Bei Verdachtsfall haelt Zoll Ware zurueck (Art. 17 VO). Rechteinhaber und Anmelder werden benachrichtigt.
-- **Frist 10 Werktage** (Art. 23 VO): Rechteinhaber kann zivilrechtliche Maßnahmen einleiten (Verletzungsklage, einstweilige Verfuegung). Verlaengerung 10 Werktage möglich.
-- **Vereinfachtes Vernichtungsverfahren** (Art. 23 VO): Wenn Anmelder zustimmt oder nicht widerspricht, kann Ware ohne Gerichtsverfahren vernichtet werden.
-- **Einspruch** des Anmelders: Bei Einspruch ist zivilrechtliches Verletzungsverfahren notwendig.
+Prüfe die Voraussetzungen einer vereinfachten Vernichtung einschließlich der Erklärung des Rechtsinhabers und der Zustimmung beziehungsweise rechtlich relevanten Nichtreaktion des Warenbeteiligten. Bei Widerspruch sind die erforderlichen weiteren Schritte und Fristen für die Feststellung der Rechtsverletzung gesondert darzustellen. Eine Zustimmung zur Vernichtung ist keine garantierte Erledigung von Schadensersatz- oder Strafverfolgungsrisiken.
 
-Paragraph 142a MarkenG erweitert das Verfahren auf den **Binnenmarkt** (Transit innerhalb EU, Binnenversand). Sondernormen für Patentrecht (Paragraph 142b PatG bitte verifizieren), Designrecht (Paragraph 55 DesignG bitte verifizieren), Urheberrecht (Paragraph 111b UrhG).
+### 3.4 Strafrechtliche Schnittstelle
 
-**Privatreise-Ausnahme** Art. 1 Abs 4 VO (EU) 608/2013: Waren ohne gewerblichen Charakter im Reisegepaeck der nichtkommerziellen Einfuhr unterliegen nicht der Grenzbeschlagnahme. Faustregel: kleine Mengen für Eigenbedarf.
+Bei nationalen Kennzeichen § 143 MarkenG, bei Unionsmarken § 144 MarkenG prüfen. Das Antragserfordernis für den Grundtatbestand ergibt sich aus § 143 Abs. 4, gegebenenfalls in Verbindung mit § 144 Abs. 2 MarkenG. Bei § 143 Abs. 2 besteht es nicht. Die Dreimonatsfrist nach § 77b StGB hängt von Kenntnis von Tat und Täter bei der antragsberechtigten Person ab; eine Zollmitteilung löst sie nur aus, soweit sie die erforderliche Kenntnis vermittelt.
 
-## Strafantrag und Antragsbefugnis
+Beweissicherung, Schweigerecht und Akteneinsicht sichern. Strafprozessuale Beschlagnahme nach §§ 94 ff. StPO getrennt behandeln. Weder Einziehung noch Wertersatz schematisch aus dem Listenpreis aller angehaltenen Produkte berechnen; konkrete Einziehungsgrundlage und tatsächlich Erlangtes feststellen.
 
-Die Grenzbeschlagnahme ist verfahrensrechtlich, nicht antragsrechtlich. Der materielle Strafantrag richtet sich nach Paragraph 144 MarkenG, Paragraph 109 UrhG, Paragraph 142 Abs 4 PatG, Paragraph 51 Abs 4 DesignG. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis.
+## 4. Quellenpflicht
 
-Praxisbesonderheit: Die **Benachrichtigung durch Zoll** (Art. 17 VO) loest die Kenntnis im Sinne Paragraph 77b StGB beim Rechteinhaber aus. Antragsfrist beginnt mit Benachrichtigung. Bei Verzoegerung in der internen Bearbeitung (Konzerne, Mehrebenenstrukturen) Frist gleichwohl auf Vertretungsorgan abstellen.
+Punktuelle Normkontrolle am 13.11.2026: [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html), [§ 150 MarkenG](https://www.gesetze-im-internet.de/markeng/__150.html), [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html). Für die konkrete Zollmitteilung die [Verordnung (EU) Nr. 608/2013](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0608), insbesondere Art. 1, 17, 23 und 26, in geltender Fassung und die aktuellen Zollvorgaben prüfen. Fristangaben und Rechtsprechung nur nach überprüfter Quelle ausgeben; Zitierweise nach `references/zitierweise.md`.
 
-## Praktikertipps der Verteidigung
+## 5. Ausgabeformat
 
-- **Originalitaetspruefung sofort verlangen.** Bei Zollbeschlagnahme oft Indizverdacht ohne sichere Originalitaetspruefung; Verteidigung sollte beim Zoll Antrag auf Freigabe stellen, wenn Mandant Originalrechnungen, Lizenzunterlagen oder Lieferkette nachweisen kann. Beweislast Beweissicherheit liegt funktionell beim Rechteinhaber.
-- **Privatreise-Ausnahme.** Bei Einzelreisenden mit wenigen Stuecken (Faustregel: ein bis drei Stueck im persönlichen Gepaeck) ist Privatreise-Ausnahme einzuwenden. Reisepass, Reiseunterlagen, Hotelbuchung als Beleg.
-- **Vereinfachtes Vernichtungsverfahren widersprechen.** Wenn Mandant nicht Einigung mit Rechteinhaber wuenscht, **Widerspruch** gegen vereinfachtes Verfahren innerhalb der Frist (10 Werktage); dadurch Zwang zum zivilrechtlichen Verletzungsverfahren mit voller Beweisaufnahme.
-- **Schadenpolster prüfen.** Vernichtungsverfahren ist oft die schmerzhafteste Konsequenz (kein Schadensersatz an Mandanten für beschlagnahmte Ware), waehrend Strafverfahren bei eindeutiger Beweislage faktisch ueblicherweise Geldstrafe oder Bewaehrung bringt. Trade-off zwischen Vernichtungsverlust und Strafverfahrenskosten prüfen.
-- **Beschwerde gegen Zollmassnahme.** Beschwerde an vorgesetzte Zollbehoerde (Hauptzollamt Dresden, Zentralstelle Gewerblicher Rechtsschutz). Gerichtlicher Rechtsweg über Finanzgericht (Paragraph 33 FGO bei Maßnahmen der Zollverwaltung).
-- **Strafrechtliche Folgen.** Bei Aufgriff im Containerverkehr loest StA Ermittlungsverfahren wegen Paragraph 143 / 143a MarkenG, Paragraph 108a UrhG; Mandant erhaelt Beschuldigtenpost. Frueh anwaltliche Vertretung; Aussageverweigerung Paragraph 136 StPO.
+Liefere eine vollständig ausformulierte, adressierbare Erklärung mit Aktenzeichen, Warenbezug, konkretem Begehren und Anlagen. Enddokumente soweit möglich in Times New Roman 11 pt und ausschließlich dezimal gliedern. Ergänze intern eine kurze Frist- und Belegübersicht; keine bloße Prüfliste als bestelltes Schreiben liefern.
 
-## Trade-off-Matrix
+Ein fristwahrender Baustein kann nach Prüfung der passenden Verfahrenslage lauten: „Namens der [Beteiligten] widerspreche ich der in Ihrer Mitteilung vom [Datum], Aktenzeichen [Zeichen], bezeichneten Vernichtung der Waren [genaue Identifizierung]. Die Zustimmung zur Vernichtung wird nicht erteilt. Zur geltend gemachten Originalität verweise ich auf [Unterlagen]; weitere Erklärungen erfolgen nach [konkreter noch erforderlicher Prüfung].“ Eine zusätzliche Freigabe oder ein förmlicher Rechtsbehelf benötigt eine eigenständige Begründung.
 
-| Pfad A Widerspruch + Verteidigung im Strafverfahren | Pfad B Zustimmung Vernichtungsverfahren + Vergleich | Empfehlung |
-| --- | --- | --- |
-| Widerspruch zwingt Rechteinhaber zur Verletzungsklage; Beweisaufnahme; Risiko Strafverfahren parallel laeuft | Zustimmung beendet Zollverfahren rasch; Ware verloren; aber: Rechteinhaber typischerweise dann auch Strafverfahren mit Antragsruecknahme einstellen lassen, ggf. Schadensvereinbarung | Bei klar gefaelschter Ware ohne Verteidigungsperspektive: Pfad B mit Vergleich + Antragsruecknahme Paragraph 77d StGB; Strafverfahren dann eingestellt Paragraph 170 Abs 2 StPO. Bei zweifelhafter Originalitaet: Pfad A, weil Originalbeweis Befreiung bringt. |
+## 6. Beispiele
 
-## Konkurrenzen
-
-- Grenzbeschlagnahme ist Verfahrensinstrument, keine Strafnorm; sie steht **neben** den materiellen IP-Straftatbestaenden, nicht in Konkurrenz.
-- Verhältnis zu Paragraphen 94 ff. StPO (Beschlagnahme): Zollbeschlagnahme tritt regelmaessig vor Strafverfahren; StA kann Ware nach Paragraph 94 StPO beschlagnahmen, sofern noch in Zollverwahrung; Übergabe aus Zoll an StA.
-- Verhältnis zur **Vorratsdatenpflicht** beim Online-Plattform-Vertrieb (DSA Art. 22 ff.) — kommerzielle Plattformen müssen Trader-Daten speichern und auf Anforderung herausgeben; im IP-Strafverfahren Beweissicherung über Plattform-Betreiber möglich.
-
-## Strafzumessung
-
-Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgelagerte Strafverfahren:
-
-- **Anzahl der beschlagnahmten Stuecke** flieesst direkt in den Umsatz und Schaden ein; Bruttoprinzip BGH.
-- **Bei mehrfachem Aufgriff** über laengere Zeitraeume Gewerbsmaessigkeit Paragraph 143a MarkenG oder Paragraph 108a UrhG indiziert.
-- **Einziehung** der beschlagnahmten Ware Paragraph 74 StGB iVm Sondereinziehungsnorm; bei Zustimmung im Vernichtungsverfahren ist Einziehung obsolet (Ware bereits vernichtet).
-- **Gewinnabschoepfung** Paragraph 73 StGB: Brutto-Verkaufswert der nicht beschlagnahmten Ware (die bereits in Verkehr gelangt ist); Mandant haftet auf Wertersatz Paragraph 73c StGB.
-
-## Mustertexte
-
-**Widerspruch gegen vereinfachtes Vernichtungsverfahren:** "Sehr geehrte Damen und Herren, namens und mit Vollmacht meines Mandanten, der Y GmbH, widerspreche ich hiermit dem vereinfachten Vernichtungsverfahren nach Art. 23 VO (EU) 608/2013 in Bezug auf die mit Bescheid vom DD.MM.JJJJ angehaltenen Waren (Aktenzeichen [...]). Es besteht kein Anhaltspunkt für eine Markenrechtsverletzung; die Waren wurden über den autorisierten Haendler X (Frankreich) erworben (Anlage 1, Rechnung; Anlage 2, Lieferschein). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor. Ich beantrage Freigabe der Waren. Hilfsweise wird das zivilrechtliche Verletzungsverfahren der Rechteinhaberin abgewartet."
-
-**Schreiben an Rechteinhaber (Vergleichsangebot):** "Sehr geehrte Damen und Herren, in Bezug auf die Grenzbeschlagnahme vom DD.MM.JJJJ (Aktenzeichen [...]) bietet mein Mandant folgenden Vergleich an: Zustimmung zur Vernichtung der beschlagnahmten Ware ohne weitere zivilrechtliche Verfolgung; Zahlung von Lizenzgebuehrenanalogie in Höhe von EUR X; im Gegenzug Rücknahme des Strafantrags gemäß Paragraph 77d StGB."
-
-**Strafanzeige durch Zoll (Selbstanzeige des Beschuldigten/Verteidigerstrategie):** "Mein Mandant erstattet hiermit Selbstanzeige gemäß Paragraph 158 StPO im Zusammenhang mit der Grenzbeschlagnahme vom DD.MM.JJJJ. Er stellt umfassende Aufklaerungshilfe in Aussicht; insbesondere kann er die Lieferkette aus dem Drittstaat Z offenlegen. Es wird Strafmilderung gemäß Paragraph 46b StGB beantragt."
-
-## Quellen Stand 06/2026
-
-- VO (EU) 608/2013 über die Durchsetzung der Rechte geistigen Eigentums durch die Zollbehoerden.
-- Paragraph 142a MarkenG (Grenzbeschlagnahme im Binnenmarkt).
-- Paragraph 111b UrhG (Grenzbeschlagnahme bei Urheberrechtsverletzungen).
-- Paragraph 55 DesignG, Paragraph 142b PatG (paralleler Anwendungsbereich — Wortlaut verifizieren).
-- Paragraph 94 StPO Beschlagnahme.
-- Paragraph 24 MarkenG Erschoepfung.
-- Generalzolldirektion Zentralstelle Gewerblicher Rechtsschutz, Verfahrenshandbuch (zoll.de).
-- Paragraphen 33, 40 FGO für finanzgerichtlichen Rechtsweg gegen Zollmassnahmen.
-- DSA (VO (EU) 2022/2065) Art. 22 ff. für Plattform-Sorgfaltspflichten; Verbindung zu IP-Strafverfahren.
+Bei einem Container mit widersprüchlichen Lieferantenrechnungen zunächst Ware, Rechte, Lieferkette und Reaktionsfrist aufklären. Bei einem Versand innerhalb der EU nicht pauschal § 150 MarkenG als Binnenmarkt-Ermächtigung einsetzen. Bei Zustimmung zur Vernichtung offen ausweisen, welche zivilrechtlichen und strafrechtlichen Fragen dadurch ungelöst bleiben.

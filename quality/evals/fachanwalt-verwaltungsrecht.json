@@ -191,7 +191,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Antrag und gewünschtes Dokument eröffnen die Arbeit; Förderzweck, Teilnahme und Kenntnis je Widerrufsgrund werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25"
     ],
-    "sha256": "8e6d3cca14a50f4aa0c667f627f1b995b153b7f44c920e793209424fc9f897dc",
+    "sha256": "c582d5a7c3a40eb7f4c98ac3aecd38e8d3244f2a21cf5c2ae81ab74a1611d05d",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
@@ -337,5 +337,16 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
+      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

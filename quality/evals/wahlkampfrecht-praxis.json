@@ -66,7 +66,7 @@
       "Meldungs- und Herkunftsdialog, Standortantwort anhand Bescheid/Anlage und Änderung von Transparenzvermerk beziehungsweise Amtskanalbewertung konkret ausgearbeitet; keine politische Anspracheoptimierung.",
       "Spendenvorgang, Anzeige und Amtsressourcen bleiben getrennte Wege. Wanka-Entscheidung früh mit Ministeriumsautorität, Chancengleichheit und Abgrenzung privater Parteibetätigung."
     ],
-    "sha256": "e5cd7b2ffaa030c01b521a6731e9e8c5ca7aaacbeb1687f905bb71c3da2ce001",
+    "sha256": "2d6dad9590d9ed42a3e8b42a0015b3521f8f0c1403da04082e9410b84bbf101c",
     "reviewed_on": "2026-10-16"
   },
   "selection": {
@@ -244,5 +244,15 @@
       "search_2026": "Exakte amtliche Suche nach 2026-Neutralität im Wahlkampf ohne passenden neuen Treffer.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "wahlkampfrecht-praxis/wahlkampfrecht-praxis-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

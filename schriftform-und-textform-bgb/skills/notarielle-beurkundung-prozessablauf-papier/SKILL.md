@@ -72,7 +72,7 @@ Notarielle Form kann grundsätzlich nicht durch qES oder andere elektronische Mi
 | Unterhaltsverzichtsverträge | Notarielle Beurkundung | Paragraf 1585c BGB |
 | Bürgschaft (Kaufmann) | Schriftform genügt | Paragraf 350 HGB |
 | Handelsregistereintragungen | Öffentliche Beglaubigung | Paragraf 12 HGB |
-| Erbschein-Antrag | Eidesstattliche Versicherung / Notar | Paragraf 2356 BGB |
+| Erbschein-Antrag | Eidesstattliche Versicherung / Notar | Paragraf 352 Abs. 3 FamFG |
 
 ### Unterschied Beurkundung vs. Beglaubigung
 

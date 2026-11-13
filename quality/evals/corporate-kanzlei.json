@@ -67,7 +67,7 @@
       "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "888873fb40e4d1b5895b77a277ec3ccb459814ea59b30aefca6bb4ef1a2a0dad"
+    "sha256": "fb8c413a9465ad57e6fc94a0a4ed9d7bb7075294ec55e2497caf8fbfaf8aa8e9"
   },
   "selection": {
     "positive": [
@@ -167,5 +167,15 @@
     "reference": "corporate-kanzlei/references/ki-normen-und-fallpruefung.md",
     "focus": "Verlangen Sie für ein KI-Zielunternehmen die konkrete Systemliste samt Version, Zweck, Rolle und tatsächlichen Konformitätsbelegen. Ein Zertifikat der Muttergesellschaft rechtfertigt keine Garantie für sämtliche Produkte der Tochter.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "corporate-kanzlei/corporate-kanzlei-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -20,16 +20,16 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
 - § 288 Abs. 1 BGB — Verzugszinssatz (5 Prozentpunkte über Basiszinssatz)
 - § 288 Abs. 2 BGB — Verzugszinssatz im B2B-Bereich (9 Prozentpunkte über Basiszinssatz)
 - § 291 BGB — Rechtshängigkeitszinsen (ab Klageerhebung)
-- § 708 Nr. 11 ZPO — Vollstreckbarkeit ohne Sicherheit bis 1.500 EUR
+- § 708 Nr. 11 ZPO — Hauptsacheverurteilung höchstens 1.250 EUR oder, bei allein vollstreckbarer Kostenentscheidung, Vollstreckungswert höchstens 1.500 EUR
 - § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent
-- § 713 ZPO — Vollstreckbarkeit ohne Sicherheit bei fehlendem Rechtsmittel
+- § 713 ZPO — Unterbleiben der Anordnungen nach §§ 711, 712 bei unzweifelhaft fehlendem Rechtsmittel; keine eigenständige Grundlage für Vollstreckbarkeit ohne Sicherheit
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Hauptsacheantrag prüfen:** Zahlungsbetrag, Zinssatz, Zinsbeginn — konkret und vollstreckbar formulieren.
 2. **Hilfsanträge/Widerklage:** Reihenfolge wie im Klageantrag; Hilfsantrag mit "hilfsweise:" kennzeichnen.
 3. **Kostenentscheidung:** § 91 ZPO (voller Sieg) oder § 92 ZPO (Quotelung).
-4. **Vorläufige Vollstreckbarkeit:** Passende Norm wählen (§ 708, 709 oder 713 ZPO).
+4. **Vorläufige Vollstreckbarkeit:** Zunächst § 708 oder § 709 ZPO bestimmen; anschließend §§ 711 bis 713 ZPO getrennt prüfen.
 5. **Streitwertbeschluss:** Im Tenor oder separat (§ 63 GKG).
 
 ## Output-Template
@@ -71,10 +71,10 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
  - bei mehreren Beklagten: Paragraf 100 ZPO
 3. **Vorläufige Vollstreckbarkeit** (Paragraf 708 ff ZPO)
  - Standardformel: "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
- - Bei Beschwer unter 600 EUR: Paragraf 713 ZPO - ohne Sicherheit
+ - Paragraf 713 ZPO: Anordnungen nach Paragrafen 711, 712 unterbleiben nur, wenn unzweifelhaft kein Rechtsmittel stattfindet; Beschwer, Zulassung und Übergangsrecht prüfen
  - Bei Versäumnisurteil: Paragraf 708 Nr. 2 ZPO
 4. **Streitwert** (gesonderter Beschluss oder im Tenor)
-5. **Berufungszulassung** (Paragraf 511 Abs. 4 ZPO bei AG-Urteilen mit Beschwer unter 600 EUR)
+5. **Berufungszulassung** (Paragraf 511 Abs. 4 ZPO bei AG-Urteilen mit Beschwer von nicht mehr als 1.000 EUR)
 
 ## Bestimmtheitsgebot
 
@@ -93,3 +93,7 @@ Im Repository werden Geldbetraege im Fliesstext mit Punkt geschrieben (Repo-Konv
 ---
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+## Übergangsrecht zum Berufungswert
+
+Die Grenze des § 511 Abs. 2 Nr. 1 ZPO liegt grundsätzlich bei **mehr als 1.000 EUR Beschwer**; genau 1.000 EUR reichen nicht. Beschwer und Streitwert unterscheiden und die Zulassung gesondert prüfen. Nach [§ 47 EGZPO](https://www.gesetze-im-internet.de/zpoeg/__47.html) gilt die frühere Grenze von mehr als 600 EUR weiter, wenn die Entscheidung bis einschließlich 31.12.2025 verkündet oder mangels Verkündung der Geschäftsstelle übergeben wurde. Gleiches gilt bei bis dahin geschlossener mündlicher Verhandlung; im schriftlichen Verfahren ist der Einreichungsschluss maßgeblich. Daher auch bei einem Entscheidungsdatum im Jahr 2026 die Übergangstatsachen erheben. Normabgleich mit [§ 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html) am 13.11.2026.

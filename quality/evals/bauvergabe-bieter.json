@@ -460,7 +460,7 @@
       "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert.",
       "16.10.2026: Bieterangebot, Unterlagen und Abgabeziel zuerst; Ausschlussgrenze aus vorhandenem Leitsatz vorgezogen."
     ],
-    "sha256": "b64ad01639d2ca7a33cb89bd47b87391ff8359cf8e1de798b6e9ec68b4526948",
+    "sha256": "8a9fa4ddc88ce5dccae2ae16cdebc030af75c0c1aa21aeab85c9c7c20c5b9857",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -484,5 +484,15 @@
         "anchor_or_exception": "Paragraf 13 EU VOB/A; BGH 18.06.2019 X ZR 86/17: eigene Bieterbedingungen, keine allgemeine Reparatur inhaltlicher Angebotsabweichungen."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bauvergabe/bauvergabe-bieter/bauvergabe-bieter-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

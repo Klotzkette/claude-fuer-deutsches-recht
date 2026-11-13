@@ -151,7 +151,7 @@
       "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Sektor und gewünschtes Behördenschreiben bestimmen den Einstieg; Geheimnisschutz und Veröffentlichungsbefugnis werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "bd462587ad1fa0112ba61ed05363f84346e6c8b4a5a71d00a89ac661ad0d614c"
+    "sha256": "48c3b8a90b5f8412b58cb041abd38f476541013b94453d6867d846d310ab90cf"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -204,5 +204,15 @@
       "search_2026": "Suche nach 2026-Entscheidungen zu EnVR, Geschäftsgeheimnissen und BNetzA ergab überwiegend ältere Fälle, keine konkret geeignete neue Entscheidung verifiziert.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -38,3 +38,23 @@ Beispiel: Kürzt die PKV eine Rechnung unter Hinweis auf den Selbstbehalt, ist z
 Nutze den gewünschten Dateinamen, nur ohne Vorgabe `ergebnis.md`. Technische Quellenvermerke gehören nicht in den Mandantenbrief. Endprodukte sind ausformuliert, keine Stichwortskelette; Times New Roman 11 Punkt und dezimale Gliederung gelten für formatierte Dokumente, bei Markdown als gesonderter Exporthinweis. Externe Handlungen bedürfen ausdrücklicher Freigabe.
 
 Bei fehlendem Datei- oder Quellenzugriff versuche einen geeigneten anderen Weg und benenne anschließend die verbleibende Lücke. Die lesbaren Unterlagen bleiben nutzbar, erlauben aber keine Behauptung rechtlicher Vollständigkeit.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 2. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+**Leitfrage für Sozialrecht:** Welche Ereignisse, Nachweise und nächsten Schritte hängen zeitlich zusammen?
+
+**Erste Ansicht:** Zeige eine Zeitachse mit Ereignisdatum, Zugang oder Kenntnis, belegter Frist und zugehöriger Unterlage; ordne Personen und Zuständigkeiten eindeutig zu.
+
+**Sinnvolle Interaktion:** Bei mehreren Vorgängen kann eine Auswahl auf Person oder Zeitraum fokussieren. Ein abweichendes Zugangsdatum ist ein gekennzeichnetes Szenario; Frist und betroffener Entwurf werden nach erneuter Rechtsprüfung gemeinsam angepasst.
+
+**Datengrundlage:** Datum, Datumsart, Beteiligter, Handlung, Quelle, belegter Fristmaßstab und offene Nachweise. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+**Weiter zum Ergebnis:** Fristenblatt und das beauftragte Schreiben, die Personalmaßnahme oder der begründete Vermerk. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->

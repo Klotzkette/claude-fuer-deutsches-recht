@@ -50,7 +50,7 @@
       "Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext.",
       "Redaktion 16.10.2026: Erweiterungsprüfung mit Geheimniszugang und tatsächlichen Sicherheitsmaßnahmen verbunden, Installation weiterhin nicht erlaubt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "d5d8495ac790bbe1b7ad20eea154ebc983e06f155af9aa690621b5638f7a3ad7"
+    "sha256": "514b40be9e50145d1ecdd9cd0eb0f511399bb971a79a781f804f1eaeefa6eb04"
   },
   "selection": {
     "positive": [
@@ -143,5 +143,15 @@
     "reference": "kanzlei-builder-hub/references/ki-normen-und-fallpruefung.md",
     "focus": "Legen Sie für jeden Baustein fest, welche Daten er lesen, verändern und versenden darf. Prüfen Sie die tatsächliche Funktion und die nach außen behauptete Leistung; ein Agentenetikett ersetzt keine Einordnung.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "kanzlei-builder-hub/kanzlei-builder-hub-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

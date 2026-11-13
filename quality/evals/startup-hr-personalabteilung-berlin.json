@@ -92,7 +92,7 @@
       "Nachweislich abgeschaltete Screenshots verändern die Rollout-Vorlage nur für die verbleibenden Funktionen; neue Zeitbuchung verändert Monatskorrektur und Mitarbeiterschreiben.",
       "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln."
     ],
-    "sha256": "a41722c456158ca9ed2a2c9635cf4d6998278d540b77c568b1b088aa4a3eae4c",
+    "sha256": "3c4fbfbd9ce712e913511bf6e3c58a5ff9bdf12f8911ea717e2093b9236ccc8c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -151,5 +151,15 @@
     "reference": "startup-hr-personalabteilung-berlin/references/ki-normen-und-fallpruefung.md",
     "focus": "Vergleichen Sie reine Terminorganisation mit Auswahl, Ranking und Profiling von Bewerbenden. Eine abschließende Unterschrift der Personalleitung widerlegt maßgeblichen Systemeindruck nicht ohne tatsächliche Kontrollbelege.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

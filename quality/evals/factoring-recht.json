@@ -49,7 +49,7 @@
       "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe.",
       "Einstiegsredaktion 16.10.2026: Erwerb und Debitorenschutz vorgezogen; eigene Kaufpreisschuld des Factors früh gegen doppelte Zahlungsanrechnung abgegrenzt."
     ],
-    "sha256": "7f1c1da7161fa3fe1ce05172a14366cc55013e14494bbe940f33803ecc41a240"
+    "sha256": "f0b4ab883511341a49acbee87d2481c6f75fa5321499147fe23d1c3a067db4af"
   },
   "selection": {
     "positive": [
@@ -169,5 +169,15 @@
         "utf8_bytes": 7346
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "factoring-recht/factoring-recht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

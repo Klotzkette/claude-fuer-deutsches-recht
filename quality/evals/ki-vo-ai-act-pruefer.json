@@ -200,7 +200,7 @@
       "Redaktion 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
       "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "49fb4ad663a4cec093c0999c2243a1b7c6e8ff3d3360cdc05c9e2bdc8d446e26"
+    "sha256": "151812212e252c471018095691c99efbb773d52cbe82852ee22d031362bb9670"
   },
   "prompt_editorial_review": {
     "date": "2026-10-09",
@@ -343,5 +343,16 @@
         "supports": "Artikel 3, 9, 10, 14, 17, 25, 27, 40, 43; Systemgrenze, Zweck, Fehlanwendung, Testdaten und Verfahrensabgrenzung."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md",
+      "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

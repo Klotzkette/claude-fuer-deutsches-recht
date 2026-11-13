@@ -51,7 +51,7 @@
       "Warnungs- und Manöverdaten ändern Verschuldensvortrag; Artikel X und XI steuern Fristen und Anspruchsweg.",
       "Missionszweck vor erste Arbeitsüberschrift gestellt. C-515/19 früh auf tatsächlichen notwendigen Satellitenbeitrag begrenzt, ohne allgemeinen Anspruch auf Startgenehmigung."
     ],
-    "sha256": "1445553b086027ca4dfb9f310c638b9019b7961f6342eddcd1276f9f7dce870f",
+    "sha256": "419ea32075ea5719bd9e7b5f0ebe7918d90ac8cdc7349c4ae1fa43715ecc3d80",
     "method": "desk_review",
     "reviewed_on": "2026-10-16"
   },
@@ -162,5 +162,15 @@
     "reference": "weltraumrecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Ermitteln Sie den tatsächlichen räumlichen und sachlichen Anwendungsbereich, bevor Sie aus dem technischen Gefahrenniveau eine KI-VO-Kategorie ableiten. Produktpfad, ziviler Einsatz und Systemfunktion brauchen eigene Belege.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "weltraumrecht/weltraumrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

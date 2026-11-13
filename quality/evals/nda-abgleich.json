@@ -40,7 +40,7 @@
       "Technische Tests, Erinnerungswissen, wiederhergestellte Backups und gestufte Vorfallinformation als konkrete Klauselentscheidungen mit Abschlusskriterium ausgestaltet.",
       "Redaktion 16.10.2026: Nutzungsabrede und Mitarbeiter-NDA-Grenze früh eingebracht; Standardabgleich bleibt gezielte Änderung. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "3a41c77cc90d635e786e051d971688a55da4effaaaab9e7d67ba1f948a98433d"
+    "sha256": "f71693332d3b83743bb70c4d1f29d34105ab2413f245fc07a05d6106d2f19c33"
   },
   "selection": {
     "positive": [
@@ -129,5 +129,15 @@
     "reference": "nda-abgleich/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie, welche technische Information für Kontrolle, Auskunft oder Behördenprüfung gebraucht wird. Eine Geheimhaltungsklausel muss notwendige gesetzliche Offenlegungen zulassen, ohne unnötig Modell- oder Kundendaten offenzulegen.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "nda-abgleich/nda-abgleich-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

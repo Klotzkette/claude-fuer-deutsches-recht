@@ -17,18 +17,18 @@ Strategische und technische Anleitung zum gerichtlichen Mahnverfahren Paragrafen
 | Verbraucher, Bestreiten wahrscheinlich | NEIN |
 | Hauptzweck Verjährungshemmung | JA (Paragraf 204 Abs. 1 Nr. 3 BGB) |
 | Forderung auch über 10.000 EUR mit niedrigem Einwendungsrisiko | JA; das Mahnverfahren wird nicht durch die allgemeine Amtsgerichts-Wertgrenze gesperrt |
-| Unbestimmter Anspruch (Schadensersatz dem Grunde nach) | NICHT zulässig Paragraf 688 Abs. 2 Nr. 1 ZPO |
+| Unbestimmter Anspruch (Schadensersatz dem Grunde nach) | NICHT zulässig nach Paragraf 688 Absatz 1 ZPO |
 | Gegenseitige Verträge mit Gegenleistungseinrede | nicht über MB (Paragraf 688 Abs. 2 Nr. 2 ZPO) |
 
 ## Voraussetzungen Paragraf 688 ZPO
 
 - Anspruch auf Zahlung **bestimmten Geldbetrages in Euro**.
 - Forderung ist **nicht** von Gegenleistung abhaengig oder Gegenleistung erbracht.
-- Bei Verbrauchergeschaeft: Zinssatz max. 12 % uebersteigt den Basiszinssatz nicht.
-- Zustellung im Inland möglich (Ausnahme EuMVVO für EU-Auslandsfaelle).
+- Bei Unternehmeransprüchen aus Verträgen nach Paragrafen 491 bis 508 BGB den effektiven Jahreszins prüfen: Übersteigt er den bei Vertragsschluss geltenden Basiszinssatz um mehr als zwölf Prozentpunkte, greift Paragraf 688 Absatz 2 Nummer 1 ZPO.
+- Zustellung im Ausland nach Paragraf 688 Absatz 3 ZPO gesondert prüfen; das Europäische Mahnverfahren ist ein eigenständiger zusätzlicher Weg.
 
 Ausgeschlossen Paragraf 688 Abs. 2 ZPO:
-- Nr. 1: unbestimmte Forderungen.
+- Nr. 1: die bezeichneten Verbraucherkreditansprüche bei Überschreiten der gesetzlichen Zinsgrenze; unbezifferte Ansprüche scheitern bereits an Absatz 1.
 - Nr. 2: gegenseitige Verträge mit offener Gegenleistung.
 - Nr. 3: öffentliche Zustellung notwendig.
 
@@ -41,21 +41,24 @@ Ausgeschlossen Paragraf 688 Abs. 2 ZPO:
 | Berlin, Brandenburg | AG Wedding (Berlin) |
 | Bayern | AG Coburg |
 | Baden-Wuerttemberg | AG Stuttgart |
-| Hessen | AG Hueningen |
-| Niedersachsen, Bremen | AG Uelzen |
-| NRW (3 Mahngerichte) | AG Hagen / AG Euskirchen / AG Mettmann |
-| Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern | AG Schleswig |
+| Hessen | AG Hünfeld |
+| Niedersachsen | AG Uelzen |
+| Bremen | AG Bremen |
+| Nordrhein-Westfalen: OLG-Bezirke Düsseldorf und Hamm | AG Hagen |
+| Nordrhein-Westfalen: OLG-Bezirk Köln | AG Euskirchen |
+| Hamburg und Mecklenburg-Vorpommern | AG Hamburg-Altona, Gemeinsames Mahngericht |
+| Schleswig-Holstein | AG Schleswig |
 | Sachsen, Sachsen-Anhalt, Thueringen | AG Aschersleben |
 | Saarland, Rheinland-Pfalz | AG Mayen |
 
-Bei Gläubiger im Ausland: Wahl unter den Mahngerichten (Paragraf 689 Abs. 2 ZPO), AG Wedding (Berlin) für ausl. Gläubiger gegen Bekl. mit Wohnsitz in DE.
+Anknüpfungspunkt ist der allgemeine Gerichtsstand des Antragstellers, nicht der Wohnsitz des Schuldners. Fehlt dem Antragsteller ein allgemeiner Gerichtsstand im Inland, ist nach Paragraf 689 Absatz 2 Satz 2 ZPO ausschließlich das AG Wedding zuständig. Die örtliche Zuständigkeit des späteren Prozessgerichts ist davon getrennt zu bestimmen. Vor Einreichung Landeszuweisung und Empfängerdaten anhand der amtlichen Gerichtsseiten prüfen.
 
 ## Online-Antragstellung
 
 - Portal: [online-mahnantrag.de](https://www.online-mahnantrag.de) (Bund-Länder-Kooperation)
 - Format: Barcode-Antrag, professioneller XJustiz-Datensatz oder Online-Formular
 - Anwaltspflicht: nein; das automatisierte Mahnverfahren und die erste Instanz vor dem Amtsgericht setzen keinen Anwaltszwang voraus. Anwaltszwang entsteht erst vor Landgericht und höheren Gerichten nach Paragraf 78 Absatz 1 Satz 1 ZPO.
-- Bei beruflichem Antrag durch Anwalt: über beA EDA-Schnittstelle (Paragraf 690 Abs. 3 ZPO)
+- Für Rechtsanwälte maschinell lesbare Anträge und elektronischen Übermittlungsweg nach Paragrafen 702 Absatz 2, 130d ZPO sowie den aktuellen EDA-Vorgaben vorbereiten. Paragraf 690 Absatz 3 ZPO ist weggefallen; eine PDF-Datei nicht ohne Prüfung als passenden Mahnantragsdatensatz behandeln.
 
 ## Inhalt des Antrags Paragraf 690 ZPO
 
@@ -66,13 +69,13 @@ Bei Gläubiger im Ausland: Wahl unter den Mahngerichten (Paragraf 689 Abs. 2 ZPO
 5. Erklaerung zur Gegenleistung.
 6. Bei Verbrauchergeschaeft: Effektivzinssatz, Hauptbetrag, Bezugsforderung.
 
-Achtung: Paragraf 690 Abs. 1 Nr. 5 ZPO – Belehrung an Verbraucher uneingeschraenkte Pflicht.
+Paragraf 690 Absatz 1 Nummer 5 ZPO verlangt die Benennung des für das streitige Verfahren zuständigen Gerichts; dies ist keine allgemeine Verbraucherbelehrung.
 
 ## Kosten
 
-- Gerichtsgebuehr: 0,5 (mindestens 36 EUR) nach KV 1100 GKG.
-- Anwaltsgebuehr: 1,0 Geschäftsgebuehr VV 3305 RVG (etwa Streitwert 5.000 EUR = 303 EUR).
-- Erheblich guenstiger als Klage (3,0 Verfahrensgebuehr + 1,2 Terminsgebuehr).
+- Gerichtsgebühr nach KV 1100 GKG aus der zeitlich anwendbaren Gebührentabelle einschließlich Mindestbetrag berechnen.
+- Anwaltliche Verfahrensgebühr nach VV 3305 RVG; Gegenstandswert, Übergangsrecht, Anrechnung, Auslagen und Umsatzsteuer gesondert berechnen.
+- Im Kostenvergleich Gerichtsgebühren und anwaltliche Gebühren getrennt ausweisen; erwarteten Widerspruch und anschließendes streitiges Verfahren berücksichtigen.
 
 ## Verfahrensablauf
 
@@ -91,7 +94,7 @@ Antrag (online) -> Pruefung Mahngericht -> Erlass MB
 
 ## Widerspruch Paragraf 694 ZPO
 
-- Frist: 2 Wochen ab Zustellung (Paragraf 692 Abs. 1 Nr. 3 ZPO).
+- Die Aufforderung im Mahnbescheid nennt zwei Wochen ab Zustellung (Paragraf 692 Absatz 1 Nummer 3 ZPO). Widerspruch ist nach Paragraf 694 Absatz 1 ZPO noch möglich, solange der Vollstreckungsbescheid nicht verfügt ist; dies nicht als starre Ausschlussfrist von zwei Wochen darstellen.
 - Form: Schriftlich oder über elektronisches Formular.
 - Inhalt: keine Begruendung erforderlich; pauschaler Widerspruch genuegt.
 - Teilwiderspruch möglich (Paragraf 694 Abs. 1 ZPO).
@@ -134,3 +137,5 @@ Bei grenzueberschreitenden Forderungen im EU-Inland (ausser DK):
 - Online-Mahnantrag [online-mahnantrag.de](https://www.online-mahnantrag.de)
 - EuMVVO 1896/2006 [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1896)
 - GKG KV 1100 [gesetze-im-internet.de/gkg_2004](https://www.gesetze-im-internet.de/gkg_2004/)
+
+Amtliche Zuständigkeitskontrolle am 13.11.2026: [Hessen](https://justizministerium.hessen.de/service/mahnverfahren), [NRW](https://www.justiz.nrw.de/JM/online_verfahren_projekte/agm/Mahngerichte), [Informationsbroschüre der hessischen Justiz mit Mahngerichtsübersicht](https://ordentliche-gerichtsbarkeit.hessen.de/sites/ordentliche-gerichtsbarkeit.hessen.de/files/2022-05/infobroschuere_mahnverfahren.pdf), [Paragraf 689 ZPO](https://www.gesetze-im-internet.de/zpo/__689.html).

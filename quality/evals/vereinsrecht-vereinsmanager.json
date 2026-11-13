@@ -129,7 +129,7 @@
       "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess.",
       "Vereinsbeschluss und Einladung bleiben Arbeitsziel; II ZR 111/05 mit Tagesordnungspräzision, Satzungsfrist und begrenzter Außenwirkung früh eingeordnet."
     ],
-    "sha256": "2584b71fdffca53aba31b9720f0d0e66b6bcc3900d269a1c61005db9128495b3",
+    "sha256": "ff8049f04fb36cdcc5883b64f117bfbba1d8b2e2161565d2144a20d6cfb18c82",
     "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
@@ -161,5 +161,15 @@
       "Keine Gesamtprüfung von Gemeinnützigkeit, Vereinsförderung oder Haftung.",
       "Die frühere Redaktion vermerkte beim gewöhnlichen Skill anfechtung-beschluss pauschale Online-Zulässigkeit, schematische Fehlerfolgen und eine Dringlichkeitsausnahme. Dieser außerhalb des jetzigen Auftrags liegende, bereits fremdbearbeitete Skill wurde am 23.09.2026 weder geändert noch erneut bewertet; der alte Befund ist keine Aussage über seinen aktuellen Stand."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -71,6 +71,6 @@ Stand: 05/2026. Bei Änderung GmbHG § 40 aktualisieren.
 
 ### Normen-Ergänzung
 
-§ 40 GmbHG (Gesellschafterliste, unverzügliche Aktualisierung nach Wandlung) → § 15 GmbHG (Abtretung Anteile) → § 17 GmbHG (Mehrfachabtretung) → § 16 GmbHG (Gesellschafterstellung, Legitimationswirkung Liste) → § 55 GmbHG (Kapitalerhöhungsbeschluss, neue Anteile)
+§ 40 GmbHG (Gesellschafterliste, unverzügliche Aktualisierung nach Wandlung) → § 15 GmbHG (Abtretung Anteile) → § 16 GmbHG (Gesellschafterstellung, Legitimationswirkung der Liste und Voraussetzungen eines Erwerbs vom Nichtberechtigten nach Absatz 3) → § 55 GmbHG (Kapitalerhöhungsbeschluss, neue Anteile)
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

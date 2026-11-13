@@ -116,7 +116,7 @@
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Titel, Behördenentscheidung und beauftragter Antrag eröffnen die Arbeit; Lebensunterhalt wird nach Familienkonstellation und passendem Regelwerk geprüft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "070e0457e1701a1e0f1495bd4ec2b55135211d3c47885c0b4e1c5545d429ce1d",
+    "sha256": "804b2009102c771646376ee5de2ab31f4d2dd98abf63bb1d573c1365efe92528",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -283,5 +283,16 @@
     ],
     "focus_scope": "Hauptproblem Familiennachzugs-Haushaltsprognose bleibt bei 1 C 20.09. Anerkennungsautomatismus und Passersatz-Mitwirkung werden nicht als Rechenregeln für Lebensunterhalt angeführt.",
     "new_model_tests": false
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
+      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

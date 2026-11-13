@@ -501,7 +501,7 @@
       "Vertiefter fortsetzbarer Ablauf für jeden Vollzugsanlass; kein Quellenanhang als Ersatz der Subsumtion.",
       "Zusätzliche amtliche Volltexte mit tatsächlich gelesenen Randnummern und ausdrücklichen Übertragungsgrenzen."
     ],
-    "sha256": "8bc2f5b970e6d6b746afcf4c7ed4e166cf8cb56ac76dbe29205e82207d1f2c12"
+    "sha256": "db3ae358081a116528b638d0d546fb2b4de307bf7c22c611fe20b017d1436bee"
   },
   "focus_review": {
     "method": "desk_review",
@@ -515,7 +515,7 @@
     "prompt_path": "strafvollzug-jva/strafvollzug-jva-hauptproblem.md",
     "skill_path": "strafvollzug-jva/skills/strafvollzug-fall-steuern/SKILL.md",
     "prompt_sha256": "72a6234b151b75bd8f6e22130ecf481375c13fdfb5f5fe1e3d73758fed970604",
-    "skill_sha256": "1553507dcb6bd0b0be70eafdf13ea3157334bfa5c4e27b10cac6d61c9371a7b6"
+    "skill_sha256": "ad6f1ca30bc134062385935d87aa0ad0cec5c817692adf24d38e9a1843c936ae"
   },
   "prompt_workflow_review": {
     "date": "2026-10-16",
@@ -710,5 +710,17 @@
       "Vier Länder vertieft; übrige Länder nur amtliche Rechercheeinstiege.",
       "Keine tatsächliche Gerichtsübermittlung, medizinische Untersuchung oder automatische Entscheidung."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "strafvollzug-jva/skills/strafvollzug-fall-steuern/SKILL.md",
+      "strafvollzug-jva/strafvollzug-jva-hauptproblem.md",
+      "strafvollzug-jva/strafvollzug-jva-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -17,14 +17,14 @@ description: "Für Fahreridentifizierung im OWi-Verfahren: ordnet Norm, Beweisla
 
 1. **Ist der Betroffene eindeutig auf dem Messfoto identifizierbar?** — Qualitaet des Fotos entscheidend; unklares Foto = Angriffspunkt.
 2. **Hat der Betroffene sich bereits als Fahrer identifiziert?** — Anhörungsbogen, Polizeivermerk, sonstige Aussagen.
-3. **Ist die Halter-Auskunft (§ 31a StVG) bereits ergangen?** — Halter muss Auskunft geben; Fahrernennung ist freiwillig.
-4. **Ist eine Fahrtenbuchauflage drohendes Thema?** — § 31a StVG: wenn Fahrer nicht ermittelt werden kann, kann Halter Fahrtenbuch fuehren müssen.
+3. **In welcher Rolle wird die Person angehört?** — Betroffenen- und Zeugenstellung unterscheiden; Aussage- und Auskunftsverweigerungsrechte prüfen. § 31a StVZO begründet keine allgemeine Pflicht, sich selbst als Fahrer zu benennen.
+4. **Ist eine Fahrtenbuchauflage drohendes Thema?** — § 31a StVZO: wenn Fahrer nicht ermittelt werden kann, kann Halter Fahrtenbuch fuehren müssen.
 5. **Biometrischer Vergleich noetig?** — Sachverstaendiger wenn Foto-Identifikation streitig und für das Gericht nicht offenkundig.
 
 ## Zentrale Normen
 
 - **§ 55 Abs. 1 OWiG** — Betroffener muss nicht zur Sache aussagen; kein Zwang zur Fahrernennung
-- **§ 31a StVG** — Fahrtenbuchauflage: Halter, der Fahrerauskunft verweigert, kann Fahrtenbuchfuehrungs-Pflicht erhalten
+- **§ 31a StVZO** — Fahrtenbuchauflage bei nicht möglicher Feststellung des Fahrzeugführers nach Verkehrsverstoß; behördliche Ermittlungen, Ermessen und Verhältnismäßigkeit prüfen, keine automatische Sanktion des Schweigens.
 - **§ 163b StPO i.V.m. § 46 OWiG** — Identitaetsfeststellung durch Polizei; begrenzt auf Personalien
 - **§ 77 OWiG** — Beweisaufnahme: Sachverstaendiger für Lichtbild-Identifikation ist Beweisantrag
 - **Art. 6 Abs. 1 EMRK** — Recht auf faires Verfahren; keine Pflicht zur Selbstbelastung
@@ -44,8 +44,8 @@ Messfoto vorhanden?
 
 Betroffener will nicht aussagen?
 ├─ § 55 OWiG: Schweigen ausdruecklich empfehlen
-└─ Fahrtenbuchauflage-Risiko (§ 31a StVG) erklaeren
- └─ Halter muss abwaegen: OWi mit Fahrverbot vs. Fahrtenbuch 1-2 Jahre
+└─ Fahrtenbuchauflage-Risiko (§ 31a StVZO) erklaeren
+ └─ Dauer und Umfang einer möglichen Fahrtenbuchauflage einzelfallbezogen prüfen; keine feste Dauer zusagen
 ```
 
 ## Fotoqualitatspruefung — Checkliste

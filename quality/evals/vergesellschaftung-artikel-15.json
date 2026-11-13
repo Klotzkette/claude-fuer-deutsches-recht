@@ -25,7 +25,7 @@
       "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
       "Gesetz, Vermögenswerte und Gemeinwirtschaft vor die Dateiaufnahme gestellt. Atomausstiegsurteil ausdrücklich nur zur Güterbeschaffungsabgrenzung, nicht als Entscheidung über Artikel 15 GG."
     ],
-    "sha256": "66bf76c25234711e4965ff1cc92d73c01b5f53b5b1c61968d6647c00bee13c11",
+    "sha256": "594dbd1e0144563c135e529023b38e1da214d9bc72ed6946de7e5b66338d6ceb",
     "reviewed_on": "2026-10-16"
   },
   "selection": {
@@ -690,5 +690,15 @@
     "continuation": "Bestätigter Anlagenweg ändert gemeinsam Übertragungsumfang, Entschädigungsempfänger und Rechnung; neuer Eigentumstitel nur betroffene Position; Garantieentscheidung nicht mit EU-Freigabe verwechseln.",
     "enrichment": "Leitwerk-Angebot innerhalb des technischen Budgets, übernommene Altanlagen trotz später Gründung, kommunale Minderheitsposition und hessische Rechtsbehelfskoordination. Berliner Gegenpositionen werden in konkrete Begründung, Datennachforderung und Endfassung übersetzt.",
     "limits": "desk_review; kein tatsächlicher Modelllauf. Native Darstellungen werden separat visuell und Parserdaten deterministisch geprüft."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

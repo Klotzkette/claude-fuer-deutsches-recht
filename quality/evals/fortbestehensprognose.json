@@ -83,7 +83,7 @@
       "Stichtagswissen, Zahlungsüberleitung, doppelte Zuflüsse, bedingte Finanzierung, echte Belastungsannahmen und getrennte Bankenfassung ergänzt.",
       "Einstiegsredaktion 16.10.2026: Zwischenlücke und konkreter Prognosevermerk vorangestellt; erwartete Gesellschafterhilfe weder pauschal anerkannt noch allein mangels Rechtsanspruch verworfen."
     ],
-    "sha256": "6b82b7ffadda0a863ae7c006feea705d8628307066b224a6b2f4390e5cf79488"
+    "sha256": "37be960b0aa7ffd5066d61233ffe1929ce98e29416c8e9fd4ef34fd884ce2117"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -160,5 +160,15 @@
         "utf8_bytes": 6684
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fortbestehensprognose/fortbestehensprognose-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

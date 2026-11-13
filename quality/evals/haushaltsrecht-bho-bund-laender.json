@@ -96,7 +96,7 @@
       "Zahlungsverschiebung versus Verpflichtung, vergleichbare Lebenszykluskosten, doppelt gebundene Drittmittel, Zweckabweichung und begrenzte Einwilligung.",
       "Einstiegsredaktion 16.10.2026: Jahresdeckung und mehrjährige Ermächtigung im Einstieg getrennt; Verfassungsurteil ausdrücklich auf damalige Rechtslage begrenzt."
     ],
-    "sha256": "60626fb67f00df72fe840734bcbf106a21b74cac9e84734e82ae84d5c87e9be4"
+    "sha256": "ddfab38037abe3e7c50d18e194b560b7a621345fef7300e149ddfd676171409b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -186,5 +186,15 @@
         "utf8_bytes": 6674
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

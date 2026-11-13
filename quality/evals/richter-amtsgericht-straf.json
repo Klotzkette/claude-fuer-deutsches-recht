@@ -76,7 +76,7 @@
       "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
       "2026-10-16, redaktioneller Einstiegsreview: Beschluss oder Urteil vor Bedienhinweisen; Verdachtsmaßstab und Überzeugung getrennt, Formalgeständnis begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "32a936539ba337e77d0c2f82a69acb0c230f57c84c43229614e770a7f6fa2251",
+    "sha256": "75541bd72b5e97c69df64cd01c27871db2af4997a1e0dd4be7fa008d506538f1",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -168,5 +168,15 @@
     "reference": "gerichtsplugins/richter-amtsgericht-straf/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie bei der Anwendung für strafgerichtliche Aktenauswertung technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

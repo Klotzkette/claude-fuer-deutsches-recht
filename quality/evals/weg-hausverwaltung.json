@@ -226,7 +226,7 @@
       "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet.",
       "Abrechnung, Beschluss und Eigentümerbrief als Endprodukte. V ZR 195/23 früh mit konkreter Auswirkung eines Zahlenfehlers auf die Zahlungspflicht; andere Beschlussmängel bleiben eigenständig."
     ],
-    "sha256": "8eb6f90399f851223cdb4a32c5912f2fef1ca799c1967e2ff66c5c37c8809cf9",
+    "sha256": "a6b2882c555d5bb9c6ec9daf30f082ced8295bccbaccd4b7eada02179a9cad9d",
     "reviewed_on": "2026-10-16"
   },
   "selection": {
@@ -608,5 +608,16 @@
   "source_audit_2026_10_02": {
     "path": "quality/source-audits/weg-hausverwaltung-2026-10-02",
     "method": "Amtliche Quellenlektüre und konkrete Gegenlese, redaktionelle Fälle noch keine beobachteten Modelltests."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "weg-hausverwaltung/weg-hausverwaltung-hauptproblem.md",
+      "weg-hausverwaltung/weg-hausverwaltung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

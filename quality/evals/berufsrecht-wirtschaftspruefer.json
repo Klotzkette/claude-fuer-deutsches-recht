@@ -55,7 +55,7 @@
       "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt.",
       "16.10.2026: Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert."
     ],
-    "sha256": "8967fe9acaec1693e42d2f099c5221aa46dc875785a08dfb6a8757c505d5b933",
+    "sha256": "96c5a12e4aea1fb6b4ac4a6df1ef36002a1e5243808af7d7537e8d9f66059d16",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -163,5 +163,15 @@
         "anchor_or_exception": "Paragraf 319 HGB; BGH 21.01.2010 Xa ZR 175/07: selbst erstellter Anhang und Selbstprüfung; damalige freiwillige Prüfung, kein Verbot jeder Beratung."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

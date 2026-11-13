@@ -119,7 +119,7 @@
       "Nachgeholte Beteiligung, Änderungsbescheid und Monitoring in konkret geänderte Rügen, Anträge oder Nebenbestimmungen überführen; Paragrafen 4 und 6 UmwRG aktuell erneut geöffnet.",
       "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt."
     ],
-    "sha256": "9600c3613797a2ef43f150b25192510e56f5e4be316921393d4e7ce2ac2d5384",
+    "sha256": "f7093c9449618095e2c15a7815eaf6d1bf7b680508acde8efa81c3323f21ef0b",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
@@ -182,5 +182,15 @@
       "search_2026": "7 C 5.25 vom 26.05.2026 neu amtlich gelesen und ergänzt.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

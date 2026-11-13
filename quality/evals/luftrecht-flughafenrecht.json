@@ -76,7 +76,7 @@
       "Triebwerksidentität und Freigaben getrennt prüfen; Abflugplan nicht als Eigentums- oder Arrestgrundnachweis behandeln und ausländischen Standort beachten.",
       "Redaktion 16.10.2026: Flugplatzentscheidung vor Startauswahl, Nachtlärmanker ohne bundesweiten Grenzwert vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "54fb5b4b9a733309c3ad53cabec5b3dd112f9b532a8c01a642ca6800bbbb81d1"
+    "sha256": "91215d3fc81fd1988cc425f9ccdfc9a3e7667132ab0aff0f16aa1cfeb8605aff"
   },
   "selection": {
     "positive": [
@@ -179,5 +179,15 @@
     "continuation": "Ergänzter Prognoseanhang verändert im vereinbarten Pfad, beispielsweise verfahren/einwendung.md, die bisherige Fehlstellenrüge zur verbleibenden Flugzeugmix-Inkonsistenz; ein Eröffnungsbeschluss verändert stattdessen luftfahrzeug/herausgabevermerk.md.",
     "enrichment": "Zulassungskette, kombinierte Maßnahmen, gegenläufige Lärmfakten, vollziehbare Betriebsregelung, nachgewiesene Sicherheitsabhilfe, saisonspezifische Slots, technische und finanzielle Zulassung, Triebwerksrechte und standortbezogener Arrestsachverhalt.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

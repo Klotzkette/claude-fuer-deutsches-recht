@@ -294,7 +294,7 @@
       "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
       "Quellenprüfung 10.11.2026: VIII ZR 21/26 zur Schonfrist und VIII ZR 104/25 zum Gewerbeumbau nach Paragraf 556f BGB mit amtlichem Volltext und Aussagegrenzen angewendet."
     ],
-    "sha256": "3789cd859b845e826cd7f0721478c6b946694a803142aac87758e417848c9c6e",
+    "sha256": "039ec81409170b976b87837fff049a095864c734a147dacd6874a0754e4c2021",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -459,5 +459,16 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -56,7 +56,7 @@ Alle Zitate vor Versand in offener Quelle (BGH-Datenbank, openjur.de, dejure.org
 - Historischer, ungeprüfter Recherchehinweis: OLG München, NZV 2021, 54 — Viermonatsregel im früheren § 25 Abs. 2a StVG. Aktenzeichen und Inhalt vor Nutzung amtlich ermitteln; heute steht das Privileg in Abs. 3. Die ältere Absatzangabe nicht als aktuellen Normstand ausgeben.
 
 ### Fahreridentifikation
-- BVerfG-Linie zu § 31a StVG (Fahrtenbuchauflage / Halterauskunft) konkret aus bundesverfassungsgericht.de aufrufen
+- BVerfG-Linie zu § 31a StVZO (Fahrtenbuchauflage und Aussageverweigerungsrechte) konkret aus bundesverfassungsgericht.de aufrufen
 - OLG Bamberg, NZV 2021, 92 — Sachverständigenantrag Lichtbild bei schlechter Qualität (Aktenzeichen verifizieren)
 
 ## Suchstrategien Datenbanken

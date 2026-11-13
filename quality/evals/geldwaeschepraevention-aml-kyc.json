@@ -36,7 +36,7 @@
       "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
       "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht."
     ],
-    "sha256": "b76c1d2b75cd278404383c681f2c8ac23418c08515612e44e37e5dc908b61a49"
+    "sha256": "2a8a7a7e40e7fe472d239b2ced4ab79d6f96bef3a286f0d00d5d0540be58d5ff"
   },
   "selection": {
     "positive": [
@@ -159,5 +159,15 @@
         "utf8_bytes": 35730
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

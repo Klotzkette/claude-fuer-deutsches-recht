@@ -72,7 +72,7 @@
       "Verworfene Entwurfsbegründung von geltender Norm getrennt; Analogie als Entscheidungsregel mit Gegenfall und negativem Ergebnis ausformuliert.",
       "Redaktion 16.10.2026: Vertragsauslegung mit gemeinsamer Falschbezeichnung und Beweisgrenze konkretisiert. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "6e38a8e0341b0ed410dd45f89ca4961c1cb983dc11d882aee4535ed90dcb2392"
+    "sha256": "1811e96046e9dc0c90d95655f26ca8c172144989c5fd4c14f2e0e2683a0d1556"
   },
   "selection": {
     "positive": [
@@ -179,5 +179,15 @@
     "reference": "methodenlehre-buergerliches-recht/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie Tatbestandswortlaut, systematische Argumente und nur vergleichbare Schutzgedanken anderer Urteile. Ein DSGVO-Urteil darf nicht ohne eigene Subsumtion zum Hochrisiko-Ergebnis führen.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

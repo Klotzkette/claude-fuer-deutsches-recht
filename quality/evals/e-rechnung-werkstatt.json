@@ -184,7 +184,7 @@
       "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen.",
       "2026-11-10: § 14c UStG um BFH-Maßstab zur endgültigen Gefährdungsbeseitigung ergänzt."
     ],
-    "sha256": "df65485c4fbed750a37bfe82a2423d8a5e70726805795890f9e45bb1527fa53f"
+    "sha256": "a26d8f0aca0708348d624895d5138d058f0ffd483b94dcb91781a8d928d381a6"
   },
   "focus_review": {
     "verdict": "revised",
@@ -199,7 +199,7 @@
     "prompt_path": "e-rechnung-werkstatt/e-rechnung-werkstatt-hauptproblem.md",
     "skill_path": "e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md",
     "prompt_sha256": "e8f5bd194d28b8d6209280ca514a84c7574cfd6da08cb25e0958c386cd42e25a",
-    "skill_sha256": "8c4d252a2045320b2adab3ba35d86dfa12f1b1ee9bbcc2eada7ae2b921923a1a"
+    "skill_sha256": "5c4661c25117dfa13db1a39978606874a56a8fb45f56a0cb9ccc6af525163b0d"
   },
   "prompt_editorial_review": {
     "date": "2026-11-06",
@@ -250,5 +250,17 @@
     "continuation": "Antworten in denselben Rechnungsstand einarbeiten, unabhängige Teile weiterbearbeiten und nach Auflösung entscheidender Widersprüche bis zur tatsächlich nutzbaren Datei fortsetzen.",
     "enrichment": "Feldbezogene Belegmatrix, Steuergruppen, Rechnungsidentität, Empfängerreferenzen sowie getrennte Prüfung von XML, PDF/A, Einbettung und Sichtbild.",
     "limits": "Redaktionell gegen synthetische Aufgaben geprüft. CLI-Tests und echte technische Validatorläufe werden getrennt dokumentiert; kein tatsächlicher Portalversand und kein Live-Modellbenchmark behauptet."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "e-rechnung-werkstatt/e-rechnung-werkstatt-hauptproblem.md",
+      "e-rechnung-werkstatt/e-rechnung-werkstatt-werkstatt.md",
+      "e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

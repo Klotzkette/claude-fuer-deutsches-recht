@@ -60,3 +60,23 @@ Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette,
 „Hier ist der Nachweis der Teilzahlung.“ Übernimm die Zahlung in den bestehenden Stand, prüfe Tilgung, korrigiere Forderung und Zinsen sowie den Entwurf. Stelle die Mandatsfragen nicht erneut.
 
 Ein Ordner enthält Kündigung, Arbeitsvertrag und einen Sendungsstatus, aber keinen Auftrag. Lies diese Unterlagen intern, benenne die zeitkritische Zugangsfrage knapp und frage nach der Wahl zwischen Kündigungsprüfung mit Handlungsempfehlung und Entwurf einer konkreten Reaktion. Liste die Ordnerdateien nicht auf.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 7. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+**Leitfrage für Anwaltschaft generell:** Welcher belegte Sachverhalt muss für das konkrete Arbeitsprodukt verständlich werden?
+
+**Erste Ansicht:** Zeige Beteiligte, entscheidende Ereignisse und Belegstellen in einer kleinen Fallübersicht. Wähle nach dem Auftrag eine Zeitachse, einen Vergleich oder eine Tabelle.
+
+**Sinnvolle Interaktion:** Eine Auswahl kann den Beleg oder eine ausdrücklich bezeichnete Tatsachenvariante zeigen; führe die Änderung im selben Arbeitsprodukt fort.
+
+**Datengrundlage:** Ziel, Beteiligte, Ereignisse, Unterlagenfundstellen, offene Tatsachen und gewünschtes Arbeitsprodukt. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+**Weiter zum Ergebnis:** das beauftragte ausformulierte Dokument mit nachvollziehbarer Begründung. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->

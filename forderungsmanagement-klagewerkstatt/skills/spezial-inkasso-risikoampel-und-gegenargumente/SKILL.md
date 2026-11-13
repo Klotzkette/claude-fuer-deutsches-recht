@@ -42,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
   - Forderungen bis 50 Euro: Geschäftsgebühr (Nr. 2300 VV RVG) gedeckelt auf 0,9 (statt 1,3), Erstinkasso bis 18 Euro.
   - Forderungen bis 500 Euro: Erstinkassosatz auf 50 Euro begrenzt; Mindestgebühren reduziert.
   - Detailliert nach RVG-VV Nrn. 2300 ff. und Paragraf 13b-d RDGEG.
-- **Informationspflichten Inkasso (Paragraf 11a RDG):** Inkassodienstleister muss bei erstem Kontakt mitteilen: Auftraggeber, Forderungsgrund mit Bezug auf konkrete Vereinbarung (Datum, Aktenzeichen), Zinsen und Kostenrechnung detailliert.
+- **Informationspflichten Inkasso (Paragraf 13a RDG):** Inkassodienstleister muss bei erstem Kontakt mitteilen: Auftraggeber, Forderungsgrund mit Bezug auf konkrete Vereinbarung (Datum, Aktenzeichen), Zinsen und Kostenrechnung detailliert.
 - **Anwaltskosten als Verzugsschaden:** Mahn- und außergerichtliche Vertretungskosten eines Rechtsanwalts sind nach Verzug erstattbar (Paragrafen 280, 286 BGB), wenn Beauftragung erforderlich war (BGH ständige Rspr. zur Erforderlichkeit der Anwaltsbeauftragung im Inkasso).
 - **Doppelbeauftragung Inkasso + Anwalt:** Geht regelmäßig zu Lasten des Gläubigers - er bekommt nur einmal Erstattung (BGH ständige Rspr. seit Beschluss IX ZR 280/14).
 - **Anspruchsgrundlagenkette:** Paragraf 288 Abs. 4 BGB stellt klar, dass Verzugszinsen den Schadensersatzanspruch nicht ausschließen; Inkasso- und Anwaltskosten sind konkurrierender Schadensersatz nach Paragrafen 280, 286 BGB.

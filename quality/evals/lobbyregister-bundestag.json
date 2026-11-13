@@ -49,7 +49,7 @@
       "Exakt übermittelte Stellungnahme, förmliche Veröffentlichung, Personenbereinigung und Maschinenlesbarkeit als getrennte Prüfschritte bearbeiten.",
       "Redaktion 16.10.2026: Zweck und Bundesnorm vor Startauswahl gestellt; Handwerkskammerfall auf bayerische Tätigkeit begrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "098bf0409a971c546e18b85907d3aebd90839f05c579e9f7c7eed688a742bd4b"
+    "sha256": "504e38a75133b6ec59327919f9d4957de67a05815eaa5818b7df8a440210b5ae"
   },
   "selection": {
     "positive": [
@@ -143,5 +143,15 @@
     "continuation": "Nachgereichter Hauptagenturvertrag verändert im vereinbarten Pfad, beispielsweise register/aenderungsentwurf.md, Auftraggeber- und Personenzuordnungen sowie den beauftragten register/aktualisierungsplan.md; geklärte Geschäftsjahreszahlen bleiben Grundlage.",
     "enrichment": "Gemischte Tätigkeiten und Auskunftsersuchen, lokale und anwaltliche Ausnahmen, Agenturketten, abgestimmte Finanzzuordnung, zusammentreffende Aktualisierungstakte und dokumentbezogene Veröffentlichungsprüfung.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "lobbyregister-bundestag/lobbyregister-bundestag-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -193,7 +193,7 @@
       "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Beschluss, Abfindung oder Handelsvertrag führen zum konkreten Ergebnis; freies Vermögen bei Einziehung wird zeitlich eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "27abf2ff30955ba600d7f3ca807dfbe6e26ced065546b6ea77bf3967630d324f"
+    "sha256": "f84521a994fef6c1140319d2fef0f48368d428e9b7d618ba3ab3356ecebeb204"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -276,5 +276,16 @@
     "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-handels-gesellschaftsrecht.json",
     "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
     "focus_scope": "Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
+      "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -187,7 +187,7 @@
       "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Gericht, Vertragsstatut und konkretes Außenhandelsschreiben eröffnen die Bearbeitung; früher Deckungskauf bleibt eine eng begrenzte Ausnahme. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "650846c367881502cdda6a8daa5b8c944910c444be07a2abf56426b1663ed066"
+    "sha256": "529b3f340340b8a59c21a4bb42ea8a6f8d74cf3721de27b4413a05cc138baac1"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -251,5 +251,16 @@
     "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-internationales-wirtschaftsrecht.json",
     "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
     "focus_scope": "Nur C-537/23 ergänzt die Forumsvorfrage des CISG-Hauptproblems/Fokusskills; I ZB107/25 bleibt in breiter Werkstatt/Mini/Zuständigkeitsskill. Materielle Deckungskaufrechnung weiter beim einschlägigen OLG-Anker."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md",
+      "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

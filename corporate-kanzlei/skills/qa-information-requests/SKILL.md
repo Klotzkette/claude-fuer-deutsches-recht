@@ -124,7 +124,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 311 II, 241 II BGB** — Q&A-Antworten binden vorvertraglich; falsche Antworten = c.i.c.-Haftung
 - **§ 444 BGB** — Arglist kann durch Q&A-Antworten nicht ausgeschlossen werden; vollstaendige Offenlegung noetig
 - **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Q&A können Insider-Infos enthalten; nur autorisierte Personen dürfen antworten
-- **§ 17 UWG** — Geschäftsgeheimnis; manche Fragen zielen auf vertrauliche Informationen ab
+- **§§ 2, 4, 23 GeschGehG** — Geschäftsgeheimnis; manche Fragen zielen auf vertrauliche Informationen ab
 
 ## Q&A-Prozess: Standardablauf
 
@@ -190,7 +190,7 @@ DURCHSCHNITTLICHE ANTWORTZEIT: [Tage]
 
 ## Quellen
 
-- §§ 311 II, 444 BGB; Art. 18 MAR; § 17 UWG
+- §§ 311 II, 444 BGB; Art. 18 MAR; §§ 2, 4, 23 GeschGehG
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 6
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

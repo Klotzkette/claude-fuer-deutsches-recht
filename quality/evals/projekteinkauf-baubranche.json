@@ -423,7 +423,7 @@
       "Belegte Positionen und offene Annahmen sichtbar machen.",
       "Folgeunterlagen in denselben Entwurf einarbeiten."
     ],
-    "sha256": "969619f5ea5f2fa1dbb594cfddd2de98846b45629f50c79e3c962907e49d90bd"
+    "sha256": "62a30396597ee115a27de9cac554fbea98fb1473d1fcbf3cc1662830e2ac8106"
   },
   "prompt_editorial_review": {
     "date": "2026-11-09",
@@ -462,5 +462,15 @@
     "continuation": "Nachgereichte Unterlagen ändern die betroffenen Zeilen, Termine und Freigaben im vorhandenen Entwurf.",
     "enrichment": "Belegstellen, offene Annahmen und tatsächlich vergleichbare Preisbasis verbinden.",
     "limits": "Vorlagen und Beispielakten dienen der Arbeit im Kurs. Das Profil dokumentiert keine vollständige Modellabnahme."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "projekteinkauf-baubranche/projekteinkauf-baubranche-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

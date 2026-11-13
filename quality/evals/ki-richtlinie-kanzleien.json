@@ -76,7 +76,7 @@
       "Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand.",
       "Redaktion 16.10.2026: Mandatsdaten und Originalkontrolle früh berufsrechtlich eingeordnet; Fundstellenfall nicht als allgemeines KI-Verbot. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f9696fa5e6fec0c898bac16ca028523689c7db728fc9ccb8b216bf7792629369"
+    "sha256": "27ba13e46f619c4967c68da69fe069b8a2ad29ee8ee096036a814a52037b2e2e"
   },
   "selection": {
     "positive": [
@@ -170,5 +170,15 @@
     "reference": "ki-richtlinie-kanzleien/references/ki-normen-und-fallpruefung.md",
     "focus": "Beschreiben Sie erlaubte Arbeitsschritte, Datenzugriffe, Kontrollhandlungen und Eskalationsfälle konkret. Ein Schulungsnachweis oder eine allgemeine KI-Policy beweist weder Systemkonformität noch ausreichende Prüfung im Einzelmandat.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -60,7 +60,7 @@ description: "Für Cyber Incident Response 72h: ordnet Norm, Beweislast und Gege
 
 ### Sektorales Recht
 
-- **§ 75c SGB V** — Krankenhäuser mit Pflicht zu IT-Sicherheit nach BSI-Standard.
+- **§ 391 SGB V** — Krankenhäuser müssen angemessene Vorkehrungen nach dem Stand der Technik und Maßnahmen zur Security-Awareness treffen. Branchenspezifische Sicherheitsstandards können nach Absatz 4 zur Erfüllung dienen; das Verhältnis zum BSIG ist nach Absatz 5 gesondert zu prüfen.
 - **BSI-KritisV** — Kritische Infrastrukturen (Energie, Wasser, Gesundheit, Finanzen, Transport).
 - **§ 8a BSIG a. F. / § 30 BSIG n. F.** — Sicherheitsanforderungen KRITIS.
 

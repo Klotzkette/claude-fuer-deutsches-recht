@@ -117,7 +117,7 @@
       "EU- und BGH-Maßstab zur Produktgestaltung vor Lizenzgestaltung aufgenommen; Schutzgegenstand von Nutzungsumfang und Preis getrennt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Nutzung, Rechtekette und beauftragter Text eröffnen den Prompt; Nachlizenzierung wird von einem marktüblichen vorherigen Lizenzpreis getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "e86e9f85c8a0733bd45bb5d4b3ee53f3b596bc7a6c051c01fcfe58729cea09e0",
+    "sha256": "b6d3d66cff75efe7467272c885839ef5d7c2823bb0bf2968243be2e87617d19b",
     "reviewed_on": "2026-10-01"
   },
   "focus_review": {
@@ -271,5 +271,16 @@
     "reference": "fachanwalt-urheber-medienrecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Trennen Sie technische Markierung, Offenlegung gegenüber dem Publikum und Rechte am verwendeten Inhalt. Eine Kennzeichnung heilt keine fehlende Nutzungsbefugnis.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md",
+      "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

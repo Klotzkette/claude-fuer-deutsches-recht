@@ -83,7 +83,7 @@
       "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Ausgangstext, Zielgruppe und verständliche Neufassung sind sofort erkennbar; sprachliche Bearbeitung wird nicht zur ungefragten materiellen Rechtsprüfung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "f9e21ba84e73305bba0d4f445ce4f3a01361c5b50fbf879621f1970151f6fe96"
+    "sha256": "30d390f7dfc88f48e7d2209fdfbece421d01df7da9ccab8b78bdd357ed883bac"
   },
   "selection": {
     "positive": [
@@ -197,5 +197,15 @@
     "continuation": "Leser verwechselt Bedingung und bereits eingetretene Pflicht -> Satzfolge, Voraussetzung und Handlung im Erklärungstext ändern; Monatsfrist nicht als vier Wochen umschreiben.",
     "enrichment": "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

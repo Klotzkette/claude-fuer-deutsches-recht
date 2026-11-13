@@ -51,7 +51,7 @@
       "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung.",
       "Einstiegsredaktion 16.10.2026: Chargenbezogene Untersuchung und Rüge als konkrete Frage vorangestellt; Sachverständigenprüfung nicht zur Universalpflicht oder Universalbefreiung gemacht."
     ],
-    "sha256": "0fb5d76ac8272d97d73108f85cf58f8d5e818654814a0ca3686c5ba41a961624"
+    "sha256": "4c246b527d4e7b0b6af5e52549b220b25e90acf3d2bb80396df36449b41d832b"
   },
   "selection": {
     "positive": [
@@ -174,5 +174,15 @@
         "utf8_bytes": 5666
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "handelsrecht-hgb/handelsrecht-hgb-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

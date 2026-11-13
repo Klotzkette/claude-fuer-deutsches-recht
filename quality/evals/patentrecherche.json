@@ -69,7 +69,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "2026-10-16, redaktioneller Einstiegsreview: Neuheit und erfinderische Tätigkeit vor Suchworkflow eingeordnet; künstliche Kombination von Ausführungsformen begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "b9906aa2f6e70d4be9b06b85b5076b31df7d4032cbc9764204c1ffb2ab47a65c",
+    "sha256": "a4860dd2ff386b6d710f98d25a10932575ac45e9af3d072efebc2167036525cf",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -162,5 +162,15 @@
     "continuation": "Mechanische statt elektrischer Anzeige verändert Merkmalsdefinition, Suchbegriffe und betroffene Treffer in recherchebericht.md; Prioritätsbeleg verändert die zeitliche Einordnung bei erhaltenem Suchverlauf.",
     "enrichment": "Konkrete Suchlogik mit Varianten, belegte öffentliche Zugänglichkeit, getrennte Ausführungsformen und Gegenlesarten, Registerereignisse und begründeter Abschluss ohne Vollständigkeitsgarantie.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "patentrecherche/patentrecherche-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

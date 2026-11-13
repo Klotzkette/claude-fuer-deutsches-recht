@@ -51,7 +51,7 @@
       "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt.",
       "Einstiegsredaktion 16.10.2026: Offenen Saldo als Ergebnis konkretisiert; Verzug und Kosten mit einseitigem Rechnungsziel und dessen Ausnahmen früh verbunden."
     ],
-    "sha256": "b8d5a295316925eeb811876de84c7dccfeac0e44c84cf8a0dfa581d7c3d91798"
+    "sha256": "121c2d377ba33a64b9e43ae6be6a6cd9344fb488946453f66d15ccaac0efeba3"
   },
   "selection": {
     "positive": [
@@ -179,5 +179,15 @@
         "utf8_bytes": 19562
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

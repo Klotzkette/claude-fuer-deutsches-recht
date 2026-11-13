@@ -162,7 +162,7 @@
       "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert.",
       "Einstiegsredaktion 16.10.2026: Gründungsdokument und Kapitalnachweise klar benannt; UG-Gründung von späterer Sachkapitalerhöhung unterschieden."
     ],
-    "sha256": "415ef05dfe68772d8d3e0a93d6520c154e85195d8d82b132edd66d4227e4db7d"
+    "sha256": "dfb9041bebf7e53435d838dc1ea0be4dce690933f32553783f324c9c2be6c1ce"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -240,5 +240,15 @@
         "utf8_bytes": 6321
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gesellschaftsgruender/gesellschaftsgruender-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

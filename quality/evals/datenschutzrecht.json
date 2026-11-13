@@ -167,7 +167,7 @@
       "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24",
       "Gezielter amtlicher Quellenabgleich am 10.11.2026. Brillen Rottler und Dun & Bradstreet auf amtliche Volltexte umgestellt. Scoring nach dem Stichtag der BDSG-Neuregelung eingeordnet."
     ],
-    "sha256": "7d575b5f37c0a04c3a1191f7e0ba2d5b798359042a93532cc1158911c425335c"
+    "sha256": "9212f68775ec6d9d09810822e586849c9b2a2371e7dae02d6c3eb64769450ce4"
   },
   "selection": {
     "positive": [
@@ -414,5 +414,15 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "datenschutzrecht/datenschutzrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -17,11 +17,11 @@ Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gerich
 **Ausnahme: AG kraft sachlicher Sondernorm** (ohne Streitwert):
 - Paragraf 23 Nummer 2a GVG: Streitigkeiten über Ansprüche aus einem Wohnraummietverhältnis oder über dessen Bestand; ausschließlich Amtsgericht, auch bei verbundener Räumungs- und Zahlungsklage.
 - Paragraf 23a GVG: Familiensachen.
-- Paragraf 600 ZPO: Urkundenprozess (Wahlrecht des Klägers).
+- Der Urkundenprozess begründet keine eigene sachliche Amtsgerichtszuständigkeit. § 600 ZPO regelt das Nachverfahren; die sachliche Zuständigkeit ist nach den einschlägigen GVG-Regeln zu bestimmen.
 
-**Berufungssumme**: Paragraf 511 Abs. 2 Nr. 1 ZPO 600 EUR (Erhoehung auf **1.000 EUR ab 01.01.2026** durch BGBl. 2025 I Nr. 318), Zulassung bei grundsaetzlicher Bedeutung.
+**Berufungssumme:** Nach § 511 Abs. 2 Nr. 1 ZPO muss die Beschwer grundsätzlich 1.000 EUR übersteigen; bei genau 1.000 EUR ist die Wertvoraussetzung nicht erfüllt. Die Zulassung nach § 511 Abs. 2 Nr. 2 und Abs. 4 gesondert prüfen.
 
-**Uebergangsregelung Paragraf 47 EGZPO**: Verfahren vor 01.01.2026 beim alten Gericht.
+**Übergangsrecht trennen:** § 47 EGZPO erhält die frühere Berufungswertgrenze für bis 31.12.2025 verkündete oder der Geschäftsstelle übergebene Entscheidungen sowie bei bis dahin geschlossener mündlicher Verhandlung; im schriftlichen Verfahren ist der Einreichungsschluss maßgeblich. Für die zeitliche Anwendung der geänderten sachlichen Zuständigkeit ist dagegen § 44 EGGVG zu prüfen, insbesondere die Anhängigkeit vor dem 01.01.2026.
 
 ## Oertliche Zuständigkeit – Stufenpruefung
 

@@ -100,7 +100,7 @@
       "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag.",
       "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand."
     ],
-    "sha256": "b3c0f598412b30f3adf0ee7a58e235d7439c12534289faa2dbc2f137b9d28f74"
+    "sha256": "a450b5977b84c803230e6350cce90247696b1acd24f86e29d0f1eb59383c405c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -215,5 +215,15 @@
         "utf8_bytes": 7479
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "grundsteuerrecht/grundsteuerrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

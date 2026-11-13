@@ -33,6 +33,7 @@ import re
 from pathlib import Path
 
 from prompt_profiles import enabled
+from werkstatt_visualisierung import block as visual_block, remove_block as remove_visual_block
 from urllib.parse import quote
 
 REPO = Path(__file__).resolve().parent.parent
@@ -183,7 +184,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
         if desc:
             lines.append(f'_{desc}_')
             lines.append('')
-        lines.append(rewrite_relative_links(body, skill_path))
+        lines.append(rewrite_relative_links(remove_visual_block(body).strip(), skill_path))
         lines.append('')
         lines.append('---')
         lines.append('')
@@ -201,7 +202,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
         lines.append('3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.')
         lines.append('4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.')
     lines.append('')
-    return '\n'.join(lines).rstrip() + '\n'
+    return visual_block('\n'.join(lines).rstrip() + '\n', plugin)
 
 
 def main() -> int:

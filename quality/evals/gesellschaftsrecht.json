@@ -98,7 +98,7 @@
       "Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt.",
       "Quellenprüfung 10.11.2026: V ZB 17/24 für Voreintragung und getrennte Registerpublizität angewendet."
     ],
-    "sha256": "90072cc81ee5d3d928e0c004e2a7968c03b7c4ed74bb438ee3dc710f558dedc5"
+    "sha256": "794e29257438ed997df4d2ba5f9129f67f93774067660298826cff62316921e2"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -223,5 +223,15 @@
         "utf8_bytes": 7442
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

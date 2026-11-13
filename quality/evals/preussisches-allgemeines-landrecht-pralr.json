@@ -87,7 +87,7 @@
       "2026-09-23: Archivkorrespondenz nach Entstehungszweck bewertet und neue Lesung durch Übertragung, Subsumtion und Schlussfolgerung im vorhandenen Zieldokument fortgeschrieben.",
       "2026-10-16, redaktioneller Einstiegsreview: Historisches Arbeitsprodukt, Ausgabe und Ortsgeltung vorangestellt; doppelte Titelnummer entfernt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "1643493dc7212f55d5f4642ba1a6f3b2f16c287914523cc3d44a08e90af6caba",
+    "sha256": "c7a8dc2eade5e921ac2a6a3426e73554c4ce8f87ad5456cc33c16367887f9021",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -138,5 +138,15 @@
         "sha256": "59d91b4d5c3b80e222edfb38c0ac9b2074cd279b4b6102efea4cf0bbd482a761"
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

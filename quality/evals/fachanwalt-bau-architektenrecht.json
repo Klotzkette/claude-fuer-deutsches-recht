@@ -153,7 +153,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Vergütung, Mangel oder Verzögerung führen direkt zum bestellten Schreiben; Bereithaltung wird von pauschalem Umsatzverlust getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenprüfung 10.11.2026: VII ZR 10/24 und VII ZR 16/17 im Bauablauf abgegrenzt, Bauträgerinsolvenz mit IX ZR 53/04 sowie Paragrafen 103 und 106 InsO neu belegt."
     ],
-    "sha256": "dfed689aab5c3814bf758b13333e32e5a28cae6e97b9cda0060fb16a29d98444",
+    "sha256": "fad8349444b8bef3db31337b93ba05b12c63b1fbf43594f053d304a46e107531",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -343,5 +343,16 @@
       "BGH, Urteil vom 26.03.2026, VII ZR 68/24"
     ],
     "new_model_test": false
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-hauptproblem.md",
+      "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

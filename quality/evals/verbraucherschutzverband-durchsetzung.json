@@ -126,7 +126,7 @@
       "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet.",
       "Verbandsrechtlichen Zweck vor die Aufnahme gestellt; C-757/22 mit konkreter Verarbeitung und Grenze gegenüber kollektiven Zahlungsansprüchen vorgezogen."
     ],
-    "sha256": "358d60d113e6d6c650ccb7bfed1809677f10152137764aabac8e0f8350411c7c",
+    "sha256": "aaf16e17902694355d08c6f38f33ab72f60be5d28c0077f42b7f8fe32aa57636",
     "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
@@ -173,5 +173,15 @@
       "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -89,7 +89,7 @@
       "Abweichende Poolbasis und Sekundärkaufpreis verändern Cap Table, Liquiditätsreichweite und Term-Sheet-Definition.",
       "Finanzierungsalternative verändert begrenzte Treuepflichtbewertung; IP-Vertrag oder Nutzungsbeanstandung verändert Offenlegung, Absicherung und konkrete Closing-Bedingung."
     ],
-    "sha256": "7c1308b46f39db47aa4fa784d364436b02c4ac64ab8526aefa6403b37b753a7e"
+    "sha256": "8e2921393ff191f1d7178f5814174beeaecc1576f2d0c805f79a62cc725d6d6e"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -136,5 +136,15 @@
     "reference": "venture-capital-geber/references/ki-normen-und-fallpruefung.md",
     "focus": "Verbinden Sie Aussagen zur Produktreife mit belastbaren Systemtests, Rollen und geltenden Pflichtenterminen. Ein ISO-Zertifikat des Dienstleisters darf keine unbeschränkte Garantie des Startups begründen.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "venture-capital-geber/venture-capital-geber-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

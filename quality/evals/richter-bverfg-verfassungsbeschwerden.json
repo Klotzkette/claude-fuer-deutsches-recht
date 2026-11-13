@@ -109,7 +109,7 @@
       "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor.",
       "2026-10-16, redaktioneller Einstiegsreview: Annahmevotum und rechtzeitige Rüge zuerst; Anlagenverweis nicht mit Auseinandersetzung mit tragenden Gründen gleichgesetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "5c89c68e44290e141b78c3e691b26bcfa29d3f0b1f823e57bfd01e299f4186b8",
+    "sha256": "f5b0542039829f649847db228a95582dd4d2dba5ecffe01a232933d4ef588183",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -179,5 +179,15 @@
     "reference": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie bei der Anwendung für Verfassungsbeschwerde technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

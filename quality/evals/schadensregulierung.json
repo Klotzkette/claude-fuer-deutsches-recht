@@ -105,7 +105,7 @@
       "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
       "2026-10-16, redaktioneller Einstiegsreview: Regulierungsantwort vor Arbeitsmenü; Schmerzensgeldpassage im Mini ohne Substanzverlust nach vorn verschoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8fccbf063256c731ccea7cfe914a3d8073fe3a2a431675686b352ba43501e159",
+    "sha256": "6a0a5d97a70a091923e59e9cde85320b40286e7a087878800402b719cd2ae858",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -197,5 +197,15 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "schadensregulierung/schadensregulierung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

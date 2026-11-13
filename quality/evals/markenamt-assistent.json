@@ -503,7 +503,7 @@
       "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen.",
       "Redaktion 16.10.2026: Konkretes Amtsdokument vor Ablaufkürzeln; Farbmarkenanker mit Altantragsgrenze, Paragrafenzeichen bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "163ac3949c08e5ff85b6e1bbae97a3c3d1a7e869dad3b3b1121b2a9c051d9da3"
+    "sha256": "2d70f782838250f3ac75d75bdd008465376dc86e0f37bc2e3e908b9d3441caba"
   },
   "focus_review": {
     "verdict": "revised",
@@ -520,6 +520,18 @@
     "prompt_path": "markenamt-assistent/markenamt-assistent-hauptproblem.md",
     "prompt_sha256": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc",
     "skill_path": "markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md",
-    "skill_sha256": "ae91b85e616f721f1f18a1c1847064a87d7c8b1bcc297b84ebaf5614bc6dc5f2"
+    "skill_sha256": "1180bc77799db28f71501ce75c4e8f7e820e3150cc550eafad6a524dac580615"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "markenamt-assistent/markenamt-assistent-hauptproblem.md",
+      "markenamt-assistent/markenamt-assistent-werkstatt.md",
+      "markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

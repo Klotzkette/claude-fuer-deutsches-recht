@@ -108,7 +108,7 @@
       "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
       "2026-10-16, redaktioneller Einstiegsreview: Antrag, Eröffnungsgrund und Sicherung am gerichtlichen Produkt ausgerichtet; Statusbewertung nicht zur Zulässigkeitsregel verallgemeinert. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "77c1d485eb29920c15721879ddd43f0f6e1dd89bdab0317243b83f1e16b5a514",
+    "sha256": "8bd02ec2d0eb865a0c2aa80bf94c2506ae8c4f899b91c94c58d23f155760e895",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -158,5 +158,15 @@
     "reference": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie bei der Anwendung für Insolvenz- und Restrukturierungsentscheidung technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

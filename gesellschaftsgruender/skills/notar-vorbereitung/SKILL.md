@@ -31,7 +31,7 @@ description: "Für Notar-Vorbereitung: ordnet Norm, Beweislast und Gegenargument
 
 ## Zentrale Normen
 
-- **Paragraf 2 GmbHG** — Beurkundungspflicht: GmbH-Gründung muss notariell beurkundet werden; Musterprotokoll möglich (Paragraf 2a GmbHG).
+- **Paragraf 2 GmbHG** — Beurkundungspflicht: GmbH-Gründung muss notariell beurkundet werden; Musterprotokoll möglich (Paragraf 2 Abs. 1a GmbHG).
 - **Paragraf 17 BeurkG** — Belehrungspflicht des Notars: Notar muss Inhalt vollständig vorlesen und erläutern; Beteiligten Zeit zu Rückfragen geben.
 - **Paragraf 16a-d BeurkG** — Online-Beurkundung nach DiRUG: Videokonferenz-Verfahren; nur Bargründung.
 - **Paragraf 5 Abs. 4 GmbHG** — Sachgründungsbericht: bei Sacheinlage Werthaltigkeit dokumentieren.
@@ -55,7 +55,7 @@ description: "Für Notar-Vorbereitung: ordnet Norm, Beweislast und Gegenargument
 
 ## Musterprotokoll vs. Individuelle Satzung
 
-| Kriterium | Musterprotokoll (Paragraf 2a GmbHG) | Individuelle Satzung |
+| Kriterium | Musterprotokoll (Paragraf 2 Abs. 1a GmbHG) | Individuelle Satzung |
 |---|---|---|
 | Gesellschafter | Max. 3 | Unbegrenzt |
 | Geschäftsführer | Max. 1 | Mehrere |

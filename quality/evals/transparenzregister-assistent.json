@@ -586,7 +586,7 @@
     "changes": [
       "Kontrollbezogene Verzweigungen, konkrete Rückfragen und gesonderte externe Freigaben ausformuliert."
     ],
-    "sha256": "f157a704bcb3495b2dde2b3dacad2e800639e8c2b570178416a5012b18837af8"
+    "sha256": "f19d1bb8da7bbeee998331cf1dab135ed84472efde5c16c4e027c0bdc7873d3f"
   },
   "focus_review": {
     "verdict": "revised",
@@ -599,6 +599,18 @@
     "prompt_path": "transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md",
     "skill_path": "transparenzregister-assistent/skills/hauptproblem-unklare-kontrolle-loesen/SKILL.md",
     "prompt_sha256": "2fae2d4fd6b80d316b51798e8072b325b6a2e596fe09085ef9fe017abfdb852b",
-    "skill_sha256": "1eef2875c9d71f7dd15566de8ad025a4442be44a8c92e6f4d4b6f08bf6bbb473"
+    "skill_sha256": "bd5015434e21784b17fef41708d197f04c60c819437c16e8fad37506ffc1d5c0"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "transparenzregister-assistent/skills/hauptproblem-unklare-kontrolle-loesen/SKILL.md",
+      "transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md",
+      "transparenzregister-assistent/transparenzregister-assistent-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -117,7 +117,7 @@
       "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Historische Frage und nachweisbarer Textzeuge bestimmen den Einstieg; Edition, Archiv, Zeit und Ort ersetzen einen sachfremden modernen Leitfall. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "46f6592cfb21c0c376289c534e2e35c02bb4c1c314a8a5e8a58b97e3162c1953"
+    "sha256": "2e6d537c4cadda5b2feffc48d0bbad5cb39a599d6b5fde9c3c1af3fcfafc15f9"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -153,5 +153,15 @@
     "continuation": "Quelle ist eine spätere Abschrift oder enthält eine unsichere Negation -> Quellenbezeichnung, Lesung, Beweiswert und historische These ändern, nicht nur Literaturangabe.",
     "enrichment": "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

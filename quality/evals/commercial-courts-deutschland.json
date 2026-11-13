@@ -141,7 +141,7 @@
       "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Gerichtswahl, Sprache und beauftragtes Prozessdokument ersetzen abstrakte Produktbeschreibung; Inkreal wird nur für den Auslandsbezug eingesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "462e561aa4afc47d769c3274cebf2a8ab1dc1804b4c111c9ec908810d183cdf8"
+    "sha256": "b5d08435c8dc75ced312b414fb40b1ccf7f1a37e96355c6e37c30e0f795a6b9b"
   },
   "selection": {
     "positive": [
@@ -261,5 +261,15 @@
     ],
     "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
     "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

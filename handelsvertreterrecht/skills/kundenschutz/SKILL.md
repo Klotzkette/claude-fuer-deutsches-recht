@@ -37,7 +37,7 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
 ## Rechtsrahmen
 
-- § 88 HGB — Nachvertragliche Geheimhaltungs- und Unterlassungspflicht
+- § 90 HGB — Nachvertragliche Geheimhaltungs- und Unterlassungspflicht
 - § 1 UWG — Zweck des Lauterkeitsrechts
 - § 4 Nr. 4 UWG — Unlautere gezielte Behinderung durch Mitarbeiterabwerbung
 - § 8 UWG — Unterlassungsanspruch bei UWG-Verstoß
@@ -70,14 +70,14 @@ Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
 Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
 Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
 Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
-Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 90 HGB) und Delkredere (§ 86b HGB)
 ergänzen den praxisrelevanten Rechtsrahmen.
 Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
 
 ## Quellen
 
-- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [§ 90 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90.html)
 - [§ 4 UWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/__4.html)
 - [§ 8 UWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/__8.html)
 - [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
-- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+- [Dejure § 90 HGB](https://dejure.org/gesetze/HGB/90.html)

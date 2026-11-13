@@ -88,7 +88,7 @@
       "Technische Ungewissheit, ursprüngliche Planung versus Rekonstruktion, Ressourcenbezug, Stundenabweichung und zweistufige Rechtsbehelfsbearbeitung konkretisiert.",
       "Einstiegsredaktion 16.10.2026: Projekttext und Kostenberechnung getrennt; Patentverweis, Arbeitsplan und fehlende Gantt-Pflicht bereits im Einstieg abgegrenzt."
     ],
-    "sha256": "5913e860f45030894e2c729f504981ae75e69713f21a8481029531bddf5912d2"
+    "sha256": "eb0c726a1371eced2ddc8b7f764c55f0eb212d86d607910eaebea91de01a8963"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -176,5 +176,15 @@
         "utf8_bytes": 6556
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

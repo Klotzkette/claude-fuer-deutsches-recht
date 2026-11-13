@@ -59,7 +59,7 @@
       "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
       "2026-10-16, redaktioneller Einstiegsreview: Relation aus Schlüssigkeit, Erheblichkeit und Beweisfrage eröffnet; Zeugenbeweis nicht durch vorweggenommene Würdigung ersetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "fb868351aa04a9b6927835cdbb54f5507203a3a8073c5f6eedd7e8be0ed95c39",
+    "sha256": "007d2e746df3a3618c9ce5a947ccbecd2616dba107d9b6ca5ad0e227f88e174a",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -167,5 +167,15 @@
     "reference": "gerichtsplugins/relationstechnik-zivilrecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie bei der Anwendung für zivilrechtliche Relation technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

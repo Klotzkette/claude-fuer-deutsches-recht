@@ -84,7 +84,7 @@
       "Reichweitenbeschränkung gegenüber Gesamtsperre, URL- und Berechtigungsnachweise, Eigenhandel und Vermittlung, Warnungs- und Kenntnisablauf sowie getrennte DSA-Forschungs- und DMA-Geschäftsdatenzugänge.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Mini-Einstieg mit Zweck, DSA-Normen und Zalando-Grenze unverändert beibehalten; Werkstatt beginnt nun mit Dienst, Material und gewünschtem Ergebnis. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "43ba5726945a719b0998eb9c821e45ce25c8a6a5c02ca17b5d8a2309818bbd78"
+    "sha256": "b1b3a42bebec348c22c20716efcc60c9a7fd820ef863c0a74981f30ebdbf6db7"
   },
   "selection": {
     "positive": [
@@ -184,5 +184,15 @@
     "reference": "dsa-dma-digitalregulierung/references/ki-normen-und-fallpruefung.md",
     "focus": "Ordnen Sie Plattformdienst, GPAI-Modell und konkrete Systemfunktion auseinander. Aus VLOP-Eigenschaft folgt weder eine beliebige KI-VO-Risikoklasse noch dieselbe Zuständigkeit für jede Betreiberfunktion.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

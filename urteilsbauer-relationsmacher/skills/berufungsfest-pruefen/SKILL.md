@@ -11,7 +11,7 @@ description: "Für Berufungsfestigkeit prüfen: ordnet Norm, Beweislast und Gege
 2. Wurde die Hinweispflicht (§ 139 ZPO) im gesamten Verfahren beachtet?
 3. Sind alle Anträge beschieden (§ 308 ZPO — ne ultra petita)?
 4. Ist der Tenor vollstreckungsfähig und bestimmt genug?
-5. Besteht eine Berufungszulassungsfrage (§ 511 Abs. 4 ZPO — Streitwert unter 600 EUR)?
+5. Besteht eine Berufungszulassungsfrage (§ 511 Abs. 4 ZPO — Beschwer von nicht mehr als 1.000 EUR)?
 
 ## Zentrale Normen
 
@@ -19,7 +19,7 @@ description: "Für Berufungsfestigkeit prüfen: ordnet Norm, Beweislast und Gege
 - § 546 ZPO — Revisionsgrund: fehlerhafte Rechtsanwendung
 - § 547 ZPO — Absolute Revisionsgründe (Nr. 6: fehlende Begründung)
 - § 139 ZPO — Hinweispflicht des Gerichts
-- § 511 ZPO — Statthaftigkeit der Berufung; Beschwer 600 EUR
+- § 511 ZPO — Statthaftigkeit der Berufung; Beschwer über 1.000 EUR oder Zulassung
 - § 538 Abs. 2 ZPO — Zurückverweisung durch Berufungsgericht bei Verfahrensmangel
 
 ## Haeufige Aufhebungsgründe
@@ -46,3 +46,7 @@ description: "Für Berufungsfestigkeit prüfen: ordnet Norm, Beweislast und Gege
 - [ ] Rechtsmittelbelehrung beigefügt (§ 232 ZPO)?
 - [ ] Unterschrift der erkennenden Richter (§ 315 Abs. 1 ZPO)?
 - [ ] Hinweispflicht § 139 ZPO dokumentiert?
+
+## Übergangsrecht zum Berufungswert
+
+Die Grenze des § 511 Abs. 2 Nr. 1 ZPO liegt grundsätzlich bei **mehr als 1.000 EUR Beschwer**; genau 1.000 EUR reichen nicht. Beschwer und Streitwert unterscheiden und die Zulassung gesondert prüfen. Nach [§ 47 EGZPO](https://www.gesetze-im-internet.de/zpoeg/__47.html) gilt die frühere Grenze von mehr als 600 EUR weiter, wenn die Entscheidung bis einschließlich 31.12.2025 verkündet oder mangels Verkündung der Geschäftsstelle übergeben wurde. Gleiches gilt bei bis dahin geschlossener mündlicher Verhandlung; im schriftlichen Verfahren ist der Einreichungsschluss maßgeblich. Daher auch bei einem Entscheidungsdatum im Jahr 2026 die Übergangstatsachen erheben. Normabgleich mit [§ 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html) am 13.11.2026.

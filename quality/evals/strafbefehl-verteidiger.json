@@ -109,7 +109,7 @@
       "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
       "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
     ],
-    "sha256": "1124a8f493046e5f56390f57b2b1e6737029369aff6c5ef0988c19983d7b11b5",
+    "sha256": "cfef49946e942ce7e086ba8e4f5e2491b232bb9fd6b042ea8433abff60bf40e4",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -202,5 +202,15 @@
     "continuation": "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
     "enrichment": "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

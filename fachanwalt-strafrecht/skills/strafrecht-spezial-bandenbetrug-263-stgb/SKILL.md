@@ -69,7 +69,7 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 - **§ 263 Abs. 5 StGB / § 261 StGB Geldwaesche.** Money Mules oft kumulativ wegen Geldwaesche angeklagt (Reform 2021: alle Vortaten).
 - **§ 263 Abs. 5 StGB / § 232a StGB Menschenhandel.** Bei Zwangslage Money Mules.
 - **§ 263 Abs. 5 StGB / § 129 StGB Kriminelle Vereinigung.** Bei stark organisierten Strukturen.
-- **§ 263 Abs. 5 StGB / § 152 KWG.** Bei unerlaubten Bankgeschaeften.
+- **§ 263 Abs. 5 StGB und § 54 KWG getrennt prüfen.** Die Betrugsqualifikation verlangt gewerbsmäßiges Handeln als Bandenmitglied; erlaubnispflichtige Bankgeschäfte ohne Erlaubnis betreffen § 54 Abs. 1 Nr. 3 KWG.
 - **§ 263 Abs. 5 StGB / § 370 AO.** Bei zusaetzlicher Steuerhinterziehung.
 
 ## Strafzumessung und Folgen

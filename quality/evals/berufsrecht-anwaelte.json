@@ -87,7 +87,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32, BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "16.10.2026: Mandatsentscheidung, Interessenkollision und benötigte Erklärung früh getrennt."
     ],
-    "sha256": "a1eeca414b90c0cc3472c81bd391001c3b101bee3bc2233cc4ee345905c9abf7",
+    "sha256": "0a0ddf816287eb539b75ee60bf3f2ef383e6e6ca397da9f9fb421b537191356c",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -214,5 +214,15 @@
         "anchor_or_exception": "Paragraf 43a Absatz 4 BRAO, Paragraf 134 BGB; BGH 12.05.2016 IX ZR 241/14: konkrete persönliche Kollision prüfen, im entschiedenen Fall nicht festgestellt; heutige Ausnahmen separat."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

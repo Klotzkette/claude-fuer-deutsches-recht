@@ -110,7 +110,7 @@
       "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag.",
       "16.10.2026: Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung."
     ],
-    "sha256": "1db3505b80dcc0d9a0ffa7a50877206ea04ce7f44d341b023c682f138e204283",
+    "sha256": "0b11cf56c1e05ff87f524f04e84e9a5c0cbe8b1405c21c641a91ad5c5fa311f5",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
@@ -175,5 +175,15 @@
         "anchor_or_exception": "Paragraf 34 Absatz 3 Satz 2 Nummer 4 KCanG; BGH 18.04.2024 1 StR 106/24: 7,5 Gramm THC erst bei strafbarem Verhalten relevant, keine freie Besitzgrenze oder Übertragung auf andere Stoffe."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "betaeubungsmittelrecht/betaeubungsmittelrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

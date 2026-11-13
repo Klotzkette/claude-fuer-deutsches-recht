@@ -54,7 +54,7 @@
       "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe.",
       "2026-10-16, redaktioneller Einstiegsreview: Aufsichtsantwort und IKT-Klausel als Ergebnis; Vorfallhilfe von dokumentbezogenem Geheimnisschutz getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "c694d04073863feeacd997461b36f5f705d8b7ac9051622f1f33d30b7d545c4c",
+    "sha256": "39e4ab92c1b74141b71cb8157f952db37356a385dbb3d8c3fde4623fbfaa504e",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -163,5 +163,15 @@
     "reference": "regulatorisches-recht/references/ki-normen-und-fallpruefung.md",
     "focus": "Ordnen Sie Anforderungen nach Akteur, Produkt, Tätigkeit und Zeitpunkt. Weder eine zusätzliche Regulierung noch ein Zertifikat verdrängt automatisch andere gesetzliche Prüfspuren.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "regulatorisches-recht/regulatorisches-recht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

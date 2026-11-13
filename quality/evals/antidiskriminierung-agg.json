@@ -508,7 +508,7 @@
       "16.10.2026: Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung.",
       "Quellenvertiefung 16.10.2026: EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24"
     ],
-    "sha256": "e384aab2110bc1c9d12ed37c7cef7f909775074e6162b020b835ea6e85fbaff5",
+    "sha256": "96eb368a2085ba1dc5890397f60d96e40540c51f966121bd8d20de08bf3767ae",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -597,5 +597,15 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

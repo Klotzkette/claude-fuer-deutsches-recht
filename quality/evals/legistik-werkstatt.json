@@ -100,7 +100,7 @@
       "Meldevereinfachung mit Kontrollzweck und Aufwand beider Seiten abgleichen; substantielle Anhörungseinwände bis zur Textänderung bearbeiten.",
       "Redaktion 16.10.2026: Rechtsaktart und Rückwirkung früh an den konkreten Normtextentwurf angebunden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "7b958efc135041274462650a6ddc997242e60efeba0c355c6595992e1a7a89bf"
+    "sha256": "9b07c8f2a6634fa3a9f6b3af495be2df7260d854f4b43cfd588c2e72bb0f01f0"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -163,5 +163,15 @@
     "reference": "legistik-werkstatt/references/ki-normen-und-fallpruefung.md",
     "focus": "Trennen Sie bestehende unionsrechtliche Anforderungen von zusätzlichem nationalem Regelungsbedarf. Eine technische Norm oder Kommissionsleitlinie darf nicht ohne Prüfung ihres Rechtsstatus als gesetzliche Ermächtigung behandelt werden.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "legistik-werkstatt/legistik-werkstatt-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

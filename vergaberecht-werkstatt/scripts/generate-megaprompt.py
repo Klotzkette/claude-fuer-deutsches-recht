@@ -11,12 +11,31 @@ eingecheckten Prompts frisch sind, ohne Dateien zu veraendern.
 from __future__ import annotations
 import argparse
 import re
+import sys
+import textwrap
 from pathlib import Path
 
 from skill_routing_priorities import MEGAPROMPT_MODULE_LIMITS, PLUGIN_PRIORITY_SKILLS, PLUGIN_TRIGGER_ROUTES, MINI_SKILL_SUMMARIES
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / 'testakten' / 'megaprompts'
+
+# In der öffentlichen Sammlung gilt dieselbe Oberflächenführung wie für die
+# übrigen Plugins. Ein eigenständiger Quellencheckout ohne diese Erweiterung
+# bleibt weiter verwendbar; angereicherte Skills benötigen den gemeinsamen
+# Generator, damit keine unerfüllbaren lokalen Verweise im Einzelprompt stehen.
+_visual_scripts = REPO.parent / 'scripts'
+if (_visual_scripts / 'werkstatt_visualisierung.py').is_file():
+    sys.path.insert(0, str(_visual_scripts))
+    from werkstatt_visualisierung import block as visual_block, remove_block as remove_visual_block
+else:
+    def remove_visual_block(text: str) -> str:
+        if '<!-- BEGIN werkstatt-visualisierung -->' in text:
+            raise RuntimeError('Angereicherte Skills benötigen scripts/werkstatt_visualisierung.py aus der übergeordneten Sammlung')
+        return text
+
+    def visual_block(text: str, plugin: str) -> str:
+        return text
 
 EXCLUDE_PLUGINS: set[str] = set()
 
@@ -503,7 +522,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
         if desc:
             lines.append(f'_{autark_prompt_text(desc)}_')
             lines.append('')
-        module_body = autark_prompt_text(strip_managed_output_block(body))
+        module_body = autark_prompt_text(strip_managed_output_block(remove_visual_block(body)))
         lines.append(demote_markdown_headings(module_body))
         lines.append('')
         lines.append('---')
@@ -524,7 +543,17 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     lines.append('3. Den Chat-Agent bitten, sich anhand der oben aufgeführten Arbeitsmodule zu orientieren.')
     lines.append('4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.')
     lines.append('')
-    return normalize_display_text('\n'.join(lines) + '\n')
+    original = normalize_display_text('\n'.join(lines) + '\n')
+    enriched = visual_block(original, plugin)
+    # Der eigenständige Vergabeprompt begrenzt auch Markdown-Quellzeilen.
+    # Nur den neuen Anhang umbrechen; kuratierter Fachtext bleibt bytegleich.
+    appendix = enriched[len(original):]
+    wrapped = '\n'.join(
+        textwrap.fill(line, width=120, break_long_words=False, break_on_hyphens=False)
+        if len(line) > 1000 else line
+        for line in appendix.splitlines()
+    )
+    return original + wrapped + ('\n' if appendix.endswith('\n') else '')
 
 
 def main() -> int:

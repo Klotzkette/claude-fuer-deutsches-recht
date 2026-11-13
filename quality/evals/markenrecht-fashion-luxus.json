@@ -106,7 +106,7 @@
       "Qualitätskontrolle und Restbestandsabverkauf in konkrete Lizenzregelungen übersetzt.",
       "Redaktion 16.10.2026: Erschöpfung und Lizenznehmervertrieb vor der Arbeitsnavigation mit enger Copad-Grenze verknüpft. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "5646f93932edc0b8572cea6c822f533ac8177f97b8a3b9838fd5628076adeb16"
+    "sha256": "dddff5dc624d797c18a88cc1bdf2c66a162c84c6e0dc9782fb0fb1f24ee275ec"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -153,5 +153,15 @@
     "reference": "markenrecht-fashion-luxus/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie synthetische Gesichter, Produktabbildungen und behauptete Zertifizierungen jeweils getrennt. Marken- oder Persönlichkeitsrechte werden durch eine KI-Kennzeichnung nicht ersetzt.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

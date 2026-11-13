@@ -80,7 +80,7 @@
       "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt.",
       "Police und konkrete Kürzung bleiben Ausgangspunkt. IV ZR 197/11 nur im dokumentierten Leitsatzumfang zur hervorgehobenen Belehrung; Verschulden und Kausalität gesondert."
     ],
-    "sha256": "ea6ee02d78b5fdb12d7a2713b10bd5df48f6bf1af557a62446dd5b5d8ab683d7",
+    "sha256": "01a7ff7b04a1e8709ca636e29b6d1e89ecedfbff046c7e3392adba5a0f6bf781",
     "reviewed_on": "2026-10-16"
   },
   "selection": {
@@ -231,5 +231,15 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "versicherungsrecht/versicherungsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

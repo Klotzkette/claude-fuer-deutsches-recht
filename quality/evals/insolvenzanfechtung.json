@@ -287,7 +287,7 @@
       "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "abcfd1904d9f252f76e8e06c79c4397fb0d4b8f990d33824778e20b2996523e6"
+    "sha256": "c4455a9d93f807b190ae3d7ea00ad10e0217853159f08dc01e9703b5b39ed71c"
   },
   "focus_review": {
     "verdict": "revised",
@@ -302,7 +302,7 @@
     "prompt_path": "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md",
     "skill_path": "insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md",
     "prompt_sha256": "88684838a7bbf0119f4f903f2c059f91b19b01d5bbdb8ae0bb9707a17f78dc38",
-    "skill_sha256": "0f1b9c0cceca83149cfd3a92511b5eb18ff2c565928b39b2de4a4b9857e713cf"
+    "skill_sha256": "9c0a0d3a364e11fffac35e6e3054505594f0411de6b81c9e7a9850d9c6ecb5b7"
   },
   "prompt_editorial_review": {
     "date": "2026-10-22",
@@ -429,5 +429,17 @@
     "continuation": "Offene Einzelzahlung bleibt vorläufig; andere Zahlungspositionen und der beauftragte Entwurf werden weiterbearbeitet. Antworten ändern nur die betroffenen Positionen.",
     "enrichment": "Drei unterschiedliche vollständige Akten mit echten Dokumentformaten; gesonderte Empfänger- und Verwalterperspektive.",
     "limits": "Redaktionelle Prüfung und gesonderte technische Tests; keine Zusage realer Prozessresultate."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md",
+      "insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
+      "insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

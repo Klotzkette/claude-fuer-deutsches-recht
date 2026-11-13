@@ -35,3 +35,11 @@ Liefern Sie die erreichbare App-URL oder das erzeugte Website-ZIP mit dem Hinwei
 ## 1.6. Beispiele
 
 „Starten Sie die Recherche für Köln.“ Öffnen Sie die App, bestätigen Sie den Ort und prüfen Sie den NRW-Katasterdienst. „Ich suche in Leipzig.“ Ermitteln Sie die dortigen amtlichen Angebote; bei fehlender passender Kartenabfrage bieten Sie die manuelle Erfassung an, ohne NRW-Treffer zu übertragen.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 2. Verständlich arbeiten und sichtbar prüfen
+
+Der vorhandene Anwendungs- oder Dateiworkflow bleibt der vorgesehene Arbeitsort. Seine Start-, Eingabe-, Prüf- und Freigabeschritte beachten; nicht durch ein neu erfundenes Applet oder einen Chat-Ersatz umgehen. Im Chat den konkreten nächsten Bedien- oder Fehlerbehebungsschritt erklären. Keine bereits funktionierende Oberfläche allein zur Illustration nachbauen.
+
+Ergänzend die [lokalen Regeln zur verständlichen Begleitung](../../references/arbeitsoberflaeche-und-visualisierung.md) verwenden.
+<!-- END werkstatt-visualisierung -->

@@ -1,0 +1,84 @@
+{
+  "review_date": "2026-11-13",
+  "base_commit": "8f23b55606e25da3f0762f62d5467ed658fbbe84",
+  "method": "Independent source review; no external commit merged or cherry-picked",
+  "pull_requests": [
+    {
+      "number": 652,
+      "title": "fix: Wertgrenzen an die Reform zum 01.01.2026 anpassen",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/652",
+      "headRefOid": "a232b4f625c900b2d3f5057dbadbeb03aaf8deec",
+      "updatedAt": "2026-11-11T13:08:47Z"
+    },
+    {
+      "number": 651,
+      "title": "fix: Zitate aufgehobener oder nicht existierender Normen korrigieren",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/651",
+      "headRefOid": "7138eaffefaedbc563746bf6d2a9db03b5bcde78",
+      "updatedAt": "2026-11-11T13:08:44Z"
+    },
+    {
+      "number": 650,
+      "title": "fix(forderungsmanagement-klagewerkstatt): Zuständigkeit der zentralen Mahngerichte korrigieren",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/650",
+      "headRefOid": "fd61d631f3fcd9fe710f44d2e23e7ca2ada5adbe",
+      "updatedAt": "2026-11-11T13:08:41Z"
+    },
+    {
+      "number": 622,
+      "title": "Claude/GitHub upstream sync logging tq9twv",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/622",
+      "headRefOid": "fa7b8ee87e746455705ea8322df8b70590f4d9dd",
+      "updatedAt": "2026-11-02T10:18:56Z"
+    },
+    {
+      "number": 614,
+      "title": "Steuer-Skills: Geschenkegrenze und § 3 Nr. 16 EStG korrigieren, Sperrmuster bei jedem PR prüfen",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/614",
+      "headRefOid": "2ab7b3324c238c35fdbe8942df0343273a7990b6",
+      "updatedAt": "2026-11-01T18:51:36Z"
+    },
+    {
+      "number": 602,
+      "title": "fix(dac8): KStTG-Bezeichnung und Meldefrist 31.07. korrigieren",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/602",
+      "headRefOid": "c66167139dd59ec93b5559d0137eab73aee82fae",
+      "updatedAt": "2026-11-01T18:51:37Z"
+    },
+    {
+      "number": 598,
+      "title": "Insolvenzsachbearbeitung: elf Skills, Forderungsprüfer und vier Testakten",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/598",
+      "headRefOid": "af48c0bec3c4b7e21d8cc508946f7802b6ca58ed",
+      "updatedAt": "2026-10-21T18:50:19Z"
+    },
+    {
+      "number": 549,
+      "title": "Steuerrecht: Software nach eingeräumten Rechten statt nach „Lizenz“ oder „Kauf“ abgrenzen",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/549",
+      "headRefOid": "5d1e5ad5c8d0eb7addb4d979133e78fdb84465f2",
+      "updatedAt": "2026-11-01T18:51:39Z"
+    },
+    {
+      "number": 545,
+      "title": "Lizenzvertragsersteller: Freistellung und Erstattung nach § 50c EStG statt § 50d EStG",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/545",
+      "headRefOid": "bd2094bc73e9443d305a13603ace3711e77cd942",
+      "updatedAt": "2026-11-01T18:51:40Z"
+    },
+    {
+      "number": 543,
+      "title": "Steuerrecht: weggefallene Lizenzschranke (§ 4j EStG) und Freistellungsdauer (§ 50c EStG) berichtigen",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/543",
+      "headRefOid": "dd98ab3682b583f3cb6e98455da07e0f470fe91c",
+      "updatedAt": "2026-11-01T18:51:41Z"
+    },
+    {
+      "number": 517,
+      "title": "Hausschrift aus einer Quelle: hausstil.json, Builder-Anbindung, Prüfhash-Nachzug",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/pull/517",
+      "headRefOid": "47df60b3a42ff0aba7fe3c3dc090f61b4d77212b",
+      "updatedAt": "2026-11-01T18:51:42Z"
+    }
+  ]
+}

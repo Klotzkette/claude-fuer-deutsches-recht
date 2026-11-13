@@ -47,3 +47,23 @@ Neue Widersprüche zur Produkt- oder Patentfassung gezielt klären, ohne bekannt
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 Spezialskills und Referenzen sind optionale Vertiefungen. Tragende Quellen selbst prüfen, keine Fundstellen erfinden. Nutzerseitige Dateinamen gehen vor; bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden, technische Arbeitsnotizen vom Empfängertext trennen.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 1. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+**Leitfrage für Patentrecht:** Welche konkrete Nutzung ist durch welches Recht und welchen Nachweis gedeckt?
+
+**Erste Ansicht:** Zeige Schutzgegenstand, Rechtekette, Nutzung, Gebiet, Zeitraum und vertragliche oder gesetzliche Grundlage in einer Rechteübersicht; markiere die ungeklärte Verbindung.
+
+**Sinnvolle Interaktion:** Wähle Nutzung, Territorium oder Fassung und stelle die betroffenen Rechte und Nachweise dar. Eine fehlende Lizenz wird nicht durch eine grafische Freigabe ersetzt.
+
+**Datengrundlage:** Werk oder Schutzrecht, Inhaber, Übertragung, Nutzungsart, Zeitraum, Gebiet und Belegstelle. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+**Weiter zum Ergebnis:** begründeter Rechtevermerk und der beauftragte Lizenz-, Anspruchs- oder Antworttext. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->

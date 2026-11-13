@@ -90,7 +90,7 @@
       "Geschenkabsprache, organisches Reposting versus Anzeigen, getrennte Rechtekette, produktspezifischer Wirkungsnachweis und begrenzter Unterlassungstext.",
       "Einstiegsredaktion 16.10.2026: Beitrag, Gegenleistung und Lizenz als getrennte Prüfungen; Influencer-I-Leitsatz nicht auf heutige unbezahlte Fremdwerbung verallgemeinert."
     ],
-    "sha256": "95ca7dd139bc5499dd41697a52d175c1c9cdbba5d753bcea7000f42200e5d3ab"
+    "sha256": "1b72075ba3d05d96650654c4959e85aa888043ba65634884e1e5d0e9d008a1d8"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -187,5 +187,15 @@
         "utf8_bytes": 22319
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "influencer-recht/influencer-recht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -137,7 +137,7 @@
       "Einstiegsredaktion 16.10.2026: Abstrakten Workflowtext durch Registerprodukte und Zwischenverfügungsgrenze ersetzt; Form, Eintragung und Vollzug getrennt.",
       "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "e00a45c506b0bfa82b2745efa64fe085dc40641d221da31d94908dce62e4e806"
+    "sha256": "133d3be43f904efc4e5cf29d2b012f1b443e36587c3bc5ec7c12878001133db6"
   },
   "focus_review": {
     "verdict": "revised",
@@ -152,7 +152,7 @@
     "prompt_path": "handelsregister-assistent/handelsregister-assistent-hauptproblem.md",
     "prompt_sha256": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d",
     "skill_path": "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md",
-    "skill_sha256": "5198cb8d6b7e8cfa3d2fabb203af165729ee1e5df22ccbe4edf48cb0a4a4d158"
+    "skill_sha256": "30b179bda72d7b1af9262a9ac4d078a2c7052c56a2dbf6f1ccda0d02d97b61da"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -446,5 +446,17 @@
         "utf8_bytes": 102058
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "handelsregister-assistent/handelsregister-assistent-hauptproblem.md",
+      "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+      "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

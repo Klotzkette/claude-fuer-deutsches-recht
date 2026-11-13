@@ -5,117 +5,46 @@ description: "Für Verteidigung im IP-Strafrecht und Strafantragsfristen: ordnet
 
 # Verteidigung im IP-Strafrecht und Strafantragsfristen
 
+## 1. Sachverhalt und Verfahren aufnehmen
 
-## Arbeitsweg
+Kläre Mandatsrolle, Tatzeit, Schutzrechte, konkrete Benutzungshandlungen, Beteiligte und Verfahrensstand. Sichere Akteneinsicht, Register- und Lizenzunterlagen, Lieferketten, Zahlungsdaten, Beschlagnahmeprotokolle sowie Zustellungs- und Kenntnisdaten. Unterscheide Strafverfahren, Zollverfahren und parallele zivilrechtliche Ansprüche. Verfahrensfristen und zuständige Stellen folgen aus dem jeweiligen Verfahren, nicht aus einer einheitlichen „IP-Frist“.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Ordne die geprüfte Handlung dem konkreten Straftatbestand zu: §§ 106 ff. UrhG, § 143 MarkenG für nationale Rechte, § 144 MarkenG für Unionsmarken, § 142 PatG, § 51 DesignG oder § 23 GeschGehG. Qualifikationen und Verweisungen sind im Wortlaut zu prüfen. Die Gewerbsmäßigkeit nach § 108a UrhG und die Qualifikation nach § 143 Abs. 2 MarkenG sind eigenständige Prüfungsschritte. Ein aktueller Straftatbestand „§ 143a MarkenG“ darf nicht verwendet werden.
 
-**Fokus:** Verteidigung im IP-Strafrecht und Strafantragsfristen. Querschnittsthema zu Paragraphen 106 108 108a 108b UrhG 143 143a 144 MarkenG 142 PatG 51 DesignG 23 GeschGehG. Strafantragsfrist Paragraph 77b StGB. Privatklage Adhaesion Antragsruecknahme. Verstaendigung Verbotsirrtum Erschoepfung. Trade-off Strafanzeige vs. zivilrechtliches Vorgehen aus Mandantensicht.
+## 2. Materielle Verteidigung entwickeln
 
-## Worum geht es
+Ermittle Schutzfähigkeit, Schutzbestand, Gebiet, Laufzeit, Inhaberschaft, Rechtekette und konkrete Verletzungshandlung. Beschränkungen, Erschöpfung und Ausnahmen sind schutzrechtsspezifisch zu prüfen. Eine EWR-Händlerrechnung allein beweist nicht, dass ein Markeninhaber dem ersten Inverkehrbringen zugestimmt hat. Ein zivilrechtlicher Anspruch ist kein automatischer Nachweis einer vorsätzlichen Straftat.
 
-Dieser Skill ist das Querschnittsmodul für die Verteidigung bei Straftaten im Bereich des geistigen Eigentums. Er konsolidiert die wiederkehrenden prozessualen und materiellen Verteidigungslinien, die in jeder einzelnen IP-Strafnorm anwendbar sind, und stellt das Fristenmanagement nach Paragraph 77b StGB in den Mittelpunkt.
+Prüfe Vorsatz, Beteiligungsform und Irrtümer für jede Person und jeden Tatzeitraum. Eine Abmahnung ist ein mögliches Kenntnisindiz, keine unwiderlegliche Vorsatzvermutung. Sichere Beweise und stoppe gegebenenfalls weitere beanstandete Handlungen; empfehle keine Vernichtung oder Verlagerung potentieller Beweismittel. Ein Tatbestandsirrtum nach § 16 StGB und ein Verbotsirrtum nach § 17 StGB haben unterschiedliche Voraussetzungen und Rechtsfolgen.
 
-Anwendungsfaelle: Mandant erhaelt Strafanzeige eines Rechteinhabers (Markenverletzung, Urheberrechtsverletzung, Designverletzung), parallel zivilrechtliche Abmahnung; Mandant ist Beschuldigter in einem laufenden IP-Strafverfahren; Mandant ist Plattform-Betreiber oder Importeur und sieht sich Aufgriffen durch Zoll gegenueber.
+Bei § 108b UrhG steht die Einschränkung für ausschließlich privaten Gebrauch in Absatz 1; Absatz 2 betrifft bestimmte Handlungen mit Umgehungsvorrichtungen zu gewerblichen Zwecken. Eine strafrechtliche Einschränkung legalisiert nicht automatisch die Umgehung nach § 95a UrhG. Schranken wie § 53 UrhG sind mit ihren eigenen Voraussetzungen zu prüfen. Im Geschäftsgeheimnisrecht sind Geheimnisqualität nach § 2, rechtswidrige Handlungen nach § 4, Ausnahmen nach § 5 und der konkrete Straftatbestand nach § 23 GeschGehG getrennt zu untersuchen.
 
-Strafrahmen variieren nach Tatbestand:
-- Paragraph 106 UrhG: bis drei Jahre.
-- Paragraph 108a UrhG (gewerbsmaessig): bis fuenf Jahre, Offizialdelikt.
-- Paragraph 143 MarkenG: bis drei Jahre.
-- Paragraph 143a MarkenG (bandenmaessig): drei Monate bis fuenf Jahre, Offizialdelikt.
-- Paragraph 142 PatG: bis drei Jahre.
-- Paragraph 51 DesignG: bis drei Jahre.
-- Paragraph 23 GeschGehG: bis drei Jahre, Qualifikation bis fuenf Jahre.
+## 3. Strafantrag und Fristen kontrollieren
 
-## Tatbestand und Geltungsbereich
+Erstelle je Tatbestand eine Übersicht: Antragsdelikt oder Offizialdelikt, antragsberechtigte Person, wirksame Vertretung, Beginn und Ende der Frist, Eingang und Reichweite des Antrags sowie Ersatzmöglichkeit durch besonderes öffentliches Interesse. § 77b StGB sieht grundsätzlich drei Monate ab Kenntnis von Tat und Täter vor. Bei juristischen Personen sind die maßgebliche Kenntnisperson und Vertretungsverhältnisse anhand der konkreten Rechtslage zu bestimmen; eine beliebige Mitarbeiterkenntnis genügt nicht automatisch.
 
-Im IP-Strafrecht herrschen einige Konstanten:
+§ 143 Abs. 4 MarkenG erfasst das Antragserfordernis der Fälle des Absatzes 1; Absatz 2 ist davon nicht erfasst. Bei Unionsmarken gilt die Verweisung des § 144 Abs. 2. Entsprechende Antragserfordernisse anderer Schutzrechte sind eigenständig zu prüfen, etwa § 109 UrhG. Eine verspätete Antragstellung führt nur dann zu einem Verfolgungshindernis, wenn der erforderliche Antrag nicht wirksam ersetzt werden kann und keine unabhängig verfolgbaren Taten verbleiben.
 
-- **Antragsdelikt** (Grundtatbestaende). Ausnahmen: Gewerbsmaessigkeit / Bandenmaessigkeit fuehren in Paragraph 108a UrhG und Paragraph 143a MarkenG zum Offizialdelikt.
-- **Privatklageweg Paragraph 374 StPO** in den meisten Faellen eroeffnet.
-- **Adhaesionsverfahren Paragraph 403 StPO** möglich (Schadensersatz im Strafverfahren).
-- **Parallel zivilrechtliche Verletzungsverfahren** vor LG (Patentkammer, Markenkammer, Urheberkammer) und einstweilige Verfuegung Paragraph 935 ZPO.
-- **Vorsatzerfordernis**, mindestens dolus eventualis; Fahrlaessigkeit nicht strafbar.
+Nach § 77d StGB kann ein zurückgenommener Antrag nicht erneut gestellt werden. Die Rücknahme garantiert trotzdem keine Einstellung, keinen bestimmten Registerstatus und keine Straffreiheit. Vereinbare in einem zivilrechtlichen Vergleich nur Handlungen, die die andere Partei selbst vornehmen kann; eine Entscheidung der Staatsanwaltschaft oder des Gerichts ist nicht verfügbar.
 
-## Strafantrag und Antragsbefugnis
+## 4. Privatklage, Einstellung und Verständigung abwägen
 
-Paragraph 77b StGB ist die Kernnorm:
-- Antragsfrist **drei Monate**.
-- Beginnt mit **Kenntnis von Tat und Taeter**.
-- Kenntnis muss positiv vorliegen; Kennensollen reicht nicht.
-- Bei juristischen Personen: Vertretungsorgan.
-- Bei mehreren Antragsberechtigten: Antrag eines genuegt.
-- Bei verspaetetem Antrag: zwingende Einstellung Paragraph 170 Abs 2 StPO (mangels Verfolgungsvoraussetzung).
+Prüfe den konkreten Katalog des § 374 StPO und das öffentliche Interesse nach § 376 StPO. Die für eine Ersetzung des Strafantrags verlangte besondere öffentliche Bedeutung ist davon zu unterscheiden. Die in § 374 Abs. 1 Nr. 8 StPO genannten Schutzrechtsdelikte unterliegen nicht dem allgemeinen Sühneerfordernis des § 380 StPO. Begleitdelikte können anders zu beurteilen sein.
 
-Antragsruecknahme Paragraph 77d StGB:
-- Antrag kann zurueckgenommen werden.
-- Wiederholung der Antragstellung danach **ausgeschlossen**.
-- Praktisch wichtigste Verteidigungsstrategie: Vergleich mit Rechteinhaber mit Verpflichtung zur Antragsruecknahme.
+Vergleiche vollständiges Bestreiten, Beweisanregungen, eine Einstellung nach § 170 Abs. 2 StPO, Opportunitätsentscheidungen nach §§ 153, 153a StPO und eine Verständigung nach § 257c StPO. Prüfe jeweils Tatbestand, Beweislage, Schuldschwere, öffentliches Interesse, nötige Zustimmungen und gerichtliche Grenzen. Die Rücknahme eines Strafantrags oder ein Schadensausgleich ersetzt diese Prüfung nicht. Eine Verständigung ist keine frei bindende Strafmaßvereinbarung zwischen Verteidigung und Staatsanwaltschaft.
 
-Privatklage Paragraph 374 ff. StPO:
-- Suehneversuch Paragraph 380 StPO erforderlich vor Privatklage.
-- Kein Anwaltszwang, in der Praxis stets anwaltliche Vertretung.
-- StA tritt nur bei besonderem öffentlichen Interesse ein; sonst Verweis auf Privatklageweg.
+Wenn ein Schutzrechtsbestand außerhalb des Strafverfahrens geklärt werden soll, erläutere, welche Behörde oder welches Gericht darüber entscheidet und welche konkrete Aussetzungsnorm anwendbar ist. Eine behauptete Vorgreiflichkeit bewirkt nicht automatisch einen Verfahrensstillstand. Adhäsionsanträge nach §§ 403 ff. StPO und etwaiges Absehen von der Entscheidung nach § 406 StPO sind eigenständig zu behandeln.
 
-## Praktikertipps der Verteidigung
+## 5. Folgen, Entwürfe und Entscheidungshilfe
 
-- **Antragsfrist als erste Verteidigungslinie.** Sofort prüfen: Wann genau hat das Vertretungsorgan des Rechteinhabers tatsaechlich Kenntnis erlangt? Kommunikation interner Berichtsketten dokumentieren lassen; oft erfolgte Kenntnis frueher als die foermliche Strafanzeige. Bei verspaeteter Antragstellung: Antrag auf Einstellung Paragraph 170 Abs 2 StPO mangels Verfolgungsvoraussetzung.
-- **Vergleichs- und Antragsruecknahmestrategie.** Bei eindeutiger Beweislage frueh Kontakt zum Rechteinhaber suchen; Lizenzgebuehrenanalogie als Schadensersatz anbieten; Antragsruecknahme Paragraph 77d StGB vereinbaren. Wirkung: Verfahrenseinstellung, kein BZRG-Eintrag, kein Vorstrafenrisiko.
-- **Verbotsirrtum Paragraph 17 StGB.** Bei rechtlich unklaren Konstellationen (Streaming aus illegaler Quelle, Reimport-Erschoepfung, Privatgebrauchsausnahme TPM) Verbotsirrtum prüfen. Bei vermeidbarem Verbotsirrtum Strafmilderung Paragraph 49 Abs 1 StGB.
-- **Vorsatz erschuettern.** Vor Abmahnung ist Vorsatz oft nicht eindeutig; nach Abmahnung regelmaessig zu bejahen. Mandant sollte nach Abmahnung sofort Vertrieb stoppen, Lager raeumen, Liefer- und Vertragskette dokumentieren.
-- **Erschoepfungseinwand.** Bei Reimport aus EWR-Staat: Beweis der EU-Erstinverkehrbringung mit Zustimmung des Rechteinhabers. Rechnungen, Lieferscheine, Zollunterlagen sammeln.
-- **Privatgebrauchsausnahme (Paragraph 108b Abs 2 UrhG, Paragraph 53 UrhG).** Bei Einzelkopien ohne Verbreitung greifen Schranken.
-- **Schutzbereichsstreit (Patent, Design).** Sachverstaendigengutachten zur Auslegung beantragen; bei Schutzbereich-Auseinandersetzungen kann das Strafverfahren ausgesetzt werden.
-- **Nichtigkeitsantrag (Patent, Design).** Parallel Nichtigkeitsklage einreichen; Strafverfahren aussetzen Paragraph 154d StPO (oder Paragraph 262 StPO bzw. allgemeine Aussetzung wegen Vorgreiflichkeit — bitte Norm im konkreten Fall verifizieren).
-- **Whistleblower-Schutz Paragraph 5 GeschGehG.** Im Geschäftsgeheimnisstrafrecht zentrale Rechtfertigungsgrundlage.
+Prüfe Strafzumessung, Schadensausgleich und Einziehung getrennt. Tatobjekte, Taterträge, Wertersatz, das individuell Erlangte und mögliche gemeinsame Verfügungsgewalt sind zu unterscheiden. Die Mitgliedschaft in einer Gruppe begründet keine pauschale gesamtschuldnerische Einziehung ihres Gesamtumsatzes. Auch § 46b StGB ist nicht bei jeder Bandentat automatisch eröffnet; seine Voraussetzungen sind gesondert zu belegen.
 
-## Trade-off-Matrix
+Entwurf zur Antragsfrage: „Der Antrag vom [Datum] ist nach der derzeit belegten Kenntnislage [Belege] außerhalb der Frist des § 77b StGB eingegangen. Für den vorgeworfenen Grundtatbestand ist ein Strafantrag nach [konkrete Norm] erforderlich. Eine Qualifikation oder sonstige unabhängig verfolgbare Tat ist aus folgenden Gründen bislang nicht belegt: [Gründe]. Ob die Staatsanwaltschaft ein besonderes öffentliches Interesse bejaht hat oder bejahen will, ist [Stand]. Unter diesen Voraussetzungen wird beantragt/angeregt, [konkrete Entscheidung].“
 
-| Pfad A vollumfaengliches Bestreiten | Pfad B Verstaendigung Paragraph 257c StPO | Pfad C Vergleich + Antragsruecknahme | Empfehlung |
-| --- | --- | --- | --- |
-| Hohe Verteidigungskosten; Risiko Sachverstaendigengutachten; lange HV | Strafmasszusage; Gestaendnis; Strafmilderung durch Paragraph 46a StGB / Schadensausgleich; ggf. Bewaehrung | Wenn möglich: Antragsruecknahme Paragraph 77d StGB nach Vergleich; Verfahrenseinstellung Paragraph 170 Abs 2 StPO ohne Vorstrafe | C ist immer der erste Versuch bei Antragsdelikten. B bei Offizialdelikten (gewerblich / bandenmaessig). A bei zweifelhaftem Schutz, klarer Erschoepfung oder erkennbarer Antragsfristverpassung. |
+Vergleichsbaustein: „Die [Rechteinhaberin] verpflichtet sich, den Strafantrag bezüglich [konkret beschriebener Vorgang] nach Erfüllung von [Voraussetzung] zurückzunehmen. Den Parteien ist bekannt, dass dies die Strafverfolgungsorgane nicht bindet. Zivilrechtliche Erledigungswirkung, Unterlassung, Kosten und Reichweite eines etwaigen Anerkenntnisses ergeben sich ausschließlich aus den folgenden gesonderten Regelungen: [Regelungen].“
 
-Adhaesionsantrag Paragraph 403 StPO: Rechteinhaber kann Schadensersatz im Strafverfahren geltend machen; Verteidigung sollte Verweisung an Zivilgericht Paragraph 406 Abs 1 S 3 StPO beantragen, wenn Schadenshoehe komplex.
+Liefere einen nachvollziehbaren Sachverhalt, eine Fristentabelle, eine beweisbezogene Prüfung, eine Gegenüberstellung der realistischen Handlungsoptionen und den vollständigen ausgewählten Entwurf. Kennzeichne ungeklärte Tatsachen und Rechtsfragen; begründe eine Empfehlung anhand von Akte und Mandatsziel.
 
-Verstaendigung Paragraph 257c StPO: Im IP-Strafrecht in der Praxis ueblich; Mandantenseite muss Schadensbezifferung vorbereiten, weil Gericht ueblicherweise Bemessung am Schadensumfang ausrichtet.
+## 6. Amtliche Anker
 
-## Konkurrenzen
-
-- IP-Straftatbestaende stehen ueberwiegend in **Tateinheit** Paragraph 52 StGB (z. B. Marken- und Urheberrechtsverletzung an gleichen Produkten; Design- und Patentverletzung am gleichen Bauteil).
-- **Paragraph 263 StGB Betrug** ist regelmaessig parallel zu prüfen, wenn Originalitaet vorgespiegelt wurde.
-- **Paragraph 261 StGB Geldwaesche** bei Erloesen aus gewerblichem IP-Vertrieb.
-- **Steuerstraftaten** (Paragraphen 370 ff. AO) wegen nichtangegebener Umsaetze aus Counterfeit-Vertrieb.
-
-## Strafzumessung
-
-Allgemeine Zumessungsgesichtspunkte Paragraph 46 StGB im IP-Strafrecht:
-
-- **Schadenshoehe** (Lizenzgebuehrenanalogie als Mass) ist hauptzumessungsrelevant.
-- **Anzahl der Verletzungstaten und Stueckzahl**.
-- **Verbreitungsweite** (lokal, online global).
-- **Reue, Schadensausgleich**, insbesondere Lizenzgebuehrenzahlung an Rechteinhaber.
-- **Aufklaerungshilfe Paragraph 46b StGB** bei Bandentaten oder organisierten Strukturen.
-
-Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentraeger) und Gewinnabschoepfung Paragraph 73 StGB (Bruttoprinzip). Bei Bandentaten gesamtschuldnerische Haftung aller Mitglieder.
-
-## Mustertexte
-
-**Standardisiertes Vergleichsangebot:** "Im Wege des Vergleichs erkennt mein Mandant Schadensersatz an die X AG in Höhe von EUR Y (entspricht der angemessenen Lizenzgebuehrenanalogie) an. Die X AG verpflichtet sich, den Strafantrag gemäß Paragraph 77d StGB unverzueglich zurueckzunehmen. Beide Parteien vereinbaren wechselseitige Stillschweigeverpflichtungen. Eine etwaige zivilrechtliche Unterlassungsverpflichtung gemäß vorausgegangener Abmahnung bleibt unberuehrt; mein Mandant erkennt die strafbewehrte Unterlassungsverpflichtung im Anhang als Bestandteil dieses Vergleichs an."
-
-**Antrag auf Einstellung wegen verspaeteten Strafantrags:** "Ich beantrage, das Ermittlungsverfahren gegen meinen Mandanten nach Paragraph 170 Abs 2 StPO einzustellen. Der Strafantrag der X AG vom DD.MM.JJJJ ist verspaetet. Die X AG hat ausweislich des Schreibens vom DD.MM.JJJJ (Anlage 1, internes Memorandum X) bereits am DD.MM.JJJJ Kenntnis von Tat und Taeter erlangt. Die Frist von drei Monaten nach Paragraph 77b StGB ist am DD.MM.JJJJ abgelaufen; der Strafantrag wurde erst am DD.MM.JJJJ und damit nach Fristablauf gestellt. Die Verfolgungsvoraussetzung fehlt."
-
-**Schutzschrift mit Erschoepfungseinwand:** "Mein Mandant hat die streitgegenstaendliche Ware über den autorisierten Haendler X in einem EWR-Mitgliedstaat erworben (Anlage 1, Rechnung mit MWSt-Ausweis; Anlage 2, Lieferschein mit EU-Herkunftserklaerung). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor; eine Markenverletzung scheidet aus. Hilfsweise wird Beweis durch Vernehmung des Zeugen X (Geschäftsführer der Haendlerfirma) angeboten."
-
-## Quellen Stand 06/2026
-
-- Paragraphen 77, 77b, 77d StGB (Strafantrag, Antragsfrist, Antragsruecknahme).
-- Paragraphen 158, 170, 374, 380 ff. StPO (Anzeige, Einstellung, Privatklage, Suehneversuch).
-- Paragraph 403 ff. StPO Adhaesionsverfahren; Paragraph 257c StPO Verstaendigung; Paragraph 153 / 153a StPO Einstellung gegen Auflage.
-- Paragraphen 14, 17, 25, 27, 46, 46a, 46b, 49, 52, 70, 73, 73c, 74 StGB.
-- Paragraph 24 MarkenG Erschoepfung; Paragraph 51 / Paragraph 53 UrhG Schranken; Paragraph 108b Abs 2 UrhG Privatgebrauchsausnahme; Paragraph 5 GeschGehG Whistleblower.
-- VO (EU) 608/2013 Produktpiraterieverordnung.
-- BGH staendige Rspr. zur Gewerbsmaessigkeit, zum Bandenbegriff und zum Bruttoprinzip bei Vermögensabschoepfung; Datum und konkrete Aktenzeichen vor Verwendung im Schriftsatz verifizieren.
+Punktkontrolle am 13. November 2026: [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 108b UrhG](https://www.gesetze-im-internet.de/urhg/__108b.html), [§ 374 StPO](https://www.gesetze-im-internet.de/stpo/__374.html), [§ 380 StPO](https://www.gesetze-im-internet.de/stpo/__380.html). Vor Verwendung die einschlägige Tatzeitfassung, vollständige Verweisungsketten und aktuelle Normfassung öffnen. Rechtsprechung mit Gericht, Datum, Aktenzeichen, Volltext und konkreter Aussage prüfen; keine vermeintlich passende Fundstelle ergänzen, wenn sie nicht verifiziert werden kann.

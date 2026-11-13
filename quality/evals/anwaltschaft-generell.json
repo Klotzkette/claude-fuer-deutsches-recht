@@ -97,7 +97,7 @@
       "Gegenprüfung: Zeugen vom Hörensagen nicht pauschal ausschließen; Wahrnehmungsgrundlage und Beweiswürdigung unterscheiden.",
       "16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt."
     ],
-    "sha256": "5a8c79ab858502a50af71cd18ca4e97196ca7f354601a45a57ece89655db347e",
+    "sha256": "89d0ff134bbcb41f0cab5d65f08dc9bf83c37ff4bdb36863b11208ed14c20cb6",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
@@ -114,7 +114,7 @@
     "prompt_path": "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md",
     "prompt_sha256": "695720408a58aec3c2626385201a2d3f7b8c41f2997c41a7a7c2b1e67d3056ee",
     "skill_path": "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md",
-    "skill_sha256": "c28f65ab7bc1b03a40ee915758eacc0f63b027572ae6213bb0688fff71aba2f4"
+    "skill_sha256": "8ef8f611f57fca4533251e46dddc0386cb2d6570c71fd11b7d5bbfe1dd7a9134"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -506,7 +506,7 @@
     "anwaltschaft-generell/skills/arbeitsverhaeltnis-aendern-oder-beenden/SKILL.md": "132b5a63cbb76bbc4474b3344ceedd1186c748f8400d4fb1ddc25a654e1ecc1d",
     "anwaltschaft-generell/skills/datenschutzanfrage-und-dienstleister-pruefen/SKILL.md": "b83cf1da2dce5eac7d925c44ffb266ba6bc4ba588140e7d184a214714db92f92",
     "anwaltschaft-generell/skills/gesellschaft-und-vertretung-klaeren/SKILL.md": "18a89cb3b2b5a41edfff35db4d5bb8f987271eca6d05eecf087b14bda39b8dbb",
-    "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md": "c28f65ab7bc1b03a40ee915758eacc0f63b027572ae6213bb0688fff71aba2f4",
+    "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md": "8ef8f611f57fca4533251e46dddc0386cb2d6570c71fd11b7d5bbfe1dd7a9134",
     "anwaltschaft-generell/skills/schriftsatz-und-anlagen-fertigstellen/SKILL.md": "65aedae378ea949bd9cd2e7f457ba634468a12596dd2f91af1f51510906ede59",
     "anwaltschaft-generell/skills/vergleich-und-abwicklung-vereinbaren/SKILL.md": "df3c2d7721287c343d58033e8d88e326c36261f4d22cd7d055c71d75d7622807",
     "anwaltschaft-generell/skills/vertrag-pruefen-und-aendern/SKILL.md": "5a2474db3f9fa619c6792bb505a6d4961cb808e7423582fac8d90260b3d2086c",
@@ -552,5 +552,17 @@
       "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
       "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md"
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md",
+      "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+      "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

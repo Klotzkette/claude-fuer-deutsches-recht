@@ -45,7 +45,7 @@ description: "Für Cybertrading Anlagebetrug: ordnet Norm, Beweislast und Gegena
 - **§ 826 BGB** — Vorsätzliche sittenwidrige Schädigung: bei Vermittlern, Influencern die von Betrug wussten.
 - **§ 823 Abs. 2 BGB i.V.m. § 263 StGB** — Schadensersatz aus Schutzgesetz-Verletzung.
 - **§ 25h KWG** — Sorgfaltspflicht der Bank bei verdächtigen Transaktionen; bei Verletzung: Haftung Bank.
-- **§ 60 GwG** — Bußgeld bei Verletzung der Sorgfaltspflichten; für Compliance-Zweck.
+- **§ 56 GwG** — Bußgeld bei Verletzung der Sorgfaltspflichten; für Compliance-Zweck.
 
 ### Bankrecht
 

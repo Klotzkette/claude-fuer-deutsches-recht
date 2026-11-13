@@ -298,7 +298,7 @@
       "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
       "Quellenprüfung 10.11.2026: XII ZB 568/25 konkretisiert Teilerfüllung und Mindestunterhalt bei erweitertem Umgang."
     ],
-    "sha256": "fc6f12914b494e92314cbdf13c15647fa8754b8a0e44a608fa79c2b9ab7c09da",
+    "sha256": "060270c7ae0ece46096786c79c5313880a858580194f6f3491c58187829c4d4c",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -448,5 +448,16 @@
       }
     ],
     "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
+      "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

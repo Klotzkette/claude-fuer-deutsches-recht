@@ -69,6 +69,27 @@ def main() -> int:
         require("Nummer 084" in late["desc"], "Beschreibung eines späteren Skills fehlt")
         require(sum(bool(item["raw"]) for item in collected) == 80, "Volltextbudget der Materialauswahl überschritten")
 
+    with TemporaryDirectory() as folder:
+        plugin = Path(folder)
+        skill = plugin / "skills" / "vertrag-pruefen" / "SKILL.md"
+        skill.parent.mkdir(parents=True)
+        prefix = '---\nname: vertrag-pruefen\ndescription: Vertrag nach Belegen prüfen.\n---\n\n# Vertragsprüfung\n\n'
+        marked = (
+            '<!-- BEGIN werkstatt-visualisierung -->\n'
+            + 'Reine Oberflächenanweisung ohne Fachinhalt.\n' * 200
+            + '<!-- END werkstatt-visualisierung -->\n'
+        )
+        trailing = '\n## Nachgetragene Fachregel\n\nBelegtes Recht nach dem Visualblock nicht übergehen.\n'
+        remainder = ''.join(f'Weitere Fachzeile {number}.\n' for number in range(200))
+        skill.write_text(prefix + trailing + remainder, encoding="utf-8")
+        baseline = G.collect_skill_material(plugin)[0]
+        skill.write_text(prefix + marked + trailing + remainder, encoding="utf-8")
+        enriched = G.collect_skill_material(plugin)[0]
+        require(enriched == baseline, "Visualblock verdrängt spätere Fachregeln oder verbraucht das Fachzeilenbudget")
+        require("Belegtes Recht nach dem Visualblock" in enriched["raw"], "Nachgetragene Fachregel fehlt")
+        require(len(enriched["raw"].splitlines()) == 180, "Fachzeilenbudget wurde nicht unverändert angewendet")
+        require("Reine Oberflächenanweisung" not in enriched["raw"], "Oberflächenanweisungen wurden als Fachmaterial übernommen")
+
     print("test-prompt-generator-excerpts OK")
     return 0
 

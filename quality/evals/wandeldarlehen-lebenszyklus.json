@@ -82,7 +82,7 @@
       "Konkrete Runden-, Pool- und Bruchteilsfälle ergänzt; Forderungsgegenstand, Teilzahlungen und offene Werthaltigkeit bestimmen Beschluss- und Notariatsentwurf nach Paragrafen 55 bis 57 GmbHG.",
       "Wandelereignis, Preis und Vollzug klar vorangestellt. IX ZR 133/14 zur Zahlungssperre vor Insolvenzeröffnung; kein Erlass, keine Formfreigabe für die Wandlung."
     ],
-    "sha256": "c9d4731eda53d4c23e7736772f3b8baeb160ec0e25f919e1bb40069be7eac401",
+    "sha256": "4eecb2947535729443e496d681ce7ce7a685501114bd1d6f029cd3cb7aefbeeb",
     "reviewed_on": "2026-10-16"
   },
   "selection": {
@@ -208,5 +208,15 @@
       "Kein Rechtsprechungsnachweis zur pauschalen Formwirksamkeit aller Wandeldarlehen oder zur Werthaltigkeit einer konkreten Forderung; das bedarf gesonderter Prüfung.",
       "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen."
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

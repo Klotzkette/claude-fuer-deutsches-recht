@@ -78,7 +78,7 @@
       "Kilometer-/Schadensrechnung, ungünstiges Rückgabeprotokoll, Maschinenmangel, Verwertung und Versicherungszahlung, Vergleichsumfang und zusammenhängende Klauseländerung individuell ergänzt.",
       "Redaktion 16.10.2026: Vertragsmodell und begrenzter Widerrufsanker vor den Fachzweigen erklärt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "de983ddcd3af7fde0d43809ccec56d69ea8ca7929a8ebe54ea382ea794069b87",
+    "sha256": "efdfa737910c2fa868359b9ec528358dce23404b1d72d07d2fd5667154de3e36",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -163,5 +163,15 @@
     "continuation": "Gutachten ändert in abrechnungseinwand.md Schadensposition, Zwischensumme und Schlussforderung; geändertes Restwertrisiko ändert in leasingvertrag.md zugleich die Endabrechnungsklausel. Nutzerpfade bleiben maßgeblich.",
     "enrichment": "400-Euro-Kilometerposten, gesonderte 2500-Euro-Marktwertforderung und 900/700-Euro-Schadensabgleich; Protokollinhalt gegenüber Anerkenntnis, Servicebericht und Abtretung, fahrzeuggenaue Verrechnung und begrenzter Vergleich.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "leasingrecht-praxis/leasingrecht-praxis-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

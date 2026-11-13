@@ -118,7 +118,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "Redaktion 16.10.2026: Gerichtseingang von Versand, Inhalt und Form im Einstieg getrennt; redundante Aufnahmehinweise gestrafft. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "3d9cd1a918fa33f745b99b16ed9fc03a79f9ed34027c96180cb97d8a54f8c815",
+    "sha256": "7e1766a0761a7b0dfa11e53edf4b57f78728095c5104c01ce302f29f86e9f23a",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
@@ -179,5 +179,15 @@
     "reference": "kanzlei-allgemein/references/ki-normen-und-fallpruefung.md",
     "focus": "Trennen Sie Dateiorganisation, interne Entwürfe, Mandantenkommunikation und rechtsverbindliche Außenhandlungen. Technische Autonomie macht ein System nicht automatisch hochriskant und beseitigt keine Verschwiegenheits- oder Kontrollpflicht.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "kanzlei-allgemein/kanzlei-allgemein-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

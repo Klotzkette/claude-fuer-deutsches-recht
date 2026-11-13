@@ -128,7 +128,7 @@ Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Sch
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
-| Werkstatt-Gesamtprompt (108 KB) | [`testakten/megaprompts/konkurrenten-rechtsschutz.md`](../testakten/megaprompts/konkurrenten-rechtsschutz.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md) |
+| Werkstatt-Gesamtprompt (114 KB) | [`testakten/megaprompts/konkurrenten-rechtsschutz.md`](../testakten/megaprompts/konkurrenten-rechtsschutz.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md) |
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -171,7 +171,7 @@ Der vollständige Katalog enthält 20 Skills. Für die normale Fallbearbeitung g
 Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plugin-ZIP enthalten.
 
 <details>
-<summary><strong>Alle 20 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
+<summary><strong>Alle 21 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
@@ -186,6 +186,7 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 | `references/LEGACY-SYSTEME-INTEGRATION.md` | [Ansehen](references/LEGACY-SYSTEME-INTEGRATION.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/LEGACY-SYSTEME-INTEGRATION.md) |
 | `references/OUTPUT-FORMAT.md` | [Ansehen](references/OUTPUT-FORMAT.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/OUTPUT-FORMAT.md) |
 | `references/RECHTSSCHUTZ-UND-STRATEGIE.md` | [Ansehen](references/RECHTSSCHUTZ-UND-STRATEGIE.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/RECHTSSCHUTZ-UND-STRATEGIE.md) |
+| `references/arbeitsoberflaeche-und-visualisierung.md` | [Ansehen](references/arbeitsoberflaeche-und-visualisierung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/arbeitsoberflaeche-und-visualisierung.md) |
 | `references/bundeswehrbeschaffung-bwbbg-2026.md` | [Ansehen](references/bundeswehrbeschaffung-bwbbg-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/bundeswehrbeschaffung-bwbbg-2026.md) |
 | `references/leitentscheidungen-anker.md` | [Ansehen](references/leitentscheidungen-anker.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/leitentscheidungen-anker.md) |
 | `references/methodik-vergaberecht.md` | [Ansehen](references/methodik-vergaberecht.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/methodik-vergaberecht.md) |

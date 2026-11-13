@@ -88,7 +88,7 @@
       "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt.",
       "Verfassungsfehler statt bloßer Grundrechtsliste als Aufgabe; 2 BvR 625/25 früh und ausdrücklich nur als Darlegungsmaßstab, nicht als allgemeine Datenfreigabe."
     ],
-    "sha256": "2098a3a6b5bc1b5d677d485e514b818180a591dc1bf53e223d87610bc6aad2c4",
+    "sha256": "7e543dff45f2a8decd028d18b66627a8f8c471b1a8603e85caa1ceebfc95b445",
     "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
@@ -233,5 +233,15 @@
       "search_2026": "2 BvL 3/18 neu gelesen und zur Kompetenzprüfung ergänzt. Bereits vorhandener 2 BvE 4/23 aus Juli 2026 bleibt mit seinem bisherigen Prüfstatus erhalten.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "verfassungsrecht/verfassungsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

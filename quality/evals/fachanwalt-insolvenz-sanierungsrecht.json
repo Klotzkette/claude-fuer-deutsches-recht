@@ -131,7 +131,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
     ],
-    "sha256": "a8240f8c454c05e611294dd53ed57ab2e31cf28b1ec7fef87aa132a1610f2ebb"
+    "sha256": "ac12ec43763f8f656d94b44796e9ea7cae38bf1044b8d2a4d7e73a418cb19777"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -305,5 +305,16 @@
       }
     ],
     "scope": "Separate Anfechtungs-Prompts und Anfechtungsskill; keine neue Gesamtprüfung der übrigen Fachanwalts-Skills."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md",
+      "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

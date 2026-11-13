@@ -49,7 +49,7 @@
       "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
       "2026-10-16, redaktioneller Einstiegsreview: Hinweis, Beweis oder Urteil als Ausgang; Verhandlungsantrag im vereinfachten Verfahren früh sichtbar. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "cea112e7dc1eed657c39760dc43db7996a52634764845d117e0e0f5a7d52f280",
+    "sha256": "868a5237e4fd10eae69764b3fb2327d2436f7b045f5571ab4dd3215dcb3038c7",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -144,5 +144,15 @@
     "reference": "gerichtsplugins/richter-amtsgericht-zivil/references/ki-normen-und-fallpruefung.md",
     "focus": "Unterscheiden Sie bei der Anwendung für amtsgerichtliche Zivilsache technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

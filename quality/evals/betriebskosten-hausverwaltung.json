@@ -119,7 +119,7 @@
       "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung.",
       "16.10.2026: Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen."
     ],
-    "sha256": "84e2fa51b65beeb88578014c9170814e04daf2529802e28b7b591f049ea382f4",
+    "sha256": "152bdacbb296699ee070c4311395d8e45cbca26d90cd080f1bd9d08ff0048c42",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -568,5 +568,15 @@
         "anchor_or_exception": "Paragraf 7 Absatz 2 HeizkostenV; BGH 01.02.2012 VIII ZR 156/11 Rn. 10 bis 14: Periodenverbrauch statt Jahreszahlungen; keine allgemeine FIFO-Pflicht, 15-Prozent-Kürzung heilt den falschen Ansatz nicht."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

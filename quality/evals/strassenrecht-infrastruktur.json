@@ -59,7 +59,7 @@
       "Betriebsfortführungsnachweis statt Umsatzautomatismus; Ersatz vor Geld im Anwendungsbereich des Paragrafen 8a Absatz 4.",
       "Geänderte Pläne verändern konkrete Einwendungen, gemischte Rechnungen die Kostenmasse und nicht nur die Summe; Fristauslöser und Freigaben getrennt."
     ],
-    "sha256": "43c0de87f37b6b062ec63c2d0eba20f357e94b7e99f66e7a43ebf39c0f7288d0",
+    "sha256": "7e5fa9102a3c035989c4fabba61ad8b1aba3e40c27ccfb55d04ef2e4f67bb2c3",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -165,5 +165,15 @@
       "search_2026": "9 B 1.25 vom 27.01.2026 gefunden; Suchpassagen Rn. 4–7 zu nicht revisiblem hessischem Straßenrecht. Kein sachlicher Grund für Änderung der vorhandenen Bauzaun-/Anbindungsanker.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

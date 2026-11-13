@@ -149,7 +149,7 @@
       "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Forschungsfrage und fertiger Antragsteil, Finanzplan oder Antworttext stehen vor dem Ablauf; maßgeblich bleiben konkrete Ausschreibung und Formulare. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "df13db34a4b1abaa33cb3815f7a190c51a75e2bd79ed5da72f7d755903eef22d"
+    "sha256": "a31fdbbc884a7e1ae1f11c94f7b306664195289fd6f76b6baa91067ce927d2a5"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -202,5 +202,15 @@
     "continuation": "Daten- oder Archivzugang entfällt -> Forschungsfrage, Methode, Arbeitspaket, Zeitplan und Mittelansatz konsistent umstellen.",
     "enrichment": "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen.",
     "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "dfg-foerderantrag/dfg-foerderantrag-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

@@ -251,7 +251,7 @@
       "Überschriftenhierarchie auf genau einen Dokumenttitel und dezimale Kapitel/Unterkapitel berichtigt; sämtlicher Fachtext nachweislich unverändert.",
       "2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "50ed3d9d93e6d20af51a931a7a53bda7025192c6405d626a026dd8e13355aad4",
+    "sha256": "4fcdaa7134443cf8cd73a04c8eec037b708293114b6742b0708ea0d848f5c497",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -267,7 +267,7 @@
     "prompt_path": "playbook-pruefer/playbook-pruefer-hauptproblem.md",
     "skill_path": "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
     "prompt_sha256": "860a1be71f404f30e90605d3bd963766a7d72ab669700fe3a50ca7cc73478dba",
-    "skill_sha256": "d47943bb0df518ccfd5786a78d0563b0771f15bf884bf80874a7f427f8142339"
+    "skill_sha256": "c56f699c210138c78a1c0c92ba8682d63b9a331c9431c36f01359764b9f85f1f"
   },
   "prompt_editorial_review": {
     "date": "2026-10-02",
@@ -617,5 +617,17 @@
         }
       ]
     }
-  ]
+  ],
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "playbook-pruefer/playbook-pruefer-hauptproblem.md",
+      "playbook-pruefer/playbook-pruefer-werkstatt.md",
+      "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
+  }
 }

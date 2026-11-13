@@ -145,7 +145,7 @@ Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Sch
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
-| Werkstatt-Gesamtprompt (127 KB) | [`testakten/megaprompts/vergabestelle-behoerden.md`](../testakten/megaprompts/vergabestelle-behoerden.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md) |
+| Werkstatt-Gesamtprompt (133 KB) | [`testakten/megaprompts/vergabestelle-behoerden.md`](../testakten/megaprompts/vergabestelle-behoerden.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md) |
 
 <!-- END megaprompt-und-vorlagen (autogen) -->
 
@@ -290,7 +290,7 @@ Der vollständige Katalog enthält 122 Skills. Für die normale Fallbearbeitung 
 Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plugin-ZIP enthalten.
 
 <details>
-<summary><strong>Alle 28 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
+<summary><strong>Alle 30 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
@@ -313,6 +313,7 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 | `references/OUTPUT-FORMAT.md` | [Ansehen](references/OUTPUT-FORMAT.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/OUTPUT-FORMAT.md) |
 | `references/QUELLEN-AKTUALITAET.md` | [Ansehen](references/QUELLEN-AKTUALITAET.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/QUELLEN-AKTUALITAET.md) |
 | `references/WIRKLICHKEITSDATEN-BESCHAFFUNGSSTEUERUNG.md` | [Ansehen](references/WIRKLICHKEITSDATEN-BESCHAFFUNGSSTEUERUNG.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/WIRKLICHKEITSDATEN-BESCHAFFUNGSSTEUERUNG.md) |
+| `references/arbeitsoberflaeche-und-visualisierung.md` | [Ansehen](references/arbeitsoberflaeche-und-visualisierung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/arbeitsoberflaeche-und-visualisierung.md) |
 | `references/bundeswehrbeschaffung-bwbbg-2026.md` | [Ansehen](references/bundeswehrbeschaffung-bwbbg-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/bundeswehrbeschaffung-bwbbg-2026.md) |
 | `references/ki-normen-und-fallpruefung.md` | [Ansehen](references/ki-normen-und-fallpruefung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/ki-normen-und-fallpruefung.md) |
 | `references/leitentscheidungen-anker.md` | [Ansehen](references/leitentscheidungen-anker.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/leitentscheidungen-anker.md) |

@@ -105,7 +105,7 @@
       "Räumungstermin und Entstehung des Schutzgrunds als Fristauslöser sowie spätere Zahlung, Einstellung oder Ratenbitte bis zur aktualisierten Fassung behandeln.",
       "Titel und Restforderung als Arbeitsziel; VII ZB 58/15 im amtlichen Leitsatzumfang vorgezogen. Materielle Verrechnung, notwendige Kosten und Abwehrweg bleiben getrennt."
     ],
-    "sha256": "af25450eca826f6f3ab406a500f84c990f835899f3b6c0eb4eda5d88cfc0f78e",
+    "sha256": "8225a746cfd10782632fc0d09500e75557c85df9a969569b2db2d4181e35d860",
     "method": "desk_review",
     "reviewed_on": "2026-10-16"
   },
@@ -248,5 +248,15 @@
         "sha256": "71bd925c33a64c5d76215891af0640a4437c4e80605fb81a710e537ab2388215"
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "zwangsvollstreckung/zwangsvollstreckung-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

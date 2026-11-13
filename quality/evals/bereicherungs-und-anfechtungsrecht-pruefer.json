@@ -133,7 +133,7 @@
       "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg.",
       "16.10.2026: Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette."
     ],
-    "sha256": "8a509e57d78808329a259815de8056d3464b5c62615db9c0e675d25263094520",
+    "sha256": "ed22fc569bd0332c82cd60eb75c4236a789a6c12c3b6190f44c0471d5456ed65",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -204,5 +204,15 @@
         "anchor_or_exception": "Paragrafen 812 und 814 BGB; BGH Hinweisbeschluss 04.09.2018 VIII ZR 100/18: Kenntnis der Nichtschuld und Beweislast des Empfängers; mietrechtlicher Fall mit späterer Rechtsmittelrücknahme, keine pauschale Rückforderung."
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }

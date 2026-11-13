@@ -128,7 +128,7 @@
       "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss.",
       "Einstiegsredaktion 16.10.2026: Rückmeldung und Repressalienprüfung verbunden; historischer Zeugenaussageschutz nicht mit heutigen HinSchG-Voraussetzungen oder Presseoffenlegung gleichgesetzt."
     ],
-    "sha256": "4f3e73552c6d0dfe852225780b127826fc401ed7d961efb5ee4d2c260cda32bf"
+    "sha256": "b8cee374af62507669fe0dd4ec7ee61d77d4dc3b6a96c21c1eade3611f3ea8dc"
   },
   "selection": {
     "positive": [
@@ -253,5 +253,15 @@
         "utf8_bytes": 7221
       }
     ]
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-13",
+    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
   }
 }
