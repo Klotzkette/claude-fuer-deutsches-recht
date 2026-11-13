@@ -1263,7 +1263,7 @@
     },
     {
       "path": "notariat-alltag/skills/kaltstart-triage/SKILL.md",
-      "sha256": "eb7d41abffbc29b9808d104182dec5a340ad6655ef08ce42e1df63bc7b139cb4",
+      "sha256": "c925e8b4128d83e08a19ec4a6a4c65644484c8b412ff0b368a6a230c57666beb",
       "verdict": "revised",
       "method": "desk_review",
       "reviewed_on": "2026-09-25"
@@ -1437,7 +1437,8 @@
     "date": "2026-11-13",
     "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
-      "notariat-alltag/notariat-alltag-werkstatt.md"
+      "notariat-alltag/notariat-alltag-werkstatt.md",
+      "notariat-alltag/skills/kaltstart-triage/SKILL.md"
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []

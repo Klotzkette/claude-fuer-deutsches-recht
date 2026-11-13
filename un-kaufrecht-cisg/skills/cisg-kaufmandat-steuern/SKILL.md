@@ -38,15 +38,15 @@ Eine Käuferin verlangt wegen einer reparierbaren Maschine sofort einen Deckungs
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 
-**Leitfrage für Transport-, See- und Außenhandelsrecht:** Welche Abhängigkeit zwischen Bedarf, Planung, Ausführung und Nachweis verursacht das Problem?
+Leitfrage für internationaler Warenkauf nach dem CISG: Welche Kaufpflicht ist streitig und wie hängen Lieferung, Zahlung, Mangel und maßgebliche Fristen zusammen?
 
-**Erste Ansicht:** Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
+Erste Ansicht: Zeige die Kaufabwicklung von Vereinbarung und Leistungspflichten über Lieferung und Zahlung bis zu Untersuchung, Mangelanzeige und verlangtem Rechtsbehelf. Stelle streitige Tatsachen, Vertragsklauseln und Belege neben eine datierte Ereignisfolge.
 
-**Sinnvolle Interaktion:** Wähle Bauteil, Planstand oder belegte Terminvariante und aktualisiere die betroffenen Positionen, Folgearbeiten und Schreiben. Eine schematische Skizze darf keine vermessene oder freigegebene Planung vortäuschen.
+Sinnvolle Interaktion: Eine Auswahl auf Kaufpflicht, Klausel, Lieferung oder Mangel zeigt Beleg und Entwurfsabschnitt. Geänderte Datums- oder Vertragsannahmen als Szenario führen; Anwendbarkeit, Fristmaßstab und Rechtsbehelf erneut prüfen, bevor das verlangte Schreiben oder der Vertragsentwurf angepasst wird.
 
-**Datengrundlage:** Bauteil oder Leistung, Menge und Einheit, Planversion, Verantwortlicher, Terminbasis und Originalunterlage. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+Datengrundlage: Vertragsfassung, Parteien und Rollen, Ware, Leistungspflicht, Liefer- und Zahlungsdaten, Untersuchungs- und Anzeigedaten, Mangelbefund, Quellenbeleg und maßgebliche Rechtsgrundlage. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
 
-**Weiter zum Ergebnis:** nachvollziehbarer Projektvermerk mit dem bestellten Leistungs-, Nachtrags-, Anzeige- oder Abstimmungstext. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+Weiter zum Ergebnis: der beauftragte Kaufrechtsvermerk, die ausformulierte Mangelanzeige, Leistungsaufforderung, Vertragsänderung oder Verhandlungsantwort. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
 
 Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
 

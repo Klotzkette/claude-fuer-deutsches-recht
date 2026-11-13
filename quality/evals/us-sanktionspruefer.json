@@ -563,7 +563,7 @@
       "Aktuelle Verfahren und Quellenstand begrenzen",
       "Bank Melli nur mit tatsächlichem Quellenstatus"
     ],
-    "sha256": "06fd39d0539c99e46e5f6c17114d6cf60150fa16a8b1794f93c9e55075bf8bb1"
+    "sha256": "ce6d1e55a79d5627ff5110237041f2d4817b3c19f04dada4ae7da6860e11def1"
   },
   "focus_review": {
     "method": "desk_review",
@@ -580,7 +580,7 @@
     "prompt_path": "us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md",
     "skill_path": "us-sanktionspruefer/skills/us-sanktionsmandat-steuern/SKILL.md",
     "prompt_sha256": "62a58fb5206ae9e0144a3c23bdb3db92b00b9ebe842a5ce6791c87c63fb3af27",
-    "skill_sha256": "7626d2350917e0cc6ed489f86ab7ec6ceb98bdb6da06ff583c22790e1e72e278"
+    "skill_sha256": "2d16badf536006c26c25e7a633d03180557bbc68d46d641e93011233d47a8d37"
   },
   "prompt_editorial_review": {
     "method": "desk_review",

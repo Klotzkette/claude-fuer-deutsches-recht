@@ -50,7 +50,7 @@
       "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung.",
       "16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen."
     ],
-    "sha256": "3ead41687345307945dd4b81af20f1e457d9764fac9ee9e686286f283dad1833",
+    "sha256": "620b89f6e2cff1b7a227b389ae493d9c1387aa6c3b655cab678b80fb2f185c83",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },

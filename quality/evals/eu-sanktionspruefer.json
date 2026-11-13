@@ -408,7 +408,7 @@
       "Informationspflicht und Vertraulichkeit",
       "Rechtsbehelf passend zum Eingriff"
     ],
-    "sha256": "b0b131c229c84cf9765672b53f4bbc569866e5e1d09ec36ce518aef4c4cdffb7"
+    "sha256": "b81d14829a12f6a78527e532fd79da274012adb77522d183edfa373bc4dd7e0c"
   },
   "focus_review": {
     "method": "desk_review",
@@ -424,7 +424,7 @@
     "prompt_path": "eu-sanktionspruefer/eu-sanktionspruefer-hauptproblem.md",
     "skill_path": "eu-sanktionspruefer/skills/eu-sanktionsfall-steuern/SKILL.md",
     "prompt_sha256": "e6c6a4b327b7a80c42683c0a0a815b0968b6e24129789071323203d3e0e38134",
-    "skill_sha256": "17c57e1053339657d93fa924f167b103cac397d089472cf27fe27012746a8a5a"
+    "skill_sha256": "82f6e29e5019b6046a7a3a5855d2bd92277de1b38b60e2775b5162a5eac65893"
   },
   "prompt_editorial_review": {
     "method": "desk_review",

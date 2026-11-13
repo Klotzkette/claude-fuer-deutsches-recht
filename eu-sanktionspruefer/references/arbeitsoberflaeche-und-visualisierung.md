@@ -4,15 +4,15 @@ Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was gesch
 
 ## 1. Fachliche Ansicht
 
-**Leitfrage für Transport-, See- und Außenhandelsrecht:** Welche Abhängigkeit zwischen Bedarf, Planung, Ausführung und Nachweis verursacht das Problem?
+Leitfrage für EU-Sanktionsprüfung: Welche Parteien, Güter, Dienstleistungen und Zahlungswege berühren welches EU-Sanktionsregime?
 
-**Erste Ansicht:** Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
+Erste Ansicht: Zeige die Transaktionskette mit Parteien, Eigentum und Kontrolle, Gütern oder Dienstleistungen, Zielland sowie Banken und Zahlungsweg. Verbinde jeden möglichen Listentreffer mit Identitätsmerkmalen, amtlicher Listenquelle und Abrufdatum; offene Zuordnungen sichtbar lassen.
 
-**Sinnvolle Interaktion:** Wähle Bauteil, Planstand oder belegte Terminvariante und aktualisiere die betroffenen Positionen, Folgearbeiten und Schreiben. Eine schematische Skizze darf keine vermessene oder freigegebene Planung vortäuschen.
+Sinnvolle Interaktion: Eine Auswahl auf Partei, Gut, Zahlung oder Stichtag zeigt die einschlägigen Belege und offenen Prüfungen. Namensähnlichkeit oder Beteiligungsquote allein erzeugen weder ein Verbot noch eine Freigabe; Eigentum, Kontrolle und tätigkeitsbezogene Beschränkungen nach dem einschlägigen EU-Regime getrennt prüfen.
 
-**Datengrundlage:** Bauteil oder Leistung, Menge und Einheit, Planversion, Verantwortlicher, Terminbasis und Originalunterlage. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+Datengrundlage: Rechtsträger und Rolle, Identitätsmerkmale, Eigentums- und Kontrollnachweis, Güter- oder Dienstleistungsbeschreibung, Herkunft und Ziel, Zahlungsweg, Regime, Listenfundstelle und Prüfdatum. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
 
-**Weiter zum Ergebnis:** nachvollziehbarer Projektvermerk mit dem bestellten Leistungs-, Nachtrags-, Anzeige- oder Abstimmungstext. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+Weiter zum Ergebnis: begründeter Sanktionsvermerk mit konkreten Nachforderungen und dem beauftragten Antwort-, Antrags- oder Vertragstext. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
 
 ## 2. Verfügbare Fähigkeiten nutzen
 

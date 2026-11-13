@@ -21,9 +21,9 @@ REFERENCE = "arbeitsoberflaeche-und-visualisierung.md"
 GROUPS = {
     "zeit": "arbeits hr sozial sozialstatus renten bav betreuung beamten dienst wehr migration",
     "zahlen": "insolvenz insolvenzanfechtung liquiditaet sanierung us_insolvency steuer grundsteuerrecht jveg goae zugewinnausgleich forderung selbststaendige haushalt foerderantrag forschungszulage nkr",
-    "vertrag": "bgb miet vertragsgestaltung vertragserstellung corporate-contract-law wirtschaftsanwalt commonlaw handelsrecht verbraucher ecommerce lizenz verlag influencer bank versicherung schadensregulierung",
+    "vertrag": "bgb miet vertragsgestaltung vertragserstellung corporate-contract-law wirtschaftsanwalt commonlaw handelsrecht transport_handel verbraucher ecommerce lizenz verlag influencer bank versicherung schadensregulierung",
     "beziehungen": "gesellschaft aktg_hv ma_finanzierung verein geldwaesche lobbyregister kartell kapitalmarkt familien famil erbrecht international",
-    "projekt": "bau bauwirtschaft hoai bauplanung umweltplanung strassenrecht stvo strassennutzung-genehmigungen denkmalschutz energie agrar luftrecht weltraum transport_handel nachbar",
+    "projekt": "bau bauwirtschaft hoai bauplanung umweltplanung strassenrecht stvo strassennutzung-genehmigungen denkmalschutz energie agrar luftrecht weltraum nachbar",
     "vergleich": "vergabe",
     "produkt": "produkt technikregulierung telekom apotheke krankenhaus tierschutz regulierung wirtschaftsverwaltung digitalplattform barrierefreiheit it cybersicherheit",
     "untersuchung": "investigations hinweisgeber phishing datenschutz",
@@ -176,12 +176,43 @@ FAMILY_OVERRIDES = {
     "compliance-abteilung-grosskonzern": "untersuchung",
     "bauunternehmer-einkauf": "vergleich",
     "projekteinkauf-baubranche": "vergleich",
+    "eu-sanktionspruefer": "beziehungen",
+    "us-sanktionspruefer": "beziehungen",
 }
 LABEL_OVERRIDES = {
     "compliance-abteilung-grosskonzern": "Compliance in der Industrie",
     "bauunternehmer-einkauf": "Einkauf im Bauunternehmen",
     "projekteinkauf-baubranche": "Projekteinkauf in der Baubranche",
     "zahlungsunfaehigkeits-und-ueberschuldungspruefer": "Zahlungsunfähigkeits- und Überschuldungsprüfung",
+    "eu-sanktionspruefer": "EU-Sanktionsprüfung",
+    "us-sanktionspruefer": "US-Sanktionsprüfung",
+    "un-kaufrecht-cisg": "internationaler Warenkauf nach dem CISG",
+}
+
+# Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
+# nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
+ROUTE_OVERRIDES = {
+    "eu-sanktionspruefer": (
+        "Welche Parteien, Güter, Dienstleistungen und Zahlungswege berühren welches EU-Sanktionsregime?",
+        "Zeige die Transaktionskette mit Parteien, Eigentum und Kontrolle, Gütern oder Dienstleistungen, Zielland sowie Banken und Zahlungsweg. Verbinde jeden möglichen Listentreffer mit Identitätsmerkmalen, amtlicher Listenquelle und Abrufdatum; offene Zuordnungen sichtbar lassen.",
+        "Eine Auswahl auf Partei, Gut, Zahlung oder Stichtag zeigt die einschlägigen Belege und offenen Prüfungen. Namensähnlichkeit oder Beteiligungsquote allein erzeugen weder ein Verbot noch eine Freigabe; Eigentum, Kontrolle und tätigkeitsbezogene Beschränkungen nach dem einschlägigen EU-Regime getrennt prüfen.",
+        "Rechtsträger und Rolle, Identitätsmerkmale, Eigentums- und Kontrollnachweis, Güter- oder Dienstleistungsbeschreibung, Herkunft und Ziel, Zahlungsweg, Regime, Listenfundstelle und Prüfdatum",
+        "begründeter Sanktionsvermerk mit konkreten Nachforderungen und dem beauftragten Antwort-, Antrags- oder Vertragstext",
+    ),
+    "us-sanktionspruefer": (
+        "Welcher US-Bezug und welches Sanktionsprogramm betreffen Parteien, Leistung und Zahlungsweg der Transaktion?",
+        "Zeige Parteien und Beteiligungsketten, Güter oder Dienstleistungen, US-Bezug, Zielland sowie Banken und Zahlungsweg. Trenne den belegten Identitätstreffer vom Programm und seiner Reichweite; amtliche Listenquelle, Abrufdatum und ungeklärte Verbindung an jeder relevanten Station angeben.",
+        "Eine Auswahl auf Partei, Beteiligung, Zahlung oder Stichtag zeigt die Quellen und offenen Prüfungen. Namensähnlichkeit, ein US-Dollar-Betrag oder eine Beteiligungsquote lösen keine automatische Freigabe oder Sperre aus; die tatsächlich einschlägigen US-Regeln prüfen und EU-Kontrollmaßstäbe nicht ungeprüft übertragen.",
+        "Rechtsträger und Rolle, Identitätsmerkmale, Beteiligungskette und Belege, Güter oder Dienstleistung, US-Bezug, Herkunft und Ziel, Zahlungsweg, Programm, Listenfundstelle und Prüfdatum",
+        "begründeter US-Sanktionsvermerk mit getrennten Befunden zu Reichweite und offenen Nachweisen sowie dem beauftragten Antwort-, Antrags- oder Vertragstext",
+    ),
+    "un-kaufrecht-cisg": (
+        "Welche Kaufpflicht ist streitig und wie hängen Lieferung, Zahlung, Mangel und maßgebliche Fristen zusammen?",
+        "Zeige die Kaufabwicklung von Vereinbarung und Leistungspflichten über Lieferung und Zahlung bis zu Untersuchung, Mangelanzeige und verlangtem Rechtsbehelf. Stelle streitige Tatsachen, Vertragsklauseln und Belege neben eine datierte Ereignisfolge.",
+        "Eine Auswahl auf Kaufpflicht, Klausel, Lieferung oder Mangel zeigt Beleg und Entwurfsabschnitt. Geänderte Datums- oder Vertragsannahmen als Szenario führen; Anwendbarkeit, Fristmaßstab und Rechtsbehelf erneut prüfen, bevor das verlangte Schreiben oder der Vertragsentwurf angepasst wird.",
+        "Vertragsfassung, Parteien und Rollen, Ware, Leistungspflicht, Liefer- und Zahlungsdaten, Untersuchungs- und Anzeigedaten, Mangelbefund, Quellenbeleg und maßgebliche Rechtsgrundlage",
+        "der beauftragte Kaufrechtsvermerk, die ausformulierte Mangelanzeige, Leistungsaufforderung, Vertragsänderung oder Verhandlungsantwort",
+    ),
 }
 
 
@@ -215,17 +246,19 @@ def remove_block(text: str) -> str:
     return result
 
 
-def route_text(slug: str, theme: str) -> str:
-    question, view, interaction, inputs, output = VIEWS[family_for(slug, theme)]
+def route_text(slug: str, theme: str, *, plain_labels: bool = False) -> str:
+    question, view, interaction, inputs, output = ROUTE_OVERRIDES.get(slug, VIEWS[family_for(slug, theme)])
     if slug in OVERRIDES:
         view, interaction = OVERRIDES[slug]
     label = LABEL_OVERRIDES.get(slug, PROFILE_BY_KEY[theme].label)
+    def caption(text: str) -> str:
+        return text if plain_labels else f"**{text}**"
     return (
-        f"**Leitfrage für {label}:** {question}\n\n"
-        f"**Erste Ansicht:** {view}\n\n"
-        f"**Sinnvolle Interaktion:** {interaction}\n\n"
-        f"**Datengrundlage:** {inputs}. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.\n\n"
-        f"**Weiter zum Ergebnis:** {output}. Die Ansicht ist ein Arbeitsmittel auf diesem Weg."
+        f"{caption(f'Leitfrage für {label}:')} {question}\n\n"
+        f"{caption('Erste Ansicht:')} {view}\n\n"
+        f"{caption('Sinnvolle Interaktion:')} {interaction}\n\n"
+        f"{caption('Datengrundlage:')} {inputs}. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.\n\n"
+        f"{caption('Weiter zum Ergebnis:')} {output}. Die Ansicht ist ein Arbeitsmittel auf diesem Weg."
     )
 
 
@@ -285,7 +318,7 @@ def block(text: str, slug: str, *, kind: str = "workshop", profiles: dict | None
     heading = f"## {number}. Verständlich arbeiten und sichtbar prüfen"
     if kind == "skill":
         body = (
-            SERVICE + "\n\n" + route_text(slug, entry["theme"]) + "\n\n"
+            SERVICE + "\n\n" + route_text(slug, entry["theme"], plain_labels=entry.get("plain_labels", False)) + "\n\n"
             "Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein "
             "Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. "
             "Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt "
@@ -299,10 +332,28 @@ def block(text: str, slug: str, *, kind: str = "workshop", profiles: dict | None
                 "Fehlerbehebungsschritt erklären. Keine bereits funktionierende Oberfläche allein zur Illustration nachbauen.\n\n"
                 f"Ergänzend die [lokalen Regeln zur verständlichen Begleitung](../../references/{REFERENCE}) verwenden."
             )
+        elif entry.get("skill_max_bytes") is not None:
+            body = (
+                "Erkläre Beteiligte, Vorgang und nächste Entscheidung kurz. "
+                + VIEWS[family_for(slug, entry["theme"])][1] + "\n\n"
+                "Bei Nutzen sofort visualisieren. Ein interaktives Applet nur mit tatsächlich verfügbaren, dokumentierten "
+                "Funktionen nutzen; sonst eine Tabelle oder Skizze liefern. Belege, Annahmen und fehlende Angaben trennen. "
+                "Auswahl mit Fundstellen verknüpfen und Änderungen im Entwurf fortführen; das bestellte Dokument vollständig liefern.\n\n"
+                f"Die [vollständigen lokalen Regeln für Darstellung und Fortsetzung](../../references/{REFERENCE}) anwenden. "
+                "Ohne Rückkanal die Auswahl als lesbaren Übernahmetext in den Chat geben. Keine nicht ausgeführte Funktion "
+                "behaupten; eine Auswahl erteilt keinen externen Auftrag."
+            )
     else:
-        body = "\n\n".join((SERVICE, route_text(slug, entry["theme"]), RUNTIME, QUALITY, CONTINUATION))
+        body = "\n\n".join((SERVICE, route_text(slug, entry["theme"], plain_labels=entry.get("plain_labels", False)), RUNTIME, QUALITY, CONTINUATION))
     # Ein einziges hinzugefügtes LF ist reversibel; Fachtext einschließlich Endzeilen bleibt bytegleich.
-    return original + "\n" + BEGIN + "\n" + heading + "\n\n" + body + "\n" + END + "\n"
+    result = original + "\n" + BEGIN + "\n" + heading + "\n\n" + body + "\n" + END + "\n"
+    if kind == "skill" and entry.get("skill_max_bytes") is not None:
+        limit = entry["skill_max_bytes"]
+        if type(limit) is not int or limit <= 0:
+            raise ValueError(f"Ungültiges Skill-Dateibudget: {slug}")
+        if len(result.encode("utf-8")) > limit:
+            raise ValueError(f"Skill überschreitet {limit} UTF-8-Bytes: {slug}; Fachtext wird nicht gekürzt")
+    return result
 
 
 def reference(slug: str, entry: dict) -> str:
@@ -314,5 +365,5 @@ def reference(slug: str, entry: dict) -> str:
                "Nur tatsächlich ausgeführte Verarbeitungsschritte und geprüfte Ausgaben bestätigen."
                if entry["mode"] == "app" else RUNTIME)
     return ("# Verständliche Arbeitsoberfläche\n\n" + app + SERVICE + "\n\n## 1. Fachliche Ansicht\n\n"
-            + route_text(slug, entry["theme"]) + "\n\n## 2. Verfügbare Fähigkeiten nutzen\n\n" + runtime
+            + route_text(slug, entry["theme"], plain_labels=entry.get("plain_labels", False)) + "\n\n## 2. Verfügbare Fähigkeiten nutzen\n\n" + runtime
             + "\n\n## 3. Belege und Bedienbarkeit\n\n" + QUALITY + "\n\n## 4. Den Auftrag abschließen\n\n" + CONTINUATION + "\n")

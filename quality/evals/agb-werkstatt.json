@@ -195,7 +195,7 @@
       "2026-10-16: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25"
     ],
-    "sha256": "1a6637c58f01a6bc615e0eeb1d9ea7e696864df3f080d33d89030380260a4940",
+    "sha256": "b7664065e10ec0322198a4296a2a934db258ff211f8611106a18eb91a57eac4a",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
     "previous_reviews": [
@@ -217,7 +217,7 @@
     "prompt_path": "agb-werkstatt/agb-werkstatt-hauptproblem.md",
     "skill_path": "agb-werkstatt/skills/agb-hauptproblem-loesen/SKILL.md",
     "prompt_sha256": "086b03889752a7dffbe8b277b7c18fa39d9331d52c8a2a04fcdf4fad716d6db6",
-    "skill_sha256": "6bfb6b7556d618d37685fffcc2968ac50e38df240545d547119b8cb505364e74"
+    "skill_sha256": "748aa35272bf08ea99152374350d991856eff341a4b91517ebd78ab23e3ba369"
   },
   "prompt_workflow_review": {
     "date": "2026-10-09",
