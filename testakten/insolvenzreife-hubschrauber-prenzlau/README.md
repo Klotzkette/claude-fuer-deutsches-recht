@@ -1,5 +1,9 @@
 # Hubschrauberbetrieb Prenzlau
 
+Uckerbogen Rotorcharter GmbH bietet mit 19 Beschäftigten private Charter- und Rundflüge vom fiktiven Sonderlandeplatz Uckerbogen bei Prenzlau an. Sechs Hubschrauber stehen im Betriebsplan, davon gehören vier einer Leasinggeberin. Vorreservierungen, Wartung, Leasing und eine zeitlich begrenzte Unterstützung der Gesellschafterin bestimmen den Finanzierungsbedarf.
+
+Die Akte enthält betriebliche Unterlagen, Buchhaltung, Bankauszüge und Korrespondenz. Dabei sind Kontoguthaben und frei verfügbares Geld ebenso auseinanderzuhalten wie Eigentum, geleaste Maschinen, Kundenforderungen und erwartete Buchungen. Die Prüfung beginnt mit den Originalunterlagen und ihrem jeweiligen Entstehungszeitpunkt.
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
@@ -14,8 +18,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzreife-hubschrauber-prenzlau_gesamt.pdf`](gesamt-pdf/insolvenzreife-hubschrauber-prenzlau_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.0.0/testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.1.0/testakte-insolvenzreife-hubschrauber-prenzlau-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
@@ -23,9 +27,9 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Ein regionaler Charterbetrieb setzt sechs Hubschrauber an einem erfundenen Sonderlandeplatz bei Prenzlau ein. Verfügbarkeit und Wert der Flotte, saisonale Erlöse und Finanzierung beeinflussen die Prüfung auf unterschiedlichen Zeithorizonten.
-
 ## 1. Arbeitsauftrag
+
+Öffnen Sie zunächst nur `Grundakte` im Originalformat-ZIP. Erstellen Sie aus den übergebenen Dateien ein Quellenverzeichnis, ordnen Sie zusammengehörende Belege zu und benennen Sie fehlende Unterlagen. Verfahrensdokumente aus `10_Verfahren` und die gesonderte Stichtagskontrolle können später hinzugezogen werden.
 
 Stimmen Sie die Kontoauszüge vom Juli 2024 bis Juni 2026 mit dem Buchungsjournal ab. Rekonstruieren Sie die verfügbaren Mittel, die fälligen Zahlungen und die Bewegungen im Dreiwochenzeitraum an den in den Unterlagen benannten Tagen. Stellen Sie daneben die Zwölfmonatsprognose und den Verwertungsstatus auf. Halten Sie je Insolvenzgrund den ersten belastbaren Befund fest und begründen Sie, welche Nachweise eine frühere Datierung tragen würden.
 
@@ -35,6 +39,10 @@ Stimmen Sie die Kontoauszüge vom Juli 2024 bis Juni 2026 mit dem Buchungsjourna
 - `01_Bank` enthält 24 monatliche Auszüge mit fortlaufendem Saldo.
 - `02_Buchhaltung` enthält Buchungsjournal, offene Posten, Finanzierungsdaten und datierte Bestands- und Planunterlagen.
 - `03_Korrespondenz` enthält E-Mails und Schriftverkehr mit Geschäftspartnern, Banken und Beratern.
+- `04_Originalbelege` enthält einzelne Rechnungen und zugehörige Belege.
+- `05_Betrieb` enthält Auftrags-, Liefer- und andere betriebliche Unterlagen.
+- `06_Finanzierung` und `07_Vermoegen` enthalten Unterlagen zu Finanzierung, Sicherheiten, Eigentum und Wertansätzen.
+- `08_Uebergabe` enthält den Eingang aus dem Unternehmen mit noch offenen Unterlagenanforderungen.
 - `10_Verfahren` enthält Fremdantrag, gerichtliche Zwischenentscheidung, kurze Eröffnungsmitteilung und vollständigen Eröffnungsbeschluss.
 
 <!-- reserved-example-contacts -->

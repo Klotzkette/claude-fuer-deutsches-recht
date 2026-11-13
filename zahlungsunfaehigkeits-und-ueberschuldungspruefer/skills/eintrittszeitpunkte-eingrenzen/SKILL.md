@@ -21,13 +21,21 @@ Verwende die Einzelrechnungen, Erklärungen, Prognoseversionen, Bewertungsunterl
 4. Bei Sanierungsmaßnahme den Eintritt der Bedingung, tatsächliche Liquidität, fortbestehende Rückstände und dauerhafte Beseitigung des jeweiligen Insolvenzgrundes belegen. Rechne nach einer tragfähigen Gegenprobe auch den möglichen Neueintritt.
 5. Halte objektive Insolvenzreife, individuelle Erkennbarkeit, Antragspflicht und Anfechtungsmerkmale auf getrennten Zeilen. Für § 15a InsO die Höchstfristen von drei und sechs Wochen vom objektiven Eintritt unterscheiden und die Pflicht zur Antragstellung ohne schuldhaftes Zögern beachten.
 
+6. Vermeide einen exakten „Eintrittstag“ allein aus einer groben Monatsreihe oder einem im Antrag genannten Datum. Bezeichne das Datum als frühesten im untersuchten Material belegten Stichtag, solange ein früherer Eintritt nicht ausgeschlossen ist. Trenne das Ende eines nachgewiesenen zahlungsfähigen Abschnitts vom ersten bloß datenarmen Tag.
+7. Spätere Verwertungserlöse, Zeugenauskünfte und nachträgliche Kontoauszüge sind neue Erkenntnisquellen. Prüfe, welchen früheren Zustand sie tatsächlich belegen. Ein späterer Verkaufsdruck darf nicht ohne sachlichen Grund in einen früheren Überschuldungsstatus zurückgerechnet werden. Gleiche bei Nachlieferungen die betroffenen Zeitabschnitte ab und erhalte nachvollziehbare Vorfassungen.
 ## 1.4. Quellenpflicht
 
-§§ 15a, 15b, 17, 19 und 27 InsO. BGH II ZR 112/21 Rn. 12–17 zum taggenauen Nachweis, BGH II ZR 84/20 Rn. 68–71 zur stichtagsbezogenen Prognose. Die [amtliche Quellenübersicht](../../references/insolvenzreife-quellen.md) führt zu Normen und Volltexten. Zitiere nur fallbezogen geprüfte Fundstellen und nenne Belegdatei und Stelle für jede entscheidende Tatsache.
+Prüfe §§ 15a, 15b, 17, 19 und 27 InsO. Die Entscheidungen tragen taggenauen Nachweis, damalige Prognose und Grenzen der Rückübertragung späterer Verwertungserlöse.
+
+- [BGH, Beschluss vom 28. April 2026 – Az. II ZR 40/25, Rn. 14–20](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__40-25.pdf?__blob=publicationFile&v=1).
+- [BGH, Urteil vom 28. Juni 2022 – Az. II ZR 112/21, Rn. 12–17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1).
+- [BGH, Urteil vom 13. Juli 2021 – Az. II ZR 84/20, Rn. 68–71](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1).
+
+Die [amtliche Quellenübersicht](../../references/insolvenzreife-quellen.md) ordnet die Volltexte und ihre Grenzen ein. Zitiere nur fallbezogen geprüfte Fundstellen. Nenne für jede entscheidende Tatsache die Belegdatei und genaue Stelle.
 
 ## 1.5. Ausgabeformat
 
-Liefere je Insolvenzgrund Vergleichstage mit Summe, Ereignis, Beleg, Ergebnis und Gegenargument. Begründe den Zeitraum und benenne ausdrücklich den frühesten belastbar belegten Tag. Sind zwei Gründe unterschiedlich gut belegt, nenne das für jeden. Liefere den Vermerk in vollständigen Sätzen und mit dezimaler Gliederung. Für formatierten Export verwende soweit technisch möglich Times New Roman, 11 pt.
+Liefere je Insolvenzgrund Vergleichstage mit Summe, Ereignis, Beleg, Ergebnis und Gegenargument. Begründe den Zeitraum und benenne ausdrücklich den frühesten belastbar belegten Tag. Sind zwei Gründe unterschiedlich gut belegt, nenne das für jeden. Liefere den Vermerk gemäß der Ausformulierungspflicht in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungen ersetzen kein Endprodukt. Der Formatstandard ist Times New Roman, 11 pt, soweit technisch möglich, mit ausschließlich dezimaler Gliederung. Die Quellenprüfung folgt den im Repository geltenden Regeln aus `references/zitierweise.md`: verifizierte Rechtsprechung mit Datum, Aktenzeichen und genauer Stelle, Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle.
 
 ## 1.6. Beispiel
 

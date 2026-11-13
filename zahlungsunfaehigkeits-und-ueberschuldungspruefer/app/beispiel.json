@@ -9,7 +9,8 @@
           "result": "negative",
           "through": "2026-03-15",
           "source": "E-10, Liquiditätsplan Blatt 1 und Bankenbrief E-11",
-          "reason": "Im Finanzplan besteht am 15.03.2026 ein ungedeckter Bedarf. Die Bank hat die einzige geplante Anschlussfinanzierung abgelehnt."
+          "reason": "Im Finanzplan besteht am 15.03.2026 ein ungedeckter Bedarf. Die Bank hat die einzige geplante Anschlussfinanzierung abgelehnt.",
+          "failureOn": "2026-03-15"
         },
         "assets": [
           {

@@ -3,8 +3,9 @@ const WINDOW_DAYS = 21
 
 const decisions = ['include', 'exclude', 'open']
 const closureResults = ['established', 'not_established', 'open']
-const trendResults = ['worsening_to_threshold', 'not_expected', 'open']
+const trendResults = ['worsening_above_threshold', 'not_expected', 'open']
 const forecasts = ['positive', 'negative', 'open']
+const cessationResults = ['established', 'rebutted', 'open']
 
 const labels = {
   open: 'Befund offen',
@@ -12,9 +13,11 @@ const labels = {
   covered_in_window: 'Rechnerische Deckung im Dreiwochenfenster',
   zu_candidate: 'Stichtag spricht für Zahlungsunfähigkeit',
   zu_candidate_worsening: 'Stichtag spricht wegen absehbarer Verschlechterung für Zahlungsunfähigkeit',
+  zu_candidate_cessation: 'Zahlungsunfähigkeit aufgrund der erfassten Zahlungseinstellung vermutet',
+  conflicting_evidence: 'Rechnung und Würdigung der Zahlungseinstellung widersprechen sich',
   near_closure_exception: 'Belegte Ausnahme trotz Lücke von mindestens zehn Prozent',
   near_closure_open: 'Ausnahme wegen kurzfristiger Schließung noch zu prüfen',
-  below_threshold: 'Restlücke unter zehn Prozent und kein absehbares Anwachsen auf die Schwelle',
+  below_threshold: 'Restlücke unter zehn Prozent und kein absehbares Anwachsen auf mehr als zehn Prozent',
   below_threshold_open: 'Restlücke unter zehn Prozent, Entwicklung offen',
   positive_forecast: 'Belegte positive Fortbestehensprognose',
   assets_cover: 'Vermögen deckt Verbindlichkeiten zu den angesetzten Werten',
@@ -102,7 +105,7 @@ function readRows(value, path, timing = null) {
       amountCents: cents(row.amountCents, `${at}.amountCents`, open),
       decision,
       source,
-      reason: string(row.reason, `${at}.reason`, { optional: true }),
+      reason: string(row.reason, `${at}.reason`, { optional: decision !== 'exclude' }),
     }
     if (timing === 'availableOn') result.kind = choice(row.kind, ['cash', 'inflow'], `${at}.kind`)
     if (timing) result.day = date(row[timing], `${at}.${timing}`, open)
@@ -125,6 +128,23 @@ function assessment(value, options, path) {
 function notes(value, path) {
   if (value === undefined) return []
   return list(value, path).map((note, index) => string(note, `${path}[${index}]`))
+}
+
+function evidenceInventory(value, path, scopes) {
+  if (value === undefined) return []
+  const ids = new Set()
+  return list(value, path).map((item, index) => {
+    const at = `${path}[${index}]`
+    const entry = record(item, at)
+    const id = string(entry.id, `${at}.id`)
+    if (ids.has(id)) throw new Error(`${at}.id: Doppelte Unterlage ${id}.`)
+    ids.add(id)
+    const state = choice(entry.status, ['present', 'partial', 'missing'], `${at}.status`)
+    return { id, description: string(entry.description, `${at}.description`), status: state,
+      scope: choice(entry.scope ?? 'positions', scopes, `${at}.scope`),
+      source: string(entry.source, `${at}.source`, { optional: state !== 'present' }),
+      reason: string(entry.reason, `${at}.reason`, { optional: state === 'present' }) }
+  })
 }
 
 function safeSum(a, b) {
@@ -154,11 +174,11 @@ function liquidityStatus(totals, missing, nearClosure, gapTrend) {
     return status('covered_in_window', 'Die belegten Mittel decken die Pflichten im Dreiwochenfenster. Prüfen Sie bei Widersprüchen den tagesgenauen Verlauf und Belege für eine Zahlungseinstellung.')
   }
   if (!thresholdMet) {
-    if (gapTrend.result === 'worsening_to_threshold') {
+    if (gapTrend.result === 'worsening_above_threshold') {
       return status('zu_candidate_worsening', gapTrend.reason)
     }
     if (gapTrend.result === 'not_expected') return status('below_threshold', gapTrend.reason)
-    return status('below_threshold_open', 'Prüfen Sie, ob ein zeitnahes Anwachsen der Restlücke auf mindestens zehn Prozent absehbar war.')
+    return status('below_threshold_open', 'Prüfen Sie, ob ein demnächst zu erwartendes Anwachsen der Restlücke auf mehr als zehn Prozent absehbar war.')
   }
   if (nearClosure.result === 'established') return status('near_closure_exception', nearClosure.reason)
   if (nearClosure.result === 'not_established') return status('zu_candidate', nearClosure.reason)
@@ -167,13 +187,28 @@ function liquidityStatus(totals, missing, nearClosure, gapTrend) {
 
 function calculateLiquidity(input, day, path) {
   const section = record(input, path)
-  const complete = boolean(section.complete, `${path}.complete`)
+  const declaredComplete = boolean(section.complete, `${path}.complete`)
+  const evidence = evidenceInventory(section.evidence, `${path}.evidence`, ['positions'])
+  const missingEvidence = evidence.filter(row => row.status !== 'present')
+  const complete = declaredComplete && !missingEvidence.length
   const horizon = day + WINDOW_DAYS
   const totals = { A1: 0, P1: 0, A2: 0, P2: 0 }
   const daily = Array.from({ length: WINDOW_DAYS + 1 }, () => ({ assetsCents: 0, liabilitiesCents: 0 }))
   const missing = complete ? [] : ['Die Erfassung des Dreiwochenfensters ist unvollständig.']
+  if (missingEvidence.length) missing.push(`Fehlende oder unvollständige Unterlagen: ${missingEvidence.map(row => row.id).join(', ')}.`)
   const nearClosure = assessment(section.nearClosure, closureResults, `${path}.nearClosure`)
   const gapTrend = assessment(section.gapTrend, trendResults, `${path}.gapTrend`)
+  const paymentCessation = assessment(section.paymentCessation, cessationResults, `${path}.paymentCessation`)
+  paymentCessation.counterEvidence = string(section.paymentCessation?.counterEvidence,
+    `${path}.paymentCessation.counterEvidence`, { optional: paymentCessation.result === 'open' })
+  paymentCessation.externalConduct = string(section.paymentCessation?.externalConduct,
+    `${path}.paymentCessation.externalConduct`, { optional: paymentCessation.result !== 'established' })
+  const cessationDay = date(section.paymentCessation?.establishedOn,
+    `${path}.paymentCessation.establishedOn`, paymentCessation.result !== 'established')
+  if (cessationDay !== null && cessationDay > day) {
+    throw new Error(`${path}.paymentCessation.establishedOn: Ein erst später nach außen getretenes Verhalten belegt am Stichtag noch keine Zahlungseinstellung.`)
+  }
+  paymentCessation.establishedOn = cessationDay === null ? null : isoDay(cessationDay)
   const items = ['assets', 'liabilities'].flatMap((side) => {
     const asset = side === 'assets'
     const timing = asset ? 'availableOn' : 'dueOn'
@@ -214,9 +249,23 @@ function calculateLiquidity(input, day, path) {
     return { date: isoDay(day + index), ...flow, cumulativeAssetsCents: available,
       cumulativeLiabilitiesCents: due, gapCents: Math.max(0, due - available) }
   })
+  const arithmetic = liquidityStatus(totals, missing, nearClosure, gapTrend)
+  let finding = arithmetic
+  const arithmeticCandidate = ['zu_candidate', 'zu_candidate_worsening'].includes(arithmetic.result)
+  const arithmeticContrary = ['covered_on_date', 'covered_in_window', 'near_closure_exception', 'below_threshold'].includes(arithmetic.result)
+  if ((paymentCessation.result === 'established' && arithmeticContrary)
+      || (paymentCessation.result === 'rebutted' && arithmeticCandidate)) {
+    finding = status('conflicting_evidence', 'Die Angaben tragen gegenläufige Befunde. Prüfen Sie insbesondere Vollständigkeit, tatsächliche Verfügbarkeit, Stichtagsbezug und Wiederaufnahme der Zahlungen. Bis zur Klärung wird kein Zahlungsunfähigkeitskandidat aus diesem Stichtag abgeleitet.')
+  } else if (paymentCessation.result === 'established') {
+    finding = status('zu_candidate_cessation', paymentCessation.reason)
+  }
   return {
-    ...liquidityStatus(totals, missing, nearClosure, gapTrend),
+    ...finding,
+    arithmetic,
+    paymentCessation,
     complete,
+    declaredComplete,
+    evidence,
     windowThrough: isoDay(horizon),
     totals,
     items,
@@ -229,8 +278,23 @@ function calculateLiquidity(input, day, path) {
 
 function calculateOverindebtedness(input, day, path) {
   const section = record(input, path)
-  const complete = boolean(section.complete, `${path}.complete`)
-  const requiredThrough = oneYearAfter(day)
+  const declaredComplete = boolean(section.complete, `${path}.complete`)
+  const evidence = evidenceInventory(section.evidence, `${path}.evidence`, ['positions', 'forecast'])
+  const missingPositionEvidence = evidence.filter(row => row.scope === 'positions' && row.status !== 'present')
+  const missingForecastEvidence = evidence.filter(row => row.scope === 'forecast' && row.status !== 'present')
+  const complete = declaredComplete && !missingPositionEvidence.length
+  let requiredThrough = day >= date('2024-01-01', 'Rechtsstand') ? oneYearAfter(day) : null
+  let periodSource = requiredThrough === null ? 'Historischer Prognosezeitraum noch nicht belegt'
+    : '§ 19 Abs. 2 Satz 1 InsO, Zwölfmonatshorizont ab 2024'
+  let periodReason = 'Für frühere Stichtage müssen Fassung und Sonderrecht gesondert belegt werden.'
+  if (section.historicalPeriod !== undefined) {
+    if (requiredThrough !== null) throw new Error(`${path}.historicalPeriod: Ein historischer Zeitraum ist nur für Stichtage vor 2024 zulässig.`)
+    const period = record(section.historicalPeriod, `${path}.historicalPeriod`)
+    requiredThrough = date(period.through, `${path}.historicalPeriod.through`)
+    if (requiredThrough <= day) throw new Error(`${path}.historicalPeriod.through: Das Ende des rechtlich geprüften Prognosezeitraums muss nach dem Stichtag liegen.`)
+    periodSource = string(period.source, `${path}.historicalPeriod.source`)
+    periodReason = string(period.reason, `${path}.historicalPeriod.reason`)
+  }
   const forecast = assessment(section.forecast, forecasts, `${path}.forecast`)
   const forecastDay = date(section.forecast?.through, `${path}.forecast.through`, forecast.result === 'open')
   const failureDay = date(section.forecast?.failureOn, `${path}.forecast.failureOn`, true)
@@ -240,7 +304,7 @@ function calculateOverindebtedness(input, day, path) {
   if (failureDay !== null && (forecast.result !== 'negative' || failureDay < day || failureDay > forecastDay)) {
     throw new Error(`${path}.forecast.failureOn: Der belegte Abbruch muss innerhalb der negativen Prognose liegen.`)
   }
-  const effectiveFailureDay = forecast.result === 'negative' ? (failureDay ?? forecastDay) : null
+  const effectiveFailureDay = forecast.result === 'negative' ? failureDay : null
   const items = ['assets', 'liabilities'].flatMap((side) =>
     readRows(section[side], `${path}.${side}`).map(row => ({ ...row, side })),
   )
@@ -252,27 +316,37 @@ function calculateOverindebtedness(input, day, path) {
   const uncoveredCents = Math.max(0, liabilitiesCents - assetsCents)
   const openRows = items.filter(row => row.decision === 'open')
   let finding
-  if (forecast.result === 'positive' && forecastDay >= requiredThrough) {
+  if (requiredThrough === null) {
+    finding = status('open', 'Für einen Stichtag vor 2024 ist der maßgebliche Prognosezeitraum unter Berücksichtigung der damaligen Gesetzesfassung und des Sonderrechts zu belegen. Die aktuelle Zwölfmonatsregel wird nicht automatisch übertragen.')
+  } else if (forecast.result === 'positive' && forecastDay >= requiredThrough && !missingForecastEvidence.length) {
     finding = status('positive_forecast', forecast.reason)
   } else if (!complete || openRows.length) {
-    const gaps = openRows.length ? `Offene Positionen: ${openRows.map(row => row.id).join(', ')}.` : ''
+    const gaps = [openRows.length ? `Offene Positionen: ${openRows.map(row => row.id).join(', ')}.` : '',
+      missingPositionEvidence.length ? `Fehlende oder unvollständige Unterlagen: ${missingPositionEvidence.map(row => row.id).join(', ')}.` : ''].filter(Boolean).join(' ')
     finding = status('open', `Die Vermögensdeckung ist noch nicht vollständig belegt. ${gaps}`.trim())
   } else if (uncoveredCents === 0) {
     finding = status('assets_cover', 'Der Status ergibt zu den belegten Ansätzen keine Unterdeckung.')
+  } else if (missingForecastEvidence.length) {
+    finding = status('open', `Die Fortbestehensprognose ist trotz der eingegebenen Bewertung nicht vollständig belegt. Fehlende oder unvollständige Unterlagen: ${missingForecastEvidence.map(row => row.id).join(', ')}.`)
   } else if (effectiveFailureDay !== null && effectiveFailureDay <= requiredThrough) {
     finding = status('ue_candidate', forecast.reason)
   } else {
     let detail = 'Die belegte Unterdeckung genügt bei offener Fortbestehensprognose noch nicht für einen Befund.'
     if (forecast.result === 'positive') detail = `Die positive Prognose deckt den Zeitraum bis ${isoDay(requiredThrough)} nicht ab.`
-    if (forecast.result === 'negative') detail = `Der angegebene Finanzierungsabbruch liegt nach dem Prognosehorizont bis ${isoDay(requiredThrough)}.`
+    if (forecast.result === 'negative') detail = effectiveFailureDay === null
+      ? 'Der konkrete Zeitpunkt des erwarteten Finanzierungsabbruchs fehlt. Das Ende der Planung wird nicht als Ausfalltag unterstellt.'
+      : `Der angegebene Finanzierungsabbruch liegt nach dem Prognosehorizont bis ${isoDay(requiredThrough)}.`
     finding = status('open', detail)
   }
   return {
     ...finding,
     complete,
+    declaredComplete,
+    evidence,
+    period: { through: requiredThrough === null ? null : isoDay(requiredThrough), source: periodSource, reason: periodReason },
     totals: { assetsCents, liabilitiesCents, uncoveredCents, netAssetsCents: assetsCents - liabilitiesCents },
     forecast: { ...forecast, through: forecastDay === null ? null : isoDay(forecastDay),
-      failureOn: effectiveFailureDay === null ? null : isoDay(effectiveFailureDay), requiredThrough: isoDay(requiredThrough) },
+      failureOn: effectiveFailureDay === null ? null : isoDay(effectiveFailureDay), requiredThrough: requiredThrough === null ? null : isoDay(requiredThrough) },
     items,
     notes: notes(section.notes, `${path}.notes`),
   }
@@ -319,9 +393,9 @@ export function analyzeCase(input) {
   if (!results.length) throw new Error('dates: Mindestens ein Stichtag ist erforderlich.')
   return {
     caseName,
-    interpretation: 'Kandidaten sind die frühesten stützenden geprüften Stichtage. Dazwischenliegende und frühere Tage sind separat anhand der Belege zu prüfen.',
+    interpretation: 'Kandidaten sind die frühesten stützenden geprüften Stichtage unter den eingegebenen Beleg- und Rechtsbewertungen. Der Rechner prüft weder die Originaldateien noch die Richtigkeit dieser Bewertungen. Dazwischenliegende und frühere Tage sind separat anhand der Belege zu prüfen. Ein fehlender Kandidat beweist keine Zahlungsfähigkeit.',
     firstCandidate: {
-      liquidity: earliestCandidate(results, 'liquidity', ['zu_candidate', 'zu_candidate_worsening']),
+      liquidity: earliestCandidate(results, 'liquidity', ['zu_candidate', 'zu_candidate_worsening', 'zu_candidate_cessation']),
       overindebtedness: earliestCandidate(results, 'overindebtedness', ['ue_candidate']),
     },
     results,

@@ -7955,7 +7955,7 @@
                   "through": "2027-03-16",
                   "source": "CB-PLAN-2026-03-16",
                   "failureOn": "2026-10-31",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-10 von 16.232,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-10 von 16.232,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             },
@@ -7983,7 +7983,8 @@
                     "kind": "cash",
                     "amountCents": 9000000,
                     "availableOn": "2026-05-10",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Verlängerung wurde lediglich beantragt. Ohne Zusage des Kreditkomitees stehen die weiteren Mittel am Stichtag nicht zum Abruf bereit."
                   },
                   {
                     "id": "CB-PAT-01",
@@ -7992,7 +7993,8 @@
                     "kind": "cash",
                     "amountCents": 33000000,
                     "availableOn": "2026-05-10",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Holding erklärt nur ihre Unterstützungsabsicht. Ein durchsetzbares Zahlungsversprechen und eine konkrete kurzfristige Auszahlung sind nicht belegt."
                   },
                   {
                     "id": "CB-DEB-01",
@@ -8010,7 +8012,8 @@
                     "kind": "inflow",
                     "amountCents": 8500000,
                     "availableOn": "2026-05-29",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Abnahme des Prototyps ist streitig. Der Korrespondenz lässt sich kein im Dreiwochenfenster tatsächlich realisierbarer Zufluss entnehmen."
                   }
                 ],
                 "liabilities": [
@@ -8109,7 +8112,8 @@
                     "kind": "cash",
                     "amountCents": 9000000,
                     "availableOn": "2026-05-11",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Verlängerung wurde lediglich beantragt. Ohne Zusage des Kreditkomitees stehen die weiteren Mittel am Stichtag nicht zum Abruf bereit."
                   },
                   {
                     "id": "CB-PAT-01",
@@ -8118,7 +8122,8 @@
                     "kind": "cash",
                     "amountCents": 33000000,
                     "availableOn": "2026-05-11",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Holding erklärt nur ihre Unterstützungsabsicht. Ein durchsetzbares Zahlungsversprechen und eine konkrete kurzfristige Auszahlung sind nicht belegt."
                   },
                   {
                     "id": "CB-DEB-01",
@@ -8136,7 +8141,8 @@
                     "kind": "inflow",
                     "amountCents": 8500000,
                     "availableOn": "2026-05-29",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Abnahme des Prototyps ist streitig. Der Korrespondenz lässt sich kein im Dreiwochenfenster tatsächlich realisierbarer Zufluss entnehmen."
                   },
                   {
                     "id": "CB-DEB-02",
@@ -8338,7 +8344,7 @@
                   "through": "2027-05-11",
                   "source": "CB-PLAN-2026-05-11",
                   "failureOn": "2026-05-31",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 155.226,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 155.226,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             },
@@ -8366,7 +8372,8 @@
                     "kind": "cash",
                     "amountCents": 9000000,
                     "availableOn": "2026-06-01",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Verlängerung wurde lediglich beantragt. Ohne Zusage des Kreditkomitees stehen die weiteren Mittel am Stichtag nicht zum Abruf bereit."
                   },
                   {
                     "id": "CB-PAT-01",
@@ -8375,7 +8382,8 @@
                     "kind": "cash",
                     "amountCents": 33000000,
                     "availableOn": "2026-06-01",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Holding erklärt nur ihre Unterstützungsabsicht. Ein durchsetzbares Zahlungsversprechen und eine konkrete kurzfristige Auszahlung sind nicht belegt."
                   },
                   {
                     "id": "CB-DEB-03",
@@ -8492,7 +8500,8 @@
                     "kind": "cash",
                     "amountCents": 9000000,
                     "availableOn": "2026-06-15",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Verlängerung wurde lediglich beantragt. Ohne Zusage des Kreditkomitees stehen die weiteren Mittel am Stichtag nicht zum Abruf bereit."
                   },
                   {
                     "id": "CB-PAT-01",
@@ -8501,7 +8510,8 @@
                     "kind": "cash",
                     "amountCents": 33000000,
                     "availableOn": "2026-06-15",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Holding erklärt nur ihre Unterstützungsabsicht. Ein durchsetzbares Zahlungsversprechen und eine konkrete kurzfristige Auszahlung sind nicht belegt."
                   },
                   {
                     "id": "CB-DEB-04",
@@ -8728,7 +8738,7 @@
                   "through": "2027-06-15",
                   "source": "CB-PLAN-2026-06-15",
                   "failureOn": "2026-06-30",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 208.850,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 208.850,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             }
@@ -16265,7 +16275,8 @@
                     "kind": "cash",
                     "amountCents": 24000000,
                     "availableOn": "2026-04-19",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
                   },
                   {
                     "id": "BZ-DEB-01",
@@ -16283,7 +16294,8 @@
                     "kind": "inflow",
                     "amountCents": 7400000,
                     "availableOn": "2026-05-05",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Der Nachtrag ist nicht freigegeben. Ein realisierbarer Zahlungseingang innerhalb des Dreiwochenfensters ist nicht belegt."
                   }
                 ],
                 "liabilities": [
@@ -16355,7 +16367,8 @@
                     "kind": "cash",
                     "amountCents": 24000000,
                     "availableOn": "2026-04-20",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
                   },
                   {
                     "id": "BZ-DEB-01",
@@ -16373,7 +16386,8 @@
                     "kind": "inflow",
                     "amountCents": 7400000,
                     "availableOn": "2026-05-05",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Der Nachtrag ist nicht freigegeben. Ein realisierbarer Zahlungseingang innerhalb des Dreiwochenfensters ist nicht belegt."
                   },
                   {
                     "id": "BZ-DEB-02",
@@ -16498,7 +16512,8 @@
                     "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
                     "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
                     "amountCents": 18500000,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
                   },
                   {
                     "id": "BZ-GEW-01",
@@ -16541,7 +16556,7 @@
                   "through": "2027-04-20",
                   "source": "BZ-PLAN-2026-04-20",
                   "failureOn": "2026-04-30",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-04 von 87.367,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-04 von 87.367,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             },
@@ -16569,7 +16584,8 @@
                     "kind": "cash",
                     "amountCents": 1500000,
                     "availableOn": "2026-05-11",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Kreditlaufzeit ist beendet. Eine verbindliche Fortsetzung oder zusätzliche Abrufmöglichkeit ist nicht dokumentiert."
                   },
                   {
                     "id": "BZ-PAT-01",
@@ -16578,7 +16594,8 @@
                     "kind": "cash",
                     "amountCents": 24000000,
                     "availableOn": "2026-05-11",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
                   },
                   {
                     "id": "BZ-DEB-03",
@@ -16712,7 +16729,8 @@
                     "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
                     "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
                     "amountCents": 18500000,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
                   },
                   {
                     "id": "BZ-GEW-01",
@@ -16769,7 +16787,7 @@
                   "through": "2027-05-17",
                   "source": "BZ-PLAN-2026-05-17",
                   "failureOn": "2026-05-31",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 52.500,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 52.500,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             },
@@ -16823,7 +16841,8 @@
                     "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
                     "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
                     "amountCents": 18500000,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
                   },
                   {
                     "id": "BZ-GEW-01",
@@ -16880,7 +16899,7 @@
                   "through": "2027-05-18",
                   "source": "BZ-PLAN-2026-05-18",
                   "failureOn": "2026-05-31",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 51.400,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 51.400,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             },
@@ -16908,7 +16927,8 @@
                     "kind": "cash",
                     "amountCents": 1500000,
                     "availableOn": "2026-06-18",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Kreditlaufzeit ist beendet. Eine verbindliche Fortsetzung oder zusätzliche Abrufmöglichkeit ist nicht dokumentiert."
                   },
                   {
                     "id": "BZ-PAT-01",
@@ -16917,7 +16937,8 @@
                     "kind": "cash",
                     "amountCents": 24000000,
                     "availableOn": "2026-06-18",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Erklärung eröffnet weitere Gespräche, enthält aber keine verbindliche und kurzfristig erfüllbare Finanzierungszusage."
                   },
                   {
                     "id": "BZ-DEB-07",
@@ -17046,7 +17067,8 @@
                     "description": "Gesellschafterdarlehen samt aufgelaufenen Zinsen",
                     "source": "BZ-NR-01 · Unterzeichneter Nachtrag vom 10.04.2026 mit Rangregel und Durchsetzungssperre",
                     "amountCents": 18500000,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Der am 10.04.2026 unterzeichnete Nachtrag ordnet den Darlehensanspruch einschließlich Zinsen hinter sämtliche Forderungen nach § 39 Abs. 1 Nr. 1 bis 5 InsO ein. Der Anspruch wird deshalb in diesem §-19-Status nicht angesetzt."
                   },
                   {
                     "id": "BZ-GEW-01",
@@ -17110,7 +17132,7 @@
                   "through": "2027-06-18",
                   "source": "BZ-PLAN-2026-06-18",
                   "failureOn": "2026-06-30",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 106.220,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 106.220,00 EUR. Die Kundenfreigaben und das Stahlgespräch ergeben keine finanzierte Fortführung. Die Monatswerte enthalten Lohn und Material sowie die dokumentierte Belastung aus der Stahlrechnung in der ersten Periode. Die Vergleichszahlen nach dem Hallenabschlag bleiben ohne Annahme eines kurzfristigen Verkaufs. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             }
@@ -19818,7 +19840,7 @@
         {
           "date": "2026-05-15",
           "id": "PR-CAPEX-01-BK",
-          "counterparty": "Luftwert Versicherungsmakler GmbH",
+          "counterparty": "Luftwert Flugtechnik GmbH",
           "description": "Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
           "amount_cents": -3280000,
           "ledger_account": "1200 / 1600",
@@ -22247,7 +22269,7 @@
         },
         {
           "id": "PR-CAPEX-01",
-          "creditor": "Luftwert Versicherungsmakler GmbH",
+          "creditor": "Luftwert Flugtechnik GmbH",
           "description": "Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
           "arose_on": "2025-12-18",
           "due_on": "2026-05-15",
@@ -23583,7 +23605,7 @@
             },
             {
               "id": "PR-CAPEX-01",
-              "item": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+              "item": "Luftwert Flugtechnik GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
               "amount_cents": 3280000,
               "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK"
             },
@@ -23835,7 +23857,7 @@
             },
             {
               "id": "PR-CAPEX-01",
-              "item": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+              "item": "Luftwert Flugtechnik GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
               "amount_cents": 3280000,
               "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK"
             },
@@ -24898,7 +24920,8 @@
                     "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
                     "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
                     "amountCents": 0,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
                   },
                   {
                     "id": "PR-INV-03",
@@ -24946,7 +24969,7 @@
                   },
                   {
                     "id": "PR-CAPEX-01",
-                    "description": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+                    "description": "Luftwert Flugtechnik GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
                     "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK",
                     "amountCents": 3280000,
                     "decision": "include"
@@ -25002,7 +25025,8 @@
                     "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
                     "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
                     "amountCents": 0,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
                   },
                   {
                     "id": "PR-INV-03",
@@ -25050,7 +25074,7 @@
                   },
                   {
                     "id": "PR-CAPEX-01",
-                    "description": "Luftwert Versicherungsmakler GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
+                    "description": "Luftwert Flugtechnik GmbH · Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025",
                     "source": "PR-CAPEX-01 und Bank · PR-CAPEX-01-BK",
                     "amountCents": 3280000,
                     "decision": "include"
@@ -25075,7 +25099,7 @@
                   "through": "2027-05-04",
                   "source": "PR-PLAN-2026-05-04",
                   "failureOn": "2026-09-30",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-09 von 19.032,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-09 von 19.032,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             },
@@ -25103,7 +25127,8 @@
                     "kind": "cash",
                     "amountCents": 7500000,
                     "availableOn": "2026-05-17",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Linie ist bereits vollständig in Anspruch genommen. Der nominelle Rahmen schafft keine zusätzliche freie Liquidität."
                   },
                   {
                     "id": "PR-PAT-02",
@@ -25112,7 +25137,8 @@
                     "kind": "cash",
                     "amountCents": 36000000,
                     "availableOn": "2026-05-17",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
                   },
                   {
                     "id": "PR-DEB-01",
@@ -25139,7 +25165,8 @@
                     "kind": "inflow",
                     "amountCents": 8700000,
                     "availableOn": "2026-06-02",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die vorsorgliche Kontingentabrechnung wurde widerrufen. Ein auf dieser Rechnung beruhender Zahlungseingang im Dreiwochenfenster ist nicht belegt."
                   }
                 ],
                 "liabilities": [
@@ -25267,7 +25294,8 @@
                     "kind": "cash",
                     "amountCents": 7500000,
                     "availableOn": "2026-05-18",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Linie ist bereits vollständig in Anspruch genommen. Der nominelle Rahmen schafft keine zusätzliche freie Liquidität."
                   },
                   {
                     "id": "PR-PAT-02",
@@ -25276,7 +25304,8 @@
                     "kind": "cash",
                     "amountCents": 36000000,
                     "availableOn": "2026-05-18",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
                   },
                   {
                     "id": "PR-DEB-01",
@@ -25303,7 +25332,8 @@
                     "kind": "inflow",
                     "amountCents": 8700000,
                     "availableOn": "2026-06-02",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die vorsorgliche Kontingentabrechnung wurde widerrufen. Ein auf dieser Rechnung beruhender Zahlungseingang im Dreiwochenfenster ist nicht belegt."
                   },
                   {
                     "id": "PR-DEB-03",
@@ -25429,7 +25459,8 @@
                     "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
                     "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
                     "amountCents": 0,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
                   },
                   {
                     "id": "PR-INV-03",
@@ -25544,7 +25575,7 @@
                   "through": "2027-05-18",
                   "source": "PR-PLAN-2026-05-18",
                   "failureOn": "2026-05-31",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 89.545,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 89.545,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             },
@@ -25583,7 +25614,8 @@
                     "kind": "cash",
                     "amountCents": 7500000,
                     "availableOn": "2026-05-26",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die Linie ist bereits vollständig in Anspruch genommen. Der nominelle Rahmen schafft keine zusätzliche freie Liquidität."
                   },
                   {
                     "id": "PR-PAT-02",
@@ -25592,7 +25624,8 @@
                     "kind": "cash",
                     "amountCents": 36000000,
                     "availableOn": "2026-05-26",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
                   },
                   {
                     "id": "PR-DEB-04",
@@ -25601,7 +25634,8 @@
                     "kind": "inflow",
                     "amountCents": 8700000,
                     "availableOn": "2026-06-02",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die vorsorgliche Kontingentabrechnung wurde widerrufen. Ein auf dieser Rechnung beruhender Zahlungseingang im Dreiwochenfenster ist nicht belegt."
                   },
                   {
                     "id": "PR-DEB-03",
@@ -25756,7 +25790,8 @@
                     "kind": "cash",
                     "amountCents": 36000000,
                     "availableOn": "2026-06-19",
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die neue Laufzeit liegt lediglich als nicht unterzeichneter Entwurf vor. Eine wirksame Anschlusszusage und kurzfristig verfügbare Zahlung sind nicht nachgewiesen."
                   },
                   {
                     "id": "PR-DEB-06",
@@ -25855,7 +25890,8 @@
                     "description": "Vier Hubschrauber im Eigentum der Leasinggeberin",
                     "source": "PR-INV-02 · Leasingverträge und Eigentumsregister des Vermieters; Marktwert der fremden Maschinen rund 2,1 Mio. EUR",
                     "amountCents": 0,
-                    "decision": "exclude"
+                    "decision": "exclude",
+                    "reason": "Die vier Maschinen stehen im Eigentum der Leasinggeberin. Ihr Marktwert ist kein eigenes Vermögen der Schuldnerin."
                   },
                   {
                     "id": "PR-INV-03",
@@ -25949,7 +25985,7 @@
                   "through": "2027-06-19",
                   "source": "PR-PLAN-2026-06-19",
                   "failureOn": "2026-06-30",
-                  "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 192.713,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen."
+                  "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 192.713,00 EUR. Seit der nachgewiesenen Stornierung der 140 Flugstunden bestehen bestätigte Ersatzbuchungen nur für elf Transfers. Die interne Ausstattungszusage ist abgelaufen, neue Einzahlungen der Gesellschafterin stehen aus. Die laufenden Leasing- und Hangarzahlungen bleiben bestehen. Der angegebene Abbruchtag ist das Ende des ersten im Monatsplan ungedeckten Monats. Er begrenzt den erwarteten Ausfall nach hinten und behauptet keinen taggenauen Eintritt innerhalb dieses Monats."
                 }
               }
             }

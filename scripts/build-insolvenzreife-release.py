@@ -7,6 +7,8 @@ import hashlib
 import importlib.util
 import io
 import json
+from email import policy
+from email.parser import BytesParser
 from pathlib import Path
 from shutil import copyfile
 from zipfile import ZipFile
@@ -21,7 +23,7 @@ from testakte_zip_common import working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "zahlungsunfaehigkeits-und-ueberschuldungspruefer"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 TAG = f"{NAME}-v{VERSION}"
 PLUGIN = ROOT / NAME
 CASES = (
@@ -30,6 +32,7 @@ CASES = (
     "insolvenzreife-metallbau-berlin-zehlendorf",
 )
 BUNDLE = "Insolvenzreife_Drei_Originalakten.zip"
+INTAKE_BUNDLE = "Insolvenzreife_Drei_Grundakten.zip"
 INVENTORY = "release-bestand.json"
 CHECKSUMS = "checksums-sha256.txt"
 
@@ -95,7 +98,7 @@ def combined_pdf(single_zip, target, title):
 def asset_names():
     return {
         f"{NAME}.zip", f"{NAME}-portable.zip", f"{NAME}-werkstatt.md", f"{NAME}-schnellstart.md",
-        BUNDLE, "Stichtagskontrolle_Nachbesprechung.zip",
+        BUNDLE, INTAKE_BUNDLE, "Stichtagskontrolle_Nachbesprechung.zip",
         *(file for slug in CASES for file in (original_name(slug), single_name(slug))),
     }
 
@@ -127,6 +130,11 @@ def build(dist):
         for slug in CASES:
             name = original_name(slug)
             native.write_file(archive, dist / name, name)
+    with ZipFile(dist / INTAKE_BUNDLE, "x") as archive:
+        native.write_bytes(archive, NOTICE_BYTES, NOTICE_FILENAME)
+        for slug in CASES:
+            for source, name in intake_pairs(slug):
+                native.write_file(archive, source, f"{slug}/{name}")
     with ZipFile(dist / "Stichtagskontrolle_Nachbesprechung.zip", "x") as archive:
         native.write_bytes(archive, NOTICE_BYTES, NOTICE_FILENAME)
         for path in sorted((ROOT / "quality/insolvenzreife").glob("*")):
@@ -140,10 +148,22 @@ def build(dist):
     return report
 
 
+def intake_pairs(slug):
+    """Nur ausdrücklich ausgewählte Eingangsunterlagen aus dem Originalbestand."""
+    pairs = working_dump_archive_pairs(ROOT / "testakten" / slug, include_gesamt_pdf=False)
+    selected = [(source, name) for source, name in pairs if name.startswith("Grundakte/")]
+    if not selected:
+        raise ValueError(f"Keine Grundakte für {slug}")
+    return selected
+
+
 def inspect(dist):
     native = load("validate-testakten-release-zips")
     pdf = load("validate-testakten-einzelpdf-zips")
     report = {"tag": TAG, "cases": {}}
+    for kind in ("werkstatt", "schnellstart"):
+        name = f"{NAME}-{kind}.md"
+        assert (dist / name).read_bytes() == (PLUGIN / name).read_bytes(), f"Veralteter Prompt: {name}"
     for filename, prefix in ((f"{NAME}.zip", ""), (f"{NAME}-portable.zip", f"{NAME}/")):
         paths = plugin_files()
         with ZipFile(dist / filename) as archive:
@@ -162,6 +182,23 @@ def inspect(dist):
         bank = sum(name.startswith("Grundakte/01_Bank/Auszug_") for name in expected)
         procedural = sum(name.startswith("10_Verfahren/") for name in expected)
         assert bank == 24 and procedural >= 4, slug
+        intake = intake_pairs(slug)
+        assert len(intake) + procedural == len(pairs), f"Unzugeordnete Originale: {slug}"
+        assert not any("gesamt" in name.lower() or "recheninput" in name.lower() or name.endswith(".md")
+                       or "/10_Verfahren/" in name for _, name in intake), slug
+        attachments = 0
+        for source, name in intake:
+            if source.suffix.lower() != ".eml":
+                continue
+            message = BytesParser(policy=policy.default).parsebytes(source.read_bytes())
+            assert not message.defects, name
+            for part in message.iter_attachments():
+                payload = part.get_payload(decode=True)
+                assert payload, f"Leere Mailanlage: {name}"
+                duplicates = [path for path, _ in intake if path.name == part.get_filename()]
+                if duplicates:
+                    assert any(payload == path.read_bytes() for path in duplicates), f"Abweichende Mailanlage: {name}"
+                attachments += 1
         singles = dist / single_name(slug)
         expected_pdfs = expected_arcnames(directory)
         pdf.assert_same(slug, [NOTICE_FILENAME, *expected_pdfs],
@@ -172,6 +209,8 @@ def inspect(dist):
         reader = PdfReader(combined)
         assert len(reader.pages) == pages and len(reader.outline) == len(expected_pdfs)
         report["cases"][slug] = {"originals": len(pairs), "bank_months": bank, "procedure_documents": procedural,
+                                 "intake_originals": len(intake),
+                                 "embedded_attachments": attachments,
                                  "pdf_pages": pages, "original_sha256": digest(archive_path),
                                  "combined_sha256": digest(combined)}
     for name in (f"{NAME}.zip", f"{NAME}-portable.zip",
@@ -181,6 +220,11 @@ def inspect(dist):
         assert archive.namelist() == [NOTICE_FILENAME, *(original_name(slug) for slug in CASES)]
         assert archive.read(NOTICE_FILENAME) == NOTICE_BYTES and archive.testzip() is None
         assert all(archive.read(original_name(slug)) == (dist / original_name(slug)).read_bytes() for slug in CASES)
+    with ZipFile(dist / INTAKE_BUNDLE) as archive:
+        expected_intake = {f"{slug}/{name}": source for slug in CASES for source, name in intake_pairs(slug)}
+        assert archive.namelist() == [NOTICE_FILENAME, *expected_intake]
+        assert archive.read(NOTICE_FILENAME) == NOTICE_BYTES and archive.testzip() is None
+        assert all(archive.read(name) == source.read_bytes() for name, source in expected_intake.items())
     with ZipFile(dist / "Stichtagskontrolle_Nachbesprechung.zip") as archive:
         assert archive.read(NOTICE_FILENAME) == NOTICE_BYTES and len(archive.namelist()) > 1
         assert archive.testzip() is None

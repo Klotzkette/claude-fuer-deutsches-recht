@@ -21,13 +21,20 @@ Nutze datierte Planversionen mit Startliquidität, Auftragsbestand, Kosten- und 
 4. Begründe die überwiegende Wahrscheinlichkeit aus dem Gesamtplan. Bei einer belegten Lücke prüfe, welche realistische Maßnahme sie in der damaligen Planung schließen konnte. Wenn Unterlagen für eine tragende Prämisse fehlen, grenze den offenen Befund ein und rechne belastbare Varianten.
 5. Bei einem negativen oder offenen Befund den Überschuldungsstatus prüfen. Stelle die insolvenzrechtliche Prognose getrennt von § 18 InsO und vom handelsrechtlichen Bilanzierungsmaßstab dar.
 
+6. Unterscheide fehlende Dokumentation von materiell fehlender Fortführungswahrscheinlichkeit. Rekonstruiere einen verlorenen Plan aus damaligem Auftragsbestand, Mitarbeiter- und Energiekosten, Finanzierung sowie bereits absehbaren Risiken, kennzeichne dabei jede Rekonstruktion. Im Anfechtungsprozess trägt grundsätzlich der Verwalter auch die tatsächlichen Grundlagen der negativen Prognose. Eine spätere Insolvenz oder fehlende Excel-Datei ersetzt diesen Nachweis nicht.
+7. Dokumentiere Prognosebeginn und -ende ausdrücklich. Prüfe bei historischen Stichtagen vor 2024 den damaligen Gesetzesstand und Sonderrecht gesondert. Bei noch laufendem Unternehmen führe erkennbare wesentliche Änderungen nach, etwa eine Rücknahme des Comfort Letters, verweigerte Genehmigung oder verlorene Großbestellung. Ein mit späterem Wissen erstellter Plan darf nicht als damalige Organentscheidung ausgegeben werden.
 ## 1.4. Quellenpflicht
 
-§ 19 Abs. 2 Satz 1 InsO und BGH II ZR 84/20 Rn. 68–85, 87. Das Urteil betraf § 19 InsO a. F. Der heutige Zwölfmonatshorizont ergibt sich aus dem Gesetz. Im Anfechtungsprozess auch BGH IX ZR 53/19 Rn. 23–24 beachten. Die [amtliche Quellenübersicht](../../references/insolvenzreife-quellen.md) führt zu Normen und Volltexten. Zitiere nur fallbezogen geprüfte Fundstellen und nenne Belegdatei und Stelle für jede entscheidende Tatsache.
+Prüfe § 19 Abs. 2 Satz 1 InsO. II ZR 84/20 betraf § 19 InsO a. F. Der heutige Zwölfmonatshorizont ergibt sich aus dem Gesetz. Die Beweislast im Anfechtungsprozess gesondert beachten.
+
+- [BGH, Urteil vom 3. März 2022 – Az. IX ZR 53/19, Rn. 23–29](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__53-19.pdf?__blob=publicationFile&v=1).
+- [BGH, Urteil vom 13. Juli 2021 – Az. II ZR 84/20, Rn. 68–85 und 87](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1).
+
+Die [amtliche Quellenübersicht](../../references/insolvenzreife-quellen.md) ordnet die Volltexte und ihre Grenzen ein. Zitiere nur fallbezogen geprüfte Fundstellen. Nenne für jede entscheidende Tatsache die Belegdatei und genaue Stelle.
 
 ## 1.5. Ausgabeformat
 
-Liefere je Stichtag Prognosehorizont, Ausgangslage, fortgeschriebenen Liquiditätsverlauf, früheste nicht geschlossene Lücke, konkrete Gegenannahme und begründeten Prognosebefund. Liefere den Vermerk in vollständigen Sätzen und mit dezimaler Gliederung. Für formatierten Export verwende soweit technisch möglich Times New Roman, 11 pt.
+Liefere je Stichtag Prognosehorizont, Ausgangslage, fortgeschriebenen Liquiditätsverlauf, früheste nicht geschlossene Lücke, konkrete Gegenannahme und begründeten Prognosebefund. Liefere den Vermerk gemäß der Ausformulierungspflicht in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungen ersetzen kein Endprodukt. Der Formatstandard ist Times New Roman, 11 pt, soweit technisch möglich, mit ausschließlich dezimaler Gliederung. Die Quellenprüfung folgt den im Repository geltenden Regeln aus `references/zitierweise.md`: verifizierte Rechtsprechung mit Datum, Aktenzeichen und genauer Stelle, Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle.
 
 ## 1.6. Beispiel
 

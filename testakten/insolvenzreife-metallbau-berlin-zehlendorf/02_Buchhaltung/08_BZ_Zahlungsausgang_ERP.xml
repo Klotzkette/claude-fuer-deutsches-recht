@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZahlungsausgangExport format="Interner ERP-Export" version="1" unternehmen="Schlachtensee Stahl &amp; Form GmbH" erstellt="2026-07-07">
+  <Hinweis>Anwendungsinterner Datenexport; keine Bankeinreichungsdatei. Offene Aufträge begründen keine weitere Forderung neben dem genannten Beleg.</Hinweis>
+  <Vorgang beleg="BZ-K03-01">
+    <Empfaenger>Südspange Stahlhandel GmbH</Empfaenger>
+    <BetragCent>2668300</BetragCent>
+    <FaelligkeitLautStamm>2024-09-04</FaelligkeitLautStamm>
+    <Ausfuehrung>2024-09-04</Ausfuehrung>
+    <Bankreferenz>BZ-K03-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-K13-04">
+    <Empfaenger>Spandauer Kranprüfung KG</Empfaenger>
+    <BetragCent>721800</BetragCent>
+    <FaelligkeitLautStamm>2025-07-14</FaelligkeitLautStamm>
+    <Ausfuehrung>2025-07-14</Ausfuehrung>
+    <Bankreferenz>BZ-K13-04-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-STA-01">
+    <Empfaenger>Südspange Stahlhandel GmbH</Empfaenger>
+    <BetragCent>12800000</BetragCent>
+    <FaelligkeitLautStamm>2026-03-20</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-CAPEX-01">
+    <Empfaenger>Spandauer Kranprüfung KG</Empfaenger>
+    <BetragCent>13980000</BetragCent>
+    <FaelligkeitLautStamm>2026-04-17</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-04-17</Ausfuehrung>
+    <Bankreferenz>BZ-CAPEX-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-SCH-01">
+    <Empfaenger>Schweisspunkt Berlin GmbH</Empfaenger>
+    <BetragCent>2200000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-07</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-07</Ausfuehrung>
+    <Bankreferenz>BZ-SCH-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-FA-01">
+    <Empfaenger>Finanzamt Steglitz</Empfaenger>
+    <BetragCent>1900000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-11</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-BES-01">
+    <Empfaenger>Blankwerk Pulverbeschichtung GmbH</Empfaenger>
+    <BetragCent>1750000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-25</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-25</Ausfuehrung>
+    <Bankreferenz>BZ-BES-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-SV-02">
+    <Empfaenger>Betriebskrankenkasse Handwerk &amp; Stadt</Empfaenger>
+    <BetragCent>3600000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-27</FaelligkeitLautStamm>
+    <Ausfuehrung />
+    <Bankreferenz />
+    <Status>offen</Status>
+  </Vorgang>
+  <Vorgang beleg="BZ-LOHN-01">
+    <Empfaenger>Werkstattlohn Berlin eG</Empfaenger>
+    <BetragCent>6000000</BetragCent>
+    <FaelligkeitLautStamm>2026-05-29</FaelligkeitLautStamm>
+    <Ausfuehrung>2026-05-29</Ausfuehrung>
+    <Bankreferenz>BZ-LOHN-01-BK</Bankreferenz>
+    <Status>ausgefuehrt</Status>
+  </Vorgang>
+</ZahlungsausgangExport>
