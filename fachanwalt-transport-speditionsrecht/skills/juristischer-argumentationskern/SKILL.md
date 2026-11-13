@@ -117,15 +117,15 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigke
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 
-**Leitfrage für Transport-, See- und Außenhandelsrecht:** Welche Abhängigkeit zwischen Bedarf, Planung, Ausführung und Nachweis verursacht das Problem?
+**Leitfrage für Transport-, See- und Außenhandelsrecht:** Welche Formulierung erfüllt das Geschäftsziel und was ändert die Alternative?
 
-**Erste Ansicht:** Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
+**Erste Ansicht:** Stelle betroffene Klauseln nebeneinander: vorhandene Fassung, vorgeschlagener Text, konkrete Rechts- oder Kostenfolge und offener Verhandlungspunkt.
 
-**Sinnvolle Interaktion:** Wähle Bauteil, Planstand oder belegte Terminvariante und aktualisiere die betroffenen Positionen, Folgearbeiten und Schreiben. Eine schematische Skizze darf keine vermessene oder freigegebene Planung vortäuschen.
+**Sinnvolle Interaktion:** Lasse eine tatsächlich angebotene Klauselvariante auswählen; übernimm die Wahl in den fortgeführten Entwurf und prüfe Verweisungen, Definitionen und Folgeklauseln. Eine Risikofarbe ersetzt keine Erläuterung.
 
-**Datengrundlage:** Bauteil oder Leistung, Menge und Einheit, Planversion, Verantwortlicher, Terminbasis und Originalunterlage. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+**Datengrundlage:** Dokumentversion, Klauselnummer, Wortlaut, Geschäftsziel, Beleg für die Sachannahme und Rechtsquelle. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
 
-**Weiter zum Ergebnis:** nachvollziehbarer Projektvermerk mit dem bestellten Leistungs-, Nachtrags-, Anzeige- oder Abstimmungstext. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+**Weiter zum Ergebnis:** vollständig ausformulierte Vertragsfassung oder Verhandlungsantwort mit gesonderter Änderungsübersicht. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
 
 Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
 

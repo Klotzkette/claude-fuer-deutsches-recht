@@ -57,7 +57,7 @@ class VisualisierungTests(unittest.TestCase):
                 self.assertIn(entry['theme'], PROFILE_BY_KEY)
                 self.assertIn(V.family(entry['theme']), V.VIEWS)
                 self.assertIn(V.family_for(slug, entry['theme']), V.VIEWS)
-        for overrides in (V.OVERRIDES, V.FAMILY_OVERRIDES, V.LABEL_OVERRIDES):
+        for overrides in (V.OVERRIDES, V.FAMILY_OVERRIDES, V.LABEL_OVERRIDES, V.ROUTE_OVERRIDES):
             self.assertTrue(set(overrides) <= set(self.sources), 'Keine ungenutzten oder falsch geschriebenen Plugin-Ausnahmen')
         with self.assertRaises(ValueError):
             V.family('nicht-vorhandenes-thema')
@@ -129,6 +129,86 @@ class VisualisierungTests(unittest.TestCase):
         skill = V.block('# Fachauftrag\n', 'bauunternehmer-einkauf', kind='skill')
         self.assertIn('../../references/' + V.REFERENCE, skill)
         self.assertIn('Ohne diese Fähigkeit', skill)
+
+    def test_bauwirtschaft_skills_keep_budget_fachtext_and_actionable_reference(self):
+        limited = {slug: entry['skill_max_bytes'] for slug, entry in self.profiles.items() if 'skill_max_bytes' in entry}
+        self.assertEqual(limited, {'bauwirtschaft-anfaenger': 7500, 'bauwirtschaft-fortgeschrittene': 7500})
+        for slug, maximum in limited.items():
+            entry = self.profiles[slug]
+            for name in entry['entry_skills']:
+                with self.subTest(plugin=slug, skill=name):
+                    path = self.sources[slug] / 'skills' / name / 'SKILL.md'
+                    original = V.remove_block(path.read_bytes().decode('utf-8'))
+                    compact = V.block(original, slug, kind='skill')
+                    self.assertLessEqual(len(compact.encode('utf-8')), maximum)
+                    self.assertEqual(V.remove_block(compact).encode('utf-8'), original.encode('utf-8'))
+                    self.assertEqual(V.block(compact, slug, kind='skill'), compact)
+                    for required in ('sofort visualisieren', 'tatsächlich verfügbaren', 'Tabelle oder Skizze',
+                                     'Fundstellen', 'vollständig liefern', 'Übernahmetext'):
+                        self.assertIn(required, compact)
+                    self.assertIn('../../references/' + V.REFERENCE, compact)
+                    reference = self.sources[slug] / 'references' / V.REFERENCE
+                    self.assertTrue(reference.is_file())
+                    self.assertIn(V.RUNTIME, reference.read_text())
+                    unrestricted = {slug: {key: value for key, value in entry.items() if key != 'skill_max_bytes'}}
+                    previous = V.block(original, slug, kind='skill', profiles=unrestricted)
+                    self.assertGreater(len(previous.encode('utf-8')), maximum, 'Regression bildet die vorherige Budgetverletzung nicht ab')
+                    self.assertIn(V.RUNTIME, V.block('# Auftrag\n', slug), 'Große Werkstatt darf nicht ebenfalls gekürzt werden')
+
+    def test_skill_budget_rejects_oversize_source_instead_of_cutting_fachtext(self):
+        slug = 'bauwirtschaft-fortgeschrittene'
+        original = '# Fachinhalt\n\n' + 'Unveränderter Satz mit Beleg.\n' * 400
+        with self.assertRaisesRegex(ValueError, 'Fachtext wird nicht gekürzt'):
+            V.block(original, slug, kind='skill')
+        for value in (True, 0, -1, '7500'):
+            profile = {slug: {**self.profiles[slug], 'skill_max_bytes': value}}
+            with self.subTest(value=value), self.assertRaisesRegex(ValueError, 'Ungültiges Skill-Dateibudget'):
+                V.block('# Auftrag\n', slug, kind='skill', profiles=profile)
+
+    def test_plain_label_profiles_preserve_local_style_in_skills_workshops_and_references(self):
+        expected = {'un-kaufrecht-cisg', 'eu-sanktionspruefer', 'us-sanktionspruefer',
+                    'arbeitsrecht-kuendigungsschutzklagewerkstatt', 'agb-werkstatt', 'untersuchungshaft'}
+        self.assertEqual({slug for slug, entry in self.profiles.items() if entry.get('plain_labels')}, expected)
+        for slug in expected:
+            entry = self.profiles[slug]
+            for kind in ('skill', 'workshop'):
+                # Eigene Hervorhebungen im Fachtext werden niemals global entfernt.
+                original = '# Fachtext\r\n\r\n**Unveränderte Vorgabe** bleibt erhalten.\r\n'
+                output = V.block(original, slug, kind=kind)
+                self.assertEqual(V.remove_block(output), original)
+                self.assertNotIn('**', output.split(V.BEGIN)[1])
+                self.assertEqual(V.block(output, slug, kind=kind), output)
+                unrestricted = {slug: {**entry, 'plain_labels': False}}
+                self.assertIn('**Erste Ansicht:**', V.block(original, slug, kind=kind, profiles=unrestricted))
+            reference = V.reference(slug, entry)
+            self.assertNotIn('**', reference)
+            self.assertIn('Erste Ansicht:', reference)
+            self.assertIn(V.RUNTIME, reference)
+        self.assertIn('**Erste Ansicht:**', V.block('# Auftrag\n', 'bauunternehmer-einkauf'))
+
+    def test_trade_and_sanctions_routes_use_mandate_specific_inputs_and_outputs(self):
+        self.assertEqual(V.family('transport_handel'), 'vertrag')
+        for slug, terms in {
+            'eu-sanktionspruefer': ('EU-Sanktionsregime', 'Kontrolle', 'Güter', 'Zahlungsweg', 'Listenfundstelle', 'Prüfdatum', 'Sanktionsvermerk'),
+            'us-sanktionspruefer': ('US-Bezug', 'Beteiligungsketten', 'Güter', 'Zahlungsweg', 'Listenfundstelle', 'Prüfdatum', 'US-Sanktionsvermerk'),
+            'un-kaufrecht-cisg': ('Kaufpflicht', 'Lieferung', 'Zahlung', 'Mangel', 'Fristmaßstab', 'Vertragsfassung', 'Mangelanzeige'),
+        }.items():
+            with self.subTest(plugin=slug):
+                entry = self.profiles[slug]
+                route = V.route_text(slug, entry['theme'])
+                for term in terms:
+                    self.assertIn(term, route)
+                for wrong in ('Bauteil', 'Planversion', 'Strukturentscheidung', 'Beschluss-'):
+                    self.assertNotIn(wrong, route)
+                self.assertIn('beauftragte', route)
+                for kind in ('skill', 'workshop'):
+                    self.assertIn(terms[-1], V.block('# Auftrag\n', slug, kind=kind))
+                self.assertIn(terms[-1], V.reference(slug, entry))
+                if 'sanktions' in slug:
+                    self.assertEqual(V.family_for(slug, entry['theme']), 'beziehungen')
+                    self.assertRegex(route, r'(weder ein Verbot noch eine Freigabe|keine automatische Freigabe oder Sperre)')
+        cisg = V.route_text('un-kaufrecht-cisg', 'transport_handel')
+        self.assertIn('erneut prüfen', cisg)
 
     def test_host_capability_fallback_and_no_unconditional_success_claim(self):
         text = V.block('# Auftrag\n', 'bauunternehmer-einkauf')
@@ -263,6 +343,45 @@ class SynchronisierungTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, 'Marketplace nicht exakt'):
                 SYNC.plan(root, broken)
 
+    def test_existing_txt_copies_include_special_workshops_without_new_formats(self):
+        slug = 'bauunternehmer-einkauf'
+        profiles = {slug: V.load_profiles()[slug]}
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp).resolve()
+            manifest = root / '.claude-plugin/marketplace.json'
+            manifest.parent.mkdir()
+            manifest.write_text(json.dumps({'plugins': [{'name': slug, 'source': './' + slug}]}))
+            directory = self.fixture(root, slug, profiles[slug])
+            prompts = {kind: directory / f'{slug}-{kind}.md' for kind in ('werkstatt', 'schnellstart')}
+            for kind in ('werkstatt-unterlagen', 'werkstatt-nur-markdown'):
+                prompts[kind] = directory / f'{slug}-{kind}.md'
+                prompts[kind].write_bytes('# Sonderwerkstatt\r\n\r\nEigener Originaltext mit € bleibt.\r\n'.encode())
+            with_copy = {path for kind, path in prompts.items() if kind != 'werkstatt-nur-markdown'}
+            for path in with_copy:
+                path.with_suffix('.txt').write_bytes(b'Alte Kopie')
+            with patch.object(SYNC, 'prompt_inventory', return_value=lambda name, source: dict(prompts)), \
+                 patch.object(SYNC, 'formats', return_value=('md',)):
+                outputs, report = SYNC.plan(root, profiles)
+                for path in with_copy:
+                    self.assertEqual(outputs[path.with_suffix('.txt')], outputs[path])
+                self.assertNotIn(prompts['werkstatt-nur-markdown'].with_suffix('.txt'), outputs)
+                self.assertFalse(any(path.name == 'SKILL.txt' for path in outputs))
+                for path, content in outputs.items():
+                    path.parent.mkdir(parents=True, exist_ok=True)
+                    path.write_bytes(content)
+                repeated, repeated_report = SYNC.plan(root, profiles)
+                self.assertEqual(outputs, repeated)
+                self.assertEqual(report, repeated_report)
+                # Auch eine bestehende TXT-Verknüpfung darf nicht unbemerkt beschrieben werden.
+                special_txt = prompts['werkstatt-unterlagen'].with_suffix('.txt')
+                special_txt.unlink()
+                target = root / 'unveraendert.txt'
+                target.write_bytes(b'Original')
+                special_txt.symlink_to(target)
+                with self.assertRaisesRegex(ValueError, 'Ausgabepfad'):
+                    SYNC.plan(root, profiles)
+                self.assertEqual(target.read_bytes(), b'Original')
+
     def test_hash_review_does_not_certify_preexisting_changes_or_live_execution(self):
         slug = 'bauunternehmer-einkauf'
         entry = V.load_profiles()[slug]
@@ -316,6 +435,45 @@ class SynchronisierungTests(unittest.TestCase):
             sample = next(iter(direct))
             self.assertEqual(SYNC.output_path(root, alias / sample.relative_to(root)), sample)
             self.assertEqual(SYNC.reviewed_profiles(alias, {alias / path.relative_to(root): data for path, data in direct.items()}), {})
+
+    def test_notariat_individual_review_migrates_only_exact_base_hash_and_canonical_block(self):
+        slug = 'notariat-alltag'
+        entry = V.load_profiles()[slug]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp).resolve()
+            directory = self.fixture(root, slug, entry)
+            manifest = root / '.claude-plugin/marketplace.json'
+            manifest.parent.mkdir()
+            manifest.write_text(json.dumps({'plugins': [{'name': slug, 'source': './' + slug}]}))
+            skill = directory / 'skills' / entry['entry_skills'][0] / 'SKILL.md'
+            base = skill.read_bytes()
+            enriched = V.block(base.decode(), slug, kind='skill').encode()
+            skill.write_bytes(enriched)
+            relative = skill.relative_to(root).as_posix()
+            profile_path = root / 'quality/evals' / f'{slug}.json'
+            profile_path.parent.mkdir(parents=True)
+            record = {'path': relative, 'sha256': SYNC.sha(base), 'method': 'desk_review',
+                      'reviewed_on': '2026-09-25', 'verdict': 'revised'}
+            original_profile = {'plugin': slug, 'individual_skill_review': [record], 'editorial_status': 'reviewed'}
+            profile_path.write_text(json.dumps(original_profile))
+            updated = json.loads(SYNC.reviewed_profiles(root, {skill: enriched})[profile_path])
+            self.assertEqual(updated['individual_skill_review'], [{**record, 'sha256': SYNC.sha(enriched)}])
+            self.assertEqual(updated['visual_workflow_review']['files'], [relative])
+            self.assertEqual(updated['visual_workflow_review']['pending_prior_changes'], [])
+            self.assertEqual(json.loads(profile_path.read_text()), original_profile)
+            # Weder eine Fachtextänderung noch ein fremder Inhalt im markierten Block
+            # wird durch einen alten Basis-Hash als geprüft ausgegeben.
+            changed_base = base + b'\nUngepruefte neue Fachregel.\n'
+            changed_source = V.block(changed_base.decode(), slug, kind='skill').encode()
+            skill.write_bytes(changed_source)
+            self.assertEqual(SYNC.reviewed_profiles(root, {skill: changed_source}), {})
+            changed_block = enriched.replace(V.END.encode(), b'Fremde Anweisung\n' + V.END.encode())
+            skill.write_bytes(changed_block)
+            self.assertEqual(SYNC.reviewed_profiles(root, {skill: enriched}), {})
+            # Eine bereits korrekte Hashbindung bleibt ohne weiteres Review identisch.
+            skill.write_bytes(enriched)
+            profile_path.write_text(json.dumps(updated))
+            self.assertEqual(SYNC.reviewed_profiles(root, {skill: enriched}), {})
 
     def test_plan_rejects_symlinked_generated_reference_and_traversal_skills(self):
         slug = 'bauunternehmer-einkauf'

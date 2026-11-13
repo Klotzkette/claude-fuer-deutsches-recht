@@ -4,15 +4,15 @@ Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was gesch
 
 ## 1. Fachliche Ansicht
 
-**Leitfrage für Transport-, See- und Außenhandelsrecht:** Welche Abhängigkeit zwischen Bedarf, Planung, Ausführung und Nachweis verursacht das Problem?
+Leitfrage für internationaler Warenkauf nach dem CISG: Welche Kaufpflicht ist streitig und wie hängen Lieferung, Zahlung, Mangel und maßgebliche Fristen zusammen?
 
-**Erste Ansicht:** Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
+Erste Ansicht: Zeige die Kaufabwicklung von Vereinbarung und Leistungspflichten über Lieferung und Zahlung bis zu Untersuchung, Mangelanzeige und verlangtem Rechtsbehelf. Stelle streitige Tatsachen, Vertragsklauseln und Belege neben eine datierte Ereignisfolge.
 
-**Sinnvolle Interaktion:** Wähle Bauteil, Planstand oder belegte Terminvariante und aktualisiere die betroffenen Positionen, Folgearbeiten und Schreiben. Eine schematische Skizze darf keine vermessene oder freigegebene Planung vortäuschen.
+Sinnvolle Interaktion: Eine Auswahl auf Kaufpflicht, Klausel, Lieferung oder Mangel zeigt Beleg und Entwurfsabschnitt. Geänderte Datums- oder Vertragsannahmen als Szenario führen; Anwendbarkeit, Fristmaßstab und Rechtsbehelf erneut prüfen, bevor das verlangte Schreiben oder der Vertragsentwurf angepasst wird.
 
-**Datengrundlage:** Bauteil oder Leistung, Menge und Einheit, Planversion, Verantwortlicher, Terminbasis und Originalunterlage. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+Datengrundlage: Vertragsfassung, Parteien und Rollen, Ware, Leistungspflicht, Liefer- und Zahlungsdaten, Untersuchungs- und Anzeigedaten, Mangelbefund, Quellenbeleg und maßgebliche Rechtsgrundlage. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
 
-**Weiter zum Ergebnis:** nachvollziehbarer Projektvermerk mit dem bestellten Leistungs-, Nachtrags-, Anzeige- oder Abstimmungstext. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+Weiter zum Ergebnis: der beauftragte Kaufrechtsvermerk, die ausformulierte Mangelanzeige, Leistungsaufforderung, Vertragsänderung oder Verhandlungsantwort. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
 
 ## 2. Verfügbare Fähigkeiten nutzen
 

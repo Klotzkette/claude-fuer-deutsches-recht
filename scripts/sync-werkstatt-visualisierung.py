@@ -85,8 +85,9 @@ def plan(root: Path = ROOT, profiles: dict | None = None) -> tuple[dict[Path, by
                 raise ValueError(f"Veröffentlichter Kurzprompt fehlt: {path}")
             content = visual.remove_block(path.read_bytes().decode("utf-8")).encode("utf-8")
             outputs[path] = content
-            if "txt" in formats(slug) and kind in standalone_kinds(slug):
-                outputs[output_path(root, path.with_suffix(".txt"))] = content
+            txt = path.with_suffix(".txt")
+            if txt.exists() or txt.is_symlink() or ("txt" in formats(slug) and kind in standalone_kinds(slug)):
+                outputs[output_path(root, txt)] = content
         mega = root / "testakten/megaprompts" / f"{slug}.md"
         if enabled(slug, "megaprompt") and mega.is_file():
             paths.append((mega, "workshop"))
@@ -103,11 +104,14 @@ def plan(root: Path = ROOT, profiles: dict | None = None) -> tuple[dict[Path, by
             rows.append({"path": path.relative_to(root).as_posix(), "kind": kind,
                          "preserved_body_sha256": sha(visual.remove_block(text).encode("utf-8")),
                          "sha256": sha(after)})
-            if kind == "workshop" and path.parent == directory and "txt" in formats(slug):
-                # Nur tatsächlich publizierte Standalone-Kopien, keine neuen Nebenformate.
+            if kind == "workshop":
+                # Bestehende Kopien auch bei Sonderwerkstätten oder später auf MD
+                # beschränktem Profil pflegen; neue Formate nur nach Publikationsprofil.
+                txt = path.with_suffix(".txt")
                 relative_kind = path.stem.removeprefix(slug + "-")
-                if relative_kind in standalone_kinds(slug):
-                    outputs[output_path(root, path.with_suffix(".txt"))] = after
+                published_txt = path.parent == directory and "txt" in formats(slug) and relative_kind in standalone_kinds(slug)
+                if txt.exists() or txt.is_symlink() or published_txt:
+                    outputs[output_path(root, txt)] = after
         ref = directory / "references" / visual.REFERENCE
         outputs[output_path(root, ref)] = visual.reference(slug, entry).encode("utf-8")
         report["plugins"][slug] = {**entry, "family": visual.family_for(slug, entry["theme"]), "files": rows}
@@ -135,14 +139,29 @@ def reviewed_profiles(root: Path, outputs: dict[Path, bytes]) -> dict[Path, byte
         affected = []
         pending = []
 
-        def advance(holder, key, target):
-            if not target.is_file() or target not in outputs or outputs[target] == target.read_bytes():
+        def advance(holder, key, target, *, allow_base_review=False):
+            if not target.is_file() or target not in outputs:
                 return
-            old = sha(target.read_bytes())
-            if holder.get(key) != old:
+            current = target.read_bytes()
+            proposed = outputs[target]
+            if holder.get(key) == sha(proposed) or (proposed == current and not allow_base_review):
+                return
+            matching = holder.get(key) == sha(current)
+            if not matching and allow_base_review:
+                # Ein früher übersehener Listen-Eintrag darf nachgeführt werden,
+                # wenn ausschließlich der kanonische Zusatz zwischen ihm und
+                # der Datei liegt. Fremde Fach- oder Blockänderungen bleiben offen.
+                selected = {directory / "skills" / name / "SKILL.md" for name in entry["entry_skills"]}
+                if target in selected:
+                    text = current.decode("utf-8")
+                    base = visual.remove_block(text)
+                    canonical = visual.block(base, slug, kind="skill", profiles={slug: entry}).encode("utf-8")
+                    matching = (canonical == current and holder.get(key) == sha(base.encode("utf-8"))
+                                and visual.remove_block(proposed.decode("utf-8")) == base)
+            if not matching:
                 pending.append(target.relative_to(root).as_posix())
                 return
-            holder[key] = sha(outputs[target])
+            holder[key] = sha(proposed)
             affected.append(target.relative_to(root).as_posix())
 
         mapping = json.loads((root / ".claude-plugin/marketplace.json").read_text())["plugins"]
@@ -158,6 +177,8 @@ def reviewed_profiles(root: Path, outputs: dict[Path, bytes]) -> dict[Path, byte
         for field in ("skill_hashes", "reviewed_file_hashes", "artifact_hashes"):
             for name in profile.get(field, {}):
                 advance(profile[field], name, (root / name).resolve())
+        for item in profile.get("individual_skill_review", []):
+            advance(item, "sha256", (root / item["path"]).resolve(), allow_base_review=True)
         if affected:
             profile["visual_workflow_review"] = {
                 "method": "desk_review", "date": "2026-11-13",

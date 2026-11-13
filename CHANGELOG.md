@@ -6,6 +6,8 @@ Die Ergänzungen werden aus einer gemeinsamen Quelle synchronisiert; Fachtexte a
 
 Die elf offenen Verbesserungsvorschläge wurden am aktuellen Bestand und anhand der maßgeblichen Quellen unabhängig beurteilt. Berechtigte verbleibende Korrekturen wurden eigenständig umgesetzt; fremde Branches wurden nicht übernommen. [Prüfergebnisse und Quellen](docs/pr-pruefung-2026-11-13.md). Die Überarbeitung betrifft den Repository-Quellstand. Bestehende Versionstags und veröffentlichte ZIP-Dateien bleiben unverändert.
 
+Die Einbindung berücksichtigt besondere Skillgrößen und Klartextstile, erhält vorhandene TXT-Kopien und prüft importierte Fachtexte weiter gegen ihren unveränderten Herkunftsbestand. Außenhandel, CISG und Sanktionen erhalten Ansichten für ihre tatsächlichen Liefer-, Vertrags- und Zahlungsbeziehungen. Eine zuvor nicht erfasste Einzelprüfliste des Notariats wird nur bei nachgewiesen identischem Fachtext und kanonischem Oberflächenanhang fortgeschrieben.
+
 # Zahlungsunfähigkeits- und Überschuldungsprüfer 1.2.0 vom 13. November 2026
 
 Ausfüllbare Wordvorlagen für Anfechtungsschreiben und Klage verbinden die Zahlungsauswertung mit einer fallbezogenen Anspruchsbegründung. Die drei Akten erhalten eigene Zahlungskomplexe für Darlehenszinsen, Verrechnung zwischen verschiedenen Gesellschaften und Lieferantenzahlungen mit Kenntnis- und Bargeschäftsfragen. Eingangsbelege, Verfahrensstücke und Blankovorlagen bleiben getrennt. [Umfang und Prüfgrenzen](docs/releases/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0.md).

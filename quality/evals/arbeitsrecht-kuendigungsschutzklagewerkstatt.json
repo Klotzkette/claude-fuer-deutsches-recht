@@ -583,7 +583,7 @@
       "Sechs Flyerentscheidungen mit Aussagegrenze und Pressemitteilungsstatus abgleichen",
       "Gezielter amtlicher Quellenabgleich am 10.11.2026. Vorherigen Ausschluss von Annahmeverzug und Rechtswahl anhand des amtlichen Volltexts 2 AZR 91/24 eingeordnet."
     ],
-    "sha256": "ebb6486ab065b1fe92ab9140d8037f025f176bc6cc6c0220d139c84dd0aa9b70"
+    "sha256": "b61f8df2c162278470db0618720ceae0820f6c2a6605b8459534d4b4de5326c7"
   },
   "focus_review": {
     "method": "desk_review",
@@ -599,7 +599,7 @@
     "prompt_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md",
     "skill_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/skills/kuendigungsschutzmandat-steuern/SKILL.md",
     "prompt_sha256": "d3047f3d7ea26bed43b95c235e86609e59accc4a6f32e13201a037dd132e5b43",
-    "skill_sha256": "180a46ca8c876bb6bf2ca8abd4daa4c54304b8948136561b8abd87fd87e020ed"
+    "skill_sha256": "8a80ef44b07306d81ac483b45e6e65f5ba71663395260a2aec062fd897ee067d"
   },
   "prompt_editorial_review": {
     "date": "2026-11-01",

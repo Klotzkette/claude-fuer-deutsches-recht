@@ -17,7 +17,8 @@
       ],
       "theme": "bgb",
       "mode": "prompt",
-      "rationale": "Fachlicher Hauptablauf „Aus Geschäftsunterlagen vollständige AGB erstellen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+      "rationale": "Fachlicher Hauptablauf „Aus Geschäftsunterlagen vollständige AGB erstellen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern.",
+      "plain_labels": true
     },
     "aktenaufbereiter-strafrecht": {
       "entry_skills": [
@@ -97,7 +98,8 @@
       ],
       "theme": "forderung",
       "mode": "prompt",
-      "rationale": "Fachlicher Hauptablauf „Kündigungsschutzmandat bis zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt."
+      "rationale": "Fachlicher Hauptablauf „Kündigungsschutzmandat bis zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt.",
+      "plain_labels": true
     },
     "arbeitszeugnis-analyse": {
       "entry_skills": [
@@ -245,6 +247,7 @@
       ],
       "theme": "bauwirtschaft",
       "mode": "prompt",
+      "skill_max_bytes": 7500,
       "rationale": "Fachlicher Hauptablauf „Bauaufgabe zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt."
     },
     "bauwirtschaft-fortgeschrittene": {
@@ -253,6 +256,7 @@
       ],
       "theme": "bauwirtschaft",
       "mode": "prompt",
+      "skill_max_bytes": 7500,
       "rationale": "Fachlicher Hauptablauf „Projektvorgang fachübergreifend steuern“ führt den Vorgang zum Arbeitsprodukt."
     },
     "bav-strategie-konzern": {
@@ -700,7 +704,8 @@
       ],
       "theme": "transport_handel",
       "mode": "prompt",
-      "rationale": "Fachlicher Hauptablauf „EU-Sanktionsfall bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt."
+      "rationale": "Fachlicher Hauptablauf „EU-Sanktionsfall bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt.",
+      "plain_labels": true
     },
     "europaeisches-prozessrecht": {
       "entry_skills": [
@@ -2492,7 +2497,8 @@
       ],
       "theme": "transport_handel",
       "mode": "prompt",
-      "rationale": "Fachlicher Hauptablauf „UN-Kaufrecht: Kaufmandat bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt."
+      "rationale": "Fachlicher Hauptablauf „UN-Kaufrecht: Kaufmandat bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt.",
+      "plain_labels": true
     },
     "untersuchungshaft": {
       "entry_skills": [
@@ -2500,7 +2506,8 @@
       ],
       "theme": "straf",
       "mode": "prompt",
-      "rationale": "Fachlicher Hauptablauf „Untersuchungshaftsache bearbeiten“ führt den Vorgang zum Arbeitsprodukt."
+      "rationale": "Fachlicher Hauptablauf „Untersuchungshaftsache bearbeiten“ führt den Vorgang zum Arbeitsprodukt.",
+      "plain_labels": true
     },
     "urheberrecht-de-eu": {
       "entry_skills": [
@@ -2545,7 +2552,8 @@
       ],
       "theme": "transport_handel",
       "mode": "prompt",
-      "rationale": "Fachlicher Hauptablauf „US-Sanktionsmandat bis zum fertigen Dokument führen“ führt den Vorgang zum Arbeitsprodukt."
+      "rationale": "Fachlicher Hauptablauf „US-Sanktionsmandat bis zum fertigen Dokument führen“ führt den Vorgang zum Arbeitsprodukt.",
+      "plain_labels": true
     },
     "venture-capital-geber": {
       "entry_skills": [

@@ -16,6 +16,7 @@ from markdown_it import MarkdownIt
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES
 from release_routing import validate_plugin_version
+from werkstatt_visualisierung import BEGIN, block, load_profiles, remove_block
 
 ROOT = Path(__file__).resolve().parents[1]
 SPEC = importlib.util.spec_from_file_location(
@@ -26,7 +27,8 @@ SPEC.loader.exec_module(BUILD)
 P, B, PROJECT = BUILD.PLUGIN, BUILD.COMPANION, BUILD.PROJECT
 
 # Bereits auf main geprüfte Importkorrekturen und fachliche Präzisierungen.
-# Alle anderen Quelldateien müssen weiterhin dem unveränderten Original entsprechen.
+# Außerhalb der separat geprüften, kanonischen Oberflächenanweisung müssen alle
+# anderen Quelldateien weiterhin dem unveränderten Original entsprechen.
 APPROVED_SOURCE_HASHES = {
     # Qualitätsprüfung 16.10.2026: Präzedenzbindung, Rechtskraft und Sonderbindungen trennen.
     f"{P}/references/methodik-buergerliches-recht.md": "4e5ab8287e703a6488972cc2873b73469e07f42af348d5739208ef000eb8f7f7",
@@ -79,12 +81,21 @@ class ImportTests(unittest.TestCase):
                     relative = item.filename.removeprefix(old + "/")
                     target = ROOT / new / relative
                     self.assertTrue(target.is_file(), relative)
+                    source = target.read_bytes()
+                    if BEGIN.encode() in source:
+                        self.assertIn(relative, {
+                            f"skills/{name}/SKILL.md"
+                            for name in load_profiles()[new]["entry_skills"]
+                        })
+                        original = remove_block(source.decode("utf-8"))
+                        self.assertEqual(source, block(original, new, kind="skill").encode("utf-8"), relative)
+                        source = original.encode("utf-8")
                     expected = APPROVED_SOURCE_HASHES.get(f"{new}/{relative}")
                     if expected:
-                        self.assertEqual(hashlib.sha256(target.read_bytes()).hexdigest(), expected, relative)
+                        self.assertEqual(hashlib.sha256(source).hexdigest(), expected, relative)
                     else:
                         self.assertEqual(
-                            target.read_bytes(), archive.read(item), relative
+                            source, archive.read(item), relative
                         )
 
     def test_methodik_correction_distinguishes_binding_effects(self):

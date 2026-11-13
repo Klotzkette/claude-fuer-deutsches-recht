@@ -46,25 +46,26 @@
       "theme": "bgb",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Aus Geschäftsunterlagen vollständige AGB erstellen“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern.",
+      "plain_labels": true,
       "family": "vertrag",
       "files": [
         {
           "path": "agb-werkstatt/skills/agb-hauptproblem-loesen/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "501e370a8a8d16032e6309755a19032fa6268753ee02b948aa25cba3daa91271",
-          "sha256": "6bfb6b7556d618d37685fffcc2968ac50e38df240545d547119b8cb505364e74"
+          "sha256": "748aa35272bf08ea99152374350d991856eff341a4b91517ebd78ab23e3ba369"
         },
         {
           "path": "agb-werkstatt/skills/agb-auftrag-klaeren/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "a909ade8840c91e4e2a4080a5e6612fd25b523cb70e306eb386587cac36fcbb3",
-          "sha256": "993dde37d7113f3501feb6a666fdaa670b944b3052f909432f976a7e4d217896"
+          "sha256": "8b4ca66de5591f8ecd104ccc87659c1a43fc0a055559f2ea1e5ebbc0b72efd5d"
         },
         {
           "path": "agb-werkstatt/agb-werkstatt-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "0a4495291bd1a02af61c8f9f1957fb8fcf964c0b5506e4ebb2d4075659e51416",
-          "sha256": "1a6637c58f01a6bc615e0eeb1d9ea7e696864df3f080d33d89030380260a4940"
+          "sha256": "b7664065e10ec0322198a4296a2a934db258ff211f8611106a18eb91a57eac4a"
         }
       ]
     },
@@ -357,19 +358,20 @@
       "theme": "forderung",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Kündigungsschutzmandat bis zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt.",
+      "plain_labels": true,
       "family": "zahlen",
       "files": [
         {
           "path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/skills/kuendigungsschutzmandat-steuern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "470558b7c821af046f88389227f4c28caa58f6593ce559fb56f255a0dad652c2",
-          "sha256": "180a46ca8c876bb6bf2ca8abd4daa4c54304b8948136561b8abd87fd87e020ed"
+          "sha256": "8a80ef44b07306d81ac483b45e6e65f5ba71663395260a2aec062fd897ee067d"
         },
         {
           "path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "579ab01fbf41d24dcd1ace16fbc3b6759a8e653f717e4fce817d5ef4fb7897b4",
-          "sha256": "ebb6486ab065b1fe92ab9140d8037f025f176bc6cc6c0220d139c84dd0aa9b70"
+          "sha256": "b61f8df2c162278470db0618720ceae0820f6c2a6605b8459534d4b4de5326c7"
         }
       ]
     },
@@ -511,31 +513,31 @@
       "theme": "transport_handel",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern.",
-      "family": "projekt",
+      "family": "vertrag",
       "files": [
         {
           "path": "aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "91691c47932b3a2455406835f72dad597fa04ea74309b01f1badd5613f3a0ef3",
-          "sha256": "b754b45f9ed3cd84af6a2924a93f0c93084d484d46dac9b0230fe6371c0d9c73"
+          "sha256": "d37d74fe434a4dc58dbbc034aa12f20e017a9906433363e3029731aefa777dee"
         },
         {
           "path": "aussenwirtschaft-zoll-sanktionen/skills/juristischer-argumentationskern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "ada62eeac683f69e6de7f1f3af73ed8eee8b49326419bc440a5fdd41bb433a0b",
-          "sha256": "25a2dc91dfdb53e00a9284b3a1808354abadb2f660947ae7e9d951173d8f4de1"
+          "sha256": "72f95530a824231845f259953196066a287ede9d0b9a9a09fd7421e606391180"
         },
         {
           "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "fc942f440d892015acf4046f18e70d164996b6557fce01f76dc37031a6dc7a50",
-          "sha256": "3ead41687345307945dd4b81af20f1e457d9764fac9ee9e686286f283dad1833"
+          "sha256": "620b89f6e2cff1b7a227b389ae493d9c1387aa6c3b655cab678b80fb2f185c83"
         },
         {
           "path": "testakten/megaprompts/aussenwirtschaft-zoll-sanktionen.md",
           "kind": "workshop",
           "preserved_body_sha256": "abda26a6d8be4926934d1f4e7046ef62f5d78a4118cfc9f88ae3bd15b378b4f7",
-          "sha256": "4a2b44fb6373d1277093c2ae6518ee4b4df902e22cd680ce19cf60154b17c326"
+          "sha256": "7e817955186942125f7b05975c6a2dfd069211f3b79e3edaa00b0a5b6c4e32cb"
         }
       ]
     },
@@ -951,6 +953,7 @@
       ],
       "theme": "bauwirtschaft",
       "mode": "prompt",
+      "skill_max_bytes": 7500,
       "rationale": "Fachlicher Hauptablauf „Bauaufgabe zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt.",
       "family": "projekt",
       "files": [
@@ -958,7 +961,7 @@
           "path": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/skills/bauaufgabe-zum-arbeitsprodukt-fuehren/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "3f9c22bb8cf3ae32280a00978fcff1449d76a96bcbbfb8c48bb3469e829eae7b",
-          "sha256": "4bab4e9155155c7cca70ad9a7b41e6388eadec9b0dd149b4ea38e31d84872192"
+          "sha256": "a3f515f60a48bcfac2c4b534eb5a055cb2aea1799ade3301c1386120d9821e18"
         },
         {
           "path": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-werkstatt.md",
@@ -974,6 +977,7 @@
       ],
       "theme": "bauwirtschaft",
       "mode": "prompt",
+      "skill_max_bytes": 7500,
       "rationale": "Fachlicher Hauptablauf „Projektvorgang fachübergreifend steuern“ führt den Vorgang zum Arbeitsprodukt.",
       "family": "projekt",
       "files": [
@@ -981,7 +985,7 @@
           "path": "bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/skills/projektvorgang-steuern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "35b9b92af5251ace4e932b0fe2d6042174e0087dea539a906089e9d5f4d48843",
-          "sha256": "3d2eb58f9bb47d93114b0a434ec3515d677ef3534c3924aac4350b4a67f7f76b"
+          "sha256": "94cb82bac7ad1f83e39640aa2ae0bc88711cecc4b54db7f82ad11485dc10664a"
         },
         {
           "path": "bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/bauwirtschaft-fortgeschrittene-werkstatt.md",
@@ -2667,19 +2671,20 @@
       "theme": "transport_handel",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „EU-Sanktionsfall bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt.",
-      "family": "projekt",
+      "plain_labels": true,
+      "family": "beziehungen",
       "files": [
         {
           "path": "eu-sanktionspruefer/skills/eu-sanktionsfall-steuern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "28487189ff404708cb9b271cde2438ba279ea528cfb7641f6376f5ca18b9b7a9",
-          "sha256": "17c57e1053339657d93fa924f167b103cac397d089472cf27fe27012746a8a5a"
+          "sha256": "82f6e29e5019b6046a7a3a5855d2bd92277de1b38b60e2775b5162a5eac65893"
         },
         {
           "path": "eu-sanktionspruefer/eu-sanktionspruefer-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "fbe46be0e479132515a584808d9eb8f87cf3a38a84a2ca809b8cf6b8c42ffd17",
-          "sha256": "b0b131c229c84cf9765672b53f4bbc569866e5e1d09ec36ce518aef4c4cdffb7"
+          "sha256": "b81d14829a12f6a78527e532fd79da274012adb77522d183edfa373bc4dd7e0c"
         }
       ]
     },
@@ -3460,37 +3465,37 @@
       "theme": "transport_handel",
       "mode": "prompt",
       "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Fachanwalt Transport Speditionsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen.",
-      "family": "projekt",
+      "family": "vertrag",
       "files": [
         {
           "path": "fachanwalt-transport-speditionsrecht/skills/juristischer-argumentationskern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "2c9471251cc24308f2e7e8a1e4d84f25553e602c29c8936961a5ba38b4a6bfa2",
-          "sha256": "da6938e480eb218fa05d7322348ff5bc7d76c169b3d0b746a3415252c19d26de"
+          "sha256": "e3447c725fbdd924b41fd57a2b230eb0460751ac794ed9f92d0d6aabbd1ba45b"
         },
         {
           "path": "fachanwalt-transport-speditionsrecht/skills/einstieg-routing/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "3a7f73e63dbf73e49ec795ae687270e91d74332086821d6885db7910602826fc",
-          "sha256": "a968148c62cc221961a80d0162403961befd38a4ab361c8b1aa0c56e5534214f"
+          "sha256": "051420c67375783fcc45630d95572c8925c0aa332fd18188fd47feba8eef12dd"
         },
         {
           "path": "fachanwalt-transport-speditionsrecht/skills/workflow-kaltstart-und-routing/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "e224d1b5159ac083a04f3538252e615fb3ce867b63d62b212d60c0227cab2b96",
-          "sha256": "ca97d3b5c8b1cce343b34eda15fc3511b0e4f6fd90bcfa6eadde9bb5ca894017"
+          "sha256": "3770dc119851f3e30e1d1be06bacaf11bddc4b7726049bf19212b0006dc22ecf"
         },
         {
           "path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "fdcb2cc2f32ca61a5e817b787bdbbb7423d1e46a80a180a9db0f1c0c7e985d8d",
-          "sha256": "d6a07f7d125cb79a6d4ffe6a95f16f40384d5b1a326335878aeeccecf26d27ea"
+          "sha256": "27cd8828d2ecf51df0a72e1c3e54892c05dd3aef6e3c9ec85783fcbb23e77c6b"
         },
         {
           "path": "testakten/megaprompts/fachanwalt-transport-speditionsrecht.md",
           "kind": "workshop",
           "preserved_body_sha256": "29ddad521fb5924cee57a1ea0b9b2fef4c58896b38a8664d54dbff7f326221ae",
-          "sha256": "ffb8382625df81ae28d580250e59ffb73e5c103f8faeec2b527295d2a4205b16"
+          "sha256": "00953a9d51399c84ef8beb9a52345de241e303df51c2315598c5806bdc5e55d6"
         }
       ]
     },
@@ -5417,31 +5422,31 @@
       "theme": "transport_handel",
       "mode": "prompt",
       "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Internationales Handelsrecht Lex Mercatoria“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen.",
-      "family": "projekt",
+      "family": "vertrag",
       "files": [
         {
           "path": "internationales-handelsrecht-lex-mercatoria/skills/juristischer-argumentationskern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "065fc53d6a9164a57ebf03e57f785cc9e19df9585fe461fd0481c01a8aca7dcf",
-          "sha256": "543349cdfb57667ee0f270c0d34a19ff2e1bfcb726469adb85335069b7c99009"
+          "sha256": "4fa362bde6d6223301a0dcd69dc3c432f17c7fcdc3bd8ca12b7048467220fd62"
         },
         {
           "path": "internationales-handelsrecht-lex-mercatoria/skills/kaltstart-triage/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "f550c50b61db0f7bf789867276211a7bfbe483ebca10a98b933391f8d7a63033",
-          "sha256": "dd9943781facdd98ec61ed8e8f074de8f1ed8b141fc8d88d1443dbe56437c60c"
+          "sha256": "21dab3643cd006895bc9ee36e0f92eae91740fb728e969403f70726fcaf05808"
         },
         {
           "path": "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "36e03d7b5f4abaca9b56494323314d9bcf68a026c0608405380a53aaeec6b1cc",
-          "sha256": "98ef7250d51529b2259ca6e2b0ee3fd522f6f9281e6c930a8839ce552f18bf7b"
+          "sha256": "46aaf76b9b0f0663f3d6c9dbd8eb4f76aa0421527c62ccd250e1d9af9f5f605c"
         },
         {
           "path": "testakten/megaprompts/internationales-handelsrecht-lex-mercatoria.md",
           "kind": "workshop",
           "preserved_body_sha256": "2679ed47eebd4e567b9105f3f231cfbcb4f6be6c9e40c6e9b0379b6f44b0cb91",
-          "sha256": "690be9ba0ded031a7746f5640540a9c116f8a7faa5b0f5f73cb871f643542ca6"
+          "sha256": "5b1bf9ff4d8de8262e3200b774cca54fd2ad804f939052ef40b03d3975ec57bf"
         }
       ]
     },
@@ -8672,31 +8677,31 @@
       "theme": "transport_handel",
       "mode": "prompt",
       "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Seerecht Schifffahrtsrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen.",
-      "family": "projekt",
+      "family": "vertrag",
       "files": [
         {
           "path": "seerecht-schifffahrtsrecht/skills/juristischer-argumentationskern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "4ec8bb997147e577c84b262a984d1e6e15639d1f67f49ea70cc1d87365a9bd6d",
-          "sha256": "d014d43a695183267e9f4d0054cff899c28443ae9bb6ddc304e50b2ea76117cd"
+          "sha256": "0a42b0938643820251e528aa5f130ae117f8d5052902a189461c430f88d55886"
         },
         {
           "path": "seerecht-schifffahrtsrecht/skills/kaltstart-triage/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "5d13b5aa5dac410ba86c695855d189418f4af941fefa93fef9f87b47a1104ea2",
-          "sha256": "80b9333612837d035f6fe9cae8eb62f76b21505036d52732fb3f974098ec2274"
+          "sha256": "d30527d585f6fcce99de26f81f2b1de002e0529664b46456eb0da21c0d6a66c7"
         },
         {
           "path": "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "8ce554f7d2c9475619b26e69a0825a1b859ab916657ed1f2b317b1978e0c6a99",
-          "sha256": "97b4006db88cfe2b2e02f09458735628f962e4d901d140ef91a17ecd6161f9a4"
+          "sha256": "671a69c489d1268946efd6272730fd6dc4506d99cbf2473f4e3e67e1769f473e"
         },
         {
           "path": "testakten/megaprompts/seerecht-schifffahrtsrecht.md",
           "kind": "workshop",
           "preserved_body_sha256": "f9fdd9bd0689e0bcfad29b9f4d8cbcad7f2b3d179f70df1a5e38fa6792a86006",
-          "sha256": "57269ce8373e15bb0cc518c0c209a32704502b902f0b2eea1ed60e1a3064d61d"
+          "sha256": "5828bf08c38cd1d3ee464d00337d4735be10fe29a47693558d75b3f832c9ddb3"
         }
       ]
     },
@@ -9637,19 +9642,20 @@
       "theme": "transport_handel",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „UN-Kaufrecht: Kaufmandat bis zum Dokument führen“ führt den Vorgang zum Arbeitsprodukt.",
-      "family": "projekt",
+      "plain_labels": true,
+      "family": "vertrag",
       "files": [
         {
           "path": "un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "fe3805f59e5ef5a337b2cf3bffff01f0dc30c69855ec74370bbf735ceec893d6",
-          "sha256": "36b7299569fe62a6455acd393b9dfd6b4cdc0720a97144ecb633d76471131e54"
+          "sha256": "6611cf1bce8e7ab3291d36f405e55a393df7f720b8bfce5bc473002fc1f2c748"
         },
         {
           "path": "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "b784a0f80581164a34add66855d5e891a0fd908526cc1c29319b4a85008fe1c0",
-          "sha256": "020b958a2d29a44c68e0427beba2fb50c8746d05f831be825b65ff882cf1408a"
+          "sha256": "84a9a9c5cfdb382b71cf4c066e9f8f4251373ffda8bbabf7397e93c77e5be308"
         }
       ]
     },
@@ -9660,19 +9666,20 @@
       "theme": "straf",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Untersuchungshaftsache bearbeiten“ führt den Vorgang zum Arbeitsprodukt.",
+      "plain_labels": true,
       "family": "verfahren",
       "files": [
         {
           "path": "untersuchungshaft/skills/uhaft-verfahren-steuern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "075f023f66eb214668a786a01f147cc48dffbc0211d5118ef434ed6fbb5958ca",
-          "sha256": "49bf8e1cbf7fdf0e73713f456245aa4086862f25059177ac8873184e65687bec"
+          "sha256": "c994bd3d6d270e2cfe7032bf5e5580348ef32f62861237f79945e1da032c3745"
         },
         {
           "path": "untersuchungshaft/untersuchungshaft-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "4760dc37244ba04bd84ef67be1cf18cb3e75137b70953602dbeaa504ded1c527",
-          "sha256": "cde3bb8ec39f29917181af5adfba4b89bbcc78e3a2f726f5bdc6b67b97c02383"
+          "sha256": "fe96e9c6d4ab26cdbe95cd30480ac15372df2c639669c2378614beb2d33afb24"
         }
       ]
     },
@@ -9834,19 +9841,20 @@
       "theme": "transport_handel",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „US-Sanktionsmandat bis zum fertigen Dokument führen“ führt den Vorgang zum Arbeitsprodukt.",
-      "family": "projekt",
+      "plain_labels": true,
+      "family": "beziehungen",
       "files": [
         {
           "path": "us-sanktionspruefer/skills/us-sanktionsmandat-steuern/SKILL.md",
           "kind": "skill",
           "preserved_body_sha256": "c507641fa59791f1b58a1a39faa28dafd4e49c1f2e68cd1058dc357a6b14993d",
-          "sha256": "7626d2350917e0cc6ed489f86ab7ec6ceb98bdb6da06ff583c22790e1e72e278"
+          "sha256": "2d16badf536006c26c25e7a633d03180557bbc68d46d641e93011233d47a8d37"
         },
         {
           "path": "us-sanktionspruefer/us-sanktionspruefer-werkstatt.md",
           "kind": "workshop",
           "preserved_body_sha256": "61bb997f74d5314f600a400adb99e3490edb33e687ada9880e193a447b513844",
-          "sha256": "06fd39d0539c99e46e5f6c17114d6cf60150fa16a8b1794f93c9e55075bf8bb1"
+          "sha256": "ce6d1e55a79d5627ff5110237041f2d4817b3c19f04dada4ae7da6860e11def1"
         }
       ]
     },
