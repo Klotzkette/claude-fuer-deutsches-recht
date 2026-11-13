@@ -11,7 +11,7 @@ from release_routing import check_asset_limit
 
 
 SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt", "release-bestand.json"}
-ASSET_SUFFIXES = {".zip", ".md"}
+ASSET_SUFFIXES = {".zip", ".md", ".docx"}
 # GitHub verlangt pro Release-Asset strikt weniger als 2 GiB.
 # https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases
 MAX_RELEASE_ASSET_BYTES = 2 ** 31

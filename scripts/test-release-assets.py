@@ -42,6 +42,10 @@ def main() -> int:
         with zipfile.ZipFile(dist / "plugin.zip", "w", zipfile.ZIP_DEFLATED) as archive:
             archive.writestr("README.md", "Inhalt")
         (dist / "hinweis.md").write_text("Direktdatei\n", encoding="utf-8")
+        with zipfile.ZipFile(dist / "vorlage.docx", "w", zipfile.ZIP_DEFLATED) as archive:
+            archive.writestr("word/document.xml", "<document>Vorlage</document>")
+        (dist / "verknuepfung.docx").symlink_to(dist / "vorlage.docx")
+        (dist / "entwurf.docm").write_bytes(b"kein freigegebenes Format")
         (dist / "marketplace.json").write_text('{"plugins": []}\n', encoding="utf-8")
         (dist / "intern.txt").write_text("kein Release-Asset\n", encoding="utf-8")
 
@@ -55,14 +59,22 @@ def main() -> int:
         require(result.returncode == 0, result.stderr)
         names = [path.name for path in release_assets(dist)]
         require(
-            names == ["checksums-sha256.txt", "hinweis.md", "marketplace.json", "plugin.zip"],
+            names == ["checksums-sha256.txt", "hinweis.md", "marketplace.json", "plugin.zip", "vorlage.docx"],
             f"unerwartete Asset-Auswahl: {names}",
         )
         checksums = read_checksums(dist / "checksums-sha256.txt")
         require("intern.txt" not in checksums, "interne Textdatei darf nicht in der Prüfsummenliste stehen")
         require(checksums["plugin.zip"] == sha256_file(dist / "plugin.zip"), "ZIP-Hash stimmt nicht")
+        require(checksums["vorlage.docx"] == sha256_file(dist / "vorlage.docx"), "Word-Hash stimmt nicht")
 
         metadata = expected_asset_metadata(dist)
+        require(
+            metadata["vorlage.docx"] == {
+                "size": (dist / "vorlage.docx").stat().st_size,
+                "digest": "sha256:" + checksums["vorlage.docx"],
+            },
+            "Wordvorlagen müssen in Upload und Remote-Prüfung dieselben Metadaten verwenden",
+        )
         local = metadata["plugin.zip"]
         require(
             U.same_asset(local, {"state": "uploaded", "size": local["size"], "digest": local["digest"]}),
