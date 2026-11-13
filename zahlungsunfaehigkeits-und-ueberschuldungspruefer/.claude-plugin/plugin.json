@@ -1,0 +1,9 @@
+{
+  "name": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+  "version": "1.0.0",
+  "description": "Rekonstruiert Zahlungsunfähigkeit und insolvenzrechtliche Überschuldung aus Bank- und Buchungsunterlagen. Prüft die Dreiwochenbilanz, Zahlungseinstellung, Fortbestehensprognose, stille Reserven und Nachrang. Mit Stichtagsrechner und drei Anfechtungsakten.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  }
+}

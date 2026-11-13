@@ -1,0 +1,4 @@
+﻿id;from;through;amount_cents;drawable;source;note
+BZ-BANK-01;2025-01-01;2026-04-30;1500000;True;"BZ-BANK-01 · Unbeanspruchte Kontokorrentlinie; bis 30.04.2026 auch an Wochenenden unmittelbar über bereits freigeschaltete Kreditdisposition nutzbar";"Unbeanspruchte Kontokorrentlinie; bis 30.04.2026 auch an Wochenenden unmittelbar über bereits freigeschaltete Kreditdisposition nutzbar"
+BZ-BANK-02;2026-05-01;2026-06-30;1500000;False;"BZ-BANK-02 · Kreditvertrag abgelaufen; keine Fortsetzung schriftlich bestätigt";"Kreditvertrag abgelaufen; keine Fortsetzung schriftlich bestätigt"
+BZ-PAT-01;2026-03-27;2026-06-30;24000000;False;"BZ-PAT-01 · Konsortiale Wunschliste; bei Bedarf weitere Gespräche zugesagt";"Konsortiale Wunschliste; bei Bedarf weitere Gespräche zugesagt"

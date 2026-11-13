@@ -1,0 +1,4 @@
+﻿id;from;through;amount_cents;drawable;source;note
+CB-BANK-01;2024-07-01;2026-04-30;9000000;True;"CB-BANK-01 · Bestätigte Zwischenlinie; Ablauffrist ohne automatische Verlängerung";"Bestätigte Zwischenlinie; Ablauffrist ohne automatische Verlängerung"
+CB-BANK-02;2026-05-01;2026-06-30;9000000;False;"CB-BANK-02 · Verlängerung lediglich beantragt; Kreditkomitee erteilte keine Zusage";"Verlängerung lediglich beantragt; Kreditkomitee erteilte keine Zusage"
+CB-PAT-01;2026-03-01;2026-06-30;33000000;False;"CB-PAT-01 · Erklärung der Holding nur über Absicht und Ansehen; kein Zahlungsversprechen";"Erklärung der Holding nur über Absicht und Ansehen; kein Zahlungsversprechen"

@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23422 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23433 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -390,6 +390,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### Z
 
+- [zahlungsunfaehigkeits-und-ueberschuldungspruefer](./zahlungsunfaehigkeits-und-ueberschuldungspruefer.md) (11 Skills)
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (84 Skills)
 - [zugewinnausgleich](./zugewinnausgleich.md) (10 Skills)
 - [zwangsverwaltung-zvg](./zwangsverwaltung-zvg.md) (59 Skills)

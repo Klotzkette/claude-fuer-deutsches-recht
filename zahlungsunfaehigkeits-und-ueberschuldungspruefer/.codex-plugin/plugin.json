@@ -1,0 +1,19 @@
+{
+  "name": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+  "version": "1.0.0",
+  "description": "Rekonstruiert Zahlungsunfähigkeit und insolvenzrechtliche Überschuldung aus Bank- und Buchungsunterlagen. Prüft die Dreiwochenbilanz, Zahlungseinstellung, Fortbestehensprognose, stille Reserven und Nachrang. Mit Stichtagsrechner und drei Anfechtungsakten.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Zahlungsunfähigkeits- und Überschuldungsprüfer",
+    "shortDescription": "Zahlungsunfähigkeit und Überschuldung stichtagsbezogen prüfen",
+    "longDescription": "Rekonstruiert Zahlungsunfähigkeit und insolvenzrechtliche Überschuldung aus Bank- und Buchungsunterlagen. Prüft die Dreiwochenbilanz, Zahlungseinstellung, Fortbestehensprognose, stille Reserven und Nachrang. Mit Stichtagsrechner und drei Anfechtungsakten.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Prüfe getrennt den frühesten belegbaren Stichtag nach § 17 und § 19 InsO. Stimme die Quellen ab und zeige Berechnung, Beweisgrenzen und die Wirkung von Stundung, Rangrücktritt und Patronat je Stichtag."
+  }
+}

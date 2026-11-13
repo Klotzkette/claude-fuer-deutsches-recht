@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "plugin": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+  "reviewed_on": "2026-11-13",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-13",
+      "supports": "Aktiva und Passiva beider Zeitebenen in der Dreiwochenbilanz ausweisen und belegen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-13",
+      "supports": "Aussagekräftige, tagesbezogene Liquiditätsentwicklung als eigenständigen Darlegungsweg prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__53-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-13",
+      "supports": "Zeitbezogene Überschuldung und negative Fortführungsprognose für die Anfechtung substantiiert darlegen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-13",
+      "supports": "Rückstände im Gesamtbild und tatsächlich verfügbare Drittmittel würdigen."
+    }
+  ],
+  "selection": {
+    "target_skill": "insolvenzreife-stichtagsbezogen-pruefen",
+    "positive": [
+      "Rekonstruiere aus zwei Jahren Kontoauszügen den frühesten Eintritt von Zahlungsunfähigkeit und Überschuldung.",
+      "Bereite die Anfechtung vor und prüfe Stichtage mit Aktiva I und II, Passiva I und II und Verwertungsstatus."
+    ],
+    "negative": [
+      "Berechne ausschließlich die handelsbilanzielle Eigenkapitalquote.",
+      "Fülle die Anmeldung einer bereits feststehenden Insolvenzforderung aus."
+    ]
+  },
+  "cases": [
+    {
+      "id": "keramikfabrik-cottbus",
+      "request": "Eine Cottbuser Keramikfabrik verliert einen geplanten Serienauftrag, während Gas und Umsatzsteuer fällig werden. Rekonstruieren Sie die frühesten belastbaren Tage für beide Insolvenzgründe und weisen Sie auf die jeweils entscheidende Quelle hin.",
+      "target_skill": "insolvenzreife-stichtagsbezogen-pruefen",
+      "input_files": [
+        "testakten/insolvenzreife-keramikfabrik-cottbus/00_Auftrag.docx",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2024-07.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2024-08.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2024-09.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2024-10.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2024-11.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2024-12.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-02.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-03.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-04.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-05.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-06.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-07.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-08.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-09.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-10.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-11.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2025-12.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2026-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2026-02.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2026-03.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2026-04.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2026-05.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/01_Bank/Auszug_2026-06.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/02_Buchhaltung/01_Buchungsjournal_EUR_Cent.csv",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/02_Buchhaltung/02_Kreditoren_OP.csv",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/02_Buchhaltung/03_Debitoren_OP.csv",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/02_Buchhaltung/04_Kreditlinien.csv",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/02_Buchhaltung/05_Stichtagsunterlagen.xlsx",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-ABG-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-ANK-00.eml",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-ANK-01.eml",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-BANK-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-BANK-02.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-CAPEX-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-DEB-06.eml",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-FA-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-FA-02.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-FIN-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-MAHN-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-NR-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-PROFIL-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-RATE-01.pdf",
+        "testakten/insolvenzreife-keramikfabrik-cottbus/03_Korrespondenz/CB-VOLL-01.pdf"
+      ],
+      "deliverables": [
+        "stichtagsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "keramikfabrik-cottbus-1",
+          "text": "Aktiva I und II sowie Passiva I und II ausweisen. Kontostände abstimmen und die exakte Restlücke mit dem richtigen Nenner belegen.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        },
+        {
+          "id": "keramikfabrik-cottbus-2",
+          "text": "Den ersten belastbaren Tag für § 17 und § 19 getrennt benennen. Offene Zeiträume und die damalige Sicht auf Prognose und Verwertungswerte begründen.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        },
+        {
+          "id": "keramikfabrik-cottbus-3",
+          "text": "Die Folgen des fehlenden Serienabrufs, der abgelaufenen Kreditlinie und der Unterstützungserklärung sind getrennt am Belegstand geprüft.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "metallbau-berlin-zehlendorf",
+      "request": "Bei einem Metallbauunternehmen fallen Kundenzahlungen, eine Stundungsvereinbarung und eine Gesellschaftererklärung in verschiedene Zeitfenster. Rekonstruieren Sie den Eintritt von Zahlungsunfähigkeit und insolvenzrechtlicher Überschuldung.",
+      "target_skill": "insolvenzreife-stichtagsbezogen-pruefen",
+      "input_files": [
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/00_Auftrag.docx",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2024-07.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2024-08.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2024-09.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2024-10.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2024-11.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2024-12.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-02.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-03.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-04.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-05.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-06.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-07.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-08.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-09.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-10.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-11.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2025-12.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2026-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2026-02.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2026-03.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2026-04.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2026-05.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/01_Bank/Auszug_2026-06.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/02_Buchhaltung/01_Buchungsjournal_EUR_Cent.csv",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/02_Buchhaltung/02_Kreditoren_OP.csv",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/02_Buchhaltung/03_Debitoren_OP.csv",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/02_Buchhaltung/04_Kreditlinien.csv",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/02_Buchhaltung/05_Stichtagsunterlagen.xlsx",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-ABG-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-ANK-01.eml",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-BANK-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-BANK-02.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-CAPEX-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-DEB-06.eml",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-INV-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-MAHN-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-NR-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-PROFIL-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-STA-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-SV-01.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-SV-02.pdf",
+        "testakten/insolvenzreife-metallbau-berlin-zehlendorf/03_Korrespondenz/BZ-VOLL-01.pdf"
+      ],
+      "deliverables": [
+        "stichtagsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "metallbau-berlin-zehlendorf-1",
+          "text": "Aktiva I und II sowie Passiva I und II ausweisen. Kontostände abstimmen und die exakte Restlücke mit dem richtigen Nenner belegen.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        },
+        {
+          "id": "metallbau-berlin-zehlendorf-2",
+          "text": "Den ersten belastbaren Tag für § 17 und § 19 getrennt benennen. Offene Zeiträume und die damalige Sicht auf Prognose und Verwertungswerte begründen.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        },
+        {
+          "id": "metallbau-berlin-zehlendorf-3",
+          "text": "Die Prüfung verwendet Stundung und Rangrücktritt in der jeweils richtigen Rechnung und begründet ihre Wirkung mit Wirksamkeitsdatum.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hubschrauber-prenzlau",
+      "request": "Ein Charterunternehmen betreibt sechs Hubschrauber bei Prenzlau. Ermitteln Sie aus Bank und Verträgen, wann der Betrieb fällige Forderungen nicht mehr decken konnte und wann eine negative Fortführungsprognose und Vermögensunterdeckung zusammentrafen.",
+      "target_skill": "insolvenzreife-stichtagsbezogen-pruefen",
+      "input_files": [
+        "testakten/insolvenzreife-hubschrauber-prenzlau/00_Auftrag.docx",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2024-07.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2024-08.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2024-09.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2024-10.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2024-11.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2024-12.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-02.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-03.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-04.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-05.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-06.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-07.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-08.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-09.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-10.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-11.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2025-12.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2026-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2026-02.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2026-03.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2026-04.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2026-05.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/01_Bank/Auszug_2026-06.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/02_Buchhaltung/01_Buchungsjournal_EUR_Cent.csv",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/02_Buchhaltung/02_Kreditoren_OP.csv",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/02_Buchhaltung/03_Debitoren_OP.csv",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/02_Buchhaltung/04_Kreditlinien.csv",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/02_Buchhaltung/05_Stichtagsunterlagen.xlsx",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-ABG-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-ANK-00.eml",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-ANK-01.eml",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-BANK-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-CAPEX-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-DEB-04.eml",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-MAHN-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-PAT-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-PAT-02.eml",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-PROFIL-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-RES-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-SV-01.pdf",
+        "testakten/insolvenzreife-hubschrauber-prenzlau/03_Korrespondenz/PR-VOLL-01.pdf"
+      ],
+      "deliverables": [
+        "stichtagsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "hubschrauber-prenzlau-1",
+          "text": "Aktiva I und II sowie Passiva I und II ausweisen. Kontostände abstimmen und die exakte Restlücke mit dem richtigen Nenner belegen.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        },
+        {
+          "id": "hubschrauber-prenzlau-2",
+          "text": "Den ersten belastbaren Tag für § 17 und § 19 getrennt benennen. Offene Zeiträume und die damalige Sicht auf Prognose und Verwertungswerte begründen.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        },
+        {
+          "id": "hubschrauber-prenzlau-3",
+          "text": "Die Prüfung bewertet nur eigene, netto verwertbare Teile der Flotte und prüft zugesagte Drittmittel nach Zeitpunkt und tatsächlicher Verfügbarkeit.",
+          "deliverables": [
+            "stichtagsvermerk.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Schneller Einstieg mit erster belegter Aussage, Zeitintervall und entscheidenden Nachforderungen.",
+    "changes": [
+      "Erster belastbarer Tag und Beweislücken je Insolvenzgrund.",
+      "Abgestimmte Stichtagsrechnung mit konkreten Quellen."
+    ],
+    "reviewed_on": "2026-11-13",
+    "sha256": "8d82c9d4c46337717073685e5fae225d44994a0368bf073d88d3c7b9c01142a1"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständiger Arbeitsgang mit Bankabgleich, getrennten Methoden, Finanzierungsvarianten und belegtem Übergabevermerk.",
+    "changes": [
+      "Erster belastbarer Tag und Beweislücken je Insolvenzgrund.",
+      "Abgestimmte Stichtagsrechnung mit konkreten Quellen."
+    ],
+    "reviewed_on": "2026-11-13",
+    "sha256": "389282d297e8c32b5c12711020d3319b8f1f9494bbb379da9f05be92b82166e0"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-11-13",
+    "method": "desk_review",
+    "opening_change": "Konkrete Insolvenzgründe und Ergebnisform im Einstieg, gefolgt von den Quellen für beide Methoden.",
+    "norms": [
+      "§§ 17, 19 und 39 InsO",
+      "§§ 129, 130, 133, 139 und 140 InsO"
+    ],
+    "remaining_limits": [
+      "Keine Modellbewertung des ChatGPT- oder Claude-Arbeitsergebnisses."
+    ],
+    "files": [
+      "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md",
+      "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-schnellstart.md",
+      "zahlungsunfaehigkeits-und-ueberschuldungspruefer/references/insolvenzreife-quellen.md"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19. Dezember 2017 – II ZR 88/16, Rn. 33–35 und 50–62",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+        "application": "Aktiva und Passiva beider Zeitebenen in der Dreiwochenbilanz ausweisen und belegen.",
+        "limit": "Der historische Organhaftungsfall beantwortet die Darlegungslast eines externen Zahlungsempfängers nicht pauschal."
+      },
+      {
+        "citation": "BGH, Urteil vom 28. Juni 2022 – II ZR 112/21, Rn. 12–17",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
+        "application": "Aussagekräftige, tagesbezogene Liquiditätsentwicklung als eigenständigen Darlegungsweg prüfen.",
+        "limit": "Die Belegqualität bestimmt die Aussagekraft der Stichtage."
+      },
+      {
+        "citation": "BGH, Urteil vom 3. März 2022 – IX ZR 53/19, Rn. 14–24 und 27–31",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__53-19.pdf?__blob=publicationFile&v=1",
+        "application": "Zeitbezogene Überschuldung und negative Fortführungsprognose für die Anfechtung substantiiert darlegen.",
+        "limit": "Schluss auf Vorsatz oder Kenntnis hängt zusätzlich von der Nähe des Liquiditätsausfalls und den konkreten Begleitumständen ab."
+      },
+      {
+        "citation": "BGH, Urteil vom 12. März 2026 – IX ZR 18/25, Rn. 24–32",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+        "application": "Rückstände im Gesamtbild und tatsächlich verfügbare Drittmittel würdigen.",
+        "limit": "Die bloße Aussicht auf Mittel genügt nicht. Der BGH stellte die Zahlungsunfähigkeit im Fall nicht abschließend fest."
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-13",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandene Bank- und OP-Unterlagen zuerst abgleichen.",
+      "Mit einem bereits vorgegebenen Stichtag die Rechenpositionen isolieren.",
+      "Bei fehlendem Status Beweislücken markieren und verfügbare Stichtage bearbeiten."
+    ],
+    "continuation": "Nachgereichte Vertragsdaten ändern nur die betroffenen Positionen und Stichtage. Unterschiede zu der ersten Fassung ausweisen.",
+    "enrichment": "Drei Akten mit fortlaufendem Zahlungsverkehr, Finanzierung und getrennten Verfahrensteilen. Numerischer Kontrolllauf über eine gesonderte strukturierte Eingabe.",
+    "limits": "Redaktioneller Nachweis und deterministische Berechnung. Keine behauptete Modellbewertung."
+  }
+}

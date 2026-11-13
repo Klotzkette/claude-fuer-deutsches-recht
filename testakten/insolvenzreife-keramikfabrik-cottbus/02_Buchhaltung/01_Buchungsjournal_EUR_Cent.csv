@@ -1,0 +1,278 @@
+﻿date;value_on;id;counterparty;description;amount_cents;balance_cents;ledger_account
+2024-07-04;2024-07-04;CB-K01-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2024-07;-3161400;18338600;1200 / 1600
+2024-07-05;2024-07-05;CB-D01-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202407/1;4306000;22644600;1200 / 1400
+2024-07-08;2024-07-08;CB-K01-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2024-07;-2155500;20489100;1200 / 1600
+2024-07-11;2024-07-11;CB-K01-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2024-07;-919700;19569400;1200 / 1600
+2024-07-12;2024-07-12;CB-D01-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202407/2;3805000;23374400;1200 / 1400
+2024-07-12;2024-07-12;CB-K01-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2024-07;-919700;22454700;1200 / 1600
+2024-07-17;2024-07-17;CB-D01-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202407/3;3638000;26092700;1200 / 1400
+2024-07-19;2024-07-19;CB-K01-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2024-07;-747200;25345500;1200 / 1600
+2024-07-22;2024-07-22;CB-D01-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202407/4;3471000;28816500;1200 / 1400
+2024-07-26;2024-07-26;CB-K01-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2024-07;-1365200;27451300;1200 / 1742
+2024-07-26;2024-07-26;CB-K01-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2024-07;-4167300;23284000;1200 / 1740
+2024-07-29;2024-07-29;CB-K01-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2024-07;-934000;22350000;1200 / 1780
+2024-08-02;2024-08-02;CB-K02-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2024-08;-3481400;18868600;1200 / 1600
+2024-08-06;2024-08-06;CB-D02-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202408/1;4525900;23394500;1200 / 1400
+2024-08-08;2024-08-08;CB-K02-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2024-08;-2373700;21020800;1200 / 1600
+2024-08-09;2024-08-09;CB-K02-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2024-08;-1012800;20008000;1200 / 1600
+2024-08-12;2024-08-12;CB-D02-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202408/2;4098200;24106200;1200 / 1400
+2024-08-14;2024-08-14;CB-K02-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2024-08;-1012800;23093400;1200 / 1600
+2024-08-16;2024-08-16;CB-D02-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202408/3;4004500;27097900;1200 / 1400
+2024-08-19;2024-08-19;CB-K02-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2024-08;-822900;26275000;1200 / 1600
+2024-08-22;2024-08-22;CB-D02-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202408/4;3910800;30185800;1200 / 1400
+2024-08-26;2024-08-26;CB-K02-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2024-08;-4589100;25596700;1200 / 1740
+2024-08-27;2024-08-27;CB-K02-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2024-08;-1503300;24093400;1200 / 1742
+2024-08-29;2024-08-29;CB-K02-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2024-08;-1028400;23065000;1200 / 1780
+2024-09-04;2024-09-04;CB-K03-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2024-09;-3614300;19450700;1200 / 1600
+2024-09-06;2024-09-06;CB-D03-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202409/1;4745800;24196500;1200 / 1400
+2024-09-06;2024-09-06;CB-K03-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2024-09;-2464300;21732200;1200 / 1600
+2024-09-11;2024-09-11;CB-K03-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2024-09;-1051400;20680800;1200 / 1600
+2024-09-12;2024-09-12;CB-D03-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202409/2;4391400;25072200;1200 / 1400
+2024-09-13;2024-09-13;CB-K03-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2024-09;-1051400;24020800;1200 / 1600
+2024-09-17;2024-09-17;CB-D03-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202409/3;4371000;28391800;1200 / 1400
+2024-09-19;2024-09-19;CB-K03-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2024-09;-854300;27537500;1200 / 1600
+2024-09-20;2024-09-20;CB-D03-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202409/4;3500600;31038100;1200 / 1400
+2024-09-26;2024-09-26;CB-K03-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2024-09;-4764400;26273700;1200 / 1740
+2024-09-27;2024-09-27;CB-K03-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2024-09;-1068000;25205700;1200 / 1780
+2024-09-27;2024-09-27;CB-K03-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2024-09;-1560700;23645000;1200 / 1742
+2024-10-04;2024-10-04;CB-D04-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202410/1;4965700;28610700;1200 / 1400
+2024-10-04;2024-10-04;CB-K04-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2024-10;-3560300;25050400;1200 / 1600
+2024-10-08;2024-10-08;CB-K04-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2024-10;-2427500;22622900;1200 / 1600
+2024-10-11;2024-10-11;CB-D04-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202410/2;3834600;26457500;1200 / 1400
+2024-10-11;2024-10-11;CB-K04-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2024-10;-1035700;25421800;1200 / 1600
+2024-10-14;2024-10-14;CB-K04-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2024-10;-1035700;24386100;1200 / 1600
+2024-10-17;2024-10-17;CB-D04-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202410/3;3887500;28273600;1200 / 1400
+2024-10-18;2024-10-18;CB-K04-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2024-10;-841500;27432100;1200 / 1600
+2024-10-22;2024-10-22;CB-D04-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202410/4;3940400;31372500;1200 / 1400
+2024-10-25;2024-10-25;CB-K04-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2024-10;-1537400;29835100;1200 / 1742
+2024-10-25;2024-10-25;CB-K04-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2024-10;-4693100;25142000;1200 / 1740
+2024-10-29;2024-10-29;CB-K04-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2024-10;-1052000;24090000;1200 / 1780
+2024-11-04;2024-11-04;CB-K05-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2024-11;-3506300;20583700;1200 / 1600
+2024-11-06;2024-11-06;CB-D05-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202411/1;4335600;24919300;1200 / 1400
+2024-11-08;2024-11-08;CB-K05-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2024-11;-2390600;22528700;1200 / 1600
+2024-11-11;2024-11-11;CB-K05-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2024-11;-1020000;21508700;1200 / 1600
+2024-11-12;2024-11-12;CB-D05-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202411/2;4127800;25636500;1200 / 1400
+2024-11-14;2024-11-14;CB-K05-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2024-11;-1020000;24616500;1200 / 1600
+2024-11-15;2024-11-15;CB-D05-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202411/3;4254000;28870500;1200 / 1400
+2024-11-19;2024-11-19;CB-K05-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2024-11;-828800;28041700;1200 / 1600
+2024-11-22;2024-11-22;CB-D05-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202411/4;3530200;31571900;1200 / 1400
+2024-11-26;2024-11-26;CB-K05-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2024-11;-4621900;26950000;1200 / 1740
+2024-11-27;2024-11-27;CB-K05-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2024-11;-1514100;25435900;1200 / 1742
+2024-11-29;2024-11-29;CB-K05-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2024-11;-1035900;24400000;1200 / 1780
+2024-12-04;2024-12-04;CB-K06-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2024-12;-3639200;20760800;1200 / 1600
+2024-12-06;2024-12-06;CB-D06-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202412/1;4555500;25316300;1200 / 1400
+2024-12-06;2024-12-06;CB-K06-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2024-12;-2481300;22835000;1200 / 1600
+2024-12-11;2024-12-11;CB-K06-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2024-12;-1058700;21776300;1200 / 1600
+2024-12-12;2024-12-12;CB-D06-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202412/2;4421000;26197300;1200 / 1400
+2024-12-13;2024-12-13;CB-K06-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2024-12;-1058700;25138600;1200 / 1600
+2024-12-17;2024-12-17;CB-D06-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202412/3;3770500;28909100;1200 / 1400
+2024-12-19;2024-12-19;CB-K06-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2024-12;-860200;28048900;1200 / 1600
+2024-12-20;2024-12-20;CB-D06-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202412/4;3970000;32018900;1200 / 1400
+2024-12-26;2024-12-26;CB-K06-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2024-12;-4797200;27221700;1200 / 1740
+2024-12-27;2024-12-27;CB-K06-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2024-12;-1075200;26146500;1200 / 1780
+2024-12-27;2024-12-27;CB-K06-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2024-12;-1571500;24575000;1200 / 1742
+2025-01-03;2025-01-03;CB-K07-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-01;-3585200;20989800;1200 / 1600
+2025-01-06;2025-01-06;CB-D07-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202501/1;4775400;25765200;1200 / 1400
+2025-01-08;2025-01-08;CB-K07-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-01;-2444500;23320700;1200 / 1600
+2025-01-10;2025-01-10;CB-D07-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202501/2;3864200;27184900;1200 / 1400
+2025-01-10;2025-01-10;CB-K07-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-01;-1043000;26141900;1200 / 1600
+2025-01-14;2025-01-14;CB-K07-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-01;-1043000;25098900;1200 / 1600
+2025-01-17;2025-01-17;CB-D07-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202501/3;4137000;29235900;1200 / 1400
+2025-01-17;2025-01-17;CB-K07-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-01;-847400;28388500;1200 / 1600
+2025-01-22;2025-01-22;CB-D07-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202501/4;3559800;31948300;1200 / 1400
+2025-01-24;2025-01-24;CB-K07-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-01;-4726000;27222300;1200 / 1740
+2025-01-27;2025-01-27;CB-K07-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-01;-1548200;25674100;1200 / 1742
+2025-01-29;2025-01-29;CB-K07-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-01;-1059100;24615000;1200 / 1780
+2025-02-04;2025-02-04;CB-K08-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-02;-3510300;21104700;1200 / 1600
+2025-02-06;2025-02-06;CB-D08-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202502/1;4995300;26100000;1200 / 1400
+2025-02-07;2025-02-07;CB-K08-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-02;-2393400;23706600;1200 / 1600
+2025-02-11;2025-02-11;CB-K08-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-02;-1021200;22685400;1200 / 1600
+2025-02-12;2025-02-12;CB-D08-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202502/2;4157400;26842800;1200 / 1400
+2025-02-14;2025-02-14;CB-K08-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-02;-1021200;25821600;1200 / 1600
+2025-02-17;2025-02-17;CB-D08-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202502/3;3653500;29475100;1200 / 1400
+2025-02-19;2025-02-19;CB-K08-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-02;-829700;28645400;1200 / 1600
+2025-02-21;2025-02-21;CB-D08-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202502/4;3999600;32645000;1200 / 1400
+2025-02-26;2025-02-26;CB-K08-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-02;-4627200;28017800;1200 / 1740
+2025-02-27;2025-02-27;CB-K08-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-02;-1515800;26502000;1200 / 1742
+2025-02-28;2025-02-28;CB-K08-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-02;-1037000;25465000;1200 / 1780
+2025-03-04;2025-03-04;CB-K09-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-03;-3456200;22008800;1200 / 1600
+2025-03-06;2025-03-06;CB-D09-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202503/1;4365200;26374000;1200 / 1400
+2025-03-07;2025-03-07;CB-K09-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-03;-2356500;24017500;1200 / 1600
+2025-03-11;2025-03-11;CB-K09-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-03;-1005500;23012000;1200 / 1600
+2025-03-12;2025-03-12;CB-D09-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202503/2;4450600;27462600;1200 / 1400
+2025-03-14;2025-03-14;CB-K09-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-03;-1005500;26457100;1200 / 1600
+2025-03-17;2025-03-17;CB-D09-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202503/3;4020000;30477100;1200 / 1400
+2025-03-19;2025-03-19;CB-K09-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-03;-816900;29660200;1200 / 1600
+2025-03-21;2025-03-21;CB-D09-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202503/4;3589400;33249600;1200 / 1400
+2025-03-26;2025-03-26;CB-K09-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-03;-4556000;28693600;1200 / 1740
+2025-03-27;2025-03-27;CB-K09-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-03;-1492500;27201100;1200 / 1742
+2025-03-28;2025-03-28;CB-K09-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-03;-1021100;26180000;1200 / 1780
+2025-04-04;2025-04-04;CB-D10-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202504/1;4585100;30765100;1200 / 1400
+2025-04-04;2025-04-04;CB-K10-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-04;-3589200;27175900;1200 / 1600
+2025-04-08;2025-04-08;CB-K10-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-04;-2447200;24728700;1200 / 1600
+2025-04-11;2025-04-11;CB-D10-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202504/2;3893800;28622500;1200 / 1400
+2025-04-11;2025-04-11;CB-K10-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-04;-1044100;27578400;1200 / 1600
+2025-04-14;2025-04-14;CB-K10-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-04;-1044100;26534300;1200 / 1600
+2025-04-17;2025-04-17;CB-D10-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202504/3;4386500;30920800;1200 / 1400
+2025-04-18;2025-04-18;CB-K10-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-04;-848400;30072400;1200 / 1600
+2025-04-22;2025-04-22;CB-D10-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202504/4;4029200;34101600;1200 / 1400
+2025-04-25;2025-04-25;CB-K10-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-04;-1549900;32551700;1200 / 1742
+2025-04-25;2025-04-25;CB-K10-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-04;-4731200;27820500;1200 / 1740
+2025-04-29;2025-04-29;CB-K10-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-04;-1060500;26760000;1200 / 1780
+2025-05-02;2025-05-02;CB-K11-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-05;-3535200;23224800;1200 / 1600
+2025-05-06;2025-05-06;CB-D11-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202505/1;4805000;28029800;1200 / 1400
+2025-05-08;2025-05-08;CB-K11-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-05;-2410400;25619400;1200 / 1600
+2025-05-09;2025-05-09;CB-K11-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-05;-1028400;24591000;1200 / 1600
+2025-05-12;2025-05-12;CB-D11-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202505/2;4187000;28778000;1200 / 1400
+2025-05-14;2025-05-14;CB-K11-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-05;-1028400;27749600;1200 / 1600
+2025-05-16;2025-05-16;CB-D11-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202505/3;3903000;31652600;1200 / 1400
+2025-05-19;2025-05-19;CB-K11-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-05;-835600;30817000;1200 / 1600
+2025-05-22;2025-05-22;CB-D11-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202505/4;3619000;34436000;1200 / 1400
+2025-05-26;2025-05-26;CB-K11-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-05;-4660000;29776000;1200 / 1740
+2025-05-27;2025-05-27;CB-K11-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-05;-1526600;28249400;1200 / 1742
+2025-05-29;2025-05-29;CB-K11-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-05;-1044400;27205000;1200 / 1780
+2025-06-04;2025-06-04;CB-K12-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-06;-3855100;23349900;1200 / 1600
+2025-06-06;2025-06-06;CB-D12-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202506/1;5024900;28374800;1200 / 1400
+2025-06-06;2025-06-06;CB-K12-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-06;-2628500;25746300;1200 / 1600
+2025-06-11;2025-06-11;CB-K12-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-06;-1121500;24624800;1200 / 1600
+2025-06-12;2025-06-12;CB-D12-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202506/2;4480200;29105000;1200 / 1400
+2025-06-13;2025-06-13;CB-K12-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-06;-1121500;27983500;1200 / 1600
+2025-06-17;2025-06-17;CB-D12-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202506/3;4269500;32253000;1200 / 1400
+2025-06-19;2025-06-19;CB-K12-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-06;-911200;31341800;1200 / 1600
+2025-06-20;2025-06-20;CB-D12-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202506/4;4058800;35400600;1200 / 1400
+2025-06-26;2025-06-26;CB-K12-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-06;-5081800;30318800;1200 / 1740
+2025-06-27;2025-06-27;CB-K12-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-06;-1139100;29179700;1200 / 1780
+2025-06-27;2025-06-27;CB-K12-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-06;-1664700;27515000;1200 / 1742
+2025-07-04;2025-07-04;CB-D13-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202507/1;4394800;31909800;1200 / 1400
+2025-07-04;2025-07-04;CB-K13-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-07;-3427100;28482700;1200 / 1600
+2025-07-08;2025-07-08;CB-K13-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-07;-2336700;26146000;1200 / 1600
+2025-07-11;2025-07-11;CB-D13-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202507/2;3923400;30069400;1200 / 1400
+2025-07-11;2025-07-11;CB-K13-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-07;-997000;29072400;1200 / 1600
+2025-07-14;2025-07-14;CB-K13-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-07;-997000;28075400;1200 / 1600
+2025-07-17;2025-07-17;CB-D13-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202507/3;3786000;31861400;1200 / 1400
+2025-07-18;2025-07-18;CB-K13-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-07;-810000;31051400;1200 / 1600
+2025-07-22;2025-07-22;CB-D13-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202507/4;3648600;34700000;1200 / 1400
+2025-07-25;2025-07-25;CB-K13-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-07;-1479900;33220100;1200 / 1742
+2025-07-25;2025-07-25;CB-K13-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-07;-4517600;28702500;1200 / 1740
+2025-07-29;2025-07-29;CB-K13-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-07;-1012500;27690000;1200 / 1780
+2025-08-04;2025-08-04;CB-K14-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-08;-3747100;23942900;1200 / 1600
+2025-08-06;2025-08-06;CB-D14-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202508/1;4614700;28557600;1200 / 1400
+2025-08-08;2025-08-08;CB-K14-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-08;-2554800;26002800;1200 / 1600
+2025-08-11;2025-08-11;CB-K14-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-08;-1090100;24912700;1200 / 1600
+2025-08-12;2025-08-12;CB-D14-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202508/2;4216600;29129300;1200 / 1400
+2025-08-14;2025-08-14;CB-K14-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-08;-1090100;28039200;1200 / 1600
+2025-08-15;2025-08-15;CB-D14-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202508/3;4152500;32191700;1200 / 1400
+2025-08-19;2025-08-19;CB-K14-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-08;-885700;31306000;1200 / 1600
+2025-08-22;2025-08-22;CB-D14-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202508/4;4088400;35394400;1200 / 1400
+2025-08-26;2025-08-26;CB-K14-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-08;-4939300;30455100;1200 / 1740
+2025-08-27;2025-08-27;CB-K14-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-08;-1618100;28837000;1200 / 1742
+2025-08-29;2025-08-29;CB-K14-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-08;-1107000;27730000;1200 / 1780
+2025-09-04;2025-09-04;CB-K15-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-09;-3485200;24244800;1200 / 1600
+2025-09-05;2025-09-05;CB-D15-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202509/1;4834600;29079400;1200 / 1400
+2025-09-08;2025-09-08;CB-K15-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-09;-2376200;26703200;1200 / 1600
+2025-09-11;2025-09-11;CB-K15-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-09;-1013900;25689300;1200 / 1600
+2025-09-12;2025-09-12;CB-D15-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202509/2;4509800;30199100;1200 / 1400
+2025-09-12;2025-09-12;CB-K15-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-09;-1013900;29185200;1200 / 1600
+2025-09-17;2025-09-17;CB-D15-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202509/3;3669000;32854200;1200 / 1400
+2025-09-19;2025-09-19;CB-K15-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-09;-823800;32030400;1200 / 1600
+2025-09-22;2025-09-22;CB-D15-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202509/4;3678200;35708600;1200 / 1400
+2025-09-26;2025-09-26;CB-K15-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-09;-1505000;34203600;1200 / 1742
+2025-09-26;2025-09-26;CB-K15-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-09;-4594100;29609500;1200 / 1740
+2025-09-29;2025-09-29;CB-K15-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-09;-1029500;28580000;1200 / 1780
+2025-10-03;2025-10-03;CB-K16-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-10;-3863400;24716600;1200 / 1600
+2025-10-06;2025-10-06;CB-D16-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202510/1;5054500;29771100;1200 / 1400
+2025-10-08;2025-10-08;CB-K16-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-10;-2634200;27136900;1200 / 1600
+2025-10-10;2025-10-10;CB-D16-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202510/2;3953000;31089900;1200 / 1400
+2025-10-10;2025-10-10;CB-K16-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-10;-1123900;29966000;1200 / 1600
+2025-10-14;2025-10-14;CB-K16-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-10;-1123900;28842100;1200 / 1600
+2025-10-17;2025-10-17;CB-D16-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202510/3;4035500;32877600;1200 / 1400
+2025-10-17;2025-10-17;CB-K16-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-10;-913200;31964400;1200 / 1600
+2025-10-22;2025-10-22;CB-D16-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202510/4;4118000;36082400;1200 / 1400
+2025-10-24;2025-10-24;CB-K16-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-10;-5092700;30989700;1200 / 1740
+2025-10-27;2025-10-27;CB-K16-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-10;-1668300;29321400;1200 / 1742
+2025-10-29;2025-10-29;CB-K16-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-10;-1141400;28180000;1200 / 1780
+2025-11-04;2025-11-04;CB-K17-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-11;-3801700;24378300;1200 / 1600
+2025-11-06;2025-11-06;CB-D17-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202511/1;4424400;28802700;1200 / 1400
+2025-11-07;2025-11-07;CB-K17-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-11;-2592100;26210600;1200 / 1600
+2025-11-11;2025-11-11;CB-K17-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-11;-1105900;25104700;1200 / 1600
+2025-11-12;2025-11-12;CB-D17-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202511/2;4246200;29350900;1200 / 1400
+2025-11-14;2025-11-14;CB-K17-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-11;-1105900;28245000;1200 / 1600
+2025-11-17;2025-11-17;CB-D17-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202511/3;4402000;32647000;1200 / 1400
+2025-11-19;2025-11-19;CB-K17-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-11;-898600;31748400;1200 / 1600
+2025-11-21;2025-11-21;CB-D17-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202511/4;3707800;35456200;1200 / 1400
+2025-11-26;2025-11-26;CB-K17-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-11;-5011300;30444900;1200 / 1740
+2025-11-27;2025-11-27;CB-K17-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-11;-1641600;28803300;1200 / 1742
+2025-11-28;2025-11-28;CB-K17-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-11;-1123300;27680000;1200 / 1780
+2025-12-04;2025-12-04;CB-K18-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2025-12;-3927000;23753000;1200 / 1600
+2025-12-05;2025-12-05;CB-D18-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202512/1;4644300;28397300;1200 / 1400
+2025-12-08;2025-12-08;CB-K18-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2025-12;-2677500;25719800;1200 / 1600
+2025-12-11;2025-12-11;CB-K18-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2025-12;-1142400;24577400;1200 / 1600
+2025-12-12;2025-12-12;CB-D18-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202512/2;4539400;29116800;1200 / 1400
+2025-12-12;2025-12-12;CB-K18-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2025-12;-1142400;27974400;1200 / 1600
+2025-12-17;2025-12-17;CB-D18-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202512/3;3918500;31892900;1200 / 1400
+2025-12-19;2025-12-19;CB-K18-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2025-12;-928200;30964700;1200 / 1600
+2025-12-22;2025-12-22;CB-D18-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202512/4;4147600;35112300;1200 / 1400
+2025-12-26;2025-12-26;CB-K18-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2025-12;-1695700;33416600;1200 / 1742
+2025-12-26;2025-12-26;CB-K18-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2025-12;-5176400;28240200;1200 / 1740
+2025-12-29;2025-12-29;CB-K18-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2025-12;-1160200;27080000;1200 / 1780
+2026-01-02;2026-01-02;CB-K19-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2026-01;-3865200;23214800;1200 / 1600
+2026-01-06;2026-01-06;CB-D19-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202601/1;4864200;28079000;1200 / 1400
+2026-01-08;2026-01-08;CB-K19-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2026-01;-2635400;25443600;1200 / 1600
+2026-01-09;2026-01-09;CB-K19-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2026-01;-1124400;24319200;1200 / 1600
+2026-01-12;2026-01-12;CB-D19-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202601/2;3982600;28301800;1200 / 1400
+2026-01-14;2026-01-14;CB-K19-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2026-01;-1124400;27177400;1200 / 1600
+2026-01-16;2026-01-16;CB-D19-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202601/3;4285000;31462400;1200 / 1400
+2026-01-19;2026-01-19;CB-K19-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2026-01;-913600;30548800;1200 / 1600
+2026-01-22;2026-01-22;CB-D19-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202601/4;3737400;34286200;1200 / 1400
+2026-01-26;2026-01-26;CB-K19-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2026-01;-5095100;29191100;1200 / 1740
+2026-01-27;2026-01-27;CB-K19-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2026-01;-1669100;27522000;1200 / 1742
+2026-01-29;2026-01-29;CB-K19-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2026-01;-1142000;26380000;1200 / 1780
+2026-02-04;2026-02-04;CB-K20-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2026-02;-3990500;22389500;1200 / 1600
+2026-02-06;2026-02-06;CB-D20-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202602/1;5084100;27473600;1200 / 1400
+2026-02-06;2026-02-06;CB-K20-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2026-02;-2720800;24752800;1200 / 1600
+2026-02-11;2026-02-11;CB-K20-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2026-02;-1160900;23591900;1200 / 1600
+2026-02-12;2026-02-12;CB-D20-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202602/2;4275800;27867700;1200 / 1400
+2026-02-13;2026-02-13;CB-K20-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2026-02;-1160900;26706800;1200 / 1600
+2026-02-17;2026-02-17;CB-D20-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202602/3;3801500;30508300;1200 / 1400
+2026-02-19;2026-02-19;CB-K20-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2026-02;-943200;29565100;1200 / 1600
+2026-02-20;2026-02-20;CB-D20-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202602/4;4177200;33742300;1200 / 1400
+2026-02-26;2026-02-26;CB-K20-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2026-02;-5260200;28482100;1200 / 1740
+2026-02-27;2026-02-27;CB-K20-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2026-02;-1178900;27303200;1200 / 1780
+2026-02-27;2026-02-27;CB-K20-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2026-02;-1723200;25580000;1200 / 1742
+2026-03-04;2026-03-04;CB-K21-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2026-03;-3818800;21761200;1200 / 1600
+2026-03-06;2026-03-06;CB-D21-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202603/1;4454000;26215200;1200 / 1400
+2026-03-06;2026-03-06;CB-K21-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2026-03;-2603700;23611500;1200 / 1600
+2026-03-11;2026-03-11;CB-K21-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2026-03;-1110900;22500600;1200 / 1600
+2026-03-12;2026-03-12;CB-D21-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202603/2;4569000;27069600;1200 / 1400
+2026-03-13;2026-03-13;CB-K21-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2026-03;-1110900;25958700;1200 / 1600
+2026-03-17;2026-03-17;CB-D21-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202603/3;4168000;30126700;1200 / 1400
+2026-03-19;2026-03-19;CB-K21-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2026-03;-902600;29224100;1200 / 1600
+2026-03-20;2026-03-20;CB-D21-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202603/4;3767000;32991100;1200 / 1400
+2026-03-26;2026-03-26;CB-K21-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2026-03;-5033800;27957300;1200 / 1740
+2026-03-27;2026-03-27;CB-K21-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2026-03;-1128300;26829000;1200 / 1780
+2026-03-27;2026-03-27;CB-K21-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2026-03;-1649000;25180000;1200 / 1742
+2026-04-03;2026-04-03;CB-K22-01-BK;Tonfeld Rohstoffe GmbH;Ton und Binder 2026-04;-3757000;21423000;1200 / 1600
+2026-04-06;2026-04-06;CB-D22-01-BK;Nordstern Pumpenbau GmbH;Keramiklos, Härteprüfung und Abnahme 202604/1;4673900;26096900;1200 / 1400
+2026-04-08;2026-04-08;CB-K22-02-BK;Lausitz Industriegas GmbH;Gasabschlag und Ofenstrom 2026-04;-2561600;23535300;1200 / 1600
+2026-04-10;2026-04-10;CB-D22-02-BK;Küstenwärme Systeme AG;Keramiklos, Härteprüfung und Abnahme 202604/2;4012200;27547500;1200 / 1400
+2026-04-10;2026-04-10;CB-K22-03-BK;Spreeufer Liegenschaften KG;Werkhallenmiete 2026-04;-1093000;26454500;1200 / 1600
+2026-04-14;2026-04-14;CB-K22-04-BK;Werkofen Service OHG;Ofenwartung und Ersatzteile 2026-04;-1093000;25361500;1200 / 1600
+2026-04-17;2026-04-17;CB-D22-03-BK;Hainufer Elektrolysetechnik GmbH;Keramiklos, Härteprüfung und Abnahme 202604/3;3684500;29046000;1200 / 1400
+2026-04-17;2026-04-17;CB-K22-05-BK;Kunststofflogistik Elster KG;Verpackung, Spedition 2026-04;-888000;28158000;1200 / 1600
+2026-04-22;2026-04-22;CB-D22-04-BK;Rieder Dichtmodule KG;Keramiklos, Härteprüfung und Abnahme 202604/4;4206800;32364800;1200 / 1400
+2026-04-24;2026-04-24;CB-K22-06-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei 2026-04;-4952400;27412400;1200 / 1740
+2026-04-27;2026-04-27;CB-K22-07-BK;Betriebskrankenkasse Werk & Land;Sozialversicherung laufend 2026-04;-1622400;25790000;1200 / 1742
+2026-04-29;2026-04-29;CB-K22-08-BK;Finanzamt Cottbus;Umsatzsteuer laufend 2026-04;-1110000;24680000;1200 / 1780
+2026-05-08;2026-05-08;CB-CAPEX-01-BK;Werkofen Service OHG;Schlussrate elektrische Formpresse und Abgasmesstechnik, Vertrag SP-119 vom 18.11.2025;-17680000;7000000;1200 / 1600
+2026-05-18;2026-05-18;CB-DEB-01-BK;Nordstern Pumpenbau GmbH;Abnahme NP-2681, 1. Los;4500000;11500000;1200 / 1400
+2026-05-20;2026-05-20;CB-KLEIN-20-BK;Lausitz Industriegas GmbH;Laufendes Prüfprotokoll, ohne Ausgleich Jahresabrechnung;-250000;11250000;1200 / 1600
+2026-05-22;2026-05-22;CB-TON-01-BK;Tonfeld Rohstoffe GmbH;Sondertonlieferung TG-433;-4000000;7250000;1200 / 1600
+2026-05-29;2026-05-29;CB-LOHN-01-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei Mai 2026;-5000000;2250000;1200 / 1740
+2026-06-01;2026-06-01;CB-DEB-02-BK;Hainufer Elektrolysetechnik GmbH;Abnahme HM-2620, Teilrechnung;3200000;5450000;1200 / 1400
+2026-06-02;2026-06-02;CB-DEB-03-BK;Rieder Dichtmodule KG;Restkaufpreis RD-2633;2600000;8050000;1200 / 1400
+2026-06-05;2026-06-05;CB-KLEIN-05-BK;Tonfeld Rohstoffe GmbH;Probemenge Kaolin, Vorkasse;-84000;7966000;1200 / 1600
+2026-06-11;2026-06-11;CB-KLEIN-11-BK;Nordstern Pumpenbau GmbH;Gutschrift aus Umverpackung an Kunden;-96000;7870000;1200 / 1600
+2026-06-17;2026-06-17;CB-DEB-04-BK;Nordstern Pumpenbau GmbH;Schlussrechnung NP-2681;2900000;10770000;1200 / 1400
+2026-06-19;2026-06-19;CB-WART-01-BK;Werkofen Service OHG;Sicherung Ofen 2, Einsatz vom 12. Juni;-2200000;8570000;1200 / 1600
+2026-06-24;2026-06-24;CB-DEB-05-BK;Hainufer Elektrolysetechnik GmbH;Laborlos HM-2627;1850000;10420000;1200 / 1400
+2026-06-30;2026-06-30;CB-LOHN-02-BK;Treuhand Zeit & Lohn GmbH;Nettolohnsammeldatei Juni 2026;-3800000;6620000;1200 / 1740

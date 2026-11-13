@@ -1,0 +1,92 @@
+{
+  "caseName": "Fiktive Beispielwerkstatt GmbH",
+  "dates": [
+    {
+      "date": "2026-01-31",
+      "overindebtedness": {
+        "complete": true,
+        "forecast": {
+          "result": "negative",
+          "through": "2026-03-15",
+          "source": "E-10, Liquiditätsplan Blatt 1 und Bankenbrief E-11",
+          "reason": "Im Finanzplan besteht am 15.03.2026 ein ungedeckter Bedarf. Die Bank hat die einzige geplante Anschlussfinanzierung abgelehnt."
+        },
+        "assets": [
+          {
+            "id": "E-12",
+            "description": "Erwarteter Nettoerlös des betriebseigenen Maschinenparks",
+            "source": "E-12, Verwertungsbericht S. 3",
+            "amountCents": 15000000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "E-13",
+            "description": "Bestandsverbindlichkeiten zum Stichtag",
+            "source": "E-13, geprüfter Verbindlichkeitenspiegel Blatt 2",
+            "amountCents": 17000000,
+            "decision": "include"
+          },
+          {
+            "id": "E-14",
+            "description": "Nachrangiges Gesellschafterdarlehen",
+            "source": "E-14, Darlehen und Nachrangvereinbarung vom 20.01.2026, Ziff. 4",
+            "amountCents": 2000000,
+            "decision": "exclude",
+            "reason": "Für dieses Darlehen ist am Stichtag der Nachrang hinter § 39 Abs. 1 Nr. 1–5 InsO wirksam vereinbart."
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "liquidity": {
+        "complete": true,
+        "nearClosure": {
+          "result": "not_established",
+          "source": "E-11 und E-15",
+          "reason": "Die Anschlussfinanzierung ist abgelehnt. Die kurzfristigen Zusagen reichen auch bei vollständigem Eingang nicht zur Schließung der Lücke."
+        },
+        "assets": [
+          {
+            "id": "E-01",
+            "description": "Verfügbares Bankguthaben",
+            "source": "E-01, Kontoauszug 15.03.2026, Saldo nach letzter Buchung",
+            "amountCents": 4000000,
+            "decision": "include",
+            "kind": "cash",
+            "availableOn": "2026-03-15"
+          },
+          {
+            "id": "E-15",
+            "description": "Bestätigter Kundenzahlungseingang",
+            "source": "E-15, Abnahme und Zahlungsavis",
+            "amountCents": 1000000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-03-22"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "E-02",
+            "description": "Fällige und eingeforderte Leasingrate",
+            "source": "E-02, Ratenplan und fällige Sammelabrechnung",
+            "amountCents": 5000000,
+            "decision": "include",
+            "dueOn": "2026-03-15"
+          },
+          {
+            "id": "E-03",
+            "description": "Weitere offene Rechnung mit Fälligkeit im Dreiwochenfenster",
+            "source": "E-03, Rechnung und bestätigte Fälligkeitsabrede",
+            "amountCents": 1000000,
+            "decision": "include",
+            "dueOn": "2026-04-05"
+          }
+        ]
+      }
+    }
+  ]
+}

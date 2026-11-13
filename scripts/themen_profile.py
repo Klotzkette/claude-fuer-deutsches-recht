@@ -6407,6 +6407,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "weg-hausverwaltung": "weg",
     "weltraumrecht": "weltraum",
     "word-legal-ai-plugin-and-skill-for-german-lawyers": "dokumentenworkflow",
+    "zahlungsunfaehigkeits-und-ueberschuldungspruefer": "insolvenz",
     "zitierweise-deutsches-recht": "methodik",
     "zugewinnausgleich": "zugewinnausgleich",
     "zwangsverwaltung-zvg": "zwangsverwaltung",

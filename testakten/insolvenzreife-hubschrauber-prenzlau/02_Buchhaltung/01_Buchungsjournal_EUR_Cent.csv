@@ -1,0 +1,279 @@
+﻿date;value_on;id;counterparty;description;amount_cents;balance_cents;ledger_account
+2024-07-04;2024-07-04;PR-K01-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2024-07;-1753400;7846600;1200 / 1600
+2024-07-05;2024-07-05;PR-D01-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202407/1;2514000;10360600;1200 / 1400
+2024-07-08;2024-07-08;PR-K01-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2024-07;-1195500;9165100;1200 / 1600
+2024-07-11;2024-07-11;PR-K01-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2024-07;-510100;8655000;1200 / 1600
+2024-07-12;2024-07-12;PR-D01-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202407/2;2205000;10860000;1200 / 1400
+2024-07-12;2024-07-12;PR-K01-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2024-07;-510100;10349900;1200 / 1600
+2024-07-17;2024-07-17;PR-D01-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202407/3;2102000;12451900;1200 / 1400
+2024-07-19;2024-07-19;PR-K01-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2024-07;-414400;12037500;1200 / 1600
+2024-07-22;2024-07-22;PR-D01-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202407/4;1999000;14036500;1200 / 1400
+2024-07-26;2024-07-26;PR-K01-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2024-07;-757200;13279300;1200 / 1742
+2024-07-26;2024-07-26;PR-K01-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2024-07;-2311300;10968000;1200 / 1740
+2024-07-29;2024-07-29;PR-K01-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-07;-518000;10450000;1200 / 1780
+2024-08-02;2024-08-02;PR-K02-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2024-08;-2073400;8376600;1200 / 1600
+2024-08-06;2024-08-06;PR-D02-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202408/1;2733900;11110500;1200 / 1400
+2024-08-08;2024-08-08;PR-K02-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2024-08;-1413700;9696800;1200 / 1600
+2024-08-09;2024-08-09;PR-K02-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2024-08;-603200;9093600;1200 / 1600
+2024-08-12;2024-08-12;PR-D02-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202408/2;2498200;11591800;1200 / 1400
+2024-08-14;2024-08-14;PR-K02-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2024-08;-603200;10988600;1200 / 1600
+2024-08-16;2024-08-16;PR-D02-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202408/3;2468500;13457100;1200 / 1400
+2024-08-19;2024-08-19;PR-K02-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2024-08;-490100;12967000;1200 / 1600
+2024-08-22;2024-08-22;PR-D02-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202408/4;2438800;15405800;1200 / 1400
+2024-08-26;2024-08-26;PR-K02-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2024-08;-2733100;12672700;1200 / 1740
+2024-08-27;2024-08-27;PR-K02-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2024-08;-895300;11777400;1200 / 1742
+2024-08-29;2024-08-29;PR-K02-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-08;-612400;11165000;1200 / 1780
+2024-09-04;2024-09-04;PR-K03-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2024-09;-2206300;8958700;1200 / 1600
+2024-09-06;2024-09-06;PR-D03-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202409/1;2953800;11912500;1200 / 1400
+2024-09-06;2024-09-06;PR-K03-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2024-09;-1504300;10408200;1200 / 1600
+2024-09-11;2024-09-11;PR-K03-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2024-09;-641800;9766400;1200 / 1600
+2024-09-12;2024-09-12;PR-D03-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202409/2;2791400;12557800;1200 / 1400
+2024-09-13;2024-09-13;PR-K03-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2024-09;-641800;11916000;1200 / 1600
+2024-09-17;2024-09-17;PR-D03-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202409/3;2835000;14751000;1200 / 1400
+2024-09-19;2024-09-19;PR-K03-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2024-09;-521500;14229500;1200 / 1600
+2024-09-20;2024-09-20;PR-D03-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202409/4;2028600;16258100;1200 / 1400
+2024-09-26;2024-09-26;PR-K03-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2024-09;-2908400;13349700;1200 / 1740
+2024-09-27;2024-09-27;PR-K03-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-09;-652000;12697700;1200 / 1780
+2024-09-27;2024-09-27;PR-K03-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2024-09;-952700;11745000;1200 / 1742
+2024-10-04;2024-10-04;PR-D04-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202410/1;3173700;14918700;1200 / 1400
+2024-10-04;2024-10-04;PR-K04-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2024-10;-2152300;12766400;1200 / 1600
+2024-10-08;2024-10-08;PR-K04-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2024-10;-1467500;11298900;1200 / 1600
+2024-10-11;2024-10-11;PR-D04-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202410/2;2234600;13533500;1200 / 1400
+2024-10-11;2024-10-11;PR-K04-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2024-10;-626100;12907400;1200 / 1600
+2024-10-14;2024-10-14;PR-K04-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2024-10;-626100;12281300;1200 / 1600
+2024-10-17;2024-10-17;PR-D04-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202410/3;2351500;14632800;1200 / 1400
+2024-10-18;2024-10-18;PR-K04-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2024-10;-508700;14124100;1200 / 1600
+2024-10-22;2024-10-22;PR-D04-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202410/4;2468400;16592500;1200 / 1400
+2024-10-25;2024-10-25;PR-K04-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2024-10;-929400;15663100;1200 / 1742
+2024-10-25;2024-10-25;PR-K04-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2024-10;-2837100;12826000;1200 / 1740
+2024-10-29;2024-10-29;PR-K04-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-10;-636000;12190000;1200 / 1780
+2024-11-04;2024-11-04;PR-K05-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2024-11;-2098300;10091700;1200 / 1600
+2024-11-06;2024-11-06;PR-D05-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202411/1;2543600;12635300;1200 / 1400
+2024-11-08;2024-11-08;PR-K05-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2024-11;-1430600;11204700;1200 / 1600
+2024-11-11;2024-11-11;PR-K05-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2024-11;-610400;10594300;1200 / 1600
+2024-11-12;2024-11-12;PR-D05-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202411/2;2527800;13122100;1200 / 1400
+2024-11-14;2024-11-14;PR-K05-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2024-11;-610400;12511700;1200 / 1600
+2024-11-15;2024-11-15;PR-D05-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202411/3;2718000;15229700;1200 / 1400
+2024-11-19;2024-11-19;PR-K05-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2024-11;-496000;14733700;1200 / 1600
+2024-11-22;2024-11-22;PR-D05-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202411/4;2058200;16791900;1200 / 1400
+2024-11-26;2024-11-26;PR-K05-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2024-11;-2765900;14026000;1200 / 1740
+2024-11-27;2024-11-27;PR-K05-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2024-11;-906100;13119900;1200 / 1742
+2024-11-29;2024-11-29;PR-K05-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-11;-619900;12500000;1200 / 1780
+2024-12-04;2024-12-04;PR-K06-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2024-12;-2231200;10268800;1200 / 1600
+2024-12-06;2024-12-06;PR-D06-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202412/1;2763500;13032300;1200 / 1400
+2024-12-06;2024-12-06;PR-K06-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2024-12;-1521300;11511000;1200 / 1600
+2024-12-11;2024-12-11;PR-K06-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2024-12;-649100;10861900;1200 / 1600
+2024-12-12;2024-12-12;PR-D06-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202412/2;2821000;13682900;1200 / 1400
+2024-12-13;2024-12-13;PR-K06-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2024-12;-649100;13033800;1200 / 1600
+2024-12-17;2024-12-17;PR-D06-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202412/3;2234500;15268300;1200 / 1400
+2024-12-19;2024-12-19;PR-K06-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2024-12;-527400;14740900;1200 / 1600
+2024-12-20;2024-12-20;PR-D06-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202412/4;2498000;17238900;1200 / 1400
+2024-12-26;2024-12-26;PR-K06-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2024-12;-2941200;14297700;1200 / 1740
+2024-12-27;2024-12-27;PR-K06-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-12;-659200;13638500;1200 / 1780
+2024-12-27;2024-12-27;PR-K06-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2024-12;-963500;12675000;1200 / 1742
+2025-01-03;2025-01-03;PR-K07-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-01;-2177200;10497800;1200 / 1600
+2025-01-06;2025-01-06;PR-D07-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202501/1;2983400;13481200;1200 / 1400
+2025-01-08;2025-01-08;PR-K07-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-01;-1484500;11996700;1200 / 1600
+2025-01-10;2025-01-10;PR-D07-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202501/2;2264200;14260900;1200 / 1400
+2025-01-10;2025-01-10;PR-K07-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-01;-633400;13627500;1200 / 1600
+2025-01-14;2025-01-14;PR-K07-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-01;-633400;12994100;1200 / 1600
+2025-01-17;2025-01-17;PR-D07-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202501/3;2601000;15595100;1200 / 1400
+2025-01-17;2025-01-17;PR-K07-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-01;-514600;15080500;1200 / 1600
+2025-01-22;2025-01-22;PR-D07-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202501/4;2087800;17168300;1200 / 1400
+2025-01-24;2025-01-24;PR-K07-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-01;-2870000;14298300;1200 / 1740
+2025-01-27;2025-01-27;PR-K07-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-01;-940200;13358100;1200 / 1742
+2025-01-29;2025-01-29;PR-K07-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-01;-643100;12715000;1200 / 1780
+2025-02-04;2025-02-04;PR-K08-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-02;-2102300;10612700;1200 / 1600
+2025-02-06;2025-02-06;PR-D08-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202502/1;3203300;13816000;1200 / 1400
+2025-02-07;2025-02-07;PR-K08-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-02;-1433400;12382600;1200 / 1600
+2025-02-11;2025-02-11;PR-K08-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-02;-611600;11771000;1200 / 1600
+2025-02-12;2025-02-12;PR-D08-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202502/2;2557400;14328400;1200 / 1400
+2025-02-14;2025-02-14;PR-K08-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-02;-611600;13716800;1200 / 1600
+2025-02-17;2025-02-17;PR-D08-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202502/3;2117500;15834300;1200 / 1400
+2025-02-19;2025-02-19;PR-K08-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-02;-496900;15337400;1200 / 1600
+2025-02-21;2025-02-21;PR-D08-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202502/4;2527600;17865000;1200 / 1400
+2025-02-26;2025-02-26;PR-K08-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-02;-2771200;15093800;1200 / 1740
+2025-02-27;2025-02-27;PR-K08-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-02;-907800;14186000;1200 / 1742
+2025-02-28;2025-02-28;PR-K08-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-02;-621000;13565000;1200 / 1780
+2025-03-04;2025-03-04;PR-K09-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-03;-2048200;11516800;1200 / 1600
+2025-03-06;2025-03-06;PR-D09-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202503/1;2573200;14090000;1200 / 1400
+2025-03-07;2025-03-07;PR-K09-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-03;-1396500;12693500;1200 / 1600
+2025-03-11;2025-03-11;PR-K09-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-03;-595900;12097600;1200 / 1600
+2025-03-12;2025-03-12;PR-D09-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202503/2;2850600;14948200;1200 / 1400
+2025-03-14;2025-03-14;PR-K09-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-03;-595900;14352300;1200 / 1600
+2025-03-17;2025-03-17;PR-D09-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202503/3;2484000;16836300;1200 / 1400
+2025-03-19;2025-03-19;PR-K09-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-03;-484100;16352200;1200 / 1600
+2025-03-21;2025-03-21;PR-D09-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202503/4;2117400;18469600;1200 / 1400
+2025-03-26;2025-03-26;PR-K09-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-03;-2700000;15769600;1200 / 1740
+2025-03-27;2025-03-27;PR-K09-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-03;-884500;14885100;1200 / 1742
+2025-03-28;2025-03-28;PR-K09-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-03;-605100;14280000;1200 / 1780
+2025-04-04;2025-04-04;PR-D10-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202504/1;2793100;17073100;1200 / 1400
+2025-04-04;2025-04-04;PR-K10-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-04;-2181200;14891900;1200 / 1600
+2025-04-08;2025-04-08;PR-K10-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-04;-1487200;13404700;1200 / 1600
+2025-04-11;2025-04-11;PR-D10-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202504/2;2293800;15698500;1200 / 1400
+2025-04-11;2025-04-11;PR-K10-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-04;-634500;15064000;1200 / 1600
+2025-04-14;2025-04-14;PR-K10-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-04;-634500;14429500;1200 / 1600
+2025-04-17;2025-04-17;PR-D10-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202504/3;2850500;17280000;1200 / 1400
+2025-04-18;2025-04-18;PR-K10-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-04;-515600;16764400;1200 / 1600
+2025-04-22;2025-04-22;PR-D10-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202504/4;2557200;19321600;1200 / 1400
+2025-04-25;2025-04-25;PR-K10-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-04;-941900;18379700;1200 / 1742
+2025-04-25;2025-04-25;PR-K10-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-04;-2875200;15504500;1200 / 1740
+2025-04-29;2025-04-29;PR-K10-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-04;-644500;14860000;1200 / 1780
+2025-05-02;2025-05-02;PR-K11-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-05;-2127200;12732800;1200 / 1600
+2025-05-06;2025-05-06;PR-D11-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202505/1;3013000;15745800;1200 / 1400
+2025-05-08;2025-05-08;PR-K11-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-05;-1450400;14295400;1200 / 1600
+2025-05-09;2025-05-09;PR-K11-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-05;-618800;13676600;1200 / 1600
+2025-05-12;2025-05-12;PR-D11-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202505/2;2587000;16263600;1200 / 1400
+2025-05-14;2025-05-14;PR-K11-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-05;-618800;15644800;1200 / 1600
+2025-05-16;2025-05-16;PR-D11-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202505/3;2367000;18011800;1200 / 1400
+2025-05-19;2025-05-19;PR-K11-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-05;-502800;17509000;1200 / 1600
+2025-05-22;2025-05-22;PR-D11-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202505/4;2147000;19656000;1200 / 1400
+2025-05-26;2025-05-26;PR-K11-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-05;-2804000;16852000;1200 / 1740
+2025-05-27;2025-05-27;PR-K11-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-05;-918600;15933400;1200 / 1742
+2025-05-29;2025-05-29;PR-K11-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-05;-628400;15305000;1200 / 1780
+2025-06-04;2025-06-04;PR-K12-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-06;-2447100;12857900;1200 / 1600
+2025-06-06;2025-06-06;PR-D12-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202506/1;3232900;16090800;1200 / 1400
+2025-06-06;2025-06-06;PR-K12-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-06;-1668500;14422300;1200 / 1600
+2025-06-11;2025-06-11;PR-K12-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-06;-711900;13710400;1200 / 1600
+2025-06-12;2025-06-12;PR-D12-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202506/2;2880200;16590600;1200 / 1400
+2025-06-13;2025-06-13;PR-K12-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-06;-711900;15878700;1200 / 1600
+2025-06-17;2025-06-17;PR-D12-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202506/3;2733500;18612200;1200 / 1400
+2025-06-19;2025-06-19;PR-K12-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-06;-578400;18033800;1200 / 1600
+2025-06-20;2025-06-20;PR-D12-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202506/4;2586800;20620600;1200 / 1400
+2025-06-26;2025-06-26;PR-K12-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-06;-3225800;17394800;1200 / 1740
+2025-06-27;2025-06-27;PR-K12-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-06;-723100;16671700;1200 / 1780
+2025-06-27;2025-06-27;PR-K12-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-06;-1056700;15615000;1200 / 1742
+2025-07-04;2025-07-04;PR-D13-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202507/1;2602800;18217800;1200 / 1400
+2025-07-04;2025-07-04;PR-K13-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-07;-2019100;16198700;1200 / 1600
+2025-07-08;2025-07-08;PR-K13-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-07;-1376700;14822000;1200 / 1600
+2025-07-11;2025-07-11;PR-D13-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202507/2;2323400;17145400;1200 / 1400
+2025-07-11;2025-07-11;PR-K13-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-07;-587400;16558000;1200 / 1600
+2025-07-14;2025-07-14;PR-K13-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-07;-587400;15970600;1200 / 1600
+2025-07-17;2025-07-17;PR-D13-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202507/3;2250000;18220600;1200 / 1400
+2025-07-18;2025-07-18;PR-K13-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-07;-477200;17743400;1200 / 1600
+2025-07-22;2025-07-22;PR-D13-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202507/4;2176600;19920000;1200 / 1400
+2025-07-25;2025-07-25;PR-K13-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-07;-871900;19048100;1200 / 1742
+2025-07-25;2025-07-25;PR-K13-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-07;-2661600;16386500;1200 / 1740
+2025-07-29;2025-07-29;PR-K13-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-07;-596500;15790000;1200 / 1780
+2025-08-04;2025-08-04;PR-K14-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-08;-2339100;13450900;1200 / 1600
+2025-08-06;2025-08-06;PR-D14-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202508/1;2822700;16273600;1200 / 1400
+2025-08-08;2025-08-08;PR-K14-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-08;-1594800;14678800;1200 / 1600
+2025-08-11;2025-08-11;PR-K14-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-08;-680500;13998300;1200 / 1600
+2025-08-12;2025-08-12;PR-D14-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202508/2;2616600;16614900;1200 / 1400
+2025-08-14;2025-08-14;PR-K14-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-08;-680500;15934400;1200 / 1600
+2025-08-15;2025-08-15;PR-D14-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202508/3;2616500;18550900;1200 / 1400
+2025-08-19;2025-08-19;PR-K14-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-08;-552900;17998000;1200 / 1600
+2025-08-22;2025-08-22;PR-D14-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202508/4;2616400;20614400;1200 / 1400
+2025-08-26;2025-08-26;PR-K14-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-08;-3083300;17531100;1200 / 1740
+2025-08-27;2025-08-27;PR-K14-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-08;-1010100;16521000;1200 / 1742
+2025-08-29;2025-08-29;PR-K14-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-08;-691000;15830000;1200 / 1780
+2025-09-04;2025-09-04;PR-K15-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-09;-2077200;13752800;1200 / 1600
+2025-09-05;2025-09-05;PR-D15-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202509/1;3042600;16795400;1200 / 1400
+2025-09-08;2025-09-08;PR-K15-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-09;-1416200;15379200;1200 / 1600
+2025-09-11;2025-09-11;PR-K15-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-09;-604300;14774900;1200 / 1600
+2025-09-12;2025-09-12;PR-D15-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202509/2;2909800;17684700;1200 / 1400
+2025-09-12;2025-09-12;PR-K15-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-09;-604300;17080400;1200 / 1600
+2025-09-17;2025-09-17;PR-D15-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202509/3;2133000;19213400;1200 / 1400
+2025-09-19;2025-09-19;PR-K15-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-09;-491000;18722400;1200 / 1600
+2025-09-22;2025-09-22;PR-D15-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202509/4;2206200;20928600;1200 / 1400
+2025-09-26;2025-09-26;PR-K15-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-09;-897000;20031600;1200 / 1742
+2025-09-26;2025-09-26;PR-K15-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-09;-2738100;17293500;1200 / 1740
+2025-09-29;2025-09-29;PR-K15-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-09;-613500;16680000;1200 / 1780
+2025-10-03;2025-10-03;PR-K16-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-10;-2455400;14224600;1200 / 1600
+2025-10-06;2025-10-06;PR-D16-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202510/1;3262500;17487100;1200 / 1400
+2025-10-08;2025-10-08;PR-K16-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-10;-1674200;15812900;1200 / 1600
+2025-10-10;2025-10-10;PR-D16-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202510/2;2353000;18165900;1200 / 1400
+2025-10-10;2025-10-10;PR-K16-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-10;-714300;17451600;1200 / 1600
+2025-10-14;2025-10-14;PR-K16-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-10;-714300;16737300;1200 / 1600
+2025-10-17;2025-10-17;PR-D16-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202510/3;2499500;19236800;1200 / 1400
+2025-10-17;2025-10-17;PR-K16-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-10;-580400;18656400;1200 / 1600
+2025-10-22;2025-10-22;PR-D16-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202510/4;2646000;21302400;1200 / 1400
+2025-10-24;2025-10-24;PR-K16-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-10;-3236700;18065700;1200 / 1740
+2025-10-27;2025-10-27;PR-K16-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-10;-1060300;17005400;1200 / 1742
+2025-10-29;2025-10-29;PR-K16-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-10;-725400;16280000;1200 / 1780
+2025-11-04;2025-11-04;PR-K17-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-11;-2393700;13886300;1200 / 1600
+2025-11-06;2025-11-06;PR-D17-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202511/1;2632400;16518700;1200 / 1400
+2025-11-07;2025-11-07;PR-K17-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-11;-1632100;14886600;1200 / 1600
+2025-11-11;2025-11-11;PR-K17-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-11;-696300;14190300;1200 / 1600
+2025-11-12;2025-11-12;PR-D17-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202511/2;2646200;16836500;1200 / 1400
+2025-11-14;2025-11-14;PR-K17-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-11;-696300;16140200;1200 / 1600
+2025-11-17;2025-11-17;PR-D17-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202511/3;2866000;19006200;1200 / 1400
+2025-11-19;2025-11-19;PR-K17-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-11;-565800;18440400;1200 / 1600
+2025-11-21;2025-11-21;PR-D17-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202511/4;2235800;20676200;1200 / 1400
+2025-11-26;2025-11-26;PR-K17-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-11;-3155300;17520900;1200 / 1740
+2025-11-27;2025-11-27;PR-K17-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-11;-1033600;16487300;1200 / 1742
+2025-11-28;2025-11-28;PR-K17-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-11;-707300;15780000;1200 / 1780
+2025-12-04;2025-12-04;PR-K18-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2025-12;-2519000;13261000;1200 / 1600
+2025-12-05;2025-12-05;PR-D18-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202512/1;2852300;16113300;1200 / 1400
+2025-12-08;2025-12-08;PR-K18-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2025-12;-1717500;14395800;1200 / 1600
+2025-12-11;2025-12-11;PR-K18-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2025-12;-732800;13663000;1200 / 1600
+2025-12-12;2025-12-12;PR-D18-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202512/2;2939400;16602400;1200 / 1400
+2025-12-12;2025-12-12;PR-K18-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2025-12;-732800;15869600;1200 / 1600
+2025-12-17;2025-12-17;PR-D18-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202512/3;2382500;18252100;1200 / 1400
+2025-12-19;2025-12-19;PR-K18-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2025-12;-595400;17656700;1200 / 1600
+2025-12-22;2025-12-22;PR-D18-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202512/4;2675600;20332300;1200 / 1400
+2025-12-26;2025-12-26;PR-K18-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2025-12;-1087700;19244600;1200 / 1742
+2025-12-26;2025-12-26;PR-K18-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2025-12;-3320400;15924200;1200 / 1740
+2025-12-29;2025-12-29;PR-K18-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-12;-744200;15180000;1200 / 1780
+2026-01-02;2026-01-02;PR-K19-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2026-01;-2457200;12722800;1200 / 1600
+2026-01-06;2026-01-06;PR-D19-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202601/1;3072200;15795000;1200 / 1400
+2026-01-08;2026-01-08;PR-K19-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2026-01;-1675400;14119600;1200 / 1600
+2026-01-09;2026-01-09;PR-K19-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2026-01;-714800;13404800;1200 / 1600
+2026-01-12;2026-01-12;PR-D19-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202601/2;2382600;15787400;1200 / 1400
+2026-01-14;2026-01-14;PR-K19-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2026-01;-714800;15072600;1200 / 1600
+2026-01-16;2026-01-16;PR-D19-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202601/3;2749000;17821600;1200 / 1400
+2026-01-19;2026-01-19;PR-K19-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2026-01;-580800;17240800;1200 / 1600
+2026-01-22;2026-01-22;PR-D19-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202601/4;2265400;19506200;1200 / 1400
+2026-01-26;2026-01-26;PR-K19-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2026-01;-3239100;16267100;1200 / 1740
+2026-01-27;2026-01-27;PR-K19-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2026-01;-1061100;15206000;1200 / 1742
+2026-01-29;2026-01-29;PR-K19-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2026-01;-726000;14480000;1200 / 1780
+2026-02-04;2026-02-04;PR-K20-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2026-02;-2582500;11897500;1200 / 1600
+2026-02-06;2026-02-06;PR-D20-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202602/1;3292100;15189600;1200 / 1400
+2026-02-06;2026-02-06;PR-K20-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2026-02;-1760800;13428800;1200 / 1600
+2026-02-11;2026-02-11;PR-K20-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2026-02;-751300;12677500;1200 / 1600
+2026-02-12;2026-02-12;PR-D20-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202602/2;2675800;15353300;1200 / 1400
+2026-02-13;2026-02-13;PR-K20-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2026-02;-751300;14602000;1200 / 1600
+2026-02-17;2026-02-17;PR-D20-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202602/3;2265500;16867500;1200 / 1400
+2026-02-19;2026-02-19;PR-K20-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2026-02;-610400;16257100;1200 / 1600
+2026-02-20;2026-02-20;PR-D20-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202602/4;2705200;18962300;1200 / 1400
+2026-02-26;2026-02-26;PR-K20-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2026-02;-3404200;15558100;1200 / 1740
+2026-02-27;2026-02-27;PR-K20-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2026-02;-762900;14795200;1200 / 1780
+2026-02-27;2026-02-27;PR-K20-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2026-02;-1115200;13680000;1200 / 1742
+2026-03-04;2026-03-04;PR-K21-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2026-03;-2410800;11269200;1200 / 1600
+2026-03-06;2026-03-06;PR-D21-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202603/1;2662000;13931200;1200 / 1400
+2026-03-06;2026-03-06;PR-K21-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2026-03;-1643700;12287500;1200 / 1600
+2026-03-11;2026-03-11;PR-K21-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2026-03;-701300;11586200;1200 / 1600
+2026-03-12;2026-03-12;PR-D21-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202603/2;2969000;14555200;1200 / 1400
+2026-03-13;2026-03-13;PR-K21-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2026-03;-701300;13853900;1200 / 1600
+2026-03-17;2026-03-17;PR-D21-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202603/3;2632000;16485900;1200 / 1400
+2026-03-19;2026-03-19;PR-K21-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2026-03;-569800;15916100;1200 / 1600
+2026-03-20;2026-03-20;PR-D21-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202603/4;2295000;18211100;1200 / 1400
+2026-03-26;2026-03-26;PR-K21-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2026-03;-3177800;15033300;1200 / 1740
+2026-03-27;2026-03-27;PR-K21-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2026-03;-712300;14321000;1200 / 1780
+2026-03-27;2026-03-27;PR-K21-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2026-03;-1041000;13280000;1200 / 1742
+2026-04-03;2026-04-03;PR-K22-01-BK;Rotorservice Havel GmbH;Wartung und Laufzeitprüfung 2026-04;-2349000;10931000;1200 / 1600
+2026-04-06;2026-04-06;PR-D22-01-BK;Waldseen Charterreisen GmbH;Charterauftrag oder Gruppenflug, Freigabe 202604/1;2881900;13812900;1200 / 1400
+2026-04-08;2026-04-08;PR-K22-02-BK;Turbinenkraft Nord KG;Treibstoff und Energiekosten 2026-04;-1601600;12211300;1200 / 1600
+2026-04-10;2026-04-10;PR-D22-02-BK;Moorflug Fotoproduktion KG;Charterauftrag oder Gruppenflug, Freigabe 202604/2;2412200;14623500;1200 / 1400
+2026-04-10;2026-04-10;PR-K22-03-BK;Uckerhangar Liegenschaften KG;Hangarmiete 2026-04;-683400;13940100;1200 / 1600
+2026-04-14;2026-04-14;PR-K22-04-BK;Luftwert Versicherungsmakler GmbH;Versicherungsbeitrag 2026-04;-683400;13256700;1200 / 1600
+2026-04-17;2026-04-17;PR-D22-03-BK;Kranich Eventservice GmbH;Charterauftrag oder Gruppenflug, Freigabe 202604/3;2148500;15405200;1200 / 1400
+2026-04-17;2026-04-17;PR-K22-05-BK;Fluggeräte Pool Ost GmbH;Fluggeräteleasing 2026-04;-555200;14850000;1200 / 1600
+2026-04-22;2026-04-22;PR-D22-04-BK;Inselblick Transfer GmbH;Charterauftrag oder Gruppenflug, Freigabe 202604/4;2734800;17584800;1200 / 1400
+2026-04-24;2026-04-24;PR-K22-06-BK;Uckerflug Personalservice GmbH;Nettolohnsammeldatei 2026-04;-3096400;14488400;1200 / 1740
+2026-04-27;2026-04-27;PR-K22-07-BK;Betriebskrankenkasse Luft & Technik;Sozialversicherung laufend 2026-04;-1014400;13474000;1200 / 1742
+2026-04-29;2026-04-29;PR-K22-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2026-04;-694000;12780000;1200 / 1780
+2026-05-15;2026-05-15;PR-CAPEX-01-BK;Luftwert Versicherungsmakler GmbH;Schlusszahlung Triebwerkstausch und eigene Ersatzrotoren, Vertrag LH-811 vom 11.12.2025;-3280000;9500000;1200 / 1600
+2026-05-21;2026-05-21;PR-KLEIN-21-BK;Rotorservice Havel GmbH;Ersatzdichtung Vorkasse, eigene neue Position;-120000;9380000;1200 / 1600
+2026-05-22;2026-05-22;PR-DEB-01-BK;Moorflug Fotoproduktion KG;Luftbildauftrag, Restbetrag nach Übergabe;1600000;10980000;1200 / 1400
+2026-05-26;2026-05-26;PR-DEB-02-BK;Inselblick Transfer GmbH;Transferreihe, bestätigtes Abschlagslos;3100000;14080000;1200 / 1400
+2026-05-29;2026-05-29;PR-FUEL-01-BK;Turbinenkraft Nord KG;Kerosin und Sicherheitsprüfungen, Rechnung TK-21;-1800000;12280000;1200 / 1600
+2026-05-29;2026-05-29;PR-LOHN-01-BK;Uckerflug Personalservice GmbH;Pilotinnen, Piloten und Technik, Lohn Mai;-5000000;7280000;1200 / 1740
+2026-06-01;2026-06-01;PR-HANG-01-BK;Uckerhangar Liegenschaften KG;Hangarmiete Juni 2026;-1250000;6030000;1200 / 1600
+2026-06-05;2026-06-05;PR-KLEIN-05-BK;Luftwert Versicherungsmakler GmbH;Prämie Fotoflug-Einzeltag;-175000;5855000;1200 / 1600
+2026-06-08;2026-06-08;PR-DEB-03-BK;Kranich Eventservice GmbH;Chartergutscheine Programm Juni;1700000;7555000;1200 / 1400
+2026-06-15;2026-06-15;PR-DEB-05-BK;Moorflug Fotoproduktion KG;Nordroute, Dateiübergabe und Abnahme;1850000;9405000;1200 / 1400
+2026-06-15;2026-06-15;PR-FUEL-02-BK;Turbinenkraft Nord KG;Treibstoff Juni, nur laufender Abruf;-600000;8805000;1200 / 1600
+2026-06-16;2026-06-16;PR-KLEIN-16-BK;Uckerhangar Liegenschaften KG;Verbrauchskosten Uckerhangar Mai;-92000;8713000;1200 / 1600
+2026-06-25;2026-06-25;PR-DEB-06-BK;Inselblick Transfer GmbH;Rückflug Abruf 55, nur ein Teilflug gebucht;1250000;9963000;1200 / 1400
+2026-06-30;2026-06-30;PR-LOHN-02-BK;Uckerflug Personalservice GmbH;Pilotinnen, Piloten und Technik, Lohn Juni;-3500000;6463000;1200 / 1740

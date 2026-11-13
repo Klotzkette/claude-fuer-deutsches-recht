@@ -1,0 +1,1000 @@
+{
+  "caseName": "Spreeglasur Industriekeramik GmbH",
+  "dates": [
+    {
+      "date": "2026-03-15",
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Die Grundstücksbewertung weist 160.000 EUR über dem Buchwert aus. Das Bankdarlehen bleibt auf der Passivseite in voller Höhe stehen. Der 58.000-EUR-Aufschub ist bereits im Darlehenssaldo enthalten."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "CB-BANK · Kontostand 15.03.2026",
+            "amountCents": 25958700,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-01",
+            "description": "Hallen und Grundstück (Verkaufskosten abgesetzt)",
+            "source": "CB-INV-01 · Maklerbandbreite und zwei Vergleichskäufe aus Gewerbepark",
+            "amountCents": 56500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-02",
+            "description": "Drei Brennöfen samt Nebenaggregaten",
+            "source": "CB-INV-02 · Versteigererangebot ab Werk; Demontage bereits abgezogen",
+            "amountCents": 27800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-03",
+            "description": "Pressen, Labor und Fahrzeug",
+            "source": "CB-INV-03 · Händlerabfrage, Prüfung der Eigentumsnachweise",
+            "amountCents": 10400000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-04",
+            "description": "Rohmaterial und verkäufliche Restlose",
+            "source": "CB-INV-04 · Mengenliste; spezifische Ausschussteile mit null bewertet",
+            "amountCents": 7500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-D21-03",
+            "description": "Abgenommene Forderung · Hainufer Elektrolysetechnik GmbH",
+            "source": "CB-OPOS · CB-D21-03; Bank · CB-D21-03-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 3876240,
+            "decision": "include"
+          },
+          {
+            "id": "CB-D21-04",
+            "description": "Abgenommene Forderung · Rieder Dichtmodule KG",
+            "source": "CB-OPOS · CB-D21-04; Bank · CB-D21-04-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 3503310,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-DAR-01",
+            "description": "Ofen- und Grundstücksdarlehen",
+            "source": "CB-DAR-01 · Bankbestätigung; Kredit einschließlich der im OPOS separat gezeigten 58.000 EUR Tilgungsrate",
+            "amountCents": 104000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-NR-01",
+            "description": "Rückzahlungsanspruch Mutterdarlehen",
+            "source": "CB-NR-01 · Vertragsnachtrag enthält nur den Zahlungsaufschub; keine Rangregel",
+            "amountCents": 24000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-MIETE-01",
+            "description": "Abfindung für unkündbares Fremdlager",
+            "source": "CB-MIETE-01 · Vergleich; fällig 2026-12-01",
+            "amountCents": 4700000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-RUECK-01",
+            "description": "Fälliger Rückbauanspruch erst bei Freigabe des Anschlussstücks",
+            "source": "CB-RUECK-01 · Anschlussvertrag und Auskunft der Netzbetreiberin; Anspruch auf Beseitigung bei Betriebsende",
+            "amountCents": 3800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-K21-05",
+            "description": "Kunststofflogistik Elster KG · Verpackung, Spedition 2026-03",
+            "source": "CB-OPOS · CB-K21-05; Bank · CB-K21-05-BK",
+            "amountCents": 902600,
+            "decision": "include"
+          },
+          {
+            "id": "CB-CAPEX-01",
+            "description": "Werkofen Service OHG · Schlussrate elektrische Formpresse und Abgasmesstechnik, Vertrag SP-119 vom 18.11.2025",
+            "source": "CB-CAPEX-01 und Bank · CB-CAPEX-01-BK",
+            "amountCents": 17680000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "positive",
+          "through": "2027-03-15",
+          "source": "CB-PLAN-2026-03-15",
+          "failureOn": null,
+          "reason": "Der aus der damaligen Auftragslage plausibilisierte Plan weist im vollständigen Prognosezeitraum keinen ungedeckten Bedarf aus. Aktenlage bis 15. März: Freigabebestätigung aus dem Beschaffungsausschuss und produktionsfertiges Angebot. Kalkulation berücksichtigt Folgeabruf und trägt die bestehenden Zahlungsverpflichtungen. Ein Abruf wäre rechtlich erst mit schriftlichem Auftrag verbindlich."
+        }
+      }
+    },
+    {
+      "date": "2026-03-16",
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Die Grundstücksbewertung weist 160.000 EUR über dem Buchwert aus. Das Bankdarlehen bleibt auf der Passivseite in voller Höhe stehen. Der 58.000-EUR-Aufschub ist bereits im Darlehenssaldo enthalten."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "CB-BANK · Kontostand 16.03.2026",
+            "amountCents": 25958700,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-01",
+            "description": "Hallen und Grundstück (Verkaufskosten abgesetzt)",
+            "source": "CB-INV-01 · Maklerbandbreite und zwei Vergleichskäufe aus Gewerbepark",
+            "amountCents": 56500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-02",
+            "description": "Drei Brennöfen samt Nebenaggregaten",
+            "source": "CB-INV-02 · Versteigererangebot ab Werk; Demontage bereits abgezogen",
+            "amountCents": 27800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-03",
+            "description": "Pressen, Labor und Fahrzeug",
+            "source": "CB-INV-03 · Händlerabfrage, Prüfung der Eigentumsnachweise",
+            "amountCents": 10400000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-04",
+            "description": "Rohmaterial und verkäufliche Restlose",
+            "source": "CB-INV-04 · Mengenliste; spezifische Ausschussteile mit null bewertet",
+            "amountCents": 7500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-D21-03",
+            "description": "Abgenommene Forderung · Hainufer Elektrolysetechnik GmbH",
+            "source": "CB-OPOS · CB-D21-03; Bank · CB-D21-03-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 3876240,
+            "decision": "include"
+          },
+          {
+            "id": "CB-D21-04",
+            "description": "Abgenommene Forderung · Rieder Dichtmodule KG",
+            "source": "CB-OPOS · CB-D21-04; Bank · CB-D21-04-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 3503310,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-DAR-01",
+            "description": "Ofen- und Grundstücksdarlehen",
+            "source": "CB-DAR-01 · Bankbestätigung; Kredit einschließlich der im OPOS separat gezeigten 58.000 EUR Tilgungsrate",
+            "amountCents": 104000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-NR-01",
+            "description": "Rückzahlungsanspruch Mutterdarlehen",
+            "source": "CB-NR-01 · Vertragsnachtrag enthält nur den Zahlungsaufschub; keine Rangregel",
+            "amountCents": 24000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-MIETE-01",
+            "description": "Abfindung für unkündbares Fremdlager",
+            "source": "CB-MIETE-01 · Vergleich; fällig 2026-12-01",
+            "amountCents": 4700000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-RUECK-01",
+            "description": "Fälliger Rückbauanspruch erst bei Freigabe des Anschlussstücks",
+            "source": "CB-RUECK-01 · Anschlussvertrag und Auskunft der Netzbetreiberin; Anspruch auf Beseitigung bei Betriebsende",
+            "amountCents": 3800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-K21-05",
+            "description": "Kunststofflogistik Elster KG · Verpackung, Spedition 2026-03",
+            "source": "CB-OPOS · CB-K21-05; Bank · CB-K21-05-BK",
+            "amountCents": 902600,
+            "decision": "include"
+          },
+          {
+            "id": "CB-CAPEX-01",
+            "description": "Werkofen Service OHG · Schlussrate elektrische Formpresse und Abgasmesstechnik, Vertrag SP-119 vom 18.11.2025",
+            "source": "CB-CAPEX-01 und Bank · CB-CAPEX-01-BK",
+            "amountCents": 17680000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-03-16",
+          "source": "CB-PLAN-2026-03-16",
+          "failureOn": "2026-10-31",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-10 von 16.232,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt."
+        }
+      }
+    },
+    {
+      "date": "2026-05-10",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "CB-BANK · Geschäftskonto am 10.05.2026",
+            "kind": "cash",
+            "amountCents": 7000000,
+            "availableOn": "2026-05-10",
+            "decision": "include"
+          },
+          {
+            "id": "CB-BANK-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-BANK-02 · Verlängerung lediglich beantragt; Kreditkomitee erteilte keine Zusage",
+            "kind": "cash",
+            "amountCents": 9000000,
+            "availableOn": "2026-05-10",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-PAT-01 · Erklärung der Holding nur über Absicht und Ansehen; kein Zahlungsversprechen",
+            "kind": "cash",
+            "amountCents": 33000000,
+            "availableOn": "2026-05-10",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-DEB-01",
+            "description": "Abnahme NP-2681, 1. Los",
+            "source": "CB-OPOS · CB-DEB-01; Bank · CB-DEB-01-BK",
+            "kind": "inflow",
+            "amountCents": 4500000,
+            "availableOn": "2026-05-18",
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-06",
+            "description": "Streitiger Prototyp KS-2611, Abnahme offen",
+            "source": "CB-OPOS · CB-DEB-06; CB-DEB-06 Korrespondenz",
+            "kind": "inflow",
+            "amountCents": 8500000,
+            "availableOn": "2026-05-29",
+            "decision": "exclude"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-FA-01",
+            "description": "Umsatzsteuer März 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-01",
+            "amountCents": 7800000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-GAS-01",
+            "description": "Schlussbetrag Gasabrechnung, Vertragskonto 77821",
+            "source": "CB-OPOS · CB-GAS-01",
+            "amountCents": 12200000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-RATE-01",
+            "description": "Tilgungsrate Ofendarlehen nach Aufschub",
+            "source": "CB-OPOS · CB-RATE-01; CB-RATE-01 Vertragsnachtrag",
+            "amountCents": 5800000,
+            "dueOn": "2026-07-20",
+            "decision": "exclude",
+            "reason": "Dokumentierte Fälligkeitsverschiebung außerhalb des Zeitfensters."
+          },
+          {
+            "id": "CB-KLEIN-20",
+            "description": "Laufendes Prüfprotokoll, ohne Ausgleich Jahresabrechnung",
+            "source": "CB-OPOS; Bank",
+            "amountCents": 250000,
+            "dueOn": "2026-05-20",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-TON-01",
+            "description": "Sondertonlieferung TG-433",
+            "source": "CB-OPOS · CB-TON-01; Bank · CB-TON-01-BK",
+            "amountCents": 4000000,
+            "dueOn": "2026-05-22",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "CB-OPOS · CB-SV-01",
+            "amountCents": 3900000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-LOHN-01",
+            "description": "Nettolohnsammeldatei Mai 2026",
+            "source": "CB-OPOS · CB-LOHN-01; Bank · CB-LOHN-01-BK",
+            "amountCents": 5000000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "CB-BANK · CB-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      }
+    },
+    {
+      "date": "2026-05-11",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "CB-BANK · Geschäftskonto am 11.05.2026",
+            "kind": "cash",
+            "amountCents": 7000000,
+            "availableOn": "2026-05-11",
+            "decision": "include"
+          },
+          {
+            "id": "CB-BANK-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-BANK-02 · Verlängerung lediglich beantragt; Kreditkomitee erteilte keine Zusage",
+            "kind": "cash",
+            "amountCents": 9000000,
+            "availableOn": "2026-05-11",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-PAT-01 · Erklärung der Holding nur über Absicht und Ansehen; kein Zahlungsversprechen",
+            "kind": "cash",
+            "amountCents": 33000000,
+            "availableOn": "2026-05-11",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-DEB-01",
+            "description": "Abnahme NP-2681, 1. Los",
+            "source": "CB-OPOS · CB-DEB-01; Bank · CB-DEB-01-BK",
+            "kind": "inflow",
+            "amountCents": 4500000,
+            "availableOn": "2026-05-18",
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-06",
+            "description": "Streitiger Prototyp KS-2611, Abnahme offen",
+            "source": "CB-OPOS · CB-DEB-06; CB-DEB-06 Korrespondenz",
+            "kind": "inflow",
+            "amountCents": 8500000,
+            "availableOn": "2026-05-29",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-DEB-02",
+            "description": "Abnahme HM-2620, Teilrechnung",
+            "source": "CB-OPOS · CB-DEB-02; Bank · CB-DEB-02-BK",
+            "kind": "inflow",
+            "amountCents": 3200000,
+            "availableOn": "2026-06-01",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-FA-01",
+            "description": "Umsatzsteuer März 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-01",
+            "amountCents": 7800000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-GAS-01",
+            "description": "Schlussbetrag Gasabrechnung, Vertragskonto 77821",
+            "source": "CB-OPOS · CB-GAS-01",
+            "amountCents": 12200000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-RATE-01",
+            "description": "Tilgungsrate Ofendarlehen nach Aufschub",
+            "source": "CB-OPOS · CB-RATE-01; CB-RATE-01 Vertragsnachtrag",
+            "amountCents": 5800000,
+            "dueOn": "2026-07-20",
+            "decision": "exclude",
+            "reason": "Dokumentierte Fälligkeitsverschiebung außerhalb des Zeitfensters."
+          },
+          {
+            "id": "CB-KLEIN-20",
+            "description": "Laufendes Prüfprotokoll, ohne Ausgleich Jahresabrechnung",
+            "source": "CB-OPOS; Bank",
+            "amountCents": 250000,
+            "dueOn": "2026-05-20",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-TON-01",
+            "description": "Sondertonlieferung TG-433",
+            "source": "CB-OPOS · CB-TON-01; Bank · CB-TON-01-BK",
+            "amountCents": 4000000,
+            "dueOn": "2026-05-22",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "CB-OPOS · CB-SV-01",
+            "amountCents": 3900000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-LOHN-01",
+            "description": "Nettolohnsammeldatei Mai 2026",
+            "source": "CB-OPOS · CB-LOHN-01; Bank · CB-LOHN-01-BK",
+            "amountCents": 5000000,
+            "dueOn": "2026-05-29",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "CB-BANK · CB-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      },
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Die Grundstücksbewertung weist 160.000 EUR über dem Buchwert aus. Das Bankdarlehen bleibt auf der Passivseite in voller Höhe stehen. Der 58.000-EUR-Aufschub ist bereits im Darlehenssaldo enthalten."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "CB-BANK · Kontostand 11.05.2026",
+            "amountCents": 7000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-01",
+            "description": "Hallen und Grundstück (Verkaufskosten abgesetzt)",
+            "source": "CB-INV-01 · Maklerbandbreite und zwei Vergleichskäufe aus Gewerbepark",
+            "amountCents": 56500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-02",
+            "description": "Drei Brennöfen samt Nebenaggregaten",
+            "source": "CB-INV-02 · Versteigererangebot ab Werk; Demontage bereits abgezogen",
+            "amountCents": 27800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-03",
+            "description": "Pressen, Labor und Fahrzeug",
+            "source": "CB-INV-03 · Händlerabfrage, Prüfung der Eigentumsnachweise",
+            "amountCents": 10400000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-04",
+            "description": "Rohmaterial und verkäufliche Restlose",
+            "source": "CB-INV-04 · Mengenliste; spezifische Ausschussteile mit null bewertet",
+            "amountCents": 7500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-01",
+            "description": "Abgenommene Forderung · Nordstern Pumpenbau GmbH",
+            "source": "CB-OPOS · CB-DEB-01; Bank · CB-DEB-01-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 4185000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-02",
+            "description": "Abgenommene Forderung · Hainufer Elektrolysetechnik GmbH",
+            "source": "CB-OPOS · CB-DEB-02; Bank · CB-DEB-02-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 2976000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-03",
+            "description": "Abgenommene Forderung · Rieder Dichtmodule KG",
+            "source": "CB-OPOS · CB-DEB-03; Bank · CB-DEB-03-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 2418000,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-DAR-01",
+            "description": "Ofen- und Grundstücksdarlehen",
+            "source": "CB-DAR-01 · Bankbestätigung; Kredit einschließlich der im OPOS separat gezeigten 58.000 EUR Tilgungsrate",
+            "amountCents": 104000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-NR-01",
+            "description": "Rückzahlungsanspruch Mutterdarlehen",
+            "source": "CB-NR-01 · Vertragsnachtrag enthält nur den Zahlungsaufschub; keine Rangregel",
+            "amountCents": 24000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-MIETE-01",
+            "description": "Abfindung für unkündbares Fremdlager",
+            "source": "CB-MIETE-01 · Vergleich; fällig 2026-12-01",
+            "amountCents": 4700000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-RUECK-01",
+            "description": "Fälliger Rückbauanspruch erst bei Freigabe des Anschlussstücks",
+            "source": "CB-RUECK-01 · Anschlussvertrag und Auskunft der Netzbetreiberin; Anspruch auf Beseitigung bei Betriebsende",
+            "amountCents": 3800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-FA-01",
+            "description": "Finanzamt Cottbus · Umsatzsteuer März 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-01",
+            "amountCents": 7800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-GAS-01",
+            "description": "Lausitz Industriegas GmbH · Schlussbetrag Gasabrechnung, Vertragskonto 77821",
+            "source": "CB-OPOS · CB-GAS-01",
+            "amountCents": 12200000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-TON-01",
+            "description": "Tonfeld Rohstoffe GmbH · Sondertonlieferung TG-433",
+            "source": "CB-OPOS · CB-TON-01; Bank · CB-TON-01-BK",
+            "amountCents": 4000000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-05-11",
+          "source": "CB-PLAN-2026-05-11",
+          "failureOn": "2026-05-31",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-05 von 155.226,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt."
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "CB-BANK · Geschäftskonto am 01.06.2026",
+            "kind": "cash",
+            "amountCents": 5450000,
+            "availableOn": "2026-06-01",
+            "decision": "include"
+          },
+          {
+            "id": "CB-BANK-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-BANK-02 · Verlängerung lediglich beantragt; Kreditkomitee erteilte keine Zusage",
+            "kind": "cash",
+            "amountCents": 9000000,
+            "availableOn": "2026-06-01",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-PAT-01 · Erklärung der Holding nur über Absicht und Ansehen; kein Zahlungsversprechen",
+            "kind": "cash",
+            "amountCents": 33000000,
+            "availableOn": "2026-06-01",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-DEB-03",
+            "description": "Restkaufpreis RD-2633",
+            "source": "CB-OPOS · CB-DEB-03; Bank · CB-DEB-03-BK",
+            "kind": "inflow",
+            "amountCents": 2600000,
+            "availableOn": "2026-06-02",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-FA-01",
+            "description": "Umsatzsteuer März 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-01",
+            "amountCents": 7800000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-GAS-01",
+            "description": "Schlussbetrag Gasabrechnung, Vertragskonto 77821",
+            "source": "CB-OPOS · CB-GAS-01",
+            "amountCents": 12200000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-RATE-01",
+            "description": "Tilgungsrate Ofendarlehen nach Aufschub",
+            "source": "CB-OPOS · CB-RATE-01; CB-RATE-01 Vertragsnachtrag",
+            "amountCents": 5800000,
+            "dueOn": "2026-07-20",
+            "decision": "exclude",
+            "reason": "Dokumentierte Fälligkeitsverschiebung außerhalb des Zeitfensters."
+          },
+          {
+            "id": "CB-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "CB-OPOS · CB-SV-01",
+            "amountCents": 3900000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-KLEIN-05",
+            "description": "Probemenge Kaolin, Vorkasse",
+            "source": "CB-OPOS; Bank",
+            "amountCents": 84000,
+            "dueOn": "2026-06-05",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-FA-02",
+            "description": "Umsatzsteuer April 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-02",
+            "amountCents": 2900000,
+            "dueOn": "2026-06-10",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-KLEIN-11",
+            "description": "Gutschrift aus Umverpackung an Kunden",
+            "source": "CB-OPOS; Bank",
+            "amountCents": 96000,
+            "dueOn": "2026-06-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-WART-01",
+            "description": "Sicherung Ofen 2, Einsatz vom 12. Juni",
+            "source": "CB-OPOS · CB-WART-01; Bank · CB-WART-01-BK",
+            "amountCents": 2200000,
+            "dueOn": "2026-06-19",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "CB-BANK · CB-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "liquidity": {
+        "complete": true,
+        "notes": [
+          "Kontostand nach allen verfügbaren Zahlungen des Stichtags. Wiederholte Tagesstände sind einschließlich der zwischenzeitlichen Zahlungen neu abgegrenzt."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Frei verfügbares Geschäftskontoguthaben",
+            "source": "CB-BANK · Geschäftskonto am 15.06.2026",
+            "kind": "cash",
+            "amountCents": 7870000,
+            "availableOn": "2026-06-15",
+            "decision": "include"
+          },
+          {
+            "id": "CB-BANK-02",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-BANK-02 · Verlängerung lediglich beantragt; Kreditkomitee erteilte keine Zusage",
+            "kind": "cash",
+            "amountCents": 9000000,
+            "availableOn": "2026-06-15",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-PAT-01",
+            "description": "Dokumentierte Finanzierungsposition",
+            "source": "CB-PAT-01 · Erklärung der Holding nur über Absicht und Ansehen; kein Zahlungsversprechen",
+            "kind": "cash",
+            "amountCents": 33000000,
+            "availableOn": "2026-06-15",
+            "decision": "exclude"
+          },
+          {
+            "id": "CB-DEB-04",
+            "description": "Schlussrechnung NP-2681",
+            "source": "CB-OPOS · CB-DEB-04; Bank · CB-DEB-04-BK",
+            "kind": "inflow",
+            "amountCents": 2900000,
+            "availableOn": "2026-06-17",
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-05",
+            "description": "Laborlos HM-2627",
+            "source": "CB-OPOS · CB-DEB-05; Bank · CB-DEB-05-BK",
+            "kind": "inflow",
+            "amountCents": 1850000,
+            "availableOn": "2026-06-24",
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-FA-01",
+            "description": "Umsatzsteuer März 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-01",
+            "amountCents": 7800000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-GAS-01",
+            "description": "Schlussbetrag Gasabrechnung, Vertragskonto 77821",
+            "source": "CB-OPOS · CB-GAS-01",
+            "amountCents": 12200000,
+            "dueOn": "2026-05-11",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-RATE-01",
+            "description": "Tilgungsrate Ofendarlehen nach Aufschub",
+            "source": "CB-OPOS · CB-RATE-01; CB-RATE-01 Vertragsnachtrag",
+            "amountCents": 5800000,
+            "dueOn": "2026-07-20",
+            "decision": "exclude",
+            "reason": "Dokumentierte Fälligkeitsverschiebung außerhalb des Zeitfensters."
+          },
+          {
+            "id": "CB-SV-01",
+            "description": "Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "CB-OPOS · CB-SV-01",
+            "amountCents": 3900000,
+            "dueOn": "2026-05-27",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-FA-02",
+            "description": "Umsatzsteuer April 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-02",
+            "amountCents": 2900000,
+            "dueOn": "2026-06-10",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-WART-01",
+            "description": "Sicherung Ofen 2, Einsatz vom 12. Juni",
+            "source": "CB-OPOS · CB-WART-01; Bank · CB-WART-01-BK",
+            "amountCents": 2200000,
+            "dueOn": "2026-06-19",
+            "decision": "include",
+            "reason": ""
+          },
+          {
+            "id": "CB-TON-02",
+            "description": "Zweite Rohstofflieferung TG-447, Rücknahmeprüfung",
+            "source": "CB-OPOS · CB-TON-02; CB-ABG-01",
+            "amountCents": 1600000,
+            "dueOn": "2026-06-26",
+            "decision": "exclude",
+            "reason": "Der Gegenbeleg weist die erst später zu prüfende Abnahme des Nachtrags aus."
+          },
+          {
+            "id": "CB-LOHN-02",
+            "description": "Nettolohnsammeldatei Juni 2026",
+            "source": "CB-OPOS · CB-LOHN-02; Bank · CB-LOHN-02-BK",
+            "amountCents": 3800000,
+            "dueOn": "2026-06-30",
+            "decision": "include",
+            "reason": ""
+          }
+        ],
+        "nearClosure": {
+          "result": "not_established",
+          "source": "CB-BANK · CB-OPOS und Bestätigungen der Kunden",
+          "reason": "Für die über das Zeitfenster verbleibenden Rückstände ist kein hinreichend sicherer kurzfristiger Ausgleich nachgewiesen."
+        }
+      },
+      "overindebtedness": {
+        "complete": true,
+        "notes": [
+          "Die Grundstücksbewertung weist 160.000 EUR über dem Buchwert aus. Das Bankdarlehen bleibt auf der Passivseite in voller Höhe stehen. Der 58.000-EUR-Aufschub ist bereits im Darlehenssaldo enthalten."
+        ],
+        "assets": [
+          {
+            "id": "CB-BANK-CASH",
+            "description": "Geschäftskonto",
+            "source": "CB-BANK · Kontostand 15.06.2026",
+            "amountCents": 7870000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-01",
+            "description": "Hallen und Grundstück (Verkaufskosten abgesetzt)",
+            "source": "CB-INV-01 · Maklerbandbreite und zwei Vergleichskäufe aus Gewerbepark",
+            "amountCents": 56500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-02",
+            "description": "Drei Brennöfen samt Nebenaggregaten",
+            "source": "CB-INV-02 · Versteigererangebot ab Werk; Demontage bereits abgezogen",
+            "amountCents": 27800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-03",
+            "description": "Pressen, Labor und Fahrzeug",
+            "source": "CB-INV-03 · Händlerabfrage, Prüfung der Eigentumsnachweise",
+            "amountCents": 10400000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-INV-04",
+            "description": "Rohmaterial und verkäufliche Restlose",
+            "source": "CB-INV-04 · Mengenliste; spezifische Ausschussteile mit null bewertet",
+            "amountCents": 7500000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-04",
+            "description": "Abgenommene Forderung · Nordstern Pumpenbau GmbH",
+            "source": "CB-OPOS · CB-DEB-04; Bank · CB-DEB-04-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 2697000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-DEB-05",
+            "description": "Abgenommene Forderung · Hainufer Elektrolysetechnik GmbH",
+            "source": "CB-OPOS · CB-DEB-05; Bank · CB-DEB-05-BK · abzüglich 7 % Einzugs- und Risikokosten",
+            "amountCents": 1720500,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "CB-DAR-01",
+            "description": "Ofen- und Grundstücksdarlehen",
+            "source": "CB-DAR-01 · Bankbestätigung; Kredit einschließlich der im OPOS separat gezeigten 58.000 EUR Tilgungsrate",
+            "amountCents": 104000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-NR-01",
+            "description": "Rückzahlungsanspruch Mutterdarlehen",
+            "source": "CB-NR-01 · Vertragsnachtrag enthält nur den Zahlungsaufschub; keine Rangregel",
+            "amountCents": 24000000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-MIETE-01",
+            "description": "Abfindung für unkündbares Fremdlager",
+            "source": "CB-MIETE-01 · Vergleich; fällig 2026-12-01",
+            "amountCents": 4700000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-RUECK-01",
+            "description": "Fälliger Rückbauanspruch erst bei Freigabe des Anschlussstücks",
+            "source": "CB-RUECK-01 · Anschlussvertrag und Auskunft der Netzbetreiberin; Anspruch auf Beseitigung bei Betriebsende",
+            "amountCents": 3800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-FA-01",
+            "description": "Finanzamt Cottbus · Umsatzsteuer März 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-01",
+            "amountCents": 7800000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-GAS-01",
+            "description": "Lausitz Industriegas GmbH · Schlussbetrag Gasabrechnung, Vertragskonto 77821",
+            "source": "CB-OPOS · CB-GAS-01",
+            "amountCents": 12200000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-SV-01",
+            "description": "Betriebskrankenkasse Werk & Land · Gesamtsozialversicherungsbeitrag Mai 2026",
+            "source": "CB-OPOS · CB-SV-01",
+            "amountCents": 3900000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-FA-02",
+            "description": "Finanzamt Cottbus · Umsatzsteuer April 2026, Dauerfristverlängerung",
+            "source": "CB-OPOS · CB-FA-02",
+            "amountCents": 2900000,
+            "decision": "include"
+          },
+          {
+            "id": "CB-WART-01",
+            "description": "Werkofen Service OHG · Sicherung Ofen 2, Einsatz vom 12. Juni",
+            "source": "CB-OPOS · CB-WART-01; Bank · CB-WART-01-BK",
+            "amountCents": 2200000,
+            "decision": "include"
+          }
+        ],
+        "forecast": {
+          "result": "negative",
+          "through": "2027-06-15",
+          "source": "CB-PLAN-2026-06-15",
+          "failureOn": "2026-06-30",
+          "reason": "Ungedeckter Finanzbedarf ab 2026-06 von 208.850,00 EUR. Die Fortschreibung verwendet die endgültige Absage vom 16. März. Der offene Prototypentest wird gesondert dokumentiert. Der Folgeabruf von rechnerisch 110.000 EUR netto pro Monat entfällt vollständig. Für die betreffende Serie werden zugleich wesentliche Material-, Energie- und Logistikkosten erspart. Der übrige Geschäftsbetrieb verursacht im Plan ungefähr 37.000 EUR monatlichen Mittelabfluss. Die neue Zwischenlinie ist nur beantragt."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+﻿date;value_on;id;counterparty;description;amount_cents;balance_cents;ledger_account
+2024-07-04;2024-07-04;BZ-K01-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2024-07;-2215400;13284600;1200 / 1600
+2024-07-05;2024-07-05;BZ-D01-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202407/1;3102000;16386600;1200 / 1400
+2024-07-08;2024-07-08;BZ-K01-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2024-07;-1510500;14876100;1200 / 1600
+2024-07-11;2024-07-11;BZ-K01-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2024-07;-644500;14231600;1200 / 1600
+2024-07-12;2024-07-12;BZ-D01-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202407/2;2730000;16961600;1200 / 1400
+2024-07-12;2024-07-12;BZ-K01-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2024-07;-644500;16317100;1200 / 1600
+2024-07-17;2024-07-17;BZ-D01-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202407/3;2606000;18923100;1200 / 1400
+2024-07-19;2024-07-19;BZ-K01-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2024-07;-523600;18399500;1200 / 1600
+2024-07-22;2024-07-22;BZ-D01-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202407/4;2482000;20881500;1200 / 1400
+2024-07-26;2024-07-26;BZ-K01-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2024-07;-956600;19924900;1200 / 1742
+2024-07-26;2024-07-26;BZ-K01-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2024-07;-2920300;17004600;1200 / 1740
+2024-07-29;2024-07-29;BZ-K01-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-07;-654600;16350000;1200 / 1780
+2024-08-02;2024-08-02;BZ-K02-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2024-08;-2535400;13814600;1200 / 1600
+2024-08-06;2024-08-06;BZ-D02-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202408/1;3321900;17136500;1200 / 1400
+2024-08-08;2024-08-08;BZ-K02-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2024-08;-1728700;15407800;1200 / 1600
+2024-08-09;2024-08-09;BZ-K02-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2024-08;-737600;14670200;1200 / 1600
+2024-08-12;2024-08-12;BZ-D02-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202408/2;3023200;17693400;1200 / 1400
+2024-08-14;2024-08-14;BZ-K02-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2024-08;-737600;16955800;1200 / 1600
+2024-08-16;2024-08-16;BZ-D02-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202408/3;2972500;19928300;1200 / 1400
+2024-08-19;2024-08-19;BZ-K02-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2024-08;-599300;19329000;1200 / 1600
+2024-08-22;2024-08-22;BZ-D02-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202408/4;2921800;22250800;1200 / 1400
+2024-08-26;2024-08-26;BZ-K02-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2024-08;-3342100;18908700;1200 / 1740
+2024-08-27;2024-08-27;BZ-K02-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2024-08;-1094800;17813900;1200 / 1742
+2024-08-29;2024-08-29;BZ-K02-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-08;-748900;17065000;1200 / 1780
+2024-09-04;2024-09-04;BZ-K03-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2024-09;-2668300;14396700;1200 / 1600
+2024-09-06;2024-09-06;BZ-D03-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202409/1;3541800;17938500;1200 / 1400
+2024-09-06;2024-09-06;BZ-K03-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2024-09;-1819300;16119200;1200 / 1600
+2024-09-11;2024-09-11;BZ-K03-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2024-09;-776200;15343000;1200 / 1600
+2024-09-12;2024-09-12;BZ-D03-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202409/2;3316400;18659400;1200 / 1400
+2024-09-13;2024-09-13;BZ-K03-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2024-09;-776200;17883200;1200 / 1600
+2024-09-17;2024-09-17;BZ-D03-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202409/3;3339000;21222200;1200 / 1400
+2024-09-19;2024-09-19;BZ-K03-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2024-09;-630700;20591500;1200 / 1600
+2024-09-20;2024-09-20;BZ-D03-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202409/4;2511600;23103100;1200 / 1400
+2024-09-26;2024-09-26;BZ-K03-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2024-09;-3517400;19585700;1200 / 1740
+2024-09-27;2024-09-27;BZ-K03-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-09;-788500;18797200;1200 / 1780
+2024-09-27;2024-09-27;BZ-K03-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2024-09;-1152200;17645000;1200 / 1742
+2024-10-04;2024-10-04;BZ-D04-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202410/1;3761700;21406700;1200 / 1400
+2024-10-04;2024-10-04;BZ-K04-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2024-10;-2614300;18792400;1200 / 1600
+2024-10-08;2024-10-08;BZ-K04-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2024-10;-1782500;17009900;1200 / 1600
+2024-10-11;2024-10-11;BZ-D04-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202410/2;2759600;19769500;1200 / 1400
+2024-10-11;2024-10-11;BZ-K04-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2024-10;-760500;19009000;1200 / 1600
+2024-10-14;2024-10-14;BZ-K04-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2024-10;-760500;18248500;1200 / 1600
+2024-10-17;2024-10-17;BZ-D04-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202410/3;2855500;21104000;1200 / 1400
+2024-10-18;2024-10-18;BZ-K04-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2024-10;-617900;20486100;1200 / 1600
+2024-10-22;2024-10-22;BZ-D04-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202410/4;2951400;23437500;1200 / 1400
+2024-10-25;2024-10-25;BZ-K04-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2024-10;-1128900;22308600;1200 / 1742
+2024-10-25;2024-10-25;BZ-K04-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2024-10;-3446100;18862500;1200 / 1740
+2024-10-29;2024-10-29;BZ-K04-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-10;-772500;18090000;1200 / 1780
+2024-11-04;2024-11-04;BZ-K05-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2024-11;-2560300;15529700;1200 / 1600
+2024-11-06;2024-11-06;BZ-D05-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202411/1;3131600;18661300;1200 / 1400
+2024-11-08;2024-11-08;BZ-K05-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2024-11;-1745600;16915700;1200 / 1600
+2024-11-11;2024-11-11;BZ-K05-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2024-11;-744800;16170900;1200 / 1600
+2024-11-12;2024-11-12;BZ-D05-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202411/2;3052800;19223700;1200 / 1400
+2024-11-14;2024-11-14;BZ-K05-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2024-11;-744800;18478900;1200 / 1600
+2024-11-15;2024-11-15;BZ-D05-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202411/3;3222000;21700900;1200 / 1400
+2024-11-19;2024-11-19;BZ-K05-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2024-11;-605200;21095700;1200 / 1600
+2024-11-22;2024-11-22;BZ-D05-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202411/4;2541200;23636900;1200 / 1400
+2024-11-26;2024-11-26;BZ-K05-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2024-11;-3374900;20262000;1200 / 1740
+2024-11-27;2024-11-27;BZ-K05-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2024-11;-1105600;19156400;1200 / 1742
+2024-11-29;2024-11-29;BZ-K05-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-11;-756400;18400000;1200 / 1780
+2024-12-04;2024-12-04;BZ-K06-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2024-12;-2693200;15706800;1200 / 1600
+2024-12-06;2024-12-06;BZ-D06-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202412/1;3351500;19058300;1200 / 1400
+2024-12-06;2024-12-06;BZ-K06-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2024-12;-1836300;17222000;1200 / 1600
+2024-12-11;2024-12-11;BZ-K06-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2024-12;-783500;16438500;1200 / 1600
+2024-12-12;2024-12-12;BZ-D06-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202412/2;3346000;19784500;1200 / 1400
+2024-12-13;2024-12-13;BZ-K06-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2024-12;-783500;19001000;1200 / 1600
+2024-12-17;2024-12-17;BZ-D06-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202412/3;2738500;21739500;1200 / 1400
+2024-12-19;2024-12-19;BZ-K06-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2024-12;-636600;21102900;1200 / 1600
+2024-12-20;2024-12-20;BZ-D06-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202412/4;2981000;24083900;1200 / 1400
+2024-12-26;2024-12-26;BZ-K06-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2024-12;-3550200;20533700;1200 / 1740
+2024-12-27;2024-12-27;BZ-K06-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2024-12;-795700;19738000;1200 / 1780
+2024-12-27;2024-12-27;BZ-K06-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2024-12;-1163000;18575000;1200 / 1742
+2025-01-03;2025-01-03;BZ-K07-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-01;-2639200;15935800;1200 / 1600
+2025-01-06;2025-01-06;BZ-D07-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202501/1;3571400;19507200;1200 / 1400
+2025-01-08;2025-01-08;BZ-K07-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-01;-1799500;17707700;1200 / 1600
+2025-01-10;2025-01-10;BZ-D07-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202501/2;2789200;20496900;1200 / 1400
+2025-01-10;2025-01-10;BZ-K07-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-01;-767800;19729100;1200 / 1600
+2025-01-14;2025-01-14;BZ-K07-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-01;-767800;18961300;1200 / 1600
+2025-01-17;2025-01-17;BZ-D07-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202501/3;3105000;22066300;1200 / 1400
+2025-01-17;2025-01-17;BZ-K07-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-01;-623800;21442500;1200 / 1600
+2025-01-22;2025-01-22;BZ-D07-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202501/4;2570800;24013300;1200 / 1400
+2025-01-24;2025-01-24;BZ-K07-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-01;-3479000;20534300;1200 / 1740
+2025-01-27;2025-01-27;BZ-K07-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-01;-1139700;19394600;1200 / 1742
+2025-01-29;2025-01-29;BZ-K07-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-01;-779600;18615000;1200 / 1780
+2025-02-04;2025-02-04;BZ-K08-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-02;-2564300;16050700;1200 / 1600
+2025-02-06;2025-02-06;BZ-D08-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202502/1;3791300;19842000;1200 / 1400
+2025-02-07;2025-02-07;BZ-K08-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-02;-1748400;18093600;1200 / 1600
+2025-02-11;2025-02-11;BZ-K08-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-02;-746000;17347600;1200 / 1600
+2025-02-12;2025-02-12;BZ-D08-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202502/2;3082400;20430000;1200 / 1400
+2025-02-14;2025-02-14;BZ-K08-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-02;-746000;19684000;1200 / 1600
+2025-02-17;2025-02-17;BZ-D08-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202502/3;2621500;22305500;1200 / 1400
+2025-02-19;2025-02-19;BZ-K08-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-02;-606100;21699400;1200 / 1600
+2025-02-21;2025-02-21;BZ-D08-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202502/4;3010600;24710000;1200 / 1400
+2025-02-26;2025-02-26;BZ-K08-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-02;-3380200;21329800;1200 / 1740
+2025-02-27;2025-02-27;BZ-K08-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-02;-1107300;20222500;1200 / 1742
+2025-02-28;2025-02-28;BZ-K08-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-02;-757500;19465000;1200 / 1780
+2025-03-04;2025-03-04;BZ-K09-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-03;-2510200;16954800;1200 / 1600
+2025-03-06;2025-03-06;BZ-D09-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202503/1;3161200;20116000;1200 / 1400
+2025-03-07;2025-03-07;BZ-K09-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-03;-1711500;18404500;1200 / 1600
+2025-03-11;2025-03-11;BZ-K09-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-03;-730300;17674200;1200 / 1600
+2025-03-12;2025-03-12;BZ-D09-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202503/2;3375600;21049800;1200 / 1400
+2025-03-14;2025-03-14;BZ-K09-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-03;-730300;20319500;1200 / 1600
+2025-03-17;2025-03-17;BZ-D09-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202503/3;2988000;23307500;1200 / 1400
+2025-03-19;2025-03-19;BZ-K09-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-03;-593300;22714200;1200 / 1600
+2025-03-21;2025-03-21;BZ-D09-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202503/4;2600400;25314600;1200 / 1400
+2025-03-26;2025-03-26;BZ-K09-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-03;-3309000;22005600;1200 / 1740
+2025-03-27;2025-03-27;BZ-K09-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-03;-1084000;20921600;1200 / 1742
+2025-03-28;2025-03-28;BZ-K09-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-03;-741600;20180000;1200 / 1780
+2025-04-04;2025-04-04;BZ-D10-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202504/1;3381100;23561100;1200 / 1400
+2025-04-04;2025-04-04;BZ-K10-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-04;-2643200;20917900;1200 / 1600
+2025-04-08;2025-04-08;BZ-K10-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-04;-1802200;19115700;1200 / 1600
+2025-04-11;2025-04-11;BZ-D10-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202504/2;2818800;21934500;1200 / 1400
+2025-04-11;2025-04-11;BZ-K10-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-04;-768900;21165600;1200 / 1600
+2025-04-14;2025-04-14;BZ-K10-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-04;-768900;20396700;1200 / 1600
+2025-04-17;2025-04-17;BZ-D10-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202504/3;3354500;23751200;1200 / 1400
+2025-04-18;2025-04-18;BZ-K10-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-04;-624800;23126400;1200 / 1600
+2025-04-22;2025-04-22;BZ-D10-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202504/4;3040200;26166600;1200 / 1400
+2025-04-25;2025-04-25;BZ-K10-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-04;-1141400;25025200;1200 / 1742
+2025-04-25;2025-04-25;BZ-K10-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-04;-3484200;21541000;1200 / 1740
+2025-04-29;2025-04-29;BZ-K10-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-04;-781000;20760000;1200 / 1780
+2025-05-02;2025-05-02;BZ-K11-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-05;-2589200;18170800;1200 / 1600
+2025-05-06;2025-05-06;BZ-D11-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202505/1;3601000;21771800;1200 / 1400
+2025-05-08;2025-05-08;BZ-K11-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-05;-1765400;20006400;1200 / 1600
+2025-05-09;2025-05-09;BZ-K11-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-05;-753200;19253200;1200 / 1600
+2025-05-12;2025-05-12;BZ-D11-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202505/2;3112000;22365200;1200 / 1400
+2025-05-14;2025-05-14;BZ-K11-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-05;-753200;21612000;1200 / 1600
+2025-05-16;2025-05-16;BZ-D11-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202505/3;2871000;24483000;1200 / 1400
+2025-05-19;2025-05-19;BZ-K11-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-05;-612000;23871000;1200 / 1600
+2025-05-22;2025-05-22;BZ-D11-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202505/4;2630000;26501000;1200 / 1400
+2025-05-26;2025-05-26;BZ-K11-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-05;-3413000;23088000;1200 / 1740
+2025-05-27;2025-05-27;BZ-K11-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-05;-1118100;21969900;1200 / 1742
+2025-05-29;2025-05-29;BZ-K11-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-05;-764900;21205000;1200 / 1780
+2025-06-04;2025-06-04;BZ-K12-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-06;-2909100;18295900;1200 / 1600
+2025-06-06;2025-06-06;BZ-D12-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202506/1;3820900;22116800;1200 / 1400
+2025-06-06;2025-06-06;BZ-K12-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-06;-1983500;20133300;1200 / 1600
+2025-06-11;2025-06-11;BZ-K12-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-06;-846300;19287000;1200 / 1600
+2025-06-12;2025-06-12;BZ-D12-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202506/2;3405200;22692200;1200 / 1400
+2025-06-13;2025-06-13;BZ-K12-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-06;-846300;21845900;1200 / 1600
+2025-06-17;2025-06-17;BZ-D12-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202506/3;3237500;25083400;1200 / 1400
+2025-06-19;2025-06-19;BZ-K12-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-06;-687600;24395800;1200 / 1600
+2025-06-20;2025-06-20;BZ-D12-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202506/4;3069800;27465600;1200 / 1400
+2025-06-26;2025-06-26;BZ-K12-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-06;-3834800;23630800;1200 / 1740
+2025-06-27;2025-06-27;BZ-K12-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-06;-859600;22771200;1200 / 1780
+2025-06-27;2025-06-27;BZ-K12-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-06;-1256200;21515000;1200 / 1742
+2025-07-04;2025-07-04;BZ-D13-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202507/1;3190800;24705800;1200 / 1400
+2025-07-04;2025-07-04;BZ-K13-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-07;-2481100;22224700;1200 / 1600
+2025-07-08;2025-07-08;BZ-K13-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-07;-1691700;20533000;1200 / 1600
+2025-07-11;2025-07-11;BZ-D13-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202507/2;2848400;23381400;1200 / 1400
+2025-07-11;2025-07-11;BZ-K13-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-07;-721800;22659600;1200 / 1600
+2025-07-14;2025-07-14;BZ-K13-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-07;-721800;21937800;1200 / 1600
+2025-07-17;2025-07-17;BZ-D13-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202507/3;2754000;24691800;1200 / 1400
+2025-07-18;2025-07-18;BZ-K13-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-07;-586400;24105400;1200 / 1600
+2025-07-22;2025-07-22;BZ-D13-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202507/4;2659600;26765000;1200 / 1400
+2025-07-25;2025-07-25;BZ-K13-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-07;-1071400;25693600;1200 / 1742
+2025-07-25;2025-07-25;BZ-K13-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-07;-3270600;22423000;1200 / 1740
+2025-07-29;2025-07-29;BZ-K13-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-07;-733000;21690000;1200 / 1780
+2025-08-04;2025-08-04;BZ-K14-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-08;-2801100;18888900;1200 / 1600
+2025-08-06;2025-08-06;BZ-D14-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202508/1;3410700;22299600;1200 / 1400
+2025-08-08;2025-08-08;BZ-K14-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-08;-1909800;20389800;1200 / 1600
+2025-08-11;2025-08-11;BZ-K14-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-08;-814900;19574900;1200 / 1600
+2025-08-12;2025-08-12;BZ-D14-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202508/2;3141600;22716500;1200 / 1400
+2025-08-14;2025-08-14;BZ-K14-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-08;-814900;21901600;1200 / 1600
+2025-08-15;2025-08-15;BZ-D14-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202508/3;3120500;25022100;1200 / 1400
+2025-08-19;2025-08-19;BZ-K14-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-08;-662100;24360000;1200 / 1600
+2025-08-22;2025-08-22;BZ-D14-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202508/4;3099400;27459400;1200 / 1400
+2025-08-26;2025-08-26;BZ-K14-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-08;-3692300;23767100;1200 / 1740
+2025-08-27;2025-08-27;BZ-K14-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-08;-1209600;22557500;1200 / 1742
+2025-08-29;2025-08-29;BZ-K14-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-08;-827500;21730000;1200 / 1780
+2025-09-04;2025-09-04;BZ-K15-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-09;-2539200;19190800;1200 / 1600
+2025-09-05;2025-09-05;BZ-D15-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202509/1;3630600;22821400;1200 / 1400
+2025-09-08;2025-09-08;BZ-K15-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-09;-1731200;21090200;1200 / 1600
+2025-09-11;2025-09-11;BZ-K15-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-09;-738700;20351500;1200 / 1600
+2025-09-12;2025-09-12;BZ-D15-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202509/2;3434800;23786300;1200 / 1400
+2025-09-12;2025-09-12;BZ-K15-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-09;-738700;23047600;1200 / 1600
+2025-09-17;2025-09-17;BZ-D15-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202509/3;2637000;25684600;1200 / 1400
+2025-09-19;2025-09-19;BZ-K15-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-09;-600200;25084400;1200 / 1600
+2025-09-22;2025-09-22;BZ-D15-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202509/4;2689200;27773600;1200 / 1400
+2025-09-26;2025-09-26;BZ-K15-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-09;-1096500;26677100;1200 / 1742
+2025-09-26;2025-09-26;BZ-K15-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-09;-3347100;23330000;1200 / 1740
+2025-09-29;2025-09-29;BZ-K15-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-09;-750000;22580000;1200 / 1780
+2025-10-03;2025-10-03;BZ-K16-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-10;-2917400;19662600;1200 / 1600
+2025-10-06;2025-10-06;BZ-D16-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202510/1;3850500;23513100;1200 / 1400
+2025-10-08;2025-10-08;BZ-K16-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-10;-1989200;21523900;1200 / 1600
+2025-10-10;2025-10-10;BZ-D16-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202510/2;2878000;24401900;1200 / 1400
+2025-10-10;2025-10-10;BZ-K16-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-10;-848700;23553200;1200 / 1600
+2025-10-14;2025-10-14;BZ-K16-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-10;-848700;22704500;1200 / 1600
+2025-10-17;2025-10-17;BZ-D16-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202510/3;3003500;25708000;1200 / 1400
+2025-10-17;2025-10-17;BZ-K16-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-10;-689600;25018400;1200 / 1600
+2025-10-22;2025-10-22;BZ-D16-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202510/4;3129000;28147400;1200 / 1400
+2025-10-24;2025-10-24;BZ-K16-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-10;-3845700;24301700;1200 / 1740
+2025-10-27;2025-10-27;BZ-K16-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-10;-1259800;23041900;1200 / 1742
+2025-10-29;2025-10-29;BZ-K16-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-10;-861900;22180000;1200 / 1780
+2025-11-04;2025-11-04;BZ-K17-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-11;-2855700;19324300;1200 / 1600
+2025-11-06;2025-11-06;BZ-D17-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202511/1;3220400;22544700;1200 / 1400
+2025-11-07;2025-11-07;BZ-K17-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-11;-1947100;20597600;1200 / 1600
+2025-11-11;2025-11-11;BZ-K17-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-11;-830700;19766900;1200 / 1600
+2025-11-12;2025-11-12;BZ-D17-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202511/2;3171200;22938100;1200 / 1400
+2025-11-14;2025-11-14;BZ-K17-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-11;-830700;22107400;1200 / 1600
+2025-11-17;2025-11-17;BZ-D17-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202511/3;3370000;25477400;1200 / 1400
+2025-11-19;2025-11-19;BZ-K17-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-11;-675000;24802400;1200 / 1600
+2025-11-21;2025-11-21;BZ-D17-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202511/4;2718800;27521200;1200 / 1400
+2025-11-26;2025-11-26;BZ-K17-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-11;-3764300;23756900;1200 / 1740
+2025-11-27;2025-11-27;BZ-K17-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-11;-1233100;22523800;1200 / 1742
+2025-11-28;2025-11-28;BZ-K17-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-11;-843800;21680000;1200 / 1780
+2025-12-04;2025-12-04;BZ-K18-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2025-12;-2981000;18699000;1200 / 1600
+2025-12-05;2025-12-05;BZ-D18-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202512/1;3440300;22139300;1200 / 1400
+2025-12-08;2025-12-08;BZ-K18-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2025-12;-2032500;20106800;1200 / 1600
+2025-12-11;2025-12-11;BZ-K18-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2025-12;-867200;19239600;1200 / 1600
+2025-12-12;2025-12-12;BZ-D18-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202512/2;3464400;22704000;1200 / 1400
+2025-12-12;2025-12-12;BZ-K18-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2025-12;-867200;21836800;1200 / 1600
+2025-12-17;2025-12-17;BZ-D18-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202512/3;2886500;24723300;1200 / 1400
+2025-12-19;2025-12-19;BZ-K18-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2025-12;-704600;24018700;1200 / 1600
+2025-12-22;2025-12-22;BZ-D18-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202512/4;3158600;27177300;1200 / 1400
+2025-12-26;2025-12-26;BZ-K18-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2025-12;-1287200;25890100;1200 / 1742
+2025-12-26;2025-12-26;BZ-K18-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2025-12;-3929400;21960700;1200 / 1740
+2025-12-29;2025-12-29;BZ-K18-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2025-12;-880700;21080000;1200 / 1780
+2026-01-02;2026-01-02;BZ-K19-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2026-01;-2919200;18160800;1200 / 1600
+2026-01-06;2026-01-06;BZ-D19-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202601/1;3660200;21821000;1200 / 1400
+2026-01-08;2026-01-08;BZ-K19-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2026-01;-1990400;19830600;1200 / 1600
+2026-01-09;2026-01-09;BZ-K19-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2026-01;-849200;18981400;1200 / 1600
+2026-01-12;2026-01-12;BZ-D19-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202601/2;2907600;21889000;1200 / 1400
+2026-01-14;2026-01-14;BZ-K19-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2026-01;-849200;21039800;1200 / 1600
+2026-01-16;2026-01-16;BZ-D19-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202601/3;3253000;24292800;1200 / 1400
+2026-01-19;2026-01-19;BZ-K19-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2026-01;-690000;23602800;1200 / 1600
+2026-01-22;2026-01-22;BZ-D19-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202601/4;2748400;26351200;1200 / 1400
+2026-01-26;2026-01-26;BZ-K19-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2026-01;-3848100;22503100;1200 / 1740
+2026-01-27;2026-01-27;BZ-K19-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2026-01;-1260600;21242500;1200 / 1742
+2026-01-29;2026-01-29;BZ-K19-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2026-01;-862500;20380000;1200 / 1780
+2026-02-04;2026-02-04;BZ-K20-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2026-02;-3044500;17335500;1200 / 1600
+2026-02-06;2026-02-06;BZ-D20-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202602/1;3880100;21215600;1200 / 1400
+2026-02-06;2026-02-06;BZ-K20-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2026-02;-2075800;19139800;1200 / 1600
+2026-02-11;2026-02-11;BZ-K20-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2026-02;-885700;18254100;1200 / 1600
+2026-02-12;2026-02-12;BZ-D20-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202602/2;3200800;21454900;1200 / 1400
+2026-02-13;2026-02-13;BZ-K20-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2026-02;-885700;20569200;1200 / 1600
+2026-02-17;2026-02-17;BZ-D20-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202602/3;2769500;23338700;1200 / 1400
+2026-02-19;2026-02-19;BZ-K20-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2026-02;-719600;22619100;1200 / 1600
+2026-02-20;2026-02-20;BZ-D20-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202602/4;3188200;25807300;1200 / 1400
+2026-02-26;2026-02-26;BZ-K20-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2026-02;-4013200;21794100;1200 / 1740
+2026-02-27;2026-02-27;BZ-K20-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2026-02;-899400;20894700;1200 / 1780
+2026-02-27;2026-02-27;BZ-K20-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2026-02;-1314700;19580000;1200 / 1742
+2026-03-04;2026-03-04;BZ-K21-01-BK;Südspange Stahlhandel GmbH;Stahlprofile und Bleche 2026-03;-2872800;16707200;1200 / 1600
+2026-03-06;2026-03-06;BZ-D21-01-BK;Baukontor Wuhletal GmbH;Stahlbaulos, freigegebenes Aufmaß 202603/1;3250000;19957200;1200 / 1400
+2026-03-06;2026-03-06;BZ-K21-02-BK;Schweisspunkt Berlin GmbH;Schweißgas und Werkstattstrom 2026-03;-1958700;17998500;1200 / 1600
+2026-03-11;2026-03-11;BZ-K21-03-BK;Rampenhof Liegenschaften KG;Werkhallenmiete 2026-03;-835700;17162800;1200 / 1600
+2026-03-12;2026-03-12;BZ-D21-02-BK;Wasserwerk Baupartner KG;Stahlbaulos, freigegebenes Aufmaß 202603/2;3494000;20656800;1200 / 1400
+2026-03-13;2026-03-13;BZ-K21-04-BK;Spandauer Kranprüfung KG;Kranprüfung und Transport 2026-03;-835700;19821100;1200 / 1600
+2026-03-17;2026-03-17;BZ-D21-03-BK;Fassadenbau Kreiser GmbH;Stahlbaulos, freigegebenes Aufmaß 202603/3;3136000;22957100;1200 / 1400
+2026-03-19;2026-03-19;BZ-K21-05-BK;Blankwerk Pulverbeschichtung GmbH;Pulverbeschichtung 2026-03;-679000;22278100;1200 / 1600
+2026-03-20;2026-03-20;BZ-D21-04-BK;Kranbogen Ausbau SE;Stahlbaulos, freigegebenes Aufmaß 202603/4;2778000;25056100;1200 / 1400
+2026-03-26;2026-03-26;BZ-K21-06-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei 2026-03;-3786800;21269300;1200 / 1740
+2026-03-27;2026-03-27;BZ-K21-08-BK;Finanzkasse, laufende Abbuchungen;Umsatzsteuer laufend 2026-03;-848800;20420500;1200 / 1780
+2026-03-27;2026-03-27;BZ-K21-07-BK;Betriebskrankenkasse Handwerk & Stadt;Sozialversicherung laufend 2026-03;-1240500;19180000;1200 / 1742
+2026-04-17;2026-04-17;BZ-CAPEX-01-BK;Spandauer Kranprüfung KG;Schlussrate CNC-Schweißzelle und Montagefahrzeug, Vertrag WS-218 vom 16.12.2025;-13980000;5200000;1200 / 1600
+2026-04-23;2026-04-23;BZ-DEB-01-BK;Baukontor Wuhletal GmbH;Südspange, Schlussrate freigegeben;3700000;8900000;1200 / 1400
+2026-05-07;2026-05-07;BZ-SCH-01-BK;Schweisspunkt Berlin GmbH;Draht und Schutzgas nach Rahmenabruf;-2200000;6700000;1200 / 1600
+2026-05-11;2026-05-11;BZ-DEB-02-BK;Fassadenbau Kreiser GmbH;Fassade 7, Aufmaß 3;2400000;9100000;1200 / 1400
+2026-05-12;2026-05-12;BZ-DEB-03-BK;Wasserwerk Baupartner KG;Brückenmontage, Restbetrag nach Prüfung;5500000;14600000;1200 / 1400
+2026-05-14;2026-05-14;BZ-KLEIN-14-BK;Südspange Stahlhandel GmbH;Anlieferpauschale Stahl Südspange, neues Kleinteilelos;-210000;14390000;1200 / 1600
+2026-05-25;2026-05-25;BZ-BES-01-BK;Blankwerk Pulverbeschichtung GmbH;Beschichtung Treppengeländer;-1750000;12640000;1200 / 1600
+2026-05-29;2026-05-29;BZ-DEB-04-BK;Kranbogen Ausbau SE;Teilfreigabe Aufmaß K-771;2800000;15440000;1200 / 1400
+2026-05-29;2026-05-29;BZ-LOHN-01-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei Mai 2026;-6000000;9440000;1200 / 1740
+2026-06-02;2026-06-02;BZ-KLEIN-02-BK;Spandauer Kranprüfung KG;Sofortprüfung Stahlseil;-78000;9362000;1200 / 1600
+2026-06-15;2026-06-15;BZ-DEB-05-BK;Baukontor Wuhletal GmbH;Geländer Südspange, Restabschlag;3200000;12562000;1200 / 1400
+2026-06-17;2026-06-17;BZ-KLEIN-17-BK;Schweisspunkt Berlin GmbH;Schutzgas Vorkasse, zweiter Werkstattabruf;-120000;12442000;1200 / 1600
+2026-06-24;2026-06-24;BZ-DEB-07-BK;Kranbogen Ausbau SE;Restlieferung Werkstattzugang;1800000;14242000;1200 / 1400
+2026-06-25;2026-06-25;BZ-TRP-01-BK;Kranfahrten Havel KG;Schlussrechnung Kran im Bauabschnitt 4;-1800000;12442000;1200 / 1600
+2026-06-30;2026-06-30;BZ-LOHN-02-BK;Werkstattlohn Berlin eG;Nettolohnsammeldatei Juni 2026;-4900000;7542000;1200 / 1740

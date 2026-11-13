@@ -55,3 +55,7 @@ Die übergreifenden Hinweise zu experimenteller Nutzung, Verantwortung, Datensch
 ## 6 English Help
 
 This page is a topic directory, not an installable plugin. Choose a role or topic in the alphabetical table, then open its README for skills and materials. Install an individual plugin ZIP from [downloads](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest), or use a standalone Markdown file from the [prompt index](../docs/werkstatt-und-schnellstart-coverage.md). Workshop and quick-start/mini prompts are not skills and are excluded from plugin ZIPs. See the [main README](../README.md) for usage context and the [case index](../testakten/README.md) for practice files.
+
+## Zahlungsunfähigkeit und Überschuldung für die Anfechtung rekonstruieren
+
+Der [Zahlungsunfähigkeits- und Überschuldungsprüfer](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) führt von zwei Jahren Kontoauszügen und Buchungsunterlagen zum belegbaren Befund nach §§ 17 und 19 InsO. Die drei [Übungsakten mit Fremdantrag und Eröffnungsbeschluss](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md#3-testakten-zur-vorbereitung-einer-insolvenzanfechtung) beginnen mit dem Ordner `Grundakte`. Der Werkstatt-Prompt funktioniert direkt im Chat. Der Stichtagsrechner übernimmt den arithmetischen Abgleich strukturierter Eingaben.
