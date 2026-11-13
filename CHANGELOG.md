@@ -1,3 +1,7 @@
+# Zahlungsunfähigkeits- und Überschuldungsprüfer 1.2.0 vom 13. November 2026
+
+Ausfüllbare Wordvorlagen für Anfechtungsschreiben und Klage verbinden die Zahlungsauswertung mit einer fallbezogenen Anspruchsbegründung. Die drei Akten erhalten eigene Zahlungskomplexe für Darlehenszinsen, Verrechnung zwischen verschiedenen Gesellschaften und Lieferantenzahlungen mit Kenntnis- und Bargeschäftsfragen. Eingangsbelege, Verfahrensstücke und Blankovorlagen bleiben getrennt. [Umfang und Prüfgrenzen](docs/releases/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0.md).
+
 # Zahlungsunfähigkeits- und Überschuldungsprüfer 1.1.0 vom 13. November 2026
 
 Alle elf Skills und beide Prompts sind an 20 amtlichen BGH-Entscheidungen überprüft. Der Rechner trennt Zahlungseinstellung, Rechenbefund und Beleglücken und behandelt historische Prognosezeiträume gesondert.

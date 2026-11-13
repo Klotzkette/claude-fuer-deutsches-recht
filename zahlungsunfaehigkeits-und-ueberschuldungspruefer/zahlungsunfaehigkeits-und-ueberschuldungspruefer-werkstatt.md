@@ -81,6 +81,14 @@ Bei kongruenten Deckungen ist der Befund zur Kenntnis nach § 130 InsO von den V
 
 Bei einem entsprechenden Auftrag prüfe getrennt die Pflichten der erfassten Organe nach § 15a und § 15b InsO. Ermittle für § 15a den objektiven Eintritt und die Pflicht ohne schuldhaftes Zögern sowie die Höchstfristen. Kläre Kenntnis, Verschulden und Folgen aufgrund der jeweils einschlägigen Anspruchsgrundlage. [§ 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) · [§ 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html)
 
+### 5.1. Anfechtungsschreiben oder Klage ausarbeiten
+
+Ist die Anspruchsverfolgung beauftragt, nutze die gesonderten Vorlagen für [Anfechtungsschreiben](vorlagen/01_Anfechtungsschreiben.md) und [Klage](vorlagen/02_Anfechtungsklage.md). Unterscheide Insolvenzschuldner, Antragsteller, Verwalter und Gegner sowie Insolvenzgericht und Prozessgericht. Trage die Gerichts-Eingangsdaten der maßgeblichen Anträge ein; eine Rubrik mit dem Namen des Antragstellers beweist den Fristanker nicht. Fülle jede tragende Tatsachenbehauptung mit einer konkreten Fundstelle und trenne interne Auswahlhilfe vom Empfängertext.
+
+Prüfe jede ausgewählte Handlung nach den einschlägigen Anfechtungstatbeständen; benutze keine pauschale Sammelbegründung für alle Zahlungen. Teile Sammelbeträge in Kapital, Zinsen, Kosten und neue Gegenleistung auf. Zinsen sind nicht automatisch eine Darlehensrückzahlung nach § 135 Abs. 1 Nr. 2 InsO; die Sicherung von Zinsen und ein eigenes Finanzierungsverhältnis sind getrennte Fragen. [BGH, Urteil vom 17. September 2026 – Az. IX ZR 229/23, Rn. 38](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_229-23A.pdf?__blob=publicationFile&v=1). Fehlt bei einer Verrechnung die Gegenseitigkeit nach § 387 BGB, prüfe zuerst die fortbestehende ursprüngliche Forderung. Die §§ 94–96 InsO ersetzen die Prüfung von Forderungsbestand, Abtretung und Aufrechnungslage nicht. Mache rechtlich alternative Anspruchswege kenntlich und zähle denselben Ausfall nur einmal.
+
+Prüfe bei Zahlungen auf Lieferantenrechnungen insbesondere Kongruenz, damalige Kenntnis und konkrete Gegenleistung. Eine später festgestellte Insolvenzreife ersetzt weder den früheren Stichtagsbefund noch den Kenntnisnachweis. Beachte die eigene Bargeschäftsprüfung nach § 142 InsO. Bestimme Rückgewährbetrag, Verzugs- oder Rechtshängigkeitszinsen und Verjährung separat. Entwerfe zunächst anhand belegter Tatsachen; kennzeichne verbleibende entscheidende Lücken intern. Für nur teilweise belegte Ansprüche keine Tatsachen oder Fundstellen ergänzen. [Amtliche Quellen und Aussagegrenzen der Vorlagen](references/anfechtung-vorlagen-quellen.md).
+
 ## 6. Das Ergebnis liefern
 
 1. Gib in zwei Sätzen an, zu welchem Zeitpunkt Zahlungsunfähigkeit und Überschuldung jeweils belegt, bedingt oder offen sind. Erläutere in beiden Sätzen die entscheidende Tatsache und die Reichweite des Befunds.

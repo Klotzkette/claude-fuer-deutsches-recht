@@ -280,6 +280,14 @@ def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
         and (
             (testakte_dir.name == 'bauwirtschaft-hildesheim-lebensakte'
              and relative.parts[0] == '12_Wordvorlagen')
+            or (testakte_dir.name in {
+                    'insolvenzreife-keramikfabrik-cottbus',
+                    'insolvenzreife-metallbau-berlin-zehlendorf',
+                    'insolvenzreife-hubschrauber-prenzlau',
+                } and relative.as_posix() in {
+                    '20_Vorlagen/01_Anfechtungsschreiben.docx',
+                    '20_Vorlagen/02_Anfechtungsklage.docx',
+                })
             or (testakte_dir.name.startswith('si-kanzlei-')
                 and relative.as_posix() == '09_Fachlicher_Dokumententwurf.docx')
             or (testakte_dir.name == 'gesellschaftervereinbarung-drohnenfriseur-berlin'

@@ -11,6 +11,7 @@ from email.message import EmailMessage
 from email.utils import format_datetime
 import json
 import os
+from shutil import copyfile
 from pathlib import Path
 import re
 from xml.sax.saxutils import escape
@@ -25,6 +26,8 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
 from insolvenzreife_grundakten import build_supplements
+from insolvenzreife_anfechtung_faelle import build_avoidance_material
+from insolvenzreife_anfechtung_vorlagen import build_templates
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "scripts/data/zu-insolvenzfaelle.json"
@@ -271,6 +274,8 @@ def mandate(path, case):
 
 def make_cases(data, root):
     register_letter_fonts()
+    template_source = root / "zahlungsunfaehigkeits-und-ueberschuldungspruefer/vorlagen"
+    build_templates(template_source)
     selection = {}
     for case in data["cases"]:
         directory = root / "testakten" / case["slug"]
@@ -316,6 +321,12 @@ def make_cases(data, root):
             if not procedural:
                 sources.append(target)
         sources.extend(build_supplements(case, directory, letter_pdf, csv_file))
+        sources.extend(build_avoidance_material(case, directory, letter_pdf, csv_file))
+        templates = directory / "20_Vorlagen"
+        templates.mkdir(exist_ok=True)
+        for name in ("01_Anfechtungsschreiben.docx", "02_Anfechtungsklage.docx"):
+            copyfile(template_source / name,
+                     templates / name)
         selection[case["slug"]] = [path.relative_to(directory).as_posix() for path in sorted(sources)]
     return selection
 

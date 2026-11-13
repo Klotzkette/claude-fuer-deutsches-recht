@@ -1,0 +1,3 @@
+﻿date;value_on;id;counterparty;description;amount_cents;balance_cents;ledger_account;Zuordnung
+2026-05-29;2026-05-29;PR-FUEL-01-BK;Turbinenkraft Nord KG;Kerosin und Sicherheitsprüfungen, Rechnung TK-21;-1800000;12280000;1200 / 1600;Bevorzugte Zahlung einer Sammelrechnung und gesonderter Vorkasseabruf
+2026-06-15;2026-06-15;PR-FUEL-02-BK;Turbinenkraft Nord KG;Treibstoff Juni, nur laufender Abruf;-600000;8805000;1200 / 1600;Gesonderter Vorkasseabruf TK-26
