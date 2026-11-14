@@ -1,10 +1,6 @@
 # Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller
 
-<!-- BEGIN insolvenz-ordnung -->
-Für Zwischenberichte, Schlussberichte, Schlussrechnung und Verteilung bleibt diese Einzelausgabe verwendbar. Ihre Fachmodule gehören zugleich zum gemeinsamen [Hauptplugin Insolvenzrecht](../insolvenzrecht/README.md), das die Berichtserstellung mit Verwaltung, Sachbearbeitung und anwaltlicher Bearbeitung verbindet. Für den gemeinsamen Arbeitsablauf genügt das Hauptplugin.
-
-[Zum Oberordner Insolvenzrecht mit den vier Haupteinstiegen](../insolvenzrecht-plugins/README.md).
-<!-- END insolvenz-ordnung -->
+[Oberordner Insolvenzrecht – alle eigenständigen Plugins nach Aufgabe](../insolvenzrecht-plugins/README.md)
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?

@@ -1,91 +1,68 @@
 # Insolvenzrecht
 
-Für Kanzlei, Insolvenzverwaltung und Sachbearbeitung: ein gemeinsamer Einstieg für die laufende Insolvenzarbeit und drei eigenständige Spezialwerkzeuge für Forderungen, Insolvenzgründe und Pläne.
+Der gemeinsame Oberordner für **16 eigenständige Plugins** zu Insolvenz, Sanierung und Krisenberatung. Wählen Sie nach Ihrer Aufgabe; jede Plugin-Anleitung führt zu den eigenen Skills, Werkstatt- und Mini-Prompts, Testakten und Downloads.
 
 [Repository-Start](../README.md) · [Plugin-Gruppen](../plugin-gruppen/README.md) · [Skills](../SKILLS.md) · [Prompts](../docs/werkstatt-und-schnellstart-coverage.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-## 1. Vier Haupteinstiege
+## 1. Das passende Plugin finden
 
-**Für einen allgemeinen Insolvenzfall starten Sie mit dem Hauptplugin Insolvenzrecht.** Es verbindet die anwaltliche Bearbeitung mit Insolvenzverwaltung, Sachbearbeitung und Berichtserstellung. Für eine der drei klar abgegrenzten Spezialaufgaben wählen Sie das jeweilige eigenständige Plugin.
+| Ihr Auftrag | Einstieg |
+| --- | --- |
+| Eine Insolvenzforderung anmelden oder prüfen | [Forderungsanmelder](../insolvenzforderungsanmeldungspruefung/README.md) |
+| Den Eintritt der Zahlungsunfähigkeit oder Überschuldung rekonstruieren | [Zahlungsunfähigkeits- und Überschuldungsprüfer](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) |
+| Einen Insolvenzplan oder StaRUG-Restrukturierungsplan bearbeiten | [Insolvenzplan- und StaRUG-Planwerkstatt](../insolvenzplan-starug-planwerkstatt/README.md) |
+| Ein Mandat, ein Verfahren oder laufende Sachbearbeitung bearbeiten | [Plugins für Mandats- und Verfahrensarbeit](#3-mandat-verwaltung-sachbearbeitung-und-berichte) |
+| Anfechtung, Krisenplanung oder einen besonderen Verfahrenstyp bearbeiten | [Weitere Fachaufgaben](#4-weitere-fachaufgaben) |
 
-| Einstieg | Damit bearbeiten Sie | Installation |
+Alle Plugins bleiben separat verwendbar. Der Oberordner ordnet die Auswahl; er ist kein zusätzliches Installationspaket. Bestehende Plugin-Verzeichnisse, Paketnamen und Versionen bleiben erhalten.
+
+## 2. Forderungen, Insolvenzgründe und Pläne
+
+Diese drei Werkzeuge haben jeweils einen eigenen fachlichen Auftrag und bleiben eigenständige Plugins.
+
+| Eigenständiges Plugin | Aufgabe | Installation |
 | --- | --- | --- |
-| [Insolvenzrecht – gemeinsames Hauptplugin](../insolvenzrecht/README.md) | Allgemeine Mandatsbearbeitung, Verwaltung, Sachbearbeitung und Berichte in einem Arbeitsablauf. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzrecht-v445.35.4/insolvenzrecht.zip) |
 | [Forderungsanmelder](../insolvenzforderungsanmeldungspruefung/README.md) | Forderungen aus Gläubigersicht anmelden oder aus Verwaltersicht prüfen; Belege, Rang und Tabellenstand bearbeiten. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung.zip) |
 | [Zahlungsunfähigkeits- und Überschuldungsprüfer](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) | Aus Kontoauszügen, offenen Posten, Verträgen und Planungsunterlagen den Eintritt der Insolvenzgründe rekonstruieren. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip) |
 | [Insolvenzplan- und StaRUG-Planwerkstatt](../insolvenzplan-starug-planwerkstatt/README.md) | Insolvenzplan oder StaRUG-Restrukturierungsplan mit Vergleichsrechnung, Gruppen, Anlagen und Vollzug bearbeiten. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzplan-starug-planwerkstatt.zip) |
 
-Der **Forderungsanmelder** heißt im technischen Plugin-Verzeichnis weiterhin `insolvenzforderungsanmeldungspruefung`. Die drei Spezialwerkzeuge bleiben eigenständig installierbar und erhalten eigene Werkstatt- und Mini-Prompts sowie Testakten.
+Der **Forderungsanmelder** heißt im technischen Plugin-Verzeichnis `insolvenzforderungsanmeldungspruefung`. Der **Insolvenzforderungen-Checker** ist ein weiteres, eigenständiges Werkzeug für die Prüfung eingehender Forderungsunterlagen und unten gesondert aufgeführt.
 
-## 2. Was das gemeinsame Hauptplugin übernimmt
+## 3. Mandat, Verwaltung, Sachbearbeitung und Berichte
 
-Das Hauptplugin führt vom Akteneingang zum konkreten Arbeitsprodukt. Zu Beginn klärt es Rolle, Verfahrensstand, Auftrag und Fristen; danach wählt es die erforderlichen Fachmodule. So können Sie innerhalb derselben Bearbeitung zwischen anwaltlicher Prüfung, Verwalteraufgabe, Sachbearbeitung und Bericht wechseln.
+Auch die allgemeinen und rollenbezogenen Insolvenzplugins bleiben eigenständig. Wählen Sie die passende Perspektive für die konkrete Arbeit.
 
-| Arbeitsbereich | Typische Aufgabe |
-| --- | --- |
-| Allgemeines Insolvenzrecht | Sachverhalt und Insolvenzgründe einordnen, Antrag und Verfahrensfragen bearbeiten. |
-| Anwaltliche Mandatsführung und Sanierung | Interessen, Haftungsfragen und Sanierungswege prüfen; Beratung und Schriftsätze vorbereiten. |
-| Insolvenzverwaltung | Verfahren, Masse, Sicherheiten und Beteiligte bearbeiten. |
-| Insolvenzsachbearbeitung | Unterlagen auswerten, Belege zuordnen, Korrespondenz und operative Schritte vorbereiten. |
-| Berichte und Abschluss | Zwischen- und Schlussberichte, Schlussrechnung und Verteilung aus der Akte entwickeln. |
-
-Die vier ergänzenden allgemeinen Bereiche sind als Fachmodule im Hauptplugin enthalten. Eine zusätzliche Installation ihrer bisherigen Einzelpakete ist dafür nicht erforderlich. Fachmodule, Quellenprüfung und Ergebnisdarstellung bleiben auf den konkreten Auftrag ausgerichtet.
-
-## 3. Ergänzende Spezialangebote
-
-Diese Werkzeuge ergänzen die vier Haupteinstiege bei einem besonderen Auftrag. Der **Insolvenzforderungen-Checker bleibt ein separates Angebot** zum Prüfen von Forderungsunterlagen; er ist kein eingebauter Bestandteil des Forderungsanmelders.
-
-<details>
-<summary>Spezialangebote anzeigen</summary>
-
-| Spezialangebot | Damit bearbeiten Sie | Installation |
+| Eigenständiges Plugin | Aufgabe | Installation |
 | --- | --- | --- |
-| [Fortbestehensprognose](../fortbestehensprognose/README.md) | Fortbestehen anhand von Planung, Finanzierungsannahmen und Szenarien beurteilen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fortbestehensprognose.zip) |
+| [Insolvenzrecht](../insolvenzrecht/README.md) | Allgemeine insolvenzrechtliche Fallbearbeitung, Insolvenzgründe, Antragspflicht und Gläubigerantrag. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
+| [Fachanwalt Insolvenz- und Sanierungsrecht](../fachanwalt-insolvenz-sanierungsrecht/README.md) | Anwaltliche Mandatsführung in Insolvenz und Sanierung. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/fachanwalt-insolvenz-sanierungsrecht.zip) |
+| [Insolvenzverwaltung](../insolvenzverwaltung/README.md) | Verfahrensführung aus Sicht von Insolvenzverwaltung, Sachwaltung und vorläufiger Verwaltung. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzverwaltung.zip) |
+| [Insolvenzsachbearbeitung](../insolvenzsachbearbeitung/README.md) | Operative Aktenarbeit, Korrespondenz, Belege, Masse und Verteilung. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/insolvenzsachbearbeitung.zip) |
+| [Insolvenzverwaltung – Berichtsersteller](../insolvenzverwaltung-berichtsersteller/README.md) | Zwischenberichte, Schlussberichte, Schlussrechnung und Verteilung aus der Verfahrensakte entwickeln. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.1.0/insolvenzverwaltung-berichtsersteller.zip) |
+
+## 4. Weitere Fachaufgaben
+
+| Eigenständiges Plugin | Aufgabe | Installation |
+| --- | --- | --- |
 | [Insolvenzanfechtung](../insolvenzanfechtung/README.md) | Zahlungen und andere Rechtshandlungen aus Verwalter- oder Empfängersicht untersuchen; Anfechtungsschreiben und Klagen vorbereiten. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/insolvenzanfechtung.zip) |
-| [Insolvenzforderungen-Checker](../insolvenzforderungen-checker/README.md) | Ergänzung zum Forderungsanmelder: eingehende Forderungsunterlagen, Belege, Beträge und Rang zu einem begründeten Prüfvorschlag zusammenführen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/insolvenzforderungen-checker.zip) |
-| [Krisenfrüherkennung und StaRUG](../krisenfrueherkennung-starug/README.md) | Krisensignale, Handlungsbedarf und Verantwortlichkeiten systematisch erfassen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug.zip) |
+| [Insolvenzforderungen-Checker](../insolvenzforderungen-checker/README.md) | Eingehende Forderungsunterlagen, Belege, Beträge und Rang zu einem begründeten Prüfvorschlag zusammenführen; separates ergänzendes Werkzeug zum Forderungsanmelder. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/insolvenzforderungen-checker.zip) |
 | [Liquiditätsplanung](../liquiditaetsplanung/README.md) | Zahlungsströme planen, Liquiditätslücken darstellen und Szenarien rechnen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
-| [US Bankruptcy Code](../us-bankruptcy-code/README.md) | US-amerikanische Verfahren und deren Schnittstellen zur deutschen Bearbeitung prüfen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
+| [Fortbestehensprognose](../fortbestehensprognose/README.md) | Fortbestehen anhand von Planung, Finanzierungsannahmen und Szenarien beurteilen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fortbestehensprognose.zip) |
+| [Krisenfrüherkennung und StaRUG](../krisenfrueherkennung-starug/README.md) | Krisensignale, Handlungsbedarf und Verantwortlichkeiten systematisch erfassen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug.zip) |
 | [Verbraucherinsolvenz und Schuldenbereinigung](../verbraucherinsolvenz-schuldenbereinigung/README.md) | Schuldenbereinigung und Verbraucherinsolvenz aus Schuldnersicht vorbereiten. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherinsolvenz-schuldenbereinigung.zip) |
 | [Zwangsverwaltung](../zwangsverwaltung-zvg/README.md) | Immobilien und laufende Erträge im gesonderten Zwangsverwaltungsverfahren bearbeiten. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg.zip) |
+| [US Bankruptcy Code](../us-bankruptcy-code/README.md) | US-amerikanische Verfahren und deren Schnittstellen zur deutschen Bearbeitung prüfen. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
 
-</details>
+Die gerichtliche Perspektive finden Sie zusätzlich bei [Insolvenz- und Restrukturierungsgericht](../gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/README.md). Dieses Plugin gehört zur [Gerichtsgruppe](../gerichtsplugins/README.md) und wird separat geführt.
 
-Die gerichtliche Perspektive finden Sie gesondert bei [Insolvenz- und Restrukturierungsgericht](../gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/README.md). Dieses Gerichtsplugin gehört zur [Gerichtsgruppe](../gerichtsplugins/README.md).
+## 5. Prompts, Testakten und Installation
 
-## 4. Werkstatt, Mini-Prompt und Testakten
+Öffnen Sie die jeweilige Plugin-Anleitung für die zugehörigen Werkstatt- und Mini-Prompts. Die eigenständigen Markdown-Prompts können ohne Plugin-Installation verwendet werden. Sie stehen neben dem jeweiligen Plugin-ZIP und sind keine zusätzlichen Skills.
 
-Ohne Plugin-Installation können Sie mit dem [Werkstatt-Prompt Insolvenzrecht](../insolvenzrecht/insolvenzrecht-werkstatt.md) oder dem [Mini-Prompt Insolvenzrecht](../insolvenzrecht/insolvenzrecht-schnellstart.md) arbeiten. Beide sind eigenständige Markdown-Dateien; sie stehen neben dem Plugin und sind keine zusätzlichen Skills.
+Die [zentrale Testaktenübersicht](../testakten/README.md) enthält die Fallbeschreibungen und Downloads. Für die Rekonstruktion der Insolvenzgründe führen die [Akten des Zahlungsunfähigkeits- und Überschuldungsprüfers](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) zu den Fällen aus Cottbus, Zehlendorf und Prenzlau. Bei Akten mit einem Grundaktenordner beginnen Sie dort, wenn Sie den Sachverhalt ohne vorweggenommenes Ergebnis selbst erschließen möchten. Inhalt und Bearbeitungsstand sind in der jeweiligen Aktenanleitung beschrieben.
 
-Für spezielle Aufgaben und Übungsunterlagen öffnen Sie die jeweilige Anleitung:
-
-- [Forderungsanmelder: Anleitung, Prompts und Testakten](../insolvenzforderungsanmeldungspruefung/README.md).
-- [Zahlungsunfähigkeits- und Überschuldungsprüfer: Anleitung, Prompts und Testakten](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md), einschließlich der Fälle aus Cottbus, Zehlendorf und Prenzlau.
-- [Insolvenzplan- und StaRUG-Planwerkstatt: Anleitung, Prompts und Testakten](../insolvenzplan-starug-planwerkstatt/README.md).
-- [Insolvenzanfechtung: Anleitung und zugeordnete Übungsakten](../insolvenzanfechtung/README.md).
-
-Die [zentrale Testaktenübersicht](../testakten/README.md) führt zu den Fallbeschreibungen und Downloads. Für die Arbeit ohne vorweggenommenes Ergebnis wählen Sie den dort beschriebenen Grundaktenordner im lebensnahen ZIP, soweit die jeweilige Akte ihn enthält. Hinweise zu Inhalt und Übungsstand stehen in der Aktenanleitung.
-
-## 5. Bisherige Einzelpakete und bestehende Links
-
-Für die allgemeine Arbeit ist das gemeinsame Hauptplugin der Einstieg. Die vier früher getrennt angebotenen allgemeinen Pakete bleiben für bestehende Installationen und gezielte Einzelverwendung erreichbar. Ihre Arbeitsbereiche sind zugleich im Hauptplugin gebündelt.
-
-<details>
-<summary>Bisherige allgemeine Einzelpakete anzeigen</summary>
-
-| Einzelpaket | Arbeitsbereich im Hauptplugin | Bestehendes Einzelpaket |
-| --- | --- | --- |
-| [Fachanwalt Insolvenz- und Sanierungsrecht](../fachanwalt-insolvenz-sanierungsrecht/README.md) | Anwaltliche Mandatsführung und Sanierungsberatung. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/fachanwalt-insolvenz-sanierungsrecht.zip) |
-| [Insolvenzsachbearbeitung](../insolvenzsachbearbeitung/README.md) | Operative Aktenarbeit, Korrespondenz, Belege, Masse und Verteilung. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/insolvenzsachbearbeitung.zip) |
-| [Insolvenzverwaltung](../insolvenzverwaltung/README.md) | Verfahrensführung aus Sicht von Verwaltung, Sachwaltung und vorläufiger Verwaltung. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzverwaltung.zip) |
-| [Insolvenzverwaltung – Berichtsersteller](../insolvenzverwaltung-berichtsersteller/README.md) | Zwischenbericht, Schlussbericht, Schlussrechnung und Verteilung. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.1.0/insolvenzverwaltung-berichtsersteller.zip) |
-
-</details>
-
-Dieses Fachverzeichnis umfasst **16 bestehende Fachplugins**, geordnet in vier Haupteinstiege, acht ergänzende Spezialangebote und vier bisherige allgemeine Einzelpakete. Das Gerichtsplugin ist separat verlinkt. Bestehende Quellpfade, Paketnamen und Downloadwege bleiben erhalten. Der Oberordner bündelt die Orientierung; das installierbare gemeinsame Paket heißt **Insolvenzrecht**.
-
-Die [Installationshilfe](../INSTALLATION_EINFACH.md) erläutert die Verwendung der ZIP-Pakete. Alle einzelnen Pakete bleiben auch im [alphabetischen Gesamtkatalog](../README.md#was-ist-drin) auffindbar. Hinweise zu Nutzung und Verantwortung stehen in der [Haupt-README](../README.md).
+Die [Installationshilfe](../INSTALLATION_EINFACH.md) erläutert die Verwendung der einzelnen ZIP-Pakete. Alle 16 Plugins bleiben auch im [alphabetischen Gesamtkatalog](../README.md#was-ist-drin) auffindbar. Übergreifende Nutzungshinweise stehen in der [Haupt-README](../README.md).
 
 ## 6. English help
 
-Choose the combined **Insolvency Law** plugin for general legal, administrator, casework and reporting tasks. Three tools remain separate: creditor claims, insolvency-ground reconstruction and insolvency/restructuring plans. Optional specialist tools and the four compatible legacy general packages are listed below the four main entry points. This directory is the topic overview; install the individual package linked above or use its standalone workshop or mini prompt.
+This directory groups 16 independent insolvency, restructuring and crisis-management plugins by task. Each plugin retains its own package, skills, standalone prompts and practice cases. Choose the relevant task above and open that plugin's README. This topic directory is not an installable package and does not combine the plugins.

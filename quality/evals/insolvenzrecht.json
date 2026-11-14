@@ -71,7 +71,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Titel werden nicht nach Berufungschancen abgezinst; Zuflüsse und neue Fälligkeiten fließen symmetrisch in die Dreiwochenbetrachtung ein. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung. Redaktion 14.11.2026: vier Rollen, ein fortgeführter Arbeitsstand, lokale Fachmodulwahl und eigenständige Spezialwerkzeuge; keine neue Gesamtverifikation der Entscheidungsanker. Siehe quality/insolvenzrecht/konsolidierung-pruefvermerk-2026-11-14.md.",
+    "reason": "Titel werden nicht nach Berufungschancen abgezinst; Zuflüsse und neue Fälligkeiten fließen symmetrisch in die Dreiwochenbetrachtung ein. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
@@ -79,40 +79,37 @@
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
       "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt.",
-      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
-      "Gemeinsamen Rollen-/Produktworkflow und konkrete Übergaben in der aktuellen Fassung individuell gelesen und redigiert."
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "64b44e1920813cd77ccc81d7a2c467e350a766c42d1ede6ca3bcb7d610344ab3"
+    "sha256": "405768541ce1131327b38864dd4e8254c110e4fa5c932990fe9922323aed027f"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Redaktion 14.11.2026: vier Rollen, ein fortgeführter Arbeitsstand, lokale Fachmodulwahl und eigenständige Spezialwerkzeuge; keine neue Gesamtverifikation der Entscheidungsanker. Siehe quality/insolvenzrecht/konsolidierung-pruefvermerk-2026-11-14.md.",
+    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
-      "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt.",
-      "Gemeinsamen Rollen-/Produktworkflow und konkrete Übergaben in der aktuellen Fassung individuell gelesen und redigiert."
+      "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt."
     ],
-    "sha256": "8e85e880af102a3e6d166385a5e20fb20ff94b8653b3c154614f04c80323abf9"
+    "sha256": "87f41998e4e69fc13893dee94c75ed9017273e8e1ab53d392dbf9af368a76638"
   },
   "focus_review": {
-    "reviewed_on": "2026-11-14",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "OPOS, Titelansatz und Dreiwochenbrücke behalten die bestehenden fachlichen Grenzen. Hauptproblem und Fokus-Skill individuell gelesen und in Start- sowie Fortsetzungsverhalten abgestimmt; heutiger desk_review ohne Live-Ausführung und ohne erneute Vollverifikation der bisherigen Entscheidungsanker. Redaktion 14.11.2026: vier Rollen, ein fortgeführter Arbeitsstand, lokale Fachmodulwahl und eigenständige Spezialwerkzeuge; keine neue Gesamtverifikation der Entscheidungsanker. Siehe quality/insolvenzrecht/konsolidierung-pruefvermerk-2026-11-14.md.",
+    "reason": "OPOS, Titelansatz und Dreiwochenbrücke behalten die bestehenden fachlichen Grenzen. Hauptproblem und Fokus-Skill individuell gelesen und in Start- sowie Fortsetzungsverhalten abgestimmt; heutiger desk_review ohne Live-Ausführung und ohne erneute Vollverifikation der bisherigen Entscheidungsanker.",
     "changes": [
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Hauptproblem und Fokus-Skill nach vollständiger Lektüre um eigenständige Einstiege und konkrete Fortsetzung bei Stundung oder Zahlungseingang ergänzt; keine neue Gesamtquellenprüfung.",
-      "30.09.2026: IX ZR 18/25 zu tatsächlich verfügbaren Drittmitteln und Grenzen der Detailerwiderung im Hauptproblem ergänzt; Fokus-Skill unverändert.",
-      "OPOS-Fokus beibehalten; Rolle ohne neuen Intake übernehmen und Ergebnisse an Insolvenzreifeprüfer oder Bericht zurückführen; Fokus-Skill nach Konsistenzlektüre unverändert."
+      "30.09.2026: IX ZR 18/25 zu tatsächlich verfügbaren Drittmitteln und Grenzen der Detailerwiderung im Hauptproblem ergänzt; Fokus-Skill unverändert."
     ],
     "prompt_path": "insolvenzrecht/insolvenzrecht-hauptproblem.md",
-    "prompt_sha256": "64c6e59e88cb7839da6713c444fe4078e33e474065e501b7857d5567d61558f6",
+    "prompt_sha256": "2447162f0bc9ff3a87d37dfc49e3a1d95316d534e6eec20395adda4f8062e3e2",
     "skill_path": "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
     "skill_sha256": "f2b96d70d9d751175363a23bc7225b2f933df04ea915ee11fd8f7fb2683dd531"
   },
@@ -176,8 +173,7 @@
       "insolvenzrecht/insolvenzrecht-werkstatt.md",
       "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
       "insolvenzrecht/README.md",
-      "quality/evals/insolvenzrecht.json",
-      "insolvenzrecht/skills/einstieg-routing/SKILL.md"
+      "quality/evals/insolvenzrecht.json"
     ],
     "opening_change": "Fällige Schulden, frei verfügbare Mittel und streitige Titel für den Insolvenzstatus abstimmen.",
     "norms": [
@@ -210,8 +206,7 @@
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Fokus-Skill bei der Vorprüfung vom 2026-09-22 unverändert belassen; am 2026-09-23 nur Einstieg und Antwortfortsetzung kohärent ergänzt. Alte Abrufvermerke sind keine neue Volltextprüfung. Keine Vollverifikation sämtlicher Anfechtungs- und Steuerfragen.",
       "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
-      "Erneuter Abruf von Paragrafen 15a und 17 InsO am 2026-09-23 scheiterte; die dokumentierte Vorprüfung vom 2026-09-22 bleibt als solche erhalten, keine neue Volltextprüfung behauptet.",
-      "Konsolidierungsredaktion 14.11.2026 betrifft Rollen-/Produktführung und gezielte Altfehler; kein neuer Volltextabruf aller Entscheidungsanker. Einzelheiten und Abrufgrenzen: quality/insolvenzrecht/konsolidierung-pruefvermerk-2026-11-14.md"
+      "Erneuter Abruf von Paragrafen 15a und 17 InsO am 2026-09-23 scheiterte; die dokumentierte Vorprüfung vom 2026-09-22 bleibt als solche erhalten, keine neue Volltextprüfung behauptet."
     ],
     "supplement_checked_on": "2026-09-30"
   },
@@ -225,13 +220,7 @@
     ],
     "continuation": "Neue konkrete Stundung -> nur erfasste Forderungen und betroffene Fälligkeitstage in Status, Dreiwochenbrücke und Organvermerk ändern; späterer Zahlungseingang bleibt von damaliger Prognose getrennt.",
     "enrichment": "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
-    "limits": "desk review; no live client execution",
-    "consolidation_supplement": {
-      "date": "2026-11-14",
-      "report": "quality/insolvenzrecht/konsolidierung-pruefvermerk-2026-11-14.md",
-      "continuation": "Ein Arbeitsstand über Fachmodule; sachbezogene Belegnachforderung und produktbezogene Fortsetzung ohne erneute Aufnahme.",
-      "limits": "desk_review; keine Live-Client-Ausführung, keine Gesamtquellenprüfung."
-    }
+    "limits": "desk review; no live client execution"
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",
@@ -292,68 +281,5 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
-  },
-  "consolidation_review": {
-    "date": "2026-11-14",
-    "method": "desk_review",
-    "report": "quality/insolvenzrecht/konsolidierung-pruefvermerk-2026-11-14.md",
-    "scope": "Gemeinsamer Rollen-/Produktworkflow, lokale Fachmodulwahl und gezielte amtliche Normkorrekturen in einer Altquelle. Keine Vollprüfung aller übernommenen Rechtsprechungsanker.",
-    "files": [
-      "insolvenzrecht/skills/einstieg-routing/SKILL.md",
-      "insolvenzrecht/insolvenzrecht-werkstatt.md",
-      "insolvenzrecht/insolvenzrecht-schnellstart.md",
-      "insolvenzrecht/insolvenzrecht-hauptproblem.md"
-    ],
-    "previous_reviews": {
-      "mini_review": {
-        "verdict": "revised",
-        "reason": "Titel werden nicht nach Berufungschancen abgezinst; Zuflüsse und neue Fälligkeiten fließen symmetrisch in die Dreiwochenbetrachtung ein. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
-        "changes": [
-          "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
-          "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
-          "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
-          "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-          "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
-          "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt.",
-          "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
-          "Gemeinsamen Rollen-/Produktworkflow und konkrete Übergaben in der aktuellen Fassung individuell gelesen und redigiert."
-        ],
-        "sha256": "405768541ce1131327b38864dd4e8254c110e4fa5c932990fe9922323aed027f"
-      },
-      "workshop_review": {
-        "verdict": "revised",
-        "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
-        "changes": [
-          "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
-          "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
-          "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
-          "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
-          "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
-          "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt.",
-          "Gemeinsamen Rollen-/Produktworkflow und konkrete Übergaben in der aktuellen Fassung individuell gelesen und redigiert."
-        ],
-        "sha256": "87f41998e4e69fc13893dee94c75ed9017273e8e1ab53d392dbf9af368a76638"
-      },
-      "focus_review": {
-        "reviewed_on": "2026-09-23",
-        "method": "desk_review",
-        "verdict": "revised",
-        "reason": "OPOS, Titelansatz und Dreiwochenbrücke behalten die bestehenden fachlichen Grenzen. Hauptproblem und Fokus-Skill individuell gelesen und in Start- sowie Fortsetzungsverhalten abgestimmt; heutiger desk_review ohne Live-Ausführung und ohne erneute Vollverifikation der bisherigen Entscheidungsanker.",
-        "changes": [
-          "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
-          "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
-          "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
-          "Hauptproblem und Fokus-Skill nach vollständiger Lektüre um eigenständige Einstiege und konkrete Fortsetzung bei Stundung oder Zahlungseingang ergänzt; keine neue Gesamtquellenprüfung.",
-          "30.09.2026: IX ZR 18/25 zu tatsächlich verfügbaren Drittmitteln und Grenzen der Detailerwiderung im Hauptproblem ergänzt; Fokus-Skill unverändert.",
-          "OPOS-Fokus beibehalten; Rolle ohne neuen Intake übernehmen und Ergebnisse an Insolvenzreifeprüfer oder Bericht zurückführen; Fokus-Skill nach Konsistenzlektüre unverändert."
-        ],
-        "prompt_path": "insolvenzrecht/insolvenzrecht-hauptproblem.md",
-        "prompt_sha256": "2447162f0bc9ff3a87d37dfc49e3a1d95316d534e6eec20395adda4f8062e3e2",
-        "skill_path": "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
-        "skill_sha256": "f2b96d70d9d751175363a23bc7225b2f933df04ea915ee11fd8f7fb2683dd531"
-      }
-    },
-    "live_model_test": false,
-    "full_legal_review": false
   }
 }

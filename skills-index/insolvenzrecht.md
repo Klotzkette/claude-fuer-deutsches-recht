@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`insolvenzrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`insolvenzrecht-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [insolvenzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzrecht-v445.35.4/insolvenzrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [insolvenzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
 
 ## So benutzt man einen Skill
 

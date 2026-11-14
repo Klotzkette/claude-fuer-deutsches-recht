@@ -1,18 +1,15 @@
 # Insolvenzrecht
 
-Für die Insolvenzarbeit führt der [Oberordner Insolvenzrecht](../../insolvenzrecht-plugins/README.md) zu vier klaren Einstiegen: einem gemeinsamen Hauptplugin und drei eigenständigen Spezialwerkzeugen.
+Der [Oberordner Insolvenzrecht](../../insolvenzrecht-plugins/README.md) ordnet 16 eigenständige Plugins nach Aufgaben: Forderungsanmeldung, Insolvenzgründe, Planbearbeitung, Mandat, Verwaltung, Sachbearbeitung, Berichte und weitere Spezialthemen.
 
 [Repository-Start](../../README.md) · [Alle fünf Verzeichnisse](../../README.md#alle-vollständigen-listen-von-a-bis-z) · [Plugin-Gruppen](../README.md)
 
-## 1. Zum passenden Arbeitsbereich
+## 1. Zur gemeinsamen Übersicht
 
-- [Insolvenzrecht: gemeinsames Hauptplugin](../../insolvenzrecht/README.md) für anwaltliche Bearbeitung, Verwaltung, Sachbearbeitung und Berichte.
-- [Forderungsanmelder](../../insolvenzforderungsanmeldungspruefung/README.md) für Anmeldung und Prüfung von Insolvenzforderungen.
-- [Zahlungsunfähigkeits- und Überschuldungsprüfer](../../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) für die Rekonstruktion der Insolvenzgründe.
-- [Insolvenzplan- und StaRUG-Planwerkstatt](../../insolvenzplan-starug-planwerkstatt/README.md) für die Planbearbeitung.
+Die [Insolvenzrecht-Übersicht](../../insolvenzrecht-plugins/README.md) führt zu sämtlichen Plugin-Anleitungen und Einzel-Downloads. Forderungsanmelder, Zahlungsunfähigkeits- und Überschuldungsprüfer sowie Insolvenzplan- und StaRUG-Planwerkstatt sind dort ausdrücklich als eigene Werkzeuge aufgeführt. Auch alle allgemeinen Insolvenzplugins bleiben eigenständig.
 
-Die [vollständige Insolvenzrecht-Übersicht](../../insolvenzrecht-plugins/README.md) enthält die passenden Downloads, ergänzende Spezialangebote und die nachgeordneten bisherigen Einzelpakete. Die allgemeinen Arbeitsbereiche sind im Hauptplugin gebündelt. Dieser Wegweiser bleibt unter seinem bestehenden Pfad erreichbar; er ist kein eigenes Installationspaket.
+Dieser Wegweiser erhält den bestehenden Gruppenpfad. Die vollständige Fachliste wird im verlinkten Oberordner gepflegt; beide Seiten dienen der Navigation und sind keine eigenen Installationspakete.
 
 ## 2. English help
 
-Open the [insolvency directory](../../insolvenzrecht-plugins/README.md) for the combined main plugin, the three separate specialist tools, downloads and compatible legacy packages. This page preserves the existing topic-directory link.
+Open the [insolvency directory](../../insolvenzrecht-plugins/README.md) for 16 independent plugins grouped by task, with their own instructions and downloads. This page preserves the existing topic-directory link.

@@ -1,5 +1,7 @@
 # 1. Insolvenzforderungen-Checker
 
+[Oberordner Insolvenzrecht – alle eigenständigen Plugins nach Aufgabe](../insolvenzrecht-plugins/README.md)
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

@@ -1,5 +1,7 @@
 <!-- decimal-headings -->
 
+[Oberordner Insolvenzrecht – alle eigenständigen Plugins nach Aufgabe](../insolvenzrecht-plugins/README.md)
+
 <!-- decimal-anchor --> <a id="liquiditätsplanung--power-plugin"></a>
 
 # 1. Liquiditätsplanung — Power-Plugin

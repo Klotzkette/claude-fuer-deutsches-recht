@@ -1,7 +1,3 @@
-# Insolvenzrecht 445.35.4 – gemeinsamer Arbeitsbereich vom 14. November 2026
-
-Der Oberordner Insolvenzrecht bietet vier Haupteinstiege. Das Hauptplugin bündelt Beratung, Verwaltung, Sachbearbeitung und Berichte als lokale Fachmodule mit einem gemeinsamen Arbeitsstand. Forderungsanmelder, Zahlungsunfähigkeits- und Überschuldungsprüfer sowie Insolvenzplan- und StaRUG-Planwerkstatt bleiben eigenständig. Die bisherigen allgemeinen Einzelausgaben bleiben kompatibel erreichbar. [Umfang und Prüfgrenzen](docs/releases/insolvenzrecht-v445.35.4.md).
-
 # Visuelle Werkstattführung und eigenständige PR-Prüfung – 13. November 2026
 
 Alle 315 Plugins erhalten eine ausdrückliche Zuordnung ihrer fachlichen Einstiegsskills und geeigneter Fallansichten. Die großen Werkstatt-Prompts, Hauptskills und vorhandenen Vollprüfungen führen bei passender Aufgabe direkt zu einer Visualisierung oder einem verfügbaren Applet. Belegstellen, Annahmen, lesbare Auswahlübergabe und die Fortsetzung bis zum ausformulierten Dokument bleiben verbunden. Die beiden Angebote ohne eigenständige Prompts behalten ihren Anwendungs- beziehungsweise Dateiworkflow. Es entstehen keine zusätzlichen Skills; die Kurz- und Schwerpunktprompts behalten ihr Größenbudget.
