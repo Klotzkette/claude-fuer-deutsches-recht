@@ -19,7 +19,7 @@ Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`corporate-contract-law.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/corporate-contract-law.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`corporate-contract-law.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/corporate-contract-law.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/corporate-contract-law.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-schnellstart.md) |
@@ -57,7 +57,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`corporate-contract-law.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/corporate-contract-law.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`corporate-contract-law.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/corporate-contract-law.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`corporate-contract-law-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`corporate-contract-law-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [7 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -93,7 +93,7 @@ Für die vollständige Ausarbeitung eines B2B-Vertrags steht zusätzlich der eig
 
 ## 1.6. Umfang und Arbeitsweg / Scope and Workflow
 
-Version `445.19.1`. Fachlicher Dokumentenprüfstand: 23.09.2026. Die Quellenprüfung unterscheidet gelesene Normen, bestätigte Leitsatzaussage und gesperrte Entscheidungsgründe; sie ist keine pauschale rechtliche Freigabe.
+Version `445.36.1`. Dateibezogene Nachprüfung: 14.11.2026; alle zwanzig Skills vollständig gelesen. Fünf zuvor gesperrte BGH-Originale wurden für die dokumentierten Aussagen geprüft. Verbleibende EU-Quellenlücken sind ausdrücklich ausgewiesen; dies ist keine pauschale rechtliche Freigabe.
 
 Zwanzig Skills führen vom konkreten Geschäftsauftrag über den vollständigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf. Ein klarer Auftrag startet direkt. Ohne erkennbares Ziel folgt eine gezielte Auswahl zwischen Erstentwurf, Gegenentwurf und Unterschriftenfassung, kein ungefragter Bestandsbericht.
 
@@ -172,7 +172,7 @@ The three practice matters are stored outside the plugin and are not installed w
 
 ## 1.9. Quellen und Prüfgrenzen / Sources and Limits
 
-[Fachquellen](references/fachquellen.md) dokumentieren Aussage, Reichweite und Quellenstatus. Die [Zitierweise](references/zitierweise.md) ist die bytegleiche Kopie der zentralen Repository-Referenz. Für einzelne Entscheidungen sind amtliche Suchauszüge oder Metadaten verfügbar, ihre Volltextabrufe aber gesperrt. Diese werden nicht als gelesene Entscheidungsgründe ausgegeben.
+[Fachquellen](references/fachquellen.md) dokumentieren Aussage, Reichweite und Quellenstatus. Die [Zitierweise](references/zitierweise.md) ist die bytegleiche Kopie der zentralen Repository-Referenz. Die Nachprüfung vom 14.11.2026 ergänzt fünf gelesene BGH-Originale, aktuelle deutsche Einzelnormen, relevante CISG-Artikel und ausgewählte DSGVO-Artikel aus der BfDI-Ausgabe März 2026. Bei Ingmar bleibt der historisch bestätigte Leitsatzstatus; Super Bock und mehrere EU-Verordnungen bleiben begrenzte Rechercheaufträge. Suchauszüge oder bloße HTML-Startseiten werden nicht als gelesene Entscheidungsgründe oder Normtexte ausgegeben.
 
 [Legal sources](references/fachquellen.md) record propositions, scope and access status. The local [citation rules](references/zitierweise.md) are an exact copy of the central repository reference. Indexed official excerpts and metadata are not represented as verified judgment texts when direct access was blocked.
 

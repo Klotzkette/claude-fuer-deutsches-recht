@@ -1,6 +1,6 @@
 # corporate-contract-law
 
-**20 Skills** · Stand `v445.35.3`
+**20 Skills** · Stand `v445.36.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../corporate-contract-law/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`corporate-contract-law-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`corporate-contract-law-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [corporate-contract-law.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/corporate-contract-law.zip) |
+| **Plugin (installierbar)** | ZIP | [corporate-contract-law.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/corporate-contract-law.zip) |
 
 ## So benutzt man einen Skill
 

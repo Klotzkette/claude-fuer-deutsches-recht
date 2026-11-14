@@ -32,12 +32,14 @@
   },
   "schema_version": 1,
   "plugin": "corporate-contract-law",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-11-15",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__92c.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlichen Normtext gelesen: Abweichungen bei vertraglich außerhalb EU/EWR ausgeübter Tätigkeit sowie bestimmten Schifffahrtsgeschäften. Kein allgemeines Vorabverzichtsverbot ohne Prüfung der Ausnahme."
+      "checked_on": "2026-11-14",
+      "supports": "EU/EWR-Tätigkeitsort-Ausnahme und bestimmte Schifffahrtsgeschäfte; Sitz allein nicht maßgeblich.",
+      "audit_source_id": "N10b",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?qid=1750168544454&uri=CELEX%3A32016R0679",
@@ -46,93 +48,129 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: AGB-Begriff und Aushandeln; keine Aushandlungsfiktion."
+      "checked_on": "2026-11-14",
+      "supports": "AGB, Vorformulierung und Aushandeln; kein Nachweis durch Etikett allein.",
+      "audit_source_id": "N01",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: Transparenz und unangemessene Benachteiligung."
+      "checked_on": "2026-11-14",
+      "supports": "Transparenz und unangemessene Benachteiligung; keine Freigabe bestimmter Obergrenzen.",
+      "audit_source_id": "N02",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: B2B-Ausnahmen; Nummer 1a und 1b des Paragrafen 308 bleiben grundsätzlich relevant."
+      "checked_on": "2026-11-14",
+      "supports": "B2B-Ausnahme lässt Paragraf 308 Nummer 1a/1b bestehen; besondere Finanz- und VOB/B-Bereiche nicht verallgemeinern.",
+      "audit_source_id": "N03",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__309.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: insbesondere Nummer 7; keine behauptete unmittelbare B2B-Anwendung."
+      "checked_on": "2026-11-14",
+      "supports": "Personenschäden/grobes Verschulden als verschiedene Fallgruppen; im B2B keine unmittelbare Anwendung behauptet.",
+      "audit_source_id": "N04",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__276.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: kein Vorausverzicht auf Vorsatz."
+      "checked_on": "2026-11-14",
+      "supports": "Kein Vorausverzicht auf Vorsatz; konkrete AGB-Caps nicht allein dadurch legitimiert.",
+      "audit_source_id": "N05",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: Abnahme, Fertigstellung und angemessene Frist, Verweigerung unter Benennung eines Mangels, Vorbehalte."
+      "checked_on": "2026-11-14",
+      "supports": "Fiktion nur unter gesetzlichen Voraussetzungen; Vorbehaltsverlust Absatz 3 beschränkt auf Paragraf 634 Nummer 1 bis 3.",
+      "audit_source_id": "N06",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: beiderseitiges Handelsgeschäft; rechtzeitige Absendung der Rüge genügt nach Absatz 4."
+      "checked_on": "2026-11-14",
+      "supports": "Beiderseitiges Handelsgeschäft, Rüge/Entdeckung, rechtzeitige Absendung, Arglistausnahme.",
+      "audit_source_id": "N07",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__271a.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: besondere Grenzen langer Zahlungs- und Prüfungsfristen; kein allgemeiner AGB-Freibrief."
+      "checked_on": "2026-11-14",
+      "supports": "60/30-Tage-Schwellen, öffentliche Schuldner und Abschlags-/Ratenausnahme; übrige AGB-Kontrolle bleibt.",
+      "audit_source_id": "N08",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__648.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: freie Kündigung, Anrechnung und Fünf-Prozent-Vermutung für den nicht erbrachten Teil."
+      "checked_on": "2026-11-14",
+      "supports": "Freie Bestellerkündigung und Anrechnung; Fünf-Prozent-Vermutung nur nicht erbrachter Leistungsteil.",
+      "audit_source_id": "N09",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__89b.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: Ausgleichsvoraussetzungen, Höchstgrenze, kein Vorausverzicht."
+      "checked_on": "2026-11-14",
+      "supports": "Ausgleich, Jahresvergütung als Höchstgrenze, Vorausverzicht und Jahresfrist; keine Händleranalogie als automatisch.",
+      "audit_source_id": "N10",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__90a.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: Form, Dauer, Reichweite und Entschädigung bei nachvertraglichem Vertreterwettbewerbsverbot."
+      "checked_on": "2026-11-14",
+      "supports": "Form, Zweijahresgrenze, Reichweite, Entschädigung; nicht jede Händlerklausel erfasst.",
+      "audit_source_id": "N11",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__348.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: Ausschluss der Herabsetzung nach Paragraf 343 unter handelsrechtlichen Voraussetzungen, nicht Ausschluss der AGB-Kontrolle."
+      "checked_on": "2026-11-14",
+      "supports": "Herabsetzung nach Paragraf 343 ausgeschlossen unter Handelsgeschäftsvoraussetzungen; AGB-Kontrolle bleibt.",
+      "audit_source_id": "N12",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__350.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: Formausnahme nur unter den bezeichneten Voraussetzungen auf Verpflichtetenseite."
+      "checked_on": "2026-11-14",
+      "supports": "Formausnahme anhand Handelsgeschäfts des Verpflichteten, nicht Konzernetikett.",
+      "audit_source_id": "N13",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__766.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: Bürgschaftsschriftform und Ausschluss elektronischer Form."
+      "checked_on": "2026-11-14",
+      "supports": "Schriftform, Ausschluss elektronischer Form und Erfüllungstatbestand; Ausnahmen getrennt prüfen.",
+      "audit_source_id": "N14",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__767.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: spätere Rechtsgeschäfte erweitern Bürgschaft nicht automatisch."
+      "checked_on": "2026-11-14",
+      "supports": "Kein automatisches Mitwachsen durch spätere Rechtsgeschäfte des Hauptschuldners.",
+      "audit_source_id": "N15",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__311b.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: notarielle Form insbesondere bei Grundstücksverpflichtung; keine Heilung durch Mappe."
+      "checked_on": "2026-11-14",
+      "supports": "Beurkundung Grundstücksverpflichtungen; keine Mappe als Formersatz.",
+      "audit_source_id": "N16",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: angemessene Schutzmaßnahmen als Teil der Geheimnisvoraussetzungen."
+      "checked_on": "2026-11-14",
+      "supports": "Angemessene Maßnahmen zusätzlich zu weiteren Geheimnismerkmalen erforderlich.",
+      "audit_source_id": "N17",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
-      "checked_on": "2026-09-23",
-      "supports": "Gelesener amtlicher Normtext: allgemeine Wertgrenze aktuell 10000 EUR, besondere Zuständigkeiten und Übergangsrecht gesondert."
+      "checked_on": "2026-11-14",
+      "supports": "Aktuell allgemeine Wertzuständigkeit 10000 EUR; Ausnahmen/Übergang weiterhin auftragsbezogen.",
+      "audit_source_id": "N18",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A61998CJ0381",
@@ -141,18 +179,24 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-23",
-      "supports": "BGH 20.03.2014, VII ZR 248/13: amtlich indexierter Leitsatz als Aushandlungsanker; Direktabruf 403. Nicht volltextverifiziert, keine Randnummer bestätigt."
+      "checked_on": "2026-11-14",
+      "supports": "Sicherungsphase bis/nach Abnahme und reales Aushandeln; keine allgemeine Prozentfreigabe.",
+      "audit_source_id": "J02",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-23",
-      "supports": "BGH 19.01.2017, VII ZR 301/13: amtlich indexierter Leitsatz zur Abnahme und zum Abrechnungsverhältnis. Direktabruf fehlgeschlagen; kein bestätigter Volltext."
+      "checked_on": "2026-11-14",
+      "supports": "Abnahme grundsätzlich; Abrechnungsverhältnis ohne weitere Erfüllung; Vorschussverlangen allein reicht nicht.",
+      "audit_source_id": "J03",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-23",
-      "supports": "BGH 15.02.2024, VII ZR 42/22: indexierter Leitsatz zur konkreten Einheitspreis-Vertragsstrafe. Direktabruf 403; kein allgemeiner Fünf-Prozent-Freibrief und kein bestätigter Volltext."
+      "checked_on": "2026-11-14",
+      "supports": "Konkrete Einheitspreis-Bauklausel und mögliche Überbelastung bei Mengenminderung; kein zusätzlicher Nachweis bereits eingetretener Minderungen für AGB-Unwirksamkeit.",
+      "audit_source_id": "J04",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     },
     {
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2022&Gericht=bgh&Seite=15&anz=2726&pos=470",
@@ -166,49 +210,294 @@
     },
     {
       "url": "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg/status",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Status-Einstieg recherchiert, Direktabruf 403. Keine aktuelle Vertragsstaaten- oder Vorbehaltsprüfung behauptet."
+      "checked_on": "2026-11-14",
+      "supports": "Staaten/Inkrafttreten und Vorbehalte getrennt; keine Vollprüfung jedes Staates oder jedes Vertragsdatums.",
+      "audit_source_id": "N27b",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__308.html",
+      "checked_on": "2026-11-14",
+      "supports": "Nummer 1a/1b: mehr als 30/15 Tage als Zweifelsgrenzen, keine starren Universalverbote.",
+      "audit_source_id": "N19",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__119.html",
+      "checked_on": "2026-11-14",
+      "supports": "Vorausbeschränkungen der Paragrafen 103–118; keine pauschale Gleichsetzung aller Insolvenzklauseln.",
+      "audit_source_id": "N20",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__103.html",
+      "checked_on": "2026-11-14",
+      "supports": "Wahlrecht bei beiderseits noch nicht vollständig erfülltem gegenseitigem Vertrag.",
+      "audit_source_id": "N20b",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__38.html",
+      "checked_on": "2026-11-14",
+      "supports": "Gerichtsstandsvereinbarung abhängig von Parteien, Fallgruppe und Form, nicht bloß B2B.",
+      "audit_source_id": "N21",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=18",
+      "checked_on": "2026-11-14",
+      "supports": "Tatsächliche Rollen, Weisung/Speicherung nur Union/Mitgliedstaatenausnahme, Unterauftragsgenehmigung, Risiko-TOM, Außenhaftung; keine Transferbeschluss- oder 324-Seiten-Vollprüfung.",
+      "audit_source_id": "N25b",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+      "checked_on": "2026-11-14",
+      "supports": "Anwendungsbereich, Ausschluss, Formvorbehalte und Rüge; keine gesamte Länderpaarprüfung.",
+      "audit_source_id": "N27",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2014/VIII_ZR__26-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "B2B-Bezug über Paragraf 307; Rettungszusatz „soweit gesetzlich zulässig“ genügt nicht.",
+      "audit_source_id": "J05a",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_213-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "Ex-ante-Interessen, Geldleistungsrolle und Ausübungskontrolle; Zurückverweisung keine endgültige Klauselfreigabe.",
+      "audit_source_id": "J06a",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126.html",
+      "checked_on": "2026-11-14",
+      "supports": "Gesetzliche Schriftform und elektronische Ersetzbarkeit vorbehaltlich anderer gesetzlicher Regel.",
+      "audit_source_id": "N28",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__127.html",
+      "checked_on": "2026-11-14",
+      "supports": "Vereinbarte Form und abweichender Parteiwille.",
+      "audit_source_id": "N29",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__164.html",
+      "checked_on": "2026-11-14",
+      "supports": "Vertretung setzt Handeln im Namen und im Rahmen der Macht voraus.",
+      "audit_source_id": "N30",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "checked_on": "2026-11-14",
+      "supports": "Genehmigungsabhängigkeit statt fingierter Vertretungsmacht.",
+      "audit_source_id": "N31",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__181.html",
+      "checked_on": "2026-11-14",
+      "supports": "Insichgeschäft und Ausnahmen.",
+      "audit_source_id": "N32",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-11-14",
+      "supports": "Notarielle Übertragung und Verpflichtung von GmbH-Anteilen; keine einfache Unterschrift als Ersatz.",
+      "audit_source_id": "N33",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__311.html",
+      "checked_on": "2026-11-14",
+      "supports": "Vertragsänderung durch Vertrag und vorvertragliche Schutzpflichten.",
+      "audit_source_id": "N34",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__150.html",
+      "checked_on": "2026-11-14",
+      "supports": "Abändernde Annahme als neuer Antrag.",
+      "audit_source_id": "N35",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__611.html",
+      "checked_on": "2026-11-14",
+      "supports": "Geschuldete Tätigkeit statt automatische werkvertragliche Erfolgshaftung.",
+      "audit_source_id": "N36",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__705.html",
+      "checked_on": "2026-11-14",
+      "supports": "Gemeinsame Zweckförderung und Rechtsfähigkeit; Etikett allein nicht entscheidend.",
+      "audit_source_id": "N37",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "checked_on": "2026-11-14",
+      "supports": "Rechtearten, Reichweite und Vertragszweck; keine pauschale Rechteübertragung.",
+      "audit_source_id": "N38",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__69b.html",
+      "checked_on": "2026-11-14",
+      "supports": "Besondere Arbeitgeberbefugnisse bei Aufgaben/Weisungen; nicht jeder freie Entwickler automatisch erfasst.",
+      "audit_source_id": "N39",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__69g.html",
+      "checked_on": "2026-11-14",
+      "supports": "Zwingende Softwarerechte bleiben neben Geheimnisschutz beachtlich.",
+      "audit_source_id": "N40",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+      "checked_on": "2026-11-14",
+      "supports": "Erlaubtes Beobachten/Rückbauen unter den konkreten Voraussetzungen.",
+      "audit_source_id": "N41",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__5.html",
+      "checked_on": "2026-11-14",
+      "supports": "Berechtigte Offenlegungsinteressen und Arbeitnehmervertretung.",
+      "audit_source_id": "N42",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__341.html",
+      "checked_on": "2026-11-14",
+      "supports": "Vertragsstrafenvorbehalt bei Annahme der Erfüllung.",
+      "audit_source_id": "N43",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__44.html",
+      "checked_on": "2026-11-14",
+      "supports": "Keine allein aus Restrukturierungsinstrumenten folgende Beendigung; Sonderausnahmen des Absatzes 3.",
+      "audit_source_id": "N44",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "checked_on": "2026-11-14",
+      "supports": "Vorrang individueller Vertragsabrede.",
+      "audit_source_id": "N45",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "checked_on": "2026-11-14",
+      "supports": "Gesetzliche Lückenfüllung und Härteausnahme.",
+      "audit_source_id": "N46",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__314.html",
+      "checked_on": "2026-11-14",
+      "supports": "Wichtiger Grund, Abmahnung/Frist, Ausnahmen und angemessene Ausübungsfrist.",
+      "audit_source_id": "N47",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650.html",
+      "checked_on": "2026-11-14",
+      "supports": "Herzustellende bewegliche Sachen grundsätzlich Kaufrecht, nicht automatisch Werkvertrag.",
+      "audit_source_id": "N48",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__241.html",
+      "checked_on": "2026-11-14",
+      "supports": "Leistungs- und Rücksichtnahmepflichten getrennt.",
+      "audit_source_id": "N49",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__145.html",
+      "checked_on": "2026-11-14",
+      "supports": "Bindung an Antrag sofern nicht ausgeschlossen.",
+      "audit_source_id": "N50",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__147.html",
+      "checked_on": "2026-11-14",
+      "supports": "Annahmefristen für Anwesende und Abwesende.",
+      "audit_source_id": "N51",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__631.html",
+      "checked_on": "2026-11-14",
+      "supports": "Werkvertrag schuldet Erfolg.",
+      "audit_source_id": "N52",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "checked_on": "2026-11-14",
+      "supports": "QES und gleichlautende Vertragsdokumente für gesetzliche elektronische Form.",
+      "audit_source_id": "N53",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständigen Einstieg, konkrete Geschäftsfrage und Fortsetzung gelesen; begrenzten BGH-Abnahmeanker ergänzt. Dokumentenprüfung, keine Live-Ausführung. Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Nachprüfung vom 14.11.2026, Abschluss am 2026-11-15: Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht. Kein Live-Modelltest. Historischer Prüfstand mit ursprünglichem Hash separat erhalten.",
     "changes": [
-      "Direkten Entwurfsstart und gezielte Auswahl ohne Bestandsbericht festgelegt.",
-      "BGH VII ZR 301/13 ausdrücklich nur als amtlich indexierten Leitsatz bei gesperrtem Volltext aufgenommen.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "vollständig; Abnahmeanker aktualisiert"
     ],
-    "sha256": "c762780ab0d7c1373b07a3001526b91c2dec01356abddf60fad95e79087bec28",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "f8e270d69673910302885d90a7ded7d36129f41b4035d262438d28053e6d4fe3",
+    "reviewed_on": "2026-11-15",
+    "method": "desk_review",
+    "full_file_read_in_followup": true,
+    "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
+    "historical_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/corporate-contract-law.json",
+      "field": "mini_review",
+      "sha256": "fe956091ce977ddbdcc8d01fea0d6f77e670a116179e66648fad981bb5b19d45"
+    }
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Entscheidungswege, konkrete Klauselalternativen und Rückfragezweige für die zwanzig Routen fachlich gelesen. Redundantes Vollbeispiel durch einen gezielten vollständigen Nachtrag ersetzt; keine Mandatsausführung. Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Nachprüfung vom 14.11.2026, Abschluss am 2026-11-15: betroffene vollständige Absätze zu Abnahme, Vertragsstrafe, Exit, Sicherheiten, AGB, DSGVO, internationalen Quellen und Quellenabschluss; keine vollständige neue Gesamtlektüre behauptet Kein Live-Modelltest. Historischer Prüfstand mit ursprünglichem Hash separat erhalten.",
     "changes": [
-      "Abrufbindung, Abnahme, AGB-B2B, Haftung, Vertragsstrafe, CISG, Vertrieb und Exit mit konkreten Entscheidungsfolgen ausgearbeitet.",
-      "Werkstatt auf den Zielumfang gekürzt, ohne Fachrouten in Verweis-Wrapper zu verwandeln.",
-      "Eigenständige Quellenregeln mit begrenzten Entscheidungsankern und offenen Zugriffslücken aufgenommen.",
-      "Gegenprüfung: Ausnahme nach Paragraf 92c HGB ergänzt; Weisungsausnahme auf Unions- und Mitgliedstaatenrecht begrenzt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "betroffene vollständige Absätze zu Abnahme, Vertragsstrafe, Exit, Sicherheiten, AGB, DSGVO, internationalen Quellen und Quellenabschluss; keine vollständige neue Gesamtlektüre behauptet"
     ],
-    "sha256": "dd36d5070759522f2d5666ad02dbf9781617232949eb2f7b230737633f978ec0",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "1b2724c2ca22d32c86dc5dd765f4208ec584ad6ed921bb0e205b39e60f6ba322",
+    "reviewed_on": "2026-11-15",
+    "method": "desk_review",
+    "full_file_read_in_followup": false,
+    "latest_editorial_scope": "betroffene vollständige Absätze zu Abnahme, Vertragsstrafe, Exit, Sicherheiten, AGB, DSGVO, internationalen Quellen und Quellenabschluss; keine vollständige neue Gesamtlektüre behauptet",
+    "historical_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/corporate-contract-law.json",
+      "field": "workshop_review",
+      "sha256": "fe956091ce977ddbdcc8d01fea0d6f77e670a116179e66648fad981bb5b19d45"
+    }
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-11-15",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem und ausführenden Hauptskill auf gemeinsame Bindungskollision, Folgeänderungen und Abschlussgrenzen geprüft. Im kompakten Prompt begrenzten Entscheidungsanker ergänzt. Kein Live-Modelltest.",
+    "reason": "Hauptproblem-Prompt und zugehörigen Hauptskill vollständig gelesen. Abnahmeanker anhand des amtlichen Originals VII ZR 301/13 präzisiert; keine Live-Modellausführung.",
     "changes": [
-      "Widerspruch zwischen Prognose, Vorbeschaffung, Festpreis und freiem Exit als konkrete Geschäftsentscheidung verankert.",
-      "Fortsetzung desselben Entwurfs nach Antworten sowie Folgeabgleich im Prompt und Hauptskill umgesetzt.",
-      "Abnahmeanker mit Datum, Aktenzeichen und gesperrtem Volltextstatus ergänzt.",
-      "Gut lesbaren Haupttitel ergänzt; Inhalt und Fortsetzung des Hauptskills unverändert."
+      "Amtlichen Abnahmeanker von begrenztem Suchnachweis auf gelesene tragende Gründe umgestellt."
     ],
     "prompt_path": "corporate-contract-law/corporate-contract-law-hauptproblem.md",
-    "prompt_sha256": "a3bab039bbef1250c24c41ecfa798b53aebcfaaf7b38a3f7bdb6ff849ed8e853",
+    "prompt_sha256": "ff77209391fd0757f866d08cb8aab4b83c5d7d6119f3f067886edeb1102864bc",
     "skill_path": "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md",
     "skill_sha256": "d5b6abc288e03054162596d607cf8fb6dbde082a0db28f9d6ed89a89ac25d4e2"
   },
@@ -909,7 +1198,7 @@
       ]
     }
   ],
-  "source_verification": "Gelesene amtliche Normtexte und begrenzte Ingmar-Leitsatzaussage; weitere Anker nur mit dokumentierten Zugriffslücken. Kein globaler Volltext- oder Aktualitätsnachweis.",
+  "source_verification": "Aktuelle Nachprüfung: 57 amtliche Quellen mit genauem Lesebereich; fünf BGH-Originale tatsächlich gelesen. Begrenzte EU-/CURIA-Zugänge separat dokumentiert. Kein globaler Volltext- oder Aktualitätsnachweis.",
   "source_link_audit_2026_10_01": {
     "checked_on": "2026-10-01",
     "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
@@ -963,8 +1252,8 @@
     }
   },
   "file_review_status": {
-    "status": "needs_review",
-    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "status": "reviewed",
+    "reason": "Alle 20 zuvor offenen Dateien vollständig einzeln nachgeprüft; Altstand, Befund, Primärquellenstatus und Endbytes im gebundenen Abschlussbeleg. Keine Live-Modellausführung behauptet.",
     "files": [
       "corporate-contract-law/skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md",
       "corporate-contract-law/skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md",
@@ -986,7 +1275,11 @@
       "corporate-contract-law/skills/vertraulichkeit-und-geheimnisschutz-vereinbaren/SKILL.md",
       "corporate-contract-law/skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md",
       "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md"
-    ]
+    ],
+    "evidence": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/corporate-contract-law.json",
+      "sha256": "6d4ea2972331a092a2e9e831acbf0dca1e601dc982425c5f20e63b5c3c47f32c"
+    }
   },
   "visual_workflow_review": {
     "method": "desk_review",
@@ -999,5 +1292,26 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "file_followup_review": {
+    "date": "2026-11-15",
+    "source_review_date": "2026-11-14",
+    "historical_profile": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/corporate-contract-law.json",
+      "sha256": "fe956091ce977ddbdcc8d01fea0d6f77e670a116179e66648fad981bb5b19d45",
+      "commit": "d4d621de34186d03e343fdb144176b9986f1f1fe"
+    },
+    "audit": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json",
+      "sha256": "929a21a3181afee42111a98ed3f417dac242a8cfa92a84e74afeeceb0866b50d"
+    },
+    "scope": "20 vollständige Dateireviews. Weitere betroffene Dateien nur im individuell dokumentierten Lesebereich nachgezogen.",
+    "limits": [
+      "Keine Live-Modellausführung oder empirische Vertragsfreigabe.",
+      "Keine gesamte neue Werkstatt-Vollprüfung; dort nur dokumentierte Absatz-/Quellenkonsistenzprüfung.",
+      "Keine neue Prüfung aller EU-Normen oder aller internationalen Vorbehalte.",
+      "Keine rückwirkende Änderung der historischen Prüfungen oder Hashes.",
+      "Kein Nachweis, dass seit den Ankern keine neuere Rechtsprechung existiert."
+    ]
   }
 }

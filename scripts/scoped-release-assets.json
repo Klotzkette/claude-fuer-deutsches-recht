@@ -176,7 +176,7 @@
     "testakte-aml-kanzlei-grundstueck-berlin-einzelpdfs.zip": "geldwaeschebeauftragter-v445.34.0",
     "testakte-aml-notariat-kaufpreis-wuerzburg.zip": "grundakten-sammlung-v1.0.0",
     "testakte-aml-notariat-kaufpreis-wuerzburg-einzelpdfs.zip": "geldwaeschebeauftragter-v445.34.0",
-    "gesellschafterstreit.zip": "gesellschafterstreit-v445.34.2",
+    "gesellschafterstreit.zip": "qualitaetsrunde-v445.36.1",
     "testakte-gesellschafterstreit-zink-und-zunder.zip": "grundakten-sammlung-v1.0.0",
     "testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip": "gesellschafterstreit-v445.34.2",
     "testakte-gesellschafterstreit-klageerwiderung-berlin.zip": "grundakten-sammlung-v1.0.0",
@@ -1237,6 +1237,9 @@
     "weg-hausverwaltung.zip": "qualitaetsrunde-v445.36.0",
     "zitierweise-deutsches-recht.zip": "qualitaetsrunde-v445.36.0",
     "zwangsverwaltung-zvg.zip": "qualitaetsrunde-v445.36.0",
-    "zwangsvollstreckung.zip": "qualitaetsrunde-v445.36.0"
+    "zwangsvollstreckung.zip": "qualitaetsrunde-v445.36.0",
+    "anwaltschaft-generell.zip": "qualitaetsrunde-v445.36.1",
+    "corporate-contract-law.zip": "qualitaetsrunde-v445.36.1",
+    "wirtschaftsanwalt.zip": "qualitaetsrunde-v445.36.1"
   }
 }

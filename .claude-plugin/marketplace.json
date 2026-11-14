@@ -81,7 +81,7 @@
       "name": "anwaltschaft-generell",
       "source": "./anwaltschaft-generell",
       "description": "Anwaltschaft - Mandate im Alltag: zehn Skills fuer wirtschaftsrechtliche Dokumentarbeit vom belegten Aktenstand ueber Ansprueche, Vertraege, Arbeit und Datenschutz bis zum Schreiben, Vergleich oder Schriftsatz.",
-      "version": "445.35.3",
+      "version": "445.36.1",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -591,7 +591,7 @@
       "name": "corporate-contract-law",
       "source": "./corporate-contract-law",
       "description": "Corporate Contract Law - Wirtschaftsvertraege: zwanzig Skills fuer deutsche B2B-Vertragsgestaltung vom Geschaeftsauftrag ueber den vollstaendigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf.",
-      "version": "445.35.3",
+      "version": "445.36.1",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1180,7 +1180,7 @@
     {
       "name": "gesellschafterstreit",
       "description": "Gesellschafterstreit in GmbH und UG bearbeiten: Stimmverbote, Kapitalerhöhung, Geschäftsführer, Wettbewerb, Darlehen, Einziehung und Rechtsschutz mit belegt begründeten Anträgen und Vergleich.",
-      "version": "445.34.2",
+      "version": "445.36.1",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -3159,7 +3159,7 @@
       "name": "wirtschaftsanwalt",
       "source": "./wirtschaftsanwalt",
       "description": "Laufende Unternehmensberatung im Mittelstand: zehn ausfuehrende Skills verbinden Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditaetsfragen mit konkreten Geschaeftsentscheidungen und fertigen Dokumenten.",
-      "version": "445.35.3",
+      "version": "445.36.1",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "anwaltschaft-generell",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-11-15",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
@@ -10,8 +10,10 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
-      "checked_on": "2026-09-23",
-      "supports": "Einzelnorm gelesen: beiderseitiger Handelskauf, Untersuchung, offene und versteckte Mängel; rechtzeitige Absendung nach Absatz 4, Arglistgrenze nach Absatz 5."
+      "checked_on": "2026-11-14",
+      "supports": "§ 377 HGB; Einzelnorm vollständig gelesen; Abs. 1–5 Grenze: Nur beiderseitiger Handelskauf; rechtzeitige Absendung genügt; Arglistgrenze.",
+      "audit_source_id": "AW-HGB377",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html",
@@ -25,13 +27,17 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
-      "checked_on": "2026-09-23",
-      "supports": "Einzelnorm gelesen: besondere Formfiktion nur für klar erkennbare Erklärung im nach Paragraf 46c eingereichten und zugestellten oder mitgeteilten vorbereitenden Schriftsatz."
+      "checked_on": "2026-11-14",
+      "supports": "§ 46h ArbGG; Einzelnorm vollständig gelesen; Sätze 1 und 2 Grenze: Sonderfall vorbereitender elektronischer Schriftsatz plus Zustellung/Mitteilung; keine allgemeine beA-Formfreiheit.",
+      "audit_source_id": "AW-ArbGG46h",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
-      "checked_on": "2026-09-23",
-      "supports": "Einzelnorm gelesen: aktuelle allgemeine Wertgrenze 10000 EUR; Sonderzuweisungen und Übergangsrecht bleiben fallbezogen."
+      "checked_on": "2026-11-14",
+      "supports": "§ 23 GVG; Einzelnorm vollständig gelesen; Nr. 1 und Sonderzuweisungen Grenze: 10.000 EUR allgemeine Wertgrenze; keine Universalzuständigkeit und kein Ersatz der Ereignis-/Übergangsprüfung.",
+      "audit_source_id": "AW-GVG23",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
@@ -40,13 +46,17 @@
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Volltext gelesen, Randnummern 11 bis 21; konkrete Aussagegrenzen in allen betroffenen Texten."
+      "checked_on": "2026-11-14",
+      "supports": "BAG, Urteil vom 30.01.2025 – 2 AZR 68/24; genannte tragende Passagen im geöffneten amtlichen Volltext; Rn. 10–21 Grenze: Kein pauschaler Ausschluss des Zugangsbeweises durch Einwurf-Einschreiben; Rn. 18 lässt die weitergehende Nachweiskonstellation offen.",
+      "audit_source_id": "AW-BAG",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
     },
     {
       "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=496700&docid=269146&doclang=en&mode=lst&occ=first&pageIndex=0&part=1",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher englischer Volltext gelesen, Randnummern 36 bis 50 und Tenor; eigene deutsche Zusammenfassung, kein angebliches deutsches Wortlautzitat."
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urteil vom 12.01.2023 – C-154/21; genannte tragende Passagen im geöffneten amtlichen Volltext; Rn. 36–51 und Tenor Grenze: Englischer amtlicher Text. Eigene deutsche Zusammenfassung; kein deutsches Wortlautzitat und kein allgemeiner Geschäftsaktenanspruch.",
+      "audit_source_id": "AW-C154",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
     },
     {
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=75498",
@@ -72,35 +82,87 @@
       "url": "https://www.gesetze-im-internet.de/gmbhg/__35.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlicher Suchauszug sichtbar, direkte Einzel- und Gesamtabrufe mit Zeitüberschreitung; vor tragender Verwendung erneut prüfen."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=273286&doclang=de",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urteil vom 04.05.2023 – C-487/21; genannte tragende Passagen im geöffneten amtlichen Volltext; Rn. 20–45; zusätzlich Kontext Rn. 1–19, 46–54 und Tenor Grenze: Datenkopie und erforderlicher Dokumentkontext, Rechte Dritter; kein voraussetzungsloser Vollaktenanspruch.",
+      "audit_source_id": "AW-C487-voll",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 13.07.2016 – VIII ZR 49/15; Vollständige Entscheidung einschließlich Sachverhalt und Rückverweisung gelesen; Rn. 25–31 und 33–36; Gesamtkontext Rn. 1–41 Grenze: Damals geltende kaufrechtliche Vorschriften nicht als aktuelle Nummerierung übernehmen; sechs Wochen sind keine Universalfrist.",
+      "audit_source_id": "AW-BGH2016-voll",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__89-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 13.10.2026 – II ZR 89/25; Vollständige Entscheidung einschließlich Tatbestand und Tenor gelesen; Rn. 9–24, insbesondere 11 und 15–22 Grenze: Nur vertretungsberechtigter GbR-Gesellschafter bei vorliegenden weiteren Zustellungsvoraussetzungen; kein Automatismus für Beschäftigte oder jeden Gesellschafter.",
+      "audit_source_id": "AW-BGH2026",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "checked_on": "2026-11-14",
+      "supports": "§ 310 BGB; Einzelnorm vollständig gelesen; Abs. 1, 1a, 3 und 4 Grenze: B2B enthält Ausnahmen; § 308 Nr. 1a/1b nicht pauschal ausgeschlossen. Sondertatbestände am Mandat prüfen.",
+      "audit_source_id": "AW-BGB310",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130e.html",
+      "checked_on": "2026-11-14",
+      "supports": "§ 130e ZPO; Einzelnorm vollständig gelesen; Sätze 1 und 2 Grenze: Prozessuale Formfiktion von gewöhnlicher Korrespondenz getrennt.",
+      "audit_source_id": "AW-ZPO130e",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neu verfassten Schnellstart redaktionell geprüft: drei Eingangsmodi, konkrete Normgrenzen, zwei verifizierte Entscheidungen und fortgesetzte Dokumentproduktion. Keine Live-Mandatsausführung. Redaktionelle Anschlussprüfung 16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Nachprüfung vom 14.11.2026, Abschluss am 2026-11-15: Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht. Kein Live-Modelltest. Historischer Prüfstand mit ursprünglichem Hash separat erhalten.",
     "changes": [
-      "Kompakte eigenständige Bearbeitung ohne Pluginreferenzen mit einem Fachweg und gemeinsamem Aktenstand.",
-      "Paragraf 377 HGB, besondere Prozessformfiktion und aktuelle Zuständigkeitsgrenze ausdrücklich abgegrenzt.",
-      "16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt."
+      "Gesamten Mini von Auftrag bis Fortsetzung gelesen. Rollen, Forderung/Gegenrechte, Zugang/Versand, Fristen, vollständiges Endprodukt und gezielte Rückfragen sind konsistent; kein ungefragter Wechsel vom Gutachten zur Klage.",
+      "§ 377 HGB setzt beiderseitigen Handelskauf voraus, Abs. 4 verlangt rechtzeitige Absendung. § 310 Abs. 1 BGB nimmt § 308 Nr. 1a/1b nicht pauschal aus. Besondere Prozessformfiktion nach § 46h ArbGG ist korrekt begrenzt.",
+      "Art. 12 Abs. 3 DSGVO präzisiert: unverzüglich, grundsätzlich spätestens ein Monat. Frühere Formulierung erwähnte nur die Monatsgrenze und konnte als frei ausschöpfbare Bearbeitungszeit verstanden werden.",
+      "BAG-Zugangsanker und EuGH-Empfängeranker in tatsächlichen Originalpassagen bestätigt. BGH-Nacherfüllungsanker und EuGH-Datenkopieanker nach tatsächlich erfolgter Volltextlektüre aktualisiert.",
+      "Mini bleibt eigenständig und mit 7.481 UTF-8-Bytes unter 7.500. Kein neues TXT-Format und keine zusätzliche Skillregistrierung eingeführt."
     ],
-    "sha256": "5b4169d50e2d86db29e9dc49c9cbccca17743d6675563057010f5d0f07827097",
-    "reviewed_on": "2026-10-16",
+    "sha256": "b6ff129f1eca3d05a53be288a2fe0a7f1cbf25304eec4179092e3bd667a9dbca",
+    "reviewed_on": "2026-11-15",
     "method": "desk_review",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "full_file_read_in_followup": true,
+    "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
+    "historical_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/anwaltschaft-generell.json",
+      "field": "mini_review",
+      "sha256": "f748ab4107c2378cf84cecb911fd996d04f2ccb7300f68584e120825cadab31c"
+    }
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neu verfasste Werkstatt vollständig redaktionell geprüft und wiederholte Prozesshinweise gekürzt. Fachliche Detailwege und Quellenbegrenzungen bewahrt; keine Live-Ausführung der Übungsakten. Redaktionelle Anschlussprüfung 16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Nachprüfung vom 14.11.2026, Abschluss am 2026-11-15: Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht. Kein Live-Modelltest. Historischer Prüfstand mit ursprünglichem Hash separat erhalten.",
     "changes": [
-      "Vertragsfassung, AGB-Rechtsfolge, Mängelrechte, Zahlungsrechnung, Arbeit, Datenzugang, Vertretung, Vergleich und Prozessschrift bis zum konkreten Dokument ausgebaut.",
-      "Fortsetzung nach Teilzahlung, Zugangsnachweis, Verhandlungsantwort und Datenexport konkretisiert.",
-      "Quellenstatus unterscheidet gelesenen Volltext, Suchanker, Pressemitteilung und gesperrten Normabruf.",
-      "Gegenprüfung: Zeugen vom Hörensagen nicht pauschal ausschließen; Wahrnehmungsgrundlage und Beweiswürdigung unterscheiden.",
-      "16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt."
+      "Alle 405 ursprünglichen Zeilen vollständig gelesen, einschließlich der langen Fachwege und Visualisierungs-/Appletvorgaben; anschließend geänderte Absätze vollständig gegengelesen. Verknüpfte Zitierregeln berücksichtigt.",
+      "Anspruchsinhaberschaft, Abtretung/Vertragsübernahme, Entstehung/Erlöschen/Durchsetzbarkeit, Beweislast und § 138 ZPO getrennt. Hörensagen nicht pauschal als unzulässig behandelt; keine erfundene Wahrnehmung.",
+      "Zugang, Fristauslöser und Sicherungsannahme getrennt. BAG 2 AZR 68/24 umfasst nur Einlieferung plus Tracking ohne weiteren Nachweis. Neuer BGH II ZR 89/25 ergänzt einen belegten aktuellen förmlichen Zustellungsfall ohne Ausweitung auf private Erklärungen.",
+      "Nacherfüllung nicht automatisch Rücktritt; kein fixes Rügefenster und keine starre Sechswochenfrist. VIII ZR 49/15 trägt bestimmbaren Zeitraum bei ernsthaftem Abhilfeverlangen; damals geltende Kaufrechtsfassung ausdrücklich begrenzt.",
+      "AGB, § 310-Ausnahmen, Zahlungszuordnung, § 288 Abs. 5/Anrechnung und keine doppelte Nebenforderung; arbeitsrechtliche Form/Klagefrist, Datenschutzrollen, Vertretung und Vergleichsvollzug sinnvoll getrennt.",
+      "Art. 12 Unverzüglichkeit nachgeschärft; C-487/21 nun mit Rn. 28–45 und konkreter Kontext-/Drittrechtsprüfung. C-154/21 im amtlichen englischen Text bestätigt. Allgemeiner Geschäftsaktenzugriff wird nicht aus Betroffenenrecht abgeleitet.",
+      "10.000-EUR-Wertgrenze und §§ 46h ArbGG/130e ZPO aktuell bestätigt. Volltextabrufprobleme und fehlgeleiteter EUR-Lex-HTTP200 transparent, keine erfundene aktuelle Gesamtnormprüfung.",
+      "Werkstatt enthält weiter vollständige Ergebnisproduktion, ausgewählten Fachweg, konsistente Fortsetzung, Quellenstatus und konkrete Visualisierung nur bei vorhandener Fähigkeit; keine automatischen externen Handlungen."
     ],
-    "sha256": "89d0ff134bbcb41f0cab5d65f08dc9bf83c37ff4bdb36863b11208ed14c20cb6",
-    "reviewed_on": "2026-10-16",
+    "sha256": "3171256185f1da51fb7ae0ee2028b7b21c9100e011a2f19f74b7232b835a6a57",
+    "reviewed_on": "2026-11-15",
     "method": "desk_review",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "full_file_read_in_followup": true,
+    "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
+    "historical_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/anwaltschaft-generell.json",
+      "field": "workshop_review",
+      "sha256": "f748ab4107c2378cf84cecb911fd996d04f2ccb7300f68584e120825cadab31c"
+    }
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -546,12 +608,16 @@
     }
   },
   "file_review_status": {
-    "status": "needs_review",
-    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "status": "reviewed",
+    "reason": "Alle 2 zuvor offenen Dateien vollständig einzeln nachgeprüft; Altstand, Befund, Primärquellenstatus und Endbytes im gebundenen Abschlussbeleg. Keine Live-Modellausführung behauptet.",
     "files": [
       "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
       "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md"
-    ]
+    ],
+    "evidence": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/anwaltschaft-generell.json",
+      "sha256": "a444b1fab60936753ace989f853b033832aa4ba3a83a08a80317a68b91b844f8"
+    }
   },
   "visual_workflow_review": {
     "method": "desk_review",
@@ -564,5 +630,24 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "file_followup_review": {
+    "date": "2026-11-15",
+    "source_review_date": "2026-11-14",
+    "historical_profile": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/anwaltschaft-generell.json",
+      "sha256": "f748ab4107c2378cf84cecb911fd996d04f2ccb7300f68584e120825cadab31c",
+      "commit": "d4d621de34186d03e343fdb144176b9986f1f1fe"
+    },
+    "audit": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json",
+      "sha256": "f4f69b1872b83e0abb6c8bef469413f3ae8d3559c7b8730518ee9cf305cf72f7"
+    },
+    "scope": "2 vollständige Dateireviews. Weitere betroffene Dateien nur im individuell dokumentierten Lesebereich nachgezogen.",
+    "limits": [
+      "Dateireview umfasst die vollständig gelesenen benannten Dateien; kein pauschales Gütesiegel für sämtliche sonstigen Plugin-Dateien, alle Testakten oder alle Rechtsgebiete.",
+      "Desk-Review mit aktuellen amtlichen Abrufen und gezielter Norm-/Passagenprüfung, keine neue Live-Ausführung durch ein externes Modell.",
+      "Historische Profile, Prüfstände und Freigabehashes werden nicht rückdatiert oder überschrieben. Root führt neuen Dateistatus, Artefakthashes und Release-Routing nach Abschluss separat nach."
+    ]
   }
 }

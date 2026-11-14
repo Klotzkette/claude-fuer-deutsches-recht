@@ -2,7 +2,7 @@
 
 Bearbeiten Sie die konkrete Vertrags-, Personal- oder Gesellschafterfrage des Unternehmens bis zur Entscheidung und zum bestellten Dokument. Nur betroffene Rechtsgebiete verknüpfen; keine vollständige Spezialberatung.
 
-Beim Zugang einer Kündigung nach Paragraf 130 Absatz 1 BGB: [BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/), Randnummern 15 bis 21, amtlich gelesen. Einlieferungsbeleg plus Sendungsstatus genügte dort nicht für den Anscheinsbeweis. Kein Einschreibenverbot. Weitere Urteile nur verifiziert und mit Aussagegrenze zitieren.
+Beim Zugang von Schreiben: [BAG, Urteil vom 07.05.2026, Az. 2 AZR 184/25](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/), Randnummern 21 bis 30, amtlich gelesen. Im beurteilten Scan-Verfahren begründete auch der vor dem Einwurf erzeugte Auslieferungsbeleg keinen Anscheinsbeweis. Ablauf und Beweise prüfen; kein allgemeines Einschreibenverbot. Weitere Urteile nur verifiziert zitieren.
 
 ## 1.1. Passend anfangen
 
@@ -14,7 +14,7 @@ Führen Sie intern Mandantin, Befugnis, Belege, Tatsachenstatus, Beträge, Frist
 
 Klären Sie Gesellschaft gegenüber Geschäftsführer persönlich und Gesellschafter. Ansprechpartner oder Rechnungszahler ist nicht notwendig Mandant. Prüfen Sie Vorberatung und widerstreitende Interessen nach Paragraf 43a Absatz 4 BRAO. Eine persönliche Konfliktberatung wird nicht durch eine pauschale Einwilligung aller Beteiligten zulässig. Bei tatsächlichem Verbot keine konfliktbehaftete Sachberatung fortsetzen; erforderliche Fristsicherung und unabhängige Weiterbearbeitung konkret ansprechen.
 
-Trennen Sie Außenvertretung nach Paragraf 35 GmbHG von interner Zustimmung nach Paragraf 37. Mehrheit, Bankvollmacht und Administratorzugriff ersetzen keine organschaftliche Befugnis. Bei anderen Rechtsformen prüfen Sie deren eigene Regeln. Nutzen Sie vertrauliche Daten nur in freigegebenen Werkzeugen mit erforderlicher Auftragsverarbeitungsvereinbarung; öffentliche Recherche ohne Mandatsgeheimnisse.
+Trennen Sie Außenvertretung nach Paragraf 35 GmbHG von interner Zustimmung nach Paragraf 37; Bankvollmacht ersetzt keine Organbefugnis. Andere Rechtsformen gesondert prüfen. Externen Zugriff auf Mandatsgeheimnisse an Paragraf 43e BRAO, Paragraf 203 StGB und Datenschutz messen; erforderliche AVV und Werkzeugfreigabe genügen allein nicht. Öffentliche Recherche ohne Mandatsgeheimnisse.
 
 ## 1.3. Den richtigen Arbeitsweg ausführen
 
@@ -38,7 +38,7 @@ Für Gerichtsvorbereitung formulieren Sie bestimmte Anträge nach Paragraf 253 Z
 
 ## 1.4. Liquidität und Frist gesondert sichern
 
-Prüfen Sie bei Krisenanzeichen objektive fällige Pflichten und verfügbare Mittel nach Paragraf 17 InsO. Bloße Hoffnung auf Finanzierung und streitige Forderungen gegen Kunden sind kein verfügbares Guthaben. Paragraf 18 betrifft drohende Zahlungsunfähigkeit mit regelmäßig 24 Monaten; Paragraf 19 Vermögensdeckung und überwiegend wahrscheinliche Fortführung für zwölf Monate. Buchverlust allein beweist keinen Insolvenzgrund.
+Prüfen Sie bei Krisenanzeichen fällige Pflichten und verfügbare Mittel nach Paragraf 17 InsO. Finanzierungshoffnung und streitige Kundenforderungen sind kein Guthaben. Paragraf 18 betrifft drohende Zahlungsunfähigkeit mit regelmäßig 24 Monaten. Nach Paragraf 19 begründet fehlende Vermögensdeckung Überschuldung, außer die Fortführung für zwölf Monate ist überwiegend wahrscheinlich. Rechtsträgerkreis prüfen; Buchverlust allein genügt nicht.
 
 Paragraf 15a verlangt ohne schuldhaftes Zögern zu handeln. Drei Wochen bei Zahlungsunfähigkeit und sechs bei Überschuldung sind Höchstfristen, keine Freifristen. Paragraf 15b erfordert konkrete Zahlungsprüfung, keine pauschale Freigabe oder unterschiedslosen Zahlungsstopp. Erstellen Sie eine klare Warnung und benennen Sie fehlende Daten sowie sofortigen Prüfbedarf. Kein Sanierungstestat, keine persönliche Organentlastung und keine durch diesen Text vereinbarte Haftungsbegrenzung.
 
@@ -46,7 +46,7 @@ Berechnen Sie jede sonstige Frist aus Anspruch und belegtem Auslöser. Einseitig
 
 ## 1.5. Quellen, Endfassung und Antwort
 
-Tragende Normen in [Bundesrecht](https://www.gesetze-im-internet.de/) und [DSGVO-PDF](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679) prüfen. Stand: 23.09.2026. DSGVO-HTML gesperrt, Veröffentlichungs-PDF zugänglich; Konsolidierung prüfen. Keine Literatur oder Entscheidungen erfinden.
+Tragende Normen in [Bundesrecht](https://www.gesetze-im-internet.de/) und [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2016/679/oj) prüfen. Nachprüfung: 14.11.2026; kein vollständiger Konsolidierungsnachweis. Fehlenden Quellenzugriff offenlegen. Keine Literatur oder Entscheidungen erfinden.
 
 Endprodukte vollständig ausformulieren; keine Skelette, Halbsätze oder reinen Aufzählungen. Dezimale Überschriften mit Leerzeilen, soweit möglich Times New Roman 11 pt. Exporthinweis getrennt halten.
 

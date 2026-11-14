@@ -25,7 +25,7 @@ Bei Nachträgen prüfen Sie, ob der Sicherungsumfang wirksam mitwächst. Nach Pa
 
 ## 4. Quellenpflicht
 
-Prüfen Sie Paragrafen 765 bis 777 BGB, Paragraf 350 HGB und einschlägiges Gesellschaftsrecht. Zur AGB-Kumulation von Sicherheiten dient BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, als begrenzter Rechercheanker. Nutzen Sie bei Bedarf [Fachquellen](../../references/fachquellen.md) und [Zitierweise](../../references/zitierweise.md), sonst https://www.gesetze-im-internet.de/. Ein bloßer Suchtreffer bestätigt keine vollständigen Entscheidungsgründe.
+Prüfen Sie Paragrafen 765 bis 777 BGB, Paragraf 350 HGB und einschlägiges Gesellschaftsrecht. BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, Randnummern 15 bis 20, beanstandet die dortige formularmäßige Zehn-Prozent-Sicherheit, die nach Abnahme über längere Zeit auch Mängelansprüche erfasste. Er unterscheidet die Belastung vor und nach Abnahme; kein generelles Verbot jeder Zehn-Prozent-Erfüllungssicherheit und keine allein aus einem Prozentsatz folgende Freigabe. Prüfen Sie Sicherungsumfang, Übergang zwischen Phasen, Laufzeit und Kumulation gemeinsam. Nutzen Sie bei Bedarf [Fachquellen](../../references/fachquellen.md) und [Zitierweise](../../references/zitierweise.md), sonst https://www.gesetze-im-internet.de/. Ein bloßer Suchtreffer bestätigt keine vollständigen Entscheidungsgründe.
 
 ## 5. Ausgabeformat
 

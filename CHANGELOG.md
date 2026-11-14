@@ -1,3 +1,9 @@
+# Qualitätsrunde 445.36.1 – 15. November 2026
+
+Die 31 noch offenen Dateireviews der Profile Anwaltschaft allgemein, Corporate Contract Law, Gesellschafterstreit und Wirtschaftsanwalt sind vollständig nachgeprüft und mit individuellen Enddatei- und Quellenbelegen abgeschlossen. Frühere Profile bleiben unverändert archiviert. Präzisierungen betreffen insbesondere B2B-Klauseln, Abnahme und Sicherheiten, DSGVO, anwaltliche Verschwiegenheit, Insolvenzreife und Zustellungsnachweise.
+
+Der Releasebau verlangt vollständige, unveränderte Abschlussbelege für die vier richtigen Pluginprofile. Das Komponentenrelease liefert vier Plugin-ZIPs und fünfzehn Promptdateien samt Inventar und Prüfsummen. [Einzelbefunde und Grenzen](quality/source-audits/2026-11-14-nachpruefung/README.md), [Releaseumfang](docs/releases/qualitaetsrunde-v445.36.1.md).
+
 # Qualitätsrunde 445.36.0 – 14. November 2026
 
 Alle 315 Plugins behalten ihre Identität und bieten höchstens 20 auswählbare Skills. 224 bisher größere Plugins wurden in fachlich zusammenhängende Arbeitswege gegliedert. Die vollständigen Fachtexte bleiben als 21.883 zugeordnete Referenzmodule samt Vorlagen und Hilfsdateien erhalten. Insgesamt sind 3.175 Skills auswählbar. Kataloge, Downloads, Rechtsgebietsverzeichnisse und vorhandene Werkzeuge verwenden die tatsächlichen Arbeitswege.

@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Prüft erhaltene Kernakten, Nachträge und das Komponentenrelease 445.34.2.
 
-Ohne --dist werden Quellen und die abgelegten Gesamt-PDFs geprüft. Mit --dist
-werden zusätzlich sämtliche nativen Archivbytes und PDF-Inhalte geprüft.
+Ohne --dist werden die aktuellen, exakt gerouteten Pluginquellen und die
+abgelegten Gesamt-PDFs geprüft. --dist prüft weiterhin ausschließlich das
+historische Vollpaket 445.34.2 mit sämtlichen Archivbytes und PDF-Inhalten;
+spätere reine Pluginreleases haben ihren eigenen Paketvalidator.
 """
 from __future__ import annotations
 
@@ -32,6 +34,7 @@ import yaml
 from gesellschafterstreit_nachtrag_daten import CASES
 from gesellschafterstreit_vergleich_daten import CASE as SETTLEMENT_CASE
 from prompt_profiles import PROMPT_SUFFIXES, validate_files
+from release_routing import validate_plugin_version
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import working_dump_archive_pairs
@@ -477,12 +480,18 @@ class GesellschafterstreitUpdate(unittest.TestCase):
             self.assertEqual(md.read_bytes(), txt.read_bytes())
             if kind != "werkstatt":
                 self.assertLessEqual(md.stat().st_size, 7500)
-        for kind in (".claude-plugin", ".codex-plugin"):
-            self.assertEqual(json.loads((PLUGIN / kind / "plugin.json").read_text())["version"], VERSION)
         market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
-        self.assertEqual([entry["version"] for entry in market["plugins"] if entry["name"] == PLUGIN.name], [VERSION])
+        entries = [entry for entry in market["plugins"] if entry["name"] == PLUGIN.name]
+        self.assertEqual(len(entries), 1)
+        entry = entries[0]
+        validate_plugin_version(entry, market["version"], root=ROOT)
+        expected_version = VERSION if DIST is not None else entry["version"]
+        self.assertEqual(entry["version"], expected_version)
+        for kind in (".claude-plugin", ".codex-plugin"):
+            self.assertEqual(json.loads((PLUGIN / kind / "plugin.json").read_text())["version"], expected_version)
         routes = json.loads((ROOT / "scripts/scoped-release-assets.json").read_text())["assets"]
-        self.assertEqual(routes["gesellschafterstreit.zip"], f"gesellschafterstreit-v{VERSION}")
+        if DIST is not None:
+            self.assertEqual(routes["gesellschafterstreit.zip"], f"gesellschafterstreit-v{VERSION}")
         files = list(PLUGIN.rglob("*.md")) + [ROOT / "testakten" / case["slug"] / "README.md" for case in CASES]
         for path in files:
             for target in re.findall(r"\[[^\]]*\]\(([^)]+)\)", path.read_text(encoding="utf-8")):

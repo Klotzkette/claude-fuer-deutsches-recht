@@ -16,7 +16,7 @@ import yaml
 
 from quality_lab import load, marketplace, validate_profile
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
-from testakte_zip_common import working_dump_flat_pairs
+from testakte_zip_common import working_dump_archive_pairs, working_dump_flat_pairs, source_zip_includes_gesamt_pdf
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -82,6 +82,7 @@ class CompactPracticeTests(unittest.TestCase):
     def test_standalone_prompts_are_visible_and_protected(self):
         protected = set((ROOT / "scripts/handkuratierte-prompts.txt").read_text().splitlines())
         root_readme = (ROOT / "README.md").read_text()
+        asset_index = (ROOT / "ASSET_INDEX.md").read_text()
         for name in PACKAGES:
             self.assertIn(name, protected)
             readme = (ROOT / name / "README.md").read_text()
@@ -95,7 +96,10 @@ class CompactPracticeTests(unittest.TestCase):
                 self.assertLessEqual(len(raw), MAX_WORKSHOP_BYTES if kind == "werkstatt" else 7500)
                 self.assertLessEqual(len(raw.decode()), MAX_WORKSHOP_BYTES if kind == "werkstatt" else 7500)
                 self.assertIn("download.html?path=" + relative, readme)
-                self.assertIn("download.html?path=" + relative, root_readme)
+                download = "download.html?path=" + relative
+                self.assertTrue(download in root_readme or (
+                    "(./ASSET_INDEX.md)" in root_readme and download in asset_index
+                ), f"Startseite muss direkt oder über den Download-Index zu {relative} führen")
                 self.assertNotRegex(raw.decode(), r"\[[^\]]+\]\(\)")
 
     def test_previous_packages_and_prompts_remain(self):
@@ -121,17 +125,19 @@ class CompactPracticeTests(unittest.TestCase):
                 self.assertNotIn(".md", suffixes)
                 self.assertTrue((directory / "gesamt-pdf" / f"{slug}_gesamt.pdf").is_file())
 
-    def test_original_format_archives_are_flat_complete_and_without_answers(self):
+    def test_original_format_archives_preserve_intake_and_are_complete_without_answers(self):
         builder = script_module("build-testakten-release-zips")
         new_cases = [next(slug for slug in cases if slug.startswith(name + "-")) for name, (_, cases) in PACKAGES.items()]
         with tempfile.TemporaryDirectory(prefix="kompakte-akten-") as temporary:
             for slug in new_cases:
                 directory = ROOT / "testakten" / slug
                 archive, _ = builder.build_single(directory, Path(temporary))
-                expected = dict((name, path) for path, name in working_dump_flat_pairs(directory, include_gesamt_pdf=True))
+                expected = dict((name, path) for path, name in working_dump_archive_pairs(
+                    directory, include_gesamt_pdf=source_zip_includes_gesamt_pdf(directory)))
                 with ZipFile(archive) as bundle:
                     self.assertEqual(set(bundle.namelist()), set(expected) | {NOTICE_FILENAME})
-                    self.assertTrue(all("/" not in name for name in bundle.namelist()))
+                    self.assertTrue(any(name.startswith("Grundakte/") for name in bundle.namelist()))
+                    self.assertNotIn(f"{slug}_gesamt.pdf", bundle.namelist())
                     self.assertEqual(bundle.read(NOTICE_FILENAME), NOTICE_BYTES)
                     self.assertIsNone(bundle.testzip())
                     for name, path in expected.items():
