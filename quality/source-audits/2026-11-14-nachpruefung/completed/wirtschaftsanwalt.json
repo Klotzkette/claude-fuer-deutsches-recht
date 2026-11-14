@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "wirtschaftsanwalt",
-  "date": "2026-11-15",
+  "date": "2026-11-14",
   "method": "full_file_review",
   "base_commit": "d4d621de34186d03e343fdb144176b9986f1f1fe",
   "limits": "Keine Live-Modellausführung und keine Vollprüfung sämtlicher historischer Normfassungen oder des gesamten Unternehmensrechts. Amtlicher BGH-PDF-Text im Recherchewerkzeug und direkter HTTP-Originaldownload bleiben getrennt. DSGVO-Passagen gezielt im BfDI-Normtext geprüft; vollständiger EUR-Lex-Konsolidierungsabruf nicht hergestellt. Nicht jede in der historischen Arbeitsnormliste erwähnte Norm wurde am Nachprüfungstag erneut gelesen.",
@@ -329,5 +329,8 @@
     "quality/source-audits/2026-11-14-nachpruefung/wirtschaftsanwalt.json": "6ac02cd516025b981127a63d8a5f2294ece525edcd7c34173e3ad4ba83afbd86",
     "quality/source-audits/2026-11-14-nachpruefung/baseline.json": "3c9567b52965ea6abe0376b5e9d3f0a936165a702a668f8be0c9e672ccda341f",
     "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/wirtschaftsanwalt.json": "2dcbb7b2de33369e0295153dce503382730376c1187412f3b0c47a8648e46543"
-  }
+  },
+  "date_timezone": "UTC",
+  "integration_date_local": "2026-11-15",
+  "integration_timezone": "Europe/Berlin"
 }

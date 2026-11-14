@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "corporate-contract-law",
-  "date": "2026-11-15",
+  "date": "2026-11-14",
   "method": "full_file_review",
   "base_commit": "d4d621de34186d03e343fdb144176b9986f1f1fe",
   "limits": "Keine Live-Modellausführung oder empirische Vertragsfreigabe. Keine gesamte neue Werkstatt-Vollprüfung; dort nur dokumentierte Absatz-/Quellenkonsistenzprüfung. Keine neue Prüfung aller EU-Normen oder aller internationalen Vorbehalte. Keine rückwirkende Änderung der historischen Prüfungen oder Hashes. Kein Nachweis, dass seit den Ankern keine neuere Rechtsprechung existiert.",
@@ -689,5 +689,8 @@
     "quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json": "929a21a3181afee42111a98ed3f417dac242a8cfa92a84e74afeeceb0866b50d",
     "quality/source-audits/2026-11-14-nachpruefung/baseline.json": "3c9567b52965ea6abe0376b5e9d3f0a936165a702a668f8be0c9e672ccda341f",
     "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/corporate-contract-law.json": "fe956091ce977ddbdcc8d01fea0d6f77e670a116179e66648fad981bb5b19d45"
-  }
+  },
+  "date_timezone": "UTC",
+  "integration_date_local": "2026-11-15",
+  "integration_timezone": "Europe/Berlin"
 }

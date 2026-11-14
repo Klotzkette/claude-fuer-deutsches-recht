@@ -1,6 +1,6 @@
 # 1. Nachprüfung der vier offenen Profile
 
-Dieser Bericht dokumentiert die 31 Dateireviews, die nach der Qualitätsrunde 445.36.0 noch offen waren. Fachliche Lektüre und Quellenabrufe: 14. November 2026; Integration und Abschluss: 15. November 2026. Ausgangspunkt ist Commit `d4d621de34186d03e343fdb144176b9986f1f1fe`.
+Dieser Bericht dokumentiert die 31 Dateireviews, die nach der Qualitätsrunde 445.36.0 noch offen waren. Fachliche Lektüre und Quellenabrufe: 14. November 2026; Integration und Abschluss: 15. November 2026. Ausgangspunkt ist Commit `d4d621de34186d03e343fdb144176b9986f1f1fe`. Die maschinellen Prüftage verwenden UTC: Der Abschluss am 15. November in Europe/Berlin liegt noch am 14. November UTC. Beide Angaben stehen ausdrücklich im Abschlussbeleg; die Zukunftsdatumsprüfung bleibt unverändert.
 
 ## 1.1. Umfang und Ergebnisse
 
