@@ -5,11 +5,12 @@ description: "Für Fachanwalt für Insolvenz- und Sanierungsrecht — Orientieru
 
 # Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung
 
-## 1. Berufsrechtlicher Rahmen
+## FAO-Voraussetzungen (§ 14 FAO)
 
-Der Skill unterstützt die fachliche Mandatsarbeit; seine Benutzung ersetzt weder Qualifikation noch Verleihung einer Fachanwaltsbezeichnung. Für einen gesonderten Qualifikationsauftrag die [FAO in der Fassung vom 01.10.2026](https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/29_-_FAO_Stand_01.10.2026.pdf), insbesondere §§ 4, 4a, 5 Absatz 1 Buchstabe g und 14, lesen: Regelmäßig 120 Lehrgangsstunden zuzüglich 60 Stunden betriebswirtschaftlicher Grundlagen; mindestens drei Leistungskontrollen mit insgesamt mindestens 15 Stunden. Praktische Erfahrungen beziehen sich auf die letzten fünf Jahre: mindestens fünf eröffnete Verfahren als Insolvenzverwaltung oder Verfahrenskoordination, davon zwei mit mehr als fünf Beschäftigten bei Eröffnung, sowie 60 Fälle aus mindestens sieben der genannten Gebiete. Ersatzverfahren und zusätzliche Fälle nach § 5 Absatz 1 Buchstabe g Nummern 3 und 4 gesondert prüfen; keine pauschale 40/20-Fallregel verwenden.
+- Lehrgang 120 Stunden + drei Klausuren.
+- 60 Fälle in den letzten drei Jahren, davon mindestens 40 Fälle aus dem Insolvenzrecht und mindestens 20 rechtsförmliche Verfahren oder Aufgaben als Insolvenzverwalter, Sachwalter oder Sanierungsgeschäftsführer.
 
-## 2. Wichtige Normen
+## Wichtige Normen
 
 | Bereich | Norm |
 |---|---|
@@ -20,9 +21,9 @@ Der Skill unterstützt die fachliche Mandatsarbeit; seine Benutzung ersetzt wede
 | Europäisch | EuInsVO (VO 2015/848) |
 | Arbeit | §§ 113, 125 ff. InsO; § 613a BGB |
 | Insolvenzgeld | §§ 165 ff. SGB III |
-| Gerichtsweg | Insolvenzgericht für das Insolvenzverfahren nach § 2 InsO; eine Anfechtungsklage benötigt eine eigenständige Prüfung der sachlichen, örtlichen und gegebenenfalls internationalen Zuständigkeit. Das Insolvenzgericht ist nicht automatisch das Prozessgericht. |
+| Insolvenzanfechtung Gerichte | spezialisierte Senate beim AG / LG / OLG |
 
-## 3. Typische Mandate
+## Typische Mandate
 
 - Antragspflicht-Beratung Geschäftsführung (§ 15a InsO) und Haftungsschutz.
 - Stellung Eigenantrag (§ 13 InsO) und Gläubigerantrag (§ 14 InsO).
@@ -33,54 +34,52 @@ Der Skill unterstützt die fachliche Mandatsarbeit; seine Benutzung ersetzt wede
 - Verbraucherinsolvenz und Restschuldbefreiung (§§ 304 ff., 286 ff. InsO).
 - Fortbestehens- und Liquiditätsprognose.
 
-## 4. Eröffnungsgründe (kurz)
+## Eröffnungsgründe (kurz)
 
-- **Zahlungsunfähigkeit:** [§ 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html); Unfähigkeit, fällige Zahlungspflichten zu erfüllen, und die gesetzliche Vermutung bei Zahlungseinstellung prüfen. Eine einzelne Lückenquote ersetzt weder die zeitbezogene Statusrechnung noch die Prüfung von Zahlungseinstellung und Gegenbelegen. Für die vollständige Berechnung den eigenständigen Zahlungsunfähigkeits- und Überschuldungsprüfer mit vorhandenen Belegen nutzen; keine dreitägige oder dreiwöchige freie Wartezeit ableiten.
-- **Drohende Zahlungsunfähigkeit:** [§ 18 InsO](https://www.gesetze-im-internet.de/inso/__18.html); Eröffnungsgrund bei Schuldnerantrag. In aller Regel beträgt der Prognosezeitraum 24 Monate; eine Abweichung braucht eine fallbezogene Begründung.
-- **Überschuldung:** [§ 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html); persönlichen Anwendungsbereich, überwiegend wahrscheinliche Fortführung in den nächsten zwölf Monaten und erforderlichenfalls insolvenzrechtliche Vermögensdeckung prüfen. Eine negative Handelsbilanz beantwortet diese Prüfung nicht. Für historische Stichtage die damals geltende Fassung verwenden.
+- **Zahlungsunfähigkeit:** § 17 InsO; in der Regel angenommen bei Zahlungseinstellung; nach BGH-Schwelle ca. 10 % Liquiditätslücke länger als 3 Wochen. Konkrete Aktenzeichen über dejure.org / openjur.de live verifizieren.
+- **Drohende Zahlungsunfähigkeit:** § 18 InsO; nur Schuldner kann darauf stützen. Prognosezeitraum 24 Monate.
+- **Überschuldung:** § 19 InsO — modifizierter zweistufiger Überschuldungsbegriff mit positiver Fortbestehensprognose. Prognosezeitraum **seit 01.01.2024 wieder regulär 12 Monate** (SanInsKG-Verkürzung auf 4 Monate endete am 31.12.2023; eine zusätzliche temporäre Anpassung ist nicht in Kraft).
 
-## 5. Fristen (Auswahl)
+## Fristen (Auswahl)
 
-- **Antragspflicht:** [§ 15a Absatz 1 InsO](https://www.gesetze-im-internet.de/inso/__15a.html) verlangt den Antrag ohne schuldhaftes Zögern. Drei Wochen nach Eintritt der Zahlungsunfähigkeit beziehungsweise sechs Wochen nach Eintritt der Überschuldung sind Höchstfristen; persönlichen Anwendungsbereich und Voraussetzungen ihrer Ausschöpfung prüfen.
-- **Insolvenzanfechtung:** Den Rückschauzeitraum des konkreten Tatbestands und dessen Berechnung nach [§ 139 InsO](https://www.gesetze-im-internet.de/inso/__139.html) prüfen. Er ist von der Anspruchsverjährung nach [§ 146 InsO](https://www.gesetze-im-internet.de/inso/__146.html) zu unterscheiden; es gibt keine einheitliche Frist „drei bis zehn Jahre“.
-- **Forderungsanmeldung:** Maßgeblich ist zunächst die im Eröffnungsbeschluss gesetzte Frist nach [§ 28 Absatz 1 InsO](https://www.gesetze-im-internet.de/inso/__28.html). Nachträgliche Anmeldungen nach [§ 177 InsO](https://www.gesetze-im-internet.de/inso/__177.html) einschließlich besonderer Prüfung und Kostenfolgen gesondert behandeln; den Schlusstermin nicht als allgemeine Anmeldefrist ausgeben.
-- **Sofortige Beschwerde:** Berechtigung und angegriffene Entscheidung nach [§ 34 InsO](https://www.gesetze-im-internet.de/inso/__34.html), Fristbeginn nach [§ 6 InsO](https://www.gesetze-im-internet.de/inso/__6.html) und ergänzend die ZPO prüfen. Gegen den Eröffnungsbeschluss keine „Berufung“ entwerfen.
+- **Antragspflicht** § 15a Abs. 1 S. 1 InsO — bei Zahlungsunfähigkeit ohne schuldhaftes Zögern, spätestens drei Wochen; bei Überschuldung sechs Wochen.
+- **Insolvenzanfechtung** §§ 129 ff. InsO — Anfechtungsfristen drei bis zehn Jahre rückwärts ab Antragstellung.
+- **Forderungsanmeldung** §§ 28, 174 InsO — bis zum Schlusstermin; verspätete Anmeldung möglich, ggf. Kostenfolge.
+- **Berufung gegen Eröffnungsbeschluss** § 34 InsO — sofortige Beschwerde § 6 InsO, ggf. zwei Wochen.
 
-## 6. Hauptgerichte
+## Hauptgerichte
 
 - Insolvenzgericht beim Amtsgericht (§ 2 InsO; örtliche Zuständigkeit § 3 InsO).
 - Beschwerdegericht: Landgericht.
 - BGH IX. Zivilsenat — Insolvenz, Insolvenzanfechtung.
 - EuGH bei EuInsVO-Fragen.
 
-## 7. Quellenregel
+## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## 8. Berufsverband
+## Berufsverband
 
 - Arbeitsgemeinschaft Insolvenzrecht und Sanierung im DAV.
 - VID — Verband Insolvenzverwalter und Sachwalter Deutschlands.
 
-## 9. Schnittstellen
+## Schnittstellen
 
 - **`insolvenzrecht`** für operative Mandatsführung.
 - **`steuerrecht-anwalt-und-berater`** für Steuerforderungen in der Insolvenz und § 75 AO.
 - **`fachanwalt-arbeitsrecht`** bei §§ 113, 125 ff. InsO und Insolvenzgeld.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Geschäftsführerhaftung § 15b InsO (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021).
 
-## 10. Triage — Erste Einordnung des Mandats
+## Triage — Erste Einordnung des Mandats
 
 Bevor losgelegt wird, klaere:
 
 1. **Welche Partei?** Schuldner (Eigenantrag), Glaeubigervertreter (Fremdantrag), Insolvenzverwalter, Sachwalter oder Anfechtungsgegner?
 2. **Eröffnungsgrund vorhanden?** Zahlungsunfaehigkeit (§ 17), drohende Zahlungsunfaehigkeit (§ 18) oder Ueberschuldung (§ 19 InsO)?
-3. **Fristen?** Antragspflicht ohne schuldhaftes Zögern; drei beziehungsweise sechs Wochen sind nur Höchstgrenzen. Zahlungspflichten nach § 15b InsO gesondert prüfen.
+3. **Fristen?** Antragspflicht § 15a Abs. 1 InsO: 3 Wochen bei Zahlungsunfaehigkeit, 6 Wochen bei Ueberschuldung — Haftungsrisiko § 15b InsO!
 4. **Sanierungs-Pfad?** StaRUG (vor Insolvenz), Schutzschirm § 270d InsO, Eigenverwaltung §§ 270 ff. InsO, Insolvenzplan §§ 217 ff. InsO oder Regelverfahren?
 5. **Handlungsbedarf?** Sofortsicherung § 21 InsO, Insolvenzgeld § 165 SGB III, Betriebsfortfuehrung?
 
-## 11. Vorhandene Rechtsprechungsanker für die fallbezogene Recherche
-
-Diese älteren Rechercheanker sind keine Behauptung einer erneuten Volltextprüfung. Vor einer tragenden Verwendung die Entscheidung im amtlichen Volltext und ihre konkrete Aussagegrenze prüfen; Normkorrekturen in diesem Orientierungstext ersetzen diese Prüfung nicht.
+## Aktuelle Leitentscheidungen des BGH IX. Zivilsenats (Stand Mai 2026)
 
 - **BGH IX ZR 122/23 vom 05.12.2024** — Konkretisierung der *Unlauterkeit* iSd § 142 Abs. 1 Hs. 2 InsO bei der Vorsatzanfechtung im Bargeschäft.
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
@@ -98,18 +97,18 @@ Diese älteren Rechercheanker sind keine Behauptung einer erneuten Volltextprüf
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
   <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 
-## 12. Quellenregel
+## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## 13. Workflow — Ersteinschätzung in 5 Schritten
+## Workflow — Ersteinschätzung in 5 Schritten
 
 1. **Sachverhalt aufnehmen:** Mandantenrolle (Schuldner, Gläubiger, Verwalter, Anfechtungsgegner), Eröffnungsgrund prüfen, Fristen sichern. Bei Aktenzeichen-Bezug: konkrete BGH/BVerfG-Entscheidung über dejure.org/openjur.de mit Datum verifizieren.
-2. **Pfad wählen:** Eröffnungsgrund und zulässigen Verfahrensweg getrennt prüfen. Eigenverwaltung ist bei eingetretener Zahlungsunfähigkeit nicht pauschal ausgeschlossen. Der Schutzschirm nach [§ 270d Absatz 1 InsO](https://www.gesetze-im-internet.de/inso/__270d.html) setzt dagegen bei Antragstellung drohende Zahlungsunfähigkeit oder Überschuldung, aber keine Zahlungsunfähigkeit, und die gesetzlich geforderte Bescheinigung voraus. Einen StaRUG-Pfad nur nach eigenständiger Prüfung seiner Voraussetzungen wählen.
+2. **Pfad waehlen:** Entscheidungsbaum: [ZU vorhanden?] → Ja: Eigenantrag + Eigenverwaltung/Schutzschirm moeglich → Nein: StaRUG wenn drohende ZU.
 3. **Antragspflicht pruefen:** Geschaeftsfuehrung/Vorstand beraten, Haftungsrisiko § 15b InsO dokumentieren, ggf. Antrag unmittelbar vorbereiten.
-4. **Sofortmaßnahmen:** Beim Insolvenzgeld den Entgeltzeitraum nach [§ 165 SGB III](https://www.gesetze-im-internet.de/sgb_3/__165.html) vom Antragszeitraum nach [§ 324 Absatz 3 SGB III](https://www.gesetze-im-internet.de/sgb_3/__324.html) unterscheiden: grundsätzlich Arbeitsentgelt der vorausgegangenen drei Monate, grundsätzlich Antrag binnen zwei Monaten nach dem Insolvenzereignis. Dies ist kein „Vorlaufprinzip“. Sicherungsbedarf und Fortführungsfinanzierung prüfen; Anträge und Außenhandlungen nur im konkreten Auftrag vorbereiten beziehungsweise mit erforderlicher Freigabe ausführen.
+4. **Sofortmassnahmen:** Insolvenzgeld § 165 SGB III sichern (3-Monats-Vorlaufprinzip); Sicherungsantrag § 21 InsO stellen falls Vermoegen gefaehrdet; Betriebsfortfuehrung finanzieren.
 5. **Sanierungskonzept:** IDW S 6 / IDW S 11 beauftragen; Glaeubigerstruktur kartieren; Plan-Optionen StaRUG vs. InsO-Plan durchrechnen.
 
-## 14. Output-Template Erstgutachten-Memo (Insolvenzrechtliche Ersteinschaetzung)
+## Output-Template Erstgutachten-Memo (Insolvenzrechtliche Ersteinschaetzung)
 
 **Adressat:** Mandant (Geschaeftsfuehrung) — Tonfall: verstaendlich-erklaerend mit klaren Handlungsempfehlungen
 
@@ -119,39 +118,27 @@ Mandant: [NAME MANDANT]
 Datum: [DATUM]
 Erstellende Kanzlei: [KANZLEI]
 
-1. SACHVERHALT (Kurzdarstellung)
-
+I. SACHVERHALT (Kurzdarstellung)
 [2-3 Saetze: Gesellschaft, Branche, Krisenlage]
 
-2. ERÖFFNUNGSGRUNDE (§§ 17-19 InsO)
-
+II. ERÖFFNUNGSGRUNDE (§§ 17-19 InsO)
 Zahlungsunfaehigkeit § 17 InsO: [JA/NEIN] — Begruendung: [...]
 Ueberschuldung § 19 InsO: [JA/NEIN] — Begruendung: [...]
 Drohende ZU § 18 InsO: [JA/NEIN]
 
-3. ANTRAGSPFLICHT
+III. ANTRAGSPFLICHT
+Frist: [DATUM] (3 Wochen ab ZU / 6 Wochen ab Ueberschuldung)
+Haftungsrisiko GF: § 15b InsO — Zahlungen nach Insolvenzreife rueckforderbar
 
-Unverzüglicher Handlungsbedarf: [BEGRÜNDUNG UND VERANTWORTLICHE PERSON]
-Äußerste Frist: [BELEGTER EINTRITT + MASSGEBLICHE HÖCHSTFRIST]; keine freie Wartezeit
-Zahlungsprüfung: [KONKRETE ZAHLUNG UND VORAUSSETZUNGEN DES § 15b InsO]
-
-4. EMPFOHLENER PFAD
-
-[ ] Eigenantrag Regelverfahren   [ ] Schutzschirm § 270d InsO nur bei erfüllten Voraussetzungen
+IV. EMPFOHLENER PFAD
+[ ] Eigenantrag Regelverfahren   [ ] Schutzschirm § 270d InsO
 [ ] StaRUG-Plan                  [ ] Eigenverwaltung §§ 270 ff.
 
-5. SOFORT-MASSNAHMEN (bis [DATUM])
+V. SOFORT-MASSNAHMEN (bis [DATUM])
+1. [...]
+2. [...]
 
-5.1. [Erste Maßnahme]
-
-[Vollständig formulierte Maßnahme mit Verantwortlichkeit und Frist.]
-
-5.2. [Zweite Maßnahme]
-
-[Vollständig formulierte Maßnahme mit Verantwortlichkeit und Frist.]
-
-6. KOSTEN / HONORARRAHMEN
-
+VI. KOSTEN / HONORARRAHMEN
 [...]
 ```
 

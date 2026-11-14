@@ -1,10 +1,6 @@
 # Insolvenzverwaltung - IV-Cockpit
 
-<!-- BEGIN insolvenz-ordnung -->
-Für die Arbeit als Insolvenzverwalter, Sachwalter oder vorläufiger Verwalter bleibt diese Einzelausgabe verwendbar. Ihre Fachmodule gehören zugleich zum gemeinsamen [Hauptplugin Insolvenzrecht](../insolvenzrecht/README.md), das Verwaltung, anwaltliche Bearbeitung, Sachbearbeitung und Berichte verbindet. Für den gemeinsamen Arbeitsablauf genügt das Hauptplugin.
-
-[Zum Oberordner Insolvenzrecht mit den vier Haupteinstiegen](../insolvenzrecht-plugins/README.md).
-<!-- END insolvenz-ordnung -->
+[Oberordner Insolvenzrecht – alle eigenständigen Plugins nach Aufgabe](../insolvenzrecht-plugins/README.md)
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?

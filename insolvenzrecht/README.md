@@ -1,15 +1,11 @@
 # Insolvenzrecht-Plugin
 
-<!-- BEGIN insolvenz-ordnung -->
-Für Kanzlei, Insolvenzverwaltung und Sachbearbeitung führt dieses gemeinsame Hauptplugin von der Akte zum Arbeitsprodukt. Es bündelt die allgemeine insolvenzrechtliche Bearbeitung mit den Fachmodulen für anwaltliche Mandatsführung, Verwaltung, Sachbearbeitung und Berichte.
-
-Der [Oberordner Insolvenzrecht](../insolvenzrecht-plugins/README.md) führt außerdem zu den drei eigenständigen Spezialwerkzeugen: [Forderungsanmelder](../insolvenzforderungsanmeldungspruefung/README.md), [Zahlungsunfähigkeits- und Überschuldungsprüfer](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) und [Insolvenzplan- und StaRUG-Planwerkstatt](../insolvenzplan-starug-planwerkstatt/README.md).
-<!-- END insolvenz-ordnung -->
+[Oberordner Insolvenzrecht – alle eigenständigen Plugins nach Aufgabe](../insolvenzrecht-plugins/README.md)
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Gemeinsamer Arbeitsbereich für Insolvenzberatung, Verfahrensführung, Verwaltung, Sachbearbeitung und Berichte mit lokalen Fachmodulen und Vorlagen.
+Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
 
 Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
@@ -17,7 +13,7 @@ Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`insolvenzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzrecht-v445.35.4/insolvenzrecht.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`insolvenzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/insolvenzrecht.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-schnellstart.md) |
@@ -51,7 +47,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`insolvenzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzrecht-v445.35.4/insolvenzrecht.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`insolvenzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`insolvenzrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`insolvenzrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [28 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
