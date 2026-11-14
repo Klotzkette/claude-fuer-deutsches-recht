@@ -8,7 +8,7 @@ Thematische Einstiegsknoten für Rechtsgebiete, in denen mehrere Einzelplugins z
 | --- | --- |
 | [Fachanwaltschaften](../_FACHANWALTSCHAFTS-PLUGINS/README.md) | Fachbezogene Mandatsführung mit Überblick über die jeweiligen Spezialskills. |
 | [Gerichte und Staatsanwaltschaft](../gerichtsplugins/README.md) | Rollenbezogene Vorbereitung von Verfahren, Verfügungen und Entscheidungen. |
-| [`insolvenzrecht`](./insolvenzrecht/) | Insolvenz, Sanierung, StaRUG, Fortbestehensprognose, Liquiditätsplanung, Forderungsanmeldung, Insolvenzverwaltung, Verbraucherinsolvenz und Cross-Border-Bankruptcy. |
+| [Insolvenzrecht](./insolvenzrecht/) | Vier Haupteinstiege: gemeinsames Insolvenzrecht-Plugin für Mandatsbearbeitung, Verwaltung, Sachbearbeitung und Berichte; separat Forderungsanmelder, Zahlungsunfähigkeits- und Überschuldungsprüfer sowie Insolvenzplan- und StaRUG-Planwerkstatt. |
 
 Jeder Plugin-Link führt zu dessen eigener Anleitung mit Skill-Verzeichnis, Werkstatt, Schnellstart und zugeordneten Akten. Die [fünf vollständigen Register](../README.md#alle-vollständigen-listen-von-a-bis-z) enthalten auch die Plugins außerhalb dieser Gruppen.
 

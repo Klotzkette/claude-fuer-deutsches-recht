@@ -1,5 +1,11 @@
 # Insolvenzforderungsanmeldungsprüfung
 
+<!-- BEGIN insolvenz-ordnung -->
+Der **Forderungsanmelder** bleibt ein eigenständiges Spezialplugin: Er unterstützt die Forderungsanmeldung aus Gläubigersicht und die Prüfung aus Verwaltersicht. Das technische Paket heißt weiterhin `insolvenzforderungsanmeldungspruefung`.
+
+[Zum Oberordner Insolvenzrecht](../insolvenzrecht-plugins/README.md) · [Gemeinsames Hauptplugin für die allgemeine Insolvenzarbeit](../insolvenzrecht/README.md). Der [Insolvenzforderungen-Checker](../insolvenzforderungen-checker/README.md) ergänzt die Auswertung eingehender Forderungsunterlagen als separates Plugin.
+<!-- END insolvenz-ordnung -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

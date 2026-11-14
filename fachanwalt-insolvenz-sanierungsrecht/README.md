@@ -1,5 +1,11 @@
 # Fachanwalt Insolvenz- und Sanierungsrecht
 
+<!-- BEGIN insolvenz-ordnung -->
+Für anwaltliche Insolvenz- und Sanierungsmandate bleibt diese Einzelausgabe verwendbar. Ihre Fachmodule gehören zugleich zum gemeinsamen [Hauptplugin Insolvenzrecht](../insolvenzrecht/README.md), das die anwaltliche Bearbeitung mit Verwaltung, Sachbearbeitung und Berichten verbindet. Für den gemeinsamen Arbeitsablauf genügt das Hauptplugin.
+
+[Zum Oberordner Insolvenzrecht mit den vier Haupteinstiegen](../insolvenzrecht-plugins/README.md).
+<!-- END insolvenz-ordnung -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

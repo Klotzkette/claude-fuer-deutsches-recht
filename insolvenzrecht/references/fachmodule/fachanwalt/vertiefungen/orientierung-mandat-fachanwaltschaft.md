@@ -1,0 +1,165 @@
+# Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach Paragraf 14 FAO
+
+> Ergänzende Fachreferenz des Hauptplugins. Den bereits geklärten Auftrag, die Rolle, Aktenfundstellen und Fristen übernehmen. Keinen zweiten Intake starten und keine zusätzliche Installation voraussetzen. Die Auftragssteuerung erfolgt ausschließlich über den gemeinsamen Hauptworkflow; hier bleiben nur dessen fachliche Kontext- und Übergaberegeln nachschlagbar. Weitere Referenzen nur für eine konkrete offene Fachfrage laden.
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnungsgründe § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Prüfraster Eroeffnungsgründe Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenkarte verifizierbare Quellen und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan.
+
+### Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung
+
+## Fachlicher Kern — Insolvenz- und Sanierungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
+- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## FAO-Voraussetzungen nach den Paragrafen 4, 4a, 5 und 14 FAO
+
+- Theoretische Kenntnisse: Fachlehrgang mit mindestens 120 Zeitstunden; für die betriebswirtschaftlichen Grundlagen im Insolvenzrecht kommen 60 Zeitstunden hinzu. Zeiten für Leistungskontrollen werden nicht eingerechnet.
+- Leistungskontrollen: mindestens drei bestandene schriftliche Aufsichtsarbeiten in Präsenzform aus verschiedenen Lehrgangsbereichen, jeweils eine bis fünf Zeitstunden und insgesamt mindestens 15 Zeitstunden.
+- Praktische Erfahrung: innerhalb der letzten fünf Jahre vor Antragstellung persönlich und weisungsfrei bearbeitete Fälle.
+- Verfahrenspraxis: mindestens fünf eröffnete Verfahren aus dem ersten bis sechsten Teil der InsO als Insolvenzverwalter oder als Verfahrenskoordinator nach Paragraf 269e InsO; in zwei Verfahren muss der Schuldner bei Eröffnung mehr als fünf Arbeitnehmer beschäftigen.
+- Weitere Fallpraxis: 60 Fälle aus mindestens sieben der in Paragraf 14 Nummer 1 und 2 FAO bestimmten Gebiete. Ersetzungen der fünf Verfahren richten sich genau nach Paragraf 5 Absatz 1 Buchstabe g Nummer 3 FAO; für jedes ersetzte Verfahren sind zusätzlich acht Fälle nach Nummer 4 nachzuweisen.
+- Maßgeblich ist die [FAO in der seit 1. Dezember 2025 geltenden Fassung](https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/028-FAO_Stand_01.12.2025.pdf).
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Insolvenzordnung | InsO — §§ 1 ff. allgemein; §§ 14 ff. Antrag; §§ 17–19 Eröffnungsgründe; §§ 21 ff. einstweilige Sicherungen; §§ 80 ff. Insolvenzverwaltung; §§ 129–147 Anfechtung; §§ 217 ff. Insolvenzplan; §§ 270–285 Eigenverwaltung; §§ 286 ff. Restschuldbefreiung |
+| Sanierung außerhalb InsO | StaRUG — Unternehmensstabilisierungs- und -restrukturierungsgesetz |
+| Antragspflicht | § 15a InsO (Geschäftsführer/Vorstand juristischer Personen) |
+| Strafrecht | §§ 283 ff. StGB (Bankrott, Gläubigerbegünstigung) |
+| Europäisch | EuInsVO (VO 2015/848) |
+| Arbeit | §§ 113, 125 ff. InsO; § 613a BGB |
+| Insolvenzgeld | §§ 165 ff. SGB III |
+| Insolvenzanfechtung Gerichte | spezialisierte Senate beim AG / LG / OLG |
+
+## Typische Mandate
+
+- Antragspflicht-Beratung Geschäftsführung (§ 15a InsO) und Haftungsschutz.
+- Stellung Eigenantrag (§ 13 InsO) und Gläubigerantrag (§ 14 InsO).
+- Eigenverwaltung und Schutzschirmverfahren (§§ 270, 270d InsO).
+- Restrukturierungsplan nach StaRUG.
+- Forderungsanmeldung (§ 174 InsO), Bestreiten (§ 178 InsO), Tabellenklage (§ 180 InsO).
+- Insolvenzanfechtung als Anwalt der Insolvenzverwaltung oder Anfechtungsgegner.
+- Verbraucherinsolvenz und Restschuldbefreiung (§§ 304 ff., 286 ff. InsO).
+- Fortbestehens- und Liquiditätsprognose.
+
+## Eröffnungsgründe (kurz)
+
+- **Zahlungsunfähigkeit:** § 17 InsO; in der Regel angenommen bei Zahlungseinstellung; nach BGH-Schwelle ca. 10 % Liquiditätslücke länger als 3 Wochen. Konkrete Aktenzeichen über dejure.org / openjur.de live verifizieren.
+- **Drohende Zahlungsunfähigkeit:** § 18 InsO; nur Schuldner kann darauf stützen. Prognosezeitraum 24 Monate.
+- **Überschuldung:** § 19 InsO — modifizierter zweistufiger Überschuldungsbegriff mit positiver Fortbestehensprognose. Prognosezeitraum **seit 01.01.2024 wieder regulär 12 Monate** (SanInsKG-Verkürzung auf 4 Monate endete am 31.12.2023; eine zusätzliche temporäre Anpassung ist nicht in Kraft).
+
+## Fristen (Auswahl)
+
+- **Antragspflicht** § 15a Abs. 1 S. 1 InsO — bei Zahlungsunfähigkeit ohne schuldhaftes Zögern, spätestens drei Wochen; bei Überschuldung sechs Wochen.
+- **Insolvenzanfechtung** §§ 129 ff. InsO — Anfechtungsfristen drei bis zehn Jahre rückwärts ab Antragstellung.
+- **Forderungsanmeldung:** Das Insolvenzgericht setzt die Anmeldefrist im Eröffnungsbeschluss nach Paragraf 28 Absatz 1 InsO. Eine spätere Anmeldung wird nach Paragraf 177 InsO geprüft und kann Kosten auslösen; der Schlusstermin ist keine gesetzliche Anmeldefrist.
+- **Berufung gegen Eröffnungsbeschluss** § 34 InsO — sofortige Beschwerde § 6 InsO, ggf. zwei Wochen.
+
+## Hauptgerichte
+
+- Insolvenzgericht beim Amtsgericht (§ 2 InsO; örtliche Zuständigkeit § 3 InsO).
+- Beschwerdegericht: Landgericht.
+- BGH IX. Zivilsenat — Insolvenz, Insolvenzanfechtung.
+- EuGH bei EuInsVO-Fragen.
+
+## Berufsverband
+
+- Arbeitsgemeinschaft Insolvenzrecht und Sanierung im DAV.
+- VID — Verband Insolvenzverwalter und Sachwalter Deutschlands.
+
+## Schnittstellen
+
+- **`insolvenzrecht`** für operative Mandatsführung.
+- **`steuerrecht-anwalt-und-berater`** für Steuerforderungen in der Insolvenz und § 75 AO.
+- **`fachanwalt-arbeitsrecht`** bei §§ 113, 125 ff. InsO und Insolvenzgeld.
+- **`fachanwalt-handels-gesellschaftsrecht`** bei Geschäftsführerhaftung § 15b InsO (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021).
+
+## Triage — Erste Einordnung des Mandats
+
+Bevor losgelegt wird, klaere:
+
+1. **Welche Partei?** Schuldner (Eigenantrag), Gläubigervertreter (Fremdantrag), Insolvenzverwalter, Sachwalter oder Anfechtungsgegner?
+2. **Eröffnungsgrund vorhanden?** Zahlungsunfaehigkeit (§ 17), drohende Zahlungsunfaehigkeit (§ 18) oder Ueberschuldung (§ 19 InsO)?
+3. **Fristen?** Antragspflicht § 15a Abs. 1 InsO: 3 Wochen bei Zahlungsunfaehigkeit, 6 Wochen bei Ueberschuldung — Haftungsrisiko § 15b InsO!
+4. **Sanierungs-Pfad?** StaRUG (vor Insolvenz), Schutzschirm § 270d InsO, Eigenverwaltung §§ 270 ff. InsO, Insolvenzplan §§ 217 ff. InsO oder Regelverfahren?
+5. **Handlungsbedarf?** Sofortsicherung § 21 InsO, Insolvenzgeld § 165 SGB III, Betriebsfortfuehrung?
+
+## Aktuelle Leitentscheidungen des BGH IX. Zivilsenats (Stand Mai 2026)
+
+- **BGH IX ZR 122/23 vom 05.12.2024** — Konkretisierung der *Unlauterkeit* iSd § 142 Abs. 1 Hs. 2 InsO bei der Vorsatzanfechtung im Bargeschäft.
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 239/22 vom 18.04.2024** — Bei der Vorsatzanfechtung lässt sich die erforderliche Deckungslücke regelmäßig nicht allein aus den bereits zur Zahlungseinstellung herangezogenen Verbindlichkeiten ableiten; wiederholte Zahlungsverzögerungen belegen für sich noch keine Zahlungseinstellung.
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+- **BGH IX ZR 114/23 vom 19.12.2024** — Forderungsanmeldung bei Abtretung; Individualisierung.
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Aktionärs-Schadensersatzforderungen sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd § 38 InsO; Nachrang.
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden (§ 823 II BGB iVm § 15a InsO).
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung; Wissentlichkeitsausschluss erfordert positive Kenntnis pro konkreter Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar.
+- **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung.
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+
+## — Ersteinschätzung in 5 Schritten
+
+1. **Sachverhalt aufnehmen:** Mandantenrolle (Schuldner, Gläubiger, Verwalter, Anfechtungsgegner), Eröffnungsgrund prüfen, Fristen sichern. Bei Aktenzeichen-Bezug: konkrete BGH/BVerfG-Entscheidung über dejure.org/openjur.de mit Datum verifizieren.
+2. **Pfad waehlen:** Entscheidungsbaum: [ZU vorhanden?] → Ja: Eigenantrag + Eigenverwaltung/Schutzschirm möglich → Nein: StaRUG wenn drohende ZU.
+3. **Antragspflicht prüfen:** Geschäftsführung/Vorstand beraten, Haftungsrisiko § 15b InsO dokumentieren, ggf. Antrag unmittelbar vorbereiten.
+4. **Sofortmassnahmen:** Insolvenzgeld § 165 SGB III sichern (3-Monats-Vorlaufprinzip); Sicherungsantrag § 21 InsO stellen falls Vermögen gefaehrdet; Betriebsfortfuehrung finanzieren.
+5. **Sanierungskonzept:** IDW S 6 / IDW S 11 beauftragen; Gläubigerstruktur kartieren; Plan-Optionen StaRUG vs. InsO-Plan durchrechnen.
+
+## Output-Template Erstgutachten-Memo (Insolvenzrechtliche Ersteinschaetzung)
+
+**Adressat:** Mandant (Geschäftsführung) — Tonfall: verstaendlich-erklaerend mit klaren Handlungsempfehlungen
+
+```
+Insolvenzrechtliche Ersteinschaetzung
+Mandant: [NAME MANDANT]
+Datum: [DATUM]
+Erstellende Kanzlei: [KANZLEI]
+
+I. SACHVERHALT (Kurzdarstellung)
+[2-3 Saetze: Gesellschaft, Branche, Krisenlage]
+
+II. ERÖFFNUNGSGRUNDE (§§ 17-19 InsO)
+Zahlungsunfaehigkeit § 17 InsO: [JA/NEIN] — Begruendung: [...]
+Ueberschuldung § 19 InsO: [JA/NEIN] — Begruendung: [...]
+Drohende ZU § 18 InsO: [JA/NEIN]
+
+III. ANTRAGSPFLICHT
+Frist: [DATUM] (3 Wochen ab ZU / 6 Wochen ab Ueberschuldung)
+Haftungsrisiko GF: § 15b InsO — Zahlungen nach Insolvenzreife rueckforderbar
+
+IV. EMPFOHLENER PFAD
+[ ] Eigenantrag Regelverfahren [ ] Schutzschirm § 270d InsO
+[ ] StaRUG-Plan [ ] Eigenverwaltung §§ 270 ff.
+
+V. SOFORT-MASSNAHMEN (bis [DATUM])
+1. [...]
+2. [...]
+
+VI. KOSTEN / HONORARRAHMEN
+[...]
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->

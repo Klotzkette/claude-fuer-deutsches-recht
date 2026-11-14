@@ -1,0 +1,52 @@
+# Dokumentenintake
+
+> Ergänzende Fachreferenz des Hauptplugins. Den bereits geklärten Auftrag, die Rolle, Aktenfundstellen und Fristen übernehmen. Keinen zweiten Intake starten und keine zusätzliche Installation voraussetzen. Weitere Referenzen nur für eine konkrete offene Fachfrage laden.
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+## Einsatzlage
+
+Dieser Dokumenten-Intake für **Fachanwalt Insolvenz Sanierungsrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
+
+## Fachlandkarte dieses Plugins
+
+- `absonderungsrecht-paragraf-50-inso` — Absonderungsrecht Paragraf 50 Inso
+- `vorsatzanfechtung-paragraf-133-inso-pruefen` — Vorsatzanfechtung nach Paragraf 133 InsO prüfen
+- `eigenverwaltung-schutzschirm-paragraf-270b-inso` — Eigenverwaltung Paragraf 270b und Schutzschirm Paragraf 270d InsO
+- `eroeffnung-behoerden-gericht-und-registerweg` — Eroeffnung Fachanwalt FAO Gläubigerantrag
+- `fa-inso-sanierung-quellen-edge-case` — FA Inso Sanierung Quellen Edge Case
+- `fa-insolvenz-schuldschein-und-lma` — FA Schuldschein
+- `glaeubigerantrag` — Gläubigerantrag Insolvenzanfechtung
+- `insolvenz-glaeubigerverhandlung-sanierung` — Gläubigerverhandlung Sanierung IDW S6 Krypto
+- `insanw-eigenverwaltung-schutzschirm-spezial` — Insanw Eigenverwaltung Konzerninsolvenz
+- `einstieg-schnelltriage-fallrouting` — Insanw Fortbestehensprognose
+- `insolvenz-tatbestand-beweis-und-belege` — Insolvenz Insolvenzanfechtung Insolvenzrecht
+- `insolvenzgeld-paragraf-165-sgb-iii` — Insolvenzgeld Paragraf 165 SGB III
+- `insolvenzplan-paragraf-217-inso-planinhalt-pruefen` — Insolvenzplan nach Paragraf 217 InsO prüfen
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Fachanwalt Insolvenz Sanierungsrecht-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: InsO, StaRUG, § 14, § 14 InsO, § 15a Gl, §§ 129 ff — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `../../gemeinsam/quellenhygiene.md` und `../../../zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

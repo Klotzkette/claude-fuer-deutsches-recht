@@ -4,11 +4,11 @@ Gleichen Sie offene Posten mit Zahlungen, Stundungen und Vollstreckungstiteln ab
 
 ## 2. Ausgangsdaten
 
-Ohne Eingabe bieten Sie OP-Bereinigung, Titelansatz oder Dreiwochenrechnung an. Bei Dateien ohne Auftrag lesen Sie die tragenden Belege still und bieten zwei passende Ergebnisse an, etwa Statuskorrektur oder Entscheidungsvorlage. Bei klarem Auftrag rechnen und formulieren Sie unmittelbar. Bekannte Daten nicht erneut erfragen. Eine nachgereichte Stundung ändert nur erfasste Forderungen und Zeitabschnitte; ein späterer Kontoeingang ändert die Rückschau, aber nicht ohne Weiteres die damalige Prognose. Aktualisieren Sie Rechnung und Begründung gemeinsam.
+Ohne Auftrag bieten Sie nach Sichtung der Belege höchstens zwei passende Ergebnisse an: OP-Bereinigung, Titelansatz oder Dreiwochenrechnung. Klare Aufträge direkt bearbeiten. Eine nachgereichte Stundung ändert nur erfasste Posten und Zeitabschnitte; spätere Eingänge ändern die Rückschau, nicht ohne Weiteres die damalige Prognose. Rechnung und Begründung gemeinsam aktualisieren.
 
-Erfassen Sie Rechtsträger, Rolle, Stichtag, Datenstand, Prüfzweck und mögliche laufende Organpflichten. Lesen Sie Offene-Posten-Listen, Bankauszüge, Kreditlinien, Rechnungen, Gutschriften, Zahlungsvereinbarungen, Titel, Zustellungen, Vollstreckungsunterlagen und Zuflussnachweise. Verändern Sie keine Originalbuchungen.
+Übernehmen Sie die Rolle aus Beratung/Vertretung, Verwaltung, Sachbearbeitung oder Bericht ohne neuen Intake. Erfassen Sie Rechtsträger, Rolle, Stichtag, Datenstand, Prüfzweck und mögliche laufende Organpflichten. Lesen Sie Offene-Posten-Listen, Bankauszüge, Kreditlinien, Rechnungen, Gutschriften, Zahlungsvereinbarungen, Titel, Zustellungen, Vollstreckungsunterlagen und Zuflussnachweise. Verändern Sie keine Originalbuchungen.
 
-Fragen Sie nur nach entscheidenden Lücken, ohne bereits bekannte Angaben erneut zu erheben. Vorhandene OP-Listen können unvollständig oder rechtlich falsch eingeordnet sein. Liefern Sie unabhängig prüfbare Teile vorläufig, ohne fehlende Werte mit Null zu ersetzen.
+Fragen Sie nur nach entscheidenden Lücken. OP-Listen können unvollständig oder falsch eingeordnet sein. Unabhängig prüfbare Teile vorläufig liefern; fehlende Werte nicht durch Null ersetzen.
 
 ## 3. Überleitung und Berechnung
 
@@ -45,6 +45,8 @@ Liefern Sie die bestellte Entscheidungsvorlage mit nachvollziehbarer OP-Überlei
 Prüfen Sie vor Abschluss geänderte Summen und Zeiträume sowie die Einarbeitung der Antworten. Rechenanlagen ergänzen die ausformulierte Begründung; interne Prüffeldnamen sind keine Pflichtüberschriften. Vollständige Sätze, keine Skelette. Export: Times New Roman, 11 pt, dezimale Gliederung.
 
 BGH, 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 27–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbare Zusage. Betrag, Zahlweg und Termin belegen; bloße Hoffnung nicht ansetzen. Im Prozess Wissensnähe prüfen, keine unmögliche Detailerwiderung vom Außenstehenden verlangen.
+
+Für die vollständige Insolvenzreifeprüfung übergeben Sie Belege, Berechnung und offene Fragen an den eigenständigen Zahlungsunfähigkeits- und Überschuldungsprüfer. Berichtsergebnisse in den bestehenden Auftrag zurückführen; im Plugin passt `references/fachmodule/berichte/INDEX.md`. Forderungsanmelder und Planwerkstatt bleiben eigenständig.
 
 ## 6. Technische Grenzen
 

@@ -1,0 +1,904 @@
+{
+  "schema": 1,
+  "destination": "insolvenzrecht/references/fachmodule",
+  "main_route": "insolvenzrecht/skills/einstieg-routing/SKILL.md",
+  "plan_plugin": "insolvenzplan-starug-planwerkstatt",
+  "shared_references": [
+    "references/zitierweise.md",
+    "references/quellenhygiene.md",
+    "references/leitentscheidungen-anker.md",
+    "references/anwalts-dashboard-konvention.md"
+  ],
+  "groups": {
+    "akte": {
+      "title": "Akte, Belege und Übergaben",
+      "when": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden.",
+      "product": "Verfahrenskarte, Belegmatrix, Lückenliste oder dokumentierte Übergabe."
+    },
+    "antrag-verfahren": {
+      "title": "Antrag, Eröffnung und Verfahrensart",
+      "when": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag.",
+      "product": "Antrag, Eröffnungsgutachten, Beschlussvermerk oder begründete Verfahrenseinordnung."
+    },
+    "anfechtung-haftung": {
+      "title": "Anfechtung und Haftung",
+      "when": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden.",
+      "product": "Belegte Anspruchsmatrix und ausformuliertes Anspruchsschreiben, Schriftsatz oder Gegenargument."
+    },
+    "vermoegen-sicherheiten": {
+      "title": "Vermögen, Verwertung und Sicherheiten",
+      "when": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend.",
+      "product": "Eigentumsprüfung, Sicherheitenmatrix, Verwertungsentscheidung oder Erlösabgleich."
+    },
+    "forderungen": {
+      "title": "Forderungen und Tabelle",
+      "when": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags.",
+      "product": "Eingangsbuch, Prüfvermerk, Tabellenzeile oder Gläubigerbrief; keine Vermischung mit eigener Gläubigeranmeldung."
+    },
+    "betrieb-kasse": {
+      "title": "Betrieb, Personal, Kasse und Abgaben",
+      "when": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung.",
+      "product": "Entscheidungsvorlage mit Vertrags-, Zahlungs- und Belegabgleich."
+    },
+    "berichte-verteilung": {
+      "title": "Berichte, Rechnungslegung und Verteilung",
+      "when": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage.",
+      "product": "Bestellter Bericht, Kontenabgleich, Schlussverzeichnis, Verteilungsrechnung oder Nachtragsverteilungsentwurf."
+    },
+    "ausland-sonderfall": {
+      "title": "Ausland und besondere Verfahren",
+      "when": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung.",
+      "product": "Begründete Sonderfallprüfung mit Zuständigkeit, Rechtsfolge und Übergabe."
+    },
+    "quellen-qualitaet": {
+      "title": "Quellen, Substantiierung und Qualitätsprüfung",
+      "when": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden.",
+      "product": "Gezielte Norm- oder Quellenkarte, substantiierter Entwurf oder dokumentierte Qualitätskontrolle."
+    },
+    "krise-sanierung": {
+      "title": "Krise und Sanierungsverhandlung",
+      "when": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats.",
+      "product": "Belegte Arbeitshypothese oder Verhandlungsentwurf; vollständige Insolvenzreifeprüfung an den eigenständigen Prüfer übergeben."
+    },
+    "plan-uebergabe": {
+      "title": "Übergabe an die Planwerkstatt",
+      "when": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug.",
+      "product": "Übergabepaket mit Rollen, Zahlen, Belegen und offenen Entscheidungen; Planerstellung im eigenständigen Spezialplugin."
+    },
+    "hauptroute": {
+      "title": "Gemeinsame Auftragssteuerung",
+      "when": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden.",
+      "product": "Bestehenden Hauptworkflow einstieg-routing fortsetzen; keinen zweiten Intake starten."
+    }
+  },
+  "modules": {
+    "fachanwalt": {
+      "source": "fachanwalt-insolvenz-sanierungsrecht",
+      "title": "Anwaltliche Insolvenz- und Sanierungsarbeit",
+      "when": "Mandat, Antrag, Anspruch, Haftung oder Verhandlung aus anwaltlicher Sicht bearbeiten.",
+      "skills": {
+        "absonderungsrecht-paragraf-50-inso": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "anfechtungsklage-verwalter": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "anschluss-routing": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "antragspflicht-schriftsatz-brief-und-memo-bausteine": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "berater-red-team-und-qualitaetskontrolle": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "chronologie-abschlussprodukt-und-uebergabe": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "dokumente-intake": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "eigenverwaltung-schutzschirm-paragraf-270b-inso": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "einstieg-routing": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "einstieg-schnelltriage-fallrouting": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "eroeffnung-behoerden-gericht-und-registerweg": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "erstgespraech-mandatsannahme": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "erstpruefung-und-mandatsziel": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "fa-inso-drittstaaten-anerkennung-registervollzug": {
+          "group": "ausland-sonderfall",
+          "mode": "reference",
+          "reason": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung."
+        },
+        "fa-inso-sanierung-quellen-edge-case": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "fa-insolvenz-npl-und-distressed-debt": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "fa-insolvenz-schuldschein-und-lma": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "fachanwalt-insolvenz-glaeubigerverhandlung-sanierung": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "fachanwalt-insolvenz-idw-s6-sanierungskonzept": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "fachanwalt-insolvenz-krypto-verwertung": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "fachanwalt-insolvenz-sanierung-starug-plan": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "fachanwalt-insolvenz-sanierungsrecht-orientierung": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "fao-dokumentenmatrix-und-lueckenliste": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "glaeubigerantrag": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "glaeubigerantrag-verhandlung-vergleich-und-eskalation": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "insanw-anfechtungsmandat-leitfaden": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "insanw-eigenverwaltung-schutzschirm-spezial": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "insanw-fortbestehensprognose-workflow": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "insanw-konzerninsolvenz-koordination-spezial": {
+          "group": "ausland-sonderfall",
+          "mode": "reference",
+          "reason": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung."
+        },
+        "inso-anfechtung-zahlungsstrom-banken": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "inso-arbeitnehmer-und-betriebsuebergang": {
+          "group": "betrieb-kasse",
+          "mode": "reference",
+          "reason": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung."
+        },
+        "inso-grenzueberschreitend-eu-eir": {
+          "group": "ausland-sonderfall",
+          "mode": "reference",
+          "reason": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung."
+        },
+        "inso-grundzuege-verfahrenstypen": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "inso-kommunikation-glaeubiger": {
+          "group": "forderungen",
+          "mode": "reference",
+          "reason": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags."
+        },
+        "inso-normenbibliothek": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "inso-p312bis314-weggefallen": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "inso-risikoampel-und-gegenargumente": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "insolvenz-glaeubigerverhandlung-sanierung": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "insolvenz-idw-s6-sanierungskonzept": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "insolvenz-krypto-verwertung": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "insolvenz-sanierung-starug-plan": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "insolvenz-sanierungs-versandmappe-endfertigen": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "insolvenz-tatbestand-beweis-und-belege": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "insolvenzanfechtung": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "insolvenzanfechtung-129-bis-147-verteidigungsradar": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "insolvenzanfechtung-compliance-dokumentation-und-akte": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "insolvenzgeld-paragraf-165-sgb-iii": {
+          "group": "betrieb-kasse",
+          "mode": "reference",
+          "reason": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung."
+        },
+        "insolvenzplan-paragraf-217-inso-planinhalt-pruefen": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "insolvenzrecht-internationaler-bezug-und-schnittstellen": {
+          "group": "ausland-sonderfall",
+          "mode": "reference",
+          "reason": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung."
+        },
+        "juristischer-argumentationskern": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "krypto-mandantenkommunikation-entscheidungsvorlage": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "livecheck-fristennotiz-und-naechster-schritt": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "masseunzulaenglichkeit-paragraf-208-inso": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "organhaftung-zahlungen-masseabgleich": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "orientierung-mandat-fachanwaltschaft": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "output-waehlen": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "quellen-livecheck": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "restrukturierungsplan": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "restrukturierungsplan-zahlen-schwellen-und-berechnung": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "restschuldbefreiung-dreijahresfrist-obliegenheiten": {
+          "group": "ausland-sonderfall",
+          "mode": "reference",
+          "reason": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung."
+        },
+        "sanierungsrecht-fristen-form-und-zustaendigkeit": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "scheme-of-arrangement": {
+          "group": "ausland-sonderfall",
+          "mode": "reference",
+          "reason": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung."
+        },
+        "schnittstellen-mehrparteien-konflikt-und-interessen": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "schriftsatzkern-substantiierung": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "schutzschirmverfahren": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "spezial-starug-livequellen-und-rechtsprechungscheck": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "starug-quellenkarte": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "starug-spezial-restrukturierungsplan": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "steuerrecht-formular-portal-und-einreichung": {
+          "group": "betrieb-kasse",
+          "mode": "reference",
+          "reason": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung."
+        },
+        "ueberschuldung-paragraf-19-inso-fortbestehensprognose": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "unterlagen-luecken": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "vergleichsverhandlung-strategie": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "verwertung-beweislast-und-darlegungslast": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "vorsatzanfechtung-paragraf-133-inso-pruefen": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "workflow-chronologie-und-belegmatrix": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "workflow-fristen-und-risikoampel": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "workflow-kaltstart-und-routing": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "workflow-mandantenkommunikation": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "workflow-redteam-qualitygate": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "workflow-unterlagen-lueckenliste": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        }
+      }
+    },
+    "verwaltung": {
+      "source": "insolvenzverwaltung",
+      "title": "Insolvenzverwaltung",
+      "when": "Bestellung, Eröffnungsauftrag, Masse, Fortführung oder Verteilung aus Verwalter- oder Sachwaltersicht bearbeiten.",
+      "skills": {
+        "aktenanlage-iv-plan": {
+          "group": "akte",
+          "mode": "reference",
+          "reason": "Die Akte ist widersprüchlich, unvollständig oder muss an eine andere Fachroute übergeben werden."
+        },
+        "anfechtung-iv-arbeitsrecht": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        },
+        "arbeitsrecht-insolvenzgeld": {
+          "group": "betrieb-kasse",
+          "mode": "reference",
+          "reason": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung."
+        },
+        "berichte-iv-masseunzulaenglichkeit": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "cross-iv-eigenverwaltung": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "eigenverwaltung-sachwaltung": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "einstieg-routing": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "eroeffnungsgutachten-iv": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "forderungsanmeldung-pruefung": {
+          "group": "forderungen",
+          "mode": "reference",
+          "reason": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags."
+        },
+        "idw-iv": {
+          "group": "krise-sanierung",
+          "mode": "reference",
+          "reason": "Fortbestehensannahmen, Krisenstatus, Finanzierungsinstrument oder Gläubigervergleich sind Gegenstand des Mandats."
+        },
+        "insolvenzverwalter-fristen-form-und-zustaendigkeit": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "insolvenzverwaltungs-erstpruefung-und-mandatsziel": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "juristischer-argumentationskern": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "kaltstart-triage": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "kommandocenter": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "masseeinsammlung-iv-massemehrung": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "massemehrung-asset-realisation": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "masseunzulaenglichkeit-208": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "plan-abstimmung-anlagenpaket": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-anlagenpaket": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-cramdown-datenraum": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-darstellender-gerichtliche": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-datenraum-register": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-gerichtliche-schritte": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-gestaltender-gruppen": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-gruppen-klassenbildung": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-insolvenzplan-minderheitenschutz": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-integrierte-kommandocenter": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-iv-steuern": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-kaltstart-interview": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-kommandocenter": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-minderheitenschutz": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-planbetroffene-planvollzug": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-planvollzug-monitoring": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-redteam-qualitygate": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-sanierungskonzept-sicherheiten": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-sicherheiten-drittsicherheiten": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-stabilisierung-stakeholder": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-stakeholder-kommunikation": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-starug-vergleichsrechnung": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-verfahrenswahl": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "plan-vergleichsrechnung": {
+          "group": "plan-uebergabe",
+          "mode": "separate-plan",
+          "reason": "Der Auftrag verlangt Insolvenzplan, StaRUG-Plan, Gruppenbildung, Vergleichsrechnung oder Planvollzug."
+        },
+        "qualitaets-iv-schutzschirm": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "regelverfahren-insolvenzverwalter": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "schutzschirm-270d": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "sicherung-iv-tabelle": {
+          "group": "forderungen",
+          "mode": "reference",
+          "reason": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags."
+        },
+        "sicht-tatbestand-beweis-und-belege": {
+          "group": "quellen-qualitaet",
+          "mode": "reference",
+          "reason": "Eine konkrete Norm, Beweisfrage, Darlegungslast, Frist oder Gegenposition muss abgesichert werden."
+        },
+        "steuern-sozialversicherung": {
+          "group": "betrieb-kasse",
+          "mode": "reference",
+          "reason": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung."
+        },
+        "tabelle-pruefungstermin": {
+          "group": "forderungen",
+          "mode": "reference",
+          "reason": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags."
+        },
+        "verteilung-iv-vorlaeufige": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "vorlaeufige-verwaltung": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        },
+        "workflow-kaltstart-und-routing": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "zahlungsklagen-insolvenzverwaltungs": {
+          "group": "anfechtung-haftung",
+          "mode": "reference",
+          "reason": "Eine bestimmte Zahlung, Verrechnung, Verfügung oder Organhandlung soll geprüft, verfolgt oder abgewehrt werden."
+        }
+      }
+    },
+    "sachbearbeitung": {
+      "source": "insolvenzsachbearbeitung",
+      "title": "Insolvenzsachbearbeitung",
+      "when": "Eingänge, Forderungen, Eigentum, Sicherheiten, Kasse, Beschlüsse und Gläubigerbriefe in der konkreten Akte bearbeiten.",
+      "skills": {
+        "berichte-fristen-und-verteilung": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "betrieb-vertraege-und-personal-koordinieren": {
+          "group": "betrieb-kasse",
+          "mode": "reference",
+          "reason": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung."
+        },
+        "eigentum-kommission-aussonderung": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "forderungen-erfassen": {
+          "group": "forderungen",
+          "mode": "reference",
+          "reason": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags."
+        },
+        "forderungen-pruefen-und-tabelle-pflegen": {
+          "group": "forderungen",
+          "mode": "reference",
+          "reason": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags."
+        },
+        "glaeubigeranfragen-und-korrespondenz": {
+          "group": "forderungen",
+          "mode": "reference",
+          "reason": "Forderungseingang, Prüfung, Widerspruch, Rang, Sicherheit oder Tabellenstand ist Gegenstand des Auftrags."
+        },
+        "insolvenzsachbearbeitung-steuern": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "massebelege-kasse-und-rechnungen": {
+          "group": "betrieb-kasse",
+          "mode": "reference",
+          "reason": "Fortführung, Vertrag, Personal, Insolvenzgeld, Kasse, Steuern oder Sozialversicherung verlangt eine konkrete Entscheidung."
+        },
+        "sicherheiten-und-absonderung": {
+          "group": "vermoegen-sicherheiten",
+          "mode": "reference",
+          "reason": "Eigentum, Verwertung, Absonderung, Aussonderung oder Erlöszuordnung ist entscheidend."
+        },
+        "verbraucherinsolvenz-bearbeiten": {
+          "group": "ausland-sonderfall",
+          "mode": "reference",
+          "reason": "Auslandsbezug, Konzernstruktur, Verbraucherinsolvenz oder Restschuldbefreiung verändert die Fallbearbeitung."
+        },
+        "verfahren-und-beschluesse-erfassen": {
+          "group": "antrag-verfahren",
+          "mode": "reference",
+          "reason": "Antrag, gerichtlicher Beschluss, Gutachtenauftrag, Eigenverwaltung oder Schutzschirm bestimmen den Auftrag."
+        }
+      }
+    },
+    "berichte": {
+      "source": "insolvenzverwaltung-berichtsersteller",
+      "title": "Berichte und Rechnungslegung",
+      "when": "Zwischenbericht, Schlussbericht, Schlussrechnung, Schlussverzeichnis oder Nachtragsverteilung aus belegten Fachständen erstellen.",
+      "skills": {
+        "akte-und-berichtsanlass-steuern": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "berichtserstellung-steuern": {
+          "group": "hauptroute",
+          "mode": "main-route",
+          "reason": "Rolle, Aktenstand, Produkt oder Frist muss geklärt werden."
+        },
+        "forderungen-sicherheiten-quote-darstellen": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "masse-verwertung-betrieb-darstellen": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "nachtragsverteilung-bearbeiten": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "prozesse-anfechtung-haftung-darstellen": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "schlussbericht-erstellen": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "schlussrechnung-konten-abgleichen": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "schlussverteilung-aufhebung-vorbereiten": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "steuern-kosten-verguetung-darstellen": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        },
+        "zwischenbericht-erstellen": {
+          "group": "berichte-verteilung",
+          "mode": "reference",
+          "reason": "Gericht oder Gläubiger erwarten einen Bericht, eine Rechnung oder eine belegte Verteilungsgrundlage."
+        }
+      }
+    }
+  },
+  "link_aliases": {
+    "insolvenzverwaltung/skills/vorlaeufige-verwaltung/SKILL.md": {
+      "assets/templates/vorläufige-verwaltung-checkliste.md": "assets/templates/vorlaeufige-verwaltung-checkliste.md"
+    }
+  }
+}
