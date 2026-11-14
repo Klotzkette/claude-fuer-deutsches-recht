@@ -1,7 +1,7 @@
 {
   "name": "insolvenzrecht",
-  "version": "445.35.3",
-  "description": "Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.",
+  "version": "445.35.4",
+  "description": "Gemeinsamer Arbeitsbereich für Insolvenzberatung, Verfahrensführung, Verwaltung, Sachbearbeitung und Berichte mit lokalen Fachmodulen und Vorlagen.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

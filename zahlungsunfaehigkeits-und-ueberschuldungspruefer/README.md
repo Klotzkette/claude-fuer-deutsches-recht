@@ -2,6 +2,10 @@
 
 Für Insolvenzverwaltung, Kanzlei und Rechnungswesen. Rekonstruieren Sie aus Kontoauszügen, offenen Posten und Finanzierungsunterlagen, ab wann Zahlungsunfähigkeit nach § 17 InsO und insolvenzrechtliche Überschuldung nach § 19 InsO jeweils belegbar sind. Halten Sie pro Insolvenzgrund den ersten belastbaren Stichtag, die zeitliche Beweislücke und die Bedeutung für die später zu prüfenden Überweisungen fest.
 
+<!-- BEGIN insolvenz-ordnung -->
+Dieses eigenständige Spezialplugin gehört zum [Oberordner Insolvenzrecht](../insolvenzrecht-plugins/README.md). Es bleibt separat vom [gemeinsamen Hauptplugin für die allgemeine Insolvenzarbeit](../insolvenzrecht/README.md) installierbar; seine Werkstatt, sein Mini-Prompt und seine Testakten stehen weiterhin auf dieser Seite.
+<!-- END insolvenz-ordnung -->
+
 ## 1. Einstieg
 
 | Arbeitsweg | Datei oder Download |

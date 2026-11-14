@@ -1,5 +1,9 @@
 # Insolvenzplan- und StaRUG-Planwerkstatt
 
+<!-- BEGIN insolvenz-ordnung -->
+Für Insolvenzpläne und StaRUG-Restrukturierungspläne bleibt diese Werkstatt ein eigenständiges Spezialplugin im [Oberordner Insolvenzrecht](../insolvenzrecht-plugins/README.md). Das [gemeinsame Hauptplugin Insolvenzrecht](../insolvenzrecht/README.md) führt die allgemeine Mandats-, Verwaltungs-, Sachbearbeitungs- und Berichtsarbeit zusammen; die Planwerkstatt behält ihre eigenen Prompts, Skills und Testakten.
+<!-- END insolvenz-ordnung -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
