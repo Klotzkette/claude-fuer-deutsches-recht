@@ -32,7 +32,7 @@
   },
   "schema_version": 1,
   "plugin": "corporate-contract-law",
-  "reviewed_on": "2026-11-15",
+  "reviewed_on": "2026-11-14",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__92c.html",
@@ -461,7 +461,7 @@
       "vollständig; Abnahmeanker aktualisiert"
     ],
     "sha256": "f8e270d69673910302885d90a7ded7d36129f41b4035d262438d28053e6d4fe3",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
     "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
@@ -469,7 +469,8 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/corporate-contract-law.json",
       "field": "mini_review",
       "sha256": "fe956091ce977ddbdcc8d01fea0d6f77e670a116179e66648fad981bb5b19d45"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -478,7 +479,7 @@
       "betroffene vollständige Absätze zu Abnahme, Vertragsstrafe, Exit, Sicherheiten, AGB, DSGVO, internationalen Quellen und Quellenabschluss; keine vollständige neue Gesamtlektüre behauptet"
     ],
     "sha256": "1b2724c2ca22d32c86dc5dd765f4208ec584ad6ed921bb0e205b39e60f6ba322",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": false,
     "latest_editorial_scope": "betroffene vollständige Absätze zu Abnahme, Vertragsstrafe, Exit, Sicherheiten, AGB, DSGVO, internationalen Quellen und Quellenabschluss; keine vollständige neue Gesamtlektüre behauptet",
@@ -486,10 +487,11 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/corporate-contract-law.json",
       "field": "workshop_review",
       "sha256": "fe956091ce977ddbdcc8d01fea0d6f77e670a116179e66648fad981bb5b19d45"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "focus_review": {
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "verdict": "revised",
     "reason": "Hauptproblem-Prompt und zugehörigen Hauptskill vollständig gelesen. Abnahmeanker anhand des amtlichen Originals VII ZR 301/13 präzisiert; keine Live-Modellausführung.",
@@ -499,7 +501,8 @@
     "prompt_path": "corporate-contract-law/corporate-contract-law-hauptproblem.md",
     "prompt_sha256": "ff77209391fd0757f866d08cb8aab4b83c5d7d6119f3f067886edeb1102864bc",
     "skill_path": "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md",
-    "skill_sha256": "d5b6abc288e03054162596d607cf8fb6dbde082a0db28f9d6ed89a89ac25d4e2"
+    "skill_sha256": "d5b6abc288e03054162596d607cf8fb6dbde082a0db28f9d6ed89a89ac25d4e2",
+    "reviewed_on_timezone": "UTC"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -1278,7 +1281,7 @@
     ],
     "evidence": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/completed/corporate-contract-law.json",
-      "sha256": "6d4ea2972331a092a2e9e831acbf0dca1e601dc982425c5f20e63b5c3c47f32c"
+      "sha256": "499cfbc9ed865ca342b29df5ec3b01ea6217f260d304a1b4429e3b3cc5ecfd60"
     }
   },
   "visual_workflow_review": {
@@ -1294,7 +1297,7 @@
     "pending_prior_changes": []
   },
   "file_followup_review": {
-    "date": "2026-11-15",
+    "date": "2026-11-14",
     "source_review_date": "2026-11-14",
     "historical_profile": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/corporate-contract-law.json",
@@ -1312,6 +1315,10 @@
       "Keine neue Prüfung aller EU-Normen oder aller internationalen Vorbehalte.",
       "Keine rückwirkende Änderung der historischen Prüfungen oder Hashes.",
       "Kein Nachweis, dass seit den Ankern keine neuere Rechtsprechung existiert."
-    ]
-  }
+    ],
+    "date_timezone": "UTC",
+    "integration_date_local": "2026-11-15",
+    "integration_timezone": "Europe/Berlin"
+  },
+  "reviewed_on_timezone": "UTC"
 }

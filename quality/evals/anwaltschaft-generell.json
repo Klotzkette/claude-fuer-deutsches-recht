@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "anwaltschaft-generell",
-  "reviewed_on": "2026-11-15",
+  "reviewed_on": "2026-11-14",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
@@ -130,7 +130,7 @@
       "Mini bleibt eigenständig und mit 7.481 UTF-8-Bytes unter 7.500. Kein neues TXT-Format und keine zusätzliche Skillregistrierung eingeführt."
     ],
     "sha256": "b6ff129f1eca3d05a53be288a2fe0a7f1cbf25304eec4179092e3bd667a9dbca",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
     "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
@@ -138,7 +138,8 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/anwaltschaft-generell.json",
       "field": "mini_review",
       "sha256": "f748ab4107c2378cf84cecb911fd996d04f2ccb7300f68584e120825cadab31c"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -154,7 +155,7 @@
       "Werkstatt enthält weiter vollständige Ergebnisproduktion, ausgewählten Fachweg, konsistente Fortsetzung, Quellenstatus und konkrete Visualisierung nur bei vorhandener Fähigkeit; keine automatischen externen Handlungen."
     ],
     "sha256": "3171256185f1da51fb7ae0ee2028b7b21c9100e011a2f19f74b7232b835a6a57",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
     "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
@@ -162,7 +163,8 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/anwaltschaft-generell.json",
       "field": "workshop_review",
       "sha256": "f748ab4107c2378cf84cecb911fd996d04f2ccb7300f68584e120825cadab31c"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -616,7 +618,7 @@
     ],
     "evidence": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/completed/anwaltschaft-generell.json",
-      "sha256": "a444b1fab60936753ace989f853b033832aa4ba3a83a08a80317a68b91b844f8"
+      "sha256": "4a1e597799ff6a6c33e73412d9ba9a5bf310e8565652cb3e018f05ab3d21feb7"
     }
   },
   "visual_workflow_review": {
@@ -632,7 +634,7 @@
     "pending_prior_changes": []
   },
   "file_followup_review": {
-    "date": "2026-11-15",
+    "date": "2026-11-14",
     "source_review_date": "2026-11-14",
     "historical_profile": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/anwaltschaft-generell.json",
@@ -648,6 +650,10 @@
       "Dateireview umfasst die vollständig gelesenen benannten Dateien; kein pauschales Gütesiegel für sämtliche sonstigen Plugin-Dateien, alle Testakten oder alle Rechtsgebiete.",
       "Desk-Review mit aktuellen amtlichen Abrufen und gezielter Norm-/Passagenprüfung, keine neue Live-Ausführung durch ein externes Modell.",
       "Historische Profile, Prüfstände und Freigabehashes werden nicht rückdatiert oder überschrieben. Root führt neuen Dateistatus, Artefakthashes und Release-Routing nach Abschluss separat nach."
-    ]
-  }
+    ],
+    "date_timezone": "UTC",
+    "integration_date_local": "2026-11-15",
+    "integration_timezone": "Europe/Berlin"
+  },
+  "reviewed_on_timezone": "UTC"
 }

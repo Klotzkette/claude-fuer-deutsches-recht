@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschafterstreit",
-  "reviewed_on": "2026-11-15",
+  "reviewed_on": "2026-11-14",
   "selection": {
     "target_skill": "gesellschafterstreit-loesen",
     "positive": [
@@ -611,7 +611,7 @@
       "7.321 UTF-8-Bytes; inhaltlich unverändert belassen. Bestehendes MD/TXT-Paar ist identisch; keine Kürzung oder zusätzliche Skills."
     ],
     "sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
     "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
@@ -619,7 +619,8 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/gesellschafterstreit.json",
       "field": "mini_review",
       "sha256": "6eaa032b25c02ae96cdab58d7fa87ef5f8fc5957ac0ffb4bafafce60191a8942"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "workshop_review": {
     "verdict": "retained",
@@ -638,7 +639,7 @@
       "Kein materieller Fehler im geprüften Text festgestellt; vollständiger Inhalt und bestehendes MD/TXT-Paar unverändert erhalten. Kein Anspruch auf neu durchgeführte Live-Modellprobe oder vollständige externe Rechtsprechungserfassung."
     ],
     "sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
     "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
@@ -646,7 +647,8 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/gesellschafterstreit.json",
       "field": "workshop_review",
       "sha256": "6eaa032b25c02ae96cdab58d7fa87ef5f8fc5957ac0ffb4bafafce60191a8942"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "focus_review": {
     "method": "desk_review",
@@ -2136,7 +2138,7 @@
     ],
     "evidence": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/completed/gesellschafterstreit.json",
-      "sha256": "428f5c229a96fd124d1e14fbbf5bacc6c94d4b87a368b82b35483eee70a33c0a"
+      "sha256": "611e02d022ad6ba490094bb698b35c612f975bf54cbb7936116fde507b1262be"
     }
   },
   "visual_workflow_review": {
@@ -2153,7 +2155,7 @@
     "pending_prior_changes": []
   },
   "file_followup_review": {
-    "date": "2026-11-15",
+    "date": "2026-11-14",
     "source_review_date": "2026-11-14",
     "historical_profile": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/gesellschafterstreit.json",
@@ -2169,6 +2171,10 @@
       "Dateireview umfasst die vollständig gelesenen benannten Dateien; kein pauschales Gütesiegel für sämtliche sonstigen Plugin-Dateien, alle Testakten oder alle Rechtsgebiete.",
       "Desk-Review mit aktuellen amtlichen Abrufen und gezielter Norm-/Passagenprüfung, keine neue Live-Ausführung durch ein externes Modell.",
       "Historische Profile, Prüfstände und Freigabehashes werden nicht rückdatiert oder überschrieben. Root führt neuen Dateistatus, Artefakthashes und Release-Routing nach Abschluss separat nach."
-    ]
-  }
+    ],
+    "date_timezone": "UTC",
+    "integration_date_local": "2026-11-15",
+    "integration_timezone": "Europe/Berlin"
+  },
+  "reviewed_on_timezone": "UTC"
 }

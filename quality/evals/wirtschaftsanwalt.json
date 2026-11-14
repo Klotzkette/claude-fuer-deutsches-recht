@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "wirtschaftsanwalt",
-  "reviewed_on": "2026-11-15",
+  "reviewed_on": "2026-11-14",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
@@ -520,7 +520,7 @@
       "Aktualitätssuche ergänzt BAG, Urteil vom 07.05.2026, 2 AZR 184/25: amtliche Gründe gelesen; auch ein vor dem Einwurf erzeugter Auslieferungsbeleg genügte im festgestellten Scan-Verfahren nicht. Frühere/offene und spätere abweichende Verfahren sowie Zeugenbeweis ausdrücklich abgegrenzt."
     ],
     "sha256": "fa43056f942c2f2032e86333be618eaa184eee8e646da31c5c07d8a18a18eb05",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
     "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
@@ -528,7 +528,8 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/wirtschaftsanwalt.json",
       "field": "mini_review",
       "sha256": "2dcbb7b2de33369e0295153dce503382730376c1187412f3b0c47a8648e46543"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -547,7 +548,7 @@
       "Aktualitätssuche ergänzt BAG, Urteil vom 07.05.2026, 2 AZR 184/25: amtliche Gründe gelesen; auch ein vor dem Einwurf erzeugter Auslieferungsbeleg genügte im festgestellten Scan-Verfahren nicht. Frühere/offene und spätere abweichende Verfahren sowie Zeugenbeweis ausdrücklich abgegrenzt."
     ],
     "sha256": "d1609f015791b6fbd2286225f9c30b8b7842f9271aa4e71d8460b72b05be24c2",
-    "reviewed_on": "2026-11-15",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
     "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
@@ -555,7 +556,8 @@
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/wirtschaftsanwalt.json",
       "field": "workshop_review",
       "sha256": "2dcbb7b2de33369e0295153dce503382730376c1187412f3b0c47a8648e46543"
-    }
+    },
+    "reviewed_on_timezone": "UTC"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -1193,7 +1195,7 @@
     ],
     "evidence": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/completed/wirtschaftsanwalt.json",
-      "sha256": "eaf4b212234aa20a5848d20d197954d4214dd9cdeaa2b8aef2a80f1f2eae04bd"
+      "sha256": "24b605d8e1317e8441f9e1304634cc7418cd4e02005a6760878d57f70a1b2e3e"
     }
   },
   "visual_workflow_review": {
@@ -1209,7 +1211,7 @@
     "pending_prior_changes": []
   },
   "file_followup_review": {
-    "date": "2026-11-15",
+    "date": "2026-11-14",
     "source_review_date": "2026-11-14",
     "historical_profile": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/wirtschaftsanwalt.json",
@@ -1226,6 +1228,10 @@
       "Amtlicher BGH-PDF-Text im Recherchewerkzeug und direkter HTTP-Originaldownload bleiben getrennt.",
       "DSGVO-Passagen gezielt im BfDI-Normtext geprüft; vollständiger EUR-Lex-Konsolidierungsabruf nicht hergestellt.",
       "Nicht jede in der historischen Arbeitsnormliste erwähnte Norm wurde am Nachprüfungstag erneut gelesen."
-    ]
-  }
+    ],
+    "date_timezone": "UTC",
+    "integration_date_local": "2026-11-15",
+    "integration_timezone": "Europe/Berlin"
+  },
+  "reviewed_on_timezone": "UTC"
 }
