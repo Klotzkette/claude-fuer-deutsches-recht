@@ -31,6 +31,8 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from xml.sax.saxutils import escape
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN
 from testakte_office_pdf import render_office_batch
+from anfechtung_kanzleisatz import document as kanzlei_document
+from release_routing import case_asset_url
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'scripts/data/insolvenzanfechtung-akten.json'
@@ -50,6 +52,22 @@ def load_basis():
     spec.loader.exec_module(module)
     module.STAMP = datetime(2026, 10, 22, 8)
     return module
+
+def sync_case_readme(directory):
+    """Zentrale Download- und Materialblöcke nach dem Aktenregister wiederherstellen."""
+    def module(name):
+        spec = importlib.util.spec_from_file_location(name.replace('-', '_'), ROOT / 'scripts' / (name + '.py'))
+        result = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(result)
+        return result
+    material = module('insolvenz-testakten-material')
+    entries = material.expected_material()[directory.name]
+    missing = [name for name in entries if not (directory / material.INSOLVENZ_PRUEFMATERIAL / name).is_file()]
+    if missing:
+        raise ValueError(f'Vergleichsmaterial fehlt für {directory.name}: {missing}')
+    material.update_readme(directory, entries)
+    module('inject-gesamt-pdf-section').inject(directory / 'README.md', directory.name)
+
 
 def configure_fonts():
     candidates = [(Path('/System/Library/Fonts/Supplemental'), 'Times New Roman.ttf', 'Times New Roman Bold.ttf', 'Times New Roman'),
@@ -194,7 +212,8 @@ def build_originals(cases, basis, qa):
             path=directory/item['name']
             if path.suffix=='.xlsx':set_xlsx_print(path, item)
             elif path.suffix=='.pdf':path.write_bytes(pdf_bytes(item))
-            elif path.suffix=='.docx':basis.document(path,item)
+            elif path.suffix=='.docx':
+                (kanzlei_document if item.get('letterhead') else basis.document)(path,item)
             elif path.suffix=='.txt':path.write_text('\n\n'.join(item[k] for k in ['author','to','date','title','body'])+'\n')
         for item in case['files']:
             if item['name'].endswith('.eml'):write_email(directory/item['name'],item,case['slug'])
@@ -264,10 +283,10 @@ Alle Personen, Unternehmen, Geschäftsadressen, Aktenzeichen und Kontakte sind e
 | Format | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/{case['slug']}_gesamt.pdf) |
-| Einzel-PDF-ZIP | [Einzelne Dokumente]({BASE}/testakte-{case['slug']}-einzelpdfs.zip) |
-| Akten-ZIP | [Word, Excel, PDF, EML und TXT]({BASE}/testakte-{case['slug']}.zip) |
+| Einzel-PDF-ZIP | [Einzelne Dokumente]({case_asset_url(case['slug'], '-einzelpdfs', root=ROOT)}) |
+| Akten-ZIP | [Word, Excel, PDF, EML und TXT]({case_asset_url(case['slug'], root=ROOT)}) |
 
-Die ZIPs sind flach und enthalten jeweils 24 Unterlagen sowie README.txt mit dem zweisprachigen Hinweis. Das Original-ZIP enthält keine Markdown-Dateien und kein Gesamt-PDF. Die PDF-Lesefassungen geben jede Originaldatei einmal wieder; eingebettete E-Mail-Anlagen werden dabei nicht doppelt gezählt.
+Die Aktenarchive enthalten jeweils 24 Unterlagen sowie README.txt mit dem zweisprachigen Hinweis. Für den Einstieg wählen Sie im Originalformat-ZIP den Ordner `Grundakte`; spätere Verfahrensstücke stehen außerhalb dieses Ordners. Das Original-ZIP enthält keine Markdown-Dateien und kein Gesamt-PDF. Die PDF-Lesefassungen geben jede Originaldatei einmal wieder; eingebettete E-Mail-Anlagen werden dabei nicht doppelt gezählt.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -280,6 +299,7 @@ Die ZIPs sind flach und enthalten jeweils 24 Unterlagen sowie README.txt mit dem
 Komponentenrelease `{TAG}`.
 """
         (directory/'README.md').write_text(readme)
+        sync_case_readme(directory)
         report={'slug':case['slug'],'documents':24,'pages':len(writer.pages),'formats':dict(counts),'font':font_label,'files':docs}
         manifest_dir=ROOT/'quality/insolvenzanfechtung/akten';manifest_dir.mkdir(parents=True,exist_ok=True)
         (manifest_dir/f"{case['slug']}.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
@@ -289,10 +309,24 @@ Komponentenrelease `{TAG}`.
     return reports
 
 def main():
-    ap=argparse.ArgumentParser();ap.add_argument('--package-only',action='store_true');ap.add_argument('--dist',type=Path,default=Path('/tmp/insolvenzanfechtung-20261021/dist-akten'));ap.add_argument('--qa',type=Path,default=Path('/tmp/insolvenzanfechtung-20261021/qa-neue-akten'));args=ap.parse_args()
+    ap=argparse.ArgumentParser();ap.add_argument('--package-only',action='store_true');ap.add_argument('--schriftsatz-only',action='store_true');ap.add_argument('--dist',type=Path,default=Path('/tmp/insolvenzanfechtung-20261021/dist-akten'));ap.add_argument('--qa',type=Path,default=Path('/tmp/insolvenzanfechtung-20261021/qa-neue-akten'));args=ap.parse_args()
     args.dist.mkdir(parents=True,exist_ok=True);args.qa.mkdir(parents=True,exist_ok=True)
     cases=read_cases();basis=load_basis();label=configure_fonts()
-    if not args.package_only:build_originals(cases,basis,args.qa)
+    if args.package_only and args.schriftsatz_only:
+        ap.error('--package-only und --schriftsatz-only schließen sich aus')
+    if args.schriftsatz_only:
+        for case in cases:
+            directory=ROOT/'testakten'/case['slug']
+            changed=set()
+            for item in case['files']:
+                if item.get('letterhead'):
+                    kanzlei_document(directory/item['name'],item)
+                    changed.add(item['name'])
+            # Tatsächlich eingebettete Fassungen auf denselben Stand bringen.
+            for item in case['files']:
+                if changed.intersection(item.get('attachments',[])):
+                    write_email(directory/item['name'],item,case['slug'])
+    elif not args.package_only:build_originals(cases,basis,args.qa)
     package_cases(cases,basis,args.dist,args.qa,label)
 
 if __name__=='__main__':main()

@@ -28,6 +28,7 @@ from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
 from insolvenzreife_grundakten import build_supplements
 from insolvenzreife_anfechtung_faelle import build_avoidance_material
 from insolvenzreife_anfechtung_vorlagen import build_templates
+from insolvenzreife_vertragsakten import build_contract_files
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "scripts/data/zu-insolvenzfaelle.json"
@@ -322,6 +323,7 @@ def make_cases(data, root):
                 sources.append(target)
         sources.extend(build_supplements(case, directory, letter_pdf, csv_file))
         sources.extend(build_avoidance_material(case, directory, letter_pdf, csv_file))
+        sources.extend(build_contract_files(case, directory, csv_file))
         templates = directory / "20_Vorlagen"
         templates.mkdir(exist_ok=True)
         for name in ("01_Anfechtungsschreiben.docx", "02_Anfechtungsklage.docx"):

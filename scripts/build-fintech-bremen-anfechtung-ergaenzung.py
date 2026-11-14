@@ -31,6 +31,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
 
 from akten_build_runtime import node_binary, serif_font_path
+from fintech_schriftsatz_satz import approved_original_hashes
 
 ROOT = Path(__file__).resolve().parents[1]
 FIX = ROOT / 'scripts/fixtures/fintech-bremen'
@@ -48,7 +49,7 @@ def originals():
 
 
 def verify_originals():
-    expected = json.loads((FIX / 'anfechtung-original42-sha256.json').read_text())
+    expected = approved_original_hashes(FIX / 'anfechtung-original42-sha256.json')
     actual = originals()
     if actual != expected or len(actual) != 42:
         raise ValueError('Die 42 bisherigen Originaldateien weichen vom gesicherten Bestand ab')

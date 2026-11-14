@@ -41,11 +41,11 @@ Die Wordvorlagen enthalten ausgearbeitete Begründungsvarianten und beschriftete
 
 | Fall | Originalakten und Lesefassungen |
 | --- | --- |
-| Keramikfabrik Cottbus | [Aktenseite](../testakten/insolvenzreife-keramikfabrik-cottbus/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/testakte-insolvenzreife-keramikfabrik-cottbus.zip) |
-| Metallbau Berlin-Zehlendorf | [Aktenseite](../testakten/insolvenzreife-metallbau-berlin-zehlendorf/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/testakte-insolvenzreife-metallbau-berlin-zehlendorf.zip) |
-| Hubschrauberbetrieb Prenzlau | [Aktenseite](../testakten/insolvenzreife-hubschrauber-prenzlau/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
-| Nur die drei Grundakten | [Grundakten-Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/Insolvenzreife_Drei_Grundakten.zip) |
-| Alle drei Originalakten | [Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/Insolvenzreife_Drei_Originalakten.zip) |
+| Keramikfabrik Cottbus | [Aktenseite](../testakten/insolvenzreife-keramikfabrik-cottbus/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-insolvenzreife-keramikfabrik-cottbus.zip) |
+| Metallbau Berlin-Zehlendorf | [Aktenseite](../testakten/insolvenzreife-metallbau-berlin-zehlendorf/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-insolvenzreife-metallbau-berlin-zehlendorf.zip) |
+| Hubschrauberbetrieb Prenzlau | [Aktenseite](../testakten/insolvenzreife-hubschrauber-prenzlau/README.md) · [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-insolvenzreife-hubschrauber-prenzlau.zip) |
+| Nur die drei Grundakten | [Grundakten-Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/Insolvenzreife_Drei_Grundakten.zip) |
+| Alle drei Originalakten | [Sammel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/Insolvenzreife_Drei_Originalakten.zip) |
 
 
 Die drei Fälle verbinden 24 monatliche Bankauszüge pro Unternehmen mit Buchungsdaten, offenen Posten, Geschäftskorrespondenz und den zugehörigen Belegen. Papierartige Briefe und Rechnungen, E-Mails mit Anlagen, Excel und CSV bleiben als Originaldateien erhalten. Die Akten verlangen insbesondere die Prüfung von Verfügbarkeit, Fälligkeit, Durchsetzbarkeit, Bewertungsannahmen und dem damaligen Kenntnisstand.

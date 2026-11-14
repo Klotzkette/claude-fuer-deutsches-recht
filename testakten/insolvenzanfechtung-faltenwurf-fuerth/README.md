@@ -28,8 +28,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzanfechtung-faltenwurf-fuerth_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-faltenwurf-fuerth_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-faltenwurf-fuerth.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-insolvenzanfechtung-faltenwurf-fuerth.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-faltenwurf-fuerth-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-insolvenzanfechtung-faltenwurf-fuerth-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-faltenwurf-fuerth.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-insolvenzanfechtung-faltenwurf-fuerth.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-faltenwurf-fuerth-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-insolvenzanfechtung-faltenwurf-fuerth-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 

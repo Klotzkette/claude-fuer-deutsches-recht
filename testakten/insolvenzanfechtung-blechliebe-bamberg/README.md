@@ -28,8 +28,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzanfechtung-blechliebe-bamberg_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-blechliebe-bamberg_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-blechliebe-bamberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-insolvenzanfechtung-blechliebe-bamberg.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-blechliebe-bamberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-insolvenzanfechtung-blechliebe-bamberg-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-blechliebe-bamberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-insolvenzanfechtung-blechliebe-bamberg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-blechliebe-bamberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-insolvenzanfechtung-blechliebe-bamberg-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 

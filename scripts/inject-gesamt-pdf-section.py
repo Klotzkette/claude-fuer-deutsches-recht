@@ -107,6 +107,18 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
                      'E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als '
                      'eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine '
                      'Lesezeichen führen zu den getrennten Arbeitsbereichen.')
+        if slug == 'forderungsmanagement-baeckerei-behaeltertausch-hamburg':
+            intro = ('Öffnen Sie zuerst `Grundakte` mit den Geschäftsunterlagen bis zum 6. November 2026. '
+                     'Die zugestellte Klage und die gerichtlichen Unterlagen stehen getrennt in '
+                     '`01_Gerichtseingang_2026-11-06`. Öffnen Sie '
+                     '`02_Nachlieferung_2026-11-12_und_13` erst für den zweiten Bearbeitungsstand. '
+                     'Beide ZIPs erhalten diese Ordner; das Originalformat-ZIP enthält die nativen Dateien.')
+            trailer = ('Die Lesezeichen im Gesamt-PDF führen zu allen Aktenstücken. '
+                       'Das Originalformat-ZIP enthält weder Gesamt-PDF noch Musterlösung. '
+                       'Die ZIP-Links führen zur veröffentlichten Aktenfassung.')
+            english = ('English: Start with `Grundakte`, then open the court-intake folder. '
+                       'Keep the later delivery separate until the second review. Both ZIPs preserve '
+                       'these folders; the combined PDF provides bookmarks for the complete file.')
     if slug in selection()["central"]:
         intro = ("Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner "
                  "`Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein "

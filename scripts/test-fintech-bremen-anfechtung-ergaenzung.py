@@ -12,6 +12,7 @@ from pathlib import Path
 from docx import Document
 from openpyxl import load_workbook
 from pypdf import PdfReader
+from fintech_schriftsatz_satz import approved_original_hashes
 
 ROOT=Path(__file__).resolve().parents[1]
 FIX=ROOT/'scripts/fixtures/fintech-bremen'
@@ -21,8 +22,8 @@ OUT=CASE/DATA['folder']
 
 
 class Anfechtungsvertiefung(unittest.TestCase):
-    def test_all_42_originals_preserved(self):
-        expected=json.loads((FIX/'anfechtung-original42-sha256.json').read_text())
+    def test_all_42_originals_match_explicit_layout_migration(self):
+        expected=approved_original_hashes(FIX/'anfechtung-original42-sha256.json')
         self.assertEqual(len(expected),42)
         for name,digest in expected.items():
             with self.subTest(file=name): self.assertEqual(hashlib.sha256((CASE/name).read_bytes()).hexdigest(),digest)

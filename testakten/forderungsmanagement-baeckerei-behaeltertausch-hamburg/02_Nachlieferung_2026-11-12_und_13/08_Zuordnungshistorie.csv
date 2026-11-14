@@ -1,0 +1,6 @@
+﻿zeitpunkt;aktion;qr;seriennummer;kunde_alt;kunde_neu;nutzer;quelle
+2025-12-29T09:24:00+01:00;Aufstellung;QR-71B0;EW-1100-0841;;B1047;DISP-02;Uebergabe 1047-01
+2025-12-29T11:16:00+01:00;Aufstellung;QR-71A9;EW-1100-0842;;K2088;DISP-02;KA-AB-2088
+2026-01-02T07:52:14+01:00;Import;QR-71B0;EW-1100-0841;B1047;K2088;DISP-04;MIG-2026-001.csv Zeile 147
+2026-01-02T07:52:14+01:00;Import;QR-71A9;EW-1100-0842;K2088;B1047;DISP-04;MIG-2026-001.csv Zeile 148
+2026-11-12T09:14:00+01:00;Sicherung;beide;beide;unverändert;unverändert;IT-08;EW-SUP-6841

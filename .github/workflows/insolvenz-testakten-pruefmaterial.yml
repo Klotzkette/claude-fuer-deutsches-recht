@@ -9,6 +9,10 @@ on:
       - 'zahlungsunfaehigkeits-und-ueberschuldungspruefer/**'
       - 'scripts/build-insolvenzreife-*.py'
       - 'scripts/insolvenzreife_grundakten.py'
+      - 'scripts/insolvenzreife_vertragsakten.py'
+      - 'scripts/test-insolvenzreife-vertragsakten.py'
+      - 'scripts/*hamburg-baeckerei*'
+      - 'scripts/build-insolvenz-arbeitsakten-release.py'
       - 'scripts/insolvenzreife_anfechtung_*.py'
       - 'scripts/data/insolvenzreife-anfechtung*.json'
       - 'scripts/test-insolvenzreife-anfechtung.py'
@@ -42,12 +46,16 @@ jobs:
         with:
           node-version: '22'
       - name: Abhängigkeiten installieren
-        run: python3 -m pip install python-docx pypdf reportlab
+        run: python3 -m pip install python-docx pypdf reportlab openpyxl
       - name: Bestand, Aktenstand und Exporttrennung prüfen
         run: python3 scripts/insolvenz-testakten-material.py
       - name: Insolvenzreife aus den drei Akten nachrechnen
         run: node --test zahlungsunfaehigkeits-und-ueberschuldungspruefer/app/engine.test.mjs scripts/test-insolvenzreife-rechenfaelle.mjs
       - name: Originalbelege, Mailanlagen und Grundakten abgleichen
         run: python3 scripts/test-insolvenzreife-grundakten.py
+      - name: Vollständige Finanzierungsverträge und Bankabrechnungen prüfen
+        run: python3 scripts/test-insolvenzreife-vertragsakten.py
       - name: Zahlungskomplexe und ausfüllbare Vorlagen prüfen
         run: python3 scripts/test-insolvenzreife-anfechtung.py
+      - name: Hamburger Behälterakte und geänderte Tatsachengrundlage prüfen
+        run: python3 scripts/test-hamburg-baeckerei-akte.py
