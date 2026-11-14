@@ -15,7 +15,10 @@ on:
       - 'testakten/insolvenzanfechtung-veedelwende-zession-koeln/**'
       - 'testakten/fintech-darlehen-vertragsuebernahme-bremen/**'
       - 'scripts/*insolvenzanfechtung*'
+      - 'scripts/anfechtung_kanzleisatz.py'
+      - 'scripts/test-anfechtung-kanzleisatz.py'
       - 'scripts/*fintech-bremen*'
+      - 'scripts/fintech_schriftsatz_satz.py'
       - 'scripts/data/insolvenzanfechtung-akten.json'
       - 'scripts/fixtures/fintech-bremen/**'
       - 'quality/insolvenzanfechtung/**'
@@ -72,6 +75,8 @@ jobs:
           node scripts/validate-marketplace-import.mjs
           python3 scripts/validate-root-readme-overview.py
           python3 scripts/test-insolvenzanfechtung.py
+          python3 scripts/test-anfechtung-kanzleisatz.py
+          python3 scripts/test-fintech-bremen-schriftsatzsatz.py --read-only
           python3 scripts/test-fintech-bremen-anfechtung-ergaenzung.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-source-release-candidates.py

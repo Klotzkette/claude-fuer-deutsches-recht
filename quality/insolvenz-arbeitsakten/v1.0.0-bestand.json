@@ -1,0 +1,2846 @@
+{
+  "tag": "insolvenz-arbeitsakten-v1.0.0",
+  "cases": {
+    "insolvenzreife-keramikfabrik-cottbus": {
+      "originals": 107,
+      "intake_originals": 100,
+      "formats": {
+        ".csv": 9,
+        ".docx": 8,
+        ".eml": 9,
+        ".pdf": 79,
+        ".xlsx": 1,
+        ".xml": 1
+      },
+      "pdf_documents": 107,
+      "document_pages": 294,
+      "register_pages": 0,
+      "total_pages": 294,
+      "original_files": {
+        "Grundakte/00_Auftrag.docx": "c1ed7fb136ca1dede0e7e673e44d9881fec06a4e6c075f86e8a0035e99720424",
+        "Grundakte/01_Bank/Auszug_2024-07.pdf": "240d14f39665d05ff268d3270ea6b066a8ca1056ef309fc3d1f3c71e92eda9eb",
+        "Grundakte/01_Bank/Auszug_2024-08.pdf": "e6829a3b97e46e797dc06951ae113c4de56a465c716637f4712fc55d2b64f16c",
+        "Grundakte/01_Bank/Auszug_2024-09.pdf": "04ef97770f31b2f0d035047e131f8d33676b7199096f5a5755a370065c20c555",
+        "Grundakte/01_Bank/Auszug_2024-10.pdf": "d5dcb3b26536c959a7dc92094dda04a0288d1daf90cef08d1614be03e9406637",
+        "Grundakte/01_Bank/Auszug_2024-11.pdf": "2bd78575112ac2a05e011b4150c7e090a69ed04671c452f73079d50c9c34a206",
+        "Grundakte/01_Bank/Auszug_2024-12.pdf": "7a0751d5bc78fdda9f4246b5450cea1505899f61a30f78fb9271b8edbb3ee1b5",
+        "Grundakte/01_Bank/Auszug_2025-01.pdf": "1e1e2ed219a9731f93a199703badad11cf786c7ebc93816199bdfea65969066e",
+        "Grundakte/01_Bank/Auszug_2025-02.pdf": "ab478099050adc40e1c3981c13c86f95dcbe9e977ef157010cece97faf460a00",
+        "Grundakte/01_Bank/Auszug_2025-03.pdf": "5a43f626185c593131d7390d3497f9a03824f0fdbdab1be4a88c2826e9aa21c9",
+        "Grundakte/01_Bank/Auszug_2025-04.pdf": "5a8e864d4f89cab964d7126e57a0caac68cd27d538d101b1837b664fe9a615d5",
+        "Grundakte/01_Bank/Auszug_2025-05.pdf": "f08a7acfb453dd406cc158532b69b12ea2c3f17a4665c5a622fc0851e49f17a3",
+        "Grundakte/01_Bank/Auszug_2025-06.pdf": "b6ce7909edcc74ce565ed241998bbd96936b0e5d06f6e3d16e38a18a2eb42fc5",
+        "Grundakte/01_Bank/Auszug_2025-07.pdf": "a25450a62683a3f94fe3cfb14a33a4ca7a2a2dbe06c80cd3a8b639d391032a1c",
+        "Grundakte/01_Bank/Auszug_2025-08.pdf": "01fa3ba9c4e30bcc4c9a88ec5ee0d25dc9079647ed5a7cc9c730a9268f06fafc",
+        "Grundakte/01_Bank/Auszug_2025-09.pdf": "908ad430f7eb4c65a6425f132a2ddf8f4dff0d2d629405272042d62f806499bd",
+        "Grundakte/01_Bank/Auszug_2025-10.pdf": "997a3eedf074e7ffced25937efa7c33a8144323240daaf258e3f481afd0d8d70",
+        "Grundakte/01_Bank/Auszug_2025-11.pdf": "0b1bf8d2546bdac78a83ee5b3f895b1d6a4c767e531ee6ba9db3101144e6f60c",
+        "Grundakte/01_Bank/Auszug_2025-12.pdf": "ed1c1785d86140219a2c55c907f15c5afa10c642b070c87c7d64d2be330659a8",
+        "Grundakte/01_Bank/Auszug_2026-01.pdf": "eda21b433b0a40d79af529b3c34c913928aee752be144c20be2cfd0f49e193bb",
+        "Grundakte/01_Bank/Auszug_2026-02.pdf": "35f7f735bdb632bb613e0a932b740afb17e2c86fbe69da407089e9775dd12b1c",
+        "Grundakte/01_Bank/Auszug_2026-03.pdf": "2d71585c65f140a5226163b00241546cab2001e37ed9b58d2ac124f996704afc",
+        "Grundakte/01_Bank/Auszug_2026-04.pdf": "fe84fc935d1734676e3d05c677d2dd73528c47d3632bf275a179d1b325f17192",
+        "Grundakte/01_Bank/Auszug_2026-05.pdf": "971a46d0e9cee3b3110f431044f2a40bfd3b4fb2bfa631b347485e6285c0fc73",
+        "Grundakte/01_Bank/Auszug_2026-06.pdf": "9234957718134d77850950ad2a7dca445d088dae72eb46cdbecdaadcfa20a7be",
+        "Grundakte/02_Buchhaltung/01_Buchungsjournal_EUR_Cent.csv": "9e7f21bba8b5c55784a374586e1289242f1b10cd276637a177e40a9a78f4051b",
+        "Grundakte/02_Buchhaltung/02_Kreditoren_OP.csv": "d1df6f563d3858ecf9e706d1bc2801145d32680f1a862b62a6c748c78ad7a578",
+        "Grundakte/02_Buchhaltung/03_Debitoren_OP.csv": "ec2739723b957445078edac5cb8d2374959747183556aa43cb30c0456cdf8aaa",
+        "Grundakte/02_Buchhaltung/04_Kreditlinien.csv": "fe4fbe2fb7d275d285caf1e9e483b913a9d46d8eb54c668c189387f705015394",
+        "Grundakte/02_Buchhaltung/05_Stichtagsunterlagen.xlsx": "814ee31e0425680191b8e6d04725d662f06d9b5855588866c73e959d7de14bc8",
+        "Grundakte/02_Buchhaltung/06_CB_Lohnzahlstapel_Mai.csv": "ba19db8b86acaceb9cd887ca2f6710da871d58a9f27fc6fbc21378421b142dc6",
+        "Grundakte/02_Buchhaltung/07_CB_Lohnlauf_Begleitzettel.pdf": "0998fcb49b52d30858d908b8e318021ef7b9591753e73455cdafc2ffa627ad6a",
+        "Grundakte/02_Buchhaltung/08_CB_Zahlungsausgang_ERP.xml": "34235e649f1a16538c47de2d496ae84a3ccba0c737f951b134b42094e30665ea",
+        "Grundakte/03_Korrespondenz/CB-ABG-01.pdf": "0eb5b80e9a520827ac06791363931abaeafbab4d18e30115a9406380bd782174",
+        "Grundakte/03_Korrespondenz/CB-ANK-00.eml": "f3a5ae3132e147b2f8d106a57edc9699e97e9f8c488499cd504cd8d33c412158",
+        "Grundakte/03_Korrespondenz/CB-ANK-01.eml": "3a9ba50afa5feef101a33184783f4dae089638180e5bcdfb87b2ba1326812b90",
+        "Grundakte/03_Korrespondenz/CB-BANK-01.pdf": "2ed016e636c9a75f490306ada88b98d659dffef0b8dec2df892c813d425d1658",
+        "Grundakte/03_Korrespondenz/CB-BANK-02.pdf": "b7c4a37bfbb1afa76f133ec6d2f316a67e3426872a61e15e46b0c34a069f9604",
+        "Grundakte/03_Korrespondenz/CB-CAPEX-01.pdf": "566400bea6a5574ec3df6957ef89cdbca22e0151798b3dff564715ae595e63b5",
+        "Grundakte/03_Korrespondenz/CB-DEB-06.eml": "d9c4b443c0f633258f1e54a0ee9a596514c1dc1f056d2b86ec2e012c5186b590",
+        "Grundakte/03_Korrespondenz/CB-FA-01.pdf": "dc540f697260a65cff3b6a571190dee3bd009c8310432b9f8bedeb9bb7550a3c",
+        "Grundakte/03_Korrespondenz/CB-FA-02.pdf": "6a9d97bf080f7f4ab6f2477923872f3ddbe8a5d27fc0f9e92ec11a9e60e6ecfb",
+        "Grundakte/03_Korrespondenz/CB-FIN-01.pdf": "d336d5722682947034fbf118cc71c60ee910b9b523d1b2f9b5cf37139770da94",
+        "Grundakte/03_Korrespondenz/CB-MAHN-01.pdf": "0c4f7ab77f6e4b812c30743c1974f4368c127715e2dca6e95e9a5d64ef7acff4",
+        "Grundakte/03_Korrespondenz/CB-NR-01.pdf": "0bb2f946956bf9a3f6fe83e302ab67147fa8603ddcfe0170230e0170a765c930",
+        "Grundakte/03_Korrespondenz/CB-PROFIL-01.pdf": "3bf733fa666b1134c91132b0fbdc790f1101ff936225f504fd67ce903dfec719",
+        "Grundakte/03_Korrespondenz/CB-RATE-01.pdf": "0007c7465716f1d471253ce62b9be6d4bd5ee4643e50faf6ac64aa82ff8bce02",
+        "Grundakte/03_Korrespondenz/CB-VOLL-01.pdf": "7382a18cc847b2c1a5f775fb0525f0a3c9935361298a0d830abcc47e51ed8a88",
+        "Grundakte/04_Originalbelege/CB-CAPEX-01_Rechnung.pdf": "55d07e33294a6cd0c4348337f41e288ac49a1015c675bd1ab5a7fa2b3fa580d8",
+        "Grundakte/04_Originalbelege/CB-DEB-01_Ausgangsrechnung.pdf": "060c6522eb27ffe7ff0178328c9f83a5fea2ebf327e167f038a70a6f458ee934",
+        "Grundakte/04_Originalbelege/CB-DEB-01_Leistungsfreigabe.pdf": "f13b2ea6238d36a709b8202e04190d42d60b895d067bd2ee3688b337afd4d933",
+        "Grundakte/04_Originalbelege/CB-DEB-02_Ausgangsrechnung.pdf": "a7edb547b40aa25a812b91f3b717acd5ec6219b5d446ed4bd1282aee9f0ccfe6",
+        "Grundakte/04_Originalbelege/CB-DEB-02_Leistungsfreigabe.pdf": "3f5d11578c18de59b4eefa987aef15a17669574b08c1be859d9dbf2a46c13b2a",
+        "Grundakte/04_Originalbelege/CB-DEB-03_Ausgangsrechnung.pdf": "237a13bbc403bb318eb957d0a237da06c50193b2eb9abd0de01a67a78bb2c21b",
+        "Grundakte/04_Originalbelege/CB-DEB-03_Leistungsfreigabe.pdf": "fb5a77a445f13f851f137127668f999c887a6bd3396819902fb49c36d85f0dd6",
+        "Grundakte/04_Originalbelege/CB-GAS-01_Rechnung.pdf": "be65ffa0a02fa8b01913ff4d5dcb2171a1214c951747d76e3a738f912c117149",
+        "Grundakte/04_Originalbelege/CB-K02-01_Rechnung.pdf": "3ee645c65b22d79d2d39e49cd0ef72bfb6cdafb50871b7c163f95cf307ad51c2",
+        "Grundakte/04_Originalbelege/CB-K12-04_Rechnung.pdf": "bcd0434aa31d83b3bc0b590ff62f5eec8289f046c066538ecbb470b0c761ea42",
+        "Grundakte/05_Betrieb/CB-GAS-02.pdf": "3d1434487a9dd4bb23f04c9b5692adac77237d8f94d79d1fb888c5624f7c9876",
+        "Grundakte/05_Betrieb/CB-LAB-01.pdf": "6a9da551153f5a4849c6ce645a6403ad11600bee58cd995e814edf79185f01b8",
+        "Grundakte/05_Betrieb/CB-TON-03.eml": "ad32ebf5057a53b20be9ea844d50b32cd66e6778b2f7b5944dc627645cae038d",
+        "Grundakte/05_Betrieb/CB-WERK-01.docx": "d347f5667c86614a56b0c48b4bedc9a41a832862125a1af4a1831b7e7f6f2a96",
+        "Grundakte/05_Betrieb/CB-ZAHL-MAIL-01.eml": "f4762e84c80e89a15c3a9eee1992ffa2ee04b36a032cf09344d939bc5bbb468f",
+        "Grundakte/06_Finanzierung/CB-DAR-02.pdf": "f78c219183bfebc5027d8a0f02c7390404d74dce0a492f156f467fc5bd81efd7",
+        "Grundakte/06_Finanzierung/CB-FIN-02.pdf": "c25b38829786951499f530544c840e5faba2c983d65207f0e09226d6f7b1ae3b",
+        "Grundakte/06_Finanzierung/CB-MIETE-02.pdf": "47daa54dfcb69c53728870168bb6ae9b68f00671739c1cacfdd405a0de1a19eb",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-01.pdf": "2438c8da099437ad290efd6222ca4610c96d92ab6939fb700db3f9c315e9bad3",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-02.pdf": "64698256688440741f87f3ba627de84295ed835847fab55cb3a4b331bc91a465",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-03.pdf": "d7a9adc7362c8bec3914e69786bf7913ef823dd565cb1426f12ddb5438ad161a",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-04.pdf": "9be925eeabc67917d98085f8706434b87f331cacb24e28137e2b776ce87d8a89",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-05.pdf": "46fdc70d9c100e660e4f881dccdcf6bd1c190153d529d02b5f3512f9893a2434",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-06.pdf": "96d5065fbf0cc96e7656841a26e77ace88ffa1f3e742173abbdeaa520fc5da92",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-07.pdf": "d47462347b84fddebf53375531dc7090c62a81366270734aac31dfb00beef294",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-08.pdf": "073504fae183daf7b17bede085b713446e91f7f5ed1c899974e1ee33edca3964",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-09.pdf": "1048c1dacf7494257ed9c487fb85f2eda533b00bf799b749121f7c62976a3072",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-10.pdf": "119389f185a4c4831ab682c2d0d0a3100137d42580e04dbf3d3887e05d5b7f1a",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-11.pdf": "d187fe8711295ecf94a56cfc400f2c9bc3a9dbe29c4272229d42fbf292349b4f",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-12.pdf": "680d9a1fcaa79a74c806fa9e789fc67ea8d28f1481492e83b41d722db291c17d",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-13.pdf": "ba1ed84bf55879a37a78d395d37ba962ff2ecf92df6219ad6b467a7bf9e4a55d",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/CB-V-90_Dateiliste.csv": "152931d539efdbf809a4e466a21a2745737d0beed95ce03d38abe0b0b52f0b4f",
+        "Grundakte/07_Vermoegen/CB-INV-11.pdf": "5ec4449218669fdea1002b5e721e050a847efa1fd0fbb3c25198305755a3c52a",
+        "Grundakte/07_Vermoegen/CB-INV-12.pdf": "57625d69192999f7ddea8b3538b08516966b9df47eccb6c58dcaf242382e5fa5",
+        "Grundakte/07_Vermoegen/CB-INV-13.docx": "ed094a5055ff8d5805a8915db5e85a289dbdc8d97407df087003cb82b60e8af4",
+        "Grundakte/07_Vermoegen/CB-RUECK-02.pdf": "9080cc0cc541ae724767d456b7e3ca3771591389b366feaeb2314e5b021d36b3",
+        "Grundakte/08_Uebergabe/CB-Belegablage_Export.csv": "b55ad2e480e42e7813617d4ebdc696805fe34787dca302b9b57f6be4fbb8a6ce",
+        "Grundakte/08_Uebergabe/CB-MAIL-RECH.eml": "fc68f9a1ca5772841b9180fddb594d98ac841f43fb35d6be3c0fe54ce5916df1",
+        "Grundakte/08_Uebergabe/CB-UEB-01.docx": "d77a2cb9b763010cccccf762908d52cdd0da456296662955c0f6686d071141da",
+        "Grundakte/08_Uebergabe/CB-V-91_Vertragsarchiv.eml": "634ab1ee1208a07851881fff3a962a31a0f098ac2b90979bdfd5d936e58e911b",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-01.docx": "d2852907cadf8a3a491df265331aeddda156b5b7749d9abd347ea6769ce37cc5",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-02.pdf": "b54942afd9eccc21dd77427c3ba13ccae3938f4c8fccd83b1e34341270231a4b",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-03.pdf": "8b69d1355753cf5b85844f68568cf35082bec4d15958c0cd2f534b60751c2af1",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-04.pdf": "116fb7969963171f0dd3ba7723352a6819d90d8612549cd5171b83cf15da17f6",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-05.pdf": "90d0226f90b80e27cd6c4687a4dd12575b750fc0681d9ab6d845ec7b9b14a909",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-06.eml": "7e6c81c5c21dd40f08577d9f18ca0e6090317e1cc9138485f3c918fb3800bc4a",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-07.eml": "bb7956cab2798919c9635f5e7dba54251592c05270f88f4ff3c8bc3835b1affe",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-08.pdf": "49909d8b5aa69e90c6587120138cfc702d840e8bdc39c2bd1145e1f3e2cbbe72",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-09.pdf": "7988a254481d30aa986e8ba7c7bf4806c02f5ad55c51658f44ef53e4ee2c0eae",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-10.docx": "2ad31a6c7bf2fb37e979ddef6250dd794f8358ea85032a70f319bc0669c5f7f1",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-11_Bankzuordnung.csv": "e1c0051005e608fdb880674162777f154c70a3f74a1c306a08a98b5fa9c83f46",
+        "Grundakte/09_Zahlungskomplex/CB-ZK-12_Belegregister.csv": "4b462db1835f4e6e8b4f6e902357920d4749126907ed86f1506ce8e82d18c76d",
+        "10_Verfahren/CB-VERF-01.pdf": "a67d73e6b844e78ffd15bb8f2543dbd9a38f0ae84c9dad478c80781a363f29c6",
+        "10_Verfahren/CB-VERF-02.pdf": "e0c6565ce72a7adc2363de1f75668393bf824916361f4957c306e5ee211580af",
+        "10_Verfahren/CB-VERF-03.pdf": "d40bd30f62e9a238254b6e86c8a06603aac47ad2e1f385a4e8de962225094453",
+        "10_Verfahren/CB-VERF-04.pdf": "6c1b768bd078d3ec3aa581718ae49c3efe5a68c5febfccc0d5cf93f63bb780af",
+        "10_Verfahren/CB-VERF-05.pdf": "e3da620369f7360234d81c00b79a782221dd5d2b9bba3d63a591933d3d5835d9",
+        "20_Vorlagen/01_Anfechtungsschreiben.docx": "596e263e2e7addf772d1c1b79ddbf0de3a46382b35f361f4e7c26e7c99c7dad6",
+        "20_Vorlagen/02_Anfechtungsklage.docx": "dca3ffc7c231e00ac3ea96cb912908d4ef234f363e62414bdfe269bb29d42351"
+      },
+      "pdf_files": {
+        "00_Auftrag.pdf": {
+          "sha256": "b335afa7780582cbf97fcc97a0854a7112167fa8124db6ba63728940f0a53af9",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-07.pdf": {
+          "sha256": "240d14f39665d05ff268d3270ea6b066a8ca1056ef309fc3d1f3c71e92eda9eb",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-08.pdf": {
+          "sha256": "e6829a3b97e46e797dc06951ae113c4de56a465c716637f4712fc55d2b64f16c",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-09.pdf": {
+          "sha256": "04ef97770f31b2f0d035047e131f8d33676b7199096f5a5755a370065c20c555",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-10.pdf": {
+          "sha256": "d5dcb3b26536c959a7dc92094dda04a0288d1daf90cef08d1614be03e9406637",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-11.pdf": {
+          "sha256": "2bd78575112ac2a05e011b4150c7e090a69ed04671c452f73079d50c9c34a206",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-12.pdf": {
+          "sha256": "7a0751d5bc78fdda9f4246b5450cea1505899f61a30f78fb9271b8edbb3ee1b5",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-01.pdf": {
+          "sha256": "1e1e2ed219a9731f93a199703badad11cf786c7ebc93816199bdfea65969066e",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-02.pdf": {
+          "sha256": "ab478099050adc40e1c3981c13c86f95dcbe9e977ef157010cece97faf460a00",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-03.pdf": {
+          "sha256": "5a43f626185c593131d7390d3497f9a03824f0fdbdab1be4a88c2826e9aa21c9",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-04.pdf": {
+          "sha256": "5a8e864d4f89cab964d7126e57a0caac68cd27d538d101b1837b664fe9a615d5",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-05.pdf": {
+          "sha256": "f08a7acfb453dd406cc158532b69b12ea2c3f17a4665c5a622fc0851e49f17a3",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-06.pdf": {
+          "sha256": "b6ce7909edcc74ce565ed241998bbd96936b0e5d06f6e3d16e38a18a2eb42fc5",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-07.pdf": {
+          "sha256": "a25450a62683a3f94fe3cfb14a33a4ca7a2a2dbe06c80cd3a8b639d391032a1c",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-08.pdf": {
+          "sha256": "01fa3ba9c4e30bcc4c9a88ec5ee0d25dc9079647ed5a7cc9c730a9268f06fafc",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-09.pdf": {
+          "sha256": "908ad430f7eb4c65a6425f132a2ddf8f4dff0d2d629405272042d62f806499bd",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-10.pdf": {
+          "sha256": "997a3eedf074e7ffced25937efa7c33a8144323240daaf258e3f481afd0d8d70",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-11.pdf": {
+          "sha256": "0b1bf8d2546bdac78a83ee5b3f895b1d6a4c767e531ee6ba9db3101144e6f60c",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-12.pdf": {
+          "sha256": "ed1c1785d86140219a2c55c907f15c5afa10c642b070c87c7d64d2be330659a8",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-01.pdf": {
+          "sha256": "eda21b433b0a40d79af529b3c34c913928aee752be144c20be2cfd0f49e193bb",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-02.pdf": {
+          "sha256": "35f7f735bdb632bb613e0a932b740afb17e2c86fbe69da407089e9775dd12b1c",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-03.pdf": {
+          "sha256": "2d71585c65f140a5226163b00241546cab2001e37ed9b58d2ac124f996704afc",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-04.pdf": {
+          "sha256": "fe84fc935d1734676e3d05c677d2dd73528c47d3632bf275a179d1b325f17192",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-05.pdf": {
+          "sha256": "971a46d0e9cee3b3110f431044f2a40bfd3b4fb2bfa631b347485e6285c0fc73",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-06.pdf": {
+          "sha256": "9234957718134d77850950ad2a7dca445d088dae72eb46cdbecdaadcfa20a7be",
+          "pages": 1
+        },
+        "02_Buchhaltung/01_Buchungsjournal_EUR_Cent.pdf": {
+          "sha256": "8368e70ef8c19f3756701b03ba6f96c05ded2cd0bcb7aa9361a5ab4f6e0a5190",
+          "pages": 70
+        },
+        "02_Buchhaltung/02_Kreditoren_OP.pdf": {
+          "sha256": "f5828e5e95c373b92f25c5f0c0bd044c959561df7de09219d641017146acdcad",
+          "pages": 63
+        },
+        "02_Buchhaltung/03_Debitoren_OP.pdf": {
+          "sha256": "cfbfc83252451d2caf4b5254ebfd0ae60dbe99ba38994c2c9d4af82c43f57bf3",
+          "pages": 24
+        },
+        "02_Buchhaltung/04_Kreditlinien.pdf": {
+          "sha256": "cd92dc478a7dbd8d0ce7155f93fa28dd222fd9c426371acd21f81d56a4a5d520",
+          "pages": 1
+        },
+        "02_Buchhaltung/05_Stichtagsunterlagen.pdf": {
+          "sha256": "f46145fabd380f7d9d9e0f8401a079b4bd092bbccd899890a0f09e511ad921e0",
+          "pages": 6
+        },
+        "02_Buchhaltung/06_CB_Lohnzahlstapel_Mai.pdf": {
+          "sha256": "783284ec6256d283c8c1bbd71b9d4dffcdadc279b1a25e8b3074b2cca05ea5db",
+          "pages": 1
+        },
+        "02_Buchhaltung/07_CB_Lohnlauf_Begleitzettel.pdf": {
+          "sha256": "0998fcb49b52d30858d908b8e318021ef7b9591753e73455cdafc2ffa627ad6a",
+          "pages": 1
+        },
+        "02_Buchhaltung/08_CB_Zahlungsausgang_ERP.pdf": {
+          "sha256": "38ab3841e76c03d11a8f481161db8865b6f09ffa60583dd3aec2738afcd8cc15",
+          "pages": 2
+        },
+        "03_Korrespondenz/CB-ABG-01.pdf": {
+          "sha256": "0eb5b80e9a520827ac06791363931abaeafbab4d18e30115a9406380bd782174",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-ANK-00.pdf": {
+          "sha256": "4a57f008363cef8e6ba35342847eea55299fbb88564f9f6bac4177bfc31f966e",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-ANK-01.pdf": {
+          "sha256": "2df52d0f7dbea6e142b32df9601c6a8c46327b95a98eceffaf9cf66fa9f8baf6",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-BANK-01.pdf": {
+          "sha256": "2ed016e636c9a75f490306ada88b98d659dffef0b8dec2df892c813d425d1658",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-BANK-02.pdf": {
+          "sha256": "b7c4a37bfbb1afa76f133ec6d2f316a67e3426872a61e15e46b0c34a069f9604",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-CAPEX-01.pdf": {
+          "sha256": "566400bea6a5574ec3df6957ef89cdbca22e0151798b3dff564715ae595e63b5",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-DEB-06.pdf": {
+          "sha256": "7c95f0e0b8ea09edd75e2e400f3dcd915ba9ea116aab48afcf6ce4901a87959d",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-FA-01.pdf": {
+          "sha256": "dc540f697260a65cff3b6a571190dee3bd009c8310432b9f8bedeb9bb7550a3c",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-FA-02.pdf": {
+          "sha256": "6a9d97bf080f7f4ab6f2477923872f3ddbe8a5d27fc0f9e92ec11a9e60e6ecfb",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-FIN-01.pdf": {
+          "sha256": "d336d5722682947034fbf118cc71c60ee910b9b523d1b2f9b5cf37139770da94",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-MAHN-01.pdf": {
+          "sha256": "0c4f7ab77f6e4b812c30743c1974f4368c127715e2dca6e95e9a5d64ef7acff4",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-NR-01.pdf": {
+          "sha256": "0bb2f946956bf9a3f6fe83e302ab67147fa8603ddcfe0170230e0170a765c930",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-PROFIL-01.pdf": {
+          "sha256": "3bf733fa666b1134c91132b0fbdc790f1101ff936225f504fd67ce903dfec719",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-RATE-01.pdf": {
+          "sha256": "0007c7465716f1d471253ce62b9be6d4bd5ee4643e50faf6ac64aa82ff8bce02",
+          "pages": 1
+        },
+        "03_Korrespondenz/CB-VOLL-01.pdf": {
+          "sha256": "7382a18cc847b2c1a5f775fb0525f0a3c9935361298a0d830abcc47e51ed8a88",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-CAPEX-01_Rechnung.pdf": {
+          "sha256": "55d07e33294a6cd0c4348337f41e288ac49a1015c675bd1ab5a7fa2b3fa580d8",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-DEB-01_Ausgangsrechnung.pdf": {
+          "sha256": "060c6522eb27ffe7ff0178328c9f83a5fea2ebf327e167f038a70a6f458ee934",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-DEB-01_Leistungsfreigabe.pdf": {
+          "sha256": "f13b2ea6238d36a709b8202e04190d42d60b895d067bd2ee3688b337afd4d933",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-DEB-02_Ausgangsrechnung.pdf": {
+          "sha256": "a7edb547b40aa25a812b91f3b717acd5ec6219b5d446ed4bd1282aee9f0ccfe6",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-DEB-02_Leistungsfreigabe.pdf": {
+          "sha256": "3f5d11578c18de59b4eefa987aef15a17669574b08c1be859d9dbf2a46c13b2a",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-DEB-03_Ausgangsrechnung.pdf": {
+          "sha256": "237a13bbc403bb318eb957d0a237da06c50193b2eb9abd0de01a67a78bb2c21b",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-DEB-03_Leistungsfreigabe.pdf": {
+          "sha256": "fb5a77a445f13f851f137127668f999c887a6bd3396819902fb49c36d85f0dd6",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-GAS-01_Rechnung.pdf": {
+          "sha256": "be65ffa0a02fa8b01913ff4d5dcb2171a1214c951747d76e3a738f912c117149",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-K02-01_Rechnung.pdf": {
+          "sha256": "3ee645c65b22d79d2d39e49cd0ef72bfb6cdafb50871b7c163f95cf307ad51c2",
+          "pages": 1
+        },
+        "04_Originalbelege/CB-K12-04_Rechnung.pdf": {
+          "sha256": "bcd0434aa31d83b3bc0b590ff62f5eec8289f046c066538ecbb470b0c761ea42",
+          "pages": 1
+        },
+        "05_Betrieb/CB-GAS-02.pdf": {
+          "sha256": "3d1434487a9dd4bb23f04c9b5692adac77237d8f94d79d1fb888c5624f7c9876",
+          "pages": 1
+        },
+        "05_Betrieb/CB-LAB-01.pdf": {
+          "sha256": "6a9da551153f5a4849c6ce645a6403ad11600bee58cd995e814edf79185f01b8",
+          "pages": 1
+        },
+        "05_Betrieb/CB-TON-03.pdf": {
+          "sha256": "c5879f7cf3a97d2d588e87ef17c0e65f8495fa25e257c8cf817aaf51eab9e8e2",
+          "pages": 1
+        },
+        "05_Betrieb/CB-WERK-01.pdf": {
+          "sha256": "3bfdaf8843ee409aafdd0ee171ce32a984c0037604b8a264b1069b9693a405e3",
+          "pages": 1
+        },
+        "05_Betrieb/CB-ZAHL-MAIL-01.pdf": {
+          "sha256": "1da768f215b27089ca068a028cc80599ed55e569a6b558443f76a468a3dfee40",
+          "pages": 1
+        },
+        "06_Finanzierung/CB-DAR-02.pdf": {
+          "sha256": "f78c219183bfebc5027d8a0f02c7390404d74dce0a492f156f467fc5bd81efd7",
+          "pages": 1
+        },
+        "06_Finanzierung/CB-FIN-02.pdf": {
+          "sha256": "c25b38829786951499f530544c840e5faba2c983d65207f0e09226d6f7b1ae3b",
+          "pages": 1
+        },
+        "06_Finanzierung/CB-MIETE-02.pdf": {
+          "sha256": "47daa54dfcb69c53728870168bb6ae9b68f00671739c1cacfdd405a0de1a19eb",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-01.pdf": {
+          "sha256": "2438c8da099437ad290efd6222ca4610c96d92ab6939fb700db3f9c315e9bad3",
+          "pages": 3
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-02.pdf": {
+          "sha256": "64698256688440741f87f3ba627de84295ed835847fab55cb3a4b331bc91a465",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-03.pdf": {
+          "sha256": "d7a9adc7362c8bec3914e69786bf7913ef823dd565cb1426f12ddb5438ad161a",
+          "pages": 3
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-04.pdf": {
+          "sha256": "9be925eeabc67917d98085f8706434b87f331cacb24e28137e2b776ce87d8a89",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-05.pdf": {
+          "sha256": "46fdc70d9c100e660e4f881dccdcf6bd1c190153d529d02b5f3512f9893a2434",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-06.pdf": {
+          "sha256": "96d5065fbf0cc96e7656841a26e77ace88ffa1f3e742173abbdeaa520fc5da92",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-07.pdf": {
+          "sha256": "d47462347b84fddebf53375531dc7090c62a81366270734aac31dfb00beef294",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-08.pdf": {
+          "sha256": "073504fae183daf7b17bede085b713446e91f7f5ed1c899974e1ee33edca3964",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-09.pdf": {
+          "sha256": "1048c1dacf7494257ed9c487fb85f2eda533b00bf799b749121f7c62976a3072",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-10.pdf": {
+          "sha256": "119389f185a4c4831ab682c2d0d0a3100137d42580e04dbf3d3887e05d5b7f1a",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-11.pdf": {
+          "sha256": "d187fe8711295ecf94a56cfc400f2c9bc3a9dbe29c4272229d42fbf292349b4f",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-12.pdf": {
+          "sha256": "680d9a1fcaa79a74c806fa9e789fc67ea8d28f1481492e83b41d722db291c17d",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-13.pdf": {
+          "sha256": "ba1ed84bf55879a37a78d395d37ba962ff2ecf92df6219ad6b467a7bf9e4a55d",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/CB-V-90_Dateiliste.pdf": {
+          "sha256": "b54033398e573cfbf75affa5855049866ed591ff5e61f2bcd57e3425e28c6ed6",
+          "pages": 1
+        },
+        "07_Vermoegen/CB-INV-11.pdf": {
+          "sha256": "5ec4449218669fdea1002b5e721e050a847efa1fd0fbb3c25198305755a3c52a",
+          "pages": 1
+        },
+        "07_Vermoegen/CB-INV-12.pdf": {
+          "sha256": "57625d69192999f7ddea8b3538b08516966b9df47eccb6c58dcaf242382e5fa5",
+          "pages": 1
+        },
+        "07_Vermoegen/CB-INV-13.pdf": {
+          "sha256": "f7381142180683172a75f5e19f748b9f0390b9d159682a891281abca7851bac2",
+          "pages": 1
+        },
+        "07_Vermoegen/CB-RUECK-02.pdf": {
+          "sha256": "9080cc0cc541ae724767d456b7e3ca3771591389b366feaeb2314e5b021d36b3",
+          "pages": 1
+        },
+        "08_Uebergabe/CB-Belegablage_Export.pdf": {
+          "sha256": "679e8db59795ce1bb80f8f43615f88de143986080eda14d4d05589689152e3e0",
+          "pages": 2
+        },
+        "08_Uebergabe/CB-MAIL-RECH.pdf": {
+          "sha256": "a4709992ac43769b6a8a2e8f67aacb3666a987e90edec2fe9509e8e656b5b19e",
+          "pages": 1
+        },
+        "08_Uebergabe/CB-UEB-01.pdf": {
+          "sha256": "11d7c9d3ee89bd5966b8bb6e1f4631742a5700344d67b59646136a3dd1e84462",
+          "pages": 1
+        },
+        "08_Uebergabe/CB-V-91_Vertragsarchiv.pdf": {
+          "sha256": "45108f18c0d652ba920ff5bd2ffc99fbe3bc6d0f711cd40f323bc128c3966e6f",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-01.pdf": {
+          "sha256": "eeb7cc80c16ed4b86525c1bc2171c664c478c474f22e1374e1d385f829f673d6",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-02.pdf": {
+          "sha256": "b54942afd9eccc21dd77427c3ba13ccae3938f4c8fccd83b1e34341270231a4b",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-03.pdf": {
+          "sha256": "8b69d1355753cf5b85844f68568cf35082bec4d15958c0cd2f534b60751c2af1",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-04.pdf": {
+          "sha256": "116fb7969963171f0dd3ba7723352a6819d90d8612549cd5171b83cf15da17f6",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-05.pdf": {
+          "sha256": "90d0226f90b80e27cd6c4687a4dd12575b750fc0681d9ab6d845ec7b9b14a909",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-06.pdf": {
+          "sha256": "bac704aed5f0062b66e9cd0846e4593074390b93433780f3b3f2734afa055c42",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-07.pdf": {
+          "sha256": "3b6acfa1f0266b437165f95b9f916c9b6da3d037a098b52f392461760cfc9c96",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-08.pdf": {
+          "sha256": "49909d8b5aa69e90c6587120138cfc702d840e8bdc39c2bd1145e1f3e2cbbe72",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-09.pdf": {
+          "sha256": "7988a254481d30aa986e8ba7c7bf4806c02f5ad55c51658f44ef53e4ee2c0eae",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-10.pdf": {
+          "sha256": "e342ae69b2ff93e5e533359838b145170a66a083ec50f47d650a72302058be02",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-11_Bankzuordnung.pdf": {
+          "sha256": "b89e13214f007b710251f691de856f86558a542e4c10779a7e3fd94901041888",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/CB-ZK-12_Belegregister.pdf": {
+          "sha256": "ebe90dff3008d841185804d0593bfc1e584570ca0800858e6846109aa844909e",
+          "pages": 2
+        },
+        "10_Verfahren/CB-VERF-01.pdf": {
+          "sha256": "a67d73e6b844e78ffd15bb8f2543dbd9a38f0ae84c9dad478c80781a363f29c6",
+          "pages": 1
+        },
+        "10_Verfahren/CB-VERF-02.pdf": {
+          "sha256": "e0c6565ce72a7adc2363de1f75668393bf824916361f4957c306e5ee211580af",
+          "pages": 1
+        },
+        "10_Verfahren/CB-VERF-03.pdf": {
+          "sha256": "d40bd30f62e9a238254b6e86c8a06603aac47ad2e1f385a4e8de962225094453",
+          "pages": 1
+        },
+        "10_Verfahren/CB-VERF-04.pdf": {
+          "sha256": "6c1b768bd078d3ec3aa581718ae49c3efe5a68c5febfccc0d5cf93f63bb780af",
+          "pages": 2
+        },
+        "10_Verfahren/CB-VERF-05.pdf": {
+          "sha256": "e3da620369f7360234d81c00b79a782221dd5d2b9bba3d63a591933d3d5835d9",
+          "pages": 1
+        },
+        "20_Vorlagen/01_Anfechtungsschreiben.pdf": {
+          "sha256": "ac8fc687c423e72e6a75812435b2c6896b4c94150e0a45261a01a26549c787bb",
+          "pages": 6
+        },
+        "20_Vorlagen/02_Anfechtungsklage.pdf": {
+          "sha256": "8228ecffffa419f3333264fe5ea064e20b6c1f83e20a0e916107e0109e34b774",
+          "pages": 8
+        }
+      }
+    },
+    "insolvenzreife-metallbau-berlin-zehlendorf": {
+      "originals": 104,
+      "intake_originals": 97,
+      "formats": {
+        ".csv": 9,
+        ".docx": 9,
+        ".eml": 9,
+        ".pdf": 75,
+        ".xlsx": 1,
+        ".xml": 1
+      },
+      "pdf_documents": 104,
+      "document_pages": 284,
+      "register_pages": 0,
+      "total_pages": 284,
+      "original_files": {
+        "Grundakte/00_Auftrag.docx": "94e9d2423bce96e5c8bef34b17e3ea060b24396b752db4fbb2bd80d9f2e60172",
+        "Grundakte/01_Bank/Auszug_2024-07.pdf": "764db12d8cc00db108b658ab687e99f16cc3ade362c25c71df6b37961602204e",
+        "Grundakte/01_Bank/Auszug_2024-08.pdf": "802ebd2567b3e3e4b3c5a5f6ddb13bd109ea77203847abde571242f080e3e690",
+        "Grundakte/01_Bank/Auszug_2024-09.pdf": "ccfa6672c73c72584e97992908b630770d76a574c376a9f59c94e339c5a44467",
+        "Grundakte/01_Bank/Auszug_2024-10.pdf": "033107ba4d4a2a8372c062c7bb6c9b829ea77a21a3ae56c3eba246abbf79d2ca",
+        "Grundakte/01_Bank/Auszug_2024-11.pdf": "9bdae5ae2193d819423fd6b38668dd5f1b25dd644ed2fbb4e10b18ae07d1ab8c",
+        "Grundakte/01_Bank/Auszug_2024-12.pdf": "1085b832b63a0f47cdedddcd73bcc0b333669ee20b70391fa082e466a9369e5a",
+        "Grundakte/01_Bank/Auszug_2025-01.pdf": "7509b710df77fbf8391b439dc51a6f052d34fa6f8260a219e55ed039620b7e6f",
+        "Grundakte/01_Bank/Auszug_2025-02.pdf": "f57ffd45f6699ade06e49b24fe9c48dd58a19ad1b701279411b90a868869f498",
+        "Grundakte/01_Bank/Auszug_2025-03.pdf": "1a1eb55148423c8100f64b858ad37bd0f42970d713b2a0d216d9615e4ab922ed",
+        "Grundakte/01_Bank/Auszug_2025-04.pdf": "7ad0e156c42f71bc8831618e2d4b669e434d836b66f0d6be4e2fd3dd5c64a25e",
+        "Grundakte/01_Bank/Auszug_2025-05.pdf": "8dd9ed4281e67b5da5025df56351573d6d971bf3780338bb6b7d7aecb09948ab",
+        "Grundakte/01_Bank/Auszug_2025-06.pdf": "01022517da8ede025ceb664e7955c87f95c1e8fde6de659812f5e351ad1be8af",
+        "Grundakte/01_Bank/Auszug_2025-07.pdf": "2eb7e37f6aeff231fc0d627bf921f454b284cdfd17f0d27a47bff5139979f8e5",
+        "Grundakte/01_Bank/Auszug_2025-08.pdf": "e90b9be2d88e0ba34ead660bb01b13cd8f54490202f998cd0142238d5cff8359",
+        "Grundakte/01_Bank/Auszug_2025-09.pdf": "bf2afd3af6ee9b685188cbe08f072239007fa31a71b93e48b5315aa7d357d4a5",
+        "Grundakte/01_Bank/Auszug_2025-10.pdf": "c8c0a79083bbd220df71be8deae5d69c1a331453947cd73c2295c74e1e495f01",
+        "Grundakte/01_Bank/Auszug_2025-11.pdf": "7d892c1929c820a1bd367039ff94f6c1445f2abb8b0888fb35022e0bec9035b8",
+        "Grundakte/01_Bank/Auszug_2025-12.pdf": "8adb3025dbda6b8732535ef37d96b07bf8432c560142033fe4b6ebbd79ebdefa",
+        "Grundakte/01_Bank/Auszug_2026-01.pdf": "32c95d990cd68bbc412d887d7052e89e8f0875d98f8047e816a01a3cf136d0ce",
+        "Grundakte/01_Bank/Auszug_2026-02.pdf": "ab7ed439ae271159ac7139627a4d862e1cdf02b45a9799df8a9ae220d19a8ba2",
+        "Grundakte/01_Bank/Auszug_2026-03.pdf": "ecccc8f1d6e2d6c310b03f1c1de2fd408fad0cabc1dafd3511a0a1bb0e6eecdc",
+        "Grundakte/01_Bank/Auszug_2026-04.pdf": "1a85edbe2c7886d619c958e8f09ea32e40bfb4ef4d1eb02f7e5ef801110cd25a",
+        "Grundakte/01_Bank/Auszug_2026-05.pdf": "fc96f80878ec565f558bb18e13be642e409336ca115483cec96055eb127c3523",
+        "Grundakte/01_Bank/Auszug_2026-06.pdf": "4bd1b9b416141cf2d42f3ff10196bdc70d965f6d3232b778c4ebafd4b456e021",
+        "Grundakte/02_Buchhaltung/01_Buchungsjournal_EUR_Cent.csv": "429e0c522192009eccd771c2fbe4b831fb28b5b847455d435133020fe794a6b6",
+        "Grundakte/02_Buchhaltung/02_Kreditoren_OP.csv": "9066b429747daa831d622307444e7070737bb2b82500341a84c28bafbd8e03d6",
+        "Grundakte/02_Buchhaltung/03_Debitoren_OP.csv": "c2ec625375812f761bb4bfaa1d0b9f2959e3f9e6b80aa159c710f623053c5749",
+        "Grundakte/02_Buchhaltung/04_Kreditlinien.csv": "55596451849009594c232f46a2e54a7bf85a03871a9a264e055d25606cfb2e04",
+        "Grundakte/02_Buchhaltung/05_Stichtagsunterlagen.xlsx": "d9790f01776df99177ca261613134469f5429c1af0823dd30d442f0d75a2d631",
+        "Grundakte/02_Buchhaltung/06_BZ_Lohnzahlstapel_Mai.csv": "082564939caf7dff6c32d2bd839755f9e052a8cd7709d1206f09864a9d4294d4",
+        "Grundakte/02_Buchhaltung/07_BZ_Lohnlauf_Begleitzettel.pdf": "db65d909e2f0f83c39f33653a366cc54ff7fc78153e81888949561e5a149e022",
+        "Grundakte/02_Buchhaltung/08_BZ_Zahlungsausgang_ERP.xml": "2ee147fa6632c5a3d7b3b9987ce6bde72587de8d3c32de1cccb2fd577b4c16d0",
+        "Grundakte/03_Korrespondenz/BZ-ABG-01.pdf": "c9d0ed90962aee2397105cc99156687dad27a93b901a16ff709cd2c7087ebfd4",
+        "Grundakte/03_Korrespondenz/BZ-ANK-01.eml": "ee62a34ae9074d3c250ffd976aba7c49b89c970e1c110dfff788012eb6bfefa1",
+        "Grundakte/03_Korrespondenz/BZ-BANK-01.pdf": "91548c956f3da1171df3dbaeed34206e6b4d6cef7cd61eb2df7848bea938abae",
+        "Grundakte/03_Korrespondenz/BZ-BANK-02.pdf": "48ce114651d91279a8e83fc7816713805b2657f19404fd1e3c5981f5f2e20a5a",
+        "Grundakte/03_Korrespondenz/BZ-CAPEX-01.pdf": "b6c428adcba464bdc956774eedd0e6a6e50b39c991d2183dc9c1fa5e04e8a3da",
+        "Grundakte/03_Korrespondenz/BZ-DEB-06.eml": "5a5ac997c2039f1bd5a5bf0226ccfd86ea45bfa733252f62a479f618fe1dfcc5",
+        "Grundakte/03_Korrespondenz/BZ-INV-01.pdf": "9a8a3e39414352f0274135fc09c30994503dbcc826c8011022b10c97ea7f7551",
+        "Grundakte/03_Korrespondenz/BZ-MAHN-01.pdf": "f5bef9d858137bc7a812f0cc7500596e1f18be28c180e6136a9d28ee4c6dc936",
+        "Grundakte/03_Korrespondenz/BZ-NR-01.pdf": "5690f6a776bb46cb4e643ef615b2309cb4e696842080312dd367a3e105689b54",
+        "Grundakte/03_Korrespondenz/BZ-PROFIL-01.pdf": "0dfa841dee79bd27eacdf8ef95bb944286d642dbea7bc4128c9b34590b88bdb9",
+        "Grundakte/03_Korrespondenz/BZ-STA-01.pdf": "be4db9a5d6149dd9de5272f25a7ef32c5d34f44cfa491c099b2364b0b9b02358",
+        "Grundakte/03_Korrespondenz/BZ-SV-01.pdf": "f9cebdde910357cbe8e0719c42313775b8a9294793a6b697fa7116222676aec8",
+        "Grundakte/03_Korrespondenz/BZ-SV-02.pdf": "c848b1c9beadef5bb1c46d8e8861cc57043bf69f5e125c97fc00a0ae3a5030f9",
+        "Grundakte/03_Korrespondenz/BZ-VOLL-01.pdf": "c1c80039fa9d439bad7223a670fc624781c4b6cf0e107d28601545f2cb107169",
+        "Grundakte/04_Originalbelege/BZ-CAPEX-01_Rechnung.pdf": "264763f30e4c770179e683566103b0f0e5824d6eff7626856699265ea6550d98",
+        "Grundakte/04_Originalbelege/BZ-DEB-01_Ausgangsrechnung.pdf": "1818cd45dd546472b6515ae7f56d3bdbabef1bd133924bc3c0148d081dc7258b",
+        "Grundakte/04_Originalbelege/BZ-DEB-01_Leistungsfreigabe.pdf": "e1264069a30abd58f94bd1f53f8068c3a63c39084419d9e7de9658a4e71e33c9",
+        "Grundakte/04_Originalbelege/BZ-DEB-02_Ausgangsrechnung.pdf": "f154b9a9a1e7530aad60ce4812a18e2a2825c20c2ef0020c3284309ea8ea00cd",
+        "Grundakte/04_Originalbelege/BZ-DEB-02_Leistungsfreigabe.pdf": "d166a6b7d52faccfbe0ef679577b22c538347f91827c29c7d3f5f94519f092b2",
+        "Grundakte/04_Originalbelege/BZ-DEB-03_Ausgangsrechnung.pdf": "4d162b26739aadff06c303da8a42bf4d62577e1bf2e7da4e7ed6206229bef9e1",
+        "Grundakte/04_Originalbelege/BZ-DEB-03_Leistungsfreigabe.pdf": "cb834e37518d371a349978d46ff53d5c28fea5f85f8392b5b92d6f8a0e902849",
+        "Grundakte/04_Originalbelege/BZ-K03-01_Rechnung.pdf": "bb6be875a311006cdf793188890cc20ed2be12ef69ecbd53d90103a2c1280aa8",
+        "Grundakte/04_Originalbelege/BZ-K13-04_Rechnung.pdf": "9dd8c83ef31fcd175b0f82c377171b030de3683bd8a1d61d74956a38d6d49176",
+        "Grundakte/04_Originalbelege/BZ-STA-01_Rechnung.pdf": "07e1354711b3d225e1a55248b8c45de03529bc6d25a7dda532413ecabf6f4e41",
+        "Grundakte/05_Betrieb/BZ-FASS-01.pdf": "236d60f34df023ba49ab40821daf098a7d07365d2de1c2e84dd0e7a9f76cd289",
+        "Grundakte/05_Betrieb/BZ-MONT-01.docx": "c4965dfaad4994d66d1e46cb24fc0e8fe580575a457372f6fd5f636c39ae5b87",
+        "Grundakte/05_Betrieb/BZ-WERK-02.eml": "07e6f8aed96bbe2cccf6ba58ed935f6ba2164f18884b7392cd6ebe4cc0e6f04d",
+        "Grundakte/05_Betrieb/BZ-ZAHL-MAIL-01.eml": "bb976d52a97b01e1b63f909a3dd63362a71af948dbc7207e17dc4d58036d4397",
+        "Grundakte/06_Finanzierung/BZ-DAR-02.pdf": "93ed1793a6f581c3f4b5b06a22a5e259f133d7aa46e9e598a00d06f7f519674f",
+        "Grundakte/06_Finanzierung/BZ-NR-02.eml": "23be753c36979a20b2321cfeba44fb65d4d10776469794f3b7bae1088a9e8f55",
+        "Grundakte/06_Finanzierung/BZ-STA-02.pdf": "663150cb6d7d77917d37356338c89310b6dbf6cfeabe4561b4abb14aaa4f3f23",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-01.pdf": "b8e176e651bc0a360fdf3eb4b9de4560680de46cbe19a763d8f21e9bc70a6800",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-02.pdf": "8baa0737138ed2b9393cf40796e4739a1df0dee7e255e220c3fec7e80f34bd25",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-03.pdf": "e8927e2b1091dc073541213b7778b68787b05cfb685e614826309e3a18f37504",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-04.pdf": "b4219e6b6f0e6476dde87206e201ff135ef294e29fe5006ace9ac902e8a94222",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-05.pdf": "09186001f68c81f9218d2eed848c2c821eb7c01ccda58a40f9f5798ab8d059f9",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-06.pdf": "87d1cf1399ffae74b71a283a16006539bd2132a3bad8133e694699b02ec9c084",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-07.pdf": "1ccd6dfb9f4ab69ea5a4f1f164cb7469055a66921a096e761f3d1067c3706cef",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-08.pdf": "68a9129ec154095bf4e931941ef11a8d64cbc7e20aa8f389a6e4f09ec39f68a0",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-09.pdf": "1d625b156bbf33b872f77e0c8a0a164b218aebac3488db6ee6cbbc37c8d96aa8",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-10.pdf": "025597b26993e26dd764e92a6e07947d34f725d7237192e957e3788c2cb181ef",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-11.pdf": "eef291501b1273e19f5fed72a4c65a200d58a9c75c1bc047e78ae892001e9aef",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/BZ-V-90_Dateiliste.csv": "01084f19d34c0b4631c8922ea777a359259f576fcdf520751a81def75e28f6d4",
+        "Grundakte/07_Vermoegen/BZ-GEW-02.docx": "49af5c59845a02fd602af6a2d9edab1a938709745e14b912e5607c81d8b55a89",
+        "Grundakte/07_Vermoegen/BZ-INV-11.pdf": "ec9024d1325d0b3c719ca858602a0905a630f2eeacfe4f07b2a77b0426567276",
+        "Grundakte/07_Vermoegen/BZ-INV-12.pdf": "e542366eb31312597f072326da4712758fb1ad07df5f777574bd211071aa3ca3",
+        "Grundakte/07_Vermoegen/BZ-INV-13.pdf": "003b4de80e4687f6de594cc9683a0f5754727f2aa2b9090952eaef83fcd1a29f",
+        "Grundakte/07_Vermoegen/BZ-WEG-01.pdf": "54d9d2696f340d4cda247cde35b97f18936ea33754e6a79c8609e48f796333f5",
+        "Grundakte/08_Uebergabe/BZ-Belegablage_Export.csv": "94ffaecb1f960f6bf9e2c830147443a32ab720fffe844a82819385de7e8fb6d5",
+        "Grundakte/08_Uebergabe/BZ-MAIL-RECH.eml": "eadcd9d035d0543efacb6ce7d4d2ae454eb749de10eec3a6cd12af0de62b3497",
+        "Grundakte/08_Uebergabe/BZ-UEB-01.docx": "b7dade41b2b069a6f7f5ec0e95cd11063258e2e1b29f589208e681e0070279f8",
+        "Grundakte/08_Uebergabe/BZ-V-91_Vertragsarchiv.eml": "ed3e6c28e00bfddda9253634b61f857ab7aeab71a583866151db81b1fd9d0089",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-01.docx": "b6fbf745e3bc6bbe9af2d576e3a30c3fd932dae5c334fede923e8aea453eb17f",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-02.pdf": "1045aeb54b3330575c705d71d9ce1eb1704ce95e8b3f100a66d35c462846e4e2",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-03.docx": "2b42bbaf0aef4c236209c2e73aa6cbd8fbb7c623e8c287d896fcdc4f7264afac",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-04.pdf": "7777f9226396c318542b0144824d26c988d8560ef17dc3ddac1017d9cf5b6637",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-05.eml": "908fe13834393fc3f58b37e8062d54607f66222ac5ca6c02fdd65cc9758e4fc2",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-06.docx": "7bb37687790fb9e09d3ab832ffc159007d230c21e62529c974eb3f6f74740621",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-07.eml": "9986a77da19b364bba246a566312f95facdc9ffd3222524d5493b2ea8706dd18",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-08.pdf": "14acb2884f0258b15a25752489ea781c364ac42987c33bf0f61188a30329fb5e",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-09.pdf": "b9165201458a92ffca4eaa080ffd335574ade5fe36a24076129b4bb201e7ead7",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-10.pdf": "cd7c9350ca99b683128e7fc0c2443ef9cd164ae176acdc5f7ecd7ca2d7049bbe",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-11_Bankzuordnung.csv": "09582a3c7b42849eabf532db10410817d33c7cf437381e696589ad70b4750d47",
+        "Grundakte/09_Zahlungskomplex/BZ-ZK-12_Belegregister.csv": "812261e722e1a206e2653905094395c2ded9750590b3c5fe6f7e32bb7956c3a9",
+        "10_Verfahren/BZ-VERF-01.pdf": "2619cf02fa740ac6517ee4bfc8a8788fd582b4b789819b1926f0567d4bb5ba9f",
+        "10_Verfahren/BZ-VERF-02.pdf": "6887cb26e72e4cfcad3119cf9f0f8d728235db88db8ffce1c7984240702c691d",
+        "10_Verfahren/BZ-VERF-03.pdf": "fe7f98b1a14fd74715b1e800ee50a47d9636a8328f98b1284d8377cf39b98c3b",
+        "10_Verfahren/BZ-VERF-04.pdf": "6c33f91ecd3bd13035e605c79e7ef3a6d4e1a238a0da6fa027597f8d581b3082",
+        "10_Verfahren/BZ-VERF-05.pdf": "db64c30cc528ceb8f1cb285b8237a37d7b525f9285bc8761350c94e8552071f6",
+        "20_Vorlagen/01_Anfechtungsschreiben.docx": "596e263e2e7addf772d1c1b79ddbf0de3a46382b35f361f4e7c26e7c99c7dad6",
+        "20_Vorlagen/02_Anfechtungsklage.docx": "dca3ffc7c231e00ac3ea96cb912908d4ef234f363e62414bdfe269bb29d42351"
+      },
+      "pdf_files": {
+        "00_Auftrag.pdf": {
+          "sha256": "063aca353b8f20193c9401db9dc52b1b229d43614cf8f34c5bb5d892a32ec697",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-07.pdf": {
+          "sha256": "764db12d8cc00db108b658ab687e99f16cc3ade362c25c71df6b37961602204e",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-08.pdf": {
+          "sha256": "802ebd2567b3e3e4b3c5a5f6ddb13bd109ea77203847abde571242f080e3e690",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-09.pdf": {
+          "sha256": "ccfa6672c73c72584e97992908b630770d76a574c376a9f59c94e339c5a44467",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-10.pdf": {
+          "sha256": "033107ba4d4a2a8372c062c7bb6c9b829ea77a21a3ae56c3eba246abbf79d2ca",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-11.pdf": {
+          "sha256": "9bdae5ae2193d819423fd6b38668dd5f1b25dd644ed2fbb4e10b18ae07d1ab8c",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-12.pdf": {
+          "sha256": "1085b832b63a0f47cdedddcd73bcc0b333669ee20b70391fa082e466a9369e5a",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-01.pdf": {
+          "sha256": "7509b710df77fbf8391b439dc51a6f052d34fa6f8260a219e55ed039620b7e6f",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-02.pdf": {
+          "sha256": "f57ffd45f6699ade06e49b24fe9c48dd58a19ad1b701279411b90a868869f498",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-03.pdf": {
+          "sha256": "1a1eb55148423c8100f64b858ad37bd0f42970d713b2a0d216d9615e4ab922ed",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-04.pdf": {
+          "sha256": "7ad0e156c42f71bc8831618e2d4b669e434d836b66f0d6be4e2fd3dd5c64a25e",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-05.pdf": {
+          "sha256": "8dd9ed4281e67b5da5025df56351573d6d971bf3780338bb6b7d7aecb09948ab",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-06.pdf": {
+          "sha256": "01022517da8ede025ceb664e7955c87f95c1e8fde6de659812f5e351ad1be8af",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-07.pdf": {
+          "sha256": "2eb7e37f6aeff231fc0d627bf921f454b284cdfd17f0d27a47bff5139979f8e5",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-08.pdf": {
+          "sha256": "e90b9be2d88e0ba34ead660bb01b13cd8f54490202f998cd0142238d5cff8359",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-09.pdf": {
+          "sha256": "bf2afd3af6ee9b685188cbe08f072239007fa31a71b93e48b5315aa7d357d4a5",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-10.pdf": {
+          "sha256": "c8c0a79083bbd220df71be8deae5d69c1a331453947cd73c2295c74e1e495f01",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-11.pdf": {
+          "sha256": "7d892c1929c820a1bd367039ff94f6c1445f2abb8b0888fb35022e0bec9035b8",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-12.pdf": {
+          "sha256": "8adb3025dbda6b8732535ef37d96b07bf8432c560142033fe4b6ebbd79ebdefa",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-01.pdf": {
+          "sha256": "32c95d990cd68bbc412d887d7052e89e8f0875d98f8047e816a01a3cf136d0ce",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-02.pdf": {
+          "sha256": "ab7ed439ae271159ac7139627a4d862e1cdf02b45a9799df8a9ae220d19a8ba2",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-03.pdf": {
+          "sha256": "ecccc8f1d6e2d6c310b03f1c1de2fd408fad0cabc1dafd3511a0a1bb0e6eecdc",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-04.pdf": {
+          "sha256": "1a85edbe2c7886d619c958e8f09ea32e40bfb4ef4d1eb02f7e5ef801110cd25a",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-05.pdf": {
+          "sha256": "fc96f80878ec565f558bb18e13be642e409336ca115483cec96055eb127c3523",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-06.pdf": {
+          "sha256": "4bd1b9b416141cf2d42f3ff10196bdc70d965f6d3232b778c4ebafd4b456e021",
+          "pages": 1
+        },
+        "02_Buchhaltung/01_Buchungsjournal_EUR_Cent.pdf": {
+          "sha256": "474be8bd93ca883a5c2f4ce831080e5533f09f511416bab76593652431714742",
+          "pages": 67
+        },
+        "02_Buchhaltung/02_Kreditoren_OP.pdf": {
+          "sha256": "d392312bf5cb402fed17ba17d1dc9d3899096c1b9af8e8a90131ca6999eab598",
+          "pages": 61
+        },
+        "02_Buchhaltung/03_Debitoren_OP.pdf": {
+          "sha256": "db21c0d3a7487ec80d691cecf9b85424e9a6a5f6e43bda7b371c61d1e1a355a1",
+          "pages": 23
+        },
+        "02_Buchhaltung/04_Kreditlinien.pdf": {
+          "sha256": "7a130c8175824896f363e89e72489ba23538b5e42c378ebf8f0913f037b2872b",
+          "pages": 1
+        },
+        "02_Buchhaltung/05_Stichtagsunterlagen.pdf": {
+          "sha256": "c0e3e1375d7c40880cc6ed8223bd762c01fa013054a3150b9700d894017426ad",
+          "pages": 6
+        },
+        "02_Buchhaltung/06_BZ_Lohnzahlstapel_Mai.pdf": {
+          "sha256": "fe70df3a895262a53dbbd06d71168d5e29e2a1b94b6ffada04369bb35081a12b",
+          "pages": 1
+        },
+        "02_Buchhaltung/07_BZ_Lohnlauf_Begleitzettel.pdf": {
+          "sha256": "db65d909e2f0f83c39f33653a366cc54ff7fc78153e81888949561e5a149e022",
+          "pages": 1
+        },
+        "02_Buchhaltung/08_BZ_Zahlungsausgang_ERP.pdf": {
+          "sha256": "1388d9795c3508db69899b570add69a40301cb4dcf550449b644c999a5785cb1",
+          "pages": 2
+        },
+        "03_Korrespondenz/BZ-ABG-01.pdf": {
+          "sha256": "c9d0ed90962aee2397105cc99156687dad27a93b901a16ff709cd2c7087ebfd4",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-ANK-01.pdf": {
+          "sha256": "50939f646f90018aad4084318e1f15e8196167117d18a7e4370af1bd621edb22",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-BANK-01.pdf": {
+          "sha256": "91548c956f3da1171df3dbaeed34206e6b4d6cef7cd61eb2df7848bea938abae",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-BANK-02.pdf": {
+          "sha256": "48ce114651d91279a8e83fc7816713805b2657f19404fd1e3c5981f5f2e20a5a",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-CAPEX-01.pdf": {
+          "sha256": "b6c428adcba464bdc956774eedd0e6a6e50b39c991d2183dc9c1fa5e04e8a3da",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-DEB-06.pdf": {
+          "sha256": "2fcc7ec6528645235712c69f6785bbdd0628f36b70070520484b4638785bddf7",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-INV-01.pdf": {
+          "sha256": "9a8a3e39414352f0274135fc09c30994503dbcc826c8011022b10c97ea7f7551",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-MAHN-01.pdf": {
+          "sha256": "f5bef9d858137bc7a812f0cc7500596e1f18be28c180e6136a9d28ee4c6dc936",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-NR-01.pdf": {
+          "sha256": "5690f6a776bb46cb4e643ef615b2309cb4e696842080312dd367a3e105689b54",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-PROFIL-01.pdf": {
+          "sha256": "0dfa841dee79bd27eacdf8ef95bb944286d642dbea7bc4128c9b34590b88bdb9",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-STA-01.pdf": {
+          "sha256": "be4db9a5d6149dd9de5272f25a7ef32c5d34f44cfa491c099b2364b0b9b02358",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-SV-01.pdf": {
+          "sha256": "f9cebdde910357cbe8e0719c42313775b8a9294793a6b697fa7116222676aec8",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-SV-02.pdf": {
+          "sha256": "c848b1c9beadef5bb1c46d8e8861cc57043bf69f5e125c97fc00a0ae3a5030f9",
+          "pages": 1
+        },
+        "03_Korrespondenz/BZ-VOLL-01.pdf": {
+          "sha256": "c1c80039fa9d439bad7223a670fc624781c4b6cf0e107d28601545f2cb107169",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-CAPEX-01_Rechnung.pdf": {
+          "sha256": "264763f30e4c770179e683566103b0f0e5824d6eff7626856699265ea6550d98",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-DEB-01_Ausgangsrechnung.pdf": {
+          "sha256": "1818cd45dd546472b6515ae7f56d3bdbabef1bd133924bc3c0148d081dc7258b",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-DEB-01_Leistungsfreigabe.pdf": {
+          "sha256": "e1264069a30abd58f94bd1f53f8068c3a63c39084419d9e7de9658a4e71e33c9",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-DEB-02_Ausgangsrechnung.pdf": {
+          "sha256": "f154b9a9a1e7530aad60ce4812a18e2a2825c20c2ef0020c3284309ea8ea00cd",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-DEB-02_Leistungsfreigabe.pdf": {
+          "sha256": "d166a6b7d52faccfbe0ef679577b22c538347f91827c29c7d3f5f94519f092b2",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-DEB-03_Ausgangsrechnung.pdf": {
+          "sha256": "4d162b26739aadff06c303da8a42bf4d62577e1bf2e7da4e7ed6206229bef9e1",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-DEB-03_Leistungsfreigabe.pdf": {
+          "sha256": "cb834e37518d371a349978d46ff53d5c28fea5f85f8392b5b92d6f8a0e902849",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-K03-01_Rechnung.pdf": {
+          "sha256": "bb6be875a311006cdf793188890cc20ed2be12ef69ecbd53d90103a2c1280aa8",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-K13-04_Rechnung.pdf": {
+          "sha256": "9dd8c83ef31fcd175b0f82c377171b030de3683bd8a1d61d74956a38d6d49176",
+          "pages": 1
+        },
+        "04_Originalbelege/BZ-STA-01_Rechnung.pdf": {
+          "sha256": "07e1354711b3d225e1a55248b8c45de03529bc6d25a7dda532413ecabf6f4e41",
+          "pages": 1
+        },
+        "05_Betrieb/BZ-FASS-01.pdf": {
+          "sha256": "236d60f34df023ba49ab40821daf098a7d07365d2de1c2e84dd0e7a9f76cd289",
+          "pages": 1
+        },
+        "05_Betrieb/BZ-MONT-01.pdf": {
+          "sha256": "e60fe705ec05ff6a1c07ff225015cca23fd4a4ecb1e3c31729a209c1843773ba",
+          "pages": 1
+        },
+        "05_Betrieb/BZ-WERK-02.pdf": {
+          "sha256": "bf56f91b76b9c4d2ec8ab2e16f9153ccd41c139145043de90a64589be3c451a7",
+          "pages": 1
+        },
+        "05_Betrieb/BZ-ZAHL-MAIL-01.pdf": {
+          "sha256": "3e840d92cc423a7dfbe176e78a8f2e97e41a767271880ef0dba387443593e35d",
+          "pages": 1
+        },
+        "06_Finanzierung/BZ-DAR-02.pdf": {
+          "sha256": "93ed1793a6f581c3f4b5b06a22a5e259f133d7aa46e9e598a00d06f7f519674f",
+          "pages": 1
+        },
+        "06_Finanzierung/BZ-NR-02.pdf": {
+          "sha256": "c696b2c886e110c412503bc4675f9991f84081675adabc3a406204845c5e0257",
+          "pages": 1
+        },
+        "06_Finanzierung/BZ-STA-02.pdf": {
+          "sha256": "663150cb6d7d77917d37356338c89310b6dbf6cfeabe4561b4abb14aaa4f3f23",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-01.pdf": {
+          "sha256": "b8e176e651bc0a360fdf3eb4b9de4560680de46cbe19a763d8f21e9bc70a6800",
+          "pages": 3
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-02.pdf": {
+          "sha256": "8baa0737138ed2b9393cf40796e4739a1df0dee7e255e220c3fec7e80f34bd25",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-03.pdf": {
+          "sha256": "e8927e2b1091dc073541213b7778b68787b05cfb685e614826309e3a18f37504",
+          "pages": 3
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-04.pdf": {
+          "sha256": "b4219e6b6f0e6476dde87206e201ff135ef294e29fe5006ace9ac902e8a94222",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-05.pdf": {
+          "sha256": "09186001f68c81f9218d2eed848c2c821eb7c01ccda58a40f9f5798ab8d059f9",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-06.pdf": {
+          "sha256": "87d1cf1399ffae74b71a283a16006539bd2132a3bad8133e694699b02ec9c084",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-07.pdf": {
+          "sha256": "1ccd6dfb9f4ab69ea5a4f1f164cb7469055a66921a096e761f3d1067c3706cef",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-08.pdf": {
+          "sha256": "68a9129ec154095bf4e931941ef11a8d64cbc7e20aa8f389a6e4f09ec39f68a0",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-09.pdf": {
+          "sha256": "1d625b156bbf33b872f77e0c8a0a164b218aebac3488db6ee6cbbc37c8d96aa8",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-10.pdf": {
+          "sha256": "025597b26993e26dd764e92a6e07947d34f725d7237192e957e3788c2cb181ef",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-11.pdf": {
+          "sha256": "eef291501b1273e19f5fed72a4c65a200d58a9c75c1bc047e78ae892001e9aef",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/BZ-V-90_Dateiliste.pdf": {
+          "sha256": "138dc82fcfc17af7c7ffd91b424b96200897c7763ba6f3a99012ab52dd51c4a6",
+          "pages": 1
+        },
+        "07_Vermoegen/BZ-GEW-02.pdf": {
+          "sha256": "7d1a3c03c311a6bd132535e6d722cf7b43447c336e0024f1d9e819d697ee9146",
+          "pages": 1
+        },
+        "07_Vermoegen/BZ-INV-11.pdf": {
+          "sha256": "ec9024d1325d0b3c719ca858602a0905a630f2eeacfe4f07b2a77b0426567276",
+          "pages": 1
+        },
+        "07_Vermoegen/BZ-INV-12.pdf": {
+          "sha256": "e542366eb31312597f072326da4712758fb1ad07df5f777574bd211071aa3ca3",
+          "pages": 1
+        },
+        "07_Vermoegen/BZ-INV-13.pdf": {
+          "sha256": "003b4de80e4687f6de594cc9683a0f5754727f2aa2b9090952eaef83fcd1a29f",
+          "pages": 1
+        },
+        "07_Vermoegen/BZ-WEG-01.pdf": {
+          "sha256": "54d9d2696f340d4cda247cde35b97f18936ea33754e6a79c8609e48f796333f5",
+          "pages": 1
+        },
+        "08_Uebergabe/BZ-Belegablage_Export.pdf": {
+          "sha256": "52c204137ce7d61b10af320ac4f4a686b6dfe1fa62e6d03a9d56194b6583fb56",
+          "pages": 2
+        },
+        "08_Uebergabe/BZ-MAIL-RECH.pdf": {
+          "sha256": "2d48a7e6c1af9d502b23ffb4ffd18bd64d6f303b030ced779396f3de91f82a72",
+          "pages": 1
+        },
+        "08_Uebergabe/BZ-UEB-01.pdf": {
+          "sha256": "1fcbdfb92bd51a07d55ff6efc7d5987d25bf746edc29bd700149b99a8ad700f8",
+          "pages": 1
+        },
+        "08_Uebergabe/BZ-V-91_Vertragsarchiv.pdf": {
+          "sha256": "f86cca6f5dc29a411e390f6ab199f86e136c30627100a88fa19d379bd7680997",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-01.pdf": {
+          "sha256": "e88379e0646b907b5d4deb589311d2b628f97b003a048e4bfe36f692eb840da2",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-02.pdf": {
+          "sha256": "1045aeb54b3330575c705d71d9ce1eb1704ce95e8b3f100a66d35c462846e4e2",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-03.pdf": {
+          "sha256": "9681b35a00516fe9308f85431369a4976d877eb533ed19f1c26c27e9e73486b1",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-04.pdf": {
+          "sha256": "7777f9226396c318542b0144824d26c988d8560ef17dc3ddac1017d9cf5b6637",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-05.pdf": {
+          "sha256": "62f3fa5a52e9ba14d6f579354ee87724b5dc7d9d5f4b01c58571155324cee96a",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-06.pdf": {
+          "sha256": "bf488d9d426a689bcbce828c510624a603e747b4fe2dcc35e6ce461271813e5c",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-07.pdf": {
+          "sha256": "1138c9ed7380e22428811f49d61f1ed00b911f1af77c3d44f029e5328acdec82",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-08.pdf": {
+          "sha256": "14acb2884f0258b15a25752489ea781c364ac42987c33bf0f61188a30329fb5e",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-09.pdf": {
+          "sha256": "b9165201458a92ffca4eaa080ffd335574ade5fe36a24076129b4bb201e7ead7",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-10.pdf": {
+          "sha256": "cd7c9350ca99b683128e7fc0c2443ef9cd164ae176acdc5f7ecd7ca2d7049bbe",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-11_Bankzuordnung.pdf": {
+          "sha256": "f65989522057a96f6b995b5fba579eecbbcd4265def0f0a38d145e8fe8acb26f",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/BZ-ZK-12_Belegregister.pdf": {
+          "sha256": "a12248483c095d8af62a325d825ff3dbf74ea18bb779a8ff92fda74721e81a7b",
+          "pages": 2
+        },
+        "10_Verfahren/BZ-VERF-01.pdf": {
+          "sha256": "2619cf02fa740ac6517ee4bfc8a8788fd582b4b789819b1926f0567d4bb5ba9f",
+          "pages": 1
+        },
+        "10_Verfahren/BZ-VERF-02.pdf": {
+          "sha256": "6887cb26e72e4cfcad3119cf9f0f8d728235db88db8ffce1c7984240702c691d",
+          "pages": 1
+        },
+        "10_Verfahren/BZ-VERF-03.pdf": {
+          "sha256": "fe7f98b1a14fd74715b1e800ee50a47d9636a8328f98b1284d8377cf39b98c3b",
+          "pages": 1
+        },
+        "10_Verfahren/BZ-VERF-04.pdf": {
+          "sha256": "6c33f91ecd3bd13035e605c79e7ef3a6d4e1a238a0da6fa027597f8d581b3082",
+          "pages": 2
+        },
+        "10_Verfahren/BZ-VERF-05.pdf": {
+          "sha256": "db64c30cc528ceb8f1cb285b8237a37d7b525f9285bc8761350c94e8552071f6",
+          "pages": 1
+        },
+        "20_Vorlagen/01_Anfechtungsschreiben.pdf": {
+          "sha256": "ac8fc687c423e72e6a75812435b2c6896b4c94150e0a45261a01a26549c787bb",
+          "pages": 6
+        },
+        "20_Vorlagen/02_Anfechtungsklage.pdf": {
+          "sha256": "8228ecffffa419f3333264fe5ea064e20b6c1f83e20a0e916107e0109e34b774",
+          "pages": 8
+        }
+      }
+    },
+    "insolvenzreife-hubschrauber-prenzlau": {
+      "originals": 108,
+      "intake_originals": 101,
+      "formats": {
+        ".csv": 9,
+        ".docx": 8,
+        ".eml": 11,
+        ".pdf": 78,
+        ".xlsx": 1,
+        ".xml": 1
+      },
+      "pdf_documents": 108,
+      "document_pages": 298,
+      "register_pages": 0,
+      "total_pages": 298,
+      "original_files": {
+        "Grundakte/00_Auftrag.docx": "6f44d5ae7e2e68f1b4504a1009f739f24174e8235f5952b4e3aaef65e1eb389f",
+        "Grundakte/01_Bank/Auszug_2024-07.pdf": "65d235f573684bf922baf50e84b8910eb388decb81d878d4e010739d9ac43d04",
+        "Grundakte/01_Bank/Auszug_2024-08.pdf": "66c403b6bd735c7ca835d6362b6ad14fd0edd8ec27dd63161835e2d2b98394f6",
+        "Grundakte/01_Bank/Auszug_2024-09.pdf": "e63b7017e0c494f14e8816e2fc84f0229783871e0f4291182f05269ec453e223",
+        "Grundakte/01_Bank/Auszug_2024-10.pdf": "909033c125fa67c0a8122dfc5b5d65bcc56280eec9f18dc64ea616f8f3d504b4",
+        "Grundakte/01_Bank/Auszug_2024-11.pdf": "4d73766cb0ed19c7207b18242a3b29b3fec07deebc2ddb10e6aaad98aa4d555a",
+        "Grundakte/01_Bank/Auszug_2024-12.pdf": "383f4744acde044f8dcf31c29d98460584fa02cd5fbe900f6512c6e766e6dc2a",
+        "Grundakte/01_Bank/Auszug_2025-01.pdf": "ab6d8c0beede9a640ed169201df90484e4557333faf89fd5a9e9651563010338",
+        "Grundakte/01_Bank/Auszug_2025-02.pdf": "e67461791b1d30aa4f39d99c81fc50d927c444809d93e432490e384558d32e92",
+        "Grundakte/01_Bank/Auszug_2025-03.pdf": "554cd8cbaa52325aadb2324ed107c99ebfa78f0a8129e3e5d1bdbd985a107a38",
+        "Grundakte/01_Bank/Auszug_2025-04.pdf": "7479169afecef8043459a72fda2395d3a57792a8418dcfaa513eda605c7484c2",
+        "Grundakte/01_Bank/Auszug_2025-05.pdf": "d34b4427f34877f3b14d32d88c55754374b5e9bacde4030836b23f62ec2a01cf",
+        "Grundakte/01_Bank/Auszug_2025-06.pdf": "d4c31050054d248c4f66d3ec29c508f5af55814950f9352e5d6c523949bc76eb",
+        "Grundakte/01_Bank/Auszug_2025-07.pdf": "a782aad7aa420cc49d3326ee2b2057b688522598b383cc02e53f84f077bc6a09",
+        "Grundakte/01_Bank/Auszug_2025-08.pdf": "e8d479728c759cdecb370621b06f78aaeb86efba2aed6d3d1a01b05e705f1da7",
+        "Grundakte/01_Bank/Auszug_2025-09.pdf": "12058cf22c5e102d928c721947821c70b992e469bd001ca65e178fb388026793",
+        "Grundakte/01_Bank/Auszug_2025-10.pdf": "39675d7d823518612d4aa19724e69d23d0e6fd05de5fd15aa5294c2f435e7afe",
+        "Grundakte/01_Bank/Auszug_2025-11.pdf": "abbbaeed09a3b98408b95c1426cf998c266dab39a75740b5d98116710d459902",
+        "Grundakte/01_Bank/Auszug_2025-12.pdf": "d7585a8b19364a386844902f602db04ec7e74182b58ad827122e41f57dce7a56",
+        "Grundakte/01_Bank/Auszug_2026-01.pdf": "7ab02946d4840ce5f8f562e640f486c2611e89859079d9f0953c753e52eda892",
+        "Grundakte/01_Bank/Auszug_2026-02.pdf": "c5e2357cbbc99d73bc21a1453f6d5d62345d6596688df09d0c5763122e0522a3",
+        "Grundakte/01_Bank/Auszug_2026-03.pdf": "2e4fe6a90303348157aa749d987cf45b7a3f9c4a9920adb6a4088ff36c4fa414",
+        "Grundakte/01_Bank/Auszug_2026-04.pdf": "68202dee6ce53b23a9ed75eb3fe6b1322ad6bd9a099a67d220bec70b15aefde0",
+        "Grundakte/01_Bank/Auszug_2026-05.pdf": "f792878f16e11a2e37cec687550932c19a98fe5bd96c254cbe5cfee6fbc61c73",
+        "Grundakte/01_Bank/Auszug_2026-06.pdf": "06de06a3f8d22c1386fa9f272b428c3c6500172c552e44ce109b2226c63b2dfc",
+        "Grundakte/02_Buchhaltung/01_Buchungsjournal_EUR_Cent.csv": "8d5c52d4bb032ad3f68451d070750510cad4453e2444d9f3bec57d73341a67f0",
+        "Grundakte/02_Buchhaltung/02_Kreditoren_OP.csv": "97a1c89c571ff1f9ef2bc79aa3819c6d741036e486b0a3f9d43aac97be904d61",
+        "Grundakte/02_Buchhaltung/03_Debitoren_OP.csv": "610b12c8cfdbef9d7b2119ade85aceaa4b641f4e18e40a24e55ff3119567d06c",
+        "Grundakte/02_Buchhaltung/04_Kreditlinien.csv": "7db489edc1a5f66160d7fd3d880793ebb4649b65a5213dd13077d8802a95a174",
+        "Grundakte/02_Buchhaltung/05_Stichtagsunterlagen.xlsx": "d446750753b2ef9930523a4d088270542e7903b62a9111b5ca8da37834228d0f",
+        "Grundakte/02_Buchhaltung/06_PR_Lohnzahlstapel_Mai.csv": "f32800c74c7885760a202913cccc36d48c37c7b64714e4270e3bb1bd9acb459e",
+        "Grundakte/02_Buchhaltung/07_PR_Lohnlauf_Begleitzettel.pdf": "84b99e707ce116cec0e97aae5b3b6292dc07ee5c1347cdb5c7841a69654db4ea",
+        "Grundakte/02_Buchhaltung/08_PR_Zahlungsausgang_ERP.xml": "7f8b8625681d2192b6821023f51747fa28c3c73ec9a4fc7754906afd9b233303",
+        "Grundakte/03_Korrespondenz/PR-ABG-01.pdf": "7dd4d468468982f8eec1022a76c2176b24e9d6d39d2c1a54bf18ab5b61ef3df4",
+        "Grundakte/03_Korrespondenz/PR-ANK-00.eml": "06f53e54b83ed89d09a7dccb3a3cb5071c8e19dc55b577799c8395719e61ca9b",
+        "Grundakte/03_Korrespondenz/PR-ANK-01.eml": "c0babdf1410828e65cd2b97fd989411e4946e051ea2195cfc5a13f8b0f3f7b41",
+        "Grundakte/03_Korrespondenz/PR-BANK-01.pdf": "3198d540648fc5a8cb901b6760e3d3d70ed4a35f617ab5b2df26574caaf955bc",
+        "Grundakte/03_Korrespondenz/PR-CAPEX-01.pdf": "e7ada9134799c53f8c49b6d43b289f883b4551709164744376645fd775d252de",
+        "Grundakte/03_Korrespondenz/PR-DEB-04.eml": "052d440bb638828dbfdb859145134ebe76cc9b83a7687e21ec56e3ab4ff9c5b5",
+        "Grundakte/03_Korrespondenz/PR-MAHN-01.pdf": "553042771a428b66117ad80f9ad2741573eedad481c7a5d68fa84fcb7f4df54a",
+        "Grundakte/03_Korrespondenz/PR-PAT-01.pdf": "64cfd8fe72a733e2943341aee87e885e792b332a6d308c402bcecd23d7952977",
+        "Grundakte/03_Korrespondenz/PR-PAT-02.eml": "fefe35b926b4aa463bf2d08c294c638476400498c6d88e6ddbf105ad1a3f817c",
+        "Grundakte/03_Korrespondenz/PR-PROFIL-01.pdf": "794f694f000691fa35981a372453807e284efc8105dfa000ad135bb50a7cf87c",
+        "Grundakte/03_Korrespondenz/PR-RES-01.pdf": "f9d2fb33d520f2ee4a836b7c8e95de44de69b67729b8a3f30e49ea4903e32389",
+        "Grundakte/03_Korrespondenz/PR-SV-01.pdf": "fa6a423276de3d67c964f9a89e40c1f0e298d6f51ad47bc3810ab7063687e0ff",
+        "Grundakte/03_Korrespondenz/PR-VOLL-01.pdf": "a87e238214d2caed7a437e34afa1a036b5ef0ca317d9addb7c5f3a5bbd916852",
+        "Grundakte/04_Originalbelege/PR-CAPEX-01_Rechnung.pdf": "c9a64fcce7dd2a6953ba152c76f8d6685dc8e18fb3111b3777bdd123bf3fd59e",
+        "Grundakte/04_Originalbelege/PR-DEB-01_Ausgangsrechnung.pdf": "b03f73a6675aa87cd399814e22e0543cdc6a56d1a850a39215d1b5636b2b4f6b",
+        "Grundakte/04_Originalbelege/PR-DEB-01_Leistungsfreigabe.pdf": "3e21014d93b3466e17ffe3739a7c9f36972885d25d0a3877e4aa0a466169bfb1",
+        "Grundakte/04_Originalbelege/PR-DEB-02_Ausgangsrechnung.pdf": "01ee303df01774d4baa496c8d3dc2ef1f0d14cbd404196e0c439a4800c65d1b4",
+        "Grundakte/04_Originalbelege/PR-DEB-02_Leistungsfreigabe.pdf": "8d704ee237a8831d5b13dc36f696896bdc45032f8fc4fdd438e5c7eede89ee93",
+        "Grundakte/04_Originalbelege/PR-DEB-03_Ausgangsrechnung.pdf": "c59b4927b00442ef26985a30891c7ad232e92c956b069cf058441818d6ebab83",
+        "Grundakte/04_Originalbelege/PR-DEB-03_Leistungsfreigabe.pdf": "968294250dd5458f2ba792dad4334617f4da29590d7e71bb1c013748aaa470cd",
+        "Grundakte/04_Originalbelege/PR-K03-01_Rechnung.pdf": "6aa0382cc91fd8d59397ef55aaf2c54704360a67554ca29a7581a503a449c55d",
+        "Grundakte/04_Originalbelege/PR-K11-04_Rechnung.pdf": "0ffe2f78b8890d65108ea1668651ed029a88b6ad37c746fbe5a1f2d2780fb536",
+        "Grundakte/04_Originalbelege/PR-ROTOR-01_Rechnung.pdf": "e8899b3c0c66fe9c96cd30ae5e9337ea8d61e8d1c472aa0eefd02f1679e67bc8",
+        "Grundakte/05_Betrieb/PR-CHART-01.pdf": "cc68d947b5a03fd76692c543dc42798e4f28f3e930abbfc2b8e544b5761ac0e2",
+        "Grundakte/05_Betrieb/PR-FLOT-01.docx": "44eb0a0d0c776be2197656c11e5b26083978f2e33d60b5e2a670c5b9c2743385",
+        "Grundakte/05_Betrieb/PR-HANG-03.eml": "c622bfe554dcfd9978a506e9d08ce4b345ce22763853a0f5a0b8df279dde4f7b",
+        "Grundakte/05_Betrieb/PR-ZAHL-MAIL-01.eml": "0963dcde039251338f2b5b50c54ba2ae5b54b140b4503bbe21384b4eff1933d2",
+        "Grundakte/06_Finanzierung/PR-KART-01.pdf": "7375f60f006e0061d862a6f4f13d66687a8762bc93cee13a84061376a9065823",
+        "Grundakte/06_Finanzierung/PR-LEASE-03.pdf": "4a274868beec9840a3cf511498244a284755de137a94e37065e8ee824ab32b4f",
+        "Grundakte/06_Finanzierung/PR-NR-02.pdf": "c80882f9a9df508ebd842500dbea30e75c739bff77a7f1247d90ad590782e836",
+        "Grundakte/06_Finanzierung/PR-PAT-03.pdf": "05ddd96b49346f20a91d458fbe94a2ca1bf164c2a379c6d421fefc468c2d10e8",
+        "Grundakte/06_Finanzierung/PR-PAT-04.docx": "a9c44785315a6a783e7f8106a79fdfc8a37fdc00baf83c9a2284041d0a016da2",
+        "Grundakte/06_Finanzierung/PR-PAT-05.pdf": "0009dec78c59e6c51a2c73ea1766204f39f0d7c9f5fdd68c9be86f22ae1fa869",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-01.pdf": "0bb6204101269e87d4236526a4397c255896d7c79b8a131c37fbbc76fd1deefe",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-02.pdf": "9c417482d375102b8afbf073caa0a94ff38556bef64619033b2b57ca708fd196",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-03.pdf": "11fa14c157147c5b8c2833c3c3b4ba40cd4aeda6078a5fd644a1e608ea5d7f6b",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-04.pdf": "585ba0d4787fe28d41a70dfe0e4d1b343cb557ab345e7b4eb8f885418d706753",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-05.pdf": "acc0529daff22d6c8a1ba9466a50a0df6a054ed7fd57aac716b9338a81ce9994",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-06.pdf": "728c7580b08a43235836fd56b2fb061b39f3558194ee1372ac62ee757c09188b",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-07.pdf": "3f8ad0efa6a3b766c9d3104bb756dd0c8f483f228f7f5e1619f553c0da157919",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-09.pdf": "f740d28058b37711a8796c02f718698494c42e745680b06d9bdbb7061b4d4b1f",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-10.pdf": "17efad95a5f4043edc968f90fdb7468c4d6538fe1bca679f2baf871bc20bef8d",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-11.pdf": "895683964b6fe899e4f22d42da7d6bed1162bec8a471ce151f036554130635e9",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-12.pdf": "bfbb900ff5c88f116a50c4910c27c9fa0c3430460c927d5cddc9accf8624a457",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-13.pdf": "1d2a10ad485ab20bae320738f485d1fde56e91e6fdd404c73e08907448c4fe4f",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-14.pdf": "96f598ea704cf94eb60c810c219ed6e0f256231624774483fd3f867184f19ea2",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-15.pdf": "a1bc93a32b185ad87b51a0962b674cb8abeff017d5419ddd823ed834ec80ad42",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-16.pdf": "4bd48dababa7e740a94fb9745fca3e7246639a1bbf31ab64d0e6fb7071b10bc8",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-17.pdf": "c778f3d82e4e621ef093d8b9bfd5e97c1a08bf9a7f3bf6b6b230a0814b489520",
+        "Grundakte/06_Finanzierung/Vertragsausfertigungen/PR-V-90_Dateiliste.csv": "6cc04cdfbdcf370ff8041346b2b89c3a3f786fc2d857a269be4e00b4edc80132",
+        "Grundakte/07_Vermoegen/PR-INV-11.pdf": "54a9b496057853c0a4a8ea66ea05754f964af0a6230af10dde48e998131b93c8",
+        "Grundakte/07_Vermoegen/PR-VCH-02.docx": "b32d0edc3c1445b9735a5b23fc5cb486a5379b1766f35d659498d7ee380c23ab",
+        "Grundakte/08_Uebergabe/PR-Belegablage_Export.csv": "6ba3971d69f36d97dd52a0e22f3b09869471984752f71b92e98c819bbb39d2b8",
+        "Grundakte/08_Uebergabe/PR-MAIL-RECH.eml": "4674aab2111bd1fd4ecfc76a26d47ce4ecc7bdf7f9aae022a5f91faac7fa2baa",
+        "Grundakte/08_Uebergabe/PR-UEB-01.docx": "bd1d8adf4a24b88a6c2b89169b861afe966154929c231bec88eb02ab8d277efa",
+        "Grundakte/08_Uebergabe/PR-V-91_Vertragsarchiv.eml": "1e51d168c5185087839d9e2991e5e0b5e8e3bd17461be42375d779ff41a01ccd",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-01.docx": "67b18a01c3012fd725823ea25ae222c82e7ff6f0dd833d683b2011afdb89a9fb",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-02.pdf": "dcff9986df1135bc3f6e673a6263052d8cf540432e923443e69ddbf84a685fbf",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-03.pdf": "78ffcd7f4676c1ca267812f8d536190b3b15356408f9ef6f8ee02268c7d61566",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-04.eml": "9a315bdf7721a80aa43d105fa5e3eda8a0dbc3a8615e469158926ac7c579e26e",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-05.eml": "3ff94c71175095f30a42eea3dfd76048f24d255cb8bfe7ae82d4bed74cec0579",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-06.pdf": "09fc813e737d3215b998a155338f7740e44647cf268e2a5ce637092fe57f6c5e",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-07.pdf": "f9374ac685356861dd39a458730d6047732fbf64f86df657b7ce92c0d2c6adfe",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-08.pdf": "646d32ffe5318ffbec83b84a412d28164b1ac6a46cd371a6c653395baab651f5",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-09.pdf": "e5100b79d545ee6deff8c816d5ea96011101e06a66796092af93d3c6d97fb687",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-10.eml": "ec2d658b700cdc62b64b619572ce6ada67fd5398d415b1a447c8e99365276da7",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-11_Bankzuordnung.csv": "233f6d2b52d63dbb96a3389a32d46942acb76276094180a62962a48cfe3bcbac",
+        "Grundakte/09_Zahlungskomplex/PR-ZK-12_Belegregister.csv": "51704e62f7f00c7187cd072874b1c95f003193f6fe09e1abf94abb76d0d7237e",
+        "10_Verfahren/PR-VERF-01.pdf": "29109be808e0cd0c3bb04be448421c4cdc72244662966d687d9475f47dfb2a52",
+        "10_Verfahren/PR-VERF-02.pdf": "e8ce4197df5ad22c687abf62cdb7ea47f74d409c119d5d4c461fd88df31061b8",
+        "10_Verfahren/PR-VERF-03.pdf": "80ddeaab0b692f4750b68bc42bf1a5429b18a36e328f74a7405c04156be7bb51",
+        "10_Verfahren/PR-VERF-04.pdf": "7f8de381dca3013c75802899d8f742265924f1516193787eb9006b465bc720ef",
+        "10_Verfahren/PR-VERF-05.pdf": "2598085060212ddea44768227f234b06b27d880f18ad79eff29a8b7a4e1b9e7f",
+        "20_Vorlagen/01_Anfechtungsschreiben.docx": "596e263e2e7addf772d1c1b79ddbf0de3a46382b35f361f4e7c26e7c99c7dad6",
+        "20_Vorlagen/02_Anfechtungsklage.docx": "dca3ffc7c231e00ac3ea96cb912908d4ef234f363e62414bdfe269bb29d42351"
+      },
+      "pdf_files": {
+        "00_Auftrag.pdf": {
+          "sha256": "71c9e28af2c0cc11fa028bf44413f800ac2ffab597516cd075cc2c90af41a883",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-07.pdf": {
+          "sha256": "65d235f573684bf922baf50e84b8910eb388decb81d878d4e010739d9ac43d04",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-08.pdf": {
+          "sha256": "66c403b6bd735c7ca835d6362b6ad14fd0edd8ec27dd63161835e2d2b98394f6",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-09.pdf": {
+          "sha256": "e63b7017e0c494f14e8816e2fc84f0229783871e0f4291182f05269ec453e223",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-10.pdf": {
+          "sha256": "909033c125fa67c0a8122dfc5b5d65bcc56280eec9f18dc64ea616f8f3d504b4",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-11.pdf": {
+          "sha256": "4d73766cb0ed19c7207b18242a3b29b3fec07deebc2ddb10e6aaad98aa4d555a",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2024-12.pdf": {
+          "sha256": "383f4744acde044f8dcf31c29d98460584fa02cd5fbe900f6512c6e766e6dc2a",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-01.pdf": {
+          "sha256": "ab6d8c0beede9a640ed169201df90484e4557333faf89fd5a9e9651563010338",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-02.pdf": {
+          "sha256": "e67461791b1d30aa4f39d99c81fc50d927c444809d93e432490e384558d32e92",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-03.pdf": {
+          "sha256": "554cd8cbaa52325aadb2324ed107c99ebfa78f0a8129e3e5d1bdbd985a107a38",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-04.pdf": {
+          "sha256": "7479169afecef8043459a72fda2395d3a57792a8418dcfaa513eda605c7484c2",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-05.pdf": {
+          "sha256": "d34b4427f34877f3b14d32d88c55754374b5e9bacde4030836b23f62ec2a01cf",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-06.pdf": {
+          "sha256": "d4c31050054d248c4f66d3ec29c508f5af55814950f9352e5d6c523949bc76eb",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-07.pdf": {
+          "sha256": "a782aad7aa420cc49d3326ee2b2057b688522598b383cc02e53f84f077bc6a09",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-08.pdf": {
+          "sha256": "e8d479728c759cdecb370621b06f78aaeb86efba2aed6d3d1a01b05e705f1da7",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-09.pdf": {
+          "sha256": "12058cf22c5e102d928c721947821c70b992e469bd001ca65e178fb388026793",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-10.pdf": {
+          "sha256": "39675d7d823518612d4aa19724e69d23d0e6fd05de5fd15aa5294c2f435e7afe",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-11.pdf": {
+          "sha256": "abbbaeed09a3b98408b95c1426cf998c266dab39a75740b5d98116710d459902",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2025-12.pdf": {
+          "sha256": "d7585a8b19364a386844902f602db04ec7e74182b58ad827122e41f57dce7a56",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-01.pdf": {
+          "sha256": "7ab02946d4840ce5f8f562e640f486c2611e89859079d9f0953c753e52eda892",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-02.pdf": {
+          "sha256": "c5e2357cbbc99d73bc21a1453f6d5d62345d6596688df09d0c5763122e0522a3",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-03.pdf": {
+          "sha256": "2e4fe6a90303348157aa749d987cf45b7a3f9c4a9920adb6a4088ff36c4fa414",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-04.pdf": {
+          "sha256": "68202dee6ce53b23a9ed75eb3fe6b1322ad6bd9a099a67d220bec70b15aefde0",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-05.pdf": {
+          "sha256": "f792878f16e11a2e37cec687550932c19a98fe5bd96c254cbe5cfee6fbc61c73",
+          "pages": 1
+        },
+        "01_Bank/Auszug_2026-06.pdf": {
+          "sha256": "06de06a3f8d22c1386fa9f272b428c3c6500172c552e44ce109b2226c63b2dfc",
+          "pages": 1
+        },
+        "02_Buchhaltung/01_Buchungsjournal_EUR_Cent.pdf": {
+          "sha256": "9a643d332c0418577dc3eb4013364e34d45df6fbd02f635c093b94cd353b6033",
+          "pages": 70
+        },
+        "02_Buchhaltung/02_Kreditoren_OP.pdf": {
+          "sha256": "0d3a00c471321281a50a2a66b69c41e0b90a25448c7a10c7978f3fa3a50156e8",
+          "pages": 63
+        },
+        "02_Buchhaltung/03_Debitoren_OP.pdf": {
+          "sha256": "16a69957f9bba16b3b3eb7e693d47297c2ffa20fd06136bc683cc883930fda8f",
+          "pages": 24
+        },
+        "02_Buchhaltung/04_Kreditlinien.pdf": {
+          "sha256": "8818104b25b8e5558f71d12feed79cbc12fc80d94593247405122e3ef2581542",
+          "pages": 1
+        },
+        "02_Buchhaltung/05_Stichtagsunterlagen.pdf": {
+          "sha256": "672d4a259bf290cab7d1c8d2caad3a0ae69f3418e797f792b5a790fd9e76a325",
+          "pages": 6
+        },
+        "02_Buchhaltung/06_PR_Lohnzahlstapel_Mai.pdf": {
+          "sha256": "cae3ef09de8a033ad7c7088cf3d9bd674c94ddc823dd4ade8b3d13c466527490",
+          "pages": 1
+        },
+        "02_Buchhaltung/07_PR_Lohnlauf_Begleitzettel.pdf": {
+          "sha256": "84b99e707ce116cec0e97aae5b3b6292dc07ee5c1347cdb5c7841a69654db4ea",
+          "pages": 1
+        },
+        "02_Buchhaltung/08_PR_Zahlungsausgang_ERP.pdf": {
+          "sha256": "c08aaf7ed077f3a24cd509195fd44e18dbfb410dab39fd379a994637a3da3f6b",
+          "pages": 2
+        },
+        "03_Korrespondenz/PR-ABG-01.pdf": {
+          "sha256": "7dd4d468468982f8eec1022a76c2176b24e9d6d39d2c1a54bf18ab5b61ef3df4",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-ANK-00.pdf": {
+          "sha256": "7e9d071186b2941552719575f4052c0315806f413faf03fa39a1a12279357708",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-ANK-01.pdf": {
+          "sha256": "160849391d1883b55bceff664492641a76716a53a583ee3803f860a95a0fc19a",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-BANK-01.pdf": {
+          "sha256": "3198d540648fc5a8cb901b6760e3d3d70ed4a35f617ab5b2df26574caaf955bc",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-CAPEX-01.pdf": {
+          "sha256": "e7ada9134799c53f8c49b6d43b289f883b4551709164744376645fd775d252de",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-DEB-04.pdf": {
+          "sha256": "b3e689143a9a7048494a3fbef777448e74a20589038dc2b4d0802658ec7b7560",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-MAHN-01.pdf": {
+          "sha256": "553042771a428b66117ad80f9ad2741573eedad481c7a5d68fa84fcb7f4df54a",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-PAT-01.pdf": {
+          "sha256": "64cfd8fe72a733e2943341aee87e885e792b332a6d308c402bcecd23d7952977",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-PAT-02.pdf": {
+          "sha256": "8a196b8a7d160eac5aebc7d6e222a6ff9b098473f4e5762d503334d11fa9e379",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-PROFIL-01.pdf": {
+          "sha256": "794f694f000691fa35981a372453807e284efc8105dfa000ad135bb50a7cf87c",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-RES-01.pdf": {
+          "sha256": "f9d2fb33d520f2ee4a836b7c8e95de44de69b67729b8a3f30e49ea4903e32389",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-SV-01.pdf": {
+          "sha256": "fa6a423276de3d67c964f9a89e40c1f0e298d6f51ad47bc3810ab7063687e0ff",
+          "pages": 1
+        },
+        "03_Korrespondenz/PR-VOLL-01.pdf": {
+          "sha256": "a87e238214d2caed7a437e34afa1a036b5ef0ca317d9addb7c5f3a5bbd916852",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-CAPEX-01_Rechnung.pdf": {
+          "sha256": "c9a64fcce7dd2a6953ba152c76f8d6685dc8e18fb3111b3777bdd123bf3fd59e",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-DEB-01_Ausgangsrechnung.pdf": {
+          "sha256": "b03f73a6675aa87cd399814e22e0543cdc6a56d1a850a39215d1b5636b2b4f6b",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-DEB-01_Leistungsfreigabe.pdf": {
+          "sha256": "3e21014d93b3466e17ffe3739a7c9f36972885d25d0a3877e4aa0a466169bfb1",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-DEB-02_Ausgangsrechnung.pdf": {
+          "sha256": "01ee303df01774d4baa496c8d3dc2ef1f0d14cbd404196e0c439a4800c65d1b4",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-DEB-02_Leistungsfreigabe.pdf": {
+          "sha256": "8d704ee237a8831d5b13dc36f696896bdc45032f8fc4fdd438e5c7eede89ee93",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-DEB-03_Ausgangsrechnung.pdf": {
+          "sha256": "c59b4927b00442ef26985a30891c7ad232e92c956b069cf058441818d6ebab83",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-DEB-03_Leistungsfreigabe.pdf": {
+          "sha256": "968294250dd5458f2ba792dad4334617f4da29590d7e71bb1c013748aaa470cd",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-K03-01_Rechnung.pdf": {
+          "sha256": "6aa0382cc91fd8d59397ef55aaf2c54704360a67554ca29a7581a503a449c55d",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-K11-04_Rechnung.pdf": {
+          "sha256": "0ffe2f78b8890d65108ea1668651ed029a88b6ad37c746fbe5a1f2d2780fb536",
+          "pages": 1
+        },
+        "04_Originalbelege/PR-ROTOR-01_Rechnung.pdf": {
+          "sha256": "e8899b3c0c66fe9c96cd30ae5e9337ea8d61e8d1c472aa0eefd02f1679e67bc8",
+          "pages": 1
+        },
+        "05_Betrieb/PR-CHART-01.pdf": {
+          "sha256": "cc68d947b5a03fd76692c543dc42798e4f28f3e930abbfc2b8e544b5761ac0e2",
+          "pages": 1
+        },
+        "05_Betrieb/PR-FLOT-01.pdf": {
+          "sha256": "6b9fd7a79d555f58c40419cfd9936cb66a97088041407fad5a9088a8a0819146",
+          "pages": 1
+        },
+        "05_Betrieb/PR-HANG-03.pdf": {
+          "sha256": "6f6a44c839229cc1bb0fabdb8c06ae3ad4da2ca6a49f9655cbaf19e58a1507a8",
+          "pages": 1
+        },
+        "05_Betrieb/PR-ZAHL-MAIL-01.pdf": {
+          "sha256": "639973e473d7b487324876d53f2560d62ebca2aab43520a840c603a9627cd359",
+          "pages": 1
+        },
+        "06_Finanzierung/PR-KART-01.pdf": {
+          "sha256": "7375f60f006e0061d862a6f4f13d66687a8762bc93cee13a84061376a9065823",
+          "pages": 1
+        },
+        "06_Finanzierung/PR-LEASE-03.pdf": {
+          "sha256": "4a274868beec9840a3cf511498244a284755de137a94e37065e8ee824ab32b4f",
+          "pages": 1
+        },
+        "06_Finanzierung/PR-NR-02.pdf": {
+          "sha256": "c80882f9a9df508ebd842500dbea30e75c739bff77a7f1247d90ad590782e836",
+          "pages": 1
+        },
+        "06_Finanzierung/PR-PAT-03.pdf": {
+          "sha256": "05ddd96b49346f20a91d458fbe94a2ca1bf164c2a379c6d421fefc468c2d10e8",
+          "pages": 1
+        },
+        "06_Finanzierung/PR-PAT-04.pdf": {
+          "sha256": "632d32084debeb05dfc17dcabb4ce80a03325da8f9a32695ac283acc93f53525",
+          "pages": 1
+        },
+        "06_Finanzierung/PR-PAT-05.pdf": {
+          "sha256": "0009dec78c59e6c51a2c73ea1766204f39f0d7c9f5fdd68c9be86f22ae1fa869",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-01.pdf": {
+          "sha256": "0bb6204101269e87d4236526a4397c255896d7c79b8a131c37fbbc76fd1deefe",
+          "pages": 3
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-02.pdf": {
+          "sha256": "9c417482d375102b8afbf073caa0a94ff38556bef64619033b2b57ca708fd196",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-03.pdf": {
+          "sha256": "11fa14c157147c5b8c2833c3c3b4ba40cd4aeda6078a5fd644a1e608ea5d7f6b",
+          "pages": 3
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-04.pdf": {
+          "sha256": "585ba0d4787fe28d41a70dfe0e4d1b343cb557ab345e7b4eb8f885418d706753",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-05.pdf": {
+          "sha256": "acc0529daff22d6c8a1ba9466a50a0df6a054ed7fd57aac716b9338a81ce9994",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-06.pdf": {
+          "sha256": "728c7580b08a43235836fd56b2fb061b39f3558194ee1372ac62ee757c09188b",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-07.pdf": {
+          "sha256": "3f8ad0efa6a3b766c9d3104bb756dd0c8f483f228f7f5e1619f553c0da157919",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-09.pdf": {
+          "sha256": "f740d28058b37711a8796c02f718698494c42e745680b06d9bdbb7061b4d4b1f",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-10.pdf": {
+          "sha256": "17efad95a5f4043edc968f90fdb7468c4d6538fe1bca679f2baf871bc20bef8d",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-11.pdf": {
+          "sha256": "895683964b6fe899e4f22d42da7d6bed1162bec8a471ce151f036554130635e9",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-12.pdf": {
+          "sha256": "bfbb900ff5c88f116a50c4910c27c9fa0c3430460c927d5cddc9accf8624a457",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-13.pdf": {
+          "sha256": "1d2a10ad485ab20bae320738f485d1fde56e91e6fdd404c73e08907448c4fe4f",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-14.pdf": {
+          "sha256": "96f598ea704cf94eb60c810c219ed6e0f256231624774483fd3f867184f19ea2",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-15.pdf": {
+          "sha256": "a1bc93a32b185ad87b51a0962b674cb8abeff017d5419ddd823ed834ec80ad42",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-16.pdf": {
+          "sha256": "4bd48dababa7e740a94fb9745fca3e7246639a1bbf31ab64d0e6fb7071b10bc8",
+          "pages": 2
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-17.pdf": {
+          "sha256": "c778f3d82e4e621ef093d8b9bfd5e97c1a08bf9a7f3bf6b6b230a0814b489520",
+          "pages": 1
+        },
+        "06_Finanzierung/Vertragsausfertigungen/PR-V-90_Dateiliste.pdf": {
+          "sha256": "f441f5b5ed5a92ed9e4d51a1892e460fc51565313630ca088e1a02c9d0792f91",
+          "pages": 1
+        },
+        "07_Vermoegen/PR-INV-11.pdf": {
+          "sha256": "54a9b496057853c0a4a8ea66ea05754f964af0a6230af10dde48e998131b93c8",
+          "pages": 1
+        },
+        "07_Vermoegen/PR-VCH-02.pdf": {
+          "sha256": "35bec255afbc549e16fdeece4ef5fbb4b113c5dbb42fd45b40c4d36c9d867d92",
+          "pages": 1
+        },
+        "08_Uebergabe/PR-Belegablage_Export.pdf": {
+          "sha256": "8ecb186608e09460e7e48761a99b838d957e602e2744d61d9f6a2be60a38f9ab",
+          "pages": 2
+        },
+        "08_Uebergabe/PR-MAIL-RECH.pdf": {
+          "sha256": "eb6718525bb5626561c464970c6c13792ad02df3d3ebd3e0dd386710b64dfa02",
+          "pages": 1
+        },
+        "08_Uebergabe/PR-UEB-01.pdf": {
+          "sha256": "e11170e86208dddeba9b0b3878c837a29c67de7ca7f06fd6cfaee8ef2f495f4f",
+          "pages": 1
+        },
+        "08_Uebergabe/PR-V-91_Vertragsarchiv.pdf": {
+          "sha256": "872e1c8ac0b8b3451797e24b1a320a9a6f47012ee7076340fe31c8b7ee394126",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-01.pdf": {
+          "sha256": "a419112bee8a73a9dadf7398c049041c6dcdfec9c0e41e48f2f920328760f61d",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-02.pdf": {
+          "sha256": "dcff9986df1135bc3f6e673a6263052d8cf540432e923443e69ddbf84a685fbf",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-03.pdf": {
+          "sha256": "78ffcd7f4676c1ca267812f8d536190b3b15356408f9ef6f8ee02268c7d61566",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-04.pdf": {
+          "sha256": "d614785d1349d66c95d9e01406ec3dfeb41144b6b127b6517769588986d29e7c",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-05.pdf": {
+          "sha256": "4009caf03ec3cb455cc947978cc2bbb303101a5a5e7c75acb1c1e96d9d72816f",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-06.pdf": {
+          "sha256": "09fc813e737d3215b998a155338f7740e44647cf268e2a5ce637092fe57f6c5e",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-07.pdf": {
+          "sha256": "f9374ac685356861dd39a458730d6047732fbf64f86df657b7ce92c0d2c6adfe",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-08.pdf": {
+          "sha256": "646d32ffe5318ffbec83b84a412d28164b1ac6a46cd371a6c653395baab651f5",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-09.pdf": {
+          "sha256": "e5100b79d545ee6deff8c816d5ea96011101e06a66796092af93d3c6d97fb687",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-10.pdf": {
+          "sha256": "6cc1672ac1ec8af336c4eddafca7cf4632f2096308373a7b8a99e3792b003424",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-11_Bankzuordnung.pdf": {
+          "sha256": "99ebb55588520d3e4c660f43669faa2bb53961c688a6c08d137777c82510fc1c",
+          "pages": 1
+        },
+        "09_Zahlungskomplex/PR-ZK-12_Belegregister.pdf": {
+          "sha256": "0adfb00a78a9559755bfba976d48029a0328f2197e36cc8e8c922cd4460d9bc8",
+          "pages": 2
+        },
+        "10_Verfahren/PR-VERF-01.pdf": {
+          "sha256": "29109be808e0cd0c3bb04be448421c4cdc72244662966d687d9475f47dfb2a52",
+          "pages": 1
+        },
+        "10_Verfahren/PR-VERF-02.pdf": {
+          "sha256": "e8ce4197df5ad22c687abf62cdb7ea47f74d409c119d5d4c461fd88df31061b8",
+          "pages": 1
+        },
+        "10_Verfahren/PR-VERF-03.pdf": {
+          "sha256": "80ddeaab0b692f4750b68bc42bf1a5429b18a36e328f74a7405c04156be7bb51",
+          "pages": 1
+        },
+        "10_Verfahren/PR-VERF-04.pdf": {
+          "sha256": "7f8de381dca3013c75802899d8f742265924f1516193787eb9006b465bc720ef",
+          "pages": 2
+        },
+        "10_Verfahren/PR-VERF-05.pdf": {
+          "sha256": "2598085060212ddea44768227f234b06b27d880f18ad79eff29a8b7a4e1b9e7f",
+          "pages": 1
+        },
+        "20_Vorlagen/01_Anfechtungsschreiben.pdf": {
+          "sha256": "ac8fc687c423e72e6a75812435b2c6896b4c94150e0a45261a01a26549c787bb",
+          "pages": 6
+        },
+        "20_Vorlagen/02_Anfechtungsklage.pdf": {
+          "sha256": "8228ecffffa419f3333264fe5ea064e20b6c1f83e20a0e916107e0109e34b774",
+          "pages": 8
+        }
+      }
+    },
+    "fintech-darlehen-vertragsuebernahme-bremen": {
+      "originals": 62,
+      "intake_originals": 41,
+      "formats": {
+        ".csv": 1,
+        ".docx": 8,
+        ".eml": 23,
+        ".pdf": 24,
+        ".txt": 2,
+        ".xlsx": 4
+      },
+      "pdf_documents": 62,
+      "document_pages": 226,
+      "register_pages": 3,
+      "total_pages": 229,
+      "original_files": {
+        "Grundakte/01_eingang/02_K2_Loan_Agreement.pdf": "09e8de98e242f4378dc833be48e50077da46cef592aa60ed84a0ef973656abc9",
+        "Grundakte/01_eingang/03_K3_Auszahlung.pdf": "3086441dc98121b115e29358c84538dec42d4126891e2bfbfcdc5158f2348558",
+        "Grundakte/01_eingang/04_K4_Kontoauszuege.pdf": "71683e90aa50ef4521fcc0769088c4b0bdc516a4759cd2ce8442f2ff021e0376",
+        "Grundakte/01_eingang/05_K5_Zahlungsaufforderungen.pdf": "f86f57a8a7a9dea8ad29fb92454f946fe27ff3a20891e590c156b7f7fa116192",
+        "Grundakte/01_eingang/06_K6_Antwort_Frontbank.pdf": "667586ae6e17e0c6fade982f06cbaadabcb85dfd97a5e52692db0209ea716de7",
+        "Grundakte/01_eingang/07_K7_Kreditorenunterlagen.pdf": "279af39e9e8b518a8326d60b5e4e75cc246d2a2aed2d52e3d65eb27a24d113af",
+        "Grundakte/01_eingang/08_K8_Mitteilung_Vertragsuebernahme.pdf": "a25cf8a2f95e998cea6e8c6d9a6b1b2ee496e511fb5846ea9a18b29b4cde3790",
+        "Grundakte/01_eingang/09_K9_Lieferantenbelege.pdf": "98b0cbc4c3cfecce818e9eea5853a383dd95039b44dd3b96a2d3a7634a04fbc4",
+        "Grundakte/01_eingang/10_K10_Registerunterlagen.pdf": "a3a46015324073eb2ece0f64473257dcc59ea04cde3a19162b83a85e595a6d52",
+        "Grundakte/01_eingang/11_K11_Kreditangebot.pdf": "f765808e26615d65f1aa74cb5fe272f3dacd671b5d3c08edd809c878ef8f0888",
+        "Grundakte/01_eingang/12_K12_Mailverkehr.pdf": "ad3329468ebb1af0c534ad9fe3bf7d60c8588ccb2c90e5c320b731561e9322c4",
+        "Grundakte/01_B1_Transfer_Assumption_Agreement.docx": "b633721a2f47615c6a94821c1265a689a6bcdec257a7e043cbc955bedb2c30a3",
+        "Grundakte/02_B2_Payment_Routing.pdf": "19b7857df7708866efbbc6a3cd1d239fff1d0947c9354cec6a5cb42aef8036b9",
+        "Grundakte/03_B3_Vellio_Darlehenskonto.pdf": "bcf3970b56d0ed3de72c2398489fce53b38089dc179c569d9f38130c281badd5",
+        "Grundakte/04_B4_Bankabschluss.pdf": "6027d52ca2cdb256a99c8e95a61aa36a258dc5584cb99c66bde17073130af25d",
+        "Grundakte/05_B5_Kreditentscheidung.pdf": "57e894c5e85f418da8d0aa818b1aa509aa36f3e25215626c10cb4047d1473fdc",
+        "Grundakte/03_korrespondenz/01_Mail_20240312_Ratenplan_Abgleich.eml": "0ab509e7ba80c7f1be575a4a402077d5a4895bd7a3ac807fb18ab1874adab9b9",
+        "Grundakte/03_korrespondenz/02_Mail_20240314_Zahlungskennzeichen.eml": "3cee35f23ead4ccff4c31591102d2aa29005c07106bc8db04e84fdbcc868344f",
+        "Grundakte/03_korrespondenz/03_Mail_20240409_Ansprechpartner_Nexora.eml": "ee647b3545a9aa8683e805266ffea5b8e2a87b8ed2e4fa08c1a2438ed540e17f",
+        "Grundakte/03_korrespondenz/04_Mail_20240416_Endzahlung_Zuordnung.eml": "c1fe17a494df317c60b31fe6708772fb11624e4f04e74af60d5e0aa0f18eb994",
+        "Grundakte/03_korrespondenz/04_vertiefung/41_Completion_Confirmation_20221014.docx": "eda99d9bdf2f23d2d0c6512c5410bf536a0de7bbe6622d2a894334d91e7a7fb5",
+        "Grundakte/03_korrespondenz/04_vertiefung/42_Zahlungszuordnung_20260713.xlsx": "b7b012e29bf97cbb009fe784da763cf26fac66c4ede45769b4bb35b34d6379a1",
+        "Grundakte/03_korrespondenz/04_vertiefung/43_Kontoabgleich_20260611.xlsx": "3a9cc5de1cde720ff706a882963ee6b9abe11b26d655fdbc8449bcb4b487f24d",
+        "Grundakte/03_korrespondenz/04_vertiefung/44_Risikorueckfrage_20240409.eml": "d30f6df9583dc9788a9086a75f6ac696555c804c005019873f2106e310b7fea5",
+        "Grundakte/03_korrespondenz/04_vertiefung/45_Vellio_Buchungsanlagen_20260713.eml": "ffd34c6e3c5654f848ae51c0ef0bb6f4c93dd83c2ae0621b2d79c59d0e94130d",
+        "Grundakte/03_korrespondenz/04_vertiefung/46_Kroeger_Kontoabgleich_20260611.eml": "ba1d11e1afe62349aac0383fc810c2850c8c81b72fbc7e0cde6d0358018880ce",
+        "Grundakte/03_korrespondenz/05_anfechtungsunterlagen/53_Nordhafen_Abrechnung_N42_20240402.pdf": "2498aa363957a90a55e84881eaa65a6f81aac6e63298a7d7214f63d0af528cff",
+        "Grundakte/03_korrespondenz/05_anfechtungsunterlagen/54_N42_Rueckabwicklung_20240502.pdf": "0d5d781321fe7848005dd0f13317070faf8efc38b5c58b302c502e0ef699613b",
+        "Grundakte/03_korrespondenz/05_anfechtungsunterlagen/61_Nordkai_Lieferstopp_20240411.eml": "49f308b5d5e7344a90e6f4feda55207db4b5dbdfa3c1c48a2dcc455ca371d88b",
+        "Grundakte/03_korrespondenz/05_anfechtungsunterlagen/62_Grothe_Direktzahlung_20240416.eml": "fbdfb873b857f97603fdf55a1a10848faff1f9bed7a56ae7da2791e216e97c78",
+        "Grundakte/03_korrespondenz/05_anfechtungsunterlagen/63_Nordhafen_Kein_Auftrag_20240416.eml": "a0b2956ced3cb8c57ef532aea9872eed2f74e796b4f058ed1c9f71077cbe047e",
+        "Grundakte/03_korrespondenz/05_anfechtungsunterlagen/64_Feistlein_Keine_Zahlung_20240417.eml": "fab20948281d65daa7ea0186dbb3c89b29ad9795bc15c15ef704c0f12b1e9541",
+        "Grundakte/03_korrespondenz/05_Mail_20240418_Zahlungshistorie_Vellio.eml": "8badf05ea3a602cd24a91e3e4c974e33be6f56a631fe6b1980604b321660a7fa",
+        "Grundakte/03_korrespondenz/06_Mail_20260610_Grothe_Vertragsgespraeche.eml": "e87fc96850db24666a7a79b1461f56effe157f633b4880605b04befaa2b6c0fc",
+        "Grundakte/03_korrespondenz/07_Mail_20260616_Auskunft_Vellio.eml": "27f606e216a8e51ccbf8afee4cba2c2235178e3ab9e9fffec8112902eec7eee8",
+        "Grundakte/03_korrespondenz/08_Mail_20260619_Vellio_Unterlagenumfang.eml": "ccea5071f9eeefcd9af832fd8e79ba192ffa1867edfa6f5bb2b67ac00e69570d",
+        "Grundakte/03_korrespondenz/09_Mail_20260707_Nexora_Buchungsabgrenzung.eml": "8c4634f29b9b4ac3cbdc2fef507321fb082c52e05fd4639996d15f50c4f47ed5",
+        "Grundakte/03_korrespondenz/10_Mail_20260713_Vellio_Abrechnungszuordnung.eml": "b1a6e977e9f23d359c106b223784f4cb308daf6a2859809cc294a299c4c33444",
+        "Grundakte/03_korrespondenz/20_Telefonnotiz_20240410_Terminabstimmung.txt": "f067e2ed55c458315e34036fc3910311dded98a53847e6be45cb5db57f7f17a6",
+        "Grundakte/03_korrespondenz/21_Telefonnotiz_20260710_Unterlagen_Streitstand.txt": "b26a03a71e4c70e503b55762eb172f05938591e49bdc57c7787c4b9c50bedae6",
+        "Grundakte/03_korrespondenz/30_Buchungsdaten_Geschaeftskonto.csv": "f855442b376e872d20d6e1d430bdd2f34b628608e6a82ddcda0ea77cc0e195dd",
+        "01_eingang/00_Gerichtliche_Verfuegung.pdf": "a0fed900c81480d3a8a3f10b7761c8d51d9ff9c6f67d1a2837fca28d51860044",
+        "01_eingang/01_K1_Eroeffnungsbeschluss.pdf": "75bb94d5e1683437aded1a2cd190c5a2636114206330cc0a805a9cb0cd18f453",
+        "01_eingang/01_Klage_20260908.pdf": "73100af0a21daec01b0a69345bac32c2d031dcdc80361a4d50118f9e87697baf",
+        "02_klageerwiderung/00_Klageerwiderung_20260928.docx": "e8411bd633235160db8b77dd39bbcbceb27092b8f77293bd782feec4cdafee57",
+        "02_klageerwiderung/06_B6_Mandantenkorrespondenz.pdf": "ffb6cbfb76cdc628398e53aba8cf682de2ea9cf85cf64106444e96e129b9dc8d",
+        "03_korrespondenz/00_Verteidigungsanzeige_20260922.pdf": "4ad111ff7045a1005403c9de812a2803d4d7b32258d204bd96890452e99a0f12",
+        "03_korrespondenz/04_vertiefung/47_Posteingang_Fristen_20260922.docx": "fc4ddbd2a429f72f3eca6bee56b308aea93ade7f9aaf5b16e56d3ab2729f5375",
+        "03_korrespondenz/05_anfechtungsunterlagen/51_Bankauskunft_Zahlungslauf_20260917.pdf": "6d49d3746f12117e40291fcce97516edb8e9d78946de73ab7c7be0f99614dda8",
+        "03_korrespondenz/05_anfechtungsunterlagen/52_Nordkai_Kontoerklaerung_20260918.pdf": "cf30246cc3ceb77dd8804c76f17cfe9274a8e7011789c26fcfc8d0052c826154",
+        "03_korrespondenz/05_anfechtungsunterlagen/55_Kroeger_Erinnerungsvermerk_20260921.docx": "046b0ef113ef11b7dd32c80c911d4a616edabaf679182e2e9077bb290beaed3b",
+        "03_korrespondenz/05_anfechtungsunterlagen/56_Grothe_Rueckmeldung_20260922.docx": "352df2d2d20593df32088342631cce18c0d6ea33134fe97a101615cafc5c9e6e",
+        "03_korrespondenz/05_anfechtungsunterlagen/57_Wendt_Gespraechsauskunft_20260923.docx": "8fbc0f6d88344f5be6da370fcf2cd822ffe60b01bd5b201db99b138cb7f45647",
+        "03_korrespondenz/05_anfechtungsunterlagen/58_Tettenborn_Nachforderung_20260924.docx": "627ceab33bc75e3e17eb977300153fae3c8a8e5121f76dddf1a6cf999deb3972",
+        "03_korrespondenz/05_anfechtungsunterlagen/59_Stichtage_und_Belegluecken_20260924.xlsx": "5ea7959a577eefd26482cac76b60cbeb7ec5e0ea14603bf8e03090785d3c6241",
+        "03_korrespondenz/05_anfechtungsunterlagen/60_Zahlungswege_und_Vorschlaege_20260924.xlsx": "4f5b84312f338b44fd4a6c35c5dd8a271bd15bb6ba5c5979ac64d1932e0a8205",
+        "03_korrespondenz/05_anfechtungsunterlagen/65_Bank_Belegantwort_20260917.eml": "f555e424fe7c706a8f1fddfb9da566589a5f42992b8fd3056616049ba7ccb79c",
+        "03_korrespondenz/05_anfechtungsunterlagen/66_Feistlein_Archivantwort_20260918.eml": "01c9421b046ad28ef4acfd44864da0bbc35b53494aa8bbaf7cd99b006b6927fc",
+        "03_korrespondenz/05_anfechtungsunterlagen/67_Kroeger_Erinnerung_20260921.eml": "7088e14718abbe29504db112f000a3ebf6186b702cc77d5384f4aff5dfa83780",
+        "03_korrespondenz/05_anfechtungsunterlagen/68_Grothe_Abweichende_Erinnerung_20260922.eml": "95e10c6399eaf61b90a6376744ae7ab86f6eb46fb2dc7da934a1e2634c965e6d",
+        "03_korrespondenz/05_anfechtungsunterlagen/69_Wendt_Archivgrenze_20260923.eml": "03442b6ef7f0c28f474a357feed4593e98d6e2203dd35a40227f8c7b0f479fd6",
+        "03_korrespondenz/05_anfechtungsunterlagen/70_Tettenborn_Arbeitsauftrag_20260924.eml": "67a027d92af7b5b5ecfb396c8ad0a1b4ac5e80ca12a22673b3efba82207dec0d"
+      },
+      "pdf_files": {
+        "01_eingang/00_Gerichtliche_Verfuegung.pdf": {
+          "sha256": "a0fed900c81480d3a8a3f10b7761c8d51d9ff9c6f67d1a2837fca28d51860044",
+          "pages": 2
+        },
+        "01_eingang/01_K1_Eroeffnungsbeschluss.pdf": {
+          "sha256": "75bb94d5e1683437aded1a2cd190c5a2636114206330cc0a805a9cb0cd18f453",
+          "pages": 3
+        },
+        "01_eingang/01_Klage_20260908.pdf": {
+          "sha256": "73100af0a21daec01b0a69345bac32c2d031dcdc80361a4d50118f9e87697baf",
+          "pages": 18
+        },
+        "01_eingang/02_K2_Loan_Agreement.pdf": {
+          "sha256": "09e8de98e242f4378dc833be48e50077da46cef592aa60ed84a0ef973656abc9",
+          "pages": 16
+        },
+        "01_eingang/03_K3_Auszahlung.pdf": {
+          "sha256": "3086441dc98121b115e29358c84538dec42d4126891e2bfbfcdc5158f2348558",
+          "pages": 1
+        },
+        "01_eingang/04_K4_Kontoauszuege.pdf": {
+          "sha256": "71683e90aa50ef4521fcc0769088c4b0bdc516a4759cd2ce8442f2ff021e0376",
+          "pages": 18
+        },
+        "01_eingang/05_K5_Zahlungsaufforderungen.pdf": {
+          "sha256": "f86f57a8a7a9dea8ad29fb92454f946fe27ff3a20891e590c156b7f7fa116192",
+          "pages": 4
+        },
+        "01_eingang/06_K6_Antwort_Frontbank.pdf": {
+          "sha256": "667586ae6e17e0c6fade982f06cbaadabcb85dfd97a5e52692db0209ea716de7",
+          "pages": 3
+        },
+        "01_eingang/07_K7_Kreditorenunterlagen.pdf": {
+          "sha256": "279af39e9e8b518a8326d60b5e4e75cc246d2a2aed2d52e3d65eb27a24d113af",
+          "pages": 6
+        },
+        "01_eingang/08_K8_Mitteilung_Vertragsuebernahme.pdf": {
+          "sha256": "a25cf8a2f95e998cea6e8c6d9a6b1b2ee496e511fb5846ea9a18b29b4cde3790",
+          "pages": 3
+        },
+        "01_eingang/09_K9_Lieferantenbelege.pdf": {
+          "sha256": "98b0cbc4c3cfecce818e9eea5853a383dd95039b44dd3b96a2d3a7634a04fbc4",
+          "pages": 6
+        },
+        "01_eingang/10_K10_Registerunterlagen.pdf": {
+          "sha256": "a3a46015324073eb2ece0f64473257dcc59ea04cde3a19162b83a85e595a6d52",
+          "pages": 3
+        },
+        "01_eingang/11_K11_Kreditangebot.pdf": {
+          "sha256": "f765808e26615d65f1aa74cb5fe272f3dacd671b5d3c08edd809c878ef8f0888",
+          "pages": 4
+        },
+        "01_eingang/12_K12_Mailverkehr.pdf": {
+          "sha256": "ad3329468ebb1af0c534ad9fe3bf7d60c8588ccb2c90e5c320b731561e9322c4",
+          "pages": 8
+        },
+        "02_klageerwiderung/00_Klageerwiderung_20260928.pdf": {
+          "sha256": "8b2257732529261d7735b3a734f3011eb0f8879205edf7b1805efe50c040462c",
+          "pages": 14
+        },
+        "02_klageerwiderung/01_B1_Transfer_Assumption_Agreement.pdf": {
+          "sha256": "7c4143a2aa4657533052b458e51678bad1d6adb4a65b2688f73c43cf0cf7b519",
+          "pages": 12
+        },
+        "02_klageerwiderung/02_B2_Payment_Routing.pdf": {
+          "sha256": "19b7857df7708866efbbc6a3cd1d239fff1d0947c9354cec6a5cb42aef8036b9",
+          "pages": 3
+        },
+        "02_klageerwiderung/03_B3_Vellio_Darlehenskonto.pdf": {
+          "sha256": "bcf3970b56d0ed3de72c2398489fce53b38089dc179c569d9f38130c281badd5",
+          "pages": 4
+        },
+        "02_klageerwiderung/04_B4_Bankabschluss.pdf": {
+          "sha256": "6027d52ca2cdb256a99c8e95a61aa36a258dc5584cb99c66bde17073130af25d",
+          "pages": 3
+        },
+        "02_klageerwiderung/05_B5_Kreditentscheidung.pdf": {
+          "sha256": "57e894c5e85f418da8d0aa818b1aa509aa36f3e25215626c10cb4047d1473fdc",
+          "pages": 3
+        },
+        "02_klageerwiderung/06_B6_Mandantenkorrespondenz.pdf": {
+          "sha256": "ffb6cbfb76cdc628398e53aba8cf682de2ea9cf85cf64106444e96e129b9dc8d",
+          "pages": 4
+        },
+        "03_korrespondenz/00_Verteidigungsanzeige_20260922.pdf": {
+          "sha256": "4ad111ff7045a1005403c9de812a2803d4d7b32258d204bd96890452e99a0f12",
+          "pages": 1
+        },
+        "03_korrespondenz/01_Mail_20240312_Ratenplan_Abgleich.pdf": {
+          "sha256": "14891db48b5ae8d9e7e9cbfcd02b6f59f15510376ad4135814ee8e91f10e32da",
+          "pages": 1
+        },
+        "03_korrespondenz/02_Mail_20240314_Zahlungskennzeichen.pdf": {
+          "sha256": "4ca63f8bba1fa15f42db6d71c4a9068288754f23944a18ae6257577241b9ebb2",
+          "pages": 1
+        },
+        "03_korrespondenz/03_Mail_20240409_Ansprechpartner_Nexora.pdf": {
+          "sha256": "f2d96d1fdb774eeedd7c34e0b8d4539b4c1d789161dfeea3f330b36c6f875046",
+          "pages": 1
+        },
+        "03_korrespondenz/04_Mail_20240416_Endzahlung_Zuordnung.pdf": {
+          "sha256": "c8edc28a2eb45cdee1482c926fc66322578c2bf7162799d025ac0c2897217ff9",
+          "pages": 1
+        },
+        "03_korrespondenz/04_vertiefung/41_Completion_Confirmation_20221014.pdf": {
+          "sha256": "03363dc4d847ab6a1ab8638e0b96811a41b1d13e06fd4b69c22db586b59f2ea0",
+          "pages": 2
+        },
+        "03_korrespondenz/04_vertiefung/42_Zahlungszuordnung_20260713.pdf": {
+          "sha256": "7bb9b66f1e792ccbe05e33232ef19bd7d850d5b9ab62cc04c7b2cd916ba7fa83",
+          "pages": 3
+        },
+        "03_korrespondenz/04_vertiefung/43_Kontoabgleich_20260611.pdf": {
+          "sha256": "9072f3b57077ca57f8e4ab5a525e67a308ff973fc27da8edaaefbd8b1fd3c10c",
+          "pages": 5
+        },
+        "03_korrespondenz/04_vertiefung/44_Risikorueckfrage_20240409.pdf": {
+          "sha256": "d2612c3c1692ae76205c6a57ee4ff2eb3aa89d22d72add5e5e9927efb0d1e781",
+          "pages": 1
+        },
+        "03_korrespondenz/04_vertiefung/45_Vellio_Buchungsanlagen_20260713.pdf": {
+          "sha256": "a40a1372bcb06150c70d05e0068d4217669b692404a3a26b09e40a61d10f6f4a",
+          "pages": 1
+        },
+        "03_korrespondenz/04_vertiefung/46_Kroeger_Kontoabgleich_20260611.pdf": {
+          "sha256": "3933644a2e3e1d04edeead869c8a3baea7d94e2442e2621df893562ce2b19341",
+          "pages": 1
+        },
+        "03_korrespondenz/04_vertiefung/47_Posteingang_Fristen_20260922.pdf": {
+          "sha256": "f748a1af399d9ab2a3bbb51724c042c6450f3c0b29ad9ddf180b8eeb5c8b0ff1",
+          "pages": 2
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/51_Bankauskunft_Zahlungslauf_20260917.pdf": {
+          "sha256": "6d49d3746f12117e40291fcce97516edb8e9d78946de73ab7c7be0f99614dda8",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/52_Nordkai_Kontoerklaerung_20260918.pdf": {
+          "sha256": "cf30246cc3ceb77dd8804c76f17cfe9274a8e7011789c26fcfc8d0052c826154",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/53_Nordhafen_Abrechnung_N42_20240402.pdf": {
+          "sha256": "2498aa363957a90a55e84881eaa65a6f81aac6e63298a7d7214f63d0af528cff",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/54_N42_Rueckabwicklung_20240502.pdf": {
+          "sha256": "0d5d781321fe7848005dd0f13317070faf8efc38b5c58b302c502e0ef699613b",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/55_Kroeger_Erinnerungsvermerk_20260921.pdf": {
+          "sha256": "583f0b95053b64d5af10b039a2cf6562a7b8b2fc7a088483011768c35bd42cc4",
+          "pages": 2
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/56_Grothe_Rueckmeldung_20260922.pdf": {
+          "sha256": "07c6ba2a473ac102a57cd835378b9120429ee960c699042611c6c7acda4bfcd3",
+          "pages": 2
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/57_Wendt_Gespraechsauskunft_20260923.pdf": {
+          "sha256": "ebef44da94145c4437db2b066ce4b98842c7c7c9d4efe878f317f7518f574135",
+          "pages": 2
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/58_Tettenborn_Nachforderung_20260924.pdf": {
+          "sha256": "10980be0678fe9b02715e2d6e8231a780af6d74cbb7332e7e8f91935e1fc295a",
+          "pages": 2
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/59_Stichtage_und_Belegluecken_20260924.pdf": {
+          "sha256": "085f72c64f9b8289ec9110c0950c8d8bdabedc269526edc11efe3bb5a1cee779",
+          "pages": 2
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/60_Zahlungswege_und_Vorschlaege_20260924.pdf": {
+          "sha256": "3fdde9959632db861634010cd6908c9c85cd6549117780140320dfd9c2e54528",
+          "pages": 2
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/61_Nordkai_Lieferstopp_20240411.pdf": {
+          "sha256": "3e99aa3f550e34aceb4c0e1436867305bbc60c6a5661f3d9c0bd8893222b444b",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/62_Grothe_Direktzahlung_20240416.pdf": {
+          "sha256": "5e08c6836547da95dc9be6acdeb74dcaf5a6a92bdce9e72f3257e2bf83cede8d",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/63_Nordhafen_Kein_Auftrag_20240416.pdf": {
+          "sha256": "5c642bdfe997f9c732ebd17693ec65e63ba24fd879254354e4e2792dc52e1fb6",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/64_Feistlein_Keine_Zahlung_20240417.pdf": {
+          "sha256": "e6a1d0015cc0b2b835c76a0e42cb2828bb687beb5b2a55f9e72b6eb5365b1d53",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/65_Bank_Belegantwort_20260917.pdf": {
+          "sha256": "4e193ef0356e43d679d69a1422d1362919bfc96d7e50a7a8489c7b3439532888",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/66_Feistlein_Archivantwort_20260918.pdf": {
+          "sha256": "c5a1f4f32413f667fc1c7e1ac11778012bd9ed9059bf2193d4a6c8ce6ab9145c",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/67_Kroeger_Erinnerung_20260921.pdf": {
+          "sha256": "80256f9cc6992daf9f3b2345eeed638a1d5add61a6e4b42d511759e6b8d57fe1",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/68_Grothe_Abweichende_Erinnerung_20260922.pdf": {
+          "sha256": "a931020e1b34b63c418be3f77d07ae89c660787cf8d893457a466468109f458b",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/69_Wendt_Archivgrenze_20260923.pdf": {
+          "sha256": "0962dd8d05e290988e1b675628b69374ebc8caa852aab2d8c9c23199b0ef405e",
+          "pages": 1
+        },
+        "03_korrespondenz/05_anfechtungsunterlagen/70_Tettenborn_Arbeitsauftrag_20260924.pdf": {
+          "sha256": "ebb6dc5ab4b4282d61fa02fc9d9c93a67d43e61f005f73c6a7c485a10131907d",
+          "pages": 1
+        },
+        "03_korrespondenz/05_Mail_20240418_Zahlungshistorie_Vellio.pdf": {
+          "sha256": "38cdf5da45a7ff147dbf210881b36639c2d8af64f5f6fdf687d043485c046c28",
+          "pages": 1
+        },
+        "03_korrespondenz/06_Mail_20260610_Grothe_Vertragsgespraeche.pdf": {
+          "sha256": "098f1f2d97a1c6424370992da7204f08f6567c20a615e769642e4e74f4ed2b8e",
+          "pages": 1
+        },
+        "03_korrespondenz/07_Mail_20260616_Auskunft_Vellio.pdf": {
+          "sha256": "47664b35d6d809ef4d76d565c029202e6e4d5e8c44b297814539426a4a8c9461",
+          "pages": 1
+        },
+        "03_korrespondenz/08_Mail_20260619_Vellio_Unterlagenumfang.pdf": {
+          "sha256": "c30f1fcfaf8a68f81e92d4bbc5866d2f1a45837c5e311cba65e89d6b556a1e01",
+          "pages": 1
+        },
+        "03_korrespondenz/09_Mail_20260707_Nexora_Buchungsabgrenzung.pdf": {
+          "sha256": "94bf96f3a7ed3215b25a35e946251c52bf6c10df5c3474d5bfbbb1f891c941af",
+          "pages": 1
+        },
+        "03_korrespondenz/10_Mail_20260713_Vellio_Abrechnungszuordnung.pdf": {
+          "sha256": "f96268e420c6d02b9b8c25a6a545efd3844bc8302dd5e3f3d3e8adf1cc99cbc2",
+          "pages": 1
+        },
+        "03_korrespondenz/20_Telefonnotiz_20240410_Terminabstimmung.pdf": {
+          "sha256": "ee30e972254555c9dde4b026a676a1333e6ecbdaac9b4a76c60c80be31c92d29",
+          "pages": 1
+        },
+        "03_korrespondenz/21_Telefonnotiz_20260710_Unterlagen_Streitstand.pdf": {
+          "sha256": "41650a1e41edcfd0d7b49eeb76b86555f00def81dc931d60209d64dc7dc48fd3",
+          "pages": 1
+        },
+        "03_korrespondenz/30_Buchungsdaten_Geschaeftskonto.pdf": {
+          "sha256": "047754c64e1bdde8a5c85939b4d216356fe7273ca52baf65c9cb6b59a1585950",
+          "pages": 34
+        }
+      }
+    },
+    "insolvenzanfechtung-blechliebe-bamberg": {
+      "originals": 24,
+      "intake_originals": 18,
+      "formats": {
+        ".docx": 6,
+        ".eml": 7,
+        ".pdf": 7,
+        ".txt": 2,
+        ".xlsx": 2
+      },
+      "pdf_documents": 24,
+      "document_pages": 24,
+      "register_pages": 0,
+      "total_pages": 24,
+      "original_files": {
+        "Grundakte/02_Eroeffnungsbeschluss.pdf": "dce5a696c58364467884f059dfc0bb031b05b93ccb47cb98937552874dd47867",
+        "Grundakte/03_Liefervereinbarung.docx": "af1a16dd6f6ee66a96bf0bae65eb342f201046e9c122bd6900f076f1337625fe",
+        "Grundakte/04_Rechnung_2025_118.pdf": "872853a7c2867581e63c34f71b78eb2da11fcb5797be5abf58d7203432610b16",
+        "Grundakte/05_Rechnung_2026_014.pdf": "94cb2cb54ea237237f4107d820e82d08a255469965264c3a4e87fb2bb380eebb",
+        "Grundakte/06_Rechnung_2026_032.pdf": "96c3b87a600a37c2b8a76f36b6af8253d1a16d6dc7fbee2e6e93012fee5609f4",
+        "Grundakte/07_Mahnung.eml": "416e32f0778a3d0dc137281af18ab49a54c486881133809ff67645693ec79894",
+        "Grundakte/08_Antwort_Blechliebe.eml": "c69fcb6d5d1a7f8004e954240117b7b3dbb7949d04cf1525907c038e46e61f55",
+        "Grundakte/10_Ratennachfrage.eml": "256ea82f4448850ec8a52c3cac2c56e3fe00056b398705c1dea01d2cadcc1b2e",
+        "Grundakte/14_Lieferanfrage.eml": "9e439214a65d1d4b89e3dd92ee80f38c287e0124535cc2a348f7c4013e61d6ef",
+        "Grundakte/15_Vorkasserechnung_058.pdf": "acae18c7af72e1b2c6275b8178f8f51a9ba38bcb3c13537e4c207a59d70dc401",
+        "Grundakte/16_Vorkasse_Bestaetigung.eml": "4cb622aa413e77daec93f2985980d67d8281f8a829e5f449fb9dd6013e5f3aba",
+        "Grundakte/17_Kontoauszug_Auswahl.pdf": "b5c5a4bfde2f261403ba04ea1a3fcaa0ac6c48610fff516cf263e3e40c659eae",
+        "Grundakte/18_Offene_Posten.xlsx": "d9d793758c02d1024c358ba7c53744d2977d73a3bf61782d1201bbfe0e11adee",
+        "Grundakte/19_Zahlungsjournal.xlsx": "3b741571fc392ca8d9875eb6b68d81a7e14e6b6c645ad33c0cf8653c87e2c204",
+        "Grundakte/21_Antwort_Kanzlei.eml": "c8a340ba65b05da8531cdbf4313520c86de7a88673997ecb3813a681c70e19bc",
+        "Grundakte/22_Buchhaltung_Anlagen.eml": "8796ba2ee0df217d9276a6f42ba8eeb03ced3efc33353a968adf1911a32afbcc",
+        "Grundakte/23_Chat_Vertrieb.txt": "8324b0c8cc04322a210ec28e5cf82e74196fe013f595318e2dddf2fa788b13ae",
+        "Grundakte/24_Telefonnotiz_Grell.txt": "d320c63baed8bcf7058f7902683482b34ed7b7685818a222d783344335ebc978",
+        "01_Mandat_Raban.docx": "46564178a34749eacf66beb4acaf3cce4aadc9f6156dee67f8dcf9eb82902900",
+        "09_Ratenvereinbarung.docx": "ed5f5acd86a7bd2d623de21d71479044fe56dcff5ef374b5000fd922d7d05e00",
+        "11_Notiz_Herold.docx": "d778bc089cc182f91b03c9abfeb002296d9e4905a5d9ba4b039a32e6d9e32da6",
+        "12_Schottenbau_Einbehalt.pdf": "3e57ec4c10c637e4d2a83c9ffa88db2c399d7bba2d08a0bed6905c4fb1f3dc26",
+        "13_Sicherungsabtretung.docx": "b90492648477abbffcd73dd0a4fe1ed233e45fc4b10927254ecc97a046c7b67b",
+        "20_Rueckforderung.docx": "70613c2ee702552b932d3a1366151d9871f1b67ce08f8db295bb9defea6bfc7d"
+      },
+      "pdf_files": {
+        "01_Mandat_Raban.pdf": {
+          "sha256": "6b668eef1cc7e9f89f58d2ee381f64eb01efe521b7673f5b4a4ce1c0d4a385d3",
+          "pages": 1
+        },
+        "02_Eroeffnungsbeschluss.pdf": {
+          "sha256": "dce5a696c58364467884f059dfc0bb031b05b93ccb47cb98937552874dd47867",
+          "pages": 1
+        },
+        "03_Liefervereinbarung.pdf": {
+          "sha256": "f57a253d5e15f69e2ca1108fe4ef1b4745b7f4d6145b4ceb3261fa75dc7e5f46",
+          "pages": 1
+        },
+        "04_Rechnung_2025_118.pdf": {
+          "sha256": "872853a7c2867581e63c34f71b78eb2da11fcb5797be5abf58d7203432610b16",
+          "pages": 1
+        },
+        "05_Rechnung_2026_014.pdf": {
+          "sha256": "94cb2cb54ea237237f4107d820e82d08a255469965264c3a4e87fb2bb380eebb",
+          "pages": 1
+        },
+        "06_Rechnung_2026_032.pdf": {
+          "sha256": "96c3b87a600a37c2b8a76f36b6af8253d1a16d6dc7fbee2e6e93012fee5609f4",
+          "pages": 1
+        },
+        "07_Mahnung.pdf": {
+          "sha256": "9aaaa6143dd60b91edf69f00b7511a2796b69cf1952df71e2a59d0480266aff2",
+          "pages": 1
+        },
+        "08_Antwort_Blechliebe.pdf": {
+          "sha256": "94bbf3c7856e4efe938dcd4043ef0faea32301ffaff95553196226b0abfc22bd",
+          "pages": 1
+        },
+        "09_Ratenvereinbarung.pdf": {
+          "sha256": "4055f7a8b1935b80eed7b1cf70ca72d9a5855885aa3dca5716d5ad68f338a26f",
+          "pages": 1
+        },
+        "10_Ratennachfrage.pdf": {
+          "sha256": "5ade80dee7f4b1900836128da8767ff73784786f6800eb69c35e53d89b126596",
+          "pages": 1
+        },
+        "11_Notiz_Herold.pdf": {
+          "sha256": "e0bba439158ccfbcdd7bd757b50a0c86c028a18dae3bfb964a5172bd43e22ae7",
+          "pages": 1
+        },
+        "12_Schottenbau_Einbehalt.pdf": {
+          "sha256": "3e57ec4c10c637e4d2a83c9ffa88db2c399d7bba2d08a0bed6905c4fb1f3dc26",
+          "pages": 1
+        },
+        "13_Sicherungsabtretung.pdf": {
+          "sha256": "77e4c5e0b723573a3041728db4609c4309b700c143a2a394dfbf15222bb19eb3",
+          "pages": 1
+        },
+        "14_Lieferanfrage.pdf": {
+          "sha256": "2bc84cd6017001d0e156a93ce3a98d15977e748209d2d7996080e2bbd468af0d",
+          "pages": 1
+        },
+        "15_Vorkasserechnung_058.pdf": {
+          "sha256": "acae18c7af72e1b2c6275b8178f8f51a9ba38bcb3c13537e4c207a59d70dc401",
+          "pages": 1
+        },
+        "16_Vorkasse_Bestaetigung.pdf": {
+          "sha256": "a623285071060389537df8cb0f5dc1cd1b75b5dd4f9b161c47738d4dc4852413",
+          "pages": 1
+        },
+        "17_Kontoauszug_Auswahl.pdf": {
+          "sha256": "b5c5a4bfde2f261403ba04ea1a3fcaa0ac6c48610fff516cf263e3e40c659eae",
+          "pages": 1
+        },
+        "18_Offene_Posten.pdf": {
+          "sha256": "6976017c10e0ec88819ffdddf1293a2db3496bbad665d7c81b270383d23623be",
+          "pages": 1
+        },
+        "19_Zahlungsjournal.pdf": {
+          "sha256": "933205ef016c98db61231221145f81916246901a023687a0543889dc4054c3bd",
+          "pages": 1
+        },
+        "20_Rueckforderung.pdf": {
+          "sha256": "5e927b6fef1007d414eac8f5a556239453c93c8e8b646800a48757101cc1b33b",
+          "pages": 1
+        },
+        "21_Antwort_Kanzlei.pdf": {
+          "sha256": "337dc39bf0e85446193fd6e845771c1275c92b8081c0624da0f2aea5d1fdb6ab",
+          "pages": 1
+        },
+        "22_Buchhaltung_Anlagen.pdf": {
+          "sha256": "db1a280b7cbf601d237d96dd3edd16d30e9fddefdb6d02592d0a7e987b2129b8",
+          "pages": 1
+        },
+        "23_Chat_Vertrieb.pdf": {
+          "sha256": "86485d4b645214233986fea41f05fbffbe0b8197f48ada1c4f2356fb52a2f46f",
+          "pages": 1
+        },
+        "24_Telefonnotiz_Grell.pdf": {
+          "sha256": "7b7189fa87e67aef7536efad70f00ffa0aaff09dc8b79165cd99e7c6938cc853",
+          "pages": 1
+        }
+      }
+    },
+    "insolvenzanfechtung-faltenwurf-fuerth": {
+      "originals": 24,
+      "intake_originals": 18,
+      "formats": {
+        ".docx": 6,
+        ".eml": 6,
+        ".pdf": 8,
+        ".txt": 2,
+        ".xlsx": 2
+      },
+      "pdf_documents": 24,
+      "document_pages": 24,
+      "register_pages": 0,
+      "total_pages": 24,
+      "original_files": {
+        "Grundakte/02_Eroeffnungsbeschluss.pdf": "a50a6939a57a0c95c1dabd172b7e8524f2bb244db921314092e15a9f51569b05",
+        "Grundakte/04_Darlehensvertrag_Gundula.docx": "b362c9ffb6f30a6243329008ddb31890662ee84a2ae9bc8d1fe95aa988d3546e",
+        "Grundakte/05_Sicherungsvertrag.docx": "9408cbdfda3bfdb713c2f6dfab7ccde3ce989f5c964ac7a926643500272120fc",
+        "Grundakte/06_Maschinenrechnung.pdf": "2f5d8dea02cf78f302e72326e852384222c14b21189e483659b0779d4b54ec5a",
+        "Grundakte/07_Gundula_Rueckzahlungswunsch.eml": "b22b90668c96994fcbdfe2aeeb9f5b6e226fab0ae53ef26cafefbd0cc845e4f0",
+        "Grundakte/08_Yara_Liquiditaet.eml": "f25c55504c627c52b8f04b0ece8eef2de971132445705603ff8f57c3a26794cf",
+        "Grundakte/09_Zahlungsfreigabe.docx": "e19af7dfcf12b6a59a6cbfa4b40ae5c5c9dd084506e83bad71bfb62573135fe0",
+        "Grundakte/11_Bank_Rueckfuehrung.eml": "6985ad0d84f0b08eb1280747f32c71030b62f19f4c1ab88859cc52ebc36d22f5",
+        "Grundakte/12_Bank_Bestaetigung.pdf": "fabc9e33f122a64a6c212796b255aac5ce4ddc2995438521fb681a450c62f6b3",
+        "Grundakte/13_Leopold_Belegumschlag.txt": "2489bc377d2327c995f55d08361f7727fc2f524fc639ecbec15e05d8c17e241a",
+        "Grundakte/14_Schaumstoffrechnung.pdf": "c96ccc235484f454e0c5cbd04fadfa6b458a371962d8b6f63fe307f75adec429",
+        "Grundakte/16_Kontoauszug_Auswahl.pdf": "86acac6179d42e673263c741d93c6ff4a6937ad07b4f98fda75263ef2f2b0c02",
+        "Grundakte/17_Darlehenskonten.xlsx": "ad9105a790a6d769d9f869ab074a7a1a540c65c73a159439242b951e72be8160",
+        "Grundakte/18_Bank_Abgleich.xlsx": "0f46bd1a8d00fa16b0a0fcf93e378d32577e353d14485ddaf730b203ef0ccf2f",
+        "Grundakte/20_Auskunft_Haderlein.eml": "e39068d7c90d12838f9c2f1bd4ddc9332a46f492a89f180667352e84315d127f",
+        "Grundakte/21_Antwort_Haderlein.eml": "038190c60ae9a472c070e15ddd9fbd4542cc9e6d2710c1d556fc18e5212fc932",
+        "Grundakte/22_Maschinenservice.eml": "bff494e8ba5e76c2d1f6076bbc1a09c1945857f6f774e3549cb75d621bf9bcba",
+        "Grundakte/23_Familienchat.txt": "5aa05f2a50d7807710aad5fe7667e173485a27e44abd1950d89210324b1d5fcc",
+        "01_Mandat_Gundula.docx": "30fee065161be0a0980a8a04c57fa49076c455f5946b9b1f7c6df1fe5bf727b5",
+        "03_Gesellschafterstand.pdf": "b9355cfcb27b4b1b3c029c83fda459ff926853c42e76d2c377fab39a3aa9fd53",
+        "10_Bank_Buergschaft.pdf": "5dd46e6c90e961840dfa68561dd345ed9ce52f30354961c4f20a984ce14c575d",
+        "15_Reisekosten.pdf": "dc8f2ff195b4ab8e9c3b3ee6daf7ecef7f38a97131c86d94d0b3d6bda22465a6",
+        "19_Rueckforderung_Gundula.docx": "8ed29424ae5b1ceaba8b90868813f1f1d50b624dadb699981be39bb17d7132f0",
+        "24_Anwaltsnotiz.docx": "b0e3d0b247ffdfbce46832a247cec22936e7dd4f9ced565b623ad500946824ab"
+      },
+      "pdf_files": {
+        "01_Mandat_Gundula.pdf": {
+          "sha256": "76ab685c74d922d3ba2086f30e3398eb44277462227eb331529c80613c4cf2ff",
+          "pages": 1
+        },
+        "02_Eroeffnungsbeschluss.pdf": {
+          "sha256": "a50a6939a57a0c95c1dabd172b7e8524f2bb244db921314092e15a9f51569b05",
+          "pages": 1
+        },
+        "03_Gesellschafterstand.pdf": {
+          "sha256": "b9355cfcb27b4b1b3c029c83fda459ff926853c42e76d2c377fab39a3aa9fd53",
+          "pages": 1
+        },
+        "04_Darlehensvertrag_Gundula.pdf": {
+          "sha256": "f7f2dd628b73fb883df8f5417f3b9495de82459b220b5630adf2e9a79f7e6fb3",
+          "pages": 1
+        },
+        "05_Sicherungsvertrag.pdf": {
+          "sha256": "c83f8e67fdeb4a11c9923213538031dc35b740e3de62f52c442d4d87b04e2f44",
+          "pages": 1
+        },
+        "06_Maschinenrechnung.pdf": {
+          "sha256": "2f5d8dea02cf78f302e72326e852384222c14b21189e483659b0779d4b54ec5a",
+          "pages": 1
+        },
+        "07_Gundula_Rueckzahlungswunsch.pdf": {
+          "sha256": "68510c5db90dca54c7cdd899303553b2bad2efcb7b8af3206f20a34facf47767",
+          "pages": 1
+        },
+        "08_Yara_Liquiditaet.pdf": {
+          "sha256": "c3916a7d70bf3ce88fe6aca8f8ee6fa6f931f643c5453de42820c2e322480405",
+          "pages": 1
+        },
+        "09_Zahlungsfreigabe.pdf": {
+          "sha256": "f0a398230f9358594bed56bae3f307b589c33c205a1edd562ec9b0b7759234dc",
+          "pages": 1
+        },
+        "10_Bank_Buergschaft.pdf": {
+          "sha256": "5dd46e6c90e961840dfa68561dd345ed9ce52f30354961c4f20a984ce14c575d",
+          "pages": 1
+        },
+        "11_Bank_Rueckfuehrung.pdf": {
+          "sha256": "323073a8dd949b1013ffd3892ccf81921cea8d38ed191e7835a47ba5875dcd99",
+          "pages": 1
+        },
+        "12_Bank_Bestaetigung.pdf": {
+          "sha256": "fabc9e33f122a64a6c212796b255aac5ce4ddc2995438521fb681a450c62f6b3",
+          "pages": 1
+        },
+        "13_Leopold_Belegumschlag.pdf": {
+          "sha256": "34ee63e7e0add9bf0885ad32a16863e11cc6835954340c8ec0cc61a0ed72d7fc",
+          "pages": 1
+        },
+        "14_Schaumstoffrechnung.pdf": {
+          "sha256": "c96ccc235484f454e0c5cbd04fadfa6b458a371962d8b6f63fe307f75adec429",
+          "pages": 1
+        },
+        "15_Reisekosten.pdf": {
+          "sha256": "dc8f2ff195b4ab8e9c3b3ee6daf7ecef7f38a97131c86d94d0b3d6bda22465a6",
+          "pages": 1
+        },
+        "16_Kontoauszug_Auswahl.pdf": {
+          "sha256": "86acac6179d42e673263c741d93c6ff4a6937ad07b4f98fda75263ef2f2b0c02",
+          "pages": 1
+        },
+        "17_Darlehenskonten.pdf": {
+          "sha256": "d500fa7b72f87b9d1937f03ca81bebbe737abb5d4c18d5507d763a8753f2ca57",
+          "pages": 1
+        },
+        "18_Bank_Abgleich.pdf": {
+          "sha256": "bd1997a0a5aadfd628d08d9eb19604d6286a49ff06ea48ae353008726acff64c",
+          "pages": 1
+        },
+        "19_Rueckforderung_Gundula.pdf": {
+          "sha256": "970335459d45365eb6a446e13f156bab7a3ee87f32d699b8cbd606a85aa4e569",
+          "pages": 1
+        },
+        "20_Auskunft_Haderlein.pdf": {
+          "sha256": "790d7927a298d4656f61990b8169676f5970d90b8aa99d7603239f5568f95982",
+          "pages": 1
+        },
+        "21_Antwort_Haderlein.pdf": {
+          "sha256": "246ce7bbebeb1594a628499a21d79b9cdbd65012c46b1379c171f7ca0e996da5",
+          "pages": 1
+        },
+        "22_Maschinenservice.pdf": {
+          "sha256": "ab86769ea0b5e9dced438bb1d88e476b7b1baa5b19394b33d3a8f6ffd9778684",
+          "pages": 1
+        },
+        "23_Familienchat.pdf": {
+          "sha256": "46fafbc60fe8d58596a96ecba359fa4f9653a357723a8c9cbb739f3523182f3f",
+          "pages": 1
+        },
+        "24_Anwaltsnotiz.pdf": {
+          "sha256": "0881266bc3e7f059fd9768814810915a83179f34d41a581af3751d0373b1e30e",
+          "pages": 1
+        }
+      }
+    },
+    "insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln": {
+      "originals": 24,
+      "intake_originals": 15,
+      "formats": {
+        ".docx": 10,
+        ".eml": 5,
+        ".pdf": 6,
+        ".txt": 1,
+        ".xlsx": 2
+      },
+      "pdf_documents": 24,
+      "document_pages": 27,
+      "register_pages": 0,
+      "total_pages": 27,
+      "original_files": {
+        "Grundakte/02_Insolvenzantrag_Eingang.pdf": "9569b630772a7bd4cbf49b440ed65a7e17d80c039aae3d5c2d8115eb0f3f7385",
+        "Grundakte/03_Eroeffnungsbeschluss.pdf": "b66fe027200daeb553037814a95e1eb4b6738352deb358582fbb7c8a0e9dd71e",
+        "Grundakte/05_Darlehensvertrag_Haderlein.docx": "f5add5aaa9c881c4b9714410c6ae87f25e758c9d3512b90f60d3d520a6d62aa1",
+        "Grundakte/06_Auszahlung_Darlehen.pdf": "65656bcc0088549dbbde6f4efd636ed3756724782484afeacc9723ee13debb41",
+        "Grundakte/07_Gesellschafterbeschluss_Rueckzahlung.docx": "dfa9b5b1ab61ee169f2b82e82278bac88516658ffa0fd20f94112ea1563ec6eb",
+        "Grundakte/08_Liquiditaetswarnung.eml": "e1713e9097533f3899a45910ca97aa2a331ddeb06f3e3a40abf3bc249b042033",
+        "Grundakte/09_Chat_Haderlein_Geschaeftsfuehrung.txt": "70b4559b0c6ab0ee80c5eb1edc5fc4121504f73b47fed7622ca5b013ff037666",
+        "Grundakte/11_Zahlungsanforderung_Haderlein.eml": "017f7126602990839c0bc749466c0ba3315232df47951c190986c54db51789e0",
+        "Grundakte/12_Zahlungsfreigabe.docx": "588ed2c5030c0e986a5906439ac9845c5f3ae3eadd70ce062bd77336882ffc64",
+        "Grundakte/13_Kontoauszug_Rueckzahlung.pdf": "ae01f62d26adfdbb382a3c4337b6191b23638dcfde939f77085bbb9e87475f7a",
+        "Grundakte/14_Darlehensabgleich.xlsx": "7ecadfe20678aec0763b16580d13bab2be234819d6d13d4dcdc060b27d69ac01",
+        "Grundakte/15_Masseabfluss.xlsx": "ac4432aca8d388c2895b856d2071f1f6f76e15213803a4fd66dafe5d1ac37c84",
+        "Grundakte/18_Anlage_Zahlungsspiegel.pdf": "0899a3ef4a49914285885ea97c8ce2168f5a3463f172d09f8d44b36f07ce7d06",
+        "Grundakte/19_Zustellung_Aufforderung.eml": "3dc6d491db0b8372227daa6e061ba456c48f35d67e74b6b61bdad407d5856c66",
+        "Grundakte/20_Ablehnung_Beklagter.eml": "0c8b735d084c9a7e799b83a197cf1f99ab9f7c87372febcf1d73f8dd352a8b3f",
+        "01_Aktenauftrag_Verwalterin.docx": "7468566d06a643e89b367e5592584e824e3e9e738a35631f2fa6ad3a88f46dcf",
+        "04_Gesellschafterliste.pdf": "f2d0d1b3745f42e92fbf9f3d1dc745f5cd1705aa7932b15500bd2604c5ca082c",
+        "10_Servicevertrag_Entwurf.docx": "c801b480047098494472b11223a7772700f8f1daf96848f352e11162bd91ca09",
+        "16_Anfechtungspruefung.docx": "c8378c9a3ffd49880687a9590223bccb6ecf2c5ffcdbca4a384c25726901ffcb",
+        "17_Aufforderung_Zweizeiler.docx": "283f705b44c0aa85cdf37e42eccca023b4b73feb88e374804c46436a175fa411",
+        "21_Klageschrift.docx": "2229baa03772265ff3307c702e28570e7863fb4859b971b370bd8c220db947f1",
+        "22_Anlagenverzeichnis.docx": "fae6607a80f62018a667b0b1a06ae9434aeacea01b6eade6e882e77a928b0d7a",
+        "23_Klageeinreichung.eml": "6cb518acc6e1d3878ee3e885a15f1941336c007264bf3875d44b4087dd15e930",
+        "24_Verteidigungsnotiz.docx": "b09017a7d4c7f19a06eee9c70fa81fbf2550cef35d48a03be0ff65da0a606be6"
+      },
+      "pdf_files": {
+        "01_Aktenauftrag_Verwalterin.pdf": {
+          "sha256": "35492e20fb28e2995aaa10a19d84320ef3065bd20f976cb1e9414bc4e725a038",
+          "pages": 1
+        },
+        "02_Insolvenzantrag_Eingang.pdf": {
+          "sha256": "9569b630772a7bd4cbf49b440ed65a7e17d80c039aae3d5c2d8115eb0f3f7385",
+          "pages": 1
+        },
+        "03_Eroeffnungsbeschluss.pdf": {
+          "sha256": "b66fe027200daeb553037814a95e1eb4b6738352deb358582fbb7c8a0e9dd71e",
+          "pages": 1
+        },
+        "04_Gesellschafterliste.pdf": {
+          "sha256": "f2d0d1b3745f42e92fbf9f3d1dc745f5cd1705aa7932b15500bd2604c5ca082c",
+          "pages": 1
+        },
+        "05_Darlehensvertrag_Haderlein.pdf": {
+          "sha256": "35f9640b156142c4917191eb248584cd9bb7b72bd2fe4a12dbd44f164cc8e799",
+          "pages": 1
+        },
+        "06_Auszahlung_Darlehen.pdf": {
+          "sha256": "65656bcc0088549dbbde6f4efd636ed3756724782484afeacc9723ee13debb41",
+          "pages": 1
+        },
+        "07_Gesellschafterbeschluss_Rueckzahlung.pdf": {
+          "sha256": "678dbc723a8b52aeebbcbd9a67747297d9ff418dcd768b0c3cd7bd8764fc0100",
+          "pages": 1
+        },
+        "08_Liquiditaetswarnung.pdf": {
+          "sha256": "a110da7cfeddfa5ed8c1ee93c30d3c2f9b120f22bebecd0cc11a8e594028c1e3",
+          "pages": 1
+        },
+        "09_Chat_Haderlein_Geschaeftsfuehrung.pdf": {
+          "sha256": "880587d7f3a743ca2dcd9fcc0457514a9a5749edcf8fce9d6c7f809a48b3871d",
+          "pages": 1
+        },
+        "10_Servicevertrag_Entwurf.pdf": {
+          "sha256": "f2bbf92f639ee3df2926f73c19103f1616cc66d1d606af32b9a42bf0d3ea77e1",
+          "pages": 1
+        },
+        "11_Zahlungsanforderung_Haderlein.pdf": {
+          "sha256": "036b76f8c97880d2926a5dabc094e716962709839f816cf7dc7b568cdfbb76f1",
+          "pages": 1
+        },
+        "12_Zahlungsfreigabe.pdf": {
+          "sha256": "1f88d8c7923af9c17424578f3bb1871159aaf7785336ca66c5dfe08b1f5b42d7",
+          "pages": 1
+        },
+        "13_Kontoauszug_Rueckzahlung.pdf": {
+          "sha256": "ae01f62d26adfdbb382a3c4337b6191b23638dcfde939f77085bbb9e87475f7a",
+          "pages": 1
+        },
+        "14_Darlehensabgleich.pdf": {
+          "sha256": "957d867accd4c6e6b6715779ee3f7f384b4508932399d7b2482e70176fe0c7b8",
+          "pages": 1
+        },
+        "15_Masseabfluss.pdf": {
+          "sha256": "ed4ed0da069f057b26e2ad966fb9014f0cba533bf9735009f06df520077b711e",
+          "pages": 1
+        },
+        "16_Anfechtungspruefung.pdf": {
+          "sha256": "762f7ff5d54e475ca4e8183a8a6361562f0484fce25dece571f3c454fbcce971",
+          "pages": 1
+        },
+        "17_Aufforderung_Zweizeiler.pdf": {
+          "sha256": "8b4c187240d9aa4fa1aab0e86994ce842a34b624721061f952a601901383b770",
+          "pages": 1
+        },
+        "18_Anlage_Zahlungsspiegel.pdf": {
+          "sha256": "0899a3ef4a49914285885ea97c8ce2168f5a3463f172d09f8d44b36f07ce7d06",
+          "pages": 1
+        },
+        "19_Zustellung_Aufforderung.pdf": {
+          "sha256": "3ccb92965e343103ac8682eeb7decaebffe3f016cf77ceff8e638232d7f50165",
+          "pages": 1
+        },
+        "20_Ablehnung_Beklagter.pdf": {
+          "sha256": "b091cd0e6c6f1e766a316009d9b7cf6e25258c1fb8a11668d6e35f2b83abf61f",
+          "pages": 1
+        },
+        "21_Klageschrift.pdf": {
+          "sha256": "39ac7674200a1ad42032e74f325c253136245de0f175e4bf366470b2058e9770",
+          "pages": 4
+        },
+        "22_Anlagenverzeichnis.pdf": {
+          "sha256": "1f396590e27a0c23a71299c6c79cd803499f97da551e1744c15cad8cc7b32fec",
+          "pages": 1
+        },
+        "23_Klageeinreichung.pdf": {
+          "sha256": "89b601b41306cbd4888cb9a9f9b404089800d66a28f23be378ea2cbffc080fad",
+          "pages": 1
+        },
+        "24_Verteidigungsnotiz.pdf": {
+          "sha256": "3292f502a594784647e3e03a5168ba0a9012499f6735f18292cf69799914b73b",
+          "pages": 1
+        }
+      }
+    },
+    "insolvenzanfechtung-veedelwende-zession-koeln": {
+      "originals": 24,
+      "intake_originals": 16,
+      "formats": {
+        ".docx": 10,
+        ".eml": 4,
+        ".pdf": 7,
+        ".txt": 1,
+        ".xlsx": 2
+      },
+      "pdf_documents": 24,
+      "document_pages": 29,
+      "register_pages": 0,
+      "total_pages": 29,
+      "original_files": {
+        "Grundakte/02_Insolvenzantrag_Eingang.pdf": "3a6df9ac666a3bfcbe2dd1abf05cbea5a27d84bb91a2d182b1f39ce00aec2c00",
+        "Grundakte/03_Eroeffnungsbeschluss.pdf": "a0013bb5dcd5632908660af2c6483822faf10e5821c826f01c5a09401b54a0cd",
+        "Grundakte/05_Darlehensvertrag_Zech.docx": "ce496865cdaeb74ae7fd35a86bdffacbc76f3c7d05e47783d8401674c1f74683",
+        "Grundakte/06_Darlehensauszahlung.pdf": "5f70c48d149c83042e1753e3b8170dd8c5219a114520b9bcb6ae3d9c773cf48a",
+        "Grundakte/07_Kauf_Abtretung.docx": "5e345ef42bf1564ecb55cf66ea3cbda19da20723fa4148d3c95a9ac015a3559d",
+        "Grundakte/08_Kaufpreiszahlung_Quast.pdf": "af2a3749c7b28fa487635038b07f5d2c42e6996b815b0b50340153fb1c83cd0d",
+        "Grundakte/09_Abtretungsanzeige.eml": "474f9583d890dc9e627256d2e44c5064213c47ae576ab9a271f5e15fa64c6f75",
+        "Grundakte/10_Bestaetigung_GmbH.docx": "fdfe133d2220a526464b71ef7874989ea259fafefade0f034c104930e895a425",
+        "Grundakte/11_Rueckzahlungsanforderung_Quast.eml": "9944aee5d028ac780efa2fb30748f9e8a79c511cc62c630862becbcb45edb272",
+        "Grundakte/12_Kontoauszug_Rueckzahlung.pdf": "debbc37946fd15a86cab3982229fb506536cdd1e1a0509239e819c962178215a",
+        "Grundakte/13_Abtretungsabgleich.xlsx": "ca9e8fffb0c0d32df66eb5a2e55e77c62ef7eb6a743af4444a9d34d0073b9ee1",
+        "Grundakte/14_Zahlungsabgleich.xlsx": "ba3725fae881c6bd9c2668af67dae099ef94808bbeca9db3bc1b014eb2b30948",
+        "Grundakte/15_Chat_Zech_Quast.txt": "b30e34ceaae4db3c9189cf9d584b038ba57b03817d449b16bb8ddb8b78760ada",
+        "Grundakte/18_Anlage_Zahlungsspiegel.pdf": "ddc0760ac882e0ff00d12d7761a3b061ff29565a484526a325e9006539fcb36c",
+        "Grundakte/19_Zustellung_Aufforderung.eml": "c5d2620f67735aa7f41d996c544d773a95bf94097411bbac517460b7a0426c94",
+        "Grundakte/20_Anwalt_Ablehnung.eml": "4ad75d24de7c1eb339efafd5f8de9e74111da65b5763ce3a78c1d715e72c41cc",
+        "01_Aktenauftrag_Verwalterin.docx": "aca0c716974badbbd910c1b12439ecf1fc5c047104222b97fec86de0222edac4",
+        "04_Gesellschafterliste.pdf": "a5d83e9d5a2f796ef1556d22bada95e3bded74171feadea63d8c07d369e4ee97",
+        "16_Ermittlungsvermerk_Verbindungen.docx": "6956f752ab20f78e8b956f4e2fb48a2386fd80886f31e484e969d576cafd5dd8",
+        "17_Aufforderung_Zweizeiler.docx": "5d06da6b6b0e24626a477d85c91e9f8157cdf765ec356ac9a0b780ca6f912659",
+        "21_Risikomemo_BGH.docx": "7c8782c54a80ddfedfbdbc9298a9431da57e713580ac7b99c50a6b3fef320770",
+        "22_Klageschrift.docx": "babe11bb2b01b51adb8593d5d7e47a108555460e68d597b158dc052d9245f39c",
+        "23_Anlagenverzeichnis.docx": "d262eddad6dfebbe7cc92a7ec1850f27f89e0aeddea3c646a4c937a11abf91c1",
+        "24_Klageerwiderung.docx": "b49b855718843ec91f922bd20eb17ca592d553b98db12bdd636aba62df92aed6"
+      },
+      "pdf_files": {
+        "01_Aktenauftrag_Verwalterin.pdf": {
+          "sha256": "18e68ef68ff55df5b398f620daa2a5c4ed795c6b9d979d2e326f77db7a5396e1",
+          "pages": 1
+        },
+        "02_Insolvenzantrag_Eingang.pdf": {
+          "sha256": "3a6df9ac666a3bfcbe2dd1abf05cbea5a27d84bb91a2d182b1f39ce00aec2c00",
+          "pages": 1
+        },
+        "03_Eroeffnungsbeschluss.pdf": {
+          "sha256": "a0013bb5dcd5632908660af2c6483822faf10e5821c826f01c5a09401b54a0cd",
+          "pages": 1
+        },
+        "04_Gesellschafterliste.pdf": {
+          "sha256": "a5d83e9d5a2f796ef1556d22bada95e3bded74171feadea63d8c07d369e4ee97",
+          "pages": 1
+        },
+        "05_Darlehensvertrag_Zech.pdf": {
+          "sha256": "7617b7467af5ef2aebb70857ba5823aae4e164ec70289f0efc52a01ef7f8c3c7",
+          "pages": 1
+        },
+        "06_Darlehensauszahlung.pdf": {
+          "sha256": "5f70c48d149c83042e1753e3b8170dd8c5219a114520b9bcb6ae3d9c773cf48a",
+          "pages": 1
+        },
+        "07_Kauf_Abtretung.pdf": {
+          "sha256": "1b4c05dc3069a085c12ab9a6826305778a5073499c8b5449046cc667ef67c3a3",
+          "pages": 1
+        },
+        "08_Kaufpreiszahlung_Quast.pdf": {
+          "sha256": "af2a3749c7b28fa487635038b07f5d2c42e6996b815b0b50340153fb1c83cd0d",
+          "pages": 1
+        },
+        "09_Abtretungsanzeige.pdf": {
+          "sha256": "f38e396bef384d4b910c580f3bbb1749e6a7aed42a9949672c4731902bc01472",
+          "pages": 1
+        },
+        "10_Bestaetigung_GmbH.pdf": {
+          "sha256": "f89589215ee06edad442a21aedb14a3f3ff90a6e6bb4c811ada8678f52191582",
+          "pages": 1
+        },
+        "11_Rueckzahlungsanforderung_Quast.pdf": {
+          "sha256": "7d4e073aa40cf6fd5e6d8357ed2678e9805bf805ca735ea8edaa94990560147f",
+          "pages": 1
+        },
+        "12_Kontoauszug_Rueckzahlung.pdf": {
+          "sha256": "debbc37946fd15a86cab3982229fb506536cdd1e1a0509239e819c962178215a",
+          "pages": 1
+        },
+        "13_Abtretungsabgleich.pdf": {
+          "sha256": "fac2e0bb413c79aaaabe8df9352dba0d6e1e3fc70790a4ba51dbd72453c0c2df",
+          "pages": 1
+        },
+        "14_Zahlungsabgleich.pdf": {
+          "sha256": "c41bf0fed84d357c8e831cfcbdbcf7e32b544ec75f27ef242e003262af0a98a8",
+          "pages": 1
+        },
+        "15_Chat_Zech_Quast.pdf": {
+          "sha256": "e7ff40fe96f488489aa203896f26a3b7b807674a1c249f9a6f1a6d42fbf0845e",
+          "pages": 1
+        },
+        "16_Ermittlungsvermerk_Verbindungen.pdf": {
+          "sha256": "241c60a833868bdbe93e6961bdf6ff081e5be262b5edfc5368a885175d72bd34",
+          "pages": 1
+        },
+        "17_Aufforderung_Zweizeiler.pdf": {
+          "sha256": "4d9b560f37a0a8cb6419354592e1f20e6f8cb9af2dd14aaf773c18e81ad12cb1",
+          "pages": 1
+        },
+        "18_Anlage_Zahlungsspiegel.pdf": {
+          "sha256": "ddc0760ac882e0ff00d12d7761a3b061ff29565a484526a325e9006539fcb36c",
+          "pages": 1
+        },
+        "19_Zustellung_Aufforderung.pdf": {
+          "sha256": "27d06dcbd5a77e15e3eb366d739afc105e8bfb91a61253b733134ffc2c20e096",
+          "pages": 1
+        },
+        "20_Anwalt_Ablehnung.pdf": {
+          "sha256": "b1fd1efbb899489bd9410fb90ec99609afec49e7e7d4fab6630e39c3d9eb99cd",
+          "pages": 1
+        },
+        "21_Risikomemo_BGH.pdf": {
+          "sha256": "a081ae9ffd16672e591c68e0f648c9c817ed51c516a6952a2afe8822f6dbe3fa",
+          "pages": 2
+        },
+        "22_Klageschrift.pdf": {
+          "sha256": "65b43a5a39ac976ac71ad200d517c0ff7972d700fa1b55b553164ffbeeb0c632",
+          "pages": 4
+        },
+        "23_Anlagenverzeichnis.pdf": {
+          "sha256": "e3a67cc3b22b02f5d417480b6a59709dfcea8db82ea80524735b6b2732be85b0",
+          "pages": 1
+        },
+        "24_Klageerwiderung.pdf": {
+          "sha256": "d7e78546dea638ec517308616e4c695aa114a98a8956bb8cf0de6aae64d9a9ac",
+          "pages": 2
+        }
+      }
+    },
+    "forderungsmanagement-baeckerei-behaeltertausch-hamburg": {
+      "originals": 55,
+      "intake_originals": 34,
+      "formats": {
+        ".csv": 3,
+        ".docx": 2,
+        ".eml": 12,
+        ".pdf": 34,
+        ".png": 2,
+        ".xlsx": 2
+      },
+      "pdf_documents": 55,
+      "document_pages": 108,
+      "register_pages": 0,
+      "total_pages": 108,
+      "original_files": {
+        "01_Gerichtseingang_2026-11-06/01_Klage_2026-10-30.pdf": "c673b091ac8c07754f1fa1c87369fb468a0e430785352f34dd8947384b6686a9",
+        "01_Gerichtseingang_2026-11-06/02_Verfuegung_2026-11-02.pdf": "55518bb5d653481d3b5a044ce4d1bea46c3f1e8856858df745c4aae485716eef",
+        "01_Gerichtseingang_2026-11-06/03_Zustellungsumschlag_2026-11-05.pdf": "73c0eecd5c68f421477d4bea7e71128e21452c19c83fcb6f10afd91a21c0fd4a",
+        "01_Gerichtseingang_2026-11-06/04_Weiterleitung_Gerichtspost.eml": "5978f89fd6c0f23c5a4daa6c75e20fa8d0bb43195e30705b4218b101e5e3198d",
+        "01_Gerichtseingang_2026-11-06/05_K13_Kontoaufstellung.pdf": "25599fcf2cd0177878816e46f4052dc7847432553cac01cfdbad4983c9c10a81",
+        "01_Gerichtseingang_2026-11-06/06_Anlagenverzeichnis.pdf": "f4f3c584a1adc508d638ffe8a5c16527c066c04abaa37e1848bb17d3f0b61fca",
+        "02_Nachlieferung_2026-11-12_und_13/01_Bestandskarte_Klinikum_2025-12-29.pdf": "79924fce84107d27532e05a5ce9d312a54d8cde2d36440a2357cbaa70e97bb6a",
+        "02_Nachlieferung_2026-11-12_und_13/02_Klinikum_Vertragsgrundlage.pdf": "8ee264581d89d46c993e4134edc6acf995b98db5affc713573c8b22ab568810b",
+        "02_Nachlieferung_2026-11-12_und_13/03_Systemticket_2026-11-12.pdf": "bf3aec126d3cd3878a39a4bd69d036d328f4ea8eb6e47285faec8a8c3c547dda",
+        "02_Nachlieferung_2026-11-12_und_13/04_Fahrerauskunft_2026-11-12.pdf": "98f7cefc2aa054a0320ffa9e45fd707c81f183663af689711b192fe862a56c13",
+        "02_Nachlieferung_2026-11-12_und_13/05_Klinikum_Freigabe_und_Auskunft.pdf": "c213cfc5377df147f30c260c4385b28464d779cfafcf8579ab20f4548b22421c",
+        "02_Nachlieferung_2026-11-12_und_13/06_Klinikum_Rechnungsjournal.pdf": "d739e1833b09017aac5066864fcf5a49e7617a7705da59d4a985600e997288ed",
+        "02_Nachlieferung_2026-11-12_und_13/07_Fahrzeugereignisse_2026-01_bis_09.csv": "282592c902b79d16c41117f98e4881cf1f3e255b98eead0209800ee8fd597d89",
+        "02_Nachlieferung_2026-11-12_und_13/08_Zuordnungshistorie.csv": "76e2c38524a24cd4cf0f0454808c1f4bd441c7e4afcfe4fb995c47eca45b9df7",
+        "02_Nachlieferung_2026-11-12_und_13/09_Torjournal_Klinikum.csv": "afd1d266739b70bae2a7b3f584fc42e57ee48ac9b5f45cde4e52508b9694b293",
+        "02_Nachlieferung_2026-11-12_und_13/10_IT_Antwort_mit_Rohdaten.eml": "a1f3e23d2861f27fb813baf219507c0f60b0c51fc178bf18c2a1e90fdecdb1a1",
+        "02_Nachlieferung_2026-11-12_und_13/11_Mandantin_nach_Foto.eml": "f17fcd7a5bcead478a96a8e55dbce1d66df4d50eaacf0eeee5bea2462e398ba4",
+        "02_Nachlieferung_2026-11-12_und_13/12_Klinikum_Unterlagen.eml": "8aba15fed0597f85ab2f8f6ed954c09c9643e282080001585008e0ba8e705792",
+        "02_Nachlieferung_2026-11-12_und_13/13_Klaegerkollege_2026-11-13.eml": "e20c80d8b5f776aa3db9fc4d52cdc2086c75cf1a8ee50a4c6b5933464e4090d6",
+        "02_Nachlieferung_2026-11-12_und_13/14_Disposition_Sicherung_2026-11-12.png": "aaf5e7adca205200768684de18255d3cfe9e4fa18220c98f8d90396276322a85",
+        "02_Nachlieferung_2026-11-12_und_13/15_Ereignisexport_Disposition.xlsx": "53b90184a4938ecb345d9dd3c5dadd32294ebda291cae942d360d71dc5dcfff4",
+        "Grundakte/01_Entsorgungsvertrag_2025-12-12.pdf": "8bbcfa4ee839f7f41ab02af5cf9bd45b3cf15fcfdcbe41f70b9b4c0afefbeb11",
+        "Grundakte/02_Preisblatt_unterzeichnet.pdf": "e48daf8ac8d7eb5688c2f1ac9b4819af2373e70d7d3c92612d37d178025e3c4b",
+        "Grundakte/03_Behaelteruebergabe_2025-12-29.pdf": "8eceef331d01e6a2d674fe5dc26b8bcd343e0c75059b35562fe320c1ab184e57",
+        "Grundakte/04_Startbestätigung.eml": "68b84cfaf6e837b986217494bdf813f3c5e621f8917f5258e8f72c235976342c",
+        "Grundakte/05_Reklamation_Maerz.eml": "8b79b3321fc6f72cb4d1e97af394837cbf64278bd82a2a3892bcde2bd2c074c3",
+        "Grundakte/06_Serviceantwort_Maerz.eml": "9f698e6e71e9ee75d64c73905276569b710fdaed61a533816aed7136116051cc",
+        "Grundakte/07_Abschlag_und_Belegbitte.eml": "dc11db3e4382ba81376afda506c502d366a1431b6cd43deb185ee583d64b96e4",
+        "Grundakte/08_Fahrernotiz_Juni.eml": "18bffaa61a34598f4771b08edd35bf0e214a288205a4e21e8b344b700ea6e227",
+        "Grundakte/09_Mahnung_2026-10-19.pdf": "2629864ee75892bed39d3b18be04cae2636080a83e54a4a2c2493544f8a7ee83",
+        "Grundakte/10_Letzte_Belegbitte.eml": "1faa152e48c80e8c362602fcffaf4bdc7612793c6cd53976e77bae1edf7f26db",
+        "Grundakte/11_Betriebsangaben_2026-11-06.docx": "382b65eca672871f6a20a379f2ff917b14336e2072229589bec6eaaab5ec6990",
+        "Grundakte/12_Mandatsanfrage.eml": "bc8924aefc38d7cf7f7481a54169ee007460dd3554bd8f2625665a1d2fc0624f",
+        "Grundakte/13_Betriebsablauf_und_Hofplan.pdf": "348e696a6db24639fdfc7eb970f10944534b8404758ed0d106ae733a8614601a",
+        "Grundakte/14_Schichtnotizen_Juni.docx": "2cab315b601cf2358c970b532456e8f3f56358115a4bb0d2dbfd2bdf542ee47e",
+        "Grundakte/15_Kundenportal_2026-11-06.png": "526f21e1bbd01570731b5203bccd58d9bebbbcdac3a62a130a8d6239579ab253",
+        "Grundakte/16_Produktion_und_Ruecklaeufe.xlsx": "360973e9caa6b37a32c8c6c58c4e6608c02c8b5a0cbf22910a6090694e2360ab",
+        "Grundakte/Bank/Kontoauszug_2026-02.pdf": "58c5622527ecfa757c65ac4b12da1c2b6783461104f76dadec5658c758b4bcf3",
+        "Grundakte/Bank/Kontoauszug_2026-03.pdf": "e04e813c0e0d10dd6062d9dc2b08f43d2b22fc05feefdd323dc53a800a0c488f",
+        "Grundakte/Bank/Kontoauszug_2026-04.pdf": "3666253022254d1dfd710667be979dbf8755fcbabb3e3c5b85773e2b3def23e4",
+        "Grundakte/Bank/Kontoauszug_2026-05.pdf": "564b966888274720394e06d637ce2e1f83c8e6a1cd4b69395fe74e77430c5210",
+        "Grundakte/Bank/Kontoauszug_2026-06.pdf": "8d270a63bccd38eeae4a622e3cde430addc325967c1d15c11a4b586645a98e6f",
+        "Grundakte/Bank/Kontoauszug_2026-07.pdf": "1f98b14aa5f8c9dcdd304706af83ba9f2a3bc6da391bf942fb1bad267a5f4a09",
+        "Grundakte/Bank/Kontoauszug_2026-08.pdf": "915743c5e8316b10ee3ca4c79e268f31356d176af481d09bccd1c7439c619214",
+        "Grundakte/Bank/Kontoauszug_2026-09.pdf": "819a7dabaf744998487f0ee7a7c1cabf4d646b53a3281f45b44f427d51c24a95",
+        "Grundakte/Bank/Kontoauszug_2026-10.pdf": "15267403aa9b4b2d27ea3b82f0c4e2e6c771491ec834e7c001ac03c5cd11bb1d",
+        "Grundakte/Rechnungen/EW-26-01-1047.pdf": "dbfaca96c79185632419a524f52e1bd626521cf49dc53d0fd30ce344807575f9",
+        "Grundakte/Rechnungen/EW-26-02-1047.pdf": "c68c35a3046beb4769e57b3518a958e46ec338136b20d9eecd9f0b74377a539d",
+        "Grundakte/Rechnungen/EW-26-03-1047.pdf": "a9ba0bf2aeb91181bdfeb7e99f8ec1ba5b968aee4d3a93e1c4d7110b8ec00faf",
+        "Grundakte/Rechnungen/EW-26-04-1047.pdf": "e3d61e72641a8d9e90e02c97d8c29798a764068d6fd6489cf1bffe916cc838d9",
+        "Grundakte/Rechnungen/EW-26-05-1047.pdf": "76c75b8c50021209d7f51a087298fb95d0cda37c1eabf737bfb3c0dcb3bc8736",
+        "Grundakte/Rechnungen/EW-26-06-1047.pdf": "92fa237d0456792ec7660c1ff1c65ab9951443b6d10a611b210d244043cfb5db",
+        "Grundakte/Rechnungen/EW-26-07-1047.pdf": "7c502930bee55a3dad3d20c28e3fe03234c0951236f2c666c4df97a5d77ed671",
+        "Grundakte/Rechnungen/EW-26-08-1047.pdf": "532c5284e135b8217b5112c9bb694bbec318144026ab0de32170e67e36b85d59",
+        "Grundakte/Rechnungen/EW-26-09-1047.pdf": "0ec571882e6c0bb44d6d6a9ec74173d40d921bcbeb7cf84dc3fc4a296394e1c0"
+      },
+      "pdf_files": {
+        "01_Gerichtseingang_2026-11-06/01_Klage_2026-10-30.pdf": {
+          "sha256": "c673b091ac8c07754f1fa1c87369fb468a0e430785352f34dd8947384b6686a9",
+          "pages": 4
+        },
+        "01_Gerichtseingang_2026-11-06/02_Verfuegung_2026-11-02.pdf": {
+          "sha256": "55518bb5d653481d3b5a044ce4d1bea46c3f1e8856858df745c4aae485716eef",
+          "pages": 1
+        },
+        "01_Gerichtseingang_2026-11-06/03_Zustellungsumschlag_2026-11-05.pdf": {
+          "sha256": "73c0eecd5c68f421477d4bea7e71128e21452c19c83fcb6f10afd91a21c0fd4a",
+          "pages": 1
+        },
+        "01_Gerichtseingang_2026-11-06/04_Weiterleitung_Gerichtspost.pdf": {
+          "sha256": "8fe708d27bb2ca38a5330b35ec07bbab7be00775129f0b7f3b047ba159beec4c",
+          "pages": 1
+        },
+        "01_Gerichtseingang_2026-11-06/05_K13_Kontoaufstellung.pdf": {
+          "sha256": "25599fcf2cd0177878816e46f4052dc7847432553cac01cfdbad4983c9c10a81",
+          "pages": 1
+        },
+        "01_Gerichtseingang_2026-11-06/06_Anlagenverzeichnis.pdf": {
+          "sha256": "f4f3c584a1adc508d638ffe8a5c16527c066c04abaa37e1848bb17d3f0b61fca",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/01_Bestandskarte_Klinikum_2025-12-29.pdf": {
+          "sha256": "79924fce84107d27532e05a5ce9d312a54d8cde2d36440a2357cbaa70e97bb6a",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/02_Klinikum_Vertragsgrundlage.pdf": {
+          "sha256": "8ee264581d89d46c993e4134edc6acf995b98db5affc713573c8b22ab568810b",
+          "pages": 2
+        },
+        "02_Nachlieferung_2026-11-12_und_13/03_Systemticket_2026-11-12.pdf": {
+          "sha256": "bf3aec126d3cd3878a39a4bd69d036d328f4ea8eb6e47285faec8a8c3c547dda",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/04_Fahrerauskunft_2026-11-12.pdf": {
+          "sha256": "98f7cefc2aa054a0320ffa9e45fd707c81f183663af689711b192fe862a56c13",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/05_Klinikum_Freigabe_und_Auskunft.pdf": {
+          "sha256": "c213cfc5377df147f30c260c4385b28464d779cfafcf8579ab20f4548b22421c",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/06_Klinikum_Rechnungsjournal.pdf": {
+          "sha256": "d739e1833b09017aac5066864fcf5a49e7617a7705da59d4a985600e997288ed",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/07_Fahrzeugereignisse_2026-01_bis_09.pdf": {
+          "sha256": "b6747407a073a58a461f644afd7490221cb8624b983b6a9e27b11030e113b9e0",
+          "pages": 18
+        },
+        "02_Nachlieferung_2026-11-12_und_13/08_Zuordnungshistorie.pdf": {
+          "sha256": "62a4b7b537bfcf9d2a24340e48531da2d4a4c99b48bb635fd0ea19b45985524b",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/09_Torjournal_Klinikum.pdf": {
+          "sha256": "93e85d379287610dc53f9499fa0b0959a4ddc4a864d54462d2102d5c16e3bde8",
+          "pages": 8
+        },
+        "02_Nachlieferung_2026-11-12_und_13/10_IT_Antwort_mit_Rohdaten.pdf": {
+          "sha256": "8d53d0257f95c4123ee39d5479dd87206a697d48ed2d1cfb2c05317449345717",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/11_Mandantin_nach_Foto.pdf": {
+          "sha256": "ef12b9d1da250e44391a5ca96c5a80b037169f0fce3b59db113a79808c057850",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/12_Klinikum_Unterlagen.pdf": {
+          "sha256": "b5aa594a6eb930ccd3e4e16c2f2d149df552badba9833d391eecadb43e817018",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/13_Klaegerkollege_2026-11-13.pdf": {
+          "sha256": "03920263be4240214b7f00d89af0ab1455a0c12a79e919d4b706a77f21e38698",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/14_Disposition_Sicherung_2026-11-12.pdf": {
+          "sha256": "8172dfcbcdaaeeb1ba56b8301c36e680e742bb6f46a6dba3b21dcc08d8be2143",
+          "pages": 1
+        },
+        "02_Nachlieferung_2026-11-12_und_13/15_Ereignisexport_Disposition.pdf": {
+          "sha256": "e4a86858309a2abe1a743aeac0c8c631c9e87c0b02fc02b8dc6d3df410b2ee7c",
+          "pages": 15
+        },
+        "Grundakte/01_Entsorgungsvertrag_2025-12-12.pdf": {
+          "sha256": "8bbcfa4ee839f7f41ab02af5cf9bd45b3cf15fcfdcbe41f70b9b4c0afefbeb11",
+          "pages": 3
+        },
+        "Grundakte/02_Preisblatt_unterzeichnet.pdf": {
+          "sha256": "e48daf8ac8d7eb5688c2f1ac9b4819af2373e70d7d3c92612d37d178025e3c4b",
+          "pages": 1
+        },
+        "Grundakte/03_Behaelteruebergabe_2025-12-29.pdf": {
+          "sha256": "8eceef331d01e6a2d674fe5dc26b8bcd343e0c75059b35562fe320c1ab184e57",
+          "pages": 1
+        },
+        "Grundakte/04_Startbestätigung.pdf": {
+          "sha256": "9e7b716355ef71047401b0f01a9c690f2392148eebc4ea0f77a53b85377be9f5",
+          "pages": 1
+        },
+        "Grundakte/05_Reklamation_Maerz.pdf": {
+          "sha256": "563eb215aab90aa50bc387fc25a6f6b3ba8fb95c4467278a36e793b4375fe172",
+          "pages": 1
+        },
+        "Grundakte/06_Serviceantwort_Maerz.pdf": {
+          "sha256": "ea11dd92f4ff52dea7f95db51944386fe813861edf3c544f3c8a29454b785012",
+          "pages": 1
+        },
+        "Grundakte/07_Abschlag_und_Belegbitte.pdf": {
+          "sha256": "fe7dbe425e2f375e95a1dc675dfe9bfe520aceeafad6dec87cbeb298fcff86f6",
+          "pages": 1
+        },
+        "Grundakte/08_Fahrernotiz_Juni.pdf": {
+          "sha256": "7fe0fb2c26a1aa1074b7730354d72ed3bc2b0b9baa997be57e8f4ece2b31a6ee",
+          "pages": 1
+        },
+        "Grundakte/09_Mahnung_2026-10-19.pdf": {
+          "sha256": "2629864ee75892bed39d3b18be04cae2636080a83e54a4a2c2493544f8a7ee83",
+          "pages": 1
+        },
+        "Grundakte/10_Letzte_Belegbitte.pdf": {
+          "sha256": "5026909aef8d03e2eacf3bdb11649e30a25be8eb02b05d877a7e499286e2a211",
+          "pages": 1
+        },
+        "Grundakte/11_Betriebsangaben_2026-11-06.pdf": {
+          "sha256": "896e5bab6926448f460dde079b8d6529282570945264d25fbf89aeea50f6a93f",
+          "pages": 1
+        },
+        "Grundakte/12_Mandatsanfrage.pdf": {
+          "sha256": "abf38f47a780a31757158d01ecc1e2ed620d100a8b57de2d431a9e62c7a576a6",
+          "pages": 1
+        },
+        "Grundakte/13_Betriebsablauf_und_Hofplan.pdf": {
+          "sha256": "348e696a6db24639fdfc7eb970f10944534b8404758ed0d106ae733a8614601a",
+          "pages": 1
+        },
+        "Grundakte/14_Schichtnotizen_Juni.pdf": {
+          "sha256": "a9f2f10f8d184399064c6c49bebce1d92942ef1a640c74383b77ee3807d7f490",
+          "pages": 1
+        },
+        "Grundakte/15_Kundenportal_2026-11-06.pdf": {
+          "sha256": "9b202c8396f063b85bb920fa9c6753e9bc53165d01f54ee9d330e87fd6836333",
+          "pages": 1
+        },
+        "Grundakte/16_Produktion_und_Ruecklaeufe.pdf": {
+          "sha256": "fa923be361f7d6612ca175c900e06cfc0cee6da8615f9d279b24bf119ec4f368",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-02.pdf": {
+          "sha256": "58c5622527ecfa757c65ac4b12da1c2b6783461104f76dadec5658c758b4bcf3",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-03.pdf": {
+          "sha256": "e04e813c0e0d10dd6062d9dc2b08f43d2b22fc05feefdd323dc53a800a0c488f",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-04.pdf": {
+          "sha256": "3666253022254d1dfd710667be979dbf8755fcbabb3e3c5b85773e2b3def23e4",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-05.pdf": {
+          "sha256": "564b966888274720394e06d637ce2e1f83c8e6a1cd4b69395fe74e77430c5210",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-06.pdf": {
+          "sha256": "8d270a63bccd38eeae4a622e3cde430addc325967c1d15c11a4b586645a98e6f",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-07.pdf": {
+          "sha256": "1f98b14aa5f8c9dcdd304706af83ba9f2a3bc6da391bf942fb1bad267a5f4a09",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-08.pdf": {
+          "sha256": "915743c5e8316b10ee3ca4c79e268f31356d176af481d09bccd1c7439c619214",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-09.pdf": {
+          "sha256": "819a7dabaf744998487f0ee7a7c1cabf4d646b53a3281f45b44f427d51c24a95",
+          "pages": 1
+        },
+        "Grundakte/Bank/Kontoauszug_2026-10.pdf": {
+          "sha256": "15267403aa9b4b2d27ea3b82f0c4e2e6c771491ec834e7c001ac03c5cd11bb1d",
+          "pages": 1
+        },
+        "Grundakte/Rechnungen/EW-26-01-1047.pdf": {
+          "sha256": "dbfaca96c79185632419a524f52e1bd626521cf49dc53d0fd30ce344807575f9",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-02-1047.pdf": {
+          "sha256": "c68c35a3046beb4769e57b3518a958e46ec338136b20d9eecd9f0b74377a539d",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-03-1047.pdf": {
+          "sha256": "a9ba0bf2aeb91181bdfeb7e99f8ec1ba5b968aee4d3a93e1c4d7110b8ec00faf",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-04-1047.pdf": {
+          "sha256": "e3d61e72641a8d9e90e02c97d8c29798a764068d6fd6489cf1bffe916cc838d9",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-05-1047.pdf": {
+          "sha256": "76c75b8c50021209d7f51a087298fb95d0cda37c1eabf737bfb3c0dcb3bc8736",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-06-1047.pdf": {
+          "sha256": "92fa237d0456792ec7660c1ff1c65ab9951443b6d10a611b210d244043cfb5db",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-07-1047.pdf": {
+          "sha256": "7c502930bee55a3dad3d20c28e3fe03234c0951236f2c666c4df97a5d77ed671",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-08-1047.pdf": {
+          "sha256": "532c5284e135b8217b5112c9bb694bbec318144026ab0de32170e67e36b85d59",
+          "pages": 2
+        },
+        "Grundakte/Rechnungen/EW-26-09-1047.pdf": {
+          "sha256": "0ec571882e6c0bb44d6d6a9ec74173d40d921bcbeb7cf84dc3fc4a296394e1c0",
+          "pages": 2
+        }
+      }
+    }
+  },
+  "bundles": {
+    "Insolvenzreife_Drei_Originalakten.zip": 3,
+    "Neun_Arbeitsakten_Originalformate.zip": 9,
+    "Insolvenzreife_Drei_Grundakten.zip": 298
+  }
+}

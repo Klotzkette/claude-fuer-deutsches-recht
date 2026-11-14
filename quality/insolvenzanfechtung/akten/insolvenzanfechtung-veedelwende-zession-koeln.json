@@ -141,7 +141,7 @@
       "file": "22_Klageschrift.docx",
       "pages": 4,
       "start_page": 23,
-      "sha256": "0e5410e2d5033b86670ff85205924369fd40f3175c45489cf3f0536688593810"
+      "sha256": "babe11bb2b01b51adb8593d5d7e47a108555460e68d597b158dc052d9245f39c"
     },
     {
       "file": "23_Anlagenverzeichnis.docx",
@@ -153,7 +153,7 @@
       "file": "24_Klageerwiderung.docx",
       "pages": 2,
       "start_page": 28,
-      "sha256": "6f3ad8dc4602000e60fe1d28547414be72ced3d8ca16dd9a117128a80d63f591"
+      "sha256": "b49b855718843ec91f922bd20eb17ca592d553b98db12bdd636aba62df92aed6"
     }
   ]
 }

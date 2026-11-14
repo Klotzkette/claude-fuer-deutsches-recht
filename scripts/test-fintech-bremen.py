@@ -20,6 +20,7 @@ from docx import Document
 from openpyxl import load_workbook
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
+from fintech_schriftsatz_satz import approved_original_hashes
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
@@ -43,8 +44,8 @@ class FintechCase(unittest.TestCase):
         with self.assertRaises(ValueError):
             builder.supplement_inventory('Kein Verzeichnis', 'zusatz', rows)
 
-    def test_original_35_files_are_byte_identical(self):
-        baseline = json.loads((FIXTURES/'original-sha256.json').read_text())
+    def test_original_35_files_match_explicitly_approved_layout_migration(self):
+        baseline = approved_original_hashes(FIXTURES/'original-sha256.json')
         self.assertEqual(len(baseline), 35)
         for name, digest in baseline.items():
             with self.subTest(path=name):
@@ -187,9 +188,9 @@ class FintechCase(unittest.TestCase):
         self.assertIn('Einzelrichter', defence)
         self.assertIn('Videoverhandlung', defence)
 
-    def test_claim_has_25_pages_and_twelve_exhibits_have_75_pages(self):
+    def test_claim_has_18_pages_and_twelve_exhibits_have_75_pages(self):
         claim = CASE/'01_eingang/01_Klage_20260908.pdf'
-        self.assertEqual(len(PdfReader(claim).pages), 25)
+        self.assertEqual(len(PdfReader(claim).pages), 18)
         exhibits = [p for p in (CASE/'01_eingang').glob('*.pdf') if re.match(r'\d+_K\d+_', p.name)]
         self.assertEqual(len(exhibits), 12)
         self.assertEqual(sum(len(PdfReader(p).pages) for p in exhibits), 75)
@@ -282,7 +283,7 @@ class FintechCase(unittest.TestCase):
                 if name.endswith('.pdf'):
                     self.assertTrue(PdfReader(io.BytesIO(archive.read(name))).pages)
                     self.assertEqual(pdf_content_errors(archive.read(name)), [])
-            for stem, pages in (('00_Klageerwiderung_20260928', 20), ('01_B1_Transfer_Assumption_Agreement', 12)):
+            for stem, pages in (('00_Klageerwiderung_20260928', 14), ('01_B1_Transfer_Assumption_Agreement', 12)):
                 matches = [name for name in archive.namelist() if Path(name).stem == stem]
                 self.assertEqual(len(matches), 1, stem)
                 self.assertEqual(len(PdfReader(io.BytesIO(archive.read(matches[0]))).pages), pages)

@@ -5,22 +5,39 @@
       "folder": "02_klageerwiderung",
       "title": "Klageerwiderung",
       "author": "Dr. Henrik Westhoff",
-      "recipient": "Landgericht Bremen",
+      "recipient": "Landgericht Bremen\n4. Zivilkammer\nDomsheide 16\n28195 Bremen",
       "date": "2026-09-28",
       "reference": "4 O 1186/26",
       "pages": [
         {
-          "heading": "1. Rubrum, Zuständigkeitsrüge und Anträge",
+          "heading": "1 Anträge und Verfahrensstand",
+          "paragraphs": []
+        },
+        {
+          "heading": "1.1 Klageabweisung",
           "paragraphs": [
-            "Rademacher Westhoff Rechtsanwälte PartG mbB, Am Wall 146, 28195 Bremen. An das Landgericht Bremen. Bremen, 28. September 2026. Unser Zeichen: 26-184-NF. Aktenzeichen des Gerichts: 4 O 1186/26.",
-            "In dem Rechtsstreit der Rechtsanwältin Kunigunde von Tettenborn, Contrescarpe 82, 28195 Bremen, als Insolvenzverwalterin über das Vermögen der Weserfunken Präzisionsbau GmbH, Klägerin, gegen die Nexora Frontbank AG, Schottenring 18, 1010 Wien, Österreich, eingetragen beim Handelsgericht Wien unter FN 582741 b, Beklagte, erwidern wir namens der Beklagten auf die Klage vom 8. September 2026, zugestellt am 15. September 2026.",
-            "Vor jeder Einlassung zur Sache rügen wir die internationale Zuständigkeit für die eigenständigen vertraglichen und deliktischen Begehren sowie für hierauf gestützte selbständige Auskunftsansprüche nach Maßgabe der nachfolgenden Ausführungen. Die Rüge erstreckt sich ausdrücklich nicht auf die originären insolvenzrechtlichen Rückgewähransprüche und deren insolvenzspezifische Hilfsansprüche. Eine rügelose Einlassung hinsichtlich der übrigen Ansprüche erfolgt nicht.",
-            "Wir beantragen, die Klage abzuweisen und der Klägerin die Kosten des Rechtsstreits aufzuerlegen. Die Abweisung wird hinsichtlich der von der Zuständigkeitsrüge erfassten Ansprüche vorrangig als unzulässig, hilfsweise als unbegründet, hinsichtlich der insolvenzrechtlichen Rückgewähransprüche als unbegründet beantragt. Dies umfasst das Zahlungsbegehren über 590.000 EUR, die hilfsweise verfolgten 515.000 EUR, die weiteren 68.000 EUR und das Auskunftsbegehren.",
+            "Die Klage wird abgewiesen. Hinsichtlich der eigenständigen vertraglichen und deliktischen Begehren sowie der darauf gestützten selbständigen Auskunftsansprüche wird die Abweisung vorrangig als unzulässig und hilfsweise als unbegründet beantragt. Hinsichtlich der originären insolvenzrechtlichen Rückgewähransprüche und ihrer insolvenzspezifischen Hilfsansprüche wird Sachabweisung beantragt.",
+            "Der Antrag erfasst das Rückgewährbegehren über 590.000,00 EUR, hilfsweise 515.000,00 EUR, das zusätzliche Schadensersatzbegehren über 68.000,00 EUR und die Auskunftsanträge einschließlich aller Hilfsanträge."
+          ]
+        },
+        {
+          "heading": "1.2 Kosten und Vollstreckbarkeit",
+          "paragraphs": [
+            "Der Klägerin werden die Kosten des Rechtsstreits auferlegt. Das Urteil wird nach Maßgabe der gesetzlichen Vorschriften für vorläufig vollstreckbar erklärt."
+          ]
+        },
+        {
+          "heading": "1.3 Frist und Gegenstand der Verteidigung",
+          "paragraphs": [
             "Die Verteidigungsanzeige datiert vom 22. September 2026; die Erwiderung erfolgt innerhalb der bis zum 29. Oktober 2026 laufenden Frist. Die Beklagte war ursprüngliche Darlehensgeberin, aber nicht Empfängerin der angefochtenen Zins- und Tilgungsleistungen. Die Vertragsübernahme beseitigt dagegen nicht ohne Weiteres eine etwaige eigene Haftung aus dem Verhalten der Beklagten vor ihrem Ausscheiden. Auch diesem Vorwurf tritt die Beklagte gesondert entgegen."
           ]
         },
         {
-          "heading": "2. Insolvenzrechtliche Zuständigkeit in Bremen",
+          "heading": "2 Zuständigkeit",
+          "paragraphs": []
+        },
+        {
+          "heading": "2.1 Insolvenzrechtliche Zuständigkeit in Bremen",
           "paragraphs": [
             "Für die Rückgewähr nach Paragrafen 129, 131, 133, 143 InsO begründet der österreichische Sitz der Beklagten keinen Ausschluss der deutschen Gerichtsbarkeit. Das Insolvenzverfahren über das Vermögen der Weserfunken Präzisionsbau GmbH wurde am 1. Juli 2024 beim Amtsgericht Bremen, Insolvenzgericht, unter dem Aktenzeichen 508 IN 146/24 eröffnet. Auf das Verfahren findet die Verordnung (EU) 2015/848 Anwendung. Die Insolvenz betrifft die Produktionsgesellschaft, nicht ein Kreditinstitut; die Branchenzugehörigkeit der Beklagten ändert hieran nichts.",
             "Art. 6 Abs. 1 EUInsVO weist die unmittelbar aus dem Insolvenzverfahren hervorgehenden und eng mit ihm verbundenen Klagen den Gerichten des Eröffnungsmitgliedstaats zu. Die hier erhobene Insolvenzanfechtung fällt darunter. Die Beklagte stellt diesen Zuständigkeitsgrund nicht in Abrede. Für die örtliche Zuständigkeit greift, soweit kein anderer Gerichtsstand besteht, Art. 102c Paragraf 6 Abs. 1 EGInsO mit der Anknüpfung an den Sitz des Insolvenzgerichts. Bei der vorliegenden Forderungshöhe ist das Landgericht das sachlich zuständige Prozessgericht, nicht die Insolvenzabteilung des Amtsgerichts.",
@@ -29,7 +46,7 @@
           ]
         },
         {
-          "heading": "3. Eigenständige Vertragsansprüche und Wiener Gerichtsstand",
+          "heading": "2.2 Eigenständige Vertragsansprüche und Wiener Gerichtsstand",
           "paragraphs": [
             "Anders liegt es bei Ansprüchen, die der Schuldnerin unabhängig von der Insolvenz aus dem Darlehensvertrag oder dessen Anbahnung zugestanden haben sollen. Die Insolvenzverwalterin verändert deren Rechtsnatur nicht dadurch, dass sie Zahlung an die Masse verlangt. Der EuGH stellt auf die Rechtsgrundlage und nicht allein auf den prozessualen Zusammenhang ab; EuGH, Urteil vom 6. Februar 2019, Az. C-535/17, NK gegen BNP Paribas Fortis, ECLI:EU:C:2019:96, Rn. 26 bis 30. Art. 1 Abs. 2 Buchst. b Brüssel-Ia-VO nimmt deshalb nicht jeden von einer Insolvenzverwalterin geführten Prozess aus ihrem Anwendungsbereich heraus.",
             "Für diese selbständigen Ansprüche liegt der allgemeine Gerichtsstand nach Artikel 4 in Verbindung mit Artikel 63 Brüssel-Ia-VO in Österreich. Ziffer 15.2 des Darlehensvertrags K2 vereinbart ausschließlich Wien für Vertragsstreitigkeiten einschließlich Vertragsschluss und Wirksamkeit; Ziffer 11 des Übernahmeabkommens B1 bestätigt diese Anknüpfung. Hierauf beruft sich die Beklagte für die erfassten Ansprüche. Die Einbeziehung der Vertragsanbahnung spricht für die Erfassung des behaupteten vertraglichen Informationsmangels, entscheidet aber nicht ohne Auslegung über jeden eigenständigen deliktischen Anspruch. Zwingende Insolvenzgerichtsstände bleiben ausdrücklich unberührt.",
@@ -38,16 +55,20 @@
           ]
         },
         {
-          "heading": "4. Delikt, Auskunft und getrennte Kollisionsprüfung",
+          "heading": "2.3 Delikt, Auskunft und getrennte Kollisionsprüfung",
           "paragraphs": [
             "Auch die behauptete eigenständige Schädigung durch die Kreditvergabe ist gesondert einzuordnen. Die Bezeichnung als vorvertragliche Haftung nach deutschem Recht legt die unionsrechtliche Zuständigkeitskategorie nicht abschließend fest. Entscheidend ist, ob eine freiwillig übernommene Verpflichtung oder eine hiervon unabhängige gesetzliche Verhaltenspflicht den Anspruch trägt. Eine vertragliche Gerichtsstandsklausel darf dabei nicht ohne Auslegung auf jeden behaupteten deliktischen Vorgang ausgedehnt werden.",
-            "Für einen autonom deliktischen Anspruch ist Artikel 7 Nr. 2 Brüssel-Ia-VO zu prüfen. Die Klägerin beruft sich in Ziffer 3 der Klage auf konkrete Beschaffungsdispositionen und einen unmittelbaren Erstschaden in Bremen, nicht lediglich auf den Sitz der Schuldnerin. Die Beklagte hält vorrangig die behauptete vertragliche Rolleninformation für maßgeblich. Wird hingegen eine selbständige gesetzliche Pflichtverletzung mit unmittelbarem Bremer Schaden schlüssig zugrunde gelegt, kann dieser Gerichtsstand eröffnet sein. Soweit Tatsachen zugleich Zuständigkeit und Begründetheit tragen, wird kein vollständiger Haftungsbeweis bereits für die Zulässigkeit verlangt.",
+            "Für einen autonom deliktischen Anspruch ist Artikel 7 Nr. 2 Brüssel-Ia-VO zu prüfen. Die Klägerin beruft sich in Ziffer 2.3 der Klage auf konkrete Beschaffungsdispositionen und einen unmittelbaren Erstschaden in Bremen, nicht lediglich auf den Sitz der Schuldnerin. Die Beklagte hält vorrangig die behauptete vertragliche Rolleninformation für maßgeblich. Wird hingegen eine selbständige gesetzliche Pflichtverletzung mit unmittelbarem Bremer Schaden schlüssig zugrunde gelegt, kann dieser Gerichtsstand eröffnet sein. Soweit Tatsachen zugleich Zuständigkeit und Begründetheit tragen, wird kein vollständiger Haftungsbeweis bereits für die Zulässigkeit verlangt.",
             "Beim Auskunftsbegehren ist zwischen einem insolvenzspezifischen Hilfsanspruch zur Vorbereitung der Anfechtung und einem selbständigen Anspruch aus der früheren Vertragsbeziehung zu unterscheiden. Nur im ersten Fall trägt die Insolvenzanknüpfung ohne Weiteres die hier maßgebliche Qualifikation. Für einen autonomen Auskunftsanspruch sind Art. 4, 7 und gegebenenfalls 25 Brüssel-Ia-VO eigenständig anzuwenden. Art. 6 Abs. 2 EUInsVO gestattet unter seinen Voraussetzungen eine Bündelung im Wohnsitzstaat der Beklagten; er schafft keine umgekehrte allgemeine Zuständigkeit in Bremen für sämtliche Begleitansprüche.",
             "Vom Gerichtsstand ist das Sachrecht zu trennen. Für die Anfechtung gilt grundsätzlich deutsches Insolvenzrecht nach Art. 7 Abs. 2 Buchst. m EUInsVO. Die vereinbarte deutsche Vertragsrechtswahl ist nach Art. 3 Rom-I-VO zu beurteilen. Vorvertragliche außervertragliche Pflichten unterliegen Art. 12 Rom-II-VO; sonstige Delikte bedürfen insbesondere der Prüfung nach deren Art. 4. Die nachfolgenden Ausführungen zu BGB-Ansprüchen erfolgen auf dieser Grundlage, ohne allein aus der Rechtswahl einen deutschen Gerichtsstand abzuleiten."
           ]
         },
         {
-          "heading": "5. Abschluss und Vollzug am 14. Oktober 2022",
+          "heading": "3 Vertragsvollzug und Zahlungswege",
+          "paragraphs": []
+        },
+        {
+          "heading": "3.1 Abschluss und Vollzug am 14. Oktober 2022",
           "paragraphs": [
             "Die Beklagte stellte der Weserfunken Präzisionsbau GmbH aufgrund des Darlehens NF-WP-221014-01 am 14. Oktober 2022 einen Betrag von 500.000 EUR zur Verfügung. Die Auszahlung erfolgte um 10:11 Uhr. Die Schuldnerin betreibt in Bremen die Fertigung von Ventilblöcken und Messgehäusen für maritime Antriebstechnik. Es handelt sich damit um eine Unternehmensfinanzierung. Weder die tatsächliche Auszahlung noch die ursprüngliche Stellung der Beklagten als Darlehensgeberin werden bestritten.",
             "Noch am selben Tag vereinbarten die Schuldnerin, die Beklagte und die Vellio Finance GmbH die vollständige Übernahme der Darlehensgeberstellung durch Vellio. Das englischsprachige Tripartite Transfer and Assumption Agreement wurde von allen drei Vertragsbeteiligten unterzeichnet. Der vereinbarte Wirksamkeitszeitpunkt war der 14. Oktober 2022, 12:30 Uhr. Eine Minute später, um 12:31 Uhr, leistete Vellio den Erwerbspreis von 500.000 EUR an die Beklagte. Die genannten Uhrzeiten beziehen sich auf denselben Tag und dieselbe Zeitzone, UTC+02:00.",
@@ -56,16 +77,16 @@
           ]
         },
         {
-          "heading": "6. Inhalt und Grenzen der Vertragsübernahme",
+          "heading": "3.2 Inhalt und Grenzen der Vertragsübernahme",
           "paragraphs": [
             "Das Abkommen erschöpft sich nicht in einer Abtretung zum Einzug. Sein Inhalt ist die Ablösung der bisherigen Darlehensgeberin durch die neue Darlehensgeberin mit Zustimmung der Darlehensnehmerin. Ab dem Wirksamkeitszeitpunkt gingen die künftigen Rechte und Pflichten aus der Darlehensgeberstellung auf Vellio über; die Beklagte wurde insoweit ausdrücklich entlassen. Nach deutschem Vertragsrecht ist diese von allen Beteiligten vereinbarte Übernahme als einheitlicher Wechsel der Vertragsposition zu würdigen. Maßgeblich sind die übereinstimmenden Erklärungen, nicht allein die englische Vertragsüberschrift.",
-            "Nach Ziffern 2.1 bis 2.3 der Anlage B1 stimmte die Schuldnerin selbst dem Wechsel der Vertragsposition zu. Ziffer 6.1 bestimmt Vellio zur Gläubigerin für eigene Rechnung; Ziffer 7 schließt Rückkaufpflicht und Ausfallgarantie aus. Die Beklagte bestreitet deshalb die in Ziffer 7 der Klage behauptete Einziehung für ihre Rechnung. Die fortgeführte Darlehenskennung bezeichnet dasselbe Vertragsverhältnis, nicht dieselbe Gläubigerin. Auch die zeitliche Abstimmung des Abschlusses belegt keinen von diesen Bestimmungen abweichenden tatsächlichen Vollzug. Eine konkrete abweichende Abrede ist von der Vertragsurkunde zu unterscheiden.",
-            "Die Entlassung hat allerdings einen bestimmten zeitlichen und sachlichen Umfang. Unabhängig begründete Verbindlichkeiten aus dem Verhalten der Beklagten vor 12:30 Uhr bleiben nach dem Abkommen unberührt. Die Bank behauptet keinen Erlass etwaiger eigener Beratungs-, Aufklärungs- oder sonstiger Schadensersatzpflichten. Der Übergang künftiger Vertragspflichten ist von der Haftung für bereits gesetzte eigene Ursachen zu unterscheiden. Hierzu wird unter Ziffern 16 und 17 gesondert vorgetragen.",
+            "Nach Ziffern 2.1 bis 2.3 der Anlage B1 stimmte die Schuldnerin selbst dem Wechsel der Vertragsposition zu. Ziffer 6.1 bestimmt Vellio zur Gläubigerin für eigene Rechnung; Ziffer 7 schließt Rückkaufpflicht und Ausfallgarantie aus. Die Beklagte bestreitet deshalb die in Ziffer 3.4 der Klage behauptete Einziehung für ihre Rechnung. Die fortgeführte Darlehenskennung bezeichnet dasselbe Vertragsverhältnis, nicht dieselbe Gläubigerin. Auch die zeitliche Abstimmung des Abschlusses belegt keinen von diesen Bestimmungen abweichenden tatsächlichen Vollzug. Eine konkrete abweichende Abrede ist von der Vertragsurkunde zu unterscheiden.",
+            "Die Entlassung hat allerdings einen bestimmten zeitlichen und sachlichen Umfang. Unabhängig begründete Verbindlichkeiten aus dem Verhalten der Beklagten vor 12:30 Uhr bleiben nach dem Abkommen unberührt. Die Bank behauptet keinen Erlass etwaiger eigener Beratungs-, Aufklärungs- oder sonstiger Schadensersatzpflichten. Der Übergang künftiger Vertragspflichten ist von der Haftung für bereits gesetzte eigene Ursachen zu unterscheiden. Hierzu wird unter Ziffern 6.1 und 6.2 gesondert vorgetragen.",
             "Beweis: Tripartite Transfer and Assumption Agreement, Anlage B1, zwölf Seiten. Die Beklagte stützt sich auf den Gesamtzusammenhang der dreiseitigen Erklärungen und nicht auf ein isoliertes englisches Schlagwort. Soweit das Gericht eine förmliche Übersetzung für erforderlich hält, wird um entsprechende Anordnung nach Paragraf 142 Abs. 3 ZPO gebeten. Eine Übersetzung darf insbesondere die zeitlich begrenzte Entlassung nicht in einen umfassenden Haftungsverzicht umdeuten."
           ]
         },
         {
-          "heading": "7. Zinsleistungen und Endtilgung an Vellio",
+          "heading": "3.3 Zinsleistungen und Endtilgung an Vellio",
           "paragraphs": [
             "Der vereinbarte Nominalzins betrug zwölf Prozent jährlich. Bei 500.000 EUR Darlehenskapital waren achtzehn feste monatliche Zinsperioden mit jeweils 5.000 EUR vereinbart. Der Zinslauf führte damit zu insgesamt 90.000 EUR. Die vertraglichen Fälligkeiten lagen jeweils am 15. eines Monats, beginnend am 15. November 2022 und endend am 15. April 2024. Fiel der Termin nicht auf einen Bankarbeitstag, war die Verschiebung auf den nächsten Bankarbeitstag ohne Mehrzins vorgesehen. Es wird kein zusätzlicher tagesgenauer Zwischenzins geltend gemacht oder als Zahlung behauptet.",
             "Sämtliche achtzehn Zinszahlungen und die Endtilgung von 500.000 EUR gingen an Vellio. Das hierfür bestimmte Konto lautete auf Vellio Finance GmbH, IBAN AT61 1904 3002 3457 3201. Der letzte Zahlungstag war der 15. April 2024. Der Gesamtbetrag von 590.000 EUR ist somit rechnerisch nachvollziehbar, bezeichnet jedoch die Zahlungen an die neue Darlehensgeberin und nicht einen Zufluss an die Beklagte. Die Bank bestreitet den behaupteten eigenen Empfang ausdrücklich.",
@@ -74,7 +95,11 @@
           ]
         },
         {
-          "heading": "8. Keine Rückgewährpflicht aus bloßer wirtschaftlicher Nähe",
+          "heading": "4 Insolvenzrechtliche Verteidigung",
+          "paragraphs": []
+        },
+        {
+          "heading": "4.1 Keine Rückgewährpflicht aus bloßer wirtschaftlicher Nähe",
           "paragraphs": [
             "Paragraf 143 Abs. 1 InsO knüpft die Rückgewähr an das aus dem Schuldnervermögen durch die anfechtbare Handlung Erlangte. Der Anspruch richtet sich nicht schon gegen jedes Unternehmen, das an der Finanzierung beteiligt war. Die Beklagte hat die achtzehn Zinsleistungen und die Endtilgung nicht erhalten. Mit dem Ausscheiden aus der Darlehensgeberstellung entfiel zudem die Grundlage dafür, spätere Leistungen an Vellio als Erfüllung eines fortbestehenden Rückzahlungsanspruchs der Bank zu verstehen.",
             "Die Beklagte verkennt nicht, dass auch mittelbare Leistungen anfechtungsrechtlich erheblich sein können. Allein ein abweichender Kontoinhaber würde die Prüfung nicht beenden, wenn etwa ein Dritter für Rechnung der Bank empfinge oder eine Verbindlichkeit der Bank getilgt würde. Hiergegen sprechen jedoch gerade die vollständige Vertragsübernahme, die fehlende bloße Einziehungsvertretung und das Fehlen einer Rückkaufpflicht oder Ausfallgarantie. Für eine konkrete Weiterleitung oder Befreiung der Beklagten aus den streitigen Zahlungen bedarf es eines gesonderten tatsächlichen Anknüpfungspunkts.",
@@ -83,7 +108,7 @@
           ]
         },
         {
-          "heading": "9. Gläubigerbenachteiligung und richtiger Anfechtungsgegenstand",
+          "heading": "4.2 Gläubigerbenachteiligung und richtiger Anfechtungsgegenstand",
           "paragraphs": [
             "Die Beklagte verneint eine objektive Gläubigerbenachteiligung nicht pauschal mit dem Hinweis, die Schuldnerin sei durch jede Zahlung von einer Verbindlichkeit befreit worden. Eine vertragsgemäße Rückzahlung kann die Zugriffsmöglichkeiten der übrigen Gläubiger verschlechtern. Der Abfluss liquider Mittel wird insolvenzrechtlich nicht schon dadurch neutralisiert, dass zugleich eine einfache Darlehensforderung erlischt. Kongruenz und Gläubigerbenachteiligung sind verschiedene Voraussetzungen und gesondert zu prüfen.",
             "Dies führt jedoch nicht zur Haftung eines anderen als des maßgeblich begünstigten Rechtsträgers. Selbst wenn die Klägerin die Benachteiligung durch die Zahlungen an Vellio nachweist, bleibt ihr Anspruch gegen die Beklagte von der behaupteten Empfangs- oder Zurechnungsstellung abhängig. Die Beklagte verteidigt sich daher vorrangig gegen die personelle Zuordnung, nicht mit einer abstrakten Bilanzneutralität der Tilgung. Die Beurteilung eines möglichen Anspruchs gegen Vellio ist nicht Gegenstand eines Anerkenntnisses in diesem Verfahren.",
@@ -92,7 +117,7 @@
           ]
         },
         {
-          "heading": "10. Keine schlüssige Inkongruenz nach Paragraf 131 InsO",
+          "heading": "4.3 Keine schlüssige Inkongruenz nach Paragraf 131 InsO",
           "paragraphs": [
             "Die hilfsweise herangezogenen 515.000 EUR entsprechen der Endtilgung von 500.000 EUR und drei Zinsleistungen zu jeweils 5.000 EUR im Februar, März und April 2024. Bei dem Eröffnungsantrag vom 2. Mai 2024 beginnt der Dreimonatszeitraum nach Paragraf 139 InsO am 2. Februar 2024. Maßgeblich ist der Antrag, nicht erst die Eröffnung am 1. Juli 2024. Für den Zeitpunkt der jeweiligen Rechtshandlung sind die rechtlichen Wirkungen nach Paragraf 140 InsO entscheidend; Fälligkeit und tatsächlicher Zahlungsvollzug bleiben zu unterscheiden.",
             "Paragraf 131 InsO setzt voraus, dass der Empfänger die Befriedigung nicht, nicht in dieser Art oder nicht zu dieser Zeit beanspruchen konnte. Nach dem vereinbarten Zahlungsprogramm waren die Zinsen monatlich und das Kapital am 15. April 2024 fällig. Die Zahlung an die durch dreiseitige Vereinbarung eingesetzte neue Darlehensgeberin ist nicht allein wegen dieses Gläubigerwechsels inkongruent. Eine abweichende Leistungsart, eine vorzeitige Tilgung oder eine erzwungene Sonderdeckung folgt aus den vorgetragenen Eckdaten nicht.",
@@ -101,16 +126,16 @@
           ]
         },
         {
-          "heading": "11. Kongruenz schließt Paragraf 130 InsO nicht aus",
+          "heading": "4.4 Kongruenz schließt Paragraf 130 InsO nicht aus",
           "paragraphs": [
             "Die Beklagte setzt sich auch mit Paragraf 130 InsO auseinander. Für kongruente Zahlungen innerhalb der letzten drei Monate verlangt Absatz 1 Satz 1 Nummer 1 Zahlungsunfähigkeit im jeweiligen Leistungszeitpunkt und entsprechende Gläubigerkenntnis. Die in Absatz 2 beschriebenen zwingenden Umstände können dieser Kenntnis gleichstehen. Die Bezeichnung anderer Anfechtungsnormen in der Klage schließt diese Prüfung nicht aus; die Voraussetzungen müssen jedoch zahlungsbezogen festgestellt werden.",
-            "Die Klage legt in Ziffern 9 und 10 die aus K4 ersichtlichen Tagesstände zugrunde: Am 15. März waren vor der Zinszahlung 573.900 EUR und danach 568.900 EUR vorhanden. Am 15. April betrug das Guthaben vor Zins und Tilgung 1.025.900 EUR, danach 520.900 EUR. K7 weist zwölf ausgewählte offene Lieferantenposten von 478.380 EUR aus. Das Aprilguthaben nach Zahlung überstieg diese Auswahl um 42.520 EUR. Die Monatsendwerte von 431.000 EUR und 383.000 EUR werden nicht mit den Zahlungstagsbeständen verwechselt.",
+            "Die Klage legt in Ziffern 3.6 und 3.7 die aus K4 ersichtlichen Tagesstände zugrunde: Am 15. März waren vor der Zinszahlung 573.900 EUR und danach 568.900 EUR vorhanden. Am 15. April betrug das Guthaben vor Zins und Tilgung 1.025.900 EUR, danach 520.900 EUR. K7 weist zwölf ausgewählte offene Lieferantenposten von 478.380 EUR aus. Das Aprilguthaben nach Zahlung überstieg diese Auswahl um 42.520 EUR. Die Monatsendwerte von 431.000 EUR und 383.000 EUR werden nicht mit den Zahlungstagsbeständen verwechselt.",
             "Aus der Auswahl allein folgt deshalb kein Zahlungsmittelmangel am 15. April, aber auch keine umfassend bewiesene Zahlungsfähigkeit. Die Klägerin behauptet weitere, noch zu konkretisierende fällige Verpflichtungen. Deren Bestand und damaliger Erfüllungsstand werden, soweit außerhalb eigener Wahrnehmung, mit Nichtwissen bestritten; nicht bestritten wird die ausgewiesene Saldenrechnung. K7 Blatt 6 dokumentiert außerdem eine erst am 2. Mai vereinbarte und fällig gewordene Erstattung von 598.600 EUR an Nordhafen. Diese neue Verpflichtung darf nicht auf den Aprilzahlungstag zurückdatiert werden.",
             "Ein vollständiger Liquiditätsstatus ist nicht der einzig zulässige Beweisweg. Die Vermutung bei Zahlungseinstellung nach Paragraf 17 Absatz 2 Satz 2 InsO und die angebotenen Aussagen Krögers und Grothes bleiben zu würdigen. Die internen Anweisungen, Lieferanten zunächst zurückzustellen, bedürfen deshalb einer Gesamtbetrachtung; sie beweisen für sich noch keine allgemeine Zahlungseinstellung. Eigene Bankhandlungen werden nicht mit Nichtwissen bestritten. Selbst ein Nachweis damaliger Zahlungsunfähigkeit ließe schließlich die gesonderte Einwendung fehlenden Zahlungsempfangs der Beklagten unberührt."
           ]
         },
         {
-          "heading": "12. Vorsatzanfechtung und subjektive Voraussetzungen",
+          "heading": "4.5 Vorsatzanfechtung und subjektive Voraussetzungen",
           "paragraphs": [
             "Eine Vorsatzanfechtung nach Paragraf 133 InsO verlangt mehr als die Feststellung eines wirtschaftlich belastenden Kreditgeschäfts. Für Befriedigungshandlungen beträgt der Anfechtungszeitraum nach Abs. 2 vier Jahre. Die Zahlungen von November 2022 bis April 2024 liegen innerhalb dieses Zeitraums; die Beklagte erhebt insoweit keinen Fristeinwand. Darzulegen und festzustellen bleiben aber der Benachteiligungsvorsatz der Schuldnerin und die Kenntnis des maßgeblichen anderen Teils im Zeitpunkt der jeweiligen Handlung.",
             "Der Bundesgerichtshof hat ausdrücklich klargestellt, dass die subjektiven Voraussetzungen nicht allein aus einer erkannten Zahlungsunfähigkeit abgeleitet werden dürfen. Im Fall kongruenter Deckungen ist insbesondere zu berücksichtigen, ob die Schuldnerin wusste oder billigend in Kauf nahm, ihre übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können. Für den Vollbeweis der Kenntnis des Anfechtungsgegners bedarf es einer entsprechenden Würdigung seines Erkenntnishorizonts; BGH, Urteil vom 6. Mai 2021, Az. IX ZR 72/20, ECLI:DE:BGH:2021:060521UIXZR72.20.0, Rn. 30 bis 36. Die Entscheidung erteilt keinen allgemeinen Freibrief für Krisenzahlungen.",
@@ -119,7 +144,7 @@
           ]
         },
         {
-          "heading": "13. Kenntnis, Kreditprüfung und Wissenszurechnung",
+          "heading": "4.6 Kenntnis, Kreditprüfung und Wissenszurechnung",
           "paragraphs": [
             "Die Klägerin kann die erforderliche Kenntnis nicht durch die allgemeine Annahme ersetzen, eine Bank kenne aufgrund ihrer Kreditprüfung notwendig jede gegenwärtige und zukünftige Zahlungsschwierigkeit ihres Kunden. Die Kreditentscheidung und die insolvenzrechtliche Kenntnis betreffen unterschiedliche Fragen. Ein prognostisch erhöhtes Ausfallrisiko ist nicht mit dem Wissen gleichzusetzen, dass andere Gläubiger auch künftig unbefriedigt bleiben werden. Umgekehrt wäre eine in den Kreditunterlagen tatsächlich dokumentierte erhebliche Liquiditätslücke nicht wegen der Bezeichnung als Risikoprüfung unbeachtlich.",
             "Die Beklagte bestreitet, einen Benachteiligungsvorsatz der Schuldnerin gekannt zu haben. Für ihre Informationsgrundlage bei Kreditvergabe wird Anlage B5 benannt. Davon sind die Nachrichten aus März und April 2024 in K12 zu trennen: Die Anfrage vom 5. März richtete sich an Vellio. Die Nachricht vom 8. April war dagegen unmittelbar an Dr. Falk Neubauer bei der Beklagten gerichtet. Ein vollständiges Ausbleiben bankseitiger Kommunikation wird deshalb nicht behauptet. Diese Nachricht enthielt aber keinen vollständigen Verbindlichkeitenstatus und keine ausdrückliche Erklärung allgemeiner Zahlungsunfähigkeit.",
@@ -128,16 +153,20 @@
           ]
         },
         {
-          "heading": "14. Zwölf Prozent und der erforderliche Marktvergleich",
+          "heading": "5 Zinshöhe und Sittenwidrigkeit",
+          "paragraphs": []
+        },
+        {
+          "heading": "5.1 Zwölf Prozent und der erforderliche Marktvergleich",
           "paragraphs": [
-            "Die Klägerin verlangt in Ziffer 15 der Klage eine Gesamtprüfung nach Paragraf 138 BGB und erklärt zwölf Prozent Nominalzins ausdrücklich nicht automatisch für sittenwidrig. Die Beklagte bestreitet das behauptete Missverhältnis und die behauptete Ausnutzung einer Zwangslage. Maßgeblich sind die Verhältnisse bei Vertragsschluss am 14. Oktober 2022. Die spätere Insolvenz ersetzt den erforderlichen Vergleich von Leistung und Gegenleistung nicht.",
+            "Die Klägerin verlangt in Ziffer 4.4 der Klage eine Gesamtprüfung nach Paragraf 138 BGB und erklärt zwölf Prozent Nominalzins ausdrücklich nicht automatisch für sittenwidrig. Die Beklagte bestreitet das behauptete Missverhältnis und die behauptete Ausnutzung einer Zwangslage. Maßgeblich sind die Verhältnisse bei Vertragsschluss am 14. Oktober 2022. Die spätere Insolvenz ersetzt den erforderlichen Vergleich von Leistung und Gegenleistung nicht.",
             "Nach BGH, Urteil vom 19. Dezember 2017, Az. XI ZR 152/17, ECLI:DE:BGH:2017:191217UXIZR152.17.0, Rn. 24 und 25, kommt es auch bei gewerblichen Krediten auf das Verhältnis zwischen effektivem Vertragszins und marktüblichem Effektivzins an. Als regelmäßige Orientierungsgrößen nennt die Rechtsprechung eine relative Überschreitung um etwa hundert Prozent oder eine absolute Differenz von zwölf Prozentpunkten. Zwölf Prozent Vertragszins sind etwas anderes als zwölf Prozentpunkte Abstand zum Vergleichsmarkt. Auch diese Orientierungsgrößen ersetzen nicht die Gesamtwürdigung.",
             "Ein tragfähiger Vergleich muss hier eine Unternehmensfinanzierung über 500.000 EUR mit achtzehnmonatiger Zinsstruktur und endfälliger Kapitalrückzahlung erfassen. Kreditrisiko, Besicherung, Laufzeit, Tilgungsstruktur und relevante Nebenkosten sind nachvollziehbar abzugleichen. Ein Durchschnitt für private Konsumentenkredite oder grundpfandrechtlich gesicherte Wohnungsfinanzierungen wäre ohne Anpassung nicht aussagekräftig. Umgekehrt darf ein angeblicher Hochrisikomarkt nicht ohne Tatsachenbasis gewählt werden, nur um den Vertragszins zu rechtfertigen.",
             "Die Klägerin bietet hierzu bereits Sachverständigenbeweis an. Die Beklagte verlangt weder ein vorab eingeholtes Privatgutachten noch eine sachverständige Berechnung durch die Klägerin selbst. Dem Gerichtssachverständigen wären die konkreten Vertragsbedingungen und Risikomerkmale zugrunde zu legen. B5 dokumentiert die interne Konditionsentscheidung, aber keine historische Marktvergleichsreihe. Ein unbelegter Vergleichszins wird deshalb auch bankseitig nicht eingeführt. Die 90.000 EUR Vertragszinsen sind Ausgangsdaten; etwaige weitere Kosten und ihr Einfluss auf den Effektivzins müssen anhand des jeweiligen Rechtsgrunds und Kostenträgers gesondert festgestellt werden."
           ]
         },
         {
-          "heading": "15. Subjektive Sittenwidrigkeit und Rückabwicklungsfolgen",
+          "heading": "5.2 Subjektive Sittenwidrigkeit und Rückabwicklungsfolgen",
           "paragraphs": [
             "Für Paragraf 138 Abs. 2 BGB bedarf es neben einem auffälligen Missverhältnis einer dort bezeichneten Schwächesituation und ihrer Ausbeutung. Die gewerbliche Tätigkeit der Schuldnerin schließt eine solche Lage nicht aus. Sie ersetzt aber auch nicht den konkreten Nachweis. Dass eine Gesellschaft Kredit benötigt und dafür einen hohen Preis akzeptiert, belegt für sich weder eine ausgenutzte Zwangslage noch Unerfahrenheit ihrer handelnden Personen. Die Beklagte bestreitet ein bewusstes Ausnutzen einer solchen Situation.",
             "Für ein wucherähnliches Geschäft nach Paragraf 138 Abs. 1 BGB sind objektive und subjektive Voraussetzungen in einer Gesamtwürdigung zu betrachten. Ein besonders auffälliges Missverhältnis kann beweisrechtlich für die subjektive Seite Bedeutung gewinnen; dieser Gesichtspunkt wird nicht ausgeblendet. Er setzt jedoch einen belastbaren Vergleich voraus. Die Klägerin kann nicht zunächst allein aus zwölf Prozent ein Missverhältnis und anschließend aus demselben ungeprüften Zahlenwert eine verwerfliche Gesinnung herleiten.",
@@ -146,7 +175,11 @@
           ]
         },
         {
-          "heading": "16. Eigenständige vorvertragliche Haftung der Bank",
+          "heading": "6 Eigenständige Haftung und Auskunft",
+          "paragraphs": []
+        },
+        {
+          "heading": "6.1 Eigenständige vorvertragliche Haftung der Bank",
           "paragraphs": [
             "Die Klage beanstandet eine vor Auszahlung behauptete Darstellung der Beklagten als fortdauernd verantwortliche Kreditgeberin. Die Beklagte bestreitet diese eigene irreführende Erklärung, nicht lediglich eine ihr unbekannte Vorstellung Grothes. Ansprüche aus Paragrafen 280 Absatz 1, 311 Absatz 2 und 241 Absatz 2 BGB können durch eigenes vorvertragliches Verhalten entstehen. Die Übernahme beseitigt solche Ansprüche nicht rückwirkend; ein allgemeiner Ausschluss bankseitiger Aufklärungspflichten wird nicht behauptet.",
             "K8 Blatt 2 enthält Grothes unterzeichnete Empfangs- und Zustimmungserklärung. Sie bezeichnet den Eintritt Vellios in die gesamte künftige Darlehensgeberstellung und die Entlassung Nexoras ausdrücklich als mehr als einen Kontowechsel oder die Beauftragung einer Zahlstelle. Die Beklagte beruft sich auf diese konkrete Rollenaufklärung gegen die behauptete fortdauernde Fehlvorstellung. Die Erklärung enthält allerdings keinen Verzicht auf zuvor eigenständig begründete Ansprüche. Ihr Gewicht für eine frühere mündliche Irreführung und deren fortwirkende Ursächlichkeit ist gesondert zu würdigen.",
@@ -155,7 +188,7 @@
           ]
         },
         {
-          "heading": "17. Weitere 68.000 EUR, Kausalität und Delikt",
+          "heading": "6.2 Weitere 68.000 EUR, Kausalität und Delikt",
           "paragraphs": [
             "Die Klägerin beziffert die weiteren 68.000 EUR als 22.000 EUR Einkaufspreisaufschläge, 6.000 EUR Expressfracht, 24.000 EUR entgangenen Deckungsbeitrag und 16.000 EUR externe Planungskosten. Diese Aufschlüsselung wird nicht als fehlend behandelt. Bestritten werden Entstehung, Höhe und Ursächlichkeit der behaupteten Positionen, nicht ihre rechnerische Summe.",
             "Für Einkaufspreisaufschläge und Expressfracht enthält K9 lediglich reguläre Lieferantenrechnungen und Mahnungen. Die Klägerin räumt selbst ein, dass Mehrkostenbelege nachzureichen sind. Abzugleichen wären die regulär geschuldeten Preise mit der behaupteten Ersatzbeschaffung sowie Anlass und Zusatzkosten beschleunigter Transporte. Die dort bereits eingeschlossene gewöhnliche Fracht darf nicht nochmals angesetzt werden. Krögers und Grothes angebotene Aussagen sind zu würdigen; fehlende Rechnungen schließen andere Beweismittel nicht generell aus.",
@@ -165,17 +198,21 @@
           ]
         },
         {
-          "heading": "18. Inhalt und Grenzen des Auskunftsbegehrens",
+          "heading": "6.3 Inhalt und Grenzen des Auskunftsbegehrens",
           "paragraphs": [
-            "Die Anträge 22.1 und 22.2 betreffen bestimmte Schuldnerzahlungen und deren Buchungsweg. B2 und B3 weisen Vellio als Empfängerin aus; B6 bestätigt für die geprüften Bankbuchungen bis zum 15. April 2024 keine Eingänge dieser Zinsraten oder der Endtilgung und keine geführte Weiterleitungsabrechnung. Das ersetzt nicht sämtliche Einzelangaben zur Kontoführung Vellios. Soweit die Anträge nur eigene Unterlagen der Beklagten erfassen, greift der Einwand fehlenden Zugriffs auf fremde Konten nicht.",
-            "Zu Antrag 22.3 erklärt die Beklagte: Vellio schuldete für die Übernahme 500.000 EUR und zahlte diesen Erwerbspreis am 14. Oktober 2022 um 12:31 Uhr. B1 und B4 dokumentieren die Erwerbsabrede und den Ausgleich; ein Restkaufpreis oder Einbehalt blieb danach nicht offen. Die Erwerbszahlung ist von den späteren Leistungen der Schuldnerin zu trennen.",
-            "Antrag 22.4 verlangt vereinbarte und erhaltene Vergütungen. B4 verzeichnet für den damaligen Einzelvollzug keine weitere Plattform-, Bearbeitungs- oder Übernahmegebühr. B6 bestätigt kein zusätzliches Entgelt zulasten der Darlehensnehmerin. Daraus folgt nicht ohne Weiteres, dass zwischen Bank, Vellio und Holding niemals weitere Vergütungen vereinbart wurden. Eine umfassende negative Auskunft zu sämtlichen Vereinbarungen, Berechnungsgrundlagen und späteren Buchungen wird durch diese begrenzten Belege nicht ersetzt.",
-            "Antrag 22.5 ist bereits auf darlehensbezogene Vereinbarungen beschränkt, nicht auf eine allgemeine Gruppenprüfung gerichtet. B1 und B4 betreffen die Übernahme sowie das Fehlen eines Einziehungsauftrags zugunsten Nexoras. Ob damit sämtliche verlangten Angaben über Erlösverteilung und Verrechnung erfasst sind, bleibt gesondert zu prüfen. Die fehlende Empfängerstellung erledigt diesen Antrag nicht automatisch.",
-            "Die Hilfsanträge 23.1 und 23.2 beschränken sich auf eigene Gutschriften und Verrechnungen, zuletzt innerhalb des Zahlungsblocks von 515.000 EUR. B6 beantwortet Eingangsfragen, bestätigt aber nicht ausdrücklich die Prüfung jeder möglichen Verrechnung. Vollständige Erfüllung wird deshalb nicht behauptet. Über verbleibende Auskunft nach Paragraf 242 BGB ist gegenstandsbezogen zu entscheiden. Die angeregte Vorlage des Übernahmevertrags und der Erwerbsabrechnung nach Paragraf 142 ZPO betrifft bestimmte Unterlagen; B1 und B4 werden hierzu vorgelegt, ohne einen unbegrenzten Ausforschungsantrag zu unterstellen."
+            "Die Anträge 1.3.1 und 1.3.2 betreffen bestimmte Schuldnerzahlungen und deren Buchungsweg. B2 und B3 weisen Vellio als Empfängerin aus; B6 bestätigt für die geprüften Bankbuchungen bis zum 15. April 2024 keine Eingänge dieser Zinsraten oder der Endtilgung und keine geführte Weiterleitungsabrechnung. Das ersetzt nicht sämtliche Einzelangaben zur Kontoführung Vellios. Soweit die Anträge nur eigene Unterlagen der Beklagten erfassen, greift der Einwand fehlenden Zugriffs auf fremde Konten nicht.",
+            "Zu Antrag 1.3.3 erklärt die Beklagte: Vellio schuldete für die Übernahme 500.000 EUR und zahlte diesen Erwerbspreis am 14. Oktober 2022 um 12:31 Uhr. B1 und B4 dokumentieren die Erwerbsabrede und den Ausgleich; ein Restkaufpreis oder Einbehalt blieb danach nicht offen. Die Erwerbszahlung ist von den späteren Leistungen der Schuldnerin zu trennen.",
+            "Antrag 1.3.4 verlangt vereinbarte und erhaltene Vergütungen. B4 verzeichnet für den damaligen Einzelvollzug keine weitere Plattform-, Bearbeitungs- oder Übernahmegebühr. B6 bestätigt kein zusätzliches Entgelt zulasten der Darlehensnehmerin. Daraus folgt nicht ohne Weiteres, dass zwischen Bank, Vellio und Holding niemals weitere Vergütungen vereinbart wurden. Eine umfassende negative Auskunft zu sämtlichen Vereinbarungen, Berechnungsgrundlagen und späteren Buchungen wird durch diese begrenzten Belege nicht ersetzt.",
+            "Antrag 1.3.5 ist bereits auf darlehensbezogene Vereinbarungen beschränkt, nicht auf eine allgemeine Gruppenprüfung gerichtet. B1 und B4 betreffen die Übernahme sowie das Fehlen eines Einziehungsauftrags zugunsten Nexoras. Ob damit sämtliche verlangten Angaben über Erlösverteilung und Verrechnung erfasst sind, bleibt gesondert zu prüfen. Die fehlende Empfängerstellung erledigt diesen Antrag nicht automatisch.",
+            "Die Hilfsanträge 1.4.1 und 1.4.2 beschränken sich auf eigene Gutschriften und Verrechnungen, zuletzt innerhalb des Zahlungsblocks von 515.000 EUR. B6 beantwortet Eingangsfragen, bestätigt aber nicht ausdrücklich die Prüfung jeder möglichen Verrechnung. Vollständige Erfüllung wird deshalb nicht behauptet. Über verbleibende Auskunft nach Paragraf 242 BGB ist gegenstandsbezogen zu entscheiden. Die angeregte Vorlage des Übernahmevertrags und der Erwerbsabrechnung nach Paragraf 142 ZPO betrifft bestimmte Unterlagen; B1 und B4 werden hierzu vorgelegt, ohne einen unbegrenzten Ausforschungsantrag zu unterstellen."
           ]
         },
         {
-          "heading": "19. Beweisangebote und weitere Verfahrensführung",
+          "heading": "7 Beweisführung und Ergebnis",
+          "paragraphs": []
+        },
+        {
+          "heading": "7.1 Beweisangebote und weitere Verfahrensführung",
           "paragraphs": [
             "Zum Abschluss und Inhalt der dreiseitigen Vertragsübernahme sowie zur Entlassung der Beklagten für die Zukunft wird Urkundenbeweis durch Anlage B1 angeboten. Die Zahlungsrouting-Unterlagen B2 betreffen die Zuordnung der Zahlungsströme. Die Vellio-Kontoübersicht B3 wird für den tatsächlichen Empfang der Zins- und Tilgungsleistungen durch Vellio benannt. Der bankseitige Abschlussvermerk B4 betrifft die ursprüngliche Auszahlung, den Erwerbsvorgang und den Abschluss der Bankposition. Diese Beweisthemen sind voneinander zu unterscheiden und dürfen nicht durch einen bloßen Gesamtverweis ersetzt werden.",
             "Die Beklagte verkennt nicht, dass interne Vermerke und Kontoübersichten nicht dieselbe Aussagekraft wie die zugrunde liegenden externen Buchungsbelege haben. Paragraf 416 ZPO setzt eine formgerechte Privaturkunde voraus; eine bloße maschinenschriftliche Namenszeile genügt nicht zum Nachweis dieser Voraussetzungen. Die Beweiswirkung betrifft grundsätzlich die Abgabe der enthaltenen Erklärung, nicht deren sachliche Richtigkeit. Bei Streit über Unterzeichnung oder einzelne Buchungen sind deshalb die Originalerklärungen und konkreten Buchungsgrundlagen heranzuziehen. Eine ungeprüfte Übernahme des Abschlussvermerks als gerichtliche Feststellung wird nicht verlangt.",
@@ -185,16 +222,47 @@
           ]
         },
         {
-          "heading": "20. Ergebnis, Nebenforderungen und Anlagenverzeichnis",
+          "heading": "7.2 Ergebnis, Nebenforderungen und Anlagenverzeichnis",
           "paragraphs": [
             "Die auf Insolvenzanfechtung gestützte Klage ist gegen die Beklagte abzuweisen. Die Bank hat den ursprünglichen Kredit ausgezahlt, ihre Vertragsstellung aber bereits am 14. Oktober 2022 um 12:30 Uhr mit Zustimmung der Schuldnerin auf Vellio übertragen. Die danach geleisteten 90.000 EUR Zinsen und 500.000 EUR Tilgung erhielt Vellio. Eine bloße wirtschaftliche Beteiligung an der Finanzierung ersetzt weder diesen Empfang noch einen konkret nachgewiesenen mittelbaren Vorteil der Beklagten.",
             "Hilfsweise tragen die angeführten zeitlichen und subjektiven Umstände die geltend gemachten Ansprüche nicht ohne die dargestellten zusätzlichen Feststellungen. Die Beklagte verneint weder jede Gläubigerbenachteiligung kongruenter Zahlungen noch jede eigene Verantwortung vor der Übernahme. Sie bestreitet die hierfür behaupteten anspruchsbegründenden Voraussetzungen und den geltend gemachten Schaden. Über eigenständige Vertrags- und Deliktsansprüche sowie autonome Auskunftsansprüche ist zunächst unter Beachtung der ausdrücklich aufrechterhaltenen Zuständigkeitsrüge zu befinden.",
             "Die Klägerin verlangt ausschließlich Zinsen von fünf Prozentpunkten über dem Basiszinssatz ab Rechtshängigkeit. Die Klage wurde am 15. September 2026 zugestellt. Die Beklagte beantragt die Abweisung dieser Nebenforderungen wegen des bestrittenen Bestands der jeweiligen Hauptforderung. Soweit das Gericht einen Zahlungsanspruch zuspricht, sind die Prozesszinsen nach Paragraf 291 BGB, für die insolvenzrechtliche Rückgewähr in Verbindung mit Paragraf 143 Absatz 1 InsO, zu prüfen. Eine vorgerichtliche Mahnung ist für diesen tatsächlich gestellten Zinsantrag nicht erforderlich. Ein eigenständiger Einwand fehlenden vorprozessualen Verzugs wird ihm nicht entgegengehalten.",
-            "Als Anlage B1 wird das Tripartite Transfer and Assumption Agreement mit zwölf Seiten bezeichnet. Anlage B2 umfasst die Zahlungsrouting-Unterlagen mit drei Seiten; Anlage B3 die Vellio-Kontoübersicht mit vier Seiten. Anlage B4 ist der bankseitige Abschlussvermerk mit drei Seiten. Anlage B5 bezeichnet die Kreditentscheidung mit drei Seiten. Anlage B6 umfasst die ergänzende Mandantenkorrespondenz mit vier Seiten.",
-            "Dr. Henrik Westhoff, Rechtsanwalt, für Rademacher Westhoff Rechtsanwälte PartG mbB."
+            "Als Anlage B1 wird das Tripartite Transfer and Assumption Agreement mit zwölf Seiten bezeichnet. Anlage B2 umfasst die Zahlungsrouting-Unterlagen mit drei Seiten; Anlage B3 die Vellio-Kontoübersicht mit vier Seiten. Anlage B4 ist der bankseitige Abschlussvermerk mit drei Seiten. Anlage B5 bezeichnet die Kreditentscheidung mit drei Seiten. Anlage B6 umfasst die ergänzende Mandantenkorrespondenz mit vier Seiten."
           ]
         }
-      ]
+      ],
+      "layout": "pleading",
+      "sender": "defence_firm",
+      "signature": [
+        "Dr. Henrik Westhoff",
+        "Rechtsanwalt",
+        "für Rademacher Westhoff Rechtsanwälte PartG mbB"
+      ],
+      "rubrum": [
+        {
+          "role": "Klägerin",
+          "lines": [
+            "Rechtsanwältin Kunigunde von Tettenborn",
+            "als Insolvenzverwalterin über das Vermögen der",
+            "Weserfunken Präzisionsbau GmbH",
+            "Contrescarpe 82, 28195 Bremen"
+          ]
+        },
+        {
+          "role": "Beklagte",
+          "lines": [
+            "Nexora Frontbank AG",
+            "vertreten durch ihren Vorstand",
+            "Schottenring 18, 1010 Wien, Österreich",
+            "Handelsgericht Wien, FN 582741 b"
+          ]
+        }
+      ],
+      "intro": [
+        "In dem Rechtsstreit von Tettenborn als Insolvenzverwalterin gegen Nexora Frontbank AG erwidern wir namens und in Vollmacht der Beklagten auf die Klage vom 8. September 2026, zugestellt am 15. September 2026.",
+        "Vor jeder Einlassung zur Sache rügen wir die internationale Zuständigkeit für die eigenständigen vertraglichen und deliktischen Begehren sowie für hierauf gestützte selbständige Auskunftsansprüche nach Maßgabe der nachfolgenden Ausführungen. Die Rüge erstreckt sich ausdrücklich nicht auf die originären insolvenzrechtlichen Rückgewähransprüche und deren insolvenzspezifische Hilfsansprüche. Eine rügelose Einlassung hinsichtlich der übrigen Ansprüche erfolgt nicht."
+      ],
+      "expected_rendered_pages": 14
     }
   ]
 }

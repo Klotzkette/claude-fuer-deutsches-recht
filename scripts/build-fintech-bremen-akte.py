@@ -35,6 +35,7 @@ from reportlab.platypus import Paragraph, Table, TableStyle
 
 from akten_build_runtime import node_binary, serif_font_path
 from testakte_disclaimer import NOTICE_MARKDOWN
+import fintech_schriftsatz_satz as pleading_layout
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -93,6 +94,9 @@ def paragraph(text, style):
 def pdf_document(document):
     target = OUT / document['folder'] / (document['id'] + '.pdf')
     target.parent.mkdir(parents=True, exist_ok=True)
+    if document.get('layout') == 'pleading':
+        pleading_layout.pdf(document, CASE, target)
+        return target
     canvas = Canvas(str(target), pagesize=A4, invariant=1)
     canvas.setAuthor('Klotzkette')
     canvas.setTitle(document['title'])
@@ -145,6 +149,8 @@ def pdf_document(document):
 def docx_document(document):
     target = OUT / document['folder'] / (document['id'] + '.docx')
     target.parent.mkdir(parents=True, exist_ok=True)
+    if document.get('layout') == 'pleading':
+        return pleading_layout.docx(document, CASE, target)
     doc = Document()
     sec = doc.sections[0]
     sec.page_width, sec.page_height = Cm(21), Cm(29.7)
@@ -203,6 +209,8 @@ def docx_document(document):
         for text in page.get('after', []):
             doc.add_paragraph(text)
     doc.save(target)
+    if document['id'].startswith('47_Posteingang'):
+        pleading_layout.normalize_docx(target, document['date'])
     return target
 
 
@@ -268,11 +276,11 @@ def other_records():
         ]},{'heading':'2. Rücklauf Zustellung','paragraphs':[
             'Zustellungsbezug: Landgericht Bremen, 4 O 1186/26. Empfänger: Nexora Frontbank AG, Schottenring 18, 1010 Wien, Österreich. Übermittelt wurden die Verfügung vom 10.09.2026, die Klageschrift vom 08.09.2026 und die Anlagen K1 bis K12.',
             'Übergabe an der Geschäftsanschrift am Dienstag, 15.09.2026, um 10:24 Uhr. Entgegengenommen durch Lena Berger, Empfang. Die Sendung wurde noch am selben Vormittag an Dr. Falk Neubauer weitergegeben. Eingangsstempel der Rechtsabteilung: 15.09.2026, 11:02 Uhr.',
-            'Der Empfangsbeleg und die Umschlagvorderseite wurden am 16.09.2026 um 08:46 Uhr als gemeinsamer Scan an die Kanzlei Rademacher Westhoff übermittelt. Die bei der Bank aufbewahrte Sendung enthält 100 Blatt Klage und Anlagen sowie die gerichtliche Verfügung. Auf dem Umschlag befindet sich keine andere Zustellanschrift.',
+            'Der Empfangsbeleg und die Umschlagvorderseite wurden am 16.09.2026 um 08:46 Uhr als gemeinsamer Scan an die Kanzlei Rademacher Westhoff übermittelt. Die bei der Bank aufbewahrte Sendung enthält 93 Blatt Klage und Anlagen sowie die gerichtliche Verfügung. Auf dem Umschlag befindet sich keine andere Zustellanschrift.',
             'Bearbeitungsvermerk Empfang: Der zunächst angekündigte Kurier für den Quartalsabschluss war eine andere Sendung. Die Gerichtsunterlagen wurden nicht mit dieser Post zusammengeführt. Rückfragen zur Entgegennahme an empfang@nexora.example, Lena Berger.',
             'Abschrift des Eingangsvermerks: L. Berger, 16.09.2026. Die Unterschrift auf dem Papierbeleg verbleibt in der Wiener Poststelle.',
         ]}]},
-        {'id':'00_Verteidigungsanzeige_20260922','folder':'03_korrespondenz','title':'Verteidigungsanzeige','author':CASE['defence_firm']['name'],'recipient':'Landgericht Bremen, Domsheide 16, 28195 Bremen','date':'2026-09-22','reference':CASE['docket'],'pages':[{'heading':'1. Anzeige der Verteidigungsbereitschaft','paragraphs':[
+        {'id':'00_Verteidigungsanzeige_20260922','folder':'03_korrespondenz','title':'Verteidigungsanzeige','layout':'pleading','sender':'defence_firm','author':CASE['defence_firm']['name'],'recipient':'Landgericht Bremen\n4. Zivilkammer\nDomsheide 16\n28195 Bremen','date':'2026-09-22','reference':CASE['docket'],'pages':[{'heading':'1 Anzeige der Verteidigungsbereitschaft','paragraphs':[
             'In dem Rechtsstreit Kunigunde von Tettenborn als Insolvenzverwalterin gegen Nexora Frontbank AG zeigen wir die Vertretung der Beklagten an. Die Beklagte wird sich gegen die Klage verteidigen. Die Klageschrift ist der Beklagten am 15.09.2026 zugestellt worden.',
             'Die Vertretung erstreckt sich auf die Nexora Frontbank AG, nicht auf die Vellio Finance GmbH. Eine Vollmacht zur Vertretung der letztgenannten Gesellschaft liegt uns nicht vor. Wir bitten, diese Unterscheidung bei der Bezeichnung der Parteien und der Zustellung künftiger Verfügungen zu berücksichtigen.',
             'Eine Einlassung zur Hauptsache ist mit dieser Anzeige nicht verbunden. Insbesondere bleibt die Rüge der internationalen Zuständigkeit hinsichtlich der neben der Insolvenzanfechtung geltend gemachten Ansprüche vorbehalten. Eine Zustimmung zu einer Zuständigkeit kraft Einlassung wird nicht erklärt.',
@@ -283,7 +291,7 @@ def other_records():
 
 
 def verify_originals():
-    expected = json.loads((FIXTURES/'original-sha256.json').read_text())
+    expected = pleading_layout.approved_original_hashes(FIXTURES/'original-sha256.json')
     changed = [name for name, digest in expected.items()
                if not (OUT/name).is_file() or hashlib.sha256((OUT/name).read_bytes()).hexdigest() != digest]
     if changed:
@@ -438,9 +446,24 @@ def build_supplements(qa_dir=None):
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument('--pleadings-only', action='store_true', help='Nur Klage, Erwiderung und Verteidigungsanzeige neu setzen')
     parser.add_argument('--supplements-only', action='store_true', help='35 vorhandene Originaldateien nicht neu erzeugen')
     parser.add_argument('--qa-dir', type=Path, help='Ziel für native Tabellen-Vorschaubilder')
     args = parser.parse_args()
+    if args.pleadings_only:
+        for name in ('claim', 'defence'):
+            document = json.loads((FIXTURES/(name+'.json')).read_text())['documents'][0]
+            path = pdf_document(document) if name == 'claim' else docx_document(document)
+            print(path)
+        notice = next(d for d in other_records() if d['id'].startswith('00_Verteidigungsanzeige'))
+        print(pdf_document(notice))
+        for suffix, bold in [('', False), ('Bold', True)]:
+            pdfmetrics.registerFont(TTFont(FONT+suffix, str(serif_font_path(bold))))
+        print(pdf_document(next(d for d in other_records() if d['id']=='00_Gerichtliche_Verfuegung')))
+        supplements=json.loads((FIXTURES/'supplements.json').read_text())
+        control=next(d for d in supplements['documents'] if d['id'].startswith('47_Posteingang'))
+        print(docx_document({**control,'folder':supplements['folder']}))
+        return
     if args.supplements_only:
         verify_originals()
         build_supplements(args.qa_dir)
@@ -472,7 +495,7 @@ def main():
         seen.add(key.casefold())
         native = document['id'].startswith(('00_Klageerwiderung', '01_B1_'))
         path = docx_document(document) if native else pdf_document(document)
-        manifest.append({'path':str(path.relative_to(OUT)), 'pages':len(document['pages']), 'title':document['title']})
+        manifest.append({'path':str(path.relative_to(OUT)), 'pages':len(PdfReader(path).pages) if path.suffix == '.pdf' else document.get('expected_rendered_pages',len(document['pages'])), 'title':document['title']})
     for mail in emails:
         msg = EmailMessage(policy=policy.SMTP)
         for key in ('from','to','cc'):

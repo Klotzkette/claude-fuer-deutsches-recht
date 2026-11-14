@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parents[1]
 NAME = "zahlungsunfaehigkeits-und-ueberschuldungspruefer"
 VERSION = "1.2.0"
 TAG = f"{NAME}-v{VERSION}"
+CASE_TAG = "insolvenz-arbeitsakten-v1.0.0"
 PLUGIN = ROOT / NAME
 CASES = (
     "insolvenzreife-hubschrauber-prenzlau",
@@ -241,7 +242,8 @@ def inspect(dist):
                                  "combined_sha256": digest(combined)}
     for name in (f"{NAME}.zip", f"{NAME}-portable.zip",
                  *(file for slug in CASES for file in (original_name(slug), single_name(slug)))):
-        assert scoped_asset_url(name, root=ROOT).endswith(f"/{TAG}/{name}")
+        expected_tag = CASE_TAG if name.startswith('testakte-') else TAG
+        assert scoped_asset_url(name, root=ROOT).endswith(f"/{expected_tag}/{name}")
     for name in (TEMPLATE_BUNDLE, *TEMPLATES):
         assert f"releases/download/{TAG}/{name}" in (PLUGIN / "README.md").read_text(encoding="utf-8")
     with ZipFile(dist / BUNDLE) as archive:

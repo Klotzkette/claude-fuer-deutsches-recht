@@ -24,6 +24,7 @@ STRUCTURED_TESTAKTEN = frozenset({
     'bauwirtschaft-hildesheim-lebensakte',
     'compliance-hameln-schokolade-charge-k17',
     'fintech-darlehen-vertragsuebernahme-bremen',
+    'forderungsmanagement-baeckerei-behaeltertausch-hamburg',
     'insolvenzverwaltung-klangbogen-buehnentechnik-bamberg',
     'insolvenzreife-hubschrauber-prenzlau',
     'insolvenzreife-keramikfabrik-cottbus',
@@ -34,6 +35,7 @@ STRUCTURED_TESTAKTEN = frozenset({
 # Produkte. Das Originalformat-ZIP enthält nur die Quelldokumente; das
 # Gesamt-PDF wird separat und zusätzlich als Einzel-PDF-ZIP bereitgestellt.
 SOURCE_ZIP_WITHOUT_GESAMT_PDF = frozenset({
+    'forderungsmanagement-baeckerei-behaeltertausch-hamburg',
     'bauunternehmer-einkauf-altstadt-bordsteine',
     'bauunternehmer-einkauf-lueftungszentralen-krimpfort',
     'compliance-hameln-schokolade-charge-k17',
