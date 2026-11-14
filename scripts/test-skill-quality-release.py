@@ -99,6 +99,64 @@ class QualityReleaseTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             B.validate_scope(self.scope, self.root)
 
+    def test_required_file_reviews_block_release_until_complete_and_byte_bound(self):
+        self.scope["required_file_reviews"] = {self.name: 1}
+        profile_path = "quality/evals/beispiel.json"
+        relative = f"{self.source}/skills/vertrag-pruefen/SKILL.md"
+        old = {"status": "needs_review", "reason": "Geänderte Fassung", "files": [relative]}
+        profile = {"plugin": self.name, "file_review_status": old}
+        self.write(profile_path, json.dumps(profile))
+        with self.assertRaisesRegex(ValueError, "Dateinachprüfungen"):
+            B.validate_scope(self.scope, self.root)
+        report = self.write("quality/source-audits/report.md", "Vollständige Lektüre und konkrete Prüfung des Vertragswegs.")
+        evidence = {"schema_version": 1, "plugin": self.name, "date": "2026-11-14",
+                    "method": "full_file_review", "limits": "Dateiprüfung, kein Modelltest.",
+                    "previous_status": old,
+                    "files": [{"path": relative, "before_sha256": B.sha256_file(self.root / relative),
+                               "reviewed_sha256": B.sha256_file(self.root / relative),
+                               "full_file_read": True, "result": "retained",
+                               "checked_points": ["Vertragsauftrag abgegrenzt", "Vollständiges Endprodukt verlangt"],
+                               "finding": "Auftrag und Quellenpflicht konkret erhalten."}],
+                    "reports": {report.relative_to(self.root).as_posix(): B.sha256_file(report)}}
+        record = self.write("quality/source-audits/completed.json", json.dumps(evidence))
+        profile["file_review_status"] = {"status": "reviewed", "reason": "Vollständig nachgeprüft",
+                                         "files": [relative], "evidence": {
+                                             "path": record.relative_to(self.root).as_posix(), "sha256": B.sha256_file(record)}}
+        self.write(profile_path, json.dumps(profile))
+        self.assertIn(self.name, B.validate_scope(self.scope, self.root))
+        self.scope["required_file_reviews"][self.name] = 2
+        with self.assertRaisesRegex(ValueError, "Dateinachprüfungen"):
+            B.validate_scope(self.scope, self.root)
+        self.scope["required_file_reviews"][self.name] = 1
+        report.write_text("Bericht nachträglich verändert")
+        with self.assertRaisesRegex(ValueError, "Nachprüfungsbericht"):
+            B.validate_scope(self.scope, self.root)
+
+    def test_required_file_review_rejects_matching_profile_and_evidence_for_wrong_plugin(self):
+        from quality_lab import pending_file_reviews
+
+        self.scope["required_file_reviews"] = {self.name: 1}
+        relative = f"{self.source}/skills/vertrag-pruefen/SKILL.md"
+        sha = B.sha256_file(self.root / relative)
+        report = self.write("quality/source-audits/report.md", "Technische Fixture, kein wirklicher Dateireview.")
+        evidence = {"schema_version": 1, "plugin": "anderes-plugin", "date": "2026-11-14",
+                    "method": "full_file_review", "limits": "Nur technische Testdaten, kein Modelltest.",
+                    "previous_status": {"status": "needs_review", "reason": "Fassung verändert", "files": [relative]},
+                    "files": [{"path": relative, "before_sha256": sha, "reviewed_sha256": sha,
+                               "full_file_read": True, "result": "retained",
+                               "checked_points": ["Erster Fixture-Prüfpunkt", "Zweiter Fixture-Prüfpunkt"],
+                               "finding": "Technisch vollständiger, aber falsch zugeordneter Beleg."}],
+                    "reports": {report.relative_to(self.root).as_posix(): B.sha256_file(report)}}
+        record = self.write("quality/source-audits/completed.json", json.dumps(evidence))
+        profile = {"plugin": "anderes-plugin", "file_review_status": {
+            "status": "reviewed", "reason": "Vollständige Fixture", "files": [relative],
+            "evidence": {"path": record.relative_to(self.root).as_posix(), "sha256": B.sha256_file(record)}}}
+        # Das Paar ist in sich konsistent. Erst der Release-Scope deckt die Verwechslung auf.
+        self.assertEqual(pending_file_reviews(profile, self.root), [])
+        self.write(f"quality/evals/{self.name}.json", json.dumps(profile))
+        with self.assertRaisesRegex(ValueError, "Nachprüfungsprofil gehört nicht zum Plugin"):
+            B.validate_scope(self.scope, self.root)
+
     def test_twenty_one_active_skills_or_orphaned_fachtext_cannot_ship(self):
         directory = self.root / self.source
         for i in range(20):

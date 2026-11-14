@@ -27,7 +27,7 @@ Nach einem neuen Entwurf vergleichen Sie nur die betroffenen Änderungen und fü
 
 ## 4. Quellenpflicht
 
-Prüfen Sie Paragrafen 305 bis 310 BGB. BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, dient als Rechercheanker zum Aushandeln; der aktuelle Quellenstatus steht in [Fachquellen](../../references/fachquellen.md). Beachten Sie [Zitierweise](../../references/zitierweise.md). Ohne lokale Dateien nutzen Sie amtliche Normtexte unter https://www.gesetze-im-internet.de/ und bestätigen gesperrte Entscheidungsgründe nicht.
+Prüfen Sie Paragrafen 305 bis 310 BGB. BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, belegt in Randnummern 27 bis 30 die erforderliche ernsthafte Disposition des gesetzesfremden Kerns und die Unzulänglichkeit einer bloßen Verhandlungsbestätigung; der aktuelle Quellenstatus steht in [Fachquellen](../../references/fachquellen.md). Beachten Sie [Zitierweise](../../references/zitierweise.md). Ohne lokale Dateien nutzen Sie amtliche Normtexte unter https://www.gesetze-im-internet.de/ und bestätigen gesperrte Entscheidungsgründe nicht.
 
 ## 5. Ausgabeformat
 

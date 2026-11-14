@@ -24,7 +24,7 @@ Prüfen Sie das B2B-AGB-Recht und dokumentieren Sie tatsächliche Einflussnahme 
 
 Bei internationaler Lieferung prüfen Sie zuerst den Anwendungsbereich des CISG. „Deutsches Recht“ allein ist kein Ausschluss. Verknüpfen Sie Rechtswahl nicht mit einer ungeprüften Gerichtsstands- oder Schiedsklausel. Bei Vertriebsverträgen bleiben zwingende Vertreterrechte und kartellrechtliche Schranken gesondert zu beachten. Beim Exit müssen offene Einzelaufträge, bereits bezahlte Rechte und notwendige Übergangsleistungen ausdrücklich zugeordnet sein. Insolvenzabhängige Kündigungen sind keine automatisch wirksame Standardlösung.
 
-Rechercheanker: BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, zur Abnahme und zum Abrechnungsverhältnis; amtlich indexierter Leitsatz, Volltextabruf gesperrt.
+Geprüfter Anker: BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, Randnummern 31 bis 50, zur grundsätzlich erforderlichen Abnahme und zum ausnahmsweisen Abrechnungsverhältnis. Ein Vorschussverlangen allein genügt nicht. Amtliches PDF am 14.11.2026 gelesen; Paragraf 640 BGB in der einschlägigen Fassung gesondert anwenden.
 
 ## 1.4. Gegenentwurf und Verhandlungsantwort
 

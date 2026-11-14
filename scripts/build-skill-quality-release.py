@@ -113,6 +113,22 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
         validate_plugin_version(entries[name], market["version"], root=root)
         if entries[name]["version"] != scope["version"]:
             raise ValueError(f"{name}: Marketplace-Version passt nicht zum Scope")
+    required_reviews = scope.get("required_file_reviews", {})
+    if (not isinstance(required_reviews, dict) or not set(required_reviews) <= seen
+            or any(type(count) is not int or count < 1 for count in required_reviews.values())):
+        raise ValueError("Geforderte Dateireviews müssen Plugin und positive Dateizahl des Release-Scope nennen")
+    if required_reviews:
+        from quality_lab import load, pending_file_reviews
+        for name, count in required_reviews.items():
+            profile = load(root / "quality/evals" / (name + ".json"))
+            if not isinstance(profile, dict) or profile.get("plugin") != name:
+                raise ValueError(f"{name}: Nachprüfungsprofil gehört nicht zum Plugin im Release-Scope")
+            review = profile.get("file_review_status")
+            if (not isinstance(review, dict) or review.get("status") != "reviewed"
+                    or not isinstance(review.get("files"), list) or len(review["files"]) != count):
+                raise ValueError(f"{name}: {count} vollständige belegte Dateinachprüfungen sind vor dem Release erforderlich")
+            if pending_file_reviews(profile, root):
+                raise ValueError(f"{name}: offene Nachprüfung verhindert Veröffentlichung")
     extras = scope.get("additional_assets", [])
     if not isinstance(extras, list) or (extras and {r.get("name") for r in extras} != HANDBOOK_ASSETS):
         raise ValueError("Zusatzassets sind ausschließlich das vollständige geprüfte KI-native-Handbuchpaar")

@@ -1,6 +1,6 @@
 # anwaltschaft-generell
 
-**10 Skills** · Stand `v445.35.3`
+**10 Skills** · Stand `v445.36.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../anwaltschaft-generell/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`anwaltschaft-generell-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`anwaltschaft-generell-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [anwaltschaft-generell.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/anwaltschaft-generell.zip) |
+| **Plugin (installierbar)** | ZIP | [anwaltschaft-generell.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/anwaltschaft-generell.zip) |
 
 ## So benutzt man einen Skill
 

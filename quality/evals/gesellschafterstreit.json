@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschafterstreit",
-  "reviewed_on": "2026-10-09",
+  "reviewed_on": "2026-11-15",
   "selection": {
     "target_skill": "gesellschafterstreit-loesen",
     "positive": [
@@ -27,8 +27,10 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__16.html",
-      "checked_on": "2026-10-02",
-      "supports": "Abs. 1 Listenlegitimation; Abs. 3 gutgläubiger Erwerb und Widerspruch"
+      "checked_on": "2026-11-14",
+      "supports": "§ 16 GmbHG; Einzelnorm vollständig gelesen; Abs. 1 und 3 Grenze: Fallbezogene Rechtsfolgen, Voraussetzungen und Ereignisfassung bleiben getrennt zu prüfen.",
+      "audit_source_id": "GS-GmbHG16",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__26.html",
@@ -52,8 +54,10 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__30.html",
-      "checked_on": "2026-10-02",
-      "supports": "Abs. 1 Satz 1 Kapitalbindung; Satz 2 Ausnahmen; Satz 3 Darlehensrückgewähr"
+      "checked_on": "2026-11-14",
+      "supports": "§ 30 GmbHG; Einzelnorm vollständig gelesen; Abs. 1, insbesondere Satz 3 Grenze: Fallbezogene Rechtsfolgen, Voraussetzungen und Ereignisfassung bleiben getrennt zu prüfen.",
+      "audit_source_id": "GS-GmbHG30",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__31.html",
@@ -117,8 +121,10 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__48.html",
-      "checked_on": "2026-10-02",
-      "supports": "Versammlungsformen; im aktuellen Abs. 2 Textform für Stimmabgabe"
+      "checked_on": "2026-11-14",
+      "supports": "§ 48 GmbHG; Einzelnorm vollständig gelesen; Abs. 1–3 Grenze: Fallbezogene Rechtsfolgen, Voraussetzungen und Ereignisfassung bleiben getrennt zu prüfen.",
+      "audit_source_id": "GS-GmbHG48",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__49.html",
@@ -142,8 +148,10 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__51b.html",
-      "checked_on": "2026-10-02",
-      "supports": "Nur Verweisung auf § 132 Abs. 1, 3 und 4 AktG; nicht dessen Abs. 2"
+      "checked_on": "2026-11-14",
+      "supports": "§ 51b GmbHG; Einzelnorm vollständig gelesen; Verweisung auf § 132 Abs. 1, 3 und 4 AktG Grenze: Fallbezogene Rechtsfolgen, Voraussetzungen und Ereignisfassung bleiben getrennt zu prüfen.",
+      "audit_source_id": "GS-GmbHG51b",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__52.html",
@@ -152,8 +160,10 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
-      "checked_on": "2026-10-02",
-      "supports": "Abs. 2 Dreiviertelmehrheit, Abs. 3 Beurkundung, Abs. 4 Zustimmung Mehrbelasteter"
+      "checked_on": "2026-11-14",
+      "supports": "§ 53 GmbHG; Einzelnorm vollständig gelesen; Abs. 2–4 Grenze: Fallbezogene Rechtsfolgen, Voraussetzungen und Ereignisfassung bleiben getrennt zu prüfen.",
+      "audit_source_id": "GS-GmbHG53",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__54.html",
@@ -217,8 +227,9 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__626.html",
-      "checked_on": "2026-10-02",
-      "supports": "Wichtiger Grund, Interessenabwägung und Zweiwochenfrist"
+      "checked_on": "2026-10-09",
+      "supports": "BGB §626: Wichtiger Grund mit Gesamtumständen/Interessenabwägung; Zweiwochenfrist ab Kenntnis des Kündigungsberechtigten.",
+      "limits": "Keine GmbH-Beschlussklagefrist und kein stets identischer Fristbeginn ab erstem Verdacht."
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__256.html",
@@ -252,8 +263,9 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__929.html",
-      "checked_on": "2026-10-02",
-      "supports": "Abs. 2 gesonderte Vollziehungsfrist"
+      "checked_on": "2026-10-09",
+      "supports": "ZPO §§294,929,935,936,940,945: Glaubhaftmachung, konkrete Sicherung/Regelung, Monatsvollziehungsfrist bei einschlägigem inländischem Titel, entsprechende Arrestregeln und Schadensersatz.",
+      "limits": "Erlass allein bedeutet nicht Vollziehung; keine Dringlichkeitsvermutung aus bloßem Gesellschafterstreit. Einzeloriginale aller genannten Normen archiviert."
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__945.html",
@@ -267,8 +279,9 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
-      "checked_on": "2026-10-02",
-      "supports": "Zahlungsverbote und Ersatz nach Insolvenzreife; Abs. 5 verursachende Zahlungen"
+      "checked_on": "2026-10-09",
+      "supports": "InsO §§15a,15b,17,19: Antragspflichten, Zahlungsfolgen und Insolvenzgründe müssen mit konkreten Fälligkeiten/Vermögensdaten gesondert geprüft werden. Einzeloriginale archiviert.",
+      "limits": "Plan einer Kapitalerhöhung oder Fälligkeit eines Darlehens beseitigt Insolvenzreife nicht automatisch; Höchstfristen sind keine voraussetzungslose Warteerlaubnis."
     },
     {
       "url": "https://www.gesetze-im-internet.de/inso/__17.html",
@@ -282,13 +295,16 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/inso/__39.html",
-      "checked_on": "2026-10-02",
-      "supports": "Darlehensnachrang und Privilegien, Abs. 4 und 5; Förderbankausnahme Abs. 1 Satz 2"
+      "checked_on": "2026-10-09",
+      "supports": "InsO §39: Nachrang §39 Abs1 Nr5 mit Ausnahmen, u.a. Abs4 Sanierung, Abs5 nicht geschäftsführende Kleinbeteiligung bis zehn Prozent und Förderbankregel Abs1 S2.",
+      "limits": "Aktueller Prozentsatz allein beweist kein Privileg; Nachrang nicht mit zivilrechtlicher Nichtexistenz gleichsetzen."
     },
     {
       "url": "https://www.gesetze-im-internet.de/inso/__135.html",
-      "checked_on": "2026-10-02",
-      "supports": "Abs. 1 Nr. 1 Sicherheit/Nr. 2 Rückzahlung; Abs. 4 Privilegien"
+      "checked_on": "2026-11-14",
+      "supports": "§ 135 InsO; Einzelnorm vollständig gelesen; Abs. 1–4 Grenze: Fallbezogene Rechtsfolgen, Voraussetzungen und Ereignisfassung bleiben getrennt zu prüfen.",
+      "audit_source_id": "GS-InsO135",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/inso/__143.html",
@@ -372,8 +388,10 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/aktg/__132.html",
-      "checked_on": "2026-10-02",
-      "supports": "Abs. 1, 3 und 4 nur im Umfang § 51b GmbHG; Abs. 2 nicht mitverwiesen"
+      "checked_on": "2026-11-14",
+      "supports": "§ 132 AktG; Einzelnorm vollständig gelesen; Abs. 1–5; Abs. 2 nicht von § 51b GmbHG umfasst Grenze: Fallbezogene Rechtsfolgen, Voraussetzungen und Ereignisfassung bleiben getrennt zu prüfen.",
+      "audit_source_id": "GS-AktG132",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/aktg/__241.html",
@@ -402,177 +420,129 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2",
-      "checked_on": "2026-10-09",
-      "supports": "Auch eine materiell umstrittene, aber in der aufgenommenen Liste legitimierte Gesellschafterin ist zu laden. Die Ladung einer anderen Gesellschaft mit demselben Geschäftsführer genügt nicht. Der Ladungsmangel kann zur Nichtigkeit analog § 241 Nr. 1 AktG führen. Der Schutz des § 37 Abs. 2 GmbHG gilt nicht im Rechtsverkehr mit einer GmbH, die ein Gesellschafter als Alleingesellschafter und Geschäftsführer beherrscht. Die notwendige Zustimmung und eine spätere Genehmigung bleiben eigenständige Fragen.",
-      "limits": "Nicht jeder Beiratsvorbehalt beschränkt die Vertretungsmacht gegenüber außenstehenden Dritten. Die Treuepflicht kann auch Drittgeschäfte erfassen; sie erlaubt aber nicht allein wegen später verbesserter Liquidität, eine ursprünglich angemessene Erfolgsvergütung nachträglich zu kürzen. Der BGH hat die Sache zurückverwiesen; keine pauschale abschließende Unwirksamkeitsfeststellung für alle vergleichbaren Verträge.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "9a8579a94811872baebffa74cdcc5afc02909d61620714143540f7ea26ca6741"
+      "checked_on": "2026-11-14",
+      "supports": "Auch eine materiell umstrittene, aber in der aufgenommenen Liste legitimierte Gesellschafterin ist zu laden. Die Ladung einer anderen Gesellschaft mit demselben Geschäftsführer genügt nicht. Der Ladungsmangel kann zur Nichtigkeit analog § 241 Nr. 1 AktG führen. Der Schutz des § 37 Abs. 2 GmbHG gilt nicht im Rechtsverkehr mit einer GmbH, die ein Gesellschafter als Alleingesellschafter und Geschäftsführer beherrscht. Die notwendige Zustimmung und eine spätere Genehmigung bleiben eigenständige Fragen. Grenze: Nicht jeder Beiratsvorbehalt beschränkt die Vertretungsmacht gegenüber außenstehenden Dritten. Die Treuepflicht kann auch Drittgeschäfte erfassen; sie erlaubt aber nicht allein wegen später verbesserter Liquidität, eine ursprünglich angemessene Erfolgsvergütung nachträglich zu kürzen. Der BGH hat die Sache zurückverwiesen; keine pauschale abschließende Unwirksamkeitsfeststellung für alle vergleichbaren Verträge.",
+      "audit_source_id": "GS-01",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Bei einem echten Gelddarlehen ist keine Mindestlaufzeit erforderlich. Tilgt ein Gesellschafter die Schuld der Gesellschaft gegenüber einem Dritten und erwirbt dadurch einen Rückzahlungsanspruch gegen die Gesellschaft, kann dies ohne zusätzliche Stundungsabrede darlehensgleich sein. Bei Forderungen aus eigenen Leistungen oder vergleichbarem Leistungsaustausch kommt es dagegen auf rechtliche oder tatsächliche Stundung und Finanzierungsfunktion an. Nicht jede kurze Überschreitung des Zahlungsziels genügt.",
-      "limits": "Keine allgemeine Dreimonatsfreigrenze: Bei Austauschforderungen indiziert ein Stehenlassen von mehr als drei Monaten regelmäßig die Finanzierungsfunktion; darunter bedarf es weiterer Indizien (Rn. 23). Für echtes Darlehen oder Fremdschuldtilgung gilt dieser Zeitraum nicht. Aus § 30 Abs. 1 Satz 3 GmbHG folgt keine insolvenzrechtliche Freigabe. Beteiligungsprivilegien nach § 39 Abs. 4 und 5, § 135 Abs. 4 InsO gesondert prüfen. Die Normzeile des amtlichen Urteils nennt Nr. 1; die hier ausgewerteten Rückzahlungserwägungen betreffen ausdrücklich **Nr. 2**.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "db4d9a6d16820f69827963bc46134eb4815efc2f0bcb4a261b1eed6264dfb34b"
+      "checked_on": "2026-11-14",
+      "supports": "Bei einem echten Gelddarlehen ist keine Mindestlaufzeit erforderlich. Tilgt ein Gesellschafter die Schuld der Gesellschaft gegenüber einem Dritten und erwirbt dadurch einen Rückzahlungsanspruch gegen die Gesellschaft, kann dies ohne zusätzliche Stundungsabrede darlehensgleich sein. Bei Forderungen aus eigenen Leistungen oder vergleichbarem Leistungsaustausch kommt es dagegen auf rechtliche oder tatsächliche Stundung und Finanzierungsfunktion an. Nicht jede kurze Überschreitung des Zahlungsziels genügt. Grenze: Keine allgemeine Dreimonatsfreigrenze: Bei Austauschforderungen indiziert ein Stehenlassen von mehr als drei Monaten regelmäßig die Finanzierungsfunktion; darunter bedarf es weiterer Indizien (Rn. 23). Für echtes Darlehen oder Fremdschuldtilgung gilt dieser Zeitraum nicht. Aus § 30 Abs. 1 Satz 3 GmbHG folgt keine insolvenzrechtliche Freigabe. Beteiligungsprivilegien nach § 39 Abs. 4 und 5, § 135 Abs. 4 InsO gesondert prüfen. Die Normzeile des amtlichen Urteils nennt Nr. 1; die hier ausgewerteten Rückzahlungserwägungen betreffen ausdrücklich **Nr. 2**.",
+      "audit_source_id": "GS-02",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__77-24.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Soll eine Erklärung auf dem Briefpapier einer GmbH Rechtswirkungen für diese herbeiführen, spricht dies regelmäßig für eine Erklärung in ihrem Namen. Bei aus den Umständen erkennbarer Vertretung ist ein ausdrücklicher Zusatz „als Geschäftsführer“ nicht zwingend; § 164 Abs. 1 Satz 2 BGB ist zu beachten.",
-      "limits": "Briefpapier ersetzt keine fehlende Vertretungsmacht, erforderliche zweite Unterschrift, wirksame Ermächtigung, Kündigungsfrist oder Zugangsnachweis. Kein allgemeiner Formfreibrief und kein Beleg, dass die betreffende Kündigung aus jedem denkbaren Grund wirksam wäre.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "5e82832978b80f22c876af1325a5ee53a11750949bbeb7329c211c8b97b66448"
+      "checked_on": "2026-11-14",
+      "supports": "Soll eine Erklärung auf dem Briefpapier einer GmbH Rechtswirkungen für diese herbeiführen, spricht dies regelmäßig für eine Erklärung in ihrem Namen. Bei aus den Umständen erkennbarer Vertretung ist ein ausdrücklicher Zusatz „als Geschäftsführer“ nicht zwingend; § 164 Abs. 1 Satz 2 BGB ist zu beachten. Grenze: Briefpapier ersetzt keine fehlende Vertretungsmacht, erforderliche zweite Unterschrift, wirksame Ermächtigung, Kündigungsfrist oder Zugangsnachweis. Kein allgemeiner Formfreibrief und kein Beleg, dass die betreffende Kündigung aus jedem denkbaren Grund wirksam wäre.",
+      "audit_source_id": "GS-03",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__85-23.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Ein Gesellschafter kann Gesellschaftsansprüche gegen einen Fremdgeschäftsführer grundsätzlich nicht im eigenen Namen geltend machen. Eine Gesellschafterklage ist zudem gegenüber der Rechtsverfolgung durch die zuständigen Gesellschaftsorgane grundsätzlich subsidiär. Der betroffene Geschäftsführer darf die Stimme einer Gesellschaftergesellschaft bei der Entscheidung über gegen ihn gerichtete Ansprüche und deren prozessuale Durchsetzung nicht ausüben. Eine konfliktfreie Vertretung der Gesellschaftergesellschaft ist gesondert zu prüfen. Das MoPeG hat die Subsidiarität nicht beseitigt.",
-      "limits": "Die Entbehrlichkeit eines vorherigen Beschlusses im behandelten Zweipersonenfall ist keine allgemeine Befreiung für eine mehrgliedrige GmbH. Eine bloß mittelbare Beteiligung löst nicht nach diesem Urteil stets ein Stimmverbot aus; diese Frage ließ der BGH offen. Beschlussfeststellung und erforderliche Anfechtung eines negativen Beschlusses gesondert untersuchen.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "03b026d06bc27491e01ee9a44cf0de2fb6b8b6ba5289b3fb358b8c0905bd8cc8"
+      "checked_on": "2026-11-14",
+      "supports": "Ein Gesellschafter kann Gesellschaftsansprüche gegen einen Fremdgeschäftsführer grundsätzlich nicht im eigenen Namen geltend machen. Eine Gesellschafterklage ist zudem gegenüber der Rechtsverfolgung durch die zuständigen Gesellschaftsorgane grundsätzlich subsidiär. Der betroffene Geschäftsführer darf die Stimme einer Gesellschaftergesellschaft bei der Entscheidung über gegen ihn gerichtete Ansprüche und deren prozessuale Durchsetzung nicht ausüben. Eine konfliktfreie Vertretung der Gesellschaftergesellschaft ist gesondert zu prüfen. Das MoPeG hat die Subsidiarität nicht beseitigt. Grenze: Die Entbehrlichkeit eines vorherigen Beschlusses im behandelten Zweipersonenfall ist keine allgemeine Befreiung für eine mehrgliedrige GmbH. Eine bloß mittelbare Beteiligung löst nicht nach diesem Urteil stets ein Stimmverbot aus; diese Frage ließ der BGH offen. Beschlussfeststellung und erforderliche Anfechtung eines negativen Beschlusses gesondert untersuchen.",
+      "audit_source_id": "GS-04",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR__99-22.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Ein nachvertragliches Wettbewerbsverbot muss nach Ort, Gegenstand und Zeit auf berechtigte Interessen begrenzt sein. Für GmbH-Geschäftsführer besteht keine automatische Pflicht zu einer Karenzentschädigung nach dem Arbeitnehmermodell. Der vereinbarte rückwirkende Entfall einer zugesagten Entschädigung bei Verstoß war im entschiedenen Fall nicht sittenwidrig.",
-      "limits": "Der AGB-Charakter war nicht festgestellt; eine umfassende Billigung solcher Formularbestimmungen nach § 307 BGB enthält das Urteil gerade nicht. Nicht auf Arbeitnehmer oder jedes beliebige Berufsverbot übertragen. Nach Rn. 18 lässt sich ein nicht nur zeitlich überbreites Verbot nicht beliebig gerichtlich auf zulässige Kunden, Produkte oder Gebiete zurückschneiden; Rn. 19 betrifft zudem den möglichen Gesamtwegfall nach § 139 BGB. §§ 2–5 GeschGehG haben eigene Voraussetzungen; eine Vertragsüberschrift schafft kein Geschäftsgeheimnis.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "4850f4b8a6cc12600f1667158781b5c6aa3f31e9186b3b8f8c5e9a2c05bd69fe"
+      "checked_on": "2026-11-14",
+      "supports": "Ein nachvertragliches Wettbewerbsverbot muss nach Ort, Gegenstand und Zeit auf berechtigte Interessen begrenzt sein. Für GmbH-Geschäftsführer besteht keine automatische Pflicht zu einer Karenzentschädigung nach dem Arbeitnehmermodell. Der vereinbarte rückwirkende Entfall einer zugesagten Entschädigung bei Verstoß war im entschiedenen Fall nicht sittenwidrig. Grenze: Der AGB-Charakter war nicht festgestellt; eine umfassende Billigung solcher Formularbestimmungen nach § 307 BGB enthält das Urteil gerade nicht. Nicht auf Arbeitnehmer oder jedes beliebige Berufsverbot übertragen. Nach Rn. 18 lässt sich ein nicht nur zeitlich überbreites Verbot nicht beliebig gerichtlich auf zulässige Kunden, Produkte oder Gebiete zurückschneiden; Rn. 19 betrifft zudem den möglichen Gesamtwegfall nach § 139 BGB. §§ 2–5 GeschGehG haben eigene Voraussetzungen; eine Vertragsüberschrift schafft kein Geschäftsgeheimnis.",
+      "audit_source_id": "GS-05",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_116-21.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Ein gerichtlicher Ausschluss ohne einschlägige Satzungsregel wird mit Rechtskraft des Gestaltungsurteils wirksam, nicht erst mit Zahlung der Abfindung. Ein wichtiger Grund und Verhältnismäßigkeit bleiben erforderlich. Steht bei Schluss der mündlichen Verhandlung fest, dass die Abfindung nur unter Verstoß gegen die Kapitalerhaltung gezahlt werden kann, scheidet der Ausschluss aus. Eine rechtlich verbindliche, aktivierungsfähige Finanzierungszusage kann bei der Vermögensprüfung erheblich sein.",
-      "limits": "Das Urteil begründet keine automatische persönliche Abfindungsgarantie aller Mitgesellschafter. Eine solche Haftung knüpft an treuwidrige Fortsetzung ohne gebotene Maßnahmen an. Eine unverbindliche Zahlungsabsicht ersetzt keinen werthaltigen Anspruch. Sofortwirkung eines wirksamen Ausschlusses heilt keine anfängliche Kapitalerhaltungsverletzung; bei Einziehung gilt ergänzend GS-09.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "abded036e1fcc3c99fcfabe83fdc18f394af16328b30252c1171e1aed50ddc3a"
+      "checked_on": "2026-11-14",
+      "supports": "Ein gerichtlicher Ausschluss ohne einschlägige Satzungsregel wird mit Rechtskraft des Gestaltungsurteils wirksam, nicht erst mit Zahlung der Abfindung. Ein wichtiger Grund und Verhältnismäßigkeit bleiben erforderlich. Steht bei Schluss der mündlichen Verhandlung fest, dass die Abfindung nur unter Verstoß gegen die Kapitalerhaltung gezahlt werden kann, scheidet der Ausschluss aus. Eine rechtlich verbindliche, aktivierungsfähige Finanzierungszusage kann bei der Vermögensprüfung erheblich sein. Grenze: Das Urteil begründet keine automatische persönliche Abfindungsgarantie aller Mitgesellschafter. Eine solche Haftung knüpft an treuwidrige Fortsetzung ohne gebotene Maßnahmen an. Eine unverbindliche Zahlungsabsicht ersetzt keinen werthaltigen Anspruch. Sofortwirkung eines wirksamen Ausschlusses heilt keine anfängliche Kapitalerhaltungsverletzung; bei Einziehung gilt ergänzend GS-09.",
+      "audit_source_id": "GS-06",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Der Anspruch eines Gesellschafters auf Einreichung einer richtigen Liste richtet sich grundsätzlich gegen die Gesellschaft. Aus der organschaftlichen Pflicht des Geschäftsführers folgt nicht ohne Weiteres ein unmittelbarer Individualanspruch gegen ihn. Ein Gesellschafter-Geschäftsführer kann daneben durch gezielten eigennützigen Listenmissbrauch seine eigene mitgliedschaftliche Treuepflicht verletzen. Präventiver Rechtsschutz benötigt eine konkret drohende oder wiederholte Verletzung.",
-      "limits": "Nicht jede objektiv falsche oder fahrlässig erstellte Liste begründet eine eigene Gesellschafterpflichtverletzung des Geschäftsführers. Ein Widerspruch nach § 16 Abs. 3 GmbHG beseitigt nicht automatisch die negative Legitimationswirkung nach Absatz 1.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "8fdb07e0df6300d19db5b1e0bbe2437eb793f1d420a647e9f402a7b669c1a995"
+      "checked_on": "2026-11-14",
+      "supports": "Der Anspruch eines Gesellschafters auf Einreichung einer richtigen Liste richtet sich grundsätzlich gegen die Gesellschaft. Aus der organschaftlichen Pflicht des Geschäftsführers folgt nicht ohne Weiteres ein unmittelbarer Individualanspruch gegen ihn. Ein Gesellschafter-Geschäftsführer kann daneben durch gezielten eigennützigen Listenmissbrauch seine eigene mitgliedschaftliche Treuepflicht verletzen. Präventiver Rechtsschutz benötigt eine konkret drohende oder wiederholte Verletzung. Grenze: Nicht jede objektiv falsche oder fahrlässig erstellte Liste begründet eine eigene Gesellschafterpflichtverletzung des Geschäftsführers. Ein Widerspruch nach § 16 Abs. 3 GmbHG beseitigt nicht automatisch die negative Legitimationswirkung nach Absatz 1.",
+      "audit_source_id": "GS-07",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR_406-17.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Eine verbindliche positive oder negative Beschlussfeststellung entfaltet zunächst Bindungswirkung und verlangt den passenden Beschlussmängelrechtsschutz. Die bloße Anfechtung einer Einziehung verhindert nicht automatisch einen Listenwechsel. Gegen drohenden Verlust der formellen Legitimation kommt eine einstweilige Verfügung gegen die Gesellschaft in Betracht. Wird eine Liste unter Verstoß gegen eine entsprechende gerichtliche Unterlassungsverfügung eingereicht, kann die Gesellschaft sich nach Treu und Glauben nicht auf den dadurch geschaffenen Ausschluss von Mitgliedschaftsrechten berufen.",
-      "limits": "Keine allgemeine gesetzliche Registersperre durch Klageerhebung und kein beliebiges Ignorieren jeder bestrittenen Liste. § 40 Abs. 2 GmbHG und die konkrete Reichweite der gerichtlichen Anordnung beachten. Trotz Listenstreichung kann der Betroffene die gegen seinen Anteil gerichtete Einziehung gerichtlich angreifen; daraus folgt keine allgemeine Stimmberechtigung für alle weiteren Beschlüsse.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "ff84d98ca6120558bf0d3e8960ed8553ee12dd6eaa737bc36794846270038142"
+      "checked_on": "2026-11-14",
+      "supports": "Eine verbindliche positive oder negative Beschlussfeststellung entfaltet zunächst Bindungswirkung und verlangt den passenden Beschlussmängelrechtsschutz. Die bloße Anfechtung einer Einziehung verhindert nicht automatisch einen Listenwechsel. Gegen drohenden Verlust der formellen Legitimation kommt eine einstweilige Verfügung gegen die Gesellschaft in Betracht. Wird eine Liste unter Verstoß gegen eine entsprechende gerichtliche Unterlassungsverfügung eingereicht, kann die Gesellschaft sich nach Treu und Glauben nicht auf den dadurch geschaffenen Ausschluss von Mitgliedschaftsrechten berufen. Grenze: Keine allgemeine gesetzliche Registersperre durch Klageerhebung und kein beliebiges Ignorieren jeder bestrittenen Liste. § 40 Abs. 2 GmbHG und die konkrete Reichweite der gerichtlichen Anordnung beachten. Trotz Listenstreichung kann der Betroffene die gegen seinen Anteil gerichtete Einziehung gerichtlich angreifen; daraus folgt keine allgemeine Stimmberechtigung für alle weiteren Beschlüsse.",
+      "audit_source_id": "GS-08",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Steht bereits bei der Beschlussfassung fest, dass die Abfindung nicht aus freiem Vermögen gezahlt werden kann, ist der Einziehungsbeschluss wegen Verstoßes gegen die Kapitalerhaltung nichtig. Nicht aufgelöste stille Reserven reichen für die kapitalerhaltungsrechtliche Prüfung nicht aus. Eine mögliche spätere Haftung der Mitgesellschafter heilt dieses anfängliche Hindernis nicht.",
-      "limits": "Eine erst später eintretende Zahlungssperre ist gesondert zu behandeln. Weder Unternehmenswert noch Liquidität allein beantworten die Bilanzfrage nach §§ 30, 34 Abs. 3 GmbHG. Nicht jede Ungewissheit über die endgültige Abfindungshöhe belegt schon die im Urteil verlangte feststehende Unterdeckung.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "3cf0434d1ae438bcc91556b614e5d8e8106528be4fc55827ed922f2f1335aa0a"
+      "checked_on": "2026-11-14",
+      "supports": "Steht bereits bei der Beschlussfassung fest, dass die Abfindung nicht aus freiem Vermögen gezahlt werden kann, ist der Einziehungsbeschluss wegen Verstoßes gegen die Kapitalerhaltung nichtig. Nicht aufgelöste stille Reserven reichen für die kapitalerhaltungsrechtliche Prüfung nicht aus. Eine mögliche spätere Haftung der Mitgesellschafter heilt dieses anfängliche Hindernis nicht. Grenze: Eine erst später eintretende Zahlungssperre ist gesondert zu behandeln. Weder Unternehmenswert noch Liquidität allein beantworten die Bilanzfrage nach §§ 30, 34 Abs. 3 GmbHG. Nicht jede Ungewissheit über die endgültige Abfindungshöhe belegt schon die im Urteil verlangte feststehende Unterdeckung.",
+      "audit_source_id": "GS-09",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Bei gerichtlicher Überprüfung von Beschlüssen über Abberufung oder Kündigung aus wichtigem Grund kommt es auf den tatsächlich bestehenden wichtigen Grund im Beschlusszeitpunkt an. Ihn muss grundsätzlich derjenige darlegen und beweisen, der sich darauf beruft. Eine bloße Behauptung trägt die gerichtliche Entscheidung nicht. Bei ordentlicher Abberufung oder ordentlicher Kündigung des Anstellungsvertrags ist der Gesellschafter-Geschäftsführer nicht allein wegen seiner Betroffenheit stets vom Stimmrecht ausgeschlossen.",
-      "limits": "Die im Urteil erörterte Frage, nach welchem Maßstab der Versammlungsleiter in der Versammlung ein Stimmverbot vorläufig behandelt, wurde nicht abschließend entschieden. Nicht behaupten, der BGH lasse jedes unbewiesene Schlagwort „wichtiger Grund“ sofort die Stimme entfallen.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "d1a42e09da7e9e0c93ac236cbbf46c9cdc37a8331eadb43d8a8821601745dfab"
+      "checked_on": "2026-11-14",
+      "supports": "Bei gerichtlicher Überprüfung von Beschlüssen über Abberufung oder Kündigung aus wichtigem Grund kommt es auf den tatsächlich bestehenden wichtigen Grund im Beschlusszeitpunkt an. Ihn muss grundsätzlich derjenige darlegen und beweisen, der sich darauf beruft. Eine bloße Behauptung trägt die gerichtliche Entscheidung nicht. Bei ordentlicher Abberufung oder ordentlicher Kündigung des Anstellungsvertrags ist der Gesellschafter-Geschäftsführer nicht allein wegen seiner Betroffenheit stets vom Stimmrecht ausgeschlossen. Grenze: Die im Urteil erörterte Frage, nach welchem Maßstab der Versammlungsleiter in der Versammlung ein Stimmverbot vorläufig behandelt, wurde nicht abschließend entschieden. Nicht behaupten, der BGH lasse jedes unbewiesene Schlagwort „wichtiger Grund“ sofort die Stimme entfallen.",
+      "audit_source_id": "GS-10",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Eine Zustimmungspflicht kann bestehen, wenn eine Maßnahme zur Erhaltung wesentlicher Werte oder zur Vermeidung erheblicher Verluste objektiv unabweisbar erforderlich und unter Berücksichtigung eigener schutzwürdiger Belange zumutbar ist. Wirtschaftliche Zweckmäßigkeit oder Vorteilhaftigkeit allein genügt nicht.",
-      "limits": "Aus der Entscheidung folgt keine allgemeine Sanierungszustimmung und erst recht keine automatische Pflicht, neues Geld bereitzustellen. Eine eigene Leistungspflicht benötigt ihre gesonderte Grundlage; insbesondere §§ 26 und 53 Abs. 4 GmbHG beachten. Keine nachträgliche Ergebniszählung allein nach der Meinung, ein Nein sei „unvernünftig“ gewesen.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "4241bd47e2e997a6ec8c0ddc215502a87778d4e6b2d5cec6b0212eb87c941f23"
+      "checked_on": "2026-11-14",
+      "supports": "Eine Zustimmungspflicht kann bestehen, wenn eine Maßnahme zur Erhaltung wesentlicher Werte oder zur Vermeidung erheblicher Verluste objektiv unabweisbar erforderlich und unter Berücksichtigung eigener schutzwürdiger Belange zumutbar ist. Wirtschaftliche Zweckmäßigkeit oder Vorteilhaftigkeit allein genügt nicht. Grenze: Aus der Entscheidung folgt keine allgemeine Sanierungszustimmung und erst recht keine automatische Pflicht, neues Geld bereitzustellen. Eine eigene Leistungspflicht benötigt ihre gesonderte Grundlage; insbesondere §§ 26 und 53 Abs. 4 GmbHG beachten. Keine nachträgliche Ergebniszählung allein nach der Meinung, ein Nein sei „unvernünftig“ gewesen.",
+      "audit_source_id": "GS-11",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Eine Satzungsregel, die bei grober Pflichtverletzung ohne Weiteres jede Abfindung entfallen lässt, ist grundsätzlich sittenwidrig. Die vermögensrechtliche Beteiligung verliert nicht schon wegen Fehlverhaltens ihren gesamten Wert. Ein solcher vollständiger Ausschluss wird nicht allein durch seine Bezeichnung als Vertragsstrafe wirksam.",
-      "limits": "Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "84254f5f4b00a3ee82132bad6e6552e28921dae6e08baf4cbe66de2aa9212e34"
+      "checked_on": "2026-11-14",
+      "supports": "Eine Satzungsregel, die bei grober Pflichtverletzung ohne Weiteres jede Abfindung entfallen lässt, ist grundsätzlich sittenwidrig. Die vermögensrechtliche Beteiligung verliert nicht schon wegen Fehlverhaltens ihren gesamten Wert. Ein solcher vollständiger Ausschluss wird nicht allein durch seine Bezeichnung als Vertragsstrafe wirksam. Grenze: Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung.",
+      "audit_source_id": "GS-12",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Der Gesellschafter hat grundsätzlich eine seiner bisherigen Beteiligung entsprechende Bezugsmöglichkeit. Ein treuwidriger Ausschluss führt regelmäßig zur Anfechtbarkeit, nicht ohne Weiteres zur Nichtigkeit. GmbH-Beschlüsse müssen mit der nach den Umständen zumutbaren Beschleunigung angefochten werden; die Monatsfrist des § 246 Abs. 1 AktG ist ein wichtiger Leitmaßstab. Im entschiedenen Fall rechtfertigten weder die Feiertagszeit noch das Warten auf ein Protokoll die Verspätung.",
-      "limits": "Keine pauschale gesetzliche Monatsfrist für sämtliche GmbH-Streitigkeiten und keine automatische Nichtigkeit bei jeder Verwässerung. Die auf S. 8 behandelten damaligen Regeln zur Übernahme nur eines neuen Geschäftsanteils sind historisch und dürfen nicht auf den heutigen § 55 GmbHG übertragen werden.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "69824a4629f6e639a631259804c16bfeaf8cc52da8d0ed231d5eea7e5cd22b9e"
+      "checked_on": "2026-11-14",
+      "supports": "Der Gesellschafter hat grundsätzlich eine seiner bisherigen Beteiligung entsprechende Bezugsmöglichkeit. Ein treuwidriger Ausschluss führt regelmäßig zur Anfechtbarkeit, nicht ohne Weiteres zur Nichtigkeit. GmbH-Beschlüsse müssen mit der nach den Umständen zumutbaren Beschleunigung angefochten werden; die Monatsfrist des § 246 Abs. 1 AktG ist ein wichtiger Leitmaßstab. Im entschiedenen Fall rechtfertigten weder die Feiertagszeit noch das Warten auf ein Protokoll die Verspätung. Grenze: Keine pauschale gesetzliche Monatsfrist für sämtliche GmbH-Streitigkeiten und keine automatische Nichtigkeit bei jeder Verwässerung. Die auf S. 8 behandelten damaligen Regeln zur Übernahme nur eines neuen Geschäftsanteils sind historisch und dürfen nicht auf den heutigen § 55 GmbHG übertragen werden.",
+      "audit_source_id": "GS-13",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Bei der Abberufung eines Geschäftsführers aus wichtigem Grund kann auch ein weiterer Gesellschafter vom Stimmrecht ausgeschlossen sein, wenn er dieselbe maßgebliche Pflichtverletzung gemeinsam mit dem Geschäftsführer begangen hat. Die gemeinsame Handlung darf nicht nur für die Schwere des Vorwurfs, sondern muss auch für die Abstimmungsberechtigung geprüft werden.",
-      "limits": "Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "427c5934c2761c01fcaedb040af16aba62adaae68c4294d15b41e484bb2a6c93"
+      "checked_on": "2026-11-14",
+      "supports": "Bei der Abberufung eines Geschäftsführers aus wichtigem Grund kann auch ein weiterer Gesellschafter vom Stimmrecht ausgeschlossen sein, wenn er dieselbe maßgebliche Pflichtverletzung gemeinsam mit dem Geschäftsführer begangen hat. Die gemeinsame Handlung darf nicht nur für die Schwere des Vorwurfs, sondern muss auch für die Abstimmungsberechtigung geprüft werden. Grenze: Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen.",
+      "audit_source_id": "GS-14",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Ein Stimmverbot wegen gemeinschaftlicher Pflichtverletzung greift nicht allein deshalb, weil einer vorsätzlichen Kompetenzüberschreitung des Geschäftsführers ein andersartiges Aufsichtsversäumnis eines anderen Gesellschafters gegenübersteht. Gemeinsames Fehlverhalten ist konkret darzulegen.",
-      "limits": "Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "82f1c032f2bf5a7c0b0807b3872e0601a68269c003cf37a933f9d18513889b72"
+      "checked_on": "2026-11-14",
+      "supports": "Ein Stimmverbot wegen gemeinschaftlicher Pflichtverletzung greift nicht allein deshalb, weil einer vorsätzlichen Kompetenzüberschreitung des Geschäftsführers ein andersartiges Aufsichtsversäumnis eines anderen Gesellschafters gegenübersteht. Gemeinsames Fehlverhalten ist konkret darzulegen. Grenze: Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht.",
+      "audit_source_id": "GS-15",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__13-25.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Eine Satzung, die fernmündliche Abstimmung außerhalb einer Versammlung nach fernmündlichem Einverständnis aller Gesellschafter erlaubt, lässt im Zweifel auch mündliche Erklärungen und schlüssiges Verhalten zu. Die gesellschaftsrechtliche Klausel ist objektiv anhand Wortlaut, Zweck und Zusammenhang auszulegen. Die Mitwirkung beider Gesellschafter an einer Grundschuldbestellung konnte ein Indiz für Verfahrenseinverständnis und Stimmabgabe sein.",
-      "limits": "Kein allgemeiner Vorrang mündlicher Absprachen vor § 48 GmbHG, kein Einverständnis durch bloßes Schweigen und keine abschließend festgestellte Genehmigung. Der BGH verwies zurück: konkrete Erklärungen und wirksame Bestellung des genehmigenden Geschäftsführers blieben aufzuklären. Die Grundschuld ersetzt weder Organbestellung noch Vertretungsmacht. Das Versäumnisurteil beruht auf Sachprüfung; eine spätere Rechtskraft oder Einspruchserledigung wird hier nicht behauptet.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "5c5c7d5908d7ee50a2eb6dac7414025ee0bc6bfca613c96cda033e8c3ecfb927"
+      "checked_on": "2026-11-14",
+      "supports": "Eine Satzung, die fernmündliche Abstimmung außerhalb einer Versammlung nach fernmündlichem Einverständnis aller Gesellschafter erlaubt, lässt im Zweifel auch mündliche Erklärungen und schlüssiges Verhalten zu. Die gesellschaftsrechtliche Klausel ist objektiv anhand Wortlaut, Zweck und Zusammenhang auszulegen. Die Mitwirkung beider Gesellschafter an einer Grundschuldbestellung konnte ein Indiz für Verfahrenseinverständnis und Stimmabgabe sein. Grenze: Kein allgemeiner Vorrang mündlicher Absprachen vor § 48 GmbHG, kein Einverständnis durch bloßes Schweigen und keine abschließend festgestellte Genehmigung. Der BGH verwies zurück: konkrete Erklärungen und wirksame Bestellung des genehmigenden Geschäftsführers blieben aufzuklären. Die Grundschuld ersetzt weder Organbestellung noch Vertretungsmacht. Das Versäumnisurteil beruht auf Sachprüfung; eine spätere Rechtskraft oder Einspruchserledigung wird hier nicht behauptet.",
+      "audit_source_id": "GS-16",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Die Feststellung der materiellen Gesellschafterstellung gegenüber der GmbH kann trotz Eintragung in die aufgenommene Gesellschafterliste nach § 256 Abs. 1 ZPO zulässig bleiben. Ernstliches Bestreiten durch die Gesellschaft begründet regelmäßig eine gegenwärtige Unsicherheit; die bloße Listenkorrektur beseitigt sie nicht notwendig. Das Urteil behandelt die materielle Stellung und die formelle Legitimation als verschiedene Rechtsfragen.",
-      "limits": "Keine abstrakte Feststellung ohne rechtliches Interesse, kein pauschales Urteil gegen alle Mitgesellschafter und keine allgemeine Registersperre. Die Rechtmäßigkeit des Anteilserwerbs war in der Revision nicht mehr angegriffen. Die Entscheidung nimmt die nötige Prüfung des konkreten Erwerbs oder Ausschlusses nicht ab.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2"
+      "checked_on": "2026-11-14",
+      "supports": "Die Feststellung der materiellen Gesellschafterstellung gegenüber der GmbH kann trotz Eintragung in die aufgenommene Gesellschafterliste nach § 256 Abs. 1 ZPO zulässig bleiben. Ernstliches Bestreiten durch die Gesellschaft begründet regelmäßig eine gegenwärtige Unsicherheit; die bloße Listenkorrektur beseitigt sie nicht notwendig. Das Urteil behandelt die materielle Stellung und die formelle Legitimation als verschiedene Rechtsfragen. Grenze: Keine abstrakte Feststellung ohne rechtliches Interesse, kein pauschales Urteil gegen alle Mitgesellschafter und keine allgemeine Registersperre. Die Rechtmäßigkeit des Anteilserwerbs war in der Revision nicht mehr angegriffen. Die Entscheidung nimmt die nötige Prüfung des konkreten Erwerbs oder Ausschlusses nicht ab.",
+      "audit_source_id": "GS-17",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-09",
-      "supports": "Freie Hinauskündigungsklauseln bleiben bei GmbH und Personengesellschaft grundsätzlich nach § 138 Abs. 1 BGB nichtig; besondere Umstände können sie innerhalb der Gesamtwürdigung sachlich rechtfertigen. Bei einem Managermodell ist maßgeblich, ob die Beteiligung dem Tätigkeitszweck dient und daneben keine relevante eigenständige Bedeutung besitzt. Eine Beteiligung zum Verkehrswert mit Verlustrisiko oder ausschließlich am späteren Verkaufserlös schließt die Rechtfertigung nicht zwingend aus.",
-      "limits": "Der konkrete Fall betraf eine KG als Managementbeteiligungsvehikel; der BGH nennt GmbH-Grundsätze ausdrücklich, überträgt aber nicht die KG-Prozessordnung auf die GmbH. Weder jede als „Bad Leaver“ bezeichnete Klausel noch ein bestimmter Preisabschlag ist gebilligt. Zur konkreten Ausübungskontrolle wurde zurückverwiesen. Zulässiges Ausscheiden bedeutet nicht automatisch wirksame Abfindungsklausel; eine angemessene Abfindung heilt umgekehrt keine unzulässige Hinauskündigung.",
-      "downloaded_on": "2026-10-08",
-      "original_sha256": "eafff90a3d150d4cffeff039fb5f11710fe37e5ea7fc459e5e8639fc7e20a715"
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
-      "checked_on": "2026-10-09",
-      "supports": "GmbHG §§ 15, 16, 34, 40: Notarielle Anteilsabtretung und Verpflichtung; Listenlegitimation; Satzungsgrundlage und Erwerbszeitpunkt für Zwangseinziehung; Einreichungsverantwortung.",
-      "limits": "Kein identischer Vollzugsweg für Einziehung, Abtretung und gerichtlichen Ausschluss; Liste beweist nicht allein materiellen Erwerb."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
-      "checked_on": "2026-10-09",
-      "supports": "GmbHG §§ 30, 31, 35, 37: Kapitalerhaltung mit Ausnahme bestimmter Darlehensrückgewähr; Gesamtvertretung als eigene Ebene; grundsätzlich fehlende Außenwirkung interner Beschränkungen.",
-      "limits": "§30 Abs1 S3 beseitigt nicht Insolvenzrecht; §37 Abs2 heilt keine fehlende zweite Vertretung; besondere Gesellschaftergeschäfte nach GS-01 prüfen."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
-      "checked_on": "2026-10-09",
-      "supports": "GmbHG §§ 38, 46, 47: Ordentliche Abberufung lässt vertragliche Ansprüche unberührt; Organ-/Anspruchsverfolgungskompetenzen, Stimmgewicht, Textformvollmacht und gegenstandsbezogene Stimmverbote.",
-      "limits": "Kein Stimmverbot bei jeder persönlichen Betroffenheit; keine automatische Beendigung der Anstellung."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
-      "checked_on": "2026-10-09",
-      "supports": "GmbHG §§ 48, 50, 51: Textform in §48 Abs2 auch für Sachstimmabgabe; Minderheitsverlangen ab zehn Prozent und bedingte Selbsthilfe; Einberufung und Ankündigung.",
-      "limits": "Kein allgemeines Chat-/Schweigeeinverständnis; Selbsthilfe nicht ohne Voraussetzungen; abweichende Satzung und notarielle Form bleiben eigene Prüfungen."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
-      "checked_on": "2026-10-09",
-      "supports": "GmbHG §§ 51a, 51b: Individuelle Information; kumulative Verweigerungsvoraussetzungen plus Gesellschafterbeschluss; Verweisung allein auf §132 Abs1,3,4 AktG.",
-      "limits": "Keine aus §132 Abs2 AktG importierte Zweiwochenfrist; Informationsverfahren ersetzt keine Anfechtung beliebiger Beschlüsse."
+      "checked_on": "2026-11-14",
+      "supports": "Freie Hinauskündigungsklauseln bleiben bei GmbH und Personengesellschaft grundsätzlich nach § 138 Abs. 1 BGB nichtig; besondere Umstände können sie innerhalb der Gesamtwürdigung sachlich rechtfertigen. Bei einem Managermodell ist maßgeblich, ob die Beteiligung dem Tätigkeitszweck dient und daneben keine relevante eigenständige Bedeutung besitzt. Eine Beteiligung zum Verkehrswert mit Verlustrisiko oder ausschließlich am späteren Verkaufserlös schließt die Rechtfertigung nicht zwingend aus. Grenze: Der konkrete Fall betraf eine KG als Managementbeteiligungsvehikel; der BGH nennt GmbH-Grundsätze ausdrücklich, überträgt aber nicht die KG-Prozessordnung auf die GmbH. Weder jede als „Bad Leaver“ bezeichnete Klausel noch ein bestimmter Preisabschlag ist gebilligt. Zur konkreten Ausübungskontrolle wurde zurückverwiesen. Zulässiges Ausscheiden bedeutet nicht automatisch wirksame Abfindungsklausel; eine angemessene Abfindung heilt umgekehrt keine unzulässige Hinauskündigung.",
+      "audit_source_id": "GS-18",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
@@ -581,22 +551,10 @@
       "limits": "Alte Absatznummern nicht übertragen; Kapitalerhöhungsmehrheit erzeugt nicht von sich aus neue Zahlungspflicht jedes Gesellschafters; nicht die überholte Ein-Anteil-Regel aus GS-13 anwenden."
     },
     {
-      "url": "https://www.gesetze-im-internet.de/aktg/__132.html",
-      "checked_on": "2026-10-09",
-      "supports": "AktG §132 Abs1,3,4: Ausschließliches LG am Sitz; Verfahrensverweisung und Beschwerdezulassung; ZPO-Vollstreckung.",
-      "limits": "Abs2 wird durch §51b GmbHG nicht verwiesen; auch weitere Absätze nicht unterschiedslos übernehmen."
-    },
-    {
       "url": "https://www.gesetze-im-internet.de/aktg/__99.html",
       "checked_on": "2026-10-09",
       "supports": "AktG §99 Abs1: FamFG gilt vorbehaltlich spezieller Regeln; durch §132 Abs3 weitervermittelt.",
       "limits": "Nicht alle Statusverfahrensvorschriften oder Wirkungen gegen jedermann unbesehen auf §51b übertragen."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/bgb/__626.html",
-      "checked_on": "2026-10-09",
-      "supports": "BGB §626: Wichtiger Grund mit Gesamtumständen/Interessenabwägung; Zweiwochenfrist ab Kenntnis des Kündigungsberechtigten.",
-      "limits": "Keine GmbH-Beschlussklagefrist und kein stets identischer Fristbeginn ab erstem Verdacht."
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__162.html",
@@ -629,30 +587,6 @@
       "limits": "Klageeingang ist nicht ohne Voraussetzungen bereits Klageerhebung oder erwiesene Fristwahrung."
     },
     {
-      "url": "https://www.gesetze-im-internet.de/zpo/__929.html",
-      "checked_on": "2026-10-09",
-      "supports": "ZPO §§294,929,935,936,940,945: Glaubhaftmachung, konkrete Sicherung/Regelung, Monatsvollziehungsfrist bei einschlägigem inländischem Titel, entsprechende Arrestregeln und Schadensersatz.",
-      "limits": "Erlass allein bedeutet nicht Vollziehung; keine Dringlichkeitsvermutung aus bloßem Gesellschafterstreit. Einzeloriginale aller genannten Normen archiviert."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
-      "checked_on": "2026-10-09",
-      "supports": "InsO §§15a,15b,17,19: Antragspflichten, Zahlungsfolgen und Insolvenzgründe müssen mit konkreten Fälligkeiten/Vermögensdaten gesondert geprüft werden. Einzeloriginale archiviert.",
-      "limits": "Plan einer Kapitalerhöhung oder Fälligkeit eines Darlehens beseitigt Insolvenzreife nicht automatisch; Höchstfristen sind keine voraussetzungslose Warteerlaubnis."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
-      "checked_on": "2026-10-09",
-      "supports": "InsO §39: Nachrang §39 Abs1 Nr5 mit Ausnahmen, u.a. Abs4 Sanierung, Abs5 nicht geschäftsführende Kleinbeteiligung bis zehn Prozent und Förderbankregel Abs1 S2.",
-      "limits": "Aktueller Prozentsatz allein beweist kein Privileg; Nachrang nicht mit zivilrechtlicher Nichtexistenz gleichsetzen."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/inso/__135.html",
-      "checked_on": "2026-10-09",
-      "supports": "InsO §135: Sicherung zehn Jahre, Befriedigung ein Jahr vor Antrag sowie danach; Abs2 Drittdarlehen mit Gesellschaftersicherheit, Abs4 Verweis auf §39 Abs4/5.",
-      "limits": "Keine generelle Unanfechtbarkeit schneller Darlehensrückzahlung; Sicherheit und Befriedigung nicht verwechseln."
-    },
-    {
       "url": "https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html",
       "checked_on": "2026-10-09",
       "supports": "GeschGehG §§2–6,16–20: Konkretes Geheimnis, angemessene Maßnahmen, Erwerb/Nutzung/Ausnahmen; Geheimhaltung auf Antrag, Glaubhaftmachung/Kennzeichnung und Gehörsschutz mit Mindestzugang.",
@@ -666,30 +600,53 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "method": "desk_review",
-    "reviewed_on": "2026-10-09",
-    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten. Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "verdict": "retained",
+    "reason": "Nachprüfung vom 14.11.2026, Abschluss am 2026-11-15: Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht. Kein Live-Modelltest. Historischer Prüfstand mit ursprünglichem Hash separat erhalten.",
     "changes": [
-      "Drei amtlich gelesene BGH-Anker aus 2026 mit konkreter Grenze. Beschlussform, Mitgliedschaft und Leaver getrennt.",
-      "Klageerwiderung mit eigener Wahrnehmung, konkretem Bestreiten und Beweismitteln; Regelungswerk mit verschiedenen Bindungs- und Vollzugsebenen.",
-      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist.",
-      "Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt."
+      "Mini vollständig gelesen; eigenständiger Auftrag, Aktenstand, Beschlussprüfung, Kapital, Abberufung, Leaver, Wettbewerb, Darlehen, Dokumentproduktion und Fortsetzung.",
+      "§ 48 Abs. 2 aktuelle Textform und konkrete Satzungsabweichung; § 53 Abs. 2 Mehrheit, Abs. 3 Beurkundung, Abs. 4 Mehrbelastung stimmen mit aktuellen amtlichen Normen überein.",
+      "Quoten/Mehrheitsnenner, wichtiger Grund und Stimmverbote je TOP; kein abstrakter Lagerausschluss. BGH-Monatsmaßstab nicht als gesetzliche Universalfrist dargestellt.",
+      "Drei 2026-Anker GS-16 bis GS-18 direkt frisch geladen und die konkret genannten Randnummern gelesen: Satzungsabhängigkeit, Feststellungsinteresse trotz positiver Liste sowie getrennte Klausel-/Preis-/Ausübungskontrolle bestätigt.",
+      "§ 16 Abs. 3-Widerspruch nicht mit Mitgliedschaftsausübung verwechselt; § 30-Ausnahme für echte Gesellschafterdarlehensrückgewähr nicht zur insolvenzrechtlichen Zahlungsfreigabe gemacht.",
+      "7.321 UTF-8-Bytes; inhaltlich unverändert belassen. Bestehendes MD/TXT-Paar ist identisch; keine Kürzung oder zusätzliche Skills."
     ],
-    "sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a"
+    "sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
+    "reviewed_on": "2026-11-15",
+    "method": "desk_review",
+    "full_file_read_in_followup": true,
+    "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
+    "historical_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/gesellschafterstreit.json",
+      "field": "mini_review",
+      "sha256": "6eaa032b25c02ae96cdab58d7fa87ef5f8fc5957ac0ffb4bafafce60191a8942"
+    }
   },
   "workshop_review": {
-    "verdict": "revised",
-    "method": "desk_review",
-    "reviewed_on": "2026-10-09",
-    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten. Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "verdict": "retained",
+    "reason": "Nachprüfung vom 14.11.2026, Abschluss am 2026-11-15: Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht. Kein Live-Modelltest. Historischer Prüfstand mit ursprünglichem Hash separat erhalten.",
     "changes": [
-      "Drei amtlich gelesene BGH-Anker aus 2026 mit konkreter Grenze. Beschlussform, Mitgliedschaft und Leaver getrennt.",
-      "Klageerwiderung mit eigener Wahrnehmung, konkretem Bestreiten und Beweismitteln; Regelungswerk mit verschiedenen Bindungs- und Vollzugsebenen.",
-      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist.",
-      "Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt."
+      "Alle 547 Zeilen einschließlich kompletter 18-Anker-Sektion, Beispieldialoge, Fallwege, Anträge und Visualisierungsanleitung vollständig fortlaufend gelesen. Verfahrenswahl, Beschlusslogik und Finanzierung/Wettbewerb als Kontext nachgelesen.",
+      "Alle GS-01 bis GS-18 am 14.11.2026 im öffentlichen Direktabruf HTTP200/PDF; SHA256 jeweils identisch mit den archivierten amtlichen Originalen. Die im Prompt benannten tragenden Randnummern bzw. bei GS-13 Originalseiten 7–11 erneut gelesen.",
+      "Liste, materielle Mitgliedschaft, Ladung jeder Gesellschaft und fehlende automatische Registersperre getrennt; GS-01/07/08/17 tragen die konkreten begrenzten Aussagen.",
+      "Beschlussverfahren, allseitiges Verfahrenseinverständnis, Sachstimme, Satzungsmehrheit, Enthaltung und verbindliche Feststellung getrennt. Gegenrechnung 50 Ja/25 Nein/25 Enthaltung = 50/75 unter 75 Prozent; bei rechtlich begründetem Ausschluss der Nein-Stimmen 50/50.",
+      "Abberufung/Anstellung und gerichtlicher Nachweis wichtigen Grunds getrennt; gemeinschaftliche Pflichtverletzung nach GS-14 nicht mit andersartigem Aufsichtsversäumnis nach GS-15 verwechselt. Gesellschaftsanspruch/actio pro socio nach GS-04/06 subsidiär und korrekt zugeordnet.",
+      "Abfindungswert, buchwertbezogene Kapitaldeckung und Liquidität getrennt. GS-06/09 erfassen fehlende freie Mittel; stille Reserven nicht ungeprüft als § 30-Deckung. Wirksame Ausstattung benötigt Vertrag/Werthaltigkeit.",
+      "GS-02: Geldhingabe/Fremdschuldtilgung versus Austauschforderung; keine Mindestlaufzeit bei echtem Darlehen und keine Dreimonatsfreigrenze für jede Rückzahlung. § 135 Abs. 1 Nr. 2/§ 39 InsO von § 30 Abs. 1 Satz 3 getrennt.",
+      "GS-05 zu Geschäftsführerwettbewerb nicht als entschiedene AGB-Kontrolle ausgegeben; GS-18 zu Managementbeteiligung verlangt Gesamtwürdigung und getrennte Kontrolle von Hinauskündigung, Preis und konkreter Ausübung.",
+      "GS-13 nur als historische Originalentscheidung mit Seitenfundstelle, nicht mit erfundenen amtlichen Randnummern; damalige § 55-Einanteilsregel nicht auf heutige Kapitalerhöhung übertragen.",
+      "§ 51b GmbHG verweist nicht auf § 132 Abs. 2 AktG: keine erfundene Zweiwochenfrist. Hauptsache-/Eilanträge, Gegenpartei, Prozessvertretung, Vollziehung und Geheimnisschutz konkret und differenziert.",
+      "Kein materieller Fehler im geprüften Text festgestellt; vollständiger Inhalt und bestehendes MD/TXT-Paar unverändert erhalten. Kein Anspruch auf neu durchgeführte Live-Modellprobe oder vollständige externe Rechtsprechungserfassung."
     ],
-    "sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a"
+    "sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
+    "reviewed_on": "2026-11-15",
+    "method": "desk_review",
+    "full_file_read_in_followup": true,
+    "latest_editorial_scope": "Vollständige Datei gelesen; konkrete Einzelprüfpunkte und tatsächlich gelesene amtliche Quellen im Nachprüfungsbericht.",
+    "historical_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/gesellschafterstreit.json",
+      "field": "workshop_review",
+      "sha256": "6eaa032b25c02ae96cdab58d7fa87ef5f8fc5957ac0ffb4bafafce60191a8942"
+    }
   },
   "focus_review": {
     "method": "desk_review",
@@ -2170,13 +2127,17 @@
     }
   },
   "file_review_status": {
-    "status": "needs_review",
-    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "status": "reviewed",
+    "reason": "Alle 3 zuvor offenen Dateien vollständig einzeln nachgeprüft; Altstand, Befund, Primärquellenstatus und Endbytes im gebundenen Abschlussbeleg. Keine Live-Modellausführung behauptet.",
     "files": [
       "gesellschafterstreit/README.md",
       "gesellschafterstreit/gesellschafterstreit-schnellstart.md",
       "gesellschafterstreit/gesellschafterstreit-werkstatt.md"
-    ]
+    ],
+    "evidence": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/gesellschafterstreit.json",
+      "sha256": "428f5c229a96fd124d1e14fbbf5bacc6c94d4b87a368b82b35483eee70a33c0a"
+    }
   },
   "visual_workflow_review": {
     "method": "desk_review",
@@ -2190,5 +2151,24 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "file_followup_review": {
+    "date": "2026-11-15",
+    "source_review_date": "2026-11-14",
+    "historical_profile": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/gesellschafterstreit.json",
+      "sha256": "6eaa032b25c02ae96cdab58d7fa87ef5f8fc5957ac0ffb4bafafce60191a8942",
+      "commit": "d4d621de34186d03e343fdb144176b9986f1f1fe"
+    },
+    "audit": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json",
+      "sha256": "26e0c042879f2bf9e8e18c277831d4a28070a9bd676c104241eb9a78fa93421c"
+    },
+    "scope": "3 vollständige Dateireviews. Weitere betroffene Dateien nur im individuell dokumentierten Lesebereich nachgezogen.",
+    "limits": [
+      "Dateireview umfasst die vollständig gelesenen benannten Dateien; kein pauschales Gütesiegel für sämtliche sonstigen Plugin-Dateien, alle Testakten oder alle Rechtsgebiete.",
+      "Desk-Review mit aktuellen amtlichen Abrufen und gezielter Norm-/Passagenprüfung, keine neue Live-Ausführung durch ein externes Modell.",
+      "Historische Profile, Prüfstände und Freigabehashes werden nicht rückdatiert oder überschrieben. Root führt neuen Dateistatus, Artefakthashes und Release-Routing nach Abschluss separat nach."
+    ]
   }
 }

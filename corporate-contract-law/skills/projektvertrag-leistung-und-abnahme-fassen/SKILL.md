@@ -19,7 +19,7 @@ Ordnen Sie die Pflichten zunächst dem passenden Vertragstyp zu. Formulieren Sie
 
 Trennen Sie Werksprüfung, Standorttest, produktiven Probebetrieb, Teilabnahme und Gesamtabnahme. Teilabnahmen benötigen abgrenzbare Leistungen und ausdrücklich geklärte Folgen. Ein produktiver Einsatz kann rechtlich erheblich sein; vermeiden Sie sowohl eine automatische Abnahme jeder Nutzung als auch die Behauptung, Nutzung könne niemals Abnahme bedeuten.
 
-Formulieren Sie Fertigstellungsanzeige, angemessene Prüfgelegenheit, Protokoll und Nachprüfung. Wegen unwesentlicher Mängel darf die Abnahme nach Paragraf 640 Absatz 1 BGB nicht verweigert werden. Für die gesetzliche Fiktion nach Absatz 2 genügen nicht bloß Versand oder Zeitablauf: Fertigstellung und angemessene Frist sind erforderlich; eine rechtzeitige Verweigerung unter Angabe mindestens eines Mangels verhindert die Fiktion. Mängelrechte wegen bekannter Mängel und Vertragsstrafe benötigen gesonderte Vorbehalte nach den jeweils einschlägigen Normen.
+Formulieren Sie Fertigstellungsanzeige, angemessene Prüfgelegenheit, Protokoll und Nachprüfung. Wegen unwesentlicher Mängel darf die Abnahme nach Paragraf 640 Absatz 1 BGB nicht verweigert werden. Für die gesetzliche Fiktion nach Absatz 2 genügen nicht bloß Versand oder Zeitablauf: Fertigstellung und angemessene Frist sind erforderlich; eine rechtzeitige Verweigerung unter Angabe mindestens eines Mangels verhindert die Fiktion. Bei Abnahme trotz bekannten Mangels betrifft der Rechtsverlust ohne Vorbehalt nach Paragraf 640 Absatz 3 BGB nur die Rechte aus Paragraf 634 Nummer 1 bis 3; behaupten Sie keinen pauschalen Verlust auch sämtlicher Schadensersatzrechte. Der Vertragsstrafenvorbehalt nach Paragraf 341 Absatz 3 BGB knüpft eigenständig an die Annahme der Erfüllung an und ist getrennt zu dokumentieren.
 
 Ordnen Sie vor Abnahme den Erfüllungsanspruch und allgemeine Leistungsstörungen ein. Ein Vorschussverlangen allein begründet nicht stets ein Abrechnungsverhältnis. Prüfen Sie Ausnahmen anhand konkreter Erklärungen und verifizierter Rechtsprechung. Stimmen Sie Abnahme, Schlusszahlung, Gefahr und Verjährungsbeginn ab.
 
@@ -27,7 +27,7 @@ Verknüpfen Sie Änderungen mit einer Entscheidung über Preis, Termin und Tests
 
 ## 4. Quellenpflicht
 
-Prüfen Sie Paragrafen 631 bis 648a und 650 BGB sowie Paragraf 341 Absatz 3 BGB. Für die Abnahme vor Mängelrechten dient BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, als Rechercheanker; übernehmen Sie nur tatsächlich geprüfte Gründe. Quellenstatus und Reichweite stehen in [Fachquellen](../../references/fachquellen.md), die Zitierregeln in [Zitierweise](../../references/zitierweise.md). Ohne lokale Dateien nutzen Sie amtliche Normen und kennzeichnen den verbleibenden Rechtsprechungsvorbehalt.
+Prüfen Sie Paragrafen 631 bis 648a und 650 BGB sowie Paragraf 341 Absatz 3 BGB. Für die Abnahme vor Mängelrechten dient BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, mit Randnummern 31 bis 42 und 43 bis 50 als geprüfter Anker: grundsätzlich Abnahme, ausnahmsweise ein Abrechnungsverhältnis ohne weitere Erfüllung. Ein bloßes Vorschussverlangen genügt allein nicht; die ausdrückliche endgültige Abkehr von weiterer Erfüllung ist eine davon zu unterscheidende Konstellation. Quellenstatus und Reichweite stehen in [Fachquellen](../../references/fachquellen.md), die Zitierregeln in [Zitierweise](../../references/zitierweise.md). Ohne lokale Dateien nutzen Sie amtliche Normen und kennzeichnen den verbleibenden Rechtsprechungsvorbehalt.
 
 ## 5. Ausgabeformat
 

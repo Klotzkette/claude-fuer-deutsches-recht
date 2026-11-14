@@ -248,8 +248,8 @@ def pending_file_reviews(profile, root):
     review = profile.get("file_review_status")
     if review is None:
         return []
-    if not isinstance(review, dict) or review.get("status") not in {"needs_review", "unreviewed"}:
-        raise LabError("Offene Dateiprüfung benötigt den Status needs_review oder unreviewed")
+    if not isinstance(review, dict) or review.get("status") not in {"needs_review", "unreviewed", "reviewed"}:
+        raise LabError("Dateiprüfung benötigt needs_review, unreviewed oder einen belegten reviewed-Abschluss")
     nonempty(review.get("reason"), "Grund der offenen Dateiprüfung")
     files = review.get("files")
     list_strings(files, "Nachzuprüfende Dateien")
@@ -257,7 +257,59 @@ def pending_file_reviews(profile, root):
         raise LabError("Doppelte Datei in offener Dateiprüfung")
     for relative in files:
         bounded_bytes(inside(root, relative))
+    if review["status"] == "reviewed":
+        validate_completed_file_review(profile, review, root)
+        return []
     return files
+
+
+def validate_completed_file_review(profile, review, root):
+    """Ein Abschluss bindet jeden früher offenen Text an seinen Einzelprüfbeleg.
+
+    Die technische Kontrolle belegt Identität und Vollständigkeit des Nachweises,
+    nicht die juristische Richtigkeit oder einen ausgeführten Modelltest.
+    """
+    evidence = review.get("evidence")
+    if not isinstance(evidence, dict):
+        raise LabError("Abgeschlossene Dateiprüfung benötigt einen Nachprüfungsbeleg")
+    path = inside(root, evidence.get("path", ""))
+    raw = bounded_bytes(path)
+    if evidence.get("sha256") != digest(raw):
+        raise LabError("Nachprüfungsbeleg seit dokumentierter Prüfung verändert")
+    record = decode(raw.decode("utf-8"))
+    if (not isinstance(record, dict) or record.get("schema_version") != 1
+            or record.get("method") != "full_file_review" or record.get("plugin") != profile.get("plugin")):
+        raise LabError("Nachprüfungsbeleg gehört nicht zu diesem vollständigen Dateireview")
+    iso_day(record.get("date"))
+    nonempty(record.get("limits"), "Prüfgrenzen der Nachprüfung")
+    previous = record.get("previous_status", {})
+    if (not isinstance(previous, dict) or previous.get("status") not in {"needs_review", "unreviewed"}
+            or previous.get("files") != review["files"]):
+        raise LabError("Nachprüfung erhält den früher offenen Dateiumfang nicht")
+    nonempty(previous.get("reason"), "Historischer Grund der Nachprüfung")
+    rows = record.get("files")
+    if not isinstance(rows, list) or not all(isinstance(row, dict) for row in rows):
+        raise LabError("Dateibezogene Nachprüfungsbelege fehlen")
+    paths = [row.get("path") for row in rows]
+    if (not all(isinstance(path, str) for path in paths)
+            or len(paths) != len(review["files"]) or set(paths) != set(review["files"])):
+        raise LabError("Nachprüfungsbeleg erfasst nicht jede offene Datei genau einmal")
+    for row in rows:
+        if row.get("full_file_read") is not True or row.get("result") not in {"retained", "revised"}:
+            raise LabError("Vollständige Einzelprüfung und konkretes Dateiergebnis erforderlich")
+        list_strings(row.get("checked_points"), "Konkrete Einzelprüfpunkte", minimum=2)
+        nonempty(row.get("finding"), "Dateibezogener Befund")
+        before = row.get("before_sha256")
+        if not isinstance(before, str) or not re.fullmatch(r"[0-9a-f]{64}", before):
+            raise LabError("Ausgangsfassung der Nachprüfung fehlt")
+        if row.get("reviewed_sha256") != digest(bounded_bytes(inside(root, row["path"]))):
+            raise LabError(f"Nachgeprüfte Datei seit dokumentierter Prüfung verändert: {row['path']}")
+    reports = record.get("reports")
+    if not isinstance(reports, dict) or not reports:
+        raise LabError("Fachlicher Nachprüfungsbericht fehlt")
+    for relative, expected in reports.items():
+        if expected != digest(bounded_bytes(inside(root, relative))):
+            raise LabError("Fachlicher Nachprüfungsbericht seit dokumentierter Prüfung verändert")
 
 
 def validate_profile(profile, plugin, directory, root=ROOT):

@@ -29,9 +29,11 @@ Die Konsolidierung ist keine Streichung der Fachtexte. Eine explizite [Zuordnung
 
 Die [Quellenprüfung vom 14. November 2026](../quality/source-audits/2026-11-14/README.md) trennt die Bestands- und Metadatenkontrolle aller 315 Pluginprofile von elf gezielt an amtlichen Volltextpassagen geprüften Entscheidungen. Sie dokumentiert unter anderem Berichtigungen im Insolvenz-, Datenschutz- und Steuerstrafrecht sowie aktuelle Anker aus Arbeits-, Verfassungs-, Europa- und Produktrecht. Pressemitteilungen und Leitsätze werden nicht als gelesene Urteilsgründe ausgegeben.
 
-Vier bereits zuvor offene Profile bleiben mit 31 Dateireviews als `needs_review` gekennzeichnet. Die Ordnung ihrer Dateien ist keine neue fachliche Freigabe. Die strukturellen Prüfungen, Paketkontrollen und ergänzten Regressionen bestätigen keine erfolgreiche Ausführung sämtlicher Plugins in einem Live-Modell und keine vollständige juristische Prüfung aller übernommenen Fachtexte.
+Die vier damals offenen Profile mit 31 Dateireviews wurden in der [gesonderten Nachprüfung vom 14./15. November 2026](../quality/source-audits/2026-11-14-nachpruefung/README.md) vollständig bearbeitet. Ihre Abschlussbelege binden jede zuvor offene Datei an den individuell geprüften Endstand und Fachbericht; historische Prüfprofile bleiben erhalten. Quellenzugriffsgrenzen sind weiterhin dokumentiert. Die strukturellen Prüfungen, Paketkontrollen und ergänzten Regressionen bestätigen keine erfolgreiche Ausführung sämtlicher Plugins in einem Live-Modell und keine vollständige juristische Prüfung aller übernommenen Fachtexte.
 
 ## 1.4. Pakete und Nachweise
+
+Die vier nachgeprüften Plugins und ihre eigenständigen Prompts sind in [Qualitätsrunde 445.36.1](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/qualitaetsrunde-v445.36.1) veröffentlicht: vier ZIPs, fünfzehn Promptdateien, Inventar und Prüfsummen. Alle übrigen Pakete bleiben über ihre jeweiligen Versionen erreichbar.
 
 Die betroffenen Pakete sind über [Qualitätsrunde 445.36.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/qualitaetsrunde-v445.36.0) und den [Download-Index](../ASSET_INDEX.md) erreichbar. Das Komponentenrelease umfasst 234 Plugin-ZIPs, 495 separate Promptdateien, zwei KI-Kanzlei-Handbuchdateien sowie Inventar und SHA-256-Prüfsummen: zusammen 733 Dateien. Der KI-Kanzlei-Gesamtband enthält weiterhin alle 30 Fachmodule auf 323 Seiten; seine acht auswählbaren Arbeitswege sind davon getrennt.
 

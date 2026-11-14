@@ -1,0 +1,2063 @@
+{
+  "schema_version": 1,
+  "plugin": "corporate-contract-law",
+  "date": "2026-11-14",
+  "baseline_commit": "d4d621de34186d03e343fdb144176b9986f1f1fe",
+  "method": "complete_file_desk_review_with_primary_source_verification",
+  "scope": "Alle 20 in file_review_status.files aufgeführten SKILL.md; sieben fachlich/quellenbezogen präzisiert, dreizehn nach Prüfung beibehalten.",
+  "not_claimed": [
+    "Keine Live-Modellausführung oder empirische Vertragsfreigabe.",
+    "Keine gesamte neue Werkstatt-Vollprüfung; dort nur dokumentierte Absatz-/Quellenkonsistenzprüfung.",
+    "Keine neue Prüfung aller EU-Normen oder aller internationalen Vorbehalte.",
+    "Keine rückwirkende Änderung der historischen Prüfungen oder Hashes.",
+    "Kein Nachweis, dass seit den Ankern keine neuere Rechtsprechung existiert."
+  ],
+  "files": [
+    {
+      "path": "corporate-contract-law/skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md",
+      "before_sha256": "2a21cade9a58f71bf84e89e18beed363947b27e662016d081a768afb3fa84e36",
+      "reviewed_sha256": "53cd47f4f19f00217193c3bf43ad5f9f60ec4c54b9a89b21638215df408e89b4",
+      "full_file_read": true,
+      "result": "revised",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Vorformulierung, tatsächliche Einflussmöglichkeit und unzulässige Aushandlungsfiktion geprüft.",
+        "B2B-Kontrolle nach Paragraf 310 einschließlich Nummer 1a/1b geprüft.",
+        "Individualvorrang, Lückenfüllung und keine geltungserhaltende Reduktion mit normativen Grenzen abgeglichen.",
+        "Alten Rechercheanker auf tatsächlich gelesene Randnummern 27–30 umgestellt."
+      ],
+      "source_ids": [
+        "N01",
+        "N02",
+        "N03",
+        "N19",
+        "N45",
+        "N46",
+        "J02"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__305.html",
+        "https://www.gesetze-im-internet.de/bgb/__307.html",
+        "https://www.gesetze-im-internet.de/bgb/__310.html",
+        "https://www.gesetze-im-internet.de/bgb/__308.html",
+        "https://www.gesetze-im-internet.de/bgb/__305b.html",
+        "https://www.gesetze-im-internet.de/bgb/__306.html",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1"
+      ],
+      "issues_result": "Konkrete Präzisierung/Quellenkorrektur umgesetzt; siehe checked_points und Diff.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md",
+      "before_sha256": "5ff29386fd0133b2a2ffb7c6ad2de51460bbdd97d5134347d72b734ff71de919",
+      "reviewed_sha256": "8f1c738aa377908e8536fcdb4a918da4071d558367132e18ae33d88301505e83",
+      "full_file_read": true,
+      "result": "revised",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Rollen nach realen Zwecken/Mitteln statt Vertragsüberschrift geprüft.",
+        "AVV ist keine pauschale Rechtsgrundlage; Unteraufträge und Außenhaftung getrennt.",
+        "Weisungs- und Speicherpflicht-Ausnahmen ausdrücklich auf Unions-/Mitgliedstaatenrecht begrenzt; Löschwahl/Kopien präzisiert.",
+        "Konkrete Transferbeschlüsse bleiben offen; nicht aus BfDI-Textlektüre abgeleitet."
+      ],
+      "source_ids": [
+        "N25b"
+      ],
+      "source_urls": [
+        "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=18"
+      ],
+      "issues_result": "Konkrete Präzisierung/Quellenkorrektur umgesetzt; siehe checked_points und Diff.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/dienstleistung-und-servicelevel-vereinbaren/SKILL.md",
+      "before_sha256": "fbd08d42f5930caf8ed302bea51fd4b7b103a5cbad4c9caa9ac3d0882e1934e4",
+      "reviewed_sha256": "fbd08d42f5930caf8ed302bea51fd4b7b103a5cbad4c9caa9ac3d0882e1934e4",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Tätigkeit, Erfolg und Gebrauchsüberlassung getrennt; kein pauschales Abnahmeregime für Service.",
+        "Messzeit, Wartung, Reaktion und Wiederherstellung klar unterschieden.",
+        "Gutschriften nicht als automatisch alle wesentlichen Rechte ausschließende Klausel; AGB-Kontrolle und Exit gewahrt."
+      ],
+      "source_ids": [
+        "N36",
+        "N52",
+        "N02",
+        "N47"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__611.html",
+        "https://www.gesetze-im-internet.de/bgb/__631.html",
+        "https://www.gesetze-im-internet.de/bgb/__307.html",
+        "https://www.gesetze-im-internet.de/bgb/__314.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/haftung-gewaehrleistung-und-freistellung-regeln/SKILL.md",
+      "before_sha256": "04b770498f729278ba392c45fd21c4679595147a47c1b3172f3185809731070d",
+      "reviewed_sha256": "fff7df3e0260b319e5bf5767a612bda6ea7b1225c7ffc3398b998a17ec8ccb54",
+      "full_file_read": true,
+      "result": "revised",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Vorsatzvorausverzicht, B2B-AGB-Wertungen und zwingende Ausnahmen geprüft.",
+        "Verjährung/Freistellung dürfen Ausnahmen nicht verdeckt beseitigen; Umfang nicht aus Versicherung abgeleitet.",
+        "Originale VIII ZR26/14 Rn.16/17 und VII ZR42/22 Rn.40/41 integriert.",
+        "Generalisierende Vertragsstrafenkontrolle: mögliche Mengenminderung genügt; keine erst tatsächliche Überbelastung verlangt.",
+        "Paragraf 348 HGB beseitigt nicht die Inhaltskontrolle."
+      ],
+      "source_ids": [
+        "N02",
+        "N03",
+        "N04",
+        "N05",
+        "N12",
+        "J04",
+        "J05a"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__307.html",
+        "https://www.gesetze-im-internet.de/bgb/__310.html",
+        "https://www.gesetze-im-internet.de/bgb/__309.html",
+        "https://www.gesetze-im-internet.de/bgb/__276.html",
+        "https://www.gesetze-im-internet.de/hgb/__348.html",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2014/VIII_ZR__26-14.pdf?__blob=publicationFile&v=1"
+      ],
+      "issues_result": "Konkrete Präzisierung/Quellenkorrektur umgesetzt; siehe checked_points und Diff.",
+      "lines": 40
+    },
+    {
+      "path": "corporate-contract-law/skills/internationalen-vertrag-rechtswahl-und-gerichtsstand-pruefen/SKILL.md",
+      "before_sha256": "70ec21ef077ed0f9f6c52c15e429e8d7bd72fe62d5bc84c65fd25179c048c1f7",
+      "reviewed_sha256": "70ec21ef077ed0f9f6c52c15e429e8d7bd72fe62d5bc84c65fd25179c048c1f7",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "CISG-Anwendung, Mischvertrag, Ausschluss und ausgenommene Wirksamkeits-/Eigentumsfragen am Text geprüft.",
+        "Rechtswahl von Gericht und Vollstreckung klar getrennt; keine Erfolgszusage.",
+        "Paragraf 38 ZPO und aktuelle allgemeine 10000-EUR-Wertgrenze gelesen.",
+        "Rom I/Brüssel Ia bleiben Pflicht zur fallbezogenen Verifikation; keine bestätigte EU-Volltextlektüre behauptet."
+      ],
+      "source_ids": [
+        "N27",
+        "N27b",
+        "N21",
+        "N18",
+        "N22",
+        "N23",
+        "J01"
+      ],
+      "source_urls": [
+        "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+        "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg/status",
+        "https://www.gesetze-im-internet.de/zpo/__38.html",
+        "https://www.gesetze-im-internet.de/gvg/__23.html",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32008R0593",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32012R1215",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61998CJ0381"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/kooperation-und-entwicklung-vereinbaren/SKILL.md",
+      "before_sha256": "4a32dcd075df3baa7710d6ff30c680fb989aefdbc8644f72b637c0ae84ee9f7c",
+      "reviewed_sha256": "4a32dcd075df3baa7710d6ff30c680fb989aefdbc8644f72b637c0ae84ee9f7c",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Erfolg/Bemühung und gemeinsamer Zweck unterschieden; „keine Gesellschaft“ nicht allein entscheidend.",
+        "Vorwissen, gemeinsame Ergebnisse und erforderliche Rechtekette statt pauschalem gemeinsamen Eigentum.",
+        "Arbeitgeber-Softwarezuordnung nicht pauschal auf Freiberufler übertragen; spezielle Erfinder-/Kartellrechtsfragen bleiben konkreter Rechercheauftrag."
+      ],
+      "source_ids": [
+        "N37",
+        "N38",
+        "N39",
+        "N52",
+        "N36"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__705.html",
+        "https://www.gesetze-im-internet.de/urhg/__31.html",
+        "https://www.gesetze-im-internet.de/urhg/__69b.html",
+        "https://www.gesetze-im-internet.de/bgb/__631.html",
+        "https://www.gesetze-im-internet.de/bgb/__611.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/laufzeit-kuendigung-und-exit-gestalten/SKILL.md",
+      "before_sha256": "17e49210919e7440f2acba13f74713f59e5e58e8c884a1310d09423e14e3bf85",
+      "reviewed_sha256": "7c6ff811b12b55ca1b9d36ff26381c04ac205cbabd6fd7dd11a75ff81f713669",
+      "full_file_read": true,
+      "result": "revised",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Fünf-Prozent-Vermutung nur für nichterbrachten Werkteil, keine Universalstornopauschale.",
+        "Insolvenz-Exit nach Geld-/Sach-/Dienstleistungsrolle, ex ante und Ausübung getrennt; Original IX ZR213/21 Rn.31,42–55 geprüft.",
+        "StaRUG-Auslöser ausdrücklich mit Paragraf 44 und Ausnahmen ergänzt.",
+        "Keine echte Kündigung/Löschung aus Entwurfsauftrag."
+      ],
+      "source_ids": [
+        "N09",
+        "N20",
+        "N20b",
+        "N44",
+        "N47",
+        "J06a"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__648.html",
+        "https://www.gesetze-im-internet.de/inso/__119.html",
+        "https://www.gesetze-im-internet.de/inso/__103.html",
+        "https://www.gesetze-im-internet.de/starug/__44.html",
+        "https://www.gesetze-im-internet.de/bgb/__314.html",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_213-21.pdf?__blob=publicationFile&v=1"
+      ],
+      "issues_result": "Konkrete Präzisierung/Quellenkorrektur umgesetzt; siehe checked_points und Diff.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/liefervertrag-und-abrufsystem-gestalten/SKILL.md",
+      "before_sha256": "794ce6fe410c3f3ca8083f030f1e1572a042f19b4f5951490f92c22213e841fb",
+      "reviewed_sha256": "794ce6fe410c3f3ca8083f030f1e1572a042f19b4f5951490f92c22213e841fb",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Prognose, Abruf, Beschaffungsfreigabe und Abnahmebindung getrennt.",
+        "Herzustellende bewegliche Sachen nach Paragraf 650 und CISG-Artikel 3 korrekt als Prüfroute.",
+        "Paragraf 377 auf beiderseitiges Handelsgeschäft begrenzt; Absendung/Arglist geprüft.",
+        "CISG-Rüge nicht durch deutsche Rügeautomatik ersetzt; doppelte Stornokompensation verhindert."
+      ],
+      "source_ids": [
+        "N48",
+        "N07",
+        "N27",
+        "N50",
+        "N51"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__650.html",
+        "https://www.gesetze-im-internet.de/hgb/__377.html",
+        "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+        "https://www.gesetze-im-internet.de/bgb/__145.html",
+        "https://www.gesetze-im-internet.de/bgb/__147.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/preise-zahlung-und-preisanpassung-regeln/SKILL.md",
+      "before_sha256": "a8c9c9744ec02400e243a642d065c7502d6bd2d816f1ffad5fde6e2e8afaa6e7",
+      "reviewed_sha256": "c7be8cbcd4f417e844156702ef16381ccc08e9879272866bb4be62b7feb3f514",
+      "full_file_read": true,
+      "result": "revised",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "30/15-Tage-Zweifelsgrenzen nach Paragraf 308 ergänzt, keine starren Verbote behauptet.",
+        "Paragraf 271a B2B/öffentliche Schuldner differenziert, über 60 Tage bei einschlägigen öffentlichen Auftraggebern unwirksam.",
+        "Fälligkeit, Prüfung und Abnahme getrennt; übrige AGB-Kontrolle und Abschlags-/Ratenausnahme bleiben.",
+        "Indexstände und Kalkulationsanteile nicht erfunden; konkrete Preisklauselgesetzprüfung bleibt Auftrag."
+      ],
+      "source_ids": [
+        "N08",
+        "N19",
+        "N03",
+        "N02",
+        "N06"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__271a.html",
+        "https://www.gesetze-im-internet.de/bgb/__308.html",
+        "https://www.gesetze-im-internet.de/bgb/__310.html",
+        "https://www.gesetze-im-internet.de/bgb/__307.html",
+        "https://www.gesetze-im-internet.de/bgb/__640.html"
+      ],
+      "issues_result": "Konkrete Präzisierung/Quellenkorrektur umgesetzt; siehe checked_points und Diff.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/projektvertrag-leistung-und-abnahme-fassen/SKILL.md",
+      "before_sha256": "215ecf4a652cedaed05257b10db5455987b8efb7cd30d5ee0a7e3a562ae8c71d",
+      "reviewed_sha256": "dd3dd9274ef78e7758c8f272f583aa611557fbc62c21d6d8a7c5ced516102691",
+      "full_file_read": true,
+      "result": "revised",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Aktuelle Abnahmefiktion und unwesentliche Mängel geprüft.",
+        "Vorbehaltsverlust auf Paragraf 634 Nummer 1–3 begrenzt; Schadensersatz nicht pauschal ausgeschlossen.",
+        "Vertragsstrafenvorbehalt bei Annahme der Erfüllung eigenständig.",
+        "Original VII ZR301/13 Rn.31–50: Erfüllungsphase/Abrechnungsverhältnis getrennt; Vorschuss allein nicht genug."
+      ],
+      "source_ids": [
+        "N06",
+        "N43",
+        "N52",
+        "N48",
+        "J03"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__640.html",
+        "https://www.gesetze-im-internet.de/bgb/__341.html",
+        "https://www.gesetze-im-internet.de/bgb/__631.html",
+        "https://www.gesetze-im-internet.de/bgb/__650.html",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1"
+      ],
+      "issues_result": "Konkrete Präzisierung/Quellenkorrektur umgesetzt; siehe checked_points und Diff.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/rahmenvertrag-mit-einzelauftraegen-verknuepfen/SKILL.md",
+      "before_sha256": "80d9244844e7f87ca0c6f8bbf8ec54de037c72af7675585837bac609bd7d1927",
+      "reviewed_sha256": "80d9244844e7f87ca0c6f8bbf8ec54de037c72af7675585837bac609bd7d1927",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Konditionenrahmen nicht automatisch Bestellung; Annahme/Abrufrecht erfordert klare Bindung.",
+        "Konzernunternehmen nur nach eigener Parteistellung, Portalstatus nur bei Berechtigung rechtsgeschäftlich.",
+        "Versionen/Rangfolge wahren Individualvorrang; Rahmenende beendet Einzelauftrag nicht ohne Regelung."
+      ],
+      "source_ids": [
+        "N50",
+        "N51",
+        "N35",
+        "N30",
+        "N45",
+        "N02"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__145.html",
+        "https://www.gesetze-im-internet.de/bgb/__147.html",
+        "https://www.gesetze-im-internet.de/bgb/__150.html",
+        "https://www.gesetze-im-internet.de/bgb/__164.html",
+        "https://www.gesetze-im-internet.de/bgb/__305b.html",
+        "https://www.gesetze-im-internet.de/bgb/__307.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/sicherheiten-und-konzernzusagen-pruefen/SKILL.md",
+      "before_sha256": "ffbe2bdb147feb072502f1895439db7a8c44fb43b1f6db3440a3f8108cd108b3",
+      "reviewed_sha256": "6597f98f4679d0ddc1120e02f87b881dbca20d8bfd4a257fb045bea9860a269e",
+      "full_file_read": true,
+      "result": "revised",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Bürgschaft, Garantie, Schuldbeitritt und Patronat nach Inhalt getrennt.",
+        "Schriftform und Handelsausnahme auf Verpflichtetenseite geprüft.",
+        "Keine automatische Nachtragserweiterung nach Paragraf 767.",
+        "Original VII ZR248/13 Rn.15–20 statt bloßer Kumulationsanker: Sicherungsphase und fortdauernde Mängeldeckung ausdrücklich präzisiert."
+      ],
+      "source_ids": [
+        "N13",
+        "N14",
+        "N15",
+        "N30",
+        "J02"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/hgb/__350.html",
+        "https://www.gesetze-im-internet.de/bgb/__766.html",
+        "https://www.gesetze-im-internet.de/bgb/__767.html",
+        "https://www.gesetze-im-internet.de/bgb/__164.html",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1"
+      ],
+      "issues_result": "Konkrete Präzisierung/Quellenkorrektur umgesetzt; siehe checked_points und Diff.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/software-daten-und-nutzungsrechte-regeln/SKILL.md",
+      "before_sha256": "dc2ce551d714b318aedad6dc80ba6115dc869fe6e6b1de34ee63615956b0aab4",
+      "reviewed_sha256": "dc2ce551d714b318aedad6dc80ba6115dc869fe6e6b1de34ee63615956b0aab4",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Rechtearten, Vorwissen/Fremdkomponenten und Zweckreichweite gegen UrhG gelesen.",
+        "Keine automatische exklusive Freiberuflerübertragung; besondere Arbeitnehmerregel getrennt.",
+        "Kein pauschales Eigentum an Daten oder pauschale Altvertragsanwendung des Data Act.",
+        "Data Act bleibt ausdrücklich zugangsbedingt zu verifizieren; kein Normstand 2026 vorgetäuscht."
+      ],
+      "source_ids": [
+        "N38",
+        "N39",
+        "N40",
+        "N26",
+        "N25b"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/urhg/__31.html",
+        "https://www.gesetze-im-internet.de/urhg/__69b.html",
+        "https://www.gesetze-im-internet.de/urhg/__69g.html",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R2854",
+        "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=18"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/verhandlungsauftrag-und-eckpunkte-klaeren/SKILL.md",
+      "before_sha256": "89a2c5a1f76ba0bd67c05a988341f86ea1746c05bfbd4f8bd22c7443f71dbff1",
+      "reviewed_sha256": "89a2c5a1f76ba0bd67c05a988341f86ea1746c05bfbd4f8bd22c7443f71dbff1",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Interne Kalkulation ist keine externe Einigung; verbindliche Menge/Prognose sauber getrennt.",
+        "Bindende Nebenpflichten trotz unverbindlichem Eckpunktepapier konkret; vorvertragliche Pflichten berücksichtigt.",
+        "Visualisierung mit Belegen, keine fingierte Geschäftsentscheidung oder technische Fähigkeit; vollständige Fortsetzung gewährleistet."
+      ],
+      "source_ids": [
+        "N34",
+        "N49",
+        "N50",
+        "N51"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__311.html",
+        "https://www.gesetze-im-internet.de/bgb/__241.html",
+        "https://www.gesetze-im-internet.de/bgb/__145.html",
+        "https://www.gesetze-im-internet.de/bgb/__147.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 56
+    },
+    {
+      "path": "corporate-contract-law/skills/verhandlungsfassung-und-unterschriftenmappe-fertigstellen/SKILL.md",
+      "before_sha256": "2cf4999bcf9cfe2c00649f30f84cbe61086c20bb1b3b7bc26e98c4be089502ae",
+      "reviewed_sha256": "2cf4999bcf9cfe2c00649f30f84cbe61086c20bb1b3b7bc26e98c4be089502ae",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Gegenfassung und unterschriftsreifer Entwurf anhand belegter Versionen getrennt.",
+        "Notarform/Vertretung/QES nicht durch Mappe oder Scan ersetzt.",
+        "Freigabe, tatsächliche Unterschrift und Versand nicht fingiert."
+      ],
+      "source_ids": [
+        "N28",
+        "N29",
+        "N30",
+        "N31",
+        "N16",
+        "N33",
+        "N53"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__126.html",
+        "https://www.gesetze-im-internet.de/bgb/__127.html",
+        "https://www.gesetze-im-internet.de/bgb/__164.html",
+        "https://www.gesetze-im-internet.de/bgb/__177.html",
+        "https://www.gesetze-im-internet.de/bgb/__311b.html",
+        "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+        "https://www.gesetze-im-internet.de/bgb/__126a.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/vertragsaenderung-und-nachtrag-erstellen/SKILL.md",
+      "before_sha256": "a2e4fefde411fb9fcad1da46f8a16a3f3694159932bccbc5b2620b1fc207ca1a",
+      "reviewed_sha256": "a2e4fefde411fb9fcad1da46f8a16a3f3694159932bccbc5b2620b1fc207ca1a",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Nachtrag erfordert maßgeblichen Ausgangsvertrag, Änderungsbefugnis und relevante Form.",
+        "Individualabrede wird nicht durch AGB-Schriftform unterdrückt.",
+        "Kein stiller Anspruchsverzicht oder fingiertes Unterzeichnungsdatum; Sicherung wächst nicht automatisch."
+      ],
+      "source_ids": [
+        "N34",
+        "N29",
+        "N45",
+        "N15",
+        "N30"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__311.html",
+        "https://www.gesetze-im-internet.de/bgb/__127.html",
+        "https://www.gesetze-im-internet.de/bgb/__305b.html",
+        "https://www.gesetze-im-internet.de/bgb/__767.html",
+        "https://www.gesetze-im-internet.de/bgb/__164.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/vertragstyp-form-und-vertretung-pruefen/SKILL.md",
+      "before_sha256": "a68dd38eb5398b982074ec4f3586046ac583200878241c762bbcff2d0bf2874b",
+      "reviewed_sha256": "a68dd38eb5398b982074ec4f3586046ac583200878241c762bbcff2d0bf2874b",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Kundenspezifische bewegliche Sache nicht allein deshalb Werkvertrag.",
+        "Außenvertretung von interner Zeichnungsgrenze und fehlender Vollmacht getrennt.",
+        "Gesetzliche/vereinbarte Form, QES, Bürgschaft und notarielle Übertragung unterschieden."
+      ],
+      "source_ids": [
+        "N48",
+        "N52",
+        "N30",
+        "N31",
+        "N32",
+        "N28",
+        "N29",
+        "N53",
+        "N14",
+        "N13",
+        "N16",
+        "N33"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__650.html",
+        "https://www.gesetze-im-internet.de/bgb/__631.html",
+        "https://www.gesetze-im-internet.de/bgb/__164.html",
+        "https://www.gesetze-im-internet.de/bgb/__177.html",
+        "https://www.gesetze-im-internet.de/bgb/__181.html",
+        "https://www.gesetze-im-internet.de/bgb/__126.html",
+        "https://www.gesetze-im-internet.de/bgb/__127.html",
+        "https://www.gesetze-im-internet.de/bgb/__126a.html",
+        "https://www.gesetze-im-internet.de/bgb/__766.html",
+        "https://www.gesetze-im-internet.de/hgb/__350.html",
+        "https://www.gesetze-im-internet.de/bgb/__311b.html",
+        "https://www.gesetze-im-internet.de/gmbhg/__15.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/vertraulichkeit-und-geheimnisschutz-vereinbaren/SKILL.md",
+      "before_sha256": "840380812ffe1a3fd0dc0282b732fc9b10232882960a6f4a3db62bfb4e88597c",
+      "reviewed_sha256": "840380812ffe1a3fd0dc0282b732fc9b10232882960a6f4a3db62bfb4e88597c",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Angemessene Geheimhaltungsmaßnahmen zusätzlich zur NDA erforderlich.",
+        "Erlaubte Handlungen und gesetzliche Offenlegungsinteressen gewahrt.",
+        "Reverse Engineering und zwingende Softwarerechte nicht pauschal ausgeschlossen; technisch unmögliche Löschung nicht zugesagt."
+      ],
+      "source_ids": [
+        "N17",
+        "N41",
+        "N42",
+        "N40",
+        "N02"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+        "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+        "https://www.gesetze-im-internet.de/geschgehg/__5.html",
+        "https://www.gesetze-im-internet.de/urhg/__69g.html",
+        "https://www.gesetze-im-internet.de/bgb/__307.html"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 36
+    },
+    {
+      "path": "corporate-contract-law/skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md",
+      "before_sha256": "a8d7c0159bacff0d75b03ae48430404031d7fddb996e73b43ac93c6fd45bc3b2",
+      "reviewed_sha256": "a8d7c0159bacff0d75b03ae48430404031d7fddb996e73b43ac93c6fd45bc3b2",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Rolle/Absatzrisiko statt Vertragsüberschrift; handelsrechtliche und kartellrechtliche Agentur getrennt.",
+        "Paragrafen 89b,90a und92c samt EU/EWR-Tätigkeitsausnahme geprüft.",
+        "Jahresvergütung nicht als automatischer Ausgleich; Händleranalogie nur nach eigener Voraussetzungenprüfung.",
+        "Ingmar nur historischer Leitsatz, Super Bock/VBER aktuelle Volltexte nicht fingiert; konkrete Freistellung bleibt zu verifizieren."
+      ],
+      "source_ids": [
+        "N10",
+        "N10b",
+        "N11",
+        "N24",
+        "J01",
+        "J07"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/hgb/__89b.html",
+        "https://www.gesetze-im-internet.de/hgb/__92c.html",
+        "https://www.gesetze-im-internet.de/hgb/__90a.html",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02022R0720-20240211",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61998CJ0381",
+        "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0211"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 38
+    },
+    {
+      "path": "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md",
+      "before_sha256": "d5b6abc288e03054162596d607cf8fb6dbde082a0db28f9d6ed89a89ac25d4e2",
+      "reviewed_sha256": "d5b6abc288e03054162596d607cf8fb6dbde082a0db28f9d6ed89a89ac25d4e2",
+      "full_file_read": true,
+      "result": "retained",
+      "method": "substantive_editorial_and_primary_source_desk_review",
+      "checked_points": [
+        "Eigenständig ausführender Hauptskill mit bedarfsabhängigen Fachrouten, kein Verweiswrapper.",
+        "Verbindliche Abrufe, AGB-B2B-Ausnahmen, Abnahme und Insolvenz-Exit mit Detailrouten kohärent.",
+        "Form/Vertretung vor Abschluss; wirtschaftliche Zustimmung und Unterschrift werden nicht erfunden.",
+        "Visualisierung zeigt konkrete Klauselvarianten mit Belegen und setzt vollständigen Entwurf fort; keine unberechtigte externe Handlung."
+      ],
+      "source_ids": [
+        "N48",
+        "N07",
+        "N06",
+        "N03",
+        "N19",
+        "N02",
+        "N16",
+        "N30",
+        "N27",
+        "J02",
+        "J03",
+        "J06a"
+      ],
+      "source_urls": [
+        "https://www.gesetze-im-internet.de/bgb/__650.html",
+        "https://www.gesetze-im-internet.de/hgb/__377.html",
+        "https://www.gesetze-im-internet.de/bgb/__640.html",
+        "https://www.gesetze-im-internet.de/bgb/__310.html",
+        "https://www.gesetze-im-internet.de/bgb/__308.html",
+        "https://www.gesetze-im-internet.de/bgb/__307.html",
+        "https://www.gesetze-im-internet.de/bgb/__311b.html",
+        "https://www.gesetze-im-internet.de/bgb/__164.html",
+        "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_213-21.pdf?__blob=publicationFile&v=1"
+      ],
+      "issues_result": "Keine Textkorrektur erforderlich; Rechtsaussagen und konkrete Recherchegrenzen beibehalten.",
+      "lines": 78
+    }
+  ],
+  "sources": [
+    {
+      "id": "N01",
+      "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 305 BGB vollständig",
+      "supports": "AGB, Vorformulierung und Aushandeln; kein Nachweis durch Etikett allein.",
+      "content_sha256": "8a9d9fc340fd96a774fa46fc49115c315ee985cc1e79a16200f794af9ec2158c",
+      "content_bytes": 5346
+    },
+    {
+      "id": "N02",
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 307 BGB vollständig",
+      "supports": "Transparenz und unangemessene Benachteiligung; keine Freigabe bestimmter Obergrenzen.",
+      "content_sha256": "1b49638796987b01d548875602a7853c7e1f07deb414ff8fe7c7b9edf9db08cc",
+      "content_bytes": 4699
+    },
+    {
+      "id": "N03",
+      "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 310 BGB vollständig",
+      "supports": "B2B-Ausnahme lässt Paragraf 308 Nummer 1a/1b bestehen; besondere Finanz- und VOB/B-Bereiche nicht verallgemeinern.",
+      "content_sha256": "06744842dd085ed0978166799fecca128aabb0ade421abd8ddc7699f5b6c8f37",
+      "content_bytes": 11609
+    },
+    {
+      "id": "N04",
+      "url": "https://www.gesetze-im-internet.de/bgb/__309.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 309 BGB vollständig",
+      "supports": "Personenschäden/grobes Verschulden als verschiedene Fallgruppen; im B2B keine unmittelbare Anwendung behauptet.",
+      "content_sha256": "ac76124c88b9f9f06bff5126067d4e0b4ea1191e51d6aec65ba27d86e9350901",
+      "content_bytes": 18351
+    },
+    {
+      "id": "N05",
+      "url": "https://www.gesetze-im-internet.de/bgb/__276.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 276 BGB vollständig",
+      "supports": "Kein Vorausverzicht auf Vorsatz; konkrete AGB-Caps nicht allein dadurch legitimiert.",
+      "content_sha256": "cd67f20afba69a8cd3e73485c8eb987f931425f831a4d9b330037a0e1d075359",
+      "content_bytes": 3973
+    },
+    {
+      "id": "N06",
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 640 BGB vollständig",
+      "supports": "Fiktion nur unter gesetzlichen Voraussetzungen; Vorbehaltsverlust Absatz 3 beschränkt auf Paragraf 634 Nummer 1 bis 3.",
+      "content_sha256": "941287be122aaf62803a1c8d58afdf05c0d1d5450f5a35d1dcd96d329d0bf2d7",
+      "content_bytes": 4492
+    },
+    {
+      "id": "N07",
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 377 HGB vollständig",
+      "supports": "Beiderseitiges Handelsgeschäft, Rüge/Entdeckung, rechtzeitige Absendung, Arglistausnahme.",
+      "content_sha256": "76f3006d3a334e9209b9c20327018605f186a56fde87f9a42f265becd67a3472",
+      "content_bytes": 4378
+    },
+    {
+      "id": "N08",
+      "url": "https://www.gesetze-im-internet.de/bgb/__271a.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 271a BGB vollständig",
+      "supports": "60/30-Tage-Schwellen, öffentliche Schuldner und Abschlags-/Ratenausnahme; übrige AGB-Kontrolle bleibt.",
+      "content_sha256": "e07a70ca01f42d9abb947397b3cea8b0047892f2917571b34071d988ffd7c1ec",
+      "content_bytes": 6909
+    },
+    {
+      "id": "N09",
+      "url": "https://www.gesetze-im-internet.de/bgb/__648.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 648 BGB vollständig",
+      "supports": "Freie Bestellerkündigung und Anrechnung; Fünf-Prozent-Vermutung nur nicht erbrachter Leistungsteil.",
+      "content_sha256": "95c0e60d053b520a64f2518c00cae7e11007a4cd0f52850804c0ce4f1887db9b",
+      "content_bytes": 3962
+    },
+    {
+      "id": "N10",
+      "url": "https://www.gesetze-im-internet.de/hgb/__89b.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 89b HGB vollständig",
+      "supports": "Ausgleich, Jahresvergütung als Höchstgrenze, Vorausverzicht und Jahresfrist; keine Händleranalogie als automatisch.",
+      "content_sha256": "c8676b05c09e31d320ae0cbfe3aed308c3c4ff5424342acc48b0b316ad98af77",
+      "content_bytes": 7210
+    },
+    {
+      "id": "N10b",
+      "url": "https://www.gesetze-im-internet.de/hgb/__92c.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 92c HGB vollständig",
+      "supports": "EU/EWR-Tätigkeitsort-Ausnahme und bestimmte Schifffahrtsgeschäfte; Sitz allein nicht maßgeblich.",
+      "content_sha256": "a5c03135321128e82c4f439ff53255cf4bb99184d01663e14fdc8ba458e08782",
+      "content_bytes": 3969
+    },
+    {
+      "id": "N11",
+      "url": "https://www.gesetze-im-internet.de/hgb/__90a.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 90a HGB vollständig",
+      "supports": "Form, Zweijahresgrenze, Reichweite, Entschädigung; nicht jede Händlerklausel erfasst.",
+      "content_sha256": "5b28e4045cea575449f4a0614c188573e06f8d852fbb2fe093dbd2c35a6ac492",
+      "content_bytes": 4945
+    },
+    {
+      "id": "N12",
+      "url": "https://www.gesetze-im-internet.de/hgb/__348.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 348 HGB vollständig",
+      "supports": "Herabsetzung nach Paragraf 343 ausgeschlossen unter Handelsgeschäftsvoraussetzungen; AGB-Kontrolle bleibt.",
+      "content_sha256": "4fb4e8394213a53fadb50e84c4b73390470ac37479fc9afcead05aaa5bca7fbd",
+      "content_bytes": 3530
+    },
+    {
+      "id": "N13",
+      "url": "https://www.gesetze-im-internet.de/hgb/__350.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 350 HGB vollständig",
+      "supports": "Formausnahme anhand Handelsgeschäfts des Verpflichteten, nicht Konzernetikett.",
+      "content_sha256": "6528992f68163c6020c33b91425171073917326d505932f5600057b690387f87",
+      "content_bytes": 3713
+    },
+    {
+      "id": "N14",
+      "url": "https://www.gesetze-im-internet.de/bgb/__766.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 766 BGB vollständig",
+      "supports": "Schriftform, Ausschluss elektronischer Form und Erfüllungstatbestand; Ausnahmen getrennt prüfen.",
+      "content_sha256": "771295a7d3e93c60bd9a1319a19ff2632e263f8bf02f47dc5ea43cea2c6daf8f",
+      "content_bytes": 3696
+    },
+    {
+      "id": "N15",
+      "url": "https://www.gesetze-im-internet.de/bgb/__767.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 767 BGB vollständig",
+      "supports": "Kein automatisches Mitwachsen durch spätere Rechtsgeschäfte des Hauptschuldners.",
+      "content_sha256": "e012651eb163f4d71ae9ca910503ea6b9272613ef49d9035bf072d3cf8c78d73",
+      "content_bytes": 3954
+    },
+    {
+      "id": "N16",
+      "url": "https://www.gesetze-im-internet.de/bgb/__311b.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 311b BGB vollständig",
+      "supports": "Beurkundung Grundstücksverpflichtungen; keine Mappe als Formersatz.",
+      "content_sha256": "3a9f48a650face9d4b43764d67691f8349d00808e89be71a5713cd5d8dadef6f",
+      "content_bytes": 5037
+    },
+    {
+      "id": "N17",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 2 GeschGehG vollständig",
+      "supports": "Angemessene Maßnahmen zusätzlich zu weiteren Geheimnismerkmalen erforderlich.",
+      "content_sha256": "bc73c74861893709246a68f13a75ca06de32b799d0d26f7d39adef96f126c73d",
+      "content_bytes": 5515
+    },
+    {
+      "id": "N18",
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 23 GVG vollständig",
+      "supports": "Aktuell allgemeine Wertzuständigkeit 10000 EUR; Ausnahmen/Übergang weiterhin auftragsbezogen.",
+      "content_sha256": "aa2a8d712478e4ccd44b5df249daff99053dcd0946f6e037cd22e5f3c7237dff",
+      "content_bytes": 6097
+    },
+    {
+      "id": "N19",
+      "url": "https://www.gesetze-im-internet.de/bgb/__308.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 308 BGB vollständig",
+      "supports": "Nummer 1a/1b: mehr als 30/15 Tage als Zweifelsgrenzen, keine starren Universalverbote.",
+      "content_sha256": "e49501dec75fe2a9dcf8d5530b8fe5028a8311d2add614cf05d7fe7ff94d6ae8",
+      "content_bytes": 10575
+    },
+    {
+      "id": "N20",
+      "url": "https://www.gesetze-im-internet.de/inso/__119.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 119 InsO vollständig",
+      "supports": "Vorausbeschränkungen der Paragrafen 103–118; keine pauschale Gleichsetzung aller Insolvenzklauseln.",
+      "content_sha256": "810ee62b29b164a33ef9fb9907bb087f8fe323641f6f42ba52a1289c4128144f",
+      "content_bytes": 3511
+    },
+    {
+      "id": "N20b",
+      "url": "https://www.gesetze-im-internet.de/inso/__103.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 103 InsO vollständig",
+      "supports": "Wahlrecht bei beiderseits noch nicht vollständig erfülltem gegenseitigem Vertrag.",
+      "content_sha256": "d1303c38b97a58cc6130d946ce3be027269abc315a1c610a500b4a89e46f73f5",
+      "content_bytes": 4115
+    },
+    {
+      "id": "N21",
+      "url": "https://www.gesetze-im-internet.de/zpo/__38.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 38 ZPO vollständig",
+      "supports": "Gerichtsstandsvereinbarung abhängig von Parteien, Fallgruppe und Form, nicht bloß B2B.",
+      "content_sha256": "f9b1d577aa194c8e597cfbb7a5af66a0b8d819aeb45fc41de7b055689b188068",
+      "content_bytes": 5029
+    },
+    {
+      "id": "N25b",
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=18",
+      "accessed_on": "2026-11-14",
+      "status": "official_authority_reproduction_selected_articles_read",
+      "read_scope": "BfDI Info1, Stand März 2026: Artikel 26,28,32,44,82; Reproduktionsquelle",
+      "supports": "Tatsächliche Rollen, Weisung/Speicherung nur Union/Mitgliedstaatenausnahme, Unterauftragsgenehmigung, Risiko-TOM, Außenhaftung; keine Transferbeschluss- oder 324-Seiten-Vollprüfung.",
+      "content_sha256": "e10b5907246e4fedaee093646dbc549b24eea53d8d72e3315dd46a5838be926e",
+      "content_bytes": 5325181
+    },
+    {
+      "id": "N27",
+      "url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "UNCITRAL-CISG-PDF: Artikel 1–6,11,12,29,35,38,39,96",
+      "supports": "Anwendungsbereich, Ausschluss, Formvorbehalte und Rüge; keine gesamte Länderpaarprüfung.",
+      "content_sha256": "e8fa824e4d6b1cc4ff78d4db08c13fb7f23a6f24aca538f56d781605fba4d10d",
+      "content_bytes": 347646
+    },
+    {
+      "id": "N27b",
+      "url": "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg/status",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "UNCITRAL-Statusseite: Struktur, deutsche Zeile, Erklärungshinweise a–f",
+      "supports": "Staaten/Inkrafttreten und Vorbehalte getrennt; keine Vollprüfung jedes Staates oder jedes Vertragsdatums.",
+      "content_sha256": "1a827fa8ad1752ccfb8c34f29c137a27ac2762db6775c5482e605cb4e7917680",
+      "content_bytes": 73699
+    },
+    {
+      "id": "J02",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "17-seitiges Original: Sachverhalt, Rn.15–20 und 27–30",
+      "supports": "Sicherungsphase bis/nach Abnahme und reales Aushandeln; keine allgemeine Prozentfreigabe.",
+      "content_sha256": "4a835c89d9a72df07140c77a24c5e2c95cdee5192b781edb9fdbe669c17144fb",
+      "content_bytes": 243007
+    },
+    {
+      "id": "J03",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "17-seitiges Original vollständig, insbesondere Rn.31–50",
+      "supports": "Abnahme grundsätzlich; Abrechnungsverhältnis ohne weitere Erfüllung; Vorschussverlangen allein reicht nicht.",
+      "content_sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345",
+      "content_bytes": 153301
+    },
+    {
+      "id": "J04",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "20-seitiges Original vollständig, insbesondere Rn.30–42",
+      "supports": "Konkrete Einheitspreis-Bauklausel und mögliche Überbelastung bei Mengenminderung; kein zusätzlicher Nachweis bereits eingetretener Minderungen für AGB-Unwirksamkeit.",
+      "content_sha256": "381f7fdaa60f5b63ee91435cfe1b8a87072f71240114878033509bec460abecb",
+      "content_bytes": 244626
+    },
+    {
+      "id": "J05a",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2014/VIII_ZR__26-14.pdf?__blob=publicationFile&v=1",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "8-seitiges Original vollständig, insbesondere Rn.16/17",
+      "supports": "B2B-Bezug über Paragraf 307; Rettungszusatz „soweit gesetzlich zulässig“ genügt nicht.",
+      "content_sha256": "ca5c2578f7a5a782f5554d69cbe664d06c3e048166fd41cccf198057737764e9",
+      "content_bytes": 116173
+    },
+    {
+      "id": "J06a",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_213-21.pdf?__blob=publicationFile&v=1",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "28-seitiges Original vollständig, insbesondere Rn.31,42–55,63–67",
+      "supports": "Ex-ante-Interessen, Geldleistungsrolle und Ausübungskontrolle; Zurückverweisung keine endgültige Klauselfreigabe.",
+      "content_sha256": "6e9795895051844b99e2a0551637c00e0625b7e82dbbb86adb77eff2b74b3263",
+      "content_bytes": 234196
+    },
+    {
+      "id": "N28",
+      "url": "https://www.gesetze-im-internet.de/bgb/__126.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 126 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Gesetzliche Schriftform und elektronische Ersetzbarkeit vorbehaltlich anderer gesetzlicher Regel.",
+      "content_sha256": "bd09c0b1fd1b847706c8f0a69971cee5ff80c6a8b01d71f408018a0ca1b3bf4f",
+      "content_bytes": 4329
+    },
+    {
+      "id": "N29",
+      "url": "https://www.gesetze-im-internet.de/bgb/__127.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 127 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Vereinbarte Form und abweichender Parteiwille.",
+      "content_sha256": "e188616953900774dc744b81b04eb77c9766d7bf84489934e2bd7bd843cd4688",
+      "content_bytes": 4498
+    },
+    {
+      "id": "N30",
+      "url": "https://www.gesetze-im-internet.de/bgb/__164.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 164 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Vertretung setzt Handeln im Namen und im Rahmen der Macht voraus.",
+      "content_sha256": "fb1cfc902a12d3f291fa743bbcd71df24bec5db6261759332603b337bc5b3406",
+      "content_bytes": 4126
+    },
+    {
+      "id": "N31",
+      "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 177 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Genehmigungsabhängigkeit statt fingierter Vertretungsmacht.",
+      "content_sha256": "0c86c993cf40c24277943768a2456b4a61d5c7fa1596d90222cbc0e40ac1bafb",
+      "content_bytes": 4062
+    },
+    {
+      "id": "N32",
+      "url": "https://www.gesetze-im-internet.de/bgb/__181.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 181 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Insichgeschäft und Ausnahmen.",
+      "content_sha256": "1e2ad09bab25550ef6d65583036e65d56f794f6d05c9971ea8734e4a7dc92ce1",
+      "content_bytes": 3661
+    },
+    {
+      "id": "N33",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 15 GmbHG (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Notarielle Übertragung und Verpflichtung von GmbH-Anteilen; keine einfache Unterschrift als Ersatz.",
+      "content_sha256": "600e149ccdea3af563b2a33de5148222445e149f5acbf6836b8e863d1c692b11",
+      "content_bytes": 4418
+    },
+    {
+      "id": "N34",
+      "url": "https://www.gesetze-im-internet.de/bgb/__311.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 311 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Vertragsänderung durch Vertrag und vorvertragliche Schutzpflichten.",
+      "content_sha256": "97ecb1ffa1981f312ff3d10273e718f88a9640a1b0967927d19ffc4d30f26ce7",
+      "content_bytes": 4911
+    },
+    {
+      "id": "N35",
+      "url": "https://www.gesetze-im-internet.de/bgb/__150.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 150 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Abändernde Annahme als neuer Antrag.",
+      "content_sha256": "aae667c0a00f9d261868807157374fe8b4fdbf8cf99aa9079f7056b94d7a6079",
+      "content_bytes": 3621
+    },
+    {
+      "id": "N36",
+      "url": "https://www.gesetze-im-internet.de/bgb/__611.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 611 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Geschuldete Tätigkeit statt automatische werkvertragliche Erfolgshaftung.",
+      "content_sha256": "dbb24c2f8526de0c855cbcf947a45adb92496bb2e8ad1c09b033997c01f02a6c",
+      "content_bytes": 3671
+    },
+    {
+      "id": "N37",
+      "url": "https://www.gesetze-im-internet.de/bgb/__705.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 705 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Gemeinsame Zweckförderung und Rechtsfähigkeit; Etikett allein nicht entscheidend.",
+      "content_sha256": "18a55d678dd3da0fcedeeb441bcead8a2e4f7109cf411b71e68e52002cdc7dbc",
+      "content_bytes": 4224
+    },
+    {
+      "id": "N38",
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 31 UrhG (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Rechtearten, Reichweite und Vertragszweck; keine pauschale Rechteübertragung.",
+      "content_sha256": "e7041a53f956c3f74a497d94d1a52b356f64349f3010070adc546e604fa0ab86",
+      "content_bytes": 4799
+    },
+    {
+      "id": "N39",
+      "url": "https://www.gesetze-im-internet.de/urhg/__69b.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 69b UrhG (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Besondere Arbeitgeberbefugnisse bei Aufgaben/Weisungen; nicht jeder freie Entwickler automatisch erfasst.",
+      "content_sha256": "2a387f186f27c7365d808f63878c6b5df83ed2d4696ffabb8a63487e0411e5c3",
+      "content_bytes": 3849
+    },
+    {
+      "id": "N40",
+      "url": "https://www.gesetze-im-internet.de/urhg/__69g.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 69g UrhG (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Zwingende Softwarerechte bleiben neben Geheimnisschutz beachtlich.",
+      "content_sha256": "adff08c82af0671f6683cb87e58026bb3670345e256651017e2c4a80e92464fc",
+      "content_bytes": 3977
+    },
+    {
+      "id": "N41",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 3 GeschGehG (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Erlaubtes Beobachten/Rückbauen unter den konkreten Voraussetzungen.",
+      "content_sha256": "418a18b1b23ff195ac2bdfb14ca66c664f70b5ff4985af257733ed5f57eaf097",
+      "content_bytes": 4735
+    },
+    {
+      "id": "N42",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__5.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 5 GeschGehG (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Berechtigte Offenlegungsinteressen und Arbeitnehmervertretung.",
+      "content_sha256": "27e919b167f56d9ef4588f41c3374d9840096e89ca60ae5910f7abf75229d9fe",
+      "content_bytes": 4454
+    },
+    {
+      "id": "N43",
+      "url": "https://www.gesetze-im-internet.de/bgb/__341.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 341 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Vertragsstrafenvorbehalt bei Annahme der Erfüllung.",
+      "content_sha256": "118332df05d2c57c436a1915d8a8fcdd0c8d63989dee15aa391e6ad9c7764986",
+      "content_bytes": 4038
+    },
+    {
+      "id": "N44",
+      "url": "https://www.gesetze-im-internet.de/starug/__44.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 44 StaRUG (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Keine allein aus Restrukturierungsinstrumenten folgende Beendigung; Sonderausnahmen des Absatzes 3.",
+      "content_sha256": "dec3c4bb2253140ebc5d9ad9fbb4ff7a2bf00a830caab75f5ed61244336eb6f9",
+      "content_bytes": 4958
+    },
+    {
+      "id": "N45",
+      "url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 305b (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Vorrang individueller Vertragsabrede.",
+      "content_sha256": "6feb9732116ad4b9995eb1e73e4f01e04b0b08872cf2a9d2acdfba9f9101fe79",
+      "content_bytes": 3456
+    },
+    {
+      "id": "N46",
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 306 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Gesetzliche Lückenfüllung und Härteausnahme.",
+      "content_sha256": "b99fca87becc86fd138781b89d2f78eb718191b2d4e962641fba2c4b2937e1f0",
+      "content_bytes": 3985
+    },
+    {
+      "id": "N47",
+      "url": "https://www.gesetze-im-internet.de/bgb/__314.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 314 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Wichtiger Grund, Abmahnung/Frist, Ausnahmen und angemessene Ausübungsfrist.",
+      "content_sha256": "05417e477f0abaeac88ad290fc0a7bdd6620ad4d784ceada2082ce87179cff9d",
+      "content_bytes": 5050
+    },
+    {
+      "id": "N48",
+      "url": "https://www.gesetze-im-internet.de/bgb/__650.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 650 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Herzustellende bewegliche Sachen grundsätzlich Kaufrecht, nicht automatisch Werkvertrag.",
+      "content_sha256": "aa2e23f299137dbd1fffb24f60a351b25ac1c78e53f41161159c49a1fac03339",
+      "content_bytes": 6470
+    },
+    {
+      "id": "N49",
+      "url": "https://www.gesetze-im-internet.de/bgb/__241.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 241 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Leistungs- und Rücksichtnahmepflichten getrennt.",
+      "content_sha256": "a182599d2e74f52a9dbe24026af3e53a53fea824e5f08b77524ef4f8af4fe219",
+      "content_bytes": 3743
+    },
+    {
+      "id": "N50",
+      "url": "https://www.gesetze-im-internet.de/bgb/__145.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 145 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Bindung an Antrag sofern nicht ausgeschlossen.",
+      "content_sha256": "93a0666803af748f33b443e4fd23c57af74d3b82a183d10f5e1aacf2a7f13f21",
+      "content_bytes": 3512
+    },
+    {
+      "id": "N51",
+      "url": "https://www.gesetze-im-internet.de/bgb/__147.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 147 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Annahmefristen für Anwesende und Abwesende.",
+      "content_sha256": "8f7b210b2979a7702d74313afa411503fe5f3a66ee4561f33170f6703846396a",
+      "content_bytes": 3784
+    },
+    {
+      "id": "N52",
+      "url": "https://www.gesetze-im-internet.de/bgb/__631.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 631 (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "Werkvertrag schuldet Erfolg.",
+      "content_sha256": "03755911c15ca0a816bbe79afbac4fe096adea72314b082882d73264fea940eb",
+      "content_bytes": 3759
+    },
+    {
+      "id": "N53",
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "accessed_on": "2026-11-14",
+      "status": "primary_text_read",
+      "read_scope": "Paragraf 126a (BGB, soweit nicht anders angegeben) vollständig",
+      "supports": "QES und gleichlautende Vertragsdokumente für gesetzliche elektronische Form.",
+      "content_sha256": "764cd5c3686f32db43c7435ad2edab7bfb3465ab9b1a6bc6ba793d09baca971c",
+      "content_bytes": 3805
+    }
+  ],
+  "limited_sources": [
+    {
+      "id": "N22",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32008R0593",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "historical_scope_preserved": "Bisherige begrenzte Quellenhinweise bleiben begrenzt."
+    },
+    {
+      "id": "N23",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32012R1215",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "historical_scope_preserved": "Bisherige begrenzte Quellenhinweise bleiben begrenzt."
+    },
+    {
+      "id": "N24",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02022R0720-20240211",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "historical_scope_preserved": "Bisherige begrenzte Quellenhinweise bleiben begrenzt."
+    },
+    {
+      "id": "N25",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "historical_scope_preserved": "Bisherige begrenzte Quellenhinweise bleiben begrenzt."
+    },
+    {
+      "id": "N26",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R2854",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "historical_scope_preserved": "Bisherige begrenzte Quellenhinweise bleiben begrenzt."
+    },
+    {
+      "id": "J01",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61998CJ0381",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "historical_scope_preserved": "Ingmar: nur historisch dokumentierter Leitsatz vom 23.09.2026, keine neue Gründeprüfung."
+    },
+    {
+      "id": "J07",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0211",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "historical_scope_preserved": "Bisherige begrenzte Quellenhinweise bleiben begrenzt."
+    },
+    {
+      "id": "J07b",
+      "url": "https://curia.europa.eu/juris/document/document.jsf?text=&docid=275033&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1",
+      "accessed_on": "2026-11-14",
+      "status": "not_verified_in_current_fulltext",
+      "reason": "Generische Amtsblatt-Startseite oder RPEX-Anwendungsschale statt angeforderten Norm-/Entscheidungstexts; HTTP 200 nicht als Erfolg gezählt.",
+      "content_sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+      "historical_scope_preserved": "Bisherige begrenzte Quellenhinweise bleiben begrenzt."
+    }
+  ],
+  "related_files": [
+    {
+      "path": "corporate-contract-law/references/fachquellen.md",
+      "scope": "vollständig, neue Quellenstände und Aussagen",
+      "sha256": "fe80185717bc4a20f94d30f65d7d810e531225efa9cb3991e33bc9dd4c9839da",
+      "full_file_read": true,
+      "before_sha256": "51605cc5701742c6552cd05883e5258058b7f2e6d2916dd084dd0e6e7aa47df9"
+    },
+    {
+      "path": "corporate-contract-law/references/zitierweise.md",
+      "scope": "vollständig, Zitatregeln",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "full_file_read": true,
+      "before_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+    },
+    {
+      "path": "corporate-contract-law/references/arbeitsoberflaeche-und-visualisierung.md",
+      "scope": "vollständig, Fähigkeits-/Beleg-/Fortsetzungsregeln",
+      "sha256": "88f68c6bf59f7888a672543b913c74d9e9bb435f0acebf0faf66594da28d2566",
+      "full_file_read": true,
+      "before_sha256": "88f68c6bf59f7888a672543b913c74d9e9bb435f0acebf0faf66594da28d2566"
+    },
+    {
+      "path": "corporate-contract-law/corporate-contract-law-schnellstart.md",
+      "scope": "vollständig; Abnahmeanker aktualisiert",
+      "sha256": "f8e270d69673910302885d90a7ded7d36129f41b4035d262438d28053e6d4fe3",
+      "full_file_read": true,
+      "before_sha256": "c762780ab0d7c1373b07a3001526b91c2dec01356abddf60fad95e79087bec28"
+    },
+    {
+      "path": "corporate-contract-law/corporate-contract-law-hauptproblem.md",
+      "scope": "Vollständiger Hauptproblem-Prompt vor und nach der Kürzung am 15.11.2026 erneut gelesen. Nur redundante Wörter im geprüften BGH-Abnahmeanker gekürzt; dieselben Randnummern, Aussagegrenze, Abrufdatum und gesonderte Anwendung der einschlägigen Normfassung erhalten.",
+      "sha256": "ff77209391fd0757f866d08cb8aab4b83c5d7d6119f3f067886edeb1102864bc",
+      "full_file_read": true,
+      "before_sha256": "a3bab039bbef1250c24c41ecfa798b53aebcfaaf7b38a3f7bdb6ff849ed8e853",
+      "previous_reviewed_sha256": "9cbdf88459e591ec5d7aa7bf0577df1f0e63e2571e9e004dc12ad21aba34cc52",
+      "read_on": "2026-11-15",
+      "bytes": 7490,
+      "delta_review": {
+        "previous_bytes": 7514,
+        "final_bytes": 7490,
+        "reason": "7500-UTF8-Byte-Grenze; 24 Bytes ohne Aussageverlust eingespart",
+        "changed_scope": "Ein Vorschussverlangen allein genügt nicht; Paragraf 640 BGB in einschlägiger Fassung gesondert anwenden.",
+        "no_new_legal_research_claimed": true
+      }
+    },
+    {
+      "path": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+      "scope": "betroffene vollständige Absätze zu Abnahme, Vertragsstrafe, Exit, Sicherheiten, AGB, DSGVO, internationalen Quellen und Quellenabschluss; keine vollständige neue Gesamtlektüre behauptet",
+      "sha256": "1b2724c2ca22d32c86dc5dd765f4208ec584ad6ed921bb0e205b39e60f6ba322",
+      "full_file_read": false,
+      "before_sha256": "dd36d5070759522f2d5666ad02dbf9781617232949eb2f7b230737633f978ec0"
+    },
+    {
+      "path": "corporate-contract-law/README.md",
+      "scope": "betroffene Quellen-/Prüfstandsabsätze und Skillübersicht; keine vollständige Neulektüre behauptet; abschließender Deltaabgleich: ausschließlich manuelle Versionszeile 445.19.1 → 445.36.1 und zwei native Plugin-Downloadlinks auf qualitaetsrunde-v445.36.1",
+      "sha256": "f5b968cc9b676c38ba4f9c1e23ad03eb413c5d2a1eed1d655b8686a320660086",
+      "full_file_read": false,
+      "before_sha256": "d3ad0877b91cef1291bd466a8cf833a2a715f93238271eb9a9271b29aba18828",
+      "previous_reviewed_sha256": "6ee59bae5fc5bcc4c3cdb9e4bcad91138712bacd037b781736f1ec94c9d71e0b",
+      "delta_review": {
+        "method": "Exact reverse-delta reconstruction verified against prior reviewed hash; changed README lines read",
+        "full_file_reread": false,
+        "changes": [
+          "Version 445.19.1 → 445.36.1",
+          "Zwei native Plugin-Downloadlinks: releases/latest/download → releases/download/qualitaetsrunde-v445.36.1"
+        ],
+        "result": "Nur die bezeichneten Änderungen gegenüber zuvor geprüftem README-Stand; kein neuer materieller Rechtsinhalt."
+      }
+    },
+    {
+      "path": "corporate-contract-law/skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md",
+      "scope": "Vollständige Skill-Datei gelesen; konkrete rechtliche/editorielle Punkte und Quellen siehe files-Eintrag. Nach Präzisierung wurden die betroffenen Absätze und der Endhash erneut abgeglichen.",
+      "full_file_read": true,
+      "before_sha256": "2a21cade9a58f71bf84e89e18beed363947b27e662016d081a768afb3fa84e36",
+      "sha256": "53cd47f4f19f00217193c3bf43ad5f9f60ec4c54b9a89b21638215df408e89b4",
+      "file_review_entry": "corporate-contract-law/skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md"
+    },
+    {
+      "path": "corporate-contract-law/skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md",
+      "scope": "Vollständige Skill-Datei gelesen; konkrete rechtliche/editorielle Punkte und Quellen siehe files-Eintrag. Nach Präzisierung wurden die betroffenen Absätze und der Endhash erneut abgeglichen.",
+      "full_file_read": true,
+      "before_sha256": "5ff29386fd0133b2a2ffb7c6ad2de51460bbdd97d5134347d72b734ff71de919",
+      "sha256": "8f1c738aa377908e8536fcdb4a918da4071d558367132e18ae33d88301505e83",
+      "file_review_entry": "corporate-contract-law/skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md"
+    },
+    {
+      "path": "corporate-contract-law/skills/haftung-gewaehrleistung-und-freistellung-regeln/SKILL.md",
+      "scope": "Vollständige Skill-Datei gelesen; konkrete rechtliche/editorielle Punkte und Quellen siehe files-Eintrag. Nach Präzisierung wurden die betroffenen Absätze und der Endhash erneut abgeglichen.",
+      "full_file_read": true,
+      "before_sha256": "04b770498f729278ba392c45fd21c4679595147a47c1b3172f3185809731070d",
+      "sha256": "fff7df3e0260b319e5bf5767a612bda6ea7b1225c7ffc3398b998a17ec8ccb54",
+      "file_review_entry": "corporate-contract-law/skills/haftung-gewaehrleistung-und-freistellung-regeln/SKILL.md"
+    },
+    {
+      "path": "corporate-contract-law/skills/laufzeit-kuendigung-und-exit-gestalten/SKILL.md",
+      "scope": "Vollständige Skill-Datei gelesen; konkrete rechtliche/editorielle Punkte und Quellen siehe files-Eintrag. Nach Präzisierung wurden die betroffenen Absätze und der Endhash erneut abgeglichen.",
+      "full_file_read": true,
+      "before_sha256": "17e49210919e7440f2acba13f74713f59e5e58e8c884a1310d09423e14e3bf85",
+      "sha256": "7c6ff811b12b55ca1b9d36ff26381c04ac205cbabd6fd7dd11a75ff81f713669",
+      "file_review_entry": "corporate-contract-law/skills/laufzeit-kuendigung-und-exit-gestalten/SKILL.md"
+    },
+    {
+      "path": "corporate-contract-law/skills/preise-zahlung-und-preisanpassung-regeln/SKILL.md",
+      "scope": "Vollständige Skill-Datei gelesen; konkrete rechtliche/editorielle Punkte und Quellen siehe files-Eintrag. Nach Präzisierung wurden die betroffenen Absätze und der Endhash erneut abgeglichen.",
+      "full_file_read": true,
+      "before_sha256": "a8c9c9744ec02400e243a642d065c7502d6bd2d816f1ffad5fde6e2e8afaa6e7",
+      "sha256": "c7be8cbcd4f417e844156702ef16381ccc08e9879272866bb4be62b7feb3f514",
+      "file_review_entry": "corporate-contract-law/skills/preise-zahlung-und-preisanpassung-regeln/SKILL.md"
+    },
+    {
+      "path": "corporate-contract-law/skills/projektvertrag-leistung-und-abnahme-fassen/SKILL.md",
+      "scope": "Vollständige Skill-Datei gelesen; konkrete rechtliche/editorielle Punkte und Quellen siehe files-Eintrag. Nach Präzisierung wurden die betroffenen Absätze und der Endhash erneut abgeglichen.",
+      "full_file_read": true,
+      "before_sha256": "215ecf4a652cedaed05257b10db5455987b8efb7cd30d5ee0a7e3a562ae8c71d",
+      "sha256": "dd3dd9274ef78e7758c8f272f583aa611557fbc62c21d6d8a7c5ced516102691",
+      "file_review_entry": "corporate-contract-law/skills/projektvertrag-leistung-und-abnahme-fassen/SKILL.md"
+    },
+    {
+      "path": "corporate-contract-law/skills/sicherheiten-und-konzernzusagen-pruefen/SKILL.md",
+      "scope": "Vollständige Skill-Datei gelesen; konkrete rechtliche/editorielle Punkte und Quellen siehe files-Eintrag. Nach Präzisierung wurden die betroffenen Absätze und der Endhash erneut abgeglichen.",
+      "full_file_read": true,
+      "before_sha256": "ffbe2bdb147feb072502f1895439db7a8c44fb43b1f6db3440a3f8108cd108b3",
+      "sha256": "6597f98f4679d0ddc1120e02f87b881dbca20d8bfd4a257fb045bea9860a269e",
+      "file_review_entry": "corporate-contract-law/skills/sicherheiten-und-konzernzusagen-pruefen/SKILL.md"
+    }
+  ],
+  "search_update": {
+    "date": "2026-11-14",
+    "queries": [
+      "site.bundesgerichtshof.de 2025 2026 Vertragsstrafe Auftragssumme",
+      "site.bundesgerichtshof.de 2025 2026 Abrechnungsverhältnis Abnahme",
+      "site.bundesgerichtshof.de 2025 2026 insolvenzabhängige Lösungsklausel",
+      "site.bundesgerichtshof.de 2025 2026 Aushandeln Haftungsausschluss"
+    ],
+    "result": "Keine zusätzlich belastbar geprüfte amtliche neue Entscheidung aus diesen Suchläufen. Nichtamtliche Treffer werden nicht als bestätigte Fortentwicklung verwendet; keine Vollständigkeitsbehauptung."
+  },
+  "access_log": [
+    {
+      "id": "N01",
+      "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "http": 200,
+      "bytes": 5346,
+      "sha256": "8a9d9fc340fd96a774fa46fc49115c315ee985cc1e79a16200f794af9ec2158c"
+    },
+    {
+      "id": "N02",
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "http": 200,
+      "bytes": 4699,
+      "sha256": "1b49638796987b01d548875602a7853c7e1f07deb414ff8fe7c7b9edf9db08cc"
+    },
+    {
+      "id": "N03",
+      "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "http": 200,
+      "bytes": 11609,
+      "sha256": "06744842dd085ed0978166799fecca128aabb0ade421abd8ddc7699f5b6c8f37"
+    },
+    {
+      "id": "N04",
+      "url": "https://www.gesetze-im-internet.de/bgb/__309.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__309.html",
+      "http": 200,
+      "bytes": 18351,
+      "sha256": "ac76124c88b9f9f06bff5126067d4e0b4ea1191e51d6aec65ba27d86e9350901"
+    },
+    {
+      "id": "N05",
+      "url": "https://www.gesetze-im-internet.de/bgb/__276.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__276.html",
+      "http": 200,
+      "bytes": 3973,
+      "sha256": "cd67f20afba69a8cd3e73485c8eb987f931425f831a4d9b330037a0e1d075359"
+    },
+    {
+      "id": "N06",
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "http": 200,
+      "bytes": 4492,
+      "sha256": "941287be122aaf62803a1c8d58afdf05c0d1d5450f5a35d1dcd96d329d0bf2d7"
+    },
+    {
+      "id": "N07",
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "http": 200,
+      "bytes": 4378,
+      "sha256": "76f3006d3a334e9209b9c20327018605f186a56fde87f9a42f265becd67a3472"
+    },
+    {
+      "id": "N08",
+      "url": "https://www.gesetze-im-internet.de/bgb/__271a.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__271a.html",
+      "http": 200,
+      "bytes": 6909,
+      "sha256": "e07a70ca01f42d9abb947397b3cea8b0047892f2917571b34071d988ffd7c1ec"
+    },
+    {
+      "id": "N09",
+      "url": "https://www.gesetze-im-internet.de/bgb/__648.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__648.html",
+      "http": 200,
+      "bytes": 3962,
+      "sha256": "95c0e60d053b520a64f2518c00cae7e11007a4cd0f52850804c0ce4f1887db9b"
+    },
+    {
+      "id": "N10",
+      "url": "https://www.gesetze-im-internet.de/hgb/__89b.html",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/__89b.html",
+      "http": 200,
+      "bytes": 7210,
+      "sha256": "c8676b05c09e31d320ae0cbfe3aed308c3c4ff5424342acc48b0b316ad98af77"
+    },
+    {
+      "id": "N10b",
+      "url": "https://www.gesetze-im-internet.de/hgb/__92c.html",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/__92c.html",
+      "http": 200,
+      "bytes": 3969,
+      "sha256": "a5c03135321128e82c4f439ff53255cf4bb99184d01663e14fdc8ba458e08782"
+    },
+    {
+      "id": "N11",
+      "url": "https://www.gesetze-im-internet.de/hgb/__90a.html",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/__90a.html",
+      "http": 200,
+      "bytes": 4945,
+      "sha256": "5b28e4045cea575449f4a0614c188573e06f8d852fbb2fe093dbd2c35a6ac492"
+    },
+    {
+      "id": "N12",
+      "url": "https://www.gesetze-im-internet.de/hgb/__348.html",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/__348.html",
+      "http": 200,
+      "bytes": 3530,
+      "sha256": "4fb4e8394213a53fadb50e84c4b73390470ac37479fc9afcead05aaa5bca7fbd"
+    },
+    {
+      "id": "N13",
+      "url": "https://www.gesetze-im-internet.de/hgb/__350.html",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/__350.html",
+      "http": 200,
+      "bytes": 3713,
+      "sha256": "6528992f68163c6020c33b91425171073917326d505932f5600057b690387f87"
+    },
+    {
+      "id": "N14",
+      "url": "https://www.gesetze-im-internet.de/bgb/__766.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__766.html",
+      "http": 200,
+      "bytes": 3696,
+      "sha256": "771295a7d3e93c60bd9a1319a19ff2632e263f8bf02f47dc5ea43cea2c6daf8f"
+    },
+    {
+      "id": "N15",
+      "url": "https://www.gesetze-im-internet.de/bgb/__767.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__767.html",
+      "http": 200,
+      "bytes": 3954,
+      "sha256": "e012651eb163f4d71ae9ca910503ea6b9272613ef49d9035bf072d3cf8c78d73"
+    },
+    {
+      "id": "N16",
+      "url": "https://www.gesetze-im-internet.de/bgb/__311b.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__311b.html",
+      "http": 200,
+      "bytes": 5037,
+      "sha256": "3a9f48a650face9d4b43764d67691f8349d00808e89be71a5713cd5d8dadef6f"
+    },
+    {
+      "id": "N17",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+      "final_url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+      "http": 200,
+      "bytes": 5515,
+      "sha256": "bc73c74861893709246a68f13a75ca06de32b799d0d26f7d39adef96f126c73d"
+    },
+    {
+      "id": "N18",
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "final_url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "http": 200,
+      "bytes": 6097,
+      "sha256": "aa2a8d712478e4ccd44b5df249daff99053dcd0946f6e037cd22e5f3c7237dff"
+    },
+    {
+      "id": "N19",
+      "url": "https://www.gesetze-im-internet.de/bgb/__308.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__308.html",
+      "http": 200,
+      "bytes": 10575,
+      "sha256": "e49501dec75fe2a9dcf8d5530b8fe5028a8311d2add614cf05d7fe7ff94d6ae8"
+    },
+    {
+      "id": "N20",
+      "url": "https://www.gesetze-im-internet.de/inso/__119.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__119.html",
+      "http": 200,
+      "bytes": 3511,
+      "sha256": "810ee62b29b164a33ef9fb9907bb087f8fe323641f6f42ba52a1289c4128144f"
+    },
+    {
+      "id": "N20b",
+      "url": "https://www.gesetze-im-internet.de/inso/__103.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__103.html",
+      "http": 200,
+      "bytes": 4115,
+      "sha256": "d1303c38b97a58cc6130d946ce3be027269abc315a1c610a500b4a89e46f73f5"
+    },
+    {
+      "id": "N21",
+      "url": "https://www.gesetze-im-internet.de/zpo/__38.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__38.html",
+      "http": 200,
+      "bytes": 5029,
+      "sha256": "f9b1d577aa194c8e597cfbb7a5af66a0b8d819aeb45fc41de7b055689b188068"
+    },
+    {
+      "id": "N22",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32008R0593",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:32008R0593",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "N23",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32012R1215",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:32012R1215",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "N24",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02022R0720-20240211",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:02022R0720-20240211",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "N25",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:02016R0679-20160504",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "N26",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32023R2854",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:32023R2854",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "N27",
+      "url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+      "final_url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+      "http": 200,
+      "bytes": 347646,
+      "sha256": "e8fa824e4d6b1cc4ff78d4db08c13fb7f23a6f24aca538f56d781605fba4d10d"
+    },
+    {
+      "id": "N27b",
+      "url": "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg/status",
+      "final_url": "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg/status",
+      "http": 200,
+      "bytes": 73699,
+      "sha256": "1a827fa8ad1752ccfb8c34f29c137a27ac2762db6775c5482e605cb4e7917680"
+    },
+    {
+      "id": "J01",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61998CJ0381",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:61998CJ0381",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "J02",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+      "http": 200,
+      "bytes": 243007,
+      "sha256": "4a835c89d9a72df07140c77a24c5e2c95cdee5192b781edb9fdbe669c17144fb"
+    },
+    {
+      "id": "J03",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+      "http": 200,
+      "bytes": 153301,
+      "sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345"
+    },
+    {
+      "id": "J04",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+      "http": 200,
+      "bytes": 244626,
+      "sha256": "381f7fdaa60f5b63ee91435cfe1b8a87072f71240114878033509bec460abecb"
+    },
+    {
+      "id": "J05",
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=515&nr=70433&pos=22",
+      "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "http": 200,
+      "bytes": 51729,
+      "sha256": "81b74b1c29768951f2049a4531a562608a3d507cca326918fb731e38286375aa"
+    },
+    {
+      "id": "J06",
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-10&Gericht=bgh&anz=260&nr=132057&pos=24",
+      "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "http": 200,
+      "bytes": 51729,
+      "sha256": "81b74b1c29768951f2049a4531a562608a3d507cca326918fb731e38286375aa"
+    },
+    {
+      "id": "J07",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0211",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:62022CJ0211",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "J05a",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2014/VIII_ZR__26-14.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2014/VIII_ZR__26-14.pdf?__blob=publicationFile&v=1",
+      "http": 200,
+      "bytes": 116173,
+      "sha256": "ca5c2578f7a5a782f5554d69cbe664d06c3e048166fd41cccf198057737764e9",
+      "pdf": true
+    },
+    {
+      "id": "J06a",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_213-21.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_213-21.pdf?__blob=publicationFile&v=1",
+      "http": 200,
+      "bytes": 234196,
+      "sha256": "6e9795895051844b99e2a0551637c00e0625b7e82dbbb86adb77eff2b74b3263",
+      "pdf": true
+    },
+    {
+      "id": "J01a",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A61998CJ0381",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A61998CJ0381",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "J07a",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62022CJ0211",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A62022CJ0211",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "N22a",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32008R0593",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A32008R0593",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "N23a",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32012R1215",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A32012R1215",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "N24a",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A02022R0720-20240211",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A02022R0720-20240211",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "N25a",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A02016R0679-20160504",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A02016R0679-20160504",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "N26a",
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu/pdf",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "N26b",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A02023R2854-20231222",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A02023R2854-20231222",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "N26c",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32023R2854R%2804%29",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX%3A32023R2854R%2804%29",
+      "http": 200,
+      "bytes": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "pdf": false
+    },
+    {
+      "id": "J07b",
+      "url": "https://curia.europa.eu/juris/document/document.jsf?text=&docid=275033&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1",
+      "final_url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/document/document.jsf?text=&docid=275033&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1",
+      "size": 130226,
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6"
+    },
+    {
+      "id": "N25b",
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=18",
+      "final_url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=18",
+      "size": 5325181,
+      "sha256": "e10b5907246e4fedaee093646dbc549b24eea53d8d72e3315dd46a5838be926e"
+    },
+    {
+      "id": "N26d",
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/2854/oj/eng/pdf",
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html",
+      "size": 13692,
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9"
+    },
+    {
+      "id": "N28",
+      "url": "https://www.gesetze-im-internet.de/bgb/__126.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__126.html",
+      "size": 4329,
+      "sha256": "bd09c0b1fd1b847706c8f0a69971cee5ff80c6a8b01d71f408018a0ca1b3bf4f"
+    },
+    {
+      "id": "N29",
+      "url": "https://www.gesetze-im-internet.de/bgb/__127.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__127.html",
+      "size": 4498,
+      "sha256": "e188616953900774dc744b81b04eb77c9766d7bf84489934e2bd7bd843cd4688"
+    },
+    {
+      "id": "N30",
+      "url": "https://www.gesetze-im-internet.de/bgb/__164.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__164.html",
+      "size": 4126,
+      "sha256": "fb1cfc902a12d3f291fa743bbcd71df24bec5db6261759332603b337bc5b3406"
+    },
+    {
+      "id": "N31",
+      "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "size": 4062,
+      "sha256": "0c86c993cf40c24277943768a2456b4a61d5c7fa1596d90222cbc0e40ac1bafb"
+    },
+    {
+      "id": "N32",
+      "url": "https://www.gesetze-im-internet.de/bgb/__181.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__181.html",
+      "size": 3661,
+      "sha256": "1e2ad09bab25550ef6d65583036e65d56f794f6d05c9971ea8734e4a7dc92ce1"
+    },
+    {
+      "id": "N33",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "final_url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "size": 4418,
+      "sha256": "600e149ccdea3af563b2a33de5148222445e149f5acbf6836b8e863d1c692b11"
+    },
+    {
+      "id": "N34",
+      "url": "https://www.gesetze-im-internet.de/bgb/__311.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__311.html",
+      "size": 4911,
+      "sha256": "97ecb1ffa1981f312ff3d10273e718f88a9640a1b0967927d19ffc4d30f26ce7"
+    },
+    {
+      "id": "N35",
+      "url": "https://www.gesetze-im-internet.de/bgb/__150.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__150.html",
+      "size": 3621,
+      "sha256": "aae667c0a00f9d261868807157374fe8b4fdbf8cf99aa9079f7056b94d7a6079"
+    },
+    {
+      "id": "N36",
+      "url": "https://www.gesetze-im-internet.de/bgb/__611.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__611.html",
+      "size": 3671,
+      "sha256": "dbb24c2f8526de0c855cbcf947a45adb92496bb2e8ad1c09b033997c01f02a6c"
+    },
+    {
+      "id": "N37",
+      "url": "https://www.gesetze-im-internet.de/bgb/__705.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__705.html",
+      "size": 4224,
+      "sha256": "18a55d678dd3da0fcedeeb441bcead8a2e4f7109cf411b71e68e52002cdc7dbc"
+    },
+    {
+      "id": "N38",
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "size": 4799,
+      "sha256": "e7041a53f956c3f74a497d94d1a52b356f64349f3010070adc546e604fa0ab86"
+    },
+    {
+      "id": "N39",
+      "url": "https://www.gesetze-im-internet.de/urhg/__69b.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/__69b.html",
+      "size": 3849,
+      "sha256": "2a387f186f27c7365d808f63878c6b5df83ed2d4696ffabb8a63487e0411e5c3"
+    },
+    {
+      "id": "N40",
+      "url": "https://www.gesetze-im-internet.de/urhg/__69g.html",
+      "final_url": "https://www.gesetze-im-internet.de/urhg/__69g.html",
+      "size": 3977,
+      "sha256": "adff08c82af0671f6683cb87e58026bb3670345e256651017e2c4a80e92464fc"
+    },
+    {
+      "id": "N41",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+      "final_url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+      "size": 4735,
+      "sha256": "418a18b1b23ff195ac2bdfb14ca66c664f70b5ff4985af257733ed5f57eaf097"
+    },
+    {
+      "id": "N42",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__5.html",
+      "final_url": "https://www.gesetze-im-internet.de/geschgehg/__5.html",
+      "size": 4454,
+      "sha256": "27e919b167f56d9ef4588f41c3374d9840096e89ca60ae5910f7abf75229d9fe"
+    },
+    {
+      "id": "N43",
+      "url": "https://www.gesetze-im-internet.de/bgb/__341.html",
+      "error": "[Errno 54] Connection reset by peer"
+    },
+    {
+      "id": "N44",
+      "url": "https://www.gesetze-im-internet.de/starug/__44.html",
+      "error": "[Errno 54] Connection reset by peer"
+    },
+    {
+      "id": "N45",
+      "url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "sha256": "6feb9732116ad4b9995eb1e73e4f01e04b0b08872cf2a9d2acdfba9f9101fe79",
+      "size": 3456
+    },
+    {
+      "id": "N46",
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "sha256": "b99fca87becc86fd138781b89d2f78eb718191b2d4e962641fba2c4b2937e1f0",
+      "size": 3985
+    },
+    {
+      "id": "N47",
+      "url": "https://www.gesetze-im-internet.de/bgb/__314.html",
+      "sha256": "05417e477f0abaeac88ad290fc0a7bdd6620ad4d784ceada2082ce87179cff9d",
+      "size": 5050
+    },
+    {
+      "id": "N48",
+      "url": "https://www.gesetze-im-internet.de/bgb/__650.html",
+      "sha256": "aa2e23f299137dbd1fffb24f60a351b25ac1c78e53f41161159c49a1fac03339",
+      "size": 6470
+    },
+    {
+      "id": "N49",
+      "url": "https://www.gesetze-im-internet.de/bgb/__241.html",
+      "sha256": "a182599d2e74f52a9dbe24026af3e53a53fea824e5f08b77524ef4f8af4fe219",
+      "size": 3743
+    },
+    {
+      "id": "N50",
+      "url": "https://www.gesetze-im-internet.de/bgb/__145.html",
+      "sha256": "93a0666803af748f33b443e4fd23c57af74d3b82a183d10f5e1aacf2a7f13f21",
+      "size": 3512
+    },
+    {
+      "id": "N51",
+      "url": "https://www.gesetze-im-internet.de/bgb/__147.html",
+      "sha256": "8f7b210b2979a7702d74313afa411503fe5f3a66ee4561f33170f6703846396a",
+      "size": 3784
+    },
+    {
+      "id": "N52",
+      "url": "https://www.gesetze-im-internet.de/bgb/__631.html",
+      "sha256": "03755911c15ca0a816bbe79afbac4fe096adea72314b082882d73264fea940eb",
+      "size": 3759
+    },
+    {
+      "id": "N53",
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "sha256": "764cd5c3686f32db43c7435ad2edab7bfb3465ab9b1a6bc6ba793d09baca971c",
+      "size": 3805
+    },
+    {
+      "id": "N43",
+      "url": "https://www.gesetze-im-internet.de/bgb/__341.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__341.html",
+      "http": 200,
+      "bytes": 4038,
+      "sha256": "118332df05d2c57c436a1915d8a8fcdd0c8d63989dee15aa391e6ad9c7764986",
+      "retry": true
+    },
+    {
+      "id": "N44",
+      "url": "https://www.gesetze-im-internet.de/starug/__44.html",
+      "final_url": "https://www.gesetze-im-internet.de/starug/__44.html",
+      "http": 200,
+      "bytes": 4958,
+      "sha256": "dec3c4bb2253140ebc5d9ad9fbb4ff7a2bf00a830caab75f5ed61244336eb6f9",
+      "retry": true
+    }
+  ],
+  "verification_results": [
+    {
+      "command": "python3 scripts/validate-yaml-frontmatter.py",
+      "exit_code": 0,
+      "result": "0 Fehler, 0 Warnungen"
+    },
+    {
+      "command": "node scripts/validate-plugin-structure.mjs",
+      "exit_code": 0,
+      "result": "OK"
+    },
+    {
+      "command": "git diff --check -- corporate-contract-law quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.json quality/source-audits/2026-11-14-nachpruefung/corporate-contract-law.md",
+      "exit_code": 0,
+      "result": "Keine Whitespace-Fehler"
+    },
+    {
+      "command": "audit_integrity_check",
+      "exit_code": 0,
+      "result": "20 Datei-Hashes, Quellenverweise, lokale Skill-Links und 20-Skill-Grenze geprüft"
+    },
+    {
+      "command": "README exact end-delta and related_files coverage",
+      "exit_code": 0,
+      "result": "README-Enddelta gelesen und exakt rückgerechnet; sämtliche zwölf von diesem Reviewer geänderten Plugin-Dateien mit Endhash und Lesescope in related_files enthalten. Root-Manifeständerung nicht als eigener Review ausgegeben."
+    }
+  ]
+}

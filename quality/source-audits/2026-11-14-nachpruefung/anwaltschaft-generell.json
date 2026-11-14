@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "plugin": "anwaltschaft-generell",
+  "reviewed_on": "2026-11-14",
+  "base_commit": "d4d621de34186d03e343fdb144176b9986f1f1fe",
+  "method": "full_file_read_and_official_primary_source_review",
+  "reviewer": "Codex – /root/nachpruefung_anwalt_gesellschaft",
+  "files": [
+    {
+      "path": "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
+      "before_sha256": "5b4169d50e2d86db29e9dc49c9cbccca17743d6675563057010f5d0f07827097",
+      "reviewed_sha256": "b6ff129f1eca3d05a53be288a2fe0a7f1cbf25304eec4179092e3bd667a9dbca",
+      "full_file_read": true,
+      "read_method": "Vollständige fortlaufende Textlektüre; lange Werkstätten in lückenlosen Teilabschnitten, danach Änderungen und Quellenpassagen nachgelesen.",
+      "bytes": 7481,
+      "lines": 45,
+      "result": "revised",
+      "checked_points": [
+        "Gesamten Mini von Auftrag bis Fortsetzung gelesen. Rollen, Forderung/Gegenrechte, Zugang/Versand, Fristen, vollständiges Endprodukt und gezielte Rückfragen sind konsistent; kein ungefragter Wechsel vom Gutachten zur Klage.",
+        "§ 377 HGB setzt beiderseitigen Handelskauf voraus, Abs. 4 verlangt rechtzeitige Absendung. § 310 Abs. 1 BGB nimmt § 308 Nr. 1a/1b nicht pauschal aus. Besondere Prozessformfiktion nach § 46h ArbGG ist korrekt begrenzt.",
+        "Art. 12 Abs. 3 DSGVO präzisiert: unverzüglich, grundsätzlich spätestens ein Monat. Frühere Formulierung erwähnte nur die Monatsgrenze und konnte als frei ausschöpfbare Bearbeitungszeit verstanden werden.",
+        "BAG-Zugangsanker und EuGH-Empfängeranker in tatsächlichen Originalpassagen bestätigt. BGH-Nacherfüllungsanker und EuGH-Datenkopieanker nach tatsächlich erfolgter Volltextlektüre aktualisiert.",
+        "Mini bleibt eigenständig und mit 7.481 UTF-8-Bytes unter 7.500. Kein neues TXT-Format und keine zusätzliche Skillregistrierung eingeführt."
+      ],
+      "source_ids": [
+        "AW-BAG",
+        "AW-C154",
+        "AW-C487-voll",
+        "AW-BGH2016-voll",
+        "AW-BGB310",
+        "AW-HGB377",
+        "AW-ArbGG46h",
+        "AW-ZPO130e",
+        "AW-GVG23"
+      ],
+      "issues": [
+        "Unverzüglichkeitsgebot ergänzt; belegte Volltextstatus ersetzen alte Such-/PM-Grenze."
+      ]
+    },
+    {
+      "path": "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+      "before_sha256": "89d0ff134bbcb41f0cab5d65f08dc9bf83c37ff4bdb36863b11208ed14c20cb6",
+      "reviewed_sha256": "3171256185f1da51fb7ae0ee2028b7b21c9100e011a2f19f74b7232b835a6a57",
+      "full_file_read": true,
+      "read_method": "Vollständige fortlaufende Textlektüre; lange Werkstätten in lückenlosen Teilabschnitten, danach Änderungen und Quellenpassagen nachgelesen.",
+      "bytes": 70780,
+      "lines": 403,
+      "result": "revised",
+      "checked_points": [
+        "Alle 405 ursprünglichen Zeilen vollständig gelesen, einschließlich der langen Fachwege und Visualisierungs-/Appletvorgaben; anschließend geänderte Absätze vollständig gegengelesen. Verknüpfte Zitierregeln berücksichtigt.",
+        "Anspruchsinhaberschaft, Abtretung/Vertragsübernahme, Entstehung/Erlöschen/Durchsetzbarkeit, Beweislast und § 138 ZPO getrennt. Hörensagen nicht pauschal als unzulässig behandelt; keine erfundene Wahrnehmung.",
+        "Zugang, Fristauslöser und Sicherungsannahme getrennt. BAG 2 AZR 68/24 umfasst nur Einlieferung plus Tracking ohne weiteren Nachweis. Neuer BGH II ZR 89/25 ergänzt einen belegten aktuellen förmlichen Zustellungsfall ohne Ausweitung auf private Erklärungen.",
+        "Nacherfüllung nicht automatisch Rücktritt; kein fixes Rügefenster und keine starre Sechswochenfrist. VIII ZR 49/15 trägt bestimmbaren Zeitraum bei ernsthaftem Abhilfeverlangen; damals geltende Kaufrechtsfassung ausdrücklich begrenzt.",
+        "AGB, § 310-Ausnahmen, Zahlungszuordnung, § 288 Abs. 5/Anrechnung und keine doppelte Nebenforderung; arbeitsrechtliche Form/Klagefrist, Datenschutzrollen, Vertretung und Vergleichsvollzug sinnvoll getrennt.",
+        "Art. 12 Unverzüglichkeit nachgeschärft; C-487/21 nun mit Rn. 28–45 und konkreter Kontext-/Drittrechtsprüfung. C-154/21 im amtlichen englischen Text bestätigt. Allgemeiner Geschäftsaktenzugriff wird nicht aus Betroffenenrecht abgeleitet.",
+        "10.000-EUR-Wertgrenze und §§ 46h ArbGG/130e ZPO aktuell bestätigt. Volltextabrufprobleme und fehlgeleiteter EUR-Lex-HTTP200 transparent, keine erfundene aktuelle Gesamtnormprüfung.",
+        "Werkstatt enthält weiter vollständige Ergebnisproduktion, ausgewählten Fachweg, konsistente Fortsetzung, Quellenstatus und konkrete Visualisierung nur bei vorhandener Fähigkeit; keine automatischen externen Handlungen."
+      ],
+      "source_ids": [
+        "AW-BAG",
+        "AW-C154",
+        "AW-C487-voll",
+        "AW-BGH2016-voll",
+        "AW-BGH2026",
+        "AW-BGB310",
+        "AW-HGB377",
+        "AW-ArbGG46h",
+        "AW-ZPO130e",
+        "AW-GVG23"
+      ],
+      "issues": [
+        "Art. 12-Präzisierung; zwei Volltextlücken tatsächlich geschlossen; aktueller Zustellungsanker ergänzt; überholten Abrufstatus ersetzt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "AW-BAG",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "status": 200,
+      "final_url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "sha256": "4a5befbfaf0f1b62936b3a11d738fa0c7e166eefa187e163b25acb7d191240c2",
+      "bytes": 118289,
+      "title": "BAG, Urteil vom 30.01.2025 – 2 AZR 68/24",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Rn. 10–21",
+      "read_extent": "genannte tragende Passagen im geöffneten amtlichen Volltext",
+      "limits": "Kein pauschaler Ausschluss des Zugangsbeweises durch Einwurf-Einschreiben; Rn. 18 lässt die weitergehende Nachweiskonstellation offen.",
+      "archive": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell-originale/AW-BAG.html.gz",
+      "archive_original_sha256": "4a5befbfaf0f1b62936b3a11d738fa0c7e166eefa187e163b25acb7d191240c2"
+    },
+    {
+      "id": "AW-C154",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=496700&docid=269146&doclang=en&mode=lst&occ=first&pageIndex=0&part=1",
+      "status": 200,
+      "final_url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=496700&docid=269146&doclang=en&mode=lst&occ=first&pageIndex=0&part=1",
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "e1ccd5e991d3b925b4c70052e89c4cb05dd84f50801755cd9fbf40966f9ec332",
+      "bytes": 55826,
+      "title": "EuGH, Urteil vom 12.01.2023 – C-154/21",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Rn. 36–51 und Tenor",
+      "read_extent": "genannte tragende Passagen im geöffneten amtlichen Volltext",
+      "limits": "Englischer amtlicher Text. Eigene deutsche Zusammenfassung; kein deutsches Wortlautzitat und kein allgemeiner Geschäftsaktenanspruch.",
+      "archive": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell-originale/AW-C154.html.gz",
+      "archive_original_sha256": "e1ccd5e991d3b925b4c70052e89c4cb05dd84f50801755cd9fbf40966f9ec332"
+    },
+    {
+      "id": "AW-C487-voll",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=273286&doclang=de",
+      "status": 200,
+      "final_url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=273286&doclang=de",
+      "sha256": "6b35cc8fcd0039113868c0c41448c8d873a31439223735c742c205c5117c3cf0",
+      "bytes": 58928,
+      "title": "EuGH, Urteil vom 04.05.2023 – C-487/21",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Rn. 20–45; zusätzlich Kontext Rn. 1–19, 46–54 und Tenor",
+      "read_extent": "genannte tragende Passagen im geöffneten amtlichen Volltext",
+      "limits": "Datenkopie und erforderlicher Dokumentkontext, Rechte Dritter; kein voraussetzungsloser Vollaktenanspruch.",
+      "archive": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell-originale/AW-C487-voll.html.gz",
+      "archive_original_sha256": "6b35cc8fcd0039113868c0c41448c8d873a31439223735c742c205c5117c3cf0"
+    },
+    {
+      "id": "AW-BGH2016-voll",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+      "status": 200,
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+      "sha256": "e185745579364c19a60c51f9015383a35c533e6f45f08bb2d166aca63df5eb9a",
+      "bytes": 145983,
+      "title": "BGH, Urteil vom 13.07.2016 – VIII ZR 49/15",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Rn. 25–31 und 33–36; Gesamtkontext Rn. 1–41",
+      "read_extent": "Vollständige Entscheidung einschließlich Sachverhalt und Rückverweisung gelesen",
+      "limits": "Damals geltende kaufrechtliche Vorschriften nicht als aktuelle Nummerierung übernehmen; sechs Wochen sind keine Universalfrist.",
+      "archive": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell-originale/AW-BGH2016-voll.pdf.gz",
+      "archive_original_sha256": "e185745579364c19a60c51f9015383a35c533e6f45f08bb2d166aca63df5eb9a"
+    },
+    {
+      "id": "AW-BGH2026",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__89-25.pdf?__blob=publicationFile&v=1",
+      "status": 200,
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__89-25.pdf?__blob=publicationFile&v=1",
+      "content_type": "application/pdf",
+      "sha256": "b7dee7b7405e4cd7e790b717f98dcaf61aaf6230f205f6bd9b15bbdea7b22ce3",
+      "bytes": 142931,
+      "title": "BGH, Urteil vom 13.10.2026 – II ZR 89/25",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Rn. 9–24, insbesondere 11 und 15–22",
+      "read_extent": "Vollständige Entscheidung einschließlich Tatbestand und Tenor gelesen",
+      "limits": "Nur vertretungsberechtigter GbR-Gesellschafter bei vorliegenden weiteren Zustellungsvoraussetzungen; kein Automatismus für Beschäftigte oder jeden Gesellschafter.",
+      "archive": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell-originale/AW-BGH2026.pdf.gz",
+      "archive_original_sha256": "b7dee7b7405e4cd7e790b717f98dcaf61aaf6230f205f6bd9b15bbdea7b22ce3"
+    },
+    {
+      "id": "AW-BGB310",
+      "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "content_type": "text/html",
+      "sha256": "06744842dd085ed0978166799fecca128aabb0ade421abd8ddc7699f5b6c8f37",
+      "bytes": 11609,
+      "title": "§ 310 BGB",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Abs. 1, 1a, 3 und 4",
+      "read_extent": "Einzelnorm vollständig gelesen",
+      "limits": "B2B enthält Ausnahmen; § 308 Nr. 1a/1b nicht pauschal ausgeschlossen. Sondertatbestände am Mandat prüfen."
+    },
+    {
+      "id": "AW-HGB377",
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "content_type": "text/html",
+      "sha256": "76f3006d3a334e9209b9c20327018605f186a56fde87f9a42f265becd67a3472",
+      "bytes": 4378,
+      "title": "§ 377 HGB",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Abs. 1–5",
+      "read_extent": "Einzelnorm vollständig gelesen",
+      "limits": "Nur beiderseitiger Handelskauf; rechtzeitige Absendung genügt; Arglistgrenze."
+    },
+    {
+      "id": "AW-ArbGG46h",
+      "url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
+      "status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
+      "sha256": "f1ebf56600ec7ec2b2a8e40bb8741c2e4ac799d48da0730cfd2924ecea3a7a57",
+      "bytes": 3848,
+      "title": "§ 46h ArbGG",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Sätze 1 und 2",
+      "read_extent": "Einzelnorm vollständig gelesen",
+      "limits": "Sonderfall vorbereitender elektronischer Schriftsatz plus Zustellung/Mitteilung; keine allgemeine beA-Formfreiheit."
+    },
+    {
+      "id": "AW-ZPO130e",
+      "url": "https://www.gesetze-im-internet.de/zpo/__130e.html",
+      "status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__130e.html",
+      "sha256": "de2a7c2421beb0a7e35835ac51c758e6515fe54fa07aeb348e03d6cd7d73f97a",
+      "bytes": 3849,
+      "title": "§ 130e ZPO",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Sätze 1 und 2",
+      "read_extent": "Einzelnorm vollständig gelesen",
+      "limits": "Prozessuale Formfiktion von gewöhnlicher Korrespondenz getrennt."
+    },
+    {
+      "id": "AW-GVG23",
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "status": 200,
+      "final_url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "sha256": "aa2a8d712478e4ccd44b5df249daff99053dcd0946f6e037cd22e5f3c7237dff",
+      "bytes": 6097,
+      "title": "§ 23 GVG",
+      "checked_on": "2026-11-14",
+      "pinpoints": "Nr. 1 und Sonderzuweisungen",
+      "read_extent": "Einzelnorm vollständig gelesen",
+      "limits": "10.000 EUR allgemeine Wertgrenze; keine Universalzuständigkeit und kein Ersatz der Ereignis-/Übergangsprüfung."
+    }
+  ],
+  "limits": [
+    "Dateireview umfasst die vollständig gelesenen benannten Dateien; kein pauschales Gütesiegel für sämtliche sonstigen Plugin-Dateien, alle Testakten oder alle Rechtsgebiete.",
+    "Desk-Review mit aktuellen amtlichen Abrufen und gezielter Norm-/Passagenprüfung, keine neue Live-Ausführung durch ein externes Modell.",
+    "Historische Profile, Prüfstände und Freigabehashes werden nicht rückdatiert oder überschrieben. Root führt neuen Dateistatus, Artefakthashes und Release-Routing nach Abschluss separat nach."
+  ],
+  "failed_or_non_substantive_accesses": [
+    {
+      "id": "AW-BGH2016",
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=75498",
+      "status": 200,
+      "final_url": "https://www.bundesgerichtshof.de/DE/Presse/Pressemitteilungen/pressemitteilungen_node.html",
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "b129f7b2fdd4697044a6e7a35c78aaacb14c50ad55c898613308dcbb19c263a7",
+      "bytes": 38323,
+      "usable_as_legal_fulltext": false,
+      "reason": "Sachfremde Weiterleitung bzw. JavaScript-Anwendung ohne Entscheidungs-/Normtext. Ersatzvolltexte nur dort verifiziert, wo separat protokolliert."
+    },
+    {
+      "id": "AW-C487",
+      "url": "https://curia.europa.eu/juris/document/document.jsf?docid=273286&doclang=DE",
+      "status": 200,
+      "final_url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/document/document.jsf?docid=273286&doclang=DE",
+      "content_type": "text/html",
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+      "bytes": 130226,
+      "usable_as_legal_fulltext": false,
+      "reason": "Sachfremde Weiterleitung bzw. JavaScript-Anwendung ohne Entscheidungs-/Normtext. Ersatzvolltexte nur dort verifiziert, wo separat protokolliert."
+    },
+    {
+      "id": "AW-DSGVO",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679",
+      "status": 200,
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html?uri=CELEX:32016R0679",
+      "content_type": "text/html",
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "bytes": 13692,
+      "usable_as_legal_fulltext": false,
+      "reason": "Sachfremde Weiterleitung bzw. JavaScript-Anwendung ohne Entscheidungs-/Normtext. Ersatzvolltexte nur dort verifiziert, wo separat protokolliert."
+    },
+    {
+      "id": "AW-DSGVO-eli",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu",
+      "status": 200,
+      "final_url": "https://eur-lex.europa.eu:443/TodayOJ/index.html",
+      "sha256": "15358b37b9ea407b3f1f7df23eca9f7252487748ded4481942eefb139a16bfd9",
+      "bytes": 13692,
+      "usable_as_legal_fulltext": false,
+      "reason": "Sachfremde Weiterleitung bzw. JavaScript-Anwendung ohne Entscheidungs-/Normtext. Ersatzvolltexte nur dort verifiziert, wo separat protokolliert."
+    }
+  ],
+  "metadata_followup": {
+    "date": "2026-11-14",
+    "path": "anwaltschaft-generell/README.md",
+    "reviewed_sha256": "1a1ef85b7e2e320580588df9a7d856c820ae6926fc91f51cec808c52c0fa6f02",
+    "scope": "Tatsächlich gelesenes abschließendes Metadaten-Diff, keine zusätzliche vollständige README-Prüfung für Anwaltschaft behauptet.",
+    "checked_points": [
+      "Aktuelle Plugin-ZIP-Links führen zum vorgesehenen Komponentenrelease qualitaetsrunde-v445.36.1.",
+      "Vorhandene Markdown-/TXT-Promptwege bleiben erhalten; keine neue Dateiart erfunden.",
+      "Historische Testakten- und PDF-Verweise behalten ihre bisherigen Tags; Veröffentlichung wird durch diese Metadatenkontrolle nicht behauptet.",
+      "Paketversion 445.36.1, historische Erstprüfung 23.09.2026 und tatsächliche vollständige Mini-/Werkstatt-Nachprüfung 14.11.2026 getrennt angegeben."
+    ]
+  }
+}

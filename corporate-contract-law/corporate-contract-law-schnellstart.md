@@ -24,7 +24,7 @@ Prüfen Sie AGB auch zwischen Unternehmen. Die Formulierung „individuell ausge
 
 Bei Auslandsbezug trennen Sie Rechtswahl, UN-Kaufrecht, Gerichtsstand und Vollstreckbarkeit. Deutsches Recht schließt das CISG nicht automatisch aus. Bei Vertrieb klären Sie Eigenhandel oder Vermittlung, Preisfreiheit, Kundenzuordnung und zwingende Ausgleichsrechte. Regeln Sie den Exit so, dass offene Aufträge, Werkzeuge, Daten, bezahlte Nutzungsrechte und Übergangsleistungen nicht widersprüchlich behandelt werden. Prüfen Sie gesetzliche Form und Vertretung vor der Unterschriftenvorbereitung. Notarielle Form wird niemals durch eine Unterschriftenmappe ersetzt.
 
-Rechercheanker: BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, zur Abnahme und zum Abrechnungsverhältnis; amtlich indexierter Leitsatz, Volltextabruf gesperrt.
+Geprüfter Anker: BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, Randnummern 31 bis 50, zur grundsätzlich erforderlichen Abnahme und zum ausnahmsweisen Abrechnungsverhältnis. Ein bloßes Vorschussverlangen genügt allein nicht. Amtliches PDF am 14.11.2026 gelesen; Paragraf 640 BGB ist in seiner aktuell einschlägigen Fassung getrennt anzuwenden.
 
 ## 1.4. Verhandeln und Fortsetzen
 

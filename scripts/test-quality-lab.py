@@ -133,6 +133,67 @@ class QualityLabTests(unittest.TestCase):
                 with self.assertRaises(lab.LabError):
                     lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
 
+    def completed_review_fixture(self):
+        relative = "fachgebiet/skills/belegabgleich/SKILL.md"
+        sha = lab.digest((self.root / relative).read_bytes())
+        report = self.root / "quality/source-audits/nachpruefung.md"
+        report.parent.mkdir(parents=True, exist_ok=True)
+        report.write_text("Datei vollständig gelesen; Quellenreichweite und Beleglogik konkret geprüft.")
+        evidence = {
+            "schema_version": 1, "plugin": "fachgebiet", "date": "2026-11-14",
+            "method": "full_file_review", "limits": "Dateiprüfung; kein ausgeführter Modelltest.",
+            "previous_status": {"status": "needs_review", "reason": "Fassung verändert", "files": [relative]},
+            "files": [{"path": relative, "before_sha256": sha, "reviewed_sha256": sha,
+                       "full_file_read": True, "result": "retained",
+                       "checked_points": ["Quellen und Belege abgegrenzt", "Ergebnisauftrag vollständig"],
+                       "finding": "Belegabgleich bleibt fachlich klar begrenzt."}],
+            "reports": {report.relative_to(self.root).as_posix(): lab.digest(report.read_bytes())},
+        }
+        path = self.root / "quality/source-audits/nachpruefung.json"
+        lab.save(path, evidence)
+        self.profile["file_review_status"] = {
+            "status": "reviewed", "reason": "Vollständige dokumentierte Nachprüfung", "files": [relative],
+            "evidence": {"path": path.relative_to(self.root).as_posix(), "sha256": lab.digest(path.read_bytes())},
+        }
+        return evidence, path, report
+
+    def test_completed_file_review_unblocks_preparation_without_claiming_a_model_result(self):
+        self.completed_review_fixture()
+        self.write_profile()
+        self.assertEqual(lab.pending_file_reviews(self.profile, self.root), [])
+        self.assertEqual(lab.audit(self.root)[1], [])
+        self.assertTrue((self.prepare() / "run.json").is_file())
+
+    def test_completed_status_alone_cannot_clear_pending_review(self):
+        self.completed_review_fixture()
+        del self.profile["file_review_status"]["evidence"]
+        with self.assertRaisesRegex(lab.LabError, "Nachprüfungsbeleg"):
+            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_completed_review_rejects_missing_file_incomplete_read_and_wrong_profile(self):
+        for change in (lambda r: r.update(files=[]),
+                       lambda r: r["files"][0].update(full_file_read=False),
+                       lambda r: r.update(plugin="anderes-fachgebiet"),
+                       lambda r: r["previous_status"].update(files=[]),
+                       lambda r: r["files"][0].update(checked_points=[])):
+            with self.subTest(change=change):
+                record, path, _ = self.completed_review_fixture()
+                change(record)
+                lab.save(path, record)
+                self.profile["file_review_status"]["evidence"]["sha256"] = lab.digest(path.read_bytes())
+                with self.assertRaises(lab.LabError):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_completed_review_rejects_later_file_report_or_evidence_changes(self):
+        for target in ("file", "report", "evidence"):
+            with self.subTest(target=target):
+                _, evidence, report = self.completed_review_fixture()
+                path = {"file": self.plugin / "skills/belegabgleich/SKILL.md",
+                        "report": report, "evidence": evidence}[target]
+                path.write_text(path.read_text() + "\nVeränderte Fassung\n")
+                with self.assertRaisesRegex(lab.LabError, "seit dokumentierter Prüfung verändert"):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
     def test_missing_target_skill_fails(self):
         self.profile["cases"][0]["target_skill"] = "missing"
         self.write_profile()

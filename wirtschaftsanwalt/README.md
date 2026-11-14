@@ -17,7 +17,7 @@ Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`wirtschaftsanwalt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wirtschaftsanwalt.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`wirtschaftsanwalt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/wirtschaftsanwalt.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/wirtschaftsanwalt.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md) |
@@ -55,7 +55,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`wirtschaftsanwalt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wirtschaftsanwalt.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`wirtschaftsanwalt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/wirtschaftsanwalt.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`wirtschaftsanwalt-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`wirtschaftsanwalt-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -82,7 +82,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 <!-- decimal-headings -->
-Autor / Author: Klotzkette. Version: 445.19.1.
+Autor / Author: Klotzkette. Version: 445.36.1.
 
 Laufende Beratung eines mittelständischen Unternehmens bis zur konkreten Geschäftsentscheidung und zum fertigen Dokument. Zehn ausführende Skills verbinden Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditätsfragen. Der Hauptskill bearbeitet selbst; er ist kein bloßes Auswahlmenü.
 
@@ -159,7 +159,7 @@ Liquidity warnings do not certify solvency or release directors from liability. 
 
 ## 1.11. Quellen und Prüfstatus / Sources and Review Status
 
-[Zitierweise](references/zitierweise.md) entspricht byteidentisch der zentralen Referenz. [Fachquellen](references/fachquellen.md) dokumentieren die amtlichen Normabrufe vom 23.09.2026 mit Aussagegrenzen. Der amtliche BAG-Volltext 2 AZR 68/24 wurde gelesen. BGH II ZR 112/21 wurde im vorhandenen Urteils-PDF lokal gelesen; amtlicher Suchnachweis und gescheiterter Webvolltextabruf sind davon getrennt. Der Dateifingerprint und die identifizierenden Deckblattdaten stehen im Prüfprofil. Die DSGVO war als amtliches Veröffentlichungs-PDF zugänglich; HTML gesperrt, Konsolidierungsprüfung nicht behauptet.
+[Zitierweise](references/zitierweise.md) entspricht byteidentisch der zentralen Referenz. [Fachquellen](references/fachquellen.md) dokumentieren Erstprüfung vom 23.09.2026 und Nachprüfung vom 14.11.2026 mit konkreten Aussagegrenzen. BAG 2 AZR 68/24, die neuere Entscheidung 2 AZR 184/25 vom 07.05.2026 zum Scan-Verfahren und die einschlägigen amtlichen Textpassagen von BGH II ZR 112/21, II ZR 88/16 und IX ZR 229/22 wurden gelesen. Die BGH-Texte waren über das Recherchewerkzeug zugänglich; direkte HTTP-Downloads lieferten Suchseiten und keine neu verifizierten PDF-Dateien. Das früher lokal gelesene Urteils-PDF und dessen Fingerprint bleiben separat dokumentiert. Die DSGVO-Passagen zu Rollen, Herausgabe, Betroffenenfristen und Sicherheit wurden am BfDI-Normtext abgeglichen; eine vollständige Konsolidierungsprüfung wird nicht behauptet. Die Prompts trennen nun ausdrücklich den Geheimnisschutz nach Paragraf 43e BRAO von der AVV und präzisieren die Ausnahme der positiven Fortführungsprognose bei Paragraf 19 InsO.
 
 The source notes distinguish official texts, local full-text reading, search leads and failed access. Optional links to other repository materials are absolute web links and are not included dependencies. No legal-literature access or universal currentness is claimed.
 

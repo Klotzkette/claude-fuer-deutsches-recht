@@ -19,7 +19,7 @@ Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`anwaltschaft-generell.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/anwaltschaft-generell.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`anwaltschaft-generell.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/anwaltschaft-generell.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/anwaltschaft-generell.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-schnellstart.md) |
@@ -57,7 +57,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`anwaltschaft-generell.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/anwaltschaft-generell.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`anwaltschaft-generell.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.1/anwaltschaft-generell.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`anwaltschaft-generell-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`anwaltschaft-generell-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -83,7 +83,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version `445.19.1` · Autor / Author: Klotzkette · Quellenprüfung / Source review: 23.09.2026.
+Version `445.36.1` · Autor / Author: Klotzkette · Erstprüfung / Initial review: 23.09.2026; vollständige Nachprüfung von Mini und Werkstatt: 14.11.2026.
 
 <!-- decimal-anchor --> <a id="zweck--purpose"></a>
 
