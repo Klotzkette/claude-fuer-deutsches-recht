@@ -219,7 +219,7 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 
 #### 7. Quellenpflicht
 
-Verweis auf [`references/zitierweise.md`](../../../../references/zitierweise.md). Jede juristische Aussage ist mit Az., Datum, Fundstelle und Rn. zu belegen. Reihenfolge: Rspr. vor Lit., neueste zuerst.
+Verweis auf [`references/zitierweise.md`](../../../references/repository/references/zitierweise.md). Jede juristische Aussage ist mit Az., Datum, Fundstelle und Rn. zu belegen. Reihenfolge: Rspr. vor Lit., neueste zuerst.
 
 #### 8. Ausgabeformat
 

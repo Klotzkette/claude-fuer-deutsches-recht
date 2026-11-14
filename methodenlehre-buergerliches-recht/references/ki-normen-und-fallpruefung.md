@@ -46,4 +46,4 @@ Benötigte Arbeitsprodukte: Gutachtenpassage mit offengelegter Auslegungsmethode
 
 ## 1.6. Vollständige Übungsakte
 
-- [Testakte ki-hochrisiko-mainblick-bewerbung](../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.
+- [Testakte ki-hochrisiko-mainblick-bewerbung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.

@@ -156,7 +156,7 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 ## Einstieg
 
 ```
-/arbeitsrecht:kueschk-triage-laie-oder-anwalt
+/arbeitsrecht:kuendigung-zugang-trennung-bearbeiten Thema: kueschk-triage-laie-oder-anwalt
 ```
 
 Dann weiter mit `kueschk-frist-und-zugang-prüfen` — die Frist ist das erste Thema.

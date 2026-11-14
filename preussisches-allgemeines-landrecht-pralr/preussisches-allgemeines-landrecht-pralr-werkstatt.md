@@ -22,11 +22,11 @@ Alle folgenden Skill- und Referenzlinks sind optionale Vertiefungen. Ohne Zugrif
 
 Den Entwurf von 1792 und das Gesetzbuch von 1794 anhand des Textzeugen unterscheiden. Historische Orthografie im Originalzitat bewahren; jede eigene Normalisierung als solche kenntlich machen.
 
-2.2. Die gesuchte Stelle über Inhaltsverzeichnis, Register und Nachbarvorschriften bestimmen. Die [Normenbibliothek](skills/pralr-normenbibliothek/SKILL.md) liefert Suchhilfen, keinen Ersatz für den Primärtext.
+2.2. Die gesuchte Stelle über Inhaltsverzeichnis, Register und Nachbarvorschriften bestimmen. Die [Normenbibliothek](skills/pralr-normenbibliothek/FACHINHALT.md) liefert Suchhilfen, keinen Ersatz für den Primärtext.
 
 2.3. Entscheidende Wörter am Seitenbild lesen. OCR-Fehler, editorische Ergänzung und eigene Modernisierung markieren. Ist nur eine Transkription zugänglich, deren Status offenlegen und keine erfolgte Faksimileprüfung behaupten.
 
-2.4. Abweichende Fassungen in einer Synopse gegenüberstellen. Nicht jede Schreibvariante ist eine Rechtsänderung. Bei Zweifeln hilft [Textzeugen vergleichen](skills/textzeugen-vergleichen/SKILL.md).
+2.4. Abweichende Fassungen in einer Synopse gegenüberstellen. Nicht jede Schreibvariante ist eine Rechtsänderung. Bei Zweifeln hilft [Textzeugen vergleichen](skills/textzeugen-vergleichen/FACHINHALT.md).
 
 ## 3. Die historische Geltung prüfen
 
@@ -107,7 +107,7 @@ Nur die für das Ergebnis tragenden historischen Primärstellen müssen gezielt 
 
 Prüfen, ob Quelle, Fassung, Fundstelle und Geltung zum Ergebnis passen. Fehlende Entscheidungsdaten, Literaturstellen oder historische Fristen nicht ergänzen. Ein unlesbarer Normsatz begrenzt die Aussage; er erzwingt nicht den Abbruch sämtlicher anderer belegbarer Arbeit.
 
-Endprodukte werden vollständig ausformuliert. Es gilt die [Zitierweise](../references/zitierweise.md). Formatierte Dokumente verwenden Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; Markdown erhält einen entsprechenden Exporthinweis.
+Endprodukte werden vollständig ausformuliert. Es gilt die [Zitierweise](references/repository/references/zitierweise.md). Formatierte Dokumente verwenden Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; Markdown erhält einen entsprechenden Exporthinweis.
 
 ## 9. Zwei Textzeugen derselben Norm auseinanderhalten
 
@@ -171,7 +171,7 @@ Vertrag, Besitz und Register beantworten unterschiedliche Fragen. Ein Kaufpreisb
 
 Bei vorhandener Urkunde und fehlender Eintragung untersuchen, welche Bedeutung eine Eintragung nach dem damaligen Recht für gerade diese Rechtsart hatte. Keine allgemeine konstitutive Wirkung unterstellen. Bei vorhandener Eintragung und fehlender Urkunde deren Wortlaut, Verweisungen und mögliche Fortschreibungen auswerten; einen nicht belegten Vertragsinhalt nicht rekonstruieren. Bei bloß langjähriger Nutzung Besitzart, Rechtsbehauptung und zeitliche Unterbrechungen klären, bevor Ersitzung oder Observanz erwogen werden.
 
-Die [Referenz zum Grundstückserwerb](skills/historischen-grundstueckserwerb-pruefen/references/eigentumserwerb-grundstueck.md) nur für Erwerb und Registerwirkung lesen. Für Herausgabe oder Störungsschutz den gesonderten [Besitz- und Eigentumsschutz](skills/historischen-besitz-und-eigentumsschutz-pruefen/SKILL.md) verwenden. Eine sichere Feststellung der Rechtsart spart das vorsorgliche Laden sämtlicher Sachenrechtsmaterialien.
+Die [Referenz zum Grundstückserwerb](skills/historischen-grundstueckserwerb-pruefen/references/eigentumserwerb-grundstueck.md) nur für Erwerb und Registerwirkung lesen. Für Herausgabe oder Störungsschutz den gesonderten [Besitz- und Eigentumsschutz](skills/historischen-besitz-und-eigentumsschutz-pruefen/FACHINHALT.md) verwenden. Eine sichere Feststellung der Rechtsart spart das vorsorgliche Laden sämtlicher Sachenrechtsmaterialien.
 
 ### 11.3. Rechtsnachfolge nicht überspringen
 
@@ -209,7 +209,7 @@ Bei einer Erklärung unter behauptetem Zwang sind Anlass, Handlung, Inhalt der E
 
 ### 13.2. Die passende Quelle gezielt lesen
 
-Die [Willensmängel-Referenz](skills/historische-willensmaengel-pruefen/references/willensmaengel-arglist-irrtum.md) nur bei einer solchen Behauptung öffnen. Steht dagegen allein die Schriftform im Streit, den [Vertragsschluss und die Form](skills/historischen-vertragsschluss-pruefen/SKILL.md) prüfen. Bei einem mehrdeutigen Wortlaut ist [Vertragsauslegung](skills/historische-vertraege-auslegen/SKILL.md) die nähere Aufgabe.
+Die [Willensmängel-Referenz](skills/historische-willensmaengel-pruefen/references/willensmaengel-arglist-irrtum.md) nur bei einer solchen Behauptung öffnen. Steht dagegen allein die Schriftform im Streit, den [Vertragsschluss und die Form](skills/historischen-vertragsschluss-pruefen/FACHINHALT.md) prüfen. Bei einem mehrdeutigen Wortlaut ist [Vertragsauslegung](skills/historische-vertraege-auslegen/FACHINHALT.md) die nähere Aufgabe.
 
 Den historischen Begriff einer Ungültigkeit nicht ohne Weiteres mit einer heutigen Anfechtungserklärung, Frist und Rückwirkung ausstatten. Ebenso aus dem Wort „Wandlung“ nicht jede Form der Vertragsbeendigung ableiten. Welche Handlung und Rechtsfolge damals verlangt wurden, muss die konkrete Quelle beantworten.
 

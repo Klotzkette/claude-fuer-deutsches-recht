@@ -293,7 +293,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Urteil vom 24.06.2026, IV ZR 141/25"
     ],
-    "sha256": "eff4d649965c11e902b6dad70da19c7325166f8749852f0992325d4887442f46",
+    "sha256": "6ddbf023adc40131f0cd31b3fca99a778860f84cba51a1ac72b42e9a7b9ee7a4",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -304,8 +304,8 @@
       "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
       "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
       "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md",
-      "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/SKILL.md",
-      "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/SKILL.md",
+      "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/FACHINHALT.md",
+      "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/FACHINHALT.md",
       "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/references/schenkungen-bewerten.md"
     ],
     "opening_change": "Erbenstellung und Pflichtteilsberechtigung aus Status und Verfügungen sowie Todestagsbestand, Werte und Schulden konkret abgleichen. Workflow-Ergänzung: Leer: Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung anbieten. Dateien ohne Aufgabe: Verfügungen, Verzeichnis und Zahlungsbelege still lesen; Erbfolge-, Auskunfts- oder Forderungsziel klären. Klarer Auftrag: verlangte Nachforderung, Rechnung oder Regelung unmittelbar erstellen, keine ungefragte vollständige Nachlassanalyse.",
@@ -423,7 +423,7 @@
     "files": [
       "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
       "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
-      "fachanwalt-erbrecht/skills/internationalen-erbfall-bearbeiten/SKILL.md",
+      "fachanwalt-erbrecht/skills/internationalen-erbfall-bearbeiten/FACHINHALT.md",
       "fachanwalt-erbrecht/skills/internationalen-erbfall-bearbeiten/references/statut-staaten.md",
       "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/references/stufenantraege-vollstreckung.md"
     ]

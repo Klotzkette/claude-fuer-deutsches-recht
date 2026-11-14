@@ -38,9 +38,9 @@ Ein vollständiges Quellarchiv darf sie enthalten und ist kein Plugin.
 Nur zwei Rollen enthielten den zu beanstandenden Skillpfad:
 
 - `vergabestelle-behoerden/skills/vergaberechtliche-pruefung-anwaltlich-megaprompt/SKILL.md`
-  wurde zu `vergabestelle-behoerden/skills/vergaberechtliche-pruefung-anwaltlich/SKILL.md`.
+  wurde zu `vergabestelle-behoerden/skills/vergaberechtliche-pruefung-anwaltlich/FACHINHALT.md`.
 - `bieter-unternehmen/skills/vergaberechtliche-pruefung-anwaltlich-megaprompt/SKILL.md`
-  wurde zu `bieter-unternehmen/skills/vergaberechtliche-pruefung-anwaltlich/SKILL.md`.
+  wurde zu `bieter-unternehmen/skills/vergaberechtliche-pruefung-anwaltlich/FACHINHALT.md`.
 
 Frontmatter, aktive Verweise, Index und Regressionstests verwenden den neuen
 Slug. Die dritte Rolle enthielt keinen solchen Skill; kein Skill wurde

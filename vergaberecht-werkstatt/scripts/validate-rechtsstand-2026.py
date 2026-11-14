@@ -11,6 +11,8 @@ from legal_artifact_text import binary_legal_files, read_binary_legal_text
 
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT.parent / "scripts"))
+from skill_sources import fachinhalt_path
 LEGAL_TEXT_SUFFIXES = {".md", ".eml", ".txt", ".csv", ".xml", ".json", ".html"}
 
 COMPLAINT_FILES = (
@@ -180,7 +182,7 @@ def main() -> int:
         for pattern, reason in FORBIDDEN_PATTERNS.items():
             if re.search(pattern, text, flags=re.IGNORECASE):
                 errors.append(f"{relative}: veraltetes Rechtsmuster /{pattern}/: {reason}")
-        if "skills" in relative.parts and path.name == "SKILL.md":
+        if "skills" in relative.parts and path.name in {"SKILL.md", "FACHINHALT.md"}:
             for match in OLG_CASE_RE.finditer(text):
                 case = re.sub(r"\s+", " ", match.group(1)).strip()
                 if case not in APPROVED_OLG_SKILL_CASES:
@@ -208,8 +210,9 @@ def main() -> int:
         ("§ 187", "paragraf 187"),
     )
     for relative in COMPLAINT_FILES:
-        path = ROOT / relative
-        if not path.exists():
+        try:
+            path = fachinhalt_path(ROOT / relative)
+        except FileNotFoundError:
             errors.append(f"{relative}: Pflichtdatei fehlt")
             continue
         errors.extend(require_terms(path.read_text(encoding="utf-8"), relative, complaint_groups))
@@ -221,15 +224,17 @@ def main() -> int:
         ("§ 187", "paragraf 187"),
     )
     for relative in PROTECTION_FILES:
-        path = ROOT / relative
-        if not path.exists():
+        try:
+            path = fachinhalt_path(ROOT / relative)
+        except FileNotFoundError:
             errors.append(f"{relative}: Pflichtdatei fehlt")
             continue
         errors.extend(require_terms(path.read_text(encoding="utf-8"), relative, protection_groups))
 
     for relative in ESPD_FILES:
-        path = ROOT / relative
-        if not path.exists():
+        try:
+            path = fachinhalt_path(ROOT / relative)
+        except FileNotFoundError:
             errors.append(f"{relative}: Pflichtdatei fehlt")
             continue
         errors.extend(require_terms(path.read_text(encoding="utf-8"), relative, (("C-812/24",),)))
@@ -243,8 +248,9 @@ def main() -> int:
         ("kommissionsfeststellung", "artikel 29"),
     )
     for relative in NET_ZERO_FILES:
-        path = ROOT / relative
-        if not path.exists():
+        try:
+            path = fachinhalt_path(ROOT / relative)
+        except FileNotFoundError:
             errors.append(f"{relative}: Pflichtdatei fehlt")
             continue
         errors.extend(require_terms(path.read_text(encoding="utf-8"), relative, net_zero_groups))
@@ -256,8 +262,9 @@ def main() -> int:
         ("1370/2007",),
     )
     for relative in PUBLIC_TRANSPORT_FILES:
-        path = ROOT / relative
-        if not path.exists():
+        try:
+            path = fachinhalt_path(ROOT / relative)
+        except FileNotFoundError:
             errors.append(f"{relative}: Pflichtdatei fehlt")
             continue
         errors.extend(
@@ -275,8 +282,9 @@ def main() -> int:
         ("nicht vorhandenen § 15 abs. 7",),
     )
     for relative in BUNDESWEHR_FILES:
-        path = ROOT / relative
-        if not path.exists():
+        try:
+            path = fachinhalt_path(ROOT / relative)
+        except FileNotFoundError:
             errors.append(f"{relative}: Pflichtdatei fehlt")
             continue
         errors.extend(require_terms(path.read_text(encoding="utf-8"), relative, bundeswehr_groups))

@@ -1,0 +1,21 @@
+  OK        1. Validatoren (11038 ms)
+  OK        2. Marketplace-Manifest (18 ms)
+  OK        3. Skill-Anzahl pro Plugin (1372 ms)
+  OK        4. Megaprompt und Miniprompt Groessen (22 ms)
+  OK        5. Plugin-Description Marketplace-Limit (18 ms)
+  OK        6. Testakten (77 ms)
+  OK        7. Anker-Rechtsprechung verifizieren (117 ms)
+  OK        8. Schwellenwert-Aktualität (144 ms)
+  OK        9. Bund-Länder-Reform und Wertgrenzen (8 ms)
+  OK       10. Datenformate und Uploadrouting (2678 ms)
+  OK       11. Insolvenz und § 132 GWB (1334 ms)
+  OK       12. Konkurrentenrechtsschutz (9 ms)
+  OK       13. Lokale Suffixartefakte (21 ms)
+  OK       14. Prompt-Routing und autarker Fallback (11479 ms)
+  OK       15. C-268/25 Bietergemeinschaft (15 ms)
+  SCHNELL  16. Git-Status (ausgelassen)
+  SCHNELL  17. Testakten-Datenwusel ohne Markdown (ausgelassen)
+  OK       18. Übersichtslinks und Schnellzugriff (286 ms)
+  MANUELL  19. GitHub Release
+run-smoke-tests: 16/16 ausgefuehrte Abschnitte OK, 2 schnell ausgelassen, 1 manuell, 28635 ms gesamt
+OK

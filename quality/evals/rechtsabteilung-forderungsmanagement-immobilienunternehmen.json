@@ -17,7 +17,7 @@
   "cases": [
     {
       "id": "lange-belegdublette",
-      "target_skill": "03-kontoauszug-mietkonto-auslesen",
+      "target_skill": "anspruch-bearbeiten",
       "request": "Unsere Immobilien-Rechtsabteilung erhält zur Akte Lange ein Mietkonto, eine Bankanzeige zur ersten Rate und dieselbe Bankanzeige als erneute Übersendung. Die Juni-Miete ist noch offen. Gleiche die Buchungen ab und formuliere eine Kulanzantwort. Der Unternehmensname und die Freigabeperson sind noch nicht bestätigt; nichts versenden.",
       "input_files": [],
       "deliverables": [

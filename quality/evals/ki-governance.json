@@ -76,7 +76,7 @@
     {
       "id": "agenten-digitalrecht-2026",
       "request": "Ein Agent hat einem Kunden eine nicht vereinbarte Liefergarantie bestätigt. Der Kunde verlangt Ersatz reiner Geschäftseinbußen. Die Leitung meint, das Modell sei selbst verantwortlich, jede Haftung sei versichert und die neue Produkthaftungsrichtlinie entscheide schon im Oktober 2026 den Fall unmittelbar. Erstellen Sie einen internen Haftungsvermerk und eine Deckungsanfrage auf Grundlage des noch anzufordernden Vertrags und der Police. Keine Anerkenntnisse abgeben.",
-      "target_skill": "ki-haftung-und-versicherung",
+      "target_skill": "rolle-und-lieferkette-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Haftungsvermerk.docx",
@@ -139,7 +139,7 @@
           ]
         }
       ],
-      "target_skill": "ki-incident-management-art-73"
+      "target_skill": "rolle-und-lieferkette-bearbeiten"
     }
   ],
   "workshop_review": {

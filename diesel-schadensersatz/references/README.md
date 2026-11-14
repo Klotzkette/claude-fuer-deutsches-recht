@@ -1,6 +1,6 @@
 # Fachquellen und Referenzen
 
-[Plugin-README](../README.md) | [Repository-Start](../../README.md) | [Download-Index](../../ASSET_INDEX.md) | [Werkzeuge](../tools/README.md) | [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/diesel-schadensersatz.zip)
+[Plugin-README](../README.md) | [Repository-Start](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) | [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) | [Werkzeuge](../tools/README.md) | [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/diesel-schadensersatz.zip)
 
 Diese Dateien bilden die fachliche Wissens- und Quellenebene des Dieselgate-Plugins und werden unmittelbar mit dem installierbaren Plugin ausgeliefert.
 

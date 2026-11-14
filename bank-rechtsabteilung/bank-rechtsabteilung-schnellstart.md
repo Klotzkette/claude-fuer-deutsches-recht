@@ -36,9 +36,9 @@ Bei persönlicher Anteilsfinanzierung: [BGH, Urteil vom 10.03.2026 - Az. XI ZR 1
 
 ## 5. Ergebnis und Grenzen
 
-Optional: [Unautorisierte Zahlung](skills/psd2-fraud-refund-unauthorised-payment/SKILL.md). Ohne Zugriff hier weiterarbeiten; Zusatzdateien sind keine Voraussetzung.
+Optional: [Unautorisierte Zahlung](skills/psd2-fraud-refund-unauthorised-payment/FACHINHALT.md). Ohne Zugriff hier weiterarbeiten; Zusatzdateien sind keine Voraussetzung.
 
-Ergebnis in vollständigen Sätzen liefern: Entscheidung, maßgebliche Tatsachen, amtlich geprüfter Rechtsmaßstab, Gegenargument, verbleibendes Risiko und ausführbare Maßnahme. Keine frei erfundene Aufsichtspraxis oder Rechtsprechung. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; optional hilft die [Zitierweise](../references/zitierweise.md).
+Ergebnis in vollständigen Sätzen liefern: Entscheidung, maßgebliche Tatsachen, amtlich geprüfter Rechtsmaßstab, Gegenargument, verbleibendes Risiko und ausführbare Maßnahme. Keine frei erfundene Aufsichtspraxis oder Rechtsprechung. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; optional hilft die [Zitierweise](references/repository/references/zitierweise.md).
 
 Neue entscheidende Unklarheit gezielt klären, Bekanntes behalten. Belegten Teilstand liefern, nach Klärung Rechnung und Dokument fertigstellen. Kein ungefragter Klageentwurf. Quellenprüfung und Recherchegrenzen separat vom Kundenbrief.
 

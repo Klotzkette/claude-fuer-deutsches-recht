@@ -18,7 +18,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 
-MAX_SKILLS_PER_PLUGIN = 320
+MAX_SKILLS_PER_PLUGIN = 20
 MAX_DESCRIPTION_CHARS_PER_PLUGIN = 55_000
 MAX_SKILL_LINES = 500
 MAX_REFERENCE_BYTES = 96 * 1024
@@ -28,7 +28,7 @@ MAX_PLUGIN_BYTES = 200 * 1024 * 1024
 # bisherigen Niveau begrenzt; neue eigenständige Plugins erhöhen nicht das
 # zulässige Routingbudget eines einzelnen installierten Plugins.
 BASELINE_PLUGIN_COUNT = 287
-MAX_TOTAL_SKILLS = 23_000
+MAX_TOTAL_SKILLS = BASELINE_PLUGIN_COUNT * MAX_SKILLS_PER_PLUGIN
 MAX_TOTAL_DESCRIPTION_CHARS = 3_630_000
 MAX_ROUTER_REFERENCE_BYTES = 40 * 1024
 
@@ -57,7 +57,7 @@ def catalog_limits(plugin_count: int) -> tuple[int, int]:
     # Kleinere Kataloge behalten das bisherige Budget; Wachstum oberhalb des
     # Ausgangsbestands wird proportional, ohne Aufrundungsbonus berücksichtigt.
     count = max(BASELINE_PLUGIN_COUNT, plugin_count)
-    return (MAX_TOTAL_SKILLS * count // BASELINE_PLUGIN_COUNT,
+    return (MAX_SKILLS_PER_PLUGIN * plugin_count,
             MAX_TOTAL_DESCRIPTION_CHARS * count // BASELINE_PLUGIN_COUNT)
 
 
@@ -121,7 +121,10 @@ def plugin_metrics(plugin: dict[str, object]) -> dict[str, object]:
         if EMBEDDED_CATALOG_HEADING in text:
             embedded_catalogs.append(str(skill_path.relative_to(REPO)))
 
-    for reference_path in sorted((plugin_dir / "skills").glob("*/references/*.md")):
+    references = set((plugin_dir / "skills").glob("*/FACHINHALT.md"))
+    references.update(path for path in (plugin_dir / "skills").rglob("*.md")
+                      if "references" in path.relative_to(plugin_dir / "skills").parts)
+    for reference_path in sorted(references):
         size = reference_path.stat().st_size
         if size > MAX_REFERENCE_BYTES:
             large_references.append((str(reference_path.relative_to(REPO)), size))
@@ -161,7 +164,9 @@ def runtime_route_errors(plugin_dir: Path, name: str) -> list[str]:
     elif name == "kartellrecht-marktabgrenzung-pruefung":
         forbidden.update(slug for slug in slugs if slug.startswith("jurisdiktion-"))
     elif name == "steuerrecht-anwalt-und-berater":
-        forbidden.update(slug for slug in slugs if slug.startswith("lohn-"))
+        # Ein gebündelter Arbeitsweg ersetzt die früheren Einzelserien.
+        # Weitere lohn-Selektoren bleiben verboten; die 20er-Grenze gilt daneben.
+        forbidden.update(slug for slug in slugs if slug.startswith("lohn-") and slug != "lohn-personal-steuer-sv-bearbeiten")
         forbidden.update(slug for slug in slugs if slug.startswith("bwa-") and slug != "bwa-analyse-und-mandantenbericht")
         forbidden.update(slug for slug in slugs if slug.startswith("sanierungsgewinn-") and slug != "sanierungsgewinn-steuerpruefung")
     elif name == "grosskanzlei-corporate-ma":
@@ -202,7 +207,7 @@ def main() -> int:
         if item["skills"] > MAX_SKILLS_PER_PLUGIN:
             errors.append(
                 f"{name}: {item['skills']} Skills überschreiten das Budget von "
-                f"{MAX_SKILLS_PER_PLUGIN}; Normserien als Referenzbibliothek ablegen"
+                f"{MAX_SKILLS_PER_PLUGIN}; Fachtexte einem passenden Arbeitsweg als lokale Vertiefung zuordnen"
             )
         if item["description_chars"] > MAX_DESCRIPTION_CHARS_PER_PLUGIN:
             errors.append(

@@ -61,9 +61,9 @@ Die wiederkehrenden Abläufe einer Kanzlei (Tagesstart, neue Anfrage, Posteingan
 
 ## 1.11. Kanzleistart und neue Post
 
-Bei einer Neugründung beginnt [Kanzlei gründen und einrichten](../skills/kanzlei-gruenden-einrichten/SKILL.md) mit den vorhandenen Organisationsunterlagen. Der Befehl `/kanzlei-starten` erstellt daraus Zuständigkeiten, führende Systeme, einen begrenzten Zugriffsrahmen und ein Probeprotokoll. Eine zusätzliche lokale Datenbank ersetzt keine bestehende Kanzleisoftware und keinen führenden Fristenkalender. Die Freigabe für echte Mandatsdaten setzt die gesonderte Prüfung von Berufsrecht, Dienstleisterbedingungen und Schutzmaßnahmen voraus.
+Bei einer Neugründung beginnt [Kanzlei gründen und einrichten](../skills/kanzlei-gruenden-einrichten/FACHINHALT.md) mit den vorhandenen Organisationsunterlagen. Der Befehl `/kanzlei-starten` erstellt daraus Zuständigkeiten, führende Systeme, einen begrenzten Zugriffsrahmen und ein Probeprotokoll. Eine zusätzliche lokale Datenbank ersetzt keine bestehende Kanzleisoftware und keinen führenden Fristenkalender. Die Freigabe für echte Mandatsdaten setzt die gesonderte Prüfung von Berufsrecht, Dienstleisterbedingungen und Schutzmaßnahmen voraus.
 
-[Posteingang zuordnen](../skills/posteingang-mandate-zuordnen/SKILL.md) übernimmt neue Nachrichten mit ihren Originalen und Anhängen. Nachricht, Anlage, Mandant und Mandat bleiben verschiedene Einheiten. Ein Suchergebnis ist kein Nachweis über das gesamte Postfach. Nach Unterbrechung werden letzte vollständig bearbeitete Nachricht, offene Anhänge und Suchgrenzen übernommen; unklare Zuordnungen werden nicht geraten.
+[Posteingang zuordnen](../skills/posteingang-mandate-zuordnen/FACHINHALT.md) übernimmt neue Nachrichten mit ihren Originalen und Anhängen. Nachricht, Anlage, Mandant und Mandat bleiben verschiedene Einheiten. Ein Suchergebnis ist kein Nachweis über das gesamte Postfach. Nach Unterbrechung werden letzte vollständig bearbeitete Nachricht, offene Anhänge und Suchgrenzen übernommen; unklare Zuordnungen werden nicht geraten.
 
 ## 1.12. Ausführung im freigegebenen Computerlauf
 

@@ -7,6 +7,7 @@ import importlib.util
 import re
 import unittest
 from quality_lab import load, validate_profile
+from skill_sources import fachinhalt_path, original_skill_sources
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -136,14 +137,14 @@ class OmnibusTests(unittest.TestCase):
 
     def test_transparency_roles_are_not_swapped(self):
         path = ROOT / "ki-vo-ai-act-pruefer/skills/begrenztes-risiko-art-50-transparenzpflichten/SKILL.md"
-        text = path.read_text()
+        text = fachinhalt_path(path).read_text()
         for token in ("Absatz 2: Anbieter", "Absatz 3: Betreiber", "Absatz 4: Betreiber",
                       "Artikel 111 Absatz 4", "Betreiberhinweise aus Absatz 4"):
             self.assertIn(token, text)
         self.assertNotIn("Deepfake-Kennzeichnungspflicht (Art. 50 Abs. 2", text)
 
     def test_conformity_and_machine_routes(self):
-        text = (ROOT / "ki-vo-ai-act-pruefer/skills/hochrisiko-konformitaetsbewertung-art-43/SKILL.md").read_text()
+        text = fachinhalt_path(ROOT / "ki-vo-ai-act-pruefer/skills/hochrisiko-konformitaetsbewertung-art-43/SKILL.md").read_text()
         for token in ("Nummern 2 bis 8", "Anhang VI", "Anhang VII", "Abschnitt B",
                       "nicht ausnahmslos eine Drittprüfung"):
             self.assertIn(token, text)
@@ -152,7 +153,10 @@ class OmnibusTests(unittest.TestCase):
 
     def test_changed_skills_use_local_reference(self):
         for plugin in PLUGINS:
-            for path in (ROOT / plugin / "skills").glob("*/SKILL.md"):
+            # Die erhaltenen Fachtexte bleiben Gegenstand der Quellenprüfung;
+            # hinzugekommene Auswahlwege werden zusätzlich auf lokale Links geprüft.
+            paths = set(original_skill_sources(ROOT / plugin)) | set((ROOT / plugin / "skills").glob("*/SKILL.md"))
+            for path in paths:
                 text = path.read_text()
                 for link in re.findall(r"\]\(([^)]+digitaler-omnibus-2026\.md)\)", text):
                     target = (path.parent / link).resolve()

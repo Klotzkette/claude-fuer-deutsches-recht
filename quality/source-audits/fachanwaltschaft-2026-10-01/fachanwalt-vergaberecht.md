@@ -32,10 +32,10 @@ Werkstatt und Mini enthalten beide aktuellen Anker mit Datum, Aktenzeichen und a
 
 - [fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md](../../../fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md)
 - [fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md](../../../fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md)
-- [fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md](../../../fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md)
-- [fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md](../../../fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md)
+- [fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md)
+- [fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md)
 - [fachanwalt-vergaberecht/skills/juristischer-argumentationskern/SKILL.md](../../../fachanwalt-vergaberecht/skills/juristischer-argumentationskern/SKILL.md)
-- [fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md](../../../fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md)
+- [fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md)
 
 ## 1.3. Prüfung
 

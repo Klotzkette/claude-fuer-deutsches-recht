@@ -307,12 +307,12 @@
       "fachanwalt-miet-wohnungseigentumsrecht/skills/modernisierung-rechnungsabgleich-erhaltungsanteil/SKILL.md",
       "fachanwalt-miet-wohnungseigentumsrecht/README.md",
       "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/weg-beschlusskompetenz/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/kuendigung/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-kuendigung/SKILL.md"
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/FACHINHALT.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/FACHINHALT.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/weg-beschlusskompetenz/FACHINHALT.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/FACHINHALT.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/kuendigung/FACHINHALT.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-kuendigung/FACHINHALT.md"
     ],
     "opening_change": "Geschuldete Miete und wirksame Beendigung statt abstraktem Auftrag; Hauptproblem vom Rechnungsbetrag zur konkreten Monatsmiete. Workflow-Ergänzung: Leer: Mietkonto und Kündigung, Abrechnungsabwehr oder WEG-Beschluss anbieten. Dateien ohne Aufgabe: Konto, Kostenbelege und Beschluss still lesen; Zahlungs-, Modernisierungs- oder Beschlussziel klären. Klarer Auftrag: konkrete Rechnung, Einwendung oder Klagevorbereitung unmittelbar bearbeiten; bekannte Wohnungsdaten nicht wiederholen.",
     "norms": [

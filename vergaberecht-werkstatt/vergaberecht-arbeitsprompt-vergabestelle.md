@@ -7,17 +7,17 @@ Wenn Claude-Skills dieses Repos verfügbar sind, zuerst den passenden Skill lade
 | Trigger | Exakter Skill-Slug |
 |---|---|
 | Kaltstart, Aktenordner, ZIP, unklarer Stand | `vergabe-os-master-orchestrator` |
-| rote Frist, Rüge, § 134 GWB, VK oder OLG | `workflow-fristen-und-risikoampel` |
-| Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung | `eforms-ted-bekanntmachung-check` |
-| Bestangebot statt billigstes Angebot | `bestangebot-durchsetzen` |
-| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Resilienz oder Artikel 25 Verordnung EU 2024/1735 | `netto-null-technologien-vergabe` |
-| Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten | `10-zuschlagsmatrix-aufbauen` |
-| Wirklichkeitsdaten aus Bauwerk, PMS/BMS, BIM, Kosten, Klima, Normen oder Rechtsprechung | `wirklichkeitsdaten-beschaffung-steuern` |
-| SAP, ERP, AVA, DMS, API, MCP, Systemexport, Feldautorität, Datenherkunft oder Rückschreiben | `legacy-systeme-integration` |
-| LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen | `vergabeunterlagen-lv-datenformate-bereitstellen` |
-| Ausschluss, Wettbewerbsregister, Selbstreinigung oder Steuer-/Sozialabgabenproblem | `wettbewerbsregister-abfrage-selbstreinigung` |
-| Bundestariftreue, BTTG, Tariftreueversprechen, Nachunternehmerlohn oder Tariftreueklausel | `nachhaltigkeit-tariftreue-lksg-cbam` |
-| Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung | `23-stellungnahme-vergabekammer` |
+| rote Frist, Rüge, § 134 GWB, VK oder OLG | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` |
+| Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check` |
+| Bestangebot statt billigstes Angebot | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` |
+| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Resilienz oder Artikel 25 Verordnung EU 2024/1735 | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
+| Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` |
+| Wirklichkeitsdaten aus Bauwerk, PMS/BMS, BIM, Kosten, Klima, Normen oder Rechtsprechung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
+| SAP, ERP, AVA, DMS, API, MCP, Systemexport, Feldautorität, Datenherkunft oder Rückschreiben | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` |
+| Ausschluss, Wettbewerbsregister, Selbstreinigung oder Steuer-/Sozialabgabenproblem | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` |
+| Bundestariftreue, BTTG, Tariftreueversprechen, Nachunternehmerlohn oder Tariftreueklausel | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: nachhaltigkeit-tariftreue-lksg-cbam` |
+| Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer` |
 
 ## Null-Konfigurations-Start
 
@@ -103,7 +103,7 @@ Rechtsprechung nie als Schmuckzitat verwenden. Jeder Anker muss eine konkrete Ta
 | Russland-Sanktionsprüfung | EuGH 12.02.2026, C-313/24, Opera Laboratori Fiorentini | Bestehen faktische Kontrolle oder plausible Mittelumleitung statt nur russischer Organ-Nationalität? | Kontroll- und Zahlungsflussmatrix auf aktueller Fassung der VO (EU) 833/2014 |
 | Registerbuße und Ausschlussfolge | EuGH 22.01.2026, C-590/24, AK Dlhopolec u. a., ECLI:EU:C:2026:41 | Wurden Art, Schwere, Begehung und Folgen bei der Buße gewürdigt; welche eigene Norm trägt Register und Ausschluss? Die Vergabeausschlussfragen waren unzulässig. | getrennte Bußgeld-, Register-, Ausschluss- und Verhältnismäßigkeitsmatrix |
 | EU-Förderkorrektur | konkreter Förderakt und Vertrag; EuGH 09.07.2026, C-186/25, Institut po ribni resursi Varna, ECLI:EU:C:2026:567 | Sind Vollzugsverstoß, Finanzbezug, Vertragsstrafenfolge, Korrekturmethode und Verhältnismäßigkeit belegt? | individualisierte Korrekturmatrix; kein allgemeiner Rückforderungs- oder §-132-Automatismus |
-| Bundeswehrbeschaffung | `bundeswehrbeschaffung-bwbbg-2026`; §§ 1 bis 19 BwBBG, seit 14.02.2026; § 19-Übergang | Sind Bedarf, Auftraggeber, Schwelle und Zeit erfasst; welche Sondernorm verdrängt welchen regulären GWB-/VSVgV-Ausgang; greifen Drittstaaten- und Sonderrechtsschutz? | BwBBG-Freigabevermerk; fehlerhaften §-16-Abs.-4-Verweis auf nicht vorhandenen § 15 Abs. 7 offenlassen |
+| Bundeswehrbeschaffung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026`; §§ 1 bis 19 BwBBG, seit 14.02.2026; § 19-Übergang | Sind Bedarf, Auftraggeber, Schwelle und Zeit erfasst; welche Sondernorm verdrängt welchen regulären GWB-/VSVgV-Ausgang; greifen Drittstaaten- und Sonderrechtsschutz? | BwBBG-Freigabevermerk; fehlerhaften §-16-Abs.-4-Verweis auf nicht vorhandenen § 15 Abs. 7 offenlassen |
 | Bundestariftreue | §§ 1, 3, 5, 11, 14, 16 BTTG; § 160 Abs. 2 Satz 2 GWB | Greift der §-1-Regelbereich für Bundes-Bau/Dienstleistung/Konzession ab 50.000 Euro netto; ist § 16 einschlägig; besteht eine §-5-Verordnung; wird § 14 außerhalb der §-1-Regelgrenzen nur bei unanfechtbarer §-13-Feststellung angewandt; fehlt für einen Verordnungsangriff der rechtskräftige §-98-Abs.-4-ArbGG-Beschluss? | Anwendungsbereichs-, Verordnungsstatus- und Rechtsschutzblatt, Vertragsklauseln oder Ausschlussvermerk; reine Lieferaufträge nur aus dem §-1-Regelbereich nehmen |
 
 

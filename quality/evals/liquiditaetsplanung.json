@@ -148,7 +148,7 @@
           ]
         }
       ],
-      "target_skill": "forecast-wochenplanung"
+      "target_skill": "rollierende-planung-szenarien-bearbeiten"
     },
     {
       "id": "achtprozent-und-neue-faelligkeiten",

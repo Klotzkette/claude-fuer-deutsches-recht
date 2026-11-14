@@ -1,6 +1,6 @@
 # Aktenstart-, E-Akte- und beA-Assets
 
-[Plugin-README](../README.md) | [Repository-Start](../../README.md) | [Download-Index](../../ASSET_INDEX.md) | [Skill 20](../skills/20-eakte-export-kanzleisoftware/SKILL.md) | [Skill 21](../skills/21-bea-versandfertig-schriftsatz-anlagen/SKILL.md) | [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/diesel-schadensersatz.zip)
+[Plugin-README](../README.md) | [Repository-Start](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) | [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) | [Skill 20](../skills/20-eakte-export-kanzleisoftware/FACHINHALT.md) | [Skill 21](../skills/21-bea-versandfertig-schriftsatz-anlagen/FACHINHALT.md) | [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/diesel-schadensersatz.zip)
 
 Die Dateien sind neutrale, versionierte Verträge und Vorlagen für den sicheren Aktenstart, Kanzleisoftware-/DMS-Übergaben und beA-Versandkontrollen. Eine konkrete Importfähigkeit oder tatsächliche Gerichtseinreichung wird erst nach Zielsystem-, Anwalts- und Eingangskontrolle behauptet.
 

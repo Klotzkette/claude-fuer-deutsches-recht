@@ -14,6 +14,7 @@ import zipfile
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from release_routing import validate_plugin_version
+from skill_sources import active_owner, original_skill_sources, registry
 
 ROOT = Path(__file__).resolve().parents[1]
 COMPONENT = ROOT / "vergaberecht-werkstatt"
@@ -58,15 +59,34 @@ class ImportTests(unittest.TestCase):
     def test_registered_roles(self):
         marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         entries = {p["name"]: p for p in marketplace["plugins"]}
-        total = 0
+        total_modules = 0
+        total_active = 0
+        original_counts = {'vergabestelle-behoerden': 122, 'bieter-unternehmen': 113,
+                           'konkurrenten-rechtsschutz': 20}
+        registered = {(ROOT / p['source']).resolve(): p for p in registry()}
         for name in META["plugins"]:
             plugin = json.loads((COMPONENT / name / ".claude-plugin/plugin.json").read_text())
             self.assertEqual(entries[name]["source"], f"./vergaberecht-werkstatt/{name}")
             self.assertEqual(plugin["version"], entries[name]["version"])
             validate_plugin_version(entries[name], marketplace["version"], root=ROOT)
             self.assertEqual(plugin["description"], entries[name]["description"])
-            total += len(list((COMPONENT / name / "skills").glob("*/SKILL.md")))
-        self.assertEqual(total, 255)
+            directory = COMPONENT / name
+            active = {p.parent.name for p in (directory / 'skills').glob('*/SKILL.md')}
+            modules = original_skill_sources(directory)
+            self.assertEqual(len(modules), original_counts[name])
+            self.assertLessEqual(len(active), 20)
+            self.assertGreater(len(active), 0)
+            if record := registered.get(directory.resolve()):
+                self.assertEqual(active, set(record['keep']) | {r['slug'] for r in record['routes']})
+            else:
+                self.assertEqual(active, {p.parent.name for p in modules})
+            for source in modules:
+                self.assertTrue(source.is_file(), source)
+                self.assertIn(active_owner(directory, source.parent.name), active)
+            total_modules += len(modules)
+            total_active += len(active)
+        self.assertEqual(total_modules, 255)
+        self.assertEqual(total_active, 36)
 
     def test_standalones(self):
         for name in META["plugins"]:
@@ -119,6 +139,39 @@ class ImportTests(unittest.TestCase):
                 self.assertTrue(any(p.startswith("skills/") for p in names))
                 self.assertFalse(any("testakten/" in p or p.endswith(("-werkstatt.md", "-schnellstart.md")) for p in names))
                 self.assertIsNone(archive.testzip())
+                directory = COMPONENT / name
+                active = list((directory / 'skills').glob('*/SKILL.md'))
+                modules = original_skill_sources(directory)
+                source_names = set()
+                for source in directory.rglob('*'):
+                    if not source.is_file():
+                        continue
+                    relative = source.relative_to(directory)
+                    if (source.name == '.DS_Store' or '__pycache__' in relative.parts
+                            or source.suffix == '.pyc' or relative.as_posix() == 'CLAUDE.md'
+                            or (len(relative.parts) == 1 and source.name.endswith(('-werkstatt.md', '-schnellstart.md')))
+                            or source.name == 'llm-judge-eval.py'):
+                        continue
+                    source_names.add(relative.as_posix())
+                self.assertEqual(set(names), source_names | {'LICENSE', 'LICENSE-APACHE', 'LICENSE-MIT', 'NOTICE'})
+                self.assertLessEqual(len(active), 20)
+                self.assertEqual({n for n in names if n.startswith('skills/') and n.endswith('/SKILL.md')},
+                                 {p.relative_to(directory).as_posix() for p in active})
+                for source in set(active) | set(modules):
+                    self.assertEqual(archive.read(source.relative_to(directory).as_posix()), source.read_bytes())
+                for member in names:
+                    if member.endswith('/'):
+                        continue
+                    source = (COMPONENT if member in {'LICENSE', 'LICENSE-APACHE', 'LICENSE-MIT', 'NOTICE'} else directory) / member
+                    self.assertTrue(source.is_file(), member)
+                    self.assertEqual(archive.read(member), source.read_bytes(), member)
+            with zipfile.ZipFile(DIST / f'{name}-skills-markdown.zip') as archive:
+                expected = set(active) | set(modules)
+                expected_names = {p.relative_to(COMPONENT).as_posix() for p in expected}
+                actual_names = {n for n in archive.namelist() if '/skills/' in n}
+                self.assertEqual(actual_names, expected_names)
+                for source in expected:
+                    self.assertEqual(archive.read(source.relative_to(COMPONENT).as_posix()), source.read_bytes())
 
     def test_flat_case_archives(self):
         if DIST is None:

@@ -26,4 +26,4 @@ Den Brief mit Bezug auf das Mandat und verständlichem Ergebnis beginnen. Anschl
 
 Musterkern: „Auf Grundlage der bislang vorliegenden Unterlagen empfehlen wir [Handlung]. Dafür spricht [belegte Tatsache und Rechtsfolge]. Offen bleibt [entscheidende Frage]; hierfür benötigen wir bis [Datum] [konkrete Urkunde]. Unabhängig davon muss [Fristsicherungsmaßnahme] bis [Datum] veranlasst werden. Vor [Verfügung oder Vergleich] benötigen wir Ihre Freigabe.“
 
-Die Fristensicherung im Kalender oder der tatsächliche Versand darf erst nach ausgeführter Handlung als erledigt bezeichnet werden. Quellen nach [Zitierweise](../../../../references/zitierweise.md).
+Die Fristensicherung im Kalender oder der tatsächliche Versand darf erst nach ausgeführter Handlung als erledigt bezeichnet werden. Quellen nach [Zitierweise](../../../references/repository/references/zitierweise.md).

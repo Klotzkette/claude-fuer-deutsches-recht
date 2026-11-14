@@ -264,7 +264,7 @@
       "2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "331ccbacedfc2418d0d3d7c97fb54644603ea797a1bca532bb6dae5eedd75c32",
+    "sha256": "6ffc7b6db20b1203af09dca2a5c799e542c561eff75672d8d8617e1498433017",
     "previous_reviews": [
       {
         "sha256": "9875821950e39de2e81437f2e1a821cf2b7c3852eea739b6116cd238ec5946ff"
@@ -283,7 +283,7 @@
       "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
       "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
       "quality/evals/fachanwalt-bank-kapitalmarktrecht.json",
-      "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md"
+      "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/FACHINHALT.md"
     ],
     "opening_change": "Konkrete Rücknahme einer Kontobelastung, Ersatz eines Beratungsschadens oder Änderung einer Kreditklausel. Workflow-Ergänzung: Leer: Überweisungsreklamation, Beratungsschaden oder Kreditklausel anbieten. Dateien ohne Aufgabe: Zahlungsprotokolle, Beratungsmaterial und Ablehnung still lesen; Erstattung, Beweisprüfung oder Vertragsziel klären. Klarer Auftrag: Erstattungsforderung, Erwiderung oder Klausel direkt erstellen; keine ungefragte Kontenzusammenfassung.",
     "norms": [

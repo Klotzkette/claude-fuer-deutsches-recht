@@ -7,6 +7,7 @@ import importlib.util
 import sys
 from pathlib import Path
 from tempfile import TemporaryDirectory
+from unittest.mock import patch
 
 from themen_profile import PROFILE_BY_KEY
 
@@ -52,6 +53,25 @@ def main() -> int:
     material = [{"slug": "mietmangel", "heading": "Mietmangel", "desc": "Mietmangel und Mietminderung anhand Vertrag, Anzeige und Belegen prüfen.", "body": ""}]
     require(len(G.profile_fields(PROFILE_BY_KEY["miet"], material, 1)) == 1, "Feldbudget von einem Eintrag überschritten")
     require(G.profile_fields(PROFILE_BY_KEY["miet"], material, 0) == [], "Leeres Feldbudget wurde nicht beachtet")
+
+    with TemporaryDirectory() as folder:
+        plugin = Path(folder)
+        originals = []
+        for slug, description in (("berufung", "Berufungsfrist und Berufungsbegründung prüfen."),
+                                  ("revision", "Revisionszulassung und Rechtsfehler prüfen.")):
+            source = plugin / "skills" / slug / "FACHINHALT.md"
+            source.parent.mkdir(parents=True)
+            source.write_text(f'---\nname: {slug}\ndescription: "{description}"\n---\n\n# {slug.title()}\n\n{description}\n', encoding="utf-8")
+            originals.append(source)
+        router = plugin / "skills" / "rechtsschutz" / "SKILL.md"
+        router.parent.mkdir(parents=True)
+        router.write_text('---\nname: rechtsschutz\ndescription: Auswahl des Verfahrens.\n---\n\n# Rechtsschutz\n', encoding="utf-8")
+        with patch.object(G, "original_skill_sources", return_value=originals):
+            collected = G.collect_skill_material(plugin)
+        require({item["slug"] for item in collected} == {"berufung", "revision"},
+                "Aktiver Sammelrouter hat die erhaltenen Fachthemen verdrängt")
+        require(all(item["desc"] in item["raw"] and item["body"] for item in collected),
+                "Erhaltene Fachmodule verlieren Beschreibung oder fachlichen Textauszug")
 
     with TemporaryDirectory() as folder:
         plugin = Path(folder)

@@ -26,16 +26,16 @@ Wenn Fristdruck besteht, zuerst Kenntniszeitpunkt, Monatsfrist, 72-Stunden-Frist
 
 ## Fachlandkarte dieses Plugins
 
-- `anwendungsfall-triage` — erste Rollen-, Fristen- und Output-Weiche
-- `dsgvo-auskunft` — Auskunftsersuchen prüfen und beantworten
-- `datenschutz-loeschpflicht-art-17-und-aufbewahrung` — Löschung, Sperrung und Aufbewahrung trennen
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde` — Beschwerde- und Behördenpfad
-- `datenpanne-meldung` — Meldeentscheidung und 72-Stunden-Timeline
-- `meldung-art-33-pflichtangaben` — Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
-- `avv-art-28-mindestinhalte-checkliste` — Auftragsverarbeitungsvertrag prüfen
-- `avv-art-26-joint-controllership-deutsch` — AVV ART 26 Joint Controllership Deutsch
-- `drittlandstransfer-tia-scc` — Transfer Impact Assessment und Standardklauseln
-- `dokumente-intake` — Unterlagen sortieren und Lücken schließen
+- `datenschutz-aufnahme-grundlagen-bearbeiten` (Fachthema: anwendungsfall-triage) — erste Rollen-, Fristen- und Output-Weiche
+- `betroffenenrechte-auskunft-loeschung-bearbeiten` (Fachthema: dsgvo-auskunft) — Auskunftsersuchen prüfen und beantworten
+- `betroffenenrechte-auskunft-loeschung-bearbeiten` (Fachthema: datenschutz-loeschpflicht-art-17-und-aufbewahrung) — Löschung, Sperrung und Aufbewahrung trennen
+- `aufsicht-beschwerde-kooperation-bearbeiten` (Fachthema: datenschutz-beschwerde-art-77-aufsichtsbehoerde) — Beschwerde- und Behördenpfad
+- `datenpanne-reaktion-meldung-bearbeiten` (Fachthema: datenpanne-meldung) — Meldeentscheidung und 72-Stunden-Timeline
+- `datenpanne-reaktion-meldung-bearbeiten` (Fachthema: meldung-art-33-pflichtangaben) — Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
+- `avv-gemeinsame-verantwortung-bearbeiten` (Fachthema: avv-art-28-mindestinhalte-checkliste) — Auftragsverarbeitungsvertrag prüfen
+- `avv-gemeinsame-verantwortung-bearbeiten` (Fachthema: avv-art-26-joint-controllership-deutsch) — AVV ART 26 Joint Controllership Deutsch
+- `drittlandtransfer-scc-tia-bearbeiten` (Fachthema: drittlandstransfer-tia-scc) — Transfer Impact Assessment und Standardklauseln
+- `datenschutz-akte-qualitaet-bearbeiten` (Fachthema: dokumente-intake) — Unterlagen sortieren und Lücken schließen
 
 ## Arbeitsweg
 

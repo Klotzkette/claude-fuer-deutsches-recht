@@ -93,7 +93,7 @@
           ]
         }
       ],
-      "target_skill": "skill-installation-security-gate"
+      "target_skill": "installation-sicherheit-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

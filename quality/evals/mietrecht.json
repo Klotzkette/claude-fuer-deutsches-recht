@@ -153,7 +153,7 @@
           ]
         }
       ],
-      "target_skill": "mahnung-zahlungsverzug-mieter"
+      "target_skill": "kuendigung-und-rueckgabe-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -180,9 +180,9 @@
       "mietrecht/mietrecht-schnellstart.md",
       "mietrecht/mietrecht-werkstatt.md",
       "quality/evals/mietrecht.json",
-      "mietrecht/skills/mahnung-zahlungsverzug-mieter/SKILL.md",
-      "mietrecht/skills/weg-beschluss-anfechten/SKILL.md",
-      "mietrecht/skills/eigenbedarfskuendigung-erstellen/SKILL.md"
+      "mietrecht/skills/mahnung-zahlungsverzug-mieter/FACHINHALT.md",
+      "mietrecht/skills/weg-beschluss-anfechten/FACHINHALT.md",
+      "mietrecht/skills/eigenbedarfskuendigung-erstellen/FACHINHALT.md"
     ],
     "opening_change": "Kündigungsrelevanten Rückstand aus Monaten und Einwendungen berechnen; andere Mietstreitpunkte nach ihrem konkreten Anspruch bearbeiten.",
     "norms": [

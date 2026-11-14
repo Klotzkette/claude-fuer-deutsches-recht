@@ -42,9 +42,20 @@ python3 -c "import re, json; d=json.load(open('.claude-plugin/marketplace.json')
 ## 3. Skill-Anzahl pro Plugin
 
 ```bash
-test "$(find vergabestelle-behoerden/skills -maxdepth 2 -name SKILL.md | wc -l | tr -d ' ')" = "122"
-test "$(find bieter-unternehmen/skills -maxdepth 2 -name SKILL.md | wc -l | tr -d ' ')" = "113"
-test "$(find konkurrenten-rechtsschutz/skills -maxdepth 2 -name SKILL.md | wc -l | tr -d ' ')" = "20"
+python3 - <<'PYCOUNTS'
+from pathlib import Path
+import sys
+sys.path.append(str(Path('../scripts').resolve()))
+from skill_sources import original_skill_sources, registry
+for role, original_count in {'vergabestelle-behoerden': 122, 'bieter-unternehmen': 113, 'konkurrenten-rechtsschutz': 20}.items():
+    directory = Path(role).resolve()
+    assert len(original_skill_sources(directory)) == original_count, (role, 'Fachmodule fehlen')
+    entry = next((item for item in registry() if (Path('..') / item['source']).resolve() == directory), None)
+    expected = set(entry['keep']) | {route['slug'] for route in entry['routes']} if entry else {p.parent.name for p in original_skill_sources(directory)}
+    active = {p.parent.name for p in (directory / 'skills').glob('*/SKILL.md')}
+    assert active == expected and len(active) <= 20, (role, active, expected)
+    print(role, len(active), 'aktive Skills;', original_count, 'erhaltene Fachmodule')
+PYCOUNTS
 ```
 
 ## 4. Megaprompt und Miniprompt Groessen
@@ -159,11 +170,18 @@ Bundesreform und Landeswertgrenzen müssen in beiden Pluginrollen sichtbar sein.
 ## 10. Datenformate und Uploadrouting
 
 ```bash
-test -f bieter-unternehmen/skills/unterlagen-und-lv-datenformate-auslesen/SKILL.md
-test -f bieter-unternehmen/skills/angebot-in-vorgegebenem-format-erstellen/SKILL.md
-test -f vergabestelle-behoerden/skills/vergabeunterlagen-lv-datenformate-bereitstellen/SKILL.md
-test -f vergabestelle-behoerden/skills/bekanntmachung-berichtigung-und-upload-routing/SKILL.md
-test -f konkurrenten-rechtsschutz/skills/unterlagen-lv-formatangriff/SKILL.md
+python3 - <<'PYFILES'
+from pathlib import Path
+import sys
+sys.path.append(str(Path('../scripts').resolve()))
+from skill_sources import fachinhalt_path, active_owner
+for relative in ['bieter-unternehmen/skills/unterlagen-und-lv-datenformate-auslesen/SKILL.md', 'bieter-unternehmen/skills/angebot-in-vorgegebenem-format-erstellen/SKILL.md', 'vergabestelle-behoerden/skills/vergabeunterlagen-lv-datenformate-bereitstellen/SKILL.md', 'vergabestelle-behoerden/skills/bekanntmachung-berichtigung-und-upload-routing/SKILL.md', 'konkurrenten-rechtsschutz/skills/unterlagen-lv-formatangriff/SKILL.md']:
+    original = Path(relative)
+    source = fachinhalt_path(original)
+    assert source.is_file()
+    owner = active_owner(original.parents[2], original.parent.name)
+    assert (original.parents[2] / 'skills' / owner / 'SKILL.md').is_file()
+PYFILES
 test -f vergabestelle-behoerden/assets/templates/systemuebergabe-entscheidungsdaten.md
 test -f bieter-unternehmen/assets/templates/angebotsfreeze-systemuebergabe.md
 test -f konkurrenten-rechtsschutz/assets/templates/beweiskette-systemexport.md
@@ -176,8 +194,18 @@ Neue Format-Workflows müssen in allen betroffenen Plugins, Unified Mini Prompts
 ## 11. Insolvenz und § 132 GWB
 
 ```bash
-test -f bieter-unternehmen/skills/insolvenz-und-132-gwb-auftragnehmerwechsel/SKILL.md
-test -f vergabestelle-behoerden/skills/insolvenz-und-132-gwb-auftragnehmerwechsel/SKILL.md
+python3 - <<'PYFILES'
+from pathlib import Path
+import sys
+sys.path.append(str(Path('../scripts').resolve()))
+from skill_sources import fachinhalt_path, active_owner
+for relative in ['bieter-unternehmen/skills/insolvenz-und-132-gwb-auftragnehmerwechsel/SKILL.md', 'vergabestelle-behoerden/skills/insolvenz-und-132-gwb-auftragnehmerwechsel/SKILL.md']:
+    original = Path(relative)
+    source = fachinhalt_path(original)
+    assert source.is_file()
+    owner = active_owner(original.parents[2], original.parent.name)
+    assert (original.parents[2] / 'skills' / owner / 'SKILL.md').is_file()
+PYFILES
 test -f bieter-unternehmen/references/INSOLVENZ-132-GWB.md
 test -f vergabestelle-behoerden/references/INSOLVENZ-132-GWB.md
 test -d testakten/05-insolvenz-auftragnehmerwechsel-132-gwb

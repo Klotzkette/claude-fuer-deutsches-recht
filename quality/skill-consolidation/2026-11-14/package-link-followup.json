@@ -1,0 +1,856 @@
+{
+  "schema_version": 1,
+  "scope": "Nur vorhandene zentrale Belege und eigenständige Prompt-Downloads verlinken; keine fachliche Neubewertung",
+  "source_map_before_sha256": "8671a39dce16420a021ce25596019c2a33302c4a98846364a0a0082da8bc2ade",
+  "files": [
+    {
+      "path": "arbeitszeugnispruefer/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "500f5498a5c27125bce3ee06859e0934a826f124288bf11dde8b4908fe7b7026",
+      "sha256": "bd51f9932ac2b4f77bcf745a584c64ef982698a529cf500b1f21f760bf2977e8",
+      "edits": [
+        {
+          "before_offset": 6111,
+          "after_offset": 6111,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "beamtenrecht/references/QUELLEN.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "5a42989a52b996887e64cd8beb902af35f97325c6f1ad4a802744887bda98f2e",
+      "sha256": "35a44485647c7d9ff3544905b65d39c4aedbadd599c1f48afb17f8ed2e7f8bb6",
+      "edits": [
+        {
+          "before_offset": 799,
+          "after_offset": 799,
+          "before": "../../recherche/beamtenrecht-und-richterrecht/",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/recherche/beamtenrecht-und-richterrecht"
+        }
+      ]
+    },
+    {
+      "path": "berichtspflichten-erlediger/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "74d57332f2f3d288528948c2423077f1e06cb910401c3a3b9129a8b3411fa59f",
+      "sha256": "085adbac3cbfcd80890abbffa16eab1ee80e9d00a6fa18be3eb4eb85e6ab0b55",
+      "edits": [
+        {
+          "before_offset": 4974,
+          "after_offset": 4974,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "berufsgerichtliche-verfahren-freie-berufe/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "25b61eab1022ef08bd57d450563d9f703b7b8e972bdc7dfff7b67288858ac853",
+      "sha256": "a0aa06cfbbc2ae16b4ffe5e891fa3d3fb90d67ed7a92b6f6abd61f6e832f7e0a",
+      "edits": [
+        {
+          "before_offset": 5209,
+          "after_offset": 5209,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "berufsrecht-anwaelte/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "5df50b5734c6c7f03346e2dd80d005adb6ed0f53d109a8e8feee878af1dbc4d3",
+      "sha256": "85a0575302e2f0cb9e26da15934dc69b100f926506fe28f0416786d24665789e",
+      "edits": [
+        {
+          "before_offset": 5133,
+          "after_offset": 5133,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "berufsrecht-ki-vertragspruefung/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "a1b2e7e05d40251c47e74c59c6c2a340df004f1b4898d282252f4e4a66eb596d",
+      "sha256": "b3bb1524e619cec98dadfa43f737712cfc0d0ac6450b59c5063ca54c6313c628",
+      "edits": [
+        {
+          "before_offset": 5199,
+          "after_offset": 5199,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "corporate-kanzlei/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "5597f8bae17bda37aa08aa93570f39a2186d8ed8f9fe2113f41f6f1f6ef7ae8b",
+      "sha256": "6d567b2ebda44c2c2c8cdd93a887972d7d6abc0a1f2b1d86a4f4faf9ff8d8db1",
+      "edits": [
+        {
+          "before_offset": 5512,
+          "after_offset": 5512,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "datenschutz-sanktionsverfahren-verteidigung/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "262da6b7cb535665317ecb44aa1aee8302a968d1a18c3cdbb050d37ebf4f8a7b",
+      "sha256": "0f267e8f6bfd535bfd20065452ecec84178c41c6a6102c2659a3fc45119eaba8",
+      "edits": [
+        {
+          "before_offset": 5960,
+          "after_offset": 5960,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "datenschutzrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "6212c4a3b1dd9c3e85d5ca3d7ea538837e42f49ec87191d329a07f5247daea84",
+      "sha256": "9bddd2f678a85e4c5763e5956e31b69660e5dea11ff1b97caef9ab277343c9b7",
+      "edits": [
+        {
+          "before_offset": 5943,
+          "after_offset": 5943,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "diesel-schadensersatz/skills/README.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "b401fca4687a4fa920db19c8a2f97bf13e79ca731bdf3db739d54c6b1658a86a",
+      "sha256": "2e6746f111a50d84a311d45a2702563727b139ab180f0cfec62d96fcc04e1759",
+      "edits": [
+        {
+          "before_offset": 260,
+          "after_offset": 260,
+          "before": "../diesel-schadensersatz-schnellstart.md",
+          "after": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-schnellstart.md"
+        },
+        {
+          "before_offset": 316,
+          "after_offset": 411,
+          "before": "../diesel-schadensersatz-werkstatt.md",
+          "after": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-werkstatt.md"
+        }
+      ]
+    },
+    {
+      "path": "dsa-dma-digitalregulierung/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "c258fee6e5ffbff958630d1434f5c1a639530f8267378e5633863f3710fd3af9",
+      "sha256": "22a10893dcde5392cfb1a2c156fe1f39fb90ccd5a62f2e8cbf1035df66f34005",
+      "edits": [
+        {
+          "before_offset": 5101,
+          "after_offset": 5101,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "ecommerce-recht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "f961967cc4adc5805a0c1211f15a87a20cc39906e8c6fa7e78c7f1045ba1a12f",
+      "sha256": "1928a50f74dcad1a7aef9d44be5a890cce17d79fd263e3d5e6d92bb6d4f00f62",
+      "edits": [
+        {
+          "before_offset": 4861,
+          "after_offset": 4861,
+          "before": "../../testakten/ki-verbot-regnitz-sorglosabo/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-verbot-regnitz-sorglosabo/README.md"
+        }
+      ]
+    },
+    {
+      "path": "europarecht-kompass/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "2f5425dbdbb0b60ed94fbdfae09000769b797c9b99b9e832162ee212e75529e5",
+      "sha256": "196067f536b70fea0ad6047d7d2849575b59bb53f9c2c9c822218a87106c0217",
+      "edits": [
+        {
+          "before_offset": 6364,
+          "after_offset": 6364,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "ed29a33ca7d59571b32e7ac6cc2634a69d15e32a9d7f608674eae1d005702074",
+      "sha256": "60f084010ba0be9ab9eb3acc1526c5d8f0509016854343a994fccf7d541a8cdf",
+      "edits": [
+        {
+          "before_offset": 5159,
+          "after_offset": 5159,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "fachanwalt-insolvenz-sanierungsrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "b59ad9cee10c394de56faad8cb1f979a0869a6cf8146f1494edbaf34e37d341c",
+      "sha256": "b851b5e81ab0c660a4192b8e8198da7c07c0a8b86cb463730663884bef6d86e2",
+      "edits": [
+        {
+          "before_offset": 5516,
+          "after_offset": 5516,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "fachanwalt-it-recht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "7bbcdfd93e2cdac432196898fd95a9b531cdb63a065e03b8be894d522929efb2",
+      "sha256": "189f9b7bbe4a0e8460dec562e9516eb2dbc51811de3dbcc8b16536d39ff78c7f",
+      "edits": [
+        {
+          "before_offset": 5520,
+          "after_offset": 5520,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "fachanwalt-medizinrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "0c8e0247d58ef43ef83885f3d4930c5b348211ac5e5500e4c85529cda1c3563f",
+      "sha256": "c6c770f39dea7742d667421ea44a712c981f150f06e874cfec09590b59f1c995",
+      "edits": [
+        {
+          "before_offset": 5488,
+          "after_offset": 5488,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "fachanwalt-strafrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "d1a838330de3c962d0c1104ed7bb883adaf8abefc0b54491659228590ef6677e",
+      "sha256": "506dadfaccd2619e7209d361b843663e7a672fc971628b7871449a9f4ee4c30b",
+      "edits": [
+        {
+          "before_offset": 6253,
+          "after_offset": 6253,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "fachanwalt-urheber-medienrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "8caefce83e375b9d38754f588499dcdf955294872b7fc685e0bbe9eafe11930a",
+      "sha256": "afc9472633034dde30a1fce3fc02fac4b879c54e7bbb1e6e9340741ee95410a3",
+      "edits": [
+        {
+          "before_offset": 5057,
+          "after_offset": 5057,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "fachanwalt-vergaberecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "bc83e77204f7d6f73a027f70958ba37b1131add660ed0217cec8476115566152",
+      "sha256": "f25fba2b52509b90d94cf426ae47c3db0bd98c7922a813e8d70b1de04c0fe329",
+      "edits": [
+        {
+          "before_offset": 6248,
+          "after_offset": 6248,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "grosskanzlei-corporate-ma/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "19f801cc86b05013075c00368e3f45dbac1ba7511d67857c7aeee104d58f6804",
+      "sha256": "592727726f47c174b8c0ff4f316099f90060ee36f59ae7a2b65e68b1766decd5",
+      "edits": [
+        {
+          "before_offset": 5487,
+          "after_offset": 5487,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "hausarbeitenmacher/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "8008c4d6e5f5dac971b3f8f2050436d083d65e79c820eb76f98e8c7317910d66",
+      "sha256": "e8d654e0a0a47169a61fc2daecab39971adbe4c106b89bc587ef260b2222646a",
+      "edits": [
+        {
+          "before_offset": 4900,
+          "after_offset": 4900,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "influencer-recht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "44d74a30ce466fc5506aa828aa5f331bc80d43f9b90b2fd32523a33b9a1be6d1",
+      "sha256": "e066832f4631aeea13ece8442b0ca1869aa89a675a814205b3446b3824315ce6",
+      "edits": [
+        {
+          "before_offset": 5090,
+          "after_offset": 5090,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "insiderrecht-compliance/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "7bd9ef242ec6738e0da9e9eb9a12388fbe8f758af42c174249a37c16f1bd350b",
+      "sha256": "6801e360c6f37a598588c1e97589e1ec1fefb3ebc7225b15a144c8aa0ead468b",
+      "edits": [
+        {
+          "before_offset": 4981,
+          "after_offset": 4981,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "internationales-handelsrecht-lex-mercatoria/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "f90e999ab8206123c46392c439d00b8012a64a8c48317d8dd907f27dd03782d1",
+      "sha256": "3202e4abddcdd6c4f66e72bcaa0cb518ec3ca672879bae7f3078ba345d16b393",
+      "edits": [
+        {
+          "before_offset": 5459,
+          "after_offset": 5459,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "kanzlei-allgemein/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "0294b2d8ae085692b955769465f09838bfc763967de358cfa79d9cc76d14f505",
+      "sha256": "35d536db7b964f78c2d115819f2f46c42b49df12d95dd1a7c661028c656ceac6",
+      "edits": [
+        {
+          "before_offset": 5170,
+          "after_offset": 5170,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "kanzlei-builder-hub/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "80e9ca24a458986651e1ccfe94efdbfb9f7061ff3081fdb399499e91d0355e7d",
+      "sha256": "c41862261d72a9ead41af4a26a876caf98cde42ce96c46a2ce95854650c5e405",
+      "edits": [
+        {
+          "before_offset": 5104,
+          "after_offset": 5104,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "kanzlei-mandant-lifecycle/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "30acbc8222050d570266cb2741611a727c355acbd68c4c9cab6a132e3881b955",
+      "sha256": "f429878482865296fbefbe544e90cef9bdedfe4ccb45aa6522b0ab99b2083728",
+      "edits": [
+        {
+          "before_offset": 5137,
+          "after_offset": 5137,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "ki-governance/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "9c68900a614b08147e49bd3b259da578d202fbe61abc2969e8d7c64c6b191f68",
+      "sha256": "8911adc7c34ace283da13a7b68c62418966f271263ebbc9b823df19bcbee124c",
+      "edits": [
+        {
+          "before_offset": 6511,
+          "after_offset": 6511,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        },
+        {
+          "before_offset": 6737,
+          "after_offset": 6799,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "ki-native-kanzlei/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "d46f87fcbf94c1c5e600d67c99513e4c12e8162ef17d26aaed86154327fbee1f",
+      "sha256": "93d8ccb58d6b32aa75a1177e09fbdaecb87b754694dd141ef63baa4b8ff7697b",
+      "edits": [
+        {
+          "before_offset": 5131,
+          "after_offset": 5131,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "ki-richtlinie-kanzleien/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "2038cd3462d9907e03c88d8673d2134b5ac0f6f67b6a29f8850601e3339d61a3",
+      "sha256": "c01c450c1f096e0ef1d0304d1bb80fd396a2c2ad264ed09e3892c486398949d3",
+      "edits": [
+        {
+          "before_offset": 5147,
+          "after_offset": 5147,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "krankenhausrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "564abc007abb15451e1a7a71d8cbc0f1069fe9fb0ab8ff45ac18b07990acf4a1",
+      "sha256": "2fbe9d01a53b58433b92c827a047fe291f7580d9ad0ce7fe6479d0f55e0c9397",
+      "edits": [
+        {
+          "before_offset": 5455,
+          "after_offset": 5455,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "legistik-werkstatt/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "0b342f56fad2b2449601fe60903592c45b74ab3712ff46399f9656be4273cdc6",
+      "sha256": "dde0c6c8ae655d46439d6053770047d72c981e3d7541892c23b281172db939dd",
+      "edits": [
+        {
+          "before_offset": 6318,
+          "after_offset": 6318,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "markenrecht-fashion-luxus/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "974880c94d7cc011d39a4f099b63e978999a437d66301b8c5235f66904611367",
+      "sha256": "6f69eb0f6d100b78f3b96077500ecf621511e85232c240cd485797b9cab48279",
+      "edits": [
+        {
+          "before_offset": 5053,
+          "after_offset": 5053,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "methodenlehre-buergerliches-recht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "add074864c213f7cc5fd9b01f14c97cc42c6a0cf9dc37a4204d614650da4633d",
+      "sha256": "04590ae333e315020ec15d42b7c24a5654c8d35a0686e06f2ab77dbef8df4594",
+      "edits": [
+        {
+          "before_offset": 4833,
+          "after_offset": 4833,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "mittelstand-corporate-ma/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "74be225edcb5ac7a951e801dc534c5756fc9bea472d70cd1caad745b6adc5eb3",
+      "sha256": "057bfb720d41e12a1cc134323cacc90815b8c4f814456318210e3a9966faa5ef",
+      "edits": [
+        {
+          "before_offset": 5477,
+          "after_offset": 5477,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "nda-abgleich/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "2cf6b0a9d349fc12ab7dd070c59e18f19b0d06c03e27c877dd9472ba71f912df",
+      "sha256": "758d14baed4e45fff4191743fd5c583ff543d0186c701f4de2718686cc0b60c6",
+      "edits": [
+        {
+          "before_offset": 5552,
+          "after_offset": 5552,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "nis2-cybersecurity-compliance/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "54785fd70ff64f68e2161cc40342129c0fade4012f7c46c932f54f8e7b4683d8",
+      "sha256": "e0fe5a6328180279cba2ab2fcb9d6f7eb64f737f5a3fa4f51ac2b1e28bbc1c51",
+      "edits": [
+        {
+          "before_offset": 5475,
+          "after_offset": 5475,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "private-equity-praxis/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "6b7ff6bdbc6c3f20f556d8139954eaee24546369a8a8a15ae3d01436f40e6ec8",
+      "sha256": "9817ac4c4e0e90297d376ada0922d8067f3890df60315d407d8a92b3ff48dcaf",
+      "edits": [
+        {
+          "before_offset": 5455,
+          "after_offset": 5455,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "produktrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "dddd7c266f4761ee3d6bebd947bac0af84f3243c2a57e4864d59af16dd5a6e21",
+      "sha256": "4aba587f8759706772528f381ddbd1e163992854150ab956cee93251442fc176",
+      "edits": [
+        {
+          "before_offset": 5485,
+          "after_offset": 5485,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "prozessrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "4a947022f81b0e85a485be8c51aed7ce301a0d5858f0e6fcfcf632a9823c7ba9",
+      "sha256": "4f6974ba2f74afcc9646824c956c235fceda485a1a6f67765223d8d3db868052",
+      "edits": [
+        {
+          "before_offset": 6297,
+          "after_offset": 6297,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "regulatorisches-recht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "d95230b060f327dc4a34b863e0f48e2379bc9d9677a005e41e773f897b8b0e52",
+      "sha256": "5e53f5ea6ae06fc2279696abdc1b09b77a490d22179d67966e386d2b32bf2e37",
+      "edits": [
+        {
+          "before_offset": 6455,
+          "after_offset": 6455,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        },
+        {
+          "before_offset": 6681,
+          "after_offset": 6743,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "gerichtsplugins/relationstechnik-zivilrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "14b2b422a269d885abd3a0f3aacc53e779f1d46f2e24ec02352a76ea55699323",
+      "sha256": "997155724e9d7ba50e0afadf56094a82277c07db980d9f9005f4c1ca7f3a1be2",
+      "edits": [
+        {
+          "before_offset": 6082,
+          "after_offset": 6082,
+          "before": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "robotik-recht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "106f20fb8c4fae7f7ed482bdf2775d508a82b2d12e83362e9256084fcb7008f5",
+      "sha256": "ac5cde9aa41ae2ac9acc28ace8a6dc599fa6051c00345d5687f7695f939ce5a2",
+      "edits": [
+        {
+          "before_offset": 5527,
+          "after_offset": 5527,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "softwarerecht-de-eu-us/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "92c324af52d64139e0425d16183a1bdc59bb2a78c71c64b766b30696097416ee",
+      "sha256": "8ff89d0c854ae71d8fb6c52394f36cc872ae1522abb20922d4cf5d14af200e26",
+      "edits": [
+        {
+          "before_offset": 5513,
+          "after_offset": 5513,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "solo-selbststaendige-praxis/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "6b8eaa2988a2165438754f28f690bd5763dacc46243122bc9d2782e9ff9bf692",
+      "sha256": "66e28940871c4cbab506d19b7fca39fad436d8a4840e4911bfd791b529d4c44e",
+      "edits": [
+        {
+          "before_offset": 5121,
+          "after_offset": 5121,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "6186d00bd124fa27b65a0c3e9cd5db8f632f9ac918b960ea6ce1f006d8a60707",
+      "sha256": "79474c1d99ad6ab3392f7a33c09cbd4861e5db2d901a71f0c344b8e2fa869a34",
+      "edits": [
+        {
+          "before_offset": 6112,
+          "after_offset": 6112,
+          "before": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "5feacdae97403c12e2fedc73d4687d72e01ed15d9528255ca94e31ed9b9afa67",
+      "sha256": "001a5fa733304062fa11a74a5c66b3e452107cef2ee9ed54d23c767df33fe754",
+      "edits": [
+        {
+          "before_offset": 6100,
+          "after_offset": 6100,
+          "before": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "startup-hr-personalabteilung-berlin/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "8b1455047edff7122a2705bb5ecc8f7551beb01fed3fcd4218f41a3b52e221dd",
+      "sha256": "6ddb17a7ba2ed2e04f83274166efa786c4bc880f8b58fa77072e2dd19e1178b3",
+      "edits": [
+        {
+          "before_offset": 6005,
+          "after_offset": 6005,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "0220e4b63b5a64124f07bcb39f05abc939ce2510a4f8869513935150c3f38825",
+      "sha256": "b7b3539075792e6d6dc3dbf6930d3ec32f4f7f1b93c4dfffa370b900c6094c1a",
+      "edits": [
+        {
+          "before_offset": 4949,
+          "after_offset": 4949,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "strafanzeige-vorbereiter/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "36be695367612f9508736b20b0b88c585889ab2b080c2dc52feaadbad7f31674",
+      "sha256": "e57b723c2a83cd190ba78d7d68355016671e014c7f149e9162a3655533549ba1",
+      "edits": [
+        {
+          "before_offset": 6307,
+          "after_offset": 6307,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "subsumtions-pruefer/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "df28cbce72bfb4fb76603c9426168801b81023ef63ae19ca5532791a351d198c",
+      "sha256": "e750eb27def793520661f6c0f2c8b7641f46a379768bdcd5524eb9ad77023cc3",
+      "edits": [
+        {
+          "before_offset": 4838,
+          "after_offset": 4838,
+          "before": "../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    },
+    {
+      "path": "umweltrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "351756cfeaaa4022ebafd3223fc418194e175f6e42fb77a4fc0f42f9337812c8",
+      "sha256": "48bf027172f7a7362ca5e7e8da708b63d00c6890c2a711c2fbf0bc2aad2e7d7c",
+      "edits": [
+        {
+          "before_offset": 6307,
+          "after_offset": 6307,
+          "before": "../../testakten/ki-register-havelgrund-sozialamt/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md"
+        }
+      ]
+    },
+    {
+      "path": "urheberrecht-de-eu/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "90e11cddddfcd572c9f05d3cc87d4c46bdfc2b73a49a8505aabfe31c709db27c",
+      "sha256": "46838216602f05a4f9f805e15132c855600af3f7f116ef473fd32c9842264416",
+      "edits": [
+        {
+          "before_offset": 5102,
+          "after_offset": 5102,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "venture-capital-geber/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "ba706a260fbcf8f8c31d6d8553381900df65e9f5bd1d92225aad06c5bcb17795",
+      "sha256": "8cd387ecf93837d253c399ca76a880f11a427b13f2ec2463f71f9d320efc4a60",
+      "edits": [
+        {
+          "before_offset": 5449,
+          "after_offset": 5449,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "verlagsrecht-buchpreisbindung/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "c56737462c91387907b4cbbc717fb857c46973c50be2d941499e41ff9cba8f73",
+      "sha256": "3a3e89b61e7723103095d54c932a67da237f78bce5a7e91ff826fff17adf36f6",
+      "edits": [
+        {
+          "before_offset": 5122,
+          "after_offset": 5122,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "verlagsredaktion/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "42aa2913b0e6fdae46dbf0b0db01bcd61c70015088b9b5eb0f7a6beeebd0bd16",
+      "sha256": "efb0af236a6a5bf377ed15946a83838651a9450365dc1db87de7a33e669c301a",
+      "edits": [
+        {
+          "before_offset": 5069,
+          "after_offset": 5069,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    },
+    {
+      "path": "weltraumrecht/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "8621125081308b9033ea826c285bc38934d09c0e62131ecf1d18d1addf64edf3",
+      "sha256": "8df61816a998a3052e8a6b506ea7e49e9594b5ce226ec8bdddf94866f93c4a3f",
+      "edits": [
+        {
+          "before_offset": 5522,
+          "after_offset": 5522,
+          "before": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md"
+        }
+      ]
+    },
+    {
+      "path": "word-legal-ai-plugin-and-skill-for-german-lawyers/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "92072ab89b9e001dc0cef312919db80f3e3a2587290543f901d13046070068df",
+      "sha256": "7c929f5aa7ba7edb40c35674086541e42ccdad6deb4a3e8618646abfc34c42b9",
+      "edits": [
+        {
+          "before_offset": 5137,
+          "after_offset": 5137,
+          "before": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md"
+        }
+      ]
+    }
+  ],
+  "quality_files": [],
+  "review_binding_changes": [],
+  "pending_reviews": [],
+  "isolated_package_link_errors": 0,
+  "source_map_after_sha256": "f7b695cbdc1084a20674012a488394b525dd913048a0248fb9280c2fbf3f59a9"
+}

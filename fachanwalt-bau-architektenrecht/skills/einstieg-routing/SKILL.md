@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt Bau Architektenrecht** vom ersten Sachverhal
 
 ## Fachlandkarte dieses Plugins
 
-- `abnahmefiktion-paragraf-640-bgb-pruefen` — Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen
-- `abnahme-quellenkarte` — Abnahme Quellenkarte
-- `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
-- `einstieg-schnelltriage-fallrouting` — BAU Abnahme Nachtrag
-- `abnahme-verweigerung` — Bauablauf VBG
-- `nachbarklage-baugenehmigung-frist-und-drittschutz` — Nachbarklage gegen eine Baugenehmigung prüfen
-- `bauordnungsrecht-behoerden-gericht-und-registerweg` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
-- `bautraeger-abnahme-formgerecht-640-bgb` — Bautraeger Abnahme Formgerecht Abnahmefiktion
-- `bautraeger-belehrungspflicht-17-beurkg` — Bautraeger Belehrungspflicht
-- `bautraeger-gemeinschaftliche-maengelverfolgung-weg` — Bautraeger Gemeinschaftliche
-- `bautraeger-leistungsbeschreibung-baubeschreibung` — Bautraeger Leistungsbeschreibung
-- `bautraeger-mabv-grundlagen-1-2` — Bautraeger MABV Grundlagen Ratenplan
-- `bautraeger-mabv-vollstaendigkeitserklaerung-7` — Bautraeger MABV Vollstaendigkeitserklaerung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `arbeitsprodukt-bearbeiten` (Fachthema: abnahmefiktion-paragraf-640-bgb-pruefen) — Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: abnahme-quellenkarte) — Abnahme Quellenkarte
+- `architekt-bearbeiten` (Fachthema: architektenhonorar-hoai-mindestsatz-eugh-c-377-17) — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
+- `architekt-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — BAU Abnahme Nachtrag
+- `bauablauf-bearbeiten` (Fachthema: abnahme-verweigerung) — Bauablauf VBG
+- `vertragssoll-bearbeiten` (Fachthema: nachbarklage-baugenehmigung-frist-und-drittschutz) — Nachbarklage gegen eine Baugenehmigung prüfen
+- `vertragssoll-bearbeiten` (Fachthema: bauordnungsrecht-behoerden-gericht-und-registerweg) — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
+- `bauablauf-bearbeiten` (Fachthema: bautraeger-abnahme-formgerecht-640-bgb) — Bautraeger Abnahme Formgerecht Abnahmefiktion
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-belehrungspflicht-17-beurkg) — Bautraeger Belehrungspflicht
+- `arbeitsprodukt-bearbeiten` (Fachthema: bautraeger-gemeinschaftliche-maengelverfolgung-weg) — Bautraeger Gemeinschaftliche
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-leistungsbeschreibung-baubeschreibung) — Bautraeger Leistungsbeschreibung
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-mabv-grundlagen-1-2) — Bautraeger MABV Grundlagen Ratenplan
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-mabv-vollstaendigkeitserklaerung-7) — Bautraeger MABV Vollstaendigkeitserklaerung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

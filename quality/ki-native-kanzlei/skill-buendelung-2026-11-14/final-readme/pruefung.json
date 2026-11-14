@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-14",
+  "version": "445.36.0",
+  "scope": "Nach abschließender README-Leerzeilenbereinigung Komponentenpaket in leerem Verzeichnis erneut gebaut und aktuelle Quellen-/Paketprüfung erneut ausgeführt. Kein neuer PDF-Satz, keine wiederholte Sichtprüfung, keine zusätzliche Rechtsquellen- oder Modellprüfung. Die zuvor protokollierten 62 Unit-Tests wurden in dieser ausschließlich dokumentarischen Nachprüfung nicht erneut ausgeführt.",
+  "readme": {
+    "path": "ki-native-kanzlei/README.md",
+    "sha256": "8891eb84b40f250063ef7ac9a258afb27312c2b802151848a28a6bc4a4078537"
+  },
+  "dist": "../tmp/qualitaetsrunde-2026-11-14/ki-kanzlei-dist-445.36.0-final-readme",
+  "reports": [
+    {
+      "path": "quality/ki-native-kanzlei/struktur-pruefung.json",
+      "previous_sha256": "f4673924fa11cf3e40ef4619375f64cefe941356887029938b32af9e6b2fa172",
+      "sha256": "f4673924fa11cf3e40ef4619375f64cefe941356887029938b32af9e6b2fa172"
+    },
+    {
+      "path": "quality/ki-native-kanzlei/paket-pruefung.json",
+      "previous_sha256": "1aa9bf629227ca7e88dd46035229f53e793942ef81c93d12956532c7b1dcb6f3",
+      "sha256": "831e263239ba6b58dab2bbddbfb7a54ba1f7e52b15b9678ff1d1e0cfece98a16"
+    }
+  ],
+  "preserved_pdf_assets": [
+    {
+      "path": "docs/handbuecher/ki-native-kanzlei-v445.36.0/ki-native-kanzlei-skills-handbuch.pdf",
+      "sha256": "43352b9c7b7a8a2492634d3f97bce8e48e17dfde9c9798d4ea7386c279240bf5",
+      "byte_identical": true
+    },
+    {
+      "path": "docs/handbuecher/ki-native-kanzlei-v445.36.0/ki-native-kanzlei-skills-einzelpdfs.zip",
+      "sha256": "979d32f334f5faa655e88e0ec35d8e6987e62ee9a168133bda4aa486ec53431a",
+      "byte_identical": true
+    }
+  ],
+  "commands": [
+    "scripts/build-ki-native-kanzlei-release.py --dist ../tmp/qualitaetsrunde-2026-11-14/ki-kanzlei-dist-445.36.0-final-readme --pdf-dir ../tmp/qualitaetsrunde-2026-11-14/ki-kanzlei-pdf-final",
+    "scripts/test-ki-native-kanzlei-source.py --output ../tmp/qualitaetsrunde-2026-11-14/ki-kanzlei-final-readme-struktur.json",
+    "scripts/test-ki-native-kanzlei-pakete.py ../tmp/qualitaetsrunde-2026-11-14/ki-kanzlei-dist-445.36.0-final-readme --output ../tmp/qualitaetsrunde-2026-11-14/ki-kanzlei-final-readme-paket.json"
+  ],
+  "all_commands_exit_code": 0
+}

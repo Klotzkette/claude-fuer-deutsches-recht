@@ -51,7 +51,7 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 ### 3.2. Belegbasierte Umsatzsteuer-Voranmeldung
 
-Erstelle bei diesem Auftrag nach dem [Fachskill](../umsatzsteuer-voranmeldung-erstellen/SKILL.md) die tatsächliche Anmeldung aus Originalbelegen. Stelle Unternehmer, Voranmeldungszeitraum, Besteuerungsart und bisherigen Abgabestand fest. Unterscheide Leistungszeit, Rechnungseingang und Vereinnahmung. Prüfe Befreiung, Steuersatz, § 13b UStG, Vorsteuer und Privatanteil je Beleg. Verifiziere Kennziffern, Rundung und Endbetrag aus der Jahresdokumentation. Führe gewöhnliche Steuerzahlungen in einem eigenen Abgleich.
+Erstelle bei diesem Auftrag nach dem [Fachskill](../umsatzsteuer-voranmeldung-erstellen/FACHINHALT.md) die tatsächliche Anmeldung aus Originalbelegen. Stelle Unternehmer, Voranmeldungszeitraum, Besteuerungsart und bisherigen Abgabestand fest. Unterscheide Leistungszeit, Rechnungseingang und Vereinnahmung. Prüfe Befreiung, Steuersatz, § 13b UStG, Vorsteuer und Privatanteil je Beleg. Verifiziere Kennziffern, Rundung und Endbetrag aus der Jahresdokumentation. Führe gewöhnliche Steuerzahlungen in einem eigenen Abgleich.
 
 Liefere eine Erfassungstabelle, einen schema- und regelgeprüften Import oder die tatsächlich unterstützte autorisierte lokale Übermittlung. Biete dem Nutzer die Wahl des lokalen Zertifikats und die eigene Geheimniseingabe im geschützten Feld an. Halte den konkreten Abgabeauftrag und die Eingangsrückmeldung fest. Eine berichtigte Anmeldung enthält den vollständigen richtigen Periodendatensatz. Bei abweichender Festsetzung prüfe den Rechtsbehelfsweg.
 

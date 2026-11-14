@@ -30,7 +30,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "0696b9224969fd092dd03b55459db0a7492b64a04521e33d26847b3fb4fddac8",
+    "sha256": "6ea0e2601ae38842d5e41e80e89db3745410076bf752ab325fe6c22934dae458",
     "verdict": "revised",
     "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
@@ -98,7 +98,7 @@
           ]
         }
       ],
-      "target_skill": "arzneimittelabgabe-verschreibungspflicht"
+      "target_skill": "produkt-und-vorgang-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

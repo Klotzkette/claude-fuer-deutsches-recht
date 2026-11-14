@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { validateSkillMapReferences } from './skill-map-references.mjs';
+import { auditLinkContexts } from './audit-link-contexts.mjs';
 
 const root = process.cwd();
 const textExt = new Set(['.md', '.json', '.yaml', '.yml', '.py', '.sh']);
@@ -248,14 +249,22 @@ function checkMarkdownLinks() {
   const files = walk(root, f => ['.md', '.yaml', '.yml', '.json'].includes(path.extname(f)));
   const linkPattern = /\[[^\]]*]\(([^)]+)\)/g;
   for (const file of files) {
-    const text = read(file);
-    for (const match of text.matchAll(linkPattern)) {
+    let contexts;
+    try {
+      contexts = auditLinkContexts(file, read(file), root);
+    } catch (error) {
+      errors.push(`${rel(file)}: ${error.message}`);
+      continue;
+    }
+    for (const context of contexts) {
+    for (const match of context.text.matchAll(linkPattern)) {
       const target = match[1].trim();
       if (/^(https?:|mailto:|#|\/)/.test(target)) continue;
       const clean = target.split('#')[0].replaceAll('%20', ' ');
       if (!clean || /^[A-Za-z]+:/.test(clean)) continue;
-      const resolved = path.resolve(path.dirname(file), clean);
+      const resolved = path.resolve(path.dirname(context.file), clean);
       if (!exists(resolved)) errors.push(`${rel(file)}: relative markdown link missing: ${target}`);
+    }
     }
   }
 }

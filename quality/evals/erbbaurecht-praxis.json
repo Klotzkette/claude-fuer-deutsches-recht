@@ -133,7 +133,7 @@
           ]
         }
       ],
-      "target_skill": "erbbauzinsanpassung-paragraph-9a"
+      "target_skill": "rechtsgeschaeft-und-form-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -155,7 +155,7 @@
       "erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md",
       "erbbaurecht-praxis/README.md",
       "quality/evals/erbbaurecht-praxis.json",
-      "erbbaurecht-praxis/skills/erbbauzinsanpassung-paragraph-9a/SKILL.md"
+      "erbbaurecht-praxis/skills/erbbauzinsanpassung-paragraph-9a/FACHINHALT.md"
     ],
     "opening_change": "Gesicherte Nutzung und Laufzeit, durchsetzbarer Zins und benötigte Zustimmung aus beiden Grundbüchern bestimmen. Workflow-Ergänzung: Leer: Erbbauzinsanpassung, Zustimmung zur Veräußerung oder Heimfall-/Ablaufprüfung anbieten. Dateien ohne Aufgabe: Erbbaurechtsvertrag und Registerbelege still lesen; konkreten Anpassungs- oder Zustimmungsauftrag klären. Klarer Auftrag: verlangte Rechnung, Erklärung oder Vertragsänderung unmittelbar bearbeiten; keine allgemeine Erbbaurechtsübersicht.",
     "norms": [

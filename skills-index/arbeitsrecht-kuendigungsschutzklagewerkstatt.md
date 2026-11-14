@@ -1,6 +1,6 @@
 # arbeitsrecht-kuendigungsschutzklagewerkstatt
 
-**11 Skills** · Stand `v1.1.0`
+**11 Skills** · Stand `v1.3.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../arbeitsrecht-kuendigungsschutzklagewerkstatt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

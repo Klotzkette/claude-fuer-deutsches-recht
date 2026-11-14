@@ -46,4 +46,4 @@ Benötigte Arbeitsprodukte: Veröffentlichungsprüfung und überarbeiteter Kennz
 
 ## 1.6. Vollständige Übungsakte
 
-- [Testakte ki-transparenz-pegnesus-redaktion](../../testakten/ki-transparenz-pegnesus-redaktion/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.
+- [Testakte ki-transparenz-pegnesus-redaktion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.

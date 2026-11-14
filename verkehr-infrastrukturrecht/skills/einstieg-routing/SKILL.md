@@ -11,21 +11,21 @@ Dieser Einstieg routet **Verkehr Infrastrukturrecht** vom ersten Sachverhalt zu 
 
 ## Fachlandkarte dieses Plugins
 
-- `anschluss-router` — Anschluss Router
-- `autonomous-driving` — Autonomous Driving
-- `autonomous-driving-interessen-grossprojekt` — Autonomous Driving Interessen Grossprojekt
-- `autonomous-driving-strassenrecht` — Autonomous Driving Strassenrecht
-- `buergerentscheid-strassenbahn-spezial` — Buergerentscheid Strassenbahn Spezial
-- `driving-mehrparteien-konflikt-und-interessen` — Driving Mehrparteien Konflikt und Interessen
-- `foerderung-vergabe-ladeinfrastruktur` — Foerderung Vergabe Ladeinfrastruktur
-- `grossprojekt-zahlen-schwellen-und-berechnung` — Grossprojekt Zahlen Schwellen und Berechnung
-- `infrastruktur-foerderung-nachhaltige` — Infrastruktur Foerderung Nachhaltige
-- `infrastrukturrecht-intake-ladeinfrastruktur` — Infrastrukturrecht Intake Ladeinfrastruktur
-- `intake-mandantenkommunikation-entscheidungsvorlage` — Intake Mandantenkommunikation Entscheidungsvorlage
-- `ladeinfrastruktur` — Ladeinfrastruktur
-- `ladeinfrastruktur-behoerden-gericht-und-registerweg` — Ladeinfrastruktur Behoerden Gericht und Registerweg
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `rechtsschutz-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `rechtsschutz-bearbeiten` (Fachthema: autonomous-driving) — Autonomous Driving
+- `rechtsschutz-bearbeiten` (Fachthema: autonomous-driving-interessen-grossprojekt) — Autonomous Driving Interessen Grossprojekt
+- `rechtsschutz-bearbeiten` (Fachthema: autonomous-driving-strassenrecht) — Autonomous Driving Strassenrecht
+- `rechtsschutz-bearbeiten` (Fachthema: buergerentscheid-strassenbahn-spezial) — Buergerentscheid Strassenbahn Spezial
+- `rechtsschutz-bearbeiten` (Fachthema: driving-mehrparteien-konflikt-und-interessen) — Driving Mehrparteien Konflikt und Interessen
+- `rechtsschutz-bearbeiten` (Fachthema: foerderung-vergabe-ladeinfrastruktur) — Foerderung Vergabe Ladeinfrastruktur
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: grossprojekt-zahlen-schwellen-und-berechnung) — Grossprojekt Zahlen Schwellen und Berechnung
+- `rechtsschutz-bearbeiten` (Fachthema: infrastruktur-foerderung-nachhaltige) — Infrastruktur Foerderung Nachhaltige
+- `vorhaben-und-verfahrensart-bearbeiten` (Fachthema: infrastrukturrecht-intake-ladeinfrastruktur) — Infrastrukturrecht Intake Ladeinfrastruktur
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: intake-mandantenkommunikation-entscheidungsvorlage) — Intake Mandantenkommunikation Entscheidungsvorlage
+- `rechtsschutz-bearbeiten` (Fachthema: ladeinfrastruktur) — Ladeinfrastruktur
+- `arbeitsprodukt-bearbeiten` (Fachthema: ladeinfrastruktur-behoerden-gericht-und-registerweg) — Ladeinfrastruktur Behoerden Gericht und Registerweg
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

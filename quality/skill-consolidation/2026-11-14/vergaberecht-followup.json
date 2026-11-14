@@ -1,0 +1,648 @@
+{
+  "schema_version": 1,
+  "method": "Explizite Rollenbeschreibungen und document_style vergaberecht; alte Routen mit altem Renderer bytegleich reproduziert, neue mit dem erweiterten Renderer. Unveränderte Registryrouten bleiben bytegleich. Ein falsch verschachtelter Weblink auf die ursprüngliche URL zurückgeführt. Keine Originalfachtexte verändert.",
+  "registry_before_sha256": "b803bef5e4fe4731fb008b9f51296d7970296c4743e80f5fae7a58b3b38e5d64",
+  "registry_after_sha256": "6f0baece4a8d3fc88633eb13e87a62f26cac6b39469ac323debfd4723c7776f6",
+  "renderer_before_sha256": "a82cf64ddd4efc407f9030821a6c30eaa2e85f54d271db21e167037d03f6dd8c",
+  "renderer_after_sha256": "3fbefad70919c3ad475fafe4b02945b639f5cc3ab8072c02f6d57e302e88473f",
+  "unchanged_route_count": 1611,
+  "changes": [
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vergabeart-und-schwelle-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "a81267149e3f0f4024500f46ca830c61c4f30db226503c1451ce735a1d2d7d9c",
+      "sha256": "f69dd60052169186d63f090b34762e5c8c0666976142f823a1405f31eb7f4cfd",
+      "edits": [
+        {
+          "before_offset": 45,
+          "after_offset": 45,
+          "before": "description: \"Für Vergaberecht: Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahrensart und Fristen klaeren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Prüft für Bieter Bekanntmachung, Schwellenwert, Teilnahmefähigkeit und Angebotsstrategie. Ordnet Eignung, Kalkulation, Form und erforderlichen Rechtsschutz dem konkreten Bewerbungsziel zu.\"\n"
+        },
+        {
+          "before_offset": 6062,
+          "after_offset": 6025,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vergabeunterlagen-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "906322b01f69adb13f8393b2719a2b1a82907e91903216d4ecead52010a42a0b",
+      "sha256": "8527cbe0b69409542d0aff2356e523e9e153795ed4e73d307e8a8da744df4037",
+      "edits": [
+        {
+          "before_offset": 39,
+          "after_offset": 39,
+          "before": "description: \"Für Vergaberecht: Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote pruefen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Wertet aus Bietersicht Leistungsverzeichnis, Eignungs- und Vertragsbedingungen aus. Bereitet Bepreisung, Nachweise, Eignungsleihe und zulässige Nebenangebote vor und benennt Ausschlussrisiken.\"\n"
+        },
+        {
+          "before_offset": 4109,
+          "after_offset": 4062,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/ruege-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "4504891d607927b84407df875380987d35d1732ec3e1ed2fdbf373a0e3a0c87d",
+      "sha256": "9deeca008bd413f5c4e1151200c466f088d32cd75c962f6b33a17e9e349a80af",
+      "edits": [
+        {
+          "before_offset": 27,
+          "after_offset": 27,
+          "before": "description: \"Für Vergaberecht: Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Sichert für Bieter Zugang, Rügefrist und konkrete Beanstandung vor dem Zuschlag. Prüft Nichtabhilfe und den nächsten fristwahrenden Rechtsschutzschritt anhand der tatsächlichen Korrespondenz.\"\n"
+        },
+        {
+          "before_offset": 2725,
+          "after_offset": 2710,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/nachpruefung-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "993273fb3d630b0675d4997a8240260213e1567676ba63981644d254bd17865b",
+      "sha256": "04551ab753335b61b421491f12921f5b3b6f91d02a07112c5b48668ca910a748",
+      "edits": [
+        {
+          "before_offset": 34,
+          "after_offset": 34,
+          "before": "description: \"Für Vergaberecht: Nachpruefung: Antragsbefugnis, Rügepraeklusion, Zuschlagsverbot und Sachantrag vor Vergabekammer aufbauen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Führt den Bieter durch Nachprüfungsverfahren, Zuschlagssperre, Kammertermin und sofortige Beschwerde. Bereitet Beweise, Anträge und Vergleichsoptionen aus seiner eigenen Rechtsposition vor.\"\n"
+        },
+        {
+          "before_offset": 4288,
+          "after_offset": 4250,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/arbeitsprodukt-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "4dfcbacb7249f8960a3b8cb5636a4f7fc469d1f45e93c9d4913ebf2f468f3994",
+      "sha256": "2ca2d6ecd5212826b895f14d4066ccb914ccfbb539f0b840b0d7492471970a0e",
+      "edits": [
+        {
+          "before_offset": 36,
+          "after_offset": 36,
+          "before": "description: \"Für Vergaberecht: Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Erstellt auf Bieterseite ausformulierte Rügeschreiben und Nachprüfungsanträge. Verbindet konkrete Anträge, Verletzung eigener Rechte, Belegstellen, Fristen und rechtliche Begründung.\"\n"
+        },
+        {
+          "before_offset": 3637,
+          "after_offset": 3600,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "4cbd9b4d387439297f22cc23bc515cc8ceb5c270c5bd8700a550ded2dc7c36cc",
+      "sha256": "d733d89007ce1d74592381e334f7a9dd4e3a5d5d614083ceb7faf13e0d803d95",
+      "edits": [
+        {
+          "before_offset": 54,
+          "after_offset": 54,
+          "before": "description: \"Für Vergaberecht: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Ordnet die Bieterakte aus Vergabeunterlagen, Portalexport, LV und Unternehmensnachweisen. Klärt Leitdateien, Beweislücken und aktuelle Quellen für Teilnahmeentscheidung, Angebot und Rechtsschutz.\"\n"
+        },
+        {
+          "before_offset": 3963,
+          "after_offset": 3881,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "e4d9883b44500f3b6ccfda2a36dd024972ba98467c886be0659591ffeb429733",
+      "sha256": "658aee2a2a4197ccd36f023d6bbfa19a33f76cda036f05875b9776737252740a",
+      "edits": [
+        {
+          "before_offset": 66,
+          "after_offset": 66,
+          "before": "description: \"Für Vergaberecht: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Kontrolliert aus Bietersicht Erklärungen, Berechnungen und Qualitätsnachweise. Prüft Gegenargumente und Freigabegrenzen und vervollständigt das beauftragte Angebots- oder Verhandlungsprodukt.\"\n"
+        },
+        {
+          "before_offset": 3536,
+          "after_offset": 3416,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabeart-und-schwelle-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "7d61e8294af4fc4edfd1fdefbde2aeedd77486b2107ad631787de917abe2cdf6",
+      "sha256": "15363da9a7af947247edacfb6f6db680742189066f5a3c3e1026cfe238fe98c9",
+      "edits": [
+        {
+          "before_offset": 45,
+          "after_offset": 45,
+          "before": "description: \"Für Vergaberecht: Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahrensart und Fristen klaeren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Plant für öffentliche Auftraggeber Bedarf, Auftragswert, Lose und Vergabeart. Ordnet Sonderregime, Bekanntmachung, Angebotsprüfung und Zuschlagsvorbereitung dem konkreten Beschaffungsverfahren zu.\"\n"
+        },
+        {
+          "before_offset": 7714,
+          "after_offset": 7685,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabeunterlagen-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "a631bd5f1d42793d2df6e89ee54a1588ea840f1dffb7b3d85b0ebc12285a8bfc",
+      "sha256": "4e63f7d0b6449fbbf8f52f4c75288e32b929968d10ab0634ffb33771bc817e16",
+      "edits": [
+        {
+          "before_offset": 39,
+          "after_offset": 39,
+          "before": "description: \"Für Vergaberecht: Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote pruefen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Erstellt für Vergabestellen neutrale Leistungsbeschreibungen, Eignungs- und Zuschlagskriterien sowie Vergabeunterlagen. Sichert Wertungslogik, vorgegebene Datenformate und dokumentierte Vertragsänderungen.\"\n"
+        },
+        {
+          "before_offset": 4417,
+          "after_offset": 4384,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/ruege-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "fbdf1e1f3e26c2e4ec3566b8427d7053bc39dc4e85b92ec5bebd9cbca571b813",
+      "sha256": "af90245d33748eb457a86cf8737732937382c2f64a32658276793588d2900a2e",
+      "edits": [
+        {
+          "before_offset": 27,
+          "after_offset": 27,
+          "before": "description: \"Für Vergaberecht: Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Bereitet für öffentliche Auftraggeber Bekanntmachungsberichtigung, Portalbereitstellung und Vorabinformation vor. Sichert Zugang und Stillhaltefrist, bevor die Vergabestelle auf den Zuschlag zusteuert.\"\n"
+        },
+        {
+          "before_offset": 2769,
+          "after_offset": 2761,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/nachpruefung-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "ec2a781b80adf3cbe7e99f49332679d39c41d11514e1770465b000a1d547f427",
+      "sha256": "e3b668f963e879a3dcb66dd0e7cd6efa095b65a1c1634b2ed1cf88d8f7420917",
+      "edits": [
+        {
+          "before_offset": 34,
+          "after_offset": 34,
+          "before": "description: \"Für Vergaberecht: Nachpruefung: Antragsbefugnis, Rügepraeklusion, Zuschlagsverbot und Sachantrag vor Vergabekammer aufbauen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Verteidigt und überprüft Auftraggeberentscheidungen bei Rüge, Vergabekammer und Vergabesenat. Verbindet Wertung, Vergabeakte, Akteneinsicht und begründete Stellungnahme mit möglichen Abhilfeschritten.\"\n"
+        },
+        {
+          "before_offset": 3857,
+          "after_offset": 3832,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/arbeitsprodukt-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "53b8fe56eec5fae0e4f6499369c948006bf47c4ccb484652e76eff44d4a24cea",
+      "sha256": "d20846e3efd95b00a9fb78cbbc2b677220e77e83b46fbd117393b0273932a19f",
+      "edits": [
+        {
+          "before_offset": 36,
+          "after_offset": 36,
+          "before": "description: \"Für Vergaberecht: Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Erstellt für die Vergabestelle Wertungsmatrix und Wertungsvermerk aus den festgelegten Preis- und Qualitätskriterien. Dokumentiert Ergebnisse, Belegstellen und offene Aufklärung vor der Zuschlagsentscheidung.\"\n"
+        },
+        {
+          "before_offset": 2653,
+          "after_offset": 2640,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "ce1337c76505ccc74c5450408db4ebc0daced47a4c73484a263bbc17f5eb5a9c",
+      "sha256": "627b53835de2825c833e325e04018691172345d436302b8fe7aa273166573390",
+      "edits": [
+        {
+          "before_offset": 54,
+          "after_offset": 54,
+          "before": "description: \"Für Vergaberecht: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Ordnet die Behördenakte, Quellen, Bieterfragen und Aufklärungsunterlagen. Sichert Datenherkunft, Nachforderung, Losbildung und Besonderheiten des Unterschwellenrechts für die Vergabestelle.\"\n"
+        },
+        {
+          "before_offset": 4617,
+          "after_offset": 4529,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md",
+      "kind": "generated_procurement_role_and_format",
+      "original_sha256": "49342e95dbe46c7b08664cf181564911009976f18e7e2231c89db52c7e6e7809",
+      "sha256": "33196158e9ffc6e0e208cef2e6c69eb3b1d2a227b4e00efd0dfb00967bf40600",
+      "edits": [
+        {
+          "before_offset": 66,
+          "after_offset": 66,
+          "before": "description: \"Für Vergaberecht: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Prüft den Behördenentwurf auf Zahlenfehler, fehlende Belege und angreifbare Wertungen. Bearbeitet Gegenargumente und dokumentiert offene Freigaben für ein entscheidungsreifes Vergabeprodukt.\"\n"
+        },
+        {
+          "before_offset": 3358,
+          "after_offset": 3236,
+          "before": "",
+          "after": "<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\n\n"
+        }
+      ]
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/references/ki-normen-und-fallpruefung.md",
+      "kind": "repaired_nested_web_target",
+      "original_sha256": "feb8c0a3ce09d4f12ad1920da176e2509fe4b55846b63b9ea5704e8a6f404688",
+      "sha256": "00bc0d9ae603c214a36171467f90e488743e7499a832e4c7830abf168ea4d90e",
+      "edits": [
+        {
+          "before_offset": 6202,
+          "after_offset": 6202,
+          "before": "- [Testakte ki-register-havelgrund-sozialamt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.\n",
+          "after": "- [Testakte ki-register-havelgrund-sozialamt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-register-havelgrund-sozialamt/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.\n"
+        }
+      ],
+      "original_path": "vergaberecht-werkstatt/vergabestelle-behoerden/references/ki-normen-und-fallpruefung.md"
+    }
+  ],
+  "review_binding_changes": [],
+  "pending_reviews": [],
+  "strict_source_map_errors": [],
+  "registry_delta": {
+    "path": "scripts/data/skill-cap-registry.json",
+    "kind": "registry_delta",
+    "original_sha256": "b803bef5e4fe4731fb008b9f51296d7970296c4743e80f5fae7a58b3b38e5d64",
+    "sha256": "6f0baece4a8d3fc88633eb13e87a62f26cac6b39469ac323debfd4723c7776f6",
+    "edits": [
+      {
+        "before_offset": 727716,
+        "after_offset": 727716,
+        "before": "          \"description\": \"Für Vergaberecht: Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahrensart und Fristen klaeren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Prüft für Bieter Bekanntmachung, Schwellenwert, Teilnahmefähigkeit und Angebotsstrategie. Ordnet Eignung, Kalkulation, Form und erforderlichen Rechtsschutz dem konkreten Bewerbungsziel zu.\",\n"
+      },
+      {
+        "before_offset": 731581,
+        "after_offset": 731544,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 731704,
+        "after_offset": 731711,
+        "before": "          \"description\": \"Für Vergaberecht: Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote pruefen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Wertet aus Bietersicht Leistungsverzeichnis, Eignungs- und Vertragsbedingungen aus. Bereitet Bepreisung, Nachweise, Eignungsleihe und zulässige Nebenangebote vor und benennt Ausschlussrisiken.\",\n"
+      },
+      {
+        "before_offset": 734603,
+        "after_offset": 734563,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 734702,
+        "after_offset": 734706,
+        "before": "          \"description\": \"Für Vergaberecht: Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Sichert für Bieter Zugang, Rügefrist und konkrete Beanstandung vor dem Zuschlag. Prüft Nichtabhilfe und den nächsten fristwahrenden Rechtsschutzschritt anhand der tatsächlichen Korrespondenz.\",\n"
+      },
+      {
+        "before_offset": 736882,
+        "after_offset": 736871,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 736995,
+        "after_offset": 737028,
+        "before": "          \"description\": \"Für Vergaberecht: Nachpruefung: Antragsbefugnis, Rügepraeklusion, Zuschlagsverbot und Sachantrag vor Vergabekammer aufbauen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Führt den Bieter durch Nachprüfungsverfahren, Zuschlagssperre, Kammertermin und sofortige Beschwerde. Bereitet Beweise, Anträge und Vergleichsoptionen aus seiner eigenen Rechtsposition vor.\",\n"
+      },
+      {
+        "before_offset": 739939,
+        "after_offset": 739934,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 740056,
+        "after_offset": 740095,
+        "before": "          \"description\": \"Für Vergaberecht: Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Erstellt auf Bieterseite ausformulierte Rügeschreiben und Nachprüfungsanträge. Verbindet konkrete Anträge, Verletzung eigener Rechte, Belegstellen, Fristen und rechtliche Begründung.\",\n"
+      },
+      {
+        "before_offset": 742660,
+        "after_offset": 742662,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 742813,
+        "after_offset": 742859,
+        "before": "          \"description\": \"Für Vergaberecht: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Ordnet die Bieterakte aus Vergabeunterlagen, Portalexport, LV und Unternehmensnachweisen. Klärt Leitdateien, Beweislücken und aktuelle Quellen für Teilnahmeentscheidung, Angebot und Rechtsschutz.\",\n"
+      },
+      {
+        "before_offset": 745768,
+        "after_offset": 745732,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 745945,
+        "after_offset": 745953,
+        "before": "          \"description\": \"Für Vergaberecht: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Kontrolliert aus Bietersicht Erklärungen, Berechnungen und Qualitätsnachweise. Prüft Gegenargumente und Freigabegrenzen und vervollständigt das beauftragte Angebots- oder Verhandlungsprodukt.\",\n"
+      },
+      {
+        "before_offset": 748743,
+        "after_offset": 748631,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 4517979,
+        "after_offset": 4517911,
+        "before": "          \"description\": \"Für Vergaberecht: Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahrensart und Fristen klaeren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Plant für öffentliche Auftraggeber Bedarf, Auftragswert, Lose und Vergabeart. Ordnet Sonderregime, Bekanntmachung, Angebotsprüfung und Zuschlagsvorbereitung dem konkreten Beschaffungsverfahren zu.\",\n"
+      },
+      {
+        "before_offset": 4522548,
+        "after_offset": 4522451,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 4522671,
+        "after_offset": 4522618,
+        "before": "          \"description\": \"Für Vergaberecht: Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote pruefen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Erstellt für Vergabestellen neutrale Leistungsbeschreibungen, Eignungs- und Zuschlagskriterien sowie Vergabeunterlagen. Sichert Wertungslogik, vorgegebene Datenformate und dokumentierte Vertragsänderungen.\",\n"
+      },
+      {
+        "before_offset": 4525739,
+        "after_offset": 4525653,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 4525838,
+        "after_offset": 4525796,
+        "before": "          \"description\": \"Für Vergaberecht: Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Bereitet für öffentliche Auftraggeber Bekanntmachungsberichtigung, Portalbereitstellung und Vorabinformation vor. Sichert Zugang und Stillhaltefrist, bevor die Vergabestelle auf den Zuschlag zusteuert.\",\n"
+      },
+      {
+        "before_offset": 4528058,
+        "after_offset": 4528008,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 4528171,
+        "after_offset": 4528165,
+        "before": "          \"description\": \"Für Vergaberecht: Nachpruefung: Antragsbefugnis, Rügepraeklusion, Zuschlagsverbot und Sachantrag vor Vergabekammer aufbauen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Verteidigt und überprüft Auftraggeberentscheidungen bei Rüge, Vergabekammer und Vergabesenat. Verbindet Wertung, Vergabeakte, Akteneinsicht und begründete Stellungnahme mit möglichen Abhilfeschritten.\",\n"
+      },
+      {
+        "before_offset": 4530896,
+        "after_offset": 4530865,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 4531013,
+        "after_offset": 4531026,
+        "before": "          \"description\": \"Für Vergaberecht: Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Erstellt für die Vergabestelle Wertungsmatrix und Wertungsvermerk aus den festgelegten Preis- und Qualitätskriterien. Dokumentiert Ergebnisse, Belegstellen und offene Aufklärung vor der Zuschlagsentscheidung.\",\n"
+      },
+      {
+        "before_offset": 4533176,
+        "after_offset": 4533176,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 4533329,
+        "after_offset": 4533373,
+        "before": "          \"description\": \"Für Vergaberecht: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Ordnet die Behördenakte, Quellen, Bieterfragen und Aufklärungsunterlagen. Sichert Datenherkunft, Nachforderung, Losbildung und Besonderheiten des Unterschwellenrechts für die Vergabestelle.\",\n"
+      },
+      {
+        "before_offset": 4536576,
+        "after_offset": 4536532,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      },
+      {
+        "before_offset": 4536753,
+        "after_offset": 4536753,
+        "before": "          \"description\": \"Für Vergaberecht: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\",\n",
+        "after": "          \"description\": \"Prüft den Behördenentwurf auf Zahlenfehler, fehlende Belege und angreifbare Wertungen. Bearbeitet Gegenargumente und dokumentiert offene Freigaben für ein entscheidungsreifes Vergabeprodukt.\",\n"
+      },
+      {
+        "before_offset": 4539438,
+        "after_offset": 4539316,
+        "before": "          ]\n",
+        "after": "          ],\n          \"document_style\": \"vergaberecht\"\n"
+      }
+    ]
+  },
+  "renderer_delta": {
+    "path": "scripts/consolidate-skill-cap.py",
+    "kind": "renderer_delta",
+    "original_sha256": "a82cf64ddd4efc407f9030821a6c30eaa2e85f54d271db21e167037d03f6dd8c",
+    "sha256": "3fbefad70919c3ad475fafe4b02945b639f5cc3ab8072c02f6d57e302e88473f",
+    "edits": [
+      {
+        "before_offset": 1269,
+        "after_offset": 1269,
+        "before": "",
+        "after": "VERGABE_OUTPUT_BLOCK = \"\"\"<!-- BEGIN output-format-block (autogen) -->\n\nSchriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.\n\n<!-- END output-format-block (autogen) -->\"\"\"\n"
+      },
+      {
+        "before_offset": 7504,
+        "after_offset": 8093,
+        "before": "",
+        "after": "            if route.get(\"document_style\") not in (None, \"vergaberecht\"):\n                errors.append(f\"{name}/{slug}: unbekannter document_style\")\n"
+      },
+      {
+        "before_offset": 9092,
+        "after_offset": 9831,
+        "before": "",
+        "after": "    style = route.get(\"document_style\")\n    if style not in (None, \"vergaberecht\"):\n        raise ValueError(f\"Unbekannter document_style: {style}\")\n\n    def visible(value: str) -> str:\n        # Nur neu erzeugte sichtbare Beschriftungen normalisieren. Originale\n        # Fachtexte, Dateiziele und das Marketplace-Frontmatter bleiben unberührt.\n        if style == \"vergaberecht\":\n            value = re.sub(r\"\\b(?:Paragrafen|Paragraphen)\\s+(?=\\d)\", \"§§ \", value, flags=re.I)\n            value = re.sub(r\"\\b(?:Paragraf|Paragraph)(\\s+|-)(?=\\d)\", lambda m: \"§\" + (\"-\" if m[1] == \"-\" else \" \"), value, flags=re.I)\n        return value\n\n"
+      },
+      {
+        "before_offset": 9117,
+        "after_offset": 10494,
+        "before": "        return \"\\n\".join(f\"- {value}\" for value in values)\n",
+        "after": "        return \"\\n\".join(f\"- {visible(value)}\" for value in values)\n"
+      },
+      {
+        "before_offset": 9224,
+        "after_offset": 10610,
+        "before": "    parts = [\"---\", f\"name: {slug}\", \"description: \" + json.dumps(route[\"description\"], ensure_ascii=False), \"---\", \"\", f\"# {title}\", \"\",\n             \"## 1. Zweck und Anwendungsfall\", \"\", route[\"purpose\"], \"\",\n",
+        "after": "    parts = [\"---\", f\"name: {slug}\", \"description: \" + json.dumps(route[\"description\"], ensure_ascii=False), \"---\", \"\", f\"# {visible(title)}\", \"\",\n             \"## 1. Zweck und Anwendungsfall\", \"\", visible(route[\"purpose\"]), \"\",\n"
+      },
+      {
+        "before_offset": 9805,
+        "after_offset": 11209,
+        "before": "        parts += [f\"### 3.{index}. Arbeitsschritt\", \"\", step, \"\"]\n",
+        "after": "        parts += [f\"### 3.{index}. Arbeitsschritt\", \"\", visible(step), \"\"]\n"
+      },
+      {
+        "before_offset": 10331,
+        "after_offset": 11744,
+        "before": "        label = source_title(source_data[member], member).replace(\"[\", \"\").replace(\"]\", \"\")\n",
+        "after": "        label = visible(source_title(source_data[member], member)).replace(\"[\", \"\").replace(\"]\", \"\")\n"
+      },
+      {
+        "before_offset": 11000,
+        "after_offset": 12422,
+        "before": "              \"## 5. Ausgabeformat\", \"\", bullets(route[\"outputs\"]), \"\",\n",
+        "after": "              \"## 5. Ausgabeformat\", \"\"]\n    if style == \"vergaberecht\":\n        parts += [VERGABE_OUTPUT_BLOCK, \"\"]\n    parts += [bullets(route[\"outputs\"]), \"\",\n"
+      }
+    ]
+  },
+  "checks": [
+    {
+      "check": "structure",
+      "exit_code": 0,
+      "log": "structure.log",
+      "sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714"
+    },
+    {
+      "check": "yaml",
+      "exit_code": 0,
+      "log": "yaml.log",
+      "sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2"
+    },
+    {
+      "check": "discovery",
+      "exit_code": 0,
+      "log": "discovery.log",
+      "sha256": "ecba35201291b47cba07c26a093ff83a97adabf930b8bdedd3bb5f812d2f3e94"
+    },
+    {
+      "check": "references",
+      "exit_code": 0,
+      "log": "references.log",
+      "sha256": "b77efe0672323f28585b59e5036ba55edc8ad0ba922663d034f6fab05235466e"
+    },
+    {
+      "check": "law",
+      "exit_code": 0,
+      "log": "law.log",
+      "sha256": "e0694f108313c2dd355cf0e05df3be0c37c197220a09d067f9716ab79caeb9b6"
+    },
+    {
+      "check": "systems",
+      "exit_code": 0,
+      "log": "systems.log",
+      "sha256": "08c2876921dd0e1212a941b982163ef2fe526d810f78f43c205e58da6ee3f941"
+    },
+    {
+      "check": "links",
+      "exit_code": 0,
+      "log": "links.log",
+      "sha256": "16cca3ced8b1bad8667cf3fc230dfe14d09bcf479f80c6add803afd2c7536259"
+    },
+    {
+      "check": "navigation",
+      "exit_code": 0,
+      "log": "navigation.log",
+      "sha256": "2dc318890b62f7446ac9cc1f16cf742e0fa1c05d784a6f085601a5c7751f90be"
+    },
+    {
+      "check": "public_sync",
+      "exit_code": 0,
+      "log": "public_sync.log",
+      "sha256": "b76c87e78d9b592c5c9a4e894ffe09230279a471da50dabed8f76dd06492111f"
+    },
+    {
+      "check": "public",
+      "exit_code": 0,
+      "log": "public.log",
+      "sha256": "96510e7aa7c5201ffe5228b2efe5c1c7c8bd484e2e88917a0b6ff495a171be4b"
+    },
+    {
+      "check": "regressions",
+      "exit_code": 0,
+      "log": "regressions.log",
+      "sha256": "22327419c7a3f2030c842ef0b2278df3f6a60e7b247d186312065bd0db7795ac",
+      "tests": 16
+    },
+    {
+      "check": "discovery_regressions",
+      "exit_code": 0,
+      "log": "discovery_regressions.log",
+      "sha256": "33060fd73862c5e1af97335504d5b45211fce6d229657f556d8deceeadc52ce4",
+      "tests": 3
+    },
+    {
+      "check": "source-map",
+      "exit_code": 0,
+      "log": "source-map.log",
+      "sha256": "3cb7003500fffe2567a549293677cbbec0a605ca3258a957183fa82be33972b3"
+    },
+    {
+      "check": "renderer-tests",
+      "exit_code": 0,
+      "log": "renderer-tests.log",
+      "sha256": "2ecc88d9f9a16ae54db5c998f2e088bad9c13e9c55a3ad95de9f68e57fcf1520",
+      "tests": 14
+    },
+    {
+      "check": "integration-tests",
+      "exit_code": 0,
+      "log": "integration-tests.log",
+      "sha256": "3f8a4f20163dad94a2ce92fbf1fabf92a8e068d47a1589a661bf8aa307ed9ba9",
+      "tests": 13
+    }
+  ],
+  "active_counts": {
+    "vergabestelle-behoerden": 8,
+    "bieter-unternehmen": 8,
+    "konkurrenten-rechtsschutz": 20
+  },
+  "preserved_module_counts": {
+    "vergabestelle-behoerden": 122,
+    "bieter-unternehmen": 113,
+    "konkurrenten-rechtsschutz": 20
+  },
+  "limits": "Technische Integration und redaktionelle Rollenbeschreibungen. Keine neue Primärquellenprüfung, keine Modellausführung. Quick-Smoke-Folgekorrekturen werden gesondert abgeschlossen."
+}

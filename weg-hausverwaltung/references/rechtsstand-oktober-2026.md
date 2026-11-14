@@ -4,7 +4,7 @@
 
 Diese Referenz aktualisiert die inhaltlich betroffenen WEG-Fragen des Plugins. Sie beruht auf den unten bezeichneten amtlichen Entscheidungs-PDFs und den einzeln gelesenen Normen. Das Quellenprotokoll unterscheidet Fundstelle, tatsächlich gelesene Randnummern und daraus abgeleitete Arbeitsregel. Die bloße Abrufbarkeit einer Datei ist keine Vollprüfung aller darin behandelten Fragen. Neuere Einzelfälle sind nicht allein wegen des Datums auf andere Rechtsfragen zu übertragen. Für die mietrechtliche und datenschutzrechtliche Überleitung sind die gesonderten Prüfregeln des jeweiligen Fachskills zu beachten.
 
-Die [Referenz Mai 2026](rechtsstand-mai-2026.md) bleibt als historischer Arbeitsstand erhalten. Bei abweichenden Aussagen gelten die hier dokumentierten Korrekturen. Der Skillordner `rechtsstand-mai-2026-faktenbank` bleibt aus Kompatibilitätsgründen bestehen, führt aber zu dieser Fassung. Quellen gemäß [Zitierweise](../../references/zitierweise.md) verwenden: Gericht, Entscheidungsform, Datum, Az., amtliche URL und konkrete Randnummer. Literaturhinweise in einem Urteil sind keine selbst gelesene Literatur und werden nicht als solche übernommen.
+Die [Referenz Mai 2026](rechtsstand-mai-2026.md) bleibt als historischer Arbeitsstand erhalten. Bei abweichenden Aussagen gelten die hier dokumentierten Korrekturen. Der Skillordner `rechtsstand-mai-2026-faktenbank` bleibt aus Kompatibilitätsgründen bestehen, führt aber zu dieser Fassung. Quellen gemäß [Zitierweise](repository/references/zitierweise.md) verwenden: Gericht, Entscheidungsform, Datum, Az., amtliche URL und konkrete Randnummer. Literaturhinweise in einem Urteil sind keine selbst gelesene Literatur und werden nicht als solche übernommen.
 
 ## 1.2. Schnellzugriff
 

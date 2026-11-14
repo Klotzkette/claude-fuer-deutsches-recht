@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "plugins": [{
+    "name": "beispiel-plugin",
+    "source": "./beispiel-plugin",
+    "keep": ["hauptproblem-bearbeiten"],
+    "routes": [{
+      "slug": "vertragsschluss-und-vertragsinhalt-pruefen",
+      "title": "Vertragsschluss und Vertragsinhalt prüfen",
+      "description": "Prüft Abschluss, Vertretungsmacht und Vertragsinhalt anhand der Korrespondenz und liefert eine belegte Vertragsfassung oder konkrete Rückfragen.",
+      "purpose": "Aus Vertragsunterlagen den tatsächlich vereinbarten Leistungsumfang und die noch offenen Abschlussfragen bestimmen.",
+      "inputs": ["Vertragsentwürfe und Fassungsverlauf", "Angebot, Annahme, Vollmachten und zugehörige Korrespondenz"],
+      "steps": ["Parteien, Fassungen und zeitliche Abfolge aus den Belegen ermitteln.", "Abschluss, Vertretungsmacht und Einbeziehung der Bedingungen getrennt prüfen.", "Offene Punkte der richtigen Vertragspartei zuordnen und die angeforderte Vertragsfassung erstellen."],
+      "outputs": ["Vertragsfassung mit nachvollziehbaren Änderungsvorschlägen und Belegstellen"],
+      "examples": ["Zwei E-Mail-Anhänge widersprechen sich beim Leistungsumfang: maßgebliche Fassung prüfen und eine bereinigte Vertragsfassung mit offenen Punkten liefern."],
+      "members": ["vertragsschluss", "vertretungsmacht", "vertragsinhalt"]
+    }]
+  }]
+}

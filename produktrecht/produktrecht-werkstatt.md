@@ -50,6 +50,12 @@ Beschreibt die Reklamation einen Gelenkbruch unter üblicher Belastung, prüfe, 
 
 Bei strittiger Fehlanwendung den konkreten Nutzungsablauf und die damalige Anleitung vergleichen. Eine behauptete Überlastung ohne Messung oder Zeugen bleibt eine Hypothese. Eine erkennbare Warnung kann die Nutzerinformation belegen, beantwortet aber nicht allein, ob eine vermeidbare Konstruktionsgefahr besteht. Für die Haftung zusätzlich festhalten, ob der untersuchte Defekt schon vor dem Ereignis bestand oder auch dessen Folge sein könnte.
 
+### 2.5. Sicherheitsnachweis bei zulassungspflichtigen Lebensmittelzutaten
+
+Für zulassungspflichtige Lebensmittelzutaten zunächst Produktkategorie und spezielles Zulassungsregime bestimmen. [EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85 und 195–201](https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html) betrifft Raucharoma-Primärprodukte nach der Verordnung (EG) Nr. 2065/2003: Der Antragsteller muss die Sicherheitsvoraussetzungen für Zulassung oder Verlängerung belegen; die Behörde muss nicht zuerst die Schädlichkeit nachweisen. Ein bisheriger Marktzugang oder ein weniger gut untersuchter Alternativprozess ersetzt diesen Nachweis nicht. Übergangsfristen ermöglichen Anpassungen und sind kein Unbedenklichkeitsnachweis (Rn. 222–225).
+
+Lege dafür verwendete Rezeptur, Zulassungsinhaber, erlaubte Verwendung, Dosis, wissenschaftliche Unterlagen und betroffene Chargen nebeneinander. Widerspricht ein neues Laborergebnis dem Zulassungsdossier, benenne die konkrete Lücke und überarbeite die bestellte Freigabe- oder Maßnahmenvorlage. Die Entscheidung betrifft weder Süßstoffe noch die Zusammensetzung von Schokolade und begründet keine allgemeine Beweislastregel für jeden Rückruf oder Produkthaftungsprozess. Rechtskraft wurde hier nicht geprüft; spätere Rechtsmittel vor tragender Verwendung ermitteln. Quellenprüfung am 14.11.2026: englischer amtlicher Volltext in den bezeichneten Passagen gelesen.
+
 ## 3. Digitale Bestandteile und Reparatur einbeziehen
 
 Ordne Hardware, eingebettete Software, App, Cloud-Funktion und Updatepfad einem nachvollziehbaren Produktstand zu. Prüfe Sicherheitsrelevanz, Änderungen, Cyberrisiken, Supportzeitraum und Updateinformation sowie Auswirkungen auf Konformität und Haftung. Ein geplanter Software-Rollout ist keine bereits wirksame Abhilfe: Testnachweis, erreichbare Geräte und tatsächlich installierte Versionen unterscheiden.

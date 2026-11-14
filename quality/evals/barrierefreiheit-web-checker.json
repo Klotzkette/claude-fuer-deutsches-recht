@@ -49,7 +49,7 @@
       "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren.",
       "16.10.2026: Technischen Nutzerweg und verwertbaren Befund vor Prüfkatalog gesetzt; Rechtsprechung nicht künstlich erzwungen."
     ],
-    "sha256": "c2be1b387bac419e8a6767b9d224a6196b960e0b276d23e996412acf3ad7842b",
+    "sha256": "b71c8fb21c7c9f8f8e16bf10a23438d0f54f9b152d38dea5f735e1ff67f1b589",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -94,7 +94,7 @@
           ]
         }
       ],
-      "target_skill": "tastatur-fokus-ueberwachungsstelle"
+      "target_skill": "rechtfertigung-bearbeiten"
     }
   ],
   "workshop_review": {

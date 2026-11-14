@@ -37,7 +37,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "4db503b4d7afc5409f853288ccf089eb39c5a1aeeac4666d62fb4772ffc06f61",
+    "sha256": "be308ac6a7525f41589a11e1caa0b1186b7d90b40fb72a61260dd581d77594df",
     "verdict": "revised",
     "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Redaktionelle Anschlussprüfung 16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "target_skill": "governance-und-anpassungsmechanismen"
+      "target_skill": "bestand-erfassen-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

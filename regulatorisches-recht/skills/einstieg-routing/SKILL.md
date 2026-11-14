@@ -11,21 +11,21 @@ Dieser Einstieg routet **Regulatorisches Recht** vom ersten Sachverhalt zu Rolle
 
 ## Fachlandkarte dieses Plugins
 
-- `anhoerung-red-team-und-qualitaetskontrolle` — Anhoerung RED Team und Qualitaetskontrolle
-- `anschluss-router` — Anschluss Router
-- `aufsichts-feed-monitor` — Aufsichts Feed Monitor
-- `aufsichtskommunikation-grundregeln` — Aufsichtskommunikation Grundregeln
-- `aufsichtsrecht-erstpruefung-und-mandatsziel` — Aufsichtsrecht Erstpruefung und Mandatsziel
-- `aufsichtssanktion-revision-spezial` — Aufsichtssanktion Revision Spezial
-- `aufsichtsverfahren-anhoerung-gwg` — Aufsichtsverfahren Anhoerung GWG
-- `aufsichtsverfahren-formular-portal-und-einreichung` — Aufsichtsverfahren Formular Portal und Einreichung
-- `dora-ikt-vertragspruefung` — Dora IKT Vertragspruefung
-- `dora-stellvertreter-und-konzern` — Dora Stellvertreter und Konzern
-- `enwg-feeds-heilmwerbg` — ENWG Feeds Heilmwerbg
-- `feeds-compliance-dokumentation-und-akte` — Feeds Compliance Dokumentation und Akte
-- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anhoerung-red-team-und-qualitaetskontrolle) — Anhoerung RED Team und Qualitaetskontrolle
+- `regulierungsverfahren-und-rechtsschutz-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `energie-und-netze-bearbeiten` (Fachthema: aufsichts-feed-monitor) — Aufsichts Feed Monitor
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: aufsichtskommunikation-grundregeln) — Aufsichtskommunikation Grundregeln
+- `energie-und-netze-bearbeiten` (Fachthema: aufsichtsrecht-erstpruefung-und-mandatsziel) — Aufsichtsrecht Erstpruefung und Mandatsziel
+- `energie-und-netze-bearbeiten` (Fachthema: aufsichtssanktion-revision-spezial) — Aufsichtssanktion Revision Spezial
+- `regulierungsverfahren-und-rechtsschutz-bearbeiten` (Fachthema: aufsichtsverfahren-anhoerung-gwg) — Aufsichtsverfahren Anhoerung GWG
+- `regulierungsverfahren-und-rechtsschutz-bearbeiten` (Fachthema: aufsichtsverfahren-formular-portal-und-einreichung) — Aufsichtsverfahren Formular Portal und Einreichung
+- `regulierungsverfahren-und-rechtsschutz-bearbeiten` (Fachthema: dora-ikt-vertragspruefung) — Dora IKT Vertragspruefung
+- `regulierungsverfahren-und-rechtsschutz-bearbeiten` (Fachthema: dora-stellvertreter-und-konzern) — Dora Stellvertreter und Konzern
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: enwg-feeds-heilmwerbg) — ENWG Feeds Heilmwerbg
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: feeds-compliance-dokumentation-und-akte) — Feeds Compliance Dokumentation und Akte
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fristen-risikoampel-mandantenkommunikation) — Fristen Risikoampel Mandantenkommunikation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

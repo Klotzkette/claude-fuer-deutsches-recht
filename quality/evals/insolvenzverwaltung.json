@@ -72,7 +72,7 @@
       "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
       "2026-11-10: Umsatzsteuerberichtigung bei vorinsolvenzlicher Leistung und Zahlung nach Eröffnung getrennt nachvollzogen."
     ],
-    "sha256": "4b631a64b4c33ab55e8049d5f2c057e9330c3b5f579df5f2923efc1b9b894e64"
+    "sha256": "c15a3c3ba87fa7bb1f01617a48b0fb7102a51d8f1ae1a33646368a1b03062df7"
   },
   "selection": {
     "positive": [
@@ -115,11 +115,11 @@
           ]
         }
       ],
-      "target_skill": "vorlaeufige-verwaltung"
+      "target_skill": "eroeffnung-vorlaeufige-verwaltung-bearbeiten"
     },
     {
       "id": "schlussbericht-konten-und-verteilung",
-      "target_skill": "verteilung-iv-vorlaeufige",
+      "target_skill": "tabelle-verteilung-bearbeiten",
       "request": "Im eröffneten Verfahren der Nordlicht Handels GmbH soll der Schlussbericht vorbereitet werden. Das Massekonto weist zum 30. September 2026 612430.18 EUR aus, die Buchhaltung 609430.18 EUR. Die Differenz von 3000 EUR ist ungeklärt. Belegte noch zu zahlende Masseverbindlichkeiten und Gerichtskosten betragen zusammen 52430.18 EUR; für beantragte, noch nicht festgesetzte Vergütung und Auslagen werden 80000 EUR angesetzt. Eine Steuerreserve von 5000 EUR ist fachlich begründet. Die festgestellten gewöhnlichen Insolvenzforderungen betragen 900000 EUR und enthalten die persönliche Forderung einer gesicherten Bank über 250000 EUR; aus der Sicherheit hat die Bank 200000 EUR erhalten, ihr endgültiger Ausfall beträgt 50000 EUR. Zusätzlich ist eine Forderung über 100000 EUR bestritten. Der Gläubiger hat nach öffentlicher Bekanntmachung am 1. Oktober am 10. Oktober die erhobene Feststellungsklage nachgewiesen. Eine erwartete, aber weder festgesetzte noch ausgezahlte Steuererstattung von 25000 EUR ist aktenkundig. Erstellen Sie einen ausformulierten Schlussbericht, die Schlussrechnungsabstimmung, das Schlussverzeichnis mit Verteilungsrechnung sowie eine Freigabe- und Vollzugsliste. Veranlassen Sie keine Einreichung oder Zahlung.",
       "input_files": [],
       "deliverables": [
@@ -178,8 +178,8 @@
       "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
       "insolvenzverwaltung/README.md",
       "quality/evals/insolvenzverwaltung.json",
-      "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md",
-      "insolvenzverwaltung/skills/steuern-sozialversicherung/SKILL.md"
+      "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/FACHINHALT.md",
+      "insolvenzverwaltung/skills/steuern-sozialversicherung/FACHINHALT.md"
     ],
     "opening_change": "Verwalterbefugnis, Massebestand und zulässige Zahlung anhand des Beschlusses und der Konten bestimmen.",
     "norms": [

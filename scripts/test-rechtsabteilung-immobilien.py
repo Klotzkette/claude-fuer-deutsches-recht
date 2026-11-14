@@ -6,6 +6,7 @@ import importlib.util
 import io
 import json
 import posixpath
+import runpy
 import tempfile
 import unittest
 import zipfile
@@ -17,6 +18,7 @@ from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES
 from release_routing import validate_plugin_version
 from werkstatt_visualisierung import BEGIN, block, load_profiles, remove_block
+from skill_sources import active_owner, fachinhalt_path, original_skill_sources, registry
 
 ROOT = Path(__file__).resolve().parents[1]
 SPEC = importlib.util.spec_from_file_location(
@@ -25,6 +27,9 @@ SPEC = importlib.util.spec_from_file_location(
 BUILD = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(BUILD)
 P, B, PROJECT = BUILD.PLUGIN, BUILD.COMPANION, BUILD.PROJECT
+MIGRATION = runpy.run_path(str(ROOT / "scripts/consolidate-skill-cap.py"))
+SOURCE_MAP = json.loads((ROOT / "quality/skill-consolidation/2026-11-14/source-map.json").read_text())
+SOURCE_FILES = {entry["original_path"]: entry for entry in SOURCE_MAP["files"]}
 
 # Bereits auf main geprüfte Importkorrekturen und fachliche Präzisierungen.
 # Außerhalb der separat geprüften, kanonischen Oberflächenanweisung müssen alle
@@ -50,6 +55,21 @@ APPROVED_SOURCE_HASHES = {
 
 
 class ImportTests(unittest.TestCase):
+    def original_bytes(self, original):
+        """Nur belegte mechanische Migration zurücknehmen, Freigaben beibehalten."""
+        target = fachinhalt_path(original)
+        source = target.read_bytes()
+        record = SOURCE_FILES.get(original.relative_to(ROOT).as_posix())
+        if record is not None:
+            self.assertEqual(target.relative_to(ROOT).as_posix(), record["path"])
+            self.assertEqual(hashlib.sha256(source).hexdigest(), record["sha256"])
+            source = MIGRATION["restore_original"](source, record["edits"])
+            self.assertEqual(hashlib.sha256(source).hexdigest(), record["original_sha256"])
+        else:
+            # Der unverändert separat installierte beA-Begleiter hat keine Migration.
+            self.assertEqual(target, original)
+        return source
+
     def test_snapshot_is_complete_and_unchanged(self):
         record = json.loads((PROJECT / "herkunft.json").read_text())
         with zipfile.ZipFile(BUILD.SNAPSHOT) as archive:
@@ -70,18 +90,29 @@ class ImportTests(unittest.TestCase):
                 ("forderungsmanagement-immobilien", P, 50),
                 (B, B, 9),
             ):
-                self.assertEqual(
-                    len(list((ROOT / new / "skills").glob("*/SKILL.md"))), count
-                )
+                original_sources = original_skill_sources(ROOT / new)
+                self.assertEqual(len(original_sources), count)
+                active = {path.parent.name for path in (ROOT / new / "skills").glob("*/SKILL.md")}
+                configuration = next((row for row in registry() if row["name"] == new), None)
+                expected = (set(configuration["keep"]) | {route["slug"] for route in configuration["routes"]}
+                            if configuration else {path.parent.name for path in original_sources})
+                self.assertEqual(active, expected)
+                self.assertLessEqual(len(active), 20)
+                for original in original_sources:
+                    owner = active_owner(ROOT / new, original.parent.name)
+                    self.assertIn(owner, active)
+                    if owner != original.parent.name:
+                        self.assertIn(f"../{original.parent.name}/FACHINHALT.md",
+                                      (ROOT / new / "skills" / owner / "SKILL.md").read_text())
                 for item in archive.infolist():
                     if item.is_dir() or not item.filename.startswith(
                         (old + "/skills/", old + "/references/")
                     ):
                         continue
                     relative = item.filename.removeprefix(old + "/")
-                    target = ROOT / new / relative
+                    target = fachinhalt_path(ROOT / new / relative)
                     self.assertTrue(target.is_file(), relative)
-                    source = target.read_bytes()
+                    source = self.original_bytes(ROOT / new / relative)
                     if BEGIN.encode() in source:
                         self.assertIn(relative, {
                             f"skills/{name}/SKILL.md"
@@ -203,13 +234,16 @@ class ImportTests(unittest.TestCase):
                     for relative in (ROOT / name / "references").glob("*.md"):
                         member = relative.relative_to(ROOT / name).as_posix()
                         self.assertEqual(archive.read(member), relative.read_bytes(), member)
-                    self.assertEqual(
-                        sum(
-                            n.startswith("skills/") and n.endswith("/SKILL.md")
-                            for n in archive.namelist()
-                        ),
-                        count,
-                    )
+                    active = {n for n in archive.namelist() if n.startswith("skills/") and n.endswith("/SKILL.md")}
+                    expected_active = {path.relative_to(ROOT / name).as_posix()
+                                       for path in (ROOT / name / "skills").glob("*/SKILL.md")}
+                    self.assertEqual(active, expected_active)
+                    self.assertLessEqual(len(active), 20)
+                    original_sources = original_skill_sources(ROOT / name)
+                    self.assertEqual(len(original_sources), count)
+                    for source in original_sources:
+                        relative = source.relative_to(ROOT / name).as_posix()
+                        self.assertEqual(archive.read(relative), source.read_bytes(), relative)
                     self.assertFalse(
                         any(
                             n.endswith(("-werkstatt.md", "-schnellstart.md", ".zip"))

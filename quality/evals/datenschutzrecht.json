@@ -136,6 +136,27 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:72023L2225DEU_202603294",
       "checked_on": "2026-11-10",
       "supports": "BGBl. 2026 I Nr. 139, Art. 3 Nr. 3 und 4, Art. 16 Abs. 1. § 31 BDSG wird zum 20.11.2026 aufgehoben, gleichzeitig tritt § 37a BDSG in Kraft. Unionsrechtliche Voraussetzungen und datumsbezogene Anwendung gesondert prüfen."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=316753&doclang=DE",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urteil vom 05.11.2026, C-205/25, Lindenberg, Rn. 29–47, 54–67: Aufsicht als Verantwortlicher eigener Beschwerdeverarbeitung; eigene Daten statt allgemeinem Aktenzugang; keine pauschale Verweigerung, konkrete Einschränkung und mögliche Schwärzung.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "492736d42dc2fa5e5497beed79131c8bc16348c5f3c5f50ce669975304751969"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=312704&doclang=DE",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urteil vom 18.06.2026, C-484/24, NTH Haustechnik, Rn. 81–86 und 108–130: Art. 17 Abs. 3 Buchst. e DSGVO ist keine eigene Verarbeitungsgrundlage; gerichtliche Verarbeitung von vorher rechtswidrig erlangten Daten nicht generell ausgeschlossen; Datenminimierung vor Offenlegung. Nationale Zulässigkeit und ursprüngliche Verarbeitung getrennt.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "72d4d8a669518dd97be977705bfda61d9f33d500cdc5082e05fb9bb5dbf82560"
+    },
+    {
+      "url": "https://www.edpb.europa.eu/system/files/documents/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf",
+      "checked_on": "2026-11-14",
+      "supports": "EDSA-Leitlinien 01/2022, Version 2.1, Rn. 153–161 und Abschnitt 5.3: Datenkopieformat und Monatsfrist nach VO 1182/71 einschließlich Wochenend-/Feiertagsende. Behördenleitlinie, kein Urteil. Korrektur der unzutreffenden Bezugnahme auf die EuGH-Verfahrensordnung.",
+      "verification_status": "amtliche_behoerdenquelle_passagenbezogen",
+      "source_sha256": "b399b25634b379576378d725284d5ed2b1a81c93c34ade9ee8eb48ef5eb75032"
     }
   ],
   "mini_review": {
@@ -155,7 +176,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben.",
+    "reason": "Gezielte Quellenvertiefung: Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben. 14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
     "changes": [
       "Artikel 15 Absatz 3 und 4 DSGVO auf verständliche vollständige Datenkopie mit erforderlichem Kontext angewandt.",
       "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
@@ -165,9 +186,11 @@
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Auskunft, Verarbeitung und konkretes Dokument werden unmittelbar verständlich; der vorhandene CRIF-Absatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24",
-      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Brillen Rottler und Dun & Bradstreet auf amtliche Volltexte umgestellt. Scoring nach dem Stichtag der BDSG-Neuregelung eingeordnet."
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Brillen Rottler und Dun & Bradstreet auf amtliche Volltexte umgestellt. Scoring nach dem Stichtag der BDSG-Neuregelung eingeordnet.",
+      "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
     ],
-    "sha256": "9212f68775ec6d9d09810822e586849c9b2a2371e7dae02d6c3eb64769450ce4"
+    "sha256": "947953d7467fdf67039068a68e088441a45dde6d9b65884085cc7f1316f30642",
+    "reviewed_on": "2026-11-14"
   },
   "selection": {
     "positive": [
@@ -183,7 +206,7 @@
     {
       "id": "agenten-digitalrecht-2026",
       "request": "Ein Lieferant verarbeitet Rechnungen weisungsgebunden, betreibt daneben ein eigenes Trainingsprogramm und bewahrt ein Agentengedächtnis auf. Nach einem Löschantrag erklärt er alle Bestände wegen Buchhaltung für zehn Jahre gesperrt und nennt einen Namensfilter vollständige Löschung. Eingang war gestern. Erstellen Sie eine Betroffenenantwort und eine konkrete Anforderung an den Lieferanten. Keine Löschung ausführen; aus der Zusage kein gelesenes Löschprotokoll machen.",
-      "target_skill": "datenschutz-loeschpflicht-art-17-und-aufbewahrung",
+      "target_skill": "betroffenenrechte-auskunft-loeschung-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Betroffenenantwort.docx",
@@ -253,7 +276,7 @@
           ]
         }
       ],
-      "target_skill": "datenpanne-meldung"
+      "target_skill": "datenpanne-reaktion-meldung-bearbeiten"
     },
     {
       "id": "personalverwaltung-verzeichnis-omnibus",
@@ -285,7 +308,39 @@
           ]
         }
       ],
-      "target_skill": "verarbeitungsverzeichnis-vvt-generator"
+      "target_skill": "dsfa-vvt-technische-organisation-bearbeiten"
+    },
+    {
+      "id": "aufsicht-eigene-daten-drittbelange",
+      "request": "Eine Bürgerin beschwerte sich über einen Onlinehändler bei der Datenschutzaufsicht. Nun verlangt sie Auskunft über ihre eigenen Daten, die die Aufsicht in diesem Beschwerdeverfahren verarbeitet. Die Akte enthält ihre Beschwerde, interne Bewertungen ihrer Angaben und Korrespondenz mit Namen anderer Kunden. Die Behörde möchte wegen ihrer Unabhängigkeit und der Daten anderer Kunden jede Auskunft verweigern. Erstelle am Rechtsstand 14.11.2026 eine begründete Antwortvorlage in ergebnis.md. Keine Übermittlung ist beauftragt.",
+      "target_skill": "betroffenenrechte-auskunft-loeschung-bearbeiten",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Ordnet die Aufsicht für ihre eigene Verarbeitung als Verantwortliche ein und prüft Artikel 15 anhand EuGH C-205/25 statt die Unternehmensauskunft mit der Aufsichtsakte gleichzusetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Lehnt die pauschale Verweigerung ab und prüft konkrete Drittbelange, Einschränkungsnorm, Abwägung sowie Schwärzung oder Anonymisierung unter Erhalt des benötigten Kontexts.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Unterscheidet eigene personenbezogene Daten und zugehörige Verarbeitungsinformation von einem allgemeinen Anspruch auf die gesamte Verwaltungsakte.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
@@ -296,10 +351,10 @@
       "datenschutzrecht/datenschutzrecht-werkstatt.md",
       "datenschutzrecht/datenschutzrecht-schnellstart.md",
       "quality/evals/datenschutzrecht.json",
-      "datenschutzrecht/skills/datenpanne-meldung/SKILL.md",
+      "datenschutzrecht/skills/datenpanne-meldung/FACHINHALT.md",
       "datenschutzrecht/datenschutzrecht-schnellstart.txt",
       "datenschutzrecht/references/urteilsdatenbanken-medienprivileg.md",
-      "datenschutzrecht/skills/datenschutz-betroffenenrechte-art-15-22-orchestriert/SKILL.md"
+      "datenschutzrecht/skills/datenschutz-betroffenenrechte-art-15-22-orchestriert/FACHINHALT.md"
     ],
     "opening_change": "Konkrete Datenverarbeitung, Auskunft, Vorfall oder Vertragsrolle bearbeiten. Workflow-Ergänzung: Leer: Auskunftsantwort, Datenvorfall oder Auftragsverarbeitungsvertrag anbieten. Dateien ohne Aufgabe: Vorfallsbericht oder Auskunftsmaterial still lesen; Erstmeldung, interne Meldeentscheidung oder Antwortziel klären. Klarer Auftrag: das verlangte Datenschutzdokument unmittelbar entwerfen, keine Materialzusammenfassung und keine Fragen zu bereits bekannten Systemen.",
     "norms": [
@@ -424,5 +479,51 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_followup_2026_11_14": {
+    "method": "desk_review",
+    "date": "2026-11-14",
+    "scope": "Gezielte amtliche Volltextprüfung der genannten Entscheidungen; geänderte Werkstatt im Zusammenhang gelesen, keine Gesamtneuverifikation.",
+    "files": [
+      {
+        "path": "datenschutzrecht/datenschutzrecht-werkstatt.md",
+        "sha256": "947953d7467fdf67039068a68e088441a45dde6d9b65884085cc7f1316f30642"
+      },
+      {
+        "path": "datenschutzrecht/skills/dsgvo-auskunft-antwort/SKILL.md",
+        "sha256": "129b6c13179bab6afac5d3f3a5b6268acabdf55cbd2810b6b4bc3843c6ab38af"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=316753&doclang=DE",
+        "checked_on": "2026-11-14",
+        "supports": "EuGH, Urteil vom 05.11.2026, C-205/25, Lindenberg, Rn. 29–47, 54–67: Aufsicht als Verantwortlicher eigener Beschwerdeverarbeitung; eigene Daten statt allgemeinem Aktenzugang; keine pauschale Verweigerung, konkrete Einschränkung und mögliche Schwärzung.",
+        "verification_status": "amtlicher_volltext_passagenbezogen",
+        "source_sha256": "492736d42dc2fa5e5497beed79131c8bc16348c5f3c5f50ce669975304751969"
+      },
+      {
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=312704&doclang=DE",
+        "checked_on": "2026-11-14",
+        "supports": "EuGH, Urteil vom 18.06.2026, C-484/24, NTH Haustechnik, Rn. 81–86 und 108–130: Art. 17 Abs. 3 Buchst. e DSGVO ist keine eigene Verarbeitungsgrundlage; gerichtliche Verarbeitung von vorher rechtswidrig erlangten Daten nicht generell ausgeschlossen; Datenminimierung vor Offenlegung. Nationale Zulässigkeit und ursprüngliche Verarbeitung getrennt.",
+        "verification_status": "amtlicher_volltext_passagenbezogen",
+        "source_sha256": "72d4d8a669518dd97be977705bfda61d9f33d500cdc5082e05fb9bb5dbf82560"
+      },
+      {
+        "url": "https://www.edpb.europa.eu/system/files/documents/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf",
+        "checked_on": "2026-11-14",
+        "supports": "EDSA-Leitlinien 01/2022, Version 2.1, Rn. 153–161 und Abschnitt 5.3: Datenkopieformat und Monatsfrist nach VO 1182/71 einschließlich Wochenend-/Feiertagsende. Behördenleitlinie, kein Urteil. Korrektur der unzutreffenden Bezugnahme auf die EuGH-Verfahrensordnung.",
+        "verification_status": "amtliche_behoerdenquelle_passagenbezogen",
+        "source_sha256": "b399b25634b379576378d725284d5ed2b1a81c93c34ade9ee8eb48ef5eb75032"
+      }
+    ],
+    "audit_path": "quality/source-audits/2026-11-14/kerngebiete.md",
+    "limits": "Historische Quellenprüfungen behalten ihre eigenen Daten und ihren damaligen Status. Kein Live-Modelltest; keine behauptete vollständige Rechtsstandszertifizierung des Plugins.",
+    "evaluation_cases": {
+      "added": [
+        "aufsicht-eigene-daten-drittbelange"
+      ],
+      "status": "Prüffall und Kriterien redaktionell angelegt; kein Live-Modelllauf durchgeführt."
+    }
   }
 }

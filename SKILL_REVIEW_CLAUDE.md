@@ -132,7 +132,7 @@ Das ist nicht-aussagekräftiges Marketing-Geräusch. In `beamtenrecht/kompendium
 
 ### Problem 4: Restwrapper-Skills mit fast identischem Body
 
-**Beleg:** `beamtenrecht/skills/red-team-beamtenrecht/SKILL.md` (38 Zeilen) und `beamtenrecht/skills/output-waehlen-memo-widerspruch-eilantrag/SKILL.md` (38 Zeilen) haben **denselben Prüfprogramm-Block** ("Status und Rechtsquelle / Eingriff und Ziel / Materielle Prüfung / Verfahren / Output"), **dieselben Pflichtfragen** ("Welcher Status liegt vor: Beamter, Richter, Bewerber, …"), **dieselbe Ausgabeformatliste** ("Kurzantwort in drei Sätzen / Checkliste …"). Nur `## Aufgabe` und Frontmatter unterscheiden sich.
+**Beleg:** `beamtenrecht/skills/red-team-beamtenrecht/FACHINHALT.md` (38 Zeilen) und `beamtenrecht/skills/output-waehlen-memo-widerspruch-eilantrag/FACHINHALT.md` (38 Zeilen) haben **denselben Prüfprogramm-Block** ("Status und Rechtsquelle / Eingriff und Ziel / Materielle Prüfung / Verfahren / Output"), **dieselben Pflichtfragen** ("Welcher Status liegt vor: Beamter, Richter, Bewerber, …"), **dieselbe Ausgabeformatliste** ("Kurzantwort in drei Sätzen / Checkliste …"). Nur `## Aufgabe` und Frontmatter unterscheiden sich.
 
 In `beamtenrecht` allein finden sich **37 Skills**, die diese identische "Status und Rechtsquelle"-Liste enthalten.
 
@@ -357,11 +357,11 @@ Das Repo ist nach der Codex-Konsolidierung **fachlich brauchbar, aber technisch 
 - `beamtenrecht/skills/kompendium-06-besold-neu-003-besol-bis-besold-neu-009-minde/SKILL.md` (384 Zeilen)
 - `selbstvertreter-amtsgericht/skills/kompendium-01-anfaenger-workflow-a-bis-fristbeginn-zustellu/SKILL.md` (gelesen Anfang)
 - `roemisches-recht/skills/kompendium-11-rom-074-bereicherung-bis-rom-081-lateinische/SKILL.md` (Anfang)
-- `arbeitszeugnis-analyse/skills/rote-flaggen-katalog/SKILL.md` (65 Zeilen)
+- `arbeitszeugnis-analyse/skills/rote-flaggen-katalog/FACHINHALT.md` (65 Zeilen)
 - `steuerrecht-anwalt-und-berater/skills/anw-kaltstart-interview/SKILL.md` (Anfang)
 - `selbstvertreter-sozialgericht/skills/allgemein/SKILL.md` (Anfang)
-- `beamtenrecht/skills/red-team-beamtenrecht/SKILL.md` (38 Zeilen)
-- `beamtenrecht/skills/output-waehlen-memo-widerspruch-eilantrag/SKILL.md` (38 Zeilen)
+- `beamtenrecht/skills/red-team-beamtenrecht/FACHINHALT.md` (38 Zeilen)
+- `beamtenrecht/skills/output-waehlen-memo-widerspruch-eilantrag/FACHINHALT.md` (38 Zeilen)
 
 ### Plugins mit hoher Kompendien-Quote (>85 %)
 - `selbstvertreter-amtsgericht` 96 %

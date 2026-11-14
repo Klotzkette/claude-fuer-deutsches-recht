@@ -26,22 +26,22 @@ Beiratsfragen sind eine Spezialspur. Nutze sie erst, wenn Satzungsgrundlage, Ent
 
 ## Fachlandkarte dieses Plugins
 
-- `agio-und-kapitalruecklage` — Agio und Kapitalruecklage
-- `anmeldungen-verhandlung-vergleich-und-eskalation` — Anmeldungen Verhandlung Vergleich und Eskalation
-- `anpassen` — Anpassen
-- `mandat-triage-gesellschaftsrecht` — 1. Gesellschaftsrechtlichen Auftrag bearbeiten
-- `arbeitsbereich-mandantenentscheidung` — Arbeitsbereich Mandantenentscheidung
-- `aufsichtsrat-protokoll` — Aufsichtsrat Protokoll
-- `gesellschafterbeschluss` — Beschlussweg, Mehrheit, Form und Dokumentation
-- `gesellschafterliste-legitimation-und-widerspruch` — Listenlage, Widerspruch und Legitimationswirkung
-- `gesellschafterstreit-einstweiliger-rechtsschutz` — Eilantrag, Verfügungsgrund und Sicherungsziel
-- `geschaeftsfuehrer-haftung-43-gmbhg` — Organpflicht, Beweislast, Entlastung und Schaden
-- `kapitalerhaltung-verdeckte-ausschuettung` — Kapitalbindung, Rückgewähr und Zahlungsstopp
-- `umwandlung-formwechsel-verschmelzung-spaltung` — Maßnahme, Beschluss, Registerwirkung und Vollzug
-- `liquidation-loeschung-und-nachtragsliquidation` — Abwicklung, Sperrjahr, Nachtragsliquidation
-- `beirat-abgrenzung-aufsichtsrat` — nur bei echter Beirats- oder Aufsichtsratsweiche
-- `dokumente-intake` — Dokumente Intake
-- `quellen-livecheck` — Quellen Livecheck
+- `kapital-und-strukturmassnahmen-bearbeiten` (Fachthema: agio-und-kapitalruecklage) — Agio und Kapitalruecklage
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anmeldungen-verhandlung-vergleich-und-eskalation) — Anmeldungen Verhandlung Vergleich und Eskalation
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: anpassen) — Anpassen
+- `gesellschafter-und-beschlussfassung-bearbeiten` (Fachthema: mandat-triage-gesellschaftsrecht) — 1. Gesellschaftsrechtlichen Auftrag bearbeiten
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: arbeitsbereich-mandantenentscheidung) — Arbeitsbereich Mandantenentscheidung
+- `organe-und-vertretung-bearbeiten` (Fachthema: aufsichtsrat-protokoll) — Aufsichtsrat Protokoll
+- `gruendung-und-gesellschaftsvertrag-bearbeiten` (Fachthema: gesellschafterbeschluss) — Beschlussweg, Mehrheit, Form und Dokumentation
+- `register-und-vollzug-bearbeiten` (Fachthema: gesellschafterliste-legitimation-und-widerspruch) — Listenlage, Widerspruch und Legitimationswirkung
+- `gruendung-und-gesellschaftsvertrag-bearbeiten` (Fachthema: gesellschafterstreit-einstweiliger-rechtsschutz) — Eilantrag, Verfügungsgrund und Sicherungsziel
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: geschaeftsfuehrer-haftung-43-gmbhg) — Organpflicht, Beweislast, Entlastung und Schaden
+- `kapital-und-strukturmassnahmen-bearbeiten` (Fachthema: kapitalerhaltung-verdeckte-ausschuettung) — Kapitalbindung, Rückgewähr und Zahlungsstopp
+- `kapital-und-strukturmassnahmen-bearbeiten` (Fachthema: umwandlung-formwechsel-verschmelzung-spaltung) — Maßnahme, Beschluss, Registerwirkung und Vollzug
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: liquidation-loeschung-und-nachtragsliquidation) — Abwicklung, Sperrjahr, Nachtragsliquidation
+- `organe-und-vertretung-bearbeiten` (Fachthema: beirat-abgrenzung-aufsichtsrat) — nur bei echter Beirats- oder Aufsichtsratsweiche
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: quellen-livecheck) — Quellen Livecheck
 
 ## Arbeitsweg
 

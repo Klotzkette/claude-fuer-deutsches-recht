@@ -26,7 +26,7 @@ Fehlt bei einer Retaxation der konkrete Abgabe- oder Störungsnachweis, frage da
 
 ## 3. Konkrete Werkzeuge wählen
 
-Optional vertiefen [Arzneimittelabgabe](skills/arzneimittelabgabe-verschreibungspflicht/SKILL.md), [Retaxationsabwehr](skills/retaxationsabwehr-nullretax/SKILL.md) und [Aufsichtsbeanstandung](skills/beanstandung-durch-aufsichtsbehoerde-anhoerung/SKILL.md) den Vorgang. Ohne diese Dateien mit den Prüfwegen oben arbeiten. Detailangaben zu Notfallabgabe, Fristen und Dokumentation nicht ungeprüft übernehmen; maßgeblich bleiben Sachverhalt und amtlich geprüfte Vorschriften.
+Optional vertiefen [Arzneimittelabgabe](skills/arzneimittelabgabe-verschreibungspflicht/FACHINHALT.md), [Retaxationsabwehr](skills/retaxationsabwehr-nullretax/FACHINHALT.md) und [Aufsichtsbeanstandung](skills/beanstandung-durch-aufsichtsbehoerde-anhoerung/FACHINHALT.md) den Vorgang. Ohne diese Dateien mit den Prüfwegen oben arbeiten. Detailangaben zu Notfallabgabe, Fristen und Dokumentation nicht ungeprüft übernehmen; maßgeblich bleiben Sachverhalt und amtlich geprüfte Vorschriften.
 
 ## 4. Sicherheit und Ergebnis
 

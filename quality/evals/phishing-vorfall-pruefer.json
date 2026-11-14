@@ -203,7 +203,7 @@
           ]
         }
       ],
-      "target_skill": "phishing-tan"
+      "target_skill": "anspruch-und-gegenanspruch-bearbeiten"
     },
     {
       "id": "tukowiecka-rabenstein-erstattung-vor-regress",
@@ -249,7 +249,7 @@
           ]
         }
       ],
-      "target_skill": "phishing-bgb-675u-haftung"
+      "target_skill": "anspruch-und-gegenanspruch-bearbeiten"
     },
     {
       "id": "zahlerbetrugsverdacht-objektive-gruende-und-mitteilung",
@@ -295,7 +295,7 @@
           ]
         }
       ],
-      "target_skill": "phishing-bgb-675u-haftung"
+      "target_skill": "anspruch-und-gegenanspruch-bearbeiten"
     },
     {
       "id": "bankaufrechnung-ist-kein-pauschaler-standardausweg",
@@ -341,7 +341,7 @@
           ]
         }
       ],
-      "target_skill": "phishing-bgb-675u-haftung"
+      "target_skill": "anspruch-und-gegenanspruch-bearbeiten"
     },
     {
       "id": "endgueltige-gutschrift-und-spaeterer-regress",
@@ -387,7 +387,7 @@
           ]
         }
       ],
-      "target_skill": "phishing-bgb-675v-grobfahrlaessig"
+      "target_skill": "anspruch-und-gegenanspruch-bearbeiten"
     },
     {
       "id": "selbst-autorisierter-kauf-ist-nicht-tukowiecka",
@@ -433,7 +433,7 @@
           ]
         }
       ],
-      "target_skill": "pruefen"
+      "target_skill": "arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

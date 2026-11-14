@@ -2,6 +2,7 @@
 """Regressionen bei sprechenden Namen und bedarfsgeladenen Fachvertiefungen."""
 
 from pathlib import Path
+import json
 import runpy
 import tempfile
 import unittest
@@ -66,6 +67,42 @@ class SkillSelectionTests(unittest.TestCase):
     def test_reference_cannot_escape_plugin(self):
         self.skill()
         self.assertTrue(self.errors({**self.migration, "reference": "../../../../outside.md"}))
+
+    def test_preserved_sibling_content_must_be_explicitly_linked(self):
+        skill = self.skill()
+        reference = self.root / "alte-auswahl" / "FACHINHALT.md"
+        reference.parent.mkdir()
+        reference.write_text("# Vollständiger Fachinhalt\n", encoding="utf-8")
+        migration = {**self.migration, "reference": "../alte-auswahl/FACHINHALT.md"}
+        self.assertTrue(self.errors(migration))
+        self.skill(extra="[Fachinhalt](../alte-auswahl/FACHINHALT.md)")
+        self.assertEqual([], self.errors(migration))
+        # Die Erweiterung lässt eine einzelne Datei oder eine fremde Bibliothek
+        # außerhalb des installierbaren Plugins weiterhin nicht passieren.
+        outsider = self.repo / "fremdes-plugin.md"
+        outsider.write_text("# Fremd")
+        self.skill(extra="[Fremd](../../../fremdes-plugin.md)")
+        self.assertTrue(self.errors({**self.migration, "reference": "../../../fremdes-plugin.md"}))
+
+    def test_marketplace_source_resolves_nested_plugins(self):
+        self.root = self.repo / "oberordner/fachgebiet/skills"
+        self.skill(extra="[Fachinhalt](../alte-auswahl/FACHINHALT.md)")
+        reference = self.root / "alte-auswahl/FACHINHALT.md"
+        reference.parent.mkdir()
+        reference.write_text("# Alt\n")
+        marketplace = self.repo / ".claude-plugin/marketplace.json"
+        marketplace.parent.mkdir()
+        marketplace.write_text(json.dumps({"plugins": [{"name": "fachgebiet", "source": "./oberordner/fachgebiet"}]}))
+        self.assertEqual([], self.errors({**self.migration, "reference": "../alte-auswahl/FACHINHALT.md"}))
+
+    def test_sibling_reference_symlink_cannot_escape_plugin(self):
+        self.skill(extra="[Fachinhalt](../alte-auswahl/FACHINHALT.md)")
+        outsider = self.repo / "fremd.md"
+        outsider.write_text("# Fremd")
+        reference = self.root / "alte-auswahl/FACHINHALT.md"
+        reference.parent.mkdir()
+        reference.symlink_to(outsider)
+        self.assertTrue(self.errors({**self.migration, "reference": "../alte-auswahl/FACHINHALT.md"}))
 
     def test_equal_titles_are_only_review_candidates(self):
         self.skill()

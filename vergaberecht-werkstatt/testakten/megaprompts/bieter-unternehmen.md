@@ -49,70 +49,70 @@ Schwellenwerte 2026/2027 nicht als ungeordnete Verordnungsliste behandeln: Deleg
 | Trigger | Exakter Skill-Slug |
 |---|---|
 | Kaltstart, Unterlagenpaket, Portalexport oder unklare Rolle | `vergabe-os-master-orchestrator` |
-| Komplexe Bieterakte mit Fristen, Belegen und mehreren Risiken | `bieter-dashboard-canvas` |
-| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `unterlagen-und-lv-datenformate-auslesen` |
-| Angebotsformat, Systemdaten oder Angebotsfreeze | `angebot-in-vorgegebenem-format-erstellen` |
-| Legacy: SAP/ERP/CRM/HR/AVA/DMS/API/MCP oder Datenmapping | `legacy-systeme-integration` |
-| nicht niedrigster Preis, aber bestes Angebot | `qualitaetsvorsprung-nachweisen` |
-| Netto-Null, Windrotorblatt, Rezyklierbarkeit oder Herkunftsquote | `netto-null-technologien-vergabe` |
-| Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG | `bundeswehrbeschaffung-bwbbg-2026` |
-| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `bieterfragen-antworten-management` |
-| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `21-ruegeschreiben-erstellen` |
-| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `nachpruefungsantrag-powerdraft` |
-| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `vergabekammer-verhandlung-vergleich-und-eskalation` |
-| Ausschluss, Eignung, Nachforderung oder Selbstreinigung | `eignungspruefung` |
-| BTTG, Tariftreue, Lohnkalkulation oder Nachunternehmer | `09-angebotskalkulation-stueckpreise` |
-| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `08-bietergemeinschaft-bildung` |
+| Komplexe Bieterakte mit Fristen, Belegen und mehreren Risiken | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` |
+| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` |
+| Angebotsformat, Systemdaten oder Angebotsfreeze | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` |
+| Legacy: SAP/ERP/CRM/HR/AVA/DMS/API/MCP oder Datenmapping | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| nicht niedrigster Preis, aber bestes Angebot | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` |
+| Netto-Null, Windrotorblatt, Rezyklierbarkeit oder Herkunftsquote | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
+| Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` |
+| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` |
+| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` |
+| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` |
+| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: vergabekammer-verhandlung-vergleich-und-eskalation` |
+| Ausschluss, Eignung, Nachforderung oder Selbstreinigung | `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung` |
+| BTTG, Tariftreue, Lohnkalkulation oder Nachunternehmer | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise` |
+| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung` |
 
 ## Sichtbare Skill-Slugs
 
 Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten; weitere Pluginskills bleiben über das Routing erreichbar.
 
 - `vergabe-os-master-orchestrator`: Primärer Kaltstart ohne Skillwahl für jeden neuen Bieterfall mit Vergabeordner, ZIP, mehreren Dateien oder Portalexport.
-- `workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
-- `einstieg-routing`: Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, mögliche rote Frist und nächsten Output.
-- `bieter-dashboard-canvas`: Komplexe Bieterakte als Dashboard ordnen: Rollen, Fristen, Dokumente, Rügepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
-- `dokumente-intake`: Dokumentenintake für Vergaberecht: sortiert Vergabeunterlagen, Angebot, Wertungsvermerk, Datum, Absender, Frist, Beweiswert, Lücken, Geschäftsgeheimnisse und nächste.
-- `unterlagen-luecken`: Auf Bieterseite: Lücken- und Beschaffungsliste für Vergaberecht: trennt fehlende Tatsachen von fehlenden Belegen (Vergabeunterlagen, Angebot, Wertungsvermerk), nennt pro Lücke.
-- `workflow-unterlagen-lueckenliste`: Auf Bieterseite: Unterlagen- und Lückenliste im Vergaberecht-Werkstatt: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
-- `unterlagen-und-lv-datenformate-auslesen`: Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel und PDF auslesen, Angebotslücken markieren und daraus Preisblatt-, Nachweis- und Rügeroute bilden.
-- `bundeswehrbeschaffung-bwbbg-2026`: Bundeswehr-, Verteidigungs- und Sicherheitsbeschaffungen nach dem seit 14. Februar 2026 geltenden BwBBG rollenfest bearbeiten: Anwendungsbereich, Übergang, Sonderroute.
-- `legacy-systeme-integration`: Systemexporte rollenspezifisch verarbeiten: Behörden erhalten Feldautorität und Entscheidungsbrücke, Bieter Angebotsfreeze und Quittungsabgleich, Konkurrenten Herkunftszone.
-- `angebot-in-vorgegebenem-format-erstellen`: Angebot exakt im geforderten Format liefern: XML, GAEB, Excel, PDF, Portalformular, Anlagenstruktur, Signatur, Hash, Freigabe und Uploadnachweis.
-- `qualitaetsvorsprung-nachweisen`: Bieter zeigt, warum sein Angebot trotz höherem Preis besser ist: Qualität, Tempo, Personal, Servicelevel, Betriebssicherheit, Lebenszyklusvorteile und Nachweise.
-- `netto-null-technologien-vergabe`: Artikel 25 der Verordnung EU 2024/1735 und Verordnung EU 2026/718 rollenfest anwenden: Richtlinien- und Technologiegate, Windrotorblatt-Rezyklierbarkeit, Bau-Zusatzpflichten.
-- `13-konzeptionelle-anlagen`: Konzeptanlagen für Qualitäts-, Tempo-, Personal-, Nachhaltigkeits- und Servicekriterien erstellen.
-- `eignung-referenzen-umsatz-nachunternehmer`: Eignungspaket des Bieters bauen: Referenzen, Umsatz, Personal, Nachunternehmer, Eignungsleihe, Nachweise und Angriffsflächen vor Abgabe prüfen.
-- `08-bietergemeinschaft-bildung`: Bietergemeinschaft bilden: Mitglieder, Federführer, Haftung, ESPD je Mitglied, Steuer-/Sozialabgabencheck und Krisenpfad bei problematischem Mitglied.
-- `17-bietergemeinschaftserklaerung`: Bietergemeinschaftserklärung abgabereif machen: Vollmacht, Haftung, Mitglieder, Compliance-Bestätigung, Austauschpfad und Unterschriften.
-- `09-angebotskalkulation-stueckpreise`: Angebot wirtschaftlich kalkulieren und gegen die Zuschlagsmatrix spiegeln: Preis, Qualität, Tempo, Servicelevel, Lebenszykluskosten, Tariftreue und Aufklärbarkeit ungewöhnlich.
-- `10-leistungsverzeichnis-bepreisen`: Positionen des LV einzeln bepreisen und im verlangten Format liefern: GAEB, XML, Excel, PDF oder Portalformular.
-- `schriftsatzkern-substantiierung`: Vergaberechtlichen Schriftsatz für Rüge, VK, OLG oder Sekundärrechtsschutz schreiben: Antrag, Norm, Vergabehandlung, Tatsache, Beleg, Kausalität, Zuschlagschance, Gegenargument.
-- `21-ruegeschreiben-erstellen`: Rüge vor Präklusion erstellen: Fehler, Norm, Kenntnis, Frist, Kausalität, Abhilfeziel, Anlagen und Portalzustellung sauber trennen.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`: Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, mögliche rote Frist und nächsten Output.
+- `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas`: Komplexe Bieterakte als Dashboard ordnen: Rollen, Fristen, Dokumente, Rügepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake`: Dokumentenintake für Vergaberecht: sortiert Vergabeunterlagen, Angebot, Wertungsvermerk, Datum, Absender, Frist, Beweiswert, Lücken, Geschäftsgeheimnisse und nächste.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-luecken`: Auf Bieterseite: Lücken- und Beschaffungsliste für Vergaberecht: trennt fehlende Tatsachen von fehlenden Belegen (Vergabeunterlagen, Angebot, Wertungsvermerk), nennt pro Lücke.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-unterlagen-lueckenliste`: Auf Bieterseite: Unterlagen- und Lückenliste im Vergaberecht-Werkstatt: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen`: Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel und PDF auslesen, Angebotslücken markieren und daraus Preisblatt-, Nachweis- und Rügeroute bilden.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026`: Bundeswehr-, Verteidigungs- und Sicherheitsbeschaffungen nach dem seit 14. Februar 2026 geltenden BwBBG rollenfest bearbeiten: Anwendungsbereich, Übergang, Sonderroute.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration`: Systemexporte rollenspezifisch verarbeiten: Behörden erhalten Feldautorität und Entscheidungsbrücke, Bieter Angebotsfreeze und Quittungsabgleich, Konkurrenten Herkunftszone.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen`: Angebot exakt im geforderten Format liefern: XML, GAEB, Excel, PDF, Portalformular, Anlagenstruktur, Signatur, Hash, Freigabe und Uploadnachweis.
+- `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen`: Bieter zeigt, warum sein Angebot trotz höherem Preis besser ist: Qualität, Tempo, Personal, Servicelevel, Betriebssicherheit, Lebenszyklusvorteile und Nachweise.
+- `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe`: Artikel 25 der Verordnung EU 2024/1735 und Verordnung EU 2026/718 rollenfest anwenden: Richtlinien- und Technologiegate, Windrotorblatt-Rezyklierbarkeit, Bau-Zusatzpflichten.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 13-konzeptionelle-anlagen`: Konzeptanlagen für Qualitäts-, Tempo-, Personal-, Nachhaltigkeits- und Servicekriterien erstellen.
+- `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignung-referenzen-umsatz-nachunternehmer`: Eignungspaket des Bieters bauen: Referenzen, Umsatz, Personal, Nachunternehmer, Eignungsleihe, Nachweise und Angriffsflächen vor Abgabe prüfen.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung`: Bietergemeinschaft bilden: Mitglieder, Federführer, Haftung, ESPD je Mitglied, Steuer-/Sozialabgabencheck und Krisenpfad bei problematischem Mitglied.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 17-bietergemeinschaftserklaerung`: Bietergemeinschaftserklärung abgabereif machen: Vollmacht, Haftung, Mitglieder, Compliance-Bestätigung, Austauschpfad und Unterschriften.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise`: Angebot wirtschaftlich kalkulieren und gegen die Zuschlagsmatrix spiegeln: Preis, Qualität, Tempo, Servicelevel, Lebenszykluskosten, Tariftreue und Aufklärbarkeit ungewöhnlich.
+- `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: 10-leistungsverzeichnis-bepreisen`: Positionen des LV einzeln bepreisen und im verlangten Format liefern: GAEB, XML, Excel, PDF oder Portalformular.
+- `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: schriftsatzkern-substantiierung`: Vergaberechtlichen Schriftsatz für Rüge, VK, OLG oder Sekundärrechtsschutz schreiben: Antrag, Norm, Vergabehandlung, Tatsache, Beleg, Kausalität, Zuschlagschance, Gegenargument.
+- `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen`: Rüge vor Präklusion erstellen: Fehler, Norm, Kenntnis, Frist, Kausalität, Abhilfeziel, Anlagen und Portalzustellung sauber trennen.
 
 ## Inhaltsverzeichnis
 
 1. `vergabe-os-master-orchestrator` - Bieter-Cockpit: prüft Unterlagen, Formate, Fristen, Angebotsabgabe, Rüge, VK-Antrag und OLG-Strategie. - Primärer Kaltstart ohne Skillwahl für jeden neuen Bieterfall mit Vergabeordner, ZIP, mehreren Dateien oder Portalexport.
-2. `workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage für ein einzelnes Dokument oder eine konkrete Frage des Bieters: bestimmt Phase, rote Frist, Regime.
-3. `einstieg-routing` - Einstieg und Routing - Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime.
-4. `bieter-dashboard-canvas` - Bieter-Dashboard für den laufenden Vergabefall - Bieter-Dashboard aus vorhandener Vergabeakte erzeugen: verbindet Termine, Unterlagenstand, Angebotsaufgaben.
-5. `dokumente-intake` - Dokumentenintake - Dokumentenintake für Vergaberecht: sortiert Vergabeunterlagen, Angebot, Wertungsvermerk, Datum, Absender.
-6. `unterlagen-luecken` - Unterlagen und Lücken - Auf Bieterseite: Lücken- und Beschaffungsliste für Vergaberecht: trennt fehlende Tatsachen von fehlenden Belegen.
-7. `workflow-unterlagen-lueckenliste` - Unterlagen- und Lückenliste - Auf Bieterseite: Unterlagen- und Lückenliste im Vergaberecht-Werkstatt: erstellt eine präzise Nachforderungsliste.
-8. `unterlagen-und-lv-datenformate-auslesen` - Unterlagen und LV-Datenformate auslesen - Vergabeunterlagen, LV und Preisblätter in GAEB, XML, Excel, PDF oder ZIP inventarisieren, Positionen auslesen.
-9. `bundeswehrbeschaffung-bwbbg-2026` - Bundeswehrangebot und Rechtsschutz nach dem BwBBG 2026 - Bieter bearbeitet Bundeswehrvergaben nach dem seit 14. Februar 2026 geltenden BwBBG: Teilnahme, Drittstaatenzugang.
-10. `legacy-systeme-integration` - Unternehmensdaten in ein fristfestes Angebot überführen - Bieter verbinden SAP-, ERP-, CRM-, HR-, AVA-, DMS-, GAEB-, Portal-, API- und MCP-Daten mit Preis, LV, Referenz.
-11. `angebot-in-vorgegebenem-format-erstellen` - Angebot im vorgegebenen Format erstellen - Bewerbung, Teilnahmeantrag oder Angebot aus ERP, CRM, HR, AVA und DMS im verlangten GAEB-, XML-, Excel-, PDF-, ZIP.
-12. `qualitaetsvorsprung-nachweisen` - Qualitätsvorsprung nachweisen - Bieter befähigen, trotz höherem Preis das beste Angebot darzustellen: Qualitäts-, Tempo-, Personal-, Service.
-13. `netto-null-technologien-vergabe` - Netto-Null-Anforderungen im Angebot erfüllen und Fehler rechtzeitig rügen - Angebote für Netto-Null-Technologien seit Sommer 2026 absichern: Artikel 25 der Verordnung EU 2024/1735 und Verordnung.
-14. `13-konzeptionelle-anlagen` - Konzeptionelle Anlagen - Konzeptanlagen für Qualitäts-, Tempo-, Personal-, Nachhaltigkeits- und Servicekriterien erstellen.
-15. `eignung-referenzen-umsatz-nachunternehmer` - Eignung und Nachweisarchitektur des Bieters - Eignung, Referenzen, Umsatz und Nachunternehmer prüfen: Mindestanforderungen, Eignungsleihe, Konsortien, EEE.
-16. `08-bietergemeinschaft-bildung` - Bietergemeinschaft bilden - Bietergemeinschaft aus Bietersicht bilden: Mitglieder, Federführer, Haftung, ESPD, Steuer-/Sozialabgabencheck.
-17. `17-bietergemeinschaftserklaerung` - Bietergemeinschaftserklärung - Bietergemeinschaftserklärung abgabereif machen: Mitglieder, Federführer, Vollmacht, Haftung.
-18. `09-angebotskalkulation-stueckpreise` - Angebotskalkulation Stückpreise - Angebot wirtschaftlich kalkulieren und gegen die Zuschlagsmatrix spiegeln: Preis, Qualität, Tempo, Servicelevel.
-19. `10-leistungsverzeichnis-bepreisen` - Leistungsverzeichnis bepreisen - Positionen des LV einzeln bepreisen und im verlangten Format liefern: GAEB, XML, Excel, PDF oder Portalformular.
-20. `schriftsatzkern-substantiierung` - Substantiierter Schriftsatzkern im Vergaberecht - Vergaberechtlichen Schriftsatz für Rüge, VK, OLG oder Sekundärrechtsschutz schreiben: Antrag, Norm, Vergabehandlung.
-21. `21-ruegeschreiben-erstellen` - Rügeschreiben erstellen - Rüge an die Vergabestelle erstellen: Sachverhalt, Vergabeverstoß, Abhilfe und Fristen.
+2. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage für ein einzelnes Dokument oder eine konkrete Frage des Bieters: bestimmt Phase, rote Frist, Regime.
+3. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing` - Einstieg und Routing - Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime.
+4. `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` - Bieter-Dashboard für den laufenden Vergabefall - Bieter-Dashboard aus vorhandener Vergabeakte erzeugen: verbindet Termine, Unterlagenstand, Angebotsaufgaben.
+5. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake` - Dokumentenintake - Dokumentenintake für Vergaberecht: sortiert Vergabeunterlagen, Angebot, Wertungsvermerk, Datum, Absender.
+6. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-luecken` - Unterlagen und Lücken - Auf Bieterseite: Lücken- und Beschaffungsliste für Vergaberecht: trennt fehlende Tatsachen von fehlenden Belegen.
+7. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-unterlagen-lueckenliste` - Unterlagen- und Lückenliste - Auf Bieterseite: Unterlagen- und Lückenliste im Vergaberecht-Werkstatt: erstellt eine präzise Nachforderungsliste.
+8. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` - Unterlagen und LV-Datenformate auslesen - Vergabeunterlagen, LV und Preisblätter in GAEB, XML, Excel, PDF oder ZIP inventarisieren, Positionen auslesen.
+9. `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` - Bundeswehrangebot und Rechtsschutz nach dem BwBBG 2026 - Bieter bearbeitet Bundeswehrvergaben nach dem seit 14. Februar 2026 geltenden BwBBG: Teilnahme, Drittstaatenzugang.
+10. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` - Unternehmensdaten in ein fristfestes Angebot überführen - Bieter verbinden SAP-, ERP-, CRM-, HR-, AVA-, DMS-, GAEB-, Portal-, API- und MCP-Daten mit Preis, LV, Referenz.
+11. `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` - Angebot im vorgegebenen Format erstellen - Bewerbung, Teilnahmeantrag oder Angebot aus ERP, CRM, HR, AVA und DMS im verlangten GAEB-, XML-, Excel-, PDF-, ZIP.
+12. `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` - Qualitätsvorsprung nachweisen - Bieter befähigen, trotz höherem Preis das beste Angebot darzustellen: Qualitäts-, Tempo-, Personal-, Service.
+13. `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` - Netto-Null-Anforderungen im Angebot erfüllen und Fehler rechtzeitig rügen - Angebote für Netto-Null-Technologien seit Sommer 2026 absichern: Artikel 25 der Verordnung EU 2024/1735 und Verordnung.
+14. `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 13-konzeptionelle-anlagen` - Konzeptionelle Anlagen - Konzeptanlagen für Qualitäts-, Tempo-, Personal-, Nachhaltigkeits- und Servicekriterien erstellen.
+15. `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignung-referenzen-umsatz-nachunternehmer` - Eignung und Nachweisarchitektur des Bieters - Eignung, Referenzen, Umsatz und Nachunternehmer prüfen: Mindestanforderungen, Eignungsleihe, Konsortien, EEE.
+16. `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung` - Bietergemeinschaft bilden - Bietergemeinschaft aus Bietersicht bilden: Mitglieder, Federführer, Haftung, ESPD, Steuer-/Sozialabgabencheck.
+17. `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 17-bietergemeinschaftserklaerung` - Bietergemeinschaftserklärung - Bietergemeinschaftserklärung abgabereif machen: Mitglieder, Federführer, Vollmacht, Haftung.
+18. `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise` - Angebotskalkulation Stückpreise - Angebot wirtschaftlich kalkulieren und gegen die Zuschlagsmatrix spiegeln: Preis, Qualität, Tempo, Servicelevel.
+19. `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: 10-leistungsverzeichnis-bepreisen` - Leistungsverzeichnis bepreisen - Positionen des LV einzeln bepreisen und im verlangten Format liefern: GAEB, XML, Excel, PDF oder Portalformular.
+20. `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: schriftsatzkern-substantiierung` - Substantiierter Schriftsatzkern im Vergaberecht - Vergaberechtlichen Schriftsatz für Rüge, VK, OLG oder Sekundärrechtsschutz schreiben: Antrag, Norm, Vergabehandlung.
+21. `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` - Rügeschreiben erstellen - Rüge an die Vergabestelle erstellen: Sachverhalt, Vergabeverstoß, Abhilfe und Fristen.
 
 ---
 
@@ -129,7 +129,7 @@ Fokus: Bieter-Cockpit für Bekanntmachung, LV/GAEB/XML/Excel/PDF, Angebotsformat
 
 #### Abgrenzung
 
-Dieser Master ist der automatische Einstieg für einen vollständigen Ordner, ein ZIP, einen Portal-/Unternehmensexport, mehrere Dokumente oder mehrere verbundene Angebots- und Rechtsschutzfragen. Für genau ein Dokument oder eine konkrete Einzelfrage genügt `workflow-kaltstart-und-routing`; ohne Unterlagen und nur zur Rollen-/Regimeorientierung gilt `einstieg-routing`.
+Dieser Master ist der automatische Einstieg für einen vollständigen Ordner, ein ZIP, einen Portal-/Unternehmensexport, mehrere Dokumente oder mehrere verbundene Angebots- und Rechtsschutzfragen. Für genau ein Dokument oder eine konkrete Einzelfrage genügt `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`; ohne Unterlagen und nur zur Rollen-/Regimeorientierung gilt `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`.
 
 #### Null-Konfigurations-Vertrag
 
@@ -198,7 +198,7 @@ Pflichtausgabe beim Ordnerfall: Fallkarte, Fristenampel, Dokumentenmatrix, Beleg
 1. Rolle klären: Bewerber, Bieter, Beigeladener, Zuschlagsprätendent, Nachunternehmer oder Kanzlei.
 2. Verfahrensstand klären: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, § 134 GWB, Zuschlag, Vertrag, Nachprüfung, Beschwerde oder Schadensersatz.
 3. Schwellenwert und Rechtsweg prüfen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Fördermittel oder Sonderregime.
-4. Bei Betrag, Losen, Optionen, Vertragslaufzeit, Rahmenvereinbarung, Wertgrenze oder unklarer Oberschwelle zuerst `schnittstelle-zahlen-schwellen-und-berechnung`, danach `schwellenwerte-2026-2027-livecheck` nutzen.
+4. Bei Betrag, Losen, Optionen, Vertragslaufzeit, Rahmenvereinbarung, Wertgrenze oder unklarer Oberschwelle zuerst `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: schnittstelle-zahlen-schwellen-und-berechnung`, danach `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` nutzen.
 5. Fristen sichern: Rüge, Angebotsfrist, Stillhaltefrist, 15-Kalendertage-Frist nach Nichtabhilfe, Beschwerdefrist, § 135 GWB-Fristen.
 6. Erst danach in die materielle Prüfung gehen.
 
@@ -247,8 +247,8 @@ Nutze für umfangreiche Fälle `assets/templates/ordnerfall-startprotokoll.md`, 
 | Planungswettbewerb | EuGH C-888/24, Adão da Fonseca: Entwurf vollständig und anonymitätsfest einreichen; kein Anhörungsanspruch vor der Rangfolge |
 | Angebotsfreeze und externer Link | § 53 VgV und Portalvorgabe; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe |
 | qualitative Konzeptwertung | BGH X ZB 3/17 und OLG Düsseldorf Verg 34/20: offene Punkteskala nicht pauschal angreifen; eigene Angebotsfundstelle, konkrete Wertungsabweichung, Dokumentationslücke und Punktwirkung zeigen |
-| Netto-Null-Technologie, Windrotorblatt oder Herkunftsquote | Art. 25 VO (EU) 2024/1735 und VO (EU) 2026/718; `netto-null-technologien-vergabe` laden |
-| Bundeswehr-, Verteidigungs-, Sicherheits- oder VSVgV-Vergabe | seit 14.02.2026 geltendes BwBBG: Teilnahme, Finanzierung, Nachweise, Drittstaaten, Vorab-Rüge und VK Bund; `bundeswehrbeschaffung-bwbbg-2026` laden |
+| Netto-Null-Technologie, Windrotorblatt oder Herkunftsquote | Art. 25 VO (EU) 2024/1735 und VO (EU) 2026/718; `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` laden |
+| Bundeswehr-, Verteidigungs-, Sicherheits- oder VSVgV-Vergabe | seit 14.02.2026 geltendes BwBBG: Teilnahme, Finanzierung, Nachweise, Drittstaaten, Vorab-Rüge und VK Bund; `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` laden |
 | privater Initiator einer Konzession oder Projektfinanzierung | EuGH C-810/24 Urban Vision: nachträgliches Matching- oder Anpassungsprivileg angreifen; kein allgemeines Verbot privater Initiativen behaupten |
 | Bestandskompatibilität der Vergabestelle | OLG Düsseldorf Verg 2/24; eigene Anschluss-, Migrations-, Sicherheits- und Gewährleistungslösung belegen |
 | fehlende technische Unterlage | OLG Düsseldorf Verg 47/18; vollständigen direkten Zugang und Rügefrist prüfen |
@@ -305,7 +305,7 @@ Jeder Bieterangriff und jede Verteidigung des eigenen Angebots wird als Kette ge
 
 Jede entscheidende Fundstelle zusätzlich als `Quellenstatus | Aussagegehalt und Bindungsstatus | Vergleichstatsachen | eigene Position im maßgeblichen Stadium | Übertragung | Zuschlagschance und Antrag` ausweisen. Bei einem anhängigen Verfahren ohne Entscheidung nur Vorlagefrage und Verfahrensstand angeben. Unverifizierte Fundstellen bleiben Rechercheaufträge; Schlussanträge werden nicht als Urteil behandelt. Vor Angebotsabgabe genügen statt einer Angebotsfundstelle die konkrete Teilnahmeabsicht und die belegte Wirkung des Fehlers auf Kalkulation, Nachweis oder funktionale Alternative.
 
-Bei internen Vorgängen Tatsache, Indiz und Akteneinsichtslücke trennen. Für Rüge, VK, OLG oder Sekundärschutz `schriftsatzkern-substantiierung` laden.
+Bei internen Vorgängen Tatsache, Indiz und Akteneinsichtslücke trennen. Für Rüge, VK, OLG oder Sekundärschutz `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: schriftsatzkern-substantiierung` laden.
 
 #### Typische Outputs
 
@@ -328,17 +328,17 @@ Kurzbild, Startbildschirm, Phasenkarte, Fristenampel, Dokumentenmatrix, Belegmat
 #### Anschlussmodule
 
 - `vergabe-os-master-orchestrator` für Gesamtsteuerung.
-- `schnittstelle-zahlen-schwellen-und-berechnung` und `schwellenwerte-2026-2027-livecheck` für Betrag, Lose, Optionen, Rahmenvereinbarung, Wertgrenze und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
-- `unterlagen-und-lv-datenformate-auslesen` für Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel, PDF, Systemquellen, Links und Freeze-Bedarf.
-- `legacy-systeme-integration` für Quell-zu-Angebot-Mapping, Gültigkeit, Angebotsfreeze, Hash, Delta, Fachfreigabe und Portalquittung.
-- `angebot-in-vorgegebenem-format-erstellen` für Portalabgabe, Signatur, Hash, Anlagenstruktur und Uploadpaket.
-- `qualitaetsvorsprung-nachweisen`, `13-konzeptionelle-anlagen` und `09-angebotskalkulation-stueckpreise` für Angebote, die nicht nur billig, sondern nach Leistung, Tempo und Qualität stark sind.
-- `bieterfragen-antworten-management` für Klarstellung, Antwortlog und Fristverlängerung vor der Rüge.
-- `21-ruegeschreiben-erstellen`, `nachpruefungsantrag-powerdraft` und `nachpruefungsverfahren-vk` für Rüge und VK-Verfahren.
-- `angebotsoeffnung-formfehler-preisblatt` für formale Ausschluss- und Preisblattfehler nach Angebotsabgabe.
-- `vergabekammer-termin-simulation`, `vergleichsverhandlung-strategie` und `verg-mehrparteien-konflikt-und-interessen` für Termin, Vergleich und Beigeladene.
-- `de-facto-vergabe-135-gwb-fristen` und `de-facto-vergabe-klage` für Direktauftrag, fehlende Bekanntmachung, Interimsauftrag oder wesentliche Vertragsänderung.
+- `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: schnittstelle-zahlen-schwellen-und-berechnung` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` für Betrag, Lose, Optionen, Rahmenvereinbarung, Wertgrenze und Rechtsweg.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` für Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel, PDF, Systemquellen, Links und Freeze-Bedarf.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` für Quell-zu-Angebot-Mapping, Gültigkeit, Angebotsfreeze, Hash, Delta, Fachfreigabe und Portalquittung.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` für Portalabgabe, Signatur, Hash, Anlagenstruktur und Uploadpaket.
+- `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen`, `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 13-konzeptionelle-anlagen` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise` für Angebote, die nicht nur billig, sondern nach Leistung, Tempo und Qualität stark sind.
+- `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` für Klarstellung, Antwortlog und Fristverlängerung vor der Rüge.
+- `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen`, `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: nachpruefungsverfahren-vk` für Rüge und VK-Verfahren.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebotsoeffnung-formfehler-preisblatt` für formale Ausschluss- und Preisblattfehler nach Angebotsabgabe.
+- `/bieter-unternehmen:nachpruefung-bearbeiten Thema: vergabekammer-termin-simulation`, `/bieter-unternehmen:nachpruefung-bearbeiten Thema: vergleichsverhandlung-strategie` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: verg-mehrparteien-konflikt-und-interessen` für Termin, Vergleich und Beigeladene.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: de-facto-vergabe-135-gwb-fristen` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: de-facto-vergabe-klage` für Direktauftrag, fehlende Bekanntmachung, Interimsauftrag oder wesentliche Vertragsänderung.
 
 ---
 
@@ -359,7 +359,7 @@ Dieser Workflow-Skill führt genau ein Dokument oder eine konkrete Frage in den 
 
 - Vollständiger Ordner, ZIP, Portal-/Unternehmensexport, mehrere Dokumente oder mehrere verbundene Angebots- und Streitfragen: `vergabe-os-master-orchestrator`.
 - Ein Dokument, eine LV-Position, eine Bieterantwort, ein Ausschlussschreiben oder eine konkrete Rechtsfrage: dieser Skill.
-- Noch keine Unterlagen, nur Rollen-, Regime- oder Zuständigkeitsorientierung: `einstieg-routing`.
+- Noch keine Unterlagen, nur Rollen-, Regime- oder Zuständigkeitsorientierung: `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`.
 
 #### Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
@@ -397,21 +397,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 | Lage | Primärer Skill |
 |---|---|
-| ZIP, PDF-Bündel, E-Mails, Screenshots oder Portalexporte liegen ungeordnet vor | `dokumente-intake` |
-| Vergabeunterlagen, Wertungsvermerk, Angebotsauszüge oder Portalnachweise fehlen | `unterlagen-luecken` |
-| Aus Aktenlücken soll eine Arbeitsliste für Unternehmen oder Kanzlei entstehen | `workflow-unterlagen-lueckenliste` |
-| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF müssen zuerst gelesen werden | `unterlagen-und-lv-datenformate-auslesen` |
-| Angebotsdaten stammen aus SAP, ERP, CRM, AVA, DMS, SharePoint, E-Mail, SFTP, API, OData, IDoc oder MCP | `legacy-systeme-integration` |
+| ZIP, PDF-Bündel, E-Mails, Screenshots oder Portalexporte liegen ungeordnet vor | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake` |
+| Vergabeunterlagen, Wertungsvermerk, Angebotsauszüge oder Portalnachweise fehlen | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-luecken` |
+| Aus Aktenlücken soll eine Arbeitsliste für Unternehmen oder Kanzlei entstehen | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-unterlagen-lueckenliste` |
+| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF müssen zuerst gelesen werden | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` |
+| Angebotsdaten stammen aus SAP, ERP, CRM, AVA, DMS, SharePoint, E-Mail, SFTP, API, OData, IDoc oder MCP | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
 
 #### Direkt-Routing Bestwertung
 
 | Lage | Primärer Skill |
 |---|---|
-| Bieter ist teurer, aber fachlich stärker | `qualitaetsvorsprung-nachweisen` |
-| Bewertungsmatrix enthält Qualitäts-, Tempo-, Personal- oder Servicepunkte | `13-konzeptionelle-anlagen` |
-| Preisblatt oder LV muss im vorgegebenen Format abgegeben werden | `angebot-in-vorgegebenem-format-erstellen` |
-| Unterlagen entwerten Qualitätsvorteile durch Preisformel oder Scheinqualität | `21-ruegeschreiben-erstellen` |
-| Eigenes Angebot ist sehr günstig und erklärungsbedürftig | `18-aufklaerung-niedriges-angebot-paragraf-60` |
+| Bieter ist teurer, aber fachlich stärker | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` |
+| Bewertungsmatrix enthält Qualitäts-, Tempo-, Personal- oder Servicepunkte | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 13-konzeptionelle-anlagen` |
+| Preisblatt oder LV muss im vorgegebenen Format abgegeben werden | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` |
+| Unterlagen entwerten Qualitätsvorteile durch Preisformel oder Scheinqualität | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` |
+| Eigenes Angebot ist sehr günstig und erklärungsbedürftig | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 18-aufklaerung-niedriges-angebot-paragraf-60` |
 
 #### Rechtsprechungsfeste Sofortweichen
 
@@ -427,39 +427,39 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 | Lage | Primärer Skill |
 |---|---|
-| Unterlage ist unklar, widersprüchlich oder unvollständig, aber noch klärbar | `bieterfragen-antworten-management` |
-| Portalantwort fehlt, Antwort ist widersprüchlich oder Fristverlängerung ist möglich | `bieterfragen-antworten-management` |
-| Antwort der Vergabestelle bestätigt einen Vergabefehler oder die Frist läuft | `21-ruegeschreiben-erstellen` |
-| Rüge wurde nicht abgeholfen oder 15-Kalendertage-Frist läuft | `nachpruefungsantrag-powerdraft` oder `nachpruefungsverfahren-vk` |
+| Unterlage ist unklar, widersprüchlich oder unvollständig, aber noch klärbar | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` |
+| Portalantwort fehlt, Antwort ist widersprüchlich oder Fristverlängerung ist möglich | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` |
+| Antwort der Vergabestelle bestätigt einen Vergabefehler oder die Frist läuft | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` |
+| Rüge wurde nicht abgeholfen oder 15-Kalendertage-Frist läuft | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` oder `/bieter-unternehmen:nachpruefung-bearbeiten Thema: nachpruefungsverfahren-vk` |
 
 #### Direkt-Routing Legacy-IT
 
 | Lage | Primärer Skill |
 |---|---|
-| Angebotsdaten kommen aus SAP, ERP, CRM, AVA, DMS, SharePoint, E-Mail, SFTP, API, OData, IDoc oder MCP | `legacy-systeme-integration` |
-| Vergabeunterlagen oder LV müssen aus Altsystemen gelesen werden | `unterlagen-und-lv-datenformate-auslesen` |
-| Angebot, Nachweise oder Rüge müssen in Portal, DMS oder Kundensystem exportiert werden | `angebot-in-vorgegebenem-format-erstellen` |
-| Es gibt mehrere Quellsysteme und Zielsysteme | zuerst `legacy-systeme-integration`, danach passendes Fachmodul |
+| Angebotsdaten kommen aus SAP, ERP, CRM, AVA, DMS, SharePoint, E-Mail, SFTP, API, OData, IDoc oder MCP | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| Vergabeunterlagen oder LV müssen aus Altsystemen gelesen werden | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` |
+| Angebot, Nachweise oder Rüge müssen in Portal, DMS oder Kundensystem exportiert werden | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` |
+| Es gibt mehrere Quellsysteme und Zielsysteme | zuerst `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration`, danach passendes Fachmodul |
 
 #### Direkt-Routing Rechtsschutz-Sonderlagen
 
 | Lage | Primärer Skill |
 |---|---|
-| Auftrag ist schon vergeben, Leistung läuft, Vertrag wurde ohne Bekanntmachung geschlossen oder Interimsauftrag bekannt | `de-facto-vergabe-135-gwb-fristen` |
-| Nachtrag, Verlängerung, Auftragnehmerwechsel oder wesentliche Vertragsänderung verdrängt Wettbewerb | `de-facto-vergabe-klage` |
-| Angebotsöffnung, Preisblatt, Signatur, Dateiformat oder formaler Ausschluss ist streitig | `angebotsoeffnung-formfehler-preisblatt` |
-| VK-Termin, Hinweise der Kammer oder Vergleichsgespräch stehen an | `vergabekammer-termin-simulation` und `vergleichsverhandlung-strategie` |
-| Mehrparteienlage mit Beigeladenem, Zuschlagsprätendenten oder Nachunternehmer | `verg-mehrparteien-konflikt-und-interessen` |
-| Wettbewerbsregister, Vergabesperre, Korruption, Selbstreinigung oder Compliance-Nachweis betroffen | `wettbewerbsregister-abfrage-selbstreinigung` und `vergabesperre-korruption-selbstreinigung` |
+| Auftrag ist schon vergeben, Leistung läuft, Vertrag wurde ohne Bekanntmachung geschlossen oder Interimsauftrag bekannt | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: de-facto-vergabe-135-gwb-fristen` |
+| Nachtrag, Verlängerung, Auftragnehmerwechsel oder wesentliche Vertragsänderung verdrängt Wettbewerb | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: de-facto-vergabe-klage` |
+| Angebotsöffnung, Preisblatt, Signatur, Dateiformat oder formaler Ausschluss ist streitig | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebotsoeffnung-formfehler-preisblatt` |
+| VK-Termin, Hinweise der Kammer oder Vergleichsgespräch stehen an | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: vergabekammer-termin-simulation` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: vergleichsverhandlung-strategie` |
+| Mehrparteienlage mit Beigeladenem, Zuschlagsprätendenten oder Nachunternehmer | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: verg-mehrparteien-konflikt-und-interessen` |
+| Wettbewerbsregister, Vergabesperre, Korruption, Selbstreinigung oder Compliance-Nachweis betroffen | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` und `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: vergabesperre-korruption-selbstreinigung` |
 
 #### Direkt-Routing Sonderregime
 
 | Lage | Primärer Skill |
 |---|---|
-| Unterschwelle, Landeswertgrenze, Direktauftrag oder zivilgerichtlicher Rechtsschutz | `uvgo-fristen-form-und-zustaendigkeit` |
-| Sektorenauftraggeber Energie, Wasser, Verkehr oder Post | `sektvo-dokumentenmatrix-und-lueckenliste` |
-| Konzession, Betriebsrisiko, Laufzeit oder Konzessionswert streitig | `konzvgv-risikoampel-und-gegenargumente` |
-| Betrag, Lose, Optionen, Laufzeit oder Rahmenvereinbarung bestimmen Schwellenwert oder Zuständigkeit | zuerst `schnittstelle-zahlen-schwellen-und-berechnung`, danach `schwellenwerte-2026-2027-livecheck` |
+| Unterschwelle, Landeswertgrenze, Direktauftrag oder zivilgerichtlicher Rechtsschutz | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: uvgo-fristen-form-und-zustaendigkeit` |
+| Sektorenauftraggeber Energie, Wasser, Verkehr oder Post | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: sektvo-dokumentenmatrix-und-lueckenliste` |
+| Konzession, Betriebsrisiko, Laufzeit oder Konzessionswert streitig | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: konzvgv-risikoampel-und-gegenargumente` |
+| Betrag, Lose, Optionen, Laufzeit oder Rahmenvereinbarung bestimmen Schwellenwert oder Zuständigkeit | zuerst `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: schnittstelle-zahlen-schwellen-und-berechnung`, danach `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` |
 
 #### Vergaberechtliches Routing (Schwellenwerte & Rechtswege)
 
@@ -502,21 +502,21 @@ Dieser Einstieg dient ausschließlich der Orientierung ohne Unterlagen. Er ordne
 #### Abgrenzung
 
 - Ohne Unterlagen und noch ohne klaren Angebots- oder Rechtsschutzpfad: dieser Skill.
-- Ein einzelnes Dokument oder eine konkrete Rechtsfrage: `workflow-kaltstart-und-routing`.
+- Ein einzelnes Dokument oder eine konkrete Rechtsfrage: `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`.
 - Ordner, ZIP, Portal-/Unternehmensexport oder mehrere Arbeitsstränge: `vergabe-os-master-orchestrator`.
 
 #### Fachlandkarte dieses Plugins
 
 - `vergabe-os-master-orchestrator` - Gesamtsteuerung für Bieterfälle, Fristen, Formate, Angebot, Rüge und VK/OLG.
-- `workflow-kaltstart-und-routing` - erster Satz oder Dokumentenpaket in den passenden Arbeitsweg.
-- `dokumente-intake` und `unterlagen-und-lv-datenformate-auslesen` - Bekanntmachung, Unterlagen, LV, GAEB/XML/Excel/PDF und Portalexporte ordnen.
-- `legacy-systeme-integration` - SAP/ERP/CRM/AVA/DMS/API/MCP als Angebots- oder Beweisquelle anbinden.
-- `angebot-in-vorgegebenem-format-erstellen` - Angebot, Nachweise und Anlagen im geforderten Format liefern.
-- `qualitaetsvorsprung-nachweisen` - teureres, aber wirtschaftlich besseres Angebot punktwirksam darstellen.
-- `bieterfragen-antworten-management` und `21-ruegeschreiben-erstellen` - Klärung, Rüge, Präklusion und Abhilfe.
-- `nachpruefungsantrag-powerdraft`, `nachpruefungsantrag-vk` und `nachpruefungsverfahren-vk` - VK-Rechtsschutz.
-- `eignungspruefung`, `ausschluss-bieter-paragraf-124-gwb`, `08-bietergemeinschaft-bildung`, `17-bietergemeinschaftserklaerung` und `wettbewerbsregister-abfrage-selbstreinigung` - Ausschluss, Nachforderung, Steuer-/Sozialabgaben und Selbstreinigung.
-- `vergabekammer-verhandlung-vergleich-und-eskalation` und `olg-vergabesenat-beschwerdebriefing` - Termin, Vergleich und Beschwerde.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` - erster Satz oder Dokumentenpaket in den passenden Arbeitsweg.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake` und `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` - Bekanntmachung, Unterlagen, LV, GAEB/XML/Excel/PDF und Portalexporte ordnen.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` - SAP/ERP/CRM/AVA/DMS/API/MCP als Angebots- oder Beweisquelle anbinden.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` - Angebot, Nachweise und Anlagen im geforderten Format liefern.
+- `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` - teureres, aber wirtschaftlich besseres Angebot punktwirksam darstellen.
+- `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` und `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` - Klärung, Rüge, Präklusion und Abhilfe.
+- `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft`, `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-vk` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: nachpruefungsverfahren-vk` - VK-Rechtsschutz.
+- `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung`, `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: ausschluss-bieter-paragraf-124-gwb`, `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung`, `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 17-bietergemeinschaftserklaerung` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` - Ausschluss, Nachforderung, Steuer-/Sozialabgaben und Selbstreinigung.
+- `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: vergabekammer-verhandlung-vergleich-und-eskalation` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: olg-vergabesenat-beschwerdebriefing` - Termin, Vergleich und Beschwerde.
 
 #### Arbeitsweg
 
@@ -619,14 +619,14 @@ Dieser Dokumenten-Intake für Vergaberecht ordnet Anlagen, Registerdaten, Korres
 #### Fachlandkarte dieses Plugins
 
 - `vergabe-os-master-orchestrator` - Gesamtsteuerung für Bieterfälle.
-- `workflow-fristen-und-risikoampel` - rote Fristen aus Unterlagen, Portalnachrichten und Schreiben sichern.
-- `unterlagen-und-lv-datenformate-auslesen` - Bekanntmachung, Unterlagen, LV, GAEB/XML/Excel/PDF und Portalexporte ordnen.
-- `legacy-systeme-integration` - SAP/ERP/CRM/AVA/DMS/API/MCP als Angebots- oder Beweisquelle anbinden.
-- `angebot-in-vorgegebenem-format-erstellen` - Angebots- und Nachweisdateien abgabefähig machen.
-- `qualitaetsvorsprung-nachweisen` - Bestangebot trotz höherem Preis belegen.
-- `21-ruegeschreiben-erstellen`, `nachpruefungsantrag-powerdraft` und `nachpruefungsverfahren-vk` - Rüge, VK und laufender Rechtsschutz.
-- `eignungspruefung`, `08-bietergemeinschaft-bildung`, `17-bietergemeinschaftserklaerung` und `wettbewerbsregister-abfrage-selbstreinigung` - Eignung, Ausschluss, Nachforderung und Selbstreinigung.
-- `vergabekammer-verhandlung-vergleich-und-eskalation` und `olg-vergabesenat-beschwerdebriefing` - Termin, Vergleich und OLG.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` - rote Fristen aus Unterlagen, Portalnachrichten und Schreiben sichern.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` - Bekanntmachung, Unterlagen, LV, GAEB/XML/Excel/PDF und Portalexporte ordnen.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` - SAP/ERP/CRM/AVA/DMS/API/MCP als Angebots- oder Beweisquelle anbinden.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` - Angebots- und Nachweisdateien abgabefähig machen.
+- `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` - Bestangebot trotz höherem Preis belegen.
+- `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen`, `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: nachpruefungsverfahren-vk` - Rüge, VK und laufender Rechtsschutz.
+- `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung`, `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung`, `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 17-bietergemeinschaftserklaerung` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` - Eignung, Ausschluss, Nachforderung und Selbstreinigung.
+- `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: vergabekammer-verhandlung-vergleich-und-eskalation` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: olg-vergabesenat-beschwerdebriefing` - Termin, Vergleich und OLG.
 
 #### Arbeitsweg
 
@@ -658,15 +658,15 @@ Diese Unterlagenprüfung für Vergaberecht benennt fehlende Dokumente, streitige
 
 #### Fachlandkarte dieses Plugins
 
-- `dokumente-intake` - Aktenstart und Unterlageninventar.
-- `workflow-unterlagen-lueckenliste` - fehlende Unterlagen, Nachweise und Belege als Arbeitsauftrag.
-- `unterlagen-und-lv-datenformate-auslesen` - LV, GAEB, XML, Excel, PDF und Portalformulare prüfen.
-- `angebot-in-vorgegebenem-format-erstellen` - Angebotsabgabe und Uploadpaket vorbereiten.
-- `bieterfragen-antworten-management` - Klärungsfrage und Fristverlängerung vor Rüge.
-- `21-ruegeschreiben-erstellen` - rügepflichtige Unterlagenlücke rechtzeitig angreifen.
-- `nachpruefungsantrag-powerdraft` und `nachpruefungsverfahren-vk` - Nichtabhilfe und VK-Reserve.
-- `eignungspruefung`, `ausschluss-bieter-paragraf-124-gwb` und `28-selbstreinigung-nach-ausschluss-paragraf-125` - Eignungs-/Ausschlusslücken.
-- `08-bietergemeinschaft-bildung` und `17-bietergemeinschaftserklaerung` - BG-Nachweise, Steuer-/Sozialabgabenstatus und Mitgliederaustausch.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake` - Aktenstart und Unterlageninventar.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-unterlagen-lueckenliste` - fehlende Unterlagen, Nachweise und Belege als Arbeitsauftrag.
+- `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` - LV, GAEB, XML, Excel, PDF und Portalformulare prüfen.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` - Angebotsabgabe und Uploadpaket vorbereiten.
+- `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` - Klärungsfrage und Fristverlängerung vor Rüge.
+- `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` - rügepflichtige Unterlagenlücke rechtzeitig angreifen.
+- `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: nachpruefungsverfahren-vk` - Nichtabhilfe und VK-Reserve.
+- `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung`, `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: ausschluss-bieter-paragraf-124-gwb` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 28-selbstreinigung-nach-ausschluss-paragraf-125` - Eignungs-/Ausschlusslücken.
+- `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 17-bietergemeinschaftserklaerung` - BG-Nachweise, Steuer-/Sozialabgabenstatus und Mitgliederaustausch.
 
 #### Arbeitsweg
 
@@ -845,7 +845,7 @@ _Bieter verbinden SAP-, ERP-, CRM-, HR-, AVA-, DMS-, GAEB-, Portal-, API- und MC
 
 Dieser Skill ist der Erstpfad, wenn ein Angebotsordner ERP-/CRM-/HR-/AVA-/DMS-Exporte, alte Excel-Kalkulationen, GAEB/XML, Zertifikate, Referenzlisten, Portaldateien, APIs oder MCP-Werkzeugdaten enthält. Nicht warten, bis der Nutzer einen Systemnamen nennt: Dateiformat, Metadaten und Feldstruktur reichen als Trigger.
 
-Sofort `LEGACY-SYSTEME-INTEGRATION.md` laden. Für Unterlagenanalyse zusätzlich `unterlagen-und-lv-datenformate-auslesen`, für die fertige Abgabe `angebot-in-vorgegebenem-format-erstellen` einsetzen.
+Sofort `LEGACY-SYSTEME-INTEGRATION.md` laden. Für Unterlagenanalyse zusätzlich `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen`, für die fertige Abgabe `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` einsetzen.
 
 #### Erste 90 Sekunden
 
@@ -1334,7 +1334,7 @@ Bepreistes LV im Originalformat zur Abgabe.
 
 #### Format-Workflow
 
-Bei GAEB, XML, Excel oder PDF zuerst die Datei mit `unterlagen-und-lv-datenformate-auslesen` normalisieren. Danach mit `angebot-in-vorgegebenem-format-erstellen` das verbindliche Abgabeformat bauen. Positionen, Ordnungszahlen, Mengen, Einheiten und Formeln nicht verändern.
+Bei GAEB, XML, Excel oder PDF zuerst die Datei mit `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` normalisieren. Danach mit `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` das verbindliche Abgabeformat bauen. Positionen, Ordnungszahlen, Mengen, Einheiten und Formeln nicht verändern.
 
 ---
 

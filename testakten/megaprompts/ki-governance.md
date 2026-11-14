@@ -528,7 +528,7 @@ Dieser Skill verwaltet diese Workspaces.
    Falls `Aktiviert` = `✗`:
    > Mandate-Workspaces sind deaktiviert – Sie sind als In-house-Praxis mit einem Mandanten
    > konfiguriert, sodass das Plugin automatisch vom Praxiskontext arbeitet. Wenn Sie
-   > tatsächlich für mehrere Mandanten arbeiten, führen Sie `/ki-governance:kaltstart-interview
+   > tatsächlich für mehrere Mandanten arbeiten, führen Sie `/ki-governance:behoerden-und-sanktionslage-bearbeiten Thema: kaltstart-interview
    > --redo` neu aus und wählen einen Kanzleikontext. Andernfalls benötigen Sie `/mandat-arbeitsbereich`
    > nicht.
 
@@ -545,13 +545,13 @@ Dieser Skill verwaltet diese Workspaces.
 
 ## Subbefehle
 
-- `/ki-governance:mandat-arbeitsbereich new <slug>` – neuen Mandats-Workspace anlegen, kurzes
+- `/ki-governance:arbeitsprodukt-bearbeiten Thema: mandat-arbeitsbereich new <slug>` – neuen Mandats-Workspace anlegen, kurzes
   Aufnahme-Interview, `mandat.md` schreiben
-- `/ki-governance:mandat-arbeitsbereich list` – Mandate mit Status und Aktiv-Flag auflisten
-- `/ki-governance:mandat-arbeitsbereich switch <slug>` – aktives Mandat setzen
-- `/ki-governance:mandat-arbeitsbereich close <slug>` – Mandat archivieren (nach
+- `/ki-governance:arbeitsprodukt-bearbeiten Thema: mandat-arbeitsbereich list` – Mandate mit Status und Aktiv-Flag auflisten
+- `/ki-governance:arbeitsprodukt-bearbeiten Thema: mandat-arbeitsbereich switch <slug>` – aktives Mandat setzen
+- `/ki-governance:arbeitsprodukt-bearbeiten Thema: mandat-arbeitsbereich close <slug>` – Mandat archivieren (nach
   `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/mandate/_archiv/` verschieben, nie löschen)
-- `/ki-governance:mandat-arbeitsbereich none` – von aktivem Mandat trennen, nur auf Praxisebene
+- `/ki-governance:arbeitsprodukt-bearbeiten Thema: mandat-arbeitsbereich none` – von aktivem Mandat trennen, nur auf Praxisebene
   arbeiten
 
 ## Speicherlayout
@@ -594,7 +594,7 @@ Slugs sind kleingeschrieben mit Bindestrichen. Beispiele: `mueller-ki-review-202
 4. `mandate/<slug>/verlauf.md` mit einem einzigen "Eröffnet"-Eintrag initialisieren.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
 6. **Nicht** automatisch auf das neue Mandat wechseln. Fragen: "Möchten Sie jetzt zu
-   `<slug>` wechseln? (`/ki-governance:mandat-arbeitsbereich switch <slug>`)"
+   `<slug>` wechseln? (`/ki-governance:arbeitsprodukt-bearbeiten Thema: mandat-arbeitsbereich switch <slug>`)"
 
 ### `list`
 

@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt Transport Speditionsrecht** vom ersten Sachv
 
 ## Fachlandkarte dieses Plugins
 
-- `transport-autonome-lkw-konvois-haftung-1d-stvg` — Autonome LKW CMR Schadensregulierung
-- `cmr-haftung-art-17-cmr` — CMR Haftung ART 17 CMR
-- `cmr-haftung` — CMR Haftung Ladungsschaden
-- `cotif-schriftsatz-brief-und-memo-bausteine` — Cotif Fachanwalt Haager
-- `workflow-mandantenkommunikation` — FA Transport Spedition Mandant Redteam
-- `einstieg-schnelltriage-fallrouting` — FA Transport Spedition Start Chronologie Fristen
-- `frachtfuehrerhaftung-paragraf-425-hgb` — Frachtfuehrerhaftung Paragraf 425 HGB
-- `gefahrgut-adr-paragraf-9-gefstoffvo` — Gefahrgut ADR Paragraf 9 Gefstoffvo
-- `hgb-dokumentenmatrix-und-lueckenliste` — HGB Kabotage Beweislast Kanzlei RED Team Korrektur
-- `ladungsschaden-art-23-cmr` — Ladungsschaden ART 23 CMR
-- `lieferverzug` — Lieferverzug Orientierung Mandat Triage
-- `luftfracht-monteral-uebereinkommen` — Luftfracht Monteral Uebereinkommen
-- `marktzugang-sonderfall-edge-case` — Marktzugang Sonderfall Montrealer
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `strassentransport-cmr-bearbeiten` (Fachthema: transport-autonome-lkw-konvois-haftung-1d-stvg) — Autonome LKW CMR Schadensregulierung
+- `strassentransport-cmr-bearbeiten` (Fachthema: cmr-haftung-art-17-cmr) — CMR Haftung ART 17 CMR
+- `strassentransport-cmr-bearbeiten` (Fachthema: cmr-haftung) — CMR Haftung Ladungsschaden
+- `see-luft-bahn-multimodal-bearbeiten` (Fachthema: cotif-schriftsatz-brief-und-memo-bausteine) — Cotif Fachanwalt Haager
+- `mandat-quellen-abschluss-bearbeiten` (Fachthema: workflow-mandantenkommunikation) — FA Transport Spedition Mandant Redteam
+- `mandat-quellen-abschluss-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — FA Transport Spedition Start Chronologie Fristen
+- `hgb-spedition-paket-bearbeiten` (Fachthema: frachtfuehrerhaftung-paragraf-425-hgb) — Frachtfuehrerhaftung Paragraf 425 HGB
+- `gefahrgut-marktzugang-bearbeiten` (Fachthema: gefahrgut-adr-paragraf-9-gefstoffvo) — Gefahrgut ADR Paragraf 9 Gefstoffvo
+- `mandat-quellen-abschluss-bearbeiten` (Fachthema: hgb-dokumentenmatrix-und-lueckenliste) — HGB Kabotage Beweislast Kanzlei RED Team Korrektur
+- `strassentransport-cmr-bearbeiten` (Fachthema: ladungsschaden-art-23-cmr) — Ladungsschaden ART 23 CMR
+- `frist-beweis-reklamation-bearbeiten` (Fachthema: lieferverzug) — Lieferverzug Orientierung Mandat Triage
+- `see-luft-bahn-multimodal-bearbeiten` (Fachthema: luftfracht-monteral-uebereinkommen) — Luftfracht Monteral Uebereinkommen
+- `gefahrgut-marktzugang-bearbeiten` (Fachthema: marktzugang-sonderfall-edge-case) — Marktzugang Sonderfall Montrealer
+- `mandat-quellen-abschluss-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `mandat-quellen-abschluss-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

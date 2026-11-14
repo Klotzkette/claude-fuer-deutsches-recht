@@ -11,20 +11,20 @@ Bestimme aus Auftrag, Anspruchsfassung und technischen Unterlagen, ob eine Anmel
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-patentverletzung-verteidigung` — Abmahnung Patentverletzung Verteidigung
-- `anspruchsentwurf-dokumentenmatrix-und-lueckenliste` — Anspruchsentwurf Dokumentenmatrix und Lueckenliste
-- `beschreibung-zeichnungen-einspruch-epa-epo` — Beschreibung Zeichnungen Einspruch EPA EPO
-- `einspruch-epa-und-nichtigkeit-bpatg` — Einspruch EPA und Nichtigkeit Bpatg
-- `epo-epue-einspruch-beschwerde-beschraenkung` — EPO Epue Einspruch Beschwerde Beschraenkung
-- `erfinderbenennung-arbeitnehmererfindung` — Erfinderbenennung Arbeitnehmererfindung
-- `erfindungsaufnahme-tatbestand-beweis-und-belege` — Erfindungsaufnahme Tatbestand Beweis und Belege
-- `erfindungsmeldung-aufnahme-und-rueckfragen` — Erfindungsmeldung Aufnahme und Rueckfragen
-- `freedom-to-operate-und-schutzbereich` — Freedom TO Operate und Schutzbereich
-- `gebrauchsmuster-patent-patentrechts` — Gebrauchsmuster Patent Patentrechts
-- `internationaler-patentrechts-und-laendercheck` — Internationaler Patentrechts und Laendercheck
-- `israel-patentrecht-ilpo-opposition-revocation` — Israel Patentrecht Ilpo Opposition Revocation
-- `japan-jpo-kanada-cipo-loeschung-widerruf` — Japan JPO Kanada Cipo Loeschung Widerruf
-- `dokumente-intake` — Dokumente Intake
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: abmahnung-patentverletzung-verteidigung) — Abmahnung Patentverletzung Verteidigung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anspruchsentwurf-dokumentenmatrix-und-lueckenliste) — Anspruchsentwurf Dokumentenmatrix und Lueckenliste
+- `verfahren-bearbeiten` (Fachthema: beschreibung-zeichnungen-einspruch-epa-epo) — Beschreibung Zeichnungen Einspruch EPA EPO
+- `verfahren-bearbeiten` (Fachthema: einspruch-epa-und-nichtigkeit-bpatg) — Einspruch EPA und Nichtigkeit Bpatg
+- `verfahren-bearbeiten` (Fachthema: epo-epue-einspruch-beschwerde-beschraenkung) — EPO Epue Einspruch Beschwerde Beschraenkung
+- `technische-lehre-bearbeiten` (Fachthema: erfinderbenennung-arbeitnehmererfindung) — Erfinderbenennung Arbeitnehmererfindung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: erfindungsaufnahme-tatbestand-beweis-und-belege) — Erfindungsaufnahme Tatbestand Beweis und Belege
+- `rechtsbestand-bearbeiten` (Fachthema: erfindungsmeldung-aufnahme-und-rueckfragen) — Erfindungsmeldung Aufnahme und Rueckfragen
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: freedom-to-operate-und-schutzbereich) — Freedom TO Operate und Schutzbereich
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: gebrauchsmuster-patent-patentrechts) — Gebrauchsmuster Patent Patentrechts
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: internationaler-patentrechts-und-laendercheck) — Internationaler Patentrechts und Laendercheck
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: israel-patentrecht-ilpo-opposition-revocation) — Israel Patentrecht Ilpo Opposition Revocation
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: japan-jpo-kanada-cipo-loeschung-widerruf) — Japan JPO Kanada Cipo Loeschung Widerruf
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

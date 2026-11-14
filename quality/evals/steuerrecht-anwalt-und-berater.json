@@ -148,6 +148,26 @@
       "url": "https://www.gesetze-im-internet.de/estg/__32b.html",
       "checked_on": "2026-11-10",
       "supports": "Abgrenzung Progression nach Nr. 3 bzw. Nr. 5 und Ausnahmen für abkommensrechtlich freigestellte Einkünfte."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650176/",
+      "checked_on": "2026-11-14",
+      "supports": "BFH, Beschluss vom 23.10.2026, X B 2/26, Rn. 14–26: Übergangener aktenkundiger Softwarezugang als Verfahrensfehler; Voraussetzungen objektiv willkürlicher Schätzung; private Einnahmen, mögliche Betriebsausgaben und Aufklärungsmittel konkret würdigen. Nichtigkeit offen, Hinweise ohne Bindung, Zurückverweisung.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "6e3c18f34f304890eb5adfbf8e49c134464d5b085dfa95b718aa0ba79a6a07e9"
+    },
+    {
+      "url": "https://ao.bundesfinanzministerium.de/ao/2021/Aenderungsuebersicht/inhalt.html",
+      "checked_on": "2026-11-14",
+      "supports": "Amtliche Änderungsübersicht Nr. 101: Gesetz vom 21.12.2007, BGBl. I S. 3198, Änderung der §§ 370, 370a, 373, 374 AO zum 01.01.2008.",
+      "verification_status": "amtliche_aenderungsuebersicht_konkrete_zeile",
+      "source_sha256": "12912f809d5d93e4e184332fcf74cabd6ba116d81d4e55dc8c2a1b38a72a0a08"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__2.html",
+      "checked_on": "2026-11-14",
+      "supports": "Tatzeitrecht, Änderung während der Tat und mildestes Gesetz, keine automatische Umstellung.",
+      "verification_status": "amtlicher_normtext"
     }
   ],
   "mini_review": {
@@ -181,12 +201,13 @@
       "Nicht tragende Richtsatzkritik und historische Kassenanforderungen von geltenden Paragrafen 158 und 162 AO getrennt.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Leere Eingabe, Dateien ohne Auftrag und klaren Auftrag im Fokus und zugehörigen Skill getrennt behandelt.",
-      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+      "14.11.2026: Zugeordneten Skill vollständig gelesen und um aktuellen Rechtsprechungszweig ergänzt; unveränderter Fokusprompt und dessen ältere Quellenprüfung dadurch nicht neu datiert."
     ],
     "prompt_path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
     "prompt_sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942",
     "skill_path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
-    "skill_sha256": "bd37d0d61be8e6668e3086df02a7318f78f34874c5793419153718d638d905ac"
+    "skill_sha256": "282de1413ef1111cf37140b472a96362449280cb278bf0d35f13aabb1d4f25b3"
   },
   "selection": {
     "positive": [
@@ -290,7 +311,7 @@
     {
       "id": "ustva-istbesteuerung-jahreswechsel-belegkopien",
       "request": "Erstelle die UStVA für Q4 2025. Genehmigte Istbesteuerung liegt vor. Eine IT-Rechnung über 1.000 Euro netto plus 190 Euro USt ist dreifach als PDF, XML und Mail enthalten, aber erst am 12. Januar 2026 bezahlt. Eine andere Leistung über 2.000 Euro netto plus 380 Euro USt wurde im November bezahlt. Eine betriebliche Eingangsrechnung vom Oktober über 100 Euro netto plus 19 Euro USt lag im Oktober vor, die Leistung war erbracht, bezahlt wurde im Januar. Alle Umsätze sind inländische Regelbesteuerung, keine Vorsteuerbeschränkung. Ich möchte eine ELSTER-Erfassungstabelle.",
-      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "target_skill": "umsatzsteuer-erechnung-verbrauchsteuern-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Ergebnis"
@@ -322,7 +343,7 @@
     {
       "id": "ustva-elster-xml-statt-jahresformular",
       "request": "Erstelle die Voranmeldung März 2026. Ich habe ein ausgefülltes USt-2-A-Jahresformular und eine eigene XML mit dem Wurzelelement Belege beigefügt. Die Beträge sind geprüft. Bitte gib mir daraus eine Datei, die direkt in Mein ELSTER importiert werden kann. Ein ERiC-Jahresschema liegt noch nicht vor.",
-      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "target_skill": "umsatzsteuer-erechnung-verbrauchsteuern-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Ergebnis"
@@ -354,7 +375,7 @@
     {
       "id": "ustva-lokaler-zertifikatsweg-annahmestand",
       "request": "Die Anmeldung Q2 2026 über 428 Euro Zahllast ist fachlich geprüft. Ich habe genau diesen Datensatz zur echten Abgabe freigegeben. Die lokale ERiC-Anwendung ist vorhanden. Nach dem Senden meldet sie eine Zeitüberschreitung, der Annahmestand ist unbekannt. Mein Zertifikat liegt lokal. Bitte mache weiter.",
-      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "target_skill": "umsatzsteuer-erechnung-verbrauchsteuern-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Ergebnis"
@@ -386,7 +407,7 @@
     {
       "id": "tomasius-ustva-q4-2025-rechenfall",
       "request": "Erstelle eine ELSTER-Erfassungstabelle für IV/2025 anhand folgender geprüfter Belegüberleitung eines Rechenfalls. Hubertus Tomasius ist Istbesteuerer. Im Quartal vereinnahmt: IT 2.100 Euro netto zu 19 Prozent und Datenschutz 2.340 Euro netto zu 19 Prozent. Autorenrechte 255 Euro netto zu 7 Prozent. Musikunterricht 1.950 Euro ohne Umsatzsteuer, vollständig dem Lehrgang SVA-25 zugeordnet, dessen Voraussetzungen nach § 4 Nr. 21 Buchst. b Doppelbuchst. bb in Verbindung mit Buchst. a Doppelbuchst. bb UStG durch eine gültige Landesbescheinigung und eine personenbezogene Schulbestätigung belegt sind. Die Dezember-IT-Rechnung über 1.000 Euro netto wurde erst am 12. Januar 2026 bezahlt. Vorsteuer Q4: drei Telefonrechnungen mit je 9,31 Euro Vorsteuer und abzugsfähigem Anteil 63 Prozent, drei ausschließlich abzugsfähige Softwarebeträge zu je 11,21 Euro, 142,50 Euro Seminarvorsteuer und 3,21 Euro Fachbuchvorsteuer. Telefonanteile je Beleg auf Cent runden. Der Nutzer hat 700 Euro an die Finanzkasse überwiesen. Ein USt-2-A-Jahresformular in der Akte ist ausdrücklich lediglich ein nicht eingereichtes Muster. Keine echte Übermittlung beauftragt.",
-      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "target_skill": "umsatzsteuer-erechnung-verbrauchsteuern-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Erfassung.csv"
@@ -421,11 +442,43 @@
           ]
         }
       ]
+    },
+    {
+      "id": "schaetzung-akteninhalt-und-nichtigkeit",
+      "request": "Die Betreiberin eines Cafés hat keine Gewinnermittlungen eingereicht. Das Finanzamt schätzt aus Kontoeingängen; eindeutig bezeichnete private Erstattungen werden mitgezählt, betriebliche Ausgaben fast vollständig ausgelassen. Eine schon vor Bescheiderlass in der Prüfungsakte vorhandene E-Mail bietet Zugriff auf sämtliche Rechnungs- und Zahlungsdaten im Buchungssystem. Die Bescheide sind bestandskräftig. In der Nichtigkeitsklage schreibt das Finanzgericht, ein solcher Zugriff sei nicht nachprüfbar gewesen. Die Betreiberin verlangt jetzt die Aussage, alle Bescheide seien sicher nichtig. Erstelle ergebnis.md als Prüfvermerk zu Akteninhalt, Schätzung und zulässigem Vorgehen. Es ist kein Rechtsbehelf einzureichen.",
+      "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Ordnet den dokumentierten Zugang und die widersprechende Feststellung unter § 96 Abs. 1 Satz 1 FGO ein; benennt Aktenfundstelle und mögliche Entscheidungserheblichkeit ohne Zugangsdaten preiszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Trennt Schätzungsbefugnis, Fehlerhöhe und Nichtigkeit; untersucht objektive Willkür nach BFH X B 2/26, Rn. 18, und weitere Ermittlungsansätze.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Behauptet keine sichere Nichtigkeit: BFH Rn. 26 lässt sie offen, Hinweise waren nicht bindend; klärt Verfahrensstand und Rechtsbehelfsfrist statt pauschaler Fristfreiheit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachlich-redaktionelle Gegenlese anhand der Freiburger Umsatzsteuer- und Einkommensteuerakten. Steuererklärung, Einspruch und Finanzgerichtsklage erhalten eigene Arbeitswege mit belegter Rechnung und Fortsetzung.",
+    "reason": "Fachlich-redaktionelle Gegenlese anhand der Freiburger Umsatzsteuer- und Einkommensteuerakten. Steuererklärung, Einspruch und Finanzgerichtsklage erhalten eigene Arbeitswege mit belegter Rechnung und Fortsetzung. 14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -437,10 +490,11 @@
       "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
       "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen.",
       "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg.",
-      "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert."
+      "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert.",
+      "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
     ],
-    "sha256": "474fb284cd1d126f0879a7b90e5fdd585a89a5831465fc8c9f97630be1065f43",
-    "reviewed_on": "2026-11-06",
+    "sha256": "2bee87ffc8dccf16fc7f5277c76699c690ddb5242586aba278196936e80b99d0",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
@@ -448,23 +502,23 @@
     "files": [
       "quality/evals/steuerrecht-anwalt-und-berater.json",
       "steuerrecht-anwalt-und-berater/README.md",
-      "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/FACHINHALT.md",
       "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
       "steuerrecht-anwalt-und-berater/skills/juristischer-argumentationskern/SKILL.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
       "steuerrecht-anwalt-und-berater/references/primaerquellen-2026-10-16.md",
-      "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md",
-      "steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/FACHINHALT.md",
+      "steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/FACHINHALT.md",
       "steuerrecht-anwalt-und-berater/ustva/werkstatt.md",
       "steuerrecht-anwalt-und-berater/ustva/mini.md",
-      "steuerrecht-anwalt-und-berater/skills/umsatzsteuer-vorsteuerabzug-pruefen/SKILL.md",
-      "steuerrecht-anwalt-und-berater/skills/ust-innergemeinschaftlich-6a-ustg/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/umsatzsteuer-vorsteuerabzug-pruefen/FACHINHALT.md",
+      "steuerrecht-anwalt-und-berater/skills/ust-innergemeinschaftlich-6a-ustg/FACHINHALT.md",
       "testakten/megaprompts/steuerrecht-anwalt-und-berater.md",
-      "steuerrecht-anwalt-und-berater/skills/dba-anrechnung-vs-freistellung-methodenartikel/SKILL.md",
-      "steuerrecht-anwalt-und-berater/skills/dba-betriebsstaette-art-5-musterabkommen/SKILL.md",
-      "steuerrecht-anwalt-und-berater/skills/schenkung-zehnjahresfrist/SKILL.md"
+      "steuerrecht-anwalt-und-berater/skills/dba-anrechnung-vs-freistellung-methodenartikel/FACHINHALT.md",
+      "steuerrecht-anwalt-und-berater/skills/dba-betriebsstaette-art-5-musterabkommen/FACHINHALT.md",
+      "steuerrecht-anwalt-und-berater/skills/schenkung-zehnjahresfrist/FACHINHALT.md"
     ],
     "opening_change": "Steuererklärung, Steueranmeldung, Einspruch und Finanzgerichtsklage sind im Einstieg erkennbar. Der Methodenanker X R 14/24 bleibt erhalten.",
     "norms": [
@@ -569,7 +623,7 @@
       "date": "2026-10-01",
       "scope": "anchor_context_review_with_targeted_correction",
       "files": [
-        "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md",
+        "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/FACHINHALT.md",
         "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
         "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
         "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
@@ -670,5 +724,67 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_followup_2026_11_14": {
+    "method": "desk_review",
+    "date": "2026-11-14",
+    "scope": "Gezielte amtliche Volltextprüfung der genannten Entscheidungen; geänderte Werkstatt im Zusammenhang gelesen, keine Gesamtneuverifikation.",
+    "files": [
+      {
+        "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+        "sha256": "af0b51471416c0d8b212ef7d81874465c597dd4951387527f7358cc90c13c323"
+      },
+      {
+        "path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
+        "sha256": "282de1413ef1111cf37140b472a96362449280cb278bf0d35f13aabb1d4f25b3"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650176/",
+        "checked_on": "2026-11-14",
+        "supports": "BFH, Beschluss vom 23.10.2026, X B 2/26, Rn. 14–26: Übergangener aktenkundiger Softwarezugang als Verfahrensfehler; Voraussetzungen objektiv willkürlicher Schätzung; private Einnahmen, mögliche Betriebsausgaben und Aufklärungsmittel konkret würdigen. Nichtigkeit offen, Hinweise ohne Bindung, Zurückverweisung.",
+        "verification_status": "amtlicher_volltext_passagenbezogen",
+        "source_sha256": "6e3c18f34f304890eb5adfbf8e49c134464d5b085dfa95b718aa0ba79a6a07e9"
+      }
+    ],
+    "audit_path": "quality/source-audits/2026-11-14/kerngebiete.md",
+    "limits": "Historische Quellenprüfungen behalten ihre eigenen Daten und ihren damaligen Status. Kein Live-Modelltest; keine behauptete vollständige Rechtsstandszertifizierung des Plugins.",
+    "evaluation_cases": {
+      "added": [
+        "schaetzung-akteninhalt-und-nichtigkeit"
+      ],
+      "status": "Prüffall und Kriterien redaktionell angelegt; kein Live-Modelllauf durchgeführt."
+    }
+  },
+  "historical_370a_correction_2026_11_14": {
+    "reviewed_on": "2026-11-14",
+    "scope": "Orientierungsskill vollständig im Kontext gelesen; nur §-370a-Absatz korrigiert. Inhaltsgleiche Stelle im generierten Megaprompt-Spiegel synchronisiert, kein vollständiger neuer Quellencheck dieses Spiegels.",
+    "files": [
+      {
+        "path": "steuerrecht-anwalt-und-berater/skills/orientierung/SKILL.md",
+        "sha256": "5f31337b008b00c7856c4f67d6d7ee47e0e00d5107b3a2461afe0c422213ed0d"
+      },
+      {
+        "path": "testakten/megaprompts/steuerrecht-anwalt-und-berater.md",
+        "scope": "Nur identischer §-370a-Absatz synchronisiert, kein Ganzdatei-Quellenprüfhash."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://ao.bundesfinanzministerium.de/ao/2021/Aenderungsuebersicht/inhalt.html",
+        "checked_on": "2026-11-14",
+        "supports": "Amtliche Änderungsübersicht Nr. 101: Gesetz vom 21.12.2007, BGBl. I S. 3198, Änderung der §§ 370, 370a, 373, 374 AO zum 01.01.2008.",
+        "verification_status": "amtliche_aenderungsuebersicht_konkrete_zeile",
+        "source_sha256": "12912f809d5d93e4e184332fcf74cabd6ba116d81d4e55dc8c2a1b38a72a0a08"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/stgb/__2.html",
+        "checked_on": "2026-11-14",
+        "supports": "Tatzeitrecht, Änderung während der Tat und mildestes Gesetz, keine automatische Umstellung.",
+        "verification_status": "amtlicher_normtext"
+      }
+    ],
+    "audit_path": "quality/source-audits/2026-11-14/steuerstrafrecht-370a.md"
   }
 }

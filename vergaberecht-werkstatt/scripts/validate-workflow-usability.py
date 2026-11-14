@@ -9,6 +9,8 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT.parent / "scripts"))
+from skill_sources import fachinhalt_path
 
 ROLE_FILES = {
     "vergabestelle-behoerden": {
@@ -156,7 +158,9 @@ def main() -> int:
         for kind, relative in files.items():
             path = ROOT / plugin / relative
             label = path.relative_to(ROOT)
-            if not path.is_file():
+            try:
+                path = fachinhalt_path(path)
+            except FileNotFoundError:
                 errors.append(f"{label}: Datei fehlt")
                 continue
             checked += 1
@@ -223,8 +227,12 @@ def main() -> int:
                 errors.append(f"{prompt_label}: Null-Konfigurations-Start fehlt")
 
     for relative, markers in POST_INVENTORY_SKILLS.items():
-        path = ROOT / relative
-        text = path.read_text(encoding="utf-8") if path.is_file() else ""
+        try:
+            path = fachinhalt_path(ROOT / relative)
+            text = path.read_text(encoding="utf-8")
+        except FileNotFoundError:
+            errors.append(f"{relative}: zu prüfende Fachquelle fehlt")
+            continue
         for marker in markers:
             if marker.casefold() not in text.casefold():
                 errors.append(f"{relative}: Zuständigkeitsgrenze fehlt: {marker}")

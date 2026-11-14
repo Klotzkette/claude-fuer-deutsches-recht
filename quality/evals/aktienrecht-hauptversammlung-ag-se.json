@@ -44,7 +44,7 @@
       "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme.",
       "16.10.2026: Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt."
     ],
-    "sha256": "f7748420446892d7f18647d3c29b2572fbd6e8d447768ea43a68dd6be9bf6996",
+    "sha256": "f724058644dac561fc5dd61fdfdfed1a0a1b0141733bc1cb251101edbee0f0f3",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -89,7 +89,7 @@
           ]
         }
       ],
-      "target_skill": "technische-stoerung-virtuelle-hv"
+      "target_skill": "teilnahme-und-durchfuehrung-bearbeiten"
     }
   ],
   "workshop_review": {

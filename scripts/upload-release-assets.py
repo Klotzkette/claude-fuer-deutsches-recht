@@ -16,9 +16,11 @@ from typing import Any
 from urllib.parse import urlencode
 
 from release_asset_common import expected_asset_metadata, release_assets
+from release_rate_limits import PacedReleaseClient
 
 
 PRINT_LOCK = threading.Lock()
+PACED_CLIENT: PacedReleaseClient | None = None
 
 
 def log(message: str, *, error: bool = False) -> None:
@@ -27,6 +29,8 @@ def log(message: str, *, error: bool = False) -> None:
 
 
 def run(command: list[str], *, timeout: int = 300) -> subprocess.CompletedProcess[str]:
+    if PACED_CLIENT is not None:
+        return PACED_CLIENT.run(command, timeout=timeout)
     return subprocess.run(
         command,
         check=False,
@@ -238,6 +242,7 @@ def upload_one(
 
 
 def main() -> int:
+    global PACED_CLIENT
     parser = argparse.ArgumentParser()
     parser.add_argument("dist", type=Path)
     parser.add_argument("tag")
@@ -246,11 +251,16 @@ def main() -> int:
     parser.add_argument("--attempts", type=int, default=6)
     parser.add_argument("--require-existing", action="store_true")
     parser.add_argument("--protect-published", action="store_true")
+    parser.add_argument("--paced-github-token", action="store_true",
+                        help="Serielle Uploads, 8s Mutationsabstand und begrenzte RateLimit-/Resetwartezeiten")
     args = parser.parse_args()
     if not 1 <= args.workers <= 8:
         parser.error("--workers muss zwischen 1 und 8 liegen")
     if not 1 <= args.attempts <= 10:
         parser.error("--attempts muss zwischen 1 und 10 liegen")
+    if args.paced_github_token and args.workers != 1:
+        parser.error("--paced-github-token benötigt --workers 1")
+    PACED_CLIENT = PacedReleaseClient() if args.paced_github_token else None
 
     try:
         metadata = expected_asset_metadata(args.dist)

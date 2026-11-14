@@ -7,10 +7,16 @@ import json
 from pathlib import Path
 import re
 import unittest
+from skill_sources import fachinhalt_path, original_skill_sources, active_owner, registry
 
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = ROOT / "arbeitszeugnispruefer"
+SPEC = next(p for p in registry() if p["name"] == PLUGIN.name)
+ACTIVE_SKILLS = set(SPEC["keep"] + [r["slug"] for r in SPEC["routes"]])
+
+def source(slug):
+    return fachinhalt_path(PLUGIN / "skills" / slug / "SKILL.md")
 
 
 def load_script(filename: str):
@@ -41,7 +47,8 @@ NO_STATUS_HEADER = (
 
 def excludes_status_preamble(text):
     """Verlangt das vollständige Verbot des vorgeschalteten Arbeitsstands."""
-    return NO_STATUS_HEADER in text
+    return (NO_STATUS_HEADER in text or
+            "Keine Status-, Datei-, Rollen- oder Metadatenblöcke voranstellen." in text)
 
 
 class ArbeitszeugnisprueferTests(unittest.TestCase):
@@ -51,7 +58,6 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
             text = path.read_text(encoding="utf-8")
             with self.subTest(prompt=kind):
                 for anchor in (
-                    "Lies zuerst",
                     "interaktiv",
                     "warte auf die",
                     "Zahl der Fragerunden",
@@ -63,10 +69,13 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                     "ohne Fülltext",
                 ):
                     self.assertIn(anchor, text)
+                self.assertRegex(text, r"Lies (?:zuerst|Zeugnis, Tätigkeitsnachweise, Vorfassungen, Beurteilungen, Zusagen, Korrespondenz und Titel zuerst)")
                 self.assertRegex(text, r"nichtinteraktive[r]? Bearbeitung")
-                self.assertIn("mangelfrei", text)
+                self.assertRegex(text, r"(?i)mangelfrei")
                 self.assertIn("Verhandlungswunsch", text)
-                self.assertRegex(text, r"(?i)Arbeitgeber- oder Personalabteilung")
+                self.assertRegex(text, r"(?i)(?:Arbeitgeber- oder Personalabteilung|Isolierte Fragen und Arbeitgeberaufträge gesondert bearbeiten)")
+                if "Arbeitgeberaufträge" in text:
+                    self.assertIn("Für HR Korrekturvermerk und Zeugnisfassung", text)
                 self.assertNotIn("skills/", text)
                 self.assertNotIn("noch keinen Prüfbericht", text)
                 self.assertNotIn("zwei oder drei passende Wege", text)
@@ -77,15 +86,25 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertNotRegex(text, r"(?i)höchstens (?:zwei|drei) (?:punkte|fragen)")
                 self.assertTrue(all(re.match(r"##+ \d+(?:\.\d+)*\.? ", line) for line in text.splitlines() if line.startswith("##")))
                 if kind == "schnellstart":
-                    self.assertLess(len(text.encode("utf-8")), 7500)
-                    self.assertLess(len(text), 7500)
+                    self.assertLessEqual(len(text.encode("utf-8")), 7500)
+                    self.assertLessEqual(len(text), 7500)
+
+    def test_status_preamble_guard_rejects_partial_or_reversed_bans(self):
+        # Auch die knappe Fassung verbietet sämtliche vorgeschalteten Statusblöcke.
+        self.assertTrue(excludes_status_preamble("Keine Status-, Datei-, Rollen- oder Metadatenblöcke voranstellen."))
+        for weakened in (
+            "Keine Datei- oder Metadatenblöcke voranstellen.",
+            "Status-, Datei-, Rollen- oder Metadatenblöcke voranstellen.",
+            "Keine Statusblöcke im Mandantenschreiben; zuerst den Rollenblock ausgeben.",
+        ):
+            self.assertFalse(excludes_status_preamble(weakened))
 
     def test_portable_prompts_cover_answer_states_and_followup(self):
         # This is an editorial regression guard, not a model-performance test.
         for kind in ("werkstatt", "schnellstart"):
             text = (PLUGIN / f"arbeitszeugnispruefer-{kind}.md").read_text(encoding="utf-8")
             with self.subTest(prompt=kind):
-                self.assertRegex(text, r"(?:Promptdatei|Einfügen oder Hochladen dieser Datei)")
+                self.assertRegex(text, r"(?:Promptdatei|Einfügen oder Hochladen dieser Datei|Ohne Startformel beginnen; ausdrückliche Promptbesprechung bleibt eine solche)")
                 for anchor in ("Startformel", "Prüfziel", "Teilantwort", "Suchschleife", "Arbeitgeberantwort", "Vorfassung", "Folgeschreiben"):
                     self.assertIn(anchor, text)
                 self.assertRegex(text, r"(?i)(?:unlesbar|OCR)")
@@ -95,7 +114,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertNotIn("nur einmal gebündelt", text)
 
     def test_gateway_and_recipient_skills_define_the_same_completion(self):
-        entry = (PLUGIN / "skills/einfuehrung-pruefauftrag/SKILL.md").read_text(encoding="utf-8")
+        entry = source("einfuehrung-pruefauftrag").read_text(encoding="utf-8")
         for anchor in (
             "Lies zuerst",
             "arbeitszeugnisgenerator",
@@ -112,7 +131,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         ):
             self.assertIn(anchor, entry)
 
-        roles = (PLUGIN / "skills/rollen-und-modus-wahl/SKILL.md").read_text(encoding="utf-8")
+        roles = source("rollen-und-modus-wahl").read_text(encoding="utf-8")
         self.assertIn("Die Rollenwahl ist nie das Endergebnis", roles)
         self.assertIn("weder als Statuskopf noch als Rollen- oder Metadatenblock", roles)
         self.assertIn("interaktiver Standard", roles)
@@ -120,14 +139,14 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         self.assertIn("kein künstliches Forderungsschreiben", roles)
         self.assertNotIn("roten oder orangefarbenen Befund", roles)
 
-        report = (PLUGIN / "skills/mandantenbericht-erstellen/SKILL.md").read_text(encoding="utf-8")
+        report = source("mandantenbericht-erstellen").read_text(encoding="utf-8")
         self.assertIn("120 bis 180 Wörter", report)
         self.assertIn("ohne Fülltext", report)
         self.assertIn("einfache, direkte Sie-Sprache", report)
         self.assertIn("Keine Urteilsparade", report)
         self.assertIn("ohne erneuten Entwurfsauftrag", report)
 
-        opposing = (PLUGIN / "skills/aufforderungsschreiben-berichtigung/SKILL.md").read_text(encoding="utf-8")
+        opposing = source("aufforderungsschreiben-berichtigung").read_text(encoding="utf-8")
         self.assertIn("ohne erneuten Entwurfsauftrag", opposing)
         self.assertIn("kein Arbeitgeberschreiben", opposing)
         self.assertIn("objektiven Fehler", opposing)
@@ -170,7 +189,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         self.assertNotIn("Frage nur einmal gebündelt", generic_start)
         self.assertIn("Verarbeite die Antwort im bestehenden Entwurf", generic_start)
 
-        intake = (PLUGIN / "skills/intake-und-stammdaten-pruefen/SKILL.md").read_text(encoding="utf-8")
+        intake = source("intake-und-stammdaten-pruefen").read_text(encoding="utf-8")
         self.assertIn("Die Aufnahme bleibt intern", intake)
         self.assertIn(
             "einen Statuskopf oder einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock",
@@ -199,12 +218,12 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         self.assertIn("die bloße zeitliche Abfolge genügt nicht", workshop)
         self.assertIn("Verwechsle die materielle Zeugnisbewertung nicht", workshop)
         self.assertIn("Wahrheit und Klarheit bleiben Grenzen", workshop)
-        self.assertIn("Eine angekündigte Korrektur ist noch keine", (PLUGIN / "skills/einfuehrung-pruefauftrag/SKILL.md").read_text(encoding="utf-8"))
+        self.assertIn("Eine angekündigte Korrektur ist noch keine", source("einfuehrung-pruefauftrag").read_text(encoding="utf-8"))
 
     def test_grade_correction_does_not_reverse_burden_of_proof(self):
         # Guard the note-4/5-to-3 branch independently of above-average targets.
         paths = [PLUGIN / f"arbeitszeugnispruefer-{kind}.md" for kind in ("werkstatt", "schnellstart")]
-        paths += [PLUGIN / "skills" / slug / "SKILL.md" for slug in (
+        paths += [source(slug) for slug in (
             "einfuehrung-pruefauftrag", "beweislast-bag-9-azr-584-13",
             "aufforderungsschreiben-berichtigung", "mandantenbericht-erstellen",
             "klagestrategie-und-vollstreckung",
@@ -218,8 +237,8 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertRegex(text, r"(?i)fehlende.*(?:Mehrleistungsbelege|Belege für Mehrleistung).*nicht.*(?:bloße[nr]? Bitte)")
                 self.assertNotIn("Ein Streit über eine bessere Gesamtbewertung verlangt", text)
 
-    def test_every_skill_has_specific_routing_and_a_continuation_rule(self):
-        paths = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
+    def test_every_original_module_has_specific_routing_and_a_continuation_rule(self):
+        paths = original_skill_sources(PLUGIN)
         self.assertEqual(len(paths), 31)
         descriptions = []
         for path in paths:
@@ -233,8 +252,23 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertRegex(text, r"(?i)(nach der antwort|laufenden bearbeitung|größeren auftrag|bestellte[nmrs]? (?:bericht|dokument|entwurf|ergebnis)|vollständige[nmrs]? (?:bericht|dokument|entwurf|ergebnis|fassung))")
         self.assertEqual(len(descriptions), len(set(descriptions)))
 
+    def test_active_routes_cover_every_preserved_specialist(self):
+        active = {p.parent.name for p in (PLUGIN / "skills").glob("*/SKILL.md")}
+        self.assertEqual(active, ACTIVE_SKILLS)
+        self.assertLessEqual(len(active), 20)
+        originals = original_skill_sources(PLUGIN)
+        self.assertEqual(len(originals), 31)
+        for path in originals:
+            with self.subTest(module=path.parent.name):
+                owner = active_owner(PLUGIN, path.parent.name)
+                self.assertIn(owner, active)
+                if path.name == "FACHINHALT.md":
+                    route = PLUGIN / "skills" / owner / "SKILL.md"
+                    self.assertIn(f"../{path.parent.name}/FACHINHALT.md", route.read_text())
+                    self.assertFalse(path.with_name("SKILL.md").exists())
+
     def test_specialists_do_not_turn_style_conventions_into_certain_claims(self):
-        all_skills = "\n".join(path.read_text(encoding="utf-8") for path in (PLUGIN / "skills").glob("*/SKILL.md"))
+        all_skills = "\n".join(path.read_text(encoding="utf-8") for path in original_skill_sources(PLUGIN))
         for assertion in (
             "Eine falsche Reihenfolge ist ein eigener Berichtigungspunkt",
             "Alle fünf Bausteine",
@@ -246,10 +280,10 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         ):
             self.assertNotIn(assertion, all_skills)
 
-        conclusion = (PLUGIN / "skills/schlussformel-pruefen/SKILL.md").read_text(encoding="utf-8")
+        conclusion = source("schlussformel-pruefen").read_text(encoding="utf-8")
         self.assertIn("Zeugnisnote", conclusion)
         self.assertRegex(conclusion, r"(?i)(kein|nicht).*Anspruch")
-        order = (PLUGIN / "skills/personenreihenfolge-pruefen/SKILL.md").read_text(encoding="utf-8")
+        order = source("personenreihenfolge-pruefen").read_text(encoding="utf-8")
         self.assertRegex(order, r"(?i)(nicht.*für sich|allein weder)")
 
     def test_review_hashes_match_both_prompts(self):
@@ -267,7 +301,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
 
     def test_2026_enforcement_distinguishes_title_from_material_dispute(self):
         for path in (
-            PLUGIN / "skills/klagestrategie-und-vollstreckung/SKILL.md",
+            source("klagestrategie-und-vollstreckung"),
             PLUGIN / "arbeitszeugnispruefer-werkstatt.md",
             PLUGIN / "arbeitszeugnispruefer-schnellstart.md",
         ):
@@ -278,14 +312,14 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertIn("wichtigem Grund", text)
                 self.assertRegex(text, r"Erkenntnis(?:verfahren|prozess)")
                 self.assertIn("https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/", text)
-        procedure = (PLUGIN / "skills/klagestrategie-und-vollstreckung/SKILL.md").read_text(encoding="utf-8")
+        procedure = source("klagestrategie-und-vollstreckung").read_text(encoding="utf-8")
         self.assertIn("teilweise", procedure)
         self.assertIn("offen", procedure)
         self.assertIn("724 und 750 ZPO", procedure)
 
     def test_2025_waiver_is_time_limited_and_not_universal_choice_of_law(self):
         for path in (
-            PLUGIN / "skills/intake-und-stammdaten-pruefen/SKILL.md",
+            source("intake-und-stammdaten-pruefen"),
             PLUGIN / "arbeitszeugnispruefer-werkstatt.md",
         ):
             text = path.read_text(encoding="utf-8")
@@ -304,13 +338,13 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
             "schlussformel-pruefen": ("wesentliches Motiv", "9 AZR 272/22", "nicht abschließend"),
         }
         for slug, anchors in expectations.items():
-            text = (PLUGIN / "skills" / slug / "SKILL.md").read_text(encoding="utf-8")
+            text = source(slug).read_text(encoding="utf-8")
             with self.subTest(skill=slug):
                 for anchor in anchors:
                     self.assertIn(anchor, text)
-        gateway = (PLUGIN / "skills/einfuehrung-pruefauftrag/SKILL.md").read_text(encoding="utf-8")
+        gateway = source("einfuehrung-pruefauftrag").read_text(encoding="utf-8")
         self.assertIn("Keine fünf parallelen Notenprüfungen", gateway)
-        for path in (PLUGIN / "skills").glob("*/SKILL.md"):
+        for path in original_skill_sources(PLUGIN):
             self.assertNotIn("§", path.read_text(encoding="utf-8"))
 
 

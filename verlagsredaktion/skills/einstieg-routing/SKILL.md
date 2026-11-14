@@ -11,21 +11,21 @@ Dieser Einstieg routet **Verlagsredaktion** vom ersten Sachverhalt zu Rollen, Fr
 
 ## Fachlandkarte dieses Plugins
 
-- `abstimmung` — Abstimmung
-- `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
-- `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
-- `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
-- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Prüfung
-- `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
-- `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
-- `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag
-- `aussagensicherheit-buchprojekt-bauleiter` — Aussagensicherheit Buchprojekt Bauleiter
-- `autorenkommunikation-compliance-dokumentation-und-akte` — Autorenkommunikation Compliance Dokumentation und Akte
-- `autorenkommunikation-email` — Autorenkommunikation Email
-- `barrierefreiheit-epub-pdf` — Barrierefreiheit Epub PDF
-- `bildrechte-grafiken-tabellen` — Bildrechte Grafiken Tabellen
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `auftrag-uebergabe-bearbeiten` (Fachthema: abstimmung) — Abstimmung
+- `lektorat-sprache-bearbeiten` (Fachthema: abstimmung-lektorat-produktion-satz) — Abstimmung Lektorat Produktion Satz
+- `planung-koordination-bearbeiten` (Fachthema: abstimmung-mit-autor-feedback-kanal) — Abstimmung mit Autor Feedback Kanal
+- `satz-produktion-formate-bearbeiten` (Fachthema: abstimmung-mit-produktion-satz-druck) — Abstimmung mit Produktion Satz Druck
+- `schutz-compliance-korrektur-bearbeiten` (Fachthema: abstimmung-mit-rechtsabteilung-pruefung) — Abstimmung mit Rechtsabteilung Prüfung
+- `vermarktung-kundenservice-bearbeiten` (Fachthema: abstimmung-mit-vertrieb-marketing) — Abstimmung mit Vertrieb Marketing
+- `schutz-compliance-korrektur-bearbeiten` (Fachthema: ai-einsatz-transparenz-datenschutz) — AI Einsatz Transparenz Datenschutz
+- `material-manuskript-bearbeiten` (Fachthema: audio-transkript-zu-fachbeitrag) — Audio Transkript zu Fachbeitrag
+- `quellen-aussagen-bearbeiten` (Fachthema: aussagensicherheit-buchprojekt-bauleiter) — Aussagensicherheit Buchprojekt Bauleiter
+- `auftrag-uebergabe-bearbeiten` (Fachthema: autorenkommunikation-compliance-dokumentation-und-akte) — Autorenkommunikation Compliance Dokumentation und Akte
+- `auftrag-uebergabe-bearbeiten` (Fachthema: autorenkommunikation-email) — Autorenkommunikation Email
+- `satz-produktion-formate-bearbeiten` (Fachthema: barrierefreiheit-epub-pdf) — Barrierefreiheit Epub PDF
+- `autorenrechte-honorar-bearbeiten` (Fachthema: bildrechte-grafiken-tabellen) — Bildrechte Grafiken Tabellen
+- `auftrag-uebergabe-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `auftrag-uebergabe-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

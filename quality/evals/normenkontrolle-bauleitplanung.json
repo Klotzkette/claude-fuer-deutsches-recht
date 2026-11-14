@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "target_skill": "jahresfrist-47-abs-2-vwgo"
+      "target_skill": "vorhabenbezogener-plan-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -151,7 +151,7 @@
       "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
       "normenkontrolle-bauleitplanung/README.md",
       "quality/evals/normenkontrolle-bauleitplanung.json",
-      "normenkontrolle-bauleitplanung/skills/antragsbefugnis-eigentuemer-nachbar/SKILL.md"
+      "normenkontrolle-bauleitplanung/skills/antragsbefugnis-eigentuemer-nachbar/FACHINHALT.md"
     ],
     "opening_change": "Konkrete nutzungsbeschränkende Festsetzung und belegten Planfehler mit Gemeinderüge und gerichtlichem Antrag verbinden.",
     "norms": [

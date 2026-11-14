@@ -166,11 +166,11 @@
           ]
         }
       ],
-      "target_skill": "vermoegensverzeichnis-start"
+      "target_skill": "rechnungs-und-berichtswesen-bearbeiten"
     },
     {
       "id": "altkonto-umbuchung-bargeld",
-      "target_skill": "unterlagen-auswerten-abrechnung-anschreiben",
+      "target_skill": "unterlagen-und-quellen-auswerten-bearbeiten",
       "request": "Ich übernehme heute die Vermögenssorge. Bereiten Sie vorläufig nur diese Angaben als Einnahmen-Ausgaben- und Bestandsübersicht auf; Originalbelege sind hier nicht angehängt. Die Vorperiode zeigt: Giro Anfang 1000 EUR, Spar Anfang 2000 EUR; Rente auf Giro 1000 EUR; Übertrag Giro an eigenes Spar 500 EUR, dort ebenfalls gebucht; Giro Barabhebung 200 EUR, Verwendung unbekannt; Giro Streaming 12 EUR, ausdrücklich gewünscht. Giro Ende 1288 EUR, Spar Ende 2500 EUR. Eine unbezahlte Helferrechnung über 300 EUR liegt zusätzlich vor. Bezeichnen Sie die Rechnung nicht als Bankzahlung. Erklären Sie mir, was die Zahlen beweisen und was vor Maßnahmen fehlt.",
       "input_files": [],
       "deliverables": [

@@ -52,6 +52,39 @@ export function validateSkillMapReferences(skillFile, text) {
     }
     if (!fs.existsSync(target) || !fs.statSync(target).isFile()) {
       errors.push(`Zeile ${index + 1}: Fachlandkarten-Ziel fehlt: ${label}`);
+    } else if (!fs.realpathSync(target).startsWith(fs.realpathSync(skillsRoot) + path.sep)) {
+      errors.push(`Zeile ${index + 1}: Fachlandkarten-Ziel verlässt über einen Symlink das Plugin: ${label}`);
+    }
+  }
+  return [...errors, ...validateFachinhaltReferences(skillFile, text)];
+}
+
+// Bedarfsgeladene Fachtexte sind keine weiteren auswählbaren Skills. Ihre
+// Verweise sind erlaubt und werden separat auf Existenz und Paketautarkie
+// geprüft; die strengere Fachlandkarten-Regel oben bleibt unverändert.
+export function validateFachinhaltReferences(skillFile, text) {
+  const pluginRoot = path.dirname(path.dirname(path.dirname(skillFile)));
+  const errors = [];
+  let fence = null;
+  for (const [index, line] of text.split(/\r?\n/).entries()) {
+    const delimiter = line.match(/^\s*(`{3,}|~{3,})/);
+    if (delimiter) {
+      if (!fence) fence = delimiter[1];
+      else if (delimiter[1][0] === fence[0] && delimiter[1].length >= fence.length) fence = null;
+      continue;
+    }
+    if (fence) continue;
+    for (const match of line.matchAll(/\]\(([^)\s]+)\)/g)) {
+      const raw = match[1].split('#', 1)[0];
+      if (!raw.endsWith('/FACHINHALT.md') || /^[a-z]+:/i.test(raw)) continue;
+      const target = path.resolve(path.dirname(skillFile), raw);
+      if (!target.startsWith(pluginRoot + path.sep)) {
+        errors.push(`Zeile ${index + 1}: Fachinhalt verlässt das Plugin: ${raw}`);
+      } else if (!fs.existsSync(target) || !fs.statSync(target).isFile()) {
+        errors.push(`Zeile ${index + 1}: Fachinhalt fehlt: ${raw}`);
+      } else if (!fs.realpathSync(target).startsWith(fs.realpathSync(pluginRoot) + path.sep)) {
+        errors.push(`Zeile ${index + 1}: Fachinhalt verlässt über einen Symlink das Plugin: ${raw}`);
+      }
     }
   }
   return errors;

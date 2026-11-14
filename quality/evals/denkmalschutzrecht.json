@@ -150,7 +150,7 @@
           ]
         }
       ],
-      "target_skill": "erlaubnis-pflichtige-massnahmen"
+      "target_skill": "erlaubnis-und-abwaegung-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -199,9 +199,9 @@
       "files": [
         "denkmalschutzrecht/denkmalschutzrecht-schnellstart.md",
         "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md",
-        "denkmalschutzrecht/skills/art-14-gg-eigentum-und-denkmalschutz/SKILL.md",
-        "denkmalschutzrecht/skills/enteignung-uebernahme-und-entschaedigung/SKILL.md",
-        "denkmalschutzrecht/skills/rechtsprechungsanker-denkmalrecht/SKILL.md"
+        "denkmalschutzrecht/skills/art-14-gg-eigentum-und-denkmalschutz/FACHINHALT.md",
+        "denkmalschutzrecht/skills/enteignung-uebernahme-und-entschaedigung/FACHINHALT.md",
+        "denkmalschutzrecht/skills/rechtsprechungsanker-denkmalrecht/FACHINHALT.md"
       ],
       "result": "Fehlende Nutzungsmöglichkeit, Unveräußerlichkeit und gesetzlicher Ausgleich werden geprüft. Der historische Rheinland-Pfalz-Fall wird weder zur automatischen Abrisserlaubnis noch zum unmittelbaren Geldanspruch erweitert.",
       "search_2026": "Gezielte Suche zu Denkmalschutz, Eigentum und Zumutbarkeit ergab ältere Fälle, keinen passenden neuen 2026-Anker.",

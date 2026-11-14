@@ -7,17 +7,17 @@ Wenn Claude-Skills dieses Repos verfügbar sind, zuerst den passenden Skill lade
 | Trigger | Exakter Skill-Slug | Erster Output |
 |---|---|---|
 | Kaltstart, Aktenordner, ZIP | `vergabe-os-master-orchestrator` | Ein-Bildschirm-Lage |
-| rote Frist, Rüge, § 134, VK/OLG | `workflow-fristen-und-risikoampel` | Fristenampel |
-| Bekanntmachung, eForms/TED/DVAL, Portal | `eforms-ted-bekanntmachung-check` | Veröffentlichungscheck |
-| Bestangebot statt billig | `bestangebot-durchsetzen` | Bestwertungsplan |
-| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit oder Resilienz | `netto-null-technologien-vergabe` | Anwendungs- und Klauselampel |
-| Zuschlagsmatrix, Qualität, Tempo, Servicelevel | `10-zuschlagsmatrix-aufbauen` | Wertungsmatrix |
-| Wirklichkeitsdaten: Bauwerk, PMS/BMS, BIM, Kosten, Klima | `wirklichkeitsdaten-beschaffung-steuern` | Quellenmatrix |
-| SAP/ERP/AVA/DMS/API/MCP, Systemexport, Feldautorität, Rückschreiben | `legacy-systeme-integration` | Entscheidungsbrücke |
-| LV, GAEB, XML, Excel, PDF oder Uploadpaket | `vergabeunterlagen-lv-datenformate-bereitstellen` | Uploadpaket |
-| Ausschluss, Register, Selbstreinigung | `wettbewerbsregister-abfrage-selbstreinigung` | Registermatrix |
-| Bundestariftreue, BTTG, Tariftreueversprechen oder Tariftreueklausel | `nachhaltigkeit-tariftreue-lksg-cbam` | BTTG-Anwendungscheck |
-| Rügeerwiderung, VK, Akteneinsicht | `23-stellungnahme-vergabekammer` | Streitdashboard |
+| rote Frist, Rüge, § 134, VK/OLG | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` | Fristenampel |
+| Bekanntmachung, eForms/TED/DVAL, Portal | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check` | Veröffentlichungscheck |
+| Bestangebot statt billig | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` | Bestwertungsplan |
+| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit oder Resilienz | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` | Anwendungs- und Klauselampel |
+| Zuschlagsmatrix, Qualität, Tempo, Servicelevel | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` | Wertungsmatrix |
+| Wirklichkeitsdaten: Bauwerk, PMS/BMS, BIM, Kosten, Klima | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` | Quellenmatrix |
+| SAP/ERP/AVA/DMS/API/MCP, Systemexport, Feldautorität, Rückschreiben | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` | Entscheidungsbrücke |
+| LV, GAEB, XML, Excel, PDF oder Uploadpaket | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` | Uploadpaket |
+| Ausschluss, Register, Selbstreinigung | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` | Registermatrix |
+| Bundestariftreue, BTTG, Tariftreueversprechen oder Tariftreueklausel | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: nachhaltigkeit-tariftreue-lksg-cbam` | BTTG-Anwendungscheck |
+| Rügeerwiderung, VK, Akteneinsicht | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer` | Streitdashboard |
 
 ## Null-Konfigurations-Start
 
@@ -80,7 +80,7 @@ Vor Textausarbeitung immer sieben Felder füllen: Falltyp, Normenanker, Tatbesta
 | Billigangebot auffällig | BGH `X ZB 10/16` und § 60 VgV prüfen: Aufklärung, Geheimnisschutz, Wertungsfolge. Ergebnis als Aufklärungsanforderung. |
 | Registerbuße soll Ausschluss tragen | `C-590/24 AK Dlhopolec` nur zur individualisierten Geldbuße verwenden; Ausschlussfragen waren unzulässig. Bescheid, Register, Ausschlussnorm und Verhältnismäßigkeit getrennt prüfen. |
 | EU-Förderkorrektur droht | `C-186/25 Institut po ribni resursi Varna` regimespezifisch anwenden: Vollzug, Finanzbezug, Vertragsstrafe, Begründung und Verhältnismäßigkeit; kein allgemeiner Rückforderungsautomatismus. |
-| Bundeswehr, Verteidigung, Sicherheit oder VSVgV | `bundeswehrbeschaffung-bwbbg-2026` laden: BwBBG seit 14.02.2026, §-1-Anwendungsbereich, §-19-Übergang, konkrete Sondernorm, Drittstaaten, VK Bund, § 10 und § 17. Den §-16-Abs.-4-Verweis auf einen nicht vorhandenen § 15 Abs. 7 nicht ergänzen. |
+| Bundeswehr, Verteidigung, Sicherheit oder VSVgV | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` laden: BwBBG seit 14.02.2026, §-1-Anwendungsbereich, §-19-Übergang, konkrete Sondernorm, Drittstaaten, VK Bund, § 10 und § 17. Den §-16-Abs.-4-Verweis auf einen nicht vorhandenen § 15 Abs. 7 nicht ergänzen. |
 | Bundestariftreue ist berührt | BTTG seit 1. Mai 2026 prüfen: §-1-Regelbereich für Bundes-Bau/Dienstleistung/Konzession ab 50.000 Euro netto, nicht reine Lieferung; § 14 außerhalb dieser Regelgrenzen, aber nur nach unanfechtbarer §-13-Feststellung; § 16 und aktuellen §-5-Verordnungsstatus prüfen. § 160 Abs. 2 Satz 2 GWB sperrt den Verordnungsangriff ohne rechtskräftigen §-98-Abs.-4-ArbGG-Beschluss. |
 | VK/OLG droht | Frist, Zulässigkeit, Aktenbeleg, Geheimnisschutz und Antrag je Rügepunkt tabellarisch liefern. |
 

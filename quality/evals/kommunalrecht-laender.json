@@ -91,7 +91,7 @@
           ]
         }
       ],
-      "target_skill": "gemeinderat-beschluss-bauen"
+      "target_skill": "beschluss-sitzung-und-beteiligung-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

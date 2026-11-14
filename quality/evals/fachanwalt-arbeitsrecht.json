@@ -267,6 +267,13 @@
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/",
       "checked_on": "2026-11-10",
       "supports": "BAG, Urteil vom 30.07.2026 – 2 AZR 91/24, Rn. 10–17. Vorherigen Ausschluss von Annahmeverzugsansprüchen wegen einer unwirksamen oder erst später wirkenden Arbeitgeberkündigung auch bei Rechtswahl am maßgeblichen zwingenden deutschen Schutz messen. Deutscher Schutzstandard nur nach dem einschlägigen Kollisionsrecht. Keine abschließende Zuerkennung, da die Sache zurückverwiesen wurde."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-37-25/",
+      "checked_on": "2026-11-14",
+      "supports": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25, Rn. 7–13 und 22–36: Hilfswiderklage, begrenzter Auskunftsanspruch, sekundäre Darlegung und fortbestehende Arbeitgeberbeweislast; Rn. 31 gibt entgegenstehendes Verständnis der Wahrscheinlichkeitsvoraussetzung aus 5 AZR 387/19 auf. Zurückverweisung, keine Lohnzuerkennung.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "6c24fe911290e6157eec58d3b7d619ced8fa6e3818afe2063dbb19e5b932c7a6"
     }
   ],
   "mini_review": {
@@ -291,26 +298,28 @@
     "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-11-04",
+    "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. Ergänzung vom 04.11.2026. Kündigungsgrund mit KI-Bezug und konkrete Qualifizierung als milderes Mittel von der eigenständigen Annahmeverzugsrechnung abgegrenzt.",
+    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. Ergänzung vom 04.11.2026. Kündigungsgrund mit KI-Bezug und konkrete Qualifizierung als milderes Mittel von der eigenständigen Annahmeverzugsrechnung abgegrenzt. Gezielte Folgeprüfung am 14.11.2026: vollständige Lektüre der geänderten Texte, kein erneuter Quellenabgleich der übrigen Anker. 14.11.2026: Hauptproblem vollständig erneut gelesen und ausschließlich redaktionell auf 7489 Bytes/7356 Zeichen verdichtet. Alle Entscheidungsanker, Auskunft/sekundäre Darlegung, Rn. 31, Hilfswiderklage und Ergebnisgrenzen erhalten; keine weitere Quellenverifikation oder Modellprüfung.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
       "25.09.2026: Zitierdatum des Fokus-Skills für 5 AZR 347/21 anhand amtlicher Metadaten auf 09.02.2022 korrigiert; Anspruchs- und Berechnungsmethode unverändert.",
       "04.11.2026: Kündigungsgrund mit KI-Bezug und konkrete Qualifizierung als milderes Mittel von der eigenständigen Annahmeverzugsrechnung abgegrenzt.",
-      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Schutz des Annahmeverzugsanspruchs vor einem Ausschluss bei Rechtswahl im Zielskill ergänzt."
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Schutz des Annahmeverzugsanspruchs vor einem Ausschluss bei Rechtswahl im Zielskill ergänzt.",
+      "14.11.2026: Jetzt zugänglichen amtlichen Volltext 5 AZR 37/25, Rn. 7–13 und 22–36, statt bloßem Pressetext eingearbeitet; Rn. 31 mit ausdrücklicher Begrenzung des älteren Ankers aufgenommen. Hauptproblem und Fokus-Skill vollständig gelesen.",
+      "14.11.2026: Hauptproblem vollständig erneut gelesen und ausschließlich redaktionell auf 7489 Bytes/7356 Zeichen verdichtet. Alle Entscheidungsanker, Auskunft/sekundäre Darlegung, Rn. 31, Hilfswiderklage und Ergebnisgrenzen erhalten; keine weitere Quellenverifikation oder Modellprüfung."
     ],
     "prompt_path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
-    "prompt_sha256": "2f097024e60b38814834d0f96fab9bfc2bae8c6b327272723929602e0466d391",
+    "prompt_sha256": "963d4c6c4dc29182350419462eb6aa7340641652a17e3bb91ecb1ab4bc0797e5",
     "skill_path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
-    "skill_sha256": "39b3e344ea8e2d4dc462b41cdb1f84a81e9c306cd2dfd5280b7f07db2dbc949f"
+    "skill_sha256": "4ed389b6c003ecc8acf75f91d8773f5d9c16898c7052a32081e3c944a34e0ac7"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern. Ergänzung vom 04.11.2026. Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert.",
+    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern. Ergänzung vom 04.11.2026. Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert. 14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
@@ -323,10 +332,11 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
       "04.11.2026: Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert.",
-      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Funktionalen Maßstab für Anzeigefehler eingearbeitet."
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Funktionalen Maßstab für Anzeigefehler eingearbeitet.",
+      "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
     ],
-    "sha256": "8e496ec4789bc335e9712204eb34a5d95041d22744d4a6d78dd3984439e6b5be",
-    "reviewed_on": "2026-11-04"
+    "sha256": "d7da8ef78c96db89532c655787ad50e772aa582a5c6261e58cb219a91d6708f1",
+    "reviewed_on": "2026-11-14"
   },
   "selection": {
     "positive": [
@@ -388,7 +398,7 @@
     },
     {
       "id": "bewerbungsauskunft-und-sekundaere-darlegung",
-      "request": "Erstelle ergebnis.md als internen Vermerk für die Arbeitgeberseite, ohne Versand. Eine Arbeitnehmerin verlangt nach rechtskräftig unwirksamer Kündigung 18.000 Euro brutto Annahmeverzugslohn für Juli bis September 2026. Arbeitsfähigkeit, Arbeitswille und Ausgangsvergütung sind unstreitig. Die Arbeitgeberin hat zwei persönlich übersandte Vermittlungsvorschläge der Arbeitsagentur mit Tätigkeit, Ort, Vergütung und vorgesehenem Beginn erhalten. Sie verlangt nun mit einer eigenständigen Widerklage Auskunft über sämtliche Bewerbungen auf diese Vorschläge und deren Ergebnisse. Im Lohnprozess hat sie außerdem für eine der Stellen konkret vorgetragen: identische Tätigkeit am bisherigen Arbeitsort, gleiche Arbeitszeit, 6.000 Euro Monatsgehalt, möglicher Beginn am 1. Juli und eine schriftliche Einladung zum Vorstellungsgespräch. Die Arbeitnehmerin bestreitet böswilliges Unterlassen, äußert sich aber nicht dazu, ob sie auf diese Einladung reagierte. Ein tatsächliches Einstellungsangebot oder Zwischenverdienst ist nicht belegt. Beurteile den Auskunftsantrag, die noch erforderliche Darlegung im Lohnprozess und den derzeit vertretbaren Umgang mit einem fiktiven Lohnabzug. Nutze den Rechtsstand nach dem Urteil 5 AZR 37/25, ohne unzugängliche Entscheidungsgründe zu erfinden.",
+      "request": "Erstelle ergebnis.md als internen Vermerk für die Arbeitgeberseite, ohne Versand. Eine Arbeitnehmerin verlangt nach rechtskräftig unwirksamer Kündigung 18.000 Euro brutto Annahmeverzugslohn für Juli bis September 2026. Arbeitsfähigkeit, Arbeitswille und Ausgangsvergütung sind unstreitig. Die Arbeitgeberin hat zwei persönlich übersandte Vermittlungsvorschläge der Arbeitsagentur mit Tätigkeit, Ort, Vergütung und vorgesehenem Beginn erhalten. Sie verlangt nun mit einer eigenständigen Widerklage Auskunft über sämtliche Bewerbungen auf diese Vorschläge und deren Ergebnisse. Im Lohnprozess hat sie außerdem für eine der Stellen konkret vorgetragen: identische Tätigkeit am bisherigen Arbeitsort, gleiche Arbeitszeit, 6.000 Euro Monatsgehalt, möglicher Beginn am 1. Juli und eine schriftliche Einladung zum Vorstellungsgespräch. Die Arbeitnehmerin bestreitet böswilliges Unterlassen, äußert sich aber nicht dazu, ob sie auf diese Einladung reagierte. Ein tatsächliches Einstellungsangebot oder Zwischenverdienst ist nicht belegt. Beurteile den Auskunftsantrag, die noch erforderliche Darlegung im Lohnprozess und den derzeit vertretbaren Umgang mit einem fiktiven Lohnabzug. Nutze den Rechtsstand nach dem Urteil 5 AZR 37/25, anhand der nun zugänglichen amtlichen Entscheidungsgründe mit konkreten Aussagegrenzen.",
       "input_files": [],
       "deliverables": [
         "ergebnis.md"
@@ -448,7 +458,7 @@
           ]
         }
       ],
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung"
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten"
     },
     {
       "id": "ki-wegfall-und-freie-stelle",
@@ -480,7 +490,7 @@
           ]
         }
       ],
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung"
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten"
     },
     {
       "id": "ki-score-und-betriebsratsrechte",
@@ -512,12 +522,12 @@
           ]
         }
       ],
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung"
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten"
     },
     {
       "id": "arbeitsrecht-ki-weisung-und-quellen",
       "request": "Sibel Erdem, seit März 2018 technische Sachbearbeiterin, bearbeitet Reklamationen für industrielle Dosierpumpen. Bis September musste jede Antwort die betroffene Lieferbedingung und die zuletzt vereinbarte Prüfspezifikation nennen. Nach dem Vorstandsbeschluss vom 5. Oktober soll Erdem alle Antworten mit dem Assistenten Formspur vorbereiten. Zwei Kundenvorgänge betreffen eine Nachtragsvereinbarung, die Formspur nicht durchsuchen kann. Erdem verwendet die Vertragsakte und arbeitet ohne Assistent weiter. Ihr Teamleiter wertet das als Arbeitsverweigerung und kündigt eine Abmahnung an. Erdem möchte ihren Arbeitsplatz behalten und bittet um ein Schreiben vor dem Personalgespräch am 22. Oktober. Entwirf für die Arbeitnehmerin ein Antwortschreiben auf die KI-Nutzungsanordnung und einen internen Prüfvermerk zu Weisungsgrenzen, Kontrollzeit und Absicherung eines Arbeitsangebots.",
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten",
       "input_files": [
         "testakten/arbeitsrecht-ki-weisung-und-quellen/01_Eingang.eml",
         "testakten/arbeitsrecht-ki-weisung-und-quellen/02_Sachgrundlage.docx",
@@ -568,7 +578,7 @@
     {
       "id": "arbeitsrecht-ki-freigabeprotokoll-und-abmahnung",
       "request": "Jaro Ahlfs ist seit Februar 2021 im Kundendienst beschäftigt. Er hat am 23. Oktober 2026 eine ordentliche Kündigung zum 31. Dezember 2026 erhalten. Die Personalstelle wirft ihm zwei sachlich falsche Mitteilungen zu Lieferfenstern und eine erfundene Freigabe zur kostenlosen Rücknahme von 36 Mehrwegboxen vor. Für die Rücknahme hat das Unternehmen eine Transportrechnung über 1.640 Euro erhalten. Ahlfs durfte Antworten mit dem freigegebenen Assistenten Boxtext entwerfen. Nach der Arbeitsanweisung musste er Freigaben im Vorgangsregister gegenlesen. Er hat im September eine schriftliche Abmahnung erhalten und räumt für eine der aktuellen Mitteilungen ein, das Originaldokument nicht geöffnet zu haben. Erstelle eine Klageskizze gegen die ordentliche Kündigung und eine Gegenüberstellung der behaupteten Pflichtverstöße mit Quellen, Beweisantritten, Prognose und milderen Mitteln.",
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten",
       "input_files": [
         "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/01_Eingang.eml",
         "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/02_Sachgrundlage.docx",
@@ -619,7 +629,7 @@
     {
       "id": "arbeitsrecht-ki-gaestekonto-und-geheimnis",
       "request": "Mila Schuster ist seit 2017 im technischen Einkauf tätig. Am 23. Oktober 2026 übergab ihr der Geschäftsführer eine fristlose und hilfsweise ordentliche Kündigung. Die Firma wirft ihr vor, am 5. Oktober die Verhandlungsuntergrenze für sechs Kalibriervorrichtungen und direkte Kundendurchwahlen in ein über die Anbieterseite zugängliches KI-Gastkonto eingegeben zu haben. Schuster sagt, sie habe für eine Anfrage eine Übersetzung benötigt und geglaubt, über den Link im Intranet in die abgeschottete Firmeninstanz zu gelangen. Sie hat den Vorfall am 6. Oktober selbst gemeldet. Eine Kündigungsandrohung oder Abmahnung wegen vertraulicher Daten liegt nicht vor. Entwirf eine Kündigungsschutzklage mit getrennten Anträgen gegen außerordentliche und hilfsweise ordentliche Kündigung sowie eine Frist- und Beweismatrix.",
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten",
       "input_files": [
         "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/01_Eingang.eml",
         "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/02_Sachgrundlage.docx",
@@ -671,7 +681,7 @@
     {
       "id": "arbeitsrecht-ki-pflichtsystem-und-schulung",
       "request": "Im Nachthub der Silberwacht Nachtlogistik GmbH werden Fahrzeuge für regionale Zustelltouren verladen. Der Arbeitgeber verpflichtet die Teamleitung seit dem 15. September, handschriftliche Schichtzettel mit dem KI-Dienst Zeitfalz in Arbeitszeitdatensätze umzuwandeln. Nach einer Beschwerde von Beschäftigten stellt Disponentin Dorothee Greve fest, dass zwölf Minuten Übergabezeit pro betroffener Schicht im System fehlen. Die Personalstelle will Teamleiter Balduin Wenzel abmahnen. Er hatte die Zeiten im Sammelfenster freigegeben. Bei 18 Beschäftigten wurden für September insgesamt 43,2 Stunden weniger erfasst, als in den unterschriebenen Zetteln stehen. Die Firma hatte die korrekte Erfassung verbindlich auf den neuen Ablauf umgestellt. Erstelle eine Stellungnahme zur beabsichtigten Abmahnung und einen Maßnahmenvermerk zur Wiederherstellung richtiger Arbeitszeitaufzeichnungen und Rollen.",
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten",
       "input_files": [
         "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/01_Eingang.eml",
         "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/02_Sachgrundlage.docx",
@@ -722,7 +732,7 @@
     {
       "id": "arbeitsrecht-ki-kuendigung-und-qualifizierung",
       "request": "Am 23. Oktober 2026 erhält Ayla Benedek eine ordentliche Kündigung zum 31. März 2027. Sie arbeitet seit dem 1. Juni 2014 in der Retourendiagnostik. Die Firma führt ein kameragestütztes Modell zur Klassifikation zurückgesandter Steuergeräte ein und will von acht Diagnosearbeitsplätzen vier streichen. Benedek ist 51 Jahre alt, hat zwei unterhaltsberechtigte Kinder und ist technisch ausgebildet. Sie hat sich am 9. Oktober schriftlich mit Qualifizierung, Wechsel in eine andere Betriebsstätte desselben Unternehmens und einer geringeren Eingruppierung einverstanden erklärt. Im Betrieb arbeiten 124 Personen. Ihr Ziel ist die Weiterbeschäftigung. Erstelle einen Kündigungsschutzentwurf mit Matrix zu Restarbeit, freien Stellen, Qualifizierung, Vergleichsgruppen und Beweisangeboten.",
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten",
       "input_files": [
         "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/01_Eingang.eml",
         "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/02_Sachgrundlage.docx",
@@ -774,7 +784,7 @@
     {
       "id": "arbeitsrecht-ki-betriebsaenderung-und-sozialplan",
       "request": "Die Windenfeld Glasformen GmbH produziert Laborbehälter. Im Amberger Werk arbeiten regelmäßig 118 Beschäftigte, davon 54 im Bereich Oberflächenprüfung und Nacharbeit. Die Geschäftsführung bestellt für Anfang 2027 eine bildgestützte KI-Kontrolle, die die Handprüfstationen und die Schichtorganisation ersetzen soll. Der Betriebsrat erhielt am 8. Oktober eine Folie zum geplanten Probebetrieb. Die Standortleiterin bezeichnete die Änderung als neue Messhilfe und kündigte an, am selben Tag mit dem Aufbau von zwei Stationen zu beginnen. Der Betriebsrat verlangt die vollständige Planung und einen konkreten Vorschlag zum Erhalt von Arbeitsplätzen. Die angebotenen zwölf Schulungsplätze reichen für die bisher angekündigten Einsatzfelder nicht aus. Erstelle für den Betriebsrat einen Verhandlungsentwurf zum Interessenausgleich und Sozialplan. Füge eine Qualifizierungsanlage mit Zielgruppen, Finanzierung, Auswahl und Ausfallregeln bei.",
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten",
       "input_files": [
         "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/01_Eingang.eml",
         "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/02_Sachgrundlage.docx",
@@ -825,7 +835,7 @@
     {
       "id": "arbeitsrecht-ki-scoring-und-beteiligung",
       "request": "Bei der Schneidrain Prüfservice AG sind zwei Stellen als Teamleitung für Werksprüfungen ausgeschrieben. Jana Korab arbeitet seit 2019 in der Geräteprüfung. Von März bis August 2027 war sie in Elternzeit. Am 6. Dezember kommt erstmals ein neues System namens Stufenrad zum Einsatz. Es ordnet die Bewerbungen nach einem aus bisherigen Leistungs- und Verfügbarkeitsdaten berechneten Eignungswert. Korab erhält 68 von 100 Punkten und am Folgetag eine Standardabsage. Bewerberinnen und Bewerber unter 70 Punkten erscheinen auf der Gesprächsliste nicht. Im April hatte die Arbeitgeberin nur einen Versuch mit vollständig synthetischen Personaldaten gezeigt. Erstelle für eine Beschäftigte und den Betriebsrat getrennte Schreiben mit Anspruchs- und Beteiligungsmatrix. Fordere bei der Personalstelle eine belegte Neubewertung mit wirksamer menschlicher Prüfung an.",
-      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten",
       "input_files": [
         "testakten/arbeitsrecht-ki-scoring-und-beteiligung/01_Eingang.eml",
         "testakten/arbeitsrecht-ki-scoring-und-beteiligung/02_Sachgrundlage.docx",
@@ -873,6 +883,38 @@
           ]
         }
       ]
+    },
+    {
+      "id": "vermittlungsauskunft-ohne-wahrscheinlichkeitsvoraussetzung",
+      "request": "Ein Arbeitnehmer verlangt nach unwirksamer Kündigung Annahmeverzugslohn für Juni bis August 2026. Er war arbeitslos gemeldet. Der Arbeitgeber kennt weder Zahl noch Inhalt behördlicher Vermittlungsvorschläge, möchte aber gezielt hierzu Auskunft. Der Arbeitnehmer verweigert dies: Der Arbeitgeber habe noch keine überwiegende Wahrscheinlichkeit böswilligen Unterlassens bewiesen. Verfasse einen internen Vermerk in ergebnis.md nach dem amtlichen Volltext von BAG 5 AZR 37/25. Bewerbungsunterlagen werden nicht verlangt; keine Einreichung ist beauftragt.",
+      "target_skill": "annahmeverzugslohn-zeitraeume-und-anrechnung",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Verneint eine eigenständige Wahrscheinlichkeitsvoraussetzung des Anrechnungseinwands für die Auskunft nach Rn. 31; ordnet insoweit das ältere Urteil 5 AZR 387/19 zutreffend ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Begrenzt den Anspruch auf vorhandene Informationen über behördliche Vorschläge und deren für Eignung und Zumutbarkeit relevante Bedingungen; erfindet keine Angebote.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Trennt die spätere sekundäre Darlegung zum Bewerbungsverhalten und die fortbestehende Arbeitgeberbeweislast; zieht keinen fiktiven Verdienst allein wegen der Auskunftsforderung ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
@@ -884,17 +926,17 @@
       "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
       "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
       "quality/evals/fachanwalt-arbeitsrecht.json",
-      "fachanwalt-arbeitsrecht/skills/entgeltgleichheit-paarvergleich-agg-entgtranspg/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/befristung-tzbfg/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/bem-verfahren/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/ki-einfuehrung-qualifizierung-kuendigung/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/entgeltgleichheit-paarvergleich-agg-entgtranspg/FACHINHALT.md",
+      "fachanwalt-arbeitsrecht/skills/befristung-tzbfg/FACHINHALT.md",
+      "fachanwalt-arbeitsrecht/skills/bem-verfahren/FACHINHALT.md",
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg/FACHINHALT.md",
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/FACHINHALT.md",
+      "fachanwalt-arbeitsrecht/skills/fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie/FACHINHALT.md",
+      "fachanwalt-arbeitsrecht/skills/ki-einfuehrung-qualifizierung-kuendigung/FACHINHALT.md",
       "fachanwalt-arbeitsrecht/skills/einstieg-routing/SKILL.md",
       "fachanwalt-arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/ar-kuendigungspruefung-workflow/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/low-performer-kuendigung-leistungsdefizit-pruefen/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/ar-kuendigungspruefung-workflow/FACHINHALT.md",
+      "fachanwalt-arbeitsrecht/skills/low-performer-kuendigung-leistungsdefizit-pruefen/FACHINHALT.md",
       "testakten/megaprompts/fachanwalt-arbeitsrecht.md"
     ],
     "opening_change": "Kündigung, Vergütung und Annahmeverzugszeiträume anhand der Akte bearbeiten; doppelte generische FAO-Rollenbeschreibung im Mini entfernt Workflow-Ergänzung: Leer: Kündigungsschutz, Annahmeverzugslohn oder Vertragsregelung anbieten. Dateien ohne Aufgabe: Kündigung, Lohnbelege und Leistungsbescheide still lesen; Schutz-, Zahlungs- oder Abwehrziel klären. Klarer Auftrag: bestellten Schriftsatz oder Zahlungsentwurf unmittelbar bearbeiten; keine erneute Aufnahme bekannter Beschäftigungsdaten. Für KI-bezogene Aufträge benennt der Einstieg den bestellten arbeitsrechtlichen Entwurf und die Reichweite der Qualifizierungspflicht.",
@@ -1234,5 +1276,50 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_followup_2026_11_14": {
+    "method": "desk_review",
+    "date": "2026-11-14",
+    "scope": "Gezielte amtliche Volltextprüfung der genannten Entscheidungen; geänderte Werkstatt im Zusammenhang gelesen, keine Gesamtneuverifikation.",
+    "files": [
+      {
+        "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+        "sha256": "d7da8ef78c96db89532c655787ad50e772aa582a5c6261e58cb219a91d6708f1"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
+        "sha256": "74027321642024f1d0c94bec4b4c2d47661fe4f426cface3781835a0829e4553"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
+        "sha256": "4ed389b6c003ecc8acf75f91d8773f5d9c16898c7052a32081e3c944a34e0ac7"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-37-25/",
+        "checked_on": "2026-11-14",
+        "supports": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25, Rn. 7–13 und 22–36: Hilfswiderklage, begrenzter Auskunftsanspruch, sekundäre Darlegung und fortbestehende Arbeitgeberbeweislast; Rn. 31 gibt entgegenstehendes Verständnis der Wahrscheinlichkeitsvoraussetzung aus 5 AZR 387/19 auf. Zurückverweisung, keine Lohnzuerkennung.",
+        "verification_status": "amtlicher_volltext_passagenbezogen",
+        "source_sha256": "6c24fe911290e6157eec58d3b7d619ced8fa6e3818afe2063dbb19e5b932c7a6"
+      }
+    ],
+    "audit_path": "quality/source-audits/2026-11-14/kerngebiete.md",
+    "limits": "Historische Quellenprüfungen behalten ihre eigenen Daten und ihren damaligen Status. Kein Live-Modelltest; keine behauptete vollständige Rechtsstandszertifizierung des Plugins.",
+    "evaluation_cases": {
+      "added": [
+        "vermittlungsauskunft-ohne-wahrscheinlichkeitsvoraussetzung"
+      ],
+      "status": "Prüffall und Kriterien redaktionell angelegt; kein Live-Modelllauf durchgeführt."
+    }
+  },
+  "prompt_budget_followup_2026_11_14": {
+    "method": "desk_review",
+    "date": "2026-11-14",
+    "scope": "14.11.2026: Hauptproblem vollständig erneut gelesen und ausschließlich redaktionell auf 7489 Bytes/7356 Zeichen verdichtet. Alle Entscheidungsanker, Auskunft/sekundäre Darlegung, Rn. 31, Hilfswiderklage und Ergebnisgrenzen erhalten; keine weitere Quellenverifikation oder Modellprüfung.",
+    "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
+    "before_sha256": "74027321642024f1d0c94bec4b4c2d47661fe4f426cface3781835a0829e4553",
+    "sha256": "963d4c6c4dc29182350419462eb6aa7340641652a17e3bb91ecb1ab4bc0797e5",
+    "audit_path": "quality/source-audits/2026-11-14/arbeitsrecht-hauptproblem-redaktion.md"
   }
 }

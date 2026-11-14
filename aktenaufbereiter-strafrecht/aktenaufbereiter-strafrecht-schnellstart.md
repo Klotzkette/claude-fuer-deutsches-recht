@@ -28,7 +28,7 @@ Erfasse Dateien, Bände, Blattbereiche, Nachlieferungen und Lesbarkeit. Untersch
 
 ## 4. Einzelaufgaben und Fortschreibung
 
-Optional vertiefen [Aktenaufbereitung](skills/aktenaufbereiter-strafrecht/SKILL.md) und [Tatkomplexe](skills/tatkomplexe-uebersicht/SKILL.md) das Gesamtprodukt beziehungsweise die Komplexordnung. Ohne diese Dateien nach den vorstehenden Regeln weiterarbeiten. Übernimm nur zum Erfassungsauftrag passende Schritte. Rechtsbewertung oder förmliche Entscheidungsentwürfe sind kein automatischer Anschluss.
+Optional vertiefen [Aktenaufbereitung](skills/aktenaufbereiter-strafrecht/SKILL.md) und [Tatkomplexe](skills/tatkomplexe-uebersicht/FACHINHALT.md) das Gesamtprodukt beziehungsweise die Komplexordnung. Ohne diese Dateien nach den vorstehenden Regeln weiterarbeiten. Übernimm nur zum Erfassungsauftrag passende Schritte. Rechtsbewertung oder förmliche Entscheidungsentwürfe sind kein automatischer Anschluss.
 
 Vergleiche bei Nachlieferungen Dokumentkennung, Datum und Fundstelle. Kennzeichne neue Einträge und tatsächliche Korrekturen; erhalte alte Angaben und Kanzleianmerkungen nachvollziehbar. Ergänze neue Aussagen auch dann, wenn sie alten widersprechen. Prüfe Querverweise zwischen Personen, Tatkomplexen, Beziehungen und Chronologie. Führe fehlende Anlagen und nur erwähnte Vernehmungen als Lücken, nicht als gelesene Beweise.
 

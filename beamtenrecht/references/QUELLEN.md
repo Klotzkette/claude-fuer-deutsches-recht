@@ -14,7 +14,7 @@ Landesrecht wird nicht aus Modellwissen behauptet. Der Skill muss Bundesland, Re
 
 ## Vertiefungsanker Beamten- und Richterrecht ab v60.0.1
 
-Die ergänzte Wissenssammlung liegt unter [`recherche/beamtenrecht-und-richterrecht/`](../../recherche/beamtenrecht-und-richterrecht/) und dient als Arbeitsmaterial. Für Plugin-Antworten gilt weiterhin: keine privaten Datenbankzitate, keine Literatur-Blindzitate, keine nicht geprüften Entscheidungsnummern.
+Die ergänzte Wissenssammlung liegt unter [`recherche/beamtenrecht-und-richterrecht/`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/recherche/beamtenrecht-und-richterrecht) und dient als Arbeitsmaterial. Für Plugin-Antworten gilt weiterhin: keine privaten Datenbankzitate, keine Literatur-Blindzitate, keine nicht geprüften Entscheidungsnummern.
 
 ### Besoldung und Alimentation
 

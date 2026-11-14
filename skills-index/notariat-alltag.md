@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`notariat-alltag-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=notariat-alltag/notariat-alltag-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`notariat-alltag-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=notariat-alltag/notariat-alltag-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [notariat-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
+| **Plugin (installierbar)** | ZIP | [notariat-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/notariat-v445.35.8/notariat-alltag.zip) |
 
 ## So benutzt man einen Skill
 

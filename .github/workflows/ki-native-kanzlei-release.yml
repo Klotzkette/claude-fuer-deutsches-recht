@@ -47,6 +47,7 @@ jobs:
           git merge-base --is-ancestor HEAD origin/main
       - name: Tests der Hilfsprogramme
         run: |
+          python3 scripts/test-ki-kanzlei-release-contract.py
           python3 scripts/test-ki-native-kanzlei-start.py
           python3 scripts/test-ki-native-kanzlei-computerlauf.py
           python3 scripts/test-ki-native-kanzlei-lauf.py

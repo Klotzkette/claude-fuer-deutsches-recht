@@ -53,7 +53,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "683dc597fd526a5cee0c7bda0f409a473318a6fbd29df447bed5967edc3a9d0c",
+    "sha256": "b7431704a59e36231b840029e3f9c88f683ba667ec2444a62aad789fb495f269",
     "verdict": "revised",
     "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
@@ -108,7 +108,7 @@
           ]
         }
       ],
-      "target_skill": "leistungsbeurteilung-analyse"
+      "target_skill": "leistung-verhalten-noten-bearbeiten"
     }
   ],
   "workshop_review": {

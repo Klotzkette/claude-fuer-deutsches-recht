@@ -110,7 +110,7 @@
           ]
         }
       ],
-      "target_skill": "grossspenden-sofortmeldung"
+      "target_skill": "parteienfinanzen-ressourcen-bearbeiten"
     },
     {
       "id": "spendenmeldung-statt-verfassungsbeschwerde",
@@ -149,7 +149,7 @@
           ]
         }
       ],
-      "target_skill": "grossspenden-sofortmeldung"
+      "target_skill": "parteienfinanzen-ressourcen-bearbeiten"
     },
     {
       "id": "amtskanal-und-private-parteikommunikation",
@@ -158,7 +158,7 @@
       "deliverables": [
         "ergebnis.md"
       ],
-      "target_skill": "staatliche-neutralitaet",
+      "target_skill": "parteienfinanzen-ressourcen-bearbeiten",
       "criteria": [
         {
           "id": "C01",

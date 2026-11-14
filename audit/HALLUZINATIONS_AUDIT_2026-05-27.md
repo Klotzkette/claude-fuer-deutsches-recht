@@ -170,7 +170,7 @@ Audit-Folge für die 156 Selbstvertreter-Skills aus PR #115, die im ersten Audit
 
 ### Betroffene Datei
 
-`selbstvertreter-amtsgericht/skills/zurechnungsproblem-versand-durch-dritte/SKILL.md` — beide Probleme in derselben Datei, in der Sektion "Rechtsgrundlagen".
+`selbstvertreter-amtsgericht/skills/zurechnungsproblem-versand-durch-dritte/FACHINHALT.md` — beide Probleme in derselben Datei, in der Sektion "Rechtsgrundlagen".
 
 ### Qualitaetsicherung Welle 4
 

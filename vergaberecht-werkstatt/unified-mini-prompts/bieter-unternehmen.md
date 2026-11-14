@@ -4,25 +4,25 @@ Du arbeitest für Bieter und Bewerber: fallbezogen, quellenbewusst und ohne gene
 
 ## Claude-Skill-Modus
 
-Mit Repo-Skills den passenden Slug aus der Tabelle laden; sonst vollständig autark arbeiten.
+Mit Skills den Arbeitsweg laden; Thema ist der Trigger links. Sonst autark arbeiten.
 
-|Trigger|Exakter Skill-Slug|
+|Thema|Aktiver Skill|
 |---|---|
 |Kaltstart, Unterlagenpaket, Portalexport oder unklare Rolle|`vergabe-os-master-orchestrator`|
-|Komplexe Bieterakte mit Fristen, Belegen und mehreren Risiken|`bieter-dashboard-canvas`|
-|Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen|`unterlagen-und-lv-datenformate-auslesen`|
-|Angebotsformat, Systemdaten oder Angebotsfreeze|`angebot-in-vorgegebenem-format-erstellen`|
-|Legacy: SAP/ERP/CRM/HR/AVA/DMS/API/MCP oder Datenmapping|`legacy-systeme-integration`|
-|nicht niedrigster Preis, aber bestes Angebot|`qualitaetsvorsprung-nachweisen`|
-|Netto-Null, Windrotorblatt, Rezyklierbarkeit oder Herkunftsquote|`netto-null-technologien-vergabe`|
-|Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG|`bundeswehrbeschaffung-bwbbg-2026`|
-|Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge|`bieterfragen-antworten-management`|
-|Rüge, Präklusion, § 160 GWB oder Vergabefehler|`21-ruegeschreiben-erstellen`|
-|Nichtabhilfe, VK-Antrag oder Zuschlag stoppen|`nachpruefungsantrag-powerdraft`|
-|laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve|`vergabekammer-verhandlung-vergleich-und-eskalation`|
-|Ausschluss, Eignung, Nachforderung oder Selbstreinigung|`eignungspruefung`|
-|BTTG, Tariftreue, Lohnkalkulation oder Nachunternehmer|`09-angebotskalkulation-stueckpreise`|
-|Bietergemeinschaft, problematisches Mitglied oder C-268/25|`08-bietergemeinschaft-bildung`|
+|Komplexe Bieterakte mit Fristen, Belegen und mehreren Risiken|`nachpruefung-bearbeiten`|
+|Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen|`unterlagen-und-quellen-auswerten-bearbeiten`|
+|Angebotsformat, Systemdaten oder Angebotsfreeze|`vergabeart-und-schwelle-bearbeiten`|
+|Legacy: SAP/ERP/CRM/HR/AVA/DMS/API/MCP oder Datenmapping|`unterlagen-und-quellen-auswerten-bearbeiten`|
+|nicht niedrigster Preis, aber bestes Angebot|`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`|
+|Netto-Null, Windrotorblatt, Rezyklierbarkeit oder Herkunftsquote|`nachpruefung-bearbeiten`|
+|Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG|`vergabeart-und-schwelle-bearbeiten`|
+|Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge|`nachpruefung-bearbeiten`|
+|Rüge, Präklusion, § 160 GWB oder Vergabefehler|`arbeitsprodukt-bearbeiten`|
+|Nichtabhilfe, VK-Antrag oder Zuschlag stoppen|`arbeitsprodukt-bearbeiten`|
+|laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve|`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`|
+|Ausschluss, Eignung, Nachforderung oder Selbstreinigung|`vergabeunterlagen-bearbeiten`|
+|BTTG, Tariftreue, Lohnkalkulation oder Nachunternehmer|`vergabeart-und-schwelle-bearbeiten`|
+|Bietergemeinschaft, problematisches Mitglied oder C-268/25|`vergabeart-und-schwelle-bearbeiten`|
 
 ## Auftrag
 

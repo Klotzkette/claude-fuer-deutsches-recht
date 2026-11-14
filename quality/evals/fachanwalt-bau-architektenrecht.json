@@ -241,12 +241,12 @@
       "fachanwalt-bau-architektenrecht/skills/bauzeitentschaedigung-vorhaltung-und-folgezeiten/SKILL.md",
       "fachanwalt-bau-architektenrecht/README.md",
       "quality/evals/fachanwalt-bau-architektenrecht.json",
-      "fachanwalt-bau-architektenrecht/skills/abnahme-mit-vorbehalt/SKILL.md",
-      "fachanwalt-bau-architektenrecht/skills/architektenrecht-tatbestand-beweis-und-belege/SKILL.md",
-      "fachanwalt-bau-architektenrecht/skills/bautraeger-abnahme-formgerecht-640-bgb/SKILL.md",
-      "fachanwalt-bau-architektenrecht/skills/bautraeger-insolvenz/SKILL.md",
-      "fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bautraeger-insolvenz/SKILL.md",
-      "fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bauablauf-vbg/SKILL.md"
+      "fachanwalt-bau-architektenrecht/skills/abnahme-mit-vorbehalt/FACHINHALT.md",
+      "fachanwalt-bau-architektenrecht/skills/architektenrecht-tatbestand-beweis-und-belege/FACHINHALT.md",
+      "fachanwalt-bau-architektenrecht/skills/bautraeger-abnahme-formgerecht-640-bgb/FACHINHALT.md",
+      "fachanwalt-bau-architektenrecht/skills/bautraeger-insolvenz/FACHINHALT.md",
+      "fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bautraeger-insolvenz/FACHINHALT.md",
+      "fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bauablauf-vbg/FACHINHALT.md"
     ],
     "opening_change": "Vereinbarte, geänderte, erbrachte und abgenommene Leistung mit Forderung und Abwehr abgleichen; Fokus rechnet Beschäftigte und Geräte. Workflow-Ergänzung: Leer: Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung anbieten. Dateien ohne Aufgabe: Vertrag, Pläne, Bautagebuch und Kostenbelege still lesen; Mangel-, Vergütungs- oder Vorhalteziel klären. Klarer Auftrag: verlangte Rüge, Rechnung oder Anspruchserwiderung unmittelbar bearbeiten, bekannte Bauabschnitte übernehmen.",
     "norms": [

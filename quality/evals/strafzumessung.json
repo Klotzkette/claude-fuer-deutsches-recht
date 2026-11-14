@@ -164,7 +164,7 @@
           ]
         }
       ],
-      "target_skill": "nachtraegliche-gesamtstrafenbildung-55-stgb"
+      "target_skill": "sanktion-und-vollstreckung-bearbeiten"
     },
     {
       "id": "hoehere-geldstrafe-vor-juengerem-urteil",
@@ -196,7 +196,7 @@
           ]
         }
       ],
-      "target_skill": "nachtraegliche-gesamtstrafenbildung-55-stgb"
+      "target_skill": "sanktion-und-vollstreckung-bearbeiten"
     },
     {
       "id": "geldstrafe-neben-freiheitsstrafe-und-einziehung",
@@ -228,7 +228,7 @@
           ]
         }
       ],
-      "target_skill": "nachtraegliche-gesamtstrafenbildung-55-stgb"
+      "target_skill": "sanktion-und-vollstreckung-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -263,7 +263,7 @@
     "files": [
       "strafzumessung/strafzumessung-schnellstart.md",
       "strafzumessung/strafzumessung-werkstatt.md",
-      "strafzumessung/skills/paragraph-46-stgb-grundsatz-strafzumessung/SKILL.md"
+      "strafzumessung/skills/paragraph-46-stgb-grundsatz-strafzumessung/FACHINHALT.md"
     ],
     "opening_change": "Tatbezogenen Strafrahmen und Einzelstrafe begründen, dann Vorverurteilungen nach Tatzeit und Vollstreckung auf Gesamtstrafenfähigkeit prüfen.",
     "norms": [

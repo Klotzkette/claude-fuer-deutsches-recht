@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/sammlung/scripts/test-phishing-release.py", line 62, in <module>
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--dist',type=Path);a=p.parse_args();check(a.dist.resolve() if a.dist else None)
+                                                                                                       ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/sammlung/scripts/test-phishing-release.py", line 13, in check
+    assert entries[name]['version']==build.VERSION,name
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: phishing-vorfall-pruefer

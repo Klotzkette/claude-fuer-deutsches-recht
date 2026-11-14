@@ -1,0 +1,154 @@
+{
+  "scope": "Nur Linkziele historischer Prüfprotokolle auf den letzten unveränderten Quellstand vor der Migration binden; sichtbarer Text, Fachbehauptungen, Prüfdaten, Hashangaben und aufgezeichnete Aufrufe bleiben unverändert.",
+  "commit": "dbfbb6f63b15bf52110e8db06b4bb78e953f6db3",
+  "files": [
+    {
+      "path": "quality/ki-native-kanzlei/agentisch-2026-10-08/anwendungsprobe/M-26-118/04_Persoenlicher_beA_Versand_v01.md",
+      "original_sha256": "ce5f35f913f832b81d30c49d74e42842700a41f1026e790dce1983238a0469ad",
+      "sha256": "f8f4f10b5ef0251344f3cf1751063c96158a91ed288f29e2470c8845722deb9f",
+      "links": [
+        {
+          "old": "../../../../../ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/ki-native-kanzlei/agentisch-2026-10-08/anwendungsprobe/README.md",
+      "original_sha256": "dc40c892a8d9c76a63fe4eb475845fc7585b4abbeb3fa4da69b901d4187f0e08",
+      "sha256": "9af9f85e4d93ce29e0b537c0b8dc154a0d7bacf8bfbeda5f73056a3e09df399a",
+      "links": [
+        {
+          "old": "../../../../ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/ki-native-kanzlei/glaettung-2026-10-08/skills/bea-anlagen-vorbereiten.md",
+      "original_sha256": "a0bb1b8e130b65b9db6edf180435c98a2993ae8d77e84915a52ada98fd2bbd62",
+      "sha256": "a0c12a94df625ccdaacaea62884c5e5637253fab707e75248e0f5232ea704005",
+      "links": [
+        {
+          "old": "../../../../ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/ki-native-kanzlei/glaettung-2026-10-08/skills/mandantenkommunikation.md",
+      "original_sha256": "57d4447917ea26cdc2811e80f185172faa256a37c2e82bbe70a62fd03d3fca86",
+      "sha256": "ae970f29b839945e25cf23e98373b9206ca960c2caa84a669da44fcbf6c5cbe5",
+      "links": [
+        {
+          "old": "../../../../ki-native-kanzlei/skills/mandantenkommunikation/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/mandantenkommunikation/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/ki-native-kanzlei/glaettung-2026-10-08/skills/recht-recherchieren.md",
+      "original_sha256": "2c3d743a407881c783c0397052dedbba9e5ee4d26e24a30939a6ba24941bc110",
+      "sha256": "f85b5bb0918f76bc9ecbb50396821f61105f37ed32bc7cfd8219558ff0d0223a",
+      "links": [
+        {
+          "old": "../../../../ki-native-kanzlei/skills/recht-recherchieren/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/recht-recherchieren/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/ki-native-kanzlei/glaettung-2026-10-08/skills/schriftsaetze-entwerfen.md",
+      "original_sha256": "8f0715b75b8e46b4e723b06ea6c43510863d76e23134107a52d0de53d373f698",
+      "sha256": "48d21d9bb29be5646ce6680127e4dcc1c4a2fd24404c28225362f8d86853bede",
+      "links": [
+        {
+          "old": "../../../../ki-native-kanzlei/skills/schriftsaetze-entwerfen/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/schriftsaetze-entwerfen/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/ki-native-kanzlei/glaettung-2026-10-08/skills/workflow-uebergabe.md",
+      "original_sha256": "059722e890470d65cab1c7a6ff8a0d08cd2c98d88d0b9e95412361e6713ff05c",
+      "sha256": "f52120a8b5bb68057352343b1a2fd6c84469e315faed1da15827ce2f91cbfede",
+      "links": [
+        {
+          "old": "../../../../ki-native-kanzlei/skills/workflow-uebergabe/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/workflow-uebergabe/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-agrarrecht.md",
+      "original_sha256": "8bb75fde2069f517f18c60a48770ae7942f8646e2da0e71bfbfe6c54eccc246a",
+      "sha256": "00351b90d6d16df728fd66f1e79187b9c7c0d42bdee16a3a7c4142c24beac5e7",
+      "links": [
+        {
+          "old": "../../../fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md"
+        },
+        {
+          "old": "../../../fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md"
+        },
+        {
+          "old": "../../../fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-migrationsrecht.md",
+      "original_sha256": "057f5ebd0e08ec382424686c37d0d4e3a382965cf18645bf777845cb6e43511b",
+      "sha256": "f8dceb6079bfc843a40d0c1a57851e9f031d7630c16b8eb1861741092b1cb781",
+      "links": [
+        {
+          "old": "../../../fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-sozialrecht.md",
+      "original_sha256": "d41e7940252fd9beb5dd60590dceae663fa341dd93ead09d67cdf2fcc419ae59",
+      "sha256": "77028787b7f2060078092a42975523a6220c6875f6c32768513e30c8e9252da0",
+      "links": [
+        {
+          "old": "../../../fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-vergaberecht.md",
+      "original_sha256": "31612e1824c45b5e981cfa9b86cef73bfd0e9600dbdd2f964ed68675db294fa7",
+      "sha256": "845a45332e79d05e2317f91d312ffc70d3bad55d9be828421350cd8d8a09617c",
+      "links": [
+        {
+          "old": "../../../fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md"
+        },
+        {
+          "old": "../../../fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md"
+        },
+        {
+          "old": "../../../fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md"
+        }
+      ]
+    },
+    {
+      "path": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-verkehrsrecht.md",
+      "original_sha256": "0fcdf171c886efd18cd0c557be54078f1aae020db36a6efa1734d48662830a0d",
+      "sha256": "dbe8b20a66c94af6a55039384c25c79475ce08b8ccb64a330853d1c8c6384b21",
+      "links": [
+        {
+          "old": "../../../fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md",
+          "target": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md"
+        }
+      ]
+    }
+  ]
+}

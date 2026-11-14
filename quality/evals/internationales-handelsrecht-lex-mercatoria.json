@@ -81,7 +81,7 @@
           ]
         }
       ],
-      "target_skill": "cisg-ausschluss-und-rechtswahl"
+      "target_skill": "cisg-kaufrecht-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -103,7 +103,7 @@
       "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-schnellstart.md",
       "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md",
       "internationales-handelsrecht-lex-mercatoria/README.md",
-      "internationales-handelsrecht-lex-mercatoria/skills/cisg-ausschluss-und-rechtswahl/SKILL.md",
+      "internationales-handelsrecht-lex-mercatoria/skills/cisg-ausschluss-und-rechtswahl/FACHINHALT.md",
       "quality/evals/internationales-handelsrecht-lex-mercatoria.json"
     ],
     "opening_change": "Rechtswahl, konkrete Lieferpflicht und passende Mängelanzeige statt generischem grenzüberschreitendem Prüfauftrag.",

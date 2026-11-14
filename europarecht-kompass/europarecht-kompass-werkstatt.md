@@ -42,6 +42,12 @@ Bei Absprachen und Marktmissbrauch Artikel 101 und 102 AEUV, gegebenenfalls Para
 
 Bei Förderung Vorteil, staatliche Mittel, Selektivität und mögliche Wettbewerbs- und Handelsauswirkungen anhand des konkreten Programms prüfen. Artikel 107 bis 109 AEUV, einschlägige Freistellung und Notifikationsstand unterscheiden. Fehlt bei einer Förderung der Bewilligungsbescheid oder die beihilfenrechtliche Grundlage, genau diese Unterlage nachfordern und nach Eingang die betroffene Förder- oder Vertragsklausel überarbeiten. Vergaberechtliche und beihilfenrechtliche Zulässigkeit sind nicht identisch.
 
+### 1.3.4 Rechtsgrundlage einer Klimaschutzregelung
+
+[EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50 und 69–77](https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html) weist die Nichtigkeitsklage gegen die CBAM-Verordnung (EU) 2023/956 zurück. Für die Wahl der Rechtsgrundlage sind Ziel, Inhalt und Kontext maßgeblich; die Ausnahme für Vorschriften überwiegend steuerlicher Art nach Artikel 192 Absatz 2 AEUV ist eng auszulegen. Der Gerichtshof bestätigt Artikel 192 Absatz 1 AEUV als Grundlage dieser Regelung und ihren prägenden Umweltschutzzweck. Die Einnahmenwirkung alleine macht daraus keine überwiegend steuerliche Regelung.
+
+Trenne diese Kompetenzfrage von den Pflichten des konkreten Importeurs. Das Urteil entscheidet weder dessen Wareneinreihung noch dessen Emissionswerte oder Erklärung. Prüfe die für Einfuhr und Berichtszeitraum geltende Fassung, Änderungen und Übergangsvorschriften; übernimm im Urteil wiedergegebene damalige Fristen nicht ungeprüft in eine heutige Arbeitsanweisung. Verknüpfe fehlende Mengen- und Emissionsnachweise mit der betroffenen Berechnungsposition, statt den Nachweis durch den Hinweis auf die Gültigkeit der Verordnung zu ersetzen. Quellenprüfung am 14.11.2026: englischer amtlicher Volltext, Rn. 38–77 und Tenor gelesen.
+
 ## 1.4 Rechtsschutz zum Ziel passend prüfen
 
 Bestimme, welches Gericht oder Organ das gewünschte Ergebnis erreichen kann. Nationale Rechtsschutzmöglichkeiten, Vorlageverfahren, Direktklage, Kommissionsbeschwerde, Petition und Bürgerbeauftragten nicht als austauschbare Wege behandeln.
@@ -53,6 +59,10 @@ Bei Nichtigkeitsklage nach Artikel 263 AEUV Klagegegenstand, Klagebefugnis und F
 Vertragsverletzungsverfahren nach Artikeln 258 bis 260 AEUV nach Akteursrolle und Verfahrensstand bearbeiten. Eine Beschwerde an die Kommission ist keine eigene Vertragsverletzungsklage des Beschwerdeführers. Der dafür beauftragte Text benötigt Verletzungsvorwurf und Belege, keine Vertragsklausel mit „Rückfallposition“.
 
 Bei Petitionen nach Artikeln 24 Absatz 2 und 227 AEUV sowie Bürgerbeauftragten nach Artikel 228 AEUV Gegenstand und erreichbare Wirkung prüfen. Diese Wege nicht als Ersatz für die Wahrung gerichtlicher Fristen behandeln.
+
+### 1.4.1 Verfassungsrechtliche Ultra-vires-Rüge abgrenzen
+
+Bei einer Ultra-vires-Rüge arbeite den behaupteten offensichtlichen und strukturell bedeutsamen Kompetenzverstoß aus. [BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html) verlangt eine inhaltliche Auseinandersetzung mit den einschlägigen gerichtlichen Maßstäben und den begründeten Kompetenzauffassungen insbesondere von Bundesregierung, Bundestag und gegebenenfalls Bundesrat. Gegenpositionen entfalten keine eigene Präjudizwirkung, dürfen aber nicht durch pauschale Kritik ersetzt werden. Ordne jeder behaupteten Kompetenzüberschreitung den konkreten Unionsakt, Kompetenzmaßstab, Gegenstandpunkt und rechtzeitigen Gegenvortrag zu. Fehlt die bezeichnete Passage, fordere sie gezielt an; erfinde keinen Vortrag. Die konkreten Anträge waren unzulässig. Daraus folgt keine umfassende materielle Freigabe des Programms oder jeder künftigen Zentralbankmaßnahme.
 
 ## 1.5 Quellen fallbezogen verwenden
 

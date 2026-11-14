@@ -10,8 +10,10 @@ from pathlib import Path
 from release_routing import check_asset_limit
 
 
-SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt", "release-bestand.json"}
+SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt", "release-bestand.json",
+                  "ki-native-kanzlei-skills-handbuch.pdf"}
 ASSET_SUFFIXES = {".zip", ".md", ".docx"}
+PROMPT_TEXT_SUFFIXES = ("-werkstatt.txt", "-schnellstart.txt", "-hauptproblem.txt")
 # GitHub verlangt pro Release-Asset strikt weniger als 2 GiB.
 # https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases
 MAX_RELEASE_ASSET_BYTES = 2 ** 31
@@ -22,7 +24,8 @@ def is_release_asset(path: Path) -> bool:
     return (
         path.is_file()
         and not path.is_symlink()
-        and (path.suffix.lower() in ASSET_SUFFIXES or path.name in SPECIAL_ASSETS)
+        and (path.suffix.lower() in ASSET_SUFFIXES or path.name in SPECIAL_ASSETS
+             or path.name.endswith(PROMPT_TEXT_SUFFIXES))
     )
 
 

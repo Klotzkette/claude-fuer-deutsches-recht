@@ -11,21 +11,21 @@ Dieser Einstieg routet **Bav Strategie Konzern** vom ersten Sachverhalt zu Rolle
 
 ## Fachlandkarte dieses Plugins
 
-- `altersversorgung-boutique-fristennotiz-psv` — Altersversorgung Boutique Fristennotiz PSV
-- `bav-cta-treuhand-spezial` — BAV CTA Treuhand Spezial
-- `bav-erstattung-fuenftelregelung` — BAV Erstattung Fuenftelregelung
-- `bav-grenzueberschreitend-mobil-spezial` — BAV Grenzueberschreitend Mobil Spezial
-- `bav-konzern-design-workflow` — BAV Konzern Design Workflow
-- `bav-pensionsfond-rueckdeckung-spezial` — BAV Pensionsfond Rueckdeckung Spezial
-- `benefits-mandantenkommunikation-entscheidungsvorlage` — Benefits Mandantenkommunikation Entscheidungsvorlage
-- `betrieblichen-drei-duesseldorfer-sonderfall` — Betrieblichen Drei Duesseldorfer Sonderfall
-- `boutique-fristennotiz-und-naechster-schritt` — Boutique Fristennotiz und Naechster Schritt
-- `buyout-ma-country-by-cta-contractual` — Buyout MA Country BY CTA Contractual
-- `buyouts-quellenkarte` — Buyouts Quellenkarte
-- `country-by-country-benefits-matrix-konzern` — Country BY Country Benefits Matrix Konzern
-- `cta-contractual-trust-arrangement-strukturierung` — CTA Contractual Trust Arrangement Strukturierung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `bestand-erfassen-bearbeiten` (Fachthema: altersversorgung-boutique-fristennotiz-psv) — Altersversorgung Boutique Fristennotiz PSV
+- `bestand-erfassen-bearbeiten` (Fachthema: bav-cta-treuhand-spezial) — BAV CTA Treuhand Spezial
+- `bestand-erfassen-bearbeiten` (Fachthema: bav-erstattung-fuenftelregelung) — BAV Erstattung Fuenftelregelung
+- `bestand-erfassen-bearbeiten` (Fachthema: bav-grenzueberschreitend-mobil-spezial) — BAV Grenzueberschreitend Mobil Spezial
+- `transaktion-und-konzern-bearbeiten` (Fachthema: bav-konzern-design-workflow) — BAV Konzern Design Workflow
+- `haftung-und-deckung-bearbeiten` (Fachthema: bav-pensionsfond-rueckdeckung-spezial) — BAV Pensionsfond Rueckdeckung Spezial
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: benefits-mandantenkommunikation-entscheidungsvorlage) — Benefits Mandantenkommunikation Entscheidungsvorlage
+- `aenderung-und-harmonisierung-bearbeiten` (Fachthema: betrieblichen-drei-duesseldorfer-sonderfall) — Betrieblichen Drei Duesseldorfer Sonderfall
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: boutique-fristennotiz-und-naechster-schritt) — Boutique Fristennotiz und Naechster Schritt
+- `bestand-erfassen-bearbeiten` (Fachthema: buyout-ma-country-by-cta-contractual) — Buyout MA Country BY CTA Contractual
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: buyouts-quellenkarte) — Buyouts Quellenkarte
+- `arbeitsprodukt-bearbeiten` (Fachthema: country-by-country-benefits-matrix-konzern) — Country BY Country Benefits Matrix Konzern
+- `bestand-erfassen-bearbeiten` (Fachthema: cta-contractual-trust-arrangement-strukturierung) — CTA Contractual Trust Arrangement Strukturierung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

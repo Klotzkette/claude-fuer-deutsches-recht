@@ -1,7 +1,7 @@
 {
   "name": "verhaeltnismaessigkeitspruefer",
-  "version": "445.35.3",
-  "description": "85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Suedafrika/Kanada/EGMR/EuGH/USA und 12 europaeische Ordnungen; mit Alexy, Schnellprüfung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung.",
+  "version": "445.36.0",
+  "description": "Verhältnismäßigkeit strukturiert prüfen: legitimes Ziel, Geeignetheit, Erforderlichkeit und Angemessenheit mit Grundrechten, Gegenargumenten und belegter Rechtsprechung verbinden. Deutsche, europäische und rechtsvergleichende Maßstäbe getrennt auswerten.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"

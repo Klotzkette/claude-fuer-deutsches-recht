@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-miet-wohnungseigentumsrecht",
-  "version": "445.35.3",
-  "description": "Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows.",
+  "version": "445.36.0",
+  "description": "Miet- und Wohnungseigentumsrecht für Wohnraum, Gewerberaum, Betriebskosten und Hausverwaltung: Verträge, Beschlüsse, Mängel, Beweise, Fristen und Rechtsschutz in zusammenhängenden Arbeitswegen bearbeiten.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

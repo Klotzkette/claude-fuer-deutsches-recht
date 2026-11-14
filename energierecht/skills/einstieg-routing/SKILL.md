@@ -11,21 +11,21 @@ Dieser Einstieg routet **Energierecht** vom ersten Sachverhalt zu Rollen, Friste
 
 ## Fachlandkarte dieses Plugins
 
-- `anfrage-mehrparteien-konflikt-und-interessen` — Anfrage Mehrparteien Konflikt und Interessen
-- `energierecht-erstpruefung-und-mandatsziel` — Energierecht: Erstprüfung, Rollenklärung und Mandatsziel
-- `bess-abfall-recycling-rueckbau` — Bess Abfall Recycling Rueckbau
-- `bess-abstandsflaechen-baurecht-brandenburg` — Bess Abstandsflaechen Baurecht Brandenburg
-- `bess-baurecht-brandenburg` — Bess Baurecht Brandenburg
-- `bess-behoerdenstrategie` — Bess Behoerdenstrategie
-- `bess-bimschg-und-4-bimschv` — Bess Bimschg und 4 Bimschv
-- `bess-brandschutz-co-location-datenschutz` — Bess Brandschutz CO Location Datenschutz
-- `bess-co-location-pv-wind` — Bess CO Location PV Wind
-- `bess-datenschutz-video-leitwarte` — Bess Datenschutz Video Leitwarte
-- `bess-dieselgenerator-notstrom` — Bess Dieselgenerator Notstrom
-- `bess-epc-fca-agnes-finanzierung` — Bess EPC FCA Agnes Finanzierung
-- `bess-fca-agnes-bnetza` — Bess FCA Agnes BNETZA
-- `dokumente-intake` — Dokumente Intake
-- `quellen-livecheck` — Quellen Livecheck
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: anfrage-mehrparteien-konflikt-und-interessen) — Anfrage Mehrparteien Konflikt und Interessen
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: energierecht-erstpruefung-und-mandatsziel) — Energierecht: Erstprüfung, Rollenklärung und Mandatsziel
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-abfall-recycling-rueckbau) — Bess Abfall Recycling Rueckbau
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-abstandsflaechen-baurecht-brandenburg) — Bess Abstandsflaechen Baurecht Brandenburg
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-baurecht-brandenburg) — Bess Baurecht Brandenburg
+- `arbeitsprodukt-bearbeiten` (Fachthema: bess-behoerdenstrategie) — Bess Behoerdenstrategie
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-bimschg-und-4-bimschv) — Bess Bimschg und 4 Bimschv
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-brandschutz-co-location-datenschutz) — Bess Brandschutz CO Location Datenschutz
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-co-location-pv-wind) — Bess CO Location PV Wind
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-datenschutz-video-leitwarte) — Bess Datenschutz Video Leitwarte
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-dieselgenerator-notstrom) — Bess Dieselgenerator Notstrom
+- `anspruch-und-verfahren-bearbeiten` (Fachthema: bess-epc-fca-agnes-finanzierung) — Bess EPC FCA Agnes Finanzierung
+- `regelungsstand-bearbeiten` (Fachthema: bess-fca-agnes-bnetza) — Bess FCA Agnes BNETZA
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: quellen-livecheck) — Quellen Livecheck
 
 ## Arbeitsweg
 

@@ -122,6 +122,12 @@ Formulieren Sie Richtlinienausnahmen mit Anlass, Umfang, Geltungsdauer, zuständ
 
 Bei M&A unterscheiden Sie Informationsaustausch vor Vollzug, Signing, Closing und Integration. Prüfen Sie Freigaben und rechtliche Grenzen des Datenaustauschs statt ungefiltert sämtliche Untersuchungsakten weiterzugeben. Ordnen Sie jedes erhebliche Risiko einer Vertragsregelung, einem Vollzugshindernis, einer konkreten Integrationsmaßnahme oder einer bewusst dokumentierten offenen Entscheidung zu. Benennen Sie Verantwortliche, Fristen, Belege und Nachtest. Behaupten Sie keine erledigte Due Diligence oder erfolgreiche Integration ohne deren Nachweise.
 
+### 6.1 Produktsicherheit: Eine Übergangsfrist ist kein Sicherheitsnachweis
+
+Für zulassungspflichtige Lebensmittelzutaten bestimmen Sie zunächst Produktkategorie und spezielles Zulassungsregime. [EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85 und 195–201](https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html) betrifft Raucharoma-Primärprodukte nach der Verordnung (EG) Nr. 2065/2003: Der Antragsteller muss die Sicherheitsvoraussetzungen für Zulassung oder Verlängerung belegen; die Behörde muss nicht zuerst die Schädlichkeit nachweisen. Ein bisheriger Marktzugang oder ein weniger gut untersuchter Alternativprozess ersetzt diesen Nachweis nicht. Übergangsfristen ermöglichen Anpassungen und sind kein Unbedenklichkeitsnachweis (Rn. 222–225).
+
+Legen Sie dafür verwendete Rezeptur, Zulassungsinhaber, erlaubte Verwendung, Dosis, wissenschaftliche Unterlagen und betroffene Chargen nebeneinander. Widerspricht ein neues Laborergebnis dem Zulassungsdossier, benennen Sie die konkrete Lücke und überarbeiten Sie die bestellte Freigabe- oder Maßnahmenvorlage. Die Entscheidung betrifft weder Süßstoffe noch die Zusammensetzung von Schokolade und begründet keine allgemeine Beweislastregel für jeden Rückruf oder Produkthaftungsprozess. Rechtskraft wurde hier nicht geprüft; spätere Rechtsmittel ermitteln Sie vor tragender Verwendung. Quellenprüfung am 14.11.2026: englischer amtlicher Volltext in den bezeichneten Passagen gelesen.
+
 ## 7 Kontrollen, Training und Organberichte
 
 ### 7.1 Kontrollen tatsächlich testen

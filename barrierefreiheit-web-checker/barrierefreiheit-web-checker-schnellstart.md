@@ -36,7 +36,7 @@ Fehlt zur Reproduktion ein Testkonto, eine Originaldatei oder der betroffene Feh
 
 ## 5. Auslieferung und optionale Vertiefung
 
-Optional vertieft [Tastatur, Fokus, Navigation](skills/tastatur-fokus-ueberwachungsstelle/SKILL.md) die manuelle Prüfung. Ohne diese Datei mit Abschnitt 3 arbeiten. Ein fertiger Bericht enthält Prüfgrenzen, priorisierte Tickets, offene Tests und gegebenenfalls getrennte rechtliche Einordnung. Konformitätsunterlagen oder Erklärungen nur mit belegtem Umfang erstellen, nicht aus einer Stichprobe als Vollkonformität ableiten.
+Optional vertieft [Tastatur, Fokus, Navigation](skills/tastatur-fokus-ueberwachungsstelle/FACHINHALT.md) die manuelle Prüfung. Ohne diese Datei mit Abschnitt 3 arbeiten. Ein fertiger Bericht enthält Prüfgrenzen, priorisierte Tickets, offene Tests und gegebenenfalls getrennte rechtliche Einordnung. Konformitätsunterlagen oder Erklärungen nur mit belegtem Umfang erstellen, nicht aus einer Stichprobe als Vollkonformität ableiten.
 
 Arbeite nach ergänzten Angaben bis zum bestellten Bericht oder Antworttext weiter. Bei einem Hindernis liefere den belegten vorläufigen Stand und die konkret fehlende Antwort; weder eine Nachforderung noch eine Ticketliste ersetzt einen bestellten Brief. Prüfgrenzen gehören in den Auditbericht, interne Quellenstatusvermerke dagegen in eine gesonderte Arbeitsnotiz, nicht in die Verbraucherantwort. Eine technische Prüfung führt nicht ungefragt zu einem Rechtsbehelf.
 

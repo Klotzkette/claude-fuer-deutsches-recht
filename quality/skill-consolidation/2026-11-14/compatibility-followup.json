@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-14T18:11:03.434779+00:00",
+  "status": "passed",
+  "scope": "Migration compatibility source and locally built package checks; no new legal source review, model run, remote publication or downloaded-release validation.",
+  "change": "Current source manifest versions must match their explicit package routes. Optional historical phishing --dist validation retains the exact historical version and additionally checks report tag and component versions.",
+  "changed_test": "scripts/test-phishing-release.py",
+  "changed_test_sha256": "aaa9ffe5dbd03d5f8da422a238f4797e118dd3353aa42868e3e3be49febeb5fa",
+  "historical_phishing_builder_sha256": "3cc4f59bb815c333cc9566050bd60891a8e37f399d87bc51b9c2ec3349f6390b",
+  "historical_phishing_builder_equal_to_HEAD": true,
+  "checks": [
+    {
+      "script": "scripts/test-phishing-release.py",
+      "executed": 15,
+      "skipped_dist_only": 0,
+      "log": "compatibility-followup/phishing-release.log"
+    },
+    {
+      "script": "scripts/test-ki-halluzinationsreduzierer.py",
+      "executed": 5,
+      "skipped_dist_only": 3,
+      "log": "compatibility-followup/ki-halluzinationsreduzierer.log"
+    },
+    {
+      "script": "scripts/test-ustva-ausgabe.py",
+      "executed": 6,
+      "skipped_dist_only": 0,
+      "log": "compatibility-followup/ustva-ausgabe.log"
+    },
+    {
+      "script": "scripts/test-notariatswerkstatt.py",
+      "executed": 12,
+      "skipped_dist_only": 0,
+      "log": "compatibility-followup/notariatswerkstatt.log"
+    },
+    {
+      "script": "scripts/test-notariat-dnoti-anfragen.py",
+      "executed": 5,
+      "skipped_dist_only": 0,
+      "log": "compatibility-followup/notariat-dnoti-anfragen.log"
+    },
+    {
+      "script": "scripts/test-compliance-hameln.py",
+      "executed": 6,
+      "skipped_dist_only": 2,
+      "log": "compatibility-followup/compliance-hameln.log"
+    },
+    {
+      "script": "scripts/test-compatibility-release.py",
+      "executed": 14,
+      "skipped_dist_only": 0,
+      "log": "compatibility-followup/compatibility-release.log"
+    }
+  ],
+  "executed_test_methods": 63,
+  "dist_only_skips": 5,
+  "build": {
+    "command": "python scripts/build-compatibility-release.py --dist <empty-temporary-directory>",
+    "assets": 12,
+    "independent_hashes": 11,
+    "plugins": 9,
+    "report": "compatibility-followup/independent-verification.json",
+    "scope": "Historical compatibility builder tag stays kompatibilitaet-v445.35.1; each current plugin is validated and reported with its actual routed component version. These temporary assets were not published."
+  },
+  "logs_sha256": {
+    "build.log": "135f08298433bcd6fc36e183183262f699c204d87f7e24adbaa02c992d733d30",
+    "compatibility-release.log": "b184144191b3055c36c202fee58b96592ce91e49848f6740a18b7f4121b7639c",
+    "compliance-hameln.log": "6b46f6861a27257d2e4ac4bb102b0b96a93ac68d9d99bb007f2b9b7d3a252247",
+    "ki-halluzinationsreduzierer.log": "82d31480e9e8c08a083e832f818e9e7e3a1407b375aef94871c7a63c358600f9",
+    "notariat-dnoti-anfragen.log": "3f0d71ad36a5aaa3f81c3a547053eeb86ed0fa6d9a20c9771771efd125f473f5",
+    "notariatswerkstatt.log": "0be9fa971bf8e85afc9f5fdbadd337d3c091cd594ede0b4a06f59f0b79f7e03a",
+    "phishing-release-before.log": "ad55c9e2446d54a53a94186c19064a40f3679863f2dbd0c339aae4da4921ec9e",
+    "phishing-release.log": "d858f16d82ca0371c2fbf6e2e23c18a55bdc93e4119e8fb03af9c74b1bc2bf9a",
+    "ustva-ausgabe.log": "fda456e1f071d2c7a212008316432bdfbd46ecc50a5ac216bcf30e129d658b6c"
+  }
+}

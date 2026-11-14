@@ -115,7 +115,7 @@
           ]
         }
       ],
-      "target_skill": "mitgliederversammlung-einberufung"
+      "target_skill": "versammlung-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -139,8 +139,8 @@
       "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-schnellstart.md",
       "vereinsrecht-vereinsmanager/README.md",
       "quality/evals/vereinsrecht-vereinsmanager.json",
-      "vereinsrecht-vereinsmanager/skills/hybride-virtuelle-versammlung/SKILL.md",
-      "vereinsrecht-vereinsmanager/skills/anfechtung-beschluss/SKILL.md"
+      "vereinsrecht-vereinsmanager/skills/hybride-virtuelle-versammlung/FACHINHALT.md",
+      "vereinsrecht-vereinsmanager/skills/anfechtung-beschluss/FACHINHALT.md"
     ],
     "opening_change": "Wirksamkeit des konkret angekündigten Beschlusses und Korrektur der Einladung ersetzen den allgemeinen Einstieg in eine Vereinsfrage.",
     "norms": [

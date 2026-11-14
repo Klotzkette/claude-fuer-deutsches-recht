@@ -475,7 +475,7 @@
     {
       "id": "ea288-betroffenheit-ohne-serienbeweis",
       "request": "Erstelle ergebnis.md als fahrzeugbezogenen Betroffenheitsbefund für Michael Webers Audi A4 Avant B9 2.0 TDI. Lies Kaufvertrag, Fahrzeugdatenblatt, Werkstattrechnung, technische Anfrage, Herstellerantwort und Mandantennachreichung. Ordne FIN, DETA-Motor, Euro 6, Softwarestand, Fremdfoto, Winterverbrauch und telefonische Werkstattaussage jeweils nach Beweiswert ein. Ein amtlicher Rückruf- oder Feldmaßnahmentreffer ist in der Akte nicht dokumentiert. Entscheide nicht vorab über Haftung und erfinde keine Kalibrierungsdaten.",
-      "target_skill": "04-betroffenheit-motor-kba-rueckruf",
+      "target_skill": "reaktion-bearbeiten",
       "input_files": [
         "testakten/audi-ea288-weber-neuwagen/kaufvertrag_kaufvertrag.pdf",
         "testakten/audi-ea288-weber-neuwagen/fahrzeug_fahrzeugdatenblatt.docx",
@@ -569,7 +569,7 @@
     {
       "id": "ea189-verjaehrung-und-restschaden-2013",
       "request": "Erstelle ergebnis.md als Fristen- und Restschadensprüfung für Petra Hoffmanns am 04.03.2013 übergebenen neuen VW Passat EA189 zum Kaufpreis von 31.000 Euro. Prüfe Kauf- und Lieferbelege, Serviceaktion 23R7, Fristenjournal, Zahlungsübersicht, Mandantenfragebogen und den alten Onlineausdruck. Die Mandantin erinnert eine Sammelklageanmeldung, besitzt aber weder Registerbestätigung noch Aktenzeichen. Trenne Regelverjährung, behauptete Musterfeststellungshemmung und Paragraf 852 BGB; setze den Herstellerzufluss nicht mit dem Endkundenpreis gleich.",
-      "target_skill": "07-verjaehrung-restschadensersatz",
+      "target_skill": "pflichten-und-belege-bearbeiten",
       "input_files": [
         "testakten/vw-ea189-hoffmann-verjaehrung-restschaden/kaufvertrag_kaufvertrag.pdf",
         "testakten/vw-ea189-hoffmann-verjaehrung-restschaden/kaufvertrag_rechnung.pdf",
@@ -616,7 +616,7 @@
     {
       "id": "differenzschaden-mit-teilweiser-aufzehrung",
       "request": "Erstelle ergebnis.md als nachvollziehbare Differenzschadensberechnung und Antragsgrundlage. Unterstelle ausschließlich für die Rechnung einen schlüssig belegten objektiven Verstoß und einen Kaufpreis von 32.500 Euro. Die fallbezogen zu begründende Quote beträgt vorläufig zehn Prozent. Seit Übergabe wurden 98.400 Kilometer gefahren; die erwartbare Gesamtlaufleistung beträgt 250.000 Kilometer und der Übergabestand null. Der objektiv belegte Restwert beträgt 17.500 Euro. Berechne Bruttoschaden, Schwelle, Vorteilsausgleich und verbleibenden Zahlbetrag, ohne die Haftung oder Quote als bewiesen auszugeben.",
-      "target_skill": "15-klage-differenzschaden",
+      "target_skill": "pflichten-und-belege-bearbeiten",
       "input_files": [],
       "deliverables": [
         "ergebnis.md"
@@ -655,7 +655,7 @@
     {
       "id": "kfz-kredit-vollerfuellung-und-widerrufsentwurf",
       "request": "Erstelle ergebnis.md als Zahlungs- und Widerrufsprüfung für Julia Kochs verbundenen VW-Tiguan-Kredit von 2018. Gleiche den Nettodarlehensbetrag von 33.500 Euro, den Plan über 48 Raten, die Rücklastschrift, den erneuten Einzug, den Kontoauszug bis 01.09.2022, Zahlungsjournal, Bankauskunft mit Saldo 0,00 Euro und Sicherheitenfreigabe ab. Prüfe außerdem, ob der private als ENTWURF bezeichnete Widerruf überhaupt zugegangen ist. Trenne die Finanzierung vollständig von einer nicht belegten technischen Dieselspur.",
-      "target_skill": "12-finanzierungswiderruf-verbundgeschaeft",
+      "target_skill": "pflichten-und-belege-bearbeiten",
       "input_files": [
         "testakten/vw-finanzierung-koch-widerrufsjoker/kaufvertrag_kaufvertrag.pdf",
         "testakten/vw-finanzierung-koch-widerrufsjoker/finanzierung_darlehensvertrag.pdf",
@@ -703,7 +703,7 @@
     {
       "id": "bea-stop-bei-entwurf-und-fehlender-freigabe",
       "request": "Erstelle ergebnis.md als beA-Produktions- und Stopbericht für eine Dieselklage. Vorliegen sollen nach dem Sachverhalt nur ein DOCX-Klageentwurf, Kaufvertrag und Rechnung als PDF, ein unvollständiger zweiseitiger Servicebeleg ohne Rückseite und eine alte lokale Anlagenliste K1 bis K3. Gericht, Aktenzeichen beziehungsweise Neueingang, verantwortliche Rechtsanwältin, Signaturweg, freigegebene Haupt-PDF, SHA-256-Auftrag, letzte tatsächlich eingereichte Anlagennummer, Sichtprüfung und anwaltliche Fingerprint-Freigabe fehlen. Prüfe, was vorbereitet werden darf und welchen Status das Paket haben muss; versende nichts.",
-      "target_skill": "21-bea-versandfertig-schriftsatz-anlagen",
+      "target_skill": "pflichten-und-belege-bearbeiten",
       "input_files": [],
       "deliverables": [
         "ergebnis.md"

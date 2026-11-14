@@ -11,21 +11,21 @@ Erkläre oder übersetze den vorgelegten gesellschaftsrechtlichen Begriff im kon
 
 ## Fachlandkarte dieses Plugins
 
-- `anfaenger-verhandlung-vergleich-und-eskalation` — Anfaenger Verhandlung Vergleich und Eskalation
-- `anschauungsmaterial-multiformat-auswertung` — Anschauungsmaterial Multiformat Auswertung
-- `anti-dilution-articles-association` — Anti Dilution Articles Association
-- `articles-association-satzung` — Articles Association Satzung
-- `begriffskompass-intake-bgb-at` — Begriffskompass Intake BGB AT
-- `bgb-at-schuldrecht-at-im-ma` — BGB AT Schuldrecht AT im MA
-- `business-corporate` — Business Corporate
-- `cap-table-client-explainer` — CAP Table Client Explainer
-- `chronologie-fristen` — Chronologie Fristen
-- `client-explainer-legal-english` — Client Explainer Legal English
-- `corporate-behoerden-gericht-und-registerweg` — Corporate Behoerden Gericht und Registerweg
-- `dealroom-quellenkarte` — Dealroom Quellenkarte
-- `deutsches-englische-drag-tag` — Deutsches Englische Drag TAG
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `begriff-lernpfad-bearbeiten` (Fachthema: anfaenger-verhandlung-vergleich-und-eskalation) — Anfaenger Verhandlung Vergleich und Eskalation
+- `begriff-lernpfad-bearbeiten` (Fachthema: anschauungsmaterial-multiformat-auswertung) — Anschauungsmaterial Multiformat Auswertung
+- `beteiligung-verwaesserung-bearbeiten` (Fachthema: anti-dilution-articles-association) — Anti Dilution Articles Association
+- `governance-gesellschaft-bearbeiten` (Fachthema: articles-association-satzung) — Articles Association Satzung
+- `begriff-lernpfad-bearbeiten` (Fachthema: begriffskompass-intake-bgb-at) — Begriffskompass Intake BGB AT
+- `begriff-lernpfad-bearbeiten` (Fachthema: bgb-at-schuldrecht-at-im-ma) — BGB AT Schuldrecht AT im MA
+- `begriff-lernpfad-bearbeiten` (Fachthema: business-corporate) — Business Corporate
+- `beteiligung-verwaesserung-bearbeiten` (Fachthema: cap-table-client-explainer) — CAP Table Client Explainer
+- `dealunterlagen-quellen-bearbeiten` (Fachthema: chronologie-fristen) — Chronologie Fristen
+- `begriff-lernpfad-bearbeiten` (Fachthema: client-explainer-legal-english) — Client Explainer Legal English
+- `dealunterlagen-quellen-bearbeiten` (Fachthema: corporate-behoerden-gericht-und-registerweg) — Corporate Behoerden Gericht und Registerweg
+- `dealunterlagen-quellen-bearbeiten` (Fachthema: dealroom-quellenkarte) — Dealroom Quellenkarte
+- `kaufpreis-haftung-exit-bearbeiten` (Fachthema: deutsches-englische-drag-tag) — Deutsches Englische Drag TAG
+- `dealunterlagen-quellen-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `briefing-qualitaet-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

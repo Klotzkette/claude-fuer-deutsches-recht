@@ -87,6 +87,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
+Für die vollständige Ausarbeitung eines B2B-Vertrags steht zusätzlich der eigenständige [Schwerpunkt-Prompt als Markdown-Download](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-hauptproblem.md) bereit.
+
 <!-- decimal-anchor --> <a id="umfang-und-arbeitsweg--scope-and-workflow"></a>
 
 ## 1.6. Umfang und Arbeitsweg / Scope and Workflow

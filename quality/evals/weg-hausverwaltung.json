@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "target_skill": "abrechnung-ist-plan-mieterschnittstelle"
+      "target_skill": "abrechnung-und-eigentuemerkonto-bearbeiten"
     },
     {
       "id": "bettwanzen-ein-ausbruch-drei-termine",
@@ -367,7 +367,7 @@
           ]
         }
       ],
-      "target_skill": "stoerung-hausordnung-mieter-eigentuemer"
+      "target_skill": "abrechnung-und-eigentuemerkonto-bearbeiten"
     },
     {
       "id": "kellerverlust-und-kamera",
@@ -399,7 +399,7 @@
           ]
         }
       ],
-      "target_skill": "heizung-schaden-versicherung-notmassnahme"
+      "target_skill": "massnahme-und-pflicht-bearbeiten"
     },
     {
       "id": "digitale-belege-ohne-misstrauenshuerde",
@@ -431,7 +431,7 @@
           ]
         }
       ],
-      "target_skill": "betriebskosten-nebenkostenabrechnung"
+      "target_skill": "diebstahl-und-befall-bearbeiten"
     },
     {
       "id": "handwerker-ohne-starre-angebotszahl",
@@ -463,7 +463,7 @@
           ]
         }
       ],
-      "target_skill": "handwerker-beauftragung-vergabe"
+      "target_skill": "massnahme-und-pflicht-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

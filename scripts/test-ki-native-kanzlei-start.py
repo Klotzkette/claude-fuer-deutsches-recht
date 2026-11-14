@@ -7,6 +7,7 @@ Produktivkonten. Laufzeittests der Hilfsprogramme werden getrennt ausgeführt.
 import re
 import unittest
 from pathlib import Path
+from skill_sources import fachinhalt_path
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / 'ki-native-kanzlei'
@@ -14,7 +15,7 @@ PLUGIN = ROOT / 'ki-native-kanzlei'
 
 class StartContracts(unittest.TestCase):
     def read(self, name):
-        return (PLUGIN / name).read_text(encoding='utf-8')
+        return fachinhalt_path(PLUGIN / name).read_text(encoding='utf-8')
 
     def test_individual_entry_and_routing(self):
         main = self.read('skills/ki-kanzlei-steuern/SKILL.md')

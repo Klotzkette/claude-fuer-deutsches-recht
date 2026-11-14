@@ -11,21 +11,21 @@ Ordne den vorhandenen Krisensachverhalt ein und erstelle den bestellten Prognose
 
 ## Fachlandkarte dieses Plugins
 
-- `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
-- `berater-drohende-fruehwarnsystem` — Berater Drohende Fruehwarnsystem
-- `cross-class-cram-down-und-absolute-priority` — Cross Class Cram Down und Absolute Priority
-- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschäftsführung
-- `drohende-zahlen-schwellen-und-berechnung` — Drohende Zahlen Schwellen und Berechnung
-- `drohende-zahlungsunfaehigkeit` — Drohende Zahlungsunfaehigkeit
-- `fortbestehensprognose-zweistufig` — Fortbestehensprognose Zweistufig
-- `fruehwarnsystem-architektur-zwei-jahres-horizont` — Fruehwarnsystem Architektur Zwei Jahres Horizont
-- `fruehwarnsystem-behoerden-gericht-und-registerweg` — Fruehwarnsystem Behoerden Gericht und Registerweg
-- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschäftsführerhaftung Quellenkarte Check
-- `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF Haftung Paragraph 43 GMBHG und Paragraph 93 AKTG
-- `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Insolvenzantragspflicht Paragraph 15A Inso und Drei Wochen Frist
-- `integrierte-interessen-kennzahlenset` — Integrierte Interessen Kennzahlenset
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `fruehwarnsystem-kennzahlen-bearbeiten` (Fachthema: ampelsystem-beweislast-und-darlegungslast) — Ampelsystem Beweislast und Darlegungslast
+- `fruehwarnsystem-kennzahlen-bearbeiten` (Fachthema: berater-drohende-fruehwarnsystem) — Berater Drohende Fruehwarnsystem
+- `restrukturierung-stabilisierung-plan-bearbeiten` (Fachthema: cross-class-cram-down-und-absolute-priority) — Cross Class Cram Down und Absolute Priority
+- `pflichten-warnung-organhaftung-bearbeiten` (Fachthema: dokumentationspflicht-und-protokollierung-geschaeftsfuehrung) — Dokumentationspflicht und Protokollierung Geschäftsführung
+- `prognose-liquiditaet-krisenstadium-bearbeiten` (Fachthema: drohende-zahlen-schwellen-und-berechnung) — Drohende Zahlen Schwellen und Berechnung
+- `prognose-liquiditaet-krisenstadium-bearbeiten` (Fachthema: drohende-zahlungsunfaehigkeit) — Drohende Zahlungsunfaehigkeit
+- `prognose-liquiditaet-krisenstadium-bearbeiten` (Fachthema: fortbestehensprognose-zweistufig) — Fortbestehensprognose Zweistufig
+- `fruehwarnsystem-kennzahlen-bearbeiten` (Fachthema: fruehwarnsystem-architektur-zwei-jahres-horizont) — Fruehwarnsystem Architektur Zwei Jahres Horizont
+- `fruehwarnsystem-kennzahlen-bearbeiten` (Fachthema: fruehwarnsystem-behoerden-gericht-und-registerweg) — Fruehwarnsystem Behoerden Gericht und Registerweg
+- `pflichten-warnung-organhaftung-bearbeiten` (Fachthema: geschaeftsfuehrerhaftung-quellenkarte-check) — Geschäftsführerhaftung Quellenkarte Check
+- `pflichten-warnung-organhaftung-bearbeiten` (Fachthema: gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg) — GF Haftung Paragraph 43 GMBHG und Paragraph 93 AKTG
+- `pflichten-warnung-organhaftung-bearbeiten` (Fachthema: insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist) — Insolvenzantragspflicht Paragraph 15A Inso und Drei Wochen Frist
+- `fruehwarnsystem-kennzahlen-bearbeiten` (Fachthema: integrierte-interessen-kennzahlenset) — Integrierte Interessen Kennzahlenset
+- `krisenakte-kommunikation-qualitaet-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `krisenakte-kommunikation-qualitaet-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

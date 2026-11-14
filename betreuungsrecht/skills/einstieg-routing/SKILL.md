@@ -11,21 +11,21 @@ Erstelle das beauftragte Gerichtsschreiben, Verzeichnis, den Bericht oder die En
 
 ## Fachlandkarte dieses Plugins
 
-- `anschluss-router` — Anschluss Router
-- `aufgabenkreise-festlegen` — Aufgabenkreise Festlegen
-- `bericht-betreuer-betreuerpflichten` — Bericht Betreuer Betreuerpflichten
-- `bericht-mandantenkommunikation` — Bericht Mandantenkommunikation
-- `betreuer-als-erbe` — Betreuer ALS Erbe
-- `betreuer-registrierung` — Betreuer Registrierung
-- `betreuer-registrierung-betreuung` — Betreuer Registrierung Betreuung
-- `betreuer-zahlen-schwellen-und-berechnung` — Betreuer Zahlen Schwellen und Berechnung
-- `betreuer-zahlen-schwellenwerte-berechnung` — Betreuer Zahlen Schwellenwerte Berechnung
-- `betreuerpflichten-alltag` — Betreuerpflichten Alltag
-- `betreuerpflichten-formular-portal-und-einreichung` — Betreuerpflichten Formular Portal und Einreichung
-- `betreuerpflichten-genehmigung-bericht` — Betreuerpflichten Genehmigung Bericht
-- `betreuerpflichten-genehmigung-betreuung` — Betreuerpflichten Genehmigung Betreuung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `person-und-verfahren-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `erforderlichkeit-und-aufgabenbereich-bearbeiten` (Fachthema: aufgabenkreise-festlegen) — Aufgabenkreise Festlegen
+- `person-und-verfahren-bearbeiten` (Fachthema: bericht-betreuer-betreuerpflichten) — Bericht Betreuer Betreuerpflichten
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: bericht-mandantenkommunikation) — Bericht Mandantenkommunikation
+- `person-und-verfahren-bearbeiten` (Fachthema: betreuer-als-erbe) — Betreuer ALS Erbe
+- `person-und-verfahren-bearbeiten` (Fachthema: betreuer-registrierung) — Betreuer Registrierung
+- `person-und-verfahren-bearbeiten` (Fachthema: betreuer-registrierung-betreuung) — Betreuer Registrierung Betreuung
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: betreuer-zahlen-schwellen-und-berechnung) — Betreuer Zahlen Schwellen und Berechnung
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: betreuer-zahlen-schwellenwerte-berechnung) — Betreuer Zahlen Schwellenwerte Berechnung
+- `person-und-verfahren-bearbeiten` (Fachthema: betreuerpflichten-alltag) — Betreuerpflichten Alltag
+- `person-und-verfahren-bearbeiten` (Fachthema: betreuerpflichten-formular-portal-und-einreichung) — Betreuerpflichten Formular Portal und Einreichung
+- `entscheidung-und-genehmigung-bearbeiten` (Fachthema: betreuerpflichten-genehmigung-bericht) — Betreuerpflichten Genehmigung Bericht
+- `entscheidung-und-genehmigung-bearbeiten` (Fachthema: betreuerpflichten-genehmigung-betreuung) — Betreuerpflichten Genehmigung Betreuung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Normenanker
 

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "assets": 12,
+  "checksummed_assets": 11,
+  "builder_tag": "kompatibilitaet-v445.35.1",
+  "plugins": {
+    "bauvergabe-bieter": {
+      "version": "445.35.1",
+      "active_skills": 11,
+      "files": 21
+    },
+    "bauvergabe-rechtsschutz": {
+      "version": "445.35.1",
+      "active_skills": 11,
+      "files": 21
+    },
+    "bauvergabe-unterlagen": {
+      "version": "445.35.1",
+      "active_skills": 11,
+      "files": 23
+    },
+    "bauvergabe-verfahren": {
+      "version": "445.35.1",
+      "active_skills": 11,
+      "files": 23
+    },
+    "bieter-unternehmen": {
+      "version": "445.36.0",
+      "active_skills": 8,
+      "files": 154
+    },
+    "grundstuecksrecherche": {
+      "version": "445.35.1",
+      "active_skills": 2,
+      "files": 65
+    },
+    "rechtsabteilung-forderungsmanagement-immobilienunternehmen": {
+      "version": "445.36.0",
+      "active_skills": 9,
+      "files": 79
+    },
+    "schriftsatzwerkstatt-bea": {
+      "version": "445.35.1",
+      "active_skills": 9,
+      "files": 28
+    },
+    "vergabestelle-behoerden": {
+      "version": "445.36.0",
+      "active_skills": 8,
+      "files": 165
+    }
+  },
+  "checksums": {
+    "bauvergabe-bieter.zip": "fa7210602b2f1f128329307123851f0538c697e7c1184f85e7a872d0608abff8",
+    "bauvergabe-rechtsschutz.zip": "1242a95cbfdbc08e740f6e5733aa064a2fac286ef2eb627c44bdf8e8d126f879",
+    "bauvergabe-unterlagen.zip": "7151f2b7c656575e191c414c8f130deecb52e1ab5534f2be68606b3abe723135",
+    "bauvergabe-verfahren.zip": "8e49e7403885d530395474d3083081b7bf491589a03fbaa87254472139d514eb",
+    "bieter-unternehmen.zip": "ef4c7fbe39fb3effbfa27c6c6983b176aa7549222298e8fa94e6d5c2addd4d49",
+    "grundstuecksrecherche-website.zip": "b5d9ffbb3708ff30fb2c6a58ca1546b3fb78e22000a74107734188e53af198e9",
+    "grundstuecksrecherche.zip": "47f8285f8e67a2f4cb1d6c6bddb309770c107fef6172b21f1988f0c309fa753b",
+    "quellenabgleich.json": "cdc2c538a4f22cb9b53cf4cd39d9d6b57ffb9ff310f781cccc4acf0c7a9da4c1",
+    "rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip": "79cd0c86a188edcff836ac1511df18f6191fff3d2753004b627887ed1681418a",
+    "schriftsatzwerkstatt-bea.zip": "db1856080ca6b868c7526be63d766c049d64a78f3b23646f96487a31fe9e4eea",
+    "vergabestelle-behoerden.zip": "5ad4160c1cf696e7cd789be19eb97fbbb89fb74a72e088d1a2238c79ad87ca20"
+  },
+  "scope": "Local source build and independently reopened asset bytes; no remote publication or remote downloads."
+}

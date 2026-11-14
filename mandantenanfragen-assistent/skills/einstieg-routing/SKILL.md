@@ -11,21 +11,21 @@ Dieser Einstieg routet **Mandantenanfragen Assistent** vom ersten Sachverhalt zu
 
 ## Fachlandkarte dieses Plugins
 
-- `anfrage-eingang-parser` — Anfrage Eingang Parser
-- `anrede-anwaltskanzleien-bittet` — Anrede Anwaltskanzleien Bittet
-- `anrede-uebernehmen` — Anrede Uebernehmen
-- `anwaltskanzleien-erstpruefung-und-mandatsziel` — Anwaltskanzleien Erstpruefung und Mandatsziel
-- `bietet-fehlerkatalog` — Bietet Fehlerkatalog
-- `bittet-internationaler-bezug-und-schnittstellen` — Bittet Internationaler Bezug und Schnittstellen
-- `dankt-dsgvo-sonderfall-e-mail` — Dankt DSGVO Sonderfall E Mail
-- `dringlichkeitsmarker-einwilligung-hinweis` — Dringlichkeitsmarker Einwilligung Hinweis
-- `dsgvo-sonderfall-und-edge-case` — DSGVO Sonderfall und Edge Case
-- `e-mail-erstantwort-und-terminrouting` — E Mail Erstantwort und Terminrouting
-- `eingehenden-quellenkarte` — Eingehenden Quellenkarte
-- `einwilligung-hinweis-datenschutz` — Einwilligung Hinweis Datenschutz
-- `einwilligungshinweis-fristennotiz-und-naechster-schritt` — Einwilligungshinweis Fristennotiz und Naechster Schritt
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `auftrag-und-adressat-bearbeiten` (Fachthema: anfrage-eingang-parser) — Anfrage Eingang Parser
+- `normstruktur-bearbeiten` (Fachthema: anrede-anwaltskanzleien-bittet) — Anrede Anwaltskanzleien Bittet
+- `normstruktur-bearbeiten` (Fachthema: anrede-uebernehmen) — Anrede Uebernehmen
+- `arbeitsprodukt-bearbeiten` (Fachthema: anwaltskanzleien-erstpruefung-und-mandatsziel) — Anwaltskanzleien Erstpruefung und Mandatsziel
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: bietet-fehlerkatalog) — Bietet Fehlerkatalog
+- `normstruktur-bearbeiten` (Fachthema: bittet-internationaler-bezug-und-schnittstellen) — Bittet Internationaler Bezug und Schnittstellen
+- `subsumtion-und-gegenprobe-bearbeiten` (Fachthema: dankt-dsgvo-sonderfall-e-mail) — Dankt DSGVO Sonderfall E Mail
+- `normstruktur-bearbeiten` (Fachthema: dringlichkeitsmarker-einwilligung-hinweis) — Dringlichkeitsmarker Einwilligung Hinweis
+- `normstruktur-bearbeiten` (Fachthema: dsgvo-sonderfall-und-edge-case) — DSGVO Sonderfall und Edge Case
+- `auftrag-und-adressat-bearbeiten` (Fachthema: e-mail-erstantwort-und-terminrouting) — E Mail Erstantwort und Terminrouting
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: eingehenden-quellenkarte) — Eingehenden Quellenkarte
+- `normstruktur-bearbeiten` (Fachthema: einwilligung-hinweis-datenschutz) — Einwilligung Hinweis Datenschutz
+- `auftrag-und-adressat-bearbeiten` (Fachthema: einwilligungshinweis-fristennotiz-und-naechster-schritt) — Einwilligungshinweis Fristennotiz und Naechster Schritt
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

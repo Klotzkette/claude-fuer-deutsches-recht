@@ -113,7 +113,7 @@
           ]
         }
       ],
-      "target_skill": "oew-006-inhouse-vergabe-pruefen"
+      "target_skill": "beschaffung-konzession-und-vertrag-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -123,7 +123,7 @@
       "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md",
       "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-schnellstart.md",
       "quality/evals/oeffentliches-wirtschaftsrecht.json",
-      "oeffentliches-wirtschaftsrecht/skills/oew-006-inhouse-vergabe-pruefen/SKILL.md"
+      "oeffentliches-wirtschaftsrecht/skills/oew-006-inhouse-vergabe-pruefen/FACHINHALT.md"
     ],
     "opening_change": "Direktauftrag, Betriebsfortführung und Finanzierung als getrennte konkrete Mandate; Ratsvorlage statt gewerberechtlicher Standardkaskade.",
     "norms": [

@@ -171,7 +171,7 @@
           ]
         }
       ],
-      "target_skill": "rueckmeldung-3-monate"
+      "target_skill": "arbeitsprodukt-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -181,8 +181,8 @@
       "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-schnellstart.md",
       "hinweisgeberschutz-compliance/README.md",
       "quality/evals/hinweisgeberschutz-compliance.json",
-      "hinweisgeberschutz-compliance/skills/rueckmeldung-3-monate/SKILL.md",
-      "hinweisgeberschutz-compliance/skills/beweislastumkehr/SKILL.md"
+      "hinweisgeberschutz-compliance/skills/rueckmeldung-3-monate/FACHINHALT.md",
+      "hinweisgeberschutz-compliance/skills/beweislastumkehr/FACHINHALT.md"
     ],
     "opening_change": "Frist und Inhalt einer fälligen Rückmeldung bei noch ungeklärtem Vorwurf, zulässiger Identitätskreis und konkrete Benachteiligung werden unmittelbar als Arbeitsaufgaben benannt.",
     "norms": [

@@ -11,21 +11,21 @@ Dieser Einstieg routet **Patentrecherche** vom ersten Sachverhalt zu Rollen, Fri
 
 ## Fachlandkarte dieses Plugins
 
-- `agentisch-fristen-form-und-zustaendigkeit` — Agentisch Fristen Form und Zustaendigkeit
-- `agentische-datenbank-recherche` — Agentische Datenbank Recherche
-- `depatisnet-verhandlung-vergleich-und-eskalation` — Depatisnet Verhandlung Vergleich und Eskalation
-- `dpmaregister-epue-beweislast-erfinderische` — Dpmaregister Epue Beweislast Erfinderische
-- `epo-opposition-strategie` — EPO Opposition Strategie
-- `epo-quellenkarte` — EPO Quellenkarte
-- `epue-beweislast-und-darlegungslast` — Epue Beweislast und Darlegungslast
-- `erfinderische-sonderfall-und-edge-case` — Erfinderische Sonderfall und Edge Case
-- `erfinderische-taetigkeit-freedom-to-ki-patent` — Erfinderische Taetigkeit Freedom TO KI Patent
-- `espacenet-google-neuheit-red-team-korrektur` — Espacenet Google Neuheit RED Team Korrektur
-- `freedom-to-operate-recherche` — Freedom TO Operate Recherche
-- `google-risikoampel-und-gegenargumente` — Google Risikoampel und Gegenargumente
-- `kaltstart-interview` — Kaltstart Interview
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `verfahren-bearbeiten` (Fachthema: agentisch-fristen-form-und-zustaendigkeit) — Agentisch Fristen Form und Zustaendigkeit
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: agentische-datenbank-recherche) — Agentische Datenbank Recherche
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: depatisnet-verhandlung-vergleich-und-eskalation) — Depatisnet Verhandlung Vergleich und Eskalation
+- `rechtsbestand-bearbeiten` (Fachthema: dpmaregister-epue-beweislast-erfinderische) — Dpmaregister Epue Beweislast Erfinderische
+- `verfahren-bearbeiten` (Fachthema: epo-opposition-strategie) — EPO Opposition Strategie
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: epo-quellenkarte) — EPO Quellenkarte
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: epue-beweislast-und-darlegungslast) — Epue Beweislast und Darlegungslast
+- `rechtsbestand-bearbeiten` (Fachthema: erfinderische-sonderfall-und-edge-case) — Erfinderische Sonderfall und Edge Case
+- `rechtsbestand-bearbeiten` (Fachthema: erfinderische-taetigkeit-freedom-to-ki-patent) — Erfinderische Taetigkeit Freedom TO KI Patent
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: espacenet-google-neuheit-red-team-korrektur) — Espacenet Google Neuheit RED Team Korrektur
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: freedom-to-operate-recherche) — Freedom TO Operate Recherche
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: google-risikoampel-und-gegenargumente) — Google Risikoampel und Gegenargumente
+- `verfahren-bearbeiten` (Fachthema: kaltstart-interview) — Kaltstart Interview
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

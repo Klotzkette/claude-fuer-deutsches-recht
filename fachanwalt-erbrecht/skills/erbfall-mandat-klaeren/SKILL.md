@@ -37,7 +37,7 @@ Nur wenn die primäre Aufgabe unklar bleibt, die [Fachauswahl nach Arbeitsziel](
 
 BGB Paragrafen 1922, 1944, 1980; FamFG Paragraf 343. Berufsrecht nur bei Annahme- oder Interessenkonflikt, Steuerrecht nur bei Erwerbsanzeige prüfen.
 
-Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](../../references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 

@@ -11,21 +11,21 @@ Dieser Einstieg routet **Ki Governance** vom ersten Sachverhalt zu Rollen, Frist
 
 ## Fachlandkarte dieses Plugins
 
-- `anbieter-mehrparteien-konflikt-und-interessen` — Anbieter Mehrparteien Konflikt und Interessen
-- `anpassen` — Anpassen
-- `anschluss-router` — Anschluss Router
-- `anwendungsfall-triage` — Anwendungsfall Triage
-- `case-dpia-drift` — Case Dpia Drift
-- `dpia-risikoampel-und-gegenargumente` — Dpia Risikoampel und Gegenargumente
-- `drift-verhandlung-vergleich-und-eskalation` — Drift Verhandlung Vergleich und Eskalation
-- `dsgvo-governance-inventar` — DSGVO Governance Inventar
-- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
-- `governance-compliance-dokumentation-und-akte` — Governance Compliance Dokumentation und Akte
-- `gpai-modelle-ki-anbieter-arbeitsrecht` — Gpai Modelle KI Anbieter Arbeitsrecht
-- `inventar-dokumentenmatrix-und-lueckenliste` — Inventar Dokumentenmatrix und Lueckenliste
-- `inventar-kontrollen-konformitaetsbewertung` — Inventar Kontrollen Konformitaetsbewertung
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: anbieter-mehrparteien-konflikt-und-interessen) — Anbieter Mehrparteien Konflikt und Interessen
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: anpassen) — Anpassen
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anwendungsfall-triage) — Anwendungsfall Triage
+- `nachweisakte-bearbeiten` (Fachthema: case-dpia-drift) — Case Dpia Drift
+- `risikoklasse-bearbeiten` (Fachthema: dpia-risikoampel-und-gegenargumente) — Dpia Risikoampel und Gegenargumente
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: drift-verhandlung-vergleich-und-eskalation) — Drift Verhandlung Vergleich und Eskalation
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: dsgvo-governance-inventar) — DSGVO Governance Inventar
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fristen-risikoampel-mandantenkommunikation) — Fristen Risikoampel Mandantenkommunikation
+- `nachweisakte-bearbeiten` (Fachthema: governance-compliance-dokumentation-und-akte) — Governance Compliance Dokumentation und Akte
+- `stichtag-bearbeiten` (Fachthema: gpai-modelle-ki-anbieter-arbeitsrecht) — Gpai Modelle KI Anbieter Arbeitsrecht
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: inventar-dokumentenmatrix-und-lueckenliste) — Inventar Dokumentenmatrix und Lueckenliste
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: inventar-kontrollen-konformitaetsbewertung) — Inventar Kontrollen Konformitaetsbewertung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

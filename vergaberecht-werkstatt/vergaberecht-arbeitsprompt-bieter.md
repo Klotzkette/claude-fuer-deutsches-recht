@@ -7,19 +7,19 @@ Wenn Claude-Skills dieses Repos verfügbar sind, zuerst den passenden Skill lade
 | Trigger | Exakter Skill-Slug |
 |---|---|
 | Kaltstart, Unterlagenpaket, Portalexport oder unklare Rolle | `vergabe-os-master-orchestrator` |
-| komplexe Bieterakte, Dashboard, Fristenampel, Belegmatrix oder mehrere Angriffspunkte | `bieter-dashboard-canvas` |
-| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `unterlagen-und-lv-datenformate-auslesen` |
-| SAP, ERP, CRM, HR, AVA, DMS, API, MCP, Systemexport, Datenmapping oder Freeze | `legacy-systeme-integration` |
-| Angebot im geforderten Format liefern oder Angebotsfreeze bilden | `angebot-in-vorgegebenem-format-erstellen` |
-| nicht niedrigster Preis, aber bestes Angebot | `qualitaetsvorsprung-nachweisen` |
-| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Herkunftsquote oder Artikel 25 Verordnung EU 2024/1735 | `netto-null-technologien-vergabe` |
-| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `bieterfragen-antworten-management` |
-| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `21-ruegeschreiben-erstellen` |
-| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `nachpruefungsantrag-powerdraft` |
-| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `vergabekammer-verhandlung-vergleich-und-eskalation` |
-| Ausschluss, Eignung, Nachforderung, Steuer-/Sozialabgaben oder Selbstreinigung | `eignungspruefung` |
-| Bundestariftreue, BTTG, Tariftreueversprechen, Lohnkalkulation oder Nachunternehmerkette | `09-angebotskalkulation-stueckpreise` |
-| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `08-bietergemeinschaft-bildung` |
+| komplexe Bieterakte, Dashboard, Fristenampel, Belegmatrix oder mehrere Angriffspunkte | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` |
+| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` |
+| SAP, ERP, CRM, HR, AVA, DMS, API, MCP, Systemexport, Datenmapping oder Freeze | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| Angebot im geforderten Format liefern oder Angebotsfreeze bilden | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` |
+| nicht niedrigster Preis, aber bestes Angebot | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` |
+| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Herkunftsquote oder Artikel 25 Verordnung EU 2024/1735 | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
+| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` |
+| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` |
+| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` |
+| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: vergabekammer-verhandlung-vergleich-und-eskalation` |
+| Ausschluss, Eignung, Nachforderung, Steuer-/Sozialabgaben oder Selbstreinigung | `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung` |
+| Bundestariftreue, BTTG, Tariftreueversprechen, Lohnkalkulation oder Nachunternehmerkette | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise` |
+| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung` |
 
 ## Null-Konfigurations-Start
 
@@ -100,7 +100,7 @@ Jede Rüge, jedes Angebot und jede VK-Vorlage muss aus Tatsachenmerkmal, Norm, R
 | Bietergemeinschaft mit Problemmitglied | Schlussanträge GA Kokott 07.05.2026, C-268/25, ECLI:EU:C:2026:382; nur Schlussanträge | Welches Mitglied ist betroffen, wann war Kenntnis möglich, ist Austausch/Ausschluss ohne wesentliche Angebotsänderung möglich? | BG-Krisenpfad mit Steuer-/Sozialabgabenstatus, Austauschoption und Angebotsidentität |
 | Ausschluss/Nachforderung/Selbstreinigung | EuGH 24.10.2018, C-124/17, Vossloh Laeis; EuGH 10.10.2013, C-336/12, Manova | Ist der Mangel nachforderbar, nur unternehmensbezogen oder leistungsbezogen? Sind Schadensausgleich, Aufklärung und Maßnahmen belegt? | Antwortentwurf mit Nachweismatrix und Selbstreinigungsdossier |
 | Registerbuße und Ausschluss | EuGH 22.01.2026, C-590/24, AK Dlhopolec u. a., ECLI:EU:C:2026:41 | Ist die Geldbuße individualisiert; welche gesonderte Norm trägt Register und Ausschluss? Die Vergabeausschlussfragen waren unzulässig. | Verteidigungsmatrix zu Bescheid, Bestandskraft, Register, Ausschluss und Verhältnismäßigkeit; keine Ausschlussfreiheit aus C-590/24 |
-| Bundeswehrbeschaffung | `bundeswehrbeschaffung-bwbbg-2026`; §§ 1 bis 19 BwBBG, seit 14.02.2026; § 11, § 15 Abs. 2 und § 19 | Greifen Bedarf, Auftraggeber, Schwelle und Übergang; ist der Bieter zugangs- und antragsberechtigt; sind Finanzierung, Nachforderung und Vorab-Rüge gesichert? | Teilnahme-/Herkunftsmatrix, Angebots- und Rügepaket, VK-Bund-/OLG-Reserve; keinen Inhalt des fehlenden § 15 Abs. 7 erfinden |
+| Bundeswehrbeschaffung | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026`; §§ 1 bis 19 BwBBG, seit 14.02.2026; § 11, § 15 Abs. 2 und § 19 | Greifen Bedarf, Auftraggeber, Schwelle und Übergang; ist der Bieter zugangs- und antragsberechtigt; sind Finanzierung, Nachforderung und Vorab-Rüge gesichert? | Teilnahme-/Herkunftsmatrix, Angebots- und Rügepaket, VK-Bund-/OLG-Reserve; keinen Inhalt des fehlenden § 15 Abs. 7 erfinden |
 | Bundestariftreue | §§ 1, 3, 5, 9, 11, 14, 16 BTTG; § 160 Abs. 2 Satz 2 GWB | Greift der §-1-Regelbereich für Bundes-Bau/Dienstleistung/Konzession ab 50.000 Euro netto; ist § 16 einschlägig; welche §-5-Verordnung gilt; wird § 14 außerhalb der §-1-Regelgrenzen nur bei unanfechtbarer §-13-Feststellung angewandt; soll Verordnungsunwirksamkeit ohne rechtskräftigen §-98-Abs.-4-ArbGG-Beschluss gerügt werden? | Kalkulations-, Nachunternehmer- und Rechtsschutzmatrix; keine fiktiven Tarifwerte, reine Lieferaufträge nur aus dem §-1-Regelbereich nehmen |
 | Nichtabhilfe, § 134 GWB, VK/OLG | EuGH C-100/12, Fastweb; EuGH C-689/13, PFE; EuGH C-497/20, Randstad Italia | Besteht eigenes Auftragsinteresse, bieterschützender Fehler, Schaden, Rügefrist und konkrete Zuschlagschance? | VK-Antragsgerüst mit Zulässigkeitsdreieck, Belegen, Akteneinsicht und Kostenblick |
 

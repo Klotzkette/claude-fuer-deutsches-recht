@@ -196,7 +196,7 @@
       "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
       "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md",
       "fachanwalt-migrationsrecht/skills/juristischer-argumentationskern/SKILL.md",
-      "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md",
+      "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/FACHINHALT.md",
       "quality/evals/fachanwalt-migrationsrecht.json"
     ],
     "opening_change": "Aufenthalts- und Schutzbegehren aus Titeln und Bescheiden prüfen; Hauptproblem auf nachhaltige Haushaltsdeckung und konkrete Behördenabzüge ausgerichtet. Workflow-Ergänzung: Leer: Aufenthaltstitel, Familiennachzug oder Schutzverfahren anbieten. Dateien ohne Aufgabe: Bescheid, Antrag und Haushaltsbelege still lesen; Titel-, Nachweis- oder Rechtsschutzziel klären. Klarer Auftrag: Ergänzung oder Rechtsbehelf direkt ausarbeiten; Frist und Vollzug bei Eile vor Vollständigkeit der Finanzrechnung sichern.",
@@ -242,8 +242,8 @@
         "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
         "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
         "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md",
-        "fachanwalt-migrationsrecht/skills/passbeschaffung-zumutbarkeit/SKILL.md",
-        "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md"
+        "fachanwalt-migrationsrecht/skills/passbeschaffung-zumutbarkeit/FACHINHALT.md",
+        "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/FACHINHALT.md"
       ],
       "result": "Familienbedarf, ausländische Flüchtlingsanerkennung und Passersatzmitwirkung bleiben getrennte Fallgruppen. Der Titel-Ausschluss ist präzise auf § 25 Absatz 2 Satz 1 Alternative 1 begrenzt; Vorprüfung vom 30.09.2026 wiederverwendet.",
       "search_2026": "Die gezielte Suche bestätigte die bereits am 30.09.2026 geprüften 1 C 6.25 und 1 C 27.25; keine zusätzliche neue Entscheidung eingebaut.",

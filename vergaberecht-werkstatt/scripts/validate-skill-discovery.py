@@ -108,6 +108,13 @@ BODY_SPELLED_PARAGRAPH_RE = re.compile(
     r"\b(?:Paragraf(?:en)?|Paragraph(?:en)?)(?:\s+|-)\d",
     re.IGNORECASE,
 )
+
+
+def visible_body_norm_text(body: str) -> str:
+    """Normschreibweise im sichtbaren Text prüfen, nicht in stabilen Dateislugs."""
+    text = re.sub(r"`[^`\n]+`", "", body)
+    return re.sub(r"\]\([^\n)]*\)", "]()", text)
+
 ROUTING_COLUMN_MARKERS = ("skill", "modul", "routing", "arbeitsweg", "fachpfad")
 BACKTICK_SLUG_RE = re.compile(r"`([a-z0-9][a-z0-9-]{2,80})`")
 MAX_SKILL_LINES = 500
@@ -310,8 +317,7 @@ def main() -> int:
                         f"{path.relative_to(ROOT)}: rollensachfremde Phrase '{phrase}'"
                     )
 
-            body_without_inline_code = re.sub(r"`[^`\n]+`", "", body)
-            if BODY_SPELLED_PARAGRAPH_RE.search(body_without_inline_code):
+            if BODY_SPELLED_PARAGRAPH_RE.search(visible_body_norm_text(body)):
                 errors.append(
                     f"{path.relative_to(ROOT)}: Normzitat im Body ausschreiben; dort § oder §§ verwenden"
                 )

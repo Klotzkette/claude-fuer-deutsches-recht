@@ -1,6 +1,6 @@
 # mandantenkommunikation/ — fallbezogene Kommunikationsprotokolle
 
-Ein Ordner pro Fall. Darin ein fortlaufendes `log.md`, das jeden Mandantenkontakt dokumentiert — eingehend und ausgehend, per Telefon, E-Mail, Textnachricht, Brief und persönlichem Gespräch. Erstellt und fortgeschrieben durch `/rechtsberatungsstelle:mandanten-kommunikations-log`.
+Ein Ordner pro Fall. Darin ein fortlaufendes `log.md`, das jeden Mandantenkontakt dokumentiert — eingehend und ausgehend, per Telefon, E-Mail, Textnachricht, Brief und persönlichem Gespräch. Erstellt und fortgeschrieben durch `/rechtsberatungsstelle:arbeitsprodukt-bearbeiten Thema: mandanten-kommunikations-log`.
 
 ## Verzeichnisstruktur
 

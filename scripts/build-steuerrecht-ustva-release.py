@@ -15,11 +15,14 @@ import sys
 from zipfile import ZipFile, ZipInfo, ZIP_DEFLATED
 
 from testakte_disclaimer import NOTICE_BYTES
+from skill_sources import fachinhalt_path
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = 'steuerrecht-anwalt-und-berater'
 VERSION = '445.35.5'
 TAG = 'steuerrecht-ustva-v' + VERSION
+# Historische Komponente: Ein späteres Pluginmanifest muss unten weiterhin
+# abgewiesen werden. Neue Fassungen veröffentlicht der jeweils eigene Releaseweg.
 CASE = ROOT / 'quality/steuerrecht-freiburg/tomasius-solo'
 BASE_NAME = 'Testakte_Tomasius_Lebenswelt_2025_v2.zip'
 BASE_SHA256 = '98374e09994c8dfe3cde62f0c619d425db6cef552a1ce646de4d9a1d83929ffb'
@@ -89,6 +92,9 @@ def build(dist):
     if dist.exists() and any(dist.iterdir()):
         raise ValueError('Ein leeres Ausgabeziel ist erforderlich')
     dist.mkdir(parents=True, exist_ok=True)
+    manifest = json.loads((ROOT / PLUGIN / '.claude-plugin/plugin.json').read_text())
+    if (manifest['name'], manifest['version']) != (PLUGIN, VERSION):
+        raise ValueError('Das Pluginmanifest hat eine abweichende Identität')
     package = module('build-compatibility-release')
     files = package.sources(ROOT, ROOT / PLUGIN)
     manifest = json.loads(files['.claude-plugin/plugin.json'].read_text())
@@ -106,7 +112,7 @@ def build(dist):
         f'{PLUGIN}-hauptproblem.md': ROOT / PLUGIN / f'{PLUGIN}-hauptproblem.md',
         'UStVA_Werkstatt.md': ROOT / PLUGIN / 'ustva/werkstatt.md',
         'UStVA_Mini.md': ROOT / PLUGIN / 'ustva/mini.md',
-        'UStVA_Skill.md': ROOT / PLUGIN / 'skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md',
+        'UStVA_Skill.md': fachinhalt_path(ROOT / PLUGIN / 'skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md'),
         f'{PLUGIN}-master-prompt.md': ROOT / 'testakten/megaprompts' / f'{PLUGIN}.md',
     }
     for name, source in prompts.items():

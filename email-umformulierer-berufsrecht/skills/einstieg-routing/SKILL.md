@@ -11,21 +11,21 @@ Dieser Einstieg routet **Email Umformulierer Berufsrecht** vom ersten Sachverhal
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemeine-sonderfall-edge-case` — Allgemeine Sonderfall Edge Case
-- `anrede-und-grussformeln` — Anrede und Grussformeln
-- `berufliche-fristennotiz-emotionale` — Berufliche Fristennotiz Emotionale
-- `berufliche-fristennotiz-naechster-schritt` — Berufliche Fristennotiz Naechster Schritt
-- `berufsrechtskonform-verhandlung-vergleich-und-eskalation` — Berufsrechtskonform Verhandlung Vergleich und Eskalation
-- `bora-internationaler-bezug-und-schnittstellen` — BORA Internationaler Bezug und Schnittstellen
-- `bora-konformitaetspruefung` — BORA Konformitaetspruefung
-- `bora-konformitaetspruefung-brao-email` — BORA Konformitaetspruefung BRAO Email
-- `brao-interessen-fokus-formuliert` — BRAO Interessen Fokus Formuliert
-- `brao-konformitaetspruefung` — BRAO Konformitaetspruefung
-- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
-- `edge-case-verhandlung-bora-international` — Edge Case Verhandlung BORA International
-- `email-berufsrecht-berufliche-korrespondenz` — Email Berufsrecht Berufliche Korrespondenz
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `varianten-endfassung-bearbeiten` (Fachthema: allgemeine-sonderfall-edge-case) — Allgemeine Sonderfall Edge Case
+- `adressat-sprachfassung-bearbeiten` (Fachthema: anrede-und-grussformeln) — Anrede und Grussformeln
+- `frist-forderung-bitte-bearbeiten` (Fachthema: berufliche-fristennotiz-emotionale) — Berufliche Fristennotiz Emotionale
+- `frist-forderung-bitte-bearbeiten` (Fachthema: berufliche-fristennotiz-naechster-schritt) — Berufliche Fristennotiz Naechster Schritt
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: berufsrechtskonform-verhandlung-vergleich-und-eskalation) — Berufsrechtskonform Verhandlung Vergleich und Eskalation
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: bora-internationaler-bezug-und-schnittstellen) — BORA Internationaler Bezug und Schnittstellen
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: bora-konformitaetspruefung) — BORA Konformitaetspruefung
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: bora-konformitaetspruefung-brao-email) — BORA Konformitaetspruefung BRAO Email
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: brao-interessen-fokus-formuliert) — BRAO Interessen Fokus Formuliert
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: brao-konformitaetspruefung) — BRAO Konformitaetspruefung
+- `ausgangsmail-auftrag-bearbeiten` (Fachthema: chronologie-und-belegmatrix) — Chronologie und Belegmatrix
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: edge-case-verhandlung-bora-international) — Edge Case Verhandlung BORA International
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: email-berufsrecht-berufliche-korrespondenz) — Email Berufsrecht Berufliche Korrespondenz
+- `ausgangsmail-auftrag-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `ausgangsmail-auftrag-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

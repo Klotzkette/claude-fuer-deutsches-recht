@@ -1,0 +1,934 @@
+{
+  "schema_version": 1,
+  "scope": "Nur vorhandene zentrale Belege und eigenständige Prompt-Downloads verlinken; keine fachliche Neubewertung",
+  "source_map_before_sha256": "c1888f93384e42eb8ef25a2cdfa90a798d158ac277c524ec49c813b1654d5d57",
+  "checked_plugins": [
+    {
+      "name": "agb-recht-pruefer",
+      "source": "agb-recht-pruefer"
+    },
+    {
+      "name": "aktenaufbereiter-strafrecht",
+      "source": "aktenaufbereiter-strafrecht"
+    },
+    {
+      "name": "aktenauszug-gerichtsverfahren",
+      "source": "aktenauszug-gerichtsverfahren"
+    },
+    {
+      "name": "aktienrecht-hauptversammlung-ag-se",
+      "source": "aktienrecht-hauptversammlung-ag-se"
+    },
+    {
+      "name": "anlagen-zu-schriftsaetzen",
+      "source": "anlagen-zu-schriftsaetzen"
+    },
+    {
+      "name": "apothekenrecht",
+      "source": "apothekenrecht"
+    },
+    {
+      "name": "arbeitsrecht",
+      "source": "arbeitsrecht"
+    },
+    {
+      "name": "arbeitszeugnis-analyse",
+      "source": "arbeitszeugnis-analyse"
+    },
+    {
+      "name": "arbeitszeugnispruefer",
+      "source": "arbeitszeugnispruefer"
+    },
+    {
+      "name": "aufsichtsrat-ag-se-praxis",
+      "source": "aufsichtsrat-ag-se-praxis"
+    },
+    {
+      "name": "aussenwirtschaft-zoll-sanktionen",
+      "source": "aussenwirtschaft-zoll-sanktionen"
+    },
+    {
+      "name": "bank-rechtsabteilung",
+      "source": "bank-rechtsabteilung"
+    },
+    {
+      "name": "barrierefreiheit-web-checker",
+      "source": "barrierefreiheit-web-checker"
+    },
+    {
+      "name": "bautraegervertrag-pruefer",
+      "source": "bautraegervertrag-pruefer"
+    },
+    {
+      "name": "bautraegervertragspruefer",
+      "source": "bautraegervertragspruefer"
+    },
+    {
+      "name": "bauwirtschaft",
+      "source": "bauwirtschaft"
+    },
+    {
+      "name": "bav-strategie-konzern",
+      "source": "bav-strategie-konzern"
+    },
+    {
+      "name": "beamtenrecht",
+      "source": "beamtenrecht"
+    },
+    {
+      "name": "bereicherungs-und-anfechtungsrecht-pruefer",
+      "source": "bereicherungs-und-anfechtungsrecht-pruefer"
+    },
+    {
+      "name": "berichtspflichten-erlediger",
+      "source": "berichtspflichten-erlediger"
+    },
+    {
+      "name": "berufsgerichtliche-verfahren-freie-berufe",
+      "source": "berufsgerichtliche-verfahren-freie-berufe"
+    },
+    {
+      "name": "berufsrecht-anwaelte",
+      "source": "berufsrecht-anwaelte"
+    },
+    {
+      "name": "berufsrecht-ki-vertragspruefung",
+      "source": "berufsrecht-ki-vertragspruefung"
+    },
+    {
+      "name": "berufsrecht-notare",
+      "source": "berufsrecht-notare"
+    },
+    {
+      "name": "berufsrecht-patentanwaelte",
+      "source": "berufsrecht-patentanwaelte"
+    },
+    {
+      "name": "berufsrecht-steuerberater",
+      "source": "berufsrecht-steuerberater"
+    },
+    {
+      "name": "berufsrecht-wirtschaftspruefer",
+      "source": "berufsrecht-wirtschaftspruefer"
+    },
+    {
+      "name": "betaeubungsmittelrecht",
+      "source": "betaeubungsmittelrecht"
+    },
+    {
+      "name": "betreuungsrecht",
+      "source": "betreuungsrecht"
+    },
+    {
+      "name": "bgb-at-pruefer",
+      "source": "bgb-at-pruefer"
+    },
+    {
+      "name": "bgb-bt-pruefer",
+      "source": "bgb-bt-pruefer"
+    },
+    {
+      "name": "bieter-unternehmen",
+      "source": "vergaberecht-werkstatt/bieter-unternehmen"
+    },
+    {
+      "name": "buerokratieversteher-entbuerokratisierer",
+      "source": "buerokratieversteher-entbuerokratisierer"
+    },
+    {
+      "name": "bundesnetzagentur-verfahren",
+      "source": "bundesnetzagentur-verfahren"
+    },
+    {
+      "name": "bundeswehrrecht-wehrrecht",
+      "source": "bundeswehrrecht-wehrrecht"
+    },
+    {
+      "name": "commercial-courts-deutschland",
+      "source": "commercial-courts-deutschland"
+    },
+    {
+      "name": "common-law-kompass",
+      "source": "common-law-kompass"
+    },
+    {
+      "name": "corporate-kanzlei",
+      "source": "corporate-kanzlei"
+    },
+    {
+      "name": "datenbankrecht",
+      "source": "datenbankrecht"
+    },
+    {
+      "name": "datenschutz-sanktionsverfahren-verteidigung",
+      "source": "datenschutz-sanktionsverfahren-verteidigung"
+    },
+    {
+      "name": "datenschutzrecht",
+      "source": "datenschutzrecht"
+    },
+    {
+      "name": "denkmalschutzrecht",
+      "source": "denkmalschutzrecht"
+    },
+    {
+      "name": "designrecht-geschmacksmusterrecht",
+      "source": "designrecht-geschmacksmusterrecht"
+    },
+    {
+      "name": "deutsche-rechtsgeschichte",
+      "source": "deutsche-rechtsgeschichte"
+    },
+    {
+      "name": "dfg-foerderantrag",
+      "source": "dfg-foerderantrag"
+    },
+    {
+      "name": "diesel-schadensersatz",
+      "source": "diesel-schadensersatz"
+    },
+    {
+      "name": "dsa-dma-digitalregulierung",
+      "source": "dsa-dma-digitalregulierung"
+    },
+    {
+      "name": "ecommerce-recht",
+      "source": "ecommerce-recht"
+    },
+    {
+      "name": "einfache-leichte-sprache-jura",
+      "source": "einfache-leichte-sprache-jura"
+    },
+    {
+      "name": "einigungsvertrag-vermoegensrecht",
+      "source": "einigungsvertrag-vermoegensrecht"
+    },
+    {
+      "name": "email-umformulierer-berufsrecht",
+      "source": "email-umformulierer-berufsrecht"
+    },
+    {
+      "name": "energierecht",
+      "source": "energierecht"
+    },
+    {
+      "name": "erbbaurecht-praxis",
+      "source": "erbbaurecht-praxis"
+    },
+    {
+      "name": "europaeisches-prozessrecht",
+      "source": "europaeisches-prozessrecht"
+    },
+    {
+      "name": "europarecht-kompass",
+      "source": "europarecht-kompass"
+    },
+    {
+      "name": "fachanwalt-agrarrecht",
+      "source": "fachanwalt-agrarrecht"
+    },
+    {
+      "name": "fachanwalt-arbeitsrecht",
+      "source": "fachanwalt-arbeitsrecht"
+    },
+    {
+      "name": "fachanwalt-bank-kapitalmarktrecht",
+      "source": "fachanwalt-bank-kapitalmarktrecht"
+    },
+    {
+      "name": "fachanwalt-bau-architektenrecht",
+      "source": "fachanwalt-bau-architektenrecht"
+    },
+    {
+      "name": "fachanwalt-erbrecht",
+      "source": "fachanwalt-erbrecht"
+    },
+    {
+      "name": "fachanwalt-familienrecht",
+      "source": "fachanwalt-familienrecht"
+    },
+    {
+      "name": "fachanwalt-gewerblicher-rechtsschutz",
+      "source": "fachanwalt-gewerblicher-rechtsschutz"
+    },
+    {
+      "name": "fachanwalt-handels-gesellschaftsrecht",
+      "source": "fachanwalt-handels-gesellschaftsrecht"
+    },
+    {
+      "name": "fachanwalt-insolvenz-sanierungsrecht",
+      "source": "fachanwalt-insolvenz-sanierungsrecht"
+    },
+    {
+      "name": "fachanwalt-internationales-wirtschaftsrecht",
+      "source": "fachanwalt-internationales-wirtschaftsrecht"
+    },
+    {
+      "name": "fachanwalt-it-recht",
+      "source": "fachanwalt-it-recht"
+    },
+    {
+      "name": "fachanwalt-medizinrecht",
+      "source": "fachanwalt-medizinrecht"
+    },
+    {
+      "name": "fachanwalt-miet-wohnungseigentumsrecht",
+      "source": "fachanwalt-miet-wohnungseigentumsrecht"
+    },
+    {
+      "name": "fachanwalt-migrationsrecht",
+      "source": "fachanwalt-migrationsrecht"
+    },
+    {
+      "name": "fachanwalt-sozialrecht",
+      "source": "fachanwalt-sozialrecht"
+    },
+    {
+      "name": "fachanwalt-sportrecht",
+      "source": "fachanwalt-sportrecht"
+    },
+    {
+      "name": "fachanwalt-strafrecht",
+      "source": "fachanwalt-strafrecht"
+    },
+    {
+      "name": "fachanwalt-transport-speditionsrecht",
+      "source": "fachanwalt-transport-speditionsrecht"
+    },
+    {
+      "name": "fachanwalt-urheber-medienrecht",
+      "source": "fachanwalt-urheber-medienrecht"
+    },
+    {
+      "name": "fachanwalt-vergaberecht",
+      "source": "fachanwalt-vergaberecht"
+    },
+    {
+      "name": "fachanwalt-verkehrsrecht",
+      "source": "fachanwalt-verkehrsrecht"
+    },
+    {
+      "name": "fachanwalt-versicherungsrecht",
+      "source": "fachanwalt-versicherungsrecht"
+    },
+    {
+      "name": "fachanwalt-verwaltungsrecht",
+      "source": "fachanwalt-verwaltungsrecht"
+    },
+    {
+      "name": "factoring-recht",
+      "source": "factoring-recht"
+    },
+    {
+      "name": "fashion-law-moderecht",
+      "source": "fashion-law-moderecht"
+    },
+    {
+      "name": "festlandchina-wirtschaftsverkehr",
+      "source": "festlandchina-wirtschaftsverkehr"
+    },
+    {
+      "name": "fluggastrechte",
+      "source": "fluggastrechte"
+    },
+    {
+      "name": "forderungsmanagement-klagewerkstatt",
+      "source": "forderungsmanagement-klagewerkstatt"
+    },
+    {
+      "name": "forschungszulage-antragstellung",
+      "source": "forschungszulage-antragstellung"
+    },
+    {
+      "name": "fortbestehensprognose",
+      "source": "fortbestehensprognose"
+    },
+    {
+      "name": "franchiserecht-praxis",
+      "source": "franchiserecht-praxis"
+    },
+    {
+      "name": "gebrauchsmusterrecht",
+      "source": "gebrauchsmusterrecht"
+    },
+    {
+      "name": "gesellschaftsgruender",
+      "source": "gesellschaftsgruender"
+    },
+    {
+      "name": "gesellschaftsrecht",
+      "source": "gesellschaftsrecht"
+    },
+    {
+      "name": "gesellschaftsrecht-legal-english",
+      "source": "gesellschaftsrecht-legal-english"
+    },
+    {
+      "name": "gesellschaftsrechtliche-treuepflicht",
+      "source": "gesellschaftsrechtliche-treuepflicht"
+    },
+    {
+      "name": "gewerblicher-rechtsschutz",
+      "source": "gewerblicher-rechtsschutz"
+    },
+    {
+      "name": "goae-gebuehrenordnung-aerzte",
+      "source": "goae-gebuehrenordnung-aerzte"
+    },
+    {
+      "name": "grosskanzlei-corporate-ma",
+      "source": "grosskanzlei-corporate-ma"
+    },
+    {
+      "name": "grundbuchamt-praxis",
+      "source": "grundbuchamt-praxis"
+    },
+    {
+      "name": "handelsrecht-hgb",
+      "source": "handelsrecht-hgb"
+    },
+    {
+      "name": "handelsregister-praxis",
+      "source": "handelsregister-praxis"
+    },
+    {
+      "name": "handelsvertreterrecht",
+      "source": "handelsvertreterrecht"
+    },
+    {
+      "name": "hausarbeitenmacher",
+      "source": "hausarbeitenmacher"
+    },
+    {
+      "name": "haushaltsrecht-bho-bund-laender",
+      "source": "haushaltsrecht-bho-bund-laender"
+    },
+    {
+      "name": "hinweisgeberschutz-compliance",
+      "source": "hinweisgeberschutz-compliance"
+    },
+    {
+      "name": "hoai-leistungsphasen-praxis",
+      "source": "hoai-leistungsphasen-praxis"
+    },
+    {
+      "name": "hochschulrecht-laender",
+      "source": "hochschulrecht-laender"
+    },
+    {
+      "name": "immobilienrechtspraxis",
+      "source": "immobilienrechtspraxis"
+    },
+    {
+      "name": "influencer-recht",
+      "source": "influencer-recht"
+    },
+    {
+      "name": "informationsfreiheit-presseauskunft",
+      "source": "informationsfreiheit-presseauskunft"
+    },
+    {
+      "name": "insiderrecht-compliance",
+      "source": "insiderrecht-compliance"
+    },
+    {
+      "name": "insolvenzforderungsanmeldungspruefung",
+      "source": "insolvenzforderungsanmeldungspruefung"
+    },
+    {
+      "name": "insolvenzplan-starug-planwerkstatt",
+      "source": "insolvenzplan-starug-planwerkstatt"
+    },
+    {
+      "name": "insolvenzrecht",
+      "source": "insolvenzrecht"
+    },
+    {
+      "name": "insolvenzverwaltung",
+      "source": "insolvenzverwaltung"
+    },
+    {
+      "name": "internal-investigations-praxis",
+      "source": "internal-investigations-praxis"
+    },
+    {
+      "name": "internationales-handelsrecht-lex-mercatoria",
+      "source": "internationales-handelsrecht-lex-mercatoria"
+    },
+    {
+      "name": "jurastudium",
+      "source": "jurastudium"
+    },
+    {
+      "name": "juristische-presseberichterstattung",
+      "source": "juristische-presseberichterstattung"
+    },
+    {
+      "name": "juristische-sprache-deutsch-als-zweitsprache",
+      "source": "juristische-sprache-deutsch-als-zweitsprache"
+    },
+    {
+      "name": "jveg-kostenpruefer",
+      "source": "jveg-kostenpruefer"
+    },
+    {
+      "name": "kanzlei-allgemein",
+      "source": "kanzlei-allgemein"
+    },
+    {
+      "name": "kanzlei-builder-hub",
+      "source": "kanzlei-builder-hub"
+    },
+    {
+      "name": "kanzlei-management",
+      "source": "kanzlei-management"
+    },
+    {
+      "name": "kanzlei-mandant-lifecycle",
+      "source": "kanzlei-mandant-lifecycle"
+    },
+    {
+      "name": "kartellrecht-marktabgrenzung-pruefung",
+      "source": "kartellrecht-marktabgrenzung-pruefung"
+    },
+    {
+      "name": "ki-governance",
+      "source": "ki-governance"
+    },
+    {
+      "name": "ki-native-kanzlei",
+      "source": "ki-native-kanzlei"
+    },
+    {
+      "name": "ki-richtlinie-kanzleien",
+      "source": "ki-richtlinie-kanzleien"
+    },
+    {
+      "name": "ki-vo-ai-act-pruefer",
+      "source": "ki-vo-ai-act-pruefer"
+    },
+    {
+      "name": "kommunalrecht-laender",
+      "source": "kommunalrecht-laender"
+    },
+    {
+      "name": "krankenhausrecht",
+      "source": "krankenhausrecht"
+    },
+    {
+      "name": "krankenkassenrecht-krankenversicherung",
+      "source": "krankenkassenrecht-krankenversicherung"
+    },
+    {
+      "name": "kriegsdienstverweigerung-wehrdienst",
+      "source": "kriegsdienstverweigerung-wehrdienst"
+    },
+    {
+      "name": "krisenfrueherkennung-starug",
+      "source": "krisenfrueherkennung-starug"
+    },
+    {
+      "name": "leasingrecht-praxis",
+      "source": "leasingrecht-praxis"
+    },
+    {
+      "name": "legistik-werkstatt",
+      "source": "legistik-werkstatt"
+    },
+    {
+      "name": "liquiditaetsplanung",
+      "source": "liquiditaetsplanung"
+    },
+    {
+      "name": "lizenzvertragsersteller",
+      "source": "lizenzvertragsersteller"
+    },
+    {
+      "name": "lobbyregister-bundestag",
+      "source": "lobbyregister-bundestag"
+    },
+    {
+      "name": "luftrecht-flughafenrecht",
+      "source": "luftrecht-flughafenrecht"
+    },
+    {
+      "name": "mandantenanfragen-assistent",
+      "source": "mandantenanfragen-assistent"
+    },
+    {
+      "name": "markenrecht-fashion-luxus",
+      "source": "markenrecht-fashion-luxus"
+    },
+    {
+      "name": "meinungspruefer",
+      "source": "meinungspruefer"
+    },
+    {
+      "name": "memorandums-ersteller",
+      "source": "memorandums-ersteller"
+    },
+    {
+      "name": "methodenlehre-buergerliches-recht",
+      "source": "methodenlehre-buergerliches-recht"
+    },
+    {
+      "name": "mietrecht",
+      "source": "mietrecht"
+    },
+    {
+      "name": "mittelstand-corporate-ma",
+      "source": "mittelstand-corporate-ma"
+    },
+    {
+      "name": "nachbarschaftsstreit-pruefer",
+      "source": "nachbarschaftsstreit-pruefer"
+    },
+    {
+      "name": "nda-abgleich",
+      "source": "nda-abgleich"
+    },
+    {
+      "name": "nda-verschwiegenheit-generator-checker",
+      "source": "nda-verschwiegenheit-generator-checker"
+    },
+    {
+      "name": "nis2-cybersecurity-compliance",
+      "source": "nis2-cybersecurity-compliance"
+    },
+    {
+      "name": "normenkontrolle-bauleitplanung",
+      "source": "normenkontrolle-bauleitplanung"
+    },
+    {
+      "name": "normenkontrollrat-nkr",
+      "source": "normenkontrollrat-nkr"
+    },
+    {
+      "name": "oeffentliches-wirtschaftsrecht",
+      "source": "oeffentliches-wirtschaftsrecht"
+    },
+    {
+      "name": "ordnungswidrigkeitenrecht",
+      "source": "ordnungswidrigkeitenrecht"
+    },
+    {
+      "name": "parteienrecht-parteiorganisation",
+      "source": "parteienrecht-parteiorganisation"
+    },
+    {
+      "name": "patentrecherche",
+      "source": "patentrecherche"
+    },
+    {
+      "name": "patentrecht",
+      "source": "patentrecht"
+    },
+    {
+      "name": "phishing-vorfall-pruefer",
+      "source": "phishing-vorfall-pruefer"
+    },
+    {
+      "name": "preussisches-allgemeines-landrecht-pralr",
+      "source": "preussisches-allgemeines-landrecht-pralr"
+    },
+    {
+      "name": "private-equity-praxis",
+      "source": "private-equity-praxis"
+    },
+    {
+      "name": "produktrecht",
+      "source": "produktrecht"
+    },
+    {
+      "name": "prozessrecht",
+      "source": "prozessrecht"
+    },
+    {
+      "name": "pruefungsrecht-hochschule",
+      "source": "pruefungsrecht-hochschule"
+    },
+    {
+      "name": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+      "source": "rechtsabteilung-forderungsmanagement-immobilienunternehmen"
+    },
+    {
+      "name": "rechtsberatungsstelle",
+      "source": "rechtsberatungsstelle"
+    },
+    {
+      "name": "rechtstheorie-rechtsphilosophie",
+      "source": "rechtstheorie-rechtsphilosophie"
+    },
+    {
+      "name": "regulatorisches-recht",
+      "source": "regulatorisches-recht"
+    },
+    {
+      "name": "relationstechnik-zivilrecht",
+      "source": "gerichtsplugins/relationstechnik-zivilrecht"
+    },
+    {
+      "name": "rentenpruefer",
+      "source": "rentenpruefer"
+    },
+    {
+      "name": "robotik-recht",
+      "source": "robotik-recht"
+    },
+    {
+      "name": "roemisch-katholisches-kirchenrecht",
+      "source": "roemisch-katholisches-kirchenrecht"
+    },
+    {
+      "name": "roemisches-recht",
+      "source": "roemisches-recht"
+    },
+    {
+      "name": "schoeffen-handelsrichter-praxis",
+      "source": "schoeffen-handelsrichter-praxis"
+    },
+    {
+      "name": "schriftform-und-textform-bgb",
+      "source": "schriftform-und-textform-bgb"
+    },
+    {
+      "name": "schulrecht-laender",
+      "source": "schulrecht-laender"
+    },
+    {
+      "name": "seerecht-schifffahrtsrecht",
+      "source": "seerecht-schifffahrtsrecht"
+    },
+    {
+      "name": "selbstvertreter-amtsgericht",
+      "source": "selbstvertreter-amtsgericht"
+    },
+    {
+      "name": "selbstvertreter-sozialgericht",
+      "source": "selbstvertreter-sozialgericht"
+    },
+    {
+      "name": "softwarerecht-de-eu-us",
+      "source": "softwarerecht-de-eu-us"
+    },
+    {
+      "name": "solo-selbststaendige-praxis",
+      "source": "solo-selbststaendige-praxis"
+    },
+    {
+      "name": "sozialversicherungsstatus-pruefer",
+      "source": "sozialversicherungsstatus-pruefer"
+    },
+    {
+      "name": "staatsanwaltschaft-amtsanwaltschaft",
+      "source": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft"
+    },
+    {
+      "name": "staatsanwaltschaft-praxis-einstieg",
+      "source": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg"
+    },
+    {
+      "name": "startup-hr-personalabteilung-berlin",
+      "source": "startup-hr-personalabteilung-berlin"
+    },
+    {
+      "name": "status-navigator-step-plan",
+      "source": "status-navigator-step-plan"
+    },
+    {
+      "name": "steuerrecht-anwalt-und-berater",
+      "source": "steuerrecht-anwalt-und-berater"
+    },
+    {
+      "name": "strafanzeige-vorbereiter",
+      "source": "strafanzeige-vorbereiter"
+    },
+    {
+      "name": "strafbefehl-verteidiger",
+      "source": "strafbefehl-verteidiger"
+    },
+    {
+      "name": "strafzumessung",
+      "source": "strafzumessung"
+    },
+    {
+      "name": "strassenrecht-infrastruktur",
+      "source": "strassenrecht-infrastruktur"
+    },
+    {
+      "name": "strassenverkehrsrecht-stvo",
+      "source": "strassenverkehrsrecht-stvo"
+    },
+    {
+      "name": "subsumtions-pruefer",
+      "source": "subsumtions-pruefer"
+    },
+    {
+      "name": "tabellenreview-3d",
+      "source": "tabellenreview-3d"
+    },
+    {
+      "name": "telekommunikationsrecht",
+      "source": "telekommunikationsrecht"
+    },
+    {
+      "name": "tierschutzrecht",
+      "source": "tierschutzrecht"
+    },
+    {
+      "name": "umweltrecht",
+      "source": "umweltrecht"
+    },
+    {
+      "name": "umweltschutzverband-verbandsklage",
+      "source": "umweltschutzverband-verbandsklage"
+    },
+    {
+      "name": "urheberrecht-de-eu",
+      "source": "urheberrecht-de-eu"
+    },
+    {
+      "name": "urteilsbauer-relationsmacher",
+      "source": "urteilsbauer-relationsmacher"
+    },
+    {
+      "name": "us-bankruptcy-code",
+      "source": "us-bankruptcy-code"
+    },
+    {
+      "name": "us-copyright-registrierung-verlag",
+      "source": "us-copyright-registrierung-verlag"
+    },
+    {
+      "name": "venture-capital-geber",
+      "source": "venture-capital-geber"
+    },
+    {
+      "name": "verbraucher-rechtsstaat-alltag",
+      "source": "verbraucher-rechtsstaat-alltag"
+    },
+    {
+      "name": "verbraucherinsolvenz-schuldenbereinigung",
+      "source": "verbraucherinsolvenz-schuldenbereinigung"
+    },
+    {
+      "name": "verbraucherschutzrecht-pruefer",
+      "source": "verbraucherschutzrecht-pruefer"
+    },
+    {
+      "name": "verbraucherschutzverband-durchsetzung",
+      "source": "verbraucherschutzverband-durchsetzung"
+    },
+    {
+      "name": "vereinsrecht-vereinsmanager",
+      "source": "vereinsrecht-vereinsmanager"
+    },
+    {
+      "name": "verfassungsrecht",
+      "source": "verfassungsrecht"
+    },
+    {
+      "name": "vergabestelle-behoerden",
+      "source": "vergaberecht-werkstatt/vergabestelle-behoerden"
+    },
+    {
+      "name": "verhaeltnismaessigkeitspruefer",
+      "source": "verhaeltnismaessigkeitspruefer"
+    },
+    {
+      "name": "verkehr-infrastrukturrecht",
+      "source": "verkehr-infrastrukturrecht"
+    },
+    {
+      "name": "verkehrsowi-verteidiger",
+      "source": "verkehrsowi-verteidiger"
+    },
+    {
+      "name": "verlagsrecht-buchpreisbindung",
+      "source": "verlagsrecht-buchpreisbindung"
+    },
+    {
+      "name": "verlagsredaktion",
+      "source": "verlagsredaktion"
+    },
+    {
+      "name": "versammlungsrecht",
+      "source": "versammlungsrecht"
+    },
+    {
+      "name": "versicherungsrecht",
+      "source": "versicherungsrecht"
+    },
+    {
+      "name": "vertragsausfueller",
+      "source": "vertragsausfueller"
+    },
+    {
+      "name": "vertragsrecht",
+      "source": "vertragsrecht"
+    },
+    {
+      "name": "wahlkampfrecht-praxis",
+      "source": "wahlkampfrecht-praxis"
+    },
+    {
+      "name": "wandeldarlehen-lebenszyklus",
+      "source": "wandeldarlehen-lebenszyklus"
+    },
+    {
+      "name": "weg-hausverwaltung",
+      "source": "weg-hausverwaltung"
+    },
+    {
+      "name": "weltraumrecht",
+      "source": "weltraumrecht"
+    },
+    {
+      "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "source": "word-legal-ai-plugin-and-skill-for-german-lawyers"
+    },
+    {
+      "name": "zitierweise-deutsches-recht",
+      "source": "zitierweise-deutsches-recht"
+    },
+    {
+      "name": "zwangsverwaltung-zvg",
+      "source": "zwangsverwaltung-zvg"
+    },
+    {
+      "name": "zwangsvollstreckung",
+      "source": "zwangsvollstreckung"
+    },
+    {
+      "name": "compliance-abteilung-grosskonzern",
+      "source": "compliance-abteilung-grosskonzern",
+      "additional_unchanged_plugin": true
+    },
+    {
+      "name": "richter-bverfg-verfassungsbeschwerden",
+      "source": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden",
+      "additional_unchanged_plugin": true
+    }
+  ],
+  "files": [
+    {
+      "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/references/ki-normen-und-fallpruefung.md",
+      "kind": "verified_package_navigation",
+      "original_sha256": "ec50c41632b415a26cb7aceeb553b30e7707f8646450625f613db53be8ed3434",
+      "sha256": "aac6a4384185a7f781c2eaef752a63e47053391e3246a02079076bd628006dfa",
+      "edits": [
+        {
+          "before_offset": 6076,
+          "after_offset": 6076,
+          "before": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "after": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md"
+        }
+      ]
+    }
+  ],
+  "quality_files": [],
+  "review_binding_changes": [],
+  "pending_reviews": [],
+  "isolated_package_link_errors": 0,
+  "source_map_after_sha256": "a31df235bb331cba0d38003466294e357ddac219c1d9039a5431d4110eedabb3"
+}

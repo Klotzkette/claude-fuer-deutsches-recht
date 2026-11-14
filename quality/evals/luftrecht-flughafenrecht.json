@@ -119,7 +119,7 @@
           ]
         }
       ],
-      "target_skill": "flughafen-planfeststellung"
+      "target_skill": "flughafen-und-bodenbetrieb-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -128,8 +128,8 @@
       "luftrecht-flughafenrecht/luftrecht-flughafenrecht-schnellstart.md",
       "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md",
       "luftrecht-flughafenrecht/README.md",
-      "luftrecht-flughafenrecht/skills/flughafen-planfeststellung/SKILL.md",
-      "luftrecht-flughafenrecht/skills/pfaendung-flugzeug-deutschland/SKILL.md",
+      "luftrecht-flughafenrecht/skills/flughafen-planfeststellung/FACHINHALT.md",
+      "luftrecht-flughafenrecht/skills/pfaendung-flugzeug-deutschland/FACHINHALT.md",
       "quality/evals/luftrecht-flughafenrecht.json"
     ],
     "opening_change": "Genehmigten und beantragten Flugplatzbetrieb vergleichen; davon getrennt Luftfahrzeugrechte und Zugriff prüfen.",

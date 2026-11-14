@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "target_skill": "anhoerung-vor-bescheid"
+      "target_skill": "schreiben-gespraech-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

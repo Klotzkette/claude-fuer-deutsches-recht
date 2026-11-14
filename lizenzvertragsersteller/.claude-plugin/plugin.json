@@ -1,7 +1,7 @@
 {
   "name": "lizenzvertragsersteller",
-  "version": "445.35.3",
-  "description": "Baukastensystem für IP-Lizenzvertraege deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschaeftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, DSGVO, Quellensteuer, Output DE EN bilingual.",
+  "version": "445.36.0",
+  "description": "IP-Lizenzverträge für Urheberrecht, Patente, Marken, Designs, Gebrauchsmuster, Geschäftsgeheimnisse und Know-how gestalten. Rechte, Vergütung, Quellcode-Escrow, Insolvenz und internationale Schnittstellen abstimmen; deutsche und englische Fassungen erstellen.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

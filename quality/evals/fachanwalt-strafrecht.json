@@ -175,6 +175,62 @@
       "checked_on": "2026-10-16",
       "supports": "Ruhen nach Paragraf 121 Absatz 3 StPO verlängert eine befristete Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 nicht. Nach Ablauf hätte das OLG den Antrag dem wieder zuständigen BGH vorlegen müssen. Die spätere besondere Fortdauerentscheidung ließ den Antrag gegenstandslos werden. Grenze: Tenor hebt die prozessuale Verwerfung auf, nicht den Haftbefehl. Rn. 9 enthält den Gegenfall: bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit eines parallelen Aufhebungsantrags während anhängiger besonderer Haftprüfung.",
       "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Abruf direkt heruntergeladen und vollständig einschließlich aller zwölf Randnummern gelesen."
+    },
+    {
+      "url": "https://ao.bundesfinanzministerium.de/ao/2021/Aenderungsuebersicht/inhalt.html",
+      "checked_on": "2026-11-14",
+      "supports": "Amtliche Änderungsübersicht Nr. 101: Gesetz vom 21.12.2007, BGBl. I S. 3198, Änderung der §§ 370, 370a, 373, 374 AO zum 01.01.2008.",
+      "verification_status": "amtliche_aenderungsuebersicht_konkrete_zeile",
+      "source_sha256": "12912f809d5d93e4e184332fcf74cabd6ba116d81d4e55dc8c2a1b38a72a0a08"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/06/rs20100623_2bvr255908.html",
+      "checked_on": "2026-11-14",
+      "supports": "BVerfG, Beschluss vom 23.06.2010, Az. 2 BvR 2559/08, 2 BvR 105/09 und 2 BvR 491/09, Leitsätze: Untreue und Bestimmtheitsgebot; keine Nichtigerklärung von § 370a AO.",
+      "verification_status": "amtliche_leitsaetze_und_verfahrensgegenstand",
+      "source_sha256": "fbcff2963b91212d24ebb9ffbf2511a752545d6e963f4f1708b985a3bfaa7cf9"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__370.html",
+      "checked_on": "2026-11-14",
+      "supports": "Regelbeispiele des § 370 Abs. 3 Satz 2 Nr. 1 bis 6 AO, insbesondere Nr. 3 Amtsträgerhilfe und Nr. 5 Umsatz-/Verbrauchsteuerbande.",
+      "verification_status": "amtlicher_normtext"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__376.html",
+      "checked_on": "2026-11-14",
+      "supports": "Fünfzehnjahresfrist ausdrücklich für die benannten Fälle nach § 370 Abs. 3 Satz 2 Nr. 1 bis 6; Unterbrechung und Höchstgrenze getrennt.",
+      "verification_status": "amtlicher_normtext"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__2.html",
+      "checked_on": "2026-11-14",
+      "supports": "Tatzeitrecht, Änderung während der Tat und mildestes Gesetz, keine automatische Umstellung.",
+      "verification_status": "amtlicher_normtext"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__78.html",
+      "checked_on": "2026-11-14",
+      "supports": "Verjährungsgrundregel und Absatz 4: Schärfungen für besonders schwere Fälle ändern die Frist nicht ohne Spezialnorm.",
+      "verification_status": "amtlicher_normtext"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aoeg_1977/art_97__23.html",
+      "checked_on": "2026-11-14",
+      "supports": "Übergang der dort genannten §-376-Fassung nur für noch nicht abgelaufene Verjährungsfristen; keine Aussage über sämtliche späteren Änderungen.",
+      "verification_status": "amtlicher_normtext"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bzrg/__32.html",
+      "checked_on": "2026-11-14",
+      "supports": "Führungszeugnisausnahmen nicht mit Registereintragung verwechseln.",
+      "verification_status": "amtlicher_normtext"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2015-10&Gericht=bgh&Seite=1&anz=280&nr=73570&pos=42",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 27.10.2015, Az. 1 StR 373/15: amtlicher Leitsatz nennt über 50.000 Euro. Nur amtlichen Leitsatz im Suchergebnis gelesen; Volltextabruf blockiert. Keine Randnummern- oder Konkurrenzbehauptung daraus.",
+      "verification_status": "amtlicher_leitsatz_suchergebnis_volltext_nicht_erreichbar"
     }
   ],
   "mini_review": {
@@ -280,6 +336,45 @@
         }
       ],
       "target_skill": "einziehung-geldfluss-mitverfuegung-arrestabgleich"
+    },
+    {
+      "id": "historischer-370a-keine-erfundene-nichtigkeit",
+      "request": "Prüfen Sie einen älteren Entwurf zu einer Steuerstraftat aus 2007. Er behauptet: Das BVerfG habe § 370a AO am 23.06.2010 für nichtig erklärt, deshalb sei der Angeklagte zwingend freizusprechen. Hilfsweise gelte automatisch eine Verjährungsfrist von 15 Jahren. Als heutigen Bandenfall nennt er § 370 Abs. 3 Satz 2 Nr. 3 AO; der Verkürzungsbetrag beträgt genau 50.000 Euro. Es fehlen Datum der Tatbeendigung, Unterbrechungshandlungen und konkrete Tatzeitfassung. Erstellen Sie einen Quellen- und Fehlervermerk in ergebnis.md, ohne Strafbarkeit, Verjährungsende oder Verfahrensausgang zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt die gesetzgeberische Aufhebung zum 01.01.2008 und weist die Verwechslung mit dem BVerfG-Beschluss zur Untreue zurück. Keine erfundene Nichtigkeitsentscheidung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt Tatzeitfassung und Zeitvergleich nach § 2 StGB; kein automatischer Freispruch oder schematisches Umstellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet § 376 AO, Übergangsrecht und Verjährungsschritte; nennt ohne Tatbeendigung und Unterbrechungsdaten kein bestimmtes Fristende.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Ordnet Amtsträgerhilfe Nr. 3 und Umsatz-/Verbrauchsteuerbande Nr. 5 zu und unterscheidet genau 50.000 Euro von der amtlichen Leitsatzschwelle über 50.000 Euro; behauptet dadurch keine sichere Straffreiheit oder Ausschluss anderer schwerer Fälle.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "steuer-zoll-umwelt-verkehr-waffen-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -291,8 +386,8 @@
       "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
       "fachanwalt-strafrecht/skills/juristischer-argumentationskern/SKILL.md",
       "fachanwalt-strafrecht/references/haftrecht-rechtsprechung-2026.md",
-      "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung/SKILL.md",
-      "fachanwalt-strafrecht/skills/untersuchungshaft-haftpruefung/SKILL.md"
+      "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung/FACHINHALT.md",
+      "fachanwalt-strafrecht/skills/untersuchungshaft-haftpruefung/FACHINHALT.md"
     ],
     "opening_change": "Tatnachweis, rechtlichen Einwand und günstigere Rechtsfolge vom konkreten Aktenvorwurf aus unterscheiden; im Hauptproblem persönliche Verfügung statt Gesamtschadenzurechnung. Workflow-Ergänzung: Leer: Tatvorwurfsprüfung, Eingriffsabwehr oder Einziehungsgegenrechnung anbieten. Dateien ohne Aufgabe: Ermittlungsakte, Chatkontext und Arrestmaterial still erschließen; Verteidigungsziel klären, weder Aktenbericht noch Einlassung ausgeben. Klarer Auftrag: bestellten Vermerk oder Antrag unmittelbar ausarbeiten; Einlassung und externe Verwendung gesondert freigeben.",
     "norms": [
@@ -488,5 +583,79 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "historical_370a_correction_2026_11_14": {
+    "reviewed_on": "2026-11-14",
+    "method": "Vollständige Lektüre und gezielte Neufassung des fehlerhaften historischen Skills; amtliche Normen, konkrete BMF-Änderungszeile und BVerfG-Leitsätze gegengelesen.",
+    "files": [
+      {
+        "path": "fachanwalt-strafrecht/skills/strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig/SKILL.md",
+        "sha256": "b111a9c57917e9feb84b7a2a52d59319819be8295d724ed74507930dc28f2656"
+      }
+    ],
+    "audit_path": "quality/source-audits/2026-11-14/steuerstrafrecht-370a.md",
+    "sources": [
+      {
+        "url": "https://ao.bundesfinanzministerium.de/ao/2021/Aenderungsuebersicht/inhalt.html",
+        "checked_on": "2026-11-14",
+        "supports": "Amtliche Änderungsübersicht Nr. 101: Gesetz vom 21.12.2007, BGBl. I S. 3198, Änderung der §§ 370, 370a, 373, 374 AO zum 01.01.2008.",
+        "verification_status": "amtliche_aenderungsuebersicht_konkrete_zeile",
+        "source_sha256": "12912f809d5d93e4e184332fcf74cabd6ba116d81d4e55dc8c2a1b38a72a0a08"
+      },
+      {
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/06/rs20100623_2bvr255908.html",
+        "checked_on": "2026-11-14",
+        "supports": "BVerfG, Beschluss vom 23.06.2010, Az. 2 BvR 2559/08, 2 BvR 105/09 und 2 BvR 491/09, Leitsätze: Untreue und Bestimmtheitsgebot; keine Nichtigerklärung von § 370a AO.",
+        "verification_status": "amtliche_leitsaetze_und_verfahrensgegenstand",
+        "source_sha256": "fbcff2963b91212d24ebb9ffbf2511a752545d6e963f4f1708b985a3bfaa7cf9"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__370.html",
+        "checked_on": "2026-11-14",
+        "supports": "Regelbeispiele des § 370 Abs. 3 Satz 2 Nr. 1 bis 6 AO, insbesondere Nr. 3 Amtsträgerhilfe und Nr. 5 Umsatz-/Verbrauchsteuerbande.",
+        "verification_status": "amtlicher_normtext"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__376.html",
+        "checked_on": "2026-11-14",
+        "supports": "Fünfzehnjahresfrist ausdrücklich für die benannten Fälle nach § 370 Abs. 3 Satz 2 Nr. 1 bis 6; Unterbrechung und Höchstgrenze getrennt.",
+        "verification_status": "amtlicher_normtext"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/stgb/__2.html",
+        "checked_on": "2026-11-14",
+        "supports": "Tatzeitrecht, Änderung während der Tat und mildestes Gesetz, keine automatische Umstellung.",
+        "verification_status": "amtlicher_normtext"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/stgb/__78.html",
+        "checked_on": "2026-11-14",
+        "supports": "Verjährungsgrundregel und Absatz 4: Schärfungen für besonders schwere Fälle ändern die Frist nicht ohne Spezialnorm.",
+        "verification_status": "amtlicher_normtext"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/aoeg_1977/art_97__23.html",
+        "checked_on": "2026-11-14",
+        "supports": "Übergang der dort genannten §-376-Fassung nur für noch nicht abgelaufene Verjährungsfristen; keine Aussage über sämtliche späteren Änderungen.",
+        "verification_status": "amtlicher_normtext"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/bzrg/__32.html",
+        "checked_on": "2026-11-14",
+        "supports": "Führungszeugnisausnahmen nicht mit Registereintragung verwechseln.",
+        "verification_status": "amtlicher_normtext"
+      },
+      {
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2015-10&Gericht=bgh&Seite=1&anz=280&nr=73570&pos=42",
+        "checked_on": "2026-11-14",
+        "supports": "BGH, Urteil vom 27.10.2015, Az. 1 StR 373/15: amtlicher Leitsatz nennt über 50.000 Euro. Nur amtlichen Leitsatz im Suchergebnis gelesen; Volltextabruf blockiert. Keine Randnummern- oder Konkurrenzbehauptung daraus.",
+        "verification_status": "amtlicher_leitsatz_suchergebnis_volltext_nicht_erreichbar"
+      }
+    ],
+    "limits": "Keine neue Gesamtprüfung des Strafrecht-Plugins oder der unveränderten Prompts. BGH 1 StR 373/15 nur amtlicher Leitsatz, keine Volltextprüfung. Historische Prüfstände bleiben unverändert.",
+    "evaluation_case": {
+      "id": "historischer-370a-keine-erfundene-nichtigkeit",
+      "status": "redaktionell vorbereitet, kein Live-Modelllauf"
+    }
   }
 }

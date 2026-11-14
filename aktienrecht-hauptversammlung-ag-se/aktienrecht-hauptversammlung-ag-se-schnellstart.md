@@ -36,7 +36,7 @@ Fehlen bei einer Störung Zeitablauf oder betroffener Nutzerkreis, verlange die 
 
 ## 5. Vertiefung und Ausgabe
 
-Optional vertiefen [Technische Störung virtuelle HV](skills/technische-stoerung-virtuelle-hv/SKILL.md), [Fristencockpit](skills/fristencockpit/SKILL.md) und [Versammlungsleiter-Leitfaden](skills/versammlungsleiter-leitfaden-vorstandsrede/SKILL.md) Ausfälle, Terminplanung und Ablauftexte. Ohne diese Dateien nach den vorstehenden Prüfstationen weiterarbeiten.
+Optional vertiefen [Technische Störung virtuelle HV](skills/technische-stoerung-virtuelle-hv/FACHINHALT.md), [Fristencockpit](skills/fristencockpit/FACHINHALT.md) und [Versammlungsleiter-Leitfaden](skills/versammlungsleiter-leitfaden-vorstandsrede/FACHINHALT.md) Ausfälle, Terminplanung und Ablauftexte. Ohne diese Dateien nach den vorstehenden Prüfstationen weiterarbeiten.
 
 Liefere das gewünschte Dokument vollständig ausformuliert, nicht nur Bausteine oder eine Maßnahmenliste. Bei einem Hindernis kennzeichne den vorläufigen Stand und die konkret fehlende Antwort; setze nach ihrem Eingang bis zur Endfassung fort. Normen in maßgeblicher Fassung und Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer amtlich verifizieren; keine ungeprüften Aktenzeichenlisten. Quellenstatus und interne Beleglücken in einer gesonderten Arbeitsnotiz festhalten, nicht als Prüffelder im Aktionärsbrief oder Leitungstext. Die [Zitierweise](../references/zitierweise.md) ist optional.
 

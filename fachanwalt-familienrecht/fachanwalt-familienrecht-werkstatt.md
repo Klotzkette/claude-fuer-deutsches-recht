@@ -20,12 +20,12 @@ Eine Frist oder akute Gefahr wird sofort mit Ereignis, Nachweis und Sicherungsma
 
 | Konkreter Auftrag | Arbeitsweg | Nur bei Bedarf nachladen |
 | --- | --- | --- |
-| Neues Mandat einordnen und sichern | [Familienmandat aufnehmen](skills/familienmandat-aufnehmen-und-sofortmassnahmen-planen/SKILL.md) | Mandatsannahme mit Konflikt, GwG, Vollmacht und Kosten; Fallwege mit Fristprüfung; FAO nur bei Qualifikationsauftrag |
-| Widersprüchliche Akte entscheidungsfähig machen | [Familienakte ordnen](skills/familienakte-ordnen-und-belege-anfordern/SKILL.md) | Belegmatrix und konkrete Nachforderung statt allgemeinem Fragebogen |
-| Unterhalt neu berechnen oder fremde Rechnung angreifen | [Unterhalt berechnen und gegenrechnen](skills/unterhalt-berechnen-und-gegenrechnen/SKILL.md) | Einkommen; Kindesunterhalt; Ehegattenunterhalt; Gegenrechnung; Auskunft, Rückstand und Titel |
-| Versorgungsausgleich erstmals entscheiden | [Versorgungsausgleich im Scheidungsverfahren prüfen](skills/versorgungsausgleich-im-scheidungsverfahren-pruefen/SKILL.md) | Ehezeit, Versorgungsarten, Ausnahmen und eigenständige Verfahrenswege |
-| Fragebogen oder Trägerwerte berichtigen | [Versorgungsauskünfte und Anrechtswerte prüfen](skills/versorgungsauskuenfte-und-anrechtswerte-pruefen/SKILL.md) | Fragebogen und Antwortabgleich; Bewertungsmatrix mit Einheiten und Kapitalwert |
-| Teilung oder Zielversorgung beurteilen | [Versorgungsteilung und Zielversorgung prüfen](skills/versorgungsteilung-und-zielversorgung-pruefen/SKILL.md) | Teilungsform, Kosten und Transfervergleich; Wahlfrist, Aufnahmebestätigung und Tenor |
+| Neues Mandat einordnen und sichern | [Familienmandat aufnehmen](skills/familienmandat-aufnehmen-und-sofortmassnahmen-planen/FACHINHALT.md) | Mandatsannahme mit Konflikt, GwG, Vollmacht und Kosten; Fallwege mit Fristprüfung; FAO nur bei Qualifikationsauftrag |
+| Widersprüchliche Akte entscheidungsfähig machen | [Familienakte ordnen](skills/familienakte-ordnen-und-belege-anfordern/FACHINHALT.md) | Belegmatrix und konkrete Nachforderung statt allgemeinem Fragebogen |
+| Unterhalt neu berechnen oder fremde Rechnung angreifen | [Unterhalt berechnen und gegenrechnen](skills/unterhalt-berechnen-und-gegenrechnen/FACHINHALT.md) | Einkommen; Kindesunterhalt; Ehegattenunterhalt; Gegenrechnung; Auskunft, Rückstand und Titel |
+| Versorgungsausgleich erstmals entscheiden | [Versorgungsausgleich im Scheidungsverfahren prüfen](skills/versorgungsausgleich-im-scheidungsverfahren-pruefen/FACHINHALT.md) | Ehezeit, Versorgungsarten, Ausnahmen und eigenständige Verfahrenswege |
+| Fragebogen oder Trägerwerte berichtigen | [Versorgungsauskünfte und Anrechtswerte prüfen](skills/versorgungsauskuenfte-und-anrechtswerte-pruefen/FACHINHALT.md) | Fragebogen und Antwortabgleich; Bewertungsmatrix mit Einheiten und Kapitalwert |
+| Teilung oder Zielversorgung beurteilen | [Versorgungsteilung und Zielversorgung prüfen](skills/versorgungsteilung-und-zielversorgung-pruefen/FACHINHALT.md) | Teilungsform, Kosten und Transfervergleich; Wahlfrist, Aufnahmebestätigung und Tenor |
 
 Quellen und Vertiefungen nur für genau bezeichnete Entscheidungspunkte öffnen. Die gleiche Rechnung braucht weder einen zweiten Kurzprüfungsdurchlauf noch eine zusätzliche Vollprüfung als Auswahlstufe. Die hier beschriebenen Arbeitsschritte setzen keine weiteren installierten Dateien voraus; fehlende Quellen vor einer abschließenden Aussage gesondert anfordern.
 
@@ -147,7 +147,7 @@ Ausformulierungspflicht: vollständige Sätze statt Skelett. Formatstandard: Tim
 
 Vor Ausgabe intern prüfen: richtige Vertretung und Verfahrensart; Bekanntgabe und Frist; Monats- oder Stichtagsbezug; Beleg jeder tragenden Zahl; kindbezogene Tatsachen; bestimmte Anträge; Titelfassung und Vollzug. Nicht geprüfte Quellen und noch fehlende Nachweise in einer gesonderten Arbeitsnotiz benennen, nicht als technisches Prüfprotokoll in den Mandantenbrief übernehmen. Ein Beratungsauftrag ist mit der begründeten Antwort erledigt; ein Dokumentenauftrag nicht mit einer bloßen Analyse. Versand, Einreichung, Vergleich, Anerkenntnis oder Verzicht nur nach ausdrücklicher Freigabe.
 
-Optional [Rechtsanker und Abrufgrenzen](references/rechtsanker-2026-09-05.md) sowie [Zitierweise](../references/zitierweise.md) hinzuziehen. Frühere Entscheidungsangaben ohne geöffneten Volltext bleiben Rechercheaufträge, keine gesicherten Zitate. Bleibt ein Hindernis, den erreichten Stand, die konkret benötigte Unterlage oder Entscheidung und eine betroffene Frist nennen; nach der Antwort an dieser Stelle fortsetzen.
+Optional [Rechtsanker und Abrufgrenzen](references/rechtsanker-2026-09-05.md) sowie [Zitierweise](references/repository/references/zitierweise.md) hinzuziehen. Frühere Entscheidungsangaben ohne geöffneten Volltext bleiben Rechercheaufträge, keine gesicherten Zitate. Bleibt ein Hindernis, den erreichten Stand, die konkret benötigte Unterlage oder Entscheidung und eine betroffene Frist nennen; nach der Antwort an dieser Stelle fortsetzen.
 
 ## 9. Arbeitsanhang: Streitpunkte bis zur Entscheidung verfolgen
 

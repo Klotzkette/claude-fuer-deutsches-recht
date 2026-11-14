@@ -84,7 +84,7 @@
           ]
         }
       ],
-      "target_skill": "bezugsbindung-lieferanten-und-kartellrecht"
+      "target_skill": "kartellrecht-und-lieferbindung-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -94,8 +94,8 @@
       "franchiserecht-praxis/franchiserecht-praxis-werkstatt.md",
       "franchiserecht-praxis/README.md",
       "quality/evals/franchiserecht-praxis.json",
-      "franchiserecht-praxis/skills/bezugsbindung-lieferanten-und-kartellrecht/SKILL.md",
-      "franchiserecht-praxis/skills/handelsvertreterausgleich-analog-pruefen/SKILL.md"
+      "franchiserecht-praxis/skills/bezugsbindung-lieferanten-und-kartellrecht/FACHINHALT.md",
+      "franchiserecht-praxis/skills/handelsvertreterausgleich-analog-pruefen/FACHINHALT.md"
     ],
     "opening_change": "Zugesagte Systemleistungen mit Gebühren, Pflichtbezug und Standortbindung vergleichen statt universeller Vertragsauftrag.",
     "norms": [

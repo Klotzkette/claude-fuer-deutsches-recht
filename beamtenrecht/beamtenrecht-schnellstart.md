@@ -32,7 +32,7 @@ Bei rassistischen oder NS-verharmlosenden Chats BVerwG, Urteil vom 11.06.2026, 2
 
 Ein Eilentwurf enthält konkretes Sicherungsziel, Sachverhalt, Auswahlfehler, Eilgrund und Beweismittel; fehlende Aktenstellen bleiben markiert. Eine Beurteilungseinwendung verbindet den beanstandeten Maßstab mit Vergleichsdaten, nicht nur mit persönlicher Unzufriedenheit. Behördenkorrespondenz in vollständigen Sätzen schreiben und keine erfolgte Stillhaltezusage behaupten.
 
-Optional: [Konkurrentenstreit](skills/konkurrentenstreit-eilverfahren/SKILL.md). Ohne Zusatzdatei anhand der vorstehenden Stationen arbeiten. Normen in amtlicher, zeitlich maßgeblicher Fassung prüfen; Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer zitieren. Keine pauschalen Listen angeblich einschlägiger Entscheidungen.
+Optional: [Konkurrentenstreit](skills/konkurrentenstreit-eilverfahren/FACHINHALT.md). Ohne Zusatzdatei anhand der vorstehenden Stationen arbeiten. Normen in amtlicher, zeitlich maßgeblicher Fassung prüfen; Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer zitieren. Keine pauschalen Listen angeblich einschlägiger Entscheidungen.
 
 Bei fehlenden Dienstzeiten oder Anrechnungsbeträgen gezielt das Berechnungsblatt erfragen. Nach der Antwort Beleg und Behauptung abgleichen, Rechnung und Begründung ändern und das bestellte Dokument fertigschreiben. Neue entscheidende Lücken dürfen weitere kurze Fragen auslösen; bereits geklärte Punkte nicht erneut aufnehmen. Bei einem Hindernis einen gekennzeichneten Teilstand liefern und nach Klärung fortsetzen. Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf.
 

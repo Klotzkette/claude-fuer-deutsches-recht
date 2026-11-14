@@ -11,21 +11,21 @@ Dieser Einstieg routet **Immobilienrechtspraxis** vom ersten Sachverhalt zu Roll
 
 ## Fachlandkarte dieses Plugins
 
-- `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
-- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Prüfen Asset Management
-- `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
-- `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
-- `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation
-- `grundbuchanalyse` — Grundbuchanalyse
-- `grundbuchanalyse-zahlen-schwellen-und-berechnung` — Grundbuchanalyse Zahlen Schwellen und Berechnung
-- `immo-aufteilungsplan-weg` — Immo Aufteilungsplan WEG
-- `immo-bauliche-veraenderung-energieausweis` — Immo Bauliche Veraenderung Energieausweis
-- `immo-bauvertrag-vob-kaufvertrag-grundstueck` — Immo Bauvertrag VOB Kaufvertrag Grundstueck
-- `immo-energieausweis` — Immo Energieausweis
-- `immo-gewerbliche-mieter-konkurs` — Immo Gewerbliche Mieter Konkurs
-- `immo-grundschuld-bestellung-makler-honorar` — Immo Grundschuld Bestellung Makler Honorar
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: betriebskostenabrechnung-erstellen-asset-management) — Betriebskostenabrechnung Erstellen Asset Management
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: betriebskostenabrechnung-pruefen-asset-management) — Betriebskostenabrechnung Prüfen Asset Management
+- `arbeitsprodukt-bearbeiten` (Fachthema: case-gegen-grundbuchanalyse) — Case Gegen Grundbuchanalyse
+- `arbeitsprodukt-bearbeiten` (Fachthema: case-management-grundbuchanalyse-immo) — Case Management Grundbuchanalyse Immo
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: gegen-verhandlung-vergleich-und-eskalation) — Gegen Verhandlung Vergleich und Eskalation
+- `arbeitsprodukt-bearbeiten` (Fachthema: grundbuchanalyse) — Grundbuchanalyse
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: grundbuchanalyse-zahlen-schwellen-und-berechnung) — Grundbuchanalyse Zahlen Schwellen und Berechnung
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-aufteilungsplan-weg) — Immo Aufteilungsplan WEG
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-bauliche-veraenderung-energieausweis) — Immo Bauliche Veraenderung Energieausweis
+- `grundbuch-und-rang-bearbeiten` (Fachthema: immo-bauvertrag-vob-kaufvertrag-grundstueck) — Immo Bauvertrag VOB Kaufvertrag Grundstueck
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-energieausweis) — Immo Energieausweis
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-gewerbliche-mieter-konkurs) — Immo Gewerbliche Mieter Konkurs
+- `grundbuch-und-rang-bearbeiten` (Fachthema: immo-grundschuld-bestellung-makler-honorar) — Immo Grundschuld Bestellung Makler Honorar
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

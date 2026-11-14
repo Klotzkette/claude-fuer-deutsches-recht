@@ -4,7 +4,7 @@ Diese Modi werden nach Aufbau oder Ergänzung des Untersuchungsbestands nur für
 
 ## Modus 3: Protokoll abfragen
 
-Ausgelöst durch `/arbeitsrecht:untersuchung-abfrage`.
+Ausgelöst durch `/arbeitsrecht:beschaeftigtenschutz-untersuchung-bearbeiten Thema: untersuchung-abfrage`.
 
 Gesamtes Protokoll lesen vor der Antwort. Antworttypen:
 
@@ -33,7 +33,7 @@ Bestätigungen und ungelöste Widersprüche — frageweise strukturiert.
 
 ## Modus 4: Memo entwerfen oder aktualisieren
 
-Ausgelöst durch `/arbeitsrecht:untersuchungs-memo`.
+Ausgelöst durch `/arbeitsrecht:beschaeftigtenschutz-untersuchung-bearbeiten Thema: untersuchungs-memo`.
 
 ### Erstmalige Erstellung
 
@@ -182,7 +182,7 @@ markieren bis zur Freigabe durch den Anwalt.
 
 ## Modus 5: Zielgruppen-Zusammenfassung
 
-Ausgelöst durch `/arbeitsrecht:untersuchungs-zusammenfassung`.
+Ausgelöst durch `/arbeitsrecht:beschaeftigtenschutz-untersuchung-bearbeiten Thema: untersuchungs-zusammenfassung`.
 
 Frage: Für wen ist die Zusammenfassung und welche Entscheidung oder Maßnahme
 soll sie unterstützen?

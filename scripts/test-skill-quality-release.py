@@ -1,0 +1,245 @@
+#!/usr/bin/env python3
+"""Komponentenpakete, Archivtreue und Veröffentlichungsschranken der Qualitätsrunde."""
+import copy
+from contextlib import redirect_stdout
+import io
+import importlib.util
+import json
+from pathlib import Path
+import subprocess
+import tempfile
+import unittest
+from unittest.mock import patch
+import zipfile
+
+from release_asset_common import is_release_asset, read_checksums
+
+spec = importlib.util.spec_from_file_location("quality_release", Path(__file__).with_name("build-skill-quality-release.py"))
+B = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(B)
+
+
+class QualityReleaseTests(unittest.TestCase):
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp.cleanup)
+        self.base = Path(self.temp.name).resolve()
+        self.root, self.dist = self.base / "repo", self.base / "dist"
+        self.root.mkdir()
+        self.name, self.version = "beispiel", "445.36.0"
+        self.tag = "qualitaetsrunde-v445.36.0"
+        self.source = "themen/beispiel"
+        manifest = {"name": self.name, "version": self.version, "description": "Prüft den konkreten Vertragsauftrag."}
+        for path in B.MANIFESTS:
+            self.write(f"{self.source}/{path}", json.dumps(manifest))
+        self.write(".claude-plugin/marketplace.json", json.dumps({"version": self.version, "plugins": [{"name": self.name, "version": self.version, "source": "./" + self.source}]}))
+        self.write("scripts/scoped-release-assets.json", json.dumps({"schema_version": 1, "assets": {"beispiel.zip": self.tag, "beispiel-portable.zip": self.tag}}))
+        self.write(f"{self.source}/skills/vertrag-pruefen/SKILL.md", "---\nname: vertrag-pruefen\ndescription: Vertrag prüfen\n---\n\n# Vertrag prüfen\n\n[Details](../alter-vertrag/FACHINHALT.md)\n")
+        self.write(f"{self.source}/skills/alter-vertrag/FACHINHALT.md", "# Vollständiger alter Fachtext\n\n[Werkzeug](werkzeuge/rechnen.py)\n")
+        self.write(f"{self.source}/skills/alter-vertrag/werkzeuge/rechnen.py", "print('Berechnung')\n")
+        self.write(f"{self.source}/beispiel-werkstatt.md", "# Eigenständige Werkstatt\n")
+        self.write(f"{self.source}/beispiel-werkstatt.txt", "# Eigenständige Werkstatt\n")
+        self.write(f"{self.source}/testakte/downloads/testakte-alt.zip", "Bestand bleibt unberührt")
+        self.write("LICENSE", "Lizenz\n")
+        self.scope = {"schema_version": 1, "version": self.version, "tag": self.tag,
+                      "plugins": [{"name": self.name, "variants": ["native", "portable"],
+                                   "prompts": ["beispiel-werkstatt.md", "beispiel-werkstatt.txt"]}]}
+
+    def write(self, name, data):
+        path = self.root / name
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(data.encode() if isinstance(data, str) else data)
+        return path
+
+    def build(self):
+        return B.build(self.dist, self.scope, self.root)
+
+    def test_native_portable_manifests_fachtext_and_tool_are_byte_exact(self):
+        report = self.build()
+        self.assertEqual(len(list(self.dist.iterdir())), 6)
+        self.assertEqual(len(report["plugins"][self.name]["skills"]), 1)
+        self.assertEqual(len(report["plugins"][self.name]["manifests"]), 3)
+        with zipfile.ZipFile(self.dist / "beispiel.zip") as native, zipfile.ZipFile(self.dist / "beispiel-portable.zip") as portable:
+            self.assertEqual(set(portable.namelist()), {"beispiel/" + n for n in native.namelist()})
+            self.assertIn("skills/alter-vertrag/FACHINHALT.md", native.namelist())
+            self.assertIn("skills/alter-vertrag/werkzeuge/rechnen.py", native.namelist())
+            self.assertFalse(any("testakte" in n or n.endswith("-werkstatt.md") for n in native.namelist()))
+        self.assertIn("beispiel-werkstatt.txt", read_checksums(self.dist / B.CHECKSUMS))
+        self.assertTrue((self.root / self.source / "testakte/downloads/testakte-alt.zip").exists())
+
+    def test_only_named_prompt_txt_is_release_asset(self):
+        for name in ("beispiel-werkstatt.txt", "beispiel-schnellstart.txt", "beispiel-hauptproblem.txt"):
+            path = self.write(name, "Prompt")
+            self.assertTrue(is_release_asset(path))
+        self.assertFalse(is_release_asset(self.write("intern.txt", "Intern")))
+
+    def test_scope_forbids_invented_codex_and_missing_existing_prompt(self):
+        scope = copy.deepcopy(self.scope)
+        scope["plugins"][0]["variants"].append("codex")
+        with self.assertRaises(ValueError):
+            B.validate_scope(scope, self.root)
+        scope = copy.deepcopy(self.scope)
+        scope["plugins"][0]["prompts"].pop()
+        with self.assertRaises(ValueError):
+            B.validate_scope(scope, self.root)
+
+    def test_extra_assets_cannot_expand_scope_to_arbitrary_documents(self):
+        for extras in ([{"name": "interne-testakte.pdf"}], [{"name": "ki-native-kanzlei-skills-handbuch.pdf"}]):
+            scope = {**self.scope, "additional_assets": extras}
+            with self.assertRaisesRegex(ValueError, "vollständige geprüfte KI-native-Handbuchpaar"):
+                B.validate_scope(scope, self.root)
+        self.assertTrue(is_release_asset(self.write("ki-native-kanzlei-skills-handbuch.pdf", b"PDF")))
+        self.assertFalse(is_release_asset(self.write("interne-testakte.pdf", b"PDF")))
+
+    def test_mismatched_manifest_or_route_stops_build(self):
+        self.write(f"{self.source}/.codex-plugin/plugin.json", json.dumps({"name": self.name, "version": "1.0.0"}))
+        with self.assertRaises(ValueError):
+            self.build()
+        self.write("scripts/scoped-release-assets.json", json.dumps({"schema_version": 1, "assets": {}}))
+        with self.assertRaises(ValueError):
+            B.validate_scope(self.scope, self.root)
+
+    def test_twenty_one_active_skills_or_orphaned_fachtext_cannot_ship(self):
+        directory = self.root / self.source
+        for i in range(20):
+            self.write(f"{self.source}/skills/extra-{i}/SKILL.md", "# Extra\n")
+        with self.assertRaises(ValueError):
+            B.verify_reachability(B.source_files(self.root, directory))
+        for i in range(20):
+            (directory / f"skills/extra-{i}/SKILL.md").unlink()
+        self.write(f"{self.source}/skills/verwaist/FACHINHALT.md", "# Verwaist\n")
+        with self.assertRaises(ValueError):
+            B.verify_reachability(B.source_files(self.root, directory))
+
+    def test_missing_tool_cannot_ship(self):
+        (self.root / self.source / "skills/alter-vertrag/werkzeuge/rechnen.py").unlink()
+        with self.assertRaises(ValueError):
+            self.build()
+
+    def test_existing_dist_and_mutated_download_are_rejected(self):
+        self.build()
+        with self.assertRaises(ValueError):
+            self.build()
+        (self.dist / "beispiel-werkstatt.txt").write_text("Verändert")
+        with self.assertRaises(ValueError):
+            B.validate_assets(self.dist, self.scope, self.root)
+
+    def test_source_byte_mismatch_is_rejected_even_with_intact_zip_checksums(self):
+        self.build()
+        self.write(f"{self.source}/skills/alter-vertrag/werkzeuge/rechnen.py", "print('Fremder Stand')\n")
+        with self.assertRaises(ValueError):
+            B.validate_assets(self.dist, self.scope, self.root)
+
+    def test_clean_immutable_commit_required_for_publish_build(self):
+        subprocess.run(["git", "init", "-q"], cwd=self.root, check=True)
+        subprocess.run(["git", "add", "."], cwd=self.root, check=True)
+        subprocess.run(["git", "-c", "user.name=Fixture", "-c", "user.email=fixture@example.invalid", "commit", "-qm", "Fixture"], cwd=self.root, check=True)
+        commit = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=self.root, text=True).strip()
+        self.assertEqual(B.checkout_state(self.root, commit), {"commit": commit, "clean": True})
+        self.write("uncommitted.md", "Nicht im Commit")
+        with self.assertRaises(ValueError):
+            B.checkout_state(self.root, commit)
+
+    def test_rate_budget_is_required_before_independent_download(self):
+        self.build()
+        with patch.object(B, "validate_assets", return_value={}), patch.object(
+            B, "require_download_budget", side_effect=RuntimeError("Budget erschöpft")
+        ) as budget, patch.object(B.subprocess, "run") as download:
+            with self.assertRaisesRegex(RuntimeError, "Budget erschöpft"):
+                B.verify_download(self.dist, self.scope, self.root, "example/repo", "a" * 40)
+        budget.assert_called_once_with(6)
+        download.assert_not_called()
+
+    def test_download_uses_fresh_directory_and_matches_every_local_asset(self):
+        self.build()
+        import shutil
+        def downloaded(command, **kwargs):
+            target = Path(command[command.index("--dir") + 1])
+            self.assertNotEqual(target, self.dist)
+            self.assertEqual(list(target.iterdir()), [])
+            self.assertEqual(kwargs["timeout"], 1800)
+            for path in self.dist.iterdir():
+                shutil.copyfile(path, target / path.name)
+        with patch.object(B, "validate_assets", return_value={}) as validate, patch.object(
+            B, "require_download_budget"
+        ), patch.object(B.subprocess, "run", side_effect=downloaded):
+            B.verify_download(self.dist, self.scope, self.root, "example/repo", "a" * 40)
+        self.assertEqual(validate.call_count, 2)
+
+    def test_workflow_pins_commit_and_verifies_download_before_publication(self):
+        path = Path(__file__).resolve().parents[1] / ".github/workflows/skill-quality-release.yml"
+        text = path.read_text()
+        self.assertIn("expected_commit:", text)
+        self.assertIn("github.ref != 'refs/heads/main'", text)
+        self.assertIn("--protect-published", text)
+        self.assertIn("--expected-commit", text)
+        self.assertNotIn("--clobber", text)
+        self.assertNotIn("--latest=true", text)
+        self.assertLess(text.index("--verify-download"), text.index("--draft=false"))
+        self.assertLess(text.index("Vollständige Pakete"), text.index("Geschützte Veröffentlichung"))
+        self.assertIn("timeout-minutes: 240", text)
+
+
+PUBLISH = B.load_module("publish-skill-quality-release.py")
+
+
+class PublisherGuardTests(unittest.TestCase):
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp.cleanup)
+        self.root = Path(self.temp.name)
+        self.dist = self.root / "dist"
+        self.dist.mkdir()
+        self.commit = "a" * 40
+        self.scope = {"tag": "qualitaetsrunde-v445.36.0", "version": "445.36.0"}
+        notes = self.root / "docs/releases/qualitaetsrunde-v445.36.0.md"
+        notes.parent.mkdir(parents=True)
+        notes.write_text("Konkrete geprüfte Änderungen\n")
+        self.events = []
+        for obj, name, value in ((PUBLISH.B, "checkout_state", None), (PUBLISH.B, "validate_assets", {})):
+            mock = patch.object(obj, name, return_value=value)
+            mock.start(); self.addCleanup(mock.stop)
+        execute = patch.object(PUBLISH, "execute", side_effect=lambda command, **kw: self.events.append(command))
+        execute.start(); self.addCleanup(execute.stop)
+
+    def publish(self):
+        # Mock-Veröffentlichungen dürfen keine scheinbar echte Erfolgsmeldung ausgeben.
+        with redirect_stdout(io.StringIO()):
+            PUBLISH.publish(self.dist, self.scope, self.commit, "example/repo", root=self.root)
+
+    def test_existing_published_release_is_never_mutated(self):
+        with patch.object(PUBLISH.P, "tag_commit", return_value=self.commit), patch.object(PUBLISH.P, "companion_release", return_value={"isDraft": False}):
+            with self.assertRaisesRegex(ValueError, "Veröffentlichtes Release"):
+                self.publish()
+        self.assertFalse(any(command[0] == "gh" for command in self.events))
+
+    def test_foreign_tag_is_never_moved(self):
+        with patch.object(PUBLISH.P, "tag_commit", return_value="b" * 40), patch.object(PUBLISH.P, "companion_release", return_value=None):
+            with self.assertRaisesRegex(ValueError, "anderen Commit"):
+                self.publish()
+        self.assertFalse(any(command[0] == "gh" for command in self.events))
+
+    def test_download_failure_prevents_publication(self):
+        draft = {"isDraft": True, "databaseId": 7, "tagName": self.scope["tag"]}
+        with patch.object(PUBLISH.P, "tag_commit", return_value=self.commit), patch.object(PUBLISH.P, "companion_release", return_value=draft), patch.object(PUBLISH.B, "verify_download", side_effect=ValueError("Download abweichend")):
+            with self.assertRaisesRegex(ValueError, "Download abweichend"):
+                self.publish()
+        self.assertTrue(any("--protect-published" in command for command in self.events))
+        uploader = next(command for command in self.events if "--protect-published" in command)
+        self.assertIn("--paced-github-token", uploader)
+        self.assertEqual(uploader[uploader.index("--workers") + 1], "1")
+        self.assertFalse(any("--draft=false" in command for command in self.events))
+
+    def test_tag_after_verification_download_before_publish_and_latest_false(self):
+        draft = {"isDraft": True, "databaseId": 7, "tagName": self.scope["tag"]}
+        with patch.object(PUBLISH.P, "tag_commit", side_effect=[None, self.commit, self.commit, self.commit]), patch.object(PUBLISH.P, "companion_release", side_effect=[None, draft, draft, {**draft, "isDraft": False}]), patch.object(PUBLISH.B, "verify_download", side_effect=lambda *a: self.events.append(["download-verified"])):
+            self.publish()
+        downloaded = next(i for i, command in enumerate(self.events) if command[0] == "download-verified")
+        published = next(i for i, command in enumerate(self.events) if "--draft=false" in command)
+        self.assertLess(downloaded, published)
+        self.assertIn("--latest=false", self.events[published])
+        self.assertFalse(any("--latest=true" in command or "--clobber" in command for command in self.events))
+
+
+if __name__ == "__main__":
+    unittest.main()

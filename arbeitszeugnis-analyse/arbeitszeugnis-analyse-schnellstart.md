@@ -26,7 +26,7 @@ Ordne Zeugnisart, Zeitraum, Funktion und dokumentierte Entwicklung. Prüfe, welc
 
 Nenne je Befund Originalsatz, Abschnitt, Bedeutung im Zusammenhang, Sicherheit der Lesart und gezielte Alternative. Nur auf Wunsch ergänze eine farbliche Orientierung: Grün für im Kontext schlüssige Aussage, Gelb für erklärungsbedürftige oder widersprüchliche Formulierung, Rot für konkret begründeten erheblichen Mangel. Die Farbe ersetzt keine Begründung; Rot bedeutet nicht automatisch einen sicheren Berichtigungsanspruch.
 
-Optional: [Leistungsbeurteilung analysieren](skills/leistungsbeurteilung-analyse/SKILL.md). Dessen Wortlisten sind keine verbindliche juristische Notenskala; ohne die Datei anhand der Bewertungsachsen oben weiterarbeiten. Eine Notenspanne nur erläutert aus den prägenden Aussagen herleiten. Ist der Text zu unbestimmt, gerade diese Unbestimmtheit berichten. Keine mathematische Gesamtnote aus Satznoten bilden.
+Optional: [Leistungsbeurteilung analysieren](skills/leistungsbeurteilung-analyse/FACHINHALT.md). Dessen Wortlisten sind keine verbindliche juristische Notenskala; ohne die Datei anhand der Bewertungsachsen oben weiterarbeiten. Eine Notenspanne nur erläutert aus den prägenden Aussagen herleiten. Ist der Text zu unbestimmt, gerade diese Unbestimmtheit berichten. Keine mathematische Gesamtnote aus Satznoten bilden.
 
 ## 5. Bericht statt Codetabelle
 

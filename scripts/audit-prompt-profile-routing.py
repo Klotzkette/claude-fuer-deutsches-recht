@@ -19,6 +19,7 @@ from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
 from quality_lab import load, validate_profile
 from prompt_limits import mini_within_limits, MAX_WORKSHOP_BYTES, MAX_MINI_BYTES
 from bauwirtschaft_hoai import PHASEN, werkstatt_path
+from skill_sources import fachinhalt_path
 
 
 def expected_prompt_files(slug: str, plugin_dir: Path) -> dict[str, Path]:
@@ -492,7 +493,14 @@ def individual_workshop_structure_problems(text: str) -> list[str]:
 def source_anchor_problems() -> list[str]:
     problems: list[str] = []
     for root, forbidden_bits in SOURCE_FORBIDDEN:
-        files = [root] if root.is_file() else sorted(root.rglob("*.md"))
+        if root.suffix == ".md":
+            try:
+                files = [fachinhalt_path(root)]
+            except FileNotFoundError:
+                problems.append(f"{root.relative_to(REPO)}: zu prüfende Fachquelle fehlt")
+                continue
+        else:
+            files = sorted(root.rglob("*.md"))
         for path in files:
             text = path.read_text(encoding="utf-8")
             for bit in forbidden_bits:

@@ -19,6 +19,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import SimpleDocTemplate
 
 from prompt_profiles import PROMPT_SUFFIXES
+from release_routing import RELEASE_BASE, scoped_asset_url, validate_plugin_version, verified_scoped_package_version
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "insolvenzanfechtung"
@@ -197,26 +198,65 @@ def render_prompt(source, target):
     return result
 
 
+def candidate_parent_identity():
+    """Bindet nur den aktuellen Quellkandidaten an Marketplace und exakte Route."""
+    market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
+    entries = [entry for entry in market["plugins"] if entry.get("name") == PARENT]
+    if len(entries) != 1:
+        raise ValueError("Fachanwalts-Quellkandidat braucht genau einen Marketplaceeintrag.")
+    entry = entries[0]
+    if (ROOT / entry["source"]).resolve() != (ROOT / PARENT).resolve():
+        raise ValueError("Fachanwalts-Quellkandidat verweist auf eine andere Quelle.")
+    validate_plugin_version(entry, market["version"], root=ROOT)
+    asset = f"{PARENT}.zip"
+    url = scoped_asset_url(asset, root=ROOT)
+    if not url:
+        raise ValueError("Fachanwalts-Quellkandidat ohne explizite Komponentenroute.")
+    tag = url.removeprefix(f"{RELEASE_BASE}/download/").split("/", 1)[0]
+    if not (tag.endswith(f"-v{entry['version']}") or
+            verified_scoped_package_version(asset, tag, entry["version"], root=ROOT)):
+        raise ValueError("Fachanwalts-Quellkandidat und Komponentenroute haben verschiedene Versionen.")
+    manifest = json.loads((ROOT / PARENT / ".claude-plugin/plugin.json").read_text(encoding="utf-8"))
+    if (manifest["name"], manifest["version"]) != (PARENT, entry["version"]):
+        raise ValueError("Fachanwalts-Quellkandidat stimmt nicht mit seinem Manifest überein.")
+    return {"version": entry["version"], "tag": tag}
+
+
 def published_proof_status(actual, candidate=False):
     expected = json.loads(PROOF.read_text(encoding="utf-8"))
     if actual == expected:
         return "matching_release"
     if (candidate
-            and all(actual.get(key) == expected.get(key) for key in ("version", "release", "plugins"))
+            and all(actual.get(key) == expected.get(key) for key in ("release", "plugins"))
             and set(actual.get("assets", {})) == set(expected.get("assets", {}))):
-        return "source_candidate_not_published"
+        if actual.get("version") == expected.get("version"):
+            return "source_candidate_not_published"
+        if actual.get("version") == candidate_parent_identity()["version"]:
+            return "source_candidate_not_published"
     raise ValueError("Fachanwalts-Paket stimmt nicht mit dem Routingnachweis überein.")
 
 
 def build(dist, case_assets, write_proof=False, candidate=False):
     if write_proof and candidate:
         raise ValueError("Quellkandidat darf keinen Veröffentlichungsnachweis ändern.")
+    parent_identity = candidate_parent_identity() if candidate else {"version": PARENT_VERSION, "tag": TAG}
+    versions = ((NAME, VERSION), (PARENT, parent_identity["version"]))
+    # Vor Dateierzeugung beide Identitäten prüfen. Der historische Standardpfad
+    # darf niemals ein neues Parent-Paket unter dem alten Releaseetikett bauen.
+    for name, version in versions:
+        for relative in (("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json") if name == NAME else (".claude-plugin/plugin.json",)):
+            manifest = json.loads((ROOT / name / relative).read_text(encoding="utf-8"))
+            if (manifest["name"], manifest["version"]) != (name, version):
+                raise ValueError(f"Manifeststand falsch: {name}/{relative}")
     dist.mkdir(parents=True, exist_ok=True)
     if any(dist.iterdir()):
         raise ValueError("Das Ausgabeziel muss leer sein.")
-    report = {"schema_version": 1, "tag": TAG, "plugin": NAME, "version": VERSION,
+    report = {"schema_version": 1, "tag": None if candidate else TAG, "plugin": NAME, "version": VERSION,
               "plugins": {}, "prompts": {}, "pdfs": {}, "cases": {}}
-    for name, version in ((NAME, VERSION), (PARENT, PARENT_VERSION)):
+    if candidate:
+        report.update({"build_mode": "source_candidate_not_published", "historical_release_reference": TAG,
+                       "candidate_parent_route": parent_identity})
+    for name, version in versions:
         directory = ROOT / name
         for relative in (("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json") if name == NAME else (".claude-plugin/plugin.json",)):
             manifest = json.loads((directory / relative).read_text(encoding="utf-8"))
@@ -262,7 +302,7 @@ def build(dist, case_assets, write_proof=False, candidate=False):
                 raise ValueError(f"Aktenasset fehlt: {source}")
             shutil.copyfile(source, dist / name)
             report["cases"][name] = sha(source)
-    proof = {"version": PARENT_VERSION, "release": TAG, "plugins": [{"name": PARENT}],
+    proof = {"version": parent_identity["version"], "release": TAG, "plugins": [{"name": PARENT}],
              "assets": {f"{PARENT}.zip": sha(dist / f"{PARENT}.zip")}}
     if write_proof:
         PROOF.write_text(json.dumps(proof, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -275,12 +315,16 @@ def build(dist, case_assets, write_proof=False, candidate=False):
         }
         routing_path.write_text(json.dumps(routing, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     else:
-        report["published_proof_status"] = published_proof_status(proof, candidate)
+        proof_status = published_proof_status(proof, candidate)
+        report["published_proof_status"] = "source_candidate_not_published" if candidate else proof_status
+        if candidate:
+            report["historical_proof_comparison"] = proof_status
     (dist / "quellenabgleich.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (dist / "checksums-sha256.txt").write_text("".join(f"{sha(path)}  {path.name}\n" for path in sorted(dist.iterdir())), encoding="utf-8")
     if {path.name for path in dist.iterdir()} != asset_names():
         raise ValueError("Releaseumfang weicht ab.")
-    print(json.dumps({"tag": TAG, "assets": len(asset_names()), "pdfs": report["pdfs"]}, ensure_ascii=False, indent=2))
+    print(json.dumps({"tag": report["tag"], "build_mode": report.get("build_mode", "release"),
+                      "assets": len(asset_names()), "pdfs": report["pdfs"]}, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

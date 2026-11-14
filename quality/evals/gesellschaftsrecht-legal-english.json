@@ -85,7 +85,7 @@
           ]
         }
       ],
-      "target_skill": "cap-table-client-explainer"
+      "target_skill": "beteiligung-verwaesserung-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -94,7 +94,7 @@
       "gesellschaftsrecht-legal-english/README.md",
       "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-werkstatt.md",
       "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-schnellstart.md",
-      "gesellschaftsrecht-legal-english/skills/cap-table-client-explainer/SKILL.md",
+      "gesellschaftsrecht-legal-english/skills/cap-table-client-explainer/FACHINHALT.md",
       "quality/evals/gesellschaftsrecht-legal-english.json"
     ],
     "opening_change": "Englische Klauseln und Beteiligungsdarstellungen werden auf ihre konkrete Wirkung für die deutsche GmbH zurückgeführt.",

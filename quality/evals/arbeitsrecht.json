@@ -96,9 +96,9 @@
     }
   ],
   "mini_review": {
-    "sha256": "1145e3ec5d220387cf6b276a53a188d0a3148c8a5b05b3748262cf7eba2fd2fe",
+    "sha256": "3b1c0bb6b4a78447462a18582b98b9522113bb47687f2f72b14e981deb74f6de",
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
+    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern. Redaktionelle Volllektüre des Mini am 14.11.2026: redundante Formulierungen gekürzt, Fallzweige und Aussagegrenzen erhalten; keine neue Rechtsquellenverifikation.",
     "changes": [
       "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
@@ -106,10 +106,12 @@
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
       "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
       "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
-      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24"
+      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+      "14.11.2026: Nach Fachmodul-Verweisänderungen unter 7.450 UTF-8-Bytes gestrafft; sämtliche Links, Fallzweige und Quellen-/Freigabegrenzen erhalten."
     ],
-    "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "reviewed_on": "2026-11-14",
+    "latest_editorial_scope": "Vollständige redaktionelle Mini-Lektüre, Kürzung redundanter Formulierungen nach mechanisch verlängerten Fachmodulpfaden. Keine neue Rechtsquellenprüfung und kein Modelllauf.",
+    "previous_editorial_snapshot": "quality/source-audits/2026-11-14/mini-laengenredaktion.json"
   },
   "workshop_review": {
     "sha256": "d10598f8587172cafca6afd99626fbf585f78c3b8269f31aed5eb42f8ea4d7fe",
@@ -171,7 +173,7 @@
           ]
         }
       ],
-      "target_skill": "kueschk-frist-und-zugang-pruefen"
+      "target_skill": "kuendigung-zugang-trennung-bearbeiten"
     }
   ],
   "prompt_workflow_review": {
@@ -193,8 +195,8 @@
       "arbeitsrecht/arbeitsrecht-werkstatt.md",
       "arbeitsrecht/arbeitsrecht-schnellstart.md",
       "quality/evals/arbeitsrecht.json",
-      "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md",
-      "arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/SKILL.md"
+      "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/FACHINHALT.md",
+      "arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/FACHINHALT.md"
     ],
     "opening_change": "Kündigungszugang und offene Monatsvergütung anhand der vorliegenden Nachweise prüfen",
     "norms": [

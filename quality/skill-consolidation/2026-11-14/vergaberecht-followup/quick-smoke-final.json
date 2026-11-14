@@ -1,0 +1,10 @@
+{
+  "check": "python scripts/run-smoke-tests.py --quick",
+  "cwd": "vergaberecht-werkstatt",
+  "result": "16/16 executed groups passed; Git status and test-file format groups skipped in quick mode; GitHub release is manual",
+  "log": "quick-smoke-final.log",
+  "sha256": "c0108d73d835c32352aef29d224d2fcedeedccda902e3579b00a4d974c29072c",
+  "executed_passed": 16,
+  "quick_skipped": 2,
+  "manual_not_executed": 1
+}

@@ -235,10 +235,10 @@
       "fachanwalt-medizinrecht/fachanwalt-medizinrecht-hauptproblem.md",
       "fachanwalt-medizinrecht/skills/behandlungsfolgen-haushalt-pflege-abgleich/SKILL.md",
       "quality/evals/fachanwalt-medizinrecht.json",
-      "fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/SKILL.md",
-      "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md",
-      "fachanwalt-medizinrecht/skills/impfschaden-arzthaftung/SKILL.md",
-      "fachanwalt-medizinrecht/skills/mandat-triage-medizinrecht/SKILL.md"
+      "fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/FACHINHALT.md",
+      "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/FACHINHALT.md",
+      "fachanwalt-medizinrecht/skills/impfschaden-arzthaftung/FACHINHALT.md",
+      "fachanwalt-medizinrecht/skills/mandat-triage-medizinrecht/FACHINHALT.md"
     ],
     "opening_change": "Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen Workflow-Ergänzung: Leer: Behandlungsfehlerprüfung, Haushalts-/Pflegeschaden oder Leistungsablehnung anbieten. Dateien ohne Aufgabe: Behandlungsakte, Befunde und Kosten still lesen; Haftungs-, Bezifferungs- oder Widerspruchsziel klären. Klarer Auftrag: konkrete Stellungnahme oder Forderung direkt ausarbeiten, keine ungefragte medizinische Gesamtbewertung.",
     "norms": [

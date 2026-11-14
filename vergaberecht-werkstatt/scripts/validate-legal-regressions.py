@@ -9,6 +9,9 @@ from pathlib import Path
 from legal_artifact_text import binary_legal_files, read_binary_legal_text
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT.parent / "scripts"))
+from skill_sources import fachinhalt_path
+
 SCHWERIN = ROOT / "testakten" / "it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung"
 SKIP_PARTS = {".git", ".venv", "dist", "node_modules", "audits", "tests"}
 LEGAL_TEXT_SUFFIXES = {".md", ".eml", ".txt", ".csv", ".xml", ".json", ".html"}
@@ -1053,6 +1056,17 @@ if set(RULE_PREFILTERS) != {label for label, _ in RULES}:
     raise RuntimeError("Rechtsregressions-Regeln und sichere Vorfilter sind nicht synchron")
 
 
+def required_source_problems(path: Path, markers: tuple[str, ...], missing: str, marker_label: str) -> list[str]:
+    """Prüft dieselben Fachanker auch nach expliziter Verschiebung eines Moduls."""
+    try:
+        source = fachinhalt_path(path)
+    except FileNotFoundError:
+        return [f"{path.relative_to(ROOT)}: {missing}"]
+    text = source.read_text(encoding="utf-8", errors="ignore")
+    return [f"{source.relative_to(ROOT)}: {marker_label}: {marker}"
+            for marker in markers if marker not in text]
+
+
 def main() -> int:
     errors: list[str] = []
     files = legal_text_files()
@@ -1097,24 +1111,12 @@ def main() -> int:
                     )
 
     for path, markers in REQUIRED_CURRENT_LAW.items():
-        if not path.is_file():
-            errors.append(f"{path.relative_to(ROOT)}: Pflichtdatei fehlt")
-            continue
-        text = path.read_text(encoding="utf-8", errors="ignore")
-        for marker in markers:
-            if marker not in text:
-                errors.append(f"{path.relative_to(ROOT)}: aktueller Normanker fehlt: {marker}")
+        errors.extend(required_source_problems(path, markers, "Pflichtdatei fehlt", "aktueller Normanker fehlt"))
 
     for path in REQUIRED_THRESHOLD_SOURCES:
-        if not path.is_file():
-            errors.append(f"{path.relative_to(ROOT)}: Pflichtdatei für Schwellenwertquellen fehlt")
-            continue
-        text = path.read_text(encoding="utf-8", errors="ignore")
-        for marker in REQUIRED_THRESHOLD_MARKERS:
-            if marker not in text:
-                errors.append(
-                    f"{path.relative_to(ROOT)}: Schwellenwertquelle 2026/2027 fehlt: {marker}"
-                )
+        errors.extend(required_source_problems(path, REQUIRED_THRESHOLD_MARKERS,
+                                              "Pflichtdatei für Schwellenwertquellen fehlt",
+                                              "Schwellenwertquelle 2026/2027 fehlt"))
 
     nr5_pattern = re.compile(r"§\s*160\s+Abs\.?\s*3\s+(?:Satz\s*1\s+)?Nr\.?\s*5\s+GWB", re.I)
     transition_pattern = re.compile(r"§\s*187\s+Abs\.?\s*2\s+GWB", re.I)

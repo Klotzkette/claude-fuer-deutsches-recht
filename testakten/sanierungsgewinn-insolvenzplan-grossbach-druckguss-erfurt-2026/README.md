@@ -41,8 +41,8 @@ Schwerpunkt-Skills (Auswahl):
 - `/steuerrecht-anwalt-und-berater:stb-sanierungsgewinn-verlustvortrag-sanity-check`
 - `/insolvenzrecht:insol-sanierungsgewinn-3a-estg-im-insolvenzplan`
 - `/insolvenzrecht:insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack`
-- `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-- `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+- `/grosskanzlei-corporate-ma:krise-und-streit-bearbeiten Thema: gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+- `/grosskanzlei-corporate-ma:krise-und-streit-bearbeiten Thema: gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
 
 ## Mandantin und Verfahren
 

@@ -105,7 +105,7 @@
           ]
         }
       ],
-      "target_skill": "anerkennung-und-klagebefugnis-pruefen"
+      "target_skill": "mandat-und-anerkennung-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -141,7 +141,7 @@
       "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
       "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
       "quality/evals/umweltschutzverband-verbandsklage.json",
-      "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/SKILL.md"
+      "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/FACHINHALT.md"
     ],
     "opening_change": "Rechtsbehelfsbefugnis, rechtzeitigen Tatsachenvortrag und konkrete Fehlerfolge aus der Verbandsakte statt abstrakter Rechtsschutzfassung benannt.",
     "norms": [
@@ -176,7 +176,7 @@
       "files": [
         "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
         "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
-        "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/SKILL.md"
+        "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/FACHINHALT.md"
       ],
       "result": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt.",
       "search_2026": "7 C 5.25 vom 26.05.2026 neu amtlich gelesen und ergänzt.",

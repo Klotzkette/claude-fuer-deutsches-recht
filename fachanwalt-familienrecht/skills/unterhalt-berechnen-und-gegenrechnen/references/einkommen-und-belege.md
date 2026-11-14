@@ -35,7 +35,7 @@ Für die konkrete Rechtsprechungsprüfung stehen im Altbestand BGH, Beschluss vo
 
 Spalten: Person, Monat oder Durchschnitt, Einkunftsart, Betrag, Vorzeichen, Beleg, rechtliche Begründung, Gegenposition, anerkannt oder streitig. Zeige als Ergebnis belegtes bereinigtes Einkommen und gegebenenfalls zwei ausdrücklich vorläufige Varianten. Fehlt die tragende Einkommensbasis, erstelle das [Auskunftsverlangen](auskunft-rueckstand-und-titel.md), keine endgültige Zahl.
 
-Eine behauptete unbegrenzte Leistungsfähigkeit beseitigt die Auskunftsfrage nicht ohne Weiteres. Rechercheanker: BGH, Beschluss vom 16.09.2020, XII ZB 499/19; Aussage und Reichweite im Original prüfen. Quellen nach [references/zitierweise.md](../../../../references/zitierweise.md).
+Eine behauptete unbegrenzte Leistungsfähigkeit beseitigt die Auskunftsfrage nicht ohne Weiteres. Rechercheanker: BGH, Beschluss vom 16.09.2020, XII ZB 499/19; Aussage und Reichweite im Original prüfen. Quellen nach [references/zitierweise.md](../../../references/repository/references/zitierweise.md).
 
 ## 6. Abgrenzung zum Elternunterhalt
 

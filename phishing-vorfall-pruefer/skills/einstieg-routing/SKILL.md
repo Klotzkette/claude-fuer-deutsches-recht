@@ -11,21 +11,21 @@ Dieser Einstieg routet **Phishing Vorfall Prüfer** vom ersten Sachverhalt zu Ro
 
 ## Fachlandkarte dieses Plugins
 
-- `675u-675w-banking` — 675u 675w Banking
-- `675v-quellenkarte` — 675v Quellenkarte
-- `675w-zahlen-schwellen-und-berechnung` — 675w Zahlen Schwellen und Berechnung
-- `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung BGB 675u Phish CEO
-- `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking APP
-- `banking-behoerden-gericht-und-registerweg` — Banking Behoerden Gericht und Registerweg
-- `bankpflichten-beweislast-bgb` — Bankpflichten Beweislast BGB
-- `bea-notfall-bgb-675v-erstkontakt-mandant` — BEA Notfall BGB 675v Erstkontakt Mandant
-- `beweislast-mandantenkommunikation-entscheidungsvorlage` — Beweislast Mandantenkommunikation Entscheidungsvorlage
-- `bgb-schriftsatz-brief-und-memo-bausteine` — BGB Schriftsatz Brief und Memo Bausteine
-- `call-interessen-faelle-freistehender` — Call Interessen Faelle Freistehender
-- `faelle-abschlussprodukt-und-uebergabe` — Faelle Abschlussprodukt und Übergabe
-- `fahrlaessigkeit-fehlerkatalog` — Fahrlaessigkeit Fehlerkatalog
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `anspruch-und-gegenanspruch-bearbeiten` (Fachthema: 675u-675w-banking) — 675u 675w Banking
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: 675v-quellenkarte) — 675v Quellenkarte
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: 675w-zahlen-schwellen-und-berechnung) — 675w Zahlen Schwellen und Berechnung
+- `arbeitsprodukt-bearbeiten` (Fachthema: arbeitnehmer-haftung-bgb-675u-phish-ceo) — Arbeitnehmer Haftung BGB 675u Phish CEO
+- `anspruch-und-gegenanspruch-bearbeiten` (Fachthema: aufsicht-bafin-bank-strategie-banking-app) — Aufsicht Bafin Bank Strategie Banking APP
+- `anspruch-und-gegenanspruch-bearbeiten` (Fachthema: banking-behoerden-gericht-und-registerweg) — Banking Behoerden Gericht und Registerweg
+- `anspruch-und-gegenanspruch-bearbeiten` (Fachthema: bankpflichten-beweislast-bgb) — Bankpflichten Beweislast BGB
+- `anspruch-und-gegenanspruch-bearbeiten` (Fachthema: bea-notfall-bgb-675v-erstkontakt-mandant) — BEA Notfall BGB 675v Erstkontakt Mandant
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: beweislast-mandantenkommunikation-entscheidungsvorlage) — Beweislast Mandantenkommunikation Entscheidungsvorlage
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: bgb-schriftsatz-brief-und-memo-bausteine) — BGB Schriftsatz Brief und Memo Bausteine
+- `anspruch-und-gegenanspruch-bearbeiten` (Fachthema: call-interessen-faelle-freistehender) — Call Interessen Faelle Freistehender
+- `anspruch-und-gegenanspruch-bearbeiten` (Fachthema: faelle-abschlussprodukt-und-uebergabe) — Faelle Abschlussprodukt und Übergabe
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fahrlaessigkeit-fehlerkatalog) — Fahrlaessigkeit Fehlerkatalog
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

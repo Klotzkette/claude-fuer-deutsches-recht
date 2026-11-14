@@ -2,7 +2,7 @@
 
 ## 1. Umfang und Wortzählung
 
-Geändert wurden ausschließlich der Skill [schriftsaetze-entwerfen](../../../../ki-native-kanzlei/skills/schriftsaetze-entwerfen/SKILL.md) und dieser Bericht. Der Körper zählt 6547 Wörter vor und 6743 Wörter nach der Bearbeitung; gezählt wurden durch Leerraum getrennte Wörter nach dem YAML-Frontmatter. Die Beschreibung enthält 341 Zeichen ohne YAML-Anführungszeichen. Es bleiben genau die sechs vorgegebenen Hauptabschnitte.
+Geändert wurden ausschließlich der Skill [schriftsaetze-entwerfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/schriftsaetze-entwerfen/SKILL.md) und dieser Bericht. Der Körper zählt 6547 Wörter vor und 6743 Wörter nach der Bearbeitung; gezählt wurden durch Leerraum getrennte Wörter nach dem YAML-Frontmatter. Die Beschreibung enthält 341 Zeichen ohne YAML-Anführungszeichen. Es bleiben genau die sechs vorgegebenen Hauptabschnitte.
 
 ## 2. Konkrete Änderungen
 

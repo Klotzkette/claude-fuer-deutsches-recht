@@ -811,7 +811,7 @@ Antwort wird bewertet (hypothetisch / assertorisch, Normbezug vorhanden?).
 ### Schritt 8: Profilschreiben
 
 Das Plugin schreibt alle Angaben in `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` und meldet:
-> "Lernprofil angelegt. Du kannst jetzt alle Skills nutzen. Ich empfehle als nächsten Schritt: `/jurastudium:lernplan` für eine erste Lernplanung."
+> "Lernprofil angelegt. Du kannst jetzt alle Skills nutzen. Ich empfehle als nächsten Schritt: `/jurastudium:fallfrage-bearbeiten Thema: lernplan` für eine erste Lernplanung."
 
 ## Quellen und Zitierweise
 
@@ -830,7 +830,7 @@ Plugin: Lernstil – Drill oder Erklärung?
 Nutzer: Drill
 Plugin: Schwächste Rechtsgebiete?
 Nutzer: Sachenrecht, Bereicherungsrecht
-Plugin: Profil angelegt. Empfehle: /jurastudium:lernplan
+Plugin: Profil angelegt. Empfehle: /jurastudium:fallfrage-bearbeiten Thema: lernplan
 ```
 
 ## Risiken / typische Fehler

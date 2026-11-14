@@ -131,7 +131,7 @@
           ]
         }
       ],
-      "target_skill": "begruendung-redaktion-ohne-schablone"
+      "target_skill": "gewissen-und-verweigerung-bearbeiten"
     },
     {
       "id": "allmaehliche-entwicklung-ohne-erfundenes-erlebnis",
@@ -163,7 +163,7 @@
           ]
         }
       ],
-      "target_skill": "begruendung-redaktion-ohne-schablone"
+      "target_skill": "gewissen-und-verweigerung-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -174,7 +174,7 @@
       "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
       "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md",
       "quality/evals/kriegsdienstverweigerung-wehrdienst.json",
-      "kriegsdienstverweigerung-wehrdienst/skills/begruendung-redaktion-ohne-schablone/SKILL.md"
+      "kriegsdienstverweigerung-wehrdienst/skills/begruendung-redaktion-ohne-schablone/FACHINHALT.md"
     ],
     "opening_change": "Eigene Gewissensgrenze, Antrag und Diensttermine statt fachfremder Gefahren- und Statusprognosen.",
     "norms": [
@@ -204,15 +204,15 @@
         "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md",
         "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
         "kriegsdienstverweigerung-wehrdienst/references/quellenkarte-kdv-wehrdienst.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/begruendung-fuer-aktive-soldaten/SKILL.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/beweislast-und-ueberzeugungsbildung/SKILL.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/bverwg-2018-innere-umkehr/SKILL.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/gewissensentscheidung-massstab-glossar-kdv/SKILL.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/innere-umkehr-gediente/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/begruendung-fuer-aktive-soldaten/FACHINHALT.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/beweislast-und-ueberzeugungsbildung/FACHINHALT.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/bverwg-2018-innere-umkehr/FACHINHALT.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/gewissensentscheidung-massstab-glossar-kdv/FACHINHALT.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/innere-umkehr-gediente/FACHINHALT.md",
         "kriegsdienstverweigerung-wehrdienst/skills/kaltstart-triage/SKILL.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/lebensfuehrung-und-plausibilitaet/SKILL.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/lebenslauf-luecken-und-widersprueche/SKILL.md",
-        "kriegsdienstverweigerung-wehrdienst/skills/schluesselerlebnis-wandel-schriftliche/SKILL.md"
+        "kriegsdienstverweigerung-wehrdienst/skills/lebensfuehrung-und-plausibilitaet/FACHINHALT.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/lebenslauf-luecken-und-widersprueche/FACHINHALT.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/schluesselerlebnis-wandel-schriftliche/FACHINHALT.md"
       ],
       "result": "Gewissensentwicklung darf allmählich erfolgen. Vorheriger Waffendienst führt weder automatisch zur Ablehnung noch verlangt der Text ein bestimmtes Schlüsselerlebnis.",
       "search_2026": "Suche nach 2026-Gewissensentscheidungen ergab ältere Fälle (6 B 124.18, 6 B 63.23), keinen neuen tragfähigen Fall.",

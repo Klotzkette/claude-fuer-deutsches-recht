@@ -83,7 +83,7 @@
     {
       "id": "agenten-digitalrecht-2026",
       "request": "Ein Agent bewertet Kreditanträge, zeigt einem Sachbearbeiter nur fünf positive Fälle und versendet alle übrigen Ablehnungen automatisch. Die Bank verweist auf Artikel 6 Absatz 1 Buchstabe f DSGVO und einen jederzeit erreichbaren Not-Aus. Ein Betroffener verlangt eine Erklärung; der Anbieter beruft sich auf Geschäftsgeheimnisse. Verfassen Sie einen Entscheidungsvermerk und eine verständliche Betroffenenantwort. Fehlende tatsächliche Gründe nicht erfinden und nichts versenden.",
-      "target_skill": "automatisierte-entscheidung-dsgvo-art-22",
+      "target_skill": "risikoklasse-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Entscheidungsvermerk.docx",
@@ -118,7 +118,7 @@
     },
     {
       "id": "artikel-50-rollenwechsel-und-endkontrolle",
-      "target_skill": "begrenztes-risiko-art-50-transparenzpflichten",
+      "target_skill": "nachweisakte-bearbeiten",
       "request": "Verfasse transparenz.docx für folgenden begrenzten Auftrag, keine allgemeine Hochrisikoanalyse: Eine Kanzlei veröffentlicht einen KI-Text zum Verbraucherschutz hinter einer für jeden zugänglichen Bezahlschranke. Nach einer substanziellen KI-Änderung wurde die gesamte Endfassung fachkundig auf Aussagen und Tatsachen geprüft; der benannte Redakteur trägt die redaktionelle Verantwortung. Außerdem beantwortet ein Agent Leser-E-Mails selbstständig im Auftrag der Kanzlei; Mitarbeiter können eingreifen, tun dies aber regelmäßig nicht. Der unabhängige Anbieter möchte die technische Markierung wegen interner Nutzung während der Entwurfsphase weglassen. Prüfe getrennt und formuliere den benötigten Hinweis und die Anbieteranfrage.",
       "input_files": [],
       "deliverables": [
@@ -185,7 +185,7 @@
           ]
         }
       ],
-      "target_skill": "transparenz-deepfake-synthetic-content-art-50"
+      "target_skill": "rolle-und-lieferkette-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -320,7 +320,7 @@
     "prompt_path": "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md",
     "skill_path": "ki-vo-ai-act-pruefer/skills/entscheidungsbaum-ki-vo-gesamt-workflow/SKILL.md",
     "prompt_sha256": "b1ade8ed2488e98a0de941f6657b9fb45970b1ec2ab4c2d070195fe32b61a5ed",
-    "skill_sha256": "c48583c392cc33b94fa4cfa1dffdd16110f4c2381c294befd7c5fef8a4c6b9db"
+    "skill_sha256": "19489d64023f878284bfc61425ea4b0bc3926bcb91aac9b14c53fc2557782c6d"
   },
   "source_review_2026_10_09": {
     "method": "official_fulltext_and_editorial_review",

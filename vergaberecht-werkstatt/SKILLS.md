@@ -2,9 +2,9 @@
 
 [Repo-Start](README.md) | [Dateikatalog](README.md#dateikatalog) | [Sofort-Downloads](README.md#sofort-downloads) | [Vergabestelle](vergabestelle-behoerden/README.md) | [Bieter](bieter-unternehmen/README.md) | [Konkurrent](konkurrenten-rechtsschutz/README.md) | [Plugin-Detailseiten](skills-index/README.md) | [Testakten](testakten/README.md) | [Rechtsprechung](references/leitentscheidungen-anker.md)
 
-Automatisch generierte Gesamtübersicht aller 255 Skills in 3 Plugins.
+Automatisch generierte Gesamtübersicht aller 36 Skills in 3 Plugins.
 
-Stand: `v445.33.1`.
+Die Tabellen zeigen die aktuelle aktive Auswahl. Die einzeln verlinkten Plugin-ZIPs folgen ihrem jeweiligen Komponentenrelease. Die gesonderten Sammel- und Markdown-Archive bleiben als veröffentlichter Stand `v445.33.1` erhalten; sie enthalten die damalige Skillaufteilung. Für die aktuelle kompakte Auswahl mit vollständigen Fachmodulen das jeweilige Plugin-ZIP verwenden.
 
 ## Alle Skills auf einmal herunterladen
 
@@ -59,7 +59,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Wichtig: Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim nächsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 255 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 36 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 ## Alle Plugins
 
@@ -67,6 +67,6 @@ Pro Plugin: Klick auf die Detailseite öffnet alle Skills, Beschreibungen und Ei
 
 | Plugin | Rolle | Wofür | Skills | README | Detailseite | Plugin-ZIP | Markdown-ZIP | Mini-Prompt |
 | --- | --- | --- | ---: | --- | --- | --- | --- | --- |
-| vergabestelle-behoerden | Vergabestelle | Vergabe planen, Unterlagen bauen, Bestangebot werten, Rüge/VK/OLG verteidigen | 122 | [README](vergabestelle-behoerden/README.md) | [Skills ansehen](skills-index/vergabestelle-behoerden.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/vergabestelle-behoerden.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-unified-mini-prompt.md) |
-| bieter-unternehmen | Bieter | Unterlagen prüfen, Angebot liefern, Qualitätsvorsprung belegen, Rüge/VK/OLG führen | 113 | [README](bieter-unternehmen/README.md) | [Skills ansehen](skills-index/bieter-unternehmen.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
+| vergabestelle-behoerden | Vergabestelle | Vergabe planen, Unterlagen bauen, Bestangebot werten, Rüge/VK/OLG verteidigen | 8 | [README](vergabestelle-behoerden/README.md) | [Skills ansehen](skills-index/vergabestelle-behoerden.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/vergabestelle-behoerden.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-unified-mini-prompt.md) |
+| bieter-unternehmen | Bieter | Unterlagen prüfen, Angebot liefern, Qualitätsvorsprung belegen, Rüge/VK/OLG führen | 8 | [README](bieter-unternehmen/README.md) | [Skills ansehen](skills-index/bieter-unternehmen.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/bieter-unternehmen.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
 | konkurrenten-rechtsschutz | Konkurrent | Billigzuschlag, Produktvorgabe, Wertung, Eignung und De-facto-Lage angreifen | 20 | [README](konkurrenten-rechtsschutz/README.md) | [Skills ansehen](skills-index/konkurrenten-rechtsschutz.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz.zip) | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) | [Mini](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |

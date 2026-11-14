@@ -1,6 +1,6 @@
 # Werkzeuge
 
-[Plugin-README](../README.md) | [Repository-Start](../../README.md) | [Download-Index](../../ASSET_INDEX.md) | [Skills](../skills/README.md) | [Fachquellen](../references/README.md) | [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/diesel-schadensersatz.zip)
+[Plugin-README](../README.md) | [Repository-Start](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) | [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) | [Skills](../skills/README.md) | [Fachquellen](../references/README.md) | [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/diesel-schadensersatz.zip)
 
 Aktenstart, drei Recherchewerkzeuge und Rechtsstands-Cockpit bleiben mit der Python-Standardbibliothek nutzbar. Der Aktenstart vertieft die Textschichtprüfung mit installiertem `pypdf`; der beA-Paketprüfer sperrt ohne `pypdf` die Versandfreigabe, weil nur damit PDF-Objekt- und Stempeltiefenprüfung aktiv sind. Die internen Helfer `query_common.py`, `bgh_sources.py` und `bea_common.py` erzwingen striktes JSON, sichere Ausgaben, aktenzeichenfeste BGH-Links einschließlich amtlicher Dokumentvarianten sowie den Paketauftrag-/Manifest-/Freigabevertrag. Paketbauer und PDF-Stempel beziehen `pypdf` und `reportlab` aus der [`requirements.txt`](../../requirements.txt) des Zielrepositorys.
 

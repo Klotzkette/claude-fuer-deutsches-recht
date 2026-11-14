@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-14",
+  "scope": "Expliziter Insolvenzanfechtung-Quellkandidat für aktuelle separat geroutete Parentversion; historischer Releasepfad bleibt unverändert und geschützt.",
+  "changed_files": [
+    "scripts/build-insolvenzanfechtung-release.py",
+    "scripts/test-insolvenzanfechtung.py",
+    "scripts/test-source-release-candidates.py"
+  ],
+  "constants_unchanged": {
+    "VERSION": "1.1.0",
+    "TAG": "insolvenzanfechtung-v1.1.0",
+    "PARENT_VERSION": "445.35.4",
+    "PROOF": "quality/insolvenzanfechtung/release-pakete.json"
+  },
+  "guardrails": [
+    "Aktueller Parent genau einmal im Marketplace; exakte Source, Manifestversion und Komponentenroute.",
+    "Default und historisches Proofschreiben stoppen vor Dateierzeugung bei neuer Parentversion.",
+    "Candidate und write_proof gegenseitig ausgeschlossen.",
+    "Quellkandidat hat keinen Veröffentlichungstag: tag=null; source_candidate_not_published; historischer Releasebezug separat.",
+    "Beliebige, ungeroutete oder zum Manifest inkonsistente Versionen bleiben Fehler."
+  ],
+  "checks": {
+    "source_candidate_tests": {
+      "exit_code": 0,
+      "tests": 6,
+      "original_two_tests_preserved": true
+    },
+    "source_tests": {
+      "exit_code": 0,
+      "tests": 9,
+      "release_test_skipped_without_dist": true
+    },
+    "actual_candidate_build": {
+      "exit_code": 0,
+      "files": 36,
+      "parent_version": "445.36.0",
+      "parent_route": {
+        "version": "445.36.0",
+        "tag": "qualitaetsrunde-v445.36.0"
+      },
+      "parent_zip_sha256": "a2c55960e7d682e0b6d41dcea7a749bbccd1f307aa6bc762e6e686bcaceee308"
+    },
+    "actual_dist_tests": {
+      "exit_code": 0,
+      "tests": 9
+    }
+  },
+  "protected_files_before": {
+    "quality/insolvenzanfechtung/release-pakete.json": "1e74ab7458f05ff0fdad9c4d28a93022d84ea82eaf94966b53407e7682707841",
+    "scripts/scoped-release-package-versions.json": "15123fe2aa50117f6b713ba39309acc01b7673eae02bdb2d417d683555cd46ba"
+  },
+  "protected_files_after": {
+    "quality/insolvenzanfechtung/release-pakete.json": "1e74ab7458f05ff0fdad9c4d28a93022d84ea82eaf94966b53407e7682707841",
+    "scripts/scoped-release-package-versions.json": "15123fe2aa50117f6b713ba39309acc01b7673eae02bdb2d417d683555cd46ba"
+  },
+  "logs": [
+    {
+      "path": "../tmp/qualitaetsrunde-2026-11-14/anfechtung-candidate/test-source-release-candidates.py.log",
+      "sha256": "addfed763681dc17d22fba43704a402e8cc012f784d00cf3680a26cf1959ae7c"
+    },
+    {
+      "path": "../tmp/qualitaetsrunde-2026-11-14/anfechtung-candidate/test-insolvenzanfechtung.py.log",
+      "sha256": "c631e9baf4f9d1caef8e7f6b9c4696c6d6b5a878825641cdc175612785f19f22"
+    },
+    {
+      "path": "../tmp/qualitaetsrunde-2026-11-14/anfechtung-candidate/actual-build.log",
+      "sha256": "fc494513ed945115ecbf9aeb5b019968c02033fff6d3ee87cf31bfa0437b7d7c"
+    },
+    {
+      "path": "../tmp/qualitaetsrunde-2026-11-14/anfechtung-candidate/actual-dist-tests.log",
+      "sha256": "1fbddd7cee977451b9cadd7d894fc1e575735fb8b82b65802c99cea4d17cb0b7"
+    }
+  ],
+  "limits": "Bestehende 15 Aktenassets aus lokalem release-v1 als Eingangsdaten wiederverwendet, keine Regeneration der Testakten in diesem Lauf. Keine Veröffentlichung, Tags oder Commits. Der Testlauf bestätigt die erzeugten Quellpakete/Prompts und ihre vorhandenen Byte-/PDF-Prüfungen, nicht eine neue juristische Vollprüfung aller Akten."
+}

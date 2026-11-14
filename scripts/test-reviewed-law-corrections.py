@@ -8,6 +8,7 @@ Skill-Slugs bleiben ausdrücklich zulässig.
 from pathlib import Path
 import re
 import unittest
+from skill_sources import fachinhalt_path
 
 ROOT = Path(__file__).resolve().parents[1]
 FILES = {
@@ -69,36 +70,41 @@ def validate_text(group: str, text: str) -> list[str]:
     return errors
 
 
+def source_text(group: str) -> str:
+    """Den erhaltenen Fachtext prüfen, nicht dessen neues Auswahlmenü."""
+    return fachinhalt_path(ROOT / FILES[group]).read_text()
+
+
 class ReviewedLawCorrections(unittest.TestCase):
     def test_current_working_documents(self):
         for group, relative in FILES.items():
             with self.subTest(file=relative):
-                self.assertEqual([], validate_text(group, (ROOT / relative).read_text()))
+                self.assertEqual([], validate_text(group, source_text(group)))
 
     def test_old_mahn_assignment_is_rejected(self):
-        text = (ROOT / FILES["mahn"]).read_text().replace("| Hessen | AG Hünfeld |", "| Hessen | AG Frankfurt |")
+        text = source_text("mahn").replace("| Hessen | AG Hünfeld |", "| Hessen | AG Frankfurt |")
         self.assertIn("Hessen-falsches-Gericht", validate_text("mahn", text))
 
     def test_cost_limit_cannot_replace_main_claim_limit(self):
-        text = (ROOT / FILES["vollstreckung"]).read_text().replace("deren Gegenstand 1.250 EUR", "deren Gegenstand 1.500 EUR")
+        text = source_text("vollstreckung").replace("deren Gegenstand 1.250 EUR", "deren Gegenstand 1.500 EUR")
         self.assertIn("1500-als-Hauptsachegrenze", validate_text("vollstreckung", text))
 
     def test_decision_date_alone_is_not_enough(self):
-        text = (ROOT / FILES["vollstreckung"]).read_text()
+        text = source_text("vollstreckung")
         text = "\n".join(line for line in text.splitlines() if "Nach § 47 EGZPO" not in line)
         self.assertIn("Verhandlung-Uebergang", validate_text("vollstreckung", text))
 
     def test_old_appeal_form_is_rejected(self):
-        text = (ROOT / FILES["berufung"]).read_text() + "\nschriftlich oder zu Protokoll der\nGeschäftsstelle einzulegen"
+        text = source_text("berufung") + "\nschriftlich oder zu Protokoll der\nGeschäftsstelle einzulegen"
         self.assertIn("Berufung-zu-Protokoll", validate_text("berufung", text))
 
     def test_old_request_norm_is_rejected(self):
-        text = (ROOT / FILES["marken"]).read_text() + "\nParagraph 144 Abs 1 MarkenG: Antragsdelikt."
+        text = source_text("marken") + "\nParagraph 144 Abs 1 MarkenG: Antragsdelikt."
         self.assertIn("144-keine-Antragsnorm", validate_text("marken", text))
 
     def test_historical_600_euros_and_technical_slug_are_allowed(self):
-        self.assertEqual([], validate_text("vollstreckung", (ROOT / FILES["vollstreckung"]).read_text()))
-        self.assertEqual([], validate_text("qualifikation", (ROOT / FILES["qualifikation"]).read_text()))
+        self.assertEqual([], validate_text("vollstreckung", source_text("vollstreckung")))
+        self.assertEqual([], validate_text("qualifikation", source_text("qualifikation")))
 
 
 if __name__ == "__main__":

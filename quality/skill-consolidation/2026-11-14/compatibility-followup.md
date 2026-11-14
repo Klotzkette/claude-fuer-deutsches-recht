@@ -1,0 +1,11 @@
+# Ergänzende Kompatibilitätsprüfung vom 14. November 2026
+
+Die sechs zusätzlich angeforderten Quellprüfungen und die Kompatibilitätsregressionen bestehen: insgesamt 63 ausgeführte Testmethoden. Fünf weitere Methoden benötigen separate Releaseverzeichnisse und wurden ausdrücklich übersprungen (drei beim Halluzinationsreduzierer, zwei bei Compliance Hameln). Der [Maschinennachweis](compatibility-followup.json) nennt den Umfang und bindet die vollständigen Logs per SHA-256.
+
+Der Phishing-Test setzte zuvor die aktuellen Marketplace-Versionen mit der historischen Builder-Version 445.35.4 gleich. Für den Quelltest werden nun die tatsächlichen Manifestversionen und ihre explizit gleichversionierten Downloadrouten geprüft. Vier neue Regressionen sichern die Trennung ab: ein neuer, passend gerouteter Quellstand ist erlaubt; eine veraltete Route, ein veraltetes Manifest und eine unpassende historische Dist-Version werden zurückgewiesen. Die elf bestehenden fachlichen Phishing-Regressionen bleiben vollständig erhalten.
+
+Der historische Phishing-Builder ist bytegleich zum bisherigen HEAD. Sein Versionsschutz bleibt bestehen; der optionale `--dist`-Test verlangt zusätzlich den exakten historischen Releasetag und die historischen Komponentenversionen im Paketnachweis. Die alten Phishing-Releasepakete wurden in diesem Nachlauf weder neu gebaut noch heruntergeladen.
+
+Der Kompatibilitätsbuilder wurde in einem leeren temporären Verzeichnis ausgeführt. Die zwölf Dateien enthalten neun Plugin-ZIPs, ein Website-ZIP und zwei Prüfnachweise. Anschließend wurden alle elf aufgeführten Prüfsummen unabhängig nachgerechnet und sämtliche Plugin-ZIPs erneut geöffnet: Dateilisten, jedes Mitglied gegen den Quellenabgleich, Manifestversionen und aktive Skillzahlen stimmen. Der [unabhängige Paketnachweis](compatibility-followup/independent-verification.json) enthält die Einzelwerte. Die neun Pakete enthalten jeweils höchstens 20 aktive Skills.
+
+Der historische Kompatibilitäts-Buildertag bleibt unverändert; aktuellere Plugins werden mit ihrer tatsächlichen Komponentenroute ausgewiesen. Diese temporären Pakete wurden nicht veröffentlicht. Der Nachlauf beinhaltet keine neue Rechtsprechungsprüfung, keine Modellausführung und keine Prüfung heruntergeladener Veröffentlichungen.

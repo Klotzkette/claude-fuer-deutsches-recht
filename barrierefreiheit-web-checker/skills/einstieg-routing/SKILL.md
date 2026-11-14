@@ -11,21 +11,21 @@ Prüfe das beauftragte digitale Angebot und erstelle den gewünschten Prüfberic
 
 ## Fachlandkarte dieses Plugins
 
-- `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
-- `agentur-abnahme-vergabe` — Agentur Abnahme Vergabe
-- `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
-- `automatisierter-audit-axe-lighthouse` — Automatisierter Audit AXE Lighthouse
-- `barrierefreiheit-fehlerkatalog` — Barrierefreiheit Fehlerkatalog
-- `barrierefreiheits-erstpruefung-und-mandatsziel` — Barrierefreiheits Erstpruefung und Mandatsziel
-- `bf-kanzleiwebsite-konkret` — BF Kanzleiwebsite Konkret
-- `bf-kiosk-selbstbedienung-mediendienste` — BF Kiosk Selbstbedienung Mediendienste
-- `bf-mediendienste-untertitel-spezial` — BF Mediendienste Untertitel Spezial
-- `bf-pdf-schriftsaetze-versand` — BF PDF Schriftsaetze Versand
-- `bfsg-tatbestand-beweis-und-belege` — Bfsg Tatbestand Beweis und Belege
-- `bfsg-zeitleiste-ecommerce-checkout-en301549` — Bfsg Zeitleiste Ecommerce Checkout En301549
-- `bfsgv-schulung-fristennotiz-agentur-abnahme` — Bfsgv Schulung Fristennotiz Agentur Abnahme
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `rechtfertigung-bearbeiten` (Fachthema: abnahme-formular-portal-und-einreichung) — Abnahme Formular Portal und Einreichung
+- `rechtfertigung-bearbeiten` (Fachthema: agentur-abnahme-vergabe) — Agentur Abnahme Vergabe
+- `arbeitsprodukt-bearbeiten` (Fachthema: audit-barrierefreiheits-bfsg) — Audit Barrierefreiheits Bfsg
+- `rechtfertigung-bearbeiten` (Fachthema: automatisierter-audit-axe-lighthouse) — Automatisierter Audit AXE Lighthouse
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: barrierefreiheit-fehlerkatalog) — Barrierefreiheit Fehlerkatalog
+- `arbeitsprodukt-bearbeiten` (Fachthema: barrierefreiheits-erstpruefung-und-mandatsziel) — Barrierefreiheits Erstpruefung und Mandatsziel
+- `rechtfertigung-bearbeiten` (Fachthema: bf-kanzleiwebsite-konkret) — BF Kanzleiwebsite Konkret
+- `rechtfertigung-bearbeiten` (Fachthema: bf-kiosk-selbstbedienung-mediendienste) — BF Kiosk Selbstbedienung Mediendienste
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: bf-mediendienste-untertitel-spezial) — BF Mediendienste Untertitel Spezial
+- `rechtfertigung-bearbeiten` (Fachthema: bf-pdf-schriftsaetze-versand) — BF PDF Schriftsaetze Versand
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: bfsg-tatbestand-beweis-und-belege) — Bfsg Tatbestand Beweis und Belege
+- `rechtfertigung-bearbeiten` (Fachthema: bfsg-zeitleiste-ecommerce-checkout-en301549) — Bfsg Zeitleiste Ecommerce Checkout En301549
+- `pruefstandard-bearbeiten` (Fachthema: bfsgv-schulung-fristennotiz-agentur-abnahme) — Bfsgv Schulung Fristennotiz Agentur Abnahme
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

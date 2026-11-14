@@ -11,21 +11,21 @@ Erstelle aus Auftrag, Schriftsätzen und gerichtlicher Korrespondenz das bestell
 
 ## Fachlandkarte dieses Plugins
 
-- `amtlicher-zpo-proz-bauleiter-eilverfahren` — Amtlicher ZPO Proz Bauleiter Eilverfahren
-- `anspruchstabelle-beweislast` — Anspruchstabelle Beweislast
-- `anspruchstabelle-gegenseite-interessen` — Anspruchstabelle Gegenseite Interessen
-- `anwaltsgeheimnis-pruefung` — Anwaltsgeheimnis Prüfung
-- `argumentationsverbesserung-red-team` — Argumentationsverbesserung RED Team
-- `beweissicherung-einstweilige-verfuegung` — Beweissicherung Einstweilige Verfuegung
-- `chronologie` — Chronologie
-- `eilverfahren-risikoampel-und-gegenargumente` — Eilverfahren Risikoampel und Gegenargumente
-- `einstweilige-verfuegung` — Einstweilige Verfuegung
-- `gegenseite-mehrparteien-konflikt-und-interessen` — Gegenseite Mehrparteien Konflikt und Interessen
-- `gegenseite-status-mahnbescheid-mahnschreiben` — Gegenseite Status Mahnbescheid Mahnschreiben
-- `kaltstart-interview` — Kaltstart Interview
-- `mahnbescheid` — Mahnbescheid
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `prozessroute-bearbeiten` (Fachthema: amtlicher-zpo-proz-bauleiter-eilverfahren) — Amtlicher ZPO Proz Bauleiter Eilverfahren
+- `beweis-bearbeiten` (Fachthema: anspruchstabelle-beweislast) — Anspruchstabelle Beweislast
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anspruchstabelle-gegenseite-interessen) — Anspruchstabelle Gegenseite Interessen
+- `prozessroute-bearbeiten` (Fachthema: anwaltsgeheimnis-pruefung) — Anwaltsgeheimnis Prüfung
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: argumentationsverbesserung-red-team) — Argumentationsverbesserung RED Team
+- `beweis-bearbeiten` (Fachthema: beweissicherung-einstweilige-verfuegung) — Beweissicherung Einstweilige Verfuegung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: chronologie) — Chronologie
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: eilverfahren-risikoampel-und-gegenargumente) — Eilverfahren Risikoampel und Gegenargumente
+- `prozessroute-bearbeiten` (Fachthema: einstweilige-verfuegung) — Einstweilige Verfuegung
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: gegenseite-mehrparteien-konflikt-und-interessen) — Gegenseite Mehrparteien Konflikt und Interessen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: gegenseite-status-mahnbescheid-mahnschreiben) — Gegenseite Status Mahnbescheid Mahnschreiben
+- `prozessroute-bearbeiten` (Fachthema: kaltstart-interview) — Kaltstart Interview
+- `prozessroute-bearbeiten` (Fachthema: mahnbescheid) — Mahnbescheid
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

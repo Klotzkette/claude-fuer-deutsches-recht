@@ -48,4 +48,4 @@ Benötigte Arbeitsprodukte: Due-Diligence-Nachforderung und messbarer Meilenstei
 
 ## 1.6. Vollständige Übungsakte
 
-- [Testakte ki-konformitaet-eichengrund-logistik](../../testakten/ki-konformitaet-eichengrund-logistik/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.
+- [Testakte ki-konformitaet-eichengrund-logistik](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.

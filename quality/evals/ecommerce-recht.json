@@ -141,7 +141,7 @@
           ]
         }
       ],
-      "target_skill": "button-loesung-312j-bgb"
+      "target_skill": "vertragsschluss-bearbeiten"
     },
     {
       "id": "individuelle-konditionen-standardcheckout",
@@ -173,7 +173,7 @@
           ]
         }
       ],
-      "target_skill": "button-loesung-312j-bgb"
+      "target_skill": "vertragsschluss-bearbeiten"
     }
   ],
   "workshop_review": {

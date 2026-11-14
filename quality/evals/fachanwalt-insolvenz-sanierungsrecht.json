@@ -215,12 +215,12 @@
       "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md",
       "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
       "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
-      "fachanwalt-insolvenz-sanierungsrecht/skills/zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen/SKILL.md",
+      "fachanwalt-insolvenz-sanierungsrecht/skills/zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen/FACHINHALT.md",
       "quality/evals/fachanwalt-insolvenz-sanierungsrecht.json",
       "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md",
       "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
       "fachanwalt-insolvenz-sanierungsrecht/references/insolvenzanfechtung-rechtsquellen.md",
-      "fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/SKILL.md"
+      "fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/FACHINHALT.md"
     ],
     "opening_change": "Insolvenzreife und einzelne Organforderungen aus Zahlungsjournal und Gegenwerten bestimmen. Workflow-Ergänzung: Leer: Insolvenzstatus, Organ-Zahlungshaftung oder Gläubigerforderung anbieten. Dateien ohne Aufgabe: Liquiditätsunterlagen, Zahlungsjournal und Verfahrensbeschlüsse still lesen; Status-, Haftungs- oder Forderungsziel klären. Klarer Auftrag: verlangtes Gutachten oder Haftungsschreiben unmittelbar ausarbeiten; keine automatische gesamte Insolvenzakte referieren.",
     "norms": [
