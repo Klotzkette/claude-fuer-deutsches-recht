@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-14",
+  "method": "Individuelle redaktionelle Lektüre der vollständigen drei Minis, Vergleich jedes geänderten Satzes; keine neu erhobene Rechtsprechung.",
+  "files": [
+    {
+      "plugin": "agb-recht-pruefer",
+      "path": "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+      "scope": "Vollständige redaktionelle Mini-Lektüre, Kürzung redundanter Formulierungen nach mechanisch verlängerten Fachmodulpfaden. Keine neue Rechtsquellenprüfung und kein Modelllauf.",
+      "before_bytes": 7528,
+      "after_bytes": 7437,
+      "before_sha256": "7cbb0d4bcd386b23a5cd52514ea32f3aa6679c915f95e206c86663baa7903f2b",
+      "after_sha256": "a75a17d662e1c62e2247a2ce876bf7a828b305c8e8a7a7f456b27f24ba4b9216",
+      "previous_mini_review": {
+        "verdict": "revised",
+        "reason": "Gezielte Quellenvertiefung: Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren.",
+        "changes": [
+          "Schadenspauschale an gewöhnlichen Schaden und ausdrücklichen Gegenbeweis geknüpft.",
+          "III ZR 426/23 mit Teilbarkeitsfolge und Grenzen in den eigenständigen Mini aufgenommen.",
+          "Leerstart: Klauselprüfung, Ersatzregel oder AGB-Beanstandung anbieten. Dateien: Abschlussfassung still lesen; Stornopauschale, Neuvertrag oder Abmahnung passend eingrenzen. Klarer Auftrag: Gewünschte Klausel oder Antwort ohne erneute Vertragsaufnahme ausarbeiten.",
+          "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
+          "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt.",
+          "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt.",
+          "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25"
+        ],
+        "sha256": "7cbb0d4bcd386b23a5cd52514ea32f3aa6679c915f95e206c86663baa7903f2b",
+        "reviewed_on": "2026-10-16",
+        "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+      },
+      "edits": [
+        {
+          "old": "Alle Links sind optional. Ohne Zugriff nach Abschnitt 3 und den Quellen-/Formregeln in Abschnitt 5 weiterarbeiten; keine Zusatzdatei ist erforderlich.",
+          "new": "Links sind optional. Ohne Zugriff nach Abschnitten 3 und 5 weiterarbeiten; Zusatzdateien sind nicht erforderlich."
+        },
+        {
+          "old": "Das Ergebnis enthält die tragende Norm, den entscheidenden Aktenfund, die rechtliche Bewertung und eine konkrete Empfehlung.",
+          "new": "Nenne tragende Norm, entscheidenden Aktenfund, rechtliche Bewertung und Empfehlung."
+        },
+        {
+          "old": "Eine Ersatzfassung vollständig schreiben; keine bloße Anweisung",
+          "new": "Ersatzfassung vollständig schreiben; keine Anweisung"
+        }
+      ],
+      "checks": [
+        "Alle bisherigen Links in identischer Reihenfolge erhalten.",
+        "Tatbestandsanforderungen inhaltlich erhalten; sämtliche mit BGH/BAG/Rn. belegten Passagen wortgleich. Gegen die Vorfassungen maschinell abgeglichen.",
+        "Fallzweige, Folgeantworten, optionale Hilfen, Quellen-/Exportgrenzen und Freigabehindernisse vollständig erhalten."
+      ]
+    },
+    {
+      "plugin": "anlagen-zu-schriftsaetzen",
+      "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-schnellstart.md",
+      "scope": "Vollständige redaktionelle Mini-Lektüre, Kürzung redundanter Formulierungen nach mechanisch verlängerten Fachmodulpfaden. Keine neue Rechtsquellenprüfung und kein Modelllauf.",
+      "before_bytes": 7503,
+      "after_bytes": 7442,
+      "before_sha256": "9875460db1510b29fd9fa8a680b733cd397ae43f40f0b074b4f3462cc12f0ec8",
+      "after_sha256": "08a3cf76e957ccd00938f489157f70a7885495c5d49ab3a58c567b52c757226d",
+      "previous_mini_review": {
+        "sha256": "9875460db1510b29fd9fa8a680b733cd397ae43f40f0b074b4f3462cc12f0ec8",
+        "verdict": "revised",
+        "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Anschlussprüfung 16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+        "changes": [
+          "Erneutes pauschales Einlesen interner Bestände beendet; delegierten Versand und widersprüchlichen Signaturvermerk konkret behandelt; ungeprüfte Entscheidungsliste durch belegte Aussagen ersetzt.",
+          "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
+          "Leerstart: Belegabgleich, PDF-Produktion oder Versandkontrolle anbieten. Dateien: Schriftsatz und Belege still zuordnen; keine Vollproduktion ohne Auftrag. Klarer Auftrag: Nur bestellte Prüfung oder Produktion durchführen.",
+          "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument.",
+          "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+          "16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten."
+        ],
+        "reviewed_on": "2026-10-16",
+        "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+      },
+      "edits": [
+        {
+          "old": "Entnimm den Produktionsumfang dem Auftrag und den Dateien.",
+          "new": "Bestimme den Umfang aus Auftrag und Dateien."
+        },
+        {
+          "old": "Neue entscheidende Widersprüche gezielt klären, beantwortete Fragen nicht wiederholen; bis zur Klärung nur die betroffene Freigabe offenlassen.",
+          "new": "Neue entscheidende Widersprüche klären; beantwortete Fragen nicht wiederholen. Nur die betroffene Freigabe bis zur Klärung offenlassen."
+        },
+        {
+          "old": "Den internen Ordner nicht mitsenden. Liefere die bestellten Dateien und den Freigabevermerk.",
+          "new": "Internen Ordner nicht mitsenden. Bestellte Dateien und Freigabevermerk liefern."
+        },
+        {
+          "old": "Optional vertieft [Schriftsatz-Anlagen-Mapping](skills/schriftsatz-anlagen-mapping/FACHINHALT.md) die Zuordnung; ohne diese Datei genügt die Arbeitsfolge oben.",
+          "new": "Optional: [Schriftsatz-Anlagen-Mapping](skills/schriftsatz-anlagen-mapping/FACHINHALT.md). Ohne Zugriff genügt die Arbeitsfolge oben."
+        }
+      ],
+      "checks": [
+        "Alle bisherigen Links in identischer Reihenfolge erhalten.",
+        "Tatbestandsanforderungen inhaltlich erhalten; sämtliche mit BGH/BAG/Rn. belegten Passagen wortgleich. Gegen die Vorfassungen maschinell abgeglichen.",
+        "Fallzweige, Folgeantworten, optionale Hilfen, Quellen-/Exportgrenzen und Freigabehindernisse vollständig erhalten."
+      ]
+    },
+    {
+      "plugin": "arbeitsrecht",
+      "path": "arbeitsrecht/arbeitsrecht-schnellstart.md",
+      "scope": "Vollständige redaktionelle Mini-Lektüre, Kürzung redundanter Formulierungen nach mechanisch verlängerten Fachmodulpfaden. Keine neue Rechtsquellenprüfung und kein Modelllauf.",
+      "before_bytes": 7508,
+      "after_bytes": 7431,
+      "before_sha256": "16a72753cde80dc86cbce97e735ab768a986ec2627a9e31c2927996b107f1ca7",
+      "after_sha256": "3b1c0bb6b4a78447462a18582b98b9522113bb47687f2f72b14e981deb74f6de",
+      "previous_mini_review": {
+        "sha256": "16a72753cde80dc86cbce97e735ab768a986ec2627a9e31c2927996b107f1ca7",
+        "verdict": "revised",
+        "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
+        "changes": [
+          "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
+          "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+          "Leerstart: Kündigung, Entgelt oder Vertragsgestaltung anbieten. Dateien: Personal- und Verfahrensunterlagen still lesen, kein Personalaktenbericht ohne Auftrag. Klarer Auftrag: Gewünschten Brief, Vertrag oder Schriftsatz unmittelbar erstellen.",
+          "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
+          "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+          "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
+          "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24"
+        ],
+        "reviewed_on": "2026-10-16",
+        "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+      },
+      "edits": [
+        {
+          "old": "Erfasse jede Kündigung gesondert mit Datum",
+          "new": "Erfasse je Kündigung Datum"
+        },
+        {
+          "old": "Den Anwendungsbereich des Kündigungsschutzes vor der sozialen Rechtfertigung klären.",
+          "new": "Kläre vor der sozialen Rechtfertigung, ob Kündigungsschutz gilt."
+        },
+        {
+          "old": "Anträge und Schreiben vollständig formulieren; offene Angaben nur an der betroffenen Stelle markieren.",
+          "new": "Anträge und Schreiben ausformulieren; offene Angaben an der betroffenen Stelle markieren."
+        },
+        {
+          "old": "und das bestellte Schreiben fertigstellen.",
+          "new": "und bestellte Schreiben fertigstellen."
+        },
+        {
+          "old": "Den gewünschten Dateinamen verwenden, sonst",
+          "new": "Gewünschten Dateinamen nutzen, sonst"
+        },
+        {
+          "old": "Folgeantworten wirken gezielt:",
+          "new": "Folgeantworten einarbeiten:"
+        },
+        {
+          "old": "Ein Gutachtenauftrag verlangt keine zusätzliche Klage.",
+          "new": "Ein Gutachtenauftrag verlangt keine Klage."
+        }
+      ],
+      "checks": [
+        "Alle bisherigen Links in identischer Reihenfolge erhalten.",
+        "Tatbestandsanforderungen inhaltlich erhalten; sämtliche mit BGH/BAG/Rn. belegten Passagen wortgleich. Gegen die Vorfassungen maschinell abgeglichen.",
+        "Fallzweige, Folgeantworten, optionale Hilfen, Quellen-/Exportgrenzen und Freigabehindernisse vollständig erhalten."
+      ]
+    }
+  ]
+}

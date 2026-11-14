@@ -101,7 +101,7 @@
           ]
         }
       ],
-      "target_skill": "rechenblatt"
+      "target_skill": "rechenblatt-bearbeiten"
     },
     {
       "id": "gemeinsame-schlussrundung",
@@ -133,7 +133,7 @@
           ]
         }
       ],
-      "target_skill": "rechenblatt"
+      "target_skill": "rechenblatt-bearbeiten"
     }
   ],
   "workshop_review": {

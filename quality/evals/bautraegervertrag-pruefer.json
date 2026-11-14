@@ -77,7 +77,7 @@
       "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt.",
       "16.10.2026: Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht."
     ],
-    "sha256": "bcebeb69649644311c1784e9af5b263dbd2912c893dccaba3ae1d37ad612b7f4",
+    "sha256": "00de2a3c31b9fd9725ca32b68a283603959fac9bdcd0d998d6bb7d965b2a7ece",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -137,7 +137,7 @@
           ]
         }
       ],
-      "target_skill": "mabv-ratenplan-sicherheiten-und-notaranderkonto"
+      "target_skill": "vertragssoll-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

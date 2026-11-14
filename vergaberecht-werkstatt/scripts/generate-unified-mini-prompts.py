@@ -22,7 +22,7 @@ from pathlib import Path
 
 from public_release import RELEASE_BASE, compact_mini
 
-from skill_routing_priorities import MINI_SKILL_SUMMARIES, PLUGIN_PRIORITY_SKILLS, PLUGIN_TRIGGER_ROUTES
+from skill_routing_priorities import MINI_MODULE_SUMMARIES, PLUGIN_PRIORITY_MODULES, PLUGIN_TRIGGER_ROUTES, original_skill_sources, skill_call
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -55,7 +55,7 @@ PRIORITY_RE = re.compile(
     re.IGNORECASE,
 )
 
-PINNED_SKILLS = PLUGIN_PRIORITY_SKILLS
+PINNED_SKILLS = PLUGIN_PRIORITY_MODULES
 
 
 def sanitize_import_language(text: str) -> str:
@@ -226,7 +226,7 @@ def collect_skills(plugin_dir: Path) -> list[dict[str, str | int]]:
     if not skills_dir.is_dir():
         return []
     items = []
-    for skill_md in sorted(skills_dir.glob("*/SKILL.md")):
+    for skill_md in original_skill_sources(plugin_dir):
         slug = skill_md.parent.name
         desc = frontmatter_description(skill_md)
         score = 0
@@ -467,13 +467,13 @@ def build_prompt(plugin: dict, plugin_dir: Path, max_modules: int, desc_len: int
         "",
         "## Claude-Skill-Modus",
         "",
-        "Mit Repo-Skills den passenden Slug aus der Tabelle laden; sonst vollständig autark arbeiten.",
+        "Mit Skills den Arbeitsweg laden; Thema ist der Trigger links. Sonst autark arbeiten.",
         "",
-        "| Trigger | Exakter Skill-Slug |",
+        "| Thema | Aktiver Skill |",
         "|---|---|",
     ]
-    for trigger, slug in PLUGIN_TRIGGER_ROUTES.get(name, []):
-        lines.append(f"| {clean(trigger, 70)} | `{slug}` |")
+    for trigger, owner, module in PLUGIN_TRIGGER_ROUTES.get(name, []):
+        lines.append(f"| {clean(trigger)} | {skill_call(name, module, compact=True)} |")
     lines += ["", "## Auftrag", ""]
     role_note = ROLE_NOTES.get(name)
     if role_note:
@@ -521,9 +521,9 @@ def build_prompt(plugin: dict, plugin_dir: Path, max_modules: int, desc_len: int
     if selected:
         for item in selected:
             title = clean(str(item["title"]), 72)
-            desc_source = MINI_SKILL_SUMMARIES.get(str(item["slug"]), str(item["desc"]))
+            desc_source = MINI_MODULE_SUMMARIES.get(str(item["slug"]), str(item["desc"]))
             desc = clean(desc_source, desc_len) or "Bearbeite diesen Teilbereich anhand der Akte, der einschlägigen Normen, Fristen, Beweisfragen und des gewünschten Outputs."
-            lines.append(f"- Skill `{item['slug']}` ({title}): {desc}")
+            lines.append(f"- {skill_call(name, str(item['slug']))} ({title}): {desc}")
     else:
         lines.append("- Autarker Arbeitsmodus: Sachverhalt strukturieren, Normen und Risiken bestimmen, verwertbaren Output erstellen und Quellenhygiene beachten.")
 
@@ -540,14 +540,17 @@ def build_prompt(plugin: dict, plugin_dir: Path, max_modules: int, desc_len: int
 def fit_prompt(plugin: dict, plugin_dir: Path) -> str:
     for max_modules, desc_len in [(24, 160), (20, 145), (16, 135), (12, 130), (10, 120), (8, 115), (6, 110), (5, 105), (4, 120), (3, 95), (2, 80), (1, 70), (0, 0)]:
         text = build_prompt(plugin, plugin_dir, max_modules=max_modules, desc_len=desc_len)
-        if len(text) <= SOFT_MAX:
+        if max_modules and len(text) > SOFT_MAX:
+            continue
+        try:
+            # Die tatsächlichen UTF-8-Bytes nach rein optischer Tabellenstraffung
+            # entscheiden. Kein Fachthema oder Trigger darf dafür abgeschnitten werden.
             return compact_mini(text)
-    text = build_prompt(plugin, plugin_dir, max_modules=0, desc_len=0)
-    if len(text) <= MAX_CHARS:
-        return compact_mini(text)
+        except ValueError:
+            continue
     raise ValueError(
         f"{plugin['name']}: vollständiger Mini-Prompt hat selbst ohne Zusatzmodule "
-        f"{len(text)} Zeichen; Limit {MAX_CHARS}"
+        f"{len(text.encode('utf-8'))} UTF-8-Bytes; Limit {MAX_CHARS}"
     )
 
 

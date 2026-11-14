@@ -162,7 +162,7 @@
           ]
         }
       ],
-      "target_skill": "titel-klausel-zustellung"
+      "target_skill": "titelcheck-bearbeiten"
     },
     {
       "id": "versaumnisurteil-und-notarurkunde-getrennte-wartefristen",
@@ -201,7 +201,7 @@
           ]
         }
       ],
-      "target_skill": "titel-klausel-zustellung"
+      "target_skill": "titelcheck-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

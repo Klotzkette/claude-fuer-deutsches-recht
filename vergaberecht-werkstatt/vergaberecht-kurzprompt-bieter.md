@@ -7,19 +7,19 @@ Wenn Claude-Skills dieses Repos verfügbar sind, zuerst den passenden Skill lade
 | Trigger | Exakter Skill-Slug | Erster Output |
 |---|---|---|
 | Kaltstart, Unterlagenpaket, Portalexport oder unklare Rolle | `vergabe-os-master-orchestrator` | Ein-Bildschirm-Lage |
-| komplexe Bieterakte, Dashboard, Fristenampel, Belegmatrix oder mehrere Angriffspunkte | `bieter-dashboard-canvas` | Bieterdashboard |
-| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `unterlagen-und-lv-datenformate-auslesen` | Dokumentenmatrix |
-| SAP, ERP, CRM, HR, AVA, DMS, API, MCP, Systemexport oder Freeze | `legacy-systeme-integration` | Quellmapping |
-| Angebot im geforderten Format liefern oder Angebotsfreeze bilden | `angebot-in-vorgegebenem-format-erstellen` | Upload-/Formatcheck |
-| nicht niedrigster Preis, aber bestes Angebot | `qualitaetsvorsprung-nachweisen` | Punktebrücke |
-| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit oder Herkunftsquote | `netto-null-technologien-vergabe` | Compliance-/Rügematrix |
-| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `bieterfragen-antworten-management` | Fragenlog |
-| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `21-ruegeschreiben-erstellen` | Rügeentwurf |
-| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `nachpruefungsantrag-powerdraft` | VK-Entwurf |
-| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `vergabekammer-verhandlung-vergleich-und-eskalation` | Terminplan |
-| Ausschluss, Eignung, Nachforderung, Steuer-/Sozialabgaben oder Selbstreinigung | `eignungspruefung` | Eignungsmatrix |
-| Bundestariftreue, BTTG, Tariftreueversprechen oder Lohnkalkulation | `09-angebotskalkulation-stueckpreise` | BTTG-Kalkulationscheck |
-| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `08-bietergemeinschaft-bildung` | BG-Krisenpfad |
+| komplexe Bieterakte, Dashboard, Fristenampel, Belegmatrix oder mehrere Angriffspunkte | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` | Bieterdashboard |
+| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` | Dokumentenmatrix |
+| SAP, ERP, CRM, HR, AVA, DMS, API, MCP, Systemexport oder Freeze | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` | Quellmapping |
+| Angebot im geforderten Format liefern oder Angebotsfreeze bilden | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` | Upload-/Formatcheck |
+| nicht niedrigster Preis, aber bestes Angebot | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` | Punktebrücke |
+| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit oder Herkunftsquote | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` | Compliance-/Rügematrix |
+| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` | Fragenlog |
+| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` | Rügeentwurf |
+| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` | VK-Entwurf |
+| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: vergabekammer-verhandlung-vergleich-und-eskalation` | Terminplan |
+| Ausschluss, Eignung, Nachforderung, Steuer-/Sozialabgaben oder Selbstreinigung | `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung` | Eignungsmatrix |
+| Bundestariftreue, BTTG, Tariftreueversprechen oder Lohnkalkulation | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise` | BTTG-Kalkulationscheck |
+| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung` | BG-Krisenpfad |
 
 ## Null-Konfigurations-Start
 
@@ -81,7 +81,7 @@ Vor Textausarbeitung immer sieben Felder füllen: Falltyp, Normenanker, Tatbesta
 | Billigkonkurrent gewinnt | BGH `X ZB 10/16` und § 60 VgV für Aufklärung; veröffentlichte Matrix oder konkrete Sonderregel für den Wertungsangriff. Mara allein genügt nicht. |
 | BG-Mitglied hat Steuer-/Sozialabgabenproblem | `C-268/25` nur als Schlussanträge nutzen: Mitglied, Kenntnis, Zurechnung, Austausch ohne wesentliche Angebotsänderung. |
 | Registerbuße soll Ausschluss tragen | `C-590/24 AK Dlhopolec` nur zur Geldbußenbemessung nutzen; die Ausschlussfragen waren unzulässig. Bescheid, Bestandskraft, Register, Ausschlussnorm und Verhältnismäßigkeit getrennt verteidigen. |
-| Bundeswehr, Verteidigung, Sicherheit oder VSVgV | `bundeswehrbeschaffung-bwbbg-2026` laden: BwBBG seit 14.02.2026, §-1-Anwendungsbereich, §-19-Übergang, Zugang nach § 11, Finanzierung/Nachforderung, Vorab-Rüge nach § 15 Abs. 2, VK Bund und OLG. Keinen Inhalt des fehlenden § 15 Abs. 7 erfinden. |
+| Bundeswehr, Verteidigung, Sicherheit oder VSVgV | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` laden: BwBBG seit 14.02.2026, §-1-Anwendungsbereich, §-19-Übergang, Zugang nach § 11, Finanzierung/Nachforderung, Vorab-Rüge nach § 15 Abs. 2, VK Bund und OLG. Keinen Inhalt des fehlenden § 15 Abs. 7 erfinden. |
 | Bundestariftreue ist berührt | BTTG seit 1. Mai 2026 prüfen: §-1-Regelbereich für Bundes-Bau/Dienstleistung/Konzession ab 50.000 Euro netto, nicht reine Lieferung; § 14 außerhalb dieser Regelgrenzen, aber nur nach unanfechtbarer §-13-Feststellung; § 16 und aktuellen §-5-Verordnungsstatus prüfen. Keine fiktiven Tarifwerte; § 160 Abs. 2 Satz 2 GWB sperrt den Verordnungsangriff ohne rechtskräftigen §-98-Abs.-4-ArbGG-Beschluss. |
 | Nichtabhilfe oder § 134 GWB | Fastweb/PFE/Randstad als Rechtsschutzanker nur mit Interesse, bieterschützendem Fehler, Schaden und konkreter Zuschlagschance einsetzen. |
 

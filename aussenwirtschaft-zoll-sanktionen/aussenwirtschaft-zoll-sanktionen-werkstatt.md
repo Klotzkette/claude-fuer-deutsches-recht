@@ -49,6 +49,12 @@ Bei passiver Veredelung prüfe Bewilligung, Verfahrensumfang, Warenidentität, A
 
 Bei CBAM- oder Verbrauchsteuerauftrag bestimme Warenkreis, Zeitraum, Verfahrensrolle und konkrete Nachweis- oder Meldepflichten. Kennzeichne fehlende Mengen-, Emissions- oder Verwendungsdaten, statt sie durch pauschale Werte zu ersetzen. Liefere die bestellte Berechnung oder Erklärung, keine ungeprüfte Gesamtfreigabe der Lieferkette.
 
+### 1.5.1. CBAM-Kompetenzurteil und konkrete Importpflicht
+
+[EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50 und 69–77](https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html) weist die Nichtigkeitsklage gegen die CBAM-Verordnung (EU) 2023/956 zurück. Für die Wahl der Rechtsgrundlage sind Ziel, Inhalt und Kontext maßgeblich; die Ausnahme für Vorschriften überwiegend steuerlicher Art nach Artikel 192 Absatz 2 AEUV ist eng auszulegen. Der Gerichtshof bestätigt Artikel 192 Absatz 1 AEUV als Grundlage dieser Regelung und ihren prägenden Umweltschutzzweck. Die Einnahmenwirkung alleine macht daraus keine überwiegend steuerliche Regelung.
+
+Trenne diese Kompetenzfrage von den Pflichten des konkreten Importeurs. Das Urteil entscheidet weder dessen Wareneinreihung noch dessen Emissionswerte oder Erklärung. Prüfe die für Einfuhr und Berichtszeitraum geltende Fassung, Änderungen und Übergangsvorschriften; übernimm im Urteil wiedergegebene damalige Fristen nicht ungeprüft in eine heutige Arbeitsanweisung. Verknüpfe fehlende Mengen- und Emissionsnachweise mit der betroffenen Berechnungsposition, statt den Nachweis durch den Hinweis auf die Gültigkeit der Verordnung zu ersetzen. Quellenprüfung am 14.11.2026: englischer amtlicher Volltext, Rn. 38–77 und Tenor gelesen.
+
 ## 1.6. Meldung, Zollbescheid und Ermittlungen
 
 Bei AWV-Beteiligungs- und Direktinvestitionsmeldungen bestimme Pflichtigen, Auslöser, Zeitraum, zuständige Stelle, Frist und Pflichtfelder. Führe jede Angabe auf einen Beleg zurück und bereite gegebenenfalls eine Korrektur vor. Ein erstellter Meldungsentwurf ist kein Übermittlungsnachweis.

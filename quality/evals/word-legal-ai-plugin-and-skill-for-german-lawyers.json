@@ -109,7 +109,7 @@
           ]
         }
       ],
-      "target_skill": "word-dokument-finish-und-layout"
+      "target_skill": "layout-nachweise-endfassung-bearbeiten"
     },
     {
       "id": "aenderungsvereinbarung-nach-geklaertem-termin",
@@ -118,7 +118,7 @@
       "deliverables": [
         "ergebnis.md"
       ],
-      "target_skill": "writing-einstieg-routing",
+      "target_skill": "auftrag-stil-bearbeiten",
       "criteria": [
         {
           "id": "C01",

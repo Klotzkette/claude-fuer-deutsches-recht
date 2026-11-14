@@ -8,9 +8,13 @@ import sys
 from pathlib import Path
 
 from skill_routing_priorities import (
-    MINI_SKILL_SUMMARIES,
+    MINI_MODULE_SUMMARIES,
+    PLUGIN_PRIORITY_MODULES,
     PLUGIN_PRIORITY_SKILLS,
+    PLUGIN_TRIGGER_MODULES,
     PLUGIN_TRIGGER_ROUTES,
+    module_route,
+    original_skill_sources,
 )
 
 
@@ -72,7 +76,30 @@ def extract_skill_slugs(text: str, known_skills: set[str] | None = None) -> list
     for token in re.findall(r"`([a-z0-9][a-z0-9-]{2,80})`", text):
         if "-" in token or (known_skills and token in known_skills):
             slugs.append(token)
+    slugs.extend(owner for _, owner, _ in explicit_calls(text))
     return slugs
+
+
+def explicit_calls(text: str):
+    return re.findall(r"`/([a-z0-9-]+):([a-z0-9-]+) Thema: ([a-z0-9-]+)`", text)
+
+
+def validate_module_calls(text: str, plugin: str, skills: set[str]) -> list[str]:
+    errors = []
+    for role, owner, module in explicit_calls(text):
+        try:
+            route = module_route(plugin, module)
+        except FileNotFoundError:
+            errors.append(f"Fachmodul oder aktiver Arbeitsweg fehlt: {module}")
+            continue
+        if role != plugin or owner not in skills or route['skill'] != owner:
+            errors.append(f"Fachauftrag {module} wird dem falschen aktiven Arbeitsweg zugeordnet: /{role}:{owner}")
+    # Ein kaputter oder kontextloser Slash-Aufruf darf dem Parser nicht entgehen.
+    recognized = {f"/{role}:{owner} Thema: {module}" for role, owner, module in explicit_calls(text)}
+    for token in re.findall(r"`([^`]+)`", text):
+        if token.startswith('/') and ':' in token and token not in recognized:
+            errors.append(f"Unvollständiger aktiver Aufruf oder fehlendes Fachthema: {token}")
+    return errors
 
 
 def validate_prompt(path: Path, plugin: str, skills: set[str]) -> list[str]:
@@ -108,12 +135,27 @@ def validate_prompt(path: Path, plugin: str, skills: set[str]) -> list[str]:
             errors.append(f"{path}: verbotener notwendiger Kontext: {pattern}")
 
     prompt_slugs = extract_skill_slugs(text, skills)
+    errors.extend(f"{path}: {issue}" for issue in validate_module_calls(text, plugin, skills))
     missing = sorted({slug for slug in prompt_slugs if slug not in skills})
     if missing:
         errors.append(f"{path}: unbekannte Skill-Slugs: {', '.join(missing[:20])}")
 
     if len(set(prompt_slugs)) < 5:
         errors.append(f"{path}: zu wenige Skill-Slugs im Routing sichtbar")
+
+    if kind == 'unified':
+        if len(text.encode('utf-8')) > 7500:
+            errors.append(f"{path}: Mini überschreitet 7500 UTF-8-Bytes")
+        if 'Thema ist der Trigger links' not in text:
+            errors.append(f"{path}: Fachauftrag aus linker Trigger-Spalte wird nicht mitgegeben")
+        for trigger, module in PLUGIN_TRIGGER_MODULES[plugin]:
+            owner = module_route(plugin, module)['skill']
+            # Der komplette ursprüngliche Trigger muss im selben Tabellenfeld
+            # verbleiben; ein passender Owner allein genügt nicht.
+            matching = [line for line in text.splitlines() if line.startswith('|')
+                        and line.split('|')[1].strip() == trigger]
+            if len(matching) != 1 or f'`{owner}`' not in matching[0]:
+                errors.append(f"{path}: Fachthema/Owner fehlt oder ist verwechselt: {module}")
 
     return errors
 
@@ -131,7 +173,7 @@ def validate_router_tables(
         errors.append(f"{plugin}: unbekannte Prioritaets-Skills: {', '.join(unknown_priority[:20])}")
 
     routes = PLUGIN_TRIGGER_ROUTES.get(plugin, [])
-    route_targets = [slug for _, slug in routes]
+    route_targets = [owner for _, owner, _ in routes]
     unknown_routes = sorted({slug for slug in route_targets if slug not in skills})
     if unknown_routes:
         errors.append(f"{plugin}: unbekannte Routing-Skills: {', '.join(unknown_routes[:20])}")
@@ -139,6 +181,9 @@ def validate_router_tables(
     route_not_prioritized = sorted({slug for slug in route_targets if slug not in priority})
     if route_not_prioritized:
         errors.append(f"{plugin}: Routing-Skills fehlen in Prioritaetsliste: {', '.join(route_not_prioritized[:20])}")
+    for _, owner, module in routes:
+        if module not in PLUGIN_PRIORITY_MODULES[plugin] or module_route(plugin, module)['skill'] != owner:
+            errors.append(f"{plugin}: ursprünglicher Fachauftrag nicht priorisiert oder falscher Owner: {module}")
 
     expected_visible = set(route_targets)
     for path, slugs in prompt_slugs.items():
@@ -149,19 +194,21 @@ def validate_router_tables(
     return errors
 
 
-def validate_summary_slugs(all_skills: set[str]) -> list[str]:
-    missing = sorted({slug for slug in MINI_SKILL_SUMMARIES if slug not in all_skills})
+def validate_summary_slugs(all_modules: set[str]) -> list[str]:
+    missing = sorted({slug for slug in MINI_MODULE_SUMMARIES if slug not in all_modules})
     if missing:
-        return [f"skill_routing_priorities.py: Summary-Slugs ohne Skill: {', '.join(missing[:20])}"]
+        return [f"skill_routing_priorities.py: Zusammenfassung ohne vollständiges Fachmodul: {', '.join(missing[:20])}"]
     return []
 
 
 def main() -> int:
     errors: list[str] = []
     all_skills: set[str] = set()
+    all_modules: set[str] = set()
     for plugin, files in ROLE_FILES.items():
         skills = skill_names(plugin)
         all_skills.update(skills)
+        all_modules.update(path.parent.name for path in original_skill_sources(ROOT / plugin))
         if not skills:
             errors.append(f"{plugin}: keine Skills gefunden")
             continue
@@ -172,7 +219,7 @@ def main() -> int:
             if path.is_file():
                 slugs_by_prompt[path] = set(extract_skill_slugs(path.read_text(encoding="utf-8"), skills))
         errors.extend(validate_router_tables(plugin, skills, slugs_by_prompt))
-    errors.extend(validate_summary_slugs(all_skills))
+    errors.extend(validate_summary_slugs(all_modules))
 
     if errors:
         print("validate-prompt-routing-autarky: FEHLER", file=sys.stderr)

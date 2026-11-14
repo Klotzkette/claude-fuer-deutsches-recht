@@ -124,7 +124,7 @@
           ]
         }
       ],
-      "target_skill": "kontenklaerung-drv"
+      "target_skill": "anspruch-und-hoehe-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -132,8 +132,8 @@
     "files": [
       "rentenpruefer/rentenpruefer-werkstatt.md",
       "rentenpruefer/rentenpruefer-schnellstart.md",
-      "rentenpruefer/skills/hinzuverdienst-teilrente-weiterarbeit/SKILL.md",
-      "rentenpruefer/skills/steuer-krankenversicherung-pflegeversicherung-rente/SKILL.md"
+      "rentenpruefer/skills/hinzuverdienst-teilrente-weiterarbeit/FACHINHALT.md",
+      "rentenpruefer/skills/steuer-krankenversicherung-pflegeversicherung-rente/FACHINHALT.md"
     ],
     "opening_change": "Monatsbezogene Zeitnachweise abgleichen und Rentenbeträge aus Bescheidanlagen nachrechnen statt pauschaler Rentenprüfung.",
     "norms": [

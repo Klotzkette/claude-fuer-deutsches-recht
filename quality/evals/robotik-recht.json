@@ -100,7 +100,7 @@
           ]
         }
       ],
-      "target_skill": "unfallanalyse-chain-of-custody"
+      "target_skill": "vorfall-haftung-und-marktaufsicht-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -111,7 +111,7 @@
       "robotik-recht/robotik-recht-werkstatt.md",
       "robotik-recht/robotik-recht-schnellstart.md",
       "quality/evals/robotik-recht.json",
-      "robotik-recht/skills/unfallanalyse-chain-of-custody/SKILL.md"
+      "robotik-recht/skills/unfallanalyse-chain-of-custody/FACHINHALT.md"
     ],
     "opening_change": "Unfallbewegung, Sicherheitsreaktion, Verantwortungsbereich und Beweise vor dem Reset klären.",
     "norms": [

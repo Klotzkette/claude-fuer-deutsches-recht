@@ -46,9 +46,9 @@
       "vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md",
       "vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md",
       "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md",
-      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/10-zuschlagsmatrix-aufbauen/SKILL.md",
-      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/14-aufklaerung-unangemessen-niedrige-preise/SKILL.md",
-      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/26-akteneinsicht-vergabekammer/SKILL.md"
+      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/10-zuschlagsmatrix-aufbauen/FACHINHALT.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/14-aufklaerung-unangemessen-niedrige-preise/FACHINHALT.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/26-akteneinsicht-vergabekammer/FACHINHALT.md"
     ],
     "decisions": [
       {
@@ -119,7 +119,7 @@
   "cases": [
     {
       "id": "wertungsmatrix-vor-bekanntmachung",
-      "target_skill": "10-zuschlagsmatrix-aufbauen",
+      "target_skill": "nachpruefung-bearbeiten",
       "request": "Kuenstliche Testeingabe: Wir bereiten einen VgV-Dienstleistungsauftrag vor, es gibt weder Bekanntmachung noch echte Angebote. Der Fachbereich benoetigt kurze Wiederherstellungszeiten und eine nachweisbare Ausfallreserve. Entwurf: 40 Preispunkte nach 40 mal niedrigster Preis geteilt durch Angebotspreis, 60 Qualitaetspunkte. Rein modellierte Szenarien A, B und C haben Preise von 100000, 120000 und 110000 EUR sowie angenommene Qualitaetspunkte von 20, 55 und 45. Erstelle einen begruendeten Kriterien- und Bewertungsentwurf samt rechnerischem Stresstest. Kriterien duerfen nicht auf einen gewuenschten Anbieter zugeschnitten werden.",
       "input_files": [],
       "deliverables": [
@@ -154,7 +154,7 @@
     },
     {
       "id": "unterpreis-aufklaeren-statt-prozentautomatik",
-      "target_skill": "14-aufklaerung-unangemessen-niedrige-preise",
+      "target_skill": "vergabeart-und-schwelle-bearbeiten",
       "request": "Kuenstliche Testeingabe: Nach Angebotsoeffnung eines VgV-Dienstleistungsauftrags liegen fuer denselben Leistungsumfang 720000 und 1000000 EUR netto vor, die dokumentierte Schaetzung betraegt 980000 EUR. Das guenstigste Angebot behauptet besonders effiziente Personalplanung, liefert aber keine Kostenaufteilung; Sozialabgaben- und Lohnannahmen sind nicht belegt. Eine Aufklaerung wurde noch nicht versandt. Ein Kollege verlangt sofortigen Ausschluss wegen mehr als 20 Prozent Abstand. Erstelle eine konkrete Aufklaerungsanfrage und einen internen Pruefvermerk mit noch offener Entscheidung. Die Behoerde darf keine fehlenden Angaben als bewiesenen Gesetzesverstoss behandeln.",
       "input_files": [],
       "deliverables": [
@@ -188,7 +188,7 @@
     },
     {
       "id": "kammerakte-mit-getrennten-schutzfassungen",
-      "target_skill": "26-akteneinsicht-vergabekammer",
+      "target_skill": "nachpruefung-bearbeiten",
       "request": "Kuenstliche Testeingabe: Im Nachpruefungsverfahren verlangt der unterlegene Bieter Einsicht in die Begruendung der Qualitaetswertung. Das Aktenverzeichnis nennt veroeffentlichte Kriterien, begruendete Punktvergabe, interne Stundensaetze des Zuschlagskandidaten sowie personenbezogene Einzelgehaelter und private Kontaktdaten. Konkrete personenbezogene Werte sind dieser Eingabe nicht beigefuegt. Der Fachbereich will den ganzen Vermerk als geheim markieren. Erstelle eine Schwaerzungsmatrix und eine Stellungnahme an die Kammer mit einem Vorschlag fuer getrennte Fassungen. Uebermittle keine Akte und behaupte keine technisch ausgefuehrte Schwaerzung.",
       "input_files": [],
       "deliverables": [

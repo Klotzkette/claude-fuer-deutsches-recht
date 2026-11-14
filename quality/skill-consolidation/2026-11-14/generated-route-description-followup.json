@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "method": "Einzelne Registry-Beschreibung geändert; alte und neue Datei mit unveränderter render_route-Funktion reproduziert; alle anderen Registrywerte bytegleich kanonisiert",
+  "registry_before_sha256": "d432031f149641f699c87986481b60d6a3e830019086060852560e22fbaf8377",
+  "registry_after_sha256": "b803bef5e4fe4731fb008b9f51296d7970296c4743e80f5fae7a58b3b38e5d64",
+  "changes": [
+    {
+      "path": "normenkontrolle-bauleitplanung/skills/innenentwicklung-und-verfahren-bearbeiten/SKILL.md",
+      "kind": "frontmatter_description",
+      "original_sha256": "5963eded389642b36e9d33f816514cc0870501033d07cc7a8c21bf2af3831835",
+      "sha256": "892ba2e99f1e5292e6417702661e60c14d4379459f44b6f100b77100011812fe",
+      "edits": [
+        {
+          "before_offset": 52,
+          "after_offset": 52,
+          "before": "description: \"Für Bauleitplanung, Normenkontrolle und städtebauliche Verträge: Innenentwicklung und Verfahren: BauGB Paragraf 13, 13a und Übergangsfragen zu 13b, Umweltprüfung und Beteiligung kontrollieren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n",
+          "after": "description: \"Für Bauleitplanung, Normenkontrolle und städtebauliche Verträge: Innenentwicklung und Verfahren: BauGB Paragraf 13 und 13a und Übergangsfragen zu 13b, Umweltprüfung und Beteiligung kontrollieren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.\"\n"
+        }
+      ]
+    }
+  ]
+}

@@ -40,9 +40,9 @@ Schwerpunkt-Skills (Auswahl):
 - `/steuerrecht-anwalt-und-berater:stb-sanierungsgewinn-verlustvortrag-sanity-check`
 - `/insolvenzrecht:insol-sanierungsgewinn-3a-estg-im-starug-plan`
 - `/insolvenzrecht:insol-sanierungsgewinn-debt-equity-swap-im-plan`
-- `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+- `/grosskanzlei-corporate-ma:krise-und-streit-bearbeiten Thema: gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
 - `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-forderungsverzicht-vs-8c-kstg-mantelkauf-8c-kstg`
-- `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+- `/grosskanzlei-corporate-ma:krise-und-streit-bearbeiten Thema: gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 
 ## Mandantin und Verfahren
 

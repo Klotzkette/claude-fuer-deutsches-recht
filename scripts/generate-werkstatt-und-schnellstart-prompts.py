@@ -27,6 +27,7 @@ from typing import Iterable
 
 from themen_profile import profile_for, ThemenProfil
 from prompt_limits import MAX_WORKSHOP_BYTES
+from skill_sources import original_skill_sources
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -3316,21 +3317,19 @@ def skill_directory_priority(path: Path) -> tuple[int, int, str]:
 
 def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
     items = []
-    skill_dirs = [
-        sd
-        for sd in (plugin_dir / "skills").glob("*")
-        if sd.is_dir()
-        and (sd / "SKILL.md").is_file()
-        and sd.name != "juristischer-argumentationskern"
+    skill_files = [
+        source for source in original_skill_sources(plugin_dir)
+        if source.parent.name != "juristischer-argumentationskern"
     ]
     # Alle Skills liefern Titel und Beschreibung für Auswahl und Routing. Nur
     # bei den 80 fachlich höchst priorisierten Skills wird zusätzlich ein
     # längerer Textauszug gelesen; so bleiben auch sehr große Plugins schnell,
     # ohne dass hintere Fachgebiete aus der Prompt-Landkarte verschwinden.
-    ordered_dirs = sorted(skill_dirs, key=skill_directory_priority)
-    for position, sd in enumerate(ordered_dirs):
-        slug = sd.name
-        skill_file = sd / "SKILL.md"
+    # Sammelrouter verkürzen das Auswahlmenü, nicht die fachliche Grundlage
+    # der autarken Prompts. Der Resolver liefert sämtliche Originalmodule.
+    ordered_files = sorted(skill_files, key=lambda source: skill_directory_priority(source.parent))
+    for position, skill_file in enumerate(ordered_files):
+        slug = skill_file.parent.name
         desc = slug.replace("-", " ")
         body = ""
         text = ""

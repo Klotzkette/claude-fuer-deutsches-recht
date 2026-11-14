@@ -117,7 +117,7 @@
           ]
         }
       ],
-      "target_skill": "signing-closing-conditions"
+      "target_skill": "signing-und-vollzug-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

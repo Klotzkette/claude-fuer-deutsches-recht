@@ -28,6 +28,10 @@ Bei mehreren selbständig tragenden Gründen prüfe, ob die Beschwerde sich mit 
 
 BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Randnummern 18 bis 23 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html)): Wiederholt die Beschwerde lediglich ihren abweichenden Sachverhalt oder verweist pauschal auf Anlagen, prüfe die fehlende Auseinandersetzung mit den tragenden Gründen nach Paragraf 23 Absatz 1 Satz 2 und Paragraf 92 BVerfGG. Das Gericht muss Anlagen nicht auf mögliche Rügen durchsuchen. Die Entscheidung betraf ANOM-Daten; ihre Darlegungsmaßstäbe sind nutzbar, nicht jeder dortige materielle Befund. Eine Tabelle ist sinnvoll bei mehreren Rügen; bei einer klaren Rüge genügt eine Darstellung mit Aktenfundstellen.
 
+### 1.3.1 Ultra-vires-Vortrag anhand der Gegenpositionen prüfen
+
+Bei einer Ultra-vires-Rüge arbeite den behaupteten offensichtlichen und strukturell bedeutsamen Kompetenzverstoß aus. [BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html) verlangt eine inhaltliche Auseinandersetzung mit den einschlägigen gerichtlichen Maßstäben und den begründeten Kompetenzauffassungen insbesondere von Bundesregierung, Bundestag und gegebenenfalls Bundesrat. Gegenpositionen entfalten keine eigene Präjudizwirkung, dürfen aber nicht durch pauschale Kritik ersetzt werden. Ordne jeder behaupteten Kompetenzüberschreitung den konkreten Unionsakt, Kompetenzmaßstab, Gegenstandpunkt und rechtzeitigen Gegenvortrag zu. Fehlt die bezeichnete Passage, fordere sie gezielt an; erfinde keinen Vortrag. Die konkreten Anträge waren unzulässig. Daraus folgt keine umfassende materielle Freigabe des Programms oder jeder künftigen Zentralbankmaßnahme.
+
 ## 1.4 Annahme eigenständig prüfen
 
 Trenne die Annahmeprüfung nach Paragraf 93a BVerfGG von Zulässigkeit und Begründetheit. Prüfe grundsätzliche verfassungsrechtliche Bedeutung und angezeigte Durchsetzung der geschützten Rechte einschließlich eines besonders schweren Nachteils nach den gesetzlichen Voraussetzungen.
@@ -63,6 +67,10 @@ Liefere das bestellte Votum mit Gegenstand, entscheidenden Zulässigkeitsfragen,
 Bei Stattgabe prüfe den konkreten Ausspruch nach Paragraf 95 BVerfGG und die zutreffenden Nebenentscheidungen. Aufhebung, Zurückverweisung, Bindungswirkung und Auslagenerstattung nicht pauschal aus einem fremden Muster übernehmen. Keine zivilprozessuale Vollstreckbarkeitsformel ergänzen.
 
 Vorbereitende Skills können optional genutzt werden, sind aber keine zwingende Vorstufe. Fehlt eine entscheidende Angabe, liefere die belastbaren Teile vorläufig und frage gezielt nach. Nach der Antwort Gründe und Vorschlag überarbeiten und das gewünschte Dokument fertigstellen; weitere entscheidende Fragen sind erlaubt, bereits beantwortete nicht zu wiederholen.
+
+### 1.8.1 Erledigung und Auslagenentscheidung
+
+Hat das Fachgericht nach Erhebung der Verfassungsbeschwerde abgeholfen, trenne Erledigung, verbleibendes Entscheidungsbegehren und Auslagenantrag. [BVerfG, Kammerbeschl. v. 15.10.2026 – Az. 2 BvR 927/25, Rn. 1–7](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/rk20261015_2bvr092725.html) behandelt die Auslagenerstattung nach Paragraf 34a Absatz 3 BVerfGG als Billigkeitsentscheidung. Im dortigen Fall hob das Amtsgericht das angegriffene Urteil auf, eröffnete die mündliche Verhandlung erneut und bestätigte dabei die gerügte Gehörsverletzung; das trug die Erstattung (Rn. 3–5). Prüfe deshalb Abhilfebeschluss und Erledigungsgrund, statt aus jeder Erledigung automatisch Kostenerstattung abzuleiten. Die Festsetzung auf den Mindestgegenstandswert von 5.000 Euro beruhte auf den konkreten Umständen (Rn. 6) und ist keine allgemeine Gebührenpauschale. Formuliere den beauftragten Auslagenantrag beziehungsweise gerichtlichen Nebenentscheidungsentwurf mit dieser Begründung, ohne einen Hauptsacheerfolg zu fingieren.
 
 ## 1.9 Fallbezogene Rechtsprechung und Quellen
 

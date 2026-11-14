@@ -50,19 +50,21 @@
     }
   ],
   "mini_review": {
-    "sha256": "2415a7eda28646ca218c051742eb980bf260caf3cecf7192861447f9cddbc9ca",
+    "sha256": "08a3cf76e957ccd00938f489157f70a7885495c5d49ab3a58c567b52c757226d",
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Anschlussprüfung 16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Anschlussprüfung 16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung. Redaktionelle Volllektüre des Mini am 14.11.2026: redundante Formulierungen gekürzt, Fallzweige und Aussagegrenzen erhalten; keine neue Rechtsquellenverifikation.",
     "changes": [
       "Erneutes pauschales Einlesen interner Bestände beendet; delegierten Versand und widersprüchlichen Signaturvermerk konkret behandelt; ungeprüfte Entscheidungsliste durch belegte Aussagen ersetzt.",
       "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
       "Leerstart: Belegabgleich, PDF-Produktion oder Versandkontrolle anbieten. Dateien: Schriftsatz und Belege still zuordnen; keine Vollproduktion ohne Auftrag. Klarer Auftrag: Nur bestellte Prüfung oder Produktion durchführen.",
       "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten."
+      "16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten.",
+      "14.11.2026: Nach Fachmodul-Verweisänderungen unter 7.450 UTF-8-Bytes gestrafft; sämtliche Links, Fallzweige und Quellen-/Freigabegrenzen erhalten."
     ],
-    "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "reviewed_on": "2026-11-14",
+    "latest_editorial_scope": "Vollständige redaktionelle Mini-Lektüre, Kürzung redundanter Formulierungen nach mechanisch verlängerten Fachmodulpfaden. Keine neue Rechtsquellenprüfung und kein Modelllauf.",
+    "previous_editorial_snapshot": "quality/source-audits/2026-11-14/mini-laengenredaktion.json"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -120,7 +122,7 @@
           ]
         }
       ],
-      "target_skill": "schriftsatz-anlagen-mapping"
+      "target_skill": "arbeitsprodukt-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

@@ -37,6 +37,22 @@
       "url": "https://www.gesetze-im-internet.de/bverfgg/__93a.html",
       "checked_on": "2026-09-23",
       "supports": "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor. Quellenstatus: Paragrafen 93 und 93a erneut amtlich gelesen; vorhandene Entscheidungsnachweise mit ihren Anwendungsgrenzen erhalten."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+      "checked_on": "2026-11-14",
+      "supports": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104. Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe. Grenze: Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Kopf, Leitsatz, Verwerfung; Rn. 90–109, 151–156",
+      "sha256": "a0f2be84d0f36bcb31a65a0891879e42964602589d2ff7e1c69838f8f2a30f60"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/rk20261015_2bvr092725.html",
+      "checked_on": "2026-11-14",
+      "supports": "BVerfG, Kammerbeschl. v. 15.10.2026 – Az. 2 BvR 927/25, Rn. 1–7. Auslagenerstattung nach Abhilfe und Erledigung anhand des konkreten Erledigungsgrundes nach Billigkeit prüfen. Grenze: Keine automatische Kostenerstattung nach jeder Erledigung; Mindestgegenstandswert im konkreten Fall.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Vollständiger Beschluss, Rn. 1–7",
+      "sha256": "07c03fdfd2119418c22b8c84f1449158b34b809e84c631ac1981fe563cef38e3"
     }
   ],
   "mini_review": {
@@ -101,15 +117,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Annahmevotum und rechtzeitige Rüge zuerst; Anlagenverweis nicht mit Auseinandersetzung mit tragenden Gründen gleichgesetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Annahmevotum und rechtzeitige Rüge zuerst; Anlagenverweis nicht mit Auseinandersetzung mit tragenden Gründen gleichgesetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "changes": [
       "Aktuelle Zuständigkeitsnorm Artikel 94 GG und fallbezogene Willkürprüfung in beide Prompts aufgenommen.",
       "Unverifizierte Klassikerliste durch gezielte materielle Recherche ersetzt; gerichtliche Neutralität, Annahme, Eilrechtsschutz und Entscheidungsbefugnisse bewahrt.",
       "Eingangsnachweis -> zeitgerechte Rügen und neue Ergänzungen trennen; Vollzugsverschiebung -> Eilfolgen ändern.",
       "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor.",
-      "2026-10-16, redaktioneller Einstiegsreview: Annahmevotum und rechtzeitige Rüge zuerst; Anlagenverweis nicht mit Auseinandersetzung mit tragenden Gründen gleichgesetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Annahmevotum und rechtzeitige Rüge zuerst; Anlagenverweis nicht mit Auseinandersetzung mit tragenden Gründen gleichgesetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: pepp, kosten."
     ],
-    "sha256": "f5b0542039829f649847db228a95582dd4d2dba5ecffe01a232933d4ef588183",
+    "sha256": "dbe997ebbff3891fb242deb0cde07871b26c22b35b318cca3010750a39e099c4",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -142,6 +159,20 @@
         "application": "Pauschale Anlagenverweise und abweichender Sachverhalt ersetzen keine Auseinandersetzung mit tragenden Gründen.",
         "limit": "ANOM-Verfahren; Darlegungsmaßstab übertragbar, keine allgemeine Billigung fremder Datenerhebung.",
         "checked_on": "2026-09-22"
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+        "application": "Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe.",
+        "limit": "Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+        "checked_on": "2026-11-14"
+      },
+      {
+        "citation": "BVerfG, Kammerbeschl. v. 15.10.2026 – Az. 2 BvR 927/25, Rn. 1–7",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/rk20261015_2bvr092725.html",
+        "application": "Auslagenerstattung nach Abhilfe und Erledigung anhand des konkreten Erledigungsgrundes nach Billigkeit prüfen.",
+        "limit": "Keine automatische Kostenerstattung nach jeder Erledigung; Mindestgegenstandswert im konkreten Fall.",
+        "checked_on": "2026-11-14"
       }
     ],
     "remaining_limits": [
@@ -189,5 +220,50 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_audit_2026_11_14": {
+    "date": "2026-11-14",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-11-14/verfassungs-europa-produkt.md",
+    "workshop_path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-werkstatt.md",
+    "before_sha256": "f5b0542039829f649847db228a95582dd4d2dba5ecffe01a232933d4ef588183",
+    "after_sha256": "dbe997ebbff3891fb242deb0cde07871b26c22b35b318cca3010750a39e099c4",
+    "previous_workshop_review": {
+      "verdict": "revised",
+      "reason": "Individuelle Lektüre und Workflow-Vertiefung: Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Annahmevotum und rechtzeitige Rüge zuerst; Anlagenverweis nicht mit Auseinandersetzung mit tragenden Gründen gleichgesetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "changes": [
+        "Aktuelle Zuständigkeitsnorm Artikel 94 GG und fallbezogene Willkürprüfung in beide Prompts aufgenommen.",
+        "Unverifizierte Klassikerliste durch gezielte materielle Recherche ersetzt; gerichtliche Neutralität, Annahme, Eilrechtsschutz und Entscheidungsbefugnisse bewahrt.",
+        "Eingangsnachweis -> zeitgerechte Rügen und neue Ergänzungen trennen; Vollzugsverschiebung -> Eilfolgen ändern.",
+        "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor.",
+        "2026-10-16, redaktioneller Einstiegsreview: Annahmevotum und rechtzeitige Rüge zuerst; Anlagenverweis nicht mit Auseinandersetzung mit tragenden Gründen gleichgesetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      ],
+      "sha256": "f5b0542039829f649847db228a95582dd4d2dba5ecffe01a232933d4ef588183",
+      "reviewed_on": "2026-10-16",
+      "method": "desk_review",
+      "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    },
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+        "application": "Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe.",
+        "limit": "Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+        "read_passages": "Kopf, Leitsatz, Verwerfung; Rn. 90–109, 151–156",
+        "checked_on": "2026-11-14",
+        "sha256": "a0f2be84d0f36bcb31a65a0891879e42964602589d2ff7e1c69838f8f2a30f60"
+      },
+      {
+        "citation": "BVerfG, Kammerbeschl. v. 15.10.2026 – Az. 2 BvR 927/25, Rn. 1–7",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/rk20261015_2bvr092725.html",
+        "application": "Auslagenerstattung nach Abhilfe und Erledigung anhand des konkreten Erledigungsgrundes nach Billigkeit prüfen.",
+        "limit": "Keine automatische Kostenerstattung nach jeder Erledigung; Mindestgegenstandswert im konkreten Fall.",
+        "read_passages": "Vollständiger Beschluss, Rn. 1–7",
+        "checked_on": "2026-11-14",
+        "sha256": "07c03fdfd2119418c22b8c84f1449158b34b809e84c631ac1981fe563cef38e3"
+      }
+    ],
+    "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
   }
 }

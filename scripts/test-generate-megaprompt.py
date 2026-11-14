@@ -6,6 +6,9 @@ from __future__ import annotations
 import importlib.util
 import sys
 from pathlib import Path
+from skill_sources import fachinhalt_path
+from tempfile import TemporaryDirectory
+from unittest.mock import patch
 
 
 SCRIPT = Path(__file__).resolve().parent / "generate-megaprompt.py"
@@ -22,7 +25,25 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
-    skill_path = (
+    with TemporaryDirectory() as temporary:
+        plugin = Path(temporary)
+        originals = []
+        for slug in ("beweislast", "verjaehrung"):
+            source = plugin / "skills" / slug / "FACHINHALT.md"
+            source.parent.mkdir(parents=True)
+            source.write_text(f'---\nname: {slug}\ndescription: Fachliche Prüfung {slug}.\n---\n\n# {slug}\n\nErhaltene Fachregel {slug}.\n', encoding="utf-8")
+            originals.append(source)
+        router = plugin / "skills" / "anspruch-pruefen" / "SKILL.md"
+        router.parent.mkdir(parents=True)
+        router.write_text('---\nname: anspruch-pruefen\ndescription: Fachmodul auswählen.\n---\n\nAuswahlmenü.\n', encoding="utf-8")
+        with patch.object(G, "original_skill_sources", return_value=originals):
+            subjects = G.collect_skills(plugin)
+        require({item[0] for item in subjects} == {"beweislast", "verjaehrung"},
+                "Vollprüfung hat Originalfachmodule durch Sammelrouter ersetzt")
+        require(all("Erhaltene Fachregel" in item[3] for item in subjects),
+                "Vollprüfung hat erhaltenen Fachtext verloren")
+
+    skill_path = fachinhalt_path(
         G.REPO
         / "fachanwalt-insolvenz-sanierungsrecht"
         / "skills"

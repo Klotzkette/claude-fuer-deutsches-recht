@@ -33,7 +33,7 @@ Werkstatt und Mini enthalten beide aktuellen Anker mit Datum, Aktenzeichen und a
 - [fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md](../../../fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md)
 - [fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md](../../../fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md)
 - [fachanwalt-sozialrecht/skills/juristischer-argumentationskern/SKILL.md](../../../fachanwalt-sozialrecht/skills/juristischer-argumentationskern/SKILL.md)
-- [fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md](../../../fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md)
+- [fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md)
 
 ## 1.3. Prüfung
 

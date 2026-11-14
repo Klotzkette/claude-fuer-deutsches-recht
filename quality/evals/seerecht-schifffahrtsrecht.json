@@ -123,7 +123,7 @@
           ]
         }
       ],
-      "target_skill": "kaltstart-schifffahrtsmandat"
+      "target_skill": "mandat-ausland-risikomemo-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -151,7 +151,7 @@
       "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-schnellstart.md",
       "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-werkstatt.md",
       "quality/evals/seerecht-schifffahrtsrecht.json",
-      "seerecht-schifffahrtsrecht/skills/kaltstart-schifffahrtsmandat/SKILL.md"
+      "seerecht-schifffahrtsrecht/skills/kaltstart-schifffahrtsmandat/FACHINHALT.md"
     ],
     "opening_change": "Ladungsschaden mit konkretem Schuldner, Betrag und Frist; alternative Kauf- und Arrestaufträge ausdrücklich abgegrenzt.",
     "norms": [

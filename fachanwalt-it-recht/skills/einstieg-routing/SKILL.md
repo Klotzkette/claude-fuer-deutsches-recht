@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt It Recht** vom ersten Sachverhalt zu Rollen,
 
 ## Fachlandkarte dieses Plugins
 
-- `ai-act-art-6-hochrisiko-ki` — AI ACT ART 6 Hochrisiko KI
-- `cloud-act-vs-dsgvo-art-48-dsgvo` — Cloud ACT VS DSGVO ART 48 DSGVO
-- `vertragsstrafe-pruefen` — Cloud Vertrag Datenschutz ITR
-- `cyber-vorfall-sofortmassnahmen` — Cyber Datenschutz
-- `datenschutzrecht-fehlerkatalog` — Datenschutzrecht Fehlerkatalog
-- `dma-compliance-dokumentation-und-akte` — DMA DSA DSGVO Fachanwalt Governance
-- `dsv-dsfa-update-nach-vorfall` — Dsfa Update Erstgespraech Vorfallmeldung
-- `dsgvo-bussgeld-art-83-eugh-c-807-21` — DSGVO Bussgeld ART 83 Eugh C 807 21
-- `hacking-haftung-paragraf-823-bgb-it-sicherheit` — Hacking Haftung Paragraf 823 BGB IT Sicherheit
-- `informationstechnologierecht-tatbestand-beweis` — Informationstechnologierecht Kanzlei
-- `dsv-aufnahme-statusinformation` — IT Recht Aufnahme Statusinformation Benachrichtigung ART
-- `dsv-massenbenachrichtigung` — IT Recht Massenbenachrichtigung Meldekette Auftragsverarbeiter
-- `dsv-stakeholder-mapping` — IT Recht Stakeholder Mapping Tonfall Krisenkommunikation
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `pflichtenheft-bearbeiten` (Fachthema: ai-act-art-6-hochrisiko-ki) — AI ACT ART 6 Hochrisiko KI
+- `leistungsmodell-bearbeiten` (Fachthema: cloud-act-vs-dsgvo-art-48-dsgvo) — Cloud ACT VS DSGVO ART 48 DSGVO
+- `arbeitsprodukt-bearbeiten` (Fachthema: vertragsstrafe-pruefen) — Cloud Vertrag Datenschutz ITR
+- `rechte-und-daten-bearbeiten` (Fachthema: cyber-vorfall-sofortmassnahmen) — Cyber Datenschutz
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: datenschutzrecht-fehlerkatalog) — Datenschutzrecht Fehlerkatalog
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dma-compliance-dokumentation-und-akte) — DMA DSA DSGVO Fachanwalt Governance
+- `rechte-und-daten-bearbeiten` (Fachthema: dsv-dsfa-update-nach-vorfall) — Dsfa Update Erstgespraech Vorfallmeldung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dsgvo-bussgeld-art-83-eugh-c-807-21) — DSGVO Bussgeld ART 83 Eugh C 807 21
+- `pflichtenheft-bearbeiten` (Fachthema: hacking-haftung-paragraf-823-bgb-it-sicherheit) — Hacking Haftung Paragraf 823 BGB IT Sicherheit
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: informationstechnologierecht-tatbestand-beweis) — Informationstechnologierecht Kanzlei
+- `rechte-und-daten-bearbeiten` (Fachthema: dsv-aufnahme-statusinformation) — IT Recht Aufnahme Statusinformation Benachrichtigung ART
+- `pflichtenheft-bearbeiten` (Fachthema: dsv-massenbenachrichtigung) — IT Recht Massenbenachrichtigung Meldekette Auftragsverarbeiter
+- `rechte-und-daten-bearbeiten` (Fachthema: dsv-stakeholder-mapping) — IT Recht Stakeholder Mapping Tonfall Krisenkommunikation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

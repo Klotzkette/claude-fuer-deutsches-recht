@@ -1,7 +1,7 @@
 {
   "name": "status-navigator-step-plan",
-  "version": "445.35.3",
-  "description": "Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 35 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.",
+  "version": "445.36.0",
+  "description": "Dokumentenlagen in eine Excel-Arbeitsmappe mit Überblick, vorhandenen und fehlenden Unterlagen sowie nächsten Arbeitsschritten überführen. Optional eine interaktive Übersicht erzeugen, wenn die Oberfläche dies unterstützt. Keine rechtliche Bewertung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

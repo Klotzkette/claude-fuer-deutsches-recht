@@ -49,68 +49,68 @@ Schwellenwerte 2026/2027 nicht als ungeordnete Verordnungsliste behandeln: Deleg
 | Trigger | Exakter Skill-Slug |
 |---|---|
 | Kaltstart, Aktenordner, ZIP, unklarer Stand | `vergabe-os-master-orchestrator` |
-| rote Frist, Rüge, § 134 GWB, VK oder OLG | `workflow-fristen-und-risikoampel` |
-| Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung | `eforms-ted-bekanntmachung-check` |
-| Bestangebot statt billigstes Angebot | `bestangebot-durchsetzen` |
-| Netto-Null, Rotorblatt, Recyclingquote, Resilienz | `netto-null-technologien-vergabe` |
-| Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG | `bundeswehrbeschaffung-bwbbg-2026` |
-| Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten | `10-zuschlagsmatrix-aufbauen` |
-| Wirklichkeitsdaten: Bauwerk, PMS/BMS, BIM, Kosten, Klima oder Recht | `wirklichkeitsdaten-beschaffung-steuern` |
-| Legacy: SAP/ERP/AVA/DMS/API/MCP, Feldautorität oder Rückschreiben | `legacy-systeme-integration` |
-| LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen | `vergabeunterlagen-lv-datenformate-bereitstellen` |
-| Ausschluss, Register, Selbstreinigung, Steuer oder Sozialabgaben | `wettbewerbsregister-abfrage-selbstreinigung` |
-| BTTG, Tariftreue, Nachunternehmerlohn oder Vertragsklausel | `nachhaltigkeit-tariftreue-lksg-cbam` |
-| Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung | `23-stellungnahme-vergabekammer` |
+| rote Frist, Rüge, § 134 GWB, VK oder OLG | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` |
+| Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check` |
+| Bestangebot statt billigstes Angebot | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` |
+| Netto-Null, Rotorblatt, Recyclingquote, Resilienz | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
+| Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` |
+| Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` |
+| Wirklichkeitsdaten: Bauwerk, PMS/BMS, BIM, Kosten, Klima oder Recht | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
+| Legacy: SAP/ERP/AVA/DMS/API/MCP, Feldautorität oder Rückschreiben | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` |
+| Ausschluss, Register, Selbstreinigung, Steuer oder Sozialabgaben | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` |
+| BTTG, Tariftreue, Nachunternehmerlohn oder Vertragsklausel | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: nachhaltigkeit-tariftreue-lksg-cbam` |
+| Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer` |
 
 ## Sichtbare Skill-Slugs
 
 Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten; weitere Pluginskills bleiben über das Routing erreichbar.
 
 - `vergabe-os-master-orchestrator`: Primärer Kaltstart ohne Skillwahl für jeden neuen Vergabestellenfall mit Ordner, ZIP, mehreren Dateien oder Systemexport.
-- `workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
-- `einstieg-routing`: Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, Zuständigkeit, mögliche rote Frist und nächsten Output.
-- `workflow-fristen-und-risikoampel`: Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist, Nachprüfung, OLG-Beschwerde, Zuständigkeit und Sofortmaßnahme.
-- `dokumente-intake`: Dokumentenintake für Vergaberecht: sortiert Vergabeakte, Unterlagen, Angebote, Wertungsvermerk, Datum, Absender, Frist, Beweiswert, Lücken und Geschäftsgeheimnisse.
-- `quellen-livecheck`: Tragende Normen, Schwellenwerte, Rechtsprechung und Landesrecht nur mit aktueller amtlicher oder frei prüfbarer Quelle verwenden und Unsicherheiten markieren.
-- `vergaberecht-tatbestand-beweis-und-belege`: Auf Auftraggeberseite: Tatbestand, Beweisfragen und Beleglage im Vergaberecht ordnen: Norm, Tatsache, Aktenstück, Kausalität, Chance, Gegenargument und Output.
-- `schwellenwerte-2026-2027-livecheck`: Prüft EU-Schwellenwerte 2026/2027, Bundes- und Landeswertgrenzen, Auftraggebertyp, Auftragsart, Losregeln, Reformstand, Direktauftrag, Verfahrenswahl und Dokumentation.
-- `03-schwellenwert-pruefung`: Auftragswert, Lose, Optionen, Laufzeit und Auftraggebertyp gegen EU-Schwellenwerte und Wertgrenzen prüfen; daraus Regime, Rechtsweg und Vermerk ableiten.
-- `bundeswehrbeschaffung-bwbbg-2026`: Bundeswehr-, Verteidigungs- und Sicherheitsbeschaffungen nach dem seit 14. Februar 2026 geltenden BwBBG rollenfest bearbeiten: Anwendungsbereich, Übergang, Sonderroute.
-- `verfahrenswahl-kompass`: Verfahrensart der Vergabestelle auswählen und begründen: führt von Auftragsart, Wert und Regime über offenes oder nicht offenes Verfahren zu den Tatbeständen für Verhandlung.
-- `04-verfahrensart-waehlen`: Offenes, nichtoffenes, Verhandlungsverfahren, Dialog, Innovationspartnerschaft, UVgO oder Direktauftrag aus Bedarf, Markt, Schwelle und Ausnahmegrund begründen.
-- `wirklichkeitsdaten-beschaffung-steuern`: Bauwerk, PMS/BMS, Planung, BIM, Kosten, Nachträge, Klima, Normen und Recht mit Feldautorität und Entscheidungsbrücke verbinden; daraus Priorisierung, LV, Kriterien, Budget.
-- `bestangebot-durchsetzen`: Bestes Preis-Leistungs-Verhältnis statt billigsten Reflex sichern: Qualität, Tempo, Servicelevel, Betriebssicherheit, Nachhaltigkeit und Lebenszykluskosten in Matrix, Formeltest.
-- `netto-null-technologien-vergabe`: Artikel 25 der Verordnung EU 2024/1735 und Verordnung EU 2026/718 rollenfest anwenden: Richtlinien- und Technologiegate, Windrotorblatt-Rezyklierbarkeit, Bau-Zusatzpflichten.
-- `10-zuschlagsmatrix-aufbauen`: Vergabestelle baut die Zuschlagsmatrix so, dass Preis, Qualität, Tempo, Personal, Servicelevel und Lebenszykluskosten echte Punkte auslösen und nicht vom Preis überrollt werden.
-- `06-eignungs-und-zuschlagskriterien`: Vergabestelle trennt Eignung und Zuschlag, formuliert auftragsbezogene Kriterien und macht Qualitäts-, Tempo- und Lebenszyklusvorteile transparent bewertbar.
-- `zuschlagskriterien-paragraf-127-gwb`: § 127 GWB und § 58 VgV als Bestwertungsanker: wirtschaftlichstes Angebot, Auftragsbezug, Bewertungsmaßstab, Transparenz und Rügefestigkeit.
-- `wertungspreisqualitaet-matrix`: Preis-Qualitäts-Matrix, Gewichtung und Preisformel testen: verhindert Scheinqualität, Preisautomatismus und mathematische Entwertung eines besseren Angebots.
-- `17-wertung-leistung-preis`: Angebote entlang der Matrix werten: Preis, Qualität, Tempo, Konzept, Lebenszykluskosten und Dokumentation trennen, Punkte vergeben und Fehlerverdacht markieren.
-- `18-wertungsvermerk-erstellen`: Wertungsentscheidung so dokumentieren, dass Bestangebot, Aufklärung, Ausschluss, Preisformel, Qualitätswertung und Zuschlagsbegründung vor VK/OLG halten.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`: Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, Zuständigkeit, mögliche rote Frist und nächsten Output.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel`: Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist, Nachprüfung, OLG-Beschwerde, Zuständigkeit und Sofortmaßnahme.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake`: Dokumentenintake für Vergaberecht: sortiert Vergabeakte, Unterlagen, Angebote, Wertungsvermerk, Datum, Absender, Frist, Beweiswert, Lücken und Geschäftsgeheimnisse.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: quellen-livecheck`: Tragende Normen, Schwellenwerte, Rechtsprechung und Landesrecht nur mit aktueller amtlicher oder frei prüfbarer Quelle verwenden und Unsicherheiten markieren.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: vergaberecht-tatbestand-beweis-und-belege`: Auf Auftraggeberseite: Tatbestand, Beweisfragen und Beleglage im Vergaberecht ordnen: Norm, Tatsache, Aktenstück, Kausalität, Chance, Gegenargument und Output.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck`: Prüft EU-Schwellenwerte 2026/2027, Bundes- und Landeswertgrenzen, Auftraggebertyp, Auftragsart, Losregeln, Reformstand, Direktauftrag, Verfahrenswahl und Dokumentation.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 03-schwellenwert-pruefung`: Auftragswert, Lose, Optionen, Laufzeit und Auftraggebertyp gegen EU-Schwellenwerte und Wertgrenzen prüfen; daraus Regime, Rechtsweg und Vermerk ableiten.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026`: Bundeswehr-, Verteidigungs- und Sicherheitsbeschaffungen nach dem seit 14. Februar 2026 geltenden BwBBG rollenfest bearbeiten: Anwendungsbereich, Übergang, Sonderroute.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: verfahrenswahl-kompass`: Verfahrensart der Vergabestelle auswählen und begründen: führt von Auftragsart, Wert und Regime über offenes oder nicht offenes Verfahren zu den Tatbeständen für Verhandlung.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 04-verfahrensart-waehlen`: Offenes, nichtoffenes, Verhandlungsverfahren, Dialog, Innovationspartnerschaft, UVgO oder Direktauftrag aus Bedarf, Markt, Schwelle und Ausnahmegrund begründen.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern`: Bauwerk, PMS/BMS, Planung, BIM, Kosten, Nachträge, Klima, Normen und Recht mit Feldautorität und Entscheidungsbrücke verbinden; daraus Priorisierung, LV, Kriterien, Budget.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen`: Bestes Preis-Leistungs-Verhältnis statt billigsten Reflex sichern: Qualität, Tempo, Servicelevel, Betriebssicherheit, Nachhaltigkeit und Lebenszykluskosten in Matrix, Formeltest.
+- `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe`: Artikel 25 der Verordnung EU 2024/1735 und Verordnung EU 2026/718 rollenfest anwenden: Richtlinien- und Technologiegate, Windrotorblatt-Rezyklierbarkeit, Bau-Zusatzpflichten.
+- `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen`: Vergabestelle baut die Zuschlagsmatrix so, dass Preis, Qualität, Tempo, Personal, Servicelevel und Lebenszykluskosten echte Punkte auslösen und nicht vom Preis überrollt werden.
+- `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: 06-eignungs-und-zuschlagskriterien`: Vergabestelle trennt Eignung und Zuschlag, formuliert auftragsbezogene Kriterien und macht Qualitäts-, Tempo- und Lebenszyklusvorteile transparent bewertbar.
+- `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: zuschlagskriterien-paragraf-127-gwb`: § 127 GWB und § 58 VgV als Bestwertungsanker: wirtschaftlichstes Angebot, Auftragsbezug, Bewertungsmaßstab, Transparenz und Rügefestigkeit.
+- `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: wertungspreisqualitaet-matrix`: Preis-Qualitäts-Matrix, Gewichtung und Preisformel testen: verhindert Scheinqualität, Preisautomatismus und mathematische Entwertung eines besseren Angebots.
+- `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 17-wertung-leistung-preis`: Angebote entlang der Matrix werten: Preis, Qualität, Tempo, Konzept, Lebenszykluskosten und Dokumentation trennen, Punkte vergeben und Fehlerverdacht markieren.
+- `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 18-wertungsvermerk-erstellen`: Wertungsentscheidung so dokumentieren, dass Bestangebot, Aufklärung, Ausschluss, Preisformel, Qualitätswertung und Zuschlagsbegründung vor VK/OLG halten.
 
 ## Inhaltsverzeichnis
 
 1. `vergabe-os-master-orchestrator` - Vergabestellen-Cockpit: sichert Verfahren, Fristen, Unterlagen, Wertung, Rechtsschutz und Veröffentlichung. - Primärer Kaltstart ohne Skillwahl für jeden neuen Vergabestellenfall mit Ordner, ZIP, mehreren Dateien.
-2. `workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage der Vergabestelle für ein einzelnes Dokument oder eine konkrete Frage: bestimmt Rolle, Phase.
-3. `einstieg-routing` - Einstieg und Routing - Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime.
-4. `workflow-fristen-und-risikoampel` - Fristen- und Risikoampel - Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist.
-5. `dokumente-intake` - Dokumentenintake - Dokumentenintake für Vergaberecht: sortiert Vergabeakte, Unterlagen, Angebote, Wertungsvermerk, Datum, Absender.
-6. `quellen-livecheck` - Rechtsquellen-Livecheck - Auf Auftraggeberseite: Quellen-Live-Check für Vergaberecht: prüft Normen (GWB §§ 97 ff., VgV, VOB/A, VOL/A, UVgO).
-7. `vergaberecht-tatbestand-beweis-und-belege` - Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage - Auf Auftraggeberseite: Tatbestand, Beweisfragen und Beleglage im Vergaberecht ordnen: Norm, Tatsache, Aktenstück.
-8. `schwellenwerte-2026-2027-livecheck` - EU-Schwellenwerte und Bund-Länder-Wertgrenzen 2026/2027 sicher prüfen - Prüft EU-Schwellenwerte 2026/2027, Bundes- und Landeswertgrenzen, Auftraggebertyp, Auftragsart, Losregeln.
-9. `03-schwellenwert-pruefung` - Schwellenwertprüfung - Geschätzten Netto-Auftragswert gegen den aktuellen EU-Schwellenwert prüfen. Ordnet 2026/2027 die Verordnungen.
-10. `bundeswehrbeschaffung-bwbbg-2026` - Bundeswehrbeschaffung nach dem BwBBG 2026 steuern - Vergabestelle steuert Bundeswehrbeschaffungen nach dem seit 14. Februar 2026 geltenden BwBBG: Anwendungsbereich.
-11. `verfahrenswahl-kompass` - Verfahrenswahl-Kompass der Vergabestelle - Verfahrensart der Vergabestelle auswählen und begründen: führt von Auftragsart, Wert und Regime über offenes.
-12. `04-verfahrensart-waehlen` - Verfahrensart wählen - Verfahrensart nach § 119 GWB und §§ 14 bis 19 VgV wählen. Offenes und nicht offenes Verfahren mit Teilnahmewettbewerb.
-13. `wirklichkeitsdaten-beschaffung-steuern` - Wirklichkeitsdaten Beschaffung Steuern - Bauwerks-, Zustands-, Planungs-, BIM-, Kosten-, Nachtrags-, Genehmigungs-, Markt-, Umwelt-, Normen- und Rechtsdaten.
-14. `bestangebot-durchsetzen` - Bestangebot durchsetzen - Vergabestelle befähigen, nicht reflexhaft den billigsten Preis zu wählen, sondern das beste Preis-Leistungs-Verhältnis.
-15. `netto-null-technologien-vergabe` - Netto-Null-Technologien rechtssicher ausschreiben und kontrollieren - Netto-Null-Technologien seit Sommer 2026 beschaffen: Artikel 25 der Verordnung EU 2024/1735 und Verordnung EU 2026/718.
-16. `10-zuschlagsmatrix-aufbauen` - Zuschlagsmatrix aufbauen - Wirtschaftlichstes Angebot nach § 127 GWB operationalisieren: Preis, Qualität, Tempo, Lebenszykluskosten, Personal.
-17. `06-eignungs-und-zuschlagskriterien` - Eignungs- und Zuschlagskriterien - Eignung und Zuschlag trennen und Zuschlagskriterien so bauen, dass nicht automatisch das billigste, sondern.
-18. `zuschlagskriterien-paragraf-127-gwb` - Zuschlagskriterien § 127 GWB - Zuschlagskriterien nach § 127 GWB gestalten: bestes Preis-Leistungs-Verhältnis, Qualität, Personal, Tempo, Service.
-19. `wertungspreisqualitaet-matrix` - Preis-Qualitäts-Matrix rechtssicher bauen - Preis-Qualitäts-Wertung und Bewertungsmatrix bauen: Zuschlagskriterien, Unterkriterien, Gewichtung, UfAB-Logik.
-20. `17-wertung-leistung-preis` - Wertung Leistung und Preis - Zuschlagsmatrix anwenden: Preis, Qualität, Tempo, Lebenszykluskosten und Konzeptwertung getrennt, transparent.
-21. `18-wertungsvermerk-erstellen` - Wertungsvermerk erstellen - Wertungsentscheidung beweisfest dokumentieren: Angebotsaussage, Datenherkunft, Einzelbegründung, Preis, Qualität.
+2. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage der Vergabestelle für ein einzelnes Dokument oder eine konkrete Frage: bestimmt Rolle, Phase.
+3. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing` - Einstieg und Routing - Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime.
+4. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` - Fristen- und Risikoampel - Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist.
+5. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake` - Dokumentenintake - Dokumentenintake für Vergaberecht: sortiert Vergabeakte, Unterlagen, Angebote, Wertungsvermerk, Datum, Absender.
+6. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: quellen-livecheck` - Rechtsquellen-Livecheck - Auf Auftraggeberseite: Quellen-Live-Check für Vergaberecht: prüft Normen (GWB §§ 97 ff., VgV, VOB/A, VOL/A, UVgO).
+7. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: vergaberecht-tatbestand-beweis-und-belege` - Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage - Auf Auftraggeberseite: Tatbestand, Beweisfragen und Beleglage im Vergaberecht ordnen: Norm, Tatsache, Aktenstück.
+8. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` - EU-Schwellenwerte und Bund-Länder-Wertgrenzen 2026/2027 sicher prüfen - Prüft EU-Schwellenwerte 2026/2027, Bundes- und Landeswertgrenzen, Auftraggebertyp, Auftragsart, Losregeln.
+9. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 03-schwellenwert-pruefung` - Schwellenwertprüfung - Geschätzten Netto-Auftragswert gegen den aktuellen EU-Schwellenwert prüfen. Ordnet 2026/2027 die Verordnungen.
+10. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` - Bundeswehrbeschaffung nach dem BwBBG 2026 steuern - Vergabestelle steuert Bundeswehrbeschaffungen nach dem seit 14. Februar 2026 geltenden BwBBG: Anwendungsbereich.
+11. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: verfahrenswahl-kompass` - Verfahrenswahl-Kompass der Vergabestelle - Verfahrensart der Vergabestelle auswählen und begründen: führt von Auftragsart, Wert und Regime über offenes.
+12. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 04-verfahrensart-waehlen` - Verfahrensart wählen - Verfahrensart nach § 119 GWB und §§ 14 bis 19 VgV wählen. Offenes und nicht offenes Verfahren mit Teilnahmewettbewerb.
+13. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` - Wirklichkeitsdaten Beschaffung Steuern - Bauwerks-, Zustands-, Planungs-, BIM-, Kosten-, Nachtrags-, Genehmigungs-, Markt-, Umwelt-, Normen- und Rechtsdaten.
+14. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` - Bestangebot durchsetzen - Vergabestelle befähigen, nicht reflexhaft den billigsten Preis zu wählen, sondern das beste Preis-Leistungs-Verhältnis.
+15. `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` - Netto-Null-Technologien rechtssicher ausschreiben und kontrollieren - Netto-Null-Technologien seit Sommer 2026 beschaffen: Artikel 25 der Verordnung EU 2024/1735 und Verordnung EU 2026/718.
+16. `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` - Zuschlagsmatrix aufbauen - Wirtschaftlichstes Angebot nach § 127 GWB operationalisieren: Preis, Qualität, Tempo, Lebenszykluskosten, Personal.
+17. `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: 06-eignungs-und-zuschlagskriterien` - Eignungs- und Zuschlagskriterien - Eignung und Zuschlag trennen und Zuschlagskriterien so bauen, dass nicht automatisch das billigste, sondern.
+18. `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: zuschlagskriterien-paragraf-127-gwb` - Zuschlagskriterien § 127 GWB - Zuschlagskriterien nach § 127 GWB gestalten: bestes Preis-Leistungs-Verhältnis, Qualität, Personal, Tempo, Service.
+19. `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: wertungspreisqualitaet-matrix` - Preis-Qualitäts-Matrix rechtssicher bauen - Preis-Qualitäts-Wertung und Bewertungsmatrix bauen: Zuschlagskriterien, Unterkriterien, Gewichtung, UfAB-Logik.
+20. `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 17-wertung-leistung-preis` - Wertung Leistung und Preis - Zuschlagsmatrix anwenden: Preis, Qualität, Tempo, Lebenszykluskosten und Konzeptwertung getrennt, transparent.
+21. `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 18-wertungsvermerk-erstellen` - Wertungsvermerk erstellen - Wertungsentscheidung beweisfest dokumentieren: Angebotsaussage, Datenherkunft, Einzelbegründung, Preis, Qualität.
 
 ---
 
@@ -127,7 +127,7 @@ Fokus: Vergabestellen-Cockpit für Bedarf, datenbasierte Priorisierung, Bündelu
 
 #### Abgrenzung
 
-Dieser Master ist der automatische Einstieg für einen vollständigen Ordner, ein ZIP, einen Portal-/DMS-Export, mehrere Dokumente oder mehrere miteinander verbundene Arbeitsfragen. Für genau ein Dokument oder eine konkrete Einzelfrage genügt `workflow-kaltstart-und-routing`; ohne Unterlagen und nur zur ersten Rollen-/Regimeorientierung gilt `einstieg-routing`.
+Dieser Master ist der automatische Einstieg für einen vollständigen Ordner, ein ZIP, einen Portal-/DMS-Export, mehrere Dokumente oder mehrere miteinander verbundene Arbeitsfragen. Für genau ein Dokument oder eine konkrete Einzelfrage genügt `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`; ohne Unterlagen und nur zur ersten Rollen-/Regimeorientierung gilt `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`.
 
 #### Null-Konfigurations-Vertrag
 
@@ -252,8 +252,8 @@ Nutze für umfangreiche Fälle `assets/templates/ordnerfall-startprotokoll.md`, 
 | Bestandskompatibilität und gewachsene IT | OLG Düsseldorf Verg 2/24; konkreter Bestands-, Migrations-, Sicherheits- und Gewährleistungsbefund |
 | Unterlagenzugang und fristfester Upload | OLG Düsseldorf Verg 47/18; § 53 VgV und Portalvorgabe; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe |
 | qualitative und datenbasierte Wertung | BGH X ZB 3/17 und OLG Düsseldorf Verg 34/20; offene Punkteskala nicht vorschnell verwerfen, aber Angebotsfundstelle, konkrete Gründe, Quervergleich und Punktefolge dokumentieren |
-| Netto-Null-Technologie, Windrotorblatt oder Resilienz | Art. 25 VO (EU) 2024/1735 und VO (EU) 2026/718; `netto-null-technologien-vergabe` laden |
-| Bundeswehr-, Verteidigungs-, Sicherheits- oder VSVgV-Beschaffung | seit 14.02.2026 geltendes BwBBG einschließlich § 19-Übergang, Drittstaaten- und Sonderrechtsschutz; `bundeswehrbeschaffung-bwbbg-2026` laden |
+| Netto-Null-Technologie, Windrotorblatt oder Resilienz | Art. 25 VO (EU) 2024/1735 und VO (EU) 2026/718; `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` laden |
+| Bundeswehr-, Verteidigungs-, Sicherheits- oder VSVgV-Beschaffung | seit 14.02.2026 geltendes BwBBG einschließlich § 19-Übergang, Drittstaaten- und Sonderrechtsschutz; `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026` laden |
 | privater Initiator einer Konzession oder Projektfinanzierung | EuGH C-810/24 Urban Vision: kein nachträgliches Matching- oder Anpassungsprivileg; private Initiative und Kostenerstattung nicht pauschal verbieten |
 | Personalintensive Nur-Preis-Wertung | EuGH C-769/23, Mara, nur zur Zulässigkeit einer nationalen Beschränkung; anwendbare Sonderregel zuerst |
 | Vertragsänderung, Rahmenvereinbarung, Konzession | EuGH C-454/06 pressetext, C-282/24 Polismyndigheten, C-452/23 Fastned Deutschland |
@@ -310,7 +310,7 @@ Jede behördliche Entscheidung in dieser Reihenfolge schreiben:
 
 Jede entscheidende Fundstelle zusätzlich als `Quellenstatus | Aussagegehalt und Bindungsstatus | Tatsachenvergleich | Übertragungsgrenze | Aktenanschluss | Behördenfolge` ausweisen. Bei einem anhängigen Verfahren ohne Entscheidung nur Vorlagefrage und Verfahrensstand angeben. Eine unverifizierte Quelle oder bloße Sekundärwiedergabe wird zum Rechercheauftrag.
 
-Prozessvortrag darf vorhandene Erwägungen und damalige Tatsachengrundlagen erläutern und Dokumentationslücken fallbezogen ergänzen. Die in BGH X ZB 4/10, Rn. 73, als gerichtlicher Hinweis entwickelte und in OLG Düsseldorf VII-Verg 28/14 als obiter dictum eingeordnete sowie angewandte Linie verlangt dabei Transparenz, Gleichbehandlung, Manipulationsschutz und wettbewerbskonforme Auftragserteilung; ein neues Unterkriterium, eine erst im Streit gebildete Entscheidung oder eine manipulativ nachgeschobene Tatsache bleiben unzulässig. Für diese Prüfung `vergaberecht-tatbestand-beweis-und-belege` laden.
+Prozessvortrag darf vorhandene Erwägungen und damalige Tatsachengrundlagen erläutern und Dokumentationslücken fallbezogen ergänzen. Die in BGH X ZB 4/10, Rn. 73, als gerichtlicher Hinweis entwickelte und in OLG Düsseldorf VII-Verg 28/14 als obiter dictum eingeordnete sowie angewandte Linie verlangt dabei Transparenz, Gleichbehandlung, Manipulationsschutz und wettbewerbskonforme Auftragserteilung; ein neues Unterkriterium, eine erst im Streit gebildete Entscheidung oder eine manipulativ nachgeschobene Tatsache bleiben unzulässig. Für diese Prüfung `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: vergaberecht-tatbestand-beweis-und-belege` laden.
 
 #### Typische Outputs
 
@@ -318,7 +318,7 @@ Kurzbild, Startbildschirm, Phasenkarte, Fristenampel, Dokumentenmatrix, Belegmat
 
 #### Daten- und Szenario-Weiche
 
-Wenn vorhandene Datenquellen Bedarf, Priorisierung, Bündelung, LV, Budget oder Qualitätskriterien beeinflussen, `wirklichkeitsdaten-beschaffung-steuern` laden. Danach immer ausgeben:
+Wenn vorhandene Datenquellen Bedarf, Priorisierung, Bündelung, LV, Budget oder Qualitätskriterien beeinflussen, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` laden. Danach immer ausgeben:
 
 - Quellen- und Datenqualitätsmatrix.
 - Szenariovergleich mit Einzelvergabe, Bündelung, Rahmenvereinbarung, Abruf oder Verschiebung.
@@ -343,15 +343,15 @@ Wenn vorhandene Datenquellen Bedarf, Priorisierung, Bündelung, LV, Budget oder 
 #### Anschlussmodule
 
 - `vergabe-os-master-orchestrator` für Gesamtsteuerung.
-- `quellen-livecheck`, `schnittstelle-zahlen-schwellen-und-berechnung` und `schwellenwerte-2026-2027-livecheck` für tragende Normen, Rechtsprechung, Beträge, Lose, Wertgrenzen und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
-- `legacy-systeme-integration` für Feldautorität, SAP, ERP, AVA, DMS, Bauwerks-/PMS-/BIM-Daten, Portal, API, MCP, Datenumschlag, Entscheidungsbrücke, Hash, Delta, Freigabe und Rückkanal.
-- `wirklichkeitsdaten-beschaffung-steuern` für Quelleninventar, gemeinsame Fachsprache, Priorisierung, Bündelung, Szenario, LV, Kriterien und Aktenvermerk.
-- `bestangebot-durchsetzen`, `10-zuschlagsmatrix-aufbauen`, `17-wertung-leistung-preis` und `18-wertungsvermerk-erstellen` für Bestwertung statt Preisautomatismus.
-- `vergabeunterlagen-lv-datenformate-bereitstellen`, `05-bekanntmachung-erstellen` und `bekanntmachung-berichtigung-und-upload-routing` für Unterlagen, eForms/TED/DVAL, Plattformen, Berichtigung und Quittung.
-- `bieterfragen-antworten-management`, `22-ruegeerwiderung`, `23-stellungnahme-vergabekammer`, `26-akteneinsicht-vergabekammer` und `24-vorlage-an-den-vergabesenat` für Rüge, VK, Akteneinsicht, OLG und Vergleichslage.
-- `markterkundung-und-vorbefassung`, `losbildung-mittelstandsfoerderung`, `rahmenvereinbarung-abrufe-mini-wettbewerb` und `inhouse-interkommunal` für Vorbereitung, Bündelung und Beschaffungsstruktur.
-- `uvgo-unterschwellenvergabe`, `sektorenvergabe-sektvo`, `konzessionsvergabe-konzvgv` und `vob-a-bauvergabe` für Sonderregime.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: quellen-livecheck`, `/vergabestelle-behoerden:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: schnittstelle-zahlen-schwellen-und-berechnung` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` für tragende Normen, Rechtsprechung, Beträge, Lose, Wertgrenzen und Rechtsweg.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` für Feldautorität, SAP, ERP, AVA, DMS, Bauwerks-/PMS-/BIM-Daten, Portal, API, MCP, Datenumschlag, Entscheidungsbrücke, Hash, Delta, Freigabe und Rückkanal.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` für Quelleninventar, gemeinsame Fachsprache, Priorisierung, Bündelung, Szenario, LV, Kriterien und Aktenvermerk.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen`, `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 17-wertung-leistung-preis` und `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 18-wertungsvermerk-erstellen` für Bestwertung statt Preisautomatismus.
+- `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 05-bekanntmachung-erstellen` und `/vergabestelle-behoerden:ruege-bearbeiten Thema: bekanntmachung-berichtigung-und-upload-routing` für Unterlagen, eForms/TED/DVAL, Plattformen, Berichtigung und Quittung.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: bieterfragen-antworten-management`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 22-ruegeerwiderung`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 26-akteneinsicht-vergabekammer` und `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 24-vorlage-an-den-vergabesenat` für Rüge, VK, Akteneinsicht, OLG und Vergleichslage.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: markterkundung-und-vorbefassung`, `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: losbildung-mittelstandsfoerderung`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: rahmenvereinbarung-abrufe-mini-wettbewerb` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: inhouse-interkommunal` für Vorbereitung, Bündelung und Beschaffungsstruktur.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: uvgo-unterschwellenvergabe`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: sektorenvergabe-sektvo`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: konzessionsvergabe-konzvgv` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: vob-a-bauvergabe` für Sonderregime.
 
 ---
 
@@ -372,7 +372,7 @@ Dieser Workflow-Skill führt genau ein Dokument oder eine konkrete Frage in den 
 
 - Vollständiger Ordner, ZIP, Portal-/DMS-Export, mehrere Dokumente oder mehrere miteinander verbundene Fragen: `vergabe-os-master-orchestrator`.
 - Ein Dokument, eine Bieterfrage, eine Rüge, ein Wertungsausschnitt oder eine konkrete Rechtsfrage: dieser Skill.
-- Noch keine Unterlagen, nur Rollen-, Regime- oder Zuständigkeitsorientierung: `einstieg-routing`.
+- Noch keine Unterlagen, nur Rollen-, Regime- oder Zuständigkeitsorientierung: `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`.
 
 #### Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
@@ -410,23 +410,23 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 | Lage | Primärer Skill |
 |---|---|
-| Ungeordnete Bedarfsanforderung, Fachbereichsmappe, Portalexport, Ratsvorlage, E-Mail-Ordner oder ZIP | `dokumente-intake` |
-| Vergabeakte, Unterlagen, Wertungsvermerk, Bieterfragen, Portalquittungen oder Nachweise fehlen | `unterlagen-luecken` |
-| Aus Lücken soll ein Arbeitsauftrag an Fachbereich, Zentrale Vergabestelle, IT oder Kanzlei entstehen | `workflow-unterlagen-lueckenliste` |
-| Tragende Norm, Schwellenwert, Rechtsprechung oder Landeswertgrenze ist unsicher | `quellen-livecheck` und `schwellenwerte-2026-2027-livecheck` |
+| Ungeordnete Bedarfsanforderung, Fachbereichsmappe, Portalexport, Ratsvorlage, E-Mail-Ordner oder ZIP | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake` |
+| Vergabeakte, Unterlagen, Wertungsvermerk, Bieterfragen, Portalquittungen oder Nachweise fehlen | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-luecken` |
+| Aus Lücken soll ein Arbeitsauftrag an Fachbereich, Zentrale Vergabestelle, IT oder Kanzlei entstehen | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-unterlagen-lueckenliste` |
+| Tragende Norm, Schwellenwert, Rechtsprechung oder Landeswertgrenze ist unsicher | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: quellen-livecheck` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` |
 
 #### Direkt-Routing Bestwertung
 
 | Lage | Primärer Skill |
 |---|---|
-| Vergabestelle will Bestands-, Zustands-, Kosten-, Bauzeit-, Umwelt- oder Rechtsdaten für Bedarf, Bündelung, LV, Budget oder Kriterien nutzen | `wirklichkeitsdaten-beschaffung-steuern` |
-| Vergabestelle will Portfolio priorisieren, beschleunigt beauftragen, Tragfähigkeit/Mobilität prüfen, ÖPP/CAPEX oder Fertigteil-/Serienlösung vorsortieren | `wirklichkeitsdaten-beschaffung-steuern` |
-| Datensilos wie Bauwerksregister, PMS/BMS, EPING-nahe Planungsdaten, Bestandspläne, BIM, Nachträge, Kosten, Bauzeiten, Behördenfeedback, Normen, Klima-/Umweltdaten oder Rechtsprechung sollen in eine gemeinsame Fachsprache übersetzt werden | `wirklichkeitsdaten-beschaffung-steuern` |
-| Vergabestelle will nicht nur den niedrigsten Preis, sondern das beste Auftragsergebnis | `bestangebot-durchsetzen` |
-| Zuschlagskriterien oder Matrix sind noch offen | `10-zuschlagsmatrix-aufbauen` |
-| Preis, Qualität, Tempo oder Lebenszykluskosten müssen gewichtet werden | `06-eignungs-und-zuschlagskriterien` |
-| Rüge behauptet Preisautomatismus, Scheinqualität oder verzerrte Formel | `22-ruegeerwiderung` und danach `23-stellungnahme-vergabekammer` |
-| Billigangebot wirkt unrealistisch | `14-aufklaerung-unangemessen-niedrige-preise` |
+| Vergabestelle will Bestands-, Zustands-, Kosten-, Bauzeit-, Umwelt- oder Rechtsdaten für Bedarf, Bündelung, LV, Budget oder Kriterien nutzen | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
+| Vergabestelle will Portfolio priorisieren, beschleunigt beauftragen, Tragfähigkeit/Mobilität prüfen, ÖPP/CAPEX oder Fertigteil-/Serienlösung vorsortieren | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
+| Datensilos wie Bauwerksregister, PMS/BMS, EPING-nahe Planungsdaten, Bestandspläne, BIM, Nachträge, Kosten, Bauzeiten, Behördenfeedback, Normen, Klima-/Umweltdaten oder Rechtsprechung sollen in eine gemeinsame Fachsprache übersetzt werden | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
+| Vergabestelle will nicht nur den niedrigsten Preis, sondern das beste Auftragsergebnis | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` |
+| Zuschlagskriterien oder Matrix sind noch offen | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` |
+| Preis, Qualität, Tempo oder Lebenszykluskosten müssen gewichtet werden | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: 06-eignungs-und-zuschlagskriterien` |
+| Rüge behauptet Preisautomatismus, Scheinqualität oder verzerrte Formel | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 22-ruegeerwiderung` und danach `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer` |
+| Billigangebot wirkt unrealistisch | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 14-aufklaerung-unangemessen-niedrige-preise` |
 
 #### Rechtsprechungsfeste Sofortweichen
 
@@ -442,51 +442,51 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 | Lage | Primärer Skill |
 |---|---|
-| Daten kommen aus SAP, ERP, AVA, DMS, SharePoint, E-Mail, SFTP, API, OData, IDoc oder MCP | `legacy-systeme-integration` |
-| Daten kommen aus Bauwerksregistern, PMS/BMS, Planungsdaten, Bestandsplänen, BIM/Fachmodellen, Kosten-/Nachtragsdaten, Genehmigungsplattformen, Netzdaten, Klima-/Umweltdaten, Normen oder Rechtsprechung | zuerst `legacy-systeme-integration`, dann `wirklichkeitsdaten-beschaffung-steuern` |
-| Vergabeunterlagen oder LV müssen aus Altsystemen bereitgestellt werden | `vergabeunterlagen-lv-datenformate-bereitstellen` |
-| Bekanntmachung, eForms, TED, DVAL, CPV, Unterlagenlink oder Fristen der Veröffentlichung müssen geprüft werden | `eforms-ted-bekanntmachung-check`, danach bei Fehlern `bekanntmachung-berichtigung-und-upload-routing` |
-| Berichtigung oder Bekanntmachung muss in TED, DVAL, Portal oder DMS zurückgespielt werden | `bekanntmachung-berichtigung-und-upload-routing` |
-| Es gibt mehrere Quellsysteme und Zielsysteme | zuerst `legacy-systeme-integration`, danach passendes Fachmodul |
+| Daten kommen aus SAP, ERP, AVA, DMS, SharePoint, E-Mail, SFTP, API, OData, IDoc oder MCP | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| Daten kommen aus Bauwerksregistern, PMS/BMS, Planungsdaten, Bestandsplänen, BIM/Fachmodellen, Kosten-/Nachtragsdaten, Genehmigungsplattformen, Netzdaten, Klima-/Umweltdaten, Normen oder Rechtsprechung | zuerst `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration`, dann `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
+| Vergabeunterlagen oder LV müssen aus Altsystemen bereitgestellt werden | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` |
+| Bekanntmachung, eForms, TED, DVAL, CPV, Unterlagenlink oder Fristen der Veröffentlichung müssen geprüft werden | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check`, danach bei Fehlern `/vergabestelle-behoerden:ruege-bearbeiten Thema: bekanntmachung-berichtigung-und-upload-routing` |
+| Berichtigung oder Bekanntmachung muss in TED, DVAL, Portal oder DMS zurückgespielt werden | `/vergabestelle-behoerden:ruege-bearbeiten Thema: bekanntmachung-berichtigung-und-upload-routing` |
+| Es gibt mehrere Quellsysteme und Zielsysteme | zuerst `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration`, danach passendes Fachmodul |
 
 #### Direkt-Routing Verfahrensvorbereitung
 
 | Lage | Primärer Skill |
 |---|---|
-| Markt, Anbieterfeld, technische Lösung oder Vorbefassung muss vor Veröffentlichung geklärt werden | `markterkundung-und-vorbefassung` |
-| Lose, Bündelung, Mittelstandsschutz, regionale Zuschnitte oder Skaleneffekte sind streitig | `losbildung-mittelstandsfoerderung` |
-| Bieterfrage, Klarstellung, Fristverlängerung oder Antwortlog steht an | `bieterfragen-antworten-management` |
-| Rahmenvereinbarung, Abruf oder Miniwettbewerb ist geplant | `rahmenvereinbarung-abrufe-mini-wettbewerb` |
-| Inhouse, interkommunale Zusammenarbeit oder beauftragte Stelle wird erwogen | `inhouse-interkommunal` |
-| Bedarf aus Wirklichkeitsdaten soll in LV/GAEB/XML/Excel/PDF oder eine Ausschreibungsstudio-Vorlage fließen | `vergabeunterlagen-lv-datenformate-bereitstellen` |
+| Markt, Anbieterfeld, technische Lösung oder Vorbefassung muss vor Veröffentlichung geklärt werden | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: markterkundung-und-vorbefassung` |
+| Lose, Bündelung, Mittelstandsschutz, regionale Zuschnitte oder Skaleneffekte sind streitig | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: losbildung-mittelstandsfoerderung` |
+| Bieterfrage, Klarstellung, Fristverlängerung oder Antwortlog steht an | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: bieterfragen-antworten-management` |
+| Rahmenvereinbarung, Abruf oder Miniwettbewerb ist geplant | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: rahmenvereinbarung-abrufe-mini-wettbewerb` |
+| Inhouse, interkommunale Zusammenarbeit oder beauftragte Stelle wird erwogen | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: inhouse-interkommunal` |
+| Bedarf aus Wirklichkeitsdaten soll in LV/GAEB/XML/Excel/PDF oder eine Ausschreibungsstudio-Vorlage fließen | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` |
 
 #### Direkt-Routing Sonderregime
 
 | Lage | Primärer Skill |
 |---|---|
-| Unterschwelle, Landeswertgrenze, Direktauftrag oder Haushaltsvergaberecht | `uvgo-unterschwellenvergabe` und `uvgo-fristen-form-und-zustaendigkeit` |
-| Sektorenauftraggeber Energie, Wasser, Verkehr oder Post | `sektorenvergabe-sektvo` und bei Aktenlücken `sektvo-dokumentenmatrix-und-lueckenliste` |
-| Konzession, Betriebsrisiko, Laufzeit oder Konzessionswert | `konzessionsvergabe-konzvgv` und `konzession-formular-portal-und-einreichung` |
-| Bauleistung, Gewerke, VOB/A oder Bauzeitenkoordination | `vob-a-bauvergabe` und `vertiefung-vob-a-bauvergabe` |
-| Fördermittel, Nebenbestimmungen, Rückforderung oder Zuwendungsprüfung | `foerdermittelvergabe-rueckforderung` |
+| Unterschwelle, Landeswertgrenze, Direktauftrag oder Haushaltsvergaberecht | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: uvgo-unterschwellenvergabe` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: uvgo-fristen-form-und-zustaendigkeit` |
+| Sektorenauftraggeber Energie, Wasser, Verkehr oder Post | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: sektorenvergabe-sektvo` und bei Aktenlücken `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: sektvo-dokumentenmatrix-und-lueckenliste` |
+| Konzession, Betriebsrisiko, Laufzeit oder Konzessionswert | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: konzessionsvergabe-konzvgv` und `/vergabestelle-behoerden:ruege-bearbeiten Thema: konzession-formular-portal-und-einreichung` |
+| Bauleistung, Gewerke, VOB/A oder Bauzeitenkoordination | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: vob-a-bauvergabe` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: vertiefung-vob-a-bauvergabe` |
+| Fördermittel, Nebenbestimmungen, Rückforderung oder Zuwendungsprüfung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: foerdermittelvergabe-rueckforderung` |
 
 #### Direkt-Routing Ausschluss, Register und Compliance
 
 | Lage | Primärer Skill |
 |---|---|
-| Wettbewerbsregister, Selbstreinigung, Vergabesperre oder Registerabfrage | `wettbewerbsregister-abfrage-selbstreinigung` |
-| Korruption, Kartellabrede, Interessenkonflikt oder zwingender Ausschlussgrund | `vergaberecht-anti-korruption-paragraf-123-gwb` und `12-ausschlussgruende-pruefen` |
-| Fakultativer Ausschluss, Schlechtleistung, Interessenkonflikt oder Integrität | `ausschluss-bieter-paragraf-124-gwb` |
-| Datenschutz, Bieterdaten, Geschäftsgeheimnis oder Akteneinsicht | `30-datenschutz-bieterdaten` und `26-akteneinsicht-vergabekammer` |
+| Wettbewerbsregister, Selbstreinigung, Vergabesperre oder Registerabfrage | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` |
+| Korruption, Kartellabrede, Interessenkonflikt oder zwingender Ausschlussgrund | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergaberecht-anti-korruption-paragraf-123-gwb` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 12-ausschlussgruende-pruefen` |
+| Fakultativer Ausschluss, Schlechtleistung, Interessenkonflikt oder Integrität | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: ausschluss-bieter-paragraf-124-gwb` |
+| Datenschutz, Bieterdaten, Geschäftsgeheimnis oder Akteneinsicht | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 30-datenschutz-bieterdaten` und `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 26-akteneinsicht-vergabekammer` |
 
 #### Direkt-Routing Technik, Cloud und Nachhaltigkeit
 
 | Lage | Primärer Skill |
 |---|---|
-| KI-, Cloud-, Daten-, IT-Sicherheits- oder KRITIS-Anforderung | `ki-beschaffung-ai-act-daten-cloud` und `it-sicherheits-vergabe-bsi-it-sig-2` |
-| Nachhaltigkeit, Tariftreue, Lieferketten, CBAM, Klima oder Umweltauflage | `nachhaltigkeit-tariftreue-lksg-cbam` |
-| Technische Normen, DIN, Eurocodes, Schnittstellen oder Produktneutralität | `leistungsbeschreibung-neutralitaet-funktional` |
-| Mehrere Behörden-, Bau-, Netz- oder Umweltdatenquellen müssen als Szenario gegeneinander gerechnet werden | `wirklichkeitsdaten-beschaffung-steuern` |
+| KI-, Cloud-, Daten-, IT-Sicherheits- oder KRITIS-Anforderung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: ki-beschaffung-ai-act-daten-cloud` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: it-sicherheits-vergabe-bsi-it-sig-2` |
+| Nachhaltigkeit, Tariftreue, Lieferketten, CBAM, Klima oder Umweltauflage | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: nachhaltigkeit-tariftreue-lksg-cbam` |
+| Technische Normen, DIN, Eurocodes, Schnittstellen oder Produktneutralität | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: leistungsbeschreibung-neutralitaet-funktional` |
+| Mehrere Behörden-, Bau-, Netz- oder Umweltdatenquellen müssen als Szenario gegeneinander gerechnet werden | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
 
 #### Vergaberechtliches Routing (Schwellenwerte & Rechtswege)
 
@@ -530,20 +530,20 @@ Dieser Einstieg dient ausschließlich der Orientierung ohne Unterlagen. Er ordne
 #### Abgrenzung
 
 - Ohne Unterlagen und noch ohne klaren Verfahrenspfad: dieser Skill.
-- Ein einzelnes Dokument oder eine konkrete Rechtsfrage: `workflow-kaltstart-und-routing`.
+- Ein einzelnes Dokument oder eine konkrete Rechtsfrage: `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`.
 - Ordner, ZIP, Portal-/DMS-Export oder mehrere Arbeitsstränge: `vergabe-os-master-orchestrator`.
 
 #### Fachlandkarte dieses Plugins
 
 - `vergabe-os-master-orchestrator` - Gesamtsteuerung für Bedarf, Verfahren, Wertung, Rechtsschutz und Upload.
-- `workflow-kaltstart-und-routing` und `workflow-fristen-und-risikoampel` - erster Satz, rote Fristen, Verfahrensstand und Output-Weiche.
-- `dokumente-intake`, `unterlagen-luecken` und `workflow-unterlagen-lueckenliste` - Vergabeakte, Unterlagen, LV, Angebote, Protokolle und Lücken.
-- `quellen-livecheck`, `schwellenwerte-2026-2027-livecheck` und `schnittstelle-zahlen-schwellen-und-berechnung` - Normen, Schwellen, Wertgrenzen und Rechenweg.
-- `eforms-ted-bekanntmachung-check`, `05-bekanntmachung-erstellen` und `bekanntmachung-berichtigung-und-upload-routing` - Bekanntmachung, TED/DVAL, Berichtigung und Portal.
-- `wirklichkeitsdaten-beschaffung-steuern`, `legacy-systeme-integration` und `vergabeunterlagen-lv-datenformate-bereitstellen` - Datenquellen, GAEB/XML/Excel/PDF und Systemanschluss.
-- `bestangebot-durchsetzen`, `10-zuschlagsmatrix-aufbauen`, `wertungspreisqualitaet-matrix` und `18-wertungsvermerk-erstellen` - Bestwertung statt Preisautomatismus.
-- `12-ausschlussgruende-pruefen`, `wettbewerbsregister-abfrage-selbstreinigung` und `27-selbstreinigung-paragraf-125` - Ausschluss, Register und Selbstreinigung.
-- `22-ruegeerwiderung`, `23-stellungnahme-vergabekammer`, `26-akteneinsicht-vergabekammer` und `24-vorlage-an-den-vergabesenat` - Rüge, VK, Akteneinsicht und OLG.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` - erster Satz, rote Fristen, Verfahrensstand und Output-Weiche.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: dokumente-intake`, `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-luecken` und `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-unterlagen-lueckenliste` - Vergabeakte, Unterlagen, LV, Angebote, Protokolle und Lücken.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: quellen-livecheck`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` und `/vergabestelle-behoerden:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: schnittstelle-zahlen-schwellen-und-berechnung` - Normen, Schwellen, Wertgrenzen und Rechenweg.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 05-bekanntmachung-erstellen` und `/vergabestelle-behoerden:ruege-bearbeiten Thema: bekanntmachung-berichtigung-und-upload-routing` - Bekanntmachung, TED/DVAL, Berichtigung und Portal.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern`, `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` und `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` - Datenquellen, GAEB/XML/Excel/PDF und Systemanschluss.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen`, `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: wertungspreisqualitaet-matrix` und `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 18-wertungsvermerk-erstellen` - Bestwertung statt Preisautomatismus.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 12-ausschlussgruende-pruefen`, `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 27-selbstreinigung-paragraf-125` - Ausschluss, Register und Selbstreinigung.
+- `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 22-ruegeerwiderung`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 26-akteneinsicht-vergabekammer` und `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 24-vorlage-an-den-vergabesenat` - Rüge, VK, Akteneinsicht und OLG.
 
 #### Arbeitsweg
 
@@ -646,13 +646,13 @@ Dieser Dokumenten-Intake für Vergaberecht ordnet Anlagen, Registerdaten, Korres
 #### Fachlandkarte dieses Plugins
 
 - `vergabe-os-master-orchestrator` - Gesamtsteuerung für Vergabestellenfälle.
-- `workflow-fristen-und-risikoampel` - rote Fristen aus Akte, Portal und Schreiben sichern.
-- `workflow-chronologie-und-belegmatrix` - Vergabeakte, Portalprotokolle, Entscheidungen und Belege ordnen.
-- `unterlagen-luecken` und `workflow-unterlagen-lueckenliste` - fehlende Unterlagen, Nachweise und Aktenstellen.
-- `eforms-ted-bekanntmachung-check` - Bekanntmachung, CPV, Unterlagenlink, Fristen, eForms/TED/DVAL.
-- `legacy-systeme-integration` und `wirklichkeitsdaten-beschaffung-steuern` - Datenquellen, Bauwerks-/Zustands-/Kosten-/BIM-Daten und Systemanschluss.
-- `bestangebot-durchsetzen`, `10-zuschlagsmatrix-aufbauen` und `18-wertungsvermerk-erstellen` - Bestwertungsentscheidung und Dokumentation.
-- `22-ruegeerwiderung`, `23-stellungnahme-vergabekammer`, `26-akteneinsicht-vergabekammer` und `24-vorlage-an-den-vergabesenat` - Streitführung.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` - rote Fristen aus Akte, Portal und Schreiben sichern.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-chronologie-und-belegmatrix` - Vergabeakte, Portalprotokolle, Entscheidungen und Belege ordnen.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-luecken` und `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-unterlagen-lueckenliste` - fehlende Unterlagen, Nachweise und Aktenstellen.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check` - Bekanntmachung, CPV, Unterlagenlink, Fristen, eForms/TED/DVAL.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` - Datenquellen, Bauwerks-/Zustands-/Kosten-/BIM-Daten und Systemanschluss.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` und `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: 18-wertungsvermerk-erstellen` - Bestwertungsentscheidung und Dokumentation.
+- `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 22-ruegeerwiderung`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 26-akteneinsicht-vergabekammer` und `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 24-vorlage-an-den-vergabesenat` - Streitführung.
 
 #### Arbeitsweg
 
@@ -684,13 +684,13 @@ Dieser Quellen-Livecheck für Vergaberecht trennt amtliche Normfassung, frei pr�
 
 #### Fachlandkarte dieses Plugins
 
-- `quellen-livecheck` - tragende Normen, Rechtsprechung und Behördenquellen absichern.
-- `schwellenwerte-2026-2027-livecheck` und `schnittstelle-zahlen-schwellen-und-berechnung` - EU-Schwellen, Wertgrenzen, Lose, Optionen und Rechenweg.
-- `eforms-ted-bekanntmachung-check` - Bekanntmachungs-, CPV-, TED-, DVAL- und Portalquellen.
-- `zuschlagskriterien-paragraf-127-gwb`, `bestangebot-durchsetzen` und `wertungspreisqualitaet-matrix` - Bestwertungsquellen.
-- `vertragsaenderung-132-gwb-change-control` und `insolvenz-und-132-gwb-auftragnehmerwechsel` - § 132 GWB, Insolvenz und Auftragnehmerwechsel.
-- `wettbewerbsregister-abfrage-selbstreinigung`, `12-ausschlussgruende-pruefen` und `vergaberecht-anti-korruption-paragraf-123-gwb` - Register, Ausschluss und Selbstreinigung.
-- `22-ruegeerwiderung`, `23-stellungnahme-vergabekammer` und `24-vorlage-an-den-vergabesenat` - Rechtsschutzquellen.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: quellen-livecheck` - tragende Normen, Rechtsprechung und Behördenquellen absichern.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: schwellenwerte-2026-2027-livecheck` und `/vergabestelle-behoerden:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: schnittstelle-zahlen-schwellen-und-berechnung` - EU-Schwellen, Wertgrenzen, Lose, Optionen und Rechenweg.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check` - Bekanntmachungs-, CPV-, TED-, DVAL- und Portalquellen.
+- `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: zuschlagskriterien-paragraf-127-gwb`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` und `/vergabestelle-behoerden:arbeitsprodukt-bearbeiten Thema: wertungspreisqualitaet-matrix` - Bestwertungsquellen.
+- `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vertragsaenderung-132-gwb-change-control` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: insolvenz-und-132-gwb-auftragnehmerwechsel` - § 132 GWB, Insolvenz und Auftragnehmerwechsel.
+- `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 12-ausschlussgruende-pruefen` und `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergaberecht-anti-korruption-paragraf-123-gwb` - Register, Ausschluss und Selbstreinigung.
+- `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 22-ruegeerwiderung`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer` und `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 24-vorlage-an-den-vergabesenat` - Rechtsschutzquellen.
 
 #### Arbeitsweg
 
@@ -849,9 +849,9 @@ Schwellenwerttabelle, Bundesland-Wertgrenzencheck, Direktauftragsvermerk, Rechen
 
 #### Weiterleitung
 
-- `02-auftragswert-schaetzung` für die detaillierte Rechenakte.
-- `03-schwellenwert-pruefung` für die Regimeentscheidung.
-- `04-verfahrensart-waehlen` für die daraus folgende Verfahrenswahl.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 02-auftragswert-schaetzung` für die detaillierte Rechenakte.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 03-schwellenwert-pruefung` für die Regimeentscheidung.
+- `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: 04-verfahrensart-waehlen` für die daraus folgende Verfahrenswahl.
 
 ---
 
@@ -1276,7 +1276,7 @@ _Wirtschaftlichstes Angebot nach § 127 GWB operationalisieren: Preis, Qualität
 8. Prüfung auf Lianakis-Konformität (keine Eignungsdoppelung) und Dimarso-Transparenz
 9. Bei personalintensiven Dienstleistungen zuerst prüfen, ob eine besondere nationale oder landesrechtliche Regel Preis allein untersagt. Unabhängig davon beschaffungsfachlich testen, ob Personaleinsatz, Organisation, Ausfallkonzept oder Reaktionszeit als auftragsbezogene Qualitätskriterien benötigt werden.
 10. Bestangebots-Stresstest rechnen: Billig-schwach, teurer-stark und mittlerer Preis mit guter Ausführung. Wenn das schwache Billigangebot trotz erheblicher Qualitäts-, Termin- oder Lebenszyklusnachteile gewinnt, Gewichtung oder Preisformel nachschärfen.
-11. Bei objekt-, bau-, klima-, zustands-, kosten- oder betriebsbezogenen Daten `wirklichkeitsdaten-beschaffung-steuern` nutzen: Nichtpreisliche Kriterien nur einsetzen, wenn Quelle, Befund, Auftragsbezug, Bewertbarkeit und Aktenbeleg klar sind.
+11. Bei objekt-, bau-, klima-, zustands-, kosten- oder betriebsbezogenen Daten `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` nutzen: Nichtpreisliche Kriterien nur einsetzen, wenn Quelle, Befund, Auftragsbezug, Bewertbarkeit und Aktenbeleg klar sind.
 
 #### Anker-Rechtsprechung
 

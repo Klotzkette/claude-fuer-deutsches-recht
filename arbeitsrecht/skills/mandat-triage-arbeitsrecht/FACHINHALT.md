@@ -1,0 +1,230 @@
+---
+name: mandat-triage-arbeitsrecht
+description: "Für Mandat Triage Arbeitsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+---
+
+# Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit
+
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschäftsführer). Sofort-Fristen-Check Paragraf 4 KSchG drei Wochen Kündigungsschutzklage Paragraf 17 TzBfG drei Wochen Entfristung. Normen Paragraf 1 KSchG Paragraf 611a BGB Paragraf 102 BetrVG Paragraf 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kündigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kündigungs-prüfung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung).
+
+### Mandat-Triage Arbeitsrecht
+
+## Fachlicher Kern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Ablauf — acht Fragen
+
+### Frage 1 — Mandantenrolle?
+
+- Arbeitnehmer
+- Arbeitgeber Mittelstand
+- Konzern-Arbeitgeber
+- Betriebsrat
+- Geschäftsführer (DienstvertragsBereich)
+- Aufsichtsrat (Mitbestimmung)
+- Tarifvertragspartner
+- Schwerbehindertenvertretung
+
+### Frage 2 — Sachgebiet?
+
+- Kündigung (Arbeitgeber- Arbeitnehmer- ordentlich außerordentlich)
+- Aufhebungsvertrag / Abwicklungsvereinbarung
+- Abmahnung
+- Lohn- und Gehalt
+- Urlaub Urlaubsabgeltung
+- Befristung
+- Betriebsübergang
+- AGG / Diskriminierung
+- Betriebsrats-Streit (Paragrafen 99 102 BetrVG)
+- Tarifverhandlung
+- Mutterschutz Elternzeit
+- Datenschutz im Beschäftigungsverhältnis
+- Whistleblowing HinSchG
+- Interne Untersuchung
+- Compliance
+- Statusfeststellung (Scheinselbstständigkeit)
+- D&O / Geschäftsführer-Vertrag
+
+### Frage 3 — Akute Eilbedürftigkeit?
+
+- **Drei-Wochen-Frist Paragraf 4 KSchG**
+- Aufhebungsvertrag bis Datum X zu unterzeichnen
+- Anhörung Betriebsrat heute
+- Massenentlassung droht
+- Interne Untersuchung läuft mit Anhörung morgen
+- Whistleblower-Vorwürfe öffentlich
+- Streik kurzfristig
+- **DSGVO-Auskunftsersuchen nach Art. 15 DSGVO eingegangen oder angekündigt?** → Monatsfrist Art. 12 Abs. 3 DSGVO läuft; unberechtigte Ablehnung löst Art.-82-Schadensersatz aus
+
+### Frage 4 — Stand?
+
+- Beratungsbedarf vor Vertrag
+- Vertrag läuft — laufender Streit
+- Kündigung erhalten / ausgesprochen
+- Aufhebungsvertrag liegt vor
+- Schlichtungsstelle / Einigungsstelle
+- Klage erhoben (Az ArbG)
+- Berufung (LAG)
+- Revision (BAG)
+- BVerfG / EuGH
+
+### Frage 5 — Vertragsgrundlage?
+
+- Anwendbares Recht (deutsches Recht?)
+- Schriftlicher Arbeitsvertrag?
+- Tarifvertrag (welcher)?
+- Betriebsvereinbarungen?
+- Konzern-Betriebsvereinbarungen?
+- Richtlinien
+- Bonusregelung
+
+### Frage 6 — Frist?
+
+- **Paragraf 4 KSchG** drei Wochen ab Zugang Kündigung
+- **Paragraf 7 KSchG** Verstreichen Frist Fiktion Wirksamkeit
+- **Paragraf 17 KSchG** Massenentlassung Anzeige
+- **Paragraf 102 BetrVG** Betriebsrats-Anhörung eine Woche bei ordentlicher Kündigung
+- **Paragraf 626 Abs. 2 BGB** außerordentliche Kündigung zwei Wochen
+- **Sperrzeit Paragraf 144 SGB III** Aufhebungsvertrag drei Monate
+- **Tarifliche Ausschlussfristen** typisch zwei oder drei Monate
+- **Lohnverjährung** drei Jahre Paragraf 195 BGB
+
+### Frage 7 — Konflikt-Check?
+
+- Andere Anwälte derselben Kanzlei vertreten Gegenseite in selber Sache?
+- Bei Arbeitgeber-Vorratsmandant Mitarbeiter-Mandate konfliktäre?
+- Konzern-Konstellation
+
+### Frage 8 — Wirtschaftliche Verhältnisse?
+
+- Mandanten-Einkommen für PKH?
+- Rechtsschutz-Versicherung mit Wartezeit?
+- D&O-Versicherung bei Geschäftsführer
+- Berufshaftpflicht Arbeitgeber
+
+## Routing-Matrix
+
+| Sachgebiet | Folge-Skill |
+|---|---|
+| Kündigung | `kuendigungs-pruefung` |
+| Kündigungsschutzklage | `kuendigungsschutzklage` |
+| Aufhebungsvertrag | `aufhebungsvertrag` |
+| Abmahnung | `abmahnung-arbeitsrecht` |
+| Betriebsübergang | `betriebsuebergang-613a-pruefen` |
+| Lohn-Streit | `lohn-arbeitszeit-fragen` |
+| Betriebsrat-Anhörung | `betriebsrat-anhoerung` |
+| Statusfeststellung | `arbeitnehmer-status` |
+| Lohnsteuer/SV | `lohnsteuer-sozialversicherung` |
+| Interne Untersuchung | `interne-untersuchung` |
+| Untersuchung Memo | `untersuchungs-memo` |
+| AGG Diskriminierung | (Skill agg-diskriminierung — perspektivisch) |
+| Befristung | (Skill befristung-tzbfg — perspektivisch) |
+| HinSchG Whistleblower | `hinschg-whistleblower-antwort` |
+| Massenentlassung | `massenentlassung-17-kschg` |
+| Mindestlohn / Zeiterfassung | `mindestlohn-arbeitszeit-erfassung` |
+| Aufhebungsvertrag mit Sperrzeit-Risiko | `aufhebungsvertrag-sperrzeit-prognose` |
+| AGG Diskriminierung + DSGVO | `agg-pruefung-bewerber-und-beschaeftigte` |
+
+## DSGVO-Auskunftsersuchen — Parallel-Triage
+
+Bei jedem Kündigungs-, Aufhebungsvertrag- oder AGG-Mandat zusätzlich prüfen:
+
+**Liegt zugleich ein DSGVO-Auskunftsersuchen nach Art. 15 DSGVO vor?**
+
+| Indiz | Bewertung |
+|---|---|
+| Auskunftsersuchen zeitgleich mit Kündigung oder Klage | Typisches Druckmittel; Monatsfrist Art. 12 Abs. 3 DSGVO beachten |
+| Standardisierter Legal-Tech-Antrag identischen Wortlauts | Missbrauchsverdacht aus Art. 12 Abs. 5 DSGVO grundsätzlich denkbar; aktuelle Rechtsprechung jedoch zurueckhaltend bei Annahme von Rechtsmissbrauch |
+| Erstmaliger Antrag ohne Legal-Tech-Muster | Hohe Hürde für Missbrauchseinwand; Auskunft erteilen |
+
+**Aktuelle Rechtsprechung zum DSGVO-Schadensersatz bei verspaeteter Auskunft**: BAG, Urteil vom 20.02.2025 - 8 AZR 61/24: Bloss verspaetete Auskunft begruendet keinen Schadensersatzanspruch nach Art. 82 DSGVO; allein ein "Stoergefuehl" oder negative Emotion genuegt nicht. Erforderlich ist konkret begruendete Furcht vor Datenmissbrauch oder tatsaechlicher Kontrollverlust. Quelle: dejure.org-Vernetzung BAG 20.02.2025 - 8 AZR 61/24.
+
+**Handlungsanweisung:**
+1. Datum des Eingangs des Auskunftsersuchens dokumentieren.
+2. Monatsfrist Art. 12 Abs. 3 DSGVO in Fristenbuch eintragen.
+3. Prüfen, ob die Auskunft inhaltlich vollstaendig erteilt werden kann (vgl. BAG 20.02.2025 - 8 AZR 61/24 zur Schadensersatz-Schwelle).
+4. Falls Missbrauchseinwand nicht sicher: Auskunft erteilen oder begründet verzögern (max. zwei weitere Monate, Art. 12 Abs. 3 S. 2 DSGVO).
+5. Ausgleichsklausel im Aufhebungsvertrag: DSGVO-Ansprüche und Art.-82-Schadensersatz einbeziehen?
+6. Zuständigkeit: Auskunftsklage gehört vor das Landgericht (Paragraf 44 BDSG i.V.m. Art. 79 DSGVO), nicht vor das Arbeitsgericht.
+
+Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/FACHINHALT.md` (Abschnitt DSGVO-Auskunftsersuchen als Druckmittel) und `arbeitsrecht/skills/aufhebungsvertrag/FACHINHALT.md` (DSGVO-Auskunftsersuchen als Verhandlungshebel).
+
+## Mandatsannahme
+
+- **Konflikt-Check** sehr strikt — keine Doppel Mandanten Mandant/Mandant
+- **Streitwert** typischer KSchG-Streit drei Monatsgehälter
+- **Versicherungs-Deckung** Berufshaftpflicht Arbeitgeber Rechtsschutz Arbeitnehmer
+- **Komplexität** Massenentlassung / Konzern-Restrukturierung
+
+## Eskalation
+
+- **Telefon-Sofort** Drei-Wochen-Frist Paragraf 4 KSchG läuft binnen Tagen
+- **Binnen einer Stunde** Aufhebungsvertrag heute zu unterzeichnen
+- **Heute** Klageeinreichung KSchG-Klage Anhörung Betriebsrat
+- **Diese Woche** Schriftsatz-Erstentwurf Verteidigungs-Strategie
+
+## Ausgabe
+
+- `triage-protokoll-arbeitsrecht.md`
+- Aktenanlage
+- Frist im Fristenbuch (Paragraf 4 KSchG Sperrzeit etc.)
+- KSchG-Klage-Entwurf bei akutem Bedarf
+- Mandatsvereinbarung mit Honorarvereinbarung
+- Empfehlung Folge-Skill
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellen
+
+- BGB Paragraf 613a Paragraf 626
+- KSchG Paragrafen 1 4 7 17
+- BetrVG Paragrafen 99 102 111 112 113
+- TzBfG
+- AGG
+- HinSchG
+- SGB III Paragraf 144
+- BAG Std.Spruch
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+## Aktuelle BAG-Linie 2025/2026 (live verifizieren vor Schriftsatzverwendung)
+
+Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoelf Monaten besonders weit ausstrahlen:
+
+| Entscheidung | Tragende Aussage | Skill-Vertiefung |
+| --- | --- | --- |
+| **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des Paragraf 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
+| **BAG, Urt. v. 03.06.2025 - 9 AZR 104/24** | **Kein Verzicht auf gesetzlichen Mindesturlaub.** Im bestehenden Arbeitsverhaeltnis können Arbeitnehmer:innen auf den gesetzlichen Mindesturlaub nicht wirksam verzichten - auch nicht durch gerichtlichen Vergleich. Gilt selbst dann, wenn die Beendigung bereits feststeht und absehbar ist, dass der Urlaub krankheitsbedingt nicht mehr genommen werden kann. Ausgleichs-/Erledigungs-/Abgeltungsklauseln müssen sauber zwischen gesetzlichem Mindesturlaub, vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung unterscheiden. | `bag-mindesturlaub-kein-verzicht` (fachanwalt-arbeitsrecht) / `bag-mindesturlaub-kein-verzicht-9azr10424` (arbeitsrecht) |
+| **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
+
+> Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.

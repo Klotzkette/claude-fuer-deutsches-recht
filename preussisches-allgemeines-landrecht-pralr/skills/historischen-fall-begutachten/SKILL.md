@@ -37,7 +37,7 @@ Die folgenden Materialien sind bewahrte frühere Arbeitsentwürfe, keine zusätz
 
 ## 4. Quellenpflicht
 
-[Zitierweise](../../../references/zitierweise.md) und [historischer Quellenprüfvermerk](../../references/historische-quellenpruefung.md) beachten. Ausgabe, Teil, Titel, Paragraf und konkrete Fundstelle nennen. Für tragende Wörter Seitenbild und Transkription abgleichen; ohne verfügbares Seitenbild den begrenzten Textzeugenstatus offenlegen. Nur neu oder entscheidend verwendete historische Primärstellen gezielt prüfen, keine sachfremde Aktualitätsrecherche erzwingen. Literatur nur aus bereitgestelltem oder tatsächlich verifiziertem Text verwenden.
+[Zitierweise](../../references/repository/references/zitierweise.md) und [historischer Quellenprüfvermerk](../../references/historische-quellenpruefung.md) beachten. Ausgabe, Teil, Titel, Paragraf und konkrete Fundstelle nennen. Für tragende Wörter Seitenbild und Transkription abgleichen; ohne verfügbares Seitenbild den begrenzten Textzeugenstatus offenlegen. Nur neu oder entscheidend verwendete historische Primärstellen gezielt prüfen, keine sachfremde Aktualitätsrecherche erzwingen. Literatur nur aus bereitgestelltem oder tatsächlich verifiziertem Text verwenden.
 
 ## 5. Ausgabeformat
 

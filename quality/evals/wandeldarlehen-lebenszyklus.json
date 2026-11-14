@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "target_skill": "wandlungspreis-wandlungspruefung-trigger"
+      "target_skill": "finanzierung-und-beteiligung-bearbeiten"
     },
     {
       "id": "vertraglicher-zins-bruchteil-und-formfreigabe",
@@ -165,7 +165,7 @@
           ]
         }
       ],
-      "target_skill": "wandlungspreis-wandlungspruefung-trigger"
+      "target_skill": "finanzierung-und-beteiligung-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fachlich geprüfte Skill-Zuordnung mit höchstens zwanzig Auswahlpunkten",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "plugins"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "plugins": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/plugin"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]{1,64}$"
+    },
+    "strings": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "route": {
+      "type": "object",
+      "required": [
+        "slug",
+        "title",
+        "description",
+        "purpose",
+        "inputs",
+        "steps",
+        "outputs",
+        "examples",
+        "members"
+      ],
+      "properties": {
+        "slug": {
+          "$ref": "#/$defs/slug"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1024
+        },
+        "purpose": {
+          "type": "string",
+          "minLength": 1
+        },
+        "inputs": {
+          "$ref": "#/$defs/strings"
+        },
+        "steps": {
+          "$ref": "#/$defs/strings"
+        },
+        "outputs": {
+          "$ref": "#/$defs/strings"
+        },
+        "examples": {
+          "$ref": "#/$defs/strings"
+        },
+        "members": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/slug"
+          }
+        },
+        "document_style": {
+          "const": "vergaberecht",
+          "description": "Explizite lokale Ausgabevorgaben der Vergaberecht-Werkstatt; keine Änderung der erhaltenen Fachtexte."
+        }
+      },
+      "additionalProperties": false
+    },
+    "plugin": {
+      "type": "object",
+      "required": [
+        "name",
+        "source",
+        "keep",
+        "routes"
+      ],
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/slug"
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        },
+        "keep": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/slug"
+          }
+        },
+        "routes": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 20,
+          "items": {
+            "$ref": "#/$defs/route"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

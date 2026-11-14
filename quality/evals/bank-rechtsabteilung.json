@@ -94,7 +94,7 @@
       "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "9e1a8ebe85afd8bb4f63baac8ed1e7d0e17330a2dc79f9cb9a0ea5408352a4bc",
+    "sha256": "4f49e2cae0a13453c018e28aac0aeb80de41e49f7bfaa8c1f65cea77c09fccf1",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
     "previous_reviews": [
@@ -148,7 +148,7 @@
           ]
         }
       ],
-      "target_skill": "psd2-fraud-refund-unauthorised-payment"
+      "target_skill": "konto-zahlungsverkehr-und-betrug-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -163,7 +163,7 @@
       "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "10dd7a020ca00c34b6cd8eaa7f5a3e24447ea7534c40f7d49d4514b114de087c",
+    "sha256": "9f4c836a42b409bcf07bdbfc100bea83896bab300d90c852849ff5fac282715b",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
     "previous_reviews": [
@@ -195,7 +195,7 @@
       "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
       "bank-rechtsabteilung/README.md",
       "quality/evals/bank-rechtsabteilung.json",
-      "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md"
+      "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/FACHINHALT.md"
     ],
     "opening_change": "Kontobelastung, Kreditsicherheit und Aufsichtsantwort statt allgemeiner Rechtsabteilungsorganisation.",
     "norms": [

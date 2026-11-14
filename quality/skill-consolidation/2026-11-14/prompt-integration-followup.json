@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-14",
+  "scope": "Nicht veröffentlichende allgemeine Prompt-, Qualitäts-, Routing- und Skill-Integrationsprüfungen; keine vollständige erneute Prüfung aller juristischen Aussagen.",
+  "passed": 21,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "test-quality-lab.py",
+      "exit_code": 0,
+      "test_count": 73,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-quality-lab.py.log",
+      "log_sha256": "2af48edc9ed077921cf8c4b1edc6fa1667d881547d5254abc2b07189f6ac1228",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-schwerpunkt-coverage.py",
+      "exit_code": 0,
+      "test_count": 12,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-schwerpunkt-coverage.py.log",
+      "log_sha256": "6fe15acc96ad6f61aa7e6658ac5c5a9f04a97e25ec508e29a82ad3d722e28374",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "test-prompt-profile-app-boundary.py",
+      "exit_code": 0,
+      "test_count": 3,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-prompt-profile-app-boundary.py.log",
+      "log_sha256": "199ba496f288116d36c62f29346d4fbf0bd75745a1c893abfcbdaa4c6d5b1033",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-prompt-publication-profiles.py",
+      "exit_code": 0,
+      "test_count": 10,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-prompt-publication-profiles.py.log",
+      "log_sha256": "20b7b644cef5ed8566dd47b14f5c32f8917c5bf87062c78b72c4e37b80890a18",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-prompt-generator-excerpts.py",
+      "exit_code": 0,
+      "test_count": null,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-prompt-generator-excerpts.py.log",
+      "log_sha256": "2205485a1265c499fb0d78eaf8a34848a106fd2ea0b8034542483273d3ec72a0",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "test-prompt-routing-scope.py",
+      "exit_code": 0,
+      "test_count": null,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-prompt-routing-scope.py.log",
+      "log_sha256": "e06d08d6acdf7d4324092643071f29c40d1507b253be73a7212c572c97198bee",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "test-prompt-workflow-preservation.py",
+      "exit_code": 0,
+      "test_count": 43,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-prompt-workflow-preservation.py.log",
+      "log_sha256": "b58159f1a7b315e4e91d4fe052bf30a18111d38c7705f749f503e0035f296649",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "test-prompt-openings.py",
+      "exit_code": 0,
+      "test_count": 6,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-prompt-openings.py.log",
+      "log_sha256": "d965122cf9a3687cd862a9bce683521a93ecb3d338b20b4730e4dfb10df64618",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-prompt-hygiene-links.py",
+      "exit_code": 0,
+      "test_count": 15,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-prompt-hygiene-links.py.log",
+      "log_sha256": "4f46f56bd7ffafd80559d18675e7376e6ef1426caf0f1b104463f68e61170d26",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-portable-starts.py",
+      "exit_code": 0,
+      "test_count": 11,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-portable-starts.py.log",
+      "log_sha256": "7cc31236c3b4d8851ff259a4642b85c00620db607fb24ca168283a706a2b147f",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-generate-megaprompt.py",
+      "exit_code": 0,
+      "test_count": null,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-generate-megaprompt.py.log",
+      "log_sha256": "30359651e7607ab27790bd5b8f702f7f29eb6a126cfd5f080efb6cc00097a8e4",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "audit-generated-prompt-hygiene.py",
+      "exit_code": 0,
+      "test_count": null,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/audit-generated-prompt-hygiene.py.log",
+      "log_sha256": "0b904f43ba83b67ba488bc9ad23c11734e093c21767ac4ec8e2bdadaa91a0527",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "audit-prompt-profile-routing.py",
+      "exit_code": 0,
+      "test_count": null,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/audit-prompt-profile-routing.py.log",
+      "log_sha256": "ba28cff59738fc01c591f389a7917d5fb13bf4b28605f25db1f5d2d29ebe2a60",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "test-quickstart-usability.py",
+      "exit_code": 0,
+      "test_count": 17,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-quickstart-usability.py.log",
+      "log_sha256": "7558f55749d8ceaac5af8fad36bed6a2c027d5604d140e0ade7e60f394ec6db4",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "audit-quickstart-usability.py",
+      "exit_code": 0,
+      "test_count": null,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/audit-quickstart-usability.py.log",
+      "log_sha256": "c601222a3e3be9a4e88b2716b8aa65737fbfdd8519f317b9564cde8365fbcf74",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-werkstatt-visualisierung.py",
+      "exit_code": 0,
+      "test_count": 27,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-werkstatt-visualisierung.py.log",
+      "log_sha256": "a0d566ef60b990a50e2ea0e0dc266b3cca427d1e86eb40b8b54d3e0b01a7ce08",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-official-plugin-validation.py",
+      "exit_code": 0,
+      "test_count": 10,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration/test-official-plugin-validation.py.log",
+      "log_sha256": "660ac5c5df6e681872a4b448b6493f106172b374aba3be912eeb9b22c8f471a3",
+      "rerun_after_fix": false
+    },
+    {
+      "check": "test-skill-sources.py",
+      "exit_code": 0,
+      "test_count": 4,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-skill-sources.py.log",
+      "log_sha256": "d094b1bd2c8318c96097f80c50da282add5b2972970a77046de8db6c8935f6ca",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "test-skill-cap-integration.py",
+      "exit_code": 0,
+      "test_count": 13,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-skill-cap-integration.py.log",
+      "log_sha256": "88d487dc414a75918fa656a16be00516aa76d98a77e8c3dfc740baa47de5ed6b",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "test-runtime-performance.py",
+      "exit_code": 0,
+      "test_count": 7,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/test-runtime-performance.py.log",
+      "log_sha256": "2b8a5c7e7bfdde85bf100dde94d4f0d07df6f886aca0c69849d08d8bb7a0973a",
+      "rerun_after_fix": true
+    },
+    {
+      "check": "validate-runtime-performance.py",
+      "exit_code": 0,
+      "test_count": null,
+      "log": "../tmp/qualitaetsrunde-2026-11-14/allgemeine-integration-nachlauf/validate-runtime-performance.py.log",
+      "log_sha256": "1dc43c7d75687ec5e628bdd61a2e200939c4b550cdff26d68dd6491b2186116b",
+      "rerun_after_fix": true
+    }
+  ],
+  "negative_regressions": [
+    {
+      "test": "test-prompt-generator-excerpts.py",
+      "old_behavior_rejected": true,
+      "error": "Aktiver Sammelrouter hat die erhaltenen Fachthemen verdrängt"
+    },
+    {
+      "test": "test-generate-megaprompt.py",
+      "old_behavior_rejected": true,
+      "error": "Vollprüfung hat Originalfachmodule durch Sammelrouter ersetzt"
+    }
+  ],
+  "binding_regression": "Die drei neuen Binding-Regressionen verwerfen den früheren integrate-skill-cap.py-Algorithmus; vorheriger Nachweis unter ../tmp/qualitaetsrunde-2026-11-14/integration-old-binding-regression.log.",
+  "nested_scope": "validate-workflow-usability.py und Smokeabschnitte 3, 10, 11 erfolgreich; abschließendes Laufzeit-Routing und vollständiger Quick-Smoke werden vom Architekturagenten gesondert geprüft.",
+  "limits": "Keine Commits, Releases, Tags oder Veröffentlichungen durch diesen Prüflauf. Generierte Fachprompts nicht breit neu erzeugt; der Schwerpunktkatalog verwendet die validierte aktive Fokusauswahl.",
+  "nested_legal_followup": {
+    "scope": "Weitere13 verschobene Pflichtquellen in validate-legal-regressions.py registriert auflösen, Pflichtmarker und Rechtsregressionsmuster unverändert; Schwellenwertquellen werden nach demselben strikten Resolver gelesen.",
+    "checks": [
+      {
+        "check": "legal-regressions",
+        "exit_code": 0,
+        "log": "../tmp/qualitaetsrunde-2026-11-14/vergaberecht-leser-nachlauf/legal-regressions.log",
+        "log_sha256": "cb995db94966454d428b882fb90248dc3c9f86346342e10782cefe870951278f"
+      },
+      {
+        "check": "legal-source-tests",
+        "exit_code": 0,
+        "log": "../tmp/qualitaetsrunde-2026-11-14/vergaberecht-leser-nachlauf/legal-source-tests.log",
+        "log_sha256": "24adda79e21044fef19cdc7f0606a9cd7770fc9a99c705a8622ee923c13bce5d"
+      },
+      {
+        "check": "smoke-section1",
+        "exit_code": 0,
+        "log": "../tmp/qualitaetsrunde-2026-11-14/vergaberecht-leser-nachlauf/smoke-section1.log",
+        "log_sha256": "6198a4c7e69fb52bfe0808784c8266ec89db6bec2e0cadbdb20f6bf747ac7685"
+      }
+    ],
+    "negative_tests": "Zwei neue Tests: alle Pflichtmarker erhalten; entfernter Übergangsanker bleibt Fehler; fehlender registrierter und vorhandener unregistrierter Ersatz bleiben Fehler.",
+    "source_text_changes": false
+  }
+}

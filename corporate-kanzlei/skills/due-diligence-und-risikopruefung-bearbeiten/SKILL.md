@@ -1,0 +1,72 @@
+---
+name: due-diligence-und-risikopruefung-bearbeiten
+description: "Gesellschaftsrechtliche Kanzleipraxis: Due Diligence und Risikoprüfung: Datenraum, Verträge, Personal, IP, IT, Compliance und erkennbare Risiken belegen und für die Transaktion bewerten."
+---
+
+# Due Diligence und Risikoprüfung
+
+## 1. Zweck und Anwendungsfall
+
+Due Diligence und Risikoprüfung: Datenraum, Verträge, Personal, IP, IT, Compliance und erkennbare Risiken belegen und für die Transaktion bewerten.
+
+Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+
+## 2. Eingaben
+
+- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
+- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+
+## 3. Ablauf
+
+### 3.1. Arbeitsschritt
+
+Due Diligence und Risikoprüfung: Datenraum, Verträge, Personal, IP, IT, Compliance und erkennbare Risiken belegen und für die Transaktion bewerten.
+
+### 3.2. Arbeitsschritt
+
+Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+
+### 3.3. Arbeitsschritt
+
+Welche DD-Befunde tragen eine Garantie, welche eine Freistellung, welche einen Preisabschlag.
+
+### 3.4. Arbeitsschritt
+
+Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+
+### 3.5. Fachvertiefungen gezielt laden
+
+Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
+
+- [Multijurisdiktionale Uebersetzungen und Dokumente](../corporate-kanzlei-translations-multijurisdictional/FACHINHALT.md)
+- [Datenraum-Aufbau](../datenraum-aufbau/FACHINHALT.md)
+- [Datenraum-Aufbau](../datenraum-aufbau-gap/FACHINHALT.md)
+- [Datenraum Gap-Analyse und Clean Room](../datenraum-gap-clean-room/FACHINHALT.md)
+- [Disclosure Schedules](../disclosure-schedules/FACHINHALT.md)
+- [Disclosure Schedules](../disclosure-schedules-distressed-ma/FACHINHALT.md)
+- [Due Diligence — Commercial Contracts](../due-diligence-commercial/FACHINHALT.md)
+- [Due Diligence — Commercial Contracts](../due-diligence-commercial-und-legal/FACHINHALT.md)
+- [Due Diligence Reporting](../due-diligence-expert-calls/FACHINHALT.md)
+- [Legal Due Diligence](../due-diligence-legal/FACHINHALT.md)
+- [Due Diligence Reporting](../due-diligence-reporting/FACHINHALT.md)
+- [Fair Disclosure und Knowledge Management](../fair-disclosure-kg-personengesellschaften/FACHINHALT.md)
+- [Fair Disclosure und Knowledge Management](../fair-disclosure-knowledge/FACHINHALT.md)
+- [KG und Personengesellschaften — Corporate/M&A](../kg-personengesellschaften/FACHINHALT.md)
+- [Tabellenreview 3D-Datenraum](../tabellenreview-3d-datenraum/FACHINHALT.md)
+- [Tabellenreview 3D-Datenraum](../tabellenreview-3d-teaser-processdocs/FACHINHALT.md)
+
+## 4. Quellenpflicht
+
+Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
+
+## 5. Ausgabeformat
+
+- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Due Diligence und Risikoprüfung“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
+- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+
+Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
+
+## 6. Beispiele
+
+- Ein Auftrag zu „Multijurisdiktionale Uebersetzungen und Dokumente“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- Ein Auftrag zu „Datenraum-Aufbau“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.

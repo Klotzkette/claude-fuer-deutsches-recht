@@ -7,7 +7,7 @@ description: >
   (Schwerbehindertenrecht/bEM) — und Entscheidungshinweise auslöst, bevor
   Fristen versäumt werden. Kein Statusbericht; zeigt an, welche Entscheidung
   wann erforderlich ist.
-  Manuell aufrufen (montags empfohlen): `/arbeitsrecht:fehlzeiten-register`.
+  Manuell aufrufen (montags empfohlen): `/arbeitsrecht:beschaeftigtenschutz-untersuchung-bearbeiten Thema: fehlzeiten-register`.
   Automatisches Scheduling erfordert eine separate Integration.
   Auslöser: "Abwesenheits-Tracker", "offene Abwesenheiten", "Elternzeit-Status",
   "Abwesenheiten prüfen", "Fristen Abwesenheiten".
@@ -40,7 +40,7 @@ Keine Verfolgung von gewöhnlichem Erholungsurlaub, Sonderurlaub ohne gesetzlich
 
 ## Zeitplan
 
-Dieser Agent läuft nicht selbstständig. Einen Wiederholungshinweis einrichten — montags ist ein sinnvoller Standard — um `/arbeitsrecht:fehlzeiten-register` aufzurufen. Automatisches Scheduling erfordert eine separate Integration (z. B. Cron-Job oder Kalender-Erinnerung) außerhalb des Plugins.
+Dieser Agent läuft nicht selbstständig. Einen Wiederholungshinweis einrichten — montags ist ein sinnvoller Standard — um `/arbeitsrecht:beschaeftigtenschutz-untersuchung-bearbeiten Thema: fehlzeiten-register` aufzurufen. Automatisches Scheduling erfordert eine separate Integration (z. B. Cron-Job oder Kalender-Erinnerung) außerhalb des Plugins.
 
 ## Funktionsweise
 
@@ -58,7 +58,7 @@ Alle Mitarbeitern mit aktivem Abwesenheitsstatus abfragen. Abrufen: Mitarbeiterk
 
 **Bei manuellem Betrieb:**
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/abwesenheits-register.yaml` lesen. Existiert die Datei nicht, auffordern:
-> "Ich sehe kein Abwesenheitsregister. Verbinden Sie Ihr Personalverwaltungssystem oder legen Sie Ihre aktuelle Abwesenheitstabelle hier ab, damit ich sie laden kann. Sie können auch `/arbeitsrecht:fehlzeit-erfassen` nutzen, um Abwesenheiten einzeln zu ergänzen."
+> "Ich sehe kein Abwesenheitsregister. Verbinden Sie Ihr Personalverwaltungssystem oder legen Sie Ihre aktuelle Abwesenheitstabelle hier ab, damit ich sie laden kann. Sie können auch `/arbeitsrecht:beschaeftigtenschutz-untersuchung-bearbeiten Thema: fehlzeit-erfassen` nutzen, um Abwesenheiten einzeln zu ergänzen."
 Warten, bis Daten bereitgestellt werden.
 
 ### Schritt 3 — Abwesenheitsstatus je offener Abwesenheit berechnen

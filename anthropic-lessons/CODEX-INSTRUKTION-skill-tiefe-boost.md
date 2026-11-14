@@ -185,7 +185,7 @@ Optional, wenn rechtsgebietsbedingt sinnvoll:
 **`## Hand-Off zu anderen Skills`** (200-500 Zeichen)
 - Konkrete Plugin-Slash-Befehle als Folgeskills:
   > Nach diesem Skill weiter mit:
-  > - `/fachanwalt-strafrecht:strafr-haftpruefung-haftbeschwerde-workflow`
+  > - `/fachanwalt-strafrecht:ermittlung-haft-zwangsmassnahmen-bearbeiten Thema: strafr-haftpruefung-haftbeschwerde-workflow`
   >   wenn der Mandant in U-Haft sitzt.
   > - `/aktenaufbereiter-strafrecht:akt-zeitstrahl-bauleiter`
   >   wenn ein Zeitstrahl benoetigt wird.
@@ -720,9 +720,9 @@ Quellen-Tags fuer den Output:
 ## Hand-Off zu anderen Skills
 
 Nach diesem Skill weiter mit:
-- `/fachanwalt-strafrecht:strafr-revision-pruefung-spezial` wenn nach
+- `/fachanwalt-strafrecht:urteil-rechtsmittel-revision-bearbeiten Thema: strafr-revision-pruefung-spezial` wenn nach
   Hauptverhandlung Revision relevant wird.
-- `/fachanwalt-verkehrsrecht:verk-fahrerlaubnisrecht-leitfaden` wenn das
+- `/fachanwalt-verkehrsrecht:haftung-und-anspruch-bearbeiten Thema: verk-fahrerlaubnisrecht-leitfaden` wenn das
   Fahrverbot zentral ist und parallel die Fahrerlaubnisbehoerde aktiv wird.
 - `/aktenaufbereiter-strafrecht:akzg-aktenauszug-bauleiter` zur
   Vorbereitung der Akteneinsichts-Auswertung.

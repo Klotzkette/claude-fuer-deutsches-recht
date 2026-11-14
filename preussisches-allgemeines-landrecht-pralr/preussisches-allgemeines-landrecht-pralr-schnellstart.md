@@ -44,7 +44,7 @@ Setze im bestehenden Nutzerpfad fort; ohne Vorgabe bezeichne den Synopsentext al
 
 Nur neue oder entscheidend verwendete historische Primärstellen gezielt verifizieren. Keine pauschale Recherche zu geltendem Recht und kein festes Gegenwartsjahr erzwingen. Eine tatsächliche heutige Anschlussfrage benötigt dagegen eine eigene aktuelle Quellenprüfung.
 
-Ausgabe, Teil, Titel, Paragraf und Seite nennen; Originalzitat, Transkription und eigene Übertragung trennen. Die [Zitierweise](../references/zitierweise.md) ist eine optionale Ergänzung. Die erhaltenen Altmaterialien sind nicht vollständig verifiziert. Für die vertiefte Durchführung dient optional die [Werkstatt](preussisches-allgemeines-landrecht-pralr-werkstatt.md).
+Ausgabe, Teil, Titel, Paragraf und Seite nennen; Originalzitat, Transkription und eigene Übertragung trennen. Die [Zitierweise](references/repository/references/zitierweise.md) ist eine optionale Ergänzung. Die erhaltenen Altmaterialien sind nicht vollständig verifiziert. Für die vertiefte Durchführung dient optional die [Werkstatt](preussisches-allgemeines-landrecht-pralr-werkstatt.md).
 
 Exportstandard: Times New Roman 11 pt, dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt.
 

@@ -265,12 +265,12 @@
       "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
       "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
       "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
-      "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
-      "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+      "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/FACHINHALT.md",
+      "fachanwalt-vergaberecht/skills/inhouse-interkommunal/FACHINHALT.md",
       "fachanwalt-vergaberecht/skills/juristischer-argumentationskern/SKILL.md",
-      "fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md",
+      "fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/FACHINHALT.md",
       "quality/evals/fachanwalt-vergaberecht.json",
-      "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/SKILL.md"
+      "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/FACHINHALT.md"
     ],
     "opening_change": "Beanstandete Ausschreibungsanforderung und dokumentierte Zuschlagswertung konkret benannt; Hauptproblem auf Rechen-/Tatsachenfehler gegenüber vertretbarer Bewertung ausgerichtet. Workflow-Ergänzung: Leer: Unterlagenrüge, Wertungsprüfung oder Auftraggeberkorrektur anbieten. Dateien ohne Aufgabe: Kriterienfassungen, Angebot und Wertung still lesen; Rüge-, Nachrechnungs- oder Korrekturziel klären. Klarer Auftrag: bestelltes Dokument unmittelbar bearbeiten; kein automatisches Nachprüfungsverfahren und keine erfundenen Konkurrenzdaten.",
     "norms": [
@@ -326,8 +326,8 @@
         "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
         "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
         "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
-        "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
-        "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md"
+        "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/FACHINHALT.md",
+        "fachanwalt-vergaberecht/skills/inhouse-interkommunal/FACHINHALT.md"
       ],
       "result": "Notenmodell und dokumentierte Angebotswertung werden unterschieden. C-316/25 nur mit gelesenem amtlichem Tenor belegt; zwei vom Datumsscan gemeldete Konflikte sind Prüftag 30.09. versus Entscheidungsdatum 03.02.2026, keine falschen Entscheidungsdaten.",
       "search_2026": "2026-Suche lieferte überwiegend Ergebnislisten; bestehender C-316/25 bleibt auf amtlichen Tenor aus der Vorprüfung beschränkt.",

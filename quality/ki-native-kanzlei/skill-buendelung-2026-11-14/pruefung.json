@@ -1,0 +1,64 @@
+{
+  "version": "445.36.0",
+  "date": "2026-11-14",
+  "scope": "Struktur-, Runtime-, Paket- und PDF-Prüfung; keine neue Rechtsquellen-Volltextprüfung, kein tatsächlicher Modelllauf und keine Veröffentlichung.",
+  "active_skills": 8,
+  "original_modules": 30,
+  "module_pages": 322,
+  "navigation_pages": 1,
+  "handbook_pages": 323,
+  "font": "Times New Roman",
+  "font_location": "/System/Library/Fonts/Supplemental; regulär/fett/kursiv/fettkursiv",
+  "assets": [
+    {
+      "path": "docs/handbuecher/ki-native-kanzlei-v445.36.0/ki-native-kanzlei-skills-handbuch.pdf",
+      "sha256": "43352b9c7b7a8a2492634d3f97bce8e48e17dfde9c9798d4ea7386c279240bf5",
+      "size": 3954499
+    },
+    {
+      "path": "docs/handbuecher/ki-native-kanzlei-v445.36.0/ki-native-kanzlei-skills-einzelpdfs.zip",
+      "sha256": "979d32f334f5faa655e88e0ec35d8e6987e62ee9a168133bda4aa486ec53431a",
+      "size": 3220720
+    }
+  ],
+  "tests": [
+    {
+      "command": "python3 scripts/test-ki-native-kanzlei-lauf.py",
+      "tests": 30,
+      "result": "passed",
+      "log": "logs/test-ki-native-kanzlei-lauf.py.log"
+    },
+    {
+      "command": "python3 scripts/test-ki-kanzlei-produktionslauf.py",
+      "tests": 8,
+      "result": "passed",
+      "log": "logs/test-ki-kanzlei-produktionslauf.py.log"
+    },
+    {
+      "command": "python3 scripts/test-ki-native-kanzlei-start.py",
+      "tests": 5,
+      "result": "passed",
+      "log": "logs/test-ki-native-kanzlei-start.py.log"
+    },
+    {
+      "command": "python3 scripts/test-ki-kanzlei-release-contract.py",
+      "tests": 6,
+      "result": "passed",
+      "log": "logs/test-ki-kanzlei-release-contract.py.log"
+    },
+    {
+      "command": "python3 scripts/test-arbeitszeugnispruefer.py",
+      "tests": 13,
+      "result": "passed",
+      "log": "logs/test-arbeitszeugnispruefer.py.log"
+    }
+  ],
+  "total_unit_tests": 62,
+  "source_check": "test-ki-native-kanzlei-source.py bestanden; drei Promptpaare, 30 vollständige Fachmodule, aktive Owner und aktuelle Quellhashes geprüft.",
+  "package_check": "test-ki-native-kanzlei-pakete.py bestanden; installiertes/portables Paket quellidentisch, 30 Modul-PDFs mit tatsächlichen Seitenzahlen und SHA-256, bytegleiches Umfangsmanifest, Release-Prüfsummen.",
+  "verified_original_case_documents": 240,
+  "original_case_baseline": "si-native-kanzlei-v445.33.3",
+  "rendered_text_coverage": "Alle erzeugten Fachtextabsätze und Tabellenzellen in Reihenfolge mit PDF-Extraktion abgeglichen.",
+  "visual_review": "Finale Übersichtsseite und erste Fachtextseite des vorherigen quellenidentischen Satzes angesehen; alle 30 Fachmodul-PDFs zwischen beiden Sätzen byteidentisch. Keine sichtbaren Überläufe in diesen beiden Stichproben. Keine Sichtprüfung aller 323 Seiten behauptet.",
+  "original_reports": "previous/"
+}

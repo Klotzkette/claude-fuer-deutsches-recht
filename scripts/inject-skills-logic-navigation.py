@@ -292,6 +292,27 @@ PLUGIN_GROUPS = {
 }
 
 
+def register_consolidated_navigation() -> None:
+    """Explizite fachliche Arbeitswege ersetzen ausschließlich alte Auswahlmenüs."""
+    registry = REPO / 'scripts/data/skill-cap-registry.json'
+    if not registry.is_file():
+        return
+    for plugin in json.loads(registry.read_text(encoding='utf-8'))['plugins']:
+        directory = REPO / plugin['source']
+        if not all((directory / 'skills' / route['slug'] / 'SKILL.md').is_file()
+                   for route in plugin['routes']):
+            continue  # Vor der ausdrücklich ausgeführten Migration gilt der Altbestand.
+        groups = []
+        if plugin['keep']:
+            groups.append(('1. Auftrag und bewährte Fachwerkzeuge', plugin['keep']))
+        for route in plugin['routes']:
+            groups.append((f'{len(groups) + 1}. {route["title"]}', [route['slug']]))
+        PLUGIN_GROUPS[plugin['source'].removeprefix('./')] = groups
+
+
+register_consolidated_navigation()
+
+
 def natural_key(text: str) -> list[object]:
     return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", text.lower())]
 

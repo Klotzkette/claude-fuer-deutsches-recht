@@ -128,7 +128,7 @@
           ]
         }
       ],
-      "target_skill": "schranken-zitat-unterricht"
+      "target_skill": "schranken-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -139,7 +139,7 @@
       "urheberrecht-de-eu/README.md",
       "quality/evals/urheberrecht-de-eu.json",
       "urheberrecht-de-eu/references/miturheber-rechtsschutz.md",
-      "urheberrecht-de-eu/skills/miturheber-band-splits/SKILL.md"
+      "urheberrecht-de-eu/skills/miturheber-band-splits/FACHINHALT.md"
     ],
     "opening_change": "Original, konkrete Nutzung und eingeräumte Rechte vergleichen; Rezension und dekorative Werbeübernahme unterscheiden.",
     "norms": [

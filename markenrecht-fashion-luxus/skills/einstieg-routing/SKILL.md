@@ -11,21 +11,21 @@ Dieser Einstieg routet **Markenrecht Fashion Luxus** vom ersten Sachverhalt zu R
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-markenrecht-euipo-beschwerdekammer` — Abmahnung Markenrecht Euipo Beschwerdekammer
-- `absolute-schutzhindernisse-8-markeng-art7-umv` — Absolute Schutzhindernisse 8 Markeng Art7 UMV
-- `agb-haendlervertrag-luxus` — AGB Haendlervertrag Luxus
-- `alicante-schriftsatz-brief-und-memo-bausteine` — Alicante Schriftsatz Brief und Memo Bausteine
-- `anmeldung-strategie-portfolio` — Anmeldung Strategie Portfolio
-- `anti-ki-beweissicherung-testkauf-bildmarke` — Anti KI Beweissicherung Testkauf Bildmarke
-- `benutzungsschonfrist-und-rechtserhaltende-benutzung` — Benutzungsschonfrist und Rechtserhaltende Benutzung
-- `beweissicherung-testkauf-screenshot-chain` — Beweissicherung Testkauf Screenshot Chain
-- `bildmarke-und-wort-bild` — Bildmarke und Wort Bild
-- `boesglaeubige-anmeldung-und-sperrmarke` — Boesglaeubige Anmeldung und Sperrmarke
-- `boutique-tatbestand-beweis-und-belege` — Boutique Tatbestand Beweis und Belege
-- `discounter-graumarkt-dpma-bpatg-widerspruch` — Discounter Graumarkt Dpma Bpatg Widerspruch
-- `dpma-bpatg-bgh-rechtsmittelroute` — Dpma Bpatg BGH Rechtsmittelroute
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `zeichen-und-schutzweg-bearbeiten` (Fachthema: abmahnung-markenrecht-euipo-beschwerdekammer) — Abmahnung Markenrecht Euipo Beschwerdekammer
+- `zeichen-und-schutzweg-bearbeiten` (Fachthema: absolute-schutzhindernisse-8-markeng-art7-umv) — Absolute Schutzhindernisse 8 Markeng Art7 UMV
+- `zeichen-und-schutzweg-bearbeiten` (Fachthema: agb-haendlervertrag-luxus) — AGB Haendlervertrag Luxus
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: alicante-schriftsatz-brief-und-memo-bausteine) — Alicante Schriftsatz Brief und Memo Bausteine
+- `verfahren-und-produkt-bearbeiten` (Fachthema: anmeldung-strategie-portfolio) — Anmeldung Strategie Portfolio
+- `zeichen-und-schutzweg-bearbeiten` (Fachthema: anti-ki-beweissicherung-testkauf-bildmarke) — Anti KI Beweissicherung Testkauf Bildmarke
+- `benutzung-bearbeiten` (Fachthema: benutzungsschonfrist-und-rechtserhaltende-benutzung) — Benutzungsschonfrist und Rechtserhaltende Benutzung
+- `zeichen-und-schutzweg-bearbeiten` (Fachthema: beweissicherung-testkauf-screenshot-chain) — Beweissicherung Testkauf Screenshot Chain
+- `zeichen-und-schutzweg-bearbeiten` (Fachthema: bildmarke-und-wort-bild) — Bildmarke und Wort Bild
+- `verfahren-und-produkt-bearbeiten` (Fachthema: boesglaeubige-anmeldung-und-sperrmarke) — Boesglaeubige Anmeldung und Sperrmarke
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: boutique-tatbestand-beweis-und-belege) — Boutique Tatbestand Beweis und Belege
+- `verfahren-und-produkt-bearbeiten` (Fachthema: discounter-graumarkt-dpma-bpatg-widerspruch) — Discounter Graumarkt Dpma Bpatg Widerspruch
+- `zeichen-und-schutzweg-bearbeiten` (Fachthema: dpma-bpatg-bgh-rechtsmittelroute) — Dpma Bpatg BGH Rechtsmittelroute
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

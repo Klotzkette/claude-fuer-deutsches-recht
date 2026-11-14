@@ -1,0 +1,492 @@
+---
+name: vollzugs-checkliste
+description: "Für Vollzugscheckliste M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+---
+
+# Vollzugscheckliste M&A
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vollzugscheckliste M&A` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Vollzugscheckliste M&A
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Kernsachverhalt
+
+In deutschen M&A-Transaktionen fallen Signing (Vertragsunterzeichnung) und Closing (Vollzug) regelmäßig auseinander. Die Zeitspanne zwischen beiden Ereignissen ist durch Vollzugsbedingungen (Conditions Precedent, "CPs") gefüllt, deren Erfüllung den Vollzug erst ermöglicht. Das Management dieser Bedingungen ist eine der zentralen anwaltlichen Aufgaben in der Closing-Phase.
+
+Vollzugsbedingungen entstehen aus dem SPA (Share Purchase Agreement), aus regulatorischen Erfordernissen (Kartellrecht, Außenwirtschaft), aus gesellschaftsrechtlichen Zustimmungspflichten (Paragraf 179a AktG, Paragraf 293 AktG) und aus den im Due-Diligence-Prozess identifizierten Risiken (Change-of-Control-Klauseln, Fremdfinanzierungsfreigaben, Gesellschafterbeschlüsse).
+
+Dieser Skill pflegt die Vollzugscheckliste als YAML-Tracker, nimmt Findings aus vorgelagerten Due-Diligence-Skills auf und zeigt dem Deal-Team, was den Vollzug blockiert.
+
+## Kaltstart-Rückfragen
+
+Vor der Initialisierung sind folgende Angaben erforderlich:
+
+1. **Deal-Code und Zieldatum:** Wie lautet der interne Deal-Name? Welches Vollzugsdatum ist geplant?
+2. **Signing-Datum:** Wann wurde das SPA unterzeichnet?
+3. **SPA-Dokumentation:** SPA hochladen oder Vollzugsbedingungen und Vollzugslieferungen als Liste mitteilen.
+4. **Fusionskontrolle:** Liegt eine Anmeldepflicht beim BKartA (Paragraf 35 GWB) oder bei der EU-Kommission (Art. 4 FKVO) vor? Status des Verfahrens?
+5. **FDI-Prüfung:** Ist der Erwerber Nicht-EU/EWR? Betrifft die Transaktion einen sensiblen Sektor (Paragraf 55 AWV: Energie, kritische Infrastruktur, Medien, Rüstung)?
+6. **Change-of-Control-Klauseln:** Welche wesentlichen Verträge der Zielgesellschaft enthalten CoC-Klauseln, die Zustimmungen Dritter erfordern?
+7. **Gesellschafterbeschlüsse:** Paragraf 179a AktG-Beschluss erforderlich? Sonstige Gesellschafter-/Aufsichtsrats-Zustimmungen?
+8. **MAC-Klausel:** Enthält das SPA eine MAC-Definition (Material Adverse Change / wesentliche nachteilige Veränderung)? Auslösetatbestände?
+9. **Verantwortliche:** Wer ist Deal-Koordinator auf Käufer- und Verkäuferseite? Welche Kanzleien sind beteiligt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtlicher Rahmen
+
+### Normtexte mit Auszügen
+
+**Paragraf 35 ff. GWB — Fusionskontrolle (Bundeskartellamt)**
+> Paragraf 35 Abs. 1 GWB: Zusammenschlüsse im Sinne des Paragraf 37 sind nach den Vorschriften dieses Abschnitts anzumelden, wenn (1.) die beteiligten Unternehmen zusammen im letzten Geschäftsjahr weltweit Umsatzerlöse von mehr als 500 Millionen Euro erzielt haben und (2.) im Inland im letzten Geschäftsjahr mindestens ein beteiligtes Unternehmen Umsatzerlöse von mehr als 25 Millionen Euro und ein anderes beteiligtes Unternehmen Umsatzerlöse von mehr als 5 Millionen Euro erzielt hat.
+
+Vollzugsverbot bis Freigabe: Paragraf 41 Abs. 1 GWB — Angemeldete Zusammenschlüsse dürfen nicht vollzogen werden, bevor die Freigabe erteilt worden ist. Wartefrist: Paragraf 40 Abs. 1 GWB: 1 Monat; verlängerbar auf 4 Monate (Hauptprüfverfahren). `[Modellwissen — aktuelle Schwellen beim BKartA verifizieren]`
+
+**Art. 4, 7 EU-FKVO — EU-Fusionskontrolle**
+> Zusammenschlüsse von gemeinschaftsweiter Bedeutung sind bei der Europäischen Kommission anzumelden. Vollzugsverbot: Art. 7 FKVO bis zur Vereinbarkeitserklärung. Schwellen: kombinierter weltweiter Umsatz > 5 Mrd. EUR UND EU-Umsatz jeder von mind. 2 beteiligten Unternehmen > 250 Mio. EUR. `[Modellwissen — aktuelle FKVO-Schwellen bei der Kommission verifizieren]`
+
+**Paragraf 55 AWV, Paragraf 5 AWG — Außenwirtschaftliche Investitionsprüfung (FDI)**
+> Paragraf 55 AWV: Bei Erwerb von Beteiligungen an deutschen Unternehmen durch Erwerber aus Drittstaaten (Nicht-EU/EWR) ab Überschreiten bestimmter Stimmrechtsschwellen (je nach Sektor 10–25 %) ist eine Prüfung durch das BMWK möglich. Prüffrist: 4 Monate nach Vollständigkeitserklärung des Antrags. In bestimmten Sektoren (kritische Infrastruktur, Energie, Telekommunikation, Gesundheit, Medien, Rüstung): strenge Prüfung nach Paragraf 60 ff. AWV. `[Modellwissen — aktuelle AWV-Sektoren und Schwellen beim BMWK verifizieren]`
+
+**Paragraf 179a AktG — Übertragung des gesamten Gesellschaftsvermögens**
+> "Ein Rechtsgeschäft, durch das die Gesellschaft das zur Zeit des Abschlusses des Rechtsgeschäfts vorhandene Gesellschaftsvermögen insgesamt überträgt, bedarf eines Beschlusses der Hauptversammlung nach den Vorschriften über die Satzungsänderung."
+
+Qualifizierte Mehrheit (Paragraf 179 Abs. 2 AktG): 3/4 des vertretenen Grundkapitals. Notariell beurkundete Niederschrift (Paragraf 130 Abs. 1 AktG).
+
+**Paragraf 15 Abs. 3, 4 GmbHG — Abtretungsform**
+> Paragraf 15 Abs. 3 GmbHG: "Die Abtretung von Geschäftsanteilen und die Begründung von Rechten an Geschäftsanteilen bedürfen der Form des Paragraf 15 Abs. 3 GmbHG, also eines in notarieller Form geschlossenen Vertrages."
+> Paragraf 15 Abs. 4 GmbHG: Eine ohne diese Form getroffene Vereinbarung wird mit dem Abschluss des formgerechten Vertrages gültig.
+
+**Paragraf 313 BGB — Störung der Geschäftsgrundlage (MAC)**
+> "Hat sich die Geschäftsgrundlage eines Vertrages nach Vertragsschluss schwerwiegend verändert und hätten die Parteien den Vertrag nicht oder mit anderem Inhalt geschlossen, wenn sie diese Veränderung vorausgesehen hätten, so kann Anpassung des Vertrages verlangt werden."
+
+In deutschen SPA-Formulierungen wird MAC häufig als "wesentliche nachteilige Veränderung" oder über spezifische Auslösetatbestände definiert. Paragraf 313 BGB greift nur subsidiär; Vorrang des Vertrags.
+
+**Paragraf 293 AktG — Unternehmensvertrag (Beherrschungs-/Gewinnabführungsvertrag)**
+> HV-Beschluss des Tochterunternehmens mit 3/4-Mehrheit; Zustimmung der Hauptversammlung des Mutterunternehmens nach Paragraf 293 Abs. 2 AktG.
+
+**Paragraf 15a InsO — Insolvenzantragspflicht**
+> Nach [§ 15a Abs. 1 InsO](https://www.gesetze-im-internet.de/inso/__15a.html) Antrag ohne schuldhaftes Zögern stellen, spätestens drei Wochen nach Zahlungsunfähigkeit beziehungsweise sechs Wochen nach Überschuldung. Die Höchstfristen erlauben kein grundloses Abwarten. Ein geplanter Transaktionsvollzug setzt die Antragspflicht nicht aus; Zulässigkeit einzelner Vollzugshandlungen und Zahlungen insbesondere nach § 15b InsO gesondert prüfen, kein pauschales Verbot jedes Vollzugs behaupten.
+
+### Leitentscheidungen
+
+| Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
+|---|---|---|---|
+
+## Prüfschema: Vollzugscheckliste
+
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
+
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | SPA-Lektüre | SPA oder SPA-Entwurf lesen; Vollzugsbedingungen-Abschnitt vollständig extrahiert? | Vollständige Liste aller CPs und Vollzugslieferungen |
+| 2 | Fusionskontrolle prüfen | GWB-Schwellen (Paragraf 35 GWB) und FKVO-Schwellen erreicht? Anmeldepflicht? Status? | Anmeldung als blockierende Bedingung; Wartefrist in Zeitplan eintragen |
+| 3 | FDI-Prüfung | Erwerber Nicht-EU/EWR? Sektor sensibel (Paragraf 55 AWV)? Freiwillige Meldung sinnvoll? | BMWK-Prüfung als blockierende Bedingung; 4-Monats-Prüffrist einplanen |
+| 4 | Change-of-Control | Wesentliche Verträge der Zielgesellschaft mit CoC-Klauseln: Identifiziert und Zustimmungen beantragt? | Ankündigungsfristen und Bedingungen der Gegenparteien dokumentieren |
+| 5 | Paragraf 179a AktG | Wird gesamtes Gesellschaftsvermögen übertragen? HV-Beschluss eingeplant? | HV-Einberufungsfrist (Paragraf 121 Abs. 3 AktG: 30 Tage); notarielle Beurkundung |
+| 6 | Gesellschafterliste Paragraf 40 GmbHG | Aktuelle Gesellschafterliste beim HR? Nachweis über Inhaberschaft der verkauften Anteile? | Abtretungsnachweis als Vollzugslieferung |
+| 7 | Notarielle Form Paragraf 15 GmbHG | Abtretungsvertrag in notarieller Form? Notartermin reserviert? | Closing-Notartermin frühzeitig buchen |
+| 8 | Fremdfinanzierungsfreigabe | Bestehende Kreditverträge der Zielgesellschaft mit CoC- oder Kontrollwechsel-Klauseln? Banken informiert? | Kündigung durch Darlehensgeber vermeiden; Zustimmung einholen oder refinanzieren |
+| 9 | Gesellschafterbeschlüsse | Paragraf 293 AktG; Paragraf 179a AktG; GV-Beschlüsse für Vermögensübertragung? Einladungsfristen beachtet? | Beschlüsse als Vollzugslieferung dokumentieren |
+| 10 | Sicherheiten und Freigaben | Bestehende Grundschulden, Pfandrechte, Abtretungen auf Vermögen der Zielgesellschaft? Freigabe-Vereinbarungen? | Treuhand-Freigabemechanismus im SPA prüfen |
+| 11 | MAC-Prüfung | Ist seit Signing eine wesentliche nachteilige Veränderung eingetreten? SPA-MAC-Definition ausgelöst? | Rechtsfolgen analysieren; ggf. Verhandlung mit Gegenpartei über Anpassung |
+| 12 | Insolvenzreife Zielgesellschaft | Paragraf 15a InsO: Zielgesellschaft zahlungsfähig und nicht überschuldet bis zum Vollzug? | Distressed M&A: aktualisierte Liquiditätsanalyse vor Vollzug |
+| 13 | Vollzugslieferungen | Alle VL-Dokumente erstellt (Abtretungsvertrag, HR-Gesellschafterliste, Organbeschlüsse, Freigaben)? | Vollständigkeit der Schließungsmappe prüfen |
+| 14 | Kritischer Pfad | Welcher CP hat die längste Restbearbeitungszeit? Gefährdete Punkte identifiziert? | Kritischen Pfad dokumentieren; Frühwarnung an Deal-Team |
+| 15 | Vollzugsfreigabe | Alle CPs erfüllt oder weggefallen? Vollzugsbestätigung ausgestellt? | Folgenreiche-Handlung-Sperre beachten |
+
+## Beweislast
+
+| Frage | Beweislast | Erläuterung |
+|---|---|---|
+| Vollzugsbedingung erfüllt | Derjenige, der den Vollzug einfordert (regelmäßig Käufer) | Nachweis durch schriftliche Freigabebescheide, Beschlussniederschriften, Zustimmungsschreiben |
+| Vollzugsverbot verletzt (Paragraf 41 GWB) | Bundeskartellamt (Bußgeldverfahren) | Objektiver Vollzug vor Freigabe; Vorsatz oder Fahrlässigkeit für Bußgeldhöhe relevant |
+| MAC eingetreten | Partei, die sich auf MAC beruft (Käufer bei Rücktritt) | Nachweis der wesentlichen nachteiligen Veränderung anhand SPA-Definition; strenge Auslegung nach deutschem Recht |
+| Formerfordernis Paragraf 15 GmbHG gewahrt | Keine Beweislastfrage — Form ist objektiv vorhanden oder nicht | Notarielle Beurkundung als Nachweis; fehlende Form führt zur Heilung nach Paragraf 15 Abs. 4 GmbHG (nach formgerechtem Vertrag) |
+| FDI-Genehmigung nicht erforderlich | Erwerber (bei behördlicher Kontrolle) | Schwellenwerte, Sektorzugehörigkeit und Nationalität des Erwerbers dokumentieren |
+
+## Fristen und Verjährung
+
+| Frist | Norm | Inhalt | Folge bei Versäumnis |
+|---|---|---|---|
+| Anmeldefrist BKartA (nach Vollzugsverbot) | Paragraf 41 Abs. 2 GWB | Unverzüglich nach Signing; Vollzugsverbot gilt sofort | Bußgeld bis 10 % des Weltumsatzes (Paragraf 81 GWB); Unwirksamkeit des Vollzugs |
+| Wartefrist BKartA (Phase I) | Paragraf 40 Abs. 1 GWB | 1 Monat ab vollständiger Anmeldung | Automatische Freigabe nach Ablauf ohne Einwände |
+| Wartefrist BKartA (Phase II) | Paragraf 40 Abs. 2 GWB | Weitere 4 Monate; Hauptprüfverfahren | Untersagung möglich; Auflagen |
+| FDI-Prüffrist BMWK | Paragraf 14a AWV | 4 Monate nach Vollständigkeit der Meldung | Prüfung gilt als abgeschlossen; keine Untersagung |
+| HV-Einberufungsfrist Paragraf 179a AktG | Paragraf 121 Abs. 3 AktG | Mind. 30 Tage vor HV | HV-Beschluss unwirksam; Vollzugsbedingung nicht erfüllbar |
+| CoC-Zustimmungsfrist | Vertraglich (meist 30–60 Tage) | Ankündigungsfrist aus jeweiligem Vertrag | Vertragspartner kann Zustimmung nach Fristablauf verweigern |
+| Vollzug nach MAC-Auslösung | Vertraglich + Paragraf 313 BGB | Auslegung der MAC-Klausel; Paragraf 313 BGB analog | Rücktrittsrecht (Paragraf 323 BGB) oder Anpassungsanspruch |
+| Schadensersatz wegen Vollzugsverweigerung | Paragraf 195, 199 BGB | 3 Jahre ab Kenntnis des Anspruchs | Schadensersatzanspruch verjährt |
+
+## Typische Gegenargumente
+
+| Einwand | Begründung Gegenseite | Erwiderung |
+|---|---|---|
+| Fusionskontrolle nicht anmeldepflichtig | Umsatzschwellen nicht erreicht | Schwellen prüfen; ggf. österreichische/sonstige nationale FuK-Pflichten bei grenzüberschreitenden Transaktionen; Freiwillige Vorprüfung beim BKartA möglich |
+| CoC-Klausel greift nicht, da kein Kontrollwechsel | Minderheitsbeteiligung; kein Beherrschungstatbestand | CoC-Klauseln in Verträgen können weiter gefasst sein als gesellschaftsrechtliche Kontrolltatbestände; exakte Formulierung prüfen |
+| Paragraf 179a AktG nicht anwendbar (GmbH) | Paragraf 179a AktG gilt nur für AG | GmbH: kein Paragraf 179a AktG; aber Paragraf 53 GmbHG (Satzungsänderung), wenn Unternehmenszweck übertragen wird; GV-Beschluss ggf. aus Gesellschaftsvertrag erforderlich |
+| MAC nicht eingetreten, Verschlechterung liegt im normalen Geschäftsrisiko | Marktweite Verschlechterung ist kein MAC | Deutsches Recht: enge Auslegung; marktweite Risiken kein MAC; unternehmensspezifische Verschlechterungen prüfen (OLG Frankfurt, NZG 2018, 712) |
+| FDI-Prüfung entbehrlich, weil Erwerber EU-Gesellschaft | Europäischer Erwerber; kein Drittstaatsbezug | Prüfen, ob hinter der EU-Gesellschaft ein Drittstaats-Investor steht (wirtschaftlich Berechtigter Paragraf 3 GwG); BMWK schaut durch Konstruktionen hindurch |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vollzug einer gesellschaftsrechtlichen Transaktion prüfen | Vollzugscheckliste nach Schema; Template unten |
+| Variante A — Transaktion nur teilweise vollzogen Restpflichten | Restpflichtenprotokoll erstellen; Nachvollzug koordinieren |
+| Variante B — Closing bedingungen noch offen Conditions Precedent | CPs separat listen; Vollzug erst nach CPs-Erfuellung |
+| Variante C — Nachlaufende Pflichten Meldefrist Kartellrecht | Post-Closing-Checkliste als Ergaenzung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatzbausteine
+
+### Baustein 1: VB-Statusbericht für Deal-Team
+
+```markdown
+[ARBEITSERGEBNIS-HEADER]
+
+> Dieser Statusbericht leitet sich aus dem SPA, DD-Findings und internen Deal-Unterlagen ab.
+> Verteilung außerhalb des Vertraulichkeitskreises kann den Schutz aufheben.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+## Vollzugschecklisten-Status — [Deal-Code] — [Datum]
+
+**Zieldatum Vollzug:** [Datum] ([N] Tage)
+**Signing:** [Datum]
+**Punkte gesamt:** [N] — [N] erledigt, [N] in Bearbeitung, [N] nicht begonnen
+
+---
+
+### BLOCKIEREND UND GEFÄHRDET
+
+| ID | Punkt | Fällig | Status | Tage bis Fälligkeit |
+|---|---|---|---|---|
+| VB-001 | Kartellrechtliche Freigabe BKartA | 2026-06-15 | Phase I läuft; kein Einwand bislang | **18** |
+| VB-002 | Zustimmung Acme GmbH (CoC Paragraf 14 Rahmenvertrag) | 2026-06-20 | Antwort ausstehend | **23** |
+
+### BLOCKIEREND, IM ZEITPLAN
+
+| ID | Punkt | Fällig | Status | Tage bis Fälligkeit |
+|---|---|---|---|---|
+| VL-001 | Gesellschafterliste Paragraf 40 GmbHG | 2026-06-28 | Notar beauftragt | 31 |
+| VL-002 | Freigabe Gesellschafterdarlehen Paragraf 30 GmbHG | 2026-06-25 | In Bearbeitung | 28 |
+
+### ERLEDIGT
+
+2 Punkte:
+- VB-003 — FDI-Meldung BMWK: Freigabe erteilt am 2026-05-10
+- VL-003 — Bestätigungsschreiben Hausbank: erhalten 2026-05-15
+
+---
+
+**Kritischer Pfad:** VB-001 (BKartA Phase I endet 2026-06-10; Phase II würde Vollzugsdatum
+verschieben). VB-002 (Acme GmbH: Ankündigungsfrist aus Rahmenvertrag 30 Tage —
+Fristablauf 2026-06-20; Antwort noch ausstehend — ESKALATION erforderlich).
+```
+
+### Baustein 2: Anschreiben an Drittpartei für CoC-Zustimmung
+
+```
+An [Vertragspartner der Zielgesellschaft]
+[Anschrift]
+
+[Ort, Datum]
+
+Zustimmung zum Kontrollwechsel — [Rahmenvertrag / Mietvertrag / Lizenzvertrag] vom [Datum]
+Mandant: [Name der Zielgesellschaft]
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten die [Zielgesellschaft] in der oben bezeichneten Angelegenheit.
+
+Die [Zielgesellschaft] steht kurz vor dem Vollzug einer Unternehmenstransaktion, durch die
+[Erwerber] sämtliche Geschäftsanteile erwerben wird. Diese Transaktion unterfällt der
+Kontrollwechsel-Klausel in Paragraf [X] des [Vertragsbezeichnung] vom [Datum] zwischen der
+[Zielgesellschaft] und Ihrem Unternehmen.
+
+Wir bitten Sie daher, Ihre Zustimmung zu dem oben beschriebenen Kontrollwechsel zu
+erteilen und uns dies schriftlich bis spätestens [Datum] zu bestätigen.
+
+Wir weisen darauf hin, dass der Vollzug der Transaktion unter anderem von Ihrer
+Zustimmung abhängt und ein Verzug erhebliche wirtschaftliche Folgen haben kann.
+
+Für Rückfragen stehen wir gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+[Kanzlei / Name]
+Rechtsanwalt / Rechtsanwältin
+
+Anlage: Auszug Paragraf [X] [Vertragsbezeichnung] (Kontrollwechsel-Klausel)
+```
+
+### Baustein 3: Vollzugs-YAML-Tracker (vollständig)
+
+```yaml
+deal_code: "Projekt Falke"
+zieldatum_vollzug: "2026-06-30"
+signing_datum: "2026-03-01"
+zuletzt_aktualisiert: "2026-05-26"
+
+vollzugsbedingungen:
+ - id: VB-001
+ punkt: "Kartellrechtliche Freigabe Bundeskartellamt"
+ kategorie: "Behördliche Genehmigung"
+ verantwortlich: "Käufer-Anwalt (Kanzlei XY)"
+ faellig: "2026-06-15"
+ status: "Angemeldet 01.04.2026; Wartefrist Phase I läuft (Paragraf 40 Abs. 1 GWB: 1 Monat)"
+ blockierend: true
+ quelle: "SPA Paragraf 7.1(a)"
+ geschaetzte_restdauer_tage: 20
+
+ - id: VB-002
+ punkt: "Zustimmung Acme GmbH — Change-of-Control Paragraf 14 Rahmenvertrag"
+ kategorie: "Zustimmung Dritter"
+ verantwortlich: "Zielgesellschaft — Frau Schmitt"
+ faellig: "2026-06-20"
+ status: "Anfrage versandt 15.04.2026; keine Antwort — ESKALATION erforderlich"
+ blockierend: true
+ quelle: "DD-Finding VB-002; Anlage 4.3(a) Nr. 7; Rahmenvertrag Paragraf 14"
+ geschaetzte_restdauer_tage: 30
+
+vollzugslieferungen:
+ - id: VL-001
+ punkt: "Handelsregister-Gesellschafterliste (aktuell, Paragraf 40 GmbHG)"
+ kategorie: "Gesellschaftsrechtlich"
+ verantwortlich: "Ziel-Anwalt"
+ faellig: "2026-06-28"
+ status: "Notar beauftragt 20.05.2026; Termin 10.06.2026"
+ blockierend: true
+ quelle: "SPA Paragraf 2.3(b)(iv)"
+ geschaetzte_restdauer_tage: 15
+
+ - id: VL-002
+ punkt: "Freigabe Gesellschafterdarlehen / Sicherheiten (Paragraf 30 GmbHG)"
+ kategorie: "Kapital / Darlehen"
+ verantwortlich: "Ziel-Anwalt"
+ faellig: "2026-06-25"
+ status: "In Bearbeitung; Darlehensgeber zugestimmt 20.05.2026"
+ blockierend: true
+ quelle: "SPA Paragraf 5.3(c)"
+ geschaetzte_restdauer_tage: 10
+
+ - id: VL-003
+ punkt: "Bestätigungsschreiben Hausbank (CoC-Darlehensvertrag)"
+ kategorie: "Fremdfinanzierung"
+ verantwortlich: "Käufer-Anwalt"
+ faellig: "2026-05-15"
+ status: "ERLEDIGT — erhalten 2026-05-15"
+ blockierend: false
+ quelle: "SPA Paragraf 7.2(c)"
+ geschaetzte_restdauer_tage: 0
+```
+
+## Checklisten-Datei (technische Beschreibung)
+
+Pfad: `~/.claude/plugins/config/claude-fuer-deutsches-recht/gesellschaftsrecht/mandate/[deal-code]/vollzugs-checkliste.yaml`
+
+**Status-Werte:** `Nicht begonnen`, `In Bearbeitung`, `Angemeldet / Wartefrist läuft`, `ERLEDIGT`, `ESKALATION erforderlich`, `Gefährdet`
+
+## Modi
+
+### Modus 1: Initialisierung aus dem SPA
+
+SPA oder quasi-finalen SPA-Entwurf lesen. Extrahieren:
+- Jede Vollzugsbedingung (Paragraf 7.1 ff. SPA oder entsprechend bezeichneter Abschnitt)
+- Jede Vollzugslieferung
+- Jeden Pre-Closing-Covenant
+
+Für jeden Punkt: ID generieren (VB-xxx / VL-xxx), Kategorie, Verantwortlichen, Fälligkeitsdatum und Quelle (SPA-Abschnitt) setzen.
+
+Fusionskontrollschwellen prüfen; FDI-Sektoren prüfen; CoC-Klauseln aus DD-Ergebnissen aufnehmen.
+
+### Modus 2: Einspeisung aus DD-Findings
+
+Modus 2 wird ausgelöst, wenn ein vorgelagerter Skill ein Finding mit einer Vollzugshandlung produziert.
+
+Übergabeschema:
+
+```yaml
+übergabe:
+ punkt: "[Gegenpartei oder Handlung]"
+ kategorie: "[Zustimmung Dritter | Gesellschafter-/Organentscheidung | Behördliche Einreichung | Ablösung | Vollzugslieferung]"
+ quelle: "[Vertragsname / Norm / VDR-Pfad]"
+ blockierend: true
+ gegenpartei: "[z.B. Acme GmbH]"
+ ankuendigungsfrist: "[z.B. 30 Tage vor Vollzug]"
+ geschaetzte_dauer: "[z.B. 30 Tage]"
+ muss_erfolgen_vor: "[Vollzug | Signing | Ende Wartepflicht]"
+```
+
+### Modus 3: Status-Update
+
+```
+/gesellschaftsrecht:register-und-vollzug-bearbeiten Thema: vollzugs-checkliste
+VB-002: Acme GmbH hat geantwortet, Zustimmungsformular liegt vor, benötigt Gegenzeichnung
+```
+
+### Modus 4: Was blockiert?
+
+Statusbericht nach Baustein 1 generieren:
+- Kritischer Pfad identifizieren
+- Gefährdete CPs hervorheben (Restzeit < geschätzte Erledigungszeit)
+- Deal-Koordinator auf Eskalationsbedarf hinweisen
+
+## Kritische-Pfad-Analyse
+
+Für jeden blockierenden Punkt: Erledigungszeit schätzen. Wenn `(Fälligkeitsdatum - heute) < geschätzte_restdauer_tage`: Punkt ist gefährdet. Gefährdete Punkte stehen am Anfang jedes Statusberichts.
+
+Eskalationsstufen:
+- `bald_fällig (>14 Tage)`: Regelkommunikation ausreichend
+- `bald_fällig (<14 Tage)`: Tägliches Tracking; Eskalation an Deal-Koordinator
+- `überfällig`: Sofortige Eskalation; SPA-Rechtsfolgen prüfen (Rücktrittsrecht, Verlängerung Vollzugsfrist)
+
+## Folgenreiche-Handlung-Sperre (Vollzugsfreigabe)
+
+Vor Ausstellung einer Vollzugsfreigabe oder eines Vollzugsmemos: Falls Rolle **Nichtjurist**:
+
+> Die Bescheinigung, dass Vollzugsbedingungen erfüllt sind, hat rechtliche Folgen — sie ist das Signal, das den Geldfluss und die nachvertraglichen Verpflichtungen auslöst. Vor Ausstellung mit einem Rechtsanwalt besprechen.
+
+## Streitwert und Kosten
+
+| Streitgegenstand | Streitwertansatz | Rechtsgrundlage |
+|---|---|---|
+| Klage auf Vollzug (Erfüllungsklage) | Kaufpreis | Paragraf 3–9 ZPO |
+| Schadensersatz wegen Vollzugsverweigerung | Positives Interesse (entgangener Gewinn) | Paragraf 280, 281 BGB |
+| Bußgeld GWB (rechtswidriger Vollzug) | Bis 10 % des weltweiten Konzernumsatzes | Paragraf 81 GWB |
+| Bußgeld FDI (unerlaubter Vollzug) | Bis 5 Mio. EUR | Paragraf 21 AWG |
+| RA-Beratungshonorar Closing | Gegenstandswert = Kaufpreis; 1–2 % bei großen Transaktionen marktüblich | RVG / Zeithonorar nach Paragraf 3a RVG |
+| Notargebühr Abtretungsvertrag Paragraf 15 GmbHG | Geschäftswert = Kaufpreis; Gebührenordnung GNotKG | Paragraf 91, 95 GNotKG; bei 10 Mio. EUR: ca. 5.870 EUR |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Fusionskontrolle als kritischer Pfad | Anmeldung so früh wie möglich nach Signing; Pre-Filing-Gespräche mit BKartA / EU-Kommission vor Signing erwägen; Vollzugsfrist im SPA entsprechend verlängern |
+| Viele CoC-Klauseln bei mittelständischem Target | CoC-Mapping bereits in DD-Phase beginnen; Ankündigungsfristen in Vollzugsplanung einbauen; ggf. wesentliche CoC-Klauseln als SPA-Garantie absichern |
+| FDI-Risiko unklar | Freiwillige Meldung beim BMWK erwägen; verhindert nachträgliche Untersagung und schafft Rechtssicherheit |
+| Zielgesellschaft hat Distress-Merkmale | Paragrafen 15a und 15b InsO: Insolvenzreife, Antragspflicht und Zulässigkeit konkreter Vollzugshandlungen prüfen; ein Gutachten als Closing-Bedingung setzt gesetzliche Pflichten nicht aus |
+| MAC-Auslösung droht | Exakte Vertragsdefinition analysieren; Paragraf 313 BGB subsidiär; Gegenpartei frühzeitig ansprechen; Kaufpreisanpassung verhandeln |
+| Closing-Notartermin zu spät gebucht | Paragraf 15 GmbHG: Notare haben oft Vorlaufzeiten von 2–4 Wochen; Termin unmittelbar nach Signing vorbuchen |
+
+## Anschluss-Skills
+
+- `gesellschaftsrecht:gesellschaftsrecht-mandat-arbeitsbereich` — Mandats-Workspace für das Deal-Mandat
+- `gesellschaftsrecht:aufsichtsrat-protokoll` — AR-Zustimmungsbeschluss protokollieren
+- `gesellschaftsrecht:gesellschafts-compliance` — Gesellschafterliste und Transparenzregister als Closing-Lieferungen
+- `grosskanzlei-corporate-ma:grosskanzlei-ma-aktenanlage` — Closing-Mappe anlegen
+
+## Quellen und Zitierweise
+
+- Paragraf 35–43 GWB (Fusionskontrolle BKartA)
+- Paragraf 4, 7 EU-FKVO (EU-Fusionskontrolle)
+- Paragraf 55 ff. AWV, Paragraf 5 AWG (FDI-Prüfung)
+- Paragraf 179a AktG (HV-Beschluss Vermögensübertragung)
+- Paragraf 15 Abs. 3, 4 GmbHG (Abtretungsform)
+- Paragraf 40 GmbHG (Gesellschafterliste)
+- Paragraf 313 BGB (Wegfall Geschäftsgrundlage / MAC)
+- Paragraf 293 AktG (Unternehmensvertrag)
+- Paragraf 15a InsO (Insolvenzantragspflicht)
+
+Zitierweise nach `../../references/zitierweise.md`.
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- Mestmäcker/Veelken, in: Immenga/Mestmäcker, GWB, 6. Aufl. 2021, Paragraf 35 Rn. 1 ff. (Fusionskontrolle).
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+
+## Output-Template
+
+**Adressat:** Deal-Koordinator / Transaktionsteam — Tonfall: sachlich-strukturiert, fristen- und ampelbasiert
+
+```
+VOLLZUGS-STATUSBERICHT
+Mandat: [MANDATSCODE] / [ZIELGESELLSCHAFT]
+Closing-Zieldatum (SPA): [TT.MM.JJJJ]
+Bericht-Datum: [TT.MM.JJJJ]
+Erstellt von: [NAME], [KANZLEI]
+
+> Vertraulich — Mandatsgeheimnis Paragraf 43a Abs. 2 BRAO.
+
+--- AMPELSTATUS GESAMT ---
+Rot / Gelb / Gruen: [ROT] — Begruendung: [KRITISCHER BLOCKIERER]
+
+--- VOLLZUGSBEDINGUNGEN (SPA Paragraf [N]) ---
+| CP-Nr. | Beschreibung | Frist | Status | Verantwortlich | Blockierer |
+|---|---|---|---|---|---|
+| CP-01 | Fusionskontrolle BKartA | [DATUM] | [OFFEN / ERLEDIGT / GEFAEHRDET] | [PERSON] | [WENN RELEVANT] |
+| CP-02 | FDI-Freigabe BMWK Paragraf 55 AWV | [DATUM] | [OFFEN / ERLEDIGT] | [PERSON] | — |
+| CP-03 | AR-Zustimmung Paragraf 179a AktG / Paragraf 49 GmbHG | [DATUM] | [OFFEN / ERLEDIGT] | [PERSON] | — |
+| CP-04 | HV-Beschluss (falls Paragraf 179a AktG) | [DATUM] | [ENTFAELLT / OFFEN] | [PERSON] | — |
+| CP-05 | Notar-Termin Paragraf 15 GmbHG | [DATUM + UHRZEIT] | [GEBUCHT / OFFEN] | [PERSON] | — |
+
+--- CHANGE-OF-CONTROL-ZUSTIMMUNGEN ---
+| Vertrag | Gegenpartei | Frist | Status | Kontaktiert am |
+|---|---|---|---|---|
+| [VERTRAGSNAME] | [GEGENPARTEI] | [DATUM] | [ERHALTEN / OFFEN / VERWEIGERT] | [DATUM] |
+
+--- CLOSING-ACTIONS (TAG DES CLOSINGS) ---
+1. Notarieller Abtretungsvertrag Paragraf 15 Abs. 3 GmbHG — Notar: [NAME], [ORT]
+2. Gesellschafterliste Paragraf 40 GmbHG einreichen — Notar beauftragt: [JA / NEIN]
+3. Kaufpreis-Zahlung — Bank: [BANK], IBAN: [****], Freigabe durch: [PERSON]
+4. Vollzugsbestaetigung an Gegenpartei — Entwurf: [DATEINAME]
+5. D&O-Versicherung — Nachhaftungsdeckung bestaetigt: [JA / NEIN]
+
+--- NAECHSTE SCHRITTE (7-Tage-Fenster) ---
+1. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM] — Prioritaet: [HOCH / MITTEL]
+2. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM] — Prioritaet: [HOCH]
+
+--- ESKALATIONSBEDARF ---
+Aktuell: [KEIN / JA: BESCHREIBUNG]
+Eskalation an: [PERSON / GREMIUM]
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Rote Schwellen
+
+- **Fusionskontrollanmeldung nicht eingereicht, Closing-Datum in < 4 Wochen** — Vollzugsverbot Paragraf 41 GWB; unverzueglich anmelden; Pre-Filing-Gespraeche starten.
+- **FDI-Screeningpflicht unklar und kein freiwilliger Antrag** — nachtraegliche Untersagung möglich (Paragraf 62 AWV); Rechtsabteilung BMWK konsultieren.
+- **AR-Zustimmung fehlt und Closing morgen** — Vollzug ohne Zustimmung kann Paragraf 179a AktG-Analogiefehler ausloesen; Sondersitzung AR einberufen.
+- **Notar nicht gebucht, Closing in < 2 Wochen** — Paragraf 15 Abs. 3, 4 GmbHG: Beurkundungspflicht; Notare haben Vorlaufzeiten; sofort buchen.
+- **MAC-Klausel-Ausloesungsrisiko erkannt** — Vertragsdefinition analysieren; ggf. Kaufpreisanpassung verhandeln; Paragraf 313 BGB subsidiaer prüfen.
+
+## Was dieser Skill nicht tut
+
+- Er holt keine Zustimmungen ein, stellt keine Anträge, erstellt keine Dokumente. Er verfolgt, dass dies geschehen muss.
+- Er entscheidet nicht, was blockiert — das SPA entscheidet das. Dieser Skill liest das SPA.
+- Er vollzieht den Deal nicht. Er sagt, wann vollzogen werden kann.

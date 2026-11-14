@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt Internationales Wirtschaftsrecht** vom erste
 
 ## Fachlandkarte dieses Plugins
 
-- `anti-dumping-zoll-eu-grundverordnung` — Anti Dumping Zoll EU Grundverordnung
-- `bruessel-risikoampel-und-gegenargumente` — Bruessel CISG Sonderfall Edge
-- `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
-- `embargo-fristennotiz-und-naechster-schritt` — Embargo Fristennotiz Schiedsverfahren
-- `eu-kartellrecht-informationsaustausch-c-286-13` — Informationsaustausch nach Artikel 101 AEUV prüfen
-- `eu-kartellrecht-self-preferencing-google-shopping` — 1. Self-Preferencing nach Artikel 102 AEUV
-- `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
-- `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
-- `einstieg-schnelltriage-fallrouting` — FA INT Wirtschaft Start Chronologie Fristen
-- `gerichtsstand-und-rechtswahl-pruefen` — Gerichtsstand Rechtswahl Intwr CISG ROM
-- `icsid-quellenkarte` — Icsid Quellenkarte
-- `incoterms-2020-fca-versendungskauf` — Incoterms 2020 FCA Versendungskauf
-- `erstpruefung-und-mandatsziel` — Intwr RED Team Korrektur
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `auslands-zergliederung-bearbeiten` (Fachthema: anti-dumping-zoll-eu-grundverordnung) — Anti Dumping Zoll EU Grundverordnung
+- `forum-bearbeiten` (Fachthema: bruessel-risikoampel-und-gegenargumente) — Bruessel CISG Sonderfall Edge
+- `auslands-zergliederung-bearbeiten` (Fachthema: china-shipping-bills-of-lading) — China Shipping Bills OF Lading
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: embargo-fristennotiz-und-naechster-schritt) — Embargo Fristennotiz Schiedsverfahren
+- `auslands-zergliederung-bearbeiten` (Fachthema: eu-kartellrecht-informationsaustausch-c-286-13) — Informationsaustausch nach Artikel 101 AEUV prüfen
+- `auslands-zergliederung-bearbeiten` (Fachthema: eu-kartellrecht-self-preferencing-google-shopping) — 1. Self-Preferencing nach Artikel 102 AEUV
+- `auslands-zergliederung-bearbeiten` (Fachthema: eu-mwst-betrug-mtic) — EU Mwst Betrug Mtic
+- `forum-bearbeiten` (Fachthema: eugv-zustaendigkeit-art-7-eugvvo) — Eugv Zustaendigkeit ART 7 Eugvvo
+- `forum-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — FA INT Wirtschaft Start Chronologie Fristen
+- `auslands-zergliederung-bearbeiten` (Fachthema: gerichtsstand-und-rechtswahl-pruefen) — Gerichtsstand Rechtswahl Intwr CISG ROM
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: icsid-quellenkarte) — Icsid Quellenkarte
+- `auslands-zergliederung-bearbeiten` (Fachthema: incoterms-2020-fca-versendungskauf) — Incoterms 2020 FCA Versendungskauf
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: erstpruefung-und-mandatsziel) — Intwr RED Team Korrektur
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

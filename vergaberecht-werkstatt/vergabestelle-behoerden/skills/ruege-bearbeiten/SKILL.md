@@ -1,0 +1,66 @@
+---
+name: ruege-bearbeiten
+description: "Bereitet für öffentliche Auftraggeber Bekanntmachungsberichtigung, Portalbereitstellung und Vorabinformation vor. Sichert Zugang und Stillhaltefrist, bevor die Vergabestelle auf den Zuschlag zusteuert."
+---
+
+# Rüge
+
+## 1. Zweck und Anwendungsfall
+
+Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren.
+
+Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+
+## 2. Eingaben
+
+- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
+- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+
+## 3. Ablauf
+
+### 3.1. Arbeitsschritt
+
+Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren.
+
+### 3.2. Arbeitsschritt
+
+Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+
+### 3.3. Arbeitsschritt
+
+Ist die Rüge konkret, fristgerecht und auf Abhilfe gerichtet.
+
+### 3.4. Arbeitsschritt
+
+Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+
+### 3.5. Fachvertiefungen gezielt laden
+
+Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
+
+- [Fristberechnung Vorabinformation](../29-ev-vorabinformation-frist/FACHINHALT.md)
+- [Bekanntmachung, Berichtigung und Upload-Routing](../bekanntmachung-berichtigung-und-upload-routing/FACHINHALT.md)
+- [Konzession: Formular, Portal und Einreichungslogik](../konzession-formular-portal-und-einreichung/FACHINHALT.md)
+- [Vorabinformation und Stillhaltefrist nach § 134 GWB](../vorinformation-134-gwb-stillhaltefrist/FACHINHALT.md)
+
+## 4. Quellenpflicht
+
+Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
+
+## 5. Ausgabeformat
+
+<!-- BEGIN output-format-block (autogen) -->
+
+Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.
+
+<!-- END output-format-block (autogen) -->
+
+- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Rüge“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
+- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+
+Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
+
+## 6. Beispiele
+
+- Ein Auftrag zu „Fristberechnung Vorabinformation“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- Ein Auftrag zu „Bekanntmachung, Berichtigung und Upload-Routing“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.

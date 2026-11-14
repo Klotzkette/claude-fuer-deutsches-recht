@@ -37,6 +37,14 @@
       "url": "https://www.gesetze-im-internet.de/whg_2009/__47.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlichen Einzelnorm-Volltext gelesen: Konzentrationsausnahme beziehungsweise eigenständige Wasserzulassung, Versagung/Bewirtschaftungsermessen und Grundwasserziele mit Ausnahmen."
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77. Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV. Grenze: Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 38–77 und Tenor",
+      "sha256": "73beb84999ce90bae75dc6987f68439305de2a429fa4faf7a2bd147aad5930d0"
     }
   ],
   "mini_review": {
@@ -90,18 +98,19 @@
           ]
         }
       ],
-      "target_skill": "immissionsschutz-bimschg"
+      "target_skill": "materielle-pruefung-bearbeiten"
     }
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
+    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "changes": [
       "Substantielle Arbeitswege vom Wasserbescheid und Versorgungsvertrag zur Betriebsentscheidung, von Änderungsunterlagen zum Termin und vom Gegenbefund zur angepassten Einwendung ergänzt.",
       "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
-      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
+      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz.",
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam."
     ],
-    "sha256": "0f16618737ea992ca45a511a1e1a35a0edf546c71c59bf12992071f28edc5265"
+    "sha256": "2c0500eef90c8aaed9d90c036581f51702d18f97eeb443ef952b535c456004fc"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -152,6 +161,13 @@
         "application": "Rn. 9–16: fehlende hinreichende Substantiierung zum Klimaschutz der Länder und zur intertemporalen Freiheitssicherung.",
         "limit": "Nichtannahmebeschluss zu Landesrecht. Voraussetzungen des UmwRG und gerichtlicher Rechtsbehelf gesondert prüfen.",
         "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77",
+        "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+        "application": "Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV.",
+        "limit": "Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+        "checked_on": "2026-11-14"
       }
     ],
     "remaining_limits": [
@@ -188,5 +204,36 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_audit_2026_11_14": {
+    "date": "2026-11-14",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-11-14/verfassungs-europa-produkt.md",
+    "workshop_path": "umweltrecht/umweltrecht-werkstatt.md",
+    "before_sha256": "0f16618737ea992ca45a511a1e1a35a0edf546c71c59bf12992071f28edc5265",
+    "after_sha256": "2c0500eef90c8aaed9d90c036581f51702d18f97eeb443ef952b535c456004fc",
+    "previous_workshop_review": {
+      "verdict": "revised",
+      "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
+      "changes": [
+        "Substantielle Arbeitswege vom Wasserbescheid und Versorgungsvertrag zur Betriebsentscheidung, von Änderungsunterlagen zum Termin und vom Gegenbefund zur angepassten Einwendung ergänzt.",
+        "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
+        "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
+      ],
+      "sha256": "0f16618737ea992ca45a511a1e1a35a0edf546c71c59bf12992071f28edc5265"
+    },
+    "decisions": [
+      {
+        "citation": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77",
+        "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+        "application": "Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV.",
+        "limit": "Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+        "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 38–77 und Tenor",
+        "checked_on": "2026-11-14",
+        "sha256": "73beb84999ce90bae75dc6987f68439305de2a429fa4faf7a2bd147aad5930d0"
+      }
+    ],
+    "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
   }
 }

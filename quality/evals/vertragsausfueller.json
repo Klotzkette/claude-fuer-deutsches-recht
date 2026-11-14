@@ -96,7 +96,7 @@
           ]
         }
       ],
-      "target_skill": "termsheet-mapping"
+      "target_skill": "leistung-verguetung-und-abwicklung-bearbeiten"
     },
     {
       "id": "b2b-mapping-ohne-verbraucherwiderruf",
@@ -135,7 +135,7 @@
           ]
         }
       ],
-      "target_skill": "termsheet-mapping"
+      "target_skill": "leistung-verguetung-und-abwicklung-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

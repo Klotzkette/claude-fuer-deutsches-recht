@@ -1,0 +1,3520 @@
+{
+  "scope": "Bestandsaufnahme vor paralleler Skill-Migration; dokumentierte Quellenstände, keine neue Gesamtquellenprüfung",
+  "snapshot_commit": "dbfbb6f63b15bf52110e8db06b4bb78e953f6db3",
+  "inventory_date": "2026-11-14",
+  "summary": {
+    "plugins": 315,
+    "families": 143,
+    "profile_sources": 3183,
+    "unique_urls": 2641,
+    "registered_anchor_entries": 942,
+    "without_registered_anchors": 2,
+    "pending_file_reviews": {
+      "anwaltschaft-generell": 2,
+      "corporate-contract-law": 20,
+      "gesellschafterstreit": 3,
+      "wirtschaftsanwalt": 6
+    },
+    "flags": {
+      "heuristic_date_conflict": 21,
+      "needs_review": 4,
+      "no_registered_decision_anchor": 2,
+      "no_main_workshop_file": 2
+    }
+  },
+  "topic_families": {
+    "agrar": [
+      "fachanwalt-agrarrecht"
+    ],
+    "aktg_hv": [
+      "aktienrecht-hauptversammlung-ag-se"
+    ],
+    "anwaltschaft-generell": [
+      "anwaltschaft-generell"
+    ],
+    "apotheke": [
+      "apothekenrecht"
+    ],
+    "arbeits": [
+      "antidiskriminierung-agg",
+      "arbeitsrecht",
+      "fachanwalt-arbeitsrecht",
+      "richter-arbeitsgericht"
+    ],
+    "ausbildung": [
+      "hausarbeitenmacher",
+      "jurastudium",
+      "methodenlehre-buergerliches-recht",
+      "rechtstheorie-rechtsphilosophie",
+      "subsumtions-pruefer"
+    ],
+    "bank": [
+      "bank-rechtsabteilung",
+      "fachanwalt-bank-kapitalmarktrecht"
+    ],
+    "barrierefreiheit": [
+      "barrierefreiheit-web-checker"
+    ],
+    "bau": [
+      "bautraegervertrag-pruefer",
+      "bautraegervertragspruefer",
+      "bauunternehmer-einkauf",
+      "bauvergabe-nachtragsmanagement",
+      "fachanwalt-bau-architektenrecht",
+      "projekteinkauf-baubranche"
+    ],
+    "bauplanung": [
+      "normenkontrolle-bauleitplanung"
+    ],
+    "bauwirtschaft": [
+      "bauwirtschaft",
+      "bauwirtschaft-anfaenger",
+      "bauwirtschaft-fortgeschrittene"
+    ],
+    "bav": [
+      "bav-strategie-konzern"
+    ],
+    "beamten": [
+      "beamtenrecht"
+    ],
+    "behoerdenklartext": [
+      "buerokratieversteher-entbuerokratisierer"
+    ],
+    "berufsrecht": [
+      "berufsgerichtliche-verfahren-freie-berufe",
+      "berufsrecht-anwaelte",
+      "berufsrecht-ki-vertragspruefung",
+      "berufsrecht-notare",
+      "berufsrecht-patentanwaelte",
+      "berufsrecht-steuerberater",
+      "berufsrecht-wirtschaftspruefer",
+      "email-umformulierer-berufsrecht"
+    ],
+    "betreuung": [
+      "betreuungsrecht"
+    ],
+    "bgb": [
+      "agb-werkstatt",
+      "bereicherungs-und-anfechtungsrecht-pruefer",
+      "bgb-at-pruefer",
+      "bgb-bt-pruefer",
+      "schriftform-und-textform-bgb"
+    ],
+    "bildung": [
+      "berliner-hochschulrecht-professoren",
+      "berliner-schulrecht-eltern-schueler",
+      "hochschulrecht-laender",
+      "pruefungsrecht-hochschule",
+      "schulrecht-laender"
+    ],
+    "commercial_court": [
+      "commercial-courts-deutschland"
+    ],
+    "commonlaw": [
+      "common-law-kompass"
+    ],
+    "corporate-contract-law": [
+      "corporate-contract-law"
+    ],
+    "cybersicherheit": [
+      "nis2-cybersecurity-compliance"
+    ],
+    "datenbank": [
+      "datenbankrecht"
+    ],
+    "datenschutz": [
+      "datenschutz-sanktionsverfahren-verteidigung",
+      "datenschutzrecht",
+      "krankenhaus-it-ki",
+      "verarbeitungsverzeichnis"
+    ],
+    "default": [
+      "grundstuecksrecherche",
+      "schriftsatzwerkstatt-bea"
+    ],
+    "denkmalschutz": [
+      "denkmalschutzrecht"
+    ],
+    "design": [
+      "designrecht-geschmacksmusterrecht"
+    ],
+    "dienst": [
+      "kriegsdienstverweigerung-wehrdienst"
+    ],
+    "digitalplattform": [
+      "dsa-dma-digitalregulierung"
+    ],
+    "dokumentenworkflow": [
+      "bea-versand",
+      "kanzlei-builder-hub",
+      "schriftsatz-versandwerkstatt",
+      "status-navigator-step-plan",
+      "tabellenreview-3d",
+      "word-legal-ai-plugin-and-skill-for-german-lawyers"
+    ],
+    "ecommerce": [
+      "ecommerce-recht"
+    ],
+    "ehrenamtliche_richter": [
+      "schoeffen-handelsrichter-praxis"
+    ],
+    "einigungsvertrag": [
+      "einigungsvertrag-vermoegensrecht"
+    ],
+    "energie": [
+      "energierecht"
+    ],
+    "erbrecht": [
+      "fachanwalt-erbrecht"
+    ],
+    "erechnung": [
+      "e-rechnung-werkstatt"
+    ],
+    "eu_prozess": [
+      "europaeisches-prozessrecht"
+    ],
+    "eu_recht": [
+      "europarecht-kompass"
+    ],
+    "fahrgast": [
+      "fahrgastrechte"
+    ],
+    "famil": [
+      "fachanwalt-familienrecht",
+      "richter-familiengericht"
+    ],
+    "finanzgericht": [
+      "richter-finanzgericht"
+    ],
+    "fluggast": [
+      "fluggastrechte"
+    ],
+    "foerderantrag": [
+      "dfg-foerderantrag"
+    ],
+    "forderung": [
+      "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "factoring-recht",
+      "forderungsmanagement-klagewerkstatt",
+      "rechtsabteilung-forderungsmanagement-immobilienunternehmen"
+    ],
+    "forschungszulage": [
+      "forschungszulage-antragstellung"
+    ],
+    "fundstellenverifikation": [
+      "ki-halluzinationsreduzierer"
+    ],
+    "gebrauchsmuster": [
+      "gebrauchsmusterrecht"
+    ],
+    "geldwaesche": [
+      "geldwaeschebeauftragter",
+      "geldwaeschepraevention-aml-kyc",
+      "transparenzregister-assistent"
+    ],
+    "gesellschaft": [
+      "aufsichtsrat-ag-se-praxis",
+      "compliance-abteilung-grosskonzern",
+      "fachanwalt-handels-gesellschaftsrecht",
+      "gesellschafterstreit",
+      "gesellschaftervereinbarung",
+      "gesellschaftsgruender",
+      "gesellschaftsrecht",
+      "gesellschaftsrecht-legal-english",
+      "gesellschaftsrechtliche-treuepflicht",
+      "gmbh-gesellschafterversammlung",
+      "handelsregister-assistent",
+      "handelsregister-praxis",
+      "ki-verordnung-register-meldungen",
+      "richter-amtsgericht-handelsregister",
+      "startup-gruender"
+    ],
+    "gewerblicher_rechtsschutz": [
+      "fachanwalt-gewerblicher-rechtsschutz",
+      "fashion-law-moderecht",
+      "gewerblicher-rechtsschutz"
+    ],
+    "goae": [
+      "goae-gebuehrenordnung-aerzte"
+    ],
+    "grundsteuerrecht": [
+      "grundsteuerrecht"
+    ],
+    "handelsrecht": [
+      "handelsrecht-hgb",
+      "handelsvertreterrecht"
+    ],
+    "haushalt": [
+      "haushaltsrecht-bho-bund-laender"
+    ],
+    "hinweisgeber": [
+      "hinweisgeberschutz-compliance"
+    ],
+    "hoai": [
+      "hoai-leistungsphasen-praxis"
+    ],
+    "hr": [
+      "startup-hr-personalabteilung-berlin"
+    ],
+    "immobilien": [
+      "erbbaurecht-praxis",
+      "grundbuchamt-assistent",
+      "grundbuchamt-praxis",
+      "immobilienrechtspraxis"
+    ],
+    "influencer": [
+      "influencer-recht"
+    ],
+    "informationszugang": [
+      "informationsfreiheit-presseauskunft"
+    ],
+    "insolvenz": [
+      "insolvenzforderungen-checker",
+      "insolvenzforderungsanmeldungspruefung",
+      "insolvenzrecht",
+      "insolvenzsachbearbeitung",
+      "insolvenzverwaltung",
+      "insolvenzverwaltung-berichtsersteller",
+      "richter-amtsgericht-insolvenz-restrukturierung",
+      "verbraucherinsolvenz-schuldenbereinigung",
+      "zahlungsunfaehigkeits-und-ueberschuldungspruefer"
+    ],
+    "insolvenzanfechtung": [
+      "insolvenzanfechtung"
+    ],
+    "international": [
+      "fachanwalt-internationales-wirtschaftsrecht",
+      "festlandchina-wirtschaftsverkehr"
+    ],
+    "investigations": [
+      "internal-investigations-praxis"
+    ],
+    "it": [
+      "fachanwalt-it-recht",
+      "softwarerecht-de-eu-us"
+    ],
+    "juristische-praesentationen": [
+      "juristische-praesentationen"
+    ],
+    "justiz_zivil": [
+      "relationstechnik-zivilrecht",
+      "richter-amtsgericht-zivil",
+      "richter-landgericht-zivilkammer",
+      "urteilsbauer-relationsmacher"
+    ],
+    "jveg": [
+      "jveg-kostenpruefer"
+    ],
+    "kanzleibetrieb": [
+      "kanzlei-allgemein",
+      "kanzlei-management",
+      "kanzlei-mandant-lifecycle",
+      "kanzlei-website-redaktion",
+      "ki-native-kanzlei",
+      "ki-richtlinie-kanzleien"
+    ],
+    "kapitalmarkt": [
+      "insiderrecht-compliance"
+    ],
+    "kartell": [
+      "kartellrecht-marktabgrenzung-pruefung"
+    ],
+    "kirchenrecht": [
+      "roemisch-katholisches-kirchenrecht"
+    ],
+    "kommunal": [
+      "kommunalrecht-laender"
+    ],
+    "krankenhaus": [
+      "krankenhausrecht"
+    ],
+    "liquiditaet": [
+      "liquiditaetsplanung"
+    ],
+    "lizenz": [
+      "lizenzvertragsersteller"
+    ],
+    "lobbyregister": [
+      "lobbyregister-bundestag"
+    ],
+    "luftrecht": [
+      "luftrecht-flughafenrecht"
+    ],
+    "ma_finanzierung": [
+      "corporate-kanzlei",
+      "due-diligence",
+      "grosskanzlei-corporate-ma",
+      "mittelstand-corporate-ma",
+      "private-equity-praxis",
+      "venture-capital-geber",
+      "wandeldarlehen-lebenszyklus"
+    ],
+    "marke": [
+      "markenamt-assistent",
+      "markenrecht-fashion-luxus"
+    ],
+    "medizin": [
+      "fachanwalt-medizinrecht"
+    ],
+    "methodik": [
+      "einfache-leichte-sprache-jura",
+      "jura-in-einfacher-sprache",
+      "juristische-sprache-deutsch-als-zweitsprache",
+      "mandantenanfragen-assistent",
+      "memorandums-ersteller",
+      "rechtsberatungsstelle",
+      "zitierweise-deutsches-recht"
+    ],
+    "miet": [
+      "eigenbedarfskuendigungschecker",
+      "fachanwalt-miet-wohnungseigentumsrecht",
+      "mietchecker",
+      "mietrecht"
+    ],
+    "migration": [
+      "fachanwalt-migrationsrecht"
+    ],
+    "nachbar": [
+      "nachbarschaftsstreit-pruefer"
+    ],
+    "nkr": [
+      "normenkontrollrat-nkr"
+    ],
+    "normsetzung": [
+      "legistik-werkstatt"
+    ],
+    "notariat": [
+      "notariat-alltag"
+    ],
+    "owi_praxis": [
+      "ordnungswidrigkeitenrecht"
+    ],
+    "parteienrecht": [
+      "parteienrecht-parteiorganisation"
+    ],
+    "patent": [
+      "patentrecherche",
+      "patentrecht"
+    ],
+    "phishing": [
+      "phishing-vorfall-pruefer"
+    ],
+    "pralr": [
+      "preussisches-allgemeines-landrecht-pralr"
+    ],
+    "presse": [
+      "juristische-presseberichterstattung",
+      "verlagsredaktion"
+    ],
+    "produkt": [
+      "diesel-schadensersatz",
+      "produktrecht",
+      "robotik-recht"
+    ],
+    "rechtsgeschichte": [
+      "deutsche-rechtsgeschichte"
+    ],
+    "regulierung": [
+      "bundesnetzagentur-verfahren",
+      "regulatorisches-recht"
+    ],
+    "renten": [
+      "rentenpruefer"
+    ],
+    "reporting": [
+      "berichtspflichten-erlediger"
+    ],
+    "roemisch": [
+      "roemisches-recht"
+    ],
+    "sanierung": [
+      "fachanwalt-insolvenz-sanierungsrecht",
+      "fortbestehensprognose",
+      "insolvenzplan-starug-planwerkstatt",
+      "krisenfrueherkennung-starug"
+    ],
+    "schadensregulierung": [
+      "kommunale-haftpflicht",
+      "schadensregulierung"
+    ],
+    "selbststaendige": [
+      "solo-selbststaendige-praxis"
+    ],
+    "sozial": [
+      "fachanwalt-sozialrecht",
+      "krankenkassenrecht-krankenversicherung",
+      "pflegerecht-sgb-xi",
+      "richter-sozialgericht",
+      "selbstvertreter-sozialgericht",
+      "sozialrecht-fuer-laien"
+    ],
+    "sozialstatus": [
+      "sozialversicherungsstatus-pruefer"
+    ],
+    "sport": [
+      "fachanwalt-sportrecht"
+    ],
+    "steuer": [
+      "steuerrecht-anwalt-und-berater"
+    ],
+    "straf": [
+      "betaeubungsmittelrecht",
+      "fachanwalt-strafrecht",
+      "strafanzeige-vorbereiter",
+      "strafbefehl-verteidiger",
+      "strafvollzug-jva",
+      "untersuchungshaft",
+      "verkehrsowi-verteidiger"
+    ],
+    "strafjustiz": [
+      "aktenaufbereiter-strafrecht",
+      "richter-amtsgericht-straf",
+      "richter-landgericht-strafkammer",
+      "staatsanwaltschaft-amtsanwaltschaft",
+      "staatsanwaltschaft-praxis-einstieg",
+      "strafzumessung"
+    ],
+    "strassennutzung-genehmigungen": [
+      "strassennutzung-genehmigungen"
+    ],
+    "strassenrecht": [
+      "strassenrecht-infrastruktur"
+    ],
+    "stvo": [
+      "strassenverkehrsrecht-stvo"
+    ],
+    "technikregulierung": [
+      "ki-governance",
+      "ki-verordnung-hochrisiko-pruefer",
+      "ki-verordnung-konformitaet",
+      "ki-verordnung-transparenzpruefer",
+      "ki-verordnung-verbotene-praktiken",
+      "ki-vo-ai-act-pruefer"
+    ],
+    "telekom": [
+      "telekommunikationsrecht"
+    ],
+    "tierschutz": [
+      "tierschutzrecht"
+    ],
+    "transport_handel": [
+      "aussenwirtschaft-zoll-sanktionen",
+      "eu-sanktionspruefer",
+      "fachanwalt-transport-speditionsrecht",
+      "internationales-handelsrecht-lex-mercatoria",
+      "seerecht-schifffahrtsrecht",
+      "un-kaufrecht-cisg",
+      "us-sanktionspruefer"
+    ],
+    "umweltplanung": [
+      "umweltrecht",
+      "verkehr-infrastrukturrecht"
+    ],
+    "umweltverband": [
+      "umweltschutzverband-verbandsklage"
+    ],
+    "urheber": [
+      "fachanwalt-urheber-medienrecht",
+      "urheberrecht-de-eu"
+    ],
+    "us_copyright": [
+      "us-copyright-registrierung-verlag"
+    ],
+    "us_insolvency": [
+      "us-bankruptcy-code"
+    ],
+    "verbraucher": [
+      "agb-recht-pruefer",
+      "verbraucher-rechtsstaat-alltag",
+      "verbraucherschutzrecht-pruefer",
+      "verbraucherschutzverband-durchsetzung"
+    ],
+    "verein": [
+      "vereinsrecht-vereinsmanager"
+    ],
+    "verfass": [
+      "enteignung-artikel-14",
+      "meinungspruefer",
+      "richter-bverfg-verfassungsbeschwerden",
+      "verfassungsrecht",
+      "vergesellschaftung-artikel-15",
+      "verhaeltnismaessigkeitspruefer",
+      "wahlkampfrecht-praxis"
+    ],
+    "vergabe": [
+      "bauvergabe-bieter",
+      "bauvergabe-rechtsschutz",
+      "bauvergabe-unterlagen",
+      "bauvergabe-verfahren",
+      "bieter-unternehmen",
+      "fachanwalt-vergaberecht",
+      "gvb-reinigungsvergabe",
+      "konkurrenten-rechtsschutz",
+      "sektorenvergabe-workflow",
+      "vergabestelle-behoerden"
+    ],
+    "verkehr": [
+      "fachanwalt-verkehrsrecht"
+    ],
+    "verlag": [
+      "verlagsrecht-buchpreisbindung"
+    ],
+    "versammlung": [
+      "versammlungsrecht"
+    ],
+    "versicherung": [
+      "fachanwalt-versicherungsrecht",
+      "sozialversicherungspflicht-pruefer",
+      "versicherungsrecht"
+    ],
+    "vertragserstellung": [
+      "vertragserstellung"
+    ],
+    "vertragsgestaltung": [
+      "franchiserecht-praxis",
+      "leasingrecht-praxis",
+      "nda-abgleich",
+      "nda-verschwiegenheit-generator-checker",
+      "playbook-pruefer",
+      "vertragsausfueller",
+      "vertragsrecht"
+    ],
+    "verwaltung": [
+      "berliner-asog-polizeirecht",
+      "berliner-gewerbeaufsicht-betrieb",
+      "berliner-versammlungsrecht",
+      "betriebskosten-hausverwaltung",
+      "fachanwalt-verwaltungsrecht"
+    ],
+    "verwaltungsgericht": [
+      "richter-verwaltungsgericht"
+    ],
+    "vollstreckung": [
+      "zwangsvollstreckung"
+    ],
+    "weg": [
+      "weg-hausverwaltung"
+    ],
+    "wehr": [
+      "bundeswehrrecht-wehrrecht"
+    ],
+    "weltraum": [
+      "weltraumrecht"
+    ],
+    "wirtschaftsanwalt": [
+      "wirtschaftsanwalt"
+    ],
+    "wirtschaftsverwaltung": [
+      "oeffentliches-wirtschaftsrecht"
+    ],
+    "zeugnis": [
+      "arbeitszeugnis-analyse",
+      "arbeitszeugnisgenerator",
+      "arbeitszeugnispruefer"
+    ],
+    "zivilprozess": [
+      "aktenauszug-gerichtsverfahren",
+      "anlagen-zu-schriftsaetzen",
+      "prozessrecht",
+      "selbstvertreter-amtsgericht"
+    ],
+    "zugewinnausgleich": [
+      "zugewinnausgleich"
+    ],
+    "zwangsverwaltung": [
+      "zwangsverwaltung-zvg"
+    ]
+  },
+  "plugin_summary": [
+    {
+      "plugin": "agb-recht-pruefer",
+      "topic_key": "verbraucher",
+      "topic_label": "Verbraucherrecht und Verbandsdurchsetzung",
+      "skill_count": 273,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "agb-werkstatt",
+      "topic_key": "bgb",
+      "topic_label": "Bürgerliches Recht und Vertragsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-09",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "aktenaufbereiter-strafrecht",
+      "topic_key": "strafjustiz",
+      "topic_label": "Strafjustiz: Anklage, Hauptverhandlung und Rechtsfolgen",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "aktenauszug-gerichtsverfahren",
+      "topic_key": "zivilprozess",
+      "topic_label": "Zivilprozess und Relation",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "aktienrecht-hauptversammlung-ag-se",
+      "topic_key": "aktg_hv",
+      "topic_label": "Aktienrechtliche Hauptversammlung",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "anlagen-zu-schriftsaetzen",
+      "topic_key": "zivilprozess",
+      "topic_label": "Zivilprozess und Relation",
+      "skill_count": 118,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "antidiskriminierung-agg",
+      "topic_key": "arbeits",
+      "topic_label": "Arbeitsrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "anwaltschaft-generell",
+      "topic_key": "anwaltschaft-generell",
+      "topic_label": "Anwaltschaft generell",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-23",
+      "documented_source_check_max": "2026-09-23",
+      "flags": [
+        "needs_review"
+      ]
+    },
+    {
+      "plugin": "apothekenrecht",
+      "topic_key": "apotheke",
+      "topic_label": "Apotheken-, Arzneimittelabgabe- und Versorgungsrecht",
+      "skill_count": 66,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "arbeitsrecht",
+      "topic_key": "arbeits",
+      "topic_label": "Arbeitsrecht",
+      "skill_count": 100,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "topic_key": "forderung",
+      "topic_label": "Forderungsmanagement",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-22",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "arbeitszeugnis-analyse",
+      "topic_key": "zeugnis",
+      "topic_label": "Arbeitszeugnisrecht",
+      "skill_count": 51,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "topic_key": "zeugnis",
+      "topic_label": "Arbeitszeugnisrecht",
+      "skill_count": 5,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "arbeitszeugnispruefer",
+      "topic_key": "zeugnis",
+      "topic_label": "Arbeitszeugnisrecht",
+      "skill_count": 31,
+      "documented_source_check_min": "2026-09-25",
+      "documented_source_check_max": "2026-09-30",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "aufsichtsrat-ag-se-praxis",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "aussenwirtschaft-zoll-sanktionen",
+      "topic_key": "transport_handel",
+      "topic_label": "Transport-, See- und Außenhandelsrecht",
+      "skill_count": 125,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "bank-rechtsabteilung",
+      "topic_key": "bank",
+      "topic_label": "Bank- und Kapitalmarktrecht",
+      "skill_count": 122,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "barrierefreiheit-web-checker",
+      "topic_key": "barrierefreiheit",
+      "topic_label": "Digitale Barrierefreiheit",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "bautraegervertrag-pruefer",
+      "topic_key": "bau",
+      "topic_label": "Bau- und Architektenrecht",
+      "skill_count": 31,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "bautraegervertragspruefer",
+      "topic_key": "bau",
+      "topic_label": "Bau- und Architektenrecht",
+      "skill_count": 31,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "bauunternehmer-einkauf",
+      "topic_key": "bau",
+      "topic_label": "Bau- und Architektenrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-11-09",
+      "documented_source_check_max": "2026-11-09",
+      "flags": []
+    },
+    {
+      "plugin": "bauvergabe-bieter",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "bauvergabe-nachtragsmanagement",
+      "topic_key": "bau",
+      "topic_label": "Bau- und Architektenrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "bauvergabe-rechtsschutz",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "bauvergabe-unterlagen",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "bauvergabe-verfahren",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "bauwirtschaft",
+      "topic_key": "bauwirtschaft",
+      "topic_label": "Bauwirtschaft und Projektabwicklung",
+      "skill_count": 29,
+      "documented_source_check_min": "2026-09-25",
+      "documented_source_check_max": "2026-10-01",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "bauwirtschaft-anfaenger",
+      "topic_key": "bauwirtschaft",
+      "topic_label": "Bauwirtschaft und Projektabwicklung",
+      "skill_count": 8,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "bauwirtschaft-fortgeschrittene",
+      "topic_key": "bauwirtschaft",
+      "topic_label": "Bauwirtschaft und Projektabwicklung",
+      "skill_count": 8,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "bav-strategie-konzern",
+      "topic_key": "bav",
+      "topic_label": "Betriebliche Altersversorgung",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "bea-versand",
+      "topic_key": "dokumentenworkflow",
+      "topic_label": "Dokumenten- und Vorlagenworkflow",
+      "skill_count": 1,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "beamtenrecht",
+      "topic_key": "beamten",
+      "topic_label": "Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht",
+      "skill_count": 179,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+      "topic_key": "bgb",
+      "topic_label": "Bürgerliches Recht und Vertragsrecht",
+      "skill_count": 139,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "berichtspflichten-erlediger",
+      "topic_key": "reporting",
+      "topic_label": "Betriebliche Berichts-, Register- und Meldepflichten",
+      "skill_count": 58,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "berliner-asog-polizeirecht",
+      "topic_key": "verwaltung",
+      "topic_label": "Verwaltungsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-02",
+      "documented_source_check_max": "2026-10-02",
+      "flags": []
+    },
+    {
+      "plugin": "berliner-gewerbeaufsicht-betrieb",
+      "topic_key": "verwaltung",
+      "topic_label": "Verwaltungsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-02",
+      "documented_source_check_max": "2026-10-02",
+      "flags": []
+    },
+    {
+      "plugin": "berliner-hochschulrecht-professoren",
+      "topic_key": "bildung",
+      "topic_label": "Bildungs-, Hochschul- und Wissenschaftsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "berliner-schulrecht-eltern-schueler",
+      "topic_key": "bildung",
+      "topic_label": "Bildungs-, Hochschul- und Wissenschaftsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-02",
+      "documented_source_check_max": "2026-10-02",
+      "flags": []
+    },
+    {
+      "plugin": "berliner-versammlungsrecht",
+      "topic_key": "verwaltung",
+      "topic_label": "Verwaltungsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-02",
+      "documented_source_check_max": "2026-10-02",
+      "flags": []
+    },
+    {
+      "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 100,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "berufsrecht-anwaelte",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 209,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "berufsrecht-ki-vertragspruefung",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 94,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "berufsrecht-notare",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 205,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "berufsrecht-patentanwaelte",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 205,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "berufsrecht-steuerberater",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 205,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "berufsrecht-wirtschaftspruefer",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 233,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "betaeubungsmittelrecht",
+      "topic_key": "straf",
+      "topic_label": "Strafrecht und Strafverfahren",
+      "skill_count": 126,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "betreuungsrecht",
+      "topic_key": "betreuung",
+      "topic_label": "Betreuungsrecht",
+      "skill_count": 118,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "betriebskosten-hausverwaltung",
+      "topic_key": "verwaltung",
+      "topic_label": "Verwaltungsrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "bgb-at-pruefer",
+      "topic_key": "bgb",
+      "topic_label": "Bürgerliches Recht und Vertragsrecht",
+      "skill_count": 96,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "bgb-bt-pruefer",
+      "topic_key": "bgb",
+      "topic_label": "Bürgerliches Recht und Vertragsrecht",
+      "skill_count": 109,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "bieter-unternehmen",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 113,
+      "documented_source_check_min": "2026-10-08",
+      "documented_source_check_max": "2026-10-08",
+      "flags": []
+    },
+    {
+      "plugin": "buerokratieversteher-entbuerokratisierer",
+      "topic_key": "behoerdenklartext",
+      "topic_label": "Behördenpost verstehen und handlungsfähig beantworten",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "bundesnetzagentur-verfahren",
+      "topic_key": "regulierung",
+      "topic_label": "Regulierungs- und Wirtschaftsverwaltungsrecht",
+      "skill_count": 222,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "bundeswehrrecht-wehrrecht",
+      "topic_key": "wehr",
+      "topic_label": "Soldaten-, Wehrbeschwerde- und Wehrdisziplinarrecht",
+      "skill_count": 107,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "commercial-courts-deutschland",
+      "topic_key": "commercial_court",
+      "topic_label": "Commercial Courts und Commercial Chambers in Deutschland",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "common-law-kompass",
+      "topic_key": "commonlaw",
+      "topic_label": "Common-Law-Vertrags- und Prozesskompass",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "compliance-abteilung-grosskonzern",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 9,
+      "documented_source_check_min": "2026-11-04",
+      "documented_source_check_max": "2026-11-04",
+      "flags": []
+    },
+    {
+      "plugin": "corporate-contract-law",
+      "topic_key": "corporate-contract-law",
+      "topic_label": "Corporate Contract Law: Wirtschaftsverträge",
+      "skill_count": 20,
+      "documented_source_check_min": "2026-09-23",
+      "documented_source_check_max": "2026-09-23",
+      "flags": [
+        "needs_review"
+      ]
+    },
+    {
+      "plugin": "corporate-kanzlei",
+      "topic_key": "ma_finanzierung",
+      "topic_label": "M&A, Beteiligungs- und Finanzierungstransaktionen",
+      "skill_count": 88,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "datenbankrecht",
+      "topic_key": "datenbank",
+      "topic_label": "Datenbankrecht",
+      "skill_count": 130,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+      "topic_key": "datenschutz",
+      "topic_label": "Datenschutzrecht",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "datenschutzrecht",
+      "topic_key": "datenschutz",
+      "topic_label": "Datenschutzrecht",
+      "skill_count": 285,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "denkmalschutzrecht",
+      "topic_key": "denkmalschutz",
+      "topic_label": "Denkmalschutz- und Denkmalpflegerecht der Länder",
+      "skill_count": 51,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "designrecht-geschmacksmusterrecht",
+      "topic_key": "design",
+      "topic_label": "Designrecht",
+      "skill_count": 51,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "deutsche-rechtsgeschichte",
+      "topic_key": "rechtsgeschichte",
+      "topic_label": "Rechtsgeschichte und historische Rechtsquellen",
+      "skill_count": 206,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "dfg-foerderantrag",
+      "topic_key": "foerderantrag",
+      "topic_label": "Wissenschaftlicher Förderantrag und Begutachtungsverfahren",
+      "skill_count": 85,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "diesel-schadensersatz",
+      "topic_key": "produkt",
+      "topic_label": "Produktrecht und Produkthaftung",
+      "skill_count": 21,
+      "documented_source_check_min": "2026-08-09",
+      "documented_source_check_max": "2026-09-30",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "dsa-dma-digitalregulierung",
+      "topic_key": "digitalplattform",
+      "topic_label": "Digitale Plattformregulierung",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "due-diligence",
+      "topic_key": "ma_finanzierung",
+      "topic_label": "M&A, Beteiligungs- und Finanzierungstransaktionen",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-10",
+      "documented_source_check_max": "2026-10-10",
+      "flags": []
+    },
+    {
+      "plugin": "e-rechnung-werkstatt",
+      "topic_key": "erechnung",
+      "topic_label": "E-Rechnungen als ZUGFeRD und XRechnung",
+      "skill_count": 7,
+      "documented_source_check_min": "2026-11-06",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "ecommerce-recht",
+      "topic_key": "ecommerce",
+      "topic_label": "Onlinehandel, Plattformen und digitale Verbraucherprozesse",
+      "skill_count": 73,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "eigenbedarfskuendigungschecker",
+      "topic_key": "miet",
+      "topic_label": "Miet- und Wohnungseigentumsrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "einfache-leichte-sprache-jura",
+      "topic_key": "methodik",
+      "topic_label": "Juristische Methodik und Arbeitstechnik",
+      "skill_count": 87,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "einigungsvertrag-vermoegensrecht",
+      "topic_key": "einigungsvertrag",
+      "topic_label": "Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht",
+      "skill_count": 124,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "email-umformulierer-berufsrecht",
+      "topic_key": "berufsrecht",
+      "topic_label": "Berufsrecht der rechts- und wirtschaftsberatenden Berufe",
+      "skill_count": 83,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "energierecht",
+      "topic_key": "energie",
+      "topic_label": "Energie-, Netz-, Wärme- und Projektregulierung",
+      "skill_count": 96,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "enteignung-artikel-14",
+      "topic_key": "verfass",
+      "topic_label": "Verfassungsrecht",
+      "skill_count": 9,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "erbbaurecht-praxis",
+      "topic_key": "immobilien",
+      "topic_label": "Immobilien-, Grundbuch- und Notarrecht",
+      "skill_count": 51,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "eu-sanktionspruefer",
+      "topic_key": "transport_handel",
+      "topic_label": "Transport-, See- und Außenhandelsrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-21",
+      "documented_source_check_max": "2026-10-21",
+      "flags": []
+    },
+    {
+      "plugin": "europaeisches-prozessrecht",
+      "topic_key": "eu_prozess",
+      "topic_label": "Europaeisches Prozessrecht",
+      "skill_count": 22,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "europarecht-kompass",
+      "topic_key": "eu_recht",
+      "topic_label": "Europarecht",
+      "skill_count": 58,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-agrarrecht",
+      "topic_key": "agrar",
+      "topic_label": "Agrarrecht",
+      "skill_count": 79,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-arbeitsrecht",
+      "topic_key": "arbeits",
+      "topic_label": "Arbeitsrecht",
+      "skill_count": 108,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-bank-kapitalmarktrecht",
+      "topic_key": "bank",
+      "topic_label": "Bank- und Kapitalmarktrecht",
+      "skill_count": 88,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-bau-architektenrecht",
+      "topic_key": "bau",
+      "topic_label": "Bau- und Architektenrecht",
+      "skill_count": 123,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-erbrecht",
+      "topic_key": "erbrecht",
+      "topic_label": "Erbrecht",
+      "skill_count": 32,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-familienrecht",
+      "topic_key": "famil",
+      "topic_label": "Familienrecht",
+      "skill_count": 108,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+      "topic_key": "gewerblicher_rechtsschutz",
+      "topic_label": "Gewerblicher Rechtsschutz",
+      "skill_count": 94,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-handels-gesellschaftsrecht",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 82,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+      "topic_key": "sanierung",
+      "topic_label": "Sanierung, StaRUG und Krisenfrüherkennung",
+      "skill_count": 84,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+      "topic_key": "international",
+      "topic_label": "Internationales Wirtschaftsrecht und grenzueberschreitende Faelle",
+      "skill_count": 79,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-it-recht",
+      "topic_key": "it",
+      "topic_label": "IT-Recht",
+      "skill_count": 140,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-medizinrecht",
+      "topic_key": "medizin",
+      "topic_label": "Medizin- und Gesundheitsrecht",
+      "skill_count": 161,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+      "topic_key": "miet",
+      "topic_label": "Miet- und Wohnungseigentumsrecht",
+      "skill_count": 253,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-migrationsrecht",
+      "topic_key": "migration",
+      "topic_label": "Migrations-, Asyl-, Freizügigkeits- und Staatsangehörigkeitsrecht",
+      "skill_count": 176,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-sozialrecht",
+      "topic_key": "sozial",
+      "topic_label": "Sozialrecht",
+      "skill_count": 116,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-sportrecht",
+      "topic_key": "sport",
+      "topic_label": "Sportrecht",
+      "skill_count": 80,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-strafrecht",
+      "topic_key": "straf",
+      "topic_label": "Strafrecht und Strafverfahren",
+      "skill_count": 243,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-transport-speditionsrecht",
+      "topic_key": "transport_handel",
+      "topic_label": "Transport-, See- und Außenhandelsrecht",
+      "skill_count": 79,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-urheber-medienrecht",
+      "topic_key": "urheber",
+      "topic_label": "Urheber- und Medienrecht",
+      "skill_count": 79,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 123,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-verkehrsrecht",
+      "topic_key": "verkehr",
+      "topic_label": "Straßenverkehrsrecht",
+      "skill_count": 80,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "topic_key": "versicherung",
+      "topic_label": "Versicherungsrecht",
+      "skill_count": 92,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-verwaltungsrecht",
+      "topic_key": "verwaltung",
+      "topic_label": "Verwaltungsrecht",
+      "skill_count": 80,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "factoring-recht",
+      "topic_key": "forderung",
+      "topic_label": "Forderungsmanagement",
+      "skill_count": 63,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "fahrgastrechte",
+      "topic_key": "fahrgast",
+      "topic_label": "Fahrgastrechte im Eisenbahnverkehr",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "fashion-law-moderecht",
+      "topic_key": "gewerblicher_rechtsschutz",
+      "topic_label": "Gewerblicher Rechtsschutz",
+      "skill_count": 51,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "festlandchina-wirtschaftsverkehr",
+      "topic_key": "international",
+      "topic_label": "Internationales Wirtschaftsrecht und grenzueberschreitende Faelle",
+      "skill_count": 199,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "fluggastrechte",
+      "topic_key": "fluggast",
+      "topic_label": "Fluggastrechte",
+      "skill_count": 88,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "forderungsmanagement-klagewerkstatt",
+      "topic_key": "forderung",
+      "topic_label": "Forderungsmanagement",
+      "skill_count": 85,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "forschungszulage-antragstellung",
+      "topic_key": "forschungszulage",
+      "topic_label": "Forschungszulage nach dem FZulG",
+      "skill_count": 85,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "fortbestehensprognose",
+      "topic_key": "sanierung",
+      "topic_label": "Sanierung, StaRUG und Krisenfrüherkennung",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "franchiserecht-praxis",
+      "topic_key": "vertragsgestaltung",
+      "topic_label": "Vertragsgestaltung und Vertragspraxis",
+      "skill_count": 123,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "gebrauchsmusterrecht",
+      "topic_key": "gebrauchsmuster",
+      "topic_label": "Gebrauchsmusterrecht",
+      "skill_count": 51,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "geldwaeschebeauftragter",
+      "topic_key": "geldwaesche",
+      "topic_label": "Geldwäscheprävention und KYC",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-08",
+      "documented_source_check_max": "2026-10-08",
+      "flags": []
+    },
+    {
+      "plugin": "geldwaeschepraevention-aml-kyc",
+      "topic_key": "geldwaesche",
+      "topic_label": "Geldwäscheprävention und KYC",
+      "skill_count": 20,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "gesellschafterstreit",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-02",
+      "documented_source_check_max": "2026-10-09",
+      "flags": [
+        "needs_review",
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "gesellschaftervereinbarung",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-09",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "gesellschaftsgruender",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 114,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "gesellschaftsrecht",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 118,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "gesellschaftsrecht-legal-english",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 54,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "gesellschaftsrechtliche-treuepflicht",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "gewerblicher-rechtsschutz",
+      "topic_key": "gewerblicher_rechtsschutz",
+      "topic_label": "Gewerblicher Rechtsschutz",
+      "skill_count": 82,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "gmbh-gesellschafterversammlung",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 6,
+      "documented_source_check_min": "2026-09-29",
+      "documented_source_check_max": "2026-09-29",
+      "flags": []
+    },
+    {
+      "plugin": "goae-gebuehrenordnung-aerzte",
+      "topic_key": "goae",
+      "topic_label": "Privatärztliches Gebührenrecht nach der GOÄ",
+      "skill_count": 66,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "grosskanzlei-corporate-ma",
+      "topic_key": "ma_finanzierung",
+      "topic_label": "M&A, Beteiligungs- und Finanzierungstransaktionen",
+      "skill_count": 229,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "topic_key": "immobilien",
+      "topic_label": "Immobilien-, Grundbuch- und Notarrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "grundbuchamt-praxis",
+      "topic_key": "immobilien",
+      "topic_label": "Immobilien-, Grundbuch- und Notarrecht",
+      "skill_count": 65,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "grundsteuerrecht",
+      "topic_key": "grundsteuerrecht",
+      "topic_label": "Grundsteuerrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "grundstuecksrecherche",
+      "topic_key": "default",
+      "topic_label": "Deutsches Recht",
+      "skill_count": 2,
+      "documented_source_check_min": null,
+      "documented_source_check_max": null,
+      "flags": [
+        "no_registered_decision_anchor",
+        "no_main_workshop_file"
+      ]
+    },
+    {
+      "plugin": "gvb-reinigungsvergabe",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-10",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "handelsrecht-hgb",
+      "topic_key": "handelsrecht",
+      "topic_label": "Handelsrecht",
+      "skill_count": 57,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "handelsregister-praxis",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 78,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "handelsvertreterrecht",
+      "topic_key": "handelsrecht",
+      "topic_label": "Handelsrecht",
+      "skill_count": 129,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "hausarbeitenmacher",
+      "topic_key": "ausbildung",
+      "topic_label": "Juristische Ausbildung und Falllösung",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "haushaltsrecht-bho-bund-laender",
+      "topic_key": "haushalt",
+      "topic_label": "Haushalts-, Zuwendungs- und Haushaltsvollzugsrecht",
+      "skill_count": 262,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "hinweisgeberschutz-compliance",
+      "topic_key": "hinweisgeber",
+      "topic_label": "Hinweisgeberschutz",
+      "skill_count": 102,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "hoai-leistungsphasen-praxis",
+      "topic_key": "hoai",
+      "topic_label": "HOAI- und Planervertragsrecht",
+      "skill_count": 151,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "hochschulrecht-laender",
+      "topic_key": "bildung",
+      "topic_label": "Bildungs-, Hochschul- und Wissenschaftsrecht",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "immobilienrechtspraxis",
+      "topic_key": "immobilien",
+      "topic_label": "Immobilien-, Grundbuch- und Notarrecht",
+      "skill_count": 63,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "influencer-recht",
+      "topic_key": "influencer",
+      "topic_label": "Creator-, Werbe-, Plattform- und Kooperationsrecht",
+      "skill_count": 130,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "informationsfreiheit-presseauskunft",
+      "topic_key": "informationszugang",
+      "topic_label": "Informationsfreiheit, Umweltinformation und Presseauskunft",
+      "skill_count": 118,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "insiderrecht-compliance",
+      "topic_key": "kapitalmarkt",
+      "topic_label": "Insiderrecht und Kapitalmarkt-Compliance",
+      "skill_count": 112,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "insolvenzanfechtung",
+      "topic_key": "insolvenzanfechtung",
+      "topic_label": "Insolvenzanfechtung aus Verwalter- und Empfängersicht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-21",
+      "documented_source_check_max": "2026-10-22",
+      "flags": []
+    },
+    {
+      "plugin": "insolvenzforderungen-checker",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-22",
+      "flags": []
+    },
+    {
+      "plugin": "insolvenzforderungsanmeldungspruefung",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "insolvenzplan-starug-planwerkstatt",
+      "topic_key": "sanierung",
+      "topic_label": "Sanierung, StaRUG und Krisenfrüherkennung",
+      "skill_count": 58,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "insolvenzrecht",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 99,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "insolvenzsachbearbeitung",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-21",
+      "documented_source_check_max": "2026-10-21",
+      "flags": []
+    },
+    {
+      "plugin": "insolvenzverwaltung",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 53,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-22",
+      "documented_source_check_max": "2026-10-22",
+      "flags": []
+    },
+    {
+      "plugin": "internal-investigations-praxis",
+      "topic_key": "investigations",
+      "topic_label": "Unternehmensinterne Untersuchungen",
+      "skill_count": 110,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "internationales-handelsrecht-lex-mercatoria",
+      "topic_key": "transport_handel",
+      "topic_label": "Transport-, See- und Außenhandelsrecht",
+      "skill_count": 193,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "jura-in-einfacher-sprache",
+      "topic_key": "methodik",
+      "topic_label": "Juristische Methodik und Arbeitstechnik",
+      "skill_count": 5,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "jurastudium",
+      "topic_key": "ausbildung",
+      "topic_label": "Juristische Ausbildung und Falllösung",
+      "skill_count": 58,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "juristische-praesentationen",
+      "topic_key": "juristische-praesentationen",
+      "topic_label": "Juristische Präsentationen",
+      "skill_count": 12,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-09-28",
+      "flags": []
+    },
+    {
+      "plugin": "juristische-presseberichterstattung",
+      "topic_key": "presse",
+      "topic_label": "Juristische Presse- und Redaktionsarbeit",
+      "skill_count": 21,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+      "topic_key": "methodik",
+      "topic_label": "Juristische Methodik und Arbeitstechnik",
+      "skill_count": 56,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "jveg-kostenpruefer",
+      "topic_key": "jveg",
+      "topic_label": "JVEG-Kostenprüfung",
+      "skill_count": 61,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "kanzlei-allgemein",
+      "topic_key": "kanzleibetrieb",
+      "topic_label": "Kanzleibetrieb und Mandatssteuerung",
+      "skill_count": 52,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "kanzlei-builder-hub",
+      "topic_key": "dokumentenworkflow",
+      "topic_label": "Dokumenten- und Vorlagenworkflow",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "kanzlei-management",
+      "topic_key": "kanzleibetrieb",
+      "topic_label": "Kanzleibetrieb und Mandatssteuerung",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "kanzlei-mandant-lifecycle",
+      "topic_key": "kanzleibetrieb",
+      "topic_label": "Kanzleibetrieb und Mandatssteuerung",
+      "skill_count": 116,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "kanzlei-website-redaktion",
+      "topic_key": "kanzleibetrieb",
+      "topic_label": "Kanzleibetrieb und Mandatssteuerung",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-09",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "kartellrecht-marktabgrenzung-pruefung",
+      "topic_key": "kartell",
+      "topic_label": "Kartellrecht",
+      "skill_count": 181,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "ki-governance",
+      "topic_key": "technikregulierung",
+      "topic_label": "Europäische Technikregulierung",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "ki-halluzinationsreduzierer",
+      "topic_key": "fundstellenverifikation",
+      "topic_label": "Juristische Fundstellen am Originalvolltext prüfen",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-18",
+      "documented_source_check_max": "2026-10-19",
+      "flags": []
+    },
+    {
+      "plugin": "ki-native-kanzlei",
+      "topic_key": "kanzleibetrieb",
+      "topic_label": "Kanzleibetrieb und Mandatssteuerung",
+      "skill_count": 30,
+      "documented_source_check_min": "2026-10-07",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "ki-richtlinie-kanzleien",
+      "topic_key": "kanzleibetrieb",
+      "topic_label": "Kanzleibetrieb und Mandatssteuerung",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "ki-verordnung-hochrisiko-pruefer",
+      "topic_key": "technikregulierung",
+      "topic_label": "Europäische Technikregulierung",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "ki-verordnung-konformitaet",
+      "topic_key": "technikregulierung",
+      "topic_label": "Europäische Technikregulierung",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-09",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "ki-verordnung-register-meldungen",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-09",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "ki-verordnung-transparenzpruefer",
+      "topic_key": "technikregulierung",
+      "topic_label": "Europäische Technikregulierung",
+      "skill_count": 8,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "ki-verordnung-verbotene-praktiken",
+      "topic_key": "technikregulierung",
+      "topic_label": "Europäische Technikregulierung",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-09",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "ki-vo-ai-act-pruefer",
+      "topic_key": "technikregulierung",
+      "topic_label": "Europäische Technikregulierung",
+      "skill_count": 123,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-09",
+      "flags": []
+    },
+    {
+      "plugin": "kommunale-haftpflicht",
+      "topic_key": "schadensregulierung",
+      "topic_label": "Schadensregulierung für Unternehmen und Haftpflichtversicherer",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-05",
+      "documented_source_check_max": "2026-10-05",
+      "flags": []
+    },
+    {
+      "plugin": "kommunalrecht-laender",
+      "topic_key": "kommunal",
+      "topic_label": "Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht",
+      "skill_count": 177,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "konkurrenten-rechtsschutz",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 20,
+      "documented_source_check_min": "2026-10-08",
+      "documented_source_check_max": "2026-10-08",
+      "flags": []
+    },
+    {
+      "plugin": "krankenhaus-it-ki",
+      "topic_key": "datenschutz",
+      "topic_label": "Datenschutzrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-06",
+      "documented_source_check_max": "2026-10-06",
+      "flags": []
+    },
+    {
+      "plugin": "krankenhausrecht",
+      "topic_key": "krankenhaus",
+      "topic_label": "Krankenhausplanung, -finanzierung und Krankenhausbetrieb",
+      "skill_count": 69,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "krankenkassenrecht-krankenversicherung",
+      "topic_key": "sozial",
+      "topic_label": "Sozialrecht",
+      "skill_count": 162,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "kriegsdienstverweigerung-wehrdienst",
+      "topic_key": "dienst",
+      "topic_label": "Öffentlicher Dienst, Sicherheits- und Migrationsrecht",
+      "skill_count": 137,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "krisenfrueherkennung-starug",
+      "topic_key": "sanierung",
+      "topic_label": "Sanierung, StaRUG und Krisenfrüherkennung",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "leasingrecht-praxis",
+      "topic_key": "vertragsgestaltung",
+      "topic_label": "Vertragsgestaltung und Vertragspraxis",
+      "skill_count": 118,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "legistik-werkstatt",
+      "topic_key": "normsetzung",
+      "topic_label": "Staatsorganisation, Haushalts- und Normsetzungspraxis",
+      "skill_count": 254,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "liquiditaetsplanung",
+      "topic_key": "liquiditaet",
+      "topic_label": "Liquiditaetsplanung",
+      "skill_count": 74,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-09-30",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "lizenzvertragsersteller",
+      "topic_key": "lizenz",
+      "topic_label": "IP-Lizenzverträge und Technologieverwertung",
+      "skill_count": 33,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "lobbyregister-bundestag",
+      "topic_key": "lobbyregister",
+      "topic_label": "Lobbyregisterrecht",
+      "skill_count": 53,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "luftrecht-flughafenrecht",
+      "topic_key": "luftrecht",
+      "topic_label": "Luftverkehrs-, Flughafen- und Luftaufsichtsrecht",
+      "skill_count": 240,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "mandantenanfragen-assistent",
+      "topic_key": "methodik",
+      "topic_label": "Juristische Methodik und Arbeitstechnik",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "markenamt-assistent",
+      "topic_key": "marke",
+      "topic_label": "Markenrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "markenrecht-fashion-luxus",
+      "topic_key": "marke",
+      "topic_label": "Markenrecht",
+      "skill_count": 89,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "meinungspruefer",
+      "topic_key": "verfass",
+      "topic_label": "Verfassungsrecht",
+      "skill_count": 54,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "memorandums-ersteller",
+      "topic_key": "methodik",
+      "topic_label": "Juristische Methodik und Arbeitstechnik",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "methodenlehre-buergerliches-recht",
+      "topic_key": "ausbildung",
+      "topic_label": "Juristische Ausbildung und Falllösung",
+      "skill_count": 141,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "mietchecker",
+      "topic_key": "miet",
+      "topic_label": "Miet- und Wohnungseigentumsrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "mietrecht",
+      "topic_key": "miet",
+      "topic_label": "Miet- und Wohnungseigentumsrecht",
+      "skill_count": 64,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "mittelstand-corporate-ma",
+      "topic_key": "ma_finanzierung",
+      "topic_label": "M&A, Beteiligungs- und Finanzierungstransaktionen",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "nachbarschaftsstreit-pruefer",
+      "topic_key": "nachbar",
+      "topic_label": "Nachbarrecht und Grundstückskonflikte",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "nda-abgleich",
+      "topic_key": "vertragsgestaltung",
+      "topic_label": "Vertragsgestaltung und Vertragspraxis",
+      "skill_count": 91,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "nda-verschwiegenheit-generator-checker",
+      "topic_key": "vertragsgestaltung",
+      "topic_label": "Vertragsgestaltung und Vertragspraxis",
+      "skill_count": 102,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "nis2-cybersecurity-compliance",
+      "topic_key": "cybersicherheit",
+      "topic_label": "Cybersicherheitsrecht",
+      "skill_count": 103,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "normenkontrolle-bauleitplanung",
+      "topic_key": "bauplanung",
+      "topic_label": "Bauleitplanung, Normenkontrolle und städtebauliche Verträge",
+      "skill_count": 109,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "normenkontrollrat-nkr",
+      "topic_key": "nkr",
+      "topic_label": "Normenkontrollrat, Erfüllungsaufwand und bessere Rechtsetzung",
+      "skill_count": 64,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "notariat-alltag",
+      "topic_key": "notariat",
+      "topic_label": "Notariatswerkstatt für Mitarbeiter und Registervorbereitung",
+      "skill_count": 20,
+      "documented_source_check_min": "2026-09-23",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "oeffentliches-wirtschaftsrecht",
+      "topic_key": "wirtschaftsverwaltung",
+      "topic_label": "Öffentliches Wirtschaftsrecht und Gewerbeaufsicht",
+      "skill_count": 120,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "ordnungswidrigkeitenrecht",
+      "topic_key": "owi_praxis",
+      "topic_label": "Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung",
+      "skill_count": 134,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "parteienrecht-parteiorganisation",
+      "topic_key": "parteienrecht",
+      "topic_label": "Parteienrecht und Parteiorganisation",
+      "skill_count": 111,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "patentrecherche",
+      "topic_key": "patent",
+      "topic_label": "Patentrecht",
+      "skill_count": 58,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "patentrecht",
+      "topic_key": "patent",
+      "topic_label": "Patentrecht",
+      "skill_count": 61,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "pflegerecht-sgb-xi",
+      "topic_key": "sozial",
+      "topic_label": "Sozialrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-30",
+      "documented_source_check_max": "2026-10-16",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "phishing-vorfall-pruefer",
+      "topic_key": "phishing",
+      "topic_label": "Phishing und nicht autorisierte Zahlungsvorgänge",
+      "skill_count": 61,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "playbook-pruefer",
+      "topic_key": "vertragsgestaltung",
+      "topic_label": "Vertragsgestaltung und Vertragspraxis",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-02",
+      "documented_source_check_max": "2026-10-02",
+      "flags": []
+    },
+    {
+      "plugin": "preussisches-allgemeines-landrecht-pralr",
+      "topic_key": "pralr",
+      "topic_label": "Allgemeines Landrecht für die Preußischen Staaten",
+      "skill_count": 69,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "private-equity-praxis",
+      "topic_key": "ma_finanzierung",
+      "topic_label": "M&A, Beteiligungs- und Finanzierungstransaktionen",
+      "skill_count": 109,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "produktrecht",
+      "topic_key": "produkt",
+      "topic_label": "Produktrecht und Produkthaftung",
+      "skill_count": 70,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "projekteinkauf-baubranche",
+      "topic_key": "bau",
+      "topic_label": "Bau- und Architektenrecht",
+      "skill_count": 9,
+      "documented_source_check_min": "2026-11-09",
+      "documented_source_check_max": "2026-11-09",
+      "flags": []
+    },
+    {
+      "plugin": "prozessrecht",
+      "topic_key": "zivilprozess",
+      "topic_label": "Zivilprozess und Relation",
+      "skill_count": 65,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "pruefungsrecht-hochschule",
+      "topic_key": "bildung",
+      "topic_label": "Bildungs-, Hochschul- und Wissenschaftsrecht",
+      "skill_count": 109,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+      "topic_key": "forderung",
+      "topic_label": "Forderungsmanagement",
+      "skill_count": 50,
+      "documented_source_check_min": null,
+      "documented_source_check_max": null,
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "rechtsberatungsstelle",
+      "topic_key": "methodik",
+      "topic_label": "Juristische Methodik und Arbeitstechnik",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "rechtstheorie-rechtsphilosophie",
+      "topic_key": "ausbildung",
+      "topic_label": "Juristische Ausbildung und Falllösung",
+      "skill_count": 66,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "regulatorisches-recht",
+      "topic_key": "regulierung",
+      "topic_label": "Regulierungs- und Wirtschaftsverwaltungsrecht",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "relationstechnik-zivilrecht",
+      "topic_key": "justiz_zivil",
+      "topic_label": "Zivilrichterliche Arbeit: Relation, Verhandlung und Urteil",
+      "skill_count": 23,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "rentenpruefer",
+      "topic_key": "renten",
+      "topic_label": "Rentenrecht",
+      "skill_count": 73,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "richter-amtsgericht-handelsregister",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 13,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 13,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-amtsgericht-straf",
+      "topic_key": "strafjustiz",
+      "topic_label": "Strafjustiz: Anklage, Hauptverhandlung und Rechtsfolgen",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-amtsgericht-zivil",
+      "topic_key": "justiz_zivil",
+      "topic_label": "Zivilrichterliche Arbeit: Relation, Verhandlung und Urteil",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "richter-arbeitsgericht",
+      "topic_key": "arbeits",
+      "topic_label": "Arbeitsrecht",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-bverfg-verfassungsbeschwerden",
+      "topic_key": "verfass",
+      "topic_label": "Verfassungsrecht",
+      "skill_count": 13,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-familiengericht",
+      "topic_key": "famil",
+      "topic_label": "Familienrecht",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-finanzgericht",
+      "topic_key": "finanzgericht",
+      "topic_label": "Finanzgerichtliche Dezernats- und Entscheidungspraxis",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "richter-landgericht-strafkammer",
+      "topic_key": "strafjustiz",
+      "topic_label": "Strafjustiz: Anklage, Hauptverhandlung und Rechtsfolgen",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-landgericht-zivilkammer",
+      "topic_key": "justiz_zivil",
+      "topic_label": "Zivilrichterliche Arbeit: Relation, Verhandlung und Urteil",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-sozialgericht",
+      "topic_key": "sozial",
+      "topic_label": "Sozialrecht",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "richter-verwaltungsgericht",
+      "topic_key": "verwaltungsgericht",
+      "topic_label": "Verwaltungsgerichtliche Dezernats- und Entscheidungspraxis",
+      "skill_count": 14,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "robotik-recht",
+      "topic_key": "produkt",
+      "topic_label": "Produktrecht und Produkthaftung",
+      "skill_count": 213,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "roemisch-katholisches-kirchenrecht",
+      "topic_key": "kirchenrecht",
+      "topic_label": "Katholisches Kirchenrecht",
+      "skill_count": 127,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "roemisches-recht",
+      "topic_key": "roemisch",
+      "topic_label": "Römisches Recht und seine Rezeption",
+      "skill_count": 281,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "schadensregulierung",
+      "topic_key": "schadensregulierung",
+      "topic_label": "Schadensregulierung für Unternehmen und Haftpflichtversicherer",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "schoeffen-handelsrichter-praxis",
+      "topic_key": "ehrenamtliche_richter",
+      "topic_label": "Schöffen, Handelsrichter und ehrenamtliche Richter",
+      "skill_count": 82,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "schriftform-und-textform-bgb",
+      "topic_key": "bgb",
+      "topic_label": "Bürgerliches Recht und Vertragsrecht",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "schriftsatz-versandwerkstatt",
+      "topic_key": "dokumentenworkflow",
+      "topic_label": "Dokumenten- und Vorlagenworkflow",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "schriftsatzwerkstatt-bea",
+      "topic_key": "default",
+      "topic_label": "Deutsches Recht",
+      "skill_count": 9,
+      "documented_source_check_min": null,
+      "documented_source_check_max": null,
+      "flags": [
+        "no_registered_decision_anchor",
+        "no_main_workshop_file"
+      ]
+    },
+    {
+      "plugin": "schulrecht-laender",
+      "topic_key": "bildung",
+      "topic_label": "Bildungs-, Hochschul- und Wissenschaftsrecht",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "seerecht-schifffahrtsrecht",
+      "topic_key": "transport_handel",
+      "topic_label": "Transport-, See- und Außenhandelsrecht",
+      "skill_count": 239,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "sektorenvergabe-workflow",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-02",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "selbstvertreter-amtsgericht",
+      "topic_key": "zivilprozess",
+      "topic_label": "Zivilprozess und Relation",
+      "skill_count": 90,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "selbstvertreter-sozialgericht",
+      "topic_key": "sozial",
+      "topic_label": "Sozialrecht",
+      "skill_count": 139,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "softwarerecht-de-eu-us",
+      "topic_key": "it",
+      "topic_label": "IT-Recht",
+      "skill_count": 106,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "solo-selbststaendige-praxis",
+      "topic_key": "selbststaendige",
+      "topic_label": "Solo-Selbstständigkeit",
+      "skill_count": 202,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "sozialrecht-fuer-laien",
+      "topic_key": "sozial",
+      "topic_label": "Sozialrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-30",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "sozialversicherungspflicht-pruefer",
+      "topic_key": "versicherung",
+      "topic_label": "Versicherungsrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-25",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "sozialversicherungsstatus-pruefer",
+      "topic_key": "sozialstatus",
+      "topic_label": "Sozialversicherungsstatus",
+      "skill_count": 102,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+      "topic_key": "strafjustiz",
+      "topic_label": "Strafjustiz: Anklage, Hauptverhandlung und Rechtsfolgen",
+      "skill_count": 32,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "staatsanwaltschaft-praxis-einstieg",
+      "topic_key": "strafjustiz",
+      "topic_label": "Strafjustiz: Anklage, Hauptverhandlung und Rechtsfolgen",
+      "skill_count": 146,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "startup-gruender",
+      "topic_key": "gesellschaft",
+      "topic_label": "Gesellschaftsrecht",
+      "skill_count": 18,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "startup-hr-personalabteilung-berlin",
+      "topic_key": "hr",
+      "topic_label": "Personalabteilung und HR-Operations",
+      "skill_count": 112,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "status-navigator-step-plan",
+      "topic_key": "dokumentenworkflow",
+      "topic_label": "Dokumenten- und Vorlagenworkflow",
+      "skill_count": 36,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-22",
+      "flags": []
+    },
+    {
+      "plugin": "steuerrecht-anwalt-und-berater",
+      "topic_key": "steuer",
+      "topic_label": "Steuerrecht",
+      "skill_count": 239,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-11-10",
+      "flags": []
+    },
+    {
+      "plugin": "strafanzeige-vorbereiter",
+      "topic_key": "straf",
+      "topic_label": "Strafrecht und Strafverfahren",
+      "skill_count": 57,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "strafbefehl-verteidiger",
+      "topic_key": "straf",
+      "topic_label": "Strafrecht und Strafverfahren",
+      "skill_count": 61,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "strafvollzug-jva",
+      "topic_key": "straf",
+      "topic_label": "Strafrecht und Strafverfahren",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-16",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "strafzumessung",
+      "topic_key": "strafjustiz",
+      "topic_label": "Strafjustiz: Anklage, Hauptverhandlung und Rechtsfolgen",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "strassennutzung-genehmigungen",
+      "topic_key": "strassennutzung-genehmigungen",
+      "topic_label": "Straßennutzung und Genehmigungen",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "strassenrecht-infrastruktur",
+      "topic_key": "strassenrecht",
+      "topic_label": "Öffentliches Straßen- und Wegerecht",
+      "skill_count": 127,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "strassenverkehrsrecht-stvo",
+      "topic_key": "stvo",
+      "topic_label": "Straßenverkehrsrechtliche Anordnungen nach der StVO",
+      "skill_count": 118,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "subsumtions-pruefer",
+      "topic_key": "ausbildung",
+      "topic_label": "Juristische Ausbildung und Falllösung",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "tabellenreview-3d",
+      "topic_key": "dokumentenworkflow",
+      "topic_label": "Dokumenten- und Vorlagenworkflow",
+      "skill_count": 84,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "telekommunikationsrecht",
+      "topic_key": "telekom",
+      "topic_label": "Telekommunikationsrecht",
+      "skill_count": 58,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "tierschutzrecht",
+      "topic_key": "tierschutz",
+      "topic_label": "Tierschutzrecht",
+      "skill_count": 129,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "transparenzregister-assistent",
+      "topic_key": "geldwaesche",
+      "topic_label": "Geldwäscheprävention und KYC",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-01",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "umweltrecht",
+      "topic_key": "umweltplanung",
+      "topic_label": "Umwelt-, Planungs- und Infrastrukturrecht",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "umweltschutzverband-verbandsklage",
+      "topic_key": "umweltverband",
+      "topic_label": "Umweltverbandsklage und projektbezogener Rechtsschutz",
+      "skill_count": 113,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "un-kaufrecht-cisg",
+      "topic_key": "transport_handel",
+      "topic_label": "Transport-, See- und Außenhandelsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-10-18",
+      "documented_source_check_max": "2026-10-18",
+      "flags": []
+    },
+    {
+      "plugin": "untersuchungshaft",
+      "topic_key": "straf",
+      "topic_label": "Strafrecht und Strafverfahren",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-16",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "urheberrecht-de-eu",
+      "topic_key": "urheber",
+      "topic_label": "Urheber- und Medienrecht",
+      "skill_count": 65,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "urteilsbauer-relationsmacher",
+      "topic_key": "justiz_zivil",
+      "topic_label": "Zivilrichterliche Arbeit: Relation, Verhandlung und Urteil",
+      "skill_count": 84,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "us-bankruptcy-code",
+      "topic_key": "us_insolvency",
+      "topic_label": "US-Insolvenzrecht und grenzüberschreitende Restrukturierung",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "us-copyright-registrierung-verlag",
+      "topic_key": "us_copyright",
+      "topic_label": "US Copyright, Registrierung und Rechteverwertung",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "us-sanktionspruefer",
+      "topic_key": "transport_handel",
+      "topic_label": "Transport-, See- und Außenhandelsrecht",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-10-21",
+      "documented_source_check_max": "2026-10-21",
+      "flags": []
+    },
+    {
+      "plugin": "venture-capital-geber",
+      "topic_key": "ma_finanzierung",
+      "topic_label": "M&A, Beteiligungs- und Finanzierungstransaktionen",
+      "skill_count": 106,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "verarbeitungsverzeichnis",
+      "topic_key": "datenschutz",
+      "topic_label": "Datenschutzrecht",
+      "skill_count": 8,
+      "documented_source_check_min": "2026-10-10",
+      "documented_source_check_max": "2026-10-10",
+      "flags": []
+    },
+    {
+      "plugin": "verbraucher-rechtsstaat-alltag",
+      "topic_key": "verbraucher",
+      "topic_label": "Verbraucherrecht und Verbandsdurchsetzung",
+      "skill_count": 67,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 70,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "verbraucherschutzrecht-pruefer",
+      "topic_key": "verbraucher",
+      "topic_label": "Verbraucherrecht und Verbandsdurchsetzung",
+      "skill_count": 148,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "verbraucherschutzverband-durchsetzung",
+      "topic_key": "verbraucher",
+      "topic_label": "Verbraucherrecht und Verbandsdurchsetzung",
+      "skill_count": 122,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "vereinsrecht-vereinsmanager",
+      "topic_key": "verein",
+      "topic_label": "Vereinsrecht",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "verfassungsrecht",
+      "topic_key": "verfass",
+      "topic_label": "Verfassungsrecht",
+      "skill_count": 69,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "vergabestelle-behoerden",
+      "topic_key": "vergabe",
+      "topic_label": "Vergaberecht",
+      "skill_count": 122,
+      "documented_source_check_min": "2026-10-08",
+      "documented_source_check_max": "2026-10-08",
+      "flags": []
+    },
+    {
+      "plugin": "vergesellschaftung-artikel-15",
+      "topic_key": "verfass",
+      "topic_label": "Verfassungsrecht",
+      "skill_count": 9,
+      "documented_source_check_min": "2026-09-28",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "verhaeltnismaessigkeitspruefer",
+      "topic_key": "verfass",
+      "topic_label": "Verfassungsrecht",
+      "skill_count": 86,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "verkehr-infrastrukturrecht",
+      "topic_key": "umweltplanung",
+      "topic_label": "Umwelt-, Planungs- und Infrastrukturrecht",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "verkehrsowi-verteidiger",
+      "topic_key": "straf",
+      "topic_label": "Strafrecht und Strafverfahren",
+      "skill_count": 61,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "verlagsrecht-buchpreisbindung",
+      "topic_key": "verlag",
+      "topic_label": "Verlags-, Buchpreisbindungs- und Rechtekettenrecht",
+      "skill_count": 101,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "verlagsredaktion",
+      "topic_key": "presse",
+      "topic_label": "Juristische Presse- und Redaktionsarbeit",
+      "skill_count": 118,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-09-25",
+      "flags": []
+    },
+    {
+      "plugin": "versammlungsrecht",
+      "topic_key": "versammlung",
+      "topic_label": "Versammlungsrecht",
+      "skill_count": 56,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "versicherungsrecht",
+      "topic_key": "versicherung",
+      "topic_label": "Versicherungsrecht",
+      "skill_count": 65,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-30",
+      "flags": []
+    },
+    {
+      "plugin": "vertragsausfueller",
+      "topic_key": "vertragsgestaltung",
+      "topic_label": "Vertragsgestaltung und Vertragspraxis",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "vertragserstellung",
+      "topic_key": "vertragserstellung",
+      "topic_label": "Vertragserstellung: zehn Wege zum B2B-Vertrag",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-23",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "vertragsrecht",
+      "topic_key": "vertragsgestaltung",
+      "topic_label": "Vertragsgestaltung und Vertragspraxis",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-01",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "wahlkampfrecht-praxis",
+      "topic_key": "verfass",
+      "topic_label": "Verfassungsrecht",
+      "skill_count": 121,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "wandeldarlehen-lebenszyklus",
+      "topic_key": "ma_finanzierung",
+      "topic_label": "M&A, Beteiligungs- und Finanzierungstransaktionen",
+      "skill_count": 54,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "weg-hausverwaltung",
+      "topic_key": "weg",
+      "topic_label": "Wohnungseigentums- und Hausverwaltungsrecht",
+      "skill_count": 93,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-10-02",
+      "flags": [
+        "heuristic_date_conflict"
+      ]
+    },
+    {
+      "plugin": "weltraumrecht",
+      "topic_key": "weltraum",
+      "topic_label": "Weltraumrecht",
+      "skill_count": 181,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "wirtschaftsanwalt",
+      "topic_key": "wirtschaftsanwalt",
+      "topic_label": "Wirtschaftsanwalt: laufende Unternehmensberatung",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-23",
+      "documented_source_check_max": "2026-09-23",
+      "flags": [
+        "needs_review"
+      ]
+    },
+    {
+      "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "topic_key": "dokumentenworkflow",
+      "topic_label": "Dokumenten- und Vorlagenworkflow",
+      "skill_count": 53,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-10-01",
+      "flags": []
+    },
+    {
+      "plugin": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+      "topic_key": "insolvenz",
+      "topic_label": "Insolvenz- und Sanierungsrecht",
+      "skill_count": 11,
+      "documented_source_check_min": "2026-11-13",
+      "documented_source_check_max": "2026-11-13",
+      "flags": []
+    },
+    {
+      "plugin": "zitierweise-deutsches-recht",
+      "topic_key": "methodik",
+      "topic_label": "Juristische Methodik und Arbeitstechnik",
+      "skill_count": 84,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "zugewinnausgleich",
+      "topic_key": "zugewinnausgleich",
+      "topic_label": "Zugewinnausgleich",
+      "skill_count": 10,
+      "documented_source_check_min": "2026-09-22",
+      "documented_source_check_max": "2026-10-16",
+      "flags": []
+    },
+    {
+      "plugin": "zwangsverwaltung-zvg",
+      "topic_key": "zwangsverwaltung",
+      "topic_label": "Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG",
+      "skill_count": 59,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    },
+    {
+      "plugin": "zwangsvollstreckung",
+      "topic_key": "vollstreckung",
+      "topic_label": "Zwangsvollstreckung",
+      "skill_count": 60,
+      "documented_source_check_min": "2026-09-14",
+      "documented_source_check_max": "2026-09-23",
+      "flags": []
+    }
+  ]
+}

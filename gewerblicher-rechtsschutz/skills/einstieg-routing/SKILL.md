@@ -11,21 +11,21 @@ Dieser Einstieg routet **Gewerblicher Rechtsschutz** vom ersten Sachverhalt zu R
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-compliance-dokumentation-und-akte` — Abmahnung Compliance Dokumentation und Akte
-- `abmahnung-urheberrecht-erfindungsmeldung` — Abmahnung Urheberrecht Erfindungsmeldung
-- `anmeldung-spezial-compliance-euipo` — Anmeldung Spezial Compliance Euipo
-- `anpassen` — Anpassen
-- `compliance-mandantenkommunikation-entscheidungsvorlage` — Compliance Mandantenkommunikation Entscheidungsvorlage
-- `dpma-fristen-form-und-zustaendigkeit` — Dpma Fristen Form und Zustaendigkeit
-- `erfindungsmeldung-aufnahme` — Erfindungsmeldung Aufnahme
-- `euipo-dokumentenmatrix-und-lueckenliste` — Euipo Dokumentenmatrix und Lueckenliste
-- `evvollzug-auslandszustellung-ev-abmahnung` — Evvollzug Auslandszustellung EV Abmahnung
-- `evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist` — Evvollzug NEU 001 Einstweilige Verfuegung Vollziehung Frist
-- `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust` — Evvollzug NEU 002 Urteilsverfuegung Beschlussverfuegung und Zust
-- `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi` — Evvollzug NEU 004 BEA Zustellung Einstweiliger Rechtsschutz Risi
-- `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun` — Evvollzug NEU 005 Ordnungsmittelantrag Vollstreckung Unterlassun
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `verfahrensstrategie-bearbeiten` (Fachthema: abmahnung-compliance-dokumentation-und-akte) — Abmahnung Compliance Dokumentation und Akte
+- `arbeitsprodukt-bearbeiten` (Fachthema: abmahnung-urheberrecht-erfindungsmeldung) — Abmahnung Urheberrecht Erfindungsmeldung
+- `rechtsbestand-und-register-bearbeiten` (Fachthema: anmeldung-spezial-compliance-euipo) — Anmeldung Spezial Compliance Euipo
+- `rechtsposition-bearbeiten` (Fachthema: anpassen) — Anpassen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: compliance-mandantenkommunikation-entscheidungsvorlage) — Compliance Mandantenkommunikation Entscheidungsvorlage
+- `verfahrensstrategie-bearbeiten` (Fachthema: dpma-fristen-form-und-zustaendigkeit) — Dpma Fristen Form und Zustaendigkeit
+- `rechtsposition-bearbeiten` (Fachthema: erfindungsmeldung-aufnahme) — Erfindungsmeldung Aufnahme
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: euipo-dokumentenmatrix-und-lueckenliste) — Euipo Dokumentenmatrix und Lueckenliste
+- `arbeitsprodukt-bearbeiten` (Fachthema: evvollzug-auslandszustellung-ev-abmahnung) — Evvollzug Auslandszustellung EV Abmahnung
+- `verfahrensstrategie-bearbeiten` (Fachthema: evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist) — Evvollzug NEU 001 Einstweilige Verfuegung Vollziehung Frist
+- `rechtsposition-bearbeiten` (Fachthema: evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust) — Evvollzug NEU 002 Urteilsverfuegung Beschlussverfuegung und Zust
+- `rechtsposition-bearbeiten` (Fachthema: evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi) — Evvollzug NEU 004 BEA Zustellung Einstweiliger Rechtsschutz Risi
+- `arbeitsprodukt-bearbeiten` (Fachthema: evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun) — Evvollzug NEU 005 Ordnungsmittelantrag Vollstreckung Unterlassun
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

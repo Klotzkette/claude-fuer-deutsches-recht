@@ -31,7 +31,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/fortbestehensprognose-paragrafix-gmbh/`.
 
-**Schritt 1 — Kaltstart:** `/insolvenzrecht:kaltstart-interview` → liest Jahresabschluss, ausstehende Forderungen, Bürgschaften, Sanierungsoptionen.
+**Schritt 1 — Kaltstart:** `/insolvenzrecht:verfahrenssteuerung-glaeubigerkommunikation-bearbeiten Thema: kaltstart-interview` → liest Jahresabschluss, ausstehende Forderungen, Bürgschaften, Sanierungsoptionen.
 
 **Schritt 2 — Prognose:** `/insolvenzrecht:liquiditaetsvorschau-insolvenzrechtlich` → 13-Wochen-Plan und Fortbestehensprognose-Skizze.
 
@@ -45,7 +45,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/fluggastrechte-familie-braeutigam/`.
 
-**Schritt 1 — Kaltstart:** `/fluggastrechte:kaltstart-interview` → erkennt Buchung, Annullierung, Anschlussflug, Passagieranzahl, Entfernung.
+**Schritt 1 — Kaltstart:** `/fluggastrechte:verfahren-bearbeiten Thema: kaltstart-interview` → erkennt Buchung, Annullierung, Anschlussflug, Passagieranzahl, Entfernung.
 
 **Schritt 2 — Anspruch & Schreiben:** Skill für Ausgleichszahlung nach VO (EG) 261/2004.
 
@@ -59,7 +59,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/sozialrecht-rollstuhl-tannenberg/`.
 
-**Schritt 1 — Kaltstart:** `/fachanwalt-sozialrecht:sozialrecht-kanzlei-kaltstart-interview` → liest Bescheid, ärztliche Stellungnahmen, Versorgungsvorschläge.
+**Schritt 1 — Kaltstart:** `/fachanwalt-sozialrecht:leistung-und-anspruch-bearbeiten Thema: sozialrecht-kanzlei-kaltstart-interview` → liest Bescheid, ärztliche Stellungnahmen, Versorgungsvorschläge.
 
 **Schritt 2 — Widerspruch:** Widerspruchsschrift gegen Kostenträger.
 
@@ -73,7 +73,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/betreuung-hildegard-sauer/`.
 
-**Schritt 1 — Kaltstart:** `/betreuungsrecht:kaltstart-interview` → erkennt Verfahrensart (Erstbestellung / Verlängerung / Aufgabenkreis-Erweiterung), Betroffene, Aufgabenkreise.
+**Schritt 1 — Kaltstart:** `/betreuungsrecht:person-und-verfahren-bearbeiten Thema: kaltstart-interview` → erkennt Verfahrensart (Erstbestellung / Verlängerung / Aufgabenkreis-Erweiterung), Betroffene, Aufgabenkreise.
 
 **Schritt 2 — Stellungnahme:** Betreuerstellungnahme nach § 1863 BGB n. F. (Stand BtOG-Reform 2023).
 
@@ -83,7 +83,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Zusatz-Eingang Kontodaten:** `testakten/betreuung-schmalfeld-kontodaten-vertraege/`.
 
-**Zusatz-Schritt — Verdachtsprüfung:** `/betreuungsrecht:kontodaten-vertragsverdacht-pruefung` → liest Kontoauszüge, Vertragsregister und Verdachtsliste.
+**Zusatz-Schritt — Verdachtsprüfung:** `/betreuungsrecht:entscheidung-und-genehmigung-bearbeiten Thema: kontodaten-vertragsverdacht-pruefung` → liest Kontoauszüge, Vertragsregister und Verdachtsliste.
 
 **Erwarteter Zusatz-Output:** Ampeltabelle mit akuten Treffern für angebliche Sicherheitskautionen, Fernwartung/Sicherheitssoftware, Auslandsanlage, Spanien-Reservierung und Windpark-Beteiligung; private Hilfezahlungen werden nur als belegbedürftig, nicht pauschal als Betrug eingeordnet.
 
@@ -97,7 +97,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Schritt 1 — Kaltstart:** `/berufsrecht-ki-vertragspruefung:berufsrecht-ki-vertragspruefung-kaltstart-interview` → fragt nach Vertragsart, Parteien, Risikofokus.
 
-**Schritt 2 — Gutachten:** `/berufsrecht-ki-vertragspruefung:gutachten-erstellen`.
+**Schritt 2 — Gutachten:** `/berufsrecht-ki-vertragspruefung:verguetung-und-vermoegenspflichten-bearbeiten Thema: gutachten-erstellen`.
 
 **Erwarteter Output:** Gutachten-Skizze mit Hinweis auf Berufspflichten (insbesondere § 43e BRAO zum KI-Einsatz in der Anwaltskanzlei), Mandatsgeheimnis (§ 203 StGB), DSGVO-Risiken bei Datenexport an LLM-Provider.
 
@@ -137,11 +137,11 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** Eigener Forderungsfall (Rechnung, Mahnungen, Korrespondenz) oder `testakten/inkasso-zahlungsklage-modefuchs/`.
 
-**Schritt 1 — Kaltstart:** `/forderungsmanagement-klagewerkstatt:klagevorlage-aus-eigenen-mustern` → erkennt Hauptforderung, Mahnverlauf, B2B/B2C-Konstellation.
+**Schritt 1 — Kaltstart:** `/forderungsmanagement-klagewerkstatt:arbeitsprodukt-bearbeiten Thema: klagevorlage-aus-eigenen-mustern` → erkennt Hauptforderung, Mahnverlauf, B2B/B2C-Konstellation.
 
 **Schritt 2 — Verzugszinsen:** `python3 werkzeuge/verzugszins_rechner.py --forderung <eur> --beginn <datum> --art b2b`.
 
-**Schritt 3 — Inkasso-Gate:** `/forderungsmanagement-klagewerkstatt:inkasso-zahlungsklage-ersteller` oder aus dem Repository-Wurzelverzeichnis `python forderungsmanagement-klagewerkstatt/scripts/inkasso_claim_gate.py --input quality/fixtures/modefuchs/08_claim_gate_input.json`. Ohne `--output` bleibt die Lauf-Ausgabe auf der Standardausgabe; sie wird nicht in die Arbeitsakte geschrieben. Die getrennten Prüfdaten gehören nicht zu den Akten-Downloads.
+**Schritt 3 — Inkasso-Gate:** `/forderungsmanagement-klagewerkstatt:aktenkern-bearbeiten Thema: inkasso-zahlungsklage-ersteller` oder aus dem Repository-Wurzelverzeichnis `python forderungsmanagement-klagewerkstatt/scripts/inkasso_claim_gate.py --input quality/fixtures/modefuchs/08_claim_gate_input.json`. Ohne `--output` bleibt die Lauf-Ausgabe auf der Standardausgabe; sie wird nicht in die Arbeitsakte geschrieben. Die getrennten Prüfdaten gehören nicht zu den Akten-Downloads.
 
 **Erwarteter Output:** Aufstellung mit allen Basiszinsperioden zwischen Verzugsbeginn und Berechnungstag, taggenaue Zinsen, Endsumme. Beim ModeFuchs-Fall zusätzlich: Hauptforderung 698,00 EUR `ROT`, Nebenforderungen 99,84 EUR `GELB`, keine Klage über 797,84 EUR.
 
@@ -183,7 +183,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** Mandatsdatenraum mit Streitwert, Tätigkeitsbeschreibung, Auslagen.
 
-**Schritt 1 — Kaltstart:** `/kanzlei-allgemein:kanzlei-cowork-kaltstart-interview`.
+**Schritt 1 — Kaltstart:** `/kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: kanzlei-cowork-kaltstart-interview`.
 
 **Schritt 2 — Rechnung & Plausibilisieren:** `python3 werkzeuge/rvg_gebuehrenrechner.py --wert 25000 --faktor 1.3` zum schnellen Quercheck.
 

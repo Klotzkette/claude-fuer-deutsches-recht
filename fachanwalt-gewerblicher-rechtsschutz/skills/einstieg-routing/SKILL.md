@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt Gewerblicher Rechtsschutz** vom ersten Sachv
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-formular-portal-und-einreichung` — Abmahnung Bezuege Designg
-- `workflow-chronologie-und-belegmatrix` — Chronologie Belegmatrix Fristen Risikoampel
-- `design-neuheit-offenbarung-pruefen` — Designneuheit und Offenbarung prüfen
-- `eu-design-schutzumfang-gesamteindruck-pruefen` — Schutzumfang eines Unionsdesigns prüfen
-- `designverletzung-fehlerkatalog` — Designverletzung Fehlerkatalog
-- `designverletzung` — Designverletzung Marken Widerspruch
-- `domainrecht-loeschung-und-uebertragung-pruefen` — 1. Domainkonflikt bearbeiten
-- `dpma-mehrparteien-konflikt-und-interessen` — Dpma Interessen Einstweilige Euipo
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme Abmahnung UWG
-- `hashtagmarke-unterscheidungskraft-pruefen` — Hashtagmarke und Unterscheidungskraft prüfen
-- `einstieg-schnelltriage-fallrouting` — FA Gewerblicher RS GR Abmahnung Portfolio
-- `erstpruefung-und-mandatsziel` — Fachanwalt FAO Gebrmg
-- `workflow-redteam-qualitygate` — Faevvollzug Abschlussschreiben Lizenzanaloger
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `verfahrensstrategie-bearbeiten` (Fachthema: abmahnung-formular-portal-und-einreichung) — Abmahnung Bezuege Designg
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: workflow-chronologie-und-belegmatrix) — Chronologie Belegmatrix Fristen Risikoampel
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: design-neuheit-offenbarung-pruefen) — Designneuheit und Offenbarung prüfen
+- `verfahrensstrategie-bearbeiten` (Fachthema: eu-design-schutzumfang-gesamteindruck-pruefen) — Schutzumfang eines Unionsdesigns prüfen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: designverletzung-fehlerkatalog) — Designverletzung Fehlerkatalog
+- `rechtsposition-bearbeiten` (Fachthema: designverletzung) — Designverletzung Marken Widerspruch
+- `rechtsbestand-und-register-bearbeiten` (Fachthema: domainrecht-loeschung-und-uebertragung-pruefen) — 1. Domainkonflikt bearbeiten
+- `rechtsposition-bearbeiten` (Fachthema: dpma-mehrparteien-konflikt-und-interessen) — Dpma Interessen Einstweilige Euipo
+- `rechtsbestand-und-register-bearbeiten` (Fachthema: erstgespraech-mandatsannahme) — Erstgespraech Mandatsannahme Abmahnung UWG
+- `arbeitsprodukt-bearbeiten` (Fachthema: hashtagmarke-unterscheidungskraft-pruefen) — Hashtagmarke und Unterscheidungskraft prüfen
+- `verfahrensstrategie-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — FA Gewerblicher RS GR Abmahnung Portfolio
+- `rechtsposition-bearbeiten` (Fachthema: erstpruefung-und-mandatsziel) — Fachanwalt FAO Gebrmg
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: workflow-redteam-qualitygate) — Faevvollzug Abschlussschreiben Lizenzanaloger
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

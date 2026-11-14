@@ -21,6 +21,15 @@ from quality_lab import ROOT, LabError, load, marketplace, validate_focus_review
 # expliziten Dateistände sind keine neue juristische Vollprüfung. Änderungen
 # benötigen einen gezielten Abgleich; unbekannte Abweichungen bleiben Fehler.
 CURATED_CITATIONS = {
+    # Vollständig gelesene Quellenregeln am 14.11.2026; begrenzter Scope und
+    # ursprüngliche Dateihashes: quality/source-audits/2026-11-14/zitierregeln-nachpruefung.json.
+    "arbeitsrecht-kuendigungsschutzklagewerkstatt": ("references/zitierweise.md", "8f5c02e8d1b651e4eccbeff6b05b5f08c7ca24580d394dadfd5d4f643973a8e9"),
+    "eu-sanktionspruefer": ("references/zitierweise.md", "7f1254505404e2396cd5aecf493956fef66928b094c4619db2fa08fa9506a854"),
+    "insolvenzanfechtung": ("references/zitierweise.md", "cff5364d39a931312a76ae94ec92e99492ceeac7b8e141e16f5e54a777b3d142"),
+    "insolvenzsachbearbeitung": ("references/zitierweise.md", "94d5b19f44335b5873cdf110b0c5869393b7bfce23c83975abb8bf15167c249f"),
+    "ki-halluzinationsreduzierer": ("references/zitierweise.md", "a80babef3737a552cff8289f4eefef494b26933cd92afa16c772f5f20805f38f"),
+    "un-kaufrecht-cisg": ("references/zitierweise.md", "d1a6010cd9385a7d5abbd225ee31230b60dc46ebda53b82167fd78b5c3ec3e7e"),
+    "us-sanktionspruefer": ("references/zitierweise.md", "b0ac2f966572503a51dea3cb366edc676144d3169c70dfd1f9a439db53ce5441"),
     "gesellschaftervereinbarung": ("references/rechtsquellen.md", "eee336e3ace832e04f8c958b74c7cf2291a513ad73b0e7057dade483b4b90c3c"),
     "agb-werkstatt": ("references/arbeitsweise.md", "3187afd88f3b31e8774e70d4e5f941ec6420aa31e2666ddc8613f2aae97e1250"),
     "geldwaeschebeauftragter": ("references/zitierweise.md", "214a2330a21287e1dc54063c1ff3e12ec3382ea2fa40d3c65af29d86755ec288"),
@@ -247,6 +256,19 @@ class SchwerpunktContractRegressions(unittest.TestCase):
                 profile["focus_review"]["skill_path"] = "anderes-plugin/skills/fall-steuern/SKILL.md"
             with self.subTest(state=state), self.assertRaises(LabError):
                 focus_skill(profile, self.name, self.directory, self.root)
+
+    def test_catalog_generator_uses_verified_focus_and_rejects_stale_binding(self):
+        spec = importlib.util.spec_from_file_location("focus_catalog", ROOT / "scripts/generate-schwerpunkte.py")
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        with patch.object(module, "ROOT", self.root), patch.object(module, "marketplace", return_value={self.name: self.directory}), patch.object(module, "load", return_value=self.profile), patch.object(module, "formats", return_value=["md"]):
+            module.main()
+            catalog = (self.root / "SCHWERPUNKTE.md").read_text(encoding="utf-8")
+            self.assertIn("skills/fall-steuern/SKILL.md", catalog)
+            self.assertNotIn("anderer-fachfall", catalog)
+            self.skill.write_text("Ungeprüfter Ersatz des Fokus-Skills", encoding="utf-8")
+            with self.assertRaises(LabError):
+                module.main()
 
     def test_citation_contract_rejects_missing_unregistered_or_unused_reference(self):
         citation_reference(self.name, self.directory, self.skill, self.root)

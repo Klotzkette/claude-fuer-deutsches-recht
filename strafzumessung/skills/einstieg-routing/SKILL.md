@@ -11,21 +11,21 @@ Dieser Einstieg routet **Strafzumessung** vom ersten Sachverhalt zu Rollen, Fris
 
 ## Fachlandkarte dieses Plugins
 
-- `153a-stpo-iii-bewaehrung-stgb` — 153a STPO III Bewaehrung STGB
-- `besonders-formular-portal-und-einreichung` — Besonders Formular Portal und Einreichung
-- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung 56 STGB Positive Sozialprognose
-- `bewaehrung-auflagen-bewaehrungswiderruf-56f` — Bewaehrung Auflagen Bewaehrungswiderruf 56F
-- `bewaehrung-interessen-deutschem` — Bewaehrung Interessen Deutschem
-- `bewaehrungswiderruf-56f-stgb` — Bewaehrungswiderruf 56F STGB
-- `deutschem-tatbestand-beweis-und-belege` — Deutschem Tatbestand Beweis und Belege
-- `freiheitsstrafe-compliance-dokumentation-und-akte` — Freiheitsstrafe Compliance Dokumentation und Akte
-- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Freiheitsstrafe Ohne Bewaehrung Vollstreckung
-- `freiheitsstrafe-strafmass-geldstrafe` — Freiheitsstrafe Strafmass Geldstrafe
-- `geldstrafe-grossen-rechtsmittel` — Geldstrafe Großen Rechtsmittel
-- `geldstrafe-tagessatzanzahl-bestimmen` — Geldstrafe Tagessatzanzahl Bestimmen
-- `geldstrafe-vs-freiheitsstrafe-47-stgb` — Geldstrafe VS Freiheitsstrafe 47 STGB
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: 153a-stpo-iii-bewaehrung-stgb) — 153a STPO III Bewaehrung STGB
+- `geschaedigte-und-besondere-rollen-bearbeiten` (Fachthema: besonders-formular-portal-und-einreichung) — Besonders Formular Portal und Einreichung
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: bewaehrung-56-stgb-positive-sozialprognose) — Bewaehrung 56 STGB Positive Sozialprognose
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: bewaehrung-auflagen-bewaehrungswiderruf-56f) — Bewaehrung Auflagen Bewaehrungswiderruf 56F
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: bewaehrung-interessen-deutschem) — Bewaehrung Interessen Deutschem
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: bewaehrungswiderruf-56f-stgb) — Bewaehrungswiderruf 56F STGB
+- `tatvorwurf-und-materielles-recht-bearbeiten` (Fachthema: deutschem-tatbestand-beweis-und-belege) — Deutschem Tatbestand Beweis und Belege
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: freiheitsstrafe-compliance-dokumentation-und-akte) — Freiheitsstrafe Compliance Dokumentation und Akte
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: freiheitsstrafe-ohne-bewaehrung-vollstreckung) — Freiheitsstrafe Ohne Bewaehrung Vollstreckung
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: freiheitsstrafe-strafmass-geldstrafe) — Freiheitsstrafe Strafmass Geldstrafe
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: geldstrafe-grossen-rechtsmittel) — Geldstrafe Großen Rechtsmittel
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: geldstrafe-tagessatzanzahl-bestimmen) — Geldstrafe Tagessatzanzahl Bestimmen
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: geldstrafe-vs-freiheitsstrafe-47-stgb) — Geldstrafe VS Freiheitsstrafe 47 STGB
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

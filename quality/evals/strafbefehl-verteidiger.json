@@ -154,7 +154,7 @@
           ]
         }
       ],
-      "target_skill": "strafbefehls-erstpruefung-und-mandatsziel"
+      "target_skill": "entscheidung-und-rechtsmittel-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -162,7 +162,7 @@
     "files": [
       "strafbefehl-verteidiger/strafbefehl-verteidiger-schnellstart.md",
       "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md",
-      "strafbefehl-verteidiger/skills/strafbefehl-zulaessigkeit-407/SKILL.md"
+      "strafbefehl-verteidiger/skills/strafbefehl-zulaessigkeit-407/FACHINHALT.md"
     ],
     "opening_change": "Wirksame Zustellung und verbleibenden Einspruchsumfang vor Tatnachweis, Tagessätzen und Nebenfolgen bestimmen.",
     "norms": [

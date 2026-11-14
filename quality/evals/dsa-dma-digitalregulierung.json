@@ -127,7 +127,7 @@
           ]
         }
       ],
-      "target_skill": "dsa-internes-beschwerdesystem-aufbau"
+      "target_skill": "vorgang-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -138,7 +138,7 @@
       "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md",
       "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-schnellstart.md",
       "quality/evals/dsa-dma-digitalregulierung.json",
-      "dsa-dma-digitalregulierung/skills/dsa-internes-beschwerdesystem-aufbau/SKILL.md"
+      "dsa-dma-digitalregulierung/skills/dsa-internes-beschwerdesystem-aufbau/FACHINHALT.md"
     ],
     "opening_change": "Plattformentscheidung, VLOP-Benennung oder Gatekeeper-Pflicht anhand Dienst und tatsächlicher Nutzung prüfen. Workflow-Ergänzung: Leer: Sperrbeschwerde, konkrete Plattformpflichten oder DMA-Datenzugang anbieten. Dateien ohne Aufgabe: Sperrentscheidung und Dienstbeschreibung still lesen, danach Beschwerde- oder Prüfziel klären; keine vollständige Pflichtenliste. Klarer Auftrag: Beschwerde, Behördenantwort oder Zugangsschreiben direkt bearbeiten; nur fehlende dienst- und entscheidungsrelevante Angaben erfragen.",
     "norms": [

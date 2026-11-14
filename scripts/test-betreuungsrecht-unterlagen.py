@@ -17,6 +17,13 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_DE, NOTICE_EN, NOTICE_BYTES
 from release_routing import RELEASE_BASE, plugin_asset_url, validate_plugin_version
+from skill_sources import fachinhalt_path, active_owner
+from testakte_zip_common import (
+    original_zip_preserves_directories,
+    safe_archive_name,
+    source_zip_includes_gesamt_pdf,
+    working_dump_archive_pairs,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "betreuungsrecht"
@@ -122,8 +129,14 @@ class UnterlagenTest(unittest.TestCase):
         self.assertGreaterEqual(len(list(CASE.rglob("*.png"))) + len(list(CASE.rglob("*.jpg"))), 3)
 
     def test_skill_prompt_and_unchanged_old_cases(self):
-        skill = PLUGIN / "skills/unterlagen-auswerten-abrechnung-anschreiben/SKILL.md"
+        slug = "unterlagen-auswerten-abrechnung-anschreiben"
+        skill = fachinhalt_path(PLUGIN / "skills" / slug / "SKILL.md")
         body = skill.read_text()
+        owner = active_owner(PLUGIN, slug)
+        active = PLUGIN / "skills" / owner / "SKILL.md"
+        self.assertTrue(active.is_file())
+        if owner != slug:
+            self.assertIn(f"../{slug}/FACHINHALT.md", active.read_text())
         self.assertLessEqual(len(body.splitlines()), 500)
         headings = re.findall(r"^## ([1-6])\. ", body, re.M)
         self.assertEqual(headings, list("123456"))
@@ -157,11 +170,22 @@ class UnterlagenTest(unittest.TestCase):
         original_path = DIST / f"testakte-{SLUG}.zip"
         single_path = DIST / f"testakte-{SLUG}-einzelpdfs.zip"
         originals.assert_same(original_path.name, originals.expected_entries(CASE),
-                              originals.zip_entries(original_path, require_notice=True))
+                              originals.zip_entries(original_path, require_notice=True,
+                                                    allow_directories=original_zip_preserves_directories(CASE)))
+        with zipfile.ZipFile(original_path) as archive:
+            for source, name in working_dump_archive_pairs(CASE, include_gesamt_pdf=source_zip_includes_gesamt_pdf(CASE)):
+                self.assertEqual(archive.read(name), source.read_bytes(), name)
         singles.assert_same(single_path.name, ["README.txt", *singles.expected_arcnames(CASE)],
                             singles.zip_entries(single_path, expected_suffix=".pdf"))
         with zipfile.ZipFile(DIST / "betreuungsrecht.zip") as z:
-            self.assertIn("skills/unterlagen-auswerten-abrechnung-anschreiben/SKILL.md", z.namelist())
+            slug = "unterlagen-auswerten-abrechnung-anschreiben"
+            subject = fachinhalt_path(PLUGIN / "skills" / slug / "SKILL.md")
+            self.assertIn(subject.relative_to(PLUGIN).as_posix(), z.namelist())
+            self.assertIn(f"skills/{active_owner(PLUGIN, slug)}/SKILL.md", z.namelist())
+            actual_skills = {name for name in z.namelist() if name.startswith("skills/") and name.endswith("/SKILL.md")}
+            expected_skills = {path.relative_to(PLUGIN).as_posix() for path in (PLUGIN / "skills").glob("*/SKILL.md")}
+            self.assertEqual(actual_skills, expected_skills)
+            self.assertLessEqual(len(actual_skills), 20)
             self.assertIn("templates/unterlagen-abrechnung.xlsx", z.namelist())
             self.assertFalse(any("-werkstatt." in n or n.startswith("testakten/") for n in z.namelist()))
             for name in z.namelist():
@@ -170,7 +194,9 @@ class UnterlagenTest(unittest.TestCase):
             with zipfile.ZipFile(DIST / f"testakte-{SLUG}{suffix}.zip") as z:
                 self.assertEqual(z.namelist()[0], "README.txt")
                 self.assertTrue(z.read("README.txt").startswith(NOTICE_BYTES))
-                self.assertFalse(any("/" in n or n.endswith(".md") for n in z.namelist()))
+                allow_directories = suffix == "" and original_zip_preserves_directories(CASE)
+                self.assertTrue(all(safe_archive_name(n, allow_directories=allow_directories) for n in z.namelist()))
+                self.assertFalse(any(n.endswith(".md") for n in z.namelist()))
         sums = (DIST / "checksums-sha256.txt").read_text().splitlines()
         for line in sums:
             digest, name = line.split("  ", 1)

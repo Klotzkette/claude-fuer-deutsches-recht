@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-native-kanzlei",
+  "active_skills": [
+    "akten-recherche-beweise-bearbeiten",
+    "dokument-versand-abschluss-bearbeiten",
+    "honorar-buchhaltung-bearbeiten",
+    "kanzlei-wissen-organisation-bearbeiten",
+    "ki-kanzlei-steuern",
+    "mandatsannahme-posteingang-bearbeiten",
+    "schriftsatz-prozess-vollstreckung-bearbeiten",
+    "vertrag-beratung-bearbeiten"
+  ],
+  "modules": {
+    "abrechnung-e-rechnung": {
+      "skill": "honorar-buchhaltung-bearbeiten",
+      "source": "skills/abrechnung-e-rechnung/FACHINHALT.md"
+    },
+    "akte-chronologie-beweismittel": {
+      "skill": "akten-recherche-beweise-bearbeiten",
+      "source": "skills/akte-chronologie-beweismittel/FACHINHALT.md"
+    },
+    "akte-fristen-anlegen": {
+      "skill": "mandatsannahme-posteingang-bearbeiten",
+      "source": "skills/akte-fristen-anlegen/FACHINHALT.md"
+    },
+    "anlagen-ordnen-abgleichen": {
+      "skill": "akten-recherche-beweise-bearbeiten",
+      "source": "skills/anlagen-ordnen-abgleichen/FACHINHALT.md"
+    },
+    "anspruch-berechnen-beziffern": {
+      "skill": "schriftsatz-prozess-vollstreckung-bearbeiten",
+      "source": "skills/anspruch-berechnen-beziffern/FACHINHALT.md"
+    },
+    "anwaltsberufsrecht-pruefen": {
+      "skill": "mandatsannahme-posteingang-bearbeiten",
+      "source": "skills/anwaltsberufsrecht-pruefen/FACHINHALT.md"
+    },
+    "bea-anlagen-vorbereiten": {
+      "skill": "dokument-versand-abschluss-bearbeiten",
+      "source": "skills/bea-anlagen-vorbereiten/FACHINHALT.md"
+    },
+    "dokumente-erstellen-formatieren": {
+      "skill": "dokument-versand-abschluss-bearbeiten",
+      "source": "skills/dokumente-erstellen-formatieren/FACHINHALT.md"
+    },
+    "fristen-berechnen-ueberwachen": {
+      "skill": "mandatsannahme-posteingang-bearbeiten",
+      "source": "skills/fristen-berechnen-ueberwachen/FACHINHALT.md"
+    },
+    "geldwaesche-pruefen": {
+      "skill": "mandatsannahme-posteingang-bearbeiten",
+      "source": "skills/geldwaesche-pruefen/FACHINHALT.md"
+    },
+    "gerichtskosten-kostenerstattung": {
+      "skill": "honorar-buchhaltung-bearbeiten",
+      "source": "skills/gerichtskosten-kostenerstattung/FACHINHALT.md"
+    },
+    "gerichtstermin-vorbereiten-nachbereiten": {
+      "skill": "schriftsatz-prozess-vollstreckung-bearbeiten",
+      "source": "skills/gerichtstermin-vorbereiten-nachbereiten/FACHINHALT.md"
+    },
+    "honorar-budget-vereinbaren": {
+      "skill": "honorar-buchhaltung-bearbeiten",
+      "source": "skills/honorar-budget-vereinbaren/FACHINHALT.md"
+    },
+    "kanzlei-gruenden-einrichten": {
+      "skill": "kanzlei-wissen-organisation-bearbeiten",
+      "source": "skills/kanzlei-gruenden-einrichten/FACHINHALT.md"
+    },
+    "ki-kanzlei-steuern": {
+      "skill": "ki-kanzlei-steuern",
+      "source": "skills/ki-kanzlei-steuern/SKILL.md"
+    },
+    "mandantenkommunikation": {
+      "skill": "vertrag-beratung-bearbeiten",
+      "source": "skills/mandantenkommunikation/FACHINHALT.md"
+    },
+    "mandat-abschliessen": {
+      "skill": "dokument-versand-abschluss-bearbeiten",
+      "source": "skills/mandat-abschliessen/FACHINHALT.md"
+    },
+    "mandatsannahme-interessenkollision": {
+      "skill": "mandatsannahme-posteingang-bearbeiten",
+      "source": "skills/mandatsannahme-interessenkollision/FACHINHALT.md"
+    },
+    "mandatswissen-vorlagen-pflegen": {
+      "skill": "kanzlei-wissen-organisation-bearbeiten",
+      "source": "skills/mandatswissen-vorlagen-pflegen/FACHINHALT.md"
+    },
+    "posteingang-mandate-zuordnen": {
+      "skill": "mandatsannahme-posteingang-bearbeiten",
+      "source": "skills/posteingang-mandate-zuordnen/FACHINHALT.md"
+    },
+    "recht-recherchieren": {
+      "skill": "akten-recherche-beweise-bearbeiten",
+      "source": "skills/recht-recherchieren/FACHINHALT.md"
+    },
+    "schriftsaetze-entwerfen": {
+      "skill": "schriftsatz-prozess-vollstreckung-bearbeiten",
+      "source": "skills/schriftsaetze-entwerfen/FACHINHALT.md"
+    },
+    "schriftsatz-ueberarbeiten-erwidern": {
+      "skill": "schriftsatz-prozess-vollstreckung-bearbeiten",
+      "source": "skills/schriftsatz-ueberarbeiten-erwidern/FACHINHALT.md"
+    },
+    "titel-pruefen-vollstreckung-planen": {
+      "skill": "schriftsatz-prozess-vollstreckung-bearbeiten",
+      "source": "skills/titel-pruefen-vollstreckung-planen/FACHINHALT.md"
+    },
+    "vergleich-verhandeln-formulieren": {
+      "skill": "vertrag-beratung-bearbeiten",
+      "source": "skills/vergleich-verhandeln-formulieren/FACHINHALT.md"
+    },
+    "vertraege-agb-pruefen": {
+      "skill": "vertrag-beratung-bearbeiten",
+      "source": "skills/vertraege-agb-pruefen/FACHINHALT.md"
+    },
+    "vertraege-gestalten": {
+      "skill": "vertrag-beratung-bearbeiten",
+      "source": "skills/vertraege-gestalten/FACHINHALT.md"
+    },
+    "workflow-uebergabe": {
+      "skill": "dokument-versand-abschluss-bearbeiten",
+      "source": "skills/workflow-uebergabe/FACHINHALT.md"
+    },
+    "zahlungen-buchhaltung": {
+      "skill": "honorar-buchhaltung-bearbeiten",
+      "source": "skills/zahlungen-buchhaltung/FACHINHALT.md"
+    },
+    "zeiten-erfassen": {
+      "skill": "honorar-buchhaltung-bearbeiten",
+      "source": "skills/zeiten-erfassen/FACHINHALT.md"
+    }
+  }
+}

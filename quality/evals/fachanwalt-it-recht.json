@@ -198,7 +198,7 @@
     {
       "id": "agenten-digitalrecht-2026",
       "request": "Ein Einkaufsagent soll nur Bestellungen bis 2000 Euro vorbereiten. Der Vertragsentwurf erlaubt dennoch unbegrenzte Zahlungen und Wiederholung nach Zeitüberschreitung. Der Lieferant nennt einen Ausgabefilter Löschung und lehnt jegliche Unterstützung eines möglicherweise hochriskanten Folgesystems ab. Erstellen Sie verhandlungsfähige Ersatzklauseln und eine kurze Verhandlungsnotiz. Die konkrete Hochrisikoeinstufung ist noch offen; keine Bestellungen oder Änderungen auslösen.",
-      "target_skill": "itr-ki-systeme-vertragsklausel-leitfaden",
+      "target_skill": "arbeitsprodukt-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Ersatzklauseln.docx",
@@ -255,11 +255,11 @@
       "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
       "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
       "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md",
-      "fachanwalt-it-recht/skills/it-recht-cloud-vertrag-datenschutz-due-diligence/SKILL.md",
-      "fachanwalt-it-recht/skills/lizenz-risikoampel-und-gegenargumente/SKILL.md",
+      "fachanwalt-it-recht/skills/it-recht-cloud-vertrag-datenschutz-due-diligence/FACHINHALT.md",
+      "fachanwalt-it-recht/skills/lizenz-risikoampel-und-gegenargumente/FACHINHALT.md",
       "quality/evals/fachanwalt-it-recht.json",
       "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt",
-      "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/SKILL.md"
+      "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/FACHINHALT.md"
     ],
     "opening_change": "ERP-Funktionen, Abnahmebelege, Tickets und Nachtragsabrechnung gegeneinander prüfen. Workflow-Ergänzung: Leer: ERP-Rechnungsabwehr, Cloud-Klausel oder Vorfallmeldung anbieten. Dateien ohne Aufgabe: Abnahmeprotokolle, Nachträge und Vorfallsdaten still lesen; nur das Arbeitsziel klären, kein Komplettaudit. Klarer Auftrag: konkrete Klausel, Rechnungsantwort oder Meldung direkt bearbeiten; Folgeantworten ohne neue Aufnahme.",
     "norms": [

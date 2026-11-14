@@ -75,7 +75,7 @@
           ]
         }
       ],
-      "target_skill": "grundordnung-und-satzung"
+      "target_skill": "konflikt-massnahme-und-rechtsschutz-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -100,7 +100,7 @@
       "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md",
       "hochschulrecht-laender/hochschulrecht-laender-schnellstart.md",
       "quality/evals/hochschulrecht-laender.json",
-      "hochschulrecht-laender/skills/publikationsfreiheit-affiliation/SKILL.md"
+      "hochschulrecht-laender/skills/publikationsfreiheit-affiliation/FACHINHALT.md"
     ],
     "opening_change": "Zulassung, Prüfung, Promotion und Gremienentscheidung an konkreter Normfassung, Zuständigkeit und Beschlussgrundlage prüfen.",
     "norms": [
@@ -134,7 +134,7 @@
       "files": [
         "hochschulrecht-laender/hochschulrecht-laender-schnellstart.md",
         "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md",
-        "hochschulrecht-laender/skills/publikationsfreiheit-affiliation/SKILL.md"
+        "hochschulrecht-laender/skills/publikationsfreiheit-affiliation/FACHINHALT.md"
       ],
       "result": "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt.",
       "search_2026": "2 BvL 3/18 vom 24.03.2026 neu amtlich gelesen und ergänzt.",

@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt Bank Kapitalmarktrecht** vom ersten Sachverh
 
 ## Fachlandkarte dieses Plugins
 
-- `anlageberatung-fehlerhaft` — Anlageberatung Fehlerhaft Cybertrading
-- `anlageberatungsfehler-pruefen` — Anlageberatungsfehler Bankrecht Akkreditiv
-- `bankaufsicht-erlaubnis-und-vertrieb` — Bankaufsicht Erlaubnis Emissionsprospekt
-- `bankrecht-buergschaft-aval-garantie-routing` — Bankrecht Buergschaft Aval Garantieabruf
-- `bankrecht-privatbuergschaft-sittenwidrigkeit` — Bankrecht Privatbuergschaft Regress BK
-- `praemiensparvertrag-zinsanpassung-bgh-xi-zr-44-23` — Zinsanpassung im Prämiensparvertrag prüfen
-- `beratungshaftung-zahlen-schwellen-und-berechnung` — Beratungshaftung Haftung Beweislast BK CUM
-- `bk-bankenfehlberatung-grundzuege` — BK Bankenfehlberatung Grundzuege Einfuehrung
-- `bk-mifid-suitability-spezial` — BK Mifid BK Prip Erstgespraech Mandatsannahme
-- `cum-ex-beihilfe-bgh-1-str-519-20` — CUM EX Beihilfe BGH 1 STR 519 20
-- `variabler-sparzins-zinsanpassung-pruefen` — Variablen Sparzins und Zinsanpassung prüfen
-- `einstieg-schnelltriage-fallrouting` — FA Bank Kapitalmarkt BK Bafin Chronologie
-- `workflow-fristen-und-risikoampel` — FA Bank Kapitalmarkt Fristen Risiko Mandant
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: anlageberatung-fehlerhaft) — Anlageberatung Fehlerhaft Cybertrading
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: anlageberatungsfehler-pruefen) — Anlageberatungsfehler Bankrecht Akkreditiv
+- `aufsicht-compliance-und-organisation-bearbeiten` (Fachthema: bankaufsicht-erlaubnis-und-vertrieb) — Bankaufsicht Erlaubnis Emissionsprospekt
+- `kredit-und-sicherheiten-bearbeiten` (Fachthema: bankrecht-buergschaft-aval-garantie-routing) — Bankrecht Buergschaft Aval Garantieabruf
+- `kredit-und-sicherheiten-bearbeiten` (Fachthema: bankrecht-privatbuergschaft-sittenwidrigkeit) — Bankrecht Privatbuergschaft Regress BK
+- `vertrag-haftung-und-rechtsschutz-bearbeiten` (Fachthema: praemiensparvertrag-zinsanpassung-bgh-xi-zr-44-23) — Zinsanpassung im Prämiensparvertrag prüfen
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: beratungshaftung-zahlen-schwellen-und-berechnung) — Beratungshaftung Haftung Beweislast BK CUM
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: bk-bankenfehlberatung-grundzuege) — BK Bankenfehlberatung Grundzuege Einfuehrung
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: bk-mifid-suitability-spezial) — BK Mifid BK Prip Erstgespraech Mandatsannahme
+- `vertrag-haftung-und-rechtsschutz-bearbeiten` (Fachthema: cum-ex-beihilfe-bgh-1-str-519-20) — CUM EX Beihilfe BGH 1 STR 519 20
+- `vertrag-haftung-und-rechtsschutz-bearbeiten` (Fachthema: variabler-sparzins-zinsanpassung-pruefen) — Variablen Sparzins und Zinsanpassung prüfen
+- `aufsicht-compliance-und-organisation-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — FA Bank Kapitalmarkt BK Bafin Chronologie
+- `aufsicht-compliance-und-organisation-bearbeiten` (Fachthema: workflow-fristen-und-risikoampel) — FA Bank Kapitalmarkt Fristen Risiko Mandant
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

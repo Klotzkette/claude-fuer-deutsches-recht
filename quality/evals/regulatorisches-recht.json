@@ -100,7 +100,7 @@
           ]
         }
       ],
-      "target_skill": "dora-ikt-vertragspruefung"
+      "target_skill": "regulierungsverfahren-und-rechtsschutz-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -111,7 +111,7 @@
       "regulatorisches-recht/regulatorisches-recht-werkstatt.md",
       "regulatorisches-recht/regulatorisches-recht-schnellstart.md",
       "quality/evals/regulatorisches-recht.json",
-      "regulatorisches-recht/skills/dora-ikt-vertragspruefung/SKILL.md"
+      "regulatorisches-recht/skills/dora-ikt-vertragspruefung/FACHINHALT.md"
     ],
     "opening_change": "Reichweite des konkreten Datenverlangens, Geheimnisschutz oder DORA-Vertragslücke entscheiden.",
     "norms": [

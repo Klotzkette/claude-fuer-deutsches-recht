@@ -2,7 +2,7 @@
 
 ## 1. Umfang und Wortzählung
 
-Geändert wurden ausschließlich der Skill [workflow-uebergabe](../../../../ki-native-kanzlei/skills/workflow-uebergabe/SKILL.md) und dieser Bericht. Der Körper zählt 6469 Wörter vor und 6562 Wörter nach der Bearbeitung; gezählt wurden durch Leerraum getrennte Wörter nach dem YAML-Frontmatter. Die Beschreibung enthält 359 Zeichen ohne YAML-Anführungszeichen. Es bleiben genau die sechs vorgegebenen Hauptabschnitte.
+Geändert wurden ausschließlich der Skill [workflow-uebergabe](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/ki-native-kanzlei/skills/workflow-uebergabe/SKILL.md) und dieser Bericht. Der Körper zählt 6469 Wörter vor und 6562 Wörter nach der Bearbeitung; gezählt wurden durch Leerraum getrennte Wörter nach dem YAML-Frontmatter. Die Beschreibung enthält 359 Zeichen ohne YAML-Anführungszeichen. Es bleiben genau die sechs vorgegebenen Hauptabschnitte.
 
 ## 2. Konkrete Änderungen
 

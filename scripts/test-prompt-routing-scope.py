@@ -8,6 +8,7 @@ import json
 import sys
 from pathlib import Path
 from tempfile import TemporaryDirectory
+from unittest.mock import patch
 
 from themen_profile import PROFILE_BY_KEY, profile_for
 
@@ -26,6 +27,25 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
+    audit_spec = importlib.util.spec_from_file_location("routing_source_audit", SCRIPT.with_name("audit-prompt-profile-routing.py"))
+    audit = importlib.util.module_from_spec(audit_spec)
+    audit_spec.loader.exec_module(audit)
+    with TemporaryDirectory() as temporary:
+        root = Path(temporary)
+        old = root / "probe" / "skills" / "fachthema" / "SKILL.md"
+        source = old.with_name("FACHINHALT.md")
+        source.parent.mkdir(parents=True)
+        source.write_text("FALSCHER-ANFENGLICHER-ANKER", encoding="utf-8")
+        with patch.object(audit, "REPO", root), patch.object(audit, "SOURCE_FORBIDDEN", ((old, ("FALSCHER-ANFENGLICHER-ANKER",)),)):
+            with patch.object(audit, "fachinhalt_path", return_value=source) as resolver:
+                problems = audit.source_anchor_problems()
+                resolver.assert_called_once_with(old)
+                require(any("FACHINHALT.md" in problem and "FALSCHER-ANFENGLICHER-ANKER" in problem for problem in problems),
+                        "Verschobene Fachquelle entgeht der Anker-Negativprüfung")
+            with patch.object(audit, "fachinhalt_path", side_effect=FileNotFoundError):
+                require(any("Fachquelle fehlt" in problem for problem in audit.source_anchor_problems()),
+                        "Fehlende registrierte Fachquelle wird still übersprungen")
+
     for slug, key in {
         "due-diligence": "ma_finanzierung",
         "untersuchungshaft": "straf",

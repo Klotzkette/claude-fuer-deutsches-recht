@@ -11,21 +11,21 @@ Dieser Einstieg routet **Schriftform Und Textform Bgb** vom ersten Sachverhalt z
 
 ## Fachlandkarte dieses Plugins
 
-- `amtlicher-formkern-bgb-zpo-check` — Amtlicher Formkern BGB ZPO Check
-- `anspruchsformulierungen-formverstoss` — Anspruchsformulierungen Formverstoss
-- `arbeitsrecht-befristung-schriftform-checker` — Arbeitsrecht Befristung Schriftform Checker
-- `befristungsabrede-qes-rechtsprechung` — Befristungsabrede QES Rechtsprechung
-- `befristungsabrede-qes-rechtsprechung-stand-2026` — Befristungsabrede QES Rechtsprechung Stand 2026
-- `bgb-mehrparteien-konflikt-und-interessen` — BGB Mehrparteien Konflikt und Interessen
-- `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` — Buergschaft Verbraucherdarlehen und Andere Strenge Formen
-- `checklisten-schriftsatz-brief-und-memo-bausteine` — Checklisten Schriftsatz Brief und Memo Bausteine
-- `dokumentations-und-beweisarchitektur` — Dokumentations und Beweisarchitektur
-- `elektronische-paragraph-formerfordernisse` — Elektronische Paragraph Formerfordernisse
-- `empfangsbeduerftiger-international` — Empfangsbeduerftiger International
-- `empfangsbeduerftiger-international-schnittstellen` — Empfangsbeduerftiger International Schnittstellen
-- `form-checker-fuer-vertrag-oder-willenserklaerung` — Form Checker Für Vertrag Oder Willenserklaerung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: amtlicher-formkern-bgb-zpo-check) — Amtlicher Formkern BGB ZPO Check
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: anspruchsformulierungen-formverstoss) — Anspruchsformulierungen Formverstoss
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: arbeitsrecht-befristung-schriftform-checker) — Arbeitsrecht Befristung Schriftform Checker
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: befristungsabrede-qes-rechtsprechung) — Befristungsabrede QES Rechtsprechung
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: befristungsabrede-qes-rechtsprechung-stand-2026) — Befristungsabrede QES Rechtsprechung Stand 2026
+- `bereicherung-und-rueckabwicklung-bearbeiten` (Fachthema: bgb-mehrparteien-konflikt-und-interessen) — BGB Mehrparteien Konflikt und Interessen
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: buergschaft-verbraucherdarlehen-und-andere-strenge-formen) — Buergschaft Verbraucherdarlehen und Andere Strenge Formen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: checklisten-schriftsatz-brief-und-memo-bausteine) — Checklisten Schriftsatz Brief und Memo Bausteine
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: dokumentations-und-beweisarchitektur) — Dokumentations und Beweisarchitektur
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: elektronische-paragraph-formerfordernisse) — Elektronische Paragraph Formerfordernisse
+- `bereicherung-und-rueckabwicklung-bearbeiten` (Fachthema: empfangsbeduerftiger-international) — Empfangsbeduerftiger International
+- `bereicherung-und-rueckabwicklung-bearbeiten` (Fachthema: empfangsbeduerftiger-international-schnittstellen) — Empfangsbeduerftiger International Schnittstellen
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: form-checker-fuer-vertrag-oder-willenserklaerung) — Form Checker Für Vertrag Oder Willenserklaerung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

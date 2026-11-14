@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Spezifische Integrationsprüfung der vertieften KI-nativen Kanzlei."""
-import hashlib,json,re,sys
+import argparse,hashlib,json,re,sys
 from pathlib import Path
-from ki_kanzlei_release_contract import VERSION, SKILL_COUNT, minimum_pages
+from ki_kanzlei_release_contract import (VERSION, ACTIVE_SKILL_COUNT, ACTIVE_SKILL_SLUGS, MODULE_COUNT, module_sources, validate_module_report)
+from skill_sources import active_owner
 from urllib.parse import unquote,urlsplit
 import yaml
 from quality_lab import validate_profile
@@ -10,7 +11,9 @@ from prompt_profiles import validate_files
 ROOT=Path(__file__).resolve().parents[1];PLUGIN=ROOT/'ki-native-kanzlei'
 
 def main():
-    skills=sorted((PLUGIN/'skills').glob('*/SKILL.md'));assert len(skills)==SKILL_COUNT
+    ap=argparse.ArgumentParser();ap.add_argument('--pdf-report',type=Path,default=ROOT/'quality/ki-native-kanzlei/umfang.json');ap.add_argument('--output',type=Path,default=ROOT/'quality/ki-native-kanzlei/struktur-pruefung.json');args=ap.parse_args()
+    active={p.parent.name for p in (PLUGIN/'skills').glob('*/SKILL.md')};assert active==ACTIVE_SKILL_SLUGS
+    skills=module_sources();assert len(skills)==MODULE_COUNT
     records=[]
     for p in skills:
         s=p.read_text();fm=re.match(r'^---\n(.*?)\n---\n',s,re.S);assert fm,p
@@ -22,6 +25,10 @@ def main():
         for dest in re.findall(r'\[[^\]]+\]\(([^)]+)\)',s):
             if dest.startswith(('https://','http://','#','mailto:')):continue
             file=unquote(dest.split('#',1)[0]);assert (p.parent/file).exists(),(p,dest)
+        owner=active_owner(PLUGIN,p.parent.name);assert owner in active
+        if p.name=='FACHINHALT.md':
+            assert not p.with_name('SKILL.md').exists(),p
+            assert f'../{p.parent.name}/FACHINHALT.md' in (PLUGIN/'skills'/owner/'SKILL.md').read_text(),p
         records.append({'skill':p.parent.name,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'words_without_frontmatter':len(s[fm.end():].split())})
     limits={}
     for kind in ['schnellstart','hauptproblem','werkstatt']:
@@ -35,11 +42,10 @@ def main():
         d=json.loads(p.read_text());assert d['name']=='ki-native-kanzlei' and d['version']==VERSION
     for name in ['README.md','SKILLS.md','ASSET_INDEX.md','SCHWERPUNKTE.md','QUALITY.md','skills-index/README.md','references/rechtsgebiete-uebersicht.md','docs/werkstatt-und-schnellstart-coverage.md']:
         s=(ROOT/name).read_text();assert 'ki-native-kanzlei' in s,name;assert 'si-native-kanzlei/README.md' not in s,name
-    report=json.loads((ROOT/'quality/ki-native-kanzlei/umfang.json').read_text());assert report['skill_count']==SKILL_COUNT
-    assert {r['skill']:r['source_sha256'] for r in report['skills']}=={r['skill']:r['sha256'] for r in records}
+    report=json.loads(args.pdf_report.read_text());rows=validate_module_report(report)
+    assert {r['skill']:r['source_sha256'] for r in rows}=={r['skill']:r['sha256'] for r in records}
 
-    assert all(r['pages']>=minimum_pages(r['skill']) for r in report['skills'])
-    result={'skills':records,'prompts':limits,'cases_in_profile':len(profile['cases']),'criteria_in_profile':sum(len(c['criteria']) for c in profile['cases']),'all_checks':'passed'}
-    (ROOT/'quality/ki-native-kanzlei/struktur-pruefung.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
-    print(json.dumps({'skills':SKILL_COUNT,'prompt_limits':limits,'pages_total':report['handbook_pages'],'all_checks':'passed'},ensure_ascii=False))
+    result={'version':VERSION,'active_skills':sorted(active),'modules':records,'prompts':limits,'cases_in_profile':len(profile['cases']),'criteria_in_profile':sum(len(c['criteria']) for c in profile['cases']),'all_checks':'passed'}
+    args.output.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
+    print(json.dumps({'active_skills':ACTIVE_SKILL_COUNT,'modules':MODULE_COUNT,'prompt_limits':limits,'pages_total':report['handbook_pages'],'all_checks':'passed'},ensure_ascii=False))
 if __name__=='__main__':main()

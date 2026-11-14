@@ -118,7 +118,7 @@
           ]
         }
       ],
-      "target_skill": "anordnung-und-wegnahme-pruefen"
+      "target_skill": "pflicht-und-verantwortlicher-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -126,7 +126,7 @@
     "files": [
       "tierschutzrecht/tierschutzrecht-werkstatt.md",
       "tierschutzrecht/tierschutzrecht-schnellstart.md",
-      "tierschutzrecht/skills/nutztierhaltung-kontrolle/SKILL.md"
+      "tierschutzrecht/skills/nutztierhaltung-kontrolle/FACHINHALT.md"
     ],
     "opening_change": "Tierbezogene Haltungsanforderung und rechtlich getrennte Maßnahmen statt pauschaler Vollzugsprüfung.",
     "norms": [
@@ -166,7 +166,7 @@
       "files": [
         "tierschutzrecht/tierschutzrecht-schnellstart.md",
         "tierschutzrecht/tierschutzrecht-werkstatt.md",
-        "tierschutzrecht/skills/nutztierhaltung-kontrolle/SKILL.md"
+        "tierschutzrecht/skills/nutztierhaltung-kontrolle/FACHINHALT.md"
       ],
       "result": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill.",
       "search_2026": "3 C 2.25 vom 23.04.2026 neu amtlich gelesen und ergänzt.",

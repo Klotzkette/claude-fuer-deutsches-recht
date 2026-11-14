@@ -74,7 +74,7 @@
     {
       "id": "agenten-digitalrecht-2026",
       "request": "Ein Lieferanten-PDF hat einen Agenten zur Weiterleitung von Kundendaten an eine fremde Adresse veranlasst. Der Hauptprozess wurde gestoppt, drei Unteraufträge laufen weiter. Der Übertragungserfolg ist ungeklärt. Die Leitung fordert sofortige Löschung aller Protokolle und eine Wiederholung der letzten Zahlung. Entwerfen Sie eine begrenzte Eindämmungsanweisung und einen Meldevermerk; Unternehmensgröße, Betroffenheit nach BSIG und Produktrolle sind noch offen.",
-      "target_skill": "ki-tools-shadow-it",
+      "target_skill": "daten-beschaeftigte-und-ki-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Eindaemmungsanweisung.docx",
@@ -137,7 +137,7 @@
           ]
         }
       ],
-      "target_skill": "bsi-meldestelle-formular"
+      "target_skill": "meldung-aufsicht-und-versicherung-bearbeiten"
     }
   ],
   "workshop_review": {

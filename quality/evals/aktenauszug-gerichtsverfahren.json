@@ -20,7 +20,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "99b23405f1f3ad9c510d98cb6f58dd327c54060d32def0a2659925793173bf37",
+    "sha256": "5229f2516058a89e7f274b40478c65e3e5612b02fb07e752feed79192716cff5",
     "verdict": "revised",
     "reason": "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
@@ -74,7 +74,7 @@
           ]
         }
       ],
-      "target_skill": "aktenauszug-erstellen"
+      "target_skill": "prozessroute-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -110,7 +110,7 @@
       "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md",
       "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md",
       "quality/evals/aktenauszug-gerichtsverfahren.json",
-      "aktenauszug-gerichtsverfahren/skills/aktenauszug-erstellen/SKILL.md"
+      "aktenauszug-gerichtsverfahren/skills/aktenauszug-erstellen/FACHINHALT.md"
     ],
     "opening_change": "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren",
     "norms": [

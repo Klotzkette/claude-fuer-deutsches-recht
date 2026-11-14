@@ -83,6 +83,12 @@ def inspect_plugin(directory: Path) -> dict:
 def validate_migrations(repo: Path, migrations: list[dict]) -> list[str]:
     errors = []
     seen = set()
+    reachability_cache = {}
+    links_cache = {}
+    marketplace = repo / ".claude-plugin" / "marketplace.json"
+    sources = {}
+    if marketplace.is_file():
+        sources = {entry["name"]: entry["source"] for entry in json.loads(marketplace.read_text())["plugins"]}
     for migration in migrations:
         plugin = migration.get("plugin", "")
         old = migration.get("old", "")
@@ -94,7 +100,11 @@ def validate_migrations(repo: Path, migrations: list[dict]) -> list[str]:
         if key in seen:
             errors.append(f"{plugin}/{old}: mehrfaches Umstellungsziel")
         seen.add(key)
-        root = repo / plugin / "skills"
+        plugin_root = (repo / sources.get(plugin, plugin)).resolve()
+        if not plugin_root.is_relative_to(repo.resolve()):
+            errors.append(f"{plugin}: Plugin-Quelle liegt außerhalb des Repositories")
+            continue
+        root = plugin_root / "skills"
         if old == new:
             errors.append(f"{plugin}/{old}: Umstellung zeigt auf sich selbst")
         elif (root / old / "SKILL.md").exists():
@@ -106,31 +116,46 @@ def validate_migrations(repo: Path, migrations: list[dict]) -> list[str]:
         if reference:
             base = (root / new).resolve()
             resolved = (base / reference).resolve()
-            if not resolved.is_relative_to(base) or not resolved.is_file():
-                errors.append(f"{plugin}/{old}: Vertiefung fehlt oder liegt außerhalb des Zielskills")
-            elif not reference_reachable(target, resolved):
-                errors.append(f"{plugin}/{old}: Vertiefung ist vom Zielskill nicht verlinkt")
+            # Fachinhalte bleiben neben ihren Werkzeugen im ursprünglichen
+            # Skillordner. Sie müssen im gleichen installierbaren Plugin liegen
+            # und vom neuen Auswahlweg tatsächlich erreichbar sein.
+            if not resolved.is_relative_to(plugin_root) or not resolved.is_file():
+                errors.append(f"{plugin}/{old}: Vertiefung fehlt oder liegt außerhalb des Plugins")
+            else:
+                cache_key = (target.resolve(), plugin_root)
+                if cache_key not in reachability_cache:
+                    reachability_cache[cache_key] = reachable_documents(target, root=plugin_root, links_cache=links_cache)
+                if resolved not in reachability_cache[cache_key]:
+                    errors.append(f"{plugin}/{old}: Vertiefung ist vom Zielskill nicht verlinkt")
     return errors
 
 
-def reference_reachable(start: Path, target: Path) -> bool:
-    root = start.parent.resolve()
+def reference_reachable(start: Path, target: Path, *, root: Path | None = None) -> bool:
+    root = (root or start.parent).resolve()
+    target = target.resolve()
+    if not start.resolve().is_relative_to(root) or not target.is_relative_to(root):
+        return False
+    return target in reachable_documents(start, root=root)
+
+
+def reachable_documents(start: Path, *, root: Path, links_cache: dict | None = None) -> set[Path]:
+    root = root.resolve()
+    links_cache = {} if links_cache is None else links_cache
     pending = [start.resolve()]
     seen = set()
     while pending:
         path = pending.pop()
-        if path == target:
-            return True
-        if path in seen or not path.is_file():
+        if path in seen or not path.is_relative_to(root) or not path.is_file():
             continue
         seen.add(path)
-        for raw in re.findall(r"\]\(([^)\s]+)\)", path.read_text(encoding="utf-8")):
-            if "://" in raw:
-                continue
-            linked = (path.parent / raw.partition("#")[0]).resolve()
+        if path not in links_cache:
+            links_cache[path] = [(path.parent / raw.partition("#")[0]).resolve()
+                                 for raw in re.findall(r"\]\(([^)\s]+)\)", path.read_text(encoding="utf-8"))
+                                 if "://" not in raw]
+        for linked in links_cache[path]:
             if linked.is_relative_to(root) and linked.suffix == ".md":
                 pending.append(linked)
-    return False
+    return seen
 
 
 def main() -> int:

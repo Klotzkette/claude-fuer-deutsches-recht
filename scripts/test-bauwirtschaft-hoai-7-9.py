@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Offline-Regression der Originale; optional kanonische Exporte. Autor: Klotzkette."""
 from __future__ import annotations
+from skill_sources import fachinhalt_path
 
 import argparse
 import csv
@@ -55,7 +56,7 @@ class Originals(unittest.TestCase):
 
     def test_frontmatter_sources_and_standalone_prompts(self):
         for phase,slug in SLUGS.items():
-            path=B.ROOT/"bauwirtschaft/skills"/slug/"SKILL.md";text=path.read_text();meta=yaml.safe_load(text.split("---",2)[1])
+            path=fachinhalt_path(B.ROOT/"bauwirtschaft/skills"/slug/"SKILL.md");text=path.read_text();meta=yaml.safe_load(text.split("---",2)[1])
             self.assertEqual(set(meta),{"name","description"});self.assertEqual(meta["name"],slug)
             self.assertTrue(80<=len(meta["description"])<=1024);self.assertLess(len(text.splitlines()),500)
             self.assertEqual(len(re.findall(r"^## [1-6]\. ",text,re.M)),6)

@@ -1,0 +1,40 @@
+{
+  "retrieved_on": "2026-09-30",
+  "method": "download_metadata_only_content_review_in_companion_report",
+  "sources": [
+    {
+      "name": "versicherung",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2017/IV_ZR_104-17.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2017/IV_ZR_104-17.pdf?__blob=publicationFile&v=1",
+      "sha256": "3f2f71707af01711931f1565514b079bb709071b21ae3ed359ca94e69988dadc",
+      "characters": 30660
+    },
+    {
+      "name": "pflichtteil",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_474-15.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_474-15.pdf?__blob=publicationFile&v=1",
+      "sha256": "4af4744aacf09d124ff6a6607a120a7298fef80bcace462609c299cb34c49c5a",
+      "characters": 18767
+    },
+    {
+      "name": "bea",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f",
+      "characters": 32616
+    },
+    {
+      "name": "ervb",
+      "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+      "final_url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+      "sha256": "5934eb2fbfe8c569cd6b00d153089afddc8be4f3bd8abcc80856a0ac67ab31de",
+      "characters": 6192
+    },
+    {
+      "name": "mietminderung",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2011/VIII_ZR_155-11.pdf?__blob=publicationFile&v=1",
+      "sha256": "1b8de3ec68796acf801108563c485801ecebc2072c243dcdbe55ce8c835724cc",
+      "characters": 15539
+    }
+  ]
+}

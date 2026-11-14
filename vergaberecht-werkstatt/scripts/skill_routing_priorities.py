@@ -1,9 +1,27 @@
 """Gemeinsame Prioritäten für Prompt- und Routing-Generatoren."""
 
 from __future__ import annotations
+from pathlib import Path
+import re
+import sys
+
+ROOT = Path(__file__).resolve().parents[1]
+if (ROOT.parent / 'scripts/skill_sources.py').is_file():
+    sys.path.append(str(ROOT.parent / 'scripts'))
+    from skill_sources import active_owner, fachinhalt_path, original_skill_sources
+else:
+    def fachinhalt_path(path):
+        if not path.is_file():
+            raise FileNotFoundError(path)
+        return path
+    def active_owner(directory, slug):
+        fachinhalt_path(directory / 'skills' / slug / 'SKILL.md')
+        return slug
+    def original_skill_sources(directory):
+        return sorted((directory / 'skills').glob('*/SKILL.md'))
 
 
-PLUGIN_PRIORITY_SKILLS: dict[str, list[str]] = {
+PLUGIN_PRIORITY_MODULES: dict[str, list[str]] = {
     "vergabestelle-behoerden": [
         "vergabe-os-master-orchestrator",
         "workflow-kaltstart-und-routing",
@@ -140,7 +158,7 @@ MEGAPROMPT_MODULE_LIMITS: dict[str, int | None] = {
 }
 
 
-MINI_SKILL_SUMMARIES: dict[str, str] = {
+MINI_MODULE_SUMMARIES: dict[str, str] = {
     "workflow-kaltstart-und-routing": "Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul. Vollständige Ordner und ZIP-Pakete gehen an den Master-Orchestrator.",
     "konkurrenzrechtsschutz-orchestrator": "Vollständigen Konkurrentenfall aus Ordner, ZIP, Portal- oder Aktenexport ohne Skillwahl triagieren: Fristen, Herkunft, Beweiskette, Angriff, Kausalität, Zuschlagschance und erster Antrag.",
     "startbildschirm-konkurrentenangriff": "Nach abgeschlossener Triage Fristen, stärksten Angriff, Belege, Aktenlücken, Antrag und nächste Handlung als kompaktes Streitdashboard darstellen; kein eigener Akten-Kaltstart.",
@@ -190,7 +208,7 @@ MINI_SKILL_SUMMARIES: dict[str, str] = {
 }
 
 
-PLUGIN_TRIGGER_ROUTES: dict[str, list[tuple[str, str]]] = {
+PLUGIN_TRIGGER_MODULES: dict[str, list[tuple[str, str]]] = {
     "vergabestelle-behoerden": [
         ("Kaltstart, Aktenordner, ZIP, unklarer Stand", "vergabe-os-master-orchestrator"),
         ("rote Frist, Rüge, § 134 GWB, VK oder OLG", "workflow-fristen-und-risikoampel"),
@@ -239,4 +257,40 @@ PLUGIN_TRIGGER_ROUTES: dict[str, list[tuple[str, str]]] = {
         ("BTTG, Tariftreueausschluss oder bestandskräftige Feststellung", "eignungs-und-ausschlussangriff-konkurrent"),
         ("Kosten, Gebühren, Streitwert, Vorschuss, Unterliegen oder Vergleich", "kosten-und-schadensersatzrisiko"),
     ],
+}
+
+
+def module_route(plugin: str, module: str) -> dict[str, str]:
+    """Konkrete Fachquelle und tatsächlich ladbaren Arbeitsweg getrennt binden."""
+    directory = ROOT / plugin
+    source = fachinhalt_path(directory / 'skills' / module / 'SKILL.md')
+    owner = active_owner(directory, module)
+    return {'skill': owner, 'module': module, 'source': source.relative_to(directory).as_posix()}
+
+
+def skill_call(plugin: str, module: str, *, compact: bool = False) -> str:
+    route = module_route(plugin, module)
+    if compact or route['skill'] == module:
+        return f"`{route['skill']}`"
+    return f"`/{plugin}:{route['skill']} Thema: {module}`"
+
+
+def rewrite_module_calls(plugin: str, text: str) -> str:
+    """Auch Aufrufe im erhaltenen Fachtext führen mit ihrem Thema zum Owner."""
+    modules = {path.parent.name for path in original_skill_sources(ROOT / plugin)}
+    return re.sub(r'`([a-z0-9][a-z0-9-]+)`',
+                  lambda match: skill_call(plugin, match[1]) if match[1] in modules else match[0],
+                  text)
+
+
+# Auswahlmenüs enthalten nur echte aktive Skills. Die Priorisierung vollständiger
+# Fachmodule und jeder einzelne Trigger bleiben daneben verlustfrei erhalten.
+PLUGIN_PRIORITY_SKILLS = {
+    plugin: list(dict.fromkeys(module_route(plugin, module)['skill'] for module in modules))
+    for plugin, modules in PLUGIN_PRIORITY_MODULES.items()
+}
+PLUGIN_TRIGGER_ROUTES = {
+    plugin: [(trigger, module_route(plugin, module)['skill'], module)
+             for trigger, module in routes]
+    for plugin, routes in PLUGIN_TRIGGER_MODULES.items()
 }

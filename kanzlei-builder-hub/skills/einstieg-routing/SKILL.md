@@ -11,21 +11,21 @@ Dieser Einstieg routet **Kanzlei Builder Hub** vom ersten Sachverhalt zu Rollen,
 
 ## Fachlandkarte dieses Plugins
 
-- `anpassen` — Anpassen
-- `anschluss-router` — Anschluss Router
-- `automatischer-aktualisierer` — Automatischer Aktualisierer
-- `builder-zahlen-schwellen-und-berechnung` — Builder Zahlen Schwellen und Berechnung
-- `community-leistungsmatrix-fristennotiz` — Community Leistungsmatrix Fristennotiz
-- `daten-red-team-und-qualitaetskontrolle` — Daten RED Team und Qualitaetskontrolle
-- `deaktivieren` — Deaktivieren
-- `deinstallieren` — Deinstallieren
-- `deployment-eigenen-einsteiger` — Deployment Eigenen Einsteiger
-- `eigenen-formular-portal-und-einreichung` — Eigenen Formular Portal und Einreichung
-- `einsteiger-mandantenkommunikation-entscheidungsvorlage` — Einsteiger Mandantenkommunikation Entscheidungsvorlage
-- `findet-gate-installiert` — Findet Gate Installiert
-- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `skills-playbooks-gestalten-bearbeiten` (Fachthema: anpassen) — Anpassen
+- `navigation-uebergabe-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `pflege-deaktivierung-bearbeiten` (Fachthema: automatischer-aktualisierer) — Automatischer Aktualisierer
+- `navigation-uebergabe-bearbeiten` (Fachthema: builder-zahlen-schwellen-und-berechnung) — Builder Zahlen Schwellen und Berechnung
+- `bedarf-prozesse-bearbeiten` (Fachthema: community-leistungsmatrix-fristennotiz) — Community Leistungsmatrix Fristennotiz
+- `quellen-qualitaet-bearbeiten` (Fachthema: daten-red-team-und-qualitaetskontrolle) — Daten RED Team und Qualitaetskontrolle
+- `pflege-deaktivierung-bearbeiten` (Fachthema: deaktivieren) — Deaktivieren
+- `pflege-deaktivierung-bearbeiten` (Fachthema: deinstallieren) — Deinstallieren
+- `installation-sicherheit-bearbeiten` (Fachthema: deployment-eigenen-einsteiger) — Deployment Eigenen Einsteiger
+- `installation-sicherheit-bearbeiten` (Fachthema: eigenen-formular-portal-und-einreichung) — Eigenen Formular Portal und Einreichung
+- `navigation-uebergabe-bearbeiten` (Fachthema: einsteiger-mandantenkommunikation-entscheidungsvorlage) — Einsteiger Mandantenkommunikation Entscheidungsvorlage
+- `installation-sicherheit-bearbeiten` (Fachthema: findet-gate-installiert) — Findet Gate Installiert
+- `navigation-uebergabe-bearbeiten` (Fachthema: fristen-risikoampel-mandantenkommunikation) — Fristen Risikoampel Mandantenkommunikation
+- `navigation-uebergabe-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `navigation-uebergabe-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

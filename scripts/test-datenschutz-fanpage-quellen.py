@@ -2,6 +2,7 @@
 """Regression für die Verwechslung der Fanpage- und Schrems-Entscheidungen."""
 from pathlib import Path
 import unittest
+from skill_sources import fachinhalt_path
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = ROOT / 'datenschutzrecht'
@@ -20,7 +21,7 @@ class FanpageQuellenTests(unittest.TestCase):
     def test_all_affected_skills_identify_the_correct_judgment(self):
         for name in SKILLS:
             with self.subTest(skill=name):
-                text = (PLUGIN / 'skills' / name / 'SKILL.md').read_text()
+                text = fachinhalt_path(PLUGIN / 'skills' / name / 'SKILL.md').read_text()
                 self.assertNotIn('C-498/16', text)
                 self.assertIn('C-210/16', text)
                 self.assertIn('05.06.2018', text)
@@ -30,7 +31,7 @@ class FanpageQuellenTests(unittest.TestCase):
     def test_no_blanket_verification_claim_survives_in_affected_skills(self):
         for name in SKILLS:
             with self.subTest(skill=name):
-                text = (PLUGIN / 'skills' / name / 'SKILL.md').read_text()
+                text = fachinhalt_path(PLUGIN / 'skills' / name / 'SKILL.md').read_text()
                 self.assertNotRegex(text, r'– (?:verifiziert|verified case numbers|verified[.])')
                 self.assertIn('95/46', text)
 

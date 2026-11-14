@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
-import { validateSkillMapReferences } from './skill-map-references.mjs';
+import { validateSkillMapReferences, validateFachinhaltReferences } from './skill-map-references.mjs';
 
 function fixture(t) {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'legal-skill-map-'));
@@ -74,4 +74,29 @@ test('Navigation kann weder Plugin-Grenzen überschreiten noch Pfade als Slugs t
     '- [Fremdes Plugin](../../../anderes-plugin/skills/vorhanden/SKILL.md)',
   ].join('\n');
   assert.equal(validateSkillMapReferences(router, text).length, 2);
+});
+
+test('Fachinhalt ist erreichbar, wird aber niemals als aktiver Fachlandkarten-Skill gezählt', t => {
+  const { router, writeSkill } = fixture(t);
+  const old = writeSkill('plugin', 'alte-vertiefung');
+  const reference = path.join(path.dirname(old), 'FACHINHALT.md');
+  fs.renameSync(old, reference);
+  const link = '- [Fachinhalt](../alte-vertiefung/FACHINHALT.md)\n';
+  assert.deepEqual(validateSkillMapReferences(router, '## Fachvertiefungen gezielt laden\n\n' + link), []);
+  assert.equal(validateSkillMapReferences(router, '## Fachlandkarte\n\n' + link).length, 1);
+  assert.equal(validateSkillMapReferences(router, '## Fachlandkarte\n\n- `alte-vertiefung`\n').length, 1);
+  fs.unlinkSync(reference);
+  assert.equal(validateFachinhaltReferences(router, link).length, 1);
+});
+
+test('Fachinhalte und Fachlandkarten dürfen nicht per Symlink aus dem Paket ausbrechen', t => {
+  const { router, writeSkill } = fixture(t);
+  const outside = writeSkill('anderes-plugin', 'fremd');
+  const local = writeSkill('plugin', 'vertiefung');
+  fs.unlinkSync(local);
+  fs.symlinkSync(outside, local);
+  assert.equal(validateSkillMapReferences(router, '## Fachlandkarte\n\n- `vertiefung`\n').length, 1);
+  const reference = path.join(path.dirname(local), 'FACHINHALT.md');
+  fs.symlinkSync(outside, reference);
+  assert.equal(validateFachinhaltReferences(router, '[Inhalt](../vertiefung/FACHINHALT.md)').length, 1);
 });

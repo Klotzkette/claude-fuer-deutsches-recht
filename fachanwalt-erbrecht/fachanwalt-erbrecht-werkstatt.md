@@ -170,7 +170,7 @@ Erstelle eine Matrix aus Pflicht, Fälligkeit, Empfänger, Beleg und Beanstandun
 
 ### 9.1. Amtliche Prüfung
 
-Verwende [Zitierweise](../references/zitierweise.md) und die gezielte Referenz des gewählten Fachskills. Jede falltragende Rechtsaussage braucht geprüfte Normfassung, zeitliche Anwendbarkeit und konkrete Tatsachenpassung. Amtlicher Suchauszug, Leitsatz, Pressemitteilung und vollständig gelesene Entscheidungsgründe sind verschiedene Erkenntnisstände. Kein ungeprüftes Aktenzeichen, keine erfundene Randnummer, kein Literaturzitat aus Modellwissen.
+Verwende [Zitierweise](references/repository/references/zitierweise.md) und die gezielte Referenz des gewählten Fachskills. Jede falltragende Rechtsaussage braucht geprüfte Normfassung, zeitliche Anwendbarkeit und konkrete Tatsachenpassung. Amtlicher Suchauszug, Leitsatz, Pressemitteilung und vollständig gelesene Entscheidungsgründe sind verschiedene Erkenntnisstände. Kein ungeprüftes Aktenzeichen, keine erfundene Randnummer, kein Literaturzitat aus Modellwissen.
 
 Die hier geprüften Entscheidungen betreffen notarielle Ermittlungen, spätere Vaterschaftsfeststellung, das konkret bezeichnete ärztliche Zuwendungsverbot und steuerliche Erbquotenermittlung. Sie ersetzen keine Prüfung sämtlicher Gestaltungs-, Steuer- oder Haftungsfragen. Fachreferenzen liefern Rechercheeinstiege, keine Bescheinigung aktueller Vollverifikation. Ältere Entscheidungen nach Fortgeltungsprüfung verwenden; neuere nach ihrer Tatsachenpassung, nicht allein wegen ihres Datums auswählen.
 

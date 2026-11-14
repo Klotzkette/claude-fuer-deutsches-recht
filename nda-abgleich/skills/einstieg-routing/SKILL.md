@@ -11,21 +11,21 @@ Gleiche den NDA-Fremdentwurf mit dem vorgelegten Standard und den freigegebenen 
 
 ## Fachlandkarte dieses Plugins
 
-- `aenderungsmodus-compliance-dokumentation` — Änderungsmodus Compliance Dokumentation
-- `aenderungsmodus-compliance-dokumentation-und-akte` — Änderungsmodus Compliance Dokumentation und Akte
-- `ampelmatrix-internationaler-bezug-schnittstellen` — Ampelmatrix Internationaler Bezug Schnittstellen
-- `ampelmatrix-internationaler-bezug-und-schnittstellen` — Ampelmatrix Internationaler Bezug und Schnittstellen
-- `arbeitnehmer-kuendigung` — Arbeitnehmer Kuendigung
-- `ausgabe-changes-docx-beweislast` — Ausgabe Changes Docx Beweislast
-- `ausgabe-mandantenkommunikation-entscheidungsvorlage` — Ausgabe Mandantenkommunikation Entscheidungsvorlage
-- `changes-abschlussprodukt-uebergabe` — Changes Abschlussprodukt Übergabe
-- `changes-abschlussprodukt-und-uebergabe` — Changes Abschlussprodukt und Übergabe
-- `chirurgisch-quellenkarte` — Chirurgisch Quellenkarte
-- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
-- `docx-beweislast-darlegungslast` — Docx Beweislast Darlegungslast
-- `docx-beweislast-und-darlegungslast` — Docx Beweislast und Darlegungslast
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: aenderungsmodus-compliance-dokumentation) — Änderungsmodus Compliance Dokumentation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: aenderungsmodus-compliance-dokumentation-und-akte) — Änderungsmodus Compliance Dokumentation und Akte
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: ampelmatrix-internationaler-bezug-schnittstellen) — Ampelmatrix Internationaler Bezug Schnittstellen
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: ampelmatrix-internationaler-bezug-und-schnittstellen) — Ampelmatrix Internationaler Bezug und Schnittstellen
+- `laufzeit-beendigung-und-streit-bearbeiten` (Fachthema: arbeitnehmer-kuendigung) — Arbeitnehmer Kuendigung
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: ausgabe-changes-docx-beweislast) — Ausgabe Changes Docx Beweislast
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: ausgabe-mandantenkommunikation-entscheidungsvorlage) — Ausgabe Mandantenkommunikation Entscheidungsvorlage
+- `abschluss-parteien-und-auslegung-bearbeiten` (Fachthema: changes-abschlussprodukt-uebergabe) — Changes Abschlussprodukt Übergabe
+- `abschluss-parteien-und-auslegung-bearbeiten` (Fachthema: changes-abschlussprodukt-und-uebergabe) — Changes Abschlussprodukt und Übergabe
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: chirurgisch-quellenkarte) — Chirurgisch Quellenkarte
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: chronologie-und-belegmatrix) — Chronologie und Belegmatrix
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: docx-beweislast-darlegungslast) — Docx Beweislast Darlegungslast
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: docx-beweislast-und-darlegungslast) — Docx Beweislast und Darlegungslast
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

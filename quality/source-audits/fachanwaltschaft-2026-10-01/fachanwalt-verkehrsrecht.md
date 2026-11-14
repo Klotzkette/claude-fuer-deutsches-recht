@@ -34,7 +34,7 @@ Werkstatt und Mini enthalten beide aktuellen Anker mit Datum, Aktenzeichen und a
 - [fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md](../../../fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md)
 - [fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md](../../../fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md)
 - [fachanwalt-verkehrsrecht/skills/juristischer-argumentationskern/SKILL.md](../../../fachanwalt-verkehrsrecht/skills/juristischer-argumentationskern/SKILL.md)
-- [fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md](../../../fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md)
+- [fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md)
 - [fachanwalt-verkehrsrecht/skills/werkstattrechnung-kuerzung-zahlungswege/SKILL.md](../../../fachanwalt-verkehrsrecht/skills/werkstattrechnung-kuerzung-zahlungswege/SKILL.md)
 
 ## 1.3. Prüfung

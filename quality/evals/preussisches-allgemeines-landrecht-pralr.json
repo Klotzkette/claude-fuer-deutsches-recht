@@ -28,7 +28,7 @@
       "2026-09-23: Normlesung, historischer Fall und heutiges Altrecht als Einstieg; Plan, Parteieingabe und Privileg nach Belegwert getrennt; Synopse und Gutachten nach neuer Ausnahme ändern.",
       "2026-10-16, redaktioneller Einstiegsreview: Historisches Arbeitsprodukt, Ausgabe und Ortsgeltung vorangestellt; doppelte Titelnummer entfernt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "2d9a930acb51c7c88986e9c4b494703997a216797b3ed2ce5f0821a49ed28de3",
+    "sha256": "44f5ddc93ba8e01dd6d7e7c17a762386e2ff9f964c7aaf5ffa0725ceacd197e2",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -74,7 +74,7 @@
           ]
         }
       ],
-      "target_skill": "textzeugen-vergleichen"
+      "target_skill": "quellen-kodifikation-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -87,7 +87,7 @@
       "2026-09-23: Archivkorrespondenz nach Entstehungszweck bewertet und neue Lesung durch Übertragung, Subsumtion und Schlussfolgerung im vorhandenen Zieldokument fortgeschrieben.",
       "2026-10-16, redaktioneller Einstiegsreview: Historisches Arbeitsprodukt, Ausgabe und Ortsgeltung vorangestellt; doppelte Titelnummer entfernt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "c7a8dc2eade5e921ac2a6a3426e73554c4ce8f87ad5456cc33c16367887f9021",
+    "sha256": "fadd3b700531d543efe05c065317062c2c5242d8259d87540476ea27eae3467b",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."

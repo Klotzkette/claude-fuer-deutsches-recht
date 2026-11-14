@@ -8,6 +8,8 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT.parent / "scripts"))
+from skill_sources import fachinhalt_path
 
 ROLE_CHECKS = {
     "Vergabestelle": {
@@ -120,8 +122,9 @@ def main() -> int:
     for role, config in ROLE_CHECKS.items():
         combined: list[str] = []
         for relative in config["files"]:
-            path = ROOT / relative
-            if not path.is_file():
+            try:
+                path = fachinhalt_path(ROOT / relative)
+            except FileNotFoundError:
                 errors.append(f"{role}: Pflichtdatei fehlt: {relative}")
                 continue
             text = path.read_text(encoding="utf-8")

@@ -70,7 +70,7 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 ### 3.2. Belegbasierte Umsatzsteuer-Voranmeldung
 
-Erstelle bei diesem Auftrag nach dem [Fachskill](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) die tatsächliche Anmeldung aus Originalbelegen. Stelle Unternehmer, Voranmeldungszeitraum, Besteuerungsart und bisherigen Abgabestand fest. Unterscheide Leistungszeit, Rechnungseingang und Vereinnahmung. Prüfe Befreiung, Steuersatz, § 13b UStG, Vorsteuer und Privatanteil je Beleg. Verifiziere Kennziffern, Rundung und Endbetrag aus der Jahresdokumentation. Führe gewöhnliche Steuerzahlungen in einem eigenen Abgleich.
+Erstelle bei diesem Auftrag nach dem [Fachskill](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/FACHINHALT.md) die tatsächliche Anmeldung aus Originalbelegen. Stelle Unternehmer, Voranmeldungszeitraum, Besteuerungsart und bisherigen Abgabestand fest. Unterscheide Leistungszeit, Rechnungseingang und Vereinnahmung. Prüfe Befreiung, Steuersatz, § 13b UStG, Vorsteuer und Privatanteil je Beleg. Verifiziere Kennziffern, Rundung und Endbetrag aus der Jahresdokumentation. Führe gewöhnliche Steuerzahlungen in einem eigenen Abgleich.
 
 Liefere eine Erfassungstabelle, einen schema- und regelgeprüften Import oder die tatsächlich unterstützte autorisierte lokale Übermittlung. Biete dem Nutzer die Wahl des lokalen Zertifikats und die eigene Geheimniseingabe im geschützten Feld an. Halte den konkreten Abgabeauftrag und die Eingangsrückmeldung fest. Eine berichtigte Anmeldung enthält den vollständigen richtigen Periodendatensatz. Bei abweichender Festsetzung prüfe den Rechtsbehelfsweg.
 
@@ -262,7 +262,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 
 ## Umsatzsteuer-Voranmeldung als konkreter Auftrag
 
-Wenn eine Voranmeldung aus Belegen verlangt ist, beginne mit dem [Skill Umsatzsteuer-Voranmeldung erstellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md). Bestimme Unternehmer, Jahr und Zeitraum, Soll- oder genehmigte Istbesteuerung und bisherigen Abgabestand. Kläre nur entscheidende Lücken. Liefere die Erfassungstabelle oder führe die tatsächlich verfügbare freigegebene lokale Anbindung bis zum dokumentierten Abgabestatus fort. Ein Beispiel der Jahreserklärung und ein Rechnungs-XML müssen erst ihrer Datenart zugeordnet werden.
+Wenn eine Voranmeldung aus Belegen verlangt ist, beginne mit dem [Skill Umsatzsteuer-Voranmeldung erstellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/FACHINHALT.md). Bestimme Unternehmer, Jahr und Zeitraum, Soll- oder genehmigte Istbesteuerung und bisherigen Abgabestand. Kläre nur entscheidende Lücken. Liefere die Erfassungstabelle oder führe die tatsächlich verfügbare freigegebene lokale Anbindung bis zum dokumentierten Abgabestatus fort. Ein Beispiel der Jahreserklärung und ein Rechnungs-XML müssen erst ihrer Datenart zugeordnet werden.
 
 ## Fachlicher Anker
 
@@ -458,7 +458,7 @@ Ordne das Mandat zuerst nach Steuerart, Verfahrensstand, Bekanntgabedatum und ge
 - Finanzgerichtliches Verfahren: FGO, insbesondere Paragrafen 40, 47, 69 und 115 FGO.
 - Steuerstrafrecht: Paragrafen 369 bis 376 AO; Selbstanzeige nach Paragraf 371 AO; leichtfertige Steuerverkürzung nach Paragraf 378 AO.
 
-Der frühere Paragraf 370a AO ist aufgehoben und darf weder als Tatbestand noch als Strafrahmen verwendet werden.
+Der frühere Paragraf 370a AO ist mit Wirkung zum 1. Januar 2008 gesetzlich aufgehoben und darf nicht als geltender Tatbestand für heutige Taten verwendet werden. Bei Altakten sind die Tatzeitfassung, der Vergleich nach Paragraf 2 StGB und die zeitabhängige Verfolgungsverjährung gesondert zu prüfen; die Aufhebung ist keine hier belegte Nichtigerklärung durch das Bundesverfassungsgericht. Nachweise: [amtliche Änderungsübersicht, Nr. 101](https://ao.bundesfinanzministerium.de/ao/2021/Aenderungsuebersicht/inhalt.html), [Paragraf 2 StGB](https://www.gesetze-im-internet.de/stgb/__2.html).
 
 ## 3. Mandats-Triage
 

@@ -1,0 +1,155 @@
+---
+name: grosskanzlei-ma-erechnung-gobd
+description: "Für Freistehender Billing-, GoBD- und E-Rechnungsworkflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+---
+
+# Freistehender Billing-, GoBD- und E-Rechnungsworkflow
+
+## Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Freistehender Billing-, GoBD- und E-Rechnungsworkflow
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+## Wann wird dieser Skill aufgerufen
+Typische Auslöser:
+- "Ich habe hier Freistehender Billing-, GoBD- und E-Rechnungsund brauche einen belastbaren nächsten Schritt."
+- "Bitte prüfe das für ein M&A-Mandat aus Sicht von Buy-side, Sell-side oder Target."
+- "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
+- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
+
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:transaktion-und-struktur-bearbeiten Thema: kommandocenter` oder `/grosskanzlei-corporate-ma:transaktion-und-struktur-bearbeiten Thema: deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
+
+## Voraussetzungen und Kontext laden
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+
+Benötigte Unterlagen:
+- Mandatsanfrage, Konfliktcheck, Rollenmatrix, Budget und Deal-Timeline.
+- Kommunikationskanäle, Vertraulichkeitsstufen, Review-Gates und Eskalationspfade.
+- Vorlagen für Deal-Karte, Workstream-Plan, Statusbericht und Billing Narrative.
+
+Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
+
+## Workflow
+1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
+2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
+3. **Rechts- und Workstream-Schnittstellen trennen.** Ordne Punkte in Corporate, Commercial, Tax, Regulatory, Finance, IP/IT, HR, Litigation, Real Estate, ESG und PMO. Vermische DD-Finding, Vertragsfolge und Closing-Aufgabe nicht in einem Satz.
+4. **Materiality-Schwelle setzen.** Übernimm Schwellen aus LOI, SPA, DD-Scope oder Kanzlei-Playbook. Fehlt sie, schlage eine vorläufige qualitative Ampel vor: Dealbreaker, Price/Indemnity, Signing/Closing Condition, Disclosure-only, Housekeeping.
+5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen nicht abstrakt, sondern bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
+6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht ausdrücklich `[zu verifizieren]`.
+7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
+8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein Senior-Review-Memo mit genau den offenen Entscheidungen.
+9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
+10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
+
+## Prüfraster im Gutachtenstil
+**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
+
+**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
+
+**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
+- BRAO Paragraf 43a, BORA Paragraf 3 und BRAO Paragraf 49b für Verschwiegenheit, Konflikt und Honorar.
+- GwG Paragraf 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte.
+- DSGVO Art. 5, 6, 25 und 32 für Datenminimierung, Rollen und Sicherheit.
+- BGB Paragraf 611a, 675 und 280 für Dienstvertrags-/Haftungsrahmen.
+
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
+
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
+
+**5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
+
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+
+**Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
+
+## Output-Module
+- **Deal-Vermerk:** Executive Summary, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
+- **Issue List:** Tabelle mit Finding, Quelle, Risiko, Vertragsfolge, Preis-/Indemnity-Folge, Owner, Deadline.
+- **Information Request:** präzise Fragen an Mandant, Gegenseite oder Datenraum-Team, jeweils mit Grund und Priorität.
+- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Board-Paper-Abschnitt.
+- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellen und Zitierregel
+Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
+
+## Hand-Off zu anderen Skills
+Nach diesem Skill weiter mit:
+- `/grosskanzlei-corporate-ma:transaktion-und-struktur-bearbeiten Thema: deal-intake` - wenn aus dem Befund ein neues oder erweitertes Mandatsprofil entstehen muss.
+- `/grosskanzlei-corporate-ma:unterlagen-und-quellen-auswerten-bearbeiten Thema: matter-file` - wenn Deal-Karte, Workstreams, Fristen und Dokumentenlog in eine laufende Akte geschrieben werden sollen.
+- `/grosskanzlei-corporate-ma:transaktion-und-struktur-bearbeiten Thema: kommandocenter` - wenn mehrere Workstreams konkurrieren und der nächste Primärpfad neu bestimmt werden muss.
+- `/grosskanzlei-corporate-ma:transaktion-und-struktur-bearbeiten Thema: steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
+- `/grosskanzlei-corporate-ma:due-diligence-und-risikopruefung-bearbeiten Thema: datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
+
+## Was dieser Arbeitsgang nicht macht
+- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
+- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
+- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
+- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
+- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
+- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
+
+## Berufsrechtliche Hinweise
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+
+## Bisheriger Skill-Kern, integriert und weiterzuverwenden
+
+### Freistehender Billing-, GoBD- und E-Rechnungsworkflow
+
+## Arbeitsmodus
+
+1. Tätigkeiten aus Zeiteinträgen, Dokumenten, Calls, Markups und Deliverables erfassen.
+2. Narrative kurz, konkret und ohne unnötige Mandatsgeheimnisse formulieren.
+3. Jede Leistung Phase, Workstream, Fee Earner, Datum, Dauer, Rate, Rabatt, Budget und Deliverable zuordnen.
+4. Rechnungsposten mit Umsatzsteuerlogik, Reverse-Charge-Hinweis, Auslagen und Vorschüssen prüfen.
+5. XRechnung-XML als strukturierte Datensatz-Skizze ausgeben; ZUGFeRD als Hybrid-Prüfpaket mit PDF/A-3-Hinweis vorbereiten.
+6. GoBD-Protokoll führen: Änderungslog, Rechnungsnummer, Storno, Korrekturrechnung, Belegkette, Exportstatus.
+
+## Ausgabe
+
+- Billing Narrative Ledger.
+- Workstream-Rechnungsentwurf mit Budgetabweichungen.
+- XRechnung-Datenblock und ZUGFeRD-Checkliste.
+- DATEV/FiBu-Exportvorschlag als CSV-kompatible Tabelle.
+- GoBD-Prüfprotokoll mit Unveränderbarkeitshinweis und Korrekturpfad.
+
+## Rote Schwellen
+
+- Rechnungsnummer fehlt oder wurde doppelt vergeben.
+- Rechnung soll rückdatiert oder ohne Leistungsbezug erzeugt werden.
+- Umsatzsteuer, Reverse Charge oder Leistungsort unklar.
+- Narrative offenbart unnötig vertrauliche Deal-Informationen.
+- E-Rechnung wird als technisch versandfertig behauptet, obwohl XML/PDF/A-3 nicht validiert wurde.
+
+## Vorlagen
+
+- assets/templates/erechnung-gobd-billing.md
+- assets/templates/billing-narrative-ledger.md
+- assets/templates/ai-use-disclosure-log.md
+
+## Rechtliche Einbettung und Praxiswissen
+
+### Zentrale Normen
+- Paragraf 238-241a HGB — Buchfuehrungs- und Aufbewahrungspflichten (10 Jahre); GoBD gilt parallel
+- Paragraf 1-9 UStG — Umsatzsteuerrecht: E-Rechnungspflicht ab 2025 (Paragraf 14 Abs. 1 UStG n.F.); XRechnung und ZUGFeRD
+- Paragraf 14-14c UStG — Rechnungsanforderungen; Vorsteuerabzug setzt ordnungsgemaesse Rechnung voraus
+- Paragraf 195, 199 BGB — Verjährungsfristen: Fristenkalender muss auch gesetzliche Verjährungsfristen erfassen
+
+### Leitsaetze
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -15,14 +15,15 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft.",
+    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "changes": [
       "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
       "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
       "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen",
-      "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt"
+      "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt",
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry."
     ],
-    "sha256": "ab8f31e92143eafebca699446bfd0bd1ddff08e4baf1f9194de9bc47610cc77e"
+    "sha256": "7f22538aae535b916abe2d3ef88ce070ddff5b48e4d126cdc3050d813d3cab28"
   },
   "sources": [
     {
@@ -244,6 +245,14 @@
       "url": "https://www.gesetze-im-internet.de/vgv_2016/__6.html",
       "checked_on": "2026-11-04",
       "supports": "VgV § 6 Interessenkonflikte"
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html",
+      "checked_on": "2026-11-14",
+      "supports": "EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225. Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist. Grenze: Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 79–89, 195–201, 219–225, 240–245, 300–307 und Tenor",
+      "sha256": "da648c64034e32dd8f68973bdf03888d3e82b6f5a5b44de673feffeef0f0fa7d"
     }
   ],
   "selection": {
@@ -2236,6 +2245,13 @@
         "limit": "Identität der Beschäftigten bei Unerlässlichkeit für die wirksame Rechtsausübung und unter Berücksichtigung ihrer Rechte und Freiheiten prüfen. Der Fall betrifft interne Zugriffe.",
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62021CJ0579",
         "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225",
+        "url": "https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html",
+        "application": "Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist.",
+        "limit": "Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
+        "checked_on": "2026-11-14"
       }
     ],
     "remaining_limits": [
@@ -2264,5 +2280,37 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_audit_2026_11_14": {
+    "date": "2026-11-14",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-11-14/verfassungs-europa-produkt.md",
+    "workshop_path": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+    "before_sha256": "ab8f31e92143eafebca699446bfd0bd1ddff08e4baf1f9194de9bc47610cc77e",
+    "after_sha256": "7f22538aae535b916abe2d3ef88ce070ddff5b48e4d126cdc3050d813d3cab28",
+    "previous_workshop_review": {
+      "verdict": "revised",
+      "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft.",
+      "changes": [
+        "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
+        "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
+        "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen",
+        "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt"
+      ],
+      "sha256": "ab8f31e92143eafebca699446bfd0bd1ddff08e4baf1f9194de9bc47610cc77e"
+    },
+    "decisions": [
+      {
+        "citation": "EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225",
+        "url": "https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html",
+        "application": "Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist.",
+        "limit": "Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
+        "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 79–89, 195–201, 219–225, 240–245, 300–307 und Tenor",
+        "checked_on": "2026-11-14",
+        "sha256": "da648c64034e32dd8f68973bdf03888d3e82b6f5a5b44de673feffeef0f0fa7d"
+      }
+    ],
+    "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
   }
 }

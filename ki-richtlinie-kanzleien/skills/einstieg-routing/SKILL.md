@@ -11,21 +11,21 @@ Dieser Einstieg routet **Ki Richtlinie Kanzleien** vom ersten Sachverhalt zu Rol
 
 ## Fachlandkarte dieses Plugins
 
-- `anonymisierung-pseudonymisierung` — Anonymisierung Pseudonymisierung
-- `anwaelten-berufsrechtskonforme-beruht` — Anwaelten Berufsrechtskonforme Beruht
-- `auftragsverarbeitungsvertrag-pruefen` — Auftragsverarbeitungsvertrag Prüfen
-- `automatisierte-entscheidungen-art-22-dsgvo` — Automatisierte Entscheidungen ART 22 DSGVO
-- `berufsrecht-bausteine` — Berufsrecht Bausteine
-- `berufsrechtskonforme-tatbestand-beweis-und-belege` — Berufsrechtskonforme Tatbestand Beweis und Belege
-- `beruht-verhandlung-vergleich-und-eskalation` — Beruht Verhandlung Vergleich und Eskalation
-- `bias-diskriminierung-regelsatz-erstellen` — Bias Diskriminierung Regelsatz Erstellen
-- `bora-brak-dsgvo` — BORA Brak DSGVO
-- `brak-internationaler-bezug-und-schnittstellen` — Brak Internationaler Bezug und Schnittstellen
-- `brao-quellenkarte` — BRAO Quellenkarte
-- `compliance-regelsatz-erstellen` — Compliance Regelsatz Erstellen
-- `dienstleister-due-diligence` — Dienstleister DUE Diligence
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `mandat-eroeffnen-bearbeiten` (Fachthema: anonymisierung-pseudonymisierung) — Anonymisierung Pseudonymisierung
+- `mandat-eroeffnen-bearbeiten` (Fachthema: anwaelten-berufsrechtskonforme-beruht) — Anwaelten Berufsrechtskonforme Beruht
+- `mandat-eroeffnen-bearbeiten` (Fachthema: auftragsverarbeitungsvertrag-pruefen) — Auftragsverarbeitungsvertrag Prüfen
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: automatisierte-entscheidungen-art-22-dsgvo) — Automatisierte Entscheidungen ART 22 DSGVO
+- `mandat-eroeffnen-bearbeiten` (Fachthema: berufsrecht-bausteine) — Berufsrecht Bausteine
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: berufsrechtskonforme-tatbestand-beweis-und-belege) — Berufsrechtskonforme Tatbestand Beweis und Belege
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: beruht-verhandlung-vergleich-und-eskalation) — Beruht Verhandlung Vergleich und Eskalation
+- `mandat-eroeffnen-bearbeiten` (Fachthema: bias-diskriminierung-regelsatz-erstellen) — Bias Diskriminierung Regelsatz Erstellen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: bora-brak-dsgvo) — BORA Brak DSGVO
+- `mandat-eroeffnen-bearbeiten` (Fachthema: brak-internationaler-bezug-und-schnittstellen) — Brak Internationaler Bezug und Schnittstellen
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: brao-quellenkarte) — BRAO Quellenkarte
+- `mandat-eroeffnen-bearbeiten` (Fachthema: compliance-regelsatz-erstellen) — Compliance Regelsatz Erstellen
+- `mandat-eroeffnen-bearbeiten` (Fachthema: dienstleister-due-diligence) — Dienstleister DUE Diligence
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

@@ -32,7 +32,7 @@ Bei Lieferung an einen nicht gelisteten Zwischenempfänger kläre Kontrolle und 
 
 ## 1.4. Vermerk oder Antrag abschließen
 
-Optional vertieft [Dual-Use-Ausfuhrkontrolle](skills/aussenwirtschaft-exportkontrolle-dual-use/SKILL.md) die Klassifizierung. Ohne diese Datei genügen die vier Kontrollen oben als Arbeitsweg; technische Angaben oder Normzuordnungen aus Zusatzmaterialien ebenfalls verifizieren.
+Optional vertieft [Dual-Use-Ausfuhrkontrolle](skills/aussenwirtschaft-exportkontrolle-dual-use/FACHINHALT.md) die Klassifizierung. Ohne diese Datei genügen die vier Kontrollen oben als Arbeitsweg; technische Angaben oder Normzuordnungen aus Zusatzmaterialien ebenfalls verifizieren.
 
 Verwende aktuelle amtliche Normtexte, Güterlisten und zuständige Behördenquellen. Konsolidierte Texte dienen der Orientierung; maßgebliche Änderungsakte und Berichtigungen bei entscheidenden Zweifeln prüfen. Nur tatsächlich geprüfte Fassungen und URLs nennen. Entscheidungen benötigen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer; Literatur nicht erfinden. Optional: [Zitierweise](../references/zitierweise.md).
 

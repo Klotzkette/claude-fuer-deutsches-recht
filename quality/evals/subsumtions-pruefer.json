@@ -77,7 +77,7 @@
       "deliverables": [
         "ergebnis.md"
       ],
-      "target_skill": "rechtsfolge-bestimmen-einreden-interaktiver",
+      "target_skill": "fallfrage-bearbeiten",
       "criteria": [
         {
           "id": "C01",
@@ -132,7 +132,7 @@
           ]
         }
       ],
-      "target_skill": "rechtsfolge-bestimmen-einreden-interaktiver"
+      "target_skill": "fallfrage-bearbeiten"
     }
   ],
   "workshop_review": {

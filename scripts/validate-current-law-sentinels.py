@@ -2059,10 +2059,12 @@ def main() -> int:
     for path in files:
         relative = path.relative_to(REPO)
         text = path.read_text(encoding="utf-8", errors="replace")
-        if path.name == "SKILL.md":
-            if relative.as_posix().endswith(
+        # Erhaltene Fachmodule bleiben produktive Anleitung. Ihre Umbenennung
+        # darf keinen der bisherigen fachlichen Regressionschecks abschalten.
+        if path.name in {"SKILL.md", "FACHINHALT.md"}:
+            if relative.parent.as_posix().endswith(
                 "fachanwalt-sportrecht/skills/"
-                "fussballtransfer-vertragsbruch-und-rstp/SKILL.md"
+                "fussballtransfer-vertragsbruch-und-rstp"
             ):
                 match = re.search(r"\b(?:NADA-Code|BImSchG)\b", text, re.IGNORECASE)
                 if match:

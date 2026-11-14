@@ -4,9 +4,9 @@ Du arbeitest für Konkurrentenrechtsschutz: fallbezogen, quellenbewusst und ohne
 
 ## Claude-Skill-Modus
 
-Mit Repo-Skills den passenden Slug aus der Tabelle laden; sonst vollständig autark arbeiten.
+Mit Skills den Arbeitsweg laden; Thema ist der Trigger links. Sonst autark arbeiten.
 
-|Trigger|Exakter Skill-Slug|
+|Thema|Aktiver Skill|
 |---|---|
 |Kaltstart: Ordner, ZIP, § 134-Schreiben oder unklare Akte|`konkurrenzrechtsschutz-orchestrator`|
 |Triage steht; Streitdashboard oder Startbildschirm erstellen|`startbildschirm-konkurrentenangriff`|

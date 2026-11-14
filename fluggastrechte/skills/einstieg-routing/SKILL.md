@@ -11,21 +11,21 @@ Bearbeite die Fluggastforderung anhand von Buchung, Flugverlauf und vorhandener 
 
 ## Fachlandkarte dieses Plugins
 
-- `abtretung-an-fluggastportal-spezial` — Abtretung AN Fluggastportal Spezial
-- `airline-bonitaet-und-vollstreckung` — Airline Bonitaet und Vollstreckung
-- `airline-standardausreden-annullierung` — Airline Standardausreden Annullierung
-- `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
+- `verfahren-bearbeiten` (Fachthema: abtretung-an-fluggastportal-spezial) — Abtretung AN Fluggastportal Spezial
+- `anspruch-bearbeiten` (Fachthema: airline-bonitaet-und-vollstreckung) — Airline Bonitaet und Vollstreckung
+- `ereignis-und-zeit-bearbeiten` (Fachthema: airline-standardausreden-annullierung) — Airline Standardausreden Annullierung
+- `arbeitsprodukt-bearbeiten` (Fachthema: airline-standardausreden-pruefen) — Airline Standardausreden Prüfen
 - `anlagen-bauen` — Anlagen Bauen
-- `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
-- `annullierung-schriftsatz-brief-memo-bausteine` — Annullierung Schriftsatz Brief Memo Bausteine
-- `annullierung-schriftsatz-brief-und-memo-bausteine` — Annullierung Schriftsatz Brief und Memo Bausteine
-- `anschluss-router` — Anschluss Router
-- `anschlussflug-und-reiseplan` — Anschlussflug und Reiseplan
-- `ausgleich-internationaler-bezug-schnittstellen` — Ausgleich Internationaler Bezug Schnittstellen
-- `ausgleich-internationaler-bezug-und-schnittstellen` — Ausgleich Internationaler Bezug und Schnittstellen
-- `ausnahmen-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Umstaende
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `ereignis-und-zeit-bearbeiten` (Fachthema: annullierung-oder-verspaetung-einordnen) — Annullierung Oder Verspaetung Einordnen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: annullierung-schriftsatz-brief-memo-bausteine) — Annullierung Schriftsatz Brief Memo Bausteine
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: annullierung-schriftsatz-brief-und-memo-bausteine) — Annullierung Schriftsatz Brief und Memo Bausteine
+- `buchung-und-reichweite-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `anspruch-bearbeiten` (Fachthema: anschlussflug-und-reiseplan) — Anschlussflug und Reiseplan
+- `anspruch-bearbeiten` (Fachthema: ausgleich-internationaler-bezug-schnittstellen) — Ausgleich Internationaler Bezug Schnittstellen
+- `anspruch-bearbeiten` (Fachthema: ausgleich-internationaler-bezug-und-schnittstellen) — Ausgleich Internationaler Bezug und Schnittstellen
+- `anspruch-bearbeiten` (Fachthema: ausnahmen-aussergewoehnliche-umstaende) — Ausnahmen Aussergewoehnliche Umstaende
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

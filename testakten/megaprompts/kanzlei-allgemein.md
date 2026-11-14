@@ -10,7 +10,7 @@ Diese Vollprüfung enthält top-15 von 52 Skills des Plugins `kanzlei-allgemein`
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **bea-versand-pruefen** — Prüft einen konkreten elektronischen Gerichtsversand vor und nach dem Absenden: bestimmt Verfahrensordnung, Empfänger un…
 4. **umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten** — Für Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten: ordnet Norm, Beweislast und Gegenargument; …
-5. **kanzlei-cowork-kaltstart-interview** — Für /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Pr…
+5. **kanzlei-cowork-kaltstart-interview** — Für /kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Pr…
 6. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
 7. **handelsregisterabruf** — Für Handelsregisterabruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweisch…
 8. **rechnungserstellung-rvg** — Für Rechnungserstellung Honorar (RVG oder Vereinbarung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
@@ -449,7 +449,7 @@ oder Hilfskräfte beteiligt waren.
 
 ## Skill: `kanzlei-cowork-kaltstart-interview`
 
-_Für /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+_Für /kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 1. Kanzleikonfiguration einrichten
 
@@ -497,7 +497,7 @@ Tragende Normen und aktuelle technische Vorgaben prüfen; Entscheidungen nur mit
 
 Bei Wechsel des verbindlichen Fristenkalenders die Zuständigkeit für Übertragung und Kontrolle klären. Danach die betroffenen Profilabschnitte ausarbeiten, ohne vorhandene Fristen ungefragt zu verschieben oder zu löschen.
 
-Optional unterstützen `/kanzlei-allgemein:fristenbuch-fuehren`, `/kanzlei-allgemein:sekretariats-tagesbrief` und `/kanzlei-allgemein:versand-vor-check` passende Folgeaufgaben. Vor Versand Identität, Freigabe, Empfänger, Signatur und Anlagen selbst prüfen; kein Skillverweis ersetzt die Kontrolle. Außenhandlungen verbleiben in anwaltlicher Verantwortung und benötigen ausdrückliche Freigabe.
+Optional unterstützen `/kanzlei-allgemein:fristen-und-zustaendigkeit-bearbeiten Thema: fristenbuch-fuehren`, `/kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: sekretariats-tagesbrief` und `/kanzlei-allgemein:versand-vor-check` passende Folgeaufgaben. Vor Versand Identität, Freigabe, Empfänger, Signatur und Anlagen selbst prüfen; kein Skillverweis ersetzt die Kontrolle. Außenhandlungen verbleiben in anwaltlicher Verantwortung und benötigen ausdrückliche Freigabe.
 
 Ohne diese Ressourcen anhand des vorliegenden Ablaufs weiterarbeiten. Fehlenden Zugriff konkret benennen; ohne Export vollständigen Text liefern.
 

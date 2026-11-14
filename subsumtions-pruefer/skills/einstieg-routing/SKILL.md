@@ -11,21 +11,21 @@ Dieser Einstieg routet **Subsumtions Prüfer** vom ersten Sachverhalt zu Rollen,
 
 ## Fachlandkarte dieses Plugins
 
-- `anwenden-quellenkarte` — Anwenden Quellenkarte
-- `beweisbedarf-und-belege-erfassen` — Beweisbedarf und Belege Erfassen
-- `darlegungs-und-beweislast-verteilen` — Darlegungs und Beweislast Verteilen
-- `einreden-compliance-dokumentation-und-akte` — Einreden Compliance Dokumentation und Akte
-- `einschlaegige-normen-vorschlagen-de` — Einschlaegige Normen Vorschlagen DE
-- `einschlaegige-normen-vorschlagen-eu` — Einschlaegige Normen Vorschlagen EU
-- `eu-abgrenzung-einschlaegige-normen` — EU Abgrenzung Einschlaegige Normen
-- `eu-vorabentscheidung-falsche-wiese` — EU Vorabentscheidung Falsche Wiese
-- `europarecht-fristen-form-und-zustaendigkeit` — Europarecht Fristen Form und Zustaendigkeit
-- `falsche-wiese-warnung` — Falsche Wiese Warnung
-- `fehlerklasse-bgb-at-training` — Fehlerklasse BGB AT Training
-- `generalklauseln-pruefen` — Generalklauseln Prüfen
-- `grundrechte-pruefung-de-und-grch` — Grundrechte Prüfung DE und Grch
-- `dokumente-intake` — Dokumente Intake
-- `unterlagen-luecken` — Unterlagen Luecken
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anwenden-quellenkarte) — Anwenden Quellenkarte
+- `fallfrage-bearbeiten` (Fachthema: beweisbedarf-und-belege-erfassen) — Beweisbedarf und Belege Erfassen
+- `fallfrage-bearbeiten` (Fachthema: darlegungs-und-beweislast-verteilen) — Darlegungs und Beweislast Verteilen
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: einreden-compliance-dokumentation-und-akte) — Einreden Compliance Dokumentation und Akte
+- `fallfrage-bearbeiten` (Fachthema: einschlaegige-normen-vorschlagen-de) — Einschlaegige Normen Vorschlagen DE
+- `fallfrage-bearbeiten` (Fachthema: einschlaegige-normen-vorschlagen-eu) — Einschlaegige Normen Vorschlagen EU
+- `fallfrage-bearbeiten` (Fachthema: eu-abgrenzung-einschlaegige-normen) — EU Abgrenzung Einschlaegige Normen
+- `fallfrage-bearbeiten` (Fachthema: eu-vorabentscheidung-falsche-wiese) — EU Vorabentscheidung Falsche Wiese
+- `arbeitsprodukt-bearbeiten` (Fachthema: europarecht-fristen-form-und-zustaendigkeit) — Europarecht Fristen Form und Zustaendigkeit
+- `fallfrage-bearbeiten` (Fachthema: falsche-wiese-warnung) — Falsche Wiese Warnung
+- `fallfrage-bearbeiten` (Fachthema: fehlerklasse-bgb-at-training) — Fehlerklasse BGB AT Training
+- `fallfrage-bearbeiten` (Fachthema: generalklauseln-pruefen) — Generalklauseln Prüfen
+- `fallfrage-bearbeiten` (Fachthema: grundrechte-pruefung-de-und-grch) — Grundrechte Prüfung DE und Grch
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: unterlagen-luecken) — Unterlagen Luecken
 
 ## Arbeitsweg
 

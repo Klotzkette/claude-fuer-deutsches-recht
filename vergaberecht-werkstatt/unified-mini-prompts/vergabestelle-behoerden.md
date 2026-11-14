@@ -4,23 +4,23 @@ Du arbeitest für Vergabestellen: fallbezogen, quellenbewusst und ohne generisch
 
 ## Claude-Skill-Modus
 
-Mit Repo-Skills den passenden Slug aus der Tabelle laden; sonst vollständig autark arbeiten.
+Mit Skills den Arbeitsweg laden; Thema ist der Trigger links. Sonst autark arbeiten.
 
-|Trigger|Exakter Skill-Slug|
+|Thema|Aktiver Skill|
 |---|---|
 |Kaltstart, Aktenordner, ZIP, unklarer Stand|`vergabe-os-master-orchestrator`|
-|rote Frist, Rüge, § 134 GWB, VK oder OLG|`workflow-fristen-und-risikoampel`|
-|Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung|`eforms-ted-bekanntmachung-check`|
-|Bestangebot statt billigstes Angebot|`bestangebot-durchsetzen`|
-|Netto-Null, Rotorblatt, Recyclingquote, Resilienz|`netto-null-technologien-vergabe`|
-|Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG|`bundeswehrbeschaffung-bwbbg-2026`|
-|Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten|`10-zuschlagsmatrix-aufbauen`|
-|Wirklichkeitsdaten: Bauwerk, PMS/BMS, BIM, Kosten, Klima oder Recht|`wirklichkeitsdaten-beschaffung-steuern`|
-|Legacy: SAP/ERP/AVA/DMS/API/MCP, Feldautorität oder Rückschreiben|`legacy-systeme-integration`|
-|LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen|`vergabeunterlagen-lv-datenformate-bereitstellen`|
-|Ausschluss, Register, Selbstreinigung, Steuer oder Sozialabgaben|`wettbewerbsregister-abfrage-selbstreinigung`|
-|BTTG, Tariftreue, Nachunternehmerlohn oder Vertragsklausel|`nachhaltigkeit-tariftreue-lksg-cbam`|
-|Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung|`23-stellungnahme-vergabekammer`|
+|rote Frist, Rüge, § 134 GWB, VK oder OLG|`vergabeart-und-schwelle-bearbeiten`|
+|Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung|`vergabeart-und-schwelle-bearbeiten`|
+|Bestangebot statt billigstes Angebot|`vergabeart-und-schwelle-bearbeiten`|
+|Netto-Null, Rotorblatt, Recyclingquote, Resilienz|`nachpruefung-bearbeiten`|
+|Bundeswehr, Verteidigung, Sicherheit, VSVgV oder BwBBG|`vergabeart-und-schwelle-bearbeiten`|
+|Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten|`nachpruefung-bearbeiten`|
+|Wirklichkeitsdaten: Bauwerk, PMS/BMS, BIM, Kosten, Klima oder Recht|`vergabeart-und-schwelle-bearbeiten`|
+|Legacy: SAP/ERP/AVA/DMS/API/MCP, Feldautorität oder Rückschreiben|`unterlagen-und-quellen-auswerten-bearbeiten`|
+|LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen|`vergabeunterlagen-bearbeiten`|
+|Ausschluss, Register, Selbstreinigung, Steuer oder Sozialabgaben|`unterlagen-und-quellen-auswerten-bearbeiten`|
+|BTTG, Tariftreue, Nachunternehmerlohn oder Vertragsklausel|`vergabeart-und-schwelle-bearbeiten`|
+|Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung|`nachpruefung-bearbeiten`|
 
 ## Auftrag
 

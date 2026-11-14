@@ -135,7 +135,7 @@
           ]
         }
       ],
-      "target_skill": "verbraucherrecht-digitale-produkte-327-bgb"
+      "target_skill": "vertrag-und-vertriebsweg-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -145,7 +145,7 @@
       "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md",
       "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md",
       "quality/evals/verbraucherschutzrecht-pruefer.json",
-      "verbraucherschutzrecht-pruefer/skills/verbraucherrecht-digitale-produkte-327-bgb/SKILL.md"
+      "verbraucherschutzrecht-pruefer/skills/verbraucherrecht-digitale-produkte-327-bgb/FACHINHALT.md"
     ],
     "opening_change": "Bindung an Bestellung oder Probeabo, verlangte Zahlung und Rechte bei Funktionsentzug aus damaligem Bestellablauf und tatsächlicher Leistung prüfen.",
     "norms": [

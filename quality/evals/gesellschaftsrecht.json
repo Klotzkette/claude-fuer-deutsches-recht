@@ -84,7 +84,7 @@
           ]
         }
       ],
-      "target_skill": "gesellschafterbeschluss"
+      "target_skill": "gruendung-und-gesellschaftsvertrag-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -172,9 +172,9 @@
     "files": [
       "gesellschaftsrecht/gesellschaftsrecht-schnellstart.md",
       "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
-      "gesellschaftsrecht/skills/einziehung-und-ausschluss-gesellschafter/SKILL.md",
-      "gesellschaftsrecht/skills/satzungsgestaltung-gmbh-kernklauseln/SKILL.md",
-      "gesellschaftsrecht/skills/vollzugs-checkliste/SKILL.md"
+      "gesellschaftsrecht/skills/einziehung-und-ausschluss-gesellschafter/FACHINHALT.md",
+      "gesellschaftsrecht/skills/satzungsgestaltung-gmbh-kernklauseln/FACHINHALT.md",
+      "gesellschaftsrecht/skills/vollzugs-checkliste/FACHINHALT.md"
     ]
   },
   "source_audit_2026_10_01_breit": {

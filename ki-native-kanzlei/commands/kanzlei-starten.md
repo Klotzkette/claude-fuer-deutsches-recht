@@ -3,7 +3,7 @@ description: "Neue Kanzlei einrichten: führende Systeme, Postfächer, Fristen, 
 argument-hint: "Kanzleiordner, Gründungsstand und vorhandene Systeme"
 ---
 
-Führe [Kanzlei gründen und einrichten](../skills/kanzlei-gruenden-einrichten/SKILL.md) aus. Lies zunächst die bereitgestellte Organisation, übernimm belegte Angaben und frage nur nach den fehlenden Startentscheidungen. Erstelle die ausgefüllte Organisation und beginne mit einem Probemandat statt einem allgemeinen Vortrag.
+Führe [Kanzlei gründen und einrichten](../skills/kanzlei-gruenden-einrichten/FACHINHALT.md) aus. Lies zunächst die bereitgestellte Organisation, übernimm belegte Angaben und frage nur nach den fehlenden Startentscheidungen. Erstelle die ausgefüllte Organisation und beginne mit einem Probemandat statt einem allgemeinen Vortrag.
 
 Eingabe: $ARGUMENTS
 

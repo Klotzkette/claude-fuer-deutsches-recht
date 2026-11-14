@@ -3,7 +3,11 @@
 import importlib.util, io, json, sys, tempfile, unittest
 from contextlib import redirect_stdout, redirect_stderr
 from pathlib import Path
+from skill_sources import active_owner, fachinhalt_path
 ROOT = Path(__file__).resolve().parents[1]
+PLUGIN = ROOT / 'ki-native-kanzlei'
+def owner(slug):
+    return active_owner(PLUGIN, slug)
 spec = importlib.util.spec_from_file_location('mandatslauf', ROOT / 'ki-native-kanzlei/scripts/mandatslauf.py')
 M = importlib.util.module_from_spec(spec); spec.loader.exec_module(M)
 
@@ -80,11 +84,11 @@ class LaufTests(unittest.TestCase):
         run('gate', '--akte', self.akte, '--gate', 'G3', '--aktion', 'oeffnen', '--bezug', 'v4')
         run('gate', '--akte', self.akte, '--gate', 'G2', '--aktion', 'oeffnen', '--bezug', 'Vermerk')
         _, out, _ = run('next', '--akte', self.akte); r = json.loads(out)
-        self.assertEqual(r['next_skill'], 'fristen-berechnen-ueberwachen'); self.assertFalse(r['external_action_allowed']); self.assertEqual(sorted(r['open_gates']), ['G2', 'G3'])
+        self.assertEqual(r['next_skill'], owner('fristen-berechnen-ueberwachen')); self.assertFalse(r['external_action_allowed']); self.assertEqual(sorted(r['open_gates']), ['G2', 'G3'])
 
     def test_next_follows_phase_without_gates(self):
         run('phase', '--akte', self.akte, '--phase', 'abrechnung', '--grund', 'x')
-        _, out, _ = run('next', '--akte', self.akte); self.assertEqual(json.loads(out)['next_skill'], 'zeiten-erfassen')
+        _, out, _ = run('next', '--akte', self.akte); self.assertEqual(json.loads(out)['next_skill'], owner('zeiten-erfassen'))
 
     def test_closing_requires_decided_gates(self):
         self.assertEqual(run('phase', '--akte', self.akte, '--phase', 'abschluss', '--grund', 'Ende')[0], 2)
@@ -111,7 +115,7 @@ class LaufTests(unittest.TestCase):
         run('gate', '--akte', self.akte, '--gate', 'G3', '--aktion', 'oeffnen', '--person', 'RAin Ada Ahrens', '--bezug', 'mandantenbrief')
         code, out, _ = run('next', '--akte', self.akte)
         result = json.loads(out)
-        self.assertEqual(result['next_skill'], 'mandantenkommunikation')
+        self.assertEqual(result['next_skill'], owner('mandantenkommunikation'))
         self.assertEqual(result.get('next_product'), 'mandantenbrief')
         self.assertEqual(result.get('responsible'), 'RAin Ada Ahrens')
 
@@ -127,7 +131,7 @@ class LaufTests(unittest.TestCase):
         code, out, _ = run('next', '--akte', self.akte)
         self.assertEqual(code, 0)
         result = json.loads(out)
-        self.assertEqual(result['next_skill'], 'mandantenkommunikation')
+        self.assertEqual(result['next_skill'], owner('mandantenkommunikation'))
         self.assertEqual(result['next_product'], 'mandantenbrief')
         self.assertEqual(result['responsible'], 'RAin Ada Ahrens')
         after = self.state()
@@ -195,7 +199,7 @@ class CockpitTests(unittest.TestCase):
             self.assertEqual(code, 0)
             rows = json.loads(out)['mandate']
             self.assertEqual([r['akte'] for r in rows], ['M-4', 'M-3', 'M-2', 'M-1'])
-            self.assertEqual(rows[1]['next_skill'], 'fristen-berechnen-ueberwachen')
+            self.assertEqual(rows[1]['next_skill'], owner('fristen-berechnen-ueberwachen'))
             self.assertFalse(json.loads(out)['external_action_allowed'])
 
     def test_cockpit_markdown(self):

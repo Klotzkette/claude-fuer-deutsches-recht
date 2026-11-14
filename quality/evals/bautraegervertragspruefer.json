@@ -82,7 +82,7 @@
       "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung.",
       "16.10.2026: Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt."
     ],
-    "sha256": "8e0a217d89e5384c917ec02bd0d0910022e479b1d9a593905895e6a5546a0792",
+    "sha256": "f7316ca9110d5ea15e1886753c0ef640ad1d8560b7deba8a186b61988dcc167d",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -142,7 +142,7 @@
           ]
         }
       ],
-      "target_skill": "mabv-ratenplan-pruefen"
+      "target_skill": "vertragssoll-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

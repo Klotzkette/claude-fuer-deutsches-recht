@@ -1,6 +1,6 @@
 # übergaben/ — Übergabevermerke zum Semesterende
 
-Semesterbezogener Ordner mit je einem Übergabevermerk pro aktivem Fall. Erstellt durch `/rechtsberatungsstelle:semester-uebergabe` am Semesterende. Zu lesen von den übernehmenden Studentenn im Rahmen von `/einarbeitung` für die ihnen zugewiesenen Fälle.
+Semesterbezogener Ordner mit je einem Übergabevermerk pro aktivem Fall. Erstellt durch `/rechtsberatungsstelle:normstruktur-bearbeiten Thema: semester-uebergabe` am Semesterende. Zu lesen von den übernehmenden Studentenn im Rahmen von `/einarbeitung` für die ihnen zugewiesenen Fälle.
 
 ## Verzeichnisstruktur
 
@@ -34,9 +34,9 @@ Fallvermerk: Fall-ID verwenden (aus `deadlines.yaml` oder der Aufnahmeakte). Kon
 
 ## Ablauf
 
-1. `/rechtsberatungsstelle:semester-uebergabe` wird von der Lehrperson (oder von den abgebenden Studentenn für ihre eigenen Fälle) etwa 1–2 Wochen vor Semesterende ausgeführt.
+1. `/rechtsberatungsstelle:normstruktur-bearbeiten Thema: semester-uebergabe` wird von der Lehrperson (oder von den abgebenden Studentenn für ihre eigenen Fälle) etwa 1–2 Wochen vor Semesterende ausgeführt.
 2. Es entstehen fallbezogene Vermerke sowie eine Gesamtzusammenfassung.
-3. Die übernehmenden Studentenn führen zu Beginn des nächsten Semesters `/rechtsberatungsstelle:einarbeitung` aus; `/einarbeitung` legt die Übergabevermerke für die jeweils zugewiesenen Fälle offen.
+3. Die übernehmenden Studentenn führen zu Beginn des nächsten Semesters `/rechtsberatungsstelle:normstruktur-bearbeiten Thema: einarbeitung` aus; `/einarbeitung` legt die Übergabevermerke für die jeweils zugewiesenen Fälle offen.
 
 ## Aufbewahrung
 

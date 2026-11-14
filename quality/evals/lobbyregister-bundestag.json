@@ -92,7 +92,7 @@
           ]
         }
       ],
-      "target_skill": "geschaeftsjahresaktualisierung"
+      "target_skill": "pflicht-und-ausnahme-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

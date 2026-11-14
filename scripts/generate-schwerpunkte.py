@@ -12,8 +12,9 @@ import re
 from pathlib import Path
 from urllib.parse import quote
 
-from quality_lab import ROOT, bounded_bytes, load, marketplace
+from quality_lab import ROOT, bounded_bytes, load, marketplace, validate_focus_review
 from prompt_profiles import formats
+from prompt_limits import mini_within_limits
 
 
 def main():
@@ -31,7 +32,7 @@ def main():
         if not required and not path.is_file():
             continue
         data = bounded_bytes(path)
-        if len(data) > 7500 or not data.strip():
+        if not mini_within_limits(name, data) or not data.strip():
             raise ValueError(f"Ungültiger Schwerpunkt-Prompt: {name}")
         text = data.decode("utf-8")
         heading = re.search(r"^#\s+(.+)$", text, re.M)
@@ -39,7 +40,8 @@ def main():
             raise ValueError(f"Überschrift fehlt: {name}")
         title = re.sub(r"^\d+(?:\.\d+)*\.?\s+", "", heading[1]).replace("|", " / ")
         profile = load(ROOT / "quality/evals" / f"{name}.json")
-        skill = profile["cases"][0]["target_skill"]
+        skill = profile.get("selection", {}).get("target_skill")
+        validate_focus_review(profile.get("focus_review"), name, skill, directory, ROOT)
         skill_path = directory / "skills" / skill / "SKILL.md"
         if not skill_path.is_file():
             raise ValueError(f"Schwerpunkt-Skill fehlt: {name}/{skill}")

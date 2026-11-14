@@ -11,20 +11,20 @@ Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Frist
 
 ## Fachlandkarte dieses Plugins
 
-- `accuracy-robustness-cybersecurity-ai` — Accuracy Robustness Cybersecurity AI
-- `agile-entwicklung-und-compliance-gates` — Agile Entwicklung und Compliance Gates
-- `anwaltliche-quellenhygiene-robotik` — Anwaltliche Quellenhygiene Robotik
-- `arbeitsschutz-betrsichv-autonome` — Arbeitsschutz Betrsichv Autonome
-- `arbeitsschutz-betrsichv-robotik` — Arbeitsschutz Betrsichv Robotik
-- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Öffentlich
-- `arbeitswelt-cobot-check` — Arbeitswelt Cobot Check
-- `art-3-ki-system-robotik` — ART 3 KI System Robotik
-- `art-6-hochrisiko-robotik` — ART 6 Hochrisiko Robotik
-- `autonome-lieferroboter-oeffentlicher-raum` — Autonome Lieferroboter Oeffentlicher Raum
-- `barrierefreiheit-inklusion-batterie` — Barrierefreiheit Inklusion Batterie
-- `barrierefreiheit-und-inklusion-robotik` — Barrierefreiheit und Inklusion Robotik
-- `batterie-ladeinfrastruktur-und-brandschutz` — Batterie Ladeinfrastruktur und Brandschutz
-- `anschluss-routing` — Anschluss Routing
+- `ki-und-daten-bearbeiten` (Fachthema: accuracy-robustness-cybersecurity-ai) — Accuracy Robustness Cybersecurity AI
+- `konformitaet-und-sicherheit-bearbeiten` (Fachthema: agile-entwicklung-und-compliance-gates) — Agile Entwicklung und Compliance Gates
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anwaltliche-quellenhygiene-robotik) — Anwaltliche Quellenhygiene Robotik
+- `einsatz-und-arbeitsorganisation-bearbeiten` (Fachthema: arbeitsschutz-betrsichv-autonome) — Arbeitsschutz Betrsichv Autonome
+- `einsatz-und-arbeitsorganisation-bearbeiten` (Fachthema: arbeitsschutz-betrsichv-robotik) — Arbeitsschutz Betrsichv Robotik
+- `einsatz-und-arbeitsorganisation-bearbeiten` (Fachthema: arbeitswelt-cobot-beschaffung-oeffentlich) — Arbeitswelt Cobot Beschaffung Öffentlich
+- `einsatz-und-arbeitsorganisation-bearbeiten` (Fachthema: arbeitswelt-cobot-check) — Arbeitswelt Cobot Check
+- `ki-und-daten-bearbeiten` (Fachthema: art-3-ki-system-robotik) — ART 3 KI System Robotik
+- `produkt-und-rollen-bearbeiten` (Fachthema: art-6-hochrisiko-robotik) — ART 6 Hochrisiko Robotik
+- `ki-und-daten-bearbeiten` (Fachthema: autonome-lieferroboter-oeffentlicher-raum) — Autonome Lieferroboter Oeffentlicher Raum
+- `produkt-und-rollen-bearbeiten` (Fachthema: barrierefreiheit-inklusion-batterie) — Barrierefreiheit Inklusion Batterie
+- `produkt-und-rollen-bearbeiten` (Fachthema: barrierefreiheit-und-inklusion-robotik) — Barrierefreiheit und Inklusion Robotik
+- `produkt-und-rollen-bearbeiten` (Fachthema: batterie-ladeinfrastruktur-und-brandschutz) — Batterie Ladeinfrastruktur und Brandschutz
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 
 ## Arbeitsweg
 

@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-14",
+  "method": "desk_review",
+  "scope": "Vollständige Lektüre der sieben bestehenden pluginbezogenen Quellenregeln; Registrierung exakter vorhandener Dateistände für den Schwerpunkt-Integrationstest. Keine Änderung der Regeln.",
+  "files": [
+    {
+      "plugin": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/references/zitierweise.md",
+      "sha256": "8f5c02e8d1b651e4eccbeff6b05b5f08c7ca24580d394dadfd5d4f643973a8e9",
+      "head_byte_equal": true,
+      "review_scope": "Normfassung, genaue Entscheidungsidentität und tatsächliche Randnummer; Pressetext/Volltext sowie Vorinstanz/Ergebnis getrennt; Literatur nur tatsächlich verfügbar; interne Prüfspur getrennt vom Außenprodukt."
+    },
+    {
+      "plugin": "eu-sanktionspruefer",
+      "path": "eu-sanktionspruefer/references/zitierweise.md",
+      "sha256": "7f1254505404e2396cd5aecf493956fef66928b094c4619db2fa08fa9506a854",
+      "head_byte_equal": true,
+      "review_scope": "Rechtsakt/Amtsblatt/Zeitstand, tatsächliche Entscheidungsfundstelle; Listenstand und Identität getrennt; gescheiterter Abruf ist keine Freigabe; Literaturzugriff und interne Prüfspur begrenzt."
+    },
+    {
+      "plugin": "insolvenzanfechtung",
+      "path": "insolvenzanfechtung/references/zitierweise.md",
+      "sha256": "cff5364d39a931312a76ae94ec92e99492ceeac7b8e141e16f5e54a777b3d142",
+      "head_byte_equal": true,
+      "review_scope": "Normzeitstand und tatsächlich gelesener Originalvolltext, Trägt-/Trägt-nicht-Grenzen, keine erfundenen Randnummern oder Literatur; Lehrfälle sind keine Rechtsprechung, Aufhebung/Zurückverweisung unterscheiden."
+    },
+    {
+      "plugin": "insolvenzsachbearbeitung",
+      "path": "insolvenzsachbearbeitung/references/zitierweise.md",
+      "sha256": "94d5b19f44335b5873cdf110b0c5869393b7bfce23c83975abb8bf15167c249f",
+      "head_byte_equal": true,
+      "review_scope": "Normzeitstand und tatsächlich gelesener Originalvolltext, Trägt-/Trägt-nicht-Grenzen, keine erfundenen Randnummern oder Literatur; Lehrfälle sind keine Rechtsprechung, Aufhebung/Zurückverweisung unterscheiden."
+    },
+    {
+      "plugin": "ki-halluzinationsreduzierer",
+      "path": "ki-halluzinationsreduzierer/references/zitierweise.md",
+      "sha256": "a80babef3737a552cff8289f4eefef494b26933cd92afa16c772f5f20805f38f",
+      "head_byte_equal": true,
+      "review_scope": "Amtliche Primärquellen statt bloßer Suchtreffer, Pressetext getrennt vom Volltext, historische Normfassung, tatsächlicher Literaturzugang, technische Normwirkung und vertrauliche Eingaben; historischer Portalabruf belegt keine Einzelentscheidung."
+    },
+    {
+      "plugin": "un-kaufrecht-cisg",
+      "path": "un-kaufrecht-cisg/references/zitierweise.md",
+      "sha256": "d1a6010cd9385a7d5abbd225ee31230b60dc46ebda53b82167fd78b5c3ec3e7e",
+      "head_byte_equal": true,
+      "review_scope": "Gericht/Datum/Aktenzeichen/tatsächliche Randnummer oder PDF-Seite, Nichtzulassungsbeschwerde getrennt vom Revisionsurteil, CLOUT/Digest getrennt vom Original; zeitbezogene Vertragsstaaten/Vorbehalte und tatsächlicher Literaturzugang."
+    },
+    {
+      "plugin": "us-sanktionspruefer",
+      "path": "us-sanktionspruefer/references/zitierweise.md",
+      "sha256": "b0ac2f966572503a51dea3cb366edc676144d3169c70dfd1f9a439db53ce5441",
+      "head_byte_equal": true,
+      "review_scope": "USC/CFR und EO/OFAC/FAQ nach Quellenart trennen, US-Fundstelle statt erfundener deutscher Randnummer; Mehrheits-/Minderheitsvotum, Transaktionszeitpunkt und Listenstand; gescheiterter Abruf ist kein Negativbefund, fiktive Namen kein reales Screening."
+    }
+  ],
+  "limits": "Keine erneute amtliche Prüfung der in den Regeln erwähnten Beispielentscheidungen und keine allgemeine Rechtsstandszertifizierung; kein Live-Modelltest. Unbekannte Folgeänderungen bleiben Hashfehler.",
+  "unchanged_standard_copies": [
+    "corporate-contract-law",
+    "fachanwalt-arbeitsrecht"
+  ]
+}

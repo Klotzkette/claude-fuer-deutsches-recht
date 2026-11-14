@@ -139,7 +139,7 @@
           ]
         }
       ],
-      "target_skill": "formwahl-zugang-live-prozessablauf"
+      "target_skill": "rechtsgeschaeft-und-wirksamkeit-bearbeiten"
     },
     {
       "id": "schriftsatz-formfiktion-nicht-direktmail",
@@ -171,7 +171,7 @@
           ]
         }
       ],
-      "target_skill": "formwahl-zugang-live-prozessablauf"
+      "target_skill": "rechtsgeschaeft-und-wirksamkeit-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

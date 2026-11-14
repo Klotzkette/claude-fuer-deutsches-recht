@@ -12,7 +12,7 @@ Diese Fallvarianten sind redaktionell geprüfte Bewertungsaufträge, keine behau
 
 **Beleg:** [Amtliche KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), Artikel 3 Nummer 1, Erwägungsgrund 12.
 
-**Konkretes Produkt:** Einordnungsvermerk mit beiden Verarbeitungswegen und einer gezielten technischen Nachforderung. Bearbeitung mit [liegt-ki-system-vor-art-3-nr-1](../skills/liegt-ki-system-vor-art-3-nr-1/SKILL.md).
+**Konkretes Produkt:** Einordnungsvermerk mit beiden Verarbeitungswegen und einer gezielten technischen Nachforderung. Bearbeitung mit [liegt-ki-system-vor-art-3-nr-1](../skills/liegt-ki-system-vor-art-3-nr-1/FACHINHALT.md).
 
 ## 1.2. Schreibassistent wird Auswahlwerkzeug
 
@@ -24,7 +24,7 @@ Diese Fallvarianten sind redaktionell geprüfte Bewertungsaufträge, keine behau
 
 **Beleg:** [Amtliche KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), Artikel 3 Nummern 12 und 23; Artikel 6, Artikel 25 Absatz 1 Buchstabe c; Anhang III Nummer 4.
 
-**Konkretes Produkt:** Rollenwechselvermerk samt konkreter Mitwirkungs- und Änderungsregel für den Lieferantenvertrag. Bearbeitung mit [anbieter-werden-art-25](../skills/anbieter-werden-art-25/SKILL.md).
+**Konkretes Produkt:** Rollenwechselvermerk samt konkreter Mitwirkungs- und Änderungsregel für den Lieferantenvertrag. Bearbeitung mit [anbieter-werden-art-25](../skills/anbieter-werden-art-25/FACHINHALT.md).
 
 ## 1.3. Vorhersehbare Übernahme statt echter Aufsicht
 
@@ -36,7 +36,7 @@ Diese Fallvarianten sind redaktionell geprüfte Bewertungsaufträge, keine behau
 
 **Beleg:** [Amtliche KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), Artikel 3 Nummer 13; Artikel 9 Absätze 2 und 5; Artikel 14 Absätze 2 bis 4; Artikel 26 Absatz 2.
 
-**Konkretes Produkt:** Ausformulierte Aufsichtsanweisung mit Eingriffspunkt sowie begründete Risikobewertung. Bearbeitung mit [hochrisiko-menschliche-aufsicht-art-14](../skills/hochrisiko-menschliche-aufsicht-art-14/SKILL.md).
+**Konkretes Produkt:** Ausformulierte Aufsichtsanweisung mit Eingriffspunkt sowie begründete Risikobewertung. Bearbeitung mit [hochrisiko-menschliche-aufsicht-art-14](../skills/hochrisiko-menschliche-aufsicht-art-14/FACHINHALT.md).
 
 ## 1.4. Kein Training bedeutet weiterhin Testdatenprüfung
 
@@ -48,7 +48,7 @@ Diese Fallvarianten sind redaktionell geprüfte Bewertungsaufträge, keine behau
 
 **Beleg:** [Amtliche KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), Artikel 10 Absätze 1 bis 4 und 6; Artikel 4a Absatz 1.
 
-**Konkretes Produkt:** Datenqualitätsvermerk mit Testdatenlücke, Korrekturauftrag und begründeter Reichweite des Absatzes 6. Bearbeitung mit [hochrisiko-datenqualitaet-data-governance-art](../skills/hochrisiko-datenqualitaet-data-governance-art/SKILL.md).
+**Konkretes Produkt:** Datenqualitätsvermerk mit Testdatenlücke, Korrekturauftrag und begründeter Reichweite des Absatzes 6. Bearbeitung mit [hochrisiko-datenqualitaet-data-governance-art](../skills/hochrisiko-datenqualitaet-data-governance-art/FACHINHALT.md).
 
 ## 1.5. Eigener HR-Einsatz oder öffentlicher Dienst
 
@@ -60,4 +60,4 @@ Diese Fallvarianten sind redaktionell geprüfte Bewertungsaufträge, keine behau
 
 **Beleg:** [Amtliche KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), Artikel 27 Absätze 1 bis 4; Artikel 9 und 17.
 
-**Konkretes Produkt:** Begründete Pflichtentscheidung beziehungsweise kontextbezogene Ergänzung der Folgenabschätzung und Mitteilungsentwurf. Bearbeitung mit [grundrechte-folgenabschaetzung-art-27-praxis](../skills/grundrechte-folgenabschaetzung-art-27-praxis/SKILL.md).
+**Konkretes Produkt:** Begründete Pflichtentscheidung beziehungsweise kontextbezogene Ergänzung der Folgenabschätzung und Mitteilungsentwurf. Bearbeitung mit [grundrechte-folgenabschaetzung-art-27-praxis](../skills/grundrechte-folgenabschaetzung-art-27-praxis/FACHINHALT.md).

@@ -51,6 +51,31 @@ class LaufError(ValueError):
     pass
 
 
+def route_context(module):
+    """Lokale Zuordnung: aktiver Arbeitsweg plus unveränderter Fachkontext.
+
+    Die Mappingdatei wird mit dem Plugin ausgeliefert. Mandatsakten behalten
+    ihre bisherigen Modulkennungen; Lesen und Routing ändern keine Freigabe.
+    """
+    try:
+        mapping = json.loads(Path(__file__).with_name('fachmodul-routing.json').read_text(encoding='utf-8'))
+        if mapping.get('schema_version') != 1 or mapping.get('plugin') != 'ki-native-kanzlei':
+            raise ValueError('Unbekannte Routing-Version')
+        if module in mapping['modules']:
+            item = mapping['modules'][module]
+            owner, source = item['skill'], item['source']
+            context = module
+        elif module in mapping['active_skills']:
+            owner, source, context = module, f'skills/{module}/SKILL.md', None
+        else:
+            raise ValueError('Unbekanntes Fachmodul')
+        if owner not in mapping['active_skills']:
+            raise ValueError('Arbeitsweg fehlt')
+        return {'skill': owner, 'fachmodul': context, 'fachinhalt': source}
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        raise LaufError(f'Fachmodul-Routing nicht verfügbar: {module}') from exc
+
+
 def now():
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
@@ -269,8 +294,12 @@ def cmd_next(a):
     product = getattr(a, 'produkt', None)
     if product and not open_ids:
         skill, reason = PRODUCT_SKILLS[product], 'Gewünschtes Arbeitsprodukt: ' + product
-    print(json.dumps({'next_skill': skill, 'reason': reason, 'autonomy_level': data['autonomy_level'],
-                      'requested_product_skill': PRODUCT_SKILLS.get(product),
+    target = route_context(skill)
+    requested = route_context(PRODUCT_SKILLS[product]) if product else None
+    print(json.dumps({'next_skill': target['skill'], 'next_fachmodul': target['fachmodul'],
+                      'next_fachinhalt': target['fachinhalt'], 'reason': reason, 'autonomy_level': data['autonomy_level'],
+                      'requested_product_skill': requested['skill'] if requested else None,
+                      'requested_product_fachmodul': requested['fachmodul'] if requested else None,
                       'next_product': gate.get('product_id') or gate.get('reference') or None,
                       'responsible': gate.get('responsible'),
                       'external_action_allowed': False, 'open_gates': [g for g, v in data['gates'].items() if v.get('status') == 'offen']}, ensure_ascii=False, indent=2))
@@ -290,6 +319,7 @@ def cockpit(root, max_depth=3):
             data = json.loads(path.read_text(encoding='utf-8'))
             validate(data)
             skill, reason = recommend(data)
+            target = route_context(skill)
         except Exception:
             rows.append({'akte': str(rel.parent.parent), 'fehler': 'Mandatslauf nicht lesbar'})
             continue
@@ -298,7 +328,8 @@ def cockpit(root, max_depth=3):
         rows.append({'akte': str(rel.parent.parent), 'matter_id': data.get('matter_id'), 'phase': data.get('phase'),
                      'side_runs': data.get('side_runs', []), 'autonomy_level': data.get('autonomy_level'),
                      'open_gates': open_gates, 'open_questions': len(data.get('open_questions', [])),
-                     'next_skill': skill, 'reason': reason, 'updated': data.get('updated'), 'rank': rank})
+                     'next_skill': target['skill'], 'next_fachmodul': target['fachmodul'],
+                     'next_fachinhalt': target['fachinhalt'], 'reason': reason, 'updated': data.get('updated'), 'rank': rank})
     rows.sort(key=lambda r: (r.get('rank', -1), r.get('updated') or ''))
     return rows
 

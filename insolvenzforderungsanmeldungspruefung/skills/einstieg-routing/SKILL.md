@@ -11,21 +11,21 @@ Dieser Einstieg routet **Insolvenzforderungsanmeldungspruefung** vom ersten Sach
 
 ## Fachlandkarte dieses Plugins
 
-- `aktenanlage-batchregister` — Aktenanlage Batchregister
-- `beleg-und-urkundencheck` — Beleg und Urkundencheck
-- `bestreiten-interessen-betrag` — Bestreiten Interessen Betrag
-- `bestreiten-mehrparteien-konflikt-und-interessen` — Bestreiten Mehrparteien Konflikt und Interessen
-- `betrag-behoerden-gericht-und-registerweg` — Betrag Behoerden Gericht und Registerweg
-- `dubletten-serienforderungen` — Dubletten Serienforderungen
-- `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
-- `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
-- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
-- `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
-- `formalpruefung-174` — Formalpruefung 174
-- `grund-betrag-zinsen` — Grund Betrag Zinsen
-- `grund-risikoampel-und-gegenargumente` — Grund Risikoampel und Gegenargumente
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `eingang-form-belege-bearbeiten` (Fachthema: aktenanlage-batchregister) — Aktenanlage Batchregister
+- `eingang-form-belege-bearbeiten` (Fachthema: beleg-und-urkundencheck) — Beleg und Urkundencheck
+- `bestreiten-schuldner-delikt-bearbeiten` (Fachthema: bestreiten-interessen-betrag) — Bestreiten Interessen Betrag
+- `bestreiten-schuldner-delikt-bearbeiten` (Fachthema: bestreiten-mehrparteien-konflikt-und-interessen) — Bestreiten Mehrparteien Konflikt und Interessen
+- `grund-betrag-rang-sicherheit-bearbeiten` (Fachthema: betrag-behoerden-gericht-und-registerweg) — Betrag Behoerden Gericht und Registerweg
+- `eingang-form-belege-bearbeiten` (Fachthema: dubletten-serienforderungen) — Dubletten Serienforderungen
+- `grund-betrag-rang-sicherheit-bearbeiten` (Fachthema: feststellung-forderungsgrund-rang-grund) — Feststellung Forderungsgrund Rang Grund
+- `pruefakte-quellen-output-bearbeiten` (Fachthema: forderungsanmeldung-mandantenkommunikation-redteam-qualitygate) — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
+- `bestreiten-schuldner-delikt-bearbeiten` (Fachthema: vbuh-verhandlung-vergleich-und-eskalation) — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `grund-betrag-rang-sicherheit-bearbeiten` (Fachthema: forderungsgrund-rang-und-belegpruefung) — Forderungsgrund Rang und Belegpruefung
+- `eingang-form-belege-bearbeiten` (Fachthema: formalpruefung-174) — Formalpruefung 174
+- `grund-betrag-rang-sicherheit-bearbeiten` (Fachthema: grund-betrag-zinsen) — Grund Betrag Zinsen
+- `grund-betrag-rang-sicherheit-bearbeiten` (Fachthema: grund-risikoampel-und-gegenargumente) — Grund Risikoampel und Gegenargumente
+- `pruefakte-quellen-output-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `pruefakte-quellen-output-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

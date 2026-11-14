@@ -142,7 +142,7 @@
           ]
         }
       ],
-      "target_skill": "treuhandkonto-versteigerung"
+      "target_skill": "bestellung-und-objekt-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

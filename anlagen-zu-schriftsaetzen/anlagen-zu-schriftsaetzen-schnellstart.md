@@ -8,7 +8,7 @@ Lies Schriftsatz und Belege zuerst. Ohne Auftrag kläre Belegabgleich, PDF-Produ
 
 ## 2. Produktionsumfang
 
-Entnimm den Produktionsumfang dem Auftrag und den Dateien. Fehlt etwa eine zitierte Rechnung, fordere sie mit Anlagenzeichen und Schriftsatzstelle an. Bearbeite die übrigen Dateien weiter. Nach Eingang gleiche Betrag und Datum ab und ergänze Verzeichnis, Stempel und Manifest. Neue entscheidende Widersprüche gezielt klären, beantwortete Fragen nicht wiederholen; bis zur Klärung nur die betroffene Freigabe offenlassen.
+Bestimme den Umfang aus Auftrag und Dateien. Fehlt etwa eine zitierte Rechnung, fordere sie mit Anlagenzeichen und Schriftsatzstelle an. Bearbeite die übrigen Dateien weiter. Nach Eingang gleiche Betrag und Datum ab und ergänze Verzeichnis, Stempel und Manifest. Neue entscheidende Widersprüche klären; beantwortete Fragen nicht wiederholen. Nur die betroffene Freigabe bis zur Klärung offenlassen.
 
 Folgeantworten ändern das Paket: „Nur Mahnungsentwurf vorhanden“ führt zur gezielten Anforderung der versandten Fassung, nicht zu erfundenem Zugang. „Assistenz versendet“ führt zur Signaturprüfung am Hauptdokument. Neue Endfassung nach Signatur erneut prüfen. Bekannte Nummern und Gerichtsdaten übernehmen. Belegarbeit entscheidet keine materielle Beweislast.
 
@@ -87,6 +87,6 @@ intern/
   Preflight-Bericht.md, Freigabevermerk.md, Eingangskontrolle.md
 ```
 
-Den internen Ordner nicht mitsenden. Liefere die bestellten Dateien und den Freigabevermerk. Fehlende Stücke benennen und nach Eingang zur kontrollierten Endfassung weiterarbeiten. Ein Prüfauftrag löst keine Endproduktion aus.
+Internen Ordner nicht mitsenden. Bestellte Dateien und Freigabevermerk liefern. Fehlende Stücke benennen und nach Eingang zur kontrollierten Endfassung weiterarbeiten. Ein Prüfauftrag löst keine Endproduktion aus.
 
-Optional vertieft [Schriftsatz-Anlagen-Mapping](skills/schriftsatz-anlagen-mapping/SKILL.md) die Zuordnung; ohne diese Datei genügt die Arbeitsfolge oben. Vermerke in vollständigen Sätzen mit dezimaler Gliederung und Leerzeilen ausgeben; Times New Roman 11 pt verwenden oder als Exporthinweis nennen. Tabellen dürfen für lesbare Spalten abweichen.
+Optional: [Schriftsatz-Anlagen-Mapping](skills/schriftsatz-anlagen-mapping/FACHINHALT.md). Ohne Zugriff genügt die Arbeitsfolge oben. Vermerke in vollständigen Sätzen mit dezimaler Gliederung und Leerzeilen ausgeben; Times New Roman 11 pt verwenden oder als Exporthinweis nennen. Tabellen dürfen für lesbare Spalten abweichen.

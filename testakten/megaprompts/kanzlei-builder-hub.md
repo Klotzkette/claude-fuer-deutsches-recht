@@ -443,7 +443,7 @@ Immer bei Update neu verifizieren, nicht still anwenden. Ein neuer Commit beweis
 
 **Benachrichtigen (Standard):** Vollständigen Diff und Vertrauensprüfung anzeigen. "Update verfügbar. Den obigen Diff prüfen. Anwenden? [ja/nein]"
 
-**Manuell:** Nur auflisten, was Updates hat. Nutzer führt `/kanzlei-builder-hub:automatischer-aktualisierer --apply [skill]` aus, wenn bereit.
+**Manuell:** Nur auflisten, was Updates hat. Nutzer führt `/kanzlei-builder-hub:pflege-deaktivierung-bearbeiten Thema: automatischer-aktualisierer --apply [skill]` aus, wenn bereit.
 
 Es gibt keinen "automatischen" Modus. Updates für Code in der Kanzleiumgebung erfordern immer, dass ein Mensch den Diff liest.
 
@@ -737,7 +737,7 @@ Basierend auf der Aufgabenbeschreibung passende Skills in den Registries suchen:
 ### Schritt 3: Ausgabe
 
 **Bei starker Übereinstimmung:**
-> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Beschreibung]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ausprobieren.
+> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Beschreibung]". `/kanzlei-builder-hub:installation-sicherheit-bearbeiten Thema: skill-installierer [name]` zum Ausprobieren.
 
 **Bei keiner starken Übereinstimmung:** Keine Ausgabe. Nicht ankündigen "Ich habe nichts gefunden."
 
@@ -771,7 +771,7 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 
 > **Wie weiter? Wählen Sie:**
 > 1. **Skill ansehen** — Ich zeige die vollständige SKILL.md des empfohlenen Skills.
-> 2. **Skill installieren** — Ich starte `/kanzlei-builder-hub:skill-installierer [name]` mit dem vollständigen Sicherheits- und Berufsrechtsprüfungs-Ablauf.
+> 2. **Skill installieren** — Ich starte `/kanzlei-builder-hub:installation-sicherheit-bearbeiten Thema: skill-installierer [name]` mit dem vollständigen Sicherheits- und Berufsrechtsprüfungs-Ablauf.
 > 3. **Ähnliche Skills suchen** — Ich durchsuche die Registries nach weiteren Skills im gleichen Bereich.
 > 4. **Nicht interessiert** — Ich merke mir das und empfehle diesen Skill nicht mehr.
 > 5. **Sonstiges** — Was möchten Sie mit dieser Empfehlung tun?
@@ -783,7 +783,7 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 
 💡 Die Community hat einen Skill dafür: **nda-prüfung** aus kanzlei-skills —
 "Prüft Geheimhaltungsvereinbarungen auf typische Risikopunkte nach deutschem Recht."
-/kanzlei-builder-hub:skill-installierer nda-prüfung zum Ansehen.
+/kanzlei-builder-hub:installation-sicherheit-bearbeiten Thema: skill-installierer nda-prüfung zum Ansehen.
 ```
 
 ```
@@ -791,7 +791,7 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 
 💡 Die Community hat einen Skill dafür: **avv-generator** aus kanzlei-datenschutz-skills —
 "Generiert Auftragsverarbeitungsverträge nach Art. 28 DSGVO."
-/kanzlei-builder-hub:skill-installierer avv-generator zum Ansehen.
+/kanzlei-builder-hub:installation-sicherheit-bearbeiten Thema: skill-installierer avv-generator zum Ansehen.
 
 Hinweis: Vor der Installation — dieser Skill verarbeitet Mandantendaten. TOM-Prüfung nach
 Art. 32 DSGVO und ggf. AVV mit dem Infrastrukturanbieter erforderlich.

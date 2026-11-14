@@ -43,7 +43,7 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 5.1 Verknüpfung mit den tragenden Fachskills
 
-Nur die einschlägige Teilfrage vertiefen: [Kauf, Miete und Pacht](../../historischen-kauf-miete-pacht-pruefen/SKILL.md), [Textzeugenvergleich](../../textzeugen-vergleichen/SKILL.md), [Vertragsschluss und Form](../../historischen-vertragsschluss-pruefen/SKILL.md) oder [historische Aufopferung](../../historische-aufopferung-untersuchen/SKILL.md). Den belegten Befund in das Gutachten zurückführen. Die frühere Zuordnung von Miete und Pacht zu Teil 1 Titel 13 war kein zutreffender Titelanker.
+Nur die einschlägige Teilfrage vertiefen: [Kauf, Miete und Pacht](../../historischen-kauf-miete-pacht-pruefen/FACHINHALT.md), [Textzeugenvergleich](../../textzeugen-vergleichen/FACHINHALT.md), [Vertragsschluss und Form](../../historischen-vertragsschluss-pruefen/FACHINHALT.md) oder [historische Aufopferung](../../historische-aufopferung-untersuchen/FACHINHALT.md). Den belegten Befund in das Gutachten zurückführen. Die frühere Zuordnung von Miete und Pacht zu Teil 1 Titel 13 war kein zutreffender Titelanker.
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

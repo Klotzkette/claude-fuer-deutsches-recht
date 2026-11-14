@@ -1,0 +1,105 @@
+---
+name: kaltstart-interview
+description: "Für /fortbestehensprognose:prognose-bearbeiten Thema: kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+---
+
+# /fortbestehensprognose:prognose-bearbeiten Thema: kaltstart-interview
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+## Disclaimer (Schlüsselstelle)
+
+Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nach § 19 Abs. 2 InsO. Es ersetzt **nicht** die anwaltliche Prüfung durch einen Insolvenzrechtler bei Anzeichen für Insolvenzreife. Die Antragspflicht nach § 15a InsO (drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung) ist persönliche Pflicht des Geschäftsleiters mit strafrechtlicher Bewehrung (§ 15a Abs. 4 InsO) und Haftungsrisiko (§ 15b InsO, frühere § 64 GmbHG). Im Zweifel **vor** Ablauf der Frist Insolvenzanwalt konsultieren.
+
+## Ablauf
+
+1. Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md` prüfen.
+2. Falls befüllt: bestätigen, gegebenenfalls --redo für Neu-Interview.
+3. Andernfalls Interview unten ausführen.
+
+## Interview
+
+### 1. Wer nutzt das Plugin
+
+- **Rolle:** Geschäftsführer GmbH / Vorstand AG / Geschäftsleiter Personengesellschaft / Gesellschafter mit Eigenverantwortung / Finanzleiter / sonst?
+- **Persönliche Antragspflicht** nach § 15a InsO? Wer ist Geschäftsleiter mit Antragspflicht? Bei mehreren ist jeder einzeln verpflichtet (BGH-Rspr.).
+- **Anwaltlicher Ansprechpartner** (Insolvenzanwalt) — Name, Erreichbarkeit. Bei negativer Prognose sofort eskalieren.
+- **Steuerlicher Ansprechpartner** (Steuerberater / Wirtschaftsprüfer) — Name, Erreichbarkeit.
+
+### 2. Unternehmensprofil
+
+- **Rechtsform** GmbH AG GmbH und Co. KG Aktiengesellschaft Personengesellschaft.
+- **Stammkapital** (relevant für Mantel- bzw. Anhalt-Insolvenzreife).
+- **Geschäftsjahr** und Bilanzstichtag.
+- **Branche** (relevant für Plausibilisierung).
+- **Beschäftigte** Anzahl.
+- **Umsatz** im laufenden Jahr und Vorjahr.
+
+### 3. Buchhaltung und Bilanzierung
+
+- **Buchhaltungssoftware** DATEV Lexware SAP sevDesk sonst.
+- **Bilanzierungsstandard** HGB / IFRS / Mischung.
+- **Letzter Jahresabschluss** Datum.
+- **Aktueller Stand** unterjaehrige BWA SuSa Konzernreporting verfügbar.
+
+### 4. Ausgangslage
+
+- Was hat den Anlass gegeben für diese Prüfung? (siehe Skill `ausloesendes-ereignis-erfassen`)
+- Bilanzielle Überschuldung bereits festgestellt? (Aktiva kleiner als Passiva?)
+- Stille Reserven oder Lasten vorhanden?
+- Aktuelle Liquiditätslage subjektiv: angespannt? ausreichend? bereits überschritten?
+
+### 5. Eskalationspfad
+
+- **Ab welchem Befund** wird sofort der Insolvenzanwalt eingeschaltet? Empfehlung: bei jedem 🔴-Flag im Verlauf.
+- **Drei-Wochen-Frist** § 15a InsO bei Zahlungsunfähigkeit (§ 17 InsO) ist persönliche Pflicht. **Sechs Wochen** bei Überschuldung (§ 19 InsO seit SanInsFoG 2021).
+- **Kein Aufschieben** wegen Sanierungsverhandlungen — die Frist beginnt mit Eintritt der Insolvenzreife (objektives Kriterium).
+
+### 6. Standort
+
+- **Sitz und Insolvenzgericht** (Belegenheits-AG nach § 3 InsO).
+- **Bundesland** (relevant für Justiznetzwerk).
+
+## Rechtlicher Rahmen
+
+- **InsO** § 15a (Antragspflicht), § 15b (Zahlungsverbot ab Insolvenzreife), § 17 (Zahlungsunfähigkeit), § 18 (drohende Zahlungsunfähigkeit, Prognose 24 Monate seit 2021), § 19 (Überschuldung, Fortbestehensprognose 12 Monate seit 2021).
+- **StaRUG** §§ 29 ff. (Restrukturierungsrahmen vor Insolvenzreife), § 102 (Hinweispflicht Steuerberater).
+- **IDW S 11** Beurteilung des Vorliegens von Insolvenzeröffnungsgründen.
+- **IDW S 6** Anforderungen an Sanierungskonzepte.
+- **GmbHG** § 64 a.F. — heute § 15b InsO.
+
+## Ausgabe
+
+Profil wird geschrieben. Empfohlene nächste Skills:
+
+1. `/fortbestehensprognose:krisenstadium-bearbeiten Thema: ausloesendes-ereignis-erfassen` — Anlass und Vorinformation
+2. `/fortbestehensprognose:krisenstadium-bearbeiten Thema: bilanzieller-status-aufnehmen` — Ausgangsfeststellung
+3. `/fortbestehensprognose:annahmen-sammeln-fortfuehrung` — Prognoseannahmen
+4. (parallel) `/liquiditaetsplanung` — für die rollierende 12-Monats-Liquidität
+
+Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Prozent seit mehr als drei Wochen) **sofort** Insolvenzanwalt einschalten und mit Plugin `insolvenzrecht` arbeiten — nicht in diesem Plugin weiterarbeiten.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Paragrafenkette Kaltstart
+
+§ 19 InsO (Ueberschuldungsgrund) → § 15a InsO (Antragspflicht) → § 15b InsO (Zahlungs-/Haftungsrisiko) → § 43 GmbHG (Sorgfaltspflicht GF) → IDW S 11 (Standard Insolvenz-Beurteilung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

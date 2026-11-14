@@ -2,7 +2,9 @@
 
 [Repo-Start](../README.md) | [Dateikatalog](../README.md#dateikatalog) | [Vergabestelle](../vergabestelle-behoerden/README.md) | [Bieter](../bieter-unternehmen/README.md) | [Konkurrent](../konkurrenten-rechtsschutz/README.md) | [Alle Skills](../SKILLS.md) | [Plugin-Index](./README.md) | [Testakten](../testakten/README.md) | [Rechtsprechung](../references/leitentscheidungen-anker.md)
 
-20 Skills · Stand `v445.33.1` · Rolle: Konkurrent
+20 aktive Skills · Pluginstand `v445.33.1` · Rolle: Konkurrent
+
+Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodulen. Die separaten Markdown- und Sammelarchive bleiben im veröffentlichten Stand `v445.33.1` mit der damaligen Skillaufteilung erhalten.
 
 ## Schnellnavigation
 

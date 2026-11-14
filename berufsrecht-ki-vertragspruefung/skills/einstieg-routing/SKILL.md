@@ -11,21 +11,21 @@ Dieser Einstieg routet **Berufsrecht Ki Vertragspruefung** vom ersten Sachverhal
 
 ## Fachlandkarte dieses Plugins
 
-- `ai-act-rollen-kanzlei-provider-deployer-api` — AI ACT Rollen Kanzlei Provider Deployer API
-- `anbietern-belehrung-sonderfall-edge` — Anbietern Belehrung Sonderfall Edge
-- `anbietern-schriftsatz-brief-memo-bausteine` — Anbietern Schriftsatz Brief Memo Bausteine
-- `art-50-ki-vo-schriftsatz-marketing-chatbot` — ART 50 KI VO Schriftsatz Marketing Chatbot
-- `avv-grenzpruefung-brki-anbieter-eu` — AVV Grenzpruefung Brki Anbieter EU
-- `avv-grenzpruefung-datenschutz` — AVV Grenzpruefung Datenschutz
-- `belehrung-abschlussprodukt-uebergabe` — Belehrung Abschlussprodukt Übergabe
-- `belehrung-abschlussprodukt-und-uebergabe` — Belehrung Abschlussprodukt und Übergabe
-- `berufsrecht-sonderfall-edge-case` — Berufsrecht Sonderfall Edge Case
-- `berufsrecht-sonderfall-und-edge-case` — Berufsrecht Sonderfall und Edge Case
-- `berufsrechtliche-bnoto-interessen-brao` — Berufsrechtliche Bnoto Interessen BRAO
-- `bnoto-interessen` — Bnoto Interessen
-- `bnoto-mehrparteien-konflikt-und-interessen` — Bnoto Mehrparteien Konflikt und Interessen
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `aussenauftritt-und-kanzleipraxis-bearbeiten` (Fachthema: ai-act-rollen-kanzlei-provider-deployer-api) — AI ACT Rollen Kanzlei Provider Deployer API
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anbietern-belehrung-sonderfall-edge) — Anbietern Belehrung Sonderfall Edge
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anbietern-schriftsatz-brief-memo-bausteine) — Anbietern Schriftsatz Brief Memo Bausteine
+- `verschwiegenheit-und-daten-bearbeiten` (Fachthema: art-50-ki-vo-schriftsatz-marketing-chatbot) — ART 50 KI VO Schriftsatz Marketing Chatbot
+- `verschwiegenheit-und-daten-bearbeiten` (Fachthema: avv-grenzpruefung-brki-anbieter-eu) — AVV Grenzpruefung Brki Anbieter EU
+- `verschwiegenheit-und-daten-bearbeiten` (Fachthema: avv-grenzpruefung-datenschutz) — AVV Grenzpruefung Datenschutz
+- `verguetung-und-vermoegenspflichten-bearbeiten` (Fachthema: belehrung-abschlussprodukt-uebergabe) — Belehrung Abschlussprodukt Übergabe
+- `verguetung-und-vermoegenspflichten-bearbeiten` (Fachthema: belehrung-abschlussprodukt-und-uebergabe) — Belehrung Abschlussprodukt und Übergabe
+- `berufszugang-und-organisation-bearbeiten` (Fachthema: berufsrecht-sonderfall-edge-case) — Berufsrecht Sonderfall Edge Case
+- `kammer-und-berufsverfahren-bearbeiten` (Fachthema: berufsrecht-sonderfall-und-edge-case) — Berufsrecht Sonderfall und Edge Case
+- `mandat-und-interessenkollision-bearbeiten` (Fachthema: berufsrechtliche-bnoto-interessen-brao) — Berufsrechtliche Bnoto Interessen BRAO
+- `mandat-und-interessenkollision-bearbeiten` (Fachthema: bnoto-interessen) — Bnoto Interessen
+- `mandat-und-interessenkollision-bearbeiten` (Fachthema: bnoto-mehrparteien-konflikt-und-interessen) — Bnoto Mehrparteien Konflikt und Interessen
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

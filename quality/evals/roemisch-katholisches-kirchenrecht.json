@@ -119,7 +119,7 @@
           ]
         }
       ],
-      "target_skill": "hierarchischer-rekurs"
+      "target_skill": "rechtsquelle-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -127,7 +127,7 @@
     "files": [
       "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md",
       "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md",
-      "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/SKILL.md"
+      "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/FACHINHALT.md"
     ],
     "opening_change": "Akt, Rechtsposition und konkreter Antrag oder Rekurs im Mittelpunkt; staatliche Wirkungen separat.",
     "norms": [
@@ -169,7 +169,7 @@
         "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md",
         "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md",
         "roemisch-katholisches-kirchenrecht/skills/juristischer-argumentationskern/SKILL.md",
-        "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/SKILL.md"
+        "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/FACHINHALT.md"
       ],
       "result": "Werkstatt/Mini wahren die Grenzen von Loyalitätsanforderungen, Kirchenaustritt und kanonischem Status. Spezialskill enthielt verkürzte Aussage C-68/17; nun anhand Rn. 53–56 berufsbezogen und einzelfalloffen formuliert.",
       "search_2026": "2026-Suche bestätigte den bereits enthaltenen C-258/24; dessen Volltext und 8 AZR 194/25 (F) nicht erneut vollständig gelesen. Frisch C-68/17-Rn. 53–56 zum konkreten Altfehler nachgelesen.",

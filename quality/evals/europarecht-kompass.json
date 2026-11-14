@@ -43,6 +43,22 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0573",
       "checked_on": "2026-09-22",
       "supports": "EuGH, Urteil vom 24. Juni 2019, C-573/17, Popławski, Randnummern 60 bis 68. Anwendung: Vorrang von unmittelbarer Wirkung trennen; Richtlinie allein begründet grundsätzlich keine zusätzliche Pflicht eines Privaten. Grenze: Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen."
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77. Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV. Grenze: Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 38–77 und Tenor",
+      "sha256": "73beb84999ce90bae75dc6987f68439305de2a429fa4faf7a2bd147aad5930d0"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+      "checked_on": "2026-11-14",
+      "supports": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104. Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe. Grenze: Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Kopf, Leitsatz, Verwerfung; Rn. 90–109, 151–156",
+      "sha256": "a0f2be84d0f36bcb31a65a0891879e42964602589d2ff7e1c69838f8f2a30f60"
     }
   ],
   "mini_review": {
@@ -97,19 +113,20 @@
           ]
         }
       ],
-      "target_skill": "europarecht-richtlinie-umsetzung-simulation"
+      "target_skill": "normwirkung-bearbeiten"
     }
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt arbeitet Vorrang, unmittelbare Wirkung, konforme Auslegung und mögliche Staatshaftung mit einem begrenzten Popławski-Anker ab. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde. Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Die Werkstatt arbeitet Vorrang, unmittelbare Wirkung, konforme Auslegung und mögliche Staatshaftung mit einem begrenzten Popławski-Anker ab. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde. Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "changes": [
       "C-573/17 Randnummern 60 bis 68 in die Anspruchsprüfung eingebaut.",
       "Rahmenbeschluss-Ausgangsfall und Grenzen horizontaler Richtlinienwirkung ausdrücklich benannt.",
       "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam, pepp."
     ],
-    "sha256": "f036027b62b4e77ba5f1359596da95a6f25c49e888b390e7310dd316854e0e1f"
+    "sha256": "f89c4d3e1617bf0f61cb55d6011c2397f6160d6e4f198ab548b18ad03e80b967"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -132,6 +149,20 @@
         "application": "Vorrang von unmittelbarer Wirkung trennen; Richtlinie allein begründet grundsätzlich keine zusätzliche Pflicht eines Privaten.",
         "limit": "Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen.",
         "checked_on": "2026-09-22"
+      },
+      {
+        "citation": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77",
+        "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+        "application": "Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV.",
+        "limit": "Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+        "checked_on": "2026-11-14"
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+        "application": "Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe.",
+        "limit": "Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+        "checked_on": "2026-11-14"
       }
     ],
     "remaining_limits": [
@@ -179,5 +210,46 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_audit_2026_11_14": {
+    "date": "2026-11-14",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-11-14/verfassungs-europa-produkt.md",
+    "workshop_path": "europarecht-kompass/europarecht-kompass-werkstatt.md",
+    "before_sha256": "f036027b62b4e77ba5f1359596da95a6f25c49e888b390e7310dd316854e0e1f",
+    "after_sha256": "f89c4d3e1617bf0f61cb55d6011c2397f6160d6e4f198ab548b18ad03e80b967",
+    "previous_workshop_review": {
+      "verdict": "revised",
+      "reason": "Die Werkstatt arbeitet Vorrang, unmittelbare Wirkung, konforme Auslegung und mögliche Staatshaftung mit einem begrenzten Popławski-Anker ab. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde. Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "changes": [
+        "C-573/17 Randnummern 60 bis 68 in die Anspruchsprüfung eingebaut.",
+        "Rahmenbeschluss-Ausgangsfall und Grenzen horizontaler Richtlinienwirkung ausdrücklich benannt.",
+        "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
+        "Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      ],
+      "sha256": "f036027b62b4e77ba5f1359596da95a6f25c49e888b390e7310dd316854e0e1f"
+    },
+    "decisions": [
+      {
+        "citation": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77",
+        "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+        "application": "Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV.",
+        "limit": "Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+        "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 38–77 und Tenor",
+        "checked_on": "2026-11-14",
+        "sha256": "73beb84999ce90bae75dc6987f68439305de2a429fa4faf7a2bd147aad5930d0"
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+        "application": "Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe.",
+        "limit": "Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+        "read_passages": "Kopf, Leitsatz, Verwerfung; Rn. 90–109, 151–156",
+        "checked_on": "2026-11-14",
+        "sha256": "a0f2be84d0f36bcb31a65a0891879e42964602589d2ff7e1c69838f8f2a30f60"
+      }
+    ],
+    "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
   }
 }

@@ -1,0 +1,65 @@
+---
+name: vorlage-ma-due-diligence
+description: "Für /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: vorlage-ma-due-diligence."
+---
+
+# /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence
+
+## Spalten (18 Datenpunkte)
+
+1. **Vertragsart** — Rahmenvertrag / Einzelvertrag / NDA / Lizenz / Lieferung / Werk
+2. **Laufzeit und Beginn** — Vertragsdatum + Festlaufzeit / unbefristet
+3. **Kündigungsfrist** — ordentliche / außerordentliche / Sondertatbestände
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. **MAC-Klausel** — Wesentlichkeitsdefinition / Rechtsfolge (BGB Paragraph 313 / 314)
+6. **Abtretungsverbot** — BGB Paragraph 399 / HGB Paragraph 354a / Vertragsübernahme
+7. **Haftungsbegrenzung** — pro Fall / pro Jahr / Ausschluss Vorsatz und grobe Fahrlaessigkeit
+8. **Garantien** — beschaffenheitsbezogen / verschuldensunabhängig / Haftungsausschluss BGB Paragraph 444
+9. **Vertragsstrafe** — Höhe / Deckelung / Verschuldensanknuepfung
+10. **Service-Level** — Reaktionszeit / Verfügbarkeit / Wiederherstellungszeit
+11. **Datenschutz-AVV** — DSGVO Artikel 28 / Drittlandtransfer / SCC / TIA
+12. **Geheimhaltung** — Dauer / Carve-Outs / Rückgabe / Sanktionen
+13. **Vergütung** — Festpreis / Stundensatz / Erfolg / Schwellen
+14. **Preisanpassung** — Indexbindung / Schwellen / Kündigungsrecht der Gegenseite
+15. **Schriftform** — Änderungsvorbehalt / Sprengsatz (BGB Paragraph 125 Satz 2)
+16. **Gerichtsstand** — vereinbarter Gerichtsstand / Kaufmannsklausel (ZPO Paragraph 38)
+17. **Schiedsklausel** — Schiedsgericht / Sitz / Sprache / Verfahrensordnung
+18. **Anwendbares Recht** — Rechtswahl / kollisionsrechtliche Wirkungen
+
+## Arbeitsblatt-Perspektiven (4)
+
+### Recht (Anwaltsperspektive)
+
+- Zusatzspalten: AGB-Wirksamkeit (BGB Paragraph 305 ff.) / Klauselverbote (BGB Paragraph 308 / Paragraph 309) / Verjährungsverkürzung
+- Prüfer: M&A-Lead-Counsel
+- Materialität rot: unwirksame Klausel mit Hauptleistungsbezug
+
+### Steuer (Steuerberater)
+
+- Zusatzspalten: Umsatzsteuer-Behandlung / Reverse-Charge / verdeckte Gewinnausschuettung bei Konzernverträgen (KStG)
+- Prüfer: Steuerberater
+- Materialität rot: USt-Risiko mehr als 100k EUR
+
+### Wirtschaft (Buyside)
+
+- Zusatzspalten: Vertragsvolumen pro Jahr / Top-Kunde-Konzentration / Working-Capital-Effekt / Verlängerungsoption
+- Prüfer: Deal-Lead
+- Materialität rot: Vertrag > 10 Prozent Umsatz UND Kündigungsrecht der Gegenseite < 12 Monate
+
+### Datenschutz (DSGVO)
+
+- Zusatzspalten: Datenkategorien / Rechtsgrundlage Artikel 6 / Drittlandtransfer / Auftragsverarbeitung / Joint-Controller
+- Prüfer: Datenschutzbeauftragter
+- Materialität rot: Auftragsverarbeitung ohne AVV oder Drittlandtransfer ohne SCC
+
+## Ausgabe
+
+Würfel-Schema fix und fertig in `wuerfel-schema.yaml` mit allen drei Achsen. Direkt einsatzbereit für `review-durchfuehren`.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->

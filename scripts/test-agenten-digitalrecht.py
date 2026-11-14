@@ -7,6 +7,7 @@ import re
 import unittest
 
 from quality_lab import load, validate_profile
+from skill_sources import active_owner, fachinhalt_path
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -35,7 +36,7 @@ SPEC.loader.exec_module(STRUCTURE)
 
 
 def skill(plugin, name):
-    return (ROOT / plugin / "skills" / name / "SKILL.md").read_text(encoding="utf-8")
+    return fachinhalt_path(ROOT / plugin / "skills" / name / "SKILL.md").read_text(encoding="utf-8")
 
 
 class AgentenDigitalrechtTests(unittest.TestCase):
@@ -46,7 +47,8 @@ class AgentenDigitalrechtTests(unittest.TestCase):
                 validate_profile(profile, plugin, ROOT / plugin)
                 cases = [c for c in profile["cases"] if c["id"] == "agenten-digitalrecht-2026"]
                 self.assertEqual(len(cases), 1)
-                self.assertIn(cases[0]["target_skill"], SKILLS[plugin])
+                self.assertIn(cases[0]["target_skill"],
+                              {active_owner(ROOT / plugin, name) for name in SKILLS[plugin]})
                 self.assertGreaterEqual(len(cases[0]["criteria"]), 3)
                 self.assertEqual(cases[0]["input_files"], [])
 
@@ -66,9 +68,14 @@ class AgentenDigitalrechtTests(unittest.TestCase):
         for plugin, names in SKILLS.items():
             for name in names:
                 with self.subTest(plugin=plugin, skill=name):
-                    path = ROOT / plugin / "skills" / name / "SKILL.md"
+                    path = fachinhalt_path(ROOT / plugin / "skills" / name / "SKILL.md")
                     text = path.read_text(encoding="utf-8")
                     self.assertRegex(text, rf"(?m)^name: {re.escape(name)}$")
+                    owner = active_owner(ROOT / plugin, name)
+                    route = ROOT / plugin / "skills" / owner / "SKILL.md"
+                    self.assertTrue(route.is_file())
+                    if path.name == "FACHINHALT.md":
+                        self.assertIn(f"../{name}/FACHINHALT.md", route.read_text(encoding="utf-8"))
                     for link in re.findall(r"\]\(([^)]+)\)", text):
                         if "://" in link or link.startswith("#"):
                             continue

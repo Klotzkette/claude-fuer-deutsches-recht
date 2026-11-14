@@ -1,0 +1,109 @@
+{
+  "checked_on": "2026-11-14",
+  "changes": [
+    {
+      "plugin": "verfassungsrecht",
+      "path": "verfassungsrecht/verfassungsrecht-werkstatt.md",
+      "before_sha256": "7e543dff45f2a8decd028d18b66627a8f8c471b1a8603e85caa1ceebfc95b445",
+      "after_sha256": "4aadd10edb17589e365117fd4e12438c5bd425ecfaff4a4a5e8df2a5af7071e2",
+      "decisions": [
+        "pepp",
+        "kosten"
+      ]
+    },
+    {
+      "plugin": "richter-bverfg-verfassungsbeschwerden",
+      "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-werkstatt.md",
+      "before_sha256": "f5b0542039829f649847db228a95582dd4d2dba5ecffe01a232933d4ef588183",
+      "after_sha256": "dbe997ebbff3891fb242deb0cde07871b26c22b35b318cca3010750a39e099c4",
+      "decisions": [
+        "pepp",
+        "kosten"
+      ]
+    },
+    {
+      "plugin": "europarecht-kompass",
+      "path": "europarecht-kompass/europarecht-kompass-werkstatt.md",
+      "before_sha256": "f036027b62b4e77ba5f1359596da95a6f25c49e888b390e7310dd316854e0e1f",
+      "after_sha256": "f89c4d3e1617bf0f61cb55d6011c2397f6160d6e4f198ab548b18ad03e80b967",
+      "decisions": [
+        "cbam",
+        "pepp"
+      ]
+    },
+    {
+      "plugin": "produktrecht",
+      "path": "produktrecht/produktrecht-werkstatt.md",
+      "before_sha256": "2ef9b8a2bd290fcc867ceca33faf1737035084fb24b55c21ac37eeedbfd1b1b1",
+      "after_sha256": "89d6510b3539a77a646ec1d8772dfb6e667f23e6287a855c11f01b85dc7f57f3",
+      "decisions": [
+        "kerry"
+      ]
+    },
+    {
+      "plugin": "compliance-abteilung-grosskonzern",
+      "path": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+      "before_sha256": "ab8f31e92143eafebca699446bfd0bd1ddff08e4baf1f9194de9bc47610cc77e",
+      "after_sha256": "7f22538aae535b916abe2d3ef88ce070ddff5b48e4d126cdc3050d813d3cab28",
+      "decisions": [
+        "kerry"
+      ]
+    },
+    {
+      "plugin": "aussenwirtschaft-zoll-sanktionen",
+      "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+      "before_sha256": "620b89f6e2cff1b7a227b389ae493d9c1387aa6c3b655cab678b80fb2f185c83",
+      "after_sha256": "9d74b631bd000f6ce5d47941a9e3931428c5915ce2e97ef744d17b233903a2db",
+      "decisions": [
+        "cbam"
+      ]
+    },
+    {
+      "plugin": "umweltrecht",
+      "path": "umweltrecht/umweltrecht-werkstatt.md",
+      "before_sha256": "0f16618737ea992ca45a511a1e1a35a0edf546c71c59bf12992071f28edc5265",
+      "after_sha256": "2c0500eef90c8aaed9d90c036581f51702d18f97eeb443ef952b535c456004fc",
+      "decisions": [
+        "cbam"
+      ]
+    }
+  ],
+  "sources": {
+    "pepp": {
+      "citation": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+      "application": "Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe.",
+      "limit": "Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+      "read_passages": "Kopf, Leitsatz, Verwerfung; Rn. 90–109, 151–156",
+      "file": "bverfg-pepp-volltext.html",
+      "sha256": "a0f2be84d0f36bcb31a65a0891879e42964602589d2ff7e1c69838f8f2a30f60"
+    },
+    "kosten": {
+      "citation": "BVerfG, Kammerbeschl. v. 15.10.2026 – Az. 2 BvR 927/25, Rn. 1–7",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/rk20261015_2bvr092725.html",
+      "application": "Auslagenerstattung nach Abhilfe und Erledigung anhand des konkreten Erledigungsgrundes nach Billigkeit prüfen.",
+      "limit": "Keine automatische Kostenerstattung nach jeder Erledigung; Mindestgegenstandswert im konkreten Fall.",
+      "read_passages": "Vollständiger Beschluss, Rn. 1–7",
+      "file": "bverfg-kosten.html",
+      "sha256": "07c03fdfd2119418c22b8c84f1449158b34b809e84c631ac1981fe563cef38e3"
+    },
+    "kerry": {
+      "citation": "EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225",
+      "url": "https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html",
+      "application": "Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist.",
+      "limit": "Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
+      "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 79–89, 195–201, 219–225, 240–245, 300–307 und Tenor",
+      "file": "62024TJ0523.html",
+      "sha256": "da648c64034e32dd8f68973bdf03888d3e82b6f5a5b44de673feffeef0f0fa7d"
+    },
+    "cbam": {
+      "citation": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77",
+      "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+      "application": "Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV.",
+      "limit": "Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+      "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 38–77 und Tenor",
+      "file": "62023CJ0512.html",
+      "sha256": "73beb84999ce90bae75dc6987f68439305de2a429fa4faf7a2bd147aad5930d0"
+    }
+  }
+}

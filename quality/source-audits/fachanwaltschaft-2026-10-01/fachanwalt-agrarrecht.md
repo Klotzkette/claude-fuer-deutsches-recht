@@ -32,10 +32,10 @@ Werkstatt und Mini enthalten beide aktuellen Anker mit Datum, Aktenzeichen und a
 
 - [fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md](../../../fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md)
 - [fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md](../../../fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md)
-- [fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md](../../../fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md)
+- [fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md)
 - [fachanwalt-agrarrecht/skills/juristischer-argumentationskern/SKILL.md](../../../fachanwalt-agrarrecht/skills/juristischer-argumentationskern/SKILL.md)
-- [fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md](../../../fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md)
-- [fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md](../../../fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md)
+- [fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md)
+- [fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/dbfbb6f63b15bf52110e8db06b4bb78e953f6db3/fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md)
 
 ## 1.3. Prüfung
 

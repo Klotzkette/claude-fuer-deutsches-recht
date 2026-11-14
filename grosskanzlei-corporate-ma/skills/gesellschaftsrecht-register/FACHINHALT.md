@@ -1,0 +1,198 @@
+---
+name: gesellschaftsrecht-register
+description: "Für Gesellschaftsrecht Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
+---
+
+# Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschlüsse, Vollmachten und Organstellung der Zielgesellschaft
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO Paragraf 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschlüsse, Vollmachten und Organstellung der Zielgesellschaft. Paragraf 8-11 GmbHG, Paragraf 39-40 AktG, Paragraf 29 ff. HGB. Prüfraster aktueller Registerstand, Vertretungsmacht, Kapitalstruktur, Transparenzregister-Eintrag, Corporate Approvals für Transaktion. Output Corporate-Housekeeping-Checkliste mit Defizitliste und Closing-Deliverables-Ableitung. Abgrenzung zu Handelsregisterabruf-Skill für Recherche und zu Signing-Closing-CPs.
+
+### Corporate Housekeeping und Register
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate Housekeeping und Register` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Corporate Housekeeping und Register
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+## Wann wird dieser Skill aufgerufen
+Typische Auslöser:
+- "Ich habe hier Corporate Housekeeping und Register und brauche einen belastbaren nächsten Schritt."
+- "Bitte prüfe das für ein M&A-Mandat aus Sicht von Buy-side, Sell-side oder Target."
+- "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
+- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
+
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:transaktion-und-struktur-bearbeiten Thema: kommandocenter` oder `/grosskanzlei-corporate-ma:transaktion-und-struktur-bearbeiten Thema: deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
+
+## Voraussetzungen und Kontext laden
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
+
+Benötigte Unterlagen:
+- aktueller Vertragsentwurf, Markup, Term Sheet und Annex-/Schedule-Struktur.
+- CP-Tracker, Closing Deliverables, Board-/Shareholder-Approvals.
+- Disclosure Letter, Knowledge-Definition, W&I-Underwriting-Liste.
+
+Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
+
+## Workflow
+1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
+2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
+3. **Rechts- und Workstream-Schnittstellen trennen.** Ordne Punkte in Corporate, Commercial, Tax, Regulatory, Finance, IP/IT, HR, Litigation, Real Estate, ESG und PMO. Vermische DD-Finding, Vertragsfolge und Closing-Aufgabe nicht in einem Satz.
+4. **Materiality-Schwelle setzen.** Übernimm Schwellen aus LOI, SPA, DD-Scope oder Kanzlei-Playbook. Fehlt sie, schlage eine vorläufige qualitative Ampel vor: Dealbreaker, Price/Indemnity, Signing/Closing Condition, Disclosure-only, Housekeeping.
+5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen nicht abstrakt, sondern bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
+6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht ausdrücklich `[zu verifizieren]`.
+7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
+8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein Senior-Review-Memo mit genau den offenen Entscheidungen.
+9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
+10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
+
+## Prüfraster im Gutachtenstil
+**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
+
+**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
+
+**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
+- BGB Paragraf 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
+- GmbHG Paragraf 15 und 16 für Anteilsübertragung und Gesellschafterliste.
+- AktG Paragraf 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
+- BGB Paragraf 158 für Closing Conditions und Bedingungseintritt.
+
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
+
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
+
+**5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
+
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+
+**Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
+
+## Output-Module
+- **Deal-Vermerk:** Executive Summary, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
+- **Issue List:** Tabelle mit Finding, Quelle, Risiko, Vertragsfolge, Preis-/Indemnity-Folge, Owner, Deadline.
+- **Information Request:** präzise Fragen an Mandant, Gegenseite oder Datenraum-Team, jeweils mit Grund und Priorität.
+- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Board-Paper-Abschnitt.
+- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
+
+## Quellen und Zitierregel
+Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
+
+## Hand-Off zu anderen Skills
+Nach diesem Skill weiter mit:
+- `/grosskanzlei-corporate-ma:kaufvertrag-und-preis-bearbeiten Thema: spa-apa-entwurf` - wenn der Befund in Vertragsentwurf, Markup oder Key-Issues-Liste einfließen soll.
+- `/grosskanzlei-corporate-ma:finanzierung-und-beteiligung-bearbeiten Thema: vertragsmarkup-key-issues` - wenn der Befund in Vertragsentwurf, Markup oder Key-Issues-Liste einfließen soll.
+- `/grosskanzlei-corporate-ma:due-diligence-und-risikopruefung-bearbeiten Thema: disclosure-schedules` - wenn Garantien, Knowledge und Disclosure Letter abgeglichen werden.
+- `/grosskanzlei-corporate-ma:signing-und-vollzug-bearbeiten Thema: signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
+- `/grosskanzlei-corporate-ma:signing-und-vollzug-bearbeiten Thema: closing-bible-archiv` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
+
+## Was dieser Arbeitsgang nicht macht
+- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
+- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
+- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
+- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
+- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
+- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
+
+## Berufsrechtliche Hinweise
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+
+## Bisheriger Skill-Kern, integriert und weiterzuverwenden
+
+### Corporate Housekeeping und Register
+
+## Triage — klaere vor Beginn
+
+1. Welche Gesellschaftsformen sind beteiligt — GmbH, AG, KGaA, GmbH & Co. KG, SE?
+2. Liegt ein aktueller HR-Auszug (nicht aelter als 1 Woche) für Zielgesellschaft, Kaeufer und Verkaeufer vor?
+3. Stimmt die Gesellschafterliste im HR-Auszug mit der SPA-Parteistellung ueberein?
+4. Liegen die massgeblichen Beschlüsse (Gesellschafterversammlung, AR-Beschluss, Hauptversammlungsbeschluss) für die Transaktion vor?
+5. Sind Vertretungsbefugnisse (Einzelvertretung, Gesamtvertretung, Prokura) geklart und aktuell?
+6. Transparenzregister geprueft — stimmt der eingetragene wirtschaftlich Berechtigte mit Datenraum und Signing-Parteien ueberein?
+
+## Zentrale Rechtsgrundlagen
+
+- Paragraf 8 GmbHG — Inhalt der Handelsregisteranmeldung; Notarielle Beurkundungspflicht
+- Paragraf 10 GmbHG — Bekanntmachung im Handelsregister; Wirksamkeit nach Eintragung
+- Paragraf 15 Abs. 3 GmbHG — Abtretung von GmbH-Anteilen: notarielle Beurkundungspflicht; bei Verstoß Nichtigkeit
+- Paragraf 16 GmbHG — Legitimation des Gesellschafters: massgeblich ist Gesellschafterliste; gutglaeubiger Erwerb möglich
+- Paragraf 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung: Einreichung durch Notar oder Geschäftsführer binnen eines Monats
+- Paragraf 76 AktG — Vertretungsmacht des Vorstands; Prokura Paragraf 48-53 HGB
+- Paragraf 19 GwG i.V.m. Paragraf 20 TranspRG — Transparenzregisterpflicht; Meldung des wirtschaftlich Berechtigten
+- Paragraf 2 GmbHG — Beurkundungspflicht des Gesellschaftsvertrags
+- Paragraf 53, 54 GmbHG — Satzungsaenderung: Gesellschafterbeschluss mit Dreiviertelmehrheit und notarielle Beurkundung
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+
+## Schritt-für-Schritt-Workflow
+
+1. **HR-Auszug abrufen:** aktuellen Handelsregisterauszug HRB/HRA für alle beteiligten Gesellschaften (nicht aelter als 1 Woche vor Signing); Abgleich mit SPA-Parteibezeichnungen
+2. **Gesellschafterliste prüfen:** Eintrag im HR mit Datenraum-Gesellschafterliste, SPA-Garantien und Transaktionsstruktur abgleichen; Divergenzen → Red Flag
+3. **Satzungscheck:** aktuell geltende Satzung im Datenraum; Genehmigungspflichten (Vinkulierung, Zustimmungsvorbehalte AR, Paragraf 111 Abs. 4 AktG) prüfen
+4. **Beschlüsse prüfen:** alle für die Transaktion relevanten Beschlüsse (Gesellschafterversammlungs-Protokoll, AR-Beschluss, Board-Resolution) auf Beschlussfaehigkeit, Mehrheitserfordernis und Form prüfen
+5. **Vertretungsmacht klaren:** Zeichnungsberechtigung, Prokura-Eintrag, In-sich-Geschäft-Befreiung (Paragraf 181 BGB), Gesamtvertretung
+6. **Transparenzregister:** wirtschaftlich Berechtigte gemäß Paragraf 3 GwG prüfen; Eintrag aktuell? Nach Closing-Meldepflicht innerhalb 2 Wochen (Paragraf 20 TranspRG)
+7. **Closing Deliverables ableiten:** Gesellschafterliste neu (Paragraf 40 GmbHG), HR-Anmeldungen, Notartermin, Beglaubigungen
+8. **Corporate-Approval-Tabelle erstellen:** je Partei: Gremium, Beschlussdatum, Mehrheit, Form, Vollmacht
+
+## Entscheidungsbaum
+
+- GmbH-Anteilsuebertragung → Paragraf 15 Abs. 3 GmbHG Notarpflicht → ohne Notar: nichtig
+- Vinkulierung in Satzung → Zustimmungspflicht prüfen → fehlt: Unwirksamkeit der Uebertragung
+- AR-Genehmigungsvorbehalt Paragraf 111 Abs. 4 AktG → Board Resolution ausreichend? → ggf. AR-Sonderbeschluss erforderlich
+- Transparenzregisterdivergenz → Meldepflicht Paragraf 20 TranspRG nach Closing → Frist 2 Wochen
+
+## Output-Template: Corporate Approval Tabelle
+
+**Adressat:** Deal-Team intern — Tonfall sachlich-strukturiert
+
+```
+CORPORATE APPROVALS REGISTER
+Deal: [DEALNAME] — Datum: [DATUM]
+
+| Partei | Gremium | Beschlussdatum | Mehrheit | Form | Vollmacht | Status |
+|--------|---------|---------------|---------|------|----------|--------|
+| [Käufer] | Geschäftsführung/Vorstand | [Datum] | einfache Mehrheit | intern | [Name] | geprüft |
+| [Verkäufer] | Gesellschafterversammlung | [Datum] | drei Viertel | notariell | [Notar] | geprüft |
+| [Zielgesellschaft] | Aufsichtsrat/Beirat | [Datum] | einfache Mehrheit | schriftlich | [Name] | offen: Beschlussnachweis anfordern |
+```
+
+## Rote Schwellen
+
+- Gesellschafterliste nicht eingereicht: Stimmrechte des Erwerbers nach Paragraf 16 Abs. 1 GmbHG nicht durchsetzbar
+- Vertretungsmacht unklar: Signing-Vollmacht ungueltig; Transaktion angreifbar
+- Transparenzregister veraltet: Bussgeld bis 100.000 EUR nach Paragraf 56 GwG
+- Beschluss mit unzureichender Mehrheit: Satzungsaenderung oder Anteilsabtretung nichtig
+
+## Standardausgabe
+
+- Corporate Approval Tabelle
+- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe
+- Belegkette: Dokument, Datum, Version, Fundstelle
+
+## Übergabe an andere Skills
+
+- Registerabruf → `grosskanzlei-corporate-ma-handelsregisterabruf`
+- Closing Deliverables → `grosskanzlei-corporate-ma-closing-bible-archiv`
+- Transparenzregister/GwG → `grosskanzlei-corporate-ma-conflict-gwg-sanctions`
+
+## Vorlagen
+
+- assets/templates/handelsregister-corporate-housekeeping.md
+- assets/templates/closing-deliverables-register.md

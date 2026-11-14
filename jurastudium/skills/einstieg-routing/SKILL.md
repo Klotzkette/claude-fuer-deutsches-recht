@@ -11,21 +11,21 @@ Dieser Einstieg routet **Jurastudium** vom ersten Sachverhalt zu Rollen, Fristen
 
 ## Fachlandkarte dieses Plugins
 
-- `ag-vorbereitung-examens-prognose` — AG Vorbereitung Examens Prognose
-- `anschluss-router` — Anschluss Router
-- `examens-prognose` — Examens Prognose
-- `examensvorbereitung-fragen` — Examensvorbereitung Fragen
-- `fall-zusammenfassung-gliederungs-baukasten` — Fall Zusammenfassung Gliederungs Baukasten
-- `gliederungs-baukasten` — Gliederungs Baukasten
-- `gutachten-uebung` — Gutachten Uebung
-- `gutachtenstil-internationaler-bezug-und-schnittstellen` — Gutachtenstil Internationaler Bezug und Schnittstellen
-- `juristisches-schreiben` — Juristisches Schreiben
-- `juristisches-schreiben-jus` — Juristisches Schreiben JUS
-- `jus-klausurtraining-leitfaden` — JUS Klausurtraining Leitfaden
-- `jus-referendariat-stationen-staatsexamen` — JUS Referendariat Stationen Staatsexamen
-- `jus-staatsexamen-vorbereitung-spezial` — JUS Staatsexamen Vorbereitung Spezial
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `fallfrage-bearbeiten` (Fachthema: ag-vorbereitung-examens-prognose) — AG Vorbereitung Examens Prognose
+- `fallfrage-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `fallfrage-bearbeiten` (Fachthema: examens-prognose) — Examens Prognose
+- `fallfrage-bearbeiten` (Fachthema: examensvorbereitung-fragen) — Examensvorbereitung Fragen
+- `arbeitsprodukt-bearbeiten` (Fachthema: fall-zusammenfassung-gliederungs-baukasten) — Fall Zusammenfassung Gliederungs Baukasten
+- `fallfrage-bearbeiten` (Fachthema: gliederungs-baukasten) — Gliederungs Baukasten
+- `arbeitsprodukt-bearbeiten` (Fachthema: gutachten-uebung) — Gutachten Uebung
+- `arbeitsprodukt-bearbeiten` (Fachthema: gutachtenstil-internationaler-bezug-und-schnittstellen) — Gutachtenstil Internationaler Bezug und Schnittstellen
+- `subsumtion-bearbeiten` (Fachthema: juristisches-schreiben) — Juristisches Schreiben
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: juristisches-schreiben-jus) — Juristisches Schreiben JUS
+- `fallfrage-bearbeiten` (Fachthema: jus-klausurtraining-leitfaden) — JUS Klausurtraining Leitfaden
+- `fallfrage-bearbeiten` (Fachthema: jus-referendariat-stationen-staatsexamen) — JUS Referendariat Stationen Staatsexamen
+- `fallfrage-bearbeiten` (Fachthema: jus-staatsexamen-vorbereitung-spezial) — JUS Staatsexamen Vorbereitung Spezial
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

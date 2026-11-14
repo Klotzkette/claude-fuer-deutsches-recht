@@ -27,6 +27,14 @@
       "url": "https://www.gesetze-im-internet.de/prodhaftg/__3.html",
       "checked_on": "2026-09-23",
       "supports": "Erneut gelesener Fehlermaßstab: berechtigte Sicherheitserwartung unter Berücksichtigung von Darbietung, erwartbarem Gebrauch und Inverkehrbringen. Kein Nachweis des konkreten technischen Fehlers."
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html",
+      "checked_on": "2026-11-14",
+      "supports": "EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225. Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist. Grenze: Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 79–89, 195–201, 219–225, 240–245, 300–307 und Tenor",
+      "sha256": "da648c64034e32dd8f68973bdf03888d3e82b6f5a5b44de673feffeef0f0fa7d"
     }
   ],
   "mini_review": {
@@ -45,15 +53,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "changes": [
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
       "2026-09-23: Vorserie/Serienstand und abweichende Prüfbedingungen, Defektursache versus Unfallfolge sowie Installation versus Updateangebot unterschieden.",
       "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden.",
-      "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry."
     ],
-    "sha256": "2ef9b8a2bd290fcc867ceca33faf1737035084fb24b55c21ac37eeedbfd1b1b1",
+    "sha256": "89d6510b3539a77a646ec1d8772dfb6e667f23e6287a855c11f01b85dc7f57f3",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -106,7 +115,7 @@
           ]
         }
       ],
-      "target_skill": "prodr-produktrueckruf-leitfaden"
+      "target_skill": "produkt-und-rolle-bearbeiten"
     }
   ],
   "prompt_editorial_review": {
@@ -130,6 +139,13 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1",
         "application": "Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht.",
         "limit": "Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung."
+      },
+      {
+        "citation": "EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225",
+        "url": "https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html",
+        "application": "Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist.",
+        "limit": "Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
+        "checked_on": "2026-11-14"
       }
     ],
     "remaining_limits": [
@@ -166,5 +182,41 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_audit_2026_11_14": {
+    "date": "2026-11-14",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-11-14/verfassungs-europa-produkt.md",
+    "workshop_path": "produktrecht/produktrecht-werkstatt.md",
+    "before_sha256": "2ef9b8a2bd290fcc867ceca33faf1737035084fb24b55c21ac37eeedbfd1b1b1",
+    "after_sha256": "89d6510b3539a77a646ec1d8772dfb6e667f23e6287a855c11f01b85dc7f57f3",
+    "previous_workshop_review": {
+      "verdict": "revised",
+      "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "changes": [
+        "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
+        "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
+        "2026-09-23: Vorserie/Serienstand und abweichende Prüfbedingungen, Defektursache versus Unfallfolge sowie Installation versus Updateangebot unterschieden.",
+        "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden.",
+        "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      ],
+      "sha256": "2ef9b8a2bd290fcc867ceca33faf1737035084fb24b55c21ac37eeedbfd1b1b1",
+      "reviewed_on": "2026-10-16",
+      "method": "desk_review",
+      "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    },
+    "decisions": [
+      {
+        "citation": "EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225",
+        "url": "https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html",
+        "application": "Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist.",
+        "limit": "Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
+        "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 79–89, 195–201, 219–225, 240–245, 300–307 und Tenor",
+        "checked_on": "2026-11-14",
+        "sha256": "da648c64034e32dd8f68973bdf03888d3e82b6f5a5b44de673feffeef0f0fa7d"
+      }
+    ],
+    "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
   }
 }

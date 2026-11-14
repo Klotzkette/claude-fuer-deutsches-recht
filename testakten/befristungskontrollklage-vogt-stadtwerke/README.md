@@ -197,7 +197,7 @@ Diese Akte zeigt den vollständigen Ablauf einer Befristungskontrollklage nach T
 | `entfristung-guetetermin-und-kammertermin-sprechzettel` | Gütertermin-Vorbereitung |
 | `entfristung-vergleichsverhandlung-checkliste` | Neue Stelle vs. Abfindung |
 
-Einstieg: `/arbeitsrecht:entfristung-triage-was-will-user`
+Einstieg: `/arbeitsrecht:arbeitsvertrag-status-befristung-bearbeiten Thema: entfristung-triage-was-will-user`
 Kernbaustein: `entfristung-schriftform-14-abs-4-erkennen`
 
 ---

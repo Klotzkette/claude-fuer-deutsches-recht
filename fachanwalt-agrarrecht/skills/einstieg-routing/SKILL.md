@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt Agrarrecht** vom ersten Sachverhalt zu Rolle
 
 ## Fachlandkarte dieses Plugins
 
-- `agrar-einfuehrung-rechtsquellen` — Agrar Einfuehrung Rechtsquellen
-- `agrar-jagdpacht-streit-spezial` — Agrar Jagdpacht Streit Mandantenfragen
-- `agrar-tierhaltung-spezial-tieg` — Agrar Tierhaltung Erstgespraech
-- `agrar-wolfsschaden-spezial` — Agrar Wolfsschaden Cross Glozez Foerderung
-- `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung` — Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung
-- `agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle` — Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle
-- `direktzahlung-flaechenabweichung-gapinvekos` — Flächenabweichung bei Direktzahlungen prüfen
-- `agrarinvestitionsfoerderung-widerruf-rueckforderung` — Agrarinvestitionsförderung verteidigen oder zurückfordern
-- `workflow-mandantenkommunikation` — Agrarrecht Mandantenkommunikation Redteam Qualitygate Hoeferecht
-- `anerbenrecht-risikoampel-und-gegenargumente` — Anerbenrecht BGB Spezial Compliance
-- `cross-zahlen-schwellen-und-berechnung` — Cross Duengeverordnung Interessen Erbrecht
-- `direktzahlungen-quellenkarte` — Direktzahlungen Quellenkarte
-- `duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation` — Duengeverordnung Rote Gebiete Paragraf 13A Duev Derogation
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: agrar-einfuehrung-rechtsquellen) — Agrar Einfuehrung Rechtsquellen
+- `genehmigung-und-foerderung-bearbeiten` (Fachthema: agrar-jagdpacht-streit-spezial) — Agrar Jagdpacht Streit Mandantenfragen
+- `fachaufsicht-bearbeiten` (Fachthema: agrar-tierhaltung-spezial-tieg) — Agrar Tierhaltung Erstgespraech
+- `genehmigung-und-foerderung-bearbeiten` (Fachthema: agrar-wolfsschaden-spezial) — Agrar Wolfsschaden Cross Glozez Foerderung
+- `vertrags-und-erbfolgeweg-bearbeiten` (Fachthema: agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung) — Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung
+- `betrieb-und-flaeche-bearbeiten` (Fachthema: agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle) — Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle
+- `betrieb-und-flaeche-bearbeiten` (Fachthema: direktzahlung-flaechenabweichung-gapinvekos) — Flächenabweichung bei Direktzahlungen prüfen
+- `genehmigung-und-foerderung-bearbeiten` (Fachthema: agrarinvestitionsfoerderung-widerruf-rueckforderung) — Agrarinvestitionsförderung verteidigen oder zurückfordern
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: workflow-mandantenkommunikation) — Agrarrecht Mandantenkommunikation Redteam Qualitygate Hoeferecht
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anerbenrecht-risikoampel-und-gegenargumente) — Anerbenrecht BGB Spezial Compliance
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: cross-zahlen-schwellen-und-berechnung) — Cross Duengeverordnung Interessen Erbrecht
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: direktzahlungen-quellenkarte) — Direktzahlungen Quellenkarte
+- `fachaufsicht-bearbeiten` (Fachthema: duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation) — Duengeverordnung Rote Gebiete Paragraf 13A Duev Derogation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

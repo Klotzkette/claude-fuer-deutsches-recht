@@ -16,6 +16,7 @@ EMPTY_NUMBERED_ITEM = re.compile(r"^\s{0,3}[1-9][0-9]?\.\s*$")
 TABLE_SEPARATOR = re.compile(r"^\s*\|(?:\s*:?-{3,}:?\s*\|)+\s*$")
 FENCE = re.compile(r"^\s*(`{3,}|~{3,})")
 HEADING = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
+COMMAND_HEADING = re.compile(r"^/[a-z0-9-]+:[a-z0-9-]+(?: Thema: [a-z0-9-]+)?$")
 PROMISED_SECTION = re.compile(
     r"(?:Rechtsprechung|Leitentscheidungen?|Leits[aä]tze?|"
     r"Quellen(?:regel|anker| und Updates)?|Disclaimer)",
@@ -84,6 +85,10 @@ def inspect(path: Path) -> list[str]:
         if match:
             headings.append((index, len(match.group(1)), match.group(2)))
     for position, (start, level, title) in enumerate(headings):
+        # Ein nackter Skillaufruf ist ein Bedienbeispiel. Ein Bestandteil wie
+        # 'quellen' im Slug verspricht keinen eigenen Quellenabschnitt.
+        if COMMAND_HEADING.fullmatch(title):
+            continue
         if not PROMISED_SECTION.search(title):
             continue
         if position + 1 < len(headings):

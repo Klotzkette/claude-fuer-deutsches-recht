@@ -10,7 +10,7 @@ Nur den nach Klauselinhalt betroffenen Tatbestand prüfen. Gesetzlichen Anwendun
 
 2.2. Nachfrist, Rücktrittsvorbehalt und Änderungsvorbehalt sind verschiedene Tatbestände. Bei Nummer 3 sachliche Rechtfertigung, Benennung im Vertrag und Ausnahme für Dauerschuldverhältnisse beachten. Nummer 4 betrifft Zumutbarkeit der Leistungsänderung.
 
-2.3. Fingierte Erklärung nach Nummer 5 und fingierter Zugang nach Nummer 6 nicht vermengen. Bei Zustimmung den [Änderungsmechanismus](../../vertragsaenderung-durch-zustimmung-pruefen/SKILL.md) prüfen. Ein angemessener Hinweis allein heilt keine unangemessene Reichweite.
+2.3. Fingierte Erklärung nach Nummer 5 und fingierter Zugang nach Nummer 6 nicht vermengen. Bei Zustimmung den [Änderungsmechanismus](../../vertragsaenderung-durch-zustimmung-pruefen/FACHINHALT.md) prüfen. Ein angemessener Hinweis allein heilt keine unangemessene Reichweite.
 
 2.4. Nummer 7 betrifft unangemessene Vergütung beziehungsweise Aufwendungsersatz bei Vertragsabwicklung; sie ist nicht pauschal der Schadenspauschalentatbestand mit Gegenbeweisvorbehalt. Nummer 8 verlangt beim zulässigen Nichtverfügbarkeitsvorbehalt unverzügliche Information und Erstattung. Bei Nummer 9 Geldforderungen, andere Rechte und gesetzliche Ausnahmen auseinanderhalten; nicht jede Abtretung wird nur nach freier Interessenabwägung behandelt.
 

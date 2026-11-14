@@ -88,7 +88,7 @@
           ]
         }
       ],
-      "target_skill": "audit-trail-freigabe"
+      "target_skill": "freigabe-und-uebermittlung-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

@@ -25,7 +25,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "db679b72e48448f6306ffcedbc50b5f0a206ff119caef11a4c1d81e5e7c255ab",
+    "sha256": "f4480366caf8de3cc5a93a76ddcc7fd992bf9c5eea1d24e2b835192086f57c0c",
     "verdict": "revised",
     "reason": "Die Prüfung trennt jetzt den vorherigen Beschluss des zuständigen Gremiums vom Einverständnis des Vorsitzenden und leitet daraus eine konkrete Freigabeprüfung ab. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Entscheidungsreife Aufsichtsratsvorlage vor allgemeiner Organbeschreibung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
@@ -93,7 +93,7 @@
           ]
         }
       ],
-      "target_skill": "zustimmungsvorbehalte"
+      "target_skill": "haftung-und-gesellschaftsstreit-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

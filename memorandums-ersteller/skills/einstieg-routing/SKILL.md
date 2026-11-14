@@ -11,21 +11,21 @@ Erstelle das bestellte Memorandum mit Sachverhalt, entscheidbaren Fragen, zugeor
 
 ## Fachlandkarte dieses Plugins
 
-- `antworten-interessen-ausfuehrungen-fragen` — Antworten Interessen Ausfuehrungen Fragen
-- `ausfuehrungen-formular-portal-und-einreichung` — Ausfuehrungen Formular Portal und Einreichung
-- `due-diligence-ergebnis-handlungsempfehlung` — DUE Diligence Ergebnis Handlungsempfehlung
-- `fragen-compliance-dokumentation-und-akte` — Fragen Compliance Dokumentation und Akte
-- `gliederung-mandantenunterlagen-memorandum` — Gliederung Mandantenunterlagen Memorandum
-- `haftungsrisiko-rechtsanwalt-board-pack` — Haftungsrisiko Rechtsanwalt Board Pack
-- `juristisches-questions-fristennotiz` — Juristisches Questions Fristennotiz
-- `laenge-formate-mandantenfreundliche-fassung` — Laenge Formate Mandantenfreundliche Fassung
-- `mandantenanfrage-schnell` — Mandantenanfrage Schnell
-- `mandantenkommunikation-redteam` — Mandantenkommunikation
-- `mandantenunterlagen-tatbestand-beweis-und-belege` — Mandantenunterlagen Tatbestand Beweis und Belege
-- `memo-board-pack-besondere-anlaesse-spezial` — Memo Board Pack Besondere Anlaesse Spezial
-- `memo-compliance-vorfall-intern` — Memo Compliance Vorfall Intern
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `normstruktur-bearbeiten` (Fachthema: antworten-interessen-ausfuehrungen-fragen) — Antworten Interessen Ausfuehrungen Fragen
+- `normstruktur-bearbeiten` (Fachthema: ausfuehrungen-formular-portal-und-einreichung) — Ausfuehrungen Formular Portal und Einreichung
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: due-diligence-ergebnis-handlungsempfehlung) — DUE Diligence Ergebnis Handlungsempfehlung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: fragen-compliance-dokumentation-und-akte) — Fragen Compliance Dokumentation und Akte
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: gliederung-mandantenunterlagen-memorandum) — Gliederung Mandantenunterlagen Memorandum
+- `auftrag-und-adressat-bearbeiten` (Fachthema: haftungsrisiko-rechtsanwalt-board-pack) — Haftungsrisiko Rechtsanwalt Board Pack
+- `auftrag-und-adressat-bearbeiten` (Fachthema: juristisches-questions-fristennotiz) — Juristisches Questions Fristennotiz
+- `arbeitsprodukt-bearbeiten` (Fachthema: laenge-formate-mandantenfreundliche-fassung) — Laenge Formate Mandantenfreundliche Fassung
+- `arbeitsprodukt-bearbeiten` (Fachthema: mandantenanfrage-schnell) — Mandantenanfrage Schnell
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: mandantenkommunikation-redteam) — Mandantenkommunikation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: mandantenunterlagen-tatbestand-beweis-und-belege) — Mandantenunterlagen Tatbestand Beweis und Belege
+- `arbeitsprodukt-bearbeiten` (Fachthema: memo-board-pack-besondere-anlaesse-spezial) — Memo Board Pack Besondere Anlaesse Spezial
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: memo-compliance-vorfall-intern) — Memo Compliance Vorfall Intern
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

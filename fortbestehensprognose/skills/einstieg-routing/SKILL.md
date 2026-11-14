@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fortbestehensprognose** vom ersten Sachverhalt zu Rolle
 
 ## Fachlandkarte dieses Plugins
 
-- `annahmen-behoerden-gericht-und-registerweg` — Annahmen Behoerden Gericht und Registerweg
-- `annahmen-belastbarkeit-plausibilisieren` — Annahmen Belastbarkeit Plausibilisieren
-- `annahmen-sammeln-bilanzieller-status` — Annahmen Sammeln Bilanzieller Status
-- `ausloesendes-ereignis-erfassen` — Ausloesendes Ereignis Erfassen
-- `bilanzieller-status-aufnehmen` — Bilanzieller Status Aufnehmen
-- `bilanzstatus-risikoampel-und-gegenargumente` — Bilanzstatus Risikoampel und Gegenargumente
-- `comfortletter-sonderfall-edge` — Comfortletter Sonderfall Edge
-- `comfortletter-weich-erzeugen` — Comfortletter Weich Erzeugen
-- `eskalation-sonderfall-und-edge-case` — Eskalation Sonderfall und Edge Case
-- `fbp-bankenkommunikation-waiver-integrierte` — FBP Bankenkommunikation Waiver Integrierte
-- `fbp-integrierte-planung-bauleiter` — FBP Integrierte Planung Bauleiter
-- `fbp-stresstest-szenarien-leitfaden` — FBP Stresstest Szenarien Leitfaden
-- `fbp-zahlungsunfaehigkeit` — FBP Zahlungsunfaehigkeit
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `planarchitektur-bearbeiten` (Fachthema: annahmen-behoerden-gericht-und-registerweg) — Annahmen Behoerden Gericht und Registerweg
+- `prognose-bearbeiten` (Fachthema: annahmen-belastbarkeit-plausibilisieren) — Annahmen Belastbarkeit Plausibilisieren
+- `krisenstadium-bearbeiten` (Fachthema: annahmen-sammeln-bilanzieller-status) — Annahmen Sammeln Bilanzieller Status
+- `krisenstadium-bearbeiten` (Fachthema: ausloesendes-ereignis-erfassen) — Ausloesendes Ereignis Erfassen
+- `krisenstadium-bearbeiten` (Fachthema: bilanzieller-status-aufnehmen) — Bilanzieller Status Aufnehmen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: bilanzstatus-risikoampel-und-gegenargumente) — Bilanzstatus Risikoampel und Gegenargumente
+- `krisenstadium-bearbeiten` (Fachthema: comfortletter-sonderfall-edge) — Comfortletter Sonderfall Edge
+- `krisenstadium-bearbeiten` (Fachthema: comfortletter-weich-erzeugen) — Comfortletter Weich Erzeugen
+- `krisenstadium-bearbeiten` (Fachthema: eskalation-sonderfall-und-edge-case) — Eskalation Sonderfall und Edge Case
+- `arbeitsprodukt-bearbeiten` (Fachthema: fbp-bankenkommunikation-waiver-integrierte) — FBP Bankenkommunikation Waiver Integrierte
+- `prognose-bearbeiten` (Fachthema: fbp-integrierte-planung-bauleiter) — FBP Integrierte Planung Bauleiter
+- `krisenstadium-bearbeiten` (Fachthema: fbp-stresstest-szenarien-leitfaden) — FBP Stresstest Szenarien Leitfaden
+- `krisenstadium-bearbeiten` (Fachthema: fbp-zahlungsunfaehigkeit) — FBP Zahlungsunfaehigkeit
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

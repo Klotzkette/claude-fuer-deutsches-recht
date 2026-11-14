@@ -46,4 +46,4 @@ Benötigte Arbeitsprodukte: Anbieterbrief und überarbeiteter Kundendialog. Lief
 
 ## 1.6. Vollständige Übungsakte
 
-- [Testakte ki-verbot-regnitz-sorglosabo](../../testakten/ki-verbot-regnitz-sorglosabo/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.
+- [Testakte ki-verbot-regnitz-sorglosabo](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-verbot-regnitz-sorglosabo/README.md). Die Akte dient als abgegrenzte Übung; andere Branchen erhalten keine ungeprüft identische rechtliche Einordnung.

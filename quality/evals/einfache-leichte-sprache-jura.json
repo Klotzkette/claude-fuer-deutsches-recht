@@ -126,7 +126,7 @@
           ]
         }
       ],
-      "target_skill": "einfache-sprache"
+      "target_skill": "text-uebertragen-bearbeiten"
     },
     {
       "id": "verjaehrung-ohne-anspruchserloeschen",
@@ -158,7 +158,7 @@
           ]
         }
       ],
-      "target_skill": "einfache-sprache"
+      "target_skill": "text-uebertragen-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

@@ -11,19 +11,19 @@ Dieser Einstieg routet **Ki Vo Ai Act Prüfer** vom ersten Sachverhalt zu Rollen
 
 ## Fachlandkarte dieses Plugins
 
-- `abgrenzung-konventionelle-software-vs-ki` — Abgrenzung Konventionelle Software VS KI
-- `abgrenzung-konventionelle-software-vs-ki-system` — Abgrenzung Konventionelle Software VS KI System
-- `ai-act-owi-verfahren-internal-investigation` — AI ACT OWI Verfahren Internal Investigation
-- `algorithmische-kollusion-und-pricing-ki` — Algorithmische Kollusion und Pricing KI
-- `anbieter-werden-art-25` — Anbieter Werden ART 25
-- `anwaltliche-ki-art-kompetenz-automatisierte` — Anwaltliche KI ART Kompetenz Automatisierte
-- `anwaltliche-ki-nutzung-quellencheck-brao` — Anwaltliche KI Nutzung Quellencheck BRAO
-- `art-4-ki-kompetenz-schulungsprogramm` — ART 4 KI Kompetenz Schulungsprogramm
-- `automatisierte-entscheidung-dsgvo-art-22` — Automatisierte Entscheidung DSGVO ART 22
-- `automatisierte-entscheidung-dsgvo-art-22-schnittstelle` — Automatisierte Entscheidung DSGVO ART 22 Schnittstelle
-- `begrenztes-risiko-art-50-transparenzpflichten` — Begrenztes Risiko ART 50 Transparenzpflichten
-- `betreiber-checkliste-folgenabschaetzung` — Betreiber Checkliste Folgenabschaetzung
-- `betreiber-deployer-bevollmaechtigter` — Betreiber Deployer Bevollmaechtigter
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: abgrenzung-konventionelle-software-vs-ki) — Abgrenzung Konventionelle Software VS KI
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: abgrenzung-konventionelle-software-vs-ki-system) — Abgrenzung Konventionelle Software VS KI System
+- `behoerden-und-sanktionslage-bearbeiten` (Fachthema: ai-act-owi-verfahren-internal-investigation) — AI ACT OWI Verfahren Internal Investigation
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: algorithmische-kollusion-und-pricing-ki) — Algorithmische Kollusion und Pricing KI
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: anbieter-werden-art-25) — Anbieter Werden ART 25
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anwaltliche-ki-art-kompetenz-automatisierte) — Anwaltliche KI ART Kompetenz Automatisierte
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anwaltliche-ki-nutzung-quellencheck-brao) — Anwaltliche KI Nutzung Quellencheck BRAO
+- `nachweisakte-bearbeiten` (Fachthema: art-4-ki-kompetenz-schulungsprogramm) — ART 4 KI Kompetenz Schulungsprogramm
+- `risikoklasse-bearbeiten` (Fachthema: automatisierte-entscheidung-dsgvo-art-22) — Automatisierte Entscheidung DSGVO ART 22
+- `risikoklasse-bearbeiten` (Fachthema: automatisierte-entscheidung-dsgvo-art-22-schnittstelle) — Automatisierte Entscheidung DSGVO ART 22 Schnittstelle
+- `nachweisakte-bearbeiten` (Fachthema: begrenztes-risiko-art-50-transparenzpflichten) — Begrenztes Risiko ART 50 Transparenzpflichten
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: betreiber-checkliste-folgenabschaetzung) — Betreiber Checkliste Folgenabschaetzung
+- `rolle-und-lieferkette-bearbeiten` (Fachthema: betreiber-deployer-bevollmaechtigter) — Betreiber Deployer Bevollmaechtigter
 
 ## Arbeitsweg
 

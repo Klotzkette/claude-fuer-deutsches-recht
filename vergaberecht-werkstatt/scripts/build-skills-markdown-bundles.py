@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Baut pro Plugin ein ZIP-Bundle mit allen Skill-Markdown-Dateien (SKILL.md).
+Baut pro Plugin ein ZIP-Bundle mit aktiven Skills und allen erhaltenen Fachtexten.
 Standalone-Prompts werden nur als einzelne Markdown-Dateien angeboten.
 Diese ZIPs werden als Release-Assets unter
 dem versionierten Komponenten-Release veroeffentlicht, damit
@@ -19,6 +19,7 @@ import json
 from pathlib import Path
 
 from reproducible_zip import write_archive
+from skill_routing_priorities import original_skill_sources
 
 
 def list_plugins(repo_root: Path) -> list[str]:
@@ -30,11 +31,11 @@ def list_plugins(repo_root: Path) -> list[str]:
 
 
 def collect_skill_files(plugin_dir: Path) -> list[Path]:
-    """Alle SKILL.md unter <plugin>/skills/ einsammeln."""
+    """Aktive Arbeitswege und registrierte Originalquellen vollständig erhalten."""
     skills_dir = plugin_dir / "skills"
     if not skills_dir.is_dir():
         return []
-    return sorted(skills_dir.glob("*/SKILL.md"))
+    return sorted(set(skills_dir.glob("*/SKILL.md")) | set(original_skill_sources(plugin_dir)))
 
 
 def build_plugin_bundle(plugin: str, repo_root: Path, out_dir: Path) -> tuple[Path, int]:

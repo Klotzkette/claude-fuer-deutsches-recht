@@ -610,7 +610,7 @@ darauf hin:
 > Mandatsarbeitsbereiche sind deaktiviert — Sie sind als In-house-Praxis
 > mit einem Mandanten konfiguriert; das Plugin arbeitet automatisch auf
 > Kanzleiebene. Wenn Sie tatsächlich mit mehreren Mandanten arbeiten,
-> führen Sie `/vertragsrecht:kaltstart-interview --redo` aus und wählen
+> führen Sie `/vertragsrecht:abschluss-parteien-und-auslegung-bearbeiten Thema: kaltstart-interview --redo` aus und wählen
 > eine Kanzleisetting-Option. Andernfalls benötigen Sie
 > `/mandat-arbeitsbereich` nicht.
 

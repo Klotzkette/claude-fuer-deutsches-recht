@@ -11,21 +11,21 @@ Dieser Einstieg routet **Gesellschaftsgruender** vom ersten Sachverhalt zu Rolle
 
 ## Fachlandkarte dieses Plugins
 
-- `ag-kleine-ag` — AG Kleine AG
-- `anfaenger-kaltstart` — Anfaenger Kaltstart
-- `aufloesung-liquidation-start` — Aufloesung Liquidation Start
-- `auslandsgesellschafter-kyc` — Auslandsgesellschafter KYC
-- `bankkonto-kyc-beirat` — Bankkonto KYC Beirat
-- `beirat-advisory-board` — Beirat Advisory Board
-- `bilinguale-dokumente` — Bilinguale Dokumente
-- `board-pack-erste-100-tage` — Board Pack Erste 100 Tage
-- `cap-table` — CAP Table
-- `cashburn` — Cashburn
-- `checkliste-vor-unterschrift` — Checkliste vor Unterschrift
-- `daten-und-ki-compliance-start` — Daten und KI Compliance Start
-- `deadlock-und-mediation` — Deadlock und Mediation
-- `dokumente-intake` — Dokumente Intake
-- `unterlagen-luecken` — Unterlagen Luecken
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: ag-kleine-ag) — AG Kleine AG
+- `gruendung-und-gesellschaftsvertrag-bearbeiten` (Fachthema: anfaenger-kaltstart) — Anfaenger Kaltstart
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: aufloesung-liquidation-start) — Aufloesung Liquidation Start
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: auslandsgesellschafter-kyc) — Auslandsgesellschafter KYC
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: bankkonto-kyc-beirat) — Bankkonto KYC Beirat
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: beirat-advisory-board) — Beirat Advisory Board
+- `register-und-vollzug-bearbeiten` (Fachthema: bilinguale-dokumente) — Bilinguale Dokumente
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: board-pack-erste-100-tage) — Board Pack Erste 100 Tage
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: cap-table) — CAP Table
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: cashburn) — Cashburn
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: checkliste-vor-unterschrift) — Checkliste vor Unterschrift
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: daten-und-ki-compliance-start) — Daten und KI Compliance Start
+- `haftung-und-gesellschaftsstreit-bearbeiten` (Fachthema: deadlock-und-mediation) — Deadlock und Mediation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: unterlagen-luecken) — Unterlagen Luecken
 
 ## Arbeitsweg
 

@@ -117,7 +117,7 @@
           ]
         }
       ],
-      "target_skill": "mandatsbeendigung"
+      "target_skill": "mandatsannahme-interessenkollision-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

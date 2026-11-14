@@ -86,7 +86,7 @@
           ]
         }
       ],
-      "target_skill": "stammkapital-einzahlung"
+      "target_skill": "haftung-und-gesellschaftsstreit-bearbeiten"
     },
     {
       "id": "ag-bareinlage-mit-aufgeld",
@@ -118,7 +118,7 @@
           ]
         }
       ],
-      "target_skill": "stammkapital-einzahlung"
+      "target_skill": "haftung-und-gesellschaftsstreit-bearbeiten"
     },
     {
       "id": "vereinbarte-rueckzahlung-vollwertiger-anspruch",
@@ -150,7 +150,7 @@
           ]
         }
       ],
-      "target_skill": "stammkapital-einzahlung"
+      "target_skill": "haftung-und-gesellschaftsstreit-bearbeiten"
     }
   ],
   "workshop_review": {

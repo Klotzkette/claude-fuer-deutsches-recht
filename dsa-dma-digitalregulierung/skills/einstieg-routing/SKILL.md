@@ -11,21 +11,21 @@ Dieser Einstieg routet **Dsa Dma Digitalregulierung** vom ersten Sachverhalt zu 
 
 ## Fachlandkarte dieses Plugins
 
-- `account-internationaler-bezug-und-schnittstellen` — Account Internationaler Bezug und Schnittstellen
-- `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
-- `bussgeldverteidigung` — Bussgeldverteidigung
-- `dark-patterns-internes-beschwerdesystem` — Dark Patterns Internes Beschwerdesystem
-- `data-digitalregulierung-dora` — Data Digitalregulierung Dora
-- `digitalregulierung-erstpruefung-und-mandatsziel` — Digitalregulierung Erstpruefung und Mandatsziel
-- `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
-- `dma-anti-steering-app-store-design` — DMA Anti Steering APP Store Design
-- `dma-business-user-gatekeeper` — DMA Business User Gatekeeper
-- `dma-fristen-form-und-zustaendigkeit` — DMA Fristen Form und Zustaendigkeit
-- `dma-gatekeeper-schwellen-und-kernplattformdienste` — DMA Gatekeeper Schwellen und Kernplattformdienste
-- `dma-interoperabilitaet-messenger-art-7` — DMA Interoperabilitaet Messenger ART 7
-- `dma-pflichten-dsa-art-forschungsdatenzugang` — DMA Pflichten DSA ART Forschungsdatenzugang
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `pflichtmatrix-bearbeiten` (Fachthema: account-internationaler-bezug-und-schnittstellen) — Account Internationaler Bezug und Schnittstellen
+- `vorgang-bearbeiten` (Fachthema: account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa) — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
+- `pflichtmatrix-bearbeiten` (Fachthema: bussgeldverteidigung) — Bussgeldverteidigung
+- `grundrechte-und-verfahren-bearbeiten` (Fachthema: dark-patterns-internes-beschwerdesystem) — Dark Patterns Internes Beschwerdesystem
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: data-digitalregulierung-dora) — Data Digitalregulierung Dora
+- `pflichtmatrix-bearbeiten` (Fachthema: digitalregulierung-erstpruefung-und-mandatsziel) — Digitalregulierung Erstpruefung und Mandatsziel
+- `pflichtmatrix-bearbeiten` (Fachthema: digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb) — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
+- `pflichtmatrix-bearbeiten` (Fachthema: dma-anti-steering-app-store-design) — DMA Anti Steering APP Store Design
+- `dienst-und-rolle-bearbeiten` (Fachthema: dma-business-user-gatekeeper) — DMA Business User Gatekeeper
+- `grundrechte-und-verfahren-bearbeiten` (Fachthema: dma-fristen-form-und-zustaendigkeit) — DMA Fristen Form und Zustaendigkeit
+- `dienst-und-rolle-bearbeiten` (Fachthema: dma-gatekeeper-schwellen-und-kernplattformdienste) — DMA Gatekeeper Schwellen und Kernplattformdienste
+- `pflichtmatrix-bearbeiten` (Fachthema: dma-interoperabilitaet-messenger-art-7) — DMA Interoperabilitaet Messenger ART 7
+- `pflichtmatrix-bearbeiten` (Fachthema: dma-pflichten-dsa-art-forschungsdatenzugang) — DMA Pflichten DSA ART Forschungsdatenzugang
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

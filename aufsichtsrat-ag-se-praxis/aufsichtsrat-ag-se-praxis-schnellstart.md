@@ -32,7 +32,7 @@ Steigen nach einer Zustimmung die Kosten wesentlich oder entfällt die angenomme
 
 Bei Vorstandsbestellung oder Abberufung Organstellung und Dienstvertrag getrennt erfassen. Bei Vergütung konkrete Leistung, Vergleichsmaßstab und Entscheidungszuständigkeit prüfen. Bei Abschlussprüfung Berichte, kritische Bilanzierungsfragen und Rückfragen an den Prüfer verbinden. Bei Krisensignalen Berichtstakt, Liquiditätsdaten und konkreten Aufklärungsauftrag verdichten; keine pauschale Haftungsfreizeichnung durch Dokumentation versprechen.
 
-Optional vertieft [Zustimmungsvorbehalte](skills/zustimmungsvorbehalte/SKILL.md) den Transaktionsbeschluss; [Vorstandsberichte](skills/berichte-des-vorstands-90-aktg/SKILL.md) helfen beim Informationsverlangen. Ohne diese Dateien mit den Stationen oben weiterarbeiten.
+Optional vertieft [Zustimmungsvorbehalte](skills/zustimmungsvorbehalte/FACHINHALT.md) den Transaktionsbeschluss; [Vorstandsberichte](skills/berichte-des-vorstands-90-aktg/FACHINHALT.md) helfen beim Informationsverlangen. Ohne diese Dateien mit den Stationen oben weiterarbeiten.
 
 ## 5. Endfassung und Kontrolle
 

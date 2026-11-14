@@ -3,10 +3,13 @@
 
 import json
 import re
+import sys
 from pathlib import Path
 
 from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, REPOSITORY, ROOT, VERSION, expected_role_prompt, with_working_downloads, check_plugin_version
 from testakte_notices import README_NOTICE, with_case_warnings
+sys.path.append(str(ROOT.parent / "scripts"))
+from skill_sources import original_skill_sources, registry
 
 
 # Gemeinsame Testakten liegen im uebergeordneten Repository. Nur deklarierte
@@ -15,24 +18,36 @@ SHARED_CASE_READMES = {
     f"https://github.com/{REPOSITORY}/blob/main/{relative}": relative
     for relative in ("testakten/ki-register-havelgrund-sozialamt/README.md",)
 }
+SHARED_NAVIGATION = {
+    f"https://github.com/{REPOSITORY}/blob/main/{relative}": relative
+    for relative in ("README.md", "SKILLS.md", "ASSET_INDEX.md")
+}
+ORIGINAL_COUNTS = dict(zip(PROMPT_SUFFIXES, (122, 113, 20)))
+
+
+def expected_active_skills(role: str) -> set[str] | None:
+    plugin = next((item for item in registry() if item["name"] == role), None)
+    if plugin is None:
+        return None
+    return set(plugin["keep"]) | {item["slug"] for item in plugin["routes"]}
 
 
 def public_target_error(target: str, *, parent_root: Path) -> str | None:
     if "/main/vergaberecht-werkstatt" in target:
         return None
-    relative = SHARED_CASE_READMES.get(target)
+    relative = {**SHARED_CASE_READMES, **SHARED_NAVIGATION}.get(target)
     if relative is None:
         return f"Komponentenpraefix fehlt: {target}"
     destination = (parent_root / relative).resolve()
     if not destination.is_relative_to(parent_root.resolve()) or not destination.is_file():
-        return f"Gemeinsame Testakten-README fehlt im uebergeordneten Repository: {relative}"
+        return f"Deklariertes gemeinsames Ziel fehlt im uebergeordneten Repository: {relative}"
     return None
 
 
 def main() -> int:
     errors = []
     marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
-    expected_counts = dict(zip(PROMPT_SUFFIXES, (122, 113, 20)))
+    active_total = original_total = 0
     if {plugin["name"] for plugin in marketplace["plugins"]} != set(PROMPT_SUFFIXES):
         errors.append("Marketplace: genau drei Rollen erforderlich")
     if marketplace["name"] != "vergaberecht-werkstatt":
@@ -53,8 +68,22 @@ def main() -> int:
         if manifest["author"] != {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"}:
             errors.append(f"{role}: Autor stimmt nicht")
         skills = list((ROOT / role / "skills").glob("*/SKILL.md"))
-        if len(skills) != expected_counts[role]:
+        active_total += len(skills)
+        expected = expected_active_skills(role)
+        if expected is not None:
+            if {path.parent.name for path in skills} != expected:
+                errors.append(f"{role}: aktive Skills weichen von der expliziten Registry ab")
+        elif len(skills) != ORIGINAL_COUNTS[role]:
             errors.append(f"{role}: unerwartete Skillanzahl {len(skills)}")
+        if len(skills) > 20:
+            errors.append(f"{role}: mehr als zwanzig aktive Skills")
+        try:
+            sources = original_skill_sources(ROOT / role)
+            original_total += len(sources)
+            if len(sources) != ORIGINAL_COUNTS[role] or any(not p.is_file() for p in sources):
+                errors.append(f"{role}: ursprüngliche Fachmodule unvollständig")
+        except FileNotFoundError as error:
+            errors.append(str(error))
         for path in (ROOT / role / "skills").rglob("*"):
             if re.search(r"schnellstart|megaprompt|miniprompt", path.name, re.I):
                 errors.append(f"{path.relative_to(ROOT)}: Promptpfad unter skills")
@@ -110,7 +139,7 @@ def main() -> int:
                 errors.append(f"{rel}: {error}")
     for error in errors:
         print(f"FEHLER: {error}")
-    print(f"validate-public-integration: {len(errors)} Fehler; 3 Rollen, 255 Skills")
+    print(f"validate-public-integration: {len(errors)} Fehler; 3 Rollen, {active_total} aktive Skills, {original_total} ursprüngliche Fachmodule")
     return int(bool(errors))
 
 

@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "kind": "uncommitted packaging rehearsal, no publication",
+  "historical_import_release": "vergaberecht-werkstatt-v445.33.1",
+  "destination": "/tmp/vergaberecht-import-current-fg25zm_v",
+  "asset_count": 49,
+  "total_asset_bytes": 88712591,
+  "roles": [
+    {
+      "plugin": "bieter-unternehmen",
+      "active_skills": 8,
+      "original_modules": 113,
+      "retained_fachtexte": 112
+    },
+    {
+      "plugin": "konkurrenten-rechtsschutz",
+      "active_skills": 20,
+      "original_modules": 20,
+      "retained_fachtexte": 0
+    },
+    {
+      "plugin": "vergabestelle-behoerden",
+      "active_skills": 8,
+      "original_modules": 122,
+      "retained_fachtexte": 121
+    }
+  ],
+  "original_module_count": 255,
+  "active_skill_count": 36,
+  "full_source_bundle_byte_identical_members": 1027,
+  "checksums_verified": 48,
+  "checksums_file_sha256": "d594b26a06bf1946df4bd140e54a1887fa57f43fa675fc5848b943c356fb85f8",
+  "import_tests": {
+    "run": 13,
+    "passed": 13,
+    "skipped": 0
+  },
+  "negative_regression": "233 Fachtexte aus Markdown-Bundles entfernt; echte Paketregression lehnt den alten Stand ab.",
+  "historical_evidence_unchanged_from_head": {
+    "vergaberecht-werkstatt/source-import.json": "f682949d28265c34c00a96bb9ec90c2399df7e346ff544a29b4c1329be4322c7",
+    "quality/vergaberecht-werkstatt/README.md": "7e5bdd1a92c33b9b96f043d6dcd47047f814ea06189bb7fdc934167b3ffdaea1"
+  },
+  "asset_sha256": {
+    "01-reinigung-grundschule-musterstadt_gesamt.pdf": "2dcfc5be700ee5269d18801c3c9ada182e183f42fab577d9a96937b7cdef4c35",
+    "02-laptopbeschaffung-landesamt-musterland_gesamt.pdf": "bccfc08d24e38696db58d62cdec7c0b3bbecef17a73dee65178f1ced698d9204",
+    "03-bauleistung-stadthalle-musterstadt_gesamt.pdf": "84dec477355811994407116fe5aa1f2d5252b01dd88ec21066473b4bbd999a1c",
+    "04-it-beratung-ministerium-musterland_gesamt.pdf": "c24cf5d7534c34e245dd33b9fd65b97e30a51cfae316a1e57790925cf044a9fc",
+    "05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf": "ff1c747e20c77ca124dcaf81f1379c8bbd11e37d162024357036927cb79387c9",
+    "06-konkurrentenrechtsschutz-rechenzentrum-musterkreis_gesamt.pdf": "76085d173bfc343e3f7f73c4702e47b40e80e3937279d1cdc413015a39646231",
+    "alle-plugins-megazip.zip": "b901a15b40406df88a998d80db5bfa07620cbec47809bc0438b28a241bfac157",
+    "alle-skills-markdown.zip": "bb44d8247d68d7d87611beac74d91c74712736d83593f317d245962f91eea3dc",
+    "alles-komplettpaket.zip": "6c6a85b5ab9ef22d075a3641093e10fd1fa93b8283d66b3bc8dfdfa7ab041c44",
+    "bieter-unternehmen-schnellstart.md": "70d7729a906a029be37be2b32f0f8d80a7b13ba62ef4e0cf93b07fb43c7ce6f7",
+    "bieter-unternehmen-skills-markdown.zip": "30e451644980c23284c8b48b5da9251a6fd37cb31f71086e56915a02d80679c5",
+    "bieter-unternehmen-unified-mini-prompt.md": "5be342528d13c51d2d5d21f34dfc6b9576eaea88437eadd3b9947b98c0f09b92",
+    "bieter-unternehmen-werkstatt.md": "6a56279eb2e2d78b8d33a942628431124ace675c6dc788e598fc8374106038d6",
+    "bieter-unternehmen.zip": "d77bd9aec53346311869b33e369168090edcba8453d21baa60f3bfea92c325bf",
+    "it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf": "d8cb0028c96b1cec422848122913f332025cd655b98c076b348b9bb9b0f7e88a",
+    "konkurrenten-rechtsschutz-schnellstart.md": "53450b9e24c39b3592cfa10a27f26858549958baf20fa13c748882a935b5c939",
+    "konkurrenten-rechtsschutz-skills-markdown.zip": "0c45cb48e31d8abcea35d6cb9edfd9ce2cbfa749f390672cd9863fb99d317689",
+    "konkurrenten-rechtsschutz-unified-mini-prompt.md": "12f4bc3e8eee4b34e0aa62fd379536b82b511c2c1e3efe3cdd8db44f00793a6b",
+    "konkurrenten-rechtsschutz-werkstatt.md": "5722e0a751331130920b9227bfb4e90dd838b24b8810d629b45dc1ed8fdd0979",
+    "konkurrenten-rechtsschutz.zip": "273d5779d1c77b629e879d356cfed64b49ebcac4585586df8363f95d84419d6b",
+    "marketplace.json": "f7b493f7ea4c8c6271f8179d759c9710da66644c54b2a0682af68ad5b4adc97f",
+    "source-import.json": "f682949d28265c34c00a96bb9ec90c2399df7e346ff544a29b4c1329be4322c7",
+    "testakte-01-reinigung-grundschule-musterstadt-einzelpdfs.zip": "4d995fb9a3c40291f949e510e0854e147384f5da30c8fc92ee04f3eeed61a9f7",
+    "testakte-01-reinigung-grundschule-musterstadt.zip": "1c6c253ea40a66d826f2990c9289ae5a70bd92393a069a3b18fbf96ecf0a8c1d",
+    "testakte-02-laptopbeschaffung-landesamt-musterland-einzelpdfs.zip": "92a86400e11780695c2bf808b83ed07d4f14b9f893a63ca5cd446ad815ed1f59",
+    "testakte-02-laptopbeschaffung-landesamt-musterland.zip": "a2ef048409d89a11012b5badec0b13fdbc9f133e7826c7a91a01f02b9348d622",
+    "testakte-03-bauleistung-stadthalle-musterstadt-einzelpdfs.zip": "885f87534943a8638bcee6dd697282a7d27f512f50f1d914b5532659cd4027e5",
+    "testakte-03-bauleistung-stadthalle-musterstadt.zip": "048890927d49b137b581e6f02618850ef41a7962983070fd6f1f7e6c1a78bf2c",
+    "testakte-04-it-beratung-ministerium-musterland-einzelpdfs.zip": "036ba2c13a204b10f3e46c14a161f5b3190dd35b80f4e6d2f017d9948cd9f2fa",
+    "testakte-04-it-beratung-ministerium-musterland.zip": "591816a03439fb1052bc174af39c0e14e6c6db5cd900aba2b23750bfb3c7e168",
+    "testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip": "37e9e4f4eff2c4b8514142eeaa7c729360925b56fd4c8158def0eeaa29ed2d53",
+    "testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip": "85b2541e659e965c0b7f0cfd756275541b0fe69e0db909924498f6340262d2de",
+    "testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis-einzelpdfs.zip": "fee805f8459d003fdb54fbd9eaa060f004dda0f9cd4ea0870b144f5df2957d6e",
+    "testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis.zip": "dd9c91d4250af6cb587fd62af142f2489d5d1d7f5855269c22175f9690a3e9a3",
+    "testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip": "4a07ec7790e952cb712e78866c89753049829aae370a4ac23fd8782f16509e83",
+    "testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip": "93b41772ccec584ae4fa5c47481d7d3f5b06f659cbd06fe6234742bedc23465c",
+    "testakten-vergaberecht-werkstatt.zip": "a22749a26467b307f72bc9e881be35748012280e9cce2d68e872e9e35a3ecf6d",
+    "vergaberecht-arbeitsprompt-bieter.md": "7dfb12a186013470418087b4c32b1c96748de71b2d6aaafe20f19c4c418db8bf",
+    "vergaberecht-arbeitsprompt-konkurrenten.md": "34637ae7a03fd2643ab9cacf09f0100d88eedbaabfa88b2e368b542f4a5bb674",
+    "vergaberecht-arbeitsprompt-vergabestelle.md": "2f342cdd7333417a6f3d8abd1bb22e3edacfc095a5291c847f4e440b99d95c9d",
+    "vergaberecht-kurzprompt-bieter.md": "9f161b5bfb97c536e2b5a0e70f4994ca956ddbfb3b6c8b6f84c235992fe596ae",
+    "vergaberecht-kurzprompt-konkurrenten.md": "aa193a28817b27e64daaa4c46a6bffd3ac39029f7c16aa3ef74ca192ff1e09d9",
+    "vergaberecht-kurzprompt-vergabestelle.md": "52a305faf3aee74abe40a048497fd47992d1a9b9a58a4f181a6326eafcf18415",
+    "vergabestelle-behoerden-schnellstart.md": "d968fcf9a60093480cb32be239eee4cb954cee16216a8206b53101753360394d",
+    "vergabestelle-behoerden-skills-markdown.zip": "7ceedb76ec05c454c45b6620a7fffbbaa87927f5f55d3eec11de924a74e4237a",
+    "vergabestelle-behoerden-unified-mini-prompt.md": "58626477be9edfe27fa55302696a867196b339f54f124a23e3010ee6a3aef432",
+    "vergabestelle-behoerden-werkstatt.md": "1336d1311482556aa66a67f2b291e4959c8aae3509f04bcc117ae85951436f2a",
+    "vergabestelle-behoerden.zip": "62a7c38868b86eecfac434d5d7cd17e3b8ee82acf6924f494e5aa4e3234530f3"
+  }
+}

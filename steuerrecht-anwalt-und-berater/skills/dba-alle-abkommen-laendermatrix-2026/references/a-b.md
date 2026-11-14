@@ -428,7 +428,7 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 #### Quellenpflicht
 
-Vgl. [`references/zitierweise.md`](../../../../references/zitierweise.md). DBA-Bulgarien 2010 mit Änderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
+Vgl. [`references/zitierweise.md`](../../../references/repository/references/zitierweise.md). DBA-Bulgarien 2010 mit Änderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
 
 #### Quellen und Updates
 

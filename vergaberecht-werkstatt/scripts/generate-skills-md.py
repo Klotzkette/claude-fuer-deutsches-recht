@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 
 from public_release import BLOB_BASE as GH_BLOB, RAW_BASE as GH_RAW, RELEASE_BASE as GH_RELEASE
-from public_release import with_working_downloads
+from public_release import with_working_downloads, plugin_download
 from testakte_notices import with_case_warnings
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -138,7 +138,7 @@ def header(total_skills: int, total_plugins: int, version: str) -> str:
 
 Automatisch generierte Gesamtübersicht aller {total_skills} Skills in {total_plugins} Plugins.
 
-Stand: `{version}`.
+Die Tabellen zeigen die aktuelle aktive Auswahl. Die einzeln verlinkten Plugin-ZIPs folgen ihrem jeweiligen Komponentenrelease. Die gesonderten Sammel- und Markdown-Archive bleiben als veröffentlichter Stand `{version}` erhalten; sie enthalten die damalige Skillaufteilung. Für die aktuelle kompakte Auswahl mit vollständigen Fachmodulen das jeweilige Plugin-ZIP verwenden.
 
 ## Alle Skills auf einmal herunterladen
 
@@ -205,7 +205,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     ]
     for name, skills in plugins:
         profile = PLUGIN_PROFILES.get(name, {})
-        zip_url = f"{GH_RELEASE}/{name}.zip"
+        zip_url = plugin_download(name)
         md_url = f"{GH_RELEASE}/{name}-skills-markdown.zip"
         mini_url = f"{GH_RELEASE}/{name}-unified-mini-prompt.md"
         detail = f"skills-index/{name}.md"
@@ -219,13 +219,14 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
 
 def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     skills_dir = REPO_ROOT / name / "skills"
-    plugin_zip = f"{GH_RELEASE}/{name}.zip"
+    plugin_zip = plugin_download(name)
     md_zip = f"{GH_RELEASE}/{name}-skills-markdown.zip"
     mini_prompt = f"{GH_RELEASE}/{name}-unified-mini-prompt.md"
     plugin_readme = f"{GH_BLOB}/{name}/README.md"
     profile = PLUGIN_PROFILES.get(name, {})
     root_prompt = profile.get("prompt")
     short_prompt = profile.get("kurzprompt")
+    plugin_version = json.loads((REPO_ROOT / name / ".claude-plugin/plugin.json").read_text())["version"]
     lines = [
         f"# {name}",
         "",
@@ -237,7 +238,9 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "[Testakten](../testakten/README.md) | "
         "[Rechtsprechung](../references/leitentscheidungen-anker.md)",
         "",
-        f"{len(skills)} Skills · Stand `{version}` · Rolle: {profile.get('rolle', 'Plugin')}",
+        f"{len(skills)} aktive Skills · Pluginstand `v{plugin_version}` · Rolle: {profile.get('rolle', 'Plugin')}",
+        "",
+        f"Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodulen. Die separaten Markdown- und Sammelarchive bleiben im veröffentlichten Stand `{version}` mit der damaligen Skillaufteilung erhalten.",
         "",
         "## Schnellnavigation",
         "",

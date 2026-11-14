@@ -11,21 +11,21 @@ Dieser Einstieg routet **Insolvenzrecht** vom ersten Sachverhalt zu Rollen, Fris
 
 ## Fachlandkarte dieses Plugins
 
-- `anfechtungsrechte-antragspflicht-15a` — Anfechtungsrechte Antragspflicht 15A
-- `mandat-triage-insolvenzrecht` — Mandat-Triage Insolvenzrecht
-- `antragspflicht-15a-17-19` — Antragspflicht 15A 17 19
-- `antragspflicht-15a-inso` — Antragspflicht 15A Inso
-- `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Ausländischer Insolvenzverwalter Register und Grundbuch
-- `auslaendischer-office-holder-register-und-grundbuch` — Ausländischer Office Holder Register und Grundbuch
-- `belegmatrix-formular-portal-und-einreichung` — Belegmatrix Formular Portal und Einreichung
-- `chronologie-internationaler-bezug-und-schnittstellen` — Chronologie Internationaler Bezug und Schnittstellen
-- `do-versicherung-manager-haftung` — DO Versicherung Manager Haftung
-- `einfuehrung-verhandlung-vergleich-und-eskalation` — Einfuehrung Verhandlung Vergleich und Eskalation
-- `feststellung-sonderfall-glaeubigerantrag-inso` — Feststellung Sonderfall Gläubigerantrag Inso
-- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung Gläubiger 174 177 Inso
-- `glaeubigerantrag-glaeubigerausschuss` — Gläubigerantrag Gläubigerausschuss
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: anfechtungsrechte-antragspflicht-15a) — Anfechtungsrechte Antragspflicht 15A
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: mandat-triage-insolvenzrecht) — Mandat-Triage Insolvenzrecht
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: antragspflicht-15a-17-19) — Antragspflicht 15A 17 19
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: antragspflicht-15a-inso) — Antragspflicht 15A Inso
+- `international-konzern-bearbeiten` (Fachthema: auslaendischer-insolvenzverwalter-register-und-grundbuch) — Ausländischer Insolvenzverwalter Register und Grundbuch
+- `international-konzern-bearbeiten` (Fachthema: auslaendischer-office-holder-register-und-grundbuch) — Ausländischer Office Holder Register und Grundbuch
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: belegmatrix-formular-portal-und-einreichung) — Belegmatrix Formular Portal und Einreichung
+- `international-konzern-bearbeiten` (Fachthema: chronologie-internationaler-bezug-und-schnittstellen) — Chronologie Internationaler Bezug und Schnittstellen
+- `anfechtung-organhaftung-bearbeiten` (Fachthema: do-versicherung-manager-haftung) — DO Versicherung Manager Haftung
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: einfuehrung-verhandlung-vergleich-und-eskalation) — Einfuehrung Verhandlung Vergleich und Eskalation
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: feststellung-sonderfall-glaeubigerantrag-inso) — Feststellung Sonderfall Gläubigerantrag Inso
+- `forderungen-tabelle-sicherheiten-bearbeiten` (Fachthema: forderungsanmeldung-glaeubiger-174-177-inso) — Forderungsanmeldung Gläubiger 174 177 Inso
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: glaeubigerantrag-glaeubigerausschuss) — Gläubigerantrag Gläubigerausschuss
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 

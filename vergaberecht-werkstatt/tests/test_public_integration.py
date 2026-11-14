@@ -23,6 +23,37 @@ spec.loader.exec_module(public_validation)
 
 
 class PublicIntegrationTests(unittest.TestCase):
+    def test_shared_navigation_is_explicit_and_requires_existing_file(self):
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            for name in ("README.md", "SKILLS.md", "ASSET_INDEX.md"):
+                target = f"https://github.com/{REPOSITORY}/blob/main/{name}"
+                self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+                (parent / name).write_text("# Übersicht\n", encoding="utf-8")
+                self.assertIsNone(public_validation.public_target_error(target, parent_root=parent))
+            (parent / "not-declared.md").write_text("Nicht freigegeben\n", encoding="utf-8")
+            unknown = f"https://github.com/{REPOSITORY}/blob/main/not-declared.md"
+            self.assertIsNotNone(public_validation.public_target_error(unknown, parent_root=parent))
+
+    def test_nested_web_target_is_not_a_shared_navigation_exception(self):
+        base = f"https://github.com/{REPOSITORY}/blob/main/"
+        malformed = base + "testakten/ki-register-havelgrund-sozialamt/" + base + "README.md"
+        self.assertIsNotNone(public_validation.public_target_error(malformed, parent_root=ROOT.parent))
+
+    def test_active_routes_remain_separate_from_original_modules(self):
+        for role, count in public_validation.ORIGINAL_COUNTS.items():
+            sources = public_validation.original_skill_sources(ROOT / role)
+            self.assertEqual(len(sources), count)
+            self.assertEqual(len(set(sources)), count)
+            expected = public_validation.expected_active_skills(role)
+            actual = {p.parent.name for p in (ROOT / role / "skills").glob("*/SKILL.md")}
+            if expected is None:
+                self.assertEqual(len(actual), count)
+            else:
+                self.assertEqual(actual, expected)
+                self.assertLess(len(actual), len(sources))
+                self.assertLessEqual(len(actual), 20)
+
     def test_declared_shared_case_readme_requires_existing_file(self):
         relative = "testakten/ki-register-havelgrund-sozialamt/README.md"
         target = f"https://github.com/{REPOSITORY}/blob/main/{relative}"

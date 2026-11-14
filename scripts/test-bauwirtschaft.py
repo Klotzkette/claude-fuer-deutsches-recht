@@ -24,7 +24,8 @@ from readme_decimal_headings import normalize_decimal_headings
 from quality_lab import load, marketplace, validate_profile
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from testakte_zip_common import working_dump_archive_pairs, original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf
-from themen_profile import EXACT_PROFILE_KEYS
+from themen_profile import EXACT_PROFILE_KEYS, profile_for
+from skill_sources import active_owner, fachinhalt_path, original_skill_sources, registry as skill_registry
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -60,7 +61,7 @@ class BauwirtschaftTests(unittest.TestCase):
         )
         for name in paths:
             with self.subTest(path=name):
-                text = (ROOT / PLUGIN / name).read_text()
+                text = fachinhalt_path(ROOT / PLUGIN / name).read_text()
                 self.assertIn("Paragrafen 3 und 5 RDG", text)
                 self.assertIn("VII ZR 190/22", text)
                 self.assertIn("Befugnis", text)
@@ -103,11 +104,19 @@ class BauwirtschaftTests(unittest.TestCase):
         navigation = script_module("inject-skills-logic-navigation")
         slugs = navigation.skill_slugs(ROOT / PLUGIN)
         groups = navigation.PLUGIN_GROUPS[PLUGIN]
-        self.assertEqual(len(groups), 7)
+        configured = next(plugin for plugin in skill_registry() if plugin["name"] == PLUGIN)
+        expected = configured["keep"] + [route["slug"] for route in configured["routes"]]
+        self.assertCountEqual(slugs, expected)
+        self.assertEqual(len(groups), len(configured["routes"]) + bool(configured["keep"]))
+        for route in configured["routes"]:
+            self.assertTrue(any(label.endswith(route["title"]) and items == [route["slug"]]
+                                for label, items in groups))
         assigned = [slug for _, items in groups for slug in items]
         self.assertCountEqual(assigned, slugs)
         block = navigation.build_block(slugs, PLUGIN)
-        self.assertIn("Kaufmännische Steuerung", block)
+        self.assertIn("Kosten und Zahlungsplan", block)
+        self.assertIn("Vergabe und Leistungsverzeichnis", block)
+        self.assertIn("Planung und Genehmigung", block)
         self.assertNotIn("Fallrouting", block)
         self.assertNotIn("Subsumtion", block)
         for slug in slugs:
@@ -131,15 +140,32 @@ class BauwirtschaftTests(unittest.TestCase):
                 with self.assertRaisesRegex(RuntimeError, "PDF-Schrift fehlt"):
                     serif_font_path()
 
-    def test_twenty_nine_independent_skills_with_reviewed_routes(self):
+    def test_twenty_nine_preserved_subjects_have_reviewed_active_routes(self):
         directory = marketplace()[PLUGIN]
-        files = sorted((directory / "skills").glob("*/SKILL.md"))
+        files = original_skill_sources(directory)
         self.assertEqual(len(files), 29)
+        active = sorted((directory / "skills").glob("*/SKILL.md"))
+        configured = next(plugin for plugin in skill_registry() if plugin["name"] == PLUGIN)
+        active_names = {path.parent.name for path in active}
+        self.assertEqual(active_names, set(configured["keep"]) | {route["slug"] for route in configured["routes"]})
+        self.assertLessEqual(len(active), 20)
+        self.assertLess(len(active), len(files))
         profile = load(ROOT / "quality/evals/bauwirtschaft.json")
         validate_profile(profile, PLUGIN, directory)
         names = {path.parent.name for path in files}
-        self.assertEqual({case["target_skill"] for case in profile["cases"]}, names)
-        self.assertIn(profile["selection"]["target_skill"], names)
+        self.assertEqual({case["target_skill"] for case in profile["cases"]}, active_names)
+        self.assertIn(profile["selection"]["target_skill"], active_names)
+        # Jeder ursprüngliche Gegenstand behält seinen individuellen Ergebnisfall,
+        # auch wenn mehrere Gegenstände denselben aktiven Arbeitsweg verwenden.
+        cases_by_id = {case["id"]: case for case in profile["cases"]}
+        self.assertEqual(len(cases_by_id), 29)
+        reviews = profile["skill_reviews"] + profile["reference_reviews"]
+        self.assertEqual(len(profile["skill_reviews"]), len(configured["keep"]))
+        self.assertEqual(len(profile["reference_reviews"]), len(files) - len(configured["keep"]))
+        for review in reviews:
+            original = Path(review["skill_path"]).parent.name
+            self.assertIn(original, names)
+            self.assertEqual(cases_by_id[review["case_id"]]["target_skill"], active_owner(directory, original))
         descriptions = []
         for path in files:
             with self.subTest(skill=path.parent.name):
@@ -152,12 +178,34 @@ class BauwirtschaftTests(unittest.TestCase):
                 self.assertLessEqual(len(text.splitlines()), 500)
                 descriptions.append(front["description"])
         self.assertEqual(len(set(descriptions)), 29)
+        # Auswahltexte bleiben eigenständige, begrenzte SKILL.md-Dateien. Die
+        # unveränderten Fachmodule dürfen nicht versehentlich erneut auftauchen.
+        for path in active:
+            with self.subTest(active_skill=path.parent.name):
+                text = path.read_text(encoding="utf-8")
+                front = yaml.safe_load(text.split("---", 2)[1])
+                self.assertEqual(set(front), {"name", "description"})
+                self.assertEqual(front["name"], path.parent.name)
+                self.assertGreaterEqual(len(front["description"]), 80)
+                self.assertLessEqual(len(front["description"]), 1024)
+                self.assertLessEqual(len(text.splitlines()), 500)
         self.assertEqual(EXACT_PROFILE_KEYS[PLUGIN], PLUGIN)
-        reviews = profile["skill_reviews"]
+        stations = profile_for(PLUGIN).stationen
+        self.assertEqual(len(stations), 29)
+        station_sources = []
+        for station in stations:
+            match = re.search(r"skills/[a-z0-9-]+/(?:SKILL|FACHINHALT)\.md", station)
+            self.assertIsNotNone(match, station)
+            source = directory / match.group()
+            self.assertTrue(source.is_file(), source)
+            station_sources.append(source.resolve())
+        self.assertCountEqual(station_sources, [path.resolve() for path in files])
         self.assertEqual(len(reviews), 29)
-        self.assertEqual({entry["skill_path"] for entry in reviews}, {str(path.relative_to(ROOT)) for path in files})
+        self.assertEqual({fachinhalt_path(ROOT / entry["skill_path"]).resolve() for entry in reviews},
+                         {path.resolve() for path in files})
         for entry in reviews:
-            self.assertEqual(entry["sha256"], hashlib.sha256((ROOT / entry["skill_path"]).read_bytes()).hexdigest())
+            source = fachinhalt_path(ROOT / entry["skill_path"])
+            self.assertEqual(entry["sha256"], hashlib.sha256(source.read_bytes()).hexdigest())
             self.assertEqual(entry["runtime_status"], "not_run")
 
     def test_downloads_are_separate_visible_and_protected(self):
@@ -201,7 +249,7 @@ class BauwirtschaftTests(unittest.TestCase):
                 rubric = yaml.safe_load((directory / "rubric.yaml").read_text())
                 self.assertEqual(rubric["plugin"], PLUGIN)
 
-    def test_nine_phases_have_independent_workshops_skills_and_labelled_cases(self):
+    def test_nine_phases_have_independent_workshops_subjects_and_labelled_cases(self):
         self.assertEqual([phase for phase, *_ in PHASEN], list(range(1, 10)))
         self.assertEqual(len(PHASE_CASES), 9)
         audit = script_module("audit-prompt-profile-routing")
@@ -236,7 +284,14 @@ class BauwirtschaftTests(unittest.TestCase):
                 self.assertIn(f"Leistungsphase {phase}", (ROOT / "testakten" / case / "README.md").read_text())
                 self.assertIn("anlage_10", text)
                 self.assertNotIn("§", text)
-                self.assertTrue((ROOT / PLUGIN / "skills" / skill / "SKILL.md").is_file())
+                subject = fachinhalt_path(ROOT / PLUGIN / "skills" / skill / "SKILL.md")
+                self.assertTrue(subject.is_file())
+                self.assertIn(subject.resolve(), {path.resolve() for path in original_skill_sources(ROOT / PLUGIN)})
+                owner = active_owner(ROOT / PLUGIN, skill)
+                active_path = ROOT / PLUGIN / "skills" / owner / "SKILL.md"
+                self.assertTrue(active_path.is_file())
+                if owner != skill:
+                    self.assertIn(f"../{skill}/FACHINHALT.md", active_path.read_text())
                 self.assertNotRegex(text, r"\[[^\]]+\]\(\)")
                 for line in text.splitlines():
                     if line.startswith("#"):
@@ -244,7 +299,9 @@ class BauwirtschaftTests(unittest.TestCase):
                 sources.append(text)
         self.assertEqual(len(set(sources)), 9)
         references = (ROOT / PLUGIN / "README.md").read_text()
-        self.assertIn("29 Skills", references)
+        active_count = len(list((ROOT / PLUGIN / "skills").glob("*/SKILL.md")))
+        self.assertRegex(references, rf"\b{active_count} (?:aktive )?Skills\b")
+        self.assertEqual(len(original_skill_sources(ROOT / PLUGIN)), 29)
         self.assertIn("bauwirtschaft-hoai-phasen.md", references)
 
     def test_installed_skills_do_not_depend_on_excluded_workshops(self):

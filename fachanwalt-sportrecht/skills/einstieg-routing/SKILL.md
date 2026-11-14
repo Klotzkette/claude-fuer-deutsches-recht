@@ -11,21 +11,21 @@ Dieser Einstieg routet **Fachanwalt Sportrecht** vom ersten Sachverhalt zu Rolle
 
 ## Fachlandkarte dieses Plugins
 
-- `doping-verfahren` — Athletenvertrag
-- `athletenwerbung-paragraf-3-uwg` — Athletenwerbung Paragraf 3 UWG
-- `cas-berufung-vorbereiten` — CAS Berufung Erstgespraech Mandatsannahme
-- `workflow-mandantenkommunikation` — CAS DIS
-- `doping-quellenkarte` — Doping Quellenkarte
-- `doping-strafrecht-paragraf-4-anti-dopg` — Doping Strafrecht Paragraf 4 Anti Dopg
-- `dosb-behoerden-gericht-und-registerweg` — Dosb Fachanwalt Fifa
-- `e-sport-anerkennung` — E Sport Anerkennung
-- `eu-sportrecht-art-101-aeuv-eugh-c-333-21` — EU Sportrecht ART 101 Aeuv Eugh C 333 21
-- `gesellschaftsrecht-beweislast-und-darlegungslast` — Gesellschaftsrecht Beweislast Mandat Nada
-- `mandat-triage-sportrecht` — Mandat Triage Schriftsatzkern Substantiierung
-- `orientierung-fachanwaltschaft-mandat` — Orientierung Stadion Hausverbot
-- `persoenlichkeitsrechte-formular-portal-und-einreichung` — Persoenlichkeitsrechte Schnittstelle
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `materielle-pruefung-bearbeiten` (Fachthema: doping-verfahren) — Athletenvertrag
+- `regelwerk-und-beteiligte-bearbeiten` (Fachthema: athletenwerbung-paragraf-3-uwg) — Athletenwerbung Paragraf 3 UWG
+- `arbeitsprodukt-bearbeiten` (Fachthema: cas-berufung-vorbereiten) — CAS Berufung Erstgespraech Mandatsannahme
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: workflow-mandantenkommunikation) — CAS DIS
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: doping-quellenkarte) — Doping Quellenkarte
+- `materielle-pruefung-bearbeiten` (Fachthema: doping-strafrecht-paragraf-4-anti-dopg) — Doping Strafrecht Paragraf 4 Anti Dopg
+- `instanzenzug-und-eilbedarf-bearbeiten` (Fachthema: dosb-behoerden-gericht-und-registerweg) — Dosb Fachanwalt Fifa
+- `instanzenzug-und-eilbedarf-bearbeiten` (Fachthema: e-sport-anerkennung) — E Sport Anerkennung
+- `kontrollmassstab-bearbeiten` (Fachthema: eu-sportrecht-art-101-aeuv-eugh-c-333-21) — EU Sportrecht ART 101 Aeuv Eugh C 333 21
+- `instanzenzug-und-eilbedarf-bearbeiten` (Fachthema: gesellschaftsrecht-beweislast-und-darlegungslast) — Gesellschaftsrecht Beweislast Mandat Nada
+- `instanzenzug-und-eilbedarf-bearbeiten` (Fachthema: mandat-triage-sportrecht) — Mandat Triage Schriftsatzkern Substantiierung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: orientierung-fachanwaltschaft-mandat) — Orientierung Stadion Hausverbot
+- `instanzenzug-und-eilbedarf-bearbeiten` (Fachthema: persoenlichkeitsrechte-formular-portal-und-einreichung) — Persoenlichkeitsrechte Schnittstelle
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 

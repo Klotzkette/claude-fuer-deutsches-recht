@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Offline-Regression HOAI 1 bis 3; optionale Exporte und Office-Proben. Autor: Klotzkette."""
 from __future__ import annotations
+from skill_sources import fachinhalt_path
 
 import argparse
 import csv
@@ -84,7 +85,7 @@ class Originals(unittest.TestCase):
 
     def test_skill_scope_and_standalone_prompts(self):
         for phase, slug in SKILLS.items():
-            path = B.ROOT / "bauwirtschaft/skills" / slug / "SKILL.md"
+            path = fachinhalt_path(B.ROOT / "bauwirtschaft/skills" / slug / "SKILL.md")
             text = path.read_text(encoding="utf-8")
             meta = yaml.safe_load(text.split("---", 2)[1])
             self.assertEqual(set(meta), {"name", "description"})

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Die aktuellen langen Skills unverändert in lesbare A4-PDFs setzen.
+"""Alle erhaltenen langen Fachmodule in lesbare A4-PDFs setzen.
 
 Python: reportlab, pypdf. Keine künstlichen Seitenumbrüche in den Skilltexten.
 """
@@ -15,6 +15,8 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,LongTable,TableStyle
 from pypdf import PdfReader,PdfWriter
+from ki_kanzlei_release_contract import (VERSION, ACTIVE_SKILL_COUNT, ACTIVE_SKILL_SLUGS, MODULE_COUNT, module_sources, minimum_pages)
+from skill_sources import registry
 ROOT=Path(__file__).resolve().parents[1]
 LINK_BASE='https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/'
 
@@ -105,7 +107,7 @@ def render(source,target):
         c.drawString(60,A4[1]-32,'KI-native Kanzlei | '+slug)
         c.drawString(60,30,'Stand: 9. Oktober 2026 | Quellen jeweils am konkreten Fall prüfen')
         c.drawRightString(A4[0]-60,30,str(doc.page));c.restoreState()
-    doc=SimpleDocTemplate(str(target),pagesize=A4,leftMargin=60,rightMargin=60,topMargin=53,bottomMargin=52,title=title,author='Klotzkette',subject='KI-native Kanzlei – ausführlicher Skill',invariant=1)
+    doc=SimpleDocTemplate(str(target),pagesize=A4,leftMargin=60,rightMargin=60,topMargin=53,bottomMargin=52,title=title,author='Klotzkette',subject='KI-native Kanzlei – vollständiges Fachmodul',invariant=1)
     doc.build(elements,onFirstPage=page,onLaterPages=page)
     reader=PdfReader(target)
     body_pages=[]
@@ -123,17 +125,39 @@ def render(source,target):
         cursor=found+len(segment)
     return {'skill':slug,'title':title,'source':source.relative_to(ROOT).as_posix(),'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'words':len(re.findall(r'\S+',body)),'utf8_bytes':len(source.read_bytes()),'pages':len(reader.pages),'pdf':target.name,'pdf_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'body_text_coverage':'all rendered source text segments present in source order'}
 
+def render_navigation(target):
+    """Eine Übersicht vor den vollständigen Modulen, kein Ersatz für deren Text."""
+    spec=next(p for p in registry() if p['name']=='ki-native-kanzlei')
+    body=ParagraphStyle('Overview',fontName='TNR',fontSize=11,leading=14.3,spaceAfter=10)
+    heading=ParagraphStyle('OverviewHeading',parent=body,fontName='TNR-Bold',fontSize=18,leading=22)
+    text=[Paragraph('KI-native Kanzlei',heading),
+          Paragraph(f'{ACTIVE_SKILL_COUNT} aktive Arbeitswege · {MODULE_COUNT} vollständige Fachmodule',heading),
+          Paragraph('Komponentenfassung '+VERSION+'.',body),
+          Paragraph('Die Plugin-Auswahl zeigt den Hauptskill und gebündelte Arbeitswege. Diese wählen die passenden Fachmodule aus. Die folgenden Kapitel enthalten sämtliche bisherigen Fachtexte vollständig; kein kurzer Arbeitsweg ersetzt den ausführlichen Inhalt.',body),
+          Paragraph('Struktur und Neusatz: 14. November 2026. Die Rechtsquellen wurden dadurch nicht erneut vollständig geprüft. Die bisherigen Fachstände, Quellen und Anwendungsgrenzen gelten weiter; vor der Verwendung im konkreten Fall ist die einschlägige Quelle zu prüfen.',body)]
+    for route in spec['routes']:
+        text.append(Paragraph(html.escape(route['title'])+f" — {len(route['members'])} Fachmodule",body))
+    text.append(Paragraph('Hauptskill: '+', '.join(spec['keep'])+'. Die Lesezeichen des Handbuchs führen zu den vollständigen Fachmodulen.',body))
+    SimpleDocTemplate(str(target),pagesize=A4,leftMargin=60,rightMargin=60,topMargin=60,bottomMargin=52,title='Arbeitswege und Fachmodule',author='Klotzkette',invariant=1).build(text)
+    extracted=' '.join(p.extract_text() or '' for p in PdfReader(target).pages)
+    assert f'{ACTIVE_SKILL_COUNT} aktive Arbeitswege' in extracted
+    assert f'{MODULE_COUNT} vollständige Fachmodule' in extracted
+    return len(PdfReader(target).pages)
+
+
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--out',required=True,type=Path);ap.add_argument('--font-dir',type=Path,default=Path('/System/Library/Fonts/Supplemental'));ap.add_argument('--font-family',choices=sorted(FONT_FILES),default='times-new-roman');ap.add_argument('--min-words',type=int,default=0);args=ap.parse_args();args.out.mkdir(parents=True,exist_ok=True);setup(args.font_dir,args.font_family)
     rows=[]
-    sources=sorted((ROOT/'ki-native-kanzlei/skills').glob('*/SKILL.md'))
+    sources=module_sources();assert len(sources)==MODULE_COUNT
+    assert {p.parent.name for p in (ROOT/'ki-native-kanzlei/skills').glob('*/SKILL.md')}==ACTIVE_SKILL_SLUGS
     for source in sources:
-        if len(source.read_text().split())<args.min_words:continue
-        row=render(source,args.out/(source.parent.name+'.pdf'));rows.append(row);print(row['skill'],row['pages'],row['words'],flush=True)
-    writer=PdfWriter()
+        if len(source.read_text().split())<args.min_words:raise ValueError('Mindestwortfilter würde ein erforderliches Fachmodul auslassen: '+source.parent.name)
+        row=render(source,args.out/(source.parent.name+'.pdf'));assert row['pages']>=minimum_pages(row['skill']),row['skill'];rows.append(row);print(row['skill'],row['pages'],row['words'],flush=True)
+    navigation=args.out/'arbeitswege-uebersicht.pdf';navigation_pages=render_navigation(navigation)
+    writer=PdfWriter();writer.append(navigation,outline_item='Arbeitswege und vollständige Fachmodule')
     for row in rows:writer.append(args.out/row['pdf'],outline_item=row['title'])
-    writer.add_metadata({'/Title':'KI-native Kanzlei – Die ausführlichen Skills','/Author':'Klotzkette','/Subject':'Mandat, Berufsrecht, Fristen, Facharbeit und Abrechnung'})
+    writer.add_metadata({'/Title':'KI-native Kanzlei – Arbeitswege und vollständige Fachmodule','/Author':'Klotzkette','/Subject':'Mandat, Berufsrecht, Fristen, Facharbeit und Abrechnung'})
     target=args.out/'ki-native-kanzlei-skills-handbuch.pdf';writer.write(target)
-    report={'date':'2026-10-09','layout':'A4, '+FONT_LABEL+' 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill','font':FONT_LABEL,'skills':rows,'skill_count':len(rows),'total_skill_pages':sum(x['pages'] for x in rows),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'handbook_pages':len(PdfReader(target).pages),'measurement':'Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern.'}
+    report={'schema_version':2,'version':VERSION,'date':'2026-11-14','source_review':'Bestehende Fachstände; Strukturänderung ist keine neue Volltextprüfung der Rechtsquellen','layout':'A4, '+FONT_LABEL+' 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Fachmodul; vorgelagerte Übersicht der aktiven Arbeitswege','font':FONT_LABEL,'modules':rows,'module_count':len(rows),'active_skill_count':ACTIVE_SKILL_COUNT,'active_skills':sorted(ACTIVE_SKILL_SLUGS),'navigation_pages':navigation_pages,'total_module_pages':sum(x['pages'] for x in rows),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'handbook_pages':len(PdfReader(target).pages),'measurement':'Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern.'}
     (args.out/'umfang.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()

@@ -67,6 +67,97 @@
       "url": "https://www.gesetze-im-internet.de/inso/__270.html",
       "checked_on": "2026-10-01",
       "supports": "Absätze1–2: Eigenverwaltung durch gerichtliche Anordnung; keine pauschale Opferung dieser Option bei rechtzeitigem Eröffnungsantrag."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_150-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 05.11.2026, IX ZR 150/25, Rn. 8–28: Behördliche Forderungsfeststellung nach Anmeldung und Bestreiten von Leistungsbescheid trennen. Hälftiges Absehen von Säumniszuschlägen zur Ausgleichsabgabe nur für Entstehung ab Zahlungsunfähigkeit oder Überschuldung. Keine allgemeine Zivilgerichtszuständigkeit; Krisenbeginn offen, Zurückverweisung.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "325fd50207c8b0bf2da2e3e9aac42c341551827af796f5c27e9528d762073f18"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__65-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 24.09.2026, IX ZR 65/25, Rn. 13–20: Eigene substantiierte Nichtzahlungserklärung und Dreiwochenbezug als regelmäßiges Indiz für Zahlungseinstellung und Kenntnis nach § 130 InsO. Ausnahme und Gesamtwürdigung bleiben; keine Gleichsetzung mit § 133-Vorsatz oder Überschuldung.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "60ac132f45fa5c15bfa04c351b28b81060ba68292b4df12ef2aaf3a09ae626ba"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 19.12.2024, Az. IX ZR 114/23, Rn. 7–15 und 23–27: Identität von Anmeldung, Prüfung und Klage bei Rückabtretung; keine allgemeine Doppelanmeldungspflicht von Zedent und Zessionar.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "2101d588234f9472bd1a10bd84f322025792529dbbb72a03d7975dd02108930c"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__41.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 41 InsO: Fälligkeitsfiktion und Abzinsung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__179.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 179 InsO: Verfolgungslast nach Titelstatus."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__180.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 180 InsO: Ausschließliche Zuständigkeit und Aufnahme anhängiger Prozesse."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__184.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 184 InsO: Schuldnerwiderspruch und Monatsfrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__189.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 189 InsO: Zweiwochen-Nachweisfrist ab öffentlicher Bekanntmachung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__190.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 190 InsO: Ausfallnachweis und Sonderfälle der Abschlagsverteilung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__191.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 191 InsO: Bedingte Forderungen und Zurückbehaltung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__174.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 174 InsO: Anmeldungsinhalt, besondere Merkmale, Kopien und angeforderte Originale."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__302.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 302 InsO: Steuerstraftatfall erfordert rechtskräftige Verurteilung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__43.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 43 InsO: Geltendmachung bei mehreren haftenden Schuldnern bis voller Befriedigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__44.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 44 InsO: Künftige Regressforderung von Gesamtschuldnern und Bürgen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__52.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 52 InsO: Persönliche Haftung und Ausfall bei Verteilung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 39 InsO: Nachrang von Zinsen seit Eröffnung, Teilnahmeaufwand und Gesellschafterdarlehen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__388.html",
+      "checked_on": "2026-11-14",
+      "supports": "Paragraf 388 BGB: Aufrechnung erfolgt durch Erklärung, nicht automatisch kraft Gesetzes."
     }
   ],
   "mini_review": {
@@ -85,16 +176,18 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. 14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
     "changes": [
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
-      "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt."
+      "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt.",
+      "14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
     ],
-    "sha256": "87f41998e4e69fc13893dee94c75ed9017273e8e1ab53d392dbf9af368a76638"
+    "sha256": "7355b2a561cb45048768f69aeefaaf0c33522b8576fc200e425b19c2e9fb4282",
+    "reviewed_on": "2026-11-14"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -163,6 +256,38 @@
         }
       ],
       "target_skill": "opos-titelabgleich-dreiwochen-liquiditaetsbruecke"
+    },
+    {
+      "id": "behoerdenforderung-saumnis-krisenbeginn",
+      "request": "Ein Integrationsamt meldet nach Insolvenzeröffnung Ausgleichsabgaben und 1.800 Euro Säumniszuschläge zur Tabelle an. Der Verwalter bestreitet 900 Euro. Von den Zuschlägen entfielen nach der vorgelegten Monatsberechnung 600 Euro auf Zeiten vor der belegten Zahlungsunfähigkeit und 1.200 Euro auf Zeiten danach. Ein Insolvenzfeststellungsbescheid wurde dem Verwalter inzwischen bekanntgegeben; seine Rechtsbehelfsbelehrung liegt vor. Die Sachbearbeitung meint, es müsse immer die Behörde beim allgemeinen Gerichtsstand auf die vollen 1.800 Euro klagen. Erstelle in ergebnis.md einen internen Vermerk zu Betrag, Verfolgungslast und Fristprüfung nach BGH IX ZR 150/25. Keine tatsächliche Erklärung oder Einreichung.",
+      "target_skill": "forderungen-tabelle-sicherheiten-bearbeiten",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Trennt Tabellenanmeldung, zulässigen Insolvenzfeststellungsbescheid und unzulässige erneute Leistungsfestsetzung einer Insolvenzforderung; erkennt die Rechtsbehelfslast des Bestreitenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Prüft zuständigen Rechtsweg, Bekanntgabe und konkrete Rechtsbehelfsfrist; begründet keine allgemeine Zivilgerichtszuständigkeit aus dem BGH-Verfahren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Berechnet vor Rang- und sonstigen Einwendungen 600 Euro plus die Hälfte von 1.200 Euro, also 1.200 Euro; halbiert nicht pauschal sämtliche Zuschläge und trennt Hauptforderung sowie nach Eröffnung laufende Nebenforderungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
@@ -281,5 +406,121 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "source_followup_2026_11_14": {
+    "method": "desk_review",
+    "date": "2026-11-14",
+    "scope": "14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
+    "files": [
+      {
+        "path": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+        "sha256": "7355b2a561cb45048768f69aeefaaf0c33522b8576fc200e425b19c2e9fb4282"
+      },
+      {
+        "path": "insolvenzrecht/skills/forderungsanmeldung-glaeubiger-174-177-inso/SKILL.md",
+        "sha256": "21df15441fecca7bee56bdd0bf652e10b1f740320591fd411ed9b613644c537c"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_150-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-14",
+        "supports": "BGH, Urteil vom 05.11.2026, IX ZR 150/25, Rn. 8–28: Behördliche Forderungsfeststellung nach Anmeldung und Bestreiten von Leistungsbescheid trennen. Hälftiges Absehen von Säumniszuschlägen zur Ausgleichsabgabe nur für Entstehung ab Zahlungsunfähigkeit oder Überschuldung. Keine allgemeine Zivilgerichtszuständigkeit; Krisenbeginn offen, Zurückverweisung.",
+        "verification_status": "amtlicher_volltext_passagenbezogen",
+        "source_sha256": "325fd50207c8b0bf2da2e3e9aac42c341551827af796f5c27e9528d762073f18"
+      },
+      {
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__65-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-14",
+        "supports": "BGH, Urteil vom 24.09.2026, IX ZR 65/25, Rn. 13–20: Eigene substantiierte Nichtzahlungserklärung und Dreiwochenbezug als regelmäßiges Indiz für Zahlungseinstellung und Kenntnis nach § 130 InsO. Ausnahme und Gesamtwürdigung bleiben; keine Gleichsetzung mit § 133-Vorsatz oder Überschuldung.",
+        "verification_status": "amtlicher_volltext_passagenbezogen",
+        "source_sha256": "60ac132f45fa5c15bfa04c351b28b81060ba68292b4df12ef2aaf3a09ae626ba"
+      },
+      {
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-14",
+        "supports": "BGH, Urteil vom 19.12.2024, Az. IX ZR 114/23, Rn. 7–15 und 23–27: Identität von Anmeldung, Prüfung und Klage bei Rückabtretung; keine allgemeine Doppelanmeldungspflicht von Zedent und Zessionar.",
+        "verification_status": "amtlicher_volltext_passagenbezogen",
+        "source_sha256": "2101d588234f9472bd1a10bd84f322025792529dbbb72a03d7975dd02108930c"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__41.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 41 InsO: Fälligkeitsfiktion und Abzinsung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__179.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 179 InsO: Verfolgungslast nach Titelstatus."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__180.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 180 InsO: Ausschließliche Zuständigkeit und Aufnahme anhängiger Prozesse."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__184.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 184 InsO: Schuldnerwiderspruch und Monatsfrist."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__189.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 189 InsO: Zweiwochen-Nachweisfrist ab öffentlicher Bekanntmachung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__190.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 190 InsO: Ausfallnachweis und Sonderfälle der Abschlagsverteilung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__191.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 191 InsO: Bedingte Forderungen und Zurückbehaltung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__174.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 174 InsO: Anmeldungsinhalt, besondere Merkmale, Kopien und angeforderte Originale."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__302.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 302 InsO: Steuerstraftatfall erfordert rechtskräftige Verurteilung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__43.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 43 InsO: Geltendmachung bei mehreren haftenden Schuldnern bis voller Befriedigung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__44.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 44 InsO: Künftige Regressforderung von Gesamtschuldnern und Bürgen."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__52.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 52 InsO: Persönliche Haftung und Ausfall bei Verteilung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 39 InsO: Nachrang von Zinsen seit Eröffnung, Teilnahmeaufwand und Gesellschafterdarlehen."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/bgb/__388.html",
+        "checked_on": "2026-11-14",
+        "supports": "Paragraf 388 BGB: Aufrechnung erfolgt durch Erklärung, nicht automatisch kraft Gesetzes."
+      }
+    ],
+    "audit_path": "quality/source-audits/2026-11-14/kerngebiete.md",
+    "limits": "Direkter HTTPS-Abruf der amtlichen PDF erfolgreich, Web-Abruf zuvor 403. Keine Aktualisierung alter Prüfdatumsfelder; keine Live-Modellausführung.",
+    "evaluation_cases": {
+      "added": [
+        "behoerdenforderung-saumnis-krisenbeginn"
+      ],
+      "status": "Prüffall und Kriterien redaktionell angelegt; kein Live-Modelllauf durchgeführt."
+    }
   }
 }

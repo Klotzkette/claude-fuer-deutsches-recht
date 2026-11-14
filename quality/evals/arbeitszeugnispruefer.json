@@ -195,7 +195,7 @@
       "deliverables": [
         "analyse-und-beide-schreiben.md"
       ],
-      "target_skill": "einfuehrung-pruefauftrag",
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten",
       "criteria": [
         {
           "id": "C01",
@@ -227,7 +227,7 @@
       "deliverables": [
         "erste-antwort.md"
       ],
-      "target_skill": "einfuehrung-pruefauftrag",
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten",
       "criteria": [
         {
           "id": "C01",
@@ -259,7 +259,7 @@
       "deliverables": [
         "pruefvermerk-und-schreiben.md"
       ],
-      "target_skill": "einfuehrung-pruefauftrag",
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten",
       "criteria": [
         {
           "id": "C01",
@@ -328,7 +328,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "dialogfortsetzung-vollstaendiger-arbeitnehmerauftrag",
@@ -371,7 +371,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "nichtinteraktiv-mit-platzhaltern",
@@ -407,7 +407,7 @@
           ]
         }
       ],
-      "target_skill": "aufforderungsschreiben-berichtigung"
+      "target_skill": "berichtigung-anspruch-verfahren-bearbeiten"
     },
     {
       "id": "mangelfrei-ohne-kuenstlichen-streit",
@@ -441,7 +441,7 @@
           ]
         }
       ],
-      "target_skill": "mandantenbericht-erstellen"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "hr-bereinigung-ohne-arbeitnehmerschreiben",
@@ -475,7 +475,7 @@
           ]
         }
       ],
-      "target_skill": "rollen-und-modus-wahl"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "einzeldatei-ohne-zeugnis",
@@ -507,7 +507,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "teilantwort-und-unbekannte-belege",
@@ -539,7 +539,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "widerspruch-fuehrung",
@@ -571,7 +571,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "kontrollschleife-neufassung",
@@ -603,7 +603,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "entwurfsklausel-vollstreckung",
@@ -635,7 +635,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "note-vier-auf-drei-beweislast",
@@ -671,7 +671,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "entwurfsrecht-und-wahrheitseinwand",
@@ -680,7 +680,7 @@
       "deliverables": [
         "verfahrensvorschlag.md"
       ],
-      "target_skill": "klagestrategie-und-vollstreckung",
+      "target_skill": "berichtigung-anspruch-verfahren-bearbeiten",
       "criteria": [
         {
           "id": "C01",
@@ -712,7 +712,7 @@
       "deliverables": [
         "pruefung-und-schreiben.md"
       ],
-      "target_skill": "intake-und-stammdaten-pruefen",
+      "target_skill": "zeugnisauftrag-form-taetigkeit-bearbeiten",
       "criteria": [
         {
           "id": "C01",
@@ -772,7 +772,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "abwertung-originalbelege-und-teilantwort",
@@ -807,7 +807,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     },
     {
       "id": "bedeutungsgleiche-korrektur-und-neuer-teilfehler",
@@ -850,7 +850,7 @@
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
     }
   ],
   "prompt_workflow_review": {

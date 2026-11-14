@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "assets": {
+    "bauwirtschaft-fortgeschrittene.zip": {
+      "tag": "bauwirtschaft-rundum-v445.33.3",
+      "version": "445.33.1",
+      "sha256": "363cb0845c0e0b9e1a8ab322c6c24c29c6d97f7f8323e6833c42c54a6c0bf4a2",
+      "evidence": "quality/bauwirtschaft-rundum/pakete.json"
+    },
+    "fachanwalt-insolvenz-sanierungsrecht.zip": {
+      "tag": "insolvenzanfechtung-v1.1.0",
+      "version": "445.35.4",
+      "sha256": "d8d3c810a16eeaa2cc9b0cf074a3044e1c71267bddb6a2c3507a22800323a03e",
+      "evidence": "quality/insolvenzanfechtung/release-pakete.json"
+    },
+    "insolvenzforderungen-checker.zip": {
+      "tag": "insolvenzsachbearbeitung-v1.1.0",
+      "version": "445.35.5",
+      "sha256": "6698296a8e4baae3ea756415b8cf55bd0d637c46bfe398123cad197292f5e638",
+      "evidence": "quality/insolvenzsachbearbeitung/release-pakete.json"
+    }
+  }
+}

@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "target_skill": "status-navigator-einstieg"
+      "target_skill": "auftrag-inventur-bearbeiten"
     }
   ],
   "prompt_editorial_review": {

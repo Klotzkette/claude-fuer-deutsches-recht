@@ -63,7 +63,7 @@
     {
       "id": "agenten-digitalrecht-2026",
       "request": "Eine Kanzlei nutzt ein lokal betriebenes Modell. Dessen Entwickler hat keinen Datenzugang. Der Agent darf aber eigenständig externe Suchdienste auswählen und ganze Mandatsfragen übermitteln; die Dienstleisterliste nennt nur den Hoster. Der Anbieter meint, eine allgemeine AVV und 'kein Training' genügten. Schreiben Sie konkrete Anbieterfragen und eine Ersatzklausel. Ungeklärte Empfänger nicht als genehmigt behandeln; keine Daten übermitteln.",
-      "target_skill": "subunternehmer-regelung-pruefen",
+      "target_skill": "verschwiegenheit-und-daten-bearbeiten",
       "input_files": [],
       "deliverables": [
         "Anbieterfragen.docx",
@@ -133,7 +133,7 @@
           ]
         }
       ],
-      "target_skill": "ki-no-training-modellverbesserung-telemetrie"
+      "target_skill": "verschwiegenheit-und-daten-bearbeiten"
     },
     {
       "id": "anbieterzusage-bias-und-hochrisikofristen",
@@ -172,7 +172,7 @@
           ]
         }
       ],
-      "target_skill": "ai-act-rollen-kanzlei-provider-deployer-api"
+      "target_skill": "aussenauftritt-und-kanzleipraxis-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -209,7 +209,7 @@
       "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-schnellstart.md",
       "berufsrecht-ki-vertragspruefung/README.md",
       "quality/evals/berufsrecht-ki-vertragspruefung.json",
-      "berufsrecht-ki-vertragspruefung/skills/cloud-act-und-drittstaat-pruefen/SKILL.md"
+      "berufsrecht-ki-vertragspruefung/skills/cloud-act-und-drittstaat-pruefen/FACHINHALT.md"
     ],
     "opening_change": "Widerspruch zwischen No-Training-Zusage, Inhaltsprotokollen, Verbesserung und Supportzugriff als konkrete Vertragsprüfung.",
     "norms": [

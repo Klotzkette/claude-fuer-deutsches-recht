@@ -342,7 +342,7 @@ Aus dem Arbeitsverzeichnis lässt sich die Zugriffsberechtigung nicht ableiten. 
 
 Vor sonstigen Fragen eine kurze Vorab-Präambel zeigen – 3–4 kurze Zeilen:
 
-> **`produktrecht` ist für Personen die Produktlaunches, Werbeaussagen und Feature-Risiken prüfen – die rechtliche Seite des Shippens.** Nicht Ihr Bereich? `/kanzlei-builder-hub:verwandte-skills-vorschlag`.
+> **`produktrecht` ist für Personen die Produktlaunches, Werbeaussagen und Feature-Risiken prüfen – die rechtliche Seite des Shippens.** Nicht Ihr Bereich? `/kanzlei-builder-hub:navigation-uebergabe-bearbeiten Thema: verwandte-skills-vorschlag`.
 >
 > **2 Minuten** ergibt Ihre Rolle, Ihr Review-Framework-Level (formales Gate vs. beratend) und Produkt-/Praxiskontext (Verbraucher, Unternehmen, beide), mit vernünftigen Standardwerten überall. **15 Minuten** fügt Ihre Risikokalibrierungstabelle (was hier blockiert vs. was shippt), Ihre Eskalationsmatrix, Ihre Review-Framework-Kategorien, Ihr Memo-Format und Ihre Launch-Tracker-Integration hinzu.
 >
@@ -358,7 +358,7 @@ Sobald der Nutzer gewählt hat, orientieren:
 
 Nicht das persönlichen KI-Tool-Verlauf, andere Gespräche oder die Home-Verzeichnis-Konfigurationsdatei des Nutzers lesen um das Interview vorzufüllen.
 
-**Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: "Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
+**Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: "Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:pflichten-und-belege-bearbeiten Thema: kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
 
 **Vollständiger Setup-Pfad:** der bestehende Interviewablauf unten.
 
@@ -642,7 +642,7 @@ Vor den strukturierten Fragen: "Haben Sie ein bestehendes Launch-Review-Framewor
 
 ---
 
-*Neu ausführen: `/produktrecht:kaltstart-interview --redo`*
+*Neu ausführen: `/produktrecht:pflichten-und-belege-bearbeiten Thema: kaltstart-interview --redo`*
 ```
 
 ## Nach dem Schreiben
@@ -658,8 +658,8 @@ Wenn ja, diese maßgeschneiderte Liste zeigen:
 > - **Rechtlicher Review eines Produktlaunchs** – z. B. "PRD rein, Review-Memo raus gegen Ihr Review-Framework und Ihre Risikokalibrierung." Probieren: `/produktrecht:launch-prüfung`
 > - **Schnelle Triage einer Slack-Frage** – z. B. "'Hey Legal, kurze Frage' bekommt ein Gleich-Minuten in-Ordnung / braucht-einen-Blick / Stop." Probieren: `/produktrecht:ist-das-ein-problem`
 > - **Werbeaussagen-Prüfung** – z. B. "Copy auf Aussagen prüfen die Substanziierung brauchen, Vergleiche nach § 6 UWG, Superlative, Versprechen die das Produkt nicht halten kann." Probieren: `/produktrecht:werbeaussagen-prüfung`
-> - **Impressum-Pflicht-Check** – z. B. "Impressum auf Vollständigkeit nach §§ 5, 6 DDG prüfen." Probieren: `/produktrecht:impressum-pflicht`
-> - **Preisangaben-Check** – z. B. "Preisdarstellung auf PAngV-Konformität prüfen, insb. Streichpreise und Grundpreise." Probieren: `/produktrecht:preisangaben`
+> - **Impressum-Pflicht-Check** – z. B. "Impressum auf Vollständigkeit nach §§ 5, 6 DDG prüfen." Probieren: `/produktrecht:pflichten-und-belege-bearbeiten Thema: impressum-pflicht`
+> - **Preisangaben-Check** – z. B. "Preisdarstellung auf PAngV-Konformität prüfen, insb. Streichpreise und Grundpreise." Probieren: `/produktrecht:pflichten-und-belege-bearbeiten Thema: preisangaben`
 
 **Mein Vorschlag für das erste:** Führen Sie `/ist-das-ein-problem` für eine PM-Frage aus die Sie bereits beantwortet haben – sehen Sie ob die Antwort Ihrer Kalibrierung entspricht.
 

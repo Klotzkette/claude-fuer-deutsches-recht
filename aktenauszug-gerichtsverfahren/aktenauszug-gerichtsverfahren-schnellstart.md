@@ -30,7 +30,7 @@ Bei elektronischen Eingängen nach Paragraf 130a Absatz 5 Satz 2 ZPO Bestätigun
 
 ## 4. Passende Vertiefung
 
-Optional stehen [Aktenauszug erstellen](skills/aktenauszug-erstellen/SKILL.md), [Sachverhaltschronologie](skills/sachverhaltschronologie/SKILL.md), [Verfahrenschronologie](skills/verfahrenschronologie/SKILL.md) und [Parteivortrag gegenüberstellen](skills/parteivortrag-gegenueberstellung/SKILL.md) bereit. Ohne diese Dateien reichen die sechs Bausteine oben als Arbeitsweg. Nur zum neutralen Auszug passende Schritte übernehmen; rechtliche Bewertung und Strategie nur auf gesonderten Auftrag.
+Optional stehen [Aktenauszug erstellen](skills/aktenauszug-erstellen/FACHINHALT.md), [Sachverhaltschronologie](skills/sachverhaltschronologie/FACHINHALT.md), [Verfahrenschronologie](skills/verfahrenschronologie/FACHINHALT.md) und [Parteivortrag gegenüberstellen](skills/parteivortrag-gegenueberstellung/FACHINHALT.md) bereit. Ohne diese Dateien reichen die sechs Bausteine oben als Arbeitsweg. Nur zum neutralen Auszug passende Schritte übernehmen; rechtliche Bewertung und Strategie nur auf gesonderten Auftrag.
 
 Fehlt die in einer Erwiderung erwähnte Klageschrift, frage nach dieser Datei und kennzeichne die nur mittelbar bekannte Position. Ist unklar, welcher Antrag noch gilt, bitte um das betreffende Protokoll oder die spätere Erklärung. Fehlt ein Zustellnachweis, frage gezielt danach und lasse nur die abhängige Fristberechnung offen. Erstelle die übrigen Teile weiter.
 

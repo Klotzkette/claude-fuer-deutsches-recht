@@ -5,7 +5,7 @@ argument-hint: "Akte; Eingang oder Versand; Simulation oder ausdrücklich erlaub
 
 Eingabe: $ARGUMENTS
 
-Lies den vorhandenen Mandatslauf und verwende den Skill [beA-Anlagen, Empfang und Versand](../skills/bea-anlagen-vorbereiten/SKILL.md) mit der [beA-Referenz](../references/bea-versand-empfang.md). Bei einer bloßen Vorbereitungsanweisung öffne kein echtes Postfach. Bei ausdrücklich beauftragtem Echtzugriff prüfe zuerst den aktiven [Computerlauf](../references/computersteuerung-und-postfaecher.md), tatsächliche Hostfähigkeit, Konto und delegierte Rechte.
+Lies den vorhandenen Mandatslauf und verwende den Skill [beA-Anlagen, Empfang und Versand](../skills/bea-anlagen-vorbereiten/FACHINHALT.md) mit der [beA-Referenz](../references/bea-versand-empfang.md). Bei einer bloßen Vorbereitungsanweisung öffne kein echtes Postfach. Bei ausdrücklich beauftragtem Echtzugriff prüfe zuerst den aktiven [Computerlauf](../references/computersteuerung-und-postfaecher.md), tatsächliche Hostfähigkeit, Konto und delegierte Rechte.
 
 Sichere im Eingang Originalnachricht und Anlagen mit Herkunftsbeleg; erfasse Fristauslöser und eEB-Anforderung getrennt. Lesen oder Exportieren ist keine Abgabe eines eEB. Für Versand erstelle das konkrete Paket und lege Rolle, Signaturweg, Empfänger und unveränderte Fassung zur menschlichen Freigabe vor. Eine bereits passende tatsächlich erklärte Freigabe wird übernommen. Den erforderlichen persönlichen Schlussakt übernimmst du nicht durch einen Agentenklick unter einem fremden Token. Ein zulässiger delegierter Übermittlungsweg benötigt seine eigenen geprüften Voraussetzungen.
 

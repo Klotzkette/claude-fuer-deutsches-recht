@@ -157,7 +157,7 @@
           ]
         }
       ],
-      "target_skill": "wehrbeschwerdeordnung-beschwerde"
+      "target_skill": "arbeitsprodukt-bearbeiten"
     }
   ],
   "workshop_review": {
@@ -195,7 +195,7 @@
       "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
       "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
       "quality/evals/bundeswehrrecht-wehrrecht.json",
-      "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/SKILL.md"
+      "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/FACHINHALT.md"
     ],
     "opening_change": "Beanstandete Verwendung, Befehl und Beurteilung auf konkrete Abhilfe und Schutzbedarf beziehen.",
     "norms": [
@@ -231,7 +231,7 @@
       "files": [
         "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
         "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
-        "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/SKILL.md"
+        "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/FACHINHALT.md"
       ],
       "result": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt.",
       "search_2026": "1 WB 64.25 vom 25.06.2026 neu amtlich gelesen und konkret ergänzt.",

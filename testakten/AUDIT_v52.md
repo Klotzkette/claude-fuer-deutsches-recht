@@ -99,7 +99,7 @@ Alle anderen in `testakten/` referenzierten Plugins existieren als Top-Level-Ver
 
 - `meinungspruefer`, `nachbarschaftsstreit-pruefer`, `selbstvertreter-amtsgericht`, `selbstvertreter-sozialgericht`, `weg-hausverwaltung`, `arbeitsrecht`, `betreuungsrecht`, `forderungsmanagement-klagewerkstatt`, `insolvenzforderungsanmeldungspruefung`, `insolvenzverwaltung`, `legistik-werkstatt`, `lobbyregister-bundestag`, `phishing-vorfall-pruefer`, `ki-richtlinie-kanzleien`, `vertragsrecht`, `jveg-kostenpruefer`, `grosskanzlei-corporate-ma`, `krisenfrueherkennung-starug`, `markenrecht-fashion-luxus`, `bav-strategie-konzern`, `fluggastrechte`, `schriftform-und-textform-bgb`.
 
-- `kanzlei-allgemein` existiert (in der Sachverständigen-Akte als Plugin referenziert via Skill `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`); der Skill ist tatsächlich unter `kanzlei-allgemein/skills/umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten/SKILL.md` vorhanden.
+- `kanzlei-allgemein` existiert (in der Sachverständigen-Akte als Plugin referenziert via Skill `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`); der Skill ist tatsächlich unter `kanzlei-allgemein/skills/umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten/FACHINHALT.md` vorhanden.
 
 ## E. Umlauthygiene
 
