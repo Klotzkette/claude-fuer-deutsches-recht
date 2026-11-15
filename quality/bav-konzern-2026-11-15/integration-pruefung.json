@@ -146,7 +146,10 @@
     "test-skill-cap-migration.py: 14 Tests bestanden",
     "BAV-Provenienz inklusive Integrationsdateien: 0 Fehler",
     "22 Primärquellen-Archivhashes bestätigt",
-    "22 historische Meissner-Dateien bytegleich zum Ausgangscommit bestätigt",
-    "git diff --check: bestanden"
-  ]
+    "22 historische Meissner-Dateien bytegleich zum Ausgangscommit bestätigt"
+  ],
+  "whitespace_review": {
+    "result": "Der Vergleich aller neuen Dateien meldet Whitespace in 18 archivierten Primärquellen-Texten und eine zusätzliche Schlussleerzeile im Renderer. Keine fachliche oder ausführungsbezogene Beeinträchtigung; Archivbytes und gebundene Renderquellen bleiben unverändert.",
+    "scope": "git diff HEAD^ HEAD --check nach dem ersten Commit; die vorherige Prüfung ungestagter Dateien erfasste neue Dateien nicht."
+  }
 }
