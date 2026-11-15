@@ -1,7 +1,7 @@
 {
   "name": "arbeitszeugnispruefer",
-  "version": "445.36.0",
-  "description": "Prüft Arbeitszeugnisse aus Arbeitnehmersicht: gezielte Rückfragen, vertiefte Rechtsprechung, belegbare Änderungen, kurzer Mandantenbrief und passendes Arbeitgeberschreiben. Führt den Fall bis zur Kontrolle der Neufassung; auch für Chat und Word ausgearbeitet.",
+  "version": "445.36.5",
+  "description": "Prüft Arbeitszeugnisse, vergleicht Fassungen und formuliert belegte Berichtigungen und Schreiben. Acht Arbeitswege verbinden Zeugnisanalyse und Rechtsprüfung mit Ausbildungs- und Führungsfällen, beiden Testaktenbeständen und einer vollständigen Fachbibliothek.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

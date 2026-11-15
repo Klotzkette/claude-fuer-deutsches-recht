@@ -6,7 +6,7 @@ on:
       tag:
         description: 'Unbenutzter Komponententag aus dem Release-Scope'
         required: true
-        default: qualitaetsrunde-v445.36.2
+        default: qualitaetsrunde-v445.36.5
       expected_commit:
         description: 'Vollständiger geprüfter Main-Commit (40 Hexadezimalzeichen)'
         required: true
@@ -75,6 +75,10 @@ jobs:
         run: |
           python3 scripts/test-skill-cap-migration.py
           python3 scripts/test-skill-cap-integration.py
+          python3 scripts/test-plugin-consolidation.py
+          python3 scripts/test-skill-activation.py
+          python3 scripts/test-skill-source-replacements.py
+          python3 scripts/test-marketplace-import.py
           python3 scripts/test-skill-quality-release.py
           python3 scripts/test-anfechtung-werkstattprompts.py
           python3 scripts/test-quality-lab.py
@@ -93,6 +97,9 @@ jobs:
           python3 scripts/test-release-assets.py
           python3 scripts/test-release-rate-limits.py
           python3 scripts/test-scoped-release-routing.py
+      - name: Akten-Erhalt für die Zusammenführungsrunde prüfen
+        if: inputs.tag == 'qualitaetsrunde-v445.36.5'
+        run: python3 scripts/validate-plugin-consolidation.py
       - name: Vollständige Pakete aus dem freigegebenen Commit bauen
         run: |
           python3 scripts/build-skill-quality-release.py --dist "$RUNNER_TEMP/quality-dist" --expected-commit "$EXPECTED_COMMIT"

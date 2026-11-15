@@ -22,6 +22,8 @@ def outputs(plugin):
         return replacement_outputs(plugin, replacement)
     directory=ROOT/plugin['source'];count=len(plugin['keep'])+sum(len(r['members']) for r in plugin['routes'])
     active=len(plugin['keep'])+len(plugin['routes'])
+    if plugin.get('consolidated_sources'):
+        count=sum(len(route['members']) for route in plugin['routes'])
     lines=['# Fachmodule und Arbeitswege','',f'{count} vollständige Fachmodule sind über {active} auswählbare Skills erreichbar. Die Arbeitswege verbinden verwandte Aufgaben; die Fachtexte, Werkzeuge und Vorlagen werden nach Bedarf geladen.','',
            '[Plugin-Einstieg](README.md) · [Aktive Skill-Auswahl](../skills-index/'+plugin['name']+'.md)','',
            'Ein Fachmodul ist eine Vertiefung innerhalb eines Skills. Einzeln heruntergeladene Markdown-Dateien enthalten verknüpfte Hilfsdateien nicht; das Plugin-ZIP enthält den vollständigen Zusammenhang.','']
@@ -39,6 +41,14 @@ def outputs(plugin):
             if not path.is_file():raise ValueError(f'Fachmodul fehlt: {path}')
             lines.append(f'- [{title(path)}](skills/{member}/FACHINHALT.md)')
         lines.append('')
+    if plugin.get('consolidated_sources'):
+        retained = sorted((directory/'skills').glob('*/REFERENZ*.md'))
+        if retained:
+            section += 1
+            lines += [f'## {section}. Ergänzende Arbeitsanweisungen', '', 'Die bisherigen vollständigen Anweisungen bleiben zusätzlich verlinkt; maßgeblich für die Auswahl sind die aktiven Arbeitswege.', '']
+            for path in retained:
+                lines.append(f'- [{title(path)}]({path.relative_to(directory).as_posix()})')
+            lines.append('')
     # Repo-übergreifende Navigation gehört nicht zum Inhalt des Pluginarchivs.
     lines[4]='[Plugin-Einstieg](README.md)'
     index='\n'.join(lines)
@@ -81,6 +91,8 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--check',action='store_true');args=parser.parse_args()
     registry=json.loads((ROOT/'scripts/data/skill-cap-registry.json').read_text());different=[]
     for plugin in registry['plugins']:
+        if plugin.get('retained_source_archive'):
+            continue
         for path,text in outputs(plugin).items():
             if not path.exists() or path.read_text()!=text:
                 different.append(str(path.relative_to(ROOT)))

@@ -15,7 +15,7 @@ Vollständiger Vertrag samt Nachträgen, Aufgaben und Vergütung, Weisungs- und 
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -34,6 +34,29 @@ Prüfe eigene Preisgestaltung, Auswahl und Ablehnung von Aufträgen, Marktauftri
 ### 3.4. Gesamtwürdigung begründen
 
 Gewichte die tragenden Merkmale nach ihrer Bedeutung für diese Tätigkeit; verwende keinen mathematischen Scheinselbständigkeits-Score. Nenne die stärkste gegenteilige Deutung und weshalb ein Beleg sie trägt oder entkräftet. Auftraggeberzahl kann die wirtschaftliche Lage erhellen, beseitigt aber eine Beschäftigung im einzelnen Vertrag nicht. Anschließend Versicherungsfolgen getrennt prüfen lassen.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [Arbeitsmittel und Equipment](../arbeitsmittel/FACHINHALT.md)
+- [Außenauftritt und Marktchance](../aussenauftritt-marktchance/FACHINHALT.md)
+- [DRV Selbstcheck Erwerbsstatus](../drv-selbstcheck-eigene-betriebsstaette/FACHINHALT.md)
+- [Eigene Betriebsstätte](../eigene-betriebsstaette/FACHINHALT.md)
+- [Einbindung in IT-Systeme](../einbindung-it-systeme/FACHINHALT.md)
+- [Eingliederung in Arbeitsorganisation](../eingliederung-arbeitsorganisation/FACHINHALT.md)
+- [Ersatzkräfte und Subunternehmer](../ersatzkraefte-subunternehmer/FACHINHALT.md)
+- [Freie Zeiteinteilung](../freie-zeiteinteilung/FACHINHALT.md)
+- [Mehrere Auftraggeber](../mehrere-auftraggeber/FACHINHALT.md)
+- [Persönliche Leistungspflicht](../persoenliche-leistungspflicht/FACHINHALT.md)
+- [Reporting und Controlling](../reporting-controlling/FACHINHALT.md)
+- [Teammeetings und agile Steuerung](../teammeetings-agile/FACHINHALT.md)
+- [Unternehmerisches Risiko](../unternehmerisches-risiko/FACHINHALT.md)
+- [Urlaub Krankheit Fortzahlung](../urlaub-krankheit-fortzahlung/FACHINHALT.md)
+
+Die vollständigen ergänzenden Arbeitsanweisungen bleiben als Referenz verfügbar:
+
+- [eingliederung-weisung-unternehmerrisiko-bearbeiten](../eingliederung-weisung-unternehmerrisiko-bearbeiten/REFERENZ.md)
 
 ## 4. Quellenpflicht
 

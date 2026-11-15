@@ -9,7 +9,9 @@ description: "Schaltet sich ein, wenn in Bauträgervertrag Prüfer ein juristisc
 
 Arbeite als Baurechtlicher Bearbeiter für Bauvertrag, Architektenleistung, Mängel, Nachtrag, Abnahme, Bauzeit, Sicherheiten und Bauprozess.
 
-Pluginauftrag: Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, Paragrafen 650u/650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe.
+Pluginauftrag: Bauträgerverträge aus der ausdrücklich beauftragten Erwerber-, Bauträger-, GdWE- oder Verwalterperspektive prüfen. MaBV, Paragrafen 650u/650v BGB, Verbrauchersicherheit, AGB, Bausoll, Abnahme, WEG, Vormerkung und Lastenfreistellung tragen unterschiedliche Rechtsfolgen. Nur das bestellte Dokument liefern; ein Drei-Dokumente-Paket ist ein eigener Auftrag. Bekannte Rolle übernehmen, keine widerstreitenden Seiten gleichzeitig vertreten.
+
+Für die Gesamtbearbeitung den [Hauptarbeitsweg](../bautraegerpruefung-steuern/SKILL.md) und die [Rollen- und Quellenregeln](../../references/rechtsprechung-und-rollen.md) hinzunehmen. [Der frühere Argumentationskern des zweiten Prüfers](REFERENZ-bautraegervertragspruefer.md) bleibt als Detailreferenz erhalten.
 
 1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
 1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
@@ -38,14 +40,16 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Bauablauf | Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen |
 | Mangel | Soll-Ist-Abweichung, Verantwortlichkeit, Fristsetzung, Selbstvornahme und Schaden prüfen |
 | Architekt | Leistungsphase, Überwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen |
-| Städtebauliche Verträge | Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit prüfen |
+| Raten und Sicherheiten | Vereinbartes Zahlungsmodell, Bautenstand, richtige Bezugsgröße, Verbrauchersicherheit, Vormerkung und Lastenfreistellung getrennt prüfen |
+| Gemeinschaft und Verwalter | Anspruchsinhaber, gemeinschaftliche Ausübung, Beschlussumfang, Vertretung und Fristwahrung getrennt belegen |
+| Öffentlich-rechtliche Schnittstelle | Nur bei konkretem Bezug Folgekosten, Erschließung, Durchführungsvertrag und vertragliche Kostenweitergabe prüfen |
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt: Bearbeite den Fachpunkt im Skill bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden: Bearbeite den Fachpunkt im Skill beurkundung-verbraucherfrist-notar-und-bezugsurkunden und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Geschäftsführer-, Architekten- und Bautenstandshaftung: Bearbeite den Fachpunkt im Skill geschaeftsfuehrer-architekt-und-bautenstandshaftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Notarhaftung, Belehrung und Streitverkündung: Bearbeite den Fachpunkt im Skill notarhaftung-belehrung-und-streitverkuendung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.1. [Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt](../bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt/FACHINHALT.md): Lies die Fachvertiefung und führe Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. [Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden](../beurkundung-verbraucherfrist-notar-und-bezugsurkunden/FACHINHALT.md): Lies die Fachvertiefung und führe Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. [Geschäftsführer-, Architekten- und Bautenstandshaftung](../geschaeftsfuehrer-architekt-und-bautenstandshaftung/FACHINHALT.md): Lies die Fachvertiefung und führe Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. [Notarhaftung, Belehrung und Streitverkündung](../notarhaftung-belehrung-und-streitverkuendung/FACHINHALT.md): Lies die Fachvertiefung und führe Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -57,6 +61,10 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 4.4. BGB Paragraf 640: Abnahme.
 4.5. BGB Paragraf 650a: Bauvertrag.
 4.6. BGB Paragraf 650q: Architekten- und Ingenieurvertrag.
+
+4.7. BGB Paragrafen 650u und 650v, Paragraf 1 AbschlagsV sowie Paragrafen 3 und 7 MaBV: Bauträgervertrag, Abschlagsvereinbarung und die konkret einschlägigen Sicherungsmodelle.
+4.8. WEG Paragrafen 9a, 18 und 19: Gemeinschaftsstellung und Verwaltung von der konkreten vertraglichen Erwerberposition unterscheiden.
+4.9. BGB Paragrafen 203, 204 und 634a: tatsächlichen Hemmungstatbestand, Verjährungsdauer und Beginn belegen; Beschlussfassung ist für sich keine Hemmung.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
@@ -72,7 +80,7 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung.
+Beweislast je Anspruch, konkreter streitiger Tatsache, Abnahmestand und prozessualer Lage bestimmen. Eine pauschale Verteilung „Auftragnehmer für Leistung, Auftraggeber für Mangel“ reicht nicht aus. Vertragliche Erwerberrechte, gemeinschaftliche Ausübung, Vertretung und tatsächlich eingetretene Fristwirkung gesondert belegen; insbesondere hemmt ein interner Gemeinschaftsbeschluss nicht für sich die Verjährung.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.

@@ -57,6 +57,60 @@ class CodexManifestAbgleich(unittest.TestCase):
         result = self.pruefen()
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
+    def quellarchiv(self, row=None):
+        self.schreiben(self.root / 'alt-plugin/.claude-plugin/plugin.json', json.dumps({
+            'name': 'alt-plugin', 'version': '0.9.0'}))
+        entry = row or {'legacy': 'alt-plugin', 'canonical': SLUG,
+                        'legacy_status': 'retained_source_archive'}
+        self.schreiben(self.root / 'scripts/plugin-consolidations.json', json.dumps({
+            'schema_version': 1, 'consolidations': [entry]}))
+        return entry
+
+    def test_deklariertes_quellarchiv_ist_kein_zweites_aktives_plugin(self):
+        self.quellarchiv()
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn('1 Plugins', result.stdout)
+
+    def test_unbekanntes_manifest_wird_nicht_durch_archiv_ausgeblendet(self):
+        self.quellarchiv()
+        self.schreiben(self.root / 'unbekannt/.claude-plugin/plugin.json', json.dumps({'name': 'unbekannt'}))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('unbekannt/.claude-plugin/plugin.json: Manifest ohne aktiven', result.stderr)
+
+    def test_archiv_braucht_aktives_ziel_identitaet_und_eindeutige_registrierung(self):
+        for changes in [{'canonical': 'fehlt'}, {'legacy_status': 'ignore'}, {'legacy': '../alt-plugin'}]:
+            with self.subTest(changes=changes):
+                self.quellarchiv({'legacy': 'alt-plugin', 'canonical': SLUG,
+                                 'legacy_status': 'retained_source_archive', **changes})
+                result = self.pruefen()
+                self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+        row = self.quellarchiv()
+        self.schreiben(self.root / 'scripts/plugin-consolidations.json', json.dumps({
+            'schema_version': 1, 'consolidations': [row, row]}))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('doppeltes Quellarchiv', result.stderr)
+        self.quellarchiv()
+        self.schreiben(self.root / 'alt-plugin/.claude-plugin/plugin.json', json.dumps({'name': 'falsch'}))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('Manifestidentität', result.stderr)
+
+    def test_fehlendes_oder_verlinktes_originalarchiv_scheitert(self):
+        self.quellarchiv()
+        manifest = self.root / 'alt-plugin/.claude-plugin/plugin.json'
+        manifest.unlink()
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('Quellarchiv nicht erhalten', result.stderr)
+        self.schreiben(self.root / 'fremd.json', json.dumps({'name': 'alt-plugin'}))
+        manifest.symlink_to(self.root / 'fremd.json')
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('Symlink', result.stderr)
+
     def test_veraltete_version_falscher_name_und_fehlende_felder_scheitern(self):
         faelle = [({'name': SLUG, 'version': '1.2.2'}, 'Version'),
                   ({'name': 'anderes-plugin', 'version': VERSION}, 'name'),

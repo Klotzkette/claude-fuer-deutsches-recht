@@ -101,16 +101,6 @@
       "rationale": "Fachlicher Hauptablauf „Kündigungsschutzmandat bis zum Arbeitsprodukt führen“ führt den Vorgang zum Arbeitsprodukt.",
       "plain_labels": true
     },
-    "arbeitszeugnis-analyse": {
-      "entry_skills": [
-        "juristischer-argumentationskern",
-        "einstieg-routing",
-        "kaltstart-triage"
-      ],
-      "theme": "zeugnis",
-      "mode": "prompt",
-      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Arbeitszeugnis Analyse“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
-    },
     "arbeitszeugnisgenerator": {
       "entry_skills": [
         "arbeitszeugnis-erstellen"
@@ -121,6 +111,7 @@
     },
     "arbeitszeugnispruefer": {
       "entry_skills": [
+        "einstieg-routing",
         "juristischer-argumentationskern"
       ],
       "theme": "zeugnis",
@@ -165,19 +156,12 @@
     },
     "bautraegervertrag-pruefer": {
       "entry_skills": [
+        "bautraegerpruefung-steuern",
         "juristischer-argumentationskern"
       ],
       "theme": "bau",
       "mode": "prompt",
-      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bauträgervertrag Prüfer“; vorhandener Einstieg bleibt erhalten."
-    },
-    "bautraegervertragspruefer": {
-      "entry_skills": [
-        "juristischer-argumentationskern"
-      ],
-      "theme": "bau",
-      "mode": "prompt",
-      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Bauträgervertragsprüfer“; vorhandener Einstieg bleibt erhalten."
+      "rationale": "Bauträgerauftrag mit Rollenklärung; juristischer Argumentationskern für das bestellte Arbeitsprodukt."
     },
     "bauunternehmer-einkauf": {
       "entry_skills": [
@@ -1978,15 +1962,6 @@
       "mode": "prompt",
       "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Produktrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
     },
-    "projekteinkauf-baubranche": {
-      "entry_skills": [
-        "ki-arbeitsauftrag-formulieren",
-        "dokumentenakte-auswerten"
-      ],
-      "theme": "bau",
-      "mode": "prompt",
-      "rationale": "Fachlicher Hauptablauf „KI-Arbeitsauftrag formulieren und erproben“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
-    },
     "prozessrecht": {
       "entry_skills": [
         "juristischer-argumentationskern",
@@ -2304,15 +2279,6 @@
       "theme": "versicherung",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Sozialversicherungspflicht prüfen“ führt den Vorgang zum Arbeitsprodukt."
-    },
-    "sozialversicherungsstatus-pruefer": {
-      "entry_skills": [
-        "juristischer-argumentationskern",
-        "kaltstart-triage"
-      ],
-      "theme": "sozialstatus",
-      "mode": "prompt",
-      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Sozialversicherungsstatus Prüfer“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
     },
     "staatsanwaltschaft-amtsanwaltschaft": {
       "entry_skills": [

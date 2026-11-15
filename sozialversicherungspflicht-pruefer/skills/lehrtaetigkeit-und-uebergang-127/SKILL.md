@@ -15,7 +15,7 @@ Lehrvertrag, Aufnahmezeitpunkt, Vertragsverständnis bei Abschluss, Stundenplan,
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -38,6 +38,23 @@ Bei erfülltem Absatz 1 gelten die Betroffenen vom 1. März 2025 bis 31. Dezembe
 ### 3.5. Zukunftsentscheidung vorbereiten
 
 Zeige den Parteien den belegten aktuellen Stand, noch benötigte Nachweise und die ab 2028 erforderliche Organisations- oder Beschäftigungsentscheidung. Eine Vertragsgestaltung muss der tatsächlichen künftigen Durchführung entsprechen. Die Entscheidung über eine Zustimmung bleibt bei der Lehrkraft; erläutere deren Folgen einschließlich eigener Beitragslast statt sie als bloße Unterschriftsformalität zu behandeln.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [Coach Trainer Seminarleiter](../coach-trainer-program-drittpersonal-security/FACHINHALT.md)
+- [Gitarrenlehrer und Instrumentalunterricht](../gitarrenlehrer-und-instrumentalunterricht/FACHINHALT.md)
+- [Hochschullehrbeauftragte](../hochschullehrbeauftragte/FACHINHALT.md)
+- [Musikschullehrer und Herrenberg-Folgen](../musikschullehrer-herrenberg-nebenberuf/FACHINHALT.md)
+- [Nachhilfe und Online-Tutoren](../nachhilfe-online-tutoren/FACHINHALT.md)
+- [Privatschullehrer Honorarkraft](../privatschullehrer-honorarkraft/FACHINHALT.md)
+- [Übergangsregelung § 127 SGB IV Lehrkräfte](../uebergangsregelung-127-sgbiv-lehrtaetigkeit/FACHINHALT.md)
+- [VHS-Dozenten](../vhs-dozenten/FACHINHALT.md)
+
+Die vollständigen ergänzenden Arbeitsanweisungen bleiben als Referenz verfügbar:
+
+- [lehrkraefte-kuenstler-publizisten-bearbeiten](../lehrkraefte-kuenstler-publizisten-bearbeiten/REFERENZ.md)
 
 ## 4. Quellenpflicht
 

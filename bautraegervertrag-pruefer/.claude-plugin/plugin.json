@@ -1,7 +1,7 @@
 {
   "name": "bautraegervertrag-pruefer",
-  "version": "445.36.0",
-  "description": "Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, §§ 650u/650v BGB, § 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe.",
+  "version": "445.36.5",
+  "description": "Prüft Bauträgerverträge aus Erwerber-, Bauträger-, GdWE- und Verwaltersicht: Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel, Verjährung und Sonderkonstellationen. Zehn Arbeitswege verbinden beide Fachbibliotheken und alle bisherigen Testakten.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

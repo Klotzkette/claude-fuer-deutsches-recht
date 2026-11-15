@@ -2,26 +2,49 @@
   "schema_version": 1,
   "plugins": {
     "zahlungsunfaehigkeits-und-ueberschuldungspruefer": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "arbeitsrecht-kuendigungsschutzklagewerkstatt": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "eu-sanktionspruefer": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "us-sanktionspruefer": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
@@ -721,20 +744,57 @@
       "hand_curated": true
     },
     "compliance-abteilung-grosskonzern": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": true,
       "hand_curated": true
     },
     "projekteinkauf-baubranche": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": true,
       "hand_curated": true
     },
     "bauunternehmer-einkauf": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
+      "megaprompt": true,
+      "hand_curated": true
+    },
+    "bautraegervertrag-pruefer": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
+      "megaprompt": true,
+      "hand_curated": true
+    },
+    "arbeitszeugnispruefer": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": true,
       "hand_curated": true
     }

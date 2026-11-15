@@ -2137,8 +2137,8 @@
       "gesellschafterstreit/gesellschafterstreit-werkstatt.md"
     ],
     "evidence": {
-      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/gesellschafterstreit.json",
-      "sha256": "611e02d022ad6ba490094bb698b35c612f975bf54cbb7936116fde507b1262be"
+      "path": "quality/plugin-consolidation/2026-11-15/navigation-reviews/gesellschafterstreit.json",
+      "sha256": "7e714b9076bbe12602678f1a78716a407e9bfe1ff14028347d6bb26d05deadb7"
     }
   },
   "visual_workflow_review": {
@@ -2176,5 +2176,17 @@
     "integration_date_local": "2026-11-15",
     "integration_timezone": "Europe/Berlin"
   },
-  "reviewed_on_timezone": "UTC"
+  "reviewed_on_timezone": "UTC",
+  "navigation_only_revision": {
+    "date": "2026-11-15",
+    "method": "exact_metadata_delta_review",
+    "previous_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/gesellschafterstreit.json",
+      "sha256": "611e02d022ad6ba490094bb698b35c612f975bf54cbb7936116fde507b1262be"
+    },
+    "before_sha256": "1833337bf2c4a0fb9787e1c55d5bdb5cfbc5546b1fbc0f0efdea47bfad566af8",
+    "after_sha256": "1987ad22bbfe65e1db9f8ff4f668db65fe9b1c7783d4f0c8a9631099c317a205",
+    "scope": "Ausschließlich die aktuelle Marketplace-Anzahl 315 → 311 in den beiden Navigationshinweisen. Vollständiger Bytevergleich belegt: sämtliche übrigen Inhalte unverändert. Historische vollständige Fachprüfung und Quellenprüfdaten werden unverändert übernommen, nicht erneuert.",
+    "model_execution": "not_run"
+  }
 }

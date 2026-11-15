@@ -13,6 +13,8 @@ on:
       - 'ki-halluzinationsreduzierer/**'
       - 'phishing-vorfall-pruefer/scripts/**'
       - 'scripts/*runtime-performance*'
+      - 'scripts/*plugin-consolidation*'
+      - 'quality/plugin-consolidation/**'
       - 'scripts/*quickstart-usability*'
       - 'scripts/*werkstatt-visualisierung*'
       - 'scripts/werkstatt_visualisierung.py'
@@ -100,6 +102,10 @@ jobs:
       - name: Regressionen prüfen
         run: |
           python3 scripts/test-runtime-performance.py
+          python3 scripts/test-plugin-consolidation.py
+          python3 scripts/test-skill-activation.py
+          python3 scripts/test-skill-source-replacements.py
+          python3 scripts/test-marketplace-import.py
           python3 scripts/test-compatibility-release.py
           python3 scripts/test-scoped-release-routing.py
           python3 scripts/test-phishing-release.py

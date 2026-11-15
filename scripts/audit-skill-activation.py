@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -15,12 +16,55 @@ MIN_DESCRIPTION_CHARS = 80
 MAX_DESCRIPTION_CHARS = 360
 
 
-def skill_files() -> list[Path]:
-    return sorted(
-        p
-        for p in REPO.rglob("SKILL.md")
-        if ".git" not in p.parts and "node_modules" not in p.parts
-    )
+def skill_files(repo: Path | None = None) -> list[Path]:
+    """Prüft aktive Auswahl; nur ausdrücklich erklärte Quellarchive ausnehmen."""
+    repo = (repo or REPO).resolve()
+    marketplace = json.loads((repo / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
+    active = {}
+    for row in marketplace["plugins"]:
+        name, source = row["name"], row["source"]
+        if not isinstance(source, str) or not source.startswith("./"):
+            raise ValueError(f"{name}: ungültige Marketplace-Quelle")
+        directory = (repo / source).resolve()
+        if not directory.is_relative_to(repo) or directory == repo or not directory.is_dir():
+            raise ValueError(f"{name}: Marketplace-Quelle fehlt oder verlässt Repository")
+        if name in active or directory in active.values():
+            raise ValueError(f"{name}: doppelte Marketplace-Zuordnung")
+        active[name] = directory
+    archives = set()
+    registry = repo / "scripts/plugin-consolidations.json"
+    if registry.is_file():
+        data = json.loads(registry.read_text(encoding="utf-8"))
+        if (not isinstance(data, dict) or data.get("schema_version") != 1
+                or not isinstance(data.get("consolidations"), list)):
+            raise ValueError("Ungültiges Plugin-Zusammenführungsregister")
+        for row in data["consolidations"]:
+            if not isinstance(row, dict):
+                raise ValueError("Ungültige Quellarchiv-Zuordnung")
+            old, new = row.get("legacy"), row.get("canonical")
+            if (not isinstance(old, str) or not re.fullmatch(r"[a-z0-9-]+", old)
+                    or row.get("legacy_status") != "retained_source_archive"
+                    or old in active or new not in active or old == new):
+                raise ValueError(f"Ungültiges Quellarchiv: {old!r}")
+            directory = repo / old
+            if (directory.is_symlink() or not directory.is_dir() or directory in archives
+                    or directory in active.values()):
+                raise ValueError(f"Fehlendes, doppeltes oder verlinktes Quellarchiv: {old}")
+            manifest = directory / ".claude-plugin/plugin.json"
+            if (manifest.parent.is_symlink() or manifest.is_symlink()
+                    or json.loads(manifest.read_text(encoding="utf-8")).get("name") != old):
+                raise ValueError(f"Quellarchiv-Manifest passt nicht zu {old}")
+            archives.add(directory)
+    files = []
+    for file in sorted(repo.rglob("SKILL.md")):
+        if ".git" in file.parts or "node_modules" in file.parts:
+            continue
+        if any(file.is_relative_to(directory) for directory in archives):
+            continue
+        if not any(file.is_relative_to(directory / "skills") for directory in active.values()):
+            raise ValueError(f"Skill ohne aktives Plugin oder deklariertes Quellarchiv: {file.relative_to(repo)}")
+        files.append(file)
+    return files
 
 
 def description(path: Path) -> str:
@@ -45,7 +89,11 @@ def owner(path: Path) -> str:
 
 
 def main() -> int:
-    descriptions: list[tuple[Path, str]] = [(p, description(p)) for p in skill_files()]
+    try:
+        descriptions: list[tuple[Path, str]] = [(p, description(p)) for p in skill_files()]
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        print(f"FEHLER: {exc}")
+        return 1
     by_description: dict[str, list[Path]] = defaultdict(list)
     for path, desc in descriptions:
         if desc:

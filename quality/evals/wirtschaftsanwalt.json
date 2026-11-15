@@ -1194,8 +1194,8 @@
       "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md"
     ],
     "evidence": {
-      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/wirtschaftsanwalt.json",
-      "sha256": "24b605d8e1317e8441f9e1304634cc7418cd4e02005a6760878d57f70a1b2e3e"
+      "path": "quality/plugin-consolidation/2026-11-15/navigation-reviews/wirtschaftsanwalt.json",
+      "sha256": "562db2cc1f3e1110b13c21c82a3bcfbdfe23455a4e2079750daba3da08efe181"
     }
   },
   "visual_workflow_review": {
@@ -1233,5 +1233,17 @@
     "integration_date_local": "2026-11-15",
     "integration_timezone": "Europe/Berlin"
   },
-  "reviewed_on_timezone": "UTC"
+  "reviewed_on_timezone": "UTC",
+  "navigation_only_revision": {
+    "date": "2026-11-15",
+    "method": "exact_metadata_delta_review",
+    "previous_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/wirtschaftsanwalt.json",
+      "sha256": "24b605d8e1317e8441f9e1304634cc7418cd4e02005a6760878d57f70a1b2e3e"
+    },
+    "before_sha256": "56e5d2cfad225c0c5191497ddfa50e1808b0db38047f205aee99aa73cf86431d",
+    "after_sha256": "971e34af7fa15a9d04d870ce6575e2e4075ce2036db65fbf26f90f9f40068770",
+    "scope": "Ausschließlich die aktuelle Marketplace-Anzahl 315 → 311 in den beiden Navigationshinweisen. Vollständiger Bytevergleich belegt: sämtliche übrigen Inhalte unverändert. Historische vollständige Fachprüfung und Quellenprüfdaten werden unverändert übernommen, nicht erneuert.",
+    "model_execution": "not_run"
+  }
 }

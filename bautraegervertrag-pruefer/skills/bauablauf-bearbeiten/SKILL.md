@@ -1,59 +1,60 @@
 ---
 name: bauablauf-bearbeiten
-description: "Bauträgervertrag prüfen: Bauablauf: Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen."
+description: "Ordnet vereinbarte Termine, Baufortschritt, Behinderungen und Sonderwünsche; prüft Kausalität und bezifferte Verzugsfolgen und erstellt das beauftragte Schreiben."
 ---
 
-# Bauablauf
+# Bauzeit, Sonderwünsche und Verzugsfolgen bearbeiten
 
 ## 1. Zweck und Anwendungsfall
 
-Bauablauf: Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Arbeite eine konkrete Termin- oder Mehrkostenfrage aus. Ersetze pauschale Verzögerungsbehauptungen durch eine belegte Zeitachse mit betroffenen Leistungen und tatsächlichen wirtschaftlichen Folgen.
 
 ## 2. Eingaben
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+Vertragstermine, Bauzeitenpläne mit Fassungen, Baustellenprotokolle, Behinderungsanzeigen, Nachträge, Bemusterung, E-Mails, Miet-/Finanzierungsbelege und bereits erklärte Vorbehalte.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Terminbasis bestimmen
 
-Bauablauf: Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen.
+Kalendermäßige Zusage, unverbindliche Prognose und geänderten Termin unterscheiden. Vertrag und konkrete Vereinbarung vor standardisierten Behinderungsregeln prüfen. Eine VOB/B-Regel nicht ungeprüft in einen Bauträgervertrag übertragen.
 
-### 3.2. Arbeitsschritt
+### 3.2. Ursache und Dauer belegen
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Jeder behaupteten Störung Leistung, Beginn, Ende, Folgeabhängigkeit und Beleg zuordnen. Witterung, Lieferkette oder Behördenlaufzeit erklärt ohne konkreten Zusammenhang keine gesamte Verzögerung. Auch Erwerberbeiträge und späte Sonderwünsche berücksichtigen.
 
-### 3.3. Arbeitsschritt
+### 3.3. Rechtsfolge und Betrag
 
-Ist abgenommen oder abnahmereif.
+Fälligkeit, Verzug, Vertretenmüssen, Fristsetzung und Vertragsstrafe anhand des tatsächlichen Anspruchs prüfen. Mietmehrkosten, Zwischenfinanzierung und weitere Schäden nur mit Zeitraum und Beleg berechnen; doppelte Positionen und ersparte Aufwendungen kontrollieren.
 
-### 3.4. Arbeitsschritt
+### 3.4. Reaktion fertigstellen
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+Je Mandatsseite begründete Mahnung, Verzugsforderung, Nachweisbitte oder Bauträgerantwort verfassen. Nach neuer Terminunterlage Ursachen und Beträge fortschreiben. Ein vereinbarter Vergleichstermin darf nicht versehentlich als bereits wirksamer Verzicht erscheinen.
 
-### 3.5. Fachvertiefungen gezielt laden
+### 3.5. Fachvertiefungen gezielt lesen
 
-Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
+Lade die zum Auftrag gehörenden vollständigen Fachmodule vor der Teilprüfung. Fachtexte sind Vertiefungen, keine zusätzlichen auswählbaren Skills. Bei widersprechenden Altformulierungen gelten die belegten Rollen- und Quellenregeln; die konkrete Rechtsfrage trotzdem eigenständig verifizieren.
 
-- [Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte](../abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte/FACHINHALT.md)
-- [Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung](../unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung/FACHINHALT.md)
-- [Verhandlung und Drei-Dokumente-Paket](../verhandlung-drei-dokumente-paket/FACHINHALT.md)
+- [Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt](../bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt/FACHINHALT.md)
+- [Bauzeitenplan und Verzug](../bauzeitenplan-verzug/FACHINHALT.md)
+- [Verzugsschäden, Berechnung und Zinsen](../verzugsschadenspositionen-berechnung-und-zinsen/FACHINHALT.md)
+
+Erhaltene frühere Arbeitswege dienen der Herkunft und ergänzenden Detailprüfung; die vorstehende fachliche Zuordnung steuert den Auftrag:
+
+- [Früherer Arbeitsweg](../staedtebauliche-vertraege-bearbeiten/REFERENZ.md)
+
+[Erhaltener Arbeitsweg des bisherigen zweiten Prüfers](REFERENZ-bautraegervertragspruefer.md). Die verknüpften Fachinhalte sind im gemeinsamen Paket enthalten.
 
 ## 4. Quellenpflicht
 
-Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
+Nutze die [Quellen- und Rollenregeln](../../references/rechtsprechung-und-rollen.md). Prüfe entscheidungstragende Normen und Rechtsprechung anhand zugänglicher Primärquellen auf Fassung, Aussage und Übertragbarkeit. Vorhandene Rechercheanker sind keine Behauptung einer erneuten Verifikation. Keine Aktenzeichen, Randnummern oder Literaturfundstellen erfinden; lizenzpflichtige Literatur nur bei tatsächlichem Zugang verwenden. Beleg, Schlussfolgerung und offene Prüfung kenntlich unterscheiden.
 
 ## 5. Ausgabeformat
 
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Bauablauf“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+Liefere das konkret bestellte Dokument vollständig in ausformulierten Sätzen. Stichwortskelette, Halbsätze, leere Klauselrümpfe und bloße Prüflisten sind keine Endfassung. Verwende dezimale Gliederung mit Leerzeilen; für formatierte juristische Dokumente soweit möglich Times New Roman 11 pt. Ohne Exportwerkzeug den vollständigen Text und einen getrennten Formatierungshinweis liefern.
 
-Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
+Eine Tabelle, Zeitachse, Klauselgegenüberstellung oder Ratenansicht ergänzt nur dort, wo sie das Ergebnis verständlicher macht. Nutze verfügbare interaktive Funktionen nach den [Oberflächenregeln](../../references/arbeitsoberflaeche-und-visualisierung.md); sonst eine sofort lesbare Text-/Tabellenansicht. Fehlende Daten, streitige Angaben und Annahmen sichtbar unterscheiden. Die Ausgabe führt zur nächsten konkreten Handlung; externe Erklärungen, Zahlung und Einreichung benötigen einen eigenen Auftrag.
 
 ## 6. Beispiele
 
-- Ein Auftrag zu „Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- „Sonderwunsch Fenster verschob angeblich den gesamten Einzug.“ Fordere den betroffenen Ablaufnachweis an; berechne den belegten unabhängigen Verzug und formuliere den bestellten Brief.

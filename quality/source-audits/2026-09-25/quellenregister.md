@@ -216,7 +216,7 @@ Dieser Bericht ergänzt den [Umfang und die Grenzen der Prüfung](README.md). Di
 
 ## 1.9. arbeitszeugnis-analyse
 
-[Plugin-README](../../../arbeitszeugnis-analyse/README.md) · [Qualitätsprofil](../../evals/arbeitszeugnis-analyse.json)
+[Plugin-README](../../../arbeitszeugnis-analyse/README.md) · [Qualitätsprofil](../../plugin-consolidation/2026-11-15/legacy-evals/arbeitszeugnis-analyse.json)
 
 ### 1.9.1. BAG, Urteil vom 18.11.2014, 9 AZR 584/13
 
@@ -452,7 +452,7 @@ Dieser Bericht ergänzt den [Umfang und die Grenzen der Prüfung](README.md). Di
 
 ## 1.17. bautraegervertragspruefer
 
-[Plugin-README](../../../bautraegervertragspruefer/README.md) · [Qualitätsprofil](../../evals/bautraegervertragspruefer.json)
+[Plugin-README](../../../bautraegervertragspruefer/README.md) · [Qualitätsprofil](../../plugin-consolidation/2026-11-15/legacy-evals/bautraegervertragspruefer.json)
 
 ### 1.17.1. BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16
 
@@ -4112,7 +4112,7 @@ Dieser Bericht ergänzt den [Umfang und die Grenzen der Prüfung](README.md). Di
 
 ## 1.197. sozialversicherungsstatus-pruefer
 
-[Plugin-README](../../../sozialversicherungsstatus-pruefer/README.md) · [Qualitätsprofil](../../evals/sozialversicherungsstatus-pruefer.json)
+[Plugin-README](../../../sozialversicherungsstatus-pruefer/README.md) · [Qualitätsprofil](../../plugin-consolidation/2026-11-15/legacy-evals/sozialversicherungsstatus-pruefer.json)
 
 ### 1.197.1. BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38
 

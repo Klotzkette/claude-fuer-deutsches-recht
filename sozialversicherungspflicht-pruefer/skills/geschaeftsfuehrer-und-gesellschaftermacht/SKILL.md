@@ -15,7 +15,7 @@ Bestellung und Abberufung, Dienstvertrag, vollständige Satzung und Änderungsur
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -42,6 +42,25 @@ Satzungsänderung, Anteilsübertragung, Aufnahme der Gesellschafterliste, Bestel
 ### 3.6. Status und weitere Pflicht trennen
 
 Ein nicht abhängig beschäftigter Geschäftsführer ist dadurch nicht in jedem Sozialversicherungszweig frei. Bei möglicher Rentenversicherungspflicht als Selbständiger die Voraussetzungen einschließlich der Zurechnungsregeln für Gesellschafter nach Paragraf 2 SGB VI gesondert prüfen. Keine rückwirkende Heilung einer abgeschlossenen Beschäftigungsphase durch spätere Satzungsänderung versprechen.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [Exakt 50 Prozent Geschäftsführer](../exakt-50-prozent-gf/FACHINHALT.md)
+- [Familien-GmbH und faktische Macht](../familien-gmbh-faktische-macht/FACHINHALT.md)
+- [Fremdgeschäftsführer GmbH](../fremdgeschaeftsfuehrer-gmbh-geringfuegigkeit/FACHINHALT.md)
+- [Mehrheits-Gesellschafter-Geschäftsführer](../gesellschafter-gf-mehrheit/FACHINHALT.md)
+- [GmbH & Co. KG Kommanditist/GF](../gmbh-co-gruppenfeststellung-gleichartige/FACHINHALT.md)
+- [Holding-Gesellschafter-Geschäftsführer](../holding-gesellschafter-honorararzt-aerzte/FACHINHALT.md)
+- [Minderheits-GF mit Sperrminorität](../minderheits-gf-sperrminoritaet/FACHINHALT.md)
+- [Obligatorisches Statusverfahren Geschäftsführer](../obligatorisches-statusverfahren-gf/FACHINHALT.md)
+- [Stimmbindung und Nebenvertrag](../stimmbindung-veto-vertragswirklichkeit/FACHINHALT.md)
+- [Umfassende Sperrminorität](../umfassende-sperrminoritaet-unternehmerisches/FACHINHALT.md)
+
+Die vollständigen ergänzenden Arbeitsanweisungen bleiben als Referenz verfügbar:
+
+- [geschaeftsfuehrer-organe-bearbeiten](../geschaeftsfuehrer-organe-bearbeiten/REFERENZ.md)
 
 ## 4. Quellenpflicht
 

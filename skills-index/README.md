@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 3175 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 3153 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -25,9 +25,8 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [apothekenrecht](./apothekenrecht.md) (8 Skills)
 - [arbeitsrecht](./arbeitsrecht.md) (9 Skills)
 - [arbeitsrecht-kuendigungsschutzklagewerkstatt](./arbeitsrecht-kuendigungsschutzklagewerkstatt.md) (11 Skills)
-- [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (8 Skills)
 - [arbeitszeugnisgenerator](./arbeitszeugnisgenerator.md) (5 Skills)
-- [arbeitszeugnispruefer](./arbeitszeugnispruefer.md) (6 Skills)
+- [arbeitszeugnispruefer](./arbeitszeugnispruefer.md) (8 Skills)
 - [aufsichtsrat-ag-se-praxis](./aufsichtsrat-ag-se-praxis.md) (9 Skills)
 - [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (11 Skills)
 
@@ -35,9 +34,8 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 - [bank-rechtsabteilung](./bank-rechtsabteilung.md) (8 Skills)
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (9 Skills)
-- [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (9 Skills)
-- [bautraegervertragspruefer](./bautraegervertragspruefer.md) (6 Skills)
-- [bauunternehmer-einkauf](./bauunternehmer-einkauf.md) (10 Skills)
+- [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (10 Skills)
+- [bauunternehmer-einkauf](./bauunternehmer-einkauf.md) (14 Skills)
 - [bauvergabe-bieter](./bauvergabe-bieter.md) (11 Skills)
 - [bauvergabe-nachtragsmanagement](./bauvergabe-nachtragsmanagement.md) (11 Skills)
 - [bauvergabe-rechtsschutz](./bauvergabe-rechtsschutz.md) (11 Skills)
@@ -277,7 +275,6 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (9 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (9 Skills)
 - [produktrecht](./produktrecht.md) (10 Skills)
-- [projekteinkauf-baubranche](./projekteinkauf-baubranche.md) (9 Skills)
 - [prozessrecht](./prozessrecht.md) (9 Skills)
 - [pruefungsrecht-hochschule](./pruefungsrecht-hochschule.md) (8 Skills)
 
@@ -320,8 +317,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (11 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (13 Skills)
 - [sozialrecht-fuer-laien](./sozialrecht-fuer-laien.md) (10 Skills)
-- [sozialversicherungspflicht-pruefer](./sozialversicherungspflicht-pruefer.md) (10 Skills)
-- [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (10 Skills)
+- [sozialversicherungspflicht-pruefer](./sozialversicherungspflicht-pruefer.md) (14 Skills)
 - [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (10 Skills)
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (10 Skills)
 - [startup-gruender](./startup-gruender.md) (18 Skills)

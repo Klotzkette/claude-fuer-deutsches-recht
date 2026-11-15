@@ -177,6 +177,10 @@ PLUGIN_ALIASES = {
     "dsgvo": ["datenschutzrecht"],
     "internationales-privatrecht": ["urteilsbauer-relationsmacher"],
 }
+CONSOLIDATIONS = REPO / "scripts/plugin-consolidations.json"
+if CONSOLIDATIONS.is_file():
+    for _pair in json.loads(CONSOLIDATIONS.read_text(encoding="utf-8"))["consolidations"]:
+        PLUGIN_ALIASES.setdefault(_pair["legacy"], []).append(_pair["canonical"])
 PUBLIC_VERGABERECHT_ROLES = {
     "bieter-unternehmen",
     "konkurrenten-rechtsschutz",

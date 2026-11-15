@@ -9,6 +9,8 @@ description: "Arbeitszeugnisse prüfen und berichtigen: Zeugnisart, Anspruch, ä
 
 Zeugnisart, Anspruch, äußere Form, Tätigkeitsdarstellung und Anlass des Zeugnisses klären.
 
+Lies die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) und die für den Befund einschlägigen Teile des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Analyseauftrag, vollständige Arbeitnehmerprüfung und HR-Auftrag unterscheiden. Keine rechnerischen Noten, festen Wort-Noten-Tabellen oder pauschalen Codevorwürfe.
+
 Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
 
 ## 2. Eingaben
@@ -42,6 +44,10 @@ Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren volls
 - [Beendigungsgrund prüfen](../beendigungsgrund-pruefen/FACHINHALT.md)
 - [Unterlagen und Stammdaten prüfen](../intake-und-stammdaten-pruefen/FACHINHALT.md)
 - [Tätigkeitsabschnitt und Verantwortungsniveau prüfen](../taetigkeitsabschnitt-wertigkeit-pruefen/FACHINHALT.md)
+
+- [Ausbildungszeugnis-Analyse (Azubi-Zeugnis)](../azubi-zeugnis-analyse/FACHINHALT.md)
+- [Arbeitszeugnisse für leitende Positionen](../leitende-positionen-zeugnisse/FACHINHALT.md)
+- [Zeugnisart-Erkennung](../zeugnisart-erkennung/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

@@ -1,7 +1,7 @@
 {
   "name": "sozialversicherungspflicht-pruefer",
-  "version": "445.35.3",
-  "description": "Sozialversicherungspflicht in Deutschland: zehn Skills für Beschäftigungsstatus, Geschäftsführer, Lehrkräfte, freie Mitarbeit, Versorgungswerke, einzelne Versicherungszweige und Beiträge. Mit eigenständiger Werkstatt, Mini-Prompt und sechs ausführlichen Fallakten.",
+  "version": "445.36.5",
+  "description": "Prüft Beschäftigungsstatus, Versicherungszweige, Befreiung und Beiträge. 14 Arbeitswege erfassen Geschäftsführung, Lehrkräfte, freie Mitarbeit, Versorgungswerke, Künstler, Plattformen, Drittpersonal und Auslandsbezüge. Mit zwölf Fallakten und vollständiger Fachbibliothek.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",
@@ -20,7 +20,7 @@
   "interface": {
     "displayName": "Sozialversicherungspflicht-Prüfer",
     "shortDescription": "Status, Versicherungszweige, Befreiung und Beiträge prüfen.",
-    "longDescription": "Sozialversicherungspflicht in Deutschland: zehn Skills für Beschäftigungsstatus, Geschäftsführer, Lehrkräfte, freie Mitarbeit, Versorgungswerke, einzelne Versicherungszweige und Beiträge. Mit eigenständiger Werkstatt, Mini-Prompt und sechs ausführlichen Fallakten.",
+    "longDescription": "Prüft Beschäftigungsstatus, Versicherungszweige, Befreiung und Beiträge. 14 Arbeitswege erfassen Geschäftsführung, Lehrkräfte, freie Mitarbeit, Versorgungswerke, Künstler, Plattformen, Drittpersonal und Auslandsbezüge. Mit zwölf Fallakten und vollständiger Fachbibliothek.",
     "developerName": "Klotzkette",
     "category": "Productivity",
     "capabilities": [],

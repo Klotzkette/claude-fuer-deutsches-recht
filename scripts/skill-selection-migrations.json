@@ -5335,6 +5335,72 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "ampelsystem-tabellenausgabe",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../ampelsystem-tabellenausgabe/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen",
+    "new": "berichtigung-anspruch-verfahren-bearbeiten",
+    "reference": "../arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-gruen-behoerden-gerichts-registerweg",
+    "new": "berichtigung-anspruch-verfahren-bearbeiten",
+    "reference": "../arbeitszeugnis-gruen-behoerden-gerichts-registerweg/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-orange-risikoampel-gegenargumente",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../arbeitszeugnis-orange-risikoampel-gegenargumente/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation",
+    "new": "berichtigung-anspruch-verfahren-bearbeiten",
+    "reference": "../arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "arbeitszeugnis-zeugnisanalyse-wortlaut-codes",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../arbeitszeugnis-zeugnisanalyse-wortlaut-codes/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "aufforderungsschreiben-arbeitgeber",
+    "new": "berichtigung-anspruch-verfahren-bearbeiten",
+    "reference": "../aufforderungsschreiben-arbeitgeber/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "aufforderungsschreiben-berichtigung",
     "new": "berichtigung-anspruch-verfahren-bearbeiten",
     "reference": "../aufforderungsschreiben-berichtigung/FACHINHALT.md"
@@ -5347,9 +5413,21 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "azubi-zeugnis-analyse",
+    "new": "zeugnisauftrag-form-taetigkeit-bearbeiten",
+    "reference": "../azubi-zeugnis-analyse/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "beendigungsgrund-pruefen",
     "new": "zeugnisauftrag-form-taetigkeit-bearbeiten",
     "reference": "../beendigungsgrund-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "bereichs-drift-detektor",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../bereichs-drift-detektor/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -5359,9 +5437,33 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "branchen-spezifische-formulierungen",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../branchen-spezifische-formulierungen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "chronologie-und-belegmatrix",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../chronologie-und-belegmatrix/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "dokumente-intake",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../dokumente-intake/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "doppelboeden-und-verneinungen",
     "new": "formulierungen-klarheit-schluss-bearbeiten",
     "reference": "../doppelboeden-und-verneinungen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "drift-quellenkarte",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../drift-quellenkarte/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -5371,9 +5473,27 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "erstgespraech-und-mandatsannahme",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../erstgespraech-und-mandatsannahme/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "erstpruefung-rollenklaerung-mandatsziel",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../erstpruefung-rollenklaerung-mandatsziel/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "frequenzadverbien-pruefen",
     "new": "leistung-verhalten-noten-bearbeiten",
     "reference": "../frequenzadverbien-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "fristen-und-risikoampel",
+    "new": "berichtigung-anspruch-verfahren-bearbeiten",
+    "reference": "../fristen-und-risikoampel/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -5383,9 +5503,27 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "geheimcode-katalog",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../geheimcode-katalog/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "geheimcodes-katalog",
     "new": "formulierungen-klarheit-schluss-bearbeiten",
     "reference": "../geheimcodes-katalog/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "gesamtnoten-aggregation",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../gesamtnoten-aggregation/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "gruen-flaggen-katalog",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../gruen-flaggen-katalog/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -5395,15 +5533,69 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "klage-strategie-zeugnisberichtigung",
+    "new": "berichtigung-anspruch-verfahren-bearbeiten",
+    "reference": "../klage-strategie-zeugnisberichtigung/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "klagestrategie-und-vollstreckung",
     "new": "berichtigung-anspruch-verfahren-bearbeiten",
     "reference": "../klagestrategie-und-vollstreckung/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "leistungsbeurteilung-analyse",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../leistungsbeurteilung-analyse/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "leitende-positionen-zeugnisse",
+    "new": "zeugnisauftrag-form-taetigkeit-bearbeiten",
+    "reference": "../leitende-positionen-zeugnisse/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "mandantenbericht-erstellen",
     "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
     "reference": "../mandantenbericht-erstellen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "mandantenbericht-zeugnisanalyse",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../mandantenbericht-zeugnisanalyse/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "muster-arbeitszeugnis-gemischte-noten",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../muster-arbeitszeugnis-gemischte-noten/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "muster-arbeitszeugnis-mit-roten-flaggen",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../muster-arbeitszeugnis-mit-roten-flaggen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "muster-arbeitszeugnis-note-1",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../muster-arbeitszeugnis-note-1/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "negationen-und-auslassungen-erkennen",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../negationen-und-auslassungen-erkennen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "negative-codeworte-katalog",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../negative-codeworte-katalog/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -5437,9 +5629,27 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "notenrelevante-saetze-identifizieren",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../notenrelevante-saetze-identifizieren/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "notenstufen-bag-9-azr-386-10",
     "new": "leistung-verhalten-noten-bearbeiten",
     "reference": "../notenstufen-bag-9-azr-386-10/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "orange-flaggen-katalog",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../orange-flaggen-katalog/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "output-waehlen",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../output-waehlen/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -5449,15 +5659,39 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "rechtliche-bewertung-bag-rechtsprechung",
+    "new": "berichtigung-anspruch-verfahren-bearbeiten",
+    "reference": "../rechtliche-bewertung-bag-rechtsprechung/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "rollen-und-modus-wahl",
     "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
     "reference": "../rollen-und-modus-wahl/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "rote-flaggen-katalog",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../rote-flaggen-katalog/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "satzweise-notenmatrix",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../satzweise-notenmatrix/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "schaufenster-und-drift-erkennen",
     "new": "leistung-verhalten-noten-bearbeiten",
     "reference": "../schaufenster-und-drift-erkennen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "schlussformel-bewertung",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../schlussformel-bewertung/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -5473,6 +5707,12 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "steigerungsadverbien-katalog",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../steigerungsadverbien-katalog/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "steigerungsadverbien-pruefen",
     "new": "leistung-verhalten-noten-bearbeiten",
     "reference": "../steigerungsadverbien-pruefen/FACHINHALT.md"
@@ -5485,15 +5725,63 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "unterlagen-luecken",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../unterlagen-luecken/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "verbesserungsvorschlaege-formulieren",
+    "new": "formulierungen-klarheit-schluss-bearbeiten",
+    "reference": "../verbesserungsvorschlaege-formulieren/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "verhaltensabschnitt-pruefen",
     "new": "leistung-verhalten-noten-bearbeiten",
     "reference": "../verhaltensabschnitt-pruefen/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "old": "verhaltensbeurteilung-analyse",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../verhaltensbeurteilung-analyse/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "widerspruechliche-bewertungen",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../widerspruechliche-bewertungen/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "zeugnis-problem-sortieren",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../zeugnis-problem-sortieren/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "zeugnis-ueberblick-extraktion",
+    "new": "zeugnisbericht-muster-qualitaet-bearbeiten",
+    "reference": "../zeugnis-ueberblick-extraktion/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "zeugnisart-erkennung",
+    "new": "zeugnisauftrag-form-taetigkeit-bearbeiten",
+    "reference": "../zeugnisart-erkennung/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "old": "zeugnisklarheit-objektiver-empfaengerhorizont",
     "new": "formulierungen-klarheit-schluss-bearbeiten",
     "reference": "../zeugnisklarheit-objektiver-empfaengerhorizont/FACHINHALT.md"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "old": "zufriedenheitsformel-decodierung",
+    "new": "leistung-verhalten-noten-bearbeiten",
+    "reference": "../zufriedenheitsformel-decodierung/FACHINHALT.md"
   },
   {
     "plugin": "arbeitszeugnispruefer",
@@ -7903,15 +8191,57 @@
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "abnahme-gemeinschaftseigentum",
+    "new": "abnahme-maengel-weg-pruefen",
+    "reference": "../abnahme-gemeinschaftseigentum/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte",
-    "new": "bauablauf-bearbeiten",
+    "new": "abnahme-maengel-weg-pruefen",
     "reference": "../abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "abnahme-sondereigentum-paragraf-640",
+    "new": "abnahme-maengel-weg-pruefen",
+    "reference": "../abnahme-sondereigentum-paragraf-640/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung",
-    "new": "arbeitsprodukt-bearbeiten",
+    "new": "vertragssoll-bearbeiten",
     "reference": "../agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "agb-kontrolle-klauseln",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../agb-kontrolle-klauseln/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten",
+    "new": "arbeitsprodukt-bearbeiten",
+    "reference": "../arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/REFERENZ.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "aufforderungsschreiben-bautraeger-und-notar",
+    "new": "arbeitsprodukt-bearbeiten",
+    "reference": "../aufforderungsschreiben-bautraeger-und-notar/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "auflassungsvormerkung-und-grundbuch",
+    "new": "raten-sicherheiten-eigentum-pruefen",
+    "reference": "../auflassungsvormerkung-und-grundbuch/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "baubeschreibung-bausoll-pruefen",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../baubeschreibung-bausoll-pruefen/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
@@ -7922,14 +8252,26 @@
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "baugruppen-gbr-beurkundung-mopeg-und-mabv-abgrenzung",
-    "new": "vertragssoll-bearbeiten",
+    "new": "sonderfaelle-baugruppe-sanierung-pruefen",
     "reference": "../baugruppen-gbr-beurkundung-mopeg-und-mabv-abgrenzung/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "bautraegervertrag-qualifikation",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../bautraegervertrag-qualifikation/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt",
-    "new": "staedtebauliche-vertraege-bearbeiten",
+    "new": "bauablauf-bearbeiten",
     "reference": "../bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "bauzeitenplan-verzug",
+    "new": "bauablauf-bearbeiten",
+    "reference": "../bauzeitenplan-verzug/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
@@ -7945,21 +8287,63 @@
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "drei-dokumente-paket-erzeugen",
+    "new": "arbeitsprodukt-bearbeiten",
+    "reference": "../drei-dokumente-paket-erzeugen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "druckmuster-schluessel-vormerkung-und-zahlung",
-    "new": "vertragssoll-bearbeiten",
+    "new": "raten-sicherheiten-eigentum-pruefen",
     "reference": "../druckmuster-schluessel-vormerkung-und-zahlung/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz",
-    "new": "vertragssoll-bearbeiten",
+    "new": "raten-sicherheiten-eigentum-pruefen",
     "reference": "../eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "faelligkeitsmitteilung-pruefen",
+    "new": "raten-sicherheiten-eigentum-pruefen",
+    "reference": "../faelligkeitsmitteilung-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "fall-fingerabdruck-erstellen",
+    "new": "bautraegerpruefung-steuern",
+    "reference": "../fall-fingerabdruck-erstellen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "fall-fingerabdruck-und-schnelltriage",
-    "new": "vertragssoll-bearbeiten",
+    "new": "bautraegerpruefung-steuern",
     "reference": "../fall-fingerabdruck-und-schnelltriage/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "fertigstellungssicherheit-650m-pruefen",
+    "new": "raten-sicherheiten-eigentum-pruefen",
+    "reference": "../fertigstellungssicherheit-650m-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "festsetzungen-bearbeiten",
+    "new": "arbeitsprodukt-bearbeiten",
+    "reference": "../festsetzungen-bearbeiten/REFERENZ.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "gemeinschaft-zieht-maengelrechte-an-sich",
+    "new": "abnahme-maengel-weg-pruefen",
+    "reference": "../gemeinschaft-zieht-maengelrechte-an-sich/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "gesamtnichtigkeit-paragraf-306-bgb",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../gesamtnichtigkeit-paragraf-306-bgb/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
@@ -7969,9 +8353,21 @@
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "hoai-bauueberwachung-private-bauueberwachung",
+    "new": "architekt-bearbeiten",
+    "reference": "../hoai-bauueberwachung-private-bauueberwachung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "hoai-technik-baugrund-und-objektueberwachung",
-    "new": "vertragssoll-bearbeiten",
+    "new": "architekt-bearbeiten",
     "reference": "../hoai-technik-baugrund-und-objektueberwachung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "insolvenzrisiken-bautraeger",
+    "new": "raten-sicherheiten-eigentum-pruefen",
+    "reference": "../insolvenzrisiken-bautraeger/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
@@ -7982,26 +8378,74 @@
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "mabv-agb-klauselmatrix-rot-orange-gruen",
-    "new": "vertragssoll-bearbeiten",
+    "new": "arbeitsprodukt-bearbeiten",
     "reference": "../mabv-agb-klauselmatrix-rot-orange-gruen/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "mabv-ratenplan-pruefen",
+    "new": "raten-sicherheiten-eigentum-pruefen",
+    "reference": "../mabv-ratenplan-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "mabv-ratenplan-sicherheiten-und-notaranderkonto",
-    "new": "vertragssoll-bearbeiten",
+    "new": "raten-sicherheiten-eigentum-pruefen",
     "reference": "../mabv-ratenplan-sicherheiten-und-notaranderkonto/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
-    "old": "nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht",
+    "old": "mabv-sicherheit-paragraf-7-pruefen",
+    "new": "raten-sicherheiten-eigentum-pruefen",
+    "reference": "../mabv-sicherheit-paragraf-7-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "maengelrechte-633-634-bgb",
+    "new": "abnahme-maengel-weg-pruefen",
+    "reference": "../maengelrechte-633-634-bgb/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "mandantengutachten-aufbau",
+    "new": "arbeitsprodukt-bearbeiten",
+    "reference": "../mandantengutachten-aufbau/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "mittlere-art-und-guete-und-din",
     "new": "vertragssoll-bearbeiten",
+    "reference": "../mittlere-art-und-guete-und-din/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht",
+    "new": "sonderfaelle-baugruppe-sanierung-pruefen",
     "reference": "../nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "notarbelehrung-paragraf-14-bnoto-17-beurkg",
+    "new": "architekt-bearbeiten",
+    "reference": "../notarbelehrung-paragraf-14-bnoto-17-beurkg/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "notarhaftung-belehrung-und-streitverkuendung",
-    "new": "vertragssoll-bearbeiten",
+    "new": "architekt-bearbeiten",
     "reference": "../notarhaftung-belehrung-und-streitverkuendung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "paragraf-308-nr-4-bgb-leistungsaenderung",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../paragraf-308-nr-4-bgb-leistungsaenderung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "paragraf-309-nr-12-bgb-tatsachenbestaetigung",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../paragraf-309-nr-12-bgb-tatsachenbestaetigung/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
@@ -8011,8 +8455,14 @@
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "preisanpassung-und-sonderwuensche",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../preisanpassung-und-sonderwuensche/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "prozessstrategie-zahlung-feststellung-und-vorschuss",
-    "new": "festsetzungen-bearbeiten",
+    "new": "arbeitsprodukt-bearbeiten",
     "reference": "../prozessstrategie-zahlung-feststellung-und-vorschuss/FACHINHALT.md"
   },
   {
@@ -8024,7 +8474,7 @@
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft",
-    "new": "vertragssoll-bearbeiten",
+    "new": "raten-sicherheiten-eigentum-pruefen",
     "reference": "../sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft/FACHINHALT.md"
   },
   {
@@ -8035,33 +8485,69 @@
   },
   {
     "plugin": "bautraegervertrag-pruefer",
-    "old": "unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung",
+    "old": "staedtebauliche-vertraege-bearbeiten",
     "new": "bauablauf-bearbeiten",
+    "reference": "../staedtebauliche-vertraege-bearbeiten/REFERENZ.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "teilungserklaerung-gemeinschaftsordnung",
+    "new": "abnahme-maengel-weg-pruefen",
+    "reference": "../teilungserklaerung-gemeinschaftsordnung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung",
+    "new": "abnahme-maengel-weg-pruefen",
     "reference": "../unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "verbraucherbauvertrag-650i-650u-widerruf-und-unterlagen",
-    "new": "unterlagen-und-quellen-auswerten-bearbeiten",
+    "new": "vertragssoll-bearbeiten",
     "reference": "../verbraucherbauvertrag-650i-650u-widerruf-und-unterlagen/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "verbraucherstatus-pruefen",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../verbraucherstatus-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "verhandlung-drei-dokumente-paket",
-    "new": "bauablauf-bearbeiten",
+    "new": "arbeitsprodukt-bearbeiten",
     "reference": "../verhandlung-drei-dokumente-paket/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
+    "old": "verjaehrung-634a-bgb-hemmung",
+    "new": "abnahme-maengel-weg-pruefen",
+    "reference": "../verjaehrung-634a-bgb-hemmung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
     "old": "verzugsschadenspositionen-berechnung-und-zinsen",
-    "new": "arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten",
+    "new": "bauablauf-bearbeiten",
     "reference": "../verzugsschadenspositionen-berechnung-und-zinsen/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "vollstaendige-fertigstellung-schlussrate-und-aussenanlagen",
-    "new": "arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten",
+    "new": "raten-sicherheiten-eigentum-pruefen",
     "reference": "../vollstaendige-fertigstellung-schlussrate-und-aussenanlagen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "weg-beschluss-anfechtung",
+    "new": "abnahme-maengel-weg-pruefen",
+    "reference": "../weg-beschluss-anfechtung/FACHINHALT.md"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "old": "wohnflaeche-pruefen",
+    "new": "vertragssoll-bearbeiten",
+    "reference": "../wohnflaeche-pruefen/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
@@ -8072,13 +8558,13 @@
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "wohnungseigentum-teilungserklaerung-und-erstverwalter",
-    "new": "vertragssoll-bearbeiten",
+    "new": "abnahme-maengel-weg-pruefen",
     "reference": "../wohnungseigentum-teilungserklaerung-und-erstverwalter/FACHINHALT.md"
   },
   {
     "plugin": "bautraegervertrag-pruefer",
     "old": "workflow-one-shot-verbraucherpruefung",
-    "new": "vertragssoll-bearbeiten",
+    "new": "bautraegerpruefung-steuern",
     "reference": "../workflow-one-shot-verbraucherpruefung/FACHINHALT.md"
   },
   {
@@ -8260,6 +8746,30 @@
     "old": "wohnflaeche-pruefen",
     "new": "vertragssoll-bearbeiten",
     "reference": "../wohnflaeche-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bauunternehmer-einkauf",
+    "old": "korrespondenz-verhandlung-reklamation",
+    "new": "verhandlungen-fuehren",
+    "reference": "../korrespondenz-verhandlung-reklamation/FACHINHALT.md"
+  },
+  {
+    "plugin": "bauunternehmer-einkauf",
+    "old": "lieferanten-und-nachunternehmer-pruefen",
+    "new": "lieferanten-und-nachunternehmer-auswaehlen",
+    "reference": "../lieferanten-und-nachunternehmer-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bauunternehmer-einkauf",
+    "old": "nachtraege-pruefen",
+    "new": "nachtraege-und-reklamationen-bearbeiten",
+    "reference": "../nachtraege-pruefen/FACHINHALT.md"
+  },
+  {
+    "plugin": "bauunternehmer-einkauf",
+    "old": "vertraege-und-klauseln-pruefen",
+    "new": "bestellung-und-vertrag-absichern",
+    "reference": "../vertraege-und-klauseln-pruefen/FACHINHALT.md"
   },
   {
     "plugin": "bauwirtschaft",
@@ -110170,6 +110680,606 @@
     "old": "zahlungsziel-und-skonto",
     "new": "angebot-vertrag-honorar-bearbeiten",
     "reference": "../zahlungsziel-und-skonto/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "anhoerung-erwiderung-anwalt-freier",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../anhoerung-erwiderung-anwalt-freier/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "anwalt-freier-mitarbeiter",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../anwalt-freier-mitarbeiter/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "arbeitnehmerueberlassung-abgrenzung",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../arbeitnehmerueberlassung-abgrenzung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "arbeitsmittel",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../arbeitsmittel/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "audit-selbsttest-ausland-remote",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../audit-selbsttest-ausland-remote/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "ausland-remote-eu-a1",
+    "new": "international-nebenberuf-versicherung-bearbeiten",
+    "reference": "../ausland-remote-eu-a1/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "aussenauftritt-marktchance",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../aussenauftritt-marktchance/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "beitragsbeginn-und-vertrauensschutz",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../beitragsbeginn-und-vertrauensschutz/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "beitragsnachforderung-haftung",
+    "new": "versicherungszweige-und-beitraege",
+    "reference": "../beitragsnachforderung-haftung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "berater-consultant-berufsstaendische",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../berater-consultant-berufsstaendische/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "berufsstaendische-versorgung-anwaelte",
+    "new": "versorgungswerk-und-befreiung",
+    "reference": "../berufsstaendische-versorgung-anwaelte/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "bescheid-analyse",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../bescheid-analyse/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "betriebspruefung-28p",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../betriebspruefung-28p/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "coach-trainer-program-drittpersonal-security",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../coach-trainer-program-drittpersonal-security/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "compliance-program-drittpersonal",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../compliance-program-drittpersonal/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "compliance-security-access",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../compliance-security-access/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "courier-platform-worker",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../courier-platform-worker/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "crossborder-us-ksv-abgabe-kuenstler-ksvg",
+    "new": "international-nebenberuf-versicherung-bearbeiten",
+    "reference": "../crossborder-us-ksv-abgabe-kuenstler-ksvg/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "decision-tree-output",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../decision-tree-output/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "dienstvertrag-werkvertrag-freie-mitarbeit",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../dienstvertrag-werkvertrag-freie-mitarbeit/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "dokumentenmatrix-status",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../dokumentenmatrix-status/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "drv-selbstcheck-eigene-betriebsstaette",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../drv-selbstcheck-eigene-betriebsstaette/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "eigene-betriebsstaette",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../eigene-betriebsstaette/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "einbindung-it-systeme",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../einbindung-it-systeme/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "eingliederung-arbeitsorganisation",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../eingliederung-arbeitsorganisation/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "einstweiliger-rechtsschutz-ersatzkraefte",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../einstweiliger-rechtsschutz-ersatzkraefte/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "ersatzkraefte-subunternehmer",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../ersatzkraefte-subunternehmer/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "exakt-50-prozent-gf",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../exakt-50-prozent-gf/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "familien-gmbh-faktische-macht",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../familien-gmbh-faktische-macht/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "formulare-c0030-frageliste-auftraggeber",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../formulare-c0030-frageliste-auftraggeber/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "frageliste-auftraggeber",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../frageliste-auftraggeber/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "frageliste-auftragnehmer",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../frageliste-auftragnehmer/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "freie-mitarbeit-klauseln",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../freie-mitarbeit-klauseln/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "freie-zeiteinteilung",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../freie-zeiteinteilung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "fremdgeschaeftsfuehrer-gmbh-geringfuegigkeit",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../fremdgeschaeftsfuehrer-gmbh-geringfuegigkeit/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "geringfuegigkeit-minijob",
+    "new": "versicherungszweige-und-beitraege",
+    "reference": "../geringfuegigkeit-minijob/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "gesellschafter-gf-mehrheit",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../gesellschafter-gf-mehrheit/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "gitarrenlehrer-und-instrumentalunterricht",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../gitarrenlehrer-und-instrumentalunterricht/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "gmbh-co-gruppenfeststellung-gleichartige",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../gmbh-co-gruppenfeststellung-gleichartige/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "gruppenfeststellung-gleichartige-auftraege",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../gruppenfeststellung-gleichartige-auftraege/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "handwerker-solo",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../handwerker-solo/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "hochschullehrbeauftragte",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../hochschullehrbeauftragte/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "holding-gesellschafter-honorararzt-aerzte",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../holding-gesellschafter-honorararzt-aerzte/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "honorararzt-und-aerzte",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../honorararzt-und-aerzte/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "honorarvertrag-realitaetscheck",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../honorarvertrag-realitaetscheck/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "hybride-beschaeftigung",
+    "new": "international-nebenberuf-versicherung-bearbeiten",
+    "reference": "../hybride-beschaeftigung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "influencer-content-creator",
+    "new": "kuenstler-publizisten-und-ksvg",
+    "reference": "../influencer-content-creator/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "interim-manager-it-freelancer-journalist",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../interim-manager-it-freelancer-journalist/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "it-freelancer-agil-projekt",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../it-freelancer-agil-projekt/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "journalist-publizist",
+    "new": "kuenstler-publizisten-und-ksvg",
+    "reference": "../journalist-publizist/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "kranken-pflege-arbeitslosenversicherung",
+    "new": "versicherungszweige-und-beitraege",
+    "reference": "../kranken-pflege-arbeitslosenversicherung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "ksv-abgabe-auftraggeber",
+    "new": "kuenstler-publizisten-und-ksvg",
+    "reference": "../ksv-abgabe-auftraggeber/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "ksv-paedagogisch-mandanten-intake-mehrere",
+    "new": "kuenstler-publizisten-und-ksvg",
+    "reference": "../ksv-paedagogisch-mandanten-intake-mehrere/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "kuenstler-ksvg",
+    "new": "kuenstler-publizisten-und-ksvg",
+    "reference": "../kuenstler-ksvg/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "kurzfristige-beschaeftigung-obligatorisches",
+    "new": "versicherungszweige-und-beitraege",
+    "reference": "../kurzfristige-beschaeftigung-obligatorisches/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "mandanten-intake-status",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../mandanten-intake-status/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "mehrere-auftraggeber",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../mehrere-auftraggeber/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "minderheits-gf-sperrminoritaet",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../minderheits-gf-sperrminoritaet/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "musikschullehrer-herrenberg-nebenberuf",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../musikschullehrer-herrenberg-nebenberuf/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "nachhilfe-online-tutoren",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../nachhilfe-online-tutoren/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "nachversicherung-rueckabwicklung",
+    "new": "versicherungszweige-und-beitraege",
+    "reference": "../nachversicherung-rueckabwicklung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "nebenberuf-selbststaendig",
+    "new": "international-nebenberuf-versicherung-bearbeiten",
+    "reference": "../nebenberuf-selbststaendig/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "obligatorisches-statusverfahren-gf",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../obligatorisches-statusverfahren-gf/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "optionales-anfrageverfahren",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../optionales-anfrageverfahren/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "paragraf-7-sgbiv-abgrenzung",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../paragraf-7-sgbiv-abgrenzung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "paragraf-7a-statusverfahren",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../paragraf-7a-statusverfahren/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "persoenliche-leistungspflicht",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../persoenliche-leistungspflicht/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "pflegekraefte-selbststaendig",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../pflegekraefte-selbststaendig/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "plattformverhaeltnis",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../plattformverhaeltnis/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "privatschullehrer-honorarkraft",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../privatschullehrer-honorarkraft/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "prognoseentscheidung-vorab",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../prognoseentscheidung-vorab/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "projektbeschreibung-ergebnisabnahme",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../projektbeschreibung-ergebnisabnahme/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "rahmenvertrag-einzelauftrag",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../rahmenvertrag-einzelauftrag/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "redteam-status-qualitygate",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../redteam-status-qualitygate/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "rentenversicherungspflicht-selbststaendige",
+    "new": "selbststaendige-rentenversicherung",
+    "reference": "../rentenversicherungspflicht-selbststaendige/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "reporting-controlling",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../reporting-controlling/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "risikomatrix-status",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../risikomatrix-status/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "sanierung-vorhandener-vertraege",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../sanierung-vorhandener-vertraege/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "selbststaendige-lehrer-sozialgericht-klage",
+    "new": "selbststaendige-rentenversicherung",
+    "reference": "../selbststaendige-lehrer-sozialgericht-klage/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "sozialgericht-klage",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../sozialgericht-klage/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "statusbescheid-bestandskraft",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../statusbescheid-bestandskraft/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "statusfeststellung-geschaeftsfuehrer-lehrer-freelancer",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../statusfeststellung-geschaeftsfuehrer-lehrer-freelancer/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "stellungnahme-drv",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../stellungnahme-drv/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "steuerberater-wp-freier-mitarbeiter",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../steuerberater-wp-freier-mitarbeiter/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "stimmbindung-veto-vertragswirklichkeit",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../stimmbindung-veto-vertragswirklichkeit/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "strafbarkeit-266a-teammeetings-agile",
+    "new": "status-compliance-qualitaet-bearbeiten",
+    "reference": "../strafbarkeit-266a-teammeetings-agile/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "teammeetings-agile",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../teammeetings-agile/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "therapeuten-praxen",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../therapeuten-praxen/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "uebergang-beitragsschuld",
+    "new": "versicherungszweige-und-beitraege",
+    "reference": "../uebergang-beitragsschuld/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "uebergangsregelung-127-sgbiv-lehrtaetigkeit",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../uebergangsregelung-127-sgbiv-lehrtaetigkeit/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "umfassende-sperrminoritaet-unternehmerisches",
+    "new": "geschaeftsfuehrer-und-gesellschaftermacht",
+    "reference": "../umfassende-sperrminoritaet-unternehmerisches/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "unternehmerisches-risiko",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../unternehmerisches-risiko/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "urlaub-krankheit-fortzahlung",
+    "new": "beschaeftigung-oder-selbststaendigkeit",
+    "reference": "../urlaub-krankheit-fortzahlung/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "verguetung-vermittler-dreiecksverhaeltnis-vhs",
+    "new": "freie-mitarbeit-und-projektarbeit",
+    "reference": "../verguetung-vermittler-dreiecksverhaeltnis-vhs/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "vermittler-dreiecksverhaeltnis",
+    "new": "berufsgruppen-plattformen-dreieck-bearbeiten",
+    "reference": "../vermittler-dreiecksverhaeltnis/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "vertragswirklichkeit-gelebte-praxis",
+    "new": "sozialversicherungspflicht-pruefen",
+    "reference": "../vertragswirklichkeit-gelebte-praxis/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "vhs-dozenten",
+    "new": "lehrtaetigkeit-und-uebergang-127",
+    "reference": "../vhs-dozenten/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "vorstand-ag-status",
+    "new": "vorstaende-aufsichtsraete-und-organe",
+    "reference": "../vorstand-ag-status/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "weisungsgebundenheit-widerspruch-klage",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../weisungsgebundenheit-widerspruch-klage/FACHINHALT.md"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "old": "widerspruch-klage-sozialgericht",
+    "new": "statusverfahren-und-betriebspruefung",
+    "reference": "../widerspruch-klage-sozialgericht/FACHINHALT.md"
   },
   {
     "plugin": "sozialversicherungsstatus-pruefer",

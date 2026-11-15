@@ -373,13 +373,25 @@ def main() -> int:
     SKILLS_INDEX_DIR.mkdir(exist_ok=True)
     # Alte Detailseiten loeschen, falls Plugins entfernt wurden
     # Die veröffentlichte Weiterleitungsseite hält alte Direktlinks funktionsfähig.
-    current_names = {name for name, _ in plugins} | {"README", "si-native-kanzlei"}
+    archive_registry = REPO_ROOT / "scripts/plugin-consolidations.json"
+    consolidations = json.loads(archive_registry.read_text())["consolidations"] if archive_registry.is_file() else []
+    current_names = {name for name, _ in plugins} | {"README", "si-native-kanzlei"} | {item["legacy"] for item in consolidations}
     for old in SKILLS_INDEX_DIR.glob("*.md"):
         if old.stem not in current_names:
             old.unlink()
     for name, skills in plugins:
         page = plugin_detail_page(name, skills, component_versions[name])
         (SKILLS_INDEX_DIR / f"{name}.md").write_text(page.rstrip() + "\n", encoding="utf-8")
+    # Historische Direktlinks bleiben als ausdrückliche Wegweiser erhalten.
+    for item in consolidations:
+        legacy, canonical = item["legacy"], item["canonical"]
+        if canonical not in {name for name, _ in plugins}:
+            raise ValueError(f"Gemeinsames Plugin fehlt: {canonical}")
+        (SKILLS_INDEX_DIR / f"{legacy}.md").write_text(
+            f"# Fachwege: {canonical}\n\n"
+            f"Die gemeinsamen Skills stehen im [Skill-Verzeichnis {canonical}](./{canonical}.md). "
+            f"[Anleitung und sämtliche bisherigen Testakten](../{canonical}/README.md).\n\n"
+            f"Der [frühere Quellbestand](../{legacy}/README-bestand.md) bleibt nachvollziehbar.\n", encoding="utf-8")
     # Index der Detailseiten
     idx = write_detail_index(plugins, version)
     (SKILLS_INDEX_DIR / "README.md").write_text(idx.rstrip() + "\n", encoding="utf-8")

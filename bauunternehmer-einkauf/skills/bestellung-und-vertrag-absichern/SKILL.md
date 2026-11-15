@@ -20,6 +20,11 @@ Lesen Sie ausgewählte Angebotsfassung, Nachträge, Preis- und Freigabevermerk, 
 3. Prüfen Sie Abnahme-, Mängel- und Wartungsregeln zwischen Hauptvertrag und Unterauftrag. Stellen Sie für Garantie und Service den Geber, Beginn, Dauer, Leistungsumfang, Ausschlüsse, Zugang und Meldung gesondert dar. Wenden Sie das konkrete Vertragsregime an. Bei Liefer- und Montagepaketen prüfen Sie Leistungscharakter und die Tragweite etwaiger Einbeziehungen.
 4. Dokumentieren Sie die offenen Punkte, die eine Bestellung hindern, und zuständige Freigaben. Entwerfen Sie klare Klauseln für die benötigten Festlegungen und ein konsistentes Anlagenverzeichnis. Stimmen Sie Bestelltext und aufnehmendes Systemfeld ab.
 
+
+Bearbeiten Sie dazu die [vertiefte Prüfung aus dem Projekteinkauf](../vertraege-und-klauseln-pruefen/FACHINHALT.md). Übernehmen Sie deren einschlägige Beleg- und Prüfschritte in denselben Entwurf; erstellen Sie keinen zweiten parallelen Vorgang.
+
+Prüfen Sie bei vorformulierten Bedingungen Einbeziehung, Individualabrede, den B2B-Maßstab und die konkrete Fassung der VOB/B. Formulieren Sie für eine beanstandete Klausel eine vollständige Wunsch- und Rückfallposition mit Partei, Auslöser, Frist, Nachweis und Rechtsfolge. Lassen Sie kommentierte Redline und freigabefähigen Vertragstext getrennt.
+
 ## 4 Quellenpflicht
 
 Führen Sie Bezüge auf die verbindliche Fassungskennung sowie konkrete Hauptvertrags- und Unterauftragsstellen. Rechtliche Bewertungen belegen Sie mit geprüftem Normtext oder überprüfter Entscheidung. [Quellen- und Belegregel](../../references/zitierweise.md)

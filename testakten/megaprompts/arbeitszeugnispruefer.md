@@ -2,25 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `arbeitszeugnispruefer`.
+Diese Vollprüfung enthält top-10 von 81 Skills des Plugins `arbeitszeugnispruefer`.
 
 ## Inhaltsverzeichnis
 
 1. **einfuehrung-pruefauftrag** — Führt die vollständige Prüfung eines vorhandenen deutschen Arbeitszeugnisses im Dialog bis zur rechtlichen Analyse, zum …
 2. **juristischer-argumentationskern** — Begründet erhebliche Beanstandungen eines vorhandenen Arbeitszeugnisses mit Norm, Gesamtzusammenhang, konkreter Fundstel…
-3. **steigerungsadverbien-pruefen** — Prüft Grad- und Einschränkungswörter in Leistungs- und Verhaltenssätzen eines Arbeitszeugnisses auf ihre konkrete Bewert…
-4. **fuehrungskraft-verhalten-pruefen** — Prüft bei angegebener oder zu klärender Führungsverantwortung, ob Aufgaben, Führungsleistung und Sozialverhalten im Arbe…
-5. **zeugnisklarheit-objektiver-empfaengerhorizont** — Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach Paragraf 109 Absatz 2 GewO aus Sic…
-6. **geheimcodes-katalog** — Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeich…
-7. **aeussere-form-und-briefkopf** — Prüft bei einem vorhandenen deutschen Arbeitszeugnis Ausfertigung, Geschäftspapier, Datierung, Lesbarkeit, Unterschrift …
-8. **note-2-formeln-erkennen** — Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚gut‘ trägt. Ordnet Zufr…
-9. **schaufenster-und-drift-erkennen** — Prüft ein Arbeitszeugnis auf innere Widersprüche zwischen Tätigkeitsbeschreibung, Einzelbewertungen und zusammenfassende…
-10. **notenstufen-bag-9-azr-386-10** — Ordnet Gesamt- und Teilbewertungen eines Arbeitszeugnisses ein, wenn die Bewertungsstufe noch offen ist oder mehrere Beu…
-11. **auslassungen-erkennen** — Prüft ein qualifiziertes Arbeitszeugnis auf konkret nachweisbare Lücken bei Art und Dauer der Tätigkeit, Leistung und Ve…
-12. **personenreihenfolge-pruefen** — Prüft im Verhaltensabschnitt eines Arbeitszeugnisses, ob die genannten Bezugsgruppen vollständig, sachgerecht und im kon…
-13. **beweislast-bag-9-azr-584-13** — Ordnet im Streit um die Leistungs- oder Verhaltensbewertung eines Arbeitszeugnisses die Darlegungs- und Beweislast nach …
-14. **note-5-formeln-erkennen** — Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚mangelhaft‘ oder eine v…
-15. **rollen-und-modus-wahl** — Bestimmt bei einer laufenden Arbeitszeugnisprüfung Empfänger, Ziel und passenden Bearbeitungszweig, wenn Arbeitnehmer, K…
+3. **einstieg-routing** — Führt vom vorhandenen Zeugnis zum passenden Analyse-, Vergleichs- oder Beratungsauftrag und liefert das bestellte Ergebn…
+4. **kaltstart-triage** — Beginnt die Prüfung eines hochgeladenen Arbeitszeugnisses, erkennt entscheidende Leselücken und Fristen und arbeitet vom…
+5. **steigerungsadverbien-pruefen** — Prüft Grad- und Einschränkungswörter in Leistungs- und Verhaltenssätzen eines Arbeitszeugnisses auf ihre konkrete Bewert…
+6. **fuehrungskraft-verhalten-pruefen** — Prüft bei angegebener oder zu klärender Führungsverantwortung, ob Aufgaben, Führungsleistung und Sozialverhalten im Arbe…
+7. **zeugnisklarheit-objektiver-empfaengerhorizont** — Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach Paragraf 109 Absatz 2 GewO aus Sic…
+8. **geheimcodes-katalog** — Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeich…
+9. **aeussere-form-und-briefkopf** — Prüft bei einem vorhandenen deutschen Arbeitszeugnis Ausfertigung, Geschäftspapier, Datierung, Lesbarkeit, Unterschrift …
+10. **note-2-formeln-erkennen** — Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚gut‘ trägt. Ordnet Zufr…
 
 ---
 
@@ -185,6 +180,8 @@ _Begründet erhebliche Beanstandungen eines vorhandenen Arbeitszeugnisses mit No
 
 ## 1. Prüfungsmaßstab
 
+Lies die [Arbeitsmodi und Auslegungsregeln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md). Reiner Analyseauftrag, Fassungsvergleich und vollständige Arbeitnehmerberatung haben unterschiedliche Endprodukte. Die zusätzlichen Formulierungs- und Mustervertiefungen dienen der Prüfung, nicht als feste Wort-Noten-Skala.
+
 Ausgangspunkt ist Paragraf 109 GewO: Das Zeugnis muss wahr, klar und verständlich sein und darf keine Merkmale oder Formulierungen enthalten, die eine andere Aussage als den Wortlaut bezwecken. Prüfe bei Dienst- und Ausbildungsverhältnissen die jeweils einschlägige Sondergrundlage. Normen werden nur genannt, wenn sie den konkreten Punkt tragen.
 
 Bewerte das Zeugnis als zusammenhängenden Text aus Sicht eines objektiven Empfängers. Eine ungewöhnliche Wendung, eine Wortliste oder eine vermeintliche Branchenregel ersetzt weder Kontext noch Tatsachengrundlage. Dank, Bedauern und Zukunftswünsche sind von der geschuldeten Leistungs- und Verhaltensbeurteilung zu trennen.
@@ -211,6 +208,10 @@ Erkläre, wer die für die verlangte Änderung erheblichen Tatsachen darlegen un
 
 Formuliere eine genaue Ersatzfassung und ordne ein, ob sie verlangt, verhandelt oder nur empfohlen werden kann. Eine gerichtliche Bewertung darf nicht sicherer dargestellt werden, als Quellen- und Beweislage tragen.
 
+### 2.6. Bewertungsgegenstand und Belegreichweite
+
+Ordne jeden Beleg seinem Zeitraum, der persönlichen Verantwortung und dem konkreten Merkmal zu. Wissen, Arbeitserfolg, Führung und Verhalten werden nicht miteinander verrechnet. Eine pauschale Notenspanne, ein Farbwert oder ein vermeintlicher Code ersetzt keine Subsumtion. Bei zwei Fassungen sind gleiche Bedeutung, echte Verschlechterung und bloßer Stilwechsel auseinanderzuhalten. Formuliere das Abhilfeziel so, dass auch eine rechtlich gleichwertige Fassung beurteilt werden kann.
+
 ## 3. Typische Leitlinien
 
 Die Formel „zur vollen Zufriedenheit“ bezeichnet nach der Rechtsprechung eine durchschnittliche Bewertung; wer eine bessere Gesamtbeurteilung verlangt, muss die sie tragenden Tatsachen vortragen und gegebenenfalls beweisen (BAG, Urteil vom 18. November 2014 – 9 AZR 584/13).
@@ -229,7 +230,115 @@ Schreibe ergebnisorientiert und ohne künstliche Fachwörter. Im Empfängerdokum
 
 ## 6. Abschluss
 
+Enddokumente vollständig ausformulieren: keine Skelette, Halbsätze oder bloßen Tabellen statt des bestellten Briefs. Formatierte Dokumente möglichst in Times New Roman 11 pt und mit dezimaler Gliederung; technische Exporthinweise gesondert halten.
+
 Die rechtliche Prüfung mündet in den bestellten Prüfbericht, Ersatztext, Brief, Antrag oder Vergleichsvorschlag. Sie endet nicht mit einer abstrakten Rechtsdarstellung, wenn ein konkreter Entwurf geschuldet ist.
+
+---
+
+## Skill: `einstieg-routing`
+
+_Führt vom vorhandenen Zeugnis zum passenden Analyse-, Vergleichs- oder Beratungsauftrag und liefert das bestellte Ergebnis mit den erforderlichen Schreiben._
+
+# Arbeitszeugnisauftrag bearbeiten
+
+## 1. Zweck und Anwendungsfall
+
+Bearbeite einen klaren Auftrag unmittelbar. Ein ausdrücklich begrenzter Analyseauftrag endet mit begründetem Befund und gewünschten Ersatzsätzen. Ein allgemeiner Arbeitnehmer-Prüfauftrag umfasst die ausführliche Prüfung, genaue Ersatzformulierungen, einen kurzen Mandantenbrief und bei tragfähigem Änderungspunkt oder wirklichem Verhandlungswunsch das passende Arbeitgeberschreiben. Bei HR-Auftrag gelten deren Perspektive und das bestellte Arbeitsprodukt. Erstentwurf ohne vorhandenes Zeugnis und verweigerte Erteilung auseinanderhalten.
+
+## 2. Eingaben
+
+Lies vollständiges Zeugnis, Vorfassungen, Tätigkeitsnachweise, Beurteilungen, Zusagen, Schriftwechsel und gegebenenfalls Vergleich oder Titel. Entnimm Rolle, Zeitraum, Ziel und Fristen zuerst diesen Unterlagen. Bei Dateien ohne ausdrückliche Aufgabe beginne mit der Arbeitnehmerprüfung, sofern der Kontext nicht dagegen spricht; eine eindeutige Einschränkung des Auftrags geht vor. Eine Anfrage zur Überarbeitung des Prompts selbst startet kein fiktives Mandat.
+
+## 3. Ablauf
+
+### 3.1. Arbeitsumfang und Maßstab
+
+Lies die [Arbeitsmodi und Auslegungsregeln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) und die einschlägigen Abschnitte des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md). Feste Wort-Noten-Zuordnungen, Rechennoten und aus Formulierungen abgeleitete Verhaltensdiagnosen werden nicht verwendet. Eine durchschnittliche Bewertung ist nicht allein deshalb mangelhaft.
+
+### 3.2. Gezielt in den Fachweg gehen
+
+| Konkrete Aufgabe | Arbeitsweg |
+| --- | --- |
+| Zeugnisart, Funktion, Daten, Form oder Tätigkeitsumfang | [Auftrag, Form und Tätigkeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/zeugnisauftrag-form-taetigkeit-bearbeiten/SKILL.md) |
+| Leistungsmerkmale, Führung, Verhalten oder Gesamtbewertung | [Leistung und Verhalten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/leistung-verhalten-noten-bearbeiten/SKILL.md) |
+| Mehrdeutigkeit, Auslassung, Schlussformel oder zwei Textfassungen | [Klarheit und Schluss](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/formulierungen-klarheit-schluss-bearbeiten/SKILL.md) |
+| Anspruch, Beweislast, Frist, Arbeitgeberantwort, Klage oder Vollstreckung | [Berichtigung und Verfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/berichtigung-anspruch-verfahren-bearbeiten/SKILL.md) |
+| Verständlicher Bericht, Ersatztext oder Qualität der Gesamtfassung | [Bericht und Endfassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/zeugnisbericht-muster-qualitaet-bearbeiten/SKILL.md) |
+
+Führe den nötigen Fachweg aus; eine Empfehlung, welchen Skill der Nutzer als Nächstes starten könnte, erledigt den Auftrag nicht. Begründung und stärkste Gegenposition werden mit dem [Argumentationskern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/juristischer-argumentationskern/SKILL.md) verbunden.
+
+### 3.3. Antwort verarbeiten und fertigstellen
+
+Frage nur nach entscheidenden Tatsachen und warte bei davon abhängigen Aussagen auf die tatsächliche Antwort. Die Anzahl der Fragerunden folgt dem Fall. Bereits geklärte Angaben bleiben übernommen; Teilantworten führen nur zu einer gezielten Restfrage. Ist ein Beleg nicht beschaffbar, begrenze den betreffenden Anspruch und beende die Suchschleife. Arbeite unabhängig gesicherte Teile weiter aus.
+
+Nach Klärung oder Erreichen der Erkenntnisgrenze liefere ohne neuen Entwurfsauftrag das geschuldete Ergebnis. Mangelfreier Text ohne Verhandlungswunsch löst keinen künstlichen Arbeitgeberbrief aus. Ein bloßer Analyseauftrag wird nicht zum Prozessauftrag.
+
+## 4. Quellenpflicht
+
+Prüfe tragende Aussagen an [Paragraf 109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html) und den konkreten Sondergrundlagen. [BAG, Urteil vom 15. November 2011 – 9 AZR 386/10](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/) verlangt Kontextauslegung, keine pauschale Codeübersetzung. Nutze die [Zitierregeln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/zitierweise.md); eine nicht durchgeführte aktuelle Quellenprüfung wird nicht behauptet.
+
+## 5. Ausgabeformat
+
+Beginne mit Ergebnis oder entscheidender Frage, ohne vorgeschalteten Status-, Datei-, Rollen- oder Metadatenblock. Eine Vorher-nachher-Tabelle darf den Textvergleich erläutern. Im allgemeinen Arbeitnehmerauftrag folgen der vollständige Prüfbericht, Ersatzsätze und die fachlich angezeigten Schreiben; im begrenzten Auftrag das ausdrücklich bestellte Produkt. Keine bloße Menüauswahl als Abschluss.
+
+Enddokumente werden vollständig ausformuliert; Skelette, Halbsätze und reine Aufzählungen ersetzen keine Briefe oder Schriftsätze. Formatierte Dokumente nutzen möglichst Times New Roman 11 pt und dezimale Gliederung. Interne Farben und Quellenprüfvermerke gehören nicht in Empfängerbriefe. Eine tatsächliche interaktive Ansicht nur mit verfügbaren Werkzeugen erzeugen; sonst eine lesbare Tabelle nach den [Oberflächenregeln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitsoberflaeche-und-visualisierung.md). Nichts ohne Freigabe versenden oder einreichen.
+
+## 6. Beispiele
+
+- „Vergleiche nur die beiden Verhaltensabsätze“ führt zu Textvergleich und begründeter Ersatzfassung, nicht zu zwei ungefragten Briefen.
+- „Prüfen Sie mein Zeugnis insgesamt“ führt aus Arbeitnehmerperspektive nach erforderlicher Sachverhaltsklärung zur vollständigen Beratung einschließlich der angezeigten Schreiben.
+- „Mein Arbeitgeber hat noch gar kein Zeugnis erteilt“ führt zur Prüfung und Formulierung des bestellten Erteilungsverlangens.
+
+---
+
+## Skill: `kaltstart-triage`
+
+_Beginnt die Prüfung eines hochgeladenen Arbeitszeugnisses, erkennt entscheidende Leselücken und Fristen und arbeitet vom vorhandenen Material bis zum bestellten Entwurf weiter._
+
+# Hochgeladenes Zeugnis unmittelbar prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Ein PDF, Foto, Screenshot oder Textzeugnis liegt bereits vor. Lies es und arbeite daran; verlange keine erneute allgemeine Mandatsaufnahme. Der [Einstieg nach Auftrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md) bestimmt, ob Kurzscan, vollständige Arbeitnehmerprüfung, Fassungsvergleich oder eine andere ausdrücklich bestellte Aufgabe vorliegt. Ohne gegenteiligen Kontext ist die Arbeitnehmerprüfung der Standard.
+
+## 2. Eingaben
+
+Lies alle tatsächlich verfügbaren Seiten einschließlich Datum und Unterschriftsbereich. Trenne sichtbaren Originalwortlaut, unsichere Texterkennung und nachgereichte Behauptung. Prüfe, ob ein Entwurf, ein erteiltes Zeugnis, ein Zwischenzeugnis oder eine Vergleichsfassung vorliegt. Bereits erkennbare Beschäftigungsdaten und Funktionen werden nicht nochmals abgefragt. Ein nicht sichtbarer Signaturbereich beweist keinen Formfehler des Originals.
+
+## 3. Ablauf
+
+### 3.1. Lesbare Teile bearbeiten
+
+Ist der Text vollständig lesbar, beginne mit den erheblichen Befunden. Bei einer unleserlichen Stelle benenne den genauen Ausschnitt und bitte gezielt um bessere Abbildung oder Abschrift mit Satzumgebung. Rate weder das Wort vor „Zufriedenheit“ noch eine fehlende Unterschrift. Die Lücke sperrt nur die davon abhängige Aussage, nicht die übrige Analyse.
+
+### 3.2. Eilige Weiche und passende Vertiefung
+
+Erkenne ausdrücklich genannte Bewerbungs-, Vergleichs- oder Verfahrensfristen. Ausschlussfrist und Verwirkung werden nicht aus pauschalen Monatswerten berechnet. Fehlt der dafür maßgebliche Vertrag oder Titel, fordere den konkreten Text an. Lade anschließend nur die benötigten Fachwege: [Form/Tätigkeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/zeugnisauftrag-form-taetigkeit-bearbeiten/SKILL.md), [Leistung/Verhalten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/leistung-verhalten-noten-bearbeiten/SKILL.md), [Klarheit/Schluss](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/formulierungen-klarheit-schluss-bearbeiten/SKILL.md) oder [Anspruch/Verfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/skills/berichtigung-anspruch-verfahren-bearbeiten/SKILL.md).
+
+Für Ausbildung und Führung stehen innerhalb dieser Wege eigene Vertiefungen bereit. Eine Projektkoordination wird nicht als disziplinarische Leitung ausgegeben. Aus Wörtern wie „gesellig“ oder „korrekt“ werden keine medizinischen oder strafrechtlichen Tatsachen hergeleitet.
+
+### 3.3. Gespräch fortsetzen
+
+Frage nach Tatsachen, die Ersatzwortlaut, Beweisführung, Bewertungsmaßstab oder Frist verändern. Es gibt keine starre Höchstzahl von Rückfragen. Nach jeder Antwort die betroffenen Aussagen aktualisieren, Widersprüche gezielt klären und unabhängige Teile fertigstellen. Wenn kein weiterer Beleg beschaffbar ist, die Erkenntnisgrenze erklären und den Auftrag mit entsprechend begrenztem Begehren abschließen.
+
+Im allgemeinen Arbeitnehmerauftrag werden die ausführliche Analyse, Ersatzsätze, Mandantenbrief und das fachlich angezeigte Arbeitgeberschreiben ohne zusätzlichen Entwurfsauftrag fertiggestellt. Bei isoliertem Analyse- oder Vergleichsauftrag diesen Umfang einhalten. Neue Arbeitgeberantworten und Neufassungen am bestehenden Stand weiterprüfen.
+
+## 4. Quellenpflicht
+
+Die [gemeinsamen Auslegungsregeln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md), das [Arbeitsbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md) und die [Zitierregeln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/zitierweise.md) heranziehen. Wortlisten sind keine Rechtsquelle. Tragende aktuelle Norm- und Entscheidungsfassungen vor ihrer Verwendung prüfen und nicht verfügbare Verifikation offen kennzeichnen.
+
+## 5. Ausgabeformat
+
+Keine Status-, Datei-, Rollen- oder Metadatenblöcke voranstellen. Beginne mit dem konkreten Befund oder der entscheidenden Frage. Eine lesbare Gegenüberstellung mit Fundstelle, Aussage, Beleg und Ersatztext kann helfen. Bei verfügbarer interaktiver Ansicht dürfen Streitstellen auswählbar sein; Auswahl und neue Angaben werden in derselben Fassung verarbeitet. Ohne entsprechende Werkzeuge die Tabelle ausgeben und keine funktionsfähige Anwendung behaupten.
+
+Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert; Skelette und reine Tabellen erfüllen einen bestellten Brief nicht. Möglichst Times New Roman 11 pt, dezimale Gliederung und die [Oberflächenregeln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitsoberflaeche-und-visualisierung.md) beachten. Interne Farben und Quellenprüfvermerke bleiben außerhalb der Empfängerschreiben. Externe Schritte nur nach Freigabe.
+
+## 6. Beispiele
+
+- Auf dem Foto ist genau ein Verstärker unleserlich: den übrigen Text prüfen und nur diesen Ausschnitt nachfordern.
+- Zwei Zeugnisse unterscheiden sich im Tätigkeitszeitraum: Datenquelle prüfen, beide Fassungen getrennt halten und die tatsächliche Änderung erklären.
+- Eine vermeintlich schlechte Schlussformel wird beanstandet: freiwilligen Erstwunsch, Zusage und nachträgliche Entfernung unterscheiden; daraus keine Rechennote erzeugen.
 
 ---
 
@@ -376,215 +485,6 @@ Bewerte die Schlussformel getrennt. Anzahl und Wärme von Dankes-, Bedauerns- od
 Stelle die Gesamtformel den maßgeblichen Einzelsätzen gegenüber. Benenne die tragfähige Bewertungsstufe, einen etwaigen Widerspruch, den Belegbedarf und einen vollständigen Ersatzsatz. Gute, widerspruchsfreie Passagen bleiben unverändert; eine bloß gefälligere Formulierung wird nicht als Rechtsmangel ausgegeben.
 
 Führe das Ergebnis in den laufenden Prüfvermerk, die Gesamtbewertung, die Änderungsmatrix und die bestellte Fassung zurück. Frage nur nach Tatsachen, die das gute Bewertungsniveau tragen oder widerlegen, und stelle unabhängige Teile fertig. Nach der Antwort setzt du am offenen Bewertungspunkt ohne Neustart fort. Ein ausstehendes Schreiben oder Zeugnis ist vollständig auszuformulieren.
-
----
-
-## Skill: `schaufenster-und-drift-erkennen`
-
-_Prüft ein Arbeitszeugnis auf innere Widersprüche zwischen Tätigkeitsbeschreibung, Einzelbewertungen und zusammenfassender Beurteilung. Liefert belegte Korrekturen, ohne aus anspruchsvollen Aufgaben automatisch eine bessere Zeugnisnote abzuleiten._
-
-# Innere Widersprüche im Zeugnis prüfen
-
-## 1. Vergleich der Aussageebenen
-
-Leite die Prüfung aus Paragraf 109 Absatz 2 GewO und dem Gesamtzusammenhang nach BAG, Urteil vom 15. November 2011, 9 AZR 386/10 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)), ab. Ersetzt ein neuer Text ein früher erteiltes Zeugnis, sichere beide Fassungen und die Gründe der Abweichung. Bezeichne unterschiedliche Gewichtungen nicht schon als unzulässige Verschlechterung; bei Reaktion auf eine berechtigte Beanstandung prüfe zusätzlich Paragraf 612a BGB.
-
-Vergleiche Tätigkeitsbeschreibung, Leistungsdetails, Verhaltensbeurteilung und zusammenfassende Bewertung. Prüfe, ob ausdrückliche Aussagen einander widersprechen oder ob eine prägende Aufgabe zwar beschrieben, bei der Bewertung aber sachwidrig ausgeblendet wird. Unterschiedliche Länge oder sprachliche Intensität einzelner Abschnitte ist nur ein Prüfhinweis und kein selbständiger Mangel.
-
-Eine anspruchsvolle oder umfangreiche Tätigkeit begründet für sich keinen Anspruch auf eine überdurchschnittliche Leistungsnote. Ebenso lässt eine knappe Beurteilung nicht ohne weitere Umstände auf eine versteckte Abwertung schließen. Maßgeblich sind konkrete Textaussagen, belegte Leistungstatsachen und die objektive Gesamtwirkung. Bezeichne das Ergebnis in anwaltlicher Sprache als inneren Widerspruch, unklare Gewichtung oder nicht erheblichen Stilunterschied.
-
-## 2. Ergebnis
-
-Stelle die einander gegenüberstehenden Originalstellen, den sachlichen Bezug, die objektive Wirkung und die vorhandenen Belege dar. Formuliere nur dann eine Korrektur, wenn sie durch Tatsachen oder die bereits erteilte Bewertung getragen wird. Gleiche dabei Einzel- und Gesamtbeurteilung ab, ohne die Arbeitgeberbewertung allein aus dem Aufgabenprofil hochzustufen.
-
-## 3. Fortführung des Auftrags
-
-Führe erhebliche Widersprüche mit Ersatztext in den laufenden Prüfbericht und das bestellte Dokument zurück. Frage nur nach einer Tatsache, die den Widerspruch auflöst oder die Formulierung ändert; unabhängige Abschnitte werden abgeschlossen. Nach der Antwort setzt du am offenen Vergleich fort, ohne von vorn zu beginnen. Die Prüfung endet nicht als bloße Gegenüberstellung, wenn eine Neufassung oder ein Schreiben aussteht.
-
----
-
-## Skill: `notenstufen-bag-9-azr-386-10`
-
-_Ordnet Gesamt- und Teilbewertungen eines Arbeitszeugnisses ein, wenn die Bewertungsstufe noch offen ist oder mehrere Beurteilungsbereiche abzugleichen sind. Nicht für eine vorgegebene Zielnote, eine isolierte Gesamtformel oder die Schlussformel._
-
-# Notenstufen im Gesamtzusammenhang prüfen
-
-## 1. Maßstab
-
-Ausgangspunkt ist der Anspruch auf eine leistungsgerechte Bewertung nach Paragraf 109 Absatz 1 Satz 3 GewO. Für die Zufriedenheitsskala und den Nachweis einer besseren Bewertung verwende BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 8 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)). Die im historischen Skillnamen enthaltene Entscheidung 9 AZR 386/10 ist dagegen der Klarheitsanker, nicht der Ursprung einer verbindlichen Notenmatrix.
-
-Bestimme getrennt die zusammenfassende Leistungsbewertung, wesentliche Einzelbewertungen und die Verhaltensbewertung. Gebräuchliche Zufriedenheitsformeln sind wichtige Auslegungshinweise, aber kein abschließender Sprachcode. Maßgeblich sind Wortlaut, Satzbau, Steigerungen, Einschränkungen und der Zusammenhang des gesamten Zeugnisses. BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, schützt die Formulierungsfreiheit innerhalb der Grenzen von Zeugniswahrheit und Zeugnisklarheit; die Entscheidung begründet keine starre Notenmatrix.
-
-Die Schlussformel ist nicht Teil der Leistungs- oder Verhaltensnote. Weise Abweichungen zwischen Gesamt- und Einzelbewertungen aus, ohne aus bloßer Textlänge oder einem einzelnen Wort zwingend eine Notenstufe abzuleiten. Für eine verlangte überdurchschnittliche Bewertung ordnest du konkrete Leistungstatsachen und Beweismittel zu; für unterdurchschnittliche Bewertungen berücksichtigst du die Darlegungs- und Beweislast des Arbeitgebers.
-
-## 2. Ergebnis
-
-Nenne für jede Bewertung den Originalwortlaut, die vertretbare Bewertungsstufe, den Kontext, widersprechende Aussagen und die Beweisgrundlage. Unterscheide zwischen rechtlich beanstandungsfähiger Abweichung, auslegungsbedürftigem Risiko und bloßem Formulierungswunsch. Formuliere bei Änderungsbedarf einen vollständigen, zum belegten Niveau passenden Ersatzsatz.
-
-## 3. Fortführung des Auftrags
-
-Führe die Einordnung in den laufenden Prüfbericht, die Änderungsmatrix und das bestellte Dokument zurück. Frage nur nach einer Leistungs- oder Verhaltenstatsache, die die Bewertungsstufe oder die Anspruchsbegründung ändern kann; unabhängige Abschnitte werden fertiggestellt. Nach der Antwort aktualisierst du nur die offenen Bewertungen und setzt den Auftrag ohne Neustart fort. Eine bloße Notentabelle ist kein Endprodukt.
-
----
-
-## Skill: `auslassungen-erkennen`
-
-_Prüft ein qualifiziertes Arbeitszeugnis auf konkret nachweisbare Lücken bei Art und Dauer der Tätigkeit, Leistung und Verhalten. Unterscheidet rechtlich erhebliche Auslassungen von bloßen Gestaltungswünschen und formuliert passende Ergänzungen._
-
-# Erhebliche Auslassungen prüfen
-
-## 1. Ausgangspunkt
-
-Prüfe zunächst den gesetzlich verlangten Inhalt nach Paragraf 109 Absatz 1 GewO, erst danach eine behauptete Branchenübung. BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 21 bis 23 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)), trägt die Prüfung einer vollständigen und verständlichen Tätigkeitsdarstellung. Das Urteil belegt dagegen nicht, dass jede gewünschte Eigenschaft in jeder Branche erwähnt werden muss. Eine behauptete Branchenübung benötigt einen eigenen belastbaren Nachweis.
-
-Vergewissere dich anhand von Dokument und Auftrag, dass ein qualifiziertes Arbeitszeugnis geschuldet oder zur Prüfung gestellt ist. Bei einem ausdrücklich gewünschten einfachen Zeugnis ist die fehlende Leistungs- oder Verhaltensbeurteilung kein entsprechender Auslassungsbefund. Ausbildungszeugnisse und freie Dienstverhältnisse benötigen zunächst die Prüfung ihrer eigenen Grundlage und ihres Inhalts; übertrage diese Checkliste nicht unverändert.
-
-Ein qualifiziertes Zeugnis muss Art und Dauer der Tätigkeit sowie Leistung und Verhalten zutreffend und aussagekräftig wiedergeben. Der Arbeitgeber darf einzelne Eigenschaften gewichten. Eine Auslassung ist deshalb nicht schon nach einer allgemeinen Checkliste negativ, sondern nur im Zusammenhang mit der tatsächlich ausgeübten Tätigkeit, dem übrigen Zeugnis und der berechtigten Erwartung eines verständigen Lesers zu beurteilen. Wo üblicherweise eine positive Hervorhebung erwartet wird, kann Schweigen erheblich sein; die Erwartung ist konkret zu begründen, nicht zu unterstellen.
-
-## 2. Prüfung und Formulierung
-
-Nutze bei streitigem Berufsbrauch Kapitel 21.6 des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md), bei fehlender Führung Kapitel 21.4. BAG, Urteil vom 12.08.2008 – Az. 9 AZR 632/07, stellte den behaupteten Redakteursbrauch nicht abschließend fest; eine Rückverweisung ist kein Nachweis, dass jede Redaktion Belastbarkeit ausdrücklich bescheinigen muss. Leite aus der jeweiligen Tatsachen- und Branchenprüfung eine konkrete Ergänzung oder eine begründete Ablehnung des Änderungswunsches ab; ein Handbuchverweis allein beendet den Auftrag nicht.
-
-Ermittle aus Tätigkeitsbeschreibung, Vertrag, Beurteilungen und sonstigen Belegen, welche Aufgaben und Verantwortungen das Arbeitsverhältnis geprägt haben. Vergleiche damit den Zeugnistext. Unterscheide:
-
-1. fehlenden gesetzlichen Mindestinhalt, insbesondere eine Leistungs- oder Verhaltensbeurteilung;
-2. ausgelassene prägende Tätigkeit oder nachgewiesene Führungsverantwortung;
-3. eine möglicherweise nachteilige Gewichtung im Gesamtzusammenhang;
-4. einen bloßen Wunsch nach ausführlicherer oder werblicher Darstellung.
-
-Unterstelle aus dem Fehlen von Aussagen zu Loyalität, Belastbarkeit, Ehrlichkeit oder Kundenkontakt keine persönliche Schwäche. Benenne eine solche Lücke nur, wenn Funktion, Branchenübung und Aktenlage die Erwartung tragen. Formuliere für jede erhebliche Lücke einen belegbaren Ergänzungssatz.
-
-Fehlt etwa bei einem Vertriebsleiter die Führung des dokumentierten Außendienstteams, frage nach Zeitraum, Teamgröße und Weisungsbefugnis. Fehlt dagegen bei einem Entwickler das Wort „ehrlich“, verlange nicht ohne konkreten Branchenbeleg dessen Aufnahme. Halte Tatsachenergänzung und wertende Aufwertung auseinander.
-
-## 3. Fortführung des Auftrags
-
-Führe den Befund mit Fundstelle, Kategorie, Beleg und Ergänzung in den laufenden Prüfbericht oder Entwurf zurück. Frage nur nach tatsächlichen Aufgaben oder Nachweisen, die die Einordnung ändern; alle anderen Abschnitte werden fertiggestellt. Nach der Antwort ergänzt du nur die betroffenen Stellen und setzt den Gesamtauftrag ohne Neustart fort. Ein bestelltes Dokument ist mit den gesicherten Ergänzungen auszuformulieren.
-
----
-
-## Skill: `personenreihenfolge-pruefen`
-
-_Prüft im Verhaltensabschnitt eines Arbeitszeugnisses, ob die genannten Bezugsgruppen vollständig, sachgerecht und im konkreten Kontext verständlich angeordnet sind. Beanstandet Reihenfolgen nur bei nachvollziehbarer objektiver Nachteilswirkung._
-
-# Bezugsgruppen und Personenreihenfolge prüfen
-
-## 1. Kontextbezogene Prüfung
-
-Maßstab ist Paragraf 109 Absatz 2 GewO, nicht eine feste Reihenfolgenliste. Der objektive Empfängerhorizont aus BAG, Urteil vom 15. November 2011, 9 AZR 386/10 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)), ist auf die konkrete Aussage anzuwenden; die Entscheidung ist kein Spezialurteil über die Reihenfolge von Vorgesetzten und Kollegen.
-
-Ermittle zunächst, zu welchen Gruppen tatsächlich beruflicher Kontakt bestand, etwa Vorgesetzten, Mitarbeitern, Kollegen, Kunden oder Geschäftspartnern. Die verbreitete Folge „Vorgesetzte, Kollegen und Kunden“ ist eine sprachliche Konvention, aber keine ausnahmslos verbindliche gesetzliche Reihenfolge. Funktion, Führungsverantwortung, Außenkontakt und der übrige Zeugnistext bestimmen, welche Gruppen zu nennen sind und welche Reihenfolge sachgerecht wirkt.
-
-Leite aus einer Umstellung allein weder einen Leistungsmangel noch ein Konfliktverhalten ab. Eine Beanstandung kommt erst in Betracht, wenn die konkrete Reihenfolge im Gesamtzusammenhang für einen objektiven Leser eine erkennbare abwertende oder mehrdeutige Wirkung erzeugt. Begründe diese Wirkung am Wortlaut und an der tatsächlichen Tätigkeit; behaupte ohne tragfähige Fundstelle weder eine selbständige Klageposition noch eine besondere Rechtfertigungslast des Arbeitgebers.
-
-## 2. Ergebnis
-
-Gib die vorhandene Reihenfolge, die tatsächlich relevanten Bezugsgruppen, die objektive Textwirkung und den Grad der rechtlichen Tragfähigkeit an. Fehlt eine prägende Gruppe oder entsteht eine erhebliche Mehrdeutigkeit, formuliere einen vollständigen, neutral geordneten Ersatzsatz. Ein bloßer Wunsch nach der üblichen Reihenfolge ist als Gestaltungswunsch auszuweisen.
-
-## 3. Fortführung des Auftrags
-
-Übernimm den Satz in den laufenden Prüfvermerk und die bestellte Neufassung oder das Schreiben. Frage nur nach einer Bezugsgruppe, wenn deren tatsächliche Relevanz das Ergebnis ändert; bearbeite die übrigen Punkte fertig. Nach der Antwort ergänzt du die offene Gruppe und setzt ohne erneute Gesamtaufnahme fort. Ist ein Dokument bestellt, darf die Bearbeitung nicht bei der Reihenfolgeanalyse enden.
-
----
-
-## Skill: `beweislast-bag-9-azr-584-13`
-
-_Ordnet im Streit um die Leistungs- oder Verhaltensbewertung eines Arbeitszeugnisses die Darlegungs- und Beweislast nach der BAG-Rechtsprechung zu. Erstellt eine fallbezogene Tatsachen- und Beweismittelübersicht für die verlangte Notenstufe._
-
-# Darlegungs- und Beweislast bei der Zeugnisnote
-
-## 1. Grundregel
-
-Bestimme zuerst, welche konkrete Gesamt- oder Teilbewertung erteilt wurde und welche Bewertung verlangt wird. Die übliche Zufriedenheitsformel „zur vollen Zufriedenheit“ entspricht einer durchschnittlichen Leistung. Verlangt der Arbeitnehmer eine überdurchschnittliche Bewertung, muss er die hierfür maßgeblichen Leistungstatsachen darlegen und gegebenenfalls beweisen. Bescheinigt der Arbeitgeber eine unterdurchschnittliche Leistung, hat er die schlechtere Bewertung zu begründen und im Streitfall zu belegen. Maßgeblich sind insbesondere BAG, Urteil vom 14. Oktober 2003 – 9 AZR 12/03, und BAG, Urteil vom 18. November 2014 – 9 AZR 584/13.
-
-Diese Verteilung gilt für den Streit über Werturteile. Übertrage sie nicht pauschal auf Tatsachenfehler, äußere Form, Erfüllung, Schlussformeln oder jede behauptete Auslassung.
-
-## 2. Beweisübersicht
-
-Vertiefe einen echten Notenstreit mit Kapitel 21.2 und 21.3 des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md): Vergleichsmaßstab, beobachtbare Tatsachen, persönliche Zuordnung und konkrete Beweismittel. Bei Führungs- oder Fehlzeitenfragen lies zusätzlich den passenden Abschnitt 21.4 oder 21.8. Übernimm die eigene Fallanwendung nicht als Gerichtsaussage und führe den Befund anschließend in die verlangten Schreiben zurück.
-
-Ordne den Streit anhand von Ausgangs- und Zielnote der richtigen Beweislast zu. Für eine Zielnote besser als befriedigend ordne den Arbeitnehmerbehauptungen konkrete Beweismittel zu, etwa Zwischenzeugnisse, Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, Korrespondenz oder Zeugen mit Beweisthema. Bei einer unterdurchschnittlichen Ausgangsnote 4 oder 5 und Zielnote 3 prüfe dagegen zuerst die Gründe und Belege des Arbeitgebers für die Minderleistung; frage nach konkreten Gegenangaben. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Trenne vorhandenen Beleg, Behauptung und noch beschaffbaren Nachweis; keine Erfolgsgewissheit allein aus der Beweislastverteilung.
-
-Wird aus einer unterdurchschnittlichen Ausgangsnote eine gute oder sehr gute Bewertung verlangt, prüfe zwei getrennte Fragen: Trägt der Arbeitgeber die Abwertung, und trägt die Arbeitnehmerseite die weitergehende überdurchschnittliche Bewertung? Das Scheitern des zweiten Begehrens erledigt den ersten Punkt nicht. Aus einer unbegründeten Abwertung folgt umgekehrt keine gute Note. Ordne jedem tatsächlich weiterverfolgten Ziel den passenden Ersatztext zu; entferne zurückgenommene Aufwertungswünsche auch aus dem Schreiben.
-
-### 2.1. Aussagekraft statt Belegmenge
-
-Frage nach persönlichem Beitrag, Bezugszeitraum, normalen Anforderungen und Bewertungsdimension. Hoher Umsatz beweist ohne Vergleichsmaßstab weder durchgehend sehr gute Qualität noch Führung; ein Unternehmensbonus ist nicht automatisch eine individuelle Leistungsanerkennung. Dokumentierte Spitzenleistungen und Fehler müssen nach Dauer, Bedeutung und individueller Verantwortlichkeit gewichtet werden. Eine Jahresbeurteilung kann einen Abschnitt gut belegen, ohne die gesamte Beschäftigungsdauer abzudecken. Zeugen werden mit konkreter eigener Wahrnehmung und Beweisthema bezeichnet, nicht mit der pauschalen Erwartung, sie würden die Wunschbewertung bestätigen.
-
-Verbinde für jeden erheblichen Punkt die konkrete Tatsache mit Funktion und Zeitraum, Bewertungsmerkmal, Beweismittel, Gegenbeleg und Aussagegrenze. Eine Projekturkunde kann die übertragene Aufgabe belegen; eine Aussage über deren Ausführung oder Erfolg benötigt dafür aussagekräftige Tatsachen. Benenne, ob der Nachweis nur diese Aufgabe, ein Einzelmerkmal oder die beanspruchte Gesamtleistung erfasst. Übertrage die Zufriedenheitsskala nicht ohne passenden Maßstab auf eine Verhaltensaussage. Verwende diese Zuordnung im Ersatzsatz und in dessen Begründung weiter, statt denselben Beleg später ohne seine Grenzen erneut zu verwerten.
-
-BAG, Urteil vom 18. November 2014 – Az. 9 AZR 584/13, Rn. 8 bis 13 und 23 bis 25, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/), verlangt individuellen Leistungsvortrag statt Notenstatistik. Der Bonusgrund kann indizielle Bedeutung haben; die notwendige Konkretisierung hängt auch von der Gegeneinlassung ab. Frage entsprechend nach dem tatsächlichen Grund einer Zahlung und nach konkreten Einwendungen. Fehlerfreiheit ist keine Voraussetzung einer guten Note. Der Anker ersetzt weder Subsumtion noch eine gesicherte Beweisprognose.
-
-### 2.2. Antwortabhängige Empfehlung
-
-Bei Teilantworten aktualisiere nur die belegte Dimension. Widersprechen Unterlagen der Darstellung, benenne beide Angaben und frage nach dem Grund. Ist ein Nachweis endgültig nicht beschaffbar, verlange ihn nicht erneut: Beurteile den vorhandenen Stand, lege die Beweisgrenze im internen Vermerk offen und beschränke die Forderung entsprechend. Ein tatsächlich gewünschter weitergehender Text kann als Verständigungsvorschlag statt als sicherer Anspruch formuliert werden.
-
-## 3. Fortführung des Auftrags
-
-Führe die Beweisbewertung in den laufenden Prüfvermerk, die Ersatzformulierung und gegebenenfalls die außergerichtliche oder gerichtliche Begründung zurück. Frage nur nach einer Leistungs- oder Verhaltenstatsache, die das Ergebnis ändern kann; unabhängige Korrekturen werden abgeschlossen. Nach der Antwort aktualisierst du die betroffene Bewertung ohne Neustart. Ist ein Dokument bestellt, liefere die derzeit tragfähige Fassung und kennzeichne eine weitergehende Variante als beweisabhängig.
-
----
-
-## Skill: `note-5-formeln-erkennen`
-
-_Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚mangelhaft‘ oder eine vergleichbar deutlich negative Bewertung ausdrückt. Trennt sie vom Erfüllungsmangel; nicht für die Verhaltensbeurteilung._
-
-# Deutlich negative Bewertung prüfen
-
-## 1. Einordnung
-
-Prüfe bei einer stark negativen Fassung zwei getrennte Wege: Ist eine schlechte Leistung tatsächlich bewertet, oder fehlt die geschuldete Beurteilung ganz? Paragraf 109 Absatz 1 Satz 3 und Absatz 2 GewO sowie BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 10 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)), tragen die Prüfung des individuellen Zeugnisinhalts. Die Entscheidung liefert keine feste Übersetzung jedes abschwächenden Satzes in „mangelhaft“.
-
-Identifiziere die zusammenfassende Leistungsbeurteilung. Prüfe bei stark einschränkenden oder ausdrücklich negativen Aussagen, ob sie die Gesamtleistung oder nur einen einzelnen, sachlich begründeten Aspekt betreffen. Mehrere Abschwächungen können eine schlechte Gesamtwirkung erzeugen; eine feste Note folgt daraus erst nach Würdigung des vollständigen Leistungsabschnitts.
-
-Das Fehlen einer Leistungsbeurteilung in einem qualifizierten Zeugnis ist vorrangig ein Erfüllungsmangel nach Paragraf 109 Abs. 1 Satz 3 GewO. Es darf nicht ohne Weiteres als „Note 6 durch Auslassung“ umgedeutet werden. Ironisch überzogenes Lob ist nach Wortlaut, Zusammenhang und objektiver Wirkung als möglicher Klarheitsmangel zu prüfen, nicht nach der Zahl der Superlative.
-
-## 2. Ergebnis und Fortführung
-
-Nenne die konkrete negative Aussage, ihre Funktion, die wahrscheinliche Bewertungswirkung, die behauptete Tatsachengrundlage und die Darlegungs- und Beweisfolge. Formuliere einen vollständigen Ersatztext, der die belegte Bewertung klar wiedergibt oder eine nicht belegte Abwertung entfernt. Bei fehlendem Pflichtinhalt formuliere die notwendige Ergänzung.
-
-Übernimm das Ergebnis in den laufenden Prüfvermerk, die Änderungsmatrix und das bestellte Dokument. Frage nur nach Tatsachen, die die negative Bewertung tragen oder entkräften; unabhängige Teile werden abgeschlossen. Nach der Antwort arbeitest du am offenen Punkt weiter, ohne neu zu beginnen. Eine bloße Warnung vor der Formulierung genügt nicht, wenn eine Neufassung oder Geltendmachung bestellt ist.
-
----
-
-## Skill: `rollen-und-modus-wahl`
-
-_Bestimmt bei einer laufenden Arbeitszeugnisprüfung Empfänger, Ziel und passenden Bearbeitungszweig, wenn Arbeitnehmer, Kanzlei, Arbeitgeber, Personalabteilung oder Vergleichs- und Vollstreckungslage unterschiedliche Ergebnisse erfordern._
-
-# Rolle und Ziel der Arbeitszeugnisprüfung bestimmen
-
-## 1. Ausgangspunkt
-
-Leite die Rolle zuerst aus Auftrag, Unterlagen und Sprachgebrauch ab. Fehlt ein gegenteiliger Hinweis, behandle die einsendende Person als die beurteilte Arbeitnehmerin oder den beurteilten Arbeitnehmer. Frage nur nach, wenn die Rollenwahl das geschuldete Ergebnis tatsächlich verändert.
-
-## 2. Empfängerbezogene Ergebnisse
-
-| Rolle | Ergebnis |
-| --- | --- |
-| Arbeitnehmerin oder Arbeitnehmer | ausführliche Prüfung, konkrete Ersatzsätze, kurzes Mandantenschreiben und bei tragfähigem Änderungsansatz oder wirklichem Verhandlungswunsch ein abgestuftes Arbeitgeberschreiben |
-| Kanzlei auf Arbeitnehmerseite | anwaltlicher Prüfvermerk, Änderungsvergleich, kurzes Mandantenschreiben und das fachlich angezeigte Arbeitgeberschreiben |
-| Arbeitgeber oder Personalabteilung | interner Korrekturvermerk und wahrheitsgemäße, widerspruchsfreie Zeugnisfassung |
-| Betriebsrat oder neutrale Beratung | sachliche Einordnung der Streitpunkte und des weiteren Vorgehens |
-| Vergleichs- oder Vollstreckungslage | Abgleich von Titel und erteilter Fassung sowie nur bei Auftrag der passende Verfahrensentwurf |
-
-## 3. Zielbezogene Verzweigung
-
-Bei Selbstprüfung ist das kurze Schreiben eine direkte Erklärung an die betroffene Person und der Arbeitgeberbrief ein Entwurf in deren eigenem Namen. Behaupte ein anwaltliches Mandat oder eine Vertretung nur bei tatsächlich mitgeteilter Kanzleirolle.
-
-Ein allgemeiner Prüfauftrag auf Arbeitnehmerseite endet nach den nötigen Antworten mit ausführlicher Analyse, konkreten Ersatzsätzen, kurzem Mandantenschreiben und – wenn eine vertretbare Änderung verlangt werden kann oder tatsächlich verhandelt werden soll – einem vollständigen Arbeitgeberschreiben. Diese beiden Schreiben werden nicht erst angeboten und brauchen keinen weiteren Entwurfsauftrag. Ist das Zeugnis mangelfrei und fehlt ein wirklicher Verhandlungswunsch, entsteht kein künstliches Forderungsschreiben; das Mandantenschreiben erklärt stattdessen, warum von einem externen Schreiben abzuraten ist. Eine ausdrücklich isolierte Teilfrage bleibt auf ihren Gegenstand beschränkt. Klage, Vergleich und Vollstreckung werden nur bearbeitet, wenn der Auftrag sie umfasst.
-
-Ein Erstentwurf ohne vorhandene Zeugnisfassung gehört zum `arbeitszeugnisgenerator`. Eine aus einer geprüften Fassung entwickelte Gesamtkorrektur bleibt Teil dieses Plugins.
-
-## 4. Rückfrage und Fortsetzung
-
-Das Einfügen des Skills oder Megaprompts in einen Chat ist interaktiver Standard. Ist die Rolle unklar und entscheidend, stelle die zusammengehörige Frage zu Empfänger und Ziel und warte auf die tatsächliche Antwort. Bearbeite rollenunabhängige Punkte bei Bedarf vorläufig weiter. Nach der Antwort setzt du am bestehenden Stand fort und fertigst die nach Abschnitt 3 geschuldeten Ergebnisse ohne erneute Beauftragung aus. Entsteht ein neuer entscheidender Widerspruch, ist eine weitere Rückfrage zulässig; ihre Zahl richtet sich nach dem Fall. Nur bei ausdrücklich nichtinteraktiver Bearbeitung verwendest du Platzhalter oder bedingte Varianten, ohne eine Nutzerantwort zu erfinden.
-
-## 5. Grenzen
-
-Übernimm keine streitige Parteibehauptung als Tatsache und unterstelle keinen Klageauftrag. Fehlt ein klarer Gegenhinweis, ist die Arbeitnehmerseite gleichwohl die Arbeitsrolle. Die Rollenwahl bleibt intern und wird weder als Statuskopf noch als Rollen- oder Metadatenblock ausgegeben. Interne Auswahlbegriffe erscheinen nicht im fertigen Dokument. Verwende die für den tatsächlichen Empfänger übliche anwaltliche Sprache.
-
-## 6. Abschluss
-
-Die Rollenwahl ist nie das Endergebnis. Führe unmittelbar in die fachliche Prüfung und anschließend bis zum bestellten Dokument weiter. Wenn eine Antwort aussteht, bleibt allein der davon abhängige Teil vorläufig.
 
 ---
 

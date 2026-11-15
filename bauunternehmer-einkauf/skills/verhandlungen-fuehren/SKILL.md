@@ -21,6 +21,9 @@ Lesen Sie den vergleichbaren Preisspiegel, technische Restfreigaben, Bindungsfri
 4. Entwerfen Sie interne Gesprächsregie und eine gesonderte Gesprächs- oder Mailfassung für jeden Anbieter. Belassen Sie Preisgrenze, Wettbewerberdaten und Auswahlentscheidung im internen Teil. Benennen Sie die für einen nächsten Schritt noch erforderlichen technischen und kaufmännischen Unterlagen.
 5. Protokollieren Sie jedes Ergebnis mit Status, Fassung, Gültigkeit, zuständiger Freigabe und schriftlicher Bestätigung. Halten Sie Wünsche, mündliche Hinweise, schriftlich bestätigte Bedingungen und angenommene Vereinbarungen auseinander. Aktualisieren Sie die Vergleichsrechnung nur mit eindeutig belegten Eingaben.
 
+
+Bearbeiten Sie dazu die [vertiefte Prüfung aus dem Projekteinkauf](../korrespondenz-verhandlung-reklamation/FACHINHALT.md). Übernehmen Sie deren einschlägige Beleg- und Prüfschritte in denselben Entwurf; erstellen Sie keinen zweiten parallelen Vorgang.
+
 ## 4 Quellenpflicht
 
 Belegen Sie Ziel und Grenzpreis durch die interne Freigabeunterlage, die Ausweichoption durch ein tatsächlich verfügbares Angebot und externe Zusagen durch das konkrete Schreiben. [Quellen- und Belegregel](../../references/zitierweise.md)

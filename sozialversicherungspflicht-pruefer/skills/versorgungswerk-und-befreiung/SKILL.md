@@ -15,7 +15,7 @@ Tatsächliche Tätigkeit, Beschäftigungs- oder Selbständigkeitsstatus, Kammer-
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -38,6 +38,12 @@ Eine Befreiung ist nach Absatz 5 tätigkeitsbezogen. Bei neuer Beschäftigung od
 ### 3.5. Andere Tätigkeit und weitere Zweige bearbeiten
 
 Eine zeitlich begrenzte andere Tätigkeit nur unter den Voraussetzungen des Absatzes 5 Satz 2 erfassen, nicht als beliebige Portabilität. Eine Geschäftsführertätigkeit ist nicht schon wegen einer Anwaltszulassung anwaltlich. Mehrere Tätigkeiten, Vergütungen und Beiträge getrennt darstellen. Beim Ergebnis ausdrücklich sagen, welcher Zweig, welche Tätigkeit und welcher Zeitraum erfasst sind.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [Berufsständische Versorgung Anwälte](../berufsstaendische-versorgung-anwaelte/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

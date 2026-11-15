@@ -15,7 +15,7 @@ Statusbefund, Entgelt beziehungsweise maßgebliches Arbeitseinkommen, Zeiträume
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -38,6 +38,17 @@ Bei Beschäftigung Gesamtsozialversicherungsbeitrag, Arbeitgeberpflicht und begr
 ### 3.5. Ergebnis nutzbar machen
 
 Liefere belegte Zahlen nur im tatsächlich geprüften Umfang, offene Parameter als konkrete Nachforderung und einen abgleichbaren Zahlungsplan. Vor Einreichung oder Lohnkorrektur sind die tatsächlichen Eingaben und Zuständigkeiten zu bestätigen. Kein Steuer- oder Strafverfahren ohne entsprechenden Auftrag mitentscheiden.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [Beitragsnachforderung und Haftung](../beitragsnachforderung-haftung/FACHINHALT.md)
+- [Geringfügigkeit und Minijob](../geringfuegigkeit-minijob/FACHINHALT.md)
+- [Kranken-, Pflege- und Arbeitslosenversicherung](../kranken-pflege-arbeitslosenversicherung/FACHINHALT.md)
+- [Kurzfristige Beschäftigung](../kurzfristige-beschaeftigung-obligatorisches/FACHINHALT.md)
+- [Rückabwicklung nach Umqualifizierung](../nachversicherung-rueckabwicklung/FACHINHALT.md)
+- [Übergang und Beitragsschuld](../uebergang-beitragsschuld/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

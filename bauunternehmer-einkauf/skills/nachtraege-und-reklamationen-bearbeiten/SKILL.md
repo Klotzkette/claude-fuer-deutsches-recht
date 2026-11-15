@@ -20,6 +20,14 @@ Lesen Sie Ursprungsvertrag, maßgebliches LV, spätere Pläne und Anordnungen, A
 3. Rechnen Sie Zusatzmenge, Mehr- und Minderkosten und belegte Zeitwirkungen nach. Vermeiden Sie doppelte Ansätze zwischen Nachtrag und schon beauftragter Leistung. Prüfen Sie Rüge, Anzeige, Vorbehalt oder Abhilfe je nach konkretem Vertragsregime und Dringlichkeit. Trennen Sie bei Gefahr die unverzügliche betriebliche Eskalation von der rechtlichen Verantwortungsfrage.
 4. Entwerfen Sie einen Antworttext mit tatsächlicher Abweichung, Aufforderung, nachvollziehbarer Frist, erforderlichen Belegen und einer für den Fall passenden Vorbehaltsformulierung. Dokumentieren Sie einen Vergleichsvorschlag und etwaige Befugnisse intern.
 
+
+Bearbeiten Sie dazu die [vertiefte Prüfung aus dem Projekteinkauf](../korrespondenz-verhandlung-reklamation/FACHINHALT.md). Übernehmen Sie deren einschlägige Beleg- und Prüfschritte in denselben Entwurf; erstellen Sie keinen zweiten parallelen Vorgang.
+
+
+Bearbeiten Sie dazu die [vertiefte Prüfung aus dem Projekteinkauf](../nachtraege-pruefen/FACHINHALT.md). Übernehmen Sie deren einschlägige Beleg- und Prüfschritte in denselben Entwurf; erstellen Sie keinen zweiten parallelen Vorgang.
+
+Bei einem Nachtrag sind Anspruchsgrund, angeordnete Leistung, tatsächliche Ausführung und prüfbarer Preis getrennt zu belegen. Teilen Sie Geräte- und Personalzeit in Nutzung, Vorhaltung und Ausfall; rechnen Sie Minderkosten und schon vergütete Leistungen gegen. Bei einer Rüge trennen Sie Charge, Musterstand, beobachtete Abweichung und noch offene Ursache. Prüfen Sie die rechtzeitige Absendung nach § 377 Abs. 4 HGB gesondert von anderen Zugangsfragen.
+
 ## 4 Quellenpflicht
 
 Verweisen Sie bei jeder Position auf Vertrag, belegt relevante Anweisung, Aufmaß, Rechnung oder Beleg der Abweichung. Verwenden Sie gesicherte Rechtsquellen für Voraussetzungen und Rechtsfolgen. [Quellen- und Belegregel](../../references/zitierweise.md)

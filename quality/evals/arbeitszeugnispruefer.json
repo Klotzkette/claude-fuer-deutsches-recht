@@ -149,9 +149,9 @@
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "sha256": "72766029d8a94c580d916bd2d6f8917a36cb07587553b148332591828dc96793",
+    "sha256": "cc116a5479ada6fa1967362de8f9b5df226bc16ac475d45c2030f8a60bcfe3d2",
     "verdict": "revised",
-    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe. Redaktionelle Anschlussprüfung 16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Redaktionelle Anschlussprüfung der Zusammenführung: begrenzter Analyse-/Fassungsvergleichsauftrag ausdrücklich von vollständiger Arbeitnehmerberatung getrennt; weitere Kontext- und Beleggrenzen aufgenommen. Der bisherige Hauptteil einschließlich eingebettetem Arbeitsbuch bleibt bytegleich. Keine erneute Gesamtprüfung und kein Live-Modelltest.",
     "changes": [
       "Materielle Rückfragen führen zu echtem Warten; gesicherte Teile dürfen vorläufig bleiben, endgültige Empfängerschreiben folgen nach der Antwort.",
       "Streitstellenmatrix verbindet Originaltext, Wirkung, Beleg, Rechtsregel, Ersatzfassung, Gegenposition und Risiko.",
@@ -170,15 +170,18 @@
       "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen.",
       "Am 08.10.2026 redaktionell geprüft: verständlicher Einstieg, vollständige Handbuchkapitel 20 bis 23 mit differenzierten Entscheidungsbefunden, Quellenstatus und eigenen Anwendungen; Verfahrensausgang 9 AZR 12/03 nach unabhängigem Gegencheck berichtigt.",
       "Word-Anweisungen trennen Markierung, Volltext, Original, Arbeitskopie und bestätigte Bearbeitungsfunktionen. Die dokumentierten Dialogproben des großen Einzeldatei-Skills verwenden dasselbe Handbuch; kein Live-Word-Test und kein pauschales Bestehen der 19 redaktionellen Prüffälle behauptet.",
-      "16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen."
+      "16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen.",
+      "15.11.2026: Abschnitt 1.1 präzisiert begrenzte Analyse, Fassungsvergleich, Belegreichweite und Darstellung ohne automatische Briefe oder Rechennoten; eingebetteter Handbuchblock unverändert."
     ],
-    "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "reviewed_on": "2026-11-15",
+    "latest_editorial_scope": "Desk-Review des eingefügten Abschnitts 1.1, der acht auswählbaren Arbeitswege und der gemeinsamen Anwendungsvorgaben. Regressionen der ursprünglichen 31 Fachtexte bleiben gesondert bestehen; 48 Analyse-Vertiefungen sind vollständig zugeordnet. Der Dateihash bindet die ganze Werkstatt, bestätigt aber keine neue juristische Vollprüfung des Hauptteils."
   },
   "selection": {
     "positive": [
       "Prüfen Sie mein vorhandenes Arbeitszeugnis aus Arbeitnehmersicht und sagen Sie mir, was ich tun soll.",
-      "Kontrollieren Sie die Zeugnisfassung mit Leistungsbelegen und formulieren Sie tragfähige Änderungen."
+      "Kontrollieren Sie die Zeugnisfassung mit Leistungsbelegen und formulieren Sie tragfähige Änderungen.",
+      "Analysieren Sie ausschließlich den Aussagegehalt dieses Zeugnisses und begründen Sie konkrete Ersatzsätze, ohne Schreiben an den Arbeitgeber.",
+      "Vergleichen Sie die beiden erteilten Zeugnisfassungen und unterscheiden Sie gleichwertige Klarstellungen von tatsächlichen Verschlechterungen."
     ],
     "negative": [
       "Erstellen Sie erstmals ein Zeugnis aus Personalnotizen ohne vorhandene Fassung.",
@@ -851,6 +854,102 @@
         }
       ],
       "target_skill": "zeugnisbericht-muster-qualitaet-bearbeiten"
+    },
+    {
+      "id": "merge-isolierte-analyse-ohne-briefpaket",
+      "request": "Bitte analysieren Sie nur den Aussagegehalt der folgenden drei vollständigen Bewertungssätze aus meinem qualifizierten Arbeitszeugnis; keine Mandanten- oder Arbeitgeberbriefe und keine Klage. Die übrigen Daten und Tätigkeitsangaben sind richtig und nicht streitig. Wortlaut: „Frau Linde verfügte über sehr umfassende Fachkenntnisse. Sie nahm eigeninitiativ regelmäßig erfolgreich an Fortbildungen teil. Sie erledigte ihre Aufgaben stets zu unserer vollen Zufriedenheit.“ Ich frage nur, ob der Fortbildungssatz die Fachkenntnisse heimlich abwertet. Leistungsbelege für eine bessere Gesamtbewertung habe ich nicht, die Note möchte ich auch nicht ändern.",
+      "input_files": [],
+      "deliverables": [
+        "analyse.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfüllt den ausdrücklich isolierten Analyseauftrag ohne automatische Mandanten-/Arbeitgeberbriefe und ohne Klage.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Fachwissen, Fortbildung und Gesamtleistung; leitet aus dem fehlenden Steigerungswort keine automatische Note oder versteckte Abwertung ab.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erklärt Gesamtzusammenhang und verbleibende Aussagegrenze mit konkreten Textstellen; erfindet weder Leistungstatsachen noch unbestellte Aufwertung.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        }
+      ],
+      "target_skill": "einstieg-routing"
+    },
+    {
+      "id": "merge-fassungsvergleich-keine-rechennote",
+      "request": "Vergleichen Sie ausschließlich diese zwei erteilten Zeugnisfassungen. Beide sind vollständig und korrekt unterschrieben, alle übrigen Sätze sind identisch und nicht streitig. Vorfassung: „Herr Seidel koordinierte während der sechswöchigen Urlaubsvertretung die Terminplanung des vierköpfigen Projektteams. Seine Arbeitsergebnisse lagen über den vereinbarten Anforderungen.“ Neufassung: „Während einer sechswöchigen Urlaubsvertretung stimmte Herr Seidel die Termine des Projektteams mit vier Beschäftigten ab. Seine Arbeitsergebnisse entsprachen den vereinbarten Anforderungen.“ Der Projektauftrag belegt nur die befristete Terminabstimmung, keine disziplinarische Leitung. Für eine Änderung der Ergebnisbewertung nennt der Arbeitgeber keinen Grund; konkrete Leistungsbelege liegen noch nicht vor. Bitte Unterschiede und nächsten belegbaren Schritt erläutern, keine Endnote errechnen und keine Briefe erstellen.",
+      "input_files": [],
+      "deliverables": [
+        "analyse.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft die Tätigkeitsumformulierung als mögliche gleichwertige Beschreibung und erfindet keine dauerhafte Personalverantwortung.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt die materielle Veränderung der Ergebnisaussage getrennt vom Tätigkeitsstil; benennt die fehlenden Gründe/Belege und passende konkrete Nachfrage.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bildet weder gewichtete Satznote noch pauschalen Drift-Abzug; bleibt beim bestellten Vergleich und stellt fehlende Tatsachen nicht als erwiesen dar.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        }
+      ],
+      "target_skill": "leistung-verhalten-noten-bearbeiten"
+    },
+    {
+      "id": "merge-keine-diagnose-aus-codewort",
+      "request": "Bitte prüfen Sie nur diesen vollständigen Verhaltensabsatz meines Zeugnisses: „Frau Riedel pflegte einen offenen und direkten Kommunikationsstil. Sie trug zum guten Betriebsklima bei und erledigte die ihr übertragenen Abrechnungen sorgfältig und korrekt.“ Meine Tätigkeit war Sachbearbeitung mit Abrechnungsaufgaben. Die übrigen Zeugnisabschnitte sind richtig und nicht streitig. Jemand behauptet, der Absatz sage heimlich, ich hätte Alkoholprobleme und Geld unterschlagen. Dafür gibt es keinerlei Tatsachen oder bekannte Vorgeschichte. Bitte diese Behauptung einordnen und gegebenenfalls eine klare Formulierungsalternative nennen; ich beauftrage kein Forderungsschreiben.",
+      "input_files": [],
+      "deliverables": [
+        "analyse.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Leitet keine Erkrankung, Sucht oder Straftat aus vermeintlichen Codewörtern ab und macht die behauptete Vorgeschichte nicht zur Tatsache.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Würdigt den vollständigen Absatz anhand der beschriebenen Tätigkeit und trennt mögliche Textwirkung von tatsächlicher Eigenschaft.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert verständliche Analyse und gegebenenfalls eine klar gekennzeichnete Stilalternative; behauptet keinen sicheren Anspruch auf beliebigen Wunschwortlaut und erstellt keine unbestellten Briefe.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        }
+      ],
+      "target_skill": "formulierungen-klarheit-schluss-bearbeiten"
     }
   ],
   "prompt_workflow_review": {
@@ -1016,12 +1115,96 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
+    "date": "2026-11-15",
     "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
-      "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md"
+      "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+      "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md"
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "reviewed_file_hashes": {
+    "arbeitszeugnispruefer/skills/berichtigung-anspruch-verfahren-bearbeiten/SKILL.md": "d0c99b33ab449502a79312791240440e1da34b81a3a72fd46d934e50942bab37",
+    "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md": "80cdb1a81b160f7003345730faec15ede815ff8ae64ad8ac3ec64386b169dbbd",
+    "arbeitszeugnispruefer/skills/formulierungen-klarheit-schluss-bearbeiten/SKILL.md": "a5bc30fff1f3d924f8b968042bbe496c683a922dfbe1bdb4aa4a624c783ad3d5",
+    "arbeitszeugnispruefer/skills/juristischer-argumentationskern/SKILL.md": "5bafba0fe1379d7664a0ad40d65ec4ef0b83a7190148cf5ce7f8fa4c883e13c7",
+    "arbeitszeugnispruefer/skills/kaltstart-triage/SKILL.md": "bf96824b6db1281a390a00e7b30dd6d928d991c1902850b4712ceeb3bbe1b0d2",
+    "arbeitszeugnispruefer/skills/leistung-verhalten-noten-bearbeiten/SKILL.md": "7885ff32642c407e2b6d4fbf98ad273f1a40ebd069b86f2eb545f102ae4f6a07",
+    "arbeitszeugnispruefer/skills/zeugnisauftrag-form-taetigkeit-bearbeiten/SKILL.md": "b2020c773fca94438c79458873fc5c2ef79c5432326da9d21f446ecd7f8820e5",
+    "arbeitszeugnispruefer/skills/zeugnisbericht-muster-qualitaet-bearbeiten/SKILL.md": "ce7d76e7a8f3ffbd533dda9e5c1cc19c8a8e33e4ef43688732aefdfe48289db3",
+    "arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md": "52ad2c2b797b0816bfa3c5bb952e137e4df8d8344fd9269cb890f40f2e9fcbac"
+  },
+  "plugin_merge_review_2026_11_15": {
+    "method": "desk_review",
+    "date": "2026-11-15",
+    "scope": "Zusammenführung von Arbeitszeugnisanalyse und Arbeitszeugnisprüfer: acht aktive Wege, 78 zugeordnete Vertiefungen, drei zusätzliche redaktionelle Ergebnisfälle. Begrenzte amtliche Gegenprüfung der Konflikte um Kontext, Schlussformel, Beweislast und Tabellenform. Keine pauschale aktuelle Prüfung des gesamten Arbeitsbuchs oder der ganzen Bibliothek.",
+    "previous_workshop_review": {
+      "sha256": "72766029d8a94c580d916bd2d6f8917a36cb07587553b148332591828dc96793",
+      "verdict": "revised",
+      "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe. Redaktionelle Anschlussprüfung 16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "changes": [
+        "Materielle Rückfragen führen zu echtem Warten; gesicherte Teile dürfen vorläufig bleiben, endgültige Empfängerschreiben folgen nach der Antwort.",
+        "Streitstellenmatrix verbindet Originaltext, Wirkung, Beleg, Rechtsregel, Ersatzfassung, Gegenposition und Risiko.",
+        "Mandantenschreiben in einfacher Sie-Sprache von der ausführlichen Analyse getrennt; Arbeitgeberschreiben nach objektivem Anspruch, Beweisrisiko oder Verhandlungswunsch abgestuft.",
+        "BAG-Anker zu Zwischenzeugnis, Beweislast, Klarheit, Tabellenform, Schlussformel, Maßregelung und Titelbestimmtheit mit ausdrücklichen Grenzen integriert.",
+        "Zehn fallbezogene Fragepfade mit benötigtem Beleg und konkreter Folgeentscheidung; kein pauschaler Fragebogen.",
+        "Rechtsprechung als Maßstab, Rückfrage und Subsumtion; 8 AZB 25/25 gegen 9 AZB 49/16 abgegrenzt.",
+        "Abschließende Kontrolle neuer Fassungen auf Änderungen außerhalb der beanstandeten Stellen.",
+        "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte.",
+        "Aktuellen Dialogstand mit Vorausverzicht, internationaler Anknüpfung und offener Teilvollstreckung zusammengeführt; beide zusätzlichen Verfahrensfälle bleiben erhalten.",
+        "Belegreichweite nach Zeitraum, persönlichem Anteil und Bewertungsmerkmal; getrennte Abwehr einer Abwertung und weitergehende Aufwertung.",
+        "Abhilfeziel und Formulierungsvorschlag getrennt; gleichwertige Korrektur und tatsächlich erteiltes Zeugnis kontrollieren.",
+        "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
+        "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
+        "Datierung und Unterzeichnerrang mit transparent bezeichneten Altquellen; Zwischenzeugnisbindung nach Betriebsübergang und Übernahme eines Arbeitnehmerentwurfs.",
+        "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen.",
+        "Am 08.10.2026 redaktionell geprüft: verständlicher Einstieg, vollständige Handbuchkapitel 20 bis 23 mit differenzierten Entscheidungsbefunden, Quellenstatus und eigenen Anwendungen; Verfahrensausgang 9 AZR 12/03 nach unabhängigem Gegencheck berichtigt.",
+        "Word-Anweisungen trennen Markierung, Volltext, Original, Arbeitskopie und bestätigte Bearbeitungsfunktionen. Die dokumentierten Dialogproben des großen Einzeldatei-Skills verwenden dasselbe Handbuch; kein Live-Word-Test und kein pauschales Bestehen der 19 redaktionellen Prüffälle behauptet.",
+        "16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen."
+      ],
+      "reviewed_on": "2026-10-16",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    },
+    "preserved_mini_sha256": "624fa59204c00a730d6a5f333501bc9cdee7a5a7744df38e97d076adad486f9b",
+    "preserved_handbook_sha256": "0934cc7876125277e39bf33bb35348d93bbb041d987ce1f50182e9ea36fe482d",
+    "limits": "Keine Live-Ausführung in ChatGPT, Claude, Word oder einer anderen Modelloberfläche. Die neuen Ergebnisfälle sind Prüfvorgaben und keine als bestanden ausgegebenen Modelltests. Frühere Prüfungen und Quellenzeitpunkte bleiben unverändert.",
+    "sources_checked": [
+      {
+        "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+        "checked_on": "2026-11-15",
+        "scope": "Aktueller Normtext zu Zeugnisart, Klarheit und Einwilligung in elektronische Form."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/bbig_2005/__16.html",
+        "checked_on": "2026-11-15",
+        "scope": "Aktueller Normtext zum Ausbildungszeugnis."
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+        "checked_on": "2026-11-15",
+        "scope": "Entscheidungsdaten und amtlicher Text zum kontextbezogenen Verständnis der Wendung kennen gelernt."
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+        "checked_on": "2026-11-15",
+        "scope": "Entscheidungsdaten, Leitsatz und Gegenstand zur besseren Schlussbeurteilung und Leistungstatsachen."
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+        "checked_on": "2026-11-15",
+        "scope": "Entscheidungsdaten und Entscheidungsgegenstand zur erstmaligen Dankes-/Wunschformel."
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+        "checked_on": "2026-11-15",
+        "scope": "Entscheidungsdaten und Fallkontext zur Entfernung einer Schlussformel nach Beanstandung; vorhandene differenzierte Motivgrenze erhalten."
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+        "checked_on": "2026-11-15",
+        "scope": "Entscheidungsdaten und Leitsatz zur Beurteilung in schulzeugnisartiger Tabellenform."
+      }
+    ]
   }
 }

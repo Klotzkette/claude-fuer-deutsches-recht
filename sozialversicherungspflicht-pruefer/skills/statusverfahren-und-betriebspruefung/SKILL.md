@@ -15,7 +15,7 @@ Bescheide und Anhörungen vollständig einschließlich Anlagen/Rechtsbehelfsbele
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -38,6 +38,31 @@ Lies angekündigte oder getroffene Entscheidung, Zeitraum und tragende Begründu
 ### 3.5. Zahlungswirkung und Bestandskraft gesondert klären
 
 Widerspruch und Klage gegen Entscheidungen nach Paragraf 7a Absatz 2 und Absatz 4a haben nach Absatz 6 aufschiebende Wirkung. Daraus folgt nicht dieselbe Wirkung für jeden Beitragsbescheid; Paragraf 86a Absatz 2 Nummer 1 SGG und konkreter Rechtsschutz sind gesondert zu prüfen. Bestandskräftige Entscheidungen verlangen eine eigene Prüfung nach SGB X; insbesondere Paragraf 127 macht nicht automatisch alle Altbescheide nichtig. Verjährung nach Paragraf 25 SGB IV, Hemmung und Vorsatzfragen anhand der konkreten Tatsachen bearbeiten.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [Anhörung und Erwiderung](../anhoerung-erwiderung-anwalt-freier/FACHINHALT.md)
+- [Beitragsbeginn und Vertrauensschutz](../beitragsbeginn-und-vertrauensschutz/FACHINHALT.md)
+- [Bescheidanalyse Status/Beiträge](../bescheid-analyse/FACHINHALT.md)
+- [Betriebsprüfung § 28p SGB IV](../betriebspruefung-28p/FACHINHALT.md)
+- [Einstweiliger Rechtsschutz Sozialgericht](../einstweiliger-rechtsschutz-ersatzkraefte/FACHINHALT.md)
+- [Gruppenfeststellung gleichartige Aufträge](../gruppenfeststellung-gleichartige-auftraege/FACHINHALT.md)
+- [Optionales Anfrageverfahren](../optionales-anfrageverfahren/FACHINHALT.md)
+- [§ 7a SGB IV Statusfeststellung](../paragraf-7a-statusverfahren/FACHINHALT.md)
+- [Prognoseentscheidung vor Einsatzbeginn](../prognoseentscheidung-vorab/FACHINHALT.md)
+- [Sozialgerichtliche Klage](../sozialgericht-klage/FACHINHALT.md)
+- [Statusbescheid und Bestandskraft](../statusbescheid-bestandskraft/FACHINHALT.md)
+- [Stellungnahme an DRV](../stellungnahme-drv/FACHINHALT.md)
+- [Weisungsgebundenheit](../weisungsgebundenheit-widerspruch-klage/FACHINHALT.md)
+- [Widerspruch und Sozialgericht](../widerspruch-klage-sozialgericht/FACHINHALT.md)
+
+Die vollständigen ergänzenden Arbeitsanweisungen bleiben als Referenz verfügbar:
+
+- [drv-verfahren-rechtsschutz-bearbeiten](../drv-verfahren-rechtsschutz-bearbeiten/REFERENZ.md)
+
+Für die konkrete Akte können die [DRV-Dokumentenliste](../../assets/templates/drv-antrag-dokumentenliste.md) und die [Indizienmatrix](../../assets/templates/statusfeststellung-indizienmatrix.csv) ausgefüllt werden. Beides ersetzt weder die vollständige Aktenlektüre noch die begründete Gesamtwürdigung.
 
 ## 4. Quellenpflicht
 
