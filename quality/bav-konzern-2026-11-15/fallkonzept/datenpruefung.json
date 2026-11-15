@@ -1,0 +1,265 @@
+{
+  "scope": "Quelldaten und Rechenkontrollen; keine PDF-Sichtprüfung oder rechtliche Vollprüfung",
+  "cases": [
+    {
+      "slug": "bav-carve-out-rheinbogen-automation",
+      "source_sha256": "5db937fd5ef6f23576381a77887e62ec0cb29042890854bf47c941d1a673d15c",
+      "originals": 36,
+      "grundakte": 31,
+      "fortsetzung": 5,
+      "text_words": 6853,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".pptx",
+        ".txt",
+        ".xlsx"
+      ],
+      "formula_controls": [
+        {
+          "workbook": "Grundakte/28_Personal_Detailauszug.xlsx",
+          "sheet": "Gesamtbestand",
+          "cell": "B9",
+          "expected": "1376",
+          "observed": "1376"
+        },
+        {
+          "workbook": "Grundakte/28_Personal_Detailauszug.xlsx",
+          "sheet": "Gesamtbestand",
+          "cell": "C9",
+          "expected": "46800000",
+          "observed": "46800000"
+        },
+        {
+          "workbook": "Grundakte/29_Preisbruecke.xlsx",
+          "sheet": "Szenarien",
+          "cell": "E6",
+          "expected": "18800000",
+          "observed": "18800000"
+        },
+        {
+          "workbook": "Grundakte/29_Preisbruecke.xlsx",
+          "sheet": "Szenarien",
+          "cell": "F6",
+          "expected": "73200000",
+          "observed": "73200000"
+        },
+        {
+          "workbook": "Grundakte/29_Preisbruecke.xlsx",
+          "sheet": "Szenarien",
+          "cell": "E7",
+          "expected": "21200000",
+          "observed": "21200000"
+        },
+        {
+          "workbook": "Grundakte/29_Preisbruecke.xlsx",
+          "sheet": "Service",
+          "cell": "E6",
+          "expected": "72000",
+          "observed": "72000"
+        }
+      ]
+    },
+    {
+      "slug": "bav-pensionskasse-niederrhein-verbund",
+      "source_sha256": "cc0e941c8945a30b35a7fd525d9b052798b26280f124f0502f9ca44bf0b8cab7",
+      "originals": 35,
+      "grundakte": 31,
+      "fortsetzung": 4,
+      "text_words": 5854,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".pptx",
+        ".xlsx"
+      ],
+      "formula_controls": [
+        {
+          "workbook": "Grundakte/27_Kuerzungen_Kohorten.xlsx",
+          "sheet": "Kohorten",
+          "cell": "B9",
+          "expected": "680",
+          "observed": "680"
+        },
+        {
+          "workbook": "Grundakte/27_Kuerzungen_Kohorten.xlsx",
+          "sheet": "Kohorten",
+          "cell": "G9",
+          "expected": "18000",
+          "observed": "18000"
+        },
+        {
+          "workbook": "Grundakte/27_Kuerzungen_Kohorten.xlsx",
+          "sheet": "Kohorten",
+          "cell": "H9",
+          "expected": "23000",
+          "observed": "23000"
+        },
+        {
+          "workbook": "Grundakte/27_Kuerzungen_Kohorten.xlsx",
+          "sheet": "Seidel",
+          "cell": "F6",
+          "expected": "72",
+          "observed": "72"
+        },
+        {
+          "workbook": "Grundakte/27_Kuerzungen_Kohorten.xlsx",
+          "sheet": "Seidel",
+          "cell": "G6",
+          "expected": "92",
+          "observed": "92"
+        },
+        {
+          "workbook": "Grundakte/28_Treasury_Planung.xlsx",
+          "sheet": "Laufender_Ausgleich",
+          "cell": "D6",
+          "expected": "72000",
+          "observed": "72000"
+        },
+        {
+          "workbook": "Grundakte/28_Treasury_Planung.xlsx",
+          "sheet": "Laufender_Ausgleich",
+          "cell": "E6",
+          "expected": "216000",
+          "observed": "216000"
+        },
+        {
+          "workbook": "Grundakte/28_Treasury_Planung.xlsx",
+          "sheet": "Laufender_Ausgleich",
+          "cell": "E7",
+          "expected": "276000",
+          "observed": "276000"
+        },
+        {
+          "workbook": "Grundakte/28_Treasury_Planung.xlsx",
+          "sheet": "Kassenfinanzierung",
+          "cell": "B9",
+          "expected": "6000000",
+          "observed": "6000000"
+        },
+        {
+          "workbook": "Grundakte/28_Treasury_Planung.xlsx",
+          "sheet": "Bestandsumfang",
+          "cell": "B9",
+          "expected": "1460",
+          "observed": "1460"
+        },
+        {
+          "workbook": "Grundakte/28_Treasury_Planung.xlsx",
+          "sheet": "Bestandsumfang",
+          "cell": "C9",
+          "expected": "320",
+          "observed": "320"
+        }
+      ]
+    },
+    {
+      "slug": "bav-rentnergesellschaft-rheinhafen-logistik",
+      "source_sha256": "80336268379042905c9912a0ec709be80e7ac5acd908aad45711418f980fb713",
+      "originals": 35,
+      "grundakte": 29,
+      "fortsetzung": 6,
+      "text_words": 6606,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".pptx",
+        ".xlsx"
+      ],
+      "formula_controls": [
+        {
+          "workbook": "Grundakte/26_Finanzierung_und_Stress.xlsx",
+          "sheet": "Ausstattung",
+          "cell": "D10",
+          "expected": "84000000",
+          "observed": "84000000"
+        },
+        {
+          "workbook": "Grundakte/26_Finanzierung_und_Stress.xlsx",
+          "sheet": "Liquiditaet",
+          "cell": "G17",
+          "expected": "1061999.96",
+          "observed": "1061999.96"
+        },
+        {
+          "workbook": "Grundakte/27_Angebotsvergleich.xlsx",
+          "sheet": "Bestand",
+          "cell": "B9",
+          "expected": "1426",
+          "observed": "1426"
+        },
+        {
+          "workbook": "Grundakte/27_Angebotsvergleich.xlsx",
+          "sheet": "Bestand",
+          "cell": "C9",
+          "expected": "620000",
+          "observed": "620000"
+        },
+        {
+          "workbook": "Grundakte/27_Angebotsvergleich.xlsx",
+          "sheet": "Bestand",
+          "cell": "D9",
+          "expected": "86400000",
+          "observed": "86400000"
+        },
+        {
+          "workbook": "Fortsetzung/30_Immobilie_Nachlieferung.xlsx",
+          "sheet": "Nettoansatz",
+          "cell": "B9",
+          "expected": "8500000",
+          "observed": "8500000"
+        }
+      ]
+    },
+    {
+      "slug": "bav-strategie-konzern-meissner-rheinwerk-ag",
+      "source_sha256": "e3a2f34eb478d1781fd29f26b4cfe7b29557caa0acbf4a2f8b386535fdf0b179",
+      "originals": 37,
+      "grundakte": 32,
+      "fortsetzung": 5,
+      "text_words": 7420,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".pptx",
+        ".txt",
+        ".xlsx"
+      ],
+      "formula_controls": [
+        {
+          "workbook": "Grundakte/30_Bestandsregister.xlsx",
+          "sheet": "Budget",
+          "cell": "B9",
+          "expected": "240000",
+          "observed": "240000"
+        },
+        {
+          "workbook": "Grundakte/30_Bestandsregister.xlsx",
+          "sheet": "Budget",
+          "cell": "C9",
+          "expected": "18000",
+          "observed": "18000"
+        },
+        {
+          "workbook": "Grundakte/30_Bestandsregister.xlsx",
+          "sheet": "Budget",
+          "cell": "D9",
+          "expected": "222000",
+          "observed": "222000"
+        }
+      ]
+    }
+  ]
+}

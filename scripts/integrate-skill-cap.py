@@ -196,10 +196,10 @@ def apply_record(before: bytes, record: dict) -> bytes:
     replacements = []
     for edit in record["edits"]:
         start = edit["before_offset"]
-        old = edit["before"].encode("utf-8")
+        old = ENGINE["edit_bytes"](edit, "before")
         if before[start:start + len(old)] != old:
             raise ValueError(f"Integrationsdelta passt nicht: {record['path']}")
-        replacements.append((start, start + len(old), edit["after"].encode("utf-8")))
+        replacements.append((start, start + len(old), ENGINE["edit_bytes"](edit, "after")))
     after, _ = ENGINE["exact_edits"](before, replacements)
     if sha(after) != record["sha256"]:
         raise ValueError(f"Integrationsdelta erreicht nicht den geprüften Zielhash: {record['path']}")

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Alte Reviews werden durch Migration weder erfunden noch stillschweigend geheilt."""
 import copy
+import base64
 import json
 from pathlib import Path
 import runpy
@@ -13,6 +14,22 @@ E = I["ENGINE"]
 
 
 class IntegrationTests(unittest.TestCase):
+    def test_encoded_revision_restores_exact_bytes_and_rejects_tampering(self):
+        before = '# Alttext\n[Beleg](../alter-pfad.md)\n'.encode()
+        after = '# Geprüfte Neufassung\n[Beleg](../neuer-pfad.md)\n'.encode()
+        edit = {'before_offset': 0, 'after_offset': 0, 'encoding': 'base64',
+                'before': base64.b64encode(before).decode(),
+                'after': base64.b64encode(after).decode()}
+        self.assertEqual(E['restore_original'](after, [edit]), before)
+        record = {'path': 'fach.md', 'sha256': E['sha'](after), 'edits': [edit]}
+        self.assertEqual(I['apply_record'](before, record), after)
+        with self.assertRaises(ValueError):
+            E['restore_original'](after + b'X', [{**edit, 'after': base64.b64encode(after + b'Y').decode()}])
+        with self.assertRaises(ValueError):
+            E['restore_original'](after, [{**edit, 'before': 'invalid!'}])
+        with self.assertRaises(ValueError):
+            E['restore_original'](after, [{**edit, 'encoding': 'unknown'}])
+
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)

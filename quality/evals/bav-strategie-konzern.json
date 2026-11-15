@@ -1,70 +1,188 @@
 {
   "schema_version": 1,
   "plugin": "bav-strategie-konzern",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-11-15",
   "sources": [
     {
-      "url": "https://www.gesetze-im-internet.de/betravg/__16.html",
-      "checked_on": "2026-09-14",
-      "supports": "Absätze 1 bis 3 und 5: Anpassungsprüfung, Vergleichswege und mehrere Ausnahmen."
+      "url": "https://www.recht.bund.de/bgbl/1/2026/14/regelungstext.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-11-15",
+      "supports": "Titel/Verkündung; Art. 1; Art. 2 Nr. 2; Art. 3 Nr. 7 (§234j); Art. 18. Grenze: Reformstatus und ausgewählte Kernänderungen; keine umfassende Kommentierung aller Artikel.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "68e9b12468cf74a88a782cf10667bc1ad007d60d79db00fab17ec22ca2b7cef7"
     },
     {
-      "url": "https://www.gesetze-im-internet.de/betravg/__1.html",
-      "checked_on": "2026-09-22",
-      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 1 Absatz 1 Satz 3 und Absatz 2 Nummer 2a BetrAVG; Artikel 2 Richtlinie (EU) 2016/2341. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+      "url": "https://www.gesetze-im-internet.de/betravg/BetrAVG.pdf",
+      "checked_on": "2026-11-15",
+      "supports": "§§ 1, 1b, 2, 3, 4, 4a, 5, 6, 7, 8, 8a, 9, 10, 11, 16, 19, 20, 24, 30c, 30f. Grenze: Normen in ihrem gelesenen Umfang; weitere Normverweise sind konkrete Folgeprüfungen, keine vollständige Kommentierung.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "900718b214d664ea85005133ae7a95149ca24995cffbfbb8f0f8d178cb811f50"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__613a.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gesamter §613a. Grenze: Tatbestand wirtschaftliche Einheit muss im Mandat tatsächlich festgestellt werden.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "2cdb17421cd546da9fa54fa6c950975496d1cd1c056d486ee3b381f0afa0229b"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__246.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gesamter §246, besonders Abs.2. Grenze: Keine automatische IFRS-Einstufung.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "3166780d5225f1085517784b828183101810923f896b72e63bc803d57d72ea30"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__253.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gesamter §253, besonders Abs.1/2/6. Grenze: Kein aktueller numerischer Bundesbankzins behauptet.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "50c490a8bff1e583252fcb6791ffa7cd708caec704d1280996499389ff6c7782"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/estg/__100.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gesamter §100 in 2026 geltender Fassung. Grenze: Reform2027 separat aus BGBl gelesen; keine vollständige bAV-Steuerprüfung.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "199f7b523dbe4493a230bf9db790e7b64d1a799436e19b5046d36a7f987e69cc"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__87.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gesamter §87. Grenze: Weitere Zuständigkeits-/Tarifnormen fallbezogen prüfen.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "ef85be7c7beeba19973df99c888fca70ade1fb511f3d4e900c31304ebaf3ec8d"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__58.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gesamter §58. Grenze: BAG247/23-Konzernfall als konkrete Auslegung, kein Automatismus.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "9f48d1eece195beeb6b6b9b06142d79fe92c7ae811f0c37259172afc0acfa03c"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/__133.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gesamter §133. Grenze: Nichtzugewiesene Verbindlichkeiten und Haftungsgrenzen differenziert.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "c9079c78c8228b7c2c2954a01a896999fe22b3e304df851be812b6314971a770"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-247-23/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.13–30. Grenze: Drei Stufen und konkrete KBV-Konzernablösung, nicht allgemeiner §16-Durchgriff.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "60e30b181bdaf840c94fd3106dd0470ad850aeb85713398b399cc558c2ef2a72"
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/",
-      "checked_on": "2026-09-22",
-      "supports": "BAG, Urteil vom 19.06.2012, 3 AZR 408/10: Bei Leistungskürzung der Pensionskasse zugesagte und gezahlte Leistung vergleichen; dynamische Satzungsverweisung beseitigt Einstandspflicht nicht. Grenze/Prüftiefe: Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden."
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.36–44. Grenze: Historischer Ausgangsfall vor Sozialpartnermodell; moderne Ausnahme gesondert.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "197f7c489873188e0ac1ff709f0f023dc1ee77ac23452ab46accf15bbc14bceb"
     },
     {
-      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-517-13/",
-      "checked_on": "2026-09-22",
-      "supports": "BAG, Urteil vom 14.07.2015, 3 AZR 517/13: Dynamische Bezugnahme bei späterer Versorgungsänderung durch dreistufigen Schutz prüfen. Grenze/Prüftiefe: Volltext Rn. 25 bis 31; kirchlicher Vertragsfall, keine steuerrechtliche Globalbewertung."
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-176-22/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.25–35. Grenze: Konkrete kirchliche Zusageauslegung, kein automatisches Ergebnis für alle Verträge.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "84148e9e95bbe5d6448b2b5952f035dcfb509a8e4ef412128c5edbaad34dcca3"
     },
     {
-      "url": "https://www.gesetze-im-internet.de/betravg/__16.html",
-      "checked_on": "2026-09-23",
-      "supports": "Absätze 3 und 4: konkret nachzuweisende Ausnahmen und begrenzte Dreikalendermonatsregel bei qualifizierter Mitteilung; keine allgemeine Klagefrist."
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-142-24/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.20–29. Grenze: Besondere Arbeitgeber-/Pensionskassenkonstellation; sämtliche Überschüsse erforderlich.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "e6db748b496a2b802cfe7f9f7038282a3d6d2cf9a5b195a1fcf1f14769dbb3c4"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-107-25/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten/Leitsatz; Rn.15–17,29–42,51–52. Grenze: Konkrete Spätehenkombination; andere Systemgrenzen nicht pauschal verworfen.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "1ddc3edf6e8cf3b34848bd0b707a43240cb5539fabc4f79988b0ddfa8846785a"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-100-25/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten/Leitsatz; Rn.29–30. Grenze: Praktische Handhabung als Auslegungshilfe; keine automatische betriebliche Übung.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "33e750207efa148ed1831fae84596d49374ef14345e8513abc2a65122d0385b8"
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/",
-      "checked_on": "2026-10-01",
-      "supports": "BAG, Urteil vom 12.05.2026, 3 AZR 159/25: Anpassungsstichtag, Bezugszeitraum und Wirksamkeitsdatum einer Tariferhöhung anhand des konkreten BV-Wortlauts zuordnen. Grenze: Keine allgemeine Einjahresverzögerung und keine Entscheidung über § 16 BetrAVG. Gelesener Umfang: Entscheidungskopf, Tatbestand und Rn. 1–19; tragend Rn. 13–17.",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.13–17. Grenze: Konkrete Tarifdynamikklausel; keine §16-Entscheidung.",
       "verification_status": "frisch_volltextpassagen",
-      "source_sha256": "ffa694ea558c24cee6a0ec67e98098a3bacafb2c5423fe02bea29ba51578ddae"
+      "source_sha256": "9574d3afe5b98d9d30c0a787c1cb42b166f283c45e6913bb718d6f73bcd27688"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-91-25/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.18–34. Grenze: Übergangsrecht/1%-Regel; offen gelassene Änderungsfrage nicht als entschieden ausgeben.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "aceb9dd4657b8f2895bcc59d8b8fe8d7aa442aa851f7c0ee2c2bf647d0c2f22c"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-298-13/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.36–45. Grenze: Wirtschaftliche Lage/Verzinsung; nicht abschließend Ausstattungshaftung.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "803dd3edfcc9d1c9db2a8c8c9d43b7efdb4c9cc4a12f2e8f6562036bfe53ddc4"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-839-13/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.25–28. Grenze: Entstehungsweg Rentnergesellschaft; keine generelle Freigabe von Assetstripping.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "350cf31b4f74d6176555d959c86313d265c47a01927b4ff920641dd85a0a410b"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-24-25/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.22–25. Grenze: Anpassung/Widerspruch/Prognose; keine starre Durchschnittsmethode.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "2863d2daa2ef2ec3168f203a1a4e0624818b8af26ef41041b93e181b2b2dcd58"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/",
+      "checked_on": "2026-11-15",
+      "supports": "Metadaten; Rn.23–43, 63–78. Grenze: Beschlussgrundlage, mögliche Genehmigung und konkrete Zweifel; nicht automatische Prüfung jeder BV. Besondere Vertrauensschutzfälle in Rn.71 offengelassen.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "1e5fef4c6a6b8ccc1b1bb367da59b2427a43aefb600fc5d1ef2cd90ae50dbf3f"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/aktuelles-und-veranstaltungen/sitzungsergebnisse/",
+      "checked_on": "2026-11-15",
+      "supports": "Aktuell sichtbare Ergebnisliste, besonders Eintrag 3 AZR 70/26 vom29.09.2026. Grenze: Kein verlinkter Volltext in sichtbarer Liste; keine tragende Rechtsaussage aus Ergebnis erfunden.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "9ac9eadfbbfde30f53e01ef13e55faa2b65550a74c801aa09495ee51b14bcca0"
     }
   ],
   "mini_review": {
-    "sha256": "be308ac6a7525f41589a11e1caa0b1186b7d90b40fb72a61260dd581d77594df",
+    "sha256": "111e23e17c2f960ff5d3697749ebd69edc5a5516e29bc07de1653d7cf587b84e",
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Redaktionelle Anschlussprüfung 16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reviewed_on": "2026-11-15",
+    "reason": "Eigenständige Neufassung vollständig redaktionell gelesen; Quellenstellen nach quellenpruefung.json geprüft. Gegenlese der Haftungs-, Übergangs-, Zuständigkeits- und Ausgabewege. Kein Live-Modelltest.",
     "changes": [
-      "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
-      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Leerstart: Besitzstand, Anpassung oder Trägerkürzung anbieten. Dateien: Zusagen still lesen; passenden Kohorten- oder Leistungsauftrag klären. Klarer Auftrag: Rechnung und bestelltes Versorgungsdokument unmittelbar erstellen.",
-      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: vertraglichen Anpassungstermin und Referenzzeitraum auseinanderhalten.",
-      "16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet."
+      "Arbeitgeberzusage, Trägerleistung, Finanzierung und Bilanzierung getrennt.",
+      "Drei-Stufen-Schutz, §16-Ausnahmen, §30c und BRSG-II-Inkrafttreten korrigiert.",
+      "Konzerntransaktionen, Rentnergesellschaft, CTA, PSV und ausformulierte Endprodukte präzisiert.",
+      "Verständlicher Einstieg, kohortenbezogene Visualisierung und Fortsetzung bei neuen Belegen."
     ],
-    "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "latest_editorial_scope": "Vollständige Textlektüre der aktiven Neufassung; Rechtsquellenprüfung nur im ausdrücklich dokumentierten Umfang. Keine vollständige Steuer-, IFRS- oder Auslandsgutachtenprüfung."
   },
   "workshop_review": {
-    "sha256": "267f5c58a0d83eca6fe7087b6a298d0f25a477d88546b00a703012807cd215d1",
+    "sha256": "9ece3f016d5b983b4e3c3f7427397095d884853e4b7fcfe16b25fa305dcf02f2",
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Redaktionelle Anschlussprüfung 16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reviewed_on": "2026-11-15",
+    "reason": "Eigenständige Neufassung vollständig redaktionell gelesen; Quellenstellen nach quellenpruefung.json geprüft. Gegenlese der Haftungs-, Übergangs-, Zuständigkeits- und Ausgabewege. Kein Live-Modelltest.",
     "changes": [
-      "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
-      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
-      "Verliererkohorten, Rentenanpassung samt begrenzter Dreimonatsregel, Pensionskassenkomponenten und Regelungskonsistenz.",
-      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Klauselgebundene Rentenanpassung konkretisiert.",
-      "16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet."
+      "Arbeitgeberzusage, Trägerleistung, Finanzierung und Bilanzierung getrennt.",
+      "Drei-Stufen-Schutz, §16-Ausnahmen, §30c und BRSG-II-Inkrafttreten korrigiert.",
+      "Konzerntransaktionen, Rentnergesellschaft, CTA, PSV und ausformulierte Endprodukte präzisiert.",
+      "Verständlicher Einstieg, kohortenbezogene Visualisierung und Fortsetzung bei neuen Belegen."
     ],
-    "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "latest_editorial_scope": "Vollständige Textlektüre der aktiven Neufassung; Rechtsquellenprüfung nur im ausdrücklich dokumentierten Umfang. Keine vollständige Steuer-, IFRS- oder Auslandsgutachtenprüfung."
   },
   "selection": {
     "positive": [
@@ -79,7 +197,7 @@
   "cases": [
     {
       "id": "drei-systeme-anpassung",
-      "request": "Erstellen Sie ergebnis.md als Entscheidungsvorlage zum 14.09.2026. Eine Unternehmensgruppe hat drei ausschließlich arbeitgeberfinanzierte Systeme: A ist eine Direktzusage ohne Anpassungsklausel; B eine Direktversicherung, bei der nach Vertrag und Abrechnungen seit Rentenbeginn sämtliche auf den Rentenbestand entfallenden Überschussanteile zur Erhöhung laufender Leistungen verwendet werden; C eine Zusage mit ausdrücklicher jährlicher Erhöhung um mindestens ein Prozent. Ein Konzernmemo behauptet, nur C könne von der dreijährigen Anpassungsprüfung ausgenommen sein und alle übrigen Systeme müssten zwingend nach Verbraucherpreisindex erhöht werden. Prüfen Sie diese Aussage, ohne unbekannte Rentenbeträge oder wirtschaftliche Daten zu ergänzen.",
+      "request": "Erstellen Sie ergebnis.md als Entscheidungsvorlage zum 14.09.2026. Eine Unternehmensgruppe hat drei ausschließlich arbeitgeberfinanzierte Systeme: A ist eine Direktzusage ohne Anpassungsklausel; B eine Direktversicherung, bei der nach Vertrag und Abrechnungen seit Rentenbeginn sämtliche auf den Rentenbestand entfallenden Überschussanteile zur Erhöhung laufender Leistungen verwendet werden; C eine im Jahr 2003 erstmals und unabhängig von einer früheren Zusage erteilte Zusage mit ausdrücklicher jährlicher Erhöhung um mindestens ein Prozent. Ein Konzernmemo behauptet, nur C könne von der dreijährigen Anpassungsprüfung ausgenommen sein und alle übrigen Systeme müssten zwingend nach Verbraucherpreisindex erhöht werden. Prüfen Sie diese Aussage, ohne unbekannte Rentenbeträge oder wirtschaftliche Daten zu ergänzen.",
       "input_files": [],
       "deliverables": [
         "ergebnis.md"
@@ -108,65 +226,307 @@
         }
       ],
       "target_skill": "bestand-erfassen-bearbeiten"
+    },
+    {
+      "id": "harmonisierung-erdiente-dynamik",
+      "request": "Erstellen Sie eine Entscheidungsvorlage für die geplante Änderung einer endgehaltsbezogenen Versorgungsordnung. Die Originalberechnung weist für den Änderungsstichtag einen erdienten Teilbetrag von 500 EUR monatlich aus; bei der zugesagten weiteren Gehaltsentwicklung ergibt sich für die bereits geleistete Dienstzeit ein Anteil von 600 EUR monatlich. Der Projektentwurf erhält ausdrücklich nur 500 EUR und nennt das vollständigen Besitzstandsschutz. Über die wirtschaftlichen Änderungsgründe liegen nur allgemeine Sparvorgaben vor. Die Konzernleitung möchte allein mit dem Konzernbetriebsrat abschließen, weil einheitliche Regeln einfacher sind. Formulieren Sie die erforderlichen Korrekturen und fehlenden Nachweise; unterstellen Sie keine unwirksame oder wirksame Ablösung ohne Prüfung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt den erdienten Teilbetrag von der erdienten Dynamik und den künftigen dienstzeitabhängigen Zuwächsen; erkennt die 100-EUR-Differenz als eigenständig zu prüfenden Eingriff.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bezeichnet unterschiedliche Rechtfertigungsanforderungen, verlangt substantiierte Eingriffsgründe und akzeptiert reine allgemeine Sparziele nicht als automatisch hinreichend.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Leitet Konzernbetriebsratszuständigkeit nicht allein aus dem Wunsch nach Einheitlichkeit ab und benennt die erforderliche Zuständigkeitsprüfung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Formuliert eine tragfähige Korrektur mit offener Prüfbedingung statt ungeprüftem Wirksamkeitsversprechen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "aenderung-und-harmonisierung-bearbeiten"
+    },
+    {
+      "id": "carve-out-schuldner-und-cta",
+      "request": "Erstellen Sie einen Vermerk und konkrete Vertragsklauseln zu einem Unternehmenskauf. Die Verkäuferin hält sämtliche Anteile an einer Betriebsgesellschaft; alternativ wird ein Erwerb ihres Geschäftsbetriebs erwogen. Die Zusagen stammen teils von der Betriebsgesellschaft und teils aus individuellen Garantien der Holding. Der Treuhandvertrag gestattet Vermögensübertragungen nur mit Zustimmung des Treuhänders; eine Zustimmung liegt nicht vor. Die Kaufvertragsanlage sagt pauschal: Mit dem Closing trägt der Käufer alle Pensionen und jeder frühere Arbeitgeber ist gegenüber allen Berechtigten befreit. Prüfen Sie beide Strukturen und benennen Sie die Voraussetzungen einer korrigierten Regelung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Anteilswechsel von Betriebsübergang und bestimmt den jeweiligen bisherigen und künftigen Zusageschuldner.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt die interne wirtschaftliche Lastenverteilung von einer gegenüber Berechtigten wirksamen Schuldübernahme oder gesetzlichen Haftung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt CTA-Vermögen und bestehende Sicherungsrechte eigenständig; erfindet keine automatische Vermögensmitnahme oder Zustimmung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Erstellt konkrete Vertragsregelungen mit Vollzugsbedingungen und verbleibenden Verantwortlichkeiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "transaktion-und-konzern-bearbeiten"
+    },
+    {
+      "id": "rentnergesellschaft-finanzierungsgrenze",
+      "request": "Eine Logistikgruppe will laufende Renten und unverfallbare Anwartschaften in eine Rentnergesellschaft ausgliedern. Der Jahresabschluss enthält Pensionsrückstellungen von 180 Mio. EUR, der Anbieter verlangt 205 Mio. EUR Dotierung. Zugesagt werden 170 Mio. EUR liquide Mittel und ein jederzeit kündbares Patronat der Holding. Das Projektpapier bezeichnet dies als vollständige Enthaftung und setzt eine Liquiditätsplanung mit nur einem Zins- und Langlebigkeitsszenario ein. Erstellen Sie eine Entscheidungsvorlage zum 15.11.2026, die rechtliche Verpflichtung, Ausstattung, laufende Liquidität, Sicherheiten und noch zu prüfende Daten sauber auseinanderhält.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Leitet die notwendige Ausstattung weder allein aus dem Buchwert noch allein aus dem Angebotspreis ab und bezeichnet die unterschiedlichen Bewertungszwecke.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft die Belastbarkeit des kündbaren Patronats und den Unterschied zu tatsächlich verfügbaren Mitteln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt arbeitsrechtliche Schutzpflichten, Umwandlungshaftung und § 16 BetrAVG getrennt; verspricht keine automatische vollständige Enthaftung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Verlangt angemessene Szenarien und eine qualifizierte Bewertung, liefert aber bereits den anhand der Akte möglichen Entscheidungsstand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "haftung-und-deckung-bearbeiten"
+    },
+    {
+      "id": "altzusage-einprozent-protokollnotiz",
+      "request": "Ein leitender Angestellter erhielt 1997 eine endgehaltsbezogene Versorgungszusage. Im Jahr 2006 wurde sie mit einer Initialgutschrift in einen Kapitalbausteinplan überführt. Die Auszahlungsklausel sieht eine jährliche Erhöhung um 1 % unter Anrechnung auf die gesetzliche Anpassung vor. Eine Protokollnotiz aus 2026 behauptet, die Änderung 2006 sei eine neue Zusage und die Erhöhung ersetze jede Anpassungsprüfung. Erstellen Sie ein begründetes Antwortschreiben und einen gesonderten Quellenvermerk. Berücksichtigen Sie aktuelle BAG-Rechtsprechung, den Übergangstatbestand und den genauen Regelungsgehalt der Protokollnotiz.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft § 30c Abs. 1 BetrAVG und behandelt die Ablösung von 2006 nicht allein wegen ihres Datums als unabhängige Neuzusage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Mindestanpassung, gesetzliche Prüfpflicht und Auslegung der konkreten Klausel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet BAG, Urteil vom 25.11.2025 – 3 AZR 91/25 mit überprüftem Wortlaut und begrenzter Reichweite zu; nachträglich dokumentierter Wille ersetzt nicht automatisch eine Regelungsänderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert ein vollständig formuliertes Schreiben und trennt technische Recherchevermerke vom Empfängertext.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "juristischer-argumentationskern"
     }
   ],
   "prompt_workflow_review": {
-    "date": "2026-09-23",
     "method": "desk_review",
+    "date": "2026-11-15",
     "opening_modes": [
-      "Leerstart: Besitzstand, Anpassung oder Trägerkürzung anbieten.",
-      "Dateien: Zusagen still lesen; passenden Kohorten- oder Leistungsauftrag klären.",
-      "Klarer Auftrag: Rechnung und bestelltes Versorgungsdokument unmittelbar erstellen."
+      "Ohne Auftrag: anhand der vorhandenen Akte die entscheidende Weiche klären.",
+      "Mit Dateien: Gesellschaft, Zusage und Personengruppe mit Beleg erschließen.",
+      "Klarer Auftrag: erste Rechnung und bestelltes Dokument unmittelbar erstellen."
     ],
-    "continuation": "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
-    "enrichment": "Verliererkohorten, Rentenanpassung samt begrenzter Dreimonatsregel, Pensionskassenkomponenten und Regelungskonsistenz.",
-    "limits": "desk review; no live client execution"
+    "continuation": "Neuer Zusage- oder Finanzierungsbeleg verändert ausschließlich betroffene Kohorte, Rechnung, Haftungsbeurteilung und Entwurfsregelung.",
+    "enrichment": "Alt-/Neu-Vergleich, Versorgungsschuldnerkarte, nachrechenbare Zahlungsüberleitung und vollständig ausformulierte Vertrags-/Beschlussvorlagen.",
+    "limits": "Redaktionelle Szenariogegenprüfung; keine ausgeführten Modellbenchmarks, keine Live-Client-Ausführung."
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-11-15",
     "files": [
-      "bav-strategie-konzern/README.md",
-      "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md",
+      "bav-strategie-konzern/skills/aenderung-und-harmonisierung-bearbeiten/SKILL.md",
+      "bav-strategie-konzern/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md",
+      "bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md",
+      "bav-strategie-konzern/skills/bestand-erfassen-bearbeiten/SKILL.md",
+      "bav-strategie-konzern/skills/einstieg-routing/SKILL.md",
+      "bav-strategie-konzern/skills/haftung-und-deckung-bearbeiten/SKILL.md",
+      "bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md",
+      "bav-strategie-konzern/skills/transaktion-und-konzern-bearbeiten/SKILL.md",
+      "bav-strategie-konzern/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md",
+      "bav-strategie-konzern/skills/workflow-kaltstart-und-routing/SKILL.md",
+      "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "bav-strategie-konzern/references/konzern/03-anpassung-und-arbeitgeberhaftung.md",
+      "bav-strategie-konzern/references/konzern/04-transaktionen-und-rentnergesellschaft.md",
+      "bav-strategie-konzern/references/konzern/05-finanzierung-cta-und-insolvenzschutz.md",
+      "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md",
       "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
-      "quality/evals/bav-strategie-konzern.json"
+      "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md"
     ],
-    "opening_change": "Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen",
+    "opening_change": "Verständlicher Unternehmens- und Zusagebestand vor der Prüfung; anschließend fertiges bestelltes Arbeitsprodukt.",
     "norms": [
-      "Paragraf 1 Absatz 1 Satz 3 und Absatz 2 Nummer 2a BetrAVG",
-      "Artikel 2 Richtlinie (EU) 2016/2341"
+      "BetrAVG §§1–4a,7–11,16,19–24,30c,30f",
+      "BGB §613a; UmwG §133; BetrVG §§58,87",
+      "HGB §§246,253; EStG §100; BRSG II Art.18"
     ],
     "decisions": [
       {
-        "citation": "BAG, Urteil vom 19.06.2012, 3 AZR 408/10",
+        "citation": "BAG, Urteil vom 02.07.2024 – Az. 3 AZR 247/23, Rn. 15, 20–30",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-247-23/",
+        "application": "Drei Stufen; konkrete Vergleichsrechnung; Konzernablösung und wirtschaftliche Gründe",
+        "limit": "Kein allgemeiner Konzern-Durchgriff bei § 16",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 19.06.2012 – Az. 3 AZR 408/10, Rn. 36–44",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/",
-        "application": "Bei Leistungskürzung der Pensionskasse zugesagte und gezahlte Leistung vergleichen; dynamische Satzungsverweisung beseitigt Einstandspflicht nicht.",
-        "limit": "Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden.",
-        "checked_on": "2026-09-25",
-        "verification_status": "wiederverwendeter_auditnachweis"
+        "application": "Arbeitgeber-Einstandspflicht als Erfüllung; Satzungskürzung",
+        "limit": "Vor Einführung des heutigen Sozialpartnermodells",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
       },
       {
-        "citation": "BAG, Urteil vom 14.07.2015, 3 AZR 517/13",
-        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-517-13/",
-        "application": "Dynamische Bezugnahme bei späterer Versorgungsänderung durch dreistufigen Schutz prüfen.",
-        "limit": "Volltext Rn. 25 bis 31; kirchlicher Vertragsfall, keine steuerrechtliche Globalbewertung.",
-        "checked_on": "2026-09-25",
-        "verification_status": "wiederverwendeter_auditnachweis"
+        "citation": "BAG, Urteil vom 14.03.2023 – Az. 3 AZR 176/22, Rn. 25–35",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-176-22/",
+        "application": "Zusageauslegung, Beitragswortlaut und reine Beitragszusage",
+        "limit": "Konkrete kirchliche Zusage; nicht jede Fremdzusage identisch",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
       },
       {
-        "citation": "BAG, Urteil vom 12.05.2026, 3 AZR 159/25",
+        "citation": "BAG, Urteil vom 06.05.2025 – Az. 3 AZR 142/24, Rn. 20–29",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-142-24/",
+        "application": "§ 16 Abs. 3 Nr. 2 auch in besonderer Arbeitgeber-/Kassenkonstellation",
+        "limit": "Überschussvoraussetzungen bleiben notwendig",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 28.10.2025 – Az. 3 AZR 24/25, Rn. 22–25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-24-25/",
+        "application": "Anpassung, Widerspruch und repräsentative Wirtschaftsprognose",
+        "limit": "Kein starrer Dreijahresdurchschnitt",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 25.11.2025 – Az. 3 AZR 91/25, Rn. 18–31",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-91-25/",
+        "application": "1-Prozent-Klausel, Auslegung und § 30c bei Altzusagen",
+        "limit": "Bestimmte Änderungsmöglichkeiten ausdrücklich offengelassen",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 27.01.2026 – Az. 1 AZR 147/24, Rn. 29–43, 63–78",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/",
+        "application": "Beschlussgrundlage der Betriebsvereinbarung; Genehmigung und gerichtliche Ermittlung",
+        "limit": "Konkrete Zweifel nötig; keine automatische Prüfung jeder BV",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 27.01.2026 – Az. 3 AZR 100/25, Rn. 29–30",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-100-25/",
+        "application": "Praktische Handhabung als Auslegungshilfe",
+        "limit": "Keine automatische Vertragsänderung nach drei Zahlungen",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 10.03.2026 – Az. 3 AZR 107/25, Rn. 29–42",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-107-25/",
+        "application": "Konkrete Spätehenregel und Altersdiskriminierung",
+        "limit": "Nicht sämtliche Spätehenklauseln unwirksam",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 12.05.2026 – Az. 3 AZR 159/25, Rn. 13–17",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/",
-        "application": "Anpassungsstichtag, Bezugszeitraum und Wirksamkeitsdatum einer Tariferhöhung anhand des konkreten BV-Wortlauts zuordnen.",
-        "limit": "Keine allgemeine Einjahresverzögerung und keine Entscheidung über § 16 BetrAVG.",
-        "checked_on": "2026-10-01",
-        "verification_status": "frisch_volltextpassagen",
-        "passages_read": "Entscheidungskopf, Tatbestand und Rn. 1–19; tragend Rn. 13–17.",
-        "evidence_sha256": "ffa694ea558c24cee6a0ec67e98098a3bacafb2c5423fe02bea29ba51578ddae"
+        "application": "Stichtagsauslegung tarifbezogener Anpassung",
+        "limit": "Keine allgemeine Rentenverzögerung und keine §-16-Entscheidung",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 17.06.2014 – Az. 3 AZR 298/13, Rn. 36–45",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-298-13/",
+        "application": "Tatsächliche wirtschaftliche Lage und Rentnergesellschaft",
+        "limit": "Ausstattungshaftung eigenständig untersuchen",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
+      },
+      {
+        "citation": "BAG, Urteil vom 15.09.2015 – Az. 3 AZR 839/13, Rn. 25–28",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-839-13/",
+        "application": "Ausgliederung anders als Verkauf des operativen Geschäfts",
+        "limit": "Keine allgemeine Erlaubnis zur Vermögensentziehung",
+        "checked_on": "2026-11-15",
+        "verification_status": "frisch_volltextpassagen"
       }
     ],
     "remaining_limits": [
-      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
-      "Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden.",
-      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+      "Quellenumfang und Leseranges in quality/bav-konzern-2026-11-15/fachlichkeit/quellenpruefung.json.",
+      "Kein Live-Modell-/Clienttest und keine vollständige internationale, steuerliche oder IFRS-Prüfung."
     ]
   },
   "source_audit_2026_10_01_breit": {
@@ -206,12 +566,43 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-15",
+    "scope": "Eigene bAV-Route mit Kohortenvergleich, getrennten Anspruchs-/Finanzierungsebenen, Belegzugriff und ausdrücklich markierten Szenarien.",
     "files": [
+      "bav-strategie-konzern/skills/einstieg-routing/SKILL.md",
+      "bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md",
+      "bav-strategie-konzern/skills/workflow-kaltstart-und-routing/SKILL.md",
       "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md"
     ],
-    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "limits": "Kanonische Anweisungen geprüft; kein ausgeführtes Host-Applet oder Modelltest.",
     "pending_prior_changes": []
+  },
+  "reviewed_file_hashes": {
+    "bav-strategie-konzern/skills/aenderung-und-harmonisierung-bearbeiten/SKILL.md": "4706f31b60bc271508955c9ffde4422cca6a5f6ecc89d269317a5dbeb88198a1",
+    "bav-strategie-konzern/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md": "ea2a90753d6e3dc8dd23d0cc7e195fa3617af449c174afc4014bf8d85cdba468",
+    "bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md": "57306cde3d71d98b05a4282d2f6eb372f42684f5e6f3f1ffa8aa79bbfcf8697c",
+    "bav-strategie-konzern/skills/bestand-erfassen-bearbeiten/SKILL.md": "fa7bfa938f6a633437fcf11602d6b548cbfd27ed9bfe3ffd74708ce356b370f1",
+    "bav-strategie-konzern/skills/einstieg-routing/SKILL.md": "5a77d06802840d568ac050c0dd8fdef3e1b02e7515567a58b125eae382483a60",
+    "bav-strategie-konzern/skills/haftung-und-deckung-bearbeiten/SKILL.md": "4f7448446ad48ae9d02e46c5e3ca4760c453ba7b289ef22df82d67cf6d096d40",
+    "bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md": "a334f13c2137037221914bf63288999cee2b54f3c805f83bbce687347f6b8509",
+    "bav-strategie-konzern/skills/transaktion-und-konzern-bearbeiten/SKILL.md": "3f7b08bd96117e8cc16235b5fe10577daf28845dfc47856730eb11961cbdf9aa",
+    "bav-strategie-konzern/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md": "ab7d50263f10075cd5e69db3a1a5547003798845e7622bf8abbbff1dd89f1104",
+    "bav-strategie-konzern/skills/workflow-kaltstart-und-routing/SKILL.md": "7d8e9e5e3ae9f13619adfac478fd981ba04c3a40a49e85c2344c7c6b1b888303",
+    "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md": "f5d1aec81a122614935865a25112ff30823d19ca57727600f04ed5cf95965b71",
+    "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md": "72fceb48e2d6ecc514d8aa7d694b31e28342ed3c8cfff038a85e914cac12cf8a",
+    "bav-strategie-konzern/references/konzern/03-anpassung-und-arbeitgeberhaftung.md": "e9cd107ff13eefbf26e066525efa3d748d9b56f7b120ed7bde697f43b0a4f3dc",
+    "bav-strategie-konzern/references/konzern/04-transaktionen-und-rentnergesellschaft.md": "f3c8d81397a6d111b31c0fcc358a457494050f9a633e086c3e8d46cfc909c482",
+    "bav-strategie-konzern/references/konzern/05-finanzierung-cta-und-insolvenzschutz.md": "89e19318c182d2fd15e04e25de3b5e5381d3afbc05a63c8aba7ec0f50c4f2568",
+    "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md": "bed403549c80b033acc06038327f2ad3a09660a092262eb324919efae98c1176",
+    "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md": "76f18faa8e0155d2602f5389c67ccaaced07dbdf72a93a307656056532c9de75",
+    "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md": "f6a4df6460156db21a63fb1a3d09cf579d92425b85bd65f5c964cfd358a5a79a",
+    "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md": "9ece3f016d5b983b4e3c3f7427397095d884853e4b7fcfe16b25fa305dcf02f2",
+    "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md": "111e23e17c2f960ff5d3697749ebd69edc5a5516e29bc07de1653d7cf587b84e"
+  },
+  "fachaudit_2026_11_15": {
+    "report": "quality/bav-konzern-2026-11-15/fachlichkeit/AUDIT.md",
+    "source_review": "quality/bav-konzern-2026-11-15/fachlichkeit/quellenpruefung.json",
+    "legacy_mapping": "quality/bav-konzern-2026-11-15/legacy/mapping.json",
+    "method": "desk_review_with_primary_source_passages"
   }
 }

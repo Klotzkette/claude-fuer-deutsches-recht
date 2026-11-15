@@ -1,0 +1,32 @@
+
+§ 613a BGB - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Bürgerliches Gesetzbuch (BGB)
+§ 613a
+Rechte und Pflichten bei Betriebsübergang
+(1) Geht ein Betrieb oder Betriebsteil durch Rechtsgeschäft auf einen anderen Inhaber über, so tritt dieser in die Rechte und Pflichten aus den im Zeitpunkt des Übergangs bestehenden Arbeitsverhältnissen ein. Sind diese Rechte und Pflichten durch Rechtsnormen eines Tarifvertrags oder durch eine Betriebsvereinbarung geregelt, so werden sie Inhalt des Arbeitsverhältnisses zwischen dem neuen Inhaber und dem Arbeitnehmer und dürfen nicht vor Ablauf eines Jahres nach dem Zeitpunkt des Übergangs zum Nachteil des Arbeitnehmers geändert werden. Satz 2 gilt nicht, wenn die Rechte und Pflichten bei dem neuen Inhaber durch Rechtsnormen eines anderen Tarifvertrags oder durch eine andere Betriebsvereinbarung geregelt werden. Vor Ablauf der Frist nach Satz 2 können die Rechte und Pflichten geändert werden, wenn der Tarifvertrag oder die Betriebsvereinbarung nicht mehr gilt oder bei fehlender beiderseitiger Tarifgebundenheit im Geltungsbereich eines anderen Tarifvertrags dessen Anwendung zwischen dem neuen Inhaber und dem Arbeitnehmer vereinbart wird.
+(2) Der bisherige Arbeitgeber haftet neben dem neuen Inhaber für Verpflichtungen nach Absatz 1, soweit sie vor dem Zeitpunkt des Übergangs entstanden sind und vor Ablauf von einem Jahr nach diesem Zeitpunkt fällig werden, als Gesamtschuldner. Werden solche Verpflichtungen nach dem Zeitpunkt des Übergangs fällig, so haftet der bisherige Arbeitgeber für sie jedoch nur in dem Umfang, der dem im Zeitpunkt des Übergangs abgelaufenen Teil ihres Bemessungszeitraums entspricht.
+(3) Absatz 2 gilt nicht, wenn eine juristische Person oder eine Personenhandelsgesellschaft durch Umwandlung erlischt.
+(4) Die Kündigung des Arbeitsverhältnisses eines Arbeitnehmers durch den bisherigen Arbeitgeber oder durch den neuen Inhaber wegen des Übergangs eines Betriebs oder eines Betriebsteils ist unwirksam. Das Recht zur Kündigung des Arbeitsverhältnisses aus anderen Gründen bleibt unberührt.
+(5) Der bisherige Arbeitgeber oder der neue Inhaber hat die von einem Übergang betroffenen Arbeitnehmer vor dem Übergang in Textform zu unterrichten über: 
+1.
+den Zeitpunkt oder den geplanten Zeitpunkt des Übergangs,
+2.
+den Grund für den Übergang,
+3.
+die rechtlichen, wirtschaftlichen und sozialen Folgen des Übergangs für die Arbeitnehmer und
+4.
+die hinsichtlich der Arbeitnehmer in Aussicht genommenen Maßnahmen.
+(6) Der Arbeitnehmer kann dem Übergang des Arbeitsverhältnisses innerhalb eines Monats nach Zugang der Unterrichtung nach Absatz 5 schriftlich widersprechen. Der Widerspruch kann gegenüber dem bisherigen Arbeitgeber oder dem neuen Inhaber erklärt werden.
+Fußnote
+(+++ § 613a: Zur Anwendung im beigetretenen Gebiet vgl. BGBEG Art. 232 § 5 +++)
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+Seite ausdrucken
+");
+      /* ]]> */ //-->

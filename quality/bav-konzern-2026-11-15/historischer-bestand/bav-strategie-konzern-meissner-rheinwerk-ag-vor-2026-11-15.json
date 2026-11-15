@@ -1,0 +1,112 @@
+[
+  {
+    "path": "Aktenvermerk_WhatsApp_CFO_an_Partner_2026-04-08.docx",
+    "size": 39167,
+    "sha256": "8fed73b817ab4472f2900ff839f01eb2b61964cbf8abd5a6f0c580cf659de5e5"
+  },
+  {
+    "path": "Bestandsaufnahme_Versorgungsordnungen_Konzern.pdf",
+    "size": 76295,
+    "sha256": "6f7141f52dcbb9d91dacfc605efe41e745768b4176c3b1b79ad0ac5ef469645f"
+  },
+  {
+    "path": "Betriebsratsanhoerung_Anpassung_Versorgungsordnung.pdf",
+    "size": 35267,
+    "sha256": "542da5ce2c7378b7134289674f6134bfc93c586b75f751aeb2f56ca39e982d33"
+  },
+  {
+    "path": "Bilanzielle_Auswirkungen_HGB_IFRS.docx",
+    "size": 42941,
+    "sha256": "03418e10cb307d2187971f0dbf6c22984b5bd4697fc8a96dcfcee87d3394b364"
+  },
+  {
+    "path": "Bilanzielle_Auswirkungen_HGB_IFRS.xlsx",
+    "size": 14564,
+    "sha256": "f65a99225631c1263ae1dcd74555a599efcd34141f3cf30ac40e87439a7fff96"
+  },
+  {
+    "path": "Email_PSVaG_Rueckfragen_Buyout_2026-05-12.eml",
+    "size": 2456,
+    "sha256": "2b25e32901cb97971d2df097fce4d9fb1356aecb599383b014370b19cd06bfe7"
+  },
+  {
+    "path": "Engagement_Letter_Treuenfels_Yamamoto.pdf",
+    "size": 6645,
+    "sha256": "f6d151270a29b4a1b89cef9a35679046fab215582660732523000b752288f840"
+  },
+  {
+    "path": "Honorarvereinbarung_Treuenfels_Yamamoto.pdf",
+    "size": 5966,
+    "sha256": "69f35bf73c81c5837070740b990d385d61feb9fdec3f40e3be0efb12f96f8c15"
+  },
+  {
+    "path": "Konzept_Projekt_Rheingold_2030.pdf",
+    "size": 116073,
+    "sha256": "d6ee290deb9bccaf770d63ae5e8b87ba332b5cf2d32d3a4caa590ef18415d6b6"
+  },
+  {
+    "path": "Mail_Vorstand_an_Kanzlei.pdf",
+    "size": 6350,
+    "sha256": "606eca18c611d7654ed61d1d11aa1e78221bc64138710b7600a4faa32c3b4324"
+  },
+  {
+    "path": "Mandatsanfrage_Meissner_Rheinwerk_Vorstand.pdf",
+    "size": 5840,
+    "sha256": "d5584ef42ed4c375d6d84853497225bd8650dcfe13d76ee012cf073a3342fe54"
+  },
+  {
+    "path": "Memo_CTA_Strukturierung.pdf",
+    "size": 42648,
+    "sha256": "d6834f8469ea19d6dda2ff570172c8f257a3953d94927ccf6efe98cff54e90ad"
+  },
+  {
+    "path": "Memo_DB_zu_DC_Transition.pdf",
+    "size": 41492,
+    "sha256": "5839842ba56cb62abe5f089380735068fc5e4c02a710512a6989961e82cd368d"
+  },
+  {
+    "path": "Memo_Pension_Buyout_Versicherer.pdf",
+    "size": 42798,
+    "sha256": "ee218c0cb6812561da5c66044ef16f55c3466ae3ad0da7e2de5bfde9ffe16ba6"
+  },
+  {
+    "path": "Notiz_Mandantengespraech_Vorstand.txt",
+    "size": 4668,
+    "sha256": "5dfa2cc75aba2de1365b1521e5a0f14028712bf82ffadb05007fe130c23cfa79"
+  },
+  {
+    "path": "README.md",
+    "size": 14185,
+    "sha256": "fe513d89e73ad1a369695053352edeec733f05a797e2c0128035806b939e98ef"
+  },
+  {
+    "path": "Stundenreport_Q1_2026_Treuenfels_Yamamoto.csv",
+    "size": 2628,
+    "sha256": "984621b1d6d74d2e5098e25412c061ede00a077d0705a736ac74408d49901c7d"
+  },
+  {
+    "path": "Versorgungsordnung_Werk_Bremen_2014.pdf",
+    "size": 101141,
+    "sha256": "6ca8fd09ce122b5c28a782d464b63d7c1008dd1b6e76b6ff4d8ea1098f92d6e7"
+  },
+  {
+    "path": "Versorgungsordnung_Werk_Duesseldorf_1987.pdf",
+    "size": 110278,
+    "sha256": "bafa57e41a78936066f23b99f686bc9ec9ead1f2050c7b62be9917e5ac5c9919"
+  },
+  {
+    "path": "Versorgungsordnung_Werk_Stuttgart_2002.pdf",
+    "size": 99359,
+    "sha256": "111728b992b7d89edc8750545a95e945fc96f45c3d0f6f8ddd16932095c40cc8"
+  },
+  {
+    "path": "gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf",
+    "size": 933859,
+    "sha256": "3c34578419bc5a4f554d3e56ba92b44f10d97a9a7ce49d213b3ca1d380fb75f1"
+  },
+  {
+    "path": "rubric.yaml",
+    "size": 591,
+    "sha256": "d8e19ea2712af369ff3a41871c006938f4439579e45421bed2721d3371d783a2"
+  }
+]

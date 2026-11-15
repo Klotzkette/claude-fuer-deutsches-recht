@@ -1,16 +1,27 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
-name: Bav Strategie Konzern Meissner Rheinwerk Ag
+name: RHEINGOLD 2030 – vierzehn Ordnungen und drei unterschiedliche Besitzstände
 plugin: bav-strategie-konzern
 checks:
-- id: r01-readme-vorhanden
-  check_type: file_exists
-  description: README.md vorhanden
-  path: README.md
-- id: r02-gesamt-pdf-vorhanden
-  check_type: file_exists
-  description: Gesamt-PDF gebaut
-  path: gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
+- id: arbeitsbestand
   check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  description: Der deklarierte Originalbestand ist vorhanden.
+  min: 37
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Die getrennte Lesefassung ist vorhanden.
+  path: gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf
+- id: fachpruefung-1
+  check_type: human_review
+  description: Welche Regelung gilt für welche Personengruppe, und welcher Originalbeleg
+    trägt die Zuordnung?
+- id: fachpruefung-2
+  check_type: human_review
+  description: Wie unterscheiden sich Dienstzeitbegrenzung, Entgeltbegrenzung und
+    ein neuer Beitragsbaustein?
+- id: fachpruefung-3
+  check_type: human_review
+  description: Welche Gremien sind für welchen Gegenstand zuständig, und welche Finanzdaten
+    fehlen für die Entscheidung?
+- id: fortsetzung
+  check_type: human_review
+  description: Nach dem Archivfund die betroffenen Zuordnungen und Berechnungsannahmen
+    erneut prüfen. Geänderte Ergebnisse mit dem neuen Beleg und ihrer Auswirkung erläutern.

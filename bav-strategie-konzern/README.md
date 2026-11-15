@@ -1,9 +1,9 @@
-# BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
+# Betriebliche Altersversorgung im Konzern
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Düsseldorfer Boutique-Stil.
+Betriebliche Altersversorgung im Konzern: Versorgungsordnungen und Besitzstände prüfen; Harmonisierung, Carve-out, CTA, Rentnergesellschaft und Pensionskassenkürzung anhand belegter Unterlagen gestalten.
 
 Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`bav-strategie-konzern.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/bav-strategie-konzern.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`bav-strategie-konzern.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/bav-strategie-konzern.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/bav-strategie-konzern.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/bav-strategie-konzern-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/bav-strategie-konzern-schnellstart.md) |
@@ -35,7 +35,7 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 | Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
 | Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
-Startsatz für BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB:
+Startsatz für Betriebliche Altersversorgung im Konzern:
 
 > Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
 
@@ -45,7 +45,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bav-strategie-konzern.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/bav-strategie-konzern.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bav-strategie-konzern.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/bav-strategie-konzern.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`bav-strategie-konzern-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/bav-strategie-konzern-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`bav-strategie-konzern-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/bav-strategie-konzern-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -62,90 +62,69 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Betriebliche Altersversorgung – MEISSNER RHEINWERK AG](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/README.md) | [Gesamt-PDF](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) | [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) | [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip) |
-| [Rentenberaterakte Betriebsrentenberatung Pflegedienst Halle](../testakten/rentenberater-bav-firmenberatung-pflegedienst-halle/README.md) | [Gesamt-PDF](../testakten/rentenberater-bav-firmenberatung-pflegedienst-halle/gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf) | [`testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip) | [`testakte-rentenberater-bav-firmenberatung-pflegedienst-halle-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle-einzelpdfs.zip) |
-| [Rentenberaterakte Querschnitt Status, Betriebsrente und Rentenanspruch Dortmund](../testakten/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund/README.md) | [Gesamt-PDF](../testakten/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund/gesamt-pdf/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund_gesamt.pdf) | [`testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip) | [`testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund-einzelpdfs.zip) |
-| [Betriebsrente Wiesbaden: Pensionskassenkürzung, Arbeitgeberhaftung und Anpassungsprüfung](../testakten/rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden/README.md) | [Gesamt-PDF](../testakten/rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden/gesamt-pdf/rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden_gesamt.pdf) | [`testakte-rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden.zip) | [`testakte-rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden-einzelpdfs.zip) |
+| [Projekt KANTE – Betriebsübergang, CTA und verschwundene zwölf Personen](../testakten/bav-carve-out-rheinbogen-automation/README.md) | [Gesamt-PDF](../testakten/bav-carve-out-rheinbogen-automation/gesamt-pdf/bav-carve-out-rheinbogen-automation_gesamt.pdf) | [`testakte-bav-carve-out-rheinbogen-automation.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-carve-out-rheinbogen-automation.zip) | [`testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip) |
+| [Kürzung bei der Kasse – wer zahlt die Differenz im Niederrhein-Verbund?](../testakten/bav-pensionskasse-niederrhein-verbund/README.md) | [Gesamt-PDF](../testakten/bav-pensionskasse-niederrhein-verbund/gesamt-pdf/bav-pensionskasse-niederrhein-verbund_gesamt.pdf) | [`testakte-bav-pensionskasse-niederrhein-verbund.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-pensionskasse-niederrhein-verbund.zip) | [`testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip) |
+| [Projekt ANKER – Rentnergesellschaft mit drei Angeboten und einer zweifelhaften Immobilie](../testakten/bav-rentnergesellschaft-rheinhafen-logistik/README.md) | [Gesamt-PDF](../testakten/bav-rentnergesellschaft-rheinhafen-logistik/gesamt-pdf/bav-rentnergesellschaft-rheinhafen-logistik_gesamt.pdf) | [`testakte-bav-rentnergesellschaft-rheinhafen-logistik.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-rentnergesellschaft-rheinhafen-logistik.zip) | [`testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip) |
+| [RHEINGOLD 2030 – vierzehn Ordnungen und drei unterschiedliche Besitzstände](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/README.md) | [Gesamt-PDF](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) | [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) | [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Dieses Plugin unterstützt die strategische Beratung zur betrieblichen Altersversorgung (BAV) in Konzernen. Die folgenden Kanzlei-, Personen- und Qualifikationsangaben sind eine fiktive Beratungsrolle, kein Nachweis tatsächlicher Zulassung, Qualifikation oder Mandatsübernahme. Das Rollenszenario beschreibt die Boutique-Großkanzlei **Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**, Königsallee 92, 40212 Düsseldorf (Zweigbüro: Gion-Higashi, Shijō-dōri, Kyoto).
+Dieses Plugin unterstützt Rechtsabteilungen, Personalverantwortliche und beratende Kanzleien bei der Gestaltung großer Versorgungsbestände. Aus Versorgungsordnungen, Personal- und Finanzdaten, Treuhandverträgen und Transaktionsunterlagen entstehen belastbare Bestandsaufnahmen, Besitzstandsvergleiche, Vertragsentwürfe und Entscheidungsvorlagen für Vorstand und Aufsichtsrat.
 
-**Namens-Partner:**
-- Dr. Dr. Hartwig Treuenfels-Ostermann, LL.M. (Cambridge), Of Counsel, Honorarprofessor Düsseldorf für Arbeits- und Vergütungsrecht
-- Yuki Yamamoto-Brennecke, bengoshi + Rechtsanwältin (Tokyo Bar), Leiterin Kyoto-Büro
+## 1. Mit einem konkreten Auftrag beginnen
 
-**Federführender Partner BAV/Versorgung:**
-Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford), Versorgungs- und Transaktionsspezialist
+Für die umfangreiche Bearbeitung verwenden Sie den Werkstatt-Prompt oder den passenden Skill. Für eine erste Vorlage genügt der Mini-Prompt. Laden Sie die relevanten Unterlagen gemeinsam mit einem klaren Auftrag, etwa:
 
----
+> Prüfen Sie die beigefügte Grundakte für die geplante Ausgliederung. Stellen Sie je Arbeitgeber, Zusage und Personengruppe dar, welche Verpflichtungen und Sicherheiten betroffen sind. Vergleichen Sie die beiden Transaktionsstrukturen, belegen Sie die entscheidenden Unterschiede und erstellen Sie eine Entscheidungsvorlage samt konkret formulierten Vertragsregelungen. Kennzeichnen Sie fehlende entscheidende Nachweise; ergänzen Sie keine vermeintlich üblichen Marktwerte.
 
-## Installation
+Das Plugin arbeitet auf das bestellte Ergebnis hin. Es verbindet einzelne Aktenfundstellen mit rechtlichen Voraussetzungen und Gegenargumenten. Eine passende Visualisierung kann Gruppenstruktur, Zahlungswege, betroffene Kohorten oder zeitliche Voraussetzungen verständlich machen. Verfügbare Applets dürfen Szenarien berechnen; ihre Formeln, Annahmen und Daten bleiben sichtbar. Ohne passende technische Werkzeuge genügt eine nachvollziehbare Tabelle.
 
-1. ZIP aus dem Release herunterladen.
-2. Plugin-Umgebung öffnen.
-3. **Customize → Plugins** bzw. **Personal plugins** öffnen.
-4. **Upload plugin** wählen und `bav-strategie-konzern.zip` hochladen.
-5. Mit einem konkreten Auftrag starten, zum Beispiel: `Prüfe unsere Konzern-Versorgungsordnung und schlage eine Harmonisierungsstrategie vor.`
+## 2. Zehn Skills, acht Fachkapitel
 
-Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
+Die Bedienung umfasst **zehn auswählbare Skills**. Die [Fachbibliothek](FACHMODULE.md) bündelt die Vertiefung in acht zusammenhängenden Kapiteln. Sie laden nur die Kapitel, die für Ihren Auftrag gebraucht werden.
 
-## Block A — Pensionsmodelle & Versorgungsarchitektur
+| Aufgabe | Geeigneter Einstieg |
+| --- | --- |
+| Ungeordnete Unterlagen und unklarer Auftrag | `workflow-kaltstart-und-routing` |
+| Konkretes Projekt einem Arbeitsweg zuordnen | `einstieg-routing` |
+| Arbeitgeber, Zusagen, Personengruppen und Finanzierung erfassen | `bestand-erfassen-bearbeiten` |
+| Verträge, Zahlen, Quellen und fehlende Nachweise prüfen | `unterlagen-und-quellen-auswerten-bearbeiten` |
+| Systeme ändern und Besitzstände vergleichen | `aenderung-und-harmonisierung-bearbeiten` |
+| Arbeitgeberpflichten, Versorgungsträger und Sicherheiten trennen | `haftung-und-deckung-bearbeiten` |
+| Unternehmenskauf, Ausgliederung und Rentnergesellschaft strukturieren | `transaktion-und-konzern-bearbeiten` |
+| Strittige Rechtsfrage belegen und Gegenposition behandeln | `juristischer-argumentationskern` |
+| Vertrag, Versorgungsordnung oder Entscheidungsvorlage schreiben | `arbeitsprodukt-bearbeiten` |
+| Fertigen Entwurf und Berechnung gegenprüfen | `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` |
 
-| # | Skill-Name | Kurzbeschreibung |
-|---|-----------|-----------------|
-| 1 | `pensionsmodelle-fuenf-durchfuehrungswege` | Direktzusage vs. Unterstützungskasse vs. Pensionskasse vs. Pensionsfonds vs. Direktversicherung; Entscheidungsmatrix, Bilanz- und Risiko-Tradeoffs, IFRS/HGB |
-| 2 | `versorgungsordnung-und-betriebsvereinbarung-drafting` | Volltext-Templates Versorgungsordnung und Betriebsvereinbarung (Düsseldorfer Schule), Anpassungsklauseln § 16 BetrAVG, Spätehenklauseln, Hinterbliebenenversorgung |
-| 3 | `governance-und-anpassungsmechanismen` | Pension Committee Charter, Trustee-Boards, Anpassungsentscheidungen § 16 BetrAVG, sachlich-billige Ermessensausübung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 5 | `internationale-harmonisierung-konzern-bav` | Konzernweite Plan-Inventory, Country-by-Country Matrix DE/UK/USA/FR/SG/JP, Global Benefits Policy, Local-vs-Group Governance |
+## 3. Konzernfälle mit Grundakte und Fortsetzung
 
-## Block B — Pension Buyouts
+Die vier großen Arbeitsakten stellen unterschiedliche Projekte dar: die Harmonisierung historischer Versorgungssysteme, einen Carve-out, die Ausstattung einer Rentnergesellschaft und eine Pensionskassenkürzung im Unternehmensverbund. Sie arbeiten mit vollständigen fiktiven Dokumenten und bearbeitbaren Rohdaten. Unterschiede zwischen Entwürfen, Freigaben und späteren Informationen müssen aus der Akte herausgearbeitet werden.
 
-| # | Skill-Name | Kurzbeschreibung |
-|---|-----------|-----------------|
-| 6 | `pension-buyout-strukturierung-und-de-risking` | Buy-in vs. Buy-out vs. Longevity Swap, Versichererauswahl, Term Sheets, BaFin-Genehmigung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 9 | `buyout-im-ma-deal-asset-vs-share` | Pension Liabilities in Carve-outs, § 613a BGB, ABC-Klauseln, Garantien/Indemnities, W&I-Versicherung |
-| 10 | `internationale-buyout-datenflows-und-datenschutz` | Art. 9 DSGVO, Drittlandtransfer Art. 46 SCC, APPI/PIPC Japan, Schrems II Workaround |
+Öffnen Sie für den ersten Durchgang ausschließlich **Grundakte**. Der Ordner **Fortsetzung** enthält später eingegangene Unterlagen für einen zweiten Arbeitsauftrag. So lässt sich zuerst ein Sachverhalt ermitteln und anschließend prüfen, welche Aussage aufgrund eines neuen Belegs geändert werden muss. Die Originalformat-ZIPs enthalten weder Gesamt-PDF noch Musterlösung. Lesefassung und Einzel-PDFs stehen zusätzlich bereit.
 
-## Block C — Komplexe Versorgungssysteme
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| # | Skill-Name | Kurzbeschreibung |
-|---|-----------|-----------------|
-| 11 | `historisch-gewachsene-altsysteme-due-diligence` | Inventory-Methodik, Altzusagen 1970er/1980er, Versorgungstarifverträge, Sonderzusagen Führungskräfte, Risk Map |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 13 | `mitbestimmung-betriebsrat-einigungsstelle-bav` | § 87 Abs. 1 Nr. 8/10 BetrVG, Initiativrecht, Einigungsstellenverfahren, Spruch-Templates |
-| 14 | `kollektivrechtliche-loesungen-und-sozialplan` | § 112 BetrVG, pensionsspezifische Sozialplanbestandteile, Abfindungsmodelle vs. Versorgungserhalt |
+[Vier Konzernarbeitsakten als gemeinsames ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/BAV_Konzern_Vier_Arbeitsakten.zip)
 
-## Block D — Internationale Benefits-Strukturen
+## 4. Fiktive Kanzlei in Leverkusen
 
-| # | Skill-Name | Kurzbeschreibung |
-|---|-----------|-----------------|
-| 15 | `country-by-country-benefits-matrix-konzern` | Standardisierte Tabelle DE/UK/US/FR/SG/JP/NL/CH, lokale zwingende Vorschriften, Expat-Behandlung |
-| 16 | `expatriate-pensionsplanung-und-totalization` | Sozialversicherungsabkommen, A1-Bescheinigung, Doppelbesteuerungsabkommen, Stranded Pensions |
-| 17 | `japan-bav-und-corporate-pension-iorp` | Kakutei-kyuufu kigyou nenkin, Tax-Qualified Pension Plan Sunset, japanische DC-Pläne, Düsseldorf-Kyoto-Kollaboration |
-| 18 | `post-merger-bav-integration-global` | HR-Transformation, Global-Mobility-Bezug, Reward-Harmonisierung, Day-1/Day-100/Day-365-Plan |
+Die Akten verwenden die fiktive Boutique **Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB**, Am Rheinbogen 18, 51373 Leverkusen. Die Partner sind **Dr. Monkī D. Rufi** und **Dr. Nora Treuenfels**. Bei Monkī D. Rufi steht der Familienname zuerst; die Figur ist eine freie Namensanspielung. Kanzlei, Anschrift, Personen und Mandatsbeziehungen dienen ausschließlich dem Übungsszenario und bezeichnen keine tatsächliche Berufsausübung.
 
-## Block E — Restrukturierungen & Kanzlei-Werkzeuge
+Der Stil verbindet präzise Mandantenkommunikation mit ausführlichen Vertragsunterlagen und knapp begründeten Entscheidungsvorlagen. Die Briefbögen unterscheiden Kanzlei, Unternehmensgruppe, Versorgungsträger und externe Beratung. Kontaktadressen unter `.example` sind reservierte Beispieldomains.
 
-| # | Skill-Name | Kurzbeschreibung |
-|---|-----------|-----------------|
-| 19 | `db-zu-dc-umstellung-mit-besitzstand` | DB-Schließung mit Past-Service-Schutz und Future-Service-DC, BAG-konforme Umstellung |
-| 20 | `anpassungspruefung-paragraph-16-betravg` | Drei-Jahres-Rhythmus, wirtschaftliche Lage des Arbeitgebers, Reallohn-Bezugsgrößen-Verfahren |
-| 21 | `mandantenkorrespondenz-bav-grosskanzlei-stil` | Briefkopf-Templates Treuenfels Yamamoto (deutsch/japanisch/englisch), Engagement Letter mit Stundensätzen, KYC |
+<!-- reserved-example-contacts -->
 
----
+## 5. Rechtsstand und Aussagegrenzen
 
-*Alle Mandantennamen und Beratungsbeispiele in den Skills sind fiktiv. Die zitierten Gerichtsentscheidungen und Gesetze sind reale Quellen.*
+Die Fachüberarbeitung hat den Prüfstand **15. November 2026**. Die Quellenübersicht erläutert bei jeder Entscheidung, welche Passage die Aussage trägt und welche Frage damit nicht entschieden ist. Bereits geltende Regeln, Übergangsrecht und erst später wirksame Änderungen sind zu trennen. Vor einer konkreten Gestaltung werden Rechtsstand und Vertragsbestand nochmals auf den maßgeblichen Stichtag geprüft.
 
-<!-- BEGIN FACHMODULE-NAVIGATION -->
+Arbeitsrechtliche Zusage, Versorgungsträgerleistung, Finanzierung, Insolvenzsicherung und bilanzielle Abbildung bleiben eigenständige Prüfebenen. Eine Bezeichnung wie „Buy-out“, „CTA“ oder „DC“ beantwortet noch nicht die Haftungsfrage. Fiktive Anbieterangebote sind Fallmaterial; ihre Zahlen stellen keine belegten Marktpreise dar. Excel-Szenarien ersetzen keine versicherungsmathematische Bewertung oder Jahresabschlussprüfung.
 
-Das Plugin bietet **10 auswählbare Skills**. Die **59 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+[Versionen und Änderungen](CHANGELOG.md) · [Quellen- und Prüfunterlagen im Repository](../quality/bav-konzern-2026-11-15/)
 
-<!-- END FACHMODULE-NAVIGATION -->
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 
@@ -178,15 +157,15 @@ English: Complete list of all 10 skills in this plugin. Both links in each row d
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
-| [`aenderung-und-harmonisierung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/aenderung-und-harmonisierung-bearbeiten/SKILL.md) | Für Betriebliche Altersversorgung: Änderung und Harmonisierung: Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang und Übergangsrecht prüfen. Vollständige Fachanweisungen und lokale... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/aenderung-und-harmonisierung-bearbeiten/SKILL.md) |
-| [`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) | Für Betriebliche Altersversorgung: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. Vollständige... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) |
-| [`arbeitsprodukt-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md) | Für Betriebliche Altersversorgung: Arbeitsprodukt: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen. Vollständige Fachanwe... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md) |
-| [`bestand-erfassen-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/bestand-erfassen-bearbeiten/SKILL.md) | Für Betriebliche Altersversorgung: Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren. Vollständige Fachanweisungen und lok... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/bestand-erfassen-bearbeiten/SKILL.md) |
-| [`einstieg-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/einstieg-routing/SKILL.md) | Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/einstieg-routing/SKILL.md) |
-| [`haftung-und-deckung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/haftung-und-deckung-bearbeiten/SKILL.md) | Für Betriebliche Altersversorgung: Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen. Vollständige Fachanweisungen und lokale Vorlag... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/haftung-und-deckung-bearbeiten/SKILL.md) |
-| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in bAV Strategie Konzern ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md) |
-| [`transaktion-und-konzern-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/transaktion-und-konzern-bearbeiten/SKILL.md) | Für Betriebliche Altersversorgung: Transaktion und Konzern: Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten und Verantwortlichkeiten ordnen. Vollständige Fachanweisungen und lokale Vorlag... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/transaktion-und-konzern-bearbeiten/SKILL.md) |
-| [`unterlagen-und-quellen-auswerten-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) | Für Betriebliche Altersversorgung: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. Vollständige Fachanweisungen und lokale Vorlage... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) |
-| [`workflow-kaltstart-und-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/workflow-kaltstart-und-routing/SKILL.md) | Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/workflow-kaltstart-und-routing/SKILL.md) |
+| [`aenderung-und-harmonisierung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/aenderung-und-harmonisierung-bearbeiten/SKILL.md) | Prüft die Ablösung von Versorgungsordnungen mit konkretem Alt-Neu-Vergleich, korrekten drei Eingriffsstufen, Mitbestimmung und tragfähigen Übergangsregelungen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/aenderung-und-harmonisierung-bearbeiten/SKILL.md) |
+| [`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) | Kontrolliert bAV-Ergebnisse fachlich, rechnerisch und formal, aktualisiert Folgen neuer Angaben und liefert eine fertige Endfassung mit konkretem Umsetzungs- und Freigabestand. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) |
+| [`arbeitsprodukt-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md) | Erstellt vollständige bAV-Arbeitsprodukte wie Versorgungsordnung, Betriebsvereinbarung, Due-Diligence-Bericht, Auskunft oder Vorstandsvorlage mit passender Berechnung und klaren Vollzugsbedingungen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md) |
+| [`bestand-erfassen-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/bestand-erfassen-bearbeiten/SKILL.md) | Rekonstruiert Zusagen und Personengruppen, trennt Versprechen, Durchführung, Finanzierung und Bewertung und erstellt eine nachvollziehbare Leistungs- und Bestandsrechnung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/bestand-erfassen-bearbeiten/SKILL.md) |
+| [`einstieg-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/einstieg-routing/SKILL.md) | Ordnet Konzernmandate zur betrieblichen Altersversorgung einem konkreten Arbeitsweg zu und liefert erste Befunde, entscheidende Rückfragen und das passende Arbeitsprodukt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/einstieg-routing/SKILL.md) |
+| [`haftung-und-deckung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/haftung-und-deckung-bearbeiten/SKILL.md) | Prüft Arbeitgeber-Einstandspflicht, Rentenanpassung, PSV, Rückdeckung und CTA getrennt und berechnet die konkrete Versorgungslücke mit den richtigen Übergangsregeln. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/haftung-und-deckung-bearbeiten/SKILL.md) |
+| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md) | Entwickelt die konkrete bAV-Subsumtion mit Anspruch, Einwendung, Beweis, Rechnung und Gegenposition und setzt sie in eine begründete Entscheidung oder einen vollständigen Text um. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md) |
+| [`transaktion-und-konzern-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/transaktion-und-konzern-bearbeiten/SKILL.md) | Strukturiert Konzerntransaktionen mit richtiger Schuldnerzuordnung, Betriebsübergang, Umwandlung, Übertragung und Abfindung und prüft verbleibende Haftung im Buyout. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/transaktion-und-konzern-bearbeiten/SKILL.md) |
+| [`unterlagen-und-quellen-auswerten-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) | Verbindet bAV-Tatsachen mit Originalbelegen und überprüften Rechtsquellen, löst Versions- und Datenkonflikte und aktualisiert betroffene Berechnungen nachvollziehbar. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) |
+| [`workflow-kaltstart-und-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/workflow-kaltstart-und-routing/SKILL.md) | Erschließt ungeordnete bAV-Datenräume und Originalunterlagen, erklärt den Fall verständlich und erstellt einen belegten Einstieg mit Versionskette und entscheidenden Datenlücken. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/skills/workflow-kaltstart-und-routing/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

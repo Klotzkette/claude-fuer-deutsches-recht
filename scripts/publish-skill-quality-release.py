@@ -34,12 +34,13 @@ def execute(command, *, root=ROOT, timeout=900):
     subprocess.run(command, cwd=root, check=True, timeout=timeout)
 
 
-def publish(dist: Path, scope: dict, expected_commit: str, repo: str, *, root: Path = ROOT) -> None:
+def publish(dist: Path, scope: dict, expected_commit: str, repo: str, *, root: Path = ROOT, builder=None) -> None:
+    builder = builder or B
     if not re.fullmatch(r"[a-f0-9]{40}", expected_commit):
         raise ValueError("Vollständiger unveränderlicher Zielcommit erforderlich")
-    B.checkout_state(root, expected_commit)
+    builder.checkout_state(root, expected_commit)
     execute(["git", "merge-base", "--is-ancestor", expected_commit, "origin/main"], root=root)
-    B.validate_assets(dist, scope, root, expected_commit=expected_commit)
+    builder.validate_assets(dist, scope, root, expected_commit=expected_commit)
     tag = scope["tag"]
     notes = root / "docs/releases" / (tag + ".md")
     if not notes.is_file() or not notes.read_text().strip():
@@ -58,7 +59,7 @@ def publish(dist: Path, scope: dict, expected_commit: str, repo: str, *, root: P
         raise ValueError("Tag konnte nicht am freigegebenen Commit bestätigt werden")
     if existing_release is None:
         execute(["gh", "release", "create", tag, "--repo", repo, "--verify-tag", "--target", expected_commit,
-                 "--draft", "--latest=false", "--title", f"Qualitätsrunde {scope['version']}", "--notes-file", str(notes)], root=root)
+                 "--draft", "--latest=false", "--title", scope.get("title", f"Qualitätsrunde {scope['version']}"), "--notes-file", str(notes)], root=root)
     draft = P.companion_release(repo, tag)
     if draft is None or draft.get("isDraft") is not True:
         raise ValueError("Release ist kein bestätigter Entwurf")
@@ -67,7 +68,7 @@ def publish(dist: Path, scope: dict, expected_commit: str, repo: str, *, root: P
              "--paced-github-token"], root=root, timeout=10800)
     execute([sys.executable, str(ROOT / "scripts/validate-release-assets.py"), str(dist), tag, "--repo", repo,
              "--timeout-seconds", "900", "--poll-seconds", "10"], root=root)
-    B.verify_download(dist, scope, root, repo, expected_commit)
+    builder.verify_download(dist, scope, root, repo, expected_commit)
     final_draft = P.companion_release(repo, tag)
     if P.tag_commit(repo, tag) != expected_commit or final_draft != draft:
         raise ValueError("Tag oder Releaseidentität hat sich während der Verifikation verändert")

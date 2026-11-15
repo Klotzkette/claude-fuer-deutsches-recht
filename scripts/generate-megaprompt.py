@@ -33,7 +33,7 @@ import re
 from pathlib import Path
 
 from prompt_profiles import enabled
-from skill_sources import original_skill_sources
+from skill_sources import original_skill_sources, replacements
 from werkstatt_visualisierung import block as visual_block, remove_block as remove_visual_block
 from urllib.parse import quote
 
@@ -184,6 +184,15 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
         lines.append('')
         lines.append('---')
         lines.append('')
+
+    replacement = replacements().get(plugin)
+    if replacement and plugin_dir.resolve() == (REPO / replacement['source']).resolve():
+        for relative in replacement['chapters']:
+            chapter = plugin_dir / relative
+            if not chapter.is_file() or not chapter.resolve().is_relative_to(plugin_dir.resolve()):
+                raise ValueError(f'Fachkapitel fehlt oder liegt außerhalb des Plugins: {relative}')
+            lines.append(rewrite_relative_links(chapter.read_text(encoding='utf-8').strip(), chapter))
+            lines.extend(['', '---', ''])
 
     lines.append('## Anwendungshinweise')
     lines.append('')

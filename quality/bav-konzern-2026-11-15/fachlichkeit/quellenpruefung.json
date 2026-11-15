@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-15",
+  "sources": [
+    {
+      "id": "brsg2",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/14/regelungstext.pdf?__blob=publicationFile&v=2",
+      "read_scope": "Titel/Verkündung; Art. 1; Art. 2 Nr. 2; Art. 3 Nr. 7 (§234j); Art. 18",
+      "limit": "Reformstatus und ausgewählte Kernänderungen; keine umfassende Kommentierung aller Artikel.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "betravg",
+      "url": "https://www.gesetze-im-internet.de/betravg/BetrAVG.pdf",
+      "read_scope": "§§ 1, 1b, 2, 3, 4, 4a, 5, 6, 7, 8, 8a, 9, 10, 11, 16, 19, 20, 24, 30c, 30f",
+      "limit": "Normen in ihrem gelesenen Umfang; weitere Normverweise sind konkrete Folgeprüfungen, keine vollständige Kommentierung.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "bgb613a",
+      "url": "https://www.gesetze-im-internet.de/bgb/__613a.html",
+      "read_scope": "Gesamter §613a",
+      "limit": "Tatbestand wirtschaftliche Einheit muss im Mandat tatsächlich festgestellt werden.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "hgb246",
+      "url": "https://www.gesetze-im-internet.de/hgb/__246.html",
+      "read_scope": "Gesamter §246, besonders Abs.2",
+      "limit": "Keine automatische IFRS-Einstufung.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "hgb253",
+      "url": "https://www.gesetze-im-internet.de/hgb/__253.html",
+      "read_scope": "Gesamter §253, besonders Abs.1/2/6",
+      "limit": "Kein aktueller numerischer Bundesbankzins behauptet.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "estg100",
+      "url": "https://www.gesetze-im-internet.de/estg/__100.html",
+      "read_scope": "Gesamter §100 in 2026 geltender Fassung",
+      "limit": "Reform2027 separat aus BGBl gelesen; keine vollständige bAV-Steuerprüfung.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "betrvg87",
+      "url": "https://www.gesetze-im-internet.de/betrvg/__87.html",
+      "read_scope": "Gesamter §87",
+      "limit": "Weitere Zuständigkeits-/Tarifnormen fallbezogen prüfen.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "betrvg58",
+      "url": "https://www.gesetze-im-internet.de/betrvg/__58.html",
+      "read_scope": "Gesamter §58",
+      "limit": "BAG247/23-Konzernfall als konkrete Auslegung, kein Automatismus.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "umwg133",
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/__133.html",
+      "read_scope": "Gesamter §133",
+      "limit": "Nichtzugewiesene Verbindlichkeiten und Haftungsgrenzen differenziert.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-247-23",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-247-23/",
+      "read_scope": "Metadaten; Rn.13–30",
+      "limit": "Drei Stufen und konkrete KBV-Konzernablösung, nicht allgemeiner §16-Durchgriff.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-408-10",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/",
+      "read_scope": "Metadaten; Rn.36–44",
+      "limit": "Historischer Ausgangsfall vor Sozialpartnermodell; moderne Ausnahme gesondert.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-176-22",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-176-22/",
+      "read_scope": "Metadaten; Rn.25–35",
+      "limit": "Konkrete kirchliche Zusageauslegung, kein automatisches Ergebnis für alle Verträge.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-142-24",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-142-24/",
+      "read_scope": "Metadaten; Rn.20–29",
+      "limit": "Besondere Arbeitgeber-/Pensionskassenkonstellation; sämtliche Überschüsse erforderlich.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-107-25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-107-25/",
+      "read_scope": "Metadaten/Leitsatz; Rn.15–17,29–42,51–52",
+      "limit": "Konkrete Spätehenkombination; andere Systemgrenzen nicht pauschal verworfen.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-100-25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-100-25/",
+      "read_scope": "Metadaten/Leitsatz; Rn.29–30",
+      "limit": "Praktische Handhabung als Auslegungshilfe; keine automatische betriebliche Übung.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-159-25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/",
+      "read_scope": "Metadaten; Rn.13–17",
+      "limit": "Konkrete Tarifdynamikklausel; keine §16-Entscheidung.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-91-25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-91-25/",
+      "read_scope": "Metadaten; Rn.18–34",
+      "limit": "Übergangsrecht/1%-Regel; offen gelassene Änderungsfrage nicht als entschieden ausgeben.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-298-13",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-298-13/",
+      "read_scope": "Metadaten; Rn.36–45",
+      "limit": "Wirtschaftliche Lage/Verzinsung; nicht abschließend Ausstattungshaftung.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-839-13",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-839-13/",
+      "read_scope": "Metadaten; Rn.25–28",
+      "limit": "Entstehungsweg Rentnergesellschaft; keine generelle Freigabe von Assetstripping.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "3-azr-24-25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-24-25/",
+      "read_scope": "Metadaten; Rn.22–25",
+      "limit": "Anpassung/Widerspruch/Prognose; keine starre Durchschnittsmethode.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "1-azr-147-24",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/",
+      "read_scope": "Metadaten; Rn.23–43, 63–78",
+      "limit": "Beschlussgrundlage, mögliche Genehmigung und konkrete Zweifel; nicht automatische Prüfung jeder BV. Besondere Vertrauensschutzfälle in Rn.71 offengelassen.",
+      "original_hash_verified": true
+    },
+    {
+      "id": "bag-sitzungsergebnisse",
+      "url": "https://www.bundesarbeitsgericht.de/aktuelles-und-veranstaltungen/sitzungsergebnisse/",
+      "read_scope": "Aktuell sichtbare Ergebnisliste, besonders Eintrag 3 AZR 70/26 vom29.09.2026",
+      "limit": "Kein verlinkter Volltext in sichtbarer Liste; keine tragende Rechtsaussage aus Ergebnis erfunden.",
+      "original_hash_verified": true
+    }
+  ]
+}

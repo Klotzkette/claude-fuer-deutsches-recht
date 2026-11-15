@@ -37,4 +37,17 @@ class SourceTests(unittest.TestCase):
                 target.rename(target.with_name('FACHINHALT.md'))
                 with self.assertRaises(FileNotFoundError):subject.active_owner(root,'vertiefung')
 
+    def test_reviewed_replacement_never_reimports_archived_old_law(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp); directory = root / 'fachgebiet'
+            active = directory / 'skills/pruefen/SKILL.md'
+            active.parent.mkdir(parents=True); active.write_text('Geprüfte Neufassung')
+            replacement = {'fachgebiet': {'source': 'fachgebiet', 'active_skills': ['pruefen']}}
+            old_registry = [{'source': 'fachgebiet', 'keep': [], 'routes': [{'slug': 'pruefen', 'members': ['veralteter-inhalt']}]}]
+            with patch.object(subject, 'ROOT', root), patch.object(subject, 'replacements', return_value=replacement), patch.object(subject, 'registry', return_value=old_registry):
+                self.assertEqual(subject.original_skill_sources(directory), [active.resolve()])
+                active.unlink()
+                with self.assertRaisesRegex(ValueError, 'Ersatzregister'):
+                    subject.original_skill_sources(directory)
+
 if __name__=='__main__':unittest.main()

@@ -1,0 +1,29 @@
+name: Projekt ANKER – Rentnergesellschaft mit drei Angeboten und einer zweifelhaften
+  Immobilie
+plugin: bav-strategie-konzern
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Der deklarierte Originalbestand ist vorhanden.
+  min: 35
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Die getrennte Lesefassung ist vorhanden.
+  path: gesamt-pdf/bav-rentnergesellschaft-rheinhafen-logistik_gesamt.pdf
+- id: fachpruefung-1
+  check_type: human_review
+  description: Welche rechtliche Struktur wird angeboten und welche Verpflichtungen
+    sollen übergehen?
+- id: fachpruefung-2
+  check_type: human_review
+  description: Wie unterscheiden sich Buchwert, Angebotspreis, verfügbare Mittel und
+    belastbare Sicherheiten?
+- id: fachpruefung-3
+  check_type: human_review
+  description: Welche Finanzierungsszenarien und Vertragsregelungen benötigt eine
+    vertretbare Geschäftsführungsentscheidung?
+- id: fortsetzung
+  check_type: human_review
+  description: Die späteren Angaben zur Finanzierung mit der ursprünglichen Ausstattung
+    und dem Zahlungsplan vergleichen. Die Entscheidungsvorlage auf die tatsächlich
+    belegte Lage umstellen.

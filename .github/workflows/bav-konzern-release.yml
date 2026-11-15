@@ -1,0 +1,111 @@
+name: bAV Konzern – Plugin und vier Arbeitsakten
+
+on:
+  pull_request:
+    paths:
+      - 'bav-strategie-konzern/**'
+      - 'testakten/bav-*/**'
+      - 'scripts/*bav*'
+      - 'scripts/data/bav-konzern-faelle/**'
+      - 'scripts/data/skill-source-replacements.json'
+      - 'scripts/skill_sources.py'
+      - 'scripts/generate-fachmodule-index.py'
+      - 'scripts/generate-megaprompt.py'
+      - 'scripts/werkstatt_visualisierung.py'
+      - 'scripts/consolidate-skill-cap.py'
+      - 'scripts/integrate-skill-cap.py'
+      - 'quality/bav-konzern-2026-11-15/**'
+      - 'quality/evals/bav-strategie-konzern.json'
+      - '.github/workflows/bav-konzern-release.yml'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Unbenutzter Komponententag
+        required: true
+        default: bav-strategie-konzern-v445.36.3
+      expected_commit:
+        description: Vollständiger geprüfter Main-Commit
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: bav-konzern-${{ inputs.tag || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+    env:
+      EXPECTED_COMMIT: ${{ inputs.expected_commit || github.sha }}
+      TAG: ${{ inputs.tag || 'bav-strategie-konzern-v445.36.3' }}
+    steps:
+      - name: Veröffentlichung ausschließlich von main
+        if: github.event_name == 'workflow_dispatch' && github.ref != 'refs/heads/main'
+        run: exit 1
+      - name: Unveränderliche Eingabe prüfen
+        run: |
+          [[ "$EXPECTED_COMMIT" =~ ^[a-f0-9]{40}$ ]]
+          test "$TAG" = 'bav-strategie-konzern-v445.36.3'
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.expected_commit || github.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Abhängigkeiten
+        run: python3 -m pip install -r requirements.txt
+      - name: Struktur und fachliche Quellenbindung
+        run: |
+          node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-yaml-frontmatter.py
+          node scripts/validate-plugin-structure.mjs
+          python3 scripts/validate-testakten-gesamt-pdf.py
+          python3 scripts/validate-testakten-readme-downloads.py
+          python3 scripts/validate-root-readme-overview.py
+          python3 scripts/validate-readme-navigation.py
+          python3 scripts/validate-markdown-structure.py
+          python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/consolidate-skill-cap.py --verify quality/skill-consolidation/2026-11-14/source-map.json --strict-links
+          python3 scripts/sync-werkstatt-visualisierung.py --check
+      - name: Akten und Veröffentlichungsschranken testen
+        run: |
+          python3 scripts/test-bav-konzern-akten.py
+          python3 scripts/test-bav-konzern-release.py
+          python3 scripts/test-skill-quality-release.py
+          python3 scripts/test-release-assets.py
+          python3 scripts/test-release-rate-limits.py
+          python3 scripts/test-scoped-release-routing.py
+          python3 scripts/test-skill-cap-integration.py
+          python3 scripts/test-skill-cap-migration.py
+          python3 scripts/test-skill-package-links.py
+          python3 scripts/test-skill-sources.py
+      - name: Pakete aus dem geprüften Commit bauen
+        run: |
+          python3 scripts/build-bav-konzern-release.py --dist "$RUNNER_TEMP/bav-dist" --expected-commit "$EXPECTED_COMMIT"
+          python3 scripts/build-bav-konzern-release.py --dist "$RUNNER_TEMP/bav-dist" --verify --expected-commit "$EXPECTED_COMMIT"
+          python3 scripts/test-bav-konzern-release.py --dist "$RUNNER_TEMP/bav-dist"
+      - name: Prüfnachweise sichern
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bav-konzern-pakete
+          path: ${{ runner.temp }}/bav-dist/*
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Nach vollständiger Downloadprüfung veröffentlichen
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git merge-base --is-ancestor "$EXPECTED_COMMIT" origin/main
+          python3 scripts/publish-bav-konzern-release.py --dist "$RUNNER_TEMP/bav-dist" --expected-commit "$EXPECTED_COMMIT" --repo "$GITHUB_REPOSITORY"

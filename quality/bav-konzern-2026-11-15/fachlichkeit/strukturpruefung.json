@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-15",
+  "active_skills": [
+    "aenderung-und-harmonisierung-bearbeiten",
+    "arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten",
+    "arbeitsprodukt-bearbeiten",
+    "bestand-erfassen-bearbeiten",
+    "einstieg-routing",
+    "haftung-und-deckung-bearbeiten",
+    "juristischer-argumentationskern",
+    "transaktion-und-konzern-bearbeiten",
+    "unterlagen-und-quellen-auswerten-bearbeiten",
+    "workflow-kaltstart-und-routing"
+  ],
+  "count_skills": 10,
+  "count_chapters": 8,
+  "master_words": 6884,
+  "mini_utf8_bytes_crlf": 6490,
+  "active_legacy_fachtexte": 0,
+  "checked_files": 21,
+  "errors": [],
+  "note": "Prüft ausschließlich Inhaltsstruktur, Links, historische Namen und Promptumfang; kein Release-/CI-Nachweis."
+}

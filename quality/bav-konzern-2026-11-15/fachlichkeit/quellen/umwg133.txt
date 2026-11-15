@@ -1,0 +1,22 @@
+
+§ 133 UmwG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Umwandlungsgesetz (UmwG)
+§ 133
+Schutz der Gläubiger und der Inhaber von Sonderrechten
+(1) Für die Verbindlichkeiten des übertragenden Rechtsträgers, die vor dem Wirksamwerden der Spaltung begründet worden sind, haften die an der Spaltung beteiligten Rechtsträger als Gesamtschuldner. Die §§ 25, 26 und 28 des Handelsgesetzbuchs sowie § 125 in Verbindung mit § 22 bleiben unberührt; zur Sicherheitsleistung ist nur der an der Spaltung beteiligte Rechtsträger verpflichtet, gegen den sich der Anspruch richtet.
+(2) Für die Erfüllung der Verpflichtung nach § 125 in Verbindung mit § 23 haften die an der Spaltung beteiligten Rechtsträger als Gesamtschuldner. Bei Abspaltung und Ausgliederung können die gleichwertigen Rechte im Sinne des § 125 in Verbindung mit § 23 auch in dem übertragenden Rechtsträger gewährt werden.
+(3) Diejenigen Rechtsträger, denen die Verbindlichkeiten nach Absatz 1 Satz 1 im Spaltungs- und Übernahmevertrag nicht zugewiesen worden sind, haften für diese Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach der Spaltung fällig und daraus Ansprüche gegen sie in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts. Die Haftung der in Satz 1 bezeichneten Rechtsträger ist beschränkt auf den Wert des ihnen am Tag des Wirksamwerdens zugeteilten Nettoaktivvermögens. Für vor dem Wirksamwerden der Spaltung begründete Versorgungsverpflichtungen auf Grund des Betriebsrentengesetzes beträgt die in Satz 1 genannte Frist zehn Jahre.
+(4) Die Frist beginnt mit dem Tage, an dem die Eintragung der Spaltung in das Register des Sitzes des übertragenden Rechtsträgers nach § 125 in Verbindung mit § 19 Abs. 3 bekannt gemacht worden ist. Die für die Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
+(5) Einer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit die in Absatz 3 bezeichneten Rechtsträger den Anspruch schriftlich anerkannt haben.
+(6) Die Ansprüche nach Absatz 2 verjähren in fünf Jahren. Für den Beginn der Verjährung gilt Absatz 4 Satz 1 entsprechend.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+Seite ausdrucken
+");
+      /* ]]> */ //-->

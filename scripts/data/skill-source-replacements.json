@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "plugins": {
+    "bav-strategie-konzern": {
+      "source": "bav-strategie-konzern",
+      "active_skills": [
+        "aenderung-und-harmonisierung-bearbeiten",
+        "arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten",
+        "arbeitsprodukt-bearbeiten",
+        "bestand-erfassen-bearbeiten",
+        "einstieg-routing",
+        "haftung-und-deckung-bearbeiten",
+        "juristischer-argumentationskern",
+        "transaktion-und-konzern-bearbeiten",
+        "unterlagen-und-quellen-auswerten-bearbeiten",
+        "workflow-kaltstart-und-routing"
+      ],
+      "chapters": [
+        "references/konzern/01-bestand-und-zusagen.md",
+        "references/konzern/02-harmonisierung-und-mitbestimmung.md",
+        "references/konzern/03-anpassung-und-arbeitgeberhaftung.md",
+        "references/konzern/04-transaktionen-und-rentnergesellschaft.md",
+        "references/konzern/05-finanzierung-cta-und-insolvenzschutz.md",
+        "references/konzern/06-steuer-bilanz-und-international.md",
+        "references/konzern/07-arbeitsprodukte-und-governance.md",
+        "references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "archive_manifest": "quality/bav-konzern-2026-11-15/legacy/mapping.json",
+      "reason": "Individuelle fachliche Neufassung: zehn Arbeitswege und acht Fachkapitel ersetzen den alten Inhalt. Die Alttexte bleiben bytegleich außerhalb des installierten Plugins archiviert."
+    }
+  }
+}

@@ -4,15 +4,15 @@ Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was gesch
 
 ## 1. Fachliche Ansicht
 
-**Leitfrage für Betriebliche Altersversorgung:** Welche Ereignisse, Nachweise und nächsten Schritte hängen zeitlich zusammen?
+**Leitfrage für Betriebliche Altersversorgung:** Welches Unternehmen schuldet welcher Personengruppe welche Versorgung und was verändert die geplante Maßnahme?
 
-**Erste Ansicht:** Zeige eine Zeitachse mit Ereignisdatum, Zugang oder Kenntnis, belegter Frist und zugehöriger Unterlage; ordne Personen und Zuständigkeiten eindeutig zu.
+**Erste Ansicht:** Zeige zunächst eine Kohortenübersicht mit Zusagefassung, Arbeitgeber, bisheriger Leistung und geplanter Änderung. Bei Transaktionen ergänze eine beschriftete Verbindung zwischen Arbeitgeberzusage, Versorgungsträger, Finanzierung und Sicherung; diese vier Ebenen bleiben getrennt.
 
-**Sinnvolle Interaktion:** Bei mehreren Vorgängen kann eine Auswahl auf Person oder Zeitraum fokussieren. Ein abweichendes Zugangsdatum ist ein gekennzeichnetes Szenario; Frist und betroffener Entwurf werden nach erneuter Rechtsprüfung gemeinsam angepasst.
+**Sinnvolle Interaktion:** Eine Auswahl auf Gesellschaft, Kohorte oder belegten Stichtag zeigt Originalunterlage und Berechnung. Eine geänderte Dynamik, Finanzierung oder Struktur bleibt ein gesondertes Szenario mit Differenz zum Ausgangsstand. Weder eine rechnerische Ersparnis noch eine grafische Zuordnung entscheidet über die rechtliche Zulässigkeit oder entlässt einen Arbeitgeber aus seiner Haftung.
 
-**Datengrundlage:** Datum, Datumsart, Beteiligter, Handlung, Quelle, belegter Fristmaßstab und offene Nachweise. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+**Datengrundlage:** Gesellschaft und Rolle, Kohorten- oder pseudonyme Personenkennung, Zusagefassung und -datum, Stichtag, Leistungsformel, tatsächliche Zahlung, Finanzierungs- und Sicherungsunterlage sowie genaue Belegstelle. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
 
-**Weiter zum Ergebnis:** Fristenblatt und das beauftragte Schreiben, die Personalmaßnahme oder der begründete Vermerk. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+**Weiter zum Ergebnis:** die ausformulierte Entscheidungsvorlage, Vertragsregelung oder Anpassungsmitteilung mit nachrechenbarer Vergleichsrechnung und ausdrücklich offenen rechtlichen oder versicherungsmathematischen Fragen. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
 
 ## 2. Verfügbare Fähigkeiten nutzen
 

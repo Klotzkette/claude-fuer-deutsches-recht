@@ -1,0 +1,28 @@
+name: Projekt KANTE – Betriebsübergang, CTA und verschwundene zwölf Personen
+plugin: bav-strategie-konzern
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Der deklarierte Originalbestand ist vorhanden.
+  min: 36
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Die getrennte Lesefassung ist vorhanden.
+  path: gesamt-pdf/bav-carve-out-rheinbogen-automation_gesamt.pdf
+- id: fachpruefung-1
+  check_type: human_review
+  description: Wie unterscheiden sich die vorgesehenen Transaktionsstrukturen für
+    Arbeitgeber und Versorgungsschuldner?
+- id: fachpruefung-2
+  check_type: human_review
+  description: Welche Verpflichtungen, Vermögenswerte und Sicherheiten erfasst jede
+    Vertragsanlage tatsächlich?
+- id: fachpruefung-3
+  check_type: human_review
+  description: Welche Bedingungen müssen vor einer verbindlichen Umsetzung geklärt
+    oder vertraglich abgesichert werden?
+- id: fortsetzung
+  check_type: human_review
+  description: Nachgereichte Personen-, Garantie- und Treuhandunterlagen gegen den
+    ersten Vertragsentwurf halten. Betroffene Klauseln gezielt neu formulieren und
+    verbleibende Lücken benennen.

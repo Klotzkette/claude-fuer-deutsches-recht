@@ -1,65 +1,40 @@
 ---
 name: unterlagen-und-quellen-auswerten-bearbeiten
-description: "Für Betriebliche Altersversorgung: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt."
+description: "Verbindet bAV-Tatsachen mit Originalbelegen und überprüften Rechtsquellen, löst Versions- und Datenkonflikte und aktualisiert betroffene Berechnungen nachvollziehbar."
 ---
 
-# Unterlagen und Quellen auswerten
+# 1. Belege, Rechtsquellen und Widersprüche auswerten
 
-## 1. Zweck und Anwendungsfall
+## 1.1. Zweck und Anwendungsfall
 
-Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen.
+Du nutzt diesen Skill für eine gezielte Beweis- und Quellenprüfung, insbesondere bei widersprüchlichen Zusagetexten, neuen Daten oder ungesicherten Rechtsbehauptungen. Eine Suchtrefferliste ist keine fertige Recherche.
 
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+## 1.2. Eingaben
 
-## 2. Eingaben
+Konkrete Rechts- oder Tatsachenfrage, Originaldateien, bereits verwendete Berechnung und Quellen, maßgeblicher Sachverhalts- und Rechtsstichtag.
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+## 1.3. Ablauf und Checkliste
 
-## 3. Ablauf
+1. Formuliere die entscheidende Behauptung und trenne Tatsache, Vertragsauslegung, Rechtsmaßstab und Rechenergebnis. Weise jedem Teil den passenden Nachweistyp zu.
+2. Lies die maßgebliche Dokumentstelle im Kontext. Erfasse Datei, Seite oder Blatt/Zelle, Datum, Fassung und Einschränkungen. Original, OCR-Text und manuelle Ergänzung unterscheidbar halten.
+3. Prüfe aktuelle Norm und erforderliche historische Fassung. Beim BRSG II allgemeines Inkrafttreten 22.01.2026 von § 6 BetrAVG und § 100 EStG ab 01.01.2027 trennen. Rechtsänderung nicht rückwirkend auf fiktive historische Dokumente schreiben.
+4. Öffne amtliche Entscheidungen und lies Sachverhalt, tragende Erwägung und Grenzen. Zitiere Gericht, Entscheidungsart, Datum, Aktenzeichen und genaue Randnummer. Verwendbare Anker stehen in Kapitel 8; ihre Reichweite nicht überdehnen.
+5. Führe einen Quellenstatus: tatsächlich gelesen, nur Fundstelle, historisch oder offen. Eine behauptete aktuelle Marktüblichkeit braucht eigene datierte Belege. Fiktive Anbieterangebote belegen nur ihren fiktiven Fall.
+6. Bei Widerspruch nicht die passendste Zahl auswählen. Dokumentiere Alternativen, beschaffe den entscheidenden Beleg und berechne nötigenfalls begrenzte Szenarien. Neue Information aktualisiert nur die betroffene Rechnung und Rechtsfolge, aber vollständig.
+7. Übergebe eine verwendbare Begründung. Interne Abruf- und Extraktionshinweise bleiben außerhalb eines Empfängerschreibens, soweit sie dessen Verständnis nicht betreffen.
 
-### 3.1. Arbeitsschritt
+## 1.4. Quellenpflicht
 
-Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen.
+Lies [das einschlägige Fachkapitel](../../references/konzern/08-quellen-und-rechtsstand.md) und bei Rechtsaussagen [Quellen und Rechtsstand](../../references/konzern/08-quellen-und-rechtsstand.md). Prüfe Normfassung und tatsächliche Entscheidungsstelle für den konkreten Stichtag; Gericht, Entscheidungsart, Datum, Aktenzeichen und tragende Randnummer nennen. Tatsachen mit Datei/Seite oder Blatt/Zelle belegen. Ungeprüfte Funde, fiktive Fallunterlagen und aktuariell nicht berechnete Werte nicht als verifiziert ausgeben. Die acht Kapitel ersetzen die früheren verstreuten Fachvertiefungen.
 
-### 3.2. Arbeitsschritt
+## 1.5. Ausgabeformat
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Belegte Sachverhaltsfeststellung, Quellenkarte mit Reichweite, dokumentierte Widerspruchsauflösung und aktualisiertes Arbeitsprodukt. Offene Fragen erhalten eine konkrete Nachforderung mit Zweck.
 
-### 3.3. Arbeitsschritt
+Enddokumente in vollständigen Sätzen ausformulieren; keine Skelette oder bloßen Überschriften als fertiges Ergebnis. Formelle Dateiausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Einen nötigen Exporthinweis außerhalb des Empfängertexts halten.
 
-Welche Zustimmung, Übertragung, Sicherung und Kommunikation ist für den Vollzug erforderlich.
+## 1.6. Beispiel
 
-### 3.4. Arbeitsschritt
+Ein Memo nennt 360 Euro Förderbetrag für das Jahr 2026. Lies § 100 EStG und Art. 18 BRSG II, korrigiere auf den für 2026 geltenden Höchstbetrag von 288 Euro und kennzeichne die Änderung ab 2027.
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
-
-### 3.5. Fachvertiefungen gezielt laden
-
-Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
-
-- [Anschluss-Routing](../anschluss-routing/FACHINHALT.md)
-- [Buyouts Quellenkarte](../buyouts-quellenkarte/FACHINHALT.md)
-- [Betriebliche Altersversorgung Strategie Konzern — Allgemein](../design-start-chronologie/FACHINHALT.md)
-- [Dokumentenintake](../dokumente-intake/FACHINHALT.md)
-- [Rechtsquellen-Livecheck](../quellen-livecheck/FACHINHALT.md)
-- [Buyouts: Livequellen- und Rechtsprechungscheck](../spezial-buyouts-livequellen-und-rechtsprechungscheck/FACHINHALT.md)
-- [Unterlagen und Lücken](../unterlagen-luecken/FACHINHALT.md)
-- [Chronologie und Belegmatrix](../workflow-chronologie-und-belegmatrix/FACHINHALT.md)
-- [Unterlagen- und Lückenliste](../workflow-unterlagen-lueckenliste/FACHINHALT.md)
-
-## 4. Quellenpflicht
-
-Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
-
-## 5. Ausgabeformat
-
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Unterlagen und Quellen auswerten“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
-
-Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
-
-## 6. Beispiele
-
-- Ein Auftrag zu „Anschluss-Routing“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Buyouts Quellenkarte“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+Für passende interaktive Ansichten beachte die [Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md).

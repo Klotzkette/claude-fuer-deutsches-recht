@@ -119,6 +119,22 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             english = ('English: Start with `Grundakte`, then open the court-intake folder. '
                        'Keep the later delivery separate until the second review. Both ZIPs preserve '
                        'these folders; the combined PDF provides bookmarks for the complete file.')
+        if slug in {
+            'bav-strategie-konzern-meissner-rheinwerk-ag',
+            'bav-carve-out-rheinbogen-automation',
+            'bav-rentnergesellschaft-rheinhafen-logistik',
+            'bav-pensionskasse-niederrhein-verbund',
+        }:
+            intro = ('Beginnen Sie im Originalformat-ZIP mit `Grundakte`. Dort liegen die beim ersten '
+                     'Auftrag vorhandenen Verträge, Korrespondenzen und Rohdaten. Öffnen Sie `Fortsetzung` '
+                     'erst im zweiten Durchgang: Die nachgereichten Belege können die erste Einschätzung '
+                     'verändern. Beide ZIPs erhalten diese Ordner. Das Originalformat-ZIP enthält '
+                     'bearbeitbare Dokumente; das Einzel-PDF-ZIP bietet die Lesefassungen.')
+            trailer = ('Die Gesamt-PDF führt mit Lesezeichen durch beide Bearbeitungsstände. '
+                       'Sie und eine Musterlösung sind im Originalformat-ZIP nicht enthalten.')
+            english = ('English: Start with `Grundakte` and open `Fortsetzung` only for the second review. '
+                       'Both ZIPs preserve these folders. The original-format ZIP includes editable '
+                       'source records, without a model answer or combined PDF.')
     if slug in selection()["central"]:
         intro = ("Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner "
                  "`Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein "

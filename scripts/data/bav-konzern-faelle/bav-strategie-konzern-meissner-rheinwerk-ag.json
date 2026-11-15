@@ -1,0 +1,1929 @@
+{
+  "slug": "bav-strategie-konzern-meissner-rheinwerk-ag",
+  "title": "RHEINGOLD 2030 – vierzehn Ordnungen und drei unterschiedliche Besitzstände",
+  "client": "MEISSNER RHEINWERK AG",
+  "city": "Düsseldorf",
+  "story": "Die MEISSNER RHEINWERK AG baut Industriekomponenten. Acht deutsche Gesellschaften mit Werken in Düsseldorf, Stuttgart und Bremen verwalten vierzehn historisch gewachsene Versorgungsordnungen. Der Vorstand möchte ab 2027 ein einheitliches System für Neueintritte und die noch aktive Belegschaft. CFO Henrick Otterbach-Veltheim nennt zugleich ein Einsparziel von 18 Mio. EUR jährlich. Unterschiedliche Zusagetexte, alte Standortwechsel und nicht abgestimmte Gremien machen aus dem scheinbaren IT-Projekt eine grundlegende Personal- und Finanzentscheidung.",
+  "assignment": "Ermitteln Sie aus den Originalregelungen und Bestandsdaten, welche Gruppen durch die Entwurfsvarianten betroffen sind. Entwickeln Sie einen belastbaren Projektweg mit wirtschaftlicher Gegenrechnung, Zuständigkeitsklärung und vollständigen Entwürfen für die erforderlichen Abstimmungen; entscheiden Sie nicht allein anhand der Bezeichnung „Future Service“.",
+  "law_firm": {
+    "name": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB",
+    "address": "Am Rheinbogen 18, 51373 Leverkusen",
+    "partners": [
+      "Dr. Monkī D. Rufi",
+      "Dr. Nora Treuenfels"
+    ],
+    "email": "mail@monki-treuenfels.example"
+  },
+  "documents": [
+    {
+      "id": "01",
+      "path": "Grundakte/01_Mandatsanfrage.eml",
+      "kind": "eml",
+      "title": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "date": "2026-10-19",
+      "sender": "Vorstand <vorstand@meissner-rheinwerk.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "Die MEISSNER RHEINWERK AG baut Industriekomponenten. Acht deutsche Gesellschaften mit Werken in Düsseldorf, Stuttgart und Bremen verwalten vierzehn historisch gewachsene Versorgungsordnungen. Der Vorstand möchte ab 2027 ein einheitliches System für Neueintritte und die noch aktive Belegschaft. CFO Henrick Otterbach-Veltheim nennt zugleich ein Einsparziel von 18 Mio. EUR jährlich. Unterschiedliche Zusagetexte, alte Standortwechsel und nicht abgestimmte Gremien machen aus dem scheinbaren IT-Projekt eine grundlegende Personal- und Finanzentscheidung.",
+        "Ermitteln Sie aus den Originalregelungen und Bestandsdaten, welche Gruppen durch die Entwurfsvarianten betroffen sind. Entwickeln Sie einen belastbaren Projektweg mit wirtschaftlicher Gegenrechnung, Zuständigkeitsklärung und vollständigen Entwürfen für die erforderlichen Abstimmungen; entscheiden Sie nicht allein anhand der Bezeichnung „Future Service“. Bitte bereiten Sie die Unterlagen so auf, dass die Geschäftsleitung bis 30. November 2026 entscheiden kann, welche Variante tatsächlich weiterverfolgt wird. Der Termin ist ein interner Planungstermin; wir erwarten keine Erklärung, dass die arbeitsrechtliche Umsetzung bis dahin sicher abgeschlossen sein werde.",
+        "Wir benötigen eine nachvollziehbare Trennung der Arbeitgeber, Versorgungswege, betroffenen Personen und Finanzierungsquellen. Die Pensionsrückstellung in der Konzernrechnung ist nicht unser verfügbares Bankguthaben. Bitte fragen Sie bei Widersprüchen zunächst die in den Unterlagen genannten Sachbearbeiter und halten Sie fest, aus welcher Datei eine Zahl stammt. Ein ungeprüftes Gesamturteil über alle Bestände hilft uns im Vorstand nicht.",
+        "Die Personalabteilung hat ihre Exporte auf den unten bezeichneten Stand eingefroren. Nachlieferungen werden mit Eingangsdatum in einem eigenen Ordner gesammelt. Es wurden noch keine Beschäftigten angeschrieben, keine Einigungsstelle angerufen und keine individuellen Zustimmungserklärungen eingesammelt. Bitte entwerfen Sie solche Schritte nur als gesondert zu genehmigende nächste Maßnahmen.",
+        "Mit freundlichen Grüßen\nDie Geschäftsleitung\nMEISSNER RHEINWERK AG"
+      ],
+      "attachments": [],
+      "from_email": "vorstand@meissner-rheinwerk.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "02",
+      "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+      "kind": "pdf",
+      "title": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "date": "2026-10-20",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "body": [
+        "1 Vertragsparteien und Gegenstand",
+        "MEISSNER RHEINWERK AG beauftragt Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Monkī D. Rufi und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen MT-RHEINGOLD-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
+        "1.1 Geschuldete Leistungen",
+        "Die Kanzlei sichtet die zur Verfügung gestellten Versorgungsregelungen, Verträge und Korrespondenzen, erhebt entscheidungserhebliche Lücken und erstellt nach Abstimmung des Sachverhalts eine rechtliche Entscheidungsvorlage. Auf gesonderte Anforderung werden vollständige Entwürfe für Verhandlungen, Beschäftigteninformationen und erforderliche Vertragsänderungen erstellt. Eine automatische Versendung oder Einreichung ist nicht beauftragt. Die Mandantin entscheidet über tatsächliche Umsetzung und Budget.",
+        "1.2 Abgrenzung der Beratung",
+        "Nicht beauftragt sind die Erstellung eines versicherungsmathematischen Gutachtens, eine Abschlussprüfung, individuelle Steuerberatung der Versorgungsberechtigten oder eine Anlageempfehlung. Die Kanzlei überprüft die rechtliche Bedeutung wirtschaftlicher Annahmen, bestätigt aber nicht die Richtigkeit einer vom Unternehmen gelieferten Barwertberechnung. Für ausländische Unternehmen wird bei Bedarf ein gesonderter Auftrag vereinbart. Das Mandat enthält keine Zusage eines bestimmten bilanziellen Ergebnisses oder einer Zustimmung Dritter.",
+        "2 Zusammenarbeit und Dokumente",
+        "Die Mandantin stellt maßgebliche Originalfassungen und sämtliche Nachträge bereit. Eine aktuelle Verwaltungstabelle ersetzt die zugrunde liegende Zusage nicht. Wenn eine Datei nur ein Auszug oder eine nicht unterzeichnete Fassung ist, wird dies im Begleitschreiben vermerkt. Die Kanzlei führt ein Eingangsverzeichnis und bewahrt widersprechende Fassungen nebeneinander auf, bis die Mandantin die Herkunft geklärt hat. Sie darf keine nachträgliche Glättung der Personalhistorie als gesicherte Tatsache behandeln.",
+        "2.1 Termine und Zwischenstände",
+        "Der vereinbarte Entscheidungstermin ist abhängig von der rechtzeitigen Lieferung der entscheidungserheblichen Dokumente. Kann eine Frage mangels Belegen noch nicht abschließend beurteilt werden, legt die Kanzlei die vorhandenen Varianten mit den konkreten Folgen und der fehlenden Information vor. Ein Zwischenstand wird nicht als unterschriftsreife Umsetzungsvorlage gekennzeichnet. Die Parteien stimmen wöchentlich mittwochs einen schriftlichen Sachstand ab.",
+        "3 Vergütung und Kostensteuerung",
+        "Die Vergütung richtet sich nach der gesondert unterzeichneten Vergütungsvereinbarung. Für die erste Sichtungs- und Strukturierungsphase gilt ein internes Planungsbudget von 85.000 EUR netto. Dieses Planungsbudget ist keine pauschale Vergütung und keine Zustimmung zu Mehrleistungen. Bei absehbarer Überschreitung um mehr als zehn Prozent unterrichtet die Kanzlei die Mandantin vor weiterer nicht eilbedürftiger Tätigkeit. Reise- und externe Sachverständigenkosten bedürfen gesonderter Freigabe.",
+        "4 Kommunikation und Datenzugriff",
+        "Der Datenaustausch erfolgt über den vereinbarten geschützten Datenraum. Beschäftigtendaten werden nur den für das Mandat erforderlichen Personen zugänglich gemacht. Die Parteien verwenden in Arbeitslisten möglichst Personalnummern. Über den Einsatz zusätzlicher Dienstleister und den erforderlichen Zugriff wird gesondert entschieden. Eine allgemeine Zustimmung zur Weitergabe vollständiger Personalakten an frei zugängliche Systeme wird durch diese Vereinbarung nicht erteilt.",
+        "5 Freigabe, Beendigung und Aktenherausgabe",
+        "Erklärungen gegenüber Beschäftigten, Gremien, Versorgungsträgern oder Behörden bedürfen der inhaltlichen Freigabe der Mandantin. Gesetzliche berufliche Pflichten der Kanzlei bleiben unberührt. Bei Beendigung werden die vom Unternehmen überlassenen Dokumente und die zur Fortführung erforderlichen Arbeitsstände geordnet bereitgestellt; Aufbewahrungspflichten bleiben bestehen. Änderungen des Beratungsgegenstands und zusätzlicher Vertretungsaufträge werden dokumentiert.",
+        "Für MEISSNER RHEINWERK AG: Geschäftsleitung, elektronisch freigegeben am 2026-10-20.\nFür Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-20."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "03",
+      "path": "Grundakte/03_Versorgungsordnung_Duesseldorf_1987.pdf",
+      "kind": "pdf",
+      "title": "Versorgungsordnung Düsseldorf 1987 – unterzeichnete Archivfassung",
+      "date": "1987-11-22",
+      "sender": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Versorgungsordnung Düsseldorf 1987 – unterzeichnete Archivfassung",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "MEISSNER RHEINWERK AG gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Ordnung gilt für die Arbeitnehmer des Düsseldorfer Werks nach einer Aufnahmebestätigung und einer fünfjährigen Wartezeit. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Die jährliche Altersrente beträgt für jedes volle anrechenbare Dienstjahr 0,45 Prozent des letzten vollen jährlichen pensionsfähigen Festgehalts. Es werden höchstens 35 Dienstjahre berücksichtigt. Pensionsfähig sind zwölf feste Monatsgehälter ohne variable Vergütung, Überstundenvergütung und Reisekostenerstattungen. Für Teilzeitabschnitte wird das pensionsfähige Vollzeitgehalt mit dem Verhältnis der vereinbarten zur regelmäßigen Vollzeit multipliziert; die gesamte Leistung ist nach den Zeitabschnitten zu gewichten.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder Erwerbsunfähigkeit vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Maßgeblich ist der Bescheid des gesetzlichen Rentenversicherungsträgers über eine Rente wegen Erwerbsunfähigkeit nach den bei Eintritt des Versorgungsfalls geltenden Voraussetzungen; ein gleichwertiger ärztlicher Nachweis wird gesondert geprüft. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Der Arbeitgeber erfüllt die Direktzusage aus eigenen Mitteln. Die Bildung einer bilanziellen Rückstellung ist keine separate Einzahlung zugunsten einzelner Personen. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "04",
+      "path": "Grundakte/04_Versorgungsordnung_Stuttgart_2002.pdf",
+      "kind": "pdf",
+      "title": "Versorgungsordnung Stuttgart 2002 – Leistungsplan",
+      "date": "2002-10-14",
+      "sender": "MEISSNER RHEINWERK Schwabenwerk Produktions GmbH\nWerkstraße 42\n70469 Stuttgart",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Versorgungsordnung Stuttgart 2002 – Leistungsplan",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "MEISSNER RHEINWERK Schwabenwerk Produktions GmbH gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Ordnung erfasst die im Werk Stuttgart beschäftigten Arbeitnehmer nach fünf Jahren Betriebszugehörigkeit. Aufnahme, Austritt und besondere Zusagen werden in einem eigenen Verzeichnis geführt. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Für jedes volle anrechenbare Dienstjahr beträgt die jährliche Altersrente 0,50 Prozent des letzten jährlichen Festgehalts, höchstens für 35 Dienstjahre. Die Summe aus dieser Betriebsrente und der anrechenbaren gesetzlichen Jahresrente soll 70 Prozent des pensionsfähigen Entgelts nicht überschreiten. Übersteigt sie diese Grenze, wird allein die Betriebsrente auf den Differenzbetrag begrenzt. Die anrechenbare gesetzliche Rente wird aus dem im Versorgungsfall vorgelegten Rentenbescheid ermittelt; für Hochrechnungen ist sie gesondert als Schätzung auszuweisen.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder voller Erwerbsminderung vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Die Berechtigten legen den Bescheid des gesetzlichen Rentenversicherungsträgers oder gleichwertige Nachweise vor. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Die Durchführung erfolgt über die Schwabenwerk-Unterstützungskasse e.V. Arbeitgeber und Kasse führen getrennte Unterlagen über die Zusage und die Finanzierung. Der Abschluss einer Rückdeckungsversicherung wird nicht als Änderung des Leistungsversprechens behandelt. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "05",
+      "path": "Grundakte/05_Versorgungsordnung_Bremen_2014.pdf",
+      "kind": "pdf",
+      "title": "Versorgungsordnung Bremen 2014 – Beitragsbausteine",
+      "date": "2014-05-17",
+      "sender": "MEISSNER RHEINWERK Bremen GmbH\nHafenallee 19\n28217 Bremen",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Versorgungsordnung Bremen 2014 – Beitragsbausteine",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "MEISSNER RHEINWERK Bremen GmbH gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Ordnung erfasst Neueintritte am Standort Bremen seit dem 1. Januar 2008 und Personen, deren Aufnahme in diese Fassung schriftlich bestätigt worden ist. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Der Arbeitgeber verwendet jährlich 4 Prozent des pensionsfähigen Jahresfestentgelts für einen Versorgungsbaustein. Der für das jeweilige Beitragsjahr maßgebliche Verrentungsfaktor wird mit der Jahresinformation dokumentiert. Für den Beitragsjahrgang 2014 beträgt die jährliche garantierte Altersrente ab 65 je 1.000 EUR Beitrag 45 EUR. Spätere Beitragstabellen gelten ausschließlich für die jeweils bezeichneten neuen Beitragsjahre. Die bereits gebildeten garantierten Bausteine werden durch eine neue Tabelle nicht herabgesetzt. Überschüsse werden gesondert ausgewiesen und nicht ohne entsprechende Zusage als garantiert bezeichnet.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder voller Erwerbsminderung vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Die Berechtigten legen den Bescheid des gesetzlichen Rentenversicherungsträgers oder gleichwertige Nachweise vor. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Die Beiträge werden an die Hansebund Pensionsfonds AG überwiesen. die Arbeitgeberzusage und die Versicherungsunterlagen werden gesondert archiviert. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "06",
+      "path": "Grundakte/06_Nachtrag_Schliessung_1999.pdf",
+      "kind": "pdf",
+      "title": "Nachtrag zur Düsseldorfer Versorgungsordnung – Schließung für Neueintritte",
+      "date": "1999-12-15",
+      "sender": "MEISSNER RHEINWERK AG / Betriebsrat Düsseldorf\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Personalverwaltung\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Nachtrag zur Düsseldorfer Versorgungsordnung – Schließung für Neueintritte",
+      "body": [
+        "1 Schließungsstichtag",
+        "Die Aufnahme in die Versorgungsordnung Düsseldorf 1987 endet für Personen, deren Arbeitsverhältnis erstmals nach dem 31. Dezember 1999 beginnt. Bereits bis zu diesem Datum aufgenommene Beschäftigte werden nach der bisherigen Ordnung weitergeführt. Der Stichtag begrenzt weder die künftig anrechenbare Dienstzeit dieser Personen noch die Berücksichtigung späterer Gehaltsentwicklungen.",
+        "2 Standortwechsel",
+        "Bei einem konzerninternen Wechsel ist vor Unterzeichnung des neuen Arbeitsvertrags schriftlich festzuhalten, ob und in welchem Umfang der neue Arbeitgeber die bisherige Zusage übernimmt. Eine Änderung der organisatorischen Kostenstelle genügt nicht. Die Personalabteilungen sollen eine Kopie der Übernahmebestätigung bei beiden Arbeitgebern ablegen.",
+        "3 Durchführung",
+        "Bis zum 31. März 2000 erstellt die Personalabteilung eine Liste der zum Stichtag aufgenommenen Beschäftigten. Nachträgliche Korrekturen wegen verspätet erfasster Eintritte sind unter Beifügung des Arbeitsvertrags zu dokumentieren. Alle übrigen Regelungen bleiben unberührt.",
+        "Düsseldorf, 15. Dezember 1999. Für die Geschäftsleitung: Gerd Meissner. Für den Betriebsrat: Elke Dornberg."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "07",
+      "path": "Grundakte/07_Uebernahmebestaetigung_Standortwechsel_2003.pdf",
+      "kind": "pdf",
+      "title": "Persönliche Versorgungsbestätigung – Wechsel von Düsseldorf nach Stuttgart",
+      "date": "2003-08-25",
+      "sender": "MEISSNER RHEINWERK Schwabenwerk Produktions GmbH\nWerkstraße 42\n70469 Stuttgart",
+      "recipient": "Frau Maren Scholz, Personalnummer M-0017\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Persönliche Versorgungsbestätigung – Wechsel von Düsseldorf nach Stuttgart",
+      "body": [
+        "Sehr geehrte Frau Scholz,",
+        "Sie wechseln zum 1. September 2003 aus dem Arbeitsverhältnis mit der MEISSNER RHEINWERK AG in unser Unternehmen. Wir bestätigen Ihnen, dass Ihre betriebliche Altersversorgung nach der Versorgungsordnung Düsseldorf 1987 einschließlich des Nachtrags vom 15. Dezember 1999 fortgeführt wird. Als Beginn der anrechenbaren Dienstzeit gilt der 1. April 1992. Die Beschäftigungszeiten werden ohne Unterbrechung behandelt.",
+        "Die für die Versorgung maßgeblichen Gehaltsentwicklungen in Ihrem neuen Arbeitsverhältnis werden nach der bisherigen Ordnung berücksichtigt. Ihre organisatorische Zuordnung zum Stuttgarter Werk führt nicht zur Aufnahme in den Leistungsplan Stuttgart 2002. Eine doppelte Versorgung aus beiden Ordnungen wird nicht zugesagt. Andere Bestandteile Ihres neuen Arbeitsvertrags werden durch diese Bestätigung nicht verändert.",
+        "Bitte bewahren Sie diese Bestätigung zusammen mit der Versorgungsordnung auf. Eine Kopie geht an die Personalabteilungen beider Gesellschaften.",
+        "Für die Schwabenwerk Produktions GmbH: Personalgeschäftsführer Jens Rademacher. Empfang bestätigt: Maren Scholz, 26. August 2003."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "08",
+      "path": "Grundakte/08_Projektauftrag_Rheingold.pdf",
+      "kind": "pdf",
+      "title": "Projektauftrag RHEINGOLD 2030 – Arbeitsstand Vorstand",
+      "date": "2026-10-12",
+      "sender": "Vorstand MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektleitung HR und Treasury\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Projektauftrag RHEINGOLD 2030 – Arbeitsstand Vorstand",
+      "body": [
+        "1 Ausgangslage",
+        "Die Pensionsverwaltung betreut vierzehn Ordnungen mit unterschiedlichen Aufnahme- und Berechnungsregeln. Manuelle Nachbearbeitung von 200 bis 300 Fällen pro Monat bindet Personal. Ziel ist, Neueintritte ab 2027 in ein einheitliches Angebot aufzunehmen und bestehende Zusagen so weit wie rechtlich und wirtschaftlich vertretbar zu ordnen. Eine bloße Umbenennung der Altsysteme erfüllt den Auftrag nicht.",
+        "2 Wirtschaftliches Ziel",
+        "Treasury soll drei Varianten rechnen: Fortführung der bisherigen Systeme, Umstellung künftiger Beiträge bei Erhalt aller bisherigen Berechnungsbezüge und Festschreibung sowohl der Dienstzeit als auch des Entgelts zum 31. Dezember 2026. Die zuletzt genannte Variante wurde noch nicht rechtlich freigegeben. Das jährliche Einsparziel von 18 Mio. EUR betrifft den Personalaufwand der Planung ab 2028; es darf nicht als sofortiger freier Mittelzufluss dargestellt werden.",
+        "3 Zuständigkeiten",
+        "Die jeweiligen Arbeitgeber bleiben für die Erfüllung ihrer Zusagen zuständig. Der Konzernprojektleiter koordiniert die Daten, kann aber keine Betriebsvereinbarung für sämtliche Gesellschaften allein abschließen. Die Frage der zuständigen Arbeitnehmervertretung soll vor Eröffnung inhaltlicher Verhandlungen dokumentiert werden. Vorhandene Beauftragungsbeschlüsse sind mit ihrem Umfang einzuholen.",
+        "4 Entscheidungsvorlage",
+        "Die Vorlage soll je Gruppe die derzeitige Zusage, wirtschaftliche Wirkung, betroffene Anspruchselemente, erforderliche Zustimmung und Umsetzungsdauer zeigen. Arbeitnehmerkommunikation darf erst nach Abgleich mit den Originalzusagen freigegeben werden. Eine Versicherungslösung für Rentner wird in diesem Teilprojekt nur als gesonderte Option geführt.",
+        "5 Projektbudget",
+        "Für externe rechtliche Sichtung sind 85.000 EUR netto, für Datenbereinigung 60.000 EUR und für die gesonderte versicherungsmathematische Bewertung 95.000 EUR reserviert. Die 240.000 EUR Gesamtbudget werden nicht mit den angestrebten laufenden Einsparungen verrechnet. Freigabe: Vorstand Personal und Finanzen, 12. Oktober 2026."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "09",
+      "path": "Grundakte/09_Konzernstruktur_Arbeitgeber.pdf",
+      "kind": "pdf",
+      "title": "Gesellschaften, Arbeitnehmervertretungen und Datenverantwortliche",
+      "date": "2026-10-20",
+      "sender": "Konzernsekretariat MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektteam RHEINGOLD\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Gesellschaften, Arbeitnehmervertretungen und Datenverantwortliche",
+      "body": [
+        "1 Unternehmen und Betriebe",
+        "Die MEISSNER RHEINWERK AG ist Muttergesellschaft und Arbeitgeberin des Düsseldorfer Werks sowie der Konzernzentrale. Die Schwabenwerk Produktions GmbH ist Arbeitgeberin des Stuttgarter Werks. Bremen GmbH, München Komponenten GmbH, Hamburg Logistik GmbH, Eisenach Systeme GmbH, Saarbrücken Service GmbH und Vertrieb Deutschland GmbH sind rechtlich selbstständige Arbeitgeber. Die Holding-Anteilseignerschaft ist kein einheitliches Arbeitsverhältnis.",
+        "2 Vertretungsstruktur",
+        "In Düsseldorf, Stuttgart, Bremen, München und Hamburg bestehen örtliche Betriebsräte. Die AG besitzt einen Gesamtbetriebsrat für Werk und Zentrale. Ein Konzernbetriebsrat mit Delegierten aus den vertretenen Gesellschaften besteht seit 2011. Das Konzernsekretariat hat bisher nur die Errichtungsunterlagen und den aktuellen Vorsitz übermittelt; konkrete Beauftragungen zur Ablösung der einzelnen Versorgungsordnungen sind damit nicht belegt.",
+        "3 Datenwege",
+        "Stephan Adloff-Werthmann verantwortet die HR-Sammelliste. Sven-Olaf Bramwasser führt die Versorgungsadministration. Treasury liefert Vermögenswerte, die Abschlussabteilung liefert getrennte HGB- und IFRS-Zahlen. Die Standortpersonalleiter bestätigen individuelle Übernahmen. Das lokale Archiv Stuttgart wird erst am 29. Oktober durchsucht. Zwei Zahlen aus einer gleichnamigen Übersicht dürfen nicht ohne Stichtags- und Konsolidierungskreisprüfung zusammengeführt werden."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "10",
+      "path": "Grundakte/10_Entwurf_Konzernordnung_2027.docx",
+      "kind": "docx",
+      "title": "Konzernversorgung 2027 – Verhandlungsentwurf der Personalabteilung",
+      "date": "2026-10-16",
+      "sender": "Konzernpersonal MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Konzernbetriebsrat\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Konzernversorgung 2027 – Verhandlungsentwurf der Personalabteilung",
+      "body": [
+        "1 Beteiligte und Entwurfsstand",
+        "Dieser Text ist ein Verhandlungsentwurf der Personalabteilung. Er ist nicht unterzeichnet. Als beteiligte Arbeitgeber sind die AG, die Schwabenwerk Produktions GmbH und Bremen GmbH vorgesehen. Der Konzernbetriebsrat wird um Mitteilung gebeten, für welche Regelungsgegenstände er die Verhandlung übernimmt. Ein Firmenlogo auf diesem Entwurf begründet keine Beauftragung durch örtliche Gremien.",
+        "2 Neueintritte",
+        "Für erstmals ab dem 1. Januar 2027 eingestellte Beschäftigte der drei Unternehmen soll der Arbeitgeber jährlich 4 Prozent des festen pensionsfähigen Jahresgehalts für eine betriebliche Altersversorgung aufwenden. Variable Vergütung und Aufwendungsersatz bleiben außer Betracht. Die aus den Beiträgen resultierenden zugesagten Leistungen sollen in einer ergänzenden Leistungstabelle bestimmt werden. Ein Durchführungsträger ist noch nicht ausgewählt. Vor seiner Auswahl werden keine individuellen Leistungsbeträge genannt.",
+        "3 Bereits Beschäftigte",
+        "Für Beschäftigte mit Direkt- oder Unterstützungskassenzusagen soll die nach der bisherigen Ordnung auf den 31. Dezember 2026 hochgerechnete Anwartschaft als Eurobetrag festgehalten werden. Künftige Dienstzeiten und Gehaltssteigerungen sollen diesen Betrag nach Vorstellung der Projektleitung nicht mehr erhöhen. Für Beschäftigungszeiten ab dem 1. Januar 2027 sollen zusätzlich Beiträge gemäß Nummer 2 gezahlt werden. Der festgehaltene Eurobetrag wird in einer individuellen Mitteilung ausgewiesen; Berechnungsfehler können unter Vorlage der Entgelt- und Dienstzeitbelege korrigiert werden.",
+        "3.1 Übergangsgutschrift",
+        "Beschäftigte, die am 31. Dezember 2026 mindestens 55 Jahre alt sind und mindestens 20 anrechenbare Dienstjahre besitzen, sollen für die Jahre 2027 bis 2030 eine zusätzliche jährliche Gutschrift von 1 Prozent des pensionsfähigen Entgelts erhalten. Für Beschäftigte ab 60 Jahren beträgt sie 2 Prozent. Teilzeit wird anhand des tatsächlich pensionsfähigen Entgelts berücksichtigt. Die Gutschriften sollen zusammen mit dem neuen Beitrag einen getrennten zusätzlichen Baustein bilden. Eine rechtliche oder wirtschaftliche Gleichwertigkeit gegenüber der bisherigen Ordnung ist mit dieser Entwurfsregelung nicht festgestellt.",
+        "4 Bereits ausgeschiedene Beschäftigte und Rentner",
+        "Unverfallbar ausgeschiedene Beschäftigte und laufende Rentner sollen von den Änderungen nach Nummer 3 nicht erfasst werden. Ihre vorhandenen Zusagetexte, Berechnungsgrundlagen und Anpassungsprüfungen bleiben Gegenstand der bisherigen Verwaltung. Ein späterer Wechsel des Durchführungsträgers soll einer eigenen Entscheidung vorbehalten bleiben.",
+        "5 Information und Datenkorrektur",
+        "Vor Unterzeichnung soll jeder erfassten Person eine nachvollziehbare Vergleichsberechnung vorgelegt werden. Hierfür benötigt die Personalverwaltung die zugesagte Dienstzeit, den letzten relevanten Gehaltsstand und sämtliche Sonderzusagen. Ein automatischer Systemwert wird nicht allein deshalb verbindlich, weil eine Person auf eine E-Mail nicht antwortet. Betriebsräte erhalten die zur Vorbereitung erforderlichen Informationen in abgestimmter Form.",
+        "6 Inkrafttreten und Vorbehalte",
+        "Der vorgesehene Starttermin ist der 1. Januar 2027. Ob dieser Termin für alle Gruppen erreichbar ist, bleibt nach Prüfung der Originalzusagen, Zuständigkeiten und Vergleichsrechnungen zu entscheiden. Bis zu einer wirksamen Vereinbarung wird die bisherige Verwaltung fortgeführt. Die Unterzeichnungszeilen sind in dieser internen Verhandlungsfassung noch nicht Bestandteil des Textes."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "11",
+      "path": "Grundakte/11_KBR_Antwort.pdf",
+      "kind": "pdf",
+      "title": "RHEINGOLD – Unterlagen und Vertretungsumfang",
+      "date": "2026-10-21",
+      "sender": "Konzernbetriebsrat MEISSNER RHEINWERK\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Vorstand Personal\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "RHEINGOLD – Unterlagen und Vertretungsumfang",
+      "body": [
+        "Sehr geehrte Frau Brindeau-Lorbach,",
+        "wir sind zur Erörterung eines gemeinsamen Rahmens bereit. Wir erklären damit weder die Zustimmung zu einer Festschreibung noch, dass der Konzernbetriebsrat für jede Versorgungsordnung originär zuständig ist. Bitte legen Sie zunächst den organisatorischen Grund dar, weshalb die einzelnen Leistungen nicht auf Gesellschaftsebene geregelt werden können. Das einheitliche Personalprogramm war auch bisher mit unterschiedlichen Ordnungen betreibbar.",
+        "Der Düsseldorfer Gesamtbetriebsrat hat uns am 15. Oktober mit der Sammlung von Informationen beauftragt. Die Beauftragung enthält ausdrücklich keine Abschlussvollmacht für eine Kürzung. Stuttgart hat noch keinen Beschluss gefasst. Bremen verlangt eine eigene Gegenrechnung zum bestehenden Pensionsfondsmodell. Bitte bezeichnen Sie in der Einladung nicht sämtliche örtlichen Gremien als bereits vertreten.",
+        "Wir benötigen außerdem die Personalgruppen nach Zusagegrundlage, eine Gegenüberstellung der Gehaltsdynamik und die wirtschaftliche Herleitung des Einsparziels. Ein Gesamtbetrag aus dem Konzernabschluss lässt nicht erkennen, welcher Arbeitgeber welche Last trägt. Für die Sitzung am 4. November reservieren wir drei Stunden.",
+        "Reinhardt Sülzbach, Vorsitzender des Konzernbetriebsrats."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "12",
+      "path": "Grundakte/12_GBR_Beauftragung_Information.pdf",
+      "kind": "pdf",
+      "title": "Beschluss des Gesamtbetriebsrats Düsseldorf",
+      "date": "2026-10-15",
+      "sender": "Gesamtbetriebsrat Düsseldorf\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Konzernbetriebsrat\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Beschluss des Gesamtbetriebsrats Düsseldorf",
+      "body": [
+        "1 Beschlussgegenstand",
+        "Der Gesamtbetriebsrat beauftragt den Konzernbetriebsrat, im Projekt RHEINGOLD Informationen zur Datenstruktur, zu vorgesehenen Verwaltungsabläufen und zu den Arbeitgebervorschlägen einzuholen und in gemeinsamen Gesprächen vorzustellen. Der Auftrag umfasst die Entgegennahme und Ordnung von Unterlagen. Eine Befugnis zum Abschluss einer ablösenden Versorgungsregelung wird nicht übertragen.",
+        "2 Informationsrücklauf",
+        "Vor einer etwaigen Erweiterung des Auftrags sind die betroffenen Zusagegruppen und die vorgeschlagenen Eingriffe schriftlich zu erläutern. Beschlussunterlagen sollen spätestens sieben Kalendertage vor der nächsten Sitzung vorliegen. Der Gesamtbetriebsrat behält sich die Beteiligung eines eigenen Sachverständigen vor.",
+        "3 Abstimmung",
+        "Anwesend waren 15 von 17 Mitgliedern. Der Beschluss wurde mit 13 Ja-Stimmen, einer Nein-Stimme und einer Enthaltung gefasst. Die Beschlussfähigkeit wurde festgestellt. Diese Ausfertigung wird am 16. Oktober an den Konzernbetriebsrat und die Personalabteilung übermittelt.",
+        "Martina Feldbusch, Vorsitzende. Protokollführung: Jochen Berg."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "13",
+      "path": "Grundakte/13_Stuttgart_Personalarchiv.eml",
+      "kind": "eml",
+      "title": "Standortwechsler sind im Export anders codiert",
+      "date": "2026-10-22",
+      "sender": "Petra Holm <archiv@schwabenwerk.example>",
+      "recipient": "Stephan Adloff-Werthmann <hr@meissner-rheinwerk.example>",
+      "subject": "Standortwechsler sind im Export anders codiert",
+      "body": [
+        "Stephan,",
+        "die 23 Personen im Reiter „Wechsel“ haben als technischen Schlüssel K-VO-2, weil die alte Abrechnung keine standortfremden Codes zuließ. Daraus kann man nicht schließen, dass alle die Stuttgarter Zusage haben. Für Maren Scholz liegt eine ausdrückliche Übernahme der Düsseldorfer Ordnung vor. Bei den übrigen 22 Personen habe ich bisher nur Arbeitsvertragskopien und nicht alle Beiblätter gefunden.",
+        "Bitte lasst die IT die Daten bis zur Klärung nicht auf „bestätigt“ setzen. Ich kann die Archivkisten am 29. Oktober durchsehen; am 28. ist im Werk Inventur. Der Export berücksichtigt auch vier unbezahlte Freistellungen, deren Dienstzeitanrechnung nicht geprüft ist. Die aktuelle Gehaltsspalte stimmt mit der Septemberabrechnung überein, ist aber keine Aussage zum maßgeblichen pensionsfähigen Entgelt.",
+        "Petra"
+      ],
+      "attachments": [
+        "Grundakte/07_Uebernahmebestaetigung_Standortwechsel_2003.pdf"
+      ],
+      "from_email": "archiv@schwabenwerk.example",
+      "to_email": "hr@meissner-rheinwerk.example"
+    },
+    {
+      "id": "14",
+      "path": "Grundakte/14_CFO_Zielbild.eml",
+      "kind": "eml",
+      "title": "RHEINGOLD – was die 18 Mio. EUR bedeuten sollen",
+      "date": "2026-10-22",
+      "sender": "Henrick Otterbach-Veltheim <cfo@meissner-rheinwerk.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "RHEINGOLD – was die 18 Mio. EUR bedeuten sollen",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "der Aufsichtsrat erwartet keine Streichung bereits laufender Renten. Er erwartet, dass wir die Kosten künftiger Beschäftigungszeiten besser planen können. Die 18 Mio. EUR stehen in der Strategieplanung als Einsparziel im jährlichen Aufwand ab 2028. Unser Controlling hat daraus im ersten Foliensatz versehentlich eine „Liquiditätsentlastung 2027“ gemacht. Bitte verwenden Sie diese Folie nicht ohne Erläuterung.",
+        "Für das laufende Jahr haben wir positive operative Ergebnisse, gleichzeitig stehen 140 Mio. EUR Investitionen in neue Anlagen und 38 Mio. EUR höhere Finanzierungskosten an. Ich möchte wissen, welche wirtschaftlichen Gründe wir tatsächlich belegen müssen. Ein pauschaler Hinweis auf den Konzernumbau genügt mir nicht. Bitte fordern Sie gezielt die Zahlen des jeweiligen Arbeitgebers an, wenn die Konzernzahlen nicht ausreichen.",
+        "Die Fachabteilung hat noch keine Freigabe, das Entgelt bei allen Personen einzufrieren. Ich möchte die Kosten dieser Variante trotzdem sehen, damit wir die Diskussion verstehen.",
+        "Mit freundlichen Grüßen\nHenrick Otterbach-Veltheim"
+      ],
+      "attachments": [],
+      "from_email": "cfo@meissner-rheinwerk.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "15",
+      "path": "Grundakte/15_Controlling_Planungsgrundlagen.pdf",
+      "kind": "pdf",
+      "title": "Planungsgrundlagen 2027 bis 2030 – Stand ohne Rechtsfreigabe",
+      "date": "2026-10-23",
+      "sender": "Konzerncontrolling\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projekt RHEINGOLD\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Planungsgrundlagen 2027 bis 2030 – Stand ohne Rechtsfreigabe",
+      "body": [
+        "1 Abgrenzung",
+        "Die beiliegende Tabelle ist ein internes Planungsmodell. Sie enthält keine Bewertung individueller Rentenansprüche und kein versicherungsmathematisches Gutachten. Die Eingaben stammen aus HR, der betrieblichen Budgetplanung und groben Sensitivitätsannahmen. DBO, handelsrechtliche Rückstellung, Steuerwert und verfügbare Liquidität werden getrennt ausgewiesen.",
+        "2 Bezugsgrößen",
+        "Das Bestandsregister umfasst 14 Ordnungen. Die aktuelle deutsche IFRS-Summe beträgt nach der Tabelle 1.682 Mio. EUR; die frühere Zahl 2.400 Mio. EUR war eine andere internationale Konzernabgrenzung und enthält zudem einen älteren Bewertungsstichtag. Die Zahlen dürfen nicht als zwei Messungen desselben Bestands verglichen werden. Das CTA-Vermögen von 780 Mio. EUR ist zweckgebunden und kein frei verfügbares Giroguthaben.",
+        "3 Kalkulation der Zukunftskosten",
+        "Für die Beitragsvariante werden nur die aktiven Personen des ausgewählten Bestands mit dem Jahresfestgehalt multipliziert. Aufwands- und Zahlungsannahmen werden nicht als identisch gesetzt. Die Entgeltsteigerung von jährlich 2,8 Prozent ist eine Planannahme; eine feste Zusage wird dadurch nicht ersetzt. Die Finanzierung des Übergangsbeitrags ist im Reiter „Budget“ separat aufgeführt.",
+        "4 Grenzen",
+        "Die Tabelle enthält keine Sterbewahrscheinlichkeiten und keine vollständigen Rentenbarwerte. Eine Entscheidung über individuelle Vor- oder Nachteile verlangt die nachgelagerte Berechnung anhand der jeweiligen Zusage. Freigabe für den Lenkungskreis nur mit diesem Begleitblatt.",
+        "Das Register benennt vierzehn Ordnungen. Im ersten Arbeitspaket liegen nur die vollständigen Texte Düsseldorf 1987 mit Nachtrag 1999, Stuttgart 2002 und Bremen 2014 vor. Für die übrigen elf Ordnungen sind die Registerwerte kein Ersatz für Originaltexte. Sie werden in dieser Phase nicht zur Umsetzung freigegeben; die Projektleitung muss die Unterlagen separat beschaffen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "16",
+      "path": "Grundakte/16_Berechnungsauftrag_Anbieter.pdf",
+      "kind": "pdf",
+      "title": "Angebot Datenbereinigung und versicherungsmathematische Einzelberechnung",
+      "date": "2026-10-23",
+      "sender": "Rheinblick Aktuarservice GmbH, Hafenring 14, 51371 Leverkusen",
+      "recipient": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Angebot Datenbereinigung und versicherungsmathematische Einzelberechnung",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "wir bieten die Bereinigung der im ersten Los übergebenen 48 gezielt ausgewählten Personalfälle und eine anschließende Einzelberechnung an. Die Auswahl ist keine statistisch repräsentative Stichprobe des Gesamtbestands. Für Personen mit ungeklärter Zusagegrundlage werden getrennte Berechnungsvarianten erstellt; wir entscheiden nicht selbst, welche Versorgungsordnung rechtlich gilt.",
+        "1 Leistungen",
+        "Wir gleichen Eintritts- und Austrittszeiten, Teilzeitfaktoren, pensionsfähige Gehälter und Zusatzbestätigungen ab. Danach rechnen wir die vom Auftraggeber rechtlich festgelegten Szenarien: unveränderte Fortführung, Dienstzeitbegrenzung bei fortgeführtem Entgeltbezug und Dienstzeit-/Entgeltbegrenzung. Den neuen Beitragsbaustein stellen wir separat dar. Eine bloße Differenz zweier Rückstellungen wird nicht als Verlust einer einzelnen Person ausgewiesen.",
+        "2 Preis und Termine",
+        "Das Festhonorar für dieses Los beträgt 18.000 EUR netto. Es umfasst zwei Korrekturrunden und einen zweistündigen Ergebnistermin. Die Bearbeitungszeit beträgt zehn Arbeitstage ab vollständigem Eingang der Unterlagen und schriftlicher Szenariofreigabe. Zusätzliche Fälle werden mit 280 EUR netto je Fall berechnet, jedoch erst nach ausdrücklichem Abruf. Die ausgewiesenen Konditionen sind unser individuelles Angebot bis zum 20. November 2026.",
+        "3 Voraussetzungen und Grenzen",
+        "Benötigt werden Originalzusagen, alle Nachträge, zeitbezogene Entgelt- und Teilzeitdaten sowie die Abgrenzung der berücksichtigten Gehaltsbestandteile. Der Auftrag ersetzt weder die arbeitsrechtliche Entscheidung noch die gesonderte Bewertung nach HGB oder IFRS. Ergebnisse dürfen nur mit den angegebenen Annahmen weiterverwendet werden.",
+        "Rheinblick Aktuarservice GmbH, Geschäftsführerin Dr. Alina Hesse."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "17",
+      "path": "Grundakte/17_Personalgespraech_Scholz.docx",
+      "kind": "docx",
+      "title": "Gesprächsvermerk Maren Scholz – Versorgungsbestätigung",
+      "date": "2026-10-24",
+      "sender": "Petra Holm, Personalverwaltung Stuttgart\nWerkstraße 42\n70469 Stuttgart",
+      "recipient": "Personalakte M-0017\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Gesprächsvermerk Maren Scholz – Versorgungsbestätigung",
+      "body": [
+        "1 Anlass und Gesprächsteilnehmer",
+        "Maren Scholz meldet sich nach einer internen Information zum Projekt RHEINGOLD bei der Personalverwaltung. Sie ist 58 Jahre alt, arbeitet seit 1992 im Konzern und seit September 2003 in Stuttgart. Petra Holm führt das Gespräch; Stephan Adloff-Werthmann nimmt die letzten zehn Minuten telefonisch teil. Der Vermerk gibt die Aussagen wieder und ist keine Leistungsfestsetzung.",
+        "2 Angaben von Frau Scholz",
+        "Frau Scholz erklärt, beim Standortwechsel sei ihr zugesichert worden, sie verliere „keinen Tag und keinen Gehaltsbezug“. Sie bringt die schriftliche Bestätigung von 2003 mit. Ihr derzeitiges Jahresfestgehalt beträgt 82.000 EUR, nach der angekündigten tariflichen Anpassung könnte es 2027 höher sein. Sie plant derzeit bis zum 65. Lebensjahr zu arbeiten. Eine Entgeltumwandlung besteht zusätzlich bei einem anderen Träger und gehört nach ihrer Erinnerung nicht zu dieser Zusage.",
+        "3 Offene Daten",
+        "Der HR-Export weist K-VO-2 aus; die Bestätigung nennt die Düsseldorfer Ordnung. Im Jahr 2016 bestand eine sechsmonatige unbezahlte Pflegefreistellung. Frau Scholz erinnert sich an eine ergänzende E-Mail zur Dienstzeitanrechnung, hat diese aber nicht dabei. Die Personalabteilung sagt eine Archivrecherche zu. Eine verbindliche Rentenhöhe wird in diesem Gespräch nicht genannt.",
+        "4 Weiteres Vorgehen",
+        "Frau Scholz möchte vor jeder Umstellung die Berechnung mit und ohne künftige Gehaltsentwicklung sehen. Sie stimmt der Weitergabe ihrer Unterlagen an die beauftragte Kanzlei zu. Ein Verzicht oder eine Zustimmung zu einer Änderung wird nicht erklärt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "18",
+      "path": "Grundakte/18_Bremen_Rueckfrage.eml",
+      "kind": "eml",
+      "title": "Neue Beitragsordnung versus bereits garantierte Bausteine",
+      "date": "2026-10-25",
+      "sender": "Mila Evers <pensionen@bremen-rheinwerk.example>",
+      "recipient": "Projekt RHEINGOLD <projekt@meissner-rheinwerk.example>",
+      "subject": "Neue Beitragsordnung versus bereits garantierte Bausteine",
+      "body": [
+        "Guten Morgen,",
+        "bitte behandelt die 917 aktiven Bremer Personen nicht so, als hätten sie alle eine Endgehaltszusage. Bei uns werden bereits Beitragsbausteine aufgebaut. Für 2014 gilt der damals vereinbarte Faktor, für später gezahlte Beiträge gelten andere Tabellen. Die Garantien der bisherigen Bausteine und unverbindliche Überschussangaben stehen in den Jahresinformationen in verschiedenen Spalten.",
+        "Der derzeitige Entwurf nennt für alle 4 Prozent Beitrag. Das ist bei uns kein neuer Vorteil, sondern bereits die Grundregel. Wenn die neue Verwaltung geringere Verrentungsfaktoren oder andere Kosten verwendet, kann die gleiche Beitragsquote trotzdem ein anderes Ergebnis ergeben. Wir brauchen deshalb die vollständigen Leistungs- und Kostentabellen des vorgesehenen Anbieters. Der bisherige Gruppenvertrag ist in der Akte; eine neue Angebotstabelle haben wir noch nicht erhalten.",
+        "Viele Grüße\nMila Evers"
+      ],
+      "attachments": [],
+      "from_email": "pensionen@bremen-rheinwerk.example",
+      "to_email": "projekt@meissner-rheinwerk.example"
+    },
+    {
+      "id": "19",
+      "path": "Grundakte/19_Gruppenvertrag_Bremen.pdf",
+      "kind": "pdf",
+      "title": "Gruppenvertrag Hansebund – Verwaltung und Beitragstabellen",
+      "date": "2014-05-17",
+      "sender": "Hansebund Pensionsfonds AG, Am Wall 116, 28195 Bremen",
+      "recipient": "MEISSNER RHEINWERK Bremen GmbH\nHafenallee 19\n28217 Bremen",
+      "subject": "Gruppenvertrag Hansebund – Verwaltung und Beitragstabellen",
+      "body": [
+        "1 Vertragspartner und Bestand",
+        "Die Hansebund Pensionsfonds AG führt die für die Beschäftigten der MEISSNER RHEINWERK Bremen GmbH nach der Versorgungsordnung vom 17. Mai 2014 angemeldeten Beitragsbausteine. Vertragspartner für die Beitragszahlung ist der Arbeitgeber. Die individuellen Leistungsausweise werden den erfassten Beschäftigten jährlich zur Verfügung gestellt. Die Aufnahme einer Person wird erst nach Übereinstimmung von Anmeldung, Beitrag und Identitätsdaten bestätigt.",
+        "2 Beiträge und Fälligkeit",
+        "Die Arbeitgeberbeiträge werden monatlich am letzten Bankarbeitstag fällig. Der Arbeitgeber übermittelt bis zum 20. des Monats die Personaldaten und die zugehörigen Beiträge. Eine Korrektur bereits gemeldeter Beiträge ist mit Personennummer, Beitragsmonat und Grund zu dokumentieren. Nicht zuordenbare Zahlungen werden auf einem Klärungskonto geführt und nicht ohne Identifizierung einem anderen Beschäftigten zugeschlagen.",
+        "3 Garantierte Bausteine",
+        "Die garantierte jährliche Altersrente für den Beitragsjahrgang 2014 beträgt je 1.000 EUR Beitrag 45 EUR ab Alter 65. Dieser Faktor gilt ausschließlich für diesen Beitragsjahrgang. Spätere Beitragstabellen werden rechtzeitig vor Beginn des jeweiligen Beitragsjahres schriftlich vereinbart. Bereits gebildete garantierte Bausteine werden durch eine neue Tabelle nicht verändert. Eine unverbindliche Überschussprojektion wird ausdrücklich getrennt ausgewiesen.",
+        "4 Daten und Leistungsfall",
+        "Bei Eintritt eines Leistungsfalls übermittelt der Arbeitgeber die erforderlichen Beschäftigungs- und Beitragsdaten. Die berechtigte Person legt die für den Leistungsbeginn erforderlichen Nachweise vor. Unstimmigkeiten werden dokumentiert; eine fehlende historische Personalnummer allein berechtigt nicht zur endgültigen Ablehnung einer ansonsten belegten Zuordnung. Der Träger stellt die Berechnung und die verwendeten Bausteine nachvollziehbar dar.",
+        "5 Kosten",
+        "Für Verwaltung und Leistungsauszahlung werden die in der Beitrags- und Kostentabelle vereinbarten Kosten berücksichtigt. Eine nachträgliche Kostenänderung für bestehende garantierte Bausteine ist hiermit nicht vereinbart. Für zusätzliche Arbeitgeberauswertungen außerhalb der jährlichen Standardinformation ist vorab ein gesondertes Angebot zu erstellen.",
+        "6 Beendigung und Bestandsübertragung",
+        "Die Kündigung des Gruppenvertrags beendet nicht automatisch die bereits bestehenden Versorgungsrechte. Vor jeder Übertragung sind der betroffene Bestand, sämtliche vorhandenen Bausteine, die erforderlichen Erklärungen und die technische Anschlussverwaltung festzulegen. Der Träger stellt hierzu ein Bestandsverzeichnis zum vereinbarten Stichtag bereit. Die kündigende Partei darf dieses Verzeichnis nicht mit einer Bestätigung der arbeitsrechtlichen Wirksamkeit gleichsetzen.",
+        "7 Schlussregelung",
+        "Abweichende individuelle Zusagen des Arbeitgebers werden durch diesen Gruppenvertrag nicht aufgehoben. Änderungen dieses Vertrags werden schriftlich dokumentiert. Für den Träger: Vorstand Uwe Reimers. Für den Arbeitgeber: Geschäftsführerin Anke Bremkamp. Unterzeichnung am 17. Mai 2014."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "20",
+      "path": "Grundakte/20_Treasury_CTA_Bestand.pdf",
+      "kind": "pdf",
+      "title": "Rheinland Pension Trust – Vermögensmitteilung",
+      "date": "2026-09-30",
+      "sender": "Rheinland Pension Trust e.V., Rheinbogen 29, 51373 Leverkusen",
+      "recipient": "MEISSNER RHEINWERK AG / Treasury\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Rheinland Pension Trust – Vermögensmitteilung",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "zum 30. September 2026 beträgt der im Verwaltungsauszug erfasste Marktwert des Sicherungsvermögens 780.000.000 EUR. Davon entfallen 62.000.000 EUR auf Liquidität, 468.000.000 EUR auf Anleihen, 194.000.000 EUR auf Aktien und 56.000.000 EUR auf Immobilienfonds. Die Werte sind zum genannten Stichtag ermittelte Marktwerte und keine Zusage künftiger Verwertungserlöse.",
+        "Das Vermögen ist nach dem Treuhandvertrag zur Sicherung der bezeichneten Versorgungsverpflichtungen gebunden. Es wird nicht automatisch an einen neuen Durchführungsträger ausgekehrt, wenn der Arbeitgeber ein Harmonisierungsprojekt beschließt. Für eine gewünschte Entnahme oder Übertragung benötigen wir den konkreten vertraglichen Tatbestand, die Zuordnung zu den gesicherten Ansprüchen und die erforderlichen Zustimmungen.",
+        "In der Projektpräsentation wurde das gesamte Vermögen dem deutschen aktiven Bestand zugerechnet. Unser Auszug enthält auch Sicherungspositionen für ausgeschiedene Berechtigte und Rentner. Bitte verwenden Sie für Einzelgruppen nicht einen pauschalen proportionalen Abzug ohne Prüfung des Treuhandvertrags.",
+        "Sabine Korte, Geschäftsführung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "21",
+      "path": "Grundakte/21_Protokoll_Lenkungskreis.docx",
+      "kind": "docx",
+      "title": "Lenkungskreis – Datenstand und Entscheidungsvorbereitung",
+      "date": "2026-10-26",
+      "sender": "Projektsekretariat RHEINGOLD\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Vorstand, HR, Treasury, Kanzlei\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Lenkungskreis – Datenstand und Entscheidungsvorbereitung",
+      "body": [
+        "1 Teilnehmer und Ziel",
+        "Anwesend sind Henrick Otterbach-Veltheim, Constanze Brindeau-Lorbach, Stephan Adloff-Werthmann, Sven-Olaf Bramwasser und Dr. Nora Treuenfels. Die Sitzung dient der Festlegung des zu prüfenden Sachverhalts. Eine Umstellung wird nicht beschlossen.",
+        "2 Diskussion der Zahlen",
+        "Treasury bestätigt die 780 Mio. EUR als Marktwert des Treuhandvermögens zum 30. September. Der CFO bestätigt, dass die 18 Mio. EUR ein Aufwandseinsparziel ab 2028 sind. Der Personalleiter kann noch nicht bestätigen, dass alle 23 Standortwechsler die im System hinterlegte Zusage besitzen. Die Kanzlei erhält den Auftrag, bei jeder Variante zwischen technischer Verwaltung, Anspruchsinhalt und Finanzierung zu unterscheiden.",
+        "3 Gremien und Kommunikation",
+        "Der Konzernbetriebsrat hat nur eingeschränkte Beauftragungen vorgelegt. Die AG soll bis zum 2. November die wirtschaftlichen Gründe je betroffenem Arbeitgeber liefern. Eine bereits vorbereitete Beschäftigten-E-Mail mit der Formulierung „Ihre Rechte bleiben vollständig unverändert“ wird zurückgestellt, weil noch keine individuellen Vergleichsberechnungen vorliegen.",
+        "4 Termine",
+        "Am 4. November findet ein Informationsgespräch mit dem Konzernbetriebsrat statt. Am 10. November sollen die ersten Berechnungsvarianten vorliegen. Der Vorstand entscheidet am 30. November über die weitere Verhandlungsrichtung. Die Personalverwaltung erhält keine Freigabe zur Änderung der Abrechnungsschlüssel."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "22",
+      "path": "Grundakte/22_Teams_Projektchat.png",
+      "kind": "png",
+      "title": "Teams – Projektkanal RHEINGOLD am 26. Oktober",
+      "date": "2026-10-26",
+      "sender": "Projektkanal RHEINGOLD\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektmitglieder\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Teams – Projektkanal RHEINGOLD am 26. Oktober",
+      "body": [
+        "09:08 | Controlling – Im Chart steht noch „18 Mio. Cash“. Ich ändere das vor der Sitzung auf „Aufwandsziel ab 2028“.",
+        "09:11 | HR – Bitte auch die 23 Stuttgarter Wechsler markieren. Die Übersicht heißt bereinigt, weil Dubletten entfernt sind, nicht weil alle Zusagen geprüft sind.",
+        "09:13 | Treasury – Die 780 Mio. dürfen wir nicht für neue Maschinen einplanen. Das ist Treuhandvermögen.",
+        "09:17 | Projektleitung – Beschlussfolie heute nur zum Prüfauftrag. Keine Umsetzung zum 1. Januar als schon sicher darstellen.",
+        "09:20 | Controlling – Verstanden. Die Version von gestern liegt noch im Vorstandsordner; ich schicke eine Berichtigung mit Datum."
+      ],
+      "attachments": [],
+      "screen_title": "Teams | RHEINGOLD · Projektsteuerung"
+    },
+    {
+      "id": "23",
+      "path": "Grundakte/23_Budgetfreigabe.pdf",
+      "kind": "pdf",
+      "title": "Freigabe der Datenbereinigung – erste Tranche",
+      "date": "2026-10-27",
+      "sender": "Vorstand MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Konzerncontrolling\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Freigabe der Datenbereinigung – erste Tranche",
+      "body": [
+        "Die erste Tranche der externen Einzelberechnung wird mit 18.000 EUR netto freigegeben. Der Betrag wird aus dem Projektbudget für versicherungsmathematische Arbeiten von 95.000 EUR bestritten. Das rechtliche Sichtungsbudget von 85.000 EUR und das interne Datenbereinigungsbudget von 60.000 EUR bleiben hiervon getrennt.",
+        "Der Freigabebetrag deckt ausschließlich das Angebot vom 23. Oktober für 48 Personen und die dort beschriebenen zwei Korrekturrunden. Eine Erweiterung auf den Gesamtbestand ist gesondert vorzulegen. Vor Auftragserteilung muss HR die Auswahl nach Ordnungen, Alter, Teilzeit, Standortwechsel und besonderen Zusagen erläutern.",
+        "Die Freigabe enthält keine Entscheidung zugunsten einer Ablösungsvariante. Sie berechtigt auch nicht zur Übermittlung vollständiger Personalakten an andere Bieter. Berechnungsdaten werden über den vereinbarten geschützten Datenraum bereitgestellt. Freigegeben: Henrick Otterbach-Veltheim und Constanze Brindeau-Lorbach."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "24",
+      "path": "Fortsetzung/24_Archivfund_Stuttgart.eml",
+      "kind": "eml",
+      "title": "Nachlieferung: Abgleich der 22 weiteren Wechselpersonen",
+      "date": "2026-10-29",
+      "sender": "Petra Holm <archiv@schwabenwerk.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "Nachlieferung: Abgleich der 22 weiteren Wechselpersonen",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "bei der Archivsichtung sind für weitere 18 der 22 gesuchten Personen schriftliche Fortführungsbestätigungen gefunden worden. Zwei Verträge enthalten dagegen ausdrücklich eine neue Stuttgarter Zusage mit gesondertem Besitzstandsbetrag. Für zwei Personen fehlen die unterschriebenen Zusatzseiten weiterhin. Die Namenszuordnung steht in der beigefügten Nachlieferungsliste.",
+        "Außerdem enthält die Akte von Frau Scholz einen von beiden Seiten unterzeichneten Freistellungsnachtrag. Danach wird die sechsmonatige Pflegefreistellung von 2016 für die Versorgungsdienstzeit voll angerechnet. Im derzeitigen System fehlen diese sechs Monate. Ich habe den Systemwert nicht überschrieben, damit Sie die Abweichung nachvollziehen können.",
+        "Die frühere Auskunft „alle Wechsel einheitlich“ war zu weitgehend. Bitte arbeiten Sie mit den beigefügten Einzelzuordnungen und fragen Sie bei den zwei offenen Fällen vor einer Berechnung nochmals nach.",
+        "Die Scans der 18 weiteren Fortführungsbestätigungen und der beiden neuen Zusagen sind noch nicht in den Datenraum übertragen. Die Nachlieferungsliste ist zunächst ein Fundverzeichnis der Archivverwaltung; sie ersetzt die Prüfung der einzelnen unterschriebenen Texte nicht. Die Originale wurden zur Digitalisierung angefordert.",
+        "Mit freundlichen Grüßen\nPetra Holm"
+      ],
+      "attachments": [
+        "Fortsetzung/25_Freistellungsnachtrag_Scholz.pdf",
+        "Fortsetzung/36_Archivabgleich.csv"
+      ],
+      "from_email": "archiv@schwabenwerk.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "25",
+      "path": "Fortsetzung/25_Freistellungsnachtrag_Scholz.pdf",
+      "kind": "pdf",
+      "title": "Zusatzvereinbarung zur Pflegefreistellung",
+      "date": "2016-05-20",
+      "sender": "MEISSNER RHEINWERK Schwabenwerk Produktions GmbH\nWerkstraße 42\n70469 Stuttgart",
+      "recipient": "Maren Scholz\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Zusatzvereinbarung zur Pflegefreistellung",
+      "body": [
+        "1 Freistellungszeitraum",
+        "Frau Maren Scholz wird auf eigenen Wunsch vom 1. Juni bis 30. November 2016 ohne laufende Arbeitsvergütung von der Arbeitsleistung freigestellt. Grund ist die Pflege eines nahen Angehörigen. Das Arbeitsverhältnis besteht fort. Der vereinbarte Wiedereintritt in die bisherige Vollzeitbeschäftigung ist der 1. Dezember 2016.",
+        "2 Betriebliche Altersversorgung",
+        "Abweichend von der allgemeinen Regel für unbezahlte Freistellungen wird dieser Zeitraum für die anrechenbare Dienstzeit nach der für Frau Scholz fortgeltenden Versorgungsordnung Düsseldorf 1987 vollständig berücksichtigt. Der Arbeitgeber bestätigt die entsprechende Fortführung in der Versorgungsverwaltung. Für die Bestimmung des pensionsfähigen Entgelts gelten die ursprüngliche Ordnung und die Übernahmebestätigung von 2003 fort; die fehlende Vergütung während der Freistellung wird nicht als dauerhaftes Jahresfestgehalt von null behandelt.",
+        "3 Sonstige Rechte",
+        "Eine zusätzliche Entgeltzahlung für den Freistellungszeitraum wird nicht vereinbart. Die sonstigen Vertragsbestimmungen bleiben unberührt. Die Personalabteilung übersendet Frau Scholz eine Kopie dieser Vereinbarung und dokumentiert die Dienstzeitanrechnung.",
+        "Stuttgart, 20. Mai 2016. Unterzeichnet: Maren Scholz und Jens Rademacher, Personalgeschäftsführer."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "26",
+      "path": "Fortsetzung/26_Bremen_Faktorhinweis.eml",
+      "kind": "eml",
+      "title": "Die neue Anbietertabelle enthält keine Garantie wie 2014",
+      "date": "2026-11-03",
+      "sender": "Mila Evers <pensionen@bremen-rheinwerk.example>",
+      "recipient": "Projekt RHEINGOLD <projekt@meissner-rheinwerk.example>",
+      "subject": "Die neue Anbietertabelle enthält keine Garantie wie 2014",
+      "body": [
+        "Guten Tag,",
+        "die inzwischen eingegangene Kostenskizze des neuen Anbieters arbeitet mit einem prognostizierten Faktor und einem daneben stehenden Mindestwert. In der Controlling-Datei wurde nur die Prognosespalte übernommen. Bitte lassen Sie deshalb keine Aussage versenden, die neue 4-Prozent-Zusage sei bei gleichem Beitrag automatisch gleichwertig.",
+        "Die Skizze ist noch kein verbindliches Angebot und enthält auch keine zugesagte Behandlung der bisherigen Bausteine. Ich habe den Anbieter um eine vollständige Leistungsbeschreibung gebeten. Die laufenden Beiträge an Hansebund sollen bis zu einer freigegebenen Umstellung unverändert gezahlt werden. Ein Lastschrifteinzug darf nicht vorsorglich widerrufen werden.",
+        "Mila Evers"
+      ],
+      "attachments": [],
+      "from_email": "pensionen@bremen-rheinwerk.example",
+      "to_email": "projekt@meissner-rheinwerk.example"
+    },
+    {
+      "id": "27",
+      "path": "Fortsetzung/27_Vorstand_Zusatzauftrag.eml",
+      "kind": "eml",
+      "title": "Bitte Vergleich für Vorstandssitzung verständlich aufbereiten",
+      "date": "2026-11-05",
+      "sender": "Constanze Brindeau-Lorbach <personalvorstand@meissner-rheinwerk.example>",
+      "recipient": "Dr. Monkī D. Rufi <mail@monki-treuenfels.example>",
+      "subject": "Bitte Vergleich für Vorstandssitzung verständlich aufbereiten",
+      "body": [
+        "Sehr geehrter Herr Dr. Rufi,",
+        "wir benötigen zusätzlich eine Darstellung, die ein Vorstandsmitglied ohne Pensionsspezialwissen versteht. Zeigen Sie bitte an Frau Scholz und zwei weiteren klar bezeichneten Personen, welcher Teil aus bisheriger Dienstzeit stammt, welcher Teil von künftigem Entgelt abhängt und welcher aus weiteren Beschäftigungsjahren entsteht. Wir wollen nicht drei verschiedene Eingriffe unter demselben Wort „Einfrieren“ beschließen.",
+        "Die Gegenüberstellung soll Originalregel, Arbeitgeberentwurf, wirtschaftliche Eingaben und noch fehlende Daten getrennt ausweisen. Eine belastbare rechtliche Empfehlung darf erst aus dieser Zuordnung folgen. Bitte schlagen Sie außerdem vor, welche Unterlagen den jeweiligen Betriebsräten vor der nächsten Gesprächsrunde vorgelegt werden müssen.",
+        "Es gibt weiterhin keine Einigungsstelle und keinen Rechtsstreit. Der Auftrag bleibt ein Gestaltungs- und Verhandlungsmandat. Den vorgesehenen Start 1. Januar sollen Sie ausdrücklich auf Realisierbarkeit prüfen.",
+        "Mit freundlichen Grüßen\nConstanze Brindeau-Lorbach"
+      ],
+      "attachments": [],
+      "from_email": "personalvorstand@meissner-rheinwerk.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "28",
+      "path": "Grundakte/28_Auswahl_48_Personen.txt",
+      "kind": "txt",
+      "title": "Auswahlvermerk der Personalverwaltung – Berechnungslos 1",
+      "date": "2026-10-27",
+      "sender": "Sven-Olaf Bramwasser\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Datenraum RHEINGOLD\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Auswahlvermerk der Personalverwaltung – Berechnungslos 1",
+      "body": [
+        "Die 48 Datensätze sind bewusst ausgewählte Einzelfälle und keine Hochrechnungspopulation. Je 16 Personen stammen aus Düsseldorf, Stuttgart und Bremen. Innerhalb jeder Gruppe wurden verschiedene Eintrittsjahre, Vollzeit- und Teilzeitverläufe sowie rentennahe Personen aufgenommen. Die Person M-0017 ist Maren Scholz; ihre Vertragsabweichung ist gesondert gekennzeichnet.",
+        "Im Export bezeichnet „Jahresfestgehalt“ die aktuelle Payroll-Größe. Ob jede Zulage pensionsfähig ist, muss anhand des Originaltexts geprüft werden. „Dienstmonate_System“ ist ein Verwaltungswert; bei Frau Scholz fehlen sechs Monate. „DBO_Gesamt“ ist nicht Bestandteil der Personendatei und darf nicht auf diese 48 Personen proportional verteilt werden.",
+        "Der Rechnungsparameter für die künftige Gehaltssteigerung dient nur dem Szenariovergleich. Der Export enthält keine persönlichen Lebenserwartungen. Rentenbarwerte sollen erst nach rechtlicher Festlegung der Szenarien separat beauftragt werden."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "29",
+      "path": "Grundakte/29_HR_Arbeitspaket_Datenfreigabe.docx",
+      "kind": "docx",
+      "title": "Datenfreigabe – Verantwortliche und noch nicht bestätigte Angaben",
+      "date": "2026-10-28",
+      "sender": "Konzernpersonal\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektleitung\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Datenfreigabe – Verantwortliche und noch nicht bestätigte Angaben",
+      "body": [
+        "1 Umfang der Freigabe",
+        "Die Personalverwaltung bestätigt für den Export vom 27. Oktober die Zahl der ausgewählten Personen, die derzeitige organisatorische Gesellschaftszuordnung und das in September abgerechnete Festgehalt. Sie bestätigt noch nicht die materielle Zuordnung sämtlicher Versorgungsordnungen. Der Status „aktiv“ bezeichnet ein laufendes Arbeitsverhältnis, nicht die Erfüllung aller Aufnahmebedingungen einer bestimmten Zusage.",
+        "2 Klärungsschritte",
+        "Stuttgart prüft die Standortwechsel und die vier Freistellungsfälle. Düsseldorf gleicht die Einzelzusagen mit der zentralen Liste ab. Bremen stellt die historischen Beitragstabellen und Garantiebestände bereit. Treasury bestätigt nur die Vermögenswerte, nicht die Übertragbarkeit auf einzelne Personen. Controlling dokumentiert die unterschiedlichen Bewertungsstichtage.",
+        "3 Verwendung",
+        "Die Daten dürfen für die vereinbarte Szenarioplanung verwendet werden, wenn offene Felder sichtbar bleiben. Eine Löschung widersprechender Altwerte oder automatisierte Korrektur ohne Herkunftsbeleg ist nicht freigegeben. Nach Eingang neuer Dokumente wird eine neue Version mit Änderungsprotokoll erstellt. Der unveränderte Export bleibt im Datenraum erhalten."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "32",
+      "path": "Grundakte/32_Pensionen_Zahlungslauf.csv",
+      "kind": "csv",
+      "title": "Auszug laufender Zahlungen September",
+      "date": "2026-10-20",
+      "sender": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektteam\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Auszug laufender Zahlungen September",
+      "body": [
+        "Beleg;Monat;Ordnung;Person;Brutto_EUR;Banklauf\r\nPL-09-001;2026-09;K-VO-1;R-0001;454.75;2026-09-30\r\nPL-09-002;2026-09;K-VO-1;R-0002;489.5;2026-09-30\r\nPL-09-003;2026-09;K-VO-1;R-0003;524.25;2026-09-30\r\nPL-09-004;2026-09;K-VO-1;R-0004;559.0;2026-09-30\r\nPL-09-005;2026-09;K-VO-1;R-0005;593.75;2026-09-30\r\nPL-09-006;2026-09;K-VO-1;R-0006;628.5;2026-09-30\r\nPL-09-007;2026-09;K-VO-1;R-0007;663.25;2026-09-30\r\nPL-09-008;2026-09;K-VO-1;R-0008;698.0;2026-09-30\r\nPL-09-009;2026-09;K-VO-1;R-0009;732.75;2026-09-30\r\nPL-09-010;2026-09;K-VO-1;R-0010;767.5;2026-09-30\r\nPL-09-011;2026-09;K-VO-1;R-0011;802.25;2026-09-30\r\nPL-09-012;2026-09;K-VO-1;R-0012;837.0;2026-09-30\r\nPL-09-013;2026-09;K-VO-2;R-0013;871.75;2026-09-30\r\nPL-09-014;2026-09;K-VO-2;R-0014;906.5;2026-09-30\r\nPL-09-015;2026-09;K-VO-2;R-0015;941.25;2026-09-30\r\nPL-09-016;2026-09;K-VO-2;R-0016;976.0;2026-09-30\r\nPL-09-017;2026-09;K-VO-2;R-0017;1010.75;2026-09-30\r\nPL-09-018;2026-09;K-VO-2;R-0018;1045.5;2026-09-30\r\nPL-09-019;2026-09;K-VO-2;R-0019;1080.25;2026-09-30\r\nPL-09-020;2026-09;K-VO-2;R-0020;1115.0;2026-09-30\r\nPL-09-021;2026-09;K-VO-2;R-0021;1149.75;2026-09-30\r\nPL-09-022;2026-09;K-VO-2;R-0022;1184.5;2026-09-30\r\nPL-09-023;2026-09;K-VO-2;R-0023;1219.25;2026-09-30\r\nPL-09-024;2026-09;K-VO-2;R-0024;1254.0;2026-09-30"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Beleg",
+          "Monat",
+          "Ordnung",
+          "Person",
+          "Brutto_EUR",
+          "Banklauf"
+        ],
+        "rows": [
+          [
+            "PL-09-001",
+            "2026-09",
+            "K-VO-1",
+            "R-0001",
+            454.75,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-002",
+            "2026-09",
+            "K-VO-1",
+            "R-0002",
+            489.5,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-003",
+            "2026-09",
+            "K-VO-1",
+            "R-0003",
+            524.25,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-004",
+            "2026-09",
+            "K-VO-1",
+            "R-0004",
+            559.0,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-005",
+            "2026-09",
+            "K-VO-1",
+            "R-0005",
+            593.75,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-006",
+            "2026-09",
+            "K-VO-1",
+            "R-0006",
+            628.5,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-007",
+            "2026-09",
+            "K-VO-1",
+            "R-0007",
+            663.25,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-008",
+            "2026-09",
+            "K-VO-1",
+            "R-0008",
+            698.0,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-009",
+            "2026-09",
+            "K-VO-1",
+            "R-0009",
+            732.75,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-010",
+            "2026-09",
+            "K-VO-1",
+            "R-0010",
+            767.5,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-011",
+            "2026-09",
+            "K-VO-1",
+            "R-0011",
+            802.25,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-012",
+            "2026-09",
+            "K-VO-1",
+            "R-0012",
+            837.0,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-013",
+            "2026-09",
+            "K-VO-2",
+            "R-0013",
+            871.75,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-014",
+            "2026-09",
+            "K-VO-2",
+            "R-0014",
+            906.5,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-015",
+            "2026-09",
+            "K-VO-2",
+            "R-0015",
+            941.25,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-016",
+            "2026-09",
+            "K-VO-2",
+            "R-0016",
+            976.0,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-017",
+            "2026-09",
+            "K-VO-2",
+            "R-0017",
+            1010.75,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-018",
+            "2026-09",
+            "K-VO-2",
+            "R-0018",
+            1045.5,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-019",
+            "2026-09",
+            "K-VO-2",
+            "R-0019",
+            1080.25,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-020",
+            "2026-09",
+            "K-VO-2",
+            "R-0020",
+            1115.0,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-021",
+            "2026-09",
+            "K-VO-2",
+            "R-0021",
+            1149.75,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-022",
+            "2026-09",
+            "K-VO-2",
+            "R-0022",
+            1184.5,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-023",
+            "2026-09",
+            "K-VO-2",
+            "R-0023",
+            1219.25,
+            "2026-09-30"
+          ],
+          [
+            "PL-09-024",
+            "2026-09",
+            "K-VO-2",
+            "R-0024",
+            1254.0,
+            "2026-09-30"
+          ]
+        ]
+      },
+      "raw": "Beleg;Monat;Ordnung;Person;Brutto_EUR;Banklauf\r\nPL-09-001;2026-09;K-VO-1;R-0001;454.75;2026-09-30\r\nPL-09-002;2026-09;K-VO-1;R-0002;489.5;2026-09-30\r\nPL-09-003;2026-09;K-VO-1;R-0003;524.25;2026-09-30\r\nPL-09-004;2026-09;K-VO-1;R-0004;559.0;2026-09-30\r\nPL-09-005;2026-09;K-VO-1;R-0005;593.75;2026-09-30\r\nPL-09-006;2026-09;K-VO-1;R-0006;628.5;2026-09-30\r\nPL-09-007;2026-09;K-VO-1;R-0007;663.25;2026-09-30\r\nPL-09-008;2026-09;K-VO-1;R-0008;698.0;2026-09-30\r\nPL-09-009;2026-09;K-VO-1;R-0009;732.75;2026-09-30\r\nPL-09-010;2026-09;K-VO-1;R-0010;767.5;2026-09-30\r\nPL-09-011;2026-09;K-VO-1;R-0011;802.25;2026-09-30\r\nPL-09-012;2026-09;K-VO-1;R-0012;837.0;2026-09-30\r\nPL-09-013;2026-09;K-VO-2;R-0013;871.75;2026-09-30\r\nPL-09-014;2026-09;K-VO-2;R-0014;906.5;2026-09-30\r\nPL-09-015;2026-09;K-VO-2;R-0015;941.25;2026-09-30\r\nPL-09-016;2026-09;K-VO-2;R-0016;976.0;2026-09-30\r\nPL-09-017;2026-09;K-VO-2;R-0017;1010.75;2026-09-30\r\nPL-09-018;2026-09;K-VO-2;R-0018;1045.5;2026-09-30\r\nPL-09-019;2026-09;K-VO-2;R-0019;1080.25;2026-09-30\r\nPL-09-020;2026-09;K-VO-2;R-0020;1115.0;2026-09-30\r\nPL-09-021;2026-09;K-VO-2;R-0021;1149.75;2026-09-30\r\nPL-09-022;2026-09;K-VO-2;R-0022;1184.5;2026-09-30\r\nPL-09-023;2026-09;K-VO-2;R-0023;1219.25;2026-09-30\r\nPL-09-024;2026-09;K-VO-2;R-0024;1254.0;2026-09-30\r\n"
+    },
+    {
+      "id": "33",
+      "path": "Grundakte/33_Projekt_Dokumenteneingang.csv",
+      "kind": "csv",
+      "title": "Eingangsregister Originalfassungen",
+      "date": "2026-10-20",
+      "sender": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektteam\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Eingangsregister Originalfassungen",
+      "body": [
+        "Dokument;Datum;Herkunft;Status\r\nDüsseldorf 1987;2026-10-20;Werksarchiv;unterzeichnet\r\nSchließung 1999;2026-10-20;Werksarchiv;unterzeichnet\r\nStuttgart 2002;2026-10-20;Kassenverwaltung;unterzeichnet\r\nBremen 2014;2026-10-20;Pensionsverwaltung;unterzeichnet\r\nScholz 2003;2026-10-22;Personalakte;unterzeichnet\r\nKonzernordnung 2027;2026-10-20;Projektleitung;Entwurf ohne Unterschrift"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Dokument",
+          "Datum",
+          "Herkunft",
+          "Status"
+        ],
+        "rows": [
+          [
+            "Düsseldorf 1987",
+            "2026-10-20",
+            "Werksarchiv",
+            "unterzeichnet"
+          ],
+          [
+            "Schließung 1999",
+            "2026-10-20",
+            "Werksarchiv",
+            "unterzeichnet"
+          ],
+          [
+            "Stuttgart 2002",
+            "2026-10-20",
+            "Kassenverwaltung",
+            "unterzeichnet"
+          ],
+          [
+            "Bremen 2014",
+            "2026-10-20",
+            "Pensionsverwaltung",
+            "unterzeichnet"
+          ],
+          [
+            "Scholz 2003",
+            "2026-10-22",
+            "Personalakte",
+            "unterzeichnet"
+          ],
+          [
+            "Konzernordnung 2027",
+            "2026-10-20",
+            "Projektleitung",
+            "Entwurf ohne Unterschrift"
+          ]
+        ]
+      },
+      "raw": "Dokument;Datum;Herkunft;Status\r\nDüsseldorf 1987;2026-10-20;Werksarchiv;unterzeichnet\r\nSchließung 1999;2026-10-20;Werksarchiv;unterzeichnet\r\nStuttgart 2002;2026-10-20;Kassenverwaltung;unterzeichnet\r\nBremen 2014;2026-10-20;Pensionsverwaltung;unterzeichnet\r\nScholz 2003;2026-10-22;Personalakte;unterzeichnet\r\nKonzernordnung 2027;2026-10-20;Projektleitung;Entwurf ohne Unterschrift\r\n"
+    },
+    {
+      "id": "35",
+      "path": "Grundakte/35_Datenraum_Ansicht.png",
+      "kind": "png",
+      "title": "Datenraum – Versionsstände der Personalunterlagen",
+      "date": "2026-10-28",
+      "sender": "Datenraum RHEINGOLD\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektteam\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Datenraum – Versionsstände der Personalunterlagen",
+      "body": [
+        "RHEINGOLD / Personal / Stand 28.10.2026",
+        "Bestandsregister – freigegeben für Planung – 14 Ordnungen",
+        "Personenlos 48 – Status teilweise ungeklärt – verantwortlich HR",
+        "Konzernordnung 2027 – Verhandlungsentwurf – NICHT UNTERZEICHNET",
+        "Scholz / Fortführung 2003 – Originalscan liegt vor",
+        "Archiv Stuttgart / Nachlieferung – angekündigt für 29.10.",
+        "Hinweis Projektleitung: Die Markierung „bereinigt“ betrifft Dubletten, nicht die rechtliche Prüfung."
+      ],
+      "attachments": [],
+      "screen_title": "RHEINGOLD | Datenraum · Dokumentenstatus"
+    },
+    {
+      "id": "36",
+      "path": "Fortsetzung/36_Archivabgleich.csv",
+      "kind": "csv",
+      "title": "Nachlieferung Standortwechsler",
+      "date": "2026-10-29",
+      "sender": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "recipient": "Projektteam\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Nachlieferung Standortwechsler",
+      "body": [
+        "Fallgruppe;Anzahl;Nachweis;Systemkorrektur\r\nFortführung Düsseldorf bestätigt;19;Scholz + 18 Archivbestätigungen;noch nicht vorgenommen\r\nStuttgarter Zusage mit Besitzstand;2;Neue Aufnahmebestätigung;Einzelberechnung nötig\r\nZusatzseite nicht gefunden;2;Arbeitsvertrag ohne Beiblatt;offen"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Fallgruppe",
+          "Anzahl",
+          "Nachweis",
+          "Systemkorrektur"
+        ],
+        "rows": [
+          [
+            "Fortführung Düsseldorf bestätigt",
+            19,
+            "Scholz + 18 Archivbestätigungen",
+            "noch nicht vorgenommen"
+          ],
+          [
+            "Stuttgarter Zusage mit Besitzstand",
+            2,
+            "Neue Aufnahmebestätigung",
+            "Einzelberechnung nötig"
+          ],
+          [
+            "Zusatzseite nicht gefunden",
+            2,
+            "Arbeitsvertrag ohne Beiblatt",
+            "offen"
+          ]
+        ]
+      },
+      "raw": "Fallgruppe;Anzahl;Nachweis;Systemkorrektur\r\nFortführung Düsseldorf bestätigt;19;Scholz + 18 Archivbestätigungen;noch nicht vorgenommen\r\nStuttgarter Zusage mit Besitzstand;2;Neue Aufnahmebestätigung;Einzelberechnung nötig\r\nZusatzseite nicht gefunden;2;Arbeitsvertrag ohne Beiblatt;offen\r\n"
+    },
+    {
+      "id": "37",
+      "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
+      "kind": "pdf",
+      "title": "Vergütungsvereinbarung – Sichtungs- und Strukturierungsphase",
+      "date": "2026-10-20",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
+      "subject": "Vergütungsvereinbarung – Sichtungs- und Strukturierungsphase",
+      "body": [
+        "1 Vereinbarte Vergütung",
+        "Die Parteien vereinbaren für anwaltliche Leistungen in dem mit der Mandatsvereinbarung bezeichneten Projekt eine Vergütung nach Zeitaufwand. Der Stundensatz beträgt für Partner 420 EUR netto und für angestellte Rechtsanwälte 290 EUR netto. Abgerechnet wird in Einheiten von sechs Minuten entsprechend der tatsächlich aufgewendeten Zeit. Reisezeit wird nur bei vorheriger Vereinbarung mit der Hälfte des jeweiligen Satzes berechnet. Umsatzsteuer wird in gesetzlicher Höhe zusätzlich ausgewiesen.",
+        "2 Budget und Nachweis",
+        "Für die erste Sichtungs- und Strukturierungsphase ist ein Planungsbudget von 85.000 EUR netto vereinbart. Es ist weder eine Pauschale noch eine Erlaubnis zur unbegrenzten Fortführung. Tätigkeiten werden mit Datum, Bearbeiter, Gegenstand und Dauer nachvollziehbar dokumentiert. Bei absehbarer Überschreitung um mehr als zehn Prozent informiert die Kanzlei vor weiteren nicht eilbedürftigen Arbeiten und holt eine Budgetentscheidung ein. Die Mandantin erhält monatlich einen Tätigkeitsnachweis und eine Rechnung.",
+        "3 Abgrenzung und Auslagen",
+        "Nicht enthalten sind externe Gutachter, notarielle oder gerichtliche Kosten und individuell beauftragte ausländische Beratung. Solche Kosten werden vor Beauftragung abgestimmt. Allgemeine Büro- und Kommunikationskosten sind in den Stundensätzen enthalten. Für gerichtliche Verfahren ist eine gesonderte Beauftragung erforderlich. Diese Vereinbarung betrifft ein außergerichtliches Beratungsmandat.",
+        "4 Hinweis und Fälligkeit",
+        "Die vereinbarte Vergütung kann von der gesetzlichen Vergütung abweichen. Ein etwaiger Kostenerstattungsanspruch gegen Dritte umfasst regelmäßig höchstens die nach den gesetzlichen Regeln erstattungsfähige Vergütung; die Mandantin kann daher einen Teil der vereinbarten Kosten selbst tragen. Rechnungen sind binnen 21 Kalendertagen nach Zugang zur Zahlung fällig. Bei Einwendungen teilen die Parteien die beanstandeten Positionen konkret mit.",
+        "Unterzeichnet für MEISSNER RHEINWERK AG: Geschäftsleitung. Unterzeichnet für Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels. Die Parteien erhalten jeweils eine Ausfertigung."
+      ],
+      "attachments": []
+    }
+  ],
+  "workbooks": [
+    {
+      "id": "30",
+      "path": "Grundakte/30_Bestandsregister.xlsx",
+      "title": "Bestandsregister Deutschland – Verwaltungsstand 30.09.2026",
+      "sheets": [
+        {
+          "name": "Ordnungen",
+          "columns": [
+            "Ordnung",
+            "Bereich",
+            "Durchführung",
+            "Aktive",
+            "Ausgeschiedene",
+            "Rentner",
+            "IFRS_Wert_EUR",
+            "Externes_Vermoegen_EUR"
+          ],
+          "rows": [
+            [
+              "K-VO-1",
+              "Düsseldorf",
+              "Direktzusage",
+              1412,
+              0,
+              1435,
+              487300000,
+              0
+            ],
+            [
+              "K-VO-2",
+              "Stuttgart",
+              "Unterstützungskasse",
+              924,
+              178,
+              1054,
+              314200000,
+              112400000
+            ],
+            [
+              "K-VO-3",
+              "Wuppertal",
+              "abgewickelt",
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              "K-VO-4",
+              "Vertrieb",
+              "Direktversicherung",
+              0,
+              342,
+              87,
+              31400000,
+              31100000
+            ],
+            [
+              "K-VO-5",
+              "Bremen",
+              "Pensionsfonds",
+              917,
+              68,
+              324,
+              198700000,
+              187200000
+            ],
+            [
+              "K-VO-6",
+              "München",
+              "Direktversicherung",
+              0,
+              97,
+              203,
+              28900000,
+              28700000
+            ],
+            [
+              "K-VO-7",
+              "Vorstand",
+              "Einzelzusagen",
+              0,
+              4,
+              11,
+              18700000,
+              0
+            ],
+            [
+              "K-VO-8",
+              "München",
+              "Beitragsbausteine",
+              642,
+              0,
+              0,
+              43100000,
+              43100000
+            ],
+            [
+              "K-VO-9",
+              "AT",
+              "Einzelzusagen",
+              210,
+              48,
+              126,
+              110000000,
+              0
+            ],
+            [
+              "K-VO-10",
+              "Organbestand",
+              "Einzelzusagen",
+              0,
+              2,
+              9,
+              9000000,
+              0
+            ],
+            [
+              "K-VO-11",
+              "Hamburg",
+              "Pensionskasse",
+              0,
+              186,
+              342,
+              114000000,
+              86500000
+            ],
+            [
+              "K-VO-12",
+              "Eisenach",
+              "Beitragsbausteine",
+              388,
+              12,
+              18,
+              24600000,
+              20300000
+            ],
+            [
+              "K-VO-13",
+              "Standortwechsel",
+              "Sondervereinbarungen",
+              23,
+              17,
+              41,
+              62400000,
+              0
+            ],
+            [
+              "K-VO-14",
+              "Saarbrücken",
+              "Direktzusage",
+              198,
+              106,
+              262,
+              239700000,
+              0
+            ]
+          ],
+          "formats": {
+            "IFRS_Wert_EUR": "currency",
+            "Externes_Vermoegen_EUR": "currency"
+          }
+        },
+        {
+          "name": "Budget",
+          "columns": [
+            "Arbeitspaket",
+            "Freigabe_EUR",
+            "Gebunden_EUR",
+            "Verfuegbar_EUR"
+          ],
+          "rows": [
+            [
+              "Rechtliche Sichtung",
+              85000,
+              0,
+              "=B6-C6"
+            ],
+            [
+              "Datenbereinigung",
+              60000,
+              0,
+              "=B7-C7"
+            ],
+            [
+              "Einzelberechnung",
+              95000,
+              18000,
+              "=B8-C8"
+            ],
+            [
+              "Gesamt",
+              "=SUM(B6:B8)",
+              "=SUM(C6:C8)",
+              "=SUM(D6:D8)"
+            ]
+          ],
+          "formats": {
+            "Freigabe_EUR": "currency",
+            "Gebunden_EUR": "currency",
+            "Verfuegbar_EUR": "currency"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Budget",
+          "cell": "B9",
+          "expected": 240000
+        },
+        {
+          "sheet": "Budget",
+          "cell": "C9",
+          "expected": 18000
+        },
+        {
+          "sheet": "Budget",
+          "cell": "D9",
+          "expected": 222000
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "path": "Grundakte/31_Personenlos_48.xlsx",
+      "title": "Einzelberechnung – 48 ausgewählte Personen",
+      "sheets": [
+        {
+          "name": "Personen",
+          "columns": [
+            "Person",
+            "Systemordnung",
+            "Arbeitgeber",
+            "Geburtsjahr",
+            "Eintrittsjahr",
+            "Jahresfestgehalt_EUR",
+            "Teilzeitfaktor",
+            "Dienstmonate_System",
+            "Pruefstatus"
+          ],
+          "rows": [
+            [
+              "M-0001",
+              "K-VO-1",
+              "AG",
+              1961,
+              1986,
+              51200,
+              1,
+              488,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0002",
+              "K-VO-1",
+              "AG",
+              1962,
+              1987,
+              54400,
+              1,
+              476,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0003",
+              "K-VO-1",
+              "AG",
+              1963,
+              1988,
+              57600,
+              1,
+              464,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0004",
+              "K-VO-1",
+              "AG",
+              1964,
+              1989,
+              60800,
+              0.7,
+              452,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0005",
+              "K-VO-1",
+              "AG",
+              1965,
+              1990,
+              64000,
+              1,
+              440,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0006",
+              "K-VO-1",
+              "AG",
+              1966,
+              1991,
+              67200,
+              1,
+              428,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0007",
+              "K-VO-1",
+              "AG",
+              1967,
+              1992,
+              70400,
+              1,
+              416,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0008",
+              "K-VO-1",
+              "AG",
+              1968,
+              1993,
+              73600,
+              0.7,
+              404,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0009",
+              "K-VO-1",
+              "AG",
+              1969,
+              1994,
+              76800,
+              1,
+              392,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0010",
+              "K-VO-1",
+              "AG",
+              1970,
+              1995,
+              80000,
+              1,
+              380,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0011",
+              "K-VO-1",
+              "AG",
+              1971,
+              1996,
+              83200,
+              1,
+              368,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0012",
+              "K-VO-1",
+              "AG",
+              1972,
+              1997,
+              86400,
+              0.7,
+              356,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0013",
+              "K-VO-1",
+              "AG",
+              1973,
+              1998,
+              89600,
+              1,
+              344,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0014",
+              "K-VO-1",
+              "AG",
+              1974,
+              1992,
+              48000,
+              1,
+              416,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0015",
+              "K-VO-1",
+              "AG",
+              1960,
+              1986,
+              51200,
+              1,
+              488,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0016",
+              "K-VO-1",
+              "AG",
+              1961,
+              1987,
+              54400,
+              0.7,
+              476,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0017",
+              "K-VO-2",
+              "Schwabenwerk",
+              1968,
+              1992,
+              82000,
+              1,
+              408,
+              "Übernahmebestätigung K-VO-1 / sechs Monate prüfen"
+            ],
+            [
+              "M-0018",
+              "K-VO-2",
+              "Schwabenwerk",
+              1963,
+              2004,
+              60800,
+              1,
+              272,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0019",
+              "K-VO-2",
+              "Schwabenwerk",
+              1964,
+              2005,
+              64000,
+              1,
+              260,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0020",
+              "K-VO-2",
+              "Schwabenwerk",
+              1965,
+              2006,
+              67200,
+              0.7,
+              248,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0021",
+              "K-VO-2",
+              "Schwabenwerk",
+              1966,
+              2007,
+              70400,
+              1,
+              236,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0022",
+              "K-VO-2",
+              "Schwabenwerk",
+              1967,
+              2008,
+              73600,
+              1,
+              224,
+              "offen"
+            ],
+            [
+              "M-0023",
+              "K-VO-2",
+              "Schwabenwerk",
+              1968,
+              2009,
+              76800,
+              1,
+              212,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0024",
+              "K-VO-2",
+              "Schwabenwerk",
+              1969,
+              1998,
+              80000,
+              0.7,
+              344,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0025",
+              "K-VO-2",
+              "Schwabenwerk",
+              1970,
+              1999,
+              83200,
+              1,
+              332,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0026",
+              "K-VO-2",
+              "Schwabenwerk",
+              1971,
+              2000,
+              86400,
+              1,
+              320,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0027",
+              "K-VO-2",
+              "Schwabenwerk",
+              1972,
+              2001,
+              89600,
+              1,
+              308,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0028",
+              "K-VO-2",
+              "Schwabenwerk",
+              1973,
+              2002,
+              48000,
+              0.7,
+              296,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0029",
+              "K-VO-2",
+              "Schwabenwerk",
+              1974,
+              2003,
+              51200,
+              1,
+              284,
+              "offen"
+            ],
+            [
+              "M-0030",
+              "K-VO-2",
+              "Schwabenwerk",
+              1960,
+              2004,
+              54400,
+              1,
+              272,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0031",
+              "K-VO-2",
+              "Schwabenwerk",
+              1961,
+              2005,
+              57600,
+              1,
+              260,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0032",
+              "K-VO-2",
+              "Schwabenwerk",
+              1962,
+              2006,
+              60800,
+              0.7,
+              248,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0033",
+              "K-VO-5",
+              "Bremen",
+              1963,
+              2014,
+              64000,
+              1,
+              152,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0034",
+              "K-VO-5",
+              "Bremen",
+              1964,
+              2015,
+              67200,
+              1,
+              140,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0035",
+              "K-VO-5",
+              "Bremen",
+              1965,
+              2016,
+              70400,
+              1,
+              128,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0036",
+              "K-VO-5",
+              "Bremen",
+              1966,
+              2008,
+              73600,
+              0.7,
+              224,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0037",
+              "K-VO-5",
+              "Bremen",
+              1967,
+              2009,
+              76800,
+              1,
+              212,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0038",
+              "K-VO-5",
+              "Bremen",
+              1968,
+              2010,
+              80000,
+              1,
+              200,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0039",
+              "K-VO-5",
+              "Bremen",
+              1969,
+              2011,
+              83200,
+              1,
+              188,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0040",
+              "K-VO-5",
+              "Bremen",
+              1970,
+              2012,
+              86400,
+              0.7,
+              176,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0041",
+              "K-VO-5",
+              "Bremen",
+              1971,
+              2013,
+              89600,
+              1,
+              164,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0042",
+              "K-VO-5",
+              "Bremen",
+              1972,
+              2014,
+              48000,
+              1,
+              152,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0043",
+              "K-VO-5",
+              "Bremen",
+              1973,
+              2015,
+              51200,
+              1,
+              140,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0044",
+              "K-VO-5",
+              "Bremen",
+              1974,
+              2016,
+              54400,
+              0.7,
+              128,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0045",
+              "K-VO-5",
+              "Bremen",
+              1960,
+              2008,
+              57600,
+              1,
+              224,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0046",
+              "K-VO-5",
+              "Bremen",
+              1961,
+              2009,
+              60800,
+              1,
+              212,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0047",
+              "K-VO-5",
+              "Bremen",
+              1962,
+              2010,
+              64000,
+              1,
+              200,
+              "Verwaltungsstand"
+            ],
+            [
+              "M-0048",
+              "K-VO-5",
+              "Bremen",
+              1963,
+              2011,
+              67200,
+              0.7,
+              188,
+              "Verwaltungsstand"
+            ]
+          ],
+          "formats": {
+            "Jahresfestgehalt_EUR": "currency"
+          }
+        },
+        {
+          "name": "Szenario_Scholz",
+          "columns": [
+            "Groesse",
+            "Wert",
+            "Einheit"
+          ],
+          "rows": [
+            [
+              "Stichtag des Datenexports",
+              "2026-09-30",
+              "Datum"
+            ],
+            [
+              "Jahresfestgehalt am Stichtag",
+              82000,
+              "EUR"
+            ],
+            [
+              "Jährlicher Dienstzeitfaktor",
+              0.0045,
+              "Anteil"
+            ],
+            [
+              "Dienstmonate System",
+              408,
+              "Monate"
+            ],
+            [
+              "Dienstmonate nach Nachtrag",
+              414,
+              "Monate"
+            ],
+            [
+              "Volle Dienstjahre am Stichtag",
+              34,
+              "Jahre; beide Varianten"
+            ],
+            [
+              "Dienstmonate am 31.12.2026 mit Nachtrag",
+              417,
+              "Monate"
+            ],
+            [
+              "Gehaltssteigerung Planung",
+              0.028,
+              "Anteil pro Jahr"
+            ],
+            [
+              "Plan-Jahre bis 65 ab Jahresende",
+              7,
+              "Jahre; Geburt1968"
+            ],
+            [
+              "Neue Beitragsquote",
+              0.04,
+              "Anteil"
+            ],
+            [
+              "Hinweis",
+              "Sechs Monate ändern am Stichtag noch nicht die Zahl voller Jahre; spätere Jahressprünge prüfen.",
+              ""
+            ],
+            [
+              "Abgrenzung",
+              "Planungsmodell; keine Barwertbewertung",
+              ""
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "id": "34",
+      "path": "Grundakte/34_Lenkungskreis.pptx",
+      "title": "RHEINGOLD – Entscheidungsvorbereitung",
+      "slides": [
+        {
+          "title": "Worum es geht",
+          "bullets": [
+            "14 Ordnungen, unterschiedliche Arbeitgeber und Zusagen",
+            "Aufwandsziel: 18 Mio. EUR jährlich ab 2028",
+            "Start 2027 ist ein Wunsch, noch keine Umsetzung"
+          ]
+        },
+        {
+          "title": "Drei Varianten",
+          "bullets": [
+            "Unveränderte Fortführung",
+            "Dienstzeitbegrenzung mit weiterem Entgeltbezug",
+            "Dienstzeit und Entgelt festschreiben; Beitragssystem ergänzen"
+          ]
+        },
+        {
+          "title": "Vor Entscheidung klären",
+          "bullets": [
+            "Standortwechsel und Einzelbestätigungen",
+            "Beteiligung örtlicher Gremien und KBR",
+            "Anspruch, Bilanzwert und Liquidität getrennt vergleichen"
+          ]
+        },
+        {
+          "title": "Nächster Lenkungskreis",
+          "bullets": [
+            "48 Personen gezielt berechnen",
+            "Anbieterinformationen vollständig anfordern",
+            "Keine Mitarbeiterinformation vor Datenabgleich"
+          ]
+        }
+      ]
+    }
+  ],
+  "controls": {
+    "order_count": 14,
+    "ifrs_total_eur": 1682000000,
+    "population_total": 9686,
+    "selected_persons": 48,
+    "selected_salary_total_eur": 3269200,
+    "cta_eur": 780000000,
+    "budget_eur": 240000,
+    "budget_committed_eur": 18000,
+    "archive_switches": 23,
+    "chronology": "Grundakte bis 28.10.2026; Fortsetzung beginnt 29.10.2026."
+  }
+}

@@ -5,6 +5,7 @@ import argparse
 import json
 from pathlib import Path
 import re
+from skill_sources import replacements
 
 ROOT=Path(__file__).resolve().parents[1]
 BEGIN='<!-- BEGIN FACHMODULE-NAVIGATION -->'
@@ -16,6 +17,9 @@ def title(path):
     return (heading[1] if heading else path.parent.name).replace('[','').replace(']','')
 
 def outputs(plugin):
+    replacement = replacements().get(plugin['name'])
+    if replacement is not None:
+        return replacement_outputs(plugin, replacement)
     directory=ROOT/plugin['source'];count=len(plugin['keep'])+sum(len(r['members']) for r in plugin['routes'])
     active=len(plugin['keep'])+len(plugin['routes'])
     lines=['# Fachmodule und Arbeitswege','',f'{count} vollständige Fachmodule sind über {active} auswählbare Skills erreichbar. Die Arbeitswege verbinden verwandte Aufgaben; die Fachtexte, Werkzeuge und Vorlagen werden nach Bedarf geladen.','',
@@ -48,6 +52,30 @@ def outputs(plugin):
         pos=min(markers) if markers else len(readme)
         readme=readme[:pos].rstrip()+'\n\n'+block+'\n\n'+readme[pos:]
     return {directory/'FACHMODULE.md':index,path:readme}
+
+
+def replacement_outputs(plugin, replacement):
+    directory = ROOT / replacement['source']
+    active = sorted((directory/'skills').glob('*/SKILL.md'))
+    if {path.parent.name for path in active} != set(replacement['active_skills']):
+        raise ValueError('Fachbibliothek und aktive Skills weichen voneinander ab')
+    chapters = replacement['chapters']
+    if not chapters or len(chapters) != len(set(chapters)):
+        raise ValueError('Eindeutige fachliche Kapitel erforderlich')
+    lines = ['# Fachbibliothek für Konzernversorgung', '',
+             f'{len(active)} auswählbare Skills führen durch die Bearbeitung. Die {len(chapters)} Fachkapitel vertiefen die jeweils benötigten Fragen; sie sind keine zusätzlichen Menü-Skills.', '',
+             '[Plugin-Einstieg](README.md)', '',
+             '## 1. Fachkapitel', '']
+    for index, relative in enumerate(chapters, 1):
+        path = directory / relative
+        if not path.is_file() or path.is_symlink() or not path.resolve().is_relative_to(directory.resolve()):
+            raise ValueError(f'Fachkapitel fehlt oder verlässt das Plugin: {relative}')
+        lines.append(f'{index}. [{title(path)}]({relative})')
+    lines += ['', '## 2. Arbeitswege', '']
+    for path in active:
+        lines.append(f'- [{title(path)}]({path.relative_to(directory).as_posix()})')
+    lines += ['', 'Die Kapitel enthalten Fachanweisungen und geprüfte Quellenanker. Historische Fassungen werden außerhalb des installierten Plugins als Prüfspur aufbewahrt. Maßgeblich sind die hier verlinkten Kapitel und der im jeweiligen Auftrag überprüfte Rechtsstand.', '']
+    return {directory / 'FACHMODULE.md': '\n'.join(lines)}
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--check',action='store_true');args=parser.parse_args()

@@ -1,0 +1,512 @@
+
+3 AZR 839/13 - Das Bundesarbeitsgericht
+Zum Hauptmenü
+Zum Hauptmenü
+Zum Informationsmenü
+Zum Inhalt
+Suchen
+Suchen
+Zur Fußzeile
+      Informationsmenü 
+Suche
+Kontakt
+Elektronischer Rechtsverkehr und elektronische Gerichtsakte
+Leichte Sprache
+Gebärdensprache
+Datenschutz
+DE
+EN
+Hoher Kontrast
+Menu
+              Start            
+              Aktuelles und Veranstaltungen            
+Aktuelles
+Veranstaltungen
+                              Jahrespressegespräch des Bundesarbeitsgerichts                            
+                              Instanzen im Dialog                            
+                              Europarechtliches Symposion                            
+                              Moot Court Wettbewerb                            
+                              Amtseinführung 28.06.2022                            
+                              Wanderausstellung                            
+Sitzungstage
+Sitzungsergebnisse
+              Das Bundesarbeitsgericht            
+Organisation
+                              Die Präsidentin                            
+                              Der Vizepräsident                            
+                              Die Senate                            
+                              Die Richterinnen und Richter                            
+                              Die wissenschaftlichen Mitarbeiter                            
+                              Die Geschäftsstelle                            
+                              Die Bibliothek                            
+                              Die Dokumentationsstelle                            
+                              Die Verwaltungsabteilung                            
+                              Internationale Zusammenarbeit                            
+                              Organigramm                            
+Die Arbeitsgerichtsbarkeit
+                              Aufgaben des Bundesarbeitsgerichts                            
+                              Zuständigkeit                            
+                              Aufbau der Arbeitsgerichtsbarkeit                            
+                              Ablauf des arbeitsgerichtlichen Verfahrens                            
+Geschäftsverteilung
+                              Kurzfassung                            
+                              Geschäftsverteilungsplan                            
+                              Geschäftsordnung                            
+                              Organigramm                            
+Gebäude
+              Entscheidungen            
+              Ihr Besuch bei uns            
+Aktuelle Hinweise
+                              So finden Sie uns                            
+Die Bibliothek
+Sitzungstage
+              Presse            
+Pressestelle
+                              Jahresberichte                            
+                              Pressefotos                            
+Pressemitteilungen
+Sitzungstage
+              Service            
+Kontakt
+Stellenangebote
+Ausschreibungen
+Pressefotos
+Pressemitteilungen
+Suche
+Start
+Entscheidungen
+3 AZR 839/13
+3 AZR 839/13
+(Betriebsrentenanpassung - Rechtsschein - Schadensersatz)
+              PDF herunterladen 
+Details
+Aktenzeichen
+3 AZR 839/13
+ECLI
+ECLI:DE:BAG:2015:150915.U.3AZR839.13.0
+Art
+Urteil
+Datum
+15.09.2015
+Senat
+3. Senat
+Tenor
+Auf die Revision der Beklagten wird – unter Zurückweisung der Anschlussrevision des Klägers – das Urteil des Landesarbeitsgerichts Köln vom 12. Juni 2013 – 3 Sa 815/12 – aufgehoben, soweit die Beklagte zur Zahlung verurteilt wurde. 
+Im Umfang der Aufhebung wird der Rechtsstreit zur neuen Verhandlung und Entscheidung – auch über die Kosten des Revisionsverfahrens – an das Landesarbeitsgericht zurückverwiesen. 
+Leitsatz
+1. Die Berücksichtigung der wirtschaftlichen Lage einer anderen Gesellschaft als der Versorgungsschuldnerin bei der Anpassungsprüfung nach § 16 Abs. 1 und Abs. 2 BetrAVG aus Rechtsscheinhaftung kommt nur dann in Betracht, wenn der erforderliche Rechtsschein durch dem Versorgungsschuldner zurechenbare Erklärungen oder Verhaltensweisen begründet wurde.
+2. Ein Anspruch auf Anpassung der Betriebsrente kann sich, wenn die wirtschaftliche Lage des Arbeitgebers der Anpassung nach § 16 Abs. 1 und Abs. 2 BetrAVG entgegensteht, ausnahmsweise aus § 826 BGB ergeben. Denkbar ist ein solcher Schadensersatzanspruch, wenn der konzernangehörige Arbeitgeber sein operatives Geschäft innerhalb des Konzerns überträgt und dort die wirtschaftlichen Aktivitäten weitergeführt werden.
+Tatbestand
+1
+Die Parteien streiten darüber, ob die Beklagte verpflichtet ist, die Betriebsrente des Klägers zu den Anpassungsstichtagen 1. April 2007 und 1. April 2010 an den seit Rentenbeginn eingetretenen Kaufkraftverlust anzupassen.
+2
+Der im Januar 1939 geborene Kläger war bis zum 31. Dezember 2000 zuletzt bei der zum G-Konzern gehörenden G I-S AG (im Folgenden GIS), die im Jahr 2004 in die G GIS Verwaltungs-AG (im Folgenden GISA) umfirmierte, beschäftigt. Ihm war eine Versorgungszusage erteilt worden. 
+3
+Die damalige Konzernobergesellschaft G-K-Beteiligungs-AG (im Folgenden GKB) war aufgrund eines mit den Gesellschaften des G-Konzerns abgeschlossenen Vertrags vom 31. Dezember 1976 (im Folgenden 1976er Vereinbarung) mit Wirkung vom 31. Dezember 1976 in die bestehenden und zukünftigen Pensionsversprechen aller Konzerngesellschaften „eingetreten“. Hintergrund dieser Vereinbarung war ua., dass die Pensionsverbindlichkeiten der Konzerngesellschaften bei der GKB bilanziert werden sollten. Diesem Vertrag waren nachträglich ua. auch die GIS, die spätere GISA, beigetreten. Als Gegenleistung für die Übernahme der Pensionsverpflichtungen zahlte jede Konzerngesellschaft an die GKB einen Betrag in Höhe der für ihre Gesellschaft ermittelten Pensionsrückstellungen. Die Konzerngesellschaften waren zudem verpflichtet, der GKB die auf sie entfallenden zukünftigen Aufwendungen für die Altersversorgung zu erstatten. Diese Aufwendungen waren definiert als zukünftige Nettozuführung zu den Pensionsrückstellungen zzgl. der laufenden Zahlungen an die Pensionäre vermindert um eine Verzinsung von 6 vH der Pensionsrückstellungen des Vorjahres.
+4
+Der G-Konzern wurde im Rahmen des Projekts „Phönix“ zum Jahreswechsel 2003/2004 gesellschaftsrechtlich neu strukturiert. Im Zuge dieser Umorganisation übertrug die GKB, die seit 2005 als W Verwaltungs-AG firmierte und später nach Maßgabe des Beschlusses der Hauptversammlung vom 5. Dezember 2007 im Wege des Formwechsels in die W Verwaltungs-GmbH (im Folgenden W) umgewandelt wurde, ihren Geschäftsbetrieb zum 31. Dezember 2004 sukzessive auf die G Beteiligungsgesellschaft mbH (im Folgenden GBG). Die GBG war eine Tochtergesellschaft der GKB und späteren W. Sie hatte am 30. September 2002 mit der GKB als herrschendem Unternehmen einen Beherrschungs- und Ergebnisabführungsvertrag geschlossen und fungierte seit dem Geschäftsjahr 2003 als Zwischenholding für das operative Geschäft. Der Beherrschungs- und Ergebnisabführungsvertrag wurde mit Wirkung zum 30. April 2006 aufgehoben.
+5
+Im Rahmen des Projekts „Phönix“ wurden zudem die Vertriebs- und Dienstleistungsgesellschaften des Konzerns – zu diesen gehörten auch die GISA und ihre Tochtergesellschaft, die G GI Verwaltungs-GmbH (im Folgenden GIA) -, die unter der damaligen Konzern-Holding GKB zusammengefasst waren und ihre Aufgaben gesellschaftsübergreifend wahrnahmen, aufgegliedert und jeweils direkt den entsprechenden Versicherungsgesellschaften zugeordnet. Die GISA und ihre Tochter GIA übertrugen ihren Geschäftsbetrieb mit den dazugehörenden Vermögensgegenständen auf zwei Nachfolgegesellschaften. Die Arbeitsverhältnisse der aktiven Mitarbeiter gingen zum 1. Januar 2004 auf diese Gesellschaften über. Seit dem 1. Januar 2004 beschäftigt die GISA keine eigenen Arbeitnehmer mehr. Sie war seitdem nicht mehr werbend am Markt tätig. Ihre geschäftlichen Aktivitäten beschränkten sich auf die Verwaltung des eigenen Vermögens. 
+6
+Am 23. November 2005 vereinbarten die damalige Konzernobergesellschaft W und die T AG die Übernahme der operativen Gesellschaften des G-Konzerns durch die T AG. Zum 30. April/1. Mai 2006 übernahm die T AG die Gesellschaftsanteile der GBG. Gleichzeitig schied die W aus dem G-Konzern aus. Zwischen der GBG und der T AG wurde am 28. Juni 2006 ein Ergebnisabführungs- und Beherrschungsvertrag geschlossen. Dieser Vertrag wurde zum 31. März 2008 wieder aufgehoben. 
+7
+Die T AG verkaufte mit Wirkung zum 31. März 2008 ihre Anteile an der GBG an die H AG, die später in T S AG umfirmiert wurde. Seit dem 1. Juni 2010 war wiederum die T AG alleinige Gesellschafterin der GBG.
+8
+Mit Verschmelzungsvertrag vom 5. August 2008 wurde die GISA mit Wirkung zum 30. September 2008 auf die GBG verschmolzen. Mitte 2009 wurde die GBG Komplementär-GmbH der HG GmbH & Co. KG, deren Vermögen zum 1. Oktober 2010 im Wege der Anwachsung auf die GBG überging. Aufgrund Verschmelzungsvertrags vom 23. August 2010 wurde die H Beteiligungsgesellschaft mbH (im Folgenden HBG alt) mit Wirkung zum 1. Oktober 2010 auf die GBG verschmolzen. Im Zuge dieser Verschmelzung firmierte die GBG in H Beteiligungs-GmbH (im Folgenden HBG neu) um. Sie ist die Beklagte des vorliegenden Rechtsstreits.
+9
+Noch während des laufenden Arbeitsverhältnisses erhielt der Kläger von seiner Arbeitgeberin verschiedene Schreiben, die sich mit seinen künftigen Versorgungsansprüchen befassten. So bot die G Versorgungskasse namens der GKB sowie der „G-Gesellschaft, die neben der GKB als Gesamtschuldner für die Versorgungsleistungen aus Ihrem Versorgungsversprechen haftet“ dem Kläger unter dem 2. Juli 1999 eine Verbesserung seines Versorgungsversprechens bei Inanspruchnahme einer Altersteilzeit an. Unter dem 30. November 2004 lehnte die G Versorgungskasse eine Anpassung der Betriebsrente des Klägers zum 1. April 2004 mit der Begründung ab, eine Erhöhung der laufenden Leistungen sei aufgrund der wirtschaftlichen Lage der GKB, „auf die wegen der Ausgestaltung und konzerneinheitlichen Handhabung der Versorgungssysteme bei G vorrangig abzustellen“ sei, ausgeschlossen; auch die wirtschaftliche Lage der GISA lasse eine Anpassung der Betriebsrente nicht zu. 
+10
+Mit Schreiben vom 16. Mai 2006 – nach Übernahme der Gesellschaftsanteile der GBG durch die T AG – teilten diese Gesellschaften dem Kläger Folgendes mit:
+„…,    
+nachdem die G-K-Beteiligungs-AG (GKB) ihren Geschäftsbetrieb und alle Tochtergesellschaften des Erstversicherungskonzerns nunmehr auf die G-Beteiligungs-GmbH (GBG) übergeleitet hat, hat die GBG von der GKB mit Wirkung zum 30.04.2006 sämtliche Verpflichtungen im Zusammenhang mit der Ihnen gewährten Versorgungszusage übernommen.
+Von der Übernahme sind Versorgungsansprüche gegenüber den deutschen Gesellschaften der GBG-Gruppe und gegenüber der GKB erfasst. …
+Die T AG hat in diesem Zusammenhang eine selbstschuldnerische Bürgschaft für die Zahlungen der GBG im Hinblick auf Ihre von der GBG übernommenen Versorgungsansprüche übernommen. Aufgrund der Übernahme werden dementsprechend sämtliche Zahlungen auf Ihre Versorgungsansprüche ab dem 1. Mai 2006 von der GBG geleistet.
+An der Verwaltung Ihrer Versorgungsansprüche hat sich dadurch nichts geändert. Sofern Sie nichts Gegenteiliges von uns hören, bleiben Ihre bisherigen Ansprechpartner weiterhin für Sie tätig.
+…“    
+11
+In dem im Mai 2006 erstellten Jahresabschluss der W für das Geschäftsjahr 2005 wird hierzu ausgeführt:
+„Durch Vertrag vom 25.04.2006 hat die GBG im Innenverhältnis zu unserer Gesellschaft unsere Pensionsverpflichtungen auf Grund der Mithaftung für Pensionsversprechen gemäß des Pensionsvertrages vom 31.12.1976 übernommen. Für die übernommenen Verpflichtungen erhielt die GBG einen Ausgleichsanspruch gegenüber unserer Gesellschaft in Höhe der nach § 6a EStG zu berechnenden übernommenen Verpflichtungen und Verbindlichkeiten. Bei der GBG wurde insoweit die freie Kapitalrücklage in Höhe dieses Ausgleichsanspruchs aufgelöst und eine entsprechende Ausschüttung an unsere Gesellschaft beschlossen. Der Ausschüttungsanspruch unserer Gesellschaft wurde mit dem Ausgleichsanspruch der GBG verrechnet. Für alle Verpflichtungen der GBG aus übernommenen Pensionsversprechen hat die T AG gegenüber der W Verwaltungs-AG (vormals GKB) die selbstschuldnerische Bürgschaft übernommen.“
+12
+Aufgrund Vertrags vom 19. Juli 2006 übertrug die GBG mit Wirkung zum 30. Juni 2006 sämtliche Rechte und Ansprüche aus der 1976er Vereinbarung im Innenverhältnis auf die T AG. Im Geschäftsbericht der T AG für das Geschäftsjahr 2006 ist hierzu ausgeführt:
+„Durch Schuldbeitritt vom 19. Juli 2006 hat die T AG … die Pensionsversprechen ihrer Tochtergesellschaft G Beteiligungs-GmbH gegenüber den Gesellschaften des G-Konzerns mit der Maßgabe übernommen, dass die T AG im Innenverhältnis allein für die Erfüllung der Pensionsversprechen haftet. …“ 
+13
+Seit dem 1. Januar 2001 bezieht der Kläger eine Altersrente aus der gesetzlichen Rentenversicherung sowie eine Betriebsrente iHv. monatlich 2.274,53 Euro brutto, die zunächst von der GKB und nach deren Ausscheiden aus dem Konzern von der GBG gezahlt wurde. Für sämtliche Gesellschaften des früheren G-Konzerns wurden die Anpassungsprüfungen gebündelt zum 1. April eines jeden Kalenderjahres durchgeführt. Die Betriebsrente des Klägers wurde weder zum 1. April 2004 noch zu den darauffolgenden Anpassungsstichtagen 1. April 2007 und 1. April 2010 angepasst.
+14
+Mit seiner am 11. Oktober 2010 beim Arbeitsgericht eingegangenen Klage verlangt der Kläger die Anpassung seiner Betriebsrente zum 1. April 2007 an den seit dem Rentenbeginn eingetretenen Kaufkraftverlust sowie mit seiner am 25. Februar 2011 beim Arbeitsgericht eingegangenen Klageerweiterung die Anpassung seiner Betriebsrente zum 1. April 2010.
+15
+Der Kläger hat die Auffassung vertreten, seine Betriebsrente sei zum Anpassungsstichtag 1. April 2007 um den seit Rentenbeginn eingetretenen Kaufkraftverlust, den er mit 10,04 vH beziffert hat, anzupassen. Zum Anpassungsstichtag 1. April 2010 sei seine Betriebsrente um einen Kaufkraftverlust, der sich auf 15,27 vH belaufe, anzuheben. Die Anpassung der Betriebsrente zu beiden Anpassungsstichtagen 1. April 2007 und 1. April 2010 dürfe nicht unter Hinweis auf die schlechte wirtschaftliche Lage der GISA bzw. der GBG verweigert werden. Vielmehr sei (auch) die wirtschaftliche Lage der W, der damaligen GBG und der T AG maßgeblich. Deren jeweilige wirtschaftliche Lage lasse eine Anpassung seiner Betriebsrente an den Kaufkraftverlust zu. Jedenfalls sei die GISA dadurch, dass sie zum 31. Dezember 2003 ihren Geschäftsbetrieb auf andere Gesellschaften übertragen habe, zu einer reinen Rentnergesellschaft geworden. Deshalb hätte für eine entsprechende finanzielle Ausstattung gesorgt werden müssen. Da dies nicht geschehen sei, sei es der GISA nach § 242 BGB verwehrt, sich auf eine für eine Betriebsrentenanpassung nicht ausreichende wirtschaftliche Lage zu berufen. Eine angemessene Ausstattung der GISA sei deshalb zu unterstellen. Dies gelte, nachdem die GISA im Jahr 2008 auf die GBG verschmolzen worden sei, ebenso für die Beklagte. Darüber hinaus sei die Beklagte jedenfalls unter schadensersatzrechtlichen Gesichtspunkten zur Betriebsrentenanpassung verpflichtet. 
+16
+Der Kläger hat zuletzt (sinngemäß) beantragt,
+1.    
+die Beklagte zu verurteilen, an ihn rückständige Betriebsrente für die Monate April 2007 bis März 2010 iHv. insgesamt 8.220,96 Euro brutto nebst Zinsen iHv. fünf Prozentpunkten über dem Basiszinssatz aus jeweils 228,36 Euro seit dem jeweiligen Ersten des jeweiligen Folgemonats, beginnend mit dem 1. Mai 2007 und endend mit dem 1. April 2010 zu zahlen,
+2.    
+die Beklagte zu verurteilen, an ihn rückständige Betriebsrente für die Monate April 2010 bis Januar 2011 iHv. insgesamt 3.473,20 Euro brutto nebst Zinsen iHv. fünf Prozentpunkten über dem Basiszinssatz aus jeweils 347,32 Euro seit dem jeweiligen Ersten des jeweiligen Folgemonats, beginnend mit dem 1. Mai 2010 und endend mit dem 1. Februar 2011 zu zahlen,
+3.    
+die Beklagte zu verurteilen, an ihn ab Februar 2011 eine um 347,32 Euro brutto höhere monatliche Betriebsrente, mithin eine monatliche Betriebsrente iHv. insgesamt 2.621,85 Euro brutto jeweils nachschüssig zu zahlen.
+17
+Die Beklagte hat Klageabweisung beantragt. Sie hat die Auffassung vertreten, die Betriebsrente des Klägers sei weder zum Anpassungsstichtag 1. April 2007 noch zum Anpassungsstichtag 1. April 2010 an den seit Rentenbeginn eingetretenen Kaufkraftverlust anzupassen. Die Anpassung sei zu beiden Anpassungsstichtagen zu Recht unterblieben. Bei der Anpassung zum 1. April 2007 komme es ausschließlich auf die wirtschaftliche Lage der damaligen originären Versorgungsschuldnerin GISA an. Diese habe einer Anpassung der Betriebsrente des Klägers entgegengestanden. Zum Anpassungsstichtag 1. April 2010 sei die unzureichende wirtschaftliche Lage der GBG maßgeblich. Die Voraussetzungen für einen Berechnungsdurchgriff auf die wirtschaftliche Lage anderer Konzerngesellschaften lägen zu beiden Anpassungsstichtagen nicht vor. Zudem habe auch die wirtschaftliche Lage der anderen Konzerngesellschaften eine Betriebsrentenanpassung nicht zugelassen. Bei der Ermittlung der erzielten Eigenkapitalverzinsung sei auf das Betriebsergebnis nach Steuern vom Einkommen und vom Ertrag abzustellen. Der in Ansatz zu bringende Basiszins entspreche der in den letzten 20 Jahren vor dem jeweiligen Anpassungsstichtag durchschnittlich erzielten Rendite von Anleihen der öffentlichen Hand mit einer mittleren Rentenlaufzeit von über neun bis einschließlich zehn Jahren. 
+18
+Der Kläger könne eine Betriebsrentenanpassung auch nicht im Wege des Schadensersatzes wegen nicht hinreichender Ausstattung der GISA als Rentnergesellschaft durchsetzen. Es habe keine Pflicht zur hinreichenden Ausstattung der GISA bestanden. 
+19
+Das Arbeitsgericht hat der Klage stattgegeben. Das Landesarbeitsgericht hat die Berufung der Beklagten zum überwiegenden Teil zurückgewiesen und die Beklagte – unter Klageabweisung im Übrigen – verurteilt, an den Kläger rückständige Betriebsrente für die Monate April 2007 bis März 2010 iHv. insgesamt 8.122,68 Euro brutto und für die Monate April 2010 bis Januar 2011 iHv. insgesamt 3.461,80 Euro brutto jeweils nebst Zinsen iHv. fünf Prozentpunkten über dem Basiszinssatz ab Rechtskraft der Entscheidung sowie für die Zeit ab Februar 2011 eine um monatlich 346,18 Euro höhere Betriebsrente, mithin eine Betriebsrente iHv. insgesamt 2.620,71 Euro brutto jeweils monatlich nachschüssig zu zahlen. Mit der Revision verfolgt die Beklagte ihren Antrag auf vollständige Klageabweisung weiter. Der Kläger begehrt die Zurückweisung der Revision der Beklagten. Zudem verfolgt er im Wege der Anschlussrevision seine ursprünglichen Zinsanträge insoweit weiter, als ihm Zinsen für Zeiträume vor Rechtskraft der Entscheidung abgesprochen wurden. Die Beklagte begehrt die Zurückweisung der Anschlussrevision.
+Entscheidungsgründe
+20
+Die Revision der Beklagten ist begründet. Mit der vom Landesarbeitsgericht gegebenen Begründung durfte der Klage nicht – auch nicht teilweise – stattgegeben werden. Die Entscheidung des Landesarbeitsgerichts ist rechtsfehlerhaft und stellt sich auch nicht aus anderen Gründen als richtig dar. Aufgrund der bislang vom Landesarbeitsgericht getroffenen Feststellungen kann allerdings nicht beurteilt werden, ob und ggf. inwieweit die Klage begründet ist. Dies führt zur Aufhebung des angefochtenen Urteils 
+(§ 562 Abs. 1 ZPO) 
+im Umfang der Revision und insoweit zur Zurückverweisung des Rechtsstreits zur neuen Verhandlung und Entscheidung an das Landesarbeitsgericht 
+(§ 563 Abs. 1 ZPO)
+. Die zulässige Anschlussrevision des Klägers ist hingegen unbegründet. Dem Kläger stünden bei einem – auch nur teilweisen – Obsiegen mit den Hauptforderungen in den Anträgen zu 1. und 2. Zinsen auf rückständige Anpassungsansprüche in jedem Fall erst ab der Rechtskraft des Urteils zu.
+21
+A. Die Revision und die Anschlussrevision sind zulässig. Die Anschlussrevision erfüllt die Voraussetzungen des § 72 Abs. 5 ArbGG iVm. § 554 Abs. 2 Satz 2 ZPO, insbesondere wurde die Anschließung mit am selben Tag beim Bundesarbeitsgericht eingegangenem Schriftsatz des Klägers vom 13. Januar 2014 (Montag) fristgerecht nach Zustellung der Revisionsbegründung am 12. Dezember 2013 erklärt.
+22
+B. Die Revision der Beklagten ist begründet. Das Landesarbeitsgericht ist mit einer unzutreffenden Begründung zu dem Ergebnis gelangt, dass der Kläger im Wege des Schadensersatzes wegen nicht hinreichender Ausstattung der GISA als Rentnergesellschaft sowohl zum 1. April 2007 als auch zum 1. April 2010 eine Anpassung seiner Betriebsrente an den Kaufkraftverlust verlangen kann. Das Urteil stellt sich auch nicht aus anderen Gründen als richtig dar.
+23
+I. Das Landesarbeitsgericht hat angenommen, es könne dahinstehen, ob die Beklagte nach § 16 Abs. 1 und Abs. 2 BetrAVG zur Anpassung der Betriebsrente des Klägers verpflichtet sei, da es sich bei dem Anspruch auf Schadensersatz wegen nicht hinreichender Ausstattung einer Rentnergesellschaft nach § 280 Abs. 1 Satz 1, § 241 Abs. 2, §§ 31, 278 BGB um einen Anspruch handele, der neben einer Anpassungsverpflichtung nach § 16 BetrAVG bestehe.
+24
+Dies hält einer revisionsrechtlichen Überprüfung nicht stand. Das Landesarbeitsgericht hätte vorrangig prüfen müssen, ob die Entscheidungen der GISA – diese war zum Anpassungsstichtag 1. April 2007 originäre Versorgungsschuldnerin – und der GBG – diese war zum Anpassungsstichtag 1. April 2010 originäre Versorgungsschuldnerin -, die Betriebsrente des Klägers zum 1. April 2007 und zum 1. April 2010 nicht an den seit Rentenbeginn eingetretenen Kaufkraftverlust anzupassen, auch unter Berücksichtigung eines etwaigen Berechnungsdurchgriffs billigem Ermessen iSv. § 16 Abs. 1 und Abs. 2 BetrAVG entsprach. Der Kläger hat seinen Anspruch auf Anpassung seiner Betriebsrente zunächst auf § 16 Abs. 1 und Abs. 2 BetrAVG gestützt und lediglich „jedenfalls“ und damit hilfsweise auf Schadensersatz nach § 280 Abs. 1 Satz 1, § 241 Abs. 2, §§ 31, 278 BGB.
+25
+II. Entgegen der Rechtsauffassung des Landesarbeitsgerichts ist die Beklagte aber auch dann, wenn sich erweisen sollte, dass eine Anpassung der Betriebsrente des Klägers nach § 16 Abs. 1 und Abs. 2 BetrAVG zu den Anpassungsstichtagen 1. April 2007 und 1. April 2010 zu Recht unterblieben ist, nicht im Wege des Schadensersatzes wegen unzureichender Ausstattung der GISA als Rentnergesellschaft gemäß § 280 Abs. 1 Satz 1, § 241 Abs. 2 BGB verpflichtet, die Betriebsrente des Klägers zu den beiden Anpassungsstichtagen an den seit Rentenbeginn eingetretenen Kaufkraftverlust anzupassen. Die vom Senat im Urteil vom 11. März 2008 
+(- 3 AZR 358/06 – BAGE 126, 120)
+ entwickelten Grundsätze betreffen ausschließlich die Ausstattung einer Rentnergesellschaft, auf die im Wege der Ausgliederung nach dem Umwandlungsgesetz Versorgungsverbindlichkeiten übertragen werden. Sie sind nicht anwendbar auf eine Rentnergesellschaft, die durch Übertragung ihres operativen Geschäfts entsteht.
+26
+1. Der Senat hat durch Urteil vom 17. Juni 2014 
+(- 3 AZR 298/13 – BAGE 148, 244)
+ entschieden, dass eine Ausstattungspflicht für eine im Wege von Betriebsübergängen entstandene Rentnergesellschaft nicht besteht und deshalb ein Schadensersatzanspruch nach § 280 Abs. 1 Satz 1, § 241 Abs. 2 BGB wegen Verletzung dieser Pflicht nicht in Betracht kommt. Zur Begründung hat er ausgeführt, die Annahme der arbeitsvertraglichen Nebenpflicht bei der Ausgliederung von Versorgungsverbindlichkeiten auf eine Rentnergesellschaft, diese so auszustatten, dass sie die laufenden Betriebsrenten zahlen kann und zu den gesetzlich vorgesehenen Anpassungen in der Lage ist, beruhe auf dem mit der Ausgliederung verbundenen Wechsel in der Person des Versorgungsschuldners. Schuldner der Versorgungsleistungen sei in diesem Fall nicht mehr der ursprüngliche Arbeitgeber, sondern die Rentnergesellschaft, auf die die Versorgungsverpflichtungen übertragen wurden. Diese habe nunmehr nicht nur die laufenden Versorgungsleistungen zu erbringen, sondern sei zudem zur Anpassungsprüfung nach § 16 Abs. 1 und Abs. 2 BetrAVG verpflichtet und dürfe eine Anpassung ablehnen, wenn ihre eigene wirtschaftliche Lage eine solche nicht zulasse. Damit bestehe die Gefahr, dass die Möglichkeiten des Umwandlungsgesetzes dazu genutzt würden, die Versorgungsverpflichtungen auf eine nicht ausreichend ausgestattete Gesellschaft zu übertragen und dadurch die schutzwürdigen Interessen der Versorgungsberechtigten zu beeinträchtigen. Eine vergleichbare Gefahr bestehe hingegen nicht, wenn der frühere Arbeitgeber und – spätere – Versorgungsschuldner sein operatives Geschäft im Wege des Betriebsübergangs an einen Betriebserwerber veräußere, da die Versorgungsverpflichtungen bei dem ursprünglichen Versorgungsschuldner verblieben. Aus den Wertungen von § 4 BetrAVG folge nichts anderes. § 4 BetrAVG regele nur den Wechsel eines einzelnen Arbeitnehmers von seinem Arbeitgeber zu einem neuen Arbeitgeber und sei deshalb bei einem Betriebsübergang nach § 613a BGB nicht anwendbar.
+27
+2. Dieses Urteil ist im Schrifttum auf Kritik gestoßen. Die vom Senat gegebene Begründung sei zu pauschal. Sie möge zutreffen, wenn das Anteilseigentum an den Unternehmen, auf die die operative Tätigkeit ausgelagert werde, bei der Rentnergesellschaft verbleibe; nicht überzeugend sei sie jedoch in dem Fall, dass die bisherigen Anteilseigner der Rentnergesellschaft direkte Eigner der Unternehmen würden, die das operative Geschäft übernehmen. Dann könne durchaus ein Interesse bestehen, der Rentnergesellschaft möglichst wenig Mittel zu überlassen, zumindest aber so wenig, dass eine Anpassung der Betriebsrenten nicht in Betracht komme 
+(Höfer BetrAVG Stand März 2015 Bd. I § 16 Rn. 272.2)
+. Darüber hinaus wurde bemängelt, die Entscheidung eröffne Umgehungsstrategien. Es mache aus vertragsrechtlicher Sicht keinen Unterschied, ob die Rentnergesellschaft durch eine Ausgliederung von Rentenverbindlichkeiten entstehe oder dadurch, dass werbende Geschäftsbereiche veräußert würden 
+(Forst EWiR 2014, 793 f.)
+.
+28
+3. Auch unter Berücksichtigung dieser Kritik hält der Senat an seiner Entscheidung fest.
+29
+a) Die Übertragung von Versorgungsverbindlichkeiten im Wege der Ausgliederung nach dem Umwandlungsgesetz führt zu einem Wechsel in der Person des Versorgungsschuldners. Schuldner der Versorgungsleistungen und der Anpassungsprüfungspflicht nach § 16 Abs. 1 und Abs. 2 BetrAVG ist in diesem Fall nicht mehr der ursprüngliche Arbeitgeber – dessen wirtschaftliche Lage für eine etwaige Betriebsrentenanpassung demzufolge nicht mehr maßgeblich ist – sondern die Rentnergesellschaft, auf die die Versorgungsverpflichtungen übertragen wurden und auf deren wirtschaftliche Lage es für die Anpassungsprüfung nunmehr ankommt. Da das ausgliedernde Unternehmen den Umfang der zu übertragenden Vermögenswerte bestimmt, besteht typischerweise die Gefahr, dass die umwandlungsrechtliche Ausgliederung dazu genutzt wird, die Versorgungsverpflichtungen auf eine nicht ausreichend ausgestattete Gesellschaft zu übertragen und dadurch die schutzwürdigen Interessen der Versorgungsberechtigten zu beeinträchtigen 
+(ähnlich Cisch/Kruip NZA 2010, 540, 543)
+.
+30
+b) Veräußert der frühere Arbeitgeber und – spätere – Versorgungsschuldner – wie hier – sein operatives Geschäft und wird so zu einer Rentnergesellschaft, besteht hingegen nicht typischerweise die Gefahr, dass die schutzwürdigen Interessen der Versorgungsberechtigten beeinträchtigt werden. Denn die Anpassungsprüfungspflicht nach § 16 Abs. 1 und Abs. 2 BetrAVG verbleibt beim bisherigen Versorgungsschuldner, der für den Verkauf seines operativen Geschäfts den vereinbarten Kaufpreis erhält. Insoweit findet „bilanziell“ lediglich ein Aktivtausch statt. Die Höhe des Kaufpreises richtet sich dabei regelmäßig im Wesentlichen nach der wirtschaftlichen Situation. Je geringer die Erträge sind, desto niedriger ist der Kaufpreis. Insoweit realisiert sich damit für die Betriebsrentner ihre Teilhabe am Wirtschaftsrisiko des Versorgungsschuldners 
+(Cisch/Kruip NZA 2010, 540, 543)
+. Dies deckt sich mit den Vorgaben von § 16 Abs. 1 und Abs. 2 BetrAVG.
+31
+c) Auch die in § 4 BetrAVG zum Ausdruck kommenden gesetzgeberischen Wertungen sprechen für dieses Ergebnis. Nach § 4 BetrAVG kann sich der die Versorgung schuldende Arbeitgeber grundsätzlich nicht ohne Zustimmung des betroffenen Arbeitnehmers von seinen Versorgungsverpflichtungen befreien und so die Verbindung zwischen ihm und den Versorgungsberechtigten aufheben. Zwar ist die Regelung weder bei einem Betriebsübergang nach § 613a BGB
+(BT-Drs. 15/2150 S. 53)
+ noch bei einer Übertragung der Versorgungsverbindlichkeiten im Wege der umwandlungsrechtlichen Ausgliederung 
+(Höfer BetrAVG Stand März 2015 Bd. I § 4 Rn. 28)
+ anwendbar. Dennoch zeigt sie über ihren Anwendungsbereich hinaus, dass der Gesetzgeber typische Gefahren für den Versorgungsempfänger bei einem Wechsel des Versorgungsschuldners, nicht aber bei der Beibehaltung der Schuldnerstellung sieht. § 4 BetrAVG bestätigt, dass die Zuordnung der Versorgungsverpflichtungen zum Versorgungsschuldner, dh. demjenigen, der als Arbeitgeber die Versorgungszusage erteilt hat oder im Wege der Rechtsnachfolge in diese eingetreten ist, grundsätzlich aufrechterhalten bleiben soll.
+32
+d) Auch unter Berücksichtigung denkbarer Missbrauchsmöglichkeiten ist kein anderes Ergebnis geboten.
+33
+aa) Selbst wenn bei einer Übertragung des Geschäftsbetriebs nicht typischerweise die Gefahr besteht, dass diese dazu missbraucht wird, die schutzwürdigen Interessen der Versorgungsberechtigten zu beeinträchtigen, so sind doch Fälle denkbar, in denen der Übertragung wirtschaftlicher Aktivitäten auf andere Unternehmen ein erhöhtes Gefährdungspotential für die Interessen der Betriebsrentner immanent ist. Diese Annahme ist insbesondere naheliegend, wenn Betriebsveräußerungen innerhalb eines Konzerns stattfinden. Bei derartigen Transaktionen besteht in der Regel die Gefahr, dass sie in erster Linie nicht zum Wohle der einzelnen konzernangehörigen Unternehmen, sondern durch Ausübung von Leitungsmacht durch das herrschende Unternehmen vorrangig zum Wohle des Gesamtkonzerns durchgeführt werden. Es ist dann denkbar, dass das veräußernde Unternehmen für den Verkauf des operativen Geschäfts vom erwerbenden Unternehmen keine marktgerechte Gegenleistung erhält und dem Vermögen des Veräußerers damit kein angemessener Kaufpreis zufließt. Durch eine derartige Transaktion können die beim Versorgungsschuldner zur Verfügung stehenden Vermögenswerte so geschmälert werden, dass eine Anpassung der Betriebsrenten nach § 16 Abs. 1 und Abs. 2 BetrAVG an der ungenügenden wirtschaftlichen Lage des Versorgungsschuldners scheitert.
+34
+bb) Dennoch gebietet es auch ein derartiger Sachverhalt nicht, die Grundsätze, die der Senat im Urteil vom 11. März 2008 
+(- 3 AZR 358/06 – BAGE 126, 120)
+ entwickelt hat, auf eine Rentnergesellschaft, die durch Übertragung ihres operativen Geschäfts im Wege des Betriebsübergangs auf einen Betriebserwerber entsteht, zu übertragen. Sofern die Interessen der Betriebsrentner durch Transaktionen innerhalb eines Konzerns beeinträchtigt werden, die zur Folge haben, dass das zur Anpassungsprüfung verpflichtete Unternehmen wirtschaftlich nicht mehr zu den gesetzlich vorgesehenen Anpassungen in der Lage ist, sind die Versorgungsberechtigten durch einen etwaigen Anspruch auf Schadensersatz wegen vorsätzlicher sittenwidriger Schädigung nach § 826 BGB ausreichend geschützt.
+35
+III. Das Urteil des Landesarbeitsgerichts stellt sich auch nicht aus anderen Gründen als – dem Grunde nach – richtig dar, § 561 ZPO. Entgegen der Rechtsauffassung des Klägers war es weder der GISA noch ist es der Beklagten nach Treu und Glauben 
+(§ 242 BGB)
+ verwehrt, sich im Rahmen des § 16 BetrAVG auf eine mangelnde Leistungsfähigkeit zu berufen, weil nicht für eine zur Anpassung der Betriebsrenten ausreichende finanzielle Ausstattung der GISA gesorgt worden war, bevor diese durch Übertragung ihrer werbenden Tätigkeit auf andere Unternehmen zur Rentnergesellschaft wurde.
+36
+1. Einer Anwendung von § 242 BGB stehen bereits die Wertungen von § 16 Abs. 1 und Abs. 2 BetrAVG entgegen. Danach ist gesetzlich nur eine Anpassungsprüfung vorgesehen, die auch die wirtschaftliche Lage des Versorgungsschuldners berücksichtigt. Dabei kommt es auf die tatsächliche wirtschaftliche Lage des Versorgungsschuldners und nicht auf eine fiktive Lage an, die bestanden hätte, wenn unternehmerische Entscheidungen anders getroffen worden wären. Da der Versorgungsschuldner nach § 16 Abs. 1 BetrAVG zu jedem neuen Anpassungsstichtag erneut eine Anpassung der Betriebsrenten zu prüfen und hierüber nach billigem Ermessen zu entscheiden hat und dabei auch seine – aktuelle – wirtschaftliche Lage berücksichtigen darf, kommt zudem eine fiktive Fortschreibung früherer wirtschaftlicher Verhältnisse nicht in Betracht 
+(vgl. BAG 17. Juni 2014 – 3 AZR 298/13 – Rn. 48, BAGE 148, 244; 20. August 2013 – 3 AZR 750/11 – Rn. 51 mwN)
+.
+37
+2. Eine Anwendung von § 242 BGB widerspräche auch Sinn und Zweck von § 16 Abs. 1 BetrAVG. Wäre es dem Versorgungsschuldner nach § 242 BGB verwehrt, sich auf eine zur Anpassung der Betriebsrente nicht ausreichende wirtschaftliche Lage zu berufen, müsste er die Anpassung ggf. aus der Vermögenssubstanz finanzieren. Dies will § 16 Abs. 1 BetrAVG jedoch gerade verhindern 
+(vgl. BAG 17. Juni 2014 – 3 AZR 298/13 – Rn. 49, BAGE 148, 244)
+. Dieser gesetzgeberische Zweck kann nicht unter Rückgriff auf die allgemeinen Grundsätze von Treu und Glauben infrage gestellt werden. Das gilt auch, wenn die für eine Betriebsrentenanpassung nicht hinreichende wirtschaftliche Lage des Versorgungsschuldners auf Einflussmaßnahmen aufgrund konzernrechtlicher Verflechtungen beruht.
+38
+IV. Die Rechtsfehler des Landesarbeitsgerichts führen zur Aufhebung der angefochtenen Entscheidung und zur Zurückverweisung des Rechtsstreits an das Landesarbeitsgericht zur neuen Verhandlung und Entscheidung 
+(§ 563 Abs. 1 ZPO)
+. Auf der Grundlage der vom Landesarbeitsgericht getroffenen Feststellungen kann nicht beurteilt werden, ob die Entscheidung der GISA, die Betriebsrente des Klägers zum Anpassungsstichtag 1. April 2007 und die Entscheidung der GBG, die Betriebsrente des Klägers zum 1. April 2010 nicht gemäß § 16 Abs. 1 und Abs. 2 BetrAVG an den Kaufkraftverlust anzupassen, rechtlicher Überprüfung standhalten.
+39
+1. Das Landesarbeitsgericht hat nicht ausgehend von den handelsrechtlichen Jahresabschlüssen der GISA und der GBG für die repräsentativen Zeiträume vor den jeweiligen Anpassungsstichtagen geprüft, ob deren wirtschaftliche Lage zum 1. April 2007 und zum 1. April 2010 einer Anpassung der Betriebsrente des Klägers an den Kaufkraftverlust entgegenstand; es hat hierzu auch keine Feststellungen getroffen. Diese Prüfung wird das Landesarbeitsgericht unter Berücksichtigung der vom Senat hierzu entwickelten Grundsätze 
+(vgl. etwa BAG 10. Februar 2015 – 3 AZR 37/14 -; 11. November 2014 – 3 AZR 116/13 – BAGE 149, 379; 21. Oktober 2014 – 3 AZR 1027/12 -; 20. August 2013 – 3 AZR 750/11 -; 15. Januar 2013 – 3 AZR 638/10 – BAGE 144, 180; 11. Dezember 2012 – 3 AZR 615/10 -; 21. August 2012 – 3 ABR 20/10 -; 30. November 2010 – 3 AZR 754/08 -; 26. Oktober 2010 – 3 AZR 502/08 -; 29. September 2010 – 3 AZR 427/08 – BAGE 135, 344)
+ nachzuholen haben.
+40
+Dabei wird es zudem zu beachten haben, dass es in den Fällen, in denen der Versorgungsschuldner aus einer Verschmelzung zweier Unternehmen entstanden ist, die in dem für die Prognose maßgeblichen repräsentativen Zeitraum stattgefunden hat, auch auf die wirtschaftliche Entwicklung der beiden ursprünglich selbstständigen Unternehmen bis zur Verschmelzung ankommt 
+(vgl. BAG 20. August 2013 – 3 AZR 750/11 – 
+Rn. 39
+; 31. Juli 2007 – 3 AZR 810/05 – Rn. 23, BAGE 123, 319)
+. Die Verschmelzung ist bei der Prognose zu berücksichtigen. Maßgeblich ist, ob aufgrund der wirtschaftlichen Entwicklung der beiden ursprünglich selbstständigen Unternehmen am Anpassungsstichtag damit zu rechnen war, dass der Versorgungsschuldner zu der Anpassung in der Lage sein würde 
+(BAG 31. Juli 2007 – 3 AZR 810/05 – Rn. 24, aaO)
+. Diese Grundsätze gelten nicht nur bei einer Verschmelzung eines wirtschaftlich gesunden Unternehmens auf ein wirtschaftlich schwaches Unternehmen, sondern auch dann, wenn ein wirtschaftlich schwaches Unternehmen auf ein wirtschaftlich starkes Unternehmen verschmolzen wird 
+(vgl. BAG 28. Mai 2013 – 3 AZR 125/11 – Rn. 54)
+.
+41
+Des Weiteren wird das Landesarbeitsgericht zu berücksichtigen haben, dass für die Ermittlung der angemessenen Eigenkapitalverzinsung – entgegen der Auffassung der Beklagten – zwar die Betriebssteuern (sonstige Steuern) beim erzielten Betriebsergebnis zu berücksichtigen sind, nicht jedoch die Steuern vom Einkommen und vom Ertrag 
+(st. Rspr., statt vieler BAG 11. November 2014 – 3 AZR 116/13 – Rn. 36, BAGE 149, 379; 21. August 2012 – 3 ABR 20/10 – Rn. 44 mwN)
+. Darüber hinaus ist für die Bestimmung der angemessenen Eigenkapitalverzinsung als Basiszinssatz die aktuelle Umlaufrendite öffentlicher Anleihen heranzuziehen 
+(BAG 11. November 2014 – 3 AZR 116/13 – Rn. 37 ff. mwN, aaO)
+. Sollte es sich bei der Beklagten zum Anpassungsstichtag 1. April 2010 nicht um eine Rentner- oder Abwicklungsgesellschaft gehandelt haben, wäre darüber hinaus ein Risikozuschlag von 2 vH vorzunehmen 
+(vgl. BAG 11. November 2014 – 3 AZR 116/13 – Rn. 37 ff. mwN, aaO)
+.
+42
+2. Ergäbe sich, dass die wirtschaftliche Lage der GISA bzw. der GBG einer Anpassung der Betriebsrente des Klägers zu den Anpassungsstichtagen 1. April 2007 und/oder 1. April 2010 entgegenstand, wird das Landesarbeitsgericht auch zu prüfen haben, ob die GISA sich bezüglich des Anpassungsstichtags 1. April 2007 die günstige wirtschaftliche Lage der W, der GBG und/oder der T AG und die GBG sich bezogen auf den Anpassungsstichtag 1. April 2010 die günstige wirtschaftliche Lage der W und/oder der T AG im Wege des Berechnungsdurchgriffs zurechnen lassen mussten.
+43
+a) Bei einer Prüfung, ob die Voraussetzungen für einen Berechnungsdurchgriff auf die wirtschaftliche Lage der W, der GBG und/oder der T AG vorliegen, wird das Landesarbeitsgericht zu beachten haben, dass die Zurechnung der günstigen wirtschaftlichen Lage eines oder mehrerer dieser Unternehmen nicht zur Folge haben darf, dass der Versorgungsschuldner die Anpassungen letztlich aus seiner Substanz leisten muss. Da ein Berechnungsdurchgriff dazu führt, dass ein Unternehmen, das selbst wirtschaftlich nicht zur Anpassung der Betriebsrenten in der Lage ist, gleichwohl eine Anpassung des Ruhegelds vornehmen muss, wenn die wirtschaftliche Lage des anderen Konzernunternehmens dies zulässt, setzt der Berechnungsdurchgriff grundsätzlich einen Gleichlauf von Zurechnung und Innenhaftung im Sinne einer Einstandspflicht/Haftung des anderen Konzernunternehmens gegenüber dem Versorgungsschuldner voraus. Wird der Versorgungsschuldner auf Betriebsrentenanpassung in Anspruch genommen, weil ihm die günstige wirtschaftliche Lage eines anderen Konzernunternehmens oder der Konzernobergesellschaft zugerechnet wird, muss er grundsätzlich die Möglichkeit haben, diese höhere Belastung an das andere Unternehmen weiterzugeben, sich also bei diesem zu refinanzieren 
+(vgl. BAG 29. September 2010 – 3 AZR 427/08 – Rn. 32, BAGE 135, 344)
+. Dadurch wird sichergestellt, dass die Betriebsrentenanpassungen nicht – entgegen § 16 Abs. 1 und Abs. 2 BetrAVG – aus der Vermögenssubstanz erbracht werden müssen. Der Berechnungsdurchgriff ändert nichts an der Schuldnerstellung. Schuldner der Anpassungsprüfung und -entscheidung nach § 16 Abs. 1 und Abs. 2 BetrAVG bleibt auch beim Berechnungsdurchgriff der Versorgungsschuldner 
+(vgl. BAG 17. Juni 2014 – 3 AZR 298/13 – Rn. 67, BAGE 148, 244)
+.
+44
+b) Das Landesarbeitsgericht wird bei Bestehen eines Beherrschungsvertrags zudem die vom Senat hierzu entwickelten Grundsätze zum Berechnungsdurchgriff zu berücksichtigen haben. Dabei wird es zu beachten haben, dass der Senat seine Rechtsprechung aus den Urteilen vom 26. Mai 2009 
+(- 3 AZR 369/07 – Rn. 31, BAGE 131, 50) 
+und vom 17. Juni 2014 
+(- 3 AZR 298/13 – Rn. 80, BAGE 148, 244)
+, wonach das Bestehen eines Beherrschungsvertrags ohne Weiteres einen Berechnungsdurchgriff auf die günstige wirtschaftliche Lage des herrschenden Unternehmens rechtfertigte, aufgegeben hat und nunmehr verlangt, dass sich die durch den Beherrschungsvertrag begründete Gefahrenlage für den Versorgungsberechtigten verwirklicht hat 
+(vgl. ausführlich BAG 10. März 2015 – 3 AZR 739/13 – Rn. 28 ff.)
+. Ob dies der Fall ist, wird das Landesarbeitsgericht – vorausgesetzt der Sachvortrag der Parteien gibt hierzu Anlass – anhand der vom Senat aufgestellten Kriterien zu prüfen haben.
+45
+Zudem wird das Landesarbeitsgericht als weitere Voraussetzung für einen auf einen Beherrschungsvertrag gestützten Berechnungsdurchgriff zu beachten haben, dass der Beherrschungsvertrag zwischen dem Versorgungsschuldner und dem herrschenden Unternehmen zum maßgeblichen Anpassungsstichtag bestanden haben muss und die Prognose gerechtfertigt war, dass er bis zum folgenden Anpassungsstichtag weiterhin Bestand haben würde. Zwar bedarf es beim Beherrschungsvertrag ausnahmsweise keines vollständigen Gleichlaufs von Zurechnung und Innenhaftung; vielmehr reicht es hier aus, dass das herrschende Unternehmen in unmittelbarer oder entsprechender Anwendung von § 302 AktG zum Ausgleich der Verluste des beherrschten Unternehmens verpflichtet ist 
+(BAG 10. März 2015 – 3 AZR 739/13 – Rn. 34)
+. Diese Verlustausgleichspflicht muss jedoch bei prognostischer Betrachtung bis zum nächsten Anpassungsstichtag gewährleistet sein. Andernfalls käme es zu einem Eingriff in die Substanz der beherrschten Gesellschaft, die § 16 BetrAVG gerade vermeiden will.
+46
+c) Das Landesarbeitsgericht wird bei der ggf. vorzunehmenden Prüfung der Voraussetzungen für einen Berechnungsdurchgriff außerdem zu beachten haben, dass ein Berechnungsdurchgriff nach den Grundsätzen, die der Bundesgerichtshof zur Haftung des herrschenden Unternehmens für Verbindlichkeiten des beherrschten Unternehmens im qualifiziert faktischen Konzern aufgestellt hatte, nicht mehr in Betracht kommt 
+(vgl. BAG 15. Januar 2013 – 3 AZR 638/10 – Rn. 35 ff., BAGE 144, 180)
+. Es wird zudem zu berücksichtigen haben, dass ein Berechnungsdurchgriff auch nicht auf die neue Rechtsprechung des Bundesgerichtshofs zum existenzvernichtenden Eingriff nach § 826 BGB 
+(BGH 9. Februar 2009 – II ZR 292/07 – [Sanitary] BGHZ 179, 344; 16. Juli 2007 – II ZR 3/04 – [TRIHOTEL] BGHZ 173, 246)
+ gestützt werden kann. Eine Haftung wegen existenzvernichtenden Eingriffs erfordert nicht nur ungerechtfertigte und kompensationslose Eingriffe in das der Zweckbindung zur vorrangigen Befriedigung der Gesellschaftsgläubiger dienende Gesellschaftsvermögen, sondern setzt auch die dadurch hervorgerufene Insolvenz der Gesellschaft bzw. deren Vertiefung voraus 
+(vgl. etwa BAG 17. Juni 2014 – 3 AZR 298/13 – Rn. 72, BAGE 148, 244)
+. Entgegen der Auffassung des Klägers genügt es für eine solche Haftung nach § 826 BGB nicht, dass die Wettbewerbsfähigkeit der Versorgungsschuldnerin verloren geht. Da der Anspruch wegen existenzvernichtendem Eingriff nach § 826 BGB eine Insolvenz des Versorgungsschuldners voraussetzt und in diesem Fall eine Anpassung weder durch diesen noch durch den ggf. einstandspflichtigen Pensionssicherungsverein in Betracht kommt, scheidet ein solcher als Grundlage für einen Berechnungsdurchgriff im Rahmen von § 16 BetrAVG generell aus.
+47
+d) Sofern die Entscheidung des Rechtsstreits davon abhängen sollte, ob die 1976er Vereinbarung eine geeignete Grundlage für einen Berechnungsdurchgriff bildet, wird das Landesarbeitsgericht zu beachten haben, dass ein Berechnungsdurchgriff auf die wirtschaftliche Lage der W oder der GBG bezogen auf den Anpassungsstichtag 1. April 2007 und auf die wirtschaftliche Lage der W bezogen auf den 1. April 2010 nicht ohne Weiteres mit der Begründung bejaht werden kann, diese Gesellschaften seien auf der Grundlage der 1976er Vereinbarung den Pensionsverpflichtungen der GISA bzw. der GBG beigetreten.
+48
+aa) Ein Schuldbeitritt der W und der GBG führt nicht ohne Weiteres zur Einbeziehung der wirtschaftlichen Lage der beitretenden Gesellschaft im Rahmen der Anpassungsprüfung nach § 16 Abs. 1 und Abs. 2 BetrAVG im Wege eines Berechnungsdurchgriffs.
+49
+(1) Beim Schuldbeitritt (Schuldmitübernahme) tritt der Mitübernehmer zusätzlich neben dem bisherigen Schuldner in das Schuldverhältnis ein. Beide haften im Außenverhältnis als Gesamtschuldner iSd. §§ 421 ff. BGB 
+(vgl. Palandt/Grüneberg 74. Aufl. Überbl. v. § 414 Rn. 2)
+. Der Gläubiger kann die Leistung nach seinem Belieben von jedem der Gesamtschuldner, aber insgesamt nur einmal fordern 
+(BFH 26. April 2012 – IV R 43/09 – Rn. 15, BFHE 237, 215)
+. Der Schuldbeitritt kann sich inhaltlich auf jede hinreichend bestimmte Verpflichtung richten, auch wenn sie künftig oder bedingt ist 
+(Bamberger/Roth/Rohe BGB 3. Aufl. Bd. 1 §§ 414, 415 Rn. 31)
+. Da der Schuldner und der Mitübernehmer im Außenverhältnis als Gesamtschuldner haften, ist die Verpflichtung des Beitretenden in Entstehung und Beschaffenheit von derjenigen des Schuldners abhängig 
+(BGH 7. November 1995 – XI ZR 235/94 – zu 2 b bb der Gründe; Bamberger/Roth/Rohe aaO Rn. 33)
+.
+50
+(2) Danach hätte ein Schuldbeitritt der W oder der GBG zu den Versorgungsverpflichtungen der GISA bzw. der GBG zwar dazu geführt, dass diese Gesellschaften nicht nur die Verpflichtung der GISA bzw. der GBG zur Zahlung der laufenden Betriebsrenten, sondern auch deren Anpassungsprüfungs- und -entscheidungspflicht nach § 16 Abs. 1 und Abs. 2 BetrAVG mitübernommen hätten. Allerdings wären diese Gesellschaften aufgrund des Beitritts zur Anpassungsprüfungs- und -entscheidungspflicht nur verpflichtet gewesen, die Betriebsrentenanpassungen vorzunehmen, die aufgrund der wirtschaftlichen Lage der GISA bezogen auf den Anpassungsstichtag 1. April 2007 und der GBG bezogen auf den Anpassungsstichtag 1. April 2010 geschuldet waren. Da die Verpflichtung des Beitretenden in ihrer Beschaffenheit von derjenigen des Schuldners abhängig ist, hätte der Schuldbeitritt mithin daran, dass es nach § 16 Abs. 1 BetrAVG auf die wirtschaftliche Lage der originären Versorgungsschuldnerin GISA für den Anpassungsstichtag 1. April 2007 und der GBG für den Anpassungsstichtag 1. April 2010 ankommt, nichts geändert.
+51
+bb) Ein Berechnungsdurchgriff auf die wirtschaftliche Lage der W oder der GBG bezogen auf den Anpassungsstichtag 1. April 2007 oder der W bezogen auf den Anpassungsstichtag 1. April 2010 aufgrund eines atypischen Schuldbeitritts käme dann in Betracht, wenn sich der 1976er Vereinbarung entnehmen ließe, hinter dem Versorgungsversprechen der GISA stehe der gesamte Konzern oder jedenfalls die jeweilige Konzernobergesellschaft mit der Folge, dass die Betriebsrenten der Versorgungsempfänger nach § 16 BetrAVG bereits dann anzupassen wären, wenn nur die wirtschaftliche Lage der Konzernobergesellschaft eine Anpassung zuließe. Hierzu wird das Landesarbeitsgericht, soweit der Sachvortrag der Parteien hierfür ausreichende Anhaltspunkte bietet, ggf. die 1976er Vereinbarung auszulegen und eine Anordnung der Vorlegung nach § 142 ZPO zu erwägen haben.
+52
+Das Landesarbeitsgericht wird dabei jedoch zu berücksichtigen haben, dass ein Berechnungsdurchgriff aufgrund eines atypischen Schuldbeitritts einen Gleichlauf von Zurechnung und Innenhaftung im Sinne einer Einstandspflicht/Haftung des anderen Konzernunternehmens gegenüber dem Versorgungsschuldner voraussetzt. Wird der Versorgungsschuldner auf Betriebsrentenanpassung in Anspruch genommen, weil ihm die günstige wirtschaftliche Lage eines anderen Konzernunternehmens oder der Konzernobergesellschaft zugerechnet wird, muss er grundsätzlich die Möglichkeit haben, diese höhere Belastung an das andere Unternehmen weiterzugeben, sich also bei diesem zu refinanzieren 
+(vgl. BAG 29. September 2010 – 3 AZR 427/08 – Rn. 32, BAGE 135, 344)
+. Fehlt es an einer Grundlage dafür, scheidet ein Berechnungsdurchgriff aus.
+53
+Nach den bisherigen Feststellungen des Landesarbeitsgerichts führt die 1976er Vereinbarung jedoch letztlich dazu, dass die GISA und die GBG der jeweiligen, die Betriebsrenten zahlenden Konzernobergesellschaft, die Aufwendungen hierfür zu erstatten haben. Dies spricht gegen einen Gleichlauf von Zurechnung und Innenhaftung und würde ggf. dazu führen, dass eine Anpassung in die wirtschaftliche Substanz der originären Versorgungsschuldnerinnen eingreifen würde.
+54
+e) Das Landesarbeitsgericht wird weiter zu beachten haben, dass ein Berechnungsdurchgriff auf die wirtschaftliche Lage der T AG aufgrund einer von dieser gegenüber der W abgegebenen selbstschuldnerischen Bürgschaft ausscheidet. Eine Bürgschaft kommt als Grundlage für einen Berechnungsdurchgriff nicht in Betracht.
+55
+Durch die Bürgschaft verpflichtet sich der Bürge gegenüber dem Gläubiger eines Dritten (Hauptschuldner), mit seinem gesamten Vermögen für die Erfüllung der Verbindlichkeit eines Dritten (Hauptschuld) einzustehen, § 765 Abs. 1 BGB. Es handelt sich um eine von der Hauptschuld verschiedene, einseitig übernommene eigene Leistungspflicht des Bürgen 
+(BGH 9. Juli 1998 – IX ZR 272/96 – zu II 2 a der Gründe, BGHZ 139, 214)
+. Der Bürge erfüllt eine eigene Schuld, wodurch die Hauptforderung auf ihn übergeht 
+(§ 774 Abs. 1 BGB)
+. Bürge und Hauptschuldner sind keine Gesamtschuldner 
+(Palandt/Sprau BGB 74. Aufl. Einf. v. § 765 Rn. 1)
+. Allerdings ist die Bürgschaft akzessorisch, dh. sie ist eine von Entstehung und Erlöschen, Umfang 
+(§ 767 Abs. 1 BGB)
+, Zuordnung und Durchsetzbarkeit 
+(§§ 768, 770 BGB)
+ von der Hauptschuld dauernd abhängige Hilfsschuld 
+(BGH 9. Juli 1998 – IX ZR 272/96 – zu II 2 a der Gründe, aaO)
+. Der Gläubiger soll vom Bürgen nicht mehr verlangen können, als er vom Hauptschuldner bekommen kann 
+(BGH 8. Dezember 2009 – XI ZR 181/08 – Rn. 58)
+.
+56
+f) Sollte die wirtschaftliche Lage der W, der GBG oder der T AG danach in die Beurteilung einzubeziehen sein, wird das Landesarbeitsgericht nach den für originäre Versorgungsschuldner entwickelten Grundsätzen 
+(vgl. oben Rn. 39) 
+zu prüfen haben, ob die wirtschaftliche Lage dieser Gesellschaften eine Anpassung der Betriebsrente des Klägers an den Kaufkraftverlust zuließen.
+57
+3. Weiter wird das Landesarbeitsgericht davon auszugehen haben, dass nach dem bisherigen Vorbringen der Parteien eine Berücksichtigung der wirtschaftlichen Lage anderer Gesellschaften unter dem Gesichtspunkt einer Rechtsscheinhaftung nicht in Betracht kommt.
+58
+a) Nach der Rechtsprechung des Senats kann es im Rahmen der Anpassungsprüfung nach § 16 Abs. 1 und Abs. 2 BetrAVG auf die wirtschaftliche Lage eines anderen Unternehmens als des Versorgungsschuldners ankommen, wenn der Versorgungsschuldner Erklärungen abgegeben hat, die ein schützenswertes Vertrauen des Versorgungsempfängers darauf begründen, auch das andere Unternehmen werde sicherstellen, dass die Versorgungsverbindlichkeiten durch den Versorgungsschuldner ebenso erfüllt werden wie Versorgungsansprüche von Betriebsrentnern des anderen Unternehmens. In einem solchen Fall muss die Betriebsrente auch bei einer ungünstigen wirtschaftlichen Lage des Versorgungsschuldners an den Kaufkraftverlust angepasst werden, wenn die wirtschaftliche Lage des anderen Unternehmens eine Anpassung gestattet 
+(vgl. etwa BAG 15. Januar 2013 – 3 AZR 638/10 – Rn. 39 mwN, BAGE 144, 180)
+. Gleiches gilt, wenn sonstige Verhaltensweisen ein dahingehendes Vertrauen begründen.
+59
+Soweit die Rechtsprechung des Senats 
+(BAG 17. Juni 2014 – 3 AZR 298/13 – Rn. 77, BAGE 148, 244; 15. Januar 2013 – 3 AZR 638/10 – Rn. 39, BAGE 144, 180; 29. September 2010 – 3 AZR 427/08 – Rn. 47 mwN, BAGE 135, 344; 17. April 1996 – 3 AZR 56/95 – zu I 2 b aa der Gründe, BAGE 83, 1; 4. Oktober 1994 – 3 AZR 910/03 – zu B II 2 der Gründe, BAGE 78, 87)
+ dahin zu verstehen ist, dass derartige, einen Vertrauensschutz begründende Erklärungen durch andere Konzerngesellschaften abgegeben worden sein können oder aus Verhaltensweisen anderer Konzerngesellschaften abgeleitet werden können, hält der Senat hieran nicht fest. Bei der unter dem Gesichtspunkt des Vertrauensschutzes entwickelten Rechtsprechung des Senats handelt es sich um eine Haftung für einen gesetzten Rechtsschein. Eine solche Haftung kann nur denjenigen treffen, der den Rechtsschein in zurechenbarer Art und Weise gesetzt hat. Entscheidend ist deshalb ausschließlich, ob der erforderliche Vertrauenstatbestand durch Erklärungen oder Verhaltensweisen begründet wurde, die dem originären Versorgungsschuldner zugerechnet werden können. Ein Ausgleichsanspruch gegen eine andere Gesellschaft ist für die Berücksichtigung der wirtschaftlichen Lage einer anderen Gesellschaft unter dem Gesichtspunkt der Rechtsscheinhaftung nicht erforderlich.
+60
+b) Danach kommt auf der Grundlage des bisherigen Vorbringens des Klägers eine Rechtsscheinhaftung nicht in Betracht.
+61
+aa) Soweit sich frühere Arbeitgeber des Klägers zur Haftung für Versorgungsverbindlichkeiten geäußert haben, wurde damit beim Kläger kein über einen Schuldbeitritt hinausgehendes Vertrauen begründet. Wie oben 
+(Rn. 50)
+ bereits dargelegt, rechtfertigt ein Schuldbeitritt für sich genommen keinen Berechnungsdurchgriff auf die wirtschaftliche Lage eines anderen Unternehmens. Auch die mit Schreiben der G Versorgungskasse vom 2. Juli 1999 zugleich für die unmittelbare Versorgungsschuldnerin angebotene Verbesserung des Versorgungsversprechens des Klägers hat keinen dahingehenden Rechtsschein gesetzt. Das Schreiben betraf ausschließlich den Inhalt der Versorgungszusage, nicht jedoch die Anpassungsprüfungs- und -entscheidungspflicht nach § 16 BetrAVG.
+62
+bb) Auch das Schreiben vom 30. November 2004, mit dem unter Hinweis auf die wirtschaftliche Lage der GKB eine Anpassung der Betriebsrente zum 1. April 2004 abgelehnt wurde, hat keinen Vertrauenstatbestand zugunsten des Klägers begründet. Die Ablehnung erfolgte zwar durch die G Versorgungskasse, die von der unmittelbaren Versorgungsschuldnerin mit der Durchführung der betrieblichen Altersversorgung beauftragt war; diese Erklärung ist der originären Versorgungsschuldnerin GISA daher zuzurechnen. Aus der Erklärung lässt sich jedoch nicht entnehmen, dass die Versorgungsschuldnerin Verpflichtungen übernehmen wollte, die über die Verpflichtungen aus § 16 BetrAVG hinausgehen.
+63
+cc) Das Schreiben vom 16. Mai 2006 scheidet als Grundlage für einen bezogen auf den 1. April 2007 zu prüfenden Vertrauenstatbestand bereits deshalb aus, weil die zu diesem Zeitpunkt zur Anpassungsprüfung und -entscheidung nach § 16 Abs. 1 und Abs. 2 BetrAVG verpflichtete originäre Versorgungsschuldnerin GISA nicht die Urheberin dieses Schreibens ist und es ihr auch nicht zugerechnet werden kann.
+64
+4. Schließlich wird das Landesarbeitsgericht zu prüfen haben, ob ein auf Anpassung der Betriebsrente an den Kaufkraftverlust gerichteter Schadensersatzanspruch aus § 826 BGB gegen die originäre Versorgungsschuldnerin besteht.
+65
+a) Nach § 826 BGB ist derjenige, der in einer gegen die guten Sitten verstoßenden Weise einem anderen vorsätzlich Schaden zufügt, dem anderen zum Ersatz des Schadens verpflichtet.
+66
+aa) In objektiver Hinsicht muss das Verhalten nach seinem Gesamtcharakter gegen das Anstandsgefühl aller billig und gerecht Denkenden verstoßen. Der Gesamtcharakter ist durch umfassende Würdigung von Inhalt, Beweggrund und Zweck zu ermitteln. Dafür genügt es im Allgemeinen nicht, dass eine Handlung gegen vertragliche Pflichten oder das Gesetz verstößt oder bei einem anderen einen Vermögensschaden hervorruft. Es muss vielmehr eine besondere Verwerflichkeit hinzutreten, die sich aus dem verfolgten Ziel, den eingesetzten Mitteln, der zutage getretenen Gesinnung oder den eingetretenen Folgen ergeben kann 
+(vgl. BGH 19. November 2013 – VI ZR 410/12 – Rn. 9 mwN)
+. Nach seinem Zweck stellt § 826 BGB als deliktsrechtliche Generalklausel einen Auffangtatbestand für von anderen Tatbeständen der unerlaubten Handlung nicht erfasste Schutzlücken dar.
+67
+Im Bereich der Anpassungsprüfungspflicht nach § 16 BetrAVG können solche Schutzlücken dadurch entstehen, dass diese Norm hinsichtlich der Anpassungsprüfung nach § 16 BetrAVG und der sich daraus möglicherweise ergebenden Anpassungsverpflichtung an die wirtschaftliche Lage des unmittelbaren Versorgungsschuldners anknüpft. Der Gesetzgeber setzt dabei voraus, dass dieser seine wirtschaftlichen Entscheidungen im Eigeninteresse trifft, mithin eine möglichst günstige wirtschaftliche Entwicklung für sich anstrebt 
+(vgl. BAG 10. März 2015 – 3 AZR 739/13 – Rn. 29)
+. Da der Versorgungsempfänger keinen Einfluss auf die Unternehmenspolitik hat, ist er in den Fällen, in denen sich diese Erwartung des Gesetzgebers nicht erfüllt, sondern der Arbeitgeber als unmittelbarer Versorgungsschuldner seine Entscheidungen an anderen Kriterien ausrichtet, den dadurch hervorgerufenen Folgen ausgesetzt. Führen diese Entscheidungen dazu, dass die wirtschaftliche Lage einer Anpassung der Betriebsrente entgegensteht, kann dies zur Folge haben, dass die Betriebsrente, für die der Betriebsrentner seine Gegenleistung bereits erbracht hat, ausgezehrt wird und damit an Wert verliert.
+68
+bb) In subjektiver Hinsicht verlangt § 826 BGB Vorsatz. Das erfordert keine Schädigungsabsicht im Sinne eines Beweggrundes oder Zieles. Vielmehr genügt bedingter Vorsatz hinsichtlich der für möglich gehaltenen Schadensfolgen. Zudem muss der – bedingte – Vorsatz auch nicht den konkreten Kausalverlauf sowie den genauen Umfang des Schadens umfassen. Es reicht vielmehr, wenn er sich auf Art und Richtung des Schadens erstreckt 
+(vgl. BGH 19. November 2013 – VI ZR 410/12 – Rn. 33 mwN)
+.
+69
+cc) Rechtsfolge eines Schadensersatzanspruchs nach § 826 BGB ist die Wiederherstellung des Zustands, der ohne die sittenwidrige Schädigung entstanden wäre 
+(§ 249 Abs. 1 BGB)
+. Dazu gehört auch der entgangene Gewinn 
+(§ 252 Satz 1 BGB)
+, der nach dem gewöhnlichen Verlauf der Dinge oder nach den besonderen Umständen mit Wahrscheinlichkeit erwartet werden konnte 
+(§ 252 Satz 2 BGB)
+. Bei einer wegen der schlechten wirtschaftlichen Lage des Versorgungsschuldners nach § 16 BetrAVG unterbleibenden Betriebsrentenanpassung kommt es daher darauf an, ob die Anpassung ohne die sittenwidrige vorsätzliche Schädigung wahrscheinlich geschuldet worden wäre. Diese Anpassung ist dann vorzunehmen. Einem Schadensersatzanspruch nach § 826 BGB gegen die originäre Versorgungsschuldnerin steht daher nicht entgegen, dass die Schadensersatzpflicht ggf. die Vermögenssubstanz der Versorgungsschuldnerin beeinträchtigt.
+70
+b) Das Landesarbeitsgericht wird bei seiner Prüfung folgende Gesichtspunkte zu beachten haben:
+71
+aa) Die bloße Stilllegung eines Betriebs kann von vornherein keinen Schadensersatzanspruch nach § 826 BGB auslösen. Das Recht des Unternehmers seinen Betrieb einzustellen ist von der Rechtsordnung geschützt 
+(vgl. BAG 26. September 2002 – 2 AZR 636/01 – zu II 1 b der Gründe, BAGE 103, 31)
+.
+72
+bb) Auch ein Betriebsübergang als solcher rechtfertigt grundsätzlich keinen Schadensersatzanspruch nach § 826 BGB, da die Rechtsordnung die Veräußerung von Betrieben und Betriebsteilen ausdrücklich zulässt. Folglich kann sich allein aus dem Umstand, dass ein Betriebsübergang stattgefunden hat, der zur Folge hat, dass der Versorgungsschuldner zu einer Rentnergesellschaft wird, kein Ersatzanspruch ergeben.
+73
+cc) In Betracht kann ein gegen den originären Versorgungsschuldner gerichteter Schadensersatzanspruch hingegen kommen, wenn der Versorgungsschuldner sein operatives Geschäft innerhalb des Konzerns überträgt. Arbeitnehmer und Betriebsrentner eines konzernangehörigen Unternehmens sind besonderen Gefahren ausgesetzt. Ein wirtschaftlich vernünftig handelnder Arbeitgeber bemüht sich im Eigeninteresse darum, die Liquidität seines Unternehmens zu erhalten und den Gewinn zu steigern. Diese Annahme ist jedoch bei einem konzernangehörigen Unternehmen nicht ohne Weiteres gerechtfertigt. Es kann deshalb ein Schadensersatzanspruch nach § 826 BGB in Betracht kommen, wenn die bislang vom Versorgungsschuldner ausgeübten wirtschaftlichen Aktivitäten im Konzern weitergeführt werden und dadurch ein Auseinanderfallen der wirtschaftlichen Aktivitäten einerseits und der Versorgungsverbindlichkeiten andererseits herbeigeführt wird. Dabei wird auch zu berücksichtigen sein, ob dem Versorgungsschuldner für den veräußerten Geschäftsbetrieb eine (marktgerechte) Gegenleistung zugeflossen ist. Des Weiteren wird auch zu beachten sein, aus welchem Anlass die Veräußerung des Betriebs oder Betriebsteils erfolgte. Im Hinblick auf den bislang fehlenden Sachvortrag der Parteien zu diesem neuen rechtlichen Gesichtspunkt, sieht der Senat insoweit von weiteren Hinweisen hierzu ab.
+74
+C. Die Anschlussrevision des Klägers ist unbegründet. Dem Kläger stünden Zinsen auf rückständige Anpassungsforderungen selbst im Falle eines Obsiegens mit den Anträgen zu 1. und 2. nicht bereits seit dem jeweiligen Ersten des jeweiligen Folgemonats, sondern erst ab dem Folgetag des Tages zu, an dem das Urteil hinsichtlich der rückständigen Anpassungsbeträge rechtskräftig würde. Dabei kommt es nicht darauf an, ob der Kläger unter dem Gesichtspunkt des Schadensersatzes obsiegte oder einen Erfüllungsanspruch aus § 16 Abs. 1 und Abs. 2 BetrAVG hätte. Er kann auch im Wege des Schadensersatzes nicht mehr erreichen als ihm zustünde, wenn seine Betriebsrente gemäß § 16 Abs. 1 und Abs. 2 BetrAVG an den Kaufkraftverlust anzupassen wäre (normativer Schaden). Für einen solchen Fall entspricht es ständiger Rechtsprechung des Senats, dass es für Zeiträume vor der Rechtskraft der gerichtlichen Entscheidung an der für den Zinsanspruch notwendigen Fälligkeit der Forderungen fehlt 
+(vgl. etwa BAG 10. Dezember 2013 – 3 AZR 595/12 – Rn. 8 ff.)
+.
+75
+D. Das Landesarbeitsgericht wird im Rahmen der neuen Entscheidung auch über die Kosten des Revisionsverfahrens zu befinden haben.
+    Zwanziger    
+    Spinner    
+    Ahrendt    
+    Kaiser    
+    Wischnath    
+Seite drucken
+Das Bundesarbeitsgericht
+                  Aktuelles und Veranstaltungen                
+                  Das Bundesarbeitsgericht                
+                  Entscheidungen                
+                  Ihr Besuch bei uns                
+                  Presse                
+                  Service                
+DE
+EN
+Cookie-Einstellungen
+                RSS Feeds                 
+Impressum
+Datenschutz
+Barrierefreiheit
+Inhalte
+© 2026 Das Bundesarbeitsgericht      
+Informationen
+Die mündlichen Verhandlungen vor dem Bundesarbeitsgericht sind öffentlich. Eine Teilnahme ist ohne Anmeldung möglich.
+Bei Besuchen von Gruppen ist eine rechtzeitige Anmeldung mit dem nachfolgenden Formular erforderlich. Die mündlichen Verhandlungen finden in der Regel von Dienstag bis Donnerstag, jeweils mit Beginn am Vormittag statt. Die Termine zu den Verhandlungen finden Sie 
+hier
+.
+Einzelpersonen können ohne vorherige Anmeldung an mündlichen Verhandlungen im Bundesarbeitsgericht teilnehmen. Auch hier empfehlen wir jedoch eine schriftliche Anmeldung.
+Ist zu einer Sitzung eine größere Anzahl von Zuhörern oder Vertretern der Medien zu erwarten, werden Platzkarten ausgegeben. Das jeweilige Verfahren wird im Einzelfall geregelt. Bitte haben Sie Verständnis dafür, dass aufgrund der organisatorischen Gegebenheiten und der großen Nachfrage nicht alle Anfragen positiv beantwortet werden können.
+Hinweise für Besucherinnen und Besucher:
+Für den Zutritt zum Gebäude des Bundesarbeitsgerichts muss sich jeder Besucher ggf. mit einem gültigen Personalausweis oder Reisepass ausweisen können. Größere Gepäckstücke (Koffer/Rucksäcke) dürfen nicht in die Sitzungssäle mitgenommen werden. In Einzelfällen können Sicherheitskontrollen durchgeführt werden, die zu Wartezeiten führen können. Wird die Durchführung von Sicherheitskontrollen (Taschenkontrolle, Einsatz von Personenscanner und/oder Taschenscanner) durch Besucher verweigert, wird der Person/den Personen der Zugang zum Gebäude nicht gestattet. 
+Besucherinnen und Besucher sind Ton-, Bild- und Filmaufnahmen während der Verhandlung untersagt. In den Sitzungssälen sind Mobil-Telefone auszuschalten.
+Für den Sitzungsbesuch am Bundesarbeitsgericht gibt es zwar keine gesonderte Kleiderordnung, aus Respekt vor der Rechtsprechung und angesichts der Bedeutung, die diese für die Betroffenen hat, ist es jedoch angemessen, eine offizielle und dem Anlass entsprechende Kleidung zu tragen. Dies beinhaltet auch, dass Sitzungen in den Sommermonaten nicht in kurzen Hosen, Miniröcken und Flip-Flops etc. aufgesucht werden.
+Essen und Trinken sind in den Sitzungssälen nicht gestattet. Das gesamte Gebäude des Bundesarbeitsgerichts einschließlich des Innenhofes ist rauchfrei.
+Bitte füllen Sie nun das nachfolgende Formular für Ihren geplanten Sitzungsbesuch aus.
+Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.
+Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer 
+Datenschutzerklärung
+.
+Felder, die mit 
+*
+ gekennzeichnet sind, sind Pflichtfelder.
+Ihre Kontaktdaten
+Vorname
+Nachname
+E-Mail-Adresse
+Telefonnummer
+Organisation
+Anzahl der Teilnehmer (max. 30)
+Betreff
+Sitzungsinformationen
+Senat
+– Bitte auswählen –
+9. Senat
+8. Senat
+7. Senat
+6. Senat
+5. Senat
+4. Senat
+3. Senat
+2. Senat
+10. Senat
+1. Senat
+Tag des Besuchs
+Aktenzeichen
+Weitere Kommentare
+450
+Zeichen übrig
+Please leave this field empty.
+Ja, ich habe die 
+Datenschutzerklärung
+ zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.
+ *
+Informationen
+Mit dem nachfolgenden Formular bitten wir Medienvertreter, sich für einen Sitzungstermin beim Bundesarbeitsgericht anzumelden.
+Fotos- und Filmaufnahmen im Sitzungssaal sind nur durch Medienvertreter und in der Regel nur vor Einzug des Senats gestattet. Eine gesonderte Akkreditierung ist hierfür nicht erforderlich. Wir bitten bei Interesse dennoch um einen Hinweis mit folgendem Formular.
+Ist die Aufnahme der Verkündung einer Entscheidung in Bild und Ton zugelassen (§ 169 Abs. 3 Satz 1 GVG iVm. § 72 Abs. 6 ArbGG) wird dies unter 
+Sitzungstage
+ gesondert bekannt gegeben. Mit der Veröffentlichung beginnt das Akkreditierungsverfahren.
+Für Fernseh- und Filmaufnahmen von der Entscheidungsverkündung werden ggf. Medienpools gebildet. Zugelassen werden zwei Fernseh-/Filmteams (ein öffentlich-rechtlicher und ein privat-rechtlicher Sender mit jeweils einer Kamera). Die Poolführer verpflichten sich, gefertigte Fernseh- und Filmaufnahmen anderen Fernsehsendern bzw. Film-Aufnehmenden, die sich nicht erfolgreich akkreditiert haben, auf Anfrage unverzüglich zur Verfügung zu stellen. Ein Medienvertreter, der die erforderlichen technischen Voraussetzungen nicht erfüllt, kann nicht Poolführer werden. Die Bereitschaft zur Übernahme einer Poolführerschaft ist mit dem Akkreditierungsgesuch ausdrücklich zu erklären. Die Vergabe der Poolführerschaft erfolgt nach der Reihenfolge des Eingangs der Akkreditierung; bei etwaiger Zeitgleichheit entscheidet das Los.
+Zugelassen sind höchstens zwei TV- bzw. Filmkameras. Fernseh- und Filmaufnahmen dürfen nur von den zugewiesenen Plätzen aus gefertigt werden. Tonaufnahmen erfolgen über einen zentralen Tonabnahmepunkt. Während der Entscheidungsverkündung sind die Kameras an ihren Plätzen zu belassen und ausschließlich auf die Richterbank zu richten. Kameraschwenks sind nur innerhalb der seitlichen Begrenzungen der Richterbank zulässig. Auflagen des Gerichts sind einzuhalten. Anweisungen der Wachtmeister ist Folge zu leisten.
+Anregungen für eine Zulassung können Sie mit dem nachfolgenden Formular an die Pressestelle richten. Nach 10:00 Uhr des Vortags der Sitzung kann eine Beschlussfassung und Akkreditierung nicht mehr gewährleistet werden.
+Für Interviews mit den Prozessbeteiligten steht das Foyer vor dem Sitzungssaal zur Verfügung.
+Wir weisen darauf hin, dass eine Entscheidung in der Sache nicht notwendig noch am Tag der mündlichen Verhandlung verkündet wird. Der erkennende Senat beraumt in diesem Fall einen gesonderten Verkündungstermin an.
+Ob die angegebenen Termine bestehen geblieben sind, erfragen Sie bitte bei der jeweiligen Senatsgeschäftsstelle des Bundesarbeitsgerichts oder bei der Pressestelle.
+Wenn Sie das nachfolgende Formular ausfüllen, helfen Sie uns einzuschätzen, wie groß das öffentliche Interesse an einem Verhandlungstermin ist. So können wir versuchen, einen Sitzungssaal auszuwählen, in dem nach Möglichkeit die gesamte interessierte Öffentlichkeit Platz findet.
+Eine Platzreservierung wird nicht vorgenommen.
+Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.
+Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer 
+Datenschutzerklärung
+.
+Felder, die mit 
+*
+ gekennzeichnet sind, sind Pflichtfelder.
+Ihre Kontaktdaten
+Vorname
+Nachname
+E-Mail-Adresse
+Telefonnummer
+Medienorganisation
+Anzahl der Teilnehmer
+Sitzungsinformationen
+Senat
+– Bitte auswählen –
+9. Senat
+8. Senat
+7. Senat
+6. Senat
+5. Senat
+4. Senat
+3. Senat
+2. Senat
+10. Senat
+1. Senat
+Tag des Besuchs
+Aktenzeichen
+Weitere Kommentare
+450
+Zeichen übrig
+Please leave this field empty.
+Ja, ich habe die 
+Datenschutzerklärung
+ zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.
+ *
+Datenschutzübersicht
+Notwendige Cookies
+Datenschutzübersicht
+Diese Website verwendet Cookies, um die Online-Nutzung zu verbessern. Cookies die als notwendig kategorisiert sind, werden in Ihrem Browser gespeichert, da sie für das Funktionieren der Grundfunktionen der Website unerlässlich sind.
+Weitere Informationen: 
+Datenschutzerklärung
+Notwendige Cookies
+Notwendige Cookies sind für das einwandfreie Funktionieren der Website absolut notwendig. Diese Kategorie umfasst nur Cookies, die grundlegende Funktionalitäten und Sicherheitsmerkmale der Website gewährleisten (z. B. für die "Hoher Kontrast"-Einstellung).
+Diese Cookies speichern keine persönlichen Informationen.
+Cookies aktivieren oder deaktivieren
+aktiviert
+deaktiviert

@@ -1,0 +1,617 @@
+
+3 AZR 142/24 - Das Bundesarbeitsgericht
+Zum Hauptmenü
+Zum Hauptmenü
+Zum Informationsmenü
+Zum Inhalt
+Suchen
+Suchen
+Zur Fußzeile
+      Informationsmenü 
+Suche
+Kontakt
+Elektronischer Rechtsverkehr und elektronische Gerichtsakte
+Leichte Sprache
+Gebärdensprache
+Datenschutz
+DE
+EN
+Hoher Kontrast
+Menu
+              Start            
+              Aktuelles und Veranstaltungen            
+Aktuelles
+Veranstaltungen
+                              Jahrespressegespräch des Bundesarbeitsgerichts                            
+                              Instanzen im Dialog                            
+                              Europarechtliches Symposion                            
+                              Moot Court Wettbewerb                            
+                              Amtseinführung 28.06.2022                            
+                              Wanderausstellung                            
+Sitzungstage
+Sitzungsergebnisse
+              Das Bundesarbeitsgericht            
+Organisation
+                              Die Präsidentin                            
+                              Der Vizepräsident                            
+                              Die Senate                            
+                              Die Richterinnen und Richter                            
+                              Die wissenschaftlichen Mitarbeiter                            
+                              Die Geschäftsstelle                            
+                              Die Bibliothek                            
+                              Die Dokumentationsstelle                            
+                              Die Verwaltungsabteilung                            
+                              Internationale Zusammenarbeit                            
+                              Organigramm                            
+Die Arbeitsgerichtsbarkeit
+                              Aufgaben des Bundesarbeitsgerichts                            
+                              Zuständigkeit                            
+                              Aufbau der Arbeitsgerichtsbarkeit                            
+                              Ablauf des arbeitsgerichtlichen Verfahrens                            
+Geschäftsverteilung
+                              Kurzfassung                            
+                              Geschäftsverteilungsplan                            
+                              Geschäftsordnung                            
+                              Organigramm                            
+Gebäude
+              Entscheidungen            
+              Ihr Besuch bei uns            
+Aktuelle Hinweise
+                              So finden Sie uns                            
+Die Bibliothek
+Sitzungstage
+              Presse            
+Pressestelle
+                              Jahresberichte                            
+                              Pressefotos                            
+Pressemitteilungen
+Sitzungstage
+              Service            
+Kontakt
+Stellenangebote
+Ausschreibungen
+Pressefotos
+Pressemitteilungen
+Suche
+Start
+Entscheidungen
+3 AZR 142/24
+3 AZR 142/24
+Anpassung von Versorgungsleistungen - Pensionskasse - Entfallen der Anpassungsprüfungspflicht
+              PDF herunterladen 
+Details
+Aktenzeichen
+3 AZR 142/24
+ECLI
+ECLI:DE:BAG:2025:060525.U.3AZR142.24.0
+Art
+Urteil
+Datum
+06.05.2025
+Senat
+3. Senat
+Tenor
+Die Revision des Klägers gegen das Urteil des Landesarbeitsgerichts Düsseldorf vom 24. April 2024 – 12 Sa 683/23 – wird zurückgewiesen.
+Der Kläger hat die Kosten der Revision zu tragen.
+Leitsatz
+Die Anpassungsprüfungs- und -entscheidungspflicht des Arbeitgebers nach § 16 Abs. 1 Satz 1 BetrAVG entfällt nach § 16 Abs. 3 Nr. 2 BetrAVG, wenn die betriebliche Altersversorgung über eine Pensionskasse im Sinne des § 1b Abs. 3 BetrAVG durchgeführt wird und ab Rentenbeginn sämtliche auf den Rentenbestand entfallende Überschussanteile zur Erhöhung der laufenden Leistungen verwendet werden. Dies gilt auch dann, wenn eine Pensionskasse ihren eigenen Arbeitnehmern eine betriebsrentenrechtliche Versorgungszusage erteilt, die über sie selbst als Pensionskasse durchgeführt wird.
+Tatbestand
+1
+Die Parteien streiten über die Verpflichtung des Beklagten, die Betriebsrente des Klägers anzupassen.
+2
+Der im April 1951 geborene Kläger war vom 1. April 1981 bis zum 31. Dezember 2014 bei dem Beklagten beschäftigt. Der Beklagte ist ein Versicherungsverein auf Gegenseitigkeit und eine regulierte Pensionskasse iSd. Versicherungsaufsichtsgesetzes (VAG) unter der Aufsicht der Bundesanstalt für Finanzaufsicht (nachfolgend BaFin). Das Arbeitsverhältnis des Klägers endete aufgrund seiner Kündigung mit dem 31. Dezember 2014.
+3
+Bei Eintritt in das Arbeitsverhältnis erteilte der Beklagte dem Kläger eine über ihn selbst durchgeführte Pensionskassenzusage. In einem von beiden Parteien unterzeichneten Schreiben des Beklagten vom 16. Februar 1981 über die wesentlichen Vertragsbedingungen heißt es dazu wie folgt:
+„Mit Wirksamwerden dieses Vertrags werden Sie die Mitgliedschaft in unserer Pensionskasse beantragen für eine Versicherung nach Tarif A. Die darauf zu entrichtenden Pflichtbeiträge nach TaB A § 1 von 6 % des jeweiligen Höchstbetrags des pensionsfähigen Arbeitsverdienstes (z.Z.= Beitragsbemessungsgrenze in der gesetzlichen Rentenversicherung der Arbeiter und Angestellten) übernimmt die Pensionskasse voll und trägt auch die darauf entfallende Lohnsteuer pauschal gemäß § 40 b EStG. Bei Änderung der gegenwärtig geltenden relevanten Bestimmungen behält sich die Pensionskasse eine evtl. Anpassung an geänderte Bestimmungen durch entsprechende Änderungskündigung vor.“
+4
+Der Versicherungstarif A sah eine Tarifverzinsung (Garantieverzinsung) von bis zu 4 % vor. Die auf diesen Tarif entfallenden Pflichtbeiträge wurden seitens des Beklagten während des bestehenden Arbeitsverhältnisses abgeführt. Auf eigenen Wunsch wurde der Kläger zusätzlich auf Grundlage des „Nachtrags zum Dienstvertrag“ vom 10. September 1984 ab September 1984 im Versicherungstarif B versichert, der ebenfalls eine Tarifverzinsung (Garantieverzinsung) in Höhe von 4 % vorsah.
+5
+Seit dem 1. Oktober 2016 bezieht der Kläger von dem Beklagten eine Betriebsrente, die mit Pensionsbescheid vom 10. Oktober 2016 auf monatlich 1.297,02 Euro festgesetzt wurde. Grundlage für die Pensionskassenrente waren die in die Tarife A und B eingezahlten Beiträge. Andere Tarife sind nicht streitgegenständlich. Zur Beilegung eines Streits über die Höhe der zugesagten Leistungen ab Rentenbeginn einigten sich die Parteien in einem außergerichtlichen Vergleich vom 19./21. Juni 2020. Darin heißt es auszugsweise wie folgt:
+„…    
+2. Erfasste Ansprüche
+…       
+(2) Die Parteien sind sich ferner darüber einig, dass von dem Vergleich etwaige Ansprüche auf Rentenanpassung gemäß § 16 Abs. 1 BetrAVG unberührt bleiben, soweit diese nicht verjährt sind. Die Parteien haben sich darauf geeinigt, dass die Anpassungsprüfungsverpflichtung der PKDW zum 1. Oktober 2019 gerichtlich geklärt werden soll.
+3. Grundlage für Rentenanpassungsverpflichtung
+Die Parteien sind sich ferner darüber einig, dass für eventuelle Ansprüche gemäß § 16 Abs. 1 BetrAVG zum 1. Oktober 2019 und für etwaige weitere zukünftige Rentenanpassungen eine Ausgangsrente in Höhe von EUR 1.326,63 brutto per 1. Oktober 2016 zugrunde zu legen ist. Dies soll auch für etwaige weitere Rentenanpassungen gelten, zu welchen die PKDW als Pensionskasse auf Grund von Beschlüssen der Mitgliederversammlung verpflichtet ist.“
+6
+Die Satzung des Beklagten in der Fassung vom 1. November 2015 (nachfolgend Satzung 2015) lautet auszugsweise:
+„§ 2   
+Begründung der Mitgliedschaft
+1.    
+Mitglied der Pensionskasse wird, wer mit ihr ein Versicherungsverhältnis begründet.
+2.    
+Mitglieder der Pensionskasse sind,
+a)    
+Firmenmitglieder
+b)    
+Einzelmitglieder.
+…       
+§ 3     
+Firmenmitglieder
+1.    
+Als Firmenmitglieder werden Mitarbeiter aufgenommen, die von den diese Mitarbeiter beschäftigenden Unternehmen bei der Pensionskasse als Mitglieder angemeldet worden sind.
+2.    
+Unternehmen, die Mitarbeiter zur Mitgliedschaft angemeldet haben, werden in dieser Satzung Kassenfirmen genannt.
+§ 4     
+Unterbrechung und Beendigung der
+Firmenmitgliedschaft
+…       
+2.    
+Die Firmenmitgliedschaft endet mit
+a)    
+der Beendigung des Arbeitsverhältnisses des Firmenmitglieds zur Kassenfirma, es sei denn, eine andere Kassenfirma übernimmt für das Firmenmitglied die Pflichten einer Kassenfirma;
+b)    
+der Abmeldung des Firmenmitgliedes durch die Kassenfirma;
+c)    
+der Eröffnung des Insolvenzverfahrens über das Vermögen der Kassenfirma;
+d)    
+dem fruchtlosen Ablauf des Mahnverfahrens;
+e)    
+dem Erwerb der Einzelmitgliedschaft;
+f)    
+dem Eintritt des Versicherungsfalles;
+g)    
+dem Zugang des Beschlusses des Vorstandes der Pensionskasse über den Ausschluss des Firmenmitgliedes.
+§ 5     
+Einzelmitglieder
+Einzelmitglieder werden
+a)    
+Firmenmitglieder, deren Firmenmitgliedschaft nach § 4 Ziffern 2 a) bis d) endet,
+b)    
+Firmenmitglieder, deren Firmenmitgliedschaft gemäß § 4 nur unterbrochen worden ist, …
+§ 6     
+Ende der Einzelmitgliedschaft
+Die Einzelmitgliedschaft endet mit
+1. dem Eintritt des Versicherungsfalls,
+…       
+§ 16   
+Versicherungsmathematische Prüfung
+1.    
+Der Vorstand hat zum Abschlussstichtag eines jeden Geschäftsjahres oder auf Verlangen des Aufsichtsrates oder der Aufsichtsbehörde auch zu anderen Zeitpunkten durch einen versicherungsmathematischen Sachverständigen im Rahmen eines der Aufsichtsbehörde einzureichenden Gutachtens eine versicherungstechnische Prüfung der Kasse vornehmen zu lassen und in den gemäß § 15 aufzustellenden Jahresabschluss die hierfür ermittelten versicherungstechnischen Werte zu übernehmen.
+2.    
+Zur Deckung von Fehlbeträgen ist eine Verlustrücklage zu bilden, der jeweils mindestens 5 % des sich nach dem Gutachten gemäß Ziffer 1 ergebenden Überschusses zuzuführen sind, bis diese Rücklage mindestens 7,5 % der Deckungsrückstellung erreicht oder nach Inanspruchnahme wieder erreicht hat.
+3.    
+Der restliche sich nach dem Gutachten gemäß Ziffer 1 ergebende Überschuss ist der Rückstellung für Beitragsrückerstattung zuzuführen. Diese Rückstellung ist nach geschäftsplangemäßen Grundsätzen zur Erhöhung bzw. zur Verbesserung der Leistungen und zu sonstigen geschäftsplangemäßen Zwecken für die einzelnen Tarife zu verwenden. Art, Umfang und Zeitpunkt der Rückstellungsverwendung beschließt die Mitgliederversammlung aufgrund von Vorschlägen, die der Vorstand und der verantwortliche Aktuar unterbreiten. Der Vorstand ist jedoch berechtigt, mit Zustimmung der Aufsichtsbehörde in Ausnahmefällen die Rückstellung für Beitragsrückerstattung, soweit sie nicht auf bereits festgelegte Überschussanteile entfällt, im Interesse der Versicherten im Rahmen von § 56 a VAG, in der jeweils gültigen Fassung, heranzuziehen.
+4.    
+Ein sich nach dem Gutachten gemäß Ziffer 1 ergebender Fehlbetrag ist, soweit er nicht aus der Verlustrücklage gedeckt werden kann, aus der Rückstellung für Beitragsrückerstattung zu decken. Reicht auch diese Rückstellung nicht aus, ist der Fehlbetrag durch Herabsetzung der Leistungen, durch Erhöhung der Beiträge oder durch mehrere solcher Maßnahmen auszugleichen. Darüber beschließt die Mitgliederversammlung aufgrund von Vorschlägen, die der Vorstand nach Zustimmung des versicherungsmathematischen Sachverständigen unterbreitet. Alle diesbezüglichen Beschlüsse bedürfen der Zustimmung der Aufsichtsbehörde. Alle Maßnahmen haben auch Wirkung für die bestehenden Versicherungsverhältnisse. Die Erhebung von Nachschüssen ist ausgeschlossen.
+5.    
+Die Verwendung von Überschüssen gemäß Ziffern 2 und 3 sowie das Ergreifen von Maßnahmen nach Ziffer 4 hat für die selbständig gebildeten Abteilungen des Sicherungsvermögens (Anlagestock) im Rahmen eigenständiger Überschussverbände jeweils gesondert zu erfolgen. Im Übrigen gelten die jeweiligen Bestimmungen der Allgemeinen Geschäftsbedingungen zur Überschussverwendung.“
+7
+Die Allgemeinen Versicherungsbedingungen des Beklagten in der Fassung vom 1. Januar 2015 (nachfolgend AVB 2015) lauten auszugsweise:
+„
+I. Versicherung der Mitglieder
+§ 7     
+Beginn und Ende der Versicherung
+Das Versicherungsverhältnis beginnt mit dem im Versicherungsschein genannten Zeitpunkt.
+Das Versicherungsverhältnis endet, wenn die Mitgliedschaft endet, sofern keine Kassenleistungen gewährt werden. Im Übrigen endet das Versicherungsverhältnis, wenn ein Anspruch auf Kassenleistungen nicht mehr besteht.
+…       
+III. Kassenleistungen
+Allgemeine Bestimmungen
+…       
+§ 15b 
+Beteiligung an dem Überschuss und an den Bewertungsreserven (Überschussbeteiligung)
+1.    
+Damit der vereinbarte Versicherungsschutz zu jedem Zeitpunkt der Versicherungsdauer gewährleistet ist, werden für die eingegangenen Verpflichtungen Rückstellungen gebildet. Die Rückstellungen werden für selbstständige Abteilungen des Sicherungsvermögens jeweils gesondert gebildet. Die zur Bedeckung dieser Rückstellungen erforderlichen Mittel werden angelegt und erbringen Kapitalerträge. Aus diesen Kapitalerträgen, den Versicherungsbeiträgen und den angelegten Mitteln werden die zugesagten Versicherungsleistungen erbracht, sowie die Kosten von Abschluss und Verwaltung des Vertrages gedeckt. Je größer die Erträge aus den Kapitalanlagen sind, je weniger Versicherungsfälle eintreten und je kostengünstiger die Pensionskasse arbeitet, umso größer sind dann entstehende Überschüsse. Die Überschussermittlung erfolgt nach den Vorschriften des Handelsgesetzbuches (HGB) und des Versicherungsaufsichtsgesetzes (VAG) und den dazu erlassenen Rechtsverordnungen.
+Die Wertdifferenz zwischen den Buchwerten und den Zeitwerten der Kapitalanlagen stellt die Bewertungsreserven der Pensionskasse dar.
+2.    
+Alle Versicherungsverträge werden nach Maßgabe des § 16 der Satzung angemessen und verursachungsgerecht am handelsbilanziellen Überschuss beteiligt. Dies wird von der Aufsichtsbehörde überwacht.
+Nach diesen Grundsätzen werden alle Versicherungen eines Tarifs entsprechend der Einteilung des Sicherungsvermögens in selbstständige Abteilungen in jeweils eigenen Überschussverbänden zusammengefasst. Sofern eine Aufteilung nach Gruppen innerhalb eines Überschussverbandes zur Wahrung engerer Gleichheitskriterien erfolgt, ergibt sich diese aus den Tarifbedingungen. Der verteilungsfähige Überschuss wird den einzelnen Überschussverbänden verursachungsgemäß zugeordnet und der Rückstellung für Beitragsrückerstattung zugeführt. Die in die Rückstellung für Beitragsrückerstattung eingestellten Mittel dürfen grundsätzlich nur für die Überschussbeteiligung der innerhalb des jeweiligen Überschussverbandes Versicherten des jeweiligen Tarifes verwendet werden; § 16 Ziffer 3 Satz 3 und Ziffer 5 der Satzung ist zu beachten.
+Jede einzelne Versicherung innerhalb eines Überschussverbandes erhält einen Anteil an den ihm zugeordneten Überschüssen. Der Vorstand der Pensionskasse unterbreitet dazu aufgrund eines Vorschlags des verantwortlichen Aktuars jährlich der Mitgliederversammlung zur Beschlussfassung einen Überschussverwendungsvorschlag für die in der Rückstellung für Beitragsrückerstattung reservierten Mittel. In einzelnen Versicherungsjahren kann eine Zuteilung von Überschüssen entfallen, sofern dies sachlich gerechtfertigt ist.
+3.    
+Die Beteiligung an Bewertungsreserven erfolgt jährlich auf Basis eines Vorschlages des Vorstands und des Aktuars an die Mitgliederversammlung, der zusammen mit dem Vorschlag nach Ziffer 2 Satz 8 erfolgt.
+4.    
+Bei dem Vorschlag über die Beteiligung an den Bewertungsreserven haben der verantwortliche Aktuar und der Vorstand den Erhalt einer ausreichenden Kapitalausstattung, die Erfüllung aufsichtsrechtlicher Stresstests einschließlich einer ausreichenden Sicherheitsreserve, eine absehbare Verstärkung der Deckungsrückstellung sowie die Regelungen im Technischen Geschäftsplan zu berücksichtigen. Die Beteiligung erfolgt nach § 21 VAG gleichmäßig für alle Versicherten (Anwärter und Rentner). Auf § 20 der Satzung der Pensionskasse wird verwiesen. Danach können die Vorschriften des § 15 b, insbesondere bei Veränderungen der aufsichtsrechtlichen Rahmenbedingungen, künftigen Anpassungen unterliegen.
+…       
+§ 24   
+Alterspension
+…       
+2.    
+Alterspension erhält das Mitglied, das die Altersgrenze erreicht hat. Für nach Tarif A versicherte Mitglieder kann hiervon entsprechend Ziffer 7 abgewichen werden.
+3.    
+Die Höhe der Alterspension ergibt sich aus dem Versicherungsschein in Verbindung mit den Tarifbedingungen.
+…       
+5.    
+Die Höhe der vorgezogenen Alterspension richtet sich nach der erreichten Grundpension (Ziffer 6). Zum Ausgleich für die ohne Berufsunfähigkeit bewirkte und daher nicht kalkulierte längere Leistungsdauer muss diese Pension um einen versicherungsmathematisch notwendigen Prozentsatz gekürzt werden. Die Grundpension, basierend auf Beiträgen vor dem 01.01.2004 beruhenden Leistungen, wird deshalb für jeden Monat, um den der Pensionsbeginn vor Erreichung der Altersgrenze (Ziffer 1) verlangt wird, um 0,4 % gekürzt, während bei Leistungen, die auf Beitragszahlungen nach dem 31.12.2003 beruhen, für jeden Monat, um den der Pensionsbeginn vor Erreichung der Altersgrenze (Ziffer 1) verlangt wird, um einen im jeweiligen Technischen Geschäftsplan festgelegten Prozentsatz gekürzt wird.
+…       
+§ 29   
+Versorgungsausgleich
+Im Rahmen des Versorgungsausgleichs führt die Pensionskasse die interne Teilung durch. Der vom Familiengericht festgelegte Ausgleichswert reduziert die Anwartschaft bzw. die Leistungen des Versicherten bzw. Rentners nach Maßgabe der Technischen Geschäftspläne. Für die ausgleichsberechtigte Person werden Anwartschaften bzw. Leistungen in Höhe des vom Familiengericht festgelegten Ausgleichswertes nach Maßgabe der Technischen Geschäftspläne ohne Einschluss von Berufsunfähigkeitspension und nach den Bestimmungen für Neuversicherungen begründet. Die ausgleichsberechtigte Person wird gemäß § 2 Nr. 3 der Satzung Einzelmitglied der Pensionskasse. Weitere Einzelheiten zum Verfahren der Teilung der Anwartschaften oder Leistungen sowie die Höhe der Teilungskosten regeln die Technischen Geschäftspläne.“
+8
+Die Tarifbedingungen des Beklagten in der Fassung vom 1. Januar 2015 (nachfolgend TaB 2015) lauten auszugsweise:
+„
+Tarif A
+A § 5 
+Überschussbeteiligung
+Alle Versicherungen, die vor dem 01.01.1997 begründet worden sind, werden im Überschussverband des Tarifs A in der Gruppe 1 zusammengefasst. Die nach dem 31.12.1996 begründeten Versicherungen bilden die Gruppe 2.
+Einzahlungen, die nach dem 31.12.2003 in einem der Tarife erfolgen, werden in einer Gruppe 3 zusammengefasst.
+Versicherungen, die nach dem 31.12.2006 begründet worden sind, werden in einer Gruppe 4 zusammengefasst. Nach dem 31.12.2011 begründete Versicherungen bilden die Gruppe 5. Nach dem 31.12.2014 begründete Versicherungen bilden die Gruppe 6.
+Tarif B
+B § 6 
+Überschussbeteiligung
+Alle Versicherungen, die vor dem 01.01.1997 begründet worden sind, werden im Überschussverband des Tarifs B in der Gruppe 1 zusammengefasst. Die nach dem 31.12.1996 begründeten Versicherungen bilden die Gruppe 2.“
+9
+Der Technische Geschäftsplan „Neuversicherungen 2004“ vom 13. November 2013 für Versicherungen nach Tarif A, die auf Beitragszahlungen ab 1. Januar 2004 oder auf Übernahmen von Versorgungsverpflichtungen beruhen (Versicherungsbeginn vor 1. Januar 2007) (nachfolgend TGP neu) lautet auszugsweise:
+„
+10 Beteiligung am Überschuss
+10.1 Rückstellung für Beitragsrückerstattung
+Der Teil des jährlichen Überschusses, der nicht zur Bildung einer Verlustrücklage verwendet wurde, wird der Rückstellung für Beitragsrückerstattung (RfB) zugeführt. Die der RfB zugewiesenen Beträge sind ausschließlich für die Überschussbeteiligung der Versicherungsnehmer bestimmt. Die Kasse ist jedoch berechtigt, mit Zustimmung der BaFin in Ausnahmefällen die RfB, soweit sie nicht auf bereits festgelegte Überschussanteile entfällt, im Interesse der Versicherten
+–       
+zur Abwendung eines drohenden Notstandes,
+–       
+zum Ausgleich unvorhersehbarer Verluste aus überschussberechtigten Versicherungsverträgen, die auf allgemeine Änderungen der Verhältnisse zurückzuführen sind, oder
+–       
+zur Erhöhung der Deckungsrückstellung, wenn die Rechnungsgrundlagen aufgrund einer unvorhersehbaren und nicht nur vorübergehenden Änderung der Verhältnisse angepasst werden müssen,
+…       
+heranzuziehen. Dieser Verwendungsvorbehalt umfasst auch die interne Rückstellung zur Finanzierung der Schlussüberschussanteile (Schlussüberschussanteilfonds).
+10.2 Verteilung der Überschüsse an die Versicherungsnehmer
+Überschussberechtigt sind alle Versicherungen. Die Überschussbeteiligung besteht aus laufenden Überschussanteilen und – bei aufgeschobenen Rentenversicherungen – einem Schlussüberschussanteil.
+10.2.1 Laufende Überschussanteile
+Die laufenden Überschussanteile werden durch die Mitgliederversammlung festgelegt und verursachungsgerecht den einzelnen Verträgen zugerechnet.
+10.2.2 Schlussüberschussanteile
+Die Gewährung von Schlussüberschussanteilen wird durch die Mitgliederversammlung festgelegt und bemisst sich in Prozent des bereits angesammelten Anspruchs auf Schlussüberschussanteile für die Versicherung zum jeweils vorhergehenden Abschlussstichtag. Außerdem legt die Mitgliederversammlung fest, ob und in welcher Höhe zusätzliche Schlussüberschussanteile zugeteilt werden. Diese werden verursachungsgerecht den einzelnen Verträgen zugeordnet.“
+10
+Der Technische Geschäftsplan „Altversicherungen“ vom 13. November 2013 für Versicherungen aller Tarife mit Ausnahme von Versicherungen nach Tarif A, die auf Beitragszahlungen ab 1. Januar 2004 oder auf Übernahmen von Versorgungsverpflichtungen beruhen (nachfolgend TGP alt), lautet auszugsweise:
+„
+12 Beteiligung am Überschuss
+12.1 Rückstellung für Beitragsrückerstattung
+Der Teil des jährlichen Überschusses, der nicht zur Bildung einer Verlustrücklage verwendet wurde, wird der Rückstellung für Beitragsrückerstattung (RfB) zugeführt. Die der RfB zugewiesenen Beträge sind ausschließlich für die Überschussbeteiligung der Versicherungsnehmer bestimmt. Die Kasse ist jedoch berechtigt, mit Zustimmung der BaFin in Ausnahmefällen die RfB, soweit sie nicht auf bereits festgelegte Überschussanteile entfällt, im Interesse der Versicherten
+–       
+zur Abwendung eines drohenden Notstandes,
+–       
+zum Ausgleich unvorhersehbarer Verluste aus überschussberechtigten Versicherungsverträgen, die auf allgemeine Änderungen der Verhältnisse zurückzuführen sind, oder
+–       
+zur Erhöhung der Deckungsrückstellung, wenn die Rechnungsgrundlagen aufgrund einer unvorhersehbaren und nicht nur vorübergehenden Änderung der Verhältnisse angepasst werden müssen,
+heranzuziehen. Dieser Verwendungsvorbehalt umfasst auch die interne Rückstellung zur Finanzierung der Schlussüberschussanteile (Schlussüberschussanteilfonds).
+12.2 Verteilung der Überschüsse an die Versicherungsnehmer
+Überschussberechtigt sind alle Versicherungen. Die Überschussbeteiligung besteht aus laufenden Überschussanteilen und – bei aufgeschobenen Rentenversicherungen – einem Schlussüberschussanteil.
+12.2.1 Laufende Überschussanteile
+Die laufenden Überschussanteile werden durch die Mitgliederversammlung festgelegt und verursachungsgerecht den einzelnen Verträgen zugerechnet.
+Bei Versicherungen, die von der im Jahre 2003 beschlossenen Leistungsherabsetzung betroffen sind, kann die Leistungserhöhung als Minderung des jeweils zum 1.7. wirksamen jährlichen Herabsetzungsfaktors gewährt werden.
+12.2.2 Schlussüberschussanteile
+Die Gewährung von Schlussüberschussanteilen wird durch die Mitgliederversammlung festgelegt und bemisst sich in Prozent des bereits angesammelten Anspruchs auf Schlussüberschussanteile für die Versicherung zum jeweils vorhergehenden Abschlussstichtag. Außerdem legt die Mitgliederversammlung fest, ob und in welcher Höhe zusätzliche Schlussüberschussanteile zugeteilt werden. Diese werden verursachungsgerecht den einzelnen Verträgen zugeordnet.“
+11
+Mit seiner Klage hat der Kläger die Anpassung seiner Betriebsrente ab dem 1. Oktober 2019 geltend gemacht. Dabei hat er die Entwicklung des Verbraucherpreisindexes vom 1. September 2016 bis zum 1. September 2019 um 4,95050 vH zugrunde gelegt und demgemäß – ausgehend von der im Vergleich vom 19./21. Juni 2020 festgelegten Ausgangsrente von 1.326,63 Euro brutto – eine monatliche Erhöhung um 65,67 Euro verlangt. Er hat die Ansicht vertreten, die Anpassungsverpflichtung des Beklagten nach § 16 Abs. 1 BetrAVG sei nicht nach § 16 Abs. 3 Nr. 2 BetrAVG ausgeschlossen. Das insoweit maßgebliche Übergangsrecht in § 30c Abs. 1a BetrAVG verstoße gegen höherrangiges Recht, die Bestimmung sei daher in ihrer derzeitigen Fassung nicht anwendbar. Der Beklagte könne sich zudem deshalb nicht auf § 16 Abs. 3 Nr. 2 BetrAVG berufen, weil er zugleich sein Arbeitgeber gewesen sei. Die Vorschrift setze die Pensionskassenversorgung über einen mittelbaren Durchführungsweg voraus und verlange, dass zusagender Arbeitgeber und Durchführender der Zusage der betrieblichen Altersversorgung auseinanderfallen. Ungeachtet dessen seien auch die Voraussetzungen von § 16 Abs. 3 Nr. 2 BetrAVG nicht erfüllt. Insoweit hat der Kläger zusammengefasst geltend gemacht, es stehe nicht unabdingbar rechtlich fest, dass ab Rentenbeginn sämtliche auf den Rentenbestand entfallende Überschussanteile zur Erhöhung der laufenden Leistungen verwendet werden. § 16 Nr. 3 Satzung 2015 ermögliche eine Überschussverwendung zur „Erhöhung“ bzw. „Verbesserung“ der Leistungen und sehe damit keine Verwendung ausschließlich zur „Erhöhung der laufenden Leistungen“ vor. Nach derzeitiger Satzungslage sei die Verwendung von Überschüssen zur Zahlung eines Sterbegeldes, anderer Einmalleistungen oder für nur befristete Leistungserhöhungen nicht ausgeschlossen. So habe der Beklagte seinen Anwärtern und Rentnern bis 2003 unbefristete Leistungserhöhungen („unbefristete Gewinnanteile“) und den Rentnern befristete Leistungsverbesserungen („befristete Gewinnzuschläge“) gewährt. Nach § 16 Nr. 3 Satzung 2015 könnten Überschüsse auch „zu sonstigen geschäftsplangemäßen Zwecken“ verwendet werden, wie im Rahmen einer Auflösung der Rückstellung für Beitragsrückerstattung zum 31. Dezember 2002 in Höhe von 18.483.539,93 Euro geschehen. Im Jahre 2005 sei eine aus zuvor vorhandenen Überschüssen gebildete Rückstellung für „Barber-Fälle“ in Höhe von 41,7 Millionen Euro aufgelöst worden. § 15b AVB 2015 lasse ohne nähere Festlegung zudem ein Entfallen der Überschusszuteilung zu, sofern dies „sachlich gerechtfertigt“ sei. Die Regelungen des Beklagten schlössen auch nicht aus, dass Überschüsse, die ab Rentenbeginn erwirtschaftet werden, einem Schlussüberschussanteilsfonds zugeschrieben werden könnten, der – wie beim Kläger – gar nicht oder erst nach Jahren zur Erhöhung der laufenden Leistungen verwendet werde. Nach Nr. 12.2.1 Abs. 2 TGP alt könnten laufende Überschussanteile zur Minderung einer Leistungsherabsetzung verwendet werden, was keine Erhöhung der laufenden Renten darstelle. Soweit danach ab Rentenbeginn Überschüsse mit der in 2003 beschlossenen Leistungsherabsetzung (ursprünglich 1,4 %) verrechnet werden, liege keine Erhöhung der laufenden Leistungen vor. Aktiven Versicherten oder Anwartschaftsberechtigten habe der Beklagte im streitgegenständlichen Zeitraum 2016 Überschüsse zugewiesen, nicht aber den Rentnern. Auch die Zusammenfassung in Abrechnungs- und Gewinnverbände sei im versicherungsrechtlichen Sinne nicht verursachungsorientiert und erfülle folglich nicht die Voraussetzung des § 16 Abs. 3 Nr. 2 BetrAVG. Eine konkrete vertragliche Regelung zur Verteilung der Überschüsse auf die einzelnen Gewinnverbände im Regelwerk des Beklagten fehle. Tatsächlich würden aufgrund einer Empfehlung der BaFin aus dem Jahre 2004 Verträge mit geringerem Garantiezins durch Verträge mit höherem Garantiezins „quersubventioniert“. Die Entscheidung des Beklagten, die betriebliche Altersversorgung zum Anpassungsstichtag 1. Oktober 2019 nicht anzupassen, entspreche auch nicht billigem Ermessen. Dem Beklagten sei die Berufung auf seine wirtschaftliche Lage verwehrt.
+12
+Der Kläger hat beantragt,
+1.    
+den Beklagten zu verurteilen, an ihn für den Zeitraum 1. Oktober 2019 bis 30. April 2023 2.823,81 Euro brutto nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem Tag nach Rechtskraft des Urteils zu zahlen;
+2.    
+den Beklagten zu verurteilen, an ihn ab dem 1. Mai 2023 – vorbehaltlich der weiteren zum 1. Oktober 2022 fällig gewordenen Anpassung – monatlich 1.392,30 Euro brutto abzüglich unstreitig gezahlter 1.326,63 Euro brutto zu zahlen.
+13
+Der Beklagte hat beantragt, die Klage abzuweisen. Er hat den Standpunkt eingenommen, der Anpassungsanspruch sei nach § 16 Abs. 3 Nr. 2 BetrAVG entfallen. Nach seinem Regelungswerk sei die Überschussbeteiligung rechtsverbindlich festgeschrieben und der Kläger zudem als Betriebsrentner in der Lage, seine danach bestehenden Ansprüche gegenüber dem Beklagten als Pensionskasse gerichtlich durchzusetzen. Eine Verwendung sämtlicher auf den Rentenbestand entfallender Überschussanteile zur Erhöhung der laufenden Leistungen sei nicht dadurch ausgeschlossen, dass § 16 Nr. 3 Satz 2 Satzung 2015 es zulasse, dass ein Überschuss zur Erhöhung „bzw. zur Verbesserung“ der Leistungen verwendet werden kann. Die „Verbesserung“ von Leistungen beziehe sich auf Versicherungsverträge in der Anwartschaftsphase. Dem entspreche das Verständnis in § 1b Abs. 5 BetrAVG und auch in § 2 Abs. 3 Satz 2 Nr. 2 BetrAVG. Auch die in § 16 Nr. 3 Satzung 2015 zugelassene Verwendung „zu sonstigen geschäftsplangemäßen Zwecken“ sei unschädlich. Geschäftsplangemäße Zwecke seien solche, die durch das Regelwerk zugunsten der Versicherten legitimiert seien. Zudem stehe das Regelwerk unter dem Vorbehalt der zwingenden Bestimmungen des § 140 VAG, von dem der Beklagte in seinen eigenen Regularien selbstredend nicht habe abweichen dürfen. Die Auflösung der Rückstellung für Beitragsrückerstattung zum Stand 31. Dezember 2002 im Jahr 2003 sei aufgrund des zum 31. Dezember 2001 festgestellten Verlustes in Höhe von 153.366.523,50 Euro unter Inanspruchnahme einer Sanierungsklausel aus der seinerzeitigen Satzung, die § 16 Nr. 4 Satzung 2015 entspreche, nebst entsprechenden Leistungsherabsetzungen vorgenommen worden. TGP neu und TGP alt schlössen eine Verwendung des Überschusses zu etwas anderem als zur Erhöhung der laufenden Renten aus. Die nach Nr. 12.2.1 Abs. 2 TGP alt mögliche Verwendung der Überschussanteile zur Minderung einer Leistungsherabsetzung führe nicht dazu, dass keine Erhöhung der laufenden Renten bewirkt werde. Auch die Minderung des jährlichen Herabsetzungsfaktors stelle eine Erhöhung der laufenden Renten dar. Eine Überschussverwendung zugunsten der Pensionskasse oder des beitragsleistenden Arbeitgebers sei nicht vorgesehen. Eine Anpassung sei jedenfalls aufgrund der wirtschaftlichen Lage des Beklagten nicht vorzunehmen gewesen.
+14
+Das Arbeitsgericht hat der Klage stattgegeben. Das Landesarbeitsgericht hat sie auf die Berufung des Beklagten abgewiesen. Mit seiner Revision verfolgt der Kläger sein Begehren weiter. Der Beklagte beantragt, die Revision zurückzuweisen.
+Entscheidungsgründe
+15
+Die Revision ist unbegründet. Das Landesarbeitsgericht hat die Klage zu Recht abgewiesen.
+16
+A. Die Klage ist zulässig. Mit dem Zahlungsantrag zu 1. macht der Kläger hinreichend bestimmt 
+(§ 253 Abs. 2 Nr. 2 ZPO)
+ mit einem Gesamtbetrag für die Zeit vom 1. Oktober 2019 bis zum 30. April 2023 eine monatlich um 65,67 Euro brutto höhere Betriebsrente geltend. Bei dem Klageantrag zu 2. handelt es sich um eine entsprechende Klage auf wiederkehrende Leistungen iSd. § 258 ZPO. Bei wiederkehrenden Leistungen, die – wie vorliegend – von keiner Gegenleistung abhängen, können grundsätzlich auch künftig fällig werdende Teilbeträge eingeklagt werden, ohne dass die Besorgnis bestehen muss, der Schuldner werde sich der rechtzeitigen Leistung entziehen 
+(BAG 11. März 2025 – 3 AZR 136/24 – Rn. 14 mwN)
+.
+17
+B. Die Klage ist unbegründet. Der Kläger hat keinen Anspruch auf Anpassung seiner Betriebsrente nach § 16 Abs. 1 und Abs. 2 BetrAVG um 65,67 Euro brutto monatlich ab dem 1. Oktober 2019. Das Landesarbeitsgericht hat zutreffend erkannt, dass der Anspruch nach § 16 Abs. 3 Nr. 2 BetrAVG entfallen ist, weil die betriebliche Altersversorgung über eine Pensionskasse iSd. § 1b Abs. 3 BetrAVG durchgeführt wird und ab Rentenbeginn sämtliche auf den Rentenbestand entfallenden Überschussanteile zur Erhöhung der laufenden Leistungen verwendet werden. Der Anwendung von § 16 Abs. 3 Nr. 2 BetrAVG in der derzeit geltenden Fassung stehen weder Verfassungs- noch Unionsrecht noch der Umstand entgegen, dass der Kläger Arbeitnehmer der beklagten Pensionskasse ist, über die die von ihr zugesagte betriebliche Altersversorgung durchgeführt wird. Nach den relevanten Regelungen des Beklagten sind in den Tarifen A und B ab Rentenbeginn sämtliche auf den Rentenbestand entfallenden Überschussanteile zur Erhöhung der laufenden Leistungen zu verwenden.
+18
+I. Die Anpassungsprüfungs- und -entscheidungsverpflichtung nach § 16 Abs. 1 BetrAVG ist nicht schon deshalb ausgeschlossen, weil der Beklagte dem Kläger keine betriebliche Altersversorgung zugesagt hätte. Nach der arbeitsvertraglichen Vereinbarung vom 16. Februar 1981 iVm. dem „Nachtrag zum Dienstvertrag“ vom 10. September 1984 hat sich der Kläger verpflichtet, eine Mitgliedschaft bei dem Beklagten zu beantragen, und der Beklagte die Verpflichtung zur Zahlung der Pflichtbeiträge zu den Tarifen A und B übernommen. Damit, mit seiner dem Kläger bekannten Anmeldung zu diesen Tarifen und der Beitragszahlung, hat der Beklagte – ungeachtet des Umstands, dass er selbst durchführende Pensionskasse ist – nicht lediglich eine reine Beitragszusage 
+(außerhalb des Betriebsrentengesetzes, vgl. BAG 14. März 2023 – 3 AZR 197/22 – Rn. 22, BAGE 180, 262)
+ erteilt, sondern konkludent eine betriebsrentenrechtliche Versorgungszusage in Form einer beitragsorientierten Leistungszusage 
+(vgl. dazu BAG 10. Dezember 2019 – 3 AZR 122/18 – Rn. 56, BAGE 169, 72)
+. Nach den Feststellungen des Landesarbeitsgerichts waren die Beiträge im Streitfall auch vollständig arbeitgeberfinanziert, so dass es nicht darauf ankommt, ob die Zusage des Beklagten auch die Leistungen aus Eigenbeiträgen des Arbeitnehmers umfasst 
+(vgl. § 1 Abs. 2 Nr. 4 BetrAVG, dazu BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 42)
+.
+19
+II. Das Landesarbeitsgericht hat zutreffend angenommen, dass die Anpassungsprüfungs- und Entscheidungspflicht nach § 16 Abs. 1 und Abs. 2 BetrAVG für den Beklagten nach § 16 Abs. 3 Nr. 2 BetrAVG entfallen ist.
+20
+1. Der Anwendung von § 16 Abs. 3 Nr. 2 BetrAVG steht höherrangiges Recht nicht entgegen.
+21
+a) Mit der am 31. Dezember 2015 in Kraft getretenen Neuregelung der Norm durch das Gesetz zur Umsetzung der EU-Mobilitäts-Richtlinie vom 21. Dezember 2015 
+(BGBl. I S. 2553)
+ wurde der Anwendungsbereich erweitert, indem nunmehr für entsprechende Versorgungszusagen ohne Rücksicht auf den Zeitpunkt der Erteilung keine Anpassungsprüfung mehr gefordert wird. Die Neufassung von § 16 Abs. 3 Nr. 2 BetrAVG und ihre spätere rückwirkende Inkraftsetzung durch § 30c Abs. 1a BetrAVG auch für Anpassungszeiträume vor dem 1. Januar 2016 ist verfassungsgemäß 
+(ausführlich dazu BAG 3. Mai 2022 – 3 AZR 408/21 – Rn. 30 ff., zur Einführung von § 16 Abs. 3 Nr. 2 BetrAVG in seiner Ursprungsfassung Rn. 48, zur Ausweitung des Anwendungsbereichs der Ausnahmevorschrift durch das Gesetz zur Umsetzung der EU-Mobilitäts-Richtlinie im Jahre 2015 Rn. 49, BAGE 177, 373)
+. Ungeachtet dessen stehen vorliegend keine Anpassungszeiträume im Streit, die vor dem 1. Januar 2016 liegen.
+22
+b) Die mit Wirkung zum 31. Dezember 2015 erfolgte Änderung von § 16 Abs. 3 Nr. 2 BetrAVG verstößt auch nicht gegen das Verschlechterungsverbot aus Art. 7 Abs. 2 der Richtlinie 2014/50/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über Mindestvorschriften zur Erhöhung der Mobilität von Arbeitnehmern zwischen den Mitgliedstaaten durch Verbesserung des Erwerbs und der Wahrung von Zusatzrentenansprüchen 
+(ABl. EU L 128 vom 30. April 2014 S. 1; ausführlich BAG 3. Mai 2022 – 3 AZR 408/21 – Rn. 56 ff., BAGE 177, 373)
+.
+23
+2. Der Anwendung von § 16 Abs. 3 Nr. 2 BetrAVG steht nicht entgegen, dass der Kläger Arbeitnehmer der beklagten Pensionskasse war, über die die streitgegenständliche Versorgung durchgeführt wird. Das hat das Landesarbeitsgericht zutreffend erkannt. Auch dann, wenn eine Pensionskasse ihren eigenen Arbeitnehmern eine betriebsrentenrechtliche Versorgungszusage erteilt, die über sie selbst als Pensionskasse durchgeführt wird, kann die Pensionskasse bei Vorliegen der weiteren Voraussetzungen der Vorschrift von § 16 Abs. 3 Nr. 2 BetrAVG Gebrauch machen. Das ergibt die Auslegung der Bestimmung 
+(vgl. zur Auslegung von Gesetzen BAG 20. August 2024 – 3 AZR 286/23 – Rn. 12 mwN; BVerfG 6. Juni 2018 – 1 BvL 7/14, 1 BvR 1375/14 – Rn. 74, BVerfGE 149, 126)
+.
+24
+a) Der Wortlaut von § 16 Abs. 3 Nr. 2 BetrAVG verlangt, dass „die betriebliche Altersversorgung“ ua. „über eine Pensionskasse im Sinne des § 1b Abs. 3 durchgeführt wird“. Nach der Legaldefinition in § 1b Abs. 3 BetrAVG ist das der Fall, wenn die betriebliche Altersversorgung von einer rechtsfähigen Versorgungseinrichtung durchgeführt wird, die dem Arbeitnehmer oder seinen Hinterbliebenen auf ihre Leistungen einen Rechtsanspruch gewährt. Diese Voraussetzungen sind auch gegeben, wenn eine Pensionskasse den eigenen Beschäftigten eine Versorgungszusage erteilt, die über sie selbst als Pensionskasse durchgeführt wird, und den versicherten eigenen Arbeitnehmern nach Maßgabe der Satzung und der Versicherungsbedingungen Rechtsansprüche auf Leistungen einräumt. Die Wendung „über eine Pensionskasse“ lässt zwar erkennen, dass dem Gesetzgeber bei der Befreiung von der Anpassungspflicht in erster Linie der typische Fall des mittelbaren Durchführungswegs über eine externe Pensionskasse vor Augen stand, bei dem die Versorgung zusagender Arbeitgeber und durchführende Pensionskasse nicht identisch sind. Der eingeschaltete externe Versorgungsträger ist in dieser Konstellation nur ein Instrument des Arbeitgebers zur Erfüllung seiner arbeitsrechtlichen Versorgungsverpflichtungen 
+(vgl. BAG 15. März 2016 – 3 AZR 827/14 – Rn. 22 mwN, BAGE 154, 213)
+ und der zusagende Arbeitgeber hat aus dem arbeitsrechtlichen Grundverhältnis nach § 1 Abs. 1 Satz 3 BetrAVG für die Erfüllung der zugesagten Leistungen einzustehen, wenn die Leistungen der Pensionskasse hinter der Zusage zurückbleiben 
+(vgl. BAG 14. März 2023 – 3 AZR 197/22 – Rn. 22, BAGE 180, 262; 15. März 2016 – 3 AZR 827/14 – Rn. 22 ff., aaO)
+. Dem Wortlaut von § 16 Abs. 3 Nr. 2 BetrAVG ist aber nicht zu entnehmen, dass die Durchführung der Versorgung über eine externe Pensionskasse, die nicht Arbeitgeberin des Versorgungsempfängers ist, eine notwendige Bedingung für die Befreiung von der Anpassungspflicht sein sollte. Eine Durchführung „über eine Pensionskasse im Sinne des § 1b Abs. 3“ liegt vielmehr auch dann vor, wenn der zusagende Arbeitgeber selbst die durchführende Pensionskasse ist. Entscheidend ist, dass die Zusage eine entsprechende Durchführung zum Gegenstand hat, also insbesondere keine Direktzusage gegeben wurde, die den Arbeitgeber unabhängig vom versicherungsförmigen Durchführungsweg unmittelbar selbst verpflichtet.
+25
+b) Sinn und Zweck der in § 16 Abs. 3 Nr. 2 BetrAVG geregelten Befreiung von der Anpassungsprüfungs- und -entscheidungspflicht nach § 16 Abs. 1 und Abs. 2 BetrAVG verlangen ebenfalls kein Verständnis der Vorschrift dahin, dass sie keine Anwendung findet, wenn eine Pensionskasse ihren eigenen Arbeitnehmern eine betriebsrentenrechtliche Versorgungszusage erteilt, die über sie selbst als Pensionskasse durchgeführt wird.
+26
+aa) Ziel der durch Art. 8 Nr. 17 Buchst. c des Rentenreformgesetzes 1999 vom 16. Dezember 1997 
+(BGBl. I S. 2998)
+ eingeführten und am 1. Januar 1999 in Kraft getretenen Regelung 
+(in ihrer ursprünglichen Fassung, wonach zusätzliche Voraussetzung war, dass zur Berechnung der garantierten Leistung der nach § 65 Abs. 1 Nr. 1 Buchst. a VAG festgesetzte Höchstzinssatz zur Berechnung der Deckungsrückstellung nicht überschritten wird)
+ war, die Erhaltung und Verbreitung der betrieblichen Altersversorgung zu gewährleisten und zu verbessern und damit das Gesamtsystem der betrieblichen Altersversorgung auch für die Zukunft aufrechtzuerhalten. § 16 Abs. 3 Nr. 2 BetrAVG sollte den Arbeitgebern Kalkulationssicherheit gewährleisten. Da Pensionskassen nur vorsichtig kalkulierte Renten vertraglich zusagen dürften und durch die Festlegung eines Höchstrechnungszinses stünden die darüber hinaus erwirtschafteten Überschüsse für eine Leistungserhöhung zur Verfügung. Diese „Zinsdynamik“ sei „nach heutigem Erkenntnisstand“ eine gleichwertige Alternative zur Anpassungsprüfungspflicht nach § 16 Abs. 1 BetrAVG 
+(vgl. BT-Drs. 13/8011 S. 73; BAG 3. Mai 2022 – 3 AZR 408/21 – Rn. 34, BAGE 177, 373)
+. Mit der am 31. Dezember 2015 in Kraft getretenen Neuregelung durch das Gesetz zur Umsetzung der EU-Mobilitäts-Richtlinie vom 21. Dezember 2015 
+(BGBl. I S. 2553)
+, mit der die Bezugnahme auf den Rechnungszins nach dem Versicherungsaufsichtsgesetz ersatzlos entfiel, sollte den betroffenen Arbeitgebern die notwendige Planungssicherheit gegeben werden, ohne die der angestrebte Auf- und Ausbau der betrieblichen Altersversorgung gefährdet wäre 
+(BT-Drs. 18/6283 S. 13)
+.
+27
+bb) Die Erwägungen, die den Gesetzgeber dazu bewogen haben, in der Verwendung der auf den Rentenbestand anfallenden Überschussanteile zur Erhöhung der Betriebsrenten eine gleichwertige Alternative zur Anpassungspflicht zu sehen (vorsichtige Rentenkalkulation, Kalkulations- und Planungssicherheit, Gewährleistung der Erhaltung und Verbreitung des Gesamtsystems der betrieblichen Altersversorgung) bleiben unberührt, wenn zusagender Arbeitgeber und durchführende Pensionskasse zusammenfallen. Die vom Gesetzgeber bei § 16 Abs. 3 Nr. 2 BetrAVG angenommene Zinsdynamik besteht unabhängig davon, ob eine Arbeitgeberin, die selbst Pensionskasse ist, die Versorgung über sich selbst oder über eine andere Pensionskasse zusagt. Die Rechtsstellung des Versorgungsempfängers wird dadurch ebenfalls nicht verkürzt. Eine Abgrenzung der arbeitsvertraglichen von den versicherungsrechtlichen Beziehungen ist ebenso möglich, wenn Arbeitgeberin und durchführende Pensionskasse identisch sind. So kann die Pensionskasse ggf. aufgrund aufsichtsrechtlicher Vorgaben des Versicherungsaufsichtsgesetzes verpflichtet sein, in die von ihr zu erbringenden Versicherungsleistungen einzugreifen. Diese Eingriffe würden aber aufgrund ihrer arbeitsvertraglichen Leistungszusage nicht auf diese durchschlagen, soweit die Leistungen hinter der Versorgungszusage zurückbleiben. Entsprechend der Trennung der unterschiedlichen (arbeitsrechtlichen und versicherungsrechtlichen) Rechtsbeziehungen erfolgt auch eine Trennung der Vermögenswerte. Die aufgrund der Zusagen an eigene Arbeitnehmer geleisteten Beiträge der Pensionskasse werden nach § 125 VAG im Sicherungsvermögen angelegt. Die Pensionskasse hat hierauf in ihrer Funktion als Arbeitgeberin keinen Zugriff. In der Rolle als Arbeitgeberin kann die Beitragsleistung für die eigenen Arbeitnehmer aber als Aufwand für betriebliche Altersversorgung verbucht werden. Der Zielsetzung von § 16 Abs. 3 Nr. 2 BetrAVG entspräche es andererseits gerade nicht, den versorgungsberechtigten Arbeitnehmern der Pensionskasse zusätzlich neben der vom Gesetzgeber als regelmäßig gleichwertig angesehenen Überschussbeteiligung eine Anpassungsprüfung und -entscheidung nach § 16 Abs. 1 BetrAVG zukommen zu lassen.
+28
+3. Das Landesarbeitsgericht hat in revisionsrechtlich nicht zu beanstandender Weise angenommen, dass die Voraussetzungen von § 16 Abs. 3 Nr. 2 BetrAVG erfüllt sind.
+29
+a) Die Norm verlangt, dass ab Rentenbeginn sämtliche auf den Rentenbestand entfallende Überschussanteile zur Erhöhung der laufenden Leistungen verwendet werden.
+30
+aa) Diese Voraussetzungen müssen rechtlich verbindlich bei Beginn der Betriebsrentenleistungen, dem Eintritt des Versorgungsfalls, feststehen. Eine bloß praktische Handhabung, aufgrund derer die Pensionskasse so verfährt, wie es § 16 Abs. 3 Nr. 2 BetrAVG voraussetzt, genügt hingegen nicht 
+(BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 89; ausführlich BAG 18. Februar 2020 – 3 AZR 137/19 – Rn. 51 ff. mwN)
+. Da es auf die Rechtslage zum Zeitpunkt des Eintritts des Versorgungsfalls ankommt, ist es unerheblich, ob sich die Pensionskasse in ihrer tatsächlichen Handhabung an die rechtlichen Vorgaben hält und ob die Überschussverwendung einschließlich der Zuführung zur Beitragsrückstellung im Zeitpunkt über die Entscheidung der Überschussverwendung ordnungsgemäß erfüllt wird. Ausreichend ist insoweit allein, wenn den Versorgungsberechtigten und Versicherten Ansprüche auf Durchsetzung rechtskonformer Überschussberechnung und -verwendung zustehen 
+(vgl. BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 87; 18. Februar 2020 – 3 AZR 137/19 – Rn. 96; 10. Dezember 2019 – 3 AZR 122/18 – Rn. 69, BAGE 169, 72)
+.
+31
+bb) § 16 Abs. 3 Nr. 2 BetrAVG knüpft an einen versicherungsrechtlichen Begriff an. Überschussanteile iSv. § 16 Abs. 3 Nr. 2 BetrAVG sind deshalb solche im Sinne des Versicherungsrechts in der jeweils geltenden Fassung. Sie müssen – im Rahmen des zum Zeitpunkt des Eintritts des Versorgungsfalls versicherungsrechtlich Möglichen – entsprechend der gesetzlichen Vorschriften zugunsten der Betriebsrentner und Versicherten verwendet werden. Das bedeutet gleichzeitig, dass zu diesem Zeitpunkt rechtlich feststehen muss, dass sie weder dem Arbeitgeber noch dem Versicherer zustehen 
+(BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 82; 18. Februar 2020 – 3 AZR 137/19 – Rn. 90)
+.
+32
+(1) Versicherungsrechtlich steht nach § 153 VVG dem Versicherungsnehmer eine Überschussbeteiligung zu, soweit nichts Gegenteiliges vereinbart ist. Was davon im Innenverhältnis dem Versicherungsnehmer – im Regelfall der beitragsleistenden Arbeitgeberin – oder dem Versicherten – dem Arbeitnehmer als Versorgungsberechtigten – zusteht, kann zwischen diesen vertraglich geregelt werden. Eine solche Vereinbarung entfaltet dann im Rahmen allgemeiner versicherungsrechtlicher Grundsätze auch Wirkung gegenüber dem Versicherer. Dies folgt schon daraus, dass nach § 171 Satz 1 VVG ua. von § 153 VVG zum Nachteil der versicherten Person nicht abgewichen werden darf 
+(vgl. BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 83; 18. Februar 2020 – 3 AZR 137/19 – Rn. 91)
+. Regulierte Pensionskassen können allerdings nach § 211 Abs. 2 Nr. 2 VVG in den allgemeinen Versicherungsbedingungen mit Genehmigung der Aufsichtsbehörde Bestimmungen treffen, die von den Vorgaben zur Überschussbeteiligung des § 153 VVG abweichen.
+33
+(2) Nach § 139 Abs. 1 VAG ist die Überschussbeteiligung dem Versicherten entweder unmittelbar zuzuteilen oder in der Bilanz in eine Rückstellung zur Beitragsrückerstattung (RfB) einzustellen. Die dort eingestellten Beträge sind grundsätzlich für die Überschussbeteiligung zu verwenden 
+(§ 140 Abs. 1 VAG)
+. Die Zuführung zur RfB und die Verwendung der Mittel dieser Rückerstattung muss angemessen sein, andernfalls liegt ein die Belange der Versicherten gefährdender Missstand vor 
+(§ 140 Abs. 2 Satz 1 VAG)
+, was ein Eingreifen der BaFin als Aufsichtsbehörde ermöglicht 
+(§ 298 Abs. 1 Satz 1 VAG)
+. Eine Überschussbeteiligung kommt zudem nur insoweit in Betracht, wie die dauernde Erfüllbarkeit der sich aus den Versicherungsverträgen ergebenden Verpflichtungen des Unternehmens beachtet ist. Das ergibt sich aus § 141 Abs. 5 Satz 1 Nr. 4 VAG. Danach hat der gemäß § 141 Abs. 1 VAG zu bestellende verantwortliche Aktuar einen Vorschlag für eine angemessene Beteiligung am Überschuss vorzulegen. Dabei hat er die Erfüllbarkeit der bestehenden Verpflichtungen zu berücksichtigen 
+(vgl. BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 84; 18. Februar 2020 – 3 AZR 137/19 – Rn. 92)
+. Diese Bestimmungen finden gemäß § 234 Abs. 1 iVm. § 212 Abs. 1, § 210 Abs. 1 VAG auch auf Pensionskassen Anwendung.
+34
+(3) Unerheblich ist, ob Überschussanteile überhaupt anfallen. Die Bestimmung der maßgeblichen Überschussanteile und damit auch die Frage, ob versicherungsrechtlich Überschussanteile anfallen, hängt nach dem Vorgesagten von der wirtschaftlichen Situation der Pensionskasse zum Zeitpunkt der Bestimmung über die Überschussverwendung ab. Dies ist für die Anwendbarkeit von § 16 Abs. 3 Nr. 2 BetrAVG unschädlich, da die Regelung lediglich eine zum Zeitpunkt des Versorgungsfalls rechtlich gesicherte Überschussverwendung verlangt, die dazu führt, dass Überschüsse weder dem Arbeitgeber noch dem Versicherer zustehen 
+(vgl. BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 85 f.; 18. Februar 2020 – 3 AZR 137/19 – Rn. 94 f.)
+.
+35
+cc) Grundsätzlich ist für die Erfüllung der Anforderungen des Ausnahmetatbestands des § 16 Abs. 3 Nr. 2 BetrAVG die dauerhafte Erhöhung der laufenden Leistungen notwendig 
+(ausführlich BAG 10. Dezember 2019 – 3 AZR 122/18 – Rn. 112 ff., BAGE 169, 72)
+. Eine nur befristete Erhöhung der Betriebsrente aufgrund der Verteilung von Überschussanteilen ist dann unschädlich, wenn nach den Regelungen in den maßgeblichen Versicherungsbedingungen sichergestellt ist, dass dauernde und gegebenenfalls vorübergehende Rentenerhöhungen in einem angemessenen Verhältnis zueinanderstehen. Zudem darf der Anteil der nur befristeten Erhöhungen der Betriebsrente nicht unangemessen hoch sein 
+(BAG 3. Mai 2022 – 3 AZR 374/21 – Rn. 41 f., BAGE 177, 358; 10. Dezember 2019 – 3 AZR 122/18 – Rn. 114, aaO)
+. Auch muss die Erhöhung denselben Rechtscharakter haben wie laufende Leistungen, es muss sich daher um betriebliche Altersversorgung im Sinne des Betriebsrentengesetzes handeln. Die Voraussetzungen von § 16 Abs. 3 Nr. 2 BetrAVG sind mithin nicht erfüllt, soweit die Möglichkeit besteht, Überschussanteile auch für Sterbegeld zu verwenden 
+(BAG 10. Dezember 2019 – 3 AZR 122/18 – Rn. 116 f., aaO)
+.
+36
+dd) § 16 Abs. 3 Nr. 2 BetrAVG verlangt, dass sämtliche „auf den Rentenbestand entfallende Überschussanteile“ zur Erhöhung der laufenden Leistungen verwendet werden. Dabei stellt das Gesetz auf den Bestand ab, dem die Rente zugehört. Es dürfen daher nur solche Versicherungsverträge miteinander verbunden werden, die einen engen Bezug zur Versicherung des Betriebsrentners haben. Das erfordert eine verursachungsorientierte Zusammenfassung iSv. § 153 Abs. 2 Satz 1 Halbs. 1 VVG 
+(BAG 3. Mai 2022 – 3 AZR 374/21 – Rn. 29, BAGE 177, 358; 10. Dezember 2019 – 3 AZR 122/18 – Rn. 74 ff., BAGE 169, 72)
+. Versicherungsverträge dürfen dabei nach anerkannten versicherungsmathematischen Grundsätzen zu Bestandsgruppen und Gewinnverbänden zusammengefasst werden, soweit sich die Verteilung des Überschusses daran orientiert, in welchem Umfang die Gruppe oder der Gewinnverband zur Entstehung des Überschusses beigetragen hat. Das Verteilungssystem muss die Verträge sachgerecht unter dem Gesichtspunkt der Überschussverteilung zusammenfassen und darauf angelegt sein, den zur Verteilung bestimmten Betrag nach den Kriterien der Überschussverursachung einer Gruppe zuzuordnen sowie dem einzelnen Vertrag dessen rechnerischen Anteil an dem Betrag der Gruppe zuzuschreiben 
+(BAG 18. Februar 2020 – 3 AZR 137/19 – Rn. 66)
+.
+37
+b) Die Annahme des Landesarbeitsgerichts, diese Voraussetzungen seien für die Leistungen des Beklagten aus den Tarifen A und B erfüllt, lässt keine Rechtsfehler erkennen.
+38
+aa) Für die Frage, ob bei Eintritt des Versorgungsfalls die maßgeblichen Voraussetzungen des § 16 Abs. 3 Nr. 2 BetrAVG rechtlich verbindlich feststehen, sind neben der zum 1. Oktober 2016 anwendbaren Satzung 2015, den AVB 2015 und den Tarifbedingungen 
+(vgl. § 1 Nr. 4 Satzung 2015)
+ auch die TGP alt und neu heranzuziehen. Gegen diese Annahme des Berufungsgerichts wendet sich auch der Kläger nicht. Die TGP sind Grundlage für die nähere Bestimmung der Rechte der Versorgungsberechtigten. Das ergibt sich – wie das Landesarbeitsgericht zutreffend angenommen hat – mit hinreichender Deutlichkeit daraus, dass sie in den AVB 2015 allgemein vorausgesetzt und an verschiedenen Stellen in Bezug genommen sind 
+(vgl. etwa § 15b Nr. 4, § 24 Nr. 5, § 29 AVB 2015)
+. Auch die Satzung 2015 erwähnt in § 16 Nr. 3, dass die Rückstellung für Beitragsrückerstattung nach „geschäftsplangemäßen“ Grundsätzen zu verwenden ist, was die Technischen Geschäftspläne zumindest mit einbezieht. An der wirksamen Einbeziehung bestehen keine Bedenken. Das Erfordernis der zumutbaren Kenntnisnahme iSv. § 305 Abs. 2 BGB gilt nach § 310 Abs. 4 Satz 2 Halbs. 2 BGB nicht bei der Anwendung auf Arbeitsverträge.
+39
+bb) Die Bestimmungen in § 16 Nr. 3 Satzung 2015, § 15b AVB 2015 iVm. den TaB 2015 Tarif A und B und den TGP neu und alt stellen sicher, dass ab Rentenbeginn – im Rahmen des versicherungsrechtlich Möglichen – sämtliche auf den Rentenbestand der Tarife A und B entfallenden Überschussanteile zur Erhöhung der laufenden Leistungen verwendet werden und weder den beitragsleistenden Arbeitgebern (und damit auch dem Beklagten in seiner Funktion als Arbeitgeber) noch der Pensionskasse zukommen.
+40
+(1) Nach § 16 Nr. 3 Satzung 2015 ist der Überschussanteil, der nicht nach § 16 Nr. 2 Satzung 2015 der Verlustrücklage zuzuführen ist 
+(vgl. § 194 VAG)
+, der RfB zuzuführen 
+(vgl. § 139 Abs. 1 VAG)
+. Durch die Einstellung in die RfB wird der Überschuss der Kasse – in Höhe des den Leistungsempfängern zustehenden Anspruchs – speziell für die Versicherten gebunden 
+(Demmler in Stöckler/Karst Steuerrecht der betrieblichen Altersversorgung Teil 5 C IV Rn. 652)
+. Diese Rückstellung ist 
+(entsprechend § 140 Abs. 1 VAG)
+ nach § 16 Nr. 3 Satzung 2015 nach geschäftsplangemäßen Grundsätzen zur Erhöhung bzw. zur Verbesserung der Leistungen und zu sonstigen geschäftsplangemäßen Zwecken für die einzelnen Tarife zu verwenden. Art, Umfang und Zeitpunkt der Rückstellungsverwendung beschließt die Mitgliederversammlung aufgrund von Vorschlägen, die der Vorstand und der verantwortliche Aktuar unterbreiten. Nach § 15b Nr. 2 Abs. 1 AVB 2015 wiederum werden alle Versicherungsverträge nach Maßgabe des § 16 der Satzung angemessen und verursachungsgerecht am handelsbilanziellen Überschuss beteiligt. Dies wird von der Aufsichtsbehörde überwacht. Jede einzelne Versicherung innerhalb eines nach Maßgabe von § 15b Nr. 2 Abs. 1 Sätze 4 ff. AVB 2015 gebildeten Überschussverbandes erhält einen Anteil an den ihm zugeordneten Überschüssen. Der Vorstand der Pensionskasse unterbreitet dazu aufgrund eines Vorschlags des verantwortlichen Aktuars jährlich der Mitgliederversammlung zur Beschlussfassung einen Überschussverwendungsvorschlag für die in der RfB reservierten Mittel. Nr. 10.1 Satz 2 TGP neu und Nr. 12.1 Satz 2 TGP alt legen sodann für die Tarife A und B fest, dass die der RfB zugewiesenen Beiträge „ausschließlich“ für die Überschussbeteiligung der Versicherungsnehmer bestimmt sind. Nach Nr. 10.2 TGP neu und Nr. 12.2 TGP alt sind überschussberechtigt alle Versicherungen; die Überschussbeteiligung besteht aus laufenden Überschussanteilen und – bei aufgeschobenen Rentenversicherungen – einem Schlussüberschussanteil. Diese Regelungen stellen sicher, dass der auf den Rentenbestand entfallende Überschuss weder den Arbeitgebern noch dem Beklagten selbst, sondern den Versicherten zusteht und zur Erhöhung der laufenden Renten („aus laufenden Überschussanteilen“) verwendet wird, also nicht zu befristeten Zahlungen oder zur Finanzierung von Leistungen, die keine betriebliche Altersversorgung darstellen.
+41
+(a) Der Umstand, dass nach § 16 Nr. 2 Satzung 2015 Überschüsse satzungsgemäß zunächst einer zur Deckung von Fehlbeträgen gebildeten Verlustrücklage zugeführt werden, steht der Annahme, dass „sämtliche“ auf den Rentenbestand entfallenden Überschussanteile zur Erhöhung der laufenden Leistungen verwendet werden müssen, nicht entgegen. Das folgt aus § 194 Abs. 1 Satz 1 VAG. Danach ist ein sich nach der Bilanz ergebender Überschuss, soweit er nicht nach der Satzung der Verlustrücklage oder anderen Rücklagen zuzuführen oder zur Verteilung von Vergütungen zu verwenden oder auf das nächste Geschäftsjahr zu übertragen ist, an die in der Satzung bestimmten Mitglieder zu verteilen 
+(BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 79 f.)
+. Die satzungsgemäße Dotierung der Verlustrücklage geht der Überschussverteilung an die Mitglieder danach zwingend vor, was sich aus Gründen der Finanzverfassung und der Grundentscheidung für den Vorrang der Innenfinanzierung des Versicherungsvereins auf Gegenseitigkeit ergibt 
+(Dreher/Schaaf VAG 14. Aufl. § 194 Rn. 2)
+. Nach § 16 Nr. 3 Satzung 2015 steht der „restliche“ Überschuss – nur dieser ist betriebsrentenrechtlich maßgeblich – weder den Arbeitgebern noch dem Beklagten als Pensionskasse zu, sondern den Versicherten.
+42
+(b) Unschädlich ist – entgegen der Ansicht des Klägers – auch, dass nach § 16 Nr. 3 Satzung 2015 der Überschuss zur Erhöhung „bzw. zur Verbesserung der Leistungen“ zu verwenden ist. Die Formulierung steht – anders als der Kläger meint – einer gesicherten Verwendung sämtlicher auf den Rentenbestand entfallender Überschussanteile zur Erhöhung der laufenden Rentenleistungen nicht entgegen. Mit der Vorgabe einer Verwendung der Überschüsse auch für die „Verbesserung der Leistungen“ bedient sich die Satzung der in § 1b Abs. 5 BetrAVG und § 2 Abs. 3 Satz 2 Nr. 2 BetrAVG gesetzlich geregelten identischen Begrifflichkeit, die sich dort (im Wesentlichen) auf die Versicherungsverträge bezieht, die sich noch nicht in der Bezugs-, sondern in der Anwartschaftsphase befinden. Das ist in Bezug auf die Überschussverwendung dem Umstand geschuldet, dass der Beklagte nach § 138 Abs. 2 VAG iVm. § 234 Abs. 1, § 212 Abs. 1 VAG verpflichtet ist, die Überschussanteile auf Anwärter und Rentner zu verteilen. Danach müssen (auch) Pensionskassen bei gleichen Voraussetzungen Prämien und Leistungen nach gleichen Grundsätzen bemessen. Hinsichtlich der Verteilung von Überschüssen und der damit verbundenen Leistungen besteht kein Unterschied zwischen Anwärtern und Rentnern, da beide Personengruppen als Versorgungsberechtigte einen Anteil am Vertragsbestand haben 
+(BAG 10. Dezember 2019 – 3 AZR 122/18 – Rn. 89, BAGE 169, 72)
+. Die Satzungsregelung legt dagegen keineswegs fest, es sei zulässig, nur den Anwärterbestand zu bedienen. Vielmehr erfolgt die Erhöhung bzw. Verbesserung der Leistungen gemäß § 16 Nr. 3 Satz 2 Satzung 2015 nach geschäftsplangemäßen Grundsätzen und damit unter Berücksichtigung der AVB 2015, der TaB 2015 und auch der TGP. Ohne Erfolg wendet der Kläger insoweit ein, dass durch die Zulässigkeit der Überschussverwendung auch zur „Verbesserung“ der Leistungen die Zahlung eines Sterbegeldes oder anderer Einmalleistungen, zum Beispiel die Gewährung einer 13. und 14. Monatsrente oder nur befristete Erhöhungen, für den Rentenbestand nicht ausgeschlossen seien. Für den Rentenbestand hat die Überschussbeteiligung nach Nr. 10.2 TGP neu bzw. 12.2 TGP alt vielmehr allein durch laufende Überschussanteile zu erfolgen.
+43
+(c) Soweit § 16 Nr. 3 Satz 4 Satzung 2015 den Vorstand berechtigt, mit Zustimmung der Aufsichtsbehörde in Ausnahmefällen die RfB, soweit sie nicht auf bereits festgelegte Überschussanteile entfällt, im Interesse der Versicherten im Rahmen von § 56a VAG heranzuziehen, gibt die Satzung nur das wieder, was mittlerweile § 140 Abs. 1 Satz 2 VAG 
+(vormals § 56a Abs. 3 VAG aF)
+ gesetzlich regelt. Danach kann die RfB in Ausnahmefällen, soweit sie nicht auf bereits festgelegte Überschussanteile entfällt, mit Zustimmung der Aufsichtsbehörde im Interesse der Versicherten herangezogen werden, um einen drohenden Notstand abzuwenden, unvorhersehbare Verluste aus den überschussberechtigten Versicherungsverträgen auszugleichen, die auf allgemeine Änderungen der Verhältnisse zurückzuführen sind, oder die Deckungsrückstellung zu erhöhen, wenn die Rechnungsgrundlagen aufgrund einer unvorhersehbaren und nicht nur vorübergehenden Änderung der Verhältnisse angepasst werden müssen. Für die in Nr. 10.1 Satz 3 TGP neu und Nr. 12.1 Satz 3 TGP alt formulierten Verwendungsvorbehalte gilt entsprechendes. Mit diesen Vorbehalten werden versicherungsaufsichtsrechtliche Vorgaben aufgegriffen, die voraussetzen, dass die abweichende Verfahrensweise dem Interesse der Versicherten entspricht, die Aufsichtsbehörde ihre Zustimmung gibt und die – im Interesse der Versicherten – der Annahme eines Überschusses entgegenstehen. Eine Überschussbeteiligung kommt nur insoweit in Betracht, wie die dauernde Erfüllbarkeit der sich aus den Versicherungsverträgen ergebenden Verpflichtungen des Unternehmens beachtet ist. Soweit § 15b Nr. 2 AVB 2015 vorgibt, dass die in die RfB eingestellten Mittel „grundsätzlich“ nur für die Überschussbeteiligung innerhalb des jeweiligen Überschussverbandes verwendet werden dürfen und eine Zuteilung von Überschüssen entfallen kann, sofern dies „sachlich gerechtfertigt“ ist, ist damit dem in § 140 Abs. 1 Satz 2 VAG geregelten Ausnahmefall Rechnung getragen.
+44
+(d) Ohne Erfolg macht der Kläger geltend, dass die Überschussbeteiligung nach Nr. 10.1 Satz 2 TGP neu und Nr. 12.1 Satz 2 TGP alt allgemein den „Versicherungsnehmern“ zusteht. Versicherungsnehmer im Sinne dieser Regelungen sind die Arbeitnehmer als Mitglieder der Pensionskasse bzw. im Rentenbezug stehende ehemalige Arbeitnehmer und Versicherte. Die Formulierung hat mithin nicht zur Folge, dass nicht sämtliche auf den Rentenbestand entfallende Überschussanteile den im Rentenbezug stehenden Leistungsempfängern zugutekommen. Richtig ist, dass der Begriff „Versicherungsnehmer“ sowohl die Rentner als auch die Anwärter erfasst. Dies ist aber – wie oben ausgeführt – nach § 138 Abs. 2 VAG unschädlich.
+45
+(e) Ebenfalls unschädlich ist, dass nach § 16 Nr. 3 Satz 2 Satzung 2015 die RfB zur Erhöhung bzw. zur Verbesserung der Leistungen „und zu sonstigen geschäftsplangemäßen Zwecken für die einzelnen Tarife“ zu verwenden ist.
+46
+(aa) Geschäftsplangemäße Zwecke sind solche, die dem Geschäftsplan des Beklagten entsprechen. Der „Geschäftsplan“ wiederum besteht – neben dem Technischen Geschäftsplan – nach § 9 Abs. 1, 2 und 3 VAG aus der Satzung und weiteren fachlichen Geschäftsunterlagen. Weder die Satzung 2015 noch die TGP alt und TGP neu sehen für die auf den Rentenbestand der Tarife A und B (also „für die einzelnen Tarife“) entfallenden Überschussanteile – soweit versicherungsrechtlich möglich – eine andere Verwendung als eine Erhöhung von Leistungen vor. Auch durch den Vorbehalt, dass die Verwendung „für die einzelnen Tarife“ zu erfolgen hat, ist eine Verwendung gegen die finanziellen Interessen der Versorgungsberechtigten, etwa zugunsten der beitragsleistenden Arbeitgeber, ausgeschlossen.
+47
+(bb) Ohne Erfolg macht der Kläger in diesem Zusammenhang geltend, die Auflösung der RfB zum 31. Dezember 2002 in Höhe von 18.483.539,93 Euro habe eine solche Verwendung „zu sonstigen geschäftsplangemäßen Zwecken“ dargestellt. Dabei kann dahinstehen, ob – wie der Beklagte vorträgt – die Auflösung der RfB nebst entsprechenden Leistungsherabsetzungen damals aufgrund des zum 31. Dezember 2001 festgestellten Verlustes in Höhe von 153.366.523,50 Euro unter Inanspruchnahme einer § 16 Nr. 4 Satzung 2015 entsprechenden früheren Satzungsregelung vorgenommen wurde. Jedenfalls ist im Ergebnis unerheblich, ob die Überschussverwendung einschließlich der Zuführung zur Beitragsrückstellung in der Vergangenheit ordnungsgemäß erfüllt wurde. Ausreichend ist insoweit allein, ob den Versorgungsberechtigten und Versicherten Ansprüche auf Durchsetzung rechtskonformer Überschussberechnung und -verwendung zustehen 
+(vgl. BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 87)
+. Dies gilt entsprechend für die vom Kläger angeführte Auflösung einer aus zuvor vorhandenen Überschüssen gebildeten Rückstellung für „Barber-Fälle“ im Jahr 2005.
+48
+(f) Schließlich moniert der Kläger zu Unrecht die Verwendungsmöglichkeit nach Nr. 12.2.1 Abs. 2 TGP alt. Danach kann bei Versicherungen, die von der im Jahre 2003 beschlossenen Leistungsherabsetzung betroffen sind, die Leistungserhöhung als Minderung des jeweils zum 1. Juli wirksamen Herabsetzungsfaktors gewährt werden. Diese Verwendungsvariante steht der Annahme, die auf den Rentenbestand entfallenden Überschussanteile seien zur Erhöhung der laufenden Leistungen zu verwenden, nicht entgegen. Auch die Minderung des jährlichen Herabsetzungsfaktors stellt für den Rentenbestand eine Erhöhung der laufenden Renten dar. Die durch laufende Überschussanteile zu erhöhende Rentenleistung ist die, die dem Betriebsrentner nach dem Versorgungswerk noch zusteht. Diese herabgesetzte Rente wird durch die Minderung des Herabsetzungsfaktors erhöht. Die Verteilung der Schlussüberschussanteile betrifft die Anwartschaftsphase und nicht die laufenden Renten.
+49
+(2) Der Kläger hat als Versorgungsberechtigter auch die Möglichkeit, die versicherungsrechtlichen Vorgaben gegenüber dem Beklagten rechtlich durchzusetzen. Das folgt aus der grundrechtlichen Position der Versicherten aus Art. 14 und Art. 2 Abs. 1 GG 
+(ausführlich dazu BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 93 ff.; 18. Februar 2020 – 3 AZR 137/19 – Rn. 83 ff.)
+. Der Gesetzgeber ist danach verfassungsrechtlich gehalten, im Rahmen seiner Schutzpflicht für eine angemessene Überschussbeteiligung zu sorgen, jedenfalls soweit eine Überschussbeteiligung vertraglich zugesagt ist 
+(vgl. BVerfG 26. Juli 2005 – 1 BvR 80/95 – zu C I 2 b der Gründe, BVerfGE 114, 73)
+. Diese Schutzpflicht erfordert es weiter, dass aus dem Gesetz angemessene Maßstäbe abgeleitet werden und der Berechtigte die Möglichkeit hat, die Regelungen zur Sicherung seiner Rechte unmittelbar zivilrechtlich durchzusetzen 
+(BAG 18. Februar 2020 – 3 AZR 137/19 – Rn. 86)
+. Daraus folgt, dass nicht nur die rechtlichen Vorgaben nach dem Versicherungsvertragsrecht, sondern auch die versicherungsaufsichtsrechtlichen Regelungen im zivilrechtlichen Wege durchgesetzt werden können 
+(vgl. BGH 27. Juni 2018 – IV ZR 201/17 – Rn. 27 ff., BGHZ 219, 129)
+. Die gerichtliche Kontrolle betrifft dabei nicht nur die Frage, ob der Überschuss ordnungsgemäß berechnet ist und der Versicherer ihn nicht unberechtigt für sich behält, sondern auch die Frage, ob er zwischen den Berechtigten ordnungsgemäß verteilt wird. Eine derartige Klärung kann auch der Kläger als Versorgungsberechtigter, Betriebsrentner und Versicherter herbeiführen 
+(BAG 18. Februar 2020 – 3 AZR 137/19 – Rn. 87)
+. Unerheblich ist dagegen, ob die Überschussverwendung einschließlich der Zuführung zur RfB in der Vergangenheit ordnungsgemäß erfolgt ist. Ausreichend ist insoweit allein, dass auch den Versorgungsberechtigten und Versicherten Ansprüche auf Durchsetzung rechtskonformer Überschussberechnung und -verwendung zustehen. Daher kommt es nicht entscheidend darauf an, ob – wie der Kläger behauptet hat – der Beklagte in der Vergangenheit bis 2003 seinen Anwartschaftsberechtigten und Rentnern unbefristete Leistungserhöhungen („unbefristete Gewinnanteile“), den Rentnern aber auch nur befristete Leistungsverbesserungen („befristete Gewinnzuschläge“) in einer Höhe von bis zu 30 % gewährt hat.
+50
+(3) Die Zusammenfassung der Abrechnungs- und Gewinnverbände für die Tarife A und B hat nach den dazu im Zeitpunkt des Rentenbeginns bestehenden Regelungen der AVB 2015, der TaB 2015 und der TGP alt und neu entsprechend § 153 Abs. 2 VVG verursachungsorientiert zu erfolgen; dem einzelnen Vertrag ist danach auch dessen rechnerischer Anteil des zu verteilenden Überschusses an dem Betrag der Gruppe zuzuschreiben.
+51
+(a) Nach § 16 Nr. 5 Satzung 2015 hat die Verwendung von Überschüssen für die selbständig gebildeten Abteilungen des Sicherungsvermögens (Anlagestock) im Rahmen eigenständiger Überschussverbände jeweils gesondert zu erfolgen. Entsprechend gibt § 15b Nr. 1 Satz 2 AVB 2015 vor, dass alle Versicherungen eines Tarifs entsprechend der Einteilung des Sicherungsvermögens in selbständige Abteilungen in jeweils eigenen Überschussverbänden zusammengefasst werden. Es werden danach eigenständige Überschussverbände gebildet. Die einzelnen Gewinnverbände für die Tarife A und B legen die Bestimmungen in A § 5 TaB 2015 und B § 6 TaB 2015 fest, sie werden nach Begründungszeitpunkt und damit Höhe des Rechnungszinses in Gruppen zusammengefasst. § 15b Nr. 2 AVB 2015 verlangt weiter, dass alle Versicherungsverträge angemessen und verursachungsgerecht am handelsbilanziellen Überschuss beteiligt werden. Die Überschussverbände werden nach diesen Kriterien in den einzelnen Tarifen gebildet. Nach den in den Entscheidungsgründen getroffenen, nicht mit Verfahrensrügen angegriffenen und damit für den Senat nach § 559 ZPO bindenden Feststellungen des Landesarbeitsgerichts hat der Beklagte die einzelnen Gewinnverbände verursachungsgerecht gebildet und mit gleichen Merkmalen hinsichtlich Risiko sowie Zins, Biometrie (nach sog. Sterbetafeln) und Kosten zusammengefasst 
+(vgl. BAG 3. Mai 2022 – 3 AZR 408/21 – Rn. 26, BAGE 177, 373)
+. Hinsichtlich ihres Anteils an den erzielten Überschüssen ähneln sich die Verträge. Sie enthalten denselben Garantiezins, sind im ähnlichen Zeitraum abgeschlossen worden, beruhen auf denselben Sterbetafeln und versichern dieselben Risiken. Es ist schließlich in § 15b Nr. 2 AVB 2015 ausdrücklich vorgesehen, dass der verteilungsfähige Überschuss den einzelnen Überschussverbänden verursachungsgemäß zugeordnet und der RfB zugeführt wird. Dabei dürfen die in die RfB eingestellten Mittel grundsätzlich nur für die Überschussbeteiligung der innerhalb des jeweiligen Überschussverbandes Versicherten des jeweiligen Tarifes verwendet werden. Die verursachungsgerechte Zuordnung der laufenden Überschussanteile zu den einzelnen Verträgen ergibt sich zudem aus Nr. 10.2.1 TGP neu und Nr. 12.2.1 TGP alt.
+52
+(b) Ohne Erfolg wendet der Kläger in diesem Zusammenhang ein, bei der tatsächlichen Handhabung der Überschussverteilung durch den Beklagten würden aufgrund einer Empfehlung der BaFin aus dem Jahr 2004 Verträge mit geringerem Garantiezins durch Verträge mit höherem Garantiezins „quersubventioniert“.
+53
+(aa) In der vom Kläger angesprochenen, in den Entscheidungsgründen des Berufungsurteils festgestellten und zwischen den Parteien nicht streitigen Empfehlung der BaFin aus dem Jahr 2004 
+(„Hinweise zur Wahrung des Gleichbehandlungsgrundsatzes gemäß § 11 Abs. 2 VAG bei der Verteilung der Überschüsse an die Versicherungsnehmer“, VerBaFin 07/2004 S. 3 ff.) 
+hatte diese eine Empfehlung zur Überschussverwendung für die Situation abgegeben, in der die Kapitalerträge „aktuell nicht mehr ausreichen, alle Rechnungszinsgenerationen mit derselben Gesamtverzinsung zu bedienen“. Danach sei die garantierte Verzinsung immer entsprechend den vertraglichen Vereinbarungen zu bedienen. Reichten die Mittel nicht aus, um allen Versicherungsnehmern eine gleiche Gesamtverzinsung zu gewähren, komme es zwangsläufig zu einer Quersubventionierung der Bestände mit höherem Rechnungszins durch die Bestände mit niedrigerem Rechnungszins. Zur Wahrung des Gleichbehandlungsgrundsatzes seien daher diejenigen Mittel, die an die Bestände mit höherem Rechnungszins ausgeliehen wurden, sobald wie möglich wieder an die Bestände niedrigerer Rechnungszinsgenerationen zurückzuführen („internes Darlehen“) und angemessen zu verzinsen. Der Beklagte hat dazu angegeben, er orientiere sich bei der verursachungsorientierten Zuteilung von Zinsüberschüssen am Ziel einer möglichst gleichen Gesamtverzinsung für die Versicherungsnehmer innerhalb der jeweiligen Tarife und habe sich dabei von den Grundsätzen der BaFin-Hinweise aus 2004 leiten lassen.
+54
+(bb) Diese Vorgehensweise steht dem Vorliegen der Voraussetzungen nach § 16 Abs. 3 Nr. 2 BetrAVG nicht entgegen.
+55
+(aaa) Entgegen der Ansicht des Klägers werden hierdurch nicht Verträge mit geringerem Garantiezins durch Verträge mit höherem Garantiezins „quersubventioniert“. Vielmehr kommt es allenfalls zu einer Art umgekehrter Zwischenfinanzierung der Tarifgruppen mit höherem Rechnungszins durch die Tarifgruppen mit niedrigerem Rechnungszins. Verträge mit niedrigerem Garantiezins tragen in höherem Maße zu der Erwirtschaftung eines Überschusses bei, da der Überschuss nicht durch den Garantiezins geschmälert wird und zudem niedrigere Garantiezinsen risikoreichere Anlagen ermöglichen, die potentiell zu höheren Erträgen führen 
+(BAG 3. Mai 2022 – 3 AZR 408/21 – Rn. 25, BAGE 177, 373)
+.
+56
+(bbb) Da die zur Quersubventionierung genutzten Mittel verzinst und sobald wie möglich an die Tarifgruppen mit niedrigerem Rechnungszins zurückgeführt werden, ist die Vorgehensweise im Hinblick auf die nach § 16 Abs. 3 Nr. 2 BetrAVG erforderliche verursachungsorientierte Zusammenfassung der Abrechnungs- und Gewinnverbände für die Tarife A und B unschädlich. Nach der Rechtsprechung des Senats ist zwar eine Zusammenfassung von Abrechnungsverbänden nach den unterschiedlichen Tarifen und den in diesen vereinbarten Rechnungszinsen notwendig, da verschiedene Gruppen von Versicherungsnehmern unterschiedlich zur Überschusserwirtschaftung beitragen und deshalb erforderlich, sie auch bei der Überschussbeteiligung unterschiedlich zu behandeln 
+(BAG 3. Mai 2022 – 3 AZR 408/21 – Rn. 25, BAGE 177, 373)
+. Kommt es hingegen – wie vorliegend aufgrund der Rückführung der Mittel – nicht zu einem endgültigen Geldabfluss aus dem einen Abrechnungs- und Gewinnverband hin zum anderen, der die Verwendung von Überschussanteilen zur Erhöhung der laufenden Leistungen verhindern oder beeinträchtigen würde, sind die Tarife und die Überschussverteilung tatsächlich verursachungsorientiert vorgenommen 
+(vgl. BAG 3. Mai 2022 – 3 AZR 374/21 – Rn. 37 f., BAGE 177, 358; vgl. zu einer dauerhaften Quersubventionierung zuletzt auch BGH 18. September 2024 – IV ZR 436/22 – Rn. 57 f., BGHZ 241, 254).
+57
+(ccc) Im Übrigen ist es unerheblich, ob die Überschussverwendung tatsächlich ordnungsgemäß erfolgt. Ausreichend ist insoweit allein, dass den Versorgungsberechtigten und Versicherten Ansprüche auf Durchsetzung rechtskonformer Überschussberechnung und -verwendung zustehen 
+(vgl. BAG 3. Juni 2020 – 3 AZR 166/19 – Rn. 87; 18. Februar 2020 – 3 AZR 137/19 – Rn. 96)
+.
+58
+(c) Soweit der Kläger schließlich einwendet, die Vorgehensweise des Beklagten verdeutliche, dass die Zuordnung der Überschüsse zu den einzelnen Gewinnverbänden tatsächlich vertraglich ungeregelt sei, weil die Vorschlagsmöglichkeiten des verantwortlichen Aktuars hier Spielraum ließen, bleibt auch das ohne Erfolg. Das Regelungswerk des Beklagten 
+(insbesondere § 15b Nr. 2 AVB 2015 und Nr. 10.2.1 TGP neu bzw. Nr. 12.2.1 TGP alt)
+ sichert die verursachungsorientierte Bildung von Überschussverbänden und die verursachungsorientierte Zuordnung der laufenden Überschussanteile zu den einzelnen Verträgen – wie oben dargestellt – hinreichend. Soweit der Vorstand der Pensionskasse dazu nach § 15b Nr. 2 Abs. 2 AVB 2015 jährlich der Mitgliederversammlung zur Beschlussfassung einen Überschussverwendungsvorschlag aufgrund eines Vorschlags des verantwortlichen Aktuars für die in der Rückstellung für Beitragsrückerstattung reservierten Mittel unterbreitet, entspricht das den versicherungsaufsichtsrechtlichen Vorgaben. Nach § 141 Abs. 5 Satz 1 Nr. 4 iVm. § 234 VAG hat der verantwortliche Aktuar für die Versicherungsverträge mit Anspruch auf Überschussbeteiligung dem Vorstand der Pensionskasse Vorschläge für eine angemessene Beteiligung am Überschuss vorzulegen und dabei die dauernde Erfüllbarkeit der sich aus den Versicherungsverträgen ergebenden Verpflichtungen des Unternehmens zu berücksichtigen.
+59
+III. Auf die Frage, ob der Beklagte eine Anpassung nach § 16 Abs. 1 BetrAVG auch aufgrund seiner wirtschaftlichen Situation ablehnen durfte, kommt es demnach nicht an.
+60
+C. Der Kläger hat die Kosten der Revision nach § 97 Abs. 1 ZPO zu tragen.
+    Rachor    
+    Roloff    
+    Waskow    
+    Sengelmann    
+    Schuch    
+Seite drucken
+Das Bundesarbeitsgericht
+                  Aktuelles und Veranstaltungen                
+                  Das Bundesarbeitsgericht                
+                  Entscheidungen                
+                  Ihr Besuch bei uns                
+                  Presse                
+                  Service                
+DE
+EN
+Cookie-Einstellungen
+                RSS Feeds                 
+Impressum
+Datenschutz
+Barrierefreiheit
+Inhalte
+© 2026 Das Bundesarbeitsgericht      
+Informationen
+Die mündlichen Verhandlungen vor dem Bundesarbeitsgericht sind öffentlich. Eine Teilnahme ist ohne Anmeldung möglich.
+Bei Besuchen von Gruppen ist eine rechtzeitige Anmeldung mit dem nachfolgenden Formular erforderlich. Die mündlichen Verhandlungen finden in der Regel von Dienstag bis Donnerstag, jeweils mit Beginn am Vormittag statt. Die Termine zu den Verhandlungen finden Sie 
+hier
+.
+Einzelpersonen können ohne vorherige Anmeldung an mündlichen Verhandlungen im Bundesarbeitsgericht teilnehmen. Auch hier empfehlen wir jedoch eine schriftliche Anmeldung.
+Ist zu einer Sitzung eine größere Anzahl von Zuhörern oder Vertretern der Medien zu erwarten, werden Platzkarten ausgegeben. Das jeweilige Verfahren wird im Einzelfall geregelt. Bitte haben Sie Verständnis dafür, dass aufgrund der organisatorischen Gegebenheiten und der großen Nachfrage nicht alle Anfragen positiv beantwortet werden können.
+Hinweise für Besucherinnen und Besucher:
+Für den Zutritt zum Gebäude des Bundesarbeitsgerichts muss sich jeder Besucher ggf. mit einem gültigen Personalausweis oder Reisepass ausweisen können. Größere Gepäckstücke (Koffer/Rucksäcke) dürfen nicht in die Sitzungssäle mitgenommen werden. In Einzelfällen können Sicherheitskontrollen durchgeführt werden, die zu Wartezeiten führen können. Wird die Durchführung von Sicherheitskontrollen (Taschenkontrolle, Einsatz von Personenscanner und/oder Taschenscanner) durch Besucher verweigert, wird der Person/den Personen der Zugang zum Gebäude nicht gestattet. 
+Besucherinnen und Besucher sind Ton-, Bild- und Filmaufnahmen während der Verhandlung untersagt. In den Sitzungssälen sind Mobil-Telefone auszuschalten.
+Für den Sitzungsbesuch am Bundesarbeitsgericht gibt es zwar keine gesonderte Kleiderordnung, aus Respekt vor der Rechtsprechung und angesichts der Bedeutung, die diese für die Betroffenen hat, ist es jedoch angemessen, eine offizielle und dem Anlass entsprechende Kleidung zu tragen. Dies beinhaltet auch, dass Sitzungen in den Sommermonaten nicht in kurzen Hosen, Miniröcken und Flip-Flops etc. aufgesucht werden.
+Essen und Trinken sind in den Sitzungssälen nicht gestattet. Das gesamte Gebäude des Bundesarbeitsgerichts einschließlich des Innenhofes ist rauchfrei.
+Bitte füllen Sie nun das nachfolgende Formular für Ihren geplanten Sitzungsbesuch aus.
+Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.
+Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer 
+Datenschutzerklärung
+.
+Felder, die mit 
+*
+ gekennzeichnet sind, sind Pflichtfelder.
+Ihre Kontaktdaten
+Vorname
+Nachname
+E-Mail-Adresse
+Telefonnummer
+Organisation
+Anzahl der Teilnehmer (max. 30)
+Betreff
+Sitzungsinformationen
+Senat
+– Bitte auswählen –
+9. Senat
+8. Senat
+7. Senat
+6. Senat
+5. Senat
+4. Senat
+3. Senat
+2. Senat
+10. Senat
+1. Senat
+Tag des Besuchs
+Aktenzeichen
+Weitere Kommentare
+450
+Zeichen übrig
+Please leave this field empty.
+Ja, ich habe die 
+Datenschutzerklärung
+ zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.
+ *
+Informationen
+Mit dem nachfolgenden Formular bitten wir Medienvertreter, sich für einen Sitzungstermin beim Bundesarbeitsgericht anzumelden.
+Fotos- und Filmaufnahmen im Sitzungssaal sind nur durch Medienvertreter und in der Regel nur vor Einzug des Senats gestattet. Eine gesonderte Akkreditierung ist hierfür nicht erforderlich. Wir bitten bei Interesse dennoch um einen Hinweis mit folgendem Formular.
+Ist die Aufnahme der Verkündung einer Entscheidung in Bild und Ton zugelassen (§ 169 Abs. 3 Satz 1 GVG iVm. § 72 Abs. 6 ArbGG) wird dies unter 
+Sitzungstage
+ gesondert bekannt gegeben. Mit der Veröffentlichung beginnt das Akkreditierungsverfahren.
+Für Fernseh- und Filmaufnahmen von der Entscheidungsverkündung werden ggf. Medienpools gebildet. Zugelassen werden zwei Fernseh-/Filmteams (ein öffentlich-rechtlicher und ein privat-rechtlicher Sender mit jeweils einer Kamera). Die Poolführer verpflichten sich, gefertigte Fernseh- und Filmaufnahmen anderen Fernsehsendern bzw. Film-Aufnehmenden, die sich nicht erfolgreich akkreditiert haben, auf Anfrage unverzüglich zur Verfügung zu stellen. Ein Medienvertreter, der die erforderlichen technischen Voraussetzungen nicht erfüllt, kann nicht Poolführer werden. Die Bereitschaft zur Übernahme einer Poolführerschaft ist mit dem Akkreditierungsgesuch ausdrücklich zu erklären. Die Vergabe der Poolführerschaft erfolgt nach der Reihenfolge des Eingangs der Akkreditierung; bei etwaiger Zeitgleichheit entscheidet das Los.
+Zugelassen sind höchstens zwei TV- bzw. Filmkameras. Fernseh- und Filmaufnahmen dürfen nur von den zugewiesenen Plätzen aus gefertigt werden. Tonaufnahmen erfolgen über einen zentralen Tonabnahmepunkt. Während der Entscheidungsverkündung sind die Kameras an ihren Plätzen zu belassen und ausschließlich auf die Richterbank zu richten. Kameraschwenks sind nur innerhalb der seitlichen Begrenzungen der Richterbank zulässig. Auflagen des Gerichts sind einzuhalten. Anweisungen der Wachtmeister ist Folge zu leisten.
+Anregungen für eine Zulassung können Sie mit dem nachfolgenden Formular an die Pressestelle richten. Nach 10:00 Uhr des Vortags der Sitzung kann eine Beschlussfassung und Akkreditierung nicht mehr gewährleistet werden.
+Für Interviews mit den Prozessbeteiligten steht das Foyer vor dem Sitzungssaal zur Verfügung.
+Wir weisen darauf hin, dass eine Entscheidung in der Sache nicht notwendig noch am Tag der mündlichen Verhandlung verkündet wird. Der erkennende Senat beraumt in diesem Fall einen gesonderten Verkündungstermin an.
+Ob die angegebenen Termine bestehen geblieben sind, erfragen Sie bitte bei der jeweiligen Senatsgeschäftsstelle des Bundesarbeitsgerichts oder bei der Pressestelle.
+Wenn Sie das nachfolgende Formular ausfüllen, helfen Sie uns einzuschätzen, wie groß das öffentliche Interesse an einem Verhandlungstermin ist. So können wir versuchen, einen Sitzungssaal auszuwählen, in dem nach Möglichkeit die gesamte interessierte Öffentlichkeit Platz findet.
+Eine Platzreservierung wird nicht vorgenommen.
+Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.
+Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer 
+Datenschutzerklärung
+.
+Felder, die mit 
+*
+ gekennzeichnet sind, sind Pflichtfelder.
+Ihre Kontaktdaten
+Vorname
+Nachname
+E-Mail-Adresse
+Telefonnummer
+Medienorganisation
+Anzahl der Teilnehmer
+Sitzungsinformationen
+Senat
+– Bitte auswählen –
+9. Senat
+8. Senat
+7. Senat
+6. Senat
+5. Senat
+4. Senat
+3. Senat
+2. Senat
+10. Senat
+1. Senat
+Tag des Besuchs
+Aktenzeichen
+Weitere Kommentare
+450
+Zeichen übrig
+Please leave this field empty.
+Ja, ich habe die 
+Datenschutzerklärung
+ zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.
+ *
+Datenschutzübersicht
+Notwendige Cookies
+Datenschutzübersicht
+Diese Website verwendet Cookies, um die Online-Nutzung zu verbessern. Cookies die als notwendig kategorisiert sind, werden in Ihrem Browser gespeichert, da sie für das Funktionieren der Grundfunktionen der Website unerlässlich sind.
+Weitere Informationen: 
+Datenschutzerklärung
+Notwendige Cookies
+Notwendige Cookies sind für das einwandfreie Funktionieren der Website absolut notwendig. Diese Kategorie umfasst nur Cookies, die grundlegende Funktionalitäten und Sicherheitsmerkmale der Website gewährleisten (z. B. für die "Hoher Kontrast"-Einstellung).
+Diese Cookies speichern keine persönlichen Informationen.
+Cookies aktivieren oder deaktivieren
+aktiviert
+deaktiviert
