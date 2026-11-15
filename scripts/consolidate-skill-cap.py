@@ -23,6 +23,8 @@ import shutil
 import sys
 from urllib.parse import unquote
 
+from skill_source_replacements import validate_replacements
+
 
 REPO = Path(__file__).resolve().parents[1]
 SLUG = re.compile(r"[a-z0-9-]{1,64}\Z")
@@ -120,6 +122,10 @@ def validate_registry(repo: Path, registry: dict, *, migrated: bool = False) -> 
     if registry.get("schema_version") != 1 or not isinstance(registry.get("plugins"), list):
         return ["Registry benötigt schema_version 1 und eine Plugin-Liste"]
     sources = marketplace_sources(repo)
+    replacement_archives, replacement_errors = validate_replacements(repo) if migrated else ({}, [])
+    errors.extend(replacement_errors)
+    consolidation_path = repo / "scripts/plugin-consolidations.json"
+    retired = {row["legacy"]: row["canonical"] for row in json.loads(consolidation_path.read_text())["consolidations"]} if consolidation_path.is_file() else {}
     seen_plugins = set()
     for plugin in registry["plugins"]:
         name, source = plugin.get("name", ""), plugin.get("source", "")
@@ -127,7 +133,10 @@ def validate_registry(repo: Path, registry: dict, *, migrated: bool = False) -> 
             errors.append(f"Ungültiges oder doppeltes Plugin: {name!r}")
             continue
         seen_plugins.add(name)
-        if sources and sources.get(name) != source:
+        retained = (plugin.get("retained_source_archive") == retired.get(name)
+                    and name in retired and name not in sources and retired[name] in sources
+                    and source.removeprefix("./") == name)
+        if sources and sources.get(name) != source and not retained:
             errors.append(f"{name}: Quelle stimmt nicht mit Marketplace.source überein")
         try:
             directory = safe_path(repo, source)
@@ -175,7 +184,9 @@ def validate_registry(repo: Path, registry: dict, *, migrated: bool = False) -> 
             if existing != set(keep) | new_slugs:
                 errors.append(f"{name}: aktive Auswahlwege stimmen nicht mit Registry überein")
             for slug in set(assigned) - set(keep):
-                if not (directory / "skills" / slug / "FACHINHALT.md").is_file():
+                original = directory / "skills" / slug / "FACHINHALT.md"
+                archived = replacement_archives.get(name, {}).get(relative(original, repo))
+                if not original.is_file() and archived is None:
                     errors.append(f"{name}/{slug}: erhaltener Fachinhalt fehlt")
         elif set(assigned) != existing:
             errors.append(f"{name}: Zuordnung unvollständig: fehlen={sorted(existing - set(assigned))}; unbekannt={sorted(set(assigned) - existing)}")

@@ -20,6 +20,11 @@ Erfassen Sie Paket, Einsatzort, Zeitraum, Mindestanforderungen, Kandidaten, Refe
 3. Ermitteln Sie belegte Eignung, offenen Nachweis und belegten Ausschlussgrund getrennt. Klären Sie Ressourcen je Abschnitt, Ersatzpersonal, Materialkontingente, Reaktionsfenster und Ablauf bei Ausfall. Verwenden Sie bei Recherche datierte Quellen und kennzeichnen Sie veraltete Treffer.
 4. Formulieren Sie eine konkrete Rückfrage für jede entscheidende Lücke. Empfehlen Sie eine Einladung oder Freigabe mit überprüfbaren Voraussetzungen. Nutzen Sie bei gebundenen Verfahren ausschließlich den dort vorgesehenen Kontakt- und Nachforderungsweg.
 
+
+Bearbeiten Sie dazu die [vertiefte Prüfung aus dem Projekteinkauf](../lieferanten-und-nachunternehmer-pruefen/FACHINHALT.md). Übernehmen Sie deren einschlägige Beleg- und Prüfschritte in denselben Entwurf; erstellen Sie keinen zweiten parallelen Vorgang.
+
+Prüfen Sie bei relevanten Risiken zusätzlich Vertretung, Versicherung, Unterbeauftragungsregeln und den zuständigen steuerlichen Prüfschritt. Eine mitgeteilte Bankänderung braucht einen unabhängig belegten Kontaktweg. Registerbefund, Selbstauskunft und Leistungsnachweis tragen jeweils nur ihre eigene Aussage.
+
 ## 4 Quellenpflicht
 
 Verweisen Sie je Aussage auf Firmenbeleg, Systemnachweis, geprüfte Referenz oder schriftliche Kapazitätszusage. Geben Sie für aktuelle externe Quellen Prüfdatum und Inhalt an. [Quellen- und Belegregel](../../references/zitierweise.md)

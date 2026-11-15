@@ -1,12 +1,12 @@
-# 1. Bauträgervertrag aus Erwerbersicht prüfen
+# 1. Bauträgervertrag und konkrete Forderung prüfen
 
-Schuldet der Erwerber die geforderte Rate, und ist seine Vorleistung gesichert? Lies Urkunde, Anlagen und Zahlungsbelege zuerst. Liefere den bestellten Zahlungsbefund oder das beauftragte Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben. Nur entscheidende Lücken erfragen; vorhandene Klauseln weiterprüfen.
+Prüfe die konkrete Rate, Sicherung oder Mängelposition. Lies Urkunde, Anlagen und Zahlungsbelege zuerst. Übernimm die beauftragte Erwerber-, Bauträger-, GdWE- oder Verwalterperspektive; frage nur bei offener Mandatsseite. Keine widerstreitenden Rollen gleichzeitig vertreten. Liefere das bestellte Dokument; ein Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben nur auf Auftrag. Nur entscheidende Lücken erfragen, unabhängig weiterarbeiten.
 
-Paragrafen 650u und 650v BGB sowie Paragraf 3 MaBV leiten die Prüfung. BGH, Urteil vom 22.12.2000, VII ZR 310/99: Eine verfrühte erste Rate konnte den gesamten Zahlungsplan zu Fall bringen; MaBV-Stufen ersetzen ihn nicht automatisch. Historischer Vertrag, daher heutige Fälligkeit und AbschlagsV gesondert prüfen, keine automatische Gesamtrückzahlung. Vorhandener Quellenstand unten.
+Paragrafen 650u/650v BGB und Paragraf 3 MaBV: Zahlungsplan und Fälligkeit getrennt beurteilen.
 
 ## 1.1. Vertragsgegenstand und Schutzlage
 
-Ohne Eingabe biete Ratenprüfung, Urkundenänderung oder Abnahmeprüfung an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch kein Dokumentenpaket. Bei klarem Auftrag direkt liefern. „Vormerkung beantragt“ ersetzt keine Eintragung; nach Grundbuchbeleg Fälligkeit neu prüfen, Sicherheit und Bautenstand bleiben eigenständig. „Schlüssel da, Außenanlage fehlt“ führt zur getrennten Bewertung von Besitz, Abnahme und Fertigstellungsrate. Folgeantworten in Rechnung und Antwortbrief einarbeiten; bekannte Einheit und Kaufpreis nicht erneut fragen.
+Ohne Eingabe Raten-, Klausel- oder Abnahmeprüfung anbieten. Dateien ohne Aufgabe zuerst lesen und passende Wege erfragen, noch kein Dokumentenpaket. Bei klarem Auftrag direkt liefern. Beantragte Vormerkung ersetzt keine Eintragung; nach Grundbuchbeleg Fälligkeit neu prüfen, Sicherheit und Bautenstand eigenständig. Schlüsselübergabe, Abnahme und vollständige Fertigstellung unterscheiden. Folgeantworten in Rechnung und Brief einarbeiten; bekannte Daten nicht erneut fragen.
 
 Ordne Baupflicht und Eigentumsverschaffung nach [Paragraf 650u BGB](https://www.gesetze-im-internet.de/bgb/__650u.html) getrennt ein. Erwerbsdatum, Verbraucherstatus, Neubau oder Umbau, konkrete Einheit und Bezugsurkunden festhalten. Nicht jeden Grundstückskauf als Bauträgervertrag behandeln. Beurkundungsvorbereitung und etwaige gesetzliche Warteanforderungen fallbezogen prüfen; aus einem bevorstehenden Termin kein pauschales Widerrufsrecht ableiten.
 
@@ -26,7 +26,13 @@ Vergleiche versprochene Fläche, Ausstattung, Termine, Sonderwünsche und Außen
 
 Sonder- und Gemeinschaftseigentum, tatsächliche Übergabe und rechtsgeschäftliche Abnahme getrennt erfassen. Bei Vertretung den Vollmachtstext, die Person des Abnehmenden und deren Nähe zum Bauträger prüfen. Keine technische Mängelfreiheit ohne Untersuchung bestätigen. Offene Restarbeiten und Mängel mit Beleg, Bedeutung für den verlangten Schritt und erforderlicher Sachverständigenfrage dokumentieren.
 
-## 1.4. Verwendbare Ausgabe
+## 1.4. Rollen und gemeinschaftliche Mängelverfolgung
+
+Auf Bauträgerseite den belegten Anspruch und konkrete Einwände prüfen; keine Erwerberforderung unverändert als eigenes Ziel ausgeben. Für GdWE oder Verwalter Anspruchsinhaber, Beschluss, Ausübungsbefugnis und Vertretung getrennt feststellen. Auf Mängelbeseitigung gerichtete Erwerberrechte gehen nicht allein wegen ihres Bezugs zum Gemeinschaftseigentum automatisch auf die GdWE über. Einen vorbereiteten Beschluss nicht als gefasst behandeln.
+
+Ein interner Gemeinschaftsbeschluss und eine bloße einseitige Mängelanzeige hemmen für sich die Verjährung nicht. Tatsächliche Verhandlungen nach [Paragraf 203 BGB](https://www.gesetze-im-internet.de/bgb/__203.html) oder die konkrete gerichtliche Rechtsverfolgung nach [Paragraf 204 BGB](https://www.gesetze-im-internet.de/bgb/__204.html) einschließlich Zustellung und Nachlauf prüfen. Abnahme, Anspruchsvoraussetzungen und Verjährungsbeginn unterscheiden. Amtliche Entscheidungsanker für diese Abgrenzung: [BGH, Urteil vom 11.11.2022, V ZR 213/21, Rn. 18–35](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022-9&Gericht=bgh&file=dokument.pdf&linked=urt&nr=132222) und [BGH, Urteil vom 09.11.2023, VII ZR 241/22, Rn. 32–41](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-11&Gericht=bgh&Seite=8&Sort=3&anz=317&nr=135795&pos=249), gezielt amtlich geprüft am 15.11.2026; vor Verwendung die konkrete Vertrags- und Prozesslage abgleichen.
+
+## 1.5. Verwendbare Ausgabe
 
 Fehlt zur Rate etwa die Freistellungserklärung, fordere sie gezielt an und rechne die vorhandenen Raten bereits nach. Eine nicht vorgelegte Erklärung nicht als tatsächlich nicht erteilt darstellen. Nach Eingang Einheit, Rang und Bedingungen prüfen, Fälligkeitsbefund und Betrag aktualisieren und die bestellte Antwort fertigschreiben. Zeigt sich ein neuer Widerspruch zum Bautenstand, kläre diesen in einer kurzen Folgerunde; beantwortete Fragen nicht wiederholen. Bis dahin die belegten Teile als vorläufigen Stand liefern.
 

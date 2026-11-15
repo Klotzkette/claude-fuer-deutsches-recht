@@ -1,3 +1,9 @@
+# Vier gemeinsame Fachplugins 445.36.5 – 15. November 2026
+
+Bauträgervertragsprüfung, Arbeitszeugnisprüfung, Sozialversicherungsstatus und Bau-Einkauf erhalten jeweils einen gemeinsamen Einstieg mit 10, 8, 14 und 14 auswählbaren Skills. Die Fachtexte, Vorlagen und beide bisherigen Fallbestände bleiben erhalten. Historische Quellordner führen zum gemeinsamen Plugin; sie bleiben als nachprüfbarer Bestand zugänglich.
+
+Ein Erhaltungsinventar bindet 20.079 Akten- und Anhangsdateien an den Ausgangscommit. Die Prüfung erkennt fehlende oder veränderte Dateien sowie verlorene Fallverweise. Gezielte Korrekturen betreffen unter anderem Zeugnisnoten, Verjährungshemmung und die fachliche Statusansicht. [Übernahme und Prüfgrenzen](quality/plugin-consolidation/2026-11-15/README.md), [Releaseumfang](docs/releases/qualitaetsrunde-v445.36.5.md).
+
 # Insolvenzrecht 445.36.2 – 15. November 2026
 
 Zehn eigenständig einsetzbare Werkstattprompts zu §§ 130–139 InsO vertiefen Tatbestandsmerkmale, Belegkennzeichnung, Beweislast, Gegenposition und ausformulierte Arbeitsergebnisse. Insgesamt 63.479 Wörter und 179 PDF-Seiten; die elf vorhandenen Anfechtungsskills laden jeweils die passende Vertiefung. Große Texte, Einzel-PDFs und Gesamtband sind als gesonderte Downloads verfügbar.

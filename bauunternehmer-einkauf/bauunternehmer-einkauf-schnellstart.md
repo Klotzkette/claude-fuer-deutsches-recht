@@ -10,6 +10,7 @@ Bei einem öffentlichen Bauvorhaben prüfen Sie getrennt den Status der einkaufe
 
 ## 2 Passende Aufgabe bearbeiten
 
+- **Einstieg, Akte und Bedarf.** Bei wenig Erfahrung formulieren Sie Aufgabe, Unterlagenstand, Ergebnis und Freigabegrenze in wenigen Sätzen. Ordnen Sie zunächst E-Mails und Anlagen. Leiten Sie Mengen und LV-Positionen aus freigegebenen Plänen und Schnittstellen ab. Eine Marktpreisrecherche trennt datierte Quellen, fiktive Übungsdaten und interne Vergleichswerte; ein Index belegt keinen Lieferpreis.
 - **Angebotseinholung.** Erstellen Sie eine konkrete Anfrage mit einheitlichem LV-Stand, Umfang, technischen Nachweisen, Etappenterminen, Preisblatt, Rückgabeformat und Frist. Benennen Sie Anlagen und Versionen.
 - **GAEB.** Identifizieren Sie X83 und X84 nach Inhalt und Schema. Gleichen Sie Ordnungszahl, Menge, Einheit, Einheitspreis und Positionsbetrag ab. Trennen Sie Schemaergebnis und fachliche Prüfung. Stellen Sie X84, PDF und E-Mail-Nachtrag mit ihren Fassungen nebeneinander. [Offizielle GAEB-Dokumentation](https://www.gaeb.de/de/service/downloads/gaeb-datenaustausch/)
 - **Angebotsvergleich.** Prüfen Sie zuerst Mindestanforderungen und Lieferfähigkeit. Rechnen Sie anschließend belegte Zusatzkosten und die einheitliche Wartungsbasis. Führen Sie Originalpreis, Vergleichspreis, bedingten Nachlass, Skonto und Optionen getrennt. Bewerten Sie Qualität, Termin und Service anhand des festgelegten Maßstabs. Fehlende Preise oder Nachweise bleiben offen.

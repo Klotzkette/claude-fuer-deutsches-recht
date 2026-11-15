@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "sozialversicherungspflicht-pruefer",
-  "reviewed_on": "2026-09-30",
+  "reviewed_on": "2026-11-15",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
@@ -35,6 +35,66 @@
       "verification_status": "wiederverwendeter_auditnachweis",
       "previous_review": "quality/source-audits/2026-09-25/profile-register.json#sozialversicherungsstatus-pruefer:BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
       "source_sha256": "6cf6168355eeb3e90a1c946f97daf72fe4f64895610d61c8bf07fdb6ba017157"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02004R0883-20190731",
+      "checked_on": "2026-11-15",
+      "supports": "Gelesene Artikel 11–13: Grundregel, Entsendung, Mehrstaatentätigkeit und gemischte Tätigkeit.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/gewoehnliche-erwerbstaetigkeit-in-mehreren-mitgliedstaaten/",
+      "checked_on": "2026-11-15",
+      "supports": "Amtliche Verwaltungserläuterung zur gewöhnlichen Mehrstaatentätigkeit und Feststellung; kein Ersatz für individuelle Systementscheidung.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/gewoehnliche-erwerbstaetigkeit-in-mehreren-mitgliedstaaten/wohnort-deutschland.html",
+      "checked_on": "2026-11-15",
+      "supports": "Verfahrenshinweise bei Wohnort Deutschland; fallgruppenbezogene elektronische Antragstellung.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "checked_on": "2026-11-15",
+      "supports": "Gezielte neue Lektüre der Drittbeziehung nach Absatz 2, Gruppeninstrument Absatz 4b und Befristung Absatz 7.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__28p.html",
+      "checked_on": "2026-11-15",
+      "supports": "Arbeitgeberprüfung sowie gesonderte Künstlersozialabgabeprüfung.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ksvg/__24.html",
+      "checked_on": "2026-11-15",
+      "supports": "Fallgruppen der unternehmerischen Abgabepflicht; Grenzen nicht auf alle Verwerter übertragen.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ksvg/__25.html",
+      "checked_on": "2026-11-15",
+      "supports": "Bemessungsgrundlage; fehlende persönliche KSVG-Versicherung schließt Abgabe nicht aus.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ksvg/__27.html",
+      "checked_on": "2026-11-15",
+      "supports": "Meldung, Bescheid und Vorauszahlung getrennt.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/voraussetzungen",
+      "checked_on": "2026-11-15",
+      "supports": "Amtliche Informationen zu selbständiger künstlerischer/publizistischer Tätigkeit und Versicherungsbedingungen; nicht als neu gelesene §§ 1/2 KSVG-Volltexte dokumentiert.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
+    },
+    {
+      "url": "https://www.kuenstlersozialkasse.de/unternehmen-und-verwerter/faq-unternehmen-und-verwerter",
+      "checked_on": "2026-11-15",
+      "supports": "Amtliche Hinweise zur Auftraggeberabgabe, Zahlung und zeitabhängigen Grenzen.",
+      "verification_status": "gezielter_amtlicher_quellenabgleich"
     }
   ],
   "selection": {
@@ -42,12 +102,17 @@
     "positive": [
       "Prüfe meinen Geschäftsführerstatus und die Beiträge in allen deutschen Versicherungszweigen.",
       "Prüfe die Sozialversicherung unserer Musikdozentin und ihre Zustimmung zum Lehrkräfteübergang.",
-      "Gilt meine RV-Befreiung nach einem Arbeitgeberwechsel weiter?"
+      "Gilt meine RV-Befreiung nach einem Arbeitgeberwechsel weiter?",
+      "Bewerten Sie meine tatsächliche Tätigkeit beim Auftraggeber anhand von Dienstplan und Arbeitsorganisation.",
+      "Prüfen Sie, ob nach Einleitung einer Betriebsprüfung noch ein Statusfeststellungsantrag für dieselbe Tätigkeit passt.",
+      "Klärung der Sozialversicherung bei regelmäßiger Arbeit in mehreren EU-Staaten und vorhandenem A1-Antrag.",
+      "Trennen Sie meine KSK-Versicherung von der Künstlersozialabgabe des Auftraggebers."
     ],
     "negative": [
       "Erstelle eine deutsche GmbH-Gründungssatzung ohne Sozialversicherungsprüfung.",
-      "Prüfe einen ausschließlich österreichischen Sozialversicherungsfall.",
-      "Berechne ausschließlich meine Einkommensteuer ohne Versicherungsfrage."
+      "Berechne ausschließlich meine Einkommensteuer ohne Versicherungsfrage.",
+      "Berechnen Sie allein die Höhe meiner gesetzlichen Altersrente.",
+      "Prüfen Sie ausschließlich die steuerliche Abziehbarkeit meiner Betriebsausgaben."
     ]
   },
   "cases": [
@@ -306,23 +371,194 @@
           ]
         }
       ]
+    },
+    {
+      "id": "dienstplan-und-bereits-laufende-statuspruefung",
+      "request": "Eine IT-Beraterin arbeitet seit sechs Monaten an vier festen Tagen pro Woche beim Kunden. Die Teamleitung teilt ihr Aufgaben und Schichten zu; Urlaub ist abzustimmen. Sie nutzt ausschließlich Kundengeräte und darf niemanden an ihrer Stelle schicken. Das Honorar beträgt 90 Euro pro Stunde. Sie hat daneben einen zweiten kleinen Kunden. Der Vertrag nennt sie unabhängig. Der zuständige Rentenversicherungsträger hat im Rahmen einer Betriebsprüfung bereits ausdrücklich ein Verfahren zur Versicherungspflicht aufgrund Beschäftigung für genau diese Tätigkeit eingeleitet und einen Fragebogen versandt. Erstellen Sie ergebnis.md zur vorläufigen Gewichtung und zum weiteren Verfahrensweg, ohne einen Antrag zu stellen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Aufgabenzuweisung, feste Schichten, Urlaubsabstimmung und fehlende Vertretungsmöglichkeit werden als konkrete Eingliederungs- beziehungsweise Weisungsindizien gewichtet; zwei Kunden und hohes Honorar entscheiden nicht allein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der bereits eingeleitete tätigkeitsidentische Versicherungsprüfvorgang wird als Hindernis für einen neuen Antrag nach Paragraf 7a Absatz 1 berücksichtigt und nicht als bedeutungslos übergangen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe trennt vorläufige Statusbewertung von konkreter Beitragshöhe und unterstützt eine tatsachengetreue Antwort im laufenden Verfahren, ohne eine verbindliche Behördenentscheidung vorzutäuschen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "sozialversicherungspflicht-pruefen",
+      "consolidated_from": {
+        "profile": "quality/plugin-consolidation/2026-11-15/legacy-evals/sozialversicherungsstatus-pruefer.json",
+        "case_id": "dienstplan-und-bereits-laufende-statuspruefung",
+        "previous_target_skill": "kaltstart-triage",
+        "criteria_preserved": true
+      }
+    },
+    {
+      "id": "mehrstaatentaetigkeit-a1-nur-antrag",
+      "target_skill": "international-nebenberuf-versicherung-bearbeiten",
+      "request": "Eine in Freiburg wohnende Arbeitnehmerin arbeitet regelmäßig für ihren französischen Arbeitgeber an drei Wochentagen in Straßburg und an zwei Tagen im Freiburger Homeoffice. Daneben gibt sie selbständig Klavierunterricht in Freiburg. In der Akte liegt nur eine Eingangsbestätigung für einen A1-Antrag, keine ausgestellte Bescheinigung. Erstellen Sie ergebnis.md als vorläufigen Zuständigkeitsvermerk; der genaue Zeitraum und eine etwaige Ausnahmevereinbarung sind noch ungeklärt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die tatsächlichen Arbeitsorte und parallelen Tätigkeitstypen werden vor einer deutschen Zweig- oder Beitragsberechnung geordnet; einschlägiger Geltungsbereich und Artikel 11–13 VO 883/2004 werden differenziert geprüft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Eingangsbestätigung wird nicht als ausgestellte A1 oder verbindliche Systementscheidung ausgegeben; Zeitraum und etwaige Ausnahmevereinbarung bleiben konkret nachzufordern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk begründet den nächsten Prüfschritt und trennt Zuständigkeit, nationalen Erwerbsstatus und Beiträge; keine Anmeldung oder Behördenentscheidung wird als erledigt behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ksvg-person-und-auftraggeber-trennen",
+      "target_skill": "kuenstler-publizisten-und-ksvg",
+      "request": "Eine deutsche Agentur beauftragt für eine Kampagne eine selbständige Fotografin. Sie zahlt im selben Jahr Honorare für Fotos und für gesondert beschriebene technische Datenpflege; die Rechnung weist Umsatzsteuer separat aus. Die Fotografin erklärt, nicht bei der KSK versichert zu sein. Die Geschäftsführung meint deshalb, jede Künstlersozialabgabe entfalle. Erstellen Sie ergebnis.md als begründeten vorläufigen Vermerk; konkrete Beträge und Zahlungsbelege werden erst nachgereicht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Versicherung der Fotografin und Abgabepflicht der Agentur werden getrennt; fehlende persönliche KSVG-Versicherung wird nicht als genereller Ausschluss der Auftraggeberabgabe behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Konkrete Fallgruppe nach § 24 KSVG, Leistungen, Zahlungen und Bemessungsgrundlage nach § 25 werden geprüft; kein pauschaler Ansatz aller Fremdleistungen oder aller Rechnungsbruttobeträge.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ohne Beträge, Zahlungsjahr und Belege wird keine erfundene Abgabe berechnet; zeitbezogene Grenzen und Ausnahmen sowie entscheidende Nachforderungen werden benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plattform-und-endkunde-indizien",
+      "target_skill": "berufsgruppen-plattformen-dreieck-bearbeiten",
+      "request": "Ein IT-Spezialist hat einen freien Rahmenvertrag mit einem Vermittler. Beim Endkunden erhält er feste Dienste, konkrete Einzelaufgaben und Urlaubsfreigaben durch die Teamleitung. Ein Zugangsausweis dient zugleich dem Werkschutz. Der Vermittler zahlt monatlich nach Stunden; eigene Preise oder Vertretungen sind bisher nicht dokumentiert. Erstellen Sie ergebnis.md zur vorläufigen Statusbewertung mit Zuordnung der Beteiligten und erforderlichen Unterlagen; es gibt noch keinen Bescheid.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vertragspartner, Vergütung und tatsächliche Einsatzorganisation werden je Beteiligtem zugeordnet; organisatorische Eingliederung beim Dritten wird nicht allein wegen des Vermittlervertrags ausgeblendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bloßer Sicherheitszugang wird von personenbezogener Arbeitssteuerung unterschieden; mehrere Indizien werden gewichtet, ohne mechanische Punktesumme oder allein aus dem Beruf abgeleitetes Ergebnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Drittbeziehung und Reichweite des § 7a SGB IV sowie zeitliche Fassung werden geprüft; Arbeitnehmerüberlassungsrecht bleibt eigenständige Schnittstelle, keine automatisch behauptete Rechtsfolge.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vertragskosmetik-und-vergangene-praxis",
+      "target_skill": "status-compliance-qualitaet-bearbeiten",
+      "request": "Der Einkauf hat einen Freelancer-Rahmenvertrag für zehn IT-Kräfte. Eine Abteilung gibt tägliche Anwesenheitszeiten und Urlaubsfreigaben vor; andere arbeiten selbst organisiert. Während einer laufenden Betriebsprüfung soll ein neuer Vertrag rückwirkend für alle gelten und eine nie ausgeübte Vertretungsmöglichkeit bestätigen. Erstellen Sie ergebnis.md als Maßnahmenmemo mit Zuständigen und konkreten nächsten Schritten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Keine Rückdatierung oder erfundene vergangene Praxis; Vertragsänderung für die Zukunft und tatsächliche Umsetzung werden von früheren Zeiträumen getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Gleiche Vorlage führt nicht zur pauschalen Freigabe sämtlicher Einsätze; Tätigkeiten und tatsächliche Organisation werden personenspezifisch beziehungsweise für belegbar vergleichbare Gruppen untersucht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Laufendes Verfahren, vergangene Beiträge und künftige Organisation werden getrennt weiterbearbeitet; konkrete Verantwortliche und Umsetzungsnachweise ersetzen allgemeine Checklisten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-30",
+    "date": "2026-11-15",
     "method": "desk_review",
     "files": [
       "sozialversicherungspflicht-pruefer/README.md",
+      "sozialversicherungspflicht-pruefer/FACHMODULE.md",
       "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
       "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-schnellstart.md",
-      "sozialversicherungspflicht-pruefer/references/quellen-und-entscheidungen.md"
+      "sozialversicherungspflicht-pruefer/references/ergaenzende-statusfragen.md",
+      "sozialversicherungspflicht-pruefer/references/arbeitsoberflaeche-und-visualisierung.md"
     ],
-    "opening_change": "Konkretes Dokument aus vorhandenen Unterlagen; Status, Zweige, Befreiung und Beitrag nach Tätigkeit und Zeitraum getrennt. Gezielte Fragen und echte Fortführung nach Antworten.",
+    "opening_change": "Tätigkeit, Zeitabschnitt und anwendbares Recht zuerst; dann Status, Zweige, Befreiung und Beiträge. Vier ergänzte Arbeitswege führen zu konkreten Entwürfen. Tätigkeits-/Zeitmatrix statt sachfremder Versicherungsvertragsvergleich.",
     "norms": [
       "Paragrafen 7, 7a und 127 SGB IV einschließlich aktueller Übergangsdaten 2027/2028",
       "Paragrafen 1, 2 und 6 SGB VI: Status, selbständige Pflicht und tätigkeitsbezogene Befreiung",
       "Paragrafen 5, 6 und 8 SGB V; Paragrafen 20, 22 und 23 SGB XI; Paragraf 27 SGB III; SGB VII",
-      "Paragrafen 16, 47 und 54 GmbHG: Stimmen, Legitimation und unterschiedliche Wirksamkeitszeitpunkte"
+      "Paragrafen 16, 47 und 54 GmbHG: Stimmen, Legitimation und unterschiedliche Wirksamkeitszeitpunkte",
+      "Artikel 11–13 Verordnung (EG) 883/2004: anwendbares Recht, Entsendung und Mehrstaatentätigkeit",
+      "§ 7a Absatz 2, 4b und 7 SGB IV: Drittbeziehungen, gleiche Auftragsverhältnisse und Befristung; § 28p SGB IV",
+      "§§ 24, 25 und 27 KSVG: Auftraggeberabgabe, Bemessungsgrundlage und Verfahren"
     ],
     "decisions": [
       {
@@ -396,49 +632,52 @@
     "remaining_limits": [
       "Redaktionelle Quellenprüfung und Ergebnisfälle sind noch keine bestandenen unabhängigen Modellläufe. Tatsächliche Proben werden gesondert mit ihrem Ergebnis dokumentiert.",
       "Kein universeller Beitragsrechner; tatsächliche Kasse, Pflegeparameter, historische Normstände und Bescheide bleiben fallbezogen.",
-      "Die BGH-Zulassungsentscheidungen werden mittelbar über die gelesene DRV-GRA verwendet, nicht als selbst im Volltext verifizierte Sozialversicherungsurteile."
+      "Die BGH-Zulassungsentscheidungen werden mittelbar über die gelesene DRV-GRA verwendet, nicht als selbst im Volltext verifizierte Sozialversicherungsurteile.",
+      "Dieser Review prüft die Zusammenführung und gezielte neue Arbeitswege; frühere BSG-Prüfdaten und Quellenlimits bleiben unverändert. Kein neuer Volltextabruf sämtlicher Entscheidungen.",
+      "100 Fachtexte und zehn frühere Router wurden vollständig und bytegleich erhalten, geroutet und auf lokale Links geprüft; keine Behauptung einer vollständigen juristischen Neuprüfung jedes importierten Fachtextes.",
+      "Einzelabrufe §§ 1/2 KSVG und § 1 AÜG waren nicht erfolgreich; kein neuer Normvolltextnachweis dafür. KSK-Verwaltungsinformationen wurden gesondert gelesen."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-30",
+    "date": "2026-11-15",
     "method": "desk_review",
     "opening_modes": [
-      "Klares Gutachten oder Schreiben: vorhandene Unterlagen unmittelbar auswerten.",
-      "Dringender Bescheid: Bekanntgabe, Form und konkreten Rechtsbehelf vorbereiten.",
-      "Offener Erstauftrag: Tätigkeit, Zeitraum und Versicherungsweg gezielt klären.",
-      "Nachreichung: nur betroffene Zeitphase und Schlussfolgerung fortschreiben."
+      "Klarer Gutachten- oder Briefauftrag: Akte unmittelbar auswerten und gezielt nur entscheidende Lücken klären.",
+      "Offener Erstauftrag: Tätigkeit, Zeitraum, vertretene Rolle und Ziel zuordnen.",
+      "Bescheid oder laufende Prüfung: Gegenstand, Bekanntgabe, Rechtsbehelf und bestehendes Verfahren prüfen.",
+      "Auslandsbezug: tatsächliche Arbeitsorte und anwendbares Recht vor deutscher Zweigprüfung klären."
     ],
-    "continuation": "Rückantworten und Belege im bestehenden Vorgang zuordnen; davon abhängige Schlüsse erst danach ziehen und unabhängige Teile weiterführen.",
-    "enrichment": "Ausformulierte Befunde, konkrete Rückfragen und Schreiben; mehrstufige Fallakten mit nativen Geld- und Gesellschaftsbelegen.",
-    "limits": "Desk review; keine realen Anträge, Meldungen oder Zahlungsänderungen."
+    "continuation": "Neue Kalender-, Status-, Vertretungs- oder Zahlungsbelege verändern die betroffenen Zeitabschnitte und Entwurfsstellen. Unabhängige Teile weiterführen; keine erneute allgemeine Befragung und keine stillschweigende Freigabe durch UI-Auswahl.",
+    "enrichment": "Tätigkeits-/Zeitmatrix verbindet Rollen, Indizien, Versicherungszweige, Bescheide und Belege; fertiger Vermerk oder Empfängertext bleibt Ziel. Alte Referenzen und zwölf Fallakten sind erreichbar.",
+    "limits": "Desk-Review der Texte und Zielskill-Zuordnungen; keine unabhängigen Modellläufe, echten Anträge, Behördenentscheidungen oder externen Übermittlungen."
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung. 2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Zusammenführung redaktionell geprüft: eigenständiger Prüfablauf bis zum verlangten Dokument, eindeutige Scope-Erweiterungen und fachliche Oberflächenführung. Keine neue Gesamtprüfung aller Rechtsprechung und kein Live-Modelltest.",
     "changes": [
-      "Status von Zweigen, Befreiung und Beitrag getrennt.",
-      "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
-      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
-      "2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "14 aktive Arbeitswege vereinigen beide Prüfbereiche; 100 vollständige Fachtexte und zehn frühere Router bleiben intern als Referenz zugänglich.",
+      "Ausland/A1, Plattform- und Drittbeziehungen, KSVG und Drittpersonal-Compliance in Werkstatt und Mini integriert; bloße Vertragstitel und nachträgliche Vertragskosmetik reichen nicht.",
+      "Visualisierung fachlich auf Tätigkeits-/Zeitmatrix und Versicherungszweige umgestellt; zwölf bestehende Fallakten verlinkt, keine Fallakte verändert.",
+      "Frühere Quellenvermerke und Rechtsprechungsgrenzen bleiben historisch datiert; gezielt gelesene zusätzliche Normen und Verwaltungshinweise sind gesondert ausgewiesen."
     ],
-    "sha256": "88d2f7a781ea161a98c437e74cb0d10f9adf20a258454caf261d42613f114bf6",
-    "reviewed_on": "2026-10-16",
+    "sha256": "0b37b41d30394570d11c43d29ea4ab20708a9ba408db727554bec8cfc59d7ff5",
+    "reviewed_on": "2026-11-15",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Mini vollständig gelesen; Werkstatt-Einstieg, geänderte Passagen, vier ergänzte Fachabschnitte, Abschluss und Visualisierung geprüft. Unveränderter bisheriger Fachhauptteil und übernommene Fachbibliothek nicht erneut vollumfänglich rechtlich verifiziert."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung. 2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Zusammenführung redaktionell geprüft: eigenständiger Prüfablauf bis zum verlangten Dokument, eindeutige Scope-Erweiterungen und fachliche Oberflächenführung. Keine neue Gesamtprüfung aller Rechtsprechung und kein Live-Modelltest.",
     "changes": [
-      "Status von Zweigen, Befreiung und Beitrag getrennt.",
-      "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
-      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
-      "2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "14 aktive Arbeitswege vereinigen beide Prüfbereiche; 100 vollständige Fachtexte und zehn frühere Router bleiben intern als Referenz zugänglich.",
+      "Ausland/A1, Plattform- und Drittbeziehungen, KSVG und Drittpersonal-Compliance in Werkstatt und Mini integriert; bloße Vertragstitel und nachträgliche Vertragskosmetik reichen nicht.",
+      "Visualisierung fachlich auf Tätigkeits-/Zeitmatrix und Versicherungszweige umgestellt; zwölf bestehende Fallakten verlinkt, keine Fallakte verändert.",
+      "Frühere Quellenvermerke und Rechtsprechungsgrenzen bleiben historisch datiert; gezielt gelesene zusätzliche Normen und Verwaltungshinweise sind gesondert ausgewiesen."
     ],
-    "sha256": "3a39c9b799f04706c91000d2238b88eb28e12e47786965b3d32287ab197e6288",
-    "reviewed_on": "2026-10-16",
+    "sha256": "717ca34d0b16aba4e7611ff391394fdb45a632010bdbe1c0e7c63cb48e2f7df9",
+    "reviewed_on": "2026-11-15",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Mini vollständig gelesen; Werkstatt-Einstieg, geänderte Passagen, vier ergänzte Fachabschnitte, Abschluss und Visualisierung geprüft. Unveränderter bisheriger Fachhauptteil und übernommene Fachbibliothek nicht erneut vollumfänglich rechtlich verifiziert."
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",
@@ -476,12 +715,228 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
+    "date": "2026-11-15",
     "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
+      "sozialversicherungspflicht-pruefer/references/arbeitsoberflaeche-und-visualisierung.md",
+      "sozialversicherungspflicht-pruefer/skills/sozialversicherungspflicht-pruefen/SKILL.md",
       "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md"
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "review_history": [
+    {
+      "archived_on": "2026-11-15",
+      "reason": "Unveränderte frühere Prüfvermerke vor Zusammenführung; historische Quellenangaben werden nicht auf heute umdatiert.",
+      "previous_fields": {
+        "reviewed_on": "2026-09-30",
+        "selection": {
+          "target_skill": "sozialversicherungspflicht-pruefen",
+          "positive": [
+            "Prüfe meinen Geschäftsführerstatus und die Beiträge in allen deutschen Versicherungszweigen.",
+            "Prüfe die Sozialversicherung unserer Musikdozentin und ihre Zustimmung zum Lehrkräfteübergang.",
+            "Gilt meine RV-Befreiung nach einem Arbeitgeberwechsel weiter?"
+          ],
+          "negative": [
+            "Erstelle eine deutsche GmbH-Gründungssatzung ohne Sozialversicherungsprüfung.",
+            "Prüfe einen ausschließlich österreichischen Sozialversicherungsfall.",
+            "Berechne ausschließlich meine Einkommensteuer ohne Versicherungsfrage."
+          ]
+        },
+        "mini_review": {
+          "verdict": "revised",
+          "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung. 2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+          "changes": [
+            "Status von Zweigen, Befreiung und Beitrag getrennt.",
+            "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
+            "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
+            "2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+          ],
+          "sha256": "88d2f7a781ea161a98c437e74cb0d10f9adf20a258454caf261d42613f114bf6",
+          "reviewed_on": "2026-10-16",
+          "method": "desk_review",
+          "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+        },
+        "workshop_review": {
+          "verdict": "revised",
+          "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung. 2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+          "changes": [
+            "Status von Zweigen, Befreiung und Beitrag getrennt.",
+            "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
+            "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
+            "2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+          ],
+          "sha256": "3a39c9b799f04706c91000d2238b88eb28e12e47786965b3d32287ab197e6288",
+          "reviewed_on": "2026-10-16",
+          "method": "desk_review",
+          "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+        },
+        "prompt_editorial_review": {
+          "date": "2026-09-30",
+          "method": "desk_review",
+          "files": [
+            "sozialversicherungspflicht-pruefer/README.md",
+            "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+            "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-schnellstart.md",
+            "sozialversicherungspflicht-pruefer/references/quellen-und-entscheidungen.md"
+          ],
+          "opening_change": "Konkretes Dokument aus vorhandenen Unterlagen; Status, Zweige, Befreiung und Beitrag nach Tätigkeit und Zeitraum getrennt. Gezielte Fragen und echte Fortführung nach Antworten.",
+          "norms": [
+            "Paragrafen 7, 7a und 127 SGB IV einschließlich aktueller Übergangsdaten 2027/2028",
+            "Paragrafen 1, 2 und 6 SGB VI: Status, selbständige Pflicht und tätigkeitsbezogene Befreiung",
+            "Paragrafen 5, 6 und 8 SGB V; Paragrafen 20, 22 und 23 SGB XI; Paragraf 27 SGB III; SGB VII",
+            "Paragrafen 16, 47 und 54 GmbHG: Stimmen, Legitimation und unterschiedliche Wirksamkeitszeitpunkte"
+          ],
+          "decisions": [
+            {
+              "citation": "BSG, Urteil vom 23.07.2026 – B 12 BA 10/24 R; amtlicher Terminbericht 24/26, Nummer 4, PDF-Seite 4",
+              "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+              "application": "Bei einer Beteiligung von 50/50 und einem wirksamen Stichentscheid durch Dritte die tatsächliche Verhinderungsmacht prüfen.",
+              "limit": "Bericht statt Urteilsvolltext; keine Urteilsrandnummern und keine pauschale Abkehr von der Rechtsprechung zu 50 Prozent.",
+              "checked_on": "2026-09-30",
+              "verification_status": "wiederverwendeter_dokumentierter_profilstand"
+            },
+            {
+              "citation": "BSG, Urteil vom 13.11.2025 – B 12 BA 2/23 R, Randnummern 21–35",
+              "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2025/2025_11_13_B_12_BA_02_23_R.pdf?__blob=publicationFile&v=2",
+              "application": "Status gesondert prüfen; ältere offene Verfahren und Zustimmung nach Paragraf 127 differenzieren.",
+              "limit": "Bestandskräftige Altbescheide wurden offengelassen. Die gesetzlichen Enddaten wurden 2026 verlängert.",
+              "checked_on": "2026-09-30",
+              "verification_status": "wiederverwendeter_dokumentierter_fachquellenbeleg"
+            },
+            {
+              "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 3/25 R; Terminbericht 24/26",
+              "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+              "application": "Berufsständische Befreiung tätigkeitsbezogen prüfen, insbesondere bei Arbeitgeberwechsel.",
+              "limit": "Versorgungswerksmitgliedschaft allein ersetzt weder Antrag noch tätigkeitsbezogene Prüfung.",
+              "checked_on": "2026-09-30",
+              "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+              "passages_read": "Nummer 3, PDF-Seite 3",
+              "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+            },
+            {
+              "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 12/24 R; Terminbericht 24/26",
+              "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+              "application": "VHS-Lehrtätigkeit nach Eingliederung und tatsächlicher Ausgestaltung prüfen.",
+              "limit": "Kein Statusautomatismus jeder Lehrkraft; Übergang nach § 127 SGB IV gesondert.",
+              "checked_on": "2026-09-30",
+              "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+              "passages_read": "Nummer 5, PDF-Seiten 5–6",
+              "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+            },
+            {
+              "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 7/24 R; Terminbericht 24/26",
+              "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+              "application": "Rufbereitschaft und einzelne Einsätze nach ihren jeweiligen Vereinbarungen abgrenzen.",
+              "limit": "Nicht alle Bereitschaftskonstellationen gleichsetzen.",
+              "checked_on": "2026-09-30",
+              "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+              "passages_read": "Nummer 1, PDF-Seiten 1–2",
+              "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+            },
+            {
+              "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 9/24 R; Terminbericht 24/26",
+              "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+              "application": "Mitwirkungsrechte und Rechtsmacht bei der KG-Verwaltung konkret bestimmen.",
+              "limit": "Keine Statusentscheidung allein aus einer Beteiligungsquote oder Berufsbezeichnung.",
+              "checked_on": "2026-09-30",
+              "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+              "passages_read": "Nummer 2, PDF-Seiten 2–3",
+              "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+            },
+            {
+              "citation": "BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
+              "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2",
+              "application": "Fachlich freier VHS-Dozent kann bei fremdbestimmter Organisation ohne gewichtige unternehmerische Chancen beschäftigt sein; tatsächliche Durchführung und Zeiträume gesondert würdigen.",
+              "limit": "Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen.",
+              "checked_on": "2026-09-25",
+              "verification_status": "wiederverwendeter_auditnachweis",
+              "previous_review": "quality/source-audits/2026-09-25/profile-register.json#sozialversicherungsstatus-pruefer:BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
+              "passages_read": "Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen.",
+              "evidence_sha256": "6cf6168355eeb3e90a1c946f97daf72fe4f64895610d61c8bf07fdb6ba017157"
+            }
+          ],
+          "remaining_limits": [
+            "Redaktionelle Quellenprüfung und Ergebnisfälle sind noch keine bestandenen unabhängigen Modellläufe. Tatsächliche Proben werden gesondert mit ihrem Ergebnis dokumentiert.",
+            "Kein universeller Beitragsrechner; tatsächliche Kasse, Pflegeparameter, historische Normstände und Bescheide bleiben fallbezogen.",
+            "Die BGH-Zulassungsentscheidungen werden mittelbar über die gelesene DRV-GRA verwendet, nicht als selbst im Volltext verifizierte Sozialversicherungsurteile."
+          ]
+        },
+        "prompt_workflow_review": {
+          "date": "2026-09-30",
+          "method": "desk_review",
+          "opening_modes": [
+            "Klares Gutachten oder Schreiben: vorhandene Unterlagen unmittelbar auswerten.",
+            "Dringender Bescheid: Bekanntgabe, Form und konkreten Rechtsbehelf vorbereiten.",
+            "Offener Erstauftrag: Tätigkeit, Zeitraum und Versicherungsweg gezielt klären.",
+            "Nachreichung: nur betroffene Zeitphase und Schlussfolgerung fortschreiben."
+          ],
+          "continuation": "Rückantworten und Belege im bestehenden Vorgang zuordnen; davon abhängige Schlüsse erst danach ziehen und unabhängige Teile weiterführen.",
+          "enrichment": "Ausformulierte Befunde, konkrete Rückfragen und Schreiben; mehrstufige Fallakten mit nativen Geld- und Gesellschaftsbelegen.",
+          "limits": "Desk review; keine realen Anträge, Meldungen oder Zahlungsänderungen."
+        },
+        "visual_workflow_review": {
+          "method": "desk_review",
+          "date": "2026-11-13",
+          "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+          "files": [
+            "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md"
+          ],
+          "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+          "pending_prior_changes": []
+        }
+      }
+    }
+  ],
+  "skill_hashes": {
+    "sozialversicherungspflicht-pruefer/skills/berufsgruppen-plattformen-dreieck-bearbeiten/SKILL.md": "43b923b60cf11ec7946e8f857402c300dc00e092b6b8013cc1042a2a43d0ea2e",
+    "sozialversicherungspflicht-pruefer/skills/beschaeftigung-oder-selbststaendigkeit/SKILL.md": "b5b49549358a444d22740ae6ff7f2989411049e2eacd281160a070bde02f914c",
+    "sozialversicherungspflicht-pruefer/skills/freie-mitarbeit-und-projektarbeit/SKILL.md": "dafeaec1aeabdbfd1f36ac08acc575a38e811121503dc2cb5c204182b9cad258",
+    "sozialversicherungspflicht-pruefer/skills/geschaeftsfuehrer-und-gesellschaftermacht/SKILL.md": "cecbb47dbb4c6bca85bad262f46fec82662b1f652786f4f09c1b8e1bd221fcf6",
+    "sozialversicherungspflicht-pruefer/skills/international-nebenberuf-versicherung-bearbeiten/SKILL.md": "190143368eeb26958c084e44891bbc06723b766885f18fe27765e1dd18d9fa56",
+    "sozialversicherungspflicht-pruefer/skills/kuenstler-publizisten-und-ksvg/SKILL.md": "e20733f73fe7ac5047dab0fd4fd4fbe370a4536b2b1f4858fda186ad74dc843b",
+    "sozialversicherungspflicht-pruefer/skills/lehrtaetigkeit-und-uebergang-127/SKILL.md": "64159dafd169a51b72e69d9905af8b6128d2f7752c41aa8ca232a2b6d27a811a",
+    "sozialversicherungspflicht-pruefer/skills/selbststaendige-rentenversicherung/SKILL.md": "78b5da50e0d9ad40d82eaf4ff43a44e36b37a121c27c4bae5bd81466ec7cb38c",
+    "sozialversicherungspflicht-pruefer/skills/sozialversicherungspflicht-pruefen/SKILL.md": "667d08bf6a91061f33016adc07f7a71dae4f88ef2829d28b26476e5e0b1d09b9",
+    "sozialversicherungspflicht-pruefer/skills/status-compliance-qualitaet-bearbeiten/SKILL.md": "979d1cec70e7f63e3d340b2d12f20896343afeb6008dbd8e535617ca3075ac5b",
+    "sozialversicherungspflicht-pruefer/skills/statusverfahren-und-betriebspruefung/SKILL.md": "f65219b2acee72387bbc67fe69693dd8292afe2226467a24f24c4fcd58e73983",
+    "sozialversicherungspflicht-pruefer/skills/versicherungszweige-und-beitraege/SKILL.md": "bae07d7c9d7a82585100baaa6c2625084c55b1a2a6f7ee8f671f7484fdb29d3e",
+    "sozialversicherungspflicht-pruefer/skills/versorgungswerk-und-befreiung/SKILL.md": "744649f0182900fc61cef81cd6123fedcacdc0d7a707c025df16ec8ab5600e52",
+    "sozialversicherungspflicht-pruefer/skills/vorstaende-aufsichtsraete-und-organe/SKILL.md": "e1a10f09dc22bdc308ef2f9d1ba82a296633733157bd582474d12add6a778463"
+  },
+  "reviewed_file_hashes": {
+    "sozialversicherungspflicht-pruefer/README.md": "c69c6051c768111ab5c86e20b382fb64d57446646ae10ca4b735b33875ad29ac",
+    "sozialversicherungspflicht-pruefer/FACHMODULE.md": "abe99ecd59bdcbcdf7527e622b9b5f5c0133ed1741ea1f07e5754980d0571765",
+    "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md": "717ca34d0b16aba4e7611ff391394fdb45a632010bdbe1c0e7c63cb48e2f7df9",
+    "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-schnellstart.md": "0b37b41d30394570d11c43d29ea4ab20708a9ba408db727554bec8cfc59d7ff5",
+    "sozialversicherungspflicht-pruefer/references/ergaenzende-statusfragen.md": "2f25f62009bbe12bf862b6a3af71045bf58ef48debf1b78070632fbe54d8f72a",
+    "sozialversicherungspflicht-pruefer/references/arbeitsoberflaeche-und-visualisierung.md": "c5c7c458fb57c6e0953659d029d851d7cf20fc3b23a89bc8313d4d91e6e36244"
+  },
+  "consolidation_review": {
+    "date": "2026-11-15",
+    "method": "desk_review",
+    "source_profile": "quality/plugin-consolidation/2026-11-15/legacy-evals/sozialversicherungsstatus-pruefer.json",
+    "imported_case_ids": [
+      "dienstplan-und-bereits-laufende-statuspruefung"
+    ],
+    "case_count": 13,
+    "active_skill_count": 14,
+    "preserved_case_archive_count": 12,
+    "preserved_fachinhalt_count": 100,
+    "preserved_router_reference_count": 10,
+    "criteria_preservation": "Ursprüngliche acht Ergebnisfälle unverändert. Der zusätzliche Altstatusfall behält Request und sämtliche Kriterien; nur der Zielskill wurde dem aktiven Hauptrouter zugeordnet. Vier neue Ergebnisfälle beschreiben noch auszuführende Prüfungen.",
+    "scope": "14 Skills hinsichtlich Einstieg, Fachrouting, Ergänzungen und Ausgabe gelesen; Hashbindung des geprüften Standes. Keine fingierte Heilung früherer Quellen- oder Modellnachweise.",
+    "model_execution": "not_run"
+  },
+  "navigation_followup_2026_11_15": {
+    "date": "2026-11-15",
+    "method": "desk_review",
+    "files": [
+      "sozialversicherungspflicht-pruefer/README.md",
+      "sozialversicherungspflicht-pruefer/FACHMODULE.md"
+    ],
+    "scope": "Generierte Navigation erneut gelesen: 14 aktive Arbeitswege, 100 Fachtexte, zehn REFERENZ-Router und zwölf unveränderte Fallverweise; alle 100 Fachtexte und zehn Referenzrouter weiterhin aus aktiven Skills erreichbar. Downloadnavigation und Versionsangabe 445.36.5, Marketplacezählung 311.",
+    "limits": "Nur Navigations- und Inhaltszuordnung geprüft; keine neue Rechtsquellenverifikation und kein Live-Modelllauf."
   }
 }

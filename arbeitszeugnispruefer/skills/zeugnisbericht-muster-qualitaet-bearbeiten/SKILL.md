@@ -9,6 +9,8 @@ description: "Arbeitszeugnisse prüfen und berichtigen: Analyse, Beleglücken, E
 
 Analyse, Beleglücken, Ergebnisdarstellung und Formulierungsentwurf zu einem verständlichen Arbeitsprodukt verbinden.
 
+Lies die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) und die für den Befund einschlägigen Teile des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Analyseauftrag, vollständige Arbeitnehmerprüfung und HR-Auftrag unterscheiden. Keine rechnerischen Noten, festen Wort-Noten-Tabellen oder pauschalen Codevorwürfe.
+
 Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
 
 ## 2. Eingaben
@@ -41,6 +43,23 @@ Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren volls
 - [Arbeitszeugnisprüfung beginnen und abschließen](../einfuehrung-pruefauftrag/FACHINHALT.md)
 - [Rechtliche Analyse und kurzes Mandantenschreiben erstellen](../mandantenbericht-erstellen/FACHINHALT.md)
 - [Rolle und Ziel der Arbeitszeugnisprüfung bestimmen](../rollen-und-modus-wahl/FACHINHALT.md)
+
+- [Ampelsystem-Tabellenausgabe](../ampelsystem-tabellenausgabe/FACHINHALT.md)
+- [Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung](../arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste/FACHINHALT.md)
+- [Negative: Zahlen, Schwellenwerte und Berechnung](../arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung/FACHINHALT.md)
+- [Orange: Risikoampel, Gegenargumente und Verteidigungslinien](../arbeitszeugnis-orange-risikoampel-gegenargumente/FACHINHALT.md)
+- [Chronologie und Belegmatrix Arbeitszeugnis](../chronologie-und-belegmatrix/FACHINHALT.md)
+- [Dokumentenintake](../dokumente-intake/FACHINHALT.md)
+- [Erstgespräch und Mandatsannahme im Zeugnisrecht](../erstgespraech-und-mandatsannahme/FACHINHALT.md)
+- [Analyse: Erstprüfung, Rollenklärung und Mandatsziel](../erstpruefung-rollenklaerung-mandatsziel/FACHINHALT.md)
+- [Mandantenbericht zur Zeugnisanalyse](../mandantenbericht-zeugnisanalyse/FACHINHALT.md)
+- [Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)](../muster-arbeitszeugnis-gemischte-noten/FACHINHALT.md)
+- [Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial)](../muster-arbeitszeugnis-mit-roten-flaggen/FACHINHALT.md)
+- [Muster-Arbeitszeugnis Note 1 (Referenzdokument)](../muster-arbeitszeugnis-note-1/FACHINHALT.md)
+- [Output wählen](../output-waehlen/FACHINHALT.md)
+- [Unterlagen und Lücken](../unterlagen-luecken/FACHINHALT.md)
+- [Zeugnisproblem Sortieren](../zeugnis-problem-sortieren/FACHINHALT.md)
+- [Zeugnis-Überblick und Kopfdaten-Extraktion](../zeugnis-ueberblick-extraktion/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

@@ -11,6 +11,7 @@ import re
 import unicodedata
 
 import yaml
+from skill_source_replacements import validate_replacements
 
 
 REPO = Path(__file__).resolve().parents[1]
@@ -81,7 +82,7 @@ def inspect_plugin(directory: Path) -> dict:
 
 
 def validate_migrations(repo: Path, migrations: list[dict]) -> list[str]:
-    errors = []
+    replacements, errors = validate_replacements(repo)
     seen = set()
     reachability_cache = {}
     links_cache = {}
@@ -119,8 +120,12 @@ def validate_migrations(repo: Path, migrations: list[dict]) -> list[str]:
             # Fachinhalte bleiben neben ihren Werkzeugen im ursprünglichen
             # Skillordner. Sie müssen im gleichen installierbaren Plugin liegen
             # und vom neuen Auswahlweg tatsächlich erreichbar sein.
-            if not resolved.is_relative_to(plugin_root) or not resolved.is_file():
+            if not resolved.is_relative_to(plugin_root):
                 errors.append(f"{plugin}/{old}: Vertiefung fehlt oder liegt außerhalb des Plugins")
+            elif not resolved.is_file():
+                original = resolved.relative_to(repo.resolve()).as_posix()
+                if original not in replacements.get(plugin, {}):
+                    errors.append(f"{plugin}/{old}: Vertiefung fehlt und ist nicht als geprüfte Originalquelle ersetzt")
             else:
                 cache_key = (target.resolve(), plugin_root)
                 if cache_key not in reachability_cache:

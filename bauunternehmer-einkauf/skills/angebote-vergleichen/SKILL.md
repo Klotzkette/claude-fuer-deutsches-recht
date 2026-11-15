@@ -21,6 +21,11 @@ Nutzen Sie Soll-LV, schriftliche Angebote, X84-Abgleich, Preisblätter, Pflicht-
 4. Vergleichen Sie Zusatznutzen wie Schallschutz, Nachweisqualität, Wartungshistorie, Puffer, Reaktion und Vor-Ort-Service je Beleg und Bezugszeitpunkt. Stellen Sie Garantien nach Gegenstand, Beginn, Dauer, Leistungen und Bedingungen daneben. Prüfen Sie den Gleichstand der Wartungsumfänge über die betrachtete Laufzeit.
 5. Rechnen Sie nur vergleichbare Angebote auf derselben Grundlage. Zeigen Sie den Preis- und Leistungsabstand, offene Beleglücken, die Auswirkung eines Fristablaufs und eine dokumentierte Alternative. Stellen Sie den Nachlass bei erfüllter Bedingung gesondert als Variante dar.
 
+
+Bearbeiten Sie dazu die [vertiefte Prüfung aus dem Projekteinkauf](../angebote-vergleichen/FACHINHALT.md). Übernehmen Sie deren einschlägige Beleg- und Prüfschritte in denselben Entwurf; erstellen Sie keinen zweiten parallelen Vorgang.
+
+Zeigen Sie bei offenen Nebenpreisen die begründete Spanne oder den Kipppunkt der Rangfolge. Halten Sie die Berechnungsbasis eines Rabatts sowie Skontofrist und tatsächliche Zahlungsfähigkeit getrennt; ein bedingter Vorteil ist kein sicherer Abzug. Eine unvereinbare Angebotsfassung bleibt erkennbar.
+
 ## 4 Quellenpflicht
 
 Verweisen Sie je Position auf Angebotsdatei, Blatt, Seite oder OZ. Führen Sie bei einer Formel die Eingaben und den Vergleichsmaßstab mit. Belegen Sie technische Eignung und tatsächliche Termine getrennt. [Quellen- und Belegregel](../../references/zitierweise.md)

@@ -67,7 +67,7 @@
     "testakte-agb-tierbedarf-pfotenproviant-nuernberg-einzelpdfs.zip": "agb-werkstatt-v1.0.0",
     "kanzlei-website-redaktion.zip": "ki-verordnung-v445.35.2",
     "kanzlei-website-redaktion-portable.zip": "kanzlei-website-redaktion-v1.0.0",
-    "arbeitszeugnispruefer.zip": "qualitaetsrunde-v445.36.0",
+    "arbeitszeugnispruefer.zip": "qualitaetsrunde-v445.36.5",
     "betreuungsrecht.zip": "qualitaetsrunde-v445.36.0",
     "testakte-betreuung-adelheid-pfister-dreijahresabrechnung.zip": "grundakten-sammlung-v1.0.0",
     "testakte-betreuung-adelheid-pfister-dreijahresabrechnung-einzelpdfs.zip": "betreuungsrecht-v445.33.3",
@@ -683,7 +683,7 @@
     "testakte-projekteinkauf-brandschutztueren-krimpfort-einzelpdfs.zip": "projekteinkauf-baubranche-v445.35.11",
     "testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip": "grundakten-pflegerecht-v1.0.0",
     "testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip": "akten-v445.35.3",
-    "bauunternehmer-einkauf.zip": "bauunternehmer-einkauf-v445.35.15",
+    "bauunternehmer-einkauf.zip": "qualitaetsrunde-v445.36.5",
     "testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip": "bauunternehmer-einkauf-v445.35.15",
     "testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip": "bauunternehmer-einkauf-v445.35.15",
     "testakte-sozialversicherung-ag-organe-hannover.zip": "grundakten-pflegerecht-v1.0.0",
@@ -1093,7 +1093,7 @@
     "aufsichtsrat-ag-se-praxis.zip": "qualitaetsrunde-v445.36.0",
     "aussenwirtschaft-zoll-sanktionen.zip": "qualitaetsrunde-v445.36.0",
     "barrierefreiheit-web-checker.zip": "qualitaetsrunde-v445.36.0",
-    "bautraegervertrag-pruefer.zip": "qualitaetsrunde-v445.36.0",
+    "bautraegervertrag-pruefer.zip": "qualitaetsrunde-v445.36.5",
     "bautraegervertragspruefer.zip": "qualitaetsrunde-v445.36.0",
     "bauwirtschaft.zip": "qualitaetsrunde-v445.36.0",
     "bav-strategie-konzern.zip": "bav-strategie-konzern-v445.36.4",
@@ -1247,6 +1247,7 @@
     "testakte-bav-rentnergesellschaft-rheinhafen-logistik.zip": "bav-strategie-konzern-v445.36.4",
     "testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip": "bav-strategie-konzern-v445.36.4",
     "testakte-bav-pensionskasse-niederrhein-verbund.zip": "bav-strategie-konzern-v445.36.4",
-    "testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip": "bav-strategie-konzern-v445.36.4"
+    "testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip": "bav-strategie-konzern-v445.36.4",
+    "sozialversicherungspflicht-pruefer.zip": "qualitaetsrunde-v445.36.5"
   }
 }

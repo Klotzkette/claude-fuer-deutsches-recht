@@ -1,56 +1,58 @@
 ---
 name: architekt-bearbeiten
-description: "Bauträgervertrag prüfen: Architekt: Leistungsphase, Ueberwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen."
+description: "Gleicht Bauzustand und technische Unterlagen mit geschuldeten Planungs-/Überwachungsleistungen ab; formuliert Gutachterfragen und prüft belegte Haftungs- und Regressansätze."
 ---
 
-# Architekt
+# Technische Nachweise und Haftung beteiligter Fachleute prüfen
 
 ## 1. Zweck und Anwendungsfall
 
-Architekt: Leistungsphase, Ueberwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Trenne den beobachteten Mangel von seiner technischen Ursache und von der rechtlichen Verantwortung. Stelle aus vorhandenen Unterlagen einen belastbaren Prüfauftrag oder eine begründete Anspruchsposition gegenüber Beteiligten her.
 
 ## 2. Eingaben
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+Planungs- und Überwachungsverträge, Leistungsumfang, datierte Pläne, Bautagebuch, Bautenstandsberichte, Fotos, Mängel- und Gutachtenbefunde sowie Unterlagen zu Notar- oder Geschäftsführerverhalten.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Beteiligte und Pflichten
 
-Architekt: Leistungsphase, Ueberwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen.
+Ermittle Vertragspartner, geschuldete Leistung und tatsächliche Beauftragung. HOAI-Leistungsbilder nicht automatisch als vertraglichen Pflichtenkatalog jedes Beteiligten gegenüber dem Erwerber ausgeben.
 
-### 3.2. Arbeitsschritt
+### 3.2. Technische Beweisfrage
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Bauteil, Soll, Befund, Datum, Ursache und offene Prüfung unterscheiden. Fotos belegen nur das Erkennbare. Keine Besichtigung, Messung, Statikprüfung oder technische Freigabe erfinden. Gutachterfragen so stellen, dass sie an konkrete Anknüpfungstatsachen anschließen.
 
-### 3.3. Arbeitsschritt
+### 3.3. Haftung und Regress
 
-Welche Bauzeit- oder Nachtragsfolge ist kausal belegt.
+Pflichtverletzung, Kausalität, Schaden, Zurechnung, Beweislast und Verjährung je Beteiligtem prüfen. Vertragliche Ansprüche, Dritthaftung und mögliche Gesamtschuld voneinander trennen; Organstellung oder Notarbeteiligung begründet nicht automatisch persönliche Haftung.
 
-### 3.4. Arbeitsschritt
+### 3.4. Nutzbares Ergebnis
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+Erstelle den beauftragten Gutachterfragenkatalog, Haftungsvermerk oder Anspruchsbrief. Bereits gesicherte Befunde liefern, genau bezeichnete fehlende Fachnachweise anfordern und nach Eingang die rechtliche Bewertung tatsächlich aktualisieren.
 
-### 3.5. Fachvertiefungen gezielt laden
+### 3.5. Fachvertiefungen gezielt lesen
 
-Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
+Lade die zum Auftrag gehörenden vollständigen Fachmodule vor der Teilprüfung. Fachtexte sind Vertiefungen, keine zusätzlichen auswählbaren Skills. Bei widersprechenden Altformulierungen gelten die belegten Rollen- und Quellenregeln; die konkrete Rechtsfrage trotzdem eigenständig verifizieren.
 
+- [HOAI, Technik, Baugrund und Objektüberwachung](../hoai-technik-baugrund-und-objektueberwachung/FACHINHALT.md)
+- [HOAI, Bauüberwachung und private Bauüberwachung](../hoai-bauueberwachung-private-bauueberwachung/FACHINHALT.md)
 - [Geschäftsführer-, Architekten- und Bautenstandshaftung](../geschaeftsfuehrer-architekt-und-bautenstandshaftung/FACHINHALT.md)
+- [Notarhaftung, Belehrung und Streitverkündung](../notarhaftung-belehrung-und-streitverkuendung/FACHINHALT.md)
+- [Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG](../notarbelehrung-paragraf-14-bnoto-17-beurkg/FACHINHALT.md)
+
+[Erhaltener Arbeitsweg des bisherigen zweiten Prüfers](REFERENZ-bautraegervertragspruefer.md). Die verknüpften Fachinhalte sind im gemeinsamen Paket enthalten.
 
 ## 4. Quellenpflicht
 
-Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
+Nutze die [Quellen- und Rollenregeln](../../references/rechtsprechung-und-rollen.md). Prüfe entscheidungstragende Normen und Rechtsprechung anhand zugänglicher Primärquellen auf Fassung, Aussage und Übertragbarkeit. Vorhandene Rechercheanker sind keine Behauptung einer erneuten Verifikation. Keine Aktenzeichen, Randnummern oder Literaturfundstellen erfinden; lizenzpflichtige Literatur nur bei tatsächlichem Zugang verwenden. Beleg, Schlussfolgerung und offene Prüfung kenntlich unterscheiden.
 
 ## 5. Ausgabeformat
 
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Architekt“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+Liefere das konkret bestellte Dokument vollständig in ausformulierten Sätzen. Stichwortskelette, Halbsätze, leere Klauselrümpfe und bloße Prüflisten sind keine Endfassung. Verwende dezimale Gliederung mit Leerzeilen; für formatierte juristische Dokumente soweit möglich Times New Roman 11 pt. Ohne Exportwerkzeug den vollständigen Text und einen getrennten Formatierungshinweis liefern.
 
-Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
+Eine Tabelle, Zeitachse, Klauselgegenüberstellung oder Ratenansicht ergänzt nur dort, wo sie das Ergebnis verständlicher macht. Nutze verfügbare interaktive Funktionen nach den [Oberflächenregeln](../../references/arbeitsoberflaeche-und-visualisierung.md); sonst eine sofort lesbare Text-/Tabellenansicht. Fehlende Daten, streitige Angaben und Annahmen sichtbar unterscheiden. Die Ausgabe führt zur nächsten konkreten Handlung; externe Erklärungen, Zahlung und Einreichung benötigen einen eigenen Auftrag.
 
 ## 6. Beispiele
 
-- Ein Auftrag zu „Geschäftsführer-, Architekten- und Bautenstandshaftung“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- Eine bezahlte Rate stützt sich auf einen fehlerhaften Bautenstandsbericht. Ordne Aussteller, Empfänger, Prüfauftrag und tatsächliche Zahlung zu, bevor eine persönliche Haftung behauptet wird.

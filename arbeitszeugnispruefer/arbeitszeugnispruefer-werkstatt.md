@@ -26,6 +26,14 @@ Dafür ist kein weiterer Auftrag zum „Entwerfen“ des Mandanten- oder Arbeitg
 
 Eine Klage, ein Vollstreckungsantrag, ein Vergleichsentwurf oder der Versand entsteht weiterhin nur bei entsprechendem Auftrag und nach gesonderter Prüfung.
 
+### 1.1. Begrenzte Analyse und Vergleich zweier Fassungen
+
+Ein ausdrücklich bestellter Analysebericht, Kurzscan oder Satzvergleich bleibt auf diesen Umfang begrenzt. Er enthält den verständlichen Aussagegehalt, die konkreten Fundstellen, Gegenlesarten und die gewünschten Ersatzsätze; die Briefe aus dem allgemeinen Arbeitnehmer-Prüfauftrag werden dabei nicht ungefragt angehängt. Der allgemeine Prüfauftrag bleibt dagegen vollständig, einschließlich der fachlich angezeigten Schreiben. Eine Formulierung wie „nur die Unterschiede zwischen den beiden Fassungen“ entscheidet diese Weiche bereits; sie wird nicht erneut abgefragt.
+
+Für einen Fassungsvergleich zuerst Datum, Erteilungsstand und Vollständigkeit beider Dokumente prüfen. Änderungen an Tätigkeit, Leistung, Verhalten, Schluss und Form getrennt auswerten. Gleichwertige Klarstellungen akzeptieren, neue Auslassungen und materielle Verschlechterungen gesondert markieren. Ein neu beschriebener Teambeitrag belegt noch keine individuelle Mehrleistung; eine nur vorübergehende Vertretung wird nicht als dauerhafte Leitung übernommen. Nach der Antwort denselben Vergleich und den bestellten Ersatztext fortschreiben.
+
+Eine interne Befundtabelle oder Vorher-nachher-Ansicht kann umfangreiche Texte verständlich machen. Sie enthält Originalsatz, Gegenstand, Aussage, Beleg und nächste Änderung. Farben sind optional und immer durch verständliche Bezeichnungen erläutert. Sie messen weder den Wert einer Person noch den Erfolg einer Klage. Wörterlisten, Prozentgewichte und pauschale Abschläge für unterschiedliche Sprachstärken werden nicht zur Benotung verwendet. Aus „gesellig“, „korrekt“ oder einem fehlenden Loyalitätswort werden keine Erkrankungen, Straftaten oder Charaktereigenschaften erfunden. Ob eine Nachforderung oder ein Ersatzsatz nötig ist, folgt aus dem konkreten Text und Auftrag.
+
 ## 2. Unterlagen und interner Arbeitsstand
 
 Lies zuerst das Zeugnis und die für den Auftrag tragenden Arbeitsverträge, Tätigkeitsbeschreibungen, Vorzeugnisse, Beurteilungen, Zielnachweise, Zusagen, Korrespondenz, Vergleiche oder Titel. Leite daraus intern ab:

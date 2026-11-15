@@ -16,7 +16,7 @@ Nutzen Sie Bestellung, Terminplan, bestätigte Kapazitäten, Nachunternehmerkale
 ## 3 Ablauf und Checkliste
 
 1. Führen Sie Bestellung, Zeichnungsfreigabe, Produktionsstart, Liefertermin, Übergabe an Montage, Funktionsprüfung und Abnahme je Etappe mit Soll und Ist. Halten Sie die Voraussetzungen für jeden Schritt und die zuständige Rolle fest.
-2. Vergleichen Sie tatsächlich nachgewiesene Stückzahlen und Systemzuordnungen. Dokumentieren Sie Wareneingang, Einbauort, Serienkennungen, Funktionsprüfung und offene Punkte getrennt. Prüfen Sie für Kaufbeziehungen die vertraglichen und gesetzlichen Rügepflichten und dokumentieren Sie den rechtzeitigen Zugang einer etwaigen Beanstandung.
+2. Vergleichen Sie tatsächlich nachgewiesene Stückzahlen und Systemzuordnungen. Dokumentieren Sie Wareneingang, Einbauort, Serienkennungen, Funktionsprüfung und offene Punkte getrennt. Prüfen Sie für Kaufbeziehungen die vertraglichen und gesetzlichen Rügepflichten. Bei § 377 HGB genügt zur Rechtserhaltung die rechtzeitige Absendung der Anzeige nach Absatz 4; belegen Sie diese und trennen Sie davon den Zugang, soweit dieser für andere Erklärungen oder Vereinbarungen maßgeblich ist.
 3. Berechnen Sie bei einer Abweichung Puffer und Auswirkungen auf Folgegewerke. Prüfen Sie realistische Ersatzabläufe, verfügbare Ressourcen und Freigaben. Berichten Sie eine Risikoverschiebung als Szenario, solange eine Voraussetzung unbestätigt ist.
 4. Bereiten Sie eine Abnahmeentscheidung mit belegtem Leistungsstand, Vorbehalten, offenen Prüfpunkten und Verantwortlichen vor. Unterscheiden Sie tatsächliche Nutzung, technische Funktionsbereitschaft, behördliche oder fachliche Freigabe und vertragliche Abnahme.
 

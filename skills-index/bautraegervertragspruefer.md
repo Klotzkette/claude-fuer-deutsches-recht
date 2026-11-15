@@ -1,36 +1,5 @@
-# bautraegervertragspruefer
+# Fachwege: bautraegervertrag-pruefer
 
-**6 Skills** · Stand `v445.36.0`
+Die gemeinsamen Skills stehen im [Skill-Verzeichnis bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md). [Anleitung und sämtliche bisherigen Testakten](../bautraegervertrag-pruefer/README.md).
 
-[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bautraegervertragspruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
-
-## Downloads
-
-| Paket | Format | Link |
-| --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | [`bautraegervertragspruefer-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart)** | Markdown | [`bautraegervertragspruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/bautraegervertragspruefer-schnellstart.md) |
-| **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bautraegervertragspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/bautraegervertragspruefer.zip) |
-
-## So benutzt man einen Skill
-
-Diese alphabetische Liste zeigt alle Skills im Quellbestand. Umfangreiche Spezialserien werden im installierten Paket teilweise über einen Fachrouter geöffnet und sind dann keine eigenen Menüeinträge. Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts außerhalb des Plugin-ZIPs.
-
-English: This index lists source skills, including specialist series accessed through topic routers in the installed package. Workshop and quick-start files are separate standalone prompts. A skill download provides unchanged Markdown, not an installation; additional references or tools may be required.
-
-- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
-- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
-- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen und entpacken. Es enthält neben jeder `SKILL.md` auch deren Markdown-Referenzen; beim manuellen Einsatz die benötigten Dateien gemeinsam bereitstellen.
-- **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.
-
-## Skills in diesem Plugin
-
-| Skill | Beschreibung | Markdown-Datei |
-| --- | --- | --- |
-| [`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) | Bauträgervertragsprüfung für Mandantengutachten: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) |
-| [`arbeitsprodukt-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/arbeitsprodukt-bearbeiten/SKILL.md) | Bauträgervertragsprüfung für Mandantengutachten: Arbeitsprodukt: Mängelrüge, Nachtragsbewertung, Abnahmeprotokoll, Klageentwurf, Vertragsprüfung oder Gutachterfragen formulieren. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/arbeitsprodukt-bearbeiten/SKILL.md) |
-| [`architekt-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/architekt-bearbeiten/SKILL.md) | Bauträgervertragsprüfung für Mandantengutachten: Architekt: Leistungsphase, Überwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/architekt-bearbeiten/SKILL.md) |
-| [`bauablauf-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/bauablauf-bearbeiten/SKILL.md) | Bauträgervertragsprüfung für Mandantengutachten: Bauablauf: Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/bauablauf-bearbeiten/SKILL.md) |
-| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Bauträgervertragsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/juristischer-argumentationskern/SKILL.md) |
-| [`vertragssoll-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/vertragssoll-bearbeiten/SKILL.md) | Bauträgervertragsprüfung für Mandantengutachten: Vertragssoll: Leistungsbeschreibung, Pläne, Nachträge, Termine, Vergütung und Sicherheiten erfassen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/skills/vertragssoll-bearbeiten/SKILL.md) |
+Der [frühere Quellbestand](../bautraegervertragspruefer/README-bestand.md) bleibt nachvollziehbar.

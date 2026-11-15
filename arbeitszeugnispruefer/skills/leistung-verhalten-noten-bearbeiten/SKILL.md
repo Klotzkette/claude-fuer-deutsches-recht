@@ -9,6 +9,8 @@ description: "Arbeitszeugnisse prüfen und berichtigen: Bewertungssätze, Leistu
 
 Bewertungssätze, Leistungsmerkmale und Verhalten im Gesamtzusammenhang analysieren und mit Belegen vergleichen.
 
+Lies die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) und die für den Befund einschlägigen Teile des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Analyseauftrag, vollständige Arbeitnehmerprüfung und HR-Auftrag unterscheiden. Keine rechnerischen Noten, festen Wort-Noten-Tabellen oder pauschalen Codevorwürfe.
+
 Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
 
 ## 2. Eingaben
@@ -52,6 +54,20 @@ Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren volls
 - [Steigerungs- und Einschränkungswörter prüfen](../steigerungsadverbien-pruefen/FACHINHALT.md)
 - [Verhaltensabschnitt prüfen](../verhaltensabschnitt-pruefen/FACHINHALT.md)
 - [Zusammenfassende Leistungsformel prüfen](../zusammenfassungsformel-erkennen/FACHINHALT.md)
+
+- [Bereichs-Drift-Detektor (Schaufenster-Pattern)](../bereichs-drift-detektor/FACHINHALT.md)
+- [Drift Quellenkarte](../drift-quellenkarte/FACHINHALT.md)
+- [Gesamtnoten-Aggregation](../gesamtnoten-aggregation/FACHINHALT.md)
+- [Grünen-Flaggen-Katalog](../gruen-flaggen-katalog/FACHINHALT.md)
+- [1. Leistungsbeurteilung im Zeugnis analysieren](../leistungsbeurteilung-analyse/FACHINHALT.md)
+- [Notenrelevante Sätze identifizieren](../notenrelevante-saetze-identifizieren/FACHINHALT.md)
+- [Orange-Flaggen-Katalog](../orange-flaggen-katalog/FACHINHALT.md)
+- [Rote-Flaggen-Katalog](../rote-flaggen-katalog/FACHINHALT.md)
+- [Satzweise Notenmatrix](../satzweise-notenmatrix/FACHINHALT.md)
+- [Steigerungsadverbien-Katalog](../steigerungsadverbien-katalog/FACHINHALT.md)
+- [Verhaltensbeurteilung-Analyse](../verhaltensbeurteilung-analyse/FACHINHALT.md)
+- [Widersprüchliche Bewertungen erkennen und kommentieren](../widerspruechliche-bewertungen/FACHINHALT.md)
+- [Zufriedenheitsformel-Decodierung](../zufriedenheitsformel-decodierung/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

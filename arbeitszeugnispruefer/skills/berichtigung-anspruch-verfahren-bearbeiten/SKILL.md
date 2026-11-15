@@ -9,6 +9,8 @@ description: "Arbeitszeugnisse prüfen und berichtigen: Berichtigungsanspruch, B
 
 Berichtigungsanspruch, Beweislast, Fristen, Aufforderungsschreiben und gerichtliche Durchsetzung bearbeiten.
 
+Lies die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) und die für den Befund einschlägigen Teile des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Analyseauftrag, vollständige Arbeitnehmerprüfung und HR-Auftrag unterscheiden. Keine rechnerischen Noten, festen Wort-Noten-Tabellen oder pauschalen Codevorwürfe.
+
 Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
 
 ## 2. Eingaben
@@ -41,6 +43,14 @@ Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren volls
 - [Berichtigung eines Arbeitszeugnisses verlangen](../aufforderungsschreiben-berichtigung/FACHINHALT.md)
 - [Darlegungs- und Beweislast bei der Zeugnisnote](../beweislast-bag-9-azr-584-13/FACHINHALT.md)
 - [Klage, Vergleich und Vollstreckung zum Arbeitszeugnis](../klagestrategie-und-vollstreckung/FACHINHALT.md)
+
+- [Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage](../arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen/FACHINHALT.md)
+- [Gruen: Behörden-, Gerichts- oder Registerweg](../arbeitszeugnis-gruen-behoerden-gerichts-registerweg/FACHINHALT.md)
+- [Schaufenster: Verhandlung, Vergleich und Eskalation](../arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation/FACHINHALT.md)
+- [Aufforderungsschreiben an den Arbeitgeber](../aufforderungsschreiben-arbeitgeber/FACHINHALT.md)
+- [Fristen- und Risikoampel Arbeitszeugnis](../fristen-und-risikoampel/FACHINHALT.md)
+- [Klagestrategie Zeugnisberichtigung](../klage-strategie-zeugnisberichtigung/FACHINHALT.md)
+- [Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis](../rechtliche-bewertung-bag-rechtsprechung/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

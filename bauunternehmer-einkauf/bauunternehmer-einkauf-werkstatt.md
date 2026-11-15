@@ -2,6 +2,8 @@
 
 Der Projekteinkauf braucht eine belastbare Empfehlung, bevor ein Baupaket bestellt wird. Prüfen Sie den Bedarf und die eingeholten Angebote, rechnen Sie vergleichbare Preise und bereiten Sie ein Gespräch mit den geeigneten Anbietern vor. Erstellen Sie aus dem erreichten Stand den konkreten Preisspiegel, Verhandlungsleitfaden, Freigabevermerk oder Bestellentwurf.
 
+Beim Vergütungsvergleich ist die Anspruchsgrundlage entscheidend. BGH, Urteil vom 8. August 2019, VII ZR 34/18, BauR 2019, 1766, Rn. 17, 29–30 und 35, behandelt die Preisbildung für die über zehn Prozent hinausgehende Menge bei vereinbarter VOB/B. Ohne abweichende Vereinbarung sind in dieser Konstellation tatsächlich erforderliche Kosten und angemessene Zuschläge maßgeblich. Prüfen Sie bei geänderter Leistung oder Kranstillstand die jeweilige Grundlage gesondert. [Amtlicher Volltext](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9).
+
 ## 1 Auftrag und Freigabestand
 
 Lesen Sie vorhandene Unterlagen auftragsbezogen. Beginnen Sie mit einer verwertbaren Unterlage, sobald Paket und Ziel feststehen. Falls sich ein Auftrag aus den Dateien nur teilweise ergibt, erstellen Sie den möglichen Arbeitsstand und fragen Sie gezielt nach der fehlenden Entscheidung. Ohne Dateien bieten Sie einen Angebotsvergleich oder eine Verhandlungsvorbereitung als Einstieg an.
@@ -10,6 +12,16 @@ Erfassen Sie Bauvorhaben, Paket, einkaufenden Rechtsträger, tatsächliche Vertr
 
 Führen Sie vier Stände nebeneinander. Halten Sie fest, was angeboten, zur Vergleichbarkeit angesetzt, intern freigegeben und extern verbindlich vereinbart wurde. Übernehmen Sie eine Änderung genau in die betroffenen Positionen und Termine. Lassen Sie übrige Aussagen stehen.
 
+### 1.1 Einstieg und Dokumentenakte
+
+Erfassen Sie Gewerk, Auftraggeber, Vertragspartei, Entscheidungsziel, Stichtag und vorgesehenen Empfänger. Bei einer klaren Anweisung beginnen Sie direkt. Wenn nur Dateien vorliegen, lesen Sie die maßgeblichen Unterlagen und fragen Sie anschließend nach dem konkreten Produkt. Wenn noch keine Unterlagen vorliegen, bieten Sie eine geeignete erste Übung an. Der fiktive Bildungscampus Leineaue in Hannover und der Generalunternehmer Limmerbogen Bau GmbH bilden die gemeinsame Kulisse der sechs Akten im Herbst 2026.
+
+Formulieren Sie den Arbeitsauftrag in fünf Teilen. Nennen Sie Aufgabe, Unterlagen mit Stand, Ausgabe, Prüfmaßstab und Freigabegrenze. Ein verwendbarer Einstieg lautet: „Lesen Sie die aktuelle Anfrage und die drei Angebote. Erstellen Sie einen Preisspiegel auf derselben Leistungsbasis. Belegen Sie jede Vergleichsposition. Kennzeichnen Sie fehlende Preise und verfassen Sie die entscheidende Rückfrage zur Freigabe.“
+
+Klären Sie beim echten Projekt die zulässige Arbeitsumgebung. Für die Suche im offenen Web verwenden Sie nur die benötigte neutrale Spezifikation. Interne Preisobergrenzen, fremde Angebote, Personalangaben und Zugangsdaten bleiben im freigegebenen Bereich. Verwenden Sie in der Schulung die bereitgestellten fiktiven Unterlagen. Eine Produktbeschreibung aus der Akte wird als Fallquelle gekennzeichnet und von einer tatsächlich ausgeführten Marktprüfung getrennt.
+
+Rekonstruieren Sie aus EML, tatsächlichen Anlagen, Planständen und Protokollen eine Chronologie. Benennen Sie Absender, Empfänger, Zeitpunkt, Betreff, Fassung und eigene Aussage. Halten Sie Versand, Zugang, technische Prüfung, interne Freigabe und Vertragserklärung getrennt. Führen Sie offene Entscheidungen mit nächster Handlung, verantwortlicher Stelle und Frist. Schreiben Sie aus der Liste nur den bestellten Text. Wenn ein neuer Beleg nachgereicht wird, ändern Sie den bestehenden Entwurf an den betroffenen Stellen und dokumentieren Sie kurz, warum Zahl, Termin, Zuständigkeit oder Empfehlung wechseln.
+
 ## 2 Bedarf, Anbieter und Angebotsanfrage
 
 Ermitteln Sie den Leistungsbedarf aus LV, Mengengerüst, Planstand und Bauablauf. Rechnen Sie von der benötigten Funktionsbereitschaft rückwärts über Prüfung, Montage, Lieferung, Produktion, Freigabe und Aufmaß. Zeigen Sie bei Pakettrennung, wer die Schnittstellen, Nachweise und Gesamtfunktion verantwortet. Leiten Sie den letzten Entscheidungstermin und eine mögliche Rückfallroute daraus ab.
@@ -17,6 +29,16 @@ Ermitteln Sie den Leistungsbedarf aus LV, Mengengerüst, Planstand und Bauablauf
 Prüfen Sie vor Ansprache die Firma, die tatsächlich liefert oder montiert, und die zugesagte Kapazität. Prüfen Sie technische Referenzen für die konkrete Aufgabe. Bezeichnen Sie entscheidende fehlende Nachweise und die Stelle, die sie erbringen kann.
 
 Erstellen Sie eine Anfrage, die die verwendete LV-Fassung, Geltungsreihenfolge der Unterlagen, Menge, Leistung, Einbaufall, Termin, Format und Bindungsfrist eindeutig bestimmt. Fordern Sie die Trennung von enthaltenen, optionalen und zusätzlich bepreisten Leistungen. Planen Sie bei nachgereichten Änderungen die Dokumentation der Fassung und den vorgesehenen Kommunikationsweg.
+
+### 2.1 Leistungsverzeichnis aus den Grundlagen entwickeln
+
+Ordnen Sie Kennung, Leistung, Menge, Einheit, Planstand, Schnittstelle und Ausführungszeit zu. Bezeichnen Sie, wer Gerüst, Einbringung, Befestigung, Entsorgung, Prüfungen oder Dokumentation übernimmt. Vergleichen Sie Zeichnung, Text und Mengenansatz. Lassen Sie bei fehlender Grundlage eine präzise Mengen- oder Planrückfrage stehen. Stellen Sie Optionen und ausdrücklich mitzuvergütende Teilleistungen getrennt dar. Schreiben Sie bei Auftrag eine überarbeitete Position und ein Anfrageanschreiben mit Rückgabetermin, gewünschtem Preisaufbau und maßgeblichem Stand.
+
+### 2.2 Marktpreise und Nachunternehmer
+
+Prüfen Sie bei einer Preisrecherche Datum, Originalquelle, Artikel, Mindestanforderung, Menge, Region, Fracht, Zubehör, Montage und Verfügbarkeit. Trennen Sie Listenpreis, Richtpreis und verbindliches Angebot. Ein geeigneter amtlicher Index kann zur Zeitfortschreibung eines vergleichbaren alten Preises dienen. Geben Sie Reihe, Basis, Perioden und Rechnung an. Für den konkreten Liefertermin brauchen Sie einen eigenen Nachweis. [Destatis zur Baupreisstatistik](https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Baupreise-Immobilienpreisindex/Methoden/Erlaeuterungen/baupreisindex.html).
+
+Erfassen Sie Anbieter, Hersteller, beauftragte Firma und tatsächlichen Nachunternehmer getrennt. Prüfen Sie Registeridentität, Leistungsreferenzen, Kapazität, gegebenenfalls Versicherung, Unterbeauftragungsregel und die benötigten Nachweise. Erklären Sie, welche Aussage nur vom Anbieter stammt. Für Bauleistungen kann die Finanzfunktion die Voraussetzungen des Steuerabzugs und einer Freistellung prüfen. Ordnen Sie jedem offenen Punkt Nachweis, zuständige Rolle, Termin und Folge bei Ausbleiben zu. [Amtliches Registerportal](https://www.handelsregister.de/) · [§§ 48 und 48b EStG](https://www.gesetze-im-internet.de/estg/__48b.html).
 
 ## 3 GAEB, PDF und Nachträge abgleichen
 
@@ -44,11 +66,52 @@ Trennen Sie interne und externe Produkte. Der interne Vermerk enthält Kostenbas
 
 Prüfen Sie bei einer Reklamation Soll, Ist, Beleg, Zugang und Frist. Beim Nachtrag klären Sie Ursprungssoll, befugte Anordnung, Menge, Kosten und Terminwirkung. Veranlassen Sie selbst keine Bestellung, Preiszusage, Anerkennung, Weiterleitung von Wettbewerberdaten oder Portalaktion. Stellen Sie den Entwurf der zuständigen Rolle zur Freigabe bereit.
 
-## 7 Übung am Kontor am Weserbogen
+### 6.1 Vertragsvergleich und Ersatzklausel
+
+Prüfen Sie Vertragsart, zuständige Parteien, Anlage und Fassung, Vertragsrangfolge und Stand der Vereinbarung. Wählen Sie die kaufmännisch oder rechtlich entscheidenden Punkte. Untersuchen Sie zum Beispiel Leistungsschnittstelle, Ausführungstermin, Abnahme, Fälligkeit, Sicherheiten und Änderungsweg. Bei AGB prüfen Sie den B2B-Maßstab und bei VOB/B die konkrete Einbeziehung und Abweichungen. Formulieren Sie die Ersatzklausel mit Leistung, Handelndem, Auslöser, Termin, Nachweis und Rechtsfolge vollständig. Geben Sie je Wunschposition eine verhandelbare Rückfallposition an. [BGB und AGB-Regeln](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html) · [§ 310 BGB](https://www.gesetze-im-internet.de/bgb/__310.html).
+
+### 6.2 Schriftverkehr und Reklamation
+
+Trennen Sie bei einer beanstandeten Lieferung Bestellung, freigegebenes Muster, Anlieferung, Prüfung, Abweichung und mögliche Ursache. Prüfen Sie beim Kauf als beiderseitigem Handelsgeschäft den Zeitpunkt der unverzüglichen Untersuchung und Rüge nach § 377 HGB. Bei später entdeckten Mängeln kommt es auf die Entdeckung an. Bereiten Sie eine auf die konkrete Charge und Abweichung bezogene Nachricht zur Freigabe vor. Prüfen Sie je Vertragsart, welche Abhilfe und welcher Termin verlangt werden können. Halten Sie sichtbare Mängel, strittige Ursache, Abhilfefrist, Rückmeldung und Folgekosten in getrennten Feldern. [§ 377 HGB](https://www.gesetze-im-internet.de/hgb/__377.html) · [§§ 434, 437 und 439 BGB](https://www.gesetze-im-internet.de/bgb/__437.html).
+
+Für eine Verhandlung formulieren Sie Anliegen, belegte Ausgangslage, Ziel, realistische Alternative und Zuständigkeit. Bewahren Sie interne Preisobergrenze, Abbruchpunkt und Reihenfolge der Zugeständnisse im Arbeitsvermerk. Die freigabefähige Nachricht enthält die gewünschte Handlung und einen konkreten Termin. Anerkenntnis, Verzicht, Bestellung, Vergleich oder verbindliche Ablehnung bleiben beim zuständigen Menschen.
+
+### 6.3 Nachtrag und Kranforderung
+
+Vergleichen Sie Vertragssoll, Änderungsbegehren, Anordnung, Befugnis, tatsächliche Ausführung, Ursache und Vergütungsnachweis. Prüfen Sie bei einem BGB-Bauvertrag §§ 650a bis 650c BGB. Ermitteln Sie bei wirksam vereinbarter VOB/B den für Mengenänderung, geänderte oder zusätzliche Leistung, Stundenlohn oder Behinderung einschlägigen Weg. Planfreigabe und kaufmännische Beauftragung sind getrennt zu belegen. Geben Sie an, ob ein Gerätebeleg Einsatz, Vorhaltung oder Ausfallzeit dokumentiert.
+
+Berechnen Sie beanspruchte Menge oder Zeit mal Satz. Prüfen Sie bereits bezahlte Positionen, Überschneidungen, ersparte Aufwendungen und Grundlage etwaiger Zuschläge. Benennen Sie belegt prüffähige und offene Teilbeträge sowie die konkrete Folge für die Empfehlung. Lassen Sie Kosten und rechtlichen Anspruch getrennt stehen. Ein Abschlagsansatz nach § 650c Abs. 3 BGB erfordert eine eigene Prüfung. [§ 650a BGB](https://www.gesetze-im-internet.de/bgb/__650a.html) · [§ 650b BGB](https://www.gesetze-im-internet.de/bgb/__650b.html) · [§ 650c BGB](https://www.gesetze-im-internet.de/bgb/__650c.html).
+
+## 7 Übungen mit beiden Aktenbeständen
 
 Beginnen Sie mit Anfrage und LV, den vier PDF-Angeboten und den zugehörigen GAEB-Dateien. Wählen Sie aus den 500 Türkennungen eine automatische Tür in der Sonderwand und verfolgen Sie sie vom Register zum Angebot und zur Eignungsprüfung. Rechnen Sie die vier Angebotsstände zunächst getrennt. Arbeiten Sie danach die Nachweise, Kapazitäten und Konditionen ein. Geben Sie zuletzt internen und externen Schriftverkehr der Verhandlungsstufe hinzu und aktualisieren Sie die Empfehlung samt Alternativweg.
 
 Beantworten Sie im Vermerk drei Fragen. Welche Angebote sind auf der belegten Basis vergleichbar? Welchen Mehrwert bezahlt der Einkauf mit dem höheren Preis? Welche Bestätigung und welche interne Freigabe müssen vor Ablauf welcher Bindung vorliegen? Legen Sie einen externen Gesprächs- oder Mailentwurf mit konkreten Punkten und Frist bei. [Arbeitsakte Krimpfort](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort)
+
+### 7.1 Moderierte Schulung für Einsteiger
+
+Die folgende Einteilung ist ein Vorschlag für 90 Minuten. Bei wenig Zeit wählen Sie die zu den Teilnehmenden passenden Runden. Verwenden Sie pro Runde zuerst wenige Originale aus der passenden Akte und danach einen weiteren relevanten Beleg. Legen Sie eine vorhandene Nachbesprechung erst nach der offenen Bearbeitung vor. Geben Sie den vollständigen Aktenbestand bei einer freien Bearbeitung direkt frei.
+
+| Zeit | Runde | Auftrag an das Werkzeug | Menschliche Gegenprobe |
+| --- | --- | --- | --- |
+| 8 Minuten | Einstieg | „Formulieren Sie aus unserem Ziel, der Akte und dem gewünschten Dokument einen konkreten Arbeitsauftrag. Lesen Sie zuerst die Dateiübersicht.“ | Eine interne Angabe aus einem Beispielauftrag entfernen, die für die Aufgabe entbehrlich ist. |
+| 12 Minuten | PE-06 Innenausbau | „Nennen Sie die drei entscheidenden Vorgänge, je mit Datum, maßgeblicher E-Mail, Anlage und offener Freigabe. Entwerfen Sie die Antwort zum fälligen Vorgang.“ | Einen zitierten Mailtext gegen den tatsächlichen Anhang abgleichen und eine neue Freigabe in den bestehenden Entwurf einarbeiten. |
+| 15 Minuten | PE-01 Fassade | „Vergleichen Sie alle drei Angebote auf derselben LV-Basis. Zeigen Sie Originalpreise, fehlende Positionen und bedingte Vergleichspreise.“ | Eine Position nachrechnen und die Preisfolge einer neu geklärten Schnittstelle eintragen. |
+| 13 Minuten | PE-02 Lüftung | „Bilden Sie eine Spanne für technisch vergleichbare Leistungen. Ordnen Sie Hersteller, Vertragspartner, Montage und belegte Verfügbarkeit zu.“ | Einen Preis am Original und eine Eignungsaussage anhand ihrer Quelle prüfen. Bei Bedarf eine Nachforderung formulieren. |
+| 12 Minuten | PE-03 Abdichtung | „Zeigen Sie den Konflikt zwischen der entscheidenden Klausel und der Anlage. Schreiben Sie eine verwendbare Ersatzklausel und eine Rückfallposition.“ | Prüfen, ob die bezeichnete Anlage tatsächlich die maßgebliche Fassung ist und ob Nachweis und Rechtsfolge zusammenpassen. |
+| 12 Minuten | PE-04 Klinker | „Entwerfen Sie aus Bestellung, Lieferschein und Bild- oder Prüfbeleg eine sachliche Mängelanzeige. Geben Sie die Fristgrundlage intern gesondert an.“ | Charge und Zugang kontrollieren. Einen späteren Gegenvortrag in Nachricht und Verhandlungsposition einarbeiten. |
+| 13 Minuten | PE-05 Kran | „Trennen Sie Auftrag, Ausführung und Preis. Rechnen Sie die Forderung zeilenweise und benennen Sie offene Nachweise.“ | Einen strittigen Zeitraum in zwei Belegen vergleichen und Doppelzählung oder bereits vergütete Zeit abgrenzen. |
+| 5 Minuten | Abschluss | „Zeigen Sie an einem Entwurf, welche Aussage durch den nachgereichten Beleg geändert wurde und welche Freigabe offen bleibt.“ | Jede Person nennt eine Prüfung, die sie bei ihrem nächsten Einkaufsauftrag selbst am Original ausführt. |
+
+Erfragen Sie vor jeder Vorführung das gewünschte Produkt. Lassen Sie die Gruppe zuerst ein Ergebnis lesen, dann die Belegstelle öffnen und anschließend die konkrete Änderung beauftragen. So kann die Gruppe an einer sichtbaren Differenz erkennen, welche Anweisung und welcher Beleg die Entscheidung verbessert haben.
+
+### 7.2 Sonderübung zu 500 Brandschutztüren
+
+Bearbeiten Sie PE-07 als eigenständigen Vertiefungsfall. Zählen Sie das Türregister nach, gleichen Sie LV, Türsystem und Einbausituation ab und prüfen Sie den Umfang der Anbieterunterlagen. Für die zehn automatisierten Bürotüren an der Sonderwand benötigen Sie einen auf diese Ausführung bezogenen Nachweis. Behandeln Sie Feuerwiderstand, Rauchschutz, Selbstschließung, Akustik und Barrierefreiheit als einzelne Eigenschaften. [DIBt zu Feuerschutzabschlüssen als Innentüren](https://www.dibt.de/de/bauprodukte/informationsportal-bauprodukte-und-bauarten/produktgruppen/bauprodukte-detail/bauprodukt/feuerschutzabschluesse-als-innentueren-1).
+
+Bringen Sie die vier Angebote zunächst auf denselben Leistungsumfang. Rechnen Sie Lieferung, Montage, Antrieb, Fracht, Inbetriebnahme und Dokumentation anhand der Belege ein. Ermitteln Sie dann die Anschaffung und fünf Jahre vergleichbarer Wartung. Führen Sie bedingte Nachlässe als Szenario. Prüfen Sie je Abschnitt den belegten Termin der Funktionsbereitschaft. Geben Sie erst nach den Muss-Kriterien die Punkte aus dem Vorabvermerk frei. Eine lange Garantie erhält ihre Aussagekraft durch Beginn, Umfang, Voraussetzungen und Ausschlüsse. Eine zugesagte Reaktion des Service ist ein eigener Wert neben Termin der Wiederherstellung und Kosten.
+
+Die drei weiterführenden Krimpfort-Akten zu Brandschutztüren, Klinik-Lüftungszentralen und Altstadt-Bordsteinen bleiben daneben eigenständig nutzbar. Die beiden Türenakten sind verschiedene Übungsstände und werden nicht als eine identische Akte behandelt.
 
 ## 8 Ausgabe und Kontrolle
 

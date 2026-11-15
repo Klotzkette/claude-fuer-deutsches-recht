@@ -1,74 +1,75 @@
 ---
 name: vertragssoll-bearbeiten
-description: "Bauträgervertrag prüfen: Vertragssoll: Leistungsbeschreibung, Plaene, Nachtraege, Termine, Verguetung und Sicherheiten erfassen."
+description: "Gleicht Bauträgerurkunde, Baubeschreibung, Pläne, Fläche und Sonderwünsche ab; prüft AGB und Beurkundungsbezüge und formuliert konkrete rollenbezogene Klauseländerungen."
 ---
 
-# Vertragssoll
+# Bausoll, Vertragsklauseln und Urkundenänderungen prüfen
 
 ## 1. Zweck und Anwendungsfall
 
-Vertragssoll: Leistungsbeschreibung, Plaene, Nachtraege, Termine, Verguetung und Sicherheiten erfassen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Stelle fest, welche Wohnung oder welches Objekt mit welcher Ausstattung, Fläche und Leistung verbindlich geschuldet ist. Überführe widersprechende Anlagen und problematische Klauseln in einen begründeten Befund oder eine vollständige Änderungsfassung.
 
 ## 2. Eingaben
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+Urkundenfassung, Entwurfszugang, Bezugsurkunden, Baubeschreibung, Flächenberechnung, Pläne, Vertriebsunterlagen, Teilungserklärung, Sonderwunschvereinbarungen und Parteienrolle.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Vertragstyp und Fassung
 
-Vertragssoll: Leistungsbeschreibung, Plaene, Nachtraege, Termine, Verguetung und Sicherheiten erfassen.
+Baupflicht und Eigentumsverschaffung bestimmen; Neubau, Bestandskauf und umfassende Sanierung nach dem Leistungsversprechen abgrenzen. Verbraucherstatus und zeitlich anwendbares Recht feststellen. Prüfe Paragraf 650u BGB mit seinen ausdrücklichen Ausnahmen; Schutzvorschriften nicht nur wegen einer Überschrift anwenden.
 
-### 3.2. Arbeitsschritt
+### 3.2. Bausoll belegbar zusammensetzen
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Urkunde, datierte Anlagen, Prospekt und Nebenabreden nach Verbindlichkeit vergleichen. Planänderung und beurkundete Vertragsänderung auseinanderhalten. Fehlende Zuordnung eines Vertriebsplans nicht als Vertragsänderung unterstellen. Je Abweichung Bauteil, Soll, Fundstelle und Bedeutung festhalten.
 
-### 3.3. Arbeitsschritt
+### 3.3. Flächen, Standards und Ausstattung
 
-Welches Vertragssoll ist beweisbar vereinbart.
+Berechnungsmethode, Bezugsfläche, Toleranz, Sondernutzungsrecht und Ausstattung getrennt prüfen. Vertraglicher Standard und technische Norm nicht gleichsetzen. Bei technischer Unsicherheit eine konkrete Sachverständigenfrage statt eines behaupteten Untersuchungsergebnisses formulieren.
 
-### 3.4. Arbeitsschritt
+### 3.4. AGB anhand der Wirkung prüfen
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+Bei Tatsachenbestätigung, Leistungs-/Preisänderung, Vollmacht oder Haftungsbegrenzung Wortlaut, Anwendungsbereich, wirtschaftliche Wirkung und Gegenargument prüfen. Notarielle Beurkundung macht eine vorformulierte Klausel nicht automatisch zur Individualabrede. Unwirksamkeitsfolge, Teilbarkeit und verbleibenden Vertrag gesondert beurteilen.
 
-### 3.5. Fachvertiefungen gezielt laden
+### 3.5. Urkundenänderung fertigstellen
 
-Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
+Vor Beurkundung einen genauen Änderungsvorschlag zur Klauselnummer liefern; nach Abschluss unterscheiden zwischen bestehendem Anspruch und erst auszuhandelnder Änderung. Eine neue Fassung nicht als bereits vereinbart ausgeben. Empfängertext und internen Quellenvermerk trennen.
 
-- [Baubeschreibung, Bausoll und Wohnfläche](../baubeschreibung-bausoll-und-wohnflaeche/FACHINHALT.md)
-- [Baugruppen-GbR, Beurkundung, MoPeG und MaBV-Abgrenzung](../baugruppen-gbr-beurkundung-mopeg-und-mabv-abgrenzung/FACHINHALT.md)
+### 3.6. Fachvertiefungen gezielt lesen
+
+Lade die zum Auftrag gehörenden vollständigen Fachmodule vor der Teilprüfung. Fachtexte sind Vertiefungen, keine zusätzlichen auswählbaren Skills. Bei widersprechenden Altformulierungen gelten die belegten Rollen- und Quellenregeln; die konkrete Rechtsfrage trotzdem eigenständig verifizieren.
+
+- [Bauträgervertrag-Qualifikation](../bautraegervertrag-qualifikation/FACHINHALT.md)
+- [Verbraucherstatus prüfen](../verbraucherstatus-pruefen/FACHINHALT.md)
+- [Verbraucherbauvertrag, Bauträgervertrag, Widerruf und Unterlagen](../verbraucherbauvertrag-650i-650u-widerruf-und-unterlagen/FACHINHALT.md)
 - [Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden](../beurkundung-verbraucherfrist-notar-und-bezugsurkunden/FACHINHALT.md)
-- [DIN, anerkannte Regeln der Technik und Standardwechsel](../din-anerkannte-regeln-technik-und-standardwechsel/FACHINHALT.md)
-- [Druckmuster, Schlüssel, Vormerkung und Zahlung](../druckmuster-schluessel-vormerkung-und-zahlung/FACHINHALT.md)
-- [Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz](../eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz/FACHINHALT.md)
-- [Fall-Fingerabdruck und Schnelltriage](../fall-fingerabdruck-und-schnelltriage/FACHINHALT.md)
-- [HOAI, Technik, Baugrund und Objektüberwachung](../hoai-technik-baugrund-und-objektueberwachung/FACHINHALT.md)
-- [MaBV-/AGB-Klauselmatrix Rot-Orange-Grün](../mabv-agb-klauselmatrix-rot-orange-gruen/FACHINHALT.md)
-- [MaBV-Ratenplan, Sicherheiten und Notaranderkonto](../mabv-ratenplan-sicherheiten-und-notaranderkonto/FACHINHALT.md)
-- [Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht](../nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht/FACHINHALT.md)
-- [Notarhaftung, Belehrung und Streitverkündung](../notarhaftung-belehrung-und-streitverkuendung/FACHINHALT.md)
-- [Preisanpassung, § 315 BGB, Saldierung und Lösungsrecht](../preisanpassung-315-saldierung-und-loesungsrecht/FACHINHALT.md)
-- [§ 650m-Sicherheit, Einbehalt und Bürgschaft](../sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft/FACHINHALT.md)
-- [Sonderwünsche, Bemusterung und Ausstattungswahl](../sonderwuensche-preisanpassung-und-ausstattungswahl/FACHINHALT.md)
+- [Baubeschreibung, Bausoll und Wohnfläche](../baubeschreibung-bausoll-und-wohnflaeche/FACHINHALT.md)
+- [Baubeschreibung und Bausoll prüfen](../baubeschreibung-bausoll-pruefen/FACHINHALT.md)
 - [Wohnfläche, Toleranz, Methode und Minderung](../wohnflaeche-toleranz-methode-und-minderung/FACHINHALT.md)
-- [Wohnungseigentum, Teilungserklärung und Erstverwalter](../wohnungseigentum-teilungserklaerung-und-erstverwalter/FACHINHALT.md)
-- [One-Shot-Verbraucherprüfung Bauträgervertrag](../workflow-one-shot-verbraucherpruefung/FACHINHALT.md)
+- [Wohnfläche prüfen](../wohnflaeche-pruefen/FACHINHALT.md)
+- [DIN, anerkannte Regeln der Technik und Standardwechsel](../din-anerkannte-regeln-technik-und-standardwechsel/FACHINHALT.md)
+- [Mittlere Art und Güte und DIN-Normen](../mittlere-art-und-guete-und-din/FACHINHALT.md)
+- [AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung](../agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung/FACHINHALT.md)
+- [AGB-Kontrolle Klauseln](../agb-kontrolle-klauseln/FACHINHALT.md)
+- [Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast](../paragraf-309-nr-12-bgb-tatsachenbestaetigung/FACHINHALT.md)
+- [Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB](../paragraf-308-nr-4-bgb-leistungsaenderung/FACHINHALT.md)
+- [Gesamtnichtigkeit Paragraf 306 BGB](../gesamtnichtigkeit-paragraf-306-bgb/FACHINHALT.md)
+- [Sonderwünsche, Bemusterung und Ausstattungswahl](../sonderwuensche-preisanpassung-und-ausstattungswahl/FACHINHALT.md)
+- [Preisanpassung und Sonderwünsche](../preisanpassung-und-sonderwuensche/FACHINHALT.md)
+- [Preisanpassung, § 315 BGB, Saldierung und Lösungsrecht](../preisanpassung-315-saldierung-und-loesungsrecht/FACHINHALT.md)
+
+[Erhaltener Arbeitsweg des bisherigen zweiten Prüfers](REFERENZ-bautraegervertragspruefer.md). Die verknüpften Fachinhalte sind im gemeinsamen Paket enthalten.
 
 ## 4. Quellenpflicht
 
-Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
+Nutze die [Quellen- und Rollenregeln](../../references/rechtsprechung-und-rollen.md). Prüfe entscheidungstragende Normen und Rechtsprechung anhand zugänglicher Primärquellen auf Fassung, Aussage und Übertragbarkeit. Vorhandene Rechercheanker sind keine Behauptung einer erneuten Verifikation. Keine Aktenzeichen, Randnummern oder Literaturfundstellen erfinden; lizenzpflichtige Literatur nur bei tatsächlichem Zugang verwenden. Beleg, Schlussfolgerung und offene Prüfung kenntlich unterscheiden.
 
 ## 5. Ausgabeformat
 
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Vertragssoll“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+Liefere das konkret bestellte Dokument vollständig in ausformulierten Sätzen. Stichwortskelette, Halbsätze, leere Klauselrümpfe und bloße Prüflisten sind keine Endfassung. Verwende dezimale Gliederung mit Leerzeilen; für formatierte juristische Dokumente soweit möglich Times New Roman 11 pt. Ohne Exportwerkzeug den vollständigen Text und einen getrennten Formatierungshinweis liefern.
 
-Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
+Eine Tabelle, Zeitachse, Klauselgegenüberstellung oder Ratenansicht ergänzt nur dort, wo sie das Ergebnis verständlicher macht. Nutze verfügbare interaktive Funktionen nach den [Oberflächenregeln](../../references/arbeitsoberflaeche-und-visualisierung.md); sonst eine sofort lesbare Text-/Tabellenansicht. Fehlende Daten, streitige Angaben und Annahmen sichtbar unterscheiden. Die Ausgabe führt zur nächsten konkreten Handlung; externe Erklärungen, Zahlung und Einreichung benötigen einen eigenen Auftrag.
 
 ## 6. Beispiele
 
-- Ein Auftrag zu „Baubeschreibung, Bausoll und Wohnfläche“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Baugruppen-GbR, Beurkundung, MoPeG und MaBV-Abgrenzung“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- „Der neue Plan hat einen kleineren Balkon.“ Prüfe Fassungen und Vertragszuordnung, berechne nur belegte Abweichungen und liefere den bestellten Klarstellungs- oder Anspruchstext.

@@ -15,7 +15,7 @@ Rahmenvertrag und Einzelauftrag, Leistungsbeschreibung, Abnahme, Preis und Nachb
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -38,6 +38,19 @@ Ein zunächst abgegrenztes Entwicklungsprojekt kann in laufende Teamarbeit über
 ### 3.5. Ergebnis und Änderungen dokumentieren
 
 Formuliere die Subsumtion mit konkret zugeordneten Belegen und stärksten Gegenindizien. Wenn eine künftige Änderung beauftragt ist, beschreibe echte organisatorische Änderungen samt Zuständigkeit und Zeitpunkt. Eine neue Überschrift, Ersetzungsbefugnis auf dem Papier oder nachträglich bereinigte Zeiterfassung genügt nicht.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [Dienst-/Werkvertrag im Statusrecht](../dienstvertrag-werkvertrag-freie-mitarbeit/FACHINHALT.md)
+- [Freie-Mitarbeit-Klauseln](../freie-mitarbeit-klauseln/FACHINHALT.md)
+- [Honorarvertrag Realitätscheck](../honorarvertrag-realitaetscheck/FACHINHALT.md)
+- [Interim Manager](../interim-manager-it-freelancer-journalist/FACHINHALT.md)
+- [IT-Freelancer im agilen Projekt](../it-freelancer-agil-projekt/FACHINHALT.md)
+- [Projektbeschreibung und Ergebnisabnahme](../projektbeschreibung-ergebnisabnahme/FACHINHALT.md)
+- [Rahmenvertrag und Einzelauftrag](../rahmenvertrag-einzelauftrag/FACHINHALT.md)
+- [Vergütung Zeit oder Erfolg](../verguetung-vermittler-dreiecksverhaeltnis-vhs/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

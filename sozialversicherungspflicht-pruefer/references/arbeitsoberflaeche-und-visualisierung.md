@@ -4,15 +4,15 @@ Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was gesch
 
 ## 1. Fachliche Ansicht
 
-**Leitfrage für Versicherungsrecht:** Welche Formulierung erfüllt das Geschäftsziel und was ändert die Alternative?
+**Leitfrage für Sozialversicherungsstatus:** Welche Tätigkeit war in welchem Zeitraum wie organisiert, und welche Versicherungs- oder Beitragsfolge ist belegt?
 
-**Erste Ansicht:** Stelle betroffene Klauseln nebeneinander: vorhandene Fassung, vorgeschlagener Text, konkrete Rechts- oder Kostenfolge und offener Verhandlungspunkt.
+**Erste Ansicht:** Zeige bei komplexer Akte eine Tätigkeits- und Zeitmatrix: Person, Vertragspartner, tatsächlicher Arbeitsort, Statusindiz, Versicherungszweig, Bescheid und Beleg. Bei Auslandssachverhalten zuerst die anwendbare Rechtsordnung sichtbar machen.
 
-**Sinnvolle Interaktion:** Lasse eine tatsächlich angebotene Klauselvariante auswählen; übernimm die Wahl in den fortgeführten Entwurf und prüfe Verweisungen, Definitionen und Folgeklauseln. Eine Risikofarbe ersetzt keine Erläuterung.
+**Sinnvolle Interaktion:** Ermögliche die Auswahl eines tatsächlichen Zeitabschnitts oder einer Tätigkeit. Neue Unterlagen ändern nur die betroffenen Indizien, Zweige und Entwurfsstellen. Ein alternatives Zugangsdatum oder eine andere Arbeitsortverteilung bleibt als Annahme gekennzeichnet.
 
-**Datengrundlage:** Dokumentversion, Klauselnummer, Wortlaut, Geschäftsziel, Beleg für die Sachannahme und Rechtsquelle. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+**Datengrundlage:** Verträge, wirksame Gesellschaftsrechte, tatsächliche Organisation, Arbeitsorte, Entgeltzeiträume und vorhandene Entscheidungen; jede tragende Angabe mit Datei und Seite, Tabellenblatt/Zelle oder Belegkennung verbinden. Fehlend ist nicht null.. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
 
-**Weiter zum Ergebnis:** vollständig ausformulierte Vertragsfassung oder Verhandlungsantwort mit gesonderter Änderungsübersicht. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+**Weiter zum Ergebnis:** begründetes Statusgutachten, Beitragsberechnung oder das beauftragte vollständige Schreiben. Die Ansicht ergänzt die Gesamtwürdigung; sie berechnet keinen automatischen Status aus einem Punktesystem.. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
 
 ## 2. Verfügbare Fähigkeiten nutzen
 

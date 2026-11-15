@@ -183,6 +183,7 @@ if (!Array.isArray(marketplace.plugins) || marketplace.plugins.length === 0) {
 }
 
 const seen = new Set();
+const activeManifestPaths = new Set();
 let lastName = '';
 let skillCount = 0;
 let readmeCount = 0;
@@ -216,6 +217,7 @@ for (const entry of marketplace.plugins || []) {
     continue;
   }
   const manifestPath = path.join(pluginRoot, '.claude-plugin', 'plugin.json');
+  activeManifestPaths.add(manifestPath);
   const manifest = readJson(manifestPath);
   if (!manifest) continue;
   if (manifest.name !== entry.name) errors.push(`${rel(manifestPath)}: name passt nicht zum Marketplace`);
@@ -321,9 +323,47 @@ for (const entry of marketplace.plugins || []) {
   }
 }
 
-const manifestCount = walk(root, (file) => file.endsWith(`${path.sep}.claude-plugin${path.sep}plugin.json`)).length;
-if (manifestCount !== seen.size) {
-  errors.push(`Manifestanzahl ${manifestCount} passt nicht zur Marketplace-Anzahl ${seen.size}`);
+// Historische Quellen sind kein zweites installierbares Plugin. Die Ausnahme
+// gilt nur für ausdrücklich deklarierte und erhaltene Archive; beliebige
+// zusätzliche Manifeste bleiben ein Fehler, auch bei gleicher Gesamtanzahl.
+const archiveManifestPaths = new Set();
+const consolidationPath = path.join(root, 'scripts', 'plugin-consolidations.json');
+if (fs.existsSync(consolidationPath)) {
+  const config = readJson(consolidationPath);
+  if (!isRecord(config) || config.schema_version !== 1 || !Array.isArray(config.consolidations)) {
+    errors.push(`${rel(consolidationPath)}: ungültiges Zusammenführungsregister`);
+  } else {
+    for (const entry of config.consolidations) {
+      if (!isRecord(entry) || typeof entry.legacy !== 'string' || !/^[a-z0-9-]+$/.test(entry.legacy)
+          || entry.legacy_status !== 'retained_source_archive'
+          || seen.has(entry.legacy) || !seen.has(entry.canonical) || entry.legacy === entry.canonical) {
+        errors.push(`${rel(consolidationPath)}: ungültiges Quellarchiv ${entry?.legacy}`);
+        continue;
+      }
+      const archiveRoot = path.join(root, entry.legacy);
+      const manifestPath = path.join(archiveRoot, '.claude-plugin', 'plugin.json');
+      if (archiveManifestPaths.has(manifestPath)) {
+        errors.push(`${rel(consolidationPath)}: doppeltes Quellarchiv ${entry.legacy}`);
+        continue;
+      }
+      try {
+        if (fs.lstatSync(archiveRoot).isSymbolicLink()
+            || fs.lstatSync(path.dirname(manifestPath)).isSymbolicLink()
+            || fs.lstatSync(manifestPath).isSymbolicLink()) throw new Error('Symlink im Archivpfad');
+        const manifest = readJson(manifestPath);
+        if (!isRecord(manifest) || manifest.name !== entry.legacy) throw new Error('Manifestidentität stimmt nicht');
+        archiveManifestPaths.add(manifestPath);
+      } catch (error) {
+        errors.push(`${rel(consolidationPath)}:${entry.legacy}: Quellarchiv nicht erhalten: ${error.message}`);
+      }
+    }
+  }
+}
+const manifestPaths = walk(root, (file) => file.endsWith(`${path.sep}.claude-plugin${path.sep}plugin.json`));
+for (const manifestPath of manifestPaths) {
+  if (!activeManifestPaths.has(manifestPath) && !archiveManifestPaths.has(manifestPath)) {
+    errors.push(`${rel(manifestPath)}: Manifest ohne aktiven Marketplace-Eintrag oder deklariertes Quellarchiv`);
+  }
 }
 
 console.log(`Marketplace-Importprüfung: ${seen.size} Plugins, ${skillCount} Skills, ${readmeCount} README-Dateien`);

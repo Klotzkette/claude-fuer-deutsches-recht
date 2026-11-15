@@ -21,6 +21,12 @@ Nutzen Sie vorhandene Unterlagen und erheben Sie die Beschaffungsrolle, den Leis
 4. Führen Sie bei anstehender Verhandlung zu `verhandlungen-fuehren`, bei Bestellung und Vertrag zu `bestellung-und-vertrag-absichern`. Nach Auftrag greifen `lieferung-und-abnahme-steuern` oder `nachtraege-und-reklamationen-bearbeiten`.
 5. Legen Sie pro Freigabepunkt die entscheidende Unterlage, die zuständige Rolle und eine konkrete Frist fest. Schreiben Sie nach Eingang neuer Informationen den vorhandenen Entwurf fort und lassen Sie weiter geltende Freigaben stehen. Lassen Sie Versand, Zusage und Bestellung der hierfür autorisierten Rolle.
 
+### 3.1 Direkt zum benötigten Arbeitsprodukt
+
+Bei wenig KI-Erfahrung formulieren Sie gemeinsam einen [konkreten Arbeitsauftrag](../ki-arbeitsauftrag-formulieren/SKILL.md) und bearbeiten ihn sofort. Bei unübersichtlichen Unterlagen beginnen Sie mit der [Dokumentenakte](../dokumentenakte-auswerten/SKILL.md). Erarbeiten Sie den Bedarf und die Mengengrundlagen mit [Leistungsverzeichnis und Anfrage](../leistungsverzeichnis-und-ausschreibung/SKILL.md); klären Sie marktübliche Größenordnungen mit der [Preisrecherche](../preise-recherchieren/SKILL.md). Eine Preisquelle ersetzt weder das konkrete Angebot noch den Liefernachweis.
+
+Verbinden Sie die Fachwege zu einem Vorgang: [Beschaffungsstrategie](../bedarf-und-beschaffungsstrategie/SKILL.md), [Lieferantenauswahl](../lieferanten-und-nachunternehmer-auswaehlen/SKILL.md), [Anfrage](../angebote-einholen/SKILL.md), [GAEB-Abgleich](../gaeb-angebote-pruefen/SKILL.md), [Preisspiegel](../angebote-vergleichen/SKILL.md), [Verhandlung](../verhandlungen-fuehren/SKILL.md), [Vertrag](../bestellung-und-vertrag-absichern/SKILL.md), [Lieferung und Abnahme](../lieferung-und-abnahme-steuern/SKILL.md), [Nachtrag und Reklamation](../nachtraege-und-reklamationen-bearbeiten/SKILL.md). Fragen Sie nur nach dem nächsten entscheidenden Beleg und führen Sie den bestellten Text zu Ende. Für Lehrgänge stehen der [Schulungsablauf](../../references/schulungsablauf.md) und die [sieben Einkaufsübungen](../../references/akten-und-uebungen.md) bereit.
+
 ## 4 Quellenpflicht
 
 Belegen Sie Rollen und verbindliche Freigaben anhand des Hauptvertrags, der Delegationsmatrix oder des ausdrücklichen Freigabevermerks. Kennzeichnen Sie unbestätigte Annahmen. [Quellen- und Belegregel](../../references/zitierweise.md)

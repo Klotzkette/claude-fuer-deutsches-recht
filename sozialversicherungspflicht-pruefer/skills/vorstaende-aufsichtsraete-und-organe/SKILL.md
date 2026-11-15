@@ -15,7 +15,7 @@ Rechtsform, Bestellung, Satzung, Aufgaben und Vertretung, Vergütungsbeschlüsse
 
 Lies zuerst die tatsächlich vorliegenden Unterlagen und den konkreten Auftrag. Übernimm bekannte Daten und bereits gegebene Antworten. Belege Tatsachen durch Datei, Datum und Fundstelle; trenne vertragliche Regelung, gelebte Durchführung, Parteibehauptung und behördliche Feststellung. Fehlende entscheidende Informationen gezielt erfragen und die Antwort abwarten, bevor davon abhängige Schlussfolgerungen gezogen werden. Unabhängige Teile weiterbearbeiten. Ein späterer Hinweis setzt den bestehenden Vorgang fort und startet keine neue allgemeine Befragung.
 
-Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin bearbeitet deutsches Recht und inländische Sachverhalte; bei einem tatsächlichen Auslandsbezug die nationale Aussage begrenzen und die kollisionsrechtliche Vorfrage benennen.
+Bestimme Person, konkrete Tätigkeit, Vertragspartner, Zeitraum und gewünschten Gegenstand. Mehrere Beschäftigungen, selbständige Tätigkeiten und Organämter sind keine einheitliche Personeneigenschaft. Dieses Plugin prüft die deutsche Sozialversicherung. Bei tatsächlichem Auslandsbezug zuerst den Arbeitsweg `international-nebenberuf-versicherung-bearbeiten` für Geltungsbereich und anwendbares Recht nutzen; eine deutsche Zweigprüfung nicht ohne diese Vorfrage auf ausländische Arbeit übertragen.
 
 ## 3. Ablauf und Verzweigungen
 
@@ -34,6 +34,12 @@ Für KV/PV besteht keine gleichartige pauschale Organausnahme. Beschäftigungsst
 ### 3.4. Aufsichtsratsmandat und Zusatzauftrag unterscheiden
 
 Die eigenverantwortliche Überwachungsfunktion eines Aufsichtsratsmandats ist anders zu würdigen als eine weisungsgebundene Beschäftigung. Ein zusätzliches Beratungs-, Projekt- oder Übergangsmanagement darf nicht ungeprüft im Mandat aufgehen. Fixvergütung, Sitzungsgeld und Aufwandspauschale einzeln zuordnen. Umsatzsteuerrechtliche Aussagen über Aufsichtsräte entscheiden die sozialversicherungsrechtliche Frage nicht. Fehlt ein passender gelesener höchstrichterlicher Anker, die Reichweite der Aussage offenlegen statt ein Aktenzeichen zu ergänzen.
+
+### 3.9. Zugeordnete Fachvertiefungen und Vorlagen
+
+Die einschlägigen Fachtexte vor der Teilprüfung vollständig lesen. Sie vertiefen diesen Arbeitsweg und sind keine zusätzlichen auswählbaren Skills. Allgemeine Listen darin auf den konkreten Auftrag begrenzen; Quellenstand und Rechtsfassungen erneut prüfen.
+
+- [AG-Vorstand und Sozialversicherung](../vorstand-ag-status/FACHINHALT.md)
 
 ## 4. Quellenpflicht
 

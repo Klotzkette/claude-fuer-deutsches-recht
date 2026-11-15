@@ -15,6 +15,95 @@ PLUGIN = ROOT / "arbeitszeugnispruefer"
 SPEC = next(p for p in registry() if p["name"] == PLUGIN.name)
 ACTIVE_SKILLS = set(SPEC["keep"] + [r["slug"] for r in SPEC["routes"]])
 
+# Die ursprünglichen 31 Texte behalten ihre strengen inhaltlichen Regressionen.
+# Die Analyse-Bibliothek wird zusätzlich und mit eigenen Kollisionsprüfungen geprüft.
+LEGACY_MODULE_SLUGS = (
+    'aeussere-form-und-briefkopf',
+    'ampel-einschaetzung-pro-satz',
+    'aufforderungsschreiben-berichtigung',
+    'auslassungen-erkennen',
+    'beendigungsgrund-pruefen',
+    'beweislast-bag-9-azr-584-13',
+    'doppelboeden-und-verneinungen',
+    'einfuehrung-pruefauftrag',
+    'frequenzadverbien-pruefen',
+    'fuehrungskraft-verhalten-pruefen',
+    'geheimcodes-katalog',
+    'intake-und-stammdaten-pruefen',
+    'juristischer-argumentationskern',
+    'klagestrategie-und-vollstreckung',
+    'mandantenbericht-erstellen',
+    'note-1-formeln-erkennen',
+    'note-2-formeln-erkennen',
+    'note-3-formeln-erkennen',
+    'note-4-formeln-erkennen',
+    'note-5-formeln-erkennen',
+    'notenstufen-bag-9-azr-386-10',
+    'personenreihenfolge-pruefen',
+    'rollen-und-modus-wahl',
+    'schaufenster-und-drift-erkennen',
+    'schlussformel-notenwirkung-bewerten',
+    'schlussformel-pruefen',
+    'steigerungsadverbien-pruefen',
+    'taetigkeitsabschnitt-wertigkeit-pruefen',
+    'verhaltensabschnitt-pruefen',
+    'zeugnisklarheit-objektiver-empfaengerhorizont',
+    'zusammenfassungsformel-erkennen',
+)
+ANALYSE_MODULE_SLUGS = (
+    'ampelsystem-tabellenausgabe',
+    'arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste',
+    'arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk',
+    'arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen',
+    'arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine',
+    'arbeitszeugnis-gruen-behoerden-gerichts-registerweg',
+    'arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung',
+    'arbeitszeugnis-orange-risikoampel-gegenargumente',
+    'arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation',
+    'arbeitszeugnis-zeugnisanalyse-wortlaut-codes',
+    'aufforderungsschreiben-arbeitgeber',
+    'azubi-zeugnis-analyse',
+    'bereichs-drift-detektor',
+    'branchen-spezifische-formulierungen',
+    'chronologie-und-belegmatrix',
+    'dokumente-intake',
+    'drift-quellenkarte',
+    'erstgespraech-und-mandatsannahme',
+    'erstpruefung-rollenklaerung-mandatsziel',
+    'fristen-und-risikoampel',
+    'geheimcode-katalog',
+    'gesamtnoten-aggregation',
+    'gruen-flaggen-katalog',
+    'klage-strategie-zeugnisberichtigung',
+    'leistungsbeurteilung-analyse',
+    'leitende-positionen-zeugnisse',
+    'mandantenbericht-zeugnisanalyse',
+    'muster-arbeitszeugnis-gemischte-noten',
+    'muster-arbeitszeugnis-mit-roten-flaggen',
+    'muster-arbeitszeugnis-note-1',
+    'negationen-und-auslassungen-erkennen',
+    'negative-codeworte-katalog',
+    'notenrelevante-saetze-identifizieren',
+    'orange-flaggen-katalog',
+    'output-waehlen',
+    'rechtliche-bewertung-bag-rechtsprechung',
+    'rote-flaggen-katalog',
+    'satzweise-notenmatrix',
+    'schlussformel-bewertung',
+    'steigerungsadverbien-katalog',
+    'unterlagen-luecken',
+    'verbesserungsvorschlaege-formulieren',
+    'verhaltensbeurteilung-analyse',
+    'widerspruechliche-bewertungen',
+    'zeugnis-problem-sortieren',
+    'zeugnis-ueberblick-extraktion',
+    'zeugnisart-erkennung',
+    'zufriedenheitsformel-decodierung',
+)
+
+def legacy_skill_sources():
+    return [source(slug) for slug in LEGACY_MODULE_SLUGS]
+
 def source(slug):
     return fachinhalt_path(PLUGIN / "skills" / slug / "SKILL.md")
 
@@ -238,7 +327,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertNotIn("Ein Streit über eine bessere Gesamtbewertung verlangt", text)
 
     def test_every_original_module_has_specific_routing_and_a_continuation_rule(self):
-        paths = original_skill_sources(PLUGIN)
+        paths = legacy_skill_sources()
         self.assertEqual(len(paths), 31)
         descriptions = []
         for path in paths:
@@ -257,7 +346,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         self.assertEqual(active, ACTIVE_SKILLS)
         self.assertLessEqual(len(active), 20)
         originals = original_skill_sources(PLUGIN)
-        self.assertEqual(len(originals), 31)
+        self.assertEqual(len(originals), 81)
         for path in originals:
             with self.subTest(module=path.parent.name):
                 owner = active_owner(PLUGIN, path.parent.name)
@@ -267,8 +356,50 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                     self.assertIn(f"../{path.parent.name}/FACHINHALT.md", route.read_text())
                     self.assertFalse(path.with_name("SKILL.md").exists())
 
+    def test_merged_library_preserves_both_specialist_collections(self):
+        self.assertEqual(31, len(LEGACY_MODULE_SLUGS))
+        self.assertEqual(48, len(ANALYSE_MODULE_SLUGS))
+        self.assertFalse(set(LEGACY_MODULE_SLUGS) & set(ANALYSE_MODULE_SLUGS))
+        actual = {p.parent.name for p in (PLUGIN / "skills").glob("*/FACHINHALT.md")}
+        self.assertEqual((set(LEGACY_MODULE_SLUGS) - {"juristischer-argumentationskern"}) | set(ANALYSE_MODULE_SLUGS), actual)
+        self.assertEqual(78, len(actual))
+        for slug in ANALYSE_MODULE_SLUGS:
+            with self.subTest(module=slug):
+                original = ROOT / "arbeitszeugnis-analyse" / "skills" / slug / "FACHINHALT.md"
+                self.assertTrue(original.is_file(), "The original source must remain available")
+                text = source(slug).read_text(encoding="utf-8")
+                self.assertIn("arbeitszeugnis-auslegung-und-arbeitsmodi.md", text)
+                owner = active_owner(PLUGIN, slug)
+                route = PLUGIN / "skills" / owner / "SKILL.md"
+                self.assertIn(f"../{slug}/FACHINHALT.md", route.read_text())
+
+    def test_merged_entry_points_finish_the_correct_assignment(self):
+        for slug in ("einstieg-routing", "kaltstart-triage"):
+            text = (PLUGIN / "skills" / slug / "SKILL.md").read_text(encoding="utf-8")
+            with self.subTest(skill=slug):
+                self.assertIn("Analyse", text)
+                self.assertIn("Arbeitgeberschreiben", text)
+                self.assertIn("Arbeitsbuch", text)
+                self.assertRegex(text, r"(?i)(?:keine starre Höchstzahl|Anzahl der Fragerunden folgt dem Fall)")
+                self.assertNotRegex(text, r"(?i)(?:höchstens|hoechstens) (?:eine|zwei) (?:Rückfrage|Rueckfrage|Fragen)")
+                self.assertIn("ohne", text)
+                self.assertRegex(text, r"(?:Status-, Datei-, Rollen-|Status-, Datei-, Rollen- oder Metadaten)")
+                self.assertIn("Times New Roman 11", text)
+        workshop = (PLUGIN / "arbeitszeugnispruefer-werkstatt.md").read_text(encoding="utf-8")
+        self.assertIn("Begrenzte Analyse und Vergleich zweier Fassungen", workshop)
+        self.assertIn("nicht ungefragt angehängt", workshop)
+
+    def test_unsafe_note_arithmetic_regression_rejects_legacy_examples(self):
+        unsafe = re.compile(r"Gewichteter Wert|Gewichtete Gesamtnote|minus (?:eine )?halbe Stufe|Codewort, unabhaengig vom restlichen Satz|Codewort für Trinkproblem")
+        for slug in ("gesamtnoten-aggregation", "satzweise-notenmatrix", "ampelsystem-tabellenausgabe", "negative-codeworte-katalog", "muster-arbeitszeugnis-gemischte-noten"):
+            original = (ROOT / "arbeitszeugnis-analyse" / "skills" / slug / "FACHINHALT.md").read_text(encoding="utf-8")
+            corrected = source(slug).read_text(encoding="utf-8")
+            with self.subTest(module=slug):
+                self.assertRegex(original, unsafe, "The regression must actually detect the previous erroneous rule")
+                self.assertNotRegex(corrected, unsafe)
+
     def test_specialists_do_not_turn_style_conventions_into_certain_claims(self):
-        all_skills = "\n".join(path.read_text(encoding="utf-8") for path in original_skill_sources(PLUGIN))
+        all_skills = "\n".join(path.read_text(encoding="utf-8") for path in legacy_skill_sources())
         for assertion in (
             "Eine falsche Reihenfolge ist ein eigener Berichtigungspunkt",
             "Alle fünf Bausteine",
@@ -344,7 +475,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                     self.assertIn(anchor, text)
         gateway = source("einfuehrung-pruefauftrag").read_text(encoding="utf-8")
         self.assertIn("Keine fünf parallelen Notenprüfungen", gateway)
-        for path in original_skill_sources(PLUGIN):
+        for path in legacy_skill_sources():
             self.assertNotIn("§", path.read_text(encoding="utf-8"))
 
 

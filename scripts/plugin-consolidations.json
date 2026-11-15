@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "version": "445.36.5",
+  "tag": "qualitaetsrunde-v445.36.5",
+  "baseline_commit": "29b4fb0684eb15d0e4cf2f68c5d9653ff43c8637",
+  "consolidations": [
+    {
+      "legacy": "bautraegervertragspruefer",
+      "canonical": "bautraegervertrag-pruefer",
+      "active_skills": 10,
+      "legacy_status": "retained_source_archive",
+      "case_entries": [
+        "bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung",
+        "bautraegervertragspruefer/testakte"
+      ]
+    },
+    {
+      "legacy": "arbeitszeugnis-analyse",
+      "canonical": "arbeitszeugnispruefer",
+      "active_skills": 8,
+      "legacy_status": "retained_source_archive",
+      "case_entries": [
+        "arbeitszeugnis-analyse-bluehendes-leben",
+        "testakte/gesamt-pdf/testakte_gesamt.pdf"
+      ]
+    },
+    {
+      "legacy": "sozialversicherungsstatus-pruefer",
+      "canonical": "sozialversicherungspflicht-pruefer",
+      "active_skills": 14,
+      "legacy_status": "retained_source_archive",
+      "case_entries": [
+        "rentenberater-status-bav-rentenanspruch-querschnitt-dortmund",
+        "rentenberater-statusfeststellung-plattformkurier-essen",
+        "solo-selbststaendige-designstudio-luise-falkensee-2026",
+        "sozialversicherung-ag-organe-hannover",
+        "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
+        "sozialversicherung-gmbh-zwanzig-prozent-berlin",
+        "sozialversicherung-musikakademie-prenzlauer-berg",
+        "sozialversicherung-programmierer-leipzig",
+        "sozialversicherung-syndikus-versorgungswerk-hamburg",
+        "statusfeststellung-drv-musikschule-gf-freelancer-klingenhain",
+        "statusfeststellung-familienangehoerige-baeckerei-luenen",
+        "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen"
+      ]
+    },
+    {
+      "legacy": "projekteinkauf-baubranche",
+      "canonical": "bauunternehmer-einkauf",
+      "active_skills": 14,
+      "legacy_status": "retained_source_archive",
+      "case_entries": [
+        "bauunternehmer-einkauf-altstadt-bordsteine",
+        "bauunternehmer-einkauf-brandschutztueren-krimpfort",
+        "bauunternehmer-einkauf-lueftungszentralen-krimpfort",
+        "projekteinkauf-abdichtung-vertragsklauseln",
+        "projekteinkauf-brandschutztueren-krimpfort",
+        "projekteinkauf-fassade-drei-angebote",
+        "projekteinkauf-innenausbau-mailakte",
+        "projekteinkauf-klinker-reklamation",
+        "projekteinkauf-kran-nachtrag",
+        "projekteinkauf-lueftung-preis-und-lieferant"
+      ]
+    }
+  ]
+}

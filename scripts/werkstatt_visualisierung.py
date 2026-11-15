@@ -172,17 +172,17 @@ OVERRIDES = {
 }
 
 FAMILY_OVERRIDES = {
+    "sozialversicherungspflicht-pruefer": "zeit",
     "anwaltschaft-generell": "beleg",
     "compliance-abteilung-grosskonzern": "untersuchung",
     "bauunternehmer-einkauf": "vergleich",
-    "projekteinkauf-baubranche": "vergleich",
     "eu-sanktionspruefer": "beziehungen",
     "us-sanktionspruefer": "beziehungen",
 }
 LABEL_OVERRIDES = {
+    "sozialversicherungspflicht-pruefer": "Sozialversicherungsstatus",
     "compliance-abteilung-grosskonzern": "Compliance in der Industrie",
     "bauunternehmer-einkauf": "Einkauf im Bauunternehmen",
-    "projekteinkauf-baubranche": "Projekteinkauf in der Baubranche",
     "zahlungsunfaehigkeits-und-ueberschuldungspruefer": "Zahlungsunfähigkeits- und Überschuldungsprüfung",
     "eu-sanktionspruefer": "EU-Sanktionsprüfung",
     "us-sanktionspruefer": "US-Sanktionsprüfung",
@@ -192,6 +192,13 @@ LABEL_OVERRIDES = {
 # Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
 # nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
 ROUTE_OVERRIDES = {
+    "sozialversicherungspflicht-pruefer": (
+        'Welche Tätigkeit war in welchem Zeitraum wie organisiert, und welche Versicherungs- oder Beitragsfolge ist belegt?',
+        'Zeige bei komplexer Akte eine Tätigkeits- und Zeitmatrix: Person, Vertragspartner, tatsächlicher Arbeitsort, Statusindiz, Versicherungszweig, Bescheid und Beleg. Bei Auslandssachverhalten zuerst die anwendbare Rechtsordnung sichtbar machen.',
+        'Ermögliche die Auswahl eines tatsächlichen Zeitabschnitts oder einer Tätigkeit. Neue Unterlagen ändern nur die betroffenen Indizien, Zweige und Entwurfsstellen. Ein alternatives Zugangsdatum oder eine andere Arbeitsortverteilung bleibt als Annahme gekennzeichnet.',
+        'Verträge, wirksame Gesellschaftsrechte, tatsächliche Organisation, Arbeitsorte, Entgeltzeiträume und vorhandene Entscheidungen; jede tragende Angabe mit Datei und Seite, Tabellenblatt/Zelle oder Belegkennung verbinden. Fehlend ist nicht null.',
+        'begründetes Statusgutachten, Beitragsberechnung oder das beauftragte vollständige Schreiben. Die Ansicht ergänzt die Gesamtwürdigung; sie berechnet keinen automatischen Status aus einem Punktesystem.',
+    ),
     "bav-strategie-konzern": (
         "Welches Unternehmen schuldet welcher Personengruppe welche Versorgung und was verändert die geplante Maßnahme?",
         "Zeige zunächst eine Kohortenübersicht mit Zusagefassung, Arbeitgeber, bisheriger Leistung und geplanter Änderung. Bei Transaktionen ergänze eine beschriftete Verbindung zwischen Arbeitgeberzusage, Versorgungsträger, Finanzierung und Sicherung; diese vier Ebenen bleiben getrennt.",
