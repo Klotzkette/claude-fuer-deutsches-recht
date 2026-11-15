@@ -32,7 +32,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle, PageBreak
 
-FIRM = "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB"
+FIRM = "Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB"
 FIRM_ADDRESS = "Am Rheinbogen 18\n51373 Leverkusen"
 INK = "172C3D"
 
@@ -78,10 +78,10 @@ def recipient(item):
 
 def letter_style(item, case):
     issuer = sender(item, case)
-    law = "Treuenfels" in issuer or "Monkī" in issuer
+    law = "Treuenfels" in issuer or "Kashiwara" in issuer
     if law:
-        return {"name": "Monkī · Treuenfels", "sub": "RECHTSANWÄLTE PARTNERSCHAFT MBB", "address": FIRM_ADDRESS,
-                "contact": "mail@monki-treuenfels.example", "color": "203B50", "footer": "Dr. Monkī D. Rufi · Dr. Nora Treuenfels   |   Leverkusen"}
+        return {"name": "Kashiwara · Treuenfels", "sub": "RECHTSANWÄLTE PARTNERSCHAFT MBB", "address": FIRM_ADDRESS,
+                "contact": "mail@kashiwara-treuenfels.example", "color": "203B50", "footer": "Dr. Kashiwara Harunobu · Dr. Nora Treuenfels   |   Leverkusen"}
     parts = issuer.splitlines()
     if len(parts) == 1 and "," in issuer and re.search(r"\b\d{5}\b", issuer):
         parts = [p.strip() for p in issuer.split(",")]
@@ -246,7 +246,7 @@ def email_file(path, item, case, base):
     def addr(value, fallback):
         return value if value and "@" in value else fallback
     msg["From"] = addr(item.get("from_email"), "projekt@" + case.get("domain", case["slug"] + ".example"))
-    msg["To"] = addr(item.get("to_email"), "mail@monki-treuenfels.example")
+    msg["To"] = addr(item.get("to_email"), "mail@kashiwara-treuenfels.example")
     msg["Subject"] = item.get("subject") or item["title"]
     date = item.get("date", "2026-11-15")
     try:

@@ -7,7 +7,7 @@
     },
     {
       "path": "scripts/bav_konzern_render.py",
-      "sha256": "dceee9bb9cdf9ef3f5bd8a3f5e676164827a53850ffba507a4e473fe53756110"
+      "sha256": "a87de6a7f2f4b01ea449aaa6cfbb96951a92c09a6e1992584780c04110c0c203"
     },
     {
       "path": "scripts/bav_konzern_office.mjs",
@@ -39,12 +39,12 @@
       "slug": "bav-strategie-konzern-meissner-rheinwerk-ag",
       "fixture": {
         "path": "scripts/data/bav-konzern-faelle/bav-strategie-konzern-meissner-rheinwerk-ag.json",
-        "sha256": "e3a2f34eb478d1781fd29f26b4cfe7b29557caa0acbf4a2f8b386535fdf0b179"
+        "sha256": "bb91b3dc0d5270cb0041a9bb5983b1e306e9c35497003894610abeab92d3d7d7"
       },
       "sources": [
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/24_Archivfund_Stuttgart.eml",
-          "sha256": "9e46de2d5ae3ae26d325a0412319e145debc33250e2caa0955d9acbff4710d90"
+          "sha256": "29686fbc55efbdb075549c79c573d264b7b7490200c932cd6dfd86bde78ec389"
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/25_Freistellungsnachtrag_Scholz.pdf",
@@ -56,7 +56,7 @@
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/27_Vorstand_Zusatzauftrag.eml",
-          "sha256": "dd546abc97b4937b0e5650ee3a63ac7150f0e93fa0faed76f4d7b4f445e611d4"
+          "sha256": "9a9add027a209e990135bf9a579b74d6d3344e492a70a59119100aef9f817fea"
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/36_Archivabgleich.csv",
@@ -64,11 +64,11 @@
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/01_Mandatsanfrage.eml",
-          "sha256": "4db4c8f098b609cd9e751b43cf9c7f8e025999a1446e65c7b2efab0a8defa143"
+          "sha256": "3598eaa98671be8d261ae0d4774e04b2a37934d87a43eab944cfa1d67a3f01c2"
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/02_Mandatsvereinbarung.pdf",
-          "sha256": "220f33fe9f94311a3d6d41ec775591b0bdef44e362e2f6d4eaedf45a4d263c89"
+          "sha256": "f2959a1211759117b77eb73db1b54edb18198d103dfcbe5be6ee419f96d5d1d4"
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/03_Versorgungsordnung_Duesseldorf_1987.pdf",
@@ -116,7 +116,7 @@
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/14_CFO_Zielbild.eml",
-          "sha256": "103fb4048601f16451471b93dc7347a23f050e4c7f8936271ae8fedb84c22143"
+          "sha256": "fa30f7a0d87b019ddefdae391ebaba78cc31f58b67694a266e90d38add84a86f"
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/15_Controlling_Planungsgrundlagen.pdf",
@@ -188,18 +188,18 @@
         },
         {
           "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/37_Verguetungsvereinbarung.pdf",
-          "sha256": "5d99cffcd3c365c1d265ddfb2b580602baa99d23cf753f5d4472a11b29583236"
+          "sha256": "680d51b71ab0a9311f75a352dd6236dc811cf706715d6f444bc0833ab296eec4"
         }
       ],
       "pdf_zip": {
         "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip",
-        "sha256": "c2d14c9b48185957c7488090696753c0e39ab8cadb3d43373033febb7d6492e2",
+        "sha256": "42e0ed2786c9cffc31cbf7ebcb896267bf420b761f0ae802079691364fc1ebcb",
         "members": [
           {
             "path": "Fortsetzung/24_Archivfund_Stuttgart.pdf",
-            "sha256": "199a6d61940cae2a3303402eba9c75c3b4791e3081b54b5a4af618b79fa35439",
+            "sha256": "65d76bd264fd823c99f2094edfb6a1b1bbb5fc7e2337d289d5b2e39f4f06d20e",
             "pages": 1,
-            "text_sha256": "784b7afbc08641efe7fa3ae52fe1dced2411cfa38136a8262a44c761fb4dc07b"
+            "text_sha256": "8adf33d6b7cae981a98a5a839ee5d637db5b416b98c83ddd782844fc4392b9d1"
           },
           {
             "path": "Fortsetzung/25_Freistellungsnachtrag_Scholz.pdf",
@@ -215,9 +215,9 @@
           },
           {
             "path": "Fortsetzung/27_Vorstand_Zusatzauftrag.pdf",
-            "sha256": "4cdddbcf6af35c821faa6e77dca60dbef383519227b662eedda04e17e84b807e",
+            "sha256": "145894c231445008b861bdd93a3349ed7e3e3b7a6945a8b855164158378e6486",
             "pages": 1,
-            "text_sha256": "728e67dd81b855b126ce065ba12c06accfb1baced766a345e7c129b487394699"
+            "text_sha256": "2accb708bb219143a901a3f340e5f9f4526db2e6a18dd65b33d271f0971d14bc"
           },
           {
             "path": "Fortsetzung/36_Archivabgleich.pdf",
@@ -227,15 +227,15 @@
           },
           {
             "path": "Grundakte/01_Mandatsanfrage.pdf",
-            "sha256": "40b58c7431a255de1ffd22599cedfdb2b1954a697f84d1369b7dd33e8960b70b",
+            "sha256": "9c8a4975433cf8740224fc69df7fe52d9a976dec6f1ef8e4a7260cb8ba0752f1",
             "pages": 1,
-            "text_sha256": "dac279f79550f62cafefccb26d3c4adf1e6c6dd8cd00b5e714354978886ba973"
+            "text_sha256": "1a1219efed6d107a5fc71d77d0dbab8e3cce7368714957e17eaaff2246692e86"
           },
           {
             "path": "Grundakte/02_Mandatsvereinbarung.pdf",
-            "sha256": "220f33fe9f94311a3d6d41ec775591b0bdef44e362e2f6d4eaedf45a4d263c89",
+            "sha256": "f2959a1211759117b77eb73db1b54edb18198d103dfcbe5be6ee419f96d5d1d4",
             "pages": 2,
-            "text_sha256": "b6e27bba080dd05ca0eb2ad60cad18ff8364760b76c4d7e420650754c5d3badc"
+            "text_sha256": "427381f009885b577d500ff030815ea05c288faaf3b5605d7105d8c28be55b9b"
           },
           {
             "path": "Grundakte/03_Versorgungsordnung_Duesseldorf_1987.pdf",
@@ -305,9 +305,9 @@
           },
           {
             "path": "Grundakte/14_CFO_Zielbild.pdf",
-            "sha256": "c06e90fdbdb36fa7702944f2ee6d96045b14cec3ca43b171e82025a37359a121",
+            "sha256": "77de43a986d199c32139f07090a406010cab31ac6d5265c83499efd3307aec6e",
             "pages": 1,
-            "text_sha256": "719f3497342d09d95fb9b30412c5c44d76eeab250fc1213795854d8346616e0a"
+            "text_sha256": "679fd3948ff21850a58901dfebe8556a8def0fee8540d4f3373fdd732d687d07"
           },
           {
             "path": "Grundakte/15_Controlling_Planungsgrundlagen.pdf",
@@ -413,29 +413,29 @@
           },
           {
             "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
-            "sha256": "5d99cffcd3c365c1d265ddfb2b580602baa99d23cf753f5d4472a11b29583236",
+            "sha256": "680d51b71ab0a9311f75a352dd6236dc811cf706715d6f444bc0833ab296eec4",
             "pages": 1,
-            "text_sha256": "4cf893b32552990619ab7ca8d784a2048755f36267d3c1f2b0ad9f40b41469ac"
+            "text_sha256": "2ca6172f832c63f6ade904864175c86f89a537976a9f9a121b7f57d3d8850b71"
           }
         ]
       },
       "gesamt_pdf": {
         "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf",
-        "sha256": "e14f823e49bfbfe6379e021328eed2547fb64a72ff8d9dd6eb69527501ab7ee6",
+        "sha256": "beae06d486e5a1a8e3535454b27fc63441f2655382f99c0ed1f3932b7ec993d5",
         "pages": 57,
-        "text_sha256": "b0052b584fcece25b6a247f3663980e6e1110e504bb78f61bebb73b00bf043e7"
+        "text_sha256": "04c16bcb9f7df68abdbc1f26b1c971e7d6b9b5b70168f73d9a9435c8afe6e7b6"
       }
     },
     {
       "slug": "bav-carve-out-rheinbogen-automation",
       "fixture": {
         "path": "scripts/data/bav-konzern-faelle/bav-carve-out-rheinbogen-automation.json",
-        "sha256": "5db937fd5ef6f23576381a77887e62ec0cb29042890854bf47c941d1a673d15c"
+        "sha256": "e247bb1cc0254c0c29084e481a4ac962409e033e5aa8bb670401ed5ca85b024d"
       },
       "sources": [
         {
           "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/24_Archivnachlieferung.eml",
-          "sha256": "4b96a4f8bc190872629d517a638732acbe0c42a3ad0af5450706ad7af1e83f42"
+          "sha256": "7a5ecba16dd71970a68c278b5b0bba7ae90fafb1f20a1b1b1d844683d82d4e7f"
         },
         {
           "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/25_Kostenuebernahme_2019.pdf",
@@ -455,11 +455,11 @@
         },
         {
           "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/01_Mandatsanfrage.eml",
-          "sha256": "301645a520fe1874fd9fb2eb1e5b915b41081f19645991821850cbb83eaeae46"
+          "sha256": "cbe8359ed6ab46062255351100e756dc6a1772c4ac468ebd9422e7728a3f9a35"
         },
         {
           "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/02_Mandatsvereinbarung.pdf",
-          "sha256": "d6dd4409f859703f32d3ebe6df5e216e0d2033f2687ffea996e1d51ff2a4a1f0"
+          "sha256": "bc42b6791c2d7f0d11c7ba7bd07af7abe505335842ca8f32fa8898e94fcf1f7e"
         },
         {
           "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/03_Transaktionsauftrag.pdf",
@@ -571,7 +571,7 @@
         },
         {
           "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/37_Verguetungsvereinbarung.pdf",
-          "sha256": "1592ca069a293898f26435a889da5217b7458637a237c77aae4849cacbfd2bd0"
+          "sha256": "275285293c890f00459ae346f60d26753ae02e8308f56312ac06534b94388913"
         },
         {
           "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/38_Nachtrag_Schliessung_2016.pdf",
@@ -580,13 +580,13 @@
       ],
       "pdf_zip": {
         "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip",
-        "sha256": "01f0acda41841dc4fb291d6c27fe1cf816c061c5f8a66b24cf5d18de0fcdc8bd",
+        "sha256": "a2ed1afda1e5b56f19ef8f83cc40a93f7ac771480d0157cfba7ad75c2ff81e28",
         "members": [
           {
             "path": "Fortsetzung/24_Archivnachlieferung.pdf",
-            "sha256": "9d2b7c94d279c1ab2c9f6597311478e46b72162dda644c4adb8b27cebca7dc9f",
+            "sha256": "37c17abe31c56b84a809d27cdeb193219bea1955d7ddcfe27d7eff71441e37f9",
             "pages": 1,
-            "text_sha256": "15d268003f45b7d9fe8005edc3c03a3ae1884fe6523c551b8999a27f6250269d"
+            "text_sha256": "b96f19d88dc47fefb41d0d956323db5f85b2394e2f5e06e55e10d846fcf48867"
           },
           {
             "path": "Fortsetzung/25_Kostenuebernahme_2019.pdf",
@@ -614,15 +614,15 @@
           },
           {
             "path": "Grundakte/01_Mandatsanfrage.pdf",
-            "sha256": "8fa0c2ebad656997f628dd00f88702d94aa3656194e6d48f19e1c6151e036cb9",
+            "sha256": "bf4a71e0d833588275f32b2c2a0efe23762a41f7f4b1c899a442126929b84804",
             "pages": 1,
-            "text_sha256": "9b5875c47b408ec32d2a1b13ab2096cd9ed9e9e3fc8c064319adedda41908330"
+            "text_sha256": "1c5c792b4455a60a8d552042ccb7396c389a1eaa50b78b11e406e25504ac1fd7"
           },
           {
             "path": "Grundakte/02_Mandatsvereinbarung.pdf",
-            "sha256": "d6dd4409f859703f32d3ebe6df5e216e0d2033f2687ffea996e1d51ff2a4a1f0",
+            "sha256": "bc42b6791c2d7f0d11c7ba7bd07af7abe505335842ca8f32fa8898e94fcf1f7e",
             "pages": 2,
-            "text_sha256": "2e85c603de7d720b1eb1b3ff259aa1cd644d20d2d97016c9029bd167cee6f556"
+            "text_sha256": "403f39a6a272029f49eb6bd689fff773a43f3fc8a763b64806f114563bae2e05"
           },
           {
             "path": "Grundakte/03_Transaktionsauftrag.pdf",
@@ -788,9 +788,9 @@
           },
           {
             "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
-            "sha256": "1592ca069a293898f26435a889da5217b7458637a237c77aae4849cacbfd2bd0",
+            "sha256": "275285293c890f00459ae346f60d26753ae02e8308f56312ac06534b94388913",
             "pages": 1,
-            "text_sha256": "d950efae3c92f61c1e822ab37a97db9371f252a3798c0e85fddb1234550a13d4"
+            "text_sha256": "bce4758d3bc595070f3f91fb15a7956f4dd16ef266bde5959d7ae403ecf8f883"
           },
           {
             "path": "Grundakte/38_Nachtrag_Schliessung_2016.pdf",
@@ -802,16 +802,16 @@
       },
       "gesamt_pdf": {
         "path": "testakten/bav-carve-out-rheinbogen-automation/gesamt-pdf/bav-carve-out-rheinbogen-automation_gesamt.pdf",
-        "sha256": "9e0992efeefad4ff6e7d237a78669d75effbf1181173bc8b8ba70997494cdc61",
+        "sha256": "be6dafbe392481222462c5e89a9dd36d22dcb387e332ed98cb87b2acd695bc93",
         "pages": 57,
-        "text_sha256": "ed06ce9124ac220f33b521c862f8157cf078370c0bae55398af2db54e6075222"
+        "text_sha256": "33217e0ceb50adcefd7a502e55b1f69235a8633e282c55879fc6c324d813449e"
       }
     },
     {
       "slug": "bav-rentnergesellschaft-rheinhafen-logistik",
       "fixture": {
         "path": "scripts/data/bav-konzern-faelle/bav-rentnergesellschaft-rheinhafen-logistik.json",
-        "sha256": "80336268379042905c9912a0ec709be80e7ac5acd908aad45711418f980fb713"
+        "sha256": "f1c8851e77a18fa6e6e071d6e42bf34b407c8e72e33cc0bfe51bc4515114e25a"
       },
       "sources": [
         {
@@ -836,15 +836,15 @@
         },
         {
           "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/35_Weitere_Aufklaerung.eml",
-          "sha256": "f41ffb9d8a5c64d19ef77880da9726022f9e10f2433de1e0df54f876c61cd189"
+          "sha256": "5153b318e02d471dff255a5211d87dd39d92502040cfd92dba031d4a30e8e9d5"
         },
         {
           "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/01_Mandatsanfrage.eml",
-          "sha256": "5c89e548443ad49cf9591202cc84bc7541ae75fdd2d49af1ba40d372c63b3fca"
+          "sha256": "8d0193781003ef7b8685fe4bcba882e469bd75105e9e4f7740fccf1c4acb806d"
         },
         {
           "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/02_Mandatsvereinbarung.pdf",
-          "sha256": "2048c0a68afe2c74bcdc0e32b327284d1676ad223b68d5858eb2eceb0bae37e9"
+          "sha256": "0247c3e380ec8fbcb9265f6e0cb60c62d0924e6ac917dbd2ebe6083b14ec33ae"
         },
         {
           "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/03_Versorgungsordnung_1994.pdf",
@@ -948,7 +948,7 @@
         },
         {
           "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/33_Verguetung.pdf",
-          "sha256": "c62fdb82d6f89ee522cc71efa99745beaa462be20456c30916fa69623601aeed"
+          "sha256": "a7bae9d586ebf805a5c497c1d86c8f05e20026f28b840ea982246da932582000"
         },
         {
           "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/34_Bankkonto_Bestaetigung.pdf",
@@ -957,7 +957,7 @@
       ],
       "pdf_zip": {
         "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip",
-        "sha256": "c2bee64356195c791df7277e62e91124d98da32a3fb0819cf697cffd91c8785e",
+        "sha256": "e3ba01b803fb5a2516b715b5dcaa0fa04bccccffa0394630350c8d4394e2e920",
         "members": [
           {
             "path": "Fortsetzung/22_Dachbericht.pdf",
@@ -991,21 +991,21 @@
           },
           {
             "path": "Fortsetzung/35_Weitere_Aufklaerung.pdf",
-            "sha256": "bcabc672e2ebe559bd1cc1029dbe5ee17f017212c077be41c9b8a045da0d7545",
+            "sha256": "77a3c1ce54f66f1747086801568d7381097387582ebc9ddda0dbdd67e5dcb250",
             "pages": 1,
-            "text_sha256": "99f9dfdfdba36b3c25e65c6a49c413e46fdec092837a2a04ecb09c379569a201"
+            "text_sha256": "6e696de73dff239a4f478078b0853e281c7ea6a5846cf7310a2a384d3470f41c"
           },
           {
             "path": "Grundakte/01_Mandatsanfrage.pdf",
-            "sha256": "eee8ac3bb410376a988746f5d2375ce1c190e3bc8838dbf426a6a86f461af743",
+            "sha256": "23f1a32c4aebdd9c2aa1c2262e4d24fe5967ee93011f1cc8c3f217810ff84e48",
             "pages": 1,
-            "text_sha256": "76356ad61138c8550ea92ecfc55d00088a77871a46dadb9366a328caec863037"
+            "text_sha256": "088230d204d7576c4779d335838ec71ab98303f3ab18a8aca7008bf083e6bce9"
           },
           {
             "path": "Grundakte/02_Mandatsvereinbarung.pdf",
-            "sha256": "2048c0a68afe2c74bcdc0e32b327284d1676ad223b68d5858eb2eceb0bae37e9",
+            "sha256": "0247c3e380ec8fbcb9265f6e0cb60c62d0924e6ac917dbd2ebe6083b14ec33ae",
             "pages": 2,
-            "text_sha256": "3f448e258680ca06a785dfb2172aff92573fcf5003bd4583cb49735cbb7e0325"
+            "text_sha256": "716b8fe87d1b9788d2519db563a9f32d3fa39e2ef8c3fc6cf52d0e6fdc9cc1b2"
           },
           {
             "path": "Grundakte/03_Versorgungsordnung_1994.pdf",
@@ -1159,9 +1159,9 @@
           },
           {
             "path": "Grundakte/33_Verguetung.pdf",
-            "sha256": "c62fdb82d6f89ee522cc71efa99745beaa462be20456c30916fa69623601aeed",
+            "sha256": "a7bae9d586ebf805a5c497c1d86c8f05e20026f28b840ea982246da932582000",
             "pages": 1,
-            "text_sha256": "0221dae28d67f9601cc6259ded1fa563d2ab37b3a9fb90a9f348a8c1901fdb88"
+            "text_sha256": "bb7e27c2a0ff96997b3b0178c4fbb6af0874c67cabec4cba051c1a002e26bdc7"
           },
           {
             "path": "Grundakte/34_Bankkonto_Bestaetigung.pdf",
@@ -1173,16 +1173,16 @@
       },
       "gesamt_pdf": {
         "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/gesamt-pdf/bav-rentnergesellschaft-rheinhafen-logistik_gesamt.pdf",
-        "sha256": "7c3c201134b9a04882754422af4137235f362a620680712273e1c6b986fb85e6",
+        "sha256": "b06d6a98c4473d023805ed0c979d8a4fe7173fde73f1b409899ce99900ea3af3",
         "pages": 52,
-        "text_sha256": "8527022e9e39636892f8a0aefb8b7f50e153f5e735517ceac1a462934b99363a"
+        "text_sha256": "2ef7342426275b4f0d7c05559195f1cea024b011fdbb355dfdb5bf8fa4249caa"
       }
     },
     {
       "slug": "bav-pensionskasse-niederrhein-verbund",
       "fixture": {
         "path": "scripts/data/bav-konzern-faelle/bav-pensionskasse-niederrhein-verbund.json",
-        "sha256": "cc0e941c8945a30b35a7fd525d9b052798b26280f124f0502f9ca44bf0b8cab7"
+        "sha256": "3e4186833f6402a24b9aaf79d5b80400d29bf15250c2ac28e2fee056cba08796"
       },
       "sources": [
         {
@@ -1203,11 +1203,11 @@
         },
         {
           "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/01_Mandatsanfrage.eml",
-          "sha256": "40d0966e1eb660b97e8a3162557f92e818642314c285fcf98b9d5dc2b3bb872d"
+          "sha256": "b2c61f9eea11623f6b7d4e808ec42a4345a47f07dbb09066b87e9587f5d9e68d"
         },
         {
           "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/02_Mandatsvereinbarung.pdf",
-          "sha256": "9748d2e9751bd659018f217ec4baf5fc084610a9b13646255ce1ee47970f0b9a"
+          "sha256": "d37929d759186d9ee709967a4e9ae5b57a08cf2df0fd54b3ee6c59da07f62db1"
         },
         {
           "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/03_Gesamtzusage_1992.pdf",
@@ -1319,7 +1319,7 @@
         },
         {
           "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/34_Verguetungsvereinbarung.pdf",
-          "sha256": "e45579c352150d74938082d73aa1ee6547da0ea83d3a79f6a19454487cbd6ccd"
+          "sha256": "8a9210c80b297b599238cfc29711ef8da324c69845d06deec8f53f1c0d93c472"
         },
         {
           "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/35_Liquiditaet_Service.pdf",
@@ -1328,7 +1328,7 @@
       ],
       "pdf_zip": {
         "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip",
-        "sha256": "f56702fee8586f065fb84f9ef54fe5d30bae3852dcc43c1d271631f984c24d44",
+        "sha256": "93d31ae89ee88b9db2c91944975f343271bc681c61ec9c02003f6aa17b25d4ae",
         "members": [
           {
             "path": "Fortsetzung/24_Kasse_Nachlieferung.pdf",
@@ -1356,15 +1356,15 @@
           },
           {
             "path": "Grundakte/01_Mandatsanfrage.pdf",
-            "sha256": "1c9505e50f2866b23c06aa3b7fee3a4d0a6cb28bd1660645ce246de399ae9144",
+            "sha256": "292d18c11fa999a5ad55d6d46266a62afe652ec80362240bcacc6a439e6341c8",
             "pages": 1,
-            "text_sha256": "fd8491f493f16853437bd4051b4747c3a951fe1f6696a295b465c06ed11b0276"
+            "text_sha256": "386af5670718e81dd75e75122f671e7af020395fe5604cb32a9440dfdeb00d96"
           },
           {
             "path": "Grundakte/02_Mandatsvereinbarung.pdf",
-            "sha256": "9748d2e9751bd659018f217ec4baf5fc084610a9b13646255ce1ee47970f0b9a",
+            "sha256": "d37929d759186d9ee709967a4e9ae5b57a08cf2df0fd54b3ee6c59da07f62db1",
             "pages": 2,
-            "text_sha256": "1c59342d4b067400f39eb9049d6f30efb9f7ef861793a3abed28b00c7432a52a"
+            "text_sha256": "fbc84d0f6df4333d23cca7dcdf92589684aadb47120c1a8d5d99d5a52ebf61d0"
           },
           {
             "path": "Grundakte/03_Gesamtzusage_1992.pdf",
@@ -1530,9 +1530,9 @@
           },
           {
             "path": "Grundakte/34_Verguetungsvereinbarung.pdf",
-            "sha256": "e45579c352150d74938082d73aa1ee6547da0ea83d3a79f6a19454487cbd6ccd",
+            "sha256": "8a9210c80b297b599238cfc29711ef8da324c69845d06deec8f53f1c0d93c472",
             "pages": 1,
-            "text_sha256": "79a62f78003b668bf131c664b9c4715dad3b87f8a5e78945b724ce3f2cf45b6a"
+            "text_sha256": "14b7193c118f40727e8af29706e4c7103ac072da4685dcfe28aff001813aad2d"
           },
           {
             "path": "Grundakte/35_Liquiditaet_Service.pdf",
@@ -1544,9 +1544,9 @@
       },
       "gesamt_pdf": {
         "path": "testakten/bav-pensionskasse-niederrhein-verbund/gesamt-pdf/bav-pensionskasse-niederrhein-verbund_gesamt.pdf",
-        "sha256": "19e6b4f2b0cee6876c095b22d965bdc3937b75ccb4ad42968005e151e684e5de",
+        "sha256": "8190570c63eca8305a631340b2ebc5752521512d7d659a9a511d4c99a3f2efe3",
         "pages": 50,
-        "text_sha256": "e3438b6aed96658e22098b90c6dceb3e48c1a42da42258048b0b7d0dd0a71fb9"
+        "text_sha256": "df061a02f257bf0c8cb7e083833b850fbcf2eb39333c037424c632f2a28804b5"
       }
     }
   ]

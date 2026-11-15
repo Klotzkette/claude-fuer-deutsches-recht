@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checked_on": "2026-11-15",
+  "assets": 18,
+  "decoded_text_objects": 1561,
+  "old_identity_occurrences": [],
+  "scope": "Alle 18 fertigen Assets rekursiv inkl. verschachtelter ZIPs, Office-XML, PDF-Text und dekodierter MIME-Anlagen; unveränderte Bilder separat durch Bytevergleich im Artefaktbericht geprüft.",
+  "changed_changelog": "Historischer Satz im aktuellen Plugin neutral formuliert. Frühere veröffentlichte Versionen bleiben unverändert.",
+  "plugin_sha256": "ca2b0163b7f27e71ec11aa1a95c5f22e754d19f97e3b4f12fadb9f29c208b599",
+  "bundle_sha256": "dd82e7a32c174cfe1c3cb0ff5c856e71d4e55f35764f33d02bac67356e6279e6"
+}

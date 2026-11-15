@@ -60,7 +60,7 @@ def main():
                  "## 4. Zweiter Durchgang", "", continuation, "",
                  "Öffnen Sie dafür erst jetzt **Fortsetzung**. Die Gesamt-PDF enthält beide Bearbeitungsstände und eignet sich deshalb besonders für die Nachbesprechung. Das Originalformat-ZIP enthält weder diese Gesamt-PDF noch eine Musterlösung.", "",
                  "## 5. Rahmen der Übung", "",
-                 "Mandatiert ist die fiktive Boutique **Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB**, Am Rheinbogen 18, 51373 Leverkusen, mit Dr. Monkī D. Rufi und Dr. Nora Treuenfels. Unternehmen, Personen, Anschriften und Konditionen sind Übungsmaterial. Adressen unter `.example` sind reservierte Beispieldomains.", "",
+                 "Mandatiert ist die fiktive Boutique **Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB**, Am Rheinbogen 18, 51373 Leverkusen, mit Dr. Kashiwara Harunobu und Dr. Nora Treuenfels. Der Familienname steht zuerst; die Anrede lautet „Herr Dr. Kashiwara“. Unternehmen, Personen, Anschriften und Konditionen sind Übungsmaterial. Adressen unter `.example` sind reservierte Beispieldomains.", "",
                  "<!-- reserved-example-contacts -->", "",
                  "Die Modelle dienen der Strukturierung und Szenarioplanung. Sie ersetzen keine versicherungsmathematische Begutachtung oder Abschlussprüfung. Einzelfallbehauptungen in Nachrichten oder Vertragsentwürfen sind zu prüfen; sie werden durch ihre Aufnahme in die Akte nicht als rechtlich zutreffend bestätigt.", "",
                  "[Zum bAV-Plugin](../../bav-strategie-konzern/README.md) · [Alle Testakten](../README.md)", ""]

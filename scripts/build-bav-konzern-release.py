@@ -29,7 +29,7 @@ from testakte_zip_common import working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = "bav-strategie-konzern"
-VERSION = "445.36.3"
+VERSION = "445.36.4"
 TAG = f"{PLUGIN}-v{VERSION}"
 CASES = (
     "bav-strategie-konzern-meissner-rheinwerk-ag",

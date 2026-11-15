@@ -1,0 +1,307 @@
+{
+  "status": "passed-artifact-checks",
+  "base_commit": "e5aafae4db7d3d65cabd9d4f13e8f22b21a279b1",
+  "checked_on": "2026-11-15",
+  "inventory_sha256": "62f0b196e23635a4efc5e5ce5214d0c02c703c730fc5475e39d985ac54f86588",
+  "replacement_map": {
+    "Dr. Monkī D. Rufi": "Dr. Kashiwara Harunobu",
+    "Monkī": "Kashiwara",
+    "monki-treuenfels.example": "kashiwara-treuenfels.example",
+    "Dr. Rufi": "Dr. Kashiwara",
+    "MT-": "KT-"
+  },
+  "cases": [
+    {
+      "slug": "bav-strategie-konzern-meissner-rheinwerk-ag",
+      "original_count": 37,
+      "pages": 57,
+      "native_changes": [
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/24_Archivfund_Stuttgart.eml",
+          "sha256_before": "9e46de2d5ae3ae26d325a0412319e145debc33250e2caa0955d9acbff4710d90",
+          "sha256_after": "29686fbc55efbdb075549c79c573d264b7b7490200c932cd6dfd86bde78ec389"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/27_Vorstand_Zusatzauftrag.eml",
+          "sha256_before": "dd546abc97b4937b0e5650ee3a63ac7150f0e93fa0faed76f4d7b4f445e611d4",
+          "sha256_after": "9a9add027a209e990135bf9a579b74d6d3344e492a70a59119100aef9f817fea"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/01_Mandatsanfrage.eml",
+          "sha256_before": "4db4c8f098b609cd9e751b43cf9c7f8e025999a1446e65c7b2efab0a8defa143",
+          "sha256_after": "3598eaa98671be8d261ae0d4774e04b2a37934d87a43eab944cfa1d67a3f01c2"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256_before": "220f33fe9f94311a3d6d41ec775591b0bdef44e362e2f6d4eaedf45a4d263c89",
+          "sha256_after": "f2959a1211759117b77eb73db1b54edb18198d103dfcbe5be6ee419f96d5d1d4"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/14_CFO_Zielbild.eml",
+          "sha256_before": "103fb4048601f16451471b93dc7347a23f050e4c7f8936271ae8fedb84c22143",
+          "sha256_after": "fa30f7a0d87b019ddefdae391ebaba78cc31f58b67694a266e90d38add84a86f"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/37_Verguetungsvereinbarung.pdf",
+          "sha256_before": "5d99cffcd3c365c1d265ddfb2b580602baa99d23cf753f5d4472a11b29583236",
+          "sha256_after": "680d51b71ab0a9311f75a352dd6236dc811cf706715d6f444bc0833ab296eec4"
+        }
+      ],
+      "pdf_member_changes": [
+        {
+          "path": "Fortsetzung/24_Archivfund_Stuttgart.pdf",
+          "pages": 1,
+          "sha256_before": "199a6d61940cae2a3303402eba9c75c3b4791e3081b54b5a4af618b79fa35439",
+          "sha256_after": "65d76bd264fd823c99f2094edfb6a1b1bbb5fc7e2337d289d5b2e39f4f06d20e"
+        },
+        {
+          "path": "Fortsetzung/27_Vorstand_Zusatzauftrag.pdf",
+          "pages": 1,
+          "sha256_before": "4cdddbcf6af35c821faa6e77dca60dbef383519227b662eedda04e17e84b807e",
+          "sha256_after": "145894c231445008b861bdd93a3349ed7e3e3b7a6945a8b855164158378e6486"
+        },
+        {
+          "path": "Grundakte/01_Mandatsanfrage.pdf",
+          "pages": 1,
+          "sha256_before": "40b58c7431a255de1ffd22599cedfdb2b1954a697f84d1369b7dd33e8960b70b",
+          "sha256_after": "9c8a4975433cf8740224fc69df7fe52d9a976dec6f1ef8e4a7260cb8ba0752f1"
+        },
+        {
+          "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+          "pages": 2,
+          "sha256_before": "220f33fe9f94311a3d6d41ec775591b0bdef44e362e2f6d4eaedf45a4d263c89",
+          "sha256_after": "f2959a1211759117b77eb73db1b54edb18198d103dfcbe5be6ee419f96d5d1d4"
+        },
+        {
+          "path": "Grundakte/14_CFO_Zielbild.pdf",
+          "pages": 1,
+          "sha256_before": "c06e90fdbdb36fa7702944f2ee6d96045b14cec3ca43b171e82025a37359a121",
+          "sha256_after": "77de43a986d199c32139f07090a406010cab31ac6d5265c83499efd3307aec6e"
+        },
+        {
+          "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
+          "pages": 1,
+          "sha256_before": "5d99cffcd3c365c1d265ddfb2b580602baa99d23cf753f5d4472a11b29583236",
+          "sha256_after": "680d51b71ab0a9311f75a352dd6236dc811cf706715d6f444bc0833ab296eec4"
+        }
+      ],
+      "unchanged_office_files": [
+        "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/10_Entwurf_Konzernordnung_2027.docx",
+        "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/17_Personalgespraech_Scholz.docx",
+        "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/21_Protokoll_Lenkungskreis.docx",
+        "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/29_HR_Arbeitspaket_Datenfreigabe.docx",
+        "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/30_Bestandsregister.xlsx",
+        "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/31_Personenlos_48.xlsx",
+        "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/34_Lenkungskreis.pptx"
+      ],
+      "release_original_zip_sha256": "49f626a6a87e5e9c74d96f2d497e155d890e5c6603314a70b4e9fce211257f65"
+    },
+    {
+      "slug": "bav-carve-out-rheinbogen-automation",
+      "original_count": 36,
+      "pages": 57,
+      "native_changes": [
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/24_Archivnachlieferung.eml",
+          "sha256_before": "4b96a4f8bc190872629d517a638732acbe0c42a3ad0af5450706ad7af1e83f42",
+          "sha256_after": "7a5ecba16dd71970a68c278b5b0bba7ae90fafb1f20a1b1b1d844683d82d4e7f"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/01_Mandatsanfrage.eml",
+          "sha256_before": "301645a520fe1874fd9fb2eb1e5b915b41081f19645991821850cbb83eaeae46",
+          "sha256_after": "cbe8359ed6ab46062255351100e756dc6a1772c4ac468ebd9422e7728a3f9a35"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256_before": "d6dd4409f859703f32d3ebe6df5e216e0d2033f2687ffea996e1d51ff2a4a1f0",
+          "sha256_after": "bc42b6791c2d7f0d11c7ba7bd07af7abe505335842ca8f32fa8898e94fcf1f7e"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/37_Verguetungsvereinbarung.pdf",
+          "sha256_before": "1592ca069a293898f26435a889da5217b7458637a237c77aae4849cacbfd2bd0",
+          "sha256_after": "275285293c890f00459ae346f60d26753ae02e8308f56312ac06534b94388913"
+        }
+      ],
+      "pdf_member_changes": [
+        {
+          "path": "Fortsetzung/24_Archivnachlieferung.pdf",
+          "pages": 1,
+          "sha256_before": "9d2b7c94d279c1ab2c9f6597311478e46b72162dda644c4adb8b27cebca7dc9f",
+          "sha256_after": "37c17abe31c56b84a809d27cdeb193219bea1955d7ddcfe27d7eff71441e37f9"
+        },
+        {
+          "path": "Grundakte/01_Mandatsanfrage.pdf",
+          "pages": 1,
+          "sha256_before": "8fa0c2ebad656997f628dd00f88702d94aa3656194e6d48f19e1c6151e036cb9",
+          "sha256_after": "bf4a71e0d833588275f32b2c2a0efe23762a41f7f4b1c899a442126929b84804"
+        },
+        {
+          "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+          "pages": 2,
+          "sha256_before": "d6dd4409f859703f32d3ebe6df5e216e0d2033f2687ffea996e1d51ff2a4a1f0",
+          "sha256_after": "bc42b6791c2d7f0d11c7ba7bd07af7abe505335842ca8f32fa8898e94fcf1f7e"
+        },
+        {
+          "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
+          "pages": 1,
+          "sha256_before": "1592ca069a293898f26435a889da5217b7458637a237c77aae4849cacbfd2bd0",
+          "sha256_after": "275285293c890f00459ae346f60d26753ae02e8308f56312ac06534b94388913"
+        }
+      ],
+      "unchanged_office_files": [
+        "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/27_Trust_Gespraechsnotiz.docx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/09_Asset_Deal_Entwurf.docx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/10_Share_Deal_Entwurf.docx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/17_Personalgespraech_Heller.docx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/20_TSA_Administration.docx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/21_Lenkungskreis.docx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/28_Personal_Detailauszug.xlsx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/29_Preisbruecke.xlsx",
+        "testakten/bav-carve-out-rheinbogen-automation/Grundakte/32_Lenkungskreis.pptx"
+      ],
+      "release_original_zip_sha256": "087a59753eb1a89dafe611cd3e48731f5d8bc8568c49cf46a912ab645d4896b8"
+    },
+    {
+      "slug": "bav-rentnergesellschaft-rheinhafen-logistik",
+      "original_count": 35,
+      "pages": 52,
+      "native_changes": [
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/35_Weitere_Aufklaerung.eml",
+          "sha256_before": "f41ffb9d8a5c64d19ef77880da9726022f9e10f2433de1e0df54f876c61cd189",
+          "sha256_after": "5153b318e02d471dff255a5211d87dd39d92502040cfd92dba031d4a30e8e9d5"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/01_Mandatsanfrage.eml",
+          "sha256_before": "5c89e548443ad49cf9591202cc84bc7541ae75fdd2d49af1ba40d372c63b3fca",
+          "sha256_after": "8d0193781003ef7b8685fe4bcba882e469bd75105e9e4f7740fccf1c4acb806d"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256_before": "2048c0a68afe2c74bcdc0e32b327284d1676ad223b68d5858eb2eceb0bae37e9",
+          "sha256_after": "0247c3e380ec8fbcb9265f6e0cb60c62d0924e6ac917dbd2ebe6083b14ec33ae"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/33_Verguetung.pdf",
+          "sha256_before": "c62fdb82d6f89ee522cc71efa99745beaa462be20456c30916fa69623601aeed",
+          "sha256_after": "a7bae9d586ebf805a5c497c1d86c8f05e20026f28b840ea982246da932582000"
+        }
+      ],
+      "pdf_member_changes": [
+        {
+          "path": "Fortsetzung/35_Weitere_Aufklaerung.pdf",
+          "pages": 1,
+          "sha256_before": "bcabc672e2ebe559bd1cc1029dbe5ee17f017212c077be41c9b8a045da0d7545",
+          "sha256_after": "77a3c1ce54f66f1747086801568d7381097387582ebc9ddda0dbdd67e5dcb250"
+        },
+        {
+          "path": "Grundakte/01_Mandatsanfrage.pdf",
+          "pages": 1,
+          "sha256_before": "eee8ac3bb410376a988746f5d2375ce1c190e3bc8838dbf426a6a86f461af743",
+          "sha256_after": "23f1a32c4aebdd9c2aa1c2262e4d24fe5967ee93011f1cc8c3f217810ff84e48"
+        },
+        {
+          "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+          "pages": 2,
+          "sha256_before": "2048c0a68afe2c74bcdc0e32b327284d1676ad223b68d5858eb2eceb0bae37e9",
+          "sha256_after": "0247c3e380ec8fbcb9265f6e0cb60c62d0924e6ac917dbd2ebe6083b14ec33ae"
+        },
+        {
+          "path": "Grundakte/33_Verguetung.pdf",
+          "pages": 1,
+          "sha256_before": "c62fdb82d6f89ee522cc71efa99745beaa462be20456c30916fa69623601aeed",
+          "sha256_after": "a7bae9d586ebf805a5c497c1d86c8f05e20026f28b840ea982246da932582000"
+        }
+      ],
+      "unchanged_office_files": [
+        "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/30_Immobilie_Nachlieferung.xlsx",
+        "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/05_Ausstattungsvereinbarung_Entwurf.docx",
+        "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/14_HR_Antwortentwurf.docx",
+        "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/17_Board_Protokoll.docx",
+        "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/26_Finanzierung_und_Stress.xlsx",
+        "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/27_Angebotsvergleich.xlsx",
+        "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/31_Lenkungskreis.pptx"
+      ],
+      "release_original_zip_sha256": "9ad17c464946c21cc2513dad71e60d129c4da9c15e46ea676744f1aa39715b22"
+    },
+    {
+      "slug": "bav-pensionskasse-niederrhein-verbund",
+      "original_count": 35,
+      "pages": 50,
+      "native_changes": [
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/01_Mandatsanfrage.eml",
+          "sha256_before": "40d0966e1eb660b97e8a3162557f92e818642314c285fcf98b9d5dc2b3bb872d",
+          "sha256_after": "b2c61f9eea11623f6b7d4e808ec42a4345a47f07dbb09066b87e9587f5d9e68d"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256_before": "9748d2e9751bd659018f217ec4baf5fc084610a9b13646255ce1ee47970f0b9a",
+          "sha256_after": "d37929d759186d9ee709967a4e9ae5b57a08cf2df0fd54b3ee6c59da07f62db1"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/34_Verguetungsvereinbarung.pdf",
+          "sha256_before": "e45579c352150d74938082d73aa1ee6547da0ea83d3a79f6a19454487cbd6ccd",
+          "sha256_after": "8a9210c80b297b599238cfc29711ef8da324c69845d06deec8f53f1c0d93c472"
+        }
+      ],
+      "pdf_member_changes": [
+        {
+          "path": "Grundakte/01_Mandatsanfrage.pdf",
+          "pages": 1,
+          "sha256_before": "1c9505e50f2866b23c06aa3b7fee3a4d0a6cb28bd1660645ce246de399ae9144",
+          "sha256_after": "292d18c11fa999a5ad55d6d46266a62afe652ec80362240bcacc6a439e6341c8"
+        },
+        {
+          "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+          "pages": 2,
+          "sha256_before": "9748d2e9751bd659018f217ec4baf5fc084610a9b13646255ce1ee47970f0b9a",
+          "sha256_after": "d37929d759186d9ee709967a4e9ae5b57a08cf2df0fd54b3ee6c59da07f62db1"
+        },
+        {
+          "path": "Grundakte/34_Verguetungsvereinbarung.pdf",
+          "pages": 1,
+          "sha256_before": "e45579c352150d74938082d73aa1ee6547da0ea83d3a79f6a19454487cbd6ccd",
+          "sha256_after": "8a9210c80b297b599238cfc29711ef8da324c69845d06deec8f53f1c0d93c472"
+        }
+      ],
+      "unchanged_office_files": [
+        "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/19_Lenkungskreis.docx",
+        "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/20_Gesellschaftsfinanzierung.docx",
+        "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/23_Service_Gespraech.docx",
+        "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/27_Kuerzungen_Kohorten.xlsx",
+        "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/28_Treasury_Planung.xlsx",
+        "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/31_Lenkungskreis.pptx"
+      ],
+      "release_original_zip_sha256": "3f73b59a63cf60a657ea91d5a728d9f09295bdb7ef7ff619e4f3b7d5e5872c36"
+    }
+  ],
+  "checks": {
+    "source_bound_inventory": "passed",
+    "exact_allowed_rename_vs_HEAD": "passed",
+    "unchanged_office_bytes": "29/29",
+    "native_names_and_pdf_member_names": "no_old_names",
+    "released_nested_case_ZIP_payloads": "no_old_names_and_source_byte_identical",
+    "combined_PDFs": "no_old_names",
+    "bav_artifact_test": "passed; inventory=true; mutations_rejected=true",
+    "old_audit_reports": "unchanged against HEAD"
+  },
+  "visual_review": {
+    "scope": "All 21 pages of the 17 changed PDF-ZIP members, individually rendered from ZIP bytes at 1600 px",
+    "result": "No clipping, overlap, missing footer/name/domain or pagination change; four two-page mandate agreements and four fee agreements checked in full"
+  },
+  "release_local_scan": {
+    "files": 18,
+    "decoded_payload_occurrences": 483,
+    "nested_four_case_bundle": "byte-identical to individual source archives",
+    "findings": [
+      {
+        "path": "bav-strategie-konzern.zip!CHANGELOG.md",
+        "match": "Monkī"
+      }
+    ],
+    "status": "historical-preliminary-finding-corrected-and-rechecked"
+  },
+  "old_audit_reports": "unchanged",
+  "final_package_check": "quality/bav-kashiwara-445.36.4/paketabschluss.json"
+}
