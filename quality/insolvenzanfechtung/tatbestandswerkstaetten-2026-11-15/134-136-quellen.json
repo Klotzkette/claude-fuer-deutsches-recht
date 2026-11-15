@@ -1,0 +1,510 @@
+{
+  "schema_version": 1,
+  "reviewed_on_utc": "2026-11-15",
+  "review_type": "redaktionelle_volltextpruefung_mit_amtlichen_quellenabschnitten",
+  "files": [
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/134-unentgeltliche-leistung.md",
+      "sha256": "98561b710bacfece7cc0b7eaaed6c3bd33a51cffd79a2e69469995de2476513f",
+      "bytes": 53084,
+      "words": 6307,
+      "full_file_editorial_review": true,
+      "main_sections": 20,
+      "legal_checks": [
+        "Normalternative und subjektive Voraussetzungen getrennt",
+        "Darlegungslast, Beweislast, Beweismaß und Belegstatus getrennt",
+        "Quelle mit Entscheidungsart, Datum, Aktenzeichen und gelesenen Pinpoints",
+        "konkrete Gegenposition und Anspruchsgegner",
+        "ausformulierte Dokumentbausteine und fiktive Lernvarianten",
+        "keine ungeprüfte Literaturfundstelle",
+        "keine behauptete Live-Modellausführung"
+      ]
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/135-gesellschafterdarlehen.md",
+      "sha256": "4a90f5e2e0518bbbc78949a22f7269168ae8d53dd30f54c0ca8f9cd461bb79a5",
+      "bytes": 51959,
+      "words": 6022,
+      "full_file_editorial_review": true,
+      "main_sections": 20,
+      "legal_checks": [
+        "Normalternative und subjektive Voraussetzungen getrennt",
+        "Darlegungslast, Beweislast, Beweismaß und Belegstatus getrennt",
+        "Quelle mit Entscheidungsart, Datum, Aktenzeichen und gelesenen Pinpoints",
+        "konkrete Gegenposition und Anspruchsgegner",
+        "ausformulierte Dokumentbausteine und fiktive Lernvarianten",
+        "keine ungeprüfte Literaturfundstelle",
+        "keine behauptete Live-Modellausführung"
+      ]
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/136-stille-gesellschaft.md",
+      "sha256": "786c642b278069cb835a3029c20beb6e92a1c96b7fad4b71ef575552f0760701",
+      "bytes": 52374,
+      "words": 6254,
+      "full_file_editorial_review": true,
+      "main_sections": 20,
+      "legal_checks": [
+        "Normalternative und subjektive Voraussetzungen getrennt",
+        "Darlegungslast, Beweislast, Beweismaß und Belegstatus getrennt",
+        "Quelle mit Entscheidungsart, Datum, Aktenzeichen und gelesenen Pinpoints",
+        "konkrete Gegenposition und Anspruchsgegner",
+        "ausformulierte Dokumentbausteine und fiktive Lernvarianten",
+        "keine ungeprüfte Literaturfundstelle",
+        "keine behauptete Live-Modellausführung",
+        "§ 136 Abs. 2: Begünstigter trägt Nachweis der Ausschlussvoraussetzungen zur vollen Überzeugung nach § 286 ZPO; kein bloßes Erschüttern"
+      ]
+    }
+  ],
+  "court_sources": [
+    {
+      "id": "BGH-IX-ZR-229-23",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "2026-09-17",
+      "docket": "IX ZR 229/23",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Tenor; Rn.11–16,24–38,48–50",
+      "content_sha256": "5345bcf14b7aa35be598de7f740f848c79fb5015812a2483d39ee66ad46b6784",
+      "download_sha256": "3f36b61faca150ad731fcb90168e4453cc8058c1066f5d59cffe14f5f8a4033d",
+      "bytes": 62284,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-229-23.xml.gz",
+      "supports": "Marktübliche Vertragszinsen grundsätzlich nicht nach § 135 Abs. 1 Nr. 2 InsO anfechtbar; Überhöhung oder eigene Kreditierung; darlehensgleiche Warenlieferung; Rangkontext und Sicherung.",
+      "limits": "Zinskomplex zurückverwiesen. Alte EuInsVO; keine allgemeine Ausschaltung ausländischen Rechts. EuGH C-43/25 nur aus der BGH-Wiedergabe verwendet, nicht als selbst gelesener Originaltext bezeichnet.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-125-23",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "2025-10-23",
+      "docket": "IX ZR 125/23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_125-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 17–39",
+      "content_sha256": "f45709ca99519f3cf7db17b5a206fc84cd466221146605ee45bbc9e90d680573",
+      "bytes": 140306,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-125-23.pdf.gz",
+      "supports": "Drittleistungsabgrenzung; wirtschaftliche Herkunft; Werthaltigkeit; nachfolgende Gegenleistung.",
+      "limits": "Keine pauschale Anfechtbarkeit jeder Zahlung von einem fremden Konto; konkrete Sache zurückverwiesen.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-141-23",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "2025-03-20",
+      "docket": "IX ZR 141/23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_141-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 10–21",
+      "content_sha256": "c3f3c397300061ae306786301d526e946b541498e4abc61a4660e2057799c502",
+      "bytes": 180563,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-141-23.pdf.gz",
+      "supports": "Scheingewinne, Kenntnis der Nichtschuld, zuständiger Vertreter, substantiierter Vortrag und Zeugenbeweis.",
+      "limits": "Keine allgemeine subjektive Voraussetzung des §134 oder §136; tatsächliche Feststellungen waren offen.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-10-23",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "2023-12-14",
+      "docket": "IX ZR 10/23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR__10-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 11–16",
+      "content_sha256": "fdb0f57a6bd68ff0c1359fdcc1b26d0578697bbe524ba2914de095c6691c6c99",
+      "bytes": 196520,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-10-23.pdf.gz",
+      "supports": "Reale Einlagenrückzahlung, Scheinguthaben und Scheingewinne; Konkurrenz zwischen § 134 und § 136 InsO.",
+      "limits": "Keine pauschale Unentgeltlichkeit jeder Einlagenrückzahlung; konkrete Verlust- und Vertragslage entscheidend.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-189-24",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "2025-07-10",
+      "docket": "IX ZR 189/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 8–28",
+      "content_sha256": "db4d9a6d16820f69827963bc46134eb4815efc2f0bcb4a261b1eed6264dfb34b",
+      "bytes": 182755,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-189-24.pdf.gz",
+      "supports": "Regress aus Gesellschaftsschuld versus eigene Auslagen; Austauschforderung und Finanzierungsfunktion.",
+      "limits": "Drei Monate keine gesetzliche Freigrenze; nicht jede Spese ist Gesellschafterdarlehen.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-173-23",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "2024-09-19",
+      "docket": "IX ZR 173/23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_173-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 17–30",
+      "content_sha256": "c8eb2060f7bfc5b1cf4e2d82587dec366ae3bc7084855a214e224d919861f4ee",
+      "bytes": 209754,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-173-23.pdf.gz",
+      "supports": "Richtige verpflichtete Person; Doppelstellung und wirtschaftliche Gleichstellung, Konzern-/Treuhandkonstellationen.",
+      "limits": "Keine automatische persönliche Haftung der Gesellschafter einer sichernden Gesellschaft.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-196-13",
+      "court": "BGH",
+      "decision_type": "Beschluss",
+      "decision_date": "2015-04-30",
+      "docket": "IX ZR 196/13",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2013/IX_ZR_196-13.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 3,5–9",
+      "content_sha256": "70fb352761d28cd0795608adf32933151ac8b7ec728ec614381dd7e8a03a02b6",
+      "bytes": 119978,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-196-13.pdf.gz",
+      "supports": "Krisenunabhängigkeit des § 135 Abs. 1 Nr. 2 und Abs. 2 InsO; keine entsprechende Übernahme des § 136 Abs. 2 InsO.",
+      "limits": "§129 und Finanzierungstatbestand bleiben erforderlich; frühere Gesellschafterstellung nicht zeitlich unbegrenzt.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-32-12",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "2013-02-21",
+      "docket": "IX ZR 32/12",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR__32-12.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 23–32",
+      "content_sha256": "256dcee5af64af13f205ed40a5e2e65d904531cd464f352ebbd14ae4070b7202",
+      "bytes": 160339,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-32-12.pdf.gz",
+      "supports": "Zeitlich begrenzte Fortwirkung bei Abtretung und Gesamtschuld in der konkret entschiedenen Gestaltung.",
+      "limits": "Keine zeitlich unbegrenzte Haftung jedes außenstehenden Erwerbers und keine automatische Gesamtschuld in jeder Zession.",
+      "status": "original_abschnitte_gelesen"
+    },
+    {
+      "id": "BGH-IX-ZR-218-16",
+      "court": "BGH",
+      "decision_type": "Beschluss",
+      "decision_date": "2017-11-23",
+      "docket": "IX ZR 218/16",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZR_218-16.pdf?__blob=publicationFile&v=1",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "Rn. 5–7",
+      "content_sha256": "fc6f26b3900fee1e1a886c9555ca22e2fbcc34161f4000a3c32094ee1f2fe7bd",
+      "bytes": 111241,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/BGH-IX-ZR-218-16.pdf.gz",
+      "supports": "Zusätzliche typische stille Einlage eines maßgeblichen Gesellschafters als darlehensgleiche Forderung.",
+      "limits": "Keine pauschale Gleichstellung jedes stillen Anlegers mit einem Haftkapitalgesellschafter.",
+      "status": "original_abschnitte_gelesen"
+    }
+  ],
+  "statutory_sources": [
+    {
+      "id": "INSO-17",
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "de31f0953b616e2d1e9231a7171882e81237e2b1c54e306c98763ad1dbe98425",
+      "bytes": 3687,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-17.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-18",
+      "url": "https://www.gesetze-im-internet.de/inso/__18.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "33cc4ae89c128f65e64807b30d18c9bd6d553ed2adda0dad705d739f75161cf1",
+      "bytes": 4204,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-18.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-19",
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "4267129ec4b97ba5e9891bba428407f992349ac2d355d8dd4477257110e24452",
+      "bytes": 4953,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-19.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-39",
+      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "07a2de8f6fdb0ce27c0f6224dba96ec35c2ebd1e6be5b4c6e8eb13847deb2ac1",
+      "bytes": 6544,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-39.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-129",
+      "url": "https://www.gesetze-im-internet.de/inso/__129.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "a24d27e58c06d4f9d251a65be8ea3a795185d292cd0a6441e3146d7574664947",
+      "bytes": 3658,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-129.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-134",
+      "url": "https://www.gesetze-im-internet.de/inso/__134.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "7a4f4ec575f0d46140726ed2682ec7ad97045f596a3304b82f230f598a89f38f",
+      "bytes": 3698,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-134.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-135",
+      "url": "https://www.gesetze-im-internet.de/inso/__135.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "01926bae5b57ee83d8c08d9453c6d322b182fd24f1719d2a6ac6f6d9580b6c0b",
+      "bytes": 5542,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-135.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-136",
+      "url": "https://www.gesetze-im-internet.de/inso/__136.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "9a41e51aa310cd036aa861a0bf2f996abc9193b38e069f43107add154c17b143",
+      "bytes": 4048,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-136.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-139",
+      "url": "https://www.gesetze-im-internet.de/inso/__139.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "1daa6fe1f7be4b54e6af02cd737f4e0b2d07e65cc54f84aedcddb3cc627df041",
+      "bytes": 4076,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-139.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-140",
+      "url": "https://www.gesetze-im-internet.de/inso/__140.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "d9b42f8ef7e8c81b222ee5b87f3a60e235b8e60bbfe826b4ce8d85adc9d5b7f3",
+      "bytes": 4418,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-140.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-143",
+      "url": "https://www.gesetze-im-internet.de/inso/__143.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "99803709cdb90ebc167651fbb9b6b41bfa0c7faf0307b0d71cd53e818d3025e7",
+      "bytes": 4992,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-143.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-144",
+      "url": "https://www.gesetze-im-internet.de/inso/__144.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "6844382a3a76ae50d7006797d85b98218188f3e8e8843f89106f732eda251003",
+      "bytes": 3870,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-144.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-145",
+      "url": "https://www.gesetze-im-internet.de/inso/__145.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "dbd57f340d93d88d99d8ca62bef8d8ce8386647c5f880a381f3d85fbb9fe75d2",
+      "bytes": 4510,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-145.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "INSO-146",
+      "url": "https://www.gesetze-im-internet.de/inso/__146.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "c22a7b499970e2f0411ad781e979b295b69f8436f40ad702f461d9884736c009",
+      "bytes": 3757,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/inso-146.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "HGB-230",
+      "url": "https://www.gesetze-im-internet.de/hgb/__230.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "52ea39f6dcb8699218e89abdbcbb9ac35efccafefaf7706a7fdd15ae4c21fdcd",
+      "bytes": 3725,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/hgb-230.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "HGB-231",
+      "url": "https://www.gesetze-im-internet.de/hgb/__231.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "1bee9cb6d005e3dabe539ec10e53d0baa0a102ada357e937f615c50815e483f7",
+      "bytes": 3698,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/hgb-231.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "HGB-232",
+      "url": "https://www.gesetze-im-internet.de/hgb/__232.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "6c48b1ce06c8b28751eb1f415a0f630aab7d46f463f0bbcd485b79302a8277c9",
+      "bytes": 4041,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/hgb-232.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "HGB-233",
+      "url": "https://www.gesetze-im-internet.de/hgb/__233.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "7c684a30631eff924ea8e0c6332cdef046b7a48b7ea747fa709facb53090fe24",
+      "bytes": 3465,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/hgb-233.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "HGB-234",
+      "url": "https://www.gesetze-im-internet.de/hgb/__234.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "2ffe7f67fb5fd77ba9ceb4b0d8369f63a8d1133c5f0f6384ed59f14cb0713a2d",
+      "bytes": 3657,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/hgb-234.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "HGB-235",
+      "url": "https://www.gesetze-im-internet.de/hgb/__235.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "ae693dfbf6ec5159f49ea9860ff0c92054cbb2c538bbda655493b3badcb5a660",
+      "bytes": 4042,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/hgb-235.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "HGB-236",
+      "url": "https://www.gesetze-im-internet.de/hgb/__236.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "c14dd7893f527d3363a83493a5cacedea6e0ec2301b6ff017f21144c8c9b92f7",
+      "bytes": 3857,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/hgb-236.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "BGB-195",
+      "url": "https://www.gesetze-im-internet.de/bgb/__195.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "db542b2a124f440ebcfad22129b7323809692e96cd4efd638dadfa6a23474ca1",
+      "bytes": 3454,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/bgb-195.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "BGB-199",
+      "url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "1fad808afadae9631d82aa6b04ceae5bdd5bfa431b4d27470bc4b982a208c349",
+      "bytes": 5875,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/bgb-199.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "BGB-203",
+      "url": "https://www.gesetze-im-internet.de/bgb/__203.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "835836c0b37dbeb0ebedcd8d896b9773c76dab8a520702bf06931c770602e776",
+      "bytes": 3731,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/bgb-203.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "BGB-204",
+      "url": "https://www.gesetze-im-internet.de/bgb/__204.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "dfcb3d03b2e44da6f5eb99cc328c5ac765c4b959800e9fb00cebc7660d639a5e",
+      "bytes": 9722,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/bgb-204.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "BGB-814",
+      "url": "https://www.gesetze-im-internet.de/bgb/__814.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "34cda8e3fada1b8dcf98da2b8a91d01609d8e7665e9d33e727b76f899ce2a373",
+      "bytes": 3660,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/bgb-814.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "ZPO-138",
+      "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "9eba33019b9b4941d3755de7501240fa0603643e059ebe51dda5c5058b87569f",
+      "bytes": 4097,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/zpo-138.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "ZPO-286",
+      "url": "https://www.gesetze-im-internet.de/zpo/__286.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "45909790d2b1ff73ec09c0a3a8659a510487bcc6d1d403c90a27d148cf956776",
+      "bytes": 3886,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/zpo-286.html.gz",
+      "status": "normtext_gelesen"
+    },
+    {
+      "id": "EGInsO-103j",
+      "url": "https://www.gesetze-im-internet.de/eginso/art_103j.html",
+      "retrieved_on_utc": "2026-11-15",
+      "read_scope": "vollständiger Normtext",
+      "content_sha256": "f1764e767b5522a1ef4c25722a4264736323bbc90b4bef8466b8815acfa8ea9d",
+      "bytes": 4068,
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/134-136-originale/eginso-art103j.html.gz",
+      "status": "normtext_gelesen"
+    }
+  ],
+  "limitations": [
+    "Keine Vollständigkeitsgarantie für sämtliche Rechtsprechung bis zum Stichtag.",
+    "Kein neuer eigenständiger BGH-Grundsatzfall aus 2026 unmittelbar zu § 136 Abs. 1 und 2 InsO verifiziert; Normtext und abgegrenzte Schnittstellenentscheidungen verwendet.",
+    "Kein eigenständiger Liveabruf des EuGH-Urteils C-43/25 innerhalb dieses Teilauftrags; die Verwendung der BGH-Wiedergabe in IX ZR 229/23 ist kenntlich gemacht.",
+    "Keine lizenzierte Literatur verwendet; Gerichtszitate darin nicht als selbst gelesene Kommentare übernommen.",
+    "Kein Live-Modellbenchmark; Beispieltexte und Varianten sind redaktionell geprüfte Arbeitsanweisungen."
+  ],
+  "access_notes": [
+    "Der Webreader gab bei einzelnen BGH-SharedDocs HTTP 403 zurück. Der direkte Abruf mit urllib lieferte valide PDFs; diese wurden lokal mit pypdf extrahiert und die bezeichneten Randnummern gelesen.",
+    "Juris-Endpunkte lieferten beim direkten Abruf HTML statt PDF. Diese Bytes wurden nicht als Original freigegeben.",
+    "IX ZR 229/23 wurde als amtliches XML aus dem ZIP gelesen. Der erneut geladene Inhalt stimmt bytegenau mit dem zuerst gelesenen XML überein."
+  ]
+}

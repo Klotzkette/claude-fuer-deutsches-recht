@@ -15,6 +15,10 @@ on:
       - 'testakten/insolvenzanfechtung-veedelwende-zession-koeln/**'
       - 'testakten/fintech-darlehen-vertragsuebernahme-bremen/**'
       - 'scripts/*insolvenzanfechtung*'
+      - 'scripts/build-anfechtung-werkstattprompts.py'
+      - 'scripts/test-anfechtung-werkstattprompts.py'
+      - 'scripts/anfechtung_werkstatt_contract.py'
+      - 'docs/werkstattprompts/insolvenzanfechtung/**'
       - 'scripts/anfechtung_kanzleisatz.py'
       - 'scripts/test-anfechtung-kanzleisatz.py'
       - 'scripts/*fintech-bremen*'
@@ -71,10 +75,16 @@ jobs:
         run: |
           test "$TAG" = 'insolvenzanfechtung-v1.1.0'
           test -s "docs/releases/$TAG.md"
+          # Der alte 36-Asset-Release bleibt unveränderlich. Neuere Prompts
+          # werden als eigene Qualitätsrunde mit ihrem vollständigen Scope gebaut.
+          if [ "$GITHUB_EVENT_NAME" = workflow_dispatch ]; then
+            test "$(python3 -c 'import json; print(json.load(open("insolvenzanfechtung/plugin.json"))["version"])')" = '1.1.0'
+          fi
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
           python3 scripts/validate-root-readme-overview.py
           python3 scripts/test-insolvenzanfechtung.py
+          python3 scripts/test-anfechtung-werkstattprompts.py
           python3 scripts/test-anfechtung-kanzleisatz.py
           python3 scripts/test-fintech-bremen-schriftsatzsatz.py --read-only
           python3 scripts/test-fintech-bremen-anfechtung-ergaenzung.py
@@ -99,8 +109,13 @@ jobs:
           python3 scripts/test-fintech-bremen.py --assets "$RUNNER_TEMP/anfechtungsakten"
           candidate=()
           if [ "$GITHUB_EVENT_NAME" = pull_request ]; then candidate=(--candidate); fi
-          python3 scripts/build-insolvenzanfechtung-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --case-assets "$RUNNER_TEMP/anfechtungsakten" "${candidate[@]}"
-          python3 scripts/test-insolvenzanfechtung.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
+          if [ "$(python3 -c 'import json; print(json.load(open("insolvenzanfechtung/plugin.json"))["version"])')" = '1.1.0' ]; then
+            python3 scripts/build-insolvenzanfechtung-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --case-assets "$RUNNER_TEMP/anfechtungsakten" "${candidate[@]}"
+            python3 scripts/test-insolvenzanfechtung.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
+          else
+            python3 scripts/build-skill-quality-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
+            python3 scripts/build-skill-quality-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --verify
+          fi
       - name: Geprüfte Pakete sichern
         if: always()
         uses: actions/upload-artifact@v4

@@ -22,6 +22,12 @@ Führe einen Eingangsbestand mit Absender, Herkunft, Erhalt, Belegzeitraum und O
 
 Für jeden entscheidenden Ansatz nenne Datei und Seite, Zeile, Tabellenblatt und Zelle oder Belegnummer. Bei Lücken rechne die belegbaren Positionen und zeige, wie viel eine noch nicht verifizierte Position ändern würde.
 
+### 2.1. Verlorene Unterlagen und Beweisvereitelung gesondert bearbeiten
+
+Lässt sich ein Status wegen fehlender Geschäftsunterlagen nicht rekonstruieren, dokumentiere Suchversuche, Aufbewahrungspflichten, Übergaben, Sicherungen und den konkreten Verlustgrund. Prüfe greifbare Krisenindizien und die mögliche Zurechnung des Informationsmangels. Bei Anzeichen einer verdeckten Liquidation kann im Organhaftungsprozess eine sekundäre Darlegungslast oder eine Beweiserleichterung bis zur Beweislastumkehr in Betracht kommen. Trenne diese Wege: Sekundäre Darlegung verlangt zumutbare Angaben aufgrund des Informationsgefälles; Beweisvereitelung setzt eine schuldhafte Erschwerung und deren Zusammenhang mit der Beweisnot voraus. Genügt der Gegner seiner sekundären Darlegungslast, bleibt die weitere Beweisführung grundsätzlich beim Beweispflichtigen.
+
+[BGH, Urteil vom 13. Oktober 2026 – Az. II ZR 30/25, Rn. 8–21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__30-25.pdf?__blob=publicationFile&v=1) betrifft § 64 Satz 1 GmbHG alter Fassung und verweist zurück. Es belegt weder automatisch einen bestimmten Eintrittstag noch die Insolvenzreife im konkreten Fall. Übertrage die Aussage nicht ungeprüft auf § 15b InsO oder außenstehende Anfechtungsgegner. Fehlende Zahlen bleiben offen; einen rechtlich möglichen prozessualen Nachweisweg neben dem Rechenbefund ausgeben. Erfrage nur die dafür entscheidenden Unterlagen und arbeite die übrigen belegbaren Positionen weiter aus.
+
 ## 3. Zahlungsunfähigkeit ausrechnen und würdigen
 
 ### 3.1. Die vier Gruppen der Liquiditätsbilanz
@@ -80,6 +86,8 @@ Für ausgewählte Handlungen ordne Auftrag, Belastung, Wertstellung und Eintritt
 Bei kongruenten Deckungen ist der Befund zur Kenntnis nach § 130 InsO von den Voraussetzungen des § 133 InsO zu trennen. Eine zusätzliche Zukunftsbetrachtung kann bei endgültiger Betriebseinstellung und fehlender Aussicht auf nennenswerte Mittel entbehrlich sein; stelle gerade diese Umstände und ihre Kenntnis fest. Ein Sale-and-lease-back erfordert die gesonderte Betrachtung von Verpflichtungsgeschäft, Eigentumswechsel, Mittelverwendung und Mietlast. Preisgleichwertigkeit allein macht den Vertragsschluss nicht zur kongruenten Deckung. [BGH, Urteil vom 23. Juli 2026 – IX ZR 66/24, Rn. 27–30](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR__66-24.pdf?__blob=publicationFile&v=1) · [BGH, Urteil vom 21. Mai 2026 – IX ZR 168/24, Rn. 25–35](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1)
 
 Bei einem entsprechenden Auftrag prüfe getrennt die Pflichten der erfassten Organe nach § 15a und § 15b InsO. Ermittle für § 15a den objektiven Eintritt und die Pflicht ohne schuldhaftes Zögern sowie die Höchstfristen. Kläre Kenntnis, Verschulden und Folgen aufgrund der jeweils einschlägigen Anspruchsgrundlage. [§ 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) · [§ 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html)
+
+Bei einem Auftrag zu Säumniszuschlägen der Ausgleichsabgabe nach § 160 Abs. 4 SGB IX ist das Eintrittsdatum zusätzlich für die betroffenen Zuschlagsmonate erheblich: [BGH, Urteil vom 5. November 2026 – Az. IX ZR 150/25, Rn. 15–29](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_150-25.pdf?__blob=publicationFile&v=1). Die Eröffnung rechtfertigt keine pauschale Halbierung sämtlicher früher entstandener Zuschläge. Stelle Hauptforderung, Zuschlagszeiträume, belegtes Eintrittsdatum und offene Varianten nebeneinander. Der Folgeanspruch ändert weder den Insolvenzgrund noch rechtfertigt er ohne eigene Prüfung eine Kürzung aller öffentlichen Passiva. Vermeide eine zirkuläre Statusrechnung, die den Eintritt erst aus einer gerade wegen dieses Eintritts verlangten Kürzung herleitet.
 
 ### 5.1. Anfechtungsschreiben oder Klage ausarbeiten
 

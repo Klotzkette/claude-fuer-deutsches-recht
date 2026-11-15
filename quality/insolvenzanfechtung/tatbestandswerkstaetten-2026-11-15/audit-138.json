@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "module": "insolvenzanfechtung/werkstattprompts/138-nahestehende-personen.md",
+  "date": "2026-11-15",
+  "scope": "Eigenständige Primärquellenprüfung und redaktionelle Prüfung des Großprompts § 138; kein Modellbenchmark, keine Vollständigkeitsbehauptung zur gesamten Rechtsprechung.",
+  "sources": [
+    {
+      "file": "inso-130.html",
+      "url": "https://www.gesetze-im-internet.de/inso/__130.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__130.html",
+      "status": 200,
+      "bytes": 5155,
+      "sha256": "97fc6fb7460dde48f6c66a5363ad02916e3252c51093fcb4ace088a0b5af85fd",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/inso-130.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "inso-131.html",
+      "url": "https://www.gesetze-im-internet.de/inso/__131.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__131.html",
+      "status": 200,
+      "bytes": 4920,
+      "sha256": "5d90dd68590b47c5aabae125e77d160f8f1454353f3bcb4cb825fa0ffce06493",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/inso-131.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "inso-132.html",
+      "url": "https://www.gesetze-im-internet.de/inso/__132.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__132.html",
+      "status": 200,
+      "bytes": 4653,
+      "sha256": "dcedb2d2c07c0bc2ff0ad816edd97fe5bc98e9bdcb8cc79274cba6b260a85d7e",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/inso-132.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "inso-133.html",
+      "url": "https://www.gesetze-im-internet.de/inso/__133.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__133.html",
+      "status": 200,
+      "bytes": 5127,
+      "sha256": "980985f2e4b175ad030f8467d67c821a7dae47cb37dd31e14ec6f6f7fc19790c",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/inso-133.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "inso-137.html",
+      "url": "https://www.gesetze-im-internet.de/inso/__137.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__137.html",
+      "status": 200,
+      "bytes": 4237,
+      "sha256": "385a27667f19ff5706304cc39af0d3174dc21b2bf6b535d04968932001224f41",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/inso-137.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "inso-138.html",
+      "url": "https://www.gesetze-im-internet.de/inso/__138.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__138.html",
+      "status": 200,
+      "bytes": 6800,
+      "sha256": "01d850d5b6dabde3a034e0180c949e704385f1c9bac8298179f47f63b19da69a",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/inso-138.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "inso-145.html",
+      "url": "https://www.gesetze-im-internet.de/inso/__145.html",
+      "final_url": "https://www.gesetze-im-internet.de/inso/__145.html",
+      "status": 200,
+      "bytes": 4510,
+      "sha256": "dbd57f340d93d88d99d8ca62bef8d8ce8386647c5f880a381f3d85fbb9fe75d2",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/inso-145.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "zpo-138.html",
+      "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "status": 200,
+      "bytes": 4097,
+      "sha256": "9eba33019b9b4941d3755de7501240fa0603643e059ebe51dda5c5058b87569f",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/zpo-138.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "zpo-142.html",
+      "url": "https://www.gesetze-im-internet.de/zpo/__142.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__142.html",
+      "status": 200,
+      "bytes": 4884,
+      "sha256": "d77d302f902e83592ac7344ebc6436f09936485e649768d88deccd9012eeb9d5",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/zpo-142.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "zpo-286.html",
+      "url": "https://www.gesetze-im-internet.de/zpo/__286.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__286.html",
+      "status": 200,
+      "bytes": 3886,
+      "sha256": "45909790d2b1ff73ec09c0a3a8659a510487bcc6d1d403c90a27d148cf956776",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/zpo-286.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "zpo-292.html",
+      "url": "https://www.gesetze-im-internet.de/zpo/__292.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__292.html",
+      "status": 200,
+      "bytes": 3628,
+      "sha256": "2a389a066c2f895174b3a8732482bf437d809ed4226345aa392b5969a2253ac3",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/zpo-292.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "aktg-16.html",
+      "url": "https://www.gesetze-im-internet.de/aktg/__16.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktg/__16.html",
+      "status": 200,
+      "bytes": 5114,
+      "sha256": "e26bb9b83d5cf3ab131906a09945029b95b670947614b99f118513a65a07da68",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/aktg-16.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "eginso-103j.html",
+      "url": "https://www.gesetze-im-internet.de/eginso/art_103j.html",
+      "final_url": "https://www.gesetze-im-internet.de/eginso/art_103j.html",
+      "status": 200,
+      "bytes": 4068,
+      "sha256": "f1764e767b5522a1ef4c25722a4264736323bbc90b4bef8466b8815acfa8ea9d",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/eginso-103j.html.gz",
+      "verification": {
+        "read_scope": "Vollständiger Normtext am 15.11.2026 gelesen; amtliche Einzelnorm, HTML-Rohbytes unverändert archiviert."
+      }
+    },
+    {
+      "file": "ix-zr-106-21.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_106-21.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR_106-21.pdf?__blob=publicationFile&v=1",
+      "status": 200,
+      "bytes": 171563,
+      "sha256": "7bbb2a48cc176743548beecc5b4204a3535b83dcad3eb1de5562f98b079da8a0",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/ix-zr-106-21.pdf.gz",
+      "verification": {
+        "decision": "BGH, Urteil vom 22.02.2024 – Az. IX ZR 106/21",
+        "read_scope": "Rn. 7–14 und 21 sowie Kopf/Tatbestand; weitere Passagen im Volltext gelesen, nicht als neue Aussage eingesetzt.",
+        "used_for": [
+          "Mittelbare Beteiligung und Abhängigkeit",
+          "Mehrheitsbesitz statt bloßer Prozentmultiplikation",
+          "Typisierte Informationsmöglichkeit versus widerlegliche Kenntnisvermutung",
+          "Keine Vermutung der objektiven Zahlungsunfähigkeit"
+        ],
+        "limits": "Entschiedene Kette mit zwei vollständigen Beteiligungen; zusätzliche Beispielkette ausdrücklich eigene Anwendung."
+      }
+    },
+    {
+      "file": "ix-zr-209-23.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_209-23.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_209-23.pdf?__blob=publicationFile&v=1",
+      "status": 200,
+      "bytes": 213893,
+      "sha256": "2e7c58f384fcc7bda78968d6c36f8c95d178abda0d8cbec103c8e7c23da2ded8",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/ix-zr-209-23.pdf.gz",
+      "verification": {
+        "decision": "BGH, Urteil vom 06.03.2025 – Az. IX ZR 209/23",
+        "read_scope": "Kopf/Tatbestand und Rn. 21–45; insbesondere 26, 37–45 anhand des extrahierten Originalvolltexts nachgelesen.",
+        "used_for": [
+          "Freie Beweiswürdigung bei persönlicher Nähe",
+          "Sekundäre Darlegungslast ohne Beweislastumkehr oder Urkundenvorlagepflicht",
+          "Unterschiedliche Informationsmöglichkeiten AnfG-Gläubiger und Insolvenzverwalter"
+        ],
+        "limits": "AnfG-Entscheidung; Übertragung auf InsO wird im Prompt begründet und nicht als identischer Entscheidungssachverhalt dargestellt."
+      }
+    },
+    {
+      "file": "ix-zr-168-24.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1",
+      "status": 200,
+      "bytes": 198902,
+      "sha256": "e26fc15b846534d5f1d7c9360ec0515b9dd9443c890c1e410db07b54227cc014",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/ix-zr-168-24.pdf.gz",
+      "verification": {
+        "decision": "BGH, Urteil vom 21.05.2026 – Az. IX ZR 168/24",
+        "read_scope": "Kopf, Tatbestand, Rn. 14–20 und 38–50; verwendet insbesondere 17–20 und 41–48.",
+        "used_for": [
+          "Trennung § 133 Abs. 1 und 4",
+          "Interne Krisenkommunikation nicht allein äußerliche Zahlungseinstellung",
+          "Doppelrolle Insider/Gläubiger und berichtete äußere Tatsachen",
+          "Mehrheitsgesellschafterstellung und Gesamtwürdigung von Vermögensübertragungen"
+        ],
+        "limits": "Zurückverweisung, keine abschließende Anfechtbarkeit jedes Sale-and-lease-back-Geschäfts."
+      }
+    },
+    {
+      "file": "ix-zr-58-09.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__58-09.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__58-09.pdf?__blob=publicationFile&v=1",
+      "status": 200,
+      "bytes": 102307,
+      "sha256": "066f68406b321845eb24c5569eda64939eb60536aca7e3156e658913ab0c4ddd",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/ix-zr-58-09.pdf.gz",
+      "verification": {
+        "decision": "BGH, Urteil vom 01.07.2010 – Az. IX ZR 58/09",
+        "read_scope": "Kopf, Sachverhaltskontext und Rn. 9–24.",
+        "used_for": [
+          "Vermutung von Schuldnervorsatz und Empfängerkenntnis bei erfülltem besonderen Vertragstatbestand",
+          "Gegenbeweis durch konkrete objektive Tatsachen",
+          "Begrenzter Beweiswert einer ungeprüften Vermögensübersicht und einzelner Nichtmitteilung"
+        ],
+        "limits": "Güterrechtlicher Fall unter altem § 133 Abs. 2; keine pauschale Verallgemeinerung aller dortigen Indizien."
+      }
+    },
+    {
+      "file": "ix-zr-94-14.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR__94-14.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR__94-14.pdf?__blob=publicationFile&v=1",
+      "status": 200,
+      "bytes": 130818,
+      "sha256": "c05285182bb1adc23cc304888cb1715c057b383168821f13c72e50504f2843f9",
+      "retrieved_date": "2026-11-15",
+      "archive": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-138/ix-zr-94-14.pdf.gz",
+      "verification": {
+        "decision": "BGH, Versäumnisurteil vom 22.12.2016 – Az. IX ZR 94/14",
+        "read_scope": "Kopf, Tatbestand und vollständige Entscheidungsgründe Rn. 3–19.",
+        "used_for": [
+          "Gesellschaften über § 138 Abs. 2 Nr. 3 und Abs. 1 Nr. 4",
+          "Gesetzliche Verschwiegenheit einschließlich GmbH-Geschäftsführer",
+          "Konkrete Pflicht, Aufgabe des Geheimhaltungsinteresses und Darlegung zur Rückausnahme",
+          "Weiter Vertragsbegriff und Indizienabgrenzung"
+        ],
+        "limits": "Sachprüfung im Versäumnisurteil; alte Absatznummer § 133 Abs. 2 als heutiger Abs. 4 gekennzeichnet."
+      }
+    }
+  ],
+  "validation": {
+    "sha256": "f4584e0ec9e69e65a5b397f29c7caee5dedb3df2be2cb42f3e804aea34dedada",
+    "word_count_whitespace": 6766,
+    "top_level_sections": 20,
+    "section_sequence": "1–20",
+    "external_links_count": 17,
+    "all_linked_sources_downloaded_and_verified": true,
+    "archives_count": 18,
+    "raw_archive_roundtrip_verified": true,
+    "decimal_headings": true,
+    "no_trailing_whitespace": true,
+    "editorial_checks": [
+      {
+        "check": "Natürliche Personen und Gesellschaftsschuldner getrennt",
+        "location": "Abschnitte 4–10",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Mehr als 25 Prozent; genau 25 Prozent erfüllt Kapitalalternative nicht",
+        "location": "Abschnitte 6–8",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Mittelbare Beteiligung und Abhängigkeit; keine schematische Multiplikation",
+        "location": "Abschnitt 8",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Gesetzliche konkrete Verschwiegenheit; Rückausnahme und anderer Näheweg getrennt",
+        "location": "Abschnitt 10",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Nähe und Wissen an normabhängigen Stichtag gebunden",
+        "location": "Abschnitt 11",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Belegte Vermutungsbasis, Beweis des Gegenteils und Indizienwürdigung getrennt",
+        "location": "Abschnitt 12",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Objektive Zahlungsunfähigkeit nicht durch Nähe ersetzt",
+        "location": "Abschnitt 13",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "§ 131 Alternativen und Kenntnisgegenstand; § 137 Begebungszeitpunkt",
+        "location": "Abschnitt 14",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "§ 133 Abs. 1 Indizien und Abs. 4 unmittelbare Benachteiligung getrennt",
+        "location": "Abschnitte 15–16",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "§ 133 Abs. 4 subjektive Vermutungen nur bei objektiv erfülltem Tatbestand",
+        "location": "Abschnitt 16",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "§ 145 Nähe zum ursprünglichen Schuldner und Nachfolgererwerbszeitpunkt",
+        "location": "Abschnitt 17",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Sekundäre Darlegungslast keine Urkundenvorlagepflicht oder Beweislastumkehr",
+        "location": "Abschnitt 18",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Ausformulierte Arbeitsprodukte, Applet nur bei Fähigkeiten, statischer Rückfall",
+        "location": "Abschnitt 19",
+        "status": "manuell geprüft"
+      },
+      {
+        "check": "Quellenstand, AnfG-Kontext, alte Absatzzählung und Remandgrenzen sichtbar",
+        "location": "Abschnitte 2, 15–16 und 20",
+        "status": "manuell geprüft"
+      }
+    ],
+    "not_performed": [
+      "Kein Live-Ausführungsbenchmark in ChatGPT oder Claude",
+      "Keine Überprüfung nicht bereitgestellter Literatur",
+      "Keine PDF-Satzprobe durch diesen Teilauftrag; Satz und Integration durch Hauptagent",
+      "Keine exhaustive Prüfung jeder bis heute veröffentlichten Entscheidung"
+    ]
+  }
+}

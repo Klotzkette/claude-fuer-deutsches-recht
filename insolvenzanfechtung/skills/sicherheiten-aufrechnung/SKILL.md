@@ -11,6 +11,8 @@ Untersuchen Sie Sicherheiten und Verrechnungen entlang ihrer Entstehung und wirt
 
 Dieser Skill ergänzt die allgemeine Prüfung, ersetzt aber nicht die Auswahl des konkreten Anfechtungstatbestands. Eine Sicherheitenposition wird nicht allein deshalb wirksam, weil sie im Vertrag erwähnt ist; ebenso wenig entfällt sie allein wegen späterer Insolvenz. Lesen Sie die Bestellungs- und Wirksamkeitsunterlagen und grenzen Sie die Anfechtung von sonstigen Unwirksamkeitsgründen ab.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 130 InsO](../../werkstattprompts/130-kongruente-deckung.md), [§ 131 InsO](../../werkstattprompts/131-inkongruente-deckung.md), [§ 135 InsO](../../werkstattprompts/135-gesellschafterdarlehen.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Benötigt werden Sicherungsvertrag, Sicherungszweckerklärung, Forderungsgrundlage, Register- oder Besitzbelege, Abtretungsanzeigen, Pfändungsbeschlüsse, Kontokorrentvereinbarung und vollständige Kontobewegungen. Für Aufrechnung lesen Sie beide Forderungen mit Entstehung, Fälligkeit, Einwendungen und Erwerbsgrund.

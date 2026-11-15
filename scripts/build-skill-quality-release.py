@@ -37,6 +37,7 @@ LINK = re.compile(r"\]\(([^)\s]+)\)")
 REPORT = "release-bestand.json"
 CHECKSUMS = "checksums-sha256.txt"
 HANDBOOK_ASSETS = {"ki-native-kanzlei-skills-handbuch.pdf", "ki-native-kanzlei-skills-einzelpdfs.zip"}
+from anfechtung_werkstatt_contract import ASSETS as ANFECHTUNG_ASSETS, EVIDENCE as ANFECHTUNG_EVIDENCE
 
 
 def load_module(filename: str):
@@ -130,12 +131,18 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
             if pending_file_reviews(profile, root):
                 raise ValueError(f"{name}: offene Nachprüfung verhindert Veröffentlichung")
     extras = scope.get("additional_assets", [])
-    if not isinstance(extras, list) or (extras and {r.get("name") for r in extras} != HANDBOOK_ASSETS):
-        raise ValueError("Zusatzassets sind ausschließlich das vollständige geprüfte KI-native-Handbuchpaar")
+    extra_names = {r.get("name") for r in extras} if isinstance(extras, list) else set()
+    if "insolvenzanfechtung" in seen and scope["version"] == "445.36.2" and extra_names != ANFECHTUNG_ASSETS:
+        raise ValueError("Insolvenzanfechtung 445.36.2 benötigt das vollständige geprüfte Werkstattpaar")
+    if not isinstance(extras, list) or (extras and extra_names not in (HANDBOOK_ASSETS, ANFECHTUNG_ASSETS)):
+        raise ValueError("Zusatzassets sind ausschließlich das vollständige geprüfte KI-native-Handbuchpaar oder Anfechtungs-Werkstattpaar")
     if len({r.get("name") for r in extras}) != len(extras):
         raise ValueError("Doppelte Zusatzassets")
-    if extras and "ki-native-kanzlei" not in seen:
+    if extra_names == HANDBOOK_ASSETS and "ki-native-kanzlei" not in seen:
         raise ValueError("Handbuchpaar benötigt das zugehörige Plugin im Release-Scope")
+    if extra_names == ANFECHTUNG_ASSETS and "insolvenzanfechtung" not in seen:
+        raise ValueError("Werkstattpaar benötigt Insolvenzanfechtung im Release-Scope")
+    expected_evidence = ANFECHTUNG_EVIDENCE if extra_names == ANFECHTUNG_ASSETS else "quality/ki-native-kanzlei/umfang.json"
     for row in extras:
         for field in ("source", "evidence"):
             relative = Path(row.get(field, ""))
@@ -144,7 +151,7 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
             path = root / relative
             if not path.resolve().is_relative_to(root.resolve()) or path.is_symlink() or not path.is_file():
                 raise ValueError(f"Zusatzassetquelle fehlt oder liegt außerhalb des Repositories: {relative}")
-        if row["evidence"] != "quality/ki-native-kanzlei/umfang.json" or not re.fullmatch(r"[0-9a-f]{64}", str(row.get("sha256", ""))):
+        if row["evidence"] != expected_evidence or not re.fullmatch(r"[0-9a-f]{64}", str(row.get("sha256", ""))):
             raise ValueError("Konkreter Quellen-/Umfangsnachweis und SHA-256 erforderlich")
         if sha256_file(root / row["source"]) != row["sha256"]:
             raise ValueError(f"Zusatzasset stimmt nicht mit dem geprüften Hash überein: {row['name']}")
@@ -157,6 +164,18 @@ def verify_handbooks(scope: dict, root: Path, asset_directory: Path | None = Non
     extras = scope.get("additional_assets", [])
     if not extras:
         return {}
+    if {row["name"] for row in extras} == ANFECHTUNG_ASSETS:
+        from anfechtung_werkstatt_contract import validate_exports
+        paths = {row["name"]: (asset_directory / row["name"] if asset_directory else root / row["source"]) for row in extras}
+        evidence_path = root / ANFECHTUNG_EVIDENCE
+        evidence_bytes = evidence_path.read_bytes()
+        evidence = validate_exports(root, evidence_path,
+                                    paths["insolvenzanfechtung-tatbestandswerkstaetten.zip"],
+                                    paths["insolvenzanfechtung-tatbestandswerkstaetten.pdf"])
+        if evidence["version"] != scope["version"]:
+            raise ValueError("Werkstattpaar benötigt die passende Release-Version")
+        return {row["name"]: {"source": row["source"], "sha256": row["sha256"], "evidence": row["evidence"],
+                               "evidence_sha256": hashlib.sha256(evidence_bytes).hexdigest()} for row in extras}
     from pypdf import PdfReader
     contract = load_module("ki_kanzlei_release_contract.py")
     evidence_path = root / "quality/ki-native-kanzlei/umfang.json"

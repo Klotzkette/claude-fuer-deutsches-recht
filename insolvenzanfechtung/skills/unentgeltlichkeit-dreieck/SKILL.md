@@ -11,6 +11,8 @@ Untersuchen Sie, ob eine Leistung ohne die rechtlich erhebliche Gegenleistung er
 
 Der amtlich geprüfte BGH-Anker vom 23.10.2025, Az. IX ZR 125/23, verlangt eine sorgfältige objektive Zuordnung und Prüfung der Forderung gegen den Vertragsschuldner. Er trägt keine allgemeine Regel, jede Drittzahlung sei unentgeltlich. Der vollständige Nachweis und die Aussagegrenze stehen in der Rechtsquellenreferenz. Verwenden Sie den Anker nur für den tatsächlich vergleichbaren Leistungsaufbau.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 134 InsO](../../werkstattprompts/134-unentgeltliche-leistung.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Erforderlich sind die vollständigen Verträge aller betroffenen Verhältnisse, Zahlungsbelege, Tilgungsbestimmungen, Abtretungen, Übernahmevereinbarungen und Zustimmungserklärungen. Erheben Sie, welche eigene Forderung der Empfänger durch die Zahlung verlor und ob diese im maßgeblichen Zeitpunkt werthaltig war. Die Insolvenz des Zahlenden beantwortet die wirtschaftliche Lage eines anderen Vertragsschuldners nicht.

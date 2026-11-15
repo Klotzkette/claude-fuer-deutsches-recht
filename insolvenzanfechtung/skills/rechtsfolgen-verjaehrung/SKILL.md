@@ -11,6 +11,8 @@ Leiten Sie die Rechtsfolge aus dem tatsächlich tragenden Tatbestand ab. Ein mö
 
 Prüfen Sie Verjährung als eigene Arbeitslinie. Der anfechtungsrechtliche Rückschauzeitraum ist nicht die Frist zur gerichtlichen Durchsetzung. Ein außergerichtliches Forderungsschreiben ist nicht ohne Weiteres eine verjährungshemmende Maßnahme. Lassen Sie sich durch einen vermeintlich eindeutigen Anspruch nicht dazu verleiten, Verfahrensdaten oder Kenntniszeitpunkte zu überspringen.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 139 InsO](../../werkstattprompts/139-fristen-und-antragsauswahl.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Benötigt werden der abgeschlossene Tatbestandsvermerk, vollständige Betragsliste, Rückleistungen, Gegenleistungen, Eröffnung, Kenntnisverlauf und bisherige Korrespondenz. Lesen Sie Forderungsschreiben mit Zustellungs- oder Zugangsnachweis, Klageschriften, Mahnverfahren, Verhandlungen, Stillhalte- oder Verzichtsvereinbarungen und etwaige Anerkenntnisse. Die Überschrift eines Schreibens beweist seine rechtliche Wirkung nicht.

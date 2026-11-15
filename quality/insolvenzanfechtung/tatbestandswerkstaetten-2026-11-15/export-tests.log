@@ -1,0 +1,19 @@
+test_changed_handbook_with_refreshed_hash (__main__.ExportContractTests.test_changed_handbook_with_refreshed_hash) ... ok
+test_changed_hyperlink_target_with_refreshed_source_hash (__main__.ExportContractTests.test_changed_hyperlink_target_with_refreshed_source_hash) ... ok
+test_changed_pdf_amount_punctuation_with_refreshed_hash (__main__.ExportContractTests.test_changed_pdf_amount_punctuation_with_refreshed_hash) ... ok
+test_changed_pdf_body_with_refreshed_hash (__main__.ExportContractTests.test_changed_pdf_body_with_refreshed_hash) ... ok
+test_changed_pdf_link_target_with_refreshed_hash (__main__.ExportContractTests.test_changed_pdf_link_target_with_refreshed_hash) ... ok
+test_changed_source_with_refreshed_hash_and_matching_md_txt (__main__.ExportContractTests.test_changed_source_with_refreshed_hash_and_matching_md_txt) ... ok
+test_duplicate_module_member (__main__.ExportContractTests.test_duplicate_module_member) ... ok
+test_false_page_count_in_evidence_and_zip (__main__.ExportContractTests.test_false_page_count_in_evidence_and_zip) ... ok
+test_false_word_count_in_evidence_and_zip (__main__.ExportContractTests.test_false_word_count_in_evidence_and_zip) ... ok
+test_handbook_footer_with_wrong_source_date_despite_refreshed_hash (__main__.ExportContractTests.test_handbook_footer_with_wrong_source_date_despite_refreshed_hash) ... ok
+test_missing_module_member (__main__.ExportContractTests.test_missing_module_member) ... ok
+test_original_generated_exports (__main__.ExportContractTests.test_original_generated_exports) ... ok
+test_truncated_pdf_with_refreshed_hash_and_page_count (__main__.ExportContractTests.test_truncated_pdf_with_refreshed_hash_and_page_count) ... ok
+test_unexpected_archive_member (__main__.ExportContractTests.test_unexpected_archive_member) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 6.758s
+
+OK

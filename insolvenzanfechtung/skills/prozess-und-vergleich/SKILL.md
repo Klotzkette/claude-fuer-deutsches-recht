@@ -11,6 +11,8 @@ description: "Erstellt aus belegten Anfechtungsvorgängen Forderungsschreiben, K
 
 Ein guter Schriftsatz benennt konkrete Handlungen und die sie tragenden Tatsachen. Er ersetzt fehlende Belege nicht durch lange Rechtsprechungslisten. Bei mehreren Erwerbs- oder Vollzugsschritten klären Sie Reihenfolge und Verhältnis der Streitgegenstände. Die rechtliche Einordnung darf alternativ sein, ohne den Sachverhalt widersprüchlich als gleichzeitig feststehend zu behaupten.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 138 InsO](../../werkstattprompts/138-nahestehende-personen.md), [§ 139 InsO](../../werkstattprompts/139-fristen-und-antragsauswahl.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Lesen Sie Mandat, Vollmacht soweit relevant, gerichtliche Verfügungen, Zustellungsbelege, Anspruchsschreiben und alle tragenden Sachverhaltsunterlagen. Übernehmen Sie Aktenzeichen, Parteien und Vertreter aus verifizierten Dokumenten. Ein ähnlicher Firmenname oder ein alter Briefkopf genügt nicht für das Rubrum.

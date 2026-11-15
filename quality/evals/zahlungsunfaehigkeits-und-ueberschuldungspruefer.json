@@ -942,10 +942,11 @@
     "changes": [
       "Zeitaktuelle Entscheidungsanker mit Aussagegrenzen und Gegenfällen.",
       "Grundaktenauswertung, offene Unterlagen und dokumentierte Anschlussprüfung.",
-      "Trennung von Rechnung, Zahlungseinstellung, Insolvenzgrund und Anfechtungsmerkmalen."
+      "Trennung von Rechnung, Zahlungseinstellung, Insolvenzgrund und Anfechtungsmerkmalen.",
+      "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest."
     ],
     "reviewed_on": "2026-11-13",
-    "sha256": "c13a2f39e43e31900e9b5fced63730f3062214a873c849a75ea99ed1954a7250"
+    "sha256": "a35d89cd68982acbee15aa72257c5c02e19b8c7d6b655efb9616873f566f4501"
   },
   "prompt_editorial_review": {
     "date": "2026-11-13",

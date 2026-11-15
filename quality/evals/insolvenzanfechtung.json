@@ -284,10 +284,11 @@
       "Direkte Rückzahlung innerhalb der Jahresfrist ohne zusätzliche Krisen- oder Kenntnisprüfung eingeordnet.",
       "Abtretung innerhalb und außerhalb der Jahresfrist nach IX ZR 32/12 getrennt.",
       "Wirtschaftliche Zurechnung nach IX ZR 173/23 an konkrete besondere Umstände gebunden.",
-      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
+      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen.",
+      "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "c4455a9d93f807b190ae3d7ea00ad10e0217853159f08dc01e9703b5b39ed71c"
+    "sha256": "f8de941ee04191e48becf5aec97da7fc8ddd7cb4e530a07823da23f05bffaeb4"
   },
   "focus_review": {
     "verdict": "revised",
@@ -295,14 +296,15 @@
     "changes": [
       "Ratenplan und neue Gegenleistung getrennt.",
       "Drittzahlung und eigene Verpflichtung rekonstruiert.",
-      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert."
+      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert.",
+      "15.11.2026: Hauptskill um geprüfte Auswahl der zehn Einzelwerkstätten ergänzt; übriger Schwerpunkt-Prompt unverändert."
     ],
     "reviewed_on": "2026-10-21",
     "method": "desk_review",
     "prompt_path": "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md",
     "skill_path": "insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md",
     "prompt_sha256": "88684838a7bbf0119f4f903f2c059f91b19b01d5bbdb8ae0bb9707a17f78dc38",
-    "skill_sha256": "9c0a0d3a364e11fffac35e6e3054505594f0411de6b81c9e7a9850d9c6ecb5b7"
+    "skill_sha256": "0a598a338aea95af258ccfb05373836639e91623a1200f4bfcbe93d28938bdb5"
   },
   "prompt_editorial_review": {
     "date": "2026-10-22",

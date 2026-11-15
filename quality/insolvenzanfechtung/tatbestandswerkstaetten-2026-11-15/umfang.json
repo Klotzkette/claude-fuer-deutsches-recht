@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "version": "445.36.2",
+  "checked_on": "2026-11-15",
+  "font": "Times New Roman",
+  "font_size": 11,
+  "layout": "A4; 17 pt Zeilenabstand; 27.5 mm Seitenränder; laufender Satz ohne künstliche Seitenumbrüche",
+  "modules": [
+    {
+      "section": 130,
+      "title": "Werkstattprompt: Kongruente Deckung nach § 130 InsO",
+      "source": "insolvenzanfechtung/werkstattprompts/130-kongruente-deckung.md",
+      "source_sha256": "4bc539e67f82ef8c7f552935232ddff83eb23f838ab937c092d7ef8a5cffa043",
+      "words": 6220,
+      "utf8_bytes": 53079,
+      "pages": 17,
+      "pdf": "130-kongruente-deckung.pdf",
+      "pdf_sha256": "6471b634b034b726da8d37a85d549aacb5a0a3f108b717ad84f093e8a11196f9",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 131,
+      "title": "Werkstattprompt: Inkongruente Deckung nach § 131 InsO",
+      "source": "insolvenzanfechtung/werkstattprompts/131-inkongruente-deckung.md",
+      "source_sha256": "6b04459339f1ad349fec0e504f6d2680ae635f74e68aa43df5e0c470f31b2470",
+      "words": 6217,
+      "utf8_bytes": 52147,
+      "pages": 17,
+      "pdf": "131-inkongruente-deckung.pdf",
+      "pdf_sha256": "4d03a0012e64bd896bf3c438d1540f75de98344c4534aeb1ec66f9eea6f155fb",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 132,
+      "title": "Werkstattprompt: Unmittelbar nachteilige Rechtshandlungen nach § 132 InsO",
+      "source": "insolvenzanfechtung/werkstattprompts/132-unmittelbare-benachteiligung.md",
+      "source_sha256": "e5b68c197455ccc2b8d664491de5d959c577b1af8a8a259dfa22ac58366a3bd0",
+      "words": 6242,
+      "utf8_bytes": 53513,
+      "pages": 18,
+      "pdf": "132-unmittelbare-benachteiligung.pdf",
+      "pdf_sha256": "9aa83587264faa765c4ccfcf1ab473decaa8c6ff2309fb96a0296c36e30df0e6",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 133,
+      "title": "Werkstattprompt: Vorsätzliche Benachteiligung nach § 133 InsO",
+      "source": "insolvenzanfechtung/werkstattprompts/133-vorsatzanfechtung.md",
+      "source_sha256": "7d5ae5671c4dcec882683edbff29b0f3f21a93430113c67558a995f135cdb67d",
+      "words": 6309,
+      "utf8_bytes": 54201,
+      "pages": 18,
+      "pdf": "133-vorsatzanfechtung.pdf",
+      "pdf_sha256": "42ccb6ba57b0ac098ec53a6732f086a71c2083f2fdc5486e98dd957e46586085",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 134,
+      "title": "Unentgeltliche Leistungen nach § 134 InsO prüfen und bearbeiten",
+      "source": "insolvenzanfechtung/werkstattprompts/134-unentgeltliche-leistung.md",
+      "source_sha256": "98561b710bacfece7cc0b7eaaed6c3bd33a51cffd79a2e69469995de2476513f",
+      "words": 6307,
+      "utf8_bytes": 53084,
+      "pages": 18,
+      "pdf": "134-unentgeltliche-leistung.pdf",
+      "pdf_sha256": "0d9471733732277742a9cec5e02ca5fded6e98e0f808433c6e9bdf95d4da9b46",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 135,
+      "title": "Gesellschafterfinanzierung nach § 135 InsO prüfen und bearbeiten",
+      "source": "insolvenzanfechtung/werkstattprompts/135-gesellschafterdarlehen.md",
+      "source_sha256": "4a90f5e2e0518bbbc78949a22f7269168ae8d53dd30f54c0ca8f9cd461bb79a5",
+      "words": 6022,
+      "utf8_bytes": 51959,
+      "pages": 18,
+      "pdf": "135-gesellschafterdarlehen.pdf",
+      "pdf_sha256": "19b7a296fe917642678b2be5eaa1c0f422ff600486291ff3b1d58f404d279bf4",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 136,
+      "title": "Stille Beteiligungen nach § 136 InsO prüfen und bearbeiten",
+      "source": "insolvenzanfechtung/werkstattprompts/136-stille-gesellschaft.md",
+      "source_sha256": "786c642b278069cb835a3029c20beb6e92a1c96b7fad4b71ef575552f0760701",
+      "words": 6254,
+      "utf8_bytes": 52374,
+      "pages": 18,
+      "pdf": "136-stille-gesellschaft.pdf",
+      "pdf_sha256": "d242fc0c3feb7cc29a009a20b065e6651b56f896a58b71253ab80a659c634ac6",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 137,
+      "title": "Wechsel- und Scheckzahlungen: Schutz des Empfängers und Rückgriff nach § 137 InsO",
+      "source": "insolvenzanfechtung/werkstattprompts/137-wechsel-und-scheckzahlungen.md",
+      "source_sha256": "f643a37c2fd1e7cc32a7597967ed1494e7fbbde4c1b479eabf252a2fe4e3d92d",
+      "words": 6618,
+      "utf8_bytes": 54583,
+      "pages": 18,
+      "pdf": "137-wechsel-und-scheckzahlungen.pdf",
+      "pdf_sha256": "4e4e6aeea9929733b9db9804dead775824a3fbedecc264cc3a0d0818db399b5d",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 138,
+      "title": "Nahestehende Personen: Beziehungen, Wissensvermutungen und Gegenbeweis nach § 138 InsO",
+      "source": "insolvenzanfechtung/werkstattprompts/138-nahestehende-personen.md",
+      "source_sha256": "f4584e0ec9e69e65a5b397f29c7caee5dedb3df2be2cb42f3e804aea34dedada",
+      "words": 6766,
+      "utf8_bytes": 56291,
+      "pages": 19,
+      "pdf": "138-nahestehende-personen.pdf",
+      "pdf_sha256": "3ddb680186f536c17d47832b04e16d2af878342bd52c4fb3fac96b14fc25ae45",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "section": 139,
+      "title": "Anfechtungszeiträume und mehrere Insolvenzanträge nach § 139 InsO",
+      "source": "insolvenzanfechtung/werkstattprompts/139-fristen-und-antragsauswahl.md",
+      "source_sha256": "4657a97adfac485694f645d6d58c8fe131724ad449a85a4b679cca0a39cb18b2",
+      "words": 6524,
+      "utf8_bytes": 53202,
+      "pages": 18,
+      "pdf": "139-fristen-und-antragsauswahl.pdf",
+      "pdf_sha256": "bcad31fee9a3d9b9998b57dfa36307d3c6aced7050d1cb2825b0a6887f22d6b0",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    }
+  ],
+  "module_count": 10,
+  "pages": 179,
+  "handbook_sha256": "5dede18b4fcfd6bca50e43663beb09943a022a79e8ee89d554426ac5b2ec2143"
+}
