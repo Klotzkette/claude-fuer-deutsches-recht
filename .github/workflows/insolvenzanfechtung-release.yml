@@ -113,8 +113,9 @@ jobs:
             python3 scripts/build-insolvenzanfechtung-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --case-assets "$RUNNER_TEMP/anfechtungsakten" "${candidate[@]}"
             python3 scripts/test-insolvenzanfechtung.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
           else
-            python3 scripts/build-skill-quality-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
-            python3 scripts/build-skill-quality-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --verify
+            # Fachlich fester Komponenten-Prüfumfang; unabhängig von späteren Qualitätsrunden.
+            python3 scripts/build-skill-quality-release.py --scope scripts/data/insolvenzanfechtung-pruefumfang.json --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
+            python3 scripts/build-skill-quality-release.py --scope scripts/data/insolvenzanfechtung-pruefumfang.json --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --verify
           fi
       - name: Geprüfte Pakete sichern
         if: always()

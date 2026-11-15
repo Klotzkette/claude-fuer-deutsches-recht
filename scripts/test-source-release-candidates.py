@@ -5,6 +5,7 @@ import copy
 import importlib.util
 import json
 import io
+import re
 from contextlib import redirect_stdout
 from pathlib import Path
 import tempfile
@@ -57,6 +58,16 @@ class SourceReleaseCandidates(unittest.TestCase):
             self.assertIn('if [ "$GITHUB_EVENT_NAME" = pull_request ]; then candidate=(--candidate); fi', text)
             self.assertIn('"${candidate[@]}"', text)
             self.assertNotIn("--write-proof", text)
+
+    def test_anfechtung_workflow_build_and_verify_use_the_fixed_component_scope(self):
+        text = (ROOT/'.github/workflows/insolvenzanfechtung-release.yml').read_text(encoding='utf-8')
+        commands = re.findall(r'^\s*python3 scripts/build-skill-quality-release\.py[^\n]*', text, re.M)
+        self.assertEqual(len(commands), 2)
+        for command in commands:
+            self.assertIn('--scope scripts/data/insolvenzanfechtung-pruefumfang.json', command)
+            self.assertNotIn('skill-quality-release-scope.json', command)
+        self.assertNotIn('--verify', commands[0])
+        self.assertIn('--verify', commands[1])
 
 
 class InsolvenzanfechtungCurrentParent(unittest.TestCase):

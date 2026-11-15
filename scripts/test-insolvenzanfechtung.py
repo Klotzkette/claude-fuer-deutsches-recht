@@ -2,6 +2,7 @@
 """Prüft Quellenpaket, eigenständige Prompts und bytegenaue Release-Zuordnung."""
 from __future__ import annotations
 import argparse
+import copy
 from datetime import date, datetime
 from email import policy
 from email.parser import BytesParser
@@ -12,6 +13,7 @@ import json
 from pathlib import Path
 import re
 import unittest
+from unittest.mock import patch
 from urllib.parse import unquote
 import zipfile
 from docx import Document
@@ -25,6 +27,9 @@ ROOT = Path(__file__).resolve().parents[1]
 NAME = 'insolvenzanfechtung'
 PARENT = 'fachanwalt-insolvenz-sanierungsrecht'
 DIST = None
+COMPONENT_SCOPE = 'scripts/data/insolvenzanfechtung-pruefumfang.json'
+COMPONENT_VERSION = '445.36.2'
+COMPONENT_TAG = 'qualitaetsrunde-v445.36.2'
 VEEDELWENDE_CASES = (
     'insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln',
     'insolvenzanfechtung-veedelwende-zession-koeln',
@@ -81,6 +86,30 @@ def veedelwende_cases():
 
 def case_items(case):
     return {item['name']: item for item in case['files']}
+
+
+def validate_component_scope(scope, root=ROOT):
+    """Fester Komponentenstand; spätere Qualitätsrunden sind kein Identitätsbeleg."""
+    if scope.get('version') != COMPONENT_VERSION or scope.get('tag') != COMPONENT_TAG:
+        raise ValueError('Unbekannter Insolvenzanfechtungs-Komponentenstand')
+    plugins = scope.get('plugins')
+    if not isinstance(plugins, list) or len(plugins) != 1 or plugins[0].get('name') != NAME:
+        raise ValueError('Prüfumfang muss ausschließlich Insolvenzanfechtung enthalten')
+    expected_prompts = {f'{NAME}-{kind}.{ext}' for kind in ('werkstatt', 'schnellstart', 'hauptproblem')
+                        for ext in ('md', 'txt')}
+    if plugins[0].get('variants') != ['native', 'portable'] or set(plugins[0].get('prompts', [])) != expected_prompts:
+        raise ValueError('Native und portable Variante sowie sechs Promptdateien erforderlich')
+    # Die etablierte Scopeprüfung kontrolliert exakte Pins, Marketplace-Version,
+    # vollständige Prompts und das verpflichtende, hashgebundene Werkstattpaar.
+    entries = module('build-skill-quality-release.py').validate_scope(scope, root)
+    evidence = json.loads((root/'quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/umfang.json').read_text())
+    if evidence.get('version') != COMPONENT_VERSION or evidence.get('module_count') != 10:
+        raise ValueError('Version oder Werkstattumfang passt nicht zum erhaltenen Nachweis')
+    release_note = (root/'docs/releases'/f'{COMPONENT_TAG}.md').read_text()
+    expected_url = f'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{COMPONENT_TAG}/{NAME}.zip'
+    if expected_url not in release_note:
+        raise ValueError('Komponentenidentität fehlt in der zugehörigen Release-Dokumentation')
+    return entries[NAME]['version']
 
 
 class AnfechtungTest(unittest.TestCase):
@@ -252,13 +281,47 @@ class AnfechtungTest(unittest.TestCase):
             version = entries[0]['version']
             if name == NAME:
                 if version != '1.1.0':
-                    scope = json.loads((ROOT/'scripts/data/skill-quality-release-scope.json').read_text())
-                    self.assertIn(NAME, {p['name'] for p in scope['plugins']})
-                    self.assertEqual(version, scope['version'])
+                    scope = json.loads((ROOT/COMPONENT_SCOPE).read_text())
+                    self.assertEqual(version, validate_component_scope(scope))
             for relative in (('plugin.json', '.claude-plugin/plugin.json', '.codex-plugin/plugin.json') if name == NAME else ('.claude-plugin/plugin.json',)):
                 manifest = json.loads((ROOT/name/relative).read_text())
                 self.assertEqual((manifest['name'], manifest['version']), (name, version))
                 self.assertEqual(manifest['description'], entries[0]['description'])
+
+    def test_component_identity_does_not_read_the_latest_quality_bundle(self):
+        latest = ROOT/'scripts/data/skill-quality-release-scope.json'
+        read_text = Path.read_text
+
+        def independent_read(path, *args, **kwargs):
+            if path.resolve() == latest.resolve():
+                raise AssertionError('Komponentenprüfung darf keinen wechselnden Latest-Scope lesen')
+            return read_text(path, *args, **kwargs)
+
+        with patch.object(Path, 'read_text', independent_read):
+            self.test_manifests_and_marketplace_agree()
+
+    def test_component_scope_rejects_wrong_identity_incomplete_assets_and_bad_hash(self):
+        valid = json.loads((ROOT/COMPONENT_SCOPE).read_text())
+        self.assertEqual(validate_component_scope(valid), COMPONENT_VERSION)
+        for change in ('version', 'tag', 'other-plugin', 'portable', 'prompt', 'missing-assets', 'bad-hash'):
+            scope = copy.deepcopy(valid)
+            if change == 'version':
+                scope['version'] = '445.36.5'
+                scope['tag'] = 'qualitaetsrunde-v445.36.5'
+            elif change == 'tag':
+                scope['tag'] = 'fremd-v445.36.2'
+            elif change == 'other-plugin':
+                scope['plugins'].append({'name': 'bautraegervertrag-pruefer'})
+            elif change == 'portable':
+                scope['plugins'][0]['variants'] = ['native']
+            elif change == 'prompt':
+                scope['plugins'][0]['prompts'].pop()
+            elif change == 'missing-assets':
+                scope.pop('additional_assets')
+            else:
+                scope['additional_assets'][0]['sha256'] = '0' * 64
+            with self.subTest(change=change), self.assertRaises(ValueError):
+                validate_component_scope(scope)
 
     def test_release_assets_and_packages_are_byte_exact(self):
         if DIST is None:
