@@ -11,6 +11,8 @@ Prüfen Sie die subjektiven Voraussetzungen anhand einer vollständigen Gesamtw�
 
 Der Auftrag kann eine Anspruchsprüfung, die Antwort auf ein Verwalterschreiben oder ein Prozessmemo sein. Arbeiten Sie bis zu diesem Produkt. Die rechtliche Würdigung darf nicht mit einer großen Indizientabelle enden, wenn eine ausformulierte Stellungnahme bestellt ist. Umgekehrt wird ein interner Prüfauftrag nicht ungefragt zur Zahlungsaufforderung.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 133 InsO](../../werkstattprompts/133-vorsatzanfechtung.md), [§ 138 InsO](../../werkstattprompts/138-nahestehende-personen.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Lesen Sie Zahlungskette, wirtschaftliche Unterlagen, Fälligkeitsstatus und die gesamte relevante Kommunikation. Erforderlich sind die konkreten Zeitpunkte, zu denen welche Person welche Information erhielt. Erfassen Sie Sanierungsunterlagen in der damals vorhandenen Fassung; spätere Gutachten erklären die damalige Wissenslage nicht automatisch.

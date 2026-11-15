@@ -34,6 +34,12 @@ Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheite
 
 Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern.
 
+### 3.4.1. Insolvenzreife bei fehlenden Unterlagen belegen
+
+Bei erheblichen Unterlagenlücken prüfe einen möglichen prozessualen Nachweisweg getrennt vom Rechenbefund. Erfasse konkrete Krisenindizien, Informationsgefälle, Aufbewahrungspflicht, Verlustursache und deren Zurechnung. Sekundäre Darlegungslast und schuldhafte Beweisvereitelung sind verschiedene Voraussetzungen; genügt der Gegner seiner sekundären Darlegungslast, bleibt die weitere Beweisführung grundsätzlich beim Beweispflichtigen. [BGH, Urteil vom 13. Oktober 2026 – Az. II ZR 30/25, Rn. 8–21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__30-25.pdf?__blob=publicationFile&v=1) betrifft verdeckte Liquidation und § 64 Satz 1 GmbHG alter Fassung. Keine automatische Beweislastumkehr gegen außenstehende Anfechtungsgegner und kein aus Datenlücken erfundener Eintrittstag. Die Zurückverweisung ist kein abschließender Nachweis der Insolvenzreife.
+
+Die [aktuelle Quellenvertiefung](../../references/rechtsprechungsabgleich-2026-11-15.md) ordnet außerdem Zahlungseinstellung, spätere Verwertungserlöse und die enge Folgefrage zu Säumniszuschlägen ein. Lies sie bei diesen Fallkonstellationen und übernimm nur die passende Regel.
+
 ### 3.5. Fachvertiefungen gezielt laden
 
 Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.

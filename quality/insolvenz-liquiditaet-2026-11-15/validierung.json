@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-15",
+  "timezone": "UTC",
+  "checks": [
+    {
+      "command": "git diff --check",
+      "result": "passed"
+    },
+    {
+      "command": "../tmp/zu-update-1.1/venv/bin/python scripts/test-liquiditaetsplanung-excel.py",
+      "result": "passed",
+      "native_scenarios": 8
+    },
+    {
+      "command": "node scripts/test-liquiditaetsplanung-rechenlogik.mjs",
+      "result": "passed",
+      "behavior_tests": 11
+    },
+    {
+      "command": "node scripts/test-insolvenzreife-rechenfaelle.mjs",
+      "result": "passed",
+      "tests": 4
+    },
+    {
+      "check": "17 gzip archives independently decompressed; raw sha256 and length compared with downloaded original manifest",
+      "result": "passed"
+    },
+    {
+      "check": "Skill counts unchanged",
+      "liquiditaetsplanung": 12,
+      "zahlungsunfaehigkeits-und-ueberschuldungspruefer": 11
+    },
+    {
+      "check": "Mini prompt source sizes unchanged",
+      "liquiditaetsplanung": 7391,
+      "zahlungsunfaehigkeits-und-ueberschuldungspruefer": 7485
+    }
+  ],
+  "limitations": [
+    "No new live-model benchmark",
+    "No change to calculation engine or fixture cases",
+    "Repository-wide validators and publication belong to parent integration"
+  ]
+}

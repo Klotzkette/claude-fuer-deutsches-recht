@@ -11,6 +11,8 @@ Ordnen Sie die Finanzierung nach ihrer rechtlichen und wirtschaftlichen Funktion
 
 BGH, Urteil vom 10.07.2025, Az. IX ZR 189/24, unterscheidet diese Entstehungsgründe. Der Anker trägt eine differenzierte Untersuchung von Regress und stehen gelassenen Forderungen, keine pauschale Umdeutung jeder kurzfristig offenen Ausgabe. Die geprüften Randnummern und Grenzen stehen in der Rechtsquellenreferenz.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 135 InsO](../../werkstattprompts/135-gesellschafterdarlehen.md), [§ 136 InsO](../../werkstattprompts/136-stille-gesellschaft.md), [§ 138 InsO](../../werkstattprompts/138-nahestehende-personen.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Lesen Sie aktuelle und historische Gesellschafterlisten, Satzung, Beteiligungskette, Geschäftsführerbestellungen, Darlehens- und Sicherungsverträge, Gesellschafterbeschlüsse, Kontoauszüge und Verrechnungskonten. Beteiligung und Geschäftsführungsfunktion werden für den maßgeblichen Zeitraum erhoben, nicht nur nach der heutigen Registerlage.

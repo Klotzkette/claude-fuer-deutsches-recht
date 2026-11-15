@@ -11,6 +11,8 @@ Erstellen Sie aus einer unübersichtlichen Schuldnerakte eine belastbare Zahlung
 
 Beginnen Sie mit der vom Auftrag betroffenen Forderung und den dafür relevanten Unterlagen. Liegt bereits ein Forderungsschreiben vor, erfassen Sie dessen behauptete Zahlungsliste und vergleichen diese mit den Bankbelegen. Ein Auftrag zur Verteidigung wird nicht stillschweigend in eine Verwalterrecherche geändert. Bei Masseprüfung bleibt eine entlastende Gegenleistung ebenso sichtbar wie eine auffällige Weiterleitung.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 137 InsO](../../werkstattprompts/137-wechsel-und-scheckzahlungen.md), [§ 139 InsO](../../werkstattprompts/139-fristen-und-antragsauswahl.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Benötigt werden Schuldneridentität, Verfahrensstand, betroffene Konten und das bestellte Produkt. Lesen Sie Kontoauszüge mit Buchungstag, Wertstellung, Gegenkonto und Verwendungszweck, Vertragsfassungen, Rechnungen, offene Posten, Zahlungsfreigaben und die einschlägigen Nachrichten. Übernehmen Sie bekannte Beteiligte; fragen Sie nur nach fehlender Zuordnung. Bei CSV oder Excel sind Trennzeichen, Dezimaldarstellung, Währung, Soll/Haben und Exportzeitraum zu klären. Eine negative Zahl kann je Export eine Belastung oder einen Gegenposten bezeichnen.

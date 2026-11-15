@@ -11,7 +11,8 @@ from release_routing import check_asset_limit
 
 
 SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt", "release-bestand.json",
-                  "ki-native-kanzlei-skills-handbuch.pdf"}
+                  "ki-native-kanzlei-skills-handbuch.pdf",
+                  "insolvenzanfechtung-tatbestandswerkstaetten.pdf"}
 ASSET_SUFFIXES = {".zip", ".md", ".docx"}
 PROMPT_TEXT_SUFFIXES = ("-werkstatt.txt", "-schnellstart.txt", "-hauptproblem.txt")
 # GitHub verlangt pro Release-Asset strikt weniger als 2 GiB.

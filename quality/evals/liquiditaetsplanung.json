@@ -256,9 +256,10 @@
       "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
       "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
-      "Redaktion 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest."
     ],
-    "sha256": "c16797df9610f9ded11c2c9442fb43684aad6b9743ffc6c71bdf783df8147704"
+    "sha256": "d58a44baf97f2e0e09959af2f253766aec0b3805b5aa009ae6d0dea5ba54c3fd"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",

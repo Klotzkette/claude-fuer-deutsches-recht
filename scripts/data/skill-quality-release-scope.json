@@ -1,60 +1,57 @@
 {
   "schema_version": 1,
-  "version": "445.36.1",
-  "tag": "qualitaetsrunde-v445.36.1",
-  "required_file_reviews": {
-    "anwaltschaft-generell": 2,
-    "corporate-contract-law": 20,
-    "gesellschafterstreit": 3,
-    "wirtschaftsanwalt": 6
-  },
+  "version": "445.36.2",
+  "tag": "qualitaetsrunde-v445.36.2",
   "plugins": [
     {
-      "name": "anwaltschaft-generell",
+      "name": "insolvenzanfechtung",
       "variants": [
-        "native"
+        "native",
+        "portable"
       ],
       "prompts": [
-        "anwaltschaft-generell-werkstatt.md",
-        "anwaltschaft-generell-schnellstart.md",
-        "anwaltschaft-generell-hauptproblem.md"
+        "insolvenzanfechtung-werkstatt.md",
+        "insolvenzanfechtung-werkstatt.txt",
+        "insolvenzanfechtung-schnellstart.md",
+        "insolvenzanfechtung-schnellstart.txt",
+        "insolvenzanfechtung-hauptproblem.md",
+        "insolvenzanfechtung-hauptproblem.txt"
       ]
     },
     {
-      "name": "corporate-contract-law",
+      "name": "liquiditaetsplanung",
       "variants": [
         "native"
       ],
       "prompts": [
-        "corporate-contract-law-werkstatt.md",
-        "corporate-contract-law-schnellstart.md",
-        "corporate-contract-law-hauptproblem.md"
+        "liquiditaetsplanung-werkstatt.md",
+        "liquiditaetsplanung-schnellstart.md"
       ]
     },
     {
-      "name": "gesellschafterstreit",
+      "name": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
       "variants": [
-        "native"
+        "native",
+        "portable"
       ],
       "prompts": [
-        "gesellschafterstreit-werkstatt.md",
-        "gesellschafterstreit-werkstatt.txt",
-        "gesellschafterstreit-schnellstart.md",
-        "gesellschafterstreit-schnellstart.txt",
-        "gesellschafterstreit-hauptproblem.md",
-        "gesellschafterstreit-hauptproblem.txt"
+        "zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md",
+        "zahlungsunfaehigkeits-und-ueberschuldungspruefer-schnellstart.md"
       ]
+    }
+  ],
+  "additional_assets": [
+    {
+      "name": "insolvenzanfechtung-tatbestandswerkstaetten.pdf",
+      "source": "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.pdf",
+      "evidence": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/umfang.json",
+      "sha256": "5dede18b4fcfd6bca50e43663beb09943a022a79e8ee89d554426ac5b2ec2143"
     },
     {
-      "name": "wirtschaftsanwalt",
-      "variants": [
-        "native"
-      ],
-      "prompts": [
-        "wirtschaftsanwalt-werkstatt.md",
-        "wirtschaftsanwalt-schnellstart.md",
-        "wirtschaftsanwalt-hauptproblem.md"
-      ]
+      "name": "insolvenzanfechtung-tatbestandswerkstaetten.zip",
+      "source": "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.zip",
+      "evidence": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/umfang.json",
+      "sha256": "5c36c5b81e80040a62a1f2844bbe3d2c8acba4f009e1947e1f153357d6d199b7"
     }
   ]
 }

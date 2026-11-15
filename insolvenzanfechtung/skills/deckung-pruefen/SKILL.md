@@ -11,6 +11,8 @@ Prüfen Sie, ob eine Sicherheit oder Befriedigung so verlangt werden konnte, wie
 
 Dieser Skill dient sowohl einem Verwalter, der Zahlungen beansprucht, als auch einem Unternehmen, das eine Rückforderung erhalten hat. Er ordnet die jeweiligen Zeit- und Kenntnisvoraussetzungen erst nach der rechtlichen Einordnung zu. Die Inkongruenz darf nicht als Etikett verwendet werden, um fehlende Feststellungen in einer anderen Anspruchsgrundlage zu überspringen.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 130 InsO](../../werkstattprompts/130-kongruente-deckung.md), [§ 131 InsO](../../werkstattprompts/131-inkongruente-deckung.md), [§ 132 InsO](../../werkstattprompts/132-unmittelbare-benachteiligung.md), [§ 137 InsO](../../werkstattprompts/137-wechsel-und-scheckzahlungen.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Benötigt werden Zahlungsliste, maßgeblicher Insolvenzantrag, Vertrag einschließlich Nachträgen, Fälligkeitsnachweise und Erfüllungsvereinbarungen. Lesen Sie bei Vollstreckungsnähe Titel, Pfändungsunterlagen, Zahlungsaufforderungen und die tatsächliche Abfolge. Bei Sicherheiten sind ursprüngliche Verpflichtung zur Besicherung und spätere Bestellung zu unterscheiden.

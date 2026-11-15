@@ -4,6 +4,8 @@ Prüfstand: **28.09.2026**. Die elf Entscheidungen und der ergänzende Berichtig
 
 Die [Prüfregeln](../insolvenzpruefung.md) setzen die Nachweise in Arbeitsentscheidungen um. Die folgende Karte ist ein Rechercheeinstieg und kein Beleg dafür, dass jeder konkrete Fall abschließend geprüft wurde. Normfassung, Tatsachen- und Verfahrenskontext vor Verwendung kontrollieren.
 
+**Ergänzungsprüfung 15.11.2026:** Die [aktuellen Anwendungsregeln](../rechtsprechungsabgleich-2026-11-15.md) ergänzen die historischen Prüfstände insbesondere um [II ZR 30/25 vom 13.10.2026](BGH_II_ZR_30-25_vom_2026-10-13.pdf) und [IX ZR 150/25 vom 05.11.2026](BGH_IX_ZR_150-25_vom_2026-11-05.pdf). Beide amtlichen Volltexte wurden vollständig gelesen und unverändert abgelegt. Bei § 130 InsO zusätzlich IX ZR 65/25 vom 24.09.2026 mit seiner Abgrenzung zu § 133 beachten. Die Ergänzung behauptet keine erneute Vollprüfung sämtlicher älterer Quellen.
+
 ## 1.1. Entscheidungen und Reichweite
 
 | Entscheidung | Genaue Fundstelle | Aussage und Grenze | Volltexte |

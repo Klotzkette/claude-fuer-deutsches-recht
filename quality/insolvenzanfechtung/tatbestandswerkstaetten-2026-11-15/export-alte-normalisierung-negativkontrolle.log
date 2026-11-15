@@ -1,0 +1,15 @@
+test_changed_pdf_amount_punctuation_with_refreshed_hash (export_regression.ExportContractTests.test_changed_pdf_amount_punctuation_with_refreshed_hash) ... FAIL
+
+======================================================================
+FAIL: test_changed_pdf_amount_punctuation_with_refreshed_hash (export_regression.ExportContractTests.test_changed_pdf_amount_punctuation_with_refreshed_hash)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/sammlung/scripts/test-anfechtung-werkstattprompts.py", line 191, in test_changed_pdf_amount_punctuation_with_refreshed_hash
+    with self.assertRaisesRegex(ValueError, 'PDF enthält nicht'):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ValueError not raised
+
+----------------------------------------------------------------------
+Ran 1 test in 1.479s
+
+FAILED (failures=1)

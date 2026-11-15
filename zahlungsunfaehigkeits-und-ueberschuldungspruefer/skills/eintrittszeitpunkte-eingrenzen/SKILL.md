@@ -23,6 +23,8 @@ Verwende die Einzelrechnungen, Erklärungen, Prognoseversionen, Bewertungsunterl
 
 6. Vermeide einen exakten „Eintrittstag“ allein aus einer groben Monatsreihe oder einem im Antrag genannten Datum. Bezeichne das Datum als frühesten im untersuchten Material belegten Stichtag, solange ein früherer Eintritt nicht ausgeschlossen ist. Trenne das Ende eines nachgewiesenen zahlungsfähigen Abschnitts vom ersten bloß datenarmen Tag.
 7. Spätere Verwertungserlöse, Zeugenauskünfte und nachträgliche Kontoauszüge sind neue Erkenntnisquellen. Prüfe, welchen früheren Zustand sie tatsächlich belegen. Ein späterer Verkaufsdruck darf nicht ohne sachlichen Grund in einen früheren Überschuldungsstatus zurückgerechnet werden. Gleiche bei Nachlieferungen die betroffenen Zeitabschnitte ab und erhalte nachvollziehbare Vorfassungen.
+Bei Säumniszuschlägen zur Ausgleichsabgabe nach § 160 Abs. 4 SGB IX auf entsprechenden Auftrag die Zuschlagsmonate dem belegten Eintritt von Zahlungsunfähigkeit oder Überschuldung zuordnen. Eine spätere Eröffnung halbiert nicht sämtliche davor angefallenen Zuschläge. Bei einem Eintrittskorridor nur die von dessen Aufklärung betroffenen Teilbeträge als Varianten rechnen. [BGH, Urteil vom 5. November 2026 – Az. IX ZR 150/25, Rn. 15–29](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_150-25.pdf?__blob=publicationFile&v=1) betrifft diese Forderungsfolge und stellt kein konkretes Eintrittsdatum fest. Hauptforderung und andere Abgabenarten nicht pauschal kürzen.
+
 ## 1.4. Quellenpflicht
 
 Prüfe §§ 15a, 15b, 17, 19 und 27 InsO. Die Entscheidungen tragen taggenauen Nachweis, damalige Prognose und Grenzen der Rückübertragung späterer Verwertungserlöse.

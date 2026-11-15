@@ -11,6 +11,8 @@ Prüfen Sie einen konkreten Austausch und seine zeitliche Verbindung. Das Wort B
 
 Bauen Sie einen Leistungsabgleich zwischen dem angegriffenen Abfluss und dem tatsächlich erhaltenen Wert. Der Anspruchsgegner benötigt Belege für Lieferung, Leistung und Zuordnung. Der Verwalter muss mögliche Gegenleistungen in die Bewertung einbeziehen und darf sie nicht ausblenden, weil die wirtschaftliche Krise feststeht.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 130 InsO](../../werkstattprompts/130-kongruente-deckung.md), [§ 133 InsO](../../werkstattprompts/133-vorsatzanfechtung.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Lesen Sie Bestellung, Auftragsbestätigung, Rechnung, Zahlung, Lieferschein, Abnahme und Leistungsnachweise. Erheben Sie die konkreten Austauschzeiten und die in der Branche übliche Abwicklung. Bei Sammelzahlung oder Sammellieferung ist die Zuordnung aufzuteilen. Bei Arbeitsentgelt lesen Sie Arbeitszeitraum, Fälligkeit und Zahlung; die Sonderregelung darf nicht als allgemeine Grenze auf Lieferanten übertragen werden.

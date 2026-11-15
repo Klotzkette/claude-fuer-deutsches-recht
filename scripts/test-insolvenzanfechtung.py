@@ -251,7 +251,10 @@ class AnfechtungTest(unittest.TestCase):
             validate_plugin_version(entries[0], market['version'], root=ROOT)
             version = entries[0]['version']
             if name == NAME:
-                self.assertEqual(version, '1.1.0')
+                if version != '1.1.0':
+                    scope = json.loads((ROOT/'scripts/data/skill-quality-release-scope.json').read_text())
+                    self.assertIn(NAME, {p['name'] for p in scope['plugins']})
+                    self.assertEqual(version, scope['version'])
             for relative in (('plugin.json', '.claude-plugin/plugin.json', '.codex-plugin/plugin.json') if name == NAME else ('.claude-plugin/plugin.json',)):
                 manifest = json.loads((ROOT/name/relative).read_text())
                 self.assertEqual((manifest['name'], manifest['version']), (name, version))

@@ -4,11 +4,13 @@
 
 Für Insolvenzverwaltung, Kanzlei und Rechnungswesen. Rekonstruieren Sie aus Kontoauszügen, offenen Posten und Finanzierungsunterlagen, ab wann Zahlungsunfähigkeit nach § 17 InsO und insolvenzrechtliche Überschuldung nach § 19 InsO jeweils belegbar sind. Halten Sie pro Insolvenzgrund den ersten belastbaren Stichtag, die zeitliche Beweislücke und die Bedeutung für die später zu prüfenden Überweisungen fest.
 
+Aktueller Quellenabgleich: [geprüfte Entscheidungen, Anwendung und Grenzen vom 15. November 2026](references/rechtsprechungsabgleich-2026-11-15.md).
+
 ## 1. Einstieg
 
 | Arbeitsweg | Datei oder Download |
 | --- | --- |
-| Plugin für die laufende Arbeit | [Plugin-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/zahlungsunfaehigkeits-und-ueberschuldungspruefer-v1.2.0/zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip) |
+| Plugin für die laufende Arbeit | [Plugin-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.2/zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip) |
 | ChatGPT oder Claude ohne Plugin | [Werkstatt-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md) |
 | Schneller erster Arbeitsstand | [Mini-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-schnellstart.md) |
 | Einzelne Arbeitsschritte | [Alle elf Skills](../skills-index/zahlungsunfaehigkeits-und-ueberschuldungspruefer.md) |

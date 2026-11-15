@@ -91,6 +91,40 @@ class QualityReleaseTests(unittest.TestCase):
         self.assertTrue(is_release_asset(self.write("ki-native-kanzlei-skills-handbuch.pdf", b"PDF")))
         self.assertFalse(is_release_asset(self.write("interne-testakte.pdf", b"PDF")))
 
+    def test_anfechtung_445_36_2_scope_requires_both_workshop_assets(self):
+        # Nur Scope-Fixture: echte PDF-/ZIP-Inhalte prüft der Exportvertrag separat.
+        name, version = "insolvenzanfechtung", "445.36.2"
+        tag = "qualitaetsrunde-v445.36.2"
+        manifest = {"name": name, "version": version, "description": "Technische Scope-Fixture."}
+        for relative in B.MANIFESTS:
+            self.write(f"{name}/{relative}", json.dumps(manifest))
+        self.write(".claude-plugin/marketplace.json", json.dumps({
+            "version": self.version,
+            "plugins": [{"name": name, "version": version, "source": "./" + name}],
+        }))
+        self.write("scripts/scoped-release-assets.json", json.dumps({
+            "schema_version": 1, "assets": {name + ".zip": tag},
+        }))
+        scope = {"schema_version": 1, "version": version, "tag": tag,
+                 "plugins": [{"name": name, "variants": ["native"], "prompts": []}]}
+        self.write(B.ANFECHTUNG_EVIDENCE, "{}\n")
+        extras = []
+        for asset in sorted(B.ANFECHTUNG_ASSETS):
+            source = "docs/werkstattprompts/insolvenzanfechtung/" + asset
+            path = self.write(source, b"Scope-Testdaten; kein echter Export.\n")
+            extras.append({"name": asset, "source": source,
+                           "evidence": B.ANFECHTUNG_EVIDENCE, "sha256": B.sha256_file(path)})
+        complete = {**scope, "additional_assets": extras}
+        self.assertIn(name, B.validate_scope(complete, self.root))
+        for omitted in (None, [], extras[:1], extras[1:]):
+            candidate = copy.deepcopy(scope)
+            if omitted is not None:
+                candidate["additional_assets"] = omitted
+            with self.subTest(assets=omitted), self.assertRaisesRegex(
+                ValueError, "445.36.2 benötigt das vollständige geprüfte Werkstattpaar"
+            ):
+                B.validate_scope(candidate, self.root)
+
     def test_mismatched_manifest_or_route_stops_build(self):
         self.write(f"{self.source}/.codex-plugin/plugin.json", json.dumps({"name": self.name, "version": "1.0.0"}))
         with self.assertRaises(ValueError):

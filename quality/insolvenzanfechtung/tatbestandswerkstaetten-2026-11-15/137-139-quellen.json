@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-15",
+  "method": "Primärquellenlektüre und redaktionelle Fallgegenprüfung; keine Live-Modellprüfung.",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR_231-04.pdf?__blob=publicationFile&v=1",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/ix-zr-231-04.pdf.gz",
+      "original_sha256": "742f16393b17e37cabdb5dee688cbb9f487d6a0e37be5368a70b699a6b0e32fb",
+      "original_bytes": 109528,
+      "read_scope": "Rn. 20–25; anknüpfender Sachverhalt",
+      "supports": "§ 137 Abs. 1: Empfänger selbst Aussteller ohne weitere Vormänner nicht geschützt; Annahme des Papiers und Einlösung auseinanderhalten.",
+      "limits": "Kein neuer Grundsatzfall von 2026; alte Liquiditätsausführungen nicht als unmodifiziert aktuelles Komplettschema übernommen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_234-23.pdf?__blob=publicationFile&v=1",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/ix-zr-234-23.pdf.gz",
+      "original_sha256": "543bd8246114e5013c030b8e9d76b2ae5befb44fdb7f5efc3757939408b219da",
+      "original_bytes": 197041,
+      "read_scope": "Rn. 13–20",
+      "supports": "Bindung an den Eröffnungsbeschluss hinsichtlich tatsächlich tragenden Antrags; begrenzter Prüfungsgegenstand.",
+      "limits": "Kein pauschaler Beweis sämtlicher Insolvenzgründe und Zeitpunkte."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2008/IX_ZR_145-08.pdf?__blob=publicationFile&v=1",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/ix-zr-145-08.pdf.gz",
+      "original_sha256": "fe364624a5286910ba2b49bb4827a6ed7cfc0dd6d2ff3f645e58237e296c16b6",
+      "original_bytes": 83915,
+      "read_scope": "Volltext, besonders Rn. 7–11",
+      "supports": "Früherer Antrag und nach Eröffnung erklärte prozessuale Erledigung; Fortdauer der Insolvenzlage.",
+      "limits": "Antragsauswahl bei wiederhergestellter Zahlungsfähigkeit anders; Nachantragsalternative im Abgleich mit späterem BAG gesondert prüfen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-511-16/",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/bag-6-azr-511-16.html.gz",
+      "original_sha256": "350cc43fa1fde8d6fff1843c264143774e63f4e97a465d97d2eb859c3d729dba",
+      "original_bytes": 137339,
+      "read_scope": "Rn. 13–20",
+      "supports": "Tatsächlich auch auf früheren Antrag gestützte Eröffnung; Rn. 19 zur Reichweite von § 139 Abs. 2.",
+      "limits": "Keine angeblich einheitliche höchstrichterliche Aussage zur Zahlung zwischen mehreren Anträgen behauptet; BGH 2009 und BAG 2017 offen abgegrenzt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__137.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/inso-137.html.gz",
+      "original_sha256": "385a27667f19ff5706304cc39af0d3174dc21b2bf6b535d04968932001224f41",
+      "original_bytes": 4237,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Normwortlaut § 137 InsO einschließlich Tatbestandsalternativen.",
+      "limits": "Normtext ersetzt keine Subsumtion und keine Prüfung späterer Änderungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__139.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/inso-139.html.gz",
+      "original_sha256": "1daa6fe1f7be4b54e6af02cd737f4e0b2d07e65cc54f84aedcddb3cc627df041",
+      "original_bytes": 4076,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Normwortlaut § 139 InsO einschließlich Tatbestandsalternativen.",
+      "limits": "Normtext ersetzt keine Subsumtion und keine Prüfung späterer Änderungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__140.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/inso-140.html.gz",
+      "original_sha256": "d9b42f8ef7e8c81b222ee5b87f3a60e235b8e60bbfe826b4ce8d85adc9d5b7f3",
+      "original_bytes": 4418,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Normwortlaut § 140 InsO einschließlich Tatbestandsalternativen.",
+      "limits": "Normtext ersetzt keine Subsumtion und keine Prüfung späterer Änderungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__14.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/inso-14.html.gz",
+      "original_sha256": "ac92de45f8ab519512747f0ac9a4a1c5445a66b5d50fb11478d4eceb8945ca46",
+      "original_bytes": 4367,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Normwortlaut § 14 InsO einschließlich Tatbestandsalternativen.",
+      "limits": "Normtext ersetzt keine Subsumtion und keine Prüfung späterer Änderungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__27.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/inso-27.html.gz",
+      "original_sha256": "4952de1ffd0db982d0d92f7c4958a91653801a71e63849b2bad69caa7dc77f60",
+      "original_bytes": 5197,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Normwortlaut § 27 InsO einschließlich Tatbestandsalternativen.",
+      "limits": "Normtext ersetzt keine Subsumtion und keine Prüfung späterer Änderungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__88.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/inso-88.html.gz",
+      "original_sha256": "42b8a1ba0b6c40833fab501cc09431b7c3463a16dd6ae05213d279a9b5add5d7",
+      "original_bytes": 3864,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Normwortlaut § 88 InsO einschließlich Tatbestandsalternativen.",
+      "limits": "Normtext ersetzt keine Subsumtion und keine Prüfung späterer Änderungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wg/BJNR003990933.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/wg.html.gz",
+      "original_sha256": "40cc011caf20153124a14aba891702a53d3020f087eade77cb248cf67f5a3504",
+      "original_bytes": 109669,
+      "read_scope": "Art. 40, 43, 44, 47, 53 und 77",
+      "supports": "Vorlegung, Rückgriff, Protest, Fristen und eigener Wechsel.",
+      "limits": "Nur bezeichnete Artikel; keine vollständige Neubewertung des Wechselrechts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/scheckg.html.gz",
+      "original_sha256": "d93747b3be1b1be82fa41acf788181dcd39a57e6489dafdabc8a56d6f5fa9900",
+      "original_bytes": 69456,
+      "read_scope": "Art. 28, 29, 40, 41, 44 und 48",
+      "supports": "Sichtzahlung, Vorlegung, Rückgriff, Frist und Verjährungsabgrenzung.",
+      "limits": "Scheckrückgriff und insolvenzrechtliche Rückgewähr getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/eginso/art_103j.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/eginso-103j.html.gz",
+      "original_sha256": "f1764e767b5522a1ef4c25722a4264736323bbc90b4bef8466b8815acfa8ea9d",
+      "original_bytes": 4068,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Zeitliche Anwendung des Anfechtungsrechts.",
+      "limits": "Eröffnungsbezug; Zinsen und Nutzungen separat."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__195.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/bgb-195.html.gz",
+      "original_sha256": "db542b2a124f440ebcfad22129b7323809692e96cd4efd638dadfa6a23474ca1",
+      "original_bytes": 3454,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Regelmäßige Verjährung und Beginn/Grenzen.",
+      "limits": "Keine Gleichsetzung mit der Rückschaufrist nach § 139 InsO."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+      "file": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/originale-137-139/bgb-199.html.gz",
+      "original_sha256": "1fad808afadae9631d82aa6b04ceae5bdd5bfa431b4d27470bc4b982a208c349",
+      "original_bytes": 5875,
+      "read_scope": "Vollständiger Normtext",
+      "supports": "Regelmäßige Verjährung und Beginn/Grenzen.",
+      "limits": "Keine Gleichsetzung mit der Rückschaufrist nach § 139 InsO."
+    }
+  ],
+  "rejected_downloads": [
+    {
+      "file": "wechsel-40498.pdf",
+      "reason": "HTML-Landingpage statt Originalentscheidung; nicht verwendet."
+    },
+    {
+      "file": "ix-zr-219-05.pdf",
+      "reason": "Andere Rechtsfrage; nicht als Anker verwendet."
+    }
+  ],
+  "cross_review": "gegenlese-137-139.md"
+}

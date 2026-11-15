@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "checked_at_utc": "2026-11-15T02:40:08.372227+00:00",
+  "scope": "Unabhängige technische Prüfung der tatsächlich erzeugten Werkstattexporte; kein Quellen-Livecheck oder Modellbenchmark.",
+  "command": "../tmp/zu-update-1.1/venv/bin/python scripts/test-anfechtung-werkstattprompts.py",
+  "status": "passed",
+  "tests_passed": 14,
+  "module_count": 10,
+  "pages": 179,
+  "words": 63479,
+  "module_page_range": [
+    17,
+    19
+  ],
+  "files": [
+    {
+      "path": "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.zip",
+      "sha256": "5c36c5b81e80040a62a1f2844bbe3d2c8acba4f009e1947e1f153357d6d199b7",
+      "bytes": 1549335
+    },
+    {
+      "path": "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.pdf",
+      "sha256": "5dede18b4fcfd6bca50e43663beb09943a022a79e8ee89d554426ac5b2ec2143",
+      "bytes": 1368542
+    },
+    {
+      "path": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/umfang.json",
+      "sha256": "ad1b107f007514a5ec87528a6cf35c756fbd6867c964e5e281921ee0ee702708",
+      "bytes": 6271
+    },
+    {
+      "path": "scripts/anfechtung_werkstatt_contract.py",
+      "sha256": "a86043431106c15d50dc2f66ff58ef9603a4b77699658509a648e571959c3d83",
+      "bytes": 8786
+    },
+    {
+      "path": "scripts/test-anfechtung-werkstattprompts.py",
+      "sha256": "4ab6a285269c07f35b57b7820518489f32796f2605f272eb47624703556574a5",
+      "bytes": 13313
+    }
+  ],
+  "meaningful_character_probes": [
+    {
+      "left": "18.000",
+      "right": "180,00",
+      "remain_distinct": true
+    },
+    {
+      "left": "10 %",
+      "right": "10 ‰",
+      "remain_distinct": true
+    },
+    {
+      "left": "-15000",
+      "right": "15000",
+      "remain_distinct": true
+    },
+    {
+      "left": "10 < 20",
+      "right": "10 > 20",
+      "remain_distinct": true
+    },
+    {
+      "left": "1.1",
+      "right": "11",
+      "remain_distinct": true
+    }
+  ],
+  "legacy_negative_control": {
+    "mutation": "PDF-Betrag 18.000 Euro -> 180,00 Euro bei erneuerter PDF-Prüfsumme; identische Ziffernfolge",
+    "legacy_normalization_reintroduced_in_memory_only": true,
+    "expected_regression_failure_confirmed": true,
+    "failure": "ValueError not raised",
+    "production_files_modified": false
+  },
+  "logs": [
+    "export-tests.log",
+    "export-alte-normalisierung-negativkontrolle.log"
+  ],
+  "limits": [
+    "Keine visuelle Vollkontrolle aller 179 Seiten durch diese Tests",
+    "Keine eigenständige Freigabe sämtlicher materieller Rechtsaussagen durch Exportprüfung",
+    "Keine Veröffentlichung oder Remote-Asset-Prüfung durch diesen Teilauftrag"
+  ]
+}

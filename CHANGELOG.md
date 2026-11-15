@@ -1,3 +1,9 @@
+# Insolvenzrecht 445.36.2 – 15. November 2026
+
+Zehn eigenständig einsetzbare Werkstattprompts zu §§ 130–139 InsO vertiefen Tatbestandsmerkmale, Belegkennzeichnung, Beweislast, Gegenposition und ausformulierte Arbeitsergebnisse. Insgesamt 63.479 Wörter und 179 PDF-Seiten; die elf vorhandenen Anfechtungsskills laden jeweils die passende Vertiefung. Große Texte, Einzel-PDFs und Gesamtband sind als gesonderte Downloads verfügbar.
+
+Liquiditätsplanung und Insolvenzreifeprüfer erhalten einen dokumentierten amtlichen Quellenabgleich einschließlich der eng eingeordneten Entscheidungen II ZR 30/25 und IX ZR 150/25. Der Exportprüfer kontrolliert vollständigen Text, Quellenlinks und Seitenfolge; der Releasebau bindet die Pakete an den geprüften Checkout. [Releaseumfang und Prüfgrenzen](docs/releases/qualitaetsrunde-v445.36.2.md).
+
 # Qualitätsrunde 445.36.1 – 15. November 2026
 
 Die 31 noch offenen Dateireviews der Profile Anwaltschaft allgemein, Corporate Contract Law, Gesellschafterstreit und Wirtschaftsanwalt sind vollständig nachgeprüft und mit individuellen Enddatei- und Quellenbelegen abgeschlossen. Frühere Profile bleiben unverändert archiviert. Präzisierungen betreffen insbesondere B2B-Klauseln, Abnahme und Sicherheiten, DSGVO, anwaltliche Verschwiegenheit, Insolvenzreife und Zustellungsnachweise.

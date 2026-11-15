@@ -1,6 +1,6 @@
 # 1. Amtliche Quellen für die rückschauende Prüfung der Insolvenzreife
 
-Die Fundstellen sind nach ihrer Funktion für die Prüfung geordnet. Rechtsstand und erneuter Volltextabruf am 13. November 2026. Die Prüfung umfasst die unten angegebenen Abschnitte von 20 BGH-Entscheidungen; sie behauptet keine Vollständigkeit sämtlicher veröffentlichter Entscheidungen. Prüfe bei jedem Auftrag den für den jeweiligen Stichtag geltenden Wortlaut. Die älteren Entscheidungen zur Organhaftung oder zu einer früheren Fassung des § 19 InsO tragen die unten benannten Methoden. Die heutigen Fristen und Prognosezeiträume ergeben sich aus dem geltenden Gesetz.
+Die Fundstellen sind nach ihrer Funktion für die Prüfung geordnet. Grundprüfung und erneuter Volltextabruf am 13. November 2026. Die [gezielte Ergänzungsprüfung vom 15. November 2026](rechtsprechungsabgleich-2026-11-15.md) behandelt insbesondere II ZR 30/25 vom 13. Oktober 2026 und IX ZR 150/25 vom 5. November 2026; sie ersetzt die dokumentierten früheren Prüfstände nicht. Die Grundprüfung umfasst die unten angegebenen Abschnitte von 20 BGH-Entscheidungen; sie behauptet keine Vollständigkeit sämtlicher veröffentlichter Entscheidungen. Prüfe bei jedem Auftrag den für den jeweiligen Stichtag geltenden Wortlaut. Die älteren Entscheidungen zur Organhaftung oder zu einer früheren Fassung des § 19 InsO tragen die unten benannten Methoden. Die heutigen Fristen und Prognosezeiträume ergeben sich aus dem geltenden Gesetz.
 
 ## 1.1. Insolvenzgründe und Verfahrensdaten
 

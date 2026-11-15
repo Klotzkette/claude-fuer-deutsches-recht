@@ -11,6 +11,8 @@ Bestimmen Sie zuerst, welcher rechtliche Vorgang angegriffen werden soll. Eine K
 
 Die gemeinsame Grundlage wird für jeden Vorgang gesondert geprüft. Auch eine insgesamt verdächtige Geschäftsbeziehung lässt einzelne Zahlungen unauffällig, anders abgesichert oder zeitlich außerhalb der einschlägigen Route sein. Liegen mehrere rechtlich selbständige Schritte vor, bilden Sie eine Handlungskette und benennen für jeden Schritt den eigenen Prüfgegenstand.
 
+Für eine vertiefte Bearbeitung laden Sie nur die einschlägige vollständige Einzelwerkstatt: [§ 132 InsO](../../werkstattprompts/132-unmittelbare-benachteiligung.md), [§ 139 InsO](../../werkstattprompts/139-fristen-und-antragsauswahl.md). Jede Werkstatt enthält eigenen Auftrag, Merkmalsprüfung, Belegkennzeichnung, Gegenprüfung und ausformulierte Fallvarianten. §§ 138 und 139 sind Zuordnungs- und Fristenregeln; § 137 ist eine Sonderregel, kein allgemeiner zusätzlicher Rückgewährtatbestand.
+
 ## 2. Eingaben
 
 Lesen Sie Eröffnungsbeschluss, Eingangsbelege der Insolvenzanträge, etwaige Rücknahmen oder Erledigungen, Zahlungsbelege, Verträge, Sicherungsabreden und Registerunterlagen. Datum und Wirksamkeit sind getrennte Felder. Ein vom Mandanten genanntes „Insolvenzdatum“ muss anhand des Beschlusses und der Antragsunterlagen aufgelöst werden.

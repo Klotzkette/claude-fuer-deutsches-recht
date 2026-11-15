@@ -1,0 +1,25 @@
+{
+  "reason": "Fachliche Fortschreibung nach abgeschlossener Migration. Originalhashes und inverse Migrationsschritte bleiben erhalten; neue Gesamtdateiänderung ist zusätzlich reversibel dokumentiert.",
+  "changes": [
+    {
+      "path": "liquiditaetsplanung/references/insolvenzpruefung.md",
+      "before_sha256": "1457aa75321411bb297aaecd93ce1d4f4adc3aadc3d22171523d5c5739853c2b",
+      "after_sha256": "b452c08db9dd59ec04369b46b4c3df34da12ab3abe520ed696f022aad5d4adaa"
+    },
+    {
+      "path": "liquiditaetsplanung/references/rechtsprechung/INDEX.md",
+      "before_sha256": "ef8bf3c596e79c5d9ab535a363c7800d5a66f2bea25e6bac8ee708a79be4bb46",
+      "after_sha256": "1977d25639795f3b36d0ecbf44c84c06b1e4393771cd650ee49f03714f02dc86"
+    },
+    {
+      "path": "liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md",
+      "before_sha256": "c7f9d8754b083d22451f449ac06ec53309b6ae883e2e65949888fb4d0fe79b80",
+      "after_sha256": "4b8d36876340a9e59751c26ea4faec226b83bd777934dd1a751f9c7b55102c3c"
+    },
+    {
+      "path": "liquiditaetsplanung/skills/insolvenzreife-fortbestehen-sanierung-bearbeiten/SKILL.md",
+      "before_sha256": "e6fe96096c0ca189adc3465e486eb8d3236c89cfe153879af8b97430b4465a95",
+      "after_sha256": "ee4a483266661b563fe5a5ae4767324de8a8f778ecc633f6bec1599294563c8c"
+    }
+  ]
+}
