@@ -1,38 +1,32 @@
-# fachanwalt-steuerrecht wurde umbenannt
+# Fachanwältin und Fachanwalt für Steuerrecht
 
-> **Dieser Pfad existiert nicht mehr als eigenständiges Plugin.**
-> Bitte folgen Sie der Weiterleitung zum neuen Plugin:
->
-> ## **[steuerrecht-anwalt-und-berater](../steuerrecht-anwalt-und-berater)**
+Der fachanwaltliche Einstieg für Steuerrechtsmandate führt zum gemeinsamen Plugin **[Steuerrecht – Steuerberater und Anwälte](../steuerrecht-anwalt-und-berater/README.md)**. Dort liegen die Skills, Werkstatt- und Mini-Prompts, Vorlagen und Testakten für anwaltliche Steuerrechtsarbeit und Steuerberatung. Dieser Ordner bleibt als dauerhafter Wegweiser erhalten; installiert wird das gemeinsame Paket `steuerrecht-anwalt-und-berater`.
 
----
+[Alle 24 Fachprofile](../_FACHANWALTSCHAFTS-PLUGINS/README.md) · [Plugin-Gruppen](../plugin-gruppen/README.md) · [Repository-Start](../README.md)
 
-## Was ist passiert
+## 1. Direkt zur Arbeit
 
-Das früher unter `fachanwalt-steuerrecht` veröffentlichte Plugin wurde umbenannt und vereinheitlicht. Der gesamte Inhalt — Skills, Vorlagen, Befehle — ist jetzt unter dem neuen Namen verfügbar:
-
-**[claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater)**
-
-Der neue Name bündelt anwaltliche und steuerberatende Sicht in einem einzigen Plugin und ist unabhängig von der FAO-Bezeichnung.
-
-## Was Sie jetzt tun sollten
-
-| Sie nutzen ... | Nächster Schritt |
+| Ihr Ziel | Einstieg |
 | --- | --- |
-| Den Marketplace-Eintrag aus `.claude-plugin/marketplace.json` | Es läuft bereits auf den neuen Namen — kein Handlungsbedarf |
-| Eine eigene Installation per Plugin-Name | Plugin-Referenz in `~/.claude/settings.json` auf `steuerrecht-anwalt-und-berater` umstellen |
-| Einen Link in Dokumentation oder Lesezeichen | URL auf `/tree/main/steuerrecht-anwalt-und-berater` aktualisieren |
-| Ein ZIP-Asset aus einem Release | Im aktuellen Release das ZIP `steuerrecht-anwalt-und-berater.zip` verwenden |
+| Das gemeinsame Steuerrechts-Plugin verwenden | [Anleitung und Aufgabenübersicht](../steuerrecht-anwalt-und-berater/README.md) |
+| Das Plugin installieren | [Steuerrechts-Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/steuerrecht-anwalt-und-berater.zip) |
+| Einen einzelnen Arbeitsablauf wählen | [Alle 20 Skills mit Beschreibungen](../skills-index/steuerrecht-anwalt-und-berater.md) |
+| Eine umfangreiche Akte bearbeiten | [Werkstatt-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
+| Mit einem kompakten Auftrag beginnen | [Mini-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) |
 
-## Direkter Link zum Plugin
+## 2. Fachanwaltschaft und Steuerberatung im selben Paket
 
-Die [Soloakte Hubertus Tomasius](../quality/steuerrecht-freiburg/tomasius-solo/README.md) ist dem gemeinsamen Plugin [steuerrecht-anwalt-und-berater](../steuerrecht-anwalt-und-berater/README.md#soloakte-hubertus-tomasius) zugeordnet.
+Wählen Sie innerhalb des gemeinsamen Plugins die Perspektive des konkreten Auftrags: etwa Bescheidprüfung, Einspruch, finanzgerichtliches Verfahren oder die Auswertung von Belegen, BWA und Buchführung. Die gemeinsame Ablage vermeidet doppelte Fachtexte und unterschiedliche Fassungen derselben Vorlagen. Der Fachanwalts-Einstieg bleibt über diesen Ordner und das Fachverzeichnis auffindbar.
 
-Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) bündelt die Verfahrensakten, Vorführfälle und bearbeitbaren Vorlagen des gemeinsamen Steuerrechts-Plugins.
+Für ergänzende Aufgaben führen [Grundsteuerrecht](../grundsteuerrecht/README.md), [Berufsrecht der Steuerberatung](../berufsrecht-steuerberater/README.md) und [E-Rechnungen](../e-rechnung-werkstatt/README.md) zu ihren eigenen Spezialwerkzeugen. Die [Insolvenzgruppe](../insolvenzrecht-plugins/README.md) enthält die weiterhin eigenständigen Werkzeuge für Liquidität, Insolvenzgründe und Sanierungsplanung.
 
-### Grundsteuerakte Wolkenfels
+## 3. Mit Testakten ausprobieren
 
-Entpacken Sie das Originalformat-ZIP und laden Sie für den ersten Durchlauf nur `Grundakte`. Dort liegen die Eingangsunterlagen, einschließlich eines gegebenenfalls anzufechtenden Ausgangsbescheids. Die späteren Verfahrensstücke liegen außerhalb dieses Ordners. Die Gesamt-PDF ist separat abrufbar.
+Die [Soloakte Hubertus Tomasius](../quality/steuerrecht-freiburg/tomasius-solo/README.md) gehört zum gemeinsamen Plugin und ist dort unter [Soloakte Hubertus Tomasius](../steuerrecht-anwalt-und-berater/README.md#soloakte-hubertus-tomasius) eingeordnet. Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) bündelt weitere Verfahrensakten, Vorführfälle und bearbeitbare Vorlagen.
+
+### 3.1 Grundsteuerakte Wolkenfels
+
+Entpacken Sie das Originalformat-ZIP und laden Sie für den ersten Durchlauf nur `Grundakte`. Dort liegen die Eingangsunterlagen, einschließlich der zu prüfenden Bescheide. Diese Akte enthält keine vorweggenommenen Rechtsbehelfe oder spätere Verfahrensentwicklung. Die Gesamt-PDF ist separat abrufbar.
 
 Die [Aktenübersicht Wolkenfels](../testakten/steuer-grundsteuer-wolkenfels-berlin/README.md) enthält die beiden unverändert übernommenen Bescheid-PDFs und sechs ergänzende Unterlagen. Dieselbe Akte ist im gemeinsamen Steuerrechts-Plugin verzeichnet.
 
@@ -46,10 +40,10 @@ Die [Aktenübersicht Wolkenfels](../testakten/steuer-grundsteuer-wolkenfels-berl
 | Originaldateien | [Akten-ZIP mit Grundakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-steuer-grundsteuer-wolkenfels-berlin.zip) |
 | Einzel-PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-steuer-grundsteuer-wolkenfels-berlin-einzelpdfs.zip) |
 
-English: Both entry points use the same case. The two supplied PDFs are unchanged; additional correspondence remains separate. ZIP files contain no subfolders or Markdown documents.
+English: Both entry points use the same case. The original-format ZIP contains the intake documents in `Grundakte/`; the individual-PDF ZIP is flat. The combined PDF is provided separately.
 
-➡️ **[Zum Plugin steuerrecht-anwalt-und-berater wechseln](../steuerrecht-anwalt-und-berater)**
+## 4. Vorhandene Verweise und Installation
 
-➡️ [Aktueller Release mit allen ZIPs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
+Links auf `fachanwalt-steuerrecht` bleiben als fachlicher Einstieg nutzbar. Für die Installation und technische Plugin-Auswahl verwenden Sie `steuerrecht-anwalt-und-berater`; beide Einstiege führen zum selben Fachbestand. Eine zweite Installation dieses Wegweiserordners ist nicht erforderlich.
 
-➡️ [Marketplace-Konfiguration](../.claude-plugin/marketplace.json)
+English: This is the permanent entry point for specialist tax lawyers. It links to the shared tax-law and tax-adviser plugin; the guide itself is not an additional installable package.
