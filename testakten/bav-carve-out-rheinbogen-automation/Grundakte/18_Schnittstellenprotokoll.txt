@@ -1,0 +1,11 @@
+Payroll-Schnittstelle Holding – Ereignisprotokoll
+
+02.01.2025, 07:12: Import neuer Personalnummern erfolgreich.
+
+02.01.2025, 07:18: Zwölf Datensätze ohne gültiges Zielkennzeichen ALT-HOLDING. Export in Fehlerwarteschlange. Beitragsplan 2017 weiterhin verarbeitet.
+
+03.02.2025: Ticket an HR erstellt. Betroffene IDs K-0049 bis K-0060.
+
+18.02.2025: Ticket auf „erledigt“ gesetzt, weil monatlicher Versicherungsbeitrag erfolgreich lief. Kein Nachweis eines erneuten Altversorgungs-Exports im Ticket.
+
+20.10.2026: Rekonstruktion aus Protokollarchiv durch IT. Der Status „erledigt“ bezieht sich nach dem Kommentar auf den Beitragslauf, nicht auf die fehlende Entgeltmeldung an die Holding.

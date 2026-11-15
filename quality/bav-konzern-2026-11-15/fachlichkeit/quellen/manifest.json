@@ -1,0 +1,193 @@
+[
+  {
+    "id": "brsg2",
+    "url": "https://www.recht.bund.de/bgbl/1/2026/14/regelungstext.pdf?__blob=publicationFile&v=2",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/brsg2.pdf.gz",
+    "sha256_original": "68e9b12468cf74a88a782cf10667bc1ad007d60d79db00fab17ec22ca2b7cef7",
+    "bytes": 420582,
+    "retrieved": "2026-11-15",
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "betravg",
+    "url": "https://www.gesetze-im-internet.de/betravg/BetrAVG.pdf",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/betravg.pdf.gz",
+    "sha256_original": "900718b214d664ea85005133ae7a95149ca24995cffbfbb8f0f8d178cb811f50",
+    "bytes": 157124,
+    "retrieved": "2026-11-15",
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "bgb613a",
+    "url": "https://www.gesetze-im-internet.de/bgb/__613a.html",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/bgb613a.html.gz",
+    "sha256_original": "2cdb17421cd546da9fa54fa6c950975496d1cd1c056d486ee3b381f0afa0229b",
+    "bytes": 7020,
+    "retrieved": "2026-11-15"
+  },
+  {
+    "id": "hgb246",
+    "url": "https://www.gesetze-im-internet.de/hgb/__246.html",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/hgb246.html.gz",
+    "sha256_original": "3166780d5225f1085517784b828183101810923f896b72e63bc803d57d72ea30",
+    "bytes": 5254,
+    "retrieved": "2026-11-15"
+  },
+  {
+    "id": "hgb253",
+    "url": "https://www.gesetze-im-internet.de/hgb/__253.html",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/hgb253.html.gz",
+    "sha256_original": "50c490a8bff1e583252fcb6791ffa7cd708caec704d1280996499389ff6c7782",
+    "bytes": 9368,
+    "retrieved": "2026-11-15"
+  },
+  {
+    "id": "estg100",
+    "url": "https://www.gesetze-im-internet.de/estg/__100.html",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/estg100.html.gz",
+    "sha256_original": "199f7b523dbe4493a230bf9db790e7b64d1a799436e19b5046d36a7f987e69cc",
+    "bytes": 9514,
+    "retrieved": "2026-11-15"
+  },
+  {
+    "id": "betrvg87",
+    "url": "https://www.gesetze-im-internet.de/betrvg/__87.html",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/betrvg87.html.gz",
+    "sha256_original": "ef85be7c7beeba19973df99c888fca70ade1fb511f3d4e900c31304ebaf3ec8d",
+    "bytes": 7304,
+    "retrieved": "2026-11-15"
+  },
+  {
+    "id": "betrvg58",
+    "url": "https://www.gesetze-im-internet.de/betrvg/__58.html",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/betrvg58.html.gz",
+    "sha256_original": "9f48d1eece195beeb6b6b9b06142d79fe92c7ae811f0c37259172afc0acfa03c",
+    "bytes": 4177,
+    "retrieved": "2026-11-15"
+  },
+  {
+    "id": "umwg133",
+    "url": "https://www.gesetze-im-internet.de/umwg_1995/__133.html",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/umwg133.html.gz",
+    "sha256_original": "c9079c78c8228b7c2c2954a01a896999fe22b3e304df851be812b6314971a770",
+    "bytes": 6084,
+    "retrieved": "2026-11-15"
+  },
+  {
+    "id": "3-azr-247-23",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-247-23/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-247-23.html.gz",
+    "sha256_original": "60e30b181bdaf840c94fd3106dd0470ad850aeb85713398b399cc558c2ef2a72",
+    "bytes": 171357,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-408-10",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-408-10.html.gz",
+    "sha256_original": "197f7c489873188e0ac1ff709f0f023dc1ee77ac23452ab46accf15bbc14bceb",
+    "bytes": 150449,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-176-22",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-176-22/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-176-22.html.gz",
+    "sha256_original": "84148e9e95bbe5d6448b2b5952f035dcfb509a8e4ef412128c5edbaad34dcca3",
+    "bytes": 160099,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-142-24",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-142-24/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-142-24.html.gz",
+    "sha256_original": "e6db748b496a2b802cfe7f9f7038282a3d6d2cf9a5b195a1fcf1f14769dbb3c4",
+    "bytes": 207515,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-107-25",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-107-25/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-107-25.html.gz",
+    "sha256_original": "1ddc3edf6e8cf3b34848bd0b707a43240cb5539fabc4f79988b0ddfa8846785a",
+    "bytes": 169131,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-100-25",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-100-25/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-100-25.html.gz",
+    "sha256_original": "33e750207efa148ed1831fae84596d49374ef14345e8513abc2a65122d0385b8",
+    "bytes": 153393,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-159-25",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-159-25.html.gz",
+    "sha256_original": "9574d3afe5b98d9d30c0a787c1cb42b166f283c45e6913bb718d6f73bcd27688",
+    "bytes": 125801,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-91-25",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-91-25/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-91-25.html.gz",
+    "sha256_original": "aceb9dd4657b8f2895bcc59d8b8fe8d7aa442aa851f7c0ee2c2bf647d0c2f22c",
+    "bytes": 150771,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-298-13",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-298-13/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-298-13.html.gz",
+    "sha256_original": "803dd3edfcc9d1c9db2a8c8c9d43b7efdb4c9cc4a12f2e8f6562036bfe53ddc4",
+    "bytes": 186757,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-839-13",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-839-13/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-839-13.html.gz",
+    "sha256_original": "350cf31b4f74d6176555d959c86313d265c47a01927b4ff920641dd85a0a410b",
+    "bytes": 172809,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "3-azr-24-25",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-24-25/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/3-azr-24-25.html.gz",
+    "sha256_original": "2863d2daa2ef2ec3168f203a1a4e0624818b8af26ef41041b93e181b2b2dcd58",
+    "bytes": 182285,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "1-azr-147-24",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/1-azr-147-24.html.gz",
+    "sha256_original": "1e5fef4c6a6b8ccc1b1bb367da59b2427a43aefb600fc5d1ef2cd90ae50dbf3f",
+    "bytes": 182087,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html"
+  },
+  {
+    "id": "bag-sitzungsergebnisse",
+    "url": "https://www.bundesarbeitsgericht.de/aktuelles-und-veranstaltungen/sitzungsergebnisse/",
+    "archive": "quality/bav-konzern-2026-11-15/fachlichkeit/quellen/bag-sitzungsergebnisse.html.gz",
+    "sha256_original": "9ac9eadfbbfde30f53e01ef13e55faa2b65550a74c801aa09495ee51b14bcca0",
+    "bytes": 144926,
+    "retrieved": "2026-11-15",
+    "content_type": "text/html"
+  }
+]

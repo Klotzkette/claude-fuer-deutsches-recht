@@ -1,0 +1,1842 @@
+{
+  "slug": "bav-carve-out-rheinbogen-automation",
+  "title": "Projekt KANTE – Betriebsübergang, CTA und verschwundene zwölf Personen",
+  "client": "Rheinbogen Automation Holding SE",
+  "city": "Leverkusen",
+  "story": "Die Rheinbogen-Gruppe verkauft ihre Automationssparte mit 842 Beschäftigten an die Nordfeld Industries GmbH. Zur Diskussion stehen der Verkauf der Anteile an der operativen GmbH und eine Übertragung einzelner Betriebsmittel und Arbeitsverhältnisse. Die Transaktionsplanung enthält 46,8 Mio. EUR Pensionsverpflichtungen und 28 Mio. EUR zugeordnetes Treuhandvermögen. Im Kaufpreismodell wird die Vermögensposition bereits abgezogen, obwohl die Treuhänderin eine Übertragung noch nicht bestätigt hat.",
+  "assignment": "Prüfen Sie die beiden tatsächlichen Transaktionswege getrennt. Erstellen Sie eine belegte Zuordnung von Arbeitgebern, Beschäftigten, Zusagen, Verpflichtungen und Sicherungsvermögen sowie eine Entscheidungsvorlage und benötigte Vertragsentwürfe für Signing und Closing.",
+  "law_firm": {
+    "name": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB",
+    "address": "Am Rheinbogen 18, 51373 Leverkusen",
+    "partners": [
+      "Dr. Monkī D. Rufi",
+      "Dr. Nora Treuenfels"
+    ],
+    "email": "mail@monki-treuenfels.example"
+  },
+  "documents": [
+    {
+      "id": "01",
+      "path": "Grundakte/01_Mandatsanfrage.eml",
+      "kind": "eml",
+      "title": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "date": "2026-10-12",
+      "sender": "Vorstand <vorstand@rheinbogen-automation.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "Die Rheinbogen-Gruppe verkauft ihre Automationssparte mit 842 Beschäftigten an die Nordfeld Industries GmbH. Zur Diskussion stehen der Verkauf der Anteile an der operativen GmbH und eine Übertragung einzelner Betriebsmittel und Arbeitsverhältnisse. Die Transaktionsplanung enthält 46,8 Mio. EUR Pensionsverpflichtungen und 28 Mio. EUR zugeordnetes Treuhandvermögen. Im Kaufpreismodell wird die Vermögensposition bereits abgezogen, obwohl die Treuhänderin eine Übertragung noch nicht bestätigt hat.",
+        "Prüfen Sie die beiden tatsächlichen Transaktionswege getrennt. Erstellen Sie eine belegte Zuordnung von Arbeitgebern, Beschäftigten, Zusagen, Verpflichtungen und Sicherungsvermögen sowie eine Entscheidungsvorlage und benötigte Vertragsentwürfe für Signing und Closing. Bitte bereiten Sie die Unterlagen so auf, dass die Geschäftsleitung bis 27. November 2026 entscheiden kann, welche Variante tatsächlich weiterverfolgt wird. Der Termin ist ein interner Planungstermin; wir erwarten keine Erklärung, dass die arbeitsrechtliche Umsetzung bis dahin sicher abgeschlossen sein werde.",
+        "Wir benötigen eine nachvollziehbare Trennung der Arbeitgeber, Versorgungswege, betroffenen Personen und Finanzierungsquellen. Die Pensionsrückstellung in der Konzernrechnung ist nicht unser verfügbares Bankguthaben. Bitte fragen Sie bei Widersprüchen zunächst die in den Unterlagen genannten Sachbearbeiter und halten Sie fest, aus welcher Datei eine Zahl stammt. Ein ungeprüftes Gesamturteil über alle Bestände hilft uns im Vorstand nicht.",
+        "Die Personalabteilung hat ihre Exporte auf den unten bezeichneten Stand eingefroren. Nachlieferungen werden mit Eingangsdatum in einem eigenen Ordner gesammelt. Es wurden noch keine Beschäftigten angeschrieben, keine Einigungsstelle angerufen und keine individuellen Zustimmungserklärungen eingesammelt. Bitte entwerfen Sie solche Schritte nur als gesondert zu genehmigende nächste Maßnahmen.",
+        "Mit freundlichen Grüßen\nDie Geschäftsleitung\nRheinbogen Automation Holding SE"
+      ],
+      "attachments": [],
+      "from_email": "vorstand@rheinbogen-automation.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "02",
+      "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+      "kind": "pdf",
+      "title": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "date": "2026-10-13",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "body": [
+        "1 Vertragsparteien und Gegenstand",
+        "Rheinbogen Automation Holding SE beauftragt Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Monkī D. Rufi und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen MT-KANTE-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
+        "1.1 Geschuldete Leistungen",
+        "Die Kanzlei sichtet die zur Verfügung gestellten Versorgungsregelungen, Verträge und Korrespondenzen, erhebt entscheidungserhebliche Lücken und erstellt nach Abstimmung des Sachverhalts eine rechtliche Entscheidungsvorlage. Auf gesonderte Anforderung werden vollständige Entwürfe für Verhandlungen, Beschäftigteninformationen und erforderliche Vertragsänderungen erstellt. Eine automatische Versendung oder Einreichung ist nicht beauftragt. Die Mandantin entscheidet über tatsächliche Umsetzung und Budget.",
+        "1.2 Abgrenzung der Beratung",
+        "Nicht beauftragt sind die Erstellung eines versicherungsmathematischen Gutachtens, eine Abschlussprüfung, individuelle Steuerberatung der Versorgungsberechtigten oder eine Anlageempfehlung. Die Kanzlei überprüft die rechtliche Bedeutung wirtschaftlicher Annahmen, bestätigt aber nicht die Richtigkeit einer vom Unternehmen gelieferten Barwertberechnung. Für ausländische Unternehmen wird bei Bedarf ein gesonderter Auftrag vereinbart. Das Mandat enthält keine Zusage eines bestimmten bilanziellen Ergebnisses oder einer Zustimmung Dritter.",
+        "2 Zusammenarbeit und Dokumente",
+        "Die Mandantin stellt maßgebliche Originalfassungen und sämtliche Nachträge bereit. Eine aktuelle Verwaltungstabelle ersetzt die zugrunde liegende Zusage nicht. Wenn eine Datei nur ein Auszug oder eine nicht unterzeichnete Fassung ist, wird dies im Begleitschreiben vermerkt. Die Kanzlei führt ein Eingangsverzeichnis und bewahrt widersprechende Fassungen nebeneinander auf, bis die Mandantin die Herkunft geklärt hat. Sie darf keine nachträgliche Glättung der Personalhistorie als gesicherte Tatsache behandeln.",
+        "2.1 Termine und Zwischenstände",
+        "Der vereinbarte Entscheidungstermin ist abhängig von der rechtzeitigen Lieferung der entscheidungserheblichen Dokumente. Kann eine Frage mangels Belegen noch nicht abschließend beurteilt werden, legt die Kanzlei die vorhandenen Varianten mit den konkreten Folgen und der fehlenden Information vor. Ein Zwischenstand wird nicht als unterschriftsreife Umsetzungsvorlage gekennzeichnet. Die Parteien stimmen wöchentlich mittwochs einen schriftlichen Sachstand ab.",
+        "3 Vergütung und Kostensteuerung",
+        "Die Vergütung richtet sich nach der gesondert unterzeichneten Vergütungsvereinbarung. Für die erste Sichtungs- und Strukturierungsphase gilt ein internes Planungsbudget von 110.000 EUR netto. Dieses Planungsbudget ist keine pauschale Vergütung und keine Zustimmung zu Mehrleistungen. Bei absehbarer Überschreitung um mehr als zehn Prozent unterrichtet die Kanzlei die Mandantin vor weiterer nicht eilbedürftiger Tätigkeit. Reise- und externe Sachverständigenkosten bedürfen gesonderter Freigabe.",
+        "4 Kommunikation und Datenzugriff",
+        "Der Datenaustausch erfolgt über den vereinbarten geschützten Datenraum. Beschäftigtendaten werden nur den für das Mandat erforderlichen Personen zugänglich gemacht. Die Parteien verwenden in Arbeitslisten möglichst Personalnummern. Über den Einsatz zusätzlicher Dienstleister und den erforderlichen Zugriff wird gesondert entschieden. Eine allgemeine Zustimmung zur Weitergabe vollständiger Personalakten an frei zugängliche Systeme wird durch diese Vereinbarung nicht erteilt.",
+        "5 Freigabe, Beendigung und Aktenherausgabe",
+        "Erklärungen gegenüber Beschäftigten, Gremien, Versorgungsträgern oder Behörden bedürfen der inhaltlichen Freigabe der Mandantin. Gesetzliche berufliche Pflichten der Kanzlei bleiben unberührt. Bei Beendigung werden die vom Unternehmen überlassenen Dokumente und die zur Fortführung erforderlichen Arbeitsstände geordnet bereitgestellt; Aufbewahrungspflichten bleiben bestehen. Änderungen des Beratungsgegenstands und zusätzlicher Vertretungsaufträge werden dokumentiert.",
+        "Für Rheinbogen Automation Holding SE: Geschäftsleitung, elektronisch freigegeben am 2026-10-13.\nFür Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-13."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "03",
+      "path": "Grundakte/03_Transaktionsauftrag.pdf",
+      "kind": "pdf",
+      "title": "Projekt KANTE – Entscheidung zwischen Anteilsverkauf und Betriebsübertragung",
+      "date": "2026-10-09",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Projektteam Verkauf\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Projekt KANTE – Entscheidung zwischen Anteilsverkauf und Betriebsübertragung",
+      "body": [
+        "1 Geschäft und Verkaufsziel",
+        "Die operative Rheinbogen Automation GmbH entwickelt Anlagensteuerungen und beschäftigt 842 Personen in Leverkusen und Dormagen. Die Holding hält sämtliche Anteile. Der Interessent Nordfeld Industries GmbH will den Geschäftsbereich übernehmen. Der indikative Unternehmenswert beträgt 92 Mio. EUR vor den im Angebot bezeichneten Finanzierungs- und Pensionsanpassungen.",
+        "2 Zwei Strukturvarianten",
+        "Variante Anteilskauf: Die Nordfeld Industries GmbH erwirbt sämtliche Anteile an der operativen GmbH. Der bestehende Arbeitgeber soll unverändert bleiben. Die Holding verlangt in diesem Fall eine Prüfung ihrer bestehenden Garantien und Treasury-Verflechtungen.",
+        "Variante Betriebsübertragung: Nordfeld übernimmt Maschinen, Kundenverträge, IP und die dem Geschäft zugeordneten Arbeitsverhältnisse auf eine neue Erwerbergesellschaft. Für nicht übergehende Personen und alte Rentner muss die Planung ausdrücklich ausweisen, wer weiterhin Schuldner bleibt. Beide Varianten stehen noch zur Verhandlung; eine Entscheidung oder Arbeitnehmerinformation liegt nicht vor.",
+        "3 Zeitplan und Freigaben",
+        "Am 27. November soll die Verhandlungsrichtung beschlossen werden. Signing ist für Dezember vorgesehen, Closing für den 1. April 2027. Eine Unternehmensbewertung ist kein Gutachten über die Wirksamkeit einer Übertragung von Pensionsverpflichtungen. Treasury, HR und Recht sollen vor dem Beschluss einen gemeinsamen Abgleich vorlegen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "04",
+      "path": "Grundakte/04_Term_Sheet_Nordfeld.pdf",
+      "kind": "pdf",
+      "title": "Indikatives Term Sheet – Erwerb Automationsgeschäft",
+      "date": "2026-10-07",
+      "sender": "Nordfeld Industries GmbH, Werftstraße 9, 28195 Bremen",
+      "recipient": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Indikatives Term Sheet – Erwerb Automationsgeschäft",
+      "body": [
+        "1 Gegenstand",
+        "Nordfeld beabsichtigt den Erwerb des Automationsgeschäfts. Die Parteien prüfen vorrangig einen Anteilskauf. Sollte die Due Diligence wesentliche nicht abgrenzbare Altlasten zeigen, bleibt als Alternative eine Übertragung des operativen Betriebs auf eine Erwerbergesellschaft offen. Dieses Term Sheet verpflichtet noch nicht zum Abschluss eines Erwerbsvertrags.",
+        "2 Preisannahme",
+        "Der indikative Unternehmenswert beträgt 92.000.000 EUR. Für das Pensionsmodell legt Nordfeld zunächst einen Verpflichtungswert von 46.800.000 EUR und ein tatsächlich mitübertragenes Sicherungsvermögen von 28.000.000 EUR zugrunde. Die Differenz von 18.800.000 EUR soll als pensionsbezogene Preisanpassung behandelt werden. Weitere Kaufpreisanpassungen für Finanzschulden, Barmittel und Working Capital sind gesondert zu verhandeln. Die 92 Mio. EUR sind daher nicht bereits der zu zahlende Anteilskaufpreis.",
+        "3 Voraussetzungen",
+        "Die Annahme zum Sicherungsvermögen gilt nur, soweit das Vermögen dem übernommenen Verpflichtungsbestand tatsächlich erhalten bleibt und vertraglich zulässig zugeordnet werden kann. Wir verlangen eine Bestätigung des Treuhänders und eine Liste der Begünstigten. Eine nachträgliche Unterdeckung aus unvollständiger Personenübermittlung soll nicht vom Käufer getragen werden.",
+        "4 Personal und Zusagen",
+        "Die beigefügte HR-Liste ist ein Arbeitsstand. Zusagen, die nicht in der Liste erscheinen, sind nicht allein deshalb ausgeschlossen. Vor Vertragsunterzeichnung benötigen wir sämtliche Ordnungen, Einzelzusagen, Übernahmebestätigungen und das Verhältnis zwischen dem operativen Unternehmen und der Holding. Der Begriff „economic pension transfer“ soll keine Aussage über eine automatische rechtliche Enthaftung enthalten.",
+        "5 Verbindlichkeit",
+        "Vertraulichkeit und Zugang zum Datenraum werden gesondert vereinbart. Die wirtschaftlichen Punkte sind bis zum Abschluss der Due Diligence unverbindlich. Dieses Angebot gilt bis 27. November 2026. Dr. Jannik Voss, Geschäftsführer Nordfeld Industries GmbH."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "05",
+      "path": "Grundakte/05_Versorgungsordnung_2009.pdf",
+      "kind": "pdf",
+      "title": "Rheinbogen Versorgung 2009",
+      "date": "2009-01-01",
+      "sender": "Rheinbogen Automation GmbH\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Rheinbogen Versorgung 2009",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "Rheinbogen Automation GmbH gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Ordnung gilt für Beschäftigte der Gesellschaft nach schriftlicher Aufnahmebestätigung. Die Personalabteilung führt das Aufnahmeverzeichnis und händigt bei Aufnahme eine Ausfertigung aus. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Die jährliche Altersrente beträgt 0,40 Prozent des bei Rentenbeginn maßgeblichen jährlichen Festgehalts für jedes volle Dienstjahr, höchstens für 35 Jahre. Für Teilzeitphasen wird das Verhältnis der vereinbarten Arbeitszeit zur Vollzeit berücksichtigt. Nachgewiesene konzerninterne Vorbeschäftigungszeiten werden nur angerechnet, soweit die Aufnahmebestätigung dies vorsieht.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder voller Erwerbsminderung vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Die Berechtigten legen den Bescheid des gesetzlichen Rentenversicherungsträgers oder gleichwertige Nachweise vor. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Die Gesellschaft erteilt eine Direktzusage. Sie kann Vermögen zur Sicherung in eine Treuhand einbringen; das ändert den Schuldner der Zusage nicht allein durch die Einzahlung. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "06",
+      "path": "Grundakte/06_Versorgungsordnung_2017.pdf",
+      "kind": "pdf",
+      "title": "Rheinbogen Versorgung 2017 – Beitragsorientierte Zusage",
+      "date": "2017-01-01",
+      "sender": "Rheinbogen Automation GmbH\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Rheinbogen Versorgung 2017 – Beitragsorientierte Zusage",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "Rheinbogen Automation GmbH gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Ordnung gilt für Neueintritte ab dem 1. Januar 2017 ohne entgegenstehende Einzelbestätigung. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Der Arbeitgeber stellt jährlich 3,5 Prozent des pensionsfähigen Jahresfestentgelts als Beitrag bereit. Hieraus entstehen die in der jeweiligen Jahresbestätigung bezeichneten garantierten Leistungsbausteine. Die Versicherung weist garantierte und nicht garantierte Leistungen getrennt aus. Bereits garantierte Bausteine werden nicht aufgrund einer später geänderten Beitragstabelle neu berechnet.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder voller Erwerbsminderung vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Die Berechtigten legen den Bescheid des gesetzlichen Rentenversicherungsträgers oder gleichwertige Nachweise vor. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Der Arbeitgeber führt die Beiträge einer Direktversicherung bei der Morgenrhein Lebensversicherung AG zu. Die arbeitsrechtliche Zusage und der Gruppenvertrag werden getrennt verwaltet. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "07",
+      "path": "Grundakte/07_CTA_Treuhandvertrag.pdf",
+      "kind": "pdf",
+      "title": "Rheinbogen Pension Trust – Verwaltungstreuhand und Sicherungsabrede",
+      "date": "2018-03-15",
+      "sender": "Rheinbogen Pension Trust e.V., Am Werkbogen 20, 51373 Leverkusen",
+      "recipient": "Rheinbogen Automation Holding SE und Rheinbogen Automation GmbH\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Rheinbogen Pension Trust – Verwaltungstreuhand und Sicherungsabrede",
+      "body": [
+        "1 Parteien und Zweck",
+        "Die Rheinbogen Automation Holding SE und die Rheinbogen Automation GmbH, nachfolgend gemeinsam Treugeber, übertragen die im Vermögensverzeichnis bezeichneten Werte auf den Rheinbogen Pension Trust e.V. als Treuhänder. Die Verwaltung dient der Finanzierung und Sicherung der im Begünstigtenverzeichnis erfassten Versorgungsverpflichtungen. Das Vermögen ist getrennt vom eigenen Vermögen des Treuhänders zu führen. Die bloße Zuordnung im Konzernabschluss ersetzt keine Eintragung in die vertragsgemäßen Verzeichnisse.",
+        "1.1 Zuordnung der Verpflichtungen",
+        "Für jede Teilzusage werden Arbeitgeber, begünstigte Person und Sicherungsumfang im Verzeichnis bezeichnet. Bei einer Person mit mehreren Zusageteilen sind getrennte Zuordnungen zulässig. Die Treugeber melden Änderungen schriftlich mit dem zugrunde liegenden Dokument. Nicht nachgewiesene Änderungen werden als Klärungsposten geführt. Ein Kostenstellenwechsel berechtigt nicht zur Umbuchung des gesicherten Arbeitgebers.",
+        "2 Vermögensverwaltung",
+        "Der Treuhänder legt die Werte nach der vereinbarten Anlagerichtlinie an. Er darf keine Mittel zur allgemeinen Betriebsmittelfinanzierung der Treugeber verwenden. Bis zu 10 Prozent dürfen als Liquiditätsreserve gehalten werden. Verfügungen erfolgen nach dem Vier-Augen-Prinzip und werden dokumentiert. Monatliche Berichte unterscheiden Einzahlungen, Entnahmen, Erträge, Kosten und Bewertungsänderungen.",
+        "2.1 Auszahlung zur Erstattung von Renten",
+        "Die Erstattung tatsächlich gezahlter gesicherter Renten setzt einen belegten Zahlungsnachweis und die Zuordnung zu einer erfassten Verpflichtung voraus. Eine bloße Aufwandsbuchung reicht nicht aus. Der Treuhänder prüft nicht die vollständige arbeitsrechtliche Richtigkeit des Rentenbescheids, darf bei erkennbaren Widersprüchen jedoch ergänzende Nachweise verlangen.",
+        "3 Sicherungsfall",
+        "Der Sicherungsfall tritt ein, wenn über das Vermögen eines Treugebers das Insolvenzverfahren eröffnet oder ein entsprechender Eröffnungsantrag mangels Masse rechtskräftig abgewiesen wird. Der Treuhänder wird hierüber unverzüglich unterrichtet. Bis zur Klärung darf er bei einem nachgewiesenen Eröffnungsantrag vorsorglich Erstattungen an den betroffenen Treugeber aussetzen. Die Aussetzung ist keine Feststellung einer Insolvenz durch den Treuhänder. Die getrennten Sicherungskreise anderer Treugeber bleiben gesondert zu beurteilen.",
+        "3.1 Sicherungsabrede und Begünstigte",
+        "Die im Begünstigtenverzeichnis bezeichneten Personen erwerben im Sicherungsfall nach Maßgabe dieser Vereinbarung einen eigenen Anspruch gegen den Treuhänder auf Verwendung des ihnen zugeordneten Sicherungsvermögens zur Erfüllung der erfassten Versorgung. Der Anspruch ist auf das hierfür verfügbare Vermögen und die tatsächlich bestehende Versorgungsforderung begrenzt. Er ist kein zusätzliches zweites Rentenversprechen. Der Treuhänder prüft die Forderungszuordnung, legt einen Zahlungsplan offen und verhindert eine doppelte Befriedigung derselben Forderung. Leistungen eines gesetzlichen Sicherungsträgers und gesetzliche Forderungsübergänge werden abgestimmt und dokumentiert. Die Vertragsparteien erklären durch diesen Vertrag nicht verbindlich, ob und in welchem Umfang im konkreten Sicherungsfall gesetzlicher Insolvenzschutz besteht.",
+        "4 Unternehmensveränderung",
+        "Ein Anteilseignerwechsel bei einem Treugeber führt nicht allein zur Freigabe des Sicherungsvermögens. Bei Betriebsübertragungen oder einem Wechsel des Schuldners von Versorgungsverpflichtungen legen die Parteien vorab den betroffenen Bestand und die gewünschte Fortführung der Sicherung fest. Der Treuhänder stimmt einer Auskehrung oder Weiterübertragung erst zu, wenn die rechtliche Zuordnung der Verpflichtungen, der Sicherungszweck und die erforderlichen Erklärungen nachgewiesen sind.",
+        "4.1 Teilbestände",
+        "Eine Aufteilung erfolgt anhand einer dokumentierten Bewertungs- und Zuordnungsmethode. Ein Anteil des Gesamtvermögens darf nicht allein im Verhältnis der Kopfzahlen entnommen werden. Für bislang nicht zugeordnete Zusageteile ist ein Klärungsbetrag zurückzubehalten. Die Parteien protokollieren den Stichtag, Marktwerte, Transaktionskosten und die Behandlung späterer Korrekturen.",
+        "5 Berichte und Prüfung",
+        "Der Treuhänder stellt jährlich einen Vermögensnachweis und ein Verzeichnis der erfassten Verpflichtungen zur Verfügung. Die Treugeber bestätigen die Personal- und Leistungsdaten. Fehler werden mit Datum und Ursprungsbeleg korrigiert; die frühere Fassung bleibt nachvollziehbar. Ein Bericht über die Rechnungslegung ist keine Zustimmung zu einer geplanten Transaktion.",
+        "6 Laufzeit und Beendigung",
+        "Die ordentliche Kündigung ist mit zwölf Monaten Frist zum Jahresende möglich. Sie hebt den Sicherungszweck für bestehende Verpflichtungen nicht auf. Vor Beendigung ist eine gleichwertige Fortführung der vereinbarten Sicherung oder eine andere nach diesem Vertrag zulässige Verwendung festzulegen. Der Treuhänder zahlt das Vermögen nicht allein aufgrund einer Kündigung an die Holding aus.",
+        "Unterzeichnet am 15. März 2018: Für die Holding Eva Sandner, für die Automation GmbH Karim Berg, für den Trust Sabine Renne."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "08",
+      "path": "Grundakte/08_Holding_Garantie_2018.pdf",
+      "kind": "pdf",
+      "title": "Zahlungszusage der Holding für die Automation GmbH",
+      "date": "2018-03-15",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Rheinbogen Automation GmbH\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Zahlungszusage der Holding für die Automation GmbH",
+      "body": [
+        "1 Inhalt der Zusage",
+        "Die Rheinbogen Automation Holding SE verpflichtet sich gegenüber der Rheinbogen Automation GmbH, ihr auf schriftliche Anforderung die Mittel bereitzustellen, die diese zur fristgerechten Erfüllung der in Anlage „Pensionsbestand 2018“ bezeichneten Versorgungszahlungen benötigt, soweit die Gesellschaft die Mittel nicht aus laufenden Einnahmen oder zulässigen Treuhanderstattungen aufbringen kann. Die jährliche Anforderung ist mit einer Liquiditätsübersicht und den fälligen Zahlungen zu belegen.",
+        "2 Begünstigte und Anspruchsinhaber",
+        "Vertragliche Gläubigerin dieser Mittelbereitstellungszusage ist die Automation GmbH. Diese Vereinbarung enthält keine ausdrückliche Erklärung gegenüber einzelnen Versorgungsberechtigten. Ob weitere Ansprüche aus anderen Dokumenten bestehen, wird damit nicht geregelt. Die Gesellschaft hat die empfangenen Mittel ausschließlich zur Erfüllung der bezeichneten Versorgungspflichten einzusetzen.",
+        "3 Umfang und Dauer",
+        "Die Zusage gilt für die erfassten Verpflichtungen bis zu ihrer vollständigen Erfüllung. Eine Änderung der Beteiligungsverhältnisse ist in dieser Vereinbarung nicht als Beendigungsgrund genannt. Die Parteien können eine andere Finanzierung vereinbaren, dürfen damit aber nicht ohne gesonderte Prüfung in Rechte Dritter eingreifen. Eine einseitige Aufhebung durch Übermittlung eines geänderten Konzernorganigramms ist ausgeschlossen.",
+        "4 Abrechnung",
+        "Über Anforderung und Verwendung wird jährlich abgerechnet. Nicht benötigte Beträge werden nach Abstimmung zurückgeführt, sofern sämtliche fälligen Versorgungszahlungen gedeckt sind. Für Streitigkeiten über die Abrechnung sind zunächst die Finanzleiter beider Unternehmen einzuschalten.",
+        "Unterzeichnet am 15. März 2018: Eva Sandner für die Holding; Karim Berg für die Automation GmbH."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "09",
+      "path": "Grundakte/09_Asset_Deal_Entwurf.docx",
+      "kind": "docx",
+      "title": "Versorgungsanlage zum Betriebsübertragungsvertrag – Verhandlungsentwurf",
+      "date": "2026-10-14",
+      "sender": "Nordfeld Industries GmbH\nWerftstraße 9\n28195 Bremen",
+      "recipient": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Versorgungsanlage zum Betriebsübertragungsvertrag – Verhandlungsentwurf",
+      "body": [
+        "Diese Anlage regelt ausschließlich die pensionsbezogenen Punkte einer möglichen Transaktion. Sie ist kein vollständiger Kaufvertrag. Die übrigen Kaufgegenstände, allgemeinen Garantien, kartellrechtlichen Voraussetzungen und allgemeinen Kaufpreisregeln sind nicht Gegenstand dieser Anlage; ein unterzeichneter Hauptvertrag liegt noch nicht vor.",
+        "1 Entwurfsstand und Transaktionsumfang",
+        "Dieser Vertragstext ist ein nicht unterzeichneter Verhandlungsstand für die Alternative einer Betriebsübertragung. Verkäuferin ist die Rheinbogen Automation GmbH; Käuferin soll die Nordfeld Automation Erwerbsgesellschaft mbH sein. Die zu übertragenden Betriebsmittel, Kundenverträge und Rechte werden in gesonderten Verzeichnissen abschließend bezeichnet. Der Entwurf ist kein Nachweis einer bereits erfolgten Übertragung.",
+        "2 Arbeitsverhältnisse",
+        "Die Parteien erfassen die dem Betrieb zugeordneten Beschäftigten in einem gemeinsamen Personalverzeichnis. Die tatsächliche Zuordnung wird anhand von Tätigkeit, Organisation und Beschäftigungshistorie geprüft. Die Parteien wollen gesetzlich übergehende Rechte nicht durch eine unvollständige Anlage ausschließen. Für Personen, die einem Übergang widersprechen oder dem übertragenen Betrieb nicht angehören, wird ein gesonderter organisatorischer und wirtschaftlicher Umgang vereinbart.",
+        "3 Pensionspflichten im Innenverhältnis",
+        "Die Käuferin soll im Verhältnis zur Verkäuferin die nach dem Stichtag wirtschaftlich zu tragenden Verpflichtungen für die tatsächlich übergehenden Arbeitsverhältnisse übernehmen. Der Verkäuferentwurf verwendet hierfür einen Barwert von 46.800.000 EUR. Dieser Wert ist vor Signing mit dem endgültigen Personal- und Zusagebestand abzugleichen. Verpflichtungen gegenüber ausgeschiedenen Berechtigten und Rentnern verbleiben nach dieser Entwurfsfassung zunächst bei der Verkäuferin, soweit nicht ein gesonderter wirksamer Übertragungsweg vereinbart wird.",
+        "3.1 Rechte der Berechtigten",
+        "Die Regelung des Innenverhältnisses wird gegenüber Beschäftigten nicht als pauschale Befreiung eines bisherigen Schuldners bezeichnet. Gesetzliche Haftung, notwendige Erklärungen und die Wirksamkeit eines Schuldnerwechsels sind gesondert zu beurteilen. Die Verkäuferin darf Beschäftigte nicht allein unter Verweis auf diesen Vertrag an einen anderen Anspruchsgegner verweisen.",
+        "4 Treuhandvermögen",
+        "Der Kaufpreis berücksichtigt 28.000.000 EUR Sicherungsvermögen nur, soweit die zugehörigen Verpflichtungen und Sicherungsrechte beim Closing tatsächlich entsprechend der freigegebenen Struktur fortgeführt werden. Die Zustimmung des Treuhänders ist Closing-Voraussetzung. Falls der Treuhänder die Übertragung eines Teilbetrags verweigert, werden die Parteien den Kaufpreis und eine alternative Sicherung vor Closing erneut schriftlich festlegen. Eine einseitige Auskehrungsanweisung der Holding reicht nicht aus.",
+        "5 Garantien und Daten",
+        "Die Verkäuferin soll die Vollständigkeit der übergebenen Versorgungsordnungen, Nachträge, Einzelzusagen und Übernahmebestätigungen erklären. Eine Garantie allein anhand der aktuellen Payroll-Codes ist nicht vorgesehen. Bekannte Datenlücken werden mit betroffenen Personen und wirtschaftlicher Spannweite aufgeführt. Beide Parteien führen einen gemeinsamen Korrekturprozess für später auftauchende Zusageteile.",
+        "6 Durchführung und Übergangsleistungen",
+        "Für sechs Monate nach Closing soll die bisherige Pensionsadministration technische Dienstleistungen erbringen. Sie entscheidet nicht über streitige Ansprüche und gibt keine rechtsverbindlichen Ablehnungen im Namen der Käuferin ohne Auftrag ab. Die Vertragsparteien legen Verantwortliche, Zugriffsrechte, Datenformate und Eskalation schriftlich fest. Die Vergütung wird im Servicevertrag geregelt.",
+        "7 Freigaben und Beendigung",
+        "Bis zur Unterzeichnung und Erfüllung der vereinbarten Closing-Voraussetzungen besteht keine Pflicht zum Vollzug dieser Entwurfsfassung. Die Parteien dokumentieren die endgültige Strukturentscheidung. Kommt die Transaktion nicht zustande, bleiben die bisherigen Zusagen und Verwaltungsprozesse unberührt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "10",
+      "path": "Grundakte/10_Share_Deal_Entwurf.docx",
+      "kind": "docx",
+      "title": "Versorgungsanlage zum Anteilskaufvertrag – Verhandlungsentwurf",
+      "date": "2026-10-14",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Nordfeld Industries GmbH\nWerftstraße 9\n28195 Bremen",
+      "subject": "Versorgungsanlage zum Anteilskaufvertrag – Verhandlungsentwurf",
+      "body": [
+        "Diese Anlage regelt ausschließlich die pensionsbezogenen Punkte einer möglichen Transaktion. Sie ist kein vollständiger Kaufvertrag. Die übrigen Kaufgegenstände, allgemeinen Garantien, kartellrechtlichen Voraussetzungen und allgemeinen Kaufpreisregeln sind nicht Gegenstand dieser Anlage; ein unterzeichneter Hauptvertrag liegt noch nicht vor.",
+        "1 Kaufgegenstand und Arbeitgeber",
+        "Die Holding soll sämtliche Geschäftsanteile an der Rheinbogen Automation GmbH an Nordfeld verkaufen. Die operative Gesellschaft bleibt nach diesem Vertragsmodell dieselbe juristische Person und Arbeitgeberin. Dieser Entwurf enthält keine Übertragung einzelner Arbeitsverhältnisse auf Nordfeld. Die Beteiligten dürfen gegenüber Beschäftigten aus dem Anteilseignerwechsel allein keinen Wechsel des Versorgungsschuldners ableiten.",
+        "2 Kaufpreisrechnung",
+        "Der indikative Unternehmenswert von 92.000.000 EUR wird um die vereinbarten Finanzierungs- und Pensionspositionen angepasst. Die vorläufige Pensionsanpassung beträgt 18.800.000 EUR, berechnet aus 46.800.000 EUR Verpflichtungswert abzüglich 28.000.000 EUR zugeordnetem Sicherungsvermögen. Beide Größen beziehen sich auf den vereinbarten wirtschaftlichen Stichtag. Nicht gesicherte oder falsch zugeordnete Zusageteile sind bei der Festlegung der endgültigen Anpassung zu berücksichtigen.",
+        "3 Bestehende Sicherheit",
+        "Die bestehende Treuhand soll zugunsten der erfassten Verpflichtungen fortgeführt werden. Ein Anteilseignerwechsel wird nicht als Entnahmegrund vereinbart. Die Parteien legen die Fortführung nach Maßgabe des Treuhandvertrags mit dem Treuhänder fest. Die Mittelbereitstellungszusage der Holding vom 15. März 2018 wird nicht bereits durch Unterzeichnung dieses Anteilskaufvertrags als erledigt behandelt. Eine Ablösung bedarf einer gesonderten wirksamen Vereinbarung und Prüfung der betroffenen Rechte.",
+        "4 Offenlegung",
+        "Die Verkäuferin legt die vorhandenen Zusagetexte und bekannten Sonderbestätigungen offen. Der Käufer erhält einen vollständigen Stand der Personalzuordnung mit Herkunftsbelegen. Eine Zahl aus dem Konzernabschluss gilt nicht als individualisierter Nachweis eines Anspruchs. Für nach Signing entdeckte Dokumente gilt ein Meldeprozess mit Zuordnung zu betroffenen Personen, wirtschaftlicher Bewertung und Entscheidung vor Closing.",
+        "5 Freistellung im Innenverhältnis",
+        "Die Parteien verhandeln eine Freistellung für vor dem Stichtag verursachte, nicht offengelegte zusätzliche Versorgungslasten. Umfang, Selbstbehalt und Laufzeit sind noch nicht abschließend vereinbart. Dieser Text erteilt weder Arbeitnehmern eine neue Zusage noch beseitigt er vorhandene Ansprüche. Ein Vergleich über konkrete Fälle bedarf gesonderter Zustimmung der dazu berechtigten Personen.",
+        "6 Vollzug",
+        "Voraussetzung des Vollzugs sind die vereinbarten gesellschaftsrechtlichen und vertraglichen Freigaben, die Bestätigung der Datenübergabe und ein abgestimmter Verwaltungsprozess. Die vorläufige Kaufpreisrechnung wird unmittelbar vor Closing aktualisiert. Bis dahin wird kein Vermögen allein zur Erreichung eines in einer Präsentation genannten Zielwerts aus der Treuhand entnommen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "11",
+      "path": "Grundakte/11_HR_Mapping_Methodik.pdf",
+      "kind": "pdf",
+      "title": "Personenmapping – Auszug und Gesamtbestand sauber trennen",
+      "date": "2026-10-15",
+      "sender": "Personalabteilung Rheinbogen Automation\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Transaktionsteam\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Personenmapping – Auszug und Gesamtbestand sauber trennen",
+      "body": [
+        "1 Gesamtbestand",
+        "Die verkaufsrelevante Arbeitgeberliste enthält 842 aktive Beschäftigte. Zusätzlich führt die Gesellschaft 216 unverfallbar Ausgeschiedene und 318 laufende Rentner. Diese drei Statusgruppen werden getrennt ausgewiesen. Rentner werden nicht als Beschäftigte behandelt, nur weil sie eine aktive Zahlungsnummer im Abrechnungssystem besitzen.",
+        "2 Detailauszug",
+        "Der übergebene Detailauszug enthält 60 ausgewählte Personen, darunter 48 reguläre Beschäftigte und zwölf mit historischen Holding-Zusageteilen. Er ist nicht die vollständige Liste aller 842 Beschäftigten. Die 46,8 Mio. EUR Verpflichtungswert stammen aus dem Gesamtbestandsmodell und dürfen nicht aus den 60 Zeilen hochgerechnet werden.",
+        "3 Zuordnungsproblem",
+        "Zwölf Personen wechselten 2019 aus der Holding in die operative Gesellschaft. Ihr laufendes Arbeitsverhältnis wird dort abgerechnet. Der technische Export zeigt nur den neuen Beitragsplan. Nach einem Vermerk im Altarchiv wurde jedoch ein Zusageteil aus der Holding separat fortgeführt. Ob der neue Arbeitgeber auch diesen Teil übernommen hat, ist anhand der Verträge zu klären. Das Feld „Pension=yes“ beantwortet diese Frage nicht.",
+        "4 Datenstatus",
+        "Der Auszug ist am 15. Oktober eingefroren. Änderungen werden mit Originalbeleg und Datum nachgeliefert. Das Transaktionsteam darf fehlende Zusagebeträge nicht mit null auffüllen und anschließend als Garantieanlage ausgeben."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "12",
+      "path": "Grundakte/12_Wechselvertrag_2019.pdf",
+      "kind": "pdf",
+      "title": "Dreiseitige Vereinbarung – Wechsel von Jonas Heller",
+      "date": "2019-09-20",
+      "sender": "Rheinbogen Automation Holding SE und Rheinbogen Automation GmbH\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Jonas Heller, Personalnummer K-0049\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Dreiseitige Vereinbarung – Wechsel von Jonas Heller",
+      "body": [
+        "1 Wechsel des Arbeitsverhältnisses",
+        "Das Arbeitsverhältnis von Jonas Heller mit der Holding endet im gegenseitigen Einvernehmen am 30. September 2019. Mit Wirkung zum 1. Oktober 2019 wird es bei der Automation GmbH zu den im beigefügten Arbeitsvertrag genannten Bedingungen fortgesetzt. Die bisherige Betriebszugehörigkeit seit dem 1. Februar 2001 wird für Kündigungsfrist und Jubiläum berücksichtigt.",
+        "2 Betriebliche Altersversorgung",
+        "Die bis zum Wechsel bei der Holding erteilte Direktzusage wird hinsichtlich der bis zum 30. September 2019 erdienten Dienstzeit bei der Holding fortgeführt. Der dafür ausgewiesene Jahresrentenbetrag beträgt 4.860 EUR nach dem seinerzeitigen Berechnungsstand. Eine abschließende Festschreibung der nach der Altordnung vorgesehenen Entgeltbezüge ist hiermit nicht vereinbart. Für Beschäftigungszeiten bei der Automation GmbH erfolgt eine neue Aufnahme in den Beitragsplan 2017.",
+        "3 Abgrenzung",
+        "Die Automation GmbH übernimmt durch diese Vereinbarung nicht ausdrücklich die Schuldnerstellung der Holding für den Altteil. Sie stellt der Holding die zur Berechnung benötigten Entgeltdaten zur Verfügung. Eine Abgeltung oder Auszahlung des Altteils wird nicht vereinbart. Beide Zusageteile werden in der jährlichen Auskunft getrennt ausgewiesen.",
+        "4 Dokumentation",
+        "Jonas Heller erhält eine Ausfertigung dieser Vereinbarung. Beide Personalabteilungen nehmen sie zu ihrer Akte. Die Umstellung der Personalnummer darf nicht zur Löschung der alten Versorgungszuordnung führen.",
+        "Unterzeichnet: Jonas Heller, Eva Sandner für die Holding und Karim Berg für die Automation GmbH, 20. September 2019."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "13",
+      "path": "Grundakte/13_Kaeufer_Datenfrage.eml",
+      "kind": "eml",
+      "title": "Fehlende Altzusagen der zwölf Wechselpersonen",
+      "date": "2026-10-16",
+      "sender": "Nordfeld Due Diligence <dd@nordfeld.example>",
+      "recipient": "HR Rheinbogen <hr@rheinbogen-automation.example>",
+      "subject": "Fehlende Altzusagen der zwölf Wechselpersonen",
+      "body": [
+        "In der Datenraumliste steht für zwölf Personen nur der Beitragsplan 2017. In den Personalkostenunterlagen finden wir aber Zahlungen an die Holding mit dem Text „Altversorgung“. Bitte liefern Sie die zugrunde liegenden Wechselvereinbarungen und bestätigen Sie, ob der Wert von 46,8 Mio. EUR diese Teile enthält. Wir behandeln das Fehlen einer PDF nicht als Beleg, dass keine Verpflichtung besteht.",
+        "Unser Preisblatt zieht 28 Mio. EUR Sicherungsvermögen ab. Bitte bestätigen Sie außerdem, ob darin Vermögen für die Holding-Altteile steckt. Eine Zahl, die beide Bestände umfasst, kann nicht unbesehen dem Kaufobjekt zugerechnet werden. Bis zur Klärung bleibt die Pensionsgarantie in unserem Vertragsentwurf offen."
+      ],
+      "attachments": [],
+      "from_email": "dd@nordfeld.example",
+      "to_email": "hr@rheinbogen-automation.example"
+    },
+    {
+      "id": "14",
+      "path": "Grundakte/14_Trust_Antwort.pdf",
+      "kind": "pdf",
+      "title": "Übertragung des Sicherungsvermögens – Angaben fehlen",
+      "date": "2026-10-17",
+      "sender": "Rheinbogen Pension Trust e.V.\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Übertragung des Sicherungsvermögens – Angaben fehlen",
+      "body": [
+        "Sehr geehrte Frau Sandner,",
+        "wir haben den geplanten Carve-out zur Kenntnis genommen. Eine Zustimmung zur Entnahme oder Übertragung von 28 Mio. EUR liegt nicht vor. Unser Vermögensbericht ist keine Transaktionsfreigabe. Bitte benennen Sie zunächst die gewählte Struktur und den jeweils betroffenen Schuldner der Versorgungsansprüche.",
+        "Das aktuelle Teilvermögensverzeichnis enthält 25,6 Mio. EUR für Zusagen der operativen Gesellschaft und 2,4 Mio. EUR für erfasste Holding-Altteile der zwölf Wechselpersonen. Bei einem Anteilskauf kann ein Teilvermögen weiter bestehen; bei einer Übertragung von Betriebsmitteln sind die Zuordnung und die Fortführung der Sicherung gesondert zu dokumentieren. Wir benötigen die beabsichtigten vertraglichen Erklärungen und einen Abgleich der Begünstigtenlisten. Eine prozentuale Aufteilung nur nach Kopfzahl akzeptieren wir nicht.",
+        "Sabine Renne, Geschäftsführerin."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "15",
+      "path": "Grundakte/15_Treasury_Kaufpreis.eml",
+      "kind": "eml",
+      "title": "Preisblatt v 3 – 28 Mio. nicht als bereits verfügbar behandeln",
+      "date": "2026-10-18",
+      "sender": "Treasury <treasury@rheinbogen-automation.example>",
+      "recipient": "Transaktionsteam <deal@rheinbogen-automation.example>",
+      "subject": "Preisblatt v 3 – 28 Mio. nicht als bereits verfügbar behandeln",
+      "body": [
+        "Im Preisblatt v 3 werden 28 Mio. EUR vom Verpflichtungswert abgezogen. Das war eine wirtschaftliche Annahme und keine Zusage des Trusts. Nach dessen Mitteilung hängen 2,4 Mio. EUR mit Holding-Altteilen zusammen. Bitte rechnen Sie eine zusätzliche Variante mit nur 25,6 Mio. EUR zugeordnetem Vermögen.",
+        "Die 18,8 Mio. EUR Differenz im Term Sheet und die 21,2 Mio. EUR bei geringerem Vermögensansatz sind keine zwei verschiedenen versicherungsmathematischen Verpflichtungen, sondern zwei Preisannahmen. Ob 46,8 Mio. EUR überhaupt der richtige Verpflichtungskreis ist, bleibt ebenfalls offen. Bitte die beiden Fragen nicht in einer einzigen Korrekturzeile verstecken."
+      ],
+      "attachments": [],
+      "from_email": "treasury@rheinbogen-automation.example",
+      "to_email": "deal@rheinbogen-automation.example"
+    },
+    {
+      "id": "16",
+      "path": "Grundakte/16_BR_Anfrage.pdf",
+      "kind": "pdf",
+      "title": "Information zur geplanten Veräußerung",
+      "date": "2026-10-19",
+      "sender": "Betriebsrat Rheinbogen Automation GmbH\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Geschäftsführung\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Information zur geplanten Veräußerung",
+      "body": [
+        "Sehr geehrter Herr Berg,",
+        "Beschäftigte haben in der Kantine von einem „Verkauf der Pensionen“ gehört. Bitte stellen Sie klar, welche Struktur überhaupt geplant ist. Uns liegt lediglich ein Foliensatz mit den Begriffen Share Deal und Asset Deal vor. Eine Erklärung, dass alle Versorgungen unverändert „mitgehen“, lässt sich daraus nicht ableiten.",
+        "Wir verlangen eine verständliche Darstellung der betroffenen Arbeitgeber und Personengruppen, der bisherigen Zusagen und der geplanten Verwaltung. Besonders die zwölf aus der Holding gewechselten Personen erhalten widersprüchliche Jahresinformationen. Bitte führen Sie uns nicht nur eine aggregierte Barwertzahl vor. Wir schlagen ein Informationsgespräch am 28. Oktober vor. Eine Zustimmung zu Vertragsänderungen ist damit nicht erklärt.",
+        "Lea Küppers, Betriebsratsvorsitzende."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "17",
+      "path": "Grundakte/17_Personalgespraech_Heller.docx",
+      "kind": "docx",
+      "title": "Gesprächsnotiz Jonas Heller",
+      "date": "2026-10-20",
+      "sender": "HR Rheinbogen Automation\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Personalakte K-0049\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Gesprächsnotiz Jonas Heller",
+      "body": [
+        "Jonas Heller berichtet, dass ihm beim Wechsel 2019 ausdrücklich zwei Versorgungsbestandteile erklärt worden seien. Die letzte Jahresinformation des operativen Arbeitgebers zeige nur die Beiträge seit 2019. Eine gesonderte Information der Holding habe er 2024 erhalten, 2025 aber nicht gefunden. Er habe nie einer Auszahlung oder einem Verzicht zugestimmt.",
+        "Heller legt den von drei Parteien unterzeichneten Wechselvertrag vor. Sein heutiges Jahresfestgehalt beträgt 88.000 EUR. Die Angabe 4.860 EUR im Vertrag versteht er als damaligen Berechnungsstand, nicht als unveränderlichen Endbetrag. Die Personalverwaltung nimmt diese Auffassung auf, trifft jedoch keine rechtliche Festlegung. Die Entgeltübermittlung an die Holding wurde nach einem Personalsoftwarewechsel im Januar 2025 unterbrochen.",
+        "HR sagt die Nachlieferung des Schnittstellenprotokolls zu. Der neue Käufer wurde bisher nicht bevollmächtigt, gegenüber Heller eine verbindliche Rentenauskunft zu erteilen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "18",
+      "path": "Grundakte/18_Schnittstellenprotokoll.txt",
+      "kind": "txt",
+      "title": "Payroll-Schnittstelle Holding – Ereignisprotokoll",
+      "date": "2026-10-20",
+      "sender": "IT-Payroll Rheinbogen\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Projekt KANTE\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Payroll-Schnittstelle Holding – Ereignisprotokoll",
+      "body": [
+        "02.01.2025, 07:12: Import neuer Personalnummern erfolgreich.",
+        "02.01.2025, 07:18: Zwölf Datensätze ohne gültiges Zielkennzeichen ALT-HOLDING. Export in Fehlerwarteschlange. Beitragsplan 2017 weiterhin verarbeitet.",
+        "03.02.2025: Ticket an HR erstellt. Betroffene IDs K-0049 bis K-0060.",
+        "18.02.2025: Ticket auf „erledigt“ gesetzt, weil monatlicher Versicherungsbeitrag erfolgreich lief. Kein Nachweis eines erneuten Altversorgungs-Exports im Ticket.",
+        "20.10.2026: Rekonstruktion aus Protokollarchiv durch IT. Der Status „erledigt“ bezieht sich nach dem Kommentar auf den Beitragslauf, nicht auf die fehlende Entgeltmeldung an die Holding."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "19",
+      "path": "Grundakte/19_Kaeufer_Versicherungsangebot.pdf",
+      "kind": "pdf",
+      "title": "Anfrage zur Fortführung der Direktversicherungen",
+      "date": "2026-10-21",
+      "sender": "Morgenrhein Lebensversicherung AG, Rheinstraße 51, 53113 Bonn",
+      "recipient": "Nordfeld Industries GmbH\nWerftstraße 9\n28195 Bremen",
+      "subject": "Anfrage zur Fortführung der Direktversicherungen",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "wir können die bestehende Vertragsverwaltung grundsätzlich weiterführen, benötigen aber die endgültige Transaktionsstruktur. Ein Wechsel des Anteilseigners ist in unserer Verwaltung anders zu erfassen als ein Wechsel des Versicherungsnehmers. Vor einer Änderung sind Vertragsnummern, versicherte Personen, Bezugsrechte und Erklärungsbefugnisse abzugleichen.",
+        "Unsere Verwaltungsgebühr für den hier angefragten einmaligen Migrationslauf beträgt nach aktuellem Angebot 24.000 EUR netto. Das Angebot umfasst einen Probelauf, eine Fehlerliste und einen produktiven Lauf nach Freigabe. Eine arbeitsrechtliche Enthaftung oder steuerliche Unbedenklichkeitsbestätigung ist nicht Bestandteil unseres Angebots. Garantierte Leistungen bereits bestehender Verträge werden durch die bloße Migration nicht neu kalkuliert.",
+        "Das Angebot gilt bis zum 30. November 2026. Für weitere Vertragsänderungen erstellen wir nach Vorlage der konkreten Erklärungen ein gesondertes Angebot."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "20",
+      "path": "Grundakte/20_TSA_Administration.docx",
+      "kind": "docx",
+      "title": "Übergangsservicevertrag Pensionsadministration – Entwurf",
+      "date": "2026-10-22",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Nordfeld Industries GmbH\nWerftstraße 9\n28195 Bremen",
+      "subject": "Übergangsservicevertrag Pensionsadministration – Entwurf",
+      "body": [
+        "1 Leistungsumfang",
+        "Die Holding soll für sechs Monate nach Closing die technische Erfassung, Datenübermittlung und Vorbereitung der monatlichen Zahlungen für die im Übergabeverzeichnis bezeichneten Zusagen übernehmen. Die Verarbeitung erfolgt nach den vom jeweiligen Arbeitgeber freigegebenen Regeln. Die Dienstleisterin entscheidet nicht eigenständig über streitige Leistungsansprüche oder eine Änderung der Zusage.",
+        "2 Daten und Zuständigkeit",
+        "Der Auftraggeber benennt eine fachlich verantwortliche Person und stellt die verbindlichen Zusagetexte zur Verfügung. Die Dienstleisterin meldet Abweichungen, fehlende Angaben und nicht zuordenbare Personen innerhalb von zwei Arbeitstagen. Die vorhandenen Rohdaten bleiben mit Versionsstand erhalten. Eine Korrektur ist mit Quelle, Datum und Freigabe zu protokollieren.",
+        "3 Vergütung",
+        "Die monatliche Vergütung beträgt 9.500 EUR netto. Hinzu kommt einmalig 15.000 EUR netto für Einrichtung, Berechtigungsprüfung und Testlauf. Das Gesamtentgelt für sechs Monate beträgt 72.000 EUR netto. Zusätzliche Rechtsberatung, versicherungsmathematische Bewertung und die Migration in ein neues System sind nicht eingeschlossen.",
+        "4 Kontrolle und Übergabe",
+        "Jeder Zahlungsentwurf wird mit den Stammdaten und dem freigegebenen Rentenbescheid abgeglichen. Der Auftraggeber gibt die Zahlung frei. Bei Ende der Laufzeit werden Daten, Änderungsprotokolle und offene Klärungsposten in einem vereinbarten maschinenlesbaren Format übergeben. Bis zur bestätigten Übernahme bleibt ein gemeinsamer Notfallkontakt erreichbar.",
+        "5 Vertraulichkeit und Beendigung",
+        "Zugriffe werden auf die erforderlichen Beschäftigten beschränkt. Die datenschutzrechtlichen Rollen und erforderlichen Vereinbarungen werden vor Beginn verbindlich festgelegt. Ein technisch möglicher Zugriff ist keine allgemeine Freigabe für andere Konzernzwecke. Bei ausbleibendem Closing beginnt dieser Vertrag nicht. Es handelt sich um eine noch nicht unterzeichnete Verhandlungsfassung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "21",
+      "path": "Grundakte/21_Lenkungskreis.docx",
+      "kind": "docx",
+      "title": "Lenkungskreis Projekt KANTE – Stand vor Strukturentscheidung",
+      "date": "2026-10-23",
+      "sender": "Projektsekretariat\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Vorstand und Projektteam\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Lenkungskreis Projekt KANTE – Stand vor Strukturentscheidung",
+      "body": [
+        "Die Finanzleitung will den Anteilskauf bevorzugen, weil die operative Gesellschaft als Arbeitgeberin bestehen bleiben könnte. Der Käufer hält die Alternative Betriebsübertragung offen. HR bestätigt, dass die zwölf Holding-Altteile im Personalauszug fehlen. Der Trust hat keinen Mittelabfluss genehmigt.",
+        "Beschlossen wird ausschließlich, beide Varianten getrennt zu rechnen und die Zuordnung der zwölf Personen vor der nächsten Preisrunde zu klären. Es wird kein Kaufvertrag freigegeben. Die Holding-Garantie soll im Vertragsvergleich ausdrücklich auftauchen; der Verkäufer hatte sie in der bisherigen Liste „Konzernverflechtungen“ als erledigt markiert, weil keine Mittel angefordert wurden.",
+        "Nächste Schritte: Archivverträge bis 29. Oktober, aktualisierte Verpflichtungsabgrenzung bis 4. November, Gespräch mit dem Trust am 6. November. Das Personalteam darf noch keine Information versenden, nach der Nordfeld sämtliche Altansprüche schulde."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "22",
+      "path": "Grundakte/22_Teams_Closing.png",
+      "kind": "png",
+      "title": "Projektkanal – der Screenshot mit den grünen Haken",
+      "date": "2026-10-23",
+      "sender": "Projekt KANTE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Transaktionsteam\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Projektkanal – der Screenshot mit den grünen Haken",
+      "body": [
+        "14:02 | M&A – Können wir „CTA transfer confirmed“ grün setzen?",
+        "14:04 | Treasury – Nein. Wir haben einen Vermögensnachweis, keine Transferzustimmung.",
+        "14:06 | HR – Auch „all pensions mapped“ stimmt nicht. Zwölf Holding-Altteile fehlen.",
+        "14:09 | M&A – Ich ändere den Status auf offen und nehme beide Punkte in den nächsten Lenkungskreis.",
+        "14:12 | Recht – Bitte alte Präsentation archivieren, nicht still überschreiben."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "23",
+      "path": "Grundakte/23_Datenzugriff.pdf",
+      "kind": "pdf",
+      "title": "Vereinbarung zum kontrollierten Datenraumzugang",
+      "date": "2026-10-13",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Nordfeld Industries GmbH\nWerftstraße 9\n28195 Bremen",
+      "subject": "Vereinbarung zum kontrollierten Datenraumzugang",
+      "body": [
+        "1 Zulässiger Zweck",
+        "Die bereitgestellten Unterlagen dürfen ausschließlich zur Prüfung der geplanten Transaktion verwendet werden. Zugriff erhalten die namentlich benannten Mitglieder des Erwerberteams und dessen beauftragte Berater. Eine Weitergabe an operative Wettbewerbsabteilungen ist nicht gestattet. Personenbezogene Angaben werden soweit möglich durch Projektnummern ersetzt.",
+        "2 Zugriff und Rückfragen",
+        "Downloads werden protokolliert. Rückfragen zu Einzelpersonen werden über das Projektsekretariat gebündelt; Beschäftigte werden nicht unmittelbar kontaktiert. Bei einem erkennbar nicht erforderlichen personenbezogenen Dokument unterrichtet der Empfänger das Projektteam und verwendet es bis zur Klärung nicht weiter.",
+        "3 Ende des Verfahrens",
+        "Bei Abbruch der Transaktion werden Arbeitskopien nach abgestimmter Rückgabe- oder Löschungsregel behandelt; gesetzliche Aufbewahrungspflichten werden gesondert berücksichtigt. Das Recht zur Einsicht begründet weder eine Zustimmung zur Änderung von Versorgungen noch einen Anspruch auf Übertragung von Sicherungsvermögen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "24",
+      "path": "Fortsetzung/24_Archivnachlieferung.eml",
+      "kind": "eml",
+      "title": "Zwölf Altteile: fünf Verträge abweichend",
+      "date": "2026-10-29",
+      "sender": "Archiv Holding <archiv@rheinbogen-automation.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "Zwölf Altteile: fünf Verträge abweichend",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "wir haben alle zwölf Wechselvereinbarungen gefunden. Sieben entsprechen dem Vertrag Heller: Altteil verbleibt bei der Holding. Fünf enthalten eine zusätzliche Vereinbarung vom 30. September 2019, nach der die operative Gesellschaft im Innenverhältnis die Kosten trägt. Die Zusatzvereinbarung ist von den beiden Unternehmen unterschrieben, nicht von den Beschäftigten. Sie bezeichnet sich als „Kostenübernahme“.",
+        "Der vorliegende Gesamtwert von 46,8 Mio. EUR enthält nach Rückmeldung der Abschlussabteilung nur die unmittelbaren Zusagen der operativen Gesellschaft. Für die zwölf Holding-Altteile nennt deren interne Modellrechnung weitere 3,6 Mio. EUR. Diese Zahl ist ein gesonderter Planungswert, kein bestätigter Transferpreis. Die Zuordnung muss jetzt mit dem Treuhandvermögen von 2,4 Mio. EUR abgeglichen werden.",
+        "Bitte prüfen Sie die Originale und rechnen Sie nicht einfach alle Positionen auf den Kaufpreis auf, bevor die Transaktionsstruktur entschieden ist."
+      ],
+      "attachments": [
+        "Fortsetzung/25_Kostenuebernahme_2019.pdf",
+        "Fortsetzung/34_Holding_Altteile.csv"
+      ],
+      "from_email": "archiv@rheinbogen-automation.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "25",
+      "path": "Fortsetzung/25_Kostenuebernahme_2019.pdf",
+      "kind": "pdf",
+      "title": "Vereinbarung zwischen Holding und operativer Gesellschaft – fünf Altteile",
+      "date": "2019-09-30",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Rheinbogen Automation GmbH\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Vereinbarung zwischen Holding und operativer Gesellschaft – fünf Altteile",
+      "body": [
+        "1 Gegenstand",
+        "Für die fünf in der Anlage mit den Personalnummern K-0056 bis K-0060 bezeichneten Personen erstattet die Automation GmbH der Holding die aus den bis zum Wechsel bestehenden Zusagen tatsächlich zu zahlenden Versorgungsleistungen. Die Erstattung wird jährlich auf Basis der nachgewiesenen Zahlungen abgerechnet. Der in einer Konzernbewertung ausgewiesene Barwert ist keine sofort fällige Zahlung.",
+        "2 Verhältnis zu den Beschäftigten",
+        "Diese Vereinbarung wird allein zwischen den beiden Gesellschaften geschlossen. Sie enthält keine Erklärung der Beschäftigten und keine an diese gerichtete Mitteilung eines Schuldnerwechsels. Die Holding erteilt weiterhin die Auskünfte zum Altteil. Ob eine spätere Änderung der arbeitsrechtlichen Schuldnerstellung vorgenommen werden soll, bedarf einer gesonderten Prüfung und Vereinbarung.",
+        "3 Daten",
+        "Die operative Gesellschaft übermittelt die für die Altteilberechnung benötigten Entgeltdaten bis zum 31. Januar des Folgejahres. Fehler und fehlende Datensätze werden innerhalb von zehn Arbeitstagen geklärt. Das Jahresabrechnungsblatt weist die zugrunde liegenden Versorgungszahlungen einzeln aus.",
+        "Unterzeichnet am 30. September 2019: Eva Sandner und Karim Berg."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "26",
+      "path": "Fortsetzung/26_Kaeufer_Neue_Forderung.eml",
+      "kind": "eml",
+      "title": "Preisrunde – Sicherung und Haftung ausdrücklich verhandeln",
+      "date": "2026-11-04",
+      "sender": "Nordfeld Industries <deal@nordfeld.example>",
+      "recipient": "Rheinbogen Holding <deal@rheinbogen-automation.example>",
+      "subject": "Preisrunde – Sicherung und Haftung ausdrücklich verhandeln",
+      "body": [
+        "Sehr geehrte Frau Sandner,",
+        "wir halten unser Interesse am Anteilskauf aufrecht. Nach den Archivfunden erwarten wir jedoch einen vollständigen Überblick der zusätzlichen Kostenübernahmen und der Holding-Altteile. Die bisherige Zusage „46,8 Mio. vollständig“ können wir nicht akzeptieren, solange der Begriff vollständig nicht an einen klaren Verpflichtungskreis gebunden ist.",
+        "Bitte stellen Sie die Varianten einschließlich Fortführung der Holding-Garantie, Ersatzsicherung und Verwaltungsservice dar. Wir verlangen nicht die ungeprüfte Zusicherung, jede Form einer wirtschaftlichen Kostenübernahme befreie einen Arbeitgeber. Wir benötigen eine praktisch vollziehbare Struktur mit klarer Zuständigkeit gegenüber den Berechtigten.",
+        "Unser Kaufpreismodell bleibt vorläufig. Die ursprünglich abgezogenen 28 Mio. EUR Sicherungsvermögen dürfen nur mit dem Bestand verrechnet werden, für den sie tatsächlich gebunden bleiben. Die nächste Preisrunde findet am 12. November statt."
+      ],
+      "attachments": [],
+      "from_email": "deal@nordfeld.example",
+      "to_email": "deal@rheinbogen-automation.example"
+    },
+    {
+      "id": "27",
+      "path": "Fortsetzung/27_Trust_Gespraechsnotiz.docx",
+      "kind": "docx",
+      "title": "Telefonat mit der Treuhänderin – Fortführung statt Entnahme",
+      "date": "2026-11-06",
+      "sender": "Rheinbogen Treasury\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Projekt KANTE\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Telefonat mit der Treuhänderin – Fortführung statt Entnahme",
+      "body": [
+        "Sabine Renne erläutert, dass der Trust keine Transaktion verbieten wolle, aber eine belegte Zuordnung brauche. Bei unverändertem Arbeitgeber könne das vorhandene Teilvermögen grundsätzlich weiterverwaltet werden; Änderungen der Kontrolle und der Informationswege müssten dennoch vertraglich umgesetzt werden. Eine Auskehrung auf ein gewöhnliches Verkäuferkonto sei etwas anderes als die Fortführung einer Sicherung.",
+        "Die 2,4 Mio. EUR für Holding-Altteile würden nicht automatisch der operativen Gesellschaft zugeordnet, nur weil die zwölf Personen dort arbeiten. Die fünf internen Kostenübernahmen müssten im Zusammenhang mit den tatsächlichen Zusagen gelesen werden. Renne fordert einen gemeinsamen Vorschlag von Recht, HR und Treasury mit Bestand, Struktur und vorgesehenen Erklärungen.",
+        "Es wird keine Zustimmung protokolliert. Der Trust wird nach Erhalt eines vollständigen Vorschlags innerhalb von zehn Arbeitstagen Stellung nehmen. Der im Projektkalender eingetragene Closing-Termin wird von ihr nicht bestätigt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "30",
+      "path": "Grundakte/30_CTA_Zuordnung.csv",
+      "kind": "csv",
+      "title": "Treuhandvermögen nach Sicherungskreis",
+      "date": "2026-10-20",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Projektteam\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Treuhandvermögen nach Sicherungskreis",
+      "body": [
+        "Sicherungskreis;Liquiditaet_EUR;Anleihen_EUR;Fonds_EUR;Gesamt_EUR\r\nOperative Zusagen;1600000;18000000;6000000;25600000\r\nHolding-Altteile;400000;1500000;500000;2400000"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Sicherungskreis",
+          "Liquiditaet_EUR",
+          "Anleihen_EUR",
+          "Fonds_EUR",
+          "Gesamt_EUR"
+        ],
+        "rows": [
+          [
+            "Operative Zusagen",
+            1600000,
+            18000000,
+            6000000,
+            25600000
+          ],
+          [
+            "Holding-Altteile",
+            400000,
+            1500000,
+            500000,
+            2400000
+          ]
+        ]
+      },
+      "raw": "Sicherungskreis;Liquiditaet_EUR;Anleihen_EUR;Fonds_EUR;Gesamt_EUR\r\nOperative Zusagen;1600000;18000000;6000000;25600000\r\nHolding-Altteile;400000;1500000;500000;2400000\r\n"
+    },
+    {
+      "id": "31",
+      "path": "Grundakte/31_Versicherungsbeitraege.csv",
+      "kind": "csv",
+      "title": "Monatsbeiträge ausgewählter Personen",
+      "date": "2026-10-20",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Projektteam\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Monatsbeiträge ausgewählter Personen",
+      "body": [
+        "Person;Monat;Jahresfestgehalt_EUR;Beitragssatz;Monatsbeitrag_EUR\r\nK-0027;2026-09;60550;0.035;176.6\r\nK-0028;2026-09;61200;0.035;178.5\r\nK-0029;2026-09;61850;0.035;180.4\r\nK-0030;2026-09;62500;0.035;182.29\r\nK-0031;2026-09;63150;0.035;184.19\r\nK-0032;2026-09;63800;0.035;186.08\r\nK-0033;2026-09;64450;0.035;187.98\r\nK-0034;2026-09;65100;0.035;189.88\r\nK-0035;2026-09;65750;0.035;191.77\r\nK-0036;2026-09;66400;0.035;193.67\r\nK-0037;2026-09;67050;0.035;195.56\r\nK-0038;2026-09;67700;0.035;197.46\r\nK-0039;2026-09;68350;0.035;199.35\r\nK-0040;2026-09;69000;0.035;201.25\r\nK-0041;2026-09;69650;0.035;203.15\r\nK-0042;2026-09;70300;0.035;205.04\r\nK-0043;2026-09;70950;0.035;206.94\r\nK-0044;2026-09;71600;0.035;208.83\r\nK-0045;2026-09;72250;0.035;210.73\r\nK-0046;2026-09;72900;0.035;212.63\r\nK-0047;2026-09;73550;0.035;214.52\r\nK-0048;2026-09;74200;0.035;216.42\r\nK-0049;2026-09;88000;0.035;256.67\r\nK-0050;2026-09;75500;0.035;220.21\r\nK-0051;2026-09;76150;0.035;222.1\r\nK-0052;2026-09;76800;0.035;224.0\r\nK-0053;2026-09;77450;0.035;225.9\r\nK-0054;2026-09;78100;0.035;227.79\r\nK-0055;2026-09;78750;0.035;229.69\r\nK-0056;2026-09;79400;0.035;231.58\r\nK-0057;2026-09;80050;0.035;233.48\r\nK-0058;2026-09;80700;0.035;235.38\r\nK-0059;2026-09;81350;0.035;237.27\r\nK-0060;2026-09;82000;0.035;239.17\r\n"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Person",
+          "Monat",
+          "Jahresfestgehalt_EUR",
+          "Beitragssatz",
+          "Monatsbeitrag_EUR"
+        ],
+        "rows": [
+          [
+            "K-0027",
+            "2026-09",
+            60550,
+            0.035,
+            176.6
+          ],
+          [
+            "K-0028",
+            "2026-09",
+            61200,
+            0.035,
+            178.5
+          ],
+          [
+            "K-0029",
+            "2026-09",
+            61850,
+            0.035,
+            180.4
+          ],
+          [
+            "K-0030",
+            "2026-09",
+            62500,
+            0.035,
+            182.29
+          ],
+          [
+            "K-0031",
+            "2026-09",
+            63150,
+            0.035,
+            184.19
+          ],
+          [
+            "K-0032",
+            "2026-09",
+            63800,
+            0.035,
+            186.08
+          ],
+          [
+            "K-0033",
+            "2026-09",
+            64450,
+            0.035,
+            187.98
+          ],
+          [
+            "K-0034",
+            "2026-09",
+            65100,
+            0.035,
+            189.88
+          ],
+          [
+            "K-0035",
+            "2026-09",
+            65750,
+            0.035,
+            191.77
+          ],
+          [
+            "K-0036",
+            "2026-09",
+            66400,
+            0.035,
+            193.67
+          ],
+          [
+            "K-0037",
+            "2026-09",
+            67050,
+            0.035,
+            195.56
+          ],
+          [
+            "K-0038",
+            "2026-09",
+            67700,
+            0.035,
+            197.46
+          ],
+          [
+            "K-0039",
+            "2026-09",
+            68350,
+            0.035,
+            199.35
+          ],
+          [
+            "K-0040",
+            "2026-09",
+            69000,
+            0.035,
+            201.25
+          ],
+          [
+            "K-0041",
+            "2026-09",
+            69650,
+            0.035,
+            203.15
+          ],
+          [
+            "K-0042",
+            "2026-09",
+            70300,
+            0.035,
+            205.04
+          ],
+          [
+            "K-0043",
+            "2026-09",
+            70950,
+            0.035,
+            206.94
+          ],
+          [
+            "K-0044",
+            "2026-09",
+            71600,
+            0.035,
+            208.83
+          ],
+          [
+            "K-0045",
+            "2026-09",
+            72250,
+            0.035,
+            210.73
+          ],
+          [
+            "K-0046",
+            "2026-09",
+            72900,
+            0.035,
+            212.63
+          ],
+          [
+            "K-0047",
+            "2026-09",
+            73550,
+            0.035,
+            214.52
+          ],
+          [
+            "K-0048",
+            "2026-09",
+            74200,
+            0.035,
+            216.42
+          ],
+          [
+            "K-0049",
+            "2026-09",
+            88000,
+            0.035,
+            256.67
+          ],
+          [
+            "K-0050",
+            "2026-09",
+            75500,
+            0.035,
+            220.21
+          ],
+          [
+            "K-0051",
+            "2026-09",
+            76150,
+            0.035,
+            222.1
+          ],
+          [
+            "K-0052",
+            "2026-09",
+            76800,
+            0.035,
+            224.0
+          ],
+          [
+            "K-0053",
+            "2026-09",
+            77450,
+            0.035,
+            225.9
+          ],
+          [
+            "K-0054",
+            "2026-09",
+            78100,
+            0.035,
+            227.79
+          ],
+          [
+            "K-0055",
+            "2026-09",
+            78750,
+            0.035,
+            229.69
+          ],
+          [
+            "K-0056",
+            "2026-09",
+            79400,
+            0.035,
+            231.58
+          ],
+          [
+            "K-0057",
+            "2026-09",
+            80050,
+            0.035,
+            233.48
+          ],
+          [
+            "K-0058",
+            "2026-09",
+            80700,
+            0.035,
+            235.38
+          ],
+          [
+            "K-0059",
+            "2026-09",
+            81350,
+            0.035,
+            237.27
+          ],
+          [
+            "K-0060",
+            "2026-09",
+            82000,
+            0.035,
+            239.17
+          ]
+        ]
+      },
+      "raw": "Person;Monat;Jahresfestgehalt_EUR;Beitragssatz;Monatsbeitrag_EUR\r\nK-0027;2026-09;60550;0.035;176.6\r\nK-0028;2026-09;61200;0.035;178.5\r\nK-0029;2026-09;61850;0.035;180.4\r\nK-0030;2026-09;62500;0.035;182.29\r\nK-0031;2026-09;63150;0.035;184.19\r\nK-0032;2026-09;63800;0.035;186.08\r\nK-0033;2026-09;64450;0.035;187.98\r\nK-0034;2026-09;65100;0.035;189.88\r\nK-0035;2026-09;65750;0.035;191.77\r\nK-0036;2026-09;66400;0.035;193.67\r\nK-0037;2026-09;67050;0.035;195.56\r\nK-0038;2026-09;67700;0.035;197.46\r\nK-0039;2026-09;68350;0.035;199.35\r\nK-0040;2026-09;69000;0.035;201.25\r\nK-0041;2026-09;69650;0.035;203.15\r\nK-0042;2026-09;70300;0.035;205.04\r\nK-0043;2026-09;70950;0.035;206.94\r\nK-0044;2026-09;71600;0.035;208.83\r\nK-0045;2026-09;72250;0.035;210.73\r\nK-0046;2026-09;72900;0.035;212.63\r\nK-0047;2026-09;73550;0.035;214.52\r\nK-0048;2026-09;74200;0.035;216.42\r\nK-0049;2026-09;88000;0.035;256.67\r\nK-0050;2026-09;75500;0.035;220.21\r\nK-0051;2026-09;76150;0.035;222.1\r\nK-0052;2026-09;76800;0.035;224.0\r\nK-0053;2026-09;77450;0.035;225.9\r\nK-0054;2026-09;78100;0.035;227.79\r\nK-0055;2026-09;78750;0.035;229.69\r\nK-0056;2026-09;79400;0.035;231.58\r\nK-0057;2026-09;80050;0.035;233.48\r\nK-0058;2026-09;80700;0.035;235.38\r\nK-0059;2026-09;81350;0.035;237.27\r\nK-0060;2026-09;82000;0.035;239.17\r\n"
+    },
+    {
+      "id": "33",
+      "path": "Grundakte/33_Datenraum_Status.png",
+      "kind": "png",
+      "title": "Datenraumstatus KANTE",
+      "date": "2026-10-23",
+      "sender": "Projektsekretariat\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Transaktionsteam\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Datenraumstatus KANTE",
+      "body": [
+        "Personalbestand 842 – Gesamtzählung bestätigt",
+        "Detailauszug 60 – keine vollständige Garantieanlage",
+        "CTA 28 Mio. – Vermögensnachweis vorhanden, Übertragung offen",
+        "Holding-Garantie – Vertrag gefunden, Ablösung nicht vereinbart",
+        "Zwölf Altteile – Archivsuche bis 29.10.",
+        "Vertragsstruktur – zwei Entwürfe, keine Unterschrift"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "34",
+      "path": "Fortsetzung/34_Holding_Altteile.csv",
+      "kind": "csv",
+      "title": "Nachlieferung zwölf Altteile",
+      "date": "2026-10-29",
+      "sender": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Projektteam\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Nachlieferung zwölf Altteile",
+      "body": [
+        "Person;Planungswert_EUR;CTA_Zuordnung_EUR;Interne_Kostenuebernahme;Vertrag\r\nK-0049;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0050;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0051;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0052;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0053;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0054;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0055;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0056;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0057;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0058;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0059;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0060;300000;200000;ja;Kostenübernahme zusätzlich"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Person",
+          "Planungswert_EUR",
+          "CTA_Zuordnung_EUR",
+          "Interne_Kostenuebernahme",
+          "Vertrag"
+        ],
+        "rows": [
+          [
+            "K-0049",
+            300000,
+            200000,
+            "nein",
+            "Wechselvertrag Altteil Holding"
+          ],
+          [
+            "K-0050",
+            300000,
+            200000,
+            "nein",
+            "Wechselvertrag Altteil Holding"
+          ],
+          [
+            "K-0051",
+            300000,
+            200000,
+            "nein",
+            "Wechselvertrag Altteil Holding"
+          ],
+          [
+            "K-0052",
+            300000,
+            200000,
+            "nein",
+            "Wechselvertrag Altteil Holding"
+          ],
+          [
+            "K-0053",
+            300000,
+            200000,
+            "nein",
+            "Wechselvertrag Altteil Holding"
+          ],
+          [
+            "K-0054",
+            300000,
+            200000,
+            "nein",
+            "Wechselvertrag Altteil Holding"
+          ],
+          [
+            "K-0055",
+            300000,
+            200000,
+            "nein",
+            "Wechselvertrag Altteil Holding"
+          ],
+          [
+            "K-0056",
+            300000,
+            200000,
+            "ja",
+            "Kostenübernahme zusätzlich"
+          ],
+          [
+            "K-0057",
+            300000,
+            200000,
+            "ja",
+            "Kostenübernahme zusätzlich"
+          ],
+          [
+            "K-0058",
+            300000,
+            200000,
+            "ja",
+            "Kostenübernahme zusätzlich"
+          ],
+          [
+            "K-0059",
+            300000,
+            200000,
+            "ja",
+            "Kostenübernahme zusätzlich"
+          ],
+          [
+            "K-0060",
+            300000,
+            200000,
+            "ja",
+            "Kostenübernahme zusätzlich"
+          ]
+        ]
+      },
+      "raw": "Person;Planungswert_EUR;CTA_Zuordnung_EUR;Interne_Kostenuebernahme;Vertrag\r\nK-0049;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0050;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0051;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0052;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0053;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0054;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0055;300000;200000;nein;Wechselvertrag Altteil Holding\r\nK-0056;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0057;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0058;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0059;300000;200000;ja;Kostenübernahme zusätzlich\r\nK-0060;300000;200000;ja;Kostenübernahme zusätzlich\r\n"
+    },
+    {
+      "id": "37",
+      "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
+      "kind": "pdf",
+      "title": "Vergütungsvereinbarung – Sichtungs- und Strukturierungsphase",
+      "date": "2026-10-13",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "Rheinbogen Automation Holding SE\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Vergütungsvereinbarung – Sichtungs- und Strukturierungsphase",
+      "body": [
+        "1 Vereinbarte Vergütung",
+        "Die Parteien vereinbaren für anwaltliche Leistungen in dem mit der Mandatsvereinbarung bezeichneten Projekt eine Vergütung nach Zeitaufwand. Der Stundensatz beträgt für Partner 420 EUR netto und für angestellte Rechtsanwälte 290 EUR netto. Abgerechnet wird in Einheiten von sechs Minuten entsprechend der tatsächlich aufgewendeten Zeit. Reisezeit wird nur bei vorheriger Vereinbarung mit der Hälfte des jeweiligen Satzes berechnet. Umsatzsteuer wird in gesetzlicher Höhe zusätzlich ausgewiesen.",
+        "2 Budget und Nachweis",
+        "Für die erste Sichtungs- und Strukturierungsphase ist ein Planungsbudget von 110.000 EUR netto vereinbart. Es ist weder eine Pauschale noch eine Erlaubnis zur unbegrenzten Fortführung. Tätigkeiten werden mit Datum, Bearbeiter, Gegenstand und Dauer nachvollziehbar dokumentiert. Bei absehbarer Überschreitung um mehr als zehn Prozent informiert die Kanzlei vor weiteren nicht eilbedürftigen Arbeiten und holt eine Budgetentscheidung ein. Die Mandantin erhält monatlich einen Tätigkeitsnachweis und eine Rechnung.",
+        "3 Abgrenzung und Auslagen",
+        "Nicht enthalten sind externe Gutachter, notarielle oder gerichtliche Kosten und individuell beauftragte ausländische Beratung. Solche Kosten werden vor Beauftragung abgestimmt. Allgemeine Büro- und Kommunikationskosten sind in den Stundensätzen enthalten. Für gerichtliche Verfahren ist eine gesonderte Beauftragung erforderlich. Diese Vereinbarung betrifft ein außergerichtliches Beratungsmandat.",
+        "4 Hinweis und Fälligkeit",
+        "Die vereinbarte Vergütung kann von der gesetzlichen Vergütung abweichen. Ein etwaiger Kostenerstattungsanspruch gegen Dritte umfasst regelmäßig höchstens die nach den gesetzlichen Regeln erstattungsfähige Vergütung; die Mandantin kann daher einen Teil der vereinbarten Kosten selbst tragen. Rechnungen sind binnen 21 Kalendertagen nach Zugang zur Zahlung fällig. Bei Einwendungen teilen die Parteien die beanstandeten Positionen konkret mit.",
+        "Unterzeichnet für Rheinbogen Automation Holding SE: Geschäftsleitung. Unterzeichnet für Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels. Die Parteien erhalten jeweils eine Ausfertigung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "38",
+      "path": "Grundakte/38_Nachtrag_Schliessung_2016.pdf",
+      "kind": "pdf",
+      "title": "Nachtrag zur Versorgungsordnung 2009 – Neueintritte ab 2017",
+      "date": "2016-11-22",
+      "sender": "Rheinbogen Automation GmbH / Betriebsrat\nAm Werkbogen 14\n51373 Leverkusen",
+      "recipient": "Personalabteilung\nAm Werkbogen 14\n51373 Leverkusen",
+      "subject": "Nachtrag zur Versorgungsordnung 2009 – Neueintritte ab 2017",
+      "body": [
+        "1 Schließung für Neueintritte",
+        "Personen, deren Arbeitsverhältnis erstmals ab dem 1. Januar 2017 beginnt, werden nicht mehr in die Versorgungsordnung 2009 aufgenommen. Für sie soll die gesonderte Versorgungsordnung 2017 gelten. Bereits aufgenommene Beschäftigte bleiben in der bisherigen Ordnung; ihre künftig anrechenbare Dienstzeit und die darin geregelten Entgeltbezüge werden durch diesen Nachtrag nicht begrenzt.",
+        "2 Besondere Übernahmen",
+        "Bei späteren konzerninternen Wechseln ist schriftlich zu bestimmen, welche Zusage fortgeführt oder neu erteilt wird. Eine technische Zuordnung im Abrechnungssystem ersetzt diese Vereinbarung nicht. Vorhandene individuelle Bestätigungen werden zusammen mit diesem Nachtrag aufbewahrt.",
+        "3 Inkrafttreten",
+        "Dieser Nachtrag tritt am 1. Januar 2017 in Kraft. Im Übrigen bleibt die Versorgungsordnung vom 1. Januar 2009 unverändert. Unterzeichnet am 22. November 2016: Karim Berg für die Geschäftsführung; Lea Küppers für den Betriebsrat."
+      ],
+      "attachments": []
+    }
+  ],
+  "workbooks": [
+    {
+      "id": "28",
+      "path": "Grundakte/28_Personal_Detailauszug.xlsx",
+      "title": "60 ausgewählte Personalzuordnungen",
+      "sheets": [
+        {
+          "name": "Auszug_60",
+          "columns": [
+            "Person",
+            "Arbeitgeber",
+            "Status",
+            "Systemplan",
+            "Jahresfestgehalt_EUR",
+            "Historie",
+            "Pruefstatus"
+          ],
+          "rows": [
+            [
+              "K-0001",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              43650,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0002",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              44300,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0003",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              44950,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0004",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              45600,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0005",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              46250,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0006",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              46900,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0007",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              47550,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0008",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              48200,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0009",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              48850,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0010",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              49500,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0011",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              50150,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0012",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              50800,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0013",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              51450,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0014",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              52100,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0015",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              52750,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0016",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              53400,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0017",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              54050,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0018",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              54700,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0019",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              55350,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0020",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              56000,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0021",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              56650,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0022",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              57300,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0023",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              57950,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0024",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              58600,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0025",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              59250,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0026",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2009",
+              59900,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0027",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              60550,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0028",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              61200,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0029",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              61850,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0030",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              62500,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0031",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              63150,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0032",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              63800,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0033",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              64450,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0034",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              65100,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0035",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              65750,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0036",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              66400,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0037",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              67050,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0038",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              67700,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0039",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              68350,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0040",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              69000,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0041",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              69650,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0042",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              70300,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0043",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              70950,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0044",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              71600,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0045",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              72250,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0046",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              72900,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0047",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              73550,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0048",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              74200,
+              "Regulär",
+              "Verwaltungsstand"
+            ],
+            [
+              "K-0049",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              88000,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0050",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              75500,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0051",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              76150,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0052",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              76800,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0053",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              77450,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0054",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              78100,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0055",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              78750,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0056",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              79400,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0057",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              80050,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0058",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              80700,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0059",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              81350,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ],
+            [
+              "K-0060",
+              "Automation GmbH",
+              "Aktiv",
+              "Plan 2017",
+              82000,
+              "2019 Holding-Wechsel",
+              "Altteil unklar"
+            ]
+          ],
+          "formats": {
+            "Jahresfestgehalt_EUR": "currency"
+          }
+        },
+        {
+          "name": "Gesamtbestand",
+          "columns": [
+            "Status",
+            "Personen",
+            "Verpflichtungswert_EUR",
+            "Herkunft"
+          ],
+          "rows": [
+            [
+              "Aktiv",
+              842,
+              28600000,
+              "Gesamtbestandsmodell"
+            ],
+            [
+              "Unverfallbar ausgeschieden",
+              216,
+              6100000,
+              "Gesamtbestandsmodell"
+            ],
+            [
+              "Rentner",
+              318,
+              12100000,
+              "Gesamtbestandsmodell"
+            ],
+            [
+              "Gesamt",
+              "=SUM(B6:B8)",
+              "=SUM(C6:C8)",
+              "keine Hochrechnung aus Detailauszug"
+            ]
+          ],
+          "formats": {
+            "Verpflichtungswert_EUR": "currency"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Gesamtbestand",
+          "cell": "B9",
+          "expected": 1376
+        },
+        {
+          "sheet": "Gesamtbestand",
+          "cell": "C9",
+          "expected": 46800000
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "path": "Grundakte/29_Preisbruecke.xlsx",
+      "title": "Vorläufige pensionsbezogene Preisbrücke",
+      "sheets": [
+        {
+          "name": "Szenarien",
+          "columns": [
+            "Variante",
+            "Unternehmenswert_EUR",
+            "Verpflichtung_EUR",
+            "Sicherungsvermoegen_EUR",
+            "Nettoanpassung_EUR",
+            "Wert_vor_sonstigen_Anpassungen_EUR"
+          ],
+          "rows": [
+            [
+              "Term Sheet",
+              92000000,
+              46800000,
+              28000000,
+              "=C6-D6",
+              "=B6-E6"
+            ],
+            [
+              "Vermögen operative Zusagen",
+              92000000,
+              46800000,
+              25600000,
+              "=C7-D7",
+              "=B7-E7"
+            ]
+          ],
+          "formats": {
+            "Unternehmenswert_EUR": "currency",
+            "Verpflichtung_EUR": "currency",
+            "Sicherungsvermoegen_EUR": "currency",
+            "Nettoanpassung_EUR": "currency",
+            "Wert_vor_sonstigen_Anpassungen_EUR": "currency"
+          }
+        },
+        {
+          "name": "Service",
+          "columns": [
+            "Leistung",
+            "Monate",
+            "Monatsbetrag_EUR",
+            "Einmalbetrag_EUR",
+            "Gesamt_EUR"
+          ],
+          "rows": [
+            [
+              "Übergangsadministration",
+              6,
+              9500,
+              15000,
+              "=B6*C6+D6"
+            ]
+          ],
+          "formats": {
+            "Monatsbetrag_EUR": "currency",
+            "Einmalbetrag_EUR": "currency",
+            "Gesamt_EUR": "currency"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Szenarien",
+          "cell": "E6",
+          "expected": 18800000
+        },
+        {
+          "sheet": "Szenarien",
+          "cell": "F6",
+          "expected": 73200000
+        },
+        {
+          "sheet": "Szenarien",
+          "cell": "E7",
+          "expected": 21200000
+        },
+        {
+          "sheet": "Service",
+          "cell": "E6",
+          "expected": 72000
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "id": "32",
+      "path": "Grundakte/32_Lenkungskreis.pptx",
+      "title": "Projekt KANTE – zwei Transaktionswege",
+      "slides": [
+        {
+          "title": "Geschäft und Bestand",
+          "bullets": [
+            "842 aktive Beschäftigte, 216 Ausgeschiedene, 318 Rentner",
+            "Anteilskauf oder Betriebsübertragung noch offen",
+            "92 Mio. EUR indikativer Unternehmenswert"
+          ]
+        },
+        {
+          "title": "Pensionen nicht nur als Kaufpreiszeile",
+          "bullets": [
+            "46,8 Mio. EUR operativer Verpflichtungswert",
+            "28 Mio. EUR Trustvermögen mit zwei Sicherungskreisen",
+            "Zwölf Holding-Altteile nicht im Payroll-System"
+          ]
+        },
+        {
+          "title": "Vor Signing klären",
+          "bullets": [
+            "Persönliche Zusagen und historische Wechsel",
+            "Fortführung der Garantie und Treuhand",
+            "Separate Haftungs- und Datenregelung"
+          ]
+        },
+        {
+          "title": "Vor Closing bereitstellen",
+          "bullets": [
+            "Endgültige Personen- und Verpflichtungszuordnung",
+            "Zustimmungen und arbeitsrechtliche Informationen",
+            "Übergangsservice mit klaren Freigaben"
+          ]
+        }
+      ]
+    }
+  ],
+  "controls": {
+    "active_total": 842,
+    "deferred_total": 216,
+    "retired_total": 318,
+    "selected_persons": 60,
+    "holding_special_persons": 12,
+    "operating_obligation_eur": 46800000,
+    "cta_total_eur": 28000000,
+    "cta_operating_eur": 25600000,
+    "cta_holding_eur": 2400000,
+    "holding_extra_obligation_eur": 3600000,
+    "tsa_total_eur": 72000,
+    "chronology": "Grundakte bis 23.10.2026; Fortsetzung ab 29.10.2026."
+  }
+}

@@ -1,0 +1,46 @@
+
+§ 87 BetrVG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Betriebsverfassungsgesetz
+§ 87
+Mitbestimmungsrechte
+(1) Der Betriebsrat hat, soweit eine gesetzliche oder tarifliche Regelung nicht besteht, in folgenden Angelegenheiten mitzubestimmen: 
+1.
+Fragen der Ordnung des Betriebs und des Verhaltens der Arbeitnehmer im Betrieb;
+2.
+Beginn und Ende der täglichen Arbeitszeit einschließlich der Pausen sowie Verteilung der Arbeitszeit auf die einzelnen Wochentage;
+3.
+vorübergehende Verkürzung oder Verlängerung der betriebsüblichen Arbeitszeit;
+4.
+Zeit, Ort und Art der Auszahlung der Arbeitsentgelte;
+5.
+Aufstellung allgemeiner Urlaubsgrundsätze und des Urlaubsplans sowie die Festsetzung der zeitlichen Lage des Urlaubs für einzelne Arbeitnehmer, wenn zwischen dem Arbeitgeber und den beteiligten Arbeitnehmern kein Einverständnis erzielt wird;
+6.
+Einführung und Anwendung von technischen Einrichtungen, die dazu bestimmt sind, das Verhalten oder die Leistung der Arbeitnehmer zu überwachen;
+7.
+Regelungen über die Verhütung von Arbeitsunfällen und Berufskrankheiten sowie über den Gesundheitsschutz im Rahmen der gesetzlichen Vorschriften oder der Unfallverhütungsvorschriften;
+8.
+Form, Ausgestaltung und Verwaltung von Sozialeinrichtungen, deren Wirkungsbereich auf den Betrieb, das Unternehmen oder den Konzern beschränkt ist;
+9.
+Zuweisung und Kündigung von Wohnräumen, die den Arbeitnehmern mit Rücksicht auf das Bestehen eines Arbeitsverhältnisses vermietet werden, sowie die allgemeine Festlegung der Nutzungsbedingungen;
+10.
+Fragen der betrieblichen Lohngestaltung, insbesondere die Aufstellung von Entlohnungsgrundsätzen und die Einführung und Anwendung von neuen Entlohnungsmethoden sowie deren Änderung;
+11.
+Festsetzung der Akkord- und Prämiensätze und vergleichbarer leistungsbezogener Entgelte, einschließlich der Geldfaktoren;
+12.
+Grundsätze über das betriebliche Vorschlagswesen;
+13.
+Grundsätze über die Durchführung von Gruppenarbeit; Gruppenarbeit im Sinne dieser Vorschrift liegt vor, wenn im Rahmen des betrieblichen Arbeitsablaufs eine Gruppe von Arbeitnehmern eine ihr übertragene Gesamtaufgabe im Wesentlichen eigenverantwortlich erledigt;
+14.
+Ausgestaltung von mobiler Arbeit, die mittels Informations- und Kommunikationstechnik erbracht wird.
+(2) Kommt eine Einigung über eine Angelegenheit nach Absatz 1 nicht zustande, so entscheidet die Einigungsstelle. Der Spruch der Einigungsstelle ersetzt die Einigung zwischen Arbeitgeber und Betriebsrat.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+Seite ausdrucken
+");
+      /* ]]> */ //-->

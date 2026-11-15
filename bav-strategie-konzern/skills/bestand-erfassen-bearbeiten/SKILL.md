@@ -1,72 +1,39 @@
 ---
 name: bestand-erfassen-bearbeiten
-description: "Für Betriebliche Altersversorgung: Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt."
+description: "Rekonstruiert Zusagen und Personengruppen, trennt Versprechen, Durchführung, Finanzierung und Bewertung und erstellt eine nachvollziehbare Leistungs- und Bestandsrechnung."
 ---
 
-# Bestand erfassen
+# 1. Versorgungsbestand und Leistungsdaten erfassen
 
-## 1. Zweck und Anwendungsfall
+## 1.1. Zweck und Anwendungsfall
 
-Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren.
+Du nutzt diesen Skill für Due Diligence, Bestandsbereinigung, Auskunft oder die Rechenbasis einer Neuregelung. Ziel ist ein abgestimmter Bestand, in dem jede Person der richtigen Zusagefassung und dem richtigen Schuldner zugeordnet ist.
 
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+## 1.2. Eingaben
 
-## 2. Eingaben
+Verträge und Gesamtzusagen, Tarif- und Betriebsvereinbarungen mit Vorfassungen, Personalstammdaten, Trägerverträge, Beitrags- und Zahlungsdateien, vorhandene versicherungsmathematische Gutachten.
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+## 1.3. Ablauf und Checkliste
 
-## 3. Ablauf
+1. Baue eine eindeutige Zuordnung Person–Arbeitgeber–Zusage–Vertrag auf. Trenne aktive Beschäftigte, ausgeschiedene Anwärter, Rentenbeziehende, Hinterbliebene und Organpersonen. Prüfe den persönlichen Geltungsbereich, statt Geschäftsführer pauschal auszuschließen.
+2. Trenne Leistungszusage, beitragsorientierte Leistungszusage, Beitragszusage mit Mindestleistung und reine Beitragszusage im tariflichen Sozialpartnermodell. Ordne gesondert die fünf Durchführungswege zu. CTA und Rückdeckung sind keine zusätzlichen Durchführungswege.
+3. Rekonstruiere Zugang und Fassung aus unterzeichneten Texten, Bekanntgabe und tatsächlicher Handhabung. Abweichende Abrechnung kann für die Auslegung relevant sein, ersetzt aber nicht automatisch den Vertrag; BAG, Urteil vom 27.01.2026 – Az. 3 AZR 100/25, Rn. 29–30.
+4. Prüfe Unverfallbarkeit anhand von Zusagejahr, Ausscheiden und § 30f BetrAVG. Entgeltumwandlung und gesetzlicher Zuschuss folgen eigenen Regeln. Für die Höhe § 2 nach Zusageart anwenden; nicht jede Anwartschaft pauschal zeitanteilig rechnen.
+5. Dokumentiere Formel, Einheit, Rechenstichtag, Quelldatei und Rundung. Stimme Personen, Verträge, Jahresbeiträge und laufende Leistungen ab. Halte versicherungsmathematischen Barwert, Rückstellung und erwartete Rente getrennt.
+6. Erstelle bei einem Auskunftsauftrag eine verständliche persönliche Auskunft nach § 4a BetrAVG. Projektionen, gesicherte Werte und offene Annahmen klar unterscheiden; keine neue Garantie durch unbedachte Formulierung.
 
-### 3.1. Arbeitsschritt
+## 1.4. Quellenpflicht
 
-Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren.
+Lies [das einschlägige Fachkapitel](../../references/konzern/01-bestand-und-zusagen.md) und bei Rechtsaussagen [Quellen und Rechtsstand](../../references/konzern/08-quellen-und-rechtsstand.md). Prüfe Normfassung und tatsächliche Entscheidungsstelle für den konkreten Stichtag; Gericht, Entscheidungsart, Datum, Aktenzeichen und tragende Randnummer nennen. Tatsachen mit Datei/Seite oder Blatt/Zelle belegen. Ungeprüfte Funde, fiktive Fallunterlagen und aktuariell nicht berechnete Werte nicht als verifiziert ausgeben. Die acht Kapitel ersetzen die früheren verstreuten Fachvertiefungen.
 
-### 3.2. Arbeitsschritt
+## 1.5. Ausgabeformat
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Systembeschreibung, Versionskette, abgestimmte Personengruppen und nachvollziehbare Berechnung. Bei Auftrag ein ausformuliertes Auskunftsschreiben; interne Lücken- und Quellenvermerke separat.
 
-### 3.3. Arbeitsschritt
+Enddokumente in vollständigen Sätzen ausformulieren; keine Skelette oder bloßen Überschriften als fertiges Ergebnis. Formelle Dateiausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Einen nötigen Exporthinweis außerhalb des Empfängertexts halten.
 
-Welche arbeitsrechtliche Zusage schuldet welcher Arbeitgeber welchem Personenkreis.
+## 1.6. Beispiel
 
-### 3.4. Arbeitsschritt
+Ein Konzernreport nennt alle Pläne „DC“. Prüfe die konkreten Zusagen: Ein garantierter Rentenbaustein bleibt eine Leistungszusage; allein ein Beitragslabel lässt die Einstandspflicht nicht entfallen.
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
-
-### 3.5. Fachvertiefungen gezielt laden
-
-Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
-
-- [Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg](../altersversorgung-boutique-fristennotiz-psv/FACHINHALT.md)
-- [bAV: CTA Treuhand](../bav-cta-treuhand-spezial/FACHINHALT.md)
-- [bAV: Fuenftelregelung Auszahlung](../bav-erstattung-fuenftelregelung/FACHINHALT.md)
-- [bAV: Grenzueberschreitende Mobilitaet](../bav-grenzueberschreitend-mobil-spezial/FACHINHALT.md)
-- [Pension Buyout im M&A-Deal — Asset vs. Share Deal](../buyout-ma-country-by-cta-contractual/FACHINHALT.md)
-- [CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation](../cta-contractual-trust-arrangement-strukturierung/FACHINHALT.md)
-- [Duesseldorfer: Sonderfall und Edge-Case-Prüfung](../duesseldorfer-sonderfall-und-edge-case/FACHINHALT.md)
-- [bAV: Durchfuehrungswege](../einfuehrung-durchfuehrungswege-erstattung/FACHINHALT.md)
-- [Expatriate-Pensionsplanung und Totalization](../expatriate-pensionsplanung-und-totalization/FACHINHALT.md)
-- [Fuenf: Behörden-, Gerichts- oder Registerweg](../fuenf-behoerden-gericht-und-registerweg/FACHINHALT.md)
-- [Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG](../governance-und-anpassungsmechanismen/FACHINHALT.md)
-- [Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive](../japan-bav-und-corporate-pension-iorp/FACHINHALT.md)
-- [Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen](../kollektivrechtliche-loesungen-und-sozialplan/FACHINHALT.md)
-- [Pension Buyout Strukturierung und De-Risking](../pension-buyout-strukturierung-und-de-risking/FACHINHALT.md)
-- [Restrukturierung: Beweislast, Darlegungslast und Substantiierung](../restrukturierung-beweislast-stil-strategische/FACHINHALT.md)
-- [Strategische: Erstprüfung, Rollenklärung und Mandatsziel](../strategische-erstpruefung-und-mandatsziel/FACHINHALT.md)
-
-## 4. Quellenpflicht
-
-Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
-
-## 5. Ausgabeformat
-
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Bestand erfassen“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
-
-Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
-
-## 6. Beispiele
-
-- Ein Auftrag zu „Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „bAV: CTA Treuhand“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+Für passende interaktive Ansichten beachte die [Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md).

@@ -1,0 +1,236 @@
+{
+  "status": "passed",
+  "checked_on": "2026-11-15",
+  "inventory_sha256": "f27981e11832f9322a6f86b2ffc617fd5895ea117889f64ba090356392e9caf3",
+  "checks": [
+    "native-file-readability",
+    "full-PDF-source-paragraphs",
+    "full-DOCX-and-slide-reading-copy-text",
+    "cached-formulas-independent-arithmetic",
+    "input-mutation-recalculate-restore",
+    "MIME-attachment-byte-identity",
+    "Grundakte-filter",
+    "no-active-old-firm-name",
+    "source-fixture-generator-binding",
+    "native-mutation-rejected",
+    "PDF-member-mutation-rejected-after-outer-ZIP-hash-update"
+  ],
+  "cases": [
+    {
+      "slug": "bav-strategie-konzern-meissner-rheinwerk-ag",
+      "originals": 37,
+      "formats": {
+        ".eml": 7,
+        ".pdf": 17,
+        ".csv": 3,
+        ".docx": 4,
+        ".png": 2,
+        ".txt": 1,
+        ".xlsx": 2,
+        ".pptx": 1
+      },
+      "pdf_pages": 57,
+      "pdf_zip_sha256": "c2d14c9b48185957c7488090696753c0e39ab8cadb3d43373033febb7d6492e2",
+      "workbook_verifications": [
+        {
+          "workbook": "30_Bestandsregister.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Budget",
+              "input": "B6",
+              "result": "D6",
+              "original": 85000,
+              "changed": 85007,
+              "expected": 85007
+            }
+          ],
+          "formula_count": 6,
+          "cached_control_count": 3,
+          "mutation_required": true
+        },
+        {
+          "workbook": "31_Personenlos_48.xlsx.verification.json",
+          "mutation_checks": [],
+          "formula_count": 0,
+          "cached_control_count": 0,
+          "mutation_required": false
+        }
+      ]
+    },
+    {
+      "slug": "bav-carve-out-rheinbogen-automation",
+      "originals": 36,
+      "formats": {
+        ".eml": 5,
+        ".pdf": 16,
+        ".docx": 6,
+        ".csv": 3,
+        ".txt": 1,
+        ".png": 2,
+        ".xlsx": 2,
+        ".pptx": 1
+      },
+      "pdf_pages": 57,
+      "pdf_zip_sha256": "01f0acda41841dc4fb291d6c27fe1cf816c061c5f8a66b24cf5d18de0fcdc8bd",
+      "workbook_verifications": [
+        {
+          "workbook": "29_Preisbruecke.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Szenarien",
+              "input": "C6",
+              "result": "E6",
+              "original": 18800000,
+              "changed": 18800007,
+              "expected": 18800007
+            }
+          ],
+          "formula_count": 5,
+          "cached_control_count": 4,
+          "mutation_required": true
+        },
+        {
+          "workbook": "28_Personal_Detailauszug.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Gesamtbestand",
+              "input": "B6",
+              "result": "B9",
+              "original": 1376,
+              "changed": 1383,
+              "expected": 1383
+            }
+          ],
+          "formula_count": 2,
+          "cached_control_count": 2,
+          "mutation_required": true
+        }
+      ]
+    },
+    {
+      "slug": "bav-rentnergesellschaft-rheinhafen-logistik",
+      "originals": 35,
+      "formats": {
+        ".pdf": 18,
+        ".eml": 6,
+        ".xlsx": 3,
+        ".docx": 3,
+        ".png": 2,
+        ".csv": 2,
+        ".pptx": 1
+      },
+      "pdf_pages": 52,
+      "pdf_zip_sha256": "c2bee64356195c791df7277e62e91124d98da32a3fb0819cf697cffd91c8785e",
+      "workbook_verifications": [
+        {
+          "workbook": "27_Angebotsvergleich.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Bestand",
+              "input": "B6",
+              "result": "B9",
+              "original": 1426,
+              "changed": 1433,
+              "expected": 1433
+            }
+          ],
+          "formula_count": 3,
+          "cached_control_count": 3,
+          "mutation_required": true
+        },
+        {
+          "workbook": "30_Immobilie_Nachlieferung.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Nettoansatz",
+              "input": "B6",
+              "result": "B9",
+              "original": 8500000,
+              "changed": 8500007,
+              "expected": 8500007
+            }
+          ],
+          "formula_count": 1,
+          "cached_control_count": 1,
+          "mutation_required": true
+        },
+        {
+          "workbook": "26_Finanzierung_und_Stress.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Ausstattung",
+              "input": "B6",
+              "result": "D6",
+              "original": 8000000,
+              "changed": 8000007,
+              "expected": 8000007
+            }
+          ],
+          "formula_count": 30,
+          "cached_control_count": 2,
+          "mutation_required": true
+        }
+      ]
+    },
+    {
+      "slug": "bav-pensionskasse-niederrhein-verbund",
+      "originals": 35,
+      "formats": {
+        ".eml": 8,
+        ".csv": 3,
+        ".pdf": 16,
+        ".docx": 3,
+        ".png": 2,
+        ".xlsx": 2,
+        ".pptx": 1
+      },
+      "pdf_pages": 50,
+      "pdf_zip_sha256": "f56702fee8586f065fb84f9ef54fe5d30bae3852dcc43c1d271631f984c24d44",
+      "workbook_verifications": [
+        {
+          "workbook": "28_Treasury_Planung.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Laufender_Ausgleich",
+              "input": "B6",
+              "result": "D6",
+              "original": 72000,
+              "changed": 72028,
+              "expected": 72028
+            }
+          ],
+          "formula_count": 8,
+          "cached_control_count": 6,
+          "mutation_required": true
+        },
+        {
+          "workbook": "27_Kuerzungen_Kohorten.xlsx.verification.json",
+          "mutation_checks": [
+            {
+              "sheet": "Kohorten",
+              "input": "C6",
+              "result": "G6",
+              "original": 8400,
+              "changed": 8407,
+              "expected": 8407
+            }
+          ],
+          "formula_count": 19,
+          "cached_control_count": 5,
+          "mutation_required": true
+        }
+      ]
+    }
+  ],
+  "visual_review": {
+    "all_pdf_pages": "contact sheets",
+    "all_docx_pages": "individual rendered pages",
+    "all_worksheets": "ArtifactTool PNG previews",
+    "all_slides": "individual ArtifactTool and rendered-PDF previews",
+    "selected_letters": "full-page review of letterheads, body, signatures and pagination"
+  },
+  "reproducibility": {
+    "scope": "Meissner: two isolated native builds",
+    "result": "37 of 37 files byte-identical after deterministic OOXML identity/ZIP timestamp normalization"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-15",
+  "scope": "bav-strategie-konzern 445.36.3; lokale Integrationsprüfung vor Commit und Veröffentlichung",
+  "base_commit": "4b98322e6533ebd27cdf08d9287fd71ac6335398",
+  "status": "Alle hier dokumentierten lokalen Prüfungen bestanden. Remote-CI und öffentliche Downloads sind hiervon nicht umfasst.",
+  "corrections_from_final_review": [
+    "Vier Akten: Datumsbezüge, Besitzstandsbeispiel, Altersplausibilität, Cent-Rundung und Zuordnung von Zahlungsständen berichtigt und Artefakte neu erzeugt.",
+    "Komponentenrouting auf die neun zulässigen ZIP-Pins begrenzt; weitere feste Komponentenlinks separat.",
+    "Release-Prüfung mit --dist führt beide Pakettests tatsächlich aus; neun Tests ohne Überspringen bestanden.",
+    "Vollständige reversible Provenienz-Snapshots als Base64 gekennzeichnet, damit historische relative Verweise keine aktuelle Navigation vortäuschen; Dekodierungs-, Manipulations- und Wiederherstellungsregression bestanden."
+  ],
+  "facts": {
+    "skills": 10,
+    "chapters": 8,
+    "case_files": 143,
+    "intake_files": 123,
+    "later_files": 20,
+    "pdf_pages": 216,
+    "release_files": 18,
+    "primary_sources": 22,
+    "bag_decisions": 12
+  },
+  "limitations": [
+    "Redaktionelle Quellen- und Workflowprüfung; kein durchgeführter modellübergreifender Leistungsbenchmark.",
+    "Fiktive Angebote sind keine empirischen Marktpreisnachweise; keine versicherungsmathematische oder Abschlussprüferfreigabe."
+  ],
+  "local_checks": [
+    {
+      "log": "build.log",
+      "sha256": "90c07aa945a01cae886ceb900cc44eddc00ce12bf3f06b31136ea0927ef634bb",
+      "output": "bav-strategie-konzern-v445.36.3: 18 Release-Dateien vollständig geprüft\n",
+      "exit_status": 0
+    },
+    {
+      "log": "case-test.log",
+      "sha256": "b9fa26ac6b953234a33d502c47c30bd46608b1f88af534403075fb38c60f657b",
+      "output": "{\"cases\": [{\"slug\": \"bav-carve-out-rheinbogen-automation\", \"documents\": 36}, {\"slug\": \"bav-pensionskasse-niederrhein-verbund\", \"documents\": 35}, {\"slug\": \"bav-rentnergesellschaft-rheinhafen-logistik\", \"documents\": 35}, {\"slug\": \"bav-strategie-konzern-meissner-rheinwerk-ag\", \"documents\": 37}], \"inventory\": true, \"mutations_rejected\": true}\n",
+      "exit_status": 0
+    },
+    {
+      "log": "component-test.log",
+      "sha256": "2f9547816a889cbe389bee4294b77b4ae40882af1700b51a528c0334165b9829",
+      "output": ".........\n----------------------------------------------------------------------\nRan 9 tests in 3.515s\n\nOK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "downloads.log",
+      "sha256": "41384d31e13a1732b298b423781adfbc9e8a2773b8540b998a14b33cd9c9f5f8",
+      "output": "validate-testakten-readme-downloads OK (631 Akten, 5679 Treffer, 400 weitere Downloadgruppen, 29 HTML-Seiten)\n",
+      "exit_status": 0
+    },
+    {
+      "log": "link-test.log",
+      "sha256": "7a559f5f3b288fe7710f7d08453f712cd2e9ce60025f248acc51ca1c2ff5db00",
+      "output": "....\n----------------------------------------------------------------------\nRan 4 tests in 0.022s\n\nOK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "markdown.log",
+      "sha256": "5d3837bebfff3623fc8a1cc1957b8bc3ebee07734182ec3ac784c4be2bfe51b1",
+      "output": "validate-markdown-structure OK (33667 Dateien)\n",
+      "exit_status": 0
+    },
+    {
+      "log": "marketplace.log",
+      "sha256": "2382de4518e3726544ffd2efb7d06b23b372f741cbd43d28a8e295c9dfe1ab22",
+      "output": "Marketplace-Importprüfung: 315 Plugins, 3175 Skills, 315 README-Dateien\nOK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "navigation.log",
+      "sha256": "6997e5694027b38c1a706894b7b064aa29751308766a5ecc890a08de590e0d84",
+      "output": "validate-readme-navigation OK (315 Plugins, 3175 Skills, 633 Aktenseiten, 95169 lokale Links, 2479 Anker, 21658 echte Markdown-Downloads)\n",
+      "exit_status": 0
+    },
+    {
+      "log": "overview.log",
+      "sha256": "b503c4abd30f8acd1ada0eec0c10f884340df9a66dda2fb28f5b3b63c1a49982",
+      "output": "validate-root-readme-overview OK (315 Plugins, 3175 Skills, 313 Werkstatt-Prompts, 312 Schnellstart-Prompts, 631 zentrale / 644 Testakten gesamt, Stand v445.35.3)\n",
+      "exit_status": 0
+    },
+    {
+      "log": "pdf.log",
+      "sha256": "fa3169c15fa9a36daa459d7de24848c0695305e1f7ab149c829df043036151db",
+      "output": "validate-testakten-gesamt-pdf OK (631 Testakten)\n",
+      "exit_status": 0
+    },
+    {
+      "log": "quality.log",
+      "sha256": "caa9689d6a653be8987bf4a5d7ea03d0385efc23341887219084feab92e57884",
+      "output": "315 Pluginprofile strukturell vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.\n",
+      "exit_status": 0
+    },
+    {
+      "log": "rate-test.log",
+      "sha256": "8aed598952aeef4e742c2d551da0fd3d722cfc8a7f83f6389c2d60f7c9030dc7",
+      "output": ".........\n----------------------------------------------------------------------\nRan 9 tests in 0.040s\n\nOK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "release-test.log",
+      "sha256": "69b5ce81420c4d038b0d0b4508da580a5513ef2ac2c1b3413a3304ccc35b625d",
+      "output": "Entwurfsrelease v1.2.3 angelegt\nplugin.zip: Versuch 1 fehlgeschlagen: HTTP 502; neuer Versuch in 19 s\ntest-release-assets OK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "routing-test.log",
+      "sha256": "82f73b7d31ec97aeccbbafc9010eeab3c8220fb6ade75955854be5e7e4a88692",
+      "output": "...........\n----------------------------------------------------------------------\nRan 11 tests in 0.018s\n\nOK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "source-map.log",
+      "sha256": "3cb7003500fffe2567a549293677cbbec0a605ca3258a957183fa82be33972b3",
+      "output": "Inhalts- und Paketprüfung: 0 Fehler\n",
+      "exit_status": 0
+    },
+    {
+      "log": "source-test.log",
+      "sha256": "baf49b59538192f3e136ca0404cac516ecb8dd2fe5ba1416604056f3080fa49c",
+      "output": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.004s\n\nOK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "structure.log",
+      "sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714",
+      "output": "validate-plugin-structure OK\n",
+      "exit_status": 0
+    },
+    {
+      "log": "visual.log",
+      "sha256": "200cbe761580f43d76e5580805351eeee5040d03043a3c8392098d7b042f8f50",
+      "output": "Visualisierungsführung: 315 Plugins, 1993 Dateien, 0 abweichend\n",
+      "exit_status": 0
+    },
+    {
+      "log": "yaml.log",
+      "sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2",
+      "output": "validate-yaml-frontmatter: 0 Fehler, 0 Warnungen\nOK\n",
+      "exit_status": 0
+    }
+  ],
+  "additional_confirmed_checks": [
+    "test-skill-quality-release.py: 20 Tests bestanden",
+    "test-skill-cap-integration.py: 14 Tests bestanden",
+    "test-skill-cap-migration.py: 14 Tests bestanden",
+    "BAV-Provenienz inklusive Integrationsdateien: 0 Fehler",
+    "22 Primärquellen-Archivhashes bestätigt",
+    "22 historische Meissner-Dateien bytegleich zum Ausgangscommit bestätigt"
+  ],
+  "whitespace_review": {
+    "result": "Der Vergleich aller neuen Dateien meldet Whitespace in 18 archivierten Primärquellen-Texten und eine zusätzliche Schlussleerzeile im Renderer. Keine fachliche oder ausführungsbezogene Beeinträchtigung; Archivbytes und gebundene Renderquellen bleiben unverändert.",
+    "scope": "git diff HEAD^ HEAD --check nach dem ersten Commit; die vorherige Prüfung ungestagter Dateien erfasste neue Dateien nicht."
+  }
+}

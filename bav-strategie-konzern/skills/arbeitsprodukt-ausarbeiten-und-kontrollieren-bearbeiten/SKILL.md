@@ -1,66 +1,40 @@
 ---
 name: arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten
-description: "Für Betriebliche Altersversorgung: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt."
+description: "Kontrolliert bAV-Ergebnisse fachlich, rechnerisch und formal, aktualisiert Folgen neuer Angaben und liefert eine fertige Endfassung mit konkretem Umsetzungs- und Freigabestand."
 ---
 
-# Arbeitsprodukt ausarbeiten und kontrollieren
+# 1. Endprodukt prüfen und Umsetzung vorbereiten
 
-## 1. Zweck und Anwendungsfall
+## 1.1. Zweck und Anwendungsfall
 
-Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären.
+Du nutzt diesen Skill vor der Übergabe eines Entwurfs oder nach neuen Informationen. Ziel ist eine konsistente Endfassung, deren Rechtsaussagen, Zahlen, Quellen und tatsächlicher Freigabestand zusammenpassen.
 
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+## 1.2. Eingaben
 
-## 2. Eingaben
+Arbeitsprodukt und Anlagen, maßgebliche Zusage- und Datenfassung, Quellenkarte, neu eingegangene Informationen, Empfänger und geplanter nächster Schritt.
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+## 1.3. Ablauf und Checkliste
 
-## 3. Ablauf
+1. Kontrolliere Beteiligte, Schuldner, Personenkreis, Zusagejahr und Stichtag. Gleiche Fakten mit Originalbelegen ab; eine Rechenzelle mit Formel beweist noch nicht die Richtigkeit des Eingangswerts.
+2. Prüfe die typischen Fehler: vertauschte Eingriffsstufen; 1-Prozent-Ausnahme ohne § 30c; bloßer Beitragswortlaut als reine DC; CTA als Schuldbefreiung; Konzerngewinn automatisch für § 16; pauschaler PSV-Ausschluss der Pensionskasse; 2027-Werte in 2026.
+3. Rechne wesentliche Summen und mindestens die maßgeblichen Grenzfälle nach. Vergleiche Alt-/Neuleistung mit gleichen Parametern. Eine geänderte Kohortenzuordnung muss Bericht, Tabelle und Vertragsanlage gleichzeitig ändern.
+4. Prüfe jede tragende Quelle auf tatsächliche Aussage und aktuelle Reichweite. Ungeprüfte Literaturzitate entfernen oder als offene Recherche behandeln. Keine pauschale Vollständigkeitsbestätigung bei ungelesenen Unterlagen.
+5. Formuliere die stärkste ernsthafte Gegenposition und entscheide, ob sie im Text beantwortet ist. Trenne fehlende Tatsache von unklarer Rechtsfrage und fehlender wirtschaftlicher Entscheidung.
+6. Kontrolliere formale Nutzbarkeit: Kopf, Anschrift, Datum, Betreff, Gliederung, vollständiger Text, Anlagenbezug und Unterschrift. Interne Auditkennzeichen nicht in Empfängerschreiben übernehmen.
+7. Gib die überarbeitete Endfassung aus und benenne konkret verbleibende Bedingungen mit Verantwortlichem und Nachweis. Entwurf, interne Zustimmung, Vertragsschluss, Mitteilung und Zahlung sind unterschiedliche Zustände; bestätige nur tatsächlich erfolgte Handlungen.
 
-### 3.1. Arbeitsschritt
+## 1.4. Quellenpflicht
 
-Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären.
+Lies [das einschlägige Fachkapitel](../../references/konzern/07-arbeitsprodukte-und-governance.md) und bei Rechtsaussagen [Quellen und Rechtsstand](../../references/konzern/08-quellen-und-rechtsstand.md). Prüfe Normfassung und tatsächliche Entscheidungsstelle für den konkreten Stichtag; Gericht, Entscheidungsart, Datum, Aktenzeichen und tragende Randnummer nennen. Tatsachen mit Datei/Seite oder Blatt/Zelle belegen. Ungeprüfte Funde, fiktive Fallunterlagen und aktuariell nicht berechnete Werte nicht als verifiziert ausgeben. Die acht Kapitel ersetzen die früheren verstreuten Fachvertiefungen.
 
-### 3.2. Arbeitsschritt
+## 1.5. Ausgabeformat
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Geprüfte Endfassung, knappes Änderungsprotokoll und konkreter Umsetzungsplan. Einschränkungen nennen, die das Ergebnis tatsächlich beeinflussen, keine abstrakte Warnliste.
 
-### 3.3. Arbeitsschritt
+Enddokumente in vollständigen Sätzen ausformulieren; keine Skelette oder bloßen Überschriften als fertiges Ergebnis. Formelle Dateiausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Einen nötigen Exporthinweis außerhalb des Empfängertexts halten.
 
-Welche Zustimmung, Übertragung, Sicherung und Kommunikation ist für den Vollzug erforderlich.
+## 1.6. Beispiel
 
-### 3.4. Arbeitsschritt
+Nach dem Entwurf taucht die ursprüngliche Zusage von 1997 auf. Prüfe § 30c und die behauptete 1-Prozent-Befreiung erneut, ändere Anpassungsrechnung und Mitteilung und erläutere genau, warum der neue Beleg die frühere Bewertung verändert.
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
-
-### 3.5. Fachvertiefungen gezielt laden
-
-Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
-
-- [Benefits: Mandantenkommunikation und Entscheidungsvorlage](../benefits-mandantenkommunikation-entscheidungsvorlage/FACHINHALT.md)
-- [Boutique: Fristennotiz und nächster Schritt](../boutique-fristennotiz-und-naechster-schritt/FACHINHALT.md)
-- [Fristen- und Risikoampel](../fristen-risikoampel-mandantenkommunikation/FACHINHALT.md)
-- [Internationale Fehlerkatalog](../internationale-fehlerkatalog/FACHINHALT.md)
-- [Output wählen](../output-waehlen/FACHINHALT.md)
-- [Pension: Verhandlung, Vergleich und Eskalation](../pension-verhandlung-vergleich-und-eskalation/FACHINHALT.md)
-- [Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien](../pensionsmodelle-risikoampel-und-gegenargumente/FACHINHALT.md)
-- [Internationale: Red-Team und Qualitätskontrolle](../spezial-internationale-red-team-und-qualitaetskontrolle/FACHINHALT.md)
-- [Mandantenkommunikation](../workflow-mandantenkommunikation/FACHINHALT.md)
-- [Red-Team Qualitygate](../workflow-redteam-qualitygate/FACHINHALT.md)
-
-## 4. Quellenpflicht
-
-Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
-
-## 5. Ausgabeformat
-
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Arbeitsprodukt ausarbeiten und kontrollieren“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
-
-Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
-
-## 6. Beispiele
-
-- Ein Auftrag zu „Benefits: Mandantenkommunikation und Entscheidungsvorlage“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Boutique: Fristennotiz und nächster Schritt“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+Für passende interaktive Ansichten beachte die [Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md).

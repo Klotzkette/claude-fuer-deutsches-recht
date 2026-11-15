@@ -1,0 +1,19 @@
+
+§ 246 HGB - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Handelsgesetzbuch
+§ 246
+Vollständigkeit. Verrechnungsverbot
+(1) Der Jahresabschluss hat sämtliche Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten sowie Aufwendungen und Erträge zu enthalten, soweit gesetzlich nichts anderes bestimmt ist. Vermögensgegenstände sind in der Bilanz des Eigentümers aufzunehmen; ist ein Vermögensgegenstand nicht dem Eigentümer, sondern einem anderen wirtschaftlich zuzurechnen, hat dieser ihn in seiner Bilanz auszuweisen. Schulden sind in die Bilanz des Schuldners aufzunehmen. Der Unterschiedsbetrag, um den die für die Übernahme eines Unternehmens bewirkte Gegenleistung den Wert der einzelnen Vermögensgegenstände des Unternehmens abzüglich der Schulden im Zeitpunkt der Übernahme übersteigt (entgeltlich erworbener Geschäfts- oder Firmenwert), gilt als zeitlich begrenzt nutzbarer Vermögensgegenstand.
+(2) Posten der Aktivseite dürfen nicht mit Posten der Passivseite, Aufwendungen nicht mit Erträgen, Grundstücksrechte nicht mit Grundstückslasten verrechnet werden. Vermögensgegenstände, die dem Zugriff aller übrigen Gläubiger entzogen sind und ausschließlich der Erfüllung von Schulden aus Altersversorgungsverpflichtungen oder vergleichbaren langfristig fälligen Verpflichtungen dienen, sind mit diesen Schulden zu verrechnen; entsprechend ist mit den zugehörigen Aufwendungen und Erträgen aus der Abzinsung und aus dem zu verrechnenden Vermögen zu verfahren. Übersteigt der beizulegende Zeitwert der Vermögensgegenstände den Betrag der Schulden, ist der übersteigende Betrag unter einem gesonderten Posten zu aktivieren.
+(3) Die auf den vorhergehenden Jahresabschluss angewandten Ansatzmethoden sind beizubehalten. § 252 Abs. 2 ist entsprechend anzuwenden.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+Seite ausdrucken
+");
+      /* ]]> */ //-->

@@ -1,0 +1,1511 @@
+{
+  "slug": "bav-pensionskasse-niederrhein-verbund",
+  "title": "Kürzung bei der Kasse – wer zahlt die Differenz im Niederrhein-Verbund?",
+  "client": "Niederrhein Industrieverbund AG",
+  "city": "Krefeld",
+  "story": "Der Niederrhein-Verbund finanziert betriebliche Altersversorgung über die Rheinwiese Pensionskasse. Seit September 2026 zahlt die Kasse niedrigere garantierte Renten und geringere nicht garantierte Überschüsse. 680 Rentner aus drei Zusagekohorten sind betroffen; daneben bestehen 1.460 aktive und 320 ausgeschiedene Anwartschaften. HR hat die Kürzungen zunächst als reine Kassenangelegenheit behandelt. Nun verlangt eine frühere Mitarbeiterin die Differenz, während Treasury sowohl laufende Ausgleichszahlungen als auch zusätzliche Finanzierung der Kasse planen soll.",
+  "assignment": "Ordnen Sie Kassenleistung, Arbeitgeberzusage, garantierte Leistung, Überschuss und Anpassung je Kohorte zu. Bereiten Sie die sachliche Aufklärung, eine verständliche Entscheidungsvorlage, Liquiditätsrechnung und die notwendigen Antwort- und Vertragsentwürfe vor. Eine Klage oder fertige rechtliche Musterlösung ist nicht enthalten.",
+  "law_firm": {
+    "name": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB",
+    "address": "Am Rheinbogen 18, 51373 Leverkusen",
+    "partners": [
+      "Dr. Monkī D. Rufi",
+      "Dr. Nora Treuenfels"
+    ],
+    "email": "mail@monki-treuenfels.example"
+  },
+  "documents": [
+    {
+      "id": "01",
+      "path": "Grundakte/01_Mandatsanfrage.eml",
+      "kind": "eml",
+      "title": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "date": "2026-10-19",
+      "sender": "Vorstand <vorstand@niederrhein-verbund.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "Der Niederrhein-Verbund finanziert betriebliche Altersversorgung über die Rheinwiese Pensionskasse. Seit September 2026 zahlt die Kasse niedrigere garantierte Renten und geringere nicht garantierte Überschüsse. 680 Rentner aus drei Zusagekohorten sind betroffen; daneben bestehen 1.460 aktive und 320 ausgeschiedene Anwartschaften. HR hat die Kürzungen zunächst als reine Kassenangelegenheit behandelt. Nun verlangt eine frühere Mitarbeiterin die Differenz, während Treasury sowohl laufende Ausgleichszahlungen als auch zusätzliche Finanzierung der Kasse planen soll.",
+        "Ordnen Sie Kassenleistung, Arbeitgeberzusage, garantierte Leistung, Überschuss und Anpassung je Kohorte zu. Bereiten Sie die sachliche Aufklärung, eine verständliche Entscheidungsvorlage, Liquiditätsrechnung und die notwendigen Antwort- und Vertragsentwürfe vor. Wir haben noch kein gerichtliches Verfahren eingeleitet. Zunächst sollen die konkreten Ansprüche und die tragfähige außergerichtliche Vorgehensweise geprüft werden. Bitte bereiten Sie die Unterlagen so auf, dass die Geschäftsleitung bis 4. Dezember 2026 entscheiden kann, welche Variante tatsächlich weiterverfolgt wird. Der Termin ist ein interner Planungstermin; wir erwarten keine Erklärung, dass die arbeitsrechtliche Umsetzung bis dahin sicher abgeschlossen sein werde.",
+        "Wir benötigen eine nachvollziehbare Trennung der Arbeitgeber, Versorgungswege, betroffenen Personen und Finanzierungsquellen. Die Pensionsrückstellung in der Konzernrechnung ist nicht unser verfügbares Bankguthaben. Bitte fragen Sie bei Widersprüchen zunächst die in den Unterlagen genannten Sachbearbeiter und halten Sie fest, aus welcher Datei eine Zahl stammt. Ein ungeprüftes Gesamturteil über alle Bestände hilft uns im Vorstand nicht.",
+        "Die Personalabteilung hat ihre Exporte auf den unten bezeichneten Stand eingefroren. Nachlieferungen werden mit Eingangsdatum in einem eigenen Ordner gesammelt. Es wurden noch keine Beschäftigten angeschrieben, keine Einigungsstelle angerufen und keine individuellen Zustimmungserklärungen eingesammelt. Bitte entwerfen Sie solche Schritte nur als gesondert zu genehmigende nächste Maßnahmen.",
+        "Mit freundlichen Grüßen\nDie Geschäftsleitung\nNiederrhein Industrieverbund AG"
+      ],
+      "attachments": [],
+      "from_email": "vorstand@niederrhein-verbund.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "02",
+      "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+      "kind": "pdf",
+      "title": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "date": "2026-10-20",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "body": [
+        "1 Vertragsparteien und Gegenstand",
+        "Niederrhein Industrieverbund AG beauftragt Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Monkī D. Rufi und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen MT-RHEINWIESE-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
+        "1.1 Geschuldete Leistungen",
+        "Die Kanzlei sichtet die zur Verfügung gestellten Versorgungsregelungen, Verträge und Korrespondenzen, erhebt entscheidungserhebliche Lücken und erstellt nach Abstimmung des Sachverhalts eine rechtliche Entscheidungsvorlage. Auf gesonderte Anforderung werden vollständige Entwürfe für Verhandlungen, Beschäftigteninformationen und erforderliche Vertragsänderungen erstellt. Eine automatische Versendung oder Einreichung ist nicht beauftragt. Die Mandantin entscheidet über tatsächliche Umsetzung und Budget.",
+        "1.2 Abgrenzung der Beratung",
+        "Nicht beauftragt sind die Erstellung eines versicherungsmathematischen Gutachtens, eine Abschlussprüfung, individuelle Steuerberatung der Versorgungsberechtigten oder eine Anlageempfehlung. Die Kanzlei überprüft die rechtliche Bedeutung wirtschaftlicher Annahmen, bestätigt aber nicht die Richtigkeit einer vom Unternehmen gelieferten Barwertberechnung. Für ausländische Unternehmen wird bei Bedarf ein gesonderter Auftrag vereinbart. Das Mandat enthält keine Zusage eines bestimmten bilanziellen Ergebnisses oder einer Zustimmung Dritter.",
+        "2 Zusammenarbeit und Dokumente",
+        "Die Mandantin stellt maßgebliche Originalfassungen und sämtliche Nachträge bereit. Eine aktuelle Verwaltungstabelle ersetzt die zugrunde liegende Zusage nicht. Wenn eine Datei nur ein Auszug oder eine nicht unterzeichnete Fassung ist, wird dies im Begleitschreiben vermerkt. Die Kanzlei führt ein Eingangsverzeichnis und bewahrt widersprechende Fassungen nebeneinander auf, bis die Mandantin die Herkunft geklärt hat. Sie darf keine nachträgliche Glättung der Personalhistorie als gesicherte Tatsache behandeln.",
+        "2.1 Termine und Zwischenstände",
+        "Der vereinbarte Entscheidungstermin ist abhängig von der rechtzeitigen Lieferung der entscheidungserheblichen Dokumente. Kann eine Frage mangels Belegen noch nicht abschließend beurteilt werden, legt die Kanzlei die vorhandenen Varianten mit den konkreten Folgen und der fehlenden Information vor. Ein Zwischenstand wird nicht als unterschriftsreife Umsetzungsvorlage gekennzeichnet. Die Parteien stimmen wöchentlich mittwochs einen schriftlichen Sachstand ab.",
+        "3 Vergütung und Kostensteuerung",
+        "Die Vergütung richtet sich nach der gesondert unterzeichneten Vergütungsvereinbarung. Für die erste Sichtungs- und Strukturierungsphase gilt ein internes Planungsbudget von 90.000 EUR netto. Dieses Planungsbudget ist keine pauschale Vergütung und keine Zustimmung zu Mehrleistungen. Bei absehbarer Überschreitung um mehr als zehn Prozent unterrichtet die Kanzlei die Mandantin vor weiterer nicht eilbedürftiger Tätigkeit. Reise- und externe Sachverständigenkosten bedürfen gesonderter Freigabe.",
+        "4 Kommunikation und Datenzugriff",
+        "Der Datenaustausch erfolgt über den vereinbarten geschützten Datenraum. Beschäftigtendaten werden nur den für das Mandat erforderlichen Personen zugänglich gemacht. Die Parteien verwenden in Arbeitslisten möglichst Personalnummern. Über den Einsatz zusätzlicher Dienstleister und den erforderlichen Zugriff wird gesondert entschieden. Eine allgemeine Zustimmung zur Weitergabe vollständiger Personalakten an frei zugängliche Systeme wird durch diese Vereinbarung nicht erteilt.",
+        "5 Freigabe, Beendigung und Aktenherausgabe",
+        "Erklärungen gegenüber Beschäftigten, Gremien, Versorgungsträgern oder Behörden bedürfen der inhaltlichen Freigabe der Mandantin. Gesetzliche berufliche Pflichten der Kanzlei bleiben unberührt. Bei Beendigung werden die vom Unternehmen überlassenen Dokumente und die zur Fortführung erforderlichen Arbeitsstände geordnet bereitgestellt; Aufbewahrungspflichten bleiben bestehen. Änderungen des Beratungsgegenstands und zusätzlicher Vertretungsaufträge werden dokumentiert.",
+        "Für Niederrhein Industrieverbund AG: Geschäftsleitung, elektronisch freigegeben am 2026-10-20.\nFür Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-20."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "03",
+      "path": "Grundakte/03_Gesamtzusage_1992.pdf",
+      "kind": "pdf",
+      "title": "Versorgungszusage Niederrhein 1992",
+      "date": "1992-06-01",
+      "sender": "Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Versorgungszusage Niederrhein 1992",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "Niederrhein Industrieverbund AG gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Zusage gilt für die im Aufnahmeverzeichnis erfassten Beschäftigten der AG nach schriftlicher Bestätigung. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Die jährliche Altersrente beträgt 0,35 Prozent des letzten jährlichen Festgehalts für jedes volle anrechenbare Dienstjahr, höchstens für 35 Jahre. Der Arbeitgeber sagt diese Leistung zu und verwendet die Leistungen der Rheinwiese Pensionskasse zu ihrer Erfüllung. Nicht garantierte Überschüsse der Kasse werden zusätzlich ausgezahlt, soweit sie tatsächlich zugeteilt werden; eine feste Überschusshöhe wird hierdurch nicht versprochen.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder Erwerbsunfähigkeit vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Die Berechtigten legen den Bescheid des gesetzlichen Rentenversicherungsträgers oder gleichwertige Nachweise vor. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Die Durchführung erfolgt über Beiträge an die Rheinwiese Pensionskasse. Der Arbeitgeber und die Kasse führen getrennte Unterlagen über Zusage und Versicherungsleistung. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "04",
+      "path": "Grundakte/04_Gesamtzusage_2001.pdf",
+      "kind": "pdf",
+      "title": "Niederrhein Versorgung 2001 – Beitragsbausteine",
+      "date": "2001-01-01",
+      "sender": "Niederrhein Komponenten GmbH\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Niederrhein Versorgung 2001 – Beitragsbausteine",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "Niederrhein Komponenten GmbH gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Ordnung erfasst die von der Komponenten GmbH ab dem 1. Januar 2001 aufgenommenen Beschäftigten. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Der Arbeitgeber stellt jährlich 3 Prozent des pensionsfähigen Festgehalts als Beitrag bereit. Die aus jedem Beitragsjahr entstehende garantierte Leistung wird nach der vereinbarten Leistungstabelle in einer Jahresmitteilung dokumentiert. Bereits garantierte Bausteine werden als eigener Bestand ausgewiesen. Nicht garantierte Überschussprojektionen sind von der zugesagten Leistung getrennt darzustellen.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder voller Erwerbsminderung vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Die Berechtigten legen den Bescheid des gesetzlichen Rentenversicherungsträgers oder gleichwertige Nachweise vor. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Die Beiträge werden an die Rheinwiese Pensionskasse gezahlt. Eine technische Änderung der Kassenverwaltung ersetzt keine Änderung der arbeitsrechtlichen Zusage. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "05",
+      "path": "Grundakte/05_Einzelzusage_Seidel_1998.pdf",
+      "kind": "pdf",
+      "title": "Versorgungsbestätigung für Claudia Seidel",
+      "date": "1998-09-01",
+      "sender": "Niederrhein Service GmbH\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Claudia Seidel, Personalnummer N-0001\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Versorgungsbestätigung für Claudia Seidel",
+      "body": [
+        "Sehr geehrte Frau Seidel,",
+        "wir bestätigen Ihre Aufnahme in die betriebliche Altersversorgung unseres Hauses zum 1. September 1998. Für Ihre Versorgung werden Beiträge an die Rheinwiese Pensionskasse abgeführt. Die daraus nach den bei Aufnahme vereinbarten Tarifen garantierte Leistung wird Ihnen als betriebliche Versorgungsleistung zugesagt. Die jeweilige Jahresinformation weist die garantierte Rente und nicht garantierte Überschussanteile getrennt aus.",
+        "Bei Eintritt des Versorgungsfalls erteilen wir Ihnen eine Bestätigung der zugesagten Leistung auf der Grundlage der erfassten Beiträge und Vertragsunterlagen. Zusätzlich von der Kasse tatsächlich zugeteilte Überschüsse werden an Sie weitergegeben. Eine feste Höhe künftiger Überschüsse garantieren wir nicht. Abweichende individuelle Abreden bedürfen einer schriftlichen Bestätigung.",
+        "Bereits erteilte Zusagen werden nicht allein dadurch geändert, dass die Kasse ihre Satzung oder Verwaltungssoftware ändert. Bei einem Wechsel des Arbeitgebers sind die vorhandenen Rechte und die hierfür erforderlichen Erklärungen gesondert festzuhalten. Sie erhalten diese Bestätigung zusammen mit den bei Aufnahme geltenden Versicherungsbedingungen.",
+        "Unterzeichnet: Dr. Leonhard Mertens, Geschäftsführer der Niederrhein Service GmbH. Empfang bestätigt: Claudia Seidel."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "06",
+      "path": "Grundakte/06_Satzung_Rheinwiese.pdf",
+      "kind": "pdf",
+      "title": "Satzung Rheinwiese Pensionskasse – für den Bestand maßgebliche Fassung",
+      "date": "2020-07-01",
+      "sender": "Rheinwiese Pensionskasse VVaG, Kassenweg 6, 47829 Krefeld",
+      "recipient": "Mitgliedsunternehmen und Versicherte\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Satzung Rheinwiese Pensionskasse – für den Bestand maßgebliche Fassung",
+      "body": [
+        "1 Zweck und Mitgliedschaft",
+        "Die Kasse führt die in ihren Tarifen bezeichnete betriebliche Altersversorgung für Beschäftigte ihrer Mitgliedsunternehmen durch. Aufnahme, Beiträge und Leistungsumfang richten sich nach Satzung, Tarif und individueller Versicherungsbestätigung. Die Mitgliedschaft eines Arbeitgebers allein beantwortet nicht, welche arbeitsrechtliche Zusage er seinen Beschäftigten erteilt hat.",
+        "2 Organe",
+        "Organe sind die Mitgliederversammlung, der Vorstand und der Aufsichtsrat. Der Vorstand führt die laufenden Geschäfte und erstellt die erforderlichen Berichte. Der Aufsichtsrat überwacht die Geschäftsführung. Satzungsänderungen und grundlegende Maßnahmen werden nach den in der Einladung bezeichneten Gegenständen beschlossen und dokumentiert. Eine Pressemitteilung ersetzt keine Beschlussausfertigung.",
+        "3 Beiträge und Bestandsführung",
+        "Die Beiträge sind zu den im Tarif bestimmten Terminen zu zahlen. Der Arbeitgeber meldet die versicherten Personen und die erforderlichen Entgeltdaten. Fehlerhafte oder unvollständige Meldungen werden mit Herkunft, Datum und Korrekturgrund festgehalten. Beiträge, die keiner Person zugeordnet werden können, werden nicht ohne Prüfung zur Finanzierung anderer individueller Verträge verwendet.",
+        "4 Versicherungsleistungen",
+        "Die Kasse erbringt die im jeweiligen Vertrag garantierten Leistungen und die nach den hierfür geltenden Voraussetzungen zugeteilten Überschüsse. Garantierte und nicht garantierte Bestandteile werden in der Mitteilung erkennbar getrennt. Eine Vorausberechnung künftiger Überschüsse ist keine selbstständige Garantie. Der Eintritt des Leistungsfalls ist durch die vereinbarten Nachweise zu belegen.",
+        "5 Rechnungslegung und Sicherung",
+        "Der Vorstand stellt die erforderlichen versicherungstechnischen Berechnungen und Vermögensnachweise auf. Die Kapitalanlage ist am dauerhaften Leistungszweck auszurichten. Die Verwendung von Sicherungsmitteln, der Umgang mit Fehlbeträgen und etwaige aufsichtsrechtliche Maßnahmen richten sich nach den jeweils geltenden Anforderungen. Eine betriebswirtschaftliche Planung wird nicht als behördliche Genehmigung bezeichnet.",
+        "6 Behandlung eines Fehlbetrags",
+        "Stellt die fachliche Bewertung einen Fehlbetrag fest, legt der Vorstand der Mitgliederversammlung einen Maßnahmenplan vor. Er enthält Ursache, betroffenen Tarifbestand, mögliche zusätzliche Finanzierung, Auswirkungen auf garantierte Leistungen und Überschüsse sowie die erforderlichen aufsichtsrechtlichen Schritte. Eine Kürzung darf nicht allein durch Buchung im Auszahlungssystem eingeführt werden. Vor Umsetzung müssen die einschlägigen satzungsmäßigen und gesetzlichen Voraussetzungen geprüft und die erforderlichen Entscheidungen und Genehmigungen dokumentiert sein.",
+        "6.1 Mitteilung an Berechtigte",
+        "Die Kasse bezeichnet die konkrete Maßnahme, den betroffenen Vertragsbestand, den Zeitpunkt, die bisherige und künftige Leistung sowie die Grundlage der Entscheidung. Eine Änderung der Leistung der Kasse wird nicht zugleich als abschließende Feststellung sämtlicher Ansprüche gegen den Arbeitgeber ausgegeben. Anfragen zu einer darüber hinausgehenden arbeitsrechtlichen Zusage werden mit den betroffenen Arbeitgebern abgegrenzt.",
+        "7 Überschüsse",
+        "Die Überschussverwendung erfolgt nach dem jeweiligen Tarif und den beschlossenen Zuteilungsregeln. Für laufende Renten ist auszuweisen, welche Überschüsse dem jeweiligen Rentnerbestand zugeordnet werden und wie sie verwendet werden. Ein Gesamtbetrag über alle Tarife genügt nicht als Nachweis der Verwendung im einzelnen Tarif. Eine Senkung nicht garantierter künftiger Zuteilungen wird getrennt von einer Änderung garantierter Leistungen erläutert.",
+        "8 Unternehmensveränderungen",
+        "Ein Ausscheiden eines Mitgliedsunternehmens oder eine Unternehmensübertragung führt nicht ohne weitere Prüfung zum Erlöschen vorhandener Versicherungsrechte. Vor einer Bestandsübertragung werden die betroffenen Verträge, notwendigen Erklärungen und Aufsichtsvoraussetzungen ermittelt. Die Kasse stellt die hierfür erforderlichen Bestandsunterlagen bereit.",
+        "9 Schlussbestimmungen",
+        "Diese Fassung gilt ab dem 1. Juli 2020. Spätere Änderungen werden mit Beschlussdatum und Wirksamkeitsvoraussetzungen gesondert dokumentiert. Individuelle Vertragsbestätigungen und Tarifbedingungen bleiben Teil der vollständigen Versicherungsunterlagen. Ausfertigung: Vorstand und Aufsichtsratsvorsitz der Rheinwiese Pensionskasse."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "07",
+      "path": "Grundakte/07_Kasse_Kuerzungsmitteilung.pdf",
+      "kind": "pdf",
+      "title": "Leistungsmitteilung September 2026 – Kürzung und Überschussänderung",
+      "date": "2026-08-12",
+      "sender": "Rheinwiese Pensionskasse VVaG, Kassenweg 6, 47829 Krefeld",
+      "recipient": "Mitgliedsunternehmen Niederrhein-Verbund\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Leistungsmitteilung September 2026 – Kürzung und Überschussänderung",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "wir teilen mit, dass wir die garantierten laufenden Renten im bezeichneten Altbestand ab 1. September 2026 um 6 Prozent vermindern. Daneben werden die laufenden nicht garantierten Überschusszahlungen nach den beigefügten Tarifgruppen reduziert. Der Vorstand stützt die Maßnahme auf den Maßnahmenbeschluss der Mitgliederversammlung vom 30. Juni 2026 und die Satzungsbestimmung zur Behandlung eines Fehlbetrags.",
+        "Für den von Ihnen gemeldeten Gesamtbestand von 680 laufenden Renten beträgt die bisherige garantierte Monatsleistung 300.000 EUR. Nach der Kürzung werden 282.000 EUR gezahlt. Die nicht garantierten monatlichen Überschüsse sinken nach der aktuellen Bestandsberechnung von 60.000 EUR auf 55.000 EUR. Die Gesamtzahlung beträgt damit 337.000 EUR statt 360.000 EUR.",
+        "Die betroffenen Personen erhalten individuelle Mitteilungen mit den bisherigen und neuen Bestandteilen. Eine Aussage zu einem zusätzlichen Anspruch aus einer Arbeitgeberzusage treffen wir hiermit nicht. Die Mitgliedsunternehmen sollen die arbeitsrechtlichen Auswirkungen in eigener Zuständigkeit prüfen.",
+        "Die vollständige Beschlussausfertigung, die Berechnungsgrundlagen und die aufsichtsrechtlichen Unterlagen werden über unser Mitgliederportal bereitgestellt. In Ihrem derzeitigen Downloadpaket sind noch nicht alle Dokumente enthalten. Bitte richten Sie Rückfragen an das Bestandsmanagement; wir stellen fehlende Ausfertigungen auf konkrete Anforderung bereit.",
+        "Dr. Vera Hain, Vorstand."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "08",
+      "path": "Grundakte/08_Seidel_Leistungsmitteilung.pdf",
+      "kind": "pdf",
+      "title": "Claudia Seidel – individuelle Rentenmitteilung",
+      "date": "2026-08-17",
+      "sender": "Rheinwiese Pensionskasse VVaG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Claudia Seidel, Kastanienweg 11, 47803 Krefeld",
+      "subject": "Claudia Seidel – individuelle Rentenmitteilung",
+      "body": [
+        "Sehr geehrte Frau Seidel,",
+        "Ihre monatliche garantierte Rente beträgt bisher 1.200,00 EUR. AbSeptember 2026 zahlen wir hierauf 1.128,00 EUR. Die Verringerung beträgt 72,00 EUR beziehungsweise 6 Prozent. Zusätzlich erhalten Sie künftig 40,00 EUR nicht garantierten Überschuss statt bisher 60,00 EUR. Die Gesamtzahlung sinkt somit von 1.260,00 EUR auf 1.168,00 EUR monatlich.",
+        "Die garantierte Leistung und der Überschuss sind getrennte Bestandteile. Die Überschusszahlung ist nach unseren Vertragsunterlagen nicht in unveränderlicher Höhe garantiert. Die Änderung beruht auf der vom Vorstand umgesetzten Maßnahme im bezeichneten Bestand. Die zugrunde liegenden Unterlagen können über das Bestandsmanagement angefordert werden.",
+        "Diese Mitteilung betrifft unsere Zahlung als Pensionskasse. Ob Ihr früherer Arbeitgeber aufgrund seiner Zusage zusätzliche Leistungen schuldet, entscheiden wir hiermit nicht. Bitte wenden Sie sich wegen der Arbeitgeberzusage auch an die Niederrhein Service GmbH. Für eine Erklärung unserer Berechnung stehen wir Ihnen zur Verfügung.",
+        "Rheinwiese Pensionskasse, Leistungsservice."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "09",
+      "path": "Grundakte/09_Rentenbescheid_Arbeitgeber_2021.pdf",
+      "kind": "pdf",
+      "title": "Versorgungsbestätigung bei Rentenbeginn – Claudia Seidel",
+      "date": "2021-06-18",
+      "sender": "Niederrhein Service GmbH\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Claudia Seidel\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Versorgungsbestätigung bei Rentenbeginn – Claudia Seidel",
+      "body": [
+        "Sehr geehrte Frau Seidel,",
+        "zum Beginn Ihrer Altersversorgung am 1. Juli 2021 bestätigen wir auf Grundlage Ihrer Zusage vom 1. September 1998 die monatliche garantierte Betriebsrente von 1.200,00 EUR. Die Auszahlung erfolgt derzeit durch die Rheinwiese Pensionskasse. Der nach heutigem Stand zusätzlich zugeteilte Überschuss beträgt 60,00 EUR monatlich. Dieser zusätzliche Anteil wird gesondert als nicht garantiert ausgewiesen.",
+        "Die laufende Gesamtzahlung beträgt bei Rentenbeginn 1.260,00 EUR vor etwaigen gesetzlich vorzunehmenden Abzügen. Über die Entwicklung der Leistung und erforderliche Anpassungsfragen informieren wir Sie gesondert. Mit der Auszahlung durch die Kasse ist keine besondere Verzichtserklärung Ihrerseits verbunden. Bitte teilen Sie Änderungen Ihrer Anschrift und Kontoverbindung dem Leistungsservice mit.",
+        "Diese Bestätigung beruht auf den erfassten Beiträgen und dem bei Rentenbeginn geltenden Vertragsstand. Falls Sie abweichende individuelle Vereinbarungen besitzen, senden Sie uns bitte eine Kopie zur Prüfung.",
+        "Dr. Leonhard Mertens, Geschäftsführer."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "10",
+      "path": "Grundakte/10_HR_Erste_Rundmail.eml",
+      "kind": "eml",
+      "title": "Kassenmitteilung – zunächst keine manuelle Ausgleichsbuchung",
+      "date": "2026-08-19",
+      "sender": "HR Shared Service <hr@niederrhein-verbund.example>",
+      "recipient": "Payroll <payroll@niederrhein-verbund.example>",
+      "subject": "Kassenmitteilung – zunächst keine manuelle Ausgleichsbuchung",
+      "body": [
+        "Guten Morgen,",
+        "die Kasse hat eine allgemeine Kürzung mitgeteilt. Bitte bucht zunächst keinen automatischen Arbeitgeberausgleich für den gesamten Bestand, weil wir die einzelnen Zusagen und Bestandteile noch nicht abgeglichen haben. Die Zahlungen der Kasse werden ab September nach deren Datei übernommen. Ich hatte im Gespräch gestern gesagt, dies sei „nur ein Problem der Kasse“. Diese Einschätzung ist nicht rechtlich geprüft.",
+        "Wir benötigen von den drei Gesellschaften die ursprünglichen Arbeitgeberzusagen und die letzten Leistungsbestätigungen. Besonders die garantierte Leistung und die Überschüsse müssen auseinandergehalten werden. Bitte schließt individuelle Beschwerden nicht mit einem Standardtext ab. Leitet sie an die Projektgruppe weiter und haltet Eingang und Antwortfrist fest.",
+        "Viele Grüße\nAnne Brück, HR Shared Service"
+      ],
+      "attachments": [],
+      "from_email": "hr@niederrhein-verbund.example",
+      "to_email": "payroll@niederrhein-verbund.example"
+    },
+    {
+      "id": "11",
+      "path": "Grundakte/11_Seidel_Anforderung.pdf",
+      "kind": "pdf",
+      "title": "Bitte um Ausgleich und Erläuterung der Rentenkürzung",
+      "date": "2026-10-16",
+      "sender": "Claudia Seidel, Kastanienweg 11, 47803 Krefeld",
+      "recipient": "Niederrhein Service GmbH\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Bitte um Ausgleich und Erläuterung der Rentenkürzung",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "seit September erhalte ich 92 EUR weniger im Monat. Im Jahr 2021 hat mir Ihr Unternehmen die garantierte Rente von 1.200 EUR bestätigt. Die Kasse zahlt hiervon nun nur 1.128 EUR. Bitte teilen Sie mir mit, ob Sie die fehlenden 72 EUR übernehmen und wie die weiteren 20 EUR beim Überschuss zu behandeln sind. Ich möchte keine allgemeine Antwort, dass ich mich nur an die Kasse wenden soll.",
+        "Außerdem habe ich seit Renteneintritt keine verständliche Mitteilung darüber erhalten, ob und wann eine Anpassung geprüft wurde. In den Jahresbriefen stehen lediglich neue Überschusswerte. Bitte senden Sie mir die für mich maßgeblichen Unterlagen und erklären Sie, ob damit die Anpassungsfrage erledigt sein soll.",
+        "Ich bitte bis 6. November 2026 um eine konkrete Antwort. Eine Klage habe ich nicht erhoben. Ich füge die ursprüngliche Zusage, Ihre Rentenbestätigung und die aktuelle Kassenmitteilung bei.",
+        "Mit freundlichen Grüßen\nClaudia Seidel"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "12",
+      "path": "Grundakte/12_Seidel_Email.eml",
+      "kind": "eml",
+      "title": "Unterlagen zu meinem Schreiben vom 16. Oktober",
+      "date": "2026-10-19",
+      "sender": "Claudia Seidel <claudia.seidel@privatpost.example>",
+      "recipient": "Personalservice <pensionen@niederrhein-verbund.example>",
+      "subject": "Unterlagen zu meinem Schreiben vom 16. Oktober",
+      "body": [
+        "Sehr geehrte Frau Brück,",
+        "hier kommen die drei Unterlagen aus meinem Schreiben nochmals elektronisch. Mir geht es zunächst darum, wer die fehlenden Beträge zahlen muss und ob meine damalige Zusage weiterhin gilt. Ich habe von einer Kollegin gehört, dass die AG andere Briefe verschickt hat als die Service GmbH. Bitte verwenden Sie deshalb nicht einfach deren Standardantwort für meinen Fall.",
+        "Die September-Leistungsabrechnung der Kasse weist 1.168 EUR brutto aus. Für Oktober ist derselbe Bruttobetrag angekündigt. Der auf meinem Konto eingegangene Nettobetrag enthält die in der Abrechnung ausgewiesenen Abzüge; er ist nicht mit dem Bruttobetrag gleichzusetzen. Ich habe keine Zustimmung zur Kürzung unterschrieben. Bitte bestätigen Sie den Eingang. Für ein Gespräch bin ich am Dienstagvormittag erreichbar; die Bearbeitung darf aber nicht daran scheitern, dass ich nicht sofort ans Telefon gehe.",
+        "Mit freundlichen Grüßen\nClaudia Seidel"
+      ],
+      "attachments": [
+        "Grundakte/05_Einzelzusage_Seidel_1998.pdf",
+        "Grundakte/08_Seidel_Leistungsmitteilung.pdf",
+        "Grundakte/09_Rentenbescheid_Arbeitgeber_2021.pdf"
+      ],
+      "from_email": "claudia.seidel@privatpost.example",
+      "to_email": "pensionen@niederrhein-verbund.example"
+    },
+    {
+      "id": "13",
+      "path": "Grundakte/13_Anpassungsprotokoll_2024.pdf",
+      "kind": "pdf",
+      "title": "Sitzungsvermerk Personal und Treasury – Anpassungsrunde 2024",
+      "date": "2024-07-03",
+      "sender": "Niederrhein Service GmbH\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Geschäftsführung\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Sitzungsvermerk Personal und Treasury – Anpassungsrunde 2024",
+      "body": [
+        "1 Beratungsgegenstand",
+        "Die Personalabteilung stellt die im Jahr 2021 begonnenen Renten vor. Für Claudia Seidel ist der Rentenbeginn 1. Juli 2021 erfasst. Ein aktueller Tarifnachweis zur Überschussverwendung liegt in der Sitzung nicht vor. Die vorgelegte Kassenübersicht weist nur eine Gesamtsumme über verschiedene Tarife aus.",
+        "2 Bisherige Behandlung",
+        "Treasury schlägt vor, keine zusätzliche Arbeitgeberzahlung einzuplanen, weil die Kasse Überschüsse ausschütte. HR fragt, ob dies für alle Zusagen und Verträge genüge. Eine abschließende rechtliche Prüfung erfolgt in der Sitzung nicht. Es wird vereinbart, die Tarifbedingungen und die tatsächliche Verwendung der Überschüsse nachzufordern.",
+        "3 Offene Erledigung",
+        "Die Nachforderung soll durch Anne Brück erfolgen. Ein endgültiger Beschluss über den einzelnen Anspruch von Frau Seidel wird nicht gefasst. Im Protokoll ist keine an die Betroffenen versandte individuelle Anpassungsentscheidung dokumentiert. Der nächste Termin wird auf Oktober 2024 verschoben. Der Vermerk bleibt als offener Vorgang in der Personalakte."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "14",
+      "path": "Grundakte/14_Kassentarif_2010.pdf",
+      "kind": "pdf",
+      "title": "Tarifbedingungen Rheinwiese – Überschusszuordnung",
+      "date": "2010-01-01",
+      "sender": "Rheinwiese Pensionskasse VVaG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Mitgliedsunternehmen\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Tarifbedingungen Rheinwiese – Überschusszuordnung",
+      "body": [
+        "1 Garantierte Leistung",
+        "Die garantierte Leistung richtet sich nach den für die Beiträge vereinbarten Tarifgrundlagen und der individuellen Versicherungsbestätigung. Sie wird im Jahresausweis getrennt von nicht garantierten Zusatzleistungen dargestellt. Eine Projektion des Gesamtertrags begründet keine Garantie eines bestimmten zukünftigen Überschussbetrags.",
+        "2 Überschusszuweisung",
+        "Die Kasse bildet nach den geltenden Rechnungsgrundlagen Überschussgruppen für die bezeichneten Tarife. Der Vorstand beschließt die Zuteilung nach Maßgabe der Satzung und der hierfür geltenden Voraussetzungen. Die Zuteilungsmitteilung bezeichnet das Jahr, den Tarif und die begünstigte Gruppe. Eine Summe über alle Gruppen wird nicht ohne Zuordnung auf jeden einzelnen Vertrag übertragen.",
+        "3 Verwendung im Rentenbezug",
+        "Soweit nach dem konkreten Tarif Überschussanteile im Rentenbezug zugeteilt werden, werden sie zur Erhöhung der laufenden Leistung des betreffenden Bestands verwendet. Für Sondertarife oder abweichende individuelle Vereinbarungen ist die jeweilige Vertragsfassung zu prüfen. Ob die tatsächliche Verwendung in einem bestimmten Jahr alle Voraussetzungen einer arbeitsrechtlichen Anpassungsausnahme erfüllt, wird durch diese allgemeine Tarifbeschreibung nicht abschließend bestätigt.",
+        "4 Nachweis",
+        "Die Kasse stellt dem Mitgliedsunternehmen auf Anforderung die für seinen Bestand erforderliche Aufteilung bereit. Das Unternehmen muss dabei Vertragsnummer, Zusagegruppe und Prüfjahr benennen. Fehlende historische Zuordnungen werden als Klärungsposten geführt. Eine nicht ausgefüllte Spalte darf nicht als positiver Verwendungsnachweis verwendet werden.",
+        "5 Änderungen",
+        "Änderungen der Tarifbedingungen werden mit Geltungsbeginn und betroffenen Vertragsgruppen mitgeteilt. Die Kasse entscheidet damit nicht über außerhalb des Versicherungsvertrags erteilte Arbeitgeberzusagen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "15",
+      "path": "Grundakte/15_Treasury_Auftrag.pdf",
+      "kind": "pdf",
+      "title": "Treasury – zwei unterschiedliche Finanzierungsfragen",
+      "date": "2026-10-20",
+      "sender": "Finanzvorstand Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Treasury und Recht\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Treasury – zwei unterschiedliche Finanzierungsfragen",
+      "body": [
+        "1 Laufende Arbeitgeberleistungen",
+        "Für die Planung ist zu ermitteln, welche Gesellschaft aufgrund ihrer tatsächlichen Zusagen zusätzliche monatliche Zahlungen leisten muss. Die garantierte Kürzung von 18.000 EUR pro Monat und die Überschussverringerung von 5.000 EUR dürfen nicht ungeprüft als einheitlicher Anspruch aller Rentner behandelt werden. Die Zahlungen sind den drei Arbeitgebern zuzuordnen.",
+        "2 Zusätzliche Finanzierung der Kasse",
+        "Daneben hat die Kasse um Gespräche über zusätzliche Mittel der Mitgliedsunternehmen gebeten. Ein zusätzlicher Kassenbeitrag ist nicht automatisch identisch mit der Erfüllung einer konkreten Rentenforderung gegen den Arbeitgeber. Für beide Wege sind Kosten, Zweckbindung, Auswirkung auf zukünftige Leistungen und vertragliche Voraussetzungen getrennt darzustellen.",
+        "3 Liquidität",
+        "Die AG verfügt zum 30. September über 18 Mio. EUR freie Bankliquidität. Die Komponenten GmbH und Service GmbH führen eigene Konten. Eine vorhandene Konzernliquidität ist kein Nachweis, dass jede Tochtergesellschaft ohne Vereinbarung hierüber verfügen darf. Für eine interne Finanzierung ist ein ausdrücklicher Abruf- und Rückzahlungsmechanismus vorzulegen.",
+        "4 Auftrag",
+        "Bitte rechnen Sie eine Variante mit ausschließlich garantierten Differenzbeträgen und eine vorsichtige obere Planungsvariante mit der gesamten tatsächlichen Zahlungslücke. Diese Planvarianten sind keine rechtliche Vorentscheidung. Eine pauschale Ablehnung von Rentneranfragen wird nicht freigegeben."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "16",
+      "path": "Grundakte/16_Kasse_Finanzierungsvorschlag.pdf",
+      "kind": "pdf",
+      "title": "Mitgliederfinanzierung 2027 – Gesprächsvorschlag",
+      "date": "2026-10-21",
+      "sender": "Rheinwiese Pensionskasse VVaG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Niederrhein-Verbund\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Mitgliederfinanzierung 2027 – Gesprächsvorschlag",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "wir schlagen Gespräche über eine zusätzliche Finanzierung von 6 Mio. EUR durch die Mitgliedsunternehmen des Niederrhein-Verbunds vor. Dieser Betrag ist eine Verhandlungsgröße unseres Planungsmodells. Eine bindende Verpflichtung Ihrer Unternehmen besteht aus diesem Schreiben noch nicht. Vorgesehen wären drei Raten von je 2 Mio. EUR in 2027,2028 und 2029.",
+        "Bitte teilen Sie mit, welche Gesellschaften an einer konkreten Vereinbarung mitwirken könnten. Zu klären sind Zweckbindung, verbindliche Leistungsziele, die Behandlung der bereits umgesetzten Kürzung und die erforderlichen Beschlüsse und aufsichtsrechtlichen Voraussetzungen. Wir haben Ihnen noch keine genehmigte Vereinbarung übermittelt.",
+        "Die im Jahr 2026 geänderten gesetzlichen Möglichkeiten einer vorübergehenden Unterdeckung werden gesondert geprüft. Wir erklären hiermit nicht, dass deren Voraussetzungen in unserem Fall bereits erfüllt seien oder dass sie ohne weitere Grundlage eine Kürzung rechtfertigen. Ein belastbarer Vorschlag erfordert Satzungsabgleich, Finanzierungszusagen und die erforderlichen Genehmigungen.",
+        "Dr. Vera Hain, Vorstand."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "17",
+      "path": "Grundakte/17_Payroll_Abgleich.eml",
+      "kind": "eml",
+      "title": "Kürzungsliste: Brutto, Netto und Arbeitgeber trennen",
+      "date": "2026-10-21",
+      "sender": "Payroll <payroll@niederrhein-verbund.example>",
+      "recipient": "Projektgruppe <projekt@niederrhein-verbund.example>",
+      "subject": "Kürzungsliste: Brutto, Netto und Arbeitgeber trennen",
+      "body": [
+        "Die Kassenliste enthält Bruttobeträge. Bitte vergleicht sie nicht unmittelbar mit den auf Privatkonten eingegangenen Nettobeträgen. Für den Arbeitgeberausgleich benötigen wir zunächst die sachlich zugeordneten garantierten und zusätzlichen Bestandteile.",
+        "Die Liste umfasst 680 Rentner. Der Detailauszug mit 42 Personen dient der Belegprüfung und ist keine Vollauswertung. Claudia Seidel trägt die NummerN-0001 und gehört zur Service GmbH. Ihr garantierter Fehlbetrag beträgt 72 EUR, die Überschussdifferenz 20 EUR. Ein automatischer Sammellauf ist noch nicht freigegeben.",
+        "Wir haben die historischen Beträge nicht überschrieben. FürSeptember und Oktober stehen jeweils alte und neue Komponenten im Export. Bitte gebt bei einer Freigabe den Monat, Rechtsgrund und die steuerliche Abwicklung gesondert an."
+      ],
+      "attachments": [],
+      "from_email": "payroll@niederrhein-verbund.example",
+      "to_email": "projekt@niederrhein-verbund.example"
+    },
+    {
+      "id": "18",
+      "path": "Grundakte/18_Betriebsrat.pdf",
+      "kind": "pdf",
+      "title": "Anfrage zur Zukunft der Kassenversorgung",
+      "date": "2026-10-22",
+      "sender": "Gesamtbetriebsrat Niederrhein-Verbund\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Vorstand Personal\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Anfrage zur Zukunft der Kassenversorgung",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "aktive Beschäftigte fragen, ob die Kürzung der Rentner auch ihre künftigen Ansprüche betrifft. Die bisherigen Informationen vermischen laufende Renten, garantierte Anwartschaften und nicht garantierte Hochrechnungen. Bitte stellen Sie die Auswirkungen für diese Gruppen getrennt dar.",
+        "Wir benötigen eine Beschreibung der Arbeitgeberzusagen, der Kassenmaßnahme und der beabsichtigten Finanzierung. Die bloße Aussage „die Kasse hat entschieden“ beantwortet die Frage nach den Zusagen der Unternehmen nicht. Eine Änderung der Versorgung aktiver Beschäftigter ist bislang weder erläutert noch vereinbart.",
+        "Bitte laden Sie zu einem Informationsgespräch ein und übermitteln Sie die vorgesehenen Erläuterungen vorab. Diese Anfrage enthält keine Zustimmung zu einer Leistungskürzung oder zu einer bestimmten Finanzierungsstruktur."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "19",
+      "path": "Grundakte/19_Lenkungskreis.docx",
+      "kind": "docx",
+      "title": "Projektgruppe Rheinwiese – offene Fragen vor Rentnerantworten",
+      "date": "2026-10-23",
+      "sender": "Projektsekretariat\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "HR, Treasury, Recht\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Projektgruppe Rheinwiese – offene Fragen vor Rentnerantworten",
+      "body": [
+        "Die Projektgruppe bestätigt, dass die Kasse seit September niedrigere Zahlungen leistet. Die garantierte Differenz und die Überschussänderung werden getrennt behandelt. Für die drei Arbeitgeber liegen unterschiedliche Zusagetexte vor. Der Ausdruck „Kassenrisiko“ ersetzt keine Prüfung dieser Texte.",
+        "Das Anpassungsprotokoll 2024 zeigt eine unerledigte Nachforderung. Die allgemeine Tarifbeschreibung allein belegt nicht die tatsächliche Überschussverwendung im maßgeblichen Bestand. HR soll die offenen Unterlagen konkret anfordern.",
+        "Treasury berechnet laufende Ausgleichsvarianten und den getrennten Mitgliederfinanzierungsvorschlag. Eine Zahlung von 6 Mio. EUR an die Kasse wird nicht freigegeben. Bis zur Entscheidung werden Rentneranfragen individuell erfasst; es wird kein Standardablehnungsschreiben versandt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "20",
+      "path": "Grundakte/20_Gesellschaftsfinanzierung.docx",
+      "kind": "docx",
+      "title": "Darlehensrahmen für laufende Versorgungsausgaben – Verhandlungsentwurf",
+      "date": "2026-10-24",
+      "sender": "Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Niederrhein Komponenten GmbH und Niederrhein Service GmbH\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Darlehensrahmen für laufende Versorgungsausgaben – Verhandlungsentwurf",
+      "body": [
+        "1 Zweck",
+        "Die AG soll den beiden Tochtergesellschaften einen gemeinsamen Darlehensrahmen von 500.000 EUR zur Finanzierung tatsächlich fälliger betrieblicher Versorgungsleistungen bereitstellen. Die interne Finanzierung verändert den jeweiligen Schuldner der Versorgungsleistung nicht. Jede Gesellschaft weist ihre eigenen Abrufe und Zahlungen gesondert nach.",
+        "2 Abruf",
+        "Ein Abruf erfordert einen freigegebenen Monatsplan mit den betroffenen Leistungsbestandteilen und eine Bestätigung der Geschäftsführung. Die AG zahlt innerhalb von fünf Bankarbeitstagen auf das Konto der abrufenden Gesellschaft. Nicht benötigte Mittel werden mit der nächsten Abrechnung verrechnet. Ein Abruf für einen zusätzlichen Kassenbeitrag ist von diesem Zweck nicht umfasst.",
+        "3 Verzinsung und Rückzahlung",
+        "Der Entwurf sieht eine Verzinsung von 3,5 Prozent jährlich und eine Rückzahlung bis 31. Dezember 2028 vor. Die Zinsen werden monatlich auf den tatsächlich ausgereichten Betrag berechnet. Steuerliche und gesellschaftsrechtliche Angemessenheit sind vor Unterzeichnung zu prüfen. Es ist kein Rangrücktritt vereinbart.",
+        "4 Kontrolle",
+        "Die Tochtergesellschaften berichten monatlich über Verwendung und Liquidität. Die AG kann keine Kürzung rechtlich geschuldeter Renten verlangen, nur um eine Darlehensgrenze einzuhalten. Bei absehbarer Überschreitung wird unverzüglich eine Finanzierungsentscheidung eingeholt. Dieser Entwurf ist nicht unterzeichnet."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "21",
+      "path": "Grundakte/21_Teams_Renten.png",
+      "kind": "png",
+      "title": "Teams – Wer ist für die Differenz zuständig?",
+      "date": "2026-10-24",
+      "sender": "Projektgruppe Rheinwiese\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "HR und Treasury\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Teams – Wer ist für die Differenz zuständig?",
+      "body": [
+        "09:31 | HR – Seidel verlangt 92 EUR, sind das alles garantierte Beträge?",
+        "09:33 | Payroll – Nein:72 EUR Garantie,20 EUR Überschuss.",
+        "09:35 | Recht – Zusage 1998 und Bescheid 2021 getrennt vom Kassentarif lesen.",
+        "09:37 | Treasury – Bitte laufenden Ausgleich nicht mit 6 MioKassenfinanzierung verwechseln.",
+        "09:40 | HR – Ich stoppe den Standardtext und fordere die Unterlagen 2024 an."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "22",
+      "path": "Grundakte/22_Unterlagenanforderung.eml",
+      "kind": "eml",
+      "title": "Bitte konkrete Unterlagen zur Maßnahme und Überschussverwendung",
+      "date": "2026-10-26",
+      "sender": "Projekt Rheinwiese <projekt@niederrhein-verbund.example>",
+      "recipient": "Bestandsmanagement <bestand@rheinwiese.example>",
+      "subject": "Bitte konkrete Unterlagen zur Maßnahme und Überschussverwendung",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "bitte stellen Sie uns die vollständige Beschlussausfertigung vom 30. Juni, den betroffenen Tarifkreis, die einschlägige Satzungsfassung und die aufsichtsrechtlichen Unterlagen zur umgesetzten Maßnahme zur Verfügung. Unsere aktuelle Akte enthält nur die Ankündigung und die geänderten Leistungsmitteilungen.",
+        "Für die Anpassungsprüfung benötigen wir außerdem die tatsächlich zugeteilten Überschüsse und deren Verwendung je Tarifgruppe für 2021 bis 2024. Eine Gesamtsumme über sämtliche Mitglieder genügt uns nicht. Bitte kennzeichnen Sie historische Lücken ausdrücklich und ersetzen Sie sie nicht mit einer aktuellen Tarifbeschreibung.",
+        "Für Claudia Seidel bitten wir um Zuordnung der Vertragsnummer zur Zusage 1998 und zur Leistungsbestätigung 2021. Die Anfrage soll weder eine Zustimmung zur Kürzung noch eine abschließende rechtliche Anerkennung der Maßnahme darstellen."
+      ],
+      "attachments": [],
+      "from_email": "projekt@niederrhein-verbund.example",
+      "to_email": "bestand@rheinwiese.example"
+    },
+    {
+      "id": "23",
+      "path": "Grundakte/23_Service_Gespraech.docx",
+      "kind": "docx",
+      "title": "Gespräch mit ehemaliger Personalreferentin",
+      "date": "2026-10-27",
+      "sender": "Anne Brück, HR\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Projekt Rheinwiese\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Gespräch mit ehemaliger Personalreferentin",
+      "body": [
+        "Die ehemalige Personalreferentin Eva Neuhaus erinnert sich, dass bei der Service GmbH die garantierte Kassenleistung ausdrücklich als Arbeitgeberleistung zugesagt wurde. Sie verweist auf die Bestätigung 1998 und die Rentenmitteilung 2021. Sie kann nicht bestätigen, dass alle Beschäftigten dieselben Texte erhalten haben.",
+        "Die Überschussinformationen seien früher jährlich abgelegt worden. Nach einem Archivwechsel 2022 seien einige Anlagen nur in einem alten Laufwerk verblieben. Neuhaus nennt den Ordner „Kasse-Renten-Abgleich“, hat derzeit aber keinen Zugriff. Sie erklärt, dass ein Tabellenfeld „Anpassung erledigt“ häufig nach Versand einer Kasseninformation gesetzt worden sei, ohne den Inhalt der Information rechtlich zu prüfen.",
+        "Der Vermerk hält die Erinnerung fest und ersetzt die angekündigte Archivrecherche nicht. Neuhaus hat keine Vollmacht, für die Gesellschaft Ansprüche anzuerkennen oder abzulehnen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "24",
+      "path": "Fortsetzung/24_Kasse_Nachlieferung.eml",
+      "kind": "eml",
+      "title": "Tarifgruppen nicht vollständig zugeordnet",
+      "date": "2026-11-02",
+      "sender": "Bestandsmanagement <bestand@rheinwiese.example>",
+      "recipient": "Projekt Rheinwiese <projekt@niederrhein-verbund.example>",
+      "subject": "Tarifgruppen nicht vollständig zugeordnet",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "für 2024 haben wir die Überschussverwendung der Standardtarife rekonstruiert. Bei den zwölf Verträgen der SondergruppeRW-S 98 fehlt noch die eindeutige Zuordnung zu den damaligen Zuteilungstabellen. Claudia Seidel ist nach der Vertragsnummer dieser Gruppe zugeordnet. Die pauschale Portalmarkierung „Überschüsse verwendet“ bezog sich nur auf den Gesamtbestand und kann diese Einzelfrage nicht beantworten.",
+        "Die vollständige aufsichtsrechtliche Korrespondenz zur Kürzungsmaßnahme wird derzeit für die Übermittlung aufbereitet. Wir bitten Sie, aus dem bisher fehlenden Download weder eine bereits bewiesene Genehmigung noch deren Nichtvorliegen abzuleiten. Für Ihre Akte ist der Nachweis weiterhin offen.",
+        "Wir stellen die vorhandene Tarifgruppenliste bei. Die Arbeitsgruppe soll die noch fehlenden Unterlagen konkret benennen. Eine rechtliche Bewertung der Arbeitgeberzusage übernehmen wir nicht."
+      ],
+      "attachments": [
+        "Fortsetzung/32_Tarifgruppen_Nachlieferung.csv"
+      ],
+      "from_email": "bestand@rheinwiese.example",
+      "to_email": "projekt@niederrhein-verbund.example"
+    },
+    {
+      "id": "25",
+      "path": "Fortsetzung/25_Alte_Mail_2024.eml",
+      "kind": "eml",
+      "title": "Wiedergefunden: offene Frage zur Service-Sondergruppe",
+      "date": "2024-10-08",
+      "sender": "Personalverwaltung <altarchiv@niederrhein-verbund.example>",
+      "recipient": "Treasury <treasury@niederrhein-verbund.example>",
+      "subject": "Wiedergefunden: offene Frage zur Service-Sondergruppe",
+      "body": [
+        "Guten Tag,",
+        "für die zwölf VerträgeRW-S 98 fehlen uns weiterhin die tarifbezogenen Überschussnachweise. Die allgemeine Kasseninformation beantwortet die Frage nicht. Bitte lasst den Status im Anpassungsregister offen, bis die konkrete Zuordnung geprüft wurde.",
+        "Frau Seidel hatte bereits telefonisch nachgefragt, wann sie eine verständliche Mitteilung erhält. Wir haben noch keinen endgültigen Antworttext. Eine abschließende Prüfung der wirtschaftlichen Lage der Service GmbH liegt ebenfalls nicht in dieser Akte. Bitte gebt das Thema an die neue Sachbearbeitung weiter, wenn unser Laufwerk zum Jahresende umgestellt wird.",
+        "Eva Neuhaus"
+      ],
+      "attachments": [],
+      "archive_received": "2026-11-03",
+      "from_email": "altarchiv@niederrhein-verbund.example",
+      "to_email": "treasury@niederrhein-verbund.example"
+    },
+    {
+      "id": "26",
+      "path": "Fortsetzung/26_Seidel_Nachfrage.eml",
+      "kind": "eml",
+      "title": "Frist 6. November – bitte konkreter Zwischenstand",
+      "date": "2026-11-05",
+      "sender": "Claudia Seidel <claudia.seidel@privatpost.example>",
+      "recipient": "Personalservice <pensionen@niederrhein-verbund.example>",
+      "subject": "Frist 6. November – bitte konkreter Zwischenstand",
+      "body": [
+        "Sehr geehrte Frau Brück,",
+        "Sie haben meinen Eingang bestätigt, aber noch nicht erklärt, ob die garantierte Differenz bezahlt wird. FürSeptember und Oktober fehlen zusammen 144 EUR der garantierten Leistung; die zusätzlichen Überschussdifferenzen betragen zusammen 40 EUR. Die Novemberzahlung wird nach der Kassenmitteilung ebenfalls geringer ausfallen.",
+        "Bitte teilen Sie mir mit, welche Frage bereits geklärt ist und welche Unterlage noch fehlt. Ich möchte nicht nur den Hinweis erhalten, die Kasse müsse antworten. Auch meine Frage zur Anpassung seit 2021 ist offen. Ich bin bereit, noch vorhandene Unterlagen zu übersenden, wenn Sie konkret sagen, was Sie benötigen.",
+        "Eine Klage ist weiterhin nicht eingereicht. Ich bitte um einen nachvollziehbaren schriftlichen Sachstand und einen konkreten Termin für die weitere Antwort."
+      ],
+      "attachments": [],
+      "from_email": "claudia.seidel@privatpost.example",
+      "to_email": "pensionen@niederrhein-verbund.example"
+    },
+    {
+      "id": "29",
+      "path": "Grundakte/29_Detailauszug_42.csv",
+      "kind": "csv",
+      "title": "42 ausgewählte Renten – Einzelfallabgleich",
+      "date": "2026-10-20",
+      "sender": "Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Projektteam\nWerkstraße 27\n47829 Krefeld",
+      "subject": "42 ausgewählte Renten – Einzelfallabgleich",
+      "body": [
+        "Person;Arbeitgeber;Tarifgruppe;Garantie_alt_EUR;Ueberschuss_alt_EUR;Garantie_neu_EUR;Ueberschuss_neu_EUR;Umfang\r\nN-0001;Service;RW-S 98;1200;60;1128.0;40;Ausgewählter Detailfall\r\nN-0002;Service;RW-S 98;318;22;298.92;19.8;Ausgewählter Detailfall\r\nN-0003;Service;RW-S 98;327;23;307.38;20.7;Ausgewählter Detailfall\r\nN-0004;Service;RW-S 98;336;24;315.84;21.6;Ausgewählter Detailfall\r\nN-0005;Service;RW-S 98;345;25;324.3;22.5;Ausgewählter Detailfall\r\nN-0006;Service;RW-S 98;354;26;332.76;23.4;Ausgewählter Detailfall\r\nN-0007;Service;RW-S 98;363;27;341.22;24.3;Ausgewählter Detailfall\r\nN-0008;Service;RW-S 98;372;28;349.68;25.2;Ausgewählter Detailfall\r\nN-0009;Service;RW-S 98;381;29;358.14;26.1;Ausgewählter Detailfall\r\nN-0010;Service;RW-S 98;390;30;366.6;27.0;Ausgewählter Detailfall\r\nN-0011;Service;RW-S 98;399;31;375.06;27.9;Ausgewählter Detailfall\r\nN-0012;Service;RW-S 98;408;32;383.52;28.8;Ausgewählter Detailfall\r\nN-0013;Service;Standard;417;33;391.98;29.7;Ausgewählter Detailfall\r\nN-0014;Service;Standard;426;34;400.44;30.6;Ausgewählter Detailfall\r\nN-0015;AG;Standard;435;35;408.9;31.5;Ausgewählter Detailfall\r\nN-0016;AG;Standard;444;36;417.36;32.4;Ausgewählter Detailfall\r\nN-0017;AG;Standard;453;37;425.82;33.3;Ausgewählter Detailfall\r\nN-0018;AG;Standard;462;38;434.28;34.2;Ausgewählter Detailfall\r\nN-0019;AG;Standard;471;39;442.74;35.1;Ausgewählter Detailfall\r\nN-0020;AG;Standard;480;40;451.2;36.0;Ausgewählter Detailfall\r\nN-0021;AG;Standard;489;41;459.66;36.9;Ausgewählter Detailfall\r\nN-0022;AG;Standard;498;42;468.12;37.8;Ausgewählter Detailfall\r\nN-0023;AG;Standard;507;43;476.58;38.7;Ausgewählter Detailfall\r\nN-0024;AG;Standard;516;44;485.04;39.6;Ausgewählter Detailfall\r\nN-0025;AG;Standard;525;45;493.5;40.5;Ausgewählter Detailfall\r\nN-0026;AG;Standard;534;46;501.96;41.4;Ausgewählter Detailfall\r\nN-0027;AG;Standard;543;47;510.42;42.3;Ausgewählter Detailfall\r\nN-0028;AG;Standard;552;48;518.88;43.2;Ausgewählter Detailfall\r\nN-0029;Komponenten;Standard;561;49;527.34;44.1;Ausgewählter Detailfall\r\nN-0030;Komponenten;Standard;570;50;535.8;45.0;Ausgewählter Detailfall\r\nN-0031;Komponenten;Standard;579;51;544.26;45.9;Ausgewählter Detailfall\r\nN-0032;Komponenten;Standard;588;52;552.72;46.8;Ausgewählter Detailfall\r\nN-0033;Komponenten;Standard;597;53;561.18;47.7;Ausgewählter Detailfall\r\nN-0034;Komponenten;Standard;606;54;569.64;48.6;Ausgewählter Detailfall\r\nN-0035;Komponenten;Standard;615;55;578.1;49.5;Ausgewählter Detailfall\r\nN-0036;Komponenten;Standard;624;56;586.56;50.4;Ausgewählter Detailfall\r\nN-0037;Komponenten;Standard;633;57;595.02;51.3;Ausgewählter Detailfall\r\nN-0038;Komponenten;Standard;642;58;603.48;52.2;Ausgewählter Detailfall\r\nN-0039;Komponenten;Standard;651;59;611.94;53.1;Ausgewählter Detailfall\r\nN-0040;Komponenten;Standard;660;60;620.4;54.0;Ausgewählter Detailfall\r\nN-0041;Komponenten;Standard;669;61;628.86;54.9;Ausgewählter Detailfall\r\nN-0042;Komponenten;Standard;678;62;637.32;55.8;Ausgewählter Detailfall"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Person",
+          "Arbeitgeber",
+          "Tarifgruppe",
+          "Garantie_alt_EUR",
+          "Ueberschuss_alt_EUR",
+          "Garantie_neu_EUR",
+          "Ueberschuss_neu_EUR",
+          "Umfang"
+        ],
+        "rows": [
+          [
+            "N-0001",
+            "Service",
+            "RW-S98",
+            1200,
+            60,
+            1128.0,
+            40,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0002",
+            "Service",
+            "RW-S98",
+            318,
+            22,
+            298.92,
+            19.8,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0003",
+            "Service",
+            "RW-S98",
+            327,
+            23,
+            307.38,
+            20.7,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0004",
+            "Service",
+            "RW-S98",
+            336,
+            24,
+            315.84,
+            21.6,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0005",
+            "Service",
+            "RW-S98",
+            345,
+            25,
+            324.3,
+            22.5,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0006",
+            "Service",
+            "RW-S98",
+            354,
+            26,
+            332.76,
+            23.4,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0007",
+            "Service",
+            "RW-S98",
+            363,
+            27,
+            341.22,
+            24.3,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0008",
+            "Service",
+            "RW-S98",
+            372,
+            28,
+            349.68,
+            25.2,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0009",
+            "Service",
+            "RW-S98",
+            381,
+            29,
+            358.14,
+            26.1,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0010",
+            "Service",
+            "RW-S98",
+            390,
+            30,
+            366.6,
+            27.0,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0011",
+            "Service",
+            "RW-S98",
+            399,
+            31,
+            375.06,
+            27.9,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0012",
+            "Service",
+            "RW-S98",
+            408,
+            32,
+            383.52,
+            28.8,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0013",
+            "Service",
+            "Standard",
+            417,
+            33,
+            391.98,
+            29.7,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0014",
+            "Service",
+            "Standard",
+            426,
+            34,
+            400.44,
+            30.6,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0015",
+            "AG",
+            "Standard",
+            435,
+            35,
+            408.9,
+            31.5,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0016",
+            "AG",
+            "Standard",
+            444,
+            36,
+            417.36,
+            32.4,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0017",
+            "AG",
+            "Standard",
+            453,
+            37,
+            425.82,
+            33.3,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0018",
+            "AG",
+            "Standard",
+            462,
+            38,
+            434.28,
+            34.2,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0019",
+            "AG",
+            "Standard",
+            471,
+            39,
+            442.74,
+            35.1,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0020",
+            "AG",
+            "Standard",
+            480,
+            40,
+            451.2,
+            36.0,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0021",
+            "AG",
+            "Standard",
+            489,
+            41,
+            459.66,
+            36.9,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0022",
+            "AG",
+            "Standard",
+            498,
+            42,
+            468.12,
+            37.8,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0023",
+            "AG",
+            "Standard",
+            507,
+            43,
+            476.58,
+            38.7,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0024",
+            "AG",
+            "Standard",
+            516,
+            44,
+            485.04,
+            39.6,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0025",
+            "AG",
+            "Standard",
+            525,
+            45,
+            493.5,
+            40.5,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0026",
+            "AG",
+            "Standard",
+            534,
+            46,
+            501.96,
+            41.4,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0027",
+            "AG",
+            "Standard",
+            543,
+            47,
+            510.42,
+            42.3,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0028",
+            "AG",
+            "Standard",
+            552,
+            48,
+            518.88,
+            43.2,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0029",
+            "Komponenten",
+            "Standard",
+            561,
+            49,
+            527.34,
+            44.1,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0030",
+            "Komponenten",
+            "Standard",
+            570,
+            50,
+            535.8,
+            45.0,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0031",
+            "Komponenten",
+            "Standard",
+            579,
+            51,
+            544.26,
+            45.9,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0032",
+            "Komponenten",
+            "Standard",
+            588,
+            52,
+            552.72,
+            46.8,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0033",
+            "Komponenten",
+            "Standard",
+            597,
+            53,
+            561.18,
+            47.7,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0034",
+            "Komponenten",
+            "Standard",
+            606,
+            54,
+            569.64,
+            48.6,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0035",
+            "Komponenten",
+            "Standard",
+            615,
+            55,
+            578.1,
+            49.5,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0036",
+            "Komponenten",
+            "Standard",
+            624,
+            56,
+            586.56,
+            50.4,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0037",
+            "Komponenten",
+            "Standard",
+            633,
+            57,
+            595.02,
+            51.3,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0038",
+            "Komponenten",
+            "Standard",
+            642,
+            58,
+            603.48,
+            52.2,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0039",
+            "Komponenten",
+            "Standard",
+            651,
+            59,
+            611.94,
+            53.1,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0040",
+            "Komponenten",
+            "Standard",
+            660,
+            60,
+            620.4,
+            54.0,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0041",
+            "Komponenten",
+            "Standard",
+            669,
+            61,
+            628.86,
+            54.9,
+            "Ausgewählter Detailfall"
+          ],
+          [
+            "N-0042",
+            "Komponenten",
+            "Standard",
+            678,
+            62,
+            637.32,
+            55.8,
+            "Ausgewählter Detailfall"
+          ]
+        ]
+      },
+      "raw": "Person;Arbeitgeber;Tarifgruppe;Garantie_alt_EUR;Ueberschuss_alt_EUR;Garantie_neu_EUR;Ueberschuss_neu_EUR;Umfang\r\nN-0001;Service;RW-S98;1200;60;1128.0;40;Ausgewählter Detailfall\r\nN-0002;Service;RW-S98;318;22;298.92;19.8;Ausgewählter Detailfall\r\nN-0003;Service;RW-S98;327;23;307.38;20.7;Ausgewählter Detailfall\r\nN-0004;Service;RW-S98;336;24;315.84;21.6;Ausgewählter Detailfall\r\nN-0005;Service;RW-S98;345;25;324.3;22.5;Ausgewählter Detailfall\r\nN-0006;Service;RW-S98;354;26;332.76;23.4;Ausgewählter Detailfall\r\nN-0007;Service;RW-S98;363;27;341.22;24.3;Ausgewählter Detailfall\r\nN-0008;Service;RW-S98;372;28;349.68;25.2;Ausgewählter Detailfall\r\nN-0009;Service;RW-S98;381;29;358.14;26.1;Ausgewählter Detailfall\r\nN-0010;Service;RW-S98;390;30;366.6;27.0;Ausgewählter Detailfall\r\nN-0011;Service;RW-S98;399;31;375.06;27.9;Ausgewählter Detailfall\r\nN-0012;Service;RW-S98;408;32;383.52;28.8;Ausgewählter Detailfall\r\nN-0013;Service;Standard;417;33;391.98;29.7;Ausgewählter Detailfall\r\nN-0014;Service;Standard;426;34;400.44;30.6;Ausgewählter Detailfall\r\nN-0015;AG;Standard;435;35;408.9;31.5;Ausgewählter Detailfall\r\nN-0016;AG;Standard;444;36;417.36;32.4;Ausgewählter Detailfall\r\nN-0017;AG;Standard;453;37;425.82;33.3;Ausgewählter Detailfall\r\nN-0018;AG;Standard;462;38;434.28;34.2;Ausgewählter Detailfall\r\nN-0019;AG;Standard;471;39;442.74;35.1;Ausgewählter Detailfall\r\nN-0020;AG;Standard;480;40;451.2;36.0;Ausgewählter Detailfall\r\nN-0021;AG;Standard;489;41;459.66;36.9;Ausgewählter Detailfall\r\nN-0022;AG;Standard;498;42;468.12;37.8;Ausgewählter Detailfall\r\nN-0023;AG;Standard;507;43;476.58;38.7;Ausgewählter Detailfall\r\nN-0024;AG;Standard;516;44;485.04;39.6;Ausgewählter Detailfall\r\nN-0025;AG;Standard;525;45;493.5;40.5;Ausgewählter Detailfall\r\nN-0026;AG;Standard;534;46;501.96;41.4;Ausgewählter Detailfall\r\nN-0027;AG;Standard;543;47;510.42;42.3;Ausgewählter Detailfall\r\nN-0028;AG;Standard;552;48;518.88;43.2;Ausgewählter Detailfall\r\nN-0029;Komponenten;Standard;561;49;527.34;44.1;Ausgewählter Detailfall\r\nN-0030;Komponenten;Standard;570;50;535.8;45.0;Ausgewählter Detailfall\r\nN-0031;Komponenten;Standard;579;51;544.26;45.9;Ausgewählter Detailfall\r\nN-0032;Komponenten;Standard;588;52;552.72;46.8;Ausgewählter Detailfall\r\nN-0033;Komponenten;Standard;597;53;561.18;47.7;Ausgewählter Detailfall\r\nN-0034;Komponenten;Standard;606;54;569.64;48.6;Ausgewählter Detailfall\r\nN-0035;Komponenten;Standard;615;55;578.1;49.5;Ausgewählter Detailfall\r\nN-0036;Komponenten;Standard;624;56;586.56;50.4;Ausgewählter Detailfall\r\nN-0037;Komponenten;Standard;633;57;595.02;51.3;Ausgewählter Detailfall\r\nN-0038;Komponenten;Standard;642;58;603.48;52.2;Ausgewählter Detailfall\r\nN-0039;Komponenten;Standard;651;59;611.94;53.1;Ausgewählter Detailfall\r\nN-0040;Komponenten;Standard;660;60;620.4;54.0;Ausgewählter Detailfall\r\nN-0041;Komponenten;Standard;669;61;628.86;54.9;Ausgewählter Detailfall\r\nN-0042;Komponenten;Standard;678;62;637.32;55.8;Ausgewählter Detailfall\r\n"
+    },
+    {
+      "id": "30",
+      "path": "Grundakte/30_Dokumenteneingang.csv",
+      "kind": "csv",
+      "title": "Unterlagenstand der Projektgruppe",
+      "date": "2026-10-26",
+      "sender": "Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Projektteam\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Unterlagenstand der Projektgruppe",
+      "body": [
+        "Unterlage;Stand;Status\r\nZusage 1992;2026-10-19;Original vorliegend\r\nZusage 2001;2026-10-19;Original vorliegend\r\nSeidel 1998/2021;2026-10-19;Original vorliegend\r\nBeschlussausfertigung 30.06.2026;2026-10-26;angefordert\r\nAufsichtsunterlagen;2026-10-26;angefordert\r\nTarifnachweisRW-S 98;2026-10-26;offen"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Unterlage",
+          "Stand",
+          "Status"
+        ],
+        "rows": [
+          [
+            "Zusage1992",
+            "2026-10-19",
+            "Original vorliegend"
+          ],
+          [
+            "Zusage2001",
+            "2026-10-19",
+            "Original vorliegend"
+          ],
+          [
+            "Seidel1998/2021",
+            "2026-10-19",
+            "Original vorliegend"
+          ],
+          [
+            "Beschlussausfertigung30.06.2026",
+            "2026-10-26",
+            "angefordert"
+          ],
+          [
+            "Aufsichtsunterlagen",
+            "2026-10-26",
+            "angefordert"
+          ],
+          [
+            "TarifnachweisRW-S98",
+            "2026-10-26",
+            "offen"
+          ]
+        ]
+      },
+      "raw": "Unterlage;Stand;Status\r\nZusage1992;2026-10-19;Original vorliegend\r\nZusage2001;2026-10-19;Original vorliegend\r\nSeidel1998/2021;2026-10-19;Original vorliegend\r\nBeschlussausfertigung30.06.2026;2026-10-26;angefordert\r\nAufsichtsunterlagen;2026-10-26;angefordert\r\nTarifnachweisRW-S98;2026-10-26;offen\r\n"
+    },
+    {
+      "id": "32",
+      "path": "Fortsetzung/32_Tarifgruppen_Nachlieferung.csv",
+      "kind": "csv",
+      "title": "Nachlieferung zur Überschusszuordnung",
+      "date": "2026-11-02",
+      "sender": "Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Projektteam\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Nachlieferung zur Überschusszuordnung",
+      "body": [
+        "Tarifgruppe;Vertraege_im_Detailauszug;Nachweis 2024;Status\r\nRW-S 98;12;nicht vollständig zugeordnet;offen\r\nStandard;30;Gruppenaufteilung vorhanden;Einzelzuordnung abgleichen"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Tarifgruppe",
+          "Vertraege_im_Detailauszug",
+          "Nachweis2024",
+          "Status"
+        ],
+        "rows": [
+          [
+            "RW-S98",
+            12,
+            "nicht vollständig zugeordnet",
+            "offen"
+          ],
+          [
+            "Standard",
+            30,
+            "Gruppenaufteilung vorhanden",
+            "Einzelzuordnung abgleichen"
+          ]
+        ]
+      },
+      "raw": "Tarifgruppe;Vertraege_im_Detailauszug;Nachweis2024;Status\r\nRW-S98;12;nicht vollständig zugeordnet;offen\r\nStandard;30;Gruppenaufteilung vorhanden;Einzelzuordnung abgleichen\r\n"
+    },
+    {
+      "id": "33",
+      "path": "Grundakte/33_Portal_Status.png",
+      "kind": "png",
+      "title": "Mitgliederportal – unterschiedliche Dokumentstände",
+      "date": "2026-10-26",
+      "sender": "Rheinwiese Mitgliederportal\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Mitgliedsunternehmen\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Mitgliederportal – unterschiedliche Dokumentstände",
+      "body": [
+        "Leistungsmitteilungen September – verfügbar",
+        "Beschlussausfertigung Juni – Bereitstellung angefragt",
+        "Aufsichtsunterlagen – individueller Zugang in Klärung",
+        "Überschussverwendung gesamt – verfügbar",
+        "TarifgruppeRW-S 98 – historische Zuordnung offen",
+        "Hinweis der Projektgruppe: Statusanzeige ersetzt keinen Vertragsnachweis."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "34",
+      "path": "Grundakte/34_Verguetungsvereinbarung.pdf",
+      "kind": "pdf",
+      "title": "Vergütungsvereinbarung Projekt Rheinwiese",
+      "date": "2026-10-20",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "Niederrhein Industrieverbund AG\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Vergütungsvereinbarung Projekt Rheinwiese",
+      "body": [
+        "Die außergerichtliche Bearbeitung wird nach tatsächlichem Zeitaufwand vergütet. Für Partner gilt ein Satz von 420 EUR netto pro Stunde, für anwaltliche Mitarbeit 290 EUR netto. Die kleinste Abrechnungseinheit beträgt sechs Minuten entsprechend tatsächlicher Tätigkeit. Umsatzsteuer wird zusätzlich in gesetzlicher Höhe ausgewiesen. Monatliche Nachweise enthalten Datum, Bearbeiter, Tätigkeit und Dauer.",
+        "Für Sichtung, Strukturierung und die erste Entscheidungsvorlage gilt ein Planungsbudget von 90.000 EUR netto. Es handelt sich nicht um eine Pauschale. Vor absehbarer Überschreitung um mehr als 10 Prozent stimmt die Kanzlei weitere nicht eilbedürftige Arbeiten ab. Allgemeine Bürokosten sind enthalten. Externe Bewertungen und Gerichtsvertretung bedürfen eines gesonderten Auftrags.",
+        "Ein Erstattungsanspruch gegen Dritte umfasst regelmäßig höchstens gesetzlich erstattungsfähige Kosten. Die Mandantin kann deshalb einen Teil der vereinbarten Vergütung selbst tragen müssen. Rechnungen sind binnen 21 Kalendertagen nach Zugang fällig. Einwendungen werden unter Benennung der jeweiligen Position mitgeteilt.",
+        "Unterzeichnet am 20. Oktober 2026: Vorstand der Niederrhein Industrieverbund AG und Dr. Nora Treuenfels."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "35",
+      "path": "Grundakte/35_Liquiditaet_Service.pdf",
+      "kind": "pdf",
+      "title": "Service GmbH – Mittelbedarf und Verantwortlichkeit",
+      "date": "2026-10-28",
+      "sender": "Geschäftsführung Niederrhein Service GmbH\nWerkstraße 27\n47829 Krefeld",
+      "recipient": "Konzern-Treasury\nWerkstraße 27\n47829 Krefeld",
+      "subject": "Service GmbH – Mittelbedarf und Verantwortlichkeit",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "unsere Gesellschaft verfügt zum 30. September über 420.000 EUR freie Bankmittel. Daneben bestehen laufende Lohn- und Lieferantenzahlungen. Die Konzernzahl von 18 Mio. EUR ist nicht unser Kontostand. Bitte planen Sie einen zusätzlichen Mittelabruf nur auf Grundlage einer tatsächlich vereinbarten Finanzierung.",
+        "Für die Service-Kohorte beträgt die monatliche garantierte Kassenkürzung 4.200 EUR; hinzu kommen 1.500 EUR weniger Überschüsse. Ob und in welchem Umfang zusätzliche Arbeitgeberzahlungen zu leisten sind, soll anhand der konkreten Zusagen entschieden werden. Wir sind bereit, freigegebene Zahlungen umzusetzen, benötigen dafür aber eine klare Fallzuordnung und einen nachvollziehbaren Buchungsgrund.",
+        "Eine zusätzliche Finanzierung der Kasse über mehrere Jahre soll nicht ohne gesonderte Geschäftsführungsentscheidung aus unserem Konto geleistet werden. Der Entwurf des Darlehensrahmens wird derzeit geprüft. Bitte lassen Sie Rentneranfragen nicht allein wegen der internen Finanzierungsabstimmung unbeantwortet.",
+        "Dr. Leonhard Mertens, Geschäftsführer."
+      ],
+      "attachments": []
+    }
+  ],
+  "workbooks": [
+    {
+      "id": "27",
+      "path": "Grundakte/27_Kuerzungen_Kohorten.xlsx",
+      "title": "Monatliche Kassenleistung nach Zusagegruppen",
+      "sheets": [
+        {
+          "name": "Kohorten",
+          "columns": [
+            "Gruppe",
+            "Rentner",
+            "Garantie_alt_EUR",
+            "Ueberschuss_alt_EUR",
+            "Garantie_neu_EUR",
+            "Ueberschuss_neu_EUR",
+            "Garantiedifferenz_EUR",
+            "Gesamtdifferenz_EUR"
+          ],
+          "rows": [
+            [
+              "AG – Zusage1992",
+              260,
+              140000,
+              25000,
+              131600,
+              23000,
+              "=C6-E6",
+              "=C6+D6-E6-F6"
+            ],
+            [
+              "Komponenten – Zusage2001",
+              180,
+              90000,
+              18000,
+              84600,
+              16500,
+              "=C7-E7",
+              "=C7+D7-E7-F7"
+            ],
+            [
+              "Service – Zusage1998",
+              240,
+              70000,
+              17000,
+              65800,
+              15500,
+              "=C8-E8",
+              "=C8+D8-E8-F8"
+            ],
+            [
+              "Gesamt",
+              "=SUM(B6:B8)",
+              "=SUM(C6:C8)",
+              "=SUM(D6:D8)",
+              "=SUM(E6:E8)",
+              "=SUM(F6:F8)",
+              "=SUM(G6:G8)",
+              "=SUM(H6:H8)"
+            ]
+          ],
+          "formats": {
+            "Garantie_alt_EUR": "currency",
+            "Ueberschuss_alt_EUR": "currency",
+            "Garantie_neu_EUR": "currency",
+            "Ueberschuss_neu_EUR": "currency",
+            "Garantiedifferenz_EUR": "currency",
+            "Gesamtdifferenz_EUR": "currency"
+          }
+        },
+        {
+          "name": "Seidel",
+          "columns": [
+            "Monat",
+            "Garantie_alt_EUR",
+            "Garantie_neu_EUR",
+            "Ueberschuss_alt_EUR",
+            "Ueberschuss_neu_EUR",
+            "Garantiedifferenz_EUR",
+            "Gesamtdifferenz_EUR",
+            "Status"
+          ],
+          "rows": [
+            [
+              "2026-09",
+              1200,
+              1128,
+              60,
+              40,
+              "=B6-C6",
+              "=B6+D6-C6-E6",
+              "Septemberabrechnung Brutto"
+            ],
+            [
+              "2026-10",
+              1200,
+              1128,
+              60,
+              40,
+              "=B7-C7",
+              "=B7+D7-C7-E7",
+              "Oktoberleistung angekündigt; keine Bankbestätigung"
+            ],
+            [
+              "2026-11",
+              1200,
+              1128,
+              60,
+              40,
+              "=B8-C8",
+              "=B8+D8-C8-E8",
+              "Novemberleistung angekündigt; Planstand"
+            ]
+          ],
+          "formats": {
+            "Garantie_alt_EUR": "currency",
+            "Garantie_neu_EUR": "currency",
+            "Ueberschuss_alt_EUR": "currency",
+            "Ueberschuss_neu_EUR": "currency",
+            "Garantiedifferenz_EUR": "currency",
+            "Gesamtdifferenz_EUR": "currency"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Kohorten",
+          "cell": "B9",
+          "expected": 680
+        },
+        {
+          "sheet": "Kohorten",
+          "cell": "G9",
+          "expected": 18000
+        },
+        {
+          "sheet": "Kohorten",
+          "cell": "H9",
+          "expected": 23000
+        },
+        {
+          "sheet": "Seidel",
+          "cell": "F6",
+          "expected": 72
+        },
+        {
+          "sheet": "Seidel",
+          "cell": "G6",
+          "expected": 92
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "path": "Grundakte/28_Treasury_Planung.xlsx",
+      "title": "Planungsvarianten – keine Entscheidung über einzelne Ansprüche",
+      "sheets": [
+        {
+          "name": "Laufender_Ausgleich",
+          "columns": [
+            "Variante",
+            "Monatsbetrag_EUR",
+            "Monate_2026",
+            "Plan_2026_EUR",
+            "Plan_2027_EUR"
+          ],
+          "rows": [
+            [
+              "Nur garantierte Differenz",
+              18000,
+              4,
+              "=B6*C6",
+              "=B6*12"
+            ],
+            [
+              "Gesamte Zahlungslücke",
+              23000,
+              4,
+              "=B7*C7",
+              "=B7*12"
+            ]
+          ],
+          "formats": {
+            "Monatsbetrag_EUR": "currency",
+            "Plan_2026_EUR": "currency",
+            "Plan_2027_EUR": "currency"
+          }
+        },
+        {
+          "name": "Kassenfinanzierung",
+          "columns": [
+            "Jahr",
+            "Rate_EUR",
+            "Status"
+          ],
+          "rows": [
+            [
+              2027,
+              2000000,
+              "Verhandlungsvorschlag"
+            ],
+            [
+              2028,
+              2000000,
+              "Verhandlungsvorschlag"
+            ],
+            [
+              2029,
+              2000000,
+              "Verhandlungsvorschlag"
+            ],
+            [
+              "Gesamt",
+              "=SUM(B6:B8)",
+              "Keine Unterschrift"
+            ]
+          ],
+          "formats": {
+            "Rate_EUR": "currency"
+          }
+        },
+        {
+          "name": "Bestandsumfang",
+          "columns": [
+            "Gruppe",
+            "Aktiv",
+            "Ausgeschieden",
+            "Rentner"
+          ],
+          "rows": [
+            [
+              "AG",
+              610,
+              140,
+              260
+            ],
+            [
+              "Komponenten",
+              470,
+              90,
+              180
+            ],
+            [
+              "Service",
+              380,
+              90,
+              240
+            ],
+            [
+              "Gesamt",
+              "=SUM(B6:B8)",
+              "=SUM(C6:C8)",
+              "=SUM(D6:D8)"
+            ]
+          ]
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Laufender_Ausgleich",
+          "cell": "D6",
+          "expected": 72000
+        },
+        {
+          "sheet": "Laufender_Ausgleich",
+          "cell": "E6",
+          "expected": 216000
+        },
+        {
+          "sheet": "Laufender_Ausgleich",
+          "cell": "E7",
+          "expected": 276000
+        },
+        {
+          "sheet": "Kassenfinanzierung",
+          "cell": "B9",
+          "expected": 6000000
+        },
+        {
+          "sheet": "Bestandsumfang",
+          "cell": "B9",
+          "expected": 1460
+        },
+        {
+          "sheet": "Bestandsumfang",
+          "cell": "C9",
+          "expected": 320
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "id": "31",
+      "path": "Grundakte/31_Lenkungskreis.pptx",
+      "title": "Rheinwiese – Kasse und Arbeitgeberzusage unterscheiden",
+      "slides": [
+        {
+          "title": "Was passiert ist",
+          "bullets": [
+            "680 laufende Renten seit September geringer",
+            "Garantierte Leistung: 300.000 → 282.000 EUR pro Monat",
+            "Überschuss: 60.000 → 55.000 EUR pro Monat"
+          ]
+        },
+        {
+          "title": "Drei Ebenen",
+          "bullets": [
+            "Kassenvertrag und konkrete Maßnahme",
+            "Arbeitgeberzusage je Gesellschaft",
+            "Anpassung und tatsächliche Überschussverwendung"
+          ]
+        },
+        {
+          "title": "Finanzierung",
+          "bullets": [
+            "Laufende Differenzzahlung prüfen",
+            "6 MioEUR Mitgliederfinanzierung nur Vorschlag",
+            "Interner Darlehensrahmen getrennt gestalten"
+          ]
+        },
+        {
+          "title": "Nächste Entscheidung",
+          "bullets": [
+            "Seidel konkret antworten",
+            "Fehlende Originalnachweise beschaffen",
+            "Keine pauschale Lösung für alle Kohorten"
+          ]
+        }
+      ]
+    }
+  ],
+  "controls": {
+    "pensioners": 680,
+    "active": 1460,
+    "deferred": 320,
+    "selected_persons": 42,
+    "guarantee_before_monthly_eur": 300000,
+    "guarantee_after_monthly_eur": 282000,
+    "surplus_before_monthly_eur": 60000,
+    "surplus_after_monthly_eur": 55000,
+    "guarantee_gap_monthly_eur": 18000,
+    "total_gap_monthly_eur": 23000,
+    "seidel_guarantee_gap_eur": 72,
+    "seidel_surplus_gap_eur": 20,
+    "kasse_uncommitted_financing_eur": 6000000,
+    "chronology": "Grundakte bis28.10.2026; Fortsetzung ab02.11.2026; Archivmail2024 wurde am03.11.2026 nachgeliefert."
+  }
+}

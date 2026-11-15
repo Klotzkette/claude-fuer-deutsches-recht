@@ -1,0 +1,508 @@
+
+3 AZR 24/25 - Das Bundesarbeitsgericht
+Zum Hauptmenü
+Zum Hauptmenü
+Zum Informationsmenü
+Zum Inhalt
+Suchen
+Suchen
+Zur Fußzeile
+      Informationsmenü 
+Suche
+Kontakt
+Elektronischer Rechtsverkehr und elektronische Gerichtsakte
+Leichte Sprache
+Gebärdensprache
+Datenschutz
+DE
+EN
+Hoher Kontrast
+Menu
+              Start            
+              Aktuelles und Veranstaltungen            
+Aktuelles
+Veranstaltungen
+                              Jahrespressegespräch des Bundesarbeitsgerichts                            
+                              Instanzen im Dialog                            
+                              Europarechtliches Symposion                            
+                              Moot Court Wettbewerb                            
+                              Amtseinführung 28.06.2022                            
+                              Wanderausstellung                            
+Sitzungstage
+Sitzungsergebnisse
+              Das Bundesarbeitsgericht            
+Organisation
+                              Die Präsidentin                            
+                              Der Vizepräsident                            
+                              Die Senate                            
+                              Die Richterinnen und Richter                            
+                              Die wissenschaftlichen Mitarbeiter                            
+                              Die Geschäftsstelle                            
+                              Die Bibliothek                            
+                              Die Dokumentationsstelle                            
+                              Die Verwaltungsabteilung                            
+                              Internationale Zusammenarbeit                            
+                              Organigramm                            
+Die Arbeitsgerichtsbarkeit
+                              Aufgaben des Bundesarbeitsgerichts                            
+                              Zuständigkeit                            
+                              Aufbau der Arbeitsgerichtsbarkeit                            
+                              Ablauf des arbeitsgerichtlichen Verfahrens                            
+Geschäftsverteilung
+                              Kurzfassung                            
+                              Geschäftsverteilungsplan                            
+                              Geschäftsordnung                            
+                              Organigramm                            
+Gebäude
+              Entscheidungen            
+              Ihr Besuch bei uns            
+Aktuelle Hinweise
+                              So finden Sie uns                            
+Die Bibliothek
+Sitzungstage
+              Presse            
+Pressestelle
+                              Jahresberichte                            
+                              Pressefotos                            
+Pressemitteilungen
+Sitzungstage
+              Service            
+Kontakt
+Stellenangebote
+Ausschreibungen
+Pressefotos
+Pressemitteilungen
+Suche
+Start
+Entscheidungen
+3 AZR 24/25
+3 AZR 24/25
+Betriebsrentenanpassung - wirtschaftliche Lage - Prognose - Eigenkapital - Bilanz
+Parallele Entscheidungen:
+                  3 AZR 25/25                
+                  3 AZR 26/25                
+Details
+Aktenzeichen
+3 AZR 24/25
+ECLI
+ECLI:DE:BAG:2025:281025.U.3AZR24.25.0
+Art
+Urteil
+Datum
+28.10.2025
+Senat
+3. Senat
+Tenor
+Die Revision des Klägers gegen das Urteil des Landesarbeitsgerichts Düsseldorf vom 9. Oktober 2024 – 12 SLa 168/24 – wird zurückgewiesen.
+Der Kläger hat die Kosten der Revision zu tragen.
+Leitsatz
+Bei der Anpassungsprüfung und -entscheidung nach § 16 Abs. 1 BetrAVG hat der Arbeitgeber die Belange der Versorgungsempfänger und seine eigene wirtschaftliche Lage zu berücksichtigen. Die wirtschaftliche Lage des Arbeitgebers ist ein unbestimmter Rechtsbegriff. Daher obliegt die Würdigung, ob sich die Anpassungsentscheidung im Rahmen des dem Arbeitgeber zustehenden Beurteilungs- und Ermessensspielraums hält, den Tatsachengerichten. Die entsprechende Würdigung des Berufungsgerichts unterliegt in der Revisionsinstanz nur einer eingeschränkten revisionsrechtlichen Überprüfung.
+Tatbestand
+1
+Die Parteien streiten darüber, ob die Beklagte verpflichtet ist, die Betriebsrente des Klägers zum 1. Juli 2022 anzupassen.
+2
+Die Beklagte ist ein als Universalbank tätiges deutsches Kreditinstitut in der Rechtsform einer Aktiengesellschaft. Der Kläger ist seit dem 1. Juli 2007 Betriebsrentner der Beklagten. Seine Betriebsrente belief sich zunächst auf 1.619,00 Euro brutto. Die Beklagte führt die Anpassungsprüfungen für ihre knapp 30.000 Betriebsrentner zum 1. Juli eines jeden Kalenderjahres gebündelt durch. Nachdem zum 1. Juli 2010 und zum 1. Juli 2013 aufgrund der wirtschaftlichen Lage der Beklagten eine Anpassung der Betriebsrente zu Recht unterblieben war, wurde sie zum 1. Juli 2016 um 1,61 % auf aufgerundet 1.646,00 Euro brutto und zum 1. Juli 2019 um 4,97 % auf aufgerundet monatlich 1.728,00 Euro brutto angehoben.
+3
+Im Geschäftsjahr 2018 belief sich das durchschnittliche Eigenkapital der Beklagten auf 22.588 Mio. Euro. Nach den von der E GmbH Wirtschaftsprüfungsgesellschaft geprüften und testierten handelsrechtlichen Jahresabschlüssen für das Kalenderjahr 2019 betrug das Ergebnis der gewöhnlichen Geschäftstätigkeit der Beklagten unter Abzug der ausgewiesenen außerordentlichen Aufwendungen und Erträge vor Steuern vom Einkommen und vom Ertrag iHv. 134 Mio. Euro und nach sonstigen Steuern iHv. – 20 Mio. Euro 481 Mio. Euro. Das durchschnittliche Eigenkapital der Beklagten belief sich ausweislich der Jahresbilanz auf 22.464 Mio. Euro (zu Jahresbeginn 22.708 Mio. Euro, zum Jahresende 22.219 Mio. Euro). Auf der Passivseite der Jahresbilanz ist getrennt vom Eigenkapital eine eigene Spalte mit der Bezeichnung „Instrumente des zusätzlichen aufsichtsrechtlichen Kernkapitals“ mit keiner Angabe am 31. Dezember 2018 und der Angabe von 920 Mio. Euro am 31. Dezember 2019 enthalten. In den Erläuterungen zur Bilanz heißt es dazu ua.:
+„
+(29) Instrumente des zusätzlichen aufsichtsrechtlichen Kernkapitals
+Im Geschäftsjahr 2019 hat die C Aktiengesellschaft ihre erste Additional-Tier-1-Anleihe (AT-1-Anleihe) gemäß Capital Requirements Regulation (CRR) begeben. Die Anleihe hat ein Volumen von 1 Mrd. USD und einen festen Kupon von 7,0 % pro Jahr. Das Instrument hat eine unbestimmte Laufzeit und einen frühestmöglichen Kündigungstermin im April 2025. Des Weiteren sehen die Anleihebedingungen ein zeitweiliges Herabschreiben für den Fall vor, dass die harte Kernkapitalquote (CET-1-Quote) der Bank unter die Marke von 5,125 % fällt. Die Anleihebedingungen sehen ferner vor, dass die C Aktiengesellschaft berechtigt ist, Zinszahlungen sowie die Rückzahlung der Anleihe entfallen zu lassen.
+Die Anleihe sowie abgegrenzte Zinsen werden nach HGB im Gegensatz zur IFRS-Betrachtung nicht als Eigenkapital eingestuft. Per 31. Dezember 2019 belief sich der Bilanzwert der Anleihe auf 920 Mio. Euro. Die Änderung des Bilanzwertes ist auf Wechselkurseffekte zurückzuführen. Der auf die Anleihe entfallende Zinsaufwand betrug im Geschäftsjahr 30 Mio. Euro.“
+4
+Nach den von der E GmbH Wirtschaftsprüfungsgesellschaft geprüften und testierten handelsrechtlichen Jahresabschlüssen für das Kalenderjahr 2020 betrug das Ergebnis der gewöhnlichen Geschäftstätigkeit der Beklagten – 3.641 Mio. Euro. Der Jahresfehlbetrag von 5.708 Mio. Euro wurde danach durch Entnahmen aus der Kapitalrücklage ausgeglichen. Das durchschnittliche Eigenkapital der Beklagten belief sich ausweislich der Jahresbilanz auf 19.365 Mio. Euro. Unter „Instrumente des zusätzlichen aufsichtsrechtlichen Kernkapitals“ auf der Passivseite der Bilanz ist angegeben ein Betrag iHv. 920 Mio. Euro am 31. Dezember 2019 und iHv. 2.657 Mio. Euro am 31. Dezember 2020.
+5
+Nach den von der E GmbH Wirtschaftsprüfungsgesellschaft geprüften und testierten handelsrechtlichen Jahresabschlüssen für das Kalenderjahr 2021 betrug das Ergebnis der gewöhnlichen Geschäftstätigkeit der Beklagten – 140 Mio. Euro. Der Jahresfehlbetrag von 1.409 Mio. Euro wurde danach ebenfalls durch Entnahmen aus der Kapitalrücklage ausgeglichen. Das durchschnittliche Eigenkapital der Beklagten betrug ausweislich der Jahresbilanz 15.807 Mio. Euro. Unter „Instrumente des zusätzlichen aufsichtsrechtlichen Kernkapitals“ auf der Passivseite der Bilanz ist angegeben ein Betrag iHv. 2.657 Mio. Euro am 31. Dezember 2020 und iHv. 3.268 Mio. Euro am 31. Dezember 2021. Im Geschäfts- und Lagebericht für das Kalenderjahr 2021 heißt es auszugsweise:
+„Nach unseren derzeitigen Erwartungen gehen wir im Einzelabschluss der C Aktiengesellschaft davon aus, für das Jahr 2022 einen positiven Jahresüberschuss im unteren dreistelligen Millionen-Euro-Bereich ausweisen zu können. …
+Dennoch können zahlreiche Risikofaktoren bei ungünstigem Verlauf das prognostizierte Jahresergebnis 2022 in einem erheblichen, nicht zuverlässig quantifizierbaren Ausmaß beeinträchtigen. Dazu zählen in erster Linie außergewöhnlich hohe globale konjunkturelle Risiken. Nach wie vor lässt sich weder die zeitliche Dauer noch das voraussichtliche Ausmaß der Corona-Pandemie verlässlich einschätzen. Geopolitische Risiken, die über die massive Verteuerung von Rohstoffen vorhandene inflationäre Tendenzen erheblich beschleunigen können, haben ebenfalls das Potenzial, die erwartete Konjunkturerholung abzuschwächen und sich damit auf unsere Geschäftsentwicklung auszuwirken. So betrifft der Krieg in der Ukraine sowohl unser Geschäft mit der Ukraine als auch unser Geschäft mit Russland. Wir gehen davon aus, dass Sanktionen, die sich auf einzelne Geschäftspartner (zum Beispiel der Ausschluss großer russischer Finanzinstitute aus dem Bankenkommunikationsnetzwerk SWIFT oder das Verbot von US-Dollar-Clearing mit großen russischen Banken) oder ganze Branchen (zum Beispiel Energie- oder Rohstoffsektor) beziehen, auch Auswirkungen auf die C haben werden. Zusätzlich erwarten wir, dass auch russische Gegensanktionen sich auf die Portfolios der C auswirken können.“
+6
+Am 1. März 2022 veröffentlichte die Beklagte eine Pressemitteilung, in der es auszugsweise wie folgt heißt:
+„Zum Krieg in der Ukraine und dem Engagement der C in Russland:
+…       
+Die weiteren Entwicklungen in Russland und der Ukraine verfolgt sie genau und wird ihre Geschäftsstrategie und ihre Risikoeinschätzung kontinuierlich an die aktuelle Lage anpassen.
+Das Exposure der C in Russland und der Ukraine ist überschaubar und wurde in der Vergangenheit bereits deutlich reduziert. Mit 1,3 Mrd. Euro entspricht das Netto-Exposure in Russland rund 0,4% des Gesamtexposures der C. Zusätzlich zu diesem Exposure hat die Bank ein Exposure mit Russland-Bezug in Höhe von rund 0,6 Mrd. Euro, das hauptsächlich aus Vorfinanzierungen für Rohstoffexporte besteht. Das Exposure in der Ukraine liegt unter 0,1 Mrd. Euro. Politische Entscheidungen und Sanktionen setzt die Bank vollumfänglich um.“
+7
+Nach einer am 12. Mai 2022 veröffentlichten Zwischenmitteilung zum 31. März 2022 auf Grundlage internationaler Rechnungslegungsregeln (IFRS) erzielte der Konzern, dem die Beklagte angehört, im Zeitraum vom 1. Januar 2022 bis 31. März 2022 ein Ergebnis von 330 Mio. Euro.
+8
+Am 24. Mai 2022 veröffentlichte die Beklagte einen „Insight-Bericht“, in dem es auszugsweise wie folgt heißt:
+„
+Lagarde kündigt Zinswende für Juli an
+…     
+Neue Prognosen für EZB-Leitzinsen
+…       
+Wir erwarten, dass die EZB bis April 2023 den Einlagensatz von derzeit -0,5% auf dann 1,25%, insgesamt also um 175 Basispunkte, anheben wird. Das bedeutet, dass die EZB in jeder Sitzung ab Juli 2022 bis Mai 2023 den Leitzins um 25 Bp. anhebt. Danach rechnen wir mit einer Pause bei den Zinserhöhungen …
+…     
+Renditeanstieg noch nicht vorüber
+Entwarnung kann aber noch nicht gegeben werden. Der Inflationsdruck bleibt hoch. Aufgrund der Null-Corona-Politik Chinas, den Auswirkungen des Krieges in der Ukraine und den gestiegenen Energiepreisen bleibt die Inflationslage angespannt. Somit ist die Neubewertung an den Rentenmärkten noch nicht zu Ende. Allerdings sind die jetzt von uns erwarteten EZB-Zinserhöhungen schon größtenteils eingepreist und ein Großteil des Renditeanstiegs liegt bereits hinter uns.“
+9
+In einer am 9. Juni 2022 veröffentlichten Pressemitteilung der Europäischen Zentralbank (EZB) heißt es auszugsweise:
+„
+Geldpolitische Beschlüsse
+Hohe Inflation ist eine große Herausforderung für uns alle. Der EZB-Rat wird sicherstellen, dass die Inflation mittelfristig auf seinen Zielwert von 2 % zurückkehrt.
+…       
+Auf der Grundlage seiner aktualisierten Beurteilung hat der EZB-Rat weitere Schritte zur Normalisierung seiner Geldpolitik beschlossen. …
+Programm zum Ankauf von Vermögenswerten (APP) und Pandemie-Notfallankaufprogramm (PEPP)
+Der EZB-Rat hat beschlossen, den Nettoerwerb von Vermögenswerten im Rahmen seines Programms zum Ankauf von Vermögenswerten (Asset Purchase Programme – APP) zum 1. Juli 2022 einzustellen. …
+EZB-Leitzinsen
+Der EZB-Rat hat die Bedingungen sorgfältig überprüft, die gemäß seiner Forward Guidance erfüllt sein sollten, bevor er mit der Erhöhung der Leitzinsen der EZB beginnt. Infolge dieser Überprüfung ist er zu dem Schluss gelangt, dass diese Bedingungen erfüllt sind.
+Dementsprechend, und im Einklang mit der zeitlichen Abfolge der geldpolitischen Maßnahmen des EZB-Rats, beabsichtigt der EZB-Rat, die Leitzinsen der EZB auf seiner geldpolitischen Sitzung im Juli um 25 Basispunkte zu erhöhen. Unterdessen beschloss der EZB-Rat, den Zinssatz für die Hauptrefinanzierungsgeschäfte sowie die Zinssätze für die Spitzenrefinanzierungsfazilität und die Einlagefazilität unverändert bei 0,00 %, 0,25 % bzw. -0,50 % zu belassen.
+Der EZB-Rat geht davon aus, dass er die EZB-Leitzinsen im September erneut anheben wird. Die Kalibrierung dieser Zinserhöhung wird von den aktualisierten mittelfristigen Inflationsaussichten abhängen. Sollten die mittelfristigen Inflationsaussichten unverändert bleiben oder sich verschlechtern, ist bei der September-Sitzung ein größerer Zinsschritt angemessen.“
+10
+Am 9. Juni 2022 äußerte sich der Chefvolkswirt der Beklagten in einem Interview mit der Börsenzeitschrift „Börse Online“ auszugsweise wie folgt:
+„Die EZB dürfte ihre Leitzinsen auf jeder der kommenden sieben Sitzungen erhöhen, wobei wir für September einen Zinsschritt von 0,5 Prozentpunkten erwarten. Im Mai nächsten Jahres läge der Einlagenzinssatz bei 1,5 Prozent. Dann befände er sich in einem Bereich, den die EZB Ratsmitglieder wohl als neutral einstufen. Die EZB würde dann erst einmal pausieren, zumal die Inflation im kommenden Jahr vorübergehend sinken dürfte, weil der Ölpreis nicht weiter so schnell steigen wird wie in diesem Jahr.“
+11
+Nach einem am 3. August 2022 veröffentlichten Zwischenbericht zum 30. Juni 2022 auf Grundlage internationaler Rechnungslegungsregeln (IFRS) ergab sich für den Zeitraum 1. Januar 2022 bis 30. Juni 2022 ein Konzernergebnis von 825 Mio. Euro.
+12
+Zum Anpassungsstichtag 1. Juli 2022 erhöhte die Beklagte aufgrund eines Vorstandsbeschlusses vom 30. August 2022 die Betriebsrenten von ca. 9.000 Betriebsrentnern – einschließlich der des Klägers – um 2 %. Die Betriebsrente des Klägers betrug seitdem aufgerundet 1.763,00 Euro brutto. Über diese Entscheidung wurde der Kläger mit Schreiben vom 12. Oktober 2022 informiert. Darin führte die Beklagte aus, dass aus ihrer Sicht eine Anpassung aufgrund einer negativen Entwicklung der Eigenkapitalverzinsung in den vergangenen drei Jahren nicht geboten sei, sie die Betriebsrenten jedoch freiwillig und ohne Anerkennung einer Rechtspflicht um 2 % anhebe. Gegen die Anpassungsentscheidung der Beklagten legte der Kläger mit Schreiben vom 31. Oktober 2022 Widerspruch ein.
+13
+Am 27. Juli 2022 hob die EZB den Leitzins von 0 % auf 0,5 %, am 14. September 2022 auf 1,25 %, am 2. November 2022 auf 2 %, am 21. Dezember 2022 auf 2,5 %, am 8. Februar 2023 auf 3 % und am 22. März 2023 auf 3,5 % an.
+14
+Nach den geprüften und testierten handelsrechtlichen Jahresabschlüssen für das Kalenderjahr 2022 betrug das Ergebnis der gewöhnlichen Geschäftstätigkeit der Beklagten bei Nichtberücksichtigung der ausgewiesenen außerordentlichen Aufwendungen und Erträge sowie der Ertragssteuern und sonstigen Steuern 799 Mio. Euro. Nach der Jahresbilanz 2022 belief sich das durchschnittliche Eigenkapital der Beklagten auf 15.302 Mio. Euro. Nach der Jahresbilanz für das Geschäftsjahr 2023 verzeichnete die Beklagte ein durchschnittliches Eigenkapital von 15.915 Mio. Euro.
+15
+Zum Anpassungsstichtag 1. Juli 2023 erhöhte die Beklagte die zu diesem Termin zur Anpassungsprüfung anstehenden Betriebsrenten im Schnitt um über 16 %.
+16
+Der Kläger hat mit der Klage eine Anpassung seiner Betriebsrente zum 1. Juli 2022 um 21,14 % auf insgesamt 1.962,00 Euro brutto monatlich geltend gemacht und den monatlichen Differenzbetrag von 199,00 Euro brutto für die Zeit von Juli 2022 bis Februar 2024 verlangt. Er hat – soweit für das Revisionsverfahren von Interesse – die Ansicht vertreten, die wirtschaftliche Lage der Beklagten stehe einer Anpassung seiner Betriebsrente nicht entgegen. Eine aufgrund einer etwaigen negativen Entwicklung der Eigenkapitalverzinsung in den drei Jahren vor dem Anpassungsstichtag getroffene negative Prognose der Beklagten sei durch die schon im ersten Halbjahr 2022 begonnene und nachfolgend anhaltende tatsächliche positive wirtschaftliche Entwicklung entkräftet. Im Zeitpunkt der Anpassungsentscheidung sei eine künftig hinreichende Eigenkapitalverzinsung für die Beklagte vorhersehbar und nicht unerwartet gewesen. Dies ergebe sich ua. aus dem Geschäftsbericht für das Jahr 2021 sowie den weiteren Berichten und Verlautbarungen der Beklagten bzw. deren Vertreter aus dem Jahr 2022. Die für die wirtschaftliche Situation der Beklagten maßgebliche Anhebung des Leitzinses durch die EZB sei von der Beklagten erwartet worden. Weder der Krieg in der Ukraine noch die Corona-Pandemie hätten diese Erwartung trüben können, da das Geschäftsergebnis der Beklagten hiervon nicht maßgeblich beeinflusst sei. Die nachfolgend zum 1. Juli 2023 erfolgte Betriebsrentenanpassung belege, dass die Beklagte auch für die Jahre 2023 und 2024 von einer positiven wirtschaftlichen Entwicklung ausgegangen sei. Der Kläger hat zudem gemeint, die von der Beklagten vorgebrachte Berechnung der Eigenkapitalverzinsung und Eigenkapitalausstattung in den Jahren 2019 bis 2021 bedürfe der Korrektur. So sei etwa die jeweils begebene Additional-Tier-1-Anleihe (AT-1-Anleihe) bilanziell als Eigenkapital zu bewerten gewesen. Das Geschäftsjahr 2020 sei ua. aufgrund der pandemiebedingt höheren Kreditvorsorge allenfalls bedingt repräsentativ. Die Effekte der Corona-Pandemie seien als außerordentliche Aufwendungen zu berücksichtigen. Die Beklagte habe die Betriebsrentenanpassung ohne Weiteres aus den Erträgen des C Pension Trust e.V. bestreiten können, auf dessen wirtschaftliche Leistungsfähigkeit abzustellen sei. Auf eine unzureichende Eigenkapitalausstattung könne sich die Beklagte – trotz des Rückgangs des Eigenkapitals in den Geschäftsjahren 2019 bis 2021 – mangels Interesses am erneuten Eigenkapitalaufbau in der Folgezeit nicht berufen. Die Beklagte lasse die handelsrechtliche Eigenkapitalquote absinken und baue stattdessen ihre (harte) Kernkapitalquote mittels der AT-1-Anleihen massiv aus.
+17
+Der Kläger hat beantragt,
+die Beklagte zu verurteilen, an ihn 3.980,00 Euro brutto nebst Zinsen iHv. fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit Rechtskraft des Urteils zu zahlen.
+18
+Die Beklagte hat Klageabweisung beantragt und geltend gemacht, sie sei aufgrund einer negativen Entwicklung der Eigenkapitalverzinsung und einer unzureichenden Eigenkapitalausstattung in den drei Geschäftsjahren vor dem Anpassungsstichtag zur Anpassung nicht verpflichtet. Für sie habe sich im Sommer 2022 keine positive Entwicklung abgezeichnet, die eine ausreichende wirtschaftliche Lage in der Zukunft für die begehrte Rentenanpassung habe erwarten lassen. Die unzureichende Eigenkapitalverzinsung in den Jahren 2019, 2020 und 2021 mache deutlich, dass nicht ausreichend Mittel für eine Anpassung von Versorgungsbezügen zur Verfügung gestanden hätten und die Prognose gerechtfertigt sei, dass bis zum nächsten Anpassungsstichtag eine Erhöhung der Betriebsrenten ohne Eingriff in die Unternehmenssubstanz nicht möglich sei. Bei ihrer Ermessensentscheidung hätten auch konjunkturelle und weiter bestehende Risikofaktoren wie der Krieg in der Ukraine sowie die Energiekrise eine Rolle gespielt. Die angestellte Prognose werde auch nicht durch die moderat positive Entwicklung im Jahr 2022 in Frage gestellt. Diese Entwicklung sei insbesondere auf die massiven Zinserhöhungen der EZB im zweiten Halbjahr 2022 zurückzuführen, welche zum Anpassungsstichtag am 1. Juli 2022 nicht konkret vorhersehbar gewesen seien. Außerdem führten Zinserhöhungen nicht notwendig zu einer verbesserten Eigenkapitalrendite. Darüber hinaus stehe einer Betriebsrentenanpassung die in den Jahren vor dem Anpassungsstichtag deutlich reduzierte Eigenkapitalausstattung entgegen.
+19
+Das Arbeitsgericht hat die Klage abgewiesen. Das Landesarbeitsgericht hat die hiergegen gerichtete Berufung des Klägers zurückgewiesen. Mit seiner Revision verfolgt der Kläger sein Begehren weiter. Die Beklagte beantragt die Zurückweisung der Revision.
+Entscheidungsgründe
+20
+Die Revision des Klägers ist unbegründet. Das Landesarbeitsgericht hat die Berufung des Klägers gegen das klageabweisende erstinstanzliche Urteil zu Recht zurückgewiesen. Der Kläger hat keinen Anspruch auf eine – über die freiwillig erfolgte hinausgehende – Anpassung seiner Betriebsrente an den Kaufkraftverlust zum 1. Juli 2022 nach § 16 Abs. 1 und Abs. 2 Nr. 1 BetrAVG.
+21
+I. Die Beklagte musste nach § 16 Abs. 1 BetrAVG zum 1. Juli 2022 prüfen, ob eine Anpassung der Betriebsrente des Klägers an den Kaufkraftverlust zu erfolgen hatte. Danach ist der Arbeitgeber verpflichtet, alle drei Jahre eine Anpassung der laufenden Leistungen der betrieblichen Altersversorgung zu prüfen und hierüber nach billigem Ermessen zu entscheiden. Das bedeutet, dass er in zeitlichen Abständen von jeweils drei Jahren nach dem individuellen Leistungsbeginn die Anpassungsprüfung vorzunehmen hat. Bei dem Kläger ist der Anpassungsstichtag – ausgehend von einem Rentenbeginn am 1. Juli 2007 – der 1. Juli 2022 
+(vgl. iÜ zur zulässigen Bündelung aller in einem Unternehmen anfallenden Prüfungstermine zu einem einheitlichen Jahrestermin BAG 15. November 2022 – 3 AZR 505/21 – Rn. 20, BAGE 179, 256)
+.
+22
+II. Die Anpassung gilt nicht schon nach § 16 Abs. 4 Satz 2 BetrAVG als zu Recht unterblieben. Der Kläger hat der Mitteilung der Beklagten vom 12. Oktober 2022 mit Schreiben vom 31. Oktober 2022 und damit binnen drei Kalendermonaten nach ihrem Zugang schriftlich widersprochen.
+23
+III. Die Beklagte ist – wie sich aus ihrem Schreiben vom 12. Oktober 2022 ergibt – im Rahmen ihrer Ermessensentscheidung nach § 16 Abs. 1 BetrAVG zu dem Ergebnis gelangt, die Betriebsrente des Klägers sei zum 1. Juli 2022 aufgrund ihrer wirtschaftlichen Lage nicht an den Kaufkraftverlust anzupassen; die von ihr vorgenommene Anpassung um 2 % erfolgte freiwillig und ohne Anerkennung einer Rechtspflicht. Die Annahme des Landesarbeitsgerichts, diese Entscheidung der Beklagten entspreche billigem Ermessen nach § 16 Abs. 1 BetrAVG, ist revisionsrechtlich nicht zu beanstanden.
+24
+1. Bei der Anpassungsprüfung und -entscheidung nach § 16 Abs. 1 BetrAVG hat der Arbeitgeber insbesondere die Belange der Versorgungsempfänger sowie seine eigene wirtschaftliche Lage zu berücksichtigen 
+(§ 16 Abs. 1 Halbs. 2 BetrAVG)
+. Lässt die wirtschaftliche Lage eine Anpassung der Betriebsrenten nicht zu, ist der Arbeitgeber nicht zur Anpassung verpflichtet.
+25
+a) Die wirtschaftliche Lage des Arbeitgebers ist eine zukunftsbezogene Größe. Sie umschreibt seine künftige Belastbarkeit und setzt eine Prognose voraus. Beurteilungsgrundlage für diese zum Anpassungsstichtag zu erstellende Prognose ist grundsätzlich die bisherige wirtschaftliche Entwicklung des Unternehmens vor dem Anpassungsstichtag, soweit daraus Schlüsse für dessen weitere Entwicklung gezogen werden können. Für eine zuverlässige Prognose muss die bisherige Entwicklung über einen längeren repräsentativen Zeitraum von in der Regel mindestens drei Jahren ausgewertet werden. Dabei handelt es sich grundsätzlich um einen Mindestzeitraum, der nicht stets und unter allen Umständen ausreichend ist. Ausnahmsweise kann es geboten sein, auf einen längeren Zeitraum abzustellen 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 23, BAGE 179, 256; 13. Oktober 2020 – 3 AZR 246/20 – Rn. 53 mwN)
+. Da eine Prognose zu treffen ist, kommt es nicht auf die in den drei letzten Jahren vor dem Anpassungsstichtag erzielten durchschnittlichen Werte an. Maßgebend ist vielmehr, ob sich im Referenzzeitraum eine positive Entwicklung abzeichnet, die eine für die Betriebsrentenanpassung ausreichende wirtschaftliche Lage in den drei Jahren nach dem Anpassungsstichtag erwarten lässt 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 24, aaO)
+.
+26
+b) Die wirtschaftliche Lage eines Unternehmens wird durch dessen Ertragskraft im Ganzen geprägt. Der Versorgungsschuldner ist nicht schon dann zur Anpassung der Betriebsrenten verpflichtet, wenn einzelne Einkünfte den Umfang der Anpassungslast übersteigen; andererseits darf er eine Anpassung der Betriebsrenten nicht schon mit der Begründung ablehnen, dass einzelne Bereiche defizitär arbeiten. Zudem kommt es im Rahmen der Anpassungsprüfung nach § 16 Abs. 1 BetrAVG auf die tatsächliche wirtschaftliche Lage des Versorgungsschuldners an und nicht auf eine fiktive Lage, die bestanden hätte, wenn unternehmerische Entscheidungen anders getroffen worden wären 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 25 mwN, BAGE 179, 256)
+.
+27
+c) Die wirtschaftliche Lage des Arbeitgebers rechtfertigt die Ablehnung einer Betriebsrentenanpassung insoweit, wie das Unternehmen dadurch übermäßig belastet und seine Wettbewerbsfähigkeit gefährdet würde.
+28
+aa) Die Wettbewerbsfähigkeit ist gefährdet, wenn keine angemessene Eigenkapitalverzinsung erwirtschaftet wird oder wenn das Unternehmen nicht mehr über genügend Eigenkapital verfügt. Bei einer ungenügenden Eigenkapitalverzinsung reicht die Ertragskraft des Unternehmens nicht aus, um die Anpassungen finanzieren zu können. Bei einer ungenügenden Eigenkapitalausstattung muss verlorene Vermögenssubstanz wieder aufgebaut werden, bevor dem Unternehmen die Anpassung von Betriebsrenten zugemutet werden kann. Demnach rechtfertigt die wirtschaftliche Lage des Arbeitgebers die Ablehnung einer Betriebsrentenanpassung nur insoweit, wie dieser annehmen darf, dass es ihm mit hinreichender Wahrscheinlichkeit nicht möglich sein wird, den Teuerungsausgleich aus den Unternehmenserträgen und den verfügbaren Wertzuwächsen des Unternehmensvermögens in der Zeit bis zum nächsten Anpassungsstichtag aufzubringen. Es kommt auf die voraussichtliche Entwicklung der Eigenkapitalverzinsung und der Eigenkapitalausstattung des Unternehmens an 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 26, BAGE 179, 256; 13. Oktober 2020 – 3 AZR 246/20 – Rn. 55 mwN)
+. Dies gilt entgegen der Ansicht des Klägers auch für Unternehmen der Bankenbranche. Die Prüfung, ob die wirtschaftliche Lage einer Anpassung der Betriebsrenten entgegensteht, hat grundsätzlich nach einem für alle Arbeitgeber einheitlich geltenden Maßstab zu erfolgen. Auch der Beklagten ist eine hinreichende Eigenkapitalausstattung und eine angemessene Eigenkapitalverzinsung zuzubilligen 
+(BAG 8. Dezember 2015 – 3 AZR 348/14 – Rn. 19)
+.
+29
+bb) Die angemessene Eigenkapitalverzinsung besteht grundsätzlich aus einem Basiszins und einem Zuschlag für das Risiko, dem das in dem Unternehmen investierte Kapital ausgesetzt ist. Der Basiszins entspricht der Umlaufrendite öffentlicher Anleihen. Der Risikozuschlag beträgt 2 vH 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 28, BAGE 179, 256; 13. Oktober 2020 – 3 AZR 246/20 – Rn. 57 mwN)
+.
+30
+cc) Bei der Berechnung der Eigenkapitalverzinsung ist einerseits auf die erzielten Betriebsergebnisse, andererseits auf die Höhe des Eigenkapitals abzustellen. Beide Berechnungsfaktoren sind ausgehend von den nach den handelsrechtlichen Rechnungslegungsregeln erstellten Jahresabschlüssen zu bestimmen. Beim erzielten Betriebsergebnis sind ggf. betriebswirtschaftlich gebotene Korrekturen vorzunehmen. Dies gilt nicht nur für Scheingewinne, sondern beispielsweise auch für betriebswirtschaftlich überhöhte Abschreibungen. Außerordentliche Erträge sind zwar keine Scheingewinne. Ihr Ausnahmecharakter kann jedoch bei der Beurteilung der künftigen Ertragsentwicklung nicht außer Acht gelassen werden. In der Regel sind außerordentliche Erträge und außerordentliche Verluste aus den der Prognose zugrunde gelegten früheren Jahresabschlüssen herauszurechnen. Etwas anderes gilt nur dann, wenn außerordentliche Erträge oder Verluste auch der Höhe nach eine ausreichende Kontinuität aufweisen 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 29, BAGE 179, 256; 13. Oktober 2020 – 3 AZR 246/20 – Rn. 58 mwN)
+.
+31
+dd) Für die Frage, ob der Versorgungsschuldner eine angemessene Eigenkapitalverzinsung erzielt hat, kommt es auf das bilanzielle Eigenkapital iSv. § 266 Abs. 3 Buchst. A HGB an. Dazu zählen nicht nur das gezeichnete Kapital (Stammkapital) und die Kapitalrücklage, sondern auch Gewinnrücklagen, Gewinn- und Verlustvorträge und Jahresüberschüsse/Jahresfehlbeträge. Da sich das Eigenkapital während eines Geschäftsjahres ständig verändert, kann weder das zu Beginn des Geschäftsjahres vorhandene noch das am Ende des Geschäftsjahres erreichte Eigenkapital zugrunde gelegt werden. Vielmehr ist von einem Durchschnittswert auszugehen. Das Eigenkapital zu Beginn und zum Ende des Geschäftsjahres sind zu addieren und anschließend zu halbieren 
+(BAG 21. Februar 2017 – 3 AZR 455/15 – Rn. 40, BAGE 158, 165; 7. Juni 2016 – 3 AZR 193/15 – Rn. 30)
+.
+32
+ee) Das Eigenkapital kann nicht uneingeschränkt mit dem Betriebsergebnis nach Steuern verglichen werden. Zwar sind Betriebssteuern (sonstige Steuern) Aufwendungen des Unternehmens und schmälern die verwendungsfähigen Mittel, sodass sie beim erzielten Betriebsergebnis zu berücksichtigen sind. Anders verhält es sich hingegen bei den Steuern vom Einkommen und vom Ertrag; diese sind beim erzielten Betriebsergebnis nicht zu berücksichtigen. Dasselbe gilt für Steuererstattungen für Vorjahre, soweit sie in der Gewinn- und Verlustrechnung ebenfalls unter den Steuern vom Einkommen und vom Ertrag erfasst werden. Auch diese Erträge bleiben bei der Ermittlung des erzielten Betriebsergebnisses außer Betracht 
+(BAG 7. Juni 2016 – 3 AZR 193/15 – Rn. 31 mwN)
+.
+33
+d) Da für die Anpassungsprüfung nach § 16 Abs. 1 BetrAVG die wirtschaftliche Lage des Arbeitgebers maßgeblich ist, kommt es auf die Verhältnisse im Unternehmen des versorgungspflichtigen Arbeitgebers an. Dies gilt auch dann, wenn der Arbeitgeber in einen Konzern eingebunden ist. Ein Konzern ist lediglich eine wirtschaftliche Einheit ohne eigene Rechtspersönlichkeit und kann demnach nicht Schuldner der Betriebsrentenanpassung sein. Die Konzernverbindung allein ändert weder etwas an der Selbständigkeit der beteiligten juristischen Personen noch an der Trennung der jeweiligen Vermögensmassen 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 30, BAGE 179, 256; 13. Oktober 2020 – 3 AZR 246/20 – Rn. 56 mwN)
+.
+34
+e) Der Arbeitgeber hat darzulegen und zu beweisen, dass seine Anpassungsentscheidung billigem Ermessen entspricht und sich in den Grenzen des § 16 BetrAVG hält.
+35
+aa) Die Darlegungs- und Beweislast erstreckt sich auf alle die Anpassungsentscheidung beeinflussenden Umstände. Hinsichtlich des Anpassungskriteriums „wirtschaftliche Lage“ folgt dies auch daraus, dass Sachvortrag und Beweis in der Regel von der Partei zu verlangen sind, die über die maßgeblichen Umstände Auskunft geben kann und über die entsprechenden Beweismittel verfügt. Dieser Grundsatz gilt vor allem dann, wenn es auf die besonderen Interessen einer Partei und deren Vermögensverhältnisse ankommt 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 31 mwN, BAGE 179, 256).
+36
+bb) Die handelsrechtlichen Jahresabschlüsse bieten lediglich den geeigneten Einstieg für die Feststellung sowohl der erzielten Betriebsergebnisse als auch des jeweils vorhandenen Eigenkapitals. Betriebswirtschaftlich gebotene Korrekturen sind vorzunehmen. Allerdings muss der Sachvortrag der Parteien ausreichende Anhaltspunkte dafür enthalten, dass derartige Korrekturen notwendig sind. Davon zu unterscheiden ist die Frage, ob die Jahresabschlüsse handelsrechtlich ordnungsgemäß erstellt wurden. Sofern der Versorgungsberechtigte die Fehlerhaftigkeit testierter Jahresabschlüsse geltend machen will, hat er die nach seiner Ansicht unterlaufenen Fehler näher zu bezeichnen. Hat er die ordnungsgemäße Erstellung der Jahresabschlüsse substantiiert bestritten, hat der Arbeitgeber vorzutragen und unter Beweis zu stellen, weshalb die Jahresabschlüsse insoweit nicht zu beanstanden sind 
+(vgl. BAG 15. April 2014 – 3 AZR 51/12 -Rn. 33 mwN)
+.
+37
+2. Danach entspricht die Entscheidung der Beklagten, die Betriebsrente des Klägers zum 1. Juli 2022 nicht an den Kaufkraftverlust anzupassen, billigem Ermessen. Das Landesarbeitsgericht hat in revisionsrechtlich nicht zu beanstandender Weise angenommen, dass die wirtschaftliche Lage der Beklagten aufgrund einer nicht angemessenen Eigenkapitalverzinsung in den Jahren vor dem Anpassungsstichtag einer Anpassung der Betriebsrente des Klägers zum 1. Juli 2022 entgegenstand. Auf die Frage, ob sich die Anpassungsentscheidung der Beklagten auch aufgrund ihres Eigenkapitalverlusts in den Geschäftsjahren 2019 bis 2021 als ermessensgerecht erweist, kommt es daher nicht an.
+38
+a) Die wirtschaftliche Lage der Beklagten stand ausgehend von den von der E GmbH Wirtschaftsprüfungsgesellschaft geprüften und testierten Jahresabschlüssen für die Geschäftsjahre 2019 bis 2021 einer Anpassung der Betriebsrente des Klägers zum 1. Juli 2022 entgegen. Zwar erzielte die Beklagte im Geschäftsjahr 2019 einen Gewinn und damit eine noch angemessene Eigenkapitalrendite; in den Geschäftsjahren 2020 und 2021 erwirtschaftete sie jedoch erhebliche Verluste und damit jeweils eine negative Eigenkapitalrendite. Gegen diese Annahme des Berufungsgerichts erhebt die Revision keine Einwände.
+39
+aa) Im Geschäftsjahr 2019 erzielte die Beklagte noch eine knapp angemessene Eigenkapitalverzinsung. Das im testierten Jahresabschluss ausgewiesene Betriebsergebnis betrug unter Abzug der ausgewiesenen außerordentlichen Aufwendungen und Erträge vor Steuern vom Einkommen und vom Ertrag iHv. 134 Mio. Euro und nach sonstigen Steuern iHv. – 20 Mio. Euro 481 Mio. Euro. Das durchschnittliche Eigenkapital der Beklagten belief sich ausweislich der Jahresbilanz auf 22.464 Mio. Euro. Hieraus errechnet sich eine Eigenkapitalverzinsung von 2,14 %. Legt man – wie die Beklagte selbst und das Landesarbeitsgericht – ein Betriebsergebnis von 501 Mio. Euro zugrunde, errechnet sich eine Eigenkapitalverzinsung von 2,23 %. Beide Werte lagen unter Berücksichtigung des Risikozuschlags von 2 % über der angemessenen Eigenkapitalverzinsung. Die Anleihen der öffentlichen Hand erzielten im Jahr 2019 eine durchschnittliche Umlaufrendite von – 0,2 % 
+(Monatsbericht Juli 2025 77. Jahrgang Nr. 7 der Deutschen Bundesbank, VIII. Kapitalmarkt, 5. Renditen deutscher Wertpapiere)
+.
+40
+bb) Das im testierten Jahresabschluss 2020 ausgewiesene Betriebsergebnis der normalen Geschäftstätigkeit der Beklagten betrug unter Abzug außerordentlicher Aufwendungen und Erträge sowie Ertragssteuern und sonstigen Steuern in diesem Geschäftsjahr – 3.641 Mio. Euro. Bei einem durchschnittlichen Eigenkapital iHv. 19.365 Mio. Euro im Jahr 2020 erwirtschaftete die Beklagte eine deutlich negative Eigenkapitalverzinsung iHv. – 18,8 %.
+41
+cc) Auch im Geschäftsjahr 2021 erzielte die Beklagte eine negative und damit nicht angemessene Eigenkapitalrendite. Das im Jahresbericht ausgewiesene Ergebnis der normalen Geschäftstätigkeit unter Abzug außerordentlicher Aufwendungen und Erträge sowie Ertragssteuern und sonstigen Steuern betrug in diesem Geschäftsjahr – 140 Mio. Euro. Bei einem durchschnittlichen Eigenkapital iHv. 15.807 Mio. Euro belief sich die Eigenkapitalverzinsung auf – 0,89 %.
+42
+dd) Das Landesarbeitsgericht hat bei seiner Berechnung der Eigenkapitalverzinsung in den Geschäftsjahren 2019 bis 2021 ohne Rechtsfehler angenommen, dass die in den Geschäftsjahren 2019 bis 2021 emittierten AT-1-Anleihen nicht als Eigenkapital iSd. HGB zu bewerten sind 
+(ausführlich Flick/Mertes/Meyding-Metzger WPg 2019, 726, 727 f.; Hopt/Merkt HGB 44. Aufl. § 266 Rn. 16 mwN; Kessler/Kröner/Köhler/Häuselmann KonzernStR 3. Aufl. § 10 Rn. 290)
+. Auch insoweit erhebt die Revision keine Einwände mehr.
+43
+(1) Eine Einordnung als bilanzielles Eigenkapital nach handelsrechtlichen Rechnungslegungsgrundsätzen setzt eine Verlustteilnahme bezogen auf das handelsrechtliche Ergebnis voraus 
+(hierzu: Kessler/Kröner/Köhler/Häuselmann KonzernStR 3. Aufl. § 10 Rn. 290; Flick/Mertens/Meyding-Metzger WPg 2019, 726, 727 f.)
+. Hieran fehlt es bei der von der Beklagten emittierten AT-1-Anleihe. Diese ist als zusätzliches Kernkapital iSv. Art. 25, 51 ff. der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen (im Folgenden VO 575/2013/EU), das von dem harten Kernkapital iSv. Art. 26 ff. VO 575/2013/EU zu unterscheiden ist, einzuordnen 
+(Flick/Mertens/Meyding-Metzger WPg 2019, 726, 727)
+. Die Beklagte hat nach den Feststellungen des Landesarbeitsgerichts eine Herabschreibungsanleihe begeben, welche sie berechtigt, die Zinszahlungen ebenso wie die Rückzahlungen entfallen zu lassen, und bei der zudem ein zeitweiliges Herabschreiben vorgesehen ist, wenn die harte Kernkapitalquote der Bank unter die Marke von 5,125 % fällt 
+(vgl. zu dieser Anforderung auch Art. 54 Abs. 1 Buchst. a VO 575/2013/EU)
+. Da das Auslöseereignis für eine Herabschreibung an das Herabsinken der harten Kernkapitalquote und nicht an einen Jahresfehlbetrag geknüpft ist, fehlt es an einer Verlustbeteiligung und damit am Bezug zu einem handelsrechtlichen Ereignis 
+(Kessler/Kröner/Köhler/Häuselmann KonzernStR 3. Aufl. § 10 Rn. 290; Flick/Mertens/Meyding-Metzger WPg 2019, 726, 727 f.)
+. Nicht maßgeblich ist, ob die AT-1-Anleihe nach IFRS als Eigenkapital qualifiziert wird 
+(vgl. dazu Kessler/Kröner/Köhler/Häuselmann KonzernStR 3. Aufl. § 10 Rn. 290)
+.
+44
+(2) Trotz des Fehlens einer rechtlichen Rückzahlungspflicht ist es mit Blick auf faktische Rück- und Zinszahlungsanreize folgerichtig, die AT-1-Anleihe in der handelsrechtlichen Bilanz nicht als Eigenkapital auszuweisen. Das Risiko für den Zeichner der Anleihe, dass der Emittent keine bzw. nur bei Liquidation Zinszahlungen leistet, ist begrenzt, weil wirtschaftliche Anreize bestehen, dies auch ohne vertragliche Verpflichtung zu tun: so könnten Ratingagenturen und Investoren darin ein Indiz sehen, dass sich der Emittent in einer finanziellen Schieflage befindet und infolgedessen seine Kreditwürdigkeit schlechter einstufen. Damit wäre ein enormer Reputationsverlust und ein erheblicher Anstieg der Finanzierungskosten des Emittenten verbunden. Zukünftige Emissionen ähnlicher Finanzierungsinstrumente wären deutlich erschwert 
+(vgl. Eiter/Ritschinger IRZ 2021, 221, 223)
+.
+45
+(3) Im Übrigen hat das Landesarbeitsgericht zutreffend angenommen, dass eine etwaige Einordnung der AT-1-Anleihen als handelsrechtliches Eigenkapital nicht zu einer höheren Eigenkaptalverzinsung führen würde. Für 2020 und 2021 würde es im Hinblick auf die dort negative Eigenkapitalverzinsung ohnehin nicht entscheidend ins Gewicht fallen.
+46
+ee) Das Landesarbeitsgericht hat ohne Rechtsfehler angenommen, dass die in den Geschäftsjahren 2019 bis 2021 erzielten Betriebsergebnisse der Beklagten nicht um (weitere) außerordentliche Effekte zu bereinigen sind. Auch gegen diese Würdigung hat die Revision keine Einwände erhoben.
+47
+b) Die Annahme des Landesarbeitsgerichts, die wirtschaftliche Entwicklung der Beklagten in den Geschäftsjahren 2019 bis 2021 habe am Anpassungsstichtag 1. Juli 2022 den Schluss zugelassen, dass es der Beklagten bis zum nächsten Anpassungsstichtag an der für eine Betriebsrentenanpassung erforderlichen wirtschaftlichen Leistungsfähigkeit fehlen würde, ist im Ergebnis ohne Rechtsfehler.
+48
+aa) Eine langfristige Prognose, mit der die künftige wirtschaftliche Lage auf Grundlage der wirtschaftlichen Entwicklung in der Zeit vor dem Anpassungsstichtag eingeschätzt wird, kann in der Regel nicht eindeutig sein. Für die Anpassungsprüfung muss eine durch Tatsachen gestützte Wahrscheinlichkeit genügen 
+(vgl. schon BAG 23. April 1985 – 3 AZR 156/83 – zu II 3 a der Gründe, BAGE 48, 272)
+, weshalb dem Arbeitgeber bei dieser ein weiter Beurteilungs- und Ermessensspielraum zusteht 
+(BAG 19. Juni 2012 – 3 AZR 464/11 – Rn. 30, BAGE 142, 116; 29. November 1988 – 3 AZR 184/87 – zu 2 der Gründe, BAGE 60, 228)
+. Die wirtschaftliche Lage des Arbeitgebers ist zudem ein unbestimmter Rechtsbegriff 
+(BAG 23. Februar 2021 – 3 AZR 15/20 – Rn. 92, BAGE 174, 138; 21. Februar 2017 – 3 AZR 455/15 – Rn. 33, BAGE 158, 165). 
+Die Würdigung, ob sich die Anpassungsentscheidung des Arbeitgebers unter Berücksichtigung seiner wirtschaftlichen Lage im Rahmen dieses Beurteilungs- und Ermessensspielraums hält, obliegt daher den Tatsachengerichten. Die entsprechende Würdigung des Berufungsgerichts unterliegt in der Revisionsinstanz nur einer eingeschränkten Nachprüfung darauf, ob der Rechtsbegriff selbst verkannt, Denkgesetze oder allgemeine Erfahrungssätze verletzt oder wesentliche Umstände bei der Würdigung übersehen wurden 
+(vgl. zur revisionsrechtlichen Überprüfung der tatrichterlichen Würdigung nach § 286 ZPO BAG 11. Dezember 2019 – 5 AZR 505/18 – Rn. 25, BAGE 169, 117)
+.
+49
+bb) Danach ist die Würdigung des Landesarbeitsgerichts, die Entwicklung der Eigenkapitalverzinsung in den drei Geschäftsjahren vor dem Anpassungsstichtag rechtfertige zum Anpassungsstichtag 1. Juli 2022 die von der Beklagten getroffene negative Prognose, revisionsrechtlich nicht zu beanstanden.
+50
+(1) Bei dieser Beurteilung konnte das Landesarbeitsgericht insbesondere die deutlich unzureichende Eigenkapitalverzinsung in 2020 und 2021 in den Vordergrund der Betrachtung stellen, nachdem ausschließlich für 2019 eine noch ausreichende Eigenkapitalverzinsung erzielt worden war. Auf Grundlage der zum 1. Juli 2022 vorliegenden handelsrechtlichen Jahresabschlüsse konnte die wirtschaftliche Lage bzw. die Ertragslage Mitte 2022 keineswegs als vielversprechend bezeichnet werden; vielmehr hielt es sich bei dieser Sachlage im Rahmen des Beurteilungsspielraums der Beklagten, keine hinreichende Eigenkapitalverzinsung zu erwarten. An diesem Befund ändert auch der Aufwärtstrend im Geschäftsjahr 2021 im Ergebnis nichts. Jedenfalls ließ dieser – für sich genommen – nach Zeitraum und Verlauf nicht verlässlich auf eine für die Anpassung hinreichende Ertragslage in der Folgezeit schließen.
+51
+(2) Entgegen der Ansicht des Klägers sind die in den Jahren 2020 und 2021 erwirtschafteten Verluste bei der Prognose über die wirtschaftliche Leistungsfähigkeit der Beklagten in der Zeit vom 1. Juli 2022 bis zum 1. Juli 2025 zu berücksichtigen. Dem steht nicht entgegen, dass diese auch auf Effekte der Covid-19-Pandemie zurückzuführen sind.
+52
+(a) Zum einen hat das Landesarbeitsgericht – ohne dass der Kläger dem entgegengetreten ist – ausgeführt, dass selbst unter Herausrechnung der für den Konzern angenommenen Auswirkungen der Covid-19-Pandemie im Geschäftsjahr 2020 eine deutlich negative Entwicklung der Eigenkapitalverzinsung zu verzeichnen gewesen sei.
+53
+(b) Ungeachtet dessen ist die Annahme des Landesarbeitsgerichts, die Beklagte habe am Anpassungsstichtag 1. Juli 2022 davon ausgehen können, dass die Covid-19-Pandemie sich weiterhin auf ihre wirtschaftliche Situation auswirken würde, revisionsrechtlich nicht zu beanstanden. Es verstößt weder gegen allgemeine Erfahrungssätze noch lässt es wesentliche Umstände außer Betracht, wenn das Landesarbeitsgericht dieser Würdigung zugrunde legt, dass die Pandemie am 1. Juli 2022 nicht beendet und zu diesem Zeitpunkt unklar war, wie sich die Lage entwickeln würde, was im Wesentlichen von der unklaren Frage abhängig war, welche Eigenschaften (Sterblichkeitsrisiko bzw. Ansteckungsraten) ggf. folgende Virusvarianten haben würden. Dabei durfte das Landesarbeitsgericht auch berücksichtigen, dass bis zum 1. Juli 2022 in Deutschland noch eine Impfnachweis- bzw. Genesungsnachweispflicht für Pflegepersonal nach § 20a IfSG aF bestand. Gegen die weitere seiner Würdigung zugrunde liegende Feststellung, zu diesem Zeitpunkt habe in China noch die „No-Covid-Strategie“ gegolten, hat die Revision keine Verfahrensrügen erhoben. Es kann zudem als gerichtsbekannt zugrunde gelegt werden, dass zum Beginn des Jahres 2022 die Lage in Deutschland von der Verbreitung der Omikron-Virusvariante und einer damit verbundenen Zunahme der Neuinfektionen geprägt war und insbesondere im ersten Halbjahr 2022 hohe Infektionsinzidenzen zu verzeichnen waren. Vor diesem Hintergrund musste die Beklagte bei ihrer Beurteilung nicht von einem Ausbleiben pandemiebedingter Effekte auf die Ertragslage in der Folgezeit ausgehen 
+(vgl. zur Anpassungsprüfung der Beklagten zum 1. Januar 2010 und den Auswirkungen der Finanzkrise BAG 15. April 2014 – 3 AZR 51/12 – Rn. 47)
+. Die Revision macht daher zu Unrecht geltend, die Effekte der Covid-19-Pandemie seien als außerordentliche Aufwendungen einzustufen und daher bei der Berechnung der Eigenkapitalverzinsung nicht zu berücksichtigen.
+54
+(3) Geschäftsjahre vor 2019 musste die Beklagte – entgegen der Auffassung des Klägers – nicht in die Betrachtung ihrer wirtschaftlichen Lage zum Anpassungsstichtag 1. Juli 2022 einbeziehen.
+55
+(a) Für eine zuverlässige Prognose genügt es regelmäßig, wenn die bisherige Entwicklung über einen längeren repräsentativen Zeitraum von in der Regel mindestens drei Jahren ausgewertet wird (
+vgl. BAG 15. November 2022 – 3 AZR 505/21 – Rn. 23, BAGE 179, 256). 
+Der Senat geht in seiner bisherigen Rechtsprechung allerdings davon aus, dass es geboten sein kann, auf einen längeren Zeitraum abzustellen, wenn die spätere Entwicklung der wirtschaftlichen Lage zu berechtigten Zweifeln an der Vertretbarkeit der Prognose des Arbeitgebers führt 
+(vgl. BAG 15. November 2022 – 3 AZR 505/21 – aaO; 13. Oktober 2020 – 3 AZR 246/20 – Rn. 53 mwN)
+.
+56
+(b) Es kann dahinstehen, ob an dieser Rechtsprechung zur Erforderlichkeit eines längeren Betrachtungszeitraums im Fall einer später eintretenden von der Prognose abweichenden wirtschaftlichen Entwicklung festzuhalten ist. Daran könnten Zweifel bestehen, weil der Arbeitgeber im Zeitpunkt seiner Ermessensentscheidung zum Anpassungsstichtag den späteren – ggf. erst im Prozess festgestellten – tatsächlichen Verlauf nicht kennen kann und damit im Unklaren über den von ihm zu bewertenden Betrachtungszeitraum wäre. Jedenfalls war die Beklagte entgegen der Auffassung der Revision aus anderem Grund nicht gehalten, einen längeren Referenzzeitraum zugrunde zu legen. Zwar erzielte sie nach den von ihr nicht mit Gegenrügen angegriffenen und den Senat daher nach § 559 Abs. 2 ZPO bindenden tatsächlichen Feststellungen des Landesarbeitsgerichts im Geschäftsjahr 2022 eine ausreichende Eigenkapitalverzinsung von 5,22 %; auch für das Geschäftsjahr 2023 war eine negative Entwicklung der Eigenkapitalverzinsung nach den Feststellungen des Landesarbeitsgerichts nicht zu verzeichnen. Die wirtschaftliche Lage der Beklagten vor dem gewählten dreijährigen Referenzzeitraum war jedoch für die künftige Ertragslage der Beklagten nicht repräsentativ, da ihre außergewöhnliche Ertragskrise erst im Jahr 2020 einsetzte. Es ist auch – anders als der Kläger mit der Revision geltend macht – nicht ersichtlich, warum die Berücksichtigung der vor dem Referenzzeitraum liegenden Jahre gerade wegen des Aufwärtstrends im Geschäftsjahr 2021 maßgebliche Erkenntnisse bringen könnte.
+57
+(4) Ohne Rechtsfehler hat das Landesarbeitsgericht erkannt, dass die Beklagte die Betriebsrente des Klägers nicht deshalb anpassen musste, weil sie die Anpassung aus den Erträgen des C Pension Trust e.V. bestreiten könnte, ohne ihre Wettbewerbsfähigkeit zu gefährden. Im Rahmen der von der Beklagten als Versorgungsschuldnerin vorzunehmenden Anpassungsprüfung nach § 16 Abs. 1 BetrAVG kommt es auf ihre wirtschaftliche Lage und nicht auf die wirtschaftliche Lage des C Pension Trust e.V. an 
+(vgl. dazu bereits BAG 8. Dezember 2015 – 3 AZR 348/14 – Rn. 44; 2. September 2014 – 3 AZR 952/12 – Rn. 50 ff.). 
+Die Beklagte ist nicht deshalb zur Anpassung der Betriebsrente des Klägers verpflichtet, weil die auf den Treuhänder übertragenen Vermögenswerte aus bilanzieller Sicht ihr zuzurechnen und in ihren Jahresabschlüssen in Ansatz zu bringen sind, indem gemäß § 266 HGB auf der Aktivseite der Bilanz das Treuhandvermögen und auf der Passivseite die Pensionsrückstellungen auszuweisen sind. Da die wirtschaftliche Lage eines Unternehmens durch dessen Ertragskraft im Ganzen geprägt wird, ist die Ertragslage des in der Bilanz auf der Aktivseite ausgewiesenen Treuhandvermögens allein nicht maßgeblich 
+(vgl. bereits BAG 2. September 2014 – 3 AZR 952/12 – Rn. 58 f.)
+. Zudem ist der Versorgungsschuldner auch nicht deshalb zur Anpassung der Betriebsrenten verpflichtet, weil er Pensionsrückstellungen gebildet hat. Pensionsrückstellungen erlauben es dem Unternehmen (nur), Gewinne nicht zu versteuern, sondern sie bis zur Fälligkeit der einzelnen Rentenbeträge als Betriebskapital – und zwar in Gestalt von Fremdkapital – zu verwenden. Während Deckungsmittel auf der Aktivseite der Bilanz stehen und Erträge erzielen können, stehen Pensionsrückstellungen auf der Passivseite. Ihnen können keine Erträge zugeordnet werden. Pensionsrückstellungen sind im Wesentlichen ein Instrument der Innenfinanzierung. Es wird ein Aufwand verbucht, ohne dass tatsächlich Mittel abfließen. Im Jahr der Rückstellungsbildung wird der Jahresüberschuss reduziert oder ein Jahresfehlbetrag erhöht sich. Damit steht weniger Gewinn zur Ausschüttung zur Verfügung und es wird – ggf. – ein geringerer Gewinn der Besteuerung unterworfen. Das Eigenkapital des Unternehmens reduziert sich entsprechend. Im Jahr des Rückstellungsverbrauchs kommt es zu einem entsprechend erhöhten Gewinnausweis. Rückstellungen haben daher im Wesentlichen einen Zeit-, insbesondere einen Steuerstundungseffekt 
+(BAG 8. Dezember 2015 – 3 AZR 348/14 – Rn. 52)
+.
+58
+(5) Das Landesarbeitsgericht hat zutreffend angenommen, dass die Beklagte bei der zum Anpassungsstichtag vorzunehmenden Ermittlung der zu erwartenden Eigenkapitalverzinsung – entgegen der Auffassung des Klägers – weder die am 12. Mai 2022 herausgegebene Zwischenmitteilung zum 31. März 2022 noch den Zwischenbericht zum 30. Juni 2022 zugrunde legen musste. Zwar kann – wie das Landesarbeitsgericht zutreffend ausführt – bei einem – wie hier – in der Mitte des Jahres liegenden Anpassungsstichtag grundsätzlich auch die wirtschaftliche Entwicklung in der Zeit zwischen dem Ende des vorangehenden Geschäftsjahres (hier: 31. Dezember 2021) und dem Anpassungsstichtag (hier: 1. Juli 2022) in die Prognose einfließen. Allerdings sind die Berechnungsfaktoren Betriebsergebnis und Eigenkapital ausgehend von den auf der Grundlage der nach den handelsrechtlichen Rechnungslegungsregeln erstellten Jahresabschlüssen zu bestimmen. Solche lagen hier für diesen Zeitraum noch nicht vor. Sowohl die Zwischenmitteilung zum 31. März 2022 als auch der Zwischenbericht zum 30. Juni 2022 sind nach den nicht angegriffenen Feststellungen des Landesarbeitsgerichts auf Grundlage der internationalen Rechnungslegungsregeln (IFRS) und nicht auf Basis handelsrechtlicher Grundsätze erstellt worden und betreffen nach den Feststellungen des Landesarbeitsgerichts 
+(vgl. zur Zwischenmitteilung zum 31. März 2022 unter A III 3 b bb (3) der Gründe)
+ zudem den Konzern. Prognoserelevant können indes nur Abschlüsse sein, die den Arbeitgeber betreffen und die nach Rechnungslegungsregeln aufgestellt sind, die ein den tatsächlichen wirtschaftlichen Bedingungen entsprechendes Bild der Lage des Arbeitgebers geben. Dies ist bei den handelsrechtlichen Jahresabschlüssen gewährleistet 
+(BAG 15. November 2022 – 3 AZR 505/21 – Rn. 43, BAGE 179, 256; 21. August 2012 – 3 ABR 20/10 – Rn. 39)
+. Die nach den Rechnungslegungsregeln der IFRS bzw. IAS erstellten Abschlüsse haben eine andere Funktion. Sie sollen kapitalmarktbezogene Informationen liefern und primär den Investoren oder Anteilseignern entscheidungsrelevante Erkenntnisse darüber vermitteln, ob ein Investment in einer Gesellschaft gestartet, gehalten, erhöht oder vermindert werden soll 
+(BAG 15. April 2014 – 3 AZR 51/12 – Rn. 26; 21. August 2012 – 3 ABR 20/10 – Rn. 40 mwN)
+.
+59
+cc) Das Landesarbeitsgericht hat schließlich ohne Rechtsfehler angenommen, die nach dem Anpassungsstichtag auf Grundlage des handelsrechtlichen Jahresabschlusses für das Geschäftsjahr 2022 festgestellte hinreichende Eigenkapitalverzinsung habe (ebenso wie das Fehlen einer negativen Eigenkapitalverzinsung im Geschäftsjahr 2023) die Vertretbarkeit der Prognose der Beklagten zum Anpassungsstichtag 1. Juli 2022 mangels Vorhersehbarkeit dieser Entwicklung nicht in Frage gestellt.
+60
+(1) Maßgeblicher Beurteilungszeitpunkt für die Anpassungsprüfung ist der Anpassungsstichtag, im Streitfall der 1. Juli 2022. Allerdings kann sich auch die wirtschaftliche Entwicklung nach dem Anpassungsstichtag auf die Überprüfung der Anpassungsentscheidung des Arbeitgebers auswirken. Die wirtschaftlichen Daten nach dem Anpassungsstichtag bis zur letzten mündlichen Verhandlung in der Tatsacheninstanz können die frühere Prognose bestätigen oder entkräften. Voraussetzung für die Berücksichtigung einer späteren Entwicklung ist allerdings, dass die Veränderungen in den wirtschaftlichen Verhältnissen des Unternehmens zum Anpassungsstichtag bereits vorhersehbar waren 
+(st. Rspr., vgl. zuletzt BAG 23. Februar 2021 – 3 AZR 15/20 – Rn. 129, BAGE 174, 138; 13. Oktober 2020 – 3 AZR 246/20 – Rn. 54 mwN)
+.
+61
+(2) Die Würdigung des Landesarbeitsgerichts, die im Verlauf des Rechtsstreits festgestellte positive Entwicklung der Eigenkapitalverzinsung sei zum 1. Juli 2022 nicht auf einer hinreichend sicheren Tatsachengrundlage vorhersehbar gewesen und könne deshalb nicht für die Prognose zum Anpassungsstichtag zugrunde gelegt werden, ist danach im Ergebnis revisionsrechtlich nicht zu beanstanden.
+62
+(a) Das Landesarbeitsgericht hat bei seiner Würdigung, die spätere Entwicklung sei nicht vorhersehbar gewesen, nicht die Darlegungs- und Beweislast verkannt. Vielmehr ist es ausdrücklich davon ausgegangen, dass der Arbeitgeber darzulegen und zu beweisen hat, seine Anpassungsentscheidung entspreche billigem Ermessen und halte sich in den Grenzen des § 16 BetrAVG. Zwar können nach dem Anpassungsstichtag zu verzeichnende wirtschaftliche Daten die Darlegungs- und Beweislast beeinflussen; welche Bedeutung dem späteren wirtschaftlichen Geschehen für die Überprüfung der Prognose zukommt, hängt jedoch von den zeitlichen Zusammenhängen und den Ursachen der nachträglichen Entwicklung ab 
+(vgl. BAG 10. Februar 2009 – 3 AZR 727/07 – Rn. 23, BAGE 129, 292)
+. Auch das ist vom Landesarbeitsgericht im Rahmen der Würdigung der Vorhersehbarkeit der nachträglichen Entwicklung der Beklagten beachtet worden. Es hat das Vorbringen der Beklagten dazu geprüft und dabei die Einwände des Klägers unter Würdigung der zeitlichen Zusammenhänge und der Ursachen der nachträglichen Entwicklung berücksichtigt.
+63
+(b) Allerdings hat das Landesarbeitsgericht die Anforderungen an die Feststellung der Vorhersehbarkeit einer später von der negativen Prognose abweichenden tatsächlichen wirtschaftlichen Entwicklung teilweise überspannt.
+64
+(aa) Das gilt entgegen der Ansicht der Revision jedoch nicht, soweit es angenommen hat, die Vorhersehbarkeit erfordere eine „hinreichend sichere Tatsachengrundlage für eine positive Prognose“. Soweit der Senat in seiner bisherigen Rechtsprechung ua. formuliert hat, dass „spätere unerwartete Veränderungen der wirtschaftlichen Verhältnisse des Unternehmens“ erst bei der nächsten Anpassungsprüfung berücksichtigt werden können 
+(BAG 23. Februar 2021 – 3 AZR 15/20 – Rn. 129, BAGE 174, 138; 21. Februar 2017 – 3 AZR 455/15 – Rn. 31 mwN, BAGE 158, 165) 
+sollte damit – anders als die Revision geltend macht – nicht zum Ausdruck gebracht werden, dass ein Festhalten an der zum Anpassungsstichtag vertretbaren Prognose nur im Falle von unerwarteten oder gar vollkommen überraschenden späteren Veränderungen der wirtschaftlichen Verhältnisse in Frage kommt. Vielmehr ist es für die Entwertung einer negativen Prognose zum Anpassungsstichtag positiv erforderlich, dass die spätere entgegenstehende Entwicklung bereits zu erkennen und damit vorhersehbar war. Das gebietet der Normzweck des im Rahmen von § 16 Abs. 1 BetrAVG weiten Ermessens- und Beurteilungsspielraums bei der Anpassungsprüfung. So geht es bei der Prognose über die wirtschaftliche Leistungsfähigkeit auch darum, dass die Anpassung eine gesunde wirtschaftliche Entwicklung des Unternehmens nicht verhindern und Arbeitsplätze nicht in Gefahr bringen darf 
+(vgl. BAG 17. April 1996 – 3 AZR 56/95 – zu II 2 c der Gründe, BAGE 83, 1; 23. April 1985 – 3 AZR 156/83 -zu II 3 a der Gründe, BAGE 48, 272)
+. Das Unternehmen ist für eine gesunde Weiterentwicklung und auch die Anpassung der Betriebsrenten in der Zukunft auf den Erhalt von Arbeitsplätzen angewiesen, dieser geht damit den Interessen der Versorgungsberechtigten am Werterhalt ihrer Versorgungsansprüche im Zweifel vor. Das macht deutlich, dass der Arbeitgeber zum Anpassungsstichtag eine verlässliche und tatsachenbasierte Einschätzung vornehmen können muss. Das gilt in besonderem Maße, wenn sich ihm die Frage stellt, ob die Prognose zum Anpassungsstichtag in eine ganz andere Richtung weist als die auf eine unzureichende Ertragsentwicklung hindeutenden handelsrechtlichen Jahresabschlüsse der Vergangenheit. Denn diese beschreiben in der Regel verlässlich die „wirtschaftliche Lage“ im Sinne einer aktuellen Situation. Eine hiervon abweichende spätere Entwicklung ist mithin nur vorhersehbar und damit prognoserelevant, wenn sie im Voraus auf hinreichend sicherer Tatsachengrundlage erkannt werden kann und auch in ihrem Ausmaß und insbesondere ihrer zeitlichen Erstreckung auf den Anpassungszeitraum hinreichend absehbar ist. Deshalb hat das Landesarbeitsgericht auch zutreffend geprüft, ob eine Besserung der Ertragslage für den gesamten Anpassungszeitraum der folgenden drei Jahre vorhersehbar war.
+65
+(bb) Die Revision rügt hingegen zu Recht, dass das Landesarbeitsgericht in seiner Hauptbegründung den Lagebericht aus dem Jahr 2021 ebenso wie Presseveröffentlichungen und sonstige Verlautbarungen der Beklagten bei der Würdigung, ob die wirtschaftliche Entwicklung nach dem Anpassungsstichtag vorhersehbar war, als grundsätzlich nicht berücksichtigungsfähig erachtet hat. Es entspricht zwar der Rechtsprechung des Senats, dass Presseveröffentlichungen und sonstige Verlautbarungen über die Einschätzung der wirtschaftlichen Entwicklung des Unternehmens, beispielsweise von Vorständen und Aufsichtsräten in Geschäftsberichten oder Aussagen Dritter als Grundlage für die Anpassungsprüfung nach § 16 Abs. 1 und Abs. 2 BetrAVG ausscheiden 
+(vgl. zu Lageberichten BAG 15. November 2022 – 3 AZR 505/21 – Rn. 44, BAGE 179, 256; zu sonstigen Verlautbarungen BAG 11. Dezember 2012 – 3 AZR 615/10 – Rn. 57). 
+Allerdings betrifft dies nicht die Frage, ob und wie derartige Verlautbarungen bei der Beurteilung der Vorhersehbarkeit einer späteren abweichenden – und durch spätere handelsrechtliche Jahresabschlüsse belegten – tatsächlichen Entwicklung relevant sein können. In dieser Konstellation müssen prinzipiell auch solche Verlautbarungen in die Gesamtbeurteilung einfließen können. Die Vorhersehbarkeit einer von der auf Grundlage der handelsrechtlichen Jahresabschlüsse erstellten Prognose späteren abweichenden Entwicklung kann – da die handelsrechtlichen Abschlüsse vor und nach dem Anpassungsstichtag selbst erst diese Frage aufwerfen – nicht ihrerseits allein durch handelsrechtliche Abschlüsse belegt oder widerlegt werden. Für die Beurteilung der Vorhersehbarkeit einer später abweichenden Entwicklung müssen sämtliche ggf. relevanten Umstände – und damit grundsätzlich auch entsprechende Verlautbarungen – herangezogen werden können. Erforderlich ist dabei aber, dass sie eine Vorhersehbarkeit mit dem oben formulierten Maßstab erkennen lassen.
+66
+(c) Dieser Rechtsfehler wirkt sich im Streitfall aber im Ergebnis nicht aus. Denn die umfassende Hilfsbegründung des Landesarbeitsgerichts, wonach die Gesamtumstände auch unter Berücksichtigung der angeführten Verlautbarungen der Beklagten bzw. ihrer Vertreter jedenfalls keine hinreichend sichere Tatsachengrundlage für eine Vorhersehbarkeit der nachträglichen positiven Entwicklung erkennen ließen, ist revisionsrechtlich nicht zu beanstanden.
+67
+(aa) Es ist zwischen den Parteien nicht streitig, dass die Leitzinserhöhungen durch die EZB jedenfalls ein Faktor für die positive Entwicklung der wirtschaftlichen Lage der Beklagten nach dem Anpassungsstichtag waren. Die Annahme des Landesarbeitsgerichts, die Entwicklung des Leitzinses sei zum Anpassungsstichtag indes noch nicht hinreichend konkret vorhersehbar gewesen, verstößt weder gegen allgemeine Erfahrungssätze noch lässt sie wesentliche Umstände außer Betracht.
+68
+(aaa) Das Verhalten der EZB lag außerhalb des Einflussbereichs der Beklagten. Die EZB hatte zum Anpassungsstichtag lediglich die später am 27. Juli 2022 erfolgte Leitzinserhöhung mit gewisser Bestimmtheit angekündigt. Auch diese war nach der Pressemitteilung der EZB vom 9. Juni 2022 lediglich beabsichtigt und wurde schließlich in anderer Höhe als angekündigt beschlossen. Alle späteren Leitzinserhöhungen – zum 14. September 2022, 2. November 2022, 21. Dezember 2022, 8. Februar 2023 und 22. März 2023 – waren bis zum Anpassungsstichtag nicht konkret erkennbar. Zwar wurde in der Pressemitteilung der EZB vom 9. Juni 2022 eine weitere Anhebung des Leitzinses für September 2022 angekündigt; insoweit war aber ein konkreter Wert nicht angegeben. Zudem ist es nicht zu beanstanden, dass das Landesarbeitsgericht insoweit berücksichtigt hat, dass nach der Pressemitteilung die Kalibrierung dieser Zinserhöhung von den aktualisierten mittelfristigen Inflationsaussichten abhing, der EZB-Rat nur auf der Grundlage der aktuellen Bewertung eine schrittweise Zinsanhebung ab September 2022 für vertretbar hielt und die dann neu verfügbaren Daten und die mittelfristige Beurteilung der Inflationsentwicklung zu berücksichtigen seien. Zudem ging der EZB-Rat demnach davon aus, dass der ungerechtfertigte Angriffskrieg Russlands auf die Ukraine die Wirtschaft in Europa und darüber hinaus weiter belasten würde. Über eine valide Grundlage, die künftige Zinsentwicklung in den nächsten drei Jahren mit hinreichender Wahrscheinlichkeit vorherzusehen, verfügten Anfang Juli 2022 weder der Rat der EZB noch die Beklagte.
+69
+(bbb) Soweit der Kläger meint, die EZB sei zur Erhöhung der Leitzinsen faktisch gezwungen gewesen, um das Inflationsgeschehen einzudämmen, ergibt sich daraus keine tatsachenbasierte Vorhersehbarkeit der Leitzinsanhebung. Dies gilt auch unter Berücksichtigung des Stopps der Anleihekäufe ab dem 1. Juli 2022. Zugunsten des Klägers kann unterstellt werden, dass die Beklagte und die Finanzbranche mit einer oder mehreren Anhebungen der Leitzinsen durch die EZB rechneten. Der Kläger verkennt insoweit jedoch, dass die Beklagte nur auf Grundlage festgestellter aussagekräftiger Daten zur Betriebsrentenanpassung verpflichtet gewesen wäre, nicht hingehen auf Grundlage einer allgemeinen Erwartung über fremdes Verhalten, das sich ggf. positiv auf die wirtschaftliche Lage auswirken kann.
+70
+(ccc) Auch soweit der Kläger mit der Revision auf die Entwicklung des EURIBOR verweist, um zu belegen, dass eine Erhöhung der Leitzinsen durch die EZB prognostizierbar war, führt dies zu keinem anderen Ergebnis. Der EURIBOR ist der Referenzzinssatz für Termingelder in Euro im Interbankengeschäft. Es handelt sich daher letztlich um selbstgesetzte Zinssätze im Interbankenverkehr, welche nicht notwendig tatsächlich am Markt zustande gekommene Zinssätze darstellen 
+(vgl. BeckOGK/Coen Stand Juni 2025 BGB § 247 Rn. 52)
+.
+71
+(bb) Ohne Rechtsfehler hat das Landesarbeitsgericht erkannt, dass aus der Pressemitteilung der Beklagten vom 1. März 2022 nicht auf eine hinreichend konkrete Vorhersehbarkeit der späteren wirtschaftlichen Entwicklung geschlossen werden kann. Zwar verlautbarte die Finanzvorständin der Beklagten dort grundsätzlich gute Aussichten. Gleichwohl handelte es sich hierbei lediglich um Erwartungen und Potenziale. Ungeachtet der zwischen den Parteien streitigen Frage, welche Auswirkungen der Ukraine-Krieg mit Blick auf das ggf. überschaubare Engagement der Beklagten in Russland und der Ukraine haben würde, sind den Angaben greifbare und aussagekräftige Tatsachen für eine konkrete positive Entwicklung nicht zu entnehmen.
+72
+(cc) Auch die Ausführungen des Landesarbeitsgerichts zu dem am 24. Mai 2022 veröffentlichten Insight-Bericht der Beklagten sind frei von Verstößen gegen Denkgesetze oder Erfahrungssätze und berücksichtigen die wesentlichen Umstände. Die Ungewissheit der darin formulierten Prognose im Hinblick auf die Anhebung des Leitzinses zeigt sich an ihrer Abweichung von der späteren Zinsentwicklung. Hinzu kommt, dass die Beklagte ausdrücklich betont, dass noch „keine Entwarnung“ gegeben werden könne und zwar im Hinblick auf Corona, die Auswirkungen des Ukraine-Kriegs und die gestiegenen Energiepreise. Nichts Anderes gilt für die Aussagen des Chefvolkswirts der Beklagten am 9. Juni 2022 auf „Börse Online“. Auch hier kommt die tatsächliche Ungewissheit einer Prognose Anfang Juni 2022 zum Ausdruck.
+73
+(dd) Soweit der Kläger auf den Lagebericht 2021 verweist, so ergibt sich hieraus zwar, dass die Beklagte für das Geschäftsjahr 2022 einen Jahresüberschuss im dreistelligen Millionen-Euro-Bereich erwartete. Allerdings wies sie zugleich auf Unsicherheiten hin. Dies kommt zunächst dadurch zum Ausdruck, dass sie auf ihre „derzeitigen Erwartungen“ abstellte. Weiter machte die Beklagte zahlreiche Risikofaktoren deutlich, die bei ungünstigem Verlauf das erwartete Jahresergebnis 2022 beeinträchtigen könnten. Ein Tatsachenkern, der bereits in diesem Zeitpunkt das erfolgreiche Jahr 2022 auch nur mit einer hinreichenden Wahrscheinlichkeit antizipieren ließ, kann der Erklärung nicht entnommen werden.
+74
+(ee) Die Rüge der Revision, das Landesarbeitsgericht habe kein Sachverständigengutachten über die Frage eingeholt, „ob die weiteren Zinsschritte grundsätzlich als unerwartet einzustufen sind“ und den Kläger dadurch in seinem Anspruch auf rechtliches Gehör 
+(Art. 103 Abs. 1 GG)
+ verletzt, ist unzulässig. Ihre Begründung entspricht nicht den gesetzlichen Anforderungen. Allein die Verfahrensrüge, ein Beweis sei nicht erhoben worden, ist unzureichend, wenn der Kläger – wie hier – nicht vorgetragen hat, wo und bei welcher Gelegenheit er ein den Anforderungen des § 373 ZPO entsprechendes Beweisangebot gemacht habe 
+(vgl. BAG 11. Dezember 2018 – 9 AZR 161/18 – Rn. 47; 28. September 2016 – 5 AZR 220/16 – Rn. 38 mwN)
+.
+75
+IV. Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO.
+    Rachor    
+    Roloff    
+    Waskow    
+    Busch    
+    Schuch    
+Hinweis
+Berichtigungsbeschluss vom 13. März 2026:
+Das Urteil des erkennenden Senats vom 28. Oktober 2025 – 3 AZR 24/25 – wird wegen offenbarer Unrichtigkeit nach § 319 Abs. 1 ZPO im Rubrum dahingehend berichtigt, dass die Bezeichnung des Prozessbevollmächtigten des Klägers lautet: Rechtsanwälte B.
+            Rachor                Roloff                Waskow           
+Seite drucken
+Das Bundesarbeitsgericht
+                  Aktuelles und Veranstaltungen                
+                  Das Bundesarbeitsgericht                
+                  Entscheidungen                
+                  Ihr Besuch bei uns                
+                  Presse                
+                  Service                
+DE
+EN
+Cookie-Einstellungen
+                RSS Feeds                 
+Impressum
+Datenschutz
+Barrierefreiheit
+Inhalte
+© 2026 Das Bundesarbeitsgericht      
+Informationen
+Die mündlichen Verhandlungen vor dem Bundesarbeitsgericht sind öffentlich. Eine Teilnahme ist ohne Anmeldung möglich.
+Bei Besuchen von Gruppen ist eine rechtzeitige Anmeldung mit dem nachfolgenden Formular erforderlich. Die mündlichen Verhandlungen finden in der Regel von Dienstag bis Donnerstag, jeweils mit Beginn am Vormittag statt. Die Termine zu den Verhandlungen finden Sie 
+hier
+.
+Einzelpersonen können ohne vorherige Anmeldung an mündlichen Verhandlungen im Bundesarbeitsgericht teilnehmen. Auch hier empfehlen wir jedoch eine schriftliche Anmeldung.
+Ist zu einer Sitzung eine größere Anzahl von Zuhörern oder Vertretern der Medien zu erwarten, werden Platzkarten ausgegeben. Das jeweilige Verfahren wird im Einzelfall geregelt. Bitte haben Sie Verständnis dafür, dass aufgrund der organisatorischen Gegebenheiten und der großen Nachfrage nicht alle Anfragen positiv beantwortet werden können.
+Hinweise für Besucherinnen und Besucher:
+Für den Zutritt zum Gebäude des Bundesarbeitsgerichts muss sich jeder Besucher ggf. mit einem gültigen Personalausweis oder Reisepass ausweisen können. Größere Gepäckstücke (Koffer/Rucksäcke) dürfen nicht in die Sitzungssäle mitgenommen werden. In Einzelfällen können Sicherheitskontrollen durchgeführt werden, die zu Wartezeiten führen können. Wird die Durchführung von Sicherheitskontrollen (Taschenkontrolle, Einsatz von Personenscanner und/oder Taschenscanner) durch Besucher verweigert, wird der Person/den Personen der Zugang zum Gebäude nicht gestattet. 
+Besucherinnen und Besucher sind Ton-, Bild- und Filmaufnahmen während der Verhandlung untersagt. In den Sitzungssälen sind Mobil-Telefone auszuschalten.
+Für den Sitzungsbesuch am Bundesarbeitsgericht gibt es zwar keine gesonderte Kleiderordnung, aus Respekt vor der Rechtsprechung und angesichts der Bedeutung, die diese für die Betroffenen hat, ist es jedoch angemessen, eine offizielle und dem Anlass entsprechende Kleidung zu tragen. Dies beinhaltet auch, dass Sitzungen in den Sommermonaten nicht in kurzen Hosen, Miniröcken und Flip-Flops etc. aufgesucht werden.
+Essen und Trinken sind in den Sitzungssälen nicht gestattet. Das gesamte Gebäude des Bundesarbeitsgerichts einschließlich des Innenhofes ist rauchfrei.
+Bitte füllen Sie nun das nachfolgende Formular für Ihren geplanten Sitzungsbesuch aus.
+Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.
+Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer 
+Datenschutzerklärung
+.
+Felder, die mit 
+*
+ gekennzeichnet sind, sind Pflichtfelder.
+Ihre Kontaktdaten
+Vorname
+Nachname
+E-Mail-Adresse
+Telefonnummer
+Organisation
+Anzahl der Teilnehmer (max. 30)
+Betreff
+Sitzungsinformationen
+Senat
+– Bitte auswählen –
+9. Senat
+8. Senat
+7. Senat
+6. Senat
+5. Senat
+4. Senat
+3. Senat
+2. Senat
+10. Senat
+1. Senat
+Tag des Besuchs
+Aktenzeichen
+Weitere Kommentare
+450
+Zeichen übrig
+Please leave this field empty.
+Ja, ich habe die 
+Datenschutzerklärung
+ zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.
+ *
+Informationen
+Mit dem nachfolgenden Formular bitten wir Medienvertreter, sich für einen Sitzungstermin beim Bundesarbeitsgericht anzumelden.
+Fotos- und Filmaufnahmen im Sitzungssaal sind nur durch Medienvertreter und in der Regel nur vor Einzug des Senats gestattet. Eine gesonderte Akkreditierung ist hierfür nicht erforderlich. Wir bitten bei Interesse dennoch um einen Hinweis mit folgendem Formular.
+Ist die Aufnahme der Verkündung einer Entscheidung in Bild und Ton zugelassen (§ 169 Abs. 3 Satz 1 GVG iVm. § 72 Abs. 6 ArbGG) wird dies unter 
+Sitzungstage
+ gesondert bekannt gegeben. Mit der Veröffentlichung beginnt das Akkreditierungsverfahren.
+Für Fernseh- und Filmaufnahmen von der Entscheidungsverkündung werden ggf. Medienpools gebildet. Zugelassen werden zwei Fernseh-/Filmteams (ein öffentlich-rechtlicher und ein privat-rechtlicher Sender mit jeweils einer Kamera). Die Poolführer verpflichten sich, gefertigte Fernseh- und Filmaufnahmen anderen Fernsehsendern bzw. Film-Aufnehmenden, die sich nicht erfolgreich akkreditiert haben, auf Anfrage unverzüglich zur Verfügung zu stellen. Ein Medienvertreter, der die erforderlichen technischen Voraussetzungen nicht erfüllt, kann nicht Poolführer werden. Die Bereitschaft zur Übernahme einer Poolführerschaft ist mit dem Akkreditierungsgesuch ausdrücklich zu erklären. Die Vergabe der Poolführerschaft erfolgt nach der Reihenfolge des Eingangs der Akkreditierung; bei etwaiger Zeitgleichheit entscheidet das Los.
+Zugelassen sind höchstens zwei TV- bzw. Filmkameras. Fernseh- und Filmaufnahmen dürfen nur von den zugewiesenen Plätzen aus gefertigt werden. Tonaufnahmen erfolgen über einen zentralen Tonabnahmepunkt. Während der Entscheidungsverkündung sind die Kameras an ihren Plätzen zu belassen und ausschließlich auf die Richterbank zu richten. Kameraschwenks sind nur innerhalb der seitlichen Begrenzungen der Richterbank zulässig. Auflagen des Gerichts sind einzuhalten. Anweisungen der Wachtmeister ist Folge zu leisten.
+Anregungen für eine Zulassung können Sie mit dem nachfolgenden Formular an die Pressestelle richten. Nach 10:00 Uhr des Vortags der Sitzung kann eine Beschlussfassung und Akkreditierung nicht mehr gewährleistet werden.
+Für Interviews mit den Prozessbeteiligten steht das Foyer vor dem Sitzungssaal zur Verfügung.
+Wir weisen darauf hin, dass eine Entscheidung in der Sache nicht notwendig noch am Tag der mündlichen Verhandlung verkündet wird. Der erkennende Senat beraumt in diesem Fall einen gesonderten Verkündungstermin an.
+Ob die angegebenen Termine bestehen geblieben sind, erfragen Sie bitte bei der jeweiligen Senatsgeschäftsstelle des Bundesarbeitsgerichts oder bei der Pressestelle.
+Wenn Sie das nachfolgende Formular ausfüllen, helfen Sie uns einzuschätzen, wie groß das öffentliche Interesse an einem Verhandlungstermin ist. So können wir versuchen, einen Sitzungssaal auszuwählen, in dem nach Möglichkeit die gesamte interessierte Öffentlichkeit Platz findet.
+Eine Platzreservierung wird nicht vorgenommen.
+Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.
+Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer 
+Datenschutzerklärung
+.
+Felder, die mit 
+*
+ gekennzeichnet sind, sind Pflichtfelder.
+Ihre Kontaktdaten
+Vorname
+Nachname
+E-Mail-Adresse
+Telefonnummer
+Medienorganisation
+Anzahl der Teilnehmer
+Sitzungsinformationen
+Senat
+– Bitte auswählen –
+9. Senat
+8. Senat
+7. Senat
+6. Senat
+5. Senat
+4. Senat
+3. Senat
+2. Senat
+10. Senat
+1. Senat
+Tag des Besuchs
+Aktenzeichen
+Weitere Kommentare
+450
+Zeichen übrig
+Please leave this field empty.
+Ja, ich habe die 
+Datenschutzerklärung
+ zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.
+ *
+Datenschutzübersicht
+Notwendige Cookies
+Datenschutzübersicht
+Diese Website verwendet Cookies, um die Online-Nutzung zu verbessern. Cookies die als notwendig kategorisiert sind, werden in Ihrem Browser gespeichert, da sie für das Funktionieren der Grundfunktionen der Website unerlässlich sind.
+Weitere Informationen: 
+Datenschutzerklärung
+Notwendige Cookies
+Notwendige Cookies sind für das einwandfreie Funktionieren der Website absolut notwendig. Diese Kategorie umfasst nur Cookies, die grundlegende Funktionalitäten und Sicherheitsmerkmale der Website gewährleisten (z. B. für die "Hoher Kontrast"-Einstellung).
+Diese Cookies speichern keine persönlichen Informationen.
+Cookies aktivieren oder deaktivieren
+aktiviert
+deaktiviert

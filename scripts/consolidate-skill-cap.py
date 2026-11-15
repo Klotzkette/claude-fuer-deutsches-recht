@@ -11,6 +11,7 @@ werden zusammen mit den ursprünglichen und endgültigen SHA-256 dokumentiert.
 from __future__ import annotations
 
 import argparse
+import base64
 from collections import defaultdict
 import hashlib
 import json
@@ -244,11 +245,21 @@ def exact_edits(data: bytes, replacements: list[tuple[int, int, bytes]]) -> tupl
     return bytes(result), edits
 
 
+def edit_bytes(edit: dict, key: str) -> bytes:
+    """Große Textrevisionen bleiben Daten; ihre historischen Links sind keine Navigation."""
+    encoding = edit.get("encoding", "utf-8")
+    if encoding == "base64":
+        return base64.b64decode(edit[key], validate=True)
+    if encoding != "utf-8":
+        raise ValueError(f"Unbekannte Änderungskodierung: {encoding}")
+    return edit[key].encode("utf-8")
+
+
 def restore_original(data: bytes, edits: list[dict]) -> bytes:
     result = bytearray(data)
     for edit in reversed(edits):
         start = edit["after_offset"]
-        after, before = edit["after"].encode("utf-8"), edit["before"].encode("utf-8")
+        after, before = edit_bytes(edit, "after"), edit_bytes(edit, "before")
         if result[start:start + len(after)] != after:
             raise ValueError("Verweisänderung passt nicht zum erhaltenen Fachtext")
         result[start:start + len(after)] = before

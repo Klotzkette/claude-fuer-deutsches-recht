@@ -1,0 +1,7 @@
+Auswahlvermerk der Personalverwaltung – Berechnungslos 1
+
+Die 48 Datensätze sind bewusst ausgewählte Einzelfälle und keine Hochrechnungspopulation. Je 16 Personen stammen aus Düsseldorf, Stuttgart und Bremen. Innerhalb jeder Gruppe wurden verschiedene Eintrittsjahre, Vollzeit- und Teilzeitverläufe sowie rentennahe Personen aufgenommen. Die Person M-0017 ist Maren Scholz; ihre Vertragsabweichung ist gesondert gekennzeichnet.
+
+Im Export bezeichnet „Jahresfestgehalt“ die aktuelle Payroll-Größe. Ob jede Zulage pensionsfähig ist, muss anhand des Originaltexts geprüft werden. „Dienstmonate_System“ ist ein Verwaltungswert; bei Frau Scholz fehlen sechs Monate. „DBO_Gesamt“ ist nicht Bestandteil der Personendatei und darf nicht auf diese 48 Personen proportional verteilt werden.
+
+Der Rechnungsparameter für die künftige Gehaltssteigerung dient nur dem Szenariovergleich. Der Export enthält keine persönlichen Lebenserwartungen. Rentenbarwerte sollen erst nach rechtlicher Festlegung der Szenarien separat beauftragt werden.

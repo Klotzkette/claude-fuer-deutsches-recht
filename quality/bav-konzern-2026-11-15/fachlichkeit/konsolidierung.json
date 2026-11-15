@@ -1,0 +1,693 @@
+{
+  "review_date": "2026-11-15",
+  "legacy_files": 57,
+  "legacy_fachtexte": 56,
+  "active_skills": 10,
+  "active_chapters": 8,
+  "mapping": [
+    {
+      "old_path": "bav-strategie-konzern/skills/altersversorgung-boutique-fristennotiz-psv/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/altersversorgung-boutique-fristennotiz-psv/FACHINHALT.md",
+      "sha256": "cf35f9d8a07648394274e1a170904a9f0dee922a14547c4a39f69e27c14fb17a",
+      "bytes": 5701,
+      "chapter": "bav-strategie-konzern/references/konzern/03-anpassung-und-arbeitgeberhaftung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/anschluss-routing/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/anschluss-routing/FACHINHALT.md",
+      "sha256": "f2883229c89967bb8cc1e0cdbc23746197a6e9497906efe394f313ae32bfedcd",
+      "bytes": 2968,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/bav-cta-treuhand-spezial/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/bav-cta-treuhand-spezial/FACHINHALT.md",
+      "sha256": "1c5645bc38d64d6c2ca3029708987072108771c429068fe2113744bb9288b86a",
+      "bytes": 3592,
+      "chapter": "bav-strategie-konzern/references/konzern/05-finanzierung-cta-und-insolvenzschutz.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/bav-erstattung-fuenftelregelung/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/bav-erstattung-fuenftelregelung/FACHINHALT.md",
+      "sha256": "02e891ed2959ed74f751a79670597af59b5d778e05ec5c202e7633d5594e5095",
+      "bytes": 3625,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/bav-grenzueberschreitend-mobil-spezial/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/bav-grenzueberschreitend-mobil-spezial/FACHINHALT.md",
+      "sha256": "943f4c192ed3588317133ebc09125bbc14d9d581f21bf3646f1aa40fc31eb177",
+      "bytes": 3693,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/bav-konzern-design-workflow/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/bav-konzern-design-workflow/FACHINHALT.md",
+      "sha256": "686a5be6360c73a9af8bbf69f7b3359e67d92ce73635e782684a4ad0ab26e357",
+      "bytes": 4611,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/bav-pensionsfond-rueckdeckung-spezial/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/bav-pensionsfond-rueckdeckung-spezial/FACHINHALT.md",
+      "sha256": "29a5f7c690e84924bdf2a10cd25919c80efcde2900efc429009ccbf5005c5021",
+      "bytes": 3622,
+      "chapter": "bav-strategie-konzern/references/konzern/05-finanzierung-cta-und-insolvenzschutz.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/benefits-mandantenkommunikation-entscheidungsvorlage/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/benefits-mandantenkommunikation-entscheidungsvorlage/FACHINHALT.md",
+      "sha256": "bd3071fbf075c10515b441b13cf16fdfa66cf96c51e203987836bee12d45b3ae",
+      "bytes": 3113,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/betrieblichen-drei-duesseldorfer-sonderfall/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/betrieblichen-drei-duesseldorfer-sonderfall/FACHINHALT.md",
+      "sha256": "7863a79ed2bca6710fd9a19423db66da5f1ee5bf29ef353b200aac3c54844437",
+      "bytes": 5730,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/boutique-fristennotiz-und-naechster-schritt/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/boutique-fristennotiz-und-naechster-schritt/FACHINHALT.md",
+      "sha256": "46a43b72a0b97ef31bfcaf4cc79e469c75fc924006e2f03223f5a34453b6c746",
+      "bytes": 3052,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/buyout-ma-country-by-cta-contractual/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/buyout-ma-country-by-cta-contractual/FACHINHALT.md",
+      "sha256": "4d8da991c5b7e76953a558416c34494d9973beb1212ad36f31e58fad4a01e648",
+      "bytes": 12867,
+      "chapter": "bav-strategie-konzern/references/konzern/04-transaktionen-und-rentnergesellschaft.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/buyouts-quellenkarte/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/buyouts-quellenkarte/FACHINHALT.md",
+      "sha256": "35babfa44b1858aeb4c43803aea44933a94b4405d23366aea6dcc0655f09ce47",
+      "bytes": 1773,
+      "chapter": "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/country-by-country-benefits-matrix-konzern/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/country-by-country-benefits-matrix-konzern/FACHINHALT.md",
+      "sha256": "a3a346d79781427699a49f916e67b6debae1b81aa4d605267edcb5d9ced63ce6",
+      "bytes": 12044,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/cta-contractual-trust-arrangement-strukturierung/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/cta-contractual-trust-arrangement-strukturierung/FACHINHALT.md",
+      "sha256": "d21de41c124119d9f35a5abb0578a9c6c02c70b1a88c61b82fef263c7ee38d0a",
+      "bytes": 14584,
+      "chapter": "bav-strategie-konzern/references/konzern/05-finanzierung-cta-und-insolvenzschutz.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/design-start-chronologie/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/design-start-chronologie/FACHINHALT.md",
+      "sha256": "cced2fd564856d84d317d1cac6c195b8eb719b0a4cbe1fc6d7746a3b8247fbed",
+      "bytes": 17891,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/dokumente-intake/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/dokumente-intake/FACHINHALT.md",
+      "sha256": "8ed5b436de506a70a8fe4c32e3c77781ef061adfc0e12197af2bc14204f18466",
+      "bytes": 3750,
+      "chapter": "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/drei-stufen-expatriate-pensionsplanung/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/drei-stufen-expatriate-pensionsplanung/FACHINHALT.md",
+      "sha256": "1b713719ce89d9d343b165a4d7445207d2c21e627ab764e2769193734c30c409",
+      "bytes": 12152,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/drei-zahlen-schwellen-und-berechnung/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/drei-zahlen-schwellen-und-berechnung/FACHINHALT.md",
+      "sha256": "6e2e78c8980483181a662c3da19c8cdac2a6e7ce42f4f39d11e01174530c1c4a",
+      "bytes": 5313,
+      "chapter": "bav-strategie-konzern/references/konzern/03-anpassung-und-arbeitgeberhaftung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/duesseldorfer-sonderfall-und-edge-case/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/duesseldorfer-sonderfall-und-edge-case/FACHINHALT.md",
+      "sha256": "d7e307cef192bc8c393926fb6ffbfc06844bec386f2fce96387470a510ea8595",
+      "bytes": 3078,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/durchfuehrungswege-fuenf-harmonisierung/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/durchfuehrungswege-fuenf-harmonisierung/FACHINHALT.md",
+      "sha256": "096ba4d476d2cf22e9fe39661146d7b497c455a9e1a3728df92d1cdd72e37037",
+      "bytes": 6468,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/einfuehrung-durchfuehrungswege-erstattung/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/einfuehrung-durchfuehrungswege-erstattung/FACHINHALT.md",
+      "sha256": "f267d1eb0da90bc4e727ab2dc87176393afd8d85bfa7f4f9cff16ea4f59ca6e7",
+      "bytes": 3655,
+      "chapter": "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/expatriate-pensionsplanung-und-totalization/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/expatriate-pensionsplanung-und-totalization/FACHINHALT.md",
+      "sha256": "1b24be6da6679cfc2e8b8476273736d1d4cecbd2610cd61ef374bdfeb4407274",
+      "bytes": 12330,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/fristen-risikoampel-mandantenkommunikation/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/fristen-risikoampel-mandantenkommunikation/FACHINHALT.md",
+      "sha256": "e065cb83293983f3985c5452c73aa703388aa02cbbc7370665b836bafb9ad697",
+      "bytes": 2170,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/fuenf-behoerden-gericht-und-registerweg/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/fuenf-behoerden-gericht-und-registerweg/FACHINHALT.md",
+      "sha256": "21aece5f8843d2f9b90446f0e7f8d46a68d91c3778e8a07ba40335217fe9e2cd",
+      "bytes": 3061,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/governance-und-anpassungsmechanismen/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/governance-und-anpassungsmechanismen/FACHINHALT.md",
+      "sha256": "42da17c443fa0a9bfaf8362c1aef858eac197a9f760ab89b1915a33e084b8f52",
+      "bytes": 13258,
+      "chapter": "bav-strategie-konzern/references/konzern/03-anpassung-und-arbeitgeberhaftung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/harmonisierung-formular-portal-und-einreichung/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/harmonisierung-formular-portal-und-einreichung/FACHINHALT.md",
+      "sha256": "7366439df2a04c872712e5b32a0b132c05bb182f7b046dac21485640b178fc3b",
+      "bytes": 3104,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/harmonisierung-migration-historisch/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/harmonisierung-migration-historisch/FACHINHALT.md",
+      "sha256": "26834daadf1d327bf936e008d2f8c91d155117a823a8707c3b9e63be31d41e67",
+      "bytes": 10420,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/historisch-gewachsene-altsysteme-due-diligence/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/historisch-gewachsene-altsysteme-due-diligence/FACHINHALT.md",
+      "sha256": "7f6a967608c2ec2cfee7c87c1558d8fa8e8c736d35a1c42817f15d198ee45a49",
+      "bytes": 11871,
+      "chapter": "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/internationale-buyout-datenflows-und-datenschutz/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/internationale-buyout-datenflows-und-datenschutz/FACHINHALT.md",
+      "sha256": "32c422cc9d601f4da6f7f1086dd741607bebec390d7c73e6fc8df81b7ae0f66d",
+      "bytes": 12923,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/internationale-fehlerkatalog/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/internationale-fehlerkatalog/FACHINHALT.md",
+      "sha256": "d2570034c93868e57e183b18f53d5a22b79607f4a18db6e7452a695e21f94f0f",
+      "bytes": 3416,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/internationale-harmonisierung-japan-corporate/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/internationale-harmonisierung-japan-corporate/FACHINHALT.md",
+      "sha256": "5f79ebcc20d2b8a19f41ec69c0980ed0d764364f49fad514b0ccf3a21a8c7375",
+      "bytes": 11218,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/japan-bav-und-corporate-pension-iorp/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/japan-bav-und-corporate-pension-iorp/FACHINHALT.md",
+      "sha256": "e02d7b44c65ddecd127cb00417ab82da719e691f74e89bee75548549901be451",
+      "bytes": 7923,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/kollektivrechtliche-loesungen-und-sozialplan/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/kollektivrechtliche-loesungen-und-sozialplan/FACHINHALT.md",
+      "sha256": "d8240d01d98c745316a47e3e8c5a7c9a0d9b5ac1a0a3e31bb8884a0d772bed14",
+      "bytes": 11881,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/konzernen-pension-pensionsmodelle/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/konzernen-pension-pensionsmodelle/FACHINHALT.md",
+      "sha256": "3e75bd8fe1998fcaf111850e704f6c883e0cbbabac886d76a658389d33d574a3",
+      "bytes": 3102,
+      "chapter": "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/mitbestimmung-betriebsrat-pension-buyout/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/mitbestimmung-betriebsrat-pension-buyout/FACHINHALT.md",
+      "sha256": "285e40399e549b7ca7f391fa5e056dbd7f8336bd948e2264bada1bfc25513aca",
+      "bytes": 11742,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/output-waehlen/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/output-waehlen/FACHINHALT.md",
+      "sha256": "fd2373637fb6df9f6467bff7964bb4cb128e589a8991d1d30c64542b59523770",
+      "bytes": 2960,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/pension-buyout-strukturierung-und-de-risking/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/pension-buyout-strukturierung-und-de-risking/FACHINHALT.md",
+      "sha256": "d7b943b0e82968a1e56e6880ca806eb1a4673ec58e455ab7b51503295780d1a3",
+      "bytes": 12072,
+      "chapter": "bav-strategie-konzern/references/konzern/04-transaktionen-und-rentnergesellschaft.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/pension-verhandlung-vergleich-und-eskalation/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/pension-verhandlung-vergleich-und-eskalation/FACHINHALT.md",
+      "sha256": "ee552bf3e5c479de471d1cbc94bee734a1bc5fe5405f24a3a9d53a17ba64b3f3",
+      "bytes": 3062,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/pensionsmodelle-fuenf-bav-cta-pensionsfond/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/pensionsmodelle-fuenf-bav-cta-pensionsfond/FACHINHALT.md",
+      "sha256": "392ee05d128ce690e6f7661e564e1b93f377d2e3a5e0f83bd1f752ba5b50e7d4",
+      "bytes": 14776,
+      "chapter": "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/pensionsmodelle-risikoampel-und-gegenargumente/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/pensionsmodelle-risikoampel-und-gegenargumente/FACHINHALT.md",
+      "sha256": "86400e47bc2c641059796bbdebbcfa7c40dc79e6128754fd7d7780a3e415378c",
+      "bytes": 5959,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten/FACHINHALT.md",
+      "sha256": "c857e0c8d815876e1e51dcfd3ba6dd206c757760e656f33197cee24c05a80657",
+      "bytes": 8875,
+      "chapter": "bav-strategie-konzern/references/konzern/05-finanzierung-cta-und-insolvenzschutz.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/quellen-livecheck/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/quellen-livecheck/FACHINHALT.md",
+      "sha256": "a853bf593e27b6429e72f609158c9a856a02d2a7242965f8b3e5c0645034c254",
+      "bytes": 2941,
+      "chapter": "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/restrukturierung-beweislast-stil-strategische/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/restrukturierung-beweislast-stil-strategische/FACHINHALT.md",
+      "sha256": "09a9b210e829e7d815ba68be21b41a1586d1d26e96f8c27a6834fd2cdd3fd184",
+      "bytes": 6229,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/spezial-buyouts-livequellen-und-rechtsprechungscheck/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/spezial-buyouts-livequellen-und-rechtsprechungscheck/FACHINHALT.md",
+      "sha256": "fa0b1b4fa837f65d98bc1bcb759cc4aa3bf2d747bb0b54cc320b713e858aa891",
+      "bytes": 7831,
+      "chapter": "bav-strategie-konzern/references/konzern/04-transaktionen-und-rentnergesellschaft.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/spezial-internationale-red-team-und-qualitaetskontrolle/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/spezial-internationale-red-team-und-qualitaetskontrolle/FACHINHALT.md",
+      "sha256": "d2a53556459c95b7d2205739c063b9f0f4f27cdef23e15048fedbf05af4893af",
+      "bytes": 4945,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/stil-abschlussprodukt-und-uebergabe/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/stil-abschlussprodukt-und-uebergabe/FACHINHALT.md",
+      "sha256": "1321d5b2422a407338c2a33179f4339f6b404104b0f28a2c32f00ff71a588ec3",
+      "bytes": 3030,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/strategische-erstpruefung-und-mandatsziel/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/strategische-erstpruefung-und-mandatsziel/FACHINHALT.md",
+      "sha256": "092e33ac33d3287e79cc760b865cfa13e1efd3da886dcd847aa3aae6eddedc58",
+      "bytes": 4011,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/stufen-theorie-interessen-versorgungssystem/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/stufen-theorie-interessen-versorgungssystem/FACHINHALT.md",
+      "sha256": "2518e11ff9cb15e9417c2fba40a2c9816e1157e7e0fe6d45ad77658d3761805d",
+      "bytes": 3079,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/theorie-mehrparteien-konflikt-und-interessen/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/theorie-mehrparteien-konflikt-und-interessen/FACHINHALT.md",
+      "sha256": "1ed811b75cb25fa54e37ac8d193bf015601a832206ee00e464c29aa72552b6b5",
+      "bytes": 3084,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/unterlagen-luecken/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/unterlagen-luecken/FACHINHALT.md",
+      "sha256": "11d3c73c5e809d1b4fa6353c6d58cdd34344b5f85fc1bd481982378d44918a9b",
+      "bytes": 2894,
+      "chapter": "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/FACHINHALT.md",
+      "sha256": "400bbc83efb6bb42937e96fe3b097ac6ea614d8239322d38abf078d13395b996",
+      "bytes": 19555,
+      "chapter": "bav-strategie-konzern/references/konzern/02-harmonisierung-und-mitbestimmung.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/versorgungssystem-international-schnittstellen/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/versorgungssystem-international-schnittstellen/FACHINHALT.md",
+      "sha256": "0325af922270bc8974b7647ae172785b70a7bda9df8267b609ed2744ea057a79",
+      "bytes": 3137,
+      "chapter": "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/workflow-chronologie-und-belegmatrix/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/workflow-chronologie-und-belegmatrix/FACHINHALT.md",
+      "sha256": "3bb9038bf99b1bd9e848e553667ab060f0ad424670b0b0031eb495ed0cba4757",
+      "bytes": 2177,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/workflow-mandantenkommunikation/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/workflow-mandantenkommunikation/FACHINHALT.md",
+      "sha256": "bcb6ed259e30e6955769745eeba118635e5919d286522fdd01df0a753a4b3199",
+      "bytes": 2166,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/workflow-redteam-qualitygate/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/workflow-redteam-qualitygate/FACHINHALT.md",
+      "sha256": "d7ff43713f7d712c5ddcff04e4a7c650df5c0acf2f4af3321016f4884ef96d6e",
+      "bytes": 2159,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/workflow-unterlagen-lueckenliste/FACHINHALT.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/workflow-unterlagen-lueckenliste/FACHINHALT.md",
+      "sha256": "9e54acc8fa824e6d023f7524a5483659e775428012827748202572bb51e615be",
+      "bytes": 2877,
+      "chapter": "bav-strategie-konzern/references/konzern/01-bestand-und-zusagen.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    },
+    {
+      "old_path": "bav-strategie-konzern/skills/design-start-chronologie/references/fachmodule.md",
+      "new_path": "quality/bav-konzern-2026-11-15/legacy/bav-strategie-konzern/skills/design-start-chronologie/references/fachmodule.md",
+      "sha256": "ac41f5b59f106eb72126446cf387c20ed2034820965ba91f005a2671857780ec",
+      "bytes": 4837,
+      "chapter": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+      "secondary_chapters": [
+        "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md"
+      ],
+      "disposition": "Thema in überprüfter Neufassung erhalten; doppelte allgemeine Arbeitsanweisungen zusammengeführt. Historischer Wortlaut unverändert im Archiv. Unbelegte Einzelbehauptungen werden nicht als gültige Anleitung fortgeschrieben; siehe Fehlerkatalog.",
+      "review_method": "Vollständige Textlektüre; wortgleiche Absatzwiederholungen einmal mit Vorkommenszuordnung gelesen."
+    }
+  ]
+}

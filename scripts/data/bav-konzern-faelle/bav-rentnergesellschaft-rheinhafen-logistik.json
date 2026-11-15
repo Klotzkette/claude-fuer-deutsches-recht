@@ -1,0 +1,1547 @@
+{
+  "slug": "bav-rentnergesellschaft-rheinhafen-logistik",
+  "title": "Projekt ANKER – Rentnergesellschaft mit drei Angeboten und einer zweifelhaften Immobilie",
+  "client": "Rheinhafen Logistik Holding GmbH",
+  "city": "Duisburg",
+  "story": "Die Rheinhafen-Gruppe will ihr operatives Hafengeschäft neu ordnen. 1.240 laufende Renten und 186 unverfallbare Anwartschaften stehen einem internen Verpflichtungsmodell von 86,4 Mio. EUR gegenüber. Drei Anbieter schlagen Verwaltung, Versicherung beziehungsweise Übernahme einer Rentnergesellschaft vor. Im Vorstand werden zwei unterschiedliche Wege vermischt: Ausgliederung der Versorgung in eine neue Gesellschaft oder Verbleib der Verpflichtungen in der bisherigen Gesellschaft nach Verkauf des operativen Betriebs. Als Finanzierung ist neben Wertpapieren eine Hafenimmobilie vorgesehen.",
+  "assignment": "Vergleichen Sie Struktur, Haftung, Finanzierung und Leistungsumfang der drei Angebote. Entwickeln Sie einen belastbaren Entscheidungsvorschlag mit Stressrechnung, Unterlagenliste und ausformulierten Verhandlungsunterlagen. Prüfen Sie die tatsächlich gewählte Übertragungsstruktur; nehmen Sie keine automatische Befreiung bisheriger Schuldner an.",
+  "law_firm": {
+    "name": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB",
+    "address": "Am Rheinbogen 18, 51373 Leverkusen",
+    "partners": [
+      "Dr. Monkī D. Rufi",
+      "Dr. Nora Treuenfels"
+    ],
+    "email": "mail@monki-treuenfels.example"
+  },
+  "documents": [
+    {
+      "id": "01",
+      "path": "Grundakte/01_Mandatsanfrage.eml",
+      "kind": "eml",
+      "title": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "date": "2026-10-14",
+      "sender": "Vorstand <vorstand@rheinhafen-logistik.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "Die Rheinhafen-Gruppe will ihr operatives Hafengeschäft neu ordnen. 1.240 laufende Renten und 186 unverfallbare Anwartschaften stehen einem internen Verpflichtungsmodell von 86,4 Mio. EUR gegenüber. Drei Anbieter schlagen Verwaltung, Versicherung beziehungsweise Übernahme einer Rentnergesellschaft vor. Im Vorstand werden zwei unterschiedliche Wege vermischt: Ausgliederung der Versorgung in eine neue Gesellschaft oder Verbleib der Verpflichtungen in der bisherigen Gesellschaft nach Verkauf des operativen Betriebs. Als Finanzierung ist neben Wertpapieren eine Hafenimmobilie vorgesehen.",
+        "Vergleichen Sie Struktur, Haftung, Finanzierung und Leistungsumfang der drei Angebote. Entwickeln Sie einen belastbaren Entscheidungsvorschlag mit Stressrechnung, Unterlagenliste und ausformulierten Verhandlungsunterlagen. Prüfen Sie die tatsächlich gewählte Übertragungsstruktur; nehmen Sie keine automatische Befreiung bisheriger Schuldner an. Bitte bereiten Sie die Unterlagen so auf, dass die Geschäftsleitung bis 3. Dezember 2026 entscheiden kann, welche Variante tatsächlich weiterverfolgt wird. Der Termin ist ein interner Planungstermin; wir erwarten keine Erklärung, dass die arbeitsrechtliche Umsetzung bis dahin sicher abgeschlossen sein werde.",
+        "Wir benötigen eine nachvollziehbare Trennung der Arbeitgeber, Versorgungswege, betroffenen Personen und Finanzierungsquellen. Die Pensionsrückstellung in der Konzernrechnung ist nicht unser verfügbares Bankguthaben. Bitte fragen Sie bei Widersprüchen zunächst die in den Unterlagen genannten Sachbearbeiter und halten Sie fest, aus welcher Datei eine Zahl stammt. Ein ungeprüftes Gesamturteil über alle Bestände hilft uns im Vorstand nicht.",
+        "Die Personalabteilung hat ihre Exporte auf den unten bezeichneten Stand eingefroren. Nachlieferungen werden mit Eingangsdatum in einem eigenen Ordner gesammelt. Es wurden noch keine Beschäftigten angeschrieben, keine Einigungsstelle angerufen und keine individuellen Zustimmungserklärungen eingesammelt. Bitte entwerfen Sie solche Schritte nur als gesondert zu genehmigende nächste Maßnahmen.",
+        "Mit freundlichen Grüßen\nDie Geschäftsleitung\nRheinhafen Logistik Holding GmbH"
+      ],
+      "attachments": [],
+      "from_email": "vorstand@rheinhafen-logistik.example",
+      "to_email": "mail@monki-treuenfels.example"
+    },
+    {
+      "id": "02",
+      "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+      "kind": "pdf",
+      "title": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "date": "2026-10-15",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Mandatsvereinbarung – betriebliche Altersversorgung",
+      "body": [
+        "1 Vertragsparteien und Gegenstand",
+        "Rheinhafen Logistik Holding GmbH beauftragt Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Monkī D. Rufi und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen MT-ANKER-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
+        "1.1 Geschuldete Leistungen",
+        "Die Kanzlei sichtet die zur Verfügung gestellten Versorgungsregelungen, Verträge und Korrespondenzen, erhebt entscheidungserhebliche Lücken und erstellt nach Abstimmung des Sachverhalts eine rechtliche Entscheidungsvorlage. Auf gesonderte Anforderung werden vollständige Entwürfe für Verhandlungen, Beschäftigteninformationen und erforderliche Vertragsänderungen erstellt. Eine automatische Versendung oder Einreichung ist nicht beauftragt. Die Mandantin entscheidet über tatsächliche Umsetzung und Budget.",
+        "1.2 Abgrenzung der Beratung",
+        "Nicht beauftragt sind die Erstellung eines versicherungsmathematischen Gutachtens, eine Abschlussprüfung, individuelle Steuerberatung der Versorgungsberechtigten oder eine Anlageempfehlung. Die Kanzlei überprüft die rechtliche Bedeutung wirtschaftlicher Annahmen, bestätigt aber nicht die Richtigkeit einer vom Unternehmen gelieferten Barwertberechnung. Für ausländische Unternehmen wird bei Bedarf ein gesonderter Auftrag vereinbart. Das Mandat enthält keine Zusage eines bestimmten bilanziellen Ergebnisses oder einer Zustimmung Dritter.",
+        "2 Zusammenarbeit und Dokumente",
+        "Die Mandantin stellt maßgebliche Originalfassungen und sämtliche Nachträge bereit. Eine aktuelle Verwaltungstabelle ersetzt die zugrunde liegende Zusage nicht. Wenn eine Datei nur ein Auszug oder eine nicht unterzeichnete Fassung ist, wird dies im Begleitschreiben vermerkt. Die Kanzlei führt ein Eingangsverzeichnis und bewahrt widersprechende Fassungen nebeneinander auf, bis die Mandantin die Herkunft geklärt hat. Sie darf keine nachträgliche Glättung der Personalhistorie als gesicherte Tatsache behandeln.",
+        "2.1 Termine und Zwischenstände",
+        "Der vereinbarte Entscheidungstermin ist abhängig von der rechtzeitigen Lieferung der entscheidungserheblichen Dokumente. Kann eine Frage mangels Belegen noch nicht abschließend beurteilt werden, legt die Kanzlei die vorhandenen Varianten mit den konkreten Folgen und der fehlenden Information vor. Ein Zwischenstand wird nicht als unterschriftsreife Umsetzungsvorlage gekennzeichnet. Die Parteien stimmen wöchentlich mittwochs einen schriftlichen Sachstand ab.",
+        "3 Vergütung und Kostensteuerung",
+        "Die Vergütung richtet sich nach der gesondert unterzeichneten Vergütungsvereinbarung. Für die erste Sichtungs- und Strukturierungsphase gilt ein internes Planungsbudget von 95.000 EUR netto. Dieses Planungsbudget ist keine pauschale Vergütung und keine Zustimmung zu Mehrleistungen. Bei absehbarer Überschreitung um mehr als zehn Prozent unterrichtet die Kanzlei die Mandantin vor weiterer nicht eilbedürftiger Tätigkeit. Reise- und externe Sachverständigenkosten bedürfen gesonderter Freigabe.",
+        "4 Kommunikation und Datenzugriff",
+        "Der Datenaustausch erfolgt über den vereinbarten geschützten Datenraum. Beschäftigtendaten werden nur den für das Mandat erforderlichen Personen zugänglich gemacht. Die Parteien verwenden in Arbeitslisten möglichst Personalnummern. Über den Einsatz zusätzlicher Dienstleister und den erforderlichen Zugriff wird gesondert entschieden. Eine allgemeine Zustimmung zur Weitergabe vollständiger Personalakten an frei zugängliche Systeme wird durch diese Vereinbarung nicht erteilt.",
+        "5 Freigabe, Beendigung und Aktenherausgabe",
+        "Erklärungen gegenüber Beschäftigten, Gremien, Versorgungsträgern oder Behörden bedürfen der inhaltlichen Freigabe der Mandantin. Gesetzliche berufliche Pflichten der Kanzlei bleiben unberührt. Bei Beendigung werden die vom Unternehmen überlassenen Dokumente und die zur Fortführung erforderlichen Arbeitsstände geordnet bereitgestellt; Aufbewahrungspflichten bleiben bestehen. Änderungen des Beratungsgegenstands und zusätzlicher Vertretungsaufträge werden dokumentiert.",
+        "Für Rheinhafen Logistik Holding GmbH: Geschäftsleitung, elektronisch freigegeben am 2026-10-15.\nFür Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-15."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "03",
+      "path": "Grundakte/03_Versorgungsordnung_1994.pdf",
+      "kind": "pdf",
+      "title": "Rheinhafen Versorgung 1994",
+      "date": "1994-04-01",
+      "sender": "Rheinhafen Logistik GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Personalabteilung und versorgungsberechtigte Beschäftigte\nHafenallee 62\n47119 Duisburg",
+      "subject": "Rheinhafen Versorgung 1994",
+      "body": [
+        "1 Zweck und persönlicher Geltungsbereich",
+        "Rheinhafen Logistik GmbH gewährt den nachfolgend bezeichneten Beschäftigten eine zusätzliche Versorgung für Alter, Invalidität und Hinterbliebene. Diese Ordnung gilt für Arbeitnehmer der Gesellschaft nach schriftlicher Aufnahme und einer Wartezeit von fünf Jahren. Besondere Einzelzusagen werden im Aufnahmeverzeichnis gesondert dokumentiert. Maßgeblich für die Aufnahme ist die schriftliche Bestätigung der Personalabteilung. Ein späterer Wechsel des Arbeitsbereichs allein hebt eine bereits erteilte Zusage nicht auf. Wer eine besondere schriftliche Einzelzusage erhalten hat, wird im Aufnahmeverzeichnis gesondert geführt; das Verhältnis beider Zusagen ist im Einzelvertrag festzuhalten.",
+        "1.1 Beginn und Dienstzeit",
+        "Die anrechenbare Dienstzeit beginnt mit dem in der Aufnahmebestätigung bezeichneten Beschäftigungsbeginn. Unbezahlte Freistellungen werden nur angerechnet, wenn dies vor Beginn schriftlich vereinbart worden ist. Krankheit, bezahlter Urlaub und gesetzliche Schutzfristen unterbrechen die Dienstzeit nicht. Bei Teilzeit werden Dienstzeit und Entgelt nach den nachfolgenden Regeln getrennt erfasst; eine doppelte Minderung derselben Teilzeitphase ist nicht vorgesehen.",
+        "2 Versorgungsleistung",
+        "Die jährliche Altersrente beträgt 0,40 Prozent des letzten jährlichen pensionsfähigen Festgehalts je vollem anrechenbaren Dienstjahr, höchstens für 35 Dienstjahre. Als Festgehalt gelten zwölf Monatsgehälter ohne Überstunden, variable Prämien und Aufwendungsersatz. Bei Teilzeit werden die einzelnen Zeitabschnitte nach ihrem Arbeitszeitanteil gewichtet.",
+        "2.1 Leistungsbeginn",
+        "Die Altersrente beginnt grundsätzlich mit dem Monat nach Vollendung des 65. Lebensjahres und Beendigung des Arbeitsverhältnisses. Bei gesetzlich zulässiger vorzeitiger Inanspruchnahme vermindert sich die errechnete Rente um 0,3 Prozent für jeden Monat vor diesem Zeitpunkt, höchstens um 10,8 Prozent. Eine Weiterarbeit über das Versorgungsalter hinaus bedarf einer gesonderten Berechnung; bereits ausgezahlte Renten werden nicht zusätzlich als Dienstzeit vergütet. Die Personalabteilung teilt den errechneten Beginn und die zugrunde gelegten Zeiten schriftlich mit.",
+        "2.2 Invalidität und Hinterbliebene",
+        "Bei nachgewiesener dauernder Erwerbsunfähigkeit vor dem regulären Rentenbeginn wird die bis zum Eintritt des Versorgungsfalls erworbene Leistung gezahlt. Die Berechtigten legen den Bescheid des gesetzlichen Rentenversicherungsträgers oder gleichwertige Nachweise vor. Nach dem Tod einer versorgungsberechtigten Person erhält deren bei Eintritt des Versorgungsfalls bestehender Ehepartner 60 Prozent der maßgeblichen Alters- oder Invaliditätsrente. Minderjährige Kinder erhalten je 10 Prozent; die Summe sämtlicher Hinterbliebenenleistungen beträgt höchstens 100 Prozent. Die Prüfung besonderer familiärer Verhältnisse erfolgt anhand der tatsächlichen Nachweise und nicht allein durch einen automatisierten Familienstands-Code.",
+        "3 Finanzierung und Durchführung",
+        "Die Gesellschaft erfüllt die zugesagte Versorgung unmittelbar. Rückstellungen und zugeordnete Kapitalanlagen dienen der Finanzierung, verändern aber nicht allein den Anspruch gegen die Gesellschaft. Leistungen werden monatlich zum letzten Bankarbeitstag auf das bezeichnete Konto überwiesen. Eine Finanzierung über einen Dritten verändert die vom Arbeitgeber schriftlich erteilte Zusage nur, wenn dies wirksam vereinbart wird. Der Berechtigte erhält bei Aufnahme eine Kopie dieser Ordnung und seiner individuellen Bestätigung. Der Arbeitgeber hält Dienstzeiten, Entgeltgrößen und Beitragsbuchungen nachvollziehbar vor.",
+        "3.1 Auskünfte und Änderungen persönlicher Verhältnisse",
+        "Die Berechtigten melden Änderungen ihrer Anschrift, Bankverbindung und den Eintritt eines Versorgungsfalls. Eine verspätete Anschriftenmitteilung beseitigt nicht den bestehenden Anspruch. Bei widersprechenden Angaben prüft die Personalabteilung die Belege und gewährt Gelegenheit zur Stellungnahme. Eine automatisch erzeugte Jahresinformation beschreibt den Verwaltungsstand; sie ersetzt keine Vereinbarung über eine Änderung der Zusage.",
+        "4 Ausscheiden und Übertragung",
+        "Beim Ausscheiden stellt der Arbeitgeber die bis zum Austritt maßgeblichen Dienstzeiten und Berechnungsgrundlagen schriftlich fest. Gesetzlich unverfallbare Ansprüche bleiben erhalten. Eine Übertragung auf einen anderen Arbeitgeber oder Versorgungsträger wird nur auf der Grundlage der im Übertragungszeitpunkt geltenden Voraussetzungen und erforderlichen Erklärungen durchgeführt. Die Personalabteilung veranlasst keine Auszahlung des Rückkaufswerts allein deshalb, weil der Beschäftigte den Arbeitsplatz wechselt.",
+        "5 Anpassung und Änderungen dieser Ordnung",
+        "Die laufenden Leistungen werden zu den nach Gesetz und individueller Zusage maßgeblichen Zeitpunkten überprüft. Über jede Überprüfung wird eine nachvollziehbare Mitteilung erstellt. Änderungen dieser Ordnung bedürfen einer ausdrücklichen schriftlichen Regelung der zuständigen Parteien; aus einer technischen Umstellung der Personalsoftware folgt keine Änderung. Bereits erteilte Einzelzusagen sind bei der Änderung gesondert zu erfassen. Zwingende gesetzliche Rechte werden durch diese Ordnung nicht eingeschränkt.",
+        "6 Schlussbestimmungen",
+        "Diese Ordnung tritt mit dem auf dem Titel angegebenen Datum in Kraft. Frühere Regelungen werden nur insoweit ersetzt, wie der persönliche Geltungsbereich dieser Ordnung reicht und eine wirksame Ablösung möglich ist. Sollten einzelne Bestimmungen unwirksam sein, prüfen die Parteien eine wirksame Regelung des betroffenen Gegenstands; eine pauschale einseitige Neufestsetzung der gesamten Versorgung ist damit nicht verbunden.",
+        "Für den Arbeitgeber: Geschäftsleitung. Für den Betriebsrat: Vorsitz. Unterzeichnete Archivfassung; Übertragung in das elektronische Archiv durch Personalverwaltung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "04",
+      "path": "Grundakte/04_Vorstandsauftrag_Strukturen.pdf",
+      "kind": "pdf",
+      "title": "Projekt ANKER – zwei Unternehmensstrukturen getrennt prüfen",
+      "date": "2026-10-12",
+      "sender": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Recht, Personal, Treasury\nHafenallee 62\n47119 Duisburg",
+      "subject": "Projekt ANKER – zwei Unternehmensstrukturen getrennt prüfen",
+      "body": [
+        "1 Ausgangssituation",
+        "Die operative Rheinhafen Logistik GmbH betreibt Lager und Umschlaganlagen. Sie schuldet die in der Bestandsdatei erfassten Renten und Anwartschaften. Das laufende Hafengeschäft soll teilweise verkauft werden. Die Geschäftsführung will das Pensionsrisiko besser finanzieren und die Verwaltung professionalisieren. Der Verkauf eines Geschäfts und die Übertragung von Versorgungsverpflichtungen sind dabei zwei getrennte Vorgänge.",
+        "2 Variante Ausgliederung",
+        "In der ersten Variante sollen bezeichnete Versorgungsverpflichtungen und das dazu vorgesehene Vermögen auf eine neu zu gründende Rheinhafen Versorgung GmbH ausgegliedert werden. Das operative Geschäft verbliebe zunächst in der bisherigen Gesellschaft. Vor einer Entscheidung sind der vollständige Übertragungsweg, die ausreichende Ausstattung und fortbestehende Haftungspositionen zu prüfen.",
+        "3 Variante Verbleib",
+        "In der zweiten Variante wird das operative Geschäft verkauft, während die Pensionsverpflichtungen bei der bisherigen Logistik GmbH verbleiben. Diese würde anschließend im Wesentlichen Versorgung und Vermögen verwalten. Der Projektname „Rentnergesellschaft“ allein beschreibt somit nicht den rechtlichen Entstehungsweg. Aus dem Namen darf keine einheitliche Aussage über Ausstattung, Haftung oder Enthaftung abgeleitet werden.",
+        "4 Angebote und Finanzierung",
+        "Drei Anbieter wurden gebeten, ihren tatsächlichen Leistungsumfang darzustellen. Das niedrigste Verwaltungsentgelt ist nicht automatisch die wirtschaftlich günstigste Gesamtstruktur. Die Hafenimmobilie wird bisher mit 14 Mio. EUR angesetzt; ein aktueller Nachweis über Belastungen, Sanierungsbedarf und kurzfristige Verwertbarkeit fehlt noch. Die Geschäftsführung verlangt einen Abgleich mit laufenden Zahlungen und Stressszenarien."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "05",
+      "path": "Grundakte/05_Ausstattungsvereinbarung_Entwurf.docx",
+      "kind": "docx",
+      "title": "Ausstattungsvereinbarung für die geplante Versorgungsgesellschaft – Entwurf",
+      "date": "2026-10-16",
+      "sender": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Projektteam ANKER\nHafenallee 62\n47119 Duisburg",
+      "subject": "Ausstattungsvereinbarung für die geplante Versorgungsgesellschaft – Entwurf",
+      "body": [
+        "1 Gegenstand und Entwurfsstatus",
+        "Die Parteien verhandeln eine gesonderte Ausstattungsvereinbarung für die Variante einer Ausgliederung von Versorgungsverpflichtungen. Dieser Text ist kein vollständiger Ausgliederungsvertrag und kein Nachweis einer bereits vollzogenen Umwandlung. Er soll die wirtschaftliche Ausstattung und ihre Kontrolle regeln. Die vollständige gesellschaftsrechtliche Struktur und die erforderlichen Erklärungen sind gesondert vorzubereiten.",
+        "2 Übernommener Bestand",
+        "Der vorgesehene Bestand umfasst 1.240 laufende Renten und 186 unverfallbare Anwartschaften. Maßgeblich sind die im endgültigen Bestandsverzeichnis bezeichneten Einzelzusagen, Nachträge, Hinterbliebenenleistungen und Anpassungsregelungen. Nicht aufgefundene Unterlagen werden als offene Positionen geführt; eine fehlende Dokumentzeile bedeutet keinen Verzicht der Berechtigten. Die Summe des internen Planungsmodells beträgt 86.400.000 EUR zum 30. September 2026. Sie ist vor Vollzug durch eine gesonderte fachliche Bewertung zu überprüfen.",
+        "3 Anfangsausstattung",
+        "Vorgesehen sind 8.000.000 EUR liquide Mittel, 50.000.000 EUR Anleihen, 12.000.000 EUR Aktienfonds und eine Hafenimmobilie mit bisher angenommenem Wert von 14.000.000 EUR. Der Gesamtansatz beträgt damit 84.000.000 EUR. Die Immobilie wird nur mit dem nach Prüfung tatsächlich übertragbaren Nettovermögenswert berücksichtigt. Bestehende Sicherheiten, Rechte Dritter, Verwertungskosten und notwendige Sanierungskosten sind offenzulegen. Eine Buchwertfortführung ersetzt diese Prüfung nicht.",
+        "3.1 Übertragung und Nachweis",
+        "Die liquide Ausstattung muss spätestens zum Vollzugstag auf dem Konto der Versorgungsgesellschaft verfügbar sein. Wertpapiere werden über Depotübertrag mit Wertstellungsnachweis eingebracht. Für die Immobilie sind die erforderlichen schuldrechtlichen und dinglichen Erklärungen sowie die Behandlung bestehender Belastungen vorzubereiten. Der Geschäftsführer bestätigt nur tatsächlich erfolgte und belegte Übertragungen, nicht eine bloße Absichtserklärung.",
+        "4 Ergänzende Finanzierung",
+        "Nach Vorstellung der Holding soll ein zusätzlicher Finanzierungsrahmen von bis zu 15.000.000 EUR bereitstehen. Rechtsnatur, Gläubiger, Abrufvoraussetzungen und Laufzeit werden in einer gesonderten Vereinbarung festgelegt. Eine mündliche Aussage der Holding ersetzt diese Verpflichtung nicht. Der Rahmen wird nicht als vorhandenes Bankguthaben in den Anfangsbestand aufgenommen.",
+        "5 Liquiditätssteuerung",
+        "Die Versorgungsgesellschaft erstellt monatlich einen Zahlungsplan für mindestens zwölf Monate und jährlich eine längerfristige Bestandsplanung. Fällige Renten, Verwaltungskosten, Steuern und absehbare Sonderzahlungen werden getrennt erfasst. Die Planung verwendet nachvollziehbare Annahmen; Marktwerte und langfristige Renditeerwartungen werden nicht als sofort verfügbare Zahlungsmittel behandelt. Bei Unterschreitung einer Liquiditätsreserve von sechs Monatsausgaben ist die Geschäftsführung unverzüglich zu unterrichten.",
+        "6 Kontrolle und Bericht",
+        "Der Bericht enthält Rentenzahlungen, Bestandsveränderungen, Anpassungsprüfungen, Verwaltungsentgelte, Vermögenswerte und Abweichungen vom Plan. Fehlende historische Zusagetexte werden in einem offenen Register geführt. Der Verwaltungsdienstleister darf keine Leistungen allein zur Einhaltung eines Budgets kürzen. Eine Änderung des Leistungsversprechens bedarf eigener rechtlicher Prüfung und der erforderlichen Erklärungen.",
+        "7 Haftung und Rechte Dritter",
+        "Die Parteien werden den jeweiligen gesetzlichen Übertragungsweg und fortbestehende Haftungspositionen gesondert dokumentieren. Diese Vereinbarung behauptet keine automatische Befreiung der bisherigen Versorgungsschuldner oder der Holding. Eine interne Kosten- oder Risikoübernahme ist von Ansprüchen der Berechtigten zu unterscheiden. Gegenüber Rentnern dürfen nur abgestimmte und rechtlich geprüfte Informationen verwendet werden.",
+        "8 Voraussetzungen der Freigabe",
+        "Vor einer Unterzeichnung müssen die Bestandsabgrenzung, Bewertung, Immobilientitel, ergänzende Finanzierung, Verwaltung und Verantwortlichkeit vollständig geklärt sein. Der interne Zieltermin ersetzt diese Freigaben nicht. Bis zum Vollzug zahlt die bisherige Schuldnerin die Renten unverändert weiter. Ein Ende der bisherigen Zahlungsfreigaben allein aufgrund einer Projektentscheidung ist ausgeschlossen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "06",
+      "path": "Grundakte/06_Betriebsverkauf_Absicht.pdf",
+      "kind": "pdf",
+      "title": "Verkauf des Umschlagbetriebs – Eckpunkte des Interessenten",
+      "date": "2026-10-13",
+      "sender": "Westkai Operations GmbH, Speicherstraße 41, 47119 Duisburg",
+      "recipient": "Rheinhafen Logistik GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Verkauf des Umschlagbetriebs – Eckpunkte des Interessenten",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "unser Interesse richtet sich auf die Umschlaganlagen, Kundenverträge und den hierfür eingesetzten Betrieb. Eine Übernahme des gesamten Gesellschaftsmantels ist derzeit nicht vorgesehen. Wir gehen davon aus, dass bestehende Rentner- und ausgeschiedene Anwärterbestände nicht allein durch den Verkauf der Betriebsmittel auf uns übergehen. Die Behandlung der dem übertragenen Betrieb zugeordneten aktiven Beschäftigten einschließlich ihrer Zusagen muss dagegen gesondert geregelt werden.",
+        "Der indikative Kaufpreis von 63 Mio. EUR bezieht sich auf die im technischen Verzeichnis bezeichneten Betriebsmittel und Vertragspositionen. Die Hafenimmobilie Flurstück 428 ist nicht enthalten. Deren Eigentum, Belastungen und Vermietung bleiben im weiteren Verfahren zu prüfen. Eine Annahme, dass der Kaufpreis vollständig zur freien Ausschüttung an die Holding zur Verfügung steht, ist nicht Bestandteil unseres Angebots.",
+        "Bis zum 25. November benötigen wir eine verbindliche Beschreibung der Verkaufsgegenstände und der verbleibenden Verpflichtungen. Dieses Schreiben ist unverbindlich und ersetzt weder einen Kaufvertrag noch eine Erklärung gegenüber Beschäftigten oder Versorgungsberechtigten.",
+        "Westkai Operations GmbH, Geschäftsführerin Paula van Heek."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "07",
+      "path": "Grundakte/07_Holding_Unterstuetzung_Entwurf.pdf",
+      "kind": "pdf",
+      "title": "Finanzierungsrahmen der Holding – noch nicht unterzeichneter Entwurf",
+      "date": "2026-10-18",
+      "sender": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Rheinhafen Versorgung GmbH in Planung\nHafenallee 62\n47119 Duisburg",
+      "subject": "Finanzierungsrahmen der Holding – noch nicht unterzeichneter Entwurf",
+      "body": [
+        "1 Vorgesehene Verpflichtung",
+        "Die Holding soll der Versorgungsgesellschaft bis zu 15.000.000 EUR zur Verfügung stellen, wenn deren laufende Liquidität zur Erfüllung der im freigegebenen Bestandsverzeichnis erfassten Versorgungspflichten nicht ausreicht. Der Entwurf bezeichnet die Gesellschaft als Gläubigerin. Eigene unmittelbare Ansprüche der Rentner werden in dieser Fassung nicht ausdrücklich eingeräumt.",
+        "2 Abruf und Nachweis",
+        "Ein Abruf soll einen vom Geschäftsführer unterzeichneten Zwölfmonats-Liquiditätsplan, die fälligen Zahlungen und einen Abgleich der verfügbaren Mittel enthalten. Nach Vorstellung der Holding soll die Auszahlung binnen zehn Bankarbeitstagen erfolgen. Noch offen ist, ob eine vorherige Verwertung sämtlicher Wertpapiere oder der Immobilie verlangt werden darf. Diese Frage ist vor Unterzeichnung zu entscheiden.",
+        "3 Laufzeit und Rang",
+        "Die Holding schlägt eine Laufzeit von zehn Jahren vor. Verlängerung, Verzinsung, Rückzahlbarkeit und ein möglicher Rangrücktritt sind noch nicht verbindlich vereinbart. Der Entwurf darf deshalb nicht als bereits vorhandene dauerhafte Eigenkapitalausstattung behandelt werden. Rückzahlungen dürfen nur nach einem gesondert freigegebenen Finanzierungsplan erfolgen.",
+        "4 Strukturentscheidung",
+        "Der Finanzierungsrahmen soll nur für die Variante einer neu gegründeten Versorgungsgesellschaft gelten. Für den Verbleib der Verpflichtungen in der bisherigen Logistik GmbH enthält dieser Text noch keine entsprechende Zusage. Eine Anpassung wäre ausdrücklich vorzunehmen. Geschäftsführung und Gesellschafter haben den Entwurf noch nicht freigegeben."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "08",
+      "path": "Grundakte/08_Angebot_Nordanker.pdf",
+      "kind": "pdf",
+      "title": "Angebot Nordanker – Verwaltung im bestehenden Schuldnerunternehmen",
+      "date": "2026-10-20",
+      "sender": "Nordanker Pension Services GmbH, Kaistraße 8, 40221 Düsseldorf",
+      "recipient": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Angebot Nordanker – Verwaltung im bestehenden Schuldnerunternehmen",
+      "body": [
+        "Sehr geehrte Frau Lindkamp,",
+        "wir danken für die Unterlagen zum Projekt ANKER. Unser Angebot bezieht sich auf 1.240 laufende Renten und 186 unverfallbare Anwartschaften nach dem übergebenen Bestandsstand. Die folgenden Konditionen sind ein individuelles Angebot unseres Hauses; sie enthalten keine Feststellung eines allgemeinen Marktpreises.",
+        "1 Gegenstand",
+        "Wir übernehmen die technische Administration und bereiten Zahlungsdateien vor. Die vorhandene Gesellschaft bleibt Schuldnerin. Wir erwerben keine Gesellschaftsanteile und versprechen keine befreiende Übernahme der Renten. Die Anlageentscheidung bleibt bei der Gesellschaft; ein Vermögensverwaltungsmandat ist nicht Bestandteil dieses Angebots.",
+        "1.1 Abgrenzung der Leistungen",
+        "Ein gerichtliches Verfahren, eine individuelle steuerliche Beratung der Berechtigten oder eine pauschale Prüfung sämtlicher Altzusagen ist nicht eingeschlossen. Wir benötigen vor Vertragsabschluss die vollständigen Leistungsregeln, sämtliche bekannten Sonderzusagen, den Status der Anpassungsprüfungen und Informationen über laufende Streitigkeiten. Der uns bisher übergebene Detailauszug mit 48 Personen ersetzt den vollständigen Bestand nicht.",
+        "2 Finanzierung und Preis",
+        "Die Gesellschaft stellt das zu verwaltende Vermögen selbst. Der Betrag von 84 Mio. EUR ist eine vom Auftraggeber gelieferte Modellgröße und keine von uns bestätigte ausreichende Ausstattung. Die in der Vergleichsdatei ausgewiesenen Einrichtungs- und Verwaltungsentgelte betragen 180.000 EUR einmalig und 98.000 EUR jährlich. Diese Zahlen sind Nettoplanungsbeträge; die umsatzsteuerliche Behandlung der jeweiligen Leistung ist vor endgültiger Rechnung festzulegen. Kapitalbereitstellung, Einmalentgelt und laufende Kosten sind im Angebotsvergleich getrennt auszuweisen.",
+        "2.1 Angebotsvoraussetzungen",
+        "Vorausgesetzt werden zutreffende Geburts- und Rentenbeginndaten, vollständige Hinterbliebeneninformationen und die unveränderten beschriebenen Leistungsregeln. Ungeklärte Personen oder fehlende Nachträge werden vor Bindung des Angebots gesondert bewertet. Eine bloße Änderung der Dateibezeichnung von „offen“ auf „bestätigt“ beseitigt keinen Datenvorbehalt.",
+        "3 Leistungsverwaltung",
+        "Die Zahlungsdatei wird monatlich mit dem freigegebenen Leistungsbestand abgeglichen. Neue Versorgungsfälle und Todesmeldungen werden mit Eingangsdatum und Belegen dokumentiert. Wir führen ein Änderungsprotokoll und stellen Berichte für Geschäftsführung und zuständige Kontrollstellen bereit. Ein abweichender Kontostand ist kein Grund, eine rechtlich geschuldete Rente ohne Freigabe neu festzusetzen.",
+        "3.1 Kommunikation",
+        "Ein Informationsschreiben an Berechtigte ist vor Versand mit dem Auftraggeber abzustimmen. Es benennt den tatsächlichen Ansprechpartner und den weiterhin maßgeblichen Schuldner. Wir verwenden nicht die Aussage „garantiert haftungsfrei“, solange die konkrete Struktur nicht fachlich geprüft und vollzogen ist. Rückfragen werden nach Datenberichtigung, Leistungsprüfung und rechtlicher Streitfrage unterschieden.",
+        "4 Vermögen und Stress",
+        "Die von Ihnen genannte Hafenimmobilie ist illiquide. Wir verlangen vor jeder Anrechnung einen aktuellen Titel- und Belastungsnachweis, eine nachvollziehbare Bewertung und Angaben zum Sanierungsbedarf. Eine jährliche Bruttomiete darf nicht ohne Kosten und Leerstandsrisiko als frei verfügbarer Nettozufluss geplant werden. In der Szenarioplanung sind Marktwertänderungen, zusätzliche Rentenzahlungen, Kosten und Liquiditätsreserven getrennt zu zeigen.",
+        "5 Umsetzung",
+        "Nach vollständigem Dateneingang planen wir zwölf Wochen für Prüfung, Testmigration und Freigabe. Der Beginn der Frist setzt einen geklärten Strukturweg voraus. Eine bereits im Projektkalender vorgesehene Übertragung am 1. April 2027 ist keine Zusage unsererseits. Vor dem produktiven Lauf werden zwei Zahlungsmonate parallel geprüft und sämtliche Differenzen schriftlich freigegeben.",
+        "6 Bindung",
+        "Dieses Angebot gilt bis zum 30. November 2026 unter den ausdrücklich genannten Daten- und Strukturvorbehalten. Eine Bindung an einen später geänderten Bestand ist damit nicht verbunden. Der vollständige Vertrag wird erst nach Abschluss der Prüfung unterzeichnet. Bitte bestätigen Sie zunächst, welche unserer angebotenen Leistungen Sie weiterverfolgen möchten.",
+        "Mit freundlichen Grüßen\nGeschäftsleitung Nordanker Pension Services GmbH"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "09",
+      "path": "Grundakte/09_Angebot_Rentenfels.pdf",
+      "kind": "pdf",
+      "title": "Angebot Rentenfels – Rückdeckungsversicherung des bezeichneten Bestands",
+      "date": "2026-10-20",
+      "sender": "Rentenfels Leben AG, Bonner Ufer 23, 50968 Köln",
+      "recipient": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Angebot Rentenfels – Rückdeckungsversicherung des bezeichneten Bestands",
+      "body": [
+        "Sehr geehrte Frau Lindkamp,",
+        "wir danken für die Unterlagen zum Projekt ANKER. Unser Angebot bezieht sich auf 1.240 laufende Renten und 186 unverfallbare Anwartschaften nach dem übergebenen Bestandsstand. Die folgenden Konditionen sind ein individuelles Angebot unseres Hauses; sie enthalten keine Feststellung eines allgemeinen Marktpreises.",
+        "1 Gegenstand",
+        "Wir bieten den Abschluss einer Rückdeckungsversicherung für den im Datenstand bezeichneten Bestand an. Versicherungsnehmerin und Arbeitgeberin bleiben zunächst dieselbe Gesellschaft. Ob im Anschluss ein anderer Rechtsweg zur Übertragung von Verpflichtungen gewählt werden kann, ist nicht Gegenstand dieses Angebots. Der Versicherungsvertrag allein wird von uns nicht als Befreiung des arbeitsrechtlichen Schuldners bezeichnet.",
+        "1.1 Abgrenzung der Leistungen",
+        "Ein gerichtliches Verfahren, eine individuelle steuerliche Beratung der Berechtigten oder eine pauschale Prüfung sämtlicher Altzusagen ist nicht eingeschlossen. Wir benötigen vor Vertragsabschluss die vollständigen Leistungsregeln, sämtliche bekannten Sonderzusagen, den Status der Anpassungsprüfungen und Informationen über laufende Streitigkeiten. Der uns bisher übergebene Detailauszug mit 48 Personen ersetzt den vollständigen Bestand nicht.",
+        "2 Finanzierung und Preis",
+        "Der vorläufige Einmalbeitrag beträgt 102,6 Mio. EUR. Er setzt den unveränderten Bestand, die bezeichneten Leistungsregeln und die vollständigen historischen Daten voraus. Verwaltungskosten sind im angebotenen Beitrag enthalten; zusätzliche rechtliche Transaktionskosten sind nicht eingeschlossen. Die in der Vergleichsdatei ausgewiesenen Einrichtungs- und Verwaltungsentgelte betragen 240.000 EUR einmalig und 0 EUR jährlich. Diese Zahlen sind Nettoplanungsbeträge; die umsatzsteuerliche Behandlung der jeweiligen Leistung ist vor endgültiger Rechnung festzulegen. Kapitalbereitstellung, Einmalentgelt und laufende Kosten sind im Angebotsvergleich getrennt auszuweisen.",
+        "2.1 Angebotsvoraussetzungen",
+        "Vorausgesetzt werden zutreffende Geburts- und Rentenbeginndaten, vollständige Hinterbliebeneninformationen und die unveränderten beschriebenen Leistungsregeln. Ungeklärte Personen oder fehlende Nachträge werden vor Bindung des Angebots gesondert bewertet. Eine bloße Änderung der Dateibezeichnung von „offen“ auf „bestätigt“ beseitigt keinen Datenvorbehalt.",
+        "3 Leistungsverwaltung",
+        "Die Zahlungsdatei wird monatlich mit dem freigegebenen Leistungsbestand abgeglichen. Neue Versorgungsfälle und Todesmeldungen werden mit Eingangsdatum und Belegen dokumentiert. Wir führen ein Änderungsprotokoll und stellen Berichte für Geschäftsführung und zuständige Kontrollstellen bereit. Ein abweichender Kontostand ist kein Grund, eine rechtlich geschuldete Rente ohne Freigabe neu festzusetzen.",
+        "3.1 Kommunikation",
+        "Ein Informationsschreiben an Berechtigte ist vor Versand mit dem Auftraggeber abzustimmen. Es benennt den tatsächlichen Ansprechpartner und den weiterhin maßgeblichen Schuldner. Wir verwenden nicht die Aussage „garantiert haftungsfrei“, solange die konkrete Struktur nicht fachlich geprüft und vollzogen ist. Rückfragen werden nach Datenberichtigung, Leistungsprüfung und rechtlicher Streitfrage unterschieden.",
+        "4 Vermögen und Stress",
+        "Die von Ihnen genannte Hafenimmobilie ist illiquide. Wir verlangen vor jeder Anrechnung einen aktuellen Titel- und Belastungsnachweis, eine nachvollziehbare Bewertung und Angaben zum Sanierungsbedarf. Eine jährliche Bruttomiete darf nicht ohne Kosten und Leerstandsrisiko als frei verfügbarer Nettozufluss geplant werden. In der Szenarioplanung sind Marktwertänderungen, zusätzliche Rentenzahlungen, Kosten und Liquiditätsreserven getrennt zu zeigen.",
+        "5 Umsetzung",
+        "Nach vollständigem Dateneingang planen wir zwölf Wochen für Prüfung, Testmigration und Freigabe. Der Beginn der Frist setzt einen geklärten Strukturweg voraus. Eine bereits im Projektkalender vorgesehene Übertragung am 1. April 2027 ist keine Zusage unsererseits. Vor dem produktiven Lauf werden zwei Zahlungsmonate parallel geprüft und sämtliche Differenzen schriftlich freigegeben.",
+        "6 Bindung",
+        "Dieses Angebot gilt bis zum 30. November 2026 unter den ausdrücklich genannten Daten- und Strukturvorbehalten. Eine Bindung an einen später geänderten Bestand ist damit nicht verbunden. Der vollständige Vertrag wird erst nach Abschluss der Prüfung unterzeichnet. Bitte bestätigen Sie zunächst, welche unserer angebotenen Leistungen Sie weiterverfolgen möchten.",
+        "Mit freundlichen Grüßen\nGeschäftsleitung Rentenfels Leben AG"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "10",
+      "path": "Grundakte/10_Angebot_Hafenruh.pdf",
+      "kind": "pdf",
+      "title": "Angebot Hafenruh – Erwerb einer zuvor ausgestatteten Versorgungsgesellschaft",
+      "date": "2026-10-20",
+      "sender": "Hafenruh Versorgungsmanagement GmbH, Werftallee 11, 20457 Hamburg",
+      "recipient": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Angebot Hafenruh – Erwerb einer zuvor ausgestatteten Versorgungsgesellschaft",
+      "body": [
+        "Sehr geehrte Frau Lindkamp,",
+        "wir danken für die Unterlagen zum Projekt ANKER. Unser Angebot bezieht sich auf 1.240 laufende Renten und 186 unverfallbare Anwartschaften nach dem übergebenen Bestandsstand. Die folgenden Konditionen sind ein individuelles Angebot unseres Hauses; sie enthalten keine Feststellung eines allgemeinen Marktpreises.",
+        "1 Gegenstand",
+        "Wir bieten nach vorgelagerter Strukturierung den Erwerb der Anteile an einer Versorgungsgesellschaft an. Die Gesellschaft selbst bleibt Trägerin der in ihr vorhandenen Verpflichtungen. Wir verlangen eine vollständige rechtliche und wirtschaftliche Prüfung der vorgelagerten Übertragung. Unser Anteilserwerb ist keine Erklärung, dass alle bisherigen Haftungspositionen anderer Gesellschaften erlöschen.",
+        "1.1 Abgrenzung der Leistungen",
+        "Ein gerichtliches Verfahren, eine individuelle steuerliche Beratung der Berechtigten oder eine pauschale Prüfung sämtlicher Altzusagen ist nicht eingeschlossen. Wir benötigen vor Vertragsabschluss die vollständigen Leistungsregeln, sämtliche bekannten Sonderzusagen, den Status der Anpassungsprüfungen und Informationen über laufende Streitigkeiten. Der uns bisher übergebene Detailauszug mit 48 Personen ersetzt den vollständigen Bestand nicht.",
+        "2 Finanzierung und Preis",
+        "Wir verlangen vor Anteilserwerb eine liquide beziehungsweise frei übertragbare Ausstattung von 94,5 Mio. EUR. Die Hafenimmobilie wird nur nach gesonderter Bewertung und Zustimmung angerechnet. Eine offene Finanzierungszusage der Holding rechnen wir nicht zum geforderten Anfangsvermögen. Zusätzlich fallen 350.000 EUR Einrichtung und 120.000 EUR jährliche Administration an. Die in der Vergleichsdatei ausgewiesenen Einrichtungs- und Verwaltungsentgelte betragen 350.000 EUR einmalig und 120.000 EUR jährlich. Diese Zahlen sind Nettoplanungsbeträge; die umsatzsteuerliche Behandlung der jeweiligen Leistung ist vor endgültiger Rechnung festzulegen. Kapitalbereitstellung, Einmalentgelt und laufende Kosten sind im Angebotsvergleich getrennt auszuweisen.",
+        "2.1 Angebotsvoraussetzungen",
+        "Vorausgesetzt werden zutreffende Geburts- und Rentenbeginndaten, vollständige Hinterbliebeneninformationen und die unveränderten beschriebenen Leistungsregeln. Ungeklärte Personen oder fehlende Nachträge werden vor Bindung des Angebots gesondert bewertet. Eine bloße Änderung der Dateibezeichnung von „offen“ auf „bestätigt“ beseitigt keinen Datenvorbehalt.",
+        "3 Leistungsverwaltung",
+        "Die Zahlungsdatei wird monatlich mit dem freigegebenen Leistungsbestand abgeglichen. Neue Versorgungsfälle und Todesmeldungen werden mit Eingangsdatum und Belegen dokumentiert. Wir führen ein Änderungsprotokoll und stellen Berichte für Geschäftsführung und zuständige Kontrollstellen bereit. Ein abweichender Kontostand ist kein Grund, eine rechtlich geschuldete Rente ohne Freigabe neu festzusetzen.",
+        "3.1 Kommunikation",
+        "Ein Informationsschreiben an Berechtigte ist vor Versand mit dem Auftraggeber abzustimmen. Es benennt den tatsächlichen Ansprechpartner und den weiterhin maßgeblichen Schuldner. Wir verwenden nicht die Aussage „garantiert haftungsfrei“, solange die konkrete Struktur nicht fachlich geprüft und vollzogen ist. Rückfragen werden nach Datenberichtigung, Leistungsprüfung und rechtlicher Streitfrage unterschieden.",
+        "4 Vermögen und Stress",
+        "Die von Ihnen genannte Hafenimmobilie ist illiquide. Wir verlangen vor jeder Anrechnung einen aktuellen Titel- und Belastungsnachweis, eine nachvollziehbare Bewertung und Angaben zum Sanierungsbedarf. Eine jährliche Bruttomiete darf nicht ohne Kosten und Leerstandsrisiko als frei verfügbarer Nettozufluss geplant werden. In der Szenarioplanung sind Marktwertänderungen, zusätzliche Rentenzahlungen, Kosten und Liquiditätsreserven getrennt zu zeigen.",
+        "5 Umsetzung",
+        "Nach vollständigem Dateneingang planen wir zwölf Wochen für Prüfung, Testmigration und Freigabe. Der Beginn der Frist setzt einen geklärten Strukturweg voraus. Eine bereits im Projektkalender vorgesehene Übertragung am 1. April 2027 ist keine Zusage unsererseits. Vor dem produktiven Lauf werden zwei Zahlungsmonate parallel geprüft und sämtliche Differenzen schriftlich freigegeben.",
+        "6 Bindung",
+        "Dieses Angebot gilt bis zum 30. November 2026 unter den ausdrücklich genannten Daten- und Strukturvorbehalten. Eine Bindung an einen später geänderten Bestand ist damit nicht verbunden. Der vollständige Vertrag wird erst nach Abschluss der Prüfung unterzeichnet. Bitte bestätigen Sie zunächst, welche unserer angebotenen Leistungen Sie weiterverfolgen möchten.",
+        "Mit freundlichen Grüßen\nGeschäftsleitung Hafenruh Versorgungsmanagement GmbH"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "11",
+      "path": "Grundakte/11_Immobilie_Wertnotiz.pdf",
+      "kind": "pdf",
+      "title": "Hafenhalle 4 – interne Wertannahme",
+      "date": "2026-09-30",
+      "sender": "Immobilienverwaltung Rheinhafen\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Treasury\nHafenallee 62\n47119 Duisburg",
+      "subject": "Hafenhalle 4 – interne Wertannahme",
+      "body": [
+        "1 Objekt",
+        "Die Hafenhalle 4 liegt am Kaiweg 18 in Duisburg, Flurstück 428 der projektinternen Objektliste. Sie wird an die Westkai Service GmbH vermietet. Die jährliche Nettokaltmiete beträgt 840.000 EUR. Der Mietvertrag läuft nach dem derzeitigen Verwaltungsstand bis Ende 2031. Betriebskosten, Instandhaltung und Finanzierung sind in dieser Miete nicht enthalten.",
+        "2 Wertansatz",
+        "Für die interne Projektplanung wurde ein Wert von 14 Mio. EUR angesetzt. Die Zahl beruht auf einer älteren Ertragsbetrachtung und wurde für den Septemberbericht unverändert übernommen. Sie ist weder ein aktuelles Verkehrswertgutachten noch eine Bestätigung eines kurzfristig realisierbaren Verkaufserlöses. Ein Angebot zum Kauf der Halle liegt nicht vor.",
+        "3 Noch ausstehende Unterlagen",
+        "Die aktuelle Belastungsauskunft, die Dachprüfung und ein Nachtrag zum Mietvertrag wurden angefordert. Die Finanzierungsabteilung soll bestätigen, ob aus einem Verkauf zunächst ein Darlehen abzulösen wäre. Bis dahin sollte der Wertansatz im Finanzierungsmodell als offen bezeichnet werden. Die Sachbearbeitung hat keine Freigabe zur Übertragung des Objekts erteilt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "12",
+      "path": "Grundakte/12_Mietvertrag_Hafenhalle.pdf",
+      "kind": "pdf",
+      "title": "Gewerbemietvertrag Hafenhalle 4",
+      "date": "2021-12-15",
+      "sender": "Rheinhafen Logistik GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Westkai Service GmbH, Kaiweg 18, 47119 Duisburg",
+      "subject": "Gewerbemietvertrag Hafenhalle 4",
+      "body": [
+        "1 Mietgegenstand",
+        "Die Vermieterin überlässt der Mieterin die Lagerhalle 4 mit 8.400 Quadratmetern Lagerfläche, den zugehörigen Büroflächen und der im Lageplan bezeichneten Rangierfläche am Kaiweg 18 in Duisburg. Die Nutzung ist auf Lagerung, Kommissionierung und zugehörige Verwaltung beschränkt. Gefährliche Stoffe dürfen nur nach vorheriger Zustimmung und Einhaltung der erforderlichen Voraussetzungen eingelagert werden.",
+        "2 Laufzeit",
+        "Das Mietverhältnis beginnt am 1. Januar 2022 und läuft bis zum 31. Dezember 2031. Eine Verlängerung bedarf schriftlicher Vereinbarung. Die vorzeitige Beendigung aus wichtigem Grund bleibt unberührt. Eine Veräußerung der Halle berechtigt die Mieterin nicht allein zur Einstellung der Mietzahlung.",
+        "3 Miete und Betriebskosten",
+        "Die monatliche Nettokaltmiete beträgt 70.000 EUR. Die Mieterin zahlt zusätzlich eine Betriebskostenvorauszahlung von 12.000 EUR monatlich; über die tatsächlich umlagefähigen Kosten wird jährlich abgerechnet. Die Nettokaltmiete ist bis zum dritten Bankarbeitstag des Monats zu überweisen. Umsatzsteuer wird nur nach den im konkreten Mietverhältnis geltenden Voraussetzungen zusätzlich berechnet. Eine Verrechnung mit streitigen Gegenforderungen erfolgt nur nach gesonderter Abstimmung oder auf tragfähiger rechtlicher Grundlage.",
+        "4 Instandhaltung",
+        "Die Vermieterin trägt die Instandhaltung der tragenden Konstruktion und des Dachs. Die Mieterin übernimmt die laufende Wartung ihrer eigenen technischen Einrichtungen und meldet erkennbare Gebäudemängel unverzüglich. Der Mieterin bekannte Feuchtigkeitsschäden werden fotografiert und dem Vermieter mit Ort und Datum übermittelt. Die bloße Entgegennahme einer Meldung ist keine Anerkennung einer bestimmten Schadenshöhe.",
+        "5 Baumaßnahmen",
+        "Notwendige Arbeiten werden so geplant, dass der Lagerbetrieb möglichst wenig beeinträchtigt wird. Bei erheblichen Einschränkungen stimmen die Parteien einen Ablaufplan ab. Rechte wegen tatsächlicher Gebrauchseinschränkungen bleiben gesondert zu prüfen. Die Vermieterin darf eine notwendige Dachreparatur nicht allein auf den Mieter abwälzen, weil das Objekt später übertragen werden soll.",
+        "6 Übergabe und Rückgabe",
+        "Der Zustand bei Übergabe wird im gemeinsamen Protokoll festgehalten. Bei Vertragsende gibt die Mieterin die Flächen geräumt zurück. Eigene Einbauten werden nach Vereinbarung entfernt oder übernommen. Offene Betriebskostenabrechnungen bleiben bestehen.",
+        "Unterzeichnet am 15. Dezember 2021: Judith Lindkamp für die Rheinhafen Logistik GmbH; Paula van Heek für die Westkai Service GmbH."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "13",
+      "path": "Grundakte/13_Rentnerbrief.pdf",
+      "kind": "pdf",
+      "title": "Nachfrage zur Meldung „Rentnergesellschaft“",
+      "date": "2026-10-21",
+      "sender": "Hans-Martin Rabe, Hafenblick 14, 47119 Duisburg",
+      "recipient": "Rheinhafen Personalservice\nHafenallee 62\n47119 Duisburg",
+      "subject": "Nachfrage zur Meldung „Rentnergesellschaft“",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "ich habe 38 Jahre im Hafen gearbeitet und erhalte seit 2015 eine Betriebsrente. Aus der Zeitung habe ich erfahren, dass der Betrieb verkauft werden soll. In einer Betriebsratsinformation steht nun das Wort Rentnergesellschaft. Bitte teilen Sie mir verständlich mit, wer künftig meine Rente schulden soll und ob sich die Anpassung oder die Zahlungstermine ändern.",
+        "Meine letzte Mitteilung nennt monatlich 1.460 EUR vor Abzügen. Eine Zustimmung zu einem Wechsel des Schuldners oder einen Verzicht habe ich nicht erklärt. Ich bitte auch um Erklärung, ob die Hafenhalle tatsächlich meine Rente sichern soll. Einen Grundstücksanteil habe ich nie erhalten und könnte damit auch keine laufenden Rechnungen bezahlen.",
+        "Mit freundlichen Grüßen\nHans-Martin Rabe"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "14",
+      "path": "Grundakte/14_HR_Antwortentwurf.docx",
+      "kind": "docx",
+      "title": "Antwortentwurf Personalservice – noch nicht freigegeben",
+      "date": "2026-10-22",
+      "sender": "Personalservice Rheinhafen\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Geschäftsleitung zur Freigabe\nHafenallee 62\n47119 Duisburg",
+      "subject": "Antwortentwurf Personalservice – noch nicht freigegeben",
+      "body": [
+        "Sehr geehrter Herr Rabe,",
+        "die Gesellschaft prüft gegenwärtig verschiedene Wege zur künftigen Organisation und Finanzierung der betrieblichen Altersversorgung. Eine endgültige Strukturentscheidung ist noch nicht getroffen. Ihre bisherigen Rentenzahlungen werden derzeit durch die Rheinhafen Logistik GmbH unverändert fortgeführt.",
+        "Wir haben Ihre Fragen zum Schuldner, zu Anpassungen und zur Finanzierung aufgenommen. Sobald eine konkrete, fachlich geprüfte Entscheidung vorliegt, werden wir Sie über die für Sie maßgeblichen tatsächlichen Änderungen informieren. Eine Zustimmung oder einen Verzicht erbitten wir mit diesem Schreiben nicht. Die Finanzierung über Vermögenswerte bedeutet nicht, dass Sie statt Ihrer Rente einen Grundstücksanteil erhalten sollen.",
+        "Bitte wenden Sie sich bis dahin mit Änderungen Ihrer Kontoverbindung oder Anschrift weiterhin an den Personalservice. Dieser Text ist intern zur Freigabe vorgelegt; Versand noch nicht erfolgt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "15",
+      "path": "Grundakte/15_CFO_Finanzierung.eml",
+      "kind": "eml",
+      "title": "84 Mio. Vermögen sind nicht 84 Mio. Liquidität",
+      "date": "2026-10-22",
+      "sender": "Judith Lindkamp <cfo@rheinhafen-logistik.example>",
+      "recipient": "Projekt ANKER <projekt@rheinhafen-logistik.example>",
+      "subject": "84 Mio. Vermögen sind nicht 84 Mio. Liquidität",
+      "body": [
+        "Bitte zeigt im Lenkungskreis die 8 Mio. EUR Bankliquidität getrennt von Wertpapieren und Immobilie. Die Halle wird nicht in zwölf gleichen Monatsraten verkauft. Aus der Jahresmiete sind Instandhaltung, Verwaltung und gegebenenfalls Finanzierung zu bedienen.",
+        "Der Rahmen von 15 Mio. EUR ist bisher nur ein Entwurf. Er darf nicht zur vorhandenen Ausstattung addiert werden, als läge das Geld schon auf dem Konto. Außerdem muss die Frage geklärt werden, welche Gesellschaft den Rahmen überhaupt abrufen könnte. Für die Variante „operativen Betrieb verkaufen und Pensionen in alter Gesellschaft lassen“ ist der Entwurf noch nicht angepasst.",
+        "Ich möchte eine einfache Zwölfmonatsrechnung mit Anfangsmitteln, tatsächlich fälligen Renten, Kosten, sicheren Zuflüssen und getrennten Stressannahmen. Ein positiver Barwert allein beantwortet meine Liquiditätsfrage nicht.",
+        "Die Zahlungsplanung enthält die Nettokaltmiete von 70.000 EUR monatlich als Zufluss vor Objektkosten und Finanzierung. Etwaige Umsatzsteuer wird in diesem Planungsblatt nicht als verfügbarer Ertrag angesetzt; Betriebskostenvorauszahlungen und zugehörige Ausgaben werden ebenfalls nicht als Nettomietüberschuss behandelt."
+      ],
+      "attachments": [],
+      "from_email": "cfo@rheinhafen-logistik.example",
+      "to_email": "projekt@rheinhafen-logistik.example"
+    },
+    {
+      "id": "16",
+      "path": "Grundakte/16_Anbieterfrage.eml",
+      "kind": "eml",
+      "title": "Bitte Angebote auf gleichen Bestand beziehen",
+      "date": "2026-10-23",
+      "sender": "Projekt ANKER <projekt@rheinhafen-logistik.example>",
+      "recipient": "Anbieterkoordination <angebote@anker-projekt.example>",
+      "subject": "Bitte Angebote auf gleichen Bestand beziehen",
+      "body": [
+        "Die drei Angebote unterscheiden sich erheblich im Gegenstand. Bitte bestätigt jeweils, ob lediglich Verwaltung, ein Versicherungsvertrag oder der Anteilserwerb an einer Versorgungsgesellschaft gemeint ist. Kapitalbedarf, Einrichtungskosten und laufende Entgelte sollen getrennt ausgewiesen werden.",
+        "Alle Vergleiche müssen denselben Bestand von 1.240 Rentnern und 186 ausgeschiedenen Anwärtern verwenden. Die Datei mit 48 Detailpersonen ist nur ein Ausschnitt zur Prüfung der Datenqualität. Bitte nennt, welche weiteren Unterlagen ihr für ein bindendes Angebot benötigt und welche Anpassungen oder Hinterbliebenenleistungen eure Annahmen enthalten.",
+        "Wir haben keine allgemeine rechtliche Enthaftung angefragt. Wenn ein Angebot einen bestimmten Übertragungsweg voraussetzt, ist dieser genau zu benennen."
+      ],
+      "attachments": [],
+      "from_email": "projekt@rheinhafen-logistik.example",
+      "to_email": "angebote@anker-projekt.example"
+    },
+    {
+      "id": "17",
+      "path": "Grundakte/17_Board_Protokoll.docx",
+      "kind": "docx",
+      "title": "Lenkungskreis ANKER – keine Freigabe zum Vollzug",
+      "date": "2026-10-24",
+      "sender": "Projektsekretariat\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Geschäftsführung und Holding\nHafenallee 62\n47119 Duisburg",
+      "subject": "Lenkungskreis ANKER – keine Freigabe zum Vollzug",
+      "body": [
+        "Die Geschäftsführung diskutiert die drei Angebote. Das Verwaltungsmodell Nordanker erscheint im jährlichen Entgelt günstiger, übernimmt jedoch keine Finanzierung. Rentenfels verlangt einen höheren Einmalbeitrag für den bezeichneten Versicherungsumfang. Hafenruh erwartet eine vorgelagerte Gesellschaftsstruktur und eine bestimmte Anfangsausstattung. Die Preise werden deshalb nicht als unmittelbar vergleichbare Gesamtkosten behandelt.",
+        "Die Geschäftsführung stellt fest, dass die 14 Mio. EUR Immobilienansatz noch keine aktuelle Bewertungsgrundlage besitzen. Der Finanzierungsrahmen der Holding ist nicht unterzeichnet. Der Bestandsauszug enthält nicht alle individuellen Zusagetexte. Eine Umsetzung wird deshalb noch nicht freigegeben.",
+        "Beschlossen wird die Einholung der Belastungsunterlagen, des Dachberichts und einer vollständigen Erläuterung der Anbieterbedingungen. Die Rentenzahlung bei der bestehenden Gesellschaft läuft unverändert weiter. Das Projektteam legt für den 3. Dezember eine Entscheidungsvorlage vor."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "18",
+      "path": "Grundakte/18_Verwaltung_Bestand.pdf",
+      "kind": "pdf",
+      "title": "Rentenverwaltung – Umfang und Datenqualität",
+      "date": "2026-10-23",
+      "sender": "Rheinhafen Personalservice\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Projekt ANKER\nHafenallee 62\n47119 Duisburg",
+      "subject": "Rentenverwaltung – Umfang und Datenqualität",
+      "body": [
+        "Der Gesamtbestand umfasst 1.240 laufende Renten, darunter 180 Hinterbliebenenrenten, sowie 186 unverfallbare Anwartschaften. Die monatliche Bruttorentensumme beträgt 620.000 EUR. Der Detailauszug enthält 48 ausgewählte Fälle und darf nicht mit dem Gesamtbestand gleichgesetzt werden.",
+        "Bei 17 ausgeschiedenen Anwärtern fehlt die originale Aufnahmebestätigung; die Verwaltung verfügt über Jahresinformationen und Zahlungsverläufe. Bei neun laufenden Renten ist eine besondere Anpassungsklausel aus einer Einzelzusage vermerkt. Diese Fälle sind noch nicht in die allgemeine Anbietertabelle eingeordnet. Die Verwaltung bittet um gesonderte Prüfung vor einer Garantieerklärung zur Vollständigkeit.",
+        "Es bestehen derzeit keine gerichtlichen Verfahren in dem übergebenen Projektbestand. Drei Auskunftsanfragen sind offen. Eine technische Null im Feld „Sonderklausel“ bedeutet im alten System „nicht erfasst“, nicht zwingend „nicht vorhanden“."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "19",
+      "path": "Grundakte/19_Anlagepolitik.pdf",
+      "kind": "pdf",
+      "title": "Vorläufige Anlagerichtlinie – Arbeitsstand Treasury",
+      "date": "2026-10-24",
+      "sender": "Rheinhafen Treasury\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Geschäftsführung\nHafenallee 62\n47119 Duisburg",
+      "subject": "Vorläufige Anlagerichtlinie – Arbeitsstand Treasury",
+      "body": [
+        "1 Liquidität",
+        "Es soll jederzeit eine Reserve für mindestens sechs Monate der planbaren Renten- und Verwaltungsausgaben verfügbar bleiben. Bei einer Unterschreitung berichtet Treasury am selben Arbeitstag an die Geschäftsführung. Die Reserveschwelle ist ein internes Steuerungsziel und keine rechtliche Aussage zur ausreichenden Gesamtausstattung.",
+        "2 Anlagegrenzen",
+        "Neue Anlagen sollen sich an erwarteten Zahlungsterminen orientieren. Aktienfonds, langfristige Anleihen und Immobilien sind mit ihren jeweiligen Markt- und Verwertungsrisiken zu erfassen. Die erwartete Rendite darf nicht als garantierter Zufluss verwendet werden.",
+        "3 Kontrolle",
+        "Marktwerte werden monatlich aktualisiert. Fälligkeiten, laufende Erträge und Veräußerungen werden getrennt ausgewiesen. Bei wesentlichen Abweichungen vom Finanzplan ist ein aktualisierter Zahlungsplan vorzulegen. Eine Änderung der Anlagerichtlinie darf keine eigenständige Kürzung von Versorgungsleistungen auslösen."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "20",
+      "path": "Grundakte/20_Dachtermin.eml",
+      "kind": "eml",
+      "title": "Hafenhalle – Besichtigung erst nächste Woche",
+      "date": "2026-10-25",
+      "sender": "Immobilienverwaltung <immobilien@rheinhafen-logistik.example>",
+      "recipient": "Treasury <treasury@rheinhafen-logistik.example>",
+      "subject": "Hafenhalle – Besichtigung erst nächste Woche",
+      "body": [
+        "Die Dachbesichtigung ist für den 29. Oktober bestätigt. Der Mieter hat seit August Feuchtigkeit in zwei Lagergassen gemeldet. Bisher wurde provisorisch abgedichtet. Die Rechnungen hierfür sind bezahlt, beantworten aber nicht, ob eine größere Sanierung notwendig ist.",
+        "Bitte verwendet die frühere Aussage „kein Instandhaltungsbedarf“ nicht weiter. Sie stammt aus dem Zustandsbericht 2021. Der Gutachter soll zunächst den Umfang beschreiben; ein verbindliches Sanierungsangebot ist nicht beauftragt. Eine mögliche Beeinträchtigung des Mietbetriebs muss anschließend mit dem Mieter besprochen werden."
+      ],
+      "attachments": [],
+      "from_email": "immobilien@rheinhafen-logistik.example",
+      "to_email": "treasury@rheinhafen-logistik.example"
+    },
+    {
+      "id": "21",
+      "path": "Grundakte/21_Projektchat.png",
+      "kind": "png",
+      "title": "Teams – Angebotspreise im Vergleich",
+      "date": "2026-10-25",
+      "sender": "Projekt ANKER\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Projektteam\nHafenallee 62\n47119 Duisburg",
+      "subject": "Teams – Angebotspreise im Vergleich",
+      "body": [
+        "10:04 | Einkauf – Nordanker kostet nur 98.000 pro Jahr, also viel günstiger?",
+        "10:06 | Treasury – Das ist nur Verwaltung. Die 84 Mio. Ausstattung bleiben unsere Aufgabe.",
+        "10:08 | HR – Bitte gleiche Leistungen vergleichen, auch Anpassungen und Hinterbliebene.",
+        "10:12 | M&A – Und Hafenruh kauft Anteile nach der Strukturierung, nicht automatisch jede Rentenschuld.",
+        "10:15 | Projektleitung – Vergleich wird in Umfang, Kapital, Kosten und Voraussetzungen getrennt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "22",
+      "path": "Fortsetzung/22_Dachbericht.pdf",
+      "kind": "pdf",
+      "title": "Hafenhalle 4 – Befund nach Ortsbesichtigung",
+      "date": "2026-10-30",
+      "sender": "Baukontor Ufer GmbH, Werftplatz 3, 47059 Duisburg",
+      "recipient": "Rheinhafen Immobilienverwaltung\nHafenallee 62\n47119 Duisburg",
+      "subject": "Hafenhalle 4 – Befund nach Ortsbesichtigung",
+      "body": [
+        "1 Besichtigung",
+        "Die Dachflächen wurden am 29. Oktober 2026 gemeinsam mit der Hausverwaltung und dem Mieter begangen. In zwei Bereichen bestehen Durchfeuchtungen der Dämmung. Die vorläufigen Abdichtungen verhindern nicht sämtliche Wassereintritte. Eine unmittelbare Räumung der gesamten Halle wurde bei der Besichtigung nicht angeordnet; die betroffenen Lagergassen sind jedoch besonders zu überwachen.",
+        "2 Maßnahmen",
+        "Empfohlen wird eine abschnittsweise Erneuerung der Abdichtung und beschädigter Dämmung. Nach grober Mengenermittlung beträgt der Kostenrahmen 2,2 bis 2,9 Mio. EUR netto. Für die Projektplanung soll vorläufig mit 2,5 Mio. EUR gerechnet werden. Dies ist eine Kostenschätzung und kein verbindliches Angebot eines ausführenden Unternehmens. Eine Ausschreibung und die Koordination mit dem Lagerbetrieb stehen aus.",
+        "3 Zeit und Nutzung",
+        "Die Arbeiten würden voraussichtlich vier bis sechs Monate dauern. Ob und in welchem Umfang die Nutzung eingeschränkt wird, hängt vom Bauablauf ab. Die vertraglichen Folgen im Mietverhältnis sind nicht Gegenstand dieses technischen Berichts. Vor einer Vermögensübertragung sollte der bekannte Instandhaltungsbedarf in die Bewertung aufgenommen werden.",
+        "Dipl.-Ing. Carsten Ufer, Baukontor Ufer GmbH."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "23",
+      "path": "Fortsetzung/23_Bank_Belastung.pdf",
+      "kind": "pdf",
+      "title": "Hafenhalle – Ablösebetrag und Sicherheitenfreigabe",
+      "date": "2026-11-02",
+      "sender": "Niederrhein Handelsbank AG, Uferstraße 32, 47051 Duisburg",
+      "recipient": "Rheinhafen Logistik GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Hafenhalle – Ablösebetrag und Sicherheitenfreigabe",
+      "body": [
+        "Sehr geehrte Frau Lindkamp,",
+        "zu Ihrer Anfrage bestätigen wir für das Objekt Hafenhalle 4 eine Darlehensrestschuld von 3.000.000 EUR zum 31. Oktober 2026. Die Forderung wird durch die im Sicherheitenvertrag bezeichnete Grundschuld gesichert. Ein Verkauf oder eine Übertragung des Grundstücks führt nicht ohne weitere Erklärung zur Freigabe unserer Sicherheit.",
+        "Für eine Freigabe benötigen wir den vorgesehenen Transaktionsweg und eine abgestimmte Ablösung oder Ersatzsicherung. Der hier genannte Betrag enthält keine Berechnung einer möglicherweise zusätzlich anfallenden Vorfälligkeitsentschädigung und keine Notar- oder Löschungskosten. Eine verbindliche Ablöseabrechnung erstellen wir zum konkreten Vollzugstermin.",
+        "Die frühere interne Vermögensliste mit 14 Mio. EUR Objektwert weist die Darlehensposition nicht aus. Diese Liste kann daher nicht als Bestätigung eines lastenfreien Nettovermögenswerts verwendet werden.",
+        "Niederrhein Handelsbank AG, Firmenkundenbetreuung."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "24",
+      "path": "Fortsetzung/24_Mieter_Schreiben.pdf",
+      "kind": "pdf",
+      "title": "Feuchtigkeitsschäden – Vorbehalt weiterer Mietrechte",
+      "date": "2026-11-03",
+      "sender": "Westkai Service GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Rheinhafen Logistik GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Feuchtigkeitsschäden – Vorbehalt weiterer Mietrechte",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "in Lagergasse 7 und 8 kommt es weiterhin zu Wassereintritten. Wir haben Waren verlagert und zusätzliche Abdeckungen verwendet. Bitte teilen Sie uns bis zum 13. November mit, wann eine nachhaltige Sanierung beginnt und welche Flächen währenddessen nicht nutzbar sein werden.",
+        "Wir behalten uns die Prüfung mietvertraglicher Rechte wegen der Einschränkungen vor. Eine konkrete Minderungsquote haben wir bislang nicht erklärt. Die bisher gezahlte Monatsmiete ist daher kein Beleg dafür, dass alle künftigen Mieten unverändert und ohne Gegenansprüche eingehen werden. Für einen abgestimmten Bauablauf stehen wir zur Verfügung.",
+        "Eine Übertragung des Objekts auf eine andere Gesellschaft ändert nichts daran, dass wir einen klaren Ansprechpartner für die Mängelbeseitigung benötigen. Bitte nehmen Sie uns in die Terminplanung auf.",
+        "Paula van Heek, Geschäftsführerin."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "25",
+      "path": "Fortsetzung/25_Hafenruh_Nachtrag.eml",
+      "kind": "eml",
+      "title": "Immobilie wird vorerst nicht als Anfangsausstattung anerkannt",
+      "date": "2026-11-05",
+      "sender": "Hafenruh <angebote@hafenruh.example>",
+      "recipient": "Projekt ANKER <projekt@rheinhafen-logistik.example>",
+      "subject": "Immobilie wird vorerst nicht als Anfangsausstattung anerkannt",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "nach Durchsicht des Dachberichts und der Bankmitteilung rechnen wir die Hafenhalle derzeit nicht mit 14 Mio. EUR in die geforderte Anfangsausstattung ein. Bitte liefern Sie einen aktualisierten Nettoansatz einschließlich Finanzierung, Sanierung und Verwertungskosten. Bis dahin erwarten wir liquide Ersatzmittel oder eine neu zu verhandelnde Struktur.",
+        "Unser Angebot über 94,5 Mio. EUR Mindestanfangsausstattung ist keine Zusage, einen nicht werthaltig geprüften Sachwert zum früheren Buch- oder Planwert zu übernehmen. Auch die angekündigte Holding-Unterstützung ist bislang nicht unterzeichnet und ersetzt nach unserem Angebot keine Anfangsausstattung.",
+        "Bitte berücksichtigen Sie diese Punkte in der Entscheidungsvorlage. Eine Bindung an den bisher angesetzten 14-Mio.-Wert besteht nicht. Das übrige Angebot bleibt unter seinen Daten- und Strukturvorbehalten bestehen."
+      ],
+      "attachments": [
+        "Fortsetzung/22_Dachbericht.pdf",
+        "Fortsetzung/23_Bank_Belastung.pdf"
+      ],
+      "from_email": "angebote@hafenruh.example",
+      "to_email": "projekt@rheinhafen-logistik.example"
+    },
+    {
+      "id": "28",
+      "path": "Grundakte/28_Detailbestand_48.csv",
+      "kind": "csv",
+      "title": "Ausgewählter Detailbestand – keine vollständige Rentnerliste",
+      "date": "2026-10-20",
+      "sender": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Projektteam\nHafenallee 62\n47119 Duisburg",
+      "subject": "Ausgewählter Detailbestand – keine vollständige Rentnerliste",
+      "body": [
+        "Person;Status;Geburtsjahr;Rentenbeginn;Monatsrente_EUR;Zusagestand\r\nA-0001;Altersrente;1939;2004-07-01;357.5;\"1994; individuelle Belege prüfen\"\r\nA-0002;Altersrente;1940;2005-07-01;375.0;\"1994; individuelle Belege prüfen\"\r\nA-0003;Altersrente;1941;2006-07-01;392.5;\"1994; individuelle Belege prüfen\"\r\nA-0004;Altersrente;1942;2007-07-01;410.0;\"1994; individuelle Belege prüfen\"\r\nA-0005;Altersrente;1943;2008-07-01;427.5;\"1994; individuelle Belege prüfen\"\r\nA-0006;Altersrente;1944;2009-07-01;445.0;\"1994; individuelle Belege prüfen\"\r\nA-0007;Altersrente;1945;2010-07-01;462.5;\"1994; individuelle Belege prüfen\"\r\nA-0008;Altersrente;1946;2011-07-01;480.0;\"1994; individuelle Belege prüfen\"\r\nA-0009;Altersrente;1947;2012-07-01;497.5;\"1994; individuelle Belege prüfen\"\r\nA-0010;Altersrente;1948;2013-07-01;515.0;\"1994; individuelle Belege prüfen\"\r\nA-0011;Altersrente;1949;2014-07-01;532.5;\"1994; individuelle Belege prüfen\"\r\nA-0012;Altersrente;1950;2015-07-01;550.0;\"1994; individuelle Belege prüfen\"\r\nA-0013;Altersrente;1938;2003-07-01;567.5;\"1994; individuelle Belege prüfen\"\r\nA-0014;Altersrente;1939;2004-07-01;585.0;\"1994; individuelle Belege prüfen\"\r\nA-0015;Altersrente;1940;2005-07-01;602.5;\"1994; individuelle Belege prüfen\"\r\nA-0016;Altersrente;1941;2006-07-01;620.0;\"1994; individuelle Belege prüfen\"\r\nA-0017;Altersrente;1942;2007-07-01;637.5;\"1994; individuelle Belege prüfen\"\r\nA-0018;Altersrente;1943;2008-07-01;655.0;\"1994; individuelle Belege prüfen\"\r\nA-0019;Altersrente;1944;2009-07-01;672.5;\"1994; individuelle Belege prüfen\"\r\nA-0020;Altersrente;1945;2010-07-01;690.0;\"1994; individuelle Belege prüfen\"\r\nA-0021;Altersrente;1946;2011-07-01;707.5;\"1994; individuelle Belege prüfen\"\r\nA-0022;Altersrente;1947;2012-07-01;725.0;\"1994; individuelle Belege prüfen\"\r\nA-0023;Altersrente;1948;2013-07-01;742.5;\"1994; individuelle Belege prüfen\"\r\nA-0024;Altersrente;1949;2014-07-01;760.0;\"1994; individuelle Belege prüfen\"\r\nA-0025;Altersrente;1950;2015-07-01;777.5;\"1994; individuelle Belege prüfen\"\r\nA-0026;Altersrente;1938;2003-07-01;795.0;\"1994; individuelle Belege prüfen\"\r\nA-0027;Altersrente;1939;2004-07-01;812.5;\"1994; individuelle Belege prüfen\"\r\nA-0028;Altersrente;1940;2005-07-01;830.0;\"1994; individuelle Belege prüfen\"\r\nA-0029;Altersrente;1941;2006-07-01;847.5;\"1994; individuelle Belege prüfen\"\r\nA-0030;Altersrente;1942;2007-07-01;865.0;\"1994; individuelle Belege prüfen\"\r\nA-0031;Altersrente;1943;2008-07-01;882.5;\"1994; individuelle Belege prüfen\"\r\nA-0032;Altersrente;1944;2009-07-01;900.0;\"1994; individuelle Belege prüfen\"\r\nA-0033;Altersrente;1945;2010-07-01;917.5;\"1994; individuelle Belege prüfen\"\r\nA-0034;Altersrente;1946;2011-07-01;935.0;\"1994; individuelle Belege prüfen\"\r\nA-0035;Altersrente;1947;2012-07-01;952.5;\"1994; individuelle Belege prüfen\"\r\nA-0036;Altersrente;1948;2013-07-01;970.0;\"1994; individuelle Belege prüfen\"\r\nA-0037;Hinterbliebenenrente;1954;2015-07-01;987.5;\"1994; individuelle Belege prüfen\"\r\nA-0038;Hinterbliebenenrente;1955;2015-07-01;1005.0;\"1994; individuelle Belege prüfen\"\r\nA-0039;Hinterbliebenenrente;1956;2015-07-01;1022.5;\"1994; individuelle Belege prüfen\"\r\nA-0040;Hinterbliebenenrente;1957;2015-07-01;1040.0;\"1994; individuelle Belege prüfen\"\r\nA-0041;Hinterbliebenenrente;1958;2015-07-01;1057.5;\"1994; individuelle Belege prüfen\"\r\nA-0042;Hinterbliebenenrente;1959;2015-07-01;1075.0;\"1994; individuelle Belege prüfen\"\r\nA-0043;Anwartschaft;1962;;0;\"1994; individuelle Belege prüfen\"\r\nA-0044;Anwartschaft;1963;;0;\"1994; individuelle Belege prüfen\"\r\nA-0045;Anwartschaft;1964;;0;\"1994; individuelle Belege prüfen\"\r\nA-0046;Anwartschaft;1965;;0;\"1994; individuelle Belege prüfen\"\r\nA-0047;Anwartschaft;1966;;0;\"1994; individuelle Belege prüfen\"\r\nA-0048;Anwartschaft;1967;;0;\"1994; individuelle Belege prüfen\"\r\n"
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Person",
+          "Status",
+          "Geburtsjahr",
+          "Rentenbeginn",
+          "Monatsrente_EUR",
+          "Zusagestand"
+        ],
+        "rows": [
+          [
+            "A-0001",
+            "Altersrente",
+            1939,
+            "2004-07-01",
+            357.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0002",
+            "Altersrente",
+            1940,
+            "2005-07-01",
+            375.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0003",
+            "Altersrente",
+            1941,
+            "2006-07-01",
+            392.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0004",
+            "Altersrente",
+            1942,
+            "2007-07-01",
+            410.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0005",
+            "Altersrente",
+            1943,
+            "2008-07-01",
+            427.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0006",
+            "Altersrente",
+            1944,
+            "2009-07-01",
+            445.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0007",
+            "Altersrente",
+            1945,
+            "2010-07-01",
+            462.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0008",
+            "Altersrente",
+            1946,
+            "2011-07-01",
+            480.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0009",
+            "Altersrente",
+            1947,
+            "2012-07-01",
+            497.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0010",
+            "Altersrente",
+            1948,
+            "2013-07-01",
+            515.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0011",
+            "Altersrente",
+            1949,
+            "2014-07-01",
+            532.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0012",
+            "Altersrente",
+            1950,
+            "2015-07-01",
+            550.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0013",
+            "Altersrente",
+            1938,
+            "2003-07-01",
+            567.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0014",
+            "Altersrente",
+            1939,
+            "2004-07-01",
+            585.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0015",
+            "Altersrente",
+            1940,
+            "2005-07-01",
+            602.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0016",
+            "Altersrente",
+            1941,
+            "2006-07-01",
+            620.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0017",
+            "Altersrente",
+            1942,
+            "2007-07-01",
+            637.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0018",
+            "Altersrente",
+            1943,
+            "2008-07-01",
+            655.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0019",
+            "Altersrente",
+            1944,
+            "2009-07-01",
+            672.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0020",
+            "Altersrente",
+            1945,
+            "2010-07-01",
+            690.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0021",
+            "Altersrente",
+            1946,
+            "2011-07-01",
+            707.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0022",
+            "Altersrente",
+            1947,
+            "2012-07-01",
+            725.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0023",
+            "Altersrente",
+            1948,
+            "2013-07-01",
+            742.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0024",
+            "Altersrente",
+            1949,
+            "2014-07-01",
+            760.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0025",
+            "Altersrente",
+            1950,
+            "2015-07-01",
+            777.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0026",
+            "Altersrente",
+            1938,
+            "2003-07-01",
+            795.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0027",
+            "Altersrente",
+            1939,
+            "2004-07-01",
+            812.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0028",
+            "Altersrente",
+            1940,
+            "2005-07-01",
+            830.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0029",
+            "Altersrente",
+            1941,
+            "2006-07-01",
+            847.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0030",
+            "Altersrente",
+            1942,
+            "2007-07-01",
+            865.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0031",
+            "Altersrente",
+            1943,
+            "2008-07-01",
+            882.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0032",
+            "Altersrente",
+            1944,
+            "2009-07-01",
+            900.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0033",
+            "Altersrente",
+            1945,
+            "2010-07-01",
+            917.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0034",
+            "Altersrente",
+            1946,
+            "2011-07-01",
+            935.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0035",
+            "Altersrente",
+            1947,
+            "2012-07-01",
+            952.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0036",
+            "Altersrente",
+            1948,
+            "2013-07-01",
+            970.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0037",
+            "Hinterbliebenenrente",
+            1954,
+            "2015-07-01",
+            987.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0038",
+            "Hinterbliebenenrente",
+            1955,
+            "2015-07-01",
+            1005.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0039",
+            "Hinterbliebenenrente",
+            1956,
+            "2015-07-01",
+            1022.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0040",
+            "Hinterbliebenenrente",
+            1957,
+            "2015-07-01",
+            1040.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0041",
+            "Hinterbliebenenrente",
+            1958,
+            "2015-07-01",
+            1057.5,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0042",
+            "Hinterbliebenenrente",
+            1959,
+            "2015-07-01",
+            1075.0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0043",
+            "Anwartschaft",
+            1962,
+            "",
+            0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0044",
+            "Anwartschaft",
+            1963,
+            "",
+            0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0045",
+            "Anwartschaft",
+            1964,
+            "",
+            0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0046",
+            "Anwartschaft",
+            1965,
+            "",
+            0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0047",
+            "Anwartschaft",
+            1966,
+            "",
+            0,
+            "1994; individuelle Belege prüfen"
+          ],
+          [
+            "A-0048",
+            "Anwartschaft",
+            1967,
+            "",
+            0,
+            "1994; individuelle Belege prüfen"
+          ]
+        ]
+      },
+      "raw": "Person;Status;Geburtsjahr;Rentenbeginn;Monatsrente_EUR;Zusagestand\r\nA-0001;Altersrente;1939;2004-07-01;357.5;\"1994; individuelle Belege prüfen\"\r\nA-0002;Altersrente;1940;2005-07-01;375.0;\"1994; individuelle Belege prüfen\"\r\nA-0003;Altersrente;1941;2006-07-01;392.5;\"1994; individuelle Belege prüfen\"\r\nA-0004;Altersrente;1942;2007-07-01;410.0;\"1994; individuelle Belege prüfen\"\r\nA-0005;Altersrente;1943;2008-07-01;427.5;\"1994; individuelle Belege prüfen\"\r\nA-0006;Altersrente;1944;2009-07-01;445.0;\"1994; individuelle Belege prüfen\"\r\nA-0007;Altersrente;1945;2010-07-01;462.5;\"1994; individuelle Belege prüfen\"\r\nA-0008;Altersrente;1946;2011-07-01;480.0;\"1994; individuelle Belege prüfen\"\r\nA-0009;Altersrente;1947;2012-07-01;497.5;\"1994; individuelle Belege prüfen\"\r\nA-0010;Altersrente;1948;2013-07-01;515.0;\"1994; individuelle Belege prüfen\"\r\nA-0011;Altersrente;1949;2014-07-01;532.5;\"1994; individuelle Belege prüfen\"\r\nA-0012;Altersrente;1950;2015-07-01;550.0;\"1994; individuelle Belege prüfen\"\r\nA-0013;Altersrente;1938;2003-07-01;567.5;\"1994; individuelle Belege prüfen\"\r\nA-0014;Altersrente;1939;2004-07-01;585.0;\"1994; individuelle Belege prüfen\"\r\nA-0015;Altersrente;1940;2005-07-01;602.5;\"1994; individuelle Belege prüfen\"\r\nA-0016;Altersrente;1941;2006-07-01;620.0;\"1994; individuelle Belege prüfen\"\r\nA-0017;Altersrente;1942;2007-07-01;637.5;\"1994; individuelle Belege prüfen\"\r\nA-0018;Altersrente;1943;2008-07-01;655.0;\"1994; individuelle Belege prüfen\"\r\nA-0019;Altersrente;1944;2009-07-01;672.5;\"1994; individuelle Belege prüfen\"\r\nA-0020;Altersrente;1945;2010-07-01;690.0;\"1994; individuelle Belege prüfen\"\r\nA-0021;Altersrente;1946;2011-07-01;707.5;\"1994; individuelle Belege prüfen\"\r\nA-0022;Altersrente;1947;2012-07-01;725.0;\"1994; individuelle Belege prüfen\"\r\nA-0023;Altersrente;1948;2013-07-01;742.5;\"1994; individuelle Belege prüfen\"\r\nA-0024;Altersrente;1949;2014-07-01;760.0;\"1994; individuelle Belege prüfen\"\r\nA-0025;Altersrente;1950;2015-07-01;777.5;\"1994; individuelle Belege prüfen\"\r\nA-0026;Altersrente;1938;2003-07-01;795.0;\"1994; individuelle Belege prüfen\"\r\nA-0027;Altersrente;1939;2004-07-01;812.5;\"1994; individuelle Belege prüfen\"\r\nA-0028;Altersrente;1940;2005-07-01;830.0;\"1994; individuelle Belege prüfen\"\r\nA-0029;Altersrente;1941;2006-07-01;847.5;\"1994; individuelle Belege prüfen\"\r\nA-0030;Altersrente;1942;2007-07-01;865.0;\"1994; individuelle Belege prüfen\"\r\nA-0031;Altersrente;1943;2008-07-01;882.5;\"1994; individuelle Belege prüfen\"\r\nA-0032;Altersrente;1944;2009-07-01;900.0;\"1994; individuelle Belege prüfen\"\r\nA-0033;Altersrente;1945;2010-07-01;917.5;\"1994; individuelle Belege prüfen\"\r\nA-0034;Altersrente;1946;2011-07-01;935.0;\"1994; individuelle Belege prüfen\"\r\nA-0035;Altersrente;1947;2012-07-01;952.5;\"1994; individuelle Belege prüfen\"\r\nA-0036;Altersrente;1948;2013-07-01;970.0;\"1994; individuelle Belege prüfen\"\r\nA-0037;Hinterbliebenenrente;1954;2015-07-01;987.5;\"1994; individuelle Belege prüfen\"\r\nA-0038;Hinterbliebenenrente;1955;2015-07-01;1005.0;\"1994; individuelle Belege prüfen\"\r\nA-0039;Hinterbliebenenrente;1956;2015-07-01;1022.5;\"1994; individuelle Belege prüfen\"\r\nA-0040;Hinterbliebenenrente;1957;2015-07-01;1040.0;\"1994; individuelle Belege prüfen\"\r\nA-0041;Hinterbliebenenrente;1958;2015-07-01;1057.5;\"1994; individuelle Belege prüfen\"\r\nA-0042;Hinterbliebenenrente;1959;2015-07-01;1075.0;\"1994; individuelle Belege prüfen\"\r\nA-0043;Anwartschaft;1962;;0;\"1994; individuelle Belege prüfen\"\r\nA-0044;Anwartschaft;1963;;0;\"1994; individuelle Belege prüfen\"\r\nA-0045;Anwartschaft;1964;;0;\"1994; individuelle Belege prüfen\"\r\nA-0046;Anwartschaft;1965;;0;\"1994; individuelle Belege prüfen\"\r\nA-0047;Anwartschaft;1966;;0;\"1994; individuelle Belege prüfen\"\r\nA-0048;Anwartschaft;1967;;0;\"1994; individuelle Belege prüfen\"\r\n"
+    },
+    {
+      "id": "29",
+      "path": "Grundakte/29_Zahlungslauf_September.csv",
+      "kind": "csv",
+      "title": "Bankfreigabe Rentenzahlung September",
+      "date": "2026-10-20",
+      "sender": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Projektteam\nHafenallee 62\n47119 Duisburg",
+      "subject": "Bankfreigabe Rentenzahlung September",
+      "body": [
+        "Lauf;Datum;Empfaengeranzahl;Brutto_EUR;Status\r\nRH-2026-09;2026-09-30;1240;620000;ausgeführt\r\nRH-2026-10;2026-10-30;1240;620000;\"Vorbereitung; noch nicht ausgeführt\""
+      ],
+      "attachments": [],
+      "csv": {
+        "columns": [
+          "Lauf",
+          "Datum",
+          "Empfaengeranzahl",
+          "Brutto_EUR",
+          "Status"
+        ],
+        "rows": [
+          [
+            "RH-2026-09",
+            "2026-09-30",
+            1240,
+            620000,
+            "ausgeführt"
+          ],
+          [
+            "RH-2026-10",
+            "2026-10-30",
+            1240,
+            620000,
+            "Vorbereitung; noch nicht ausgeführt"
+          ]
+        ]
+      },
+      "raw": "Lauf;Datum;Empfaengeranzahl;Brutto_EUR;Status\r\nRH-2026-09;2026-09-30;1240;620000;ausgeführt\r\nRH-2026-10;2026-10-30;1240;620000;\"Vorbereitung; noch nicht ausgeführt\"\r\n"
+    },
+    {
+      "id": "32",
+      "path": "Grundakte/32_Datenraum_Ansicht.png",
+      "kind": "png",
+      "title": "Datenraum ANKER – offene Bestandteile",
+      "date": "2026-10-25",
+      "sender": "Projektsekretariat\nHafenallee 62\n47119 Duisburg",
+      "recipient": "Projektteam\nHafenallee 62\n47119 Duisburg",
+      "subject": "Datenraum ANKER – offene Bestandteile",
+      "body": [
+        "Bestand 1.426 Personen – Gesamtzählung vorhanden",
+        "48 Detailfälle – ausgewählte Stichprobe",
+        "17 Aufnahmebestätigungen – Suche offen",
+        "Hafenhalle – Dachprüfung am 29.10.",
+        "Holdingrahmen – nicht unterschrieben",
+        "Drei Angebote – verschiedene Leistungsmodelle"
+      ],
+      "attachments": []
+    },
+    {
+      "id": "33",
+      "path": "Grundakte/33_Verguetung.pdf",
+      "kind": "pdf",
+      "title": "Vergütungsvereinbarung Projekt ANKER",
+      "date": "2026-10-15",
+      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "recipient": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Vergütungsvereinbarung Projekt ANKER",
+      "body": [
+        "Die Parteien vereinbaren für die außergerichtliche Sichtungs- und Strukturierungsphase eine Vergütung nach Zeitaufwand. Partnerstunden werden mit 420 EUR netto, anwaltliche Mitarbeit mit 290 EUR netto berechnet. Zeiteinheiten betragen sechs Minuten entsprechend tatsächlichem Aufwand. Umsatzsteuer wird zusätzlich in gesetzlicher Höhe ausgewiesen.",
+        "Das Planungsbudget beträgt 95.000 EUR netto. Vor absehbarer Überschreitung um mehr als zehn Prozent informiert die Kanzlei die Mandantin und stimmt weitere nicht eilbedürftige Arbeiten ab. Monatliche Rechnungen enthalten Bearbeiter, Datum, Tätigkeit und Dauer. Allgemeine Bürokosten sind enthalten. Externe Bewertungen und Transaktionskosten werden nur nach eigener Freigabe beauftragt.",
+        "Ein Kostenerstattungsanspruch gegen Dritte deckt regelmäßig höchstens die gesetzlich erstattungsfähige Vergütung. Die vereinbarte Vergütung kann darüber hinausgehen und insoweit von der Mandantin selbst zu tragen sein. Rechnungen sind binnen 21 Kalendertagen nach Zugang fällig. Ein gerichtlicher Vertretungsauftrag ist nicht eingeschlossen.",
+        "Unterzeichnet am 15. Oktober 2026: Judith Lindkamp für die Holding und Dr. Nora Treuenfels für die Kanzlei."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "34",
+      "path": "Grundakte/34_Bankkonto_Bestaetigung.pdf",
+      "kind": "pdf",
+      "title": "Treuhandfreie Bankliquidität – Saldenmitteilung",
+      "date": "2026-09-30",
+      "sender": "Niederrhein Handelsbank AG, Uferstraße 32, 47051 Duisburg",
+      "recipient": "Rheinhafen Logistik GmbH\nHafenallee 62\n47119 Duisburg",
+      "subject": "Treuhandfreie Bankliquidität – Saldenmitteilung",
+      "body": [
+        "Sehr geehrte Damen und Herren,",
+        "für das in Ihrer Projektplanung bezeichnete Geschäftskonto bestätigen wir zum 30. September einen Habensaldo von 8.000.000 EUR. Die Bestätigung bezieht sich ausschließlich auf diesen Kontostand. Sie bestätigt weder den Wert der Depotanlagen noch die ausreichende Ausstattung einer künftigen Versorgungsgesellschaft.",
+        "Über eine Übertragung des Kontos auf eine andere juristische Person wurde noch keine Vereinbarung geschlossen. Hierfür benötigen wir die konkrete Struktur, Vertretungsnachweise und erforderliche Kontoeröffnungsunterlagen. Die Verfügbarkeit des Guthabens ist von den sonstigen Vertrags- und Sicherheitenverhältnissen zu unterscheiden.",
+        "Die mit der Hafenhalle verbundene Darlehensverbindlichkeit wird gesondert geführt. Bitte rechnen Sie einen Immobilienwert nicht ohne Prüfung der dazugehörigen Finanzierung als lastenfreies Vermögen hinzu. Eine konkrete Ablöseabrechnung wird auf Anforderung zum gewünschten Stichtag erstellt."
+      ],
+      "attachments": []
+    },
+    {
+      "id": "35",
+      "path": "Fortsetzung/35_Weitere_Aufklaerung.eml",
+      "kind": "eml",
+      "title": "Vor Entscheidung: neun Sonderklauseln und Anpassungskosten",
+      "date": "2026-11-06",
+      "sender": "Personalservice <pensionen@rheinhafen-logistik.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "subject": "Vor Entscheidung: neun Sonderklauseln und Anpassungskosten",
+      "body": [
+        "Sehr geehrte Frau Dr. Treuenfels,",
+        "wir haben bei den neun im Register vermerkten Sonderfällen weitere Jahresinformationen gefunden. Die zugrunde liegenden individuellen Vertragsseiten sind noch nicht vollständig digitalisiert. Bitte behandeln Sie deshalb die allgemeine Rentensteigerung von 3 Prozent im Stressblatt nicht als abschließende Abbildung aller rechtlichen Anpassungspflichten.",
+        "Die Anbieter haben bislang den Standardbestand bewertet. Wir bitten darum, die offenen Sonderzusagen als konkrete Bedingung für die nächste Angebotsrunde aufzunehmen. Für die Geschäftsführungssitzung benötigen wir eine verständliche Erläuterung, welche Entscheidung auf Grundlage der vorhandenen Unterlagen schon möglich ist und welche erst nach Nachlieferung getroffen werden kann.",
+        "Die reguläre Rentenzahlung ist sichergestellt. Eine neue Leistungsfestsetzung oder Kündigung des Verwaltungsbestands wurde nicht veranlasst."
+      ],
+      "attachments": [],
+      "from_email": "pensionen@rheinhafen-logistik.example",
+      "to_email": "mail@monki-treuenfels.example"
+    }
+  ],
+  "workbooks": [
+    {
+      "id": "26",
+      "path": "Grundakte/26_Finanzierung_und_Stress.xlsx",
+      "title": "Finanzierung und zwölfmonatige Zahlungsplanung",
+      "sheets": [
+        {
+          "name": "Ausstattung",
+          "columns": [
+            "Vermoegen",
+            "Ursprungsansatz_EUR",
+            "Korrektur_EUR",
+            "Rechenansatz_EUR"
+          ],
+          "rows": [
+            [
+              "Bank",
+              8000000,
+              0,
+              "=B6-C6"
+            ],
+            [
+              "Anleihen",
+              50000000,
+              0,
+              "=B7-C7"
+            ],
+            [
+              "Aktienfonds",
+              12000000,
+              0,
+              "=B8-C8"
+            ],
+            [
+              "Hafenhalle",
+              14000000,
+              0,
+              "=B9-C9"
+            ],
+            [
+              "Gesamt",
+              "=SUM(B6:B9)",
+              "=SUM(C6:C9)",
+              "=SUM(D6:D9)"
+            ]
+          ],
+          "formats": {
+            "Ursprungsansatz_EUR": "currency",
+            "Korrektur_EUR": "currency",
+            "Rechenansatz_EUR": "currency"
+          }
+        },
+        {
+          "name": "Liquiditaet",
+          "columns": [
+            "Monat",
+            "Anfang_EUR",
+            "Nettokaltmiete_vor_Objektkosten_EUR",
+            "Renten_EUR",
+            "Verwaltung_EUR",
+            "Objektkosten_EUR",
+            "Ende_EUR"
+          ],
+          "rows": [
+            [
+              "2027-01",
+              8000000,
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B6+C6-D6-E6-F6"
+            ],
+            [
+              "2027-02",
+              "=G6",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B7+C7-D7-E7-F7"
+            ],
+            [
+              "2027-03",
+              "=G7",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B8+C8-D8-E8-F8"
+            ],
+            [
+              "2027-04",
+              "=G8",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B9+C9-D9-E9-F9"
+            ],
+            [
+              "2027-05",
+              "=G9",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B10+C10-D10-E10-F10"
+            ],
+            [
+              "2027-06",
+              "=G10",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B11+C11-D11-E11-F11"
+            ],
+            [
+              "2027-07",
+              "=G11",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B12+C12-D12-E12-F12"
+            ],
+            [
+              "2027-08",
+              "=G12",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B13+C13-D13-E13-F13"
+            ],
+            [
+              "2027-09",
+              "=G13",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B14+C14-D14-E14-F14"
+            ],
+            [
+              "2027-10",
+              "=G14",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B15+C15-D15-E15-F15"
+            ],
+            [
+              "2027-11",
+              "=G15",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B16+C16-D16-E16-F16"
+            ],
+            [
+              "2027-12",
+              "=G16",
+              70000,
+              620000,
+              8166.67,
+              20000,
+              "=B17+C17-D17-E17-F17"
+            ]
+          ],
+          "formats": {
+            "Anfang_EUR": "currency",
+            "Renten_EUR": "currency",
+            "Verwaltung_EUR": "currency",
+            "Objektkosten_EUR": "currency",
+            "Ende_EUR": "currency",
+            "Nettokaltmiete_vor_Objektkosten_EUR": "currency"
+          }
+        },
+        {
+          "name": "Stressparameter",
+          "columns": [
+            "Parameter",
+            "Annahme",
+            "Abgrenzung"
+          ],
+          "rows": [
+            [
+              "Aktienmarkt",
+              -0.25,
+              "Wertänderung; keine automatische Zahlung"
+            ],
+            [
+              "Anleihenmarkt",
+              -0.08,
+              "Wertänderung; keine automatische Zahlung"
+            ],
+            [
+              "Rentenanstieg",
+              0.03,
+              "Planstress; keine Rechtsentscheidung"
+            ],
+            [
+              "Mietausfall",
+              3,
+              "Monate; Szenario keine bereits erklärte Minderung"
+            ],
+            [
+              "Holdingrahmen",
+              15000000,
+              "Entwurf; kein sicherer Zufluss"
+            ]
+          ]
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Ausstattung",
+          "cell": "D10",
+          "expected": 84000000
+        },
+        {
+          "sheet": "Liquiditaet",
+          "cell": "G17",
+          "expected": 1061999.96
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "path": "Grundakte/27_Angebotsvergleich.xlsx",
+      "title": "Drei individuelle Angebote – unterschiedliche Leistungsumfänge",
+      "sheets": [
+        {
+          "name": "Angebote",
+          "columns": [
+            "Anbieter",
+            "Gegenstand",
+            "Kapitalansatz_EUR",
+            "Einrichtung_EUR",
+            "Jaehrlich_EUR",
+            "Bisheriger_Schuldner"
+          ],
+          "rows": [
+            [
+              "Nordanker",
+              "Verwaltung im bestehenden Schuldnerunternehmen",
+              84000000,
+              180000,
+              98000,
+              "keine automatische Freistellung"
+            ],
+            [
+              "Rentenfels",
+              "Rückdeckungsversicherung des bezeichneten Bestands",
+              102600000,
+              240000,
+              0,
+              "keine automatische Freistellung"
+            ],
+            [
+              "Hafenruh",
+              "Erwerb einer zuvor ausgestatteten Versorgungsgesellschaft",
+              94500000,
+              350000,
+              120000,
+              "keine automatische Freistellung"
+            ]
+          ],
+          "formats": {
+            "Kapitalansatz_EUR": "currency",
+            "Einrichtung_EUR": "currency",
+            "Jaehrlich_EUR": "currency"
+          }
+        },
+        {
+          "name": "Bestand",
+          "columns": [
+            "Status",
+            "Personen",
+            "Monatsrente_EUR",
+            "Planungswert_EUR"
+          ],
+          "rows": [
+            [
+              "Alters- und Invaliditätsrenten",
+              1060,
+              560000,
+              71600000
+            ],
+            [
+              "Hinterbliebene",
+              180,
+              60000,
+              6800000
+            ],
+            [
+              "Unverfallbar ausgeschieden",
+              186,
+              0,
+              8000000
+            ],
+            [
+              "Gesamt",
+              "=SUM(B6:B8)",
+              "=SUM(C6:C8)",
+              "=SUM(D6:D8)"
+            ]
+          ],
+          "formats": {
+            "Monatsrente_EUR": "currency",
+            "Planungswert_EUR": "currency"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Bestand",
+          "cell": "B9",
+          "expected": 1426
+        },
+        {
+          "sheet": "Bestand",
+          "cell": "C9",
+          "expected": 620000
+        },
+        {
+          "sheet": "Bestand",
+          "cell": "D9",
+          "expected": 86400000
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "path": "Fortsetzung/30_Immobilie_Nachlieferung.xlsx",
+      "title": "Immobilienansatz nach neuen Unterlagen",
+      "sheets": [
+        {
+          "name": "Nettoansatz",
+          "columns": [
+            "Position",
+            "EUR",
+            "Beleg"
+          ],
+          "rows": [
+            [
+              "Alter Ansatz",
+              14000000,
+              "interne Wertnotiz"
+            ],
+            [
+              "Darlehensablösung",
+              -3000000,
+              "Bankmitteilung02.11."
+            ],
+            [
+              "Sanierung Planung",
+              -2500000,
+              "Dachbericht30.10."
+            ],
+            [
+              "Zwischensumme",
+              "=SUM(B6:B8)",
+              "ohne Verkaufskosten; kein Verkehrswert"
+            ],
+            [
+              "Liquiditaet",
+              0,
+              "Kein Verkauf und kein freier Geldzufluss erfolgt"
+            ]
+          ],
+          "formats": {
+            "EUR": "currency"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "sheet": "Nettoansatz",
+          "cell": "B9",
+          "expected": 8500000
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "id": "31",
+      "path": "Grundakte/31_Lenkungskreis.pptx",
+      "title": "ANKER – Rentnergesellschaft verstehen",
+      "slides": [
+        {
+          "title": "Zwei Strukturwege",
+          "bullets": [
+            "Verpflichtungen ausgliedern",
+            "Operatives Geschäft verkaufen, Pensionen verbleiben",
+            "Gleicher Projektname bedeutet unterschiedliche Rechtsfragen"
+          ]
+        },
+        {
+          "title": "Drei Angebote",
+          "bullets": [
+            "Nordanker: Verwaltung",
+            "Rentenfels: Versicherung",
+            "Hafenruh: Erwerb ausgestatteter Gesellschaft"
+          ]
+        },
+        {
+          "title": "Finanzierung getrennt zeigen",
+          "bullets": [
+            "84 Mio. EUR bisheriger Vermögensansatz",
+            "8 Mio. EUR davon unmittelbar liquide",
+            "15 Mio. EUR Holdingrahmen noch Entwurf"
+          ]
+        },
+        {
+          "title": "Entscheidung vorbereiten",
+          "bullets": [
+            "Immobilie prüfen, Bestand vervollständigen",
+            "Stress und Fälligkeiten rechnen",
+            "Keine automatische Enthaftung versprechen"
+          ]
+        }
+      ]
+    }
+  ],
+  "controls": {
+    "pensioners": 1240,
+    "deferred": 186,
+    "population_total": 1426,
+    "selected_persons": 48,
+    "monthly_pensions_eur": 620000,
+    "annual_pensions_eur": 7440000,
+    "plan_obligation_eur": 86400000,
+    "initial_assets_eur": 84000000,
+    "cash_eur": 8000000,
+    "property_old_eur": 14000000,
+    "property_debt_eur": 3000000,
+    "property_repair_eur": 2500000,
+    "property_arithmetic_net_eur": 8500000,
+    "holding_frame_uncommitted_eur": 15000000,
+    "chronology": "Grundakte bis25.10.2026; Fortsetzung ab30.10.2026."
+  }
+}

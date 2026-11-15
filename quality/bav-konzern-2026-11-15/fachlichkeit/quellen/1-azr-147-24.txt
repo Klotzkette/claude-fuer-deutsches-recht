@@ -1,0 +1,1866 @@
+ 
+ 
+
+ 
+   
+   
+   
+
+   
+
+	 1 AZR 147/24 - Das Bundesarbeitsgericht 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/","url":"https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/","name":"1 AZR 147/24 - Das Bundesarbeitsgericht","isPartOf":{"@id":"https://www.bundesarbeitsgericht.de/#website"},"datePublished":"2026-01-26T23:00:00+00:00","dateModified":"2026-01-26T23:00:00+00:00","breadcrumb":{"@id":"https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/#breadcrumb"},"inLanguage":"de","potentialAction":[{"@type":"ReadAction","target":["https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/"]}]},{"@type":"BreadcrumbList","@id":"https://www.bundesarbeitsgericht.de/entscheidung/1-azr-147-24/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Start","item":"https://www.bundesarbeitsgericht.de/"},{"@type":"ListItem","position":2,"name":"Entscheidungen","item":"https://www.bundesarbeitsgericht.de/entscheidungen/"},{"@type":"ListItem","position":3,"name":"1 AZR 147/24"}]},{"@type":"WebSite","@id":"https://www.bundesarbeitsgericht.de/#website","url":"https://www.bundesarbeitsgericht.de/","name":"Das Bundesarbeitsgericht","description":"Der oberste Gerichtshof für das Gebiet der Arbeitsgerichtsbarkeit","publisher":{"@id":"https://www.bundesarbeitsgericht.de/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.bundesarbeitsgericht.de/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"de"},{"@type":"Organization","@id":"https://www.bundesarbeitsgericht.de/#organization","name":"The Federal Labour Court","url":"https://www.bundesarbeitsgericht.de/","logo":{"@type":"ImageObject","inLanguage":"de","@id":"https://www.bundesarbeitsgericht.de/#/schema/logo/image/","url":"https://www.bundesarbeitsgericht.de/wp-content/uploads/2019/09/logo-wide.svg","contentUrl":"https://www.bundesarbeitsgericht.de/wp-content/uploads/2019/09/logo-wide.svg","width":632,"height":146,"caption":"The Federal Labour Court"},"image":{"@id":"https://www.bundesarbeitsgericht.de/#/schema/logo/image/"}}]} 
+
+
+ 
+ 
+ 
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+ 
+ 
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+ 
+
+ 
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content .moove-gdpr-branding-cnt a,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,
+				#moove_gdpr_cookie_modal .cookie-switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .cookie-switch .slider:after, 
+				#moove_gdpr_cookie_modal .switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .switch .slider:after,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p a,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h1, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h2, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h3, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h4, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h5, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h6,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-modal-title .tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-branding-cnt a {
+				 	font-weight: inherit				}
+			#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:inherit}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#702338;border-color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#702338;border:1px solid #702338}#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #702338;-moz-box-shadow:0 0 1px 3px #702338;box-shadow:0 0 1px 3px #702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g{color:#702338}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
+/*# sourceURL=moove_gdpr_frontend-inline-css */
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ .broken_link, a.broken_link {
+	text-decoration: line-through;
+}  
+ 
+ 
+ 
+ /* Füge hier Dein eigenes CSS ein */
+span.wpcf7-list-item {display: block;}   
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+
+
+       
+   
+   
+   
+   
+   
+   
+   
+   
+       
+  
+
+   
+    @font-face {
+      font-family: "Hind Guntur";
+      src:
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-light.woff2') format("woff2"),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-light.woff') format('woff');
+      font-display: fallback;
+      font-weight: 300;
+    }
+
+    @font-face {
+      font-family: "Hind Guntur";
+      src:
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-regular.woff2') format("woff2"),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-regular.woff') format('woff');
+      font-display: fallback;
+      font-weight: 400;
+    }
+
+    @font-face {
+      font-family: "Hind Guntur";
+      src:
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-semibold.woff2') format("woff2"),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-semibold.woff') format('woff');
+      font-display: fallback;
+      font-weight: 600;
+    }
+
+    @font-face {
+      font-family: "Hind Guntur";
+      src:
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-bold.woff2') format("woff2"),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-bold.woff') format('woff');
+      font-display: fallback;
+      font-weight: 700;
+    }
+
+    @font-face {
+      font-family: 'bag';
+      src:
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/bag/bag.ttf?l6hxhm') format('truetype'),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/bag/bag.woff?l6hxhm') format('woff'),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/bag/bag.svg?l6hxhm#bag') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: 'simple-line-icons';
+      src:
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/simple-line-icons/simple-line-icons.ttf?l6hxhm') format('truetype'),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/simple-line-icons/simple-line-icons.woff?l6hxhm') format('woff'),
+        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/simple-line-icons/simple-line-icons.woff2?l6hxhm') format('woff2');
+      font-weight: normal;
+      font-style: normal;
+    }
+   
+
+   
+     
+      .slider__dots,
+      .slider--button {
+        display: none;
+      }
+     
+   
+ 
+
+ 
+   
+    
+   
+     
+       Zum Hauptmenü 
+     
+     
+       Zum Hauptmenü 
+     
+     
+       Zum Informationsmenü 
+     
+     
+       Zum Inhalt 
+     
+     
+       Suchen 
+     
+     
+       Suchen 
+     
+     
+       Zur Fußzeile 
+     
+   
+  
+   
+     
+      Informationsmenü   
+     
+     
+        
+     
+     
+       
+         
+           
+             
+                
+               Suche 
+             
+           
+         
+       
+               
+           
+                           
+                 
+                                     Kontakt 
+                 
+               
+                           
+                 
+                                     Elektronischer Rechtsverkehr und elektronische Gerichtsakte 
+                 
+               
+                           
+                 
+                                        Leichte Sprache 
+                 
+               
+                           
+                 
+                                        Gebärdensprache 
+                 
+               
+                       
+         
+                Datenschutz  
+         
+         
+       
+       
+        DE 
+       
+     
+       
+       
+        EN 
+       
+     
+          
+       
+                 
+           
+             
+                                
+                             Hoher Kontrast 
+             
+           
+         
+       
+     
+   
+
+ 
+ 
+   
+     
+       
+                   
+               
+       
+         Menu 
+         
+            
+            
+            
+            
+         
+       
+     
+   
+   
+   
+           
+                   
+
+             
+              Start             
+
+            
+           
+                   
+
+             
+              Aktuelles und Veranstaltungen             
+
+                           
+                  
+               
+               
+               
+                 
+                                   
+                                           
+                         Aktuelles 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Veranstaltungen 
+                       
+                    
+                     
+                                           
+                                                   
+                             
+                              Jahrespressegespräch des Bundesarbeitsgerichts                             
+                           
+                                                   
+                             
+                              Instanzen im Dialog                             
+                           
+                                                   
+                             
+                              Europarechtliches Symposion                             
+                           
+                                                   
+                             
+                              Moot Court Wettbewerb                             
+                           
+                                                   
+                             
+                              Amtseinführung 28.06.2022                             
+                           
+                                                   
+                             
+                              Wanderausstellung                             
+                           
+                                               
+                                         
+                   
+                                   
+                                           
+                         Sitzungstage 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Sitzungsergebnisse 
+                       
+                    
+                     
+                                         
+                   
+                                 
+               
+               
+            
+           
+                   
+
+             
+              Das Bundesarbeitsgericht             
+
+                           
+                  
+               
+               
+               
+                 
+                                   
+                                           
+                         Organisation 
+                       
+                    
+                     
+                                           
+                                                   
+                             
+                              Die Präsidentin                             
+                           
+                                                   
+                             
+                              Der Vizepräsident                             
+                           
+                                                   
+                             
+                              Die Senate                             
+                           
+                                                   
+                             
+                              Die Richterinnen und Richter                             
+                           
+                                                   
+                             
+                              Die wissenschaftlichen Mitarbeiter                             
+                           
+                                                   
+                             
+                              Die Geschäftsstelle                             
+                           
+                                                   
+                             
+                              Die Bibliothek                             
+                           
+                                                   
+                             
+                              Die Dokumentationsstelle                             
+                           
+                                                   
+                             
+                              Die Verwaltungsabteilung                             
+                           
+                                                   
+                             
+                              Internationale Zusammenarbeit                             
+                           
+                                                   
+                             
+                              Organigramm                             
+                           
+                                               
+                                         
+                   
+                                   
+                                           
+                         Die Arbeitsgerichtsbarkeit 
+                       
+                    
+                     
+                                           
+                                                   
+                             
+                              Aufgaben des Bundesarbeitsgerichts                             
+                           
+                                                   
+                             
+                              Zuständigkeit                             
+                           
+                                                   
+                             
+                              Aufbau der Arbeitsgerichtsbarkeit                             
+                           
+                                                   
+                             
+                              Ablauf des arbeitsgerichtlichen Verfahrens                             
+                           
+                                               
+                                         
+                   
+                                   
+                                           
+                         Geschäftsverteilung 
+                       
+                    
+                     
+                                           
+                                                   
+                             
+                              Kurzfassung                             
+                           
+                                                   
+                             
+                              Geschäftsverteilungsplan                             
+                           
+                                                   
+                             
+                              Geschäftsordnung                             
+                           
+                                                   
+                             
+                              Organigramm                             
+                           
+                                               
+                                         
+                   
+                                   
+                                           
+                         Gebäude 
+                       
+                    
+                     
+                                         
+                   
+                                 
+               
+               
+            
+           
+                   
+
+             
+              Entscheidungen             
+
+            
+           
+                   
+
+             
+              Ihr Besuch bei uns             
+
+                           
+                  
+               
+               
+               
+                 
+                                   
+                                           
+                         Aktuelle Hinweise 
+                       
+                    
+                     
+                                           
+                                                   
+                             
+                              So finden Sie uns                             
+                           
+                                               
+                                         
+                   
+                                   
+                                           
+                         Die Bibliothek 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Sitzungstage 
+                       
+                    
+                     
+                                         
+                   
+                                 
+               
+               
+            
+           
+                   
+
+             
+              Presse             
+
+                           
+                  
+               
+               
+               
+                 
+                                   
+                                           
+                         Pressestelle 
+                       
+                    
+                     
+                                           
+                                                   
+                             
+                              Jahresberichte                             
+                           
+                                                   
+                             
+                              Pressefotos                             
+                           
+                                               
+                                         
+                   
+                                   
+                                           
+                         Pressemitteilungen 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Sitzungstage 
+                       
+                    
+                     
+                                         
+                   
+                                 
+               
+               
+            
+           
+                   
+
+             
+              Service             
+
+                           
+                  
+               
+               
+               
+                 
+                                   
+                                           
+                         Kontakt 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Stellenangebote 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Ausschreibungen 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Pressefotos 
+                       
+                    
+                     
+                                         
+                   
+                                   
+                                           
+                         Pressemitteilungen 
+                       
+                    
+                     
+                                         
+                   
+                                 
+               
+               
+            
+           
+                 
+           
+             Suche    
+           
+         
+       
+       
+  
+ 
+  var upcomingEvents = [1794873600,1794960000,1795046400,1796169600,1796860800,1797292800,1797379200,1800403200,1800921600,1801008000,1801094400,1801699200,1802822400,1803340800,1803427200,1803513600,1804118400,1805328000,1807660800,1807747200,1808352000,1808784000,1811289600,1814313600];
+  var terminePage = 'https://www.bundesarbeitsgericht.de/aktuelles-und-veranstaltungen/sitzungstage/';
+    
+   
+   
+     
+   
+   
+   
+        Start        Entscheidungen       1 AZR 147/24      
+    
+     
+       
+             
+     1 AZR 147/24      Betriebsvereinbarung - fehlender Betriebsratsbeschluss 
+   
+         
+                       
+              PDF herunterladen   
+             
+                                       
+                   
+           Parallele Entscheidungen: 
+           
+                           
+                 
+                  1 AZR 148/24                 
+               
+                           
+                 
+                  1 AZR 149/24                 
+               
+                           
+                 
+                  1 AZR 150/24                 
+               
+                       
+               
+       
+        
+ 
+   
+     
+       Details 
+        
+     
+     
+       
+         Aktenzeichen 
+         1 AZR 147/24 
+       
+               
+           ECLI 
+           ECLI:DE:BAG:2026:270126.U.1AZR147.24.0 
+         
+             
+         Art 
+         Urteil 
+       
+       
+         Datum 
+         27.01.2026 
+       
+       
+         Senat 
+         1. Senat 
+       
+     
+
+   
+        
+     
+   
+    
+     
+       
+         Tenor 
+ 
+ 
+ 
+ 
+ 1. Die Revision der Beklagten gegen das Urteil des Landesarbeitsgerichts Düsseldorf vom 5. Juni 2024 – 12 Sa 506/23 – wird zurückgewiesen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. Die Beklagte hat die Kosten der Revision zu tragen. 
+ 
+ 
+ 
+ 
+ Leitsatz 
+ 
+ Die Gerichte müssen die Normen von Betriebsvereinbarungen nach § 293 ZPO von Amts wegen ermitteln. Die Amtsermittlungspflicht kann sich – abhängig vom Vortrag der Parteien – auch auf deren Wirksamkeit erstrecken. 
+ 
+ Tatbestand 
+ 
+ 
+  1  
+ 
+ Die Parteien streiten – zuletzt noch im Rahmen einer Feststellungsklage – über die Verpflichtung der Beklagten, dem Kläger eine höhere Betriebsrente zu zahlen. 
+ 
+ 
+ 
+  2  
+ 
+ Der 1960 geborene Kläger war seit 1980 bei der B AG beschäftigt. Ab dem 1. Mai 1980 waren ihm aufgrund einer Gesamtzusage Leistungen der betrieblichen Altersversorgung über die B Pensionskasse VVaG (Pensionskasse) zugesagt worden. Das Arbeitsverhältnis des Klägers ging in der Folgezeit im Weg eines Betriebsübergangs auf die D GmbH über, die die betriebliche Altersversorgung des Klägers fortführte. 
+ 
+ 
+ 
+  3  
+ 
+ Im November 2005 schlossen die D GmbH, deren Betriebsrat und die IGBCE – mit Zustimmung des Arbeitgeberverbands – mit der A Corporation, Japan, für den Fall des Erwerbs ua. eine „Überleitungsvereinbarung zu den Betriebsvereinbarungen vom 11.11.2005“. Nach deren Nr. 5 „Betriebliche Altersversorgung“ gingen die Betriebsparteien davon aus, dass mit der beabsichtigten Neuordnung bei gleichbleibendem Beitragsniveau eine Senkung des Versorgungsniveaus einhergehen würde. Dazu sollten im Januar 2006 Verhandlungen aufgenommen werden. 
+ 
+ 
+ 
+  4  
+ 
+ Zum 1. Januar 2006 ging das Arbeitsverhältnis des Klägers im Weg eines weiteren Betriebsübergangs auf die Beklagte über. Da ihr eine dauerhafte Fortführung der Mitgliedschaft in der Pensionskasse nicht möglich war, verhandelte sie mit dem bei ihr gebildeten Betriebsrat über eine künftige Änderung des Durchführungswegs und der Versorgungsbedingungen. 
+ 
+ 
+ 
+  5  
+ 
+ Am 17. April 2007 fand eine Sitzung des im Betrieb gebildeten Betriebsrats statt. Ausweislich der Sitzungsniederschrift wurde unter dem Tagesordnungspunkt 7 „Neuordnung der betrieblichen Altersversorgung Beschlussfassung“ der Beschluss gefasst, das von der Beklagten vorgestellte „Konzept in der vorliegenden Fassung zu genehmigen“. Im Protokoll einer weiteren Betriebsratssitzung vom 19. Juni 2007 heißt es zu dem – in der Ladung vorgesehenen – Tagesordnungspunkt 6 „Beschlussfassung Betriebsvereinbarung BAV“, die vorliegende Fassung der neuen Betriebsvereinbarung zur betrieblichen Altersversorgung sei „noch verbesserungsbedürftig“. Am 20. Juni 2007 teilte ein Vertreter der Beklagten, Herr R, in einer E-Mail an den Betriebsratsvorsitzenden ua. mit, die Arbeitgeberin wolle den Änderungswünschen des Betriebsrats zu der von ihr vorgelegten Fassung der Betriebsvereinbarung nur teilweise nachkommen. Zu einem nicht näher festgestellten Zeitpunkt danach unterzeichnete der damalige Betriebsratsvorsitzende, Herr K, eine auf den 13. Juni 2007 datierte „Betriebsvereinbarung zur betrieblichen Altersversorgung“ (BV 06/2007). Dort war ua. vorgesehen, dass die betriebliche Altersversorgung der Arbeitnehmer ab dem 1. März 2007 nach Maßgabe eines in der Anlage enthaltenen Leistungsplans über die G Unterstützungskasse e. V. (Unterstützungskasse) erfolgen sollte. 
+ 
+ 
+ 
+  6  
+ 
+ Die Beklagte meldete den Kläger mit Wirkung zum 28. Februar 2007 bei der Pensionskasse ab und führte bis zur Beendigung seines Arbeitsverhältnisses am 31. März 2022 die betriebliche Altersversorgung über die Unterstützungskasse durch. Die Beklagte, die ihren Produktionsbetrieb eingestellt hat, befindet sich inzwischen in Liquidation. 
+ 
+ 
+ 
+  7  
+ 
+ Aufgrund seiner Mitgliedschaft bei der Pensionskasse steht dem Kläger für die Zeit vom 1. Mai 1980 bis zum 28. Februar 2007 eine Anwartschaft auf eine betriebliche Altersversorgung iHv. monatlich 487,23 Euro zu. Mit Schreiben vom 23. Juni 2022 und 2. März 2023 erhielt er die Mitteilung, dass sich seine unverfallbare Anwartschaft auf Zahlung einer Altersrente durch die Unterstützungskasse ab Vollendung des 65. Lebensjahres für die Zeit vom 1. März 2007 bis zum 31. März 2022 auf monatlich 175,01 Euro belaufe. 
+ 
+ 
+ 
+  8  
+ 
+ Der Kläger hat die Auffassung vertreten, die Beklagte habe für die Erfüllung der ihm ursprünglich zugesagten Leistungen der betrieblichen Altersversorgung für die Zeit vom 1. März 2007 bis zum 31. März 2022 einzustehen. Die Zusage einer Versorgung über die Pensionskasse sei durch die BV 06/2007 nicht wirksam abgelöst worden. Der damalige Betriebsratsvorsitzende habe die Betriebsvereinbarung nicht wirksam unterzeichnet, weil das Gremium zu keinem Zeitpunkt einen entsprechenden Beschluss gefasst habe. 
+ 
+ 
+ 
+  9  
+ 
+ Der Kläger hat – soweit für die Revision noch von Belang – im Rahmen der Anschlussberufung zuletzt sinngemäß beantragt 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ festzustellen, dass die Beklagte verpflichtet ist, an ihn nach Vollendung seines 66. Lebensjahres und vier Monaten ab dem 1. Januar 2027 eine monatliche lebenslange Altersrente iHv. 421,98 Euro brutto zu zahlen. 
+ 
+ 
+ 
+ 
+  10  
+ 
+ Die Beklagte hat beantragt, die Anschlussberufung zurückzuweisen. Sie hat gemeint, die ursprüngliche Versorgungszusage sei durch die BV 06/2007 wirksam abgelöst worden. Der Betriebsrat habe bereits in seiner Sitzung vom 17. April 2007 den Beschluss gefasst, die Betriebsvereinbarung abzuschließen. Das ergebe sich auch daraus, dass es ein nicht unterzeichnetes Schreiben vom 25. April 2007 mit der Überschrift „BR-News“ gegeben habe, in dem den Arbeitnehmern mitgeteilt worden sei, „die Neuordnung der betrieblichen Altersvorsorge … [sei] in trockenen Tüchern“. Sollte der Beschluss nicht bereits im April gefasst worden sein, sei dies spätestens in der Sitzung am 19. Juni 2007 erfolgt. Der Betriebsratsvorsitzende sei danach offensichtlich befugt gewesen, die Betriebsvereinbarung nach Klärung der „verbesserungsbedürftigen“ Punkte mit der Arbeitgeberin zu unterschreiben. Zumindest habe der Betriebsrat den Abschluss in seiner Sitzung am 18. Dezember 2007 genehmigt. Dort habe er die Betriebsvereinbarung zur „Betrieblichen Grundrente, Zusatzrente“ einstimmig beschlossen. Für den Fall, dass durch das Gremium kein Beschluss gefasst worden wäre, hätte der Betriebsratsvorsitzende mit Anscheins- oder Duldungsvollmacht gehandelt. Da die BV 06/2007 etwa 15 Jahre lang vollzogen worden sei, sei sie jedenfalls aus Vertrauensschutzgesichtspunkten – wenigstens für die Vergangenheit – als wirksam zu behandeln. 
+ 
+ 
+ 
+  11  
+ 
+ Das Landesarbeitsgericht hat dem Feststellungsantrag – nach Durchführung einer Beweisaufnahme – in dem noch streitgegenständlichen Umfang stattgegeben. Mit ihrer Revision verfolgt die Beklagte ihr vollständiges Abweisungsbegehren weiter. 
+ 
+ 
+ 
+ Entscheidungsgründe 
+ 
+ 
+  12  
+ 
+ Die Revision der Beklagten ist unbegründet. Das Landesarbeitsgericht hat der zulässigen Anschlussberufung des Klägers, soweit sie Gegenstand der Revision ist, zu Recht stattgegeben. 
+ 
+ 
+ 
+  13  
+ 
+ A. Die Anschlussberufung des Klägers war zulässig. 
+ 
+ 
+ 
+  14  
+ 
+ I. Nach § 524 Abs. 2 Satz 2 ZPO ist eine Anschlussberufung bis zum Ablauf der dem Berufungsbeklagten gesetzten Frist zur Berufungserwiderung zulässig. Im arbeitsgerichtlichen Verfahren ist § 524 Abs. 2 Satz 2 ZPO nach § 64 Abs. 6 Satz 1 ArbGG entsprechend anwendbar. Für die Berufungsbeantwortung gilt anstelle der „gesetzten“ die durch § 66 Abs. 1 Satz 3 ArbGG bestimmte gesetzliche Frist. Im Fall des § 66 Abs. 1 Satz 5 ArbGG ist der Ablauf der verlängerten Frist maßgeblich  (BAG 10. November 2021 – 10 AZR 256/20 – Rn. 17 mwN; 25. März 2021 – 8 AZR 120/20 – Rn. 52) . 
+ 
+ 
+ 
+  15  
+ 
+ II. Danach hat der Kläger den Feststellungsantrag am 2. November 2023 rechtzeitig iSv. § 524 Abs. 2 Satz 2 ZPO innerhalb der bis zum 3. November 2023 verlängerten Berufungsbeantwortungsfrist schriftsätzlich angekündigt. 
+ 
+ 
+ 
+  16  
+ 
+ B. Der Feststellungsantrag ist – nach gebotener rechtsschutzgewährender Auslegung  (vgl. dazu BAG 28. Juli 2020 – 1 ABR 41/18 – Rn. 11 mwN, BAGE 171, 340) –  zulässig. 
+ 
+ 
+ 
+  17  
+ 
+ I. Ausgehend vom Wortlaut des Antrags begehrt der Kläger zwar die Feststellung, dass die Beklagte verpflichtet ist, ihm ab dem 1. Januar 2027 – und damit ab Erreichen der Regelaltersgrenze in der gesetzlichen Rentenversicherung – eine Betriebsrente „iHv. 421,98 Euro brutto zu zahlen“. Wie seine Begründung erkennen lässt, möchte er aber lediglich festgestellt wissen, dass die Beklagte für die – der Höhe nach inzwischen unstreitige – Zahlung einer um monatlich 421,98 Euro höheren Betriebsrente einzustehen hat. Diese Betriebsrente erhielte er aus seiner Sicht nach der Satzung und den Allgemeinen Versicherungsbedingungen der Pensionskasse, wenn er auch in der Zeit vom 1. März 2007 bis zur Beendigung seines Arbeitsverhältnisses am 31. März 2022 weiterhin bei dieser angemeldet gewesen wäre. Der Kläger hat ausdrücklich darauf hingewiesen, dass die Unterstützungskasse ihm für die Zeit vom 1. März 2007 bis zum 31. März 2022 voraussichtlich nur eine monatliche Altersrente iHv. 175,01 Euro zahle, sodass er von der Beklagten den Ausgleich der monatlichen Differenz verlangen könne. Dies zeigt, dass sein Antrag – abweichend von seiner sprachlichen Fassung – auf die Feststellung gerichtet ist, die Beklagte habe ihm aufgrund ihrer Einstandspflicht ab Eintritt des Versorgungsfalls „Alter“ Leistungen in dem Umfang zu gewähren, dass er – unter Berücksichtigung einer ggf. von der Unterstützungskasse gezahlten Altersrente – eine um monatlich 421,98 Euro höhere Betriebsrente erhält. 
+ 
+ 
+ 
+  18  
+ 
+ II. Mit diesem Verständnis ist der Antrag hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO. Für die Beklagte ist erkennbar, was von ihr verlangt wird. Dass der Kläger die konkrete Höhe einer künftigen Einstandspflicht der Beklagten nicht beziffern kann, steht dem nicht entgegen. Etwaige ihm bei Eintritt des Versorgungsfalls von der Beklagten zu gewährende Leistungen sind ohne Weiteres berechenbar. 
+ 
+ 
+ 
+  19  
+ 
+ III. Die Voraussetzungen des § 256 Abs. 1 ZPO sind gegeben. 
+ 
+ 
+ 
+  20  
+ 
+ 1. Der Kläger erstrebt die Feststellung eines Rechtsverhältnisses iSv. § 256 Abs. 1 ZPO. Ein solches wird bereits mit dem Entstehen einer Versorgungsanwartschaft begründet  (vgl. BAG 23. Februar 2021 – 3 AZR 618/19 – Rn. 24,   BAGE 174, 116  ; 22. September 2020 – 3 AZR 433/19 – Rn. 17 mwN) . Eine Feststellungsklage muss sich zudem nicht notwendig auf ein Rechtsverhältnis insgesamt erstrecken. Sie kann sich vielmehr auf einzelne Beziehungen oder Folgen aus einem Rechtsverhältnis, auf bestimmte Ansprüche oder – wie hier – auf Verpflichtungen sowie den Umfang einer Leistungspflicht beschränken  (vgl. nur BAG 15. Mai 2012 – 3 AZR 11/10 – Rn. 19 mwN, BAGE   141, 259) . 
+ 
+ 
+ 
+  21  
+ 
+ 2. Das nach § 256 Abs. 1 ZPO erforderliche Feststellungsinteresse besteht ebenfalls. Die Beklagte stellt ihre Leistungspflicht in Abrede. Der Kläger hat bereits vor Eintritt des Versorgungsfalls ein rechtliches Interesse daran, Meinungsverschiedenheiten über die Höhe seiner Versorgungsansprüche klären zu lassen  (vgl. etwa BAG 23. Februar 2021 – 3 AZR 618/19 – Rn. 25 mwN, BAGE 174, 116) . 
+ 
+ 
+ 
+  22  
+ 
+ C. Der Feststellungsantrag ist – soweit er noch Gegenstand des Revisionsverfahrens ist – begründet. Die Beklagte hat dem Kläger bei Eintritt des Versorgungsfalls aufgrund ihrer Einstandspflicht nach § 1 Abs. 1 Satz 3 BetrAVG die Differenzen auszugleichen, damit er eine um 421,98 Euro höhere Betriebsrente und somit eine Betriebsrente erhält, die sich nach der Satzung und den Allgemeinen Versicherungsbedingungen der Pensionskasse ergäbe, wenn er auch in der Zeit vom 1. März 2007 bis zur Beendigung seines Arbeitsverhältnisses am 31. März 2022 weiterhin bei dieser Pensionskasse angemeldet gewesen wäre. 
+ 
+ 
+ 
+  23  
+ 
+ I. Nach § 1 Abs. 1 Satz 3 BetrAVG hat der Arbeitgeber für die Erfüllung der von ihm zugesagten Leistungen der betrieblichen Altersversorgung auch dann einzustehen, wenn die Durchführung nicht unmittelbar über ihn erfolgt. Durch die Einstandspflicht nach § 1 Abs. 1 Satz 3 BetrAVG soll sichergestellt werden, dass bei Schwierigkeiten im Durchführungsweg im Versorgungsfall gleichwohl der Versorgungszusage entsprechende Leistungen erbracht werden  (vgl. BAG 20. August 2019 – 3 AZR 561/17 – Rn. 60 mwN) . Wird die geschuldete Versorgung nicht auf dem vorgesehenen Durchführungsweg erbracht, hat der Arbeitgeber dem Arbeitnehmer im Versorgungsfall daher erforderlichenfalls aus seinem eigenen Vermögen die Versorgungsleistungen zu verschaffen, die dem Arbeitnehmer zustehen. Die Einstandspflicht nach § 1 Abs. 1 Satz 3 BetrAVG gilt insbesondere auch dann, wenn die vom Arbeitgeber zugesagten Leistungen der betrieblichen Altersversorgung über eine Pensionskasse durchgeführt werden  (vgl. BAG 14. März 2023 – 3 AZR 197/22 – Rn. 18 ff. mwN, BAGE 180, 262) . 
+ 
+ 
+ 
+  24  
+ 
+ II. Dem Kläger waren von der B AG durch Gesamtzusage ab dem 1. Mai 1980 Leistungen der betrieblichen Altersversorgung zugesagt worden, die über die Pensionskasse und damit nach Maßgabe der dort geltenden Versorgungsbestimmungen durchgeführt werden sollten. Die Rechte und Pflichten aus dieser Versorgungszusage sind nach § 613a Abs. 1 Satz 1 BGB auf das Arbeitsverhältnis mit der D GmbH und mit Wirkung zum 1. Januar 2006 auf das Arbeitsverhältnis mit der Beklagten übergegangen. Die Ruhegeldzusage wurde nicht zum 1. März 2007 durch die BV 06/2007 abgelöst. 
+ 
+ 
+ 
+  25  
+ 
+ 1. Dies ergibt sich allerdings nicht schon daraus, dass seine Versorgungszusage nicht abänderbar gewesen wäre. Die Zusage war ablösungs- und damit auch betriebsvereinbarungsoffen. 
+ 
+ 
+ 
+  26  
+ 
+ a) Bei einer durch Gesamtzusage erteilten Ruhegeldzusage handelt es sich um eine vertragseinheitlich gewährte Leistung an den angesprochenen Empfängerkreis, die in Form eines einheitlichen Systems erbracht werden soll. Wird eine betriebliche Altersversorgung im Rahmen eines derartigen Systems zugesagt, spricht dies für eine dem Versorgungsberechtigten erkennbare Offenheit der Vereinbarung für eine Abänderbarkeit durch eine Neuregelung mit kollektivem Bezug. Die Geltung des Ruhegeldvertrags ist auf einen längeren, unbestimmten Zeitraum angelegt und daher von vornherein erkennbar einem möglichen künftigen Änderungsbedarf ausgesetzt. Ein solches System betrieblicher Altersversorgung darf nicht erstarren. Der Arbeitgeber sagt daher bei einheitlich geregelten Versorgungszusagen im Regelfall lediglich eine Versorgung nach den jeweils bei ihm geltenden Versorgungsregeln zu. Nur so wird eine einheitliche Anwendung der Versorgungsordnung auf alle Arbeitnehmer und Versorgungsempfänger des Arbeitgebers sichergestellt, für die die Versorgungsordnung gelten soll  (vgl. BAG 13. Oktober 2020 – 3 AZR 410/19 – Rn. 66 mwN) . 
+ 
+ 
+ 
+  27  
+ 
+ b) Mit der Zusage einer Versorgung nach den jeweils beim Arbeitgeber geltenden Versorgungsregeln wird auch die Möglichkeit für eine Ablösung auf kollektivvertraglicher Grundlage eröffnet. Die Zusage einer Versorgung nach den jeweils beim Arbeitgeber geltenden Versorgungsregeln erfasst alle Regelungen, mit denen betriebliche Altersversorgung gestaltet werden kann. Der Arbeitgeber kann – wenn ein Betriebsrat gebildet ist – die Ausgestaltung der geltenden Versorgungsregelungen grundsätzlich nicht einseitig ändern. Vielmehr steht dem Betriebsrat hierbei ein Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 10 BetrVG zu, das typischerweise durch den Abschluss einer Betriebsvereinbarung ausgeübt wird. Sagt der Arbeitgeber eine Versorgung nach den jeweils bei ihm geltenden Versorgungsregeln zu, gehören dazu nicht nur vom Arbeitgeber einseitig erstellte Versorgungsordnungen, sondern erkennbar auch Betriebsvereinbarungen  (vgl. BAG 21. Februar 2017 – 3 AZR 542/15 – Rn. 36 mwN; 10. März 2015 – 3 AZR 56/14 – Rn. 33).  
+ 
+ 
+ 
+  28  
+ 
+ c) Danach war die Versorgungszusage aus dem Jahr 1980 ablösungsoffen. Anhaltspunkte für die Annahme, die B AG – als damalige Arbeitgeberin des Klägers – habe deutlich zum Ausdruck gebracht, dass lediglich die bei Entstehung der Zusage geltenden Regelungen im Versorgungsverhältnis Anwendung finden sollten, sind weder dargetan noch ersichtlich. 
+ 
+ 
+ 
+  29  
+ 
+ 2. Die ursprüngliche Versorgungszusage wurde jedoch deshalb nicht durch die BV 06/2007 abgelöst, weil diese Betriebsvereinbarung mangels ordnungsgemäßen Beschlusses des Betriebsrats unwirksam ist. 
+ 
+ 
+ 
+  30  
+ 
+ a) Das Landesarbeitsgericht ist zu Recht davon ausgegangen, dass eine vom Betriebsratsvorsitzenden unterschriebene Betriebsvereinbarung nicht wirksam zustande kommt, wenn dem Handeln nicht ein – zumindest (nachträglich) genehmigender – Beschluss des Betriebsrats zugrunde liegt. 
+ 
+ 
+ 
+  31  
+ 
+ aa) Nach der Konzeption des Betriebsverfassungsgesetzes handelt der Betriebsrat als Kollegialorgan. Er bildet seinen gemeinsamen Willen durch Beschluss  (§ 33 BetrVG) . Eine nicht von einem Beschluss des Gremiums umfasste Erklärung seines Vorsitzenden ist (schwebend) unwirksam und kann daher keine Rechtswirkungen entfalten  (BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 24 mwN, BAGE 177, 112) . Dem Betriebsrat kann eine ohne einen solchen Beschluss vom Vorsitzenden abgegebene Erklärung zum Abschluss einer Betriebsvereinbarung auch nicht auf der Grundlage einer Anscheinsvollmacht zugerechnet werden  (ausf. BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 24 ff. mwN, aaO) . 
+ 
+ 
+ 
+  32  
+ 
+ (1) Nach § 26 Abs. 2 Satz 1 BetrVG vertritt der Vorsitzende den Betriebsrat nur im Rahmen der von ihm gefassten Beschlüsse. Im Gegensatz zu einem rechtsgeschäftlichen oder gesetzlichen Vertreter erfolgt keine Vertretung im Willen, sondern lediglich in der Erklärung  (so schon die Gesetzesmaterialien zum BetrVG 1952 BT-Drs. I/3585 S. 7) . Damit steht dem Betriebsratsvorsitzenden bereits von Gesetzes wegen nicht die Befugnis zur eigenen rechtsgeschäftlichen Willensbildung anstelle des Betriebsrats zu. Eine Entscheidungsbefugnis aus eigenem Recht hat er lediglich in den ihm im Gesetz ausdrücklich zugewiesenen Fällen. Sonst ist eine auf das Gremium des Betriebsrats bezogene Willensbildung erforderlich, die – weil es sich um ein Kollegialorgan handelt – nur durch Beschlussfassung möglich ist. Der Vorsitzende des Betriebsrats gibt daher lediglich Erklärungen für diesen ab und trifft nicht an dessen Stelle auf eigenem Willensentschluss beruhende Entscheidungen. Diese gesetzlich vorgesehene Verknüpfung der Willensbildung im Gremium mit der – lediglich diesen Willen äußernden – Erklärung steht einer unmittelbaren Anwendung der Grundsätze über die Anscheinsvollmacht entgegen  (BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 27 mwN, BAGE 177, 112) . 
+ 
+ 
+ 
+  33  
+ 
+ (2) Eine entsprechende Anwendung dieser Rechtsgrundsätze für die Fälle des Abschlusses von Betriebsvereinbarungen ist nicht geboten. Der Charakter einer Betriebsvereinbarung als privatrechtlich kollektiver und objektives Recht setzender Normenvertrag von Betriebsparteien  (vgl. BAG 28. Juli 2020 – 1 ABR 4/19 – Rn. 14, BAGE 171, 347)  steht der Annahme entgegen, eine Betriebsvereinbarung könne für den Betriebsrat nach den Grundsätzen einer Anscheinsvollmacht zustande kommen. Betriebsvereinbarungen kommt nach § 77 Abs. 4 Satz 1 BetrVG von Gesetzes wegen unmittelbare und zwingende Wirkung gegenüber den betriebszugehörigen Arbeitnehmern zu. Deshalb bedürfen durch ihre Regelungen bewirkte Beeinträchtigungen verfassungsrechtlich geschützter Rechtspositionen der Arbeitnehmer eines sie legitimierenden Rechtsgrundes. Die demokratisch legitimierte Grundlage hierfür bildet das Betriebsverfassungsgesetz in seiner konkreten Ausgestaltung und unter Berücksichtigung der für die Betriebsparteien bei ihrer Rechtsetzung bestehenden Binnenschranken. Damit hat der Gesetzgeber den Betriebsparteien die Aufgabe überlassen, einen bestimmten Bereich nach näheren Maßgaben im Weg der Selbstverwaltung autonom zu regeln  (vgl. BAG 12. Dezember 2006 – 1 AZR 96/06 – Rn. 16 f., BAGE 120, 308) . Die – auf einer regelmäßigen demokratischen Wahl beruhende – Repräsentanz der Belegschaft durch den Betriebsrat vermittelt dessen Legitimation zur betrieblichen Rechtsetzung. Die Befugnis des Betriebsrats – als die Arbeitnehmer repräsentierendes Kollegialorgan – zur Schaffung von objektivem, betrieblichem Recht erfordert aber eine demokratischen Grundprinzipien gerecht werdende Willensbildung dieses Gremiums. Sie hat nach dem Willen des Gesetzgebers ausdrücklich und gemeinschaftlich durch einen mehrheitlich getroffenen Beschluss zu erfolgen. Eine betriebliche Rechtsetzung aufgrund bloßer Anscheinsvollmacht des Betriebsratsvorsitzenden ist hiermit nicht vereinbar. Die bloße Veranlassung eines Rechtsscheins durch den Betriebsrat oder seine Mitglieder kann keine Geltung von Rechtsnormen im Betrieb begründen  (BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 28 f. mwN, BAGE 177, 112) . 
+ 
+ 
+ 
+  34  
+ 
+ bb) Entgegen der Ansicht der Beklagten kann sich eine „Vertretungsmacht“ des Betriebsratsvorsitzenden aus diesen Gründen auch nicht nach den für die Annahme einer Duldungsvollmacht maßgebenden Grundsätzen ergeben. Von einer Duldungsvollmacht ist auszugehen, wenn der Vertretene es willentlich zulässt, dass ein anderer für ihn wie ein Vertreter auftritt, und der Geschäftspartner diese Duldung nach Treu und Glauben dahin versteht und auch verstehen darf, dass der Handelnde zur Abgabe der Erklärungen bevollmächtigt ist  (st. Rspr., vgl. zB BGH 22. Juli 2014 – VIII ZR 313/13 – Rn. 26 mwN, BGHZ 202, 158) . Die Zurechnung einer „Duldung“ des Betriebsrats unter Rechtsscheingesichtspunkten  (vgl. BGH 21. Juni 2005 – XI ZR 88/04 – zu II 2 b aa der Gründe)  kommt nicht in Betracht, weil ein bloßer Rechtsschein die demokratischen Grundprinzipien gerecht werdende Willensbildung des Gremiums nicht zu ersetzen vermag. Versteht man die Duldungsvollmacht als eine konkludent erteilte Vollmacht, scheidet sie deshalb aus, weil die Willensbildung des Betriebsrats nur ausdrücklich und gemeinschaftlich erfolgen kann  (vgl. BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 29, BAGE 177, 112) . Weder ein bloßes Schweigen des Gremiums noch die schlichte Hinnahme eines bestimmten Verhaltens des Arbeitgebers ersetzt die erforderliche Beschlussfassung  (vgl. GK-BetrVG/Raab 12. Aufl. BetrVG § 26 Rn. 50; Richardi BetrVG/Thüsing 18. Aufl. BetrVG § 26 Rn. 50; vgl. auch BAG 23. Oktober 2018 – 1 ABR 26/17 – Rn. 29) . 
+ 
+ 
+ 
+  35  
+ 
+ cc) Die Anerkennung einer normativen Wirkung von Betriebsvereinbarungen, denen kein Beschluss des Betriebsrats zugrunde liegt, aufgrund bloßen Rechtsscheins ist auch nicht unerlässlich, um Rechtssicherheit zu schaffen. 
+ 
+ 
+ 
+  36  
+ 
+ (1) Hat der Vorsitzende des Betriebsrats eine Betriebsvereinbarung unterzeichnet, die nicht auf einem zuvor vom Gremium gefassten wirksamen Beschluss beruht, kann dieser Mangel geheilt werden. Die von ihm abgegebene Erklärung ist entsprechend § 177 Abs. 1 BGB zunächst nur schwebend unwirksam und kann vom Betriebsrat (nachträglich) genehmigt werden  (vgl. nur BAG 9. Dezember 2014 – 1 ABR 19/13 – Rn. 15 mwN, BAGE 150, 132) . Obwohl der Vorsitzende den Betriebsrat nur in der Erklärung, nicht aber im Willen vertritt, ist eine entsprechende Heranziehung dieser Norm geboten, um den Betriebsparteien die Möglichkeit zu eröffnen, Fehler bei der Beschlussfassung des Betriebsrats im Nachhinein zu beheben. Da die Genehmigung seitens des Betriebsrats durch einen Beschluss zu erfolgen hat, ist die für eine Rechtsetzung der Betriebsparteien erforderliche Form seiner Willensbildung gewahrt. Die vom Betriebsrat beschlossene Genehmigung wirkt entsprechend § 184 Abs. 1 BGB auf den Zeitpunkt der Unterzeichnung der Betriebsvereinbarung zurück. Die Rückbeziehung der Genehmigungswirkung hat zur Folge, dass die vom Betriebsratsvorsitzenden ohne vorherigen Beschluss des Gremiums unterschiebene Betriebsvereinbarung so zu behandeln ist, als sei sie bereits bei ihrem Abschluss wirksam geworden  (ausf. dazu BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 33 mwN, BAGE 177, 112) . 
+ 
+ 
+ 
+  37  
+ 
+ (2) Zudem eröffnet das Betriebsverfassungsgesetz neben dieser Heilungsmöglichkeit verschiedene Handlungsoptionen, die sicherstellen, dass der Arbeitgeber, der mit dem Betriebsrat eine Betriebsvereinbarung schließt und nach § 77 Abs. 1 BetrVG auch zu deren Durchführung verpflichtet ist, zeitnah Kenntnis davon erlangen kann, ob ein auf den Abschluss bezogener Beschluss des Betriebsrats gefasst wurde. 
+ 
+ 
+ 
+  38  
+ 
+ (a) So ermöglichen bereits die Regelungen in § 29 Abs. 3 und 4 iVm. § 34 Abs. 2 Satz 1 BetrVG dem Arbeitgeber, im Vorfeld des Abschlusses einer Betriebsvereinbarung die erforderliche Beschlussfassung des Betriebsrats zu veranlassen und sich diese durch Aushändigung einer Abschrift des entsprechenden Teils der Sitzungsniederschrift nachweisen zu lassen. Macht der Arbeitgeber von seinem in § 29 Abs. 4 Satz 1 BetrVG vorgesehenen Recht Gebrauch, die Anberaumung einer Betriebsratssitzung zu einem bestimmten Gegenstand zu verlangen, nimmt er daran teil und lässt sich nach § 34 Abs. 2 Satz 1 BetrVG eine Abschrift des entsprechenden Teils der Sitzungsniederschrift aushändigen, ist gewährleistet, dass er einen aussagekräftigen Nachweis über einen (etwaigen) Beschluss des Betriebsrats in dieser Angelegenheit erhält  (ausf. dazu BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 35 ff. mwN, BAGE 177, 112) . 
+ 
+ 
+ 
+  39  
+ 
+ (b) Darüber hinaus ist der Betriebsrat im Fall des Abschlusses einer Betriebsvereinbarung nach § 77 Abs. 1 iVm. § 2 Abs. 1 BetrVG verpflichtet, dem Arbeitgeber auf dessen zeitnah geltend zu machendes Verlangen eine den inhaltlichen und formellen Maßgaben des § 34 Abs. 2 Satz 1 BetrVG entsprechende Abschrift desjenigen Teils der Sitzungsniederschrift auszuhändigen, aus dem sich die – für die Wirksamkeit der vom Betriebsratsvorsitzenden abgegebenen Erklärung erforderliche – Beschlussfassung des Gremiums ergibt  (ausf. dazu BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 40 ff. mwN, BAGE 177, 112) . Entgegen der Auffassung der Beklagten führt diese Verpflichtung des Betriebsrats nicht zu einem unzulässigen Eingriff des Arbeitgebers in die selbständig und eigenverantwortlich wahrzunehmende Amtsführung des Betriebsrats. Dem Arbeitgeber wird dadurch kein mit der – als Strukturprinzip der Betriebsverfassung – gesetzlich geforderten Eigenständigkeit des Betriebsrats und damit seiner Unabhängigkeit unvereinbares Kontrollrecht eingeräumt. Er erhält lediglich zur Sicherung seiner berechtigten Interessen die situativ gebundene Möglichkeit, sich einen aussagekräftigen Beleg über das Vorhandensein eines vom Betriebsrat ohnehin schon von Gesetzes wegen  (§ 33 BetrVG)  vorzunehmenden Beschlusses zu verschaffen  (BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 48 mwN, aaO) . 
+ 
+ 
+ 
+  40  
+ 
+ b) Die Annahme des Landesarbeitsgerichts, es könne nicht festgestellt werden, dass der Unterzeichnung der BV 06/2007 durch den Betriebsratsvorsitzenden ein entsprechender Beschluss des Gremiums zugrunde lag, ist revisionsrechtlich nicht zu beanstanden. 
+ 
+ 
+ 
+  41  
+ 
+ aa) Das Berufungsgericht ist auf der Grundlage von § 293 ZPO zu Recht den – sich aus dem Vortrag der Parteien ergebenden – Zweifeln an einer Beschlussfassung des Betriebsrats zum Abschluss der BV 06/2007 nachgegangen und hat hierüber Beweis erhoben. 
+ 
+ 
+ 
+  42  
+ 
+ (1) Da Betriebsvereinbarungen nach § 77 Abs. 4 Satz 1 BetrVG normative Wirkung entfalten, muss das Gericht diese Normen nach § 293 ZPO von Amts wegen ermitteln  (vgl. BAG 12. März 2019 – 1 ABR 42/17 – Rn. 78, BAGE 166, 79; vgl. für Tarifverträge BAG 31. Januar 2018 – 10 AZR 695/16 (A) – Rn. 16 mwN) . Die Amtsermittlungspflicht umfasst dabei nicht nur den Inhalt der Vorschriften, sondern kann sich auch auf deren Wirksamkeit erstrecken  (vgl. BAG 12. März 2019 – 1 ABR 42/17 – aaO; vgl. für Tarifverträge BAG 7. Juli 2010 – 4 AZR 1023/08 – Rn. 16) . Im Anwendungsbereich von § 293 ZPO besteht auch im arbeitsgerichtlichen Urteilsverfahren keine prozessuale Darlegungs- und Beweislast einer Partei  (vgl. BAG 28. Oktober 2008 – 3 AZR 903/07 – Rn. 26; 9. August 1995 – 6 AZR 1047/94 – zu II 2 b der Gründe, BAGE 80, 316) . Es obliegt vielmehr dem Gericht, den Inhalt und – erforderlichenfalls – die Wirksamkeit von Betriebsvereinbarungen zu ermitteln. 
+ 
+ 
+ 
+  43  
+ 
+ (2) Der Umfang der im Rahmen von § 293 ZPO bestehenden gerichtlichen Ermittlungspflicht zur Wirksamkeit einer Betriebsvereinbarung wird dabei durch das Vorbringen der Parteien beeinflusst  (vgl. BAG 22. August 2024 – 2 AZR 251/23 – Rn. 45; 7. Mai 2020 – 2 AZR 692/19 – Rn. 67 mwN) . Ergeben sich weder aus der Betriebsvereinbarung selbst noch aus dem Vortrag der am gerichtlichen Verfahren Beteiligten Zweifel an der Wirksamkeit, ist eine richterliche Aufklärung entbehrlich  (vgl. BAG 12. März 2019 – 1 ABR 42/17 – Rn. 78, BAGE 166, 79) . Die Gerichte haben daher das Vorliegen eines (wirksamen) Betriebsratsbeschlusses nicht stets von Amts wegen zu prüfen und hierfür die notwendigen Tatsachengrundlagen zu ermitteln. Eine solche Amtsermittlungspflicht wird nur dann ausgelöst, wenn sich aus dem Sachvortrag der Parteien Umstände ergeben, die darauf hindeuten, dass einer Betriebsvereinbarung kein ordnungsgemäßer Beschluss zugrunde liegen könnte. Ein bloßes Bestreiten mit Nichtwissen iSv. § 138 Abs. 4 ZPO durch eine Partei genügt insoweit nicht. Die Vorschrift ermöglicht es einer Partei, die Beweisbedürftigkeit einer ihr unbekannten Tatsache herzustellen, die möglicherweise wahr ist und deshalb unter Beachtung der Wahrheitspflicht nach § 138 Abs. 1 ZPO nicht (als unwahr) bestritten werden darf  (BGH 22. Juli 2021 – I ZR 123/20 – Rn. 23) . Sie ist auf zivilprozessuale Verfahren zugeschnitten, in denen der Beibringungsgrundsatz gilt, und findet deshalb im Rahmen der Amtsermittlung nach § 293 ZPO keine Anwendung. Soweit der Senat in der Entscheidung vom 8. Februar 2022  (- 1 AZR 233/21 – Rn. 42, BAGE 177, 112) –  nicht tragend – davon ausgegangen ist, dass ein Bestreiten mit Nichtwissen nach § 138 Abs. 4 ZPO auch im Anwendungsbereich von § 293 ZPO möglich ist, hält er daran nicht fest. 
+ 
+ 
+ 
+  44  
+ 
+ (3) Wie die Erforschung des Rechts iSv. § 293 ZPO erfolgt, steht im pflichtgemäßen Ermessen des Gerichts. Es kann dabei Beweisangeboten der Parteien nachgehen, ist daran aber nicht gebunden, sondern darf auch oder stattdessen Erkenntnisquellen einschließlich des Freibeweises nutzen  (vgl. BAG 31. Januar 2018 – 10 AZR 695/16 (A) – Rn. 16 mwN) . Auf der Grundlage seiner Ermittlungen hat es sich über das Vorliegen eines (ordnungsgemäßen) Betriebsratsbeschlusses eine für eine sichere Rechtserkenntnis hinreichende Überzeugung zu bilden  (vgl. zum ausländischen Recht MüKoZPO/Prütting 7. Aufl. ZPO § 293 Rn. 50; Musielak/Voit/Röß 22. Aufl. ZPO § 293 Rn. 9) . 
+ 
+ 
+ 
+  45  
+ 
+ (4) Kann sich das Gericht nach Ausschöpfung aller ihm zur Verfügung stehenden Möglichkeiten nach Maßgabe von § 286 ZPO keine hinreichende Überzeugung über das Vorhandensein oder die Wirksamkeit eines auf den Abschluss der Betriebsvereinbarung bezogenen Betriebsratsbeschlusses bilden, ist von deren Unwirksamkeit auszugehen. Da im Rahmen von § 293 ZPO keine prozessuale Beweisführungslast einer Partei besteht, bedarf es insoweit weder eines Beweises des Gegenteils iSv. § 292 ZPO noch besteht Raum für einen Rückgriff auf die Grundsätze zum Anscheinsbeweis oder auf eine sog. tatsächliche Vermutung. 
+ 
+ 
+ 
+  46  
+ 
+ (a) Nach § 292 ZPO ist, wenn das Gesetz für das Vorhandensein einer Tatsache eine Vermutung aufstellt, grundsätzlich der Beweis des Gegenteils zulässig. Gesetzliche Vermutungen iSv. § 292 ZPO sind besondere Normen der Beweislastverteilung  (MüKoZPO/Prütting 7. Aufl. ZPO § 292 Rn. 29) . Besteht eine gesetzliche Vermutung, hat die begünstigte Partei nur die diese begründenden Tatsachen darzulegen, muss jedoch nicht (auch) die vom Gesetz vermutete Tatsache vortragen  (BGH 9. Oktober 2009 – V ZR 178/08 – Rn. 13 mwN) . Für diese Bestimmung ist im Rahmen von § 293 ZPO kein Raum, weil es insoweit schon an einer prozessualen Beweisführungslast einer Partei fehlt. Abgesehen davon sieht das Gesetz an keiner Stelle eine Vermutung vor, der Betriebsratsvorsitzende handele nur im Rahmen der vom Betriebsrat gefassten Beschlüsse  (anders, allerdings ohne Begründung, zum Abschluss eines Interessenausgleichs BAG 24. Februar 2000 – 8 AZR 180/99 – zu II 3 b der Gründe) . § 26 Abs. 2 Satz 1 BetrVG regelt die Kompetenz des Betriebsratsvorsitzenden, enthält aber keine Beweisvorschrift  (Linsenmaier FS Wißmann 2005 S. 378, 385; Raab ZFA 2022, 149, 161) . 
+ 
+ 
+ 
+  47  
+ 
+ (b) Ebenso wenig sind die von der Rechtsprechung entwickelten Grundsätze zum Anscheinsbeweis im Sinn einer Beweiserleichterung für die darlegungspflichtige Prozesspartei oder einer sog. tatsächlichen – wenn auch jederzeit widerleglichen – Vermutung als eine Form der Beweislastumkehr  (vgl. BGH 8. Mai 2012 – XI ZR 262/10 – Rn. 29, BGHZ 193, 159)  im Rahmen von § 293 ZPO anwendbar. Unabhängig von der Frage, ob es einen Erfahrungssatz geben kann, ein Betriebsratsvorsitzender unterzeichne Betriebsvereinbarungen ausschließlich auf der Grundlage eines ihn dazu ermächtigenden Beschlusses des Gremiums  (abl. Nause FS Etzel 2011 S. 271, 279 f.; Raab ZFA 2022, 149, 162 f.) , setzen beide Rechtsinstitute voraus, dass eine – prozessuale – Beweisführungslast besteht. Dies ist bei einer gerichtlichen Pflicht zur Ermittlung von Amts wegen nach § 293 ZPO nicht der Fall. Soweit das Bundesarbeitsgericht in der Vergangenheit angenommen hat, es spreche eine – jederzeit widerlegliche – Vermutung dafür, dass der Betriebsratsvorsitzende im Rahmen eines ordnungsgemäßen Beschlusses gehandelt habe  (BAG 19. März 2003 – 7 ABR 15/02 – zu II 2 b der Gründe, BAGE 105, 311; 21. Februar 2002 – 2 AZR 581/00 – zu B I 3 b bb der Gründe; 24. Februar 2000 – 8 AZR 180/99 – zu II 3 b der Gründe; 17. Februar 1981 – 1 AZR 290/78 – zu II 1 a aa der Gründe, BAGE 35, 80; zweifelnd BAG 19. Januar 2005 – 7 ABR 24/04 – zu B I 3 der Gründe; offengelassen in BAG 9. Dezember 2014 – 1 ABR 19/13 – Rn. 17, BAGE 150, 132) , betrafen diese Entscheidungen nicht den Abschluss von nach § 77 Abs. 4 Satz 1 BetrVG normativ wirkenden Betriebsvereinbarungen  (vgl. zum Interessenausgleich BAG 23. September 2003 – 1 AZR 576/02 – zu II 3 b der Gründe, BAGE 107, 347; 20. April 1994 – 10 AZR 186/93 – zu II 2 b der Gründe, BAGE 76, 255) . Inhalt und Wirksamkeit etwaiger Vereinbarungen ohne Rechtsnormcharakter sind nicht nach § 293 ZPO von Amts wegen zu ermitteln. Eine Divergenzanfrage nach § 45 Abs. 3 Satz 1 ArbGG war deshalb nicht erforderlich. 
+ 
+ 
+ 
+  48  
+ 
+ bb) Die Würdigung des Landesarbeitsgerichts, es könne nicht vom Vorliegen eines auf den Abschluss der BV 06/2007 bezogenen Beschlusses des Betriebsrats ausgegangen werden, hält einer revisionsrechtlichen Überprüfung stand. Die Revision rügt zu Unrecht eine Verletzung von § 286 Abs. 1 ZPO. 
+ 
+ 
+ 
+  49  
+ 
+ (1) Nach § 286 Abs. 1 Satz 1 ZPO hat das Gericht unter Berücksichtigung des gesamten Inhalts der Verhandlungen und des Ergebnisses einer etwaigen Beweisaufnahme nach freier Überzeugung zu entscheiden, ob eine tatsächliche Behauptung für wahr oder für nicht wahr zu erachten ist. Da es sich bei der freien richterlichen Beweiswürdigung um einen allgemeinen Grundsatz des Prozessrechts handelt  (vgl. MüKoZPO/Prütting 7. Aufl. ZPO § 286 Rn. 2) , gilt dies unabhängig davon, ob es sich um Tatsachen handelt, die von den Parteien im Rahmen ihrer Darlegungslast beigebracht werden, oder ob sich das Gericht seine Überzeugung über den Inhalt und die Wirksamkeit von Normen iSv. § 293 ZPO zu bilden hat  (vgl. BAG 7. Juli 2010 – 4 AZR 1023/08 – Rn. 19 f.; BGH 12. Oktober 2017 – IX ZB 64/14 – Rn. 21 f.) . Im Freibeweisverfahren sind nur die Anforderungen an die Förmlichkeiten der Beweisaufnahme reduziert, nicht aber die Anforderungen des § 286 ZPO an die richterliche Überzeugungsbildung  (vgl. BGH 23. Juni 2023 – V ZR 28/22 – Rn. 27) . 
+ 
+ 
+ 
+  50  
+ 
+ (2) Eine Überzeugungsbildung iSv. § 286 Abs. 1 ZPO setzt nicht immer eine mathematisch lückenlose Gewissheit voraus. Selbst nach dem strengen Maßstab des § 286 ZPO bedarf es keines naturwissenschaftlichen Kausalitätsnachweises und auch keiner an Sicherheit grenzenden Wahrscheinlichkeit, vielmehr genügt ein für das praktische Leben brauchbarer Grad von Gewissheit, der verbleibenden Zweifeln Schweigen gebietet, ohne sie völlig auszuschließen  (vgl. BGH 12. Dezember 2023 – VI ZR 76/23 – Rn. 15; 1. Oktober 2019 – VI ZR 164/18 – Rn. 8) . Das Gericht muss ggf. begründen, warum es Restzweifel nicht überwinden konnte  (BAG 11. Juni 2020 – 2 AZR 442/19 – Rn. 62, BAGE 171, 66) . 
+ 
+ 
+ 
+  51  
+ 
+ (3) Die Beweiswürdigung des Tatsachengerichts nach Maßgabe von § 286 Abs. 1 Satz 1 ZPO unterliegt nur eingeschränkt der revisionsrechtlichen Überprüfung. Gegenstand der Kontrolle durch das Revisionsgericht ist nur, ob sich das Tatsachengericht mit dem Prozessstoff und den Beweisergebnissen umfassend und widerspruchsfrei auseinandergesetzt hat, die Würdigung also vollständig erfolgt und rechtlich möglich ist und nicht gegen Denkgesetze und Erfahrungssätze verstößt. Das erfordert keine ausdrückliche tatrichterliche Auseinandersetzung mit allen denkbaren Gesichtspunkten. Maßgebend ist, dass eine sachgerechte Beurteilung stattgefunden hat  (BAG 18. Juni 2025 – 7 AZR 50/24 – Rn. 31; 21. Dezember 2022 – 7 AZR 489/21 – Rn. 60 mwN) . 
+ 
+ 
+ 
+  52  
+ 
+ (4) Nach Maßgabe dieser Grundsätze ist die Beweiswürdigung des Landesarbeitsgerichts revisionsrechtlich nicht zu beanstanden. Das Landesarbeitsgericht hat die Zeugenaussagen und die ihm vorgelegten Unterlagen über die Betriebsratssitzungen ausführlich im Einzelnen gewürdigt. Zudem hat es die ihm bekannten Umstände bei der abschließenden Gesamtabwägung berücksichtigt. Danach hat es sich nicht mit einer für ausreichend erachteten Gewissheit davon überzeugen können, dass im Betriebsrat ein Beschluss gefasst worden wäre, der den Betriebsratsvorsitzenden berechtigt hätte, die BV 06/2007 zu unterzeichnen. 
+ 
+ 
+ 
+  53  
+ 
+ (a) Soweit die Beklagte unter Verweis auf die mathematische „Methode des Negativbeweises“ meint, es sei schlicht undenkbar, dass der Betriebsratsvorsitzende eine Betriebsvereinbarung unterzeichne, obwohl das Betriebsratsgremium einige Tage zuvor deren Abschluss abgelehnt habe, ohne dass irgendein Protest erfolgt sei und ohne dass sich später auch nur ein einziges der damaligen Betriebsratsmitglieder an den Vorgang erinnere, verkennt sie die Würdigung des Landesarbeitsgerichts. Das Landesarbeitsgericht hat nicht – als Gegenteil einer „positiven“ Beschlussfassung – angenommen, der Betriebsrat habe den Abschluss der Betriebsvereinbarung abgelehnt. Es hat vielmehr ausgeführt, es könne nicht ausgeschlossen werden, dass die fehlende Beschlussfassung dem Gremium schlicht „durchgegangen“ sei. Dafür spreche, dass im Betriebsrat ersichtlich Einvernehmen über die Notwendigkeit einer Neuregelung an sich bestanden habe, sodass es dem Gremium auf eine förmliche Beschlussfassung nicht mehr angekommen sein möge und die einzelnen Mitglieder die Sache „einfach laufen gelassen“ hätten. Danach erscheint es aus Sicht des Landesarbeitsgerichts unter Würdigung der Gesamtumstände möglich, dass der Betriebsratsvorsitzende von einem Einverständnis des Betriebsrats mit der Betriebsvereinbarung im Wesentlichen ausgegangen ist, es aber gleichwohl an dem erforderlichen Beschluss fehlt. Diese Annahme verstößt nicht gegen Denkgesetze. 
+ 
+ 
+ 
+  54  
+ 
+ (b) Gleiches gilt, soweit das Landesarbeitsgericht angenommen hat, der Betriebsratsbeschluss vom 17. April 2007 habe sich nicht auf den Abschluss der BV 06/2007 beziehen können. Das Landesarbeitsgericht stützt diesen Schluss – anders als die Beklagte meint – nicht ausschließlich darauf, dass der Text der BV 06/2007 zu diesem Zeitpunkt noch nicht vorgelegen hat, sondern vielmehr entscheidend darauf, dass die „Beschlussfassung Betriebsvereinbarung BAV“ als solche ausweislich der Ladung erst für die Betriebsratssitzung vom 19. Juni 2007 vorgesehen war. Das hat die Beklagte auch nicht in Zweifel gezogen. Die Schlussfolgerung des Landesarbeitsgerichts, vor diesem Hintergrund könne nicht angenommen werden, dass Gegenstand des in der Sitzung vom 17. April 2007 gefassten Beschlusses nicht ausschließlich die Zustimmung zum bloßen Konzept für die künftige Ausgestaltung der betrieblichen Altersversorgung, sondern zugleich auch die noch abzuschließende Betriebsvereinbarung gewesen sei, ist revisionsrechtlich nicht zu beanstanden. Es ist nicht erkennbar, mit welchen Zeugenaussagen oder Dokumenten diese Beweiswürdigung unvereinbar wäre. Keiner der Zeugen hat bekundet, in der Betriebsratssitzung vom 17. April 2007 sei ein solcher umfassender Beschluss gefasst worden. Selbst der damalige Betriebsratsvorsitzende hat ausgesagt, die Zustimmung des Gremiums sei erst nach Vorlage des Textes der Betriebsvereinbarung erfolgt. Danach kommt es nicht darauf an, ob die „Präsentation Neuordnung“ – wie die Beklagte meint – hinreichend präzise gewesen wäre, um den späteren Abschluss einer Betriebsvereinbarung bereits zu diesem Zeitpunkt zu beschließen. 
+ 
+ 
+ 
+  55  
+ 
+ (c) Die Würdigung des Landesarbeitsgerichts, angesichts des Wortlauts des Beschlusses im Protokoll der Sitzung vom 17. April 2007 sei nur das Konzept gebilligt, nicht aber schon die Unterzeichnung der BV 06/2007 beschlossen worden, ist auch nicht deshalb denklogisch ausgeschlossen, weil der Betriebsrat unmittelbar nach dieser Betriebsratssitzung schriftlich durch Aushang kommuniziert hätte, die Neuordnung der betrieblichen Altersversorgung sei „in trockenen Tüchern“. Das Landesarbeitsgericht hat es nach der Beweisaufnahme schon nicht für bewiesen erachtet, dass ein solcher Aushang überhaupt erfolgt war. Zum anderen hat es zutreffend darauf hingewiesen, dass in den „BR-News“ – ebenso wie im Betriebsratsbeschluss vom 17. April 2007 – lediglich von einem Konzept die Rede war. 
+ 
+ 
+ 
+  56  
+ 
+ (d) Die Beweiswürdigung ist entgegen der Auffassung der Beklagten auch nicht deshalb „evident widersprüchlich“, weil das Landesarbeitsgericht ausgeführt hat, in den Sitzungsniederschriften sei zum Ausdruck gekommen, wenn der Betriebsrat eine Betriebsvereinbarung habe beschließen wollen. Dem Protokoll der Sitzung vom 17. April 2007 sei aber keine Beschlussfassung über eine Betriebsvereinbarung, sondern nur über ein Konzept zu entnehmen. Der Umstand, dass es in anderem Zusammenhang – etwa in Bezug auf die Unterzeichnung von Niederschriften oder auf die Feststellungen über Verhinderungen und Ladungen von Ersatzmitgliedern, Abstimmungsergebnisse oder Genehmigungen von Niederschriften – eine ungeordnete Arbeitsweise des Betriebsrats erkannt hat, stellt keinen Widerspruch dar. Dies betrifft gerade nicht die Niederschrift von Beschlussfassungen über abzuschließende Betriebsvereinbarungen. Die Annahme, ein Gremium, das im Allgemeinen eine ungeordnete Arbeitsweise hat, könne dennoch Beschlussfassungen zu Betriebsvereinbarungen stets korrekt protokolliert haben, verstößt nicht gegen Denkgesetze. 
+ 
+ 
+ 
+  57  
+ 
+ (e) Soweit die Beklagte meint, es widerspreche jeder Lebenserfahrung, dass sich der Betriebsrat ausweislich der E-Mail von Herrn R mit der Betriebsvereinbarung intensiv befasst, die Sache danach aber vergessen habe, verkennt sie erneut die Würdigung des Landesarbeitsgerichts. Das Landesarbeitsgericht hat nicht ausgeführt, der Betriebsrat habe „die Sache“ vergessen. Vielmehr hat es lediglich die Möglichkeit in Betracht gezogen, dass dem Betriebsrat „die fehlende Beschlussfassung … schlicht durchgegangen“ ist, weil die einzelnen Betriebsratsmitglieder angesichts des Einvernehmens über die an sich bestehende Notwendigkeit einer Neuregelung der betrieblichen Altersversorgung die Angelegenheit möglicherweise „einfach laufen gelassen“ hätten. Mit Blick auf eine solche Möglichkeit muss auch nicht deshalb zwingend etwas anderes gelten, weil es sich um eine Angelegenheit von erheblicher wirtschaftlicher Bedeutung für die Beklagte handelte. 
+ 
+ 
+ 
+  58  
+ 
+ (f) Das Landesarbeitsgericht hat entgegen der Auffassung der Beklagten auch nicht übersehen, dass die Formulierung im Protokoll vom 19. Juni 2007 „mit absoluter Sicherheit“ nicht dem entsprochen habe, was in der Sitzung besprochen und beschlossen wurde. Es hat aus der E-Mail von Herrn R vom 20. Juni 2007 geschlossen, dass der Betriebsrat jedenfalls in Bezug auf zwei Punkte Änderungsbedarf angemeldet hatte. Mit Blick darauf schien es ihm plausibel, dass das Gremium – wie aus der Sitzungsniederschrift ersichtlich – am 19. Juni 2007 lediglich beschlossen hatte, dass der Entwurf der BV 06/2007 „noch verbesserungsbedürftig“ sei. An späterer Stelle hat es gleichwohl die Möglichkeit in Betracht gezogen, dass der Betriebsratsvorsitzende zur Unterschrift ermächtigt werden sollte, auch wenn die Beklagte – wie erfolgt – nicht allen Änderungswünschen nachkommen würde. Nach der Gesamtwürdigung aller Umstände hat es dies jedoch in revisionsrechtlich nicht zu beanstandender Weise nicht für erwiesen erachtet. Insbesondere musste das Landesarbeitsgericht aus dem Umstand, dass die handschriftlichen Notizen zu der Sitzungsniederschrift vom 19. Juni 2007 nicht auffindbar waren, nicht folgern, der Betriebsrat habe abweichend vom Wortlaut des Protokolls einen „Vorratsbeschluss“ gefasst, der den Betriebsratsvorsitzenden zur Unterzeichnung einer – ggf. nicht in allen Punkten verbesserten – Betriebsvereinbarung ermächtigte. 
+ 
+ 
+ 
+  59  
+ 
+ (g) Auch die Würdigung der Aussage des Zeugen K verstößt nicht gegen Denkgesetze. Das Landesarbeitsgericht ist dessen – wiederholten – Aussagen, nie etwas ohne Betriebsratsbeschluss unterschrieben zu haben, angesichts wechselnder Angaben zur Beschlussfassung am 19. Juni 2007 nicht gefolgt. Insbesondere mit Blick auf den Umstand, dass nach dieser Betriebsratssitzung offensichtlich noch Änderungswünsche seitens des Betriebsrats vorhanden waren, ist dies revisionsrechtlich nicht zu beanstanden. 
+ 
+ 
+ 
+  60  
+ 
+ (h) Zu Unrecht rügt die Beklagte ferner einen Verstoß gegen Denkgesetze mit der Begründung, das Landesarbeitsgericht habe aus der fehlenden Erinnerung sämtlicher Zeugen an eine Beschlussfassung nicht folgern dürfen, es sei kein zustimmender Beschluss gefasst worden; hätte es nennenswerten inhaltlichen Widerspruch gegeben, hätten die Teilnehmer auch nach 17 Jahren noch Erinnerungen an die Diskussion gehabt. Dieser Schluss ist nicht zwingend. Das im Protokoll festgehaltene Ergebnis, die vorliegende Fassung der Betriebsvereinbarung sei „noch verbesserungsbedürftig“ gewesen, kann ebenso gut relativ schnell und ohne intensive Diskussion erzielt worden sein. 
+ 
+ 
+ 
+  61  
+ 
+ (i) Die Beweiswürdigung ist entgegen der Auffassung der Beklagten schließlich nicht „evident unvollständig“, weil das Landesarbeitsgericht nicht angegeben hat, welches Gewicht sie jedem einzelnen in die Entscheidung eingestellten Punkt beigemessen hat. Die nach § 286 Abs. 1 Satz 2 ZPO für den Tatrichter bestehende Verpflichtung, im Urteil die Gründe anzugeben, die für die richterliche Überzeugung leitend gewesen sind, bedeutet nicht, dass zu jedem in der Beweiswürdigung berücksichtigten Umstand angegeben werden müsste, welches Gewicht ihm im Einzelnen beigemessen worden ist  (vgl. BAG 18. Juni 2025 – 7 AZR 50/24 – Rn. 31; 21. Dezember 2022 – 7 AZR 489/21 – Rn. 60 mwN) . 
+ 
+ 
+ 
+  62  
+ 
+ c) Der Betriebsrat hat die Unterzeichnung der BV 06/2007 durch den Betriebsratsvorsitzenden auch nicht entsprechend § 184 Abs. 1 BGB – nachträglich – genehmigt. Der Beschluss des Betriebsrats vom 18. Dezember 2007 bezieht sich nicht auf die vom 13. Juni 2007 datierende BV 06/2007. Dies hat die Beklagte nach dem Ergebnis der Beweisaufnahme unstreitig gestellt. Ausgehend hiervon ist anzunehmen, dass es in der betreffenden Betriebsratssitzung um die Neuregelung der betrieblichen Altersversorgung für später eingestellte Arbeitnehmer ging, die nicht ursprünglich bei der Pensionskasse angemeldet waren. Dafür spricht auch die am selben Tag von Herrn K unterzeichnete Betriebsvereinbarung zwischen der L GmbH und dem „Betriebsrat/Gesamtbetriebsrat“. Dass der entsprechende Beschluss zugleich eine Genehmigung zum Abschluss der – den Betrieb eines anderen Unternehmens betreffenden – BV 06/2007 enthalten soll, ist seinem Wortlaut nicht zu entnehmen. Auch die am 18. Dezember 2007 abgeschlossene Betriebsvereinbarung nimmt in keiner Weise Bezug auf die BV 06/2007. 
+ 
+ 
+ 
+  63  
+ 
+ d) Die BV 06/2007 ist auch nicht unter Vertrauensschutzgesichtspunkten – ggf. auch nur für die Vergangenheit – als wirksam anzusehen. 
+ 
+ 
+ 
+  64  
+ 
+ aa) Anders als die Beklagte meint, lässt sich ein Vertrauensschutz nicht mit einer unmittelbaren oder entsprechenden Anwendung der sog. Lehre vom fehlerhaften Dauerschuldverhältnis begründen  (vgl. zu ähnlichen Überlegungen Lembke FS Henssler 2023 S. 371, 381 f.; ders. NZA 2021, 1665, 1674; Suttarp/Ober DB 2023, 1218, 1221) . 
+ 
+ 
+ 
+  65  
+ 
+ (1) Die Rechtsprechung nimmt in bestimmten Fällen an, dass ein Arbeits- oder Dauerschuldverhältnis, das in Vollzug gesetzt worden ist, für die Vergangenheit wie ein fehlerfrei zustande gekommenes zu behandeln ist  (vgl. für das fehlerhafte Arbeitsverhältnis BAG 3. November 2004 – 5 AZR 592/03 – zu I 2 a der Gründe, BAGE 112, 299; vgl. für die fehlerhafte Gesellschaft EuGH 15. April 2010 – C-215/08 – [E. Friz] Rn. 48 f.; BGH 30. Januar 2018 – II ZR 95/16 – Rn. 52, BGHZ 217, 237) . Der Sache nach handelt es sich dabei um die Einschränkung der Pflicht, ein durchgeführtes Dauerschuldverhältnis nach den Grundsätzen des Bereicherungsrechts rückabzuwickeln  (vgl. Raab ZFA 2022, 149, 181) . 
+ 
+ 
+ 
+  66  
+ 
+ (2) Die dieser Lehre zugrunde liegenden Erwägungen lassen sich nicht auf den Abschluss einer Betriebsvereinbarung übertragen. Anders als ein schuldrechtlicher Vertrag begründet eine Betriebsvereinbarung – in erster Linie – nicht Rechte und Pflichten zwischen den Betriebsparteien. Sie setzt vielmehr materielles Recht, das unmittelbar und zwingend auf die Arbeitsverhältnisse der betriebszugehörigen Arbeitnehmer einwirkt  (§ 77 Abs. 4 Satz 1 BetrVG) . Zwischen ihnen und dem Arbeitgeber des Betriebs bedarf es aber keinerlei Willenseinigung. Zudem geht es im Fall einer unwirksamen Betriebsvereinbarung nicht darum, die vollständige Rückabwicklung eines durchgeführten Vertragsverhältnisses nach den Grundsätzen des Bereicherungsrechts zu vermeiden. Die für die Rechtfertigung der Normwirkung von Betriebsvereinbarungen erforderliche demokratische Legitimation durch die Beschlussfassung des Betriebsratsgremiums  (vgl. BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 29, BAGE 177, 112)  kann nicht – auch nicht nur für die Vergangenheit – durch den lediglich tatsächlichen Vollzug eines nicht durch einen Betriebsratsbeschluss gedeckten Normwerks ersetzt werden. 
+ 
+ 
+ 
+  67  
+ 
+ bb) Die Wirksamkeit einer nicht auf einem ordnungsgemäßen Betriebsratsbeschluss beruhenden Betriebsvereinbarung für die Vergangenheit lässt sich auch nicht aus einer Parallelwertung zu den ausschließlich zukunftsbezogenen Rechtsfolgen einer erfolgreichen Betriebsratswahlanfechtung nach § 19 BetrVG herleiten  (vgl. dazu statt vieler BAG 27. Juli 2011 – 7 ABR 61/10 – Rn. 32, BAGE 138, 377) . Die Situation, dass eine Betriebsvereinbarung mangels (ordnungsgemäßen) Betriebsratsbeschlusses unwirksam ist, ist schon nicht mit der einer erfolgreichen Anfechtung einer Betriebswahl vergleichbar. Der Umstand, dass eine dem Wahlanfechtungsantrag stattgebende gerichtliche Entscheidung ausschließlich für die Zukunft Wirkung entfaltet  (st. Rspr., zB BAG 30. Juni 2021 – 7 ABR 24/20 – Rn. 46) , folgt aus dem Charakter der Wahlanfechtung als Gestaltungsantragsrecht  (vgl.   BAG 30. Juni 2021 – 7 ABR 24/20 – Rn. 25; GK-BetrVG/Kreutz 12. Aufl. BetrVG § 19 Rn. 126) . Demgegenüber ist eine Betriebsvereinbarung, deren Normen gegen höherrangiges Recht verstoßen, von Anfang an nichtig. Sie entfaltet grundsätzlich keine Rechtswirkungen  (vgl. BAG 28. April 1998 – 1 ABR 43/97 – zu B II 1 der Gründe, BAGE 88, 298; GK-BetrVG/Kreutz 12. Aufl. BetrVG § 77 Rn. 63 f. mwN) . Einer entsprechenden gerichtlichen Entscheidung kommt nur feststellende Wirkung zu. Ungeachtet dessen hätte die „Anfechtung“ einer auf den Abschluss einer Betriebsvereinbarung gerichteten Willenserklärung auch nach Maßgabe von § 142 BGB deren – rückwirkende – Nichtigkeit zur Folge. 
+ 
+ 
+ 
+  68  
+ 
+ cc) Eine Zurechnung des ohne Beschluss des Betriebsrats erfolgten Handelns des Betriebsratsvorsitzenden unter dem Aspekt des Vertrauensschutzes kommt auch nicht deshalb in Betracht, weil der Senat erst mit seiner Entscheidung vom 8. Februar 2022  (- 1 AZR 233/21 – Rn. 35 ff., BAGE 177, 112)  einen Anspruch des Arbeitgebers gegen den Betriebsrat auf Aushändigung von Abschriften der Sitzungsniederschrift bei Abschluss einer Betriebsvereinbarung anerkannt hat. 
+ 
+ 
+ 
+  69  
+ 
+ (1) Ein etwaiges Vertrauen des Arbeitgebers darauf, dass ein Betriebsratsvorsitzender eine Betriebsvereinbarung stets nur auf der Grundlage eines entsprechenden Beschlusses unterzeichnet, war schon vor dieser Entscheidung nicht gerechtfertigt. Insbesondere lässt sich – ungeachtet der Frage, ob eine bestimmte Rechtsprechung überhaupt ein Vertrauen rechtfertigen kann  (vgl. dazu etwa BAG 12. Oktober 2022 – 5 AZR 30/22 – Rn. 25 mwN; 18. April 2007 – 4 AZR 652/05 – Rn. 47 mwN, BAGE 122, 74) –  eine Grundlage für ein solches Vertrauen nicht aus früheren Entscheidungen des Bundesarbeitsgerichts ableiten. Das Bundesarbeitsgericht hat zu keinem Zeitpunkt angenommen, ein Arbeitgeber dürfe darauf „vertrauen“, dass der Unterzeichnung einer Betriebsvereinbarung durch den Betriebsratsvorsitzenden ein legitimierender Beschluss des Gremiums zugrunde liege. Es hat lediglich in einigen Entscheidungen in Bezug auf die Darlegungs- und Beweislast ausgeführt, es bestehe eine – allerdings ohnehin jederzeit widerlegbare – „Vermutung“ für das Vorhandensein eines zugrunde liegenden Beschlusses  (vgl. BAG 21. Februar 2002 – 2 AZR 581/00 – zu B I 3 b bb der Gründe; 24. Februar 2000 – 8 AZR 180/99 – zu II 3 b der Gründe; 17. Februar 1981 – 1 AZR 290/78 – zu II 1 a aa der Gründe, BAGE 35, 80) . 
+ 
+ 
+ 
+  70  
+ 
+ (2) Auch aus der Entscheidung des Bundesarbeitsgerichts vom 19. März 2003  (- 7 ABR 15/02 – zu II 2 b der Gründe, BAGE 105, 311)  ergibt sich entgegen der Auffassung der Beklagten nichts Weitergehendes. Soweit dort lediglich von einer „Vermutung“ die Rede ist, beziehen sich diese Ausführungen ersichtlich auf das – in demselben Absatz zitierte – Urteil des Senats vom 17. Februar 1981  (- 1 AZR 290/78 – zu II 1 a aa der Gründe, BAGE 35, 80) , nach dem diese Vermutung „jederzeit widerlegbar“ ist. 
+ 
+ 
+ 
+  71  
+ 
+ dd) Ob – wie die Beklagte meint – im Einzelfall die Gewährung von Vertrauensschutz im Hinblick auf Regelungen und Maßnahmen, die in Vollzug der – unwirksamen – Betriebsvereinbarung getroffen worden und ohne Nachteil für die Betroffenen nicht mehr rückgängig zu machen sind, verfassungsrechtlich geboten sein kann, bedarf im Streitfall keiner Entscheidung  (vgl. dazu auch Raab ZFA 2022, 149, 182 ff.) . Insbesondere kann offenbleiben, welche Rechtsfolgen es hat, wenn der Arbeitgeber sich vergewissert hat, dass ein Betriebsratsbeschluss gefasst wurde, dieser aber – für den Arbeitgeber nicht oder nicht ohne Weiteres erkennbar – unwirksam ist  (dazu etwa Lembke FS Henssler 2023 S. 371, 380) . Die Beklagte erkennt selbst, dass die Gewährung eines solchen Vertrauensschutzes allenfalls dann in Betracht kommen kann, wenn der Betroffene tatsächlich vertraut hat und sein Vertrauen auch schutzwürdig war. Schon daran fehlt es hier. 
+ 
+ 
+ 
+  72  
+ 
+ (1) Die Beklagte hat die betriebliche Altersversorgung bereits zu einem Zeitpunkt umgestellt, in dem sie erkennbar keinerlei Anlass für ein Vertrauen auf eine entsprechende Beschlussfassung durch den Betriebsrat hatte. Nach den Feststellungen des Landesarbeitsgerichts zahlte sie schon ab dem 1. März 2007 keine Beiträge mehr an die Pensionskasse. Die betriebliche Altersversorgung wurde seither über die Unterstützungskasse durchgeführt. Zu diesem Zeitpunkt ging die Beklagte nach eigenem Bekunden nicht davon aus, dass der Betriebsrat den Abschluss der BV 06/2007 bereits beschlossen hatte. Der von ihr selbst erstellte Entwurf der Betriebsvereinbarung, der Gegenstand der Beschlussfassung sein sollte, trägt erst das Datum des 13. Juni 2007. 
+ 
+ 
+ 
+  73  
+ 
+ (2) Soweit die Beklagte geltend macht, sie habe jedenfalls nach der Sitzung des Betriebsrats am 19. Juni 2007 auf eine Beschlussfassung des Gremiums vertrauen dürfen, lässt sie außer Betracht, dass der Betriebsrat Änderungswünsche angemeldet hatte und sie – die Beklagte – diesen nicht in allen Punkten nachgekommen war. Nach der E-Mail von Herrn R an den Betriebsrat vom 20. Juni 2007 sollte es bei der Stichtagsregelung anstelle einer Regelung nach Jahrgängen für ältere Arbeitnehmer bleiben. Dies hätte der Beklagten Anlass gegeben, sich zu vergewissern, ob der Betriebsrat einen Beschluss gefasst hatte, der seinen Vorsitzenden gleichwohl zur Unterzeichnung der Betriebsvereinbarung ermächtigte. Da sie davon abgesehen hat, ist ihr Vertrauen insoweit nicht schutzwürdig. 
+ 
+ 
+ 
+  74  
+ 
+ (3) Das von der Beklagten angeführte Vertrauen auf eine Beschlussfassung durch den Betriebsrat ist auch nicht deshalb in besonderer Weise schützenswert, weil der Gegenstand der Betriebsvereinbarung von großer wirtschaftlicher Tragweite für das Unternehmen war. Die Beklagte wusste nach ihrem eigenen Vortrag bereits zum damaligen Zeitpunkt, dass die Umstellung der betrieblichen Altersversorgung von maßgeblicher finanzieller Bedeutung für den Bestand des Unternehmens war. Da der Betriebsratsvorsitzende das Gremium nach § 26 Abs. 2 Satz 1 BetrVG – nur – im Rahmen der von ihm gefassten Beschlüsse vertritt, hätte es ihr gerade in diesem Fall oblegen, im Vorfeld mit besonderer Umsicht zu handeln. So hätte sie etwa von ihrem – schon gesetzlich vorgesehenen – Recht Gebrauch machen können, nach § 29 Abs. 4 Satz 1 BetrVG die Anberaumung einer Sitzung zum Abschluss einer Betriebsvereinbarung über die zukünftige Gestaltung der betrieblichen Altersversorgung zu verlangen und daran teilzunehmen. Nach § 34 Abs. 2 Satz 1 BetrVG hätte sie dann Anspruch auf die abschriftliche Aushändigung des entsprechenden Teils der Sitzungsniederschrift gehabt. Dieser hätte wegen ihrer auf § 29 Abs. 3 BetrVG zurückzuführenden Teilnahme an der Sitzung des Betriebsrats auch eine – in ihrer Abwesenheit erfolgte – Beschlussfassung umfassen müssen  (vgl. BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 38, BAGE 177, 112) . Auf diese Weise hätte sich die Beklagte zumindest versichern können, dass der Unterzeichnung durch den Betriebsratsvorsitzenden – überhaupt – ein dessen Handeln legitimierender Beschluss zugrunde liegt. Dann hätte sie erkannt, dass am 19. Juni 2007 keinerlei Beschluss gefasst worden war. Nachdem durch den Geschehensablauf am 20. Juni 2007 Zweifel an der Fassung eines den Abschluss der Betriebsvereinbarung legitimierenden Betriebsratsbeschlusses entstanden waren, hätte die Beklagte ferner die Möglichkeit gehabt, in der beschriebenen Weise die Einberufung einer weiteren Betriebsratssitzung mit dem Ziel zu verlangen, den Abschluss der Betriebsvereinbarung entsprechend § 184 Abs. 1 BGB zu genehmigen. Die Beklagte hätte es dabei jedenfalls in der Hand gehabt, den mit Blick auf die Unwirksamkeit der BV 06/2007 bestehenden Schwebezustand zeitnah zu beenden, indem sie entweder ihre eigene Willenserklärung entsprechend § 178 Satz 1 BGB widerrufen oder den Betriebsrat entsprechend § 177 Abs. 2 Satz 2 BGB – erfolglos – aufgefordert hätte, sich zur Genehmigung zu erklären  (vgl. BAG 8. Februar 2022 – 1 AZR 233/21 – Rn. 33, aaO) . 
+ 
+ 
+ 
+  75  
+ 
+ ee) Ferner gebietet auch der Umstand, dass im Streitfall eine Genehmigung des Abschlusses der Betriebsvereinbarung nicht mehr möglich ist, weil der Betrieb aufgelöst wurde und ein Betriebsrat nicht mehr besteht, nicht die Gewährung von Vertrauensschutz. Da das bloße Bestehen einer solchen Heilungsmöglichkeit dem Arbeitgeber noch keinen Anspruch auf Genehmigung einräumt, ist ein Vertrauen auf eine solche Möglichkeit nicht in besonderer Weise schützenswert. 
+ 
+ 
+ 
+  76  
+ 
+ e) Dem Kläger ist es nicht nach § 242 BGB verwehrt, sich auf die Unwirksamkeit der BV 06/2007 zu berufen. 
+ 
+ 
+ 
+  77  
+ 
+ aa) Aus § 242 BGB folgt ua. der Grundsatz des Verbots widersprüchlichen Verhaltens („venire contra factum proprium“). Widersprüchliches Verhalten ist erst dann missbräuchlich, wenn für den anderen Teil ein Vertrauenstatbestand entstanden ist oder wenn andere besondere Umstände die Rechtsausübung als treuwidrig erscheinen lassen  (vgl. BAG 12. Juni 2024 – 7 AZR 141/23 – Rn. 58 mwN; 23. Januar 2018 – 3 AZR 448/16 – Rn. 38 mwN, BAGE 161, 335) . 
+ 
+ 
+ 
+  78  
+ 
+ bb) Danach hat sich der Kläger nicht unter Verstoß gegen Treu und Glauben auf die Unwirksamkeit der BV 06/2007 berufen. Es fehlt an besonderen Umständen, die sein Verhalten als rechtsmissbräuchlich erscheinen ließen. Allein der Umstand, dass er die Durchführung dieser Betriebsvereinbarung über Jahre hingenommen hat, hindert nicht die Geltendmachung ihrer – später erkannten – Unwirksamkeit. Ob es als eine unzulässige Rechtsausübung iSv. § 242 BGB angesehen werden kann, wenn ein Arbeitnehmer – etwa ein damaliges Betriebsratsmitglied – die Unwirksamkeit der BV 06/2007 in dem von Anfang an bestehenden Wissen geltend macht, dass es einen den Abschluss der Betriebsvereinbarung legitimierenden Beschluss zu keinem Zeitpunkt gegeben hat, bedarf im Streitfall keiner Entscheidung. 
+ 
+ 
+ 
+  79  
+ 
+ 3. Die unwirksame BV 06/2007 kann auch nicht entsprechend § 140 BGB in eine – wirksame – Gesamtzusage umgedeutet werden. 
+ 
+ 
+ 
+  80  
+ 
+ a) Nach der Rechtsprechung des Bundesarbeitsgerichts ist es nicht ausgeschlossen, eine unwirksame Betriebsvereinbarung entsprechend § 140 BGB in eine Gesamtzusage umzudeuten. Eine solche Umdeutung kann in Betracht kommen, wenn besondere Umstände die Annahme rechtfertigen, der Arbeitgeber habe sich unabhängig von der Betriebsvereinbarung auf jeden Fall verpflichten wollen, seinen Arbeitnehmern die in dieser vorgesehenen Leistungen zu gewähren  (vgl. ausf. dazu BAG 24. Januar 2024 – 10 AZR 33/23 – Rn. 45; 9. November 2021 – 1 AZR 206/20 – Rn. 26) . Das gilt nicht nur für den Fall der erstmaligen Schaffung einer betrieblichen Altersversorgung, sondern auch für die Verschlechterung einer bereits bestehenden  (vgl. BAG 23. Februar 2016 – 3 AZR 960/13 – Rn. 25, 37, BAGE 154, 144) . 
+ 
+ 
+ 
+  81  
+ 
+ b) Im Streitfall kommt eine Umdeutung der BV 06/2007 in eine Gesamtzusage schon deshalb nicht in Betracht, weil es für deren Wirksamkeit an der Ausübung der insoweit nach § 87 Abs. 1 Nr. 10 BetrVG erforderlichen Mitbestimmung des Betriebsrats fehlt. 
+ 
+ 
+ 
+  82  
+ 
+ aa) Nach § 87 Abs. 1 Nr. 10 BetrVG hat der Betriebsrat bei Fragen der betrieblichen Lohngestaltung, insbesondere der Aufstellung von Entlohnungsgrundsätzen und der Einführung und Anwendung von neuen Entlohnungsmethoden sowie deren Änderung mitzubestimmen. Das gilt auch für eine arbeitgeberfinanzierte betriebliche Altersversorgung. Das Mitbestimmungsrecht erstreckt sich zwar nicht auf die Entscheidung darüber, ob eine betriebliche Altersversorgung eingerichtet wird, welche finanziellen Mittel der Arbeitgeber dafür zur Verfügung zu stellen hat, welcher Personenkreis begünstigt und welcher Durchführungsweg beschritten werden soll. Sollen jedoch die für die betriebliche Altersversorgung seitens des Arbeitgebers zur Verfügung gestellten Mittel anders als bisher auf die begünstigten Arbeitnehmer verteilt werden, können die hierfür maßgeblichen Verteilungsgrundsätze als Teil der betrieblichen Lohngestaltung nur gemeinsam mit dem Betriebsrat festgelegt werden  (BAG 19. Juli 2005 – 3 AZR 472/04 – Rn. 34 mwN) . Auch der Wechsel der Durchführungsform ist mitbestimmungspflichtig, wenn damit eine Änderung der Leistungsordnung verbunden ist  (vgl. BAG 16. Februar 1993 – 3 ABR 29/92 – zu II 1 b der Gründe, BAGE 72, 229) . 
+ 
+ 
+ 
+  83  
+ 
+ bb) Die Ausübung des Mitbestimmungsrechts erfordert eine wirksame Willensbildung des Gremiums. Das gilt ungeachtet dessen, ob der Betriebsrat in Ausübung seiner Mitbestimmungsrechte eine Betriebsvereinbarung oder eine Regelungsabrede mit dem Arbeitgeber abschließt oder für eine von ihm geplante Maßnahme lediglich seine „Zustimmung“ erteilt. In allen Fällen erfordert dies eine entsprechende Beschlussfassung nach § 33 BetrVG  (vgl. BAG 21. Februar 2024 – 10 AZR 345/22 – Rn. 53 mwN; 23. Oktober 2018 – 1 ABR 26/17 – Rn. 29) . 
+ 
+ 
+ 
+  84  
+ 
+ cc) Wurde die Mitbestimmung nach § 87 Abs. 1 BetrVG nicht wirksam ausgeübt, hat dies nach der Theorie der Wirksamkeitsvoraussetzung im Verhältnis zwischen Arbeitgeber und Arbeitnehmer die Unwirksamkeit von den Arbeitnehmer belastenden Maßnahmen oder Rechtsgeschäften zur Folge. Damit wird verhindert, dass der Arbeitgeber dem Einigungszwang mit dem Betriebsrat durch Rückgriff auf arbeitsvertragliche Gestaltungsmöglichkeiten ausweicht. Maßnahmen zum Nachteil der Arbeitnehmer sind dabei nur solche, die bereits bestehende Rechtspositionen der Arbeitnehmer schmälern  (st. Rspr., vgl. etwa BAG 22. Juni 2010 – 1 AZR 858/08 – Rn. 38 mwN) . 
+ 
+ 
+ 
+  85  
+ 
+ dd) Ausgehend hiervon scheidet eine Umdeutung der BV 06/2007 in eine Gesamtzusage aus. Die Änderung der von der B AG erteilten Versorgungszusage war nach § 87 Abs. 1 Nr. 10 BetrVG mitbestimmungspflichtig. Sowohl der Durchführungsweg als auch die Leistungsgrundsätze sollten mit Wirkung zum 1. März 2007 geändert werden. Mangels eines Betriebsratsbeschlusses ist die Mitbestimmung nicht wirksam vom Betriebsrat ausgeübt worden mit der Folge, dass eine etwaige in der BV 06/2007 liegende Gesamtzusage der Beklagten die sich aus der Versorgungszusage aus dem Jahr 1980 ergebenden Rechte des Klägers nicht schmälern könnte. 
+ 
+ 
+ 
+  86  
+ 
+ III. Da dem Kläger damit auch über den 28. Februar 2007 bis zur Beendigung seines Arbeitsverhältnisses am 31. März 2022 Leistungen über die Pensionskasse und nach Maßgabe von deren Satzung und den Allgemeinen Versicherungsbedingungen zugesagt waren, muss die Beklagte nach § 1 Abs. 1 Satz 3 BetrAVG bei Eintritt des Versorgungsfalls „Alter“ für diejenigen Differenzen einstehen, die sich zwischen den dem Kläger von der Unterstützungskasse gewährten Leistungen und den Leistungen ergeben, die ihm für diesen Zeitraum zuständen, wenn seine betriebliche Altersversorgung weiterhin über die Pensionskasse durchgeführt worden wäre. 
+ 
+ 
+ 
+  87  
+ 
+ IV. Die Feststellungsklage ist damit begründet und – anders als die Beklagte meint – nicht lediglich „derzeit unbegründet“, weil nach der Überleitungsvereinbarung von November 2005 weiterhin nur eine Verhandlungspflicht der Betriebsparteien bestände. Abgesehen davon, dass die genannte Vereinbarung lediglich Absichtserklärungen enthält, scheidet eine Verhandlung mit dem Betriebsrat schon deshalb aus, weil dessen Amt infolge der Betriebsstilllegung erloschen ist und die Voraussetzungen für die Annahme eines Restmandats nach § 21b BetrVG nicht gegeben sind. Das Restmandat trägt lediglich dem Umstand Rechnung, dass die Amtszeit des Betriebsrats vorzeitig endet, wenn die betriebliche Organisation, für die er gebildet ist, wegfällt und er deshalb außerstande ist, die mit der Änderung der betrieblichen Organisation einhergehenden Beteiligungsrechte wahrzunehmen. Es setzt daher einen funktionalen Bezug zu den durch die Stilllegung, Spaltung oder Zusammenlegung ausgelösten Aufgaben des Betriebsrats voraus  (BAG 12. Juni 2019 – 1 AZR 154/17 – Rn. 72 mwN, BAGE 167, 53) . Daran fehlt es hier. 
+ 
+ 
+ 
+  88  
+ 
+ D. Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO. 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+     Gallner     
+ 
+ 
+          
+ 
+ 
+     Pessinger     
+ 
+ 
+          
+ 
+ 
+     Rinck     
+ 
+ 
+          
+ 
+ 
+ 
+ 
+          
+ 
+ 
+          
+ 
+ 
+     Wankel     
+ 
+ 
+          
+ 
+ 
+     Mertz     
+ 
+          
+          
+ 
+ 
+ 
+ 
+       
+     
+
+   
+
+
+ 
+   
+     
+       
+         
+              Seite drucken 
+         
+       
+     
+   
+   
+     
+       
+          
+       
+       Das Bundesarbeitsgericht 
+                   
+                               
+               
+                 
+                  Aktuelles und Veranstaltungen                 
+               
+                           
+                       
+               
+                 
+                  Das Bundesarbeitsgericht                 
+               
+                           
+                       
+               
+                 
+                  Entscheidungen                 
+               
+                           
+                       
+               
+                 
+                  Ihr Besuch bei uns                 
+               
+                           
+                       
+               
+                 
+                  Presse                 
+               
+                           
+                       
+               
+                 
+                  Service                 
+               
+                           
+                         
+       
+         
+           
+       
+       
+        DE 
+       
+     
+       
+       
+        EN 
+       
+     
+            
+            Cookie-Einstellungen  
+           
+           
+             
+               
+                RSS Feeds                 
+                  
+               
+             
+           
+         
+            Impressum  
+  Datenschutz  
+  Barrierefreiheit  
+  Inhalte  
+  © 2026 Das Bundesarbeitsgericht       
+     
+   
+   
+  
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Informationen 
+ 
+Die mündlichen Verhandlungen vor dem Bundesarbeitsgericht sind öffentlich. Eine Teilnahme ist ohne Anmeldung möglich.
+Bei Besuchen von Gruppen ist eine rechtzeitige Anmeldung mit dem nachfolgenden Formular erforderlich. Die mündlichen Verhandlungen finden in der Regel von Dienstag bis Donnerstag, jeweils mit Beginn am Vormittag statt. Die Termine zu den Verhandlungen finden Sie  hier . 
+  
+Einzelpersonen können ohne vorherige Anmeldung an mündlichen Verhandlungen im Bundesarbeitsgericht teilnehmen. Auch hier empfehlen wir jedoch eine schriftliche Anmeldung. 
+ 
+ Ist zu einer Sitzung eine größere Anzahl von Zuhörern oder Vertretern der Medien zu erwarten, werden Platzkarten ausgegeben. Das jeweilige Verfahren wird im Einzelfall geregelt. Bitte haben Sie Verständnis dafür, dass aufgrund der organisatorischen Gegebenheiten und der großen Nachfrage nicht alle Anfragen positiv beantwortet werden können. 
+ 
+ Hinweise für Besucherinnen und Besucher: 
+ 
+ Für den Zutritt zum Gebäude des Bundesarbeitsgerichts muss sich jeder Besucher ggf. mit einem gültigen Personalausweis oder Reisepass ausweisen können. Größere Gepäckstücke (Koffer/Rucksäcke) dürfen nicht in die Sitzungssäle mitgenommen werden. In Einzelfällen können Sicherheitskontrollen durchgeführt werden, die zu Wartezeiten führen können. Wird die Durchführung von Sicherheitskontrollen (Taschenkontrolle, Einsatz von Personenscanner und/oder Taschenscanner) durch Besucher verweigert, wird der Person/den Personen der Zugang zum Gebäude nicht gestattet. 
+Besucherinnen und Besucher sind Ton-, Bild- und Filmaufnahmen während der Verhandlung untersagt. In den Sitzungssälen sind Mobil-Telefone auszuschalten. 
+ 
+ Für den Sitzungsbesuch am Bundesarbeitsgericht gibt es zwar keine gesonderte Kleiderordnung, aus Respekt vor der Rechtsprechung und angesichts der Bedeutung, die diese für die Betroffenen hat, ist es jedoch angemessen, eine offizielle und dem Anlass entsprechende Kleidung zu tragen. Dies beinhaltet auch, dass Sitzungen in den Sommermonaten nicht in kurzen Hosen, Miniröcken und Flip-Flops etc. aufgesucht werden. 
+ 
+ Essen und Trinken sind in den Sitzungssälen nicht gestattet. Das gesamte Gebäude des Bundesarbeitsgerichts einschließlich des Innenhofes ist rauchfrei. 
+ 
+ Bitte füllen Sie nun das nachfolgende Formular für Ihren geplanten Sitzungsbesuch aus. 
+
+ Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.  
+ 
+ Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer  Datenschutzerklärung . 
+
+ 
+
+ Felder, die mit  *  gekennzeichnet sind, sind Pflichtfelder. 
+
+ 
+ Ihre Kontaktdaten 
+
+ 
+
+ 
+ Vorname    
+ 
+
+ 
+ Nachname    
+ 
+
+ 
+ E-Mail-Adresse    
+ 
+
+ 
+ Telefonnummer    
+ 
+
+ 
+ Organisation    
+ 
+
+ 
+ Anzahl der Teilnehmer (max. 30)    
+ 
+
+ 
+ Betreff    
+ 
+
+ 
+ 
+
+ 
+ Sitzungsinformationen 
+ 
+
+
+ 
+ Senat    – Bitte auswählen –  9. Senat  8. Senat  7. Senat  6. Senat  5. Senat  4. Senat  3. Senat  2. Senat  10. Senat  1. Senat   
+ 
+
+ 
+ Tag des Besuchs    
+ 
+
+ 
+ Aktenzeichen    
+ 
+
+ 
+ Weitere Kommentare 
+    
+ 450 
+ Zeichen übrig  
+
+ 
+ 
+
+    Please leave this field empty.   
+
+ 
+        Ja, ich habe die  Datenschutzerklärung  zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.  *      
+ 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Informationen 
+ Mit dem nachfolgenden Formular bitten wir Medienvertreter, sich für einen Sitzungstermin beim Bundesarbeitsgericht anzumelden. 
+   
+ Fotos- und Filmaufnahmen im Sitzungssaal sind nur durch Medienvertreter und in der Regel nur vor Einzug des Senats gestattet. Eine gesonderte Akkreditierung ist hierfür nicht erforderlich. Wir bitten bei Interesse dennoch um einen Hinweis mit folgendem Formular. 
+ 
+ Ist die Aufnahme der Verkündung einer Entscheidung in Bild und Ton zugelassen (§ 169 Abs. 3 Satz 1 GVG iVm. § 72 Abs. 6 ArbGG) wird dies unter  Sitzungstage  gesondert bekannt gegeben. Mit der Veröffentlichung beginnt das Akkreditierungsverfahren. 
+ 
+ Für Fernseh- und Filmaufnahmen von der Entscheidungsverkündung werden ggf. Medienpools gebildet. Zugelassen werden zwei Fernseh-/Filmteams (ein öffentlich-rechtlicher und ein privat-rechtlicher Sender mit jeweils einer Kamera). Die Poolführer verpflichten sich, gefertigte Fernseh- und Filmaufnahmen anderen Fernsehsendern bzw. Film-Aufnehmenden, die sich nicht erfolgreich akkreditiert haben, auf Anfrage unverzüglich zur Verfügung zu stellen. Ein Medienvertreter, der die erforderlichen technischen Voraussetzungen nicht erfüllt, kann nicht Poolführer werden. Die Bereitschaft zur Übernahme einer Poolführerschaft ist mit dem Akkreditierungsgesuch ausdrücklich zu erklären. Die Vergabe der Poolführerschaft erfolgt nach der Reihenfolge des Eingangs der Akkreditierung; bei etwaiger Zeitgleichheit entscheidet das Los. 
+
+ Zugelassen sind höchstens zwei TV- bzw. Filmkameras. Fernseh- und Filmaufnahmen dürfen nur von den zugewiesenen Plätzen aus gefertigt werden. Tonaufnahmen erfolgen über einen zentralen Tonabnahmepunkt. Während der Entscheidungsverkündung sind die Kameras an ihren Plätzen zu belassen und ausschließlich auf die Richterbank zu richten. Kameraschwenks sind nur innerhalb der seitlichen Begrenzungen der Richterbank zulässig. Auflagen des Gerichts sind einzuhalten. Anweisungen der Wachtmeister ist Folge zu leisten. 
+
+ Anregungen für eine Zulassung können Sie mit dem nachfolgenden Formular an die Pressestelle richten. Nach 10:00 Uhr des Vortags der Sitzung kann eine Beschlussfassung und Akkreditierung nicht mehr gewährleistet werden. 
+
+ Für Interviews mit den Prozessbeteiligten steht das Foyer vor dem Sitzungssaal zur Verfügung.  
+ 
+ Wir weisen darauf hin, dass eine Entscheidung in der Sache nicht notwendig noch am Tag der mündlichen Verhandlung verkündet wird. Der erkennende Senat beraumt in diesem Fall einen gesonderten Verkündungstermin an. 
+ 
+ Ob die angegebenen Termine bestehen geblieben sind, erfragen Sie bitte bei der jeweiligen Senatsgeschäftsstelle des Bundesarbeitsgerichts oder bei der Pressestelle. 
+ 
+ Wenn Sie das nachfolgende Formular ausfüllen, helfen Sie uns einzuschätzen, wie groß das öffentliche Interesse an einem Verhandlungstermin ist. So können wir versuchen, einen Sitzungssaal auszuwählen, in dem nach Möglichkeit die gesamte interessierte Öffentlichkeit Platz findet. 
+ 
+ Eine Platzreservierung wird nicht vorgenommen. 
+
+ Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet.  
+ 
+ Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer  Datenschutzerklärung . 
+
+ 
+
+ Felder, die mit  *  gekennzeichnet sind, sind Pflichtfelder. 
+
+ 
+ Ihre Kontaktdaten  
+
+ 
+ Vorname    
+ 
+
+ 
+ Nachname    
+ 
+
+ 
+ E-Mail-Adresse    
+ 
+
+ 
+ Telefonnummer    
+ 
+
+ 
+ Medienorganisation    
+ 
+
+ 
+ Anzahl der Teilnehmer    
+ 
+
+ 
+ 
+
+ 
+ Sitzungsinformationen 
+ 
+
+
+ 
+ Senat    – Bitte auswählen –  9. Senat  8. Senat  7. Senat  6. Senat  5. Senat  4. Senat  3. Senat  2. Senat  10. Senat  1. Senat   
+ 
+
+ 
+ Tag des Besuchs    
+ 
+
+ 
+ Aktenzeichen    
+ 
+
+ 
+ Weitere Kommentare 
+    
+ 450 
+ Zeichen übrig  
+
+ 
+ 
+
+    Please leave this field empty.   
+
+ 
+        Ja, ich habe die  Datenschutzerklärung  zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten.  *      
+ 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+   
+      
+   
+   
+      
+   
+ 
+ 
+ 
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/bag/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+ 
+
+  
+  
+ 
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+ 
+  
+ 
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-05-24 10:46:16+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"This contact form is placed in the wrong place.":["Dieses Kontaktformular wurde an der falschen Stelle platziert."],"Error:":["Fehler:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+ 
+ 
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.bundesarbeitsgericht.de\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+ 
+  
+  
+ 
+var wpcf7cf_global_settings = {"ajaxurl":"https://www.bundesarbeitsgericht.de/wp-admin/admin-ajax.php"};
+//# sourceURL=wpcf7cf-scripts-js-extra
+ 
+  
+ 
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https://www.bundesarbeitsgericht.de/wp-admin/admin-ajax.php","post_id":"2141852","plugin_dir":"https://www.bundesarbeitsgericht.de/wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"third_party":0,"advanced":0},"geo_location":"false","force_reload":"false","is_single":"1","hide_save_btn":"false","current_user":"0","cookie_expiration":"30","script_delay":"100","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"_de","wp_consent_api":"false"};
+//# sourceURL=moove_gdpr_frontend-js-extra
+ 
+  
+ 
+var gdpr_consent__strict = "true"
+var gdpr_consent__thirdparty = "false"
+var gdpr_consent__advanced = "false"
+var gdpr_consent__cookies = "strict"
+//# sourceURL=moove_gdpr_frontend-js-after
+ 
+
+    
+   
+   
+   
+     
+             
+         
+          
+ 
+   
+     Datenschutzübersicht 
+   
+ 
+
+   
+     
+       Notwendige Cookies 
+     
+   
+
+
+
+
+         
+       
+       
+    
+       
+            
+             
+               Datenschutzübersicht 
+             
+            
+ 
+   
+ 
+            
+           
+           
+
+             
+              
+ 
+     
+  	 Diese Website verwendet Cookies, um die Online-Nutzung zu verbessern. Cookies die als notwendig kategorisiert sind, werden in Ihrem Browser gespeichert, da sie für das Funktionieren der Grundfunktionen der Website unerlässlich sind. 
+ Weitere Informationen:  Datenschutzerklärung  
+  	   
+   
+
+ 
+               
+   
+     Notwendige Cookies 
+     
+       Notwendige Cookies sind für das einwandfreie Funktionieren der Website absolut notwendig. Diese Kategorie umfasst nur Cookies, die grundlegende Funktionalitäten und Sicherheitsmerkmale der Website gewährleisten (z. B. für die "Hoher Kontrast"-Einstellung). 
+Diese Cookies speichern keine persönlichen Informationen. 
+       
+         
+           
+                 
+               Cookies aktivieren oder deaktivieren         
+               
+               
+                 
+                   aktiviert 
+                   deaktiviert 
+                 
+               
+             
+           
+           
+         
+         
+       
+       
+                                              
+     
+     
+   
+   
+              
+              
+              
+             
+             
+           
+           
+           
+             
+	 
+             
+ 
+   
+            
+           
+       
+       
+
+        
+
+     
+     
+   
+   
+   
+
+
+ 
+
+ 

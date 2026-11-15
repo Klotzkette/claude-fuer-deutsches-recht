@@ -1,0 +1,28 @@
+name: Kürzung bei der Kasse – wer zahlt die Differenz im Niederrhein-Verbund?
+plugin: bav-strategie-konzern
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Der deklarierte Originalbestand ist vorhanden.
+  min: 35
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Die getrennte Lesefassung ist vorhanden.
+  path: gesamt-pdf/bav-pensionskasse-niederrhein-verbund_gesamt.pdf
+- id: fachpruefung-1
+  check_type: human_review
+  description: Welche Leistung wurde vom Arbeitgeber zugesagt, welche zahlt der Träger
+    und welche Bestandteile sind unterschiedlich?
+- id: fachpruefung-2
+  check_type: human_review
+  description: Welche Zusage-, Übergangs- und Anpassungsregeln gelten für die jeweiligen
+    Personengruppen?
+- id: fachpruefung-3
+  check_type: human_review
+  description: Welche Unterlagen ermöglichen eine nachvollziehbare Beschäftigtenantwort
+    und eine zutreffende Zahlungsvorlage?
+- id: fortsetzung
+  check_type: human_review
+  description: Neue Zusage- und Zahlungsbelege personengenau einarbeiten. Nur die
+    betroffenen Beträge und Begründungen ändern und die bisherige Bearbeitung nachvollziehbar
+    erhalten.

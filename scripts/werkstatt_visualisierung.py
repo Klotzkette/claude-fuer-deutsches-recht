@@ -192,6 +192,13 @@ LABEL_OVERRIDES = {
 # Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
 # nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
 ROUTE_OVERRIDES = {
+    "bav-strategie-konzern": (
+        "Welches Unternehmen schuldet welcher Personengruppe welche Versorgung und was verändert die geplante Maßnahme?",
+        "Zeige zunächst eine Kohortenübersicht mit Zusagefassung, Arbeitgeber, bisheriger Leistung und geplanter Änderung. Bei Transaktionen ergänze eine beschriftete Verbindung zwischen Arbeitgeberzusage, Versorgungsträger, Finanzierung und Sicherung; diese vier Ebenen bleiben getrennt.",
+        "Eine Auswahl auf Gesellschaft, Kohorte oder belegten Stichtag zeigt Originalunterlage und Berechnung. Eine geänderte Dynamik, Finanzierung oder Struktur bleibt ein gesondertes Szenario mit Differenz zum Ausgangsstand. Weder eine rechnerische Ersparnis noch eine grafische Zuordnung entscheidet über die rechtliche Zulässigkeit oder entlässt einen Arbeitgeber aus seiner Haftung.",
+        "Gesellschaft und Rolle, Kohorten- oder pseudonyme Personenkennung, Zusagefassung und -datum, Stichtag, Leistungsformel, tatsächliche Zahlung, Finanzierungs- und Sicherungsunterlage sowie genaue Belegstelle",
+        "die ausformulierte Entscheidungsvorlage, Vertragsregelung oder Anpassungsmitteilung mit nachrechenbarer Vergleichsrechnung und ausdrücklich offenen rechtlichen oder versicherungsmathematischen Fragen",
+    ),
     "eu-sanktionspruefer": (
         "Welche Parteien, Güter, Dienstleistungen und Zahlungswege berühren welches EU-Sanktionsregime?",
         "Zeige die Transaktionskette mit Parteien, Eigentum und Kontrolle, Gütern oder Dienstleistungen, Zielland sowie Banken und Zahlungsweg. Verbinde jeden möglichen Listentreffer mit Identitätsmerkmalen, amtlicher Listenquelle und Abrufdatum; offene Zuordnungen sichtbar lassen.",

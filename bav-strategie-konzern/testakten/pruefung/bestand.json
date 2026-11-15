@@ -1,0 +1,1553 @@
+{
+  "schema_version": 1,
+  "generators": [
+    {
+      "path": "scripts/build-bav-konzern-akten.py",
+      "sha256": "2e5e0bb2213cf5a6346ae6cc3742b465cce4f5749e9dfae64322c168431565c2"
+    },
+    {
+      "path": "scripts/bav_konzern_render.py",
+      "sha256": "dceee9bb9cdf9ef3f5bd8a3f5e676164827a53850ffba507a4e473fe53756110"
+    },
+    {
+      "path": "scripts/bav_konzern_office.mjs",
+      "sha256": "99e14361f734d816e9236537a640c97b3efa6911d18f8258e57a8629a0070a72"
+    },
+    {
+      "path": "scripts/build-bav-konzern-exports.py",
+      "sha256": "daedcc6285bca73888441283d6524a5c7a3d9c7afebdf3c794294c40d0cedcab"
+    },
+    {
+      "path": "scripts/build-testakten-einzelpdf-zips.py",
+      "sha256": "01914006c01625b4f9f6b65e4daf05e827477e03d7e0dc05f61d80782fb206e1"
+    },
+    {
+      "path": "scripts/build-testakte-gesamt-pdf.py",
+      "sha256": "122f1fa2db31bb26acdd35becd56c948c895add6af9c5562480edfeacf503b95"
+    },
+    {
+      "path": "scripts/testakte_office_pdf.py",
+      "sha256": "6db5ba03c30f388ae80d17eda040dd85ca9c08acdc6b0b8d17c3b1c7dfac9473"
+    },
+    {
+      "path": "scripts/testakte_einzelpdf_common.py",
+      "sha256": "ffc6ffe64ae04ddf0e0d863e479ef0e3b780572da812553933b4ae7b4aadd1dc"
+    }
+  ],
+  "cases": [
+    {
+      "slug": "bav-strategie-konzern-meissner-rheinwerk-ag",
+      "fixture": {
+        "path": "scripts/data/bav-konzern-faelle/bav-strategie-konzern-meissner-rheinwerk-ag.json",
+        "sha256": "e3a2f34eb478d1781fd29f26b4cfe7b29557caa0acbf4a2f8b386535fdf0b179"
+      },
+      "sources": [
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/24_Archivfund_Stuttgart.eml",
+          "sha256": "9e46de2d5ae3ae26d325a0412319e145debc33250e2caa0955d9acbff4710d90"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/25_Freistellungsnachtrag_Scholz.pdf",
+          "sha256": "6b0a664c974f7e7b4aa726494e139a6e305be08ff4e821bd32ef16b8518591e8"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/26_Bremen_Faktorhinweis.eml",
+          "sha256": "95798671d60e28e4690f541af6df59fbb7f84f89d10528b031962580867bd6ed"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/27_Vorstand_Zusatzauftrag.eml",
+          "sha256": "dd546abc97b4937b0e5650ee3a63ac7150f0e93fa0faed76f4d7b4f445e611d4"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Fortsetzung/36_Archivabgleich.csv",
+          "sha256": "a34bdf14fd55a72faca613eb5e2af028acd9ad7a701d99b64f1645cfcdd92ff7"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/01_Mandatsanfrage.eml",
+          "sha256": "4db4c8f098b609cd9e751b43cf9c7f8e025999a1446e65c7b2efab0a8defa143"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256": "220f33fe9f94311a3d6d41ec775591b0bdef44e362e2f6d4eaedf45a4d263c89"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/03_Versorgungsordnung_Duesseldorf_1987.pdf",
+          "sha256": "11c1762e68db7ceebb77a046aa4ab4bd52d67a94a9c97cceebd8cdda0dd67300"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/04_Versorgungsordnung_Stuttgart_2002.pdf",
+          "sha256": "600248c9004fc089ace500f17aa4588d02c43fd7b0dc171d87488c7e86f586f4"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/05_Versorgungsordnung_Bremen_2014.pdf",
+          "sha256": "a1dc42d346a7f6efcc220dbcf9289f977f64d97a7efe572239101f03dff3cebd"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/06_Nachtrag_Schliessung_1999.pdf",
+          "sha256": "4a917abeeacd8e5845ddef64bdc05f79fbbac46305fb4d21e83ee11f4090e54c"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/07_Uebernahmebestaetigung_Standortwechsel_2003.pdf",
+          "sha256": "fc3e54b4caa9e0c9a39d2860c67a0f828e974443bed2b512276a782f27177378"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/08_Projektauftrag_Rheingold.pdf",
+          "sha256": "6f55b2762799c84402eb6aaf383b00475f66ff3946782c8694dc3ee2da162545"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/09_Konzernstruktur_Arbeitgeber.pdf",
+          "sha256": "a900e9429b9c689acce5b3018959878f31f523388283dfb8253392ce9b1bbce6"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/10_Entwurf_Konzernordnung_2027.docx",
+          "sha256": "3a66fabc6adc4a0a6ab19a0ebfce1374114d8d128ba9bba618e14c1090c141d9"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/11_KBR_Antwort.pdf",
+          "sha256": "0fa7644ddbfd42aef65925db77e66eb6d8401fc21934cdec5820ced1b2ab59c7"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/12_GBR_Beauftragung_Information.pdf",
+          "sha256": "8e8c4557411ef87bff0fe8b69e7c303f3ee3e9597d15b52ff9ee0de89774eb0c"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/13_Stuttgart_Personalarchiv.eml",
+          "sha256": "9f664f0934b493dde1464566cd78f14f53cfb38de68f213af0eeb52927cad29b"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/14_CFO_Zielbild.eml",
+          "sha256": "103fb4048601f16451471b93dc7347a23f050e4c7f8936271ae8fedb84c22143"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/15_Controlling_Planungsgrundlagen.pdf",
+          "sha256": "e1e3ab2eef0045d417921580797e81554c66a9b6b031ba15d9ba9a5be741f23f"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/16_Berechnungsauftrag_Anbieter.pdf",
+          "sha256": "054d5cef4ed8fedbd0af9041e7a0d19904221634c5781987e6c618619a65be38"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/17_Personalgespraech_Scholz.docx",
+          "sha256": "9e8685358973417bca298384c47baeca4aaa6a831c7b0ffe73db05c3b563cf6d"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/18_Bremen_Rueckfrage.eml",
+          "sha256": "c0c20865e772e92185a19d9206e60484387c40b9301f946d6f468cf3b06cc856"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/19_Gruppenvertrag_Bremen.pdf",
+          "sha256": "722e2c7431f6b4fc0b4a2142060489156e28193e12d958bd41f444fa55ae7e0f"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/20_Treasury_CTA_Bestand.pdf",
+          "sha256": "2c761eb20d36d2f49847596512dcd87df070910dce2b6ff2060e7cdfae92083e"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/21_Protokoll_Lenkungskreis.docx",
+          "sha256": "a6eca3fe7f3397bb31276cd1d72895cc0d724fd58285615347c26d9901285646"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/22_Teams_Projektchat.png",
+          "sha256": "8c26bd19c154ac0af7b78732101803e44eafbde3913a1f3483da96f4356f9bac"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/23_Budgetfreigabe.pdf",
+          "sha256": "a2e768c314e7b5f9282b0e133043aca6adced91e686bb1a4c007d6ee219befae"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/28_Auswahl_48_Personen.txt",
+          "sha256": "d654a7adbb0d68ff3a759bad79a3eaffa0ccee5f4bc27fc6378686ed7b34310f"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/29_HR_Arbeitspaket_Datenfreigabe.docx",
+          "sha256": "2ec23bd33a896c03389f0f06ec0b941c7a48df03014b6159887554e233707ec6"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/30_Bestandsregister.xlsx",
+          "sha256": "43cd8cb7aa4a611eb146060be3290179456186cd7ff58d4be9aadbc632bdf192"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/31_Personenlos_48.xlsx",
+          "sha256": "90fca43d298b6f782d2e699257fa6977bc022e815e54bf171a4608adcd53e721"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/32_Pensionen_Zahlungslauf.csv",
+          "sha256": "b584c8206c8562780d2c0c14c3a2a50d931baa6ea17a88731ba389b382f97fc0"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/33_Projekt_Dokumenteneingang.csv",
+          "sha256": "4b4a4f75759354393136e66ee8a266e29f7abe6d3127ef41281524ae017eee35"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/34_Lenkungskreis.pptx",
+          "sha256": "1b1cc8e7e0b4a0b0b171a18a85ae94cc71db7cc2a71c4bfd5c6e5e68517b16dd"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/35_Datenraum_Ansicht.png",
+          "sha256": "0d2b5d1ded10a8d69e77288bbc861d3b2ed2a21896238c86848e652474d641c9"
+        },
+        {
+          "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/Grundakte/37_Verguetungsvereinbarung.pdf",
+          "sha256": "5d99cffcd3c365c1d265ddfb2b580602baa99d23cf753f5d4472a11b29583236"
+        }
+      ],
+      "pdf_zip": {
+        "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip",
+        "sha256": "c2d14c9b48185957c7488090696753c0e39ab8cadb3d43373033febb7d6492e2",
+        "members": [
+          {
+            "path": "Fortsetzung/24_Archivfund_Stuttgart.pdf",
+            "sha256": "199a6d61940cae2a3303402eba9c75c3b4791e3081b54b5a4af618b79fa35439",
+            "pages": 1,
+            "text_sha256": "784b7afbc08641efe7fa3ae52fe1dced2411cfa38136a8262a44c761fb4dc07b"
+          },
+          {
+            "path": "Fortsetzung/25_Freistellungsnachtrag_Scholz.pdf",
+            "sha256": "6b0a664c974f7e7b4aa726494e139a6e305be08ff4e821bd32ef16b8518591e8",
+            "pages": 1,
+            "text_sha256": "32e55ef35666b304cc90d0e186bb279d49c3ffe43e84ff8bded32f1f503f7f60"
+          },
+          {
+            "path": "Fortsetzung/26_Bremen_Faktorhinweis.pdf",
+            "sha256": "c1d16733b797c6662ede231029662cf8812bcca4a35d6c02cda17daf2ab6f111",
+            "pages": 1,
+            "text_sha256": "ed609ea472c5958cc180be8ccae36742e8eda352502b17fab2cd001e936876cf"
+          },
+          {
+            "path": "Fortsetzung/27_Vorstand_Zusatzauftrag.pdf",
+            "sha256": "4cdddbcf6af35c821faa6e77dca60dbef383519227b662eedda04e17e84b807e",
+            "pages": 1,
+            "text_sha256": "728e67dd81b855b126ce065ba12c06accfb1baced766a345e7c129b487394699"
+          },
+          {
+            "path": "Fortsetzung/36_Archivabgleich.pdf",
+            "sha256": "d22d8d0715129cd31f325b2c6e877d63da421c0a75edda0fa26cdd00dcb6d83a",
+            "pages": 1,
+            "text_sha256": "280f3bbb88f3c099e99209bd727ce15bcf384c7606309232afdc54eca5cf7cc1"
+          },
+          {
+            "path": "Grundakte/01_Mandatsanfrage.pdf",
+            "sha256": "40b58c7431a255de1ffd22599cedfdb2b1954a697f84d1369b7dd33e8960b70b",
+            "pages": 1,
+            "text_sha256": "dac279f79550f62cafefccb26d3c4adf1e6c6dd8cd00b5e714354978886ba973"
+          },
+          {
+            "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+            "sha256": "220f33fe9f94311a3d6d41ec775591b0bdef44e362e2f6d4eaedf45a4d263c89",
+            "pages": 2,
+            "text_sha256": "b6e27bba080dd05ca0eb2ad60cad18ff8364760b76c4d7e420650754c5d3badc"
+          },
+          {
+            "path": "Grundakte/03_Versorgungsordnung_Duesseldorf_1987.pdf",
+            "sha256": "11c1762e68db7ceebb77a046aa4ab4bd52d67a94a9c97cceebd8cdda0dd67300",
+            "pages": 3,
+            "text_sha256": "e77f97ba081c6e736d0870daa09dbed56f06af52256cf982ca4d381cb1c4a0e1"
+          },
+          {
+            "path": "Grundakte/04_Versorgungsordnung_Stuttgart_2002.pdf",
+            "sha256": "600248c9004fc089ace500f17aa4588d02c43fd7b0dc171d87488c7e86f586f4",
+            "pages": 3,
+            "text_sha256": "f310b53884f48222676f8b12550aa6eafca8b5bd405aac69083bc931e78729a5"
+          },
+          {
+            "path": "Grundakte/05_Versorgungsordnung_Bremen_2014.pdf",
+            "sha256": "a1dc42d346a7f6efcc220dbcf9289f977f64d97a7efe572239101f03dff3cebd",
+            "pages": 3,
+            "text_sha256": "5bae11484156158ed35ddff87d2fce3419b5d2f95652023551fb93993baddef3"
+          },
+          {
+            "path": "Grundakte/06_Nachtrag_Schliessung_1999.pdf",
+            "sha256": "4a917abeeacd8e5845ddef64bdc05f79fbbac46305fb4d21e83ee11f4090e54c",
+            "pages": 1,
+            "text_sha256": "da25c4d3ecc7fe50a347dc3aba0fab19b0c453351325f6af6a70e5d9a2a6f005"
+          },
+          {
+            "path": "Grundakte/07_Uebernahmebestaetigung_Standortwechsel_2003.pdf",
+            "sha256": "fc3e54b4caa9e0c9a39d2860c67a0f828e974443bed2b512276a782f27177378",
+            "pages": 1,
+            "text_sha256": "ab45f8d11049d049d21e40000f471aecacae4e3df3d5a7eaa5ede1b344b76ee0"
+          },
+          {
+            "path": "Grundakte/08_Projektauftrag_Rheingold.pdf",
+            "sha256": "6f55b2762799c84402eb6aaf383b00475f66ff3946782c8694dc3ee2da162545",
+            "pages": 1,
+            "text_sha256": "2f865aa7eb29fca31ffb5df1956fd3195830bb52a30243c546eaa4fd9b53665a"
+          },
+          {
+            "path": "Grundakte/09_Konzernstruktur_Arbeitgeber.pdf",
+            "sha256": "a900e9429b9c689acce5b3018959878f31f523388283dfb8253392ce9b1bbce6",
+            "pages": 1,
+            "text_sha256": "b7f0103af37957db9b73b5d6637093f7c8cb13b8520d71b8b81c98b87adf0d25"
+          },
+          {
+            "path": "Grundakte/10_Entwurf_Konzernordnung_2027.pdf",
+            "sha256": "2aaebaabf001c5db484def8ab234a4df0549237ec873acf85aef2fce228242a1",
+            "pages": 2,
+            "text_sha256": "3c9b6885ea1dc86e9a66b8eb999014adf05a51e6a19748de6139b691c9d750a3"
+          },
+          {
+            "path": "Grundakte/11_KBR_Antwort.pdf",
+            "sha256": "0fa7644ddbfd42aef65925db77e66eb6d8401fc21934cdec5820ced1b2ab59c7",
+            "pages": 1,
+            "text_sha256": "5d86466989d3ff0245f44d5986c02823c50c22d9d157062d5daddbae3a506329"
+          },
+          {
+            "path": "Grundakte/12_GBR_Beauftragung_Information.pdf",
+            "sha256": "8e8c4557411ef87bff0fe8b69e7c303f3ee3e9597d15b52ff9ee0de89774eb0c",
+            "pages": 1,
+            "text_sha256": "2c6036e17cd0969588c3274b6f9d482adc64087d7e451f78596e8bf9a0d6ea5b"
+          },
+          {
+            "path": "Grundakte/13_Stuttgart_Personalarchiv.pdf",
+            "sha256": "260712e98ae0fda7f0b3c0f21bf86d1f259f1a7888b60c518f08f4f548675c67",
+            "pages": 1,
+            "text_sha256": "4558ce76d78bf5f1df0ab8803785f71c799550ac9f94a748cb5ab6c3b1638d2a"
+          },
+          {
+            "path": "Grundakte/14_CFO_Zielbild.pdf",
+            "sha256": "c06e90fdbdb36fa7702944f2ee6d96045b14cec3ca43b171e82025a37359a121",
+            "pages": 1,
+            "text_sha256": "719f3497342d09d95fb9b30412c5c44d76eeab250fc1213795854d8346616e0a"
+          },
+          {
+            "path": "Grundakte/15_Controlling_Planungsgrundlagen.pdf",
+            "sha256": "e1e3ab2eef0045d417921580797e81554c66a9b6b031ba15d9ba9a5be741f23f",
+            "pages": 1,
+            "text_sha256": "1a0dcfb06c5f6ba852eb76a2817cfdf25cde622fdce3564456ec50eab3e4c2dd"
+          },
+          {
+            "path": "Grundakte/16_Berechnungsauftrag_Anbieter.pdf",
+            "sha256": "054d5cef4ed8fedbd0af9041e7a0d19904221634c5781987e6c618619a65be38",
+            "pages": 1,
+            "text_sha256": "f6d2879cd947221c92802e4a302bec45ff4a9a42488bdad267d8ee8f572b30a0"
+          },
+          {
+            "path": "Grundakte/17_Personalgespraech_Scholz.pdf",
+            "sha256": "998dafc2e40cccf06f74aa33b5974bfb19acd1a8765364eeea0782321a858a3f",
+            "pages": 1,
+            "text_sha256": "c104d65334a9bd8790d276cc955fcf7a15f07adc6eff64e94ab5746d5d416fd7"
+          },
+          {
+            "path": "Grundakte/18_Bremen_Rueckfrage.pdf",
+            "sha256": "c36391c9f3459a0fb683eff4560aeb55cd844b892c40bafffe3bd12a74c8437a",
+            "pages": 1,
+            "text_sha256": "6b34c6ef9d40dd29738a2762aed0a280ead8be51523f00d24904c62c0680a3db"
+          },
+          {
+            "path": "Grundakte/19_Gruppenvertrag_Bremen.pdf",
+            "sha256": "722e2c7431f6b4fc0b4a2142060489156e28193e12d958bd41f444fa55ae7e0f",
+            "pages": 2,
+            "text_sha256": "eaa329f71bec966f587484201a5b3a56c8f00d5d0be30f063d66cf8063ccaed9"
+          },
+          {
+            "path": "Grundakte/20_Treasury_CTA_Bestand.pdf",
+            "sha256": "2c761eb20d36d2f49847596512dcd87df070910dce2b6ff2060e7cdfae92083e",
+            "pages": 1,
+            "text_sha256": "3490f2fd711e00c91296c4ab43bed0a77acd78d4f5d42e09f5254bdf5593f1b3"
+          },
+          {
+            "path": "Grundakte/21_Protokoll_Lenkungskreis.pdf",
+            "sha256": "f5a56823125a6852bdf75688e870a139c2e6d7f96452d5671d5e889ab044beaa",
+            "pages": 1,
+            "text_sha256": "45a7bff2c15baad2a4ad94aaf8d35c55b73e93a41ed05a527ae69a74c910061c"
+          },
+          {
+            "path": "Grundakte/22_Teams_Projektchat.pdf",
+            "sha256": "f8f7fe4cff967c5fceb4e30c652b9ca296d997417ba46a5aad03202168915d75",
+            "pages": 1,
+            "text_sha256": "c6caedf3b85a76edf07aae22ff5599006ebaa3b286f5ac8970004d481314c27a"
+          },
+          {
+            "path": "Grundakte/23_Budgetfreigabe.pdf",
+            "sha256": "a2e768c314e7b5f9282b0e133043aca6adced91e686bb1a4c007d6ee219befae",
+            "pages": 1,
+            "text_sha256": "f87aee5aca4c1563ff3542df5c4881a731f8c84c724355b3c44c33c1b8e29575"
+          },
+          {
+            "path": "Grundakte/28_Auswahl_48_Personen.pdf",
+            "sha256": "20818210a1827b68536ef17b8053537660eeaf10d89db32d226c1404cbb70add",
+            "pages": 1,
+            "text_sha256": "967300b795d4ac5d9931929aaee67040309aee7e201eccc58884eac0271b7cbd"
+          },
+          {
+            "path": "Grundakte/29_HR_Arbeitspaket_Datenfreigabe.pdf",
+            "sha256": "618099b3c9d53617a7ae723554d2feb45a9b43b430573fc8b0c04a27789bedd2",
+            "pages": 1,
+            "text_sha256": "37e80ca6c8862c65c7b05fd807c0e2a9cc50983affae7966a8b0f9333f76a3cb"
+          },
+          {
+            "path": "Grundakte/30_Bestandsregister.pdf",
+            "sha256": "9a788e9d6879b72b191db6f91f46a2ebea484afe80f3161a45ff519b0c6e79f5",
+            "pages": 3,
+            "text_sha256": "cff1ceefc15c2eff243dedf226fa2754db23faa90c62ab71135c025314ecf80d"
+          },
+          {
+            "path": "Grundakte/31_Personenlos_48.pdf",
+            "sha256": "ff8a7bd9681eef16d7d8c0df1a773819cdab8bad1f3f0638e73b68983276c17d",
+            "pages": 7,
+            "text_sha256": "a6145416fa64e9107fdb2186bd898cd248d26b5c05110f84ec3cf64e579cb182"
+          },
+          {
+            "path": "Grundakte/32_Pensionen_Zahlungslauf.pdf",
+            "sha256": "2c1379ed862c04dfa27db94c226d6a9cfb5d9186452ccf738604b7bb98f968b1",
+            "pages": 1,
+            "text_sha256": "b9e89dd66158c596ab09dcdf3169b18f11c7ba4921a157f91af711b4dbf833b4"
+          },
+          {
+            "path": "Grundakte/33_Projekt_Dokumenteneingang.pdf",
+            "sha256": "5111b2e1433dea187fa6cb81a7b4d3ca65c4661ac650fc7c4e0a170f0635328e",
+            "pages": 1,
+            "text_sha256": "96b0dfaae7772da86562a968fcb50af147f0034ab8ecfb737cafbcd0caaf3379"
+          },
+          {
+            "path": "Grundakte/34_Lenkungskreis.pdf",
+            "sha256": "2fa2f565f0efb6398d486292f4d054c73c12d2a33c7396a9e24360f870d68a3d",
+            "pages": 4,
+            "text_sha256": "af5ff9d5586d94c974ddcc5e98c1ff651582ae1f92ac972641b700822135dcbb"
+          },
+          {
+            "path": "Grundakte/35_Datenraum_Ansicht.pdf",
+            "sha256": "5058af2ac7d663d645e3154efc7b49e886de80f3e1edafd3f681e74eb90a3a7b",
+            "pages": 1,
+            "text_sha256": "6996436aa5985e91cf1947c4105613ab4234ae507203cec0ccf2e8a4f2db3931"
+          },
+          {
+            "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
+            "sha256": "5d99cffcd3c365c1d265ddfb2b580602baa99d23cf753f5d4472a11b29583236",
+            "pages": 1,
+            "text_sha256": "4cf893b32552990619ab7ca8d784a2048755f36267d3c1f2b0ad9f40b41469ac"
+          }
+        ]
+      },
+      "gesamt_pdf": {
+        "path": "testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf",
+        "sha256": "e14f823e49bfbfe6379e021328eed2547fb64a72ff8d9dd6eb69527501ab7ee6",
+        "pages": 57,
+        "text_sha256": "b0052b584fcece25b6a247f3663980e6e1110e504bb78f61bebb73b00bf043e7"
+      }
+    },
+    {
+      "slug": "bav-carve-out-rheinbogen-automation",
+      "fixture": {
+        "path": "scripts/data/bav-konzern-faelle/bav-carve-out-rheinbogen-automation.json",
+        "sha256": "5db937fd5ef6f23576381a77887e62ec0cb29042890854bf47c941d1a673d15c"
+      },
+      "sources": [
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/24_Archivnachlieferung.eml",
+          "sha256": "4b96a4f8bc190872629d517a638732acbe0c42a3ad0af5450706ad7af1e83f42"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/25_Kostenuebernahme_2019.pdf",
+          "sha256": "cc927114441172020b69bcfa434397503bf52b7df3fd4a23b4dac399872844a0"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/26_Kaeufer_Neue_Forderung.eml",
+          "sha256": "baf823c910044a138ad122b7ca588664c421b7073a0e315defef0af60ea95aac"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/27_Trust_Gespraechsnotiz.docx",
+          "sha256": "794251a6c73a356f4ccfe42ea38f5a098f989e45b9db78b824285c21ee1a05dd"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Fortsetzung/34_Holding_Altteile.csv",
+          "sha256": "ca60298019f11c2584f7553512ffc4dfbd8f48db97c61779064fd6b9b9fb6109"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/01_Mandatsanfrage.eml",
+          "sha256": "301645a520fe1874fd9fb2eb1e5b915b41081f19645991821850cbb83eaeae46"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256": "d6dd4409f859703f32d3ebe6df5e216e0d2033f2687ffea996e1d51ff2a4a1f0"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/03_Transaktionsauftrag.pdf",
+          "sha256": "c2a0469ac21fc7b02a3c705ebb1b5e45f353a31810c8531273397dad8007c88c"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/04_Term_Sheet_Nordfeld.pdf",
+          "sha256": "87abda316e25f1478f08a97328e022bbc01edf995915065a9f1cfd2d75b04455"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/05_Versorgungsordnung_2009.pdf",
+          "sha256": "8756b73bc8b723ac301773b886eb06a7c2430da282f8b0043a88fd4b1d18d760"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/06_Versorgungsordnung_2017.pdf",
+          "sha256": "83098c19f48a8e43ad65de84d429f0c659de0c689fc59b9f1b8e89ddd05cee06"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/07_CTA_Treuhandvertrag.pdf",
+          "sha256": "f240891f0b650d922b844e86326232937f3e8546462c52b6559817f6aa2ae425"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/08_Holding_Garantie_2018.pdf",
+          "sha256": "fc762f4e7e74869def14ae051fe75064bb5eec8c80915228723bb1f3b1b2627a"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/09_Asset_Deal_Entwurf.docx",
+          "sha256": "5ba4f0405fd723a1b4000d93a3b5526fd5fad7677caf69a6b26fbd9cf9855a1d"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/10_Share_Deal_Entwurf.docx",
+          "sha256": "1d3dfb6770102cb9459a4ba2731c27fca09a99440bd8ca8ad557daf8aaf98e10"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/11_HR_Mapping_Methodik.pdf",
+          "sha256": "38dc1a3aca19c31e54d009e42d5271520b11f6c84ffc0019e44725111fdb9bb9"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/12_Wechselvertrag_2019.pdf",
+          "sha256": "965b1b37d45165e79b0be5dba22a6fab12143070fae192bfc0e06b7caefc13b0"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/13_Kaeufer_Datenfrage.eml",
+          "sha256": "8a76fe65453d12de1447fff70a6bad5c4e01223919b02ce824f5a395c40e6ade"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/14_Trust_Antwort.pdf",
+          "sha256": "0c64ec6d78353c91cc6ec484727ee9050670057bc156706cf69a13a085e087f0"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/15_Treasury_Kaufpreis.eml",
+          "sha256": "ee0aeaa0e2fb647e65b5c4e3346460654322cd739f3eb481a16c8a27a4a045bd"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/16_BR_Anfrage.pdf",
+          "sha256": "8b7c00148fd79544058b78556fead987cdcea24a466aa84ea46f11385ff7ab6a"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/17_Personalgespraech_Heller.docx",
+          "sha256": "3117fde4054902896adcfc193347df775260ba57b6f74611f08444d27ae5a32d"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/18_Schnittstellenprotokoll.txt",
+          "sha256": "10d9a5d0cbb670515af166c0f1e7b96b0d68e3d7f4ed1d9bda0dfd5367ffb69d"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/19_Kaeufer_Versicherungsangebot.pdf",
+          "sha256": "3f83df3a95f15c77308c74349e65cb616102c40e4faef45f52a6ccc0cf167aa3"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/20_TSA_Administration.docx",
+          "sha256": "754d35117e6aecf204ea0e44808e24919c19d9b8d18bcf0976345b812a69afc0"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/21_Lenkungskreis.docx",
+          "sha256": "14331361b01af79aeb8ca7d2c365f8834ca7f362d8642f06ad11af406d0c9c51"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/22_Teams_Closing.png",
+          "sha256": "81523b4374d25e0892258cb503bfe9a4c5eadbfe3ad1dd824f84f8d20ceb48c4"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/23_Datenzugriff.pdf",
+          "sha256": "d1b88f4230b951a96e6cab205bc55b7041ce68c71bc23e1d84d0c4282e0a96d9"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/28_Personal_Detailauszug.xlsx",
+          "sha256": "3aaaa3f213c1490c76e10b6a1e92dfd679f93ba56ed19dacc7160a2a9c097330"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/29_Preisbruecke.xlsx",
+          "sha256": "4bf769511b4f6828cd2011458abe82b5e4437443cd4e2054bc1bf440a6866955"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/30_CTA_Zuordnung.csv",
+          "sha256": "4f42672a4d77d54af795ed986e4642351c00b4b610b70a99cd45f494a95518b3"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/31_Versicherungsbeitraege.csv",
+          "sha256": "729567ee8abada10288fa4d6b51963c63a0ea452598cd762cd386c667c12b77e"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/32_Lenkungskreis.pptx",
+          "sha256": "466f064da83bdca105a0dd8c3497be14202e4162da2a28394afa549536a14500"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/33_Datenraum_Status.png",
+          "sha256": "5658c1681bc91522af35b97441a2381e9e2aedab80b7d4c389229dc04cd95078"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/37_Verguetungsvereinbarung.pdf",
+          "sha256": "1592ca069a293898f26435a889da5217b7458637a237c77aae4849cacbfd2bd0"
+        },
+        {
+          "path": "testakten/bav-carve-out-rheinbogen-automation/Grundakte/38_Nachtrag_Schliessung_2016.pdf",
+          "sha256": "6f5b74ce81a972f952bb578e0fbd053464f0a420c29bc23782be18e7f0922a36"
+        }
+      ],
+      "pdf_zip": {
+        "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip",
+        "sha256": "01f0acda41841dc4fb291d6c27fe1cf816c061c5f8a66b24cf5d18de0fcdc8bd",
+        "members": [
+          {
+            "path": "Fortsetzung/24_Archivnachlieferung.pdf",
+            "sha256": "9d2b7c94d279c1ab2c9f6597311478e46b72162dda644c4adb8b27cebca7dc9f",
+            "pages": 1,
+            "text_sha256": "15d268003f45b7d9fe8005edc3c03a3ae1884fe6523c551b8999a27f6250269d"
+          },
+          {
+            "path": "Fortsetzung/25_Kostenuebernahme_2019.pdf",
+            "sha256": "cc927114441172020b69bcfa434397503bf52b7df3fd4a23b4dac399872844a0",
+            "pages": 1,
+            "text_sha256": "f36b3277503e59641e5d7a5ca924433482e4663f69e72564a94f416b3778ef2f"
+          },
+          {
+            "path": "Fortsetzung/26_Kaeufer_Neue_Forderung.pdf",
+            "sha256": "d2b56032ee46c48f36cd02f955741bf035251dd48c54c3ad0b58efb388172c88",
+            "pages": 1,
+            "text_sha256": "1cc992914ca0c29df5446d6c11b04ccdb1f43d503c06b748d5ac45fae74352a4"
+          },
+          {
+            "path": "Fortsetzung/27_Trust_Gespraechsnotiz.pdf",
+            "sha256": "2ff24422622a30c489a795e890094c3d952c54a03f62d52805f62efa1518a1be",
+            "pages": 1,
+            "text_sha256": "f26fc9ec71aeed632641afedec6de013d102fc4ff4b076870450f24c7f3f2f5b"
+          },
+          {
+            "path": "Fortsetzung/34_Holding_Altteile.pdf",
+            "sha256": "c99ccaefbad7fe3f1622c38b42f4a834fcb9ec19ea517e2ecee7ba77a5b34018",
+            "pages": 1,
+            "text_sha256": "44adee72d3b8dddbb6c991530848de4353c5ceb5967a9fc484e1d20451b7c9b2"
+          },
+          {
+            "path": "Grundakte/01_Mandatsanfrage.pdf",
+            "sha256": "8fa0c2ebad656997f628dd00f88702d94aa3656194e6d48f19e1c6151e036cb9",
+            "pages": 1,
+            "text_sha256": "9b5875c47b408ec32d2a1b13ab2096cd9ed9e9e3fc8c064319adedda41908330"
+          },
+          {
+            "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+            "sha256": "d6dd4409f859703f32d3ebe6df5e216e0d2033f2687ffea996e1d51ff2a4a1f0",
+            "pages": 2,
+            "text_sha256": "2e85c603de7d720b1eb1b3ff259aa1cd644d20d2d97016c9029bd167cee6f556"
+          },
+          {
+            "path": "Grundakte/03_Transaktionsauftrag.pdf",
+            "sha256": "c2a0469ac21fc7b02a3c705ebb1b5e45f353a31810c8531273397dad8007c88c",
+            "pages": 1,
+            "text_sha256": "a427e0a248453bc9eaae6cc9e51681cd9dcde3406ce123451077fccd1e6628b0"
+          },
+          {
+            "path": "Grundakte/04_Term_Sheet_Nordfeld.pdf",
+            "sha256": "87abda316e25f1478f08a97328e022bbc01edf995915065a9f1cfd2d75b04455",
+            "pages": 1,
+            "text_sha256": "43f86a4e33435963cfc015af19356d0db6d9119871a0706822bbe8aab894062f"
+          },
+          {
+            "path": "Grundakte/05_Versorgungsordnung_2009.pdf",
+            "sha256": "8756b73bc8b723ac301773b886eb06a7c2430da282f8b0043a88fd4b1d18d760",
+            "pages": 3,
+            "text_sha256": "5dd9c083b4efb0ccdf72eb914afe56f5da721b70f1a0a5c16c1a9361cbd6e6af"
+          },
+          {
+            "path": "Grundakte/06_Versorgungsordnung_2017.pdf",
+            "sha256": "83098c19f48a8e43ad65de84d429f0c659de0c689fc59b9f1b8e89ddd05cee06",
+            "pages": 3,
+            "text_sha256": "68d908a7184646c646c733fa0a4a31107977d2c1ddc95994790d0bd133e32781"
+          },
+          {
+            "path": "Grundakte/07_CTA_Treuhandvertrag.pdf",
+            "sha256": "f240891f0b650d922b844e86326232937f3e8546462c52b6559817f6aa2ae425",
+            "pages": 3,
+            "text_sha256": "ff9ed19ea46d124688a1a5e2ab2d83ab325dc7c9f084ef2a515c1afebe0289b9"
+          },
+          {
+            "path": "Grundakte/08_Holding_Garantie_2018.pdf",
+            "sha256": "fc762f4e7e74869def14ae051fe75064bb5eec8c80915228723bb1f3b1b2627a",
+            "pages": 1,
+            "text_sha256": "fe6aa2db8ccf3bea6f7282192140ff4dfaaa0d88f9f151e488d0b1d693889f4e"
+          },
+          {
+            "path": "Grundakte/09_Asset_Deal_Entwurf.pdf",
+            "sha256": "506e1418ddb69bcbb1b3c92541eb24bd7cd00b164d97d1761cca56a65dee04c7",
+            "pages": 2,
+            "text_sha256": "2729ade76dd43dab97a07cb54078c8f7cfc6298ddbcd87380074d8fc56ec213e"
+          },
+          {
+            "path": "Grundakte/10_Share_Deal_Entwurf.pdf",
+            "sha256": "2f168e9fff42f45d6971862bc221046e2f125a9dd077e25c4548f15d6059502c",
+            "pages": 2,
+            "text_sha256": "fa61699312883b9b5008435b9a8bb69441e2fab8a19a2549e81ac1d204c13053"
+          },
+          {
+            "path": "Grundakte/11_HR_Mapping_Methodik.pdf",
+            "sha256": "38dc1a3aca19c31e54d009e42d5271520b11f6c84ffc0019e44725111fdb9bb9",
+            "pages": 1,
+            "text_sha256": "5ccf530ed869bc5f9931fcd687b0482ed3176d48083aa16afd3e69c684913645"
+          },
+          {
+            "path": "Grundakte/12_Wechselvertrag_2019.pdf",
+            "sha256": "965b1b37d45165e79b0be5dba22a6fab12143070fae192bfc0e06b7caefc13b0",
+            "pages": 1,
+            "text_sha256": "20124e1c216658bbbb91e631a2604b37546012b05650d6576d3d6ef51945b94a"
+          },
+          {
+            "path": "Grundakte/13_Kaeufer_Datenfrage.pdf",
+            "sha256": "decd5043cfecd092ff4fcc700e4c2f56ae1896ca6d9b897baa769b01f9d27bfc",
+            "pages": 1,
+            "text_sha256": "45c9854786c088b7a9e3d27a8f9a35f96b021d0643bb91dfef5101f6ce2c33ba"
+          },
+          {
+            "path": "Grundakte/14_Trust_Antwort.pdf",
+            "sha256": "0c64ec6d78353c91cc6ec484727ee9050670057bc156706cf69a13a085e087f0",
+            "pages": 1,
+            "text_sha256": "72afc6692eff5e8e76aeb6e186d1c33f1af5cc69fa8ff6f0d472099e2490abf5"
+          },
+          {
+            "path": "Grundakte/15_Treasury_Kaufpreis.pdf",
+            "sha256": "20976aec8ac5c1a08846fa537f37d71707bd191196b40be35a10cc90604faeaf",
+            "pages": 1,
+            "text_sha256": "95bb8b958a700bd2a8046c8eef92481c5076d0977fc9d7b8dce1d2e5d41d5e04"
+          },
+          {
+            "path": "Grundakte/16_BR_Anfrage.pdf",
+            "sha256": "8b7c00148fd79544058b78556fead987cdcea24a466aa84ea46f11385ff7ab6a",
+            "pages": 1,
+            "text_sha256": "803512756ee2e3d2c7ba7afe8f97de734d042b2dff734ecc0462b2567ffbcfcb"
+          },
+          {
+            "path": "Grundakte/17_Personalgespraech_Heller.pdf",
+            "sha256": "abb8d9b6126a19f18545b923806778a92ac7b056e55a8d37f1d2be56f3dbda30",
+            "pages": 1,
+            "text_sha256": "401af1c2f238857fab6862444e0ca7cdb21c9fd338ba95affd8acf5500680647"
+          },
+          {
+            "path": "Grundakte/18_Schnittstellenprotokoll.pdf",
+            "sha256": "7b06975e07b6d69c73c07bfa9ba1c92a9ea8c65ac268e28c6168c024c0533f8b",
+            "pages": 1,
+            "text_sha256": "fa09a0aa1bf9fba734478ac5b82f8a07529ca98aa07fd83f0034e30050232fcc"
+          },
+          {
+            "path": "Grundakte/19_Kaeufer_Versicherungsangebot.pdf",
+            "sha256": "3f83df3a95f15c77308c74349e65cb616102c40e4faef45f52a6ccc0cf167aa3",
+            "pages": 1,
+            "text_sha256": "48fb94110fb97d7861ac99a3912077f534298cb075962e05d57c2d7b88548f09"
+          },
+          {
+            "path": "Grundakte/20_TSA_Administration.pdf",
+            "sha256": "fd749a9912e97f41a50a13df97a0370760b06cd00ac0aa029b7adc0dc75af7b1",
+            "pages": 1,
+            "text_sha256": "bf3f461408267124e330232ff10719839c402a335aef92922604cb3ba7379150"
+          },
+          {
+            "path": "Grundakte/21_Lenkungskreis.pdf",
+            "sha256": "97a7630e054b61a61ea7860db9bc95b4e12940f78c40ae5fbe0bd9ce52dd0831",
+            "pages": 1,
+            "text_sha256": "c06e23770b6cd5c2d39f2edb9b7388a8751792a58d0c1cf1bcb9d2794c9ba9c4"
+          },
+          {
+            "path": "Grundakte/22_Teams_Closing.pdf",
+            "sha256": "87de5ad2e3e65b4e21589d05d29b8985916279e3997023f5112ba1e873c251e0",
+            "pages": 1,
+            "text_sha256": "8a1f566bcadc534abccebb47780128f38ee5bd80a4a4674c816ed3791ec89824"
+          },
+          {
+            "path": "Grundakte/23_Datenzugriff.pdf",
+            "sha256": "d1b88f4230b951a96e6cab205bc55b7041ce68c71bc23e1d84d0c4282e0a96d9",
+            "pages": 1,
+            "text_sha256": "20933fa9bbdfdce913a82e940cdbf9045f04d4e5ebeb5f796303cfa939399f08"
+          },
+          {
+            "path": "Grundakte/28_Personal_Detailauszug.pdf",
+            "sha256": "2f47a280c413c0bc46b711f122d3766975e584c26e112871ce70f0c66af28b1d",
+            "pages": 9,
+            "text_sha256": "281033beea07fbb60913d2f7b145e0dd1e55d7dc831fd5834efaebc356cc137e"
+          },
+          {
+            "path": "Grundakte/29_Preisbruecke.pdf",
+            "sha256": "4ea69a53d811df30c3cd8625c17cb754df751edb9ce59eca1c7f2cb4176a72bb",
+            "pages": 2,
+            "text_sha256": "ccfe48b9bdcf524510cb3c6d016df9210c001a14ea3e2f50d9dde31c23bee218"
+          },
+          {
+            "path": "Grundakte/30_CTA_Zuordnung.pdf",
+            "sha256": "342f1cb2d0e322e3b8881952a93d9b7465bca618375afab72611c81408e1cb35",
+            "pages": 1,
+            "text_sha256": "d1667d9d12eb5a2d7dad982982334f359b545f2358e5aa293f99b8bb57d4f441"
+          },
+          {
+            "path": "Grundakte/31_Versicherungsbeitraege.pdf",
+            "sha256": "9eb153d41256fd3fc61ae83a221bcebdca5dbb0273176e2f17456aa1e8bc27eb",
+            "pages": 1,
+            "text_sha256": "118030df9104bf00b27cf9839d05392573b74beff4fb8e77787ef3c1faa8baa1"
+          },
+          {
+            "path": "Grundakte/32_Lenkungskreis.pdf",
+            "sha256": "548e0adc2819196b46ccf3cf71f06d9f9f30faacbdaf77a0a3621e7092492788",
+            "pages": 4,
+            "text_sha256": "677eb5e99b0c6c01ffd76307c145c1d34a8aeaa3c8d9aca480c00129e848c9e3"
+          },
+          {
+            "path": "Grundakte/33_Datenraum_Status.pdf",
+            "sha256": "35e3cbdf19966a947f8f016cd35058671c7b5620bf5a674ae30553cbd1b8dac4",
+            "pages": 1,
+            "text_sha256": "25ff3709209e7acbf8d6792d7c466a0f0ab17289584be7eb0d9c4f6e16d7a782"
+          },
+          {
+            "path": "Grundakte/37_Verguetungsvereinbarung.pdf",
+            "sha256": "1592ca069a293898f26435a889da5217b7458637a237c77aae4849cacbfd2bd0",
+            "pages": 1,
+            "text_sha256": "d950efae3c92f61c1e822ab37a97db9371f252a3798c0e85fddb1234550a13d4"
+          },
+          {
+            "path": "Grundakte/38_Nachtrag_Schliessung_2016.pdf",
+            "sha256": "6f5b74ce81a972f952bb578e0fbd053464f0a420c29bc23782be18e7f0922a36",
+            "pages": 1,
+            "text_sha256": "58a1b60e594b74803898a077d28dd76baf79e0120aaf417fce239e5417d02be2"
+          }
+        ]
+      },
+      "gesamt_pdf": {
+        "path": "testakten/bav-carve-out-rheinbogen-automation/gesamt-pdf/bav-carve-out-rheinbogen-automation_gesamt.pdf",
+        "sha256": "9e0992efeefad4ff6e7d237a78669d75effbf1181173bc8b8ba70997494cdc61",
+        "pages": 57,
+        "text_sha256": "ed06ce9124ac220f33b521c862f8157cf078370c0bae55398af2db54e6075222"
+      }
+    },
+    {
+      "slug": "bav-rentnergesellschaft-rheinhafen-logistik",
+      "fixture": {
+        "path": "scripts/data/bav-konzern-faelle/bav-rentnergesellschaft-rheinhafen-logistik.json",
+        "sha256": "80336268379042905c9912a0ec709be80e7ac5acd908aad45711418f980fb713"
+      },
+      "sources": [
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/22_Dachbericht.pdf",
+          "sha256": "c06a9a850909cff33953773fa316e6f2ee92f1ffee03d81c8b028ea1ed73ba6c"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/23_Bank_Belastung.pdf",
+          "sha256": "b111c3d5d7e4478d0ae838fa3c293bb405d0f60433e9659ebb220582af035303"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/24_Mieter_Schreiben.pdf",
+          "sha256": "67bb028192f332e8c262f1252077fb5080b731e5334031d2210da108e6244e19"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/25_Hafenruh_Nachtrag.eml",
+          "sha256": "33333998323658bb746f3ab936e62351da8f452c342b5d1da660753674f7960c"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/30_Immobilie_Nachlieferung.xlsx",
+          "sha256": "ff65d479d23a3ca91e18ffdde510a16aa66854000383c0bc0d6fa5a89e3e599f"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Fortsetzung/35_Weitere_Aufklaerung.eml",
+          "sha256": "f41ffb9d8a5c64d19ef77880da9726022f9e10f2433de1e0df54f876c61cd189"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/01_Mandatsanfrage.eml",
+          "sha256": "5c89e548443ad49cf9591202cc84bc7541ae75fdd2d49af1ba40d372c63b3fca"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256": "2048c0a68afe2c74bcdc0e32b327284d1676ad223b68d5858eb2eceb0bae37e9"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/03_Versorgungsordnung_1994.pdf",
+          "sha256": "f81819d54eda5cf406323a7a07220cbf2278f76952d35f619e81e759d2f379ca"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/04_Vorstandsauftrag_Strukturen.pdf",
+          "sha256": "f5a735b1729ca826a60921b7d76b95029724d6879a5abc1ce111c3674509a15d"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/05_Ausstattungsvereinbarung_Entwurf.docx",
+          "sha256": "ff920e9fd4a20b00e71acab1ae79a42db0e46770cbb11b42c461dfea424e6e08"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/06_Betriebsverkauf_Absicht.pdf",
+          "sha256": "31556e837c18513d75721012adcb90ef23cb0e89babd88dd28fa814684692875"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/07_Holding_Unterstuetzung_Entwurf.pdf",
+          "sha256": "e3ceb7e5b0d532594b9e0f548589e3486180a740aa2365879d372cbf2abb21f6"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/08_Angebot_Nordanker.pdf",
+          "sha256": "0757b5a63e070f97b1f157fb77005a5779c2bae25027edd13bbf42a77f8cade7"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/09_Angebot_Rentenfels.pdf",
+          "sha256": "8e83ef52724de64656d4eaee584c4ff73a520d2dc41dedbccbfb72a2f9ce767d"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/10_Angebot_Hafenruh.pdf",
+          "sha256": "8e1969fc4aa2c922117a24ed7710710b14e4d608122573400b25988d13993ac1"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/11_Immobilie_Wertnotiz.pdf",
+          "sha256": "df49d91f8cf1af8f9e7319b20acb2d46a7e76af00f819665d9e498d2b55802fa"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/12_Mietvertrag_Hafenhalle.pdf",
+          "sha256": "b8f8897ed21ce99e49049a5969193ee8599b1f5352ee6afa7db9fa87059b5326"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/13_Rentnerbrief.pdf",
+          "sha256": "dda170b4f50493e511fcd378b396e34f554365e76a72c7e6ba85e1711767f5da"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/14_HR_Antwortentwurf.docx",
+          "sha256": "9dfcaf14d13a8a6ab4d702af145cc10dc6cf12742f90735308cd17426ee1cd51"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/15_CFO_Finanzierung.eml",
+          "sha256": "9521452292cd86469b77fb6504b89b27faa103bb10e4be698d7e91bb1b4e9126"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/16_Anbieterfrage.eml",
+          "sha256": "9415643c37dae5900fcd2296b10e9e92b996cbac132e6608298b34acf103a97e"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/17_Board_Protokoll.docx",
+          "sha256": "640784ad82b90da393931fd4aafc840dd6cd3d9fb102c8a5c05acf8453b6cb71"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/18_Verwaltung_Bestand.pdf",
+          "sha256": "96f3252ff84f2ac0dc78997f074d61ecae7e87ab69ff4ef9f929d184418a6533"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/19_Anlagepolitik.pdf",
+          "sha256": "7539042eab905d486636d438547fbd257a8b80ab78d5bbc3f333f01aafb4367c"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/20_Dachtermin.eml",
+          "sha256": "82b452bcaf9551070cd77bc2ac5dbd58c99e7a762a8f10c030ebcb051f5dd6b1"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/21_Projektchat.png",
+          "sha256": "3ee031d4c8c00e0e7eba090484f41b0471f448fa2a93df9a0171ecf558cfe815"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/26_Finanzierung_und_Stress.xlsx",
+          "sha256": "6fb6fea720202fc7ef0611a419ff49dea47705c5a9df556f9927aa8d59c823b9"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/27_Angebotsvergleich.xlsx",
+          "sha256": "2413103fa618a482fcce1d2ee481162ae40b261e983f4e598e16c8e3ee236bd6"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/28_Detailbestand_48.csv",
+          "sha256": "cdf9ee5c390c4c3cb44c875a38dce957b8be74b9488b2bedb4fd045c4cedcee3"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/29_Zahlungslauf_September.csv",
+          "sha256": "51d7ba0b3c770c4a33d325b75859951d48b1d379871ad14cb54b91c2af43b490"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/31_Lenkungskreis.pptx",
+          "sha256": "fd55cd89759a690b27d6483a963e5cbc61ee6e679c959df80f0ecca33965030f"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/32_Datenraum_Ansicht.png",
+          "sha256": "4d02959b48d2541bd25816fd23dc67fe0475283da1acb2421822070960374ade"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/33_Verguetung.pdf",
+          "sha256": "c62fdb82d6f89ee522cc71efa99745beaa462be20456c30916fa69623601aeed"
+        },
+        {
+          "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/Grundakte/34_Bankkonto_Bestaetigung.pdf",
+          "sha256": "59f3987b12891b18065a77719fe2838a9573c7fab6c99782224d6892ab0ca9d4"
+        }
+      ],
+      "pdf_zip": {
+        "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip",
+        "sha256": "c2bee64356195c791df7277e62e91124d98da32a3fb0819cf697cffd91c8785e",
+        "members": [
+          {
+            "path": "Fortsetzung/22_Dachbericht.pdf",
+            "sha256": "c06a9a850909cff33953773fa316e6f2ee92f1ffee03d81c8b028ea1ed73ba6c",
+            "pages": 1,
+            "text_sha256": "7593db69d1ec53e36cf02d4f13d581498f79bdea7be85a25d4609b9c4934179d"
+          },
+          {
+            "path": "Fortsetzung/23_Bank_Belastung.pdf",
+            "sha256": "b111c3d5d7e4478d0ae838fa3c293bb405d0f60433e9659ebb220582af035303",
+            "pages": 1,
+            "text_sha256": "9fb84c7251de2cd7d3fc24273c47ef1008412ceeb16574253db351b962749964"
+          },
+          {
+            "path": "Fortsetzung/24_Mieter_Schreiben.pdf",
+            "sha256": "67bb028192f332e8c262f1252077fb5080b731e5334031d2210da108e6244e19",
+            "pages": 1,
+            "text_sha256": "e652849ba1041cad5ad91c24f06bf28919474f7cd3b03411dc4d7d62909ed4ab"
+          },
+          {
+            "path": "Fortsetzung/25_Hafenruh_Nachtrag.pdf",
+            "sha256": "7fad64f3b89f38fe0a7cc2e9232d4cabb39e91ef152ca8ef57e861a987815af8",
+            "pages": 1,
+            "text_sha256": "c2101211df4fab5498536a565b7e09104a26c5c58d3599a80c29c623b838595b"
+          },
+          {
+            "path": "Fortsetzung/30_Immobilie_Nachlieferung.pdf",
+            "sha256": "45bbe9a81acb8c6044598a4af725ca1e816b1d19860f5d21da3c9115855fd4c1",
+            "pages": 1,
+            "text_sha256": "a7c948ac2f3303e6c1744f9de43cbe81682e65679773e1cbb441856c473e8768"
+          },
+          {
+            "path": "Fortsetzung/35_Weitere_Aufklaerung.pdf",
+            "sha256": "bcabc672e2ebe559bd1cc1029dbe5ee17f017212c077be41c9b8a045da0d7545",
+            "pages": 1,
+            "text_sha256": "99f9dfdfdba36b3c25e65c6a49c413e46fdec092837a2a04ecb09c379569a201"
+          },
+          {
+            "path": "Grundakte/01_Mandatsanfrage.pdf",
+            "sha256": "eee8ac3bb410376a988746f5d2375ce1c190e3bc8838dbf426a6a86f461af743",
+            "pages": 1,
+            "text_sha256": "76356ad61138c8550ea92ecfc55d00088a77871a46dadb9366a328caec863037"
+          },
+          {
+            "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+            "sha256": "2048c0a68afe2c74bcdc0e32b327284d1676ad223b68d5858eb2eceb0bae37e9",
+            "pages": 2,
+            "text_sha256": "3f448e258680ca06a785dfb2172aff92573fcf5003bd4583cb49735cbb7e0325"
+          },
+          {
+            "path": "Grundakte/03_Versorgungsordnung_1994.pdf",
+            "sha256": "f81819d54eda5cf406323a7a07220cbf2278f76952d35f619e81e759d2f379ca",
+            "pages": 3,
+            "text_sha256": "ca9ed503adf539e97d8fb16cc4b3ef8cae6e10f1cf0e9dc53dca33d0003df573"
+          },
+          {
+            "path": "Grundakte/04_Vorstandsauftrag_Strukturen.pdf",
+            "sha256": "f5a735b1729ca826a60921b7d76b95029724d6879a5abc1ce111c3674509a15d",
+            "pages": 1,
+            "text_sha256": "3ec0fe12a995008b61b0350828bdb2eccfeee4ec5cdac20767c3c146a1d8a29f"
+          },
+          {
+            "path": "Grundakte/05_Ausstattungsvereinbarung_Entwurf.pdf",
+            "sha256": "a7bc6c544ef867235b17ad16eda23935351d6a4dd97979d49500bbcc781fb72c",
+            "pages": 2,
+            "text_sha256": "9dff4b0878c909ef5baadda0f4a994cc36fc66c40f1ea4cb92d92d5ace232b02"
+          },
+          {
+            "path": "Grundakte/06_Betriebsverkauf_Absicht.pdf",
+            "sha256": "31556e837c18513d75721012adcb90ef23cb0e89babd88dd28fa814684692875",
+            "pages": 1,
+            "text_sha256": "34e01f317f9f08fdfa71817b75556d661e4d9a0b69fd1b5e32378010377f77f5"
+          },
+          {
+            "path": "Grundakte/07_Holding_Unterstuetzung_Entwurf.pdf",
+            "sha256": "e3ceb7e5b0d532594b9e0f548589e3486180a740aa2365879d372cbf2abb21f6",
+            "pages": 1,
+            "text_sha256": "d7e14741da29cc5413713f080f3bcdb8ff8d3da12ead61cd8d4ee82d57f5e3ee"
+          },
+          {
+            "path": "Grundakte/08_Angebot_Nordanker.pdf",
+            "sha256": "0757b5a63e070f97b1f157fb77005a5779c2bae25027edd13bbf42a77f8cade7",
+            "pages": 2,
+            "text_sha256": "509979ada9aefbbe2629a1959218846f9c5baf7f7a5c8464070e316ce6d6acda"
+          },
+          {
+            "path": "Grundakte/09_Angebot_Rentenfels.pdf",
+            "sha256": "8e83ef52724de64656d4eaee584c4ff73a520d2dc41dedbccbfb72a2f9ce767d",
+            "pages": 2,
+            "text_sha256": "5847da4da6db289ca829162d0191ab031535bef3864cf4e918f41d3e607443e3"
+          },
+          {
+            "path": "Grundakte/10_Angebot_Hafenruh.pdf",
+            "sha256": "8e1969fc4aa2c922117a24ed7710710b14e4d608122573400b25988d13993ac1",
+            "pages": 2,
+            "text_sha256": "2a4309b77fdf8f32a197fe6cf52a8bdae3663b62e09ba5d34ae185586a212df2"
+          },
+          {
+            "path": "Grundakte/11_Immobilie_Wertnotiz.pdf",
+            "sha256": "df49d91f8cf1af8f9e7319b20acb2d46a7e76af00f819665d9e498d2b55802fa",
+            "pages": 1,
+            "text_sha256": "4705c3d3daf30a67103682851e4dedd6c59b71571c8bba0554b5c6ad0491c8a1"
+          },
+          {
+            "path": "Grundakte/12_Mietvertrag_Hafenhalle.pdf",
+            "sha256": "b8f8897ed21ce99e49049a5969193ee8599b1f5352ee6afa7db9fa87059b5326",
+            "pages": 2,
+            "text_sha256": "367df4babdc2bc79e5a9a9e9b84d6cc4020b9ee94e3d2534b1a3bd9268920d5b"
+          },
+          {
+            "path": "Grundakte/13_Rentnerbrief.pdf",
+            "sha256": "dda170b4f50493e511fcd378b396e34f554365e76a72c7e6ba85e1711767f5da",
+            "pages": 1,
+            "text_sha256": "d409921b3abf62c4b12c0541e1a958bfc240a62947dbe4700feda589d37d820d"
+          },
+          {
+            "path": "Grundakte/14_HR_Antwortentwurf.pdf",
+            "sha256": "ec9a44b2264f23265b924a6266d329cbb456ddda0a5274cc7d961242b6c9028f",
+            "pages": 1,
+            "text_sha256": "c3f0c46db65cc27f050cbf2d2ad093f8a75b221d8dabf1af69d651f236ae3199"
+          },
+          {
+            "path": "Grundakte/15_CFO_Finanzierung.pdf",
+            "sha256": "c6fbce0c02c09cd7c36c0e56f038620959662a22b37ac78b5cf001ee795a1c14",
+            "pages": 1,
+            "text_sha256": "87e4d5c3b425a1def61e42ab7593722f15cf2dec3cc4cee7b9ed6b8dcbabd2fd"
+          },
+          {
+            "path": "Grundakte/16_Anbieterfrage.pdf",
+            "sha256": "21c43b30395ed50ff1fa0a71f2d1cae7ab4aaab82644b3c964d7c151f2ac1ba7",
+            "pages": 1,
+            "text_sha256": "95f2f1fe60eb65b632f993facd04ec572d25c3fa13f9204842e29f8433f25590"
+          },
+          {
+            "path": "Grundakte/17_Board_Protokoll.pdf",
+            "sha256": "c6d096e7b238359e52f2c037315a165f8cf02e85a5621d9501364b38d965da19",
+            "pages": 1,
+            "text_sha256": "a33d4bfff4ebccf8a7bb21e0b077d363ee73d6eb33e5a1dc61d6a4e427d122fc"
+          },
+          {
+            "path": "Grundakte/18_Verwaltung_Bestand.pdf",
+            "sha256": "96f3252ff84f2ac0dc78997f074d61ecae7e87ab69ff4ef9f929d184418a6533",
+            "pages": 1,
+            "text_sha256": "467ab943e21eaad1f05114ae3e6bc72a9b8c90fc5ae35eb2da8f7b8f2b2b93ee"
+          },
+          {
+            "path": "Grundakte/19_Anlagepolitik.pdf",
+            "sha256": "7539042eab905d486636d438547fbd257a8b80ab78d5bbc3f333f01aafb4367c",
+            "pages": 1,
+            "text_sha256": "04b0557392236d00ef14080ef80736870cf1ad1609b45a754572b970a8c5e0e2"
+          },
+          {
+            "path": "Grundakte/20_Dachtermin.pdf",
+            "sha256": "a606ae4c61fbd9b2b149bb7763aad6917ea6c9e700ca96cdae3a6efb7e44e5aa",
+            "pages": 1,
+            "text_sha256": "d05fc0842c095d7087c4d3e0a7cb5a3f13ff53aa5d0d8bd104a16f2cfa7647da"
+          },
+          {
+            "path": "Grundakte/21_Projektchat.pdf",
+            "sha256": "a046515cfd74e00633b969e19f5c3f24983b3d7d6fbea0b561a4e221002f7988",
+            "pages": 1,
+            "text_sha256": "63b41f6eebdb3fa3b0261d068683c1b57bf0e93ed15528ac184b564ad1131757"
+          },
+          {
+            "path": "Grundakte/26_Finanzierung_und_Stress.pdf",
+            "sha256": "f33a5d920e01135eef04292650f1a3cf829647d4e1f7495185496ef334a8c937",
+            "pages": 4,
+            "text_sha256": "1d85f0617a5a5ec50490fed7fe67584f2f937146b675c7653f870b0b6f6a4da2"
+          },
+          {
+            "path": "Grundakte/27_Angebotsvergleich.pdf",
+            "sha256": "eca9e54163dc2d948b1e6a078bec89c0cb25fb6def21d4d5980bac7c2f360e38",
+            "pages": 2,
+            "text_sha256": "781b7565ae50b802b90d9d8b86d83952b0d3b1b94fc39109b82b6acc6e541d08"
+          },
+          {
+            "path": "Grundakte/28_Detailbestand_48.pdf",
+            "sha256": "7bb4c23ee47915070ddf6a887ff42361e1c7556537704d0e59ee64ad94732145",
+            "pages": 3,
+            "text_sha256": "fca42b62b0c7b64fbac34c12eff660dddb59ba5ce6db4c4eb523ef95683690b6"
+          },
+          {
+            "path": "Grundakte/29_Zahlungslauf_September.pdf",
+            "sha256": "c742dc298b897a5c53c1ed71c98e0bed50e6c041a4008fa828575b943aad8096",
+            "pages": 1,
+            "text_sha256": "c2c3e02a9ebb4fa74c2a033007d7f77a83a9ce132de90e51ad4ef72beb373c7a"
+          },
+          {
+            "path": "Grundakte/31_Lenkungskreis.pdf",
+            "sha256": "5962fcfdf18199dbeca5408493f23b0680e8cb6ab75a0227f656e5e2005beae3",
+            "pages": 4,
+            "text_sha256": "5c2b762ef38293355631b8f6cd4ca7a5a8d279956959dd30b81030427ab80122"
+          },
+          {
+            "path": "Grundakte/32_Datenraum_Ansicht.pdf",
+            "sha256": "7216c974eafdcee598120d5348fee2de3f1604c842d6414a68a21451054bb7f7",
+            "pages": 1,
+            "text_sha256": "ca9724f132e3a8ce099088ab6b08f93bcc3ca33c51dbde2886dd53d277ad6667"
+          },
+          {
+            "path": "Grundakte/33_Verguetung.pdf",
+            "sha256": "c62fdb82d6f89ee522cc71efa99745beaa462be20456c30916fa69623601aeed",
+            "pages": 1,
+            "text_sha256": "0221dae28d67f9601cc6259ded1fa563d2ab37b3a9fb90a9f348a8c1901fdb88"
+          },
+          {
+            "path": "Grundakte/34_Bankkonto_Bestaetigung.pdf",
+            "sha256": "59f3987b12891b18065a77719fe2838a9573c7fab6c99782224d6892ab0ca9d4",
+            "pages": 1,
+            "text_sha256": "3ada020298cce2cd7e6654d5db7aa571b799acf3ca6a7eead372c265f0fdf262"
+          }
+        ]
+      },
+      "gesamt_pdf": {
+        "path": "testakten/bav-rentnergesellschaft-rheinhafen-logistik/gesamt-pdf/bav-rentnergesellschaft-rheinhafen-logistik_gesamt.pdf",
+        "sha256": "7c3c201134b9a04882754422af4137235f362a620680712273e1c6b986fb85e6",
+        "pages": 52,
+        "text_sha256": "8527022e9e39636892f8a0aefb8b7f50e153f5e735517ceac1a462934b99363a"
+      }
+    },
+    {
+      "slug": "bav-pensionskasse-niederrhein-verbund",
+      "fixture": {
+        "path": "scripts/data/bav-konzern-faelle/bav-pensionskasse-niederrhein-verbund.json",
+        "sha256": "cc0e941c8945a30b35a7fd525d9b052798b26280f124f0502f9ca44bf0b8cab7"
+      },
+      "sources": [
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Fortsetzung/24_Kasse_Nachlieferung.eml",
+          "sha256": "c203027f196b29747744af7a5e6d34bcc2b34066950b03ecba1eca40d722dfb9"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Fortsetzung/25_Alte_Mail_2024.eml",
+          "sha256": "cd5ba3b93dbe824b219ffe986576ea664fd682d483e3ca3ca14010fcc330c3e9"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Fortsetzung/26_Seidel_Nachfrage.eml",
+          "sha256": "fdd0d9804237b4e35bbcf8d0af7aabddc445701945aa97c9fb3d21fbaeafff41"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Fortsetzung/32_Tarifgruppen_Nachlieferung.csv",
+          "sha256": "b8a539f77798b9befd040b5ddbcf45763a42fe10c87e56efa756de47b56c30af"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/01_Mandatsanfrage.eml",
+          "sha256": "40d0966e1eb660b97e8a3162557f92e818642314c285fcf98b9d5dc2b3bb872d"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/02_Mandatsvereinbarung.pdf",
+          "sha256": "9748d2e9751bd659018f217ec4baf5fc084610a9b13646255ce1ee47970f0b9a"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/03_Gesamtzusage_1992.pdf",
+          "sha256": "37c7569a9e8aeace1acc802e2806701700613a1ffe57945d9e276b2ca6f96736"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/04_Gesamtzusage_2001.pdf",
+          "sha256": "8b9458bd97d7f0ed4f0fe9107d63aeb60335fcbe67533554b0d8be8de30239a2"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/05_Einzelzusage_Seidel_1998.pdf",
+          "sha256": "5d44105cabdb547a3139bf258362d66fae6f4f5400c26403bcd3dbcbaf9f7cde"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/06_Satzung_Rheinwiese.pdf",
+          "sha256": "c678531df0fdc69e5a7082c9b46f01757e6cde4170e5009b67ee16b6f6ed6034"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/07_Kasse_Kuerzungsmitteilung.pdf",
+          "sha256": "26e3bf451e619d6ce49b6b5098134b86d55b4ec82749deefcf787f09b244bcb3"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/08_Seidel_Leistungsmitteilung.pdf",
+          "sha256": "80ea9f4a63ea8957caa6bbf9a85af53b1a1f2015c8b84d607ef20d017226eaf3"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/09_Rentenbescheid_Arbeitgeber_2021.pdf",
+          "sha256": "ab216ce9f5f607e292044a9b1884405508909088c6f66f5b00c0d863e9aa9807"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/10_HR_Erste_Rundmail.eml",
+          "sha256": "c5c0b361deeafa6b6c16ca06df59ae1ab43f20a843d4abcc128806432d30b240"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/11_Seidel_Anforderung.pdf",
+          "sha256": "6849be31c23da3dde791859eed3a22e799d6127a4ef436668850354d12539ae3"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/12_Seidel_Email.eml",
+          "sha256": "9f3a24f1bb213a701dd5499675ee135bf7aae1ced35b94b3371b924c8af1c8fc"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/13_Anpassungsprotokoll_2024.pdf",
+          "sha256": "1c559178b768fbc7678fc76f7593a009bb1bd2152b7322d2985687ef3a8e4562"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/14_Kassentarif_2010.pdf",
+          "sha256": "32116d2783270b4f2487de9e579abaa8cf0bd6c45c70afc4898f2b0ba8bfb151"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/15_Treasury_Auftrag.pdf",
+          "sha256": "bc7575d85104df8ea9f58ed986b399117635c30532635a09763f412c575a3d16"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/16_Kasse_Finanzierungsvorschlag.pdf",
+          "sha256": "eb4364124283d3276c2e8b6331e623fb48a8e5ef9a1c20f4cc131e38908bd44d"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/17_Payroll_Abgleich.eml",
+          "sha256": "3c16eb78adff2dc4330d1e07607a4f11f12bb50fcc3269439275d02e8b593505"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/18_Betriebsrat.pdf",
+          "sha256": "9ff9b670af005242bc737ab4a72f6d8bbd3db4fa09d92c0ff5528e3d4c248100"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/19_Lenkungskreis.docx",
+          "sha256": "fc0be39de2021b6417a7bd76c9431a8b832ab107dd3edbdff28479a87d3495b0"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/20_Gesellschaftsfinanzierung.docx",
+          "sha256": "08e94819a79a0d4fd28247ab18c2a875a3a75c8a1046957930daa9d97e8dd8b4"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/21_Teams_Renten.png",
+          "sha256": "2e38ae58b9c2c3868043f2e28fe1e146e750b51c464db8e29d323f4eefb233e3"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/22_Unterlagenanforderung.eml",
+          "sha256": "7397bd27be4ba2752164a7fcd99ceb7e7847197c9143406920c078d73c3461ba"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/23_Service_Gespraech.docx",
+          "sha256": "ee6d8868b5dd06125797064aa91ac7260d8e67f08385b75a1ca99678f2d88f51"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/27_Kuerzungen_Kohorten.xlsx",
+          "sha256": "abf60a5311bb9efed1ff3175a9438688f794d69f6520df73baf0d1711045d706"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/28_Treasury_Planung.xlsx",
+          "sha256": "aefa97310591f34f41dd57a76b8e01a3e112a97dcd7dc8b8f47ac83ec9ca6ee7"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/29_Detailauszug_42.csv",
+          "sha256": "e6d68abe9ad406f5f8481faac11f523ae7c4cdc279b5f98b520d65b1f13d91ef"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/30_Dokumenteneingang.csv",
+          "sha256": "da643d4ff3bbfaff604e7582b0305d11c4c885586900154b4a7a0b17491805f9"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/31_Lenkungskreis.pptx",
+          "sha256": "b8127650cf906e244894addd55453b6b52f14226050c5af4caccab50394878b8"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/33_Portal_Status.png",
+          "sha256": "936d02cffd32e99dc50e917a22b60fb1f93ef851e4b55b13faa5669bf2c9c6c1"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/34_Verguetungsvereinbarung.pdf",
+          "sha256": "e45579c352150d74938082d73aa1ee6547da0ea83d3a79f6a19454487cbd6ccd"
+        },
+        {
+          "path": "testakten/bav-pensionskasse-niederrhein-verbund/Grundakte/35_Liquiditaet_Service.pdf",
+          "sha256": "ec282abb7485ac41c72278adcb5d6b6f6d8e4dba6290de03e650990d26a79749"
+        }
+      ],
+      "pdf_zip": {
+        "path": "bav-strategie-konzern/testakten/downloads/testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip",
+        "sha256": "f56702fee8586f065fb84f9ef54fe5d30bae3852dcc43c1d271631f984c24d44",
+        "members": [
+          {
+            "path": "Fortsetzung/24_Kasse_Nachlieferung.pdf",
+            "sha256": "23aa49f15ecf3d6a1ddbf41bef226fd9456f2c86c32360c4687c3c7df4af4f20",
+            "pages": 1,
+            "text_sha256": "4a6d6d3d553fdc3739c1600f0b3a472cc7ee72d32a8155e63988522f79fdbe6a"
+          },
+          {
+            "path": "Fortsetzung/25_Alte_Mail_2024.pdf",
+            "sha256": "8a8c8cb13baa8ffca2b976dde21d622f6203869483f2cba6509b16c3b1e4c392",
+            "pages": 1,
+            "text_sha256": "46318fa5833dfbd2472097d554c587a5220a90c9f5db2b14855aece623cc4ed7"
+          },
+          {
+            "path": "Fortsetzung/26_Seidel_Nachfrage.pdf",
+            "sha256": "1b98cee2468ca3132037dba2b37a43c254ea98974fdfa60b428d9280ee58201c",
+            "pages": 1,
+            "text_sha256": "9e8165ebeaacdb53074be2d8a683c997f4fef9df78fd2dc31fb3cee7c2c1d323"
+          },
+          {
+            "path": "Fortsetzung/32_Tarifgruppen_Nachlieferung.pdf",
+            "sha256": "1bc76e5f0272da97afbb63d2ea331d7f184695b47a17ab23ac45b3034ba38089",
+            "pages": 1,
+            "text_sha256": "19103fdca6c48117f002b4e7e0d2a2ff34d895433998ee291816967d658ed0f5"
+          },
+          {
+            "path": "Grundakte/01_Mandatsanfrage.pdf",
+            "sha256": "1c9505e50f2866b23c06aa3b7fee3a4d0a6cb28bd1660645ce246de399ae9144",
+            "pages": 1,
+            "text_sha256": "fd8491f493f16853437bd4051b4747c3a951fe1f6696a295b465c06ed11b0276"
+          },
+          {
+            "path": "Grundakte/02_Mandatsvereinbarung.pdf",
+            "sha256": "9748d2e9751bd659018f217ec4baf5fc084610a9b13646255ce1ee47970f0b9a",
+            "pages": 2,
+            "text_sha256": "1c59342d4b067400f39eb9049d6f30efb9f7ef861793a3abed28b00c7432a52a"
+          },
+          {
+            "path": "Grundakte/03_Gesamtzusage_1992.pdf",
+            "sha256": "37c7569a9e8aeace1acc802e2806701700613a1ffe57945d9e276b2ca6f96736",
+            "pages": 3,
+            "text_sha256": "4705c832dd23adebacfece57c7832edbaad4216c6dd7eb1beb95a9a6bdbe0869"
+          },
+          {
+            "path": "Grundakte/04_Gesamtzusage_2001.pdf",
+            "sha256": "8b9458bd97d7f0ed4f0fe9107d63aeb60335fcbe67533554b0d8be8de30239a2",
+            "pages": 3,
+            "text_sha256": "6861159f783ed56e8435c9f93792014d0d79446a7f63a924baeb30d4524c3a59"
+          },
+          {
+            "path": "Grundakte/05_Einzelzusage_Seidel_1998.pdf",
+            "sha256": "5d44105cabdb547a3139bf258362d66fae6f4f5400c26403bcd3dbcbaf9f7cde",
+            "pages": 1,
+            "text_sha256": "559dd34b251107d1aeb49f85fd95cb37ceae44ad55d8a6a3a0fa2d85e57ea261"
+          },
+          {
+            "path": "Grundakte/06_Satzung_Rheinwiese.pdf",
+            "sha256": "c678531df0fdc69e5a7082c9b46f01757e6cde4170e5009b67ee16b6f6ed6034",
+            "pages": 2,
+            "text_sha256": "ab8e78b3a4e822584cde840d0d186c96adaf34ac312327ad96bac3af42b64522"
+          },
+          {
+            "path": "Grundakte/07_Kasse_Kuerzungsmitteilung.pdf",
+            "sha256": "26e3bf451e619d6ce49b6b5098134b86d55b4ec82749deefcf787f09b244bcb3",
+            "pages": 1,
+            "text_sha256": "ff4a930c9198d2d421c3c5553b13a85656329d29b4dea09fd84f7c50aa1f8ae7"
+          },
+          {
+            "path": "Grundakte/08_Seidel_Leistungsmitteilung.pdf",
+            "sha256": "80ea9f4a63ea8957caa6bbf9a85af53b1a1f2015c8b84d607ef20d017226eaf3",
+            "pages": 1,
+            "text_sha256": "47efd907c7fa1bb952b50e6a52de33603cad9974f3ca70638842d873b779c8f6"
+          },
+          {
+            "path": "Grundakte/09_Rentenbescheid_Arbeitgeber_2021.pdf",
+            "sha256": "ab216ce9f5f607e292044a9b1884405508909088c6f66f5b00c0d863e9aa9807",
+            "pages": 1,
+            "text_sha256": "bcf6e1ce507b210afd90c2740622694144b902d30790a2f3ed2845ae84df5249"
+          },
+          {
+            "path": "Grundakte/10_HR_Erste_Rundmail.pdf",
+            "sha256": "f668e7a1204b24cc0f00aedb9f51b1d7037920942a410679283afbdce2ece949",
+            "pages": 1,
+            "text_sha256": "ec967140fe53969fefb7dcc63660c7491f5ff085eadd6387c11f617c96a1a69d"
+          },
+          {
+            "path": "Grundakte/11_Seidel_Anforderung.pdf",
+            "sha256": "6849be31c23da3dde791859eed3a22e799d6127a4ef436668850354d12539ae3",
+            "pages": 1,
+            "text_sha256": "bc836c226120d28f596689d2f7747fbc23529a23a5091dcfcfd14898ee2a11af"
+          },
+          {
+            "path": "Grundakte/12_Seidel_Email.pdf",
+            "sha256": "005e0213ea757b082e23472775f7eac1018b4f27998d3cf7c1233a9c97dc6de1",
+            "pages": 1,
+            "text_sha256": "0dc8e95fff58502c73bbb7aad07543a0ad352999e067febe382717d686af4ae2"
+          },
+          {
+            "path": "Grundakte/13_Anpassungsprotokoll_2024.pdf",
+            "sha256": "1c559178b768fbc7678fc76f7593a009bb1bd2152b7322d2985687ef3a8e4562",
+            "pages": 1,
+            "text_sha256": "9e525d0441e001ff988574fae5661fc124c477f299b09baaf23c8eb6c37f2b81"
+          },
+          {
+            "path": "Grundakte/14_Kassentarif_2010.pdf",
+            "sha256": "32116d2783270b4f2487de9e579abaa8cf0bd6c45c70afc4898f2b0ba8bfb151",
+            "pages": 1,
+            "text_sha256": "196e590f9680b3cb5c1c9d15aad4bd25b954cb93164707423bee111c492ab13c"
+          },
+          {
+            "path": "Grundakte/15_Treasury_Auftrag.pdf",
+            "sha256": "bc7575d85104df8ea9f58ed986b399117635c30532635a09763f412c575a3d16",
+            "pages": 1,
+            "text_sha256": "f59962da2c4fb6e44949c01b7a90e2fdc5803b8db96fe6b032b523ff21e7e87e"
+          },
+          {
+            "path": "Grundakte/16_Kasse_Finanzierungsvorschlag.pdf",
+            "sha256": "eb4364124283d3276c2e8b6331e623fb48a8e5ef9a1c20f4cc131e38908bd44d",
+            "pages": 1,
+            "text_sha256": "46a0c1db7795a37ef74ef044fad1ce6c818b374b2eb58d59e26443d4670eff3d"
+          },
+          {
+            "path": "Grundakte/17_Payroll_Abgleich.pdf",
+            "sha256": "3c2dcf02fdc466f3be7605ed21c001340ee64d9ea329a7fa5a07881dc64c435e",
+            "pages": 1,
+            "text_sha256": "c379223edddb0951dd1f13b809f2e1345200740fdaad023515ed6a38761c22f9"
+          },
+          {
+            "path": "Grundakte/18_Betriebsrat.pdf",
+            "sha256": "9ff9b670af005242bc737ab4a72f6d8bbd3db4fa09d92c0ff5528e3d4c248100",
+            "pages": 1,
+            "text_sha256": "7a90a022adc47f534491256ac139a22d446a2d2712e7e730aa3d3c5627ef47e7"
+          },
+          {
+            "path": "Grundakte/19_Lenkungskreis.pdf",
+            "sha256": "365b0aa73a51c6ebd5212a407bccd43f8d47cce53f43ba273ff8541641d7386f",
+            "pages": 1,
+            "text_sha256": "3a022b7e6e719c339d36778c7234a45876a0ce427eb04bd671431753d800f3b1"
+          },
+          {
+            "path": "Grundakte/20_Gesellschaftsfinanzierung.pdf",
+            "sha256": "272ff2c83bd5c777677da5c70d97709fb0431bb00a6b78e7e77c7a3a8b0772a0",
+            "pages": 1,
+            "text_sha256": "76da1178f7091ea4497217c671c62aa486037adf3885645b6d2f0dcb8c4031c8"
+          },
+          {
+            "path": "Grundakte/21_Teams_Renten.pdf",
+            "sha256": "ccdb413723df9ffd4d9054863469579bb1d8ad42b4d35186c6841c76488c2b74",
+            "pages": 1,
+            "text_sha256": "bfec2031f92539a67f913f52652742034bc15feb471055bd3db630e47bfa7a3e"
+          },
+          {
+            "path": "Grundakte/22_Unterlagenanforderung.pdf",
+            "sha256": "fec19d87f939e9bec2f30c318ddf1315403284b18c47d86228e83e8d9ec1fe57",
+            "pages": 1,
+            "text_sha256": "2dbb3cc59f7201273621731faefde76e41d193c7e08ff99bd036e5221ab6302e"
+          },
+          {
+            "path": "Grundakte/23_Service_Gespraech.pdf",
+            "sha256": "5f9f31879244a3991a90eb7124060e348f8233a0711992be56b65dcd78081924",
+            "pages": 1,
+            "text_sha256": "ff72dfb0232c6f81c4c25e7a8bcc25a86fdc703a9ca4c16cf815497256597b13"
+          },
+          {
+            "path": "Grundakte/27_Kuerzungen_Kohorten.pdf",
+            "sha256": "f47f24282ca45b7fcc581e77e961cae9623d53af18d8f2f335d28a4ec9fe20ed",
+            "pages": 4,
+            "text_sha256": "476b3ab104ec2f8dcd53f4e00bf8e1d8311c57d21ac9ab673fe65ec3048b6d56"
+          },
+          {
+            "path": "Grundakte/28_Treasury_Planung.pdf",
+            "sha256": "099868fa341ace2a9d7ac14a336a0bb66b3c64655af27ceaf9451c6c4f2b0832",
+            "pages": 3,
+            "text_sha256": "6ecd6a4ab9cc6a0ee88991e92631fbed7d47d221198fe2186078dcb415ad5de8"
+          },
+          {
+            "path": "Grundakte/29_Detailauszug_42.pdf",
+            "sha256": "5a7120176c24fc72eb9dc279998074662a29c66a0bd263f8125418d4286a8c88",
+            "pages": 2,
+            "text_sha256": "ec0cffb01cbb005f2c065e67b6f7ced67c561dfbd763c65ecf27e036b0f8a27f"
+          },
+          {
+            "path": "Grundakte/30_Dokumenteneingang.pdf",
+            "sha256": "6e55f96c4f6b0becbc248a995847b85f8527f29ebd71b94419f256c2141bb7a6",
+            "pages": 1,
+            "text_sha256": "0708fe8f8923a733f85d57bfa946d0755c5670d34ee323ab0fbc1145e11d7d46"
+          },
+          {
+            "path": "Grundakte/31_Lenkungskreis.pdf",
+            "sha256": "b9e98c12d1caec069a66b50a9fa94d990f0c3715259a831cadc309abc5399dea",
+            "pages": 4,
+            "text_sha256": "029b04088bd080bf0ffc09daa6e743f970a85f35e5d97d1ed72a4a8f2e0c940e"
+          },
+          {
+            "path": "Grundakte/33_Portal_Status.pdf",
+            "sha256": "b6329a04c0eaac413bb7440b64936ecebcc83a896aa12ec4adc87f4918312fa0",
+            "pages": 1,
+            "text_sha256": "15f7b59ffbf000a2bc2ad59bbe3a3283c0ef94025c3f0fab6dec381b5fcd587c"
+          },
+          {
+            "path": "Grundakte/34_Verguetungsvereinbarung.pdf",
+            "sha256": "e45579c352150d74938082d73aa1ee6547da0ea83d3a79f6a19454487cbd6ccd",
+            "pages": 1,
+            "text_sha256": "79a62f78003b668bf131c664b9c4715dad3b87f8a5e78945b724ce3f2cf45b6a"
+          },
+          {
+            "path": "Grundakte/35_Liquiditaet_Service.pdf",
+            "sha256": "ec282abb7485ac41c72278adcb5d6b6f6d8e4dba6290de03e650990d26a79749",
+            "pages": 1,
+            "text_sha256": "2f3a195e21d58d2fa3a93a38d653066b662f0e2cbf4aa8364becffb4673fbcb0"
+          }
+        ]
+      },
+      "gesamt_pdf": {
+        "path": "testakten/bav-pensionskasse-niederrhein-verbund/gesamt-pdf/bav-pensionskasse-niederrhein-verbund_gesamt.pdf",
+        "sha256": "19e6b4f2b0cee6876c095b22d965bdc3937b75ccb4ad42968005e151e684e5de",
+        "pages": 50,
+        "text_sha256": "e3438b6aed96658e22098b90c6dceb3e48c1a42da42258048b0b7d0dd0a71fb9"
+      }
+    }
+  ]
+}

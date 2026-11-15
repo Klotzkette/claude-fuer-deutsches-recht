@@ -16,6 +16,10 @@ MAX_ARCHIVE_NAME = 220
 # Diese Fassung wurde ausdrücklich als vollständige Projektordner-Akte bestellt.
 # Bestehende Testakten behalten ihre flachen Archive.
 STRUCTURED_TESTAKTEN = frozenset({
+    'bav-strategie-konzern-meissner-rheinwerk-ag',
+    'bav-carve-out-rheinbogen-automation',
+    'bav-rentnergesellschaft-rheinhafen-logistik',
+    'bav-pensionskasse-niederrhein-verbund',
     'bauunternehmer-einkauf-altstadt-bordsteine',
     'bauunternehmer-einkauf-brandschutztueren-krimpfort',
     'bauunternehmer-einkauf-lueftungszentralen-krimpfort',
@@ -35,6 +39,10 @@ STRUCTURED_TESTAKTEN = frozenset({
 # Produkte. Das Originalformat-ZIP enthält nur die Quelldokumente; das
 # Gesamt-PDF wird separat und zusätzlich als Einzel-PDF-ZIP bereitgestellt.
 SOURCE_ZIP_WITHOUT_GESAMT_PDF = frozenset({
+    'bav-strategie-konzern-meissner-rheinwerk-ag',
+    'bav-carve-out-rheinbogen-automation',
+    'bav-rentnergesellschaft-rheinhafen-logistik',
+    'bav-pensionskasse-niederrhein-verbund',
     'forderungsmanagement-baeckerei-behaeltertausch-hamburg',
     'bauunternehmer-einkauf-altstadt-bordsteine',
     'bauunternehmer-einkauf-lueftungszentralen-krimpfort',

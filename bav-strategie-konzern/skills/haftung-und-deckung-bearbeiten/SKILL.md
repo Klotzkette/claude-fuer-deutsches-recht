@@ -1,58 +1,40 @@
 ---
 name: haftung-und-deckung-bearbeiten
-description: "Für Betriebliche Altersversorgung: Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt."
+description: "Prüft Arbeitgeber-Einstandspflicht, Rentenanpassung, PSV, Rückdeckung und CTA getrennt und berechnet die konkrete Versorgungslücke mit den richtigen Übergangsregeln."
 ---
 
-# Haftung und Deckung
+# 1. Leistungslücken, Anpassung und Sicherung prüfen
 
-## 1. Zweck und Anwendungsfall
+## 1.1. Zweck und Anwendungsfall
 
-Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen.
+Du nutzt diesen Skill bei Pensionskassensenkung, Anpassungsentscheidung, Finanzierungslücke oder Insolvenzschutz. Zeige zuerst, wer was schuldet, was tatsächlich gezahlt wird und welche Sicherung eingreift.
 
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+## 1.2. Eingaben
 
-## 2. Eingaben
+Zusage, Trägerbedingungen und Kürzungsbescheid, Zahlungsdaten, Rentenbeginn und Stichtage, wirtschaftliche Arbeitgeberdaten, CTA-/Rückdeckungsverträge und PSV-Unterlagen.
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+## 1.3. Ablauf und Checkliste
 
-## 3. Ablauf
+1. Ermittle die zugesagte Leistung und tatsächliche Trägerleistung getrennt. § 1 Abs. 1 Satz 3 BetrAVG begründet Erfüllungsverantwortung; dynamische Satzungsverweisung nimmt nicht automatisch jede Sanierungskürzung in die Arbeitgeberzusage auf.
+2. Prüfe die reine Beitragszusage nur bei erfülltem Sozialpartnermodell-Tatbestand. Eine normale beitragsorientierte Zusage darf nicht wie haftungsfreie DC behandelt werden.
+3. Für § 16 BetrAVG Rentenbeginn, Stichtag und Schuldner feststellen. Sämtliche einschlägigen Ausnahmen, insbesondere Überschussverwendung, Mindestleistungszusage und Entgeltumwandlung, prüfen. Bei 1 Prozent jährlich § 30c Abs. 1, bei Entgeltumwandlung Abs. 3 beachten.
+4. Alte Zusagen werden durch eine neue Ordnung nicht automatisch zu Zusagen nach 1998. BAG, Urteil vom 25.11.2025 – Az. 3 AZR 91/25, Rn. 18–31, lesen. Tatsächliche Anpassung, §-16-Prüfung und vertragliche Tarifdynamik getrennt berechnen.
+5. Prüfe wirtschaftliche Prognose anhand repräsentativer Arbeitgeberdaten; Konzerngewinn nicht automatisch zurechnen. § 16 Abs. 4 verlangt besondere schriftliche Darlegung, Hinweis und Zugang für die Drei-Kalendermonats-Regel.
+6. Prüfe CTA-Zweckbindung und Zugriff sowie PSV-Schutz nach Person und Durchführungsweg. § 10 betrifft Beiträge, § 11 Meldung; jährliche Bemessungsgrundlage grundsätzlich bis 30. September. Kein allgemeiner Pensionskassenausschluss, keine Konzernhaftung aus § 7 Abs. 4.
+7. Stelle die verbleibende Lücke und den konkreten nächsten Schritt fest. Für CTA, Sicherungsfälle und Meldungen zusätzlich [Kapitel 5 zu Finanzierung und Insolvenzschutz](../../references/konzern/05-finanzierung-cta-und-insolvenzschutz.md) lesen.
 
-### 3.1. Arbeitsschritt
+## 1.4. Quellenpflicht
 
-Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen.
+Lies [das einschlägige Fachkapitel](../../references/konzern/03-anpassung-und-arbeitgeberhaftung.md) und bei Rechtsaussagen [Quellen und Rechtsstand](../../references/konzern/08-quellen-und-rechtsstand.md). Prüfe Normfassung und tatsächliche Entscheidungsstelle für den konkreten Stichtag; Gericht, Entscheidungsart, Datum, Aktenzeichen und tragende Randnummer nennen. Tatsachen mit Datei/Seite oder Blatt/Zelle belegen. Ungeprüfte Funde, fiktive Fallunterlagen und aktuariell nicht berechnete Werte nicht als verifiziert ausgeben. Die acht Kapitel ersetzen die früheren verstreuten Fachvertiefungen.
 
-### 3.2. Arbeitsschritt
+## 1.5. Ausgabeformat
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Soll-/Ist-Überleitung mit Arbeitgeberdifferenz, gesonderte Anpassungsrechnung und beauftragtes Schreiben oder Entscheidungsmemo. Eine Deckungskarte zeigt Rechtsgrund, Vermögensinhaber und Ausfallfolge.
 
-### 3.3. Arbeitsschritt
+Enddokumente in vollständigen Sätzen ausformulieren; keine Skelette oder bloßen Überschriften als fertiges Ergebnis. Formelle Dateiausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Einen nötigen Exporthinweis außerhalb des Empfängertexts halten.
 
-Welche Anwartschaft oder laufende Leistung ist nach welchem Stichtag geschützt und wie ist sie berechnet.
+## 1.6. Beispiel
 
-### 3.4. Arbeitsschritt
+Die Kasse zahlt 920 statt zugesagter 1.000 Euro. Prüfe zunächst die 80-Euro-Erfüllungslücke, anschließend separat Anpassung und bereits erfolgte Arbeitgeberzahlungen. Die Rechnung darf die beiden Ansprüche nicht doppelt zählen.
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
-
-### 3.5. Fachvertiefungen gezielt laden
-
-Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.
-
-- [bAV: Pensionsfonds-Rueckdeckung](../bav-pensionsfond-rueckdeckung-spezial/FACHINHALT.md)
-- [PSV — Pensionssicherungsverein und Haftungsketten](../psv-pensionssicherungsverein-und-haftungsketten/FACHINHALT.md)
-
-## 4. Quellenpflicht
-
-Trenne vorgelegte Tatsachen, eigene Berechnungen und rechtliche oder fachliche Wertungen. Prüfe entscheidungstragende Normen, Rechtsprechung und sonstige Quellen anhand zugänglicher Primärquellen auf Geltungszeitpunkt, Aussage und Übertragbarkeit. Historische Quellen sind in ihrem zeitlichen Zusammenhang auszuwerten. Eine Quellenangabe im Fachinhalt ersetzt keine aktuelle Einzelfallprüfung; behaupte keine nicht durchgeführte Verifikation.
-
-## 5. Ausgabeformat
-
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Haftung und Deckung“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
-
-Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
-
-## 6. Beispiele
-
-- Ein Auftrag zu „bAV: Pensionsfonds-Rueckdeckung“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „PSV — Pensionssicherungsverein und Haftungsketten“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+Für passende interaktive Ansichten beachte die [Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md).
