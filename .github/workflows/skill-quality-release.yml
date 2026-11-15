@@ -53,7 +53,7 @@ jobs:
           git merge-base --is-ancestor HEAD origin/main
           test "$TAG" = "$(python3 -c 'import json; print(json.load(open("scripts/data/skill-quality-release-scope.json"))["tag"])')"
           test -s "docs/releases/$TAG.md"
-          python3 -m pip install PyYAML jsonschema pypdf openpyxl python-docx 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3'
+          python3 -m pip install -r requirements.txt
       - name: Struktur, Auswahl und Quellenbindung prüfen
         run: |
           node scripts/validate-plugin-structure.mjs
