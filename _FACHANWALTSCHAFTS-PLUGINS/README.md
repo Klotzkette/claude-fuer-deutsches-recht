@@ -1,8 +1,8 @@
 # Fachanwaltschafts-Plugins: Übersicht
 
-Dieser Ordner ist ein Wegweiser zu 24 Plugins, kein eigenes Plugin und kein installierbares Paket. Die Einträge sind alphabetisch nach Plugin-Slug sortiert. Das Steuerrechts-Plugin heißt im Marketplace `steuerrecht-anwalt-und-berater` und steht deshalb am Ende der Liste.
+Dieser Ordner führt Fachanwältinnen und Fachanwälte zu den 24 Fachprofilen der Sammlung. Wählen Sie nach Rechtsgebiet; jedes Profil führt zu seinem Plugin, den enthaltenen Skills, Werkstatt- und Mini-Prompts und Testakten. Steuerrecht hat einen eigenen [Facheinstieg](../fachanwalt-steuerrecht/README.md) und verwendet das gemeinsame [Plugin für Steuerrecht und Steuerberatung](../steuerrecht-anwalt-und-berater/README.md). Der Wegweiser selbst ist kein Installationspaket.
 
-## Navigation
+## 1. Navigation
 
 - [Repository-Hauptseite](../README.md) mit Installation und Einstieg
 - [Vollständige Register von A bis Z](../README.md#alle-vollständigen-listen-von-a-bis-z) für den gesamten Bestand, nicht nur diese Auswahl
@@ -10,7 +10,7 @@ Dieser Ordner ist ein Wegweiser zu 24 Plugins, kein eigenes Plugin und kein inst
 - [Webübersicht](https://klotzkette.github.io/claude-fuer-deutsches-recht/) zum Durchsehen der Plugins und Downloads
 - [Vorsichtsmaßnahmen vor echtem Mandatsmaterial](../README.md#kontrollliste-vor-echtem-mandatsmaterial)
 
-## Welche Datei wofür?
+## 2. Welche Datei wofür?
 
 | Bestandteil | Zweck und Zugang |
 | --- | --- |
@@ -25,7 +25,7 @@ README- und Verzeichnislinks dienen der Navigation. Die mit „MD herunterladen�
 
 English: This folder is a guide to 24 plugins, not an installable plugin. Names below open plugin folders; “Skills” opens the complete list with descriptions and individual Markdown downloads. Plugin ZIPs are installable packages. Quick-start and workshop prompts are separate Markdown downloads, not skills or ZIP contents. See the [complete registry](../README.md#alle-vollständigen-listen-von-a-bis-z) and read the [precautions](../README.md#kontrollliste-vor-echtem-mandatsmaterial) before using real case material.
 
-## Die 24 Fachanwaltschafts-Plugins
+## 3. Die 24 Fachprofile
 
 | Plugin | Rechtsgebiet | Skills |
 | --- | --- | --- |
@@ -45,6 +45,7 @@ English: This folder is a guide to 24 plugins, not an installable plugin. Names 
 | [`fachanwalt-migrationsrecht`](../fachanwalt-migrationsrecht) | Migrationsrecht | [Skills](../skills-index/fachanwalt-migrationsrecht.md) |
 | [`fachanwalt-sozialrecht`](../fachanwalt-sozialrecht) | Sozialrecht | [Skills](../skills-index/fachanwalt-sozialrecht.md) |
 | [`fachanwalt-sportrecht`](../fachanwalt-sportrecht) | Sportrecht | [Skills](../skills-index/fachanwalt-sportrecht.md) |
+| [Fachanwalt Steuerrecht](../fachanwalt-steuerrecht/README.md) · [gemeinsames Plugin](../steuerrecht-anwalt-und-berater/README.md) | Steuerrecht | [Skills](../skills-index/steuerrecht-anwalt-und-berater.md) |
 | [`fachanwalt-strafrecht`](../fachanwalt-strafrecht) | Strafrecht | [Skills](../skills-index/fachanwalt-strafrecht.md) |
 | [`fachanwalt-transport-speditionsrecht`](../fachanwalt-transport-speditionsrecht) | Transport- und Speditionsrecht | [Skills](../skills-index/fachanwalt-transport-speditionsrecht.md) |
 | [`fachanwalt-urheber-medienrecht`](../fachanwalt-urheber-medienrecht) | Urheber- und Medienrecht | [Skills](../skills-index/fachanwalt-urheber-medienrecht.md) |
@@ -52,4 +53,5 @@ English: This folder is a guide to 24 plugins, not an installable plugin. Names 
 | [`fachanwalt-verkehrsrecht`](../fachanwalt-verkehrsrecht) | Verkehrsrecht | [Skills](../skills-index/fachanwalt-verkehrsrecht.md) |
 | [`fachanwalt-versicherungsrecht`](../fachanwalt-versicherungsrecht) | Versicherungsrecht | [Skills](../skills-index/fachanwalt-versicherungsrecht.md) |
 | [`fachanwalt-verwaltungsrecht`](../fachanwalt-verwaltungsrecht) | Verwaltungsrecht | [Skills](../skills-index/fachanwalt-verwaltungsrecht.md) |
-| [`steuerrecht-anwalt-und-berater`](../steuerrecht-anwalt-und-berater) | Steuerrecht | [Skills](../skills-index/steuerrecht-anwalt-und-berater.md) |
+
+Die Fachprofile bleiben als eigene Zugänge erhalten. Ergänzende Spezialwerkzeuge finden Sie in den [Plugin-Gruppen](../plugin-gruppen/README.md); ein ähnliches Rechtsgebiet allein bedeutet keine doppelte Funktion.
