@@ -783,7 +783,7 @@
     "testakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip": "grundakten-sammlung-v1.0.0",
     "testakte-bauwirtschaft-neubau-achtfamilienhaus-hildesheim.zip": "grundakten-sammlung-v1.0.0",
     "testakte-bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim.zip": "grundakten-sammlung-v1.0.0",
-    "testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip": "bav-strategie-konzern-v445.36.3",
+    "testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip": "bav-strategie-konzern-v445.36.4",
     "testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip": "grundakten-sammlung-v1.0.0",
     "testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip": "grundakten-sammlung-v1.0.0",
     "testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip": "grundakten-sammlung-v1.0.0",
@@ -1096,7 +1096,7 @@
     "bautraegervertrag-pruefer.zip": "qualitaetsrunde-v445.36.0",
     "bautraegervertragspruefer.zip": "qualitaetsrunde-v445.36.0",
     "bauwirtschaft.zip": "qualitaetsrunde-v445.36.0",
-    "bav-strategie-konzern.zip": "bav-strategie-konzern-v445.36.3",
+    "bav-strategie-konzern.zip": "bav-strategie-konzern-v445.36.4",
     "beamtenrecht.zip": "qualitaetsrunde-v445.36.0",
     "bereicherungs-und-anfechtungsrecht-pruefer.zip": "qualitaetsrunde-v445.36.0",
     "berufsrecht-notare.zip": "qualitaetsrunde-v445.36.0",
@@ -1241,12 +1241,12 @@
     "anwaltschaft-generell.zip": "qualitaetsrunde-v445.36.1",
     "corporate-contract-law.zip": "qualitaetsrunde-v445.36.1",
     "wirtschaftsanwalt.zip": "qualitaetsrunde-v445.36.1",
-    "testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip": "bav-strategie-konzern-v445.36.3",
-    "testakte-bav-carve-out-rheinbogen-automation.zip": "bav-strategie-konzern-v445.36.3",
-    "testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip": "bav-strategie-konzern-v445.36.3",
-    "testakte-bav-rentnergesellschaft-rheinhafen-logistik.zip": "bav-strategie-konzern-v445.36.3",
-    "testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip": "bav-strategie-konzern-v445.36.3",
-    "testakte-bav-pensionskasse-niederrhein-verbund.zip": "bav-strategie-konzern-v445.36.3",
-    "testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip": "bav-strategie-konzern-v445.36.3"
+    "testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip": "bav-strategie-konzern-v445.36.4",
+    "testakte-bav-carve-out-rheinbogen-automation.zip": "bav-strategie-konzern-v445.36.4",
+    "testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip": "bav-strategie-konzern-v445.36.4",
+    "testakte-bav-rentnergesellschaft-rheinhafen-logistik.zip": "bav-strategie-konzern-v445.36.4",
+    "testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip": "bav-strategie-konzern-v445.36.4",
+    "testakte-bav-pensionskasse-niederrhein-verbund.zip": "bav-strategie-konzern-v445.36.4",
+    "testakte-bav-pensionskasse-niederrhein-verbund-einzelpdfs.zip": "bav-strategie-konzern-v445.36.4"
   }
 }

@@ -172,17 +172,18 @@
     "latest_editorial_scope": "Vollständige Textlektüre der aktiven Neufassung; Rechtsquellenprüfung nur im ausdrücklich dokumentierten Umfang. Keine vollständige Steuer-, IFRS- oder Auslandsgutachtenprüfung."
   },
   "workshop_review": {
-    "sha256": "9ece3f016d5b983b4e3c3f7427397095d884853e4b7fcfe16b25fa305dcf02f2",
+    "sha256": "84fab582dc73575769b095046d8e31d47acce47a5ba8eb182b633742366c2fe6",
     "verdict": "revised",
     "reviewed_on": "2026-11-15",
-    "reason": "Eigenständige Neufassung vollständig redaktionell gelesen; Quellenstellen nach quellenpruefung.json geprüft. Gegenlese der Haftungs-, Übergangs-, Zuständigkeits- und Ausgabewege. Kein Live-Modelltest.",
+    "reason": "Fachfassung am 15.11.2026 vollständig redaktionell gelesen und in den dokumentierten Quellenpassagen geprüft. Anschließende Namenskorrektur für Version 445.36.4 anhand des vollständigen Text-Diffs gegengelesen: fiktive Kanzlei, Person, Anrede, Beispieldomain und Aktenzeichenpräfix. Keine zusätzliche umfassende Rechtsquellenprüfung und kein Live-Modelltest.",
     "changes": [
       "Arbeitgeberzusage, Trägerleistung, Finanzierung und Bilanzierung getrennt.",
       "Drei-Stufen-Schutz, §16-Ausnahmen, §30c und BRSG-II-Inkrafttreten korrigiert.",
       "Konzerntransaktionen, Rentnergesellschaft, CTA, PSV und ausformulierte Endprodukte präzisiert.",
-      "Verständlicher Einstieg, kohortenbezogene Visualisierung und Fortsetzung bei neuen Belegen."
+      "Verständlicher Einstieg, kohortenbezogene Visualisierung und Fortsetzung bei neuen Belegen.",
+      "Fiktive Kanzlei Kashiwara · Treuenfels, Dr. Kashiwara Harunobu, Anrede Herr Dr. Kashiwara und Aktenzeichenpräfix KT- konsistent verwendet."
     ],
-    "latest_editorial_scope": "Vollständige Textlektüre der aktiven Neufassung; Rechtsquellenprüfung nur im ausdrücklich dokumentierten Umfang. Keine vollständige Steuer-, IFRS- oder Auslandsgutachtenprüfung."
+    "latest_editorial_scope": "Namens- und Identitätskorrektur auf Grundlage der zuvor geprüften Fachfassung; vollständiger Diff der geänderten Passage gelesen. Unveränderte rechtliche Aussagen behalten ausschließlich den früher dokumentierten Prüfungsumfang."
   },
   "selection": {
     "positive": [
@@ -580,7 +581,7 @@
   "reviewed_file_hashes": {
     "bav-strategie-konzern/skills/aenderung-und-harmonisierung-bearbeiten/SKILL.md": "4706f31b60bc271508955c9ffde4422cca6a5f6ecc89d269317a5dbeb88198a1",
     "bav-strategie-konzern/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md": "ea2a90753d6e3dc8dd23d0cc7e195fa3617af449c174afc4014bf8d85cdba468",
-    "bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md": "57306cde3d71d98b05a4282d2f6eb372f42684f5e6f3f1ffa8aa79bbfcf8697c",
+    "bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md": "2f35a96795efb9bcb93a94dd8693c4a329611af8ce7842212f44f24c61ca5e9f",
     "bav-strategie-konzern/skills/bestand-erfassen-bearbeiten/SKILL.md": "fa7bfa938f6a633437fcf11602d6b548cbfd27ed9bfe3ffd74708ce356b370f1",
     "bav-strategie-konzern/skills/einstieg-routing/SKILL.md": "5a77d06802840d568ac050c0dd8fdef3e1b02e7515567a58b125eae382483a60",
     "bav-strategie-konzern/skills/haftung-und-deckung-bearbeiten/SKILL.md": "4f7448446ad48ae9d02e46c5e3ca4760c453ba7b289ef22df82d67cf6d096d40",
@@ -594,9 +595,9 @@
     "bav-strategie-konzern/references/konzern/04-transaktionen-und-rentnergesellschaft.md": "f3c8d81397a6d111b31c0fcc358a457494050f9a633e086c3e8d46cfc909c482",
     "bav-strategie-konzern/references/konzern/05-finanzierung-cta-und-insolvenzschutz.md": "89e19318c182d2fd15e04e25de3b5e5381d3afbc05a63c8aba7ec0f50c4f2568",
     "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md": "bed403549c80b033acc06038327f2ad3a09660a092262eb324919efae98c1176",
-    "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md": "76f18faa8e0155d2602f5389c67ccaaced07dbdf72a93a307656056532c9de75",
+    "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md": "aeb2289e4210304ec63917a7247dbaae873aacdfed0c3eb7e0f935832f52f572",
     "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md": "f6a4df6460156db21a63fb1a3d09cf579d92425b85bd65f5c964cfd358a5a79a",
-    "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md": "9ece3f016d5b983b4e3c3f7427397095d884853e4b7fcfe16b25fa305dcf02f2",
+    "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md": "84fab582dc73575769b095046d8e31d47acce47a5ba8eb182b633742366c2fe6",
     "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md": "111e23e17c2f960ff5d3697749ebd69edc5a5516e29bc07de1653d7cf587b84e"
   },
   "fachaudit_2026_11_15": {
@@ -604,5 +605,44 @@
     "source_review": "quality/bav-konzern-2026-11-15/fachlichkeit/quellenpruefung.json",
     "legacy_mapping": "quality/bav-konzern-2026-11-15/legacy/mapping.json",
     "method": "desk_review_with_primary_source_passages"
+  },
+  "name_review_445_36_4": {
+    "date": "2026-11-15",
+    "method": "editorial_diff_review",
+    "scope": "Fiktive Kanzleiidentität und scoped Version/Downloadrouting; keine neue Rechtsquellenprüfung.",
+    "report": "quality/bav-kashiwara-445.36.4/textintegration.json",
+    "artifact_report": "quality/bav-kashiwara-445.36.4/artefakte-pruefung.json",
+    "changed_reviewed_files": [
+      {
+        "path": "bav-strategie-konzern/skills/arbeitsprodukt-bearbeiten/SKILL.md",
+        "before_sha256": "57306cde3d71d98b05a4282d2f6eb372f42684f5e6f3f1ffa8aa79bbfcf8697c",
+        "sha256": "2f35a96795efb9bcb93a94dd8693c4a329611af8ce7842212f44f24c61ca5e9f"
+      },
+      {
+        "path": "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md",
+        "before_sha256": "76f18faa8e0155d2602f5389c67ccaaced07dbdf72a93a307656056532c9de75",
+        "sha256": "aeb2289e4210304ec63917a7247dbaae873aacdfed0c3eb7e0f935832f52f572"
+      },
+      {
+        "path": "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
+        "before_sha256": "9ece3f016d5b983b4e3c3f7427397095d884853e4b7fcfe16b25fa305dcf02f2",
+        "sha256": "84fab582dc73575769b095046d8e31d47acce47a5ba8eb182b633742366c2fe6"
+      }
+    ],
+    "unchanged_reviewed_file_count": 17,
+    "previous_workshop_review": {
+      "sha256": "9ece3f016d5b983b4e3c3f7427397095d884853e4b7fcfe16b25fa305dcf02f2",
+      "verdict": "revised",
+      "reviewed_on": "2026-11-15",
+      "reason": "Eigenständige Neufassung vollständig redaktionell gelesen; Quellenstellen nach quellenpruefung.json geprüft. Gegenlese der Haftungs-, Übergangs-, Zuständigkeits- und Ausgabewege. Kein Live-Modelltest.",
+      "changes": [
+        "Arbeitgeberzusage, Trägerleistung, Finanzierung und Bilanzierung getrennt.",
+        "Drei-Stufen-Schutz, §16-Ausnahmen, §30c und BRSG-II-Inkrafttreten korrigiert.",
+        "Konzerntransaktionen, Rentnergesellschaft, CTA, PSV und ausformulierte Endprodukte präzisiert.",
+        "Verständlicher Einstieg, kohortenbezogene Visualisierung und Fortsetzung bei neuen Belegen."
+      ],
+      "latest_editorial_scope": "Vollständige Textlektüre der aktiven Neufassung; Rechtsquellenprüfung nur im ausdrücklich dokumentierten Umfang. Keine vollständige Steuer-, IFRS- oder Auslandsgutachtenprüfung."
+    },
+    "source_review_preserved": "quality/bav-konzern-2026-11-15/fachlichkeit/quellenpruefung.json"
   }
 }

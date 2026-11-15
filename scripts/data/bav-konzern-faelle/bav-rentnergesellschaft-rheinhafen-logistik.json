@@ -6,13 +6,13 @@
   "story": "Die Rheinhafen-Gruppe will ihr operatives Hafengeschäft neu ordnen. 1.240 laufende Renten und 186 unverfallbare Anwartschaften stehen einem internen Verpflichtungsmodell von 86,4 Mio. EUR gegenüber. Drei Anbieter schlagen Verwaltung, Versicherung beziehungsweise Übernahme einer Rentnergesellschaft vor. Im Vorstand werden zwei unterschiedliche Wege vermischt: Ausgliederung der Versorgung in eine neue Gesellschaft oder Verbleib der Verpflichtungen in der bisherigen Gesellschaft nach Verkauf des operativen Betriebs. Als Finanzierung ist neben Wertpapieren eine Hafenimmobilie vorgesehen.",
   "assignment": "Vergleichen Sie Struktur, Haftung, Finanzierung und Leistungsumfang der drei Angebote. Entwickeln Sie einen belastbaren Entscheidungsvorschlag mit Stressrechnung, Unterlagenliste und ausformulierten Verhandlungsunterlagen. Prüfen Sie die tatsächlich gewählte Übertragungsstruktur; nehmen Sie keine automatische Befreiung bisheriger Schuldner an.",
   "law_firm": {
-    "name": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB",
+    "name": "Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB",
     "address": "Am Rheinbogen 18, 51373 Leverkusen",
     "partners": [
-      "Dr. Monkī D. Rufi",
+      "Dr. Kashiwara Harunobu",
       "Dr. Nora Treuenfels"
     ],
-    "email": "mail@monki-treuenfels.example"
+    "email": "mail@kashiwara-treuenfels.example"
   },
   "documents": [
     {
@@ -22,7 +22,7 @@
       "title": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
       "date": "2026-10-14",
       "sender": "Vorstand <vorstand@rheinhafen-logistik.example>",
-      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@kashiwara-treuenfels.example>",
       "subject": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
       "body": [
         "Sehr geehrte Frau Dr. Treuenfels,",
@@ -34,7 +34,7 @@
       ],
       "attachments": [],
       "from_email": "vorstand@rheinhafen-logistik.example",
-      "to_email": "mail@monki-treuenfels.example"
+      "to_email": "mail@kashiwara-treuenfels.example"
     },
     {
       "id": "02",
@@ -42,12 +42,12 @@
       "kind": "pdf",
       "title": "Mandatsvereinbarung – betriebliche Altersversorgung",
       "date": "2026-10-15",
-      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "sender": "Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Kashiwara Harunobu / Dr. Nora Treuenfels\nmail@kashiwara-treuenfels.example",
       "recipient": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
       "subject": "Mandatsvereinbarung – betriebliche Altersversorgung",
       "body": [
         "1 Vertragsparteien und Gegenstand",
-        "Rheinhafen Logistik Holding GmbH beauftragt Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Monkī D. Rufi und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen MT-ANKER-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
+        "Rheinhafen Logistik Holding GmbH beauftragt Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Kashiwara Harunobu und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen KT-ANKER-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
         "1.1 Geschuldete Leistungen",
         "Die Kanzlei sichtet die zur Verfügung gestellten Versorgungsregelungen, Verträge und Korrespondenzen, erhebt entscheidungserhebliche Lücken und erstellt nach Abstimmung des Sachverhalts eine rechtliche Entscheidungsvorlage. Auf gesonderte Anforderung werden vollständige Entwürfe für Verhandlungen, Beschäftigteninformationen und erforderliche Vertragsänderungen erstellt. Eine automatische Versendung oder Einreichung ist nicht beauftragt. Die Mandantin entscheidet über tatsächliche Umsetzung und Budget.",
         "1.2 Abgrenzung der Beratung",
@@ -62,7 +62,7 @@
         "Der Datenaustausch erfolgt über den vereinbarten geschützten Datenraum. Beschäftigtendaten werden nur den für das Mandat erforderlichen Personen zugänglich gemacht. Die Parteien verwenden in Arbeitslisten möglichst Personalnummern. Über den Einsatz zusätzlicher Dienstleister und den erforderlichen Zugriff wird gesondert entschieden. Eine allgemeine Zustimmung zur Weitergabe vollständiger Personalakten an frei zugängliche Systeme wird durch diese Vereinbarung nicht erteilt.",
         "5 Freigabe, Beendigung und Aktenherausgabe",
         "Erklärungen gegenüber Beschäftigten, Gremien, Versorgungsträgern oder Behörden bedürfen der inhaltlichen Freigabe der Mandantin. Gesetzliche berufliche Pflichten der Kanzlei bleiben unberührt. Bei Beendigung werden die vom Unternehmen überlassenen Dokumente und die zur Fortführung erforderlichen Arbeitsstände geordnet bereitgestellt; Aufbewahrungspflichten bleiben bestehen. Änderungen des Beratungsgegenstands und zusätzlicher Vertretungsaufträge werden dokumentiert.",
-        "Für Rheinhafen Logistik Holding GmbH: Geschäftsleitung, elektronisch freigegeben am 2026-10-15.\nFür Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-15."
+        "Für Rheinhafen Logistik Holding GmbH: Geschäftsleitung, elektronisch freigegeben am 2026-10-15.\nFür Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-15."
       ],
       "attachments": []
     },
@@ -1049,7 +1049,7 @@
       "kind": "pdf",
       "title": "Vergütungsvereinbarung Projekt ANKER",
       "date": "2026-10-15",
-      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "sender": "Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Kashiwara Harunobu / Dr. Nora Treuenfels\nmail@kashiwara-treuenfels.example",
       "recipient": "Rheinhafen Logistik Holding GmbH\nHafenallee 62\n47119 Duisburg",
       "subject": "Vergütungsvereinbarung Projekt ANKER",
       "body": [
@@ -1084,7 +1084,7 @@
       "title": "Vor Entscheidung: neun Sonderklauseln und Anpassungskosten",
       "date": "2026-11-06",
       "sender": "Personalservice <pensionen@rheinhafen-logistik.example>",
-      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@kashiwara-treuenfels.example>",
       "subject": "Vor Entscheidung: neun Sonderklauseln und Anpassungskosten",
       "body": [
         "Sehr geehrte Frau Dr. Treuenfels,",
@@ -1094,7 +1094,7 @@
       ],
       "attachments": [],
       "from_email": "pensionen@rheinhafen-logistik.example",
-      "to_email": "mail@monki-treuenfels.example"
+      "to_email": "mail@kashiwara-treuenfels.example"
     }
   ],
   "workbooks": [

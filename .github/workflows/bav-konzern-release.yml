@@ -22,7 +22,7 @@ on:
       tag:
         description: Unbenutzter Komponententag
         required: true
-        default: bav-strategie-konzern-v445.36.3
+        default: bav-strategie-konzern-v445.36.4
       expected_commit:
         description: Vollständiger geprüfter Main-Commit
         required: true
@@ -43,7 +43,7 @@ jobs:
       contents: write
     env:
       EXPECTED_COMMIT: ${{ inputs.expected_commit || github.sha }}
-      TAG: ${{ inputs.tag || 'bav-strategie-konzern-v445.36.3' }}
+      TAG: ${{ inputs.tag || 'bav-strategie-konzern-v445.36.4' }}
     steps:
       - name: Veröffentlichung ausschließlich von main
         if: github.event_name == 'workflow_dispatch' && github.ref != 'refs/heads/main'
@@ -51,7 +51,7 @@ jobs:
       - name: Unveränderliche Eingabe prüfen
         run: |
           [[ "$EXPECTED_COMMIT" =~ ^[a-f0-9]{40}$ ]]
-          test "$TAG" = 'bav-strategie-konzern-v445.36.3'
+          test "$TAG" = 'bav-strategie-konzern-v445.36.4'
       - uses: actions/checkout@v5
         with:
           ref: ${{ inputs.expected_commit || github.sha }}

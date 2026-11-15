@@ -14,8 +14,8 @@ Beginnen Sie im Originalformat-ZIP mit `Grundakte`. Dort liegen die beim ersten 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf`](gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.3/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip) |
 
 Die Gesamt-PDF führt mit Lesezeichen durch beide Bearbeitungsstände. Sie und eine Musterlösung sind im Originalformat-ZIP nicht enthalten.
 
@@ -58,7 +58,7 @@ Nach dem Archivfund die betroffenen Zuordnungen und Berechnungsannahmen erneut p
 
 ## 5. Rahmen der Übung
 
-Mandatiert ist die fiktive Boutique **Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB**, Am Rheinbogen 18, 51373 Leverkusen, mit Dr. Monkī D. Rufi und Dr. Nora Treuenfels. Unternehmen, Personen, Anschriften und Konditionen sind Übungsmaterial. Adressen unter `.example` sind reservierte Beispieldomains.
+Mandatiert ist die fiktive Boutique **Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB**, Am Rheinbogen 18, 51373 Leverkusen, mit Dr. Kashiwara Harunobu und Dr. Nora Treuenfels. Der Familienname steht zuerst; die Anrede lautet „Herr Dr. Kashiwara“. Unternehmen, Personen, Anschriften und Konditionen sind Übungsmaterial. Adressen unter `.example` sind reservierte Beispieldomains.
 
 <!-- reserved-example-contacts -->
 

@@ -21,7 +21,7 @@ Empfänger, Ziel, gewünschtes Format, geprüfte Tatsachen und Rechtsgrundlagen,
 4. Verbinde Text und Rechnung. Besitzstandsgarantie, Stichtag, Rundung und Leistungsformel müssen in Haupttext und Anlage übereinstimmen. Bezeichne ungeprüfte aktuariats- oder steuerfachliche Fragen präzise.
 5. Erstelle eine passende Darstellung unmittelbar, wenn sie den Vergleich oder Ablauf verständlich macht. Belege, Szenarien und offene Werte sichtbar halten; eine verfügbare interaktive Ansicht mit Gesellschafts-/Kohortenfilter kann helfen.
 6. Formatiere Empfängerdokumente mit korrektem Kopf, Adressat, Datum, Betreff, dezimaler Gliederung und Unterschrift. Times New Roman 11 pt bei Dateiausgabe; nötiger Exporthinweis außerhalb des Empfängertexts.
-7. Für ausdrücklich fiktive Workshop-Unterlagen kann Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen verwendet werden. Reale Mandantenidentität niemals automatisch ersetzen.
+7. Für ausdrücklich fiktive Workshop-Unterlagen kann Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen verwendet werden. Reale Mandantenidentität niemals automatisch ersetzen.
 
 ## 1.4. Quellenpflicht
 

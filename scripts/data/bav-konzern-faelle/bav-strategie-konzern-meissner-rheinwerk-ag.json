@@ -6,13 +6,13 @@
   "story": "Die MEISSNER RHEINWERK AG baut Industriekomponenten. Acht deutsche Gesellschaften mit Werken in Düsseldorf, Stuttgart und Bremen verwalten vierzehn historisch gewachsene Versorgungsordnungen. Der Vorstand möchte ab 2027 ein einheitliches System für Neueintritte und die noch aktive Belegschaft. CFO Henrick Otterbach-Veltheim nennt zugleich ein Einsparziel von 18 Mio. EUR jährlich. Unterschiedliche Zusagetexte, alte Standortwechsel und nicht abgestimmte Gremien machen aus dem scheinbaren IT-Projekt eine grundlegende Personal- und Finanzentscheidung.",
   "assignment": "Ermitteln Sie aus den Originalregelungen und Bestandsdaten, welche Gruppen durch die Entwurfsvarianten betroffen sind. Entwickeln Sie einen belastbaren Projektweg mit wirtschaftlicher Gegenrechnung, Zuständigkeitsklärung und vollständigen Entwürfen für die erforderlichen Abstimmungen; entscheiden Sie nicht allein anhand der Bezeichnung „Future Service“.",
   "law_firm": {
-    "name": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB",
+    "name": "Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB",
     "address": "Am Rheinbogen 18, 51373 Leverkusen",
     "partners": [
-      "Dr. Monkī D. Rufi",
+      "Dr. Kashiwara Harunobu",
       "Dr. Nora Treuenfels"
     ],
-    "email": "mail@monki-treuenfels.example"
+    "email": "mail@kashiwara-treuenfels.example"
   },
   "documents": [
     {
@@ -22,7 +22,7 @@
       "title": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
       "date": "2026-10-19",
       "sender": "Vorstand <vorstand@meissner-rheinwerk.example>",
-      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@kashiwara-treuenfels.example>",
       "subject": "Betriebliche Altersversorgung – Auftrag und Entscheidungstermin",
       "body": [
         "Sehr geehrte Frau Dr. Treuenfels,",
@@ -34,7 +34,7 @@
       ],
       "attachments": [],
       "from_email": "vorstand@meissner-rheinwerk.example",
-      "to_email": "mail@monki-treuenfels.example"
+      "to_email": "mail@kashiwara-treuenfels.example"
     },
     {
       "id": "02",
@@ -42,12 +42,12 @@
       "kind": "pdf",
       "title": "Mandatsvereinbarung – betriebliche Altersversorgung",
       "date": "2026-10-20",
-      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "sender": "Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Kashiwara Harunobu / Dr. Nora Treuenfels\nmail@kashiwara-treuenfels.example",
       "recipient": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
       "subject": "Mandatsvereinbarung – betriebliche Altersversorgung",
       "body": [
         "1 Vertragsparteien und Gegenstand",
-        "MEISSNER RHEINWERK AG beauftragt Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Monkī D. Rufi und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen MT-RHEINGOLD-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
+        "MEISSNER RHEINWERK AG beauftragt Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB, Am Rheinbogen 18, 51373 Leverkusen, mit der rechtlichen Begleitung des in der Mandatsanfrage beschriebenen Projekts. Federführend bearbeiten Dr. Kashiwara Harunobu und Dr. Nora Treuenfels das Mandat unter dem Aktenzeichen KT-RHEINGOLD-2026. Ansprechpartnerin für fachliche Freigaben ist die Geschäftsleitung; Projektmitarbeiter dürfen tatsächliche Angaben übermitteln, aber den Beratungsauftrag nicht eigenmächtig erweitern.",
         "1.1 Geschuldete Leistungen",
         "Die Kanzlei sichtet die zur Verfügung gestellten Versorgungsregelungen, Verträge und Korrespondenzen, erhebt entscheidungserhebliche Lücken und erstellt nach Abstimmung des Sachverhalts eine rechtliche Entscheidungsvorlage. Auf gesonderte Anforderung werden vollständige Entwürfe für Verhandlungen, Beschäftigteninformationen und erforderliche Vertragsänderungen erstellt. Eine automatische Versendung oder Einreichung ist nicht beauftragt. Die Mandantin entscheidet über tatsächliche Umsetzung und Budget.",
         "1.2 Abgrenzung der Beratung",
@@ -62,7 +62,7 @@
         "Der Datenaustausch erfolgt über den vereinbarten geschützten Datenraum. Beschäftigtendaten werden nur den für das Mandat erforderlichen Personen zugänglich gemacht. Die Parteien verwenden in Arbeitslisten möglichst Personalnummern. Über den Einsatz zusätzlicher Dienstleister und den erforderlichen Zugriff wird gesondert entschieden. Eine allgemeine Zustimmung zur Weitergabe vollständiger Personalakten an frei zugängliche Systeme wird durch diese Vereinbarung nicht erteilt.",
         "5 Freigabe, Beendigung und Aktenherausgabe",
         "Erklärungen gegenüber Beschäftigten, Gremien, Versorgungsträgern oder Behörden bedürfen der inhaltlichen Freigabe der Mandantin. Gesetzliche berufliche Pflichten der Kanzlei bleiben unberührt. Bei Beendigung werden die vom Unternehmen überlassenen Dokumente und die zur Fortführung erforderlichen Arbeitsstände geordnet bereitgestellt; Aufbewahrungspflichten bleiben bestehen. Änderungen des Beratungsgegenstands und zusätzlicher Vertretungsaufträge werden dokumentiert.",
-        "Für MEISSNER RHEINWERK AG: Geschäftsleitung, elektronisch freigegeben am 2026-10-20.\nFür Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-20."
+        "Für MEISSNER RHEINWERK AG: Geschäftsleitung, elektronisch freigegeben am 2026-10-20.\nFür Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels, Rechtsanwältin, am 2026-10-20."
       ],
       "attachments": []
     },
@@ -341,7 +341,7 @@
       "title": "RHEINGOLD – was die 18 Mio. EUR bedeuten sollen",
       "date": "2026-10-22",
       "sender": "Henrick Otterbach-Veltheim <cfo@meissner-rheinwerk.example>",
-      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@kashiwara-treuenfels.example>",
       "subject": "RHEINGOLD – was die 18 Mio. EUR bedeuten sollen",
       "body": [
         "Sehr geehrte Frau Dr. Treuenfels,",
@@ -352,7 +352,7 @@
       ],
       "attachments": [],
       "from_email": "cfo@meissner-rheinwerk.example",
-      "to_email": "mail@monki-treuenfels.example"
+      "to_email": "mail@kashiwara-treuenfels.example"
     },
     {
       "id": "15",
@@ -546,7 +546,7 @@
       "title": "Nachlieferung: Abgleich der 22 weiteren Wechselpersonen",
       "date": "2026-10-29",
       "sender": "Petra Holm <archiv@schwabenwerk.example>",
-      "recipient": "Dr. Nora Treuenfels <mail@monki-treuenfels.example>",
+      "recipient": "Dr. Nora Treuenfels <mail@kashiwara-treuenfels.example>",
       "subject": "Nachlieferung: Abgleich der 22 weiteren Wechselpersonen",
       "body": [
         "Sehr geehrte Frau Dr. Treuenfels,",
@@ -561,7 +561,7 @@
         "Fortsetzung/36_Archivabgleich.csv"
       ],
       "from_email": "archiv@schwabenwerk.example",
-      "to_email": "mail@monki-treuenfels.example"
+      "to_email": "mail@kashiwara-treuenfels.example"
     },
     {
       "id": "25",
@@ -609,10 +609,10 @@
       "title": "Bitte Vergleich für Vorstandssitzung verständlich aufbereiten",
       "date": "2026-11-05",
       "sender": "Constanze Brindeau-Lorbach <personalvorstand@meissner-rheinwerk.example>",
-      "recipient": "Dr. Monkī D. Rufi <mail@monki-treuenfels.example>",
+      "recipient": "Dr. Kashiwara Harunobu <mail@kashiwara-treuenfels.example>",
       "subject": "Bitte Vergleich für Vorstandssitzung verständlich aufbereiten",
       "body": [
-        "Sehr geehrter Herr Dr. Rufi,",
+        "Sehr geehrter Herr Dr. Kashiwara,",
         "wir benötigen zusätzlich eine Darstellung, die ein Vorstandsmitglied ohne Pensionsspezialwissen versteht. Zeigen Sie bitte an Frau Scholz und zwei weiteren klar bezeichneten Personen, welcher Teil aus bisheriger Dienstzeit stammt, welcher Teil von künftigem Entgelt abhängt und welcher aus weiteren Beschäftigungsjahren entsteht. Wir wollen nicht drei verschiedene Eingriffe unter demselben Wort „Einfrieren“ beschließen.",
         "Die Gegenüberstellung soll Originalregel, Arbeitgeberentwurf, wirtschaftliche Eingaben und noch fehlende Daten getrennt ausweisen. Eine belastbare rechtliche Empfehlung darf erst aus dieser Zuordnung folgen. Bitte schlagen Sie außerdem vor, welche Unterlagen den jeweiligen Betriebsräten vor der nächsten Gesprächsrunde vorgelegt werden müssen.",
         "Es gibt weiterhin keine Einigungsstelle und keinen Rechtsstreit. Der Auftrag bleibt ein Gestaltungs- und Verhandlungsmandat. Den vorgesehenen Start 1. Januar sollen Sie ausdrücklich auf Realisierbarkeit prüfen.",
@@ -620,7 +620,7 @@
       ],
       "attachments": [],
       "from_email": "personalvorstand@meissner-rheinwerk.example",
-      "to_email": "mail@monki-treuenfels.example"
+      "to_email": "mail@kashiwara-treuenfels.example"
     },
     {
       "id": "28",
@@ -1007,7 +1007,7 @@
       "kind": "pdf",
       "title": "Vergütungsvereinbarung – Sichtungs- und Strukturierungsphase",
       "date": "2026-10-20",
-      "sender": "Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Monkī D. Rufi / Dr. Nora Treuenfels\nmail@monki-treuenfels.example",
+      "sender": "Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB\nAm Rheinbogen 18, 51373 Leverkusen\nDr. Kashiwara Harunobu / Dr. Nora Treuenfels\nmail@kashiwara-treuenfels.example",
       "recipient": "MEISSNER RHEINWERK AG\nCarlsplatz 12\n40213 Düsseldorf",
       "subject": "Vergütungsvereinbarung – Sichtungs- und Strukturierungsphase",
       "body": [
@@ -1019,7 +1019,7 @@
         "Nicht enthalten sind externe Gutachter, notarielle oder gerichtliche Kosten und individuell beauftragte ausländische Beratung. Solche Kosten werden vor Beauftragung abgestimmt. Allgemeine Büro- und Kommunikationskosten sind in den Stundensätzen enthalten. Für gerichtliche Verfahren ist eine gesonderte Beauftragung erforderlich. Diese Vereinbarung betrifft ein außergerichtliches Beratungsmandat.",
         "4 Hinweis und Fälligkeit",
         "Die vereinbarte Vergütung kann von der gesetzlichen Vergütung abweichen. Ein etwaiger Kostenerstattungsanspruch gegen Dritte umfasst regelmäßig höchstens die nach den gesetzlichen Regeln erstattungsfähige Vergütung; die Mandantin kann daher einen Teil der vereinbarten Kosten selbst tragen. Rechnungen sind binnen 21 Kalendertagen nach Zugang zur Zahlung fällig. Bei Einwendungen teilen die Parteien die beanstandeten Positionen konkret mit.",
-        "Unterzeichnet für MEISSNER RHEINWERK AG: Geschäftsleitung. Unterzeichnet für Monkī · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels. Die Parteien erhalten jeweils eine Ausfertigung."
+        "Unterzeichnet für MEISSNER RHEINWERK AG: Geschäftsleitung. Unterzeichnet für Kashiwara · Treuenfels Rechtsanwälte Partnerschaft mbB: Dr. Nora Treuenfels. Die Parteien erhalten jeweils eine Ausfertigung."
       ],
       "attachments": []
     }
