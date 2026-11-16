@@ -938,15 +938,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Redaktionell am Originaltext geprüft: Quellenstand bis 2026, getrennte Beweiswege, belegter Eingangsbestand und Grenzen von Rückrechnung und Prognose.",
+    "reason": "Redaktionell am Originaltext geprüft: Quellenstand bis 2026, getrennte Beweiswege, belegter Eingangsbestand und Grenzen von Rückrechnung und Prognose. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Zeitaktuelle Entscheidungsanker mit Aussagegrenzen und Gegenfällen.",
       "Grundaktenauswertung, offene Unterlagen und dokumentierte Anschlussprüfung.",
       "Trennung von Rechnung, Zahlungseinstellung, Insolvenzgrund und Anfechtungsmerkmalen.",
-      "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest."
+      "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest.",
+      "BGH IX ZR 150/25 als späteren Nachtrag zur Ausgleichsabgabe kennzeichnen."
     ],
     "reviewed_on": "2026-11-13",
-    "sha256": "a35d89cd68982acbee15aa72257c5c02e19b8c7d6b655efb9616873f566f4501"
+    "sha256": "8a4e2df9c878421baaf2c7eb0717ecec9aef90208dccc3e4852c3a5d22559bf3"
   },
   "prompt_editorial_review": {
     "date": "2026-11-13",
@@ -1046,5 +1047,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "BGH IX ZR 150/25 als späteren Nachtrag zur Ausgleichsabgabe kennzeichnen.",
+    "path": "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md",
+    "before_sha256": "a35d89cd68982acbee15aa72257c5c02e19b8c7d6b655efb9616873f566f4501",
+    "after_sha256": "8a4e2df9c878421baaf2c7eb0717ecec9aef90208dccc3e4852c3a5d22559bf3"
   }
 }

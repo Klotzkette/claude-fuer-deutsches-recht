@@ -118,15 +118,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt arbeitet Vorrang, unmittelbare Wirkung, konforme Auslegung und mögliche Staatshaftung mit einem begrenzten Popławski-Anker ab. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde. Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "reason": "Die Werkstatt arbeitet Vorrang, unmittelbare Wirkung, konforme Auslegung und mögliche Staatshaftung mit einem begrenzten Popławski-Anker ab. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde. Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "C-573/17 Randnummern 60 bis 68 in die Anspruchsprüfung eingebaut.",
       "Rahmenbeschluss-Ausgangsfall und Grenzen horizontaler Richtlinienwirkung ausdrücklich benannt.",
       "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Die konkrete unionsrechtliche Frage führt zur begründeten Antwort; Anwendungsvorrang und unmittelbare Wirkung werden früh auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam, pepp."
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam, pepp.",
+      "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen."
     ],
-    "sha256": "f89c4d3e1617bf0f61cb55d6011c2397f6160d6e4f198ab548b18ad03e80b967"
+    "sha256": "473d37e30e22ecea23ed2e9b6f2daeae5d1d8e3ecbda2c6210fd92b91bc56b8c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -251,5 +252,15 @@
     ],
     "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+    "path": "europarecht-kompass/europarecht-kompass-werkstatt.md",
+    "before_sha256": "f89c4d3e1617bf0f61cb55d6011c2397f6160d6e4f198ab548b18ad03e80b967",
+    "after_sha256": "473d37e30e22ecea23ed2e9b6f2daeae5d1d8e3ecbda2c6210fd92b91bc56b8c"
   }
 }

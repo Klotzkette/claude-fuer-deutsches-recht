@@ -53,16 +53,17 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
       "2026-09-23: Vorserie/Serienstand und abweichende Prüfbedingungen, Defektursache versus Unfallfolge sowie Installation versus Updateangebot unterschieden.",
       "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden.",
       "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
-      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry."
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry.",
+      "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen."
     ],
-    "sha256": "89d6510b3539a77a646ec1d8772dfb6e667f23e6287a855c11f01b85dc7f57f3",
+    "sha256": "fac8ddae499432d198956266b46c9cda3ae5c267bbea952e12c87047c06f79ba",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -218,5 +219,15 @@
     ],
     "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+    "path": "produktrecht/produktrecht-werkstatt.md",
+    "before_sha256": "89d6510b3539a77a646ec1d8772dfb6e667f23e6287a855c11f01b85dc7f57f3",
+    "after_sha256": "fac8ddae499432d198956266b46c9cda3ae5c267bbea952e12c87047c06f79ba"
   }
 }

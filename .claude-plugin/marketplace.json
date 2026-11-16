@@ -1,5 +1,5 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "klotzkette-german-legal-skills",
   "description": "Klotzkette German Legal Skills fuer deutsche Rechtspraxis: installierbare Plugins, Skills, Prompt-Downloads und Testakten fuer Kanzlei, Gericht, Verwaltung, Unternehmen und Ausbildung.",
   "owner": {

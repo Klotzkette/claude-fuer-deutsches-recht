@@ -1,0 +1,233 @@
+{
+  "baseline_commit": "b6f3df21493250508646a385354447a9893c72ab",
+  "workshops": [
+    {
+      "plugin": "arbeitsrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "BAG 2 AZR 195/25 zur Personalratsanhörung in der Wartezeit mit geprüften Gründen einordnen.",
+      "path": "arbeitsrecht/arbeitsrecht-werkstatt.md",
+      "before_sha256": "d10598f8587172cafca6afd99626fbf585f78c3b8269f31aed5eb42f8ea4d7fe",
+      "after_sha256": "3c6fcbc4194d3c9150f2e72c90809edf2dcb91130a229f38753b181ce3ceeb78"
+    },
+    {
+      "plugin": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "BAG 5 AZR 37/25 in der Werkstatt und der Quellenkarte auf den amtlichen Volltext umstellen. Sekundäre Darlegungslast und selbständigen Auskunftsanspruch unterscheiden.",
+      "path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
+      "before_sha256": "b61f8df2c162278470db0618720ceae0820f6c2a6605b8459534d4b4de5326c7",
+      "after_sha256": "4422aaac3c2554f625a6dd3d328f9dc5989cd6ef6dd92eac23b9b70b07a3af90"
+    },
+    {
+      "plugin": "aussenwirtschaft-zoll-sanktionen",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+      "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+      "before_sha256": "9d74b631bd000f6ce5d47941a9e3931428c5915ce2e97ef744d17b233903a2db",
+      "after_sha256": "e78b17e17744f2d000e67efb4a4e7e14bf07878b10b087c9474a52d327a3c569"
+    },
+    {
+      "plugin": "bauvergabe-rechtsschutz",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Unionsrechtlichen Eilrechtsschutz anhand C-266/25 und C-267/25 abgrenzen und die berichtigte Fassung berücksichtigen.",
+      "path": "bauvergabe/bauvergabe-rechtsschutz/bauvergabe-rechtsschutz-werkstatt.md",
+      "before_sha256": "b9dd3a523d48ce19998859b321caa4fb656a8f9452f59c8659336e6cf7875874",
+      "after_sha256": "a73a44d19b8d59c7b7fb1676d98771a92c07d2f15347bdfad2f45ffe3ea24593"
+    },
+    {
+      "plugin": "beamtenrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Aktuelle amtliche Gründe zur Fortwirkung einer Alimentationsrüge und die Reichweite der Berliner Besoldungsentscheidung einordnen.",
+      "path": "beamtenrecht/beamtenrecht-werkstatt.md",
+      "before_sha256": "545607affe487ba41077e58f0f6ea90580a76e1182f3802190731f461b4d369e",
+      "after_sha256": "2959220161ef09098ae7d2a0601a7237eb8e966f66edbd6ddd49fbd4fd63cafa"
+    },
+    {
+      "plugin": "compliance-abteilung-grosskonzern",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+      "path": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+      "before_sha256": "7f22538aae535b916abe2d3ef88ce070ddff5b48e4d126cdc3050d813d3cab28",
+      "after_sha256": "dbc0b98fd48c1c5d01295931e85115ac53afdfb4c3633409076ec2916ea6ef2e"
+    },
+    {
+      "plugin": "datenschutzrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Anspruchsprüfung für einzelne Scorewerte nach I ZR 227/25 ergänzen. EuGH C-205/25 als Nachtrag nach dem Entscheidungsstichtag kennzeichnen.",
+      "path": "datenschutzrecht/datenschutzrecht-werkstatt.md",
+      "before_sha256": "947953d7467fdf67039068a68e088441a45dde6d9b65884085cc7f1316f30642",
+      "after_sha256": "fb5f4eb624eb2ce709ae07b3a2e1b339afdca513d02d16f827e59588e260f573"
+    },
+    {
+      "plugin": "ecommerce-recht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Kündigungsschaltfläche für entgeltliche Dauerschuldverhältnisse bei App-Abschluss nach I ZR 243/25 prüfen.",
+      "path": "ecommerce-recht/ecommerce-recht-werkstatt.md",
+      "before_sha256": "d60134f35e99339c42612814fa976e3297d238e6ee527a7a5f1cf8ff49c49ee0",
+      "after_sha256": "803b0e797b5cc8dd7085d452c70dad9af166cc77f37d62a7e663d9257a905abe"
+    },
+    {
+      "plugin": "europarecht-kompass",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+      "path": "europarecht-kompass/europarecht-kompass-werkstatt.md",
+      "before_sha256": "f89c4d3e1617bf0f61cb55d6011c2397f6160d6e4f198ab548b18ad03e80b967",
+      "after_sha256": "473d37e30e22ecea23ed2e9b6f2daeae5d1d8e3ecbda2c6210fd92b91bc56b8c"
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Unionsrechtlichen Eilrechtsschutz anhand C-266/25 und C-267/25 abgrenzen und die berichtigte Fassung berücksichtigen.",
+      "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+      "before_sha256": "e0e215c2922ba4fdbfd8fcc39249352e89e6c7a7c57155e2d434be091b18093f",
+      "after_sha256": "5f4ea11e98112ad016f828a429414609e485575e14184807e64ae5e45ff272ed"
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Konkreten AHB-Ausschluss und Rechtsschutzdeckung nach IV ZR 246/25 und IV ZR 155/25 differenzieren.",
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
+      "before_sha256": "57c14f83d8449f32197516edd53e169f30d055f2ee0117be5095aa2baebc1b82",
+      "after_sha256": "f148bda0cdbf510fc256a95514e967e0797113e1b74255c91fa9bf5d7cad4bc8"
+    },
+    {
+      "plugin": "grundsteuerrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Amtlich angekündigte Landesmodellverfahren als Verfahrensbeobachtung führen.",
+      "path": "grundsteuerrecht/grundsteuerrecht-werkstatt.md",
+      "before_sha256": "a450b5977b84c803230e6350cce90247696b1acd24f86e29d0f1eb59383c405c",
+      "after_sha256": "10a6cf5bccf114303e594a4aa893de933b2bd8a55419515800b620e5d3b12a2b"
+    },
+    {
+      "plugin": "insolvenzrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "BGH IX ZR 150/25 als späteren Nachtrag zum Feststellungsweg bei öffentlich-rechtlichen Forderungen kennzeichnen.",
+      "path": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+      "before_sha256": "7355b2a561cb45048768f69aeefaaf0c33522b8576fc200e425b19c2e9fb4282",
+      "after_sha256": "e0ab69cda3224b5ca923e30fd771049a82cc8565b57c6d75c5e8696483abd86e"
+    },
+    {
+      "plugin": "mietrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Genehmigung einer durch einen vollmachtlosen Vertreter erhobenen Rüge nach VIII ZR 177/24 versionsbezogen prüfen.",
+      "path": "mietrecht/mietrecht-werkstatt.md",
+      "before_sha256": "06ee90a2e4267f66948d977ade103a80fc0eb03c6af2b17b571cf09725e1fa43",
+      "after_sha256": "2330e38f14fc0eb1e13e8817031158b13337d41f985f26a57b080b3c26b45883"
+    },
+    {
+      "plugin": "notariat-alltag",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Fristbeginn zum gemeindlichen Vorkaufsrecht nach III ZR 3/26 an korrekte Mitteilung über den Genehmigungsstand knüpfen.",
+      "path": "notariat-alltag/notariat-alltag-werkstatt.md",
+      "before_sha256": "d7f3de3fdea37a56a1e6d5605d3fb53a05c249d4e3dfb88d8ff643636247336b",
+      "after_sha256": "7f35c2ba767291424d43a99a8a38d3ad5b5d168e53fd8e7e41b3c7c2f59a5354"
+    },
+    {
+      "plugin": "pflegerecht-sgb-xi",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Bei L 6 P 10/25 die tragende Unzulässigkeitsentscheidung und die ergänzenden Sachgründe zur Verhinderungspflege unterscheiden.",
+      "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+      "before_sha256": "2cd842802e6850bf784c5c534310b5ae857100030ac7c179fc8e95a5c2d50302",
+      "after_sha256": "dc0e833bc73f991f2ed7d523faade1df87a6b8e34416858e006a72cde7f53aac"
+    },
+    {
+      "plugin": "produktrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+      "path": "produktrecht/produktrecht-werkstatt.md",
+      "before_sha256": "89d6510b3539a77a646ec1d8772dfb6e667f23e6287a855c11f01b85dc7f57f3",
+      "after_sha256": "fac8ddae499432d198956266b46c9cda3ae5c267bbea952e12c87047c06f79ba"
+    },
+    {
+      "plugin": "steuerrecht-anwalt-und-berater",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "EuGH-Überprüfung C-167/26 RX und deren Wirkung nach Art. 62b Abs. 2 der EuGH-Satzung zum Stichtag einordnen.",
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+      "before_sha256": "2bee87ffc8dccf16fc7f5277c76699c690ddb5242586aba278196936e80b99d0",
+      "after_sha256": "20893f8a02ba4af2416f66365e64e598a6fbd95ea8be81c4ba4e23326588f558"
+    },
+    {
+      "plugin": "umweltrecht",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+      "path": "umweltrecht/umweltrecht-werkstatt.md",
+      "before_sha256": "2c0500eef90c8aaed9d90c036581f51702d18f97eeb443ef952b535c456004fc",
+      "after_sha256": "636c57f9b5be966a2309a36566dab9c547e3dec3a5416f7ac0b6c54957f551ca"
+    },
+    {
+      "plugin": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+      "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+      "finding": "BGH IX ZR 150/25 als späteren Nachtrag zur Ausgleichsabgabe kennzeichnen.",
+      "path": "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md",
+      "before_sha256": "a35d89cd68982acbee15aa72257c5c02e19b8c7d6b655efb9616873f566f4501",
+      "after_sha256": "8a4e2df9c878421baaf2c7eb0717ecec9aef90208dccc3e4852c3a5d22559bf3"
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/ustva/werkstatt.md",
+      "checked_on": "2026-11-16",
+      "decision_cutoff": "2026-10-31",
+      "finding": "EuGH-Überprüfung C-167/26 RX und deren Wirkung nach Art. 62b Abs. 2 der EuGH-Satzung zum Stichtag einordnen.",
+      "before_sha256": "de39fd5573f70ca51fdb98ef0d535e86aaaafe181a3590d2ad82db2936e1bffd",
+      "after_sha256": "92f60310502c600558830f5132b06af212c1ddb92a3d9e1020d47c1eeab2afb5"
+    }
+  ]
+}

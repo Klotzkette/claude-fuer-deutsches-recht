@@ -83,6 +83,14 @@ des generierten Downloadblocks. Andere Fall-, Plugin- und Sammelpaketlinks bleib
 unverändert. Der Download-Validator lehnt veraltete Companion-Versionen und
 `latest`-Platzhalter dieser Akten ab.
 
+Bei einem bereits veröffentlichten Begleitrelease ist das tatsächliche
+Dateiinventar des Tags maßgeblich. Neue Akten können die alphabetische Grenze
+zwischen beiden Teilen im Quellbestand verschieben. Deshalb enthält
+`scripts/scoped-release-assets.json` auch die überprüften Ziele der
+verbleibenden Aktenlinks aus `akten-v445.35.3` und `akten-2-v445.35.3`.
+Die Zuordnung wird erst nach Abgleich mit dem Inventar eines neu veröffentlichten
+Releases auf dessen Tags umgestellt.
+
 Root-README, Asset-Index und Pluginseiten werden mit den bestehenden Generatoren
 auf die versionsfesten Companion-Links fortgeschrieben. Kurzfassung:
 
@@ -120,6 +128,19 @@ Releases, fehlende oder leere Dateien und unvollständige Uploads als Fehler.
 API-Limits und Netzprobleme sind nicht erfolgreich geprüfte Downloads. Die Prüfung
 ersetzt weder Prüfsummen- und Archivkontrolle noch die Navigationstests für lokale
 PDFs und Markdown-Seiten. Offline-Regression: `python3 scripts/test-public-downloads.py`.
+
+Der vollständige Bestand benötigt mehr API-Aufrufe, als das anonyme Budget
+zulässt. Dafür kann die bereits angemeldete GitHub CLI lesend genutzt werden:
+
+```sh
+python3 scripts/validate-public-downloads.py --github-cli
+```
+
+Auch in diesem Modus müssen Repository und Release öffentlich beziehungsweise
+veröffentlicht sein. Sichtbare Entwürfe in einem angemeldeten Konto zählen als
+Fehler. Eine anonyme Stichprobe kann die HTTP-Erreichbarkeit separat bestätigen.
+Der [Marketplace-Prüfbericht vom 16. November 2026](../quality/marketplace-pruefung/2026-11-16/README.md)
+dokumentiert einen vollständigen Durchlauf und den Abgleich der installierbaren Pakete.
 
 ## 5. SI-native Kanzlei als Komponentenrelease
 

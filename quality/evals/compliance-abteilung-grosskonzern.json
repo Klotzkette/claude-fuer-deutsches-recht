@@ -15,15 +15,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
       "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
       "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen",
       "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt",
-      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry."
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry.",
+      "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen."
     ],
-    "sha256": "7f22538aae535b916abe2d3ef88ce070ddff5b48e4d126cdc3050d813d3cab28"
+    "sha256": "dbc0b98fd48c1c5d01295931e85115ac53afdfb4c3633409076ec2916ea6ef2e"
   },
   "sources": [
     {
@@ -2312,5 +2313,15 @@
     ],
     "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+    "path": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+    "before_sha256": "7f22538aae535b916abe2d3ef88ce070ddff5b48e4d126cdc3050d813d3cab28",
+    "after_sha256": "dbc0b98fd48c1c5d01295931e85115ac53afdfb4c3633409076ec2916ea6ef2e"
   }
 }

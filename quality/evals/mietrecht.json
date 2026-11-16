@@ -158,7 +158,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben.",
+    "reason": "Gezielte Quellenvertiefung: Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "VIII ZR 287/23 vollständig amtlich gelesen und in beiden Prompts mit Zurückverweisungsgrenze sowie eigenständiger Prüfung nach Paragraf 573 BGB angewendet.",
       "Gewerbemiet-Textform einschließlich Altfrist bis einschließlich 01.01.2026 und Schriftsatzformfiktion vom Wohnraumregime getrennt.",
@@ -168,9 +168,10 @@
       "VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent.",
       "Redaktion 16.10.2026: Ordentliche Kündigung und Schonfristwirkung schon vor Monatsrechnung getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
-      "Quellenprüfung 10.11.2026: VIII ZR 21/26 zur Schonfrist und VIII ZR 104/25 zum Gewerbeumbau nach Paragraf 556f BGB mit amtlichem Volltext und Aussagegrenzen angewendet."
+      "Quellenprüfung 10.11.2026: VIII ZR 21/26 zur Schonfrist und VIII ZR 104/25 zum Gewerbeumbau nach Paragraf 556f BGB mit amtlichem Volltext und Aussagegrenzen angewendet.",
+      "Genehmigung einer durch einen vollmachtlosen Vertreter erhobenen Rüge nach VIII ZR 177/24 versionsbezogen prüfen."
     ],
-    "sha256": "06ee90a2e4267f66948d977ade103a80fc0eb03c6af2b17b571cf09725e1fa43",
+    "sha256": "2330e38f14fc0eb1e13e8817031158b13337d41f985f26a57b080b3c26b45883",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
@@ -326,5 +327,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Genehmigung einer durch einen vollmachtlosen Vertreter erhobenen Rüge nach VIII ZR 177/24 versionsbezogen prüfen.",
+    "path": "mietrecht/mietrecht-werkstatt.md",
+    "before_sha256": "06ee90a2e4267f66948d977ade103a80fc0eb03c6af2b17b571cf09725e1fa43",
+    "after_sha256": "2330e38f14fc0eb1e13e8817031158b13337d41f985f26a57b080b3c26b45883"
   }
 }

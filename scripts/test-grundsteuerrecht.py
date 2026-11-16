@@ -111,7 +111,11 @@ class PaketTests(unittest.TestCase):
             self.assertEqual(set(metadata), {"name", "description"})
             self.assertEqual(metadata["name"], path.parent.name)
             self.assertTrue(80 <= len(metadata["description"]) <= 1024)
-            self.assertEqual(re.findall(r"^## (\d+)\. ", text, re.M), list("123456"))
+            headings = re.findall(r"^## (\d+)\. (.+)$", text, re.M)
+            self.assertEqual([number for number, _ in headings[:6]], list("123456"))
+            # Der gemeinsame Visualisierungsblock ergänzt bei Einstiegsskills
+            # die sechs verbindlichen Fachabschnitte.
+            self.assertIn(headings[6:], [[], [("7", "Verständlich arbeiten und sichtbar prüfen")]])
             self.assertIn("Times New Roman 11 pt", text)
             self.assertIn("../../references/zitierweise.md", text)
             descriptions.append(metadata["description"])

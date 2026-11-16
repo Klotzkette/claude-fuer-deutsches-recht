@@ -97,7 +97,7 @@
         },
         {
           "id": "C02",
-          "text": "Kennzeichnet L 6 P 10/25 als LSG-Entscheidung laut amtlicher Mitteilung, erfindet weder Volltextlektüre noch Randnummern.",
+          "text": "Trennt bei L 6 P 10/25 die Verwerfung als unzulässig von der ergänzenden Sachbegründung und bezeichnet die jeweilige Quellenlage.",
           "deliverables": [
             "antwort.md"
           ]
@@ -616,11 +616,11 @@
     "decisions": [
       {
         "citation": "Hessisches LSG, Urteil vom 22.06.2026, L 6 P 10/25",
-        "url": "https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege",
-        "application": "Zahlung vor Tod, Rechtsnachfolge und vorherigen Verfahrensstand prüfen; Zwölfmonatsfrist allein genügt nicht.",
-        "limit": "Amtliche Pressemitteilung vom 28.09.2026, kein hier geprüfter Volltext; Altleistungen nicht mit Frist ab 2026 vermischen.",
-        "checked_on": "2026-09-30",
-        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
+        "url": "https://www.rv.hessenrecht.hessen.de/perma?d=LARE260000802",
+        "application": "Tenor der Verwerfung und ergänzende Sachgründe zu Vorleistung, Rechtsnachfolge und fehlendem Direktanspruch getrennt behandeln.",
+        "limit": "Amtliche Pressemitteilung und amtlicher Entscheidungsnachweis; Tenor und Sachgründe anhand einer gekennzeichneten Wiedergabe des Gerichtstexts gelesen. Altfälle von der Fristfassung ab 2026 abgrenzen.",
+        "checked_on": "2026-11-16",
+        "verification_status": "amtliche_mitteilung_und_gekennzeichnete_gerichtsreproduktion"
       },
       {
         "citation": "BSG, Urteil vom 18.06.2026, B 3 P 1/25 R",
@@ -727,14 +727,15 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten.; Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht.",
+    "reason": "Gezielte Quellenvertiefung: Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten.; Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Kriterienprüfung, Kostenzuordnung und Versicherungswege mit spezifischen Nachfragen.",
       "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung.",
       "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 2/25 R; BSG, Urteil vom 01.10.2026, B 3 P 3/25 R"
+      "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 2/25 R; BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
+      "Bei L 6 P 10/25 die tragende Unzulässigkeitsentscheidung und die ergänzenden Sachgründe zur Verhinderungspflege unterscheiden."
     ],
-    "sha256": "2cd842802e6850bf784c5c534310b5ae857100030ac7c179fc8e95a5c2d50302",
+    "sha256": "dc0e833bc73f991f2ed7d523faade1df87a6b8e34416858e006a72cde7f53aac",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -823,5 +824,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Bei L 6 P 10/25 die tragende Unzulässigkeitsentscheidung und die ergänzenden Sachgründe zur Verhinderungspflege unterscheiden.",
+    "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+    "before_sha256": "2cd842802e6850bf784c5c534310b5ae857100030ac7c179fc8e95a5c2d50302",
+    "after_sha256": "dc0e833bc73f991f2ed7d523faade1df87a6b8e34416858e006a72cde7f53aac"
   }
 }

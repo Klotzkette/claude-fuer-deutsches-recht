@@ -478,7 +478,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachlich-redaktionelle Gegenlese anhand der Freiburger Umsatzsteuer- und Einkommensteuerakten. Steuererklärung, Einspruch und Finanzgerichtsklage erhalten eigene Arbeitswege mit belegter Rechnung und Fortsetzung. 14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
+    "reason": "Fachlich-redaktionelle Gegenlese anhand der Freiburger Umsatzsteuer- und Einkommensteuerakten. Steuererklärung, Einspruch und Finanzgerichtsklage erhalten eigene Arbeitswege mit belegter Rechnung und Fortsetzung. 14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -491,9 +491,10 @@
       "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen.",
       "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg.",
       "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert.",
-      "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
+      "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
+      "EuGH-Überprüfung C-167/26 RX und deren Wirkung nach Art. 62b Abs. 2 der EuGH-Satzung zum Stichtag einordnen."
     ],
-    "sha256": "2bee87ffc8dccf16fc7f5277c76699c690ddb5242586aba278196936e80b99d0",
+    "sha256": "20893f8a02ba4af2416f66365e64e598a6fbd95ea8be81c4ba4e23326588f558",
     "reviewed_on": "2026-11-14",
     "method": "desk_review"
   },
@@ -786,5 +787,15 @@
       }
     ],
     "audit_path": "quality/source-audits/2026-11-14/steuerstrafrecht-370a.md"
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "EuGH-Überprüfung C-167/26 RX und deren Wirkung nach Art. 62b Abs. 2 der EuGH-Satzung zum Stichtag einordnen.",
+    "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+    "before_sha256": "2bee87ffc8dccf16fc7f5277c76699c690ddb5242586aba278196936e80b99d0",
+    "after_sha256": "20893f8a02ba4af2416f66365e64e598a6fbd95ea8be81c4ba4e23326588f558"
   }
 }

@@ -103,14 +103,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Substantielle Arbeitswege vom Wasserbescheid und Versorgungsvertrag zur Betriebsentscheidung, von Änderungsunterlagen zum Termin und vom Gegenbefund zur angepassten Einwendung ergänzt.",
       "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
       "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz.",
-      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam."
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam.",
+      "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen."
     ],
-    "sha256": "2c0500eef90c8aaed9d90c036581f51702d18f97eeb443ef952b535c456004fc"
+    "sha256": "636c57f9b5be966a2309a36566dab9c547e3dec3a5416f7ac0b6c54957f551ca"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -235,5 +236,15 @@
     ],
     "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+    "path": "umweltrecht/umweltrecht-werkstatt.md",
+    "before_sha256": "2c0500eef90c8aaed9d90c036581f51702d18f97eeb443ef952b535c456004fc",
+    "after_sha256": "636c57f9b5be966a2309a36566dab9c547e3dec3a5416f7ac0b6c54957f551ca"
   }
 }

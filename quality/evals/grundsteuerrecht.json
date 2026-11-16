@@ -92,15 +92,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Grundsteuerwege bleiben erhalten; Richtwertangriff, niedrigerer gemeiner Wert, historisches Eilverfahren und Baden-Württemberg werden rechtlich getrennt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Alle Grundsteuerwege bleiben erhalten; Richtwertangriff, niedrigerer gemeiner Wert, historisches Eilverfahren und Baden-Württemberg werden rechtlich getrennt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "II R 3/25 an einen konkreten Ermittlungs- oder Methodenfehler des Bodenrichtwerts gebunden statt pauschaler Verfassungsrüge.",
       "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
       "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
       "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag.",
-      "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand."
+      "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand.",
+      "Amtlich angekündigte Landesmodellverfahren als Verfahrensbeobachtung führen."
     ],
-    "sha256": "a450b5977b84c803230e6350cce90247696b1acd24f86e29d0f1eb59383c405c"
+    "sha256": "10a6cf5bccf114303e594a4aa893de933b2bd8a55419515800b620e5d3b12a2b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -225,5 +226,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Amtlich angekündigte Landesmodellverfahren als Verfahrensbeobachtung führen.",
+    "path": "grundsteuerrecht/grundsteuerrecht-werkstatt.md",
+    "before_sha256": "a450b5977b84c803230e6350cce90247696b1acd24f86e29d0f1eb59383c405c",
+    "after_sha256": "10a6cf5bccf114303e594a4aa893de933b2bd8a55419515800b620e5d3b12a2b"
   }
 }

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prüft Release-Links in Downloadtabellen ohne Anmeldung bei GitHub.
+"""Prüft Release-Links in Downloadtabellen gegen öffentliche GitHub-Releases.
 
 Ergänzt die Offline-Prüfung: Ein Draft oder ein noch nicht hochgeladenes Asset
 ist kein öffentlicher Download. Archivinhalt und Prüfsummen prüft dieses Skript
@@ -12,9 +12,11 @@ import argparse
 import html
 import json
 import re
+import subprocess
 import sys
 from collections import defaultdict
 from pathlib import Path
+from time import sleep
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote, unquote
 from urllib.request import Request, urlopen
@@ -62,9 +64,33 @@ def public_json(resource: str):
         raise ValueError(f"öffentliche Abfrage fehlgeschlagen: {exc}") from exc
 
 
-def public_assets(tag: str) -> dict[str, dict]:
+def github_cli_json(resource: str):
+    """Nutzt für große Prüfungen das Budget der bereits eingerichteten CLI."""
+    endpoint = f"repos/{REPOSITORY}" + (f"/{resource}" if resource else "")
+    for delay in (0, 1, 3):
+        if delay:
+            sleep(delay)
+        try:
+            result = subprocess.run(
+                ["gh", "api", endpoint], capture_output=True, text=True, timeout=25, check=False,
+            )
+        except (OSError, subprocess.TimeoutExpired) as exc:
+            raise ValueError(f"GitHub-CLI-Abfrage fehlgeschlagen: {exc}") from exc
+        if not result.returncode or not re.search(r"\bHTTP (500|502|503|504)\b", result.stderr):
+            break
+    if result.returncode:
+        raise ValueError(f"GitHub-CLI-Abfrage fehlgeschlagen: {result.stderr.strip()}")
+    try:
+        return json.loads(result.stdout)
+    except ValueError as exc:
+        raise ValueError("GitHub CLI lieferte kein gültiges JSON") from exc
+
+
+def public_assets(tag: str, get_json=None) -> dict[str, dict]:
+    if get_json is None:
+        get_json = public_json
     endpoint = "releases/latest" if tag == "latest" else f"releases/tags/{quote(tag, safe='')}"
-    release = public_json(endpoint)
+    release = get_json(endpoint)
     if not isinstance(release, dict) or release.get("draft") is not False or not release.get("published_at"):
         raise ValueError("Release ist nicht als veröffentlicht bestätigt")
     release_id = release.get("id")
@@ -75,7 +101,7 @@ def public_assets(tag: str) -> dict[str, dict]:
     assets: dict[str, dict] = {}
     # Pagination ist nötig: Der Begleitrelease hat deutlich mehr als 100 Assets.
     for page in range(1, 12):
-        batch = public_json(f"releases/{release_id}/assets?per_page=100&page={page}")
+        batch = get_json(f"releases/{release_id}/assets?per_page=100&page={page}")
         if not isinstance(batch, list):
             raise ValueError("Assetliste ist ungültig")
         for asset in batch:
@@ -90,14 +116,14 @@ def public_assets(tag: str) -> dict[str, dict]:
     raise ValueError("Assetliste überschreitet die Sicherheitsgrenze")
 
 
-def validate(links: dict[tuple[str, str], list[str]]) -> list[str]:
+def validate(links: dict[tuple[str, str], list[str]], get_json=None) -> list[str]:
     errors: list[str] = []
     by_tag: dict[str, list[str]] = defaultdict(list)
     for tag, name in links:
         by_tag[tag].append(name)
     for tag, names in sorted(by_tag.items()):
         try:
-            assets = public_assets(tag)
+            assets = public_assets(tag, get_json=get_json)
         except ValueError as exc:
             errors.append(f"{tag}: {exc}; betrifft {len(names)} Downloadziele, z. B. {links[tag, names[0]][0]}")
             continue
@@ -118,10 +144,15 @@ def validate(links: dict[tuple[str, str], list[str]]) -> list[str]:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("files", nargs="*", type=Path, help="Ohne Pfade: alle README-Downloadtabellen und der Asset-Index")
+    parser.add_argument("--github-cli", action="store_true", help="Angemeldete GitHub CLI für große Bestände nutzen")
     args = parser.parse_args()
     try:
         links = release_links(args.files or download_readmes(ROOT))
-        errors = validate(links) if links else ["Keine Release-Downloadlinks gefunden"]
+        if args.github_cli:
+            repo = github_cli_json("")
+            if not isinstance(repo, dict) or repo.get("private") is not False or repo.get("visibility") != "public":
+                raise ValueError("Repository ist nicht als öffentlich bestätigt")
+        errors = validate(links, get_json=github_cli_json if args.github_cli else None) if links else ["Keine Release-Downloadlinks gefunden"]
     except (OSError, ValueError) as exc:
         errors = [str(exc)]
     if errors:

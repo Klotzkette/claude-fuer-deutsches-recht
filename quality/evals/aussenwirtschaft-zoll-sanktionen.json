@@ -49,7 +49,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Technische Listenprüfung und mittelbare Bereitstellung konkretisiert; ungesicherte Regime- und Meldenormzuordnungen entfernt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen. Keine neue fachliche Vollprüfung oder Live-Ausführung. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
+    "reason": "Technische Listenprüfung und mittelbare Bereitstellung konkretisiert; ungesicherte Regime- und Meldenormzuordnungen entfernt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen. Keine neue fachliche Vollprüfung oder Live-Ausführung. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Dual-Use-Verweis auf amtlichen Stand 21.09.2026 aktualisiert; Artikel 2 Nummer 2 Buchstabe d und Artikel 3 konkretisiert",
       "Afrasiabi an Kontrolle des Zwischenempfängers und Nutzungspotenzial gebunden, historische Reichweite offengelegt",
@@ -57,9 +57,10 @@
       "Versionsbezogene Softwareklassifizierung, Namensverwechslung versus Kontrolle, Zollbescheid und Monatsfrist mit begrenzter Vollzugsfreigabe.",
       "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung.",
       "16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen.",
-      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam."
+      "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: cbam.",
+      "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen."
     ],
-    "sha256": "9d74b631bd000f6ce5d47941a9e3931428c5915ce2e97ef744d17b233903a2db",
+    "sha256": "e78b17e17744f2d000e67efb4a4e7e14bf07878b10b087c9474a52d327a3c569",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -231,5 +232,15 @@
     ],
     "scope": "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung.",
     "limits": "Bestehende Prüfstände und offene Dateireviews unverändert erhalten. Aktive Skills, Mini-Prompt und Testakten in diesem Teilauftrag nicht geändert."
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "CBAM-Urteil vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+    "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+    "before_sha256": "9d74b631bd000f6ce5d47941a9e3931428c5915ce2e97ef744d17b233903a2db",
+    "after_sha256": "e78b17e17744f2d000e67efb4a4e7e14bf07878b10b087c9474a52d327a3c569"
   }
 }
