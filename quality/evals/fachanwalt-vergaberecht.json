@@ -243,7 +243,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren.",
+    "reason": "Gezielte Quellenvertiefung: Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
       "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
@@ -252,9 +252,10 @@
       "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Rüge, Vergabeentscheidung und konkretes Dokument stehen zuerst; zulässiges Notenmodell wird von der begründeten Einzelwertung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 22.01.2026, C-812/24"
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 22.01.2026, C-812/24",
+      "Unionsrechtlichen Eilrechtsschutz anhand C-266/25 und C-267/25 abgrenzen und die berichtigte Fassung berücksichtigen."
     ],
-    "sha256": "e0e215c2922ba4fdbfd8fcc39249352e89e6c7a7c57155e2d434be091b18093f",
+    "sha256": "5f4ea11e98112ad016f828a429414609e485575e14184807e64ae5e45ff272ed",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
@@ -418,5 +419,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Unionsrechtlichen Eilrechtsschutz anhand C-266/25 und C-267/25 abgrenzen und die berichtigte Fassung berücksichtigen.",
+    "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+    "before_sha256": "e0e215c2922ba4fdbfd8fcc39249352e89e6c7a7c57155e2d434be091b18093f",
+    "after_sha256": "5f4ea11e98112ad016f828a429414609e485575e14184807e64ae5e45ff272ed"
   }
 }

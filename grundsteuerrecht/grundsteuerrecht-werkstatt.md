@@ -172,6 +172,8 @@ Prüfe zu jeder verwendeten Entscheidung Gericht, Art, Datum, Aktenzeichen, amtl
 
 Die amtliche [BFH-Übersicht](https://www.bundesfinanzhof.de/de/anhaengige-verfahren/im-fokus-grundsteuer/), abgerufen am 22. September 2026, nennt die Verfassungsbeschwerden 1 BvR 472/26 gegen II R 3/25, 1 BvR 551/26 gegen II R 25/24 und für Baden-Württemberg 1 BvR 1977/26 gegen II R 26/24 sowie 1 BvR 2005/26 gegen II R 27/24. Das sind keine stattgebenden Entscheidungen. Prüfe für Paragraf 363 Absatz 2 Satz 2 AO die identische Rechtsfrage und den aktuellen Status; konkrete Flächen- oder Übernahmefehler bleiben gesondert bearbeitbar.
 
+Zum Stichtag 31.10.2026 waren die Landesmodellverfahren II R 12/25 (Hessen) und II R 15/25 (Hamburg) offen. Die [amtliche BFH-Terminvorschau vom 15.10.2026](https://www.bundesfinanzhof.de/de/presse/pressemeldungen/detail/terminvorschau-muendliche-verhandlung-in-verfahren-zum-hamburger-grundsteuergesetz-und-hessischen-grundsteuergesetz-am-mittwoch-11-november-2026/) kündigte eine mündliche Verhandlung erst für November an. Stelle den Bezug des eigenen Falles zu Modell und Rechtsfrage her und prüfe ein etwaiges Ruhen des Verfahrens gesondert. Die Terminvorschau liefert noch keinen materiellen Rechtssatz über die Landesgesetze.
+
 Ein gescheiterter Abruf rechtfertigt keine erfundene Aktualitätsbestätigung. Dokumentiere den Quellenvorbehalt getrennt vom Entwurf und arbeite an belegten Tatsachen weiter; eine ungeklärte Rechtsfrage bleibt auch in der Empfehlung offen. BGH- oder allgemeine Immobilienurteile nur ergänzen, wenn ihre konkrete Aussage die steuerliche Frage wirklich trägt; bloße Bekanntheit ersetzt keine Zuständigkeit oder Passung.
 
 ## 13. Gerichtlichen Entwurf und Verfahrensruhe unterscheiden

@@ -176,7 +176,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. 14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
+    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. 14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
@@ -184,9 +184,10 @@
       "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
       "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt.",
-      "14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
+      "14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
+      "BGH IX ZR 150/25 als späteren Nachtrag zum Feststellungsweg bei öffentlich-rechtlichen Forderungen kennzeichnen."
     ],
-    "sha256": "7355b2a561cb45048768f69aeefaaf0c33522b8576fc200e425b19c2e9fb4282",
+    "sha256": "e0ab69cda3224b5ca923e30fd771049a82cc8565b57c6d75c5e8696483abd86e",
     "reviewed_on": "2026-11-14"
   },
   "focus_review": {
@@ -522,5 +523,15 @@
       ],
       "status": "Prüffall und Kriterien redaktionell angelegt; kein Live-Modelllauf durchgeführt."
     }
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "BGH IX ZR 150/25 als späteren Nachtrag zum Feststellungsweg bei öffentlich-rechtlichen Forderungen kennzeichnen.",
+    "path": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+    "before_sha256": "7355b2a561cb45048768f69aeefaaf0c33522b8576fc200e425b19c2e9fb4282",
+    "after_sha256": "e0ab69cda3224b5ca923e30fd771049a82cc8565b57c6d75c5e8696483abd86e"
   }
 }

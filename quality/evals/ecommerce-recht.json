@@ -178,16 +178,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung. Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung. Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Sachfremde arbeitsrechtliche Klagefrist entfernt; wiederholte Normlisten und Rollenfloskeln durch Bildschirmnachweise ersetzt.",
       "Button- und Widerrufsentscheidungen mit Anwendungsgrenzen ergänzt.",
       "Vorhandene Zweige zu Plattformen, digitalen Waren, Abmahnung und OSS/IOSS erhalten.",
       "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet.",
       "Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Kündigungsschaltfläche für entgeltliche Dauerschuldverhältnisse bei App-Abschluss nach I ZR 243/25 prüfen."
     ],
-    "sha256": "d60134f35e99339c42612814fa976e3297d238e6ee527a7a5f1cf8ff49c49ee0"
+    "sha256": "803b0e797b5cc8dd7085d452c70dad9af166cc77f37d62a7e663d9257a905abe"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -250,5 +251,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Kündigungsschaltfläche für entgeltliche Dauerschuldverhältnisse bei App-Abschluss nach I ZR 243/25 prüfen.",
+    "path": "ecommerce-recht/ecommerce-recht-werkstatt.md",
+    "before_sha256": "d60134f35e99339c42612814fa976e3297d238e6ee527a7a5f1cf8ff49c49ee0",
+    "after_sha256": "803b0e797b5cc8dd7085d452c70dad9af166cc77f37d62a7e663d9257a905abe"
   }
 }

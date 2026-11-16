@@ -576,14 +576,15 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuell redaktionell geprüft: vollständiger Berufungspfad und amtlich abgeglichene Quellenkarten mit unterschiedlichen Veröffentlichungsständen; übrige Verfahrenszweige erhalten.",
+    "reason": "Individuell redaktionell geprüft: vollständiger Berufungspfad und amtlich abgeglichene Quellenkarten mit unterschiedlichen Veröffentlichungsständen; übrige Verfahrenszweige erhalten. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Jeden selbständig tragenden Urteilsgrund und dessen Erheblichkeit beantworten",
       "Neue Mittel mit bisherigem Vortrag und Verfügbarkeitszeitpunkt nach Paragraf 67 ArbGG verbinden",
       "Sechs Flyerentscheidungen mit Aussagegrenze und Pressemitteilungsstatus abgleichen",
-      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Vorherigen Ausschluss von Annahmeverzug und Rechtswahl anhand des amtlichen Volltexts 2 AZR 91/24 eingeordnet."
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Vorherigen Ausschluss von Annahmeverzug und Rechtswahl anhand des amtlichen Volltexts 2 AZR 91/24 eingeordnet.",
+      "BAG 5 AZR 37/25 in der Werkstatt und der Quellenkarte auf den amtlichen Volltext umstellen. Sekundäre Darlegungslast und selbständigen Auskunftsanspruch unterscheiden."
     ],
-    "sha256": "b61f8df2c162278470db0618720ceae0820f6c2a6605b8459534d4b4de5326c7"
+    "sha256": "4422aaac3c2554f625a6dd3d328f9dc5989cd6ef6dd92eac23b9b70b07a3af90"
   },
   "focus_review": {
     "method": "desk_review",
@@ -619,7 +620,7 @@
       "Redaktionelle Prüfung; keine behauptete Live-Ausführung in einer bestimmten Oberfläche",
       "Konkrete Zustellverfahren und aktuelle Änderungen am Mandatsstichtag erneut prüfen",
       "Tarifrecht, Personalvertretungsrecht und medizinische Tatsachen fallbezogen ergänzen",
-      "5 AZR 37/25 und 9 AZR 11/26 nur nach amtlicher Pressemitteilung und Sitzungsergebnis; kein Volltext oder Randnummern behauptet",
+      "5 AZR 37/25 als Urteil vom 26.08.2026, dessen amtlicher Volltext erst im November ausgewertet werden konnte. Für 9 AZR 11/26 bleibt es bei amtlicher Mitteilung und Sitzungsergebnis.",
       "Die redaktionelle Prüfung und der Aktenbuild sind keine ausgeführten Modelltests der späteren Berufungsbegründung"
     ],
     "files": [
@@ -770,10 +771,10 @@
       },
       {
         "citation": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25",
-        "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
-        "source_status": "official_press_release",
-        "application": "Auskunft über Vermittlungsvorschläge von sekundärer Darlegung zu Bewerbungen trennen.",
-        "limit": "Nur amtliche Mitteilung und Sitzungsergebnis; keine Volltext-Randnummern."
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-37-25/",
+        "source_status": "official_full_text",
+        "application": "Selbständige Auskunft über Vermittlungsvorschläge von sekundärer Darlegung des Bewerbungsverhaltens trennen. Die Wahrscheinlichkeit einer Anrechnung ist für die Auskunft nicht erforderlich (Rn. 22–36).",
+        "limit": "Entscheidung über Auskunft, keine ausgeurteilte Lohnkürzung. Volltext im November veröffentlicht und retrospektiv für das Augusturteil ausgewertet."
       },
       {
         "citation": "BAG, Urteil vom 06.10.2026, 9 AZR 11/26",
@@ -814,5 +815,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "BAG 5 AZR 37/25 in der Werkstatt und der Quellenkarte auf den amtlichen Volltext umstellen. Sekundäre Darlegungslast und selbständigen Auskunftsanspruch unterscheiden.",
+    "path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
+    "before_sha256": "b61f8df2c162278470db0618720ceae0820f6c2a6605b8459534d4b4de5326c7",
+    "after_sha256": "4422aaac3c2554f625a6dd3d328f9dc5989cd6ef6dd92eac23b9b70b07a3af90"
   }
 }

@@ -3,6 +3,7 @@
 
 import importlib.util
 import io
+import subprocess
 import tempfile
 import unittest
 from pathlib import Path
@@ -63,7 +64,8 @@ class PublicDownloadTests(unittest.TestCase):
         assets = {"ok.zip": {"size": 100, "state": "uploaded"}, "empty.zip": {"size": 0, "state": "uploaded"}, "pending.zip": {"size": 100, "state": "new"}}
         with patch.object(CHECK, "public_assets", return_value=assets) as api:
             errors = CHECK.validate(links)
-            api.assert_called_once_with("latest")
+            self.assertEqual(api.call_count, 1)
+            self.assertEqual(api.call_args.args[0], "latest")
         self.assertEqual(len(errors), 3)
         self.assertFalse(any("ok.zip" in error for error in errors))
 
@@ -79,6 +81,37 @@ class PublicDownloadTests(unittest.TestCase):
             request = opened.call_args.args[0]
             self.assertFalse(request.has_header("Authorization"))
             self.assertEqual(opened.call_args.kwargs["timeout"], 20)
+
+    def test_cli_mode_never_treats_private_repo_or_visible_draft_as_public(self):
+        argv = ["validate-public-downloads.py", "--github-cli"]
+        links = {("akten-v1.0.0", "a.zip"): ["README.md:1"]}
+        for visibility in ("public", "private"):
+            with self.subTest(visibility=visibility), patch.object(CHECK.sys, "argv", argv), \
+                    patch.object(CHECK, "release_links", return_value=links), \
+                    patch.object(CHECK, "download_readmes", return_value=[]), \
+                    patch.object(CHECK, "github_cli_json", side_effect=[
+                        {"private": visibility == "private", "visibility": visibility},
+                        {**PUBLIC, "draft": True},
+                    ]) as cli, patch("sys.stderr", new_callable=io.StringIO) as output:
+                self.assertEqual(CHECK.main(), 1)
+                self.assertIn("nicht als öffentlich" if visibility == "private" else "nicht als veröffentlicht", output.getvalue())
+                self.assertEqual(cli.call_count, 1 if visibility == "private" else 2)
+
+    def test_cli_retries_transient_server_error_and_preserves_real_failure(self):
+        transient = subprocess.CompletedProcess([], 1, "", "gh: Server Error (HTTP 502)")
+        success = subprocess.CompletedProcess([], 0, '{"found":true}', "")
+        missing = subprocess.CompletedProcess([], 1, "", "gh: Not Found (HTTP 404)")
+        with patch.object(CHECK, "sleep"), patch.object(CHECK.subprocess, "run", side_effect=[transient, success]) as run:
+            self.assertEqual(CHECK.github_cli_json("releases/latest"), {"found": True})
+            self.assertEqual(run.call_count, 2)
+        with patch.object(CHECK, "sleep"), patch.object(CHECK.subprocess, "run", return_value=transient) as run:
+            with self.assertRaisesRegex(ValueError, "HTTP 502"):
+                CHECK.github_cli_json("releases/latest")
+            self.assertEqual(run.call_count, 3)
+        with patch.object(CHECK.subprocess, "run", return_value=missing) as run:
+            with self.assertRaisesRegex(ValueError, "HTTP 404"):
+                CHECK.github_cli_json("releases/latest")
+            self.assertEqual(run.call_count, 1)
 
     def test_404_and_api_limit_have_distinct_errors(self):
         for code, message in ((404, "Entwurf"), (403, "API-Limit"), (429, "API-Limit")):

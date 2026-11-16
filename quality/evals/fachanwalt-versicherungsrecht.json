@@ -133,15 +133,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Leistungsablehnung und fertige Erwiderung stehen vor der Fachübersicht; berufliche Teilhandlungen werden im Gesamtvorgang bewertet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Leistungsablehnung und fertige Erwiderung stehen vor der Fachübersicht; berufliche Teilhandlungen werden im Gesamtvorgang bewertet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
       "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Leistungsablehnung und fertige Erwiderung stehen vor der Fachübersicht; berufliche Teilhandlungen werden im Gesamtvorgang bewertet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Leistungsablehnung und fertige Erwiderung stehen vor der Fachübersicht; berufliche Teilhandlungen werden im Gesamtvorgang bewertet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Konkreten AHB-Ausschluss und Rechtsschutzdeckung nach IV ZR 246/25 und IV ZR 155/25 differenzieren."
     ],
-    "sha256": "57c14f83d8449f32197516edd53e169f30d055f2ee0117be5095aa2baebc1b82",
+    "sha256": "f148bda0cdbf510fc256a95514e967e0797113e1b74255c91fa9bf5d7cad4bc8",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -340,5 +341,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Konkreten AHB-Ausschluss und Rechtsschutzdeckung nach IV ZR 246/25 und IV ZR 155/25 differenzieren.",
+    "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
+    "before_sha256": "57c14f83d8449f32197516edd53e169f30d055f2ee0117be5095aa2baebc1b82",
+    "after_sha256": "f148bda0cdbf510fc256a95514e967e0797113e1b74255c91fa9bf5d7cad4bc8"
   }
 }

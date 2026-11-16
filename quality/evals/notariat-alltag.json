@@ -228,15 +228,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt.",
+    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Formsonderfälle und Einreichungsfolge konkretisiert.",
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
       "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
       "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
-      "Quellenprüfung 10.11.2026: V ZB 17/24 für den Vollzug nach MoPeG angewendet."
+      "Quellenprüfung 10.11.2026: V ZB 17/24 für den Vollzug nach MoPeG angewendet.",
+      "Fristbeginn zum gemeindlichen Vorkaufsrecht nach III ZR 3/26 an korrekte Mitteilung über den Genehmigungsstand knüpfen."
     ],
-    "sha256": "d7f3de3fdea37a56a1e6d5605d3fb53a05c249d4e3dfb88d8ff643636247336b"
+    "sha256": "7f35c2ba767291424d43a99a8a38d3ad5b5d168e53fd8e7e41b3c7c2f59a5354"
   },
   "selection": {
     "positive": [
@@ -1442,5 +1443,15 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Fristbeginn zum gemeindlichen Vorkaufsrecht nach III ZR 3/26 an korrekte Mitteilung über den Genehmigungsstand knüpfen.",
+    "path": "notariat-alltag/notariat-alltag-werkstatt.md",
+    "before_sha256": "d7f3de3fdea37a56a1e6d5605d3fb53a05c249d4e3dfb88d8ff643636247336b",
+    "after_sha256": "7f35c2ba767291424d43a99a8a38d3ad5b5d168e53fd8e7e41b3c7c2f59a5354"
   }
 }

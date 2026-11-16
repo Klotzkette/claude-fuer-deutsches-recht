@@ -1,0 +1,4167 @@
+{
+  "method": "Heuristischer Metadatenabgleich. Kein Nachweis des Inhalts, der Vollständigkeit oder der Übertragbarkeit.",
+  "plugins": 311,
+  "files": 332,
+  "distinct": {
+    "Bund": {
+      "matched": 524,
+      "not_indexed": 109,
+      "different_dates": 2
+    },
+    "EU": {
+      "matched": 130
+    }
+  },
+  "occurrences": 1595,
+  "candidates": [
+    {
+      "court": "BAG",
+      "docket": "5azr509/91",
+      "date": "1992-09-09",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          125,
+          "BAG, Urteil vom 9. September 1992 – 5 AZR 509/91"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          1282,
+          "BAG, Urteil vom 09.09.1992 – 5 AZR 509/91"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "6azr171/92",
+      "date": "1993-01-21",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          860,
+          "BAG, Urteil vom 21.01.1993 – Az. 6 AZR 171/92"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "8azr153/25",
+      "date": "2026-09-10",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitsrecht/arbeitsrecht-werkstatt.md",
+          46,
+          "BAG, Urteil vom 10.09.2026, 8 AZR 153/25"
+        ],
+        [
+          "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+          87,
+          "BAG, Urteil vom 10.09.2026, 8 AZR 153/25"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr11/26",
+      "date": "2026-10-06",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
+          289,
+          "BAG, Urteil vom 6. Oktober 2026, 9 AZR 11/26"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr12/03",
+      "date": "2003-10-14",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          150,
+          "BAG, Urteil vom 14. Oktober 2003 – Az. 9 AZR 12/03"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          503,
+          "BAG, Urteil vom 14.10.2003 – 9 AZR 12/03"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          768,
+          "BAG 14.10.2003 – 9 AZR 12/03"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr248/07",
+      "date": "2007-10-16",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          133,
+          "BAG, Urteil vom 16. Oktober 2007 – 9 AZR 248/07"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          836,
+          "BAG, Urteil vom 16.10.2007 – Az. 9 AZR 248/07"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr261/04",
+      "date": "2005-05-10",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          696,
+          "BAG, Urteil vom 10.05.2005 – 9 AZR 261/04"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          773,
+          "BAG 10.05.2005 – 9 AZR 261/04"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr352/04",
+      "date": "2005-06-21",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          828,
+          "BAG, Urteil vom 21.06.2005 – Az. 9 AZR 352/04"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr44/00",
+      "date": "2001-02-20",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          798,
+          "BAG, Urteil vom 20.02.2001 – Az. 9 AZR 44/00"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr507/04",
+      "date": "2005-10-04",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          123,
+          "BAG, Urteil vom 4. Oktober 2005 – 9 AZR 507/04"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          1248,
+          "BAG, Urteil vom 04.10.2005 – 9 AZR 507/04"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr632/07",
+      "date": "2008-08-12",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          180,
+          "BAG, Urteil vom 12. August 2008 – 9 AZR 632/07"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          641,
+          "BAG, Urteil vom 12.08.2008 – 9 AZR 632/07"
+        ],
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          772,
+          "BAG 12.08.2008 – 9 AZR 632/07"
+        ]
+      ]
+    },
+    {
+      "court": "BAG",
+      "docket": "9azr893/98",
+      "date": "1999-09-21",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+          1244,
+          "BAG, Urteil vom 21.09.1999 – 9 AZR 893/98"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iiizr54/07",
+      "date": "2007-11-08",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md",
+          5,
+          "BGH, Urteil vom 08.11.2007, III ZR 54/07"
+        ],
+        [
+          "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md",
+          59,
+          "BGH, Urteil vom 08.11.2007, III ZR 54/07"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iiizr62/07",
+      "date": "2007-10-25",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          559,
+          "BGH, Urteil vom 25.10.2007 – III ZR 62/07"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iiizr91/07",
+      "date": "2007-10-25",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md",
+          5,
+          "BGH, Urteil vom 25.10.2007, III ZR 91/07"
+        ],
+        [
+          "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md",
+          55,
+          "BGH, Urteil vom 25. Oktober 2007, III ZR 91/07"
+        ],
+        [
+          "verbraucher-rechtsstaat-alltag/verbraucher-rechtsstaat-alltag-werkstatt.md",
+          5,
+          "BGH, Urteil vom 25.10.2007, Az. III ZR 91/07"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr111/05",
+      "date": "2007-07-02",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-werkstatt.md",
+          5,
+          "BGH, Urteil und Versäumnisurteil vom 02.07.2007, II ZR 111/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr151/03",
+      "date": "2005-04-18",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+          438,
+          "BGH, Urt. v. 18.04.2005 – Az. II ZR 151/03"
+        ],
+        [
+          "startup-gruender/startup-gruender-werkstatt.md",
+          231,
+          "BGH, Urteil vom 18.04.2005 – II ZR 151/03"
+        ],
+        [
+          "startup-gruender/startup-gruender-werkstatt.md",
+          423,
+          "BGH, Urteil vom 18.04.2005 – II ZR 151/03"
+        ],
+        [
+          "startup-gruender/startup-gruender-werkstatt.md",
+          437,
+          "BGH, Urteil vom 18.04.2005 – II ZR 151/03"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr166/07",
+      "date": "2009-05-04",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+          422,
+          "BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07"
+        ],
+        [
+          "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md",
+          169,
+          "BGH, Beschluss vom 04.05.2009 – II ZR 166/07"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr167/07",
+      "date": "2009-04-27",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+          430,
+          "BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr173/04",
+      "date": "2005-09-19",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "private-equity-praxis/private-equity-praxis-werkstatt.md",
+          43,
+          "BGH, Urteil vom 19. September 2005, II ZR 173/04"
+        ],
+        [
+          "private-equity-praxis/private-equity-praxis-werkstatt.md",
+          105,
+          "BGH, Urteil vom 19. September 2005, II ZR 173/04"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr255/08",
+      "date": "2009-04-06",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md",
+          129,
+          "BGH, Urteil vom 6. April 2009, II ZR 255/08"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr342/03",
+      "date": "2005-09-19",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "startup-gruender/startup-gruender-werkstatt.md",
+          451,
+          "BGH, Urteil vom 19.09.2005 – II ZR 342/03"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "iizr91/21",
+      "date": "2023-01-31",
+      "status": "different_dates",
+      "entries": {
+        "2022-11-08": [
+          "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300072023.zip"
+        ]
+      },
+      "contexts": [
+        [
+          "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+          374,
+          "BGH, Beschl. v. 31.01.2023 – Az. II ZR 91/21"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzb55/04",
+      "date": "2005-09-22",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md",
+          5,
+          "BGH, Beschluss vom 22.09.2005, Az. IX ZB 55/04"
+        ],
+        [
+          "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md",
+          97,
+          "BGH, Beschluss vom 22.09.2005, IX ZB 55/04"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzb8/05",
+      "date": "2007-03-22",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-werkstatt.md",
+          275,
+          "BGH, Beschluss vom 22.03.2007 – IX ZB 8/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzr123/04",
+      "date": "2005-05-24",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+          84,
+          "BGH, Urteil vom 24.05.2005, IX ZR 123/04"
+        ],
+        [
+          "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+          85,
+          "BGH, Urteil vom 24.05.2005, IX ZR 123/04"
+        ],
+        [
+          "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
+          71,
+          "BGH, Urteil vom 24.05.2005 – IX ZR 123/04"
+        ],
+        [
+          "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md",
+          50,
+          "BGH, Urteil vom 24. Mai 2005 – IX ZR 123/04"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzr145/08",
+      "date": "2009-04-02",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "insolvenzanfechtung/werkstattprompts/130-kongruente-deckung.md",
+          201,
+          "BGH, Urteil vom 02.04.2009 – Az. IX ZR 145/08"
+        ],
+        [
+          "insolvenzanfechtung/werkstattprompts/131-inkongruente-deckung.md",
+          217,
+          "BGH, Urteil vom 02.04.2009 – Az. IX ZR 145/08"
+        ],
+        [
+          "insolvenzanfechtung/werkstattprompts/139-fristen-und-antragsauswahl.md",
+          7,
+          "BGH, Urteil vom 02.04.2009 – Az. IX ZR 145/08"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzr178/03",
+      "date": "2004-03-11",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md",
+          5,
+          "BGH, Urteil vom 11.03.2004, IX ZR 178/03"
+        ],
+        [
+          "berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md",
+          38,
+          "BGH, Urteil vom 11. März 2004, IX ZR 178/03"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzr195/01",
+      "date": "2002-07-18",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md",
+          160,
+          "BGH, Urteil vom 18.07.2002, Az. IX ZR 195/01"
+        ],
+        [
+          "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md",
+          372,
+          "BGH, Urteil vom 18.07.2002, Az. IX ZR 195/01"
+        ],
+        [
+          "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+          162,
+          "BGH, Urteil vom 18.07.2002 – IX ZR 195/01"
+        ],
+        [
+          "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+          402,
+          "BGH, Urteil vom 18.07.2002 – IX ZR 195/01"
+        ],
+        [
+          "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+          550,
+          "BGH, Urteil vom 18.07.2002 – IX ZR 195/01"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzr220/05",
+      "date": "2008-03-27",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+          362,
+          "BGH, Urteil vom 27.03.2008 – IX ZR 220/05"
+        ],
+        [
+          "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+          550,
+          "BGH, Urteil vom 27.03.2008 – IX ZR 220/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzr228/03",
+      "date": "2006-10-12",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
+          73,
+          "BGH, Urteil vom 12.10.2006 – IX ZR 228/03"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "ixzr231/04",
+      "date": "2007-06-21",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "insolvenzanfechtung/werkstattprompts/137-wechsel-und-scheckzahlungen.md",
+          5,
+          "BGH, Urteil vom 21.06.2007 – Az. IX ZR 231/04"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "izr246/98",
+      "date": "2000-11-02",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+          5,
+          "BGH, Urteil vom 02.11.2000, I ZR 246/98"
+        ],
+        [
+          "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+          75,
+          "BGH, Urteil vom 02.11.2000, I ZR 246/98"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viiizr100/05",
+      "date": "2006-09-20",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+          5,
+          "BGH, Urteil vom 20.09.2006, VIII ZR 100/05"
+        ],
+        [
+          "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+          65,
+          "BGH, Urteil vom 20.09.2006, VIII ZR 100/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viiizr103/06",
+      "date": "2006-09-20",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+          83,
+          "BGH, Urteil vom 20.09.2006 - VIII ZR 103/06"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viiizr304/00",
+      "date": "2002-01-09",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
+          45,
+          "BGH, Urteil vom 09.01.2002 - Az. VIII ZR 304/00"
+        ],
+        [
+          "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
+          218,
+          "BGH, Urt. v. 09.01.2002 - Az. VIII ZR 304/00"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viiizr336/08",
+      "date": "2009-09-23",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "zwangsverwaltung-zvg/zwangsverwaltung-zvg-werkstatt.md",
+          5,
+          "BGH, Urteil vom 23.09.2009, VIII ZR 336/08"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viiizr36/25",
+      "date": "2026-03-31",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
+          221,
+          "BGH, Beschl. v. 31.03.2026 - Az. VIII ZR 36/25"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viiizr60/01",
+      "date": "2001-10-31",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
+          41,
+          "BGH, Urteil vom 31.10.2001 - Az. VIII ZR 60/01"
+        ],
+        [
+          "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
+          217,
+          "BGH, Urt. v. 31.10.2001 - Az. VIII ZR 60/01"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viizr183/05",
+      "date": "2007-11-08",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
+          77,
+          "BGH, Urteil vom 08.11.2007, VII ZR 183/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viizr280/05",
+      "date": "2008-01-24",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
+          78,
+          "BGH, Urteil vom 24.01.2008, VII ZR 280/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "viizr310/99",
+      "date": "2000-12-22",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+          5,
+          "BGH, Urteil vom 22.12.2000, VII ZR 310/99"
+        ],
+        [
+          "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+          35,
+          "BGH, Urteil vom 22.12.2000, VII ZR 310/99"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vizr107/08",
+      "date": "2009-06-16",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "produktrecht/produktrecht-werkstatt.md",
+          5,
+          "BGH, Urteil vom 16.06.2009, Az. VI ZR 107/08"
+        ],
+        [
+          "produktrecht/produktrecht-werkstatt.md",
+          37,
+          "BGH, Urteil vom 16.06.2009, VI ZR 107/08"
+        ],
+        [
+          "robotik-recht/robotik-recht-werkstatt.md",
+          3,
+          "BGH, Urteil vom 16.06.2009, Az. VI ZR 107/08"
+        ],
+        [
+          "robotik-recht/robotik-recht-werkstatt.md",
+          102,
+          "BGH, Urteil vom 16. Juni 2009, VI ZR 107/08"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vizr183/08",
+      "date": "2009-02-03",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+          43,
+          "BGH, Urteil vom 03.02.2009, VI ZR 183/08"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vizr235/06",
+      "date": "2007-12-18",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          508,
+          "BGH, Urteil vom 18.12.2007 – VI ZR 235/06"
+        ],
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          545,
+          "BGH, Urteil vom 18.12.2007 – VI ZR 235/06"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vizr279/06",
+      "date": "2008-09-09",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          473,
+          "BGH, Urt. v. 09.09.2008 – Az. VI ZR 279/06"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vizr294/03",
+      "date": "2004-10-05",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          551,
+          "BGH, Urteil vom 05.10.2004 – VI ZR 294/03"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vizr33/05",
+      "date": "2005-12-20",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          528,
+          "BGH, Urteil vom 20.12.2005 – VI ZR 33/05"
+        ],
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          561,
+          "BGH, Urteil vom 20.12.2005 – VI ZR 33/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vizr34/04",
+      "date": "2005-01-11",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          429,
+          "BGH, Urt. v. 11.01.2005 – Az. VI ZR 34/04"
+        ],
+        [
+          "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+          474,
+          "BGH, Urt. v. 11.01.2005 – Az. VI ZR 34/04"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "vzr110/09",
+      "date": "2009-12-11",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md",
+          5,
+          "BGH, Urteil vom 11.12.2009, V ZR 110/09"
+        ],
+        [
+          "erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md",
+          34,
+          "BGH, Urteil vom 11.12.2009, V ZR 110/09"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "xiizr265/02",
+      "date": "2004-02-11",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "notariat-alltag/notariat-alltag-werkstatt.md",
+          362,
+          "BGH, Urteil vom 11.02.2004, XII ZR 265/02"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "xzb27/05",
+      "date": "2006-06-20",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md",
+          5,
+          "BGH, Beschluss vom 20.06.2006, X ZB 27/05"
+        ],
+        [
+          "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md",
+          94,
+          "BGH, Beschluss vom 20.06.2006, X ZB 27/05"
+        ]
+      ]
+    },
+    {
+      "court": "BGH",
+      "docket": "xzr168/00",
+      "date": "2002-03-12",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "patentrecherche/patentrecherche-werkstatt.md",
+          116,
+          "BGH, Urteil vom 12.03.2002, X ZR 168/00"
+        ],
+        [
+          "patentrecht/patentrecht-werkstatt.md",
+          5,
+          "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00"
+        ],
+        [
+          "patentrecht/patentrecht-werkstatt.md",
+          71,
+          "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00"
+        ]
+      ]
+    },
+    {
+      "court": "BSG",
+      "docket": "b12ba10/24r",
+      "date": "2026-07-23",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+          5,
+          "BSG, Urteil vom 23.07.2026, Az. B 12 BA 10/24 R"
+        ],
+        [
+          "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+          563,
+          "BSG, Urteil vom 23.07.2026 – B 12 BA 10/24 R"
+        ]
+      ]
+    },
+    {
+      "court": "BSG",
+      "docket": "b12ba12/24r",
+      "date": "2026-07-23",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+          571,
+          "BSG, Urteil vom 23.07.2026 – B 12 BA 12/24 R"
+        ]
+      ]
+    },
+    {
+      "court": "BSG",
+      "docket": "b12ba3/25r",
+      "date": "2026-07-23",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+          567,
+          "BSG, Urteil vom 23.07.2026 – B 12 BA 3/25 R"
+        ]
+      ]
+    },
+    {
+      "court": "BSG",
+      "docket": "b12ba7/24r",
+      "date": "2026-07-23",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+          575,
+          "BSG, Urteil vom 23.07.2026 – B 12 BA 7/24 R"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "1bvl7/91",
+      "date": "1999-03-02",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md",
+          5,
+          "BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91"
+        ],
+        [
+          "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md",
+          88,
+          "BVerfG, Beschluss vom 02.03.1999, Az. 1 BvL 7/91"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "1bvr1160/03",
+      "date": "2006-06-13",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md",
+          242,
+          "BVerfG 13.06.2006 1 BvR 1160/03"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "1bvr2049/00",
+      "date": "2001-07-02",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md",
+          5,
+          "BVerfG-Beschluss vom 02.07.2001, 1 BvR 2049/00"
+        ],
+        [
+          "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md",
+          75,
+          "BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00"
+        ],
+        [
+          "strafanzeige-vorbereiter/strafanzeige-vorbereiter-werkstatt.md",
+          5,
+          "BVerfG, Beschluss vom 02.07.2001, Az. 1 BvR 2049/00"
+        ],
+        [
+          "strafanzeige-vorbereiter/strafanzeige-vorbereiter-werkstatt.md",
+          77,
+          "BVerfG, Beschluss vom 02.07.2001 - 1 BvR 2049/00"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "1bvr2492/08",
+      "date": "2009-02-17",
+      "status": "different_dates",
+      "entries": {
+        "2010-02-02": [
+          "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE388041001.zip"
+        ],
+        "2012-03-21": [
+          "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE398831201.zip"
+        ],
+        "2012-08-01": [
+          "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE400701201.zip"
+        ]
+      },
+      "contexts": [
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          227,
+          "BVerfG, Beschluss vom 17.02.2009 – 1 BvR 2492/08"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          568,
+          "BVerfG, Beschluss vom 17. Februar 2009 – 1 BvR 2492/08"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "1bvr2857/07",
+      "date": "2009-12-01",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          269,
+          "BVerfG, Urteil vom 1. Dezember 2009 – 1 BvR 2857/07"
+        ],
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          353,
+          "BVerfG, Urteil vom 01.12.2009 – 1 BvR 2857/07"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "1bvr322/09",
+      "date": "2009-08-06",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "rechtsberatungsstelle/rechtsberatungsstelle-werkstatt.md",
+          3,
+          "BVerfG, Beschluss vom 06.08.2009, Az. 1 BvR 322/09"
+        ],
+        [
+          "rechtsberatungsstelle/rechtsberatungsstelle-werkstatt.md",
+          43,
+          "BVerfG, Beschluss vom 06.08.2009, 1 BvR 322/09"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "1bvr569/05",
+      "date": "2005-05-12",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+          100,
+          "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05"
+        ],
+        [
+          "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md",
+          3,
+          "BVerfG, Beschluss vom 12.05.2005, Az. 1 BvR 569/05"
+        ],
+        [
+          "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md",
+          65,
+          "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05"
+        ],
+        [
+          "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md",
+          3,
+          "BVerfG, Beschluss vom 12.05.2005, Az. 1 BvR 569/05"
+        ],
+        [
+          "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md",
+          78,
+          "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05"
+        ],
+        [
+          "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
+          180,
+          "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "2bvr1661/06",
+      "date": "2008-01-24",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strafvollzug-jva/strafvollzug-jva-werkstatt.md",
+          219,
+          "BVerfG, Beschluss vom 24.01.2008, Az. 2 BvR 1661/06"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "2bvr1870/07",
+      "date": "2008-11-07",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strafvollzug-jva/strafvollzug-jva-werkstatt.md",
+          117,
+          "BVerfG, Beschluss vom 07.11.2008, Az. 2 BvR 1870/07"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "2bvr2292/00",
+      "date": "2002-05-15",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "untersuchungshaft/untersuchungshaft-werkstatt.md",
+          5,
+          "BVerfG, Beschluss vom 15.05.2002, Az. 2 BvR 2292/00"
+        ],
+        [
+          "untersuchungshaft/untersuchungshaft-werkstatt.md",
+          260,
+          "BVerfG, 15.05.2002, 2 BvR 2292/00"
+        ]
+      ]
+    },
+    {
+      "court": "BVerfG",
+      "docket": "2bvr30/06",
+      "date": "2006-10-24",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strafvollzug-jva/strafvollzug-jva-werkstatt.md",
+          447,
+          "BVerfG, Beschluss vom 24.10.2006, Az. 2 BvR 30/06"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "10c4.16",
+      "date": "2017-11-15",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 15.11.2017, Az. 10 C 4.16"
+        ],
+        [
+          "jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md",
+          137,
+          "BVerwG, Urteil vom 15.11.2017, 10 C 4.16"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "10vr3.25",
+      "date": "2025-04-14",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+          3,
+          "BVerwG, Beschluss vom 14.04.2025, Az. 10 VR 3.25"
+        ],
+        [
+          "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+          31,
+          "BVerwG, Beschluss vom 14.04.2025, 10 VR 3.25"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "1c20.09",
+      "date": "2010-11-16",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 16.11.2010, 1 C 20.09"
+        ],
+        [
+          "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+          29,
+          "BVerwG, Urteil vom 16. November 2010, 1 C 20.09"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "1wb27.17",
+      "date": "2018-03-01",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+          5,
+          "BVerwG, Beschluss vom 01.03.2018, 1 WB 27.17"
+        ],
+        [
+          "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+          25,
+          "BVerwG, Beschluss vom 1. März 2018, 1 WB 27.17"
+        ],
+        [
+          "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+          41,
+          "BVerwG, Beschluss vom 1. März 2018, 1 WB 27.17"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "2b57.17",
+      "date": "2018-06-28",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md",
+          3,
+          "BVerwG, Beschluss vom 28.06.2018, Az. 2 B 57.17"
+        ],
+        [
+          "pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md",
+          30,
+          "BVerwG, Beschluss vom 28.06.2018, 2 B 57.17"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "2c30.15",
+      "date": "2016-10-20",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          59,
+          "BVerwG, Urteil vom 20. Oktober 2016 – 2 C 30.15"
+        ],
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          507,
+          "BVerwG, Urteil vom 20.10.2016 – 2 C 30.15"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "2c4.19",
+      "date": "2021-02-03",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          161,
+          "BVerwG, Urteil vom 3. Februar 2021 – 2 C 4.19"
+        ],
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          505,
+          "BVerwG, Urteil vom 03.02.2021 – 2 C 4.19"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "2vr4.24",
+      "date": "2025-03-03",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "beamtenrecht/beamtenrecht-werkstatt.md",
+          5,
+          "BVerwG, Beschluss vom 03.03.2025, 2 VR 4.24"
+        ],
+        [
+          "beamtenrecht/beamtenrecht-werkstatt.md",
+          23,
+          "BVerwG, Beschluss vom 3. März 2025, 2 VR 4.24"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "3b5.25",
+      "date": "2026-02-23",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          259,
+          "BVerwG, Beschluss vom 23. Februar 2026 – 3 B 5.25"
+        ],
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          341,
+          "BVerwG, Beschluss vom 23.02.2026 – 3 B 5.25"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "3c10.15",
+      "date": "2016-04-06",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 06.04.2016, Az. 3 C 10.15"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "3c17.10",
+      "date": "2011-04-14",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "krankenhausrecht/krankenhausrecht-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 14.04.2011, Az. 3 C 17.10"
+        ],
+        [
+          "krankenhausrecht/krankenhausrecht-werkstatt.md",
+          19,
+          "BVerwG, Urteil vom 14.04.2011, 3 C 17.10"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "3c28.16",
+      "date": "2019-06-13",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "tierschutzrecht/tierschutzrecht-werkstatt.md",
+          86,
+          "BVerwG, Urteil vom 13. Juni 2019, 3 C 28.16"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "3c5.23",
+      "date": "2024-06-06",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md",
+          93,
+          "BVerwG, Urteil vom 06.06.2024, Az. 3 C 5.23"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "3c6.13",
+      "date": "2014-12-11",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md",
+          7,
+          "BVerwG, Urteil vom 11.12.2014, Az. 3 C 6.13"
+        ],
+        [
+          "strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 11.12.2014, Az. 3 C 6.13"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "4c8.09",
+      "date": "2012-04-04",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 04.04.2012, Az. 4 C 8.09"
+        ],
+        [
+          "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md",
+          43,
+          "BVerwG, Urteil vom 4. April 2012, 4 C 8.09"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "4cn3.22",
+      "date": "2023-07-18",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+          63,
+          "BVerwG, Urteil vom 18. Juli 2023, 4 CN 3.22"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "4cn7.19",
+      "date": "2021-01-20",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 20.01.2021, Az. 4 CN 7.19"
+        ],
+        [
+          "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+          33,
+          "BVerwG, Urteil vom 20. Januar 2021, 4 CN 7.19"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "5c19.16",
+      "date": "2017-10-26",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-werkstatt.md",
+          353,
+          "BVerwG, Urt. v. 26.10.2017 – Az. 5 C 19.16"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6b124.18",
+      "date": "2018-08-03",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
+          5,
+          "BVerwG, Beschluss vom 03.08.2018, Az. 6 B 124.18"
+        ],
+        [
+          "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
+          29,
+          "BVerwG, Beschluss vom 03.08.2018, 6 B 124.18"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6b16.20",
+      "date": "2020-09-03",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "hausarbeitenmacher/hausarbeitenmacher-werkstatt.md",
+          79,
+          "BVerwG, Beschluss vom 03.09.2020, 6 B 16.20"
+        ],
+        [
+          "jurastudium/jurastudium-werkstatt.md",
+          49,
+          "BVerwG, Beschluss vom 03.09.2020, 6 B 16.20"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6b9.09",
+      "date": "2009-08-17",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          105,
+          "BVerwG, Beschluss vom 17. August 2009 – 6 B 9.09"
+        ],
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          181,
+          "BVerwG, Beschluss vom 17. August 2009 – 6 B 9.09"
+        ],
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          511,
+          "BVerwG, Beschluss vom 17.08.2009 – 6 B 9.09"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6c1.22",
+      "date": "2024-03-27",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+          189,
+          "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22"
+        ],
+        [
+          "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+          427,
+          "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22"
+        ],
+        [
+          "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+          547,
+          "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          251,
+          "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          538,
+          "BVerwG, Urteil vom 27. März 2024 – 6 C 1.22"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6c2.22",
+      "date": "2024-04-24",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+          151,
+          "BVerwG, Urteil vom 24.04.2024 – 6 C 2.22"
+        ],
+        [
+          "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+          387,
+          "BVerwG 24.04.2024 – 6 C 2.22"
+        ],
+        [
+          "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+          539,
+          "BVerwG, Urteil vom 24.04.2024 – 6 C 2.22"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6c4.23",
+      "date": "2024-11-27",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          57,
+          "BVerwG, Urteil vom 27.11.2024 – 6 C 4.23"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          177,
+          "BVerwG, Urteil vom 27.11.2024 – 6 C 4.23"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          203,
+          "BVerwG, Urteil vom 27.11.2024 – 6 C 4.23"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          275,
+          "BVerwG, Urteil vom 27.11.2024 – 6 C 4.23"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          532,
+          "BVerwG, Urteil vom 27. November 2024 – 6 C 4.23"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6c46.16",
+      "date": "2017-10-25",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          227,
+          "BVerwG, Urteil vom 25.10.2017 – 6 C 46.16"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          556,
+          "BVerwG, Urteil vom 25. Oktober 2017 – 6 C 46.16"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6c9.20",
+      "date": "2022-05-24",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          175,
+          "BVerwG, Urteil vom 24.05.2022 – 6 C 9.20"
+        ],
+        [
+          "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+          550,
+          "BVerwG, Urteil vom 24. Mai 2022 – 6 C 9.20"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "6cn1.11",
+      "date": "2012-09-26",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 26.09.2012, 6 CN 1.11"
+        ],
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          227,
+          "BVerwG, Urteil vom 26. September 2012 – 6 CN 1.11"
+        ],
+        [
+          "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+          509,
+          "BVerwG, Urteil vom 26.09.2012 – 6 CN 1.11"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "7c17.15",
+      "date": "2017-03-30",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md",
+          88,
+          "BVerwG, Urteil vom 30. März 2017, 7 C 17.15"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "7c23.18",
+      "date": "2019-04-10",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 10.04.2019, 7 C 23.18"
+        ],
+        [
+          "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md",
+          67,
+          "BVerwG, Urteil vom 10.04.2019, Az. 7 C 23.18"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "7c29.17",
+      "date": "2019-08-29",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          157,
+          "BVerwG, Urteil vom 29. August 2019 – 7 C 29.17"
+        ],
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          365,
+          "BVerwG, Urteil vom 29.08.2019 – 7 C 29.17"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "7c5.11",
+      "date": "2012-01-12",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "tierschutzrecht/tierschutzrecht-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 12.01.2012, Az. 7 C 5.11"
+        ],
+        [
+          "tierschutzrecht/tierschutzrecht-werkstatt.md",
+          87,
+          "BVerwG, Urteil vom 12. Januar 2012, 7 C 5.11"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "7vr4.26",
+      "date": "2026-10-14",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+          17,
+          "BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8b27.25",
+      "date": "2026-02-23",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+          123,
+          "BVerwG, Beschluss vom 23.02.2026 – 8 B 27.25"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8c11.21",
+      "date": "2022-05-25",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 25.05.2022, 8 C 11.21"
+        ],
+        [
+          "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+          115,
+          "BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8c13.18",
+      "date": "2019-11-27",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 27.11.2019, 8 C 13.18"
+        ],
+        [
+          "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md",
+          33,
+          "BVerwG, Urteil vom 27.11.2019, Az. 8 C 13.18"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8c18.03",
+      "date": "2003-12-10",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "kommunalrecht-laender/kommunalrecht-laender-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 10.12.2003, Az. 8 C 18.03"
+        ],
+        [
+          "kommunalrecht-laender/kommunalrecht-laender-werkstatt.md",
+          43,
+          "BVerwG, Urteil vom 10.12.2003, 8 C 18.03"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8c6.14",
+      "date": "2015-04-15",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          193,
+          "BVerwG, Urteil vom 15. April 2015 – 8 C 6.14"
+        ],
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          357,
+          "BVerwG, Urteil vom 15.04.2015 – 8 C 6.14"
+        ],
+        [
+          "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md",
+          71,
+          "BVerwG, Urteil vom 15. April 2015, 8 C 6.14"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8c6.21",
+      "date": "2022-03-16",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 16.03.2022, 8 C 6.21"
+        ],
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          113,
+          "BVerwG, Urteil vom 16. März 2022 – 8 C 6.21"
+        ],
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          345,
+          "BVerwG, Urteil vom 16.03.2022 – 8 C 6.21"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8c9.16",
+      "date": "2017-03-15",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md",
+          5,
+          "BVerwG, Urteil vom 15.03.2017, 8 C 9.16"
+        ],
+        [
+          "berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md",
+          33,
+          "BVerwG, Urteil vom 15.03.2017 - Az. 8 C 9.16"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "8cn1.19",
+      "date": "2020-06-22",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          113,
+          "BVerwG, Urteil vom 22. Juni 2020 – 8 CN 1.19"
+        ],
+        [
+          "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+          349,
+          "BVerwG, Urteil vom 22.06.2020 – 8 CN 1.19"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "9a8.17",
+      "date": "2018-11-27",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
+          25,
+          "BVerwG, Urteil vom 27. November 2018, 9 A 8.17"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "9b6.14",
+      "date": "2014-06-30",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md",
+          39,
+          "BVerwG, Beschluss vom 30.06.2014, Az. 9 B 6.14"
+        ],
+        [
+          "strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md",
+          30,
+          "BVerwG, Beschluss vom 30. Juni 2014, 9 B 6.14"
+        ]
+      ]
+    },
+    {
+      "court": "BVerwG",
+      "docket": "9b8.19",
+      "date": "2019-07-25",
+      "status": "not_indexed",
+      "entries": {},
+      "contexts": [
+        [
+          "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md",
+          105,
+          "BVerwG, Beschluss vom 25.07.2019, Az. 9 B 8.19"
+        ]
+      ]
+    }
+  ],
+  "cutoff": "2026-10-31",
+  "after_cutoff": [
+    {
+      "court": "BGH",
+      "docket": "ixzr150/25",
+      "date": "2026-11-05",
+      "contexts": [
+        [
+          "insolvenzrecht/insolvenzrecht-werkstatt.md",
+          93,
+          "BGH, Urteil vom 05.11.2026, IX ZR 150/25"
+        ],
+        [
+          "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md",
+          92,
+          "BGH, Urteil vom 5. November 2026 – Az. IX ZR 150/25"
+        ]
+      ]
+    },
+    {
+      "court": "EuG",
+      "docket": "t-523/24",
+      "date": "2026-11-11",
+      "contexts": [
+        [
+          "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+          129,
+          "EuG, Urt. v. 11.11.2026 – Az. T-523/24"
+        ],
+        [
+          "produktrecht/produktrecht-werkstatt.md",
+          57,
+          "EuG, Urt. v. 11.11.2026 – Az. T-523/24"
+        ]
+      ]
+    },
+    {
+      "court": "EuGH",
+      "docket": "c-205/25",
+      "date": "2026-11-05",
+      "contexts": [
+        [
+          "datenschutzrecht/datenschutzrecht-werkstatt.md",
+          29,
+          "EuGH, Urteil vom 05.11.2026, C-205/25"
+        ]
+      ]
+    },
+    {
+      "court": "EuGH",
+      "docket": "c-512/23",
+      "date": "2026-11-12",
+      "contexts": [
+        [
+          "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+          56,
+          "EuGH, Urt. v. 12.11.2026 – Az. C-512/23"
+        ],
+        [
+          "europarecht-kompass/europarecht-kompass-werkstatt.md",
+          49,
+          "EuGH, Urt. v. 12.11.2026 – Az. C-512/23"
+        ],
+        [
+          "umweltrecht/umweltrecht-werkstatt.md",
+          85,
+          "EuGH, Urt. v. 12.11.2026 – Az. C-512/23"
+        ]
+      ]
+    }
+  ],
+  "workshops": [
+    {
+      "path": "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+      "plugin": "agb-recht-pruefer",
+      "sha256": "d26f129daffa7b114df1cf60dfc92c84d25c17238fbd512d6fb68e5f2ce6f45c",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "agb-werkstatt/agb-werkstatt-werkstatt.md",
+      "plugin": "agb-werkstatt",
+      "sha256": "b7664065e10ec0322198a4296a2a934db258ff211f8611106a18eb91a57eac4a",
+      "dated_citation_occurrences": 13
+    },
+    {
+      "path": "aktenaufbereiter-strafrecht/aktenaufbereiter-strafrecht-werkstatt.md",
+      "plugin": "aktenaufbereiter-strafrecht",
+      "sha256": "7952c1b340c6e71231718f681becd6c8b3f5299f665ebacf1dadf9b2dac6d48e",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md",
+      "plugin": "aktenauszug-gerichtsverfahren",
+      "sha256": "fd1131135fcf356974b5f769f397f1f7a0b92c875bfb5bc189dccb0265d7b54a",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md",
+      "plugin": "aktienrecht-hauptversammlung-ag-se",
+      "sha256": "e03361b2a64e13aa5c017e4d9bb97e7ac11e2bd1c84ccc5146143279c9bc68e7",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md",
+      "plugin": "anlagen-zu-schriftsaetzen",
+      "sha256": "c912c5943013734e68c7b44e165f08d600d6167a922f2aacd9c22f5bc15ae0c6",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md",
+      "plugin": "antidiskriminierung-agg",
+      "sha256": "96eb368a2085ba1dc5890397f60d96e40540c51f966121bd8d20de08bf3767ae",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+      "plugin": "anwaltschaft-generell",
+      "sha256": "3171256185f1da51fb7ae0ee2028b7b21c9100e011a2f19f74b7232b835a6a57",
+      "dated_citation_occurrences": 11
+    },
+    {
+      "path": "apothekenrecht/apothekenrecht-werkstatt.md",
+      "plugin": "apothekenrecht",
+      "sha256": "6d7589f54a357dee8c9b1263f6aa0a8e901aabb702801de772791b2eefe7f845",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
+      "plugin": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "sha256": "4422aaac3c2554f625a6dd3d328f9dc5989cd6ef6dd92eac23b9b70b07a3af90",
+      "dated_citation_occurrences": 38
+    },
+    {
+      "path": "arbeitsrecht/arbeitsrecht-werkstatt.md",
+      "plugin": "arbeitsrecht",
+      "sha256": "3c6fcbc4194d3c9150f2e72c90809edf2dcb91130a229f38753b181ce3ceeb78",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md",
+      "plugin": "arbeitszeugnisgenerator",
+      "sha256": "a4744fb30ab1aa756a5d2c31e328f468f659dc7d40242020deccb975ca72400c",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+      "plugin": "arbeitszeugnispruefer",
+      "sha256": "cc116a5479ada6fa1967362de8f9b5df226bc16ac475d45c2030f8a60bcfe3d2",
+      "dated_citation_occurrences": 50
+    },
+    {
+      "path": "aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-werkstatt.md",
+      "plugin": "aufsichtsrat-ag-se-praxis",
+      "sha256": "5d378c12c17cd014a7d21a4c3e7d47fbe88da054e1d72846fb690cddf741fdfe",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+      "plugin": "aussenwirtschaft-zoll-sanktionen",
+      "sha256": "e78b17e17744f2d000e67efb4a4e7e14bf07878b10b087c9474a52d327a3c569",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+      "plugin": "bank-rechtsabteilung",
+      "sha256": "9f4c836a42b409bcf07bdbfc100bea83896bab300d90c852849ff5fac282715b",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "barrierefreiheit-web-checker/barrierefreiheit-web-checker-werkstatt.md",
+      "plugin": "barrierefreiheit-web-checker",
+      "sha256": "0fd104bc3bcb8f88896a50d2cf7c076fdd463f7d7853e07c4febc0bb712afbcd",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+      "plugin": "bautraegervertrag-pruefer",
+      "sha256": "0f573154dcf2ead2ba6eaf46d79d148b4d951d9d2c96447559a30cd0c98bae09",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md",
+      "plugin": "bauunternehmer-einkauf",
+      "sha256": "c33333fcf47e6b719f38850fc53951738942f8c2ea205a0e8beaf08ff7e7a7e1",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "bauvergabe/bauvergabe-bieter/bauvergabe-bieter-werkstatt.md",
+      "plugin": "bauvergabe-bieter",
+      "sha256": "8a9fa4ddc88ce5dccae2ae16cdebc030af75c0c1aa21aeab85c9c7c20c5b9857",
+      "dated_citation_occurrences": 7
+    },
+    {
+      "path": "bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-werkstatt.md",
+      "plugin": "bauvergabe-nachtragsmanagement",
+      "sha256": "e9ebd79c3352e02b8010634a4d3a7824254f92c97ed8743f339c41465f417b64",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "bauvergabe/bauvergabe-rechtsschutz/bauvergabe-rechtsschutz-werkstatt.md",
+      "plugin": "bauvergabe-rechtsschutz",
+      "sha256": "a73a44d19b8d59c7b7fb1676d98771a92c07d2f15347bdfad2f45ffe3ea24593",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-werkstatt.md",
+      "plugin": "bauvergabe-unterlagen",
+      "sha256": "c7771e014ef5e7ae9a576bd2857b50b4a8cbbb2ff695f952082ac57818834b71",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "bauvergabe/bauvergabe-verfahren/bauvergabe-verfahren-werkstatt.md",
+      "plugin": "bauvergabe-verfahren",
+      "sha256": "0d70b6a87c9ea5debd86fd00692f3b5216796442d4e6ec61eb2c60d5bc4b1116",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-werkstatt.md",
+      "plugin": "bauwirtschaft-anfaenger",
+      "sha256": "d50f1dde8c75907db9019c8a44420957026bd2d46f4bedc814ba4fc15c61536e",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/bauwirtschaft-fortgeschrittene-werkstatt.md",
+      "plugin": "bauwirtschaft-fortgeschrittene",
+      "sha256": "3d82d91508f06b681c8364d3830a90a0e5b73b40b903eb771393e23387d10610",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-1-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "0587bc3fb0ab3842dff4e31a7b069afdc64032578985e8b27c5b0a6f1914a2a5",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-2-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "0b2856e5a79ef0929694023832b2bd0639583455407b197bf8292154867161f1",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-3-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "393a912b6163dd1a5f64f36b146e1a0bef1ef68baf22c87ad503784516d7b60c",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-4-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "c61e83fcd2009d74d3972b8675d9fe4309cd31dd17ed1c1b08cd3444defc06b8",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "934f8a22a391311e9ccaa385c96c3fcb3705404058a18fe83590cddfc2c91882",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-6-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "e20b835c185ce8e7ef4f82d0986c5fdb409b8727c43a202f8c45c5d95cfdb025",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-7-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "d6772fb9797eb948c0dda7ab1dce5c3f930f72458e9fd404c9cb48ab78040c55",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "cb63590d530a9b937821fb14055c9b8072c962c85c24774be0c5095fe1293e10",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-9-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "9b65e78d5e25ce58682cab3a96a6ec46e6dc16c5f49d0d8b8063ce32b7e0883c",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-werkstatt.md",
+      "plugin": "bauwirtschaft",
+      "sha256": "3c4fee0962ef0e69cc5525852f2106a5055faf5cac48c08eccf56413e7c07345",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
+      "plugin": "bav-strategie-konzern",
+      "sha256": "84fab582dc73575769b095046d8e31d47acce47a5ba8eb182b633742366c2fe6",
+      "dated_citation_occurrences": 14
+    },
+    {
+      "path": "bea-versand/bea-versand-werkstatt.md",
+      "plugin": "bea-versand",
+      "sha256": "89694506fd31fde7649103ad65c000c2d845eb6a677409b2d857112df811e813",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "beamtenrecht/beamtenrecht-werkstatt.md",
+      "plugin": "beamtenrecht",
+      "sha256": "2959220161ef09098ae7d2a0601a7237eb8e966f66edbd6ddd49fbd4fd63cafa",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md",
+      "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+      "sha256": "ed22fc569bd0332c82cd60eb75c4236a789a6c12c3b6190f44c0471d5456ed65",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md",
+      "plugin": "berichtspflichten-erlediger",
+      "sha256": "0d7c01584861d5fe843de1c92a53bb9af7b272841681eff7f8fe4d65349c6f76",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+      "plugin": "berliner-asog-polizeirecht",
+      "sha256": "9136786c9a55d9d974f60d0e2cbce11f3e43abcc7b9519551ea4c3cfa5db9a3b",
+      "dated_citation_occurrences": 15
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+      "plugin": "berliner-gewerbeaufsicht-betrieb",
+      "sha256": "fe9d7f654aae6318ac5ba24d8532687364275fc37d3628bc41ece44c8cf817b9",
+      "dated_citation_occurrences": 17
+    },
+    {
+      "path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+      "plugin": "berliner-hochschulrecht-professoren",
+      "sha256": "8efbbda79b0bb1bf6b0dee557997460e41a146f9c125d68f210e0f0dfb4af99d",
+      "dated_citation_occurrences": 14
+    },
+    {
+      "path": "berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-werkstatt.md",
+      "plugin": "berliner-schulrecht-eltern-schueler",
+      "sha256": "dc1cac4b72e1689563ff8c481aa85c419d561a2ea16bba4be9d574ec6417787a",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+      "plugin": "berliner-versammlungsrecht",
+      "sha256": "925ce3fe1f6d34fe6158dfee8a7651f33fbf8392e9e22de47f26ccef9969105e",
+      "dated_citation_occurrences": 19
+    },
+    {
+      "path": "berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-werkstatt.md",
+      "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+      "sha256": "b1cdcb971ced8e948379dd13da5d9781b13f0efd13f98ac51281a12c0d103dc3",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md",
+      "plugin": "berufsrecht-anwaelte",
+      "sha256": "0a0ddf816287eb539b75ee60bf3f2ef383e6e6ca397da9f9fb421b537191356c",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-werkstatt.md",
+      "plugin": "berufsrecht-ki-vertragspruefung",
+      "sha256": "cd1168ab9533f30faeb66902b38edffbf48f282ef87ed0c0aa20f89ac9f17187",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "berufsrecht-notare/berufsrecht-notare-werkstatt.md",
+      "plugin": "berufsrecht-notare",
+      "sha256": "f7b62798075244677e3c117fccd094cdd707f5f1d20693851d07044203d8a720",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-werkstatt.md",
+      "plugin": "berufsrecht-patentanwaelte",
+      "sha256": "3291fff6100c90bb7d730955be77fe9e684d758afb7552acf0a7dc6cd5f60dc2",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md",
+      "plugin": "berufsrecht-steuerberater",
+      "sha256": "6b8b19648fe6d383525fdb761b1fe629c37ddaa5651ab75395f3fbb07fd88fb3",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md",
+      "plugin": "berufsrecht-wirtschaftspruefer",
+      "sha256": "96c5a12e4aea1fb6b4ac4a6df1ef36002a1e5243808af7d7537e8d9f66059d16",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "betaeubungsmittelrecht/betaeubungsmittelrecht-werkstatt.md",
+      "plugin": "betaeubungsmittelrecht",
+      "sha256": "0b11cf56c1e05ff87f524f04e84e9a5c0cbe8b1405c21c641a91ad5c5fa311f5",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md",
+      "plugin": "betreuungsrecht",
+      "sha256": "7c98b2bca854e83a882964e8daaa3114309b5618e191a0044e94e2e0d9206905",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "betreuungsrecht/betreuungsrecht-werkstatt.md",
+      "plugin": "betreuungsrecht",
+      "sha256": "bc5509ec87e6f4364517f6cdf6d30be164e12ffb5de7e436f877b1e2bc3842cd",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-werkstatt.md",
+      "plugin": "betriebskosten-hausverwaltung",
+      "sha256": "152bdacbb296699ee070c4311395d8e45cbca26d90cd080f1bd9d08ff0048c42",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "bgb-at-pruefer/bgb-at-pruefer-werkstatt.md",
+      "plugin": "bgb-at-pruefer",
+      "sha256": "9cf5a158f9540b56eeb70e2f6177cf0e3e8f749708d5950fc346bb42f00915de",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "bgb-bt-pruefer/bgb-bt-pruefer-werkstatt.md",
+      "plugin": "bgb-bt-pruefer",
+      "sha256": "e5cd270be67ba7268fa355b9ad622ebefd1c21fcc068341a0278fdf19acde089",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md",
+      "plugin": "buerokratieversteher-entbuerokratisierer",
+      "sha256": "6c96224d6a7dc31d3741e958354408875613a70dddda8c28182d2534faaaeb74",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-werkstatt.md",
+      "plugin": "bundesnetzagentur-verfahren",
+      "sha256": "48c3b8a90b5f8412b58cb041abd38f476541013b94453d6867d846d310ab90cf",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+      "plugin": "bundeswehrrecht-wehrrecht",
+      "sha256": "3430ea47fda67bb300e018f9eb75b2f7f513e9aec9ace679b367c9a77b921fda",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md",
+      "plugin": "commercial-courts-deutschland",
+      "sha256": "b5d08435c8dc75ced312b414fb40b1ccf7f1a37e96355c6e37c30e0f795a6b9b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "common-law-kompass/common-law-kompass-werkstatt.md",
+      "plugin": "common-law-kompass",
+      "sha256": "8b1361a3046978e531e9c27ae2a06b90f7e8e49ecc1261af028957b4bce0b9fc",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+      "plugin": "compliance-abteilung-grosskonzern",
+      "sha256": "dbc0b98fd48c1c5d01295931e85115ac53afdfb4c3633409076ec2916ea6ef2e",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+      "plugin": "corporate-contract-law",
+      "sha256": "1b2724c2ca22d32c86dc5dd765f4208ec584ad6ed921bb0e205b39e60f6ba322",
+      "dated_citation_occurrences": 7
+    },
+    {
+      "path": "corporate-kanzlei/corporate-kanzlei-werkstatt.md",
+      "plugin": "corporate-kanzlei",
+      "sha256": "fb8c413a9465ad57e6fc94a0a4ed9d7bb7075294ec55e2497caf8fbfaf8aa8e9",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "datenbankrecht/datenbankrecht-werkstatt.md",
+      "plugin": "datenbankrecht",
+      "sha256": "095eb8211ac676562d461a63b742c8c3e0a6bfb73a1833203b60176024ef4347",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-werkstatt.md",
+      "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+      "sha256": "0ca6d26f1a0c84e8009f5c455f246d553cb9adccd13976ad274631966e74c162",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "datenschutzrecht/datenschutzrecht-werkstatt.md",
+      "plugin": "datenschutzrecht",
+      "sha256": "fb5f4eb624eb2ce709ae07b3a2e1b339afdca513d02d16f827e59588e260f573",
+      "dated_citation_occurrences": 11
+    },
+    {
+      "path": "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md",
+      "plugin": "denkmalschutzrecht",
+      "sha256": "273a81a5cf91f6f106e714b89582f3b75d7eddbbd3c5323a7ebf7a20f82faee1",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md",
+      "plugin": "designrecht-geschmacksmusterrecht",
+      "sha256": "cdc041af3605d71d1e83cd425a5f667bd114757610313ea479f3aafa5827fc80",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md",
+      "plugin": "deutsche-rechtsgeschichte",
+      "sha256": "2e6d537c4cadda5b2feffc48d0bbad5cb39a599d6b5fde9c3c1af3fcfafc15f9",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "dfg-foerderantrag/dfg-foerderantrag-werkstatt.md",
+      "plugin": "dfg-foerderantrag",
+      "sha256": "a31fdbbc884a7e1ae1f11c94f7b306664195289fd6f76b6baa91067ce927d2a5",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "diesel-schadensersatz/diesel-schadensersatz-werkstatt.md",
+      "plugin": "diesel-schadensersatz",
+      "sha256": "7bee7fc6d6cd6d096d188c2d7a18c276a06b5ebae52656cdbd08a6e7f4aa72ce",
+      "dated_citation_occurrences": 12
+    },
+    {
+      "path": "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md",
+      "plugin": "dsa-dma-digitalregulierung",
+      "sha256": "b1b3a42bebec348c22c20716efcc60c9a7fd820ef863c0a74981f30ebdbf6db7",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "due-diligence/due-diligence-werkstatt.md",
+      "plugin": "due-diligence",
+      "sha256": "e38eb457dbd422f720e25c35cdb5c7e8269143b81acbb74474a476ce6be106c6",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "e-rechnung-werkstatt/e-rechnung-werkstatt-werkstatt.md",
+      "plugin": "e-rechnung-werkstatt",
+      "sha256": "a26d8f0aca0708348d624895d5138d058f0ffd483b94dcb91781a8d928d381a6",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "ecommerce-recht/ecommerce-recht-werkstatt.md",
+      "plugin": "ecommerce-recht",
+      "sha256": "803b0e797b5cc8dd7085d452c70dad9af166cc77f37d62a7e663d9257a905abe",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-werkstatt.md",
+      "plugin": "eigenbedarfskuendigungschecker",
+      "sha256": "62c0a4c8cb1b51f191f0458194ed4fe97b3ea0765c3f2f9d796e16b506deb985",
+      "dated_citation_occurrences": 15
+    },
+    {
+      "path": "einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md",
+      "plugin": "einfache-leichte-sprache-jura",
+      "sha256": "30d390f7dfc88f48e7d2209fdfbece421d01df7da9ccab8b78bdd357ed883bac",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md",
+      "plugin": "einigungsvertrag-vermoegensrecht",
+      "sha256": "fa99d29c594d8868c290bef04bb023b02a89a4572ee2ef343e2cc2ec6d93d81b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-werkstatt.md",
+      "plugin": "email-umformulierer-berufsrecht",
+      "sha256": "469700e4ab8d02cb3bcb90f676cd0d056326850e2cde8c3b5b801f7746c8abf2",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "energierecht/energierecht-werkstatt.md",
+      "plugin": "energierecht",
+      "sha256": "66250bc75bd9fde37e75f06e925b3fc6c0c6fb12fa032b0c022c099e94bc7662",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+      "plugin": "enteignung-artikel-14",
+      "sha256": "94444f3c10b4d4a2d030b2e49cdf798259338e5fbc27175288407162df6ba047",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md",
+      "plugin": "erbbaurecht-praxis",
+      "sha256": "f2c9fbc3361562444bd8700786a47038cf702125640b14b3db12a720e660581b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "eu-sanktionspruefer/eu-sanktionspruefer-werkstatt.md",
+      "plugin": "eu-sanktionspruefer",
+      "sha256": "b81d14829a12f6a78527e532fd79da274012adb77522d183edfa373bc4dd7e0c",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "europaeisches-prozessrecht/europaeisches-prozessrecht-werkstatt.md",
+      "plugin": "europaeisches-prozessrecht",
+      "sha256": "7423dadb1043ab123a34191fd2ba32e13322ec3a60c5210f898c848eba0706ff",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "europarecht-kompass/europarecht-kompass-werkstatt.md",
+      "plugin": "europarecht-kompass",
+      "sha256": "473d37e30e22ecea23ed2e9b6f2daeae5d1d8e3ecbda2c6210fd92b91bc56b8c",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+      "plugin": "fachanwalt-agrarrecht",
+      "sha256": "801456daa532be7f57376101b518ca374804f71a5d842fd18290b5f2555d5d11",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+      "plugin": "fachanwalt-arbeitsrecht",
+      "sha256": "d7da8ef78c96db89532c655787ad50e772aa582a5c6261e58cb219a91d6708f1",
+      "dated_citation_occurrences": 19
+    },
+    {
+      "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+      "plugin": "fachanwalt-bank-kapitalmarktrecht",
+      "sha256": "6ffc7b6db20b1203af09dca2a5c799e542c561eff75672d8d8617e1498433017",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
+      "plugin": "fachanwalt-bau-architektenrecht",
+      "sha256": "fad8349444b8bef3db31337b93ba05b12c63b1fbf43594f053d304a46e107531",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+      "plugin": "fachanwalt-erbrecht",
+      "sha256": "6ddbf023adc40131f0cd31b3fca99a778860f84cba51a1ac72b42e9a7b9ee7a4",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+      "plugin": "fachanwalt-familienrecht",
+      "sha256": "4dff69e428ee30427c472c2ce82a55c2d46d3ed9dc052702aeccc7a4637f9f0d",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+      "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+      "sha256": "410d2b0d38d3c0229f4a3da89d0c9d609e152eac8a479ef160befe2b3520dea1",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md",
+      "plugin": "fachanwalt-handels-gesellschaftsrecht",
+      "sha256": "f84521a994fef6c1140319d2fef0f48368d428e9b7d618ba3ab3356ecebeb204",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+      "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+      "sha256": "ac12ec43763f8f656d94b44796e9ea7cae38bf1044b8d2a4d7e73a418cb19777",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
+      "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+      "sha256": "abcfd1904d9f252f76e8e06c79c4397fb0d4b8f990d33824778e20b2996523e6",
+      "dated_citation_occurrences": 16
+    },
+    {
+      "path": "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-werkstatt.md",
+      "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+      "sha256": "529b3f340340b8a59c21a4bb42ea8a6f8d74cf3721de27b4413a05cc138baac1",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+      "plugin": "fachanwalt-it-recht",
+      "sha256": "9b375bbd46122cc309bc3e46c62349bd25567a295c5fd5b11e9a47910d17f90f",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+      "plugin": "fachanwalt-medizinrecht",
+      "sha256": "5bf0877b4a20911d5307844b24f90b0b099d7c95a48d4aa8dac1df123f078157",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+      "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+      "sha256": "039ec81409170b976b87837fff049a095864c734a147dacd6874a0754e4c2021",
+      "dated_citation_occurrences": 13
+    },
+    {
+      "path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+      "plugin": "fachanwalt-migrationsrecht",
+      "sha256": "804b2009102c771646376ee5de2ab31f4d2dd98abf63bb1d573c1365efe92528",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+      "plugin": "fachanwalt-sozialrecht",
+      "sha256": "ba677850e1f59351a82b811141d11bf935bd88e4a0a18d5967f4abd08d503e01",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "fachanwalt-sportrecht/fachanwalt-sportrecht-werkstatt.md",
+      "plugin": "fachanwalt-sportrecht",
+      "sha256": "bc29dd29a83acfea8d33432e9325188a175f69dc86e838a83708f066a06351b7",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+      "plugin": "fachanwalt-strafrecht",
+      "sha256": "8041551eda74632dc0e805534ecbaeca7f0a3cc746274099018092763c3491fa",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+      "plugin": "fachanwalt-transport-speditionsrecht",
+      "sha256": "27cd8828d2ecf51df0a72e1c3e54892c05dd3aef6e3c9ec85783fcbb23e77c6b",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md",
+      "plugin": "fachanwalt-urheber-medienrecht",
+      "sha256": "b6d3d66cff75efe7467272c885839ef5d7c2823bb0bf2968243be2e87617d19b",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+      "plugin": "fachanwalt-vergaberecht",
+      "sha256": "5f4ea11e98112ad016f828a429414609e485575e14184807e64ae5e45ff272ed",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md",
+      "plugin": "fachanwalt-verkehrsrecht",
+      "sha256": "643a749fcc53feaac5440731fa66a58a2558c993f1bff0d71f12c55b91bc3f40",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
+      "plugin": "fachanwalt-versicherungsrecht",
+      "sha256": "f148bda0cdbf510fc256a95514e967e0797113e1b74255c91fa9bf5d7cad4bc8",
+      "dated_citation_occurrences": 7
+    },
+    {
+      "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+      "plugin": "fachanwalt-verwaltungsrecht",
+      "sha256": "c582d5a7c3a40eb7f4c98ac3aecd38e8d3244f2a21cf5c2ae81ab74a1611d05d",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "factoring-recht/factoring-recht-werkstatt.md",
+      "plugin": "factoring-recht",
+      "sha256": "f0b4ab883511341a49acbee87d2481c6f75fa5321499147fe23d1c3a067db4af",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "fahrgastrechte/fahrgastrechte-werkstatt.md",
+      "plugin": "fahrgastrechte",
+      "sha256": "75111068dd0200ca24d5d58c8c031f0b3b24a91d13e9b441617a9e9a3e253ce5",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md",
+      "plugin": "fashion-law-moderecht",
+      "sha256": "9211f96555d0263ca947e4023fd4d46c33318ed965956c27e83348924e3cd36e",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-werkstatt.md",
+      "plugin": "festlandchina-wirtschaftsverkehr",
+      "sha256": "ff3fb51751fe415d1fcc270c49d72788e8c1fc29d2023df897f1fba7a5a844ab",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "fluggastrechte/fluggastrechte-werkstatt.md",
+      "plugin": "fluggastrechte",
+      "sha256": "3450a77393f9425cec0fbc8b2f8e111d24ee040b1103258a5bbbee93fcf0916a",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md",
+      "plugin": "forderungsmanagement-klagewerkstatt",
+      "sha256": "121c2d377ba33a64b9e43ae6be6a6cd9344fb488946453f66d15ccaac0efeba3",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md",
+      "plugin": "forschungszulage-antragstellung",
+      "sha256": "eb0c726a1371eced2ddc8b7f764c55f0eb212d86d607910eaebea91de01a8963",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "fortbestehensprognose/fortbestehensprognose-werkstatt.md",
+      "plugin": "fortbestehensprognose",
+      "sha256": "37be960b0aa7ffd5066d61233ffe1929ce98e29416c8e9fd4ef34fd884ce2117",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "franchiserecht-praxis/franchiserecht-praxis-werkstatt.md",
+      "plugin": "franchiserecht-praxis",
+      "sha256": "5908d457913cdd446cce49228a3dd7dd21e1c6aff67942eeed0715d71bba55c0",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md",
+      "plugin": "gebrauchsmusterrecht",
+      "sha256": "0f259eb76bdde78078b69ecb9a8494ddb46281f6f5dca293cd18a8cfba4eb84b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md",
+      "plugin": "geldwaeschebeauftragter",
+      "sha256": "10e7a704b7eec12939b2528e139fc54f4dd1d6cd934839def496d832045198f1",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md",
+      "plugin": "geldwaeschepraevention-aml-kyc",
+      "sha256": "2a8a7a7e40e7fe472d239b2ced4ab79d6f96bef3a286f0d00d5d0540be58d5ff",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md",
+      "plugin": "relationstechnik-zivilrecht",
+      "sha256": "007d2e746df3a3618c9ce5a947ccbecd2616dba107d9b6ca5ad0e227f88e174a",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-werkstatt.md",
+      "plugin": "richter-amtsgericht-handelsregister",
+      "sha256": "8d0198f8eabb11926ffe306c9fa145854e8bfbdcaecf1f933fa5061030c33e9a",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+      "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+      "sha256": "8bd02ec2d0eb865a0c2aa80bf94c2506ae8c4f899b91c94c58d23f155760e895",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-werkstatt.md",
+      "plugin": "richter-amtsgericht-straf",
+      "sha256": "75541bd72b5e97c69df64cd01c27871db2af4997a1e0dd4be7fa008d506538f1",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-werkstatt.md",
+      "plugin": "richter-amtsgericht-zivil",
+      "sha256": "868a5237e4fd10eae69764b3fb2327d2436f7b045f5571ab4dd3215dcb3038c7",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-werkstatt.md",
+      "plugin": "richter-arbeitsgericht",
+      "sha256": "7710ea4e7f5bb90886f1ae05539eac0f4af0cfcea354d0fae3e11278eeaaee5e",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-werkstatt.md",
+      "plugin": "richter-bverfg-verfassungsbeschwerden",
+      "sha256": "dbe997ebbff3891fb242deb0cde07871b26c22b35b318cca3010750a39e099c4",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "gerichtsplugins/richter-familiengericht/richter-familiengericht-werkstatt.md",
+      "plugin": "richter-familiengericht",
+      "sha256": "a39f3c795a1d03f6a3b7c2b0590b583fb1cec705b34da60ac195059d1cb37de9",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md",
+      "plugin": "richter-finanzgericht",
+      "sha256": "c41c671cde8563b300c4c63ba839ff21161037fe1c2d3cf2f67941deb864da4a",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-werkstatt.md",
+      "plugin": "richter-landgericht-strafkammer",
+      "sha256": "0a60598243a0c254b1362b34912e17173690e90ee5c3620b3dad133680ccb1ba",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-werkstatt.md",
+      "plugin": "richter-landgericht-zivilkammer",
+      "sha256": "5f0e7dc7944e2081850d01d88b53c66131b2dd2058a8c53ecdd1a973190b079a",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md",
+      "plugin": "richter-sozialgericht",
+      "sha256": "26c1503b6869bac702e074e75c1f65b134ca4957a1c5b8b624536a4267c94558",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+      "plugin": "richter-verwaltungsgericht",
+      "sha256": "9b3ebe9750f45b6e0bfb6a1cf04d0b6323a77ffc7b5fc62859923cb264c7b7e4",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md",
+      "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+      "sha256": "bda04c65881b0c428b570e14dcbadf77b953f823d59cf2285132433f79a8e838",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md",
+      "plugin": "staatsanwaltschaft-praxis-einstieg",
+      "sha256": "b26908f89f7837a5642cb5cc0c4660b136121245775fab9895c5d7d8eaec57b4",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+      "plugin": "gesellschafterstreit",
+      "sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
+      "dated_citation_occurrences": 18
+    },
+    {
+      "path": "gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md",
+      "plugin": "gesellschaftervereinbarung",
+      "sha256": "630cdc71e299a718449db991d5d6633e03a1c5a076b66e1993409ec72e4afe03",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "gesellschaftsgruender/gesellschaftsgruender-werkstatt.md",
+      "plugin": "gesellschaftsgruender",
+      "sha256": "dfb9041bebf7e53435d838dc1ea0be4dce690933f32553783f324c9c2be6c1ce",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-werkstatt.md",
+      "plugin": "gesellschaftsrecht-legal-english",
+      "sha256": "dabd877fe28f2da9636d3f106173713583270f42971ff0ca2fd54467be1abbc7",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+      "plugin": "gesellschaftsrecht",
+      "sha256": "794e29257438ed997df4d2ba5f9129f67f93774067660298826cff62316921e2",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md",
+      "plugin": "gesellschaftsrechtliche-treuepflicht",
+      "sha256": "150b999791103a609a25d9844884ce90308602ca30783e29acecfe801dfb51a9",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-werkstatt.md",
+      "plugin": "gewerblicher-rechtsschutz",
+      "sha256": "0d9f1b5054899a72078e701ccd71532e5b1f8679edff2ad763d657f1442cced7",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md",
+      "plugin": "gmbh-gesellschafterversammlung",
+      "sha256": "3146a822931169850d2a9a1dce4106667496871ae216439cf98bb90c2fdf6038",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md",
+      "plugin": "goae-gebuehrenordnung-aerzte",
+      "sha256": "3bc87f3600cd0f701fac4147d2a8595546e4fe915f986967ccc1bdc192fb63bd",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-werkstatt.md",
+      "plugin": "grosskanzlei-corporate-ma",
+      "sha256": "a6f3ec1fea22dd5bb245a68a16f30fcccc009ae78500da42cbbf41c170a75efa",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+      "plugin": "grundbuchamt-assistent",
+      "sha256": "3ac19a0478ec45b9ee51a78af3e49678bf4baa3e9a46a20357153543750116e6",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "grundbuchamt-praxis/grundbuchamt-praxis-werkstatt.md",
+      "plugin": "grundbuchamt-praxis",
+      "sha256": "f90dcc384cca78d0951c7826d067baa2a8b705597b95c0a480bffb9fe39d5e3f",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "grundsteuerrecht/grundsteuerrecht-werkstatt.md",
+      "plugin": "grundsteuerrecht",
+      "sha256": "10a6cf5bccf114303e594a4aa893de933b2bd8a55419515800b620e5d3b12a2b",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
+      "plugin": "gvb-reinigungsvergabe",
+      "sha256": "4488d35872df561f3ff4382d194f6779136698c73524b902dbf3deec8ec2ec31",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "handelsrecht-hgb/handelsrecht-hgb-werkstatt.md",
+      "plugin": "handelsrecht-hgb",
+      "sha256": "4c246b527d4e7b0b6af5e52549b220b25e90acf3d2bb80396df36449b41d832b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+      "plugin": "handelsregister-assistent",
+      "sha256": "133d3be43f904efc4e5cf29d2b012f1b443e36587c3bc5ec7c12878001133db6",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "handelsregister-praxis/handelsregister-praxis-werkstatt.md",
+      "plugin": "handelsregister-praxis",
+      "sha256": "32c5215931e6e36f37fa330784565568ce3712b129faad8ff537efe953f3b4ec",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+      "plugin": "handelsvertreterrecht",
+      "sha256": "b32b233b81b84a62de3a2da91d0b97865ee11413eeae0d8335150575d42d152c",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "hausarbeitenmacher/hausarbeitenmacher-werkstatt.md",
+      "plugin": "hausarbeitenmacher",
+      "sha256": "3eab63eeae00b0810caf6c3fe249c1e816b001f319e98203ec4933a35d997f97",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md",
+      "plugin": "haushaltsrecht-bho-bund-laender",
+      "sha256": "ddfab38037abe3e7c50d18e194b560b7a621345fef7300e149ddfd676171409b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md",
+      "plugin": "hinweisgeberschutz-compliance",
+      "sha256": "b8cee374af62507669fe0dd4ec7ee61d77d4dc3b6a96c21c1eade3611f3ea8dc",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md",
+      "plugin": "hoai-leistungsphasen-praxis",
+      "sha256": "b2f03e960e47f6c5199d2008ffedbfe106616d77579cedc71a87058e96649cdc",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md",
+      "plugin": "hochschulrecht-laender",
+      "sha256": "61b82a2e5a221a53a9c24133adca78fa1ff6a964bf2c53f5130987bc6590285b",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "immobilienrechtspraxis/immobilienrechtspraxis-werkstatt.md",
+      "plugin": "immobilienrechtspraxis",
+      "sha256": "d70e4a986ecbdf10d3a65f8a5047e927e92254e11b7135ed6951e8f078b78585",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "influencer-recht/influencer-recht-werkstatt.md",
+      "plugin": "influencer-recht",
+      "sha256": "1b72075ba3d05d96650654c4959e85aa888043ba65634884e1e5d0e9d008a1d8",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md",
+      "plugin": "informationsfreiheit-presseauskunft",
+      "sha256": "091fd3c07cbe409873f70008349e190f064826c2105558060acf2e2580a3ee73",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "insiderrecht-compliance/insiderrecht-compliance-werkstatt.md",
+      "plugin": "insiderrecht-compliance",
+      "sha256": "e7f5982e9d83a669a08e1f7409d91f650ed0f07885ff1f8381ea8e98f29fa93f",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "f8de941ee04191e48becf5aec97da7fc8ddd7cb4e530a07823da23f05bffaeb4",
+      "dated_citation_occurrences": 16
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/130-kongruente-deckung.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "4bc539e67f82ef8c7f552935232ddff83eb23f838ab937c092d7ef8a5cffa043",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/131-inkongruente-deckung.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "6b04459339f1ad349fec0e504f6d2680ae635f74e68aa43df5e0c470f31b2470",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/132-unmittelbare-benachteiligung.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "e5b68c197455ccc2b8d664491de5d959c577b1af8a8a259dfa22ac58366a3bd0",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/133-vorsatzanfechtung.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "7d5ae5671c4dcec882683edbff29b0f3f21a93430113c67558a995f135cdb67d",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/134-unentgeltliche-leistung.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "98561b710bacfece7cc0b7eaaed6c3bd33a51cffd79a2e69469995de2476513f",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/135-gesellschafterdarlehen.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "4a90f5e2e0518bbbc78949a22f7269168ae8d53dd30f54c0ca8f9cd461bb79a5",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/136-stille-gesellschaft.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "786c642b278069cb835a3029c20beb6e92a1c96b7fad4b71ef575552f0760701",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/137-wechsel-und-scheckzahlungen.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "f643a37c2fd1e7cc32a7597967ed1494e7fbbde4c1b479eabf252a2fe4e3d92d",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/138-nahestehende-personen.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "f4584e0ec9e69e65a5b397f29c7caee5dedb3df2be2cb42f3e804aea34dedada",
+      "dated_citation_occurrences": 16
+    },
+    {
+      "path": "insolvenzanfechtung/werkstattprompts/139-fristen-und-antragsauswahl.md",
+      "plugin": "insolvenzanfechtung",
+      "sha256": "4657a97adfac485694f645d6d58c8fe131724ad449a85a4b679cca0a39cb18b2",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md",
+      "plugin": "insolvenzforderungen-checker",
+      "sha256": "137d442f4ee8186fe19acaf0f7b384a5144c445dea20eb2fb9c862e60e09949d",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-werkstatt.md",
+      "plugin": "insolvenzforderungsanmeldungspruefung",
+      "sha256": "015d703ad3aa22dad3ab7ca8d50289c2fa5b512d0ed0b7f9e1d05f1348f936ac",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+      "plugin": "insolvenzplan-starug-planwerkstatt",
+      "sha256": "b088b3541afca949a7827e6116c23ec88d2ab93c023595685492327ade5b5b76",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+      "plugin": "insolvenzrecht",
+      "sha256": "e0ab69cda3224b5ca923e30fd771049a82cc8565b57c6d75c5e8696483abd86e",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+      "plugin": "insolvenzsachbearbeitung",
+      "sha256": "f40a3d07060a699d6e49f9813a9cd3c8d2c21bba16c10ae5935c638151305d98",
+      "dated_citation_occurrences": 22
+    },
+    {
+      "path": "insolvenzsachbearbeitung/prompts/verbraucherinsolvenz/verbraucherinsolvenz-werkstatt.md",
+      "plugin": "insolvenzsachbearbeitung",
+      "sha256": "11f8091b69c27ad1302e7641815b128a9f45486a78645b8bbef81d8d281b1a6e",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-werkstatt.md",
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "sha256": "719b63690fa95609ef8a8464f2b8990af3fe2da6e7ecf1660b83de0c652d09a1",
+      "dated_citation_occurrences": 16
+    },
+    {
+      "path": "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+      "plugin": "insolvenzverwaltung",
+      "sha256": "c15a3c3ba87fa7bb1f01617a48b0fb7102a51d8f1ae1a33646368a1b03062df7",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "internal-investigations-praxis/internal-investigations-praxis-werkstatt.md",
+      "plugin": "internal-investigations-praxis",
+      "sha256": "5c268f420c3b53a69e985edf2db80035f0934d75770b0e7dc38205ef1036a114",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md",
+      "plugin": "internationales-handelsrecht-lex-mercatoria",
+      "sha256": "46aaf76b9b0f0663f3d6c9dbd8eb4f76aa0421527c62ccd250e1d9af9f5f605c",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "jura-in-einfacher-sprache/jura-in-einfacher-sprache-werkstatt.md",
+      "plugin": "jura-in-einfacher-sprache",
+      "sha256": "413dee44fc9768704662057a41685ed634b201bee66116d7f40131a152d67226",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "jurastudium/jurastudium-werkstatt.md",
+      "plugin": "jurastudium",
+      "sha256": "89e3cbf1f0d5b7ee1ccaa3c52fe1f5fdc8c68e3254b4aaa18d2d6090a411f278",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "juristische-praesentationen/juristische-praesentationen-werkstatt.md",
+      "plugin": "juristische-praesentationen",
+      "sha256": "d238b4a61c7e79e24cd294e3696a694a244551866ffd8d11b87fef1bc2edea11",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "juristische-presseberichterstattung/juristische-presseberichterstattung-werkstatt.md",
+      "plugin": "juristische-presseberichterstattung",
+      "sha256": "af5ff912064a3e99f72db9ac70514a7275bcd19462fea28edb74ed80226db207",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-werkstatt.md",
+      "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+      "sha256": "aaef459da1d96b06fab7e160ffe1e81804be263ab739ec3d6d66b4a24b96503d",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md",
+      "plugin": "jveg-kostenpruefer",
+      "sha256": "c057852f2437b7ccd2cc9e9a6a96be08694ecdfef0f9e3c03af398a5c24446c6",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "kanzlei-allgemein/kanzlei-allgemein-werkstatt.md",
+      "plugin": "kanzlei-allgemein",
+      "sha256": "7e1766a0761a7b0dfa11e53edf4b57f78728095c5104c01ce302f29f86e9f23a",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "kanzlei-builder-hub/kanzlei-builder-hub-werkstatt.md",
+      "plugin": "kanzlei-builder-hub",
+      "sha256": "514b40be9e50145d1ecdd9cd0eb0f511399bb971a79a781f804f1eaeefa6eb04",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "kanzlei-management/kanzlei-management-werkstatt.md",
+      "plugin": "kanzlei-management",
+      "sha256": "817accd51c548a942cd44e2f03076b50c9aee14e7beb37ec51f0fa7ab79a260e",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-werkstatt.md",
+      "plugin": "kanzlei-mandant-lifecycle",
+      "sha256": "62691410fc1d73c8aa70b11067b58a0db24dc44b7802f6c7b722b00d286b9295",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "kanzlei-website-redaktion/kanzlei-website-redaktion-werkstatt.md",
+      "plugin": "kanzlei-website-redaktion",
+      "sha256": "2f20a65c78efadf182d2a35eabde76f516359600558d4157601a19129456aca5",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-werkstatt.md",
+      "plugin": "kartellrecht-marktabgrenzung-pruefung",
+      "sha256": "2dfa187cdafbf90e5e602a9014e762930ff1f60adcc95225670d6a3b4e8d69bc",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "ki-governance/ki-governance-werkstatt.md",
+      "plugin": "ki-governance",
+      "sha256": "6ee9a4608ba3d4af81edbf394f07471909fac9d22fa9950c1da8cebcea6fe401",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.md",
+      "plugin": "ki-halluzinationsreduzierer",
+      "sha256": "bffea96acf3f76088f6c32c4692be0ffc12bf5c504f3d417faf97bff697e2984",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "ki-native-kanzlei/ki-native-kanzlei-werkstatt.md",
+      "plugin": "ki-native-kanzlei",
+      "sha256": "59f56d3ee6e5dda6dfaa48858aa0135ebc04f67ab96cc24eec56c5eec1e41572",
+      "dated_citation_occurrences": 19
+    },
+    {
+      "path": "ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-werkstatt.md",
+      "plugin": "ki-richtlinie-kanzleien",
+      "sha256": "27ba13e46f619c4967c68da69fe069b8a2ad29ee8ee096036a814a52037b2e2e",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-werkstatt.md",
+      "plugin": "ki-verordnung-hochrisiko-pruefer",
+      "sha256": "9396144b79d4001a37ccd3b6906a9b8c490b88aa22e54b50667278011b791b87",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "ki-verordnung-konformitaet/ki-verordnung-konformitaet-werkstatt.md",
+      "plugin": "ki-verordnung-konformitaet",
+      "sha256": "fb17efbb2a14c248c77838a86c0bff052f6982d4d2bca73db723c9883517ef87",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-werkstatt.md",
+      "plugin": "ki-verordnung-register-meldungen",
+      "sha256": "bbe085f1ae8d73d20995fc0177ef31ca8f2df422fcecd45293231fd69ef4fb23",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md",
+      "plugin": "ki-verordnung-transparenzpruefer",
+      "sha256": "02513311fdfbf66e7dfa37ce3168676f52588870e851652b7a8c8271cfd96409",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md",
+      "plugin": "ki-verordnung-verbotene-praktiken",
+      "sha256": "398a78e8b2242456a1050f2a9cb5b0cf66f37369c9a28f2ec6d84955ce62c540",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-werkstatt.md",
+      "plugin": "ki-vo-ai-act-pruefer",
+      "sha256": "151812212e252c471018095691c99efbb773d52cbe82852ee22d031362bb9670",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+      "plugin": "kommunale-haftpflicht",
+      "sha256": "ae16d55c1f2836a02997cabb54c353f4ea6a2276e7eb9513b361cdbf58112a07",
+      "dated_citation_occurrences": 35
+    },
+    {
+      "path": "kommunalrecht-laender/kommunalrecht-laender-werkstatt.md",
+      "plugin": "kommunalrecht-laender",
+      "sha256": "8902dd985128d2641a9347611b10add52e68fcf38f30232895a0b4ce0c6a0fa9",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "krankenhaus-it-ki/krankenhaus-it-ki-werkstatt.md",
+      "plugin": "krankenhaus-it-ki",
+      "sha256": "2ac4ced94f56117e7acfecc9f43793e3e1349375349a42faf8d4047fe1abe0dc",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "krankenhausrecht/krankenhausrecht-werkstatt.md",
+      "plugin": "krankenhausrecht",
+      "sha256": "5cb21a487e3f97c5ab86ce23702ef125ea6b8fc879e82dbcf16190503d077e5b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-werkstatt.md",
+      "plugin": "krankenkassenrecht-krankenversicherung",
+      "sha256": "80a0dcd07de3612ab130e2ba9ab95bf0058bdabc6dc21d4d6dd1cd4daf1ce4e4",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
+      "plugin": "kriegsdienstverweigerung-wehrdienst",
+      "sha256": "b6b9af177a50ad62a2dd39fe04a77d2cc9eaa38400d64fa29e7d8561f666e62b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "krisenfrueherkennung-starug/krisenfrueherkennung-starug-werkstatt.md",
+      "plugin": "krisenfrueherkennung-starug",
+      "sha256": "e3770f7d3db05f6b9673ca433cfc67099711409744a0ac474affabecff46ee2a",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "leasingrecht-praxis/leasingrecht-praxis-werkstatt.md",
+      "plugin": "leasingrecht-praxis",
+      "sha256": "efdfa737910c2fa868359b9ec528358dce23404b1d72d07d2fd5667154de3e36",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "legistik-werkstatt/legistik-werkstatt-werkstatt.md",
+      "plugin": "legistik-werkstatt",
+      "sha256": "9b07c8f2a6634fa3a9f6b3af495be2df7260d854f4b43cfd588c2e72bb0f01f0",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
+      "plugin": "liquiditaetsplanung",
+      "sha256": "d58a44baf97f2e0e09959af2f253766aec0b3805b5aa009ae6d0dea5ba54c3fd",
+      "dated_citation_occurrences": 15
+    },
+    {
+      "path": "lizenzvertragsersteller/lizenzvertragsersteller-werkstatt.md",
+      "plugin": "lizenzvertragsersteller",
+      "sha256": "fef6a11902f9043b8b8dcd2deda822ab51596939ff315e40fdadbd67c06f9336",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "lobbyregister-bundestag/lobbyregister-bundestag-werkstatt.md",
+      "plugin": "lobbyregister-bundestag",
+      "sha256": "504e38a75133b6ec59327919f9d4957de67a05815eaa5818b7df8a440210b5ae",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md",
+      "plugin": "luftrecht-flughafenrecht",
+      "sha256": "91215d3fc81fd1988cc425f9ccdfc9a3e7667132ab0aff0f16aa1cfeb8605aff",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md",
+      "plugin": "mandantenanfragen-assistent",
+      "sha256": "a08fb9d6f03c13886f05cd383af56d0fdd7ecaa7c66cd31537557cbfcb188a8a",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "markenamt-assistent/markenamt-assistent-werkstatt.md",
+      "plugin": "markenamt-assistent",
+      "sha256": "2d70f782838250f3ac75d75bdd008465376dc86e0f37bc2e3e908b9d3441caba",
+      "dated_citation_occurrences": 30
+    },
+    {
+      "path": "markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md",
+      "plugin": "markenrecht-fashion-luxus",
+      "sha256": "dddff5dc624d797c18a88cc1bdf2c66a162c84c6e0dc9782fb0fb1f24ee275ec",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "meinungspruefer/meinungspruefer-werkstatt.md",
+      "plugin": "meinungspruefer",
+      "sha256": "6785edb9090a2c2c71510681843b515d2b0354e0fea1023f5df9b4f8e9a64fdc",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "memorandums-ersteller/memorandums-ersteller-werkstatt.md",
+      "plugin": "memorandums-ersteller",
+      "sha256": "dfae16c20c7ec306dd8d5a44e9113c03e6e7a821fd1e4106f7958b41b520dd7d",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md",
+      "plugin": "methodenlehre-buergerliches-recht",
+      "sha256": "1811e96046e9dc0c90d95655f26ca8c172144989c5fd4c14f2e0e2683a0d1556",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "mietchecker/mietchecker-werkstatt.md",
+      "plugin": "mietchecker",
+      "sha256": "40b76c696c420d169932d2cf1da2ad498eb5a9c8788a51815d3af7ae30269efe",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "mietrecht/mietrecht-werkstatt.md",
+      "plugin": "mietrecht",
+      "sha256": "2330e38f14fc0eb1e13e8817031158b13337d41f985f26a57b080b3c26b45883",
+      "dated_citation_occurrences": 7
+    },
+    {
+      "path": "mittelstand-corporate-ma/mittelstand-corporate-ma-werkstatt.md",
+      "plugin": "mittelstand-corporate-ma",
+      "sha256": "0bb971056c76b05722e55034537f6ba2685a0f7034e877c044564880611249ed",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-werkstatt.md",
+      "plugin": "nachbarschaftsstreit-pruefer",
+      "sha256": "ead9feeb438236cce252d7db621f7ec4441b57a2094820d76c5f7c4ffd296b0d",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "nda-abgleich/nda-abgleich-werkstatt.md",
+      "plugin": "nda-abgleich",
+      "sha256": "f71693332d3b83743bb70c4d1f29d34105ab2413f245fc07a05d6106d2f19c33",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-werkstatt.md",
+      "plugin": "nda-verschwiegenheit-generator-checker",
+      "sha256": "a430b739516f739b6a41046f778c5290283c875d072a49fe8b0384e5cad3b0fc",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-werkstatt.md",
+      "plugin": "nis2-cybersecurity-compliance",
+      "sha256": "9126a4817679b9a31bf4dc3511b2f8d8d9642466d7201ed964564bca133c7335",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+      "plugin": "normenkontrolle-bauleitplanung",
+      "sha256": "0fc2cea92f4752f382d518f6b45c21b8a7709096d96efb226b6a86da84a1975a",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "normenkontrollrat-nkr/normenkontrollrat-nkr-werkstatt.md",
+      "plugin": "normenkontrollrat-nkr",
+      "sha256": "44742a7953b886fc73dbbf5661ec0a43b717a1118e30429aee8634a3db00416d",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "notariat-alltag/notariat-alltag-werkstatt.md",
+      "plugin": "notariat-alltag",
+      "sha256": "7f35c2ba767291424d43a99a8a38d3ad5b5d168e53fd8e7e41b3c7c2f59a5354",
+      "dated_citation_occurrences": 9
+    },
+    {
+      "path": "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md",
+      "plugin": "oeffentliches-wirtschaftsrecht",
+      "sha256": "993674caf0677fc8799a1bb2113fc87416dddda2e1a13df6a5a6a0842371b101",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "ordnungswidrigkeitenrecht/ordnungswidrigkeitenrecht-werkstatt.md",
+      "plugin": "ordnungswidrigkeitenrecht",
+      "sha256": "860eb0eeadb8f5df97a0aa03469949aceb84415d6090ac0dd73ad3d49e2b44e7",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md",
+      "plugin": "parteienrecht-parteiorganisation",
+      "sha256": "faa404f178e51b2657b285a08ddd114481b5ced894e11cbf38611472070f144f",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "patentrecherche/patentrecherche-werkstatt.md",
+      "plugin": "patentrecherche",
+      "sha256": "a4860dd2ff386b6d710f98d25a10932575ac45e9af3d072efebc2167036525cf",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "patentrecht/patentrecht-werkstatt.md",
+      "plugin": "patentrecht",
+      "sha256": "05b29370b7f2973ce8fb2656a64ac2fa13b101167b7382a7293550b9c2005678",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+      "plugin": "pflegerecht-sgb-xi",
+      "sha256": "dc0e833bc73f991f2ed7d523faade1df87a6b8e34416858e006a72cde7f53aac",
+      "dated_citation_occurrences": 7
+    },
+    {
+      "path": "phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md",
+      "plugin": "phishing-vorfall-pruefer",
+      "sha256": "eaf6d4dea4c5b186f6a3dc38db68190ccf23f08738685d12c2390c7c25252d46",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "playbook-pruefer/playbook-pruefer-werkstatt.md",
+      "plugin": "playbook-pruefer",
+      "sha256": "4fcdaa7134443cf8cd73a04c8eec037b708293114b6742b0708ea0d848f5c497",
+      "dated_citation_occurrences": 24
+    },
+    {
+      "path": "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-werkstatt.md",
+      "plugin": "preussisches-allgemeines-landrecht-pralr",
+      "sha256": "fadd3b700531d543efe05c065317062c2c5242d8259d87540476ea27eae3467b",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "private-equity-praxis/private-equity-praxis-werkstatt.md",
+      "plugin": "private-equity-praxis",
+      "sha256": "590fb4bdace55965f8bde921386e616b620beff9043597f6f52b1c5df1a7ea4e",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "produktrecht/produktrecht-werkstatt.md",
+      "plugin": "produktrecht",
+      "sha256": "fac8ddae499432d198956266b46c9cda3ae5c267bbea952e12c87047c06f79ba",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "prozessrecht/prozessrecht-werkstatt.md",
+      "plugin": "prozessrecht",
+      "sha256": "c237d970f70a455a61b28bc97c1e98d27ddc09585aa68fa613f35d9d6cf23f1c",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md",
+      "plugin": "pruefungsrecht-hochschule",
+      "sha256": "e242ebe548e7769af5f310faf4197fda76af5204905972d433e4578595fb93b3",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md",
+      "plugin": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+      "sha256": "4c0907ff4975101ed33f2ac1243398ac9bf61f383a5381c48b5b5104fd3d053a",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "rechtsberatungsstelle/rechtsberatungsstelle-werkstatt.md",
+      "plugin": "rechtsberatungsstelle",
+      "sha256": "ab86fc797bf273a1c0d0db1741e841078783aa96862406894ed6462dd38dd903",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md",
+      "plugin": "rechtstheorie-rechtsphilosophie",
+      "sha256": "0f332add2929d0a6b73da932e5e673a6c36d19732789d49a088f5e4b80f406b6",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "regulatorisches-recht/regulatorisches-recht-werkstatt.md",
+      "plugin": "regulatorisches-recht",
+      "sha256": "39e4ab92c1b74141b71cb8157f952db37356a385dbb3d8c3fde4623fbfaa504e",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "rentenpruefer/rentenpruefer-werkstatt.md",
+      "plugin": "rentenpruefer",
+      "sha256": "af6b520625d5df867e76f480f4be078c841c760590f631f91cf3aff000f7635d",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "robotik-recht/robotik-recht-werkstatt.md",
+      "plugin": "robotik-recht",
+      "sha256": "3694768aac7c9a870e15f651281b9828704548aadf68b99db24979b8af21001c",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md",
+      "plugin": "roemisch-katholisches-kirchenrecht",
+      "sha256": "a6890ea0d7d503bd11cf94aeeea014d1f431244d58d4459b7f45b43b7822aa1d",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "roemisches-recht/roemisches-recht-werkstatt.md",
+      "plugin": "roemisches-recht",
+      "sha256": "ea4c39227cb8f96310c2371565ff5085b8e28a5b202c50696e4b2e5a0f51260b",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "schadensregulierung/schadensregulierung-werkstatt.md",
+      "plugin": "schadensregulierung",
+      "sha256": "6a0a5d97a70a091923e59e9cde85320b40286e7a087878800402b719cd2ae858",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-werkstatt.md",
+      "plugin": "schoeffen-handelsrichter-praxis",
+      "sha256": "8b926d67a40ac1b80ac116fba2dcb441c2432b8d2389110efa91e2f770ee4c14",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "plugin": "schriftform-und-textform-bgb",
+      "sha256": "f689f9ddfa4a37fb31da5a673ec084a7b57548e522288a9a5515b26f82912446",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md",
+      "plugin": "schriftsatz-versandwerkstatt",
+      "sha256": "9d652f46fbf7f49849a3d6f590e1b935cd79cf0d2792b9d51fe722ecb484b5e9",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "schulrecht-laender/schulrecht-laender-werkstatt.md",
+      "plugin": "schulrecht-laender",
+      "sha256": "525cf5455becfc82de294519f70c30a1476dd1fa9bb8e58c4355eb03954cae49",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-werkstatt.md",
+      "plugin": "seerecht-schifffahrtsrecht",
+      "sha256": "671a69c489d1268946efd6272730fd6dc4506d99cbf2473f4e3e67e1769f473e",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md",
+      "plugin": "sektorenvergabe-workflow",
+      "sha256": "51ffd7a1d8992f937a31fdebbcba7c220663d1be3d7350f46df4fcd32750e368",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-werkstatt.md",
+      "plugin": "selbstvertreter-amtsgericht",
+      "sha256": "1431b478a2f785b8dc20408e4249885efa4bcca7accb2958ca081511418d749c",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md",
+      "plugin": "selbstvertreter-sozialgericht",
+      "sha256": "e6d04a828916958b1765f8ebfe97e252b432f8be799add5d03fae4e33506ea66",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "softwarerecht-de-eu-us/softwarerecht-de-eu-us-werkstatt.md",
+      "plugin": "softwarerecht-de-eu-us",
+      "sha256": "5002b6e976a41df9555bf29ee521cef78eef5b7fc8e5fe9d43386bde7d19fd17",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "solo-selbststaendige-praxis/solo-selbststaendige-praxis-werkstatt.md",
+      "plugin": "solo-selbststaendige-praxis",
+      "sha256": "67c7362f99e99e4e0c623bf07edb7272b08c5fc9ae829b9536c8a4cb759292bb",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
+      "plugin": "sozialrecht-fuer-laien",
+      "sha256": "13ec73fa2117cf43633ca41f2dff983057cbcfc735a72685eb580a93ad725c47",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+      "plugin": "sozialversicherungspflicht-pruefer",
+      "sha256": "717ca34d0b16aba4e7611ff391394fdb45a632010bdbe1c0e7c63cb48e2f7df9",
+      "dated_citation_occurrences": 31
+    },
+    {
+      "path": "startup-gruender/startup-gruender-werkstatt.md",
+      "plugin": "startup-gruender",
+      "sha256": "c7df8e3b2e631611f00b53ab13e2bd7ca7c247eb6669d632f26e610da6a25f56",
+      "dated_citation_occurrences": 28
+    },
+    {
+      "path": "startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md",
+      "plugin": "startup-hr-personalabteilung-berlin",
+      "sha256": "3c4fbfbd9ce712e913511bf6e3c58a5ff9bdf12f8911ea717e2093b9236ccc8c",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "status-navigator-step-plan/status-navigator-step-plan-werkstatt.md",
+      "plugin": "status-navigator-step-plan",
+      "sha256": "5f568b3e64de4fb5f9064c3deaf03e8707bfd21935835a6f1ea337a4b6950722",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+      "plugin": "steuerrecht-anwalt-und-berater",
+      "sha256": "20893f8a02ba4af2416f66365e64e598a6fbd95ea8be81c4ba4e23326588f558",
+      "dated_citation_occurrences": 11
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/ustva/werkstatt.md",
+      "plugin": "steuerrecht-anwalt-und-berater",
+      "sha256": "92f60310502c600558830f5132b06af212c1ddb92a3d9e1020d47c1eeab2afb5",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "strafanzeige-vorbereiter/strafanzeige-vorbereiter-werkstatt.md",
+      "plugin": "strafanzeige-vorbereiter",
+      "sha256": "643a5624acc250fdf2c2b2690375af0cdd094a94da54402b6a7a26f907f570c6",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md",
+      "plugin": "strafbefehl-verteidiger",
+      "sha256": "cfef49946e942ce7e086ba8e4f5e2491b232bb9fd6b042ea8433abff60bf40e4",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "strafvollzug-jva/strafvollzug-jva-werkstatt.md",
+      "plugin": "strafvollzug-jva",
+      "sha256": "db3ae358081a116528b638d0d546fb2b4de307bf7c22c611fe20b017d1436bee",
+      "dated_citation_occurrences": 25
+    },
+    {
+      "path": "strafzumessung/strafzumessung-werkstatt.md",
+      "plugin": "strafzumessung",
+      "sha256": "3bf69cc275b75ff93f92b4999b86dc4d660a98a49f2f8f6935918f3b07651a2d",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md",
+      "plugin": "strassennutzung-genehmigungen",
+      "sha256": "a49b6efb53e4ab54f95a324d05e8d6c10d42b0c5eb781bbe5913dd992a9d4bf3",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md",
+      "plugin": "strassenrecht-infrastruktur",
+      "sha256": "7e5fa9102a3c035989c4fabba61ad8b1aba3e40c27ccfb55d04ef2e4f67bb2c3",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-werkstatt.md",
+      "plugin": "strassenverkehrsrecht-stvo",
+      "sha256": "53fa14768b022cf863e2870bd2ea14e7d3a54628394e9b4e53cc8ac4123407dc",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "subsumtions-pruefer/subsumtions-pruefer-werkstatt.md",
+      "plugin": "subsumtions-pruefer",
+      "sha256": "792823185350289c39f70142bbd915d9d4902376ef97295e7d371d6990ed4d5d",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "tabellenreview-3d/tabellenreview-3d-werkstatt.md",
+      "plugin": "tabellenreview-3d",
+      "sha256": "f17d49c086f5ad23da26e850cd405482b0a73abe7669ca9d19aa7353eaf3ccfc",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "telekommunikationsrecht/telekommunikationsrecht-werkstatt.md",
+      "plugin": "telekommunikationsrecht",
+      "sha256": "efec55d6f227d97480f4f044f92f00bb7323d494d421ba21ee5681789eb80fb7",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "tierschutzrecht/tierschutzrecht-werkstatt.md",
+      "plugin": "tierschutzrecht",
+      "sha256": "cd6d8ad945b60d32adcc827d0d754a41486eed2753346f37bef20865517fe6fe",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "transparenzregister-assistent/transparenzregister-assistent-werkstatt.md",
+      "plugin": "transparenzregister-assistent",
+      "sha256": "f19d1bb8da7bbeee998331cf1dab135ed84472efde5c16c4e027c0bdc7873d3f",
+      "dated_citation_occurrences": 7
+    },
+    {
+      "path": "umweltrecht/umweltrecht-werkstatt.md",
+      "plugin": "umweltrecht",
+      "sha256": "636c57f9b5be966a2309a36566dab9c547e3dec3a5416f7ac0b6c54957f551ca",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
+      "plugin": "umweltschutzverband-verbandsklage",
+      "sha256": "f7093c9449618095e2c15a7815eaf6d1bf7b680508acde8efa81c3323f21ef0b",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
+      "plugin": "un-kaufrecht-cisg",
+      "sha256": "84a9a9c5cfdb382b71cf4c066e9f8f4251373ffda8bbabf7397e93c77e5be308",
+      "dated_citation_occurrences": 10
+    },
+    {
+      "path": "untersuchungshaft/untersuchungshaft-werkstatt.md",
+      "plugin": "untersuchungshaft",
+      "sha256": "fe96e9c6d4ab26cdbe95cd30480ac15372df2c639669c2378614beb2d33afb24",
+      "dated_citation_occurrences": 24
+    },
+    {
+      "path": "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+      "plugin": "urheberrecht-de-eu",
+      "sha256": "5bc04812f3f707329ae40f1f073eec26b32772a2d70998e911bffd120e719e51",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-werkstatt.md",
+      "plugin": "urteilsbauer-relationsmacher",
+      "sha256": "5d9eb2fc9068a62f0580c891a49e10883cf61ac3d6585bdc2241ad7eb41d945d",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "us-bankruptcy-code/us-bankruptcy-code-werkstatt.md",
+      "plugin": "us-bankruptcy-code",
+      "sha256": "2f8355e88ad22795a116e440a96da1df44105158bbd24fe43c33de934672b913",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-werkstatt.md",
+      "plugin": "us-copyright-registrierung-verlag",
+      "sha256": "45739659d110000d64871bae11f68bab9ab573041fb9b902b371a622eb445de0",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "us-sanktionspruefer/us-sanktionspruefer-werkstatt.md",
+      "plugin": "us-sanktionspruefer",
+      "sha256": "ce6d1e55a79d5627ff5110237041f2d4817b3c19f04dada4ae7da6860e11def1",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "venture-capital-geber/venture-capital-geber-werkstatt.md",
+      "plugin": "venture-capital-geber",
+      "sha256": "8e2921393ff191f1d7178f5814174beeaecc1576f2d0c805f79a62cc725d6d6e",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "verarbeitungsverzeichnis/verarbeitungsverzeichnis-werkstatt.md",
+      "plugin": "verarbeitungsverzeichnis",
+      "sha256": "171b2ea5f3b8ef4b4c405f9c7651117f959e1513b52bb8a95326e00b6548f0c7",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "verbraucher-rechtsstaat-alltag/verbraucher-rechtsstaat-alltag-werkstatt.md",
+      "plugin": "verbraucher-rechtsstaat-alltag",
+      "sha256": "4f8fd0519f5bc2fe0493fed826532e9fb511ead79f49fd496e470064057b3206",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md",
+      "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+      "sha256": "63bfe505b1a210c911e8023b62df772cc7208271bec3c030bad9150917f7606c",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md",
+      "plugin": "verbraucherschutzrecht-pruefer",
+      "sha256": "b84873c8705f0f813ee8bf922e34106fe8b6a47b9704839351aeab54ec83f41a",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md",
+      "plugin": "verbraucherschutzverband-durchsetzung",
+      "sha256": "aaf16e17902694355d08c6f38f33ab72f60be5d28c0077f42b7f8fe32aa57636",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-werkstatt.md",
+      "plugin": "vereinsrecht-vereinsmanager",
+      "sha256": "ff8049f04fb36cdcc5883b64f117bfbba1d8b2e2161565d2144a20d6cfb18c82",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "verfassungsrecht/verfassungsrecht-werkstatt.md",
+      "plugin": "verfassungsrecht",
+      "sha256": "4aadd10edb17589e365117fd4e12438c5bd425ecfaff4a4a5e8df2a5af7071e2",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md",
+      "plugin": "bieter-unternehmen",
+      "sha256": "6a56279eb2e2d78b8d33a942628431124ace675c6dc788e598fc8374106038d6",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md",
+      "plugin": "konkurrenten-rechtsschutz",
+      "sha256": "5722e0a751331130920b9227bfb4e90dd838b24b8810d629b45dc1ed8fdd0979",
+      "dated_citation_occurrences": 23
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md",
+      "plugin": "vergabestelle-behoerden",
+      "sha256": "1336d1311482556aa66a67f2b291e4959c8aae3509f04bcc117ae85951436f2a",
+      "dated_citation_occurrences": 17
+    },
+    {
+      "path": "vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-werkstatt.md",
+      "plugin": "vergesellschaftung-artikel-15",
+      "sha256": "594dbd1e0144563c135e529023b38e1da214d9bc72ed6946de7e5b66338d6ceb",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md",
+      "plugin": "verhaeltnismaessigkeitspruefer",
+      "sha256": "d35e53b787283d80833453eb9b2d49ac3e6be5719c30ac648109ac6f72f3ba2b",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md",
+      "plugin": "verkehr-infrastrukturrecht",
+      "sha256": "4864a86eebb6e5262c5a11886c6f91fe326b5066f956c9e880af5c0937a0900d",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md",
+      "plugin": "verkehrsowi-verteidiger",
+      "sha256": "03e672a4cf815875e8bede3a97fe99c3406fff1a74f67625a645009d18c2bbf8",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md",
+      "plugin": "verlagsrecht-buchpreisbindung",
+      "sha256": "f94c348b9bbb317642c5840e7efb3bef6515f1741d75c87f0c3fb10ffa28b7ef",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "verlagsredaktion/verlagsredaktion-werkstatt.md",
+      "plugin": "verlagsredaktion",
+      "sha256": "49eef235b421bd76696f0d416340a598802b0a5e1776dd2832e86f49ca2c0e34",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "versammlungsrecht/versammlungsrecht-werkstatt.md",
+      "plugin": "versammlungsrecht",
+      "sha256": "d2f1ff5ee268abf24f7dd5fa7de6be528f0602bd60c0b13b00eb03efc0aba201",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "versicherungsrecht/versicherungsrecht-werkstatt.md",
+      "plugin": "versicherungsrecht",
+      "sha256": "01a7ff7b04a1e8709ca636e29b6d1e89ecedfbff046c7e3392adba5a0f6bf781",
+      "dated_citation_occurrences": 4
+    },
+    {
+      "path": "vertragsausfueller/vertragsausfueller-werkstatt.md",
+      "plugin": "vertragsausfueller",
+      "sha256": "b47a1c7485d0500ca56d0c235326a99992a93d7dfd6059e4cfc31acbed804482",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "vertragserstellung/vertragserstellung-werkstatt.md",
+      "plugin": "vertragserstellung",
+      "sha256": "027cc2427c9df2ab4fbfcdcd0b1b0cd72998beefe109701a9bf18a18dddf4c20",
+      "dated_citation_occurrences": 5
+    },
+    {
+      "path": "vertragsrecht/vertragsrecht-werkstatt.md",
+      "plugin": "vertragsrecht",
+      "sha256": "deab03f16204a6129f1beb000d46b77061eefbcb8f45efcd4b6330ccfe272f4d",
+      "dated_citation_occurrences": 3
+    },
+    {
+      "path": "wahlkampfrecht-praxis/wahlkampfrecht-praxis-werkstatt.md",
+      "plugin": "wahlkampfrecht-praxis",
+      "sha256": "2d6dad9590d9ed42a3e8b42a0015b3521f8f0c1403da04082e9410b84bbf101c",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-werkstatt.md",
+      "plugin": "wandeldarlehen-lebenszyklus",
+      "sha256": "4eecb2947535729443e496d681ce7ce7a685501114bd1d6f029cd3cb7aefbeeb",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "weg-hausverwaltung/weg-hausverwaltung-werkstatt.md",
+      "plugin": "weg-hausverwaltung",
+      "sha256": "a6b2882c555d5bb9c6ec9daf30f082ced8295bccbaccd4b7eada02179a9cad9d",
+      "dated_citation_occurrences": 12
+    },
+    {
+      "path": "weltraumrecht/weltraumrecht-werkstatt.md",
+      "plugin": "weltraumrecht",
+      "sha256": "419ea32075ea5719bd9e7b5f0ebe7918d90ac8cdc7349c4ae1fa43715ecc3d80",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md",
+      "plugin": "wirtschaftsanwalt",
+      "sha256": "d1609f015791b6fbd2286225f9c30b8b7842f9271aa4e71d8460b72b05be24c2",
+      "dated_citation_occurrences": 8
+    },
+    {
+      "path": "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md",
+      "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "sha256": "7a56299dc16e7c85dc17366d2a1c1983444e9a7f35cb6b8a2cc9537834e67215",
+      "dated_citation_occurrences": 2
+    },
+    {
+      "path": "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md",
+      "plugin": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+      "sha256": "8a4e2df9c878421baaf2c7eb0717ecec9aef90208dccc3e4852c3a5d22559bf3",
+      "dated_citation_occurrences": 26
+    },
+    {
+      "path": "zitierweise-deutsches-recht/zitierweise-deutsches-recht-werkstatt.md",
+      "plugin": "zitierweise-deutsches-recht",
+      "sha256": "ef04e9941e47a9c601c2bb441442e42d89af854827d87c720fe033b1b8c957a8",
+      "dated_citation_occurrences": 0
+    },
+    {
+      "path": "zugewinnausgleich/zugewinnausgleich-werkstatt.md",
+      "plugin": "zugewinnausgleich",
+      "sha256": "06e622084fe1a35680c0eefde15de38afb836bb594d472c0223313ba9ee89eef",
+      "dated_citation_occurrences": 6
+    },
+    {
+      "path": "zwangsverwaltung-zvg/zwangsverwaltung-zvg-werkstatt.md",
+      "plugin": "zwangsverwaltung-zvg",
+      "sha256": "a9bdee52c32a53c65844d7b1884d922404c20acfd25e77e221e8bc7c3e49021f",
+      "dated_citation_occurrences": 1
+    },
+    {
+      "path": "zwangsvollstreckung/zwangsvollstreckung-werkstatt.md",
+      "plugin": "zwangsvollstreckung",
+      "sha256": "8225a746cfd10782632fc0d09500e75557c85df9a969569b2db2d4181e35d860",
+      "dated_citation_occurrences": 1
+    }
+  ],
+  "federal_index_sha256": "80f6a2b85733a25a850a0b61aa01062b383574e4a09c24532337bacb3818d00e"
+}

@@ -176,7 +176,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben. 14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
+    "reason": "Gezielte Quellenvertiefung: Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben. 14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
       "Artikel 15 Absatz 3 und 4 DSGVO auf verständliche vollständige Datenkopie mit erforderlichem Kontext angewandt.",
       "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
@@ -187,9 +187,10 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Auskunft, Verarbeitung und konkretes Dokument werden unmittelbar verständlich; der vorhandene CRIF-Absatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24",
       "Gezielter amtlicher Quellenabgleich am 10.11.2026. Brillen Rottler und Dun & Bradstreet auf amtliche Volltexte umgestellt. Scoring nach dem Stichtag der BDSG-Neuregelung eingeordnet.",
-      "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
+      "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
+      "Anspruchsprüfung für einzelne Scorewerte nach I ZR 227/25 ergänzen. EuGH C-205/25 als Nachtrag nach dem Entscheidungsstichtag kennzeichnen."
     ],
-    "sha256": "947953d7467fdf67039068a68e088441a45dde6d9b65884085cc7f1316f30642",
+    "sha256": "fb5f4eb624eb2ce709ae07b3a2e1b339afdca513d02d16f827e59588e260f573",
     "reviewed_on": "2026-11-14"
   },
   "selection": {
@@ -525,5 +526,15 @@
       ],
       "status": "Prüffall und Kriterien redaktionell angelegt; kein Live-Modelllauf durchgeführt."
     }
+  },
+  "werkstatt_stichtagsnachpruefung_2026_10_31": {
+    "checked_on": "2026-11-16",
+    "decision_cutoff": "2026-10-31",
+    "scope": "Gezielte fachliche Nachprüfung der geänderten Passagen; frühere Rechts- und Workflowprüfungen bleiben als eigene Prüfstände dokumentiert.",
+    "report": "quality/source-audits/2026-10-31-werkstatt/README.md",
+    "finding": "Anspruchsprüfung für einzelne Scorewerte nach I ZR 227/25 ergänzen. EuGH C-205/25 als Nachtrag nach dem Entscheidungsstichtag kennzeichnen.",
+    "path": "datenschutzrecht/datenschutzrecht-werkstatt.md",
+    "before_sha256": "947953d7467fdf67039068a68e088441a45dde6d9b65884085cc7f1316f30642",
+    "after_sha256": "fb5f4eb624eb2ce709ae07b3a2e1b339afdca513d02d16f827e59588e260f573"
   }
 }
