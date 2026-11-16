@@ -30,7 +30,8 @@ jobs:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-          ref: ${{ github.event.inputs.tag || github.ref }}
+          # Bei sofortigem Squash-Merge kann der temporäre PR-Merge-Ref verschwinden.
+          ref: ${{ github.event.inputs.tag || github.event.pull_request.head.sha || github.ref }}
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'

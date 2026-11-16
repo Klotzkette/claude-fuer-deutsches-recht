@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 import re
+import textwrap
 
 from themen_profile import PROFILE_BY_KEY
 
@@ -358,7 +359,8 @@ CONTINUATION = (
 )
 
 
-def block(text: str, slug: str, *, kind: str = "workshop", profiles: dict | None = None) -> str:
+def block(text: str, slug: str, *, kind: str = "workshop", profiles: dict | None = None,
+          wrap_appendix: bool = False) -> str:
     profiles = load_profiles() if profiles is None else profiles
     if slug not in profiles:
         return text
@@ -399,7 +401,13 @@ def block(text: str, slug: str, *, kind: str = "workshop", profiles: dict | None
     else:
         body = "\n\n".join((SERVICE, route_text(slug, entry["theme"], plain_labels=entry.get("plain_labels", False)), DEPTH, RUNTIME, QUALITY, CONTINUATION))
     # Ein einziges hinzugefügtes LF ist reversibel; Fachtext einschließlich Endzeilen bleibt bytegleich.
-    result = original + "\n" + BEGIN + "\n" + heading + "\n\n" + body + "\n" + END + "\n"
+    appendix = "\n" + BEGIN + "\n" + heading + "\n\n" + body + "\n" + END + "\n"
+    if wrap_appendix:
+        appendix = "\n".join(
+            textwrap.fill(line, width=120, break_long_words=False, break_on_hyphens=False)
+            if len(line) > 1000 else line for line in appendix.splitlines()
+        ) + "\n"
+    result = original + appendix
     if kind == "skill" and entry.get("skill_max_bytes") is not None:
         limit = entry["skill_max_bytes"]
         if type(limit) is not int or limit <= 0:
