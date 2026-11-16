@@ -52,7 +52,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "Dokumentbearbeitung vor Dateiinventur gestellt. 7 ABR 23/23 früh ausschließlich für elektronischen Versand, nicht jeden internen Entwurf; Randnummern 33 bis 36 zusätzlich amtlich nachgelesen."
     ],
-    "sha256": "7a56299dc16e7c85dc17366d2a1c1983444e9a7f35cb6b8a2cc9537834e67215",
+    "sha256": "82300d8c6d3d06118165974f68f2d91ab294759fab05ae465abea62b860dd4fa",
     "method": "desk_review",
     "reviewed_on": "2026-10-16"
   },
@@ -195,8 +195,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md"
     ],

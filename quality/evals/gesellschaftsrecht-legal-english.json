@@ -42,7 +42,7 @@
       "Einstiegsredaktion 16.10.2026: Übersetzung, Investoren-Erklärung und Sprachübung als Ergebnisse präzisiert; bewusst kein obligatorischer Urteilsvorspann für Sprachaufgaben.",
       "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "dabd877fe28f2da9636d3f106173713583270f42971ff0ca2fd54467be1abbc7"
+    "sha256": "1d0fb9e34a019387b545723bb3d17ca2ae4e85a1c42001ea1e3769ca27cbde83"
   },
   "selection": {
     "positive": [
@@ -170,8 +170,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-werkstatt.md"
     ],

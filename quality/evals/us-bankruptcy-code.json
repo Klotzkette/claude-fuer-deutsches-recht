@@ -53,7 +53,7 @@
       "Nachgereichte Order verändert nur die gedeckte Handlung; Besitzbeginn und zusätzliche Zahlungsbedingungen steuern getrennte Fulton- und Stay-Prüfung.",
       "Forderungsdifferenz, Teilzahlung, Bar-Date-Order und Order-Neufassung verändern Anmeldung beziehungsweise begrenzte Einwendung; Gegenargument wirtschaftlicher Verluste berücksichtigt."
     ],
-    "sha256": "2f8355e88ad22795a116e440a96da1df44105158bbd24fe43c33de934672b913"
+    "sha256": "e27b44b5786e97953abe9ab487a74d82e953cb9ffe312c7f5a72b5c236e766b9"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -140,8 +140,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "us-bankruptcy-code/us-bankruptcy-code-werkstatt.md"
     ],

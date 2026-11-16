@@ -149,7 +149,7 @@
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "sha256": "cc116a5479ada6fa1967362de8f9b5df226bc16ac475d45c2030f8a60bcfe3d2",
+    "sha256": "3ba4f741decea7ab657dafe6cf63ec34e6635025d73712447af0212b197a515d",
     "verdict": "revised",
     "reason": "Redaktionelle Anschlussprüfung der Zusammenführung: begrenzter Analyse-/Fassungsvergleichsauftrag ausdrücklich von vollständiger Arbeitnehmerberatung getrennt; weitere Kontext- und Beleggrenzen aufgenommen. Der bisherige Hauptteil einschließlich eingebettetem Arbeitsbuch bleibt bytegleich. Keine erneute Gesamtprüfung und kein Live-Modelltest.",
     "changes": [
@@ -1115,8 +1115,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-15",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
       "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md"

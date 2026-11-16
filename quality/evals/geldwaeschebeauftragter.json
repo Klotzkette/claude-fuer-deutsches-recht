@@ -220,7 +220,7 @@
       "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto.",
       "Einstiegsredaktion 16.10.2026: Konkrete Risiko-, Nachforderungs- und Meldeprodukte vorangestellt; verhältnismäßige Unterlagenanforderung mit Rodl-Anker verbunden und erneute Pflichtaufnahme vermieden."
     ],
-    "sha256": "10e7a704b7eec12939b2528e139fc54f4dd1d6cd934839def496d832045198f1"
+    "sha256": "b57ce15e8016f7ac3b5caf02861405a80e179c6553557c62413c238b98f2d0c8"
   },
   "focus_review": {
     "method": "desk_review",
@@ -521,8 +521,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md",
       "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md",

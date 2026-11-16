@@ -81,7 +81,7 @@
       "Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen.",
       "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25"
     ],
-    "sha256": "b088b3541afca949a7827e6116c23ec88d2ab93c023595685492327ade5b5b76"
+    "sha256": "513bcba47567e7de7df29384ddfb605ce5546db141a79a9243107b7a41506e0e"
   },
   "selection": {
     "positive": [
@@ -260,8 +260,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md"
     ],

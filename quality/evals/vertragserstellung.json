@@ -107,7 +107,7 @@
       "Amtlichen Normtext, indexierte Leitsaetze und gesperrte Volltexte unterschieden; BMF-Ausgabe als datierte Zusatzquelle vermerkt.",
       "Autor- und Installationsvorspann durch B2B-Geschäftszweck ersetzt. Werkstatt: tatsächliches Aushandeln nach VII ZR 248/13; Mini: Abnahme und Abrechnungsverhältnis nach VII ZR 301/13. Quellenstatus des Bestands beibehalten."
     ],
-    "sha256": "027cc2427c9df2ab4fbfcdcd0b1b0cd72998beefe109701a9bf18a18dddf4c20"
+    "sha256": "c145c131ed3b6c9523e862db760ffdf3f133d7d49e05d45273dd6dfe2fa5cc20"
   },
   "focus_review": {
     "reviewed_on": "2026-11-16",
@@ -616,8 +616,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
       "vertragserstellung/vertragserstellung-hauptproblem.md",

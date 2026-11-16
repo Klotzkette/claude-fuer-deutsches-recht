@@ -54,7 +54,7 @@
       "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung.",
       "2026-10-16, redaktioneller Einstiegsreview: Robotervorfall und Arbeitsprodukt statt Startmenü eröffnet; vorhandenen frühen Sicherheitsanker im Mini erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "3694768aac7c9a870e15f651281b9828704548aadf68b99db24979b8af21001c",
+    "sha256": "55139cc12db0c9583a0fae7e3125ef744516daa12a2691a621649c778121b8e1",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -154,8 +154,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "robotik-recht/robotik-recht-werkstatt.md"
     ],

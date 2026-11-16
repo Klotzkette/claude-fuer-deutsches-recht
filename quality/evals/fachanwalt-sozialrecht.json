@@ -323,7 +323,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R"
     ],
-    "sha256": "ba677850e1f59351a82b811141d11bf935bd88e4a0a18d5967f4abd08d503e01",
+    "sha256": "505741ac74758b446ca323848096aa929b5ab38ac8e091c0b7a7898170ef40e7",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -492,8 +492,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
       "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md"

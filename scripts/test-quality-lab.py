@@ -12,6 +12,7 @@ from zipfile import ZipFile
 from unittest.mock import patch, Mock
 
 import quality_lab as lab
+import werkstatt_visualisierung as visual
 
 
 class QualityLabTests(unittest.TestCase):
@@ -193,6 +194,28 @@ class QualityLabTests(unittest.TestCase):
                 path.write_text(path.read_text() + "\nVeränderte Fassung\n")
                 with self.assertRaisesRegex(lab.LabError, "seit dokumentierter Prüfung verändert"):
                     lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_completed_review_accepts_only_bound_canonical_visual_update(self):
+        evidence, _, _ = self.completed_review_fixture()
+        row = evidence["files"][0]
+        relative = row["path"]
+        target = self.root / relative
+        source = target.read_text()
+        profiles = {"fachgebiet": {"theme": "default", "mode": "prompt"}}
+        with patch.object(visual, "load_profiles", return_value=profiles):
+            updated = visual.block(source, "fachgebiet", kind="skill").encode()
+            target.write_bytes(updated)
+            self.profile["file_review_status"]["visual_followups"] = {relative: {
+                "method": "visual_block_only", "date": "2026-11-16",
+                "previous_sha256": row["reviewed_sha256"], "sha256": lab.digest(updated),
+                "body_sha256": lab.digest(source.encode()),
+            }}
+            self.assertEqual(lab.pending_file_reviews(self.profile, self.root), [])
+            modified = visual.block(source + "\nFremde fachliche Änderung.\n", "fachgebiet", kind="skill").encode()
+            target.write_bytes(modified)
+            self.profile["file_review_status"]["visual_followups"][relative]["sha256"] = lab.digest(modified)
+            with self.assertRaisesRegex(lab.LabError, "seit dokumentierter Prüfung verändert"):
+                lab.pending_file_reviews(self.profile, self.root)
 
     def test_missing_target_skill_fails(self):
         self.profile["cases"][0]["target_skill"] = "missing"

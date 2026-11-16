@@ -586,7 +586,7 @@
     "changes": [
       "Kontrollbezogene Verzweigungen, konkrete Rückfragen und gesonderte externe Freigaben ausformuliert."
     ],
-    "sha256": "f19d1bb8da7bbeee998331cf1dab135ed84472efde5c16c4e027c0bdc7873d3f"
+    "sha256": "b81135f2f48499ca0eee8e15dd673681759b98db4a3da530b2d02e51158f9d21"
   },
   "focus_review": {
     "verdict": "revised",
@@ -603,8 +603,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "transparenzregister-assistent/skills/hauptproblem-unklare-kontrolle-loesen/SKILL.md",
       "transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md",

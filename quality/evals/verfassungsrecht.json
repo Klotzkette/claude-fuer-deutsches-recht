@@ -105,7 +105,7 @@
       "Verfassungsfehler statt bloßer Grundrechtsliste als Aufgabe; 2 BvR 625/25 früh und ausdrücklich nur als Darlegungsmaßstab, nicht als allgemeine Datenfreigabe.",
       "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: pepp, kosten."
     ],
-    "sha256": "4aadd10edb17589e365117fd4e12438c5bd425ecfaff4a4a5e8df2a5af7071e2",
+    "sha256": "c92e1d22926a07198a84ee888db62b19d73ea62523a586c2dae64cfec6c77a91",
     "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
@@ -267,8 +267,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "verfassungsrecht/verfassungsrecht-werkstatt.md"
     ],

@@ -46,7 +46,7 @@
       "Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden.",
       "Redaktion 16.10.2026: Landesrechtliche Beschlussprüfung früh von historischem Ausschusssitzfall abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "8902dd985128d2641a9347611b10add52e68fcf38f30232895a0b4ce0c6a0fa9",
+    "sha256": "0976f64c6d98b01acac1321515463e74f0ee8610e25511efdcdd754f1bb73dd6",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -149,8 +149,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "kommunalrecht-laender/kommunalrecht-laender-werkstatt.md"
     ],

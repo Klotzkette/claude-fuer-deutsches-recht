@@ -49,7 +49,7 @@
       "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
       "2026-10-16, redaktioneller Einstiegsreview: Hinweis, Beweis oder Urteil als Ausgang; Verhandlungsantrag im vereinfachten Verfahren früh sichtbar. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "868a5237e4fd10eae69764b3fb2327d2436f7b045f5571ab4dd3215dcb3038c7",
+    "sha256": "82f7fd82c24819b9b25e426dde9dd185c741f2e2a96ece8cf4acaba56e32cec0",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -147,8 +147,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-werkstatt.md"
     ],

@@ -72,7 +72,7 @@
       "Pastiche-Beleg von Pressemitteilung auf tatsächlich gelesenen amtlichen Urteilstext umgestellt; Erkennbarkeit und Reichweitengrenze erhalten.",
       "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 18.12.2025, C-182/24"
     ],
-    "sha256": "5bc04812f3f707329ae40f1f073eec26b32772a2d70998e911bffd120e719e51",
+    "sha256": "1654853a724f182f4cd5196ff31602ed0bd92a491741925583cf0472dd8685b6",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
@@ -227,8 +227,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md"
     ],

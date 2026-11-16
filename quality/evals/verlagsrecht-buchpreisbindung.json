@@ -158,7 +158,7 @@
       "Veröffentlichungsnachweis und Zeitpunkt der Preisaufhebung sowie damaligen Angebotsstand bei Abmahnung in die Dokumentarbeit aufgenommen.",
       "Rechte und Buchzustand statt allgemeiner Vertriebsprüfung; 11 U 41/06 mit fehlendem Beweiswert eines bloßen Mängelstempels und Ausnahme tatsächlicher Mängel früh erklärt."
     ],
-    "sha256": "f94c348b9bbb317642c5840e7efb3bef6515f1741d75c87f0c3fb10ffa28b7ef",
+    "sha256": "8d126fde327b21f2d4601da009c00e596ba79259e109cfd0e53271bcaae432cf",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -211,8 +211,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md"
     ],

@@ -759,7 +759,7 @@
       "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse.",
       "Redaktion 16.10.2026: Konkretes Dokument statt Prozesskürzel an den Anfang; Neugründung als eigener Zweig, Handaktenanker mit Berechtigungsgrenze; Typografie bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "59f56d3ee6e5dda6dfaa48858aa0135ebc04f67ab96cc24eec56c5eec1e41572"
+    "sha256": "bf15b59a37cc269754ac3ac069fd1bc2a8a48e90376512ea1f43d2e16cedc9c2"
   },
   "focus_review": {
     "method": "desk_review",
@@ -847,8 +847,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
       "ki-native-kanzlei/ki-native-kanzlei-werkstatt.md",

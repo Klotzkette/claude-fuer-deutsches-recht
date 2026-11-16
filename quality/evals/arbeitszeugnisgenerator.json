@@ -142,7 +142,7 @@
       "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform.",
       "16.10.2026: Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei."
     ],
-    "sha256": "a4744fb30ab1aa756a5d2c31e328f468f659dc7d40242020deccb975ca72400c",
+    "sha256": "d97b1538d69a21bc4c190e0a94d83b9c5e7f132b18dcc9e45dd80f682766f9ae",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -351,8 +351,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md"
     ],

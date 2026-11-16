@@ -151,7 +151,7 @@
       "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Sektor und gewünschtes Behördenschreiben bestimmen den Einstieg; Geheimnisschutz und Veröffentlichungsbefugnis werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "48c3b8a90b5f8412b58cb041abd38f476541013b94453d6867d846d310ab90cf"
+    "sha256": "6defe851a393c72d66f99f061f1a0c0db1548ecb43ea670f6686be4ebb0e744e"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -207,8 +207,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-werkstatt.md"
     ],

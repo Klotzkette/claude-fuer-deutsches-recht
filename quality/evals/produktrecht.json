@@ -71,7 +71,7 @@
       "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
       "Gefahrstoffverpackung im konkreten Zielmarkt nach Fotos vor und nach Öffnung, vertrauter Lebensmittelaufmachung und Wirkung auf Kinder und schutzbedürftige Personen prüfen."
     ],
-    "sha256": "b8dc4a784d266128554636ce73c1ffcc355d8e869502db5d23d084cc9884fa9a",
+    "sha256": "a1e172084d48b19ad8e5e9dbabdc9d890b483b05721b843cbef60fb5bb022d2a",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -192,8 +192,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "produktrecht/produktrecht-werkstatt.md"
     ],

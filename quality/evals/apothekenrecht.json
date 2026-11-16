@@ -53,7 +53,7 @@
       "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe.",
       "16.10.2026: Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar."
     ],
-    "sha256": "6d7589f54a357dee8c9b1263f6aa0a8e901aabb702801de772791b2eefe7f845",
+    "sha256": "e99c957ef856f2d49bef80dc6d05820fa1c2f9ab8488abdf1ce78c1a8f73a225",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -185,8 +185,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "apothekenrecht/apothekenrecht-werkstatt.md"
     ],

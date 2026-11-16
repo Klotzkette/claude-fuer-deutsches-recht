@@ -315,7 +315,7 @@
       "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen.",
       "Einstiegsredaktion 16.10.2026: Einladung, Beschlussvorlage und tatsächliches Protokoll klar benannt; richtige Ladungsadressatin und Grenze des Nachtrags vorgezogen, redundante Abschlussmeta gestrafft."
     ],
-    "sha256": "3146a822931169850d2a9a1dce4106667496871ae216439cf98bb90c2fdf6038"
+    "sha256": "107bfb607e7f06f97efc81cdc0842ec5f13a50e33aa9fdfa0ac1852ef279e5d7"
   },
   "prompt_opening_review": {
     "date": "2026-10-16",
@@ -355,8 +355,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md"
     ],

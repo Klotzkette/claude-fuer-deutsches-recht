@@ -94,7 +94,7 @@
       "Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort.",
       "Redaktion 16.10.2026: Tatsächliche Austauschbarkeit vor methodischer Navigation verankert; historischen Produktmarkt nicht übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "2dfa187cdafbf90e5e602a9014e762930ff1f60adcc95225670d6a3b4e8d69bc"
+    "sha256": "9d18b7b35f196174bd6bb89b04d448d789601a3a0316087a9c4fa2ae7871b20f"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -148,8 +148,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-werkstatt.md"
     ],

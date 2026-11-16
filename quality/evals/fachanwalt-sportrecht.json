@@ -177,7 +177,7 @@
       "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Startrecht oder Verbandsentscheidung führen zum passenden Text; Einsatzbedingungen werden anhand sportlicher Gründe und Kausalität eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "bc29dd29a83acfea8d33432e9325188a175f69dc86e838a83708f066a06351b7",
+    "sha256": "6ce5eddb504d3e11020d4805584925b004bf11a099da3d4d1e5518e00407cc3d",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -269,8 +269,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-sportrecht/fachanwalt-sportrecht-hauptproblem.md",
       "fachanwalt-sportrecht/fachanwalt-sportrecht-werkstatt.md"

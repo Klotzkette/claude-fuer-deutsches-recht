@@ -42,6 +42,8 @@ Die Tabelle zählt bei Werkstatt- und Mini-Prompts die jeweilige Hauptdatei je P
 
 Wenn du ein Plugin für einen ganzen Vorgang einsetzt, kannst du den passenden [Hauptskill direkt herunterladen](./skills-index/README.md#hauptskills) und mit dem Auftrag und den Unterlagen verwenden.
 
+Der [Leitfaden für lange Werkstatt-Prompts und Fallansichten](./docs/werkstatt-visualisierung.md) zeigt, wie du umfangreiche Akten in ChatGPT oder Claude schrittweise bearbeitest und Belege und Varianten bis in den Entwurf verfolgst.
+
 - [Neun Werkstätten zu den HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md)
 - [Zehn Werkstätten zur Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md)
 - Werkstatt-Dateien für [Betreuungsunterlagen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), [Insolvenzanfechtung im Fachanwaltsprofil](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md), [Sachbearbeitung in der Verbraucherinsolvenz](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzsachbearbeitung/prompts/verbraucherinsolvenz/verbraucherinsolvenz-werkstatt.md) und [Umsatzsteuer-Voranmeldung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md)

@@ -137,7 +137,7 @@
       "Einstiegsredaktion 16.10.2026: Abstrakten Workflowtext durch Registerprodukte und Zwischenverfügungsgrenze ersetzt; Form, Eintragung und Vollzug getrennt.",
       "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "133d3be43f904efc4e5cf29d2b012f1b443e36587c3bc5ec7c12878001133db6"
+    "sha256": "0cc5ed863f3d45d9d1464d8c67119019b6371c1a42d404bbb9e0800b1601c766"
   },
   "focus_review": {
     "verdict": "revised",
@@ -449,8 +449,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "handelsregister-assistent/handelsregister-assistent-hauptproblem.md",
       "handelsregister-assistent/handelsregister-assistent-werkstatt.md",

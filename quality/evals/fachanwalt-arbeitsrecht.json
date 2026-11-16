@@ -335,7 +335,7 @@
       "Gezielter amtlicher Quellenabgleich am 10.11.2026. Funktionalen Maßstab für Anzeigefehler eingearbeitet.",
       "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest."
     ],
-    "sha256": "d7da8ef78c96db89532c655787ad50e772aa582a5c6261e58cb219a91d6708f1",
+    "sha256": "5cf8d08c1354185cc458d63fcac532cd1cf1fadc6f60518f9f7fc287c16ef421",
     "reviewed_on": "2026-11-14"
   },
   "selection": {
@@ -1268,8 +1268,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
       "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md"

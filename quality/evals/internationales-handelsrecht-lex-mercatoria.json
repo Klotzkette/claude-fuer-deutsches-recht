@@ -95,7 +95,7 @@
       "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit.",
       "Einstiegsredaktion 16.10.2026: Warenvertrag und konkrete Anspruchs-/Klauselarbeit verbunden; österreichischen Ausschlussfall nicht als allgemeine CISG-Abwahl dargestellt."
     ],
-    "sha256": "46aaf76b9b0f0663f3d6c9dbd8eb4f76aa0421527c62ccd250e1d9af9f5f605c"
+    "sha256": "38ad43605cd2110afe83b4f57df86d4590ac7ee92531896caa37664a4ae229be"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -188,8 +188,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md"
     ],

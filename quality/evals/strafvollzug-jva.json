@@ -501,7 +501,7 @@
       "Vertiefter fortsetzbarer Ablauf für jeden Vollzugsanlass; kein Quellenanhang als Ersatz der Subsumtion.",
       "Zusätzliche amtliche Volltexte mit tatsächlich gelesenen Randnummern und ausdrücklichen Übertragungsgrenzen."
     ],
-    "sha256": "db3ae358081a116528b638d0d546fb2b4de307bf7c22c611fe20b017d1436bee"
+    "sha256": "0feff5d9538fe3f4bbc3ad5182dd29cd990b768b8c32d4fe20a00ebffaba7c62"
   },
   "focus_review": {
     "method": "desk_review",
@@ -713,8 +713,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "strafvollzug-jva/skills/strafvollzug-fall-steuern/SKILL.md",
       "strafvollzug-jva/strafvollzug-jva-hauptproblem.md",

@@ -52,7 +52,7 @@
       "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
       "2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "e6d04a828916958b1765f8ebfe97e252b432f8be799add5d03fae4e33506ea66",
+    "sha256": "ebf1839b808f4a106ce0abda191c89f10cf3c6d3709fe87feff6b4b4776df36e",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -151,8 +151,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md"
     ],

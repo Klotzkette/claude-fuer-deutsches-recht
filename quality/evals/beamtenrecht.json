@@ -111,7 +111,7 @@
       "16.10.2026: Beantragte beamtenrechtliche Entscheidung und Eilrechtsschutz früh konkretisiert.",
       "Aktuelle amtliche Gründe zur Fortwirkung einer Alimentationsrüge und die Reichweite der Berliner Besoldungsentscheidung einordnen."
     ],
-    "sha256": "2959220161ef09098ae7d2a0601a7237eb8e966f66edbd6ddd49fbd4fd63cafa",
+    "sha256": "26586e4c6531011677097ed7c3bf6f86cbe722e2dc1a86e68c1054aec3aaa25a",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -190,8 +190,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "beamtenrecht/beamtenrecht-werkstatt.md"
     ],

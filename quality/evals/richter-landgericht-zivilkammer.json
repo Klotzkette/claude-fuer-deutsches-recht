@@ -95,7 +95,7 @@
       "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf.",
       "2026-10-16, redaktioneller Einstiegsreview: Kammervotum und Berufungsangriff zuerst; Beweis zum Vortragswechsel nicht mit Präklusionsfreiheit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "5f0e7dc7944e2081850d01d88b53c66131b2dd2058a8c53ecdd1a973190b079a",
+    "sha256": "0b907cdf86a5ee02f24471b3e0bdabb5222c4608d311b9cd9c5532085a8b1be8",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -287,8 +287,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-werkstatt.md"
     ],

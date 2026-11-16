@@ -127,7 +127,7 @@
       "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
       "2026-10-16, redaktioneller Einstiegsreview: Sitzungsfrage und Kontaktmitteilung als Ergebnis; Selbstanzeige von gesetzlichem Ausschluss und Handelsrichterverfahren getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8b926d67a40ac1b80ac116fba2dcb441c2432b8d2389110efa91e2f770ee4c14",
+    "sha256": "bcf0d3dd356a54078a6ea1048dba9a821a0bfef2a85d7b6cd77c58c7e2946da2",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -175,8 +175,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-werkstatt.md"
     ],

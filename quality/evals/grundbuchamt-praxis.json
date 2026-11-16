@@ -69,7 +69,7 @@
       "Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt.",
       "Quellenprüfung 10.11.2026: V ZB 8/25 auf Amtswiderspruch und rechtsgeschäftliche Vorwegnahme der Erbfolge angewendet."
     ],
-    "sha256": "f90dcc384cca78d0951c7826d067baa2a8b705597b95c0a480bffb9fe39d5e3f"
+    "sha256": "08a34bfb2540a6514834511e74bc60314c860a5b563555b350c4537cbc5b10f1"
   },
   "selection": {
     "positive": [
@@ -212,8 +212,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "grundbuchamt-praxis/grundbuchamt-praxis-werkstatt.md"
     ],

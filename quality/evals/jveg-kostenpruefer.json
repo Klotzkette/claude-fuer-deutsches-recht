@@ -145,7 +145,7 @@
       "Rohzeiten, Auftragsbezug, rekonstruierte Aufzeichnungen, Kostenwarnung mit Zugang und Zeitpunkt, konkrete Kürzungsgründe sowie Vorschussforderung gegen tatsächliche Zahlung in bezifferte Anträge überführt.",
       "Redaktion 16.10.2026: Heranziehung und Festsetzungsweg früh mit Kammergutachten verbunden; keine historischen Honorarsätze übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "c057852f2437b7ccd2cc9e9a6a96be08694ecdfef0f9e3c03af398a5c24446c6"
+    "sha256": "d31bbd3a91f033d9f0fb4202d345b4b9d95433a223cc0e76a0e437902e35a61d"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -190,8 +190,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md"
     ],

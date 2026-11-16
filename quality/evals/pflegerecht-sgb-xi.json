@@ -735,7 +735,7 @@
       "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 2/25 R; BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
       "Bei L 6 P 10/25 die tragende Unzulässigkeitsentscheidung und die ergänzenden Sachgründe zur Verhinderungspflege unterscheiden."
     ],
-    "sha256": "dc0e833bc73f991f2ed7d523faade1df87a6b8e34416858e006a72cde7f53aac",
+    "sha256": "b0fefb202813fdbc47db50d08ce9abfda8844a40aa4d92e09911efb784049d8a",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -817,8 +817,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md"
     ],

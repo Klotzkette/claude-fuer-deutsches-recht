@@ -51,7 +51,7 @@
       "Warnungs- und Manöverdaten ändern Verschuldensvortrag; Artikel X und XI steuern Fristen und Anspruchsweg.",
       "Missionszweck vor erste Arbeitsüberschrift gestellt. C-515/19 früh auf tatsächlichen notwendigen Satellitenbeitrag begrenzt, ohne allgemeinen Anspruch auf Startgenehmigung."
     ],
-    "sha256": "419ea32075ea5719bd9e7b5f0ebe7918d90ac8cdc7349c4ae1fa43715ecc3d80",
+    "sha256": "e129a3befa8de2a761ffa81ae7476f7a0f3f9ccf7ab8668f1cb436031104d9f3",
     "method": "desk_review",
     "reviewed_on": "2026-10-16"
   },
@@ -165,8 +165,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "weltraumrecht/weltraumrecht-werkstatt.md"
     ],

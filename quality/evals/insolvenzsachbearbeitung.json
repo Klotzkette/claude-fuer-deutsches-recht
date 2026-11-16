@@ -472,7 +472,7 @@
       "Gesprächsphasen, Statusblock, Produktkennungen, Übergabematrix, Fehlerrouten und fassungsspezifische Freigaben vereinheitlicht."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "f40a3d07060a699d6e49f9813a9cd3c8d2c21bba16c10ae5935c638151305d98"
+    "sha256": "3bef96062a7e7223eb5b8c98305963d0483c82750f887166a6db1e12bc253958"
   },
   "focus_review": {
     "verdict": "revised",
@@ -619,8 +619,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.md",
       "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",

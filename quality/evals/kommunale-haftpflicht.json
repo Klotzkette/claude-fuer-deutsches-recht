@@ -717,7 +717,7 @@
       "Abschnitt 1.40: Fahrzeug, Glatteis, privatrechtliches Bad, fehlerhafter Antrag, Bauversagung, kommunale Kanalbeschädigung, aktive Baumpflege und Schlagloch; elf konkrete amtliche Quellen und überprüfte bayerische Normen.",
       "Redaktion 16.10.2026: Haftungsvermerk und Schadenberechnung vor Arbeitsrubriken; Glätteanker nach vorn verlagert, Typografie vereinheitlicht. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "ae16d55c1f2836a02997cabb54c353f4ea6a2276e7eb9513b361cdbf58112a07"
+    "sha256": "9c647e6bbe06dd67acc043d83f836856642deb03733246a88b283432b574c82c"
   },
   "focus_review": {
     "method": "desk_review",
@@ -910,8 +910,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md",
       "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",

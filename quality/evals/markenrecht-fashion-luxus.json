@@ -106,7 +106,7 @@
       "Qualitätskontrolle und Restbestandsabverkauf in konkrete Lizenzregelungen übersetzt.",
       "Redaktion 16.10.2026: Erschöpfung und Lizenznehmervertrieb vor der Arbeitsnavigation mit enger Copad-Grenze verknüpft. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "dddff5dc624d797c18a88cc1bdf2c66a162c84c6e0dc9782fb0fb1f24ee275ec"
+    "sha256": "43d6fdfc76700c05a64c7e04c955b08c17f4c9d20e51896e358422e50c3d217d"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -156,8 +156,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md"
     ],

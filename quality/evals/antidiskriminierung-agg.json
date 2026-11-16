@@ -524,7 +524,7 @@
       "Quellenvertiefung 16.10.2026: EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24",
       "2026-11-16: Den Maklerauftrag und die Auswahlpraxis anhand der BGH-Gründe prüfen. Den unionsrechtlichen Maßstab für kirchliche Loyalitätsanforderungen von dem nationalen Revisionsausgang und der Kündigungserklärungsfrist getrennt halten. Volltext und Pressemitteilung klar benennen."
     ],
-    "sha256": "725c105d46c9a116148b047e0e80ea1fff3568450f075b029bfa68aa59bce60d",
+    "sha256": "7d7817a0b46e24ae915c8eb6c87927cec7328e453328258246d0b640185c6e0e",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
@@ -616,8 +616,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md"
     ],

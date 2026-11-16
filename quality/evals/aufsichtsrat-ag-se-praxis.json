@@ -48,7 +48,7 @@
       "Bedingte Finanzierung verändert Beschlussreife; Kostenänderung führt zu erneuter Vorlage; bestätigte Gegenstimme ändert Protokoll.",
       "16.10.2026: Entscheidungsreife Aufsichtsratsvorlage vor allgemeiner Organbeschreibung."
     ],
-    "sha256": "5d378c12c17cd014a7d21a4c3e7d47fbe88da054e1d72846fb690cddf741fdfe",
+    "sha256": "d6e35009f2045996a86e76524810e27b550e2fc4258f34428db480cae220c6ea",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -160,8 +160,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-werkstatt.md"
     ],

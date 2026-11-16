@@ -130,7 +130,7 @@
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25",
       "Amtlicher Volltext am 16.11.2026 geprüft. Preisänderung, Widerspruch und Kündigung am gesamten Klauselwerk prüfen."
     ],
-    "sha256": "2e94644b1c72e3686db991913c006ab16453c52726a88c447116fb25081c9025",
+    "sha256": "d178ee1963dfb159fb3bc75234e46831f9307635bbb65a3b027ae72399ffede5",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -348,8 +348,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md"
     ],

@@ -413,7 +413,7 @@
       "Fracht- und Kaufansprüche getrennt",
       "Empfängerfähige Folgeprodukte"
     ],
-    "sha256": "84a9a9c5cfdb382b71cf4c066e9f8f4251373ffda8bbabf7397e93c77e5be308"
+    "sha256": "f71f20d47d487368dda965c6b0b74b13f452b438389cf683dc02ae1c08cce11e"
   },
   "focus_review": {
     "method": "desk_review",
@@ -513,8 +513,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md",
       "un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md",

@@ -650,13 +650,13 @@
       "Beide Aktenbestände, LV-Entstehung, Recherche und Dokumentenakte in gemeinsame Arbeitswege eingebunden.",
       "Öffentlichen Auftraggeberstatus und konkret weitergereichte Pflichten getrennt prüfen; keine vorschnelle Bestellung oder verbindliche Preiszusage."
     ],
-    "sha256": "c33333fcf47e6b719f38850fc53951738942f8c2ea205a0e8beaf08ff7e7a7e1",
+    "sha256": "49948f73cda52b8637fd02950c5438f5f2a679e059f7d3bf0e7cbd2e7f335f69",
     "reviewed_on": "2026-11-15"
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md"
     ],

@@ -109,7 +109,7 @@
       "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
       "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
     ],
-    "sha256": "cfef49946e942ce7e086ba8e4f5e2491b232bb9fd6b042ea8433abff60bf40e4",
+    "sha256": "d61b1a0f6ac909b7ee65a74657adc8a32d0c36d52db50d132b08536edb8cb21b",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -205,8 +205,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md"
     ],

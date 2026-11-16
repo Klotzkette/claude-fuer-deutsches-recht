@@ -138,7 +138,7 @@
     "changes": [
       "Einstiegsredaktion 16.10.2026: Vertragsziel mit Anteilsform und individueller Leaver-Grenze verbunden; KG-Managementmodell nicht als Gründer-Vesting-Freigabe dargestellt."
     ],
-    "sha256": "630cdc71e299a718449db991d5d6633e03a1c5a076b66e1993409ec72e4afe03"
+    "sha256": "788ee6432fb301372ca68c854e19502df8ffc90aa119c584b3e46274b4a8e414"
   },
   "focus_review": {
     "method": "desk_review",
@@ -228,8 +228,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md",
       "gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md",

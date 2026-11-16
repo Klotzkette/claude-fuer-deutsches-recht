@@ -184,7 +184,7 @@
       "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen.",
       "2026-11-10: § 14c UStG um BFH-Maßstab zur endgültigen Gefährdungsbeseitigung ergänzt."
     ],
-    "sha256": "a26d8f0aca0708348d624895d5138d058f0ffd483b94dcb91781a8d928d381a6"
+    "sha256": "ad0a068588c2972cfc040a5404fe3943e161ae51c264280416cb742279fb7585"
   },
   "focus_review": {
     "verdict": "revised",
@@ -253,8 +253,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "e-rechnung-werkstatt/e-rechnung-werkstatt-hauptproblem.md",
       "e-rechnung-werkstatt/e-rechnung-werkstatt-werkstatt.md",

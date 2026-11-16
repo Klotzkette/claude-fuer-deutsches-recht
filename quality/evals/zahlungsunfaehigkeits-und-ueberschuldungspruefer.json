@@ -47,6 +47,36 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_229-23A.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-11-13",
       "supports": "Darlehenszinsen von Tilgung und darlehensgleicher Finanzierung trennen; kein Bargeschäftsprivileg für § 135 InsO."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313232026.zip",
+      "checked_on": "2026-11-16",
+      "supports": "BGH, Urteil vom 24.09.2026, IX ZR 65/25, Rn. 13–23: konkrete Nichtzahlungserklärung, Kenntnis, Fortdauer beim späteren Zahlungsvorgang.",
+      "verification_status": "Amtliche Originalfundstelle und bezeichnete Passagen geprüft."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304092026.zip",
+      "checked_on": "2026-11-16",
+      "supports": "BGH, Urteil vom 13.10.2026, II ZR 30/25, Rn. 8–21: sekundäre Darlegungslast; Ausgangsverfahren zu § 64 Satz 1 GmbHG a.F. und Zurückverweisung.",
+      "verification_status": "Amtliche Originalfundstelle und bezeichnete Passagen geprüft."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip",
+      "checked_on": "2026-11-16",
+      "supports": "BGH, Urteil vom 17.09.2026, IX ZR 229/23, Rn. 29–38: Finanzierungscharakter vorzeitiger Lieferantenzahlungen und differenzierte Einordnung von Zinsen.",
+      "verification_status": "Amtliche Originalfundstelle und bezeichnete Passagen geprüft."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300892026.zip",
+      "checked_on": "2026-11-16",
+      "supports": "BGH, Urteil vom 05.11.2026, IX ZR 150/25, Rn. 15–29: nur Ausgleichsabgabe und betroffene Zuschläge; als Nachtrag zum Oktoberstichtag eingeordnet.",
+      "verification_status": "Amtliche Originalfundstelle und bezeichnete Passagen geprüft."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/dir/2026/799/oj/deu",
+      "checked_on": "2026-11-16",
+      "supports": "Richtlinie (EU) 2026/799: Umsetzungsfrist und zeitlichen Anwendungsbereich nach Art. 55 und 56 vom geltenden nationalen Recht trennen.",
+      "verification_status": "Amtliche Originalfundstelle und bezeichnete Passagen geprüft."
     }
   ],
   "selection": {
@@ -938,16 +968,17 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Redaktionell am Originaltext geprüft: Quellenstand bis 2026, getrennte Beweiswege, belegter Eingangsbestand und Grenzen von Rückrechnung und Prognose. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
+    "reason": "Redaktionell am Originaltext geprüft: Quellenstand bis 2026, getrennte Beweiswege, belegter Eingangsbestand und Grenzen von Rückrechnung und Prognose. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026. Die am 16.11.2026 ergänzten Fachpassagen wurden anhand der bezeichneten Originalquellen und der konkreten Arbeitsschritte geprüft; keine erneute Verifikation aller Altquellen und kein Live-Modelltest.",
     "changes": [
       "Zeitaktuelle Entscheidungsanker mit Aussagegrenzen und Gegenfällen.",
       "Grundaktenauswertung, offene Unterlagen und dokumentierte Anschlussprüfung.",
       "Trennung von Rechnung, Zahlungseinstellung, Insolvenzgrund und Anfechtungsmerkmalen.",
       "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest.",
-      "BGH IX ZR 150/25 als späteren Nachtrag zur Ausgleichsabgabe kennzeichnen."
+      "BGH IX ZR 150/25 als späteren Nachtrag zur Ausgleichsabgabe kennzeichnen.",
+      "Durchgehender Ablauf für Originalbelege, zahlenmäßig kontrollierte Liquiditätsvarianten und die getrennte Fortführungsprognose, Vermögensbewertung, Antrag und Anfechtung."
     ],
-    "reviewed_on": "2026-11-13",
-    "sha256": "8a4e2df9c878421baaf2c7eb0717ecec9aef90208dccc3e4852c3a5d22559bf3"
+    "reviewed_on": "2026-11-16",
+    "sha256": "78b94c24ffe3466beb34632b96ccada7b8d05a92334acb1f4f653279c548a0d2"
   },
   "prompt_editorial_review": {
     "date": "2026-11-13",

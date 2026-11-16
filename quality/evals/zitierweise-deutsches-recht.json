@@ -45,7 +45,7 @@
       "Nachgelieferte Passage verändert Text und alle Kurzbelege; Quellenprotokoll und Empfängertext bis zur konsistenten Fassung führen.",
       "Aussagebezug und korrigierte Fassung bleiben der Zweck. C-516/17 zum Zitatzweck früh; Fußnotenstil bleibt Konvention und keine Erlaubnis beliebiger Literaturübernahme."
     ],
-    "sha256": "ef04e9941e47a9c601c2bb441442e42d89af854827d87c720fe033b1b8c957a8",
+    "sha256": "1d4a30c45335c5891a798327c9bf764ae656b8d867422464dd0bd3bfc4cd71c3",
     "method": "desk_review",
     "reviewed_on": "2026-10-16"
   },
@@ -130,8 +130,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "zitierweise-deutsches-recht/zitierweise-deutsches-recht-werkstatt.md"
     ],

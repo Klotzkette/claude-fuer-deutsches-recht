@@ -627,7 +627,7 @@
       "Interne Uploadnamen und entbehrliche Normabgrenzung entfernt; Einleitung und Datenschutzformulierung gestrafft.",
       "16.10.2026: Komplexes Projektprodukt und konkreten Bauzeit-Anker vorgezogen; nur redundante Einleitungsworte für Byte-Grenze gekürzt, Werkstatt-Abschnitt 1 erhalten."
     ],
-    "sha256": "3d82d91508f06b681c8364d3830a90a0e5b73b40b903eb771393e23387d10610",
+    "sha256": "fdf076e71d8b5b9536785bcf0ecdf9eb122b1f4316eb50b4758ebedb78e1d75b",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -705,8 +705,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/bauwirtschaft-fortgeschrittene-werkstatt.md"
     ],

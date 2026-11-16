@@ -563,7 +563,7 @@
       "Aktuelle Verfahren und Quellenstand begrenzen",
       "Bank Melli nur mit tatsächlichem Quellenstatus"
     ],
-    "sha256": "ce6d1e55a79d5627ff5110237041f2d4817b3c19f04dada4ae7da6860e11def1"
+    "sha256": "8af183f510bb7e028735c2f5d6254766b4c9a7021ee3a3fbaf7c45237f870cdc"
   },
   "focus_review": {
     "method": "desk_review",
@@ -662,8 +662,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "us-sanktionspruefer/skills/us-sanktionsmandat-steuern/SKILL.md",
       "us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md",

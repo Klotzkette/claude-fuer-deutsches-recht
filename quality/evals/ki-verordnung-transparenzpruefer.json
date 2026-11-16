@@ -78,7 +78,7 @@
       "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
       "Redaktion 16.10.2026: Hinweis für tatsächlichen Kanal als Ergebnis; Randnummern gleich als unverbindliche Leitlinien erklärt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "02513311fdfbf66e7dfa37ce3168676f52588870e851652b7a8c8271cfd96409"
+    "sha256": "c577a8f8a5095a8fd2f76906d3258c4257197d5cf680335ab520b364f7bac380"
   },
   "selection": {
     "positive": [
@@ -796,8 +796,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md",
       "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md",

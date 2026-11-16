@@ -154,7 +154,7 @@
       "10.000-EUR-Wertgrenze und §§ 46h ArbGG/130e ZPO aktuell bestätigt. Volltextabrufprobleme und fehlgeleiteter EUR-Lex-HTTP200 transparent, keine erfundene aktuelle Gesamtnormprüfung.",
       "Werkstatt enthält weiter vollständige Ergebnisproduktion, ausgewählten Fachweg, konsistente Fortsetzung, Quellenstatus und konkrete Visualisierung nur bei vorhandener Fähigkeit; keine automatischen externen Handlungen."
     ],
-    "sha256": "3171256185f1da51fb7ae0ee2028b7b21c9100e011a2f19f74b7232b835a6a57",
+    "sha256": "281ca755d7148f95795b6a6f6f81898783f354a9faa6b2a6fd32dbc8963c0f3b",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
@@ -619,12 +619,21 @@
     "evidence": {
       "path": "quality/source-audits/2026-11-14-nachpruefung/completed/anwaltschaft-generell.json",
       "sha256": "4a1e597799ff6a6c33e73412d9ba9a5bf310e8565652cb3e018f05ab3d21feb7"
+    },
+    "visual_followups": {
+      "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md": {
+        "method": "visual_block_only",
+        "date": "2026-11-16",
+        "previous_sha256": "3171256185f1da51fb7ae0ee2028b7b21c9100e011a2f19f74b7232b835a6a57",
+        "sha256": "281ca755d7148f95795b6a6f6f81898783f354a9faa6b2a6fd32dbc8963c0f3b",
+        "body_sha256": "5e48e6f616023fd99105f9f22edf252076fb81adc285394695c89d567e940c77"
+      }
     }
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md",
       "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",

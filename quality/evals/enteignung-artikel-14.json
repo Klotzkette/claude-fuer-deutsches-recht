@@ -237,7 +237,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BVerwG, Urteil vom 26.03.2026, 10 C 4.25"
     ],
-    "sha256": "94444f3c10b4d4a2d030b2e49cdf798259338e5fbc27175288407162df6ba047",
+    "sha256": "0ec85e219790f04df9dc7ffa179af8a8a40af9a45f7918502d519b69755bd837",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
@@ -850,8 +850,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md"
     ],

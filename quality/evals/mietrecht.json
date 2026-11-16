@@ -171,7 +171,7 @@
       "Quellenprüfung 10.11.2026: VIII ZR 21/26 zur Schonfrist und VIII ZR 104/25 zum Gewerbeumbau nach Paragraf 556f BGB mit amtlichem Volltext und Aussagegrenzen angewendet.",
       "Genehmigung einer durch einen vollmachtlosen Vertreter erhobenen Rüge nach VIII ZR 177/24 versionsbezogen prüfen."
     ],
-    "sha256": "2330e38f14fc0eb1e13e8817031158b13337d41f985f26a57b080b3c26b45883",
+    "sha256": "ee0f48214d1babbd11beefde8d916544e296b0e0d45ac70c66cda49b9e7a980f",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
@@ -320,8 +320,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "mietrecht/mietrecht-werkstatt.md"
     ],

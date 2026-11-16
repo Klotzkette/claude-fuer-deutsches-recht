@@ -89,7 +89,7 @@
       "Abweichende Poolbasis und Sekundärkaufpreis verändern Cap Table, Liquiditätsreichweite und Term-Sheet-Definition.",
       "Finanzierungsalternative verändert begrenzte Treuepflichtbewertung; IP-Vertrag oder Nutzungsbeanstandung verändert Offenlegung, Absicherung und konkrete Closing-Bedingung."
     ],
-    "sha256": "8e2921393ff191f1d7178f5814174beeaecc1576f2d0c805f79a62cc725d6d6e"
+    "sha256": "48a173de70451db0a242177689bd1e504471fa0293290ea5cfaa59b49adefd1c"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -139,8 +139,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "venture-capital-geber/venture-capital-geber-werkstatt.md"
     ],

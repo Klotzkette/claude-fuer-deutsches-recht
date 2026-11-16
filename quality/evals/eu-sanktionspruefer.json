@@ -408,7 +408,7 @@
       "Informationspflicht und Vertraulichkeit",
       "Rechtsbehelf passend zum Eingriff"
     ],
-    "sha256": "b81d14829a12f6a78527e532fd79da274012adb77522d183edfa373bc4dd7e0c"
+    "sha256": "959ad188756a7c65378bb0663d89bd92cf838f0753872f6574550138b215d463"
   },
   "focus_review": {
     "method": "desk_review",
@@ -519,8 +519,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "eu-sanktionspruefer/eu-sanktionspruefer-hauptproblem.md",
       "eu-sanktionspruefer/eu-sanktionspruefer-werkstatt.md",

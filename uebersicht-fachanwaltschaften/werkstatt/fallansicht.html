@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+  <link rel="icon" href="data:,">
+  <title>Wann ging die Kündigung zu? | Juristische Werkstatt</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #faf8f4;
+      --surface: #fffdf9;
+      --ink: #262019;
+      --muted: #5d5145;
+      --line: #d6ccc1;
+      --accent: #762c34;
+      --wash: #f4e8e2;
+      --focus: #175464;
+      font-family: system-ui, sans-serif;
+      line-height: 1.55;
+    }
+
+    * { box-sizing: border-box; }
+    body { margin: 0; color: var(--ink); background: var(--paper); }
+    main { width: min(72rem, 100%); margin: auto; padding: 2.5rem clamp(1rem, 4vw, 3rem) 3rem; }
+    header { border-top: 4px solid var(--accent); border-bottom: 1px solid var(--line); padding: 1.5rem 0; margin-bottom: 1.5rem; }
+    h1, h2, h3 { line-height: 1.15; margin: 0 0 .65rem; }
+    h1, h2 { font-family: Georgia, "Times New Roman", serif; }
+    h1 { font-size: clamp(2rem, 5vw, 3.6rem); font-weight: 500; letter-spacing: -.04em; }
+    h2 { font-size: 1.68rem; font-weight: 600; }
+    h3 { font-size: 1.05rem; }
+    p { margin: 0 0 .7rem; }
+    p:last-child { margin-bottom: 0; }
+    .datum, .kategorie { color: var(--muted); font-size: .87rem; }
+    .kategorie { color: var(--accent); font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+    .lead { max-width: 63ch; font-size: 1.05rem; }
+    .layout { display: grid; grid-template-columns: minmax(17.5rem, 1fr) minmax(0, 1.55fr); gap: 1.25rem; align-items: start; }
+    .panel { background: var(--surface); border: 1px solid var(--line); border-radius: .65rem; padding: clamp(.9rem, 2vw, 1.45rem); min-width: 0; }
+    .rechts { display: grid; gap: 1.25rem; min-width: 0; }
+    fieldset { border: 0; padding: 0; margin: 0 0 1.2rem; min-width: 0; }
+    fieldset:last-child { margin-bottom: 0; }
+    legend { margin-bottom: .45rem; padding: 0; font-weight: 700; }
+    .option { display: flex; align-items: baseline; gap: .5rem; border: 1px solid var(--line); border-radius: .4rem; padding: .5rem .6rem; margin-bottom: .35rem; cursor: pointer; }
+    .option:has(input:checked) { border-color: var(--accent); background: var(--wash); }
+    .option input { accent-color: var(--accent); margin: 0; flex: none; }
+    .option strong, .option small { display: block; }
+    .option small { color: var(--muted); font-size: .82rem; }
+    [hidden] { display: none !important; }
+    :is(input, textarea, button, summary):focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+    .fundstelle { color: var(--accent); font-weight: 650; font-size: .88rem; margin-bottom: .9rem; }
+    blockquote { margin: 0 0 1rem; padding: .75rem .85rem; background: var(--wash); border-left: 3px solid var(--accent); }
+    .befund { margin: 0; display: grid; gap: .6rem; }
+    .befund dt { font-weight: 650; }
+    .befund dd { margin: .1rem 0 0; color: var(--muted); }
+    .entwurf { padding: .85rem .9rem; background: var(--paper); border: 1px solid var(--line); border-radius: .4rem; margin-bottom: 1rem; }
+    .kontrolle { border-left: 3px solid var(--accent); padding-left: .65rem; font-size: .92rem; }
+    label[for="handoff"] { display: block; font-weight: 700; margin-bottom: .4rem; }
+    textarea { width: 100%; font: inherit; font-size: .9rem; min-height: 7rem; padding: .6rem; color: inherit; background: var(--surface); border: 1px solid var(--line); border-radius: .4rem; resize: vertical; }
+    button { min-height: 2.7rem; border: 0; border-radius: .4rem; background: var(--accent); color: white; font: inherit; font-weight: 670; padding: .5rem .95rem; cursor: pointer; }
+    button:hover { background: #61222a; }
+    .copy-row { display: flex; align-items: center; flex-wrap: wrap; gap: .55rem; margin-top: .45rem; }
+    .copy-row p { margin: 0; font-size: .86rem; color: var(--muted); }
+    details { margin-top: 1.1rem; border-top: 1px solid var(--line); padding-top: .8rem; }
+    summary { cursor: pointer; font-weight: 650; }
+    details p { font-size: .91rem; margin: .55rem 0; }
+    @media (max-width: 48rem) {
+      .layout { grid-template-columns: minmax(0, 1fr); }
+      main { padding-top: 1.3rem; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="kategorie">Juristische Werkstatt · Fiktiver Übungsfall</p>
+      <h1>Wann ging die Kündigung zu?</h1>
+      <p class="lead">Personalplanerin Nora Liedke findet am 9. Oktober einen Kündigungsbrief in ihrem Hausbriefkasten. Ihr Arbeitgeber, die fiktive Hohensteg Prüftechnik GmbH, beruft sich auf die Sendungsverfolgung vom Vortag. Am 16. Oktober soll die Kanzlei den Sachstand sichern und eine mögliche Kündigungsschutzklage vorbereiten.</p>
+    </header>
+
+    <noscript><p>Die Fallauswahl benötigt JavaScript. Im Chat können Sie direkt mit der Frage weiterarbeiten, was Sendungsverfolgung und Auffinden für den Zugang belegen und welche Zustellunterlage zur Fristenkontrolle fehlt.</p></noscript>
+
+    <div class="layout" id="fallarbeit" hidden>
+      <section class="panel" aria-labelledby="akte">
+        <h2 id="akte">Akte</h2>
+        <fieldset>
+          <legend>Welche Unterlagen liegen vor?</legend>
+          <label class="option">
+            <input type="radio" name="stage" value="grundakte" checked>
+            <span><strong>Grundakte</strong><small>Brief, Versandunterlagen und Anrufvermerk</small></span>
+          </label>
+          <label class="option">
+            <input type="radio" name="stage" value="nachtrag">
+            <span><strong>Mit Nachtrag</strong><small>Zusätzlich ein Zustellscan und ein Ablaufblatt</small></span>
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Beleg öffnen</legend>
+          <label class="option">
+            <input type="radio" name="evidence" value="brief">
+            <span><strong>A01 · Kündigungsschreiben</strong><small>6. Oktober 2026</small></span>
+          </label>
+          <label class="option">
+            <input type="radio" name="evidence" value="status" checked>
+            <span><strong>A02 · Einlieferung und Tracking</strong><small>7. und 8. Oktober 2026</small></span>
+          </label>
+          <label class="option">
+            <input type="radio" name="evidence" value="anruf">
+            <span><strong>A03 · Anruf der Mandantin</strong><small>16. Oktober 2026</small></span>
+          </label>
+          <label class="option" id="nachtrag-option" hidden>
+            <input type="radio" name="evidence" value="scan" disabled>
+            <span><strong>N01 · Zustellscan mit Ablaufblatt</strong><small>8. Oktober 2026, 10:14 Uhr</small></span>
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Datum probeweise ansetzen</legend>
+          <label class="option"><input type="radio" name="date" value="" checked><span>Offenlassen</span></label>
+          <label class="option"><input type="radio" name="date" value="8. Oktober 2026"><span>8. Oktober als Annahme</span></label>
+          <label class="option"><input type="radio" name="date" value="9. Oktober 2026"><span>9. Oktober als Annahme</span></label>
+        </fieldset>
+      </section>
+
+      <div class="rechts">
+        <section class="panel" aria-labelledby="beleg">
+          <h2 id="beleg">Beleg und Aussagekraft</h2>
+          <p id="reference" class="fundstelle" aria-live="polite"></p>
+          <blockquote id="excerpt"></blockquote>
+          <dl class="befund">
+            <div><dt>Was ergibt sich daraus?</dt><dd id="support"></dd></div>
+            <div><dt>Was bleibt offen?</dt><dd id="limit"></dd></div>
+          </dl>
+          <details>
+            <summary>Rechtsprechung zum Zustellnachweis</summary>
+            <p>§ 130 Abs. 1 Satz 1 BGB knüpft an den Zugang an. Bei der Prüfung nach § 4 Satz 1 KSchG zählt der Zugang der schriftlichen Kündigung.</p>
+            <p>BAG, Urteil vom 30. Januar 2025 – 2 AZR 68/24, Rn. 8–11, 15–21. Einlieferungsbeleg und Online-Status genügten im entschiedenen Fall nicht für einen Anscheinsbeweis.</p>
+            <p>BAG, Urteil vom 7. Mai 2026 – 2 AZR 184/25, Rn. 22–31. Im dort festgestellten Scanverfahren wurde die Bestätigung vor dem Einwurf erzeugt. Das BAG verneinte dafür den Anscheinsbeweis des Zugangs einer bEM-Einladung. Ablauf und Beweismittel des Übungsfalls sind gesondert zu würdigen.</p>
+          </details>
+        </section>
+
+        <section class="panel" aria-labelledby="vermerk">
+          <h2 id="vermerk">Vorläufiger Aktenvermerk</h2>
+          <div class="entwurf">
+            <p id="draft"></p>
+            <p id="assumption" class="kontrolle"></p>
+            <h3>Nächster Schritt</h3>
+            <p id="next"></p>
+          </div>
+          <label for="handoff">Arbeitsauftrag für den Chat</label>
+          <p id="handoff-help" class="datum">Kopieren und im laufenden Werkstatt-Chat einfügen. Die Auswahl wird erst dadurch übergeben.</p>
+          <textarea rows="4" id="handoff" aria-describedby="handoff-help" readonly></textarea>
+          <div class="copy-row">
+            <button type="button" id="copy">Arbeitsauftrag kopieren</button>
+            <p id="status" role="status"></p>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    const belege = {
+      brief: {
+        fundstelle: "A01 · Kündigungsschreiben, S. 1",
+        auszug: "6. Oktober 2026. Hiermit kündigen wir das Arbeitsverhältnis ordentlich zum 30. November 2026. Gez. Maren Livke, Geschäftsführerin.",
+        aussage: "Die Kopie hält das Datum des Schreibens, den erklärten Beendigungszeitpunkt und den Namen unter der Unterschrift fest.",
+        grenze: "Die Kopie zeigt weder den Einwurf noch die Zeit, zu der eine Kenntnisnahme im gewöhnlichen Verlauf möglich war."
+      },
+      status: {
+        fundstelle: "A02 · Einlieferungsquittung und Online-Status, S. 1–2",
+        auszug: "Sendung NR-4620 am 7. Oktober 2026 um 16:42 Uhr aufgegeben. Online-Status vom 8. Oktober 2026: „Zugestellt“. Uhrzeit und Zustellperson sind im Ausdruck nicht angegeben.",
+        aussage: "Sendungsnummer, Aufgabe und Statusmeldung sind dokumentiert. Der Arbeitgeber stützt darauf seine Angabe zum 8. Oktober.",
+        grenze: "Die Unterlagen belegen für sich genommen den tatsächlichen Einwurf des Kündigungsschreibens in den richtigen Briefkasten nicht."
+      },
+      anruf: {
+        fundstelle: "A03 · Telefonvermerk der Kanzlei, S. 1",
+        auszug: "16. Oktober 2026. Frau Liedke berichtet, am 9. Oktober gegen 8:05 Uhr einen Umschlag im Hausbriefkasten gefunden zu haben. Zuletzt habe sie am 7. Oktober abends nachgesehen. Den Umschlag habe sie aufgehoben.",
+        aussage: "Die Mandantin gibt den Zeitpunkt des Auffindens an. Der Brief kann nach ihrer Schilderung bereits am Vortag eingeworfen worden sein.",
+        grenze: "Der genaue Einwurfzeitpunkt geht aus der Aussage nicht hervor. Der Umschlag liegt der Kanzlei laut Vermerk noch nicht vor."
+      },
+      scan: {
+        fundstelle: "N01 · Zustellscan, S. 1, und Ablaufblatt, S. 2",
+        auszug: "NR-4620 am 8. Oktober 2026 um 10:14 Uhr gescannt. Das Ablaufblatt beschreibt eine Unterschrift am Scanner vor dem Einlegen der Sendung. Ein Einwurfzeitpunkt wurde nicht gesondert protokolliert.",
+        aussage: "Der Nachtrag ergänzt den Status um die Uhrzeit des Scanvorgangs und macht die Reihenfolge von Bestätigung und erwartetem Einwurf überprüfbar.",
+        grenze: "Das Ablaufblatt beschreibt ein Verfahren. Es dokumentiert weder den tatsächlichen Einwurf noch den Inhalt dieser Sendung."
+      }
+    };
+
+    const byId = (id) => document.getElementById(id);
+    const selected = (name) => document.querySelector('input[name="' + name + '"]:checked').value;
+    const scanOption = byId("nachtrag-option");
+    const scanRadio = scanOption.querySelector("input");
+    const statusRadio = document.querySelector('input[value="status"]');
+
+    function showCase() {
+      const withScan = selected("stage") === "nachtrag";
+      scanOption.hidden = !withScan;
+      scanRadio.disabled = !withScan;
+      if (!withScan && scanRadio.checked) {
+        statusRadio.checked = true;
+      }
+
+      const evidence = belege[selected("evidence")];
+      byId("reference").textContent = evidence.fundstelle;
+      byId("excerpt").textContent = evidence.auszug;
+      byId("support").textContent = evidence.aussage;
+      byId("limit").textContent = evidence.grenze;
+
+      const start = "Die Sendungsverfolgung nennt den 8. Oktober. Frau Liedke berichtet vom Auffinden am 9. Oktober (A02, S. 2, und A03, S. 1). Der tatsächliche Einwurfzeitpunkt bleibt offen.";
+      const observation = withScan
+        ? start + " Der nun vorliegende Zustellscan erfasst den Vorgang vor dem Einlegen. Er ergänzt den Ablauf, ohne den Einwurf zu dokumentieren (N01, S. 1–2)."
+        : start + " Ein Auslieferungsbeleg liegt in der Grundakte nicht vor.";
+      const date = selected("date");
+      const assumption = date
+        ? "Annahme für die Fristenkontrolle: " + date + ". Der Zugang an diesem Tag ist damit weder festgestellt noch als Tatsachenvortrag übernommen."
+        : "Für die Fristenkontrolle beide möglichen Zugangstage getrennt prüfen und bis zur Klärung vorsorglich nach der früher endenden Frist disponieren.";
+      const next = withScan
+        ? "Originalumschlag und Zuordnung zur Sendungsnummer prüfen. Die Zustellperson zum konkreten Einwurf, zum Briefkastenschild und zur Uhrzeit befragen. Die Klage auf Wunsch mit ausdrücklich offenem Zugangsdatum vorbereiten."
+        : "Originalumschlag sichern und die vollständigen Zustellunterlagen zur Nummer NR-4620 beschaffen. Die Klage auf Wunsch parallel mit ausdrücklich offenem Zugangsdatum vorbereiten.";
+
+      byId("draft").textContent = observation;
+      byId("assumption").textContent = assumption;
+      byId("next").textContent = next;
+      byId("status").textContent = "";
+      byId("handoff").value = [
+        "Fiktive Werkstattakte · Nora Liedke / Hohensteg Prüftechnik GmbH · Stand 16.10.2026.",
+        "Bitte führe den vorläufigen Aktenvermerk zur Kündigung vom 06.10.2026 fort und gib mir den konkreten Text für die nächste Nachweisanforderung.",
+        "Aktenstand: " + (withScan ? "Nachtrag liegt vor." : "Grundakte ohne Nachtrag."),
+        "Geöffneter Beleg: " + evidence.fundstelle + ". " + evidence.auszug,
+        "Vorläufige Belegwürdigung: " + evidence.aussage + " " + evidence.grenze,
+        "Fallstand: " + observation, assumption, next,
+        "Prüfe § 130 Abs. 1 Satz 1 BGB und § 4 Satz 1 KSchG. Prüfe den amtlichen Volltext von BAG 30.01.2025 – 2 AZR 68/24, Rn. 8–11, 15–21" +
+          (withScan ? ", und BAG 07.05.2026 – 2 AZR 184/25, Rn. 22–31." : "."),
+        "Bitte trenne Aktenbefund, Annahme, Beweisfrage und Fristenkontrolle."
+      ].join("\n\n");
+    }
+
+    document.querySelectorAll('input[type="radio"]').forEach((input) => input.addEventListener("change", showCase));
+    byId("copy").addEventListener("click", async () => {
+      const handoff = byId("handoff");
+      const status = byId("status");
+      try {
+        await navigator.clipboard.writeText(handoff.value);
+        status.textContent = "Arbeitsauftrag kopiert.";
+      } catch {
+        handoff.focus();
+        handoff.select();
+        status.textContent = "Arbeitsauftrag markiert. Bitte mit der Tastenkombination zum Kopieren übernehmen.";
+      }
+    });
+    showCase();
+    byId("fallarbeit").hidden = false;
+  </script>
+</body>
+</html>

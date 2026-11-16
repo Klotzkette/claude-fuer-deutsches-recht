@@ -65,7 +65,7 @@
       "Verlangtes Verbot, Vertragsstrafe und Kosten, getrennte Fristquellen sowie Aktualisierung einer Plattformbeschwerde konkretisiert.",
       "Redaktion 16.10.2026: Gesamtsinn und offene Abwägung früh statt bloßem Etikett Meinung erklärt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "6785edb9090a2c2c71510681843b515d2b0354e0fea1023f5df9b4f8e9a64fdc"
+    "sha256": "509c2aff8037f631d491430c7047599d50e12f9639df60cc9979222552308e65"
   },
   "selection": {
     "positive": [
@@ -156,8 +156,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "meinungspruefer/meinungspruefer-werkstatt.md"
     ],

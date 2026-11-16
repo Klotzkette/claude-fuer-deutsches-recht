@@ -548,7 +548,7 @@
       "Quellenbefund von fallbezogener Darlegung und tatsächlicher menschlicher Entscheidung getrennt.",
       "Keine pauschale Nichtbeachtlichkeit und keine fingierte Prüfbestätigung."
     ],
-    "sha256": "bffea96acf3f76088f6c32c4692be0ffc12bf5c504f3d417faf97bff697e2984",
+    "sha256": "e72a6a3c26fc480c9635e930fe63686986ba499ce2742ffdc426c82a05cc9abb",
     "reviewed_on": "2026-10-19"
   },
   "focus_review": {
@@ -644,8 +644,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md",
       "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.md",

@@ -21,7 +21,7 @@
     "changes": [
       "16.10.2026: Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten."
     ],
-    "sha256": "6a56279eb2e2d78b8d33a942628431124ace675c6dc788e598fc8374106038d6",
+    "sha256": "904a80cd8970392691f7cba963e212aec615d282c9849f88794ddcb2ae18f0ab",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -233,8 +233,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md"
     ],

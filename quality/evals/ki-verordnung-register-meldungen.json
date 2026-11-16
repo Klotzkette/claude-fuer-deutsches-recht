@@ -20,7 +20,7 @@
       "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt.",
       "Redaktion 16.10.2026: Registerdatensatz und Vorfallmeldung nach Rolle, Anlass und Vollzug getrennt; Nummer 11.9 zu 11.5 berichtigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "bbe085f1ae8d73d20995fc0177ef31ca8f2df422fcecd45293231fd69ef4fb23"
+    "sha256": "a7fc5df8027a0b990c69e6bcae68256b2a91eac4ed297d9158a5cf461ca3fc90"
   },
   "selection": {
     "target_skill": "register-und-meldung-loesen",
@@ -330,8 +330,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.md",
       "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-werkstatt.md",

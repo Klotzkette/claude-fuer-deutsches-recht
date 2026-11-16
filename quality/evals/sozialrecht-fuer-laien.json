@@ -497,7 +497,7 @@
       "2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 3/25 R"
     ],
-    "sha256": "13ec73fa2117cf43633ca41f2dff983057cbcfc735a72685eb580a93ad725c47",
+    "sha256": "b3f1ef83d78f82a52f9711b3c157285545049945a13bb601a9f29656b0471cd7",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -559,8 +559,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md"
     ],

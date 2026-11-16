@@ -187,7 +187,7 @@
       "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Gericht, Vertragsstatut und konkretes Außenhandelsschreiben eröffnen die Bearbeitung; früher Deckungskauf bleibt eine eng begrenzte Ausnahme. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "529b3f340340b8a59c21a4bb42ea8a6f8d74cf3721de27b4413a05cc138baac1"
+    "sha256": "99042d134b5c43a449dfdc52e620015dfb9883a9bcaa7d5b80a1eb45df96d913"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -254,8 +254,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md",
       "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-werkstatt.md"

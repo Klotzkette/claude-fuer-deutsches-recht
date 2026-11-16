@@ -32,6 +32,14 @@ def expected_prompt_files(slug: str, plugin_dir: Path) -> dict[str, Path]:
     if slug == "betreuungsrecht":
         # Im Plugin-README veröffentlichte, eigenständige Spezialwerkstatt.
         expected["werkstatt-unterlagen"] = plugin_dir / "betreuungsrecht-unterlagen-werkstatt.md"
+    extra = {
+        "fachanwalt-insolvenz-sanierungsrecht": ("insolvenzanfechtung", "prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md"),
+        "insolvenzsachbearbeitung": ("verbraucherinsolvenz", "prompts/verbraucherinsolvenz/verbraucherinsolvenz-werkstatt.md"),
+        "steuerrecht-anwalt-und-berater": ("ustva", "ustva/werkstatt.md"),
+    }
+    if slug in extra:
+        topic, relative = extra[slug]
+        expected[f"werkstatt-{topic}"] = plugin_dir / relative
     return expected
 
 

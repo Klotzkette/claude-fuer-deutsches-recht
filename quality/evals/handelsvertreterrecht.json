@@ -105,7 +105,7 @@
       "Stornoketten ohne Doppelzählung, Onlinekunden und Bezirkszuordnung, tatsächliches Vertragsende, Ausgleichsvorteile und begrenzte Abgeltung.",
       "Einstiegsredaktion 16.10.2026: Fehlende Provision und Buchauszug konkretisiert; flüchtigen Systemzugang von zulässigem elektronischem Auszug getrennt."
     ],
-    "sha256": "b32b233b81b84a62de3a2da91d0b97865ee11413eeae0d8335150575d42d152c"
+    "sha256": "9b82bdfd00b313081a502d9310f5c8bd1b1c70eb4718f51a4b5906d45f03fcf8"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -208,8 +208,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md"
     ],

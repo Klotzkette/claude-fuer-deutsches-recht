@@ -89,7 +89,7 @@
       "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt.",
       "Einstiegsredaktion 16.10.2026: Landesnorm und Hochschulordnung als konkrete Grundlage vorangestellt; Gremienanker ohne bundesweite Quote oder sofortige Nichtigkeit eingeordnet."
     ],
-    "sha256": "61b82a2e5a221a53a9c24133adca78fa1ff6a964bf2c53f5130987bc6590285b",
+    "sha256": "2926aa04081013cab45b6bc2e082886bc6cf9a6851256b741fb8c6472e0c9a59",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
@@ -191,8 +191,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md"
     ],

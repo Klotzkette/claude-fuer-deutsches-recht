@@ -105,7 +105,7 @@
       "Quellen- und Verfahrensstufen, tragende Aussage statt bloßem Zitat, konkrete Konfrontation mit Antwortfrist, indirekte Identifizierbarkeit sowie konsistente Artikel-, Überschriften- und Begleittexte vertieft.",
       "Redaktion 16.10.2026: Verdachtsbericht mit Beweistatsachen und sichtbarer Gegenposition vor den Arbeitslisten verankert; Quellenstart in Fließtext. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "af5ff912064a3e99f72db9ac70514a7275bcd19462fea28edb74ed80226db207"
+    "sha256": "3faf67ec8508c4a5554e6eedf8794f71708d0a7da0cfa105ad612960bbd7e29c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -181,8 +181,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "juristische-presseberichterstattung/juristische-presseberichterstattung-werkstatt.md"
     ],

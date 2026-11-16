@@ -76,7 +76,7 @@
       "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf.",
       "2026-10-16, redaktioneller Einstiegsreview: Tatkomplex und Kammerprodukt eröffnet; Verständigungstransparenz, Schöffenbeteiligung und Beweisstoff eingegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "0a60598243a0c254b1362b34912e17173690e90ee5c3620b3dad133680ccb1ba",
+    "sha256": "0fb97fac048029b1d4ce8cae29611460aed049e2b0c585ebe8c997e1981add5d",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -170,8 +170,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-werkstatt.md"
     ],
