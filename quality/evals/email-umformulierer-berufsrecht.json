@@ -141,7 +141,7 @@
       "Eingangstext gegenüber eigener Erklärung, unbeabsichtigtes Anerkenntnis und Vergleich, konkrete Nachweise, Vertraulichkeit, Vertretungslage sowie Entschuldigung ohne erfundene Haftungsübernahme.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Die versandfertige E-Mail steht vor dem Prüfprogramm; Kontext und Empfängerkreis begrenzen den berufsrechtlichen Sachlichkeitsanker. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "469700e4ab8d02cb3bcb90f676cd0d056326850e2cde8c3b5b801f7746c8abf2"
+    "sha256": "baadc5a47ff61b8ca594a8f06dbd7b2ac71ae9e6713e9546282a85896cae4b56"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -186,8 +186,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-werkstatt.md"
     ],

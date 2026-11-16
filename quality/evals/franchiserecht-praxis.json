@@ -41,7 +41,7 @@
       "Handbuchinvestitionen, verdeckte Preisbindung, Plattformgebühren, Prognosekausalität und konkrete Abwicklung ergänzt.",
       "Einstiegsredaktion 16.10.2026: Leistung, Gebühren und Vertragsende zusammengeführt; Kundenstammausgleich mit Grenze des anonymen Massengeschäfts eingeordnet."
     ],
-    "sha256": "5908d457913cdd446cce49228a3dd7dd21e1c6aff67942eeed0715d71bba55c0"
+    "sha256": "971f0b95412f0983f79c08a2ebceaa6419b821a3dde17fe68e25ad78446da0f1"
   },
   "selection": {
     "positive": [
@@ -172,8 +172,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "franchiserecht-praxis/franchiserecht-praxis-werkstatt.md"
     ],

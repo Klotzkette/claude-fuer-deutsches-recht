@@ -765,7 +765,7 @@
       "Beteiligtenakteneinsicht vorrangig nach § 6 Berliner VwVfG eingeordnet; begrenzte Bundes-VwVfG-Anwendung und Schutzgründe getrennt.",
       "16.10.2026: Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht."
     ],
-    "sha256": "dc1cac4b72e1689563ff8c481aa85c419d561a2ea16bba4be9d574ec6417787a",
+    "sha256": "e7eb43877078256150e629c919127a9282e7350b2bc17020dabba19f3511c9bb",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -808,8 +808,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-hauptproblem.md",
       "berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-werkstatt.md",

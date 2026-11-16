@@ -87,7 +87,7 @@
       "Fertige Vollzugsvorlage von tatsächlich freigegebenem Vollzug und nachgewiesener Erledigung getrennt.",
       "Redaktion 16.10.2026: Anteilskaufform und Zustimmung beim Gesamtunternehmensverkauf als verschiedene Fragen vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "0bb971056c76b05722e55034537f6ba2685a0f7034e877c044564880611249ed"
+    "sha256": "207664c80963f9ac3f5d4cfc0136d178f9e05c41621bf9a4942a913b08de2023"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -138,8 +138,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "mittelstand-corporate-ma/mittelstand-corporate-ma-werkstatt.md"
     ],

@@ -115,7 +115,7 @@
       "Entbindung, nachgewiesene Vollmacht, Verwerfungsrisiko und Wiedereinsetzungsfrist in einen konkreten Terminbrief überführt.",
       "Redaktion 16.10.2026: Einspruch, Akteneinsicht und zusätzlicher Informationszugang am Anfang unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "860eb0eeadb8f5df97a0aa03469949aceb84415d6090ac0dd73ad3d49e2b44e7",
+    "sha256": "e67e100b8afbb60c70ceb673f8381a8499c83d8fec43fb9e6b450b1d25c38b45",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -159,8 +159,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "ordnungswidrigkeitenrecht/ordnungswidrigkeitenrecht-werkstatt.md"
     ],

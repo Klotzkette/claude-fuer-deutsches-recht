@@ -149,7 +149,7 @@
       "2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
       "2026-10-16: Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
     ],
-    "sha256": "eaf6d4dea4c5b186f6a3dc38db68190ccf23f08738685d12c2390c7c25252d46",
+    "sha256": "669167c0a4fafdd80ef086edbbb97234d379ead59272617c6979beaa358d3f31",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Fachliche Änderung zu C-70/25 und zugehörige Norm- und Übergangsstellen; vorbestehende Fachgebiete nur auf Widersprüche zur Ergänzung geprüft. Hash bezeichnet die gesamte aktuelle Datei, keinen Nachweis ihrer vollständigen Neuverifikation.",
@@ -528,8 +528,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md"
     ],

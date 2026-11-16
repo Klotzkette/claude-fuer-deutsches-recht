@@ -510,7 +510,7 @@
       "2026-10-16, redaktioneller Einstiegsreview: Vergabedokumente und Sektorenbezug zuerst; Pegaso-Passage im Mini vorgezogen, Postfall nicht pauschal auf U-Bahn-Bestände übertragen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 22.01.2026, C-812/24"
     ],
-    "sha256": "51ffd7a1d8992f937a31fdebbcba7c220663d1be3d7350f46df4fcd32750e368",
+    "sha256": "119499a86650a7e096dc0447f779b429ab7015f935a8ec90f62481f47ae23a47",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -550,8 +550,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md"
     ],

@@ -55,7 +55,7 @@
       "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt.",
       "16.10.2026: Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert."
     ],
-    "sha256": "96c5a12e4aea1fb6b4ac4a6df1ef36002a1e5243808af7d7537e8d9f66059d16",
+    "sha256": "0fc96fd8ebe1b296cf911d82239161d06b0339fe20134ed49680aa0334e24075",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -166,8 +166,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md"
     ],

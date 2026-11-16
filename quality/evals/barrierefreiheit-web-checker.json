@@ -107,7 +107,7 @@
       "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren.",
       "16.10.2026: Technischen Nutzerweg und verwertbaren Befund vor Prüfkatalog gesetzt; Rechtsprechung nicht künstlich erzwungen."
     ],
-    "sha256": "0fd104bc3bcb8f88896a50d2cf7c076fdd463f7d7853e07c4febc0bb712afbcd",
+    "sha256": "95b26caa94c48a8cf01bce3efcd94d4eb2cd02049aa100ef47bd761d48cc34e3",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -175,8 +175,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "barrierefreiheit-web-checker/barrierefreiheit-web-checker-werkstatt.md"
     ],

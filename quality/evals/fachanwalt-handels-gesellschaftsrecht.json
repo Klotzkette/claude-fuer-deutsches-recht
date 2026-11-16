@@ -193,7 +193,7 @@
       "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Beschluss, Abfindung oder Handelsvertrag führen zum konkreten Ergebnis; freies Vermögen bei Einziehung wird zeitlich eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "f84521a994fef6c1140319d2fef0f48368d428e9b7d618ba3ab3356ecebeb204"
+    "sha256": "55f3780fcdb4d635f61fb43cc12b7510509f21a9f2aea27cfdbdde798d846c05"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -279,8 +279,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
       "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md"

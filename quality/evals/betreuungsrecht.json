@@ -215,7 +215,7 @@
       "16.10.2026: Wünsche, Aufgabenbereich und fertiges Gerichtsdokument zuerst; zusätzliche Unterlagen-Werkstatt mit Stichtags-/Rechnungslegungsgrenze gesondert verbessert.",
       "2026-10-16: Nicht autorisierte Altbelastungen zeitnah der Bank anzeigen, Aufgabenkreis und tatsächliche Zustimmung prüfen und Erstattung in Excel mit Ursprungsausgabe verbinden; keine Doppelzählung oder automatische Geschäftsunfähigkeit aus Betreuung ableiten. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
     ],
-    "sha256": "bc5509ec87e6f4364517f6cdf6d30be164e12ffb5de7e436f877b1e2bc3842cd",
+    "sha256": "5a077a63ea678675326be26230c16bc16f87a58b4bd1a82eaba98940077108ab",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
@@ -385,8 +385,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "betreuungsrecht/betreuungsrecht-werkstatt.md"
     ],

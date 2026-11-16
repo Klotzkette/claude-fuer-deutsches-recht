@@ -66,7 +66,7 @@
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
       "2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "9b3ebe9750f45b6e0bfb6a1cf04d0b6323a77ffc7b5fc62859923cb264c7b7e4",
+    "sha256": "ba268a1031a0f66d87895f5e1ec6bf7c46f3bbecfa00fb7868dc474e78f2f805",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -202,8 +202,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md"
     ],

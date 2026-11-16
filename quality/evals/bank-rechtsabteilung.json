@@ -163,7 +163,7 @@
       "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "9f4c836a42b409bcf07bdbfc100bea83896bab300d90c852849ff5fac282715b",
+    "sha256": "0c59eaaabe2240e3607001651523f753de763d976f92a6661e001dc594c7729d",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
     "previous_reviews": [
@@ -364,8 +364,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md"
     ],

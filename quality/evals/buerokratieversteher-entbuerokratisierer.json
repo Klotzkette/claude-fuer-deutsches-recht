@@ -83,7 +83,7 @@
       "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Brief erklären und konkrete Antwort erstellen stehen vor der Verfahrensbeschreibung; Anhörung, Bescheid und wirksame Nachholung werden auseinandergehalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "6c96224d6a7dc31d3741e958354408875613a70dddda8c28182d2534faaaeb74"
+    "sha256": "105bf172fceabb28be0804ea800aac780ee139ae21cc0c218e4ff59f4f7cd206"
   },
   "selection": {
     "positive": [
@@ -183,8 +183,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md"
     ],

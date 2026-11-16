@@ -26,7 +26,7 @@
       "Redaktion 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
       "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "9396144b79d4001a37ccd3b6906a9b8c490b88aa22e54b50667278011b791b87"
+    "sha256": "815123f128c109eee6333800e088ca5018ff040f1105ea52e016fb0c421ed305"
   },
   "selection": {
     "target_skill": "hochrisikofrage-loesen",
@@ -1063,8 +1063,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-hauptproblem.md",
       "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-werkstatt.md",

@@ -110,7 +110,7 @@
       "Finanzierungszeitpunkt, rollierende Folgeperioden, geschäftsmodellbezogene Frühwarnsignale, integrierte Überleitung und Auswirkungen geänderter Gläubigerrechte auf Planregeln vertieft.",
       "Redaktion 16.10.2026: Erwartete Gesellschaftermittel anhand Fähigkeit und Bereitschaft statt pauschaler Unterstützungshoffnung eingeordnet. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "e3770f7d3db05f6b9673ca433cfc67099711409744a0ac474affabecff46ee2a",
+    "sha256": "17d4f6504627cc0ae10ac170ceb3fc8ec5078a2aca0c737e040699087e5bcf03",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -155,8 +155,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "krisenfrueherkennung-starug/krisenfrueherkennung-starug-werkstatt.md"
     ],

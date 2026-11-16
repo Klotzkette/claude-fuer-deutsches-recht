@@ -75,7 +75,7 @@
       "Vollstreckungsbescheid mit Einspruch und eigenständiger Vollstreckungslage vom Mahnbescheid abgegrenzt.",
       "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt."
     ],
-    "sha256": "4f8fd0519f5bc2fe0493fed826532e9fb511ead79f49fd496e470064057b3206"
+    "sha256": "f9f142d54fe494a200e94f0f7b97585a2d1812fa78fc54ff98ef1e0a523f03d8"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -167,8 +167,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "verbraucher-rechtsstaat-alltag/verbraucher-rechtsstaat-alltag-werkstatt.md"
     ],

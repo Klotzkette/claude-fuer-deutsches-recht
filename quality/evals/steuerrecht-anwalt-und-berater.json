@@ -518,7 +518,7 @@
       "EuGH-Überprüfung C-167/26 RX und deren Wirkung nach Art. 62b Abs. 2 der EuGH-Satzung zum Stichtag einordnen.",
       "2026-11-16: Die Überentnahmerechnung beim Formwechsel mit Steuerbilanz und betrieblicher Zuordnung aufbauen. Im Schwerpunkt Schätzung den konkreten übergangenen Akteninhalt und die Entscheidungserheblichkeit benennen. Streitpunkt, Beleg und Antrag im selben Entwurf fortschreiben."
     ],
-    "sha256": "a2e09f696daf9c119622234dc96c6091ffe8129ffdd0e2ce8c2d9bffbd787351",
+    "sha256": "226dc6430fc1306f0d09d79d0e9e86db4ba28e2914b454c092a0517978d92170",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
@@ -742,8 +742,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md"

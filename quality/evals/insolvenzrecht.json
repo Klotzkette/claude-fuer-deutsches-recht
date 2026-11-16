@@ -187,7 +187,7 @@
       "14.11.2026: Werkstatt im Zusammenhang gelesen; Behördenforderungen und Säumniszuschläge nach IX ZR 150/25 sowie Zahlungseinstellung/Gläubigerkenntnis nach IX ZR 65/25 passagenbezogen ergänzt. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
       "BGH IX ZR 150/25 als späteren Nachtrag zum Feststellungsweg bei öffentlich-rechtlichen Forderungen kennzeichnen."
     ],
-    "sha256": "e0ab69cda3224b5ca923e30fd771049a82cc8565b57c6d75c5e8696483abd86e",
+    "sha256": "ce830346ea15f6346b516c505dcecd193b443a139f628d83d2519bc4892afb89",
     "reviewed_on": "2026-11-14"
   },
   "focus_review": {
@@ -399,8 +399,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "insolvenzrecht/insolvenzrecht-hauptproblem.md",
       "insolvenzrecht/insolvenzrecht-werkstatt.md"

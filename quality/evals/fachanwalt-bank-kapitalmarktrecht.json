@@ -264,7 +264,7 @@
       "2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "6ffc7b6db20b1203af09dca2a5c799e542c561eff75672d8d8617e1498433017",
+    "sha256": "f367a21b212f0bdd4d6238ddaec855e8f126be83737e905d79fba2db67a97739",
     "previous_reviews": [
       {
         "sha256": "9875821950e39de2e81437f2e1a821cf2b7c3852eea739b6116cd238ec5946ff"
@@ -477,8 +477,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
       "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md"

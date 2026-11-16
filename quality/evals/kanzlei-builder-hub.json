@@ -50,7 +50,7 @@
       "Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext.",
       "Redaktion 16.10.2026: Erweiterungsprüfung mit Geheimniszugang und tatsächlichen Sicherheitsmaßnahmen verbunden, Installation weiterhin nicht erlaubt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "514b40be9e50145d1ecdd9cd0eb0f511399bb971a79a781f804f1eaeefa6eb04"
+    "sha256": "c247ceee1935b456b341a48783e51795f70d9178e9b5fe2d89c2a5b0a5037edc"
   },
   "selection": {
     "positive": [
@@ -146,8 +146,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "kanzlei-builder-hub/kanzlei-builder-hub-werkstatt.md"
     ],

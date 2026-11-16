@@ -192,6 +192,13 @@ LABEL_OVERRIDES = {
 # Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
 # nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
 ROUTE_OVERRIDES = {
+    "arbeitsrecht-kuendigungsschutzklagewerkstatt": (
+        "Welche Kündigung, welcher Zugangsnachweis oder welche Urteilsbegründung entscheidet über den nächsten Schritt?",
+        "Zeige Kündigung und Zugang, Stand des Verfahrens, Anträge, belegte Fristen und entscheidenden Streitstoff. In der Berufung jede selbständig tragende Urteilsbegründung mit Angriff, Fundstelle aus der ersten Instanz und gegebenenfalls neuem Beleg verbinden.",
+        "Eine Kündigung oder einen Urteilsgrund auswählen und den zugehörigen Beleg, das Gegenargument und die betroffene Passage im Entwurf zeigen. Ein abweichender Zugang ist eine Variante; eine Zustellung des Urteils oder neue Tatsache bleibt gesondert zu prüfen.",
+        "Kündigung, Zugang oder Zustellung, Verfahrensrolle, Antrag, Urteilsseite, erstinstanzliche Fundstelle, angebotener Beweis, Fristgrundlage und Prüfstatus",
+        "die beauftragte Klage, Erwiderung, Berufungsbegründung oder begründete Entscheidungsvorlage",
+    ),
     "sozialversicherungspflicht-pruefer": (
         'Welche Tätigkeit war in welchem Zeitraum wie organisiert, und welche Versicherungs- oder Beitragsfolge ist belegt?',
         'Zeige bei komplexer Akte eine Tätigkeits- und Zeitmatrix: Person, Vertragspartner, tatsächlicher Arbeitsort, Statusindiz, Versicherungszweig, Bescheid und Beleg. Bei Auslandssachverhalten zuerst die anwendbare Rechtsordnung sichtbar machen.',
@@ -286,7 +293,13 @@ SERVICE = (
     "Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen."
 )
 
-RUNTIME = (
+DETAIL_REFERENCES = {
+    "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+    "compliance-abteilung-grosskonzern",
+    "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+}
+
+REFERENCE_RUNTIME = (
     "Die Arbeitsumgebung anhand des ausdrücklich bereitgestellten Systemkontexts und der tatsächlich verfügbaren Werkzeuge bestimmen. "
     "Aus Modellname, Dateiname oder Nutzervermutung keine Fähigkeiten ableiten. Wenn eingebettete Visualisierung, Artefakt, Canvas oder "
     "eine geeignete App verfügbar ist, deren dokumentierte Funktion nutzen und die fertige Ansicht tatsächlich anzeigen. "
@@ -296,6 +309,32 @@ RUNTIME = (
     "Eine lokale HTML-Datei nur erzeugen, wenn sie tatsächlich bereitgestellt oder geöffnet werden kann; nicht mit einem unbenutzbaren Codeblock enden. "
     "Ohne Werkzeuge im Text weiterarbeiten. Keine App, Speicherung, Prüfung oder Datei als erfolgt behaupten, die nicht ausgeführt wurde."
 )
+
+DEPTH = (
+    "Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die belegte Ausgangslage bleibt dabei dieselbe. "
+    "Eine kurze Übersicht hilft beim Einstieg; Haupttext, Fachvertiefungen und Belegteil dürfen so ausführlich wie nötig sein.\n\n"
+    "1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.\n"
+    "2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.\n"
+    "3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. "
+    "Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. "
+    "Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.\n"
+    "4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.\n"
+    "5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. "
+    "Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben."
+)
+
+RUNTIME = "\n\n".join((
+    "Wähle die Darstellung nach der Aufgabe und den tatsächlich verfügbaren Werkzeugen. Aus Modellname, Dateiname oder Nutzervermutung keine Fähigkeiten ableiten. Die erste fachliche Antwort nicht durch die Einrichtung verzögern.",
+    "1. Für längere Texte eine verfügbare Dokumentansicht öffnen, etwa Canvas oder ein bearbeitbares Dokumentartefakt. "
+    "Den Entwurf dort fortführen. Entscheidung, Belege und offene Fragen in einer separaten Arbeitsnotiz halten, soweit sie nicht zum Empfängertext gehören.\n"
+    "2. Für Filter, Vergleiche oder veränderbare Annahmen ein privates interaktives Artefakt oder eine nutzbare HTML-Vorschau erstellen, sofern die Umgebung das unterstützt. "
+    "Ein Text-Canvas oder eine statische Vorschau beweist keine ausführbare Interaktion. Vorhandene Fachanwendungen und geprüfte Berechnungen bevorzugen.\n"
+    "3. Wenn nur zugelassene Dateierzeugung verfügbar ist, bei erkennbarem Nutzen eine tatsächlich abrufbare, eigenständige HTML-Datei ohne externe Abhängigkeiten und ohne Netzabrufe liefern. "
+    "Fehlt die interaktive Oberfläche oder der Dateiweg, dieselbe Auswahl im Chat mit Belegkennungen, Tabelle und beschrifteten Szenarien ermöglichen. Ohne Werkzeuge im Text weiterarbeiten.",
+    "Für eine ausführbare Ansicht eine sinnvolle Auswahl mit den vorhandenen Belegen umsetzen: Ausgangsstand zeigen, Beleg öffnen oder seine Fundstelle ausweisen, Variante wählen, Wirkung und offene Prüfpunkte sehen, Übernahmetext anzeigen. "
+    "Bei einer Zahlenansicht Ausgangsstand und Variante mit einer Kontrollrechnung abgleichen. Anzeige, eine Hauptinteraktion und den Weg zurück in den Entwurf prüfen. "
+    "Ist eine Vorschau, Prüfung, Speicherung oder Übergabe nicht ausgeführt worden, diese auch nicht als erfolgt bezeichnen."
+))
 
 QUALITY = (
     "Belegte Werte, streitige Angaben, fehlende Daten und Szenarioannahmen sichtbar unterscheiden. Fehlend ist nicht null. "
@@ -358,7 +397,7 @@ def block(text: str, slug: str, *, kind: str = "workshop", profiles: dict | None
                 "behaupten; eine Auswahl erteilt keinen externen Auftrag."
             )
     else:
-        body = "\n\n".join((SERVICE, route_text(slug, entry["theme"], plain_labels=entry.get("plain_labels", False)), RUNTIME, QUALITY, CONTINUATION))
+        body = "\n\n".join((SERVICE, route_text(slug, entry["theme"], plain_labels=entry.get("plain_labels", False)), DEPTH, RUNTIME, QUALITY, CONTINUATION))
     # Ein einziges hinzugefügtes LF ist reversibel; Fachtext einschließlich Endzeilen bleibt bytegleich.
     result = original + "\n" + BEGIN + "\n" + heading + "\n\n" + body + "\n" + END + "\n"
     if kind == "skill" and entry.get("skill_max_bytes") is not None:
@@ -377,7 +416,8 @@ def reference(slug: str, entry: dict) -> str:
                "Deren tatsächliche Funktionen und Ausgabegrenzen gelten weiter. Keine zweite Anwendung und keinen fachlichen Chat-Ersatz erfinden. "
                "Wenn ein benötigtes Werkzeug fehlt, den konkreten Einrichtungsschritt erklären oder den ausdrücklich vorgesehenen Ersatzweg verwenden. "
                "Nur tatsächlich ausgeführte Verarbeitungsschritte und geprüfte Ausgaben bestätigen."
-               if entry["mode"] == "app" else RUNTIME)
+               if entry["mode"] == "app" else RUNTIME if slug in DETAIL_REFERENCES else REFERENCE_RUNTIME)
+    depth = "\n\n## 5. Längere Akten bearbeiten\n\n" + DEPTH if slug in DETAIL_REFERENCES and not app else ""
     return ("# Verständliche Arbeitsoberfläche\n\n" + app + SERVICE + "\n\n## 1. Fachliche Ansicht\n\n"
             + route_text(slug, entry["theme"], plain_labels=entry.get("plain_labels", False)) + "\n\n## 2. Verfügbare Fähigkeiten nutzen\n\n" + runtime
-            + "\n\n## 3. Belege und Bedienbarkeit\n\n" + QUALITY + "\n\n## 4. Den Auftrag abschließen\n\n" + CONTINUATION + "\n")
+            + "\n\n## 3. Belege und Bedienbarkeit\n\n" + QUALITY + "\n\n## 4. Den Auftrag abschließen\n\n" + CONTINUATION + depth + "\n")

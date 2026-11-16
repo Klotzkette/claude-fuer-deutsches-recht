@@ -27,6 +27,8 @@ Veröffentlichter Stand vom 15.11.2026: [Alle zehn Werkstätten als ZIP: Markdow
 
 Das Plugin behält seine elf auswählbaren Skills. Diese verweisen auf die sachlich passenden Werkstätten und laden nur den benötigten Text. Alle zehn Markdown-Dateien sind im Plugin enthalten. Die allgemeine Werkstatt und der Mini-Prompt bleiben eigenständige Downloads. Für einen umfassenden Vorgang beginnen Sie beim Hauptskill; für eine einzelne Frage genügt die betreffende Einzelwerkstatt.
 
+Wenn Sie den Gesamtband nutzen, wählen Sie zunächst die einschlägigen Kapitel aus. Bei längeren Entwürfen halten Sie Anspruch, Zahlungsschlüssel und offene Beweisfrage über die Abschnitte hinweg zusammen. Die [Anleitung zu Fallansichten und Dokumentartefakten](../../docs/werkstatt-visualisierung.md) zeigt, wie sich etwa eine Zeitachse oder ein Kredit- und Sicherheitenspiegel in ChatGPT oder Claude darstellen und für die Begründung weiterverwenden lässt.
+
 ## 3. Quellen und Grenzen
 
 Grundprüfung am 15. November 2026. Die Werkstatt zu § 130 wertet zusätzlich die am 16. November 2026 gelesenen Entscheidungsgründe IX ZR 65/25 aus. Die Quellenabschnitte nennen die tatsächlich gelesenen amtlichen Texte, die tragende Aussage und ihre Grenze. Ein alter unmittelbar einschlägiger Anker wird nicht durch eine nur scheinbar passende neue Entscheidung ersetzt. Insbesondere wird kein neuer, ungeprüfter Grundsatzfall zu § 136 oder § 137 behauptet. Bei späterer Mandatsbearbeitung müssen Normfassung und tragende Rechtsprechung erneut kontrolliert werden. Die Lernfälle sind fiktiv; ihre Ergebnisse sind keine Feststellungen zu einer realen Akte.

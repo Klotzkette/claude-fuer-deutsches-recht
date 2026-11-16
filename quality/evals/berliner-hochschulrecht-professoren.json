@@ -654,7 +654,7 @@
       "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert.",
       "16.10.2026: Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten."
     ],
-    "sha256": "8efbbda79b0bb1bf6b0dee557997460e41a146f9c125d68f210e0f0dfb4af99d",
+    "sha256": "82126efce09f99340888d08a61cb209569e9f1217dca4805cc1bf75dbf4fe601",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -697,8 +697,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-hauptproblem.md",
       "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",

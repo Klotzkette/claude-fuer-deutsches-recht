@@ -72,7 +72,7 @@
       "Verworfene Entwurfsbegründung von geltender Norm getrennt; Analogie als Entscheidungsregel mit Gegenfall und negativem Ergebnis ausformuliert.",
       "Redaktion 16.10.2026: Vertragsauslegung mit gemeinsamer Falschbezeichnung und Beweisgrenze konkretisiert. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "1811e96046e9dc0c90d95655f26ca8c172144989c5fd4c14f2e0e2683a0d1556"
+    "sha256": "18aa539278fef4317f37358a1742a2cbbaef053008911f9b286e35ee7d88e948"
   },
   "selection": {
     "positive": [
@@ -182,8 +182,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md"
     ],

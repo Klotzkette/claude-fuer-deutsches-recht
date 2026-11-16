@@ -119,7 +119,7 @@
       "IX ZB 55/04 auf ehemaligen Alleingesellschafter-Geschäftsführer und beschäftigungsbezogene Haftungsschulden begrenzt.",
       "Gläubiger statt Forderungspositionen gezählt; Regelinsolvenz nicht mit fehlender Restschuldbefreiung gleichgesetzt."
     ],
-    "sha256": "63bfe505b1a210c911e8023b62df772cc7208271bec3c030bad9150917f7606c"
+    "sha256": "ac2280ffc93dcf36d5ce393328b41837945d4debca5a2ae18905bc42aa4b4f24"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -150,8 +150,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md"
     ],

@@ -172,7 +172,7 @@
       "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Beschwerde, Statusfrage und konkreter Personalvorgang führen zum passenden Dokument; Pflegebelastung wird mit Ersatzbetreuung und Dienstbedarf verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "3430ea47fda67bb300e018f9eb75b2f7f513e9aec9ace679b367c9a77b921fda",
+    "sha256": "ca91ae9ea934ab3d00ca79f6613a56746d972b5f5db98f12e39935845aa25668",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
@@ -240,8 +240,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md"
     ],

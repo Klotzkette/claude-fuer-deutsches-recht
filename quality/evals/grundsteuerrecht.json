@@ -109,7 +109,7 @@
       "Amtlich angekündigte Landesmodellverfahren als Verfahrensbeobachtung führen.",
       "2026-11-16: Landesmodell, offene Rechtsfrage und eigenen Bescheid vergleichen. Die BFH-Terminmitteilung vom 11.11.2026 gibt einen Verkündungstermin an; sie entscheidet die Revisionen nicht. Konkrete Flächen- und Übernahmefehler daneben bearbeiten."
     ],
-    "sha256": "44876d731ecc05c77908d9cfe139c69434135f9da5c85978d536db4084b8fd24",
+    "sha256": "5133eeee8ff0455591982580f2cf750c9a156f07b9788c70149499819eed68e9",
     "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
   "prompt_editorial_review": {
@@ -228,8 +228,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "grundsteuerrecht/grundsteuerrecht-werkstatt.md"
     ],

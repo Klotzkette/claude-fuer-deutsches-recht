@@ -67,7 +67,7 @@
       "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "fb8c413a9465ad57e6fc94a0a4ed9d7bb7075294ec55e2497caf8fbfaf8aa8e9"
+    "sha256": "bfd6330a31764ab42b094bb7e42135f3cd5a01f6987a662227578696eee11cbc"
   },
   "selection": {
     "positive": [
@@ -170,8 +170,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "corporate-kanzlei/corporate-kanzlei-werkstatt.md"
     ],

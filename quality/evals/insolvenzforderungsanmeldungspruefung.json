@@ -88,7 +88,7 @@
       "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis.",
       "Einstiegsredaktion 16.10.2026: Betrag, Rang und Dokumentziel früh benannt; fehlenden Beleg von unwirksamer Anmeldung und rückwirkender Heilung unterschieden."
     ],
-    "sha256": "015d703ad3aa22dad3ab7ca8d50289c2fa5b512d0ed0b7f9e1d05f1348f936ac"
+    "sha256": "d3d36ed048b8c9507fa78e5c4f3903cee1a144a7f01db03e39886cc1789bec5e"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -167,8 +167,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-werkstatt.md"
     ],

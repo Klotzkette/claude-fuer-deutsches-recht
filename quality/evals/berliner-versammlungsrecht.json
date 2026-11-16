@@ -862,7 +862,7 @@
       "Berliner Sanktionen §§ 26/27, Datenkategorien §§ 18/30 und Kostenregel § 29 ausdrücklich getrennt.",
       "16.10.2026: Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen."
     ],
-    "sha256": "925ce3fe1f6d34fe6158dfee8a7651f33fbf8392e9e22de47f26ccef9969105e",
+    "sha256": "9c1435e0f5c61c3c7fbe6f3ab0bc2a4c4c7f2ca44850f33e0bd28295b730b68f",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -905,8 +905,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md",
       "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",

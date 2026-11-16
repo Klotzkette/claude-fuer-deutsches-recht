@@ -85,7 +85,7 @@
       "Schlussrechnung bei Aufhebung von Endabrechnung nach abgeschlossenem Zahlungsverkehr unterscheiden; weitere Zahlungsvorgänge nachführen.",
       "Mieten, gebundene Gelder und Rechnungslegung als Arbeitsgegenstand. VIII ZR 336/08 früh für die Wohnraumbarkaution, mit betragsbegrenztem Zurückbehaltungsrecht und ohne allgemeinen Insolvenzrang."
     ],
-    "sha256": "a9bdee52c32a53c65844d7b1884d922404c20acfd25e77e221e8bc7c3e49021f",
+    "sha256": "113e1398027ec1c917cc976978307ffddee0e4f35db407f3b65c0cb943427595",
     "method": "desk_review",
     "reviewed_on": "2026-10-16"
   },
@@ -199,8 +199,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "zwangsverwaltung-zvg/zwangsverwaltung-zvg-werkstatt.md"
     ],

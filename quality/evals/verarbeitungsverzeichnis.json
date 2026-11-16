@@ -270,7 +270,7 @@
       "Rollenfelder, Planungsstatus und Grenzen des tatsächlichen Helfers mit den Referenzen abgeglichen.",
       "Technische Entwertung jeder Sachänderung von verhältnismäßiger fachlicher Wiederprüfung unterschieden; vier Statuswerte erklärt."
     ],
-    "sha256": "171b2ea5f3b8ef4b4c405f9c7651117f959e1513b52bb8a95326e00b6548f0c7"
+    "sha256": "a37ad7449ea6543d011aa086b4f7d896ae44a2d4d934999c8715c4f9e8e60389"
   },
   "focus_review": {
     "method": "desk_review",
@@ -333,8 +333,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "verarbeitungsverzeichnis/skills/verarbeitungsverzeichnis-steuern/SKILL.md",
       "verarbeitungsverzeichnis/verarbeitungsverzeichnis-hauptproblem.md",

@@ -72,7 +72,7 @@
       "Rechenbeispiel mit geänderter Teilgruppe, Sowieso-Gegenargument, digitale Ausnahmefälle und zeitlich begrenzter Übergangsprozess bis zur Textkorrektur ausgearbeitet.",
       "Redaktion 16.10.2026: Methodische Aufwandsermittlung und politische Zielkontrolle früh getrennt; kein unpassender Universal-Gerichtsanker. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "44742a7953b886fc73dbbf5661ec0a43b717a1118e30429aee8634a3db00416d"
+    "sha256": "74205e2b5782d9c48dc825783ef83d6140373f5a771eda799d81a4b40c678a43"
   },
   "selection": {
     "positive": [
@@ -169,8 +169,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "normenkontrollrat-nkr/normenkontrollrat-nkr-werkstatt.md"
     ],

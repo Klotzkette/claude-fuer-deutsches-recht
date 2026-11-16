@@ -638,7 +638,7 @@
       "§ 51b GmbHG verweist nicht auf § 132 Abs. 2 AktG: keine erfundene Zweiwochenfrist. Hauptsache-/Eilanträge, Gegenpartei, Prozessvertretung, Vollziehung und Geheimnisschutz konkret und differenziert.",
       "Kein materieller Fehler im geprüften Text festgestellt; vollständiger Inhalt und bestehendes MD/TXT-Paar unverändert erhalten. Kein Anspruch auf neu durchgeführte Live-Modellprobe oder vollständige externe Rechtsprechungserfassung."
     ],
-    "sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
+    "sha256": "8ff6cee4505224d60344d8b8dff9517f4ebca91f661bd9648a85a3b5345b248b",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
@@ -2139,12 +2139,21 @@
     "evidence": {
       "path": "quality/plugin-consolidation/2026-11-15/navigation-reviews/gesellschafterstreit.json",
       "sha256": "7e714b9076bbe12602678f1a78716a407e9bfe1ff14028347d6bb26d05deadb7"
+    },
+    "visual_followups": {
+      "gesellschafterstreit/gesellschafterstreit-werkstatt.md": {
+        "method": "visual_block_only",
+        "date": "2026-11-16",
+        "previous_sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
+        "sha256": "8ff6cee4505224d60344d8b8dff9517f4ebca91f661bd9648a85a3b5345b248b",
+        "body_sha256": "4e892d66c2eb0370349bf423156279fb136c3d5feb62914b3f97145bc973bce6"
+      }
     }
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gesellschafterstreit/gesellschafterstreit-hauptproblem.md",
       "gesellschafterstreit/gesellschafterstreit-werkstatt.md",

@@ -91,7 +91,7 @@
       "Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung.",
       "Redaktion 16.10.2026: Fremdgeldabgrenzung samt Grenze strafrechtlicher Schlüsse früh erklärt; doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "817accd51c548a942cd44e2f03076b50c9aee14e7beb37ec51f0fa7ab79a260e"
+    "sha256": "c9fd7673434b1193a613848eac2e2a6f41aff2e5385b03e32398ecb52f01f207"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -134,8 +134,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "kanzlei-management/kanzlei-management-werkstatt.md"
     ],

@@ -455,12 +455,12 @@
       "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Mini mit klarem Zweck und frühen Eigenbedarfsankern unverändert belassen; Werkstatt benennt Prüfung und Antwortdokument vor dem Ablauf. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "62c0a4c8cb1b51f191f0458194ed4fe97b3ea0765c3f2f9d796e16b506deb985"
+    "sha256": "91496629b382796bc2669fc5ee8e3195be22fe09420774a0e2e7b0aad75c7fe9"
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-werkstatt.md"
     ],

@@ -113,7 +113,7 @@
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: eigenständige Warteentscheidung und Kausalität; PM-Quellengrenze.",
       "Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten."
     ],
-    "sha256": "3450a77393f9425cec0fbc8b2f8e111d24ee040b1103258a5bbbee93fcf0916a"
+    "sha256": "46bacd2256b659f80738adf8e3db2eaaa9adfd3196c6ced13eab6d42812afe2a"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -257,8 +257,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fluggastrechte/fluggastrechte-werkstatt.md"
     ],

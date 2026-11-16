@@ -179,10 +179,43 @@ def reviewed_profiles(root: Path, outputs: dict[Path, bytes]) -> dict[Path, byte
                 advance(profile[field], name, (root / name).resolve())
         for item in profile.get("individual_skill_review", []):
             advance(item, "sha256", (root / item["path"]).resolve(), allow_base_review=True)
+        file_review = profile.get("file_review_status", {})
+        if file_review.get("status") == "reviewed":
+            evidence = file_review["evidence"]
+            evidence_bytes = output_path(root, root / evidence["path"]).read_bytes()
+            if evidence["sha256"] != sha(evidence_bytes):
+                raise ValueError(f"Historischer Nachprüfungsbeleg verändert: {slug}")
+            followups = dict(file_review.get("visual_followups", {}))
+            for row in json.loads(evidence_bytes)["files"]:
+                target = output_path(root, root / row["path"])
+                if target not in outputs or row["path"].endswith("/FACHINHALT.md"):
+                    continue
+                current, proposed = target.read_bytes(), outputs[target]
+                if current == proposed:
+                    continue
+                prior = followups.get(row["path"], {})
+                body = visual.remove_block(current.decode("utf-8"))
+                old_bound = sha(current) == row["reviewed_sha256"] or (
+                    prior.get("previous_sha256") == row["reviewed_sha256"]
+                    and prior.get("sha256") == sha(current)
+                    and prior.get("body_sha256") == sha(body.encode("utf-8"))
+                )
+                if (not old_bound or visual.BEGIN.encode("utf-8") not in proposed
+                        or body != visual.remove_block(proposed.decode("utf-8"))):
+                    pending.append(row["path"])
+                    continue
+                followups[row["path"]] = {
+                    "method": "visual_block_only", "date": "2026-11-16",
+                    "previous_sha256": row["reviewed_sha256"], "sha256": sha(proposed),
+                    "body_sha256": sha(body.encode("utf-8")),
+                }
+                affected.append(row["path"])
+            if followups:
+                file_review["visual_followups"] = followups
         if affected:
             profile["visual_workflow_review"] = {
-                "method": "desk_review", "date": "2026-11-13",
-                "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+                "method": "desk_review", "date": "2026-11-16",
+                "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
                 "files": sorted(set(affected) | set(profile.get("visual_workflow_review", {}).get("files", []))),
                 "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
                 "pending_prior_changes": sorted(set(pending)),

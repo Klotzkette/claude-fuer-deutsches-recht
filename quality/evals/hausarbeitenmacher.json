@@ -29,7 +29,7 @@
       "Ergebnisabhängigkeiten, geschlossener Sachverhalt, echte Streitfrage, historische Quellenklassifikation und vollständiges Feedback ohne Fremdleistung.",
       "Einstiegsredaktion 16.10.2026: Textkommentar und eigene Überarbeitung statt abgabefähiger Fremdleistung präzisiert; aufgabenbezogene Quellenbasis statt beliebigen Urteilsvorspanns."
     ],
-    "sha256": "3eab63eeae00b0810caf6c3fe249c1e816b001f319e98203ec4933a35d997f97"
+    "sha256": "ce87974c9f0d594ef701af40558eaf764f6be7bc262c1412ba37c897062af7e4"
   },
   "selection": {
     "positive": [
@@ -157,8 +157,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "hausarbeitenmacher/hausarbeitenmacher-werkstatt.md"
     ],

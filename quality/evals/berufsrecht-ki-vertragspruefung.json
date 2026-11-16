@@ -186,7 +186,7 @@
       "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe.",
       "16.10.2026: Konkreten Vertrags- und Datenflussentscheid statt allgemeiner KI-Metaregeln eröffnet."
     ],
-    "sha256": "cd1168ab9533f30faeb66902b38edffbf48f282ef87ed0c0aa20f89ac9f17187",
+    "sha256": "e63e813e52e65bec1dd1f757da6bfa1d84ff156676ae8528e2039a9bfd538584",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -262,8 +262,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-werkstatt.md"
     ],

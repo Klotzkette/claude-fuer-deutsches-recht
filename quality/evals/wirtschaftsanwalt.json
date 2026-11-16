@@ -552,7 +552,7 @@
       "Vollständiger Fachinhalt, zehn Skills und Fachrouten bleiben erhalten; kein Live-Modelllauf behauptet.",
       "Aktualitätssuche ergänzt BAG, Urteil vom 07.05.2026, 2 AZR 184/25: amtliche Gründe gelesen; auch ein vor dem Einwurf erzeugter Auslieferungsbeleg genügte im festgestellten Scan-Verfahren nicht. Frühere/offene und spätere abweichende Verfahren sowie Zeugenbeweis ausdrücklich abgegrenzt."
     ],
-    "sha256": "d1609f015791b6fbd2286225f9c30b8b7842f9271aa4e71d8460b72b05be24c2",
+    "sha256": "fc0baf8d729660a29000e4946cc22e704c63dd0c7c91a765638a26853364897e",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
@@ -1202,12 +1202,21 @@
     "evidence": {
       "path": "quality/plugin-consolidation/2026-11-15/navigation-reviews/wirtschaftsanwalt.json",
       "sha256": "562db2cc1f3e1110b13c21c82a3bcfbdfe23455a4e2079750daba3da08efe181"
+    },
+    "visual_followups": {
+      "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md": {
+        "method": "visual_block_only",
+        "date": "2026-11-16",
+        "previous_sha256": "d1609f015791b6fbd2286225f9c30b8b7842f9271aa4e71d8460b72b05be24c2",
+        "sha256": "fc0baf8d729660a29000e4946cc22e704c63dd0c7c91a765638a26853364897e",
+        "body_sha256": "27f7b2e5ad835ccf96c6624d89cc8772f408d842f4aa7f43e358b41a79faf78d"
+      }
     }
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
       "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md",

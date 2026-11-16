@@ -142,7 +142,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Leistungsablehnung und fertige Erwiderung stehen vor der Fachübersicht; berufliche Teilhandlungen werden im Gesamtvorgang bewertet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Konkreten AHB-Ausschluss und Rechtsschutzdeckung nach IV ZR 246/25 und IV ZR 155/25 differenzieren."
     ],
-    "sha256": "f148bda0cdbf510fc256a95514e967e0797113e1b74255c91fa9bf5d7cad4bc8",
+    "sha256": "4dcd5d860ab10e54d3894440197532392e75dbae23608fc023bafcd1d0f11df2",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -333,8 +333,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
       "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md"

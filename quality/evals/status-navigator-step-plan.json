@@ -38,7 +38,7 @@
       "Eine nur auf den Preis bezogene Zustimmung verändert diesen Freigabestand und abhängige Aufgaben, nicht automatisch Anlagen oder Haftungsklauseln.",
       "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden."
     ],
-    "sha256": "5f568b3e64de4fb5f9064c3deaf03e8707bfd21935835a6f1ea337a4b6950722",
+    "sha256": "c486bad66158c1ff86c0ac8a2d30252e5ee4cb60006b37874a8467e1b9756c9e",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -139,8 +139,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "status-navigator-step-plan/status-navigator-step-plan-werkstatt.md"
     ],

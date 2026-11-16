@@ -242,7 +242,7 @@
       "Einlegung und Begründung der Revision mit eigenständigen Auslösern; bestimmte Anträge und Freigabegrenzen statt Fehlerliste.",
       "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
     ],
-    "sha256": "3bf69cc275b75ff93f92b4999b86dc4d660a98a49f2f8f6935918f3b07651a2d",
+    "sha256": "0d79f37d1d64dcb5b6124bcc0e6ae46488ce40086fac6007b23e4f0dd7cdcd18",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -296,8 +296,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "strafzumessung/strafzumessung-werkstatt.md"
     ],

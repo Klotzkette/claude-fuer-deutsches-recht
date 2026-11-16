@@ -60,7 +60,7 @@
       "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege.",
       "2026-10-16, redaktioneller Einstiegsreview: Vollziehbaren Beschluss als Ziel; Zugewinnanker von Kindschaftsverfahren und allgemeiner Amtsermittlung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "a39f3c795a1d03f6a3b7c2b0590b583fb1cec705b34da60ac195059d1cb37de9",
+    "sha256": "d8da4f0f9fb31b8acfbbfb17aff35ebe245a544ba9c46b36eaaee362ec410521",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -167,8 +167,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-familiengericht/richter-familiengericht-werkstatt.md"
     ],

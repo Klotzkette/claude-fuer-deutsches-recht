@@ -411,7 +411,7 @@
       "Rückübertragung, parallele Fassungen, auffindbare Angaben und Aufgabenprüfung mit tatsächlichen Lesern.",
       "Einstiegsredaktion 16.10.2026: Lesefassung, Erklärung und Brief klar unterschieden; belegte Ausgangsaussage statt zusätzlicher Rechtsbehauptung als Maßstab gesetzt."
     ],
-    "sha256": "413dee44fc9768704662057a41685ed634b201bee66116d7f40131a152d67226"
+    "sha256": "a913d903d28c240d3289aeb5edcf0efb09c0cdcf75beeb23489a5333bf3fa7a5"
   },
   "source_audit_2026_10_01": {
     "checked_on": "2026-10-01",
@@ -472,8 +472,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "jura-in-einfacher-sprache/jura-in-einfacher-sprache-werkstatt.md"
     ],

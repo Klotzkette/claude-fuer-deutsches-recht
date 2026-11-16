@@ -178,7 +178,7 @@
       "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt.",
       "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
     ],
-    "sha256": "06e622084fe1a35680c0eefde15de38afb836bb594d472c0223313ba9ee89eef",
+    "sha256": "6cd44698260539763cb4b59377cddde20f05d7e2977d3dcad3bc304e08a130c6",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -647,8 +647,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md",
       "zugewinnausgleich/zugewinnausgleich-hauptproblem.md",

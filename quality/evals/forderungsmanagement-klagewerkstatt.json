@@ -59,7 +59,7 @@
       "Einstiegsredaktion 16.10.2026: Offenen Saldo als Ergebnis konkretisiert; Verzug und Kosten mit einseitigem Rechnungsziel und dessen Ausnahmen früh verbunden.",
       "Bei Kreditkäufer und Verbraucher Abtretung, Verfahrensrecht, Äquivalenz und Effektivität erfassen. Verjährungseinrede und Kontrolle missbräuchlicher Vertragsklauseln auseinanderhalten."
     ],
-    "sha256": "f5a5b0f4f289e40f0d42f3cffb0de4b3ba9e461aafe4ce24420eda96ae39041f"
+    "sha256": "cb928414d4ec98de3147b7d791a8e9c2c50c772f4d2512750348f6275c35eda6"
   },
   "selection": {
     "positive": [
@@ -198,8 +198,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md"
     ],

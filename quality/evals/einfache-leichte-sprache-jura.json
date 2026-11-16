@@ -83,7 +83,7 @@
       "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Ausgangstext, Zielgruppe und verständliche Neufassung sind sofort erkennbar; sprachliche Bearbeitung wird nicht zur ungefragten materiellen Rechtsprüfung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "30d390f7dfc88f48e7d2209fdfbece421d01df7da9ccab8b78bdd357ed883bac"
+    "sha256": "d19f65eb3fef01531a4773e822b60481c872e0cc987032705464dcc852d8e40a"
   },
   "selection": {
     "positive": [
@@ -200,8 +200,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md"
     ],

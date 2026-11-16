@@ -67,7 +67,7 @@
       "Statische Endstände, getrennte Teilnehmerfassung und ehrliche Werkzeuggrenzen vorsehen.",
       "Einstiegsredaktion 16.10.2026: Folien und ausformulierte Sprechernotizen als Ergebnis benannt; Quellenbasis und Volltextgrenze ohne themenfremden Gerichtsanker erläutert."
     ],
-    "sha256": "d238b4a61c7e79e24cd294e3696a694a244551866ffd8d11b87fef1bc2edea11"
+    "sha256": "e1ac9d4f27803d5f981a19950c87ef18ff30b2b9965d38b64ccadd836b87425e"
   },
   "selection": {
     "positive": [
@@ -583,8 +583,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "juristische-praesentationen/juristische-praesentationen-werkstatt.md"
     ],

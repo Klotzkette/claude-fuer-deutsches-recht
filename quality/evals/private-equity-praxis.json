@@ -99,7 +99,7 @@
       "2026-09-23: Finanzschuld/Betriebskapital/Leakage, anspruchsberechtigte Partei, Einwandfrist, Sachverständigenzuständigkeit, Drittanspruchsverfahren und tagesbezogener Funds Flow konkretisiert.",
       "2026-10-16, redaktioneller Einstiegsreview: Kaufpreis und Erlösverteilung eröffnet; Rückerwerbsmodell aus KG-Managementfall nicht als pauschale Leaver-Freigabe dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "590fb4bdace55965f8bde921386e616b620beff9043597f6f52b1c5df1a7ea4e",
+    "sha256": "2f8e35515ac9b73252e14a020a2e43c03a3568c8fffcb869b433197faabcd155",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -172,8 +172,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "private-equity-praxis/private-equity-praxis-werkstatt.md"
     ],

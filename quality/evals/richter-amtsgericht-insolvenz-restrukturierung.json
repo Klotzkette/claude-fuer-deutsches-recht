@@ -108,7 +108,7 @@
       "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
       "2026-10-16, redaktioneller Einstiegsreview: Antrag, Eröffnungsgrund und Sicherung am gerichtlichen Produkt ausgerichtet; Statusbewertung nicht zur Zulässigkeitsregel verallgemeinert. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8bd02ec2d0eb865a0c2aa80bf94c2506ae8c4f899b91c94c58d23f155760e895",
+    "sha256": "fb7233f09938e67a429ac67892012a48116e2ad8825bb44f81a75889e3212e35",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -161,8 +161,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md"
     ],

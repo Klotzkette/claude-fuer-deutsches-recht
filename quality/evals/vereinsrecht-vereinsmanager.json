@@ -129,7 +129,7 @@
       "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess.",
       "Vereinsbeschluss und Einladung bleiben Arbeitsziel; II ZR 111/05 mit Tagesordnungspräzision, Satzungsfrist und begrenzter Außenwirkung früh eingeordnet."
     ],
-    "sha256": "ff8049f04fb36cdcc5883b64f117bfbba1d8b2e2161565d2144a20d6cfb18c82",
+    "sha256": "7a70b53fbf0232c142a009a1bb9bac31df761a1a27e8aebf6b89c42522f13896",
     "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
@@ -164,8 +164,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-werkstatt.md"
     ],

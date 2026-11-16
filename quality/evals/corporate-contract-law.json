@@ -478,7 +478,7 @@
     "changes": [
       "betroffene vollständige Absätze zu Abnahme, Vertragsstrafe, Exit, Sicherheiten, AGB, DSGVO, internationalen Quellen und Quellenabschluss; keine vollständige neue Gesamtlektüre behauptet"
     ],
-    "sha256": "1b2724c2ca22d32c86dc5dd765f4208ec584ad6ed921bb0e205b39e60f6ba322",
+    "sha256": "e7a648c08e69bcf7f71d08e3533d33914814146a2713c415fc7f4794b2ff4723",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": false,
@@ -1286,8 +1286,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "corporate-contract-law/corporate-contract-law-hauptproblem.md",
       "corporate-contract-law/corporate-contract-law-werkstatt.md",

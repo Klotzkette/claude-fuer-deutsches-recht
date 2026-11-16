@@ -97,7 +97,7 @@
       "Fehlender Preisvortrag führt zum bestimmten Hinweis; Antwort verändert Schlüssigkeit und Beweisbedarf. Kistenzuordnung, Inhalt und richterliche Überzeugung getrennt.",
       "Zahlungsbeleg verändert Rechnung und abhängige Nebenentscheidungen, ersetzt aber keine Rücknahme- oder Erledigungserklärung."
     ],
-    "sha256": "5d9eb2fc9068a62f0580c891a49e10883cf61ac3d6585bdc2241ad7eb41d945d"
+    "sha256": "a6d2aea31210cd47416398e90ae91e40d2f6511bf96a883a06f8484fcaabed32"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -153,8 +153,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-werkstatt.md"
     ],

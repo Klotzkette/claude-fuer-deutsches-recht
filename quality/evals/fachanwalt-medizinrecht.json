@@ -163,7 +163,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 09.03.2026, VI ZR 335/24"
     ],
-    "sha256": "5bf0877b4a20911d5307844b24f90b0b099d7c95a48d4aa8dac1df123f078157",
+    "sha256": "1f8987681f421a93432bcb9c38155355382a035a108f7553c7922c8d175c676a",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -399,8 +399,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-medizinrecht/fachanwalt-medizinrecht-hauptproblem.md",
       "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md"

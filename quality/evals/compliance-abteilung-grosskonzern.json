@@ -15,16 +15,17 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
+    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten. Ergänzung zu ME-36 am 10.11.2026 am amtlichen Text und in der betroffenen Promptpassage geprüft. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026. Die am 16.11.2026 ergänzten Fachpassagen wurden anhand der bezeichneten Originalquellen und der konkreten Arbeitsschritte geprüft; keine erneute Verifikation aller Altquellen und kein Live-Modelltest.",
     "changes": [
       "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
       "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
       "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen",
       "Kundenauskunft mit Datenkopie, Drittinteressen und Kontrolle KI-gestützter Schwärzungen ergänzt",
       "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry.",
-      "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen."
+      "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+      "Kundenauskunft: gemischte Fundstellen einzeln prüfen, Auskunft und Datenkopie erstellen, nachweisbaren Missbrauch und mögliche Haftung getrennt behandeln."
     ],
-    "sha256": "dbc0b98fd48c1c5d01295931e85115ac53afdfb4c3633409076ec2916ea6ef2e"
+    "sha256": "6a5ffc2aa4b3b8668a54eeeb374d0ae75ceddcf1df3a7b19b3f38060b6d9795d"
   },
   "sources": [
     {
@@ -254,6 +255,12 @@
       "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
       "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 79–89, 195–201, 219–225, 240–245, 300–307 und Tenor",
       "sha256": "da648c64034e32dd8f68973bdf03888d3e82b6f5a5b44de673feffeef0f0fa7d"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=333253&dir=&docid=310067&doclang=DE&mode=req&occ=first&pageIndex=0&part=1&text=",
+      "checked_on": "2026-11-16",
+      "supports": "EuGH, Urteil vom 19.03.2026, C-526/24, Rn. 35–45 und 55–67: nachgewiesener Missbrauch auch beim ersten Antrag möglich; bei Art. 82 DSGVO Verstoß, Schaden und Kausalität unterscheiden.",
+      "verification_status": "Amtliche Originalfundstelle und bezeichnete Passagen geprüft."
     }
   ],
   "selection": {

@@ -72,7 +72,7 @@
       "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief.",
       "16.10.2026: Herausgabe und Mandatsübergabe als konkrete Produkte; Eingabedaten von Arbeitsergebnissen getrennt."
     ],
-    "sha256": "6b8b19648fe6d383525fdb761b1fe629c37ddaa5651ab75395f3fbb07fd88fb3",
+    "sha256": "4656c7e9cf6e2d1353bfc9b66659f85c4e526bde6aed855df52d5d3d95289bcd",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -183,8 +183,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md"
     ],

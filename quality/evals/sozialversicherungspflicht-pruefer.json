@@ -674,7 +674,7 @@
       "Visualisierung fachlich auf Tätigkeits-/Zeitmatrix und Versicherungszweige umgestellt; zwölf bestehende Fallakten verlinkt, keine Fallakte verändert.",
       "Frühere Quellenvermerke und Rechtsprechungsgrenzen bleiben historisch datiert; gezielt gelesene zusätzliche Normen und Verwaltungshinweise sind gesondert ausgewiesen."
     ],
-    "sha256": "717ca34d0b16aba4e7611ff391394fdb45a632010bdbe1c0e7c63cb48e2f7df9",
+    "sha256": "f03a8bdcedd3fdff49c4a8b5f06fb49b04768f60efa30bc75717a2e3a4b8f5fa",
     "reviewed_on": "2026-11-15",
     "method": "desk_review",
     "review_scope": "Mini vollständig gelesen; Werkstatt-Einstieg, geänderte Passagen, vier ergänzte Fachabschnitte, Abschluss und Visualisierung geprüft. Unveränderter bisheriger Fachhauptteil und übernommene Fachbibliothek nicht erneut vollumfänglich rechtlich verifiziert."
@@ -715,8 +715,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-15",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "sozialversicherungspflicht-pruefer/references/arbeitsoberflaeche-und-visualisierung.md",
       "sozialversicherungspflicht-pruefer/skills/sozialversicherungspflicht-pruefen/SKILL.md",
@@ -908,7 +908,7 @@
   "reviewed_file_hashes": {
     "sozialversicherungspflicht-pruefer/README.md": "c69c6051c768111ab5c86e20b382fb64d57446646ae10ca4b735b33875ad29ac",
     "sozialversicherungspflicht-pruefer/FACHMODULE.md": "abe99ecd59bdcbcdf7527e622b9b5f5c0133ed1741ea1f07e5754980d0571765",
-    "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md": "717ca34d0b16aba4e7611ff391394fdb45a632010bdbe1c0e7c63cb48e2f7df9",
+    "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md": "f03a8bdcedd3fdff49c4a8b5f06fb49b04768f60efa30bc75717a2e3a4b8f5fa",
     "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-schnellstart.md": "0b37b41d30394570d11c43d29ea4ab20708a9ba408db727554bec8cfc59d7ff5",
     "sozialversicherungspflicht-pruefer/references/ergaenzende-statusfragen.md": "2f25f62009bbe12bf862b6a3af71045bf58ef48debf1b78070632fbe54d8f72a",
     "sozialversicherungspflicht-pruefer/references/arbeitsoberflaeche-und-visualisierung.md": "c5c7c458fb57c6e0953659d029d851d7cf20fc3b23a89bc8313d4d91e6e36244"

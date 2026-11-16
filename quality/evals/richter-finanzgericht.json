@@ -71,7 +71,7 @@
       "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar.",
       "2026-10-16, redaktioneller Einstiegsreview: Steuerbetrag und Entscheidungsentwurf vor Beispielen; AdV-Maßstab nicht als materielles Steuerrecht verallgemeinert. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "c41c671cde8563b300c4c63ba839ff21161037fe1c2d3cf2f67941deb864da4a",
+    "sha256": "5392a7d0a9697106bbb4d4a9f7859cbac31d8ee2f6b927a915fca6cb382d18c6",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -223,8 +223,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md"
     ],

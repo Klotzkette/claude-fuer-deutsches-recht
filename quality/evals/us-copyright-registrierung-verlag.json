@@ -99,7 +99,7 @@
       "Alte und neue Werkbeiträge, Übertragungsurkunde und tatsächliche Ausgabe bestimmen Claim und Deposit; historische Circular 14 ausdrücklich von Compendium-Praxis getrennt.",
       "Office-Action-Frist aus dem konkreten Schreiben, Nachreichung und Zertifikat führen zu geänderter Antwort und getrennter Bewertung von Sections 410(d), 411(a) und 412."
     ],
-    "sha256": "45739659d110000d64871bae11f68bab9ab573041fb9b902b371a622eb445de0"
+    "sha256": "862d2c6062d40f1da8eccb4463c5101bd3a0d5257d369e6e254537f8b15183b6"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -140,8 +140,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-werkstatt.md"
     ],

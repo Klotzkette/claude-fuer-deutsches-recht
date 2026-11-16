@@ -312,7 +312,7 @@
       "Hauptüberschrift und 25 dezimale Kapitel in eindeutige Markdown-Hierarchie gesetzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Prüfungsbericht, Vertragsklausel und Transaktionsentscheidung werden konkret benannt; Betriebsübergang und Offenlegung sind eng an ihren jeweiligen Fall gebunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "e38eb457dbd422f720e25c35cdb5c7e8269143b81acbb74474a476ce6be106c6"
+    "sha256": "b991c6b2a174966bbc0ff357a2a0a687dda73b607377489aba103851e86bfcb0"
   },
   "focus_review": {
     "method": "desk_review",
@@ -375,8 +375,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "due-diligence/due-diligence-hauptproblem.md",
       "due-diligence/due-diligence-werkstatt.md",

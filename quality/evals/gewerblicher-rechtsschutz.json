@@ -52,7 +52,7 @@
       "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte.",
       "Einstiegsredaktion 16.10.2026: Vertriebsfrage statt Portfolioaufnahme; Originalware, territoriale Erschöpfung und mögliche spätere Zustimmung differenziert."
     ],
-    "sha256": "0d9f1b5054899a72078e701ccd71532e5b1f8679edff2ad763d657f1442cced7"
+    "sha256": "5fed574d3705d7f031a8a761d7e7c644e04d4901a0b0761d73d86beb79a6e8a8"
   },
   "selection": {
     "positive": [
@@ -176,8 +176,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-werkstatt.md"
     ],

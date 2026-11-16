@@ -141,7 +141,7 @@
       "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Gerichtswahl, Sprache und beauftragtes Prozessdokument ersetzen abstrakte Produktbeschreibung; Inkreal wird nur für den Auslandsbezug eingesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b5d08435c8dc75ced312b414fb40b1ccf7f1a37e96355c6e37c30e0f795a6b9b"
+    "sha256": "b1d62597146a4ab584ceacf624e4c2b638da890f09c6ce5458e8666549070749"
   },
   "selection": {
     "positive": [
@@ -264,8 +264,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md"
     ],

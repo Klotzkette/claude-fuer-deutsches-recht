@@ -41,7 +41,7 @@
       "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage.",
       "Einstiegsredaktion 16.10.2026: Passagenbezogenen Zugang und konkrete Empfängertexte vorangestellt; institutionellen Aufwand und fortbestehenden Geheimnisschutz zusammen erläutert."
     ],
-    "sha256": "091fd3c07cbe409873f70008349e190f064826c2105558060acf2e2580a3ee73"
+    "sha256": "cbf4f6f4172e862bdebfe01558338db5bfe4fc81f21bf1494b258cfcbdb9628d"
   },
   "selection": {
     "positive": [
@@ -177,8 +177,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md"
     ],

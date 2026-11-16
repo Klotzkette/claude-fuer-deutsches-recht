@@ -384,7 +384,7 @@
       "Elf amtliche Originalentscheidungen und zwei sekundär abgeglichene BGH-Beschlüsse transparent unterschieden.",
       "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 09.09.2026, AK 46/26; BGH, Beschluss vom 05.02.2026, StB 3/26"
     ],
-    "sha256": "fe96e9c6d4ab26cdbe95cd30480ac15372df2c639669c2378614beb2d33afb24"
+    "sha256": "fc101523d3b25a076ca55903a009ba7fc5cd08a263b4ff19c877e3820e53f666"
   },
   "prompt_workflow_review": {
     "date": "2026-10-16",
@@ -614,8 +614,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "untersuchungshaft/untersuchungshaft-werkstatt.md"
     ],

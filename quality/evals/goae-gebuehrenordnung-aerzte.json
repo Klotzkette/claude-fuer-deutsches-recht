@@ -88,7 +88,7 @@
       "Rechnungsversionen, tatsächlich geleistete Zahlungen, patientenbezogene Faktorbegründung, Analogbewertung und Trennung von Honorar und Versicherung.",
       "Einstiegsredaktion 16.10.2026: Leistungsnachweis, Faktor und Betrag zum Einstieg verbunden; Schwellenwerturteil nur mit dokumentierter Leitsatz-Prüftiefe aufgenommen."
     ],
-    "sha256": "3bc87f3600cd0f701fac4147d2a8595546e4fe915f986967ccc1bdc192fb63bd"
+    "sha256": "2a92d46d7ea9f72be2c72a35ce3a7ab7d72591318dc99b9b1d75f55664d37009"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -188,8 +188,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md"
     ],

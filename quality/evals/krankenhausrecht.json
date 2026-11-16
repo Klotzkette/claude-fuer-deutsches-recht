@@ -90,7 +90,7 @@
       "Planungsnachweise nach Standort und Zeitpunkt, Bewilligung gegenüber Bauzahlungsplan, Kostenüberleitung und konkrete MD-Kürzungsgründe vertieft.",
       "Redaktion 16.10.2026: Versorgungsvertrag und Planaufnahme bereits im Einstieg unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "5cb21a487e3f97c5ab86ce23702ef125ea6b8fc879e82dbcf16190503d077e5b",
+    "sha256": "ff794fe3f9de00d9e26f107243e3b689da21a7577b4c5391b35a6e861e5ad736",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -152,8 +152,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "krankenhausrecht/krankenhausrecht-werkstatt.md"
     ],

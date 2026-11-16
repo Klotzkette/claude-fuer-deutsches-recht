@@ -148,7 +148,7 @@
       "Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut.",
       "Redaktion 16.10.2026: Selbstbeschaffung in der GKV früh verankert, keine Übertragung der Fristwirkung auf PKV. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "80a0dcd07de3612ab130e2ba9ab95bf0058bdabc6dc21d4d6dd1cd4daf1ce4e4",
+    "sha256": "5451d00fed3bb3101cb631403d988d5b58e4c1f34b098ce04b45009ebe323f12",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -209,8 +209,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-werkstatt.md"
     ],

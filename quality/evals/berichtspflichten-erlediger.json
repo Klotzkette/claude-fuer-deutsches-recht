@@ -43,7 +43,7 @@
       "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe.",
       "16.10.2026: Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen."
     ],
-    "sha256": "0d7c01584861d5fe843de1c92a53bb9af7b272841681eff7f8fe4d65349c6f76",
+    "sha256": "7bed1b18f9812a9e49a8d795a8733b8cab1b58b56cc11534ceaa1007a7a4d71a",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -172,8 +172,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md"
     ],

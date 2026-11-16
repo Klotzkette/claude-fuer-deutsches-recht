@@ -110,7 +110,7 @@
       "Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden.",
       "2026-10-16, redaktioneller Einstiegsreview: Klausel, Mängelrüge und Rechtebewertung zuerst; UsedSoft auf Downloadkopien begrenzt, kein SaaS- oder US-Freibrief. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "5002b6e976a41df9555bf29ee521cef78eef5b7fc8e5fe9d43386bde7d19fd17",
+    "sha256": "fdd4060fc83fb71b0dbce295906d3bcdc9bb61bf28913656b80c4f722cc8f943",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -171,8 +171,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "softwarerecht-de-eu-us/softwarerecht-de-eu-us-werkstatt.md"
     ],

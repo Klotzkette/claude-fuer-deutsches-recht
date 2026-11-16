@@ -296,7 +296,7 @@
       "16.11.2026: Bei § 130 InsO die belegte Erklärung einer fehlenden Zahlungsfähigkeit, Empfängerwissen und Fortdauer bis zum jeweiligen Handlungszeitpunkt nach IX ZR 65/25 getrennt prüfen."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "fca5411afedea59378b2ed03ff5d6f5f7047813cce2604b2a752a06983699a29",
+    "sha256": "8018dac1e4e9be6e10a3d9893a9727f8cb79aca6d913d350eb48654626324b77",
     "latest_editorial_scope": "Nachprüfung der geänderten Passagen, Größen und MD/TXT-Gleichheit. Kein Live-Modelltest und keine Neuprüfung sämtlicher Altquellen."
   },
   "focus_review": {
@@ -444,8 +444,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md",
       "insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",

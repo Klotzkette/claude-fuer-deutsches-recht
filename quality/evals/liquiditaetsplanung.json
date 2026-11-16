@@ -259,7 +259,7 @@
       "Redaktion 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
       "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest."
     ],
-    "sha256": "d58a44baf97f2e0e09959af2f253766aec0b3805b5aa009ae6d0dea5ba54c3fd"
+    "sha256": "68a9befb7bad52d40a0ab4999eb154d5c0a231c0b3d91af6ef58ffc363c9afe9"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",
@@ -370,8 +370,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md"
     ],

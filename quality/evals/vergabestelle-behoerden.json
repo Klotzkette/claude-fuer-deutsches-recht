@@ -20,7 +20,7 @@
     "changes": [
       "Generische Eigenbeschreibung und vorgeschaltete Slug-Tabelle ersetzt. Unterlagen, Wertung und Rüge sind die Einstiegswege; X ZB 10/16 begrenzt auf Preisaufklärung. Optionale Skill-Tabelle ans Ende verschoben, doppelte Mini-Abschnitte gestrafft."
     ],
-    "sha256": "1336d1311482556aa66a67f2b291e4959c8aae3509f04bcc117ae85951436f2a",
+    "sha256": "9b80b2db1c026e2400d5428c1c3b7bbd5836b166f2d4a3df96041e281019d642",
     "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
@@ -231,8 +231,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md"
     ],

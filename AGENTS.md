@@ -12,6 +12,8 @@ Werkstatt- und Schnellstart-Prompts beginnen mit dem konkreten Fachproblem und d
 
 Vorhandene Unterlagen zuerst auftragsbezogen lesen. Nur entscheidende Lücken erfragen, Antworten in denselben Entwurf einarbeiten und bis zum bestellten Dokument weiterarbeiten. Durch redaktionelles Straffen dürfen weder Verzweigungen noch Quellenstatus, Gegenargumente oder Freigabegrenzen verloren gehen. Die Einstiegsprüfung ist keine erneute Prüfung sämtlicher Quellen und kein Nachweis einer erfolgreichen Ausführung in einer bestimmten Oberfläche.
 
+Werkstatt-Prompts haben kein redaktionelles Seitenlimit. Gliedere lange Fassungen nach echten Entscheidungsschritten und trenne den kurzen Einstieg von ausführlichen Beweis-, Quellen- und Variantenprüfungen. Längere Entwürfe in einer vorhandenen Dokumentansicht fortführen. Interaktive Fallansichten nur nutzen, wenn sie fachlich helfen und tatsächlich ausführbar sind. Ohne solche Funktionen denselben Arbeitsablauf im Text anbieten und die gewählte Variante in das beauftragte Dokument übernehmen.
+
 ## Gliederung und Nummerierung (verbindlich für alle Vorlagen und Verträge)
 
 Diese Regel gilt **dauerhaft und für jedes Werkzeug**. Sie ist nicht verhandelbar.

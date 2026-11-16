@@ -200,7 +200,7 @@
       "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt.",
       "Bescheid, Fahrerzuordnung und Messung bleiben Einstieg; 2 BvR 1616/18 früh mit Verteidigungsbezug, vorhandenen Daten und Grenze gegenüber Ausforschung und automatischem Freispruch."
     ],
-    "sha256": "03e672a4cf815875e8bede3a97fe99c3406fff1a74f67625a645009d18c2bbf8",
+    "sha256": "0d15eceb71b0db5766e309eb79fbb36de4118c7e52fe01609f3f545b8136903c",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -257,8 +257,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md"
     ],

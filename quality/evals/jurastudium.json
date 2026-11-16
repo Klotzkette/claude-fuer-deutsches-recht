@@ -29,7 +29,7 @@
       "Tatsächlichen Denkfehler statt bloßer Ergebnisabweichung untersuchen, Behauptung und Beweis im Referendariatsfall trennen, zeitlich realistische Übungen und historische Normfassungen in begrenzte Lernprodukte übersetzen.",
       "Einstiegsredaktion 16.10.2026: Konkrete Lernprodukte und vollständiger Erklärungsauftrag vorangestellt; themenabhängige Norm-/Urteilsauswahl statt pauschalem Leitentscheidungszitat."
     ],
-    "sha256": "89e3cbf1f0d5b7ee1ccaa3c52fe1f5fdc8c68e3254b4aaa18d2d6090a411f278"
+    "sha256": "168162ddd2011935f7d695f55204b5dda295271b86d8d9bc54ab7b924093af38"
   },
   "selection": {
     "positive": [
@@ -150,8 +150,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "jurastudium/jurastudium-werkstatt.md"
     ],

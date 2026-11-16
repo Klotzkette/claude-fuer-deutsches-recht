@@ -682,7 +682,7 @@
       "Einstiegsredaktion 16.10.2026: Abstrakte Systembeschreibung durch konkrete Antragsprodukte ersetzt; Mini behält frühe Einsichtsanker, Werkstatt konkretisiert öffentlichen Erbnachweis.",
       "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "3ac19a0478ec45b9ee51a78af3e49678bf4baa3e9a46a20357153543750116e6"
+    "sha256": "83d7536383dccf01928872b7e9f9813d424ec1723dcdf343ef71d38ff89834d2"
   },
   "focus_review": {
     "verdict": "revised",
@@ -748,8 +748,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md",
       "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",

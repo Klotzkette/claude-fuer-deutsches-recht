@@ -244,7 +244,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24"
     ],
-    "sha256": "9b375bbd46122cc309bc3e46c62349bd25567a295c5fd5b11e9a47910d17f90f"
+    "sha256": "cb93458e18e0026d501f79076bcb57733b7750713fab5ab014dfb94d45e1fc4a"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -381,8 +381,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "fachanwalt-it-recht/fachanwalt-it-recht-hauptproblem.md",
       "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md"

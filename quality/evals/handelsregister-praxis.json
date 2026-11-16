@@ -90,7 +90,7 @@
       "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform.",
       "Einstiegsredaktion 16.10.2026: Beanstandung in Nachweis, neue Erklärung oder rechtliche Antwort aufgeteilt; unzulässige Zwischenverfügung nicht mit Eintragungsanspruch gleichgesetzt."
     ],
-    "sha256": "32c5215931e6e36f37fa330784565568ce3712b129faad8ff537efe953f3b4ec"
+    "sha256": "932ed0c4cb915308df66486ac84fb5db82ec38943dca12c7a775cbd7d985e8ee"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -198,8 +198,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "handelsregister-praxis/handelsregister-praxis-werkstatt.md"
     ],

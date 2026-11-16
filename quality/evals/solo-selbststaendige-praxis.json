@@ -63,7 +63,7 @@
       "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
       "2026-10-16, redaktioneller Einstiegsreview: Konkrete Rechnung und Antwort vor Gründungsaufnahme; Abnahme und Mängelrechte samt Abrechnungsverhältnis getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "67c7362f99e99e4e0c623bf07edb7272b08c5fc9ae829b9536c8a4cb759292bb",
+    "sha256": "476ca27e6bb49d9a4ab1bd12b65807a14d82ff9a88bc4485b7e9839076cc3814",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -170,8 +170,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "solo-selbststaendige-praxis/solo-selbststaendige-praxis-werkstatt.md"
     ],

@@ -34,7 +34,7 @@
       "Bedingte Zahlungszusagen, Rollen und Pronomen, Anhörung gegen Entscheidung, beantragte gegen bewilligte Fristverlängerung sowie semantisch deckungsgleiche Sprachfassungen mit vollständigen Briefen verbunden.",
       "Redaktion 16.10.2026: Wortlauttreue und Abgrenzung zur amtlichen Übersetzung vorangestellt; Strafbefehlszweig unverändert erhalten. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "aaef459da1d96b06fab7e160ffe1e81804be263ab739ec3d6d66b4a24b96503d"
+    "sha256": "9e53f9b787715913515601638bbab25e6b7f3579630762a371a65af3544c208c"
   },
   "selection": {
     "positive": [
@@ -118,8 +118,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-werkstatt.md"
     ],

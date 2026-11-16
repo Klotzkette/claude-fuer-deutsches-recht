@@ -105,7 +105,7 @@
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Ansichten und gewünschter Schutzvergleich eröffnen die Arbeit; der bestehende Karen-Millen-Absatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "cdc041af3605d71d1e83cd425a5f667bd114757610313ea479f3aafa5827fc80",
+    "sha256": "11fc3ee26ad3a3f0f1117efd32a6ef69a02827fef704cb5066e3d4505bc781d2",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -199,8 +199,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md"
     ],

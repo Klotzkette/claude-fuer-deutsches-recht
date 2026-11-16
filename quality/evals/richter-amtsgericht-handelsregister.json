@@ -110,7 +110,7 @@
       "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
       "2026-10-16, redaktioneller Einstiegsreview: Gerichtliches Ergebnis und Eintragungshindernis früh erklärt; Rücknahmehinweis nicht zur Zwischenverfügung umgedeutet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8d0198f8eabb11926ffe306c9fa145854e8bfbdcaecf1f933fa5061030c33e9a",
+    "sha256": "596131ba3d10c404ff90ca6f46a8137dd1f386325a8f627b211cfae8f38dea9e",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -190,8 +190,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-werkstatt.md"
     ],
