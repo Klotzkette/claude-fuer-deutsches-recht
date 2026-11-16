@@ -1,43 +1,27 @@
-# Benchmark — Klotzkette German Legal Skills vs. Harvey LAB
+# 1. Testakten und juristische Arbeitsergebnisse prüfen
 
-> Stand v332.0.0. Vergleich, Methodik und Werkzeuge.
+Prüfe entweder den Bestand einer Testakte oder das Arbeitsergebnis eines tatsächlich ausgeführten Auftrags. Die Aktenprüfung kontrolliert vorhandene Dateien und Merkmale. Das [Qualitätslabor](../quality/README.md) bewertet die erzeugten Ergebnisse anhand fachlicher Kriterien und dokumentiert die Bedingungen, unter denen sie vergleichbar sind.
 
-## Inspiration
+## 1.1. Prüfwege
 
-Harvey LAB (https://github.com/harveyai/harvey-labs) ist ein Open-Source-Benchmark zur Bewertung von LLM-Agents auf juristischer Arbeit (24 Practice Areas, 1.251 Tasks, US-Fokus, MIT). Dieses Repository bringt Harveys methodisches Vorbild — Task-Datenraum + Execution Harness + All-Pass-Rubrics — ins deutsche Rechtssegment.
-
-## Was es gibt
-
-| Komponente | Status | Datei |
+| Aufgabe | Aussage des Ergebnisses | Werkzeug |
 |---|---|---|
-| Task-Datenraum | vorhanden (206 Testakten in 7 Formaten) | `testakten/` |
-| Rubrics pro Testakte | implementiert (Pass/Fail-Checks in YAML) | `testakten/<slug>/rubric.yaml` |
-| Execution Harness | implementiert | `scripts/run-eval.py` |
-| All-Pass-Scoring | implementiert | im Harness |
-| Comparison Dashboard | implementiert (Modell-zu-Modell) | `scripts/compare-eval-runs.py` |
-| LLM-Judge | Skelett mit Anthropic-Adapter | `scripts/llm-judge-eval.py` |
-| Self-Test-Konvention | seit v293 verbindlich | `references/anwalts-dashboard-konvention.md` |
+| Bestand einer Testakte prüfen | Dateien und technische Kriterien der `rubric.yaml` sind geprüft. Manuelle Kriterien bleiben offen. | [Aktenprüfung](../scripts/run-eval.py) |
+| Zwei Aktenbestände vergleichen | Die Tabelle stellt die technischen Befunde aus den Aktenprüfungen gegenüber. | [Strukturvergleich](../scripts/compare-eval-runs.py) |
+| Ausgeführte Aufträge bewerten und vergleichen | Zwei Prüfer bewerten das tatsächlich erzeugte Arbeitsprodukt anhand fachlicher Einzelkriterien. Die Wiederholungen werden anhand ihrer dokumentierten Bedingungen gruppiert. | [Qualitätslabor](../quality/README.md) |
 
-## Schnellstart
+## 1.2. Technischen Aktenbestand prüfen
 
 ```bash
-# Alle Rubrics ausfuehren
-python3 scripts/run-eval.py --report
+# Alle Rubriken ausführen und einen technischen Vergleichsstand speichern.
+python3 scripts/run-eval.py --structural-only --json-out /tmp/akten-vorher.json --label vorher
 
-# Ausgewaehlte Akten
-python3 scripts/run-eval.py insolvenz-asset-deal-chaincortex-ai-berlin
-
-# JSON-Snapshot fuer Vergleich speichern
-python3 scripts/run-eval.py --json-out runs/$(date -u +%Y%m%d-%H%M)-opus4-7.json --label "opus-4-7"
-
-# Modelle vergleichen (zwei Snapshots erforderlich)
-python3 scripts/compare-eval-runs.py runs/2026-06-11-opus4-7.json runs/2026-06-12-opus4-8.json
-
-# LLM-Judge auf einen einzelnen Skill-Output
-python3 scripts/llm-judge-eval.py path/to/skill-output.md path/to/criterion.md
+# Nach einer Änderung denselben Bestand noch einmal prüfen.
+python3 scripts/run-eval.py --structural-only --json-out /tmp/akten-nachher.json --label nachher
+python3 scripts/compare-eval-runs.py /tmp/akten-vorher.json /tmp/akten-nachher.json --out /tmp/akten-vergleich.md
 ```
 
-## Rubric-Format
+## 1.3. Prüfrubrik für eine Testakte
 
 ```yaml
 name: "Beschreibung der Testakte"
@@ -73,7 +57,7 @@ checks:
     note: "vor Mandanten-Versand manuell pruefen"
 ```
 
-## Check-Typen
+### 1.3.1. Prüfarten
 
 | `check_type` | Pruefung |
 |---|---|
@@ -83,30 +67,12 @@ checks:
 | `file_count` | Anzahl Dateien matchen Glob >= min |
 | `human_review` | Manuell — Eval-Skript zaehlt als `skipped` |
 
-## All-Pass-Logik
+Offene `human_review`-Prüfungen verhindern ein vollständiges Bestehen. `--structural-only` lässt einen technisch fehlerfreien Aktenbestand für die Qualitätskontrolle durchlaufen und weist offene manuelle Prüfungen weiterhin aus.
 
-Eine Akte gilt als All-Pass, wenn alle Pass/Fail-Checks bestanden sind (`human_review`-Checks zaehlen als `skipped` und blockieren das All-Pass-Resultat nicht).
+## 1.4. Arbeitsergebnisse bewerten und vergleichen
 
-## Verhaeltnis zu Harvey LAB
+Das Qualitätslabor unterstützt vollständige fachliche Prüfrubriken. Nach dem Vorbild von Harvey LAB erhält jede Einzelanforderung nur die für sie relevanten Ergebnisdateien. Das Gesamturteil ist positiv, wenn beide Prüfmodelle sämtliche Kriterien bestehen lassen. Offene oder widersprüchliche Urteile bleiben als solche sichtbar. [Harvey LAB, Bewertungsmethodik](https://github.com/harveyai/harvey-labs/blob/7f9b1ee19f9224576a5a5143c4e6f75842ac7020/docs/eval-strategies.md)
 
-| Dimension | Harvey LAB | Klotzkette-Repo |
-|---|---|---|
-| Genre | Benchmark / Evaluator | Skill-Library + Evaluator |
-| Sprache/Recht | EN / US-Common-Law | DE / deutsches Recht |
-| Volumen | 1.251 Tasks, 24 Areas | 25.640 Skills, 213 Plugins, 206 Testakten |
-| Realismus | M&A-Datenraum | Mandatsakten in 7 Originalformaten + Gesamt-PDF |
-| Scoring | All-Pass-Rubrics + LLM-Judge | All-Pass-Rubrics + LLM-Judge (kompatibel) |
-| Lizenz | MIT | Apache-2.0 OR MIT |
+Harvey LAB weist Änderungen an Aufgaben, Laufumgebung, Bewertung und Schnittstellen als mögliche Ursache für verschobene Ergebnisse aus. Hier führt `compare` Eingabeprüfsummen, den Prüfcode, die von den Prüfern gelesenen Quellentexte und die verwendeten Extraktionsbibliotheken im Bericht. Das verhindert, dass Wiederholungen mit abweichenden Akten oder Bewertungsständen gemeinsam als Stichprobe erscheinen. [Harvey LAB, Änderungen mit Auswirkungen auf Bewertungszahlen](https://github.com/harveyai/harvey-labs/blob/7f9b1ee19f9224576a5a5143c4e6f75842ac7020/CHANGELOG.md)
 
-Beide Repos folgen demselben Bewertungsparadigma; die Klotzkette-Plattform spezialisiert sich auf das deutsche Recht und betont die Vollstaendigkeit des anwaltlichen Workflows (Mandatsannahme → Anlage → Schriftsatz → Vergleich).
-
-## Was als naechstes kommen koennte
-
-- **Rubrics fuer alle 206 Testakten** (z. Zt. 5 als Proof-of-Concept)
-- **Plugin × Akten-Matrix**: pro Plugin Score gegen relevante Testakten
-- **CI-Integration**: PR-Run fuehrt Eval auf geaenderten Plugins aus
-- **Auto-Bewertung Skill-Outputs**: LLM-Judge auf Skill-MD-Output, nicht nur Testakten
-
-## Quellenhygiene bleibt unangetastet
-
-Auch der Eval-Harness erzwingt keine Aktenzeichen aus Modellwissen. `text_contains` matcht nur, was wirklich im Repo steht; `human_review` haelt Wertungs-Pruefungen offen.
+BigLaw Bench unterscheidet die fachliche Güte der Antwort von der Verlässlichkeit ihrer Quellen und berücksichtigt konkrete Fehler. Für eigene Ergebnisfälle lassen sich entsprechend unabhängige Kriterien formulieren, etwa „fügt eine schlüssige Kündigungsfristberechnung bei“ und „ordnet der angeführten Entscheidung keine im bereitgestellten Volltext unbelegte Rechtsfolge zu“. Die Kriterien geben dem Prüfer jeweils die betroffene Ergebnisdatei an. Die eigenständige Prüfung der Rechtsquelle bleibt erforderlich. [BigLaw Bench, Bewertungsmethodik](https://github.com/harveyai/biglaw-bench/blob/138fd481b459a00bbd98eeb710f69ada1052bd47/README.md#evaluation-methodology)

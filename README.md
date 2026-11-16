@@ -879,7 +879,7 @@ A: Neben dem Web-Chat, dem Chat-Bereich von Claude Desktop und Cowork werden auc
 A: Das lässt sich nicht pauschal beantworten. Anbieter, Plan, Vertrag, Datenfluss, Auftragsverarbeitung, Unterauftragnehmer, Speicherfristen und das konkrete Material müssen vor produktiver Nutzung eigenständig geprüft werden; dieses Repository erteilt keine Freigabe.
 
 **F: Kann ich die Skills anpassen?**
-A: Ja. Alle Skills sind Open Source (Apache-2.0 OR MIT, nach Wahl des Nutzers). Sie können sie nach Belieben anpassen – siehe [Beitragsleitfaden](./CONTRIBUTING.md).
+A: Ja. Die eigenen Beiträge sind Open Source (Apache-2.0 OR MIT). Bei übernommenem Material gelten die Lizenzhinweise der jeweiligen Quelle. Siehe [Beitragsleitfaden](./CONTRIBUTING.md).
 
 **F: Was mache ich, wenn ein Skill nicht funktioniert?**
 A: Öffnen Sie einen Issue auf GitHub oder schauen Sie in die Skill-Datei – oft sind Abhängigkeiten oder Formate dokumentiert.
@@ -924,9 +924,9 @@ Das Skript kopiert die Root-Referenzen ggf. in die Plugin-Spiegel und meldet, wa
 
 ## Lizenz
 
-Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [Lizenzhinweis](./LICENSE), [Apache-2.0-Lizenz](./LICENSE-APACHE), [MIT-Lizenz](./LICENSE-MIT) und [Notice](./NOTICE).
+Eigene Beiträge stehen nach Wahl unter **Apache License, Version 2.0** oder **MIT License** (`Apache-2.0 OR MIT`). [Lizenzhinweis](./LICENSE) · [Apache-2.0-Lizenz](./LICENSE-APACHE) · [MIT-Lizenz](./LICENSE-MIT) · [Notice](./NOTICE)
 
-Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-Lizenz; diese Adaption erweitert, ersetzt und ergänzt die ursprünglichen Inhalte und wird unter dem oben genannten Doppellizenz-Modell veröffentlicht.
+Anthropics Vorlage `claude-for-legal` steht seit dem Initialcommit unter der Apache License, Version 2.0. Für übernommenes Material gelten die Herkunfts- und Lizenzvermerke in den Dateien. [Lizenz der ursprünglichen Vorlage](https://github.com/anthropics/claude-for-legal/blob/d541734b08e67aae330a362b256d1eb6808a08f5/LICENSE)
 
 ## Mitwirken
 

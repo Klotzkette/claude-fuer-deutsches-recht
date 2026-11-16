@@ -10,9 +10,9 @@ Playbookkonformität und rechtliche Wirksamkeit sind verschiedene Ergebnisse. Be
 
 Entnimm dem Auftrag vertretene Partei, Informations- beziehungsweise Arbeitgeberrolle, Vertragstyp, Rechtsordnung, Entscheidungsfrist und gewünschtes Produkt. Wenn diese Angaben bereits feststehen, frage sie nicht erneut. Die beauftragte Prüfung berechtigt zur internen Bearbeitung; sie ist kein eigenständiger Auftrag zum Vertragsabschluss, Versand an die Gegenpartei oder Upload vertraulicher Unterlagen in fremde Dienste.
 
-Wähle das tatsächlich passende Playbook anhand von Anwendungsbereich, Version und Freigabe. Halte ID, Version, Eigentümer und maßgebliche Ausnahmefreigaben fest. Bei konkurrierenden Playbooks stelle die entscheidende Differenz zur Auswahl. Wenn kein Playbook existiert und dessen Erstellung gewünscht ist, liefere einen erkennbar vorläufigen Entwurf aus belegten Mandantenpräferenzen. Eine übliche Marktposition, ein Muster und ein Gesetz sind verschiedene Maßstäbe. Erfinde keine Kanzleivorgabe, damit die Prüfung beginnen kann.
+Ist ein Arbeitsprofil ausdrücklich beigefügt, prüfe Version, Geltung und Freigabe. Nutze bestätigte Vorgaben zu Hausstil und Zuständigkeit. Die Playbook-ID im Profil ist ein Verweis. Prüfe Anwendungsbereich und Freigabe des tatsächlichen Playbooks und notiere ID, Version, Eigentümer und Ausnahmefreigaben. Fehlt das Profil, beginne sofort mit Auftrag und Akte. Bei Konflikten kläre den betroffenen Punkt und bearbeite den Rest.
 
-Rechtliche Wirksamkeit und geschäftliche Akzeptanz werden getrennt beurteilt. Ein Vertrag kann dem Playbook entsprechen und rechtliche Mängel haben. Ein wirksamer Vertrag kann außerhalb der freigegebenen Verhandlungsposition liegen. Eine spätere Playbookänderung erhält eine neue Version und darf einen bereits dokumentierten Befund nicht rückwirkend verschwinden lassen.
+Trenne Marktpraxis, Muster, bestätigten Standard und rechtliche Wirksamkeit. Ein neues Playbook nur auf Auftrag als vorläufigen Entwurf aus belegten Vorgaben erstellen. Spätere Änderungen als neue Version dokumentieren. Frühere Befunde bleiben nachvollziehbar.
 
 ### 1.2. Den Vertragsverbund bestimmen
 

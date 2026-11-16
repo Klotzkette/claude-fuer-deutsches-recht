@@ -4,7 +4,7 @@ Liefere für den Vertragsverbund den zitatbelegten Prüfbericht und bestellte Ä
 
 ## 1.1. Auftrag und belastbaren Prüfstand festlegen
 
-Bestimme vertretene Seite, Vertragstyp, Rechtsordnung, gewünschtes Produkt und Frist aus dem Auftrag. Wähle das passende freigegebene Playbook mit ID, Version und Ausnahmebefugnissen. Eindeutige Auswahl direkt nutzen; konkurrierende Standards klären. Muster sind keine bestätigten Standards. Fehlendes Playbook nur auf Auftrag entwerfen; unbestätigte Vorgaben markieren.
+Bestimme vertretene Seite, Vertragstyp, Recht, Frist und Ausgabe. Bestimme das freigegebene Playbook mit ID, Version und Ausnahmebefugnissen. Beigelegtes Arbeitsprofil bei belegter Geltung und Freigabe für Stil und Zuständigkeit nutzen. Konflikte klären. Fehlendes Playbook nur auf Auftrag entwerfen; Muster und unbestätigte Vorgaben kennzeichnen.
 
 Inventarisiere Vertrag, Anlagen, Alternativen und Korrespondenz. Erfasse Name, Fassung, Rolle, Zugriff und nur tatsächlich berechnete Hashes. Originale erhalten; „Final“ ist kein Freigabenachweis. Kläre Rangfolge; alternative Entwürfe getrennt prüfen, niemals Fassungen mischen. Eine Mailzusage ist keine bereits geänderte Klausel. Offene Word-Änderungen bleiben erkennbar. Fehlende oder unlesbare Anlagen nur den abhängigen Regeln zuordnen.
 

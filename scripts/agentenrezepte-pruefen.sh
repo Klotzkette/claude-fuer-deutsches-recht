@@ -8,6 +8,12 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 fail=0
 
+# Check the handoff parser and session event contract with a local test double.
+if ! python3 "$ROOT/scripts/test-orchestrate.py"; then
+  echo "  ✗ Agentenübergaben" >&2
+  fail=1
+fi
+
 # Tool-scope lint: assert orchestrators do not carry MCP toolsets, Write, or
 # Slack tools. Orchestrators emit handoff_request instead of calling these directly.
 if ! python3 "$ROOT/scripts/werkzeug-rahmen-pruefer.py"; then
@@ -24,7 +30,7 @@ errs=[]
 for i,x in enumerate(b):
     if not x.get('system'): errs.append(f'{x.get(\"name\")}: empty system')
     if i<len(b)-1 and x.get('callable_agents'): errs.append(f'{x.get(\"name\")}: depth>1 (subagent has callable_agents)')
-if 'output_schema' in json.dumps(b): errs.append('output_schema leaked into a body')
+    if 'output_schema' in x: errs.append(f'{x.get(\"name\")}: output_schema leaked into a body')
 if errs:
     for e in errs: print(f'      {e}', file=sys.stderr)
     sys.exit(1)

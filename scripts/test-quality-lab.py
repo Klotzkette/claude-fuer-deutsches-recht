@@ -774,11 +774,55 @@ class QualityLabTests(unittest.TestCase):
 
     def test_distinct_repetitions_remain_comparable(self):
         runs = [self.ready("repeat-" + str(i)) for i in range(2)]
+        with (runs[1] / "output/ergebnis.md").open("a", encoding="utf-8") as output:
+            output.write("\nZweite, unabhängig formulierte Fassung.")
         for run in runs:
             lab.evaluate(run, self.config, root=self.root, caller=self.passing)
         groups = lab.compare(runs, self.root)["groups"]
         self.assertEqual(len(groups), 1)
         self.assertEqual(groups[0]["runs"], 2)
+
+    def test_changed_source_bytes_split_runs_of_same_case_and_revision(self):
+        self.profile["cases"][0]["input_files"] = ["kontoauszug.txt"]
+        source = self.root / "kontoauszug.txt"
+        source.write_text("Gutschrift 300 Euro", encoding="utf-8")
+        self.write_profile()
+        before = self.ready("eingabe-alt")
+        source.write_text("Gutschrift 310 Euro", encoding="utf-8")
+        after = self.ready("eingabe-neu")
+        for run in (before, after):
+            lab.evaluate(run, self.config, root=self.root, caller=self.passing)
+        groups = lab.compare([before, after], self.root)["groups"]
+        self.assertEqual(len(groups), 2)
+        self.assertEqual(len({group["case_hash"] for group in groups}), 1)
+        self.assertEqual(len({group["inputs_hash"] for group in groups}), 2)
+        self.assertEqual(len({group["grading"]["source_text_sha256"] for group in groups}), 2)
+
+    def test_grader_revisions_and_unrecorded_legacy_results_are_isolated(self):
+        runs = [self.ready(name) for name in ("jetzt", "andere-auswertung", "alt-eins", "alt-zwei")]
+        for i, run in enumerate(runs):
+            grader_hash = "a" * 64 if i == 1 else lab.GRADER_SHA256
+            with patch.object(lab, "GRADER_SHA256", grader_hash):
+                score = lab.evaluate(run, self.config, root=self.root, caller=self.passing)
+            if i >= 2:
+                del score["grading"]  # Ergebnisdatei im bisherigen Format
+                lab.save(run / "scores_dual.json", score)
+        groups = lab.compare(runs, self.root)["groups"]
+        self.assertEqual(len(groups), 4)
+        self.assertEqual(sum(group["grading"] is None for group in groups), 2)
+        self.assertTrue(all(group["strict_pass_rate"] == 1 for group in groups))
+
+    def test_changed_text_extraction_cannot_reuse_score_for_identical_bytes(self):
+        run = self.ready()
+        lab.evaluate(run, self.config, root=self.root, caller=self.passing)
+        read = lab.read_artifact
+
+        def changed_extraction(path, *, raw=None):
+            return read(path, raw=raw) + "\nAbweichende Textsicht"
+
+        with patch.object(lab, "read_artifact", side_effect=changed_extraction):
+            with self.assertRaisesRegex(lab.LabError, "abweichender Textsicht"):
+                lab.compare([run], self.root)
 
     def test_different_cases_never_share_aggregates(self):
         second = copy.deepcopy(self.profile["cases"][0])
