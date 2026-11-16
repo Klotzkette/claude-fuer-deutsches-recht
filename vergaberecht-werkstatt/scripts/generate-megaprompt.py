@@ -12,7 +12,6 @@ from __future__ import annotations
 import argparse
 import re
 import sys
-import textwrap
 from pathlib import Path
 
 from skill_routing_priorities import MEGAPROMPT_MODULE_LIMITS, PLUGIN_PRIORITY_MODULES, PLUGIN_TRIGGER_ROUTES, MINI_MODULE_SUMMARIES, skill_call, rewrite_module_calls
@@ -43,7 +42,7 @@ else:
             raise RuntimeError('Angereicherte Skills benötigen scripts/werkstatt_visualisierung.py aus der übergeordneten Sammlung')
         return text
 
-    def visual_block(text: str, plugin: str) -> str:
+    def visual_block(text: str, plugin: str, *, wrap_appendix: bool = False) -> str:
         return text
 
 EXCLUDE_PLUGINS: set[str] = set()
@@ -548,16 +547,9 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     lines.append('4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.')
     lines.append('')
     original = normalize_display_text('\n'.join(lines) + '\n')
-    enriched = visual_block(original, plugin)
     # Der eigenständige Vergabeprompt begrenzt auch Markdown-Quellzeilen.
     # Nur den neuen Anhang umbrechen; kuratierter Fachtext bleibt bytegleich.
-    appendix = enriched[len(original):]
-    wrapped = '\n'.join(
-        textwrap.fill(line, width=120, break_long_words=False, break_on_hyphens=False)
-        if len(line) > 1000 else line
-        for line in appendix.splitlines()
-    )
-    return rewrite_module_calls(plugin, original + wrapped + ('\n' if appendix.endswith('\n') else ''))
+    return rewrite_module_calls(plugin, visual_block(original, plugin, wrap_appendix=True))
 
 
 def main() -> int:

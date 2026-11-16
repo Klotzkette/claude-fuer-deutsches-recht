@@ -91,13 +91,17 @@ def plan(root: Path = ROOT, profiles: dict | None = None) -> tuple[dict[Path, by
         mega = root / "testakten/megaprompts" / f"{slug}.md"
         if enabled(slug, "megaprompt") and mega.is_file():
             paths.append((mega, "workshop"))
+        component_mega = root / "vergaberecht-werkstatt/testakten/megaprompts" / f"{slug}.md"
+        if directory.parent == root / "vergaberecht-werkstatt" and component_mega.is_file():
+            paths.append((component_mega, "workshop"))
         for path, kind in paths:
             path = output_path(root, path)
             if not path.is_file() or path.is_symlink():
                 raise ValueError(f"Fehlender oder verknüpfter Zielpfad: {path}")
             before = path.read_bytes()
             text = before.decode("utf-8")
-            after = visual.block(text, slug, kind=kind, profiles=profiles).encode("utf-8")
+            after = visual.block(text, slug, kind=kind, profiles=profiles,
+                                 wrap_appendix=path == component_mega).encode("utf-8")
             if visual.remove_block(after.decode("utf-8")) != visual.remove_block(text):
                 raise ValueError(f"Fachtext außerhalb der Ergänzung verändert: {path}")
             outputs[path] = after
