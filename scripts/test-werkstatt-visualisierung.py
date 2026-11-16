@@ -130,6 +130,60 @@ class VisualisierungTests(unittest.TestCase):
         self.assertIn('../../references/' + V.REFERENCE, skill)
         self.assertIn('Ohne diese Fähigkeit', skill)
 
+    def test_source_preservation_records_visual_followup_and_reconstructs_original(self):
+        import runpy
+        engine = runpy.run_path(str(ROOT / 'scripts/integrate-skill-cap.py'))
+        original = '# Fall\n\nBestehender Fachtext mit eigenständiger Ausnahme.\n'
+        bound = original.replace('Bestehender', 'Geprüfter')
+        relative = 'plugin/prompts/werkstatt.md'
+        previous = engine['diff_record'](relative, original.encode(), bound.encode(), 'reviewed')
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp).resolve()
+            path = root / relative
+            path.parent.mkdir(parents=True)
+            map_path = root / SYNC.PRESERVATION_MAP
+            map_path.parent.mkdir(parents=True)
+            map_path.write_text(json.dumps({'files': [previous]}))
+            # Die frühere Ergänzung hat ihre Nachweisfortschreibung versäumt.
+            current = V.block(bound, 'bauunternehmer-einkauf').encode()
+            path.write_bytes(current)
+            updates = SYNC.preserved_sources(root, {path: current})
+            report = json.loads(updates[map_path])
+            record = report['files'][0]
+            self.assertEqual(record['original_sha256'], previous['original_sha256'])
+            self.assertEqual(engine['ENGINE']['restore_original'](current, record['edits']), original.encode())
+            map_path.write_bytes(updates[map_path])
+            self.assertEqual(SYNC.preserved_sources(root, {path: current}), {})
+            # Auch spätere Blockfassungen bleiben ohne Verlust des Alttexts prüfbar.
+            with patch.object(V, 'DEPTH', V.DEPTH + '\nZusätzlicher geprüfter Arbeitsschritt.'):
+                proposed = V.block(current.decode(), 'bauunternehmer-einkauf').encode()
+            next_report = json.loads(SYNC.preserved_sources(root, {path: proposed})[map_path])
+            self.assertEqual(engine['ENGINE']['restore_original'](proposed, next_report['files'][0]['edits']), original.encode())
+
+    def test_source_preservation_rejects_unreviewed_body_change_and_bad_original_hash(self):
+        relative = 'plugin/prompts/werkstatt.md'
+        original = b'# Fall\n\nGepruefter Inhalt.\n'
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp).resolve()
+            path = root / relative
+            path.parent.mkdir(parents=True)
+            map_path = root / SYNC.PRESERVATION_MAP
+            map_path.parent.mkdir(parents=True)
+            record = {'path': relative, 'original_sha256': SYNC.sha(original), 'sha256': SYNC.sha(original), 'edits': []}
+            map_path.write_text(json.dumps({'files': [record]}))
+            changed = V.block(original.decode().replace('Gepruefter', 'Ungepruefter'), 'bauunternehmer-einkauf').encode()
+            path.write_bytes(changed)
+            with self.assertRaisesRegex(ValueError, 'Nicht ausschließlich visueller Vorlauf'):
+                SYNC.preserved_sources(root, {path: changed})
+            path.write_bytes(original)
+            with self.assertRaisesRegex(ValueError, 'Fachänderung'):
+                SYNC.preserved_sources(root, {path: changed})
+            record['original_sha256'] = '0' * 64
+            map_path.write_text(json.dumps({'files': [record]}))
+            proposed = V.block(original.decode(), 'bauunternehmer-einkauf').encode()
+            with self.assertRaisesRegex(ValueError, 'Ursprünglicher Fachtext nicht rekonstruierbar'):
+                SYNC.preserved_sources(root, {path: proposed})
+
     def test_bauwirtschaft_skills_keep_budget_fachtext_and_actionable_reference(self):
         limited = {slug: entry['skill_max_bytes'] for slug, entry in self.profiles.items() if 'skill_max_bytes' in entry}
         self.assertEqual(limited, {'bauwirtschaft-anfaenger': 7500, 'bauwirtschaft-fortgeschrittene': 7500})

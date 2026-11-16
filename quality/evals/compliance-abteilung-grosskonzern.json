@@ -25,7 +25,7 @@
       "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
       "Kundenauskunft: gemischte Fundstellen einzeln prüfen, Auskunft und Datenkopie erstellen, nachweisbaren Missbrauch und mögliche Haftung getrennt behandeln."
     ],
-    "sha256": "6a5ffc2aa4b3b8668a54eeeb374d0ae75ceddcf1df3a7b19b3f38060b6d9795d"
+    "sha256": "e4d95706ae36bdfd8effc07e23823b2a1a3f673f1b4c8c890707128cc0a15bfc"
   },
   "sources": [
     {
@@ -2281,8 +2281,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md"
     ],
@@ -2330,5 +2330,18 @@
     "path": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
     "before_sha256": "7f22538aae535b916abe2d3ef88ce070ddff5b48e4d126cdc3050d813d3cab28",
     "after_sha256": "dbc0b98fd48c1c5d01295931e85115ac53afdfb4c3633409076ec2916ea6ef2e"
+  },
+  "precision_followup": {
+    "date": "2026-11-16",
+    "method": "desk_review",
+    "audit": "quality/source-audits/2026-11-16-praezision/README.md",
+    "files": [
+      {
+        "path": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+        "previous_sha256": "e395ed2d276c155433ee0eb8a3914db061c40ec253100b5d4ea89da12b7a92c3",
+        "sha256": "e4d95706ae36bdfd8effc07e23823b2a1a3f673f1b4c8c890707128cc0a15bfc"
+      }
+    ],
+    "limits": "Gezielte Fach- und Redaktionsprüfung der beschriebenen Änderungen. Frühere Prüfumfänge bleiben historisch; kein erneuter Volltextabgleich sämtlicher Rechtsquellen und kein fachlicher Live-Modelltest."
   }
 }

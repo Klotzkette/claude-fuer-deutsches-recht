@@ -20,7 +20,7 @@
     "changes": [
       "Generische Eigenbeschreibung und vorgeschaltete Slug-Tabelle ersetzt. Unterlagen, Wertung und Rüge sind die Einstiegswege; X ZB 10/16 begrenzt auf Preisaufklärung. Optionale Skill-Tabelle ans Ende verschoben, doppelte Mini-Abschnitte gestrafft."
     ],
-    "sha256": "9b80b2db1c026e2400d5428c1c3b7bbd5836b166f2d4a3df96041e281019d642",
+    "sha256": "dba7494ecc173cb809ac0c2fa2d75bc18caa02e45a6db95a20df228cb97bb1eb",
     "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {

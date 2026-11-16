@@ -156,21 +156,21 @@ Dieser Einstieg routet **Patentrecherche** vom ersten Sachverhalt zu Rollen, Fri
 
 ## Fachlandkarte dieses Plugins
 
-- `agentisch-fristen-form-und-zustaendigkeit` — Agentisch Fristen Form und Zustaendigkeit
-- `agentische-datenbank-recherche` — Agentische Datenbank Recherche
-- `depatisnet-verhandlung-vergleich-und-eskalation` — Depatisnet Verhandlung Vergleich und Eskalation
-- `dpmaregister-epue-beweislast-erfinderische` — Dpmaregister Epue Beweislast Erfinderische
-- `epo-opposition-strategie` — EPO Opposition Strategie
-- `epo-quellenkarte` — EPO Quellenkarte
-- `epue-beweislast-und-darlegungslast` — Epue Beweislast und Darlegungslast
-- `erfinderische-sonderfall-und-edge-case` — Erfinderische Sonderfall und Edge Case
-- `erfinderische-taetigkeit-freedom-to-ki-patent` — Erfinderische Taetigkeit Freedom TO KI Patent
-- `espacenet-google-neuheit-red-team-korrektur` — Espacenet Google Neuheit RED Team Korrektur
-- `freedom-to-operate-recherche` — Freedom TO Operate Recherche
-- `google-risikoampel-und-gegenargumente` — Google Risikoampel und Gegenargumente
-- `kaltstart-interview` — Kaltstart Interview
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `verfahren-bearbeiten` (Fachthema: agentisch-fristen-form-und-zustaendigkeit) — Agentisch Fristen Form und Zustaendigkeit
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: agentische-datenbank-recherche) — Agentische Datenbank Recherche
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: depatisnet-verhandlung-vergleich-und-eskalation) — Depatisnet Verhandlung Vergleich und Eskalation
+- `rechtsbestand-bearbeiten` (Fachthema: dpmaregister-epue-beweislast-erfinderische) — Dpmaregister Epue Beweislast Erfinderische
+- `verfahren-bearbeiten` (Fachthema: epo-opposition-strategie) — EPO Opposition Strategie
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: epo-quellenkarte) — EPO Quellenkarte
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: epue-beweislast-und-darlegungslast) — Epue Beweislast und Darlegungslast
+- `rechtsbestand-bearbeiten` (Fachthema: erfinderische-sonderfall-und-edge-case) — Erfinderische Sonderfall und Edge Case
+- `rechtsbestand-bearbeiten` (Fachthema: erfinderische-taetigkeit-freedom-to-ki-patent) — Erfinderische Taetigkeit Freedom TO KI Patent
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: espacenet-google-neuheit-red-team-korrektur) — Espacenet Google Neuheit RED Team Korrektur
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: freedom-to-operate-recherche) — Freedom TO Operate Recherche
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: google-risikoampel-und-gegenargumente) — Google Risikoampel und Gegenargumente
+- `verfahren-bearbeiten` (Fachthema: kaltstart-interview) — Kaltstart Interview
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -722,7 +722,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

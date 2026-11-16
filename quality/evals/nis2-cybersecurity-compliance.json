@@ -150,7 +150,7 @@
       "Meldestufeninhalt, MFA-Ausnahmen, befristete Abhilfeentscheidung und Datenbank-Restore gegenüber vollständigem Dienstwiederanlauf ergänzt.",
       "Redaktion 16.10.2026: Betroffenheit, Maßnahmen und Meldung früh getrennt; Datenschutzanker nur für Sicherheitsbewertung. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "6ab6d76c6f23a5f11a27e2166604ef0c45cbc07d605702cc712861111bc91d2a"
+    "sha256": "d9bacf6c0b71d23e66cdf499f3125dafb79da21fb6f22cd1e598550d44bab2e0"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

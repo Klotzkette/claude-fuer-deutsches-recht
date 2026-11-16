@@ -14,7 +14,7 @@ Ein Fachmodul ist eine Vertiefung innerhalb eines Skills. Einzeln heruntergelade
 
 ## 2. Produkt und Rolle
 
-Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.
+Gleiche Produkt, konkrete Verkaufsausführung und Rolle in der Lieferkette ab. Begründe anhand der Belege, wer im betroffenen Markt eine Freigabe erteilen, Ware sperren oder eine Abhilfemaßnahme durchführen soll. Erstelle dazu die verlangte Entscheidungsvorlage.
 
 [Arbeitsweg öffnen](skills/produkt-und-rolle-bearbeiten/SKILL.md)
 

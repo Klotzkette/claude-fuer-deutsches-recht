@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fortbestehensprognose."
+description: "Für die Fortbestehensprognose: verknüpft Planung, verfügbare Finanzierung und belastbare Maßnahmen; liefert begründete Szenarien und aktualisiert das Ergebnis bei neuen Belegen."
 ---
 
-# Einstieg und Routing
+# Fortbestehensprognose belegen und fortschreiben
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Fortbestehensprognose** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Prüfe, ob die Unternehmensfortführung im maßgeblichen Zeitraum belastbar finanziert ist. Verknüpfe Planung und Maßnahmen mit ihren Belegen und schreibe die begründete Prognose bei neuen Informationen fort.
+
+## Arbeitsweg
+
+1. Bestimme Stichtag, Anlass und Adressat. Trenne Überschuldungsprüfung, drohende Zahlungsunfähigkeit und handelsrechtliche Fortführungsannahme.
+2. Lies Bankunterlagen, fällige Verbindlichkeiten, Planungen und Finanzierungszusagen im Original. Kennzeichne Bindungsdauer, Bedingungen, Kündigungsrechte und verfügbare Beträge.
+3. Prüfe Annahmen und Maßnahmen im jeweils maßgeblichen Zeitraum. Stelle Basis- und Belastungsszenario gegenüber und belege, wann eine Finanzierungslücke entsteht oder geschlossen wird.
+4. Formuliere die Prognose mit Stichtag, tragenden Gründen, Gegenbefunden und Überwachungsanlässen. Eine spätere Zusage ändert die frühere Informationslage nicht rückwirkend.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,14 +33,6 @@ Dieser Einstieg routet **Fortbestehensprognose** vom ersten Sachverhalt zu Rolle
 - `krisenstadium-bearbeiten` (Fachthema: fbp-zahlungsunfaehigkeit) — FBP Zahlungsunfaehigkeit
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Fortbestehensprognose sind InsO, StaRUG, § 19 Abs. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

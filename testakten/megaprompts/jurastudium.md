@@ -161,21 +161,21 @@ Dieser Einstieg routet **Jurastudium** vom ersten Sachverhalt zu Rollen, Fristen
 
 ## Fachlandkarte dieses Plugins
 
-- `ag-vorbereitung-examens-prognose` — AG Vorbereitung Examens Prognose
-- `anschluss-router` — Anschluss Router
-- `examens-prognose` — Examens Prognose
-- `examensvorbereitung-fragen` — Examensvorbereitung Fragen
-- `fall-zusammenfassung-gliederungs-baukasten` — Fall Zusammenfassung Gliederungs Baukasten
-- `gliederungs-baukasten` — Gliederungs Baukasten
-- `gutachten-uebung` — Gutachten Uebung
-- `gutachtenstil-internationaler-bezug-und-schnittstellen` — Gutachtenstil Internationaler Bezug und Schnittstellen
-- `juristisches-schreiben` — Juristisches Schreiben
-- `juristisches-schreiben-jus` — Juristisches Schreiben JUS
-- `jus-klausurtraining-leitfaden` — JUS Klausurtraining Leitfaden
-- `jus-referendariat-stationen-staatsexamen` — JUS Referendariat Stationen Staatsexamen
-- `jus-staatsexamen-vorbereitung-spezial` — JUS Staatsexamen Vorbereitung Spezial
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `fallfrage-bearbeiten` (Fachthema: ag-vorbereitung-examens-prognose) — AG Vorbereitung Examens Prognose
+- `fallfrage-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `fallfrage-bearbeiten` (Fachthema: examens-prognose) — Examens Prognose
+- `fallfrage-bearbeiten` (Fachthema: examensvorbereitung-fragen) — Examensvorbereitung Fragen
+- `arbeitsprodukt-bearbeiten` (Fachthema: fall-zusammenfassung-gliederungs-baukasten) — Fall Zusammenfassung Gliederungs Baukasten
+- `fallfrage-bearbeiten` (Fachthema: gliederungs-baukasten) — Gliederungs Baukasten
+- `arbeitsprodukt-bearbeiten` (Fachthema: gutachten-uebung) — Gutachten Uebung
+- `arbeitsprodukt-bearbeiten` (Fachthema: gutachtenstil-internationaler-bezug-und-schnittstellen) — Gutachtenstil Internationaler Bezug und Schnittstellen
+- `subsumtion-bearbeiten` (Fachthema: juristisches-schreiben) — Juristisches Schreiben
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: juristisches-schreiben-jus) — Juristisches Schreiben JUS
+- `fallfrage-bearbeiten` (Fachthema: jus-klausurtraining-leitfaden) — JUS Klausurtraining Leitfaden
+- `fallfrage-bearbeiten` (Fachthema: jus-referendariat-stationen-staatsexamen) — JUS Referendariat Stationen Staatsexamen
+- `fallfrage-bearbeiten` (Fachthema: jus-staatsexamen-vorbereitung-spezial) — JUS Staatsexamen Vorbereitung Spezial
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 
@@ -971,7 +971,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

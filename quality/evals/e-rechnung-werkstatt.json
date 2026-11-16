@@ -172,7 +172,7 @@
       "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen.",
       "2026-11-10: § 14c UStG um BFH-Maßstab zur endgültigen Gefährdungsbeseitigung ergänzt."
     ],
-    "sha256": "d0fba362e94dfb4b365d5c203075d718eb95b5d6f0f2a50947864178fddba650"
+    "sha256": "c031db825aff3eccd2859cf10862ff713c8b2092e136a03fba8c1ebe9e19c310"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -184,7 +184,7 @@
       "Den erforderlichen KoSIT-Pfad im ausführbaren Beispiel ergänzen und Standardumfang von Sonderfällen trennen.",
       "2026-11-10: § 14c UStG um BFH-Maßstab zur endgültigen Gefährdungsbeseitigung ergänzt."
     ],
-    "sha256": "ad0a068588c2972cfc040a5404fe3943e161ae51c264280416cb742279fb7585"
+    "sha256": "5f650304ef23a12f4e6f0100a76dcad84bae81e8e56f379f4d0c86a203b4e346"
   },
   "focus_review": {
     "verdict": "revised",
@@ -199,7 +199,7 @@
     "prompt_path": "e-rechnung-werkstatt/e-rechnung-werkstatt-hauptproblem.md",
     "skill_path": "e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md",
     "prompt_sha256": "e8f5bd194d28b8d6209280ca514a84c7574cfd6da08cb25e0958c386cd42e25a",
-    "skill_sha256": "5c4661c25117dfa13db1a39978606874a56a8fb45f56a0cb9ccc6af525163b0d"
+    "skill_sha256": "b3f7a9ed10f307f6675c3307e1ef6cfebb70fe668dd2a2733eed8b60b1e2c808"
   },
   "prompt_editorial_review": {
     "date": "2026-11-06",
@@ -262,5 +262,28 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "precision_followup": {
+    "date": "2026-11-16",
+    "method": "desk_review",
+    "audit": "quality/source-audits/2026-11-16-praezision/README.md",
+    "files": [
+      {
+        "path": "e-rechnung-werkstatt/e-rechnung-werkstatt-schnellstart.md",
+        "previous_sha256": "d0fba362e94dfb4b365d5c203075d718eb95b5d6f0f2a50947864178fddba650",
+        "sha256": "c031db825aff3eccd2859cf10862ff713c8b2092e136a03fba8c1ebe9e19c310"
+      },
+      {
+        "path": "e-rechnung-werkstatt/e-rechnung-werkstatt-werkstatt.md",
+        "previous_sha256": "70268dbb39002c1817d3c27d943a6d14e29f79d5d23b73e50b11bacdd648f3ea",
+        "sha256": "5f650304ef23a12f4e6f0100a76dcad84bae81e8e56f379f4d0c86a203b4e346"
+      },
+      {
+        "path": "e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md",
+        "previous_sha256": "5c4661c25117dfa13db1a39978606874a56a8fb45f56a0cb9ccc6af525163b0d",
+        "sha256": "b3f7a9ed10f307f6675c3307e1ef6cfebb70fe668dd2a2733eed8b60b1e2c808"
+      }
+    ],
+    "limits": "Gezielte Fach- und Redaktionsprüfung der beschriebenen Änderungen. Frühere Prüfumfänge bleiben historisch; kein erneuter Volltextabgleich sämtlicher Rechtsquellen und kein fachlicher Live-Modelltest."
   }
 }

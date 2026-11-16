@@ -138,7 +138,7 @@
     "changes": [
       "Redaktion 16.10.2026: Konkrete Website-Fassung vor Arbeitsüberschriften gestellt; Spezialistenbezeichnung nur mit enger Quellenreichweite. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "152a7922799380f31f426d2382a815de443fc5cdaf4902c41577bef4d07bc5b3",
+    "sha256": "3be05265e1fa87a1e122afec74d3c769b6cc3cc3bb70e64445c8423464c75469",
     "reviewed_on": "2026-10-09"
   },
   "prompt_workflow_review": {

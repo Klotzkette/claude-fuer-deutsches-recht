@@ -1,13 +1,26 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Memorandums-Ersteller."
+description: "Für ein bestelltes juristisches Memorandum: beantwortet jede Entscheidungsfrage mit belegtem Ergebnis, Subsumtion, Gegenargumenten und konkreter Handlungsempfehlung."
 ---
 
-# Einstieg und Routing
+# Juristisches Memorandum ausarbeiten
 
 ## Einsatzlage
 
 Erstelle das bestellte Memorandum mit Sachverhalt, entscheidbaren Fragen, zugeordneten Kurzantworten und rechtlichen Ausführungen. Nutze vorhandenen Auftrag und Unterlagen; eine Auswahl weiterer Skills ersetzt die Bearbeitung nicht.
+
+## Arbeitsweg
+
+1. Lies Auftrag und Unterlagen und formuliere die Entscheidung, die der Adressat treffen muss. Übernimm bestehende Umfangs- und Formatvorgaben.
+2. Trenne gesicherte Tatsachen, fremde Behauptungen und eigene Annahmen. Frage nur nach Lücken, die eine Antwort oder Empfehlung ändern.
+3. Prüfe jede Frage anhand der einschlägigen Normfassung und tragenden Quellen; behandle das stärkste Gegenargument und dessen praktische Folge.
+4. Liefere das ausformulierte Memo mit Kurzantwort und begründeter Empfehlung. Quellenkontrolle und technische Exportnotizen bleiben vom Empfängertext getrennt.
+
+### Nachlieferungen in das Memo einarbeiten
+
+Fehlt eine tragende Vertragsanlage oder widersprechen sich zwei Fassungen, frage nach dem genau bezeichneten Dokument beziehungsweise Widerspruch. Nach Eingang aktualisiere Sachverhalt, betroffene Kurzantwort und rechtliche Begründung gemeinsam. Weitere gezielte Runden nur bei neuen entscheidenden Lücken; bekannte Angaben nicht erneut aufnehmen.
+
+Beantworte unabhängige Fragen vorläufig und vervollständige nach der Klärung das bestellte Memo. Ein Rechtsmittel- oder Vertragsmemo bleibt ein Memo, sofern kein zusätzlicher Schriftsatz oder Vertrag bestellt ist. Externe Übermittlung bedarf der Freigabe.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,20 +39,6 @@ Erstelle das bestellte Memorandum mit Sachverhalt, entscheidbaren Fragen, zugeor
 - `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: memo-compliance-vorfall-intern) — Memo Compliance Vorfall Intern
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Memorandums Ersteller sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
-
-### Nachlieferungen in das Memo einarbeiten
-
-Fehlt eine tragende Vertragsanlage oder widersprechen sich zwei Fassungen, frage nach dem genau bezeichneten Dokument beziehungsweise Widerspruch. Nach Eingang aktualisiere Sachverhalt, betroffene Kurzantwort und rechtliche Begründung gemeinsam. Weitere gezielte Runden nur bei neuen entscheidenden Lücken; bekannte Angaben nicht erneut aufnehmen.
-
-Beantworte unabhängige Fragen vorläufig und vervollständige nach der Klärung das bestellte Memo. Ein Rechtsmittel- oder Vertragsmemo bleibt ein Memo, sofern kein zusätzlicher Schriftsatz oder Vertrag bestellt ist. Externe Übermittlung bedarf der Freigabe.
 
 ## Qualitätsanker
 

@@ -14,12 +14,12 @@ Diese Vollprüfung enthält top-10 von 84 Skills des Plugins `tabellenreview-3d`
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
 4. **tabellenreview-erstpruefung-und-mandatsziel** — Für Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebni…
-5. **onboarding-mandantenkommunikation-entscheidungsvorlage** — Für Onboarding: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Ma…
-6. **arbeitsblatt-schriftsatz-brief-und-memo-bausteine** — Für Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
-7. **arbeitsblatt-schriftsatz-brief-memo-bausteine** — Für Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
-8. **massenpruefung-mehrparteien-konflikt-und-interessen** — Für Massenprüfung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbe…
-9. **immobilien-formular-portal-einreichungslogik** — Für Immobilien: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichung…
-10. **zeilenprompts-risikoampel-und-gegenargumente** — Für Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Er…
+5. **vorlage-ma-arbeitsblatt-perspektiven-audit** — Für /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence: ordnet Norm, Beweislast und Gege…
+6. **prompt-versionierung-paket-review** — Für /tabellenreview-3d:versionierung-wiederholung-bearbeiten Thema: prompt-versionierung: ordnet Norm, Beweislast und Ge…
+7. **onboarding-mandantenkommunikation-entscheidungsvorlage** — Für Onboarding: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Ma…
+8. **arbeitsblatt-schriftsatz-brief-und-memo-bausteine** — Für Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
+9. **arbeitsblatt-schriftsatz-brief-memo-bausteine** — Für Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
+10. **vorlage-ma-due-diligence** — Für /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence: ordnet Norm, Beweislast und Gege…
 
 ---
 
@@ -156,21 +156,21 @@ Dieser Einstieg routet **Tabellenreview 3d** vom ersten Sachverhalt zu Rollen, F
 
 ## Fachlandkarte dieses Plugins
 
-- `aggregation-spaltenprompts-definieren` — Aggregation Spaltenprompts Definieren
-- `arbeitsblatt-perspektiven-definieren` — Arbeitsblatt Perspektiven Definieren
-- `arbeitsblatt-schriftsatz-brief-memo-bausteine` — Arbeitsblatt Schriftsatz Brief Memo Bausteine
-- `arbeitsblatt-schriftsatz-brief-und-memo-bausteine` — Arbeitsblatt Schriftsatz Brief und Memo Bausteine
-- `audit-trail-protokoll` — Audit Trail Protokoll
-- `belegkette-rueckverfolgung` — Belegkette Rueckverfolgung
-- `belegkette-rueckverfolgung-caching-rerun` — Belegkette Rueckverfolgung Caching Rerun
-- `caching-und-teil-rerun` — Caching und Teil Rerun
-- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
-- `datenpunkt-dokument-excel-beweislast` — Datenpunkt Dokument Excel Beweislast
-- `datenpunkt-dokumentenmatrix-lueckenliste` — Datenpunkt Dokumentenmatrix Lueckenliste
-- `dokument-behoerden-gericht-und-registerweg` — Dokument Behoerden Gericht und Registerweg
-- `dokumentstapel-aufnehmen` — Dokumentstapel Aufnehmen
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `dimensionen-pruefkategorien-bearbeiten` (Fachthema: aggregation-spaltenprompts-definieren) — Aggregation Spaltenprompts Definieren
+- `dimensionen-pruefkategorien-bearbeiten` (Fachthema: arbeitsblatt-perspektiven-definieren) — Arbeitsblatt Perspektiven Definieren
+- `bericht-export-uebergabe-bearbeiten` (Fachthema: arbeitsblatt-schriftsatz-brief-memo-bausteine) — Arbeitsblatt Schriftsatz Brief Memo Bausteine
+- `bericht-export-uebergabe-bearbeiten` (Fachthema: arbeitsblatt-schriftsatz-brief-und-memo-bausteine) — Arbeitsblatt Schriftsatz Brief und Memo Bausteine
+- `versionierung-wiederholung-bearbeiten` (Fachthema: audit-trail-protokoll) — Audit Trail Protokoll
+- `beleg-extraktion-bearbeiten` (Fachthema: belegkette-rueckverfolgung) — Belegkette Rueckverfolgung
+- `beleg-extraktion-bearbeiten` (Fachthema: belegkette-rueckverfolgung-caching-rerun) — Belegkette Rueckverfolgung Caching Rerun
+- `versionierung-wiederholung-bearbeiten` (Fachthema: caching-und-teil-rerun) — Caching und Teil Rerun
+- `review-auftrag-dokumente-bearbeiten` (Fachthema: chronologie-und-belegmatrix) — Chronologie und Belegmatrix
+- `beleg-extraktion-bearbeiten` (Fachthema: datenpunkt-dokument-excel-beweislast) — Datenpunkt Dokument Excel Beweislast
+- `review-auftrag-dokumente-bearbeiten` (Fachthema: datenpunkt-dokumentenmatrix-lueckenliste) — Datenpunkt Dokumentenmatrix Lueckenliste
+- `beleg-extraktion-bearbeiten` (Fachthema: dokument-behoerden-gericht-und-registerweg) — Dokument Behoerden Gericht und Registerweg
+- `review-auftrag-dokumente-bearbeiten` (Fachthema: dokumentstapel-aufnehmen) — Dokumentstapel Aufnehmen
+- `review-auftrag-dokumente-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `review-auftrag-dokumente-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -443,6 +443,165 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `vorlage-ma-arbeitsblatt-perspektiven-audit`
+
+_Für /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: vorlage-ma-arbeitsblatt-perspektiven-audit._
+
+# /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spalten (18 Datenpunkte)
+
+1. **Vertragsart** — Rahmenvertrag / Einzelvertrag / NDA / Lizenz / Lieferung / Werk
+2. **Laufzeit und Beginn** — Vertragsdatum + Festlaufzeit / unbefristet
+3. **Kündigungsfrist** — ordentliche / außerordentliche / Sondertatbestände
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. **MAC-Klausel** — Wesentlichkeitsdefinition / Rechtsfolge (BGB Paragraph 313 / 314)
+6. **Abtretungsverbot** — BGB Paragraph 399 / HGB Paragraph 354a / Vertragsübernahme
+7. **Haftungsbegrenzung** — pro Fall / pro Jahr / Ausschluss Vorsatz und grobe Fahrlaessigkeit
+8. **Garantien** — beschaffenheitsbezogen / verschuldensunabhängig / Haftungsausschluss BGB Paragraph 444
+9. **Vertragsstrafe** — Höhe / Deckelung / Verschuldensanknuepfung
+10. **Service-Level** — Reaktionszeit / Verfügbarkeit / Wiederherstellungszeit
+11. **Datenschutz-AVV** — DSGVO Artikel 28 / Drittlandtransfer / SCC / TIA
+12. **Geheimhaltung** — Dauer / Carve-Outs / Rückgabe / Sanktionen
+13. **Vergütung** — Festpreis / Stundensatz / Erfolg / Schwellen
+14. **Preisanpassung** — Indexbindung / Schwellen / Kündigungsrecht der Gegenseite
+15. **Schriftform** — Änderungsvorbehalt / Sprengsatz (BGB Paragraph 125 Satz 2)
+16. **Gerichtsstand** — vereinbarter Gerichtsstand / Kaufmannsklausel (ZPO Paragraph 38)
+17. **Schiedsklausel** — Schiedsgericht / Sitz / Sprache / Verfahrensordnung
+18. **Anwendbares Recht** — Rechtswahl / kollisionsrechtliche Wirkungen
+
+## Arbeitsblatt-Perspektiven (4)
+
+### Recht (Anwaltsperspektive)
+
+- Zusatzspalten: AGB-Wirksamkeit (BGB Paragraph 305 ff.) / Klauselverbote (BGB Paragraph 308 / Paragraph 309) / Verjährungsverkürzung
+- Prüfer: M&A-Lead-Counsel
+- Materialität rot: unwirksame Klausel mit Hauptleistungsbezug
+
+### Steuer (Steuerberater)
+
+- Zusatzspalten: Umsatzsteuer-Behandlung / Reverse-Charge / verdeckte Gewinnausschuettung bei Konzernverträgen (KStG)
+- Prüfer: Steuerberater
+- Materialität rot: USt-Risiko mehr als 100k EUR
+
+### Wirtschaft (Buyside)
+
+- Zusatzspalten: Vertragsvolumen pro Jahr / Top-Kunde-Konzentration / Working-Capital-Effekt / Verlängerungsoption
+- Prüfer: Deal-Lead
+- Materialität rot: Vertrag > 10 Prozent Umsatz UND Kündigungsrecht der Gegenseite < 12 Monate
+
+### Datenschutz (DSGVO)
+
+- Zusatzspalten: Datenkategorien / Rechtsgrundlage Artikel 6 / Drittlandtransfer / Auftragsverarbeitung / Joint-Controller
+- Prüfer: Datenschutzbeauftragter
+- Materialität rot: Auftragsverarbeitung ohne AVV oder Drittlandtransfer ohne SCC
+
+## Ausgabe
+
+Würfel-Schema fix und fertig in `wuerfel-schema.yaml` mit allen drei Achsen. Direkt einsatzbereit für `review-durchfuehren`.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `prompt-versionierung-paket-review`
+
+_Für /tabellenreview-3d:versionierung-wiederholung-bearbeiten Thema: prompt-versionierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: prompt-versionierung-paket-review._
+
+# /tabellenreview-3d:versionierung-wiederholung-bearbeiten Thema: prompt-versionierung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+
+1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
+2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
+3. Wird das Ergebnis in die Mandatsakte aufgenommen?
+4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
+
+## Rechtliche Grundlagen
+
+
+## Versionierungsschema
+
+Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
+
+### Patch (`x.y.Z+1`)
+
+- Wortlautfeinheiten ohne Sinnänderung (Tippfehler / Stilkorrektur / Beispiel ergänzt)
+- Vorhandene Zellen NICHT invalidiert
+- Empfehlung: bestehende Zellen behalten
+
+### Minor (`x.Y+1.0`)
+
+- Antworttyp geändert (z. B. Freitext zu Ja-Nein)
+- Ampelregel geändert (Schwelle verschoben)
+- Antwortdimension hinzugefügt (z. B. zusätzlich Schwelle in EUR abfragen)
+- Vorhandene Zellen werden auf `nachprüfen` gesetzt
+- Empfehlung: betroffene Spalten erneut laufen lassen (Teil-Rerun)
+
+### Major (`X+1.0.0`)
+
+- Prüfdimension geändert (z. B. Spalte 'AGB-Wirksamkeit' splittet zu 'Wirksam' und 'Anwendbares-AGB-Regime')
+- Spalte umbenannt oder zusammengelegt
+- Vorhandene Zellen werden invalidiert
+- Empfehlung: betroffene Zellen komplett neu berechnen
+
+## Aktivierung und Deaktivierung
+
+- Nur eine Version pro Spalte ist gleichzeitig aktiv (`aktive-prompts.yaml`)
+- Alte Versionen liegen im `prompt-historie.yaml` mit `gültig-bis`-Datum
+- Wer den aktiven Prompt ändert trägt zwingend den Migrationspfad für bestehende Zellen ein
+
+## Pflichtfelder pro Prompt-Version
+
+```yaml
+- spalte-id: change-of-control
+ version: "2.1.0"
+ wortlaut: |
+ Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
+ antworttyp: zitat-mit-fundstelle-und-schwelle
+ ampel-regel:
+ rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
+ gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
+ gruen: "Keine Klausel oder branchenübliche Schwelle"
+ geaendert-am: "2026-05-20"
+ geaendert-von: "anwalt-x"
+ migrationspfad: "Patch-Änderung — bestehende Zellen behalten gültig."
+```
+
+## Integration mit Audit-Trail
+
+Jede Prompt-Änderung erzeugt einen `prompt.geändert` Eintrag im `audit-trail-protokoll` mit Versionsnummer und Begründung.
+
+## Grenzen
+
+Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Prüfer entscheidet ob Migration noetig ist.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `onboarding-mandantenkommunikation-entscheidungsvorlage`
 
 _Für Onboarding: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Tabellenreview 3D. Route: onboarding-mandantenkommunikation-entscheidungsvorlage._
@@ -556,115 +715,70 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `massenpruefung-mehrparteien-konflikt-und-interessen`
+## Skill: `vorlage-ma-due-diligence`
 
-_Für Massenprüfung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Tabellenreview 3D. Route: massenpruefung-mehrparteien-konflikt-und-interessen._
+_Für /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: vorlage-ma-due-diligence._
 
-# Massenpruefung: Mehrparteienkonflikt und Interessenmatrix
+# /tabellenreview-3d:fachportfolio-review-bearbeiten Thema: vorlage-ma-due-diligence
 
-## Arbeitsweg
+## Spalten (18 Datenpunkte)
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1. **Vertragsart** — Rahmenvertrag / Einzelvertrag / NDA / Lizenz / Lieferung / Werk
+2. **Laufzeit und Beginn** — Vertragsdatum + Festlaufzeit / unbefristet
+3. **Kündigungsfrist** — ordentliche / außerordentliche / Sondertatbestände
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. **MAC-Klausel** — Wesentlichkeitsdefinition / Rechtsfolge (BGB Paragraph 313 / 314)
+6. **Abtretungsverbot** — BGB Paragraph 399 / HGB Paragraph 354a / Vertragsübernahme
+7. **Haftungsbegrenzung** — pro Fall / pro Jahr / Ausschluss Vorsatz und grobe Fahrlaessigkeit
+8. **Garantien** — beschaffenheitsbezogen / verschuldensunabhängig / Haftungsausschluss BGB Paragraph 444
+9. **Vertragsstrafe** — Höhe / Deckelung / Verschuldensanknuepfung
+10. **Service-Level** — Reaktionszeit / Verfügbarkeit / Wiederherstellungszeit
+11. **Datenschutz-AVV** — DSGVO Artikel 28 / Drittlandtransfer / SCC / TIA
+12. **Geheimhaltung** — Dauer / Carve-Outs / Rückgabe / Sanktionen
+13. **Vergütung** — Festpreis / Stundensatz / Erfolg / Schwellen
+14. **Preisanpassung** — Indexbindung / Schwellen / Kündigungsrecht der Gegenseite
+15. **Schriftform** — Änderungsvorbehalt / Sprengsatz (BGB Paragraph 125 Satz 2)
+16. **Gerichtsstand** — vereinbarter Gerichtsstand / Kaufmannsklausel (ZPO Paragraph 38)
+17. **Schiedsklausel** — Schiedsgericht / Sitz / Sprache / Verfahrensordnung
+18. **Anwendbares Recht** — Rechtswahl / kollisionsrechtliche Wirkungen
 
-## Spezialwissen: Massenpruefung: Mehrparteienkonflikt und Interessenmatrix
-- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
+## Arbeitsblatt-Perspektiven (4)
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+### Recht (Anwaltsperspektive)
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- Zusatzspalten: AGB-Wirksamkeit (BGB Paragraph 305 ff.) / Klauselverbote (BGB Paragraph 308 / Paragraph 309) / Verjährungsverkürzung
+- Prüfer: M&A-Lead-Counsel
+- Materialität rot: unwirksame Klausel mit Hauptleistungsbezug
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Massenpruefung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+### Steuer (Steuerberater)
 
----
+- Zusatzspalten: Umsatzsteuer-Behandlung / Reverse-Charge / verdeckte Gewinnausschuettung bei Konzernverträgen (KStG)
+- Prüfer: Steuerberater
+- Materialität rot: USt-Risiko mehr als 100k EUR
 
-## Skill: `immobilien-formular-portal-einreichungslogik`
+### Wirtschaft (Buyside)
 
-_Für Immobilien: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Tabellenreview 3D. Route: immobilien-formular-portal-einreichungslogik._
+- Zusatzspalten: Vertragsvolumen pro Jahr / Top-Kunde-Konzentration / Working-Capital-Effekt / Verlängerungsoption
+- Prüfer: Deal-Lead
+- Materialität rot: Vertrag > 10 Prozent Umsatz UND Kündigungsrecht der Gegenseite < 12 Monate
 
-# Immobilien: Formular, Portal und Einreichungslogik
+### Datenschutz (DSGVO)
 
-## Normenanker
+- Zusatzspalten: Datenkategorien / Rechtsgrundlage Artikel 6 / Drittlandtransfer / Auftragsverarbeitung / Joint-Controller
+- Prüfer: Datenschutzbeauftragter
+- Materialität rot: Auftragsverarbeitung ohne AVV oder Drittlandtransfer ohne SCC
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+## Ausgabe
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+Würfel-Schema fix und fertig in `wuerfel-schema.yaml` mit allen drei Achsen. Direkt einsatzbereit für `review-durchfuehren`.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Immobilien: Formular, Portal und Einreichungslogik
-- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Immobilien** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `zeilenprompts-risikoampel-und-gegenargumente`
-
-_Für Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Tabellenreview 3D. Route: zeilenprompts-risikoampel-und-gegenargumente._
-
-# Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Zeilenprompts** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
@@ -691,7 +805,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

@@ -20,7 +20,7 @@
       "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt.",
       "Redaktion 16.10.2026: Konformitätsweg, Nachweisplan und Grenze des Managementzertifikats statt austauschbarer Einleitung; Nummer 11.9 zu 11.5 berichtigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "02793b5ff062c296f9a8033c7aaba1a415e7b13982dceaf4b0085314fe624635"
+    "sha256": "8a25467f7724df74c4930dc8cdd68224ac0074db2bb0c2ccdd52cd610a89106c"
   },
   "selection": {
     "target_skill": "konformitaetsfrage-loesen",

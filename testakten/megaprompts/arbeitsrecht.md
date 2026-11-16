@@ -16,10 +16,10 @@ Diese Vollprüfung enthält top-10 von 100 Skills des Plugins `arbeitsrecht`.
 4. **mandat-triage-arbeitsrecht** — Für Mandat Triage Arbeitsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nä…
 5. **aufhebungsvertrag** — Aufhebungsvertrag: Prüft Schriftform, Beendigungsdatum, Abfindung, Freistellung, Urlaub, Zeugnis, Ausgleich, Sperrzeit, …
 6. **kueschk-klageschrift-anwalt-baustein** — Für Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen: erstellt Entwurf mit Antra…
-7. **zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt** — Für Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand: ordnet Norm, Beweislast und Gegenargument;…
-8. **kueschk-triage-laie-oder-anwalt** — Für KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie: routet Rolle, Frist, Unterlagen un…
-9. **zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag** — Für Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis: ordnet Norm, Beweislast und Gegenargument; Erge…
-10. **zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung** — Für Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+7. **kaltstart-interview** — Für /arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview: routet Rolle, Frist, Unterlag…
+8. **arbeitsrecht-anpassen** — Für /arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: arbeitsrecht-anpassen: ordnet Norm, Beweislast und…
+9. **zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt** — Für Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand: ordnet Norm, Beweislast und Gegenargument;…
+10. **kueschk-triage-laie-oder-anwalt** — Für KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie: routet Rolle, Frist, Unterlagen un…
 
 ---
 
@@ -1071,6 +1071,299 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ---
 
+## Skill: `kaltstart-interview`
+
+_Für /arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# /arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+## Fachlicher Kern — Arbeitsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
+- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Eingaben
+
+- Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` (Zieldatei)
+- Kanzlei-/Unternehmensname, Branche, Mitarbeiterzahl, Standorte
+- Personalhandbuch (optional, verbessert Ausgaben erheblich)
+- Bis zu drei aktuelle Kündigungsunterlagen (optional)
+- Angaben zu Tarifbindung, Betriebsrat, HRIS-System
+
+## Ablauf
+
+### Vorabprüfung
+
+1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` prüfen.
+ - `--check-integrations`: Nur den Integrationsabschnitt neu ermitteln, Interview überspringen.
+ - `--redo`: Vollständiges Interview neu ausführen, auch wenn Konfiguration vorhanden.
+ - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: "Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: arbeitsrecht-anpassen`."
+ - Falls Konfiguration aus altem Cache-Pfad vorhanden: Dorthin migrieren und mitteilen.
+
+2. **Teil 0 – Was ist verbunden?**
+ Alle konfigurierten Integrationen aktiv testen (nicht nur deklariert). Nur `✓` melden, wenn ein Tool-Aufruf in dieser Sitzung erfolgreich war. Nicht getestete Integrationen: `⚪` mit kurzem Hinweis zur Prüfung.
+
+### Interview (Teile 1–5)
+
+**Teil 1 – Praxisumfeld und Nutzerrolle**
+
+Alle folgenden Fragen in einem einzigen Prompt stellen:
+
+> Damit das Plugin für Ihre Praxis kalibriert ist, bitte kurz beantworten:
+>
+> 1. **Kanzlei oder Unternehmen?** (Kanzlei / Rechtsabteilung in-house / Behörde)
+> 2. **Praxisumfeld:** (Einzelkanzlei / Mittelkanzlei / Großkanzlei / Fachanwalt Arbeitsrecht / Syndikusrechtsanwalt)
+> 3. **Wer nutzt dieses Plugin?** (Rechtsanwalt / Fachanwalt / Syndikus | HR-Leitung mit Anwaltszugang | HR ohne Anwaltszugang)
+> 4. **Anwaltlicher Ansprechpartner** (falls HR-Nutzer): Name / Team / Außenkanzlei
+> 5. **Kanzlei-/Unternehmensname und Branche** (für unternehmens-profil.md, falls nicht vorhanden)
+
+**Teil 2 – Standort-Fußabdruck**
+
+> Wo beschäftigen Sie Mitarbeiter?
+>
+> - Bundesländer (mit ca. Mitarbeiterzahl je Bundesland)
+> - Ausländische Standorte (für Entsendung/AÜG-Prüfung)
+> - Gesamtmitarbeiterzahl (maßgeblich für KSchG-Schwellenwert Paragraf 23 KSchG: > 10 AN)
+> - Remote-first oder überwiegend Präsenz?
+
+Aus den Angaben ermitteln:
+- Gilt das KSchG allgemein? (Paragraf 23 KSchG: > 10 AN, Beschäftigung > 6 Monate)
+- Tarifbindung? Welche Tarifverträge?
+- Betriebsrat vorhanden? Ggf. Sprecherausschuss (SprAuG)?
+- Besondere Kündigungsschutzträger im Betrieb? (Schwerbehinderte, Betriebsratsmitglieder, Datenschutzbeauftragte)
+
+**Teil 3 – Einstellung und Kündigung**
+
+> - Wann prüft die Rechtsabteilung Einstellungen? (alle / nur Führungskräfte / nur bei Befristung)
+> - Gibt es ein Standard-Arbeitsvertragsmuster?
+> - Wann prüft die Rechtsabteilung Kündigungen? (alle / nur bei KSchG / RIF / Führungskräfte)
+> - Standard-Abfindungsformel? (0,5 × Bruttomonatsgehalt × Beschäftigungsjahre nach Paragraf 1a KSchG oder Einzelvereinbarung)
+> - Aufhebungsvertrag als Standard? Musterstandort?
+
+**Teil 4 – Seed-Dokumente**
+
+> Bitte stellen Sie Folgendes bereit (optional, verbessert Ausgaben erheblich):
+> - Aktuelles Personalhandbuch (oder Ablageort)
+> - Bis zu drei aktuelle Kündigungsunterlagen (anonymisiert ist in Ordnung)
+> - Muster-Aufhebungsvertrag, falls vorhanden
+
+Dokumente lesen und daraus extrahieren:
+- Bestehendes Eskalationsschema
+- Besondere Klauseln (Wettbewerbsverbote, Rückzahlungsklauseln, Freiwilligkeitsvorbehalte)
+- Unterschriften-/Genehmigungsprozess bei Kündigungen
+
+**Teil 5 – Systeme und Integrationen**
+
+> - HRIS-System? (Workday / BambooHR / Personio / DATEV / keins)
+> - Urlaubsdaten-Zugang für die Rechtsabteilung?
+> - Dokumentenablage? (DMS / SharePoint / Google Drive / lokal)
+> - E-Mail-Integration gewünscht?
+
+### Konfiguration schreiben
+
+Alle gesammelten Informationen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` schreiben. Übergeordnete Verzeichnisse anlegen. Company-profile.md erstellen, falls nicht vorhanden.
+
+## Quellen und Zitierweise
+
+Einschlägige Normen für die Eskalationstabelle:
+- KSchG Paragraf 23 (Schwellenwert > 10 AN), Paragraf 1 (Kündigungsschutz), Paragraf 17 (Massenentlassung)
+- BetrVG Paragraf 102 (BR-Anhörung vor Kündigung), Paragraf 99 (Zustimmung bei Einstellung)
+- SGB IX Paragraf 168 (Zustimmung Inklusionsamt bei Schwerbehinderung)
+- MuSchG Paragraf 17 (Kündigungsverbot Schwangerschaft)
+- BEEG Paragraf 18 (Kündigungsverbot Elternzeit)
+- KSchG Paragraf 15 (Sonderkündigungsschutz BR-Mitglieder)
+- BDSG Paragraf 26 (Beschäftigtendatenschutz)
+
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
+
+## Ausgabeformat
+
+Abschlussbericht des Interviews:
+
+```
+Arbeitsrecht-Plugin: Einrichtung abgeschlossen
+=============================================
+
+Praxisumfeld: [Kanzlei/in-house/Syndikus]
+Nutzerrolle: [Anwalt / HR mit Zugang / HR ohne Zugang]
+KSchG anwendbar: [ja/nein – Begründung]
+Tarifbindung: [ja: Tarif / nein]
+Betriebsrat: [ja / nein / unklar]
+
+Standorte:
+ DE-BY: N Mitarbeiter
+ DE-NW: N Mitarbeiter
+ [...]
+
+Eskalationstabelle:
+ Betriebsbedingte Kündigung → immer GC + Außenberater
+ Kündigung Schwerbehinderte → immer Inklusionsamt Paragraf 168 SGB IX
+ Kündigung BR-Mitglied → immer Paragraf 15 KSchG prüfen, GC
+ Kündigung Schwangerschaft → Paragraf 17 MuSchG Zustimmung Behörde
+ [...]
+
+Seed-Dokumente gelesen: [N]
+⚪ Integrationen: [Liste mit Status]
+
+Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Beispiele
+
+```
+/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview
+```
+
+```
+/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview --redo
+```
+
+```
+/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview --check-integrations
+```
+
+## Risiken / typische Fehler
+
+- **Tarifbindung übersehen.** Nachwirkung (Paragraf 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (Paragraf 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
+- **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (Paragraf 1 BetrVG). Auf Paragraf 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
+- **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; Paragraf 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `arbeitsrecht-anpassen`
+
+_Für /arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: arbeitsrecht-anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# /arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: arbeitsrecht-anpassen
+
+## Zweck
+
+Der Nutzer möchte etwas im Praxisprofil ändern – eine Jurisdiktion, eine Risikoeinstellung, einen Eskalationskontakt, eine Handbuchposition – ohne das gesamte Kaltstart-Interview zu wiederholen.
+
+## Eingaben
+
+- Beschreibung der gewünschten Änderung (Freitext oder Abschnittsname)
+- Aktuelle Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md`
+
+## Ablauf
+
+### 1. Konfiguration lesen
+
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` einlesen.
+
+Falls das Plugin noch nicht eingerichtet ist oder `[PLATZHALTER]` enthält:
+> Das Plugin wurde noch nicht eingerichtet. Führen Sie `/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: kaltstart-interview` aus.
+
+### 2. Gewünschte Änderung klären
+
+Wenn die Angabe des Nutzers unklar ist, einen einzigen klärenden Prompt stellen – nicht mehrere Nachfragen hintereinander:
+
+> Was möchten Sie ändern?
+> - Neuen Standort / neues Bundesland hinzufügen
+> - Tarifvertrag oder Betriebsratssituation aktualisieren
+> - Eskalationskontakt ändern
+> - Einstellungs- oder Kündigungsregeln anpassen
+> - Handbuch-/Betriebsvereinbarungsreferenz aktualisieren
+> - Integrationen neu prüfen (`--check-integrations`)
+> - Anderes – bitte beschreiben
+
+### 3. Nur den betroffenen Abschnitt aktualisieren
+
+Den relevanten Abschnitt in der Konfigurationsdatei isolieren, die Änderung durchführen, den Rest unberührt lassen. Keine komplette Neugenerierung.
+
+**Besonderheiten:**
+- **Neuer Standort / Bundesland:** Eskalationstabelle um das neue Bundesland ergänzen. Auf besondere Landesgesetze hinweisen (z.B. Bayerisches Urlaubsgesetz, abweichendes Landesdatenschutzrecht). KSchG-Schwellenwert neu berechnen.
+- **Neuer Tarifvertrag:** Nachwirkung (Paragraf 4 Abs. 5 TVG) und Günstigkeitsprinzip (Paragraf 4 Abs. 3 TVG) berücksichtigen. Ggf. Hinweis auf Allgemeinverbindlichkeit (Paragraf 5 TVG).
+- **Betriebsrat neu eingetragen:** Paragraf 102 BetrVG-Verpflichtung in Eskalationstabelle aufnehmen; Hinweis auf Paragraf 99 BetrVG (Einstellung) und Paragraf 87 BetrVG (Mitbestimmung).
+- **Eskalationskontakt:** Nur dieses Feld ändern; Risikologik bleibt.
+
+### 4. Änderung schreiben und bestätigen
+
+Die geänderte Konfiguration zurückschreiben und dem Nutzer mitteilen, was geändert wurde (Vorher/Nachher, ein Diff).
+
+## Quellen und Zitierweise
+
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
+
+Relevante Normen je nach Änderungsbereich:
+- Neues Bundesland: Landesurlaubsgesetze, LDSG des Landes, ggf. Tarifvertrag mit Landesbezug
+- Betriebsrat: BetrVG Paragrafen 1, 87, 99, 102, 111 ff.
+
+## Ausgabeformat
+
+```
+Profil-Änderung: [Kürzel der Änderung]
+================================================
+Geändert:  [Abschnitt in CLAUDE.md]
+
+Vorher:
+  [Alt-Wert]
+
+Nachher:
+  [Neu-Wert]
+
+Gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Beispiele
+
+```
+/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: arbeitsrecht-anpassen
+Neuen Standort Hamburg hinzufügen, ca. 25 Mitarbeiter, kein Betriebsrat.
+```
+
+```
+/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: arbeitsrecht-anpassen
+Eskalationskontakt für betriebsbedingte Kündigungen auf Dr. Müller (GC) ändern.
+```
+
+```
+/arbeitsrecht:mandatsakte-quellen-kommunikation-bearbeiten Thema: arbeitsrecht-anpassen
+Wir sind seit Januar diesem Jahr an den Tarifvertrag Einzelhandel NRW gebunden.
+```
+
+## Risiken / typische Fehler
+
+- **Landesrecht übersehen.** Bayern, Brandenburg und andere Länder haben eigene Urlaubsgesetze mit abweichenden Mindesturlaubstagen. Bei neuem Bundesland immer Landesspezifika prüfen.
+- **Tarifbindung durch Bezugnahmeklausel.** Auch ohne Verbandsmitgliedschaft kann ein Tarifvertrag vertraglich einbezogen sein. Prüfen, ob neue Tarifbindung auch bestehende Verträge erfasst.
+- **Betriebsrat-Zuständigkeit.** Bei neuem Betriebsrat: Paragraf 102 BetrVG gilt für JEDE Kündigung, Paragraf 99 BetrVG für jede Einstellung – sofort in Eskalationstabelle aufnehmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt`
 
 _Für Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
@@ -1229,108 +1522,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ---
 
-## Skill: `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag`
-
-_Für Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
-
-# Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis** im Bereich **Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung`
-
-_Für Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
-
-# Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Persönliche Übergabe Empfangsverweigerung und Zeugen** im Bereich **Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
-
----
-
 ## Anwendungshinweise
 
 Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
@@ -1354,7 +1545,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

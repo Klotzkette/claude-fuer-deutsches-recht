@@ -156,21 +156,21 @@ Dieser Einstieg routet **Dsa Dma Digitalregulierung** vom ersten Sachverhalt zu 
 
 ## Fachlandkarte dieses Plugins
 
-- `account-internationaler-bezug-und-schnittstellen` — Account Internationaler Bezug und Schnittstellen
-- `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
-- `bussgeldverteidigung` — Bussgeldverteidigung
-- `dark-patterns-internes-beschwerdesystem` — Dark Patterns Internes Beschwerdesystem
-- `data-digitalregulierung-dora` — Data Digitalregulierung Dora
-- `digitalregulierung-erstpruefung-und-mandatsziel` — Digitalregulierung Erstpruefung und Mandatsziel
-- `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
-- `dma-anti-steering-app-store-design` — DMA Anti Steering APP Store Design
-- `dma-business-user-gatekeeper` — DMA Business User Gatekeeper
-- `dma-fristen-form-und-zustaendigkeit` — DMA Fristen Form und Zustaendigkeit
-- `dma-gatekeeper-schwellen-und-kernplattformdienste` — DMA Gatekeeper Schwellen und Kernplattformdienste
-- `dma-interoperabilitaet-messenger-art-7` — DMA Interoperabilitaet Messenger ART 7
-- `dma-pflichten-dsa-art-forschungsdatenzugang` — DMA Pflichten DSA ART Forschungsdatenzugang
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `pflichtmatrix-bearbeiten` (Fachthema: account-internationaler-bezug-und-schnittstellen) — Account Internationaler Bezug und Schnittstellen
+- `vorgang-bearbeiten` (Fachthema: account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa) — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
+- `pflichtmatrix-bearbeiten` (Fachthema: bussgeldverteidigung) — Bussgeldverteidigung
+- `grundrechte-und-verfahren-bearbeiten` (Fachthema: dark-patterns-internes-beschwerdesystem) — Dark Patterns Internes Beschwerdesystem
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: data-digitalregulierung-dora) — Data Digitalregulierung Dora
+- `pflichtmatrix-bearbeiten` (Fachthema: digitalregulierung-erstpruefung-und-mandatsziel) — Digitalregulierung Erstpruefung und Mandatsziel
+- `pflichtmatrix-bearbeiten` (Fachthema: digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb) — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
+- `pflichtmatrix-bearbeiten` (Fachthema: dma-anti-steering-app-store-design) — DMA Anti Steering APP Store Design
+- `dienst-und-rolle-bearbeiten` (Fachthema: dma-business-user-gatekeeper) — DMA Business User Gatekeeper
+- `grundrechte-und-verfahren-bearbeiten` (Fachthema: dma-fristen-form-und-zustaendigkeit) — DMA Fristen Form und Zustaendigkeit
+- `dienst-und-rolle-bearbeiten` (Fachthema: dma-gatekeeper-schwellen-und-kernplattformdienste) — DMA Gatekeeper Schwellen und Kernplattformdienste
+- `pflichtmatrix-bearbeiten` (Fachthema: dma-interoperabilitaet-messenger-art-7) — DMA Interoperabilitaet Messenger ART 7
+- `pflichtmatrix-bearbeiten` (Fachthema: dma-pflichten-dsa-art-forschungsdatenzugang) — DMA Pflichten DSA ART Forschungsdatenzugang
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -796,6 +796,7 @@ Nächste Schritte: [LISTE]
 ```
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/dsa-dma-digitalregulierung/references/ki-normen-und-fallpruefung.md). Ordnen Sie Plattformdienst, GPAI-Modell und konkrete Systemfunktion auseinander. Aus VLOP-Eigenschaft folgt weder eine beliebige KI-VO-Risikoklasse noch dieselbe Zuständigkeit für jede Betreiberfunktion. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -1176,7 +1177,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

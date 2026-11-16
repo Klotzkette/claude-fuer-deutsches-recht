@@ -13,7 +13,7 @@ Ein Fachmodul ist eine Vertiefung innerhalb eines Skills. Einzeln heruntergelade
 - [Meldung an die zuständige deutsche Datenschutzaufsicht](skills/meldung-deutsche-aufsichtsbehoerde/SKILL.md)
 - [Kaltstart und Routing](skills/workflow-kaltstart-und-routing/SKILL.md)
 
-## 2. Aufnahme, Rechtsgrundlagen und Verantwortlichkeit
+## 2. Datenverarbeitung und Empfänger prüfen
 
 Verarbeitungsvorgang, Rollen, Rechtsgrundlage, besondere Daten und Datenminimierung ermitteln.
 

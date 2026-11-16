@@ -455,7 +455,7 @@
       "Bestandsaufnahme, örtliche Berechnung, Rechtsfolge und Fortsetzung nach Belegeingang ausformuliert.",
       "Redaktion 16.10.2026: Tatsächliche Fläche und fortbestehende Kappungsgrenze im Einstieg; vorhandener Leitsatzstatus sichtbar. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "37a1fe473d97389bd2df0841de4b54b97df9211d6b703561ebddbc5727413b3d"
+    "sha256": "3a3f3f32c61da748799a629f3a06ba2bc7312b62091f197eac6ecdb4f3bd92d1"
   },
   "visual_workflow_review": {
     "method": "desk_review",

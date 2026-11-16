@@ -51,7 +51,7 @@ Vergütung, Entgeltgleichheit, Annahmeverzug, Freistellung, Urlaub und Arbeitsze
 
 ## 4. Kündigung, Zugang und Aufhebungsvertrag
 
-Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.
+Lies Kündigung oder Aufhebungsentwurf, Arbeitsvertrag und Zustellbelege. Erstelle daraus die beauftragte Kündigungsprüfung, Klagefassung oder Verhandlungsposition.
 
 [Arbeitsweg öffnen](skills/kuendigung-zugang-trennung-bearbeiten/SKILL.md)
 

@@ -11,7 +11,7 @@ Ein Fachmodul ist eine Vertiefung innerhalb eines Skills. Einzeln heruntergelade
 - [BWA-Analyse und Mandantenbericht](skills/bwa-analyse-und-mandantenbericht/SKILL.md)
 - [DBA-Länderprüfung](skills/dba-alle-abkommen-laendermatrix-2026/SKILL.md)
 - [1. Zweck und Anwendungsfall](skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md)
-- [Juristischer Argumentationskern - Steuerrecht Anwalt Und Berater](skills/juristischer-argumentationskern/SKILL.md)
+- [Steuerrecht: den Antrag oder die Berechnung begründen](skills/juristischer-argumentationskern/SKILL.md)
 - [1. Steuerauftrag aufnehmen und bis zum Dokument bearbeiten](skills/kaltstart-triage/SKILL.md)
 - [Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)](skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md)
 - [Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)](skills/liquiditaetsvorschau-3wochen/SKILL.md)
@@ -161,7 +161,7 @@ Ansässigkeit, Quellenstaat, Einkunftsartikel, Entlastung, Verrechnungspreise un
 
 ## 6. Unternehmen, Umstrukturierung und Sanierung
 
-Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sanierung und steuerliche Krisenpflichten gemeinsam prüfen.
+Liefere für eine Umstrukturierung, einen Gewinnabführungsvertrag oder einen Sanierungsfall den bestellten Steuervermerk, die Berechnung oder die begründete Empfehlung. Wo ein Bescheid vorliegt, zeige, welche Feststellung sich konkret ändern soll.
 
 [Arbeitsweg öffnen](skills/unternehmen-umstrukturierung-sanierung-bearbeiten/SKILL.md)
 
@@ -178,7 +178,7 @@ Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sanierung und steu
 - [Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung](skills/rechtsabteilung-vga-geschaeftsfuehrer/FACHINHALT.md)
 - [Sanierungsgewinn — frühzeitige Mandantenwarnung](skills/stb-sanierungsgewinn-stehengelassene/FACHINHALT.md)
 - [Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)](skills/ueberschuldungspruefung-19-inso/FACHINHALT.md)
-- [Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel nach UmwStG](skills/umwandlung-formwechsel-umwstg/FACHINHALT.md)
+- [Umwandlungssteuerrecht nach dem UmwStG](skills/umwandlung-formwechsel-umwstg/FACHINHALT.md)
 - [Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Prüfraster](skills/vga-pruefraster/FACHINHALT.md)
 - [1. Warnschreiben bei Krisensignalen](skills/warnschreiben-krisensignale/FACHINHALT.md)
 
@@ -246,7 +246,7 @@ Prüfungsanordnung, Schätzung, Schlussbesprechung, Selbstanzeige und strafrecht
 
 ## 9. Bescheid, Einspruch und Finanzgericht
 
-Bescheide, Korrekturmöglichkeiten, Fristen, AdV, Haftung und finanzgerichtlichen Rechtsschutz bis zum fertigen Arbeitsprodukt prüfen.
+Bestimme aus Bescheid, Zustellbeleg, Einspruchsentscheidung und gegebenenfalls Urteil, welcher Antrag noch möglich ist. Berechne dessen Frist und liefere den passenden Einspruch, Aussetzungsantrag oder Klageentwurf mit belegter Begründung.
 
 [Arbeitsweg öffnen](skills/bescheid-rechtsbehelf-haftung-bearbeiten/SKILL.md)
 

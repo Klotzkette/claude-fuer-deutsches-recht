@@ -159,7 +159,7 @@
       "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Rechtsordnung und gewünschte Vertragsfunktion kommen vor dem Begriffsüberblick; Wortlaut und Kontext werden anhand Wood v Capita erläutert. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "127b0c2167201caa06825c4d74409bc2cac10c49eb4edb7e1e1feacb08a2123b"
+    "sha256": "2f639e85b3dfd0bd5d011444e25fb0351d16bdee605b65a5d2be4fb06a35a57d"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

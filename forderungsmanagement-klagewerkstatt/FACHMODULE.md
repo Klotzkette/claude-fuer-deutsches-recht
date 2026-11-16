@@ -80,7 +80,7 @@ Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verj�
 
 ## 5. Prozess und Titel
 
-Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.
+Lies Anspruchsbelege, gerichtliche Schreiben und Zustellnachweise. Entscheide, ob ein Mahnantrag, eine Klage, eine Anspruchsbegründung nach Widerspruch oder die Vollstreckung des vorhandenen Titels vorbereitet werden soll. Rechne Teilzahlungen und streitige Nebenforderungen vor dem Antrag durch.
 
 [Arbeitsweg öffnen](skills/prozess-und-titel-bearbeiten/SKILL.md)
 

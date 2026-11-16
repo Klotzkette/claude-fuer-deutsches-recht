@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafbefehl-Verteidiger."
+description: "Nach erster Sichtung des Strafbefehls: bewertet vollständigen oder beschränkten Einspruch anhand der Akte, persönlichen Folgen und Risiken und erstellt das beauftragte Schreiben."
 ---
 
-# Einstieg und Routing
+# Verteidigungsweg gegen den Strafbefehl wählen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Strafbefehl Verteidiger** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Bewerte anhand des Strafbefehls und der verfügbaren Akte den geeigneten Verteidigungsweg. Erkläre Reichweite und Risiken eines Einspruchs und formuliere das beauftragte Schreiben.
+
+## Arbeitsweg
+
+1. Lies Strafbefehl, Zustellnachweis und Mandatsauftrag zusammen. Erfasse jede Rechtsfolge und sichere die Frist anhand des belegten Zustellvorgangs.
+2. Kläre nur fehlende Angaben zur Fristwahrung und Vertretung. Bereite einen beauftragten Einspruch rechtzeitig vor; warte damit nicht auf die vollständige Ermittlungsakte.
+3. Werte nach Akteneinsicht Tatvorwurf, Beweisstand und persönliche Folgen aus. Prüfe eine Beschränkung gesondert statt sie aus einem Geständnis oder niedriger Geldstrafe abzuleiten.
+4. Liefere die begründete Handlungsempfehlung und das beauftragte Schreiben. Erläutere offene Risiken vor einer Beschränkung oder Rücknahme; veranlasse diese nicht ohne Auftrag.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,14 +33,6 @@ Dieser Einstieg routet **Strafbefehl Verteidiger** vom ersten Sachverhalt zu Rol
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: pflichtverteidigung-quellenkarte) — Pflichtverteidigung Quellenkarte
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Strafbefehl Verteidiger sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

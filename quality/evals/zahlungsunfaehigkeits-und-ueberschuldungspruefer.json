@@ -978,7 +978,7 @@
       "Durchgehender Ablauf für Originalbelege, zahlenmäßig kontrollierte Liquiditätsvarianten und die getrennte Fortführungsprognose, Vermögensbewertung, Antrag und Anfechtung."
     ],
     "reviewed_on": "2026-11-16",
-    "sha256": "78b94c24ffe3466beb34632b96ccada7b8d05a92334acb1f4f653279c548a0d2"
+    "sha256": "5fa6888c58583e8f5f660eddde0995d36692fac670007d933340eecd3e233440"
   },
   "prompt_editorial_review": {
     "date": "2026-11-13",
@@ -1071,8 +1071,8 @@
   },
   "visual_workflow_review": {
     "method": "desk_review",
-    "date": "2026-11-13",
-    "scope": "Fachlich zugeordnete Visualisierungsführung, belegte Auswahl und Fortsetzung; Fachtext außerhalb des Zusatzes bytegleich.",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
     "files": [
       "zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md"
     ],

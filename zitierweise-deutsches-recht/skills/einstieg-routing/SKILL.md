@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht."
+description: "Für eine juristische Quellenprüfung: gleicht Aussage, Originaltext und genaue Fundstelle ab und liefert berichtigte Zitate mit offen ausgewiesenen Nachweislücken."
 ---
 
-# Einstieg und Routing
+# Rechtsquellen verifizieren und Zitate berichtigen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Zitierweise Deutsches Recht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Gleiche jede tragende Rechtsaussage mit ihrer Originalquelle und genauen Fundstelle ab. Berichtige den Text und weise fehlende Nachweise aus, ohne sie aus Erinnerung zu ergänzen.
+
+## Arbeitsweg
+
+1. Lies den zu prüfenden Text und ordne jeder tragenden Aussage ihre Fundstelle zu. Kläre, ob nur Zitatformat oder auch Aussage und Übertragbarkeit geprüft werden sollen.
+2. Öffne die Originalquelle und kontrolliere Gericht oder Autor, Datum, Aktenzeichen oder Werkfassung sowie konkrete Textstelle. Eine Trefferliste ersetzt keinen Volltext.
+3. Trenne belegte Aussage, eigene Schlussfolgerung und fehlenden Nachweis. Prüfe bei Rechtsprechung Sachverhalt und Verfahrenslage, bei Normen Fassung und Anwendungszeitpunkt.
+4. Liefere den korrigierten Text und eine knappe Liste offener Nachweise. Ergänze keine Randnummer, Auflage oder Literaturfundstelle aus bloßer Erinnerung.
 
 ## Fachlandkarte dieses Plugins
 
@@ -41,14 +48,6 @@ Arbeitsfokus: **Einstieg und Routing**. Prüfe diese Anker am Sachverhalt; ergä
 - `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Zitierweise Deutsches Recht sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

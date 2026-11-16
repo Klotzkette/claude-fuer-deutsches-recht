@@ -11,20 +11,20 @@ Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `strafbefehl-vertei
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Strafbefehl Verteidiger ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
-2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+2. **einstieg-routing** — Nach erster Sichtung des Strafbefehls: bewertet vollständigen oder beschränkten Einspruch anhand der Akte, persönlichen …
 3. **strafbefehls-erstpruefung-und-mandatsziel** — Für Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis:…
 4. **strafbefehl-zulaessigkeit-407** — Prüft Verfahrensvoraussetzungen, Sanktionskatalog und Pflichtinhalt eines Strafbefehls sowie Grenzen nachträglicher Beri…
 5. **strafbefehl-dokumentenmatrix-und-lueckenliste** — Für Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenma…
 6. **strafbefehl-einspruch-beschraenkung** — Für Beschränkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; …
 7. **einspruchsentscheidung-und-folgen** — Für Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: ordnet Norm, Beweislast und Gegenargument; Er…
 8. **strafbefehl-wiedereinsetzung** — Für Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO: ordnet Norm, Beweislast und Gegenargument; Erge…
-9. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-10. **fahrerlaubnis-mandantenentscheidung** — Für Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
-11. **strafbefehl-abwesenheit-vertretung** — Für Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
-12. **wiedereinsetzung-zahlen-schwellen-und-berechnung** — Für Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechn…
-13. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-14. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
-15. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+9. **fahrerlaubnis-mandantenentscheidung** — Für Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+10. **strafbefehl-abwesenheit-vertretung** — Für Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+11. **wiedereinsetzung-zahlen-schwellen-und-berechnung** — Für Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechn…
+12. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+13. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
+14. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+15. **strafbefehl-deal-verstaendigung** — Für Verständigung im Strafbefehlsverfahren — Paragraf 257c StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
 
 ---
 
@@ -150,39 +150,38 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 
 ## Skill: `einstieg-routing`
 
-_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafbefehl-Verteidiger._
+_Nach erster Sichtung des Strafbefehls: bewertet vollständigen oder beschränkten Einspruch anhand der Akte, persönlichen Folgen und Risiken und erstellt das beauftragte Schreiben._
 
-# Einstieg und Routing
+# Verteidigungsweg gegen den Strafbefehl wählen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Strafbefehl Verteidiger** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
-
-## Fachlandkarte dieses Plugins
-
-- `aktenanlage-fehlerkatalog` — Aktenanlage Fehlerkatalog
-- `akteneinsicht-behoerden-gericht-und-registerweg` — Akteneinsicht Behoerden Gericht und Registerweg
-- `deal-beweislast-einspruch` — Deal Beweislast Einspruch
-- `einspruch-risikoampel-und-gegenargumente` — Einspruch Risikoampel und Gegenargumente
-- `einspruchsentscheidung-und-folgen` — Einspruchsentscheidung und Folgen
-- `einstellung-153a-hauptverhandlung` — Einstellung 153a Hauptverhandlung
-- `einstellung-fahrerlaubnis` — Einstellung Fahrerlaubnis
-- `fahrerlaubnis-mandantenentscheidung` — Fahrerlaubnis Mandantenentscheidung
-- `hauptverhandlung-international-schnittstellen` — Hauptverhandlung International Schnittstellen
-- `mandantenkommunikation-redteam-qualitygate` — Mandantenkommunikation Redteam Qualitygate
-- `nebenfolgen-fahrerlaubnis-strafbefehl` — Nebenfolgen Fahrerlaubnis Strafbefehl
-- `nebenfolgen-strafbefehl-strafbefehls` — Nebenfolgen Strafbefehl Strafbefehls
-- `pflichtverteidigung-quellenkarte` — Pflichtverteidigung Quellenkarte
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+Bewerte anhand des Strafbefehls und der verfügbaren Akte den geeigneten Verteidigungsweg. Erkläre Reichweite und Risiken eines Einspruchs und formuliere das beauftragte Schreiben.
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Strafbefehl Verteidiger sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Lies Strafbefehl, Zustellnachweis und Mandatsauftrag zusammen. Erfasse jede Rechtsfolge und sichere die Frist anhand des belegten Zustellvorgangs.
+2. Kläre nur fehlende Angaben zur Fristwahrung und Vertretung. Bereite einen beauftragten Einspruch rechtzeitig vor; warte damit nicht auf die vollständige Ermittlungsakte.
+3. Werte nach Akteneinsicht Tatvorwurf, Beweisstand und persönliche Folgen aus. Prüfe eine Beschränkung gesondert statt sie aus einem Geständnis oder niedriger Geldstrafe abzuleiten.
+4. Liefere die begründete Handlungsempfehlung und das beauftragte Schreiben. Erläutere offene Risiken vor einer Beschränkung oder Rücknahme; veranlasse diese nicht ohne Auftrag.
+
+## Fachlandkarte dieses Plugins
+
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: aktenanlage-fehlerkatalog) — Aktenanlage Fehlerkatalog
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: akteneinsicht-behoerden-gericht-und-registerweg) — Akteneinsicht Behoerden Gericht und Registerweg
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: deal-beweislast-einspruch) — Deal Beweislast Einspruch
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: einspruch-risikoampel-und-gegenargumente) — Einspruch Risikoampel und Gegenargumente
+- `entscheidung-und-rechtsmittel-bearbeiten` (Fachthema: einspruchsentscheidung-und-folgen) — Einspruchsentscheidung und Folgen
+- `entscheidung-und-rechtsmittel-bearbeiten` (Fachthema: einstellung-153a-hauptverhandlung) — Einstellung 153a Hauptverhandlung
+- `entscheidung-und-rechtsmittel-bearbeiten` (Fachthema: einstellung-fahrerlaubnis) — Einstellung Fahrerlaubnis
+- `sanktion-und-vollstreckung-bearbeiten` (Fachthema: fahrerlaubnis-mandantenentscheidung) — Fahrerlaubnis Mandantenentscheidung
+- `anklage-und-hauptverhandlung-bearbeiten` (Fachthema: hauptverhandlung-international-schnittstellen) — Hauptverhandlung International Schnittstellen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: mandantenkommunikation-redteam-qualitygate) — Mandantenkommunikation Redteam Qualitygate
+- `entscheidung-und-rechtsmittel-bearbeiten` (Fachthema: nebenfolgen-fahrerlaubnis-strafbefehl) — Nebenfolgen Fahrerlaubnis Strafbefehl
+- `entscheidung-und-rechtsmittel-bearbeiten` (Fachthema: nebenfolgen-strafbefehl-strafbefehls) — Nebenfolgen Strafbefehl Strafbefehls
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: pflichtverteidigung-quellenkarte) — Pflichtverteidigung Quellenkarte
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Qualitätsanker
 
@@ -638,53 +637,6 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ---
 
-## Skill: `workflow-kaltstart-und-routing`
-
-_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafbefehl-Verteidiger._
-
-# Kaltstart und Routing
-
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## Strafbefehl-Kaltstart-Triage
-- **Stufe 1 - Zustellung pruefen:** Wann zugestellt? Postzustellungsurkunde § 37 StPO; bei Wohnsitzwechsel ggf. Heilung § 189 ZPO. **Frist 2 Wochen § 410 StPO** beginnt mit Zustellung.
-- **Stufe 2 - Tatvorwurf erfassen:** §§ 407 II StPO Strafbefehl moeglich nur bei Vergehen; Hoechststrafe regelmaessig Geldstrafe, Freiheitsstrafe bis 1 Jahr nur mit Verteidiger und auf Bewaehrung (§ 407 II 2 StPO).
-- **Stufe 3 - Entscheidung Einspruch ja/nein:**
-  - **Einspruch sinnvoll:** Tatvorwurf bestritten, Strafmass unangemessen, Nebenfolge belastend (Fahrverbot, Punkte FAER, BZR-Eintrag mit Folgen Beamtenrecht).
-  - **Einspruch nicht sinnvoll:** Tat eingestanden, Strafmass im Rahmen, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
-  - **Teil-Einspruch § 410 II StPO** pruefen (z. B. nur Rechtsfolgenausspruch / Tagessatzhoehe / Fahrverbot).
-- **Stufe 4 - Verteidigerbestellung pruefen:** Notwendige Verteidigung §§ 140-141 StPO; Pflichtverteidigerbestellung § 408b StPO bei Freiheitsstrafe-Strafbefehl.
-- **Stufe 5 - Anschluss:** Akteneinsicht § 147 StPO sofort beantragen, dann Verteidigungsstrategie.
-
----
-
 ## Skill: `fahrerlaubnis-mandantenentscheidung`
 
 _Für Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
@@ -1044,6 +996,103 @@ Dieser Quellen-Livecheck für **Strafbefehl Verteidiger** trennt amtliche Normfa
 
 ---
 
+## Skill: `strafbefehl-deal-verstaendigung`
+
+_Für Verständigung im Strafbefehlsverfahren — Paragraf 257c StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Verstaendigung im Strafbefehlsverfahren — § 257c StPO
+
+## Arbeitsbereich
+
+Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+
+1. **Ist eine Verstaendigung im Strafbefehlsverfahren sinnvoll?** — Strafbefehlsverfahren ist ungeeignet für komplexe Deals; einfacher: § 153a-Antrag oder direkter Strafmass-Einspruch mit Gestaendnis.
+2. **Liegt Gestaendnisbereitschaft des Mandanten vor?** — Verstaendigung setzt nach BGH ein Gestaendnis voraus (§ 257c Abs. 2 StPO).
+3. **Was ist das Ziel?** — Geldstrafe statt Bewaehrungsstrafe? Fahrverbot-Vermeidung? Einstellung nach § 153a? Klares Ziel formulieren.
+4. **Ist die Staatsanwaltschaft kontaktierbar?** — Fruehzeitige informelle Sondierung vor foermlicher Verstaendigungsanfrage ist zulässig.
+5. **Sind Mitbeschuldigte betroffen?** — Verstaendigung darf nur das eigene Verfahren betreffen.
+
+## Zentrale Normen
+
+- **§ 257c StPO** — Verstaendigung: Voraussetzungen, Inhalt, Bindung, Belehrung
+- **§ 257c Abs. 1 StPO** — Verstaendigung nur mit Zustimmung aller Verfahrensbeteiligter (Gericht, StA, Verteidiger/Angeklagter)
+- **§ 257c Abs. 2 StPO** — Gegenstand: Rechtsfolgen, prozessuale Handlungen; NICHT: Schuldspruch
+- **§ 257c Abs. 4 StPO** — Bindungswirkung entfaellt bei veraenderter Sachlage
+- **§ 257c Abs. 5 StPO** — Belehrungspflicht vor Verstaendigung
+- **§ 153 StPO** — Einstellung bei Geringfuegigkeit (ohne Auflage)
+- **§ 153a StPO** — Einstellung gegen Auflage (Praxis-Alternative zur Verstaendigung)
+- **§ 46a StGB** — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
+
+## Aktuelle Rechtsprechung (Stand Mai 2026)
+
+- BGH 20.11.2025 — 4 StR 232/25 (4. Strafsenat): TOA § 46a Nr. 1 StGB setzt einen friedensstiftenden kommunikativen Prozess voraus; bloße Zahlung an das Opfer reicht für Strafmilderung nicht aus. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
+- BVerfG-Rahmen (Stand-by) zu § 257c StPO: Maßstab weiterhin BVerfG 19.03.2013 — 2 BvR 2628/10, 2 BvR 2155/11, 2 BvR 2883/10 (Verstaendigungs-Urteil); Aktualisierungen vor Ausgabe in dejure.org / bverfg.de prüfen. Offene Fundstelle Verstaendigungs-Urteil: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+BvR+2628/10
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Anwendung des § 257c StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 257c StPO Strafbefehl" durchführen.
+
+## Abgrenzung: Wann welches Instrument?
+
+| Instrument | Geeignet wenn | Vorteil |
+|-----------|--------------|---------|
+| § 153 StPO | Bagatelldelikt, keine Vorstrafe, geringer Schaden | Keine Auflage, kein Eintrag |
+| § 153a StPO | Mittelgraes Delikt, Zahlungsbereitschaft | Kein Strafregister (Tilgung), flexibel |
+| § 257c StPO | Schweres Delikt, Hauptverhandlung notwendig | Strafmass-Sicherheit, Verfahrensabkuerzung |
+| § 46a StGB + Gestaendnis | Geschaedigter vorhanden, Wiedergutmachung möglich | Erhebliche Strafmilderung, kann Bewaehrung ermoeglichen |
+
+## Schritt-für-Schritt-Workflow
+
+1. **Zieldefinition mit Mandant:** Was soll das Ergebnis sein? (Strafmass, Fahrverbot, Eintrag)
+2. **Informelle Sondierung:** Staatsanwalt telefonisch kontaktieren — Einstellungsbereitschaft testen.
+3. **§ 153a-Antrag formulieren** wenn Einstellungsbereitschaft vorhanden — einfacher als foermliche Verstaendigung.
+4. **Wenn § 257c notwendig:** Schriftlichen Verstaendigungsvorschlag formulieren mit exakten Rechtsfolgen-Grenzen.
+5. **Hauptverhandlung:** Gericht macht Verstaendigungsvorschlag; alle Beteiligten stimmen zu; Belehrung nach § 257c Abs. 5 StPO protokollieren lassen.
+6. **Gestaendnis:** Konkret, glaubhaft, auf Beweislage abgestimmt.
+7. **Protokollkontrolle:** Verstaendigungsinhalt korrekt protokolliert? Belehrung dokumentiert?
+
+## Output-Template § 153a-Antrag
+
+**Adressat:** Staatsanwaltschaft — Tonfall: sachlich-kooperativ
+
+```
+In der Strafsache gegen [NAME]
+Az.: [AKTENZEICHEN]
+
+Antrag auf Einstellung nach § 153a StPO
+
+Sehr geehrte Damen und Herren,
+
+ich rege an, das Verfahren gegen [NAME] gegen Zahlung einer
+Geldbusse von [BETRAG] EUR an [EINRICHTUNG] nach § 153a Abs. 1
+StPO einzustellen.
+
+Mein Mandant ist ersttaetig, zeigt Reue und hat [Wiedergutmachung]
+geleistet. Der Tatvorwurf betrifft [kurze Tat-Charakterisierung].
+Publik-Interesse an Strafverfolgung steht in keinem Verhaeltnis
+zum Aufwand.
+
+[NAME] erklaert seine Zustimmung zur Einstellung.
+
+Mit freundlichen Gruessen [KANZLEI]
+```
+
+## Harte Leitplanken
+
+- Verstaendigung NIEMALS ohne Belehrung nach § 257c Abs. 5 StPO — Revisionsrisiko.
+- Informelle Zusagen nicht vertrauen — nur foermliche Verstaendigung im Protokoll ist bindend.
+- Bindungswirkung entfaellt bei neuen Erkenntnissen (§ 257c Abs. 4 StPO) — Mandant darauf hinweisen.
+- Anwaltliche Endkontrolle bei Gestaendnisformulierung und Protokoll.
+
+---
+
 ## Anwendungshinweise
 
 Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
@@ -1067,7 +1116,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

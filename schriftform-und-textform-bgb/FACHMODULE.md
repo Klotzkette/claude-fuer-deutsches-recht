@@ -8,9 +8,9 @@ Ein Fachmodul ist eine Vertiefung innerhalb eines Skills. Einzeln heruntergelade
 
 ## 1. Direkte Einstiege und Fachwerkzeuge
 
-- [Einstieg und Routing](skills/einstieg-routing/SKILL.md)
+- [Formwirksamkeit prüfen und Mängel beheben](skills/einstieg-routing/SKILL.md)
 - [Juristischer Argumentationskern - Schriftform Und Textform BGB](skills/juristischer-argumentationskern/SKILL.md)
-- [Kaltstart und Routing](skills/workflow-kaltstart-und-routing/SKILL.md)
+- [Erklärung und geltende Formanforderung bestimmen](skills/workflow-kaltstart-und-routing/SKILL.md)
 
 ## 2. Rechtsgeschäft und Wirksamkeit
 

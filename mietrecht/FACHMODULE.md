@@ -24,7 +24,7 @@ Mietvertrag und Gebrauchsrechte: Vertrag, Parteien, Wohnraum oder Gewerbe, Über
 
 ## 3. Miete und Betriebskosten
 
-Miete und Betriebskosten: Miethöhe, Erhöhung, Mietpreisbremse, Index, Staffel, Abrechnung und Umlageschlüssel rechnerisch prüfen.
+Berechne die strittige Miete, Erhöhung oder Betriebskostenforderung aus Vertrag, Abrechnung und Zahlungsbelegen. Formuliere die bestellte Erklärung, Einwendung oder Nachforderung mit nachvollziehbarer Rechnung.
 
 [Arbeitsweg öffnen](skills/miete-und-betriebskosten-bearbeiten/SKILL.md)
 

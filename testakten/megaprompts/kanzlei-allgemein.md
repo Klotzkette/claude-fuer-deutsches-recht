@@ -13,8 +13,8 @@ Diese Vollprüfung enthält top-15 von 52 Skills des Plugins `kanzlei-allgemein`
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Kanzlei Allgemein ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet …
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **bea-versand-pruefen** — Prüft einen konkreten elektronischen Gerichtsversand vor und nach dem Absenden: bestimmt Verfahrensordnung, Empfänger un…
-4. **umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten** — Für Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten: ordnet Norm, Beweislast und Gegenargument; …
-5. **kanzlei-cowork-kaltstart-interview** — Für /kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Pr…
+4. **kanzlei-cowork-kaltstart-interview** — Für /kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unter…
+5. **umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten** — Für Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten: ordnet Norm, Beweislast und Gegenargument; …
 6. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
 7. **handelsregisterabruf** — Für Handelsregisterabruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweisch…
 8. **rechnungserstellung-rvg** — Für Rechnungserstellung Honorar (RVG oder Vereinbarung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
@@ -260,6 +260,62 @@ Liefere Vorversand- oder Nachversandprotokoll, Stop-Liste, Signaturentscheidung,
 
 ---
 
+## Skill: `kanzlei-cowork-kaltstart-interview`
+
+_Für /kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 1. Kanzleikonfiguration einrichten
+
+Erstelle oder ergänze das beauftragte Kanzleiprofil anhand bestehender Konventionen. Bei einem einzelnen Mandatsauftrag verwende vorhandene Vorgaben, statt ein vollständiges Einrichtungsinterview voranzustellen.
+
+## 1.1. Vorhandene Konfiguration lesen
+
+Prüfe bei entsprechendem Auftrag die vorhandene Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md`. Vollständig bestätigte Angaben weiterverwenden; offene Platzhalter und widersprüchliche Einstellungen gezielt klären. Eine vorhandene Datei nicht allein wegen fehlender Platzhalter als sachlich richtig bestätigen.
+
+Nur die freigegebene Konfiguration ändern. Kein Profil löschen, keine Integration verbinden und keine Mandantenakte anlegen, wenn dies nicht beauftragt ist.
+
+## 1.2. Offene Einstellungen fachlich klären
+
+### 1.2.1. Kanzlei und Akten
+
+Rechtsform, Standort, Kammerbezirk, Anwälte, Mitarbeiterrollen und Sekretariat nur soweit erforderlich erheben. Rechtsgebiete, Mandantenstruktur und Fachzuständigkeiten den konkreten Abläufen zuordnen. Paragrafen 43, 43a und 51 BRAO sowie Paragraf 8 PartGG nach der jeweiligen Organisationsfrage prüfen.
+
+Bestehendes Aktennummernsystem und Verzeichniskonvention verwenden. Der technische Aktenpfad bleibt `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandate/<az>/`; mögliche vorhandene Unterordner sind `01_stammdaten 02_korrespondenz 03_schriftsaetze 04_anlagen 05_fristen 06_honorar`. Abweichungen nicht ohne Auftrag vereinheitlichen.
+
+### 1.2.2. Postfach, Versand und Fristen
+
+Tatsächliche beA-Verfügbarkeit, Berechtigungen, Signaturmittel und weitere Kanäle wie EGVP, Post oder sicherer Mandantenzugang klären. Paragraf 31a BRAO und konkrete elektronische Einreichungspflicht auseinanderhalten; kein pauschales Einrichtungsdatum für sämtliche Pflichten übernehmen.
+
+Verbindlichen Fristenkalender, Kontrolle, Vertretung und Vorfristen aus der Kanzleivorgabe bestimmen. Eine typische Fünf-Tage-Vorfrist nicht als verbindliche Einstellung erfinden. Fehlt die verantwortliche Person, gezielt fragen; nach Antwort Kalender- und Versandablauf gemeinsam aktualisieren.
+
+### 1.2.3. Honorar, Buchhaltung und Mahnung
+
+RVG-Abrechnung, Honorarvereinbarung, Stundensätze, Zeitnachweise, Zwischenrechnungen und Freigabe unterscheiden. Vorhandene Software und Übergabe an die Steuerkanzlei berücksichtigen. RVG, insbesondere Vergütungsverzeichnis und Gebührentabelle, sowie erforderliche Rechnungsregeln nach ihrer tatsächlichen Funktion prüfen.
+
+Mahnpraxis, Zahlungsabgleich und Entscheidung über gerichtliche Schritte klären, ohne automatisch feste Mahnstufen oder Gebühren anzunehmen. Für UStVA Zeitraum, zuständiges Fachsystem und Verantwortliche festhalten; keine Meldung aus einer bloßen Profilbestellung ableiten.
+
+### 1.2.4. Mandantenpflege und Datenschutz
+
+Geburtstags-, Weihnachts- und Newsletterverteiler nur auf Wunsch einbeziehen. Freigegebene Empfänger, Kanal und Datenschutz prüfen; keine Nachricht automatisch versenden. Artikel 5, 6 und 9 DSGVO für die jeweiligen Daten sowie Artikel 28 bei Auftragsverarbeitung unterscheiden.
+
+## 1.3. Rückfragen und fertiges Profil
+
+Stelle kurze zusammenhängende Fragen nur zu offenen Entscheidungen des beauftragten Bereichs. Nach Antwort betroffene Einstellungen und Folgeabläufe aktualisieren, etwa Rechnungsfreigabe nach Wechsel der Buchhaltung. Zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen; bestätigte Angaben nicht erneut abfragen.
+
+Liefere das vereinbarte Profil in vollständigen verständlichen Sätzen unter dem gewünschten Dateinamen oder im beauftragten bestehenden Pfad. Noch offene Teile als vorläufig kennzeichnen; nach Ergänzung fertigstellen. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
+
+## 1.4. Quellen, Beispiel und Grenzen
+
+Tragende Normen und aktuelle technische Vorgaben prüfen; Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage. Optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus nicht in Mandantenkorrespondenz übernehmen.
+
+Bei Wechsel des verbindlichen Fristenkalenders die Zuständigkeit für Übertragung und Kontrolle klären. Danach die betroffenen Profilabschnitte ausarbeiten, ohne vorhandene Fristen ungefragt zu verschieben oder zu löschen.
+
+Optional unterstützen `/kanzlei-allgemein:fristen-und-zustaendigkeit-bearbeiten Thema: fristenbuch-fuehren`, `/kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: sekretariats-tagesbrief` und `/kanzlei-allgemein:versand-vor-check` passende Folgeaufgaben. Vor Versand Identität, Freigabe, Empfänger, Signatur und Anlagen selbst prüfen; kein Skillverweis ersetzt die Kontrolle. Außenhandlungen verbleiben in anwaltlicher Verantwortung und benötigen ausdrückliche Freigabe.
+
+Ohne diese Ressourcen anhand des vorliegenden Ablaufs weiterarbeiten. Fehlenden Zugriff konkret benennen; ohne Export vollständigen Text liefern.
+
+---
+
 ## Skill: `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`
 
 _Für Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
@@ -448,62 +504,7 @@ oder Hilfskräfte beteiligt waren.
 - **Eigenes Gutachten widerlegt KI-Verdacht nicht**: Ein Privatgutachten der Gegenpartei kann methodische Schwächen aufzeigen, aber nicht beweisen, dass das Originalgutachten KI-erstellt war.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `kanzlei-cowork-kaltstart-interview`
-
-_Für /kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# 1. Kanzleikonfiguration einrichten
-
-Erstelle oder ergänze das beauftragte Kanzleiprofil anhand bestehender Konventionen. Bei einem einzelnen Mandatsauftrag verwende vorhandene Vorgaben, statt ein vollständiges Einrichtungsinterview voranzustellen.
-
-## 1.1. Vorhandene Konfiguration lesen
-
-Prüfe bei entsprechendem Auftrag die vorhandene Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md`. Vollständig bestätigte Angaben weiterverwenden; offene Platzhalter und widersprüchliche Einstellungen gezielt klären. Eine vorhandene Datei nicht allein wegen fehlender Platzhalter als sachlich richtig bestätigen.
-
-Nur die freigegebene Konfiguration ändern. Kein Profil löschen, keine Integration verbinden und keine Mandantenakte anlegen, wenn dies nicht beauftragt ist.
-
-## 1.2. Offene Einstellungen fachlich klären
-
-### 1.2.1. Kanzlei und Akten
-
-Rechtsform, Standort, Kammerbezirk, Anwälte, Mitarbeiterrollen und Sekretariat nur soweit erforderlich erheben. Rechtsgebiete, Mandantenstruktur und Fachzuständigkeiten den konkreten Abläufen zuordnen. Paragrafen 43, 43a und 51 BRAO sowie Paragraf 8 PartGG nach der jeweiligen Organisationsfrage prüfen.
-
-Bestehendes Aktennummernsystem und Verzeichniskonvention verwenden. Der technische Aktenpfad bleibt `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandate/<az>/`; mögliche vorhandene Unterordner sind `01_stammdaten 02_korrespondenz 03_schriftsaetze 04_anlagen 05_fristen 06_honorar`. Abweichungen nicht ohne Auftrag vereinheitlichen.
-
-### 1.2.2. Postfach, Versand und Fristen
-
-Tatsächliche beA-Verfügbarkeit, Berechtigungen, Signaturmittel und weitere Kanäle wie EGVP, Post oder sicherer Mandantenzugang klären. Paragraf 31a BRAO und konkrete elektronische Einreichungspflicht auseinanderhalten; kein pauschales Einrichtungsdatum für sämtliche Pflichten übernehmen.
-
-Verbindlichen Fristenkalender, Kontrolle, Vertretung und Vorfristen aus der Kanzleivorgabe bestimmen. Eine typische Fünf-Tage-Vorfrist nicht als verbindliche Einstellung erfinden. Fehlt die verantwortliche Person, gezielt fragen; nach Antwort Kalender- und Versandablauf gemeinsam aktualisieren.
-
-### 1.2.3. Honorar, Buchhaltung und Mahnung
-
-RVG-Abrechnung, Honorarvereinbarung, Stundensätze, Zeitnachweise, Zwischenrechnungen und Freigabe unterscheiden. Vorhandene Software und Übergabe an die Steuerkanzlei berücksichtigen. RVG, insbesondere Vergütungsverzeichnis und Gebührentabelle, sowie erforderliche Rechnungsregeln nach ihrer tatsächlichen Funktion prüfen.
-
-Mahnpraxis, Zahlungsabgleich und Entscheidung über gerichtliche Schritte klären, ohne automatisch feste Mahnstufen oder Gebühren anzunehmen. Für UStVA Zeitraum, zuständiges Fachsystem und Verantwortliche festhalten; keine Meldung aus einer bloßen Profilbestellung ableiten.
-
-### 1.2.4. Mandantenpflege und Datenschutz
-
-Geburtstags-, Weihnachts- und Newsletterverteiler nur auf Wunsch einbeziehen. Freigegebene Empfänger, Kanal und Datenschutz prüfen; keine Nachricht automatisch versenden. Artikel 5, 6 und 9 DSGVO für die jeweiligen Daten sowie Artikel 28 bei Auftragsverarbeitung unterscheiden.
-
-## 1.3. Rückfragen und fertiges Profil
-
-Stelle kurze zusammenhängende Fragen nur zu offenen Entscheidungen des beauftragten Bereichs. Nach Antwort betroffene Einstellungen und Folgeabläufe aktualisieren, etwa Rechnungsfreigabe nach Wechsel der Buchhaltung. Zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen; bestätigte Angaben nicht erneut abfragen.
-
-Liefere das vereinbarte Profil in vollständigen verständlichen Sätzen unter dem gewünschten Dateinamen oder im beauftragten bestehenden Pfad. Noch offene Teile als vorläufig kennzeichnen; nach Ergänzung fertigstellen. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
-
-## 1.4. Quellen, Beispiel und Grenzen
-
-Tragende Normen und aktuelle technische Vorgaben prüfen; Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage. Optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus nicht in Mandantenkorrespondenz übernehmen.
-
-Bei Wechsel des verbindlichen Fristenkalenders die Zuständigkeit für Übertragung und Kontrolle klären. Danach die betroffenen Profilabschnitte ausarbeiten, ohne vorhandene Fristen ungefragt zu verschieben oder zu löschen.
-
-Optional unterstützen `/kanzlei-allgemein:fristen-und-zustaendigkeit-bearbeiten Thema: fristenbuch-fuehren`, `/kanzlei-allgemein:mandat-eroeffnen-bearbeiten Thema: sekretariats-tagesbrief` und `/kanzlei-allgemein:versand-vor-check` passende Folgeaufgaben. Vor Versand Identität, Freigabe, Empfänger, Signatur und Anlagen selbst prüfen; kein Skillverweis ersetzt die Kontrolle. Außenhandlungen verbleiben in anwaltlicher Verantwortung und benötigen ausdrückliche Freigabe.
-
-Ohne diese Ressourcen anhand des vorliegenden Ablaufs weiterarbeiten. Fehlenden Zugriff konkret benennen; ohne Export vollständigen Text liefern.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kanzlei-allgemein/references/ki-normen-und-fallpruefung.md). Trennen Sie Dateiorganisation, interne Entwürfe, Mandantenkommunikation und rechtsverbindliche Außenhandlungen. Technische Autonomie macht ein System nicht automatisch hochriskant und beseitigt keine Verschwiegenheits- oder Kontrollpflicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -1652,7 +1653,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

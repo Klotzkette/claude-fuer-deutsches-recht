@@ -264,7 +264,13 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Spezifischer Intake
 
-Krankenkasse, Vorversicherungszeiten, weitere Einkünfte, Ausland, Versorgungsbezüge, Steuerstatus.
+Krankenkasse, Vorversicherungszeiten, weitere Einkünfte, Ausland, Versorgungsbezüge, Steuerstatus. Bei Teilrente zusätzlich Vollrentenbetrag, Beginn, geplante Rückkehr zur Vollrente und letzten Versicherungsstatus aus den Bescheiden übernehmen.
+
+## 1. Familienversicherung nach Teilrentenwahl
+
+[BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html), Rn. 13–27: Im Altfall 2021 keine Familienversicherung durch von vornherein viermonatige Teilrente; Einkommen regelmäßig über zwölf Monate nach damaligem Kenntnisstand prognostizieren. Die Wahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Für neue Sachverhalte seit 2026 [Paragraf 10 Absatz 1 Satz 8 SGB V](https://www.gesetze-im-internet.de/sgb_5/__10.html) gesondert prüfen: Altersrente als Teilrente, zu hohes Gesamteinkommen bei Vollrente und zuletzt keine GKV müssen zusammen vorliegen. Keine rückwirkende Anwendung oder allgemeine Teilrentensperre. Ohne entstandene Familienversicherung keine darauf folgende Anschlussversicherung nach Paragraf 188 Absatz 4 SGB V. Urteil und Norm am 16.10.2026 gelesen.
+
+Ergebnis: belegte Statusprüfung und beauftragte Krankenkassenanfrage in vollständigen Sätzen, keine bloße günstige Nettosimulation. Formatierte Dokumente soweit möglich Times New Roman 11 pt, ausschließlich dezimal gliedern; bestehenden Schutz nicht eigenmächtig kündigen.
 
 ## Prüfprogramm
 
@@ -598,7 +604,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

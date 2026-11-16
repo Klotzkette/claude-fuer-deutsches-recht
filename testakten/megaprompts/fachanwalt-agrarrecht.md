@@ -197,21 +197,21 @@ Dieser Einstieg routet **Fachanwalt Agrarrecht** vom ersten Sachverhalt zu Rolle
 
 ## Fachlandkarte dieses Plugins
 
-- `agrar-einfuehrung-rechtsquellen` — Agrar Einfuehrung Rechtsquellen
-- `agrar-jagdpacht-streit-spezial` — Agrar Jagdpacht Streit Mandantenfragen
-- `agrar-tierhaltung-spezial-tieg` — Agrar Tierhaltung Erstgespraech
-- `agrar-wolfsschaden-spezial` — Agrar Wolfsschaden Cross Glozez Foerderung
-- `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung` — Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung
-- `agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle` — Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle
-- `direktzahlung-flaechenabweichung-gapinvekos` — Flächenabweichung bei Direktzahlungen prüfen
-- `agrarinvestitionsfoerderung-widerruf-rueckforderung` — Agrarinvestitionsförderung verteidigen oder zurückfordern
-- `workflow-mandantenkommunikation` — Agrarrecht Mandantenkommunikation Redteam Qualitygate Hoeferecht
-- `anerbenrecht-risikoampel-und-gegenargumente` — Anerbenrecht BGB Spezial Compliance
-- `cross-zahlen-schwellen-und-berechnung` — Cross Duengeverordnung Interessen Erbrecht
-- `direktzahlungen-quellenkarte` — Direktzahlungen Quellenkarte
-- `duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation` — Duengeverordnung Rote Gebiete Paragraf 13A Duev Derogation
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: agrar-einfuehrung-rechtsquellen) — Agrar Einfuehrung Rechtsquellen
+- `genehmigung-und-foerderung-bearbeiten` (Fachthema: agrar-jagdpacht-streit-spezial) — Agrar Jagdpacht Streit Mandantenfragen
+- `fachaufsicht-bearbeiten` (Fachthema: agrar-tierhaltung-spezial-tieg) — Agrar Tierhaltung Erstgespraech
+- `genehmigung-und-foerderung-bearbeiten` (Fachthema: agrar-wolfsschaden-spezial) — Agrar Wolfsschaden Cross Glozez Foerderung
+- `vertrags-und-erbfolgeweg-bearbeiten` (Fachthema: agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung) — Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung
+- `betrieb-und-flaeche-bearbeiten` (Fachthema: agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle) — Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle
+- `betrieb-und-flaeche-bearbeiten` (Fachthema: direktzahlung-flaechenabweichung-gapinvekos) — Flächenabweichung bei Direktzahlungen prüfen
+- `genehmigung-und-foerderung-bearbeiten` (Fachthema: agrarinvestitionsfoerderung-widerruf-rueckforderung) — Agrarinvestitionsförderung verteidigen oder zurückfordern
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: workflow-mandantenkommunikation) — Agrarrecht Mandantenkommunikation Redteam Qualitygate Hoeferecht
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anerbenrecht-risikoampel-und-gegenargumente) — Anerbenrecht BGB Spezial Compliance
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: cross-zahlen-schwellen-und-berechnung) — Cross Duengeverordnung Interessen Erbrecht
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: direktzahlungen-quellenkarte) — Direktzahlungen Quellenkarte
+- `fachaufsicht-bearbeiten` (Fachthema: duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation) — Duengeverordnung Rote Gebiete Paragraf 13A Duev Derogation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -984,7 +984,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

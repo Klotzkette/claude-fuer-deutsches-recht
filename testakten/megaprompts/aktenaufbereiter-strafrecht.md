@@ -162,21 +162,21 @@ Dieser Einstieg routet **Aktenaufbereiter Strafrecht** vom ersten Sachverhalt zu
 
 ## Fachlandkarte dieses Plugins
 
-- `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: aktenaufbereiter-erstpruefung-und-mandatsziel) — Aktenaufbereiter Erstpruefung und Mandatsziel
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
-- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Übersicht Aktenvorblatt
-- `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
-- `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
-- `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
-- `anklageschrift-zerlegen` — Anklageschrift Zerlegen
-- `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
-- `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
-- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Prüfen
-- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
-- `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
-- `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: akteneinsicht-uebersicht-aktenvorblatt) — Akteneinsicht Übersicht Aktenvorblatt
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: aktenlektuere-fristennotiz-und-naechster-schritt) — Aktenlektuere Fristennotiz und Naechster Schritt
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: aktenvorblatt-erstellen) — Aktenvorblatt Erstellen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: aktenvorblatt-schriftsatz-brief-und-memo-bausteine) — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
+- `anklage-und-hauptverhandlung-bearbeiten` (Fachthema: anklageschrift-zerlegen) — Anklageschrift Zerlegen
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: aussageanalyse-aussagepsychologie) — Aussageanalyse Aussagepsychologie
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: beweismittel-katalog-beweisverwertungsverbote) — Beweismittel Katalog Beweisverwertungsverbote
+- `beweis-und-aktenanalyse-bearbeiten` (Fachthema: beweisverwertungsverbote-pruefen) — Beweisverwertungsverbote Prüfen
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: beziehungen-spezial-chronologie-ergaenzbar) — Beziehungen Spezial Chronologie Ergaenzbar
+- `tatvorwurf-und-materielles-recht-bearbeiten` (Fachthema: beziehungsmatrix-personen-taten) — Beziehungsmatrix Personen Taten
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: chronologie-compliance-dokumentation-und-akte) — Chronologie Compliance Dokumentation und Akte
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -884,7 +884,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

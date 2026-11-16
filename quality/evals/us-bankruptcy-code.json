@@ -53,7 +53,7 @@
       "Nachgereichte Order verändert nur die gedeckte Handlung; Besitzbeginn und zusätzliche Zahlungsbedingungen steuern getrennte Fulton- und Stay-Prüfung.",
       "Forderungsdifferenz, Teilzahlung, Bar-Date-Order und Order-Neufassung verändern Anmeldung beziehungsweise begrenzte Einwendung; Gegenargument wirtschaftlicher Verluste berücksichtigt."
     ],
-    "sha256": "e27b44b5786e97953abe9ab487a74d82e953cb9ffe312c7f5a72b5c236e766b9"
+    "sha256": "6efe9f7b8da87ffe2d58f28856587c9075e8c3a58837f99e8edb506754c21c10"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -11,7 +11,7 @@ Diese Vollprüfung enthält top-10 von 91 Skills des Plugins `nda-abgleich`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Nda Abgleich ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
-2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+2. **einstieg-routing** — Für eine vorgelegte Geheimhaltungsvereinbarung: bewertet konkrete Abweichungen vom Standard und erstellt begründete, aus…
 3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
 4. **gleicht-erstpruefung-und-mandatsziel** — Für Gleicht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatb…
 5. **ampelmatrix-internationaler-bezug-und-schnittstellen** — Für Ampelmatrix: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitts…
@@ -148,45 +148,44 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `einstieg-routing`
 
-_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich._
+_Für eine vorgelegte Geheimhaltungsvereinbarung: bewertet konkrete Abweichungen vom Standard und erstellt begründete, ausformulierte Änderungen mit zulässigen Verhandlungsalternativen._
 
-# Einstieg und Routing
+# Geheimhaltungsvereinbarung gezielt überarbeiten
 
 ## Einsatzlage
 
 Gleiche den NDA-Fremdentwurf mit dem vorgelegten Standard und den freigegebenen Verhandlungspositionen ab. Bestimme aus Auftrag und Fassungen die offenlegende beziehungsweise empfangende Seite und den Austauschzweck.
 
-## Fachlandkarte dieses Plugins
-
-- `aenderungsmodus-compliance-dokumentation` — Änderungsmodus Compliance Dokumentation
-- `aenderungsmodus-compliance-dokumentation-und-akte` — Änderungsmodus Compliance Dokumentation und Akte
-- `ampelmatrix-internationaler-bezug-schnittstellen` — Ampelmatrix Internationaler Bezug Schnittstellen
-- `ampelmatrix-internationaler-bezug-und-schnittstellen` — Ampelmatrix Internationaler Bezug und Schnittstellen
-- `arbeitnehmer-kuendigung` — Arbeitnehmer Kuendigung
-- `ausgabe-changes-docx-beweislast` — Ausgabe Changes Docx Beweislast
-- `ausgabe-mandantenkommunikation-entscheidungsvorlage` — Ausgabe Mandantenkommunikation Entscheidungsvorlage
-- `changes-abschlussprodukt-uebergabe` — Changes Abschlussprodukt Übergabe
-- `changes-abschlussprodukt-und-uebergabe` — Changes Abschlussprodukt und Übergabe
-- `chirurgisch-quellenkarte` — Chirurgisch Quellenkarte
-- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
-- `docx-beweislast-darlegungslast` — Docx Beweislast Darlegungslast
-- `docx-beweislast-und-darlegungslast` — Docx Beweislast und Darlegungslast
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
-
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Nda Abgleich sind GehG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Identifiziere Fremdentwurf, Standardfassung und freigegebene Verhandlungspositionen. Kläre, wer Informationen offenlegt oder empfängt und wozu.
+2. Vergleiche Schutzgegenstand, zulässige Empfänger und Nutzung, Ausnahmen, Laufzeit, Rückgabe und Rechtsfolgen klauselscharf. Erhalte akzeptierte Formulierungen.
+3. Bewerte jede Abweichung anhand des Austauschzwecks und formuliere eine Hauptposition sowie eine begründete Rückfallposition, soweit der Auftrag dies zulässt.
+4. Liefere die bestellte Änderungsfassung und eine kurze Liste entscheidungspflichtiger Punkte. Behaupte echte Änderungsverfolgung nur, wenn die Datei sie tatsächlich enthält.
 
 ### Klauselentscheidung und Fortsetzung
 
 Fehlt die maßgebliche Standardfassung, frage genau danach und liefere bis dahin nur erkennbare Risiken, keinen behaupteten Standardabgleich. Bei widersprüchlichen Vorgaben zu Empfängern, Rückgabe oder Laufzeit die konkrete Verhandlungsentscheidung erfragen. Nach der Antwort betroffene Klausel, Definitionen und Verweise aktualisieren; neue entscheidende Konflikte gezielt klären.
 
 Erhalte akzeptierte Teile und fremde Revisionen. Liefere die bestellte Änderungsfassung vollständig ausformuliert, nicht nur eine Empfehlung für spätere Vertragsarbeit. Weitere Skills sind optional; Versand und Annahme von Positionen bedürfen der Freigabe.
+
+## Fachlandkarte dieses Plugins
+
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: aenderungsmodus-compliance-dokumentation) — Änderungsmodus Compliance Dokumentation
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: aenderungsmodus-compliance-dokumentation-und-akte) — Änderungsmodus Compliance Dokumentation und Akte
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: ampelmatrix-internationaler-bezug-schnittstellen) — Ampelmatrix Internationaler Bezug Schnittstellen
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: ampelmatrix-internationaler-bezug-und-schnittstellen) — Ampelmatrix Internationaler Bezug und Schnittstellen
+- `laufzeit-beendigung-und-streit-bearbeiten` (Fachthema: arbeitnehmer-kuendigung) — Arbeitnehmer Kuendigung
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: ausgabe-changes-docx-beweislast) — Ausgabe Changes Docx Beweislast
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: ausgabe-mandantenkommunikation-entscheidungsvorlage) — Ausgabe Mandantenkommunikation Entscheidungsvorlage
+- `abschluss-parteien-und-auslegung-bearbeiten` (Fachthema: changes-abschlussprodukt-uebergabe) — Changes Abschlussprodukt Übergabe
+- `abschluss-parteien-und-auslegung-bearbeiten` (Fachthema: changes-abschlussprodukt-und-uebergabe) — Changes Abschlussprodukt und Übergabe
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: chirurgisch-quellenkarte) — Chirurgisch Quellenkarte
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: chronologie-und-belegmatrix) — Chronologie und Belegmatrix
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: docx-beweislast-darlegungslast) — Docx Beweislast Darlegungslast
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: docx-beweislast-und-darlegungslast) — Docx Beweislast und Darlegungslast
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Normen & Rechtsprechung
 
@@ -929,7 +928,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

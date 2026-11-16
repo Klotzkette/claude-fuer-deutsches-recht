@@ -161,21 +161,21 @@ Dieser Einstieg routet **Kanzlei Builder Hub** vom ersten Sachverhalt zu Rollen,
 
 ## Fachlandkarte dieses Plugins
 
-- `anpassen` — Anpassen
-- `anschluss-router` — Anschluss Router
-- `automatischer-aktualisierer` — Automatischer Aktualisierer
-- `builder-zahlen-schwellen-und-berechnung` — Builder Zahlen Schwellen und Berechnung
-- `community-leistungsmatrix-fristennotiz` — Community Leistungsmatrix Fristennotiz
-- `daten-red-team-und-qualitaetskontrolle` — Daten RED Team und Qualitaetskontrolle
-- `deaktivieren` — Deaktivieren
-- `deinstallieren` — Deinstallieren
-- `deployment-eigenen-einsteiger` — Deployment Eigenen Einsteiger
-- `eigenen-formular-portal-und-einreichung` — Eigenen Formular Portal und Einreichung
-- `einsteiger-mandantenkommunikation-entscheidungsvorlage` — Einsteiger Mandantenkommunikation Entscheidungsvorlage
-- `findet-gate-installiert` — Findet Gate Installiert
-- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+- `skills-playbooks-gestalten-bearbeiten` (Fachthema: anpassen) — Anpassen
+- `navigation-uebergabe-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `pflege-deaktivierung-bearbeiten` (Fachthema: automatischer-aktualisierer) — Automatischer Aktualisierer
+- `navigation-uebergabe-bearbeiten` (Fachthema: builder-zahlen-schwellen-und-berechnung) — Builder Zahlen Schwellen und Berechnung
+- `bedarf-prozesse-bearbeiten` (Fachthema: community-leistungsmatrix-fristennotiz) — Community Leistungsmatrix Fristennotiz
+- `quellen-qualitaet-bearbeiten` (Fachthema: daten-red-team-und-qualitaetskontrolle) — Daten RED Team und Qualitaetskontrolle
+- `pflege-deaktivierung-bearbeiten` (Fachthema: deaktivieren) — Deaktivieren
+- `pflege-deaktivierung-bearbeiten` (Fachthema: deinstallieren) — Deinstallieren
+- `installation-sicherheit-bearbeiten` (Fachthema: deployment-eigenen-einsteiger) — Deployment Eigenen Einsteiger
+- `installation-sicherheit-bearbeiten` (Fachthema: eigenen-formular-portal-und-einreichung) — Eigenen Formular Portal und Einreichung
+- `navigation-uebergabe-bearbeiten` (Fachthema: einsteiger-mandantenkommunikation-entscheidungsvorlage) — Einsteiger Mandantenkommunikation Entscheidungsvorlage
+- `installation-sicherheit-bearbeiten` (Fachthema: findet-gate-installiert) — Findet Gate Installiert
+- `navigation-uebergabe-bearbeiten` (Fachthema: fristen-risikoampel-mandantenkommunikation) — Fristen Risikoampel Mandantenkommunikation
+- `navigation-uebergabe-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `navigation-uebergabe-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Arbeitsweg
 
@@ -502,6 +502,7 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kanzlei-builder-hub/references/ki-normen-und-fallpruefung.md). Legen Sie für jeden Baustein fest, welche Daten er lesen, verändern und versenden darf. Prüfen Sie die tatsächliche Funktion und die nach außen behauptete Leistung; ein Agentenetikett ersetzt keine Einordnung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -962,7 +963,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

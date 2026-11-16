@@ -156,21 +156,21 @@ Dieser Einstieg routet **Urteilsbauer Relationsmacher** vom ersten Sachverhalt z
 
 ## Fachlandkarte dieses Plugins
 
-- `aktenintake-schriftsatz-brief-und-memo-bausteine` — Aktenintake Schriftsatz Brief und Memo Bausteine
-- `aktenintake-zivil` — Aktenintake Zivil
-- `amts-aktenintake-zivil-anspruchsgrundlagen` — Amts Aktenintake Zivil Anspruchsgrundlagen
-- `amts-fristen-form-zustaendigkeit` — Amts Fristen Form Zustaendigkeit
-- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Prüfen
-- `berufungsfest-beschluss-bauen-beweisbeschluss` — Berufungsfest Beschluss Bauen Beweisbeschluss
-- `berufungsfest-pruefen` — Berufungsfest Prüfen
-- `beschluss-bauen-zpo` — Beschluss Bauen ZPO
-- `beschluss-tatbestand-beweis-und-belege` — Beschluss Tatbestand Beweis und Belege
-- `beschluss-tatbestandsmerkmale` — Beschluss Tatbestandsmerkmale
-- `beweisbeschluss-vorbereiten` — Beweisbeschluss Vorbereiten
-- `beweiswuerdigung-mit-richter-input` — Beweiswuerdigung mit Richter Input
-- `beweiswuerdigung-quellenkarte` — Beweiswuerdigung Quellenkarte
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: aktenintake-schriftsatz-brief-und-memo-bausteine) — Aktenintake Schriftsatz Brief und Memo Bausteine
+- `aktenaufnahme-bearbeiten` (Fachthema: aktenintake-zivil) — Aktenintake Zivil
+- `aktenaufnahme-bearbeiten` (Fachthema: amts-aktenintake-zivil-anspruchsgrundlagen) — Amts Aktenintake Zivil Anspruchsgrundlagen
+- `aktenaufnahme-bearbeiten` (Fachthema: amts-fristen-form-zustaendigkeit) — Amts Fristen Form Zustaendigkeit
+- `relation-bearbeiten` (Fachthema: anspruchsgrundlagen-pruefen) — Anspruchsgrundlagen Prüfen
+- `beweis-bearbeiten` (Fachthema: berufungsfest-beschluss-bauen-beweisbeschluss) — Berufungsfest Beschluss Bauen Beweisbeschluss
+- `relation-bearbeiten` (Fachthema: berufungsfest-pruefen) — Berufungsfest Prüfen
+- `beweis-bearbeiten` (Fachthema: beschluss-bauen-zpo) — Beschluss Bauen ZPO
+- `beweis-bearbeiten` (Fachthema: beschluss-tatbestand-beweis-und-belege) — Beschluss Tatbestand Beweis und Belege
+- `beweis-bearbeiten` (Fachthema: beschluss-tatbestandsmerkmale) — Beschluss Tatbestandsmerkmale
+- `beweis-bearbeiten` (Fachthema: beweisbeschluss-vorbereiten) — Beweisbeschluss Vorbereiten
+- `beweis-bearbeiten` (Fachthema: beweiswuerdigung-mit-richter-input) — Beweiswuerdigung mit Richter Input
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: beweiswuerdigung-quellenkarte) — Beweiswuerdigung Quellenkarte
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -779,7 +779,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

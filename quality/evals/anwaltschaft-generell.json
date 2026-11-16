@@ -154,7 +154,7 @@
       "10.000-EUR-Wertgrenze und §§ 46h ArbGG/130e ZPO aktuell bestätigt. Volltextabrufprobleme und fehlgeleiteter EUR-Lex-HTTP200 transparent, keine erfundene aktuelle Gesamtnormprüfung.",
       "Werkstatt enthält weiter vollständige Ergebnisproduktion, ausgewählten Fachweg, konsistente Fortsetzung, Quellenstatus und konkrete Visualisierung nur bei vorhandener Fähigkeit; keine automatischen externen Handlungen."
     ],
-    "sha256": "281ca755d7148f95795b6a6f6f81898783f354a9faa6b2a6fd32dbc8963c0f3b",
+    "sha256": "82e7356533559ee10db064aae0e1d84315f88179c243041c04808f9decd6a37e",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
@@ -625,7 +625,7 @@
         "method": "visual_block_only",
         "date": "2026-11-16",
         "previous_sha256": "3171256185f1da51fb7ae0ee2028b7b21c9100e011a2f19f74b7232b835a6a57",
-        "sha256": "281ca755d7148f95795b6a6f6f81898783f354a9faa6b2a6fd32dbc8963c0f3b",
+        "sha256": "82e7356533559ee10db064aae0e1d84315f88179c243041c04808f9decd6a37e",
         "body_sha256": "5e48e6f616023fd99105f9f22edf252076fb81adc285394695c89d567e940c77"
       }
     }

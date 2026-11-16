@@ -11,7 +11,7 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `vertragsrecht`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Vertragsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konk…
-2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+2. **einstieg-routing** — Für Vertragsprüfung, Gestaltung oder Leistungsstörungen: prüft die konkrete Rechtsfrage und erstellt begründete Klauselä…
 3. **vertragsrecht-erstpruefung-und-mandatsziel** — Für Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis…
 4. **nda-durchsetzer** — Für NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse: ordnet Norm, Beweislast und Gege…
 5. **rechtsquellen** — Für Rechtsquellen: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
@@ -23,8 +23,8 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `vertragsrecht`.
 11. **rahmenvertrag-beweislast-vertragsrecht-vert** — Für Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
 12. **renewal-review-routing** — Für Renewal: Schriftsatz-, Brief- und Memo-Bausteine: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfpro…
 13. **vert-mandantenkommunikation-entscheidungsvorlage** — Für Vert: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandante…
-14. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-15. **widerruf-fernabsatz** — Für Widerruf im Fernabsatz- und Außergeschäftsraumvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+14. **widerruf-fernabsatz** — Für Widerruf im Fernabsatz- und Außergeschäftsraumvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+15. **workflow-kaltstart-und-routing** — Für neue Vertragsaufträge: bestimmt Vertragsparteien, Vertragsfassung, Abschluss- und Leistungsstand sowie dringende Fri…
 
 ---
 
@@ -151,39 +151,48 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `einstieg-routing`
 
-_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsrecht._
+_Für Vertragsprüfung, Gestaltung oder Leistungsstörungen: prüft die konkrete Rechtsfrage und erstellt begründete Klauseländerungen, Schreiben oder einen beauftragten Vertragsentwurf._
 
-# Einstieg und Routing
+# Vertragsfrage prüfen und Entwurf ausarbeiten
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
-
-## Fachlandkarte dieses Plugins
-
-- `abmahnung-uwg` — Abmahnung UWG
-- `aenderungs-historie-agb-eskalations-marker` — Änderungs Historie AGB Eskalations Marker
-- `agb-pruefung` — AGB Prüfung
-- `anpassen` — Anpassen
-- `anschluss-router` — Anschluss Router
-- `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall
-- `business-compliance-dokumentation-und-akte` — Business Compliance Dokumentation und Akte
-- `einzelabrufe-sonderfall-und-edge-case` — Einzelabrufe Sonderfall und Edge Case
-- `eskalations-marker` — Eskalations Marker
-- `eskalations-quellenkarte` — Eskalations Quellenkarte
-- `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten RED Team
-- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
-- `fristennotiz-naechster-vertriebsvertraege` — Fristennotiz Naechster Vertriebsvertraege
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+Prüfe die beauftragte Vertragsfrage anhand der maßgeblichen Fassung und des tatsächlichen Leistungsstands. Formuliere daraus die bestellten Klauseländerungen, Schreiben oder den vollständigen Vertragsentwurf.
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: § 195 BGB Regelverjährung 3 Jahre, § 199 BGB Beginn Ende des Jahres der Kenntnis, § 438 BGB 2 Jahre Kaufgewährleistung, § 634a BGB Werkgewährleistung, § 286 BGB Verzug, § 314 BGB außerordentliche Kündigung.
-- Fachpfad wählen: zentrale Anker im Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht) sind BGB §§ 116–144, 145–157, 158–163, 195, 199, 241, 242, 249, 254, 273, 275, 276, 280, 281, 282, 284, 286, 288, 305–310, 311, 311a, 311b, 313, 314, 320, 323, 324, 339–345, 433 ff., 535 ff., 631 ff., 651a ff., 765 ff., 812 ff., 823 ff. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Vertragsparteien, AGB-Verwender, Verbraucher (§ 13), Unternehmer (§ 14), Verbraucherzentrale.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Bestimme Vertragsart, Parteienrolle und anwendbares Recht. Lies Vertrag, Anlagen, Nachträge und bisherigen Schriftverkehr gemeinsam.
+2. Erstelle den tatsächlichen Leistungsstand: Was war geschuldet, was wurde wann geleistet, beanstandet oder erklärt, und welche Belege tragen das?
+3. Prüfe die auftragsrelevanten Anspruchsgrundlagen und Einwendungen einschließlich Fristen und Form. Verknüpfe jeden rechtlichen Vorschlag mit der betroffenen Klausel oder Erklärung.
+4. Liefere den beauftragten vollständigen Entwurf und kennzeichne entscheidende offene Angaben. Übernimm freigegebene Änderungen konsistent in Definitionen, Anlagen und Verweise.
+
+## Rechtsanker nach Vertragsfrage
+
+Wähle aus diesen Suchankern nur die Normen, die den konkreten Auftrag tragen, und prüfe sie in der maßgeblichen Fassung:
+
+- **Abschluss, Erklärung und Form:** BGB §§ 116–144, 145–157, 158–163 und 311b; AGB-Kontrolle nach §§ 305–310 einschließlich vorrangiger Individualabreden.
+- **Pflichten, Auslegung und Leistungshindernisse:** BGB §§ 241, 242, 273, 275, 276, 311, 311a, 313, 314 und 320.
+- **Rechtsfolgen einer Störung:** BGB §§ 249, 254, 280–282, 284, 286, 288, 323, 324 und 339–345. Rücktritt, Verzug und Schadensersatz haben unterschiedliche Voraussetzungen.
+- **Vertragsart und weitere Anspruchsgrundlagen:** BGB §§ 433 ff., 535 ff., 631 ff., 651a ff., 765 ff., 812 ff. und 823 ff.; eine Normengruppe ersetzt nicht die Bestimmung der einschlägigen Anspruchsgrundlage.
+- **Verjährung und weitere Fristen:** BGB §§ 195, 199, 438 und 634a anhand des konkreten Anspruchs, Beginns sowie möglicher Sonderregeln prüfen. § 438 ordnet keine einheitliche Zweijahresfrist für sämtliche Kaufmängelansprüche an; Kündigung und Widerruf gesondert behandeln.
+
+## Fachlandkarte dieses Plugins
+
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: abmahnung-uwg) — Abmahnung UWG
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: aenderungs-historie-agb-eskalations-marker) — Änderungs Historie AGB Eskalations Marker
+- `abschluss-parteien-und-auslegung-bearbeiten` (Fachthema: agb-pruefung) — AGB Prüfung
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: anpassen) — Anpassen
+- `abschluss-parteien-und-auslegung-bearbeiten` (Fachthema: anschluss-router) — Anschluss Router
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: bgb-business-einzelabrufe-sonderfall) — BGB Business Einzelabrufe Sonderfall
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: business-compliance-dokumentation-und-akte) — Business Compliance Dokumentation und Akte
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: einzelabrufe-sonderfall-und-edge-case) — Einzelabrufe Sonderfall und Edge Case
+- `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: eskalations-marker) — Eskalations Marker
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: eskalations-quellenkarte) — Eskalations Quellenkarte
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fernabsatz-lieferanten-red-team) — Fernabsatz Lieferanten RED Team
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fristen-risikoampel-mandantenkommunikation) — Fristen Risikoampel Mandantenkommunikation
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fristennotiz-naechster-vertriebsvertraege) — Fristennotiz Naechster Vertriebsvertraege
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
 
 ## Qualitätsanker
 
@@ -1134,77 +1143,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `workflow-kaltstart-und-routing`
-
-_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsrecht._
-
-# Kaltstart und Routing
-
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Routing-Heuristik Vertragsrecht
-
-- **Verbraucher (§ 13 BGB) involviert?**
-  - Ja, und Fernabsatz/außerhalb von Geschäftsräumen: -> Skill `widerruf-fernabsatz`.
-  - Ja, AGB der Gegenseite: -> Plugin `agb-recht-pruefer`, Skill `agb-pruefung-kaltstart`.
-- **Vertragsschluss-Stadium?**
-  - Antrag/Annahme strittig (§§ 145 ff. BGB): Auslegungs- und Bindungsdauer prüfen (§§ 145, 147, 148 BGB).
-  - Form streitig: § 126 BGB Schriftform, § 126a BGB qES, § 126b BGB Textform (-> Plugin `schriftform-und-textform-bgb`).
-- **Leistungsstörung?**
-  - Verzug §§ 280, 286, 288 BGB; Schadensersatz §§ 280-283 BGB; Rücktritt §§ 323, 326 BGB; Skill `vert-leistungsstoerungen-leitfaden`.
-- **Mängel?**
-  - Kauf: §§ 434-453 BGB, Verjährung § 438 BGB.
-  - Werk: §§ 633-651 BGB, Verjährung § 634a BGB.
-- **NDA-Bezug?**
-  - Vertragsentwurf: Plugin `nda-abgleich`.
-- **B2B Rahmenvertrag/SaaS:**
-  - Skills `saas-msa-pruefung`, `vert-rahmenvertrag-einzelabrufe-spezial`.
-- **Internationaler Bezug?**
-  - Rom I-VO Art. 3, 4 (Rechtswahl, objektive Anknüpfung); CISG Art. 1, 6 (UN-Kaufrecht); Brüssel Ia-VO 1215/2012 (Gerichtsstand).
-
-## Erste-Schritt-Sofortmaßnahmen je nach Fall
-
-- **Verjährungsfrist droht (binnen 30 Tagen):** Sofort Verjährungshemmung prüfen (§ 203 BGB Verhandlungen, § 204 BGB Klage, Mahnverfahren § 204 Abs. 1 Nr. 3 BGB).
-- **Widerrufsfrist droht:** § 355 Abs. 2 BGB (14 Tage ab Erhalt) bzw. § 356 Abs. 3 S. 2 BGB (12 Monate + 14 Tage bei fehlender Belehrung).
-- **Verzug der Gegenseite:** Mahnung + Fristsetzung (§ 286 Abs. 1 BGB) als Erstmaßnahme.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
----
-
 ## Skill: `widerruf-fernabsatz`
 
 _Für Widerruf im Fernabsatz- und Außergeschäftsraumvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
@@ -1344,6 +1282,80 @@ dass Rechtsprechung insoweit nicht vorliegt.
 
 ---
 
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für neue Vertragsaufträge: bestimmt Vertragsparteien, Vertragsfassung, Abschluss- und Leistungsstand sowie dringende Fristen aus den vorhandenen Unterlagen._
+
+# Vertragssituation und Leistungsstand klären
+
+## Aufgabe
+
+Rekonstruiere aus Vertrag, Anlagen und Schriftverkehr den Abschluss- und Leistungsstand. Kläre die konkrete Vertragsfrage und sichere relevante Fristen vor der weiteren Bearbeitung.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsablauf
+
+1. Bestimme Vertragsart, Parteienrolle und anwendbares Recht. Lies Vertrag, Anlagen, Nachträge und bisherigen Schriftverkehr gemeinsam.
+2. Erstelle den tatsächlichen Leistungsstand: Was war geschuldet, was wurde wann geleistet, beanstandet oder erklärt, und welche Belege tragen das?
+3. Prüfe die auftragsrelevanten Anspruchsgrundlagen und Einwendungen einschließlich Fristen und Form. Verknüpfe jeden rechtlichen Vorschlag mit der betroffenen Klausel oder Erklärung.
+4. Liefere den beauftragten vollständigen Entwurf und kennzeichne entscheidende offene Angaben. Übernimm freigegebene Änderungen konsistent in Definitionen, Anlagen und Verweise.
+
+## Routing-Heuristik Vertragsrecht
+
+- **Verbraucher (§ 13 BGB) involviert?**
+  - Ja, und Fernabsatz/außerhalb von Geschäftsräumen: -> Skill `widerruf-fernabsatz`.
+  - Ja, AGB der Gegenseite: -> Plugin `agb-recht-pruefer`, Skill `agb-pruefung-kaltstart`.
+- **Vertragsschluss-Stadium?**
+  - Antrag/Annahme strittig (§§ 145 ff. BGB): Auslegungs- und Bindungsdauer prüfen (§§ 145, 147, 148 BGB).
+  - Form streitig: § 126 BGB Schriftform, § 126a BGB qES, § 126b BGB Textform (-> Plugin `schriftform-und-textform-bgb`).
+- **Leistungsstörung?**
+  - Verzug §§ 280, 286, 288 BGB; Schadensersatz §§ 280-283 BGB; Rücktritt §§ 323, 326 BGB; Skill `vert-leistungsstoerungen-leitfaden`.
+- **Mängel?**
+  - Kauf: §§ 434-453 BGB, Verjährung § 438 BGB.
+  - Werk: §§ 633-651 BGB, Verjährung § 634a BGB.
+- **NDA-Bezug?**
+  - Vertragsentwurf: Plugin `nda-abgleich`.
+- **B2B Rahmenvertrag/SaaS:**
+  - Skills `saas-msa-pruefung`, `vert-rahmenvertrag-einzelabrufe-spezial`.
+- **Internationaler Bezug?**
+  - Rom I-VO Art. 3, 4 (Rechtswahl, objektive Anknüpfung); CISG Art. 1, 6 (UN-Kaufrecht); Brüssel Ia-VO 1215/2012 (Gerichtsstand).
+
+## Erste-Schritt-Sofortmaßnahmen je nach Fall
+
+- **Verjährungsfrist droht (binnen 30 Tagen):** Sofort Verjährungshemmung prüfen (§ 203 BGB Verhandlungen, § 204 BGB Klage, Mahnverfahren § 204 Abs. 1 Nr. 3 BGB).
+- **Widerrufsfrist droht:** [§ 355 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) sieht grundsätzlich 14 Tage ab Vertragsschluss vor; abweichenden Beginn, ordnungsgemäße Belehrung und Erlöschen nach der einschlägigen Spezialnorm bestimmen. Bei Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen [§ 356 BGB](https://www.gesetze-im-internet.de/bgb/__356.html) in der für den Vertrag geltenden Fassung prüfen: Waren, Dienstleistungen, digitale Inhalte und Finanzdienstleistungen unterscheiden. Die am 16.11.2026 abgerufene konsolidierte Fassung regelt die Höchstfrist von zwölf Monaten und 14 Tagen in Absatz 4, mit besonderer Regel für Finanzdienstleistungen; die frühere Absatznummer nicht blind fortführen.
+- **Verzug der Gegenseite:** Fälligkeit und Voraussetzungen des [§ 286 BGB](https://www.gesetze-im-internet.de/bgb/__286.html) prüfen. Mahnung, kalendermäßige Bestimmung und weitere Entbehrlichkeitstatbestände auseinanderhalten. Eine Fristsetzung für Rücktritt oder Schadensersatz statt der Leistung ist gesondert zu beurteilen.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
 ## Anwendungshinweise
 
 Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
@@ -1367,7 +1379,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

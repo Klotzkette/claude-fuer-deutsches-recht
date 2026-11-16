@@ -8,9 +8,9 @@ Ein Fachmodul ist eine Vertiefung innerhalb eines Skills. Einzeln heruntergelade
 
 ## 1. Direkte Einstiege und Fachwerkzeuge
 
-- [Einstieg und Routing](skills/einstieg-routing/SKILL.md)
+- [Verteidigungsweg gegen den Strafbefehl wählen](skills/einstieg-routing/SKILL.md)
 - [Juristischer Argumentationskern - Strafbefehl Verteidiger](skills/juristischer-argumentationskern/SKILL.md)
-- [Kaltstart und Routing](skills/workflow-kaltstart-und-routing/SKILL.md)
+- [Strafbefehl sichten und Einspruchsfrist sichern](skills/workflow-kaltstart-und-routing/SKILL.md)
 
 ## 2. Tatvorwurf und materielles Recht
 

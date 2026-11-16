@@ -13,7 +13,7 @@ Diese Vollprüfung enthält top-8 von 118 Skills (gekürzt für das Arbeitsfenst
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Anlagen Zu Schriftsätzen ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
 2. **bea-versandmappe-endfertigung** — Endfertigung gerichtlicher Schriftsätze und Anlagen für beA und E-Akte: liest zuerst den vorhandenen Aktenordner, prüft …
 3. **anlagen-zu-schriftsaetzen** — Hauptworkflow für gerichtliche Anlagenproduktion: liest Schriftsatz und Aktenordner zuerst, verbindet jede Behauptung mi…
-4. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **einstieg-routing** — Für einen Schriftsatz mit Anlagen: gleicht Beweisthemen, Textverweise, Anlagenkennungen und Dateiinhalte ab und erstellt…
 5. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
 6. **anlagenkonvolut-konsolidieren** — Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt …
 7. **anlagen-fuer-bea-versand** — Bereitet vorhandene Anlagen tatsächlich für den beA-Versand vor: liest zuerst Schriftsatz und Ordner, setzt den bisherig…
@@ -406,31 +406,38 @@ Die Rechts- und Technikanker stehen in `references/BEA-ENDPRODUKTION-RECHT-TECHN
 
 ## Skill: `einstieg-routing`
 
-_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen._
+_Für einen Schriftsatz mit Anlagen: gleicht Beweisthemen, Textverweise, Anlagenkennungen und Dateiinhalte ab und erstellt das passende Anlagenverzeichnis._
 
-# Einstieg und Routing
+# Anlagen auswählen, bezeichnen und abgleichen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Anlagen Zu Schriftsaetzen** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Wähle aus den Belegen die zum Vortrag passenden Anlagen aus. Gleiche Kennungen, Dateiinhalte und Textverweise ab und erstelle das Anlagenverzeichnis.
+
+## Arbeitsweg
+
+1. Lies zuerst den Schriftsatz oder den konkreten Beweisauftrag. Erfasse die beweisbedürftigen Tatsachen und bereits vergebenen Anlagenkennungen.
+2. Sichere die Originaldateien. Kennzeichne Dubletten, abweichende Fassungen, unvollständige E-Mails und fehlende Anhänge, bevor du Auszüge oder Schwärzungen anfertigst.
+3. Ordne jeder vorgesehenen Anlage Tatsachenbehauptung, Quelle, Beweismittel und gegebenenfalls erforderlichen Beweisantritt zu. Erkläre, wenn ein Beleg die behauptete Tatsache nicht trägt.
+4. Liefere Anlagenverzeichnis und tatsächlich erzeugte Dateien. Prüfe jeden Schriftsatzverweis gegen die Datei sowie Seitenfolge, Lesbarkeit und technische Vorgaben für den vorgesehenen Übermittlungsweg.
 
 ## Fachlandkarte dieses Plugins
 
-- `anlage-fehlerkatalog` — Anlage Fehlerkatalog
-- `anlage-red-anlagen-anlagenkonvolut-sonderfall` — Anlage RED Anlagen Anlagenkonvolut Sonderfall
-- `anlagen-an-assistenz-uebersetzungspflicht` — Anlagen AN Assistenz Übersetzungspflicht
-- `anlagen-aus-datenraum-und-sharepoint` — Anlagen AUS Datenraum und Sharepoint
-- `anlagen-aus-edv-systemen` — Anlagen AUS EDV Systemen
-- `anlagen-aus-mandantenmaterial` — Anlagen AUS Mandantenmaterial
-- `anlagen-bei-berufung-revision` — Anlagen bei Berufung Revision
-- `anlagen-bei-eilantrag-eu-arrest` — Anlagen bei Eilantrag EU Arrest
-- `anlagen-berufung-revision-eilantrag-eu-bilder` — Anlagen Berufung Revision Eilantrag EU Bilder
-- `anlagen-bilder-screenshots` — Anlagen Bilder Screenshots
-- `anlagen-check-zustellung-redaktion-dsgvo` — Anlagen Check Zustellung Redaktion DSGVO
-- `anlagen-duplikate-versionen-hashlog` — Anlagen Duplikate Versionen Hashlog
-- `anlagen-elektronische-dokumente-format` — Anlagen Elektronische Dokumente Format
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anlage-fehlerkatalog) — Anlage Fehlerkatalog
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlage-red-anlagen-anlagenkonvolut-sonderfall) — Anlage RED Anlagen Anlagenkonvolut Sonderfall
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-an-assistenz-uebersetzungspflicht) — Anlagen AN Assistenz Übersetzungspflicht
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-aus-datenraum-und-sharepoint) — Anlagen AUS Datenraum und Sharepoint
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-aus-edv-systemen) — Anlagen AUS EDV Systemen
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-aus-mandantenmaterial) — Anlagen AUS Mandantenmaterial
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-bei-berufung-revision) — Anlagen bei Berufung Revision
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-bei-eilantrag-eu-arrest) — Anlagen bei Eilantrag EU Arrest
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-berufung-revision-eilantrag-eu-bilder) — Anlagen Berufung Revision Eilantrag EU Bilder
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-bilder-screenshots) — Anlagen Bilder Screenshots
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-check-zustellung-redaktion-dsgvo) — Anlagen Check Zustellung Redaktion DSGVO
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-duplikate-versionen-hashlog) — Anlagen Duplikate Versionen Hashlog
+- `arbeitsprodukt-bearbeiten` (Fachthema: anlagen-elektronische-dokumente-format) — Anlagen Elektronische Dokumente Format
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Normenanker
 
@@ -446,14 +453,6 @@ Arbeitsfokus: **Einstieg und Routing**. Prüfe diese Anker am Sachverhalt; ergä
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Anlagen Zu Schriftsaetzen sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 
@@ -818,7 +817,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

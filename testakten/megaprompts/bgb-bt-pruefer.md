@@ -13,11 +13,11 @@ Diese Vollprüfung enthält top-8 von 109 Skills (gekürzt für das Arbeitsfenst
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in BGB Bt Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konk…
 2. **kaltstart-triage** — Für BGB BT Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
 3. **kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c** — Für Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente Paragraf 475c BGB: ordnet Norm, Beweislast und Gegenargument…
-4. **kaufrecht-dauerhafte-bereitstellung-digitaler** — Für Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente Paragraf 475c BGB: ordnet Norm, Beweislast und Gegenargument…
-5. **kaufrecht-updates-sicherheitsupdates-327f-475b** — Für Kaufrecht: Updates und Sicherheitsupdates Paragrafen 327f und 475b BGB: ordnet Norm, Beweislast und Gegenargument; E…
-6. **kaufrecht-updates-sicherheitsupdates-327f** — Für Kaufrecht: Updates und Sicherheitsupdates Paragrafen 327f und 475b BGB: ordnet Norm, Beweislast und Gegenargument; E…
-7. **deliktsrecht-haftung-fuer-verrichtungen-paragraph-831** — Für Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
-8. **deliktsrecht-paragraph-826-sittenwidrige-schaedigung** — Für Deliktsrecht Paragraf 826 BGB: Sittenwidrige Schädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+4. **geschaeftsbesorgung-zahlungsdienste-goa** — Ordnet Geschäftsbesorgung, Auftrag, Geschäftsführung ohne Auftrag und Zahlungsdienste dem passenden Anspruch zu. Erstell…
+5. **kaufrecht-dauerhafte-bereitstellung-digitaler** — Für Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente Paragraf 475c BGB: ordnet Norm, Beweislast und Gegenargument…
+6. **kaufrecht-updates-sicherheitsupdates-327f-475b** — Für Kaufrecht: Updates und Sicherheitsupdates Paragrafen 327f und 475b BGB: ordnet Norm, Beweislast und Gegenargument; E…
+7. **kaufrecht-updates-sicherheitsupdates-327f** — Für Kaufrecht: Updates und Sicherheitsupdates Paragrafen 327f und 475b BGB: ordnet Norm, Beweislast und Gegenargument; E…
+8. **deliktsrecht-haftung-fuer-verrichtungen-paragraph-831** — Für Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
 
 ---
 
@@ -259,6 +259,44 @@ _Für Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente Paragraf 475c BGB:
 - https://www.gesetze-im-internet.de/bgb/__475c.html
 - https://www.gesetze-im-internet.de/bgb/__327.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+
+---
+
+## Skill: `geschaeftsbesorgung-zahlungsdienste-goa`
+
+_Ordnet Geschäftsbesorgung, Auftrag, Geschäftsführung ohne Auftrag und Zahlungsdienste dem passenden Anspruch zu. Erstellt ein fallbezogenes Gutachten oder Schreiben; trennt bei nicht autorisierten Zahlungen die sofortige Erstattung vom späteren Ersatzanspruch._
+
+# 1. Zweck und Anwendungsfall
+
+Ordnen Sie zunächst Auftrag, Geschäftsbesorgung, Zahlungsdienst und mögliche Geschäftsführung ohne Auftrag der konkret beanstandeten Handlung zu. Für eine nicht autorisierte Kontobelastung vorrangig die besondere Zahlungsdiensteregel prüfen; allgemeine Geschäftsführung oder Bereicherung ersetzt deren Voraussetzungen nicht.
+
+# 2. Eingaben
+
+Lesen Sie Vertrag, Kundenstatus, Belastungsnachweis, Kundendarstellung, Reklamation, Bankantwort, Sperranzeige und vorhandene Freigabeinformationen. Erfassen Sie je Zahlung Betrag, Empfänger, Zeit, Zustimmungshandlung, Kenntnis der Bank und Rückflüsse. Keine PIN oder TAN verlangen. Nur Angaben nachfordern, die die konkrete Anspruchsprüfung oder das bestellte Schreiben verändern.
+
+# 3. Ablauf und Checkliste
+
+1. Bestimmen Sie die betroffene Leistung und den vereinbarten Zahlungsweg. Bei nicht zahlungsdienstlicher Geschäftsbesorgung deren Vertragspflichten eigenständig prüfen. Kein Mietrechtsraster auf eine Bankreklamation übertragen.
+2. Prüfen Sie Zustimmung nach Paragraf 675j BGB: Anmeldung, Geräteaktivierung und einzelne Zahlungsfreigabe sind verschiedene Vorgänge. Eine bewusst selbst veranlasste Zahlung ist nicht allein wegen Täuschung nicht autorisiert.
+3. Bei nicht autorisierter Zahlung Erstattung und Kontowiederherstellung nach Paragraf 675u BGB unverzüglich, spätestens bis zum Ende des auf Kenntnis oder Anzeige folgenden Geschäftstags prüfen. Angeblich grobe Fahrlässigkeit ist kein selbständiger Ausschluss dieser Pflicht. Die Ausnahme betrifft berechtigten Verdacht betrügerischen Verhaltens des Zahlers mit schriftlicher Mitteilung an die zuständige Behörde.
+4. Nach Paragraf 675w BGB Authentifizierung, Aufzeichnung, Verbuchung, Störungen und unterstützende Bankbeweise prüfen. Ein Erfolgslog allein beweist weder notwendig Zustimmung noch grobe Fahrlässigkeit. Fehlt ein konkreter Freigabetext, genau ihn anfordern und die offenen Tatsachen kenntlich machen.
+5. Einen Schadensersatzanspruch der Bank nach Paragraf 675v BGB gesondert prüfen: Pflicht, Verletzung, subjektiver Vorwurf, Kausalität und Schaden. Haftungsausschlüsse, insbesondere fehlende starke Kundenauthentifizierung und Schäden nach Sperranzeige, vor Betrag und Vergleichsquote behandeln. Keine automatische Verrechnung wegen bloßer Fahrlässigkeitsbehauptung. Eine konkrete Aufrechnung eigenständig prüfen; der EuGH-Tenor enthält kein allgemeines Aufrechnungsverbot.
+6. Nach Paragraf 676b BGB unverzügliche Anzeige nach Feststellung von der Ausschlussfrist unterscheiden. Die 13-Monatsgrenze ist keine Bedenkzeit; ordnungsgemäße Unterrichtung und tatsächlichen Fristbeginn prüfen. Unternehmerabreden nach Paragraf 675e BGB konkret lesen; Absatz 4 nimmt Paragraf 675u nicht allgemein aus. Bei bloß verspäteter Ausführung Paragraf 675s BGB gesondert prüfen, nicht Paragraf 676a als Ausführungsfrist zitieren.
+7. Belastung, endgültige Rückflüsse, vorläufige Gutschriften und Gegenforderungen getrennt rechnen. Bei neuen Belegen Berechnung und rechtliche Begründung im selben Entwurf fortführen. Erstattung nicht als endgültigen Erlass jedes Bankregresses darstellen. Versand und Einreichung nur nach Freigabe.
+
+# 4. Quellenpflicht
+
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52, amtlicher Volltext am 16. Oktober 2026 gelesen. Trägt: Zweistufigkeit von unverzüglicher Erstattung und nachfolgender endgültiger Verlusttragung. Trägt nicht: automatische Unautorisiertheit jeder Täuschung, genereller Forderungserlass oder ein allgemeines deutsches Aufrechnungsverbot.
+
+[Quellenkarte mit amtlichem Normabgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bgb-bt-pruefer/references/eugh-c-70-25-erstattung-und-regress.md); [Paragraf 675s BGB](https://www.gesetze-im-internet.de/bgb/__675s.html), am 16. Oktober 2026 geöffnet und gelesen. Weitere Vertrags- und Verjährungsfragen nur anhand konkret einschlägiger, verifizierter Normen beurteilen. Keine Literaturfundstellen aus Modellwissen.
+
+# 5. Ausgabeformat
+
+Liefern Sie das verlangte Schreiben oder Gutachten vollständig ausformuliert mit Partei, Zahlung, Rechtsfolge und tragenden Tatsachen; keine bloße Normensammlung oder leeren Klauselrümpfe. Ergänzen Sie nur die erforderliche Zahlungsrechnung und interne Belegnotiz. Formatstandard Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Chat-Ausgabe separaten Exporthinweis verwenden. Nicht autorisierte Zahlung und Bankgegenanspruch müssen im Ergebnis unterscheidbar bleiben.
+
+# 6. Beispiele
+
+Eine Kundin meldet eine von einem Dritten ausgelöste Überweisung. Die Bank hält ihr vor, Zugangsdaten über einen Verkaufslink eingegeben zu haben. Prüfen Sie die unverzügliche Erstattung und anschließend den beweisabhängigen Regress. Behauptet die Bank dagegen, die Kundin habe Betrag und Empfänger bewusst selbst freigegeben, klären Sie diese vorgelagerte Autorisierungsfrage anhand der konkreten Anzeige und Erklärungen; keine der Varianten einfach als bewiesen behandeln.
 
 ---
 
@@ -545,81 +583,6 @@ _Für Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB: ordnet Norm, Be
 
 ---
 
-## Skill: `deliktsrecht-paragraph-826-sittenwidrige-schaedigung`
-
-_Für Deliktsrecht Paragraf 826 BGB: Sittenwidrige Schädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: deliktsrecht-paragraph-826-sittenwidrige-schaedigung._
-
-# Deliktsrecht § 826 BGB: Sittenwidrige Schädigung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Deliktsrecht § 826 BGB: Sittenwidrige Schädigung
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Normanker
-
-- § 826 BGB: vorsätzliche sittenwidrige Schädigung
-- § 138 BGB: Sittenwidrigkeit als Parallelwertung
-- § 823 Abs. 2 BGB: Schutzgesetzverletzung (Abgrenzung)
-- BGH-Rechtsprechung zu § 826 BGB (z.B. Dieselskandal): nur nach Live-Prüfung zitieren
-- § 31 BGB: Organverantwortlichkeit für juristische Personen
-
-## Intake
-
-- Welches Verhalten wird als sittenwidrig bewertet?
-- Hatte der Schädiger Vorsatz bezüglich der Schädigung (auch bedingter Vorsatz)?
-- Ist ein Vermögensschaden entstanden?
-- Ist der Schädiger eine natürliche Person oder eine juristische Person (§ 31 BGB)?
-- Gibt es eine BGH-Linie, die dieses Verhalten erfasst (z.B. arglistige Täuschung, Marktmanipulation)?
-
-## Prüfraster
-
-1. Objektive Sittenwidrigkeit: Verstoß gegen das Anstandsgefühl aller billig und gerecht Denkenden
-2. Schaden: reiner Vermögensschaden oder Verletzung eines nach § 823 Abs. 1 BGB geschützten Guts
-3. Kausalität: sittenwidrige Handlung hat Schaden verursacht
-4. Vorsatz: mindestens bedingter Vorsatz (dolus eventualis); bloße Fahrlässigkeit genügt nicht
-5. Vorsatz auf Schädigungserfolg: Schädiger muss den Schaden als möglich vorausgesehen und in Kauf genommen haben
-6. Bei juristischen Personen: Organzurechnung nach § 31 BGB
-7. Schaden nach §§ 249 ff. BGB: auch entgangener Gewinn (§ 252 BGB)
-8. Verjährung: §§ 195 und 199 BGB
-
-## Fallstricke
-
-- Fahrlässigkeit genügt nicht; mindestens bedingter Vorsatz auf Schädigungserfolg notwendig.
-- Sittenwidrigkeit ist nicht dasselbe wie Rechtswidrigkeit; eigenständige Wertung erforderlich.
-- § 826 BGB schützt auch reinen Vermögensschaden, § 823 Abs. 1 BGB tut das nicht.
-- BGH-Rechtsprechung zum Dieselskandal ist fallbezogen; keine pauschale Übertragung.
-
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Anschluss-Skills
-
-- deliktsrecht-paragraph-823-1
-- deliktsrecht-schutzgesetz-paragraph-823-2
-- schadensrecht-paragraphen-249-253
-- workflow-red-team-gegenseite
-
-## Quellen
-
-- https://www.gesetze-im-internet.de/bgb/__826.html
-- https://www.gesetze-im-internet.de/bgb/__138.html
-- https://www.gesetze-im-internet.de/bgb/__823.html
-
----
-
 ## Anwendungshinweise
 
 Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
@@ -643,7 +606,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

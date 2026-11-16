@@ -158,21 +158,21 @@ Dieser Einstieg routet **Immobilienrechtspraxis** vom ersten Sachverhalt zu Roll
 
 ## Fachlandkarte dieses Plugins
 
-- `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
-- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Prüfen Asset Management
-- `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
-- `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
-- `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation
-- `grundbuchanalyse` — Grundbuchanalyse
-- `grundbuchanalyse-zahlen-schwellen-und-berechnung` — Grundbuchanalyse Zahlen Schwellen und Berechnung
-- `immo-aufteilungsplan-weg` — Immo Aufteilungsplan WEG
-- `immo-bauliche-veraenderung-energieausweis` — Immo Bauliche Veraenderung Energieausweis
-- `immo-bauvertrag-vob-kaufvertrag-grundstueck` — Immo Bauvertrag VOB Kaufvertrag Grundstueck
-- `immo-energieausweis` — Immo Energieausweis
-- `immo-gewerbliche-mieter-konkurs` — Immo Gewerbliche Mieter Konkurs
-- `immo-grundschuld-bestellung-makler-honorar` — Immo Grundschuld Bestellung Makler Honorar
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: betriebskostenabrechnung-erstellen-asset-management) — Betriebskostenabrechnung Erstellen Asset Management
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: betriebskostenabrechnung-pruefen-asset-management) — Betriebskostenabrechnung Prüfen Asset Management
+- `arbeitsprodukt-bearbeiten` (Fachthema: case-gegen-grundbuchanalyse) — Case Gegen Grundbuchanalyse
+- `arbeitsprodukt-bearbeiten` (Fachthema: case-management-grundbuchanalyse-immo) — Case Management Grundbuchanalyse Immo
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: gegen-verhandlung-vergleich-und-eskalation) — Gegen Verhandlung Vergleich und Eskalation
+- `arbeitsprodukt-bearbeiten` (Fachthema: grundbuchanalyse) — Grundbuchanalyse
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: grundbuchanalyse-zahlen-schwellen-und-berechnung) — Grundbuchanalyse Zahlen Schwellen und Berechnung
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-aufteilungsplan-weg) — Immo Aufteilungsplan WEG
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-bauliche-veraenderung-energieausweis) — Immo Bauliche Veraenderung Energieausweis
+- `grundbuch-und-rang-bearbeiten` (Fachthema: immo-bauvertrag-vob-kaufvertrag-grundstueck) — Immo Bauvertrag VOB Kaufvertrag Grundstueck
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-energieausweis) — Immo Energieausweis
+- `rechtsgeschaeft-und-form-bearbeiten` (Fachthema: immo-gewerbliche-mieter-konkurs) — Immo Gewerbliche Mieter Konkurs
+- `grundbuch-und-rang-bearbeiten` (Fachthema: immo-grundschuld-bestellung-makler-honorar) — Immo Grundschuld Bestellung Makler Honorar
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -633,7 +633,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

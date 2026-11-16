@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen."
+description: "Für einen Schriftsatz mit Anlagen: gleicht Beweisthemen, Textverweise, Anlagenkennungen und Dateiinhalte ab und erstellt das passende Anlagenverzeichnis."
 ---
 
-# Einstieg und Routing
+# Anlagen auswählen, bezeichnen und abgleichen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Anlagen Zu Schriftsaetzen** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Wähle aus den Belegen die zum Vortrag passenden Anlagen aus. Gleiche Kennungen, Dateiinhalte und Textverweise ab und erstelle das Anlagenverzeichnis.
+
+## Arbeitsweg
+
+1. Lies zuerst den Schriftsatz oder den konkreten Beweisauftrag. Erfasse die beweisbedürftigen Tatsachen und bereits vergebenen Anlagenkennungen.
+2. Sichere die Originaldateien. Kennzeichne Dubletten, abweichende Fassungen, unvollständige E-Mails und fehlende Anhänge, bevor du Auszüge oder Schwärzungen anfertigst.
+3. Ordne jeder vorgesehenen Anlage Tatsachenbehauptung, Quelle, Beweismittel und gegebenenfalls erforderlichen Beweisantritt zu. Erkläre, wenn ein Beleg die behauptete Tatsache nicht trägt.
+4. Liefere Anlagenverzeichnis und tatsächlich erzeugte Dateien. Prüfe jeden Schriftsatzverweis gegen die Datei sowie Seitenfolge, Lesbarkeit und technische Vorgaben für den vorgesehenen Übermittlungsweg.
 
 ## Fachlandkarte dieses Plugins
 
@@ -41,14 +48,6 @@ Arbeitsfokus: **Einstieg und Routing**. Prüfe diese Anker am Sachverhalt; ergä
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Anlagen Zu Schriftsaetzen sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

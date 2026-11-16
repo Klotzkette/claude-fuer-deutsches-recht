@@ -1,15 +1,13 @@
 ---
 name: datenschutz-aufnahme-grundlagen-bearbeiten
-description: "Verarbeitungsvorgang, Rollen, Rechtsgrundlage, besondere Daten und Datenminimierung ermitteln. Die vollständigen Fachanweisungen werden passend zum konkreten Vorgang gelesen und gemeinsam umgesetzt."
+description: "Prüft einen konkreten Datenfluss und erstellt eine begründete Freigabe, Informationsfassung oder Nachforderung. Klärt Verantwortlichkeit, Rechtsgrundlage, sensible Daten, Identifizierbarkeit beim Empfänger und erforderliche Schutzmaßnahmen."
 ---
 
-# Aufnahme, Rechtsgrundlagen und Verantwortlichkeit
+# Datenverarbeitung und Empfänger prüfen
 
 ## 1. Zweck und Anwendungsfall
 
 Verarbeitungsvorgang, Rollen, Rechtsgrundlage, besondere Daten und Datenminimierung ermitteln.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
 
 ## 2. Eingaben
 
@@ -18,21 +16,23 @@ Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bere
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Datenfluss und tatsächliche Entscheidungsbefugnis klären
 
-Verarbeitungsvorgang, Rollen, Rechtsgrundlage, besondere Daten und Datenminimierung ermitteln.
+Erfasse Erhebung, Speicherung, Auswertung und Weitergabe getrennt mit Zweck, Datenarten, Rechtsträger und Empfänger. Ordne Verantwortlichkeit nach tatsächlicher Entscheidung über Zwecke und Mittel ein; ein Vertragslabel oder Konzernverhältnis entscheidet sie nicht allein. Nutze vorhandene Verträge und Konfigurationen und fordere nur den fehlenden Nachweis an, der die Einordnung verändern kann.
 
-### 3.2. Arbeitsschritt
+### 3.2. Personenbezug und Rechtsgrundlage je Verarbeitung prüfen
 
-Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.
+Für pseudonymisierte Daten den Blick des Unternehmens mit Zuordnungsschlüssel von dem eines konkreten Empfängers trennen. [EuGH, Urteil vom 4. September 2025, C-413/23 P, Rn. 52, 69–86 und 103–112](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303863&doclang=DE) verlangt die tatsächliche Prüfung der Identifizierungsmittel; die Informationspflicht des Verantwortlichen bei Erhebung entfällt durch spätere Pseudonymisierung nicht. Die Entscheidung betrifft die Verordnung (EU) 2018/1725, begründet in Rn. 52 aber die einheitliche Auslegung des Personenbezugs mit der DSGVO. Sie erteilt keine pauschale Upload- oder Trainingserlaubnis. Für Original, Werkzeugeingabe und Empfängerkopie Datenumfang, verfügbare Zusatzinformationen und wirksame Sperren feststellen.
 
-### 3.3. Arbeitsschritt
+Prüfe für jeden verbleibenden personenbezogenen Verarbeitungsschritt Art. 6 DSGVO, bei besonderen Daten zusätzlich Art. 9 und bei Straftatdaten Art. 10. Vermeide eine pauschale Interessenabwägung für alle Zwecke. Informationspflicht, Auftragsverarbeitung, Drittlandtransfer und Geheimnisschutz sind weitere eigenständige Fragen.
 
-Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.
+### 3.3. Gegenbefund und geringeren Eingriff abwägen
 
-### 3.4. Arbeitsschritt
+Prüfe, ob derselbe konkrete Zweck mit weniger Daten, kürzerer Speicherung oder eingeschränktem Empfängerkreis erreicht wird. Ein Werkstattbericht ohne Namen kann über Standort, seltene Funktion und Datum weiter zuordenbar sein. Eine spätere Schwärzung beseitigt keine Offenlegung beim ursprünglichen Upload. Benenne den Beleg, der Freigabe oder Einschränkung trägt, und die stärkste Gegenposition; bei fehlender Konfiguration eine belastbare bedingte Entscheidung formulieren.
 
-Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern.
+### 3.4. Entscheidung und beauftragten Text fertigstellen
+
+Liefere die konkret bestellte Freigabe, Information oder Nachforderung in vollständigen Sätzen. Nenne zulässigen Datenweg, Zweck, notwendige Schutzmaßnahme, Verantwortliche und noch offene entscheidende Bedingung. Nach einer Antwort denselben Text an den betroffenen Stellen fortschreiben. Nicht bei einer Datenflussmatrix stehen bleiben und keine Übermittlung oder Löschung ohne entsprechenden Auftrag ausführen.
 
 ### 3.5. Fachvertiefungen gezielt laden
 

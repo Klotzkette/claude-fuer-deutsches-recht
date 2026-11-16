@@ -41,6 +41,8 @@ Wenn eine bestimmte Angabe oder Werkzeugkomponente fehlt, benennen Sie genau die
 
 Prüfen Sie die endgültigen Ausgabebytes mit dem passenden Schema und den Geschäftsregeln. Bei ZUGFeRD kommen PDF/A-, Einbettungs-, Metadaten- und Sichtbildprüfung hinzu. Lesen Sie wesentliche Daten aus der fertigen Datei zurück und vergleichen Sie sie mit dem bestätigten Arbeitsstand. Prüfen Sie den stärksten plausiblen Fehlerfall, insbesondere doppelte Fakturierung, falschen Steuerschuldner oder eine vertauschte IBAN.
 
+Ordnen Sie einen technischen Geschäftsregelfehler nach dem [BMF-Schreiben vom 15.10.2026](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2026-10-15-obligatorische-elektronische-rechnung.pdf?__blob=publicationFile&v=1), Rn. 22–23, gesondert steuerlich ein: Welche Pflichtangabe ist betroffen, und welche Folge trägt das für den konkreten Vorsteuerabzug? Eine technisch zurückgewiesene Rechnung ist nicht automatisch steuerlich unbeachtlich. Für das bestellte konforme Ausgabeformat bleiben alle technischen Prüfungen erforderlich. Die Fallgruppen zu Leistungsbeschreibung, Bau-LV, Teilzahlungen und zeitlichen Übergängen stehen in [der Quellenkarte](../../references/standards-und-rechtsquellen.md#35-steuerliche-fehler-und-technische-ablehnung-auseinanderhalten).
+
 Liefern Sie die Rechnung und den getrennten Prüfbericht. Bei einem Erstellungsauftrag unterbleibt ein Versand. Ein zusätzlich beauftragter Versand benötigt den belegten Empfänger und Übermittlungsweg; melden Sie ihn nur mit tatsächlichem Nachweis als erfolgt.
 
 ## 4. Quellenpflicht

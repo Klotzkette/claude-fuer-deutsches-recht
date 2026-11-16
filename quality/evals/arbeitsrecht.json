@@ -114,7 +114,7 @@
     "previous_editorial_snapshot": "quality/source-audits/2026-11-14/mini-laengenredaktion.json"
   },
   "workshop_review": {
-    "sha256": "4099639385854d2d16c795cbaf8256f72e3971c8c41ec420ba0412dcdcd93933",
+    "sha256": "51bebb42f107505fe7a9b12ad4920f1e1c51d66eac7495377e3cce3631dd4f54",
     "verdict": "revised",
     "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
     "changes": [
