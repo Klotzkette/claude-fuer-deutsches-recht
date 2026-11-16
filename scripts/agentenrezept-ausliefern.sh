@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Copyright 2026 Anthropic PBC
 # SPDX-License-Identifier: Apache-2.0
+# Adapted for Klotzkette. Portable temporary paths follow Anthropic change
+# bf6aea18bb2b94ddf0e7f095f29c987b421c1004 in anthropics/claude-for-legal.
 # Deploy a managed-agent template to POST /v1/agents.
 #
 # Resolves manifest conveniences before posting:
@@ -64,8 +66,12 @@ json.dump(yaml.safe_load(t), sys.stdout)
 ' "$1"
 }
 
-SKILL_CACHE_FILE="$(mktemp -t skillcache)"
-trap 'rm -f "$SKILL_CACHE_FILE"' EXIT
+# An explicit template works with both BSD and GNU mktemp. Keep the cache,
+# temporary ZIPs and dry-run output in one directory cleaned on exit.
+work_tmp="$(mktemp -d "${TMPDIR:-/tmp}/klotzkette-agentenrezept.XXXXXX")"
+trap 'rm -rf -- "$work_tmp"' EXIT
+SKILL_CACHE_FILE="$work_tmp/skillcache"
+: > "$SKILL_CACHE_FILE"
 upload_skill() {
   local path="$1" key cached
   key="$(basename "$path")"
@@ -76,8 +82,9 @@ upload_skill() {
     echo "${key}=${cached}" >>"$SKILL_CACHE_FILE"
     printf '%s' "$cached"; return
   fi
-  local resp id zip
-  zip="$(mktemp -t skill).zip"
+  local resp id zip zip_dir
+  zip_dir="$(mktemp -d "$work_tmp/skill.XXXXXX")"
+  zip="$zip_dir/skill.zip"
   (cd "$(dirname "$path")" && zip -qr "$zip" "$(basename "$path")")
   # /v1/skills uses its own beta header and multipart, not the managed-agents JSON path
   resp=$(curl -sS "$API/v1/skills" \
@@ -87,6 +94,7 @@ upload_skill() {
     -F "display_title=${SKILL_TITLE_PREFIX:-}$(basename "$path")" \
     -F "files[]=@$zip")
   rm -f "$zip"
+  rmdir "$zip_dir"
   id=$(jq -r '.id // empty' <<<"$resp")
   if [[ -z "$id" ]]; then
     echo "POST /v1/skills failed for $path:" >&2
@@ -184,11 +192,10 @@ create_agent() {
 }
 
 if [[ $DRY_RUN -eq 1 ]]; then
-  DRY_OUT="$(mktemp)"
+  DRY_OUT="$work_tmp/dry-run.jsonl"
   create_agent "$DIR/agent.yaml" >/dev/null
   echo "# --dry-run: resolved POST /v1/agents bodies (subagents first, orchestrator last)"
   jq -s '.' "$DRY_OUT"
-  rm -f "$DRY_OUT"
   exit 0
 fi
 

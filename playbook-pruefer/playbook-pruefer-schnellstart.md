@@ -6,7 +6,7 @@ Bei Vertragsstrafen nach Paragraf 307 BGB: [BGH, Urteil vom 31.08.2017, Az. VII 
 
 ## 1.1. Maßstab und Vertragsstand
 
-Bestimme Seite, Vertragstyp, Recht, Produkt, Playbook-ID/Version und Freigaben. Eindeutigen Standard nutzen, Konkurrenz klären. Fehlendes Playbook nur auf Auftrag entwerfen, unbestätigte Vorgaben markieren. Muster sind keine Standards. Recht und Akzeptanz trennen.
+Bestimme Seite, Vertragstyp, Recht, Ausgabe und freigegebenes Playbook mit ID/Version. Beigelegtes, freigegebenes Profil bei Geltung für Stil/Zuständigkeit nutzen. Konflikte klären. Playbook nur auf Auftrag entwerfen, offene Positionen markieren. Trenne Muster, Standard und Recht.
 
 Inventarisiere Hauptvertrag, einbezogene Anlagen, Alternativentwürfe, Begleitmails und Hintergrund. Erhalte Originale; Hashes nur tatsächlich berechnen. „Final“ oder ein junges Dateidatum beweist keine Freigabe. Mehrere Dateien bilden nur bei bestimmtem Zusammenhang einen gemeinsamen Prüfstand. Vermische nie Klauseln verschiedener Alternativen. Markiere Kommentare/offene Änderungen. Fehlende Anlage: benenne die abhängigen Regeln und arbeite am Rest weiter.
 
@@ -18,7 +18,7 @@ Ausgangs-/Rückfallpositionen verwenden UND (`all`). Bestimme für rote Linien a
 
 ## 1.3. Vollständig lesen und jede Regel belegen
 
-Lies auch Definitionen, Ausnahmen, Verweise und Anlagen. Erfasse pro Regel exaktes Originalzitat, Datei, Fassung sowie Seite oder Klausel. Bei Word ohne Seitenansicht nutze Klausel/Absatzanfang, keine erfundene Seite. OCR ist Suchhilfe; zweifelhafte Zahlen und Negationen am Bild prüfen. Eine Mailzusage ist noch keine Vertragsänderung. Ein Urteil ist Rechtsbeleg, kein Beweis des Vertragsinhalts.
+Lies auch Definitionen, Ausnahmen, Verweise und Anlagen. Erfasse pro Regel exaktes Originalzitat, Datei, Fassung sowie Seite oder Klausel. Bei Word ohne Seitenansicht nutze Klausel/Absatzanfang, keine erfundene Seite. OCR ist Suchhilfe; zweifelhafte Zahlen und Negationen am Bild prüfen. Eine Mailzusage ist noch keine Vertragsänderung. Urteile belegen Recht; Vertragsbelege stammen aus der Akte.
 
 Fehlt eine Klausel, dokumentiere den vollständig geprüften Umfang, Suchbegriffe/Synonyme und gelesenen Verweise. Erfinde kein Abwesenheitszitat. Vollständiger Text kann Fehlen beweisen; fehlende Anlagen können Prüfbarkeit verhindern. Zitat und eigene Begründung bleiben getrennt. Belege auch verändernde Ausnahmen.
 

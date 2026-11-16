@@ -18,6 +18,7 @@ import sys
 import time
 import tempfile
 from datetime import date, datetime, timezone
+from importlib.metadata import version
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import HTTPRedirectHandler, Request, build_opener
@@ -33,6 +34,7 @@ MODES = {"plugin", "werkstatt", "schnellstart", "hauptproblem", "baseline"}
 CLEAN_ENDS = {"finish_tool", "no_tool_calls", "user_confirmed"}
 ENDS = CLEAN_ENDS | {"max_turns_exceeded", "context_overflow", "timeout", "provider_error", "cancelled"}
 SLUG = re.compile(r"[a-z0-9][a-z0-9-]{0,63}\Z")
+GRADER_SHA256 = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
 
 
 class LabError(ValueError):
@@ -469,8 +471,8 @@ def workbook_text(workbook):
             yield "\t".join(str(v) if v is not None else "" for v in row)
 
 
-def read_artifact(path: Path) -> str:
-    raw = bounded_bytes(path)
+def read_artifact(path: Path, *, raw: bytes | None = None) -> str:
+    raw = bounded_bytes(path) if raw is None else raw
     if not raw:
         raise LabError(f"Leere Ergebnisdatei: {path.name}")
     suffix = path.suffix.lower()
@@ -626,8 +628,8 @@ def inspect_run(run, root=ROOT):
     for name in case["deliverables"]:
         try:
             path = inside(run / "output", name)
-            text = read_artifact(path)
-            artifacts[name] = {"sha256": digest(bounded_bytes(path)), "text": text}
+            raw = bounded_bytes(path)
+            artifacts[name] = {"sha256": digest(raw), "text": read_artifact(path, raw=raw)}
         except (ValueError, OSError, ImportError, BadZipFile, ElementTree.ParseError) as exc:
             findings.append(f"{name}: {exc}")
     result = {"status": "ready_for_judging" if not findings else "unreviewed",
@@ -744,6 +746,29 @@ def remote_judge(judge, prompt):
     return choice.get("message", {}).get("content", "")
 
 
+def read_source_documents(run, manifest):
+    inputs = {}
+    for name, expected in manifest["inputs"].items():
+        if name in {"request.txt", "instructions.md"}:
+            continue
+        path = inside(run / "input", name)
+        raw = bounded_bytes(path)
+        if digest(raw) != expected:
+            raise LabError("Eingaben während der Prüfung geändert")
+        inputs[name] = read_artifact(path, raw=raw)
+    return inputs
+
+
+def grading_context(inputs, artifacts, execution):
+    readers = {".pdf": "pypdf", ".xlsx": "openpyxl"}
+    packages = {readers[suffix] for name in (*inputs, *artifacts)
+                if (suffix := Path(name).suffix.lower()) in readers}
+    return {"grader_sha256": GRADER_SHA256, "execution": execution,
+            "reader_versions": {package: version(package) for package in sorted(packages)},
+            "source_text_sha256": fingerprint(inputs),
+            "result_text_sha256": fingerprint({name: data["text"] for name, data in artifacts.items()})}
+
+
 def evaluate(run, config, allow_remote=False, root=ROOT, caller=None):
     run = Path(run).resolve()
     # Ein fehlgeschlagener erneuter Lauf darf keinen alten grünen Gesamtbefund hinterlassen.
@@ -757,8 +782,8 @@ def evaluate(run, config, allow_remote=False, root=ROOT, caller=None):
         raise LabError("Externe Übermittlung nicht freigegeben; --allow-remote erforderlich")
     call = caller or remote_judge
     manifest, _ = current_case(run, root)
-    inputs = {name: read_artifact(inside(run / "input", name)) for name in manifest["inputs"]
-              if name not in {"request.txt", "instructions.md"}}
+    inputs = read_source_documents(run, manifest)
+    grading = grading_context(inputs, artifacts, "remote_api" if caller is None else "local_adapter")
     results = []
     for judge in judges:
         path = run / f"scores_{judge['id']}.json"
@@ -800,10 +825,30 @@ def evaluate(run, config, allow_remote=False, root=ROOT, caller=None):
     result = {"schema_version": 1, "evaluation_kind": "work_product", "status": status,
               "all_pass": status == "passed", "dual_all_pass_rate": sum(r["all_pass"] for r in results) / 2,
               "disagreements": disagreement, "judges": results, "run_fingerprint": preflight["run_fingerprint"],
+              "grading": grading,
               "source_verification": "not_independently_verified", "legal_release": "requires_professional_review",
               "scored_at": datetime.now(timezone.utc).isoformat()}
     save(run / "scores_dual.json", result)
     return result
+
+
+def comparison_grading(score):
+    if "grading" not in score:
+        return None
+    grading = score["grading"]
+    if (not isinstance(grading, dict)
+            or set(grading) != {"grader_sha256", "execution", "reader_versions", "source_text_sha256", "result_text_sha256"}
+            or not isinstance(grading["execution"], str)
+            or grading["execution"] not in {"remote_api", "local_adapter"}
+            or not isinstance(grading["reader_versions"], dict)):
+        raise LabError("Ungültiger Bewertungsstand")
+    for field in ("grader_sha256", "source_text_sha256", "result_text_sha256"):
+        if not isinstance(grading[field], str) or not re.fullmatch(r"[0-9a-f]{64}", grading[field]):
+            raise LabError("Ungültige Prüfsumme des Bewertungsstands")
+    for package, release in grading["reader_versions"].items():
+        nonempty(package, "Extraktionsbibliothek")
+        nonempty(release, "Version der Extraktionsbibliothek")
+    return {key: value for key, value in grading.items() if key != "result_text_sha256"}
 
 
 def compare(paths, root=ROOT):
@@ -815,17 +860,27 @@ def compare(paths, root=ROOT):
             raise LabError("Derselbe Lauf darf nicht mehrfach verglichen werden")
         seen.add(run)
         manifest, _ = current_case(run, root)
-        inspection, _, _ = inspect_run(run, root)
+        inspection, _, artifacts = inspect_run(run, root)
         score = load(run / "scores_dual.json")
         if score.get("run_fingerprint") != inspection["run_fingerprint"]:
             raise LabError("Veralteter Bewertungsstand")
         metrics = inspection["metrics"]
         if metrics is None:
             raise LabError("Messwerte fehlen")
+        if inspection["status"] != "ready_for_judging":
+            raise LabError("Lauf eignet sich nicht für die Ergebnisbewertung")
+        grading = comparison_grading(score)
+        if grading and grading["grader_sha256"] == GRADER_SHA256:
+            observed = grading_context(read_source_documents(run, manifest), artifacts, grading["execution"])
+            if observed["reader_versions"] == grading["reader_versions"] and observed != score["grading"]:
+                raise LabError("Bewertung beruht auf abweichender Textsicht")
+        # Alte Ergebnisse bleiben sichtbar. Ohne erfassten Bewertungsstand
+        # kann auch zwischen zwei Altläufen keine Vergleichbarkeit belegt werden.
+        grading_key = fingerprint(grading) if grading is not None else str(run)
         judges = tuple((j["model"], j["endpoint"], j["protocol"]) for j in score["judges"])
         key = (metrics["client"], metrics["model"], manifest["mode"], manifest["revision"], judges,
                manifest.get("bundle_hash") or manifest.get("prompt_hash") or "baseline",
-               manifest["plugin"], manifest["case_hash"])
+               manifest["plugin"], manifest["case_hash"], fingerprint(manifest["inputs"]), grading_key)
         groups.setdefault(key, []).append((manifest, metrics, score))
     rows = []
     for key, values in groups.items():
@@ -833,7 +888,8 @@ def compare(paths, root=ROOT):
         tokens = [v[1]["input_tokens"] + v[1]["output_tokens"] for v in values
                   if v[1].get("input_tokens") is not None and v[1].get("output_tokens") is not None]
         rows.append({"client": key[0], "model": key[1], "mode": key[2], "revision": key[3], "judge_profile": key[4],
-                     "variant_hash": key[5], "plugin": key[6], "case_hash": key[7], "runs": len(values),
+                     "variant_hash": key[5], "plugin": key[6], "case_hash": key[7],
+                     "inputs_hash": key[8], "grading": comparison_grading(values[0][2]), "runs": len(values),
                      "case_ids": sorted({v[0]["plugin"] + "/" + v[0]["case"] for v in values}),
                      "strict_pass_rate": sum(v[2]["all_pass"] for v in values) / len(values),
                      "needs_review": sum(v[2]["status"] == "needs_review" for v in values),
@@ -841,7 +897,9 @@ def compare(paths, root=ROOT):
                      "tokens_mean": statistics.mean(tokens) if tokens else None,
                      "runs_with_token_measurement": len(tokens)})
     return {"evaluation_kind": "work_product", "groups": rows,
-            "warning": "Nur identische Fälle, Wiederholungszahlen und Prüferprofile direkt vergleichen. Keine allgemeine Client- oder Rechtsrichtigkeitsgarantie."}
+            "warning": "Nur identische Fälle, Eingaben, Bewertungsstände, Wiederholungszahlen und Prüferprofile direkt vergleichen. "
+                       "Einzelläufe mit grading=null haben keinen protokollierten Bewertungsstand. "
+                       "Keine allgemeine Client- oder Rechtsrichtigkeitsgarantie."}
 
 
 def catalog(profiles, root=ROOT):

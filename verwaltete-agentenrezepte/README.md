@@ -31,7 +31,11 @@ Die `agent.yaml`-Dateien verwenden die echten `POST /v1/agents`-Feldnamen mit we
 
 ## Agentenübergreifende Übergaben
 
-Benannte Agenten rufen sich niemals direkt gegenseitig auf. Wenn ein Agent einen anderen benötigt, sendet er einen `handoff_request` in seiner Ausgabe; [`../scripts/orchestrate.py`](../scripts/orchestrate.py) (oder Ihr eigener Event-Bus) leitet ihn als neues Steuerungsereignis an die Zielsitzung weiter. Das Referenzskript hat eine Hartcodierung zulässiger Ziele und validiert Nutzdaten gegen ein Schema.
+Ein Agent kann in seiner vollständigen Textausgabe einen `handoff_request` mit `type` als erstem Schlüssel ausgeben. [`scripts/orchestrate.py`](../scripts/orchestrate.py) verarbeitet das vollständige JSON-Objekt einschließlich verschachtelter Parameter und Zeilenumbrüche. Es prüft Ziel, Auftrag und Parameter und leitet zulässige Analyseaufträge als `user.message` an eine konfigurierte Zielsitzung weiter. Externe Slack-Aufträge stehen als `needs_review` im Auditprotokoll. Die Weiterleitung stützt sich auf die geprüfte JSON-Struktur. Eine Textausgabe belegt allein keine vertrauenswürdige Herkunft des Auftrags. [Claude-Dokumentation zu Sitzungsereignissen](https://platform.claude.com/docs/en/managed-agents/events-and-streaming)
+
+Für den optionalen Betrieb geben Sie per `SOURCE_SESSION_ID` die Quellsitzung und per `TARGET_SESSION_IDS` eine JSON-Zuordnung der erlaubten Zielnamen zu bereits eingerichteten **Sitzungs-IDs** an. Jeder Zielname braucht eine eigene Sitzung, die sich von der Quellsitzung unterscheidet. Die frühere Variable `AGENT_IDS` direkt durch `TARGET_SESSION_IDS` ersetzen und dafür die Sitzungs-IDs des jeweiligen Deployments eintragen. Ein Übertragungsfehler beendet den Referenzlauf und wird nach Fehlertyp protokolliert. Der Referenzlauf wurde mit dem Python-SDK `anthropic` 2.8.0 und `jsonschema` 4 lokal ohne API-Zugang geprüft. Die Parser- und Versandgrenztests laufen ohne das Anthropic-SDK mit `python3 scripts/test-orchestrate.py`. [Upstream-Korrektur des JSON-Parsers](https://github.com/anthropics/claude-for-legal/commit/88c89068315dba1358dd5058ac4cdce4023682d8)
+
+Prüfen Sie die vier Agentenrezepte lokal mit `bash scripts/agentenrezepte-pruefen.sh`. Der Trockenlauf verwendet ein gemeinsames temporäres Verzeichnis mit einem Pfadmuster für Linux und macOS. [Upstream-Korrektur für Linux](https://github.com/anthropics/claude-for-legal/commit/bf6aea18bb2b94ddf0e7f095f29c987b421c1004)
 
 ## Sicherheitsmodell
 

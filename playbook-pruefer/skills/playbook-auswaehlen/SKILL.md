@@ -11,11 +11,11 @@ Lege den Maßstab für die Prüfung eines bestimmten Vertrags fest. Ein vorhande
 
 ## 2. Eingaben
 
-Lies Vertrag, Auftrag, verfügbare Playbooks und dazugehörige Freigaben. Nutze bestehende Angaben zu Mandantin, Rolle, Vertragstyp, Rechtsordnung und Entscheidungsfrist. Wenn nur ein Muster vorliegt, behandle es nicht automatisch als freigegebenen Kanzleistandard.
+Lies Vertrag, Auftrag, verfügbare Playbooks und dazugehörige Freigaben. Nutze bestehende Angaben zu Mandantin, Rolle, Vertragstyp, Rechtsordnung und Entscheidungsfrist. Wenn nur ein Muster vorliegt, behandle es nicht automatisch als freigegebenen Kanzleistandard. Lies ein Arbeitsprofil, wenn es für den Auftrag ausdrücklich bereitgestellt wurde. Die [optionale Profilvorlage](../../references/kanzlei-arbeitsprofil.md) erfasst wiederverwendbare Arbeitsvorgaben.
 
 ## 3. Ablauf und Checkliste
 
-1. Stelle die passenden vorhandenen Playbooks mit ID, Version, Eigentümer, Anwendungsbereich und Freigabestatus gegenüber. Bei eindeutiger Auswahl arbeite direkt damit; bei sachlich unterschiedlichen Standards frage nach genau dieser Entscheidung.
+1. Stelle die passenden vorhandenen Playbooks mit ID, Version, Eigentümer, Anwendungsbereich und Freigabestatus gegenüber. Bei eindeutiger Auswahl arbeite direkt damit. Prüfe bei einem beigefügten Arbeitsprofil zusätzlich Version, Freigabe und Geltung für Seite, Rechtsordnung und Vertragsart. Eine Playbook-Kennung allein belegt keine Regel und erteilt keine Freigabe. Bei sachlich unterschiedlichen Standards oder einem Konflikt mit dem Auftrag kläre nur den betroffenen Punkt. Fehlt das Profil, arbeite mit den übrigen Vorgaben weiter.
 2. Trenne Kanzleistandard, individuelle Mandantenvorgabe und zwingendes Recht. Zahlen wie 40 Wochenstunden oder zehn abgegoltene Überstunden sind nur Standards, wenn sie tatsächlich vorgegeben sind.
 3. Prüfe die Struktur Thema → Position → Regel. Ausgangsposition, geordnete Rückfälle und rote Linien müssen erkennbar sein. Markiere ungeregelte Freigaben oder widersprüchliche Regeln, statt sie selbst zu genehmigen.
 4. Wenn kein Playbook existiert und der Auftrag dessen Erstellung umfasst, liefere einen ausdrücklich vorläufigen Entwurf anhand belegter Präferenzen. Benenne die noch benötigten Geschäftsentscheidungen. Eine Vertragsprüfung darf schon gegen die eindeutig bestätigten Regeln laufen, aber nicht als Prüfung gegen einen vollständig freigegebenen Standard ausgegeben werden.

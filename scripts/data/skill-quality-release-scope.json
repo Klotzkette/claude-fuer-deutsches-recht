@@ -1,46 +1,20 @@
 {
   "schema_version": 1,
-  "version": "445.36.5",
-  "tag": "qualitaetsrunde-v445.36.5",
+  "version": "445.36.6",
+  "tag": "qualitaetsrunde-v445.36.6",
   "plugins": [
     {
-      "name": "bautraegervertrag-pruefer",
+      "name": "playbook-pruefer",
       "variants": [
         "native"
       ],
       "prompts": [
-        "bautraegervertrag-pruefer-schnellstart.md",
-        "bautraegervertrag-pruefer-werkstatt.md"
-      ]
-    },
-    {
-      "name": "arbeitszeugnispruefer",
-      "variants": [
-        "native"
-      ],
-      "prompts": [
-        "arbeitszeugnispruefer-schnellstart.md",
-        "arbeitszeugnispruefer-werkstatt.md"
-      ]
-    },
-    {
-      "name": "sozialversicherungspflicht-pruefer",
-      "variants": [
-        "native"
-      ],
-      "prompts": [
-        "sozialversicherungspflicht-pruefer-schnellstart.md",
-        "sozialversicherungspflicht-pruefer-werkstatt.md"
-      ]
-    },
-    {
-      "name": "bauunternehmer-einkauf",
-      "variants": [
-        "native"
-      ],
-      "prompts": [
-        "bauunternehmer-einkauf-schnellstart.md",
-        "bauunternehmer-einkauf-werkstatt.md"
+        "playbook-pruefer-werkstatt.md",
+        "playbook-pruefer-werkstatt.txt",
+        "playbook-pruefer-schnellstart.md",
+        "playbook-pruefer-schnellstart.txt",
+        "playbook-pruefer-hauptproblem.md",
+        "playbook-pruefer-hauptproblem.txt"
       ]
     }
   ]

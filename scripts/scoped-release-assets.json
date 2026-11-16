@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
   "assets": {
+    "playbook-pruefer.zip": "qualitaetsrunde-v445.36.6",
     "testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen-einzelpdfs.zip": "akten-v445.35.3",
     "zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip": "qualitaetsrunde-v445.36.2",
     "zahlungsunfaehigkeits-und-ueberschuldungspruefer-portable.zip": "qualitaetsrunde-v445.36.2",

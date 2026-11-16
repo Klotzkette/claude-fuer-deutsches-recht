@@ -1,0 +1,32 @@
+name: Agentenrezepte und Übergaben prüfen
+
+on:
+  pull_request:
+    paths: &agent_sources
+      - '.github/workflows/agentenrezepte-pruefen.yml'
+      - 'verwaltete-agentenrezepte/**'
+      - 'scripts/agentenrezept-ausliefern.sh'
+      - 'scripts/agentenrezepte-pruefen.sh'
+      - 'scripts/orchestrate.py'
+      - 'scripts/test-orchestrate.py'
+      - 'scripts/werkzeug-rahmen-pruefer.py'
+      - 'requirements.txt'
+  push:
+    branches: [main]
+    paths: *agent_sources
+
+permissions:
+  contents: read
+
+jobs:
+  trockenlauf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install -r requirements.txt
+      - name: Übergaben, Werkzeuggrenzen und Rezepte lokal prüfen
+        run: bash scripts/agentenrezepte-pruefen.sh

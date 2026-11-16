@@ -6,7 +6,7 @@ on:
       tag:
         description: 'Unbenutzter Komponententag aus dem Release-Scope'
         required: true
-        default: qualitaetsrunde-v445.36.5
+        default: qualitaetsrunde-v445.36.6
       expected_commit:
         description: 'Vollständiger geprüfter Main-Commit (40 Hexadezimalzeichen)'
         required: true

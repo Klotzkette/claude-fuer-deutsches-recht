@@ -2131,7 +2131,7 @@
       "name": "playbook-pruefer",
       "source": "./playbook-pruefer",
       "description": "Verträge regelweise an freigegebenen Kanzlei-Playbooks prüfen: Themen, Ausgangspositionen, Kompromisse und rote Linien mit Originalzitaten und Word-Bericht.",
-      "version": "445.35.3",
+      "version": "445.36.6",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

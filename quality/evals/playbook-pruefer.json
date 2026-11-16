@@ -233,41 +233,44 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Den überarbeiteten Mini-Prompt nach dem ersten echten NDA-Praxistest erneut vollständig gelesen. Der im Lauf fehlende BGH-Vertragsstrafenanker VII ZR 308/16 steht jetzt mit Datum, Primär-URL, Rn. 14–23 und begrenzter Übertragung ausdrücklich im Mini. Versionsverbund, Regelabdeckung, Zähler, Ungewissheit und vollständige Ergebnisse bleiben erhalten. Dies ist eine Desk-Review der Korrektur, keine rückwirkende Bestätigung des früheren Modelllaufs. 2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Den überarbeiteten Mini-Prompt nach dem ersten echten NDA-Praxistest erneut vollständig gelesen. Der im Lauf fehlende BGH-Vertragsstrafenanker VII ZR 308/16 steht jetzt mit Datum, Primär-URL, Rn. 14–23 und begrenzter Übertragung ausdrücklich im Mini. Versionsverbund, Regelabdeckung, Zähler, Ungewissheit und vollständige Ergebnisse bleiben erhalten. Dies ist eine Desk-Review der Korrektur, keine rückwirkende Bestätigung des früheren Modelllaufs. 2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. Die gezielte Nachprüfung ergänzt die optionale Verwendung eines vorgelegten, einschlägigen Arbeitsprofils.",
     "changes": [
       "Konkreten BGH-Anker für die B2B-AGB-Vertragsstrafe ergänzt; Gutscheinfall und fehlende allgemeine NDA-Eurogrenze ausdrücklich unterschieden.",
       "Einleitung und Schluss verdichtet; vollständige Quellen- und Workflowanforderungen beim erneuten Lesen abgeglichen.",
-      "2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "Arbeitsprofil, Playbook-Fassung, Auftrag und Freigabe getrennt führen."
     ],
-    "sha256": "8473c6118ebdd6fcb02484606e7b4ea5e474502b726a40ec21d2258c0e93ef07",
-    "reviewed_on": "2026-10-16",
+    "sha256": "4286ff3931782deb49026046308572d1af2325b06a944021b3e897f3ef86c1d5",
+    "reviewed_on": "2026-11-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Den neu erstellten Werkstatt-Prompt vollständig am finalen Text gegengelesen: geschlossener Ablauf vom tatsächlichen Material über jede Regel und Rechtsprüfung bis zu Bericht, vollständiger Neufassung, Folgeantwort und neuer Vertragsversion. Individuelle Desk-Review, kein Modelltest. 2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Den neu erstellten Werkstatt-Prompt vollständig am finalen Text gegengelesen: geschlossener Ablauf vom tatsächlichen Material über jede Regel und Rechtsprüfung bis zu Bericht, vollständiger Neufassung, Folgeantwort und neuer Vertragsversion. Individuelle Desk-Review, kein Modelltest. 2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. Die gezielte Nachprüfung ergänzt die optionale Verwendung eines vorgelegten, einschlägigen Arbeitsprofils.",
     "changes": [
       "Überschriftenhierarchie auf genau einen Dokumenttitel und dezimale Kapitel/Unterkapitel berichtigt; sämtlicher Fachtext nachweislich unverändert.",
-      "2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "Arbeitsprofil, Playbook-Fassung, Auftrag und Freigabe getrennt führen."
     ],
-    "sha256": "4fcdaa7134443cf8cd73a04c8eec037b708293114b6742b0708ea0d848f5c497",
-    "reviewed_on": "2026-10-16",
+    "sha256": "e46d7e72af76bff6a51aa801a097ffd0332513b5288f8cbb7180fe8945f4f0b2",
+    "reviewed_on": "2026-11-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "focus_review": {
     "method": "desk_review",
-    "reviewed_on": "2026-10-02",
-    "verdict": "retained",
-    "reason": "Hauptproblem-Prompt und orchestrierender Hauptskill vollständig gegengelesen. Auswahl, Versionsdisziplin, Regelvollständigkeit, konkrete Fallanker, Rückfragen und fertige Arbeitsergebnisse sind verbunden; keine selbsttätige Vertragsfreigabe.",
+    "reviewed_on": "2026-11-16",
+    "verdict": "revised",
+    "reason": "Hauptproblem-Prompt und orchestrierender Hauptskill vollständig gegengelesen. Auswahl, Versionsdisziplin, Regelvollständigkeit, konkrete Fallanker, Rückfragen und fertige Arbeitsergebnisse sind verbunden; keine selbsttätige Vertragsfreigabe. Die gezielte Nachprüfung ergänzt die optionale Verwendung eines vorgelegten, einschlägigen Arbeitsprofils.",
     "changes": [
-      "06.10.2026: Themenfund im Hauptskill deutsch als Gefunden/Nicht gefunden/Nicht prüfbar bezeichnet; die bestehenden technischen Statuswerte und ihre Auswertung bleiben in der verlinkten Prüflogik und Engine unverändert. Eng begrenzte redaktionelle Prüfung, kein neuer Modelllauf."
+      "06.10.2026: Themenfund im Hauptskill deutsch als Gefunden/Nicht gefunden/Nicht prüfbar bezeichnet; die bestehenden technischen Statuswerte und ihre Auswertung bleiben in der verlinkten Prüflogik und Engine unverändert. Eng begrenzte redaktionelle Prüfung, kein neuer Modelllauf.",
+      "Arbeitsprofil, Playbook-Fassung, Auftrag und Freigabe getrennt führen."
     ],
     "prompt_path": "playbook-pruefer/playbook-pruefer-hauptproblem.md",
     "skill_path": "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
-    "prompt_sha256": "860a1be71f404f30e90605d3bd963766a7d72ab669700fe3a50ca7cc73478dba",
-    "skill_sha256": "c56f699c210138c78a1c0c92ba8682d63b9a331c9431c36f01359764b9f85f1f"
+    "prompt_sha256": "7bc2a943d6db61843030c7d3cb242f00983fed5626588a8bceb65736ea571083",
+    "skill_sha256": "038c7ec8c4f4d3c48d5282252a645fc081d327273df2aa11115ca3182b61167a"
   },
   "prompt_editorial_review": {
     "date": "2026-10-02",
@@ -629,5 +632,18 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "praxisprofil_nachpruefung": {
+    "date": "2026-11-16",
+    "method": "desk_review",
+    "scope": "Ergänzte Einstiege und Geltungsprüfung des optionalen Arbeitsprofils. Kein Modellaufruf.",
+    "files": {
+      "playbook-pruefer/references/kanzlei-arbeitsprofil.md": "17c0cb917c6f4040b6be3d2e047f17fadf10ec82e81bb7e665eb22ad77a24713",
+      "playbook-pruefer/skills/playbook-auswaehlen/SKILL.md": "fd01f59a21b4b186b643ec645c95b4c3d2949e157693cad8e35e00658c8083ab",
+      "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md": "038c7ec8c4f4d3c48d5282252a645fc081d327273df2aa11115ca3182b61167a",
+      "playbook-pruefer/playbook-pruefer-werkstatt.md": "e46d7e72af76bff6a51aa801a097ffd0332513b5288f8cbb7180fe8945f4f0b2",
+      "playbook-pruefer/playbook-pruefer-schnellstart.md": "4286ff3931782deb49026046308572d1af2325b06a944021b3e897f3ef86c1d5",
+      "playbook-pruefer/playbook-pruefer-hauptproblem.md": "7bc2a943d6db61843030c7d3cb242f00983fed5626588a8bceb65736ea571083"
+    }
   }
 }
