@@ -17,7 +17,8 @@ Auswahl-Heuristik:
     * weiter nach Frontmatter-description-Laenge (laengere=substantieller)
 
 Pro Vollprüfung:
-- Header mit Disclaimer + Anleitung
+- Fachaufgabe und Bearbeitungsweg
+- Zusammensetzung des Dokuments
 - Inhaltsverzeichnis
 - Konkatenierter Skill-Inhalt (Frontmatter entfernt)
 - Footer: Hinweise
@@ -29,10 +30,11 @@ if __name__ == "__main__":
     from generator_cli import parse_generator_cli
 
     parse_generator_cli(__doc__)
+import json
 import re
 from pathlib import Path
 
-from prompt_profiles import enabled
+from prompt_profiles import enabled, hand_curated, standalone_kinds
 from skill_sources import original_skill_sources, replacements
 from werkstatt_visualisierung import block as visual_block, remove_block as remove_visual_block
 from urllib.parse import quote
@@ -131,6 +133,43 @@ def rewrite_relative_links(body: str, skill_path: Path) -> str:
     return re.sub(r"\]\(([^)]+)\)", repl, body)
 
 
+def workflow_opening(plugin_dir: Path) -> str:
+    """Übernimmt den fachlichen Einstieg aus dem jeweiligen Einzelprompt."""
+
+    plugin = plugin_dir.name
+    purpose = ""
+    for kind in standalone_kinds(plugin):
+        prompt = plugin_dir / f'{plugin}-{kind}.md'
+        if prompt.is_file():
+            text = re.sub(r'<!--.*?-->', '', prompt.read_text(encoding='utf-8'), flags=re.S)
+            purpose = next(
+                (part.strip() for part in re.split(r'\n\s*\n', text)
+                 if part.strip() and not part.lstrip().startswith('#')),
+                '',
+            )
+            if purpose:
+                purpose = rewrite_relative_links(purpose, prompt)
+                break
+    if not purpose:
+        path = plugin_dir / '.claude-plugin/plugin.json'
+        purpose = json.loads(path.read_text(encoding='utf-8')).get('description', '') if path.is_file() else ''
+    return '\n\n'.join(part for part in (
+        purpose,
+        'Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. '
+        'Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit '
+        'dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in '
+        'dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.',
+    ) if part)
+
+
+def render_skill(skill_path: Path, description: str, body: str) -> str:
+    sections = [f'## Skill: `{skill_path.parent.name}`']
+    if description:
+        sections.append(f'_{description}_')
+    sections.append(rewrite_relative_links(remove_visual_block(body).strip(), skill_path))
+    return '\n\n'.join(sections)
+
+
 def build_megaprompt(plugin_dir: Path) -> str | None:
     """Erzeugt Vollprüfung-Markdown fuer ein Plugin. None bei skip."""
     if not enabled(plugin_dir.name, "megaprompt"):
@@ -161,7 +200,9 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     lines = []
     lines.append(f'# Vollprüfung: {plugin}')
     lines.append('')
-    lines.append(f'## Zusammensetzung')
+    lines.append(workflow_opening(plugin_dir))
+    lines.append('')
+    lines.append('## Zusammensetzung')
     lines.append('')
     lines.append(f'Diese Vollprüfung enthält {coverage} des Plugins `{plugin}`.')
     lines.append('')
@@ -174,13 +215,8 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     lines.append('---')
     lines.append('')
 
-    for slug, skill_path, desc, body in skills:
-        lines.append(f'## Skill: `{slug}`')
-        lines.append('')
-        if desc:
-            lines.append(f'_{desc}_')
-            lines.append('')
-        lines.append(rewrite_relative_links(remove_visual_block(body).strip(), skill_path))
+    for _slug, skill_path, desc, body in skills:
+        lines.append(render_skill(skill_path, desc, body))
         lines.append('')
         lines.append('---')
         lines.append('')
@@ -202,10 +238,11 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
         lines.append('3. Tatsächliche Antworten im bestehenden Stand verarbeiten; nach Klärung oder festgestellter Beweisgrenze die geschuldeten Schreiben vollständig erstellen. Arbeitgeberantwort und neue Fassung lösen die gezielte Kontrollschleife aus.')
         lines.append('4. Ohne Quellenzugriff die eingebetteten Anker als bereitgestelltes, nicht live geprüftes Material behandeln; keine Verifikation behaupten und keine Nachweise erfinden.')
     else:
-        lines.append('1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.')
-        lines.append('2. Den eigentlichen juristischen Fall beschreiben.')
-        lines.append('3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.')
-        lines.append('4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.')
+        lines.append(
+            'Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand '
+            'und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen '
+            'Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.'
+        )
     lines.append('')
     return visual_block('\n'.join(lines).rstrip() + '\n', plugin)
 
@@ -214,12 +251,8 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     created = 0
     skipped = 0
-    too_big_skip = 0
-    # Top-Level-Plugins plus Sammelordner gerichtsplugins/
-    candidate_dirs = list(REPO.iterdir())
-    gerichts_dir = REPO / 'gerichtsplugins'
-    if gerichts_dir.is_dir():
-        candidate_dirs.extend(gerichts_dir.iterdir())
+    marketplace = json.loads((REPO / '.claude-plugin/marketplace.json').read_text(encoding='utf-8'))
+    candidate_dirs = [REPO / entry['source'] for entry in marketplace['plugins']]
     for plugin_dir in sorted(candidate_dirs, key=lambda p: p.name):
         if not plugin_dir.is_dir():
             continue
@@ -229,11 +262,16 @@ def main() -> int:
         if plugin_dir.name in EXCLUDE_PLUGINS or not enabled(plugin_dir.name, 'megaprompt'):
             skipped += 1
             continue
+        out_path = OUT / f'{plugin_dir.name}.md'
+        if (hand_curated(plugin_dir.name) and out_path.is_file()
+                and not out_path.read_text(encoding='utf-8').startswith(f'# Vollprüfung: {plugin_dir.name}\n')):
+            # Ein eigenständig redigierter Master-Prompt ist kein Generator-Export.
+            skipped += 1
+            continue
         mp = build_megaprompt(plugin_dir)
         if mp is None:
             skipped += 1
             continue
-        out_path = OUT / f'{plugin_dir.name}.md'
         out_path.write_text(mp, encoding='utf-8')
         size_kb = out_path.stat().st_size / 1024
         if size_kb > 200:

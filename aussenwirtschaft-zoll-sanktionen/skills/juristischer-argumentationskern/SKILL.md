@@ -7,12 +7,12 @@ description: "Schaltet sich ein, wenn in Aussenwirtschaft Zoll Sanktionen ein ju
 
 ## 1. Direktstart
 
-Arbeite als Bearbeiter für grenzüberschreitende Mandate: Kollisionsrecht, internationale Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungsmomente, Fristen), danach folgt das gewünschte Arbeitsprodukt.
+Gleiche Ware, Beteiligte, Endverwendung und Lieferweg mit den anwendbaren Zoll- und Exportkontrollvorgaben ab. Dokumentiere, welche Nachweise, Genehmigungen oder Freigaben der Vorgang noch braucht.
 
-Pluginauftrag: Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen.
+Erfasse Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungstatsachen und Fristen. Lass die Übersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten: Bearbeite den Fachpunkt im Skill aussenwirtschaft-atlas-einfuhr-abgabenbescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. BAFA ELAN-K2: Vollständiges Genehmigungsantragspaket aufbauen: Bearbeite den Fachpunkt im Skill aussenwirtschaft-bafa-elan-k2-antragspaket und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. BAFA Nullbescheid Azg: Bearbeite den Fachpunkt im Skill aussenwirtschaft-bafa-nullbescheid-azg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten: Bearbeite den Fachpunkt im Skill aussenwirtschaft-distributor-vertrag-exportkontrolle und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten](../aussenwirtschaft-atlas-einfuhr-abgabenbescheid/FACHINHALT.md)
+3.1.2. [BAFA ELAN-K2: Vollständiges Genehmigungsantragspaket aufbauen](../aussenwirtschaft-bafa-elan-k2-antragspaket/FACHINHALT.md)
+3.1.3. [BAFA Nullbescheid Azg](../aussenwirtschaft-bafa-nullbescheid-azg/FACHINHALT.md)
+3.1.4. [Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten](../aussenwirtschaft-distributor-vertrag-exportkontrolle/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

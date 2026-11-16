@@ -1,5 +1,9 @@
 # Vollprüfung: strassenrecht-infrastruktur
 
+Prüfe die Zulassung einer Straßenfläche, die Unterbrechung einer Grundstückszufahrt oder die verlangte Kostenbeteiligung an einer Straßenmaßnahme. Ordne Widmung, Baulast und konkrete Nutzung ein und verfasse daraus den beauftragten Antrag, die Einwendung, Vereinbarung oder rechtliche Stellungnahme. Bei Bauvorhaben bestimme die angegriffene Planentscheidung und den betroffenen Abschnitt.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 127 Skills (gekürzt für das Arbeitsfenster) des Plugins `strassenrecht-infrastruktur`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Strassenrecht Infrastruktur ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche Widmung, Straßenklasse und tatsächliche Nutzung mit den Planungs- und Genehmigungsunterlagen ab. Begründe den beauftragten Antrag, die Einwendung oder die Vollzugsentscheidung.
 
-Pluginauftrag: Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Autobahn Eilantrag Skizzieren: Bearbeite den Fachpunkt im Skill autobahn-eilantrag-kostenlast und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Brücke Eilantrag Skizzieren: Bearbeite den Fachpunkt im Skill bruecke-eilantrag-kostenlast-unterhaltung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Bundesstrasse Eilantrag Skizzieren: Bearbeite den Fachpunkt im Skill bundesstrasse-eilantrag-skizzieren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Gemeindestrasse Eilantrag Skizzieren: Bearbeite den Fachpunkt im Skill gemeindestrasse-eilantrag-kostenlast und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Autobahn Eilantrag Skizzieren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strassenrecht-infrastruktur/skills/autobahn-eilantrag-kostenlast/FACHINHALT.md)
+3.1.2. [Brücke Eilantrag Skizzieren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strassenrecht-infrastruktur/skills/bruecke-eilantrag-kostenlast-unterhaltung/FACHINHALT.md)
+3.1.3. [Bundesstrasse Eilantrag Skizzieren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strassenrecht-infrastruktur/skills/bundesstrasse-eilantrag-skizzieren/FACHINHALT.md)
+3.1.4. [Gemeindestrasse Eilantrag Skizzieren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strassenrecht-infrastruktur/skills/gemeindestrasse-eilantrag-kostenlast/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -561,10 +565,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

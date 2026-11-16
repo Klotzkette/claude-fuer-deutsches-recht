@@ -1,5 +1,9 @@
 # Vollprüfung: nachbarschaftsstreit-pruefer
 
+Prüfe den konkreten Grenz-, Immissions-, Überhang-, Überbau-, Notweg- oder Einfriedungsstreit anhand der Grundstücksunterlagen und des Ortsbefunds. Erstelle die beauftragte Bewertung, Aufforderung oder Vereinbarung unter Berücksichtigung des einschlägigen Landesrechts.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `nachbarschaftsstreit-pruefer`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Nachbarschaftsstreit Prüfer ein juristisches Arbeit
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Lies Grenzunterlagen, Fotos und bisherigen Schriftwechsel. Begründe aus Ort, Zeit und konkreter Beeinträchtigung den verlangten Abhilfevorschlag, Anspruch oder Vergleich.
 
-Pluginauftrag: Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristen- und Risikoampel: Bearbeite den Fachpunkt im Skill nachbarschaftsstreit-fristen-risiko-mandant und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Anspruchslandkarte BGB-Nachbarrecht: Bearbeite den Fachpunkt im Skill anspruchslandkarte-bgb-aufforderungsschreiben und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Einstweilige Verfügung und Klage: Bearbeite den Fachpunkt im Skill einstweilige-verfuegung-und-klage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Prüfer: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill fristennotiz-naechster-ueberbau-akten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristen- und Risikoampel](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nachbarschaftsstreit-pruefer/skills/nachbarschaftsstreit-fristen-risiko-mandant/FACHINHALT.md)
+3.1.2. [Anspruchslandkarte BGB-Nachbarrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nachbarschaftsstreit-pruefer/skills/anspruchslandkarte-bgb-aufforderungsschreiben/FACHINHALT.md)
+3.1.3. [Einstweilige Verfügung und Klage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nachbarschaftsstreit-pruefer/skills/einstweilige-verfuegung-und-klage/FACHINHALT.md)
+3.1.4. [Prüfer: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nachbarschaftsstreit-pruefer/skills/fristennotiz-naechster-ueberbau-akten/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -733,10 +737,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

@@ -72,6 +72,11 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_173-23.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-22",
       "supports": "Ohne Verbindung von Gesellschafter- und Darlehensgeberstellung verlangt die wirtschaftliche Zurechnung besondere Tatsachen wie Treuhand, Strohmannstellung oder die konkrete Durchsetzung eigener wirtschaftlicher Interessen. Grenze: Umgehungsetikett, Freundschaft, Beobachterrolle oder niedriger Kaufpreis genügen nicht ohne weitere Umstände."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313232026.zip",
+      "checked_on": "2026-11-16",
+      "supports": "BGH, Urteil vom 24.09.2026, IX ZR 65/25, Rn. 8–23, insbesondere 13–23. Beweiswürdigung der Schuldnererklärung, Kenntnis bei Abgabe, Ausnahmefälle und Fortdauer bis zu den angegriffenen Zahlungen. Zurückverweisung ohne Entscheidung über Rückgewähr."
     }
   ],
   "selection": {
@@ -269,10 +274,12 @@
       "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert.",
       "Bei direkter Rückzahlung keine zusätzliche Krisen- oder Kenntnisprüfung.",
       "Bei Abtretung Wirksamkeit, Kaufpreis, Zurechnung und Jahresgrenze getrennt.",
-      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
+      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen.",
+      "16.11.2026: Bei § 130 InsO die belegte Erklärung einer fehlenden Zahlungsfähigkeit, Empfängerwissen und Fortdauer bis zum jeweiligen Handlungszeitpunkt nach IX ZR 65/25 getrennt prüfen."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "00a8b811bcb4a4737436bfa49aae4ba43cb463137be726648057f1f44a07e0bf"
+    "sha256": "b1312620748c237ce39e654123920ed862df3a099fc0469494180f1febbe6876",
+    "latest_editorial_scope": "Nachprüfung der geänderten Passagen, Größen und MD/TXT-Gleichheit. Kein Live-Modelltest und keine Neuprüfung sämtlicher Altquellen."
   },
   "workshop_review": {
     "verdict": "revised",
@@ -285,10 +292,12 @@
       "Abtretung innerhalb und außerhalb der Jahresfrist nach IX ZR 32/12 getrennt.",
       "Wirtschaftliche Zurechnung nach IX ZR 173/23 an konkrete besondere Umstände gebunden.",
       "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen.",
-      "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest."
+      "15.11.2026: abgegrenzte fachliche Ergänzung und Gegenprüfung; Nachweis unter quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15 bzw. quality/insolvenz-liquiditaet-2026-11-15. Frühere Lektürevermerke bleiben historisch; kein neuer Live-Modelltest.",
+      "16.11.2026: Bei § 130 InsO die belegte Erklärung einer fehlenden Zahlungsfähigkeit, Empfängerwissen und Fortdauer bis zum jeweiligen Handlungszeitpunkt nach IX ZR 65/25 getrennt prüfen."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "f8de941ee04191e48becf5aec97da7fc8ddd7cb4e530a07823da23f05bffaeb4"
+    "sha256": "fca5411afedea59378b2ed03ff5d6f5f7047813cce2604b2a752a06983699a29",
+    "latest_editorial_scope": "Nachprüfung der geänderten Passagen, Größen und MD/TXT-Gleichheit. Kein Live-Modelltest und keine Neuprüfung sämtlicher Altquellen."
   },
   "focus_review": {
     "verdict": "revised",
@@ -297,14 +306,15 @@
       "Ratenplan und neue Gegenleistung getrennt.",
       "Drittzahlung und eigene Verpflichtung rekonstruiert.",
       "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert.",
-      "15.11.2026: Hauptskill um geprüfte Auswahl der zehn Einzelwerkstätten ergänzt; übriger Schwerpunkt-Prompt unverändert."
+      "15.11.2026: Hauptskill um geprüfte Auswahl der zehn Einzelwerkstätten ergänzt; übriger Schwerpunkt-Prompt unverändert.",
+      "16.11.2026: Hauptskill um den konkreten Beleg- und Wissensschritt zu IX ZR 65/25 ergänzt. Schwerpunktprompt fachlich unverändert."
     ],
     "reviewed_on": "2026-10-21",
     "method": "desk_review",
     "prompt_path": "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md",
     "skill_path": "insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md",
     "prompt_sha256": "88684838a7bbf0119f4f903f2c059f91b19b01d5bbdb8ae0bb9707a17f78dc38",
-    "skill_sha256": "0a598a338aea95af258ccfb05373836639e91623a1200f4bfcbe93d28938bdb5"
+    "skill_sha256": "4322e09ccde945500bf14d6de9b87a2d99f02e9ca535a913da5c453772d148b1"
   },
   "prompt_editorial_review": {
     "date": "2026-10-22",

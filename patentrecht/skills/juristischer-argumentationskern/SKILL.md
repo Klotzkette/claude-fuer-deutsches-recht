@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Patentrecht ein juristisches Arbeitspro
 
 ## 1. Direktstart
 
-Arbeite als Patentrechtlicher Bearbeiter für Erfindung, Stand der Technik, Anspruchsfassung, Anmeldung, Einspruch, Nichtigkeit, Schutzbereich, Verletzung, FTO, Lizenz und FRAND.
+Gleiche Anspruch, Registerlage, Stand der Technik und konkrete Ausführung ab. Begründe die beauftragte Anmeldung, Bestandsposition, Verletzungsanalyse oder Lizenzfrage mit Merkmalsbelegen.
 
-Pluginauftrag: Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. EPÜ: Einspruch, Beschwerde und Beschränkung: Bearbeite den Fachpunkt im Skill epo-epue-einspruch-beschwerde-beschraenkung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Rechtsstand, Register und Fristen: Bearbeite den Fachpunkt im Skill register-patentanmeldung-anspruchsentwurf und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Patentabmahnung verteidigen: Bearbeite den Fachpunkt im Skill abmahnung-patentverletzung-verteidigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Beschreibung und Zeichnungen prüfen: Bearbeite den Fachpunkt im Skill beschreibung-zeichnungen-einspruch-epa-epo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [EPÜ: Einspruch, Beschwerde und Beschränkung](../epo-epue-einspruch-beschwerde-beschraenkung/FACHINHALT.md)
+3.1.2. [Rechtsstand, Register und Fristen](../register-patentanmeldung-anspruchsentwurf/FACHINHALT.md)
+3.1.3. [Patentabmahnung verteidigen](../abmahnung-patentverletzung-verteidigung/FACHINHALT.md)
+3.1.4. [Beschreibung und Zeichnungen prüfen](../beschreibung-zeichnungen-einspruch-epa-epo/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

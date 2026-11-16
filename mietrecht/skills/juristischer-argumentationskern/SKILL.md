@@ -7,13 +7,13 @@ description: "Schaltet sich ein, wenn in Mietrecht ein juristisches Arbeitsprodu
 
 ## 1. Direktstart
 
-Arbeite als Mietrechtlicher Bearbeiter für Wohnraum, Gewerberaum, Betriebskosten, Mängel, Kündigung, Räumung und WEG-Konflikte.
+Gleiche Mietvertrag, Abrechnung oder Schreiben mit Zahlungs- und Zustellbelegen ab. Berechne den betroffenen Betrag bei Bedarf anhand amtlicher Mietspiegelquellen und formuliere die verlangte Reaktion.
 
-Pluginauftrag: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhöhungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Verwende für Mietspiegeldaten ausschließlich amtliche Quellen.
 
 ## 2. Die tragende These
 
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Datenerhebung: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill datenerhebung-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung): Bearbeite den Fachpunkt im Skill eigenbedarfskuendigung-erstellen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Klageentwurf zum Amtsgericht (Mietsache): Bearbeite den Fachpunkt im Skill klageentwurf-amtsgericht-miet-gewerbemiete und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Klageentwurf: Beweislast, Darlegungslast und Substantiierung: Bearbeite den Fachpunkt im Skill klageentwurf-beweislast-und-darlegungslast und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Datenerhebung: Zahlen, Schwellenwerte und Berechnung](../datenerhebung-zahlen-schwellen-und-berechnung/FACHINHALT.md)
+3.1.2. [Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung)](../eigenbedarfskuendigung-erstellen/FACHINHALT.md)
+3.1.3. [Klageentwurf zum Amtsgericht (Mietsache)](../klageentwurf-amtsgericht-miet-gewerbemiete/FACHINHALT.md)
+3.1.4. [Klageentwurf: Beweislast, Darlegungslast und Substantiierung](../klageentwurf-beweislast-und-darlegungslast/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -61,6 +63,8 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
 ## 5. Rechtsprechung und Quellenstatus
+
+Bei Rückforderung nach § 556g BGB zuerst die maßgebliche Gesetzesfassung bestimmen. Für die alte Fassung Zugang der ursprünglichen Mietpreisrüge, behauptete Vertretungsmacht, rechtzeitige Beanstandung, Genehmigung und monatliche Fälligkeiten gegenüberstellen. Eine wirksame Genehmigung kann bei Vorliegen der Voraussetzungen auf die zunächst ohne Vollmacht erhobene Rüge zurückwirken. Prüfe danach, welche Monatsmieten nach dem Rügezugang fällig wurden, sowie die Forderungsinhaberschaft gesondert. [BGH, Urteil vom 28.10.2026, VIII ZR 177/24, Rn. 36–39 und 45–51](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304112026.zip)
 
 5.1. BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
 5.2. BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.

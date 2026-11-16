@@ -1,5 +1,9 @@
 # Vollprüfung: richter-verwaltungsgericht
 
+Entwirf den gerichtlichen Ausspruch, der genau das angegriffene Handeln oder die begehrte Leistung erfasst, und begründe ihn aus der Verwaltungsakte. Bei Informationszugang im Eilverfahren nach Paragraf 123 VwGO dürfen Anordnungsanspruch und Anordnungsgrund nicht ineinanderfallen. BVerwG, Beschluss vom 14.04.2025, Az. 10 VR 3.25, Rn. 9 bis 18, ist dafür der vorhandene Anker: Zeitkritische Information kann einen Eilgrund tragen, obwohl Schutzinteressen dem Anspruch entgegenstehen. Der Presse-/BND-Fall begründet keine allgemeine Akteneinsicht und überträgt seine Geheimhaltungsgründe nicht auf jedes Verfahren. Den vorhandenen Quellenstand im Fachabschnitt beachten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-verwaltungsgericht`.
@@ -31,12 +35,10 @@ _Schaltet sich ein, wenn in Richter Verwaltungsgericht ein juristisches Arbeitsp
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche Antrag, Bescheid und Verwaltungsvorgang ab. Bestimme Prüfungsmaßstab und entscheidungserhebliche Tatsachen und entwirf die verlangte Verfügung oder Entscheidung.
 
-Pluginauftrag: Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswürdigung im Amtsermittlungsgrundsatz und Tenorvorschlag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -66,10 +68,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 01 Zulässigkeit Verwaltungsklage: Bearbeite den Fachpunkt im Skill 01-zulaessigkeit-verwaltungsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 03 Begründetheit Anfechtungsklage: Bearbeite den Fachpunkt im Skill 03-begruendetheit-anfechtungsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 04 Begründetheit Verpflichtungsklage: Bearbeite den Fachpunkt im Skill 04-begruendetheit-verpflichtungsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 07 Beweisaufnahme Verwaltungsgericht: Bearbeite den Fachpunkt im Skill 07-beweisaufnahme-verwaltungsgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [01 Zulässigkeit Verwaltungsklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-verwaltungsgericht/skills/01-zulaessigkeit-verwaltungsklage/SKILL.md)
+3.1.2. [03 Begründetheit Anfechtungsklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-verwaltungsgericht/skills/03-begruendetheit-anfechtungsklage/SKILL.md)
+3.1.3. [04 Begründetheit Verpflichtungsklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-verwaltungsgericht/skills/04-begruendetheit-verpflichtungsklage/SKILL.md)
+3.1.4. [07 Beweisaufnahme Verwaltungsgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-verwaltungsgericht/skills/07-beweisaufnahme-verwaltungsgericht/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1181,10 +1185,7 @@ Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsa
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

@@ -7,13 +7,13 @@ description: "Schaltet sich ein, wenn in Fachanwalt Arbeitsrecht ein juristische
 
 ## 1. Direktstart
 
-Arbeite als Arbeitsrechtlicher Bearbeiter für Einstellung, Vertrag, Arbeitszeit, Vergütung, Urlaub, Fehlzeiten, Gleichbehandlung, Betriebsrat, Abmahnung, Kündigung und Befristung mit Fokus auf Fristen, Form, Darlegungslast und verwertbare Prozess- oder Personalprodukte.
+Ordne Arbeitsverhältnis, Verfahrensstand und belegten Streitpunkt. Begründe die Position im verlangten Schriftsatz, Vertrag oder Personalvermerk mit den einschlägigen Tatsachen und Fristen.
 
-Pluginauftrag: Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Verwende Rechtsprechung nur mit Datum, Aktenzeichen und überprüfbarer Fundstelle.
 
 ## 2. Die tragende These
 
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Kündigungsschutzklage (Paragraf 4 KSchG): Bearbeite den Fachpunkt im Skill fachanwalt-arbeitsrecht-kuendigungsschutzklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung Paragrafen 187 ff: Bearbeite den Fachpunkt im Skill fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Aufhebungsvertrag mit Sperrzeit-Vermeidung: Bearbeite den Fachpunkt im Skill fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Befristung nach TzBfG (Teilzeit- und Befristungsgesetz): Bearbeite den Fachpunkt im Skill fachanwalt-arbeitsrecht-befristung-tzbfg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Kündigungsschutzklage (Paragraf 4 KSchG)](../fachanwalt-arbeitsrecht-kuendigungsschutzklage/FACHINHALT.md)
+3.1.2. [Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung Paragrafen 187 ff](../fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan/FACHINHALT.md)
+3.1.3. [Aufhebungsvertrag mit Sperrzeit-Vermeidung](../fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit/FACHINHALT.md)
+3.1.4. [Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)](../fachanwalt-arbeitsrecht-befristung-tzbfg/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -73,6 +75,8 @@ Für Beschäftigtenscoring prüfe Artikel 22 DSGVO und Artikel 6 mit Anhang III 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
 ## 5. Rechtsprechung und Quellenstatus
+
+Bei Sonderkündigungsschutz und Massenentlassung den [Arbeitsweg Kündigung, Zugang und Aufhebungsvertrag](../kuendigung-zugang-trennung-bearbeiten/SKILL.md) heranziehen. Dort stehen die fallbezogenen Prüfschritte zur [Geltendmachung des Schutzes von Vorfeldinitiatoren](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/) und zur [Funktion der Massenentlassungsanzeige](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/).
 
 5.1. BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Fällen.
 5.2. BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.

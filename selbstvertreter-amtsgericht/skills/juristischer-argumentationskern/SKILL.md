@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Selbstvertreter Amtsgericht ein juristi
 
 ## 1. Direktstart
 
-Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+Lies gerichtliches Schreiben und vorhandene Belege. Erkläre in verständlichem Deutsch, welche Frist und nächste Handlung sich daraus ergeben, und formuliere den beauftragten Entwurf.
 
-Pluginauftrag: Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Eine Frist verlaengern: Antrag richtig stellen: Bearbeite den Fachpunkt im Skill fristverlaengerung-antrag-225-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Sie sind verklagt: Welche Fristen laufen?: Bearbeite den Fachpunkt im Skill klageerwiderung-fristen-274-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben: Bearbeite den Fachpunkt im Skill wiedereinsetzung-frist-233-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Den Klageantrag richtig formulieren: Bearbeite den Fachpunkt im Skill klageschrift-antrag-bestimmt-formulieren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Eine Frist verlaengern: Antrag richtig stellen](../fristverlaengerung-antrag-225-zpo/FACHINHALT.md)
+3.1.2. [Sie sind verklagt: Welche Fristen laufen?](../klageerwiderung-fristen-274-zpo/FACHINHALT.md)
+3.1.3. [Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben](../wiedereinsetzung-frist-233-zpo/FACHINHALT.md)
+3.1.4. [Den Klageantrag richtig formulieren](../klageschrift-antrag-bestimmt-formulieren/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

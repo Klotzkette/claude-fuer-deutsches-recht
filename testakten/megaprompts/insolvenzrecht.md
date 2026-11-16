@@ -1,5 +1,9 @@
 # Vollprüfung: insolvenzrecht
 
+Bearbeite die konkrete Insolvenzfrage aus Sicht der Geschäftsleitung, des Gläubigers, Verwalters oder Beraters. Fälligkeiten, Konten und Verfahrensunterlagen führen zur bestellten Bewertung, Anmeldung oder Antwort auf Rückforderung. Eine Tabellenforderung verlangt kein Sanierungsgutachten; Beratung ermächtigt nicht zur Antragstellung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 99 Skills des Plugins `insolvenzrecht`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Insolvenzrecht ein juristisches Arbeitsprodukt tragf
 
 ## 1. Direktstart
 
-Arbeite als Insolvenzrechtlicher Bearbeiter für Krisenfrüherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung.
+Ordne Schuldner, Stichtage und Verfahrensstand anhand von Liquiditätsdaten, Verbindlichkeiten und vorhandenen Anträgen. Begründe das verlangte Ergebnis zu Insolvenzgrund, Antrag oder Fortführung mit Belegstellen.
 
-Pluginauftrag: Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Insolvenzreife, Antragspflicht und Haftung: Bearbeite den Fachpunkt im Skill insolvenzreife-antragspflicht-und-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung: Bearbeite den Fachpunkt im Skill antragspflicht-15a-17-19 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Insolvenzrecht: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill insolvenzrecht-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Insolvenzanfechtungsrechte prüfen: Bearbeite den Fachpunkt im Skill anfechtungsrechte-antragspflicht-15a und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Insolvenzreife, Antragspflicht und Haftung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzrecht/skills/insolvenzreife-antragspflicht-und-haftung/FACHINHALT.md)
+3.1.2. [Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzrecht/skills/antragspflicht-15a-17-19/FACHINHALT.md)
+3.1.3. [Insolvenzrecht: Behörden-, Gerichts- oder Registerweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzrecht/skills/insolvenzrecht-behoerden-gericht-und-registerweg/FACHINHALT.md)
+3.1.4. [Insolvenzanfechtungsrechte prüfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzrecht/skills/anfechtungsrechte-antragspflicht-15a/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1175,10 +1179,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

@@ -7,9 +7,7 @@ description: "Für Miet- und Wohnungseigentumsrecht: Miete und Betriebskosten: M
 
 ## 1. Zweck und Anwendungsfall
 
-Miete und Betriebskosten: Miethöhe, Erhöhung, Mietpreisbremse, Index, Staffel, Abrechnung und Umlageschlüssel rechnerisch prüfen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Berechne die strittige Miete, Erhöhung oder Betriebskostenforderung aus Vertrag, Abrechnung und Zahlungsbelegen. Formuliere die bestellte Erklärung, Einwendung oder Nachforderung mit nachvollziehbarer Rechnung.
 
 ## 2. Eingaben
 
@@ -18,21 +16,21 @@ Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bere
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Das richtige Verfahren wählen
 
-Miete und Betriebskosten: Miethöhe, Erhöhung, Mietpreisbremse, Index, Staffel, Abrechnung und Umlageschlüssel rechnerisch prüfen.
+Ordne den Vorgang einer Mieterhöhung, einer Rückforderung wegen Überschreitung der zulässigen Miete oder einer Betriebskostenabrechnung zu. Prüfe die Vertragsart, den Zeitraum und die anwendbaren Stichtage.
 
-### 3.2. Arbeitsschritt
+### 3.2. Rechnen und Belege zuordnen
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Halte bei einer Mietberechnung Ausgangsmiete, Wohnfläche, Vergleichsmaßstab, Ausnahmen, Monatsbeträge und Zahlungen getrennt fest. Verwende für Mietspiegeldaten ausschließlich amtliche Quellen. Bei Betriebskosten vergleiche Abrechnungszeitraum, Positionen, maßgeblichen Umlageschlüssel und Vorauszahlungen mit den Belegen.
 
-### 3.3. Arbeitsschritt
+### 3.3. Mietpreisrüge zeitlich zuordnen
 
-Welche Forderung oder Pflicht ist faellig und wie wird sie belegt.
+Bei Rückforderung nach § 556g BGB zuerst die maßgebliche Gesetzesfassung bestimmen. Für die alte Fassung Zugang der ursprünglichen Mietpreisrüge, behauptete Vertretungsmacht, rechtzeitige Beanstandung, Genehmigung und monatliche Fälligkeiten gegenüberstellen. Eine wirksame Genehmigung kann bei Vorliegen der Voraussetzungen auf die zunächst ohne Vollmacht erhobene Rüge zurückwirken. Prüfe danach, welche Monatsmieten nach dem Rügezugang fällig wurden, sowie die Forderungsinhaberschaft gesondert. [BGH, Urteil vom 28.10.2026, VIII ZR 177/24, Rn. 36–39 und 45–51](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304112026.zip)
 
-### 3.4. Arbeitsschritt
+### 3.4. Das verlangte Ergebnis liefern
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+Nenne zu jeder strittigen Position Betrag, Anspruchsgrund und Beleg. Formuliere das von der beauftragten Seite verlangte Schreiben, die Erklärung oder den Schriftsatz. Ergänze nach Rückfrage nur die betroffene Position und berechne die Folge für das Gesamtergebnis neu.
 
 ### 3.5. Fachvertiefungen gezielt laden
 

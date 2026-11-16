@@ -1,5 +1,9 @@
 # Vollprüfung: regulatorisches-recht
 
+Kläre, welche Gesellschaft welche Daten schuldet oder welche Vertragsregel angepasst werden muss, und liefere die bestellte Behördenantwort, Stellungnahme oder Vertragsfassung. Für Vorfallhilfe in IKT-Verträgen ist Artikel 30 Absatz 2 Buchstabe f DORA einschlägig. Beim Informationszugang zu Aufsichtsakten tritt der Geheimnisschutz, etwa nach Paragraf 3 Nummer 4 IFG, hinzu. Der vorhandene Anker EuGH, Urteil vom 19.06.2018, Az. C-15/16, Baumeister, fordert eine dokumentbezogene Prüfung zum Zugangszeitpunkt. Er betrifft die damalige MiFID, schafft keinen eigenen Zugang und erlaubt keine pauschale Meldeverweigerung; DORA-Vertragsfragen löst er nicht. Den dokumentierten Quellenstand beibehalten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `regulatorisches-recht`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Regulatorisches Recht ein juristisches Arbeitsproduk
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche Tätigkeit, Organisation und konkreten Vorgang mit den anwendbaren Aufsichtsvorgaben ab. Begründe die erforderliche Erlaubnis, Meldung oder Position gegenüber der zuständigen Stelle.
 
-Pluginauftrag: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. DORA-IKT-Vertragsprüfung: Bearbeite den Fachpunkt im Skill dora-ikt-vertragspruefung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. GwG: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill gwg-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Interview: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill interview-fristennotiz-aufsichtssanktion und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Regulator: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill regulator-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [DORA-IKT-Vertragsprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/regulatorisches-recht/skills/dora-ikt-vertragspruefung/FACHINHALT.md)
+3.1.2. [GwG: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/regulatorisches-recht/skills/gwg-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.3. [Interview: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/regulatorisches-recht/skills/interview-fristennotiz-aufsichtssanktion/FACHINHALT.md)
+3.1.4. [Regulator: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/regulatorisches-recht/skills/regulator-zahlen-schwellen-und-berechnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -783,10 +787,7 @@ Dieser Dokumenten-Intake für **Regulatorisches Recht** ordnet Anlagen, Register
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

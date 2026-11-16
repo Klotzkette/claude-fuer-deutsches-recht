@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Legistik Werkstatt ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Bestimme Regelungsziel, zuständigen Normgeber und betroffenen Rechtsbestand. Entwirf Normtext und Begründung mit den konkret erforderlichen Übergängen und Vollzugsfolgen.
 
-Pluginauftrag: Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Völkerrecht und Vertragsgesetzgebung (AA): Bearbeite den Fachpunkt im Skill aa-voelkerrecht-und-vertragsgesetzgebung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Verwaltungsdigitalisierung und Registermodernisierung (BMDS): Bearbeite den Fachpunkt im Skill bmds-verwaltungsdigitalisierung-und-registermodernisierung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill bundestag-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill bundestag-fristen-form-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Völkerrecht und Vertragsgesetzgebung (AA)](../aa-voelkerrecht-und-vertragsgesetzgebung/FACHINHALT.md)
+3.1.2. [Verwaltungsdigitalisierung und Registermodernisierung (BMDS)](../bmds-verwaltungsdigitalisierung-und-registermodernisierung/FACHINHALT.md)
+3.1.3. [Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg](../bundestag-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.4. [Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg](../bundestag-fristen-form-zustaendigkeit/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

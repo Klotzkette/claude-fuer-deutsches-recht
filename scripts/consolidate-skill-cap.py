@@ -174,6 +174,14 @@ def validate_registry(repo: Path, registry: dict, *, migrated: bool = False) -> 
                 values = route.get(field)
                 if not isinstance(values, list) or not values or any(not isinstance(v, str) or not v.strip() for v in values):
                     errors.append(f"{name}/{slug}: {field} muss eine nichtleere Textliste sein")
+            if "step_titles" in route:
+                titles = route["step_titles"]
+                steps = route.get("steps")
+                if (not isinstance(titles, list) or not isinstance(steps, list)
+                        or len(titles) != len(steps)
+                        or any(not isinstance(title, str) or not title.strip()
+                               or "\n" in title or "\r" in title for title in titles)):
+                    errors.append(f"{name}/{slug}: step_titles benötigt eine einzeilige Überschrift je Schritt")
             members = route.get("members", [])
             assigned.extend(members)
             if any(not SLUG.fullmatch(s) for s in members if isinstance(s, str)):
@@ -215,13 +223,16 @@ def render_route(route: dict, source_data: dict[str, bytes]) -> bytes:
     def bullets(values):
         return "\n".join(f"- {visible(value)}" for value in values)
     title, slug = route["title"], route["slug"]
+    step_titles = route.get("step_titles")
     parts = ["---", f"name: {slug}", "description: " + json.dumps(route["description"], ensure_ascii=False), "---", "", f"# {visible(title)}", "",
-             "## 1. Zweck und Anwendungsfall", "", visible(route["purpose"]), "",
-             "Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.", "",
-             "## 2. Eingaben", "", bullets(route["inputs"]), "",
-             "## 3. Ablauf", ""]
-    for index, step in enumerate(route["steps"], 1):
-        parts += [f"### 3.{index}. Arbeitsschritt", "", visible(step), ""]
+             "## 1. Zweck und Anwendungsfall", "", visible(route["purpose"]), ""]
+    # Benannte Schritte gehören zu einem ausformulierten Einstieg mit eigener Prüffolge.
+    if step_titles is None:
+        parts += ["Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.", ""]
+        step_titles = ["Arbeitsschritt"] * len(route["steps"])
+    parts += ["## 2. Eingaben", "", bullets(route["inputs"]), "", "## 3. Ablauf", ""]
+    for index, (step_title, step) in enumerate(zip(step_titles, route["steps"], strict=True), 1):
+        parts += [f"### 3.{index}. {visible(step_title)}", "", visible(step), ""]
     parts += [f"### 3.{len(route['steps']) + 1}. Fachvertiefungen gezielt laden", "",
               "Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren vollständige Fachanweisungen vor der jeweiligen Teilprüfung; berücksichtige die dort verknüpften lokalen Werkzeuge, Vorlagen und Belege. Die folgenden Dateien sind Fachinhalte dieses Arbeitswegs, keine zusätzlichen auswählbaren Skills.", ""]
     for member in route["members"]:
@@ -438,7 +449,20 @@ def verify_source_map(repo: Path, report: dict, *, strict_links: bool = False, i
                 errors.append(f"{item['path']}: ursprünglicher Dateiinhalt ist nicht bytegleich rekonstruierbar")
         except (ValueError, KeyError) as exc:
             errors.append(f"{item['path']}: {exc}")
-    for plugin in report.get("plugins", []):
+    plugins = report.get("plugins", [])
+    revised_routes = any("original_sha256" in route for plugin in plugins for route in plugin["routes"])
+    registry_routes = {}
+    if revised_routes:
+        registry_path = repo / "scripts/data/skill-cap-registry.json"
+        if not registry_path.is_file() or file_sha(registry_path) != report.get("registry_sha256"):
+            errors.append("Registry für die fortgeschriebenen Arbeitswege fehlt oder stimmt nicht mit dem Nachweis überein")
+        else:
+            registry_routes = {
+                (plugin["name"], route["slug"]): route
+                for plugin in json.loads(registry_path.read_text(encoding="utf-8"))["plugins"]
+                for route in plugin["routes"]
+            }
+    for plugin in plugins:
         directory = safe_path(repo, plugin["source"])
         active = {p.parent.name for p in (directory / "skills").glob("*/SKILL.md")}
         if active != set(plugin["active_skills"]) or len(active) > MAX_SKILLS:
@@ -447,8 +471,24 @@ def verify_source_map(repo: Path, report: dict, *, strict_links: bool = False, i
             path = directory / "skills" / route["slug"] / "SKILL.md"
             if not path.is_file():
                 continue
-            if sha(path.read_bytes()) != route["sha256"]:
+            current = path.read_bytes()
+            if sha(current) != route["sha256"]:
                 errors.append(f"{path}: erzeugter Workflow weicht ab")
+            if "original_sha256" in route:
+                try:
+                    if sha(restore_original(current, route["edits"])) != route["original_sha256"]:
+                        errors.append(f"{path}: früherer Workflow ist nicht bytegleich rekonstruierbar")
+                    recipe = registry_routes[(plugin["name"], route["slug"])]
+                    if recipe["members"] != route["members"]:
+                        errors.append(f"{path}: Fachmodule der Registry weichen vom Nachweis ab")
+                    bodies = {
+                        member: safe_path(directory, f"skills/{member}/FACHINHALT.md").read_bytes()
+                        for member in route["members"]
+                    }
+                    if render_route(recipe, bodies) != current:
+                        errors.append(f"{path}: fortgeschriebener Workflow lässt sich aus der Registry nicht reproduzieren")
+                except (KeyError, OSError, ValueError) as exc:
+                    errors.append(f"{path}: Nachweis des fortgeschriebenen Workflows fehlt: {exc}")
             errors.extend(local_link_errors(path, directory))
         if strict_links:
             for path in (directory / "skills").rglob("*.md"):

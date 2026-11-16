@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Fachanwalt Sozialrecht ein juristisches
 
 ## 1. Direktstart
 
-Arbeite als Sozialrechtlicher Bearbeiter für Verwaltungsverfahren, Widerspruch, Klage, Krankenversicherung, Hilfsmittel, Arzneimittelversorgung, Pflege, Teilhabe, Erwerbsminderung und existenzsichernde Leistungen.
+Gleiche Bescheid und Verwaltungsakte mit dem geltend gemachten Bedarf oder Versicherungsverlauf ab. Sichere die Frist und begründe den verlangten Antrag, Widerspruch oder Klageentwurf.
 
-Pluginauftrag: Plugin Fachanwalt für Sozialrecht nach FAO Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch Paragraf 84 SGG Klage Paragraf 87 SGG Eilantrag Paragraf 86b SGG. Bürgergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Mandant ist auf Sozialleistung angewiesen die sofort wegfällt oder verweigert wird (Bürgergeld Wohnungslosigkeit Krankenversicherung): Bearbeite den Fachpunkt im Skill eilantrag-sozialrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. EU-Rente-Antrag: Bearbeite den Fachpunkt im Skill fachanwalt-sozialrecht-eu-rente-antrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. SGB-II-Bescheid (Bürgergeld): Bearbeite den Fachpunkt im Skill fachanwalt-sozialrecht-sgb-ii-bescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung: Bearbeite den Fachpunkt im Skill fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Mandant ist auf Sozialleistung angewiesen die sofort wegfällt oder verweigert wird (Bürgergeld Wohnungslosigkeit Krankenversicherung)](../eilantrag-sozialrecht/FACHINHALT.md)
+3.1.2. [EU-Rente-Antrag](../fachanwalt-sozialrecht-eu-rente-antrag/FACHINHALT.md)
+3.1.3. [SGB-II-Bescheid (Bürgergeld)](../fachanwalt-sozialrecht-sgb-ii-bescheid/FACHINHALT.md)
+3.1.4. [Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung](../fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

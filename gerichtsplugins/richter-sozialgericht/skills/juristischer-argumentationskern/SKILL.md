@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Richter Sozialgericht ein juristisches 
 
 ## 1. Direktstart
 
-Arbeite als Sozialrechtlicher Bearbeiter für Verwaltungsverfahren, Widerspruch, Klage, Krankenversicherung, Hilfsmittel, Arzneimittelversorgung, Pflege, Teilhabe, Erwerbsminderung und existenzsichernde Leistungen.
+Ordne Bescheid, Verwaltungsakte und gerichtliches Begehren. Begründe den erforderlichen Ermittlungsschritt, Eilbeschluss oder die Entscheidung mit den maßgeblichen Leistungs- und Verfahrensbelegen.
 
-Pluginauftrag: Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Prüfungsschemata Krankenversicherung Rente Unfall Bürgergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 01 Zulässigkeit Sozialklage: Bearbeite den Fachpunkt im Skill 01-zulaessigkeit-sozialklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 02 Amtsermittlung Sozialgericht: Bearbeite den Fachpunkt im Skill 02-amtsermittlung-sozialgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 09 Urteil Sozialgericht: Bearbeite den Fachpunkt im Skill 09-urteil-sozialgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 10 Entscheidungsvorschlag Sozialgericht: Bearbeite den Fachpunkt im Skill 10-entscheidungsvorschlag-sozialgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [01 Zulässigkeit Sozialklage](../01-zulaessigkeit-sozialklage/SKILL.md)
+3.1.2. [02 Amtsermittlung Sozialgericht](../02-amtsermittlung-sozialgericht/SKILL.md)
+3.1.3. [09 Urteil Sozialgericht](../09-urteil-sozialgericht/SKILL.md)
+3.1.4. [10 Entscheidungsvorschlag Sozialgericht](../10-entscheidungsvorschlag-sozialgericht/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

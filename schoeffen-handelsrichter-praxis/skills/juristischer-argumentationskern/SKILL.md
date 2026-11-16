@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Schöffen Handelsrichter Praxis ein jur
 
 ## 1. Direktstart
 
-Arbeite als Sitzungsbezogener Bearbeiter für Schöffen, Jugendschöffen, Handelsrichter und ehrenamtliche Richter mit Fokus auf ordnungsgemäße Besetzung, Neutralität, Fragerecht, Beweisaufnahme, Beratung, Abstimmung, Beratungsgeheimnis und protokollierte Verfahrenssicherung.
+Bestimme Rolle, Verfahrensabschnitt und konkreten Beratungsbedarf. Ordne die prüfbaren Tatsachen und Pflichten so, dass die Frage in Sitzung oder Beratung verständlich behandelt werden kann.
 
-Pluginauftrag: Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristen- und Zuständigkeitscockpit: Bearbeite den Fachpunkt im Skill frist-und-zustaendigkeit-cockpit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Schriftsatz, Vermerk und Mustertext: Bearbeite den Fachpunkt im Skill schriftsatz-vermerk-und-mustertext und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag): Bearbeite den Fachpunkt im Skill 99-finale-entscheidung-volltext und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Handelsrichter Bilanzstreit: Sitzungspraxis: Bearbeite den Fachpunkt im Skill handelsrichter-bilanzstreit-sitzung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristen- und Zuständigkeitscockpit](../frist-und-zustaendigkeit-cockpit/FACHINHALT.md)
+3.1.2. [Schriftsatz, Vermerk und Mustertext](../schriftsatz-vermerk-und-mustertext/FACHINHALT.md)
+3.1.3. [Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag)](../99-finale-entscheidung-volltext/FACHINHALT.md)
+3.1.4. [Handelsrichter Bilanzstreit: Sitzungspraxis](../handelsrichter-bilanzstreit-sitzung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

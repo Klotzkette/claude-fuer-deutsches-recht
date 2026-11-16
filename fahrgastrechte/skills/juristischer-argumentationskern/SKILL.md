@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Fahrgastrechte ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Fahrgastrechtlicher Bearbeiter für Zugausfall, Verspätung, Anschlussverlust, Durchgangsfahrkarte, Erstattung, Weiterreise, Selbstabhilfe, Entschädigung, Betreuung, Beschwerde, Schlichtung und Klage.
+Gleiche Ticket, gebuchte Verbindung und tatsächliche Ankunft ab. Berechne den belegbaren Anspruch und formuliere den verlangten Antrag oder die Beschwerde.
 
-Pluginauftrag: Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Klage zum Amtsgericht (Fahrgastrechte): Bearbeite den Fachpunkt im Skill klage-amtsgericht-fahrgast und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Fahrgastrechte-Widerspruch — Skill: Bearbeite den Fachpunkt im Skill widerspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO): Bearbeite den Fachpunkt im Skill eigenbefoerderung-und-betreuung-art-18 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: Bearbeite den Fachpunkt im Skill einfuehrung-vo-2021-782 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Klage zum Amtsgericht (Fahrgastrechte)](../klage-amtsgericht-fahrgast/SKILL.md)
+3.1.2. [Fahrgastrechte-Widerspruch — Skill](../widerspruch/SKILL.md)
+3.1.3. [Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO)](../eigenbefoerderung-und-betreuung-art-18/SKILL.md)
+3.1.4. [Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn](../einfuehrung-vo-2021-782/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

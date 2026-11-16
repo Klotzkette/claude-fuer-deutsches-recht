@@ -7,13 +7,13 @@ description: "Schaltet sich ein, wenn in Schriftform Und Textform BGB ein jurist
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Gleiche Erklärung, Übermittlungsweg, Signatur und Zugangsnachweis mit der konkreten Formvorgabe ab. Begründe die Rechtsfolge und entwirf bei Bedarf eine formgerechte Erklärung.
 
-Pluginauftrag: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Verwende Rechtsprechung erst nach Prüfung der aktuell abrufbaren Quelle.
 
 ## 2. Die tragende These
 
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: Bearbeite den Fachpunkt im Skill arbeitsrecht-befristung-schriftform-checker und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Befristungsabrede — qES-Rechtsprechung Stand 2026: Bearbeite den Fachpunkt im Skill befristungsabrede-qes-rechtsprechung-stand-2026 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Maklervertrag nach Paragraf 656a BGB prüfen: Bearbeite den Fachpunkt im Skill maklervertrag-paragraf-656a-bgb-textform-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill schriftform-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB](../arbeitsrecht-befristung-schriftform-checker/FACHINHALT.md)
+3.1.2. [Befristungsabrede — qES-Rechtsprechung Stand 2026](../befristungsabrede-qes-rechtsprechung-stand-2026/FACHINHALT.md)
+3.1.3. [Maklervertrag nach Paragraf 656a BGB prüfen](../maklervertrag-paragraf-656a-bgb-textform-pruefen/FACHINHALT.md)
+3.1.4. [Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg](../schriftform-fristen-form-und-zustaendigkeit/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

@@ -7,13 +7,15 @@ description: "Schaltet sich ein, wenn in Aktenaufbereiter Strafrecht ein juristi
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Ordne die Strafakte nach Tatvorwurf, Person und Beweismittel. Liefere die verlangte Übersicht mit Fundstellen und den noch entscheidenden Beweislücken.
 
-Pluginauftrag: Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Lücken und Widersprüche. Kein Ersatz für Aktenlektuere.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Wähle für den Auftrag aus Aktenvorblatt, Personenverzeichnis, Tatkomplexen, Beziehungen, Chronologie und Fristen. Die Übersichten bleiben als Excel-Tabellen ergänzbar. Lies für tragende Aussagen das jeweilige Aktenstück selbst.
 
 ## 2. Die tragende These
 
@@ -42,10 +44,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Aktenaufbereiter Strafrecht: Bearbeite den Fachpunkt im Skill aktenaufbereiter-strafrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Akteneinsicht-Übersicht: Bearbeite den Fachpunkt im Skill akteneinsicht-uebersicht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Akteneinsicht-Übersicht: Bearbeite den Fachpunkt im Skill akteneinsicht-uebersicht-aktenvorblatt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Aktenlektuere: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill aktenlektuere-fristennotiz-und-naechster-schritt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Aktenaufbereiter Strafrecht](../aktenaufbereiter-strafrecht/SKILL.md)
+3.1.2. [Akteneinsicht-Übersicht](../akteneinsicht-uebersicht/FACHINHALT.md)
+3.1.3. [Akteneinsicht-Übersicht](../akteneinsicht-uebersicht-aktenvorblatt/FACHINHALT.md)
+3.1.4. [Aktenlektuere: Fristennotiz und nächster Schritt](../aktenlektuere-fristennotiz-und-naechster-schritt/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

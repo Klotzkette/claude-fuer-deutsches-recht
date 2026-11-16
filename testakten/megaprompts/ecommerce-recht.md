@@ -1,5 +1,9 @@
 # Vollprüfung: ecommerce-recht
 
+Verfolge anhand der vorhandenen Bildschirmansichten und Vertragsfassungen den Weg vom Angebot bis zur Bestellung oder Vertragsbeendigung. Schreibe die bestellten Ersatztexte oder die Abmahnantwort vollständig aus: Welche Information fehlte wann und was muss der Betreiber konkret ändern?
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 73 Skills des Plugins `ecommerce-recht`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Ecommerce Recht ein juristisches Arbeitsprodukt trag
 
 ## 1. Direktstart
 
-Arbeite als IT-rechtlicher Bearbeiter für Software, SaaS, IT-Projekte, Cloud, Leistungsstörung, Datenschutzschnittstellen, Service-Level und Vertragsabnahme.
+Prüfe den konkreten Bestellweg, die angezeigten Informationen und die Vertragsunterlagen. Begründe die nötige Änderung des Shops, der Plattformpraxis oder des Kundenschreibens.
 
-Pluginauftrag: Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Abmahnung einstweilige Verfügung Sofortplan: Bearbeite den Fachpunkt im Skill abmahnung-einstweilige-verfuegung-sofortplan und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Abmahnung UWG Unterlassungserklärung: Bearbeite den Fachpunkt im Skill abmahnung-uwg-abo-falle-accessibility-bfsg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Digitale Inhalte Abo Kündigungsbutton: Bearbeite den Fachpunkt im Skill digitale-inhalte-abo-kuendigungsbutton und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Dropshipping Drittland Zoll Einfuhrumsatzsteuer: Bearbeite den Fachpunkt im Skill dropshipping-drittland-oss-ioss-abmahnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Abmahnung einstweilige Verfügung Sofortplan](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/abmahnung-einstweilige-verfuegung-sofortplan/FACHINHALT.md)
+3.1.2. [Abmahnung UWG Unterlassungserklärung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/abmahnung-uwg-abo-falle-accessibility-bfsg/FACHINHALT.md)
+3.1.3. [Digitale Inhalte Abo Kündigungsbutton](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/digitale-inhalte-abo-kuendigungsbutton/FACHINHALT.md)
+3.1.4. [Dropshipping Drittland Zoll Einfuhrumsatzsteuer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/skills/dropshipping-drittland-oss-ioss-abmahnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -811,10 +815,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

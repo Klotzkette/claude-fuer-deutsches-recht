@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Kanzlei Management ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Kanzleiorganisatorischer Bearbeiter für Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronische Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Mandatsabschluss mit Fokus auf Verantwortlichkeit und belegten Übergaben.
+Gleiche Auslastung, Zahlungseingänge, Leistung und Budget für die konkrete Kanzleientscheidung ab. Begründe die gewählte Maßnahme mit nachvollziehbaren Zahlen und Verantwortlichkeiten.
 
-Pluginauftrag: Mega-Plugin für Kanzlei-Management: Managing Partner, Management Committee, Cashflow, Pricing, UBT, FTE, Utilization, WIP, Associates, Partnerkreis und Dashboards.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristenaufsicht Management: Bearbeite den Fachpunkt im Skill fristenaufsicht-management und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. ESG und Kanzleibetrieb: Bearbeite den Fachpunkt im Skill esg-kanzleimanagement und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Associate-Kündigungswelle: Bearbeite den Fachpunkt im Skill associate-kuendigungswelle und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Associates nicht vergraulen: Bearbeite den Fachpunkt im Skill associate-nicht-retention-radar-bea-erv und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristenaufsicht Management](../fristenaufsicht-management/FACHINHALT.md)
+3.1.2. [ESG und Kanzleibetrieb](../esg-kanzleimanagement/FACHINHALT.md)
+3.1.3. [Associate-Kündigungswelle](../associate-kuendigungswelle/FACHINHALT.md)
+3.1.4. [Associates nicht vergraulen](../associate-nicht-retention-radar-bea-erv/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

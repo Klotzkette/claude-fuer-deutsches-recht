@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Berichtspflichten Erlediger ein juristi
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche die Tätigkeit, Unternehmensdaten und den Berichtszeitraum mit der konkret einschlägigen Meldepflicht ab. Erstelle einen prüfbaren Meldungsentwurf mit belegten Zahlen und offener Freigabe.
 
-Pluginauftrag: Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statistik, Portale, Umwelt-, Produkt-, Steuer-, Sozial-, Lieferketten-, Datenschutz- und Aufsichtsmeldungen mit Fristenboard, Datenquellen, Plausibilitätscheck und Behördenkommunikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Register und Fristenboard für Berichtspflichten: Bearbeite den Fachpunkt im Skill berichtspflichten-register-und-fristenboard und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Batterierecht und Mengenmeldung: Bearbeite den Fachpunkt im Skill battg-batterieregister-mengen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Transparenzregister und wirtschaftlich Berechtigte: Bearbeite den Fachpunkt im Skill transparenzregister-gwg-ubo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Abfallnachweis und Entsorgung: Bearbeite den Fachpunkt im Skill abfallnachweis-nachwv-api-zugang und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Register und Fristenboard für Berichtspflichten](../berichtspflichten-register-und-fristenboard/FACHINHALT.md)
+3.1.2. [Batterierecht und Mengenmeldung](../battg-batterieregister-mengen/FACHINHALT.md)
+3.1.3. [Transparenzregister und wirtschaftlich Berechtigte](../transparenzregister-gwg-ubo/FACHINHALT.md)
+3.1.4. [Abfallnachweis und Entsorgung](../abfallnachweis-nachwv-api-zugang/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

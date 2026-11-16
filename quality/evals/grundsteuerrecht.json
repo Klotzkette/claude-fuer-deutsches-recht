@@ -32,6 +32,11 @@
       "url": "https://www.bundesfinanzhof.de/de/anhaengige-verfahren/im-fokus-grundsteuer/",
       "checked_on": "2026-09-22",
       "supports": "Amtliche Übersicht: Verfassungsbeschwerden zum Bundesmodell und zu Baden-Württemberg anhängig, nicht stattgebend entschieden."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/presse/pressemeldungen/detail/terminvorschau-verkuendungstermine-zum-landesgrundsteuergesetz-hamburg-und-hessen-am-donnerstag-10-dezember-2026-ab-9-uhr-im-bundesfinanzhof/",
+      "checked_on": "2026-11-16",
+      "supports": "BFH-Mitteilung vom 11.11.2026 zu II R 12/25 und II R 15/25. Verkündung am 10.12.2026 angekündigt; Verfahrensstand ohne materiellen Rechtssatz."
     }
   ],
   "mini_review": {
@@ -42,9 +47,11 @@
       "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
       "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
       "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
-      "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand."
+      "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand.",
+      "2026-11-16: Landesmodell, offene Rechtsfrage und eigenen Bescheid vergleichen. Die BFH-Terminmitteilung vom 11.11.2026 gibt einen Verkündungstermin an; sie entscheidet die Revisionen nicht. Konkrete Flächen- und Übernahmefehler daneben bearbeiten."
     ],
-    "sha256": "c1f5055beaafe51d591fe273578ddf73e7fb53e85c986021c67375427aa50c83"
+    "sha256": "5d74dc40437a8802b809283d0cb17321e172f3a6cc8dd0928bb4721a6948fceb",
+    "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -99,9 +106,11 @@
       "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
       "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag.",
       "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand.",
-      "Amtlich angekündigte Landesmodellverfahren als Verfahrensbeobachtung führen."
+      "Amtlich angekündigte Landesmodellverfahren als Verfahrensbeobachtung führen.",
+      "2026-11-16: Landesmodell, offene Rechtsfrage und eigenen Bescheid vergleichen. Die BFH-Terminmitteilung vom 11.11.2026 gibt einen Verkündungstermin an; sie entscheidet die Revisionen nicht. Konkrete Flächen- und Übernahmefehler daneben bearbeiten."
     ],
-    "sha256": "10a6cf5bccf114303e594a4aa893de933b2bd8a55419515800b620e5d3b12a2b"
+    "sha256": "44876d731ecc05c77908d9cfe139c69434135f9da5c85978d536db4084b8fd24",
+    "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -236,5 +245,11 @@
     "path": "grundsteuerrecht/grundsteuerrecht-werkstatt.md",
     "before_sha256": "a450b5977b84c803230e6350cce90247696b1acd24f86e29d0f1eb59383c405c",
     "after_sha256": "10a6cf5bccf114303e594a4aa893de933b2bd8a55419515800b620e5d3b12a2b"
+  },
+  "fachquellen_nachpruefung_2026_11_16": {
+    "method": "desk_review",
+    "checked_on": "2026-11-16",
+    "workflow": "Landesmodell, offene Rechtsfrage und eigenen Bescheid vergleichen. Die BFH-Terminmitteilung vom 11.11.2026 gibt einen Verkündungstermin an; sie entscheidet die Revisionen nicht. Konkrete Flächen- und Übernahmefehler daneben bearbeiten.",
+    "limits": "Geprüft wurden die konkret genannten Passagen und Verfahrensstände. Kein neuer Live-Modelltest und keine fachliche Vollprüfung sämtlicher Aussagen."
   }
 }

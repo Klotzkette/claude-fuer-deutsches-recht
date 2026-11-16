@@ -40,11 +40,13 @@ class PortableStarts(unittest.TestCase):
     def test_explicit_request_is_not_replaced_by_default_product(self):
         for key, profile in PROFILE_BY_KEY.items():
             with self.subTest(profile=key):
-                lines = G.schnellstart_bedienlogik(profile, [("Fachfrage", "Beleg")], [])
+                lines = G.schnellstart_bedienlogik(profile, [("Fachfrage", "Beleg")])
                 explicit = next(line for line in lines if line.startswith("- Konkreter Auftrag:"))
                 self.assertIn("Das verlangte Arbeitsprodukt sofort", explicit)
                 self.assertNotIn("„", explicit)
-                self.assertIn(G.PORTABLE_EXECUTION, lines)
+                no_task = next(line for line in lines if line.startswith("- Nur Prompt gestartet:"))
+                self.assertIn("Frage nach dem gewünschten Ergebnis", no_task)
+                self.assertNotIn(G.PORTABLE_EXECUTION, lines)
 
     def test_workshop_preview_is_conditional_in_every_family(self):
         for key, profile in PROFILE_BY_KEY.items():
@@ -52,6 +54,41 @@ class PortableStarts(unittest.TestCase):
                 text = "\n".join(G.werkstatt_tempo_block(profile))
                 self.assertIn("Ohne konkreten Ausgabeauftrag", text)
                 self.assertIn("Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt", text)
+                self.assertNotIn("Sofortbild", text)
+                self.assertIn("Antworten an den betroffenen Stellen", text)
+
+    def test_generated_prompts_explain_the_concrete_task_before_tool_details(self):
+        plugin = REPO / "mietrecht"
+        description = "Prüft die Mietkündigung anhand von Vertrag, Kündigung und Zustellungsnachweis und erstellt eine Fristenliste."
+        with patch.object(G, "manifest", return_value={"name": plugin.name, "description": description}):
+            workshop = G.build_werkstatt(plugin, [])
+            mini = G.build_schnellstart(plugin, [])
+        for prompt, workflow, fallback in (
+            (workshop, "Werkstattfluss", G.WORKSHOP_EXECUTION),
+            (mini, "Fachlicher Direktstart", G.PORTABLE_EXECUTION),
+        ):
+            with self.subTest(workflow=workflow):
+                first = prompt.split("\n\n")[1]
+                self.assertIn("Prüfe die Mietkündigung", first)
+                self.assertIn("Fristenliste", first)
+                self.assertLess(prompt.index(workflow), prompt.index(fallback))
+                self.assertIn("VIII ZR", prompt)
+        self.assertTrue(mini_within_limits(plugin.name, mini.encode("utf-8")))
+
+    def test_explicit_full_text_anchor_stays_with_its_statement_and_limit(self):
+        plugin = REPO / "weg-hausverwaltung"
+        profile = G.profile_for(plugin.name)
+        linked = next(anchor for anchor in profile.entscheidungen if "Amtlicher Volltext:" in anchor)
+        unlinked = linked.split(" Amtlicher Volltext:", 1)[0]
+        lines = G.prompt_introduction(G.manifest(plugin), plugin, profile, [unlinked, linked])
+        self.assertIn(unlinked, lines[2])
+        self.assertIn("[Amtlicher Volltext](https://", lines[2])
+        self.assertEqual(lines.count(""), 2)
+
+    def test_package_counts_do_not_hide_the_subject_of_a_generated_prompt(self):
+        plugin = REPO / "bauvergabe/bauvergabe-unterlagen"
+        opening = G.prompt_introduction(G.manifest(plugin), plugin, G.profile_for(plugin.name), [])[0]
+        self.assertTrue(opening.startswith("Erstellung von Bauvergabeunterlagen."), opening)
 
     def test_compaction_preserves_late_case_anchor(self):
         norms = [f"- Normanker {index}: Tatbestand und Folge." for index in range(10)]

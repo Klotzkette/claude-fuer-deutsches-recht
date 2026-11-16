@@ -7,13 +7,13 @@ description: "Schaltet sich ein, wenn in Forderungsmanagement Klagewerkstatt ein
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Forderungsbearbeiter für Vertrag, Rechnung, Fälligkeit, Verzug, Einwendungen, Mahnung, Klage, Titel und Vollstreckung.
+Gleiche Vertrag, Rechnung, Fälligkeit, Zahlungen und belegte Einwendungen ab. Formuliere die verlangte Mahnung oder Klage und beziffere nachvollziehbar, was noch offen ist.
 
-Pluginauftrag: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Ein klagefertiges Ergebnis setzt eine klare, fällige und belegte Forderung voraus. Markiere offene Ansprüche oder Belege mit ihrem nächsten Prüfschritt.
 
 ## 2. Die tragende These
 
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Anspruchsschriftsatz Bausteine: Bearbeite den Fachpunkt im Skill anspruchsschriftsatz-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Vollstreckungsbescheid und Folgen: Bearbeite den Fachpunkt im Skill vollstreckungsbescheid-folgen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Vollstreckungsbescheid: Bearbeite den Fachpunkt im Skill vollstreckungsbescheid-und-folgen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts: Bearbeite den Fachpunkt im Skill zahlungsklage-behoerden-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Anspruchsschriftsatz Bausteine](../anspruchsschriftsatz-bausteine/FACHINHALT.md)
+3.1.2. [Vollstreckungsbescheid und Folgen](../vollstreckungsbescheid-folgen/FACHINHALT.md)
+3.1.3. [Vollstreckungsbescheid](../vollstreckungsbescheid-und-folgen/FACHINHALT.md)
+3.1.4. [Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts](../zahlungsklage-behoerden-register/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

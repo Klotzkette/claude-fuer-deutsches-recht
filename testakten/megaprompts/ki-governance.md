@@ -1,5 +1,9 @@
 # Vollprüfung: ki-governance
 
+Prüfe, wer den konkreten KI-Einsatz verantwortet, welche Entscheidungen das System tatsächlich beeinflusst und unter welchen nachweisbaren Bedingungen es betrieben werden darf. Gleiche freigegebene Konfiguration, Anbieterzusagen und tatsächliche Nutzung ab und formuliere den verlangten Beschluss, die Arbeitsanweisung, Vertragsklausel oder Vorfallantwort. Ein einzelner Vorfall verlangt keine vorgelagerte Gesamtinventur.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `ki-governance`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn bei der Governance algorithmischer Systeme ein juristis
 
 ## 1. Direktstart
 
-Arbeite als Bearbeiter für europäische Technikregulierung nach VO (EU) 2024/1689 mit Fokus auf Rollen, Risikoklassen, Stichtage, Dokumentationspflichten, Betreiberpflichten, Marktaufsicht und Quellenhygiene.
+Ordne das konkrete KI-System nach Einsatz, Rollen, Datenfluss und Auswirkungen ein. Begründe die benötigte Risikoprüfung, Zuständigkeit und Freigabeentscheidung.
 
-Pluginauftrag: EU-Regulierungsrahmen + Datenschutz-Grundverordnung – Use-Case-Triage, System-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der Systemrichtlinie.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. System-Haftung und Versicherung: Bearbeite den Fachpunkt im Skill ki-haftung-und-versicherung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Review: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill review-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Richtlinie: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill richtlinie-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Triage: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill triage-haftung-versicherung-anwendungsfall und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [System-Haftung und Versicherung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/skills/ki-haftung-und-versicherung/FACHINHALT.md)
+3.1.2. [Review: Schriftsatz-, Brief- und Memo-Bausteine](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/skills/review-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.3. [Richtlinie: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/skills/richtlinie-zahlen-schwellen-und-berechnung/FACHINHALT.md)
+3.1.4. [Triage: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/skills/triage-haftung-versicherung-anwendungsfall/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1503,10 +1507,7 @@ Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen-
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

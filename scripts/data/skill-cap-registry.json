@@ -2057,16 +2057,16 @@
           "slug": "kuendigung-zugang-trennung-bearbeiten",
           "title": "Kündigung, Zugang und Aufhebungsvertrag",
           "description": "Arbeitsrechtliche Mandatsbearbeitung: Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.",
-          "purpose": "Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.",
+          "purpose": "Lies Kündigung oder Aufhebungsentwurf, Arbeitsvertrag und Zustellbelege. Erstelle daraus die beauftragte Kündigungsprüfung, Klagefassung oder Verhandlungsposition.",
           "inputs": [
             "Auftrag, Beteiligte, Zeitraum und gewünschtes Arbeitsergebnis aus den vorhandenen Unterlagen feststellen.",
             "Die für Kündigung, Zugang und Aufhebungsvertrag maßgeblichen Dokumente, Fassungen, Belege und Fristen prüfen."
           ],
           "steps": [
-            "Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.",
-            "Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.",
-            "Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.",
-            "Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern."
+            "Ordne Kündigungsschreiben, Zustellbelege, Datum, Personalmaßnahmen und bekannte Schutzgründe. Bei streitigem Zugang rechne auf Basis der belegten Daten und kennzeichne frühest- und spätestplausibles Datum.",
+            "Prüfe Schriftform, Vertretung, tragenden Kündigungsgrund, den einschlägigen Schutz sowie Betriebsratsbeteiligung getrennt.\n\nBei einer vorbereiteten Betriebsratswahl sichere die Vorbereitungshandlung, die öffentlich beglaubigte Absichtserklärung sowie Kenntnis und Mitteilungen an den Arbeitgeber. Bei unbekanntem Schutz nach § 15 Abs. 3b KSchG kann eine verspätete Geltendmachung gegenüber dem Arbeitgeber zur Verwirkung führen. Die Regelspanne beträgt drei Wochen ab Kündigungszugang zuzüglich der zur Bewirkung des Mitteilungszugangs nötigen Zeit. Berechne die Klagefrist getrennt. [BAG, Urteil vom 30.07.2026, 2 AZR 70/25, Rn. 23–36 und 37–40](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/)\n\nBei Massenentlassung vergleiche Konsultation, eingereichte Anzeige, Eingang bei der Agentur für Arbeit und Kündigung. Halte konkrete Fehler und ihre mögliche Auswirkung auf die Aufgaben der Arbeitsverwaltung fest. Eine geringe Überangabe von 34 statt 31 Entlassungen beeinträchtigte diese Funktion im entschiedenen Fall nicht. [BAG, Urteil vom 25.06.2026, 6 AZR 7/26, Rn. 27–36](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/)",
+            "Formuliere das beauftragte Schreiben, den Klageentwurf oder die Verhandlungsposition. Bei einem Aufhebungsvertrag prüfe Beendigungsdatum, Zeugnis, Ausgleich, offene Vergütung und sozialrechtliche Folgen anhand des konkreten Angebots. Halte Belege, Gegenposition und offene Punkte am betreffenden Ergebnis fest.",
+            "Frage nur nach Angaben, die Frist, Rechtsposition oder Vertragsgestaltung beeinflussen. Arbeite die übrigen Teile weiter aus und aktualisiere denselben Entwurf nach der Antwort."
           ],
           "outputs": [
             "Ausgearbeitetes Ergebnis zu Kündigung, Zugang und Aufhebungsvertrag mit Belegen, klaren Handlungsschritten und offenen Punkten.",
@@ -2101,6 +2101,12 @@
             "zugang-neu-006-kuendigung-per-bea-e-mail-fax-schriftformfallen",
             "zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall",
             "zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept"
+          ],
+          "step_titles": [
+            "Frist und Zugang",
+            "Form, Kündigungsgrund und besonderer Schutz",
+            "Entwurf oder Verhandlung fortführen",
+            "Fehlende Belege gezielt klären"
           ]
         },
         {
@@ -17336,16 +17342,16 @@
           "slug": "kuendigung-zugang-trennung-bearbeiten",
           "title": "Kündigung, Zugang und Aufhebungsvertrag",
           "description": "Fachanwalt Arbeitsrecht: Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.",
-          "purpose": "Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.",
+          "purpose": "Lies Kündigung oder Aufhebungsentwurf, Arbeitsvertrag und Zustellbelege. Erstelle daraus die beauftragte Kündigungsprüfung, Klagefassung oder Verhandlungsposition.",
           "inputs": [
             "Auftrag, Beteiligte, Zeitraum und gewünschtes Arbeitsergebnis aus den vorhandenen Unterlagen feststellen.",
             "Die für Kündigung, Zugang und Aufhebungsvertrag maßgeblichen Dokumente, Fassungen, Belege und Fristen prüfen."
           ],
           "steps": [
-            "Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.",
-            "Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.",
-            "Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.",
-            "Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern."
+            "Ordne Kündigungsschreiben, Zustellbelege, Datum, Personalmaßnahmen und bekannte Schutzgründe. Bei streitigem Zugang rechne auf Basis der belegten Daten und kennzeichne frühest- und spätestplausibles Datum.",
+            "Prüfe Schriftform, Vertretung, tragenden Kündigungsgrund, den einschlägigen Schutz sowie Betriebsratsbeteiligung getrennt.\n\nBei einer vorbereiteten Betriebsratswahl sichere die Vorbereitungshandlung, die öffentlich beglaubigte Absichtserklärung sowie Kenntnis und Mitteilungen an den Arbeitgeber. Bei unbekanntem Schutz nach § 15 Abs. 3b KSchG kann eine verspätete Geltendmachung gegenüber dem Arbeitgeber zur Verwirkung führen. Die Regelspanne beträgt drei Wochen ab Kündigungszugang zuzüglich der zur Bewirkung des Mitteilungszugangs nötigen Zeit. Berechne die Klagefrist getrennt. [BAG, Urteil vom 30.07.2026, 2 AZR 70/25, Rn. 23–36 und 37–40](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/)\n\nBei Massenentlassung vergleiche Konsultation, eingereichte Anzeige, Eingang bei der Agentur für Arbeit und Kündigung. Halte konkrete Fehler und ihre mögliche Auswirkung auf die Aufgaben der Arbeitsverwaltung fest. Eine geringe Überangabe von 34 statt 31 Entlassungen beeinträchtigte diese Funktion im entschiedenen Fall nicht. [BAG, Urteil vom 25.06.2026, 6 AZR 7/26, Rn. 27–36](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/)",
+            "Formuliere das beauftragte Schreiben, den Klageentwurf oder die Verhandlungsposition. Bei einem Aufhebungsvertrag prüfe Beendigungsdatum, Zeugnis, Ausgleich, offene Vergütung und sozialrechtliche Folgen anhand des konkreten Angebots. Halte Belege, Gegenposition und offene Punkte am betreffenden Ergebnis fest.",
+            "Frage nur nach Angaben, die Frist, Rechtsposition oder Vertragsgestaltung beeinflussen. Arbeite die übrigen Teile weiter aus und aktualisiere denselben Entwurf nach der Antwort."
           ],
           "outputs": [
             "Ausgearbeitetes Ergebnis zu Kündigung, Zugang und Aufhebungsvertrag mit Belegen, klaren Handlungsschritten und offenen Punkten.",
@@ -17386,6 +17392,12 @@
             "massenentlassung-17-kschg-realitaetscheck",
             "massenentlassung-anzeige-eugh-junk-bag-6-azr-155-21",
             "zugang-kuendigung-bote-beweis"
+          ],
+          "step_titles": [
+            "Frist und Zugang",
+            "Form, Kündigungsgrund und besonderer Schutz",
+            "Entwurf oder Verhandlung fortführen",
+            "Fehlende Belege gezielt klären"
           ]
         },
         {
@@ -25595,7 +25607,7 @@
           "slug": "prozess-und-titel-bearbeiten",
           "title": "Prozess und Titel",
           "description": "Forderungsmanagement — Klagewerkstatt: Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.",
-          "purpose": "Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.",
+          "purpose": "Lies Anspruchsbelege, gerichtliche Schreiben und Zustellnachweise. Entscheide, ob ein Mahnantrag, eine Klage, eine Anspruchsbegründung nach Widerspruch oder die Vollstreckung des vorhandenen Titels vorbereitet werden soll. Rechne Teilzahlungen und streitige Nebenforderungen vor dem Antrag durch.",
           "inputs": [
             "Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.",
             "Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen."
@@ -25603,7 +25615,7 @@
           "steps": [
             "Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.",
             "Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.",
-            "Welche Nebenforderungen sind rechnerisch und rechtlich haltbar.",
+            "Ordne jeder Forderung Fälligkeit, Fristbeginn und belegte Hemmung sowie die gesondert berechneten Zinsen und Kosten zu. Bei abgetretenen Verbraucherkrediten [EuGH, Urteil vom 12.11.2026, C-476/25, Seruel](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316917&doclang=NL), Rn. 33–42, prüfen: Artikel 10 Absatz 1 der Richtlinie (EU) 2021/2167 regelt die amtswegige Verjährungsprüfung im Beitreibungsverfahren eines Kreditkäufers nicht. Nationale Einrederegel und verfahrensrechtliche Prüfung einschließlich Äquivalenz und Effektivität getrennt begründen. Den Wechsel von Mahnverfahren zu streitigem Verfahren in Antrag und Fristenkarte nachvollziehen.",
             "Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten."
           ],
           "outputs": [
@@ -25625,6 +25637,12 @@
             "spezial-zustaendigkeitspruefung-fristen-form-und-zustaendigkeit",
             "tatbestand-beweis-belege",
             "zustaendigkeitspruefung-mahngericht"
+          ],
+          "step_titles": [
+            "Arbeitsschritt",
+            "Arbeitsschritt",
+            "Verjährung und Nebenforderungen behandeln",
+            "Arbeitsschritt"
           ]
         },
         {
@@ -42985,16 +43003,16 @@
           "slug": "miete-und-betriebskosten-bearbeiten",
           "title": "Miete und Betriebskosten",
           "description": "Für Miet- und Wohnungseigentumsrecht: Miete und Betriebskosten: Miethöhe, Erhöhung, Mietpreisbremse, Index, Staffel, Abrechnung und Umlageschlüssel rechnerisch prüfen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.",
-          "purpose": "Miete und Betriebskosten: Miethöhe, Erhöhung, Mietpreisbremse, Index, Staffel, Abrechnung und Umlageschlüssel rechnerisch prüfen.",
+          "purpose": "Berechne die strittige Miete, Erhöhung oder Betriebskostenforderung aus Vertrag, Abrechnung und Zahlungsbelegen. Formuliere die bestellte Erklärung, Einwendung oder Nachforderung mit nachvollziehbarer Rechnung.",
           "inputs": [
             "Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.",
             "Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen."
           ],
           "steps": [
-            "Miete und Betriebskosten: Miethöhe, Erhöhung, Mietpreisbremse, Index, Staffel, Abrechnung und Umlageschlüssel rechnerisch prüfen.",
-            "Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.",
-            "Welche Forderung oder Pflicht ist faellig und wie wird sie belegt.",
-            "Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten."
+            "Ordne den Vorgang einer Mieterhöhung, einer Rückforderung wegen Überschreitung der zulässigen Miete oder einer Betriebskostenabrechnung zu. Prüfe die Vertragsart, den Zeitraum und die anwendbaren Stichtage.",
+            "Halte bei einer Mietberechnung Ausgangsmiete, Wohnfläche, Vergleichsmaßstab, Ausnahmen, Monatsbeträge und Zahlungen getrennt fest. Verwende für Mietspiegeldaten ausschließlich amtliche Quellen. Bei Betriebskosten vergleiche Abrechnungszeitraum, Positionen, maßgeblichen Umlageschlüssel und Vorauszahlungen mit den Belegen.",
+            "Bei Rückforderung nach § 556g BGB zuerst die maßgebliche Gesetzesfassung bestimmen. Für die alte Fassung Zugang der ursprünglichen Mietpreisrüge, behauptete Vertretungsmacht, rechtzeitige Beanstandung, Genehmigung und monatliche Fälligkeiten gegenüberstellen. Eine wirksame Genehmigung kann bei Vorliegen der Voraussetzungen auf die zunächst ohne Vollmacht erhobene Rüge zurückwirken. Prüfe danach, welche Monatsmieten nach dem Rügezugang fällig wurden, sowie die Forderungsinhaberschaft gesondert. [BGH, Urteil vom 28.10.2026, VIII ZR 177/24, Rn. 36–39 und 45–51](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304112026.zip)",
+            "Nenne zu jeder strittigen Position Betrag, Anspruchsgrund und Beleg. Formuliere das von der beauftragten Seite verlangte Schreiben, die Erklärung oder den Schriftsatz. Ergänze nach Rückfrage nur die betroffene Position und berechne die Folge für das Gesamtergebnis neu."
           ],
           "outputs": [
             "Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Miete und Betriebskosten“, mit konkreten Belegstellen und erkennbaren offenen Punkten.",
@@ -43020,6 +43038,12 @@
             "nebenkostenabrechnung-pruefen",
             "nebenkostenpruefung-prozessstrategie",
             "spezial-nebenkostenpruefung-formular-portal-und-einreichung"
+          ],
+          "step_titles": [
+            "Das richtige Verfahren wählen",
+            "Rechnen und Belege zuordnen",
+            "Mietpreisrüge zeitlich zuordnen",
+            "Das verlangte Ergebnis liefern"
           ]
         },
         {
@@ -47512,7 +47536,7 @@
           "slug": "produkt-und-rolle-bearbeiten",
           "title": "Produkt und Rolle",
           "description": "Für Produktrecht und Produkthaftung: Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt.",
-          "purpose": "Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.",
+          "purpose": "Gleiche Produkt, konkrete Verkaufsausführung und Rolle in der Lieferkette ab. Begründe anhand der Belege, wer im betroffenen Markt eine Freigabe erteilen, Ware sperren oder eine Abhilfemaßnahme durchführen soll. Erstelle dazu die verlangte Entscheidungsvorlage.",
           "inputs": [
             "Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.",
             "Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen."
@@ -47520,7 +47544,7 @@
           "steps": [
             "Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.",
             "Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.",
-            "Welches Produkt, welche Charge, welche Version und welche Nutzung sind betroffen.",
+            "Ordne Fotos und Sicherheitsunterlagen Charge, Version, Markt und vorgesehener Nutzung zu. Bei einem gefährlichen Gemisch in lebensmittelähnlicher Verpackung Fotos im Verkaufszustand und nach Öffnung mit vertrauten Verpackungen im Zielmarkt vergleichen. [EuGH, Urteil vom 05.11.2026, C-395/25, Orkla Care](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316758&doclang=EN), Rn. 44–56 und 64–99, konkretisiert den Gesamteindruck und die Verwechslungsgefahr nach Artikel 35 Absatz 2 CLP. Berücksichtige Kinder und schutzbedürftige Nutzer. Ein einmalig entfernbares Siegel oder das Fehlen eines Vorfalls entscheidet die Prüfung nicht. Leite daraus die Änderung der Verpackung oder eine vorläufige Vertriebssperre ab und prüfe gesondert die Voraussetzungen für Rückruf und Haftung.",
             "Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten."
           ],
           "outputs": [
@@ -47547,6 +47571,12 @@
             "rechtsabteilung-produkthaftungsrichtlinie-ce",
             "reparaturpflicht-hersteller-nach-gewaehrleistung",
             "review-prodr-produkthaftung-digital"
+          ],
+          "step_titles": [
+            "Arbeitsschritt",
+            "Arbeitsschritt",
+            "Vertriebsfassung und Verpackung prüfen",
+            "Arbeitsschritt"
           ]
         },
         {
@@ -55726,16 +55756,15 @@
           "slug": "unternehmen-umstrukturierung-sanierung-bearbeiten",
           "title": "Unternehmen, Umstrukturierung und Sanierung",
           "description": "Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sanierung und steuerliche Krisenpflichten gemeinsam prüfen. Die vollständigen Fachanweisungen werden passend zum konkreten Vorgang gelesen und gemeinsam umgesetzt.",
-          "purpose": "Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sanierung und steuerliche Krisenpflichten gemeinsam prüfen.",
+          "purpose": "Liefere für eine Umstrukturierung, einen Gewinnabführungsvertrag oder einen Sanierungsfall den bestellten Steuervermerk, die Berechnung oder die begründete Empfehlung. Wo ein Bescheid vorliegt, zeige, welche Feststellung sich konkret ändern soll.",
           "inputs": [
-            "Auftrag, Beteiligte, Zeitraum und gewünschtes Arbeitsergebnis aus den vorhandenen Unterlagen feststellen.",
-            "Die für Unternehmen, Umstrukturierung und Sanierung maßgeblichen Dokumente, Fassungen, Belege und Fristen prüfen."
+            "Lies Vertrag oder Umwandlungsbeschluss, Registerstand, Beteiligungskette, Abschluss, Steuerbilanz sowie den betroffenen Bescheid. Für eine Krisenprüfung sind zusätzlich belastbare Liquiditäts- und Fälligkeitsdaten nötig. Kläre die Zielstruktur und den maßgeblichen Stichtag, falls sie für die Berechnung offen sind."
           ],
           "steps": [
-            "Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sanierung und steuerliche Krisenpflichten gemeinsam prüfen.",
-            "Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.",
-            "Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.",
-            "Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern."
+            "Bestimme Ausgangs- und Zielgesellschaft, Beteiligte, Umwandlungstyp, Wirksamkeitszeitpunkt und steuerlichen Übertragungsstichtag. Verschmelzung, Formwechsel, Einbringung und Anwachsung führen zu unterschiedlichen Prüfungen. Leite aus einem Vertragsentwurf keine vollzogene Maßnahme ab.",
+            "Führe Anschaffungswerte, Rücklagen, stille Reserven oder Zinsen je Gesellschaft und Zeitraum zu den Originalbelegen zurück. Prüfe Buchwertantrag und Sperrfristen, sofern der Umwandlungstatbestand sie vorsieht. Beim Formwechsel einer Kapitalgesellschaft in eine Personengesellschaft gehört das übernommene positive steuerbilanzielle Eigenkapital in die Überentnahmerechnung nach Paragraf 4 Absatz 4a EStG. Prüfe dies auch für eine Unterpersonengesellschaft ohne unmittelbar kapitalmäßig beteiligte natürliche Person. [BFH, Urteil vom 02.09.2026, IV R 10/24, Rn. 38–50](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610208/).",
+            "Zeige den Vergleich der Ausgangs- und Zielwerte und bezeichne die Zahlen, für die noch Nachweise fehlen. Erkläre Gegenposition und Auswirkungen auf Feststellung, Steuer oder nächsten Umsetzungsschritt. Bei getrennten Bescheidstufen den Sachpunkt der richtigen Stufe zuordnen.",
+            "Ordne einen nachgereichten Vertrag, eine Bilanz oder eine Gesellschafterliste dem betroffenen Stichtag zu. Ändere daraufhin die betroffenen Rechenzeilen, die Begründung und das Begehren. Dringliche Fristen oder Krisenpflichten parallel anhand der passenden Vertiefung sichern."
           ],
           "outputs": [
             "Ausgearbeitetes Ergebnis zu Unternehmen, Umstrukturierung und Sanierung mit Belegen, klaren Handlungsschritten und offenen Punkten.",
@@ -55761,6 +55790,12 @@
             "umwandlung-formwechsel-umwstg",
             "vga-pruefraster",
             "warnschreiben-krisensignale"
+          ],
+          "step_titles": [
+            "Geschäftsvorgang und Zeitraum zuordnen",
+            "Rechtsfolge je betroffener Einheit berechnen",
+            "Abweichung und Folgen begründen",
+            "Nach neuen Belegen fortschreiben"
           ]
         },
         {
@@ -55865,7 +55900,7 @@
           "slug": "bescheid-rechtsbehelf-haftung-bearbeiten",
           "title": "Bescheid, Einspruch und Finanzgericht",
           "description": "Bescheide, Korrekturmöglichkeiten, Fristen, AdV, Haftung und finanzgerichtlichen Rechtsschutz bis zum fertigen Arbeitsprodukt prüfen. Die vollständigen Fachanweisungen werden passend zum konkreten Vorgang gelesen und gemeinsam umgesetzt.",
-          "purpose": "Bescheide, Korrekturmöglichkeiten, Fristen, AdV, Haftung und finanzgerichtlichen Rechtsschutz bis zum fertigen Arbeitsprodukt prüfen.",
+          "purpose": "Bestimme aus Bescheid, Zustellbeleg, Einspruchsentscheidung und gegebenenfalls Urteil, welcher Antrag noch möglich ist. Berechne dessen Frist und liefere den passenden Einspruch, Aussetzungsantrag oder Klageentwurf mit belegter Begründung.",
           "inputs": [
             "Auftrag, Beteiligte, Zeitraum und gewünschtes Arbeitsergebnis aus den vorhandenen Unterlagen feststellen.",
             "Die für Bescheid, Einspruch und Finanzgericht maßgeblichen Dokumente, Fassungen, Belege und Fristen prüfen."
@@ -55873,7 +55908,7 @@
           "steps": [
             "Bescheide, Korrekturmöglichkeiten, Fristen, AdV, Haftung und finanzgerichtlichen Rechtsschutz bis zum fertigen Arbeitsprodukt prüfen.",
             "Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.",
-            "Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.",
+            "Bei Schätzungsbescheiden nach Paragraf 162 AO tatsächliche Zahlungseingänge, private Beträge, Betriebsausgaben und angebotene Aufklärung gegenüberstellen. Setze bei Bestandskraft die hohe Schwelle des Paragrafen 125 Absatz 1 AO nicht mit der gewöhnlichen Rechtswidrigkeit gleich. Nach [BFH, Beschluss vom 23.10.2026, X B 2/26](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650176/), Rn. 14–18, trägt für die Nichtzulassungsbeschwerde die konkrete Abweichung von einem klaren Aktenbefund nur bei Entscheidungserheblichkeit. Stelle Urteilsseite, eindeutige Aktenfundstelle und mögliche Auswirkung nebeneinander. Der BFH verwies zurück und stellte die Nichtigkeit der Bescheide nicht fest.",
             "Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern."
           ],
           "outputs": [
@@ -55917,6 +55952,12 @@
             "verbindliche-auskunft",
             "verbindliche-erstgespraech",
             "vergleichsverhandlung-strategie"
+          ],
+          "step_titles": [
+            "Arbeitsschritt",
+            "Arbeitsschritt",
+            "Schätzung, Nichtigkeit und Aktenverstoß auseinanderhalten",
+            "Arbeitsschritt"
           ]
         },
         {

@@ -1,6 +1,8 @@
 # 1. Aus uneinheitlichen Geschäftszusagen eine einzige Vertragsfassung machen
 
-Autor: Klotzkette. Eigenständiger Auftrag für deutsche B2B-Einzelgeschäfte ohne Plugininstallation. Stand: 23.09.2026. Erstellen Sie den Vertrag und lösen Sie die Kollision zwischen Leistung, Preis und Risiko.
+Erstellen Sie aus Angebot, Anlagen und Nachrichten einen Vertrag für das deutsche B2B-Einzelgeschäft. Klären Sie, welche Leistung für welchen Preis zugesagt ist und wer das Risiko trägt, wenn Termine, Mitwirkung oder Erfolg offen sind.
+
+[BGH, Urteil vom 04.02.2025, XI ZR 183/23, Rn. 30–32](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2023/XI_ZR_183-23.pdf?__blob=publicationFile&v=1): Höhe und Beginn des Entgelts waren verhandelbar, die Entgeltpflicht als solche blieb vorgegeben. Prüfen Sie im B2B-Fall den Regelungskern ohne die Verbrauchervermutung aus Paragraf 310 Absatz 3 Nummer 1 BGB. Verwenden Sie nur verifizierte Fundstellen.
 
 ## 1.1. Ausgangspunkt und erstes Ergebnis
 
@@ -32,7 +34,7 @@ Bei Datenzugriff Rolle, Weisungen und Unteraufträge klären. Dateibesitz, Nutzu
 
 Übernehmen Sie jede neue Antwort in die bestehende Fassung. Wird nur eine Vierstundenreaktion bestätigt, entfernen Sie Wiederherstellungsgarantien auch aus Anlagen und Abhilfeklauseln. Wird ein zusätzlicher Reparaturerfolg beauftragt, ergänzen Sie Erfolgskriterien, Vergütung, Abnahme und Mängelfolgen; die alte Serviceklausel allein reicht dann nicht. Wenn dafür ein entscheidender Wert fehlt, fragen Sie danach und behalten den übrigen Stand.
 
-Setzen Sie fort, bis das verlangte Dokument ausformuliert oder ein konkret benannter entscheidender Beitrag aussteht. Kein festes Rundenlimit, kein Neubeginn der Aufnahme und kein bloßes Analyseende. Vertiefen Sie nur die gerade benötigte Fachfrage, nicht neun Themen auf Vorrat. Auch die Vertiefung muss in einen verwendbaren Text zurückführen.
+Arbeiten Sie am bestehenden Text weiter, bis der Vertrag fertig ist oder ein entscheidender Beitrag aussteht. Benennen Sie in diesem Fall genau, was noch fehlt.
 
 Ein Nachtrag bestimmt Vertrag, Nummer, Ersatztext, Wirksamkeit und Fortgeltung, ohne alte Ansprüche ungefragt zu erledigen. Erhalten Sie bestätigte Einigungen. Interne Freigabe ist keine externe Annahme.
 
@@ -40,10 +42,12 @@ Ein Nachtrag bestimmt Vertrag, Nummer, Ersatztext, Wirksamkeit und Fortgeltung, 
 
 Primärnormen im [BGB](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html): Paragrafen 125 bis 127 zur Form, 145 bis 150 zum Abschluss, 164 und 177 zur Vertretung, 271a zur Zahlungsfrist, 276 zur Verantwortlichkeit, 305 bis 310 zu AGB, 314 zum Dauerschuldverhältnis sowie 433, 611, 631, 640 und 648 zu den Leistungsarten. Verwenden Sie den konkreten aktuellen Normtext und prüfen Sie Sondertatbestände. Aus Paragraf 648 folgt keine pauschale Vergütung von fünf Prozent der gesamten Auftragssumme.
 
-BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13: [amtlicher Volltext, Rn. 22–32](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1) bestätigen, dass eine bloße Verhandlungsbestätigung das Aushandeln nicht belegt und AGB-Recht nicht unabhängig von seinen Voraussetzungen abgewählt werden kann. Rn. 22–32 am 01.10.2026 gelesen. Die konkrete baurechtliche Sicherheitsklausel liefert keine universelle Prozentgrenze. Keine Urteile, Literatur oder Quellenstatus erfinden. Juristische Prüfung getrennt dokumentieren; Quellenprüfung ist kein bestandener Dialogtest.
+[BGH, Urteil vom 20.03.2014, VII ZR 248/13, Rn. 22–32](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1): Eine Verhandlungsbestätigung belegt kein Aushandeln. Prüfen Sie die konkrete Klausel und den tatsächlichen Spielraum. Aus dem Baufall folgt keine allgemeine Prozentgrenze für Sicherheiten.
 
 ## 1.6. Endprodukt und Handlungsschranke
 
 Liefert das Material genug Tatsachen, geben Sie den vollständigen Vertrag aus, nicht eine Liste vorgeschlagener Überschriften. Ausformulierungspflicht: alle nötigen Pflichten und Folgen in klaren vollständigen Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Lesbare Platzhalter nur für fehlende Angaben. Ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausschreiben. Soweit technisch möglich Times New Roman 11 pt; Exporthinweis bei Markdown getrennt.
 
 Kontrollieren Sie Preisstellen, Anlagenstände, Fristen und Querverweise. Quellen und technische Prüfhindernisse gehören in die separate Notiz, nicht zwingend in operative Klauseln. Benennen Sie ehrlichen Status: Entwurf, freigegebene Fassung oder belegter Vertragsschluss. Ohne konkrete Autorisierung keine Erklärung, Unterschrift, Versendung, Kündigung oder Verzicht.
+
+Autor: Klotzkette.

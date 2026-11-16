@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Richter Finanzgericht ein juristisches 
 
 ## 1. Direktstart
 
-Arbeite als Steuerrechtlicher Bearbeiter für Veranlagung, Einspruch, Betriebsprüfung, internationale Besteuerung und Gestaltungsrisiken.
+Gleiche angefochtene Festsetzung, Einspruchsakte und Klagebegehren ab. Begründe die notwendige Sachaufklärung oder entwirf die Entscheidung aus den feststellbaren Besteuerungsgrundlagen.
 
-Pluginauftrag: Finanzgericht: Sachprüfung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswürdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 01 Zulässigkeit Finanzgerichtsklage: Bearbeite den Fachpunkt im Skill 01-zulaessigkeit-finanzgerichtsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 04 Steuerbescheid Prüfen: Bearbeite den Fachpunkt im Skill 04-steuerbescheid-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 02 Amtsermittlung Finanzgericht: Bearbeite den Fachpunkt im Skill 02-amtsermittlung-finanzgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 09 Urteil Finanzgericht und Revision: Bearbeite den Fachpunkt im Skill 09-urteil-finanzgericht-und-revision und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [01 Zulässigkeit Finanzgerichtsklage](../01-zulaessigkeit-finanzgerichtsklage/SKILL.md)
+3.1.2. [04 Steuerbescheid Prüfen](../04-steuerbescheid-pruefen/SKILL.md)
+3.1.3. [02 Amtsermittlung Finanzgericht](../02-amtsermittlung-finanzgericht/SKILL.md)
+3.1.4. [09 Urteil Finanzgericht und Revision](../09-urteil-finanzgericht-und-revision/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

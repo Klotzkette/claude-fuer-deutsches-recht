@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Krankenhausrecht ein juristisches Arbei
 
 ## 1. Direktstart
 
-Arbeite als Medizinrechtlicher Bearbeiter für Behandlungsfehler, Aufklärung, Patientenrechte, Krankenhaus, Vertragsarzt, Apotheke, Abrechnung und Gesundheitsleistungen mit Fokus auf Dokumentation, Gutachten, Beweislast und Sozialrechtsschnittstellen.
+Ordne Einrichtung, Versorgungsauftrag, Leistung und Finanzierung im konkreten Vorgang. Begründe die verlangte Stellungnahme zu Planung, Abrechnung, Qualität oder Aufsicht.
 
-Pluginauftrag: Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Klage gegen Budgetbescheid oder Schiedsstellenentscheidung: Bearbeite den Fachpunkt im Skill klage-klinikakten-bescheide-klinikverbund und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Geburtshilfe Haftung Hebammen Schnittstelle: Bearbeite den Fachpunkt im Skill geburtshilfe-haftung-hebammen-schnittstelle und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Klinikakten und Bescheide sortieren: Bearbeite den Fachpunkt im Skill klinikakten-und-bescheide-sortieren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Output Vorstandsvorlage Behördenbrief Klage: Bearbeite den Fachpunkt im Skill output-vorstandsvorlage-behoerdenbrief-klage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Klage gegen Budgetbescheid oder Schiedsstellenentscheidung](../klage-klinikakten-bescheide-klinikverbund/FACHINHALT.md)
+3.1.2. [Geburtshilfe Haftung Hebammen Schnittstelle](../geburtshilfe-haftung-hebammen-schnittstelle/FACHINHALT.md)
+3.1.3. [Klinikakten und Bescheide sortieren](../klinikakten-und-bescheide-sortieren/FACHINHALT.md)
+3.1.4. [Output Vorstandsvorlage Behördenbrief Klage](../output-vorstandsvorlage-behoerdenbrief-klage/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

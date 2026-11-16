@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Gesellschaftsrecht ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Gleiche Satzung, Gesellschafterliste, Beschluss und Registerstand ab. Begründe die Position zu Wirksamkeit, Vollzug oder Haftung und formuliere den benötigten Entwurf.
 
-Pluginauftrag: Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschlüsse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Handelsregisteranmeldung: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill handelsregisteranmeldung-frist-naechster-schritt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen: Bearbeite den Fachpunkt im Skill geschaeftsfuehrer-haftung-43-gmbhg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Agio und Kapitalrücklage in der GmbH: Bearbeite den Fachpunkt im Skill agio-und-kapitalruecklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Beirat Haftung: Bearbeite den Fachpunkt im Skill beirat-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Handelsregisteranmeldung: Fristennotiz und nächster Schritt](../handelsregisteranmeldung-frist-naechster-schritt/FACHINHALT.md)
+3.1.2. [Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen](../geschaeftsfuehrer-haftung-43-gmbhg/FACHINHALT.md)
+3.1.3. [Agio und Kapitalrücklage in der GmbH](../agio-und-kapitalruecklage/FACHINHALT.md)
+3.1.4. [Beirat Haftung](../beirat-haftung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

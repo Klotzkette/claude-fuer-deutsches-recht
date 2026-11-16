@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Aufsichtsrat AG SE Praxis ein juristisc
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Bestimme den anstehenden Beschluss oder die Überwachungsfrage aus Tagesordnung, Satzung und Vorstandsunterlagen. Liefere einen Beschlussentwurf oder Prüfvermerk mit den entscheidungsrelevanten Informationslücken.
 
-Pluginauftrag: Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Vorstandsvertrag: Bearbeite den Fachpunkt im Skill vorstandsvertrag-managerhaftung-regress und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Aufsichtsrat Managerhaftung Regress: Bearbeite den Fachpunkt im Skill aufsichtsrat-managerhaftung-regress und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Eigenhaftung Aufsichtsrat: Bearbeite den Fachpunkt im Skill eigenhaftung-aufsichtsrat und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Haftungsradar: Bearbeite den Fachpunkt im Skill haftungsradar und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Vorstandsvertrag](../vorstandsvertrag-managerhaftung-regress/FACHINHALT.md)
+3.1.2. [Aufsichtsrat Managerhaftung Regress](../aufsichtsrat-managerhaftung-regress/FACHINHALT.md)
+3.1.3. [Eigenhaftung Aufsichtsrat](../eigenhaftung-aufsichtsrat/FACHINHALT.md)
+3.1.4. [Haftungsradar](../haftungsradar/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

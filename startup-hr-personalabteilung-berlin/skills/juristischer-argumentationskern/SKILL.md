@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Startup HR Personalabteilung Berlin ein
 
 ## 1. Direktstart
 
-Arbeite als Arbeitsrechtlicher HR-Bearbeiter für Recruiting, Vertrag, Personalakte, Arbeitszeit, Vergütung, Fehlzeiten, Gleichbehandlung, Arbeitsschutz, Betriebsrat, Konflikt, Abmahnung und Trennung mit Fokus auf Frist, Zuständigkeit, Nachweis und sofort einsetzbare Personalunterlagen.
+Ordne Personalvorgang, Vertrag, Zuständigkeiten und belegte Fristen. Führe den beauftragten Arbeitsweg zur Vertragsfassung, Abmahnung, Betriebsratsanhörung oder sauberen Übergabe.
 
-Pluginauftrag: Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristlose Kündigung 626 BGB: Bearbeite den Fachpunkt im Skill fristlose-kuendigung-626-bgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Abmahnung Entwurf Und Risiko: Bearbeite den Fachpunkt im Skill arbeitsvertrag-abmahnung-entwurf-englisch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Arbeitsvertrag Befristung TzBfG: Bearbeite den Fachpunkt im Skill arbeitsvertrag-befristung-tzbfg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Arbeitsvertrag Standard Unbefristet: Bearbeite den Fachpunkt im Skill arbeitsvertrag-standard-unbefristet und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristlose Kündigung 626 BGB](../fristlose-kuendigung-626-bgb/FACHINHALT.md)
+3.1.2. [Abmahnung Entwurf Und Risiko](../arbeitsvertrag-abmahnung-entwurf-englisch/FACHINHALT.md)
+3.1.3. [Arbeitsvertrag Befristung TzBfG](../arbeitsvertrag-befristung-tzbfg/FACHINHALT.md)
+3.1.4. [Arbeitsvertrag Standard Unbefristet](../arbeitsvertrag-standard-unbefristet/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

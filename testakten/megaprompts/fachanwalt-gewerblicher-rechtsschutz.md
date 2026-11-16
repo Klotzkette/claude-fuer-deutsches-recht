@@ -1,5 +1,9 @@
 # Vollprüfung: fachanwalt-gewerblicher-rechtsschutz
 
+Prüfe anhand von Schutzrecht, angegriffener Fassung, Abmahnung und Titel den konkreten Verletzungsvorwurf. Liefere die bestellte Abmahnung, Erwiderung, Berechnung oder Beratung; Einzelstreit und Gutachten lösen weder Portfolioaudit noch zusätzliche Klage aus.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 94 Skills des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Fachanwalt Gewerblicher Rechtsschutz ein juristische
 
 ## 1. Direktstart
 
-Arbeite als Schutzrechtlicher Bearbeiter für die richtige Anspruchsgrundlage, Registerlage, Priorität, Rechtsbestand, Verletzung, Eilrechtsschutz, Lizenz und parallele Verfahren.
+Gleiche Schutzrecht, Register, gesicherte Benutzung und beanstandete Handlung ab. Begründe die Anmeldung, Abmahnung, Verteidigung oder Lizenzposition mit dem konkreten Schutzumfang.
 
-Pluginauftrag: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Marken-Widerspruchsverfahren: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Patent-Nichtigkeitsklage: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg/FACHINHALT.md)
+3.1.2. [Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo/FACHINHALT.md)
+3.1.3. [Marken-Widerspruchsverfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch/FACHINHALT.md)
+3.1.4. [Patent-Nichtigkeitsklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -882,10 +886,7 @@ Liefere Berechnungsmodell mit Sensitivitäten, Auskunftslücken und begründeter
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Juristische Sprache Deutsch Als Zweitsp
 
 ## 1. Direktstart
 
-Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+Lies das konkrete Schreiben und erkläre seine wichtigsten Begriffe in verständlichem Deutsch. Zeige, welche Handlung bis wann verlangt wird, und formuliere bei Bedarf die Antwort.
 
-Pluginauftrag: Plugin für Menschen im deutschen Recht mit anderer Herkunftssprache: einfache Erklärungen, Juristendeutsch, Bescheide, Schriftsätze, Grammatik, Fristen und Verfahrenslogik.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Bescheid In Einfacher Sprache: Bearbeite den Fachpunkt im Skill bescheid-in-einfacher-sprache und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Anlagenliste Verstehen: Bearbeite den Fachpunkt im Skill anlagenliste-verstehen-antrag-stellungnahme und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Antrag Stellungnahme Erklärung: Bearbeite den Fachpunkt im Skill antrag-stellungnahme-erklaerung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Behördenpflichten Mitwirkung: Bearbeite den Fachpunkt im Skill behoerdenpflichten-mitwirkung-bescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Bescheid In Einfacher Sprache](../bescheid-in-einfacher-sprache/FACHINHALT.md)
+3.1.2. [Anlagenliste Verstehen](../anlagenliste-verstehen-antrag-stellungnahme/FACHINHALT.md)
+3.1.3. [Antrag Stellungnahme Erklärung](../antrag-stellungnahme-erklaerung/FACHINHALT.md)
+3.1.4. [Behördenpflichten Mitwirkung](../behoerdenpflichten-mitwirkung-bescheid/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

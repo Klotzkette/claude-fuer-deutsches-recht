@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Gebrauchsmusterrecht ein juristisches A
 
 ## 1. Direktstart
 
-Arbeite als Gebrauchsmusterrechtlicher Bearbeiter für Anmeldung, Abzweigung, Neuheitsschonfrist, Recherche, Schutzanspruch, Löschung, Schutzbereich, Verletzung und einstweiligen Rechtsschutz.
+Gleiche Anspruchsfassung, Anmeldedaten, Stand der Technik und die betroffene Ausführung ab. Begründe den verlangten Entwurf zur Anmeldung, Geltendmachung oder Löschung.
 
-Pluginauftrag: Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Registerstand Fristen Aufrechterhaltung: Bearbeite den Fachpunkt im Skill registerstand-aufrechterhaltung-lizenzvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Abmahnung Gebrauchsmuster Verteidigung: Bearbeite den Fachpunkt im Skill abmahnung-gebrauchsmuster-abzweigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Anspruchsfassung Gebrauchsmuster: Bearbeite den Fachpunkt im Skill anspruchsfassung-gebrauchsmuster und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Auskunft Schadensersatz Und Rechnungslegung: Bearbeite den Fachpunkt im Skill auskunft-schadensersatz-geheimhaltung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Registerstand Fristen Aufrechterhaltung](../registerstand-aufrechterhaltung-lizenzvertrag/FACHINHALT.md)
+3.1.2. [Abmahnung Gebrauchsmuster Verteidigung](../abmahnung-gebrauchsmuster-abzweigung/FACHINHALT.md)
+3.1.3. [Anspruchsfassung Gebrauchsmuster](../anspruchsfassung-gebrauchsmuster/FACHINHALT.md)
+3.1.4. [Auskunft Schadensersatz Und Rechnungslegung](../auskunft-schadensersatz-geheimhaltung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

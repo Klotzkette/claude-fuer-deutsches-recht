@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Grosskanzlei Corporate Ma ein juristisc
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Bestimme Transaktionsziel, Dokumentenstand und nächste Entscheidung. Führe die belegten Risiken, offenen Bedingungen und Zahlungsfragen bis zum verlangten Vertragsentwurf oder Vollzugsvermerk.
 
-Pluginauftrag: Corporate/M&A-Plugin für Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Verbindliche Auskunft nach Paragraf 89 AO im Sanierungskontext: Bearbeite den Fachpunkt im Skill gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Freistehender Deal-Fristen- und CP-Kalender: Bearbeite den Fachpunkt im Skill grosskanzlei-ma-fristen-cp-kalender und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Beirat Haftung: Bearbeite den Fachpunkt im Skill beirat-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Beirat Register Und Notar: Bearbeite den Fachpunkt im Skill beirat-register-und-notar und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Verbindliche Auskunft nach Paragraf 89 AO im Sanierungskontext](../gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft/FACHINHALT.md)
+3.1.2. [Freistehender Deal-Fristen- und CP-Kalender](../grosskanzlei-ma-fristen-cp-kalender/FACHINHALT.md)
+3.1.3. [Haftung und Konflikte des Beirats](../beirat-gestaltung-und-governance/references/konflikt.md)
+3.1.4. [Beiratsgestaltung, Register und Notariat](../beirat-gestaltung-und-governance/references/grundlage.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

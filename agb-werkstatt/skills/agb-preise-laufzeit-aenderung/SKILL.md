@@ -27,7 +27,7 @@ Preisbestandteile, Kostenentwicklung, Laufzeit, Lieferintervall, Bestandsverträ
 
 Prüfen Sie bei Ablehnungs- und Kündigungsrechten zuerst die unterschiedlichen Lesarten der gesamten Klauselgruppe: Kann der Kunde durch Widerspruch die Erhöhung verhindern und zum bisherigen Preis fortsetzen, vorbehaltlich einer zulässigen Anbieterkündigung? Oder soll nur eine Kündigung den Vertrag beenden? Vergleichen Sie dies mit der Kundenmitteilung; eine E-Mail darf das in den AGB eingeräumte Widerspruchsrecht nicht als bloße Kündigungsmöglichkeit darstellen.
 
-BGH, Urteil vom 01.10.2026 - Az. III ZR 205/25, nach der unten bezeichneten Pressemitteilung: Gerade die Unklarheit zwischen diesen Folgen begründete Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB. Daraus folgen weder ein allgemeines Preisänderungsverbot noch individuelle Rückzahlungsansprüche. Transparenz heilt keine materiell unzulässige Zustimmungsfiktion.
+[BGH, Urteil vom 01.10.2026, III ZR 205/25](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip), Rn. 20–32: Prüfe Preis-, Widerspruchs- und Kündigungsklauseln gemeinsam. Lege fest, ob und bis wann Widerspruch den bisherigen Preis erhält und wann eine Kündigung wirkt. Die Unklarheit darüber war intransparent nach Paragraf 307 Absatz 1 BGB. Die Entscheidung zur konkreten AGB-Gruppe begründet kein allgemeines Erhöhungsverbot und spricht keine individuelle Erstattung zu. Die weitere Angriffsrichtung zur Kostenstruktur blieb für die Entscheidung offen. Stimme die Neufassung der Klauselgruppe mit der Kundenmitteilung ab.
 
 Bestimmen Sie anhand des Auftrags den zulässigen Mechanismus und formulieren Sie Klauselgruppe und Änderungsmitteilung gemeinsam: Anlass, Berechnung, Frist, Zugang, Wirksamkeitszeitpunkt und Folgen von Schweigen, Widerspruch oder Kündigung müssen übereinstimmen. Kein universeller Prozentsatz und keine pauschale Frist. Nach nachgereichter Nachricht beide Texte überarbeiten. Eine Neufassung ändert bestehende Verträge nicht automatisch und heilt unwirksame Altklauseln nicht rückwirkend; Rückforderung nur im gesonderten Auftrag prüfen.
 
@@ -37,7 +37,7 @@ Paragrafen 307 bis 310, 312k und 675g BGB. BGH, 27. April 2021, XI ZR 26/20, zur
 
 Prüfen Sie die tragenden Quellen am Bearbeitungstag. Quellenstatus und Grenzen: references/rechtsprechung.md im Plugin. Zitierweise: references/arbeitsweise.md, ergänzend references/zitierweise.md im vollständigen Repository. Ungelesene Entscheidungen nicht als verifiziert ausgeben.
 
-Für III ZR 205/25 wurde am 16.10.2026 ausschließlich die [amtliche Pressemitteilung 184/2026 vom 01.10.2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html) gelesen, nicht der Urteilsvolltext; keine Randnummern oder weitergehenden Urteilsgründe behaupten. Vertragsdatum, Änderungszeitpunkt, maßgebliche Fassung von Paragrafen 307 bis 310 BGB, Übergangsrecht und einschlägiges Sonderrecht vor Verwendung prüfen.
+Vertragsdatum, Änderungszeitpunkt und anwendbare Fassung der Paragrafen 307 bis 310 BGB sowie mögliches Sonderrecht am Fall prüfen. Die bezeichneten Randnummern wurden im amtlichen Volltext am 16.11.2026 gelesen.
 
 ## 5 Ausgabeformat
 

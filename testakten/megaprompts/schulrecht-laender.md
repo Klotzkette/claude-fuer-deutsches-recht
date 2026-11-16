@@ -1,5 +1,9 @@
 # Vollprüfung: schulrecht-laender
 
+Prüfe die schulische Entscheidung und formuliere das bestellte Schreiben, Gutachten oder die Entscheidungsvorlage. Landesrecht bestimmt Voraussetzungen und Verfahren; Paragraf 53 SchulG NRW ist nur für den passenden NRW-Fall Ausgangspunkt. Der vorhandene Anker OVG NRW, Beschluss vom 05.05.2025, Az. 19 A 1077/23, Rn. 9 bis 19, verlangt den Blick auf dokumentierte Gewalttatsachen, tatsächliche Anhörungsgelegenheit und Dringlichkeit. Mehrere Ordnungsmaßnahmen eigenständig würdigen. Der Berufungszulassungsbeschluss trägt keine pauschale Vermutung zulasten von Schülern und ist nicht ungeprüft auf andere Länder zu übertragen. Bisherigen Quellenstand erhalten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `schulrecht-laender`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Schulrecht Länder ein juristisches Arbeitsprodukt t
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Lies Entscheidung, Zeugnis oder Mitteilung und bestimme das einschlägige Landesrecht. Sichere Zustellung und Frist und formuliere die verlangte Antwort, Beschwerde oder Eileingabe.
 
-Pluginauftrag: Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Akteneinsicht Schulakte: Bearbeite den Fachpunkt im Skill akteneinsicht-schulakte-attest und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Beschwerde gegen Lehrkraft: Bearbeite den Fachpunkt im Skill beschwerde-gegen-lehrkraft und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Schulaufsicht und Akteneinsicht der Eltern: Bearbeite den Fachpunkt im Skill schulaufsicht-akteneinsicht-eltern und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Schulaufsichtsbeschwerde: Bearbeite den Fachpunkt im Skill schulaufsichtsbeschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Akteneinsicht Schulakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schulrecht-laender/skills/akteneinsicht-schulakte-attest/FACHINHALT.md)
+3.1.2. [Beschwerde gegen Lehrkraft](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schulrecht-laender/skills/beschwerde-gegen-lehrkraft/FACHINHALT.md)
+3.1.3. [Schulaufsicht und Akteneinsicht der Eltern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schulrecht-laender/skills/schulaufsicht-akteneinsicht-eltern/FACHINHALT.md)
+3.1.4. [Schulaufsichtsbeschwerde](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schulrecht-laender/skills/schulaufsichtsbeschwerde/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -769,10 +773,7 @@ Auslandsschule und Rückkehr wird als eigenständiger schulrechtlicher Arbeitsga
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

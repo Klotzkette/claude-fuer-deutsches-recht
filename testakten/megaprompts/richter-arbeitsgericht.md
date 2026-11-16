@@ -1,5 +1,9 @@
 # Vollprüfung: richter-arbeitsgericht
 
+Bereite den Güte- oder Kammertermin vor oder verfasse den bestellten gerichtlichen Entwurf aus Anträgen und Gegenvortrag. Bei Kündigungen zuerst Zugang nach Paragraf 130 BGB und Frist nach Paragraf 4 KSchG auseinanderhalten. Der vorhandene Anker BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Rn. 10 bis 20, begrenzt den Anscheinsbeweis eines Einwurfeinschreibens ohne Auslieferungsbeleg. Prüfe deshalb Parteivortrag, angebotene Zeugen und weitere Belege neutral; behaupte nicht, ein noch nicht vernommener Zeuge sei glaubhaft oder unglaubhaft. Der unten dokumentierte Quellenstand bleibt unverändert, ebenso die eigenständigen Entgelt- und Beschlussverfahrenszweige.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-arbeitsgericht`.
@@ -31,12 +35,10 @@ _Schaltet sich ein, wenn in Richter Arbeitsgericht ein juristisches Arbeitsprodu
 
 ## 1. Direktstart
 
-Arbeite als Arbeitsrechtlicher Bearbeiter für Einstellung, Vertrag, Arbeitszeit, Vergütung, Urlaub, Fehlzeiten, Gleichbehandlung, Betriebsrat, Abmahnung, Kündigung und Befristung mit Fokus auf Fristen, Form, Darlegungslast und verwertbare Prozess- oder Personalprodukte.
+Ordne Anträge, Beschäftigungsverhältnis und Prozessstand nach der Akte. Begründe den nächsten gerichtlichen Schritt oder entwirf die Entscheidung mit belegtem Parteivortrag und Beweisfragen.
 
-Pluginauftrag: Arbeitsgericht: Guetetermin Kammertermin Kündigungsschutzklage Zahlungsklage einstweilige Verfügung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -66,10 +68,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 02 Kündigungsschutzklage Prüfen: Bearbeite den Fachpunkt im Skill 02-kuendigungsschutzklage-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 03 Zahlungsklage Lohn und Gehalt: Bearbeite den Fachpunkt im Skill 03-zahlungsklage-lohn-und-gehalt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 05 Befristung und Teilzeit: Bearbeite den Fachpunkt im Skill 05-befristung-und-teilzeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 09 Urteil Arbeitsgericht: Bearbeite den Fachpunkt im Skill 09-urteil-arbeitsgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [02 Kündigungsschutzklage Prüfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-arbeitsgericht/skills/02-kuendigungsschutzklage-pruefen/SKILL.md)
+3.1.2. [03 Zahlungsklage Lohn und Gehalt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-arbeitsgericht/skills/03-zahlungsklage-lohn-und-gehalt/SKILL.md)
+3.1.3. [05 Befristung und Teilzeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-arbeitsgericht/skills/05-befristung-und-teilzeit/SKILL.md)
+3.1.4. [09 Urteil Arbeitsgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-arbeitsgericht/skills/09-urteil-arbeitsgericht/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1317,10 +1321,7 @@ Dieser Skill trennt im arbeitsgerichtlichen Streitstoff Klageantrag, Kündigungs
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

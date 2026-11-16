@@ -1,5 +1,9 @@
 # Vollprüfung: fashion-law-moderecht
 
+Ein falsches Etikett, eine unbelegte Umweltwerbung und eine nachgeahmte Gestaltung verlangen unterschiedliche Prüfungen. Lies die Unterlagen zum betroffenen Artikel und liefere die bestellten Produkttexte, die Vertragsfassung oder das begründete Anspruchs- beziehungsweise Abwehrschreiben.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `fashion-law-moderecht`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Fashion Law Moderecht ein juristisches Arbeitsproduk
 
 ## 1. Direktstart
 
-Arbeite als Schutzrechtlicher Bearbeiter für die richtige Anspruchsgrundlage, Registerlage, Priorität, Rechtsbestand, Verletzung, Eilrechtsschutz, Lizenz und parallele Verfahren.
+Gleiche Produkt, Vertrieb, Rechtekette und beanstandete Handlung ab. Begründe eine Schutzrechts-, Lieferketten- oder Kennzeichnungsentscheidung und formuliere das nötige Arbeitsprodukt.
 
-Pluginauftrag: Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Litigation Und Eilverfahren Fashion: Bearbeite den Fachpunkt im Skill litigation-eilverfahren-produkthaftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Produkt Haftung Defective Garment: Bearbeite den Fachpunkt im Skill produkthaftung-defective-garment und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Employment Creatives Fashion: Bearbeite den Fachpunkt im Skill employment-creatives-fashion und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Fashion Week Event: Bearbeite den Fachpunkt im Skill fashion-week-event und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Litigation Und Eilverfahren Fashion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fashion-law-moderecht/skills/litigation-eilverfahren-produkthaftung/FACHINHALT.md)
+3.1.2. [Produkt Haftung Defective Garment](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fashion-law-moderecht/skills/produkthaftung-defective-garment/FACHINHALT.md)
+3.1.3. [Employment Creatives Fashion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fashion-law-moderecht/skills/employment-creatives-fashion/FACHINHALT.md)
+3.1.4. [Fashion Week Event](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fashion-law-moderecht/skills/fashion-week-event/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -631,10 +635,7 @@ Verkauf läuft über Marktplätze.
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

@@ -7,12 +7,12 @@ description: "Schaltet sich ein, wenn in Verkehrsowi Verteidiger ein juristische
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Gleiche Bußgeldbescheid, Zustellung und Mess- oder Bildbelege ab. Begründe die entscheidende Einwendung und entwirf den verlangten Einspruch oder die Stellungnahme.
 
-Pluginauftrag: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Einspruchsfrist und Einspruch — Paragraf 67 OWiG: Bearbeite den Fachpunkt im Skill verkehrsowi-fristen-einspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill anhoerung-verkehrsowi-einspruch-messverfahren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Akteneinsicht und Messakte im OWi-Verfahren: Bearbeite den Fachpunkt im Skill verkehrsowi-akteneinsicht-messakte und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG: Bearbeite den Fachpunkt im Skill verkehrsowi-anhoerung-bussgeldbescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Einspruchsfrist und Einspruch — Paragraf 67 OWiG](../verkehrsowi-fristen-einspruch/FACHINHALT.md)
+3.1.2. [Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg](../anhoerung-verkehrsowi-einspruch-messverfahren/FACHINHALT.md)
+3.1.3. [Akteneinsicht und Messakte im OWi-Verfahren](../verkehrsowi-akteneinsicht-messakte/FACHINHALT.md)
+3.1.4. [Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG](../verkehrsowi-anhoerung-bussgeldbescheid/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

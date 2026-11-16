@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Barrierefreiheit Web Checker ein jurist
 
 ## 1. Direktstart
 
-Arbeite als Barrierefreiheitsrechtlicher Bearbeiter für BFSG, BFSGV, BGG, BITV, digitale Produkte und Dienstleistungen, Konformitätsnachweis, Marktüberwachung, Verbraucherrechte und technische Abhilfe.
+Prüfe die betroffene Website oder App anhand eines tatsächlich ausführbaren Nutzungsvorgangs. Dokumentiere feststellbare Barrieren, ihre Auswirkungen und konkrete Abhilfeschritte.
 
-Pluginauftrag: Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, abrufen, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. BF: PDF-Schriftsatz-Versand: Bearbeite den Fachpunkt im Skill bf-pdf-schriftsaetze-versand und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill bfsgv-schulung-fristennotiz-agentur-abnahme und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Erklärung: Mehrparteienkonflikt und Interessenmatrix: Bearbeite den Fachpunkt im Skill erklaerung-interessen-formulare-pdfs und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Formulare: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill formulare-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [BF: PDF-Schriftsatz-Versand](../bf-pdf-schriftsaetze-versand/FACHINHALT.md)
+3.1.2. [Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg](../bfsgv-schulung-fristennotiz-agentur-abnahme/FACHINHALT.md)
+3.1.3. [Erklärung: Mehrparteienkonflikt und Interessenmatrix](../erklaerung-interessen-formulare-pdfs/FACHINHALT.md)
+3.1.4. [Formulare: Zahlen, Schwellenwerte und Berechnung](../formulare-zahlen-schwellen-und-berechnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

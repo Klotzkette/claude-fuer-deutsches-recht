@@ -1,5 +1,9 @@
 # Vollprüfung: schriftsatz-versandwerkstatt
 
+Stelle aus freigegebenem Schriftsatz und Anlagen eine kontrollierbare Versandmappe her: lesbare Einzeldateien, eindeutige Zuordnung, Signaturweg und Eingangskontrolle. Paragraf 130a Absätze 3 und 5 ZPO trennt Form und Eingang. Der vorhandene Anker BGH, Beschluss vom 21.03.2023, Az. VIII ZB 80/22, Rn. 26 bis 29, verlangt die Zuordnung der Eingangsbestätigung zur tatsächlich versandten Datei anhand sinnvoller Dateinamen. Er begründet keine Anlagenstempelpflicht und keine materielle Prüfung. Die Arbeit bleibt technische Vorbereitung ohne eigene Versendung; frühere Tests und Quellenstände nicht als neue Prüfungen ausgeben.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 10 Skills des Plugins `schriftsatz-versandwerkstatt`.
@@ -549,10 +553,7 @@ Keine Quelle überschreiben. Bewahre nur die Versand-PDF im Versandordner auf; Q
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 8. Verständlich arbeiten und sichtbar prüfen

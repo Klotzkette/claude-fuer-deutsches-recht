@@ -1,5 +1,9 @@
 # Vollprüfung: selbstvertreter-amtsgericht
 
+Hilf der Partei, ihre Forderung oder Verteidigung rechtzeitig und nachvollziehbar vorzutragen, und liefere das bestellte Gerichtsschreiben. Paragraf 276 ZPO unterscheidet Verteidigungsanzeige und Klageerwiderung. Für einen Verhandlungswunsch im Verfahren nach Paragraf 495a ZPO dient BVerfG, Beschluss vom 02.03.2017, Az. 2 BvR 977/16, als vorhandener Anker: Auch die erkennbare Ablehnung einer Entscheidung nach Aktenlage kann ein Verhandlungsantrag sein. Fehlende Beweisangebote rechtfertigen nicht, ihn zu übergehen. Er ersetzt aber weder fristgebundene Erklärungen noch Sachbeweise. Bisherigen Quellenstand erhalten und nur das fallrelevante Argument in den Schriftsatz übernehmen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 90 Skills des Plugins `selbstvertreter-amtsgericht`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Selbstvertreter Amtsgericht ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+Lies gerichtliches Schreiben und vorhandene Belege. Erkläre in verständlichem Deutsch, welche Frist und nächste Handlung sich daraus ergeben, und formuliere den beauftragten Entwurf.
 
-Pluginauftrag: Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Eine Frist verlaengern: Antrag richtig stellen: Bearbeite den Fachpunkt im Skill fristverlaengerung-antrag-225-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Sie sind verklagt: Welche Fristen laufen?: Bearbeite den Fachpunkt im Skill klageerwiderung-fristen-274-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben: Bearbeite den Fachpunkt im Skill wiedereinsetzung-frist-233-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Den Klageantrag richtig formulieren: Bearbeite den Fachpunkt im Skill klageschrift-antrag-bestimmt-formulieren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Eine Frist verlaengern: Antrag richtig stellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-amtsgericht/skills/fristverlaengerung-antrag-225-zpo/FACHINHALT.md)
+3.1.2. [Sie sind verklagt: Welche Fristen laufen?](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-amtsgericht/skills/klageerwiderung-fristen-274-zpo/FACHINHALT.md)
+3.1.3. [Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-amtsgericht/skills/wiedereinsetzung-frist-233-zpo/FACHINHALT.md)
+3.1.4. [Den Klageantrag richtig formulieren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-amtsgericht/skills/klageschrift-antrag-bestimmt-formulieren/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1321,10 +1325,7 @@ Stand: 05/2026. Praxis-Standard bundesweit ueblich. Die Beschriftung K1, K2 (Kl�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

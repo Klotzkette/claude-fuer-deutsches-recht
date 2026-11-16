@@ -3,21 +3,19 @@ name: juristischer-argumentationskern
 description: "Schaltet sich ein, wenn in Steuerrecht Anwalt Und Berater ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
 ---
 
-# Juristischer Argumentationskern - Steuerrecht Anwalt Und Berater
+# Steuerrecht: den Antrag oder die Berechnung begründen
 
 ## 1. Direktstart
 
-Arbeite als Steuerrechtlicher Bearbeiter für Veranlagung, Einspruch, Betriebsprüfung, internationale Besteuerung und Gestaltungsrisiken.
+Gleiche Erklärung, Prüfungsrechnung und Bescheid ab. Lege offen, welcher Betrag, welche Feststellung oder welche Abgabepflicht sich ändern soll. Erstelle den beauftragten Einspruch, die finanzgerichtliche Klage, die Gegenrechnung oder den steuerlichen Vermerk.
 
-Pluginauftrag: Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1. Lies zuerst Bescheid und Zugangsnachweis, die zugehörige Erklärung sowie die Belege für die strittigen Rechenpositionen. Kläre Steuerart, Zeitraum und Verfahrensstand. Bei Fristgefahr den Sicherungsentwurf zuerst erstellen.
+2. Wähle den Fachweg nach dem konkreten Streitpunkt. Vergleiche bei einer Schätzung die Daten der Finanzbehörde mit der betrieblichen Gegenrechnung. Der BFH verlangt, die Möglichkeit eines inneren Betriebsvergleichs erkennbar zu erwägen. Schätzungsbefugnis und Höhe separat prüfen. [BFH, Urteil vom 15.04.2026, X R 14/24, Rn. 19–33](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/).
+3. Benenne die entscheidende Lücke und bearbeite den belegbaren Teil weiter. Nach neuer Auskunft die jeweilige Rechenposition, die Begründung und den Antrag im selben Dokument fortschreiben. Trenne Beleg, Rechtsquelle und Schlussfolgerung.
 
 ## 2. Die tragende These
 
-Formuliere das Ergebnis für Steuerrecht Anwalt Und Berater in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage.
+Nenne Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Ein Einspruch greift den bestimmten Bescheid an. Eine Gegenkalkulation vor Bescheiderlass beantwortet die Prüfungsrechnung.
 
 Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
@@ -42,10 +40,9 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. GrESt: Bescheid, Einspruch, AdV und Paragraf 16: Bearbeite den Fachpunkt im Skill grest-bescheid-einspruch-adv-16 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO: Bearbeite den Fachpunkt im Skill haftungsbescheid-69-191-ao und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht): Bearbeite den Fachpunkt im Skill haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO: Bearbeite den Fachpunkt im Skill finanzgerichtsklage-78-fgo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+- Grunderwerbsteuer, Haftung oder Klage: Öffne [Bescheid und Rechtsbehelf](../bescheid-rechtsbehelf-haftung-bearbeiten/SKILL.md) und daraus die jeweils passende Vertiefung. Ordne Bescheid, Verfahrensstufe, Antrag und Frist zu.
+- Krise oder Umstrukturierung: Öffne [Unternehmen, Umstrukturierung und Sanierung](../unternehmen-umstrukturierung-sanierung-bearbeiten/SKILL.md). Gleiche Beteiligungskette, Stichtage und die Berechnung pro Rechtsträger ab.
+- Außenprüfung: Öffne [Hinzuschätzung und Gegenkalkulation](../hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md). Weise jede geänderte Annahme mit Beleg und Auswirkung aus.
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -68,8 +65,8 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
-5.2. BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
+5.1. [BFH, Urteil vom 04.11.2021, VI R 22/19, Rn. 16–19 und 22–28](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210043/): Bei konzerninterner Entsendung tatsächliche Kostentragung, Einsatzinteresse, Eingliederung und Weisungen prüfen. Die gezahlte Monatspauschale lässt für sich keine sichere Zuordnung des Arbeitslohns zu. Der BFH verwies den Haftungsfall zurück.
+5.2. [BVerfG, Beschluss vom 08.07.2021, 1 BvR 2237/14 und 1 BvR 2422/17, Tenor](https://www.bundesverfassungsgericht.de/e/rs20210708_1bvr223714.html): Bei der Vollverzinsung nach Paragraf 233a AO Zinszeiträume trennen. Die damals unvereinbare Regelung blieb von 2014 bis Ende 2018 anwendbar. Ab 2019 die gesetzliche Neuregelung und die Bestandskraft des Bescheids prüfen.
 5.3. BFH, Urteil vom 25.06.2025, XI R 17/22: Der erstmalige Umsatzsteuerausweis in einer berichtigten Eingangsrechnung ermöglicht keinen rückwirkenden Vorsteuerabzug. Von der Berichtigung einer bereits rückwirkungsfähigen Rechnung unterscheiden. [Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520301/).
 5.4. EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
 
@@ -79,6 +76,8 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 [BFH, Urteil vom 18.06.2025 – X R 19/21](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/), Rn. 48–63: Mit zumutbarem Aufwand zuverlässigere Schätzung wählen; eigene Betriebsdaten und Nachkalkulation prüfen. Kein Methodenwahlrecht des Steuerpflichtigen, keine zwingende zweite Kontrollrechnung; alte Prüfungsjahre 2013/2014.
 
 [BFH, Urteil vom 15.04.2026 – X R 14/24](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/), Rn. 28–33: Fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs ist Methodenfehler. Schätzungsbefugnis bleibt; Hinweise für zweiten Rechtsgang ohne Bindungswirkung, keine Nullzuschätzung.
+
+[BFH, Urteil vom 02.09.2026, IV R 10/24, Rn. 38–50](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610208/): Beim Formwechsel einer Kapitalgesellschaft in eine Personengesellschaft das übernommene positive steuerbilanzielle Eigenkapital für Paragraf 4 Absatz 4a Satz 2 EStG als Einlage in die Überentnahmerechnung aufnehmen. Die steuerliche Rechnung ändert die zivilrechtliche Identität des formwechselnden Rechtsträgers nicht.
 
 ## 6. Beweislast und Gegenangriff
 

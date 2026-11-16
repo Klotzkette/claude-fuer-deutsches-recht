@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Verhältnismäßigkeitsprüfer ein juri
 
 ## 1. Direktstart
 
-Arbeite als Verfassungsrechtlicher Bearbeiter für Grundrechte, Staatsorganisationsrecht, Verfassungsbeschwerde, Normenkontrolle und Verhältnismäßigkeit.
+Bestimme den konkreten Eingriff, sein belegtes Ziel und praktisch verfügbare Alternativen. Begründe Geeignetheit, Erforderlichkeit und Angemessenheit anhand von Tatsachen und Folgen.
 
-Pluginauftrag: 85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Suedafrika/Kanada/EGMR/EuGH/USA und 12 europäische Ordnungen; mit Alexy, Schnellprüfung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Absolute Grenze: Wesensgehalt Art 19 II GG: Bearbeite den Fachpunkt im Skill absolute-grenze-wesensgehalt-art-19-ii-gg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Apotheken Urteil BVerfGE 7 377: Bearbeite den Fachpunkt im Skill apotheken-urteil-bverfge-7-377 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Bundesnotbremse BVerfGE 159 223: Bearbeite den Fachpunkt im Skill bundesnotbremse-bverfge-159-223 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich: Bearbeite den Fachpunkt im Skill eigentum-art-14-inhalts-schranken-enteignung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Absolute Grenze: Wesensgehalt Art 19 II GG](../absolute-grenze-wesensgehalt-art-19-ii-gg/FACHINHALT.md)
+3.1.2. [Apotheken Urteil BVerfGE 7 377](../apotheken-urteil-bverfge-7-377/FACHINHALT.md)
+3.1.3. [Bundesnotbremse BVerfGE 159 223](../bundesnotbremse-bverfge-159-223/FACHINHALT.md)
+3.1.4. [Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich](../eigentum-art-14-inhalts-schranken-enteignung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

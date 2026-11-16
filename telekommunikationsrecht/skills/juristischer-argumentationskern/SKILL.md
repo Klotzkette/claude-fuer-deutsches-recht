@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Telekommunikationsrecht ein juristische
 
 ## 1. Direktstart
 
-Arbeite als Telekommunikationsrechtlicher Bearbeiter für Netze, Dienste, Endnutzerverträge, Anbieterwechsel, Minderungs- und Entschädigungsrechte, Nummerierung, Frequenzen, Sicherheit und Bundesnetzagenturverfahren.
+Gleiche Vertrag, Anschlusstechnik, Störungsprotokoll und Schriftwechsel ab. Begründe die beauftragte Beschwerde, Entgeltprüfung, Anforderung oder Stellungnahme zur Netzregulierung.
 
-Pluginauftrag: Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme: Bearbeite den Fachpunkt im Skill output-beschwerde-antrag-klage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Abmahnung nach UWG/TKG: Bearbeite den Fachpunkt im Skill abmahnung-tk-anbieterwechsel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. BNetzA-Beschwerde-Dashboard: Bearbeite den Fachpunkt im Skill beschwerde-tk-beweisplan und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Mindestlaufzeit, Verlängerung, Kündigung: Bearbeite den Fachpunkt im Skill mindestvertragslaufzeit-tk-umzug und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme](../output-beschwerde-antrag-klage/FACHINHALT.md)
+3.1.2. [Abmahnung nach UWG/TKG](../abmahnung-tk-anbieterwechsel/FACHINHALT.md)
+3.1.3. [BNetzA-Beschwerde-Dashboard](../beschwerde-tk-beweisplan/FACHINHALT.md)
+3.1.4. [Mindestlaufzeit, Verlängerung, Kündigung](../mindestvertragslaufzeit-tk-umzug/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

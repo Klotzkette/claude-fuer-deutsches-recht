@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Nda Verschwiegenheit Generator Checker 
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Bestimme Informationsfluss, Zweck, Parteien und tatsächliche Schutzbedürfnisse. Formuliere oder prüfe die Vereinbarung und liefere vollständige Ersatzklauseln für belegte Risiken.
 
-Pluginauftrag: Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum und Verletzungsreaktion.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Vertragsstrafe Hamburger Brauch: Bearbeite den Fachpunkt im Skill vertragsstrafe-hamburger-haftungsbegrenzung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Abmahnung Und Cease Desist: Bearbeite den Fachpunkt im Skill abmahnung-und-cease-desist und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Catch All Klausel Arbeitsvertrag: Bearbeite den Fachpunkt im Skill catch-all-klausel-arbeitsvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Haftungsbegrenzung Und Carve Outs: Bearbeite den Fachpunkt im Skill haftungsbegrenzung-und-carve-outs und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Vertragsstrafe Hamburger Brauch](../vertragsstrafe-hamburger-haftungsbegrenzung/FACHINHALT.md)
+3.1.2. [Abmahnung Und Cease Desist](../abmahnung-und-cease-desist/FACHINHALT.md)
+3.1.3. [Catch All Klausel Arbeitsvertrag](../catch-all-klausel-arbeitsvertrag/FACHINHALT.md)
+3.1.4. [Haftungsbegrenzung Und Carve Outs](../haftungsbegrenzung-und-carve-outs/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

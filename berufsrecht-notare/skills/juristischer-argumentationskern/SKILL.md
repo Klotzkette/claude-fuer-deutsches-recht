@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Berufsrecht Notare ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Ordne den Amtspflichtenfall anhand von Urkunde, Beteiligten, Verfahrensstand und Verwahrung. Formuliere die begründete Entscheidung oder die nötigen Schritte gegenüber Aufsicht oder Beteiligten.
 
-Pluginauftrag: Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter, Disziplinarverfahren und notarielle Berufspraxis.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Beschwerdemanagement: Bearbeite den Fachpunkt im Skill beschwerdemanagement und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: Bearbeite den Fachpunkt im Skill dienstaufsicht-beschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Notare: dienstaufsicht beschwerde - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Bearbeite den Fachpunkt im Skill dienstaufsicht-beschwerde-kammerantwort-und-verfahrensst und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Notare: dienstaufsicht beschwerde - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Bearbeite den Fachpunkt im Skill dienstaufsicht-beschwerde-organisationspflicht-und-praev und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Beschwerdemanagement](../beschwerdemanagement/FACHINHALT.md)
+3.1.2. [Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur](../dienstaufsicht-beschwerde/FACHINHALT.md)
+3.1.3. [Notare: dienstaufsicht beschwerde - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan](../dienstaufsicht-beschwerde-kammerantwort-und-verfahrensst/FACHINHALT.md)
+3.1.4. [Notare: dienstaufsicht beschwerde - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle](../dienstaufsicht-beschwerde-organisationspflicht-und-praev/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

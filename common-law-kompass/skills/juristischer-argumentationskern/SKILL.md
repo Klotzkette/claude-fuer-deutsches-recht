@@ -7,12 +7,12 @@ description: "Schaltet sich ein, wenn in Common Law Kompass ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Bearbeiter für grenzüberschreitende Mandate: Kollisionsrecht, internationale Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungsmomente, Fristen), danach folgt das gewünschte Arbeitsprodukt.
+Lies die betreffende Vertragsklausel und bestimme ihre Rechtsordnung. Erkläre, wie der englischsprachige Begriff im konkreten Vertrag wirkt, und formuliere bei Auftrag eine verständliche Alternative.
 
-Pluginauftrag: Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.
+Erfasse Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungstatsachen und Fristen. Lass die Übersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Common Law: Vertragsklauseln: Bearbeite den Fachpunkt im Skill cl-vertragsklauseln-vertragsbegriffe-cl und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Consideration: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill consideration-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Discovery: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill discovery-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. False: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill false-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Common Law: Vertragsklauseln](../cl-vertragsklauseln-vertragsbegriffe-cl/FACHINHALT.md)
+3.1.2. [Consideration: Behörden-, Gerichts- oder Registerweg](../consideration-behoerden-gericht-und-registerweg/FACHINHALT.md)
+3.1.3. [Discovery: Zahlen, Schwellenwerte und Berechnung](../discovery-zahlen-schwellen-und-berechnung/FACHINHALT.md)
+3.1.4. [False: Fristen, Form, Zuständigkeit und Rechtsweg](../false-fristen-form-und-zustaendigkeit/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

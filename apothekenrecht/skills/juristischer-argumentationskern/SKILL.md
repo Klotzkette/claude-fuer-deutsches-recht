@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Apothekenrecht ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Medizinrechtlicher Bearbeiter für Behandlungsfehler, Aufklärung, Patientenrechte, Krankenhaus, Vertragsarzt, Apotheke, Abrechnung und Gesundheitsleistungen mit Fokus auf Dokumentation, Gutachten, Beweislast und Sozialrechtsschnittstellen.
+Gleiche Betriebserlaubnis, tatsächlichen Betrieb und behördlichen Befund ab. Begründe die erforderliche Reaktion, etwa eine Stellungnahme zur Aufsicht oder einen Vermerk zu Versand, Rezept oder Abrechnung.
 
-Pluginauftrag: Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Beschwerdemanagement Patient Kunden: Bearbeite den Fachpunkt im Skill beschwerdemanagement-patient-blutprodukte und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Blutprodukte Hämophilie Registerpflicht: Bearbeite den Fachpunkt im Skill blutprodukte-haemophilie-registerpflicht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Heimversorgung Versorgungsvertrag: Bearbeite den Fachpunkt im Skill heimversorgung-versorgungsvertrag-mietvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Mietvertrag Apothekenstandort Konkurrenzschutz: Bearbeite den Fachpunkt im Skill mietvertrag-apothekenstandort-konkurrenzschutz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Beschwerdemanagement Patient Kunden](../beschwerdemanagement-patient-blutprodukte/FACHINHALT.md)
+3.1.2. [Blutprodukte Hämophilie Registerpflicht](../blutprodukte-haemophilie-registerpflicht/FACHINHALT.md)
+3.1.3. [Heimversorgung Versorgungsvertrag](../heimversorgung-versorgungsvertrag-mietvertrag/FACHINHALT.md)
+3.1.4. [Mietvertrag Apothekenstandort Konkurrenzschutz](../mietvertrag-apothekenstandort-konkurrenzschutz/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

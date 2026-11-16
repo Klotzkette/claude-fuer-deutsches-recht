@@ -1,5 +1,9 @@
 # Vollprüfung: insolvenzverwaltung
 
+Prüfe Massebestand, Drittrechte und Verpflichtungen im Rahmen der tatsächlich übertragenen Befugnisse. Der gerichtliche Beschluss entscheidet, welche Sicherung, Einziehung, Vertragsmaßnahme oder Zahlung vorbereitet werden darf. Liefere den bestellten Bericht, Zahlungsvorschlag, Vertrag oder Brief, ohne jede Verwaltungsakte zur neuen Insolvenzreifeprüfung zu machen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 53 Skills des Plugins `insolvenzverwaltung`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Insolvenzverwaltung ein juristisches Arbeitsprodukt 
 
 ## 1. Direktstart
 
-Arbeite als Insolvenzrechtlicher Bearbeiter für Krisenfrüherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung.
+Bestimme Verfahrensphase, Masse, Gläubigerpositionen und offene Gerichtstermine. Erstelle den beauftragten Bericht, Antrag oder Vermerk mit belegten Beträgen und Entscheidungen.
 
-Pluginauftrag: Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, Paragraf 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Zahlungsklagen nach Paragraf 15b InsO: Bearbeite den Fachpunkt im Skill zahlungsklagen-insolvenzverwaltungs und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill insolvenzverwalter-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. IV-integrierte Datenraum und Dokumentenregister: Bearbeite den Fachpunkt im Skill plan-datenraum-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel: Bearbeite den Fachpunkt im Skill insolvenzverwaltungs-erstpruefung-und-mandatsziel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Zahlungsklagen nach Paragraf 15b InsO](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzverwaltung/skills/zahlungsklagen-insolvenzverwaltungs/FACHINHALT.md)
+3.1.2. [Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzverwaltung/skills/insolvenzverwalter-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.3. [IV-integrierte Datenraum und Dokumentenregister](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzverwaltung/skills/plan-datenraum-register/FACHINHALT.md)
+3.1.4. [Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzverwaltung/skills/insolvenzverwaltungs-erstpruefung-und-mandatsziel/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1507,10 +1511,7 @@ Erstelle ein Register mit:
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

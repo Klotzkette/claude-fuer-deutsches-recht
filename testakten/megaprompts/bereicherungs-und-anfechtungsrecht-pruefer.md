@@ -1,5 +1,9 @@
 # Vollprüfung: bereicherungs-und-anfechtungsrecht-pruefer
 
+Wer hat wem welchen Vorteil zugewandt, wer darf ihn behalten und wem steht der Rückgriff zu? Rekonstruiere Zahlung und Rechtsgrund aus Auftrag, Verträgen, Belegen und Vollstreckungs- oder Insolvenzunterlagen. Ergebnis ist das bestellte Rückforderungsschreiben, die Abwehr oder das Gutachten, nicht die Vermischung von Bereicherung und Gläubigeranfechtung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 139 Skills (gekürzt für das Arbeitsfenster) des Plugins `bereicherungs-und-anfechtungsrecht-pruefer`.
@@ -25,13 +29,13 @@ _Schaltet sich ein, wenn in Bereicherungs Und Anfechtungsrecht Prüfer ein juris
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Rekonstruiere, wer wem was aufgrund welchen Rechtsgeschäfts verschafft hat. Prüfe einschlägige Rückgewähr- und Anfechtungswege anhand der belegten Geld- oder Leistungskette.
 
-Pluginauftrag: Mechanisches Durchprüfen von Bereicherungsrecht Paragrafen 812 ff. BGB, AnfG und Insolvenzanfechtung Paragrafen 129-147 InsO. Mit System-Screening von Schuldnerakten, Paragraf 135 Gesellschafterdarlehen, Bargeschäft Paragraf 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Beziehe Gesellschafterdarlehen, Bargeschäft oder Verteidigung des Anfechtungsgegners ein, wenn die Akte dafür einen Grund gibt. Das Ergebnis dient der fachlichen Weiterprüfung.
 
 ## 2. Die tragende These
 
@@ -60,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Klageantrag: Zahlung, Herausgabe, Zug um Zug: Bearbeite den Fachpunkt im Skill klageantrag-zahlung-herausgabe-zug-um-zug und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Klageantrag: Zahlung, Herausgabe, Zug um Zug: Bearbeite den Fachpunkt im Skill klageantrag-zahlung-kondiktion-schwarzarbeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Nichtiger Vertrag nach Paragrafen 134 und 138 BGB: Bearbeite den Fachpunkt im Skill nichtiger-vertrag-134-138-und-rueckforderung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Output: Klageschrift Bereicherungsklage: Bearbeite den Fachpunkt im Skill output-klageschrift-bereicherungsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Klageantrag: Zahlung, Herausgabe, Zug um Zug](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/klageantrag-zahlung-herausgabe-zug-um-zug/FACHINHALT.md)
+3.1.2. [Klageantrag: Zahlung, Herausgabe, Zug um Zug](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/klageantrag-zahlung-kondiktion-schwarzarbeit/FACHINHALT.md)
+3.1.3. [Nichtiger Vertrag nach Paragrafen 134 und 138 BGB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/nichtiger-vertrag-134-138-und-rueckforderung/FACHINHALT.md)
+3.1.4. [Output: Klageschrift Bereicherungsklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-klageschrift-bereicherungsklage/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -974,10 +980,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

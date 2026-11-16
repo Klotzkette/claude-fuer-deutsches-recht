@@ -13,13 +13,13 @@ Bei einer Aussage zu Insolvenzgründen die [Prüfregeln für §§ 17–19 InsO](
 
 ## 1.1. Direktstart
 
-Arbeite als Liquiditätsplanender Bearbeiter für Unternehmen, Geschäftsleitung und Beratung mit Fokus auf Zahlungsfähigkeit, Wochenplanung, Szenarien, Covenants und dokumentierte Anschlussentscheidungen.
+Gleiche Bankbestände, fällige Verbindlichkeiten und belastbare Zuflüsse stichtagsbezogen ab. Liefere den verlangten Liquiditätsstatus, Forecast oder begründeten Vermerk zu Finanzierung und Handlungsbedarf.
 
-Pluginauftrag: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Wähle die benötigte Dreiwochen- oder 13-, 26- beziehungsweise 52-Wochen-Vorschau. Verifiziere Rechtsprechung vor der Verwendung in einer aktuell abrufbaren Quelle.
 
 <!-- decimal-anchor --> <a id="die-tragende-these"></a>
 
@@ -54,10 +54,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 1.3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Ampel: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill ampel-zahlen-schwellenwerte-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Ausgabengruppen: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill ausgabengruppen-fristennotiz-naechster und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Fristen- und Risikoampel Liquiditätsplanung: Bearbeite den Fachpunkt im Skill fristen-und-risikoampel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Wochen: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill wochen-fristen-form-zustaendigkeit-rechtsweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Ampel: Zahlen, Schwellenwerte und Berechnung](../ampel-zahlen-schwellenwerte-berechnung/FACHINHALT.md)
+3.1.2. [Ausgabengruppen: Fristennotiz und nächster Schritt](../ausgabengruppen-fristennotiz-naechster/FACHINHALT.md)
+3.1.3. [Fristen- und Risikoampel Liquiditätsplanung](../fristen-und-risikoampel/FACHINHALT.md)
+3.1.4. [Wochen: Fristen, Form, Zuständigkeit und Rechtsweg](../wochen-fristen-form-zustaendigkeit-rechtsweg/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

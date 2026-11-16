@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Email Umformulierer Berufsrecht ein jur
 
 ## 1. Direktstart
 
-Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+Lies die E-Mail und den erforderlichen Sachzusammenhang. Formuliere die Nachricht sachlich und höflich, erhalte die gewünschte Rechtsposition und markiere unbelegte Vorwürfe für die Rücksprache.
 
-Pluginauftrag: Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformität, mit Varianten für Steuerberater, Notare und allgemeine berufliche Korrespondenz.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill email-berufsrecht-emotionale-fristen-form-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Höfliche: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill email-berufsrecht-hoefliche-behoerden-gerichts-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Berufliche: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill berufliche-fristennotiz-emotionale und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg](../email-berufsrecht-emotionale-fristen-form-zustaendigkeit/FACHINHALT.md)
+3.1.2. [Höfliche: Behörden-, Gerichts- oder Registerweg](../email-berufsrecht-hoefliche-behoerden-gerichts-registerweg/FACHINHALT.md)
+3.1.3. [Sachliche: Schriftsatz-, Brief- und Memo-Bausteine](../email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine/FACHINHALT.md)
+3.1.4. [Berufliche: Fristennotiz und nächster Schritt](../berufliche-fristennotiz-emotionale/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

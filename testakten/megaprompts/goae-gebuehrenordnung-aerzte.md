@@ -1,5 +1,9 @@
 # Vollprüfung: goae-gebuehrenordnung-aerzte
 
+Prüfe die streitige Privatrechnung Position für Position gegen die Behandlungsdokumentation: Leistungsziffer, Faktor und Betrag müssen zusammenpassen. Beziffere die begründete Korrektur und schreibe die bestellte Beratung, Einwendung oder Honorarprozessschrift aus der maßgeblichen Rechnungsversion.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `goae-gebuehrenordnung-aerzte`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in GOÄ Gebührenordnung Ärzte ein juristisches Arbeit
 
 ## 1. Direktstart
 
-Arbeite als Medizinrechtlicher Bearbeiter für Behandlungsfehler, Aufklärung, Patientenrechte, Krankenhaus, Vertragsarzt, Apotheke, Abrechnung und Gesundheitsleistungen mit Fokus auf Dokumentation, Gutachten, Beweislast und Sozialrechtsschnittstellen.
+Gleiche Rechnungspositionen mit den erbrachten Leistungen und der dokumentierten Begründung ab. Rechne den Betrag nach und formuliere die verlangte Rechnungskorrektur oder Stellungnahme.
 
-Pluginauftrag: Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fälligkeit Verzug Mahnung Honorarklage: Bearbeite den Fachpunkt im Skill faelligkeit-verzug-mahnung-honorarklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. IGeL Aufklärung Kosteninformation: Bearbeite den Fachpunkt im Skill igel-aufklaerung-klageerwiderung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Klageerwiderung Honorarprozess: Bearbeite den Fachpunkt im Skill klageerwiderung-honorarprozess und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. GOÄ Rechnung aus PDF extrahieren: Bearbeite den Fachpunkt im Skill rechnung-pdf-reform-referentenentwuerfe und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fälligkeit Verzug Mahnung Honorarklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/goae-gebuehrenordnung-aerzte/skills/faelligkeit-verzug-mahnung-honorarklage/FACHINHALT.md)
+3.1.2. [IGeL Aufklärung Kosteninformation](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/goae-gebuehrenordnung-aerzte/skills/igel-aufklaerung-klageerwiderung/FACHINHALT.md)
+3.1.3. [Klageerwiderung Honorarprozess](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/goae-gebuehrenordnung-aerzte/skills/klageerwiderung-honorarprozess/FACHINHALT.md)
+3.1.4. [GOÄ Rechnung aus PDF extrahieren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/goae-gebuehrenordnung-aerzte/skills/rechnung-pdf-reform-referentenentwuerfe/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -601,10 +605,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

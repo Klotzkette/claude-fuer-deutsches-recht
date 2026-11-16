@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Anlagen Zu Schriftsätzen ein juristisc
 
 ## 1. Direktstart
 
-Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+Gleiche sämtliche Anlagenverweise mit den Dateien ab, die tatsächlich vorliegen. Erstelle das richtige Anlagenverzeichnis und, soweit technisch möglich, die geprüfte Versandmappe.
 
-Pluginauftrag: Gerichtsprozess-Dokumentenproduktion bis zur beA-fertigen Versandmappe: liest Schriftsatz und Anlagenordner, führt K/B/AST/AG fort, konvertiert und stempelt jede PDF-Seite, prüft ERVV, Signatur, Dateinamen, Empfaenger und Eingang und liefert Verzeichnis, Manifest und Freigabevermerk.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Anlagen bei Eilantrag und Arrest: Bearbeite den Fachpunkt im Skill anlagen-bei-eilantrag-eu-arrest und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Anlagen in Berufung/Revision: Bearbeite den Fachpunkt im Skill anlagen-berufung-revision-eilantrag-eu-bilder und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Anlagen für beA-Versand: Bearbeite den Fachpunkt im Skill anlagen-fuer-bea-versand und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Portal, beA und Einreichungslogik: Bearbeite den Fachpunkt im Skill anlagen-portal-bea-einreichungslogik und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Anlagen bei Eilantrag und Arrest](../anlagen-bei-eilantrag-eu-arrest/FACHINHALT.md)
+3.1.2. [Anlagen in Berufung/Revision](../anlagen-berufung-revision-eilantrag-eu-bilder/FACHINHALT.md)
+3.1.3. [Anlagen für beA-Versand](../anlagen-fuer-bea-versand/FACHINHALT.md)
+3.1.4. [Portal, beA und Einreichungslogik](../anlagen-portal-bea-einreichungslogik/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

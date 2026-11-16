@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Verlagsrecht Buchpreisbindung ein juris
 
 ## 1. Direktstart
 
-Arbeite als Urheberrechtlicher Bearbeiter für Werk, Rechtekette, Lizenz, Nutzung, Schranken, Plattformen, Abmahnung und Unterlassung.
+Gleiche Verlagsvertrag, Werk, Preisfestsetzung und beanstandeten Vertrieb ab. Begründe die Entscheidung zu Rechten, Buchpreisbindung oder Vermarktung und formuliere den bestellten Entwurf.
 
-Pluginauftrag: Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Verlagsrecht: Abmahnung Buchpreisbindung: Bearbeite den Fachpunkt im Skill verl-041-abmahnung-buchpreisbindung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Verl-041 · Abmahnung Buchpreisbindung: Bearbeite den Fachpunkt im Skill abmahnung-buchpreisbindung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf: Bearbeite den Fachpunkt im Skill verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Verlagsrecht: Redaktionsvertrag Freelancer und Arbeitnehmer: Bearbeite den Fachpunkt im Skill verl-023-redaktionsvertrag-freelancer-und-arbeitnehmer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Verlagsrecht: Abmahnung Buchpreisbindung](../verl-041-abmahnung-buchpreisbindung/FACHINHALT.md)
+3.1.2. [Verl-041 · Abmahnung Buchpreisbindung](../abmahnung-buchpreisbindung/FACHINHALT.md)
+3.1.3. [Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf](../verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung/FACHINHALT.md)
+3.1.4. [Verlagsrecht: Redaktionsvertrag Freelancer und Arbeitnehmer](../verl-023-redaktionsvertrag-freelancer-und-arbeitnehmer/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

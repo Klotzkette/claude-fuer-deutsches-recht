@@ -48,14 +48,6 @@ WORKSHOP_EXECUTION = (
     "aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche "
     "Dateierzeugung behaupten, die nicht stattgefunden hat."
 )
-WERKSTATT_TEMPO_BLOCK = [
-    "### 1.1. Arbeitsmodus: schnell und belastbar",
-    "",
-    "Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
-    "",
-    "Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.",
-    "",
-]
 EILSACHE_LABEL = {
     "arbeits": "Kündigung, Befristungsende oder Massenentlassung",
     "hr": "Personalmaßnahme mit laufender Anhörungsfrist",
@@ -130,82 +122,45 @@ def workflow_family(profile: ThemenProfil) -> str:
 
 
 def werkstatt_tempo_block(profile: ThemenProfil) -> list[str]:
-    """Gibt dem gemeinsamen Tempogerüst die Sprache der konkreten Arbeitswelt."""
+    """Beginnt beim Auftrag und führt Antworten in das Arbeitsprodukt zurück."""
 
-    family = workflow_family(profile)
-    if family == "source":
-        first = (
-            "Ohne konkreten Ausgabeauftrag beginne mit einem Quellen-Sofortbild in höchstens fünf Sätzen: Erkenntnisziel, "
-            "vorliegende Textzeugen, maßgebliche Fassung, stärkster Quellenbeleg und nächste "
-            "Darstellungsform. Lies vorhandene Editionen, Übersetzungen und Sekundärquellen "
-            "zuerst; frage nur nach, wenn Datierung, Textstufe, Rechtsraum oder Übersetzung "
-            "sonst offenbleiben."
-        )
-        second = (
-            "Arbeite danach in drei Ebenen: Quellenbefund, konkurrierende Lesart und historische "
-            "Einordnung. Keine moderne Rückprojektion und keine Abfragekaskade; jede Aussage "
-            "nennt Textstelle, Fassung und Verlässlichkeitsgrad und endet mit Quellenkarte, "
-            "Synopse, Epochenmemo oder Rezeptionsbefund."
-        )
-    elif family == "research":
-        first = (
-            "Ohne konkreten Ausgabeauftrag beginne mit einem Arbeitsbild in höchstens fünf Sätzen: konkrete Frage, vorhandenes "
-            "Material, Bewertungsmaßstab, stärkster Beleg und nächstes Teilprodukt. Werte Dateien "
-            "und Quellen zuerst aus; frage nur nach, wenn Aufgabenstellung, Stichtag, Maßstab oder "
-            "gewünschte Darstellungsform sonst unklar bleiben."
-        )
-        second = (
-            "Arbeite danach in drei Ebenen: Befund, Gegenhypothese und ausformuliertes Produkt. "
-            "Keine Vorrede und keine Stoffinventur; jede Station endet mit Prüfungssatz, "
-            "Quellenbeleg, Rechenschritt, Textbaustein oder klar begrenzter Nachforderung."
-        )
-    elif family == "production":
-        first = (
-            "Ohne konkreten Ausgabeauftrag beginne mit einem Produktionsbild in höchstens fünf Sätzen: Empfänger, vorhandene "
-            "Dateien, maßgebliche Fassung, Freigabeengpass und nächstes fertiges Dokument. Lies "
-            "den Ordner zuerst; frage nur nach, wenn Version, Anlagenbestand, Signatur, Termin oder "
-            "Ausgabeformat sonst nicht sicher feststehen."
-        )
-        second = (
-            "Arbeite danach in drei Ebenen: Eingangsmaterial, Qualitätskontrolle und "
-            "Ausgabepaket. Keine Vorrede und keine Inventarliste ohne Folgerung; jede Station "
-            "endet mit korrigierter Datei, Register, Freigabefassung, Versandpaket oder präziser "
-            "Fehlteilliste."
-        )
-    elif family == "drafting":
-        first = (
-            "Ohne konkreten Ausgabeauftrag beginne mit einem Transaktions- oder Entwurfsbild in höchstens fünf Sätzen: "
-            "Geschäftsziel, Parteien und Rollen, maßgeblicher Dokumentstand, kritischster "
-            "Vollzugspunkt und nächster Entwurf. Lies Datenraum und Fassungen zuerst; frage nur "
-            "nach, wenn Risikozuweisung, Kompetenz, Termin oder wirtschaftlicher Parameter kippt."
-        )
-        second = (
-            "Arbeite danach in drei Ebenen: Deal- oder Regelungskern, Gegenposition und "
-            "vollzugsfähiger Text. Keine Vorrede und keine abstrakte Checkliste; jede Station "
-            "endet mit Klausel, Redline, Beschluss, Berechnung, Closing-Schritt oder konkreter "
-            "Entscheidungsvorlage."
-        )
-    elif family == "decision":
-        first = (
-            "Ohne konkreten Ausgabeauftrag beginne mit einem Entscheidungsbild in höchstens fünf Sätzen: Streitgegenstand, "
-            "Verfahrensstand, Frist, entscheidungstragender Aktenfund und nächste richterliche "
-            "oder prozessuale Handlung. Lies die Akte zuerst; frage nur nach, wenn Antrag, "
-            "Zuständigkeit, Entscheidungsreife oder Beweiserhebung sonst nicht bestimmbar sind."
-        )
-        second = (
-            "Arbeite danach in drei Ebenen: Parteivortrag und Verfahrenslage, Beweis- und "
-            "Rechtsprüfung, förmliches Entscheidungsprodukt. Keine Vorrede und keine "
-            "Akteninventur; jede Station endet mit Verfügung, Hinweis, Beweisbeschluss, Tenor, "
-            "Urteilsbaustein oder klarer Aufklärungsmaßnahme."
-        )
-    else:
-        return list(WERKSTATT_TEMPO_BLOCK)
+    completion = {
+        "source": (
+            "Ordne tragende Textstellen nach Fassung und Datierung. Stelle die stärkste Gegenlesart "
+            "dar und liefere die bestellte Synopse oder historische Einordnung."
+        ),
+        "research": (
+            "Zeige für jeden tragenden Befund Quelle oder Rechenweg. Prüfe die stärkste "
+            "Gegenhypothese und liefere die verlangte Auswertung."
+        ),
+        "production": (
+            "Ordne Originale und maßgebliche Fassung zu. Prüfe Datei, Anlagen und Ausgabe und "
+            "stelle die bestellte Fassung oder die konkret fehlenden Teile bereit."
+        ),
+        "drafting": (
+            "Verbinde die streitige Regelung mit Geschäftsziel, Rechtswirkung und Vollzug. "
+            "Wäge die Gegenposition ab und formuliere die bestellte Regelung vollständig aus."
+        ),
+        "decision": (
+            "Ordne Anträge, Verfahrensstand und tragende Aktenstellen. Prüfe Gegenargument "
+            "und Beweislage und erstelle den bestellten Entwurf für diesen Verfahrensstand."
+        ),
+    }.get(
+        workflow_family(profile),
+        "Belege die entscheidenden Tatsachen, prüfe den stärksten Einwand und liefere das bestellte Ergebnis.",
+    )
     return [
-        "### 1.1. Arbeitsmodus: schnell und belastbar",
+        "### 1.1. Mit dem Auftrag beginnen",
         "",
-        first + " Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen.",
+        "Lies zuerst die einschlägigen Unterlagen. Bei einem konkreten Auftrag direkt dessen "
+        "Arbeitsprodukt erstellen. Ohne konkreten Ausgabeauftrag frage nach dem gewünschten "
+        "Ergebnis und biete fachlich passende Möglichkeiten an.",
         "",
-        second,
+        completion,
+        "",
+        "Frage nur nach Angaben, die das Ergebnis verändern. Liefere die belegten Teile und "
+        "arbeite Antworten an den betroffenen Stellen ein. Prüfe davon abhängige Fristen, Beträge "
+        "oder Aussagen erneut und stelle die bestellte Fassung fertig.",
         "",
     ]
 
@@ -334,9 +289,7 @@ def role_scope_text(profile: ThemenProfil) -> str:
             "daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab"
         )
     return (
-        f"Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich {profile.label} "
-        f"insbesondere {documents}, {work}. Jede Station endet mit einem unmittelbar "
-        "verwendbaren, auf Fundstellen gestützten Produkt."
+        f"Typische Unterlagen sind {documents}. Der Arbeitsablauf {work}."
     )
 
 
@@ -978,7 +931,6 @@ def schnellstart_product_label(
 def schnellstart_bedienlogik(
     profile: ThemenProfil,
     fields: list[tuple[str, str]],
-    stations: list[str],
 ) -> list[str]:
     """Baut einen fachbezogenen Einstieg für vier reale Nutzungslagen."""
 
@@ -990,29 +942,17 @@ def schnellstart_bedienlogik(
         field_names = [cell(item, 52) for item in profile.pruefraster[:3]]
     while len(field_names) < 3:
         field_names.append(cell(eilsache_label(profile), 52))
-    route = cell(
-        stations[0]
-        if stations
-        else profile.pruefraster[0]
-        if profile.pruefraster
-        else profile.label,
-        115,
-    )
-    if ":" in route:
-        route = route.split(":", 1)[0].strip()
     documents = cell(domain_documents(profile), 115)
-    minimum = ", ".join(dict.fromkeys(field_names[:3]))
+    choices = ", ".join(dict.fromkeys(field_names[:3]))
     return [
         "## 1. Sofortstart nach Eingangslage",
         "",
-        f"- Dateien oder Ordner: Nach Auftrag auswählen, besonders {documents}. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.",
-        "- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.",
-        f"- Nur Prompt gestartet: Bei zugänglichem Material zwischen {minimum} wählen; ohne konkreten Auftrag mit {route} beginnen.",
-        "- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.",
+        f"- Dateien oder Ordner: Lies zuerst die für den Auftrag wichtigen Unterlagen, etwa {documents}. Prüfe weitere Dateien für konkrete Beleglücken.",
+        "- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort beginnen. Annahmen am betroffenen Ergebnis markieren.",
+        f"- Nur Prompt gestartet: Frage nach dem gewünschten Ergebnis. Biete je nach Akte passende Wege an, etwa {choices}.",
+        "- Folgewunsch: Neue Angaben in dieselbe Rechnung, Prüfung oder Fassung einarbeiten. Abhängige Ergebnisse neu prüfen, den Vorgang nicht neu beginnen.",
         "",
-        f"Fehlende Angaben zu {minimum} und Empfänger gezielt klären. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.",
-        "",
-        PORTABLE_EXECUTION,
+        "Frage nur nach Angaben, die das Ergebnis verändern. Bei großen Ordnern liefere einen belegten Teilstand und benenne die noch benötigten Dateien.",
         "",
     ]
 
@@ -4323,11 +4263,33 @@ def quick_stations(profile: ThemenProfil, skill_material: list[dict[str, str]]) 
     ]
 
 
-def domain_goal(mf: dict, plugin_dir: Path, profile: ThemenProfil) -> str:
-    intro = clean(mf.get("description", "") or first_readme_paragraph(plugin_dir) or profile.rolle, 360)
-    if not intro:
-        intro = profile.rolle
-    return intro.rstrip(".")
+def prompt_introduction(mf: dict, plugin_dir: Path, profile: ThemenProfil, cases: list[str]) -> list[str]:
+    """Setzt Aufgabe und passenden belegten Suchanker vor die Arbeitsanweisung."""
+
+    purpose = clean(profile.oeffnungssatz)
+    if not purpose or re.match(r"Wenn du das hier (?:öffnest|oeffnest)\b", purpose, re.IGNORECASE):
+        description = mf.get("description") or first_readme_paragraph(plugin_dir)
+        description = re.sub(
+            r"^(?:(?:Mega-)?Plugin|(?:\d+|Acht|Zehn) (?:Fachskills|Skills)(?: und ein Hauptskill)?) "
+            r"(?:für|zu[rm]?) ",
+            "",
+            description,
+            flags=re.IGNORECASE,
+        )
+        purpose = route_excerpt(
+            description,
+            350,
+            f"Bearbeite den konkreten Auftrag im Bereich {profile.label} bis zum gewünschten Ergebnis.",
+        )
+    opening = [sentence_terminal(purpose), ""]
+    for case in cases:
+        # Themenprofile ohne Link bleiben Recherchehinweise im Quellenabschnitt.
+        # Einen Volltextlink weder aus dem Aktenzeichen ableiten noch schätzen.
+        linked = re.sub(r"Amtlicher Volltext: (https://\S+)$", r"[Amtlicher Volltext](\1)", case)
+        if len(linked) <= 560 and contains_decision_reference(linked) and re.search(r"\]\(https://[^\s)]+\)", linked):
+            opening.extend([sentence_terminal(linked), ""])
+            break
+    return opening
 
 
 def plugin_profile_context(
@@ -7256,7 +7218,6 @@ def build_werkstatt(
     profile = profile_for(slug, context)
     title = title_for(slug, mf, profile)
     stations = list(profile.stationen)
-    intro = clean(mf.get("description", "") or first_readme_paragraph(plugin_dir) or profile.rolle, 900)
     profile_norms = [] if profile.key == "default" else list(profile.normen)
     profile_cases = (
         []
@@ -7291,17 +7252,11 @@ def build_werkstatt(
         else "Leitentscheidungen"
     )
 
-    lines: list[str] = [f"# {title} — Werkstatt-Prompt", ""]
-    if profile.oeffnungssatz:
-        lines += [profile.oeffnungssatz, ""]
+    lines = [f"# {title} — Werkstatt-Prompt", ""] + prompt_introduction(mf, plugin_dir, profile, case_pool)
     lines += [
         "## 1. Rolle und Auftrag",
         "",
-        f"Du arbeitest als {profile.rolle} Der Auftrag lautet: vorhandene Unterlagen zuerst auszuwerten und daraus einen belastbaren, fachlich sortierten Arbeitsstand mit verwertbarem Ergebnis zu erstellen. Gegenstand dieses Prompts ist: {intro}",
-        "",
         role_scope_text(profile),
-        "",
-        WORKSHOP_EXECUTION,
         "",
     ] + werkstatt_tempo_block(profile) + werkstatt_ergonomy_text(profile).splitlines() + [
         "## 2. Stop-Kriterien",
@@ -7326,6 +7281,8 @@ def build_werkstatt(
         ]
 
     lines += [
+        WORKSHOP_EXECUTION,
+        "",
         f"## 4. {fallkarte_title}",
         "",
         "| Ebene | Fallfrage | Anker | Sofortausgabe |",
@@ -7579,18 +7536,8 @@ def build_schnellstart(
     extracted_cases = dedupe_cases(profile_cases, extracted_cases)
     norm_pool = (profile_norms + extracted_norms)[:6]
     case_pool = (profile_cases + extracted_cases)[:4]
-    goal = domain_goal(mf, plugin_dir, profile)
-    opening = profile.oeffnungssatz
-    if profile.key == "default":
-        opening = f"Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema {title} ausgewertet und daraus ein verwertbarer Erststand gebaut werden."
-
-    lines: list[str] = [f"# {title} — Schnellstart", ""]
-    if opening:
-        lines += [opening, ""]
-    lines += [
-        f"Kernauftrag: {clean(goal, 220).rstrip('.')}. Vorrang hat das verlangte Arbeitsprodukt.",
-        "",
-    ] + schnellstart_bedienlogik(profile, fields, stations) + [
+    lines = [f"# {title} — Schnellstart", ""] + prompt_introduction(mf, plugin_dir, profile, case_pool)
+    lines += schnellstart_bedienlogik(profile, fields) + [
         "## 2. Fachlicher Direktstart",
         "",
     ] + schnellstart_direktstart(profile) + [
@@ -7692,6 +7639,8 @@ def build_schnellstart(
         "## 8. Stop",
         "",
         f"Bei diesem Hindernis den abhängigen Arbeitsschritt zurückstellen: {clean(profile.stop[0], 170).rstrip('.') if profile.stop else 'Frist, Vollmacht, Zuständigkeit oder Kernbeleg sind ungeklärt'}. Den übrigen belegten Teil liefern und die benötigte Klärung benennen. Nach ihrer Antwort den betroffenen Schritt wieder aufnehmen. Die Werkstatt desselben Plugins ist eine optionale Vertiefung, keine Voraussetzung.",
+        "",
+        PORTABLE_EXECUTION,
         "",
     ]
     text = sanitize("\n".join(lines).strip() + "\n")

@@ -1,5 +1,9 @@
 # Vollprüfung: arbeitszeugnispruefer
 
+Ist das Zeugnis sachlich richtig, verständlich und der belegten Leistung angemessen? Prüfen Sie es aus Arbeitnehmersicht und führen Sie die Prüfung zur begründeten Empfehlung, zu Ersatzformulierungen und zu den fachlich nötigen fertigen Schreiben. Unterscheiden Sie einen durchsetzbaren Berichtigungsanspruch von einem bloßen Verhandlungswunsch.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 81 Skills des Plugins `arbeitszeugnispruefer`.

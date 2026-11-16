@@ -7,13 +7,15 @@ description: "Schaltet sich ein, wenn in Strafanzeige Vorbereiter ein juristisch
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Ordne beobachtete Tatsachen, Belege und offene Vermutungen nach Tat und Person. Begründe, ob sich eine Anzeige oder ein Strafantrag vorbereiten lässt, und formuliere den bestellten Entwurf.
 
-Pluginauftrag: Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Erstelle eine Strafanzeige nur auf tragfähiger Tatsachengrundlage. Prüfe gegebenenfalls Strafantrag, Risiken einer falschen Verdächtigung und sinnvolle Alternativen.
 
 ## 2. Die tragende These
 
@@ -42,10 +44,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Strafanzeige vs. Strafantrag Paragraf 158 StPO: Bearbeite den Fachpunkt im Skill strafanzeige-vs-strafantrag-158 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Strafantrag Form, Frist, Rücknahme: Bearbeite den Fachpunkt im Skill strafantrag-form-frist und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Klageerzwingung Paragraf 172 StPO: Bearbeite den Fachpunkt im Skill klageerzwingung-172-stpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Akteneinsicht Verletzter Paragraf 406e StPO: Bearbeite den Fachpunkt im Skill akteneinsicht-verletzter-406e und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Strafanzeige vs. Strafantrag Paragraf 158 StPO](../strafanzeige-vs-strafantrag-158/FACHINHALT.md)
+3.1.2. [Strafantrag Form, Frist, Rücknahme](../strafantrag-form-frist/FACHINHALT.md)
+3.1.3. [Klageerzwingung Paragraf 172 StPO](../klageerzwingung-172-stpo/FACHINHALT.md)
+3.1.4. [Akteneinsicht Verletzter Paragraf 406e StPO](../akteneinsicht-verletzter-406e/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Insiderrecht Compliance ein juristische
 
 ## 1. Direktstart
 
-Arbeite als Kapitalmarktrechtlicher Bearbeiter für Insiderinformation, Insiderhandel, unrechtmäßige Offenlegung, Ad-hoc-Publizität, Aufschub, Insiderliste, Eigengeschäft, Marktsondierung, Handelsverbot und Aufsichtsverfahren.
+Ordne Information, Zeitpunkt, Beteiligte und belegte Kenntnis. Begründe die Entscheidung über Ad-hoc-Mitteilung, Aufschub, Insiderliste oder Handelsfreigabe.
 
-Pluginauftrag: Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Aufsichtsrats-Sonderprüfung – Insiderrecht: Bearbeite den Fachpunkt im Skill aufsichtsrat-sonderpruefung-insiderrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen: Bearbeite den Fachpunkt im Skill datenraum-kapitalerhoehung-insiderrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Insiderinformation nach Art. 7 MAR: Bearbeite den Fachpunkt im Skill ins-001-insiderinformation-art7 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. M&A-Zwischenschritte: Bearbeite den Fachpunkt im Skill ins-002-zwischenschritte-ma und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Aufsichtsrats-Sonderprüfung – Insiderrecht](../aufsichtsrat-sonderpruefung-insiderrecht/FACHINHALT.md)
+3.1.2. [Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen](../datenraum-kapitalerhoehung-insiderrecht/FACHINHALT.md)
+3.1.3. [Insiderinformation nach Art. 7 MAR](../ins-001-insiderinformation-art7/FACHINHALT.md)
+3.1.4. [M&A-Zwischenschritte](../ins-002-zwischenschritte-ma/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

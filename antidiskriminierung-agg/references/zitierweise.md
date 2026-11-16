@@ -1,6 +1,6 @@
 # 1. Quellen und Arbeitsstand
 
-Tragende Aussagen mit geltender Norm und passender Entscheidung belegen. Die [Fallkarten](rechtsprechung.md) wurden am 01.10.2026 anhand amtlicher Quellen geprüft. Vor einer verbindlichen Verwendung Gesetzesfassung, neuere Entscheidungen und tatsächliche Vergleichbarkeit prüfen. Ohne aktuellen Zugriff den Quellenstand offen benennen; keine Aktualitätsgarantie und keine erfundenen Randnummern.
+Tragende Aussagen mit geltender Norm und passender Entscheidung belegen. Die [Fallkarten](rechtsprechung.md) dokumentieren die amtlichen Quellen und das jeweilige Prüfdatum. Vor einer verbindlichen Verwendung Gesetzesfassung, neuere Entscheidungen und tatsächliche Vergleichbarkeit prüfen. Ohne aktuellen Zugriff den Quellenstand offen benennen; keine Aktualitätsgarantie und keine erfundenen Randnummern.
 
 Rechtsprechung mit Gericht, Entscheidungsart, Datum und Aktenzeichen angeben. Eine Pressemitteilung ist kein Volltext: keine ausgedachten Entscheidungsgründe daraus ableiten. Im Empfängerbrief nur nötige Belege aufnehmen; Rechercheprotokoll und technische Hinweise getrennt halten. Literatur nur aus vorgelegter oder verifiziert zugänglicher Quelle.
 

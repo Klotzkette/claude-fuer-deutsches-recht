@@ -1,5 +1,9 @@
 # Vollprüfung: vertragsrecht
 
+Entwirf oder prüfe den konkreten Liefer-, Dienst-, Werk-, Lizenz- oder Vertriebsvertrag. Bestimme Leistung und Gegenleistung, Fälligkeit, Mitwirkung, Haftung und Beendigung aus dem tatsächlichen Geschäft. Überführe offene wirtschaftliche Entscheidungen in präzise Fragen und die Antworten anschließend in eine vollständige, widerspruchsfreie Vertragsfassung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `vertragsrecht`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Vertragsrecht ein juristisches Arbeitsprodukt tragf�
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Bestimme Vertragstyp, maßgebliche Fassung und Geschäftsziel. Begründe die betroffenen Rechte und Pflichten und liefere die beauftragte Vertragsänderung, Erklärung oder Stellungnahme.
 
-Pluginauftrag: Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB Paragrafen 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung: Bearbeite den Fachpunkt im Skill rahmenvertrag-beweislast-vertragsrecht-vert und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel: Bearbeite den Fachpunkt im Skill vertragsrecht-erstpruefung-und-mandatsziel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. UWG-Abmahnung – Erstellung und Prüfung: Bearbeite den Fachpunkt im Skill abmahnung-uwg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Anpassen: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill fristennotiz-naechster-vertriebsvertraege und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragsrecht/skills/rahmenvertrag-beweislast-vertragsrecht-vert/FACHINHALT.md)
+3.1.2. [Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragsrecht/skills/vertragsrecht-erstpruefung-und-mandatsziel/FACHINHALT.md)
+3.1.3. [UWG-Abmahnung – Erstellung und Prüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragsrecht/skills/abmahnung-uwg/FACHINHALT.md)
+3.1.4. [Anpassen: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragsrecht/skills/fristennotiz-naechster-vertriebsvertraege/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1342,10 +1346,7 @@ dass Rechtsprechung insoweit nicht vorliegt.
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

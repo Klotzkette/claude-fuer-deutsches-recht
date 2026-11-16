@@ -35,7 +35,7 @@ Lesen Sie die einschlägige zeitliche Alternative im Originaltext. Trennen Sie d
 
 ### 3.4 Krise und Kenntnis getrennt belegen
 
-Bestimmen Sie zunächst, welche objektive wirtschaftliche Lage im betreffenden Zeitpunkt bestand. Prüfen Sie anschließend, was der Empfänger davon wusste. Kenntnis eigener offener Rechnungen ist nicht deckungsgleich mit Kenntnis der gesamten Zahlungsunfähigkeit. Ein Zugang zum Insolvenzantrag kann erheblich sein; sein genauer Inhalt und Zeitpunkt müssen belegt sein. Ein nachträglich erstellter Liquiditätsstatus begründet nicht rückwirkend Empfängerwissen.
+Belegen Sie die objektive Lage am Handlungstag und den damaligen Empfängerwissensstand getrennt. Eigene offene Rechnungen belegen noch keine Kenntnis der Zahlungsunfähigkeit. [BGH, Urteil vom 24.09.2026, IX ZR 65/25](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313232026.zip), Rn. 13–23: Hat der Empfänger die konkrete Erklärung erhalten, eine fällige erhebliche Schuld binnen drei Wochen auch nicht ratenweise zahlen zu können, spricht dies regelmäßig für die Kenntnis der Zahlungseinstellung zum Zeitpunkt der Erklärung. Sichern Sie Inhalt, Kontext, Empfänger und Zugang. Prüfen Sie für jede spätere Zahlung die Fortdauer. Eine spätere Liquiditätsaufstellung begründet kein damaliges Empfängerwissen. Für die Nachantragsalternative gegebenenfalls Zugang und Inhalt des Eröffnungsantrags belegen.
 
 ### 3.5 Jede Zahlungsposition entscheiden
 

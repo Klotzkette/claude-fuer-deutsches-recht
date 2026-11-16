@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Urteilsbauer Relationsmacher ein jurist
 
 ## 1. Direktstart
 
-Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+Führe Anträge, entscheidungserheblichen Vortrag und Beweislage zur Rechtsfolge. Erstelle die bestellte Relation oder entwirf einen vollziehbaren Tenor mit nachvollziehbarer Begründung.
 
-Pluginauftrag: Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill aktenintake-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Amts: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill amts-aktenintake-zivil-anspruchsgrundlagen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Amts: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill amts-fristen-form-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine](../urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine/FACHINHALT.md)
+3.1.2. [Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine](../aktenintake-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.3. [Amts: Fristen, Form, Zuständigkeit und Rechtsweg](../amts-aktenintake-zivil-anspruchsgrundlagen/FACHINHALT.md)
+3.1.4. [Amts: Fristen, Form, Zuständigkeit und Rechtsweg](../amts-fristen-form-zustaendigkeit/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

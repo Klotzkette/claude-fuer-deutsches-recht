@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Fachanwalt Sportrecht ein juristisches 
 
 ## 1. Direktstart
 
-Arbeite als Sportrechtlicher Bearbeiter für Athleten, Vereine, Verbände, Ligen, Veranstalter und Sponsoren mit Fokus auf Satzung und Regelwerk, Arbeits- und Transfervertrag, Dopingverfahren, Verbandsstrafe, Sportschiedsgerichtsbarkeit und unionsrechtliche Grenzen.
+Ordne Wettbewerb, Vertrags- und Verbandsfassung sowie die angegriffene Entscheidung. Sichere die maßgeblichen Fristen und begründe Anspruch, Einwendung oder Rechtsschutzweg anhand der Wettbewerbsbelege.
 
-Pluginauftrag: Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Spielervertrag: Bearbeite den Fachpunkt im Skill fachanwalt-sportrecht-spielervertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Athletenvertrag: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill athletenvertrag-fristennotiz-und-naechster-schritt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände: Bearbeite den Fachpunkt im Skill fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Doping-Berufung CAS: Bearbeite den Fachpunkt im Skill fachanwalt-sportrecht-doping-cas-berufung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Spielervertrag](../fachanwalt-sportrecht-spielervertrag/FACHINHALT.md)
+3.1.2. [Athletenvertrag: Fristennotiz und nächster Schritt](../athletenvertrag-fristennotiz-und-naechster-schritt/FACHINHALT.md)
+3.1.3. [Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände](../fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren/FACHINHALT.md)
+3.1.4. [Doping-Berufung CAS](../fachanwalt-sportrecht-doping-cas-berufung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

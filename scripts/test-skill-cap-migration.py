@@ -99,6 +99,54 @@ class SkillCapMigrationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "document_style"):
             M["render_route"](invalid["plugins"][0]["routes"][0], {})
 
+    def test_named_steps_render_a_concrete_start_without_affecting_default(self):
+        sources = {slug: (self.plugin / "skills" / slug / "SKILL.md").read_bytes()
+                   for slug in self.route["members"]}
+        ordinary = M["render_route"](self.route, sources).decode()
+        self.assertIn("### 3.1. Arbeitsschritt\n\nFassungen vergleichen.", ordinary)
+        self.assertIn("Bearbeite den konkreten Auftrag", ordinary)
+        self.route["step_titles"] = ["Vertragsfassung festlegen", "Vollmacht abgleichen"]
+        revised = M["render_route"](self.route, sources).decode()
+        self.assertNotIn("Bearbeite den konkreten Auftrag", revised)
+        self.assertIn("### 3.1. Vertragsfassung festlegen\n\nFassungen vergleichen.", revised)
+        self.assertIn("### 3.3. Fachvertiefungen gezielt laden", revised)
+        self.assertEqual([], M["validate_registry"](self.repo, self.registry))
+        self.route["step_titles"] = ["Zu kurz"]
+        self.assertTrue(any("step_titles" in error for error in M["validate_registry"](self.repo, self.registry)))
+        self.route["step_titles"] = ["Gültig", "Keine\nzweite Zeile"]
+        self.assertTrue(any("step_titles" in error for error in M["validate_registry"](self.repo, self.registry)))
+
+    def test_revised_route_is_source_bound_and_reversible(self):
+        report = self.migrate()
+        attest = report["plugins"][0]["routes"][0]
+        directory = self.target / "themen/fachgebiet/skills"
+        path = directory / self.route["slug"] / "SKILL.md"
+        before = path.read_bytes()
+        self.route["step_titles"] = ["Vertragsfassung festlegen", "Vollmacht abgleichen"]
+        sources = {slug: (directory / slug / "FACHINHALT.md").read_bytes() for slug in self.route["members"]}
+        after = M["render_route"](self.route, sources)
+        _, edits = M["exact_edits"](before, [(0, len(before), after)])
+        attest.update(original_sha256=M["sha"](before), sha256=M["sha"](after), edits=edits)
+        path.write_bytes(after)
+        reg_path = self.target / "scripts/data/skill-cap-registry.json"
+        reg_path.parent.mkdir(parents=True)
+        reg_path.write_bytes(M["json_bytes"](self.registry))
+        report["registry_sha256"] = M["sha"](reg_path.read_bytes())
+        self.assertEqual([], M["verify_source_map"](self.target, report, strict_links=True))
+
+        before_patch = attest["edits"][0]["before"]
+        attest["edits"][0]["before"] = before_patch + "Manipulation"
+        self.assertTrue(any("nicht bytegleich rekonstruierbar" in error
+                            for error in M["verify_source_map"](self.target, report)))
+        attest["edits"][0]["before"] = before_patch
+
+        self.route["step_titles"][0] = "Abweichende Überschrift"
+        reg_path.write_bytes(M["json_bytes"](self.registry))
+        self.assertTrue(any("Registry" in error for error in M["verify_source_map"](self.target, report)))
+        report["registry_sha256"] = M["sha"](reg_path.read_bytes())
+        self.assertTrue(any("nicht reproduzieren" in error
+                            for error in M["verify_source_map"](self.target, report)))
+
     def test_new_route_cannot_overwrite_old_or_resource_directory(self):
         for slug in ("vertrag", "hauptauftrag"):
             registry = copy.deepcopy(self.registry)

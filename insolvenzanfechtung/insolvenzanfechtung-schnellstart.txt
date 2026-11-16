@@ -2,13 +2,13 @@
 
 ## 1. Auftrag und Ergebnis
 
-Prüfen Sie die bezeichneten Zahlungen, Sicherheiten oder Vertragsgestaltungen aus Verwalter- oder Empfängersicht. Erstellen Sie das bestellte Memo, Schreiben, die Klage, Erwiderung oder den Vergleich. Lesen Sie vorhandene Unterlagen zuerst, übernehmen Sie bekannte Angaben und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie an unabhängigen Teilen weiter; enden Sie nicht bei einer bloßen Checkliste.
+Prüfen Sie Zahlungen, Sicherheiten oder Verträge aus Verwalter- oder Empfängersicht. Liefern Sie das bestellte Schreiben, Memo, die Klage, Erwiderung oder den Vergleich. Akte zuerst lesen; nur entscheidende Lücken erfragen und belegbare Teile fortführen.
 
-BGH, Urteil vom 21.05.2026, Az. IX ZR 168/24, Rn. 24–35, 40–45, 55–58, 61–62: [Original](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1). Trägt: Vertrag und Vollzug trennen; interne Krisenmail ist allein keine nach außen getretene Zahlungseinstellung; Verrechnung alter Forderungen ist nicht automatisch neuer Aktivzufluss. Trägt nicht: jedes Verkaufs- und Rückmietgeschäft sei anfechtbar oder interne Mails seien bedeutungslos.
+[BGH, Urteil vom 21.05.2026, IX ZR 168/24, Rn. 24–35, 40–45, 55–62](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1): Vertrag und Vollzug trennen. Interne Krisenmail und Altforderungsverrechnung belegen für sich weder äußere Zahlungseinstellung noch neuen Mittelzufluss.
 
 ## 2. Aufnahme und Zeit
 
-Übernehmen Sie Rolle, Schuldner, Verfahren, betroffene Vorgänge, Ziel und Fristen. Unterscheiden Sie Antragseingang, Eröffnung, Vertragsschluss und Wirksamkeit. Lesen Sie Beschlüsse und Zahlungsbelege. Prüfen Sie die passende Normfassung einschließlich Übergangsrecht; ein unspezifisches „Insolvenzdatum“ genügt nicht. Rückschauzeitraum und Verjährung sind verschieden.
+Lesen Sie Beschlüsse und Zahlungsbelege. Erfassen Sie Rolle, Schuldner, Verfahren, Vorgänge und Fristen. Antrag, Eröffnung, Vertragsschluss und Wirksamkeit unterscheiden. Normfassung einschließlich Übergangsrecht prüfen. Rückschauzeitraum und Verjährung getrennt bestimmen.
 
 Insolvenzstatut und Verfahrensfassung klären. [BGH IX ZR 229/23, Rn. 16, 28, 38](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip) betrifft den Nachrang nach alter EuInsVO. Art. 16 der Neufassung und Fremddarlehen gesondert prüfen. Quellenlücken markieren.
 
@@ -22,7 +22,7 @@ Trennen Sie Abtretung, Schuld- und Vertragsübernahme, Einzug und bloßen Zahlwe
 
 Prüfen Sie §§ 129, 139, 140 InsO: konkrete Handlung, Gläubigerbenachteiligung, maßgeblicher Antrag und Wirksamkeitszeitpunkt. Vergleichen Sie Befriedigungsmöglichkeiten mit und ohne Handlung. Werthaltige Sicherheiten und Rückgriffe belegen, nicht nur nominal ansetzen.
 
-Deckung: §§ 130 und 131 InsO nach Anspruch, Fälligkeit und geschuldeter Leistungsart unterscheiden. Je Zahlung konkrete zeitliche Alternative und zusätzliche Merkmale nennen. Bei § 130 objektive Lage und Empfängerkenntnis trennen; bei § 131 nicht alle Zeitfenster gleich behandeln.
+Deckung nach Anspruch, Fälligkeit und Leistungsart einordnen. Bei § 131 Zeitfenster und zusätzliche Merkmale benennen. Erklärt der Schuldner dem Empfänger, eine fällige erhebliche Schuld binnen drei Wochen auch nicht ratenweise zahlen zu können, kennt der Empfänger regelmäßig die Zahlungseinstellung bei Abgabe. Fortdauer je Zahlung prüfen. [BGH, Urteil vom 24.09.2026, IX ZR 65/25, Rn. 13–23](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313232026.zip).
 
 Vorsatz: § 133 InsO nach Handlungstyp, Schuldnerwissen, Empfängerwissen und Gegenindizien prüfen. Zahlungsunfähigkeit ist kein automatischer Vorsatzbeweis. Bei kongruenter Deckung besondere Vermutungen beachten; Zahlungserleichterung nicht automatisch als Kenntnisbeweis behandeln. Sanierungserwartung nach damaligen konkreten Grundlagen prüfen. Inkongruente Nachbesicherung kann eigenständiges Indizgewicht haben.
 

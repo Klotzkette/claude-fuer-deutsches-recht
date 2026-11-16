@@ -1,5 +1,9 @@
 # Vollprüfung: gesellschaftsrecht-legal-english
 
+Die englische Fassung soll dieselbe Vereinbarung ausdrücken wie der Ausgangstext. Erstelle die bestellte Übersetzung, Investoren-Erklärung oder Sprachübung und erhalte Mitgliedschaft, Zahlungspflichten, Zustimmung und Haftung. Erkläre „shares“, „board approval“ oder „fully diluted“ anhand der gemeinten deutschen Rechtswirkung; eine Beteiligungsrechnung muss Nenner und Annahmen erkennen lassen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 54 Skills des Plugins `gesellschaftsrecht-legal-english`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Gesellschaftsrecht Legal English ein juristisches Ar
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Lies den gesellschaftsrechtlichen Vorgang und seine deutschen und englischen Dokumente. Erkläre die konkreten Begriffe und erstelle die verlangte zweisprachige Fassung mit ihrem Rechtsordnungsbezug.
 
-Pluginauftrag: Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfänger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Corporate: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill corporate-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Legal: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill legal-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Client Explainer: Bearbeite den Fachpunkt im Skill client-explainer-legal-english und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. English: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill english-anschauungsmaterial-multiformat und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Corporate: Behörden-, Gerichts- oder Registerweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsrecht-legal-english/skills/corporate-behoerden-gericht-und-registerweg/FACHINHALT.md)
+3.1.2. [Legal: Schriftsatz-, Brief- und Memo-Bausteine](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsrecht-legal-english/skills/legal-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.3. [Client Explainer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsrecht-legal-english/skills/client-explainer-legal-english/FACHINHALT.md)
+3.1.4. [English: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsrecht-legal-english/skills/english-anschauungsmaterial-multiformat/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -833,10 +837,7 @@ Was muss in die Satzung, was kann in die Gesellschaftervereinbarung, und was bra
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

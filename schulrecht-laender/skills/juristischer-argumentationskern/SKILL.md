@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Schulrecht Länder ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Lies Entscheidung, Zeugnis oder Mitteilung und bestimme das einschlägige Landesrecht. Sichere Zustellung und Frist und formuliere die verlangte Antwort, Beschwerde oder Eileingabe.
 
-Pluginauftrag: Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Akteneinsicht Schulakte: Bearbeite den Fachpunkt im Skill akteneinsicht-schulakte-attest und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Beschwerde gegen Lehrkraft: Bearbeite den Fachpunkt im Skill beschwerde-gegen-lehrkraft und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Schulaufsicht und Akteneinsicht der Eltern: Bearbeite den Fachpunkt im Skill schulaufsicht-akteneinsicht-eltern und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Schulaufsichtsbeschwerde: Bearbeite den Fachpunkt im Skill schulaufsichtsbeschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Akteneinsicht Schulakte](../akteneinsicht-schulakte-attest/FACHINHALT.md)
+3.1.2. [Beschwerde gegen Lehrkraft](../beschwerde-gegen-lehrkraft/FACHINHALT.md)
+3.1.3. [Schulaufsicht und Akteneinsicht der Eltern](../schulaufsicht-akteneinsicht-eltern/FACHINHALT.md)
+3.1.4. [Schulaufsichtsbeschwerde](../schulaufsichtsbeschwerde/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

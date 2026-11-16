@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Urheberrecht De EU ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Urheberrechtlicher Bearbeiter für Werk, Rechtekette, Lizenz, Nutzung, Schranken, Plattformen, Abmahnung und Unterlassung.
+Ordne Werk, Rechtekette und konkrete Nutzung anhand von Originalen und Verträgen. Begründe Anspruch, Schranke, Lizenzposition oder Einwendung und formuliere die beantragte Reaktion.
 
-Pluginauftrag: Deutsches und EU-Urheberrecht für Werkhöhe, Musik, algorithmische Systeme, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Abmahnung nach Paragraf 97a UrhG beantworten: Bearbeite den Fachpunkt im Skill abmahnung-97a-response und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Auskunft, Rechnungslegung und Besichtigung: Bearbeite den Fachpunkt im Skill auskunft-rechnungslegung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Schriftsatz und Antrag im Urheberrecht: Bearbeite den Fachpunkt im Skill gerichtlicher-schriftsatz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. System-Klauseln in Urheberverträgen: Bearbeite den Fachpunkt im Skill ki-vertragsklauseln-urhebervertragsrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Abmahnung nach Paragraf 97a UrhG beantworten](../abmahnung-97a-response/FACHINHALT.md)
+3.1.2. [Auskunft, Rechnungslegung und Besichtigung](../auskunft-rechnungslegung/FACHINHALT.md)
+3.1.3. [Schriftsatz und Antrag im Urheberrecht](../gerichtlicher-schriftsatz/FACHINHALT.md)
+3.1.4. [System-Klauseln in Urheberverträgen](../ki-vertragsklauseln-urhebervertragsrecht/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

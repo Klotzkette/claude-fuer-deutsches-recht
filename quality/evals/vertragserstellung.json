@@ -77,6 +77,11 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Kopf, Rn. 22–32. Tatsächliches Zur-Disposition-Stellen des Klauselkerns belegen; bloße Verhandlungsbestätigung/Abwahl des AGB-Rechts reichen nicht. Grenze: Konkreter Bau-Sicherheitenfall begründet keine allgemeine Prozentgrenze."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2023/XI_ZR_183-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-16",
+      "supports": "BGH, Urteil vom 04.02.2025, XI ZR 183/23, Rn. 30–32: Die Verhandlung über Entgeltparameter genügte im konkreten Verbrauchervertrag nicht für ein Aushandeln der Entgeltpflicht selbst."
     }
   ],
   "mini_review": {
@@ -105,16 +110,17 @@
     "sha256": "027cc2427c9df2ab4fbfcdcd0b1b0cd72998beefe109701a9bf18a18dddf4c20"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-11-16",
     "method": "desk_review",
     "verdict": "revised",
     "reason": "Hauptproblem und selbst ausfuehrenden Hauptskill auf denselben Einzelgeschaeftsauftrag, Bindungskollision, Folgeaenderungen und Ergebnisabschluss gegengelesen. Keine Live-Ausfuehrung.",
     "changes": [
       "Hauptskill produziert den Vertrag selbst und verlinkt neun Geschwisterskills nur fuer konkrete Fachfragen.",
-      "Hauptproblem bleibt eigenstaendig und unter 7500 UTF-8-Bytes sowie Zeichen; kein elfter Skill."
+      "Hauptproblem bleibt eigenstaendig und unter 7500 UTF-8-Bytes sowie Zeichen; kein elfter Skill.",
+      "Der Schwerpunkt beginnt mit Vertrag, Leistung, Preis und Risikozuweisung. BGH XI ZR 183/23, Rn. 30–32, am amtlichen Volltext geprüft; Regelungsgegenstand und Verbrauchervermutung eingegrenzt. Autorvermerk am Ende."
     ],
     "prompt_path": "vertragserstellung/vertragserstellung-hauptproblem.md",
-    "prompt_sha256": "118079f3ff8271e16142bb2794865bbefaa83b487e6779e56b3dd97bbbd5ef64",
+    "prompt_sha256": "49fb5df3d3b3e1a63b30955334b6a54181006782add246780fd63ce741bd3985",
     "skill_path": "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
     "skill_sha256": "0dab551745996ada99b4e758527e5b69bc6fb020306ee657c93daa0850fec550"
   },

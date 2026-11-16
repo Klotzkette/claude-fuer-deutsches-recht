@@ -7,12 +7,12 @@ description: "Schaltet sich ein, wenn in Richter Landgericht Strafkammer ein jur
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Ordne Anklage, gerichtliche Zuständigkeit, Tatvorwürfe und Beweisthemen. Liefere den beauftragten Verfahrensbeschluss, die Beweiswürdigung oder das Urteil anhand des vorliegenden Standes.
 
-Pluginauftrag: Strafkammer LG: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Maßnahmen mit Tenorvorschlag.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 02 Hauptverhandlung Große Strafkammer: Bearbeite den Fachpunkt im Skill 02-hauptverhandlung-grosse-strafkammer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Praxisraster Landgericht Strafkammer: Bearbeite den Fachpunkt im Skill v392-praxisraster-richter-landgericht-strafkammer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 01 Eröffnungsverfahren Strafkammer: Bearbeite den Fachpunkt im Skill 01-eroeffnungsverfahren-strafkammer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 04 Beweiswürdigung Strafkammer: Bearbeite den Fachpunkt im Skill 04-beweiswuerdigung-strafkammer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [02 Hauptverhandlung Große Strafkammer](../02-hauptverhandlung-grosse-strafkammer/SKILL.md)
+3.1.2. [Praxisraster Landgericht Strafkammer](../v392-praxisraster-richter-landgericht-strafkammer/SKILL.md)
+3.1.3. [01 Eröffnungsverfahren Strafkammer](../01-eroeffnungsverfahren-strafkammer/SKILL.md)
+3.1.4. [04 Beweiswürdigung Strafkammer](../04-beweiswuerdigung-strafkammer/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

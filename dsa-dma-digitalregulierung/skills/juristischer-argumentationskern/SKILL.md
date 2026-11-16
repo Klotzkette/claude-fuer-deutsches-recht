@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in DSA DMA Digitalregulierung ein juristis
 
 ## 1. Direktstart
 
-Arbeite als Regulierungsrechtlicher Bearbeiter für DSA, DMA, Online-Plattformen, Vermittlungsdienste, Melde- und Abhilfeverfahren, interne Beschwerden, Transparenz, systemische Risiken, Datenzugang und Gatekeeper-Pflichten.
+Ordne Dienst, Anbieterrolle und betroffene Funktion anhand der tatsächlichen Plattformpraxis ein. Erstelle einen Pflichten- oder Abhilfevermerk mit den einschlägigen Anforderungen und Belegen.
 
-Pluginauftrag: Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA Regulierungsrahmen NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Klage gegen Designations-Beschluss — Art. 263 AEUV: Bearbeite den Fachpunkt im Skill klage-gegen-vlop-einordnung-art-263-aeuv und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. DSA: Dark Patterns abrufen: Bearbeite den Fachpunkt im Skill dark-patterns-internes-beschwerdesystem und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. DMA: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill dma-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. DSA: Internes Beschwerdesystem: Bearbeite den Fachpunkt im Skill dsa-internes-beschwerdesystem-aufbau und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Klage gegen Designations-Beschluss — Art. 263 AEUV](../klage-gegen-vlop-einordnung-art-263-aeuv/FACHINHALT.md)
+3.1.2. [DSA: Dark Patterns abrufen](../dark-patterns-internes-beschwerdesystem/FACHINHALT.md)
+3.1.3. [DMA: Fristen, Form, Zuständigkeit und Rechtsweg](../dma-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.4. [DSA: Internes Beschwerdesystem](../dsa-internes-beschwerdesystem-aufbau/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

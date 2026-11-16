@@ -1,5 +1,9 @@
 # Vollprüfung: verbraucher-rechtsstaat-alltag
 
+Prüfe aus Rechnung, Vertrag, Gerichtspost oder Bescheid, ob die verlangte Zahlung oder Handlung geschuldet ist, welche Frist läuft und an wen eine wirksame Reaktion gerichtet werden muss. Verfasse den beauftragten Antwortbrief oder die Formularhilfe verständlich und vollständig. Ein Inkassoeinwand, gerichtlicher Widerspruch und behördlicher Rechtsbehelf sind unterschiedliche Erklärungen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 67 Skills des Plugins `verbraucher-rechtsstaat-alltag`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Verbraucher Rechtsstaat Alltag ein juristisches Arbe
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Lies Vertrag, Rechnung, beanstandete Leistung und bisherigen Schriftwechsel. Erkläre die Handlungsmöglichkeiten verständlich und formuliere das bestellte Schreiben.
 
-Pluginauftrag: Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Abo-Falle und Kündigung: Bearbeite den Fachpunkt im Skill abo-falle-kuendigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Fitness- und Streaming-Abo kündigen: Bearbeite den Fachpunkt im Skill abo-kuendigung-fitness-streaming und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Behördenformular verstehen: Bearbeite den Fachpunkt im Skill behoerdenformular-verstehen-bescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Bescheid oder Brief verstehen: Bearbeite den Fachpunkt im Skill bescheid-brief-verstehen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Abo-Falle und Kündigung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucher-rechtsstaat-alltag/skills/abo-falle-kuendigung/FACHINHALT.md)
+3.1.2. [Fitness- und Streaming-Abo kündigen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucher-rechtsstaat-alltag/skills/abo-kuendigung-fitness-streaming/FACHINHALT.md)
+3.1.3. [Behördenformular verstehen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucher-rechtsstaat-alltag/skills/behoerdenformular-verstehen-bescheid/FACHINHALT.md)
+3.1.4. [Bescheid oder Brief verstehen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucher-rechtsstaat-alltag/skills/bescheid-brief-verstehen/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -560,10 +564,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Kanzlei Mandant Lifecycle ein juristisc
 
 ## 1. Direktstart
 
-Arbeite als Kanzleiorganisatorischer Bearbeiter für Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronische Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Mandatsabschluss mit Fokus auf Verantwortlichkeit und belegten Übergaben.
+Ordne Auftrag, Budget, Berichtspflichten und laufende Freigaben. Erstelle den angeforderten Mandatsvermerk, Statusbericht oder Abrechnungstext anhand der vorhandenen Akte.
 
-Pluginauftrag: Lifecycle-Plugin für Kanzlei, Mandant und Rechtsabteilung: Mandatsstart, OCG, Budget, Dashboard, Rechnung, Litigation, Erwartungsmanagement und Relationship-Governance.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. System-Tool und Mandanteneinwilligung: Bearbeite den Fachpunkt im Skill kanzlei-ki-tool-mandanteneinwilligung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Risk Register: Bearbeite den Fachpunkt im Skill risk-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. General Counsel Dashboard: Bearbeite den Fachpunkt im Skill gc-dashboard-handover-kanzleiwechsel-inhouse und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Handover Kanzleiwechsel: Bearbeite den Fachpunkt im Skill handover-kanzleiwechsel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [System-Tool und Mandanteneinwilligung](../kanzlei-ki-tool-mandanteneinwilligung/FACHINHALT.md)
+3.1.2. [Risk Register](../risk-register/FACHINHALT.md)
+3.1.3. [General Counsel Dashboard](../gc-dashboard-handover-kanzleiwechsel-inhouse/FACHINHALT.md)
+3.1.4. [Handover Kanzleiwechsel](../handover-kanzleiwechsel/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

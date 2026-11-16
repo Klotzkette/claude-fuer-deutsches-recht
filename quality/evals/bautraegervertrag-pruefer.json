@@ -558,7 +558,7 @@
     "bautraegervertrag-pruefer/skills/architekt-bearbeiten/SKILL.md": "544af2a76fd45ec67144c2252ed4f1489e805fa4a82ae06d09cbc87a370e23b1",
     "bautraegervertrag-pruefer/skills/bauablauf-bearbeiten/SKILL.md": "b7e7a6fe58e2727299fd2cb264359304ad5a240a9e3e2849a69a537d87038cc6",
     "bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md": "6d330440235f560f5856859750306e14e709b76cff3ede0c68715904fe4ca53c",
-    "bautraegervertrag-pruefer/skills/juristischer-argumentationskern/SKILL.md": "2b1a2805e871a345a6ff35ee1d8936650610f99ac4f06d46fcc3e522312a4b77",
+    "bautraegervertrag-pruefer/skills/juristischer-argumentationskern/SKILL.md": "510eda2ffa200e1fc422c03268558b81283e490bfd680824812a58039930e2ab",
     "bautraegervertrag-pruefer/skills/raten-sicherheiten-eigentum-pruefen/SKILL.md": "84fe9a7d6e1b298f45e5a896050392d3980ec81ab87a332907798236cb9c5ee6",
     "bautraegervertrag-pruefer/skills/sonderfaelle-baugruppe-sanierung-pruefen/SKILL.md": "391d158d15e44f52d3042ffda21885befa554262bb163f1e2496aff9d730bca7",
     "bautraegervertrag-pruefer/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md": "aabb340d6ec952955f710389f3110b8c7e6660efe2b5b08f554e71d091dafa68",
@@ -590,5 +590,9 @@
     "case_status": "Prüfaufträge und Kriterien redaktionell auf aktuelle Arbeitswege abgeglichen; keine Ausführung oder bestandene Modellergebnisse behauptet.",
     "history": "Frühere Prüfdaten, Quellenstände und historische Hashnachweise unverändert archiviert; neue Hashbindungen gelten nur für die explizit aktuell gelesenen Dateien.",
     "limits": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
+  },
+  "skill_opening_review_2026_11_16": {
+    "method": "desk_review",
+    "scope": "Konkreter Vertrags- und Belegabgleich im Einstieg, Quellen- und Rollenregeln sowie der getrennte Auftrag für mehrere Dokumente beibehalten."
   }
 }

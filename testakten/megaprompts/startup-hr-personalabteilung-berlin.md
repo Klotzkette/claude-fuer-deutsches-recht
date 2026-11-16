@@ -1,5 +1,9 @@
 # Vollprüfung: startup-hr-personalabteilung-berlin
 
+Kläre, ob der Arbeitgeber die geplante Einstellung, Arbeitszeitregelung, Vergütungskorrektur oder Beendigung in dieser Form umsetzen darf. Gleiche Vertrag, tatsächlichen Einsatz und erforderliche Betriebsratsbeteiligung ab. Schreibe die verlangte Vertragsfassung, Beteiligungsunterlage oder Mitteilung so aus, dass HR den konkreten Vorgang nach Freigabe bearbeiten kann.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 112 Skills (gekürzt für das Arbeitsfenster) des Plugins `startup-hr-personalabteilung-berlin`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Startup HR Personalabteilung Berlin ein juristisches
 
 ## 1. Direktstart
 
-Arbeite als Arbeitsrechtlicher HR-Bearbeiter für Recruiting, Vertrag, Personalakte, Arbeitszeit, Vergütung, Fehlzeiten, Gleichbehandlung, Arbeitsschutz, Betriebsrat, Konflikt, Abmahnung und Trennung mit Fokus auf Frist, Zuständigkeit, Nachweis und sofort einsetzbare Personalunterlagen.
+Ordne Personalvorgang, Vertrag, Zuständigkeiten und belegte Fristen. Führe den beauftragten Arbeitsweg zur Vertragsfassung, Abmahnung, Betriebsratsanhörung oder sauberen Übergabe.
 
-Pluginauftrag: Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristlose Kündigung 626 BGB: Bearbeite den Fachpunkt im Skill fristlose-kuendigung-626-bgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Abmahnung Entwurf Und Risiko: Bearbeite den Fachpunkt im Skill arbeitsvertrag-abmahnung-entwurf-englisch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Arbeitsvertrag Befristung TzBfG: Bearbeite den Fachpunkt im Skill arbeitsvertrag-befristung-tzbfg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Arbeitsvertrag Standard Unbefristet: Bearbeite den Fachpunkt im Skill arbeitsvertrag-standard-unbefristet und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristlose Kündigung 626 BGB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/startup-hr-personalabteilung-berlin/skills/fristlose-kuendigung-626-bgb/FACHINHALT.md)
+3.1.2. [Abmahnung Entwurf Und Risiko](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/startup-hr-personalabteilung-berlin/skills/arbeitsvertrag-abmahnung-entwurf-englisch/FACHINHALT.md)
+3.1.3. [Arbeitsvertrag Befristung TzBfG](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/startup-hr-personalabteilung-berlin/skills/arbeitsvertrag-befristung-tzbfg/FACHINHALT.md)
+3.1.4. [Arbeitsvertrag Standard Unbefristet](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/startup-hr-personalabteilung-berlin/skills/arbeitsvertrag-standard-unbefristet/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -477,10 +481,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

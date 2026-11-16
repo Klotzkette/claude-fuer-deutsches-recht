@@ -1,5 +1,9 @@
 # Vollprüfung: schriftform-und-textform-bgb
 
+Kläre für die Erklärung getrennt Form, Zugang und Nachweis und liefere den bestellten Vermerk oder Korrekturtext. Paragrafen 125 bis 127 und 130 BGB sind zusammen mit der Spezialnorm zu prüfen. BGH, Urteil vom 06.10.2022, Az. VII ZR 895/21, ist der vorhandene Anker zum Zugang geschäftlicher E-Mails: Abrufbarkeit auf dem Empfängerserver während üblicher Geschäftszeiten kann genügen, tatsächliches Lesen ist nicht erforderlich. Das beweist keinen Zugang aus dem Gesendet-Ordner und entscheidet nicht über Privatempfänger oder andere Zeiten. Den dokumentierten Quellenstand erhalten; die Zugangsregel heilt keinen Formmangel.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `schriftform-und-textform-bgb`.
@@ -32,13 +36,13 @@ _Schaltet sich ein, wenn in Schriftform Und Textform BGB ein juristisches Arbeit
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Gleiche Erklärung, Übermittlungsweg, Signatur und Zugangsnachweis mit der konkreten Formvorgabe ab. Begründe die Rechtsfolge und entwirf bei Bedarf eine formgerechte Erklärung.
 
-Pluginauftrag: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Verwende Rechtsprechung erst nach Prüfung der aktuell abrufbaren Quelle.
 
 ## 2. Die tragende These
 
@@ -67,10 +71,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: Bearbeite den Fachpunkt im Skill arbeitsrecht-befristung-schriftform-checker und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Befristungsabrede — qES-Rechtsprechung Stand 2026: Bearbeite den Fachpunkt im Skill befristungsabrede-qes-rechtsprechung-stand-2026 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Maklervertrag nach Paragraf 656a BGB prüfen: Bearbeite den Fachpunkt im Skill maklervertrag-paragraf-656a-bgb-textform-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill schriftform-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/arbeitsrecht-befristung-schriftform-checker/FACHINHALT.md)
+3.1.2. [Befristungsabrede — qES-Rechtsprechung Stand 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/befristungsabrede-qes-rechtsprechung-stand-2026/FACHINHALT.md)
+3.1.3. [Maklervertrag nach Paragraf 656a BGB prüfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/maklervertrag-paragraf-656a-bgb-textform-pruefen/FACHINHALT.md)
+3.1.4. [Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schriftform-und-textform-bgb/skills/schriftform-fristen-form-und-zustaendigkeit/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1196,10 +1202,7 @@ Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **schriftfor
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Fachanwalt Bau Architektenrecht ein jur
 
 ## 1. Direktstart
 
-Arbeite als Baurechtlicher Bearbeiter für Bauvertrag, Architektenleistung, Mängel, Nachtrag, Abnahme, Bauzeit, Sicherheiten und Bauprozess.
+Gleiche Vertrag, Leistungsstand, Abnahme- und Mängelbelege ab. Führe die Position zu Vergütung, Mangel oder Bauzeit bis zum verlangten Schreiben, Schriftsatz oder Vergleich.
 
-Pluginauftrag: Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Mängelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill bauvertrag-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Nachbarklage gegen eine Baugenehmigung prüfen: Bearbeite den Fachpunkt im Skill nachbarklage-baugenehmigung-frist-und-drittschutz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Haftung und Rückabwicklung städtebaulicher Verträge: Bearbeite den Fachpunkt im Skill staedtebauvertrag-haftung-und-rueckabwicklung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Bauträger-Haftungsausschluss und Paragraf 307 BGB: Bearbeite den Fachpunkt im Skill bautraeger-haftungsausschluss-307-bgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine](../bauvertrag-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.2. [Nachbarklage gegen eine Baugenehmigung prüfen](../nachbarklage-baugenehmigung-frist-und-drittschutz/FACHINHALT.md)
+3.1.3. [Haftung und Rückabwicklung städtebaulicher Verträge](../staedtebauvertrag-haftung-und-rueckabwicklung/FACHINHALT.md)
+3.1.4. [Bauträger-Haftungsausschluss und Paragraf 307 BGB](../bautraeger-haftungsausschluss-307-bgb/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

@@ -24,7 +24,7 @@ Wortlaut der Regel, tatsächliche Anwendung, betroffene Aufgabe, behaupteter Zwe
 
 BAG 29.01.2026, 8 AZR 49/25: konkrete berufliche Anforderungen und belegte Konflikte statt pauschaler Neutralitätsbehauptung. Für Sprachvorgaben BAG 29.06.2017, 8 AZR 402/15. [Fallkarten](../../references/rechtsprechung.md), [Zitierweise](../../references/zitierweise.md).
 
-Für C-258/24 gilt der gesonderte Volltextnachweis vom 16.10.2026 in Fallkarte 1.7: amtliche englische Urteilsfassung, nicht Schlussanträge oder Pressemitteilung. Die abschließende Tatsachenwürdigung liegt beim nationalen Gericht; das Urteil gewährt nicht automatisch Entschädigung.
+[EuGH, Urteil vom 17.03.2026, C-258/24, Rn. 51–58 und 64–86](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A62024CJ0258). Die Tatsachenwürdigung bleibt dem nationalen Gericht. Prüfe die Kündigungserklärungsfrist nach Paragraf 626 Absatz 2 BGB und die Rechtfertigung nach Paragraf 9 AGG getrennt. Zum nationalen Ausgangsverfahren 2 AZR 196/22 vom 05.11.2026 führt die Fallkarte 1.7 den amtlich mitgeteilten Verfahrensstand und die Grenzen der Pressemitteilung.
 
 ## 5. Ausgabeformat
 

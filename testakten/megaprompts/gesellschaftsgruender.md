@@ -1,5 +1,9 @@
 # Vollprüfung: gesellschaftsgruender
 
+Setze die vereinbarte Beteiligung, Finanzierung und Geschäftsführung in die bestellte Satzung, Gesellschaftervereinbarung oder Notaranfrage um. Lies Gründerabreden und Zahlungsbelege zuerst; nach bereits erfolgter Beurkundung geht es um offene Einzahlungen und Nachweise, nicht erneut um Rechtsformwahl.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 114 Skills (gekürzt für das Arbeitsfenster) des Plugins `gesellschaftsgruender`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Gesellschaftsgründer ein juristisches Arbeitsproduk
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Bestimme Gründungsziel, Beteiligte und Rechtsform anhand der Unterlagen. Erstelle den beauftragten Satzungsentwurf oder Gründungsplan mit den erforderlichen Entscheidungen und Nachweisen.
 
-Pluginauftrag: Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Verträge, Budget und Streitprävention.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Transparenzregister: Bearbeite den Fachpunkt im Skill gesellschaftsgruender-transparenzregister und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Bank, KYC, UBO und Transparenzregister: Bearbeite den Fachpunkt im Skill bank-kyc-ubo-und-transparenzregister und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Geschäftsführer-Anstellungsvertrag GmbH: Bearbeite den Fachpunkt im Skill geschaeftsfuehrervertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. GmbH-Gesellschaftsvertrag (Satzung): Bearbeite den Fachpunkt im Skill gesellschaftsvertrag-gmbh und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Transparenzregister](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsgruender/skills/gesellschaftsgruender-transparenzregister/FACHINHALT.md)
+3.1.2. [Bank, KYC, UBO und Transparenzregister](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsgruender/skills/bank-kyc-ubo-und-transparenzregister/FACHINHALT.md)
+3.1.3. [Geschäftsführer-Anstellungsvertrag GmbH](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsgruender/skills/geschaeftsfuehrervertrag/FACHINHALT.md)
+3.1.4. [GmbH-Gesellschaftsvertrag (Satzung)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsgruender/skills/gesellschaftsvertrag-gmbh/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -475,10 +479,7 @@ Diese Unterlagenprüfung für **Gesellschaftsgruender** benennt fehlende Dokumen
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

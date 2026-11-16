@@ -7,9 +7,7 @@ description: "Für Produktrecht und Produkthaftung: Produkt und Rolle: Herstelle
 
 ## 1. Zweck und Anwendungsfall
 
-Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Gleiche Produkt, konkrete Verkaufsausführung und Rolle in der Lieferkette ab. Begründe anhand der Belege, wer im betroffenen Markt eine Freigabe erteilen, Ware sperren oder eine Abhilfemaßnahme durchführen soll. Erstelle dazu die verlangte Entscheidungsvorlage.
 
 ## 2. Eingaben
 
@@ -26,9 +24,9 @@ Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betre
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Vertriebsfassung und Verpackung prüfen
 
-Welches Produkt, welche Charge, welche Version und welche Nutzung sind betroffen.
+Ordne Fotos und Sicherheitsunterlagen Charge, Version, Markt und vorgesehener Nutzung zu. Bei einem gefährlichen Gemisch in lebensmittelähnlicher Verpackung Fotos im Verkaufszustand und nach Öffnung mit vertrauten Verpackungen im Zielmarkt vergleichen. [EuGH, Urteil vom 05.11.2026, C-395/25, Orkla Care](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316758&doclang=EN), Rn. 44–56 und 64–99, konkretisiert den Gesamteindruck und die Verwechslungsgefahr nach Artikel 35 Absatz 2 CLP. Berücksichtige Kinder und schutzbedürftige Nutzer. Ein einmalig entfernbares Siegel oder das Fehlen eines Vorfalls entscheidet die Prüfung nicht. Leite daraus die Änderung der Verpackung oder eine vorläufige Vertriebssperre ab und prüfe gesondert die Voraussetzungen für Rückruf und Haftung.
 
 ### 3.4. Arbeitsschritt
 

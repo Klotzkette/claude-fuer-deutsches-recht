@@ -1,5 +1,9 @@
 # Vollprüfung: enteignung-artikel-14
 
+Erstelle aus der vorgegebenen Rolle das zum Grundstückszugriff bestellte Dokument: Verhandlungsschreiben, Einwendung, bezifferte Entschädigungsforderung, Vollzugsanschreiben oder gerichtlichen Antrag. Lies das neueste Schreiben und die tragenden Grundstücksunterlagen zuerst. Ein Kaufangebot ist noch keine Enteignung und verlangt nicht ungefragt eine gerichtliche Route.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 9 Skills des Plugins `enteignung-artikel-14`.
@@ -348,10 +352,7 @@ Versandfähiges Einwendungsschreiben mit Empfänger, Aktenzeichen, konkretem Ant
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

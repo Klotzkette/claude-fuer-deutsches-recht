@@ -1,5 +1,9 @@
 # Vollprüfung: wirtschaftsanwalt
 
+Bearbeiten Sie die anstehende Entscheidung des mittelständischen Unternehmens: einen Liefervertrag fortführen oder beenden, eine Personalmaßnahme vorbereiten, eine Forderung verfolgen oder einen Gesellschafterbeschluss formulieren. Verknüpfen Sie nur die tatsächlich betroffenen Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditätsfragen. Das Ergebnis ist begründeter Rat mit dem bestellten Dokument, keine Vollberatung sämtlicher Spezialgebiete. Die Werkstatt ist eigenständig nutzbar und ersetzt nicht die verantwortliche Mandatsprüfung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 10 Skills des Plugins `wirtschaftsanwalt`.
@@ -615,10 +619,7 @@ Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette,
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

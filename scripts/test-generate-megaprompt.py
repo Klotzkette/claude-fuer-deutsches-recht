@@ -79,6 +79,19 @@ def main() -> int:
         "nicht vorhandener Pfad muss für die Strukturprüfung sichtbar bleiben",
     )
 
+    plugin = G.REPO / "agb-recht-pruefer"
+    published = (G.OUT / "agb-recht-pruefer.md").read_text(encoding="utf-8")
+    generated = G.build_megaprompt(plugin)
+    for mega in (published, generated):
+        require(mega is not None, "Vollprüfung AGB fehlt")
+        first_section = mega.split("## Zusammensetzung", 1)[0]
+        require("Klausel" in first_section and "Arbeitsprodukt" in first_section,
+                "Fachaufgabe und Arbeitsablauf müssen vor der Zusammensetzung stehen")
+        require("VII ZR 168/13" not in mega and "II ZR 30/10" not in mega,
+                "Überholte AGB-Fundstelle aus einem Altbestand übernommen")
+        require("01.10.2026" in mega,
+                "Geprüfter neuer Anker zur AGB-Preisanpassung fehlt")
+
     print("test-generate-megaprompt OK")
     return 0
 

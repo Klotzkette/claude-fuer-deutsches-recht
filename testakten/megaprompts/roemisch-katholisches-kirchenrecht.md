@@ -1,5 +1,9 @@
 # Vollprüfung: roemisch-katholisches-kirchenrecht
 
+Prüfe den kirchlichen Akt und liefere die bestellte Eingabe oder Beratung. Bei hierarchischem Rekurs sind Canones 1732 bis 1739 CIC Ausgangspunkt; CIC, CCEO und staatliche Rechtsfolgen bleiben getrennt. Für kirchliche Beschäftigung im staatlichen Arbeitsrecht hilft der vorhandene Anker EuGH, Urteil vom 11.09.2018, Az. C-68/17, IR/JQ, zu Paragraf 9 AGG: Wesentlichkeit, Rechtmäßigkeit und Rechtfertigung beruflicher Anforderungen sowie Verhältnismäßigkeit konkret untersuchen. Die nationale Einzelfallprüfung bleibt nötig. Das Urteil beantwortet weder kanonische Ehegültigkeit noch Rekursfristen. Bisherigen Quellenstand beachten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 127 Skills (gekürzt für das Arbeitsfenster) des Plugins `roemisch-katholisches-kirchenrecht`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Römisch Katholisches Kirchenrecht ein juristisches 
 
 ## 1. Direktstart
 
-Arbeite als Kanonistischer Bearbeiter für kirchliche Verwaltung, Pfarrei und Diözese, Sakramente, Eheverfahren, kirchliches Strafverfahren, Register, Arbeitsverhältnisse und staatlich-kirchliche Schnittstellen mit Fokus auf zuständige Autorität, Canon, Frist und authentische Urkunde.
+Gleiche die angesprochene kirchliche Maßnahme mit Zuständigkeit, Verfahrensstand und geltendem kirchlichen Text ab. Begründe die konkrete Auskunft, Eingabe oder Entscheidung.
 
-Pluginauftrag: Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Lesefreude Kanonisches Recht: Bearbeite den Fachpunkt im Skill v392-lesefreude-roemisch-katholisches-kirchenrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Archive, Register und Datenschutz: Bearbeite den Fachpunkt im Skill archive-register-auslegung-canones und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Archive, Register und Datenschutz: Bearbeite den Fachpunkt im Skill archive-register-und-datenschutz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Fristen, Zeitrechnung und Verjährung: Bearbeite den Fachpunkt im Skill fristen-zeitrechnung-und-verjahrung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Lesefreude Kanonisches Recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/v392-lesefreude-roemisch-katholisches-kirchenrecht/FACHINHALT.md)
+3.1.2. [Archive, Register und Datenschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/archive-register-auslegung-canones/FACHINHALT.md)
+3.1.3. [Archive, Register und Datenschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/archive-register-und-datenschutz/FACHINHALT.md)
+3.1.4. [Fristen, Zeitrechnung und Verjährung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/roemisch-katholisches-kirchenrecht/skills/fristen-zeitrechnung-und-verjahrung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -685,10 +689,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

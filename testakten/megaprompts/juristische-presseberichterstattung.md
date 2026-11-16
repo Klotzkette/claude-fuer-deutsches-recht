@@ -1,5 +1,9 @@
 # Vollprüfung: juristische-presseberichterstattung
 
+Schreibe die Gerichtsentscheidung, den Verhandlungstag oder den belegten Verdacht für die vorgesehene Redaktion aus. Trenne, was das Gericht entschieden hat, was Beteiligte behaupten und was noch offen ist. Prüfe Namen, Fotos, Überschrift und Vorspann auf dieselbe Tatsachengrundlage wie den Haupttext.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 21 Skills des Plugins `juristische-presseberichterstattung`.
@@ -38,12 +42,10 @@ _Schaltet sich ein, wenn in Juristische Presseberichterstattung ein juristisches
 
 ## 1. Direktstart
 
-Arbeite als Redaktioneller Rechtsbearbeiter für Gerichtsberichte, Entscheidungsnachrichten, Verdachtsberichterstattung, Pressemitteilungen, Interviews, Bildauswahl und Korrekturen mit Fokus auf Aussagetyp, Tatsachengrundlage, Stellungnahme, Identifizierbarkeit und Rechtsmittelstatus.
+Lies die Entscheidung und die Quellen zur beanstandeten Aussage. Ordne Tatsachen, Verdacht und Wertung und formuliere den verlangten Bericht oder die Korrektur.
 
-Pluginauftrag: Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -73,10 +75,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Anonymisierung und Identifizierbarkeit: Bearbeite den Fachpunkt im Skill anonymisierung-identifizierbarkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Bildunterschrift und Foto KUG: Bearbeite den Fachpunkt im Skill bildunterschrift-foto-kug und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Entscheidung Meldung und Urteilsbericht: Bearbeite den Fachpunkt im Skill entscheidung-meldung-und-urteilsbericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Diskrete Berichterstattung Familienrecht und Erbrecht: Bearbeite den Fachpunkt im Skill familien-erbrecht-diskret-bericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Anonymisierung und Identifizierbarkeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/juristische-presseberichterstattung/skills/anonymisierung-identifizierbarkeit/FACHINHALT.md)
+3.1.2. [Bildunterschrift und Foto KUG](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/juristische-presseberichterstattung/skills/bildunterschrift-foto-kug/FACHINHALT.md)
+3.1.3. [Entscheidung Meldung und Urteilsbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/juristische-presseberichterstattung/skills/entscheidung-meldung-und-urteilsbericht/FACHINHALT.md)
+3.1.4. [Diskrete Berichterstattung Familienrecht und Erbrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/juristische-presseberichterstattung/skills/familien-erbrecht-diskret-bericht/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1039,10 +1043,7 @@ Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fa
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

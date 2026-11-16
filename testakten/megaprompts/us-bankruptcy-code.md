@@ -1,5 +1,9 @@
 # Vollprüfung: us-bankruptcy-code
 
+Ordne die US-Petition, Bar-Date-Notice und gerichtlichen Orders der konkreten Forderung, Sicherheit oder Vertragsposition zu. Kläre, welche Handlung gesperrt ist, welche Anmeldung oder Einwendung benötigt wird und wie Finanzierung, Verkauf oder Plan die Rechte des Mandanten verändern. Verfasse nur das beauftragte Dokument; deutsche und grenzüberschreitende Wirkungen sind eigenständig zu prüfen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `us-bankruptcy-code`.
@@ -27,12 +31,12 @@ _Schaltet sich ein, wenn in US Bankruptcy Code ein juristisches Arbeitsprodukt t
 
 ## 1. Direktstart
 
-Arbeite als Bearbeiter für grenzüberschreitende Mandate: Kollisionsrecht, internationale Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungsmomente, Fristen), danach folgt das gewünschte Arbeitsprodukt.
+Bestimme Chapter, Verfahrensstand, Vermögenswert und betroffene Forderung aus den US-Unterlagen. Begründe den beauftragten Prüfvermerk zu Stay, Forderung, Finanzierung, Verkauf oder Plan.
 
-Pluginauftrag: US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border.
+Erfasse Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungstatsachen und Fristen. Lass die Übersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +66,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Administrative Expenses Paragraf 503: Bearbeite den Fachpunkt im Skill administrative-expenses-503 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Automatic Stay Paragraf 362: Bearbeite den Fachpunkt im Skill automatic-stay-362 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Bankruptcy Appeals: Bearbeite den Fachpunkt im Skill bankruptcy-appeals und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Cash Collateral Paragraf 363: Bearbeite den Fachpunkt im Skill cash-collateral-363 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Administrative Expenses Paragraf 503](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/us-bankruptcy-code/skills/administrative-expenses-503/FACHINHALT.md)
+3.1.2. [Automatic Stay Paragraf 362](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/us-bankruptcy-code/skills/automatic-stay-362/FACHINHALT.md)
+3.1.3. [Bankruptcy Appeals](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/us-bankruptcy-code/skills/bankruptcy-appeals/FACHINHALT.md)
+3.1.4. [Cash Collateral Paragraf 363](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/us-bankruptcy-code/skills/cash-collateral-363/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -737,10 +743,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

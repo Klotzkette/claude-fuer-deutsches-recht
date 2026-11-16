@@ -1,5 +1,9 @@
 # Vollprüfung: berufsrecht-ki-vertragspruefung
 
+Darf der Anbieter Mandatsinhalte für die vereinbarte Verarbeitung nutzen, und wer erhält über Support, Protokolle oder Unterauftragnehmer Zugang? Lies Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Konfiguration und bisherige Antworten. Liefere Klauseländerungen oder das bestellte Einsatzgutachten; kein ungefragtes Aufsichtsverfahren.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 94 Skills des Plugins `berufsrecht-ki-vertragspruefung`.
@@ -27,13 +31,13 @@ _Schaltet sich ein, wenn Verträge über algorithmische Systeme berufsrechtlich 
 
 ## 1. Direktstart
 
-Arbeite als berufsrechtlicher Vertragsprüfer für Geheimnisschutz, sorgfältige Dienstleisterauswahl, Weisungs- und Kontrollrechte, Datenflüsse, Unterauftragnehmer, Telemetrie, Trainingsausschluss, Löschung, Haftung und Exit.
+Verfolge, welche Mandatsdaten nach Vertrag und tatsächlicher Konfiguration wohin gelangen. Prüfe Verschwiegenheit, Strafrecht und Datenschutz getrennt und begründe die beauftragte Vertragsänderung oder Freigabebedingung.
 
-Pluginauftrag: Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-Tech-Anbietern: Paragraf 43e BRAO, Paragraf 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, Regulierungsrahmen-Rollen, Art.-50-Transparenz, Schatten-Systeme und Klauselvorschläge.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Gleiche insbesondere Trainingsnutzung, Telemetrie, Drittstaatenzugriff und mögliche nicht freigegebene Dienste mit der tatsächlichen Konfiguration ab.
 
 ## 2. Die tragende These
 
@@ -62,10 +66,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Vertragsprüfung: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill vertragspruefung-fristennotiz-naechster und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot: Bearbeite den Fachpunkt im Skill art-50-ki-vo-schriftsatz-marketing-chatbot und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Anbietern: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill anbietern-schriftsatz-brief-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Brao: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill brao-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Vertragsprüfung: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/skills/vertragspruefung-fristennotiz-naechster/FACHINHALT.md)
+3.1.2. [Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/skills/art-50-ki-vo-schriftsatz-marketing-chatbot/FACHINHALT.md)
+3.1.3. [Anbietern: Schriftsatz-, Brief- und Memo-Bausteine](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/skills/anbietern-schriftsatz-brief-memo-bausteine/FACHINHALT.md)
+3.1.4. [Brao: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/skills/brao-zahlen-schwellen-und-berechnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -133,6 +139,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
 10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/references/ki-normen-und-fallpruefung.md). Vergleichen Sie beworbene vollautomatische Rechtsberatung mit vertraglich zugesagter bloßer Entwurfshilfe. Ermitteln Sie, wer Zwecke und Änderungen bestimmt; Gewährleistung, Verschwiegenheit und Anbieterrolle werden nicht durch eine gemeinsame Vertragsüberschrift ersetzt. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -579,10 +586,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

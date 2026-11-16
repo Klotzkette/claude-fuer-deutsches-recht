@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Richter Verwaltungsgericht ein juristis
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche Antrag, Bescheid und Verwaltungsvorgang ab. Bestimme Prüfungsmaßstab und entscheidungserhebliche Tatsachen und entwirf die verlangte Verfügung oder Entscheidung.
 
-Pluginauftrag: Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswürdigung im Amtsermittlungsgrundsatz und Tenorvorschlag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 01 Zulässigkeit Verwaltungsklage: Bearbeite den Fachpunkt im Skill 01-zulaessigkeit-verwaltungsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 03 Begründetheit Anfechtungsklage: Bearbeite den Fachpunkt im Skill 03-begruendetheit-anfechtungsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 04 Begründetheit Verpflichtungsklage: Bearbeite den Fachpunkt im Skill 04-begruendetheit-verpflichtungsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 07 Beweisaufnahme Verwaltungsgericht: Bearbeite den Fachpunkt im Skill 07-beweisaufnahme-verwaltungsgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [01 Zulässigkeit Verwaltungsklage](../01-zulaessigkeit-verwaltungsklage/SKILL.md)
+3.1.2. [03 Begründetheit Anfechtungsklage](../03-begruendetheit-anfechtungsklage/SKILL.md)
+3.1.3. [04 Begründetheit Verpflichtungsklage](../04-begruendetheit-verpflichtungsklage/SKILL.md)
+3.1.4. [07 Beweisaufnahme Verwaltungsgericht](../07-beweisaufnahme-verwaltungsgericht/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

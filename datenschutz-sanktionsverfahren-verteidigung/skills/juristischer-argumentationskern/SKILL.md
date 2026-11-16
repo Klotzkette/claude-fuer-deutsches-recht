@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Datenschutz Sanktionsverfahren Verteidi
 
 ## 1. Direktstart
 
-Arbeite als Datenschutzrechtlicher Bearbeiter für Verantwortliche, Auftragsverarbeitung, Betroffenenrechte, Datenschutzaufsicht und Datenpannen.
+Lies Anhörung, Verfahrensakte und belegte Verarbeitungsvorgänge. Trenne den behaupteten Verstoß, die Verantwortlichkeit und die Bemessung der Sanktion und entwirf die beauftragte Stellungnahme.
 
-Pluginauftrag: Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: Datenschutz-Grundverordnung-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Einspruch Paragraf 67 OWiG Frist und Form: Bearbeite den Fachpunkt im Skill einspruch-67-owig-frist-und-form und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Wiedereinsetzung nach Fristversäumnis: Bearbeite den Fachpunkt im Skill wiedereinsetzung-nach-fristversaeumnis und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO: Bearbeite den Fachpunkt im Skill akteneinsicht-49-owig-147-stpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Art. 78 Rechtsschutz: Bearbeite den Fachpunkt im Skill art-78-rechtsschutz-und-betroffenenbeschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Einspruch Paragraf 67 OWiG Frist und Form](../einspruch-67-owig-frist-und-form/FACHINHALT.md)
+3.1.2. [Wiedereinsetzung nach Fristversäumnis](../wiedereinsetzung-nach-fristversaeumnis/FACHINHALT.md)
+3.1.3. [Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO](../akteneinsicht-49-owig-147-stpo/FACHINHALT.md)
+3.1.4. [Art. 78 Rechtsschutz](../art-78-rechtsschutz-und-betroffenenbeschwerde/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

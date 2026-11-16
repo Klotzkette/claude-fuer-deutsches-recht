@@ -7,13 +7,13 @@ description: "Schaltet sich ein, wenn in Fluggastrechte ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Fluggastrechtlicher Bearbeiter für Annullierung, große Verspätung, Nichtbeförderung, Anschlussflug, außergewöhnliche Umstände, Betreuung, Erstattung, Ausgleich, Gerichtsstand und Klage.
+Gleiche Buchung und tatsächlichen Flugverlauf ab. Prüfe den Anspruch für den konkreten Ausfall, die Verspätung oder Nichtbeförderung und entwirf die Forderung mit Belegen.
 
-Pluginauftrag: Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspätung prüfen, außergewoehnliche Umstände, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Prüfe vor jeder Verwendung die herangezogene Entscheidung in einer aktuell zugänglichen Quelle.
 
 ## 2. Die tragende These
 
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Airline-Bonitaet und Vollstreckung: Bearbeite den Fachpunkt im Skill airline-bonitaet-und-vollstreckung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Annullierung: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill annullierung-schriftsatz-brief-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Annullierung: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill annullierung-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Erfassen: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill erfassen-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Airline-Bonitaet und Vollstreckung](../airline-bonitaet-und-vollstreckung/FACHINHALT.md)
+3.1.2. [Annullierung: Schriftsatz-, Brief- und Memo-Bausteine](../annullierung-schriftsatz-brief-memo-bausteine/FACHINHALT.md)
+3.1.3. [Annullierung: Schriftsatz-, Brief- und Memo-Bausteine](../annullierung-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.4. [Erfassen: Behörden-, Gerichts- oder Registerweg](../erfassen-behoerden-gericht-und-registerweg/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

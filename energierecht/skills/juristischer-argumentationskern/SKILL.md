@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Energierecht ein juristisches Arbeitspr
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Ordne Anlage, Vertrag, Netzbezug und Zeitpunkt dem einschlägigen Energieregime zu. Begründe daraus die Entscheidung zur Förderung, zum Anschluss, zur Abrechnung oder zum behördlichen Verfahren.
 
-Pluginauftrag: Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Produktsicherheit, Rückruf und Haftung: Bearbeite den Fachpunkt im Skill bess-produktsicherheit-haftung-versicherung-schadenfall und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Industrie: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill industrie-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Livecheck: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill livecheck-fristennotiz-versorger und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. PPA und CPPA: Spezialitaeten: Bearbeite den Fachpunkt im Skill ppa-cppa-vertragsspezialitaeten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Produktsicherheit, Rückruf und Haftung](../bess-produktsicherheit-haftung-versicherung-schadenfall/FACHINHALT.md)
+3.1.2. [Industrie: Schriftsatz-, Brief- und Memo-Bausteine](../industrie-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.3. [Livecheck: Fristennotiz und nächster Schritt](../livecheck-fristennotiz-versorger/FACHINHALT.md)
+3.1.4. [PPA und CPPA: Spezialitaeten](../ppa-cppa-vertragsspezialitaeten/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

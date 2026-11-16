@@ -1,5 +1,9 @@
 # Vollprüfung: einigungsvertrag-vermoegensrecht
 
+Rekonstruiere aus DDR-, Übergangs- und heutigen Akten die Rechtsfolge für das bezeichnete Grundstück oder den früher volkseigenen Vermögenswert. Trenne Entziehung, Rechtsträgerschaft, Eigentum und späteren Erwerb. Ergebnis ist die bestellte Bewertung, Archivanfrage oder Behörden- beziehungsweise Grundbuchunterlage, nicht automatisch Antrag oder Klage.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 124 Skills (gekürzt für das Arbeitsfenster) des Plugins `einigungsvertrag-vermoegensrecht`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Einigungsvertrag Vermögensrecht ein juristisches Ar
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Rekonstruiere Vermögenszuordnung, Erwerbsvorgang und Verfahrensstand aus den historischen Akten. Begründe die Entscheidung zur Zuordnung oder Rückübertragung mit der maßgeblichen Textfassung.
 
-Pluginauftrag: Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteivermögen, Treuhand, Bodenreform, Mauergrundstücke, VermG und Restitution.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Parteivermögen Widerspruch Prüfen: Bearbeite den Fachpunkt im Skill parteivermoegen-widerspruch-klage-skizzieren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Vermögensgesetz Anspruchspfad: Bearbeite den Fachpunkt im Skill ein-006-vermoegensgesetz-anspruchspfad und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Volkseigener Betrieb Widerspruch Prüf: Bearbeite den Fachpunkt im Skill ein-028-volkseigener-betrieb-widerspruch-pruef und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Mauergrundstueck Anspruchspfad Prüfen: Bearbeite den Fachpunkt im Skill ein-041-mauergrundstueck-anspruchspfad-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Parteivermögen Widerspruch Prüfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/einigungsvertrag-vermoegensrecht/skills/parteivermoegen-widerspruch-klage-skizzieren/FACHINHALT.md)
+3.1.2. [Vermögensgesetz Anspruchspfad](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/einigungsvertrag-vermoegensrecht/skills/ein-006-vermoegensgesetz-anspruchspfad/FACHINHALT.md)
+3.1.3. [Volkseigener Betrieb Widerspruch Prüf](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/einigungsvertrag-vermoegensrecht/skills/ein-028-volkseigener-betrieb-widerspruch-pruef/FACHINHALT.md)
+3.1.4. [Mauergrundstueck Anspruchspfad Prüfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/einigungsvertrag-vermoegensrecht/skills/ein-041-mauergrundstueck-anspruchspfad-pruefen/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -574,10 +578,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

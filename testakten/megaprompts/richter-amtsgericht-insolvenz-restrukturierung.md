@@ -1,5 +1,9 @@
 # Vollprüfung: richter-amtsgericht-insolvenz-restrukturierung
 
+Erstelle die beauftragte Aufklärungsverfügung, Sicherungsanordnung oder Entscheidung aus dem nachgewiesenen Verfahrensstand. Paragrafen 14, 17 und 21 InsO trennen Antrag, Eröffnungsgrund und Sicherung; ein beantragtes StaRUG-Instrument ist gesondert zu prüfen. BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22, Rn. 34 bis 45, ist der vorhandene Anker für die Statusbewertung: Bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung die vorläufig vollstreckbare Forderung nicht nach Prozesschancen abwerten. Das ist kein pauschaler Maßstab für die Zulässigkeit jedes Gläubigerantrags. Die offengelassene Ausnahme offensichtlicher Unbegründetheit und den dokumentierten Quellenstand erhalten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 13 Skills des Plugins `richter-amtsgericht-insolvenz-restrukturierung`.
@@ -30,12 +34,10 @@ _Schaltet sich ein, wenn in Richter Amtsgericht Insolvenz Restrukturierung ein j
 
 ## 1. Direktstart
 
-Arbeite als Insolvenzrechtlicher Bearbeiter für Krisenfrüherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung.
+Lies Antrag, Gläubiger- und Schuldnerunterlagen sowie bisherige Verfügungen. Begründe den anstehenden insolvenz- oder restrukturierungsgerichtlichen Beschluss mit Stichtagen und Belegen.
 
-Pluginauftrag: Insolvenz- und Restrukturierungsgericht: Eröffnungsverfahren Sicherungsmaßnahmen Verwalterauswahl Gläubigerversammlung Prüfungstermin Schlusstermin Restschuldbefreiung Restrukturierungssache nach StaRUG mit Stabilisierungsanordnung und Planbestätigung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -65,10 +67,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 01 Eröffnungsantrag Prüfen Insolvenz: Bearbeite den Fachpunkt im Skill 01-eroeffnungsantrag-pruefen-insolvenz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 07 Insolvenzplan Bestätigen: Bearbeite den Fachpunkt im Skill 07-insolvenzplan-bestaetigen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 08 StaRUG Restrukturierungssache Anzeigen: Bearbeite den Fachpunkt im Skill 08-starug-restrukturierungssache-anzeigen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 02 Sicherungsmaßnahmen Vor Eröffnung: Bearbeite den Fachpunkt im Skill 02-sicherungsmassnahmen-vor-eroeffnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [01 Eröffnungsantrag Prüfen Insolvenz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/skills/01-eroeffnungsantrag-pruefen-insolvenz/SKILL.md)
+3.1.2. [07 Insolvenzplan Bestätigen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/skills/07-insolvenzplan-bestaetigen/SKILL.md)
+3.1.3. [08 StaRUG Restrukturierungssache Anzeigen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/skills/08-starug-restrukturierungssache-anzeigen/SKILL.md)
+3.1.4. [02 Sicherungsmaßnahmen Vor Eröffnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/skills/02-sicherungsmassnahmen-vor-eroeffnung/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1078,10 +1082,7 @@ Dieser Skill trennt Antrag, Gläubigerstellung, Forderung, Eröffnungsgrund, Sic
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

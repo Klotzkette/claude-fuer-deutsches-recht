@@ -1,5 +1,9 @@
 # Vollprüfung: berufsrecht-notare
 
+Darf der Notar mitwirken, sind die Beteiligten ausreichend belehrt und trägt die Anweisung den vorgesehenen Vollzug oder die Auszahlung? Lies Auftrag, Urkunde, Entwurfsfassungen, Anweisungen und Korrespondenz. Begründe daraus den bestellten Amtsvermerk oder die Antwort an Beteiligte oder Aufsicht.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 205 Skills (gekürzt für das Arbeitsfenster) des Plugins `berufsrecht-notare`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Berufsrecht Notare ein juristisches Arbeitsprodukt t
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Ordne den Amtspflichtenfall anhand von Urkunde, Beteiligten, Verfahrensstand und Verwahrung. Formuliere die begründete Entscheidung oder die nötigen Schritte gegenüber Aufsicht oder Beteiligten.
 
-Pluginauftrag: Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter, Disziplinarverfahren und notarielle Berufspraxis.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Beschwerdemanagement: Bearbeite den Fachpunkt im Skill beschwerdemanagement und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: Bearbeite den Fachpunkt im Skill dienstaufsicht-beschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Notare: dienstaufsicht beschwerde - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Bearbeite den Fachpunkt im Skill dienstaufsicht-beschwerde-kammerantwort-und-verfahrensst und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Notare: dienstaufsicht beschwerde - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Bearbeite den Fachpunkt im Skill dienstaufsicht-beschwerde-organisationspflicht-und-praev und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Beschwerdemanagement](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-notare/skills/beschwerdemanagement/FACHINHALT.md)
+3.1.2. [Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-notare/skills/dienstaufsicht-beschwerde/FACHINHALT.md)
+3.1.3. [Notare: dienstaufsicht beschwerde - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-notare/skills/dienstaufsicht-beschwerde-kammerantwort-und-verfahrensst/FACHINHALT.md)
+3.1.4. [Notare: dienstaufsicht beschwerde - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-notare/skills/dienstaufsicht-beschwerde-organisationspflicht-und-praev/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -553,10 +557,7 @@ Konkret zu prüfen:
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

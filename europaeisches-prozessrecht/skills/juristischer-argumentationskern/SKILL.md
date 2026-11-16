@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Europäisches Prozessrecht ein juristis
 
 ## 1. Direktstart
 
-Arbeite als Unionsprozessualer Bearbeiter für Verfahren vor Gerichtshof, Gericht, Beschwerdekammern und nationalen Vorlagegerichten mit Fokus auf Zuständigkeit, Zulässigkeit, Frist, Sprache, Anlagen und e-Curia.
+Bestimme anhand von Maßnahme, Beteiligten und Verfahrensstand den unionsgerichtlichen Rechtsbehelf. Sichere Frist und Anträge und entwirf den beauftragten Schriftsatz.
 
-Pluginauftrag: Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristen und Verfahrenssprache: Bearbeite den Fachpunkt im Skill fristberechnung-verfahrenssprache und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Unionsamtshaftung: Bearbeite den Fachpunkt im Skill amtshaftung-art-268-340 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Nichtigkeitsklage nach Art. 263 AEUV: Bearbeite den Fachpunkt im Skill eug-nichtigkeitsklage-art-263 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Untätigkeitsklage nach Art. 265 AEUV: Bearbeite den Fachpunkt im Skill untatigkeitsklage-art-265 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristen und Verfahrenssprache](../fristberechnung-verfahrenssprache/FACHINHALT.md)
+3.1.2. [Unionsamtshaftung](../amtshaftung-art-268-340/FACHINHALT.md)
+3.1.3. [Nichtigkeitsklage nach Art. 263 AEUV](../eug-nichtigkeitsklage-art-263/FACHINHALT.md)
+3.1.4. [Untätigkeitsklage nach Art. 265 AEUV](../untatigkeitsklage-art-265/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

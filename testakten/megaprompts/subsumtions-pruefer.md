@@ -1,5 +1,9 @@
 # Vollprüfung: subsumtions-pruefer
 
+Prüfe die vorgelegte rechtliche Schlussfolgerung anhand der Fallfrage, Norm und Tatsachen und liefere die bestellte korrigierte Passage oder Fehleranalyse. Eine einzelne Subsumtionsprüfung verlangt weder eine vollständige Hausarbeit noch einen versandfertigen Schriftsatz.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `subsumtions-pruefer`.
@@ -32,13 +36,13 @@ _Schaltet sich ein, wenn in Subsumtions Prüfer ein juristisches Arbeitsprodukt 
 
 ## 1. Direktstart
 
-Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+Bestimme das entscheidende Tatbestandsmerkmal und den dazu vorgetragenen Sachverhalt. Führe Definition, belegte Tatsachen und Gegenargument in einer vollständigen Subsumtion zusammen.
 
-Pluginauftrag: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Formuliere die Subsumtion als überprüfbare Arbeitsgrundlage für die eigene fachliche Entscheidung.
 
 ## 2. Die tragende These
 
@@ -67,10 +71,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Output: Antrag, Beschwerde, Klageschrift: Bearbeite den Fachpunkt im Skill output-antrag-beschwerde-klageschrift und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill europarecht-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Konkurrenzen und Anspruchsgrundlagen: Bearbeite den Fachpunkt im Skill konkurrenzen-anspruchsgrundlagen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill rechtsfolgen-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Output: Antrag, Beschwerde, Klageschrift](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/subsumtions-pruefer/skills/output-antrag-beschwerde-klageschrift/FACHINHALT.md)
+3.1.2. [Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/subsumtions-pruefer/skills/europarecht-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.3. [Konkurrenzen und Anspruchsgrundlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/subsumtions-pruefer/skills/konkurrenzen-anspruchsgrundlagen/FACHINHALT.md)
+3.1.4. [Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/subsumtions-pruefer/skills/rechtsfolgen-zahlen-schwellen-und-berechnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1307,10 +1313,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

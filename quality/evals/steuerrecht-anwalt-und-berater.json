@@ -168,6 +168,26 @@
       "checked_on": "2026-11-14",
       "supports": "Tatzeitrecht, Änderung während der Tat und mildestes Gesetz, keine automatische Umstellung.",
       "verification_status": "amtlicher_normtext"
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610208/",
+      "checked_on": "2026-11-16",
+      "supports": "BFH IV R 10/24, am 12.11.2026 veröffentlicht. Rn. 38–50 zu betriebsbezogener Überentnahmerechnung und übernommenem positivem steuerbilanziellen Eigenkapital bei Formwechsel."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650176/",
+      "checked_on": "2026-11-16",
+      "supports": "BFH X B 2/26, Rn. 14–18 zu unberücksichtigter Aktenstelle und Aufhebung des finanzgerichtlichen Urteils. Nichtigkeit im konkreten Fall offengelassen."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210043/",
+      "checked_on": "2026-11-16",
+      "supports": "BFH VI R 22/19, Rn. 16–19 und 22–28 zu Kostentragung, Einsatzinteresse, Eingliederung und Weisungen bei konzerninterner Entsendung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/e/rs20210708_1bvr223714.html",
+      "checked_on": "2026-11-16",
+      "supports": "BVerfG 1 BvR 2237/14 und 1 BvR 2422/17, Tenor zur Fortgeltung der Vollverzinsung bis einschließlich 2018."
     }
   ],
   "mini_review": {
@@ -184,17 +204,19 @@
       "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
       "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen.",
       "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg.",
-      "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert."
+      "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert.",
+      "2026-11-16: Die Überentnahmerechnung beim Formwechsel mit Steuerbilanz und betrieblicher Zuordnung aufbauen. Im Schwerpunkt Schätzung den konkreten übergangenen Akteninhalt und die Entscheidungserheblichkeit benennen. Streitpunkt, Beleg und Antrag im selben Entwurf fortschreiben."
     ],
-    "sha256": "bd9177c23b42267422a407ce5347a9259859292bff1f882a990e02ce9bfea250",
+    "sha256": "bbeb35dffdd81ffd3ff2b5335f1cf4210c7d631eb12dd513ae9642d96fd90a71",
     "reviewed_on": "2026-11-06",
-    "method": "desk_review"
+    "method": "desk_review",
+    "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
   "focus_review": {
-    "reviewed_on": "2026-10-01",
+    "reviewed_on": "2026-11-16",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Begrenzter Quellenabgleich der fachbezogenen Einfügung und ihres Zusammenhangs am 01.10.2026. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+    "reason": "Punktuelle Gegenlese von Einstieg, Fortsetzung und Schätzungsanker. Der Schwerpunkt bleibt bei der Hinzuschätzung.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -202,10 +224,11 @@
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Leere Eingabe, Dateien ohne Auftrag und klaren Auftrag im Fokus und zugehörigen Skill getrennt behandelt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
-      "14.11.2026: Zugeordneten Skill vollständig gelesen und um aktuellen Rechtsprechungszweig ergänzt; unveränderter Fokusprompt und dessen ältere Quellenprüfung dadurch nicht neu datiert."
+      "14.11.2026: Zugeordneten Skill vollständig gelesen und um aktuellen Rechtsprechungszweig ergänzt; unveränderter Fokusprompt und dessen ältere Quellenprüfung dadurch nicht neu datiert.",
+      "2026-11-16: BFH X B 2/26 passagenbezogen aufgenommen. Prüfung der übergangenen Aktenstelle von der offen gebliebenen Nichtigkeit trennen. Einstieg auf Gegenrechnung und bestelltes Schreiben gekürzt."
     ],
     "prompt_path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
-    "prompt_sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942",
+    "prompt_sha256": "14f1fc13848ca92be91b304293e2d0c23100ddb00ec3f48871d38284ee90152e",
     "skill_path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
     "skill_sha256": "282de1413ef1111cf37140b472a96362449280cb278bf0d35f13aabb1d4f25b3"
   },
@@ -492,11 +515,13 @@
       "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg.",
       "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert.",
       "14.11.2026: Werkstatt im Zusammenhang gelesen und die im Quellenfolgeprüfvermerk genannten aktuellen Entscheidungen passagenbezogen eingearbeitet. Keine Neuprüfung sämtlicher Altquellen und kein Live-Modelltest.",
-      "EuGH-Überprüfung C-167/26 RX und deren Wirkung nach Art. 62b Abs. 2 der EuGH-Satzung zum Stichtag einordnen."
+      "EuGH-Überprüfung C-167/26 RX und deren Wirkung nach Art. 62b Abs. 2 der EuGH-Satzung zum Stichtag einordnen.",
+      "2026-11-16: Die Überentnahmerechnung beim Formwechsel mit Steuerbilanz und betrieblicher Zuordnung aufbauen. Im Schwerpunkt Schätzung den konkreten übergangenen Akteninhalt und die Entscheidungserheblichkeit benennen. Streitpunkt, Beleg und Antrag im selben Entwurf fortschreiben."
     ],
-    "sha256": "20893f8a02ba4af2416f66365e64e598a6fbd95ea8be81c4ba4e23326588f558",
+    "sha256": "a2e09f696daf9c119622234dc96c6091ffe8129ffdd0e2ce8c2d9bffbd787351",
     "reviewed_on": "2026-11-14",
-    "method": "desk_review"
+    "method": "desk_review",
+    "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
   "prompt_editorial_review": {
     "date": "2026-11-06",
@@ -797,5 +822,11 @@
     "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
     "before_sha256": "2bee87ffc8dccf16fc7f5277c76699c690ddb5242586aba278196936e80b99d0",
     "after_sha256": "20893f8a02ba4af2416f66365e64e598a6fbd95ea8be81c4ba4e23326588f558"
+  },
+  "fachquellen_nachpruefung_2026_11_16": {
+    "method": "desk_review",
+    "checked_on": "2026-11-16",
+    "workflow": "Die Überentnahmerechnung beim Formwechsel mit Steuerbilanz und betrieblicher Zuordnung aufbauen. Im Schwerpunkt Schätzung den konkreten übergangenen Akteninhalt und die Entscheidungserheblichkeit benennen. Streitpunkt, Beleg und Antrag im selben Entwurf fortschreiben.",
+    "limits": "Geprüft wurden die konkret genannten Passagen und Verfahrensstände. Kein neuer Live-Modelltest und keine fachliche Vollprüfung sämtlicher Aussagen."
   }
 }

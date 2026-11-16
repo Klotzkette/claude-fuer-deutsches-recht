@@ -9,11 +9,11 @@ description: "Schaltet sich ein, wenn in Forschungszulage Antragstellung ein jur
 
 Begründe die Förderfähigkeit eines konkreten Forschungs- und Entwicklungsvorhabens und dessen berücksichtigungsfähige Aufwendungen. Trenne die fachliche Bescheinigung der BSFZ von der wirtschaftsjahrbezogenen Festsetzung beim Finanzamt.
 
-Pluginauftrag: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.
-
 1.1. Sichte zuerst Projektbeschreibung, Arbeitspakete, Versuchsnachweise, Bescheinigung, Kostenbelege und erkennbare Fristen. Öffne zusätzliche Unterlagen gezielt für die jeweils ungeklärte Fördervoraussetzung.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Erstelle bei Bedarf die Portaltexte innerhalb der BSFZ-Zeichenbudgets und belege die beantragten Aufwendungen getrennt für den Antrag beim Finanzamt.
 
 ## 2. Die tragende These
 
@@ -43,10 +43,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Antrag: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill antrag-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: Bearbeite den Fachpunkt im Skill antragstellung-auszahlung-beihilfen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Dokumentation: Mandantenkommunikation und Entscheidungsvorlage: Bearbeite den Fachpunkt im Skill forschungszulage-mandantenentscheidung-antragspfad und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: Bearbeite den Fachpunkt im Skill tatbestand-beweis-belege-antragstellung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Antrag: Zahlen, Schwellenwerte und Berechnung](../antrag-zahlen-schwellen-und-berechnung/FACHINHALT.md)
+3.1.2. [Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage](../antragstellung-auszahlung-beihilfen/FACHINHALT.md)
+3.1.3. [Dokumentation: Mandantenkommunikation und Entscheidungsvorlage](../forschungszulage-mandantenentscheidung-antragspfad/FACHINHALT.md)
+3.1.4. [Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage](../tatbestand-beweis-belege-antragstellung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
