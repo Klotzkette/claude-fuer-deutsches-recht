@@ -1,5 +1,9 @@
 # Vollprüfung: ki-vo-ai-act-pruefer
 
+Ordne die tatsächlich eingesetzte Funktion einem Verbot, einer Hochrisikokategorie oder einer Transparenzpflicht zu und bestimme den verantwortlichen Akteur und Geltungsbeginn. Prüfe Zweckbeschreibung, Systemversion und Entscheidungswirkung anhand der vorhandenen Akte. Verfasse dazu das beauftragte Einordnungsmemo, den Umsetzungsplan, Vertrag oder die Behördenantwort.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 123 Skills (gekürzt für das Arbeitsfenster) des Plugins `ki-vo-ai-act-pruefer`.
@@ -25,13 +29,13 @@ _Schaltet sich ein, wenn der europäische Regulierungsrahmen für algorithmische
 
 ## 1. Direktstart
 
-Arbeite als Bearbeiter für europäische Technikregulierung nach VO (EU) 2024/1689 mit Fokus auf Rollen, Risikoklassen, Stichtage, Dokumentationspflichten, Betreiberpflichten, Marktaufsicht und Quellenhygiene.
+Prüfe das konkrete System, seinen Einsatz und die Rolle der Beteiligten. Ordne Risikoklasse, zeitliche Geltung und Pflichten zu und halte belegt fest, welche Maßnahmen noch ausstehen.
 
-Pluginauftrag: Mechanik-Workflow zur Regulierungsrahmen (EU 2024/1689): System-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, System-Kompetenz, Shadow-algorithmische Systeme, Berufsrecht, Hochschul- und Behördenpraxis.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Prüfe bei Bedarf Konformitätsbewertung, Kennzeichnung, EU-Datenbank, Marktbeobachtung und KI-Kompetenz. Beurteile den tatsächlich eingesetzten Dienst auch dann, wenn er nicht im Inventar steht.
 
 ## 2. Die tragende These
 
@@ -60,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Provider-Deployer-Vertragsmatrix: Bearbeite den Fachpunkt im Skill provider-deployer-vertragsmatrix und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Zeitlicher Geltungsbereich und Übergangsfristen — Regulierungsrahmen: Bearbeite den Fachpunkt im Skill zeitlicher-geltungsbereich-uebergangsfristen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Anbieter-Werden — Art. 25 Regulierungsrahmen: Bearbeite den Fachpunkt im Skill anbieter-werden-art-25 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Regulierungsrahmen und Datenschutz-Grundverordnung Art. 22: Bearbeite den Fachpunkt im Skill automatisierte-entscheidung-dsgvo-art-22 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Provider-Deployer-Vertragsmatrix](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-vo-ai-act-pruefer/skills/provider-deployer-vertragsmatrix/FACHINHALT.md)
+3.1.2. [Zeitlicher Geltungsbereich und Übergangsfristen — Regulierungsrahmen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-vo-ai-act-pruefer/skills/zeitlicher-geltungsbereich-uebergangsfristen/FACHINHALT.md)
+3.1.3. [Anbieter-Werden — Art. 25 Regulierungsrahmen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-vo-ai-act-pruefer/skills/anbieter-werden-art-25/FACHINHALT.md)
+3.1.4. [Regulierungsrahmen und Datenschutz-Grundverordnung Art. 22](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-vo-ai-act-pruefer/skills/automatisierte-entscheidung-dsgvo-art-22/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1086,10 +1092,7 @@ Geprueft: [NAME], [DATUM]
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

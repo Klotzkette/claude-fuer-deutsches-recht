@@ -60,7 +60,9 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Zehn ausführliche, unabhängig einsetzbare Werkstattprompts führen von den Originalbelegen über objektive und subjektive Merkmale bis zum ausformulierten Arbeitsergebnis. Jede Werkstatt enthält Belegkennzeichnung, Beweislastfragen, Gegenargumente, amtliche Quellen und ausgearbeitete Lernvarianten. Die [Normübersicht](werkstattprompts/README.md) hilft bei der Auswahl; die vorhandenen elf Skills rufen jeweils die passende Vertiefung auf.
 
-[Zehn Werkstätten als ZIP mit MD, TXT und Einzel-PDFs herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.2/insolvenzanfechtung-tatbestandswerkstaetten.zip) · [Gesamtband als PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.2/insolvenzanfechtung-tatbestandswerkstaetten.pdf).
+[Zehn Werkstätten aus dem Repository als ZIP](../docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.zip) · [Gesamtband aus dem Repository als PDF](../docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.pdf).
+
+Veröffentlichter Stand vom 15.11.2026: [Zehn Werkstätten als ZIP mit MD, TXT und Einzel-PDFs herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.2/insolvenzanfechtung-tatbestandswerkstaetten.zip) · [Gesamtband als PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.2/insolvenzanfechtung-tatbestandswerkstaetten.pdf).
 
 ## Zugeordnete Testakten
 

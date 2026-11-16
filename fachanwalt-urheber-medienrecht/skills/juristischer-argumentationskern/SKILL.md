@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Fachanwalt Urheber Medienrecht ein juri
 
 ## 1. Direktstart
 
-Arbeite als Urheberrechtlicher Bearbeiter für Werk, Rechtekette, Lizenz, Nutzung, Schranken, Plattformen, Abmahnung und Unterlassung.
+Rekonstruiere Rechtekette, Veröffentlichung und die konkrete angegriffene Nutzung. Begründe daraus Anspruch, Gegenposition, Lizenz oder Medienreaktion einschließlich der nachweisbaren Folgen.
 
-Pluginauftrag: Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-abmahnung-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Lizenzvertrag-Verhandlung: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Filesharing-Abmahnung Verteidigung: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-filesharing-verteidigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Gegendarstellung Presserecht: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-gegendarstellung-presse und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht](../fachanwalt-urheber-medienrecht-abmahnung-pruefen/FACHINHALT.md)
+3.1.2. [Lizenzvertrag-Verhandlung](../fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung/FACHINHALT.md)
+3.1.3. [Filesharing-Abmahnung Verteidigung](../fachanwalt-urheber-medienrecht-filesharing-verteidigung/FACHINHALT.md)
+3.1.4. [Gegendarstellung Presserecht](../fachanwalt-urheber-medienrecht-gegendarstellung-presse/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

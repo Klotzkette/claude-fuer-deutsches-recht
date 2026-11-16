@@ -1,5 +1,9 @@
 # Vollprüfung: fachanwalt-vergaberecht
 
+Gleiche Ausschreibungsanforderung, Eignungsentscheidung oder Zuschlagswertung mit den veröffentlichten Unterlagen und dem belegten Angebot ab. Liefere die bestellte Beratung, Rüge, Stellungnahme oder Auftraggeberentscheidung: Welcher Fehler verändert Wettbewerb oder Zuschlagschance, welche Korrektur passt?
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 123 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-vergaberecht`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Fachanwalt Vergaberecht ein juristisches Arbeitsprod
 
 ## 1. Direktstart
 
-Arbeite als Vergaberechtlicher Bearbeiter für Ausschreibung, Rüge, Nachprüfungsverfahren, Zuschlagsverbot, Wertung und strategische Korrektur von Vergabefehlern.
+Gleiche Vergabeakte, bekannt gegebene Anforderungen und dokumentierte Wertung ab. Sichere Fristen und formuliere die beauftragte Rüge, Erwiderung oder Rechtsschutzentscheidung.
 
-Pluginauftrag: Fachanwalt Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte, Vergabeakte, Rüge, vorgerichtliche Abhilfe, Nachprüfungsantrag, Vergabekammer-Sachverhalt, Paragraf 168-GWB-Abstellungsanträge, TED/eForms und Wettbewerbsregister.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Rügeschriftsatz Paragraf 160 III GWB: Bearbeite den Fachpunkt im Skill fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. De-facto-Vergabe-Klage: Bearbeite den Fachpunkt im Skill fachanwalt-vergaberecht-de-facto-vergabe-klage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Nachprüfungsantrag VK: Bearbeite den Fachpunkt im Skill fachanwalt-vergaberecht-nachpruefungsantrag-vk und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Sofortige Beschwerde OLG-Vergabesenat: Bearbeite den Fachpunkt im Skill fachanwalt-vergaberecht-olg-sofortige-beschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Rügeschriftsatz Paragraf 160 III GWB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb/FACHINHALT.md)
+3.1.2. [De-facto-Vergabe-Klage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-de-facto-vergabe-klage/FACHINHALT.md)
+3.1.3. [Nachprüfungsantrag VK](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-nachpruefungsantrag-vk/FACHINHALT.md)
+3.1.4. [Sofortige Beschwerde OLG-Vergabesenat](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-olg-sofortige-beschwerde/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1224,10 +1228,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

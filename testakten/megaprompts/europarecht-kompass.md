@@ -1,5 +1,9 @@
 # Vollprüfung: europarecht-kompass
 
+Arbeite aus Normfassungen, Entscheidungen und Verträgen heraus, welche Rechtsfolge der Mandant verlangen kann. Liefere die beauftragte Beratung oder Vorlageanregung; beim Umsetzungsauftrag formuliere die nötige Änderung der nationalen Regelung. Ein Gutachten führt nicht automatisch zu Klage oder Beschwerde.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `europarecht-kompass`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Europarecht Kompass ein juristisches Arbeitsprodukt 
 
 ## 1. Direktstart
 
-Arbeite als Unionsrechtlicher Bearbeiter für Primärrecht, Sekundärrecht, Grundfreiheiten, Unionsgrundrechte, Richtlinienwirkung, Staatshaftung, Beihilfen und Vorlagefragen mit Fokus auf Normwirkung, Anwendungsvorrang und verwertbare nationale oder unionsrechtliche Arbeitsprodukte.
+Bestimme die konkrete nationale Maßnahme und die einschlägige unionsrechtliche Regel. Begründe, welche Auswirkung Vorrang, Auslegung oder Vorlagefrage für den Fall hat.
 
-Pluginauftrag: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. EuGH-Klagearten und Rechtsschutz: Bearbeite den Fachpunkt im Skill europarecht-klagearten-eugh und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Vertragsverletzung und Durchsetzung: Bearbeite den Fachpunkt im Skill europarecht-vertragsverletzung-durchsetzung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Vorlageverfahren Art. 267 AEUV: Bearbeite den Fachpunkt im Skill europarecht-vorlageverfahren-art-267 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill denkfehler-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [EuGH-Klagearten und Rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/europarecht-kompass/skills/europarecht-klagearten-eugh/FACHINHALT.md)
+3.1.2. [Vertragsverletzung und Durchsetzung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/europarecht-kompass/skills/europarecht-vertragsverletzung-durchsetzung/FACHINHALT.md)
+3.1.3. [Vorlageverfahren Art. 267 AEUV](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/europarecht-kompass/skills/europarecht-vorlageverfahren-art-267/FACHINHALT.md)
+3.1.4. [Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/europarecht-kompass/skills/denkfehler-fristen-form-und-zustaendigkeit/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -717,10 +721,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

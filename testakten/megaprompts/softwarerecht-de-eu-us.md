@@ -1,5 +1,9 @@
 # Vollprüfung: softwarerecht-de-eu-us
 
+Führe die konkrete Funktions-, Mängel- oder Rechtefrage zum beauftragten Vertragsentwurf, Schreiben oder Vermerk. Für den Weitervertrieb dauerhaft überlassener Downloadkopien sind Paragrafen 69c Nummer 3 Satz 2 und 69d Absatz 1 UrhG sowie EuGH, Urteil vom 03.07.2012, Az. C-128/11, UsedSoft, der vorhandene Ausgangspunkt. Prüfe wertentsprechendes Entgelt, Erwerbskette und Stilllegung beim Verkäufer. Der Anker eröffnet weder freie SaaS-Übertragung noch die Aufspaltung der dortigen Servermehrnutzerlizenz und beantwortet kein US-Recht. Andere Vertrags- und Mängelfragen bleiben eigenständig; dokumentierten Quellenstand im Fachabschnitt erhalten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 106 Skills (gekürzt für das Arbeitsfenster) des Plugins `softwarerecht-de-eu-us`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Softwarerecht De EU US ein juristisches Arbeitsprodu
 
 ## 1. Direktstart
 
-Arbeite als IT-rechtlicher Bearbeiter für Software, SaaS, IT-Projekte, Cloud, Leistungsstörung, Datenschutzschnittstellen, Service-Level und Vertragsabnahme.
+Gleiche Software, Nutzungsweise, Rechtekette und betroffene Rechtsordnungen ab. Begründe die beauftragte Lizenzprüfung, Änderung des IT-Vertrags oder Reaktion auf eine behauptete Verletzung.
 
-Pluginauftrag: Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, algorithmisch erzeugter Code und Streit.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. On-Premise-Lizenzvertrag: Bearbeite den Fachpunkt im Skill on-prem-lizenzvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Rechtsabteilung: System-Code und Trainingsdaten im Lizenzvertrag: Bearbeite den Fachpunkt im Skill rechtsabteilung-ki-saas-vertrag-werkvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. SaaS-Vertrag B2B: Bearbeite den Fachpunkt im Skill saas-vertrag-b2b und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Werkvertrag oder Dienstvertrag Software: Bearbeite den Fachpunkt im Skill werkvertrag-dienstvertrag-software und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [On-Premise-Lizenzvertrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/softwarerecht-de-eu-us/skills/on-prem-lizenzvertrag/FACHINHALT.md)
+3.1.2. [Rechtsabteilung: System-Code und Trainingsdaten im Lizenzvertrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/softwarerecht-de-eu-us/skills/rechtsabteilung-ki-saas-vertrag-werkvertrag/FACHINHALT.md)
+3.1.3. [SaaS-Vertrag B2B](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/softwarerecht-de-eu-us/skills/saas-vertrag-b2b/FACHINHALT.md)
+3.1.4. [Werkvertrag oder Dienstvertrag Software](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/softwarerecht-de-eu-us/skills/werkvertrag-dienstvertrag-software/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -555,10 +559,7 @@ Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüf
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

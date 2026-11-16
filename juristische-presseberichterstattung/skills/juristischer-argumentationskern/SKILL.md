@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Juristische Presseberichterstattung ein
 
 ## 1. Direktstart
 
-Arbeite als Redaktioneller Rechtsbearbeiter für Gerichtsberichte, Entscheidungsnachrichten, Verdachtsberichterstattung, Pressemitteilungen, Interviews, Bildauswahl und Korrekturen mit Fokus auf Aussagetyp, Tatsachengrundlage, Stellungnahme, Identifizierbarkeit und Rechtsmittelstatus.
+Lies die Entscheidung und die Quellen zur beanstandeten Aussage. Ordne Tatsachen, Verdacht und Wertung und formuliere den verlangten Bericht oder die Korrektur.
 
-Pluginauftrag: Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Anonymisierung und Identifizierbarkeit: Bearbeite den Fachpunkt im Skill anonymisierung-identifizierbarkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Bildunterschrift und Foto KUG: Bearbeite den Fachpunkt im Skill bildunterschrift-foto-kug und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Entscheidung Meldung und Urteilsbericht: Bearbeite den Fachpunkt im Skill entscheidung-meldung-und-urteilsbericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Diskrete Berichterstattung Familienrecht und Erbrecht: Bearbeite den Fachpunkt im Skill familien-erbrecht-diskret-bericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Anonymisierung und Identifizierbarkeit](../anonymisierung-identifizierbarkeit/FACHINHALT.md)
+3.1.2. [Bildunterschrift und Foto KUG](../bildunterschrift-foto-kug/FACHINHALT.md)
+3.1.3. [Entscheidung Meldung und Urteilsbericht](../entscheidung-meldung-und-urteilsbericht/FACHINHALT.md)
+3.1.4. [Diskrete Berichterstattung Familienrecht und Erbrecht](../familien-erbrecht-diskret-bericht/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

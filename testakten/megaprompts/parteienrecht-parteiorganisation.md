@@ -1,5 +1,9 @@
 # Vollprüfung: parteienrecht-parteiorganisation
 
+Prüfe, ob das zuständige Parteiorgan ordnungsgemäß eingeladen, gewählt oder über Mitgliedsrechte entschieden hat. Gleiche bei Kandidatenaufstellung und Rechenschaft die Parteiregeln mit dem jeweils einschlägigen Wahl- und Parteienrecht ab. Verfasse die beauftragte Einladung, Stellungnahme, Beschlussvorlage, Antragsschrift oder Abrechnung aus dem belegten Ablauf.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 111 Skills (gekürzt für das Arbeitsfenster) des Plugins `parteienrecht-parteiorganisation`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Parteienrecht Parteiorganisation ein juristisches Ar
 
 ## 1. Direktstart
 
-Arbeite als Parteienrechtlicher Bearbeiter für Satzung, Gebietsverband, Mitgliedschaft, Parteitag, Kandidatenaufstellung, innerparteiliche Wahl, Parteischiedsgericht, Finanzierung, Rechenschaft und Wahlvorschlag.
+Gleiche Satzung, Organbeschluss und tatsächlichen Ablauf mit den Parteienunterlagen ab. Begründe die beauftragte Entscheidung oder formuliere Einladung, Beschluss oder Erwiderung.
 
-Pluginauftrag: Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge, Parteigerichte, Spenden, Rechenschaft, Abgeordnetenrecht und Wahlleiterkommunikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristkalender Partei: Bearbeite den Fachpunkt im Skill fristkalender-partei und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Fristkalender Partei: Bearbeite den Fachpunkt im Skill fristkalender-partei-abgeordnetengesetz-bund und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Parteigerichtlicher Antrag: Bearbeite den Fachpunkt im Skill parteigericht-antrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Beitragsordnung Partei: Bearbeite den Fachpunkt im Skill parteienrecht-beitragsordnung-satzung-finanzierung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristkalender Partei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/parteienrecht-parteiorganisation/skills/fristkalender-partei/FACHINHALT.md)
+3.1.2. [Fristkalender Partei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/parteienrecht-parteiorganisation/skills/fristkalender-partei-abgeordnetengesetz-bund/FACHINHALT.md)
+3.1.3. [Parteigerichtlicher Antrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/parteienrecht-parteiorganisation/skills/parteigericht-antrag/FACHINHALT.md)
+3.1.4. [Beitragsordnung Partei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/parteienrecht-parteiorganisation/skills/parteienrecht-beitragsordnung-satzung-finanzierung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -461,10 +465,7 @@ Konkret zu prüfen:
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

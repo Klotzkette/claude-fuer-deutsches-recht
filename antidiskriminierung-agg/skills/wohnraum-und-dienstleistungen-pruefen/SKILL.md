@@ -23,7 +23,7 @@ Angebot, Anfrage, Ablehnung, beteiligter Anbieter oder Makler, Vergleichskontakt
 
 ## 4. Quellenpflicht
 
-BGH 29.01.2026, I ZR 129/25, hier anhand amtlicher Pressemitteilung 025/2026: eigene Verantwortung des Wohnungsmaklers. Keine unüberprüften Randnummern oder Entschädigungstarife. [Fallkarten](../../references/rechtsprechung.md), [Zitierweise](../../references/zitierweise.md).
+Ermittle anhand des Maklerauftrags, wer Besichtigungstermine vergab oder Interessenten auswählte. Gegenüber dem beauftragten Makler Paragrafen 19 Absatz 2 und 21 Absatz 2 Satz 1 und 3 AGG prüfen. Vergleichsanfragen als Indizien auswerten und die geltend gemachte Entschädigung anhand der konkreten Folgen begründen. [BGH, Urteil vom 29.01.2026, I ZR 129/25, Rn. 26–28 und 45–55](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE702012026.zip). [Fallkarten](../../references/rechtsprechung.md), [Zitierweise](../../references/zitierweise.md).
 
 ## 5. Ausgabeformat
 

@@ -38,7 +38,7 @@ Bei Schadenspauschalen nach Paragraf 309 Nummer 5 BGB gewöhnlichen Schaden und 
 
 BGH, Urteil vom 14.07.2026 – XI ZR 46/25, Rn. 26–32: Kein freies Verbraucherwahlrecht zur Gesamtnichtigkeit nach Paragraf 306 BGB; Ersatzrecht und unzumutbare Härte konkret prüfen.
 
-Preisänderung: BGH, Urteil vom 01.10.2026 - Az. III ZR 205/25, hier nur gelesene [Pressemitteilung 184/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html), Stand 16.10.2026; Volltext nicht gelesen, keine Randnummern. Unklar blieb: nur Kündigung oder Widerspruch mit Fortsetzung zum Altpreis, vorbehaltlich Anbieterkündigung? Intransparenz nach Paragraf 307 Absatz 1 BGB, kein allgemeines Preisänderungsverbot und keine individuelle Rückzahlung entschieden. Gesamte Preis-/Änderungs-/Zustimmungs-/Kündigungsklauseln und Kundenmitteilung lesen, Fehlendes anfordern. Vertrags-/Änderungsdatum und Normfassung prüfen. Bei Gestaltungsauftrag Klauselgruppe und Mitteilung mit gleichen Fristen und Folgen von Schweigen, Widerspruch und Kündigung liefern; Transparenz legitimiert keine Schweigefiktion und heilt den Altbestand nicht.
+Preisänderung: [BGH, Urteil vom 01.10.2026, III ZR 205/25](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip), Rn. 20–32. Offen blieb, ob Widerspruch den Altpreis erhält oder Kunden kündigen müssen. Das war nach Paragraf 307 Absatz 1 BGB intransparent. Lies Preis-, Zustimmungs-, Widerspruchs- und Kündigungsklauseln mit der Mitteilung. Prüfe Vertragsdatum, Wirksamkeit und Normfassung. Formuliere Klauseln und Mitteilung mit denselben Fristen und Folgen. Individuelle Erstattung und materielle Zulässigkeit einer Schweigefiktion gesondert prüfen.
 
 ## 4. Anschlussaufträge getrennt halten
 

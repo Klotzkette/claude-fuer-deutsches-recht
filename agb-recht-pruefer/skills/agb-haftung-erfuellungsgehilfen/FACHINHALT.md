@@ -15,7 +15,7 @@ description: "Für AGB Haftung Erfüllungsgehilfen: ordnet Norm, Beweislast und 
 ## Norm
 
 - § 278 BGB: Der Schuldner hat das Verschulden seiner Erfüllungsgehilfen in gleichem Umfang wie eigenes Verschulden zu vertreten.
-- § 309 Nummer 7 Buchstaben a und b BGB: Die Klauselverbote erfassen Haftungsbeschränkungen bei Verletzung von Leben, Körper oder Gesundheit sowie bei grobem Verschulden; Vorsatz ist zusätzlich nach § 276 Absatz 3 BGB nicht im Voraus erlassbar.
+- § 309 Nummer 7 Buchstaben a und b BGB: Die Klauselverbote erfassen Haftungsbeschränkungen bei Verletzung von Leben, Körper oder Gesundheit sowie bei grobem Verschulden; Für eigenen Vorsatz gilt zusätzlich § 276 Absatz 3 BGB. Satz 2 des § 278 BGB verweist für fremdes Verschulden auf eine abweichende Regelung. Bei formularmäßigen Freizeichnungen gesondert die Grenzen des § 309 Nummer 7 und des § 307 BGB prüfen.
 
 ## Klauseltypen
 
@@ -30,8 +30,8 @@ description: "Für AGB Haftung Erfüllungsgehilfen: ordnet Norm, Beweislast und 
 
 ## BGH-Linie
 
-- BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportvertraegen.
-- BGH VII ZR 168/13: bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln.
+- [BGH, Versäumnisurteil vom 19.09.2007, VIII ZR 141/06, Rn. 11–15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2007-9-19&Gericht=bgh&nr=41931): Prüfe die umfassende Freizeichnung im Unternehmergeschäft am Maßstab des § 307 BGB und nutze § 309 Nr. 7 BGB als Wertung. Für einzelne Haftungsobergrenzen bleibt eine eigene Prüfung erforderlich.
+- [BGH, Urteil vom 19.07.2019, V ZR 75/18, Rn. 28–31](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-7-19&Gericht=bgh&nr=101705): Eine pauschale Verjährungsverkürzung kann die Freizeichnungsverbote mittelbar verletzen. Prüfe die Wirkung des gesamten Klauselwerks auf die konkret erfassten Ansprüche.
 
 ## Prüfraster
 

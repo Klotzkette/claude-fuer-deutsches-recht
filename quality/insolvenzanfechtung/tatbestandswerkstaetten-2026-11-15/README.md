@@ -14,6 +14,8 @@ Die zehn eigenständigen Prompts zu §§ 130–139 InsO wurden am 15. November 2
 
 Die komprimierten Originale sind unverändert archiviert; im jeweiligen Bericht beziehen sich Originalhashes auf die entpackten Bytes. Frühere Quellenprüfungen und Modellprofile bleiben als historische Prüfstände erhalten. Die Fortschreibung eines Fingerabdrucks nach einem dokumentierten fachlichen Zusatz behauptet keine neue Durchführung älterer Modelltests.
 
+Am 16.11.2026 kam nach Quellenlektüre [BGH, Urteil vom 24.09.2026, IX ZR 65/25, Rn. 8–23](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313232026.zip) zur Einzelwerkstatt nach § 130 InsO hinzu. Der Umfangsbericht und die Repo-Exporte binden diese Fassung. Der frühere [Exportprüfbericht](export-pruefung.json) dokumentiert das veröffentlichte Ausgangspaket vom 15.11.2026.
+
 ## 2. Export und Umfang
 
 Der [vom Builder erzeugte Umfangsbericht](umfang.json) bindet jede Markdown-Datei an Hash, Wortzahl und tatsächliche PDF-Seitenzahl. Der Export besteht aus zehn einzelnen PDF-Lesefassungen, zehn Markdown-Dateien, zehn bytegleichen TXT-Dateien, Leserhinweis und demselben Umfangsbericht. Ein Gesamtband enthält die vollständige Folge der zehn PDFs samt Modul-Lesezeichen. Es werden keine künstlichen Seitenumbrüche eingefügt; Satzschrift ist die auf dem Buildrechner legitim verfügbare Times New Roman, 11 pt.

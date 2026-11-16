@@ -1,5 +1,9 @@
 # Vollprüfung: krisenfrueherkennung-starug
 
+Untersuche die Unternehmensplanung auf auslaufende Finanzierungen, dauerhafte operative Fehlbeträge und sonstige bestandsgefährdende Entwicklungen. Bestimme, wann die Geschäftsleitung nach Paragraf 1 StaRUG gegensteuern und das Überwachungsorgan unterrichten muss. Prüfe aktuelle Liquidität und erreichbare Finanzierung, bevor du den beauftragten Prognosevermerk, Organbericht, Restrukturierungsplan oder Gläubigerbrief ausformulierst.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `krisenfrueherkennung-starug`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Krisenfrüherkennung StaRUG ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Insolvenzrechtlicher Bearbeiter für Krisenfrüherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung.
+Gleiche fällige Zahlungen, verfügbare Finanzierung und Krisenanzeichen ab. Erstelle einen konkreten Prüfvermerk mit Schwellen, Alternativen und zuständiger Entscheidung.
 
-Pluginauftrag: Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG, 24-Monats-Prognose nach Paragraf 18 InsO, Haftung, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Krisenstadien: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill krisenstadien-fristennotiz-starug-gf-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 1. Insolvenzantragspflicht nach Paragraf 15a InsO: Bearbeite den Fachpunkt im Skill insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill starug-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: Bearbeite den Fachpunkt im Skill starug-stabilisierungsanordnung-vollstreckungsstopp und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Krisenstadien: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krisenfrueherkennung-starug/skills/krisenstadien-fristennotiz-starug-gf-haftung/FACHINHALT.md)
+3.1.2. [1. Insolvenzantragspflicht nach Paragraf 15a InsO](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krisenfrueherkennung-starug/skills/insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist/FACHINHALT.md)
+3.1.3. [StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krisenfrueherkennung-starug/skills/starug-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.4. [Stabilisierungsanordnung: Red-Team und Qualitätskontrolle](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krisenfrueherkennung-starug/skills/starug-stabilisierungsanordnung-vollstreckungsstopp/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1476,10 +1480,7 @@ Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **krisenfrueherkenn
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

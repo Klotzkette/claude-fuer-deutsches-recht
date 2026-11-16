@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Fachanwalt Handels Gesellschaftsrecht e
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Bestimme Gesellschaftsform, Organ, Gesellschafterstellung und maßgebliche Dokumentfassung. Leite daraus den beauftragten Beschluss, Vertragsentwurf, Registerantrag oder Haftungsvermerk ab.
 
-Pluginauftrag: Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO Paragraf 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung Paragrafen 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich Paragraf 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: Bearbeite den Fachpunkt im Skill fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: Bearbeite den Fachpunkt im Skill fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich: Bearbeite den Fachpunkt im Skill fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung: Bearbeite den Fachpunkt im Skill fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung](../fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung/FACHINHALT.md)
+3.1.2. [Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit](../fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit/FACHINHALT.md)
+3.1.3. [Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich](../fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich/FACHINHALT.md)
+3.1.4. [Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung](../fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

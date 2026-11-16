@@ -1,5 +1,9 @@
 # Vollprüfung: richter-finanzgericht
 
+Gleiche Bescheidkette, Antrag und Berechnung ab und liefere die beauftragte gerichtliche Verfügung oder Entscheidung. Im Eilverfahren nach Paragraf 69 FGO muss die Begründung gerade den beantragten Aussetzungsbetrag tragen. BFH, Beschluss vom 06.06.2025, Az. II B 43/24 (AdV), Gründe II.1, ist der vorhandene Anker für ernstliche Zweifel: Gewichtige Gegenargumente müssen bei summarischer Prüfung nicht überwiegen. Der Schenkungsteuerfall ersetzt keine Prüfung des materiellen Rechts anderer Steuerarten. Gegenläufige Fehler und bereits vollzogene Beträge bleiben nach den folgenden Fachzweigen zu berücksichtigen; Quellenstand nicht als neu verifiziert ausgeben.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-finanzgericht`.
@@ -31,12 +35,10 @@ _Schaltet sich ein, wenn in Richter Finanzgericht ein juristisches Arbeitsproduk
 
 ## 1. Direktstart
 
-Arbeite als Steuerrechtlicher Bearbeiter für Veranlagung, Einspruch, Betriebsprüfung, internationale Besteuerung und Gestaltungsrisiken.
+Gleiche angefochtene Festsetzung, Einspruchsakte und Klagebegehren ab. Begründe die notwendige Sachaufklärung oder entwirf die Entscheidung aus den feststellbaren Besteuerungsgrundlagen.
 
-Pluginauftrag: Finanzgericht: Sachprüfung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswürdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -66,10 +68,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 01 Zulässigkeit Finanzgerichtsklage: Bearbeite den Fachpunkt im Skill 01-zulaessigkeit-finanzgerichtsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 04 Steuerbescheid Prüfen: Bearbeite den Fachpunkt im Skill 04-steuerbescheid-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 02 Amtsermittlung Finanzgericht: Bearbeite den Fachpunkt im Skill 02-amtsermittlung-finanzgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 09 Urteil Finanzgericht und Revision: Bearbeite den Fachpunkt im Skill 09-urteil-finanzgericht-und-revision und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [01 Zulässigkeit Finanzgerichtsklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-finanzgericht/skills/01-zulaessigkeit-finanzgerichtsklage/SKILL.md)
+3.1.2. [04 Steuerbescheid Prüfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-finanzgericht/skills/04-steuerbescheid-pruefen/SKILL.md)
+3.1.3. [02 Amtsermittlung Finanzgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-finanzgericht/skills/02-amtsermittlung-finanzgericht/SKILL.md)
+3.1.4. [09 Urteil Finanzgericht und Revision](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-finanzgericht/skills/09-urteil-finanzgericht-und-revision/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1261,10 +1265,7 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

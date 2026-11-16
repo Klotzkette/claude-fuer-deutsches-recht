@@ -1,5 +1,9 @@
 # Vollprüfung: fahrgastrechte
 
+Nach Zugausfall oder Anschlussverlust kommt es darauf an, welche Reise gebucht war und welche Hilfe tatsächlich angeboten wurde. Gleiche Fahrkarten, Verkaufsinformationen, Reiseverlauf und Zahlungen ab. Das Ergebnis ist die beauftragte Beratung oder eine bezifferte Forderung gegen das jeweils verantwortliche Unternehmen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 14 Skills des Plugins `fahrgastrechte`.
@@ -31,12 +35,10 @@ _Schaltet sich ein, wenn in Fahrgastrechte ein juristisches Arbeitsprodukt tragf
 
 ## 1. Direktstart
 
-Arbeite als Fahrgastrechtlicher Bearbeiter für Zugausfall, Verspätung, Anschlussverlust, Durchgangsfahrkarte, Erstattung, Weiterreise, Selbstabhilfe, Entschädigung, Betreuung, Beschwerde, Schlichtung und Klage.
+Gleiche Ticket, gebuchte Verbindung und tatsächliche Ankunft ab. Berechne den belegbaren Anspruch und formuliere den verlangten Antrag oder die Beschwerde.
 
-Pluginauftrag: Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -66,10 +68,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Klage zum Amtsgericht (Fahrgastrechte): Bearbeite den Fachpunkt im Skill klage-amtsgericht-fahrgast und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Fahrgastrechte-Widerspruch — Skill: Bearbeite den Fachpunkt im Skill widerspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO): Bearbeite den Fachpunkt im Skill eigenbefoerderung-und-betreuung-art-18 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: Bearbeite den Fachpunkt im Skill einfuehrung-vo-2021-782 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Klage zum Amtsgericht (Fahrgastrechte)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/skills/klage-amtsgericht-fahrgast/SKILL.md)
+3.1.2. [Fahrgastrechte-Widerspruch — Skill](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/skills/widerspruch/SKILL.md)
+3.1.3. [Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/skills/eigenbefoerderung-und-betreuung-art-18/SKILL.md)
+3.1.4. [Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/skills/einfuehrung-vo-2021-782/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -2478,10 +2482,7 @@ Nächster Skill: forderung-an-db-erste-stufe
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

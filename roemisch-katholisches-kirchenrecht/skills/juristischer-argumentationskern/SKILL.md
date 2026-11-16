@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Römisch Katholisches Kirchenrecht ein 
 
 ## 1. Direktstart
 
-Arbeite als Kanonistischer Bearbeiter für kirchliche Verwaltung, Pfarrei und Diözese, Sakramente, Eheverfahren, kirchliches Strafverfahren, Register, Arbeitsverhältnisse und staatlich-kirchliche Schnittstellen mit Fokus auf zuständige Autorität, Canon, Frist und authentische Urkunde.
+Gleiche die angesprochene kirchliche Maßnahme mit Zuständigkeit, Verfahrensstand und geltendem kirchlichen Text ab. Begründe die konkrete Auskunft, Eingabe oder Entscheidung.
 
-Pluginauftrag: Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Lesefreude Kanonisches Recht: Bearbeite den Fachpunkt im Skill v392-lesefreude-roemisch-katholisches-kirchenrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Archive, Register und Datenschutz: Bearbeite den Fachpunkt im Skill archive-register-auslegung-canones und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Archive, Register und Datenschutz: Bearbeite den Fachpunkt im Skill archive-register-und-datenschutz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Fristen, Zeitrechnung und Verjährung: Bearbeite den Fachpunkt im Skill fristen-zeitrechnung-und-verjahrung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Lesefreude Kanonisches Recht](../v392-lesefreude-roemisch-katholisches-kirchenrecht/FACHINHALT.md)
+3.1.2. [Archive, Register und Datenschutz](../archive-register-auslegung-canones/FACHINHALT.md)
+3.1.3. [Archive, Register und Datenschutz](../archive-register-und-datenschutz/FACHINHALT.md)
+3.1.4. [Fristen, Zeitrechnung und Verjährung](../fristen-zeitrechnung-und-verjahrung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

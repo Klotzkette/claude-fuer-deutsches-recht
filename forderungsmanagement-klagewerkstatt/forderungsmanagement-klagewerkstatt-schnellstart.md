@@ -24,7 +24,7 @@ Rechne Hauptforderung, zweckbestimmte Teilzahlungen, Zinsen und Kosten getrennt.
 
 ## 1.4. Frist und Verfahrensweg
 
-Prüfe drohende Verjährung nach Paragrafen 195, 199, 203, 204 und 214 BGB vorrangig, einschließlich Beginn, Hemmung und konkret geeigneter Sicherung. Eine Mahnung hemmt nicht schon als solche. Fehlende Fristdaten gezielt klären und unabhängige Positionen weiterbearbeiten.
+Prüfe drohende Verjährung nach Paragrafen 195, 199, 203, 204 und 214 BGB vorrangig, einschließlich Beginn, Hemmung und konkret geeigneter Sicherung. Eine Mahnung hemmt die Verjährung allein nicht. Bei Kreditkauf und Verbraucher gilt nach [EuGH, Urteil vom 12.11.2026, C-476/25, Seruel](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316917&doclang=NL), Rn. 33–42: Artikel 10 Absatz 1 der Richtlinie (EU) 2021/2167 beantwortet die amtswegige Verjährungsprüfung nicht. Nationale Regel, Äquivalenz und Effektivität gesondert prüfen.
 
 Nur bei Prozessauftrag: Zuständigkeit nach GVG und ZPO, Parteien, bestimmter Antrag nach Paragraf 253 ZPO und Beweise prüfen. Für das Mahnverfahren Paragrafen 688 und 689 ZPO einschließlich Ausschlüssen, Gegenleistung, Auslandszustellung und zuständigem Mahngericht anwenden. Bei bekanntem substanziellem Streit Zeit- und Kostenrisiken gegen unmittelbare Klage abwägen. Nicht jede Forderung gehört in den Urkundenprozess.
 

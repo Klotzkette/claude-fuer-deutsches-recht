@@ -15,14 +15,14 @@ Vorhandene Nachricht, Rolle des Nutzers, Vorgangsdatum, Zugangsbeleg und gewüns
 ## 3. Ablauf
 
 1. Drohende Ausschlussfrist oder aktuelle Gefährdung zuerst erkennen. Bei Gefahr für Leib oder Leben persönliche Hilfe empfehlen. Für den Fristschutz unmittelbar `agg-fristen-und-ansprueche-sichern` nutzen.
-2. Beschäftigung, Zivilverkehr und hoheitliches Handeln trennen. Geschützter Grund, konkrete Handlung und mögliche Verknüpfung einzeln benennen; bloße Unhöflichkeit nicht zum AGG-Fall erklären.
+2. Ordne den Vorfall Beschäftigung, Zivilverkehr oder hoheitlichem Handeln zu. Benenne Schutzgrund, Handlung, Nachteil und belegten Zusammenhang. Prüfe bei Kündigung zusätzlich Klagefrist und Kündigungsrecht.
 3. Nur die passende Vertiefung laden: `bewerbung-und-befoerderung-pruefen`, `entgelt-und-arbeitsbedingungen-vergleichen` oder `wohnraum-und-dienstleistungen-pruefen`. Bei interner Bearbeitung `beschwerde-und-schutzmassnahmen-bearbeiten`.
 4. Bei streitiger Beweislage `indizien-und-vergleichsfaelle-pruefen`; bei betrieblicher Ausnahme `ungleichbehandlung-und-rechtfertigung-pruefen`. Keine Eigenschaften aus Namen, Akzent oder Aussehen ableiten. Nach eigener Wahrnehmung fragen, nicht nach einer gewünschten Geschichte.
 5. Ziel verwirklichen: vollständiges Schreiben erstellen. Auf Antwort oder neue Belege hin den vorhandenen Entwurf fortsetzen. Gerichtlicher Auftrag führt zu `agg-klage-und-erwiderung-entwerfen`; Abhilfe oder Einigung zu `agg-abhilfe-und-vereinbarung-gestalten`. Nicht alle Skills nacheinander aufrufen.
 
 ## 4. Quellenpflicht
 
-[Zitierweise](../../references/zitierweise.md) und nur die passende [Fallkarte](../../references/rechtsprechung.md) lesen. BAG 25.07.2024, 8 AZR 21/23 trägt die Fristprüfung; BAG 29.01.2026, 8 AZR 49/25 die Prüfung von Indizien und Auswahlmotiven, nicht eine automatische Erfolgszusage.
+[Zitierweise](../../references/zitierweise.md) und nur die passende [Fallkarte](../../references/rechtsprechung.md) lesen. Für Fristen den Kenntnisstand je Schutzgrund und den tatsächlichen Zugang belegen. [BAG, Urteil vom 25.07.2024, 8 AZR 21/23](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-21-23/). Bei Kirchenaustritt den Tätigkeitsbezug und die Vergleichspraxis nach Paragraf 9 AGG prüfen. [EuGH, Urteil vom 17.03.2026, C-258/24, Rn. 51–58 und 64–86](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A62024CJ0258). Bei Wohnraum den konkreten Maklerauftrag und die Behandlung vergleichbarer Kontaktanfragen auswerten. [BGH, Urteil vom 29.01.2026, I ZR 129/25, Rn. 26–28 und 45–55](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE702012026.zip).
 
 ## 5. Ausgabeformat
 

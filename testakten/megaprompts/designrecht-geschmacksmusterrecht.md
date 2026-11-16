@@ -1,5 +1,9 @@
 # Vollprüfung: designrecht-geschmacksmusterrecht
 
+Arbeite aus den vorgelegten Bildern und Schutzrechtsunterlagen die bestellte Anmeldung, Bewertung, Lizenz oder Verfahrensschrift aus. Vergleiche beanspruchte Ansichten mit belegten Vorveröffentlichungen oder dem angegriffenen Erzeugnis: Welche Merkmale prägen den Gesamteindruck, welche Offenbarung liegt vor dem maßgeblichen Tag?
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `designrecht-geschmacksmusterrecht`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Designrecht Geschmacksmusterrecht ein juristisches A
 
 ## 1. Direktstart
 
-Arbeite als Designrechtlicher Bearbeiter für deutsches und unionsweites Design, Neuheit, Eigenart, Offenbarung, technische Bedingtheit, Schutzumfang, Nichtigkeit und Verletzung.
+Vergleiche die geschützten Ansichten, den Formenschatz und die beanstandete Gestaltung. Begründe aus diesen Belegen die Anmelde-, Bestands- oder Verletzungsposition.
 
-Pluginauftrag: Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Schadensersatz Auskunft Vernichtung: Bearbeite den Fachpunkt im Skill schadensersatz-auskunft-abmahnung-designrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Offenbarung Neuheitsschonfrist Prioritaet: Bearbeite den Fachpunkt im Skill offenbarung-neuheitsschonfrist-registerstand und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Registerstand Fristen Verlaengerung: Bearbeite den Fachpunkt im Skill registerstand-fristen-verlaengerung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Abmahnung Designrecht: Bearbeite den Fachpunkt im Skill abmahnung-designrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Schadensersatz Auskunft Vernichtung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/designrecht-geschmacksmusterrecht/skills/schadensersatz-auskunft-abmahnung-designrecht/FACHINHALT.md)
+3.1.2. [Offenbarung Neuheitsschonfrist Prioritaet](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/designrecht-geschmacksmusterrecht/skills/offenbarung-neuheitsschonfrist-registerstand/FACHINHALT.md)
+3.1.3. [Registerstand Fristen Verlaengerung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/designrecht-geschmacksmusterrecht/skills/registerstand-fristen-verlaengerung/FACHINHALT.md)
+3.1.4. [Abmahnung Designrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/designrecht-geschmacksmusterrecht/skills/abmahnung-designrecht/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -632,10 +636,7 @@ Die Mandantin braucht eine verständliche Entscheidungsvorlage.
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

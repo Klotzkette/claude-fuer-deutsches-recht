@@ -89,6 +89,12 @@
       "checked_on": "2026-10-16",
       "supports": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter. Grenze: Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen. Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung. Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung. Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen.",
       "verification_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip",
+      "checked_on": "2026-11-16",
+      "supports": "Prüfe Preis-, Widerspruchs- und Kündigungsklauseln gemeinsam. Lege fest, ob und bis wann Widerspruch den bisherigen Preis erhält und wann eine Kündigung wirkt. Die Entscheidung zur konkreten AGB-Gruppe begründet kein allgemeines Erhöhungsverbot und spricht keine individuelle Erstattung zu. Die weitere Angriffsrichtung zur Kostenstruktur blieb für die Entscheidung offen.",
+      "verification_status": "amtlicher_volltext"
     }
   ],
   "mini_review": {
@@ -102,9 +108,10 @@
       "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt.",
       "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt.",
       "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25",
-      "14.11.2026: Nach Fachmodul-Verweisänderungen unter 7.450 UTF-8-Bytes gestrafft; sämtliche Links, Fallzweige und Quellen-/Freigabegrenzen erhalten."
+      "14.11.2026: Nach Fachmodul-Verweisänderungen unter 7.450 UTF-8-Bytes gestrafft; sämtliche Links, Fallzweige und Quellen-/Freigabegrenzen erhalten.",
+      "Amtlicher Volltext am 16.11.2026 geprüft. Preisänderung, Widerspruch und Kündigung am gesamten Klauselwerk prüfen."
     ],
-    "sha256": "a75a17d662e1c62e2247a2ce876bf7a828b305c8e8a7a7f456b27f24ba4b9216",
+    "sha256": "d9fafc89a0d3da2de135be76b20c3ba3b46c4a320db01ad9f1a8d7bcff723a6c",
     "reviewed_on": "2026-11-14",
     "latest_editorial_scope": "Vollständige redaktionelle Mini-Lektüre, Kürzung redundanter Formulierungen nach mechanisch verlängerten Fachmodulpfaden. Keine neue Rechtsquellenprüfung und kein Modelllauf.",
     "previous_editorial_snapshot": "quality/source-audits/2026-11-14/mini-laengenredaktion.json"
@@ -120,9 +127,10 @@
       "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
       "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt.",
       "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt.",
-      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25"
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25",
+      "Amtlicher Volltext am 16.11.2026 geprüft. Preisänderung, Widerspruch und Kündigung am gesamten Klauselwerk prüfen."
     ],
-    "sha256": "d26f129daffa7b114df1cf60dfc92c84d25c17238fbd512d6fb68e5f2ce6f45c",
+    "sha256": "2e94644b1c72e3686db991913c006ab16453c52726a88c447116fb25081c9025",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -253,12 +261,12 @@
         "verification": "fresh_primary_passages"
       },
       {
-        "citation": "BGH, Urteil vom 01.10.2026, III ZR 205/25",
-        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html",
-        "application": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter.",
-        "limit": "Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen. Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung. Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung. Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen.",
-        "checked_on": "2026-10-16",
-        "verification_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet.",
+        "citation": "BGH, Urteil vom 01.10.2026, III ZR 205/25, Rn. 20–32",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip",
+        "application": "Prüfe Preis-, Widerspruchs- und Kündigungsklauseln gemeinsam. Lege fest, ob und bis wann Widerspruch den bisherigen Preis erhält und wann eine Kündigung wirkt.",
+        "limit": "Die Entscheidung zur konkreten AGB-Gruppe begründet kein allgemeines Erhöhungsverbot und spricht keine individuelle Erstattung zu. Die weitere Angriffsrichtung zur Kostenstruktur blieb für die Entscheidung offen.",
+        "checked_on": "2026-11-16",
+        "verification_status": "amtlicher_volltext",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
         "workflow_effect": "Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren."
       }

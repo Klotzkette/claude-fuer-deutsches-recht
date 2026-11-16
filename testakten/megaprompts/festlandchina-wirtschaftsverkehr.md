@@ -1,5 +1,9 @@
 # Vollprüfung: festlandchina-wirtschaftsverkehr
 
+Ein Vertrag mit einer Fabrik in Festlandchina muss zur tatsächlichen Liefer- und Zahlungskette passen. Gleiche Registeridentität, Vertragsfassungen, Waren- und Geldfluss ab und prüfe die für den Auftrag entscheidenden Genehmigungs- oder Durchsetzungshindernisse. Erstelle daraus den bestellten Vertrag, Beratungsbrief, Entscheidungsvermerk oder Schriftsatz.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 199 Skills (gekürzt für das Arbeitsfenster) des Plugins `festlandchina-wirtschaftsverkehr`.
@@ -25,12 +29,12 @@ _Schaltet sich ein, wenn in Festlandchina Wirtschaftsverkehr ein juristisches Ar
 
 ## 1. Direktstart
 
-Arbeite als Bearbeiter für grenzüberschreitende Mandate: Kollisionsrecht, internationale Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungsmomente, Fristen), danach folgt das gewünschte Arbeitsprodukt.
+Verfolge Vertragsparteien, Lieferweg und betroffene Rechtsordnungen. Begründe die nächsten Schritte bei Bestellung, Investition, Datenübermittlung oder Lieferkettenprüfung aus belastbaren Unterlagen.
 
-Pluginauftrag: Mega-Plugin für wirtschaftlichen Umgang mit Festlandchina: Fabrik, Import, Export, Investition, De-Risking, Lieferkette, IP, Daten, Exportkontrolle und politisches Risiko.
+Erfasse Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungstatsachen und Fristen. Lass die Übersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. De Risking Nicht Decoupling: Bearbeite den Fachpunkt im Skill chn-002-de-risking-nicht-decoupling und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. China Strategie Bundesregierung Umsetzen: Bearbeite den Fachpunkt im Skill chn-003-china-strategie-bundesregierung-umsetzen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. EU China Trade Risk Dashboard: Bearbeite den Fachpunkt im Skill chn-004-eu-china-trade-risk-dashboard und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Handelsbilanz Und Abhängigkeiten: Bearbeite den Fachpunkt im Skill chn-005-handelsbilanz-und-abhaengigkeiten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [De Risking Nicht Decoupling](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/festlandchina-wirtschaftsverkehr/skills/chn-002-de-risking-nicht-decoupling/FACHINHALT.md)
+3.1.2. [China Strategie Bundesregierung Umsetzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/festlandchina-wirtschaftsverkehr/skills/chn-003-china-strategie-bundesregierung-umsetzen/FACHINHALT.md)
+3.1.3. [EU China Trade Risk Dashboard](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/festlandchina-wirtschaftsverkehr/skills/chn-004-eu-china-trade-risk-dashboard/FACHINHALT.md)
+3.1.4. [Handelsbilanz Und Abhängigkeiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/festlandchina-wirtschaftsverkehr/skills/chn-005-handelsbilanz-und-abhaengigkeiten/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -738,10 +744,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

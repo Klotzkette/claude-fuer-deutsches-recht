@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Fachanwalt Migrationsrecht ein juristis
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Lies Pass-, Aufenthalts- und Verfahrensunterlagen. Sichere Frist und tatsächlichen Aufenthaltsstatus und erstelle den beauftragten Antrag, Eilantrag oder eine begründete Verfahrensempfehlung.
 
-Pluginauftrag: Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Asyl-Folgeantrag Paragraf 71 AsylG: Bearbeite den Fachpunkt im Skill fachanwalt-migrationsrecht-asyl-folgeantrag-71 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Aufenthaltstitel-Antrag: Bearbeite den Fachpunkt im Skill fachanwalt-migrationsrecht-aufenthaltstitel-antrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Ausweisung-Widerspruch Paragraf 53 AufenthG: Bearbeite den Fachpunkt im Skill fachanwalt-migrationsrecht-ausweisung-widerspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. GEAS-Reform: EU-Grenzverfahren 2024: Bearbeite den Fachpunkt im Skill fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Asyl-Folgeantrag Paragraf 71 AsylG](../fachanwalt-migrationsrecht-asyl-folgeantrag-71/FACHINHALT.md)
+3.1.2. [Aufenthaltstitel-Antrag](../fachanwalt-migrationsrecht-aufenthaltstitel-antrag/FACHINHALT.md)
+3.1.3. [Ausweisung-Widerspruch Paragraf 53 AufenthG](../fachanwalt-migrationsrecht-ausweisung-widerspruch/FACHINHALT.md)
+3.1.4. [GEAS-Reform: EU-Grenzverfahren 2024](../fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

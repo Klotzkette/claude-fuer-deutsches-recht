@@ -1,5 +1,9 @@
 # Vollprüfung: richter-amtsgericht-handelsregister
 
+Ermittle, ob die angemeldete Tatsache eingetragen werden kann, und verfasse die passende Verfügung oder Entscheidung. Anmeldung und Nachweis sind nach Paragraf 12 HGB und etwa Paragraf 39 Absatz 2 GmbHG zu prüfen. Paragraf 382 Absätze 3 und 4 FamFG unterscheidet Ablehnung und Zwischenverfügung. Der vorhandene Anker BGH, Beschluss vom 19.09.2023, Az. II ZB 15/22, Rn. 8 bis 12, verbietet, ein aus Gerichtssicht unbehebbares Hindernis als Zwischenverfügung zur Rücknahme zu behandeln. Eine unzulässige Zwischenverfügung aufzuheben heißt nicht, die Eintragung zu bewilligen. Quellenstand und Besonderheiten des entschiedenen Falls im Fachabschnitt beachten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 13 Skills des Plugins `richter-amtsgericht-handelsregister`.
@@ -30,12 +34,10 @@ _Schaltet sich ein, wenn in Richter Amtsgericht Handelsregister ein juristisches
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Ordne Anmeldung, zugrunde liegenden Beschluss und Registerlage. Begründe Eintragung, ergänzenden Nachweis oder Zwischenverfügung aus dem tatsächlich vorgelegten Bestand.
 
-Pluginauftrag: Handelsregisterrichter und Rechtspfleger: Ersteintragung Änderungen Löschung Zwischenverfügung Beschwerde Eintragungsfähigkeit Firmenrecht Vertretungsmacht Liquidation und Löschung von Amts wegen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -65,10 +67,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 03 Gesellschaftsvertrag Prüfen GmbH: Bearbeite den Fachpunkt im Skill 03-gesellschaftsvertrag-pruefen-gmbh und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 07 Zwischenverfügung und Beschwerde: Bearbeite den Fachpunkt im Skill 07-zwischenverfuegung-und-beschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 09 Vereins und Genossenschaftsregister: Bearbeite den Fachpunkt im Skill 09-vereins-und-genossenschaftsregister und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 10 Entscheidungsvorschlag Register: Bearbeite den Fachpunkt im Skill 10-entscheidungsvorschlag-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [03 Gesellschaftsvertrag Prüfen GmbH](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-handelsregister/skills/03-gesellschaftsvertrag-pruefen-gmbh/SKILL.md)
+3.1.2. [07 Zwischenverfügung und Beschwerde](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-handelsregister/skills/07-zwischenverfuegung-und-beschwerde/SKILL.md)
+3.1.3. [09 Vereins und Genossenschaftsregister](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-handelsregister/skills/09-vereins-und-genossenschaftsregister/SKILL.md)
+3.1.4. [10 Entscheidungsvorschlag Register](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-handelsregister/skills/10-entscheidungsvorschlag-register/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1115,10 +1119,7 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

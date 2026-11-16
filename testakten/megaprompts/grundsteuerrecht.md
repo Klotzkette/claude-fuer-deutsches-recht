@@ -1,5 +1,9 @@
 # Vollprüfung: grundsteuerrecht
 
+Prüfe Grundstücksdaten, Bewertung, Messbetrag und Hebesatz gegen die zugehörigen Bescheide und liefere die bestellte Berechnung, den Antrag oder Mandantenbrief. Paragraf 351 Absatz 2 AO verlangt, den Fehler auf der richtigen Bescheidstufe anzugreifen; ein neuer Jahresbescheid eröffnet nicht jede frühere Frist neu.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 10 Skills des Plugins `grundsteuerrecht`.
@@ -97,7 +101,7 @@ BFH, Urteil vom 12.11.2025, II R 3/25, bestätigt im geprüften Bereich die Bund
 
 ### 3.3. Anhängigkeit richtig verwenden
 
-Die amtliche BFH-Übersicht, Stand August 2026, nennt unter anderem die Verfassungsbeschwerden 1 BvR 472/26 gegen II R 3/25 und 1 BvR 551/26 gegen II R 25/24. Das sind Verfahrensstände, keine stattgebenden Entscheidungen. Vor Verwendung Status und Identität der Rechtsfrage erneut prüfen. Paragraf 363 Absatz 2 Satz 2 AO kann das Einspruchsverfahren insoweit zum Ruhen bringen; konkrete Objekt- oder Übernahmefehler sind gesondert zu verfolgen. Weder Ruhen noch Verfassungsbeschwerde bedeuten automatisch Aussetzung der Vollziehung.
+Die [BFH-Verfahrensübersicht in den Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/grundsteuerrecht/references/grundsteuer-quellen.md) nennt am 16.11.2026 für das Bundesmodell 1 BvR 472/26 und 1 BvR 551/26, für Baden-Württemberg 1 BvR 1977/26 und 1 BvR 2005/26. Für Hessen (II R 12/25) und Hamburg (II R 15/25) ist die Verkündung für 10.12.2026 angekündigt. Bestimme zuerst Landesmodell und Streitfrage. Paragraf 363 Absatz 2 Satz 2 AO kann das Einspruchsverfahren insoweit zum Ruhen bringen. Verfolge daneben konkret falsche Flächen oder Übernahmen und prüfe einen Zahlungsaufschub gesondert. Vor Verwendung Verfahrensstatus live kontrollieren.
 
 ### 3.4. Prozessstoff verdichten
 
@@ -487,10 +491,7 @@ Liefere einen knappen, ausformulierten Zuständigkeits- und Normenvermerk mit Ta
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

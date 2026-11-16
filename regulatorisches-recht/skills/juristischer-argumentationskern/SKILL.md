@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Regulatorisches Recht ein juristisches 
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche Tätigkeit, Organisation und konkreten Vorgang mit den anwendbaren Aufsichtsvorgaben ab. Begründe die erforderliche Erlaubnis, Meldung oder Position gegenüber der zuständigen Stelle.
 
-Pluginauftrag: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. DORA-IKT-Vertragsprüfung: Bearbeite den Fachpunkt im Skill dora-ikt-vertragspruefung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. GwG: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill gwg-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Interview: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill interview-fristennotiz-aufsichtssanktion und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Regulator: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill regulator-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [DORA-IKT-Vertragsprüfung](../dora-ikt-vertragspruefung/FACHINHALT.md)
+3.1.2. [GwG: Fristen, Form, Zuständigkeit und Rechtsweg](../gwg-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.3. [Interview: Fristennotiz und nächster Schritt](../interview-fristennotiz-aufsichtssanktion/FACHINHALT.md)
+3.1.4. [Regulator: Zahlen, Schwellenwerte und Berechnung](../regulator-zahlen-schwellen-und-berechnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

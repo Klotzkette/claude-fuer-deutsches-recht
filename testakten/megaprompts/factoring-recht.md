@@ -1,5 +1,9 @@
 # Vollprüfung: factoring-recht
 
+Welche Rechnung gehört dem Factor, und was ist nach Zahlungen und Einwendungen noch offen? Lies Rahmenvertrag, Ankaufannahme und Zahlungsbelege und erstelle die beauftragte Abrechnung, Vertragsbewertung oder den Debitorenbrief. Paragrafen 398 und 407 BGB geben den Ausgangspunkt für Erwerb und Schuldnerschutz.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 63 Skills des Plugins `factoring-recht`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Factoring Recht ein juristisches Arbeitsprodukt trag
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Forderungsbearbeiter für Vertrag, Rechnung, Fälligkeit, Verzug, Einwendungen, Mahnung, Klage, Titel und Vollstreckung.
+Gleiche Abtretung, Debitorenkonto, Einwendungen und Zahlungen ab. Begründe den verlangten Entwurf zu Forderungsbestand, Zahlung, Rückgriff oder Aufsichtsfragen.
 
-Pluginauftrag: Begründe das Ergebnis zu Factoring und Forderungskauf sowie zu den damit verbundenen Fragen des Aufsichtsrechts, der Vertragsgestaltung, Debitorenkommunikation, Insolvenz und Sanierung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Kündigung Rahmenvertrag Exit und Rückübertragung: Bearbeite den Fachpunkt im Skill kuendigung-rahmenvertrag-exit-und-rueckuebertragung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. AGB Kontrolle Factoringklauseln B2B: Bearbeite den Fachpunkt im Skill agb-kontrolle-factoringvertrag-rahmenvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Beschwerde und Anhörung BaFin Factoring: Bearbeite den Fachpunkt im Skill beschwerde-und-anhoerung-bafin-factoring und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Erlaubnisantrag Paragraf 32 KWG Unterlagen Geschäftsleiter: Bearbeite den Fachpunkt im Skill erlaubnisantrag-32-kwg-unterlagen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Kündigung Rahmenvertrag Exit und Rückübertragung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/factoring-recht/skills/kuendigung-rahmenvertrag-exit-und-rueckuebertragung/FACHINHALT.md)
+3.1.2. [AGB Kontrolle Factoringklauseln B2B](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/factoring-recht/skills/agb-kontrolle-factoringvertrag-rahmenvertrag/FACHINHALT.md)
+3.1.3. [Beschwerde und Anhörung BaFin Factoring](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/factoring-recht/skills/beschwerde-und-anhoerung-bafin-factoring/FACHINHALT.md)
+3.1.4. [Erlaubnisantrag Paragraf 32 KWG Unterlagen Geschäftsleiter](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/factoring-recht/skills/erlaubnisantrag-32-kwg-unterlagen/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -880,10 +884,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

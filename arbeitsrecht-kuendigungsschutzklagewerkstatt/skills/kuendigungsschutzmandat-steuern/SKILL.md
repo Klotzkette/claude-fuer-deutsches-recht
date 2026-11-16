@@ -28,7 +28,7 @@ Lies zuerst Auftrag, letzte Kündigung, Zugangsangaben, vorhandene Klage und akt
 - Bei Serienabbau, Anzeige oder Übergang: [massenentlassung-betriebsuebergang](../massenentlassung-betriebsuebergang/SKILL.md). Konkrete Fehlerfolge bestimmen.
 - Bei Gegenvortrag, Auflage oder Beweisfrage: [klage-erwiderung-beweisfuehrung](../klage-erwiderung-beweisfuehrung/SKILL.md). Neue Streitpunkte gezielt beantworten.
 - Bei Gütetermin oder Einigungsangebot: [guetetermin-vergleich-abfindung](../guetetermin-vergleich-abfindung/SKILL.md). Anspruch und Verhandlung trennen.
-- Bei Beschäftigung, Lohn oder Urteil: [weiterbeschaeftigung-lohn-rechtsmittel](../weiterbeschaeftigung-lohn-rechtsmittel/SKILL.md). Anspruchsübergang und Fristen sichern.
+- Bei Beschäftigung, Lohn oder Urteil: [weiterbeschaeftigung-lohn-rechtsmittel](../weiterbeschaeftigung-lohn-rechtsmittel/SKILL.md). Anspruchsübergang und Fristen sichern. Prüfe bei Vermittlungsvorschlägen den Auskunftsantrag gesondert vom Anrechnungseinwand im Zahlungsprozess. [BAG, Urteil vom 26.08.2026, 5 AZR 37/25, Rn. 22–36](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-37-25/).
 
 4. Verbinde kumulierende Prüfungen: spät erkannte Schwangerschaft braucht Frist- und Schutzprüfung; Serienabbau kann Sozialauswahl und Anzeige betreffen. Kündigungsgründe bleiben getrennte Tatsachenkomplexe. Pro Streitpunkt Behauptung, Beleg, Beweisangebot, Rechtsfolge und stärkste belegte Gegenposition festhalten.
 5. Formuliere das Dokument aus. Entscheidende Fragen bündeln und Antworten in denselben Entwurf einarbeiten, bis er fertig ist. Bei ausbleibender Antwort bearbeitbare Teile liefern und konkrete Lücken markieren. Bei Unterbrechung Dokumentstand, nächste Frist und benötigten Beitrag sichern; kein Analyse-Abbruch.

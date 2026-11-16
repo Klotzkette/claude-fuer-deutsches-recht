@@ -23,7 +23,7 @@ Bei Kostenänderungen Anlass, Kostenbasis, Gewichtung, gegenläufige Entwicklung
 
 ### 3.2. Widerspruch ist nicht automatisch Kündigung
 
-BGH, Urteil vom 01.10.2026 - Az. III ZR 205/25, hier nur nach gelesener Pressemitteilung 184/2026: Die beanstandete Klauselgruppe ließ offen, ob Ablehnung lediglich durch Vertragskündigung möglich war oder einfacher Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich Anbieterkündigung. Nach der Mitteilung begründete dies Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB. Stelle beide vertretbaren Lesarten samt Wirkung dar und gleiche sie mit dem Kundenanschreiben ab.
+[BGH, Urteil vom 01.10.2026, III ZR 205/25](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip), Rn. 20–32: Prüfe Preis-, Widerspruchs- und Kündigungsklauseln gemeinsam. Lege fest, ob und bis wann Widerspruch den bisherigen Preis erhält und wann eine Kündigung wirkt. Die Unklarheit darüber war intransparent nach Paragraf 307 Absatz 1 BGB. Die Entscheidung zur konkreten AGB-Gruppe begründet kein allgemeines Erhöhungsverbot und spricht keine individuelle Erstattung zu. Die weitere Angriffsrichtung zur Kostenstruktur blieb für die Entscheidung offen. Stimme die Neufassung der Klauselgruppe mit der Kundenmitteilung ab.
 
 Der Unterlassungsfall begründet kein allgemeines Verbot von Preisänderungen, keine allgemeine Erlaubnis von Zustimmungsfiktionen und keine Entscheidung über individuelle Erstattung. Schweigen, ausdrücklich erklärte Annahme, Widerspruch und Kündigung jeweils eigenständig prüfen. Eine Anbieterkündigung nicht als automatische Folge der Ablehnung behaupten.
 
@@ -35,7 +35,7 @@ Bei Unwirksamkeit Paragraf 306 BGB, verbleibende Preisabreden und etwaige späte
 
 ## 4. Quellenpflicht
 
-Für III ZR 205/25 ausschließlich [amtliche Pressemitteilung 184/2026 vom 01.10.2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html), gelesen am 16.10.2026. Urteilsvolltext nicht gelesen; keine Randnummern oder weitergehenden Gründe behaupten. Den Quellenstatus bei Verwendung erhalten.
+Vertragsdatum, Änderungszeitpunkt und anwendbare Fassung der Paragrafen 307 bis 310 BGB sowie mögliches Sonderrecht am Fall prüfen. Die bezeichneten Randnummern wurden im amtlichen Volltext am 16.11.2026 gelesen.
 
 Prüfe Paragrafen 305 bis 310 BGB in der für Abschluss und Änderung maßgeblichen Fassung einschließlich Übergangs- und Sonderrecht; bei Verbandsunterlassung zusätzlich UKlaG. [Zitierweise](../../references/repository/references/zitierweise.md) beachten. Keine Literatur- oder Rechtsprechungsfundstelle aus Erinnerung; eine offene Quellenfrage begrenzt den betroffenen Befund, nicht jede andere Bearbeitung.
 

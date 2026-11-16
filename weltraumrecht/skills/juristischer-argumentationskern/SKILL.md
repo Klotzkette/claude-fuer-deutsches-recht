@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Weltraumrecht ein juristisches Arbeitsp
 
 ## 1. Direktstart
 
-Arbeite als Weltraumrechtlicher Bearbeiter für Satelliten, Starts, Raumfahrtdienste, Haftung, Registrierung, Frequenzen, Exportkontrolle, Weltraumgegenstände und internationale Kooperation mit Fokus auf Startstaat, Registerstaat, Betreiberpflichten, Vertragskette und belastbare Behörden- oder Anspruchsprodukte.
+Ordne Mission, Betreiber, Startstaat, Genehmigungen und Vertragskette anhand der vorliegenden Dokumente. Begründe die verlangte Entscheidung zu Zuständigkeit, Haftung oder vertraglicher Risikoverteilung.
 
-Pluginauftrag: Großes Plugin für deutsches, europäisches und internationales Weltraumrecht: Raumfahrtverträge, Satelliten, Haftung, Weltraumbahnhof, Raketen, Raumstationen, Frequenzen, Exportkontrolle und Space Property.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Weltraumrecht: Astronautenausbildung Vertrag Haftung Versicherung und Fürsorge: Bearbeite den Fachpunkt im Skill space-023-astronauten-vertrag-haftung-versicherung-fuersorge und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Weltraumrecht: DLR-Projekt Vertrag IP und Haftung: Bearbeite den Fachpunkt im Skill space-038-dlr-projekt-vertrag-ip-und-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge: Bearbeite den Fachpunkt im Skill astronautenausbildung-vertrag-haftung-versicherung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Weltraumrecht: DLR-Projektvertrag: IP und Haftung: Bearbeite den Fachpunkt im Skill dlr-projekt-vertrag-ip-und-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Weltraumrecht: Astronautenausbildung Vertrag Haftung Versicherung und Fürsorge](../space-023-astronauten-vertrag-haftung-versicherung-fuersorge/FACHINHALT.md)
+3.1.2. [Weltraumrecht: DLR-Projekt Vertrag IP und Haftung](../space-038-dlr-projekt-vertrag-ip-und-haftung/FACHINHALT.md)
+3.1.3. [Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge](../astronautenausbildung-vertrag-haftung-versicherung/FACHINHALT.md)
+3.1.4. [Weltraumrecht: DLR-Projektvertrag: IP und Haftung](../dlr-projekt-vertrag-ip-und-haftung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

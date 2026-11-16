@@ -7,12 +7,12 @@ description: "Schaltet sich ein, wenn in Betäubungsmittelrecht ein juristisches
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Ordne Stoff, Menge, Zeitpunkt und Umgang nach den jeweils einschlägigen Regeln. Begründe die beantragte Erlaubnis, die Verteidigungsposition oder den erforderlichen Praxisvermerk.
 
-Pluginauftrag: Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, Strafverfahren, Therapie, ärztliche Praxis, Apotheken und Compliance.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Amphetamin Akteneinsicht Vorbereiten: Bearbeite den Fachpunkt im Skill amphetamin-akteneinsicht-vorbereiten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Amphetamin Compliance Bauen: Bearbeite den Fachpunkt im Skill amphetamin-bauen-akteneinsicht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Cannabis Akteneinsicht Vorbereiten: Bearbeite den Fachpunkt im Skill cannabis-akteneinsicht-vorbereiten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Fentanyl Akteneinsicht Vorbereiten: Bearbeite den Fachpunkt im Skill fentanyl-akteneinsicht-vorbereiten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Amphetamin Akteneinsicht Vorbereiten](../amphetamin-akteneinsicht-vorbereiten/FACHINHALT.md)
+3.1.2. [Amphetamin Compliance Bauen](../amphetamin-bauen-akteneinsicht/FACHINHALT.md)
+3.1.3. [Cannabis Akteneinsicht Vorbereiten](../cannabis-akteneinsicht-vorbereiten/FACHINHALT.md)
+3.1.4. [Fentanyl Akteneinsicht Vorbereiten](../fentanyl-akteneinsicht-vorbereiten/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

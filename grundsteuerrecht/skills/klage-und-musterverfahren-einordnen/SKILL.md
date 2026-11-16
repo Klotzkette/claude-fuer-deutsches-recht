@@ -25,7 +25,7 @@ BFH, Urteil vom 12.11.2025, II R 3/25, bestätigt im geprüften Bereich die Bund
 
 ### 3.3. Anhängigkeit richtig verwenden
 
-Die amtliche BFH-Übersicht, Stand August 2026, nennt unter anderem die Verfassungsbeschwerden 1 BvR 472/26 gegen II R 3/25 und 1 BvR 551/26 gegen II R 25/24. Das sind Verfahrensstände, keine stattgebenden Entscheidungen. Vor Verwendung Status und Identität der Rechtsfrage erneut prüfen. Paragraf 363 Absatz 2 Satz 2 AO kann das Einspruchsverfahren insoweit zum Ruhen bringen; konkrete Objekt- oder Übernahmefehler sind gesondert zu verfolgen. Weder Ruhen noch Verfassungsbeschwerde bedeuten automatisch Aussetzung der Vollziehung.
+Die [BFH-Verfahrensübersicht in den Fachquellen](../../references/grundsteuer-quellen.md) nennt am 16.11.2026 für das Bundesmodell 1 BvR 472/26 und 1 BvR 551/26, für Baden-Württemberg 1 BvR 1977/26 und 1 BvR 2005/26. Für Hessen (II R 12/25) und Hamburg (II R 15/25) ist die Verkündung für 10.12.2026 angekündigt. Bestimme zuerst Landesmodell und Streitfrage. Paragraf 363 Absatz 2 Satz 2 AO kann das Einspruchsverfahren insoweit zum Ruhen bringen. Verfolge daneben konkret falsche Flächen oder Übernahmen und prüfe einen Zahlungsaufschub gesondert. Vor Verwendung Verfahrensstatus live kontrollieren.
 
 ### 3.4. Prozessstoff verdichten
 

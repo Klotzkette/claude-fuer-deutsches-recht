@@ -7,9 +7,7 @@ description: "Forderungsmanagement — Klagewerkstatt: Prozess und Titel: Zustä
 
 ## 1. Zweck und Anwendungsfall
 
-Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Lies Anspruchsbelege, gerichtliche Schreiben und Zustellnachweise. Entscheide, ob ein Mahnantrag, eine Klage, eine Anspruchsbegründung nach Widerspruch oder die Vollstreckung des vorhandenen Titels vorbereitet werden soll. Rechne Teilzahlungen und streitige Nebenforderungen vor dem Antrag durch.
 
 ## 2. Eingaben
 
@@ -26,9 +24,9 @@ Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Verjährung und Nebenforderungen behandeln
 
-Welche Nebenforderungen sind rechnerisch und rechtlich haltbar.
+Ordne jeder Forderung Fälligkeit, Fristbeginn und belegte Hemmung sowie die gesondert berechneten Zinsen und Kosten zu. Bei abgetretenen Verbraucherkrediten [EuGH, Urteil vom 12.11.2026, C-476/25, Seruel](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316917&doclang=NL), Rn. 33–42, prüfen: Artikel 10 Absatz 1 der Richtlinie (EU) 2021/2167 regelt die amtswegige Verjährungsprüfung im Beitreibungsverfahren eines Kreditkäufers nicht. Nationale Einrederegel und verfahrensrechtliche Prüfung einschließlich Äquivalenz und Effektivität getrennt begründen. Den Wechsel von Mahnverfahren zu streitigem Verfahren in Antrag und Fristenkarte nachvollziehen.
 
 ### 3.4. Arbeitsschritt
 

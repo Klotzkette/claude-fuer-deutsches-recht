@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Leasingrecht Praxis ein juristisches Ar
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Gleiche Leasingvertrag, Übergabe, Laufzeit, Kündigung und Abrechnung ab. Begründe die Position zu Raten, Rückgabe, Restwert oder Finanzierungsstruktur anhand der Vertrags- und Zahlenbelege.
 
-Pluginauftrag: Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten, IT-Leasing, Insolvenz, Restwert, Sicherheiten und Vertragsgestaltung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Leasingrecht: AGB-Klauseln im Leasingvertrag prüfen: Bearbeite den Fachpunkt im Skill lease-003-agb-klauseln-im-leasingvertrag-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe: Bearbeite den Fachpunkt im Skill lease-005-fahrzeugleasing-km-vertrag-restwert-rueckgabe und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Leasingrecht: Kündigung Zahlungsverzug Rückholung und Verwertung: Bearbeite den Fachpunkt im Skill lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Leasingrecht: Sicherungsübereignung und Leasingregister-Frage: Bearbeite den Fachpunkt im Skill lease-019-sicherungsuebereignung-und-leasingregister-frage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Leasingrecht: AGB-Klauseln im Leasingvertrag prüfen](../lease-003-agb-klauseln-im-leasingvertrag-pruefen/FACHINHALT.md)
+3.1.2. [Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe](../lease-005-fahrzeugleasing-km-vertrag-restwert-rueckgabe/FACHINHALT.md)
+3.1.3. [Leasingrecht: Kündigung Zahlungsverzug Rückholung und Verwertung](../lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung/FACHINHALT.md)
+3.1.4. [Leasingrecht: Sicherungsübereignung und Leasingregister-Frage](../lease-019-sicherungsuebereignung-und-leasingregister-frage/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

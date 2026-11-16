@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Umweltrecht ein juristisches Arbeitspro
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche konkrete Anlage, Tätigkeit und Umweltauswirkung mit Akte und Genehmigungsstand ab. Begründe den erforderlichen Antrag, die Einwendung oder die Reaktion auf einen Vollzugsbescheid.
 
-Pluginauftrag: Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Diligence: Compliance-Dokumentation und Aktenvermerk: Bearbeite den Fachpunkt im Skill diligence-greenwashing-beweislast-klimaklagen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. ESG, CSRD und Greenwashing-Verteidigung: Bearbeite den Fachpunkt im Skill esg-greenwashing-klimaklagen-verbandsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Klimaklagen: Mehrparteienkonflikt und Interessenmatrix: Bearbeite den Fachpunkt im Skill klimaklagen-mehrparteien-konflikt-und-interessen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Klimaklagen und Verbandsklagen nach UmwRG: Bearbeite den Fachpunkt im Skill klimaklagen-verbandsklage-umwrg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Diligence: Compliance-Dokumentation und Aktenvermerk](../diligence-greenwashing-beweislast-klimaklagen/FACHINHALT.md)
+3.1.2. [ESG, CSRD und Greenwashing-Verteidigung](../esg-greenwashing-klimaklagen-verbandsklage/FACHINHALT.md)
+3.1.3. [Klimaklagen: Mehrparteienkonflikt und Interessenmatrix](../klimaklagen-mehrparteien-konflikt-und-interessen/FACHINHALT.md)
+3.1.4. [Klimaklagen und Verbandsklagen nach UmwRG](../klimaklagen-verbandsklage-umwrg/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

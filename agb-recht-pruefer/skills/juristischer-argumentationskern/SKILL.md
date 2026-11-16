@@ -7,12 +7,12 @@ description: "Schaltet sich ein, wenn in Agb Recht Prüfer ein juristisches Arbe
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Prüfe den Wortlaut der beanstandeten Klausel im konkreten Vertrag. Begründe ihre Einbeziehung und Wirksamkeit und formuliere bei Bedarf eine belastbare Ersatzklausel.
 
-Pluginauftrag: Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: Paragrafen 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.
+Bei einer Preiserhöhung lies die Preis- und Änderungsklauseln zusammen mit der Änderungsmitteilung. Kläre, ob ein Widerspruch den alten Preis erhält oder ob nur eine Vertragsbeendigung offensteht. [BGH, Urteil vom 01.10.2026, III ZR 205/25, Rn. 20–32](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip)
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Kündigungsfiktion und Nachfrist 308: Bearbeite den Fachpunkt im Skill kuendigungsfiktion-und-nachfrist-308 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Agb Im Arbeitsvertrag 310 Abs 4 Vertieft: Bearbeite den Fachpunkt im Skill agb-im-arbeitsvertrag-310-abs-4-vertieft und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Agb Im Bauvertrag Vob B 2024: Bearbeite den Fachpunkt im Skill agb-im-bauvertrag-vob-b-2024 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Agb Vertragsstrafe 309 Nr 6: Bearbeite den Fachpunkt im Skill agb-vertragsstrafe-309-nr-6 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Kündigungsfiktion und Nachfrist 308](../kuendigungsfiktion-und-nachfrist-308/FACHINHALT.md)
+3.1.2. [Agb Im Arbeitsvertrag 310 Abs 4 Vertieft](../agb-im-arbeitsvertrag-310-abs-4-vertieft/FACHINHALT.md)
+3.1.3. [Agb Im Bauvertrag Vob B 2024](../agb-im-bauvertrag-vob-b-2024/FACHINHALT.md)
+3.1.4. [Agb Vertragsstrafe 309 Nr 6](../agb-vertragsstrafe-309-nr-6/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -62,10 +64,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung
-5.2. BGH II ZR 30/10: Verfahrensgrundsätze als Prüfungsmassstab
-5.3. BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen
-5.4. BGH VII ZR 168/13: bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln
+5.1. [BGH, Urteil vom 01.10.2026, III ZR 205/25, Rn. 20–32](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip): Im Zusammenspiel der AGB blieb offen, ob Verbraucher die Erhöhung einer Mitgliedsgebühr ablehnen und den Vertrag zum bisherigen Preis fortführen konnten. Der BGH bejaht einen Transparenzverstoß nach § 307 Abs. 1 Satz 2 BGB. Prüfe im eigenen Vertrag, ob der Verwender ein einseitiges Änderungsrecht beansprucht, wovon es abhängt und welche Möglichkeiten bei einem Widerspruch tatsächlich bestehen. Das Klauselurteil entscheidet weder über jedes Preisanpassungsmodell noch unmittelbar über einzelne Rückzahlungsansprüche.
+5.2. [BGH, Urteil vom 10.07.2025, III ZR 59/24, Rn. 12–14, 19–28](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&nr=142278): Bei einer dynamischen AGB-Verweisung im postalischen DSL-Antragsformular führte der unbeschränkte Änderungsspielraum zu einem Transparenzverstoß. Im Verbandsprozess den Kontrollmaßstab nach §§ 307–309 BGB von der konkreten Einbeziehung nach § 305 Abs. 2 BGB unterscheiden. Bei einer klar auf die Abschlussfassung begrenzten Verweisung ist die Auslegung gesondert zu prüfen.
+5.3. [BGH, Versäumnisurteil vom 19.09.2007, VIII ZR 141/06, Rn. 11–15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2007-9-19&Gericht=bgh&nr=41931): Eine umfassende Freizeichnung auch für Körper- oder Gesundheitsschäden und sonstige Schäden bei grobem Verschulden kann im Unternehmerverkehr an § 307 BGB scheitern. Prüfe dort nach § 310 Abs. 1 BGB gesondert die Interessen und Gebräuche im Geschäftsverkehr. Das Urteil bestimmt keine allgemeine Grenze für jede betragsmäßige Haftungsbeschränkung.
+5.4. [BGH, Urteil vom 19.07.2019, V ZR 75/18, Rn. 28–31](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-7-19&Gericht=bgh&nr=101705): Auch eine formularmäßige Verjährungsverkürzung kann mittelbar gegen § 309 Nr. 7 BGB verstoßen. Im Verwaltervertrag erfasste die generelle Verkürzung auch die geschützten Schadensersatzansprüche. Prüfe deshalb Verjährungsregel, Haftungsausschluss und ihre jeweiligen Ausnahmen zusammen.
 
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.

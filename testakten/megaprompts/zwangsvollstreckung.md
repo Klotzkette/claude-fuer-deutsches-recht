@@ -1,5 +1,9 @@
 # Vollprüfung: zwangsvollstreckung
 
+Gleiche titulierte Hauptforderung, Zinslauf und Kosten mit den eingegangenen Zahlungen ab. Bestimme, welcher Betrag aus welchem Titel gegen welchen Schuldner vollstreckt werden darf und welcher konkrete Zugriff oder Einwand dem Auftrag entspricht. Formuliere den beauftragten Antrag oder die begründete Beratung einschließlich der einschlägigen Schutzrechte.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `zwangsvollstreckung`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Zwangsvollstreckung ein juristisches Arbeitsprodukt 
 
 ## 1. Direktstart
 
-Arbeite als Vollstreckungsrechtlicher Bearbeiter für Titel, Klausel, Zustellung, Gerichtsvollzieherauftrag, Forderungspfändung, Pfändungs- und Überweisungsbeschluss, Räumung, Kontenabfrage, Schuldnerschutz und Insolvenzschnittstellen.
+Gleiche Titel, Klausel und Zustellung mit Forderungsbetrag und bekanntem Vollstreckungsobjekt ab. Entwirf den beauftragten Vollstreckungsantrag mit dem erforderlichen Nachweisbestand.
 
-Pluginauftrag: Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, Paragraf 765a Härtefall, Schuldnerschutz.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill vermoegensauskunft-vollstreckungsbescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Mahnbescheid: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill mahnbescheid-fristennotiz-zv-titel-zv und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Vollstreckungsbescheid und Folgeverfahren: Bearbeite den Fachpunkt im Skill vollstreckungsbescheid-zv und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage: Bearbeite den Fachpunkt im Skill zpo-zwangsvollstreckung-zv-abwehr und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/zwangsvollstreckung/skills/vermoegensauskunft-vollstreckungsbescheid/FACHINHALT.md)
+3.1.2. [Mahnbescheid: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/zwangsvollstreckung/skills/mahnbescheid-fristennotiz-zv-titel-zv/FACHINHALT.md)
+3.1.3. [Vollstreckungsbescheid und Folgeverfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/zwangsvollstreckung/skills/vollstreckungsbescheid-zv/FACHINHALT.md)
+3.1.4. [ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/zwangsvollstreckung/skills/zpo-zwangsvollstreckung-zv-abwehr/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1112,10 +1116,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

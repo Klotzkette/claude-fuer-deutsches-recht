@@ -1,5 +1,9 @@
 # Vollprüfung: methodenlehre-buergerliches-recht
 
+Kläre die streitige Bedeutung einer Erklärung oder Rechtsnorm und begründe, welche Rechtsfolge sich daraus im vorgelegten Fall ergibt. Trenne Vertragsauslegung, Gesetzesauslegung, Rechtsfortbildung und Tatsachenfeststellung. Schreibe den verlangten Methodenvermerk oder die überarbeitete Argumentation vollständig aus; bloße Methodenbezeichnungen reichen nicht.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 141 Skills (gekürzt für das Arbeitsfenster) des Plugins `methodenlehre-buergerliches-recht`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Methodenlehre Bürgerliches Recht ein juristisches A
 
 ## 1. Direktstart
 
-Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+Ordne den Anspruch oder die Auslegungsfrage aus dem Sachverhalt. Führe die entscheidenden Tatsachen mit Belegen durch Norm, Gegenargument und Rechtsfolge.
 
-Pluginauftrag: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwägung, Praezedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begründungskontrolle.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg: Bearbeite den Fachpunkt im Skill anspruchsgrundlagen-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg: Bearbeite den Fachpunkt im Skill methodenlehre-anspruchsgrundlagen-normzweck und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Fristen, Form und Zuständigkeit im bürgerlichen Recht: Bearbeite den Fachpunkt im Skill methodenlehre-fristen-form-zustaendigkeit-buergerlichen-recht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Reihenfolge und Bausteine für Schriftsatz, Brief und Memo: Bearbeite den Fachpunkt im Skill methodenlehre-reihenfolge-bausteine-schriftsatz-brief-memo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/methodenlehre-buergerliches-recht/skills/anspruchsgrundlagen-behoerden-gericht-und-registerweg/FACHINHALT.md)
+3.1.2. [Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/methodenlehre-buergerliches-recht/skills/methodenlehre-anspruchsgrundlagen-normzweck/FACHINHALT.md)
+3.1.3. [Fristen, Form und Zuständigkeit im bürgerlichen Recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/methodenlehre-buergerliches-recht/skills/methodenlehre-fristen-form-zustaendigkeit-buergerlichen-recht/FACHINHALT.md)
+3.1.4. [Reihenfolge und Bausteine für Schriftsatz, Brief und Memo](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/methodenlehre-buergerliches-recht/skills/methodenlehre-reihenfolge-bausteine-schriftsatz-brief-memo/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -841,10 +845,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

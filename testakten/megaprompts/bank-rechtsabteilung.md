@@ -1,5 +1,9 @@
 # Vollprüfung: bank-rechtsabteilung
 
+Muss die Bank erstatten, darf sie eine Sicherheit ziehen oder kann sie die verlangte Aufsichtsauskunft belegen? Lies Kreditakte, Vertragsfassung, Kundenkorrespondenz, Transaktionsdaten oder Aufsichtsschreiben zuerst. Verfasse die bestellte Kundenantwort, Vertragsänderung, Entscheidungsvorlage oder Stellungnahme aus Sicht der Rechtsabteilung. Rechtspflicht und interne Risikofreigabe bleiben getrennt; eine Prüfung ist kein Klageauftrag.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 122 Skills (gekürzt für das Arbeitsfenster) des Plugins `bank-rechtsabteilung`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Bank Rechtsabteilung ein juristisches Arbeitsprodukt
 
 ## 1. Direktstart
 
-Arbeite als Bank- und kapitalmarktrechtlicher Bearbeiter für Kredit, Anlageberatung, Zahlungsdienste, Bürgschaft, Aufsicht, Marktmissbrauch, Tokenisierung und BaFin-Kommunikation.
+Lies Kundenvertrag, Bankunterlagen und den konkreten Geschäftsvorgang. Leite daraus den Vertragsentwurf, Risikovermerk oder das Aufsichtsschreiben mit den entscheidenden Freigabepunkten ab.
 
-Pluginauftrag: Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko: Bearbeite den Fachpunkt im Skill rechtsabteilung-ewpg-tokenisierung-und-registerrisiko und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. AGB-Klauselkontrolle Bank: Bearbeite den Fachpunkt im Skill agb-bankrecht-organhaftung-business und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Auskunftsersuchen: Bearbeite den Fachpunkt im Skill bankgeheimnis-auskunftsersuchen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Kryptowertpapierregister Erlaubnis: Bearbeite den Fachpunkt im Skill ewpg-kryptowertpapierregister-registerwechsel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/skills/rechtsabteilung-ewpg-tokenisierung-und-registerrisiko/FACHINHALT.md)
+3.1.2. [AGB-Klauselkontrolle Bank](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/skills/agb-bankrecht-organhaftung-business/FACHINHALT.md)
+3.1.3. [Auskunftsersuchen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/skills/bankgeheimnis-auskunftsersuchen/FACHINHALT.md)
+3.1.4. [Kryptowertpapierregister Erlaubnis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/skills/ewpg-kryptowertpapierregister-registerwechsel/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -73,7 +77,7 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 4.2. KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
 4.3. WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
 4.4. BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-4.5. BGB Paragraf 675u und Paragraf 675v: Haftung bei nicht autorisierten Zahlungsvorgängen.
+4.5. BGB Paragraf 675u und Paragraf 675v: unverzügliche Erstattung und eigenständigen Gegenanspruch trennen. [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52, trägt die Erstattung trotz bloß behaupteter grober Fahrlässigkeit; trägt nicht endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot. Betrugsverdachtsausnahme gegen den Zahler und Behördenmitteilung gesondert belegen. [Geprüfte Quellen und Anwendungsgrenzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/references/eugh-c-70-25-erstattung-und-regress.md).
 4.6. BGB Paragraf 765 und Paragraf 766: Bürgschaft und Schriftform.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
@@ -503,10 +507,7 @@ Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und P
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

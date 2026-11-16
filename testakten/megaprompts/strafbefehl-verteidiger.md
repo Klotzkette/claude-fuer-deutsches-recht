@@ -1,5 +1,9 @@
 # Vollprüfung: strafbefehl-verteidiger
 
+Bestimme aus Strafbefehl und Zustellungsnachweis, ob und in welchem Umfang noch Einspruch eingelegt werden kann. Prüfe danach Tatnachweis, Tagessatzanzahl, Tagessatzhöhe und Nebenfolgen getrennt. Formuliere die bestellte Beratung, den Einspruch oder den Wiedereinsetzungsantrag vollständig; eine bloße Empfehlung zur Fristkontrolle genügt bei einem Entwurfsauftrag nicht.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `strafbefehl-verteidiger`.
@@ -32,12 +36,12 @@ _Schaltet sich ein, wenn in Strafbefehl Verteidiger ein juristisches Arbeitsprod
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Lies Strafbefehl und Zustellung. Sichere die Einspruchsfrist, prüfe Tatvorwurf und Sanktion anhand der Akte und entwirf die verlangte Verteidigungshandlung.
 
-Pluginauftrag: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +71,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Frist und Einspruch nach Paragraf 410 StPO: Bearbeite den Fachpunkt im Skill strafbefehl-fristen-einspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Akteneinsicht im Strafbefehlsverfahren — Paragraf 147 StPO: Bearbeite den Fachpunkt im Skill strafbefehl-akteneinsicht-147 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Akteneinsicht: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill akteneinsicht-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill wiedereinsetzung-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Frist und Einspruch nach Paragraf 410 StPO](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/strafbefehl-fristen-einspruch/FACHINHALT.md)
+3.1.2. [Akteneinsicht im Strafbefehlsverfahren — Paragraf 147 StPO](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/strafbefehl-akteneinsicht-147/FACHINHALT.md)
+3.1.3. [Akteneinsicht: Behörden-, Gerichts- oder Registerweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/akteneinsicht-behoerden-gericht-und-registerweg/FACHINHALT.md)
+3.1.4. [Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafbefehl-verteidiger/skills/wiedereinsetzung-zahlen-schwellen-und-berechnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1040,10 +1046,7 @@ Dieser Quellen-Livecheck für **Strafbefehl Verteidiger** trennt amtliche Normfa
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

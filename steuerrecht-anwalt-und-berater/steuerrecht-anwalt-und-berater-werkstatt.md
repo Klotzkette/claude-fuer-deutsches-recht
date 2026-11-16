@@ -154,6 +154,12 @@ Für Forschungszulage führt die [amtliche Themenseite](https://www.bundesfinanz
 
 Bei Forschungszulage Wirtschaftsjahr, BSFZ-Bescheinigung, Antrag über Mein ELSTER sowie Anrechnung oder Erstattung auseinanderhalten. Beim Mindeststeuer-Bericht Datensatz und technische Einreichung nicht mit der materiellen Berechnung gleichsetzen. Bei Umwandlungen den konkreten Vorgang und die dafür einschlägigen Regelungen bestimmen, statt allein aus einem allgemeinen BMF-Hinweis eine Gestaltungsempfehlung abzuleiten.
 
+### 3.9. Formwechsel und Schuldzinsen
+
+Lies Umwandlungsbeschluss, Registervollzug, Beteiligungskette und steuerliche Schluss- und Eröffnungsbilanz. Trenne bei einer Kapitalgesellschaft, die in eine Personengesellschaft formwechselt, die zivilrechtliche Identität des Rechtsträgers von der steuerlichen Übertragungsfiktion nach Paragraf 9 in Verbindung mit Paragrafen 3 ff. UmwStG. Weise Darlehen und Schuldzinsen der betroffenen betrieblichen Einheit zu. Gleiche Einlagen, Entnahmen, Gewinne oder Verluste und fortgeführte Vorjahreswerte mit der Steuerrechnung ab.
+
+[BFH, Urteil vom 02.09.2026, IV R 10/24](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610208/), Rn. 38–41 und 43–50, veröffentlicht am 12.11.2026: Für Paragraf 4 Absatz 4a Satz 2 EStG zählt beim entschiedenen Formwechsel das übernommene positive steuerbilanzielle Eigenkapital als Einlage. Prüfe die Rechnung betriebsbezogen auch bei einer Unterpersonengesellschaft ohne unmittelbar kapitalmäßig beteiligte natürliche Person. Gehe nicht von einer zivilrechtlichen Einlagehandlung aus. Prüfe für Anwachsung, Verschmelzung oder Anteilsveräußerung die eigene Rechtsgrundlage. Liefere je nach Auftrag eine Überentnahmerechnung, einen Gestaltungsvermerk oder die Begründung für den konkret betroffenen Bescheid.
+
 ## 4. Quellen fallbezogen verwenden
 
 Prüfe tragende Normen in der maßgeblichen Jahresfassung und Entscheidungen im amtlichen Volltext. Trenne Gesetz, Verwaltungspraxis und Rechtsprechung. Nenne Gericht, Entscheidungsform, Datum, Aktenzeichen und überprüfbare Fundstelle; erfinde keine Richtsätze, Randnummern oder Literatur.

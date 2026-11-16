@@ -63,6 +63,8 @@ Trägt: Verpflichtungsgeschäft und einzelne Erfüllungshandlungen getrennt prü
 
 Trägt nicht: Interne Nachrichten sind generell unbeachtlich; alle Sale-and-lease-back-Geschäfte sind anfechtbar; Gesellschafterstellung allein ersetzt Kenntnis- oder Vorsatzbeweis. Eine Nachricht an einen Gesellschafter kann anders zu würdigen sein, wenn dieser tatsächlich als Gläubiger auftritt.
 
+Bei kongruenter Deckung den damaligen Informationsstand je Zahlung belegen. [BGH, Urteil vom 24.09.2026, IX ZR 65/25](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313232026.zip), Rn. 13–23: Belegen Sie, ob der Schuldner die Zahlung einer fälligen erheblichen Schuld binnen drei Wochen auch in Raten als unmöglich bezeichnete. Ordnen Sie Empfänger, Erklärungstag und Fortdauer bis zur Zahlung zu. Der BGH hat zur weiteren Tatsachenprüfung zurückverwiesen.
+
 ### 4.2 Prüfung vor Verwendung
 
 Prüfen Sie die anwendbare Normfassung und jede tragende gerichtliche Aussage anhand der [Rechtsquellen](../../references/rechtsquellen.md) und der [Zitierweise](../../references/zitierweise.md). Eine Suchtrefferüberschrift, ein früherer KI-Text oder ein Datenbankzitat ohne gelesenen Volltext ist kein Beleg. Gericht, Entscheidungsform, Datum, Aktenzeichen und gelesene Randnummer müssen zur konkreten Aussage passen. Dokumentieren Sie, was der Anker trägt und was er nicht trägt. Übernehmen Sie keine allgemeine Bindung aus einem Präzedenzfall.

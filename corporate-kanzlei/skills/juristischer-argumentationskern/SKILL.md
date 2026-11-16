@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Corporate Kanzlei ein juristisches Arbe
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Ordne Vertragsstand, Datenraumbelege, Freigaben und nächste Transaktionsfrist. Begründe die Entscheidung im verlangten Entwurf oder in einer Liste der offenen Punkte für Unterzeichnung und Vollzug.
 
-Pluginauftrag: Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Multijurisdiktionale Übersetzungen und Dokumente: Bearbeite den Fachpunkt im Skill corporate-kanzlei-translations-multijurisdictional und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Gesellschaftsrecht und Register: Bearbeite den Fachpunkt im Skill gesellschaftsrecht-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Handelsregisterabruf und -analyse: Bearbeite den Fachpunkt im Skill handelsregisterabruf und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Handelsregisterabruf und -analyse: Bearbeite den Fachpunkt im Skill handelsregisterabruf-ki-governance und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Multijurisdiktionale Übersetzungen und Dokumente](../corporate-kanzlei-translations-multijurisdictional/FACHINHALT.md)
+3.1.2. [Gesellschaftsrecht und Register](../gesellschaftsrecht-register/FACHINHALT.md)
+3.1.3. [Handelsregisterabruf und -analyse](../handelsregisterabruf/FACHINHALT.md)
+3.1.4. [Handelsregisterabruf und -analyse](../handelsregisterabruf-ki-governance/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

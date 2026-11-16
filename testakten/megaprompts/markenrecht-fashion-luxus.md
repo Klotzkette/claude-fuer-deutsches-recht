@@ -1,5 +1,9 @@
 # Vollprüfung: markenrecht-fashion-luxus
 
+Prüfe, ob das Zeichen auf Etikett, Tasche, Schuh oder Verkaufsangebot geschützt ist und ob der beanstandete Vertrieb untersagt werden kann. Bei einer Anmeldung bestimme Zeichen und benötigtes Warenverzeichnis; bei Originalware kläre zuerst Erstabsatz und Zustimmung. Arbeite aus Register, Produktbelegen und Lieferkette zum beauftragten Schreiben, Vertrag oder Gutachten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 89 Skills des Plugins `markenrecht-fashion-luxus`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Markenrecht Fashion Luxus ein juristisches Arbeitspr
 
 ## 1. Direktstart
 
-Arbeite als Markenrechtlicher Bearbeiter für DPMA- und EUIPO-Anmeldung, Widerspruch, Benutzungsnachweis, Löschung, Verletzung, Erschöpfung, Lizenz und Portfolioführung.
+Gleiche Zeichen, Register, Waren, Benutzung und beanstandetes Angebot ab. Leite daraus die beauftragte Anmelde-, Lizenz- oder Durchsetzungsposition ab.
 
-Pluginauftrag: Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Markenrechtliche Abmahnung und Unterlassungserklärung: Bearbeite den Fachpunkt im Skill abmahnung-markenrecht-euipo-beschwerdekammer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Klageanträge im Markenrecht: Bearbeite den Fachpunkt im Skill klageantraege-auskunft-madrid-protokoll und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Chronologie und Belegmatrix: Bearbeite den Fachpunkt im Skill markenrecht-benutzungsschonfrist-loeschung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. AGB im Händlervertrag für Luxus-Selektivvertrieb: Bearbeite den Fachpunkt im Skill agb-haendlervertrag-luxus und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Markenrechtliche Abmahnung und Unterlassungserklärung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/markenrecht-fashion-luxus/skills/abmahnung-markenrecht-euipo-beschwerdekammer/FACHINHALT.md)
+3.1.2. [Klageanträge im Markenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/markenrecht-fashion-luxus/skills/klageantraege-auskunft-madrid-protokoll/FACHINHALT.md)
+3.1.3. [Chronologie und Belegmatrix](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/markenrecht-fashion-luxus/skills/markenrecht-benutzungsschonfrist-loeschung/FACHINHALT.md)
+3.1.4. [AGB im Händlervertrag für Luxus-Selektivvertrieb](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/markenrecht-fashion-luxus/skills/agb-haendlervertrag-luxus/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1071,10 +1075,7 @@ Bevor die Briefing-E-Mail an Whitman Brennan Forsythe LLP abgeschickt wird, klae
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

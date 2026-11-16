@@ -1,5 +1,9 @@
 # Vollprüfung: richter-bverfg-verfassungsbeschwerden
 
+Erarbeite das beauftragte Annahmevotum, den Kammervermerk oder Entscheidungsentwurf aus rechtzeitigem Beschwerdevortrag und angegriffenen Hoheitsakten. Paragrafen 23 Absatz 1 Satz 2 und 92 BVerfGG betreffen die Begründung, Paragraf 93a BVerfGG die Annahme. Der vorhandene Anker BVerfG, Kammerbeschluss vom 23.09.2025, Az. 2 BvR 625/25, Rn. 18 bis 23, verlangt die Auseinandersetzung mit den tragenden Gründen statt pauschaler Anlagenverweise oder eines anderen Sachverhalts. Der Darlegungsmaßstab aus dem ANOM-Verfahren ist keine allgemeine Billigung fremder Datenerhebung. Fundstelle und dokumentierte Prüftiefe erhalten; keine fehlende Rüge aus Gerichtsrolle erfinden.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 13 Skills des Plugins `richter-bverfg-verfassungsbeschwerden`.
@@ -30,12 +34,10 @@ _Schaltet sich ein, wenn in Richter BVerfG Verfassungsbeschwerden ein juristisch
 
 ## 1. Direktstart
 
-Arbeite als Verfassungsrechtlicher Bearbeiter für Grundrechte, Staatsorganisationsrecht, Verfassungsbeschwerde, Normenkontrolle und Verhältnismäßigkeit.
+Bestimme Beschwerdegegenstand, Verfahrensweg, Zustellungen und Grundrechtsrüge. Begründe die konkrete Annahme-, Zulässigkeits- oder Sachfrage in einem Kammervermerk oder Beschluss.
 
-Pluginauftrag: BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmeprüfung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiarität Grundrechtsverletzung Rechtswegerschöpfung Voten Kammerbeschluss Nichtannahmebeschluss.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -65,10 +67,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 04 Subsidiarität und Frist: Bearbeite den Fachpunkt im Skill 04-subsidiaritaet-und-frist und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 10 Entscheidungsvorschlag Kammer BVerfG: Bearbeite den Fachpunkt im Skill 10-entscheidungsvorschlag-kammer-bverfg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 01 Annahme Prüfung Paragraf 93A: Bearbeite den Fachpunkt im Skill 01-annahme-pruefung-paragraf-93a und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 02 Substantiierungs Prüfung Paragraf 92: Bearbeite den Fachpunkt im Skill 02-substantiierungs-pruefung-paragraf-92 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [04 Subsidiarität und Frist](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-bverfg-verfassungsbeschwerden/skills/04-subsidiaritaet-und-frist/SKILL.md)
+3.1.2. [10 Entscheidungsvorschlag Kammer BVerfG](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-bverfg-verfassungsbeschwerden/skills/10-entscheidungsvorschlag-kammer-bverfg/SKILL.md)
+3.1.3. [01 Annahme Prüfung Paragraf 93A](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-bverfg-verfassungsbeschwerden/skills/01-annahme-pruefung-paragraf-93a/SKILL.md)
+3.1.4. [02 Substantiierungs Prüfung Paragraf 92](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-bverfg-verfassungsbeschwerden/skills/02-substantiierungs-pruefung-paragraf-92/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1120,10 +1124,7 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

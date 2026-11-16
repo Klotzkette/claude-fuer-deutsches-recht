@@ -1,5 +1,9 @@
 # Vollprüfung: lizenzvertragsersteller
 
+Formuliere, welche Werke, Schutzrechte oder Kenntnisse der Lizenznehmer wie nutzen darf, welche Vergütung dafür anfällt und was bei Vertragsende mit Nutzung, Unterlizenzen und offenen Zahlungen geschieht. Gleiche Vertragsfassung, Rechteanlage und tatsächliches Geschäftsmodell ab; eine Zusicherung darf nicht weiter reichen als der belegte Rechtserwerb.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 33 Skills des Plugins `lizenzvertragsersteller`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Lizenzvertragsersteller ein juristisches Arbeitsprod
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Ordne Schutzgegenstände, belegte Rechtekette und geplante Nutzung. Formuliere den benötigten Lizenzvertrag mit passender Reichweite, Vergütung und Regelung der Beendigung.
 
-Pluginauftrag: Baukastensystem für IP-Lizenzverträge deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschäftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, Datenschutz-Grundverordnung, Quellensteuer, Output DE EN bilingual.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Klausel Vertragsdauer und Kündigung: Bearbeite den Fachpunkt im Skill klausel-vertragsdauer-kuendigung-rueckwirkung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag: Bearbeite den Fachpunkt im Skill datenschutz-dsgvo-im-lizenzvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Klausel Haftung, Gewaehrleistung, Indemnification: Bearbeite den Fachpunkt im Skill klausel-haftung-gewaehrleistung-indemnification und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Output: Lizenzvertrag in deutscher Sprache: Bearbeite den Fachpunkt im Skill output-vertrag-deutsch-fertigentwurf und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Klausel Vertragsdauer und Kündigung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lizenzvertragsersteller/skills/klausel-vertragsdauer-kuendigung-rueckwirkung/FACHINHALT.md)
+3.1.2. [Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lizenzvertragsersteller/skills/datenschutz-dsgvo-im-lizenzvertrag/FACHINHALT.md)
+3.1.3. [Klausel Haftung, Gewaehrleistung, Indemnification](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lizenzvertragsersteller/skills/klausel-haftung-gewaehrleistung-indemnification/FACHINHALT.md)
+3.1.4. [Output: Lizenzvertrag in deutscher Sprache](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lizenzvertragsersteller/skills/output-vertrag-deutsch-fertigentwurf/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1115,10 +1119,7 @@ Bei territorialen Beschraenkungen prüfen: TT-GVO Art. 4 Abs. 1 enthaelt Kernbes
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

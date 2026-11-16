@@ -1,5 +1,9 @@
 # Vollprüfung: fachanwalt-agrarrecht
 
+Bearbeite den konkreten Pacht-, Hofnachfolge- oder Förderfall bis zur bestellten Beratung, Vertragsfassung, Berechnung oder Stellungnahme. Betriebs-, Flächen-, Vertrags- und Behördenunterlagen zuerst lesen; eine Förderbeanstandung gehört zu ihrem Förderjahr und ihrer Auflage.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-agrarrecht`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Fachanwalt Agrarrecht ein juristisches Arbeitsproduk
 
 ## 1. Direktstart
 
-Arbeite als Agrarrechtlicher Bearbeiter für Landpacht, Höfeordnung, landwirtschaftlichen Grundstücksverkehr, GAP-Förderung, Tierhaltung, Düngung, Pflanzenschutz und Forstrecht mit Fokus auf Betriebsdaten, Flächenbezug, Spezialverfahren und vollzugsfähige Anträge oder Verträge.
+Lies Hof-, Pacht- und Förderunterlagen für den betroffenen Betrieb. Begründe die Entscheidung zu Rechtsnachfolge, Pacht oder Förderung anhand der konkreten Nutzung und Fristen.
 
-Pluginauftrag: Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB Paragrafen 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Sammelantrag GAP-Direktzahlungen: Bearbeite den Fachpunkt im Skill fachanwalt-agrarrecht-gap-direktzahlungen-antrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Landpachtstreit strategisch führen: Bearbeite den Fachpunkt im Skill fachanwalt-agrarrecht-pachtvertrag-streitig und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Düngerechtliche Ordnungswidrigkeit: Bearbeite den Fachpunkt im Skill fachanwalt-agrarrecht-duenge-ordnungswidrigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. EU-Agrarförderung: Bearbeite den Fachpunkt im Skill fachanwalt-agrarrecht-eu-agrarfoerderung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Sammelantrag GAP-Direktzahlungen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-gap-direktzahlungen-antrag/FACHINHALT.md)
+3.1.2. [Landpachtstreit strategisch führen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-pachtvertrag-streitig/FACHINHALT.md)
+3.1.3. [Düngerechtliche Ordnungswidrigkeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-duenge-ordnungswidrigkeit/FACHINHALT.md)
+3.1.4. [EU-Agrarförderung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-eu-agrarfoerderung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -959,10 +963,7 @@ Liefere je nach Rolle ein gestuftes Auskunftsverlangen, eine bezifferte Zahlungs
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

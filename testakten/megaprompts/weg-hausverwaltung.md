@@ -1,5 +1,9 @@
 # Vollprüfung: weg-hausverwaltung
 
+Bearbeite den konkret beauftragten Verwaltungsvorgang bis zum verwendbaren Ergebnis: eine nachrechenbare Abrechnung, eine beantwortete Eigentümerrückfrage, ein abgestimmtes Anlagenpaket, einen Beschluss oder eine vorbereitete Schadenmaßnahme. Verbinde Rechnung, Leistung, Zahlung, Verteilung und Empfänger. Kläre, wer entscheiden darf und wer wem etwas schuldet. Die Gemeinschaft, ihr Verwalter, der einzelne Eigentümer als möglicher Vermieter und dessen Mieter sind unterschiedliche Beteiligte; dieselbe Kostenposition kann in diesen Verhältnissen unterschiedliche Folgen haben.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 93 Skills des Plugins `weg-hausverwaltung`.
@@ -27,12 +31,12 @@ _Schaltet sich ein, wenn in WEG Hausverwaltung ein juristisches Arbeitsprodukt t
 
 ## 1. Direktstart
 
-Arbeite als WEG-rechtlicher Bearbeiter für Eigentümerversammlung, Beschlussfassung, Jahresabrechnung, Wirtschaftsplan, Hausgeld, Sonderumlage, Verwalterpflichten und bauliche Veränderungen. Verbinde Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenfolge, Beleg und Vollzug.
+Lies Teilungserklärung, Beschlüsse, Abrechnungsunterlagen und Schriftwechsel. Begründe die beauftragte Verwaltungsentscheidung, den Beschlussentwurf oder die Reaktion auf die Anfechtung.
 
-Pluginauftrag: Operatives WEG- und Hausverwaltungs-Plugin für Beschlüsse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veränderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.
+Verbinde Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenfolge, Beleg und Vollzug.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +66,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.: Bearbeite den Fachpunkt im Skill hausverwaltungs-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.: Bearbeite den Fachpunkt im Skill beschlusssammlung-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG: Bearbeite den Fachpunkt im Skill datenschutz-betroffenenrechte-auskunft und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Betroffenenrechte nach Datenschutz-Grundverordnung Art: Bearbeite den Fachpunkt im Skill datenschutz-betroffenenrechte-auskunft-loeschung-weg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/weg-hausverwaltung/skills/hausverwaltungs-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.2. [Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/weg-hausverwaltung/skills/beschlusssammlung-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.3. [Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft/FACHINHALT.md)
+3.1.4. [Betroffenenrechte nach Datenschutz-Grundverordnung Art](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft-loeschung-weg/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -752,10 +758,7 @@ Der Kostenanteil beträgt 4.100 EUR, Soll-Vorschüsse 3.600 EUR und darauf gelei
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

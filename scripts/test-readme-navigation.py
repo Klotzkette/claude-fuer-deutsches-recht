@@ -45,7 +45,7 @@ class ReadmeIntroductionTests(unittest.TestCase):
         for filename, heading in (
             ("QUICKSTART.md", "## 3. Ein einzelnes Plugin installieren"),
             ("INSTALLATION_EINFACH.md", "## 1. Einzelnes Plugin installieren"),
-            ("README.md", "**Schritt 2: Plugin-ZIP herunterladen**"),
+            ("README.md", "## Für Einsteiger: Schritt-für-Schritt-Anleitung"),
         ):
             with self.subTest(filename=filename):
                 text = (ROOT / filename).read_text(encoding="utf-8")
@@ -62,7 +62,7 @@ class ReadmeIntroductionTests(unittest.TestCase):
 
     def test_root_starts_with_purpose_instead_of_release_news(self):
         text = (ROOT / "README.md").read_text(encoding="utf-8")
-        intro = text.split('<a id="chatgpt-und-die-chatgpt-app"></a>', 1)[0]
+        intro = text.split("\n## ", 1)[0]
         first_paragraph = intro.split("\n\n")[1]
         self.assertIn("Rechtspraxis", first_paragraph)
         self.assertNotRegex(first_paragraph, r"\bv\d+\.\d+\.\d+\b")
@@ -71,15 +71,16 @@ class ReadmeIntroductionTests(unittest.TestCase):
 
     def test_root_intro_keeps_catalogs_and_history_accessible(self):
         text = (ROOT / "README.md").read_text(encoding="utf-8")
-        intro = text.split('<a id="chatgpt-und-die-chatgpt-app"></a>', 1)[0]
+        intro = text.split("\n## ", 1)[0]
         for target in (
             "#was-ist-drin", "./SKILLS.md", "./testakten/README.md",
             "./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts",
             "./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts",
-            "./ASSET_INDEX.md", "./INSTALLATION_EINFACH.md", "./CHANGELOG.md",
+            "./ASSET_INDEX.md", "./INSTALLATION_EINFACH.md",
         ):
             with self.subTest(target=target):
                 self.assertIn(f"]({target})", intro)
+        self.assertIn("](./CHANGELOG.md)", text)
 
 
 class CatalogVersionTests(unittest.TestCase):

@@ -7,9 +7,7 @@ description: "Arbeitsrechtliche Mandatsbearbeitung: Kündigungsgrund, Schutzvors
 
 ## 1. Zweck und Anwendungsfall
 
-Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Lies Kündigung oder Aufhebungsentwurf, Arbeitsvertrag und Zustellbelege. Erstelle daraus die beauftragte Kündigungsprüfung, Klagefassung oder Verhandlungsposition.
 
 ## 2. Eingaben
 
@@ -18,21 +16,25 @@ Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bere
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Frist und Zugang
 
-Kündigungsgrund, Schutzvorschriften, Form, Zugang und Trennungsalternativen bis zur Verhandlung prüfen.
+Ordne Kündigungsschreiben, Zustellbelege, Datum, Personalmaßnahmen und bekannte Schutzgründe. Bei streitigem Zugang rechne auf Basis der belegten Daten und kennzeichne frühest- und spätestplausibles Datum.
 
-### 3.2. Arbeitsschritt
+### 3.2. Form, Kündigungsgrund und besonderer Schutz
 
-Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.
+Prüfe Schriftform, Vertretung, tragenden Kündigungsgrund, den einschlägigen Schutz sowie Betriebsratsbeteiligung getrennt.
 
-### 3.3. Arbeitsschritt
+Bei einer vorbereiteten Betriebsratswahl sichere die Vorbereitungshandlung, die öffentlich beglaubigte Absichtserklärung sowie Kenntnis und Mitteilungen an den Arbeitgeber. Bei unbekanntem Schutz nach § 15 Abs. 3b KSchG kann eine verspätete Geltendmachung gegenüber dem Arbeitgeber zur Verwirkung führen. Die Regelspanne beträgt drei Wochen ab Kündigungszugang zuzüglich der zur Bewirkung des Mitteilungszugangs nötigen Zeit. Berechne die Klagefrist getrennt. [BAG, Urteil vom 30.07.2026, 2 AZR 70/25, Rn. 23–36 und 37–40](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/)
 
-Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.
+Bei Massenentlassung vergleiche Konsultation, eingereichte Anzeige, Eingang bei der Agentur für Arbeit und Kündigung. Halte konkrete Fehler und ihre mögliche Auswirkung auf die Aufgaben der Arbeitsverwaltung fest. Eine geringe Überangabe von 34 statt 31 Entlassungen beeinträchtigte diese Funktion im entschiedenen Fall nicht. [BAG, Urteil vom 25.06.2026, 6 AZR 7/26, Rn. 27–36](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/)
 
-### 3.4. Arbeitsschritt
+### 3.3. Entwurf oder Verhandlung fortführen
 
-Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern.
+Formuliere das beauftragte Schreiben, den Klageentwurf oder die Verhandlungsposition. Bei einem Aufhebungsvertrag prüfe Beendigungsdatum, Zeugnis, Ausgleich, offene Vergütung und sozialrechtliche Folgen anhand des konkreten Angebots. Halte Belege, Gegenposition und offene Punkte am betreffenden Ergebnis fest.
+
+### 3.4. Fehlende Belege gezielt klären
+
+Frage nur nach Angaben, die Frist, Rechtsposition oder Vertragsgestaltung beeinflussen. Arbeite die übrigen Teile weiter aus und aktualisiere denselben Entwurf nach der Antwort.
 
 ### 3.5. Fachvertiefungen gezielt laden
 

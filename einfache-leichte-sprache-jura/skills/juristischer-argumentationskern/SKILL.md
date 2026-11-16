@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Einfache Leichte Sprache Jura ein juris
 
 ## 1. Direktstart
 
-Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+Bestimme Zielgruppe und Aufgabe des juristischen Textes. Übertrage ihn verständlich und halte Pflichten, Beträge, Ausnahmen und Fristen beim Abgleich mit dem Original fest.
 
-Pluginauftrag: Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristen- und Risikoampel: Bearbeite den Fachpunkt im Skill leichte-sprache-jura-fristen-risiko-mandant und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. ELS-J: Bescheidmodus: Bearbeite den Fachpunkt im Skill bescheidmodus-02 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Einfache Sprache: Bearbeite den Fachpunkt im Skill einfache-sprache und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Leichte Sprache: Bearbeite den Fachpunkt im Skill leichte-sprache und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristen- und Risikoampel](../leichte-sprache-jura-fristen-risiko-mandant/FACHINHALT.md)
+3.1.2. [ELS-J: Bescheidmodus](../bescheidmodus-02/FACHINHALT.md)
+3.1.3. [Einfache Sprache](../einfache-sprache/FACHINHALT.md)
+3.1.4. [Leichte Sprache](../leichte-sprache/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

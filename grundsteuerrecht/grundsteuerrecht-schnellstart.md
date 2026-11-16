@@ -6,7 +6,7 @@ Bei Lageeinwänden: [BFH, Urteil vom 12.11.2025, II R 3/25](https://www.bundesfi
 
 ## 1.1. Aus Unterlagen sofort zum Ergebnis
 
-Ohne Eingabe: Bescheidzuordnung, Flächenkorrektur oder Zahlungsfrage anbieten. Dateien ohne Auftrag still lesen, zwei passende Wege nennen. Klaren Auftrag direkt bearbeiten. Neue Teilungserklärung: betroffenen Flächenansatz und Antrag ändern; Bekanntes nicht erfragen.
+Ohne Auftrag Bescheidzuordnung, Flächenkorrektur oder Zahlungsfrage anbieten. Vorhandene Dateien zuerst lesen. Bei Folgebelegen Flächenansatz und Antrag gezielt fortschreiben.
 
 Fristgefahr zuerst bearbeiten. Nur entscheidende Lücken erfragen; belastbare Teile liefern. Versand, Beauftragung und Zahlung brauchen Freigabe.
 
@@ -22,9 +22,9 @@ Historischen Aktenstand bestimmen: Spätere Gesetze und Rechtsprechung nicht zur
 
 Grundstückslage bestimmt das Modell. Bundesmodell von Baden-Württemberg, Bayern, Hamburg, Hessen und Niedersachsen trennen; Landesmesszahl und Hebesatzjahr prüfen. Berlin: Finanzamt auch für Jahressteuer, nicht Gemeinde/Widerspruch/Verwaltungsgericht.
 
-Gleiche Flurstück, Wohnung, Teilungserklärung samt Nachträgen, Miteigentumsbruch und Erklärung ab. Zurechnung 1/1 an einer Wohnung ist nicht der Bodenanteil. Gesamt-, anteilige Boden- und Wohnfläche trennen. Verwaltungs-CSV auf bloß abgeschriebene Bescheidwerte prüfen. Pflasterfugen oder Bandmaß beweisen keine Eigentumsgrenze. Fehlenden Kataster-, Teilungs- oder Flächennachweis gezielt anfordern.
+Gleiche Flurstück, Wohnung, Teilungserklärung samt Nachträgen, Miteigentumsbruch und Erklärung ab. Zurechnung 1/1 ist nicht der Bodenanteil. Gesamt-, anteilige Boden- und Wohnfläche trennen. CSV auf abgeschriebene Bescheidwerte prüfen. Pflasterfugen oder Bandmaß beweisen keine Grenze. Fehlenden Kataster-, Teilungs- oder Flächenbeleg gezielt anfordern.
 
-Für Wohngrundstücke im Ertragswertverfahren: Grundstücksart, Baujahr, Wohnflächenklasse, typisierte Miete und Mietniveaustufe prüfen; Jahresrohertrag minus gesetzliche Bewirtschaftungskosten, dann Reinertrag mal Vervielfältiger. Bodenwert und Abzinsung ergänzen, Mindestwert nach Paragraf 251 BewG prüfen, abschließend nach Paragraf 230 BewG auf volle hundert Euro abrunden. Paragrafen 250 und 252 bis 257 BewG sowie passende Anlagen belegen. Keine Ist-Miete ungeprüft anstelle des Tabellenansatzes.
+Ertragswertverfahren: Grundstücksart, Baujahr, Wohnflächenklasse, typisierte Miete und Mietniveaustufe prüfen. Jahresrohertrag minus Bewirtschaftungskosten ergibt Reinertrag. Diesen vervielfältigen, abgezinsten Bodenwert ergänzen, Mindestwert nach Paragraf 251 BewG prüfen und nach Paragraf 230 BewG auf volle hundert Euro abrunden. Paragrafen 250 und 252 bis 257 BewG und Anlagen belegen. Ist-Miete nicht ungeprüft in die Tabelle übernehmen.
 
 ## 1.4. Drei Beträge getrennt rechnen
 
@@ -51,7 +51,7 @@ Historisch: BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV), ließ substantiiert
 
 Baden-Württemberg: BFH, Urteil vom 22.04.2026, II R 26/24, gewährt wegen abweichender Grundstückstiefe keinen automatischen Abschlag. Gutachtenweg nach Paragraf 38 Absatz 4 LGrStG prüfen: mehr als 30 Prozent, nicht die Bundesmodellschwelle.
 
-Stand 22.09.2026: Laut BFH sind 1 BvR 472/26 und 1 BvR 551/26 anhängig, nicht entschieden. Vor Ruhensantrag Status und Rechtsfrage abgleichen; Flächenfehler weiterbearbeiten.
+Hessen II R 12/25 und Hamburg II R 15/25: Verkündung für 10.12.2026 angekündigt. 1 BvR 472/26 und 1 BvR 551/26 sind laut BFH anhängig. Vor Ruhensantrag Rechtsfrage und [Verfahrensstand](https://www.bundesfinanzhof.de/de/anhaengige-verfahren/im-fokus-grundsteuer/) abgleichen. Flächenfehler weiterbearbeiten.
 
 ## 1.7. Verwendbaren Entwurf liefern
 

@@ -1,5 +1,9 @@
 # Vollprüfung: erbbaurecht-praxis
 
+Kläre aus Erbbaurechtsvertrag und beiden Grundbüchern, welcher Zins durchsetzbar ist, welche Nutzung und Laufzeit gesichert sind und welche Zustimmung oder Rangänderung fehlt. Schreibe die beauftragte Berechnung, Vertragsfassung oder Antwort vollständig aus; die konkrete Zins-, Verkaufs-, Finanzierungs- oder Beendigungsfrage bestimmt den Umfang.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `erbbaurecht-praxis`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Erbbaurecht Praxis ein juristisches Arbeitsprodukt t
 
 ## 1. Direktstart
 
-Arbeite als Immobilienrechtlicher Bearbeiter für Grundstückskauf, Auflassung, Vormerkung, Grundschuld, Dienstbarkeit, Wohnungseigentum, Erbbaurecht, Beurkundung und Grundbuchvollzug mit Fokus auf Form, Bewilligung, Nachweis, Rang und versandreife Vollzugsunterlagen.
+Gleiche Erbbaurechtsvertrag, Grundbuch, Rang und Zustimmungserklärungen ab. Bereite den erforderlichen Entwurf oder Vollzugsvermerk mit den noch fehlenden Nachweisen vor.
 
-Pluginauftrag: Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristen und Reminder: Bearbeite den Fachpunkt im Skill erbbaurecht-fristen-und-reminder und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Zustimmungsantrag: Bearbeite den Fachpunkt im Skill erbbaurecht-vorlage-zustimmungsantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Erbbaurechtsvertrag entwerfen: Bearbeite den Fachpunkt im Skill erbbaurechtsvertrag-pflichtinhalt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Verkaufsklauseln: Bearbeite den Fachpunkt im Skill verkauf-spa-erbbaurechtsvertrag-pflichtinhalt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristen und Reminder](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/erbbaurecht-praxis/skills/erbbaurecht-fristen-und-reminder/FACHINHALT.md)
+3.1.2. [Zustimmungsantrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/erbbaurecht-praxis/skills/erbbaurecht-vorlage-zustimmungsantrag/FACHINHALT.md)
+3.1.3. [Erbbaurechtsvertrag entwerfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/erbbaurecht-praxis/skills/erbbaurechtsvertrag-pflichtinhalt/FACHINHALT.md)
+3.1.4. [Verkaufsklauseln](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/erbbaurecht-praxis/skills/verkauf-spa-erbbaurechtsvertrag-pflichtinhalt/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -913,10 +917,7 @@ ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbba
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

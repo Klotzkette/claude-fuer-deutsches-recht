@@ -24,13 +24,13 @@
       "name": "insolvenzanfechtung-tatbestandswerkstaetten.pdf",
       "source": "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.pdf",
       "evidence": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/umfang.json",
-      "sha256": "5dede18b4fcfd6bca50e43663beb09943a022a79e8ee89d554426ac5b2ec2143"
+      "sha256": "4a7b5376946ed544caac8d2d45276b31ca068efce663067979d85dfad9410e0f"
     },
     {
       "name": "insolvenzanfechtung-tatbestandswerkstaetten.zip",
       "source": "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.zip",
       "evidence": "quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/umfang.json",
-      "sha256": "5c36c5b81e80040a62a1f2844bbe3d2c8acba4f009e1947e1f153357d6d199b7"
+      "sha256": "1dcb376e308e595c8d4e239ed7b0c016c69c7881c640947999d4f379ef4a716f"
     }
   ]
 }

@@ -16,6 +16,8 @@ from urllib.parse import urlencode
 from urllib.request import urlopen
 from xml.etree import ElementTree as ET
 
+from prompt_profiles import enabled
+
 ROOT = Path(__file__).resolve().parents[1]
 FEDERAL = ('BVerfG', 'BVerwG', 'BGH', 'BAG', 'BFH', 'BSG', 'BPatG')
 EU = ('EuGH', 'EuG')
@@ -113,23 +115,44 @@ def include_eu(index, citations):
                 )
 
 
-def workshop_inventory():
+def workshop_inventory(*, include_workflows=False):
     """Findet versionierte Promptquellen auch in verschachtelten Plugins."""
     market = json.loads((ROOT / '.claude-plugin/marketplace.json').read_text(encoding='utf-8'))
     active = {Path(entry['source']): entry['name'] for entry in market['plugins']}
+    names = set(active.values())
     excluded = {'testakte', 'testakten', 'templates', 'beispiele', 'eval-fixtures'}
     tracked = subprocess.check_output(['git', 'ls-files', '-z', '--', '*.md'], cwd=ROOT)
     result = []
     for item in tracked.decode('utf-8').split('\0'):
         path = Path(item)
-        if (path.name != 'werkstatt.md' and not path.name.endswith('-werkstatt.md')
-                and not (path.parent.name == 'werkstattprompts' and path.name != 'README.md')):
+        workshop = (path.name == 'werkstatt.md' or path.name.endswith('-werkstatt.md')
+                    or (path.parent.name == 'werkstattprompts' and path.name != 'README.md'))
+        if include_workflows and path.parent == Path('testakten/megaprompts'):
+            if path.stem in names and enabled(path.stem, 'megaprompt'):
+                data = (ROOT / path).read_bytes()
+                result.append({'path': item, 'plugin': path.stem,
+                               'sha256': hashlib.sha256(data).hexdigest(), 'kind': 'Megaprompt'})
+            continue
+        if not workshop and not include_workflows:
             continue
         owner = next((parent for parent in path.parents if parent in active), None)
         if owner is None or excluded.intersection(path.relative_to(owner).parts[:-1]):
             continue
+        kind = 'Prompt'
+        if include_workflows and not workshop:
+            parts = path.relative_to(owner).parts
+            if len(parts) == 3 and parts[0] == 'skills' and path.name == 'SKILL.md':
+                kind = 'Skill'
+            elif (path.name not in ('schnellstart.md', 'hauptproblem.md')
+                  and not path.stem.endswith(('-schnellstart', '-hauptproblem'))
+                  and not (parts[0] in ('prompts', 'unified-mini-prompts') and path.name.lower() != 'readme.md')
+                  and not re.search(r'-(?:arbeits|kurz)prompt-', path.stem)):
+                continue
         data = (ROOT / path).read_bytes()
-        result.append({'path': item, 'plugin': active[owner], 'sha256': hashlib.sha256(data).hexdigest()})
+        row = {'path': item, 'plugin': active[owner], 'sha256': hashlib.sha256(data).hexdigest()}
+        if include_workflows:
+            row['kind'] = kind
+        result.append(row)
     return len(active), result
 
 
@@ -138,6 +161,7 @@ def main():
     mode = parser.add_mutually_exclusive_group(required=True)
     mode.add_argument('--inventory', type=Path, help='Bestandsinventar mit --include-files')
     mode.add_argument('--workshops', action='store_true', help='Nur eigenständige Werkstatt-Prompts aktiver Plugins')
+    mode.add_argument('--active-workflows', action='store_true', help='Aktive Prompts, Skills und Vollprüfungen abgleichen')
     parser.add_argument('--cutoff', type=date.fromisoformat, help='Entscheidungsstichtag (JJJJ-MM-TT)')
     parser.add_argument('--federal-index', type=Path, required=True, help='Amtliche rii-toc.xml')
     parser.add_argument('--eu', action='store_true', help='Zusätzlich das EU-Publikationsamt online abfragen')
@@ -145,8 +169,15 @@ def main():
     args = parser.parse_args()
 
     citations = defaultdict(set)
-    if args.workshops:
-        plugin_count, files = workshop_inventory()
+    if args.workshops or args.active_workflows:
+        plugin_count, files = workshop_inventory(include_workflows=args.active_workflows)
+        if args.active_workflows:
+            for slug in sorted({row['plugin'] for row in files}):
+                profile = f'quality/evals/{slug}.json'
+                editorial = json.loads((ROOT / profile).read_text(encoding='utf-8')).get('prompt_editorial_review', {})
+                for number, anchor in enumerate(editorial.get('decisions', []), 1):
+                    for key, _, raw in references([anchor['citation']]):
+                        citations[key].add((profile, number, raw))
     else:
         inventory = json.loads(args.inventory.read_text(encoding='utf-8'))
         plugin_count = inventory['plugin_count']
@@ -159,7 +190,7 @@ def main():
     for record in files:
         path = record['path']
         found = list(references((ROOT / path).read_text(encoding='utf-8').splitlines()))
-        if args.workshops:
+        if args.workshops or args.active_workflows:
             record['dated_citation_occurrences'] = len(found)
         for key, lineno, raw in found:
             citations[key].add((path, lineno, raw))
@@ -190,17 +221,20 @@ def main():
             ))
     report = dict(
         method='Heuristischer Metadatenabgleich. Kein Nachweis des Inhalts, der Vollständigkeit oder der Übertragbarkeit.',
-        plugins=plugin_count, files=len(files) if args.workshops else inventory['file_count'],
+        plugins=plugin_count, files=len(files) if args.workshops or args.active_workflows else inventory['file_count'],
         distinct=dict(totals), occurrences=sum(map(len, citations.values())), candidates=candidates,
     )
     if args.cutoff:
         report.update(cutoff=args.cutoff.isoformat(), after_cutoff=after_cutoff)
     if args.workshops:
         report.update(workshops=files, federal_index_sha256=hashlib.sha256(args.federal_index.read_bytes()).hexdigest())
+    if args.active_workflows:
+        report.update(workflows=files, file_types=dict(Counter(row['kind'] for row in files)),
+                      federal_index_sha256=hashlib.sha256(args.federal_index.read_bytes()).hexdigest())
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps({key: value for key, value in report.items()
-                      if key not in ('method', 'candidates', 'workshops', 'after_cutoff')}, ensure_ascii=False))
+                      if key not in ('method', 'candidates', 'workshops', 'workflows', 'after_cutoff')}, ensure_ascii=False))
 
 
 if __name__ == '__main__':

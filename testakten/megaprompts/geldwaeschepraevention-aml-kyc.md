@@ -1,5 +1,9 @@
 # Vollprüfung: geldwaeschepraevention-aml-kyc
 
+Wer muss identifiziert werden, welche Beratungsinformation bleibt geschützt und darf die konkrete Transaktion ausgeführt werden? Lies Mandatsauftrag, Eigentumskette und Zahlungsbelege und erstelle die bestellte Nachforderung, Kundenprüfung, Meldebegründung, Notarvorlage oder betriebliche Anweisung. Auffälligkeit, Meldeanlass und Vollzugshindernis sind verschiedene Feststellungen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 20 Skills des Plugins `geldwaeschepraevention-aml-kyc`.
@@ -937,10 +941,7 @@ Kunde selbst nicht gelistet, Gesellschafterstruktur aber unvollständig: keine E
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 8. Verständlich arbeiten und sichtbar prüfen

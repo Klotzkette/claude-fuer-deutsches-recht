@@ -1,6 +1,6 @@
 # 1. AGG-Fallkarten
 
-Geprüfter Quellenstand: 01.10.2026. Jede Karte benennt Anwendung und Grenze. Die Entscheidung ersetzt weder die Prüfung des konkreten Vorgangs noch die aktuelle Gesetzesfassung.
+Quellenstand 01.10.2026 mit gesonderten Nachprüfungen bei den Fallkarten. Vor Verwendung die geltende Rechtslage und Vergleichbarkeit prüfen.
 
 ## 1.1. Sprachkriterium in der Ausschreibung
 
@@ -34,9 +34,9 @@ BAG, Urteil vom 23.10.2025, 8 AZR 269/24: Wer aus Monatsvergütungen unterschied
 
 ## 1.6. Eigene Verantwortung des Wohnungsmaklers
 
-BGH, Urteil vom 29.01.2026, I ZR 129/25: Nach der amtlichen Pressemitteilung kann ein Wohnungsmakler für ethnische Benachteiligung bei der Auswahl von Mietinteressenten selbst nach Paragraf 21 Absatz 2 AGG haften. Vergleichbare Kontaktanfragen waren im konkreten Verfahren für den Indizienbeweis bedeutsam. Keine feste Entschädigungstabelle, kein allgemeiner Anspruch auf den Mietvertrag und keine Erlaubnis zu Identitätsmissbrauch. Quellenstatus hier: Pressemitteilung, keine weitergehenden Randnummern oder Aussagen zum Verschulden erfinden.
+BGH, Urteil vom 29.01.2026, I ZR 129/25, Rn. 26–28, 45–55: Der mit Besichtigungen oder der Interessentenauswahl betraute Makler ist selbst Adressat des Paragrafen 19 Absatz 2 AGG. Prüfe Auftrag, Auswahlentscheidung und Vergleichbarkeit der Kontaktanfragen. Schadensersatz und Entschädigung nach Paragraf 21 Absatz 2 Satz 1 und 3 AGG getrennt prüfen. Rn. 54 lässt das allgemeine Verschuldenserfordernis für Schadensersatz offen, weil Fahrlässigkeit im konkreten Fall angenommen war. Rn. 55 billigt einzelfallbezogen 3.000 Euro. Daraus folgt weder ein Tarif noch ein Mietvertrag.
 
-[Amtliche Pressemitteilung 025/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026025.html)
+[Amtlicher Volltext, geprüft am 16.11.2026](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE702012026.zip)
 
 ## 1.7. Kirchenaustritt und konkrete Loyalitätsanforderung
 
@@ -44,9 +44,11 @@ Gesondert geprüft am 16.10.2026: EuGH, Urteil der Großen Kammer vom 17.03.2026
 
 Arbeitsweg: Tätigkeit, geltende kirchliche Regelung, Vergleichspraxis und behauptete Loyalitätsverstöße belegen; konkrete wahrscheinliche erhebliche Gefährdung des Ethos prüfen. Paragraf 9 AGG unionsrechtlich einordnen und Kündigungsklagefrist getrennt sichern. Besondere verkündigungsnahe Aufgaben können anders liegen; kein allgemeines Verbot kirchlicher Anforderungen. Die Tatsachenwürdigung bleibt national, ein Geldanspruch ist nicht zugesprochen.
 
-[Amtlicher englischer Urteilstext](https://juris.curia.europa.eu/juris/document/document_print.jsf?cid=2478990&dir=&docid=309985&doclang=EN&mode=DOC&occ=first&pageIndex=0&part=1&text=). Entscheidungskopf, Sachverhalt, Gründe und Tenor gelesen. Deutsche Curia- und EUR-Lex-Volltextabrufe waren technisch nicht auswertbar; keine deutsche Volltextprüfung behaupten. Die Schlussanträge vom 10.07.2025 und die Pressemitteilung sind andere Dokumentarten. Der Prüfstand der bisherigen Karten bleibt unverändert.
+[Amtlicher englischer Urteilstext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A62024CJ0258). Entscheidungskopf, Sachverhalt, Gründe und Tenor geprüft.
 
-## 1.7. Normen und Fallgrenzen
+Verfahrensstand am 16.11.2026: Das BAG hat am 05.11.2026 in 2 AZR 196/22 die Revision gegen die Entscheidung zur Unwirksamkeit der Kündigungen zurückgewiesen. Nach der Pressemitteilung waren die Erklärungsfrist nach Paragraf 626 Absatz 2 BGB und die fehlende tätigkeitsspezifische Rechtfertigung der religiösen Benachteiligung nach Paragrafen 1, 3, 7 und 9 AGG jeweils zu prüfen. Für die genauen Entscheidungsgründe den Volltext nach Veröffentlichung lesen. [BAG-Pressemitteilung 38/26](https://www.bundesarbeitsgericht.de/presse/kuendigung-wegen-kirchenaustritts/).
+
+## 1.8. Normen und Fallgrenzen
 
 [AGG](https://www.gesetze-im-internet.de/agg/): Paragrafen 1 bis 5 für Schutzgrund, Bereich und Benachteiligungsform; Paragrafen 6 bis 18 für Beschäftigung; Paragrafen 19 bis 21 für Zivilverkehr; Paragraf 22 für den Indizienbeweis. Bei mehreren Gründen jeden gesondert prüfen. Paragraf 20 liefert keine allgemeine Rechtfertigung ethnischer Benachteiligung.
 

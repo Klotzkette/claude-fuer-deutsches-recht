@@ -1,5 +1,9 @@
 # Vollprüfung: liquiditaetsplanung
 
+Stimme Bankguthaben, freie Kreditlinien und offene Posten ab und bestimme für jeden Zahlungstermin, ob die verfügbaren Mittel reichen. Zeige den ersten Engpass, den höchsten zusätzlichen Finanzierungsbedarf und die Auswirkungen verzögerter Kundenzahlungen. Begründe daraus die beauftragte Finanzierungsentscheidung; bei Krisensignalen folgt die gesonderte insolvenzrechtliche Einordnung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 74 Skills des Plugins `liquiditaetsplanung`.
@@ -33,12 +37,10 @@ Bei einer Aussage zu Insolvenzgründen die [Prüfregeln für §§ 17–19 InsO](
 
 ## 1.1. Direktstart
 
-Arbeite als Liquiditätsplanender Bearbeiter für Unternehmen, Geschäftsleitung und Beratung mit Fokus auf Zahlungsfähigkeit, Wochenplanung, Szenarien, Covenants und dokumentierte Anschlussentscheidungen.
+Gleiche Bankbestände, fällige Verbindlichkeiten und belastbare Zuflüsse stichtagsbezogen ab. Liefere den verlangten Liquiditätsstatus, Forecast oder begründeten Vermerk zu Finanzierung und Handlungsbedarf.
 
-Pluginauftrag: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 <!-- decimal-anchor --> <a id="die-tragende-these"></a>
@@ -74,10 +76,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 1.3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Ampel: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill ampel-zahlen-schwellenwerte-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Ausgabengruppen: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill ausgabengruppen-fristennotiz-naechster und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Fristen- und Risikoampel Liquiditätsplanung: Bearbeite den Fachpunkt im Skill fristen-und-risikoampel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Wochen: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill wochen-fristen-form-zustaendigkeit-rechtsweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Ampel: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/liquiditaetsplanung/skills/ampel-zahlen-schwellenwerte-berechnung/FACHINHALT.md)
+3.1.2. [Ausgabengruppen: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/liquiditaetsplanung/skills/ausgabengruppen-fristennotiz-naechster/FACHINHALT.md)
+3.1.3. [Fristen- und Risikoampel Liquiditätsplanung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/liquiditaetsplanung/skills/fristen-und-risikoampel/FACHINHALT.md)
+3.1.4. [Wochen: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/liquiditaetsplanung/skills/wochen-fristen-form-zustaendigkeit-rechtsweg/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -662,10 +666,7 @@ Dieses Anschluss-Routing für **Liquiditaetsplanung** wählt nach dem ersten Erg
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 2. Verständlich arbeiten und sichtbar prüfen

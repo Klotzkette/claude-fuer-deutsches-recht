@@ -1,5 +1,9 @@
 # Vollprüfung: jveg-kostenpruefer
 
+Gleiche abgerechnete Tätigkeiten, Reisezeiten und Auslagen mit der gerichtlichen Heranziehung und den Belegen ab. Ermittle den nach der maßgeblichen JVEG-Fassung verbleibenden Vergütungs- oder Entschädigungsbetrag und begründe die streitigen Kürzungen in der bestellten Abrechnung, Stellungnahme oder dem gerichtlichen Antrag.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `jveg-kostenpruefer`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in JVEG Kostenprüfer ein juristisches Arbeitsprodukt t
 
 ## 1. Direktstart
 
-Arbeite als Kostenrechtlicher Bearbeiter für Sachverständige, Dolmetscher, Übersetzer, Zeugen und ehrenamtliche Richter mit Fokus auf Heranziehung, Ausschlussfrist, Zeitansatz, Honorargruppe, Aufwendungen, Vorschuss, Kürzung und Rechtsbehelf.
+Gleiche Ladung, Belege, Reiseweg und Zeitaufwand ab. Berechne die beantragte Entschädigung oder Vergütung und begründe, welche Positionen angesetzt werden können.
 
-Pluginauftrag: Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. JVEG-Anspruchsberechtigung: Bearbeite den Fachpunkt im Skill anspruchsberechtigung-antragsgenerator und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Kostenprüfer: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill kostenpruefer-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. JVEG-Antragsgenerator: Bearbeite den Fachpunkt im Skill antragsgenerator und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Beschwerde: Internationaler Bezug und Schnittstellen: Bearbeite den Fachpunkt im Skill beschwerde-dolmetscher-sonderfall und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [JVEG-Anspruchsberechtigung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jveg-kostenpruefer/skills/anspruchsberechtigung-antragsgenerator/FACHINHALT.md)
+3.1.2. [Kostenprüfer: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jveg-kostenpruefer/skills/kostenpruefer-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.3. [JVEG-Antragsgenerator](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jveg-kostenpruefer/skills/antragsgenerator/FACHINHALT.md)
+3.1.4. [Beschwerde: Internationaler Bezug und Schnittstellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jveg-kostenpruefer/skills/beschwerde-dolmetscher-sonderfall/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -991,10 +995,7 @@ Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **jveg-kostenprue
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

@@ -10,12 +10,12 @@
       "section": 130,
       "title": "Werkstattprompt: Kongruente Deckung nach § 130 InsO",
       "source": "insolvenzanfechtung/werkstattprompts/130-kongruente-deckung.md",
-      "source_sha256": "4bc539e67f82ef8c7f552935232ddff83eb23f838ab937c092d7ef8a5cffa043",
-      "words": 6220,
-      "utf8_bytes": 53079,
-      "pages": 17,
+      "source_sha256": "883903feaa444266bab54210799f7cc62f4d6e84fdcf4d397b31723e70c35820",
+      "words": 6364,
+      "utf8_bytes": 54326,
+      "pages": 18,
       "pdf": "130-kongruente-deckung.pdf",
-      "pdf_sha256": "6471b634b034b726da8d37a85d549aacb5a0a3f108b717ad84f093e8a11196f9",
+      "pdf_sha256": "c1b456a399072efd81b4fb15c6d16bcb97cbe33433acdbe9515e7bb5c6aeb575",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -128,6 +128,6 @@
     }
   ],
   "module_count": 10,
-  "pages": 179,
-  "handbook_sha256": "5dede18b4fcfd6bca50e43663beb09943a022a79e8ee89d554426ac5b2ec2143"
+  "pages": 180,
+  "handbook_sha256": "4a7b5376946ed544caac8d2d45276b31ca068efce663067979d85dfad9410e0f"
 }

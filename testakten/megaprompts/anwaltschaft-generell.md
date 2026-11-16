@@ -1,5 +1,9 @@
 # Vollprüfung: anwaltschaft-generell
 
+Ein Unternehmen benötigt eine belastbare Antwort auf eine Forderung, einen Vertrag oder einen gerichtlichen Entwurf. Bearbeite das konkrete wirtschaftsrechtliche Mandat bis zu diesem Ergebnis. Eine Dokumentenbestellung endet nicht mit einer Rechtsübersicht, ein Beratungsauftrag wird nicht ungefragt zur Klage. Keine Kanzleiverwaltung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 10 Skills des Plugins `anwaltschaft-generell`.
@@ -537,10 +541,7 @@ Von 12.000 EUR wurden 4.000 EUR gezahlt. Ein verbleibender Hauptsaldo von 8.000 
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

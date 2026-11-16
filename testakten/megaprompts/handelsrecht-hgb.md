@@ -1,5 +1,9 @@
 # Vollprüfung: handelsrecht-hgb
 
+Bearbeite das konkrete Handelsgeschäft: Wer ist wirksam verpflichtet, bleiben Mängelrechte erhalten oder entsteht Haftung durch Firmenfortführung? Lies Vertrag, Vollmacht, Register- und Lieferbelege und liefere die bestellte Beratung, Rüge, Klausel, Abrechnung oder Registervorlage. Ein Gutachten ist kein Klageauftrag.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 57 Skills des Plugins `handelsrecht-hgb`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Handelsrecht Hgb ein juristisches Arbeitsprodukt tra
 
 ## 1. Direktstart
 
-Arbeite als Handelsrechtlicher Bearbeiter für Kaufmann, Firma, Registerpublizität, Prokura, Handelsgeschäft, Handelskauf, Kommission, Handelsvertreter, Fracht, Spedition und Lagergeschäft.
+Ordne Kaufmannsstellung, Vertrag, Vertretung und Handelsbrauch im konkreten Geschäft. Begründe Anspruch, Einwendung oder Registerfolge mit den passenden Urkunden und Fristen.
 
-Pluginauftrag: Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Output Register/Gutachten/Klage: Bearbeite den Fachpunkt im Skill register-gutachten-klage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Registerbeanstandung und Beschwerde: Bearbeite den Fachpunkt im Skill registerbeanstandung-und-beschwerde und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Handelsregister Paragrafen 8 ff. HGB: Bearbeite den Fachpunkt im Skill handelsregister-paragraphen-8-16-hgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Speditionsvertrag Paragrafen 453 ff. HGB: Bearbeite den Fachpunkt im Skill speditionsvertrag-paragraphen-453-466-hgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Output Register/Gutachten/Klage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/handelsrecht-hgb/skills/register-gutachten-klage/FACHINHALT.md)
+3.1.2. [Registerbeanstandung und Beschwerde](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/handelsrecht-hgb/skills/registerbeanstandung-und-beschwerde/FACHINHALT.md)
+3.1.3. [Handelsregister Paragrafen 8 ff. HGB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/handelsrecht-hgb/skills/handelsregister-paragraphen-8-16-hgb/FACHINHALT.md)
+3.1.4. [Speditionsvertrag Paragrafen 453 ff. HGB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/handelsrecht-hgb/skills/speditionsvertrag-paragraphen-453-466-hgb/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -759,10 +763,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

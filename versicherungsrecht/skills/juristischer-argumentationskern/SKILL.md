@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Versicherungsrecht ein juristisches Arb
 
 ## 1. Direktstart
 
-Arbeite als Versicherungsrechtlicher Bearbeiter für Deckungsprüfung, Leistungsfall, Obliegenheiten, Rücktritt, Anfechtung, Beratungspflichten und Aufsichtsbezug.
+Ordne Versicherungsvertrag, Leistungsfall, Bedingungen und dokumentierte Kommunikation. Begründe die Deckungsentscheidung, Einwendung oder das benötigte Schreiben mit den konkreten Belegen.
 
-Pluginauftrag: Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- und Haftpflichtdeckung.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Fristenkalender für Versicherungsfälle: Bearbeite den Fachpunkt im Skill vers-fristen-verjaehrung-klagefrist-fallkalender und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. D&O: Claims-made, Innenhaftung und Organstreit: Bearbeite den Fachpunkt im Skill d-o-claims-made-innenhaftung-43-gmbhg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Direktanspruch in Pflichtversicherung Paragraf 115 VVG: Bearbeite den Fachpunkt im Skill direktanspruch-pflichtversicherung-eiopa und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Rechtsschutz: Vorvertraglichkeit und Schadenereignis: Bearbeite den Fachpunkt im Skill rechtsschutz-vorvertraglichkeit-schadenereignis und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Fristenkalender für Versicherungsfälle](../vers-fristen-verjaehrung-klagefrist-fallkalender/FACHINHALT.md)
+3.1.2. [D&O: Claims-made, Innenhaftung und Organstreit](../d-o-claims-made-innenhaftung-43-gmbhg/FACHINHALT.md)
+3.1.3. [Direktanspruch in Pflichtversicherung Paragraf 115 VVG](../direktanspruch-pflichtversicherung-eiopa/FACHINHALT.md)
+3.1.4. [Rechtsschutz: Vorvertraglichkeit und Schadenereignis](../rechtsschutz-vorvertraglichkeit-schadenereignis/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

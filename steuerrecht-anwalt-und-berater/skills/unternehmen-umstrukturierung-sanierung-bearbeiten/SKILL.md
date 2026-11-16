@@ -7,32 +7,29 @@ description: "Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sani
 
 ## 1. Zweck und Anwendungsfall
 
-Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sanierung und steuerliche Krisenpflichten gemeinsam prüfen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Liefere für eine Umstrukturierung, einen Gewinnabführungsvertrag oder einen Sanierungsfall den bestellten Steuervermerk, die Berechnung oder die begründete Empfehlung. Wo ein Bescheid vorliegt, zeige, welche Feststellung sich konkret ändern soll.
 
 ## 2. Eingaben
 
-- Auftrag, Beteiligte, Zeitraum und gewünschtes Arbeitsergebnis aus den vorhandenen Unterlagen feststellen.
-- Die für Unternehmen, Umstrukturierung und Sanierung maßgeblichen Dokumente, Fassungen, Belege und Fristen prüfen.
+- Lies Vertrag oder Umwandlungsbeschluss, Registerstand, Beteiligungskette, Abschluss, Steuerbilanz sowie den betroffenen Bescheid. Für eine Krisenprüfung sind zusätzlich belastbare Liquiditäts- und Fälligkeitsdaten nötig. Kläre die Zielstruktur und den maßgeblichen Stichtag, falls sie für die Berechnung offen sind.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Geschäftsvorgang und Zeitraum zuordnen
 
-Gesellschaftsbezogene Ertragsteuern, Organschaft, Umwandlung, Sanierung und steuerliche Krisenpflichten gemeinsam prüfen.
+Bestimme Ausgangs- und Zielgesellschaft, Beteiligte, Umwandlungstyp, Wirksamkeitszeitpunkt und steuerlichen Übertragungsstichtag. Verschmelzung, Formwechsel, Einbringung und Anwachsung führen zu unterschiedlichen Prüfungen. Leite aus einem Vertragsentwurf keine vollzogene Maßnahme ab.
 
-### 3.2. Arbeitsschritt
+### 3.2. Rechtsfolge je betroffener Einheit berechnen
 
-Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.
+Führe Anschaffungswerte, Rücklagen, stille Reserven oder Zinsen je Gesellschaft und Zeitraum zu den Originalbelegen zurück. Prüfe Buchwertantrag und Sperrfristen, sofern der Umwandlungstatbestand sie vorsieht. Beim Formwechsel einer Kapitalgesellschaft in eine Personengesellschaft gehört das übernommene positive steuerbilanzielle Eigenkapital in die Überentnahmerechnung nach Paragraf 4 Absatz 4a EStG. Prüfe dies auch für eine Unterpersonengesellschaft ohne unmittelbar kapitalmäßig beteiligte natürliche Person. [BFH, Urteil vom 02.09.2026, IV R 10/24, Rn. 38–50](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610208/).
 
-### 3.3. Arbeitsschritt
+### 3.3. Abweichung und Folgen begründen
 
-Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.
+Zeige den Vergleich der Ausgangs- und Zielwerte und bezeichne die Zahlen, für die noch Nachweise fehlen. Erkläre Gegenposition und Auswirkungen auf Feststellung, Steuer oder nächsten Umsetzungsschritt. Bei getrennten Bescheidstufen den Sachpunkt der richtigen Stufe zuordnen.
 
-### 3.4. Arbeitsschritt
+### 3.4. Nach neuen Belegen fortschreiben
 
-Das verlangte Dokument oder die Berechnung ausarbeiten; nur entscheidende fehlende Angaben nachfordern.
+Ordne einen nachgereichten Vertrag, eine Bilanz oder eine Gesellschafterliste dem betroffenen Stichtag zu. Ändere daraufhin die betroffenen Rechenzeilen, die Begründung und das Begehren. Dringliche Fristen oder Krisenpflichten parallel anhand der passenden Vertiefung sichern.
 
 ### 3.5. Fachvertiefungen gezielt laden
 
@@ -51,7 +48,7 @@ Wähle anhand des Auftrags nur die einschlägigen Vertiefungen. Lies deren volls
 - [Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung](../rechtsabteilung-vga-geschaeftsfuehrer/FACHINHALT.md)
 - [Sanierungsgewinn — frühzeitige Mandantenwarnung](../stb-sanierungsgewinn-stehengelassene/FACHINHALT.md)
 - [Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)](../ueberschuldungspruefung-19-inso/FACHINHALT.md)
-- [Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel nach UmwStG](../umwandlung-formwechsel-umwstg/FACHINHALT.md)
+- [Umwandlungssteuerrecht nach dem UmwStG](../umwandlung-formwechsel-umwstg/FACHINHALT.md)
 - [Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Prüfraster](../vga-pruefraster/FACHINHALT.md)
 - [1. Warnschreiben bei Krisensignalen](../warnschreiben-krisensignale/FACHINHALT.md)
 

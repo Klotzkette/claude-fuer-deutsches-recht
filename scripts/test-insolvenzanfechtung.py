@@ -145,7 +145,8 @@ class AnfechtungTest(unittest.TestCase):
             self.assertIn('Trägt nicht', source.read_text())
         profile = json.loads((ROOT/'quality/evals'/f'{NAME}.json').read_text())
         validate_profile(profile, NAME, ROOT/NAME)
-        self.assertEqual(len(profile['sources']), 14)
+        self.assertEqual(len(profile['sources']), 15)
+        self.assertTrue(any('KORE313232026' in source['url'] for source in profile['sources']))
         self.assertEqual(len(profile['cases']), 5)
 
     def test_section_135_and_assignment_anchors_are_present(self):

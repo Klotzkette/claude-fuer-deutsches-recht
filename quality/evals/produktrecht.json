@@ -35,25 +35,32 @@
       "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
       "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 79–89, 195–201, 219–225, 240–245, 300–307 und Tenor",
       "sha256": "da648c64034e32dd8f68973bdf03888d3e82b6f5a5b44de673feffeef0f0fa7d"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=316758&doclang=EN",
+      "checked_on": "2026-11-16",
+      "supports": "EuGH, Urteil vom 05.11.2026, C-395/25, Orkla Care, ECLI:EU:C:2026:945, Rn. 44–56, 64–71, 85–99 und 109–112 Gefahrstoffverpackung im konkreten Zielmarkt nach Fotos vor und nach Öffnung, vertrauter Lebensmittelaufmachung und Wirkung auf Kinder und schutzbedürftige Personen prüfen. Art. 35 Abs. 2 CLP. Die Vorabentscheidung entscheidet nicht über eine bestimmte Verpackungsfreigabe, GPSR-Meldung, Rückrufpflicht oder Haftung.",
+      "verification_status": "Amtlicher englischer Volltext und Tenor geprüft."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Markteinführung, Sicherheitsvorfall und Haftung als kurze Startauswahl; neue Charge, Rückläufer und Updatefassung ändern gezielt den bestehenden Rückruf- und Maßnahmenentwurf. Vorhandene rechtliche Grenzen erhalten. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Markteinführung, Sicherheitsvorfall und Haftung als kurze Startauswahl; neue Charge, Rückläufer und Updatefassung ändern gezielt den bestehenden Rückruf- und Maßnahmenentwurf. Vorhandene rechtliche Grenzen erhalten. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. Die bezeichnete Quellen- und Workflowpassage wurde am 16.11.2026 gezielt nachgeprüft.",
     "changes": [
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
       "2026-09-23: Stilles Lesen bei Dateien ohne Auftrag und unmittelbare Bearbeitung bei klarer Aufgabe; konkrete Fortschreibung von Chargenumfang, Außenbestand und Abhilfenachweis ergänzt.",
-      "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "Gefahrstoffverpackung im konkreten Zielmarkt nach Fotos vor und nach Öffnung, vertrauter Lebensmittelaufmachung und Wirkung auf Kinder und schutzbedürftige Personen prüfen."
     ],
-    "sha256": "e76fcd215bb253ecc93ec83d45f193f9646304e921735e49ee1a637a06bb788b",
+    "sha256": "b05e95564f33d4362b902a276e7d23e46ce2b85dc7d3ac47f79029e2ad231326",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026.",
+    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Die Quellenprüfung vom 16.11.2026 ergänzt die konkret dokumentierte Änderung zum Entscheidungsstichtag 31.10.2026. Die bezeichnete Quellen- und Workflowpassage wurde am 16.11.2026 gezielt nachgeprüft.",
     "changes": [
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
@@ -61,9 +68,10 @@
       "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden.",
       "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
       "14.11.2026: gezielte amtliche Volltextprüfung und fachliche Gegenlese ausschließlich der ergänzten Entscheidungsfälle; keine erneute Gesamtprüfung der Altquellen oder Live-Modellprüfung. Anker: kerry.",
-      "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen."
+      "Entscheidung über Raucharoma vom November bei Oktoberprüfung aus der damaligen Entscheidungsgrundlage ausnehmen.",
+      "Gefahrstoffverpackung im konkreten Zielmarkt nach Fotos vor und nach Öffnung, vertrauter Lebensmittelaufmachung und Wirkung auf Kinder und schutzbedürftige Personen prüfen."
     ],
-    "sha256": "fac8ddae499432d198956266b46c9cda3ae5c267bbea952e12c87047c06f79ba",
+    "sha256": "b8dc4a784d266128554636ce73c1ffcc355d8e869502db5d23d084cc9884fa9a",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -147,6 +155,14 @@
         "application": "Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist.",
         "limit": "Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.",
         "checked_on": "2026-11-14"
+      },
+      {
+        "citation": "EuGH, Urteil vom 05.11.2026, C-395/25, Orkla Care, ECLI:EU:C:2026:945, Rn. 44–56, 64–71, 85–99 und 109–112",
+        "application": "Gefahrstoffverpackung im konkreten Zielmarkt nach Fotos vor und nach Öffnung, vertrauter Lebensmittelaufmachung und Wirkung auf Kinder und schutzbedürftige Personen prüfen.",
+        "limit": "Art. 35 Abs. 2 CLP. Die Vorabentscheidung entscheidet nicht über eine bestimmte Verpackungsfreigabe, GPSR-Meldung, Rückrufpflicht oder Haftung.",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=316758&doclang=EN",
+        "checked_on": "2026-11-16",
+        "verification_status": "Amtlicher englischer Volltext und Tenor geprüft."
       }
     ],
     "remaining_limits": [

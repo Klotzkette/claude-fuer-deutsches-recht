@@ -8,6 +8,7 @@ import re
 from pathlib import Path
 
 from prompt_profiles import enabled
+from werkstatt_visualisierung import load_profiles as load_workflow_profiles
 
 from testakte_zip_common import working_dump_flat_pairs
 
@@ -132,6 +133,21 @@ def check_sorted_inventories(marketplace: dict) -> list[str]:
     skills_index = (REPO / "skills-index" / "README.md").read_text(encoding="utf-8")
     detail_names = re.findall(r"^- \[([^]]+)\]\(\./[^)]+\.md\) \(\d+ Skills\)$", skills_index, re.MULTILINE)
     errors += sequence_error("skills-index/README.md", detail_names, expected_names)
+    workflow_profiles = load_workflow_profiles()
+    entry_links = re.findall(
+        rf"^\| \[([a-z0-9-]+)\]\(\./\1\.md\) \| \[`([a-z0-9-]+)` herunterladen\]"
+        rf"\({re.escape(DOWNLOAD_BASE)}([^)]*)\) \|$",
+        skills_index, re.MULTILINE,
+    )
+    expected_entry_links = []
+    for plugin in plugins:
+        skill = workflow_profiles[plugin["name"]]["entry_skills"][0]
+        path = plugin_source(plugin) / "skills" / skill / "SKILL.md"
+        expected_entry_links.append((plugin["name"], skill, path.relative_to(REPO).as_posix()))
+        if not path.is_file():
+            errors.append(f"{plugin['name']}: Hauptskill fehlt ({skill})")
+    if entry_links != expected_entry_links:
+        errors.append("skills-index/README.md: Hauptskills, Pfade oder Reihenfolge sind veraltet")
 
     asset_index = (REPO / "ASSET_INDEX.md").read_text(encoding="utf-8")
     asset_names = re.findall(r"^\| \[`([^`]+)`\]\([^)]+/README\.md\) \|", asset_index, re.MULTILINE)

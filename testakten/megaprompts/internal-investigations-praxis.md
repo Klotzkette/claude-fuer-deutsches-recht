@@ -1,5 +1,9 @@
 # Vollprüfung: internal-investigations-praxis
 
+Tragen Rechnungen, Zahlungen oder Nachrichten den gemeldeten Pflichtverstoß, oder erklären Gegenbelege den Vorgang anders? Beginne mit vorhandenen Geschäftsunterlagen und liefere den bestellten Untersuchungsplan, Interviewleitfaden, Ergebnisbericht oder Behördenbrief. Zusätzliche Daten und Interviews nur für tatsächlich offene Fragen einplanen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 110 Skills (gekürzt für das Arbeitsfenster) des Plugins `internal-investigations-praxis`.
@@ -25,12 +29,12 @@ _Schaltet sich ein, wenn in Internal Investigations Praxis ein juristisches Arbe
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Kläre den Untersuchungsauftrag anhand des konkreten Hinweises und der vorhandenen Beweise. Begründe Reihenfolge, Beweissicherung und Schutz der Beteiligten und liefere den angeforderten Zwischenbericht.
 
-Pluginauftrag: Internal-Investigations-Praxisplugin für Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Untersuchungsauftrag und Scope: Bearbeite den Fachpunkt im Skill inv-001-auftrag-scope und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Honeypot-Risiko Staatsanwaltschaft: Bearbeite den Fachpunkt im Skill inv-002-honeypot-risiko und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Legal Hold und Beweissicherung: Bearbeite den Fachpunkt im Skill inv-003-legal-hold und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Mitarbeiterinterviews: Bearbeite den Fachpunkt im Skill inv-004-mitarbeiterinterview und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Untersuchungsauftrag und Scope](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/internal-investigations-praxis/skills/inv-001-auftrag-scope/FACHINHALT.md)
+3.1.2. [Honeypot-Risiko Staatsanwaltschaft](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/internal-investigations-praxis/skills/inv-002-honeypot-risiko/FACHINHALT.md)
+3.1.3. [Legal Hold und Beweissicherung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/internal-investigations-praxis/skills/inv-003-legal-hold/FACHINHALT.md)
+3.1.4. [Mitarbeiterinterviews](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/internal-investigations-praxis/skills/inv-004-mitarbeiterinterview/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -623,10 +629,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

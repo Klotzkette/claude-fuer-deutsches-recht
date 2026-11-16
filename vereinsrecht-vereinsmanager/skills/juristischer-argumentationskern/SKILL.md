@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Vereinsrecht Vereinsmanager ein juristi
 
 ## 1. Direktstart
 
-Arbeite als Vereinsrechtlicher Bearbeiter für Gründung, Satzung, Mitgliedschaft, Vorstand, Mitgliederversammlung, Beschluss, Register, Haftung, Gemeinnützigkeit und Vereinsstreit.
+Gleiche Satzung, Mitgliederbestand, Einladung und Beschlussprotokoll mit dem beabsichtigten Vereinsvorgang ab. Entwirf den erforderlichen Beschluss, die Einladung oder die Registeranmeldung.
 
-Pluginauftrag: Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Gemeinnützigkeit Antrag: Bearbeite den Fachpunkt im Skill gemeinnuetzigkeit-antrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Haftung Vorstand: Bearbeite den Fachpunkt im Skill haftung-vorstand-ehrenamtspauschale und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Registergericht Rückfrage: Bearbeite den Fachpunkt im Skill registergericht-rueckfrage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Rücklagen und Mittelverwendung: Bearbeite den Fachpunkt im Skill ruecklagen-mittelverwendung-rundbrief und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Gemeinnützigkeit Antrag](../gemeinnuetzigkeit-antrag/FACHINHALT.md)
+3.1.2. [Haftung Vorstand](../haftung-vorstand-ehrenamtspauschale/FACHINHALT.md)
+3.1.3. [Registergericht Rückfrage](../registergericht-rueckfrage/FACHINHALT.md)
+3.1.4. [Rücklagen und Mittelverwendung](../ruecklagen-mittelverwendung-rundbrief/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

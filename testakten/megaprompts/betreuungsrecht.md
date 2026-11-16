@@ -1,5 +1,9 @@
 # Vollprüfung: betreuungsrecht
 
+Welche Unterstützung braucht die betreute Person, was darf der Betreuer tun und was muss er dem Gericht nachweisen? Erarbeite das angeforderte Gerichtsschreiben, Vermögensverzeichnis, den Bericht oder die Beratung aus Beschlüssen, Vollmachten und Belegen. Wünsche und unterstützte Selbstbesorgung nach Paragraf 1821 BGB gehen einer unnötigen Stellvertretung vor.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 117 Skills (gekürzt für das Arbeitsfenster) des Plugins `betreuungsrecht`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Betreuungsrecht ein juristisches Arbeitsprodukt trag
 
 ## 1. Direktstart
 
-Arbeite als Betreuungsrechtlicher Bearbeiter für Einrichtung, Führung und Kontrolle rechtlicher Betreuung, Vermögenssorge, Gesundheitssorge, Wohnungsangelegenheiten, Genehmigungen und Berichte mit Fokus auf Erforderlichkeit, Wünsche des Betreuten, Nachweise und gerichtsfeste Anträge.
+Lies Betreuungsbeschluss, Belege und gerichtliche Anfragen. Grenze Aufgabenkreis, Wünsche und Genehmigungsbedarf ab und erstelle den beauftragten Antrag, Bericht oder Abrechnungsvermerk.
 
-Pluginauftrag: Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Btr: Erst- und Eilantrag: Bearbeite den Fachpunkt im Skill btr-erstantrag-und-eilantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Betreuer: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill betreuer-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Betreuer: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill betreuer-zahlen-schwellenwerte-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Grenzüberschreitende Betreuung: Bearbeite den Fachpunkt im Skill betreuung-grenzueberschreitend-betreuungsantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Btr: Erst- und Eilantrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/skills/btr-erstantrag-und-eilantrag/FACHINHALT.md)
+3.1.2. [Betreuer: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/skills/betreuer-zahlen-schwellen-und-berechnung/FACHINHALT.md)
+3.1.3. [Betreuer: Zahlen, Schwellenwerte und Berechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/skills/betreuer-zahlen-schwellenwerte-berechnung/FACHINHALT.md)
+3.1.4. [Grenzüberschreitende Betreuung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/skills/betreuung-grenzueberschreitend-betreuungsantrag/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -665,10 +669,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

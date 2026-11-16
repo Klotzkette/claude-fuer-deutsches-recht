@@ -1,5 +1,9 @@
 # Vollprüfung: apothekenrecht
 
+War die beanstandete Arzneimittelabgabe zulässig, trägt der Vergütungsabzug oder muss der Betrieb einen Aufsichtsmangel beheben? Gleiche Verordnung, tatsächliche Abgabe, Betriebsnachweise und Beanstandung ab. Verfasse die beauftragte Retaxationserwiderung, Aufsichtsantwort, Vertragsprüfung oder Betriebsanweisung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `apothekenrecht`.
@@ -27,12 +31,10 @@ _Schaltet sich ein, wenn in Apothekenrecht ein juristisches Arbeitsprodukt tragf
 
 ## 1. Direktstart
 
-Arbeite als Medizinrechtlicher Bearbeiter für Behandlungsfehler, Aufklärung, Patientenrechte, Krankenhaus, Vertragsarzt, Apotheke, Abrechnung und Gesundheitsleistungen mit Fokus auf Dokumentation, Gutachten, Beweislast und Sozialrechtsschnittstellen.
+Gleiche Betriebserlaubnis, tatsächlichen Betrieb und behördlichen Befund ab. Begründe die erforderliche Reaktion, etwa eine Stellungnahme zur Aufsicht oder einen Vermerk zu Versand, Rezept oder Abrechnung.
 
-Pluginauftrag: Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -62,10 +64,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Beschwerdemanagement Patient Kunden: Bearbeite den Fachpunkt im Skill beschwerdemanagement-patient-blutprodukte und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Blutprodukte Hämophilie Registerpflicht: Bearbeite den Fachpunkt im Skill blutprodukte-haemophilie-registerpflicht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Heimversorgung Versorgungsvertrag: Bearbeite den Fachpunkt im Skill heimversorgung-versorgungsvertrag-mietvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Mietvertrag Apothekenstandort Konkurrenzschutz: Bearbeite den Fachpunkt im Skill mietvertrag-apothekenstandort-konkurrenzschutz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Beschwerdemanagement Patient Kunden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/apothekenrecht/skills/beschwerdemanagement-patient-blutprodukte/FACHINHALT.md)
+3.1.2. [Blutprodukte Hämophilie Registerpflicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/apothekenrecht/skills/blutprodukte-haemophilie-registerpflicht/FACHINHALT.md)
+3.1.3. [Heimversorgung Versorgungsvertrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/apothekenrecht/skills/heimversorgung-versorgungsvertrag-mietvertrag/FACHINHALT.md)
+3.1.4. [Mietvertrag Apothekenstandort Konkurrenzschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/apothekenrecht/skills/mietvertrag-apothekenstandort-konkurrenzschutz/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -886,10 +890,7 @@ Eingaben:
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

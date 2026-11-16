@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Relationstechnik Zivilrecht ein juristi
 
 ## 1. Direktstart
 
-Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+Ordne Anträge, schlüssigen Vortrag, Einwendungen und streitige Tatsachen aus der Akte. Erarbeite die verlangte Relation bis zur Beweisfrage oder zum Entscheidungsvorschlag.
 
-Pluginauftrag: Relationstechnik Zivilrecht: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation mit Schlüssigkeit, Erheblichkeit, Beweislast, Hinweisen und Urteilsvotum.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 04 Klage Antrag Auslegen: Bearbeite den Fachpunkt im Skill 04-klage-antrag-auslegen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. 05 Anspruchsgrundlagen Identifizieren: Bearbeite den Fachpunkt im Skill 05-anspruchsgrundlagen-identifizieren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit: Bearbeite den Fachpunkt im Skill 19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 01 Akte Erstdurchsicht Zivil: Bearbeite den Fachpunkt im Skill 01-akte-erstdurchsicht-zivil und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [04 Klage Antrag Auslegen](../04-klage-antrag-auslegen/FACHINHALT.md)
+3.1.2. [05 Anspruchsgrundlagen Identifizieren](../05-anspruchsgrundlagen-identifizieren/FACHINHALT.md)
+3.1.3. [19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit](../19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/FACHINHALT.md)
+3.1.4. [01 Akte Erstdurchsicht Zivil](../01-akte-erstdurchsicht-zivil/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

@@ -1,5 +1,9 @@
 # Vollprüfung: richter-amtsgericht-zivil
 
+Kläre, welche Forderung entscheidungsreif ist und wo noch Hinweis, Verhandlung oder Beweisaufnahme fehlt. Ergebnis ist der beauftragte neutrale Verfügungs- oder Urteilsentwurf. Bei Paragraf 495a ZPO und Artikel 103 Absatz 1 GG hilft BVerfG, Beschluss vom 02.03.2017, Az. 2 BvR 977/16: Die Ablehnung einer Entscheidung nach Aktenlage kann als Verhandlungsantrag zu verstehen sein; ihn wegen fehlender Beweisangebote zu übergehen, trägt nicht. Der vorhandene Anker ersetzt weder die aktuelle Wertgrenzenprüfung noch begründet er einen allgemeinen Anspruch außerhalb der gesetzlichen Regel. Quelle und bisherige Prüftiefe im Verfahrensabschnitt erhalten.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-amtsgericht-zivil`.
@@ -31,12 +35,10 @@ _Schaltet sich ein, wenn in Richter Amtsgericht Zivil ein juristisches Arbeitspr
 
 ## 1. Direktstart
 
-Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+Gleiche Anträge, Parteivortrag und Beweise ab. Erstelle aus den entscheidenden Streitpunkten die verlangte Verfügung, den Beweisbeschluss oder Urteilstenor mit Gründen.
 
-Pluginauftrag: Amtsrichter Zivilsachen: Schlüssigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorläufige Vollstreckbarkeit Rechtsmittelbelehrung Versäumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -66,10 +68,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 10 Entscheidungsvorschlag Zur Richterlichen Prüfung: Bearbeite den Fachpunkt im Skill 10-entscheidungsvorschlag-zur-richterlichen-pruefung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Praxisraster Amtsgericht Zivil: Bearbeite den Fachpunkt im Skill v392-praxisraster-richter-amtsgericht-zivil und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 01 Eingangsprüfung Zuständigkeit: Bearbeite den Fachpunkt im Skill 01-eingangspruefung-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 02 Streitwert und Gerichtskosten: Bearbeite den Fachpunkt im Skill 02-streitwert-und-gerichtskosten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [10 Entscheidungsvorschlag Zur Richterlichen Prüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-zivil/skills/10-entscheidungsvorschlag-zur-richterlichen-pruefung/SKILL.md)
+3.1.2. [Praxisraster Amtsgericht Zivil](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-zivil/skills/v392-praxisraster-richter-amtsgericht-zivil/SKILL.md)
+3.1.3. [01 Eingangsprüfung Zuständigkeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-zivil/skills/01-eingangspruefung-zustaendigkeit/SKILL.md)
+3.1.4. [02 Streitwert und Gerichtskosten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-zivil/skills/02-streitwert-und-gerichtskosten/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1261,10 +1265,7 @@ Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, 
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

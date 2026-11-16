@@ -32,6 +32,7 @@ from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
 
 from readme_display import display_prose
+from werkstatt_visualisierung import load_profiles as load_workflow_profiles
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 GH_OWNER = "Klotzkette"
@@ -337,7 +338,7 @@ def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> st
         "",
         "English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.",
         "",
-        "[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Werkstatt und Schnellstart](../docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](../testakten/README.md)",
+        "[Hauptskills](#hauptskills) · [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Werkstatt und Schnellstart](../docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](../testakten/README.md)",
         "",
         "## Alle Detailseiten",
         "",
@@ -349,6 +350,22 @@ def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> st
         for name, skills in items:
             lines.append(f"- [{name}](./{name}.md) ({len(skills)} Skills)")
         lines.append("")
+    workflow_profiles = load_workflow_profiles()
+    lines.extend([
+        "## Hauptskills",
+        "",
+        "Beginne einen Vorgang mit dem Hauptskill des passenden Plugins. Gib den Auftrag und die vorhandenen Unterlagen mit. Für eine einzelne Teilfrage findest du die Fachskills auf der Plugin-Detailseite.",
+        "",
+        "| Plugin | Hauptskill als Markdown |",
+        "| --- | --- |",
+    ])
+    for name, skills in plugins:
+        entry_skill = workflow_profiles[name]["entry_skills"][0]
+        if entry_skill not in skills:
+            raise ValueError(f"{name}: Hauptskill {entry_skill} ist nicht installierbar")
+        download = markdown_download_url(f"{_source_rel_for(name)}/skills/{entry_skill}/SKILL.md")
+        lines.append(f"| [{name}](./{name}.md) | [`{entry_skill}` herunterladen]({download}) |")
+    lines.append("")
     return "\n".join(lines)
 
 

@@ -50,6 +50,21 @@
       "checked_on": "2026-10-16",
       "supports": "Die Anforderung, nicht aus der Kirche auszutreten, braucht einen objektiven Aufgabenbezug sowie wesentliche, rechtmaessige, gerechtfertigte und verhaeltnismaessige Gruende. Gleiche Aufgaben nichtkatholischer Beschaeftigter und fehlende weitere Loyalitaetsverstoesse sprechen gegen eine Rechtfertigung allein durch Austritt. Die vorgeschriebene staatliche Austrittserklaerung ist nicht schon oeffentliche Kirchenfeindlichkeit. Grenze: Nationale Tatsachenwuerdigung bleibt erforderlich. Kein allgemeines Verbot kirchlicher Anforderungen, keine Gleichsetzung besonderer verkuendigungsnaher Aufgaben und keine automatische Geldentschaedigung.",
       "verification_status": "Amtlicher englischer Urteilstext gelesen. Deutsche Volltextabrufe und gekuerzte Curia-URL technisch nicht auswertbar. Quellenart und Sprachgrenze in Werkstatt/Referenz offengelegt; weder Schlussantraege vom 10.07.2025 noch Pressemitteilung als Urteil ausgegeben."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE702012026.zip",
+      "checked_on": "2026-11-16",
+      "supports": "Amtliche Gründe I ZR 129/25, Rn. 26–28 und 45–55. Eigenhaftung des mit Auswahl oder Terminen betrauten Wohnungsmaklers und Indizienbeweis. Allgemeine Verschuldensfrage offengelassen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A62024CJ0258",
+      "checked_on": "2026-11-16",
+      "supports": "Amtlicher englischer Urteilstext C-258/24, Rn. 51–58, 64–86 und Tenor. Tätigkeit, Vergleichsgruppe und konkrete Loyalitätsanforderung prüfen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/presse/kuendigung-wegen-kirchenaustritts/",
+      "checked_on": "2026-11-16",
+      "supports": "Pressemitteilung 38/26 zu 2 AZR 196/22. Revisionsausgang und amtlich mitgeteilte Prüfungszweige, keine schriftlichen Entscheidungsgründe."
     }
   ],
   "selection": {
@@ -309,7 +324,7 @@
         },
         {
           "id": "C02",
-          "text": "Verspricht weder automatischen Vertrag noch festen Tarif und kennzeichnet I ZR 129/25 als hier nur durch Pressemitteilung geprüft.",
+          "text": "Verwendet die amtlichen Gründe von I ZR 129/25, insbesondere Rn. 45–55, für Auswahlauftrag und eigene Verantwortung. Begründet die konkrete Rechtsfolge, ohne automatischen Vertrag oder festen Entschädigungstarif zu versprechen.",
           "deliverables": [
             "antwort.md"
           ]
@@ -451,21 +466,20 @@
       },
       {
         "citation": "BGH, Urteil vom 29.01.2026, I ZR 129/25",
-        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026025.html",
-        "application": "Nach der amtlichen Pressemitteilung kann ein Wohnungsmakler für ethnische Benachteiligung bei der Auswahl von Mietinteressenten selbst nach Paragraf 21 Absatz 2 AGG haften. Vergleichbare Kontaktanfragen waren im konkreten Verfahren für den Indizienbeweis bedeutsam. Keine feste Entschädigungstabelle, kein allgemeiner Anspruch auf den Mietvertrag und keine Erlaubnis zu Identitätsmissbrauch. Quellenstatus hier: Pressemitteilung, keine weitergehenden Randnummern oder Aussagen zum Verschulden erfinden.",
-        "limit": "Vorhandene Fallkarte und Quellenart übernommen; keine zusätzliche heutige Volltextprüfung dieses Ankers.",
-        "checked_on": "2026-10-01",
-        "verification_status": "wiederverwendete_fallkarte",
-        "passages_read": "Fallkarte ## 1.6. Eigene Verantwortung des Wohnungsmaklers; bei I ZR 129/25 ausschließlich Pressemitteilung.",
-        "previous_review": "antidiskriminierung-agg/references/rechtsprechung.md"
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE702012026.zip",
+        "application": "Beauftragte Auswahl oder Terminvergabe, eigene Verantwortlichkeit, Indizien aus Vergleichsanfragen und konkrete Rechtsfolge prüfen.",
+        "limit": "Keine pauschale Maklerhaftung oder fester Entschädigungsbetrag. Allgemeines Verschuldenserfordernis in Rn. 54 offengelassen.",
+        "checked_on": "2026-11-16",
+        "verification_status": "amtlicher_volltext_passagen",
+        "passages_read": "Leitsatz und Rn. 26–28, 45–55 des amtlichen XML-Volltexts."
       },
       {
         "citation": "EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24",
-        "url": "https://juris.curia.europa.eu/juris/document/document_print.jsf?cid=2478990&dir=&docid=309985&doclang=EN&mode=DOC&occ=first&pageIndex=0&part=1&text=",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A62024CJ0258",
         "application": "Die Anforderung, nicht aus der Kirche auszutreten, braucht einen objektiven Aufgabenbezug sowie wesentliche, rechtmaessige, gerechtfertigte und verhaeltnismaessige Gruende. Gleiche Aufgaben nichtkatholischer Beschaeftigter und fehlende weitere Loyalitaetsverstoesse sprechen gegen eine Rechtfertigung allein durch Austritt. Die vorgeschriebene staatliche Austrittserklaerung ist nicht schon oeffentliche Kirchenfeindlichkeit.",
         "limit": "Nationale Tatsachenwuerdigung bleibt erforderlich. Kein allgemeines Verbot kirchlicher Anforderungen, keine Gleichsetzung besonderer verkuendigungsnaher Aufgaben und keine automatische Geldentschaedigung.",
-        "checked_on": "2026-10-16",
-        "verification_status": "Amtlicher englischer Urteilstext gelesen. Deutsche Volltextabrufe und gekuerzte Curia-URL technisch nicht auswertbar. Quellenart und Sprachgrenze in Werkstatt/Referenz offengelegt; weder Schlussantraege vom 10.07.2025 noch Pressemitteilung als Urteil ausgegeben.",
+        "checked_on": "2026-11-16",
+        "verification_status": "Amtliche englische Volltextpassagen erneut geprüft, Rn. 51–58, 64–86 und Tenor.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
         "workflow_effect": "Taetigkeiten, kirchliche Regelungsfassung, nichtkatholische Vergleichspersonen, behauptete weitere Verstoesse, erhebliche Ethosgefaehrdung und mildere Mittel belegen. Kuendigungsangriff und Rechtfertigung nach Rueckantwort anpassen; Kuendigungsklagefrist gesondert sichern."
       }
@@ -494,11 +508,12 @@
     "changes": [
       "Frist, Beweislage und Schreiben statt allgemeiner Analyse.",
       "16.10.2026: Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung.",
-      "Quellenvertiefung 16.10.2026: EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24"
+      "Quellenvertiefung 16.10.2026: EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24",
+      "2026-11-16: Den Maklerauftrag und die Auswahlpraxis anhand der BGH-Gründe prüfen. Den unionsrechtlichen Maßstab für kirchliche Loyalitätsanforderungen von dem nationalen Revisionsausgang und der Kündigungserklärungsfrist getrennt halten. Volltext und Pressemitteilung klar benennen."
     ],
-    "sha256": "1112be5a234f16900a8e360a71209d2723aa1d64bc844bca71c2acc9a19538e3",
+    "sha256": "2c588f9591ab2afc6061ff09cb03d34f15b9a8f111fe4a26417825f375c2c407",
     "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
@@ -506,11 +521,12 @@
     "changes": [
       "Sechs verifizierte Fallkarten mit Anwendungsgrenzen und kultursensibler Aufnahme.",
       "16.10.2026: Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung.",
-      "Quellenvertiefung 16.10.2026: EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24"
+      "Quellenvertiefung 16.10.2026: EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24",
+      "2026-11-16: Den Maklerauftrag und die Auswahlpraxis anhand der BGH-Gründe prüfen. Den unionsrechtlichen Maßstab für kirchliche Loyalitätsanforderungen von dem nationalen Revisionsausgang und der Kündigungserklärungsfrist getrennt halten. Volltext und Pressemitteilung klar benennen."
     ],
-    "sha256": "96eb368a2085ba1dc5890397f60d96e40540c51f966121bd8d20de08bf3767ae",
+    "sha256": "725c105d46c9a116148b047e0e80ea1fff3568450f075b029bfa68aa59bce60d",
     "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "latest_editorial_scope": "Geänderte Arbeitsschritte und Quellenpassagen im Zusammenhang geprüft. Keine erneute Prüfung aller Altquellen und kein Live-Modelltest."
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",
@@ -607,5 +623,11 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "fachquellen_nachpruefung_2026_11_16": {
+    "method": "desk_review",
+    "checked_on": "2026-11-16",
+    "workflow": "Den Maklerauftrag und die Auswahlpraxis anhand der BGH-Gründe prüfen. Den unionsrechtlichen Maßstab für kirchliche Loyalitätsanforderungen von dem nationalen Revisionsausgang und der Kündigungserklärungsfrist getrennt halten. Volltext und Pressemitteilung klar benennen.",
+    "limits": "Geprüft wurden die konkret genannten Passagen und Verfahrensstände. Kein neuer Live-Modelltest und keine fachliche Vollprüfung sämtlicher Aussagen."
   }
 }

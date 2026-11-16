@@ -1,10 +1,10 @@
 # 1. Hinzuschätzung mit einer belegten Gegenkalkulation prüfen
 
-Rechnen Sie den vom Prüfer angenommenen Warenabsatz und Rohgewinnaufschlag nach. Stellen Sie ihm die zeitgerechten Bestände, Rezepturen und Verkaufspreise meines Betriebs gegenüber und begründen Sie daraus die verlangte Korrektur der Hinzuschätzung. Liefern Sie die beauftragte Gegenkalkulation, Stellungnahme oder Einspruchsbegründung vollständig; Zusatzinhalte sind nicht erforderlich.
+Rechnen Sie Warenabsatz und Rohgewinnaufschlag der Prüferrechnung nach. Stellen Sie Bestände, Rezepturen und zeitgleiche Verkaufspreise gegenüber. Begründen Sie mit der Differenz das beauftragte Schreiben oder die Gegenkalkulation.
 
-Fragen Sie gezielt nach fehlenden Beständen, Preiszeiträumen oder Verfahrensunterlagen, soweit diese das Ergebnis verändern. Bearbeiten Sie die davon unabhängigen Teile weiter. Nach Eingang der Antwort aktualisieren Sie die betroffene Rechnung und deren Begründung im bestellten Dokument; verlangen Sie bereits belegte Angaben nicht erneut. Neue entscheidende Widersprüche dürfen weitere gezielte Rückfragen erfordern. Ein Teilstand oder ein Angebot zur späteren Texterstellung beendet den Dokumentenauftrag nicht.
+Fehlende Belege nur erfragen, wenn sich Rechnung, Begehren oder Verfahrensstand dadurch ändern. Den übrigen Teil bearbeiten und nach der Antwort die betroffenen Zahlen und Textstellen bis zur vollständigen Fassung fortschreiben.
 
-Ohne Eingabe bieten Sie Prüferrechnung nachvollziehen, mengenbezogene Gegenkalkulation oder fertige Stellungnahme an. Dateien ohne Auftrag zuerst still lesen und nur das passende Ziel klären, keine automatische Materialübersicht. Bei klarem Auftrag direkt bearbeiten; keine Pflicht zu mehreren Gesprächsrunden. Andere Plugin-Dateien oder Werkzeuge nicht voraussetzen.
+Vorhandene Akten zuerst lesen. Ohne Auftrag gezielt zwischen Prüfung der Rechnung, Gegenkalkulation oder Schreiben zum Verfahren wählen lassen.
 
 Beispiel einer Fortsetzung: „Der belegte Endbestand beträgt 2.000 statt 1.500 Flaschen.“ Bei sonst unveränderten Daten und 5 Euro Nettopreis sinkt der kalkulierte Umsatz um 2.500 Euro. Ändern Sie Rechnung, Differenz und beziffertes Begehren gemeinsam; prüfen Sie vorher, ob beide Bestände denselben Stichtag und dieselbe Warengruppe betreffen. Der neue Beleg heilt keine fehlenden Kassenaufzeichnungen.
 
@@ -29,6 +29,8 @@ BFH, Urteil vom 15.04.2026 – X R 14/24, Rn. 28–33 ([amtlich](https://www.bun
 Stellen Sie kalkulierten und erklärten vergleichbaren Umsatz gegenüber. Leiten Sie Gewinn- und Steuerfolgen gesondert ab; Mehrumsatz ist nicht ungeprüft Mehrgewinn oder konkrete Steuernachzahlung. Fehlende Kosten- und Bescheiddaten benennen.
 
 ## 4. Quellen und Rechtsbehelf
+
+Bei einer Entscheidung des Finanzgerichts die übergangene aktenkundige Tatsache, Fundstelle und Entscheidungserheblichkeit konkret benennen. Der BFH hob das finanzgerichtliche Urteil auf und verwies zurück. Die Nichtigkeit der Schätzungsbescheide blieb offen. [BFH, Beschluss vom 23.10.2026, X B 2/26, Rn. 14–18](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650176/).
 
 Am 14.09.2026 geprüft: [Paragraf 162 AO](https://www.gesetze-im-internet.de/ao_1977/__162.html), [Paragraf 361 AO](https://www.gesetze-im-internet.de/ao_1977/__361.html); BFH, Urteil vom 18.06.2025, Az. X R 19/21, [amtliche Leitsätze und Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/). Jahresfassungen und Fortentwicklung amtlich prüfen; keine erfundenen Richtsätze oder Literatur.
 

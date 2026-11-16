@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Berufsrecht Steuerberater ein juristisc
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Gleiche Auftrag, Berechtigung und tatsächlichen Tätigkeitsumfang mit den berufsrechtlichen Anforderungen ab. Liefere den verlangten Vermerk oder die Antwort an Mandantschaft oder Kammer.
 
-Pluginauftrag: Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungsprävention.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Steuerberater: mandatskündigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Bearbeite den Fachpunkt im Skill mandatskuendigung-vor-frist-kammerantwort-und-ver und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Steuerberater: mandatskündigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Bearbeite den Fachpunkt im Skill mandatskuendigung-vor-frist-organisationspflicht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Steuerberater: mandatskündigung vor frist - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: Bearbeite den Fachpunkt im Skill mandatskuendigung-vor-frist-rechtsprechungscheck und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Steuerberater: kammerbeschwerde steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Bearbeite den Fachpunkt im Skill kammerbeschwerde-steuerberater-kammerantwort und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Steuerberater: mandatskündigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan](../mandatskuendigung-vor-frist-kammerantwort-und-ver/FACHINHALT.md)
+3.1.2. [Steuerberater: mandatskündigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle](../mandatskuendigung-vor-frist-organisationspflicht/FACHINHALT.md)
+3.1.3. [Steuerberater: mandatskündigung vor frist - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur](../mandatskuendigung-vor-frist-rechtsprechungscheck/FACHINHALT.md)
+3.1.4. [Steuerberater: kammerbeschwerde steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan](../kammerbeschwerde-steuerberater-kammerantwort/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

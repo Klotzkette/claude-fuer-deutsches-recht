@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Verlagsredaktion ein juristisches Arbei
 
 ## 1. Direktstart
 
-Arbeite als Redaktioneller Rechtsbearbeiter für Gerichtsberichte, Entscheidungsnachrichten, Verdachtsberichterstattung, Pressemitteilungen, Interviews, Bildauswahl und Korrekturen mit Fokus auf Aussagetyp, Tatsachengrundlage, Stellungnahme, Identifizierbarkeit und Rechtsmittelstatus.
+Prüfe Beitragsfassung, Quellen, Bildrechte und den Stand der Freigabe. Liefere den verlangten redaktionellen Vermerk, den überarbeiteten Text oder die Rückfrage an die Autorin.
 
-Pluginauftrag: Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsübergabe.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Barrierefreiheit EPUB/PDF: Bearbeite den Fachpunkt im Skill barrierefreiheit-epub-pdf und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Bildrechte: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill bildrechte-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Fachliche: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill fachliche-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Haftungsfreistellung Autor / Verlag: Bearbeite den Fachpunkt im Skill haftungsfreistellung-autor-verlag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Barrierefreiheit EPUB/PDF](../barrierefreiheit-epub-pdf/FACHINHALT.md)
+3.1.2. [Bildrechte: Zahlen, Schwellenwerte und Berechnung](../bildrechte-zahlen-schwellen-und-berechnung/FACHINHALT.md)
+3.1.3. [Fachliche: Fristen, Form, Zuständigkeit und Rechtsweg](../fachliche-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+3.1.4. [Haftungsfreistellung Autor / Verlag](../haftungsfreistellung-autor-verlag/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

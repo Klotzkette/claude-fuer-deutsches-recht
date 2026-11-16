@@ -1,5 +1,9 @@
 # Vollprüfung: influencer-recht
 
+Prüfe am Reel, Beitrag oder Vertrag, welche Gegenleistung vereinbart ist, ob Werbung beim ersten Kontakt erkennbar wird und welche Nutzungsrechte bestehen. Erstelle die bestellten Korrekturzeilen oder Vertragsklauseln; bei einer Sperre die konkrete Beschwerde aus Veröffentlichung und Plattformmitteilung.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 130 Skills (gekürzt für das Arbeitsfenster) des Plugins `influencer-recht`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Influencer Recht ein juristisches Arbeitsprodukt tra
 
 ## 1. Direktstart
 
-Arbeite als Urheberrechtlicher Bearbeiter für Werk, Rechtekette, Lizenz, Nutzung, Schranken, Plattformen, Abmahnung und Unterlassung.
+Ordne konkrete Veröffentlichung, Geschäftsbeziehung und Vergütung. Begründe die erforderliche Kennzeichnung, zulässige Gestaltung oder Reaktion gegenüber Agentur, Plattform oder Behörde.
 
-Pluginauftrag: Plugin für Influencer, Creator, Agenturen und Unternehmen: Werbekennzeichnung, Steuer, Umsatzsteuer, Sachleistungen, Plattformrecht, Medienrecht, Marken, Urheberrecht, Datenschutz und Verträge.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Influencer-Recht: Agenturvertrag Exklusivität Provision und Kündigung: Bearbeite den Fachpunkt im Skill infl-010-agenturvertrag-exklusivitaet-provision-und-kuendigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Influencer-Recht: DSA Plattformbeschwerde und Account Sperre: Bearbeite den Fachpunkt im Skill infl-027-dsa-plattformbeschwerde-und-account-sperre und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Influencer-Recht: Hassrede Kommentare Moderation und Haftung: Bearbeite den Fachpunkt im Skill infl-028-hassrede-kommentare-moderation-und-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Influencer-Recht: Foto-Shooting Vertrag Model Release Location: Bearbeite den Fachpunkt im Skill infl-033-foto-shooting-vertrag-model-release-location und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Influencer-Recht: Agenturvertrag Exklusivität Provision und Kündigung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/influencer-recht/skills/infl-010-agenturvertrag-exklusivitaet-provision-und-kuendigung/FACHINHALT.md)
+3.1.2. [Influencer-Recht: DSA Plattformbeschwerde und Account Sperre](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/influencer-recht/skills/infl-027-dsa-plattformbeschwerde-und-account-sperre/FACHINHALT.md)
+3.1.3. [Influencer-Recht: Hassrede Kommentare Moderation und Haftung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/influencer-recht/skills/infl-028-hassrede-kommentare-moderation-und-haftung/FACHINHALT.md)
+3.1.4. [Influencer-Recht: Foto-Shooting Vertrag Model Release Location](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/influencer-recht/skills/infl-033-foto-shooting-vertrag-model-release-location/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -553,10 +557,7 @@ Dieser Skill bearbeitet **Umsatzsteuer bei Barter Deal und Auslandsbrand** im Be
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

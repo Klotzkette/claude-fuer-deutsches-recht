@@ -1,5 +1,9 @@
 # Vollprüfung: aktenaufbereiter-strafrecht
 
+Ordne den erhobenen Tatvorwurf seinen Personen, Zeitpunkten und Beweismitteln zu. Halte widersprechende Aussagen mit Blattfundstellen nebeneinander und mache Zustellungen, Haftdaten und offene Anlagen auffindbar. Liefere den bestellten Ausschnitt oder, beim Gesamtauftrag, sechs Excel-fähige Übersichten: Aktenvorblatt, Personen, Tatkomplexe, Beziehungen, Chronologie sowie Fristen und Termine. Führe vorhandene Tabellen fort, ohne bereits erfasste Unterlagen anlasslos neu zu lesen. Ergebnis ist die Aktenaufbereitung, nicht eine Anklage, ein Urteil oder eine ungefragte Verteidigungsstrategie.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `aktenaufbereiter-strafrecht`.
@@ -32,13 +36,15 @@ _Schaltet sich ein, wenn in Aktenaufbereiter Strafrecht ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+Ordne die Strafakte nach Tatvorwurf, Person und Beweismittel. Liefere die verlangte Übersicht mit Fundstellen und den noch entscheidenden Beweislücken.
 
-Pluginauftrag: Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Lücken und Widersprüche. Kein Ersatz für Aktenlektuere.
+Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Wähle für den Auftrag aus Aktenvorblatt, Personenverzeichnis, Tatkomplexen, Beziehungen, Chronologie und Fristen. Die Übersichten bleiben als Excel-Tabellen ergänzbar. Lies für tragende Aussagen das jeweilige Aktenstück selbst.
 
 ## 2. Die tragende These
 
@@ -67,10 +73,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Aktenaufbereiter Strafrecht: Bearbeite den Fachpunkt im Skill aktenaufbereiter-strafrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Akteneinsicht-Übersicht: Bearbeite den Fachpunkt im Skill akteneinsicht-uebersicht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Akteneinsicht-Übersicht: Bearbeite den Fachpunkt im Skill akteneinsicht-uebersicht-aktenvorblatt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Aktenlektuere: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill aktenlektuere-fristennotiz-und-naechster-schritt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Aktenaufbereiter Strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aktenaufbereiter-strafrecht/skills/aktenaufbereiter-strafrecht/SKILL.md)
+3.1.2. [Akteneinsicht-Übersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aktenaufbereiter-strafrecht/skills/akteneinsicht-uebersicht/FACHINHALT.md)
+3.1.3. [Akteneinsicht-Übersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aktenaufbereiter-strafrecht/skills/akteneinsicht-uebersicht-aktenvorblatt/FACHINHALT.md)
+3.1.4. [Aktenlektuere: Fristennotiz und nächster Schritt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aktenaufbereiter-strafrecht/skills/aktenlektuere-fristennotiz-und-naechster-schritt/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -855,10 +863,7 @@ Diese Output-Weiche für **Aktenaufbereiter Strafrecht** entscheidet, ob Memo, A
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

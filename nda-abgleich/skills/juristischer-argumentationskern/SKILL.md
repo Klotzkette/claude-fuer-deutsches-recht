@@ -7,13 +7,13 @@ description: "Schaltet sich ein, wenn in Nda Abgleich ein juristisches Arbeitspr
 
 ## 1. Direktstart
 
-Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+Gleiche den NDA-Entwurf Klausel für Klausel mit dem freigegebenen Standard ab. Erstelle die beauftragten gezielten Änderungen und begründe jede verbleibende Abweichung.
 
-Pluginauftrag: Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Bearbeite nur die betroffenen Stellen mit echten Änderungsmarken in der Word-Datei, sofern das Werkzeug sie unterstützt. Erhalte Absätze und Klauselstruktur, markiere Abweichungen und lasse grundsätzliche Neufassungen einem gesonderten Auftrag vorbehalten.
 
 ## 2. Die tragende These
 
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen: Bearbeite den Fachpunkt im Skill arbeitnehmer-kuendigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Fristen- und Risikoampel: Bearbeite den Fachpunkt im Skill fristen-und-risikoampel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill gegenseite-fristen-form-zustaendigkeit-rechtsweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill gegenseite-tracked-fristennotiz-nda und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen](../arbeitnehmer-kuendigung/FACHINHALT.md)
+3.1.2. [Fristen- und Risikoampel](../fristen-und-risikoampel/FACHINHALT.md)
+3.1.3. [Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg](../gegenseite-fristen-form-zustaendigkeit-rechtsweg/FACHINHALT.md)
+3.1.4. [Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg](../gegenseite-tracked-fristennotiz-nda/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

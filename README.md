@@ -2,7 +2,7 @@
 
 **Plugins, Skills und Prompts für die deutsche Rechtspraxis.** Die Sammlung richtet sich an Kanzleien, Rechtsabteilungen und Berater. Sie hilft dabei, Akten zu erschließen, Quellen zu prüfen und Verträge, Schriftsätze, Memos oder Entscheidungsvorlagen auszuarbeiten. Mit den Testakten kannst du die Arbeitsabläufe an erfundenen Fällen erproben.
 
-[Schnellstart](#schnellstart) · [Plugin-Katalog](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Testakten](#testakten) · [Downloads](./ASSET_INDEX.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
+[Schnellstart](#schnellstart) · [Plugin-Katalog](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Testakten](./testakten/README.md) · [Downloads](./ASSET_INDEX.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
 
 ## Schnellstart
 
@@ -39,6 +39,8 @@ Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
 
 Die Tabelle zählt bei Werkstatt- und Mini-Prompts die jeweilige Hauptdatei je Plugin. Für besondere Aufgaben gibt es [Schwerpunkt-Prompts](./SCHWERPUNKTE.md) und zusätzliche Werkstätten.
+
+Wenn du ein Plugin für einen ganzen Vorgang einsetzt, kannst du den passenden [Hauptskill direkt herunterladen](./skills-index/README.md#hauptskills) und mit dem Auftrag und den Unterlagen verwenden.
 
 - [Neun Werkstätten zu den HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md)
 - [Zehn Werkstätten zur Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md)
@@ -115,7 +117,9 @@ Die Sammelarchive gehören zum veröffentlichten Bestand vom 9. Oktober 2026 mit
 
 ## Für Einsteiger: Schritt-für-Schritt-Anleitung
 
-In Claude Cowork öffnest du die Plugin-Verwaltung, lädst das einzelne Plugin-ZIP hoch und wählst für deinen Vorgang den passenden Skill. Für die zentrale Bereitstellung einer Organisation gelten die Voraussetzungen der jeweiligen Oberfläche. [Einzelinstallation und Organisations-Marketplace](./INSTALLATION_EINFACH.md)
+1. Lade das einzelne Plugin-ZIP aus der Plugin-README oder dem [Download-Index](./ASSET_INDEX.md).
+2. Öffne in Claude Cowork die Plugin-Verwaltung und lade das ZIP hoch.
+3. Öffne deinen Vorgang und wähle den passenden Skill. [Einzelinstallation und Organisations-Marketplace](./INSTALLATION_EINFACH.md)
 
 Die [Plugin-Seite](#was-ist-drin) führt zu den Skills, Referenzen und gegebenenfalls zu den eigenständigen Prompts. In den [Skill-Detailseiten](./skills-index/) öffnet der Übersichtslink die Beschreibung. Mit **MD herunterladen** speicherst du die unveränderte Arbeitsdatei. Referenzen, die ein einzelner Skill voraussetzt, stellst du bei manueller Nutzung mit bereit. In umfangreichen Plugins öffnen die Fachskills bei Bedarf zusätzliche Fachmodule.
 

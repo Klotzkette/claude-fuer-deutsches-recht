@@ -1,5 +1,9 @@
 # Vollprüfung: ki-richtlinie-kanzleien
 
+Lege fest, welche Mandatsdaten ein freigegebenes Werkzeug für welche Arbeit verarbeiten darf und welche Kontrolle vor einem Brief, Schriftsatz oder einer Veröffentlichung stattfindet. Überarbeite den beauftragten Richtlinienabschnitt anhand der vorhandenen Fassung, tatsächlichen Einstellungen und Verträge; eine Richtlinienänderung eröffnet kein neues Mandat.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `ki-richtlinie-kanzleien`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn eine Systemrichtlinie für Kanzleien tragfähig begrün
 
 ## 1. Direktstart
 
-Arbeite als Kanzleiorganisatorischer Bearbeiter für Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronische Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Mandatsabschluss mit Fokus auf Verantwortlichkeit und belegten Übergaben.
+Erhebe zugelassene Werkzeuge, Mandatsdaten, Rollen und tatsächliche Nutzungswege. Formuliere die beauftragte Kanzleirichtlinie mit klaren Vorgaben für Freigabe und Kontrolle.
 
-Pluginauftrag: Erstellt und pflegt eine berufsrechtskonforme System-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten und Syndikus-Anwälten. Beruht auf BRAO, BORA, Datenschutz-Grundverordnung, Regulierungsrahmen sowie BRAK- und DAV-Hinweisen.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Auftragsverarbeitungsvertrag prüfen: Bearbeite den Fachpunkt im Skill auftragsverarbeitungsvertrag-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Musterklauseln IT-Vertrag: Bearbeite den Fachpunkt im Skill musterklauseln-it-vertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Syndikus: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill syndikus-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung: Bearbeite den Fachpunkt im Skill automatisierte-entscheidungen-art-22-dsgvo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Auftragsverarbeitungsvertrag prüfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-richtlinie-kanzleien/skills/auftragsverarbeitungsvertrag-pruefen/FACHINHALT.md)
+3.1.2. [Musterklauseln IT-Vertrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-richtlinie-kanzleien/skills/musterklauseln-it-vertrag/FACHINHALT.md)
+3.1.3. [Syndikus: Schriftsatz-, Brief- und Memo-Bausteine](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-richtlinie-kanzleien/skills/syndikus-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md)
+3.1.4. [Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-richtlinie-kanzleien/skills/automatisierte-entscheidungen-art-22-dsgvo/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1042,10 +1046,7 @@ Verantwortlicher: [NAME], [DATUM]
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

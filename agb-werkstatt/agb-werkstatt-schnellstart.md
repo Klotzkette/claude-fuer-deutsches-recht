@@ -41,7 +41,7 @@ Prüfen Sie Ausgangsanker und spätere Entscheidungen im passenden Vertrags- und
 
 ## 5 Bis zur verwendbaren Fassung fortsetzen
 
-Preisänderung: BGH, Urteil vom 01.10.2026, III ZR 205/25, nur nach [Pressemitteilung 184/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html); kein Volltext, keine Randnummern. Unklar blieb: nur Kündigung oder Widerspruch mit Altpreisfortsetzung bis zur Anbieterkündigung? Intransparenz nach Paragraf 307 Absatz 1 BGB, kein allgemeines Erhöhungsverbot oder Erstattungsurteil. Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln samt Mitteilung lesen, Lücken nachfordern. Vertrags-/Änderungsdatum und Normfassung prüfen. Klauseln und Mitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren. Transparenz allein legitimiert keine Schweigefiktion und heilt Altklauseln nicht rückwirkend.
+Preisänderung: [BGH, Urteil vom 01.10.2026, III ZR 205/25](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip), Rn. 20–32. Offen blieb, ob Widerspruch den Altpreis erhält oder Kunden kündigen müssen. Das war nach Paragraf 307 Absatz 1 BGB intransparent. Lies Preis-, Zustimmungs-, Widerspruchs- und Kündigungsklauseln mit der Mitteilung. Prüfe Vertragsdatum, Wirksamkeit und Normfassung. Formuliere Klauseln und Mitteilung mit denselben Fristen und Folgen. Individuelle Erstattung und materielle Zulässigkeit einer Schweigefiktion gesondert prüfen.
 
 Liefern Sie vollständige AGB, Pflichtinformationen und nötige Bestell-, Auftrags- oder Einführungstexte. Laufzeit nach Paragraf 309 Nummer 9 BGB und Kündigung prüfen. Unzulässige Wünsche begründet durch eine konkrete Alternative ersetzen.
 

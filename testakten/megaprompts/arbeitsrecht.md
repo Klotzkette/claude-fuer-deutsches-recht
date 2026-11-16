@@ -1,5 +1,9 @@
 # Vollprüfung: arbeitsrecht
 
+Ist die Kündigung wirksam, welche Vergütung fehlt oder welche Vertragsregel muss sich ändern? Prüfe den Vorgang aus Sicht des vertretenen Arbeitnehmers oder Arbeitgebers und liefere das beauftragte Schreiben, Gutachten, Vertragsstück oder den Schriftsatz. Erklärung, Vertrag und Nachweise gehen Rückfragen voraus; andere Verfahren werden nicht ungefragt angeschlossen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-10 von 100 Skills des Plugins `arbeitsrecht`.
@@ -27,13 +31,13 @@ _Schaltet sich ein, wenn in Arbeitsrecht ein juristisches Arbeitsprodukt tragfä
 
 ## 1. Direktstart
 
-Arbeite als Arbeitsrechtlicher Bearbeiter für Einstellung, Vertrag, Arbeitszeit, Vergütung, Urlaub, Fehlzeiten, Gleichbehandlung, Betriebsrat, Abmahnung, Kündigung und Befristung mit Fokus auf Fristen, Form, Darlegungslast und verwertbare Prozess- oder Personalprodukte.
+Lies Arbeitsvertrag, Schreiben und Belege zur tatsächlichen Beschäftigung. Sichere die einschlägigen Fristen und begründe den verlangten Entwurf aus der vertretenen Arbeitnehmer- oder Arbeitgeberperspektive.
 
-Pluginauftrag: Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+Verwende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Fundstelle.
 
 ## 2. Die tragende These
 
@@ -62,10 +66,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.: Bearbeite den Fachpunkt im Skill zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang: Bearbeite den Fachpunkt im Skill zugang-neu-008-kschklage-frist-streitigem-zugang und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen: Bearbeite den Fachpunkt im Skill entfristung-klageschrift-anwalt-baustein und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum: Bearbeite den Fachpunkt im Skill entfristung-klageschrift-laie-baustein und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitsrecht/skills/zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga/FACHINHALT.md)
+3.1.2. [Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitsrecht/skills/zugang-neu-008-kschklage-frist-streitigem-zugang/FACHINHALT.md)
+3.1.3. [Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitsrecht/skills/entfristung-klageschrift-anwalt-baustein/FACHINHALT.md)
+3.1.4. [Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitsrecht/skills/entfristung-klageschrift-laie-baustein/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -81,6 +87,8 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
 ## 5. Rechtsprechung und Quellenstatus
+
+Bei Sonderkündigungsschutz und Massenentlassung den [Arbeitsweg Kündigung, Zugang und Aufhebungsvertrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitsrecht/skills/kuendigung-zugang-trennung-bearbeiten/SKILL.md) heranziehen. Dort stehen die fallbezogenen Prüfschritte zur [Geltendmachung des Schutzes von Vorfeldinitiatoren](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/) und zur [Funktion der Massenentlassungsanzeige](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/).
 
 5.1. BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Fällen.
 5.2. BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.
@@ -1325,10 +1333,7 @@ Dieser Skill bearbeitet **Persönliche Übergabe Empfangsverweigerung und Zeugen
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

@@ -1,5 +1,9 @@
 # Vollprüfung: versammlungsrecht
 
+Formuliere die Versammlungsanzeige oder prüfe die konkrete Routen-, Zeit- oder Durchführungsbeschränkung gegen die belegte Gefahrenlage. Arbeite heraus, ob Trennung, Ordner, Rettungswege oder andere umsetzbare Maßnahmen das Verbot oder die Verlegung vermeiden können. Liefere die verlangte Behördenantwort, das Schutzkonzept oder den beauftragten Rechtsschutz, ohne eine Genehmigungspflicht zu unterstellen.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 56 Skills des Plugins `versammlungsrecht`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Versammlungsrecht ein juristisches Arbeitsprodukt tr
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Bestimme Ort, Zeit, Zweck und behördliche Auflagen der Versammlung. Sichere die dringenden Fristen und entwirf die Anzeige, Stellungnahme oder den beauftragten Antrag.
 
-Pluginauftrag: Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagen, Verbot, Eilrechtsschutz und Durchführung ohne vorauseilende Selbstzensur.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Die 48 Stunden laufen oft vor der Bekanntgabe: Bearbeite den Fachpunkt im Skill frist-stunden-kosten-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Formular und Freitext in einem: Bearbeite den Fachpunkt im Skill muster-anzeige-eilantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Gerichtsfähig unter Zeitdruck: Bearbeite den Fachpunkt im Skill muster-eilantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs: Bearbeite den Fachpunkt im Skill widerspruch-klage-eilrechtsschutz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Die 48 Stunden laufen oft vor der Bekanntgabe](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/versammlungsrecht/skills/frist-stunden-kosten-haftung/FACHINHALT.md)
+3.1.2. [Formular und Freitext in einem](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/versammlungsrecht/skills/muster-anzeige-eilantrag/FACHINHALT.md)
+3.1.3. [Gerichtsfähig unter Zeitdruck](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/versammlungsrecht/skills/muster-eilantrag/FACHINHALT.md)
+3.1.4. [Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/versammlungsrecht/skills/widerspruch-klage-eilrechtsschutz/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -801,10 +805,7 @@ Sammle Protokoll, Fotos, Presse, Behördenkommunikation, Beschwerden, Teilnehmen
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

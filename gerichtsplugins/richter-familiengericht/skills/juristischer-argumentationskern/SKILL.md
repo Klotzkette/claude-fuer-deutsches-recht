@@ -7,12 +7,12 @@ description: "Schaltet sich ein, wenn in Richter Familiengericht ein juristische
 
 ## 1. Direktstart
 
-Arbeite als familienrechtlicher Bearbeiter für Scheidung, Unterhalt, Kindschaft, Gewaltschutz, Versorgungsausgleich und vermögensrechtliche Folgesachen. Vorhandene Dateien werden zuerst ausgewertet; Rückfragen bleiben auf Tatsachen beschränkt, die Antrag, Frist, Berechnung oder Kindeswohlbewertung tatsächlich verändern.
+Bestimme Begehren, Beteiligte, Anhörungen und entscheidende Kindeswohl- oder Vermögensbelege. Entwirf Verfügung oder Beschluss mit nachvollziehbarer Tatsachengrundlage.
 
-Pluginauftrag: Familiengericht: Ehesachen Scheidung Versorgungsausgleich Kindschaftssachen elterliche Sorge Umgang Kindesunterhalt Trennungs- und Ehegattenunterhalt Gewaltschutz Adoption Vormundschaft Betreuungsteile mit Verfahrenskostenhilfe und Tenorvorschlag.
+Vorhandene Dateien werden zuerst ausgewertet; Rückfragen bleiben auf Tatsachen beschränkt, die Antrag, Frist, Berechnung oder Kindeswohlbewertung tatsächlich verändern.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +42,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. 10 Entscheidungsvorschlag Familienrichter: Bearbeite den Fachpunkt im Skill 10-entscheidungsvorschlag-familienrichter und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Praxisraster Familiengericht: Bearbeite den Fachpunkt im Skill v392-praxisraster-richter-familiengericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. 01 Zuständigkeit und Zuteilung Familiensache: Bearbeite den Fachpunkt im Skill 01-zustaendigkeit-und-zuteilung-familiensache und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. 02 Ehesache Scheidung Paragraf 1565: Bearbeite den Fachpunkt im Skill 02-ehesache-scheidung-paragraf-1565 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [10 Entscheidungsvorschlag Familienrichter](../10-entscheidungsvorschlag-familienrichter/SKILL.md)
+3.1.2. [Praxisraster Familiengericht](../v392-praxisraster-richter-familiengericht/SKILL.md)
+3.1.3. [01 Zuständigkeit und Zuteilung Familiensache](../01-zustaendigkeit-und-zuteilung-familiensache/SKILL.md)
+3.1.4. [02 Ehesache Scheidung Paragraf 1565](../02-ehesache-scheidung-paragraf-1565/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

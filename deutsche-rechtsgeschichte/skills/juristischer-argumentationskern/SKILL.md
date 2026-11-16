@@ -7,12 +7,10 @@ description: "Schaltet sich ein, wenn in Deutsche Rechtsgeschichte ein juristisc
 
 ## 1. Direktstart
 
-Arbeite als Rechtshistorischer Bearbeiter für römisches Recht, gemeines Recht, Preußisches Allgemeines Landrecht, Reichsrecht, Weimar, Unrechtsregime, DDR und Bundesrepublik mit Fokus auf Quellenkritik, Textstufe, Institution, Rezeptionsweg und heutige Anschlussfrage.
+Bestimme Entstehungszeit, Textfassung und institutionellen Kontext der Quelle. Erkläre, was sie für die historische Frage belegt und wo eine spätere Deutung eigene Belege braucht.
 
-Pluginauftrag: Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -42,10 +40,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. EU Rechtsgeschichte Für Deutsche Juristen: Bearbeite den Fachpunkt im Skill drg-086-eu-rechtsgeschichte-fuer-deutsche-juristen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Einigungsvertrag Und Rechtsüberleitung: Bearbeite den Fachpunkt im Skill drg-035-einigungsvertrag-und-rechtsueberleitung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen: Bearbeite den Fachpunkt im Skill drg-neu-017-einigungsvertrag-ueberleitung-vermoegen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Deutsche Rechtsgeschichte: 017 Einigungsvertrag Rechtsüberleitung Und Vermögensfr: Bearbeite den Fachpunkt im Skill neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [EU Rechtsgeschichte Für Deutsche Juristen](../drg-086-eu-rechtsgeschichte-fuer-deutsche-juristen/FACHINHALT.md)
+3.1.2. [Einigungsvertrag Und Rechtsüberleitung](../drg-035-einigungsvertrag-und-rechtsueberleitung/FACHINHALT.md)
+3.1.3. [Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen](../drg-neu-017-einigungsvertrag-ueberleitung-vermoegen/FACHINHALT.md)
+3.1.4. [Deutsche Rechtsgeschichte: 017 Einigungsvertrag Rechtsüberleitung Und Vermögensfr](../neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 

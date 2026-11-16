@@ -1,5 +1,9 @@
 # Vollprüfung: wandeldarlehen-lebenszyklus
 
+Stelle fest, ob das vereinbarte Wandelereignis eingetreten ist, welcher Kapital- und Zinsbetrag zu welchem Preis umzusetzen ist und welche Beschlüsse und Einlagen dafür noch fehlen. Prüfe bei Fälligkeit und Krise außerdem, ob ein Rangrücktritt die Zahlung sperrt. Liefere die beauftragte Vertragsfassung, Wandlungsrechnung, Gesellschaftervorlage oder Notariatsunterlage für die konkrete GmbH oder UG.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-15 von 54 Skills des Plugins `wandeldarlehen-lebenszyklus`.
@@ -32,12 +36,10 @@ _Schaltet sich ein, wenn in Wandeldarlehen Lebenszyklus ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+Gleiche Darlehen, Wandlungsbedingungen, Beteiligungszahlen und anstehendes Ereignis ab. Rechne die Umsetzung nach und formuliere den benötigten Vertrag oder Vollzugsvermerk.
 
-Pluginauftrag: Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -67,10 +69,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Vertragserstellung: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill vertragserstellung-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill lebenszyklus-bilinguale-vertragserstellung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Bilinguale Vertragserstellung DE/EN: Bearbeite den Fachpunkt im Skill bilinguale-vertragserstellung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Einsprachige Vertragsfassung (nur DE): Bearbeite den Fachpunkt im Skill einsprachige-vertragsfassung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Vertragserstellung: Behörden-, Gerichts- oder Registerweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/wandeldarlehen-lebenszyklus/skills/vertragserstellung-behoerden-gericht-und-registerweg/FACHINHALT.md)
+3.1.2. [Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/wandeldarlehen-lebenszyklus/skills/lebenszyklus-bilinguale-vertragserstellung/FACHINHALT.md)
+3.1.3. [Bilinguale Vertragserstellung DE/EN](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/wandeldarlehen-lebenszyklus/skills/bilinguale-vertragserstellung/FACHINHALT.md)
+3.1.4. [Einsprachige Vertragsfassung (nur DE)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/wandeldarlehen-lebenszyklus/skills/einsprachige-vertragsfassung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -1187,10 +1191,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

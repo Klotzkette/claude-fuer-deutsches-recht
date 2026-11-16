@@ -7,9 +7,7 @@ description: "Bescheide, Korrekturmöglichkeiten, Fristen, AdV, Haftung und fina
 
 ## 1. Zweck und Anwendungsfall
 
-Bescheide, Korrekturmöglichkeiten, Fristen, AdV, Haftung und finanzgerichtlichen Rechtsschutz bis zum fertigen Arbeitsprodukt prüfen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Bestimme aus Bescheid, Zustellbeleg, Einspruchsentscheidung und gegebenenfalls Urteil, welcher Antrag noch möglich ist. Berechne dessen Frist und liefere den passenden Einspruch, Aussetzungsantrag oder Klageentwurf mit belegter Begründung.
 
 ## 2. Eingaben
 
@@ -26,9 +24,9 @@ Bescheide, Korrekturmöglichkeiten, Fristen, AdV, Haftung und finanzgerichtliche
 
 Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.
 
-### 3.3. Arbeitsschritt
+### 3.3. Schätzung, Nichtigkeit und Aktenverstoß auseinanderhalten
 
-Tatsachen, Rechtsgrundlage, Belege, Gegenposition und verbleibende Unsicherheiten nachvollziehbar verbinden.
+Bei Schätzungsbescheiden nach Paragraf 162 AO tatsächliche Zahlungseingänge, private Beträge, Betriebsausgaben und angebotene Aufklärung gegenüberstellen. Setze bei Bestandskraft die hohe Schwelle des Paragrafen 125 Absatz 1 AO nicht mit der gewöhnlichen Rechtswidrigkeit gleich. Nach [BFH, Beschluss vom 23.10.2026, X B 2/26](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650176/), Rn. 14–18, trägt für die Nichtzulassungsbeschwerde die konkrete Abweichung von einem klaren Aktenbefund nur bei Entscheidungserheblichkeit. Stelle Urteilsseite, eindeutige Aktenfundstelle und mögliche Auswirkung nebeneinander. Der BFH verwies zurück und stellte die Nichtigkeit der Bescheide nicht fest.
 
 ### 3.4. Arbeitsschritt
 

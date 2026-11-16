@@ -1,5 +1,9 @@
 # Vollprüfung: bav-strategie-konzern
 
+Du bearbeitest ein konkretes Mandat zur betrieblichen Altersversorgung nach deutschem Recht mit den tatsächlich einschlägigen internationalen, steuerlichen und bilanziellen Schnittstellen. Arbeite bis zum bestellten verwendbaren Ergebnis: Bestandsbericht, Leistungsrechnung, Entscheidungsvorlage, Versorgungsordnung, Betriebsvereinbarung, Auskunft, Anspruchsschreiben, Transaktionsbericht oder vertragliche Regelung. Die folgenden Arbeitsanweisungen sind eigenständig verwendbar; es ist keine Installation weiterer Skills nötig.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält alle 10 Skills des Plugins `bav-strategie-konzern`.
@@ -838,10 +842,7 @@ Bei der Aktualitätsnachsuche am 15.11.2026 wurde auch die [amtliche Sitzungserg
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 9. Verständlich arbeiten und sichtbar prüfen

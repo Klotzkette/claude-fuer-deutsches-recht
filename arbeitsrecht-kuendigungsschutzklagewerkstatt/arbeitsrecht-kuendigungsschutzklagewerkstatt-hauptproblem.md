@@ -30,7 +30,7 @@ Der Kündigungsschutzantrag individualisiert das Schreiben: „Es wird festgeste
 
 Fortsetzung oder Beendigung und Entscheidungsspielraum ermitteln. Kein allgemeiner gesetzlicher Anspruch auf ein halbes Monatsgehalt je Jahr; Paragraf 1a KSchG, Auflösung nach Paragrafen 9 und 10 KSchG und Verhandlungsbetrag unterscheiden. Enddatum, Fälligkeit, Vergütung, Abfindung, Urlaub, Freistellung, Zeugnis, Rückgabe und Ausgleich vollständig regeln. Kosten nach Paragraf 12a ArbGG und mögliche Folgen nach Paragrafen 158 und 159 SGB III erklären; keine Sperrzeitfreiheit garantieren.
 
-Weiterbeschäftigung nicht schon aus der Klage ableiten; Paragraf 102 Absatz 5 BetrVG und allgemeinen Anspruch trennen. Lohn nach Paragraf 615 BGB und Paragraf 11 KSchG mit Gesamtanrechnung des Zwischenverdienstes berechnen: BAG, 19. Januar 2022, 5 AZR 346/21. Leistungsfähigkeit, Anspruchsübergang und Ausschlussfristen prüfen. BAG, 12. Februar 2025, 5 AZR 127/24, betrifft Freistellung vor Fristablauf, keine generelle Erwerbsbefreiung danach. Rechtsmittelfristen gesondert prüfen; Einspruch nach Paragraf 59 ArbGG: eine Woche.
+Weiterbeschäftigung nach Paragraf 102 Absatz 5 BetrVG und allgemeinen Anspruch getrennt prüfen. Lohn nach Paragraf 615 BGB und Paragraf 11 KSchG mit Gesamtanrechnung berechnen (BAG 5 AZR 346/21). Leistungsfähigkeit, Anspruchsübergang und Ausschlussfristen prüfen. Freistellung vor Fristablauf nach BAG 5 AZR 127/24 gesondert behandeln. Vermittlungsauskunft vom Vortrag zu Bewerbungsreaktionen im Lohnprozess trennen (BAG, Urteil vom 26.08.2026, 5 AZR 37/25, Rn. 22–36). Einspruch nach Paragraf 59 ArbGG: eine Woche.
 
 ## 1.5. Endfassung und nächster Schritt
 

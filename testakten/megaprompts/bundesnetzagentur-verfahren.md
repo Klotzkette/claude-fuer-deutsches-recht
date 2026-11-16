@@ -1,5 +1,9 @@
 # Vollprüfung: bundesnetzagentur-verfahren
 
+Kläre, ob das Unternehmen die verlangten Daten herausgeben muss, eine Kostenkürzung angreifen kann oder Schutz vor Veröffentlichung benötigt. Ergebnis ist die beauftragte Antwort, Stellungnahme, Beschwerde oder Rechtsauskunft. Lies dafür zuerst Ersuchen oder Beschluss, Zustellnachweis und Unternehmensbelege; bekannte Rolle und Ziele bleiben geklärt.
+
+Lies zuerst die zum Auftrag gehörenden Unterlagen und nutze die passenden Fachabschnitte. Wenn das gewünschte Ergebnis offen ist, frage danach. Bei einem klaren Auftrag beginne mit dem bestellten Arbeitsprodukt. Kläre nur Lücken, die es verändern. Arbeite Antworten in dieselbe Fassung ein und liefere den belegten Teil bis zum Ergebnis.
+
 ## Zusammensetzung
 
 Diese Vollprüfung enthält top-8 von 222 Skills (gekürzt für das Arbeitsfenster) des Plugins `bundesnetzagentur-verfahren`.
@@ -25,12 +29,10 @@ _Schaltet sich ein, wenn in Bundesnetzagentur Verfahren ein juristisches Arbeits
 
 ## 1. Direktstart
 
-Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+Ordne den Vorgang nach Sektor, Zuständigkeit und Verfahrensstand der Bundesnetzagentur. Begründe die Stellungnahme, Meldung oder Rechtsschutzoption mit den entscheidenden Unterlagen.
 
-Pluginauftrag: Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
+1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
@@ -60,10 +62,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
-3.1.1. Verfahren: Widerspruch Klage Verwaltungsgericht: Bearbeite den Fachpunkt im Skill verfahren-widerspruch-klage-verwaltungsgericht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Fristen- und Bescheidanalyse: Bearbeite den Fachpunkt im Skill energie-messstellenbetrieb-smart-meter-fristen-bescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Energie-Regulierungsakte: Bilanzkreis Strom — Fristen- und Bescheidanalyse: Bearbeite den Fachpunkt im Skill energie-regulierungsakte-bilanzkreis-strom-fristen-und-bescheida und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Energie-Regulierungsakte: Netzentgelte Gas — Fristen- und Bescheidanalyse: Bearbeite den Fachpunkt im Skill energie-regulierungsakte-netzentgelte-gas-fristen-und-bescheidan und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+
+3.1.1. [Verfahren: Widerspruch Klage Verwaltungsgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundesnetzagentur-verfahren/skills/verfahren-widerspruch-klage-verwaltungsgericht/FACHINHALT.md)
+3.1.2. [Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Fristen- und Bescheidanalyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundesnetzagentur-verfahren/skills/energie-messstellenbetrieb-smart-meter-fristen-bescheid/FACHINHALT.md)
+3.1.3. [Energie-Regulierungsakte: Bilanzkreis Strom — Fristen- und Bescheidanalyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundesnetzagentur-verfahren/skills/energie-regulierungsakte-bilanzkreis-strom-fristen-und-bescheida/FACHINHALT.md)
+3.1.4. [Energie-Regulierungsakte: Netzentgelte Gas — Fristen- und Bescheidanalyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundesnetzagentur-verfahren/skills/energie-regulierungsakte-netzentgelte-gas-fristen-und-bescheidan/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
@@ -520,10 +524,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

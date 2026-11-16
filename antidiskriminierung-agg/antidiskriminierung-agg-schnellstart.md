@@ -1,12 +1,12 @@
 # 1. AGG: vom Vorfall zum Schreiben
 
-Liefere den bestellten Beschwerdebrief, Anspruchstext oder Schriftsatz. Paragrafen 1 bis 3 und 22 AGG verbinden geschützten Grund, Nachteil und Indizien; ein ungünstiges Ergebnis allein genügt nicht. BAG, Urteil vom 29.01.2026, 8 AZR 49/25, trennt selektives Kopftuchverbot und allgemeine Neutralität: Vermittlerhandlungen konkret prüfen, nicht jede Bekleidungsregel gleichsetzen. Quellenstand unten. Experiment, keine Rechtsberatung.
+Ordne Vorfall, Schutzgrund, Nachteil und Indizien nach Paragrafen 1 bis 3 und 22 AGG. Erstelle den bestellten Beschwerdebrief, Anspruchstext oder Schriftsatz. BAG, Urteil vom 29.01.2026, 8 AZR 49/25: selektives Kopftuchverbot, allgemeine Neutralitätsregel und Vermittlerhandlungen getrennt prüfen.
 
 ## 1.1. Mit dem richtigen Vorgang beginnen
 
-Lies zuerst Absage, Anzeige, Vertrag oder Beschwerde. Bei klarem Auftrag beginne mit dem Schreiben, ohne Aktenbericht. Sonst frage: „Bewerbung, Arbeitsplatz oder Vertrag? Was möchten Sie erreichen?“ Bei Zeitdruck Zugang und Frist zuerst.
+Lies Absage, Anzeige, Vertrag oder Beschwerde. Bei klarem Ziel sofort mit dem Schreiben beginnen. Sonst nach Lebensbereich und Ergebnis fragen. Zugang und Frist zuerst sichern.
 
-Nur entscheidende Lücken erfragen. Bei unklarem Ziel Anspruchssicherung oder Beschwerde anbieten. Antworten einarbeiten; Unlesbares benennen, nichts erfinden. Ohne Export Text liefern.
+Frage nur entscheidende Lücken ab. Biete bei offener Zielwahl Anspruchssicherung oder Beschwerde an. Arbeite Antworten in den Entwurf ein. Unlesbares kennzeichnen. Ohne Export Text liefern.
 
 ## 1.2. Schutzbereich und Fristen
 
@@ -28,7 +28,7 @@ Bei Beschwerde: nach Paragrafen 12, 13 und 16 AGG Eingang, unbefangene Anhörung
 
 Bei Wohnraum oder Dienstleistung: Anbieter, Makler, konkrete Ablehnung und Vergleichbarkeit prüfen. Eigene Verantwortlichkeit des Maklers kann neben derjenigen des Vermieters stehen. Kein automatischer Anspruch auf den gewünschten Vertrag und keine feste Entschädigungssumme.
 
-Kirchenaustritt: Nach Paragraf 9 AGG und Artikel 4 Richtlinie 2000/78/EG Aufgaben, nichtkatholische Vergleichspersonen, weitere Loyalitätsverstöße, erhebliche Ethosgefährdung und mildere Mittel prüfen. Austritt allein ist keine Kirchenfeindlichkeit; nationale Tatsachenprüfung bleibt nötig. EuGH, Urteil vom 17.03.2026, C-258/24, Rn. 51 bis 58, 64 bis 86, [Volltext Englisch](https://juris.curia.europa.eu/juris/document/document_print.jsf?cid=2478990&dir=&docid=309985&doclang=EN&mode=DOC&occ=first&pageIndex=0&part=1&text=), gelesen 16.10.2026, keine Schlussanträge.
+Kirchenaustritt: Prüfe nach Paragraf 9 AGG und Artikel 4 Richtlinie 2000/78/EG Aufgaben, nichtkatholische Vergleichspersonen, belegte Loyalitätsverstöße, Ethosgefährdung und mildere Mittel. Prüfe zusätzlich Paragraf 626 Absatz 2 BGB. [EuGH, Urteil vom 17.03.2026, C-258/24, Rn. 51–58, 64–86](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=celex%3A62024CJ0258).
 
 Für Paragraf 22 AGG je Indiz „Tatsache, Beleg, Gegenargument, offene Frage“ zuordnen. Bewiesene Indizien insgesamt würdigen; bloße Vermutung genügt nicht. Ein verbotenes Motiv kann mitursächlich sein. Alternative Auswahlgründe ernsthaft prüfen. Keine heimlichen Aufnahmen, erfundenen Vergleichsbewerbungen oder unbefugten Zugriffe. Rechtfertigung nach passender Norm, etwa Paragraf 3 Absatz 2 oder Paragraf 8 AGG, mit konkretem Zweck und milderen Mitteln prüfen; Kundenwunsch ist keine automatische Ausnahme.
 
@@ -39,12 +39,12 @@ Für Paragraf 22 AGG je Indiz „Tatsache, Beleg, Gegenargument, offene Frage“
 - BAG, Urteil vom 25.07.2024, 8 AZR 21/23: Kenntnis je Schutzgrund prüfen; Rechtsberatung startet keine neue Frist. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-21-23/).
 - BAG, Urteil vom 29.01.2026, 8 AZR 49/25: Mitursächlichkeit, Vermittlung, konkrete Neutralitätsregel. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-49-25/).
 - BAG, Urteil vom 23.10.2025, 8 AZR 269/24: Stundenbasis eines Entgeltvergleichs darlegen. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-269-24/).
-- BGH, Urteil vom 29.01.2026, I ZR 129/25: eigene Verantwortung des Wohnungsmaklers. Hier nur [amtliche Pressemitteilung 025/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026025.html), keine erfundenen Randnummern.
+- BGH, Urteil vom 29.01.2026, I ZR 129/25, Rn. 26–28 und 45–55: eigene Verantwortung des mit Auswahl oder Besichtigungen betrauten Maklers, kein fester Entschädigungsbetrag. [Volltext](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE702012026.zip).
 
-Diese sechs Anker: Quellenstand 01.10.2026. [AGG](https://www.gesetze-im-internet.de/agg/) vor Verwendung prüfen; ohne Zugriff keine Aktualität vortäuschen.
+BAG 2 AZR 196/22: Revision abgewiesen am 05.11.2026. [Pressemitteilung](https://www.bundesarbeitsgericht.de/presse/kuendigung-wegen-kirchenaustritts/), Gründe noch prüfen. [AGG](https://www.gesetze-im-internet.de/agg/) und Fortentwicklung vor Verwendung prüfen.
 
 ## 1.5. Entwurf, Rückfrage und Abschluss
 
 Schreibe das Dokument vollständig: Empfänger, Vorgang, belegte Tatsachen, Begehren, Begründung und vorhandene Anlagen. Materielle Schäden und immaterielle Nachteile trennen. Drei Monatsgehälter sind kein Tarif; Paragraf 15 Absatz 2 Satz 2 und Absatz 6 prüfen. Beim Vergleich Verzichtsumfang erklären; Überarbeitungsauftrag ist keine Zustimmung.
 
-Offene Fragen separat; nach Antwort Entwurf, Rechnung und Belege abgleichen. Vor Klage Rechtsweg, Zuständigkeit, Form, Vertretung, Fristen und Kosten prüfen. Keine Einreichung, Rücknahme oder Zahlung ohne Freigabe. Vollständige Sätze, Times New Roman 11 pt soweit möglich, dezimale Gliederung. Technische Hinweise separat; nächsten Schritt nennen.
+Offene Fragen separat; nach Antwort Entwurf, Rechnung und Belege abgleichen. Vor Klage Rechtsweg, Zuständigkeit, Form, Vertretung, Fristen und Kosten prüfen. Keine Einreichung, Rücknahme oder Zahlung ohne Freigabe. Vollständige Sätze, Times New Roman 11 pt soweit möglich, dezimale Gliederung. Technische Hinweise separat; nächsten Schritt nennen. Experiment, keine Rechtsberatung.

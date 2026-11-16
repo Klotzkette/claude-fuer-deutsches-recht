@@ -166,8 +166,9 @@ class AgbTests(unittest.TestCase):
         self.assertEqual(D("2520") * D("1.07"), D("2696.40"))
         self.assertEqual(D("1348.20") * 2, D("2696.40"))
 
-    def test_archives_flat_and_notices_outside_pdfs(self):
+    def test_archive_layout_and_notices_outside_pdfs(self):
         from pypdf import PdfReader
+        from testakte_grundakte import FOLDER, selection
         originals = builder.module("build-testakten-release-zips.py")
         pdfs = builder.module("build-testakten-einzelpdf-zips.py")
         with tempfile.TemporaryDirectory() as tmp:
@@ -178,7 +179,13 @@ class AgbTests(unittest.TestCase):
                     self.assertGreaterEqual(count, 12)
                     with zipfile.ZipFile(path) as archive:
                         names = archive.namelist()
-                        self.assertTrue(all("/" not in name for name in names))
+                        if make is originals.build_single:
+                            intake = selection()["central"][case["slug"]]
+                            expected = {f"{FOLDER}/{name}" for name in intake}
+                            self.assertTrue(expected)
+                            self.assertEqual({name for name in names if "/" in name}, expected)
+                        else:
+                            self.assertTrue(all("/" not in name for name in names))
                         self.assertFalse(any(name.lower().endswith(".md") for name in names))
                         notice = archive.read("README.txt").decode()
                         from testakte_disclaimer import NOTICE_TEXT
