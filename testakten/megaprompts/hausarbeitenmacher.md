@@ -163,21 +163,21 @@ Dieser Einstieg routet **Hausarbeitenmacher** vom ersten Sachverhalt zu Rollen, 
 
 ## Fachlandkarte dieses Plugins
 
-- `adressaten-formular-portal-und-einreichung` — Adressaten Formular Portal und Einreichung
-- `aufgabenstellung-erfassen-fachgebiet` — Aufgabenstellung Erfassen Fachgebiet
-- `ausfluegen-didaktisches-durch` — Ausfluegen Didaktisches Durch
-- `bearbeitungsplan-erstellen` — Bearbeitungsplan Erstellen
-- `behutsame-frech-haeufige-fehler` — Behutsame Frech Haeufige Fehler
-- `didaktisches-erstpruefung-und-mandatsziel` — Didaktisches Erstpruefung und Mandatsziel
-- `durch-schriftsatz-brief-und-memo-bausteine` — Durch Schriftsatz Brief und Memo Bausteine
-- `europarecht-anwendbarkeit-hausarbeiten` — Europarecht Anwendbarkeit Hausarbeiten
-- `europarecht-interessen-fertigen-sonderfall` — Europarecht Interessen Fertigen Sonderfall
-- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Öffentlich Straf
-- `fertigen-sonderfall-und-edge-case` — Fertigen Sonderfall und Edge Case
-- `fuehrt-risikoampel-und-gegenargumente` — Fuehrt Risikoampel und Gegenargumente
-- `gliederung-mit-tiefenstruktur` — Gliederung mit Tiefenstruktur
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `fallfrage-bearbeiten` (Fachthema: adressaten-formular-portal-und-einreichung) — Adressaten Formular Portal und Einreichung
+- `fallfrage-bearbeiten` (Fachthema: aufgabenstellung-erfassen-fachgebiet) — Aufgabenstellung Erfassen Fachgebiet
+- `fallfrage-bearbeiten` (Fachthema: ausfluegen-didaktisches-durch) — Ausfluegen Didaktisches Durch
+- `fallfrage-bearbeiten` (Fachthema: bearbeitungsplan-erstellen) — Bearbeitungsplan Erstellen
+- `fallfrage-bearbeiten` (Fachthema: behutsame-frech-haeufige-fehler) — Behutsame Frech Haeufige Fehler
+- `fallfrage-bearbeiten` (Fachthema: didaktisches-erstpruefung-und-mandatsziel) — Didaktisches Erstpruefung und Mandatsziel
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: durch-schriftsatz-brief-und-memo-bausteine) — Durch Schriftsatz Brief und Memo Bausteine
+- `arbeitsprodukt-bearbeiten` (Fachthema: europarecht-anwendbarkeit-hausarbeiten) — Europarecht Anwendbarkeit Hausarbeiten
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: europarecht-interessen-fertigen-sonderfall) — Europarecht Interessen Fertigen Sonderfall
+- `fallfrage-bearbeiten` (Fachthema: fachgebiet-routing-zivil-oeffentlich-straf) — Fachgebiet Routing Zivil Öffentlich Straf
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fertigen-sonderfall-und-edge-case) — Fertigen Sonderfall und Edge Case
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fuehrt-risikoampel-und-gegenargumente) — Fuehrt Risikoampel und Gegenargumente
+- `fallfrage-bearbeiten` (Fachthema: gliederung-mit-tiefenstruktur) — Gliederung mit Tiefenstruktur
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -831,7 +831,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

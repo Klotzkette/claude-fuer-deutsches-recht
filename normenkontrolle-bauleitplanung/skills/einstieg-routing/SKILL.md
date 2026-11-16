@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für einen Normenkontrollauftrag: prüft zulässigen Antrag, planungsrechtliche Fehler und deren Beachtlichkeit und erstellt den beauftragten Hauptsache- oder Eilrechtsschutzentwurf."
 ---
 
-# Einstieg und Routing
+# Normenkontrolle gegen den Bebauungsplan vorbereiten
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Normenkontrolle Bauleitplanung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Prüfe den beauftragten Angriff auf den Bebauungsplan anhand der vollständigen Planungsakte. Verbinde Zulässigkeit, einzelne Planfehler und ihre Beachtlichkeit mit dem gewünschten Gutachten oder Antrag.
+
+## Arbeitsweg
+
+1. Erfasse angegriffenen Plan, Gemeinde, Bekanntmachung und Mandantenbetroffenheit. Verwechsle den Planangriff nicht mit dem Vorgehen gegen eine Baugenehmigung.
+2. Ordne Planzeichnung, textliche Festsetzungen, Begründung, Umweltunterlagen, Beteiligung und Abwägung. Weise fehlende Fassungen oder Bekanntmachungsbelege konkret aus.
+3. Prüfe Verfahrensweg und Fristen, dann den einzelnen Fehler mit Aktenbeleg, Gegenargument und seiner Bedeutung für die Wirksamkeit des Plans.
+4. Liefere den bestellten Antrag oder das Gutachten. Behandle vorläufigen Rechtsschutz gesondert, wenn eine aktuelle Vollzugslage ihn zum Gegenstand des Auftrags macht.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,14 +33,6 @@ Dieser Einstieg routet **Normenkontrolle Bauleitplanung** vom ersten Sachverhalt
 - `planangriff-und-verfahrensstand-bearbeiten` (Fachthema: aufstellungsbeschluss-bekanntmachung) — Aufstellungsbeschluss Bekanntmachung
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Normenkontrolle Bauleitplanung sind § 47 VwGO vor BayVGH und OVG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

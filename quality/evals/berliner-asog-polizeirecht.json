@@ -829,7 +829,7 @@
     "method": "desk_review",
     "reviewed_on": "2026-10-16",
     "prompt_path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
-    "sha256": "02e9718cbd11b29ad07f5fb7dde7bbf7d68617691fae931876b9227c574c666a",
+    "sha256": "545f2548cb7530785034223e77144c63ddf8b883d815618836e0c80c37e8ca79",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {

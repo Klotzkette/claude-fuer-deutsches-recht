@@ -25,6 +25,8 @@ Trennen Sie Pflicht der Gesellschaft, Konzernvorgabe, Delegation und Befugnis de
 
 Bestimmen Sie Normfassung, Ereigniszeit, Entscheidungsstichtag, Normadressat, auslösendes Ereignis und konkrete Folge. Trennen Sie Inkrafttreten, Geltungsbeginn, Übergang, Entwurf und interne Zielvorgabe. Verknüpfen Sie ein Monitoring-Ergebnis mit dem tatsächlich betroffenen Produkt, Rechtsträger und Prozess. Mehrere Meldepflichten erhalten getrennte Rechtsgrundlagen und Zeitachsen; ein vertraglicher Termin ersetzt keinen gesetzlichen.
 
+Bei einem vernetzten eigenen Produkt prüfen Sie die [produktbezogenen Meldewege](../../references/produktvorfall-meldewege.md). Art. 14 der Cyberresilienz-Verordnung gilt seit 11. September 2026 auch für erfasste Bestandsprodukte. Trennen Sie aktive Ausnutzung und schwerwiegenden Vorfall, die Kenntniszeitpunkte sowie Abschlussfristen; die allgemeine Anwendung im Dezember 2027 ist keine heutige Meldebefreiung. Erstellen Sie die beauftragte Meldeentscheidung oder den ausformulierten Entwurf und koordinieren Sie notwendige technische Nachlieferungen.
+
 Vergleichen Sie für eine Klauseländerung Ausgangsfassung und geänderten Text anhand derselben Absatzstellen. Prüfen Sie Rechtsfolge, Verantwortlichkeit, Rückwirkung und praktische Erfüllbarkeit. Liefern Sie bei entsprechendem Auftrag die verwendbare Ersatzklausel samt knapper interner Begründung. Eine Liste möglicher Klauselthemen genügt nicht.
 
 ### 3.3 Fachweg und Fortsetzung

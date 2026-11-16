@@ -11,7 +11,7 @@ Diese Vollprüfung enthält top-10 von 84 Skills des Plugins `zitierweise-deutsc
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Zitierweise Deutsches Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
-2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+2. **einstieg-routing** — Für eine juristische Quellenprüfung: gleicht Aussage, Originaltext und genaue Fundstelle ab und liefert berichtigte Zita…
 3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
 4. **juristische-erstpruefung-und-mandatsziel** — Für Juristische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: …
 5. **zitierweise-blindzitate-internationaler-bezug-schnittstellen** — Für Blindzitate: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitts…
@@ -148,31 +148,38 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht._
+_Für eine juristische Quellenprüfung: gleicht Aussage, Originaltext und genaue Fundstelle ab und liefert berichtigte Zitate mit offen ausgewiesenen Nachweislücken._
 
-# Einstieg und Routing
+# Rechtsquellen verifizieren und Zitate berichtigen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Zitierweise Deutsches Recht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Gleiche jede tragende Rechtsaussage mit ihrer Originalquelle und genauen Fundstelle ab. Berichtige den Text und weise fehlende Nachweise aus, ohne sie aus Erinnerung zu ergänzen.
+
+## Arbeitsweg
+
+1. Lies den zu prüfenden Text und ordne jeder tragenden Aussage ihre Fundstelle zu. Kläre, ob nur Zitatformat oder auch Aussage und Übertragbarkeit geprüft werden sollen.
+2. Öffne die Originalquelle und kontrolliere Gericht oder Autor, Datum, Aktenzeichen oder Werkfassung sowie konkrete Textstelle. Eine Trefferliste ersetzt keinen Volltext.
+3. Trenne belegte Aussage, eigene Schlussfolgerung und fehlenden Nachweis. Prüfe bei Rechtsprechung Sachverhalt und Verfahrenslage, bei Normen Fassung und Anwendungszeitpunkt.
+4. Liefere den korrigierten Text und eine knappe Liste offener Nachweise. Ergänze keine Randnummer, Auflage oder Literaturfundstelle aus bloßer Erinnerung.
 
 ## Fachlandkarte dieses Plugins
 
-- `aktenzeichen-schriftsatz-brief-und-memo-bausteine` — Aktenzeichen Schriftsatz Brief und Memo Bausteine
-- `aufsatz-interessen` — Aufsatz Interessen
-- `aufsatz-interessen-beckrs-blindzitate` — Aufsatz Interessen Beckrs Blindzitate
-- `beckrs-zahlen-schwellen-und-berechnung` — Beckrs Zahlen Schwellen und Berechnung
-- `blindzitate-internationaler-bezug-und-schnittstellen` — Blindzitate Internationaler Bezug und Schnittstellen
-- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
-- `datum-entscheidungsform-spezial-gericht` — Datum Entscheidungsform Spezial Gericht
-- `entscheidungsform-risikoampel-und-gegenargumente` — Entscheidungsform Risikoampel und Gegenargumente
-- `fristen-und-risikoampel` — Fristen und Risikoampel
-- `gericht-dokumentenmatrix-und-lueckenliste` — Gericht Dokumentenmatrix und Lueckenliste
-- `hauszitierweise-juristische-kommentar` — Hauszitierweise Juristische Kommentar
-- `juristische-erstpruefung-und-mandatsziel` — Juristische Erstpruefung und Mandatsziel
-- `kaltstart-triage` — Kaltstart Triage
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `rechtsprechung-verifizieren-bearbeiten` (Fachthema: aktenzeichen-schriftsatz-brief-und-memo-bausteine) — Aktenzeichen Schriftsatz Brief und Memo Bausteine
+- `literatur-fundstellen-bearbeiten` (Fachthema: aufsatz-interessen) — Aufsatz Interessen
+- `literatur-fundstellen-bearbeiten` (Fachthema: aufsatz-interessen-beckrs-blindzitate) — Aufsatz Interessen Beckrs Blindzitate
+- `quellenzugang-blindzitate-bearbeiten` (Fachthema: beckrs-zahlen-schwellen-und-berechnung) — Beckrs Zahlen Schwellen und Berechnung
+- `internationale-online-quellen-bearbeiten` (Fachthema: blindzitate-internationaler-bezug-und-schnittstellen) — Blindzitate Internationaler Bezug und Schnittstellen
+- `auftrag-belegbestand-bearbeiten` (Fachthema: chronologie-und-belegmatrix) — Chronologie und Belegmatrix
+- `rechtsprechung-verifizieren-bearbeiten` (Fachthema: datum-entscheidungsform-spezial-gericht) — Datum Entscheidungsform Spezial Gericht
+- `rechtsprechung-verifizieren-bearbeiten` (Fachthema: entscheidungsform-risikoampel-und-gegenargumente) — Entscheidungsform Risikoampel und Gegenargumente
+- `auftrag-belegbestand-bearbeiten` (Fachthema: fristen-und-risikoampel) — Fristen und Risikoampel
+- `auftrag-belegbestand-bearbeiten` (Fachthema: gericht-dokumentenmatrix-und-lueckenliste) — Gericht Dokumentenmatrix und Lueckenliste
+- `literatur-fundstellen-bearbeiten` (Fachthema: hauszitierweise-juristische-kommentar) — Hauszitierweise Juristische Kommentar
+- `auftrag-belegbestand-bearbeiten` (Fachthema: juristische-erstpruefung-und-mandatsziel) — Juristische Erstpruefung und Mandatsziel
+- `auftrag-belegbestand-bearbeiten` (Fachthema: kaltstart-triage) — Kaltstart Triage
+- `auftrag-belegbestand-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `auftrag-belegbestand-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 
@@ -188,14 +195,6 @@ Arbeitsfokus: **Einstieg und Routing**. Prüfe diese Anker am Sachverhalt; ergä
 - `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Zitierweise Deutsches Recht sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 
@@ -779,7 +778,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

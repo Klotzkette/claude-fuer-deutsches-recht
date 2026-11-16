@@ -552,7 +552,7 @@
       "Vollständiger Fachinhalt, zehn Skills und Fachrouten bleiben erhalten; kein Live-Modelllauf behauptet.",
       "Aktualitätssuche ergänzt BAG, Urteil vom 07.05.2026, 2 AZR 184/25: amtliche Gründe gelesen; auch ein vor dem Einwurf erzeugter Auslieferungsbeleg genügte im festgestellten Scan-Verfahren nicht. Frühere/offene und spätere abweichende Verfahren sowie Zeugenbeweis ausdrücklich abgegrenzt."
     ],
-    "sha256": "fc0baf8d729660a29000e4946cc22e704c63dd0c7c91a765638a26853364897e",
+    "sha256": "b6d98e0f37326f988e4ba25d250f94439a9fd9e2d66823a9b3e7b3ae6612baac",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
@@ -1208,7 +1208,7 @@
         "method": "visual_block_only",
         "date": "2026-11-16",
         "previous_sha256": "d1609f015791b6fbd2286225f9c30b8b7842f9271aa4e71d8460b72b05be24c2",
-        "sha256": "fc0baf8d729660a29000e4946cc22e704c63dd0c7c91a765638a26853364897e",
+        "sha256": "b6d98e0f37326f988e4ba25d250f94439a9fd9e2d66823a9b3e7b3ae6612baac",
         "body_sha256": "27f7b2e5ad835ccf96c6624d89cc8772f408d842f4aa7f43e358b41a79faf78d"
       }
     }

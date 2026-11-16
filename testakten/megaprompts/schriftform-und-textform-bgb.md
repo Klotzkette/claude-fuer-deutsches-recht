@@ -11,14 +11,14 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `schriftform-und-te
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Schriftform Und Textform BGB ein juristisches Arbeitsprodukt tragfähig begründet werden muss;…
-2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+2. **einstieg-routing** — Für eine konkrete Formfrage: prüft Formwahrung, zulässigen Formersatz, Zugang und mögliche Heilung und liefert eine begr…
 3. **formerfordernisse-erstpruefung-und-mandatsziel** — Für Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Erge…
 4. **maklervertrag-paragraf-656a-bgb-textform-pruefen** — Prüft Maklerverträge über Wohnungen und Einfamilienhäuser auf Textform, elektronischen Vertragsschluss und Provisionsver…
 5. **gewerberaummiete-paragraph-550-bgb-langzeitform** — Prüft langfristige Gewerberaum- und Grundstücksmietverträge nach Paragraf 578 in Verbindung mit Paragraf 550 BGB: Textfo…
-6. **empfangsbeduerftiger-international-schnittstellen** — Für Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
-7. **elektronische-paragraph-formerfordernisse** — Für Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur: ordnet Norm, Beweislast und Gegenargume…
-8. **mandantenwarnung-qes-per-email-whatsapp-und-zugang** — Für Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis: ordnet Norm, Beweislast und Gegenargument;…
-9. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+6. **workflow-kaltstart-und-routing** — Für Verträge und Erklärungen in Papier- oder elektronischer Form: klärt Rechtsgeschäft, Zeitpunkt und gesetzliche oder v…
+7. **empfangsbeduerftiger-international-schnittstellen** — Für Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+8. **elektronische-paragraph-formerfordernisse** — Für Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur: ordnet Norm, Beweislast und Gegenargume…
+9. **mandantenwarnung-qes-per-email-whatsapp-und-zugang** — Für Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis: ordnet Norm, Beweislast und Gegenargument;…
 10. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
 11. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
 12. **empfangsbeduerftiger-international** — Für Dokumentation: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittst…
@@ -155,39 +155,38 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `einstieg-routing`
 
-_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schriftform und Textform im BGB._
+_Für eine konkrete Formfrage: prüft Formwahrung, zulässigen Formersatz, Zugang und mögliche Heilung und liefert eine begründete Wirksamkeitsbewertung oder einen Korrekturvorschlag._
 
-# Einstieg und Routing
+# Formwirksamkeit prüfen und Mängel beheben
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Schriftform Und Textform Bgb** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
-
-## Fachlandkarte dieses Plugins
-
-- `amtlicher-formkern-bgb-zpo-check` — Amtlicher Formkern BGB ZPO Check
-- `anspruchsformulierungen-formverstoss` — Anspruchsformulierungen Formverstoss
-- `arbeitsrecht-befristung-schriftform-checker` — Arbeitsrecht Befristung Schriftform Checker
-- `befristungsabrede-qes-rechtsprechung` — Befristungsabrede QES Rechtsprechung
-- `befristungsabrede-qes-rechtsprechung-stand-2026` — Befristungsabrede QES Rechtsprechung Stand 2026
-- `bgb-mehrparteien-konflikt-und-interessen` — BGB Mehrparteien Konflikt und Interessen
-- `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` — Buergschaft Verbraucherdarlehen und Andere Strenge Formen
-- `checklisten-schriftsatz-brief-und-memo-bausteine` — Checklisten Schriftsatz Brief und Memo Bausteine
-- `dokumentations-und-beweisarchitektur` — Dokumentations und Beweisarchitektur
-- `elektronische-paragraph-formerfordernisse` — Elektronische Paragraph Formerfordernisse
-- `empfangsbeduerftiger-international` — Empfangsbeduerftiger International
-- `empfangsbeduerftiger-international-schnittstellen` — Empfangsbeduerftiger International Schnittstellen
-- `form-checker-fuer-vertrag-oder-willenserklaerung` — Form Checker Für Vertrag Oder Willenserklaerung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+Prüfe, ob die konkrete Erklärung die maßgebliche Form wahrt. Erläutere die Rechtsfolge eines Mangels und arbeite einen rechtlich möglichen Korrekturweg aus.
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Schriftform Und Textform Bgb sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Bestimme Rechtsgeschäft, beteiligte Personen und maßgeblichen Zeitpunkt. Trenne gesetzliche Form, vertraglich vereinbarte Form und bloße Nachweispflichten.
+2. Untersuche die tatsächlich abgegebene Fassung einschließlich Unterschrift oder Signatur, Anlagen und Zugang. Eine Bildschirmansicht ersetzt die Prüfung der Originaldatei nicht.
+3. Prüfe die einschlägige Formnorm und zulässige Ersatzformen. Ordne jeden Mangel seiner möglichen Rechtsfolge und einer ausdrücklich vorgesehenen Heilung zu.
+4. Liefere eine fallbezogene Bewertung und bei Auftrag einen ausführbaren Korrekturweg. Halte fest, welches Dokument neu erklärt, unterzeichnet oder übermittelt werden muss und welche Frist dabei bleibt.
+
+## Fachlandkarte dieses Plugins
+
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: amtlicher-formkern-bgb-zpo-check) — Amtlicher Formkern BGB ZPO Check
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: anspruchsformulierungen-formverstoss) — Anspruchsformulierungen Formverstoss
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: arbeitsrecht-befristung-schriftform-checker) — Arbeitsrecht Befristung Schriftform Checker
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: befristungsabrede-qes-rechtsprechung) — Befristungsabrede QES Rechtsprechung
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: befristungsabrede-qes-rechtsprechung-stand-2026) — Befristungsabrede QES Rechtsprechung Stand 2026
+- `bereicherung-und-rueckabwicklung-bearbeiten` (Fachthema: bgb-mehrparteien-konflikt-und-interessen) — BGB Mehrparteien Konflikt und Interessen
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: buergschaft-verbraucherdarlehen-und-andere-strenge-formen) — Buergschaft Verbraucherdarlehen und Andere Strenge Formen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: checklisten-schriftsatz-brief-und-memo-bausteine) — Checklisten Schriftsatz Brief und Memo Bausteine
+- `einwendungen-fristen-und-durchsetzung-bearbeiten` (Fachthema: dokumentations-und-beweisarchitektur) — Dokumentations und Beweisarchitektur
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: elektronische-paragraph-formerfordernisse) — Elektronische Paragraph Formerfordernisse
+- `bereicherung-und-rueckabwicklung-bearbeiten` (Fachthema: empfangsbeduerftiger-international) — Empfangsbeduerftiger International
+- `bereicherung-und-rueckabwicklung-bearbeiten` (Fachthema: empfangsbeduerftiger-international-schnittstellen) — Empfangsbeduerftiger International Schnittstellen
+- `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: form-checker-fuer-vertrag-oder-willenserklaerung) — Form Checker Für Vertrag Oder Willenserklaerung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Qualitätsanker
 
@@ -471,6 +470,55 @@ Je nach Auftrag liefere eines oder mehrere der folgenden Arbeitsprodukte:
 7. Ergebnis mit Kündigungstermin, Beweisrisiko und nächstem Schritt abschließen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für Verträge und Erklärungen in Papier- oder elektronischer Form: klärt Rechtsgeschäft, Zeitpunkt und gesetzliche oder vereinbarte Form; sichert Unterschrift, Signatur und Übermittlungsbelege._
+
+# Erklärung und geltende Formanforderung bestimmen
+
+## Aufgabe
+
+Bestimme für die vorgelegte Erklärung das maßgebliche Formerfordernis. Sichere Fassung, Unterschrift oder Signatur und Übermittlungsbelege, bevor du ihre Wirksamkeit beurteilst.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsablauf
+
+1. Bestimme Rechtsgeschäft, beteiligte Personen und maßgeblichen Zeitpunkt. Trenne gesetzliche Form, vertraglich vereinbarte Form und bloße Nachweispflichten.
+2. Untersuche die tatsächlich abgegebene Fassung einschließlich Unterschrift oder Signatur, Anlagen und Zugang. Eine Bildschirmansicht ersetzt die Prüfung der Originaldatei nicht.
+3. Prüfe die einschlägige Formnorm und zulässige Ersatzformen. Ordne jeden Mangel seiner möglichen Rechtsfolge und einer ausdrücklich vorgesehenen Heilung zu.
+4. Liefere eine fallbezogene Bewertung und bei Auftrag einen ausführbaren Korrekturweg. Halte fest, welches Dokument neu erklärt, unterzeichnet oder übermittelt werden muss und welche Frist dabei bleibt.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Formanforderungen richtig unterscheiden
+
+- **Gesetzliche Schriftform:** [§ 126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html) verlangt grundsätzlich eigenhändige Unterzeichnung oder notariell beglaubigtes Handzeichen. Bei Verträgen gleichlautende, für die jeweils andere Partei bestimmte Urkunden nach Absatz 2 berücksichtigen. Eine bloße Faxkopie nicht mit einer formgerechten Originalerklärung gleichsetzen; für vereinbarte Form [§ 127 BGB](https://www.gesetze-im-internet.de/bgb/__127.html) gesondert prüfen.
+- **Elektronische Form:** [§ 126a BGB](https://www.gesetze-im-internet.de/bgb/__126a.html) verlangt Namensangabe und qualifizierte elektronische Signatur, bei Verträgen für beide gleichlautenden Erklärungen. Ob sie die gesetzliche Schriftform ersetzen darf, folgt aus § 126 Abs. 3 und den Spezialnormen. Einfache elektronische Signatur, Scan und qualifizierte Signatur auseinanderhalten.
+- **Textform:** § 126b BGB verlangt eine lesbare Erklärung mit Nennung der erklärenden Person auf einem dauerhaften Datenträger. Für E-Mail, Messenger oder Portal die konkrete Speicher- und Wiedergabemöglichkeit prüfen; der Kanalname allein entscheidet nicht.
+- **Beglaubigung und Beurkundung:** Unterschriftsbeglaubigung und notarielle Beurkundung sind verschiedene Formen. Der Grundstückskauf nach § 311b Abs. 1 BGB und die Abtretung eines GmbH-Anteils nach § 15 Abs. 3 GmbHG bedürfen notarieller Beurkundung. Das [eigenhändige Testament nach § 2247 BGB](https://www.gesetze-im-internet.de/bgb/__2247.html) dagegen wird eigenhändig geschrieben und unterschrieben; die besonderen Voraussetzungen bleiben zu prüfen.
+- **Rechtsfolge und Heilung:** Gesetzlichen und vereinbarten Formmangel nach § 125 BGB trennen. Bei § 311b Abs. 1 Satz 2 BGB heilen erst **Auflassung und Grundbucheintragung**; bei [§ 766 Satz 3 BGB](https://www.gesetze-im-internet.de/bgb/__766.html) die Erfüllung durch den Bürgen im Umfang der Erfüllung. § 766 Satz 2 schließt gerade die elektronische Form aus. Keine allgemeine Heilung durch Vertragsdurchführung annehmen.
+- **AGB und Individualabrede:** [§ 309 Nr. 13 BGB](https://www.gesetze-im-internet.de/bgb/__309.html) nach Art der Erklärung, Vertrag und Anwendungsbereich prüfen. [§ 305b BGB](https://www.gesetze-im-internet.de/bgb/__305b.html) sichert den Vorrang einer Individualabrede; daraus folgt nicht die pauschale Unwirksamkeit jeder Schriftformklausel. Maßgebliche Vertrags- und Normfassung festhalten.
 
 ---
 
@@ -815,51 +863,6 @@ Löschen Sie die Datei NICHT, bevor wir sie geprüft haben.
 - **Frist versäumt durch Ignorieren der E-Mail**: Selbst wenn der Mieter die E-Mail nicht gelesen hat, beginnt die Frist für ggf. erforderliche Handlungen ab Zugang zu laufen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `workflow-kaltstart-und-routing`
-
-_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schriftform und Textform im BGB._
-
-# Kaltstart und Routing
-
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## Form-Triage — Pflicht-Differenzierung
-- **Schriftform Paragraf 126 BGB:** eigenhändige Unterschrift unter der Urkunde; bei Verträgen Identitätswahrung der Urkunde (Telefaxgenügsamkeit aufgehoben).
-- **Elektronische Form Paragraf 126a BGB:** Ersetzt Schriftform durch qualifizierte elektronische Signatur (qES) nach eIDAS-VO (EU 910/2014). Achtung: einfache oder fortgeschrittene Signatur reicht NICHT.
-- **Textform Paragraf 126b BGB:** lesbare Erklärung auf dauerhaftem Datenträger, Person des Erklärenden genannt — E-Mail, PDF, SMS, WhatsApp können genügen; keine Unterschrift erforderlich.
-- **Öffentliche Beglaubigung Paragraf 129 BGB / notarielle Beurkundung Paragraf 128 BGB:** Bei Paragrafen 311b I BGB (Immobilien), Paragraf 15 GmbHG (GmbH-Anteile), Paragraf 2247 BGB (Testament) zwingend.
-- **Rechtsfolge Formverstoß:** Paragraf 125 BGB Nichtigkeit; Heilung möglich (z. B. Paragraf 311b I 2 BGB Auflassung, Paragraf 766 S. 2 BGB Erfüllung), aber nicht generell.
-- Falle: AGB-Klausel "Änderungen bedürfen der Schriftform" gilt unter Verbrauchern oft nicht (Paragraf 309 Nr. 13 BGB seit 01.10.2016 — Textform statt Schriftform); einfache Schriftformklausel verstößt gegen Paragraf 305b BGB.
 
 ---
 
@@ -1223,7 +1226,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

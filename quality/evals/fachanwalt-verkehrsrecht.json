@@ -178,7 +178,7 @@
       "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b765d8eb3b6e93061ec3e517cad0d4490bb54cdef241d1b5ecf70de3d6b17f52"
+    "sha256": "c8c00b5f2331ce857ebdec160b87c848026e62ed8b4882986a0487cfff68f697"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

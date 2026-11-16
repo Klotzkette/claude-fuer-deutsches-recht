@@ -2,7 +2,7 @@
 
 ## 1 Prüfstand und Anwendung
 
-Die folgenden Primärquellen wurden am 6. November 2026 geprüft. Vor der produktiven Erstellung sind Formatstand und Empfängeranforderungen erneut abzugleichen. Ein formal akzeptierter Datensatz belegt weder die tatsächliche Leistung noch die Richtigkeit ihrer steuerlichen Behandlung. Die Versionsangabe in einer Rechnung und der tatsächlich verwendete Validatorstand sind getrennt zu protokollieren.
+Die technischen Quellen wurden am 6. November 2026 geprüft. Die ergänzenden steuerlichen Aussagen in Abschnitten 3.5 bis 3.7 beruhen auf der gezielten Volltextprüfung vom 16. November 2026; damit wird keine erneute Prüfung aller technischen Standards behauptet. Vor der produktiven Erstellung sind Formatstand und Empfängeranforderungen erneut abzugleichen. Ein formal akzeptierter Datensatz belegt weder die tatsächliche Leistung noch die Richtigkeit ihrer steuerlichen Behandlung. Die Versionsangabe in einer Rechnung und der tatsächlich verwendete Validatorstand sind getrennt zu protokollieren.
 
 ## 2 Technische Standards
 
@@ -36,9 +36,35 @@ Eine umsatzsteuerliche Gutschrift entsteht aufgrund vorheriger Vereinbarung durc
 
 ### 3.4 Übergang, Empfänger und Aufbewahrung
 
-[§ 27 Abs. 38 UStG](https://www.gesetze-im-internet.de/ustg_1980/__27.html) enthält die Übergangsregeln: Bis Ende 2026 können die dort bezeichneten Umsätze noch mit sonstigen Rechnungen abgerechnet werden. Für 2027 gilt die umsatzabhängige Verlängerung bis 800.000 Euro Vorjahresgesamtumsatz; die weiteren gesetzlichen Voraussetzungen und die gesonderte EDI-Regel sind zu beachten. Diese Regeln sind keine allgemeine B2G-Portalregel und keine Verschiebung der Fähigkeit, E-Rechnungen zu empfangen. Die [BMF-FAQ](https://www.bundesfinanzministerium.de/Content/DE/FAQ/e-rechnung.html) dient als amtlicher steuerlicher Einstieg; sie ersetzt keine Einzelfallprüfung.
+[§ 27 Abs. 38 UStG](https://www.gesetze-im-internet.de/ustg_1980/__27.html) verbindet den Leistungszeitraum mit dem Übermittlungszeitpunkt: Für 2025/2026 ausgeführte Umsätze sind bis 31.12.2026 Papier oder mit Empfängerzustimmung andere elektronische Formate zulässig. Für 2027 ausgeführte Umsätze gilt dies bis 31.12.2027, wenn der Gesamtumsatz nach § 19 Abs. 2 UStG des Ausstellers im Vorjahr höchstens 800.000 Euro betrug. Maßgeblich ist der Ausstellerumsatz, nicht der Rechnungsbetrag oder Kundenumsatz; genau 800.000 Euro überschreitet die Grenze nicht. Die gesonderte EDI-Alternative nach Nr. 3 ebenfalls mit ihren Voraussetzungen prüfen. Diese Regeln sind keine allgemeine B2G-Portalregel und keine Verschiebung der Fähigkeit, E-Rechnungen zu empfangen. Die [BMF-FAQ](https://www.bundesfinanzministerium.de/Content/DE/FAQ/e-rechnung.html) dient als amtlicher steuerlicher Einstieg; sie ersetzt keine Einzelfallprüfung.
 
 Nach [§ 14b UStG](https://www.gesetze-im-internet.de/ustg_1980/__14b.html) sind Rechnungen grundsätzlich acht Jahre aufzubewahren; der Fristbeginn und andere anwendbare Vorschriften sind gesondert zu beachten. Der strukturierte Originaldatensatz, die tatsächlich erzeugte Hybriddatei und der zugehörige Prüfbericht sollen unverändert mit der nachvollziehbaren Bearbeitungsfassung erhalten bleiben. Ein Screenshot allein ersetzt die aufbewahrungspflichtige Rechnung nicht.
+
+### 3.5 Steuerliche Fehler und technische Ablehnung auseinanderhalten
+
+Das [BMF-Schreiben vom 15.10.2026](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2026-10-15-obligatorische-elektronische-rechnung.pdf?__blob=publicationFile&v=1), GZ III C 5 – S 7287-a/00019/021/017, Rn. 22–23, trennt einen steuerlichen Formatfehler von einem Geschäftsregelfehler. Ein Geschäftsregelfehler wird erst dann zum steuerlichen Inhaltsfehler, wenn er eine umsatzsteuerliche Pflichtangabe betrifft. Eine technisch nicht EN-16931-konforme Datei kann deshalb steuerlich prinzipiell dennoch eine E-Rechnung sein. Umgekehrt ersetzt ein positives technisches Ergebnis keine Prüfung der §§ 14, 14a und 15 UStG. Es handelt sich um Verwaltungsauffassung, nicht um einen gerichtlichen Rechtssatz oder eine Änderung der Norm EN 16931.
+
+Erfasse für jeden tatsächlichen Validatorbefund Regelkennung, Feld, Beanstandung, betroffene Steuerpflichtangabe und mögliche Empfangsfolge. Berichte technische Konformität, steuerlichen Befund und Portalannahme getrennt. Eine fehlende Bestellreferenz rechtfertigt ohne Prüfung ihrer Funktion keine pauschale Versagung des Vorsteuerabzugs. Ein falscher Steuersatz wird durch technisch plausible Summen nicht richtig. Eine bekannte technisch fehlerhafte Datei wird in dieser Erstellungswerkstatt weiterhin korrigiert; die Unterscheidung ist keine Erlaubnis, den Validator abzuschalten.
+
+### 3.6 Leistungsbeschreibung, Bauleistung und zeitliche Erleichterungen
+
+Nach dem BMF-Schreiben, Rn. 10–12, müssen die strukturierten Angaben die Leistung und ihre steuerliche Behandlung kontrollierbar machen. Ein bloßes „siehe Anlage“ reicht dafür regelmäßig nicht. Zusätzliche Stundenaufschlüsselungen dürfen eingebettet beigefügt werden, soweit die notwendigen Angaben bereits strukturiert vorliegen. Für Bauleistungen lässt Rn. 13–14 derzeit die Gewerke und ihre Summen im strukturierten Teil mit einer eindeutig referenzierten, eingebetteten menschenlesbaren LV-Aufschlüsselung zu. Eine zusätzliche GAEB-Datei ersetzt diese menschenlesbare Anlage nicht. B2G-Recht und Portalbedingungen bleiben daneben zu prüfen (Rn. 24–25).
+
+Für die Übergänge ist der jeweilige Anknüpfungspunkt festzuhalten:
+
+| Fall | Zeitlicher Maßstab und Prüfauftrag |
+| --- | --- |
+| Allgemeine Anwendung | Nach der Anwendungsregelung auf Seite 10 Umsätze nach dem 31.12.2024; § 27 Abs. 38 UStG daneben prüfen. |
+| Anzahlungs-/Abschlagsrechnung | Nach Rn. 2 darf eine vor Beginn der individuellen E-Rechnungspflicht erteilte Rechnung im bisherigen zulässigen Format bleiben, auch bei späterer Leistung und Zahlung. |
+| Vorheriger Verwaltungsstand | Bis 31.12.2026 ausgestellte E-Rechnungen nach den Vorgaben der Schreiben von 2024 und 2025 werden hinsichtlich zusätzlicher Anforderungen des Schreibens 2026 auch beim Vorsteuerabzug nicht beanstandet. Kein allgemeiner Erlass bestehender Mängel. |
+| Endrechnung | Bis 30.06.2030 können vereinnahmte Teilentgelte nach Rn. 3 als Summe in BT-113 und die erforderlichen Einzelangaben in BT-22 erfasst werden; alternativ die Anlage nach Rn. 4 mit ausdrücklichem strukturiertem Verweis. Zahlung, Nettoteilentgelt und Steuer abgleichen; kein doppelter Abzug. |
+| Bruttopreise | Für bis 31.12.2027 ausgestellte Rechnungen erlaubt Rn. 19 gruppierte Entgelt- und Steuerangaben mit eindeutig referenzierter, eingebetteter menschenlesbarer Einzelaufstellung. Nicht ohne Beleg Nettoeinzelpreise verändern. |
+
+Diese Verwaltungsregelungen erweitern nicht den vorhandenen lokalen Rechnungsgenerator. Er unterstützt weiterhin nur seinen dokumentierten Standardfall. Für Sonderfälle einen passenden Erzeuger benutzen und die konkreten endgültigen Dateien prüfen.
+
+### 3.7 Eine Zahlungsanforderung ist nicht kraft Überschrift steuerlich harmlos
+
+[BFH, Beschluss vom 19.03.2025 – XI R 4/22, Rn. 15–18 und 23–27](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520218/) betrifft Abforderungsschreiben für fremde Honorare. Prüfe Aussteller, behauptete Leistung, Steuerausweis und eindeutig einbezogene Unterlagen gemeinsam. Auch ein als Zahlungspapier bezeichneter Beleg kann § 14c Abs. 2 UStG auslösen; sämtliche Pflichtangaben einer zum Vorsteuerabzug berechtigenden Rechnung müssen dafür nicht vorhanden sein. Ergänzende Unterlagen sind zu berücksichtigen, widersprüchlicher offener Steuerausweis kann die Gefährdung aber erhalten. Der Fall liefert keine pauschale Steuerpflicht jedes Zahlungsavis und keine technische E-Rechnungsanforderung. Im Arbeitsablauf zuerst klären, ob überhaupt eine eigene Leistung fakturiert werden soll; einen fremden durchlaufenden Betrag nicht ungeprüft in eine neue Umsatzsteuerrechnung umwandeln.
 
 ## 4 Lizenzen und Fremdkomponenten
 

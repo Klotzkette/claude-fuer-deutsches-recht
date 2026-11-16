@@ -67,7 +67,7 @@
       "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "bfd6330a31764ab42b094bb7e42135f3cd5a01f6987a662227578696eee11cbc"
+    "sha256": "3b1db69a0bc7fc0a71501d914d35daf06cbb5e1e7ca10798c4a6b84dc104b0ed"
   },
   "selection": {
     "positive": [

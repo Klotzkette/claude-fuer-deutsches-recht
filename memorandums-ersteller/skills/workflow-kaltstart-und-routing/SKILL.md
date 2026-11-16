@@ -1,26 +1,29 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Memorandums-Ersteller."
+description: "Für einen noch unklaren Memo-Auftrag: bestimmt Adressat, zu treffende Entscheidung und tragende Tatsachen aus den vorhandenen Unterlagen und beginnt die bereits beantwortbaren Fragen."
 ---
 
-# Kaltstart und Routing
+# Memo-Auftrag und Entscheidungsfragen klären
 
 ## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Formuliere aus Auftrag und Unterlagen die Fragen, die das Memorandum beantworten muss. Beginne mit den bereits entscheidbaren Punkten und kläre nur dafür erhebliche Lücken.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsablauf
+
+1. Lies Auftrag und Unterlagen und formuliere die Entscheidung, die der Adressat treffen muss. Übernimm bestehende Umfangs- und Formatvorgaben.
+2. Trenne gesicherte Tatsachen, fremde Behauptungen und eigene Annahmen. Frage nur nach Lücken, die eine Antwort oder Empfehlung ändern.
+3. Prüfe jede Frage anhand der einschlägigen Normfassung und tragenden Quellen; behandle das stärkste Gegenargument und dessen praktische Folge.
+4. Liefere das ausformulierte Memo mit Kurzantwort und begründeter Empfehlung. Quellenkontrolle und technische Exportnotizen bleiben vom Empfängertext getrennt.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
@@ -47,15 +50,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 2. **Frage(n)** (präzise; bei mehreren Anspruchsgrundlagen separat).
 3. **Kurzantwort** (1 Satz; trifft die zentrale Aussage).
 4. **Rechtliche Bewertung** (Gutachtenstil: Obersatz, Definition, Subsumtion, Zwischenergebnis je Tatbestandsmerkmal).
-5. **Gesamtergebnis** (klare Empfehlung + Wahrscheinlichkeit).
+5. **Gesamtergebnis** (begründete Empfehlung; keine erfundene Erfolgsquote).
 6. **Risiken / offene Punkte** (was kann anders entschieden werden? Was fehlt an Tatsachen?).
 7. **Quellenverzeichnis** (gem. `references/zitierweise.md`; Rspr. vor Lit., neueste zuerst).
 
 ## Tipps
-- Maximal 1 Seite Sachverhalt, sonst Anhang. Memo soll auf 5-10 Seiten lesbar bleiben.
+- Umfang nach Entscheidungsbedarf und Auftrag bemessen. Die Kurzantwort knapp halten; komplexe Sachverhalte, Varianten und Beweisfragen so ausführlich prüfen, wie eine belastbare Empfehlung es erfordert.
 - Auslegung nach Savigny-Kanon (Wortlaut, Systematik, Historie, Telos) plus verfassungs-/unionsrechtskonform.
 - Anspruchspyramide: Vertrag → c.i.c. → GoA → dinglich → Delikt → Bereicherung.
-- Falle: "Risiken / offene Punkte" weggelassen — gerade hier dokumentieren Sie Haftungsbegrenzung; ein Memo ohne offene Punkte ist verdächtig.
+- Offene Punkte nur nennen, wenn sie für das Ergebnis bedeutsam sind. Dokumentation einer Unsicherheit ist keine Haftungsbegrenzung und ersetzt ihre Aufklärung nicht.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

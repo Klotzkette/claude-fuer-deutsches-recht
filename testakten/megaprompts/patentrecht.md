@@ -158,20 +158,20 @@ Bestimme aus Auftrag, Anspruchsfassung und technischen Unterlagen, ob eine Anmel
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-patentverletzung-verteidigung` — Abmahnung Patentverletzung Verteidigung
-- `anspruchsentwurf-dokumentenmatrix-und-lueckenliste` — Anspruchsentwurf Dokumentenmatrix und Lueckenliste
-- `beschreibung-zeichnungen-einspruch-epa-epo` — Beschreibung Zeichnungen Einspruch EPA EPO
-- `einspruch-epa-und-nichtigkeit-bpatg` — Einspruch EPA und Nichtigkeit Bpatg
-- `epo-epue-einspruch-beschwerde-beschraenkung` — EPO Epue Einspruch Beschwerde Beschraenkung
-- `erfinderbenennung-arbeitnehmererfindung` — Erfinderbenennung Arbeitnehmererfindung
-- `erfindungsaufnahme-tatbestand-beweis-und-belege` — Erfindungsaufnahme Tatbestand Beweis und Belege
-- `erfindungsmeldung-aufnahme-und-rueckfragen` — Erfindungsmeldung Aufnahme und Rueckfragen
-- `freedom-to-operate-und-schutzbereich` — Freedom TO Operate und Schutzbereich
-- `gebrauchsmuster-patent-patentrechts` — Gebrauchsmuster Patent Patentrechts
-- `internationaler-patentrechts-und-laendercheck` — Internationaler Patentrechts und Laendercheck
-- `israel-patentrecht-ilpo-opposition-revocation` — Israel Patentrecht Ilpo Opposition Revocation
-- `japan-jpo-kanada-cipo-loeschung-widerruf` — Japan JPO Kanada Cipo Loeschung Widerruf
-- `dokumente-intake` — Dokumente Intake
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: abmahnung-patentverletzung-verteidigung) — Abmahnung Patentverletzung Verteidigung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anspruchsentwurf-dokumentenmatrix-und-lueckenliste) — Anspruchsentwurf Dokumentenmatrix und Lueckenliste
+- `verfahren-bearbeiten` (Fachthema: beschreibung-zeichnungen-einspruch-epa-epo) — Beschreibung Zeichnungen Einspruch EPA EPO
+- `verfahren-bearbeiten` (Fachthema: einspruch-epa-und-nichtigkeit-bpatg) — Einspruch EPA und Nichtigkeit Bpatg
+- `verfahren-bearbeiten` (Fachthema: epo-epue-einspruch-beschwerde-beschraenkung) — EPO Epue Einspruch Beschwerde Beschraenkung
+- `technische-lehre-bearbeiten` (Fachthema: erfinderbenennung-arbeitnehmererfindung) — Erfinderbenennung Arbeitnehmererfindung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: erfindungsaufnahme-tatbestand-beweis-und-belege) — Erfindungsaufnahme Tatbestand Beweis und Belege
+- `rechtsbestand-bearbeiten` (Fachthema: erfindungsmeldung-aufnahme-und-rueckfragen) — Erfindungsmeldung Aufnahme und Rueckfragen
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: freedom-to-operate-und-schutzbereich) — Freedom TO Operate und Schutzbereich
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: gebrauchsmuster-patent-patentrechts) — Gebrauchsmuster Patent Patentrechts
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: internationaler-patentrechts-und-laendercheck) — Internationaler Patentrechts und Laendercheck
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: israel-patentrecht-ilpo-opposition-revocation) — Israel Patentrecht Ilpo Opposition Revocation
+- `schutzbereich-und-fto-bearbeiten` (Fachthema: japan-jpo-kanada-cipo-loeschung-widerruf) — Japan JPO Kanada Cipo Loeschung Widerruf
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -845,7 +845,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

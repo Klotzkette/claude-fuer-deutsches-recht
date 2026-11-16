@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Nachbarschaftsstreit-Prüfer."
+description: "Für einen konkreten Nachbarstreit: prüft Anspruch, Duldung und Landesrecht und erstellt das passende Aufforderungs-, Einigungs- oder beauftragte Prozessdokument."
 ---
 
-# Einstieg und Routing
+# Nachbarrechtlichen Anspruch und Lösungsweg prüfen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Nachbarschaftsstreit Prüfer** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Prüfe Anspruch und Duldung im konkreten Nachbarstreit einschließlich des einschlägigen Landesrechts. Arbeite den beauftragten Lösungsweg in ein verständliches Schreiben oder einen Entwurf aus.
+
+## Arbeitsweg
+
+1. Ordne Grundstücke, Eigentümer, Nutzer und Lage der Störung anhand von Plan, Registerunterlagen und Fotos zu. Trenne eigene Wahrnehmung von Vermutungen über die Ursache.
+2. Erstelle eine Chronologie aus Ereignissen, Beschwerden, Reaktionen und Belegen. Ermittle Dauer, Häufigkeit und konkrete Auswirkungen der Beeinträchtigung.
+3. Prüfe Anspruch und Duldung einschließlich einschlägigen Landesrechts. Vergleiche den rechtlich möglichen Weg mit einer praktischen Einigung und etwaiger Dringlichkeit.
+4. Liefere das beauftragte Schreiben mit konkret beschriebenem Verhalten und Belegen. Ergänze neue Messungen oder Erklärungen an der betroffenen Tatsachenstelle.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,14 +33,6 @@ Dieser Einstieg routet **Nachbarschaftsstreit Prüfer** vom ersten Sachverhalt z
 - `grundstuecke-und-beteiligte-bearbeiten` (Fachthema: grenzbaum-grenzanlage-hammerschlags) — Grenzbaum Grenzanlage Hammerschlags
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 - `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Nachbarschaftsstreit Prüfer sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

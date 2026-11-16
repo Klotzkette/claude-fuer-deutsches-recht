@@ -174,21 +174,21 @@ Dieser Einstieg routet **Fachanwalt Bau Architektenrecht** vom ersten Sachverhal
 
 ## Fachlandkarte dieses Plugins
 
-- `abnahmefiktion-paragraf-640-bgb-pruefen` — Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen
-- `abnahme-quellenkarte` — Abnahme Quellenkarte
-- `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
-- `einstieg-schnelltriage-fallrouting` — BAU Abnahme Nachtrag
-- `abnahme-verweigerung` — Bauablauf VBG
-- `nachbarklage-baugenehmigung-frist-und-drittschutz` — Nachbarklage gegen eine Baugenehmigung prüfen
-- `bauordnungsrecht-behoerden-gericht-und-registerweg` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
-- `bautraeger-abnahme-formgerecht-640-bgb` — Bautraeger Abnahme Formgerecht Abnahmefiktion
-- `bautraeger-belehrungspflicht-17-beurkg` — Bautraeger Belehrungspflicht
-- `bautraeger-gemeinschaftliche-maengelverfolgung-weg` — Bautraeger Gemeinschaftliche
-- `bautraeger-leistungsbeschreibung-baubeschreibung` — Bautraeger Leistungsbeschreibung
-- `bautraeger-mabv-grundlagen-1-2` — Bautraeger MABV Grundlagen Ratenplan
-- `bautraeger-mabv-vollstaendigkeitserklaerung-7` — Bautraeger MABV Vollstaendigkeitserklaerung
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `arbeitsprodukt-bearbeiten` (Fachthema: abnahmefiktion-paragraf-640-bgb-pruefen) — Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: abnahme-quellenkarte) — Abnahme Quellenkarte
+- `architekt-bearbeiten` (Fachthema: architektenhonorar-hoai-mindestsatz-eugh-c-377-17) — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
+- `architekt-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — BAU Abnahme Nachtrag
+- `bauablauf-bearbeiten` (Fachthema: abnahme-verweigerung) — Bauablauf VBG
+- `vertragssoll-bearbeiten` (Fachthema: nachbarklage-baugenehmigung-frist-und-drittschutz) — Nachbarklage gegen eine Baugenehmigung prüfen
+- `vertragssoll-bearbeiten` (Fachthema: bauordnungsrecht-behoerden-gericht-und-registerweg) — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
+- `bauablauf-bearbeiten` (Fachthema: bautraeger-abnahme-formgerecht-640-bgb) — Bautraeger Abnahme Formgerecht Abnahmefiktion
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-belehrungspflicht-17-beurkg) — Bautraeger Belehrungspflicht
+- `arbeitsprodukt-bearbeiten` (Fachthema: bautraeger-gemeinschaftliche-maengelverfolgung-weg) — Bautraeger Gemeinschaftliche
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-leistungsbeschreibung-baubeschreibung) — Bautraeger Leistungsbeschreibung
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-mabv-grundlagen-1-2) — Bautraeger MABV Grundlagen Ratenplan
+- `vertragssoll-bearbeiten` (Fachthema: bautraeger-mabv-vollstaendigkeitserklaerung-7) — Bautraeger MABV Vollstaendigkeitserklaerung
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -832,7 +832,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

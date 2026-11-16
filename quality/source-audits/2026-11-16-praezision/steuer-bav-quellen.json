@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-16",
+  "method": "gezielte_amtliche_volltextpruefung",
+  "sources": [
+    {
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2026-10-15-obligatorische-elektronische-rechnung.pdf?__blob=publicationFile&v=1",
+      "supports": "BMF 15.10.2026, GZ III C 5 – S 7287-a/00019/021/017; Rn. 2–4, 10–14, 19–25; Anwendungsregelung S. 10",
+      "sha256": "af65d13f4d06bec52c425a0a021b2526f5acaa70a8c8b8fc628d9785547b12e6"
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520218/",
+      "supports": "BFH Beschluss 19.03.2025 – XI R 4/22; Rn. 15–18 und 23–27; Randnummern über data-rd des amtlichen HTML bestimmt",
+      "sha256": "65fa68b18bc40b306598fd90094c141e190702074261961d1401e7ba45e5a8c7"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__27.html",
+      "supports": "§ 27 Abs. 38 UStG: Ausführungs- und Übermittlungszeitraum, Ausstellerumsatz, 800.000-Euro-Grenze, Zustimmung und EDI",
+      "sha256": "58f8018d2dc7512cea52ca14847700b68fe07c8bfa3bc4e4aebc29c5f7451ee0"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/14/regelungstext.pdf?__blob=publicationFile&v=2",
+      "supports": "Zweites Betriebsrentenstärkungsgesetz: Art. 1 Nr. 3, Art. 2 Nr. 2 und Art. 18 bestätigt; keine bAV-Datei verändert",
+      "sha256": "68e9b12468cf74a88a782cf10667bc1ad007d60d79db00fab17ec22ca2b7cef7"
+    }
+  ]
+}

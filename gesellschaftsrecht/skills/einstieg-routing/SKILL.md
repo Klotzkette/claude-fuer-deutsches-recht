@@ -1,13 +1,13 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
+description: "Für eine konkrete Gesellschaftsmaßnahme: verbindet Beschluss, Vertretungsnachweis, Vertrag und Registervollzug und liefert die dafür beauftragten Entwürfe."
 ---
 
-# Einstieg und Routing
+# Gesellschaftsmaßnahme rechtlich umsetzen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Setze die beauftragte Gesellschaftsmaßnahme in die erforderlichen Beschlüsse, Verträge und Vollzugsschritte um. Halte Organbefugnis, Vertretungsmacht und Registerwirkung auseinander.
 
 ## Kernrouten zuerst
 
@@ -23,6 +23,13 @@ Die erste Weiche ist nicht die längste Skillliste, sondern der gesellschaftsrec
 | Krise, Haftung und Compliance | Paragraf 43 GmbHG, Zahlungsverbot, Ressort, Business Judgment | Haftungsmemo mit Entlastungsbelegen |
 
 Beiratsfragen sind eine Spezialspur. Nutze sie erst, wenn Satzungsgrundlage, Entscheidungsbefugnis, Haftung oder Vetorecht tatsächlich streitentscheidend sind.
+
+## Arbeitsweg
+
+1. Bestimme Gesellschaft, Rechtsform und Mandantenrolle aus Satzung, Register und Auftrag. Ordne Tochtergesellschaften und einzelne Organpersonen eindeutig zu.
+2. Sichere aktuelle Fassungen von Gesellschaftsvertrag, Gesellschafterliste, Register und Beschlüssen. Trenne Bestellungsakt, Vertretungsmacht und registerliche Nachweise.
+3. Wähle den Arbeitsweg nach der anstehenden Maßnahme. Prüfe Beschlusskompetenz, Mehrheit, Form und Vollzug in der richtigen Reihenfolge.
+4. Liefere die beauftragten Entwürfe mit konkreten Unterzeichnern, Anlagen und verbleibenden Vollzugsschritten. Zeige, welche neue Tatsache eine Beschluss- oder Registerfassung ändern würde.
 
 ## Fachlandkarte dieses Plugins
 
@@ -42,14 +49,6 @@ Beiratsfragen sind eine Spezialspur. Nutze sie erst, wenn Satzungsgrundlage, Ent
 - `organe-und-vertretung-bearbeiten` (Fachthema: beirat-abgrenzung-aufsichtsrat) — nur bei echter Beirats- oder Aufsichtsratsweiche
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: quellen-livecheck) — Quellen Livecheck
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Gesellschaftsrecht sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

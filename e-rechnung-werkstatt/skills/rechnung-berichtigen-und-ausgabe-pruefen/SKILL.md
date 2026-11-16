@@ -27,6 +27,10 @@ Bei falschem Steuerausweis prüfen Sie die Voraussetzungen und erforderlichen Sc
 
 Bei [BFH, Urteil vom 09.07.2025 – XI R 25/23, Leitsätzen 2–3 und Rn. 36–39, 54–57](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202510245/) entfällt § 14c UStG bei vollständig ausgeschlossener Gefährdung. Eine Berichtigung wegen beseitigter Gefährdung wirkt im Zeitpunkt ihrer Beseitigung. Dokumentieren Sie, ob Vorsteuer geltend gemacht oder zurückgezahlt wurde und ab wann die Gefährdung endgültig ausgeschlossen war. Prüfen Sie das Verfahren nach § 14c Abs. 1 und 2 getrennt. Die Entscheidung beurteilt die Steuerschuld des Rechnungsausstellers. Die Abzugsberechtigung des Empfängers prüfen Sie eigenständig nach § 15 UStG.
 
+Prüfen Sie auch die Ausgangsfrage, ob ein Zahlungspapier überhaupt eine Rechnung darstellt. [BFH, Beschluss vom 19.03.2025 – XI R 4/22, Rn. 15–18 und 23–27](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520218/) berücksichtigt die ergänzenden Unterlagen, lässt widersprüchlichen offenen Steuerausweis aber nicht allein durch die Bezeichnung „Abforderung“ entfallen. Fehlende Einzelangaben nach § 14 Abs. 4 UStG schließen § 14c Abs. 2 UStG nicht automatisch aus. Grenzen Sie die eigene Abrechnung von einer Zahlstellenfunktion für fremde Leistungen ab.
+
+Besteht E-Rechnungspflicht, erfolgt auch die Berichtigung als E-Rechnung. Nach dem [BMF-Schreiben vom 15.10.2026](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2026-10-15-obligatorische-elektronische-rechnung.pdf?__blob=publicationFile&v=1), Rn. 20–21, sind ursprünglicher Beleg und Korrektur so zusammenzuführen, dass die endgültigen Angaben eindeutig sind. Wählen Sie einen für den Vorgang tauglichen Rechnungstyp; behaupten Sie keine einzige amtlich vorgeschriebene technische Methode für sämtliche Ersetzungs-, Storno- oder Gutschriftfälle.
+
 ### 3.3 Alle Darstellungen gemeinsam ändern
 
 Aktualisieren Sie bestätigten Datensatz, XML, gegebenenfalls PDF-Sichtbild und Zahlungsüberleitung gemeinsam. Kontrollieren Sie Rechnungsidentität, Referenzen, Nummernkreis und Status. Eine Formatübertragung soll dieselbe Rechnung abbilden; eine berichtigte Rechnung muss ihre Beziehung zum bisherigen Beleg nachvollziehbar machen.
@@ -34,6 +38,8 @@ Aktualisieren Sie bestätigten Datensatz, XML, gegebenenfalls PDF-Sichtbild und 
 ### 3.4 Endgültige Dateien erneut prüfen
 
 Validieren Sie die endgültigen Dateien mit den zum Standard passenden Regeln. Bei XRechnung prüfen Sie XML-Schema, EN-16931- und XRechnung-Geschäftsregeln. Bei ZUGFeRD prüfen Sie zusätzlich PDF/A, Einbettung, Metadaten und Sichtbild. Lesen Sie die kritischen Werte aus dem fertigen Ergebnis zurück. Ein Bericht über eine frühere Fassung ist kein Nachweis für die korrigierten Bytes.
+
+Lesen Sie jeden Fehlerbericht auch fachlich: Ein Geschäftsregelfehler ist nach dem [BMF-Schreiben vom 15.10.2026](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2026-10-15-obligatorische-elektronische-rechnung.pdf?__blob=publicationFile&v=1), Rn. 22–23, nicht automatisch ein steuerlicher Formatfehler und nur bei betroffener Pflichtangabe ein steuerlicher Inhaltsfehler. Halten Sie Regel, Feld und konkrete steuerliche Auswirkung fest. Eine solche Einordnung macht die Datei nicht technisch konform und erlaubt keine Unterdrückung des Befunds. Vorsteuerabzug und technische Empfangsfähigkeit bleiben getrennte Prüfungen.
 
 ### 3.5 Fachliche Gegenprüfung abschließen
 

@@ -21,7 +21,7 @@
     "changes": [
       "16.10.2026: Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten."
     ],
-    "sha256": "904a80cd8970392691f7cba963e212aec615d282c9849f88794ddcb2ae18f0ab",
+    "sha256": "90a151f066358d8e1e71fd5c412da292caedddbac6492748e6141a22bcdfcb25",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },

@@ -1,26 +1,29 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Nachbarschaftsstreit-Prüfer."
+description: "Für neue Nachbarstreitigkeiten: klärt Grundstücke, Beteiligte, Ort und konkrete Beeinträchtigung anhand von Fotos, Plänen und Schriftverkehr; sichert fehlende Belege."
 ---
 
-# Kaltstart und Routing
+# Nachbarstreit aufnehmen und Beweise sichern
 
 ## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Rekonstruiere aus Fotos, Plänen und Schriftverkehr, welche Beeinträchtigung von welchem Grundstück ausgeht. Ordne Beteiligte und Belege zu und sichere die noch aufklärbaren Tatsachen.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsablauf
+
+1. Ordne Grundstücke, Eigentümer, Nutzer und Lage der Störung anhand von Plan, Registerunterlagen und Fotos zu. Trenne eigene Wahrnehmung von Vermutungen über die Ursache.
+2. Erstelle eine Chronologie aus Ereignissen, Beschwerden, Reaktionen und Belegen. Ermittle Dauer, Häufigkeit und konkrete Auswirkungen der Beeinträchtigung.
+3. Prüfe Anspruch und Duldung einschließlich einschlägigen Landesrechts. Vergleiche den rechtlich möglichen Weg mit einer praktischen Einigung und etwaiger Dringlichkeit.
+4. Liefere das beauftragte Schreiben mit konkret beschriebenem Verhalten und Belegen. Ergänze neue Messungen oder Erklärungen an der betroffenen Tatsachenstelle.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

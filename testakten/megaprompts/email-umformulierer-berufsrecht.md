@@ -156,21 +156,21 @@ Dieser Einstieg routet **Email Umformulierer Berufsrecht** vom ersten Sachverhal
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemeine-sonderfall-edge-case` — Allgemeine Sonderfall Edge Case
-- `anrede-und-grussformeln` — Anrede und Grussformeln
-- `berufliche-fristennotiz-emotionale` — Berufliche Fristennotiz Emotionale
-- `berufliche-fristennotiz-naechster-schritt` — Berufliche Fristennotiz Naechster Schritt
-- `berufsrechtskonform-verhandlung-vergleich-und-eskalation` — Berufsrechtskonform Verhandlung Vergleich und Eskalation
-- `bora-internationaler-bezug-und-schnittstellen` — BORA Internationaler Bezug und Schnittstellen
-- `bora-konformitaetspruefung` — BORA Konformitaetspruefung
-- `bora-konformitaetspruefung-brao-email` — BORA Konformitaetspruefung BRAO Email
-- `brao-interessen-fokus-formuliert` — BRAO Interessen Fokus Formuliert
-- `brao-konformitaetspruefung` — BRAO Konformitaetspruefung
-- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
-- `edge-case-verhandlung-bora-international` — Edge Case Verhandlung BORA International
-- `email-berufsrecht-berufliche-korrespondenz` — Email Berufsrecht Berufliche Korrespondenz
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `varianten-endfassung-bearbeiten` (Fachthema: allgemeine-sonderfall-edge-case) — Allgemeine Sonderfall Edge Case
+- `adressat-sprachfassung-bearbeiten` (Fachthema: anrede-und-grussformeln) — Anrede und Grussformeln
+- `frist-forderung-bitte-bearbeiten` (Fachthema: berufliche-fristennotiz-emotionale) — Berufliche Fristennotiz Emotionale
+- `frist-forderung-bitte-bearbeiten` (Fachthema: berufliche-fristennotiz-naechster-schritt) — Berufliche Fristennotiz Naechster Schritt
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: berufsrechtskonform-verhandlung-vergleich-und-eskalation) — Berufsrechtskonform Verhandlung Vergleich und Eskalation
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: bora-internationaler-bezug-und-schnittstellen) — BORA Internationaler Bezug und Schnittstellen
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: bora-konformitaetspruefung) — BORA Konformitaetspruefung
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: bora-konformitaetspruefung-brao-email) — BORA Konformitaetspruefung BRAO Email
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: brao-interessen-fokus-formuliert) — BRAO Interessen Fokus Formuliert
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: brao-konformitaetspruefung) — BRAO Konformitaetspruefung
+- `ausgangsmail-auftrag-bearbeiten` (Fachthema: chronologie-und-belegmatrix) — Chronologie und Belegmatrix
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: edge-case-verhandlung-bora-international) — Edge Case Verhandlung BORA International
+- `berufsrecht-vertraulichkeit-bearbeiten` (Fachthema: email-berufsrecht-berufliche-korrespondenz) — Email Berufsrecht Berufliche Korrespondenz
+- `ausgangsmail-auftrag-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `ausgangsmail-auftrag-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -762,7 +762,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

@@ -12,12 +12,12 @@ Diese Vollprüfung enthält top-8 von 122 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bank Rechtsabteilung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
 2. **kaltstart-triage** — Für Rechtsabteilung-Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko un…
-3. **rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu** — Für Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung: ordnet Norm, Beweislast und Gegenargument; Erge…
-4. **rechtsabteilung-dora-auslagerung-ewpg** — Für Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister: ordnet Norm, Beweislast und Gegenargument; Ergeb…
-5. **rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis** — Für Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
-6. **inhkontrollv-bedeutende-beteiligung-bank** — Für InhKontrollV: Bedeutende Beteiligung an Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
-7. **rechtsabteilung-psd2-strong-customer-authentication-fall** — Für Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
-8. **rechtsabteilung-ewpg-tokenisierung-und-registerrisiko** — Für Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreic…
+3. **psd2-fraud-refund-unauthorised-payment** — Bearbeitet Reklamationen nicht autorisierter Zahlungen aus Sicht der Bank. Trennt unverzügliche Erstattung, Autorisierun…
+4. **darlehensrecht-verbraucher-unternehmer** — Prüft aus Banksicht Darlehensstatus, Pflichtangaben und Abrechnung. Bei persönlichem Anteilserwerb oder Umschuldung tren…
+5. **rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu** — Für Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung: ordnet Norm, Beweislast und Gegenargument; Erge…
+6. **rechtsabteilung-dora-auslagerung-ewpg** — Für Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+7. **rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis** — Für Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+8. **inhkontrollv-bedeutende-beteiligung-bank** — Für InhKontrollV: Bedeutende Beteiligung an Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
 
 ---
 
@@ -180,6 +180,98 @@ Prüfe intern Fristen, Tatsachenbezug, Rechnung, Entscheidungskompetenz und verb
 ## 6. Darstellung und technische Grenzen
 
 Schreibe vollständige Sätze mit dezimalen Überschriften und Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis. Nur verfügbare und zulässige Zugriffe nutzen, fehlende Unterlagen konkret benennen und unabhängige Teile weiterbearbeiten. Ohne Dateiexport den Text liefern, keinen Link oder Prüfabschluss erfinden.
+
+---
+
+## Skill: `psd2-fraud-refund-unauthorised-payment`
+
+_Bearbeitet Reklamationen nicht autorisierter Zahlungen aus Sicht der Bank. Trennt unverzügliche Erstattung, Autorisierungsnachweis und späteren Regress; erstellt Kundenantwort und interne Entscheidung mit Belegen und Zuständigkeiten._
+
+# 1. Zweck und Anwendungsfall
+
+Bearbeiten Sie eine bestrittene Kontobelastung bis zur bestellten Kundenantwort und internen Entscheidung. Die Bank muss erkennen, welche Erstattung jetzt geschuldet sein kann und welche Gegenforderung erst gesondert zu begründen ist. Interne Risikofreigaben, technische Ermittlungen und Kulanz sind keine Ersatzmaßstäbe für gesetzliche Pflichten.
+
+# 2. Eingaben
+
+Lesen Sie Kontovertrag, Kundenstatus, Belastungen, Reklamationseingang, Bankantwort, Sperranzeige und vorhandene Logs. Je Zahlung Betrag, Empfänger, angezeigten Freigabetext, handelnde Person, Zeitpunkt und Rückflüsse erfassen. Fragen Sie nur entscheidende Lücken nach; verlangen Sie keine PIN, TAN oder erneute Bankanmeldung.
+
+# 3. Ablauf und Checkliste
+
+1. Trennen Sie Anmeldung, Geräteaktivierung und Zustimmung zur einzelnen Zahlung nach Paragraf 675j BGB. Eine vom Kunden bewusst selbst veranlasste Zahlung kann trotz Täuschung autorisiert sein; weder Betrugsanzeige noch erfolgreiche TAN-Prüfung beantworten die Zustimmung allein.
+2. Erfassen Sie den Zeitpunkt, zu dem die Bank von der nicht autorisierten Zahlung erfahren hat. Nach Paragraf 675u BGB Erstattung und Kontowiederherstellung unverzüglich, spätestens bis zum Ende des folgenden Geschäftstags bearbeiten. Der Vorwurf grober Fahrlässigkeit verschiebt diese Pflicht nicht. Unverzügliche Kundenanzeige und Ausschlussfrist nach Paragraf 676b BGB getrennt prüfen.
+3. Beruft sich ein Fachbereich auf die Betrugsverdachtsausnahme, verlangen Sie konkrete Gründe für einen Betrug des Zahlers sowie den Nachweis schriftlicher Mitteilung an die zuständige Behörde. Ein Strafverfahren gegen unbekannte Phishing-Täter genügt nicht. Bestätigt sich der Verdacht gegen den Zahler nicht, Verpflichtung unverzüglich prüfen und erfüllen.
+4. Werten Sie nach Paragraf 675w BGB Authentifizierung, Aufzeichnung, Verbuchung, Störungen und unterstützende Beweismittel aus. Fehlende Unterlagen konkret anfordern, aber keine allgemeine Ermittlungsfrist statt gesetzlicher Erstattungszeit einführen. Eine automatische Ablehnung „TAN benutzt“ verwerfen.
+5. Prüfen Sie den möglichen Regress nach Paragraf 675v BGB gesondert anhand Pflicht, Handlung, Vorwerfbarkeit, Kausalität und Betrag. Haftungsausschlüsse, insbesondere fehlende starke Kundenauthentifizierung und Schäden nach Sperranzeige, vor dem Haftungsbetrag prüfen. Eine tatsächliche Erstattung erlässt nicht von sich aus einen späteren begründeten Gegenanspruch. Umgekehrt ist der bloße Hinweis auf eine mögliche Gegenforderung keine ausreichende Begründung für das Zurückhalten der Erstattung.
+6. Erstellen Sie ein internes Votum mit verantwortlicher Person, Betrag, Zeitpunkt, Nachweisen und konkreter Maßnahme. Führen Sie Rückholung, endgültige Gutschrift, vorläufige Buchung und Gegenforderung getrennt; nichts doppelt anrechnen. Zahlungsanweisungen, Meldungen und Kundenversand nur nach Freigabe.
+7. Nach einer Bankantwort oder neuem Log die betroffene Tatsachenfrage neu bewerten, Berechnung und Kundenbrief anpassen und bis zum bestellten Ergebnis fortsetzen. Nur tatsächlich bestätigte Buchungen als ausgeführt bezeichnen. Keine erneute allgemeine Aufnahme des bekannten Falls.
+
+# 4. Quellenpflicht
+
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Randnummern 31 bis 42, 45 bis 47 und 52, amtlicher Volltext am 16. Oktober 2026 gelesen. Trägt: unverzügliche Erstattung trotz bloßen Vorwurfs grober Fahrlässigkeit und gesonderte spätere Verlustzuordnung. Trägt nicht: automatische Unautorisiertheit jeder Täuschung, endgültige Haftungsfreiheit oder ein allgemeines deutsches Aufrechnungsverbot.
+
+Die [Quellenkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/references/eugh-c-70-25-erstattung-und-regress.md) dokumentiert den amtlichen Normabgleich zu Paragrafen 675j, 675u, 675v, 675w, 675e und 676b BGB sowie die Aussagegrenzen. Im konkreten Fall aktuellen Rechtsstand und Kontovertrag prüfen; keine Literaturfundstellen aus Erinnerung einsetzen.
+
+# 5. Ausgabeformat
+
+Liefern Sie die bestellte Kundenantwort vollständig ausformuliert; daneben nur den erforderlichen internen Entscheidungsvermerk mit Betrag, Erfüllungszeitpunkt, Verantwortlichem und offener Regressfrage. Kein bloßes Aufgabenraster als Endprodukt. Formatstandard: Times New Roman 11 pt, dezimale Gliederung; bei Chat-Ausgabe gesonderten Exporthinweis nennen. Technische Prüfgrenzen und Quellenprotokoll gehören nicht in den versandfertigen Brief.
+
+# 6. Beispiel
+
+Eine Kundin wollte auf einer Verkaufsplattform nur einen Kaufpreis erhalten; über eine nachgeahmte Bankseite wurden Zugangsdaten abgegriffen und 700 EUR überwiesen. Die Bank erhält am Folgetag die Anzeige. Klären Sie die Zustimmung zur Zahlung und den Eingang. Ein Ablehnungsentwurf wegen grober Fahrlässigkeit wird in eine zutreffende Erstattungsentscheidung mit getrennter Prüfung möglicher Ersatzansprüche überführt. Ob ein solcher Anspruch tatsächlich besteht, bleibt beweisabhängig.
+
+---
+
+## Skill: `darlehensrecht-verbraucher-unternehmer`
+
+_Prüft aus Banksicht Darlehensstatus, Pflichtangaben und Abrechnung. Bei persönlichem Anteilserwerb oder Umschuldung trennt der Skill private Vermögensverwaltung, Unternehmerkredit und konkrete Rechtsfolgen._
+
+# Darlehensstatus und Bankforderung prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Bearbeite Kreditvertrag, Prolongation, Widerruf, Kündigung oder Kundenbeschwerde aus Sicht der Bank. Bestimme zuerst, wer Darlehensnehmer ist und welchem eigenen Zweck der Vertrag dient. Liefere das bestellte Statusvotum, die Forderungsprüfung, Vertragsänderung oder Kundenantwort; keine allgemeine Aufsichtsprüfung ohne Anlass.
+
+## 2. Eingaben
+
+Lies Vertrag mit Pflichtangaben, Vertragsdatum, Auszahlung, Tilgungsplan, Sicherheiten, Kündigung und Abrechnung. Bei Anteilsfinanzierung zusätzlich Erwerbsvertrag, Beteiligungsstruktur, ursprüngliche Darlehen, Umschuldungszweck und tatsächliche Organisation der Vermögensverwaltung auswerten. Frage nur nach entscheidenden Lücken, etwa ob die natürliche Person für sich oder als Vertreter der Gesellschaft unterschrieben hat.
+
+## 3. Ablauf
+
+### 3.1. Persönlichen Erwerb nicht mit Gesellschaftsbetrieb verwechseln
+
+[BGH, Urteil vom 10.03.2026 - Az. XI ZR 132/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1), amtlicher Volltext Rn. 19 bis 29: Der kreditfinanzierte Erwerb eigener Gesellschaftsanteile und die Refinanzierung dieses Erwerbs sind grundsätzlich private Vermögensverwaltung. Geschäftsführungsfunktion und beherrschende Beteiligung begründen für sich keinen Unternehmerstatus der natürlichen Person. Gesellschaft, persönlich Verpflichteten und gegebenenfalls Mitverpflichtete einzeln betrachten.
+
+Prüfe als Gegenposition, ob der Umfang der Vermögensverwaltung ausnahmsweise einen planmäßigen Geschäftsbetrieb erfordert; Tätigkeit und Organisation der Gesellschaft genügen hierfür nicht allein. Fehlen Tatsachen zu diesem Ausnahmefall, frage nach Art, Umfang und Organisation der eigenen Vermögensgeschäfte. Ein anderer eigener Geschäftszweck bleibt selbständig zu prüfen. Rn. 29 grenzt außerdem Fälle mit Zweifeln am eigenständigen privaten Willensentschluss ab; keine pauschale Verbrauchereigenschaft jedes Geschäftsführers.
+
+Die im Fall verwendete formularmäßige Unternehmerbezeichnung war als Tatsachenbestätigung nach Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB unwirksam (Rn. 27). Die Abwicklung über das Geschäftskonto war nicht statusentscheidend (Rn. 28). Etikett, Unterschrift oder Bezugskonto nicht an die Stelle der Zweckprüfung setzen.
+
+### 3.2. Normfassung vor Rechtsfolgen
+
+Der Streitvertrag datiert vom 25.01.2013. Das Urteil wendet Paragraf 13 BGB in der Fassung 01.01.2002 bis 12.06.2014 und Paragraf 491 Absatz 1 BGB in der Fassung 11.06.2010 bis 12.06.2014 an. Rn. 32 nennt für Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB die Fassung 30.07.2010 bis 20.03.2016. Diese Daten sind keine allgemeine Regel für heutige Verträge.
+
+Bestimme Abschluss-, Änderungs- und Beendigungszeitpunkt, jeweils anwendbare Normfassung und Übergangsrecht. Bei aktuellem Recht Paragrafen 13, 14 und 491 BGB erneut amtlich prüfen; Darlehensart und Ausnahmen eigenständig zuordnen. Das heutige „überwiegend“ in Paragraf 13 nicht rückwirkend in den alten Wortlaut einsetzen. Eine fehlende Normverifikation als begrenzte offene Rechtsfrage ausweisen.
+
+### 3.3. Abrechnung und Kundenantwort fortführen
+
+Nach Statusklärung prüfe Pflichtangaben und konkrete Mängel nach Paragrafen 492 und 494 BGB sowie Artikel 247 EGBGB in der einschlägigen Fassung. Empfang/Inanspruchnahme, mögliche Heilung und einzelne Rechtsfolgen unterscheiden. Bei Kündigung oder Ablösung Rückstände, Zugang, Kündigungsgrund, Fälligkeit, Zinsen und Entschädigung getrennt begründen; Sicherheitenprüfung nicht mit Forderungshöhe gleichsetzen.
+
+Rn. 30 bis 32 verweisen die Sache zur Prüfung der Rechtsfolgen aus Paragraf 494 und der Voraussetzungen des Paragrafen 502 Absatz 1 Satz 2 zurück. Keine automatische Zinsfreiheit, Erstattung oder bestimmte Restschuld aus der Statusentscheidung ableiten. Nach nachgereichten Verträgen oder Buchungen Statusvotum, Abrechnung und Kundenantwort tatsächlich anpassen. Ein bloßes Nachforderungsschreiben beendet einen weitergehenden Prüfauftrag nicht.
+
+## 4. Quellenpflicht
+
+Volltext XI ZR 132/24 am 16.10.2026 gelesen; Randnummern 19 bis 32 tragen den begrenzten Prüfzweig. Vor Verwendung Normfassung und Übergangsrecht amtlich belegen. Startpunkte: [Paragraf 13 BGB](https://www.gesetze-im-internet.de/bgb/__13.html), [Paragraf 491 BGB](https://www.gesetze-im-internet.de/bgb/__491.html), [Paragraf 494 BGB](https://www.gesetze-im-internet.de/bgb/__494.html), [Paragraf 502 BGB](https://www.gesetze-im-internet.de/bgb/__502.html). Aktuelle Einzelnormen ersetzen keinen historischen Fassungsnachweis.
+
+[Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/references/repository/references/zitierweise.md) beachten; keine Literaturfundstellen aus dem Urteil als selbst gelesene Literatur ausgeben. Quellenstatus und verbleibende Lücken getrennt vom Kundenbrief dokumentieren.
+
+## 5. Ausgabeformat
+
+Liefere das beauftragte ausformulierte Votum mit Zweckbeleg, Normfassung, Gegenargument und konkreter Folge für Forderung oder Vertragsgestaltung; bei Briefauftrag zusätzlich die fertige Kundenantwort. Berechnungen nur mit belegten Beträgen und nachvollziehbarem Rechenweg. Interne Kreditfreigabe, Anerkenntnis, Zahlung, Vertragsabschluss und Versand bleiben gesondert freizugeben.
+
+Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungen. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung; bei Markdown separater Exporthinweis. Fehlende Belege begrenzen nur die betroffene Schlussfolgerung.
+
+## 6. Beispiel
+
+Die Bank verlangt nach Kündigung eines als Unternehmerdarlehen bezeichneten Kredits Restschuld und Vorfälligkeitsentschädigung. Der Kunde hat damit seinen eigenen Anteilserwerb umfinanziert. Lies beide Kreditgenerationen und den Anteilskauf; kläre den behaupteten planmäßigen Geschäftsbetrieb. Nach Statusprüfung korrigiere die Rechtsfolgenprüfung und Kundenantwort, statt die Forderung allein wegen der Formularüberschrift zu bestätigen oder vollständig zu erlassen.
 
 ---
 
@@ -405,106 +497,6 @@ Prüfe aktuelle InhKontrollV, § 2c KWG, BaFin-Inhaberkontrollhinweise und bei W
 
 ---
 
-## Skill: `rechtsabteilung-psd2-strong-customer-authentication-fall`
-
-_Für Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Spezialkern: Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
-
-- **Konkretes Problem:** Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft.
-- **Norm-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA, CRR/CRD, GwG, BGB/AGB, HGB, InsO/StaRUG und BaFin-/Bundesbank-Praxis.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-ZAG, PSD2, RTS SCA; BGB §§ 675u ff.
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko`
-
-_Für Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
-
-# Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Spezialkern: Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
-
-- **Konkretes Problem:** Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft.
-- **Norm-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA, CRR/CRD, GwG, BGB/AGB, HGB, InsO/StaRUG und BaFin-/Bundesbank-Praxis.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-eWpG; MiCAR; DepotG; KWG-Erlaubnistatbestände live prüfen
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
 ## Anwendungshinweise
 
 Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
@@ -528,7 +520,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

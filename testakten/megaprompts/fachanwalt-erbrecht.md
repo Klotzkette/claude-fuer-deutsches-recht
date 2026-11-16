@@ -62,7 +62,7 @@ Bei Dateiprüfung und Einreichung [Versand- und Eingangskontrolle](https://githu
 
 ZPO Paragrafen 130a und 130d oder FamFG Paragraf 14b; ERVV und aktuelle ERVB nach tatsächlichem Verfahren.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -160,7 +160,7 @@ Bei jeder Gestaltung [Nachfolgeklauseln und Vollzug](https://github.com/Klotzket
 
 Erbrechtliche Verfügung und Gesellschaftsvertrag mit jeweils einschlägigem BGB-, HGB- oder GmbHG-Recht; ErbStG Paragrafen 13a, 13b, 13c, 19a und 28a nach Fall.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -208,7 +208,7 @@ Für Entscheidung, Nachrücker oder Minderjährige [Entscheidung und Vertretung]
 
 BGB Paragrafen 1942 bis 1957, 1643, 1851; FamFG Paragrafen 343 und 344 Absatz 7. Tagesgenaue Berechnung nach BGB Paragrafen 187 bis 193.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -256,7 +256,7 @@ Bei Kenntnisstreit [Vaterschaft und Verjährung](https://github.com/Klotzkette/c
 
 BGB Paragrafen 1592, 1600d Absatz 5, 2317, 2314, 195 und 199; ZPO Paragraf 254.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -304,7 +304,7 @@ Bei jeder Rechnung [Quoten, Werte und Anrechnung](https://github.com/Klotzkette/
 
 BGB Paragrafen 2303 bis 2318, 2333 bis 2338, 2346; Paragrafen 195, 199, 203 und 204 für Verjährung.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -352,7 +352,7 @@ Bei Klauselarbeit oder Formwahl [Formen und Gestaltungsbausteine](https://github
 
 BGB Paragrafen 2229, 2231, 2232, 2247 bis 2252, 2265, 2267, 2269, 2270, 2274 bis 2278; EuErbVO Artikel 22 nur bei Rechtswahl.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -400,7 +400,7 @@ Bei Wahl oder Abwehr [Haftungsinstrumente](https://github.com/Klotzkette/claude-
 
 BGB Paragrafen 1967, 1970 bis 1985, 1990 bis 2009, 2014, 2058 und 2059; InsO Paragrafen 315 bis 331; ZPO Paragrafen 780 und 785.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -452,7 +452,7 @@ Für Nachforderung und Notarauftrag [Verzeichnis und Ermittlungen](https://githu
 
 BGB Paragrafen 2314, 260, 261; ZPO Paragrafen 253, 254, 888, 889; bei notarieller Verweigerung BNotO Paragraf 15.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -500,7 +500,7 @@ Bei Amtsbeginn [Amt, Verzeichnis und Zeugnis](https://github.com/Klotzkette/clau
 
 BGB Paragrafen 2197 bis 2224, 2368; FamFG Paragraf 354; ErbStG Paragraf 31 Absatz 5.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -548,7 +548,7 @@ Bei konkurrierenden Lesarten und jedem Anfechtungsauftrag [Auslegung und Anfecht
 
 BGB Paragrafen 133, 2064, 2065, 2069, 2078 bis 2085, 2087; FamFG Paragraf 26 im Nachlassverfahren.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -596,7 +596,7 @@ Nach Wallettyp [Zugang und Sicherung](https://github.com/Klotzkette/claude-fuer-
 
 BGB Paragrafen 1922, 2038, 2040 und 2314; ZPO Paragrafen 935 und 940; ErbStG Paragrafen 9, 11 und 12; EStG Paragrafen 20, 22 und 23 nach Tokenfunktion.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -628,7 +628,7 @@ Erbfall und Pflichtteilsquote, Nachlassrechnung, Schenkungsverträge und Vollzug
 
 1. Jede Zuwendung mit Vertrags- und Leistungsdatum, Gegenstand, Empfänger und unentgeltlichem Anteil erfassen. Grundstück, Konto, Versicherung und Gesellschaftsanteil benötigen ihren jeweiligen Vollzugsnachweis.
 
-2. Wirtschaftliche Ausgliederung prüfen. Uneingeschränkter Nießbrauch kann den Fristbeginn verhindern; Wohnungsrecht verlangt eine konkrete Prüfung von Umfang und Genussverlust.
+2. Ausgliederung und verbleibende Herrschaft prüfen. Uneingeschränkter Nießbrauch kann den Fristbeginn verhindern; Wohnungsrecht verlangt eine Prüfung von Umfang und Genussverlust. Leibrente samt Reallast nicht damit gleichsetzen: BGH, Urteil vom 24.06.2026, IV ZR 141/25, Rn. 10 bis 25, unterscheidet Zahlungsanspruch und fortbestehende Grundstücksnutzung. Ein späterer unentgeltlicher Rentenverzicht ist eine eigene Schenkung mit eigenem Leistungsdatum, Wert und darauf gerichtetem Wertermittlungsbegehren. Den amtlichen Nachweis und die Grenze des entschiedenen Antrags in der Bewertungsreferenz lesen.
 
 3. Ehegattenregel und vollständig verstrichene Jahresabschnitte anwenden. Keine Kalendermonats- oder Jahreszahldifferenz als Ersatz für Stichtagsrechnung.
 
@@ -644,7 +644,7 @@ Bei jeder Ergänzungsrechnung [Schenkungsbewertung und Abschmelzung](https://git
 
 BGB Paragrafen 2325 bis 2329, 2330, 2332; Paragrafen 195, 199 und 200; bei Nutzungsrechten Paragrafen 1030 und 1093.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -692,7 +692,7 @@ Bei Entlassung, Haftung oder Entlastung [Kontrolle und Rechtsschutz](https://git
 
 BGB Paragrafen 2215 bis 2219, 2220 und 2227; FamFG Paragrafen 58 und 63; ZPO für Leistungs- und Schadensersatzklage.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -742,7 +742,7 @@ Bei Adoption, entfernteren Verwandten oder Ehegattenvarianten [Status und Quoten
 
 BGB Paragrafen 1924 bis 1936, 1371, 1754, 1770, 1772, 2349; LPartG Paragraf 10, soweit einschlägig.
 
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/repository/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
 ## 5. Ausgabeformat
 
@@ -779,7 +779,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

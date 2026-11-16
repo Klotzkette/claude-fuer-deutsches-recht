@@ -156,21 +156,21 @@ Dieser Einstieg routet **Forschungszulage Antragstellung** vom ersten Sachverhal
 
 ## Fachlandkarte dieses Plugins
 
-- `abgrenzung-adaptiver-antrag` — Abgrenzung Adaptiver Antrag
-- `abgrenzung-compliance` — Abgrenzung Compliance
-- `ablehnung-nachbesserung-einspruch` — Ablehnung Nachbesserung Einspruch
-- `adaptiver-dokumentenmatrix` — Adaptiver Dokumentenmatrix
-- `adaptiver-dokumentenmatrix-und-lueckenliste` — Adaptiver Dokumentenmatrix und Lueckenliste
-- `antrag-zahlen-schwellen-und-berechnung` — Antrag Zahlen Schwellen und Berechnung
-- `antrag-zahlen-schwellenwerte` — Antrag Zahlen Schwellenwerte
-- `antragstellung-auszahlung-beihilfen` — Antragstellung Auszahlung Beihilfen
-- `auftragsforschung-vertragsgestaltung` — Auftragsforschung Vertragsgestaltung
-- `auszahlung-internationaler-bezug` — Auszahlung Internationaler Bezug
-- `auszahlung-internationaler-bezug-und-schnittstellen` — Auszahlung Internationaler Bezug und Schnittstellen
-- `beihilfen-beweislast-darlegungslast` — Beihilfen Beweislast Darlegungslast
-- `beihilfen-beweislast-und-darlegungslast` — Beihilfen Beweislast und Darlegungslast
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `vorhaben-schneiden-bearbeiten` (Fachthema: abgrenzung-adaptiver-antrag) — Abgrenzung Adaptiver Antrag
+- `vorhaben-schneiden-bearbeiten` (Fachthema: abgrenzung-compliance) — Abgrenzung Compliance
+- `arbeitsprodukt-bearbeiten` (Fachthema: ablehnung-nachbesserung-einspruch) — Ablehnung Nachbesserung Einspruch
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: adaptiver-dokumentenmatrix) — Adaptiver Dokumentenmatrix
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: adaptiver-dokumentenmatrix-und-lueckenliste) — Adaptiver Dokumentenmatrix und Lueckenliste
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: antrag-zahlen-schwellen-und-berechnung) — Antrag Zahlen Schwellen und Berechnung
+- `bescheinigungsverfahren-bearbeiten` (Fachthema: antrag-zahlen-schwellenwerte) — Antrag Zahlen Schwellenwerte
+- `festsetzung-und-pruefung-bearbeiten` (Fachthema: antragstellung-auszahlung-beihilfen) — Antragstellung Auszahlung Beihilfen
+- `bemessungsgrundlage-bearbeiten` (Fachthema: auftragsforschung-vertragsgestaltung) — Auftragsforschung Vertragsgestaltung
+- `vorhaben-schneiden-bearbeiten` (Fachthema: auszahlung-internationaler-bezug) — Auszahlung Internationaler Bezug
+- `vorhaben-schneiden-bearbeiten` (Fachthema: auszahlung-internationaler-bezug-und-schnittstellen) — Auszahlung Internationaler Bezug und Schnittstellen
+- `festsetzung-und-pruefung-bearbeiten` (Fachthema: beihilfen-beweislast-darlegungslast) — Beihilfen Beweislast Darlegungslast
+- `festsetzung-und-pruefung-bearbeiten` (Fachthema: beihilfen-beweislast-und-darlegungslast) — Beihilfen Beweislast und Darlegungslast
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Normenanker
 
@@ -898,7 +898,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

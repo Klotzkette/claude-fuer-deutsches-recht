@@ -151,7 +151,7 @@
       "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Sektor und gewünschtes Behördenschreiben bestimmen den Einstieg; Geheimnisschutz und Veröffentlichungsbefugnis werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "6defe851a393c72d66f99f061f1a0c0db1548ecb43ea670f6686be4ebb0e744e"
+    "sha256": "62f06cd74bc0b2836775eda69af964fada1579a1f85fbadffc7dbc2784e88377"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

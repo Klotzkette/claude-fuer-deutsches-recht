@@ -1,26 +1,29 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schriftform und Textform im BGB."
+description: "Für Verträge und Erklärungen in Papier- oder elektronischer Form: klärt Rechtsgeschäft, Zeitpunkt und gesetzliche oder vereinbarte Form; sichert Unterschrift, Signatur und Übermittlungsbelege."
 ---
 
-# Kaltstart und Routing
+# Erklärung und geltende Formanforderung bestimmen
 
 ## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Bestimme für die vorgelegte Erklärung das maßgebliche Formerfordernis. Sichere Fassung, Unterschrift oder Signatur und Übermittlungsbelege, bevor du ihre Wirksamkeit beurteilst.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsablauf
+
+1. Bestimme Rechtsgeschäft, beteiligte Personen und maßgeblichen Zeitpunkt. Trenne gesetzliche Form, vertraglich vereinbarte Form und bloße Nachweispflichten.
+2. Untersuche die tatsächlich abgegebene Fassung einschließlich Unterschrift oder Signatur, Anlagen und Zugang. Eine Bildschirmansicht ersetzt die Prüfung der Originaldatei nicht.
+3. Prüfe die einschlägige Formnorm und zulässige Ersatzformen. Ordne jeden Mangel seiner möglichen Rechtsfolge und einer ausdrücklich vorgesehenen Heilung zu.
+4. Liefere eine fallbezogene Bewertung und bei Auftrag einen ausführbaren Korrekturweg. Halte fest, welches Dokument neu erklärt, unterzeichnet oder übermittelt werden muss und welche Frist dabei bleibt.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
@@ -34,13 +37,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
-## Form-Triage — Pflicht-Differenzierung
-- **Schriftform Paragraf 126 BGB:** eigenhändige Unterschrift unter der Urkunde; bei Verträgen Identitätswahrung der Urkunde (Telefaxgenügsamkeit aufgehoben).
-- **Elektronische Form Paragraf 126a BGB:** Ersetzt Schriftform durch qualifizierte elektronische Signatur (qES) nach eIDAS-VO (EU 910/2014). Achtung: einfache oder fortgeschrittene Signatur reicht NICHT.
-- **Textform Paragraf 126b BGB:** lesbare Erklärung auf dauerhaftem Datenträger, Person des Erklärenden genannt — E-Mail, PDF, SMS, WhatsApp können genügen; keine Unterschrift erforderlich.
-- **Öffentliche Beglaubigung Paragraf 129 BGB / notarielle Beurkundung Paragraf 128 BGB:** Bei Paragrafen 311b I BGB (Immobilien), Paragraf 15 GmbHG (GmbH-Anteile), Paragraf 2247 BGB (Testament) zwingend.
-- **Rechtsfolge Formverstoß:** Paragraf 125 BGB Nichtigkeit; Heilung möglich (z. B. Paragraf 311b I 2 BGB Auflassung, Paragraf 766 S. 2 BGB Erfüllung), aber nicht generell.
-- Falle: AGB-Klausel "Änderungen bedürfen der Schriftform" gilt unter Verbrauchern oft nicht (Paragraf 309 Nr. 13 BGB seit 01.10.2016 — Textform statt Schriftform); einfache Schriftformklausel verstößt gegen Paragraf 305b BGB.
+## Formanforderungen richtig unterscheiden
+
+- **Gesetzliche Schriftform:** [§ 126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html) verlangt grundsätzlich eigenhändige Unterzeichnung oder notariell beglaubigtes Handzeichen. Bei Verträgen gleichlautende, für die jeweils andere Partei bestimmte Urkunden nach Absatz 2 berücksichtigen. Eine bloße Faxkopie nicht mit einer formgerechten Originalerklärung gleichsetzen; für vereinbarte Form [§ 127 BGB](https://www.gesetze-im-internet.de/bgb/__127.html) gesondert prüfen.
+- **Elektronische Form:** [§ 126a BGB](https://www.gesetze-im-internet.de/bgb/__126a.html) verlangt Namensangabe und qualifizierte elektronische Signatur, bei Verträgen für beide gleichlautenden Erklärungen. Ob sie die gesetzliche Schriftform ersetzen darf, folgt aus § 126 Abs. 3 und den Spezialnormen. Einfache elektronische Signatur, Scan und qualifizierte Signatur auseinanderhalten.
+- **Textform:** § 126b BGB verlangt eine lesbare Erklärung mit Nennung der erklärenden Person auf einem dauerhaften Datenträger. Für E-Mail, Messenger oder Portal die konkrete Speicher- und Wiedergabemöglichkeit prüfen; der Kanalname allein entscheidet nicht.
+- **Beglaubigung und Beurkundung:** Unterschriftsbeglaubigung und notarielle Beurkundung sind verschiedene Formen. Der Grundstückskauf nach § 311b Abs. 1 BGB und die Abtretung eines GmbH-Anteils nach § 15 Abs. 3 GmbHG bedürfen notarieller Beurkundung. Das [eigenhändige Testament nach § 2247 BGB](https://www.gesetze-im-internet.de/bgb/__2247.html) dagegen wird eigenhändig geschrieben und unterschrieben; die besonderen Voraussetzungen bleiben zu prüfen.
+- **Rechtsfolge und Heilung:** Gesetzlichen und vereinbarten Formmangel nach § 125 BGB trennen. Bei § 311b Abs. 1 Satz 2 BGB heilen erst **Auflassung und Grundbucheintragung**; bei [§ 766 Satz 3 BGB](https://www.gesetze-im-internet.de/bgb/__766.html) die Erfüllung durch den Bürgen im Umfang der Erfüllung. § 766 Satz 2 schließt gerade die elektronische Form aus. Keine allgemeine Heilung durch Vertragsdurchführung annehmen.
+- **AGB und Individualabrede:** [§ 309 Nr. 13 BGB](https://www.gesetze-im-internet.de/bgb/__309.html) nach Art der Erklärung, Vertrag und Anwendungsbereich prüfen. [§ 305b BGB](https://www.gesetze-im-internet.de/bgb/__305b.html) sichert den Vorrang einer Individualabrede; daraus folgt nicht die pauschale Unwirksamkeit jeder Schriftformklausel. Maßgebliche Vertrags- und Normfassung festhalten.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

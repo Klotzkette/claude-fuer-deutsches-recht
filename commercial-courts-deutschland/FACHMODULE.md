@@ -62,7 +62,7 @@ Pleading und Case Management: claim, defence, counterclaim, Zeitplan, Themenlist
 
 [Arbeitsweg öffnen](skills/pleading-und-case-management-bearbeiten/SKILL.md)
 
-- [beA/ERV](skills/bea-erv-english-pleadings/FACHINHALT.md)
+- [Englische Schriftsätze formgerecht elektronisch einreichen](skills/bea-erv-english-pleadings/FACHINHALT.md)
 - [Bundle and Filing](skills/bundle-index-case-management/FACHINHALT.md)
 - [Case Management Conference](skills/case-management-conference/FACHINHALT.md)
 - [Claim Intake](skills/claim-intake-chamber-vs-conference/FACHINHALT.md)

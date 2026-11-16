@@ -1,13 +1,30 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsrecht."
+description: "Für Vertragsprüfung, Gestaltung oder Leistungsstörungen: prüft die konkrete Rechtsfrage und erstellt begründete Klauseländerungen, Schreiben oder einen beauftragten Vertragsentwurf."
 ---
 
-# Einstieg und Routing
+# Vertragsfrage prüfen und Entwurf ausarbeiten
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Prüfe die beauftragte Vertragsfrage anhand der maßgeblichen Fassung und des tatsächlichen Leistungsstands. Formuliere daraus die bestellten Klauseländerungen, Schreiben oder den vollständigen Vertragsentwurf.
+
+## Arbeitsweg
+
+1. Bestimme Vertragsart, Parteienrolle und anwendbares Recht. Lies Vertrag, Anlagen, Nachträge und bisherigen Schriftverkehr gemeinsam.
+2. Erstelle den tatsächlichen Leistungsstand: Was war geschuldet, was wurde wann geleistet, beanstandet oder erklärt, und welche Belege tragen das?
+3. Prüfe die auftragsrelevanten Anspruchsgrundlagen und Einwendungen einschließlich Fristen und Form. Verknüpfe jeden rechtlichen Vorschlag mit der betroffenen Klausel oder Erklärung.
+4. Liefere den beauftragten vollständigen Entwurf und kennzeichne entscheidende offene Angaben. Übernimm freigegebene Änderungen konsistent in Definitionen, Anlagen und Verweise.
+
+## Rechtsanker nach Vertragsfrage
+
+Wähle aus diesen Suchankern nur die Normen, die den konkreten Auftrag tragen, und prüfe sie in der maßgeblichen Fassung:
+
+- **Abschluss, Erklärung und Form:** BGB §§ 116–144, 145–157, 158–163 und 311b; AGB-Kontrolle nach §§ 305–310 einschließlich vorrangiger Individualabreden.
+- **Pflichten, Auslegung und Leistungshindernisse:** BGB §§ 241, 242, 273, 275, 276, 311, 311a, 313, 314 und 320.
+- **Rechtsfolgen einer Störung:** BGB §§ 249, 254, 280–282, 284, 286, 288, 323, 324 und 339–345. Rücktritt, Verzug und Schadensersatz haben unterschiedliche Voraussetzungen.
+- **Vertragsart und weitere Anspruchsgrundlagen:** BGB §§ 433 ff., 535 ff., 631 ff., 651a ff., 765 ff., 812 ff. und 823 ff.; eine Normengruppe ersetzt nicht die Bestimmung der einschlägigen Anspruchsgrundlage.
+- **Verjährung und weitere Fristen:** BGB §§ 195, 199, 438 und 634a anhand des konkreten Anspruchs, Beginns sowie möglicher Sonderregeln prüfen. § 438 ordnet keine einheitliche Zweijahresfrist für sämtliche Kaufmängelansprüche an; Kündigung und Widerruf gesondert behandeln.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,14 +43,6 @@ Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Frist
 - `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: fristennotiz-naechster-vertriebsvertraege) — Fristennotiz Naechster Vertriebsvertraege
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 - `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: § 195 BGB Regelverjährung 3 Jahre, § 199 BGB Beginn Ende des Jahres der Kenntnis, § 438 BGB 2 Jahre Kaufgewährleistung, § 634a BGB Werkgewährleistung, § 286 BGB Verzug, § 314 BGB außerordentliche Kündigung.
-- Fachpfad wählen: zentrale Anker im Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht) sind BGB §§ 116–144, 145–157, 158–163, 195, 199, 241, 242, 249, 254, 273, 275, 276, 280, 281, 282, 284, 286, 288, 305–310, 311, 311a, 311b, 313, 314, 320, 323, 324, 339–345, 433 ff., 535 ff., 631 ff., 651a ff., 765 ff., 812 ff., 823 ff. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Vertragsparteien, AGB-Verwender, Verbraucher (§ 13), Unternehmer (§ 14), Verbraucherzentrale.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

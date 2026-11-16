@@ -21,7 +21,7 @@
     "changes": [
       "16.10.2026: Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben."
     ],
-    "sha256": "5f75850815f72321408f53a044da24369af4a32de82a097bbe0dc6713f5efbc9",
+    "sha256": "9520598b5aa64b55b025ec466224dd5eff5c3e5fbdf157a5422d86f6a9f4bdb4",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },

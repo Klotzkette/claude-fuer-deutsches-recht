@@ -121,7 +121,7 @@
       "BGH V ZR 213/21 und VII ZR 241/22 mit begrenzter Aussage zu Gemeinschaftsrechten, Abnahme und Verjährung.",
       "Neue Unterlagen ändern nur betroffene Rechnung, Befugnis oder Frist und führen zum vollständigen bestellten Dokument."
     ],
-    "sha256": "92b4626b11318d4635bc5a4fbe003a6e71ba2335099ca320092d2fc76e6f122b",
+    "sha256": "0d68465896891adf5ae290bc6a8f1347866e351121b78ec30db1205114574f96",
     "latest_editorial_scope": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
   },
   "selection": {
@@ -566,7 +566,7 @@
   },
   "reviewed_file_hashes": {
     "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md": "c41a347bab2451551625143ff736e7f254e64c00beba492ba0e28f048a1fdd27",
-    "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md": "92b4626b11318d4635bc5a4fbe003a6e71ba2335099ca320092d2fc76e6f122b",
+    "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md": "0d68465896891adf5ae290bc6a8f1347866e351121b78ec30db1205114574f96",
     "bautraegervertrag-pruefer/references/rechtsprechung-und-rollen.md": "e5843494c388d65291c1b97ead0043ea59cde0363ba744e28478b4a646fcd03c",
     "bautraegervertrag-pruefer/skills/gemeinschaft-zieht-maengelrechte-an-sich/FACHINHALT.md": "d65fb5fd1fd04d47bace20ae076f5dd1cc05f862c4ddaa37f9e9aa5363f9e964"
   },

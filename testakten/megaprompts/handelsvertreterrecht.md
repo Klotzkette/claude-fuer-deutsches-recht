@@ -16,8 +16,8 @@ Diese Vollprüfung enthält top-8 von 129 Skills (gekürzt für das Arbeitsfenst
 4. **datentraeger-rueckgabe** — Prüft die Rückgabe von Datenträgern und Unterlagen nach Vertrag und Paragraf 675 Absatz 1 in Verbindung mit Paragraf 667…
 5. **deutscher-vertreter-ecommerce-marketplace** — Für Deutscher Handelsvertreter für ausländischen Unternehmer — Rechtsschutz und Gerichtsstand: ordnet Norm, Beweislast u…
 6. **crm-und-datenschutz** — Prüft CRM-Daten im Handelsvertreterverhältnis: Datenschutzrollen, Herausgabe nach Vertrag und Paragraf 675 Absatz 1 in V…
-7. **stornoreserve-training-material** — Für Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach Paragraf 307 BGB und Paragraf 87a HGB: ordnet Norm, Bew…
-8. **kundenliste-herausgabe-kundenschutz-makler** — Prüft die Herausgabe von Kundenlisten nach Vertrag und Paragraf 675 Absatz 1 in Verbindung mit Paragraf 667 BGB; trennt …
+7. **alters-krankheitskuendigung** — Für Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89b Absatz 3 Nummer 1 HGB: ordnet Norm, Be…
+8. **stornoreserve-training-material** — Für Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach Paragraf 307 BGB und Paragraf 87a HGB: ordnet Norm, Bew…
 
 ---
 
@@ -519,6 +519,92 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ---
 
+## Skill: `alters-krankheitskuendigung`
+
+_Für Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89b Absatz 3 Nummer 1 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Alters- oder krankheitsbedingte Eigenkündigung und Ausgleich nach Paragraf 89b Absatz 3 Nummer 1 HGB
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 89b, Wettbewerbsverbot; § 90a und Vertriebsmodelle — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Überblick
+
+Prüft Kündigung und Ausgleich getrennt: Paragraf 89b Absatz 3 Nummer 1 HGB kann den Ausgleich bei alters- oder krankheitsbedingt unzumutbarer Fortsetzung trotz Eigenkündigung erhalten. Er schafft kein eigenes fristloses Kündigungsrecht; Kündigungsfrist und wichtiger Grund richten sich gesondert nach Paragrafen 89 und 89a HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
+Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
+
+## Mandantenfall
+
+- Handelsvertreter X ist seit 14 Monaten krankheitsbedingt nicht mehr in der Lage, sein Vertretungsgebiet zu bearbeiten; Unternehmer Y will das Vertreterverhältnis beenden und prüft das Vorgehen.
+- Handelsvertreter X möchte wegen schwerer Erkrankung selbst kündigen und den Ausgleichsanspruch trotzdem erhalten; er prüft Paragraf 89b Absatz 3 Nummer 1 HGB.
+- Unternehmer Y kündigt dem 72-jährigen Handelsvertreter X ordentlich; X bestreitet, dass Alter allein ein Kündigungsgrund sei, und verlangt längere Frist.
+
+## Erste Schritte
+
+1. Krankheitsdauer und Prognose ärztlich dokumentieren lassen.
+2. Aus Vertrags-, Kündigungs- und Gesundheitsunterlagen prüfen, ob die Fortsetzung alters- oder krankheitsbedingt unzumutbar ist; nur entscheidende fehlende Angaben erfragen.
+3. Ordentliche Kündigungsfrist nach Paragraf 89 HGB und gegebenenfalls wichtigen Grund nach Paragraf 89a HGB getrennt prüfen.
+4. Auswirkung auf Ausgleichsanspruch nach Paragraf 89b Absatz 3 Nummer 1 HGB (Kündigung aus gesundheitlichen Gründen) prüfen.
+5. Versorgungsansprüche und Sozialversicherungsstatus klären.
+6. Aufhebungsvereinbarung als Alternative zur einseitigen Kündigung prüfen.
+
+## Rechtsrahmen
+
+- Paragraf 89 Absatz 3 HGB betrifft die Fortsetzung eines befristeten Vertrags, kein besonderes Krankheitskündigungsrecht.
+- § 89 HGB — Ordentliche Kündigung und Fristen
+- Paragraf 89b Absatz 3 Nummer 1 HGB — Kein Ausgleichsausschluss bei krankheitsbedingter Kündigung des Vertreters
+- § 89a HGB — Kündigung aus wichtigem Grund
+- § 241 Abs. 2 BGB — Rücksichtnahmepflicht des Unternehmers
+- Die Handelsvertreterrichtlinie bildet den unionsrechtlichen Rahmen; Ausschlussgründe nicht auf schuldhaftes Verhalten reduzieren.
+
+## Prüfraster
+
+- Liegt eine dauerhafte Unfähigkeit zur Ausübung der Vertretertätigkeit vor?
+- Liegt ein wichtiger Grund nach Paragraf 89a HGB vor oder ist ordentlich nach Paragraf 89 HGB zu kündigen?
+- Welche Kündigungsfrist gilt bei ordentlicher Kündigung nach § 89 HGB?
+- Bleibt der Ausgleichsanspruch nach Paragraf 89b Absatz 3 Nummer 1 HGB erhalten?
+- Hat der Vertreter selbst aus Gesundheitsgründen gekündigt — Ausgleich nach Paragraf 89b Absatz 3 Nummer 1 HGB?
+- Sind Versorgungsleistungen oder Pensionszusagen im Vertrag vorhanden?
+
+## Typische Fallstricke
+
+- Unzumutbare Fortsetzung für den Ausgleich mit einem automatisch bestehenden Recht zur fristlosen Kündigung verwechselt.
+- Ausgleichsanspruch bei krankheitsbedingter Eigenkündigung des Vertreters irrtümlich verneint.
+- Ordentliche Kündigung ohne Einhaltung der gesetzlichen Fristen — Unwirksamkeit.
+- Diskriminierung wegen Alters als eigenständiger Kündigungsgrund — AGG beachten.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist in den Paragrafen 84 bis 92c HGB geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
+nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
+Paragraf 92c HGB eröffnet für die dort bezeichneten Auslands- und Schifffahrtstätigkeiten abweichende Vereinbarungen; die zwingende Wirkung ist im konkreten Anwendungsbereich zu prüfen.
+
+## Quellen
+
+Punktueller amtlicher Normabgleich am 16.10.2026: Paragrafen 89, 89a und 89b HGB (Links unten) sowie [Paragraf 92c HGB](https://www.gesetze-im-internet.de/hgb/__92c.html) gelesen. Geprüft wurden Kündigungsweg und Zuordnung der alters-/krankheitsbedingten Ausnahme zu Paragraf 89b Absatz 3 Nummer 1. Die übrigen Ausgleichsvoraussetzungen bleiben erforderlich; keine neue Rechtsprechungs-, AGG- oder sozialversicherungsrechtliche Vollprüfung.
+
+- [§ 89 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+
+---
+
 ## Skill: `stornoreserve-training-material`
 
 _Für Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach Paragraf 307 BGB und Paragraf 87a HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
@@ -608,91 +694,6 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ---
 
-## Skill: `kundenliste-herausgabe-kundenschutz-makler`
-
-_Prüft die Herausgabe von Kundenlisten nach Vertrag und Paragraf 675 Absatz 1 in Verbindung mit Paragraf 667 BGB; trennt Listenherkunft, Zurückbehaltungsrechte und Nutzungsgrenzen nach Paragraf 90 HGB._
-
-# Kundenliste und Herausgabepflicht bei Vertragsende
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 89b, Wettbewerbsverbot; § 90a und Vertriebsmodelle — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Überblick
-
-Bestimmt, welche Kundenlisten bei Vertragsende nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB herauszugeben sind. Der Schutz enthaltener Geheimnisse nach Paragraf 90 HGB betrifft eine andere Frage als der Anspruch auf die Liste.
-Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
-und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
-Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
-
-## Mandantenfall
-
-- Unternehmer Y verlangt nach Vertragsende von Handelsvertreter X die Herausgabe aller Kundenlisten und Kontaktdaten.
-- Handelsvertreter X verweigert die Herausgabe der Kundenliste und beruft sich auf ein Zurückbehaltungsrecht wegen offener Provisionen.
-- Handelsvertreter X nutzt die Kundenliste nach Vertragsende weiter für eigene Akquise; Unternehmer Y klagt auf Unterlassung und Schadensersatz.
-
-## Erste Schritte
-
-1. Herausgabe nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB bestimmen: vom Unternehmer überlassene Listen, während der Geschäftsbesorgung erlangte Kundendaten und vorbestehende eigene Bestände unterscheiden. Umfang und Auftragsbezug belegen, nicht pauschal alle Kontakte fordern.
-2. Zurückbehaltungsrecht nach § 273 BGB bei offenen Gegenforderungen prüfen.
-3. Datenschutzrechtliche Zulässigkeit der Übermittlung und Löschpflichten prüfen; die DSGVO begründet keinen allgemeinen Herausgabeanspruch des Unternehmers auf die Kundenliste.
-4. Vollstreckung der Herausgabe nach § 883 ZPO (körperliche Listen) oder § 888 ZPO vorbereiten.
-5. Bei Datenmissbrauch eine Verletzung von Paragraf 90 HGB oder einer wirksamen Vertragsbindung feststellen und Schadensersatz nach Paragraf 280 BGB prüfen. Geheimnisqualität, konkrete Nutzung, Vertretenmüssen und Schaden nicht aus der bloßen Weiterverwendung der Liste ableiten.
-6. Übergabeprotokoll mit Inventar aller herausgegebenen Daten erstellen.
-
-## Rechtsrahmen
-
-- Paragraf 90 HGB: Schutz anvertrauter oder durch die Tätigkeit bekannt gewordener Geschäfts- und Betriebsgeheimnisse unter den gesetzlichen Voraussetzungen; Paragraf 88 HGB ist weggefallen.
-- Paragrafen 675 Absatz 1, 667 BGB: Herausgabe der für die Geschäftsbesorgung erhaltenen oder daraus erlangten Listen und Daten neben vertraglichen Regelungen.
-- § 273 BGB — Zurückbehaltungsrecht
-- § 883 ZPO — Vollstreckung auf Herausgabe bestimmter Sachen
-- Artikel 17 DSGVO: Recht auf Löschung, kein allgemeiner Herausgabeanspruch des Unternehmers.
-- § 280 BGB — Schadensersatz bei Datenmissbrauch
-
-## Prüfraster
-
-- Welche Teile der Kundenliste unterliegen einer Herausgabepflicht nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB?
-- Hat der Handelsvertreter ein Zurückbehaltungsrecht nach § 273 BGB?
-- Welche geschuldeten Daten dürfen übermittelt werden und welche verbliebenen Daten sind zu löschen?
-- Ist die Nutzung der Kundenliste nach Vertragsende verboten?
-- Kommt Vollstreckung nach § 883 oder § 888 ZPO in Betracht?
-- Welche Schadensersatzansprüche entstehen bei Datenmissbrauch?
-
-## Typische Fallstricke
-
-- Zurückbehaltungsrecht ohne durchsetzbare Gegenforderung — nicht berechtigt.
-- Kundenliste nach Vertragsende für eigene Akquise genutzt: konkrete Geheimnisse und Verwertungsgrenzen nach Paragraf 90 HGB prüfen, nicht allein aus dem Vertragsende ein Nutzungsverbot ableiten.
-- DSGVO-Löschpflichten nicht beachtet — Bußgeldrisiko.
-- Herausgabe ohne Übergabeprotokoll — Nachweis über vollständige Herausgabe fehlt.
-
-## Hintergrund und Kontext
-
-Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
-Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
-Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
-BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
-Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
-Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
-Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
-Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
-Auskunftsrechte (Paragraf 87c HGB), Geheimnisschutz (Paragraf 90 HGB) und Delkredere (Paragraf 86b HGB)
-ergänzen den praxisrelevanten Rechtsrahmen.
-Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
-
-## Quellen
-
-- [Paragraf 90 HGB](https://www.gesetze-im-internet.de/hgb/__90.html)
-- [§ 667 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__667.html)
-- [§ 273 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__273.html)
-- [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
-- [Paragraf 675 BGB](https://www.gesetze-im-internet.de/bgb/__675.html)
-
----
-
 ## Anwendungshinweise
 
 Verwende diese Datei als Arbeitsanweisung. Prüfe den einschlägigen Normstand und die falltragenden Entscheidungen in einer amtlichen oder frei zugänglichen Quelle. Prüfe dabei auch Reichweite und spätere Rechtsprechung zur konkreten Frage.
@@ -716,7 +717,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

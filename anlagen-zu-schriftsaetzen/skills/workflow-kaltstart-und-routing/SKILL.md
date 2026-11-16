@@ -1,26 +1,29 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen."
+description: "Für gemischte Belege zu einem Schriftsatz: sichert Originale, unterscheidet Fassungen und ordnet Dokumente den zu belegenden Tatsachen zu. Liefert einen nachvollziehbaren Anlagenbestand."
 ---
 
-# Kaltstart und Routing
+# Belegmaterial sichten und Anlagen vorbereiten
 
 ## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Bereite das vorgelegte Belegmaterial für den Schriftsatz auf. Erhalte die Originale und kläre, welche Fassung welche Tatsachenbehauptung belegen soll.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsablauf
+
+1. Lies zuerst den Schriftsatz oder den konkreten Beweisauftrag. Erfasse die beweisbedürftigen Tatsachen und bereits vergebenen Anlagenkennungen.
+2. Sichere die Originaldateien. Kennzeichne Dubletten, abweichende Fassungen, unvollständige E-Mails und fehlende Anhänge, bevor du Auszüge oder Schwärzungen anfertigst.
+3. Ordne jeder vorgesehenen Anlage Tatsachenbehauptung, Quelle, Beweismittel und gegebenenfalls erforderlichen Beweisantritt zu. Erkläre, wenn ein Beleg die behauptete Tatsache nicht trägt.
+4. Liefere Anlagenverzeichnis und tatsächlich erzeugte Dateien. Prüfe jeden Schriftsatzverweis gegen die Datei sowie Seitenfolge, Lesbarkeit und technische Vorgaben für den vorgesehenen Übermittlungsweg.
 
 ## Routing-Heuristik Anlagen
 - Beweisanlage Urkunde → § 415 ff. ZPO öffentliche Urkunde vs. § 416 ZPO Privaturkunde; Beweiskraft unterschiedlich.
@@ -28,8 +31,8 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Zeugenbeweis → §§ 373 ff. ZPO; in Anlagen Schriftstücke nur ergänzend zum Beweisthema.
 - Sachverständigenbeweis → §§ 402 ff. ZPO; Privatgutachten als Anlage zur Substantiierung, ersetzt aber keinen Gerichtssachverständigen.
 - Parteivernehmung → §§ 445 ff. ZPO; selten Anlagen tragend.
-- Elektronische Anlagen → ERVV: PDF/A, OCR-Texterkennung, max. Größe pro beA-Nachricht beachten.
-- DSGVO bei Drittinteressen → Schwärzung notwendig nach Art. 6 Abs. 1 lit. f DSGVO Interessenabwägung.
+- Elektronische Anlagen: [§ 2 ERVV](https://www.gesetze-im-internet.de/ervv/__2.html) verlangt PDF und erlaubt für nicht verlustfrei abbildbare bildliche Darstellungen zusätzlich TIFF. PDF/A ist keine allgemeine Pflicht aus dieser Norm. Prüfe die für den Versand geltenden Bekanntmachungen nach § 5 ERVV, Formatversionen, technische Eignung und Größenlimits; eine OCR-Fassung muss das Original vollständig und lesbar wiedergeben.
+- Bei Daten Dritter Erforderlichkeit, Rechtsgrundlage und Schutzmaßnahmen konkret prüfen. Nur nicht erforderliche Daten in der Arbeitskopie schwärzen; Beweiswert und gerichtliche Anforderungen berücksichtigen. Eine Schwärzung folgt nicht automatisch aus der bloßen Betroffenheit Dritter. Original und Bearbeitung getrennt erhalten.
 
 ## Praxis-Hinweis
 - Anlagen-Bezeichnung im Schriftsatz mit eindeutigem Stichwort (z. B. "Anlage K3: Kaufvertrag vom 15.3.2024"); Anlagenverzeichnis am Ende des Schriftsatzes.

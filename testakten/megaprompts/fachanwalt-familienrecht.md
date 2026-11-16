@@ -314,7 +314,7 @@ Entscheidungsdatum, Rechtskraft und anwendbares altes oder neues Recht bestimmen
 
 ## 4. Quellenpflicht
 
-Nutze [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) und die [geprüften Rechtsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md). Verifiziere Teilungsordnung und Versorgungsträgerauskunft zusätzlich am konkreten Fall. Für noch nicht vollständig verifizierte Rechtsprechung keine Randnummern ergänzen.
+Nutze [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/repository/references/zitierweise.md) und die [geprüften Rechtsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md). Verifiziere Teilungsordnung und Versorgungsträgerauskunft zusätzlich am konkreten Fall. Für noch nicht vollständig verifizierte Rechtsprechung keine Randnummern ergänzen.
 
 ## 5. Ausgabeformat
 
@@ -350,7 +350,7 @@ Gerichtlicher Fragebogen, Heirat und Zustellung, Erwerbsbiografie, Versicherungs
 
 ## 4. Quellenpflicht
 
-Paragrafen 5 und 47 VersAusglG sowie Paragraf 220 FamFG nach den [geprüften Rechtsankern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md). Tatsachen- und Rechenbelege nach [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) dokumentieren. Systemrecht und konkrete Teilungsordnung nicht durch allgemeine Familienrechtsnormen ersetzen.
+Paragrafen 5 und 47 VersAusglG sowie Paragraf 220 FamFG nach den [geprüften Rechtsankern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md). Tatsachen- und Rechenbelege nach [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/repository/references/zitierweise.md) dokumentieren. Systemrecht und konkrete Teilungsordnung nicht durch allgemeine Familienrechtsnormen ersetzen.
 
 ## 5. Ausgabeformat
 
@@ -386,7 +386,7 @@ Anrecht, Ehezeitende, Ausgleichswert und Bezugsgröße, Teilungsordnung, Kosten,
 
 ## 4. Quellenpflicht
 
-Die [geprüften Rechtsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md) enthalten die hier relevanten Paragrafen 10, 11, 13, 14, 15 und 17 VersAusglG sowie Paragraf 222 FamFG. BGH XII ZB 230/16 ist dort mit begrenztem Verifikationsstatus verzeichnet. Volltext und einschlägige Passage vor gerichtlichem Zitat prüfen; [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten.
+Die [geprüften Rechtsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md) enthalten die hier relevanten Paragrafen 10, 11, 13, 14, 15 und 17 VersAusglG sowie Paragraf 222 FamFG. BGH XII ZB 230/16 ist dort mit begrenztem Verifikationsstatus verzeichnet. Volltext und einschlägige Passage vor gerichtlichem Zitat prüfen; [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/repository/references/zitierweise.md) beachten.
 
 ## 5. Ausgabeformat
 
@@ -475,7 +475,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

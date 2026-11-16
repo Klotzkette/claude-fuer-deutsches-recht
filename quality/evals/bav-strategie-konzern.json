@@ -172,7 +172,7 @@
     "latest_editorial_scope": "Vollständige Textlektüre der aktiven Neufassung; Rechtsquellenprüfung nur im ausdrücklich dokumentierten Umfang. Keine vollständige Steuer-, IFRS- oder Auslandsgutachtenprüfung."
   },
   "workshop_review": {
-    "sha256": "c9e19493d8a437afc70f584f5ef9cbd5e0b32ab6ac74c3608c3143952269f924",
+    "sha256": "4f59c13acff0f961de291030c82a7bedd9dcb3b59d548eae14271c55752bfc70",
     "verdict": "revised",
     "reviewed_on": "2026-11-15",
     "reason": "Fachfassung am 15.11.2026 vollständig redaktionell gelesen und in den dokumentierten Quellenpassagen geprüft. Anschließende Namenskorrektur für Version 445.36.4 anhand des vollständigen Text-Diffs gegengelesen: fiktive Kanzlei, Person, Anrede, Beispieldomain und Aktenzeichenpräfix. Keine zusätzliche umfassende Rechtsquellenprüfung und kein Live-Modelltest.",
@@ -597,7 +597,7 @@
     "bav-strategie-konzern/references/konzern/06-steuer-bilanz-und-international.md": "bed403549c80b033acc06038327f2ad3a09660a092262eb324919efae98c1176",
     "bav-strategie-konzern/references/konzern/07-arbeitsprodukte-und-governance.md": "aeb2289e4210304ec63917a7247dbaae873aacdfed0c3eb7e0f935832f52f572",
     "bav-strategie-konzern/references/konzern/08-quellen-und-rechtsstand.md": "f6a4df6460156db21a63fb1a3d09cf579d92425b85bd65f5c964cfd358a5a79a",
-    "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md": "c9e19493d8a437afc70f584f5ef9cbd5e0b32ab6ac74c3608c3143952269f924",
+    "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md": "4f59c13acff0f961de291030c82a7bedd9dcb3b59d548eae14271c55752bfc70",
     "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md": "111e23e17c2f960ff5d3697749ebd69edc5a5516e29bc07de1653d7cf587b84e"
   },
   "fachaudit_2026_11_15": {

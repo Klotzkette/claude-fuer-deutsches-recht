@@ -638,7 +638,7 @@
       "§ 51b GmbHG verweist nicht auf § 132 Abs. 2 AktG: keine erfundene Zweiwochenfrist. Hauptsache-/Eilanträge, Gegenpartei, Prozessvertretung, Vollziehung und Geheimnisschutz konkret und differenziert.",
       "Kein materieller Fehler im geprüften Text festgestellt; vollständiger Inhalt und bestehendes MD/TXT-Paar unverändert erhalten. Kein Anspruch auf neu durchgeführte Live-Modellprobe oder vollständige externe Rechtsprechungserfassung."
     ],
-    "sha256": "8ff6cee4505224d60344d8b8dff9517f4ebca91f661bd9648a85a3b5345b248b",
+    "sha256": "f0946ae09236a95bfbeaeae30e406880aa3f66c6430533bb30d245dea728907f",
     "reviewed_on": "2026-11-14",
     "method": "desk_review",
     "full_file_read_in_followup": true,
@@ -2145,7 +2145,7 @@
         "method": "visual_block_only",
         "date": "2026-11-16",
         "previous_sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
-        "sha256": "8ff6cee4505224d60344d8b8dff9517f4ebca91f661bd9648a85a3b5345b248b",
+        "sha256": "f0946ae09236a95bfbeaeae30e406880aa3f66c6430533bb30d245dea728907f",
         "body_sha256": "4e892d66c2eb0370349bf423156279fb136c3d5feb62914b3f97145bc973bce6"
       }
     }

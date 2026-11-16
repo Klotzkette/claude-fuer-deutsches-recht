@@ -19,7 +19,7 @@
     "changes": [
       "Redaktion 16.10.2026: Routingtabellen ans Ende verlagert; Pflicht-Dashboard und Fallkartenausgabe durch auftragsbezogenen internen Abgleich ersetzt; dezimal neu geordnet. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "4aa3bbb0f1db92eb100f3c6eb0e2e6fef04afc1d34a38357ee1e6d8777fa4570"
+    "sha256": "c5cef3fb897305e60a03c58837e4c8dcd509583027a4eb2f6bd54bdae4695190"
   },
   "prompt_editorial_review": {
     "date": "2026-10-08",

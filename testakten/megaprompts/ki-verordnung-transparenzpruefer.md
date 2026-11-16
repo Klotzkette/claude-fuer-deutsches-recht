@@ -53,6 +53,12 @@ Erkläre knapp, welche anderen Prüfungen nicht Gegenstand der Entscheidung ware
 
 Die Freigabe ersetzt kein Artikel-9-Systemrisikomanagement, kein Artikel-17-Qualitätsmanagement und keine gegebenenfalls erforderliche Artikel-27-FRIA. Verlange diese Produkte umgekehrt nicht pauschal für jede Kanzleiwebsite, wenn ihr jeweiliger Tatbestand nicht vorliegt.
 
+### 3.1. Reichweite des Freigabesatzes begründen
+
+Formulieren Sie für jede Pflicht den eigenen Schluss: direkte Interaktion, technische Ausgabe, biometrischer Betrieb, Deepfake oder öffentlicher Informationstext. Die Ausnahmen sind nicht austauschbar. Die Textkontrolle entlastet kein Bild; eine für Absatz 1 offensichtliche KI-Interaktion beseitigt nicht die technische Markierungspflicht nach Absatz 2. Ein als künstlich erkanntes Bild ist damit weder wahr noch mit Zustimmung der dargestellten Person hergestellt.
+
+Ordnen Sie belegte Funktion, Endfassung und Vertriebsweg dem Hinweis oder der Nachforderung zu. Nur ein konkret geprüfter Export trägt einen technischen Nachweis für dieses Format. Bei Folgeänderung den betroffenen Schluss wieder aufnehmen, ohne andere nachgewiesene Freigaben grundlos zu verwerfen.
+
 ## 4. Quellenpflicht
 
 [Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
@@ -68,6 +74,8 @@ Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, beg
 ## 6. Beispiele
 
 Der Artikel ist inhaltlich geprüft, die Bildkennzeichnung erscheint aber nur im Desktoplayout. Belasse die belegte Textentscheidung, formuliere die mobile Bildbeschriftung und begrenze die Freigabe bis zur nachgewiesenen Umsetzung. Ein neuer Textcheck wäre keine Antwort auf den mobilen Darstellungsfehler.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 1 bis 5](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/testanker.md).
 
 ---
 
@@ -101,6 +109,12 @@ Nach einer Antwort „nur Kommas und Überschriften“ aktualisiere den Freigabe
 
 Eine redaktionelle Policy, ein ISO-Managementzertifikat oder eine zweite KI ist kein Nachweis der tatsächlichen menschlichen Inhaltsprüfung. Umgekehrt verlangt die Textausnahme kein pauschales Artikel-17-Qualitätsmanagement; die geprüfte Endfassung und redaktionelle Verantwortung sind maßgeblich.
 
+### 3.1. Inhaltliche Aussage statt Dateigleichheit prüfen
+
+Vergleichen Sie die freigegebene und die zu veröffentlichende Aussage. Ein unveränderter Titel bei neu erfundener Tatsachenpassage trägt die alte Freigabe nicht; eine bloße Formatumstellung erzeugt umgekehrt nicht automatisch einen neuen Prüfbedarf für sämtliche Tatsachen. Benennen Sie die tatsächlich geänderten Aussagen und die darauf bezogene menschliche Prüfung. Freigabeprotokoll und redaktionelle Verantwortung sind Beweismittel für den gesetzlichen Tatbestand, keine vom Gesetz vorgeschriebene Form.
+
+Ordnen Sie das Ergebnis ausschließlich der Textausnahme des Absatzes 4 Unterabsatz 2 zu. Eine sachkundige Prüfung kann die Offenlegungspflicht dieses Textes entfallen lassen, bestätigt aber nicht die Kennzeichnungstechnik des Anbieters und nicht die Rechtmäßigkeit daneben verwendeter Medien.
+
 ## 4. Quellenpflicht
 
 [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 3.4 und 4; Artikel 50 Absatz 4 Unterabsatz 2, Kommissionsleitlinien und FAQ zur substanziellen Kontrolle. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Leitlinien als unverbindliche Auslegungshilfe kennzeichnen; keine erfundene Rechtsprechung zur Freigabeform.
@@ -114,6 +128,8 @@ Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die 
 ## 6. Beispiele
 
 Die Partnerin prüfte Version 3; Version 4 enthält einen KI-generierten Erfahrungsbericht. Formuliere die Nachforderung zu diesem Absatz und passe die Veröffentlichungsentscheidung an. Erfinde weder eine Prüfung der neuen Passage noch ein tatsächliches Mandantenerlebnis.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 4](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/testanker.md).
 
 ---
 
@@ -245,6 +261,12 @@ Formuliere anschließend die tatsächlich bestellte E-Mail oder Klausel mit best
 
 Ein ISO-Managementzertifikat oder ein Risikoregister belegt keine wirksame Kennzeichnung der konkreten Ausgabe. Fordere einen formatspezifischen Nachweis an. Nachtraining unter einem Drittel des ursprünglichen Modelltrainings befreit nicht von Artikel 50; diese Leitliniengröße betrifft eine andere, modellbezogene Rollenfrage.
 
+### 3.1. Drei verschiedene Aussagen zur Herkunft auseinanderhalten
+
+Die maschinenlesbare Kennzeichnung belegt bei geeigneter Umsetzung künstliche Erzeugung oder Manipulation. Sie bestätigt weder sachliche Wahrheit noch Rechtefreiheit oder eine lückenlose Bearbeitungsgeschichte. Der fehlende Erkennungstreffer kann aus fehlender Markierung, Exportverlust oder Grenzen des Detektors folgen; ohne den betroffenen Verarbeitungsschritt nicht sofort einen eindeutigen Normverstoß behaupten. Dokumentieren Sie Ausgangsdatei, Bearbeitung, Ausgabeformat und konkretes Prüfresultat.
+
+Für die Ausnahme nach Absatz 2 Eingabe und Ausgabe der einzelnen Funktion vergleichen. Ein Werkzeug kann bei bloßer sprachlicher Glättung anders zu beurteilen sein als beim Ergänzen erfundener Tatsachen. Die anschließende Rechtschreibprüfung beseitigt die ursprüngliche Inhaltsgenerierung nicht. Fordern Sie einen Nachweis gerade für den beanstandeten Generierungs- oder Exportschritt an. Die Vorschrift verlangt nach ihrem Wortlaut keine bestimmte proprietäre Provenienztechnik; eine vereinbarte weitergehende Herkunftsdokumentation als Vertragsleistung kenntlich machen.
+
 ## 4. Quellenpflicht
 
 [Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
@@ -260,6 +282,8 @@ Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründe
 ## 6. Beispiele
 
 Ein PDF-Export enthält keine auslesbaren Herkunftsfelder, während der Anbieter Markierung der ursprünglichen Bilddatei zusagt. Fordere den Originalexport und den vorgesehenen Detektionsweg an. Behaupte weder automatisch einen Verstoß noch automatisch ordnungsgemäße Markierung.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 2 und 3](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/testanker.md).
 
 ---
 
@@ -395,6 +419,12 @@ Wenn die Nachricht eine erhebliche automatische Entscheidung mitteilt, Entscheid
 
 Ein Agent ist keine eigene gesetzliche Risikokategorie. Prüfe tatsächliche Interaktion und zusätzliche Entscheidungsfunktionen. Ein ISO-Zertifikat belegt weder einen hörbaren Ersthinweis noch die tatsächliche menschliche Kontrolle vor Versand.
 
+### 3.2. Offensichtlichkeit vor Beginn und Ausnahme je Absatz prüfen
+
+Beurteilen Sie die Ausnahme nach Artikel 50 Absatz 1 aus dem Kontext, der beim Beginn der Interaktion bereits erkennbar ist. Erst später auftretende Fehler oder die spätere Antwort auf „Sind Sie KI?“ begründen keine rückwirkende Offensichtlichkeit. Ein angekündigter Wechsel von Mensch zu KI braucht eine eigenständige Betrachtung des neuen Kontakts. Halten Sie Wahrnehmung, Zielgruppe und Zeitpunkt im Abnahmevermerk fest.
+
+Die Strafverfolgungsausnahme des Absatzes 1 verlangt gesetzliche Zulassung und geeignete Schutzvorkehrungen. Ihre Rückausnahme greift, wenn das System der Öffentlichkeit zur Anzeige einer Straftat zur Verfügung steht. Diese Rückausnahme nicht aus anderen Absätzen übernehmen oder dort hineinlesen. Ein öffentliches polizeiliches Anzeigenportal ist deshalb ein anderer Fall als eine gesetzlich zugelassene verdeckte Interaktion; beide brauchen ihren eigenen begründeten Vermerk.
+
 ## 4. Quellenpflicht
 
 [Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
@@ -412,6 +442,8 @@ Einsetzbarer Wortlaut und knapp begründete Einbau- und Abnahmeanweisung in voll
 ## 6. Beispiele
 
 Ein Anrufer fragt nach einem Termin, weil er „Lena“ für eine Mitarbeiterin hält. Erstelle eine neue Eröffnung und beschreibe die nötige Änderung vor Gesprächsbeginn. Eine Erläuterung erst auf die Nachfrage „Sind Sie ein Mensch?“ ist keine geeignete Erstinformation.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 1 und 5](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/testanker.md).
 
 ---
 
@@ -438,7 +470,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

@@ -184,21 +184,21 @@ Dieser Einstieg routet **Gewerblicher Rechtsschutz** vom ersten Sachverhalt zu R
 
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-compliance-dokumentation-und-akte` — Abmahnung Compliance Dokumentation und Akte
-- `abmahnung-urheberrecht-erfindungsmeldung` — Abmahnung Urheberrecht Erfindungsmeldung
-- `anmeldung-spezial-compliance-euipo` — Anmeldung Spezial Compliance Euipo
-- `anpassen` — Anpassen
-- `compliance-mandantenkommunikation-entscheidungsvorlage` — Compliance Mandantenkommunikation Entscheidungsvorlage
-- `dpma-fristen-form-und-zustaendigkeit` — Dpma Fristen Form und Zustaendigkeit
-- `erfindungsmeldung-aufnahme` — Erfindungsmeldung Aufnahme
-- `euipo-dokumentenmatrix-und-lueckenliste` — Euipo Dokumentenmatrix und Lueckenliste
-- `evvollzug-auslandszustellung-ev-abmahnung` — Evvollzug Auslandszustellung EV Abmahnung
-- `evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist` — Evvollzug NEU 001 Einstweilige Verfuegung Vollziehung Frist
-- `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust` — Evvollzug NEU 002 Urteilsverfuegung Beschlussverfuegung und Zust
-- `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi` — Evvollzug NEU 004 BEA Zustellung Einstweiliger Rechtsschutz Risi
-- `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun` — Evvollzug NEU 005 Ordnungsmittelantrag Vollstreckung Unterlassun
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `verfahrensstrategie-bearbeiten` (Fachthema: abmahnung-compliance-dokumentation-und-akte) — Abmahnung Compliance Dokumentation und Akte
+- `arbeitsprodukt-bearbeiten` (Fachthema: abmahnung-urheberrecht-erfindungsmeldung) — Abmahnung Urheberrecht Erfindungsmeldung
+- `rechtsbestand-und-register-bearbeiten` (Fachthema: anmeldung-spezial-compliance-euipo) — Anmeldung Spezial Compliance Euipo
+- `rechtsposition-bearbeiten` (Fachthema: anpassen) — Anpassen
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: compliance-mandantenkommunikation-entscheidungsvorlage) — Compliance Mandantenkommunikation Entscheidungsvorlage
+- `verfahrensstrategie-bearbeiten` (Fachthema: dpma-fristen-form-und-zustaendigkeit) — Dpma Fristen Form und Zustaendigkeit
+- `rechtsposition-bearbeiten` (Fachthema: erfindungsmeldung-aufnahme) — Erfindungsmeldung Aufnahme
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: euipo-dokumentenmatrix-und-lueckenliste) — Euipo Dokumentenmatrix und Lueckenliste
+- `arbeitsprodukt-bearbeiten` (Fachthema: evvollzug-auslandszustellung-ev-abmahnung) — Evvollzug Auslandszustellung EV Abmahnung
+- `verfahrensstrategie-bearbeiten` (Fachthema: evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist) — Evvollzug NEU 001 Einstweilige Verfuegung Vollziehung Frist
+- `rechtsposition-bearbeiten` (Fachthema: evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust) — Evvollzug NEU 002 Urteilsverfuegung Beschlussverfuegung und Zust
+- `rechtsposition-bearbeiten` (Fachthema: evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi) — Evvollzug NEU 004 BEA Zustellung Einstweiliger Rechtsschutz Risi
+- `arbeitsprodukt-bearbeiten` (Fachthema: evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun) — Evvollzug NEU 005 Ordnungsmittelantrag Vollstreckung Unterlassun
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -1008,7 +1008,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

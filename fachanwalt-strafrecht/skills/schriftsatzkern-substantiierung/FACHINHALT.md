@@ -111,7 +111,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. Verfahrenshindernisse von Amts wegen geprueft (Verjährung, Strafantrag)?
 5. Beweisantraege bestimmt formuliert (Tatsache + Mittel + Konnexitaet)?
 6. Anlagenverzeichnis vollstaendig?
-7. beA-Konformitaet (PDF/A, ERVV, qeS bzw. sicherer Uebermittlungsweg)?
+7. PDF-Format und technische Standards nach [§ 2 ERVV](https://www.gesetze-im-internet.de/ervv/__2.html) und [§ 5 ERVV](https://www.gesetze-im-internet.de/ervv/__5.html) geprüft? Erforderliche Signatur und Übermittlungsweg nach der einschlägigen Verfahrensordnung gesondert bestimmen; PDF/A ist nicht generell vorgeschrieben.
 8. Vier-Augen-Prüfung durch Sozius oder Senior-Verteidigerin?
 
 ## Rechtsprechungs-Werkzeugkasten

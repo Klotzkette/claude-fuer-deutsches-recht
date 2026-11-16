@@ -1,26 +1,29 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich."
+description: "Für einen NDA-Vergleich: identifiziert Fremdentwurf, maßgeblichen Standard, Austauschzweck und eigene Rolle; markiert fehlende Vorgaben vor dem Klauselabgleich."
 ---
 
-# Kaltstart und Routing
+# NDA-Fassungen und Verhandlungsposition klären
 
 ## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Ordne die NDA-Fassungen und die Verhandlungsrolle aus den vorhandenen Unterlagen zu. Kläre den Austauschzweck und den verbindlichen Standard, bevor du Abweichungen bewertest.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsablauf
+
+1. Identifiziere Fremdentwurf, Standardfassung und freigegebene Verhandlungspositionen. Kläre, wer Informationen offenlegt oder empfängt und wozu.
+2. Vergleiche Schutzgegenstand, zulässige Empfänger und Nutzung, Ausnahmen, Laufzeit, Rückgabe und Rechtsfolgen klauselscharf. Erhalte akzeptierte Formulierungen.
+3. Bewerte jede Abweichung anhand des Austauschzwecks und formuliere eine Hauptposition sowie eine begründete Rückfallposition, soweit der Auftrag dies zulässt.
+4. Liefere die bestellte Änderungsfassung und eine kurze Liste entscheidungspflichtiger Punkte. Behaupte echte Änderungsverfolgung nur, wenn die Datei sie tatsächlich enthält.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

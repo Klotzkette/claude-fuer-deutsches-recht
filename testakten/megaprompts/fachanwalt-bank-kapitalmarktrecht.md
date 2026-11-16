@@ -175,21 +175,21 @@ Dieser Einstieg routet **Fachanwalt Bank Kapitalmarktrecht** vom ersten Sachverh
 
 ## Fachlandkarte dieses Plugins
 
-- `anlageberatung-fehlerhaft` — Anlageberatung Fehlerhaft Cybertrading
-- `anlageberatungsfehler-pruefen` — Anlageberatungsfehler Bankrecht Akkreditiv
-- `bankaufsicht-erlaubnis-und-vertrieb` — Bankaufsicht Erlaubnis Emissionsprospekt
-- `bankrecht-buergschaft-aval-garantie-routing` — Bankrecht Buergschaft Aval Garantieabruf
-- `bankrecht-privatbuergschaft-sittenwidrigkeit` — Bankrecht Privatbuergschaft Regress BK
-- `praemiensparvertrag-zinsanpassung-bgh-xi-zr-44-23` — Zinsanpassung im Prämiensparvertrag prüfen
-- `beratungshaftung-zahlen-schwellen-und-berechnung` — Beratungshaftung Haftung Beweislast BK CUM
-- `bk-bankenfehlberatung-grundzuege` — BK Bankenfehlberatung Grundzuege Einfuehrung
-- `bk-mifid-suitability-spezial` — BK Mifid BK Prip Erstgespraech Mandatsannahme
-- `cum-ex-beihilfe-bgh-1-str-519-20` — CUM EX Beihilfe BGH 1 STR 519 20
-- `variabler-sparzins-zinsanpassung-pruefen` — Variablen Sparzins und Zinsanpassung prüfen
-- `einstieg-schnelltriage-fallrouting` — FA Bank Kapitalmarkt BK Bafin Chronologie
-- `workflow-fristen-und-risikoampel` — FA Bank Kapitalmarkt Fristen Risiko Mandant
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: anlageberatung-fehlerhaft) — Anlageberatung Fehlerhaft Cybertrading
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: anlageberatungsfehler-pruefen) — Anlageberatungsfehler Bankrecht Akkreditiv
+- `aufsicht-compliance-und-organisation-bearbeiten` (Fachthema: bankaufsicht-erlaubnis-und-vertrieb) — Bankaufsicht Erlaubnis Emissionsprospekt
+- `kredit-und-sicherheiten-bearbeiten` (Fachthema: bankrecht-buergschaft-aval-garantie-routing) — Bankrecht Buergschaft Aval Garantieabruf
+- `kredit-und-sicherheiten-bearbeiten` (Fachthema: bankrecht-privatbuergschaft-sittenwidrigkeit) — Bankrecht Privatbuergschaft Regress BK
+- `vertrag-haftung-und-rechtsschutz-bearbeiten` (Fachthema: praemiensparvertrag-zinsanpassung-bgh-xi-zr-44-23) — Zinsanpassung im Prämiensparvertrag prüfen
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: beratungshaftung-zahlen-schwellen-und-berechnung) — Beratungshaftung Haftung Beweislast BK CUM
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: bk-bankenfehlberatung-grundzuege) — BK Bankenfehlberatung Grundzuege Einfuehrung
+- `anlage-und-kapitalmarkt-bearbeiten` (Fachthema: bk-mifid-suitability-spezial) — BK Mifid BK Prip Erstgespraech Mandatsannahme
+- `vertrag-haftung-und-rechtsschutz-bearbeiten` (Fachthema: cum-ex-beihilfe-bgh-1-str-519-20) — CUM EX Beihilfe BGH 1 STR 519 20
+- `vertrag-haftung-und-rechtsschutz-bearbeiten` (Fachthema: variabler-sparzins-zinsanpassung-pruefen) — Variablen Sparzins und Zinsanpassung prüfen
+- `aufsicht-compliance-und-organisation-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — FA Bank Kapitalmarkt BK Bafin Chronologie
+- `aufsicht-compliance-und-organisation-bearbeiten` (Fachthema: workflow-fristen-und-risikoampel) — FA Bank Kapitalmarkt Fristen Risiko Mandant
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -1076,7 +1076,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

@@ -24,7 +24,7 @@ Rechnen Sie mit Dezimalzahlen. Stimmen Sie Positionen, Nachlässe und Zuschläge
 
 Verwenden Sie die passende Vorgabe. Bei offenem Ziel wählen Sie für einen B2B-Empfänger, der das Format annimmt, grundsätzlich ZUGFeRD im Profil EN 16931. Bei verlangter XRechnung erzeugen Sie das richtige XML. Prüfen Sie Käuferreferenz, gegebenenfalls Leitweg-ID, Bestellung und elektronische Adressen anhand der konkreten Empfängervorgabe. Eine Mailadresse und eine Peppol-Kennung sind nicht austauschbar.
 
-Prüfen Sie vor Einsatz den aktuellen Stand. Primärquellen führen am 6. November 2026 ZUGFeRD 2.5.2 und XRechnung 3.0.2 mit Bundle vom 31. August 2026. XRechnung 4.0 ist eine Vorversion. Die hier gewählte EN-16931-Ausgabe ist eine Produktwahl; MINIMUM und BASIC-WL werden nicht als vollständige E-Rechnung verwendet. Dokumentieren Sie Standard, Profil, Syntax und Regelstand getrennt.
+Prüfen Sie Standard, Profil, Syntax und Regelstand. Prüfstand 6.11.2026: ZUGFeRD 2.5.2; XRechnung 3.0.2, Bundle 31.08.2026; XRechnung 4.0 ist Vorversion. MINIMUM und BASIC-WL werden hier nicht als vollständige E-Rechnung verwendet.
 
 Verwenden Sie eine geeignete verfügbare Anwendung. Im Plugin lesen Sie die tatsächliche Anleitung unter `werkzeuge/`. Der lokale Standardgenerator unterstützt den dort dokumentierten Umfang gewöhnlicher EUR-Inlandsrechnungen des Typs 380 mit Zahlungsart 58 (Überweisung) und Positionen mit 7 oder 19 Prozent. Der Aufruf lautet:
 
@@ -44,4 +44,4 @@ Prüfen Sie abschließend falschen Empfänger, falsche Leistung, doppelte Faktur
 
 Formulieren Sie Leistungsbeschreibungen und Begleittexte vollständig. Formatierte Begleitdokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Das Rechnungsformular darf ein geeignetes Tabellenlayout verwenden. Technische Hinweise stehen getrennt vom Empfängertext.
 
-Nutzen Sie [§ 14](https://www.gesetze-im-internet.de/ustg_1980/__14.html), [§ 14a](https://www.gesetze-im-internet.de/ustg_1980/__14a.html) und [§ 14c UStG](https://www.gesetze-im-internet.de/ustg_1980/__14c.html), [FeRD](https://www.ferd-net.de/download-zugferd), [KoSIT](https://xeinkauf.de/xrechnung/versionen-und-bundles/) und die tatsächlichen Empfängerregeln. Zitieren Sie keine ungeprüften Fundstellen. Die fachliche Belegprüfung und eine tatsächliche technische Validierung sind jeweils zu dokumentieren.
+Prüfen Sie §§ 14, 14a, 14c und 27 Abs. 38 UStG sowie die tatsächlichen Empfängerregeln. Nach dem [BMF-Schreiben vom 15.10.2026](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Umsatzsteuer/Umsatzsteuer-Anwendungserlass/2026-10-15-obligatorische-elektronische-rechnung.pdf?__blob=publicationFile&v=1), Rn. 22–23, ist ein Geschäftsregelfehler nicht automatisch ein steuerlicher Formatfehler. Bestimmen Sie die betroffene Pflichtangabe, bevor Sie steuerliche Folgen ableiten. Technische Mängel bleiben zu beheben. Quellen und Prüfungen dokumentieren.

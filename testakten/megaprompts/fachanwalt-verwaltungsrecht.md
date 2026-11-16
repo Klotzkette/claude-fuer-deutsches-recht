@@ -194,21 +194,21 @@ Dieser Einstieg routet **Fachanwalt Verwaltungsrecht** vom ersten Sachverhalt zu
 
 ## Fachlandkarte dieses Plugins
 
-- `amtshaftung-paragraf-839-bgb-art-34-gg` — Amtshaftung Paragraf 839 BGB ART 34 GG
-- `anfechtungs-risikoampel-und-gegenargumente` — Anfechtungs Eilrechtsschutz ABS
-- `anhoerung-paragraf-28-vwvfg` — Anhoerung Paragraf 28 Vwvfg
-- `anordnung-quellenkarte` — Anordnung Quellenkarte
-- `drittanfechtung-umwelt` — Drittanfechtung
-- `eilrechtsschutz-paragraf-80-vwgo` — Eilrechtsschutz Paragraf 80 Vwgo
-- `einstweilige-verhandlung-vergleich-und-eskalation` — Einstweilige Fachanwalt Kanzlei
-- `ermessen-paragraf-40-vwvfg` — Ermessen Paragraf 40 Vwvfg
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme FA Vwgo
-- `workflow-mandantenkommunikation` — FA Verwaltungsrecht Mandant Redteam Gate
-- `einstieg-schnelltriage-fallrouting` — FA Verwaltungsrecht Start Chronologie Fristen
-- `rechtsbehelfsbelehrung-jahresfrist-vwgo` — Rechtsbehelfsbelehrung und Jahresfrist prüfen
-- `kommunalrecht-paragraf-2-go` — Kommunalrecht Paragraf 2 GO
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `materielle-rechtmaessigkeit-bearbeiten` (Fachthema: amtshaftung-paragraf-839-bgb-art-34-gg) — Amtshaftung Paragraf 839 BGB ART 34 GG
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: anfechtungs-risikoampel-und-gegenargumente) — Anfechtungs Eilrechtsschutz ABS
+- `materielle-rechtmaessigkeit-bearbeiten` (Fachthema: anhoerung-paragraf-28-vwvfg) — Anhoerung Paragraf 28 Vwvfg
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anordnung-quellenkarte) — Anordnung Quellenkarte
+- `zulaessigkeit-bearbeiten` (Fachthema: drittanfechtung-umwelt) — Drittanfechtung
+- `eilrechtsschutz-bearbeiten` (Fachthema: eilrechtsschutz-paragraf-80-vwgo) — Eilrechtsschutz Paragraf 80 Vwgo
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: einstweilige-verhandlung-vergleich-und-eskalation) — Einstweilige Fachanwalt Kanzlei
+- `materielle-rechtmaessigkeit-bearbeiten` (Fachthema: ermessen-paragraf-40-vwvfg) — Ermessen Paragraf 40 Vwvfg
+- `verwaltungshandeln-bearbeiten` (Fachthema: erstgespraech-mandatsannahme) — Erstgespraech Mandatsannahme FA Vwgo
+- `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: workflow-mandantenkommunikation) — FA Verwaltungsrecht Mandant Redteam Gate
+- `zulaessigkeit-bearbeiten` (Fachthema: einstieg-schnelltriage-fallrouting) — FA Verwaltungsrecht Start Chronologie Fristen
+- `zulaessigkeit-bearbeiten` (Fachthema: rechtsbehelfsbelehrung-jahresfrist-vwgo) — Rechtsbehelfsbelehrung und Jahresfrist prüfen
+- `materielle-rechtmaessigkeit-bearbeiten` (Fachthema: kommunalrecht-paragraf-2-go) — Kommunalrecht Paragraf 2 GO
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
+- `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
 
 ## Arbeitsweg
 
@@ -999,7 +999,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

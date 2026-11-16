@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: aktenauszug-gerichtsverfahren."
+description: "Für einen angeforderten Aktenauszug: führt Parteivortrag, gerichtliche Feststellungen und Beweismittel nach Streitfragen zusammen; liefert einen fundstellengenauen Auszug mit offenen Punkten."
 ---
 
-# Einstieg und Routing
+# Aktenauszug nach Streitfragen erstellen
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Aktenauszug Gerichtsverfahren** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Erstelle den angeforderten Aktenauszug nach Streitfragen. Stelle Behauptungen, Feststellungen und Beweise mit ihren genauen Fundstellen gegenüber.
+
+## Arbeitsweg
+
+1. Bestimme Gericht, Instanz, Aktenzeichen, vertretene Partei und den Zweck des Auszugs aus den Unterlagen. Trenne parallel geführte Verfahren.
+2. Verzeichne Dokumentdatum, Eingang oder Zustellung, Urheber, Blatt beziehungsweise Datei und Seite. Ermittle fehlende Anlagen und Fassungswidersprüche.
+3. Ordne jede Streitfrage nach Vortrag beider Seiten, gerichtlicher Feststellung und Beweis. Eine behauptete Tatsache bleibt als Behauptung erkennbar.
+4. Erstelle den bestellten Auszug mit Fundstellen und gesonderter Fristennotiz. Bei nachgereichten Dokumenten die betroffene Streitfrage und Chronologie fortschreiben.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,14 +33,6 @@ Dieser Einstieg routet **Aktenauszug Gerichtsverfahren** vom ersten Sachverhalt 
 - `arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten` (Fachthema: arbeitsgerichtsverfahren-modus-terminkalender) — Arbeitsgerichtsverfahren Modus Terminkalender
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Aktenauszug Gerichtsverfahren sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

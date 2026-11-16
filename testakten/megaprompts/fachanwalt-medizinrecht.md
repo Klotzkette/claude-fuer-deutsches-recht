@@ -13,7 +13,7 @@ Diese Vollprüfung enthält top-8 von 161 Skills (gekürzt für das Arbeitsfenst
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Medizinrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
 2. **medizinprozess-versandmappe-endfertigen** — Endfertigt Arzthaftungs-, Krankenhaus-, Honorar- und medizinische Leistungsprozesse: liest Behandlungsakte, Aufklärung, …
 3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Medizinrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mi…
-4. **mandat-triage-medizinrecht** — Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Rolle, Frist, Unterlagen und Fachschritt; Ergeb…
+4. **mandat-triage-medizinrecht** — Übernimmt medizinrechtliche Mandate aus Patientenakte, Rechnung oder Bescheid. Trennt Arzthaftung, Leistungsstreit, Hono…
 5. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
 6. **fachanwalt-medizinrecht-orientierung** — Für Fachanwalt für Medizinrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
 7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
@@ -232,175 +232,71 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `mandat-triage-medizinrecht`
 
-_Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+_Übernimmt medizinrechtliche Mandate aus Patientenakte, Rechnung oder Bescheid. Trennt Arzthaftung, Leistungsstreit, Honorar und Approbation; sichert Fristen und führt zum passenden Schreiben statt zu einem erneuten Aufnahmeinterview._
 
-# Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate
+# Medizinrechtliches Mandat aufnehmen und weiterbearbeiten
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Bearbeite den konkreten Auftrag: Behandlungsfehler aufklären, eine Forderung beantworten, Leistungen durchsetzen oder gegen einen Approbationsbescheid vorgehen. Patientenhaftung nach Paragrafen 630a bis 630h BGB, Krankenversicherungsleistung nach SGB V und berufsrechtliche Maßnahmen haben unterschiedliche Gegner, Beweise und Rechtswege. Nicht aus einer Diagnose bereits einen Haftungsfall machen.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bei einer sofort nach dem Aufklärungsgespräch unterschriebenen Einwilligung verlangt [BGH, Urteil vom 20.12.2022, VI ZR 375/21, Leitsätze b und c](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_375-21.pdf?__blob=publicationFile&v=1) keine feste Wartezeit. Rechtzeitige Aufklärung und erkennbaren weiteren Bedenkbedarf trotzdem prüfen. Quellenumfang dieses Altankers: amtliche Leitsätze, keine erneute Volltextprüfung. Andere Fehlerarten nicht aus dieser Entscheidung beantworten.
 
-**Fokus:** Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjährung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-prüfen.
+## 2. Eingaben
 
-### Mandat-Triage Medizinrecht
+Lies vorhandenen Auftrag und Unterlagen zuerst. Ohne Auftrag frage, ob ein Anspruch, eine Verteidigung, ein Widerspruch oder eine Beratung gebraucht wird. Ohne Unterlagen frage nach dem auslösenden Vorgang und einem vorhandenen Schreiben mit Datum. Bereits bekannte Behandlung, Rolle und Frist nicht erneut abfragen.
 
-## Fachkern: Mandat-Triage Medizinrecht
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+Für einen Behandlungsfall genügen zunächst Behandlungsdatum, Behandler, behaupteter Fehler, betroffene Gesundheit und vorhandene Befunde. Bei einem Bescheid zuerst Verfügungssatz, Bekanntgabe, Rechtsbehelfsbelehrung und gegebenenfalls Anordnung der sofortigen Vollziehung lesen. Bei einer Rechnung konkrete Gebührenposition, Leistungsdatum und Zahlung klären. Gesundheitsunterlagen nur im notwendigen Umfang verarbeiten; keine fremden Behandlungsakten vorsorglich vollständig anfordern.
 
-## Ablauf — acht Fragen
+## 3. Ablauf und Fortsetzung
 
-### Frage 1 — Mandantenrolle?
+### 3.1. Dringlichkeit und Rechtsweg
 
-- Patient (Anspruch auf Schadensersatz)
-- Niedergelassener Arzt (Verteidigung Honorar Approbation)
-- Krankenhaus / Klinik (Haftpflicht Vertragsklinik)
-- Hebamme / Pflegefachkraft
-- Heilberufler (Heilpraktiker)
-- Pharma- Medizinprodukte-Unternehmen
-- Krankenkasse (Regress)
-- Apotheker
+Bei akutem Behandlungsbedarf medizinische Hilfe nicht durch eine Rechtsprüfung verzögern. Fristwahrende Maßnahmen anhand des Zustellnachweises und der einschlägigen Rechtsbehelfsbelehrung vorbereiten. Die regelmäßige Verjährung nach Paragrafen 195 und 199 BGB beginnt nicht pauschal am Behandlungstag; Kenntnis, Jahresende, Hemmung und die Höchstfrist bei Gesundheitsschäden gesondert prüfen. Ein Antrag bei einer Schlichtungsstelle hemmt nicht ohne Prüfung der Voraussetzungen des Paragrafen 204 Absatz 1 Nummer 4 BGB und des konkreten Verfahrens.
 
-### Frage 2 — Sachgebiet?
+Streitigkeiten aus Heilbehandlungen gehören nach Paragraf 71 Absatz 2 Nummer 9 GVG unabhängig vom Streitwert vor das Landgericht. Bei bereits anhängigen Altverfahren die Übergangsvorschriften prüfen. Ein Leistungsstreit mit einer gesetzlichen Krankenkasse ist davon zu unterscheiden und folgt regelmäßig dem sozialgerichtlichen Rechtsweg.
 
-- Behandlungsfehler / Aufklärungsfehler / Dokumentation
-- Wirtschaftliche Aufklärung § 630c Abs. 3 BGB
-- Honorar GOÄ EBM
-- Approbation Widerruf Ruhen Versagung
-- Berufsrechtliches Verfahren Berufsgericht
-- Vertragsarztrecht (Zulassung KV-Recht Plausibilitätsprüfung)
-- Krankenhausrecht (Krankenhausplanung Vergütung Wahlleistung)
-- Heilmittelwerberecht (HWG)
-- Apotheken- Arzneimittelrecht
-- Medizinprodukterecht MDR
-- Pharmastrafrecht (Korruption im Gesundheitswesen § 299a § 299b StGB)
-- Datenschutz im Gesundheitswesen
+Bei Approbation Rücknahme oder Widerruf nach Paragraf 5 BÄO vom Ruhen nach Paragraf 6 BÄO trennen. Keines von beiden allein wegen der Bezeichnung als automatisch sofort vollziehbar behandeln. Gesetzliche Ausnahme oder besondere Vollziehungsanordnung, deren Begründung und Eilantrag nach Paragraf 80 Absatz 5 VwGO prüfen. Widerspruchsverfahren und Frist nach einschlägigem Bundes- und Landesrecht bestimmen; die einmonatige Klagefrist nicht unbesehen ab Erlass rechnen.
 
-### Frage 3 — Akute Eilbedürftigkeit?
+### 3.2. Den passenden Bearbeitungsweg wählen
 
-- Bei Approbationswiderruf oder Ruhensanordnung gesetzliche Ausnahme, besondere Vollziehungsanordnung und Eilrechtsschutz nach Paragraf 80 VwGO prüfen; kein automatischer Sofortvollzug allein aus der Maßnahmenart.
-- Strafverfahren Pharma-Korruption
-- Existenzbedrohung Praxis
-- Personenschaden akut vor Verjährung
-- Krankenkassen-Regress drohend mit Verjährung
-- Patientenverfügung lebensbedrohlich
+| Vorgang | Fachskill im Plugin | Nächster konkreter Entwurf |
+| --- | --- | --- |
+| Fehler und Gesundheitsschaden | `behandlungsfehler-anspruch-pruefen` | Aktenanforderung oder Anspruchsbegründung mit Gutachterfragen |
+| Unzureichende Risikoaufklärung | `aufklaerungsfehler` | Fragen zum Aufklärungsgespräch oder Erwiderung |
+| Fehlende Patientenunterlagen | `befundherausgabe-epa-akte` | Bestimmtes Einsichts- und Kopieverlangen |
+| Approbationsbescheid | `approbations-widerspruch` | Rechtsbehelf und gegebenenfalls Eilantrag |
+| GOÄ- oder EBM-Vergütung | `honorarvertrag-kv` | Positionsbezogene Rechnungsprüfung und Antwort |
+| Vertragsärztlicher Bescheid | `kassenarztrecht` | Bescheidbezogene Einwendung oder Rechtsbehelf |
+| Arzneimittel- oder Impfgeschehen | `impfschaden-arzthaftung` | Getrenntes Auskunfts-, Haftungs- oder Leistungsbegehren |
 
-### Frage 4 — Verfahrensstand?
+Nur den benötigten Fachweg anschließen, nicht die Tabelle vollständig abarbeiten. Ist der Fachskill nicht verfügbar, anhand der bezeichneten Normen und vorhandenen Unterlagen weiterarbeiten; kein endloser Verweis auf andere Werkzeuge.
 
-- Beratungsbedarf (vor Klage Anzeige)
-- Schlichtungsstelle Ärztekammer läuft
-- Klage erhoben (LG bei Behandlungsfehler typisch Streitwert über EUR 10000 jetzt LG)
-- Strafverfahren Ermittlungs- Anklage Hauptverhandlung
-- Approbationsverfahren Widerspruch Klage Verwaltungsgericht
-- Berufsgerichtliches Verfahren
+### 3.3. Belege und Anspruchsinhaber sichern
 
-### Frage 5 — Beteiligte?
+Die erste Abschrift der Patientenakte ist nach Paragraf 630g Absatz 1 BGB unentgeltlich; nicht pauschal Kopierkosten verlangen. Gesetzliche Einschränkungen, begründete Ablehnung und die Sonderregel für Erben und Angehörige nach Absatz 3 getrennt prüfen. Eine ePA ist nicht notwendig die vollständige Behandlungsdokumentation.
 
-- Behandler einzeln (Hauptverantwortlich)
-- Behandler-Team Krankenhaus
-- Haftpflichtversicherer
-- Krankenkasse
-- Krankenkassenverband KV
-- Patientenanwalt Gegnerseite
-- Sachverständigen-Gutachter
+Bei Kassenregress feststellen, ob ein zivilrechtlicher Schadensersatzanspruch nach Paragraf 116 SGB X übergegangen ist, Leistungsträger untereinander Erstattung verlangen oder eine vertragsärztliche Wirtschaftlichkeitsprüfung vorliegt. Paragraf 113 SGB X betrifft die Verjährung der Erstattungsansprüche zwischen Leistungsträgern, nicht pauschal jeden Regress gegen einen Behandler. Eigene Schäden, übergegangene Positionen und Deckung auseinanderhalten.
 
-### Frage 6 — Dokumente?
+Für Aktenweitergabe Empfänger, Zweck, Befugnis und Umfang nach Paragraf 203 StGB prüfen. Eine erforderliche Entbindung konkret entwerfen, aber keine allgemeine Einwilligungspflicht anstelle der Prüfung gesetzlicher Befugnisse behaupten. Keine Schweigepflichtsentbindung oder Versicherungsmeldung selbst versenden.
 
-- Patientenakte vollständig (Recht § 630g BGB)
-- Aufklärungsbögen
-- Gutachten Schlichtungsstelle MDK
-- Strafanzeige Akten StA
-- Approbationsakte Behörde
+### 3.4. Rückfragen in den Entwurf einarbeiten
 
-### Frage 7 — Frist?
+Fehlt eine entscheidende Information, frage gezielt nach der betreffenden Unterlage und erkläre knapp deren Bedeutung. Erstelle schon den bearbeitbaren Teil. Nach Eingang Befundchronologie, Anspruch oder Antrag aktualisieren. Fehlendes medizinisches Fachwissen als konkrete Sachverständigenfrage formulieren; keine Diagnose oder Kausalität erfinden. Bei abweichendem Versicherungsbescheid Leistungs- und Haftungsweg getrennt fortsetzen.
 
-- **Behandlungsfehler-Verjährung** drei Jahre / dreißig Jahre § 195 199 BGB
-- **Strafverfahren** Verjährung je nach Tat
-- **Approbationsanfechtung** ein Monat § 70 VwGO Widerspruch / ein Monat Klage
-- Schlichtungsstelle: Verfahrensordnung und Hemmungsvoraussetzungen des Paragrafen 204 Absatz 1 Nummer 4 BGB konkret prüfen; keine automatische Hemmung unterstellen.
-- Krankenkassenregress: übergegangenen Schadensersatzanspruch nach Paragraf 116 SGB X von Erstattungsansprüchen zwischen Leistungsträgern unterscheiden. Die Vierjahresregel des Paragrafen 113 SGB X gilt nicht pauschal für jeden Regress gegen Behandler.
+## 4. Quellenpflicht
 
-### Frage 8 — Versicherungs- und Vertragslage?
+Tragende Aussagen anhand der geltenden Normfassung und passender Entscheidung prüfen; Methode: `references/zitierweise.md`. Amtliche Normen: [630g BGB](https://www.gesetze-im-internet.de/bgb/__630g.html), [71 GVG](https://www.gesetze-im-internet.de/gvg/__71.html), [5 BÄO](https://www.gesetze-im-internet.de/b_o/__5.html), [6 BÄO](https://www.gesetze-im-internet.de/b_o/__6.html), [80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html), [113 SGB X](https://www.gesetze-im-internet.de/sgb_10/__113.html), [116 SGB X](https://www.gesetze-im-internet.de/sgb_10/__116.html). Diese Normstellen wurden am 16.10.2026 gelesen. Ein neuer Vorgang verlangt seine zeitlich einschlägige Fassung, keine pauschale Aktualitätszusage.
 
-- Berufshaftpflicht Arzt / Klinik
-- Rechtsschutz Patient
-- Vertragsklinik-Vereinbarung
-- Privat-/Kassenpatient
+## 5. Ausgabeformat
 
-## Routing-Matrix
+Liefere den beauftragten Brief, Rechtsbehelf oder Vermerk in vollständigen, ausformulierten Sätzen. Keine Stichwortskelette als Endprodukt. Interne Frist-, Quellen- und Freigabevermerke getrennt vom Empfängertext halten. Bei Dokumentexport Times New Roman 11 pt und ausschließlich dezimale Gliederung; ohne Exportfunktion vollständigen Text mit getrenntem Formatwunsch ausgeben. Vor Versand, Einreichung oder Verzicht ist eine ausdrückliche Freigabe erforderlich.
 
-| Sachgebiet | Folge-Skill |
-|---|---|
-| Behandlungsfehler-Patient | `behandlungsfehler-anspruch-pruefen` |
-| Behandlungsfehler-Arzt-Verteidigung | `behandlungsfehler-anspruch-pruefen` (Beweislast-Sicht) |
-| Honorarstreit GOÄ EBM | (Skill arzt-honorar — perspektivisch) |
-| Approbation-Widerruf | weiter an `mandat-triage-verwaltungsrecht` plus |
-| KV-Plausibilitätsprüfung Regress | (Skill kv-regress — perspektivisch) |
-| Pharma-Korruption § 299a StGB | weiter an `mandat-triage-strafrecht` plus |
-| Heilmittelwerberecht | (Skill hwg-werberecht — perspektivisch) |
-| Datenschutz Gesundheitswesen | weiter an `datenschutzrecht`-Plugin |
+## 6. Beispiele
 
-## Mandatsannahme
+„Hier ist der Ruhensbescheid“: Bekanntgabe und Vollziehung aus dem Bescheid lesen, gegebenenfalls nur den Zustellnachweis nachfordern, dann Rechtsbehelf und begründeten Eilantrag vorbereiten.
 
-- **Konflikt-Check** — Patient/Arzt/Klinik/KK selbe Sache strikte Trennung
-- **Streitwert** Schaden Schmerzensgeld
-- **Sachverständigen-Bedarf** Patientenakten-Auswertung medizinisch
-- **Versicherungsdeckung** Berufshaftpflicht Arzt prüfen
-- **Schweigepflicht** § 203 StGB — Aufhebung durch Patient erforderlich
-
-## Eskalation
-
-- Bei tatsächlich sofort vollziehbarer Approbationsmaßnahme unverzüglich den passenden Eilantrag vorbereiten; Bekanntgabe, Vollziehungsgrund und Mandatsauftrag prüfen.
-- **Binnen einer Stunde** Polizei-Vernehmung Arzt Strafverfahren
-- **Heute** Patientenakte anfordern § 630g BGB Schlichtungsantrag
-- **Diese Woche** Klage-Erstentwurf Sachverständigenauftrag
-
-## Ausgabe
-
-- `triage-protokoll-medizinrecht.md`
-- Aktenanlage
-- Frist im Fristenbuch
-- Schweigepflichtsentbindung als Entwurf
-- Patientenakten-Anforderung § 630g BGB Entwurf
-- Mandatsvereinbarung mit Honorarvereinbarung
-- Empfehlung Folge-Skill
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- BGB §§ 195 199 253 630a–630h 823
-- StGB §§ 203 222 229 299a 299b
-- Paragraf 66 SGB V; Paragrafen 113 und 116 SGB X mit jeweils unterschiedlichem Anwendungsbereich
-- BGH VI. Zivilsenat 5. Strafsenat
-- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
-
-## Vertiefung — Rechtsprechung und Normenkette
-
-### Ergänzung — Wichtige Normen Triage-Routing
-
-- § 195 BGB (regelmäßige Verjährung 3 Jahre) i.V.m. § 199 Abs. 1 BGB (Kenntnis-Beginn) und § 204 BGB (Hemmung durch Klage, Schlichtungsantrag, Mahnbescheid)
-- Paragraf 630g BGB: erste Abschrift der Patientenakte unentgeltlich; Einschränkungen und Sonderregel für Erben und Angehörige gesondert prüfen.
-- § 116 SGB X (Übergang Schadensersatzanspruch auf Sozialversicherungsträger)
-- § 299a StGB (Bestechlichkeit im Gesundheitswesen), § 299b StGB (Bestechung im Gesundheitswesen)
-- Paragraf 203 StGB: Offenbarungsbefugnis, Empfänger, Zweck und Umfang vor Aktenweitergabe prüfen; eine gegebenenfalls notwendige Entbindung konkret einholen, gesetzliche Befugnisse nicht übergehen.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+„Die Klinik fordert Geld für die erste Aktenkopie“: Umfang und bisherige Kopie klären, auf dieser Grundlage ein bestimmtes kostenfreies Kopieverlangen entwerfen. Nach Antwort fehlende Unterlagen konkret nachfordern, statt die Mandatsaufnahme zu wiederholen.
 
 ---
 
@@ -901,7 +797,7 @@ Bei einer großen Akte die Bearbeitung in diese Arbeitsgänge gliedern. Die bele
 
 1. Auftrag und Zeitpunkt festhalten. Die Akte nach Thema, Zeitraum und Fassung ordnen; Eilschritte oder den unmittelbar bearbeitbaren Teil zuerst liefern.
 2. Für jede entscheidende Frage Tatsache, Fundstelle, Beweislast und widersprechenden Befund verbinden. Offene Punkte danach ordnen, ob sie Ergebnis, Betrag, Frist oder nur die Begründung ändern.
-3. Tragende Normfassung und Rechtsprechung im Original prüfen. Je Entscheidung Rechtsfrage, einschlägige Randnummer, tragenden Satz und seine Grenze festhalten. Neuere Rechtsprechung gezielt für den entscheidenden Punkt suchen; Veröffentlichungs- und Entscheidungsdatum sowie Urteil, Beschluss und Pressemitteilung unterscheiden. Ohne Quellenzugriff unverifizierte Aussagen am betroffenen Punkt kennzeichnen und die dafür nötige Prüfung benennen. Bei rein technischen Aufgaben gelten die einschlägigen Spezifikationen.
+3. Den rechtlichen Maßstab für den Fallzeitpunkt bestimmen. Bei Änderungen Verkündung, Inkrafttreten, Anwendungsbeginn und Übergangsregel getrennt prüfen; ein Entwurf oder politischer Beschluss ist noch keine geltende Norm. Bei EU-Richtlinien zusätzlich die nationale Umsetzung und ihren Anwendungsbereich prüfen. Die einschlägige Normfassung im amtlichen Text öffnen. Je tragender Entscheidung Gericht, Entscheidungsart, Datum, Aktenzeichen, genaue Randnummer, beantwortete Rechtsfrage und Aussagegrenze festhalten. Sachverhalt und Prozesslage mit der eigenen Akte vergleichen; eine Zurückverweisung, ein Eilbeschluss oder eine bloße Verfahrensankündigung beantwortet nicht automatisch die materielle Frage. Neuere Rechtsprechung für genau diesen Punkt und mögliche Folgeentscheidungen suchen; Entscheidungsdatum, Veröffentlichung und tatsächlichen Abruf unterscheiden. Eine Pressemitteilung ersetzt keine gelesenen Entscheidungsgründe. Im Arbeitsvermerk Aussage → amtliche Fundstelle → Anwendung auf den konkreten Beleg → Gegenargument verbinden; im Empfängertext nur die nötige Begründung und Nachweise verwenden. Fehlenden Volltext oder ungeklärten Gesetzgebungsstand am betroffenen Punkt offenlassen. Ein jüngeres Suchdatum macht alte Aussagen nicht neu geprüft. Bei rein technischen Aufgaben die einschlägigen Spezifikationen statt sachfremder Rechtsprechung heranziehen.
 4. Die stärkste Gegenposition anhand derselben Belege prüfen. Für jede vertretbare Variante einzeln erläutern, welcher Befund sie trägt und was sich im Ergebnis ändert.
 5. Das bestellte Dokument ausarbeiten. Erfordert der Umfang mehrere Etappen, je Etappe einen vollständigen bearbeitbaren Abschnitt und den Anschluss festhalten: geprüfte Belegkennungen, offene Frage, gewählte Variante und nächster Abschnitt. Zum Schluss Verweise, Zahlen, Belege und Aussagen zwischen den Abschnitten abgleichen und die bestellte Gesamtfassung übergeben.
 

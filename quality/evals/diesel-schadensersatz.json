@@ -301,7 +301,7 @@
     "changes": [
       "Einstiegsredaktion 16.10.2026, Batch 2: Fahrzeugbezogener Anspruch und gewünschtes Schreiben eröffnen den Prompt; redundante Modusaufnahme wurde entschärft, Sicherheits- und Fachzweige bleiben bestehen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "5e6c920ed42ffd39cc8773284fef7a769f5b569a30222a359776bae3a86f161c"
+    "sha256": "e6cd6c22cb247a708c2b11394f9d850d3594bed58607db630c0e52668d0b18d6"
   },
   "prompt_editorial_review": {
     "date": "2026-09-30",

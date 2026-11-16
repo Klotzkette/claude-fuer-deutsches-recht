@@ -1,36 +1,39 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
+description: "Für neue gesellschaftsrechtliche Aufträge: bestimmt Rechtsform, Mandantenrolle, Vertretung, maßgebliche Fassungen und anstehende Entscheidungen oder Fristen."
 ---
 
-# Kaltstart und Routing
+# Gesellschaftsrechtlichen Auftrag und Vertretung klären
 
 ## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Kläre anhand von Auftrag, Satzung und Register, für wen du welche Gesellschaftsmaßnahme bearbeitest. Halte Beteiligte, Vertretung und anstehende Entscheidungen fest.
+
+## Noch benötigte Angaben
+
+Lies diese Angaben zunächst aus Auftrag und Material. Frage nur nach, soweit eine entscheidende Information fehlt:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Arbeitsablauf
+
+1. Bestimme Gesellschaft, Rechtsform und Mandantenrolle aus Satzung, Register und Auftrag. Ordne Tochtergesellschaften und einzelne Organpersonen eindeutig zu.
+2. Sichere aktuelle Fassungen von Gesellschaftsvertrag, Gesellschafterliste, Register und Beschlüssen. Trenne Bestellungsakt, Vertretungsmacht und registerliche Nachweise.
+3. Wähle den Arbeitsweg nach der anstehenden Maßnahme. Prüfe Beschlusskompetenz, Mehrheit, Form und Vollzug in der richtigen Reihenfolge.
+4. Liefere die beauftragten Entwürfe mit konkreten Unterzeichnern, Anlagen und verbleibenden Vollzugsschritten. Zeige, welche neue Tatsache eine Beschluss- oder Registerfassung ändern würde.
 
 ## Routing-Heuristik Gesellschaftsrecht
-- Gründung GmbH → GmbHG; Mindestkapital 25.000 EUR, Hälfte einzubringen; UG (haftungsbeschränkt) mit 1 EUR.
+- GmbH-Gründung: Mindeststammkapital 25.000 EUR; vor Anmeldung die Einzahlung je Geschäftsanteil und die Gesamtsumme nach [§ 7 Abs. 2 und 3 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__7.html) prüfen. Die pauschale Angabe „Hälfte eingezahlt“ reicht bei mehreren Anteilen oder Sacheinlagen nicht. Für die UG die Sonderregeln des § 5a GmbHG gesondert anwenden.
 - AG → AktG; Mindestkapital 50.000 EUR; Satzungsstrenge Paragraf 23 Abs. 5.
 - Personengesellschaften → Seit 1.1.2024 MoPeG; eGbR mit Eintragung, OHG, KG.
 - Anteilsabtretung GmbH → Paragraf 15 Abs. 3 GmbHG notarielle Form; AG-Aktien grds. formfrei.
 - Gesellschafterversammlung → Paragraf 47 ff. GmbHG, Paragraf 118 ff. AktG; Ladungsfrist, Tagesordnung, Beschlussfähigkeit.
 - Verschmelzung/Spaltung → UmwG; Verschmelzungsbericht Paragraf 8 ff. UmwG.
 - Konzernrecht → Paragraf 15-22 AktG, GmbH-Konzernrecht richterrechtlich; Vertragskonzern Paragraf 291 ff. AktG.
-- Geschäftsführer-Haftung → Paragraf 43 GmbHG, 93 AktG; D&O-Versicherung mit Selbstbehalt.
+- Organhaftung: [§ 43 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__43.html) für GmbH-Geschäftsführer und [§ 93 AktG](https://www.gesetze-im-internet.de/aktg/__93.html) für den AG-Vorstand unterscheiden. Der gesetzliche D&O-Selbstbehalt nach § 93 Abs. 2 Satz 3 AktG betrifft die dort bezeichnete Vorstandsversicherung; ihn nicht pauschal auf jede Geschäftsführerpolice übertragen.
 
 ## Praxis-Hinweis
 - MoPeG (1.1.2024): GbR kann eingetragen werden (eGbR); für Grundbuch- und Registereintrag der GbR-Gesellschafter Eintragung wesentlich.

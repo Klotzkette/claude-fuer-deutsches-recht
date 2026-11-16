@@ -1,13 +1,20 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schriftform und Textform im BGB."
+description: "Für eine konkrete Formfrage: prüft Formwahrung, zulässigen Formersatz, Zugang und mögliche Heilung und liefert eine begründete Wirksamkeitsbewertung oder einen Korrekturvorschlag."
 ---
 
-# Einstieg und Routing
+# Formwirksamkeit prüfen und Mängel beheben
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Schriftform Und Textform Bgb** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Prüfe, ob die konkrete Erklärung die maßgebliche Form wahrt. Erläutere die Rechtsfolge eines Mangels und arbeite einen rechtlich möglichen Korrekturweg aus.
+
+## Arbeitsweg
+
+1. Bestimme Rechtsgeschäft, beteiligte Personen und maßgeblichen Zeitpunkt. Trenne gesetzliche Form, vertraglich vereinbarte Form und bloße Nachweispflichten.
+2. Untersuche die tatsächlich abgegebene Fassung einschließlich Unterschrift oder Signatur, Anlagen und Zugang. Eine Bildschirmansicht ersetzt die Prüfung der Originaldatei nicht.
+3. Prüfe die einschlägige Formnorm und zulässige Ersatzformen. Ordne jeden Mangel seiner möglichen Rechtsfolge und einer ausdrücklich vorgesehenen Heilung zu.
+4. Liefere eine fallbezogene Bewertung und bei Auftrag einen ausführbaren Korrekturweg. Halte fest, welches Dokument neu erklärt, unterzeichnet oder übermittelt werden muss und welche Frist dabei bleibt.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,14 +33,6 @@ Dieser Einstieg routet **Schriftform Und Textform Bgb** vom ersten Sachverhalt z
 - `rechtsgeschaeft-und-wirksamkeit-bearbeiten` (Fachthema: form-checker-fuer-vertrag-oder-willenserklaerung) — Form Checker Für Vertrag Oder Willenserklaerung
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Schriftform Und Textform Bgb sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
 ## Qualitätsanker
 

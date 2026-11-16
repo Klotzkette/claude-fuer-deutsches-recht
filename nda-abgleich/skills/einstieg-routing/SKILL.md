@@ -1,13 +1,26 @@
 ---
 name: einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich."
+description: "Für eine vorgelegte Geheimhaltungsvereinbarung: bewertet konkrete Abweichungen vom Standard und erstellt begründete, ausformulierte Änderungen mit zulässigen Verhandlungsalternativen."
 ---
 
-# Einstieg und Routing
+# Geheimhaltungsvereinbarung gezielt überarbeiten
 
 ## Einsatzlage
 
 Gleiche den NDA-Fremdentwurf mit dem vorgelegten Standard und den freigegebenen Verhandlungspositionen ab. Bestimme aus Auftrag und Fassungen die offenlegende beziehungsweise empfangende Seite und den Austauschzweck.
+
+## Arbeitsweg
+
+1. Identifiziere Fremdentwurf, Standardfassung und freigegebene Verhandlungspositionen. Kläre, wer Informationen offenlegt oder empfängt und wozu.
+2. Vergleiche Schutzgegenstand, zulässige Empfänger und Nutzung, Ausnahmen, Laufzeit, Rückgabe und Rechtsfolgen klauselscharf. Erhalte akzeptierte Formulierungen.
+3. Bewerte jede Abweichung anhand des Austauschzwecks und formuliere eine Hauptposition sowie eine begründete Rückfallposition, soweit der Auftrag dies zulässt.
+4. Liefere die bestellte Änderungsfassung und eine kurze Liste entscheidungspflichtiger Punkte. Behaupte echte Änderungsverfolgung nur, wenn die Datei sie tatsächlich enthält.
+
+### Klauselentscheidung und Fortsetzung
+
+Fehlt die maßgebliche Standardfassung, frage genau danach und liefere bis dahin nur erkennbare Risiken, keinen behaupteten Standardabgleich. Bei widersprüchlichen Vorgaben zu Empfängern, Rückgabe oder Laufzeit die konkrete Verhandlungsentscheidung erfragen. Nach der Antwort betroffene Klausel, Definitionen und Verweise aktualisieren; neue entscheidende Konflikte gezielt klären.
+
+Erhalte akzeptierte Teile und fremde Revisionen. Liefere die bestellte Änderungsfassung vollständig ausformuliert, nicht nur eine Empfehlung für spätere Vertragsarbeit. Weitere Skills sind optional; Versand und Annahme von Positionen bedürfen der Freigabe.
 
 ## Fachlandkarte dieses Plugins
 
@@ -26,20 +39,6 @@ Gleiche den NDA-Fremdentwurf mit dem vorgelegten Standard und den freigegebenen 
 - `leistung-verguetung-und-abwicklung-bearbeiten` (Fachthema: docx-beweislast-und-darlegungslast) — Docx Beweislast und Darlegungslast
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: anschluss-routing) — Anschluss Routing
 - `unterlagen-und-quellen-auswerten-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
-
-## Arbeitsweg
-
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Nda Abgleich sind GehG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
-
-### Klauselentscheidung und Fortsetzung
-
-Fehlt die maßgebliche Standardfassung, frage genau danach und liefere bis dahin nur erkennbare Risiken, keinen behaupteten Standardabgleich. Bei widersprüchlichen Vorgaben zu Empfängern, Rückgabe oder Laufzeit die konkrete Verhandlungsentscheidung erfragen. Nach der Antwort betroffene Klausel, Definitionen und Verweise aktualisieren; neue entscheidende Konflikte gezielt klären.
-
-Erhalte akzeptierte Teile und fremde Revisionen. Liefere die bestellte Änderungsfassung vollständig ausformuliert, nicht nur eine Empfehlung für spätere Vertragsarbeit. Weitere Skills sind optional; Versand und Annahme von Positionen bedürfen der Freigabe.
 
 ## Normen & Rechtsprechung
 
