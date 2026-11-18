@@ -1,6 +1,6 @@
 ---
 name: vergabe-os-master-orchestrator
-description: "Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
+description: "Bearbeitet einen Angebotsfall aus Ordner, ZIP oder Portalexport ohne Skillwahl. Verbindet Abgabefrist, Eignung, Wertungslogik und Formatprüfung mit dem fertigen Angebotsschreiben, der Aufklärungsantwort oder Rüge; führt neue Angaben im selben Bieterprodukt fort."
 ---
 
 # Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen
@@ -11,7 +11,7 @@ description: "Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schr
 
 ## Fallführung bis zum fertigen Ergebnis
 
-Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+Aus Ordner, ZIP oder Portalexport die vorhandenen Vergabeunterlagen und Unternehmensnachweise selbständig dem Bieterauftrag zuordnen, ohne eine Skillwahl zu verlangen. Frühere Antworten und den erreichten Angebotsstand übernehmen. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
 1. Bekanntmachung, aktuelle Unterlagen, Fragen und Mitteilungen auslesen; Bieterrolle, Auftragstyp, Regime, Verfahrensbeginn und Abgabestand festhalten.
 
@@ -248,7 +248,7 @@ Kurzbild, Startbildschirm, Phasenkarte, Fristenampel, Dokumentenmatrix, Belegmat
 
 Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an Paragraf 60 VgV abgeglichen.
+- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an § 60 VgV abgeglichen.
 
 - [EuGH, Urteil vom 29.03.2012 – C-599/10](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A62010CJ0599%3AEN%3AHTML): Amtlicher Text, Rn.40–44 zur Angebotsklarstellung. **Grenze:** Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig.
 

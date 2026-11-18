@@ -24,6 +24,29 @@ PROMPT_SUFFIXES = {
     "konkurrenten-rechtsschutz": "konkurrenten",
 }
 
+
+def component_release(root: Path = ROOT) -> dict:
+    """Die importierte Akten-/Spezialausgabe folgt ihrem eigenen Herkunftsnachweis."""
+    record = json.loads((root / "source-import.json").read_text(encoding="utf-8"))
+    if (record.get("schema_version") != 1 or record.get("component") != COMPONENT
+            or not re.fullmatch(re.escape(COMPONENT) + r"-v\d+\.\d+\.\d+", str(record.get("release", "")))):
+        raise ValueError("Keine eindeutige Komponentenrelease-Zuordnung in source-import.json")
+    for key in ("plugins", "cases"):
+        values = record.get(key)
+        if (not isinstance(values, list) or not values
+                or any(not isinstance(value, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", value) for value in values)
+                or len(values) != len(set(values))):
+            raise ValueError(f"Keine eindeutige {key}-Zuordnung in source-import.json")
+    if set(record["plugins"]) != set(PROMPT_SUFFIXES):
+        raise ValueError("Komponentenrelease muss genau die drei Vergaberollen enthalten")
+    return record
+
+
+# Akten und Spezialassets bleiben an die importierte Ausgabe gebunden;
+# RELEASE_TAG/BASE behalten für neue Paketbauten ihre Marketplace-Semantik.
+COMPONENT_RELEASE_TAG = component_release()["release"]
+COMPONENT_RELEASE_BASE = f"https://github.com/{REPOSITORY}/releases/download/{COMPONENT_RELEASE_TAG}"
+
 sys.path.append(str(ROOT.parent / "scripts"))
 from release_routing import plugin_asset_url, scoped_asset_url, validate_plugin_version, verified_scoped_package_version
 from quality_lab import validate_prompt_review

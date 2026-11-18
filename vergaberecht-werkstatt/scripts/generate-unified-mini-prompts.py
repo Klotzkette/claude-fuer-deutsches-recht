@@ -20,7 +20,7 @@ import json
 import re
 from pathlib import Path
 
-from public_release import RELEASE_BASE, compact_mini
+from public_release import COMPONENT_RELEASE_BASE as RELEASE_BASE, compact_mini
 
 from skill_routing_priorities import MINI_MODULE_SUMMARIES, PLUGIN_PRIORITY_MODULES, PLUGIN_TRIGGER_ROUTES, original_skill_sources, skill_call
 

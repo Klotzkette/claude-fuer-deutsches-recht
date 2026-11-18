@@ -12,7 +12,7 @@
       "after_sha256": "c7c2be50d2bc38fffbf5d0bc1ab4e7a5b5d6b2d381c35d6c66d59ca57d85cf31",
       "archive": "quality/hauptskills-2026-11-18/bestand/agb-recht-pruefer/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "agb-recht-pruefer/references/hauptworkflow-entscheidungen.md": "8bb9fed3b01cd4137b34ca60e63753175150d0f06ddc3fd96c7164eebe58a68a"
       }
@@ -24,7 +24,7 @@
       "after_sha256": "66e433f3b39cbd2e1d762a72cc85899725fe3caceabc8bad7311c03d4ee4c057",
       "archive": "quality/hauptskills-2026-11-18/bestand/agb-werkstatt/skills/agb-hauptproblem-loesen/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "agb-werkstatt/references/hauptworkflow-entscheidungen.md": "ef2883ce0db5fbfbe9bb8f7433ad281625aa44438c97cb0f81fc9acbdfb287b5"
       }
@@ -48,7 +48,7 @@
       "after_sha256": "26f412487cbb1fb5b21490127740979279d7b2fd5175e64e1230bb6d654f3ca1",
       "archive": "quality/hauptskills-2026-11-18/bestand/aktenauszug-gerichtsverfahren/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "aktenauszug-gerichtsverfahren/references/hauptworkflow-entscheidungen.md": "7a77895ea65ccd207eab31c573d3cc719d96d502ff9e258e687365e4eb6b919e"
       }
@@ -70,7 +70,7 @@
       "after_sha256": "a4bad07fe7eb7d15219fa77e50764a12421486875a4a431f4fbb5f0a3ed2d7fa",
       "archive": "quality/hauptskills-2026-11-18/bestand/anlagen-zu-schriftsaetzen/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "anlagen-zu-schriftsaetzen/references/hauptworkflow-entscheidungen.md": "223203cbd744bfe554c844b1a5f62c50241f0aa064fe588b14714e5bdd95c87d"
       }
@@ -166,7 +166,7 @@
       "after_sha256": "2f1967293719c8d934b45b50ac5f79815875b2a38653a9d6830c978726593c4d",
       "archive": "quality/hauptskills-2026-11-18/bestand/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "aussenwirtschaft-zoll-sanktionen/references/hauptworkflow-entscheidungen.md": "07119382cc1bb32ac4de2560139bc1c3ec24615bce16b458b2d16bea47c507d0"
       }
@@ -200,7 +200,7 @@
       "after_sha256": "8128004bae8c3fc2f5ecf708f16de3344c89271e22476e12b2da17be4f5cdb91",
       "archive": "quality/hauptskills-2026-11-18/bestand/bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bautraegervertrag-pruefer/references/hauptworkflow-entscheidungen.md": "c78ea75f1896245ba2cde3c225dea166d1d2a4dbd8414bbb7f50502a6424cb7d"
       }
@@ -212,7 +212,7 @@
       "after_sha256": "759e82a46cf0f04fcb677eaf31ca89d7b4bba36871e3d4bf3e7663259abc53b6",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauunternehmer-einkauf/skills/einkauf-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauunternehmer-einkauf/references/hauptworkflow-entscheidungen.md": "422302c6fc7f08133d9fddd1c4b223101111d0ea55f6e2d3cc2aaaec58e79bf8"
       }
@@ -224,7 +224,7 @@
       "after_sha256": "f54e2bf966eb9c173a460bb1a6eabbaa5b4c2df9370877dea6c9a77f9abb5a52",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauvergabe/bauvergabe-bieter/skills/bauangebot-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauvergabe/bauvergabe-bieter/references/hauptworkflow-entscheidungen.md": "4f2af812b315eea68763d48ec16c506c83ed8ed2205be753d2c7d62bc688c107"
       }
@@ -236,7 +236,7 @@
       "after_sha256": "c8c7ac8ab331e038079d20e05f341cf7688cc0c2e9c82fe0df21ed969f0035e5",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauvergabe/bauvergabe-nachtragsmanagement/skills/nachtragsmanagement-hauptproblem/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauvergabe/bauvergabe-nachtragsmanagement/references/hauptworkflow-entscheidungen.md": "57783511e146a08043c6fd029e467ad11e5ec1c366eb9292ffef171bfce43a71"
       }
@@ -248,7 +248,7 @@
       "after_sha256": "1417bffd0f38952597f8973dc7ce36f0ebe4f82dc2b04040bcf18c8d855ea375",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauvergabe/bauvergabe-rechtsschutz/skills/bauvergaberechtsschutz-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauvergabe/bauvergabe-rechtsschutz/references/hauptworkflow-entscheidungen.md": "cb523c3c0efbf8fdb08959dc1a52e36b1fff11435a7dd8f64f2bf87569a42190"
       }
@@ -260,7 +260,7 @@
       "after_sha256": "695d06b7ea1b28cfb211c7958049dfb8d0b7487e635a0c422067fa48b4159e7b",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauvergabe/bauvergabe-unterlagen/skills/bauvergabe-unterlagen-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauvergabe/bauvergabe-unterlagen/references/hauptworkflow-entscheidungen.md": "7faf7980c055c24b02f95407378e03576e413736e832a90d552bbd740d834b8b"
       }
@@ -272,7 +272,7 @@
       "after_sha256": "3f4470d4437436f01212fd616e55c6f7506a3a002eca1fe09aea416c9091eb4f",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauvergabe/bauvergabe-verfahren/skills/bauvergabe-verfahren-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauvergabe/bauvergabe-verfahren/references/hauptworkflow-entscheidungen.md": "98e3b3154e25a6b3f0b3ffed8c1538a3bf048382db356d6a6accf0613f807aa8"
       }
@@ -284,7 +284,7 @@
       "after_sha256": "cf11196ba94c01025fb1a27f5fe3bec158f30d3c4e13ea98a6521448e2d0e8e6",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauwirtschaft/references/hauptworkflow-entscheidungen.md": "2cc23227a2e89d0689b842a06e8229857019ceb3c61359181dfae3b596e84999"
       }
@@ -296,7 +296,7 @@
       "after_sha256": "01dc68d25822b80c59941b9a71224d8903204cafb6084fef01c10689e556f4a4",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauwirtschaft-rundum/bauwirtschaft-anfaenger/skills/bauaufgabe-zum-arbeitsprodukt-fuehren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauwirtschaft-rundum/bauwirtschaft-anfaenger/references/hauptworkflow-entscheidungen.md": "8aab434a421fb26e331355c6f446cd5c5c1debccfed32f2ab80059788572fe4f"
       }
@@ -308,7 +308,7 @@
       "after_sha256": "04892d04da1e6a05eb52701b3678de67bfc8c47e431f588dc0a99fb43b11293d",
       "archive": "quality/hauptskills-2026-11-18/bestand/bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/skills/projektvorgang-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/references/hauptworkflow-entscheidungen.md": "6dfc0bc280410aade44de3b792b4ef4d8eee7aa70d2dad22b05e76aba7b25859"
       }
@@ -354,7 +354,7 @@
       "after_sha256": "6339c96733d88240dc834f56d38c48a4ebc329333809d62d78781704305aa03a",
       "archive": "quality/hauptskills-2026-11-18/bestand/bereicherungs-und-anfechtungsrecht-pruefer/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bereicherungs-und-anfechtungsrecht-pruefer/references/hauptworkflow-entscheidungen.md": "24a6f70c3b870f35b35a88fd8819497c27394fc7a04399036b0ed52dd1c0334f"
       }
@@ -534,7 +534,7 @@
       "after_sha256": "21ea0eb928fb5f1f72875bacc2a2bfc824663692f5bc966961e869d09da15051",
       "archive": "quality/hauptskills-2026-11-18/bestand/betreuungsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "betreuungsrecht/references/hauptworkflow-entscheidungen.md": "f11969185b938b07f707a740ab3cf818b9ef0663b4ea37013ac7bef5ba5cb21b"
       }
@@ -558,7 +558,7 @@
       "after_sha256": "23436730f7989b635377a9bb6dc9f80bb91c26cc30af89daa28175f556687907",
       "archive": "quality/hauptskills-2026-11-18/bestand/bgb-at-pruefer/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bgb-at-pruefer/references/hauptworkflow-entscheidungen.md": "26d7cd7aa833edaabf20abe0fb3b89a6ff8dfa8cfa5302fb69f6a6e902584441"
       }
@@ -570,7 +570,7 @@
       "after_sha256": "e785370e1bebc3a6c6daef7d24acddca82f4202d43ad05586a20406c614dc1f2",
       "archive": "quality/hauptskills-2026-11-18/bestand/bgb-bt-pruefer/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "bgb-bt-pruefer/references/hauptworkflow-entscheidungen.md": "279300f1d44574f7c673351e3855107a767ec65f29bdda015ac9cd040dda94b1"
       }
@@ -579,10 +579,10 @@
       "plugin": "bieter-unternehmen",
       "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md",
       "before_sha256": "1850a1c85ec1544f1190a525e6fc5c517b0d6e05cb5fba63795beac5c19d3e58",
-      "after_sha256": "ef9cf30656b524c19992508deca11125829283bfaff69f41cf8666401a267de2",
+      "after_sha256": "cd4d7522bdb785bd8d6bd4e7b3710e86c9150a2f6a9f95eec43a686060891eb4",
       "archive": "quality/hauptskills-2026-11-18/bestand/vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "vergaberecht-werkstatt/bieter-unternehmen/references/hauptworkflow-entscheidungen.md": "add65da6bc81961e62d87d786f1b9209f0569b174ccb79b7c6611786cd5219ab"
       }
@@ -630,7 +630,7 @@
       "after_sha256": "e7af27fc9a1a8677251d131411be050c4e039499a8b6d9eb7c87ab7ac2bcaf44",
       "archive": "quality/hauptskills-2026-11-18/bestand/commercial-courts-deutschland/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "commercial-courts-deutschland/references/hauptworkflow-entscheidungen.md": "1d276abfd3845d9041a148ecd0f6eef85e82c5f751feddcb6af10ee0a15c805d"
       }
@@ -664,7 +664,7 @@
       "after_sha256": "588adfbcc16a42484d27be8323e3293a51edd948c6a714d43ba6566e86c41141",
       "archive": "quality/hauptskills-2026-11-18/bestand/corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "corporate-contract-law/references/hauptworkflow-entscheidungen.md": "a2fa384a5b2ae2cd269444d577a5b9246839d2de344b3826c25b733bc5be6fc4"
       }
@@ -828,7 +828,7 @@
       "after_sha256": "1185c6968936bf6a9a5e76dfc08cb3c823c6a57537d2722fd9f35591bffa9642",
       "archive": "quality/hauptskills-2026-11-18/bestand/eigenbedarfskuendigungschecker/skills/eigenbedarf-pruefen-und-klaeren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "eigenbedarfskuendigungschecker/references/hauptworkflow-entscheidungen.md": "e69defc2037104c97c38496bd66ba5072b7ea6fa54e765f5ad67dc9f8e79a3fd"
       }
@@ -900,7 +900,7 @@
       "after_sha256": "bdd54618d507f20452b1be6326c7720dcf9f5691094a6b42d1979cb609cb7b26",
       "archive": "quality/hauptskills-2026-11-18/bestand/erbbaurecht-praxis/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "erbbaurecht-praxis/references/hauptworkflow-entscheidungen.md": "cf6a22a9369023eb8e8507f8acc6ab657cc839b709fe62e21999859619310779"
       }
@@ -912,7 +912,7 @@
       "after_sha256": "7777f747fe199a14bc7802810091909f1fbaace3a6aad8e7c109dd5339c92fd1",
       "archive": "quality/hauptskills-2026-11-18/bestand/eu-sanktionspruefer/skills/eu-sanktionsfall-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "eu-sanktionspruefer/references/hauptworkflow-entscheidungen.md": "4d80dc6472d50efa3645b39278f1a0ee0a58f18871b8658567abf842ae9bea57"
       }
@@ -924,7 +924,7 @@
       "after_sha256": "be8298a5c0503888fd6aaf9ceedff7051afc5bfc3dbc7e8e217584aa7eb8cce3",
       "archive": "quality/hauptskills-2026-11-18/bestand/europaeisches-prozessrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "europaeisches-prozessrecht/references/hauptworkflow-entscheidungen.md": "06832cbb923a9c619d67a342982e79445c376f8a71119a895e21bf42d7363441"
       }
@@ -980,7 +980,7 @@
       "after_sha256": "4f21343cee46401e5ba0001372ebd99097afd03d68a43383e4a9574eadbfecdc",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-bau-architektenrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-bau-architektenrecht/references/hauptworkflow-entscheidungen.md": "45765319e7a9705db9854bd1146d185d73e762ca56964f0ec37f861797622d3d"
       }
@@ -992,7 +992,7 @@
       "after_sha256": "e6e768aae8eb806a2bbe6b1f507f2637dcde3cc87af73fd684024b5cc580e4b1",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-erbrecht/skills/erbfall-mandat-klaeren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-erbrecht/references/hauptworkflow-entscheidungen.md": "b5f97d9d0dc25bf8113db3d2f7a74a2122d3c930e6a6487855425849b76fdcc8"
       }
@@ -1004,7 +1004,7 @@
       "after_sha256": "b2fb9f697205760ca6562d59eaf764694e1c300f818ec4340dd42031ba282d0d",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-familienrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-familienrecht/references/hauptworkflow-entscheidungen.md": "d6cd10edb3569be2196d8d17fec35a782cf2e214e9fc07f644a06bdf2ee540a3"
       }
@@ -1048,7 +1048,7 @@
       "after_sha256": "7462f0ef9c63d1dc93d3b88b913375e34e89ef7b68a6bbc53172d178275c79d7",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-internationales-wirtschaftsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-internationales-wirtschaftsrecht/references/hauptworkflow-entscheidungen.md": "d3289674fa3ea0be95a96cfd9a632b52561381d7d0888a2069e58b1efe7e4a01"
       }
@@ -1084,7 +1084,7 @@
       "after_sha256": "9a99614485ccebe97da0035915e0f2cace83dca8895cacb47c60d9cd48ba27aa",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-miet-wohnungseigentumsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-miet-wohnungseigentumsrecht/references/hauptworkflow-entscheidungen.md": "5035a52478fb766fbffb8c4da586ef9129e423b9ff87bd3abadb85854d4ba349"
       }
@@ -1142,7 +1142,7 @@
       "after_sha256": "b8177f8f4a02178b96bf75dd3ff43af4c629fff41ce59ed83fed44876a36d43b",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-transport-speditionsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-transport-speditionsrecht/references/hauptworkflow-entscheidungen.md": "e32caa19140072f3509366e256c9f7a59f5852acc32030acc13adf8c362fb87c"
       }
@@ -1166,7 +1166,7 @@
       "after_sha256": "48e798f6154e0a4b9927f141f6fc45baa7e8dbba8103657e0a291eef73a0a1ac",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-vergaberecht/skills/vergabe-os-master-orchestrator/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-vergaberecht/references/hauptworkflow-entscheidungen.md": "c5dc89a2726c8f7ed89a16ec7f67778539b485dc08dd6b01d53933b39ae8841d"
       }
@@ -1178,7 +1178,7 @@
       "after_sha256": "4ef826a5058a5061279880e18ff3c06f75ac317dd7bc670d81860884700c1071",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-verkehrsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-verkehrsrecht/references/hauptworkflow-entscheidungen.md": "fc93a512faf16e71ee068f36ff2c813ad4fcd81de937e76b59900d784aace5c9"
       }
@@ -1190,7 +1190,7 @@
       "after_sha256": "f0bf326e57aa0971d4ee9dba5989edfdb66b639d639fada5fa56e487a6bdbaab",
       "archive": "quality/hauptskills-2026-11-18/bestand/fachanwalt-versicherungsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fachanwalt-versicherungsrecht/references/hauptworkflow-entscheidungen.md": "e59dd4070dd99d17c82fc4022e4d1f1464c9ddbe9802d1d30fce9f6370efb740"
       }
@@ -1214,7 +1214,7 @@
       "after_sha256": "37e0cf46124382175796255fc8d23d662116f507d24d7ab50f1ba4321e6a29ae",
       "archive": "quality/hauptskills-2026-11-18/bestand/factoring-recht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "factoring-recht/references/hauptworkflow-entscheidungen.md": "e46468e7027b06242dfb3805798e7658f10bc8fdef3bd21098962cfda9b78c2c"
       }
@@ -1226,7 +1226,7 @@
       "after_sha256": "7b720ef4b9ce5ae3f55a1e8524dbb397e159fde149c2ffb764d2b3c2bedf7be1",
       "archive": "quality/hauptskills-2026-11-18/bestand/fahrgastrechte/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fahrgastrechte/references/hauptworkflow-entscheidungen.md": "d34bb34074aa89d2d889e7a9f3ddba3a44ca32aa56b7a76ef522c44a3c9b1fb9"
       }
@@ -1250,7 +1250,7 @@
       "after_sha256": "330e88f5e9e69217ca57baa552830d85abfd235768f3974b9c8b255a6e301add",
       "archive": "quality/hauptskills-2026-11-18/bestand/festlandchina-wirtschaftsverkehr/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "festlandchina-wirtschaftsverkehr/references/hauptworkflow-entscheidungen.md": "de53c33caca5816319e3f0c701179eb640c15ea19fcc2af66e676ba5c33b83dc"
       }
@@ -1262,7 +1262,7 @@
       "after_sha256": "477d0be784bbdfa8a2e363ee9c00eb2ad0288b12b0a29182f5329a0d494a850d",
       "archive": "quality/hauptskills-2026-11-18/bestand/fluggastrechte/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "fluggastrechte/references/hauptworkflow-entscheidungen.md": "070cd36732f429731fa1c25d39829877b5135e335d7ae51cb0514b745758b74e"
       }
@@ -1274,7 +1274,7 @@
       "after_sha256": "52367823aee9922b73c5114e262d561181ab4283b577a962aa948b4843d09bac",
       "archive": "quality/hauptskills-2026-11-18/bestand/forderungsmanagement-klagewerkstatt/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "forderungsmanagement-klagewerkstatt/references/hauptworkflow-entscheidungen.md": "c7c927881771965f27d4c20bcf9964ab00211a8a35791a36225f1d0daee87232"
       }
@@ -1306,7 +1306,7 @@
       "after_sha256": "92dbd9d03da7bbd13073532eb00719fb6c2c31741d8bd38b7c0908db21b686ac",
       "archive": "quality/hauptskills-2026-11-18/bestand/franchiserecht-praxis/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "franchiserecht-praxis/references/hauptworkflow-entscheidungen.md": "14e80fbd0ae64b559ed11ee0e71a5632c331e2d7a2231841dc30a5f84f933afa"
       }
@@ -1454,7 +1454,7 @@
       "after_sha256": "45bf441422efa894bcf5dbbfd661e1bce33e1086ed5109782be062115711b5ef",
       "archive": "quality/hauptskills-2026-11-18/bestand/grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "grundbuchamt-assistent/references/hauptworkflow-entscheidungen.md": "c2ed5750483b2189cf26b323b29035a9066b2eec511f594c45ac8b91b79abc93"
       }
@@ -1466,7 +1466,7 @@
       "after_sha256": "09b135c425297b5c05af6fbb5c73d0a31c4998844721681e0f4d8b22db0198c4",
       "archive": "quality/hauptskills-2026-11-18/bestand/grundbuchamt-praxis/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "grundbuchamt-praxis/references/hauptworkflow-entscheidungen.md": "0c2b4b1c7f33f099aab23c68e417bc538a02602d6829fd51fc198027e584c435"
       }
@@ -1500,7 +1500,7 @@
       "after_sha256": "4359252d6a4112625bf867e0e6ea996a9d120c0683c0cd56aae4a82bbbef09a4",
       "archive": "quality/hauptskills-2026-11-18/bestand/gvb-reinigungsvergabe/skills/a1-reinigungsauftrag-und-vergabeverfahren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "gvb-reinigungsvergabe/references/hauptworkflow-entscheidungen.md": "440a82a5a215945d6db0f8ee806f7f543dc53bca45f435b53011a9678e357211"
       }
@@ -1586,7 +1586,7 @@
       "after_sha256": "90cb025bc5edb2f76586b2f8efe4597a979d7e599ba05764c3505d086de380a9",
       "archive": "quality/hauptskills-2026-11-18/bestand/hoai-leistungsphasen-praxis/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "hoai-leistungsphasen-praxis/references/hauptworkflow-entscheidungen.md": "21b139e289363185d19fb529c24c5686c7dd052e7bdec065afe236e5d902c637"
       }
@@ -1610,7 +1610,7 @@
       "after_sha256": "c956c7754e203550062996eee8c291a1719d49c9538cc0666f3d91fa1637711f",
       "archive": "quality/hauptskills-2026-11-18/bestand/immobilienrechtspraxis/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "immobilienrechtspraxis/references/hauptworkflow-entscheidungen.md": "235af7b3a962488fae03e9d513904b1f08ff9cd29b633b0363355b09151802ff"
       }
@@ -1746,7 +1746,7 @@
       "after_sha256": "d6592817ce54864875a04bd5ebc2084947a32788da7ed522755f43553c7a16d4",
       "archive": "quality/hauptskills-2026-11-18/bestand/internationales-handelsrecht-lex-mercatoria/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "internationales-handelsrecht-lex-mercatoria/references/hauptworkflow-entscheidungen.md": "53afbc4cab7eb82496a15f0e4962cfe6ecea9210bebfe9a8b19518d90ffc9718"
       }
@@ -2032,7 +2032,7 @@
       "after_sha256": "2aa4108810f3fbe5f586e1e535c044f506c23fbfc24676b0493124dd1fc259be",
       "archive": "quality/hauptskills-2026-11-18/bestand/kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "kommunale-haftpflicht/references/hauptworkflow-entscheidungen.md": "9306885de599777b7043e21ee4881d3a8249f50072c59845c3987182aff3830f"
       }
@@ -2053,10 +2053,10 @@
       "plugin": "konkurrenten-rechtsschutz",
       "path": "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/konkurrenzrechtsschutz-orchestrator/SKILL.md",
       "before_sha256": "cea9bbb16ae2a0405fd6f1a2094ed52219db6463be33d035600ea59e98d2c08c",
-      "after_sha256": "a7944dc0b05b77f58e52da5dd496127afc349427fea50759ff9547479a3714cb",
+      "after_sha256": "eeb4ea3c7e29bb9c23808024bb800bb72fae21a1741496db36922e78941516ee",
       "archive": "quality/hauptskills-2026-11-18/bestand/vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/konkurrenzrechtsschutz-orchestrator/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/hauptworkflow-entscheidungen.md": "2bb5348c6caaeb23ac5650c7f17605b7b0b76e4eddc1d01755d3425c7d41ee66"
       }
@@ -2124,7 +2124,7 @@
       "after_sha256": "75108216cbe8e570a741808da49fbfe1ceb22529dddb9f8986f1a07c8a62ed31",
       "archive": "quality/hauptskills-2026-11-18/bestand/leasingrecht-praxis/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "leasingrecht-praxis/references/hauptworkflow-entscheidungen.md": "36c3268c769fc28f88eaeff161a4039f23f0f44ce64bcea75af96880a0c78362"
       }
@@ -2266,7 +2266,7 @@
       "after_sha256": "bfe18cbf2589ab5e83327482f02936e1db333e7be3695d4d4ffe8c5c70927cd7",
       "archive": "quality/hauptskills-2026-11-18/bestand/mietchecker/skills/miete-pruefen-und-klaeren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "mietchecker/references/hauptworkflow-entscheidungen.md": "d80f9eac42b04fb3d5126463c95b67357a39b893eb4b9089bc7c0bf5d9540c55"
       }
@@ -2278,7 +2278,7 @@
       "after_sha256": "7d5c892049137a80b633d65c9ab5229b630e9121e356a0baed336736d431a56a",
       "archive": "quality/hauptskills-2026-11-18/bestand/mietrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "mietrecht/references/hauptworkflow-entscheidungen.md": "8a4a514632098abe856270ce0c1302c979ac938405d63bcd58fdb62cc7bcb812"
       }
@@ -2300,7 +2300,7 @@
       "after_sha256": "be1315953a137ddd5be79f79a6b92b02d37b7bf48c1b6550b5dd5e54fd7c96cc",
       "archive": "quality/hauptskills-2026-11-18/bestand/nachbarschaftsstreit-pruefer/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "nachbarschaftsstreit-pruefer/references/hauptworkflow-entscheidungen.md": "dba6499d8aad1301f8856494c501ef64e702795c4df6fdddbf39b2948f59c47c"
       }
@@ -2312,7 +2312,7 @@
       "after_sha256": "ebe286a116ccb1ff8b59561b2f4dc2e4341f5ccbf6c516531ccdd1852170f1a9",
       "archive": "quality/hauptskills-2026-11-18/bestand/nda-abgleich/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "nda-abgleich/references/hauptworkflow-entscheidungen.md": "1a4fc6c4710400d01a7385330935843c1b7b060626b68bebad8214ea516ba914"
       }
@@ -2324,7 +2324,7 @@
       "after_sha256": "477d2b0d33d48edb37bd892b8f22e48c4754930cf548e24041bd651e904ca7f4",
       "archive": "quality/hauptskills-2026-11-18/bestand/nda-verschwiegenheit-generator-checker/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "nda-verschwiegenheit-generator-checker/references/hauptworkflow-entscheidungen.md": "27163ae1779cf826064722d8640f79381647fd6eb22ae37435dfe66e5c8066fc"
       }
@@ -2348,7 +2348,7 @@
       "after_sha256": "5addd65c5835dd9a0ab810745253a25801e58195b78daedc71eeea804abe3dfe",
       "archive": "quality/hauptskills-2026-11-18/bestand/normenkontrolle-bauleitplanung/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "normenkontrolle-bauleitplanung/references/hauptworkflow-entscheidungen.md": "6916c26d7bbb58c96443ed282304fec35f424d6d4eda76e7c39351a6867b916a"
       }
@@ -2372,7 +2372,7 @@
       "after_sha256": "35c54b6eaa9b6aa6cd389968f5455434b7aabbfec5c5568be6616df65001db29",
       "archive": "quality/hauptskills-2026-11-18/bestand/notariat-alltag/skills/kaltstart-triage/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "notariat-alltag/references/hauptworkflow-entscheidungen.md": "3419b2a4f6bed2726a84b9b63d58ba3f670bea2c46319b53678996a53bbfae0b"
       }
@@ -2466,7 +2466,7 @@
       "after_sha256": "d1a734a78fa8b5a4571aeb54c66cfa6d4f12aae2c4085d7cb563c7b9adeab7f2",
       "archive": "quality/hauptskills-2026-11-18/bestand/playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "playbook-pruefer/references/hauptworkflow-entscheidungen.md": "414f22b2c84cfaab9990f035563f2114fb6802a94228ad30b17191aca263884d"
       }
@@ -2512,7 +2512,7 @@
       "after_sha256": "e2878a9b5f956b3cc5346cbca32315c6fee4ea4277ba90174e007291f0e3b0bd",
       "archive": "quality/hauptskills-2026-11-18/bestand/prozessrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "prozessrecht/references/hauptworkflow-entscheidungen.md": "f2fc51271e8336c67d6c59259479645b2a98986964716b9390776129f65607e7"
       }
@@ -2536,7 +2536,7 @@
       "after_sha256": "b07bce77756d6464f673760b837794a1c772d7f5cda1fab99f4c9d5e4fb146c4",
       "archive": "quality/hauptskills-2026-11-18/bestand/rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/06-fallziel-renofa-triage/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "rechtsabteilung-forderungsmanagement-immobilienunternehmen/references/hauptworkflow-entscheidungen.md": "aa9c00d3b75a6771a2612aa5863335677f7198394b4918fbbf165cbe314ac499"
       }
@@ -2584,7 +2584,7 @@
       "after_sha256": "f29b06cbba41d449ed35ef1060a1f90f4986cddea0cb85d9f3c3f34b98c48ff7",
       "archive": "quality/hauptskills-2026-11-18/bestand/gerichtsplugins/relationstechnik-zivilrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "gerichtsplugins/relationstechnik-zivilrecht/references/hauptworkflow-entscheidungen.md": "e486d00ba40acc4069a49802fc3e1e9d4830e3a2060440cfa6b38c9eb1357584"
       }
@@ -2638,7 +2638,7 @@
       "after_sha256": "94ff09f6e92875073f7af600d058e4a604e51899dea4d531a88b6061a02bd309",
       "archive": "quality/hauptskills-2026-11-18/bestand/gerichtsplugins/richter-amtsgericht-zivil/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "gerichtsplugins/richter-amtsgericht-zivil/references/hauptworkflow-entscheidungen.md": "67ad261ce91edbfcc4ac051687cd82180eb2743522e71ce53a25fbae34eaa57d"
       }
@@ -2672,7 +2672,7 @@
       "after_sha256": "99f3f5badb63884baa18b53c3f905d87fc040cfa534a97df6490df61a03ff067",
       "archive": "quality/hauptskills-2026-11-18/bestand/gerichtsplugins/richter-familiengericht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "gerichtsplugins/richter-familiengericht/references/hauptworkflow-entscheidungen.md": "bf0356119a7cb6eeb8e97ddbb5ead4e88de6bef3a0d56dd3a366258e7f1174cc"
       }
@@ -2706,7 +2706,7 @@
       "after_sha256": "aa9b853117553566ff555df10b8e8d04f3e581d60c9fb2761c08f6b1cb6db286",
       "archive": "quality/hauptskills-2026-11-18/bestand/gerichtsplugins/richter-landgericht-zivilkammer/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "gerichtsplugins/richter-landgericht-zivilkammer/references/hauptworkflow-entscheidungen.md": "0fd9f73f98776f52efd98aadc53a62a5caeec442ca9be9a7d5758c43a29b7ba6"
       }
@@ -2776,7 +2776,7 @@
       "after_sha256": "e2adc07353aceae6253d0f674dd34183656a3ee6b19c86c8e6a924fe6ce24fbe",
       "archive": "quality/hauptskills-2026-11-18/bestand/schadensregulierung/skills/haftpflichtschaden-regulieren/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "schadensregulierung/references/hauptworkflow-entscheidungen.md": "c2846a4824f0d226b7451ccee06403a5777b57b65ba04f84a574b9455b12c62f"
       }
@@ -2800,7 +2800,7 @@
       "after_sha256": "dead29bbb184bb14d58726d0772c92cb8b7a698f70c1f19bc1dc520dedd1ca83",
       "archive": "quality/hauptskills-2026-11-18/bestand/schriftform-und-textform-bgb/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "schriftform-und-textform-bgb/references/hauptworkflow-entscheidungen.md": "84c05bdea4e37a5aef5455ea2944bed34018ca15343fd5c5fcd691a06d122aec"
       }
@@ -2848,7 +2848,7 @@
       "after_sha256": "e8e72eb528a59e3c4fb04a0b09489c0db9b9f77c4b03b9916c308e986e7a9e74",
       "archive": "quality/hauptskills-2026-11-18/bestand/seerecht-schifffahrtsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "seerecht-schifffahrtsrecht/references/hauptworkflow-entscheidungen.md": "07799208a808a22864e3c8e32b0be5cab0283451ee3fd01d57c715828bdf38c3"
       }
@@ -2860,7 +2860,7 @@
       "after_sha256": "38e0689d499bebbdddd7cd71b71a308fe7fa2bb0e9228f6d09523888c64b3ff6",
       "archive": "quality/hauptskills-2026-11-18/bestand/sektorenvergabe-workflow/skills/sektorenvergabe-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "sektorenvergabe-workflow/references/hauptworkflow-entscheidungen.md": "27c1ec94ea2bec6274d9f311c5383ac7cfc532ecb9116ba8253d969a1b5394a4"
       }
@@ -2872,7 +2872,7 @@
       "after_sha256": "097ccb55bb8d68932a4e3827cd79756085bdfed1f6d581ed82f714cbbee9010f",
       "archive": "quality/hauptskills-2026-11-18/bestand/selbstvertreter-amtsgericht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "selbstvertreter-amtsgericht/references/hauptworkflow-entscheidungen.md": "804c3c1270af0234c21cde008e5e1cf0e86e3c269dfb33129d60ca6e2512ae46"
       }
@@ -2926,7 +2926,7 @@
       "after_sha256": "dac21b5f5cfbdf61c15e565f904b094a35702618831fc1b92c796f189b5d9b20",
       "archive": "quality/hauptskills-2026-11-18/bestand/sozialversicherungspflicht-pruefer/skills/sozialversicherungspflicht-pruefen/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "sozialversicherungspflicht-pruefer/references/hauptworkflow-entscheidungen.md": "6e55a0d0ada3401c19d0f07d846838ed75fb1a73063db85091bb266f76e802e6"
       }
@@ -3170,7 +3170,7 @@
       "after_sha256": "f522e93b6216f68624d5c1a7d8296804227c11844ffeb22b51ab11b5cd98f358",
       "archive": "quality/hauptskills-2026-11-18/bestand/un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "un-kaufrecht-cisg/references/hauptworkflow-entscheidungen.md": "2d6d83054b6d409860a42d3140eabcc4d53ab913dc0baace870d03eeaff988a3"
       }
@@ -3206,7 +3206,7 @@
       "after_sha256": "eaec3e702103aa0414b0b53495b59decbe317c59cd12c0987ba5571a6357f0eb",
       "archive": "quality/hauptskills-2026-11-18/bestand/urteilsbauer-relationsmacher/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "urteilsbauer-relationsmacher/references/hauptworkflow-entscheidungen.md": "f65591b913edb0e5c2ea8c41e8bb7d9e6a918ed015e1c20b5b7077597376acd8"
       }
@@ -3240,7 +3240,7 @@
       "after_sha256": "ffcdfdf49797b930613ad58488026e47f53977b85358e9494e83798c5476ed9c",
       "archive": "quality/hauptskills-2026-11-18/bestand/us-sanktionspruefer/skills/us-sanktionsmandat-steuern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "us-sanktionspruefer/references/hauptworkflow-entscheidungen.md": "8127e42460c232af7198c2c497efc18bbb5514bc795da2b6a7bfd0f86413a8a1"
       }
@@ -3274,7 +3274,7 @@
       "after_sha256": "f8ae30a548c12e108607303ffc708f5b76b25667923d7f60d98305b4a2939162",
       "archive": "quality/hauptskills-2026-11-18/bestand/verbraucher-rechtsstaat-alltag/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "verbraucher-rechtsstaat-alltag/references/hauptworkflow-entscheidungen.md": "81af8c5ce24a0b4c1d3d953187a522711e1a65aa4e077a87b8ca6c2f181de3f4"
       }
@@ -3296,7 +3296,7 @@
       "after_sha256": "94b52d5b44d625ef42ea2d6729b9dbe7ac69b526ed409f81bd7062b988c90eb6",
       "archive": "quality/hauptskills-2026-11-18/bestand/verbraucherschutzrecht-pruefer/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "verbraucherschutzrecht-pruefer/references/hauptworkflow-entscheidungen.md": "746b9735f23878c0c749af8789347527c143f838a2ca4222f2f036c94776c946"
       }
@@ -3308,7 +3308,7 @@
       "after_sha256": "02733b42ed51397523f9cd710b1f23882537890c13c741d2d12a59105a446dee",
       "archive": "quality/hauptskills-2026-11-18/bestand/verbraucherschutzverband-durchsetzung/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "verbraucherschutzverband-durchsetzung/references/hauptworkflow-entscheidungen.md": "205f455f6a000b1f2e1a673cbd626b34cc856fb2d156c11764d9e0af024580f7"
       }
@@ -3320,7 +3320,7 @@
       "after_sha256": "aba05b0a439f2b256e433b2bb3917145f8ba4794d36b676bad6824c423ebaf66",
       "archive": "quality/hauptskills-2026-11-18/bestand/vereinsrecht-vereinsmanager/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "vereinsrecht-vereinsmanager/references/hauptworkflow-entscheidungen.md": "f4eff42197eb79b1fef5791f50a730ac569dee14294377dfc2bf068a7d16237d"
       }
@@ -3341,10 +3341,10 @@
       "plugin": "vergabestelle-behoerden",
       "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md",
       "before_sha256": "29a745b847c9bd6902c4a40de09b128a91d89381e738bb33c9e6a219650d9a6b",
-      "after_sha256": "b86cc90c955bd3849479f47998210a616c2d41d80c1b2ac6f111e9a06880e4ef",
+      "after_sha256": "381f1a817cfb4b3464094f2f5d6238013cb706eb5e8dae1ad943606179c94345",
       "archive": "quality/hauptskills-2026-11-18/bestand/vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "vergaberecht-werkstatt/vergabestelle-behoerden/references/hauptworkflow-entscheidungen.md": "abe3ac603a4d58b996c31a66c9c5e160c81e83139e7d076927ac6d40b7cd5e33"
       }
@@ -3440,7 +3440,7 @@
       "after_sha256": "86c95d811ba9c227c9138559358b23b7cbe3805777b9632fc7155e9b5c07a933",
       "archive": "quality/hauptskills-2026-11-18/bestand/versicherungsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "versicherungsrecht/references/hauptworkflow-entscheidungen.md": "ff1ea3dab47e2fbd1be0845bc378231cd1932adc02be5abb66fcbdf7864f6d90"
       }
@@ -3452,7 +3452,7 @@
       "after_sha256": "6341d0db8f591aee88c5fee8535342a99b7b6363e274345206c04eeb5223773e",
       "archive": "quality/hauptskills-2026-11-18/bestand/vertragsausfueller/skills/kommandocenter-mehrsprachige-vertraege/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "vertragsausfueller/references/hauptworkflow-entscheidungen.md": "ce53e79c0386c6c903a7a87b29aa0965aab86f21754fb4d4bc95372074e552ee"
       }
@@ -3464,7 +3464,7 @@
       "after_sha256": "d05534fdd6e0c9257fc37865a1d6aa1e18bb74b9c7c96478a2e71cf9c3fcec3e",
       "archive": "quality/hauptskills-2026-11-18/bestand/vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "vertragserstellung/references/hauptworkflow-entscheidungen.md": "1ca29c76cc883a1ce1ccd90b33f863651241ffc8c56f3fceca9e1741b05b2ae3"
       }
@@ -3476,7 +3476,7 @@
       "after_sha256": "2e7867fc31855f8b8e159cc52737a46fec06d499ff502ec0b1192253e58d0cd3",
       "archive": "quality/hauptskills-2026-11-18/bestand/vertragsrecht/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "vertragsrecht/references/hauptworkflow-entscheidungen.md": "41ee6670d7dfb5034dd94c5cb62b6c38196c4ec016a28dbafb01873451dde477"
       }
@@ -3510,7 +3510,7 @@
       "after_sha256": "3eb0451e92b4c1ce9bf19e958a69bb648fa90adb882594b5d6056d9917c15028",
       "archive": "quality/hauptskills-2026-11-18/bestand/weg-hausverwaltung/skills/juristischer-argumentationskern/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "weg-hausverwaltung/references/hauptworkflow-entscheidungen.md": "f7e6272a32f30399f6804bed74d3ee2893f73e7ab517b83fe9f08976400e351a"
       }
@@ -3534,7 +3534,7 @@
       "after_sha256": "9d5fb16fe3b4d747dc26f73d298841c1012f6bb86741bfba78818787c4f70a6c",
       "archive": "quality/hauptskills-2026-11-18/bestand/wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "wirtschaftsanwalt/references/hauptworkflow-entscheidungen.md": "fdd16bae6e8dba0989a67fdb9dd69dd2d55a376f1ad20448749e40bd9df479bc"
       }
@@ -3580,7 +3580,7 @@
       "after_sha256": "5ffeae3ecac13b178800aec93afba556fc9f3ef65e59d745fde44cbb5104ce79",
       "archive": "quality/hauptskills-2026-11-18/bestand/zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "zugewinnausgleich/references/hauptworkflow-entscheidungen.md": "5ceef11b3602c8ad86d7fe0c69879ebeb48e501a7aa74f34926cb42862c47457"
       }
@@ -3592,7 +3592,7 @@
       "after_sha256": "fbdd4d37a9e938a0eec1197ee7b8e98ca252b765d540bdc5a91c7c557a6068f1",
       "archive": "quality/hauptskills-2026-11-18/bestand/zwangsverwaltung-zvg/skills/kommandocenter/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "zwangsverwaltung-zvg/references/hauptworkflow-entscheidungen.md": "25a2dedd1f852db02fcf9292a8e10896d5e023328a2d583f40e7ea97110d24f8"
       }
@@ -3604,7 +3604,7 @@
       "after_sha256": "e67f6fc8e5eae9fa0912f9b3d5db503ad0c11bba871fc1769b3144068d9e2ae8",
       "archive": "quality/hauptskills-2026-11-18/bestand/zwangsvollstreckung/skills/kommandocenter/SKILL.md.txt",
       "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "5836106b224a8772b87d27a23609f7218b8a10c4f802e052179fd064ee555f20",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
       "references": {
         "zwangsvollstreckung/references/hauptworkflow-entscheidungen.md": "776e906af233046c28fe8b878e8be240881b73815cf603f750342e5a132a15d7"
       }

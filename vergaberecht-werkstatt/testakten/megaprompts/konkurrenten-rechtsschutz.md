@@ -90,7 +90,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Inhaltsverzeichnis
 
-1. `konkurrenzrechtsschutz-orchestrator` - Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen - Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen. Nutzt vorhandene Falldaten, entscheidet.
+1. `konkurrenzrechtsschutz-orchestrator` - Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen - Übernimmt Streitunterlagen als Ordner, ZIP oder Akteneinsichtsexport ohne Skillwahl.
 2. `startbildschirm-konkurrentenangriff` - Startbildschirm Konkurrentenangriff - Stellt nach der Triage des Konkurrenten-Orchestrators Fristen, Angriff, Fundstellen, Beweise, Akteneinsichtslücken.
 3. `bundeswehrbeschaffung-bwbbg-2026` - Konkurrentenangriff nach dem BwBBG 2026 - Konkurrent greift Bundeswehrvergaben nach dem seit 14. Februar 2026 geltenden BwBBG an: Teilnahme.
 4. `ruege-konkurrent-160-gwb` - Rüge Konkurrent - Rüge eines Konkurrenten nach § 160 GWB vorbereiten: Kenntnis, Erkennbarkeit, Präklusion, Vergabeverstoß.
@@ -115,7 +115,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Arbeitsmodul: Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen
 
-_Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen._
+_Übernimmt Streitunterlagen als Ordner, ZIP oder Akteneinsichtsexport ohne Skillwahl. Sichert Kenntnis, Zugang und Fristen, prüft Antragsbefugnis und Vergabeverstoß und erstellt die begründete Rüge, den Nachprüfungsantrag oder die Beschwerde mit Belegen und Gegenargumenten._
 
 ### Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen
 
@@ -308,7 +308,7 @@ Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quel
 
 - EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.: Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative. **Grenze:** Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.
 
-- EuGH, Urteil vom 12.02.2004 - C-230/02: Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28-29,37-40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; heutige § 160 Prüfung bleibt.
+- EuGH, Urteil vom 12.02.2004 - C-230/02: Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28-29,37-40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; die heutige Prüfung nach § 160 GWB bleibt erforderlich.
 
 - BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.: Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an § 60 VgV abgeglichen.
 

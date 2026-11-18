@@ -11,17 +11,13 @@ import sys
 from pathlib import Path
 from urllib.parse import unquote
 
-from public_release import BLOB_BASE, RAW_BASE, RELEASE_BASE, RELEASE_TAG, REPOSITORY, markdown_download, plugin_download
+from public_release import (COMPONENT_RELEASE_BASE as RELEASE_BASE, COMPONENT_RELEASE_TAG as RELEASE_TAG,
+                            PROMPT_SUFFIXES, RAW_BASE, REPOSITORY,
+                            check_plugin_version, component_release, markdown_download, plugin_download)
 
 REPO = Path(__file__).resolve().parent.parent
 SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
 GH_COMMAND_TIMEOUT_SECONDS = 30
-
-PROMPT_SUFFIXES = {
-    "vergabestelle-behoerden": "vergabestelle",
-    "bieter-unternehmen": "bieter",
-    "konkurrenten-rechtsschutz": "konkurrenten",
-}
 
 FIXED_ASSETS = {
     "alle-plugins-megazip.zip",
@@ -31,6 +27,18 @@ FIXED_ASSETS = {
     "marketplace.json",
     "checksums-sha256.txt",
 }
+
+
+def asset_download(name: str) -> str:
+    """Rollenpakete folgen ihrem Pin; eigene Akten und Spezialassets ihrer Edition.
+
+    Ein gleichnamiger zentraler Grundaktenexport ist kein Ersatz für die hier
+    deklarierte vollständige Komponentenausgabe einschließlich Fortsetzung.
+    """
+    for role in PROMPT_SUFFIXES:
+        if name == f"{role}.zip":
+            return plugin_download(role)
+    return f"{RELEASE_BASE}/{name}"
 
 
 def plugin_names() -> list[str]:
@@ -69,14 +77,10 @@ def expected_assets(plugins: list[str], testakten: list[str]) -> set[str]:
 
 
 def linked_release_assets(text: str) -> set[str]:
-    prefix = f"{RELEASE_BASE}/"
-    assets: set[str] = set()
-    for part in text.split(prefix)[1:]:
-        name = part.split(")", 1)[0].split(" ", 1)[0].strip()
-        if name:
-            assets.add(name)
     targets = markdown_link_targets(text)
-    assets.update(f"{name}.zip" for name in PROMPT_SUFFIXES if plugin_download(name) in targets)
+    prefix = f"{RELEASE_BASE}/"
+    assets = {target.removeprefix(prefix) for target in targets if target.startswith(prefix)}
+    assets.update(f"{name}.zip" for name in PROMPT_SUFFIXES if asset_download(f"{name}.zip") in targets)
     return assets
 
 
@@ -122,6 +126,16 @@ def validate_root(expected: set[str], errors: list[str]) -> None:
         errors.append(f"README.md: Release-Datei nicht verlinkt: {asset}")
     for asset in sorted(linked - expected):
         errors.append(f"README.md: unbekannte oder veraltete Release-Datei: {asset}")
+    targets = markdown_link_targets(text)
+    for asset in sorted(expected):
+        if asset_download(asset) not in targets:
+            errors.append(f"README.md: kanonischer Download fehlt: {asset_download(asset)}")
+    release_prefix = f"https://github.com/{REPOSITORY}/releases/download/"
+    for target in sorted(targets):
+        if target.startswith(release_prefix):
+            asset = target.rsplit("/", 1)[-1]
+            if asset not in expected or target != asset_download(asset):
+                errors.append(f"README.md: abweichendes Releaseziel: {target}")
     for needle in (
         "[Dateikatalog](#dateikatalog)",
         "[Downloads](#sofort-downloads)",
@@ -340,10 +354,10 @@ def validate_skill_indexes(plugins: list[str], errors: list[str]) -> None:
             require(detail, needle, f"skills-index/{plugin}.md", errors)
 
 
-def validate_live_assets(expected: set[str], errors: list[str]) -> None:
+def live_asset_names(tag: str, errors: list[str]) -> set[str] | None:
     try:
         proc = subprocess.run(
-            ["gh", "release", "view", RELEASE_TAG, "--repo", REPOSITORY, "--json", "assets"],
+            ["gh", "release", "view", tag, "--repo", REPOSITORY, "--json", "assets"],
             cwd=REPO,
             capture_output=True,
             text=True,
@@ -352,22 +366,41 @@ def validate_live_assets(expected: set[str], errors: list[str]) -> None:
         )
     except subprocess.TimeoutExpired:
         errors.append(
-            f"Live-Release-Prüfung nach {GH_COMMAND_TIMEOUT_SECONDS} Sekunden abgebrochen"
+            f"Live-Release-Prüfung {tag} nach {GH_COMMAND_TIMEOUT_SECONDS} Sekunden abgebrochen"
         )
         return
     if proc.returncode != 0:
-        errors.append(f"Live-Release nicht lesbar: {proc.stderr.strip()}")
+        errors.append(f"Live-Release {tag} nicht lesbar: {proc.stderr.strip()}")
         return
     try:
         payload = json.loads(proc.stdout)
     except json.JSONDecodeError as exc:
-        errors.append(f"Live-Release liefert ungültiges JSON: {exc}")
+        errors.append(f"Live-Release {tag} liefert ungültiges JSON: {exc}")
         return
-    remote = {asset["name"] for asset in payload.get("assets", [])}
+    return {asset["name"] for asset in payload.get("assets", [])}
+
+
+def validate_live_assets(expected: set[str], errors: list[str]) -> None:
+    # Die vollständige historische Komponentenausgabe behält ihre exakte
+    # Bestandsprüfung, auch wenn einzelne installierbare Plugins weitergeführt sind.
+    remote = live_asset_names(RELEASE_TAG, errors)
+    if remote is None:
+        return
     for asset in sorted(expected - remote):
-        errors.append(f"Aktuelles Release: Datei fehlt: {asset}")
+        errors.append(f"Komponentenrelease {RELEASE_TAG}: Datei fehlt: {asset}")
     for asset in sorted(remote - expected):
-        errors.append(f"Aktuelles Release: unerwartete Datei: {asset}")
+        errors.append(f"Komponentenrelease {RELEASE_TAG}: unerwartete Datei: {asset}")
+    successors: dict[str, set[str]] = {}
+    for role in PROMPT_SUFFIXES:
+        name = f"{role}.zip"
+        tag = asset_download(name).rsplit("/", 2)[-2]
+        if tag != RELEASE_TAG:
+            successors.setdefault(tag, set()).add(name)
+    for tag, required in sorted(successors.items()):
+        current = live_asset_names(tag, errors)
+        if current is not None:
+            for name in sorted(required - current):
+                errors.append(f"Deklarierter Plugin-Nachfolger {tag}: Datei fehlt: {name}")
 
 
 def main() -> int:
@@ -375,7 +408,7 @@ def main() -> int:
     parser.add_argument(
         "--live",
         action="store_true",
-        help="vergleicht zusaetzlich die Assets des aktuellen GitHub-Releases",
+        help="prüft zusätzlich die historische Komponentenausgabe und die deklarierten Plugin-Nachfolger",
     )
     args = parser.parse_args()
 
@@ -383,6 +416,15 @@ def main() -> int:
     testakten = testakten_slugs()
     expected = expected_assets(plugins, testakten)
     errors: list[str] = []
+    provenance = component_release(REPO)
+    if set(plugins) != set(provenance["plugins"]) or set(testakten) != set(provenance["cases"]):
+        errors.append("Plugins oder verschachtelte Akten weichen von source-import.json ab")
+    marketplace = json.loads((REPO / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
+    for plugin in marketplace["plugins"]:
+        try:
+            check_plugin_version(plugin)
+        except ValueError as exc:
+            errors.append(str(exc))
     validate_root(expected, errors)
     validate_plugins(plugins, errors)
     validate_testakten(testakten, errors)

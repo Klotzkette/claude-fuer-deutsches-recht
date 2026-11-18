@@ -1,6 +1,6 @@
 ---
 name: vergabe-os-master-orchestrator
-description: "Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
+description: "Übernimmt Vergabeakten als Ordner, ZIP oder Portalexport ohne Skillwahl. Führt die Vergabestelle von Bedarf und Verfahrensstand über Regime, Fristen und passende Fachprüfungen zum begründeten Vergabevermerk oder Bieterschreiben; arbeitet neue Belege in dasselbe Ergebnis ein."
 ---
 
 # Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen
@@ -11,7 +11,7 @@ description: "Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensent
 
 ## Fallführung bis zum fertigen Ergebnis
 
-Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+Einen übergebenen Ordner, ein ZIP oder einen Portalexport selbständig als Vergabestellenfall bearbeiten, ohne eine Skillwahl zu verlangen. Vorhandene Dateien, frühere Antworten und den aktuellen Auftrag zusammenführen. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
 1. Bedarf, Akte, Verantwortlichkeit, Auftragsart, Wert, Regime und Beginn erfassen; Auftraggeberrolle und dokumentierte Entscheidungen während des Vorgangs beibehalten.
 

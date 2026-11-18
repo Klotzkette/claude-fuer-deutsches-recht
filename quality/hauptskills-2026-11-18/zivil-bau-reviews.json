@@ -1181,7 +1181,7 @@
     "plugin": "bieter-unternehmen",
     "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md",
     "before_sha256": "1850a1c85ec1544f1190a525e6fc5c517b0d6e05cb5fba63795beac5c19d3e58",
-    "after_sha256": "ef9cf30656b524c19992508deca11125829283bfaff69f41cf8666401a267de2",
+    "after_sha256": "cd4d7522bdb785bd8d6bd4e7b3710e86c9150a2f6a9f95eec43a686060891eb4",
     "reference_paths": [
       "vergaberecht-werkstatt/bieter-unternehmen/references/hauptworkflow-entscheidungen.md"
     ],
@@ -1238,6 +1238,19 @@
         }
       ],
       "note": "Redaktionelle und fachlogische Durchsicht; keine Behauptung eines tatsächlich ausgeführten Modelltests. Vorherige Quellenstände explizit getrennt, keine erneute Gesamtprüfung aller Judikate."
+    },
+    "ci_followup": {
+      "evidence": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci.json",
+      "changes": [
+        "Beschreibung benennt Ordner, ZIP und Bearbeitung ohne Skillwahl sowie das konkrete Ergebnis der jeweiligen Marktrolle.",
+        "Erster Arbeitsabsatz verbindet den automatischen Dateieinstieg mit den vorhandenen Antworten und dem fortzuführenden Arbeitsprodukt.",
+        "Sichtbare Normzitate als § 60 VgV beziehungsweise § 160 GWB geschrieben; Quellenstatus und Grenzen unverändert."
+      ],
+      "scenario": {
+        "input": "Neuer Angebotsfall als ZIP mit LV, Eignungsnachweisen und Preisaufklärungsfrage; bitte eine vollständige Aufklärungsantwort erstellen.",
+        "expected_result": "Der Hauptskill beginnt ohne vorgeschaltete Skillwahl, übernimmt belegte Angaben und führt die erforderlichen Fachprüfungen in das bestellte Dokument zurück.",
+        "new_information": "Ein zusätzlicher Zugangsbeleg oder eine fachliche Antwort wird in denselben Entwurf und die betroffene Frist- beziehungsweise Belegbewertung eingearbeitet."
+      }
     }
   },
   {
@@ -2956,7 +2969,7 @@
     "plugin": "konkurrenten-rechtsschutz",
     "path": "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/konkurrenzrechtsschutz-orchestrator/SKILL.md",
     "before_sha256": "cea9bbb16ae2a0405fd6f1a2094ed52219db6463be33d035600ea59e98d2c08c",
-    "after_sha256": "a7944dc0b05b77f58e52da5dd496127afc349427fea50759ff9547479a3714cb",
+    "after_sha256": "eeb4ea3c7e29bb9c23808024bb800bb72fae21a1741496db36922e78941516ee",
     "reference_paths": [
       "vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/hauptworkflow-entscheidungen.md"
     ],
@@ -3013,6 +3026,19 @@
         }
       ],
       "note": "Redaktionelle und fachlogische Durchsicht; keine Behauptung eines tatsächlich ausgeführten Modelltests. Vorherige Quellenstände explizit getrennt, keine erneute Gesamtprüfung aller Judikate."
+    },
+    "ci_followup": {
+      "evidence": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci.json",
+      "changes": [
+        "Beschreibung benennt Ordner, ZIP und Bearbeitung ohne Skillwahl sowie das konkrete Ergebnis der jeweiligen Marktrolle.",
+        "Erster Arbeitsabsatz verbindet den automatischen Dateieinstieg mit den vorhandenen Antworten und dem fortzuführenden Arbeitsprodukt.",
+        "Sichtbare Normzitate als § 60 VgV beziehungsweise § 160 GWB geschrieben; Quellenstatus und Grenzen unverändert."
+      ],
+      "scenario": {
+        "input": "Akteneinsichtsexport als ZIP mit Vorabinformation und Rüge; bitte den erforderlichen fristgerechten Rechtsbehelf ausarbeiten.",
+        "expected_result": "Der Hauptskill beginnt ohne vorgeschaltete Skillwahl, übernimmt belegte Angaben und führt die erforderlichen Fachprüfungen in das bestellte Dokument zurück.",
+        "new_information": "Ein zusätzlicher Zugangsbeleg oder eine fachliche Antwort wird in denselben Entwurf und die betroffene Frist- beziehungsweise Belegbewertung eingearbeitet."
+      }
     }
   },
   {
@@ -4651,7 +4677,7 @@
     "plugin": "vergabestelle-behoerden",
     "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md",
     "before_sha256": "29a745b847c9bd6902c4a40de09b128a91d89381e738bb33c9e6a219650d9a6b",
-    "after_sha256": "b86cc90c955bd3849479f47998210a616c2d41d80c1b2ac6f111e9a06880e4ef",
+    "after_sha256": "381f1a817cfb4b3464094f2f5d6238013cb706eb5e8dae1ad943606179c94345",
     "reference_paths": [
       "vergaberecht-werkstatt/vergabestelle-behoerden/references/hauptworkflow-entscheidungen.md"
     ],
@@ -4714,6 +4740,18 @@
         }
       ],
       "note": "Redaktionelle und fachlogische Durchsicht; keine Behauptung eines tatsächlich ausgeführten Modelltests. Vorherige Quellenstände explizit getrennt, keine erneute Gesamtprüfung aller Judikate."
+    },
+    "ci_followup": {
+      "evidence": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci.json",
+      "changes": [
+        "Beschreibung benennt Ordner, ZIP und Bearbeitung ohne Skillwahl sowie das konkrete Ergebnis der jeweiligen Marktrolle.",
+        "Erster Arbeitsabsatz verbindet den automatischen Dateieinstieg mit den vorhandenen Antworten und dem fortzuführenden Arbeitsprodukt."
+      ],
+      "scenario": {
+        "input": "Neuer Vergabestellenfall als Ordner mit Bekanntmachung, LV, Bieterfragen und Fristbelegen; bitte Vermerk und Antwort fertigstellen.",
+        "expected_result": "Der Hauptskill beginnt ohne vorgeschaltete Skillwahl, übernimmt belegte Angaben und führt die erforderlichen Fachprüfungen in das bestellte Dokument zurück.",
+        "new_information": "Ein zusätzlicher Zugangsbeleg oder eine fachliche Antwort wird in denselben Entwurf und die betroffene Frist- beziehungsweise Belegbewertung eingearbeitet."
+      }
     }
   },
   {
