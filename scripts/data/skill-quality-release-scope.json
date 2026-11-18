@@ -1,20 +1,53 @@
 {
   "schema_version": 1,
-  "version": "445.36.6",
-  "tag": "qualitaetsrunde-v445.36.6",
+  "version": "445.36.7",
+  "tag": "qualitaetsrunde-v445.36.7",
   "plugins": [
     {
-      "name": "playbook-pruefer",
+      "name": "jugendmedienschutz-und-medienangebote",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [
+        "jugendmedienschutz-und-medienangebote-werkstatt.md",
+        "jugendmedienschutz-und-medienangebote-werkstatt.txt",
+        "jugendmedienschutz-und-medienangebote-schnellstart.md",
+        "jugendmedienschutz-und-medienangebote-schnellstart.txt"
+      ]
+    },
+    {
+      "name": "agb-recht-pruefer",
       "variants": [
         "native"
       ],
       "prompts": [
-        "playbook-pruefer-werkstatt.md",
-        "playbook-pruefer-werkstatt.txt",
-        "playbook-pruefer-schnellstart.md",
-        "playbook-pruefer-schnellstart.txt",
-        "playbook-pruefer-hauptproblem.md",
-        "playbook-pruefer-hauptproblem.txt"
+        "agb-recht-pruefer-werkstatt.md",
+        "agb-recht-pruefer-schnellstart.md"
+      ]
+    },
+    {
+      "name": "ki-vo-ai-act-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [
+        "ki-vo-ai-act-pruefer-werkstatt.md",
+        "ki-vo-ai-act-pruefer-werkstatt.txt",
+        "ki-vo-ai-act-pruefer-schnellstart.md",
+        "ki-vo-ai-act-pruefer-schnellstart.txt",
+        "ki-vo-ai-act-pruefer-hauptproblem.md",
+        "ki-vo-ai-act-pruefer-hauptproblem.txt"
+      ]
+    },
+    {
+      "name": "robotik-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [
+        "robotik-recht-werkstatt.md",
+        "robotik-recht-schnellstart.md"
       ]
     }
   ]

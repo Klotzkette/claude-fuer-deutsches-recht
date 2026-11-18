@@ -1,0 +1,56 @@
+{
+  "exportedAt": "2026-11-18T07:15:00Z",
+  "historicalStatesAvailable": false,
+  "items": [
+    {
+      "islandId": "IA-1184",
+      "title": "Nebelgarten",
+      "mode": "unlisted-public",
+      "teamAccounts": 3,
+      "guestLinksActive": 1,
+      "discoverListed": false,
+      "publicCommentsEnabled": true,
+      "aiDraftInserted": true,
+      "lastEdit": "2026-11-15T17:20:00Z",
+      "lastEditor": "acct-test-204",
+      "note": "Zuordnung zu G19 gesichert; Zuordnung zu G13 wegen gleichem Namen noch offen."
+    },
+    {
+      "islandId": "IA-1201",
+      "title": "Brueckenwerkstatt",
+      "mode": "discover-public",
+      "teamAccounts": 2,
+      "guestLinksActive": 0,
+      "discoverListed": true,
+      "publicCommentsEnabled": true,
+      "aiDraftInserted": true,
+      "lastEdit": "2026-11-16T08:10:00Z",
+      "lastEditor": "acct-test-101"
+    },
+    {
+      "islandId": "IA-1227",
+      "title": "Sternenlager",
+      "mode": "team-private",
+      "teamAccounts": 5,
+      "guestLinksActive": 2,
+      "discoverListed": false,
+      "publicCommentsEnabled": false,
+      "aiDraftInserted": false,
+      "lastEdit": "2026-11-17T11:35:00Z",
+      "lastEditor": "acct-test-330"
+    },
+    {
+      "islandId": "IA-1250",
+      "title": "Werkzeuginsel",
+      "mode": "unlisted-public",
+      "teamAccounts": 1,
+      "guestLinksActive": 0,
+      "discoverListed": false,
+      "publicCommentsEnabled": false,
+      "aiDraftInserted": false,
+      "lastEdit": "2026-11-13T09:20:00Z",
+      "lastEditor": "acct-test-419"
+    }
+  ],
+  "warning": "Die Namen sind nicht eindeutig. Ein gegenwaertiger Zustand beweist nicht die Einstellung an einem frueheren Tag. Alle Konten und Inhalte sind fiktiv."
+}

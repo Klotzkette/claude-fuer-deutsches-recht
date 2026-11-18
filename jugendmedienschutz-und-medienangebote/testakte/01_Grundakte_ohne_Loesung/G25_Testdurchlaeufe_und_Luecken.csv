@@ -1,0 +1,13 @@
+﻿Test_ID;Datum;Rolle;Weg;Erwartung_des_Teams;Beobachtung;Nachweis;Status
+T01;2026-11-17;anonym;Registrierung ohne Altersbestaetigung;Weiter gesperrt;Weiter-Knopf gesperrt;manuelle Sichtung;beobachtet_keine_Gesamtfreigabe
+T02;2026-11-17;Gast;Gastlink;Altersfrage erwartet;Nur Name und Raumregeln;G17;Abweichung
+T03;2026-11-17;anonym;unlisted-public Link;Privater Zugriff erwartet;Ohne Einladung erreichbar;G22/G24;Begriffsmissverstaendnis
+T04;2026-11-17;anonym;team-private ohne Token;Zugriff gesperrt;Anmeldeseite angezeigt;manuelle Sichtung;beobachtet
+T05;2026-11-13;anonym;Vorschau nach Bildaenderung;Neues Bild;Alte Vorschau noch sichtbar;G10;Reproduktion_offen
+T06;2026-11-14;Mitglied;KI-01 Einsetzen ohne Veroeffentlichen;Nur Editor;"Haupttext nur Editor; Titel in interner Suche";G07;Teilbefund
+T07;;Gast;KI-Ausgabe einer anderen Person lesen;Zu pruefen;;;nicht_durchgefuehrt
+T08;;anonym;Englische Warnhinweise auf Mobilgeraet;Zu pruefen;;;nicht_durchgefuehrt
+T09;;Teammitglied;Aenderung nach Inhaltskontrolle;Zu pruefen;;;nicht_durchgefuehrt
+T10;;anonym;Screenreader Beschreibung ausgeblendeter Vorschau;Zu pruefen;;;nicht_durchgefuehrt
+T11;2026-11-17;Administrator;Globalen KI-Schalter deaktivieren;Keine neuen Anfragen;"Neue Anfragen abgewiesen; bestehende Texte bleiben";G11;begrenzter_Test
+T12;;Support;Meldung Freitag20Uhr;Verbindliche Zuordnung;;;Dienstplan_offen

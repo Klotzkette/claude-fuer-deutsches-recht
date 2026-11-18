@@ -1,0 +1,9 @@
+# Jugendmedienschutz und geprüfte Beitragshinweise
+
+Das Paket `jugendmedienschutz-und-medienangebote` enthält zehn eigenständige Skills, eine ausführliche Werkstatt und einen kompakten Mini-Prompt. Es führt von den Produktunterlagen über JuSchG, JMStV und MStV bis zum ausformulierten Freigabevermerk, zur Produktanweisung oder zur Stellungnahme an die Aufsicht. Die Schnittstellen zum DSA, zum Datenschutz und zur KI-Verordnung werden nach tatsächlicher Funktion getrennt geprüft.
+
+Die zugehörige [Wolkenwerft-Testakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jugendmedienschutz-und-medienangebote/testakte/README.md) bildet ein Browsergame mit eigenen KI-Szenarien, öffentlichen Nutzerbeiträgen und privaten Teams ab. Die Grundakte enthält keine Lösung und keine späteren Aufsichtsschreiben. Nachreichungen und Vorlagen stehen gesondert bereit. Die Testakte wird separat im Repository angeboten und ist nicht Teil des installierbaren Plugin-ZIP.
+
+Die Qualitätsrunde veröffentlicht außerdem die eigenständig überarbeiteten Pakete `agb-recht-pruefer`, `robotik-recht` und `ki-vo-ai-act-pruefer`. Vier bislang allgemeine AGB-Vertiefungen behandeln Softwarelizenz, Abonnement, Verfügbarkeit und Datensicherung jetzt konkret. CRA-Abhilfe und Supportzeiträume sowie die Rollenbestimmung für GPAI wurden präzisiert. Bereits behobene Hinweise zu Steuerrecht, Data Act, CRA-Fristen und Prüftechnik wurden nachkontrolliert.
+
+Die Recherche- und Prüfgrenzen stehen in [den Einzelberichten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/source-audits/2026-11-18-issues/README.md). Die Runde ist keine Behauptung einer vollständigen juristischen Neubewertung sämtlicher Repository-Inhalte oder eines erfolgreichen Modelllaufs in jeder Oberfläche. Native und portable Pakete werden mit ihren tatsächlichen lokalen Referenzen und den deklarierten Prompt-Dateien geprüft. Bestehende Releases, Tags und Testakten bleiben erhalten.

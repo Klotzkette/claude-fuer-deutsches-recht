@@ -181,6 +181,7 @@ FAMILY_OVERRIDES = {
     "us-sanktionspruefer": "beziehungen",
 }
 LABEL_OVERRIDES = {
+    "jugendmedienschutz-und-medienangebote": "Jugendmedienschutz und Medienangebote",
     "sozialversicherungspflicht-pruefer": "Sozialversicherungsstatus",
     "compliance-abteilung-grosskonzern": "Compliance in der Industrie",
     "bauunternehmer-einkauf": "Einkauf im Bauunternehmen",
@@ -193,6 +194,13 @@ LABEL_OVERRIDES = {
 # Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
 # nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
 ROUTE_OVERRIDES = {
+    "jugendmedienschutz-und-medienangebote": (
+        "Welche Produktfunktion erreicht welche Altersgruppe und wer verantwortet die dort sichtbaren Inhalte?",
+        "Zeige eine Funktionskarte mit Produktversion, eigenen Inhalten oder Vermittlung, Altersgruppe, öffentlichem oder privatem Zugangsweg, Aktenbeleg und erforderlicher Maßnahme. Ein Datenfluss kann verdeutlichen, wann ein privater KI-Entwurf zu einem veröffentlichten Inhalt wird.",
+        "Eine Funktion oder ein belegter Produktstand zeigt Quelle, Gegenargument und betroffene Stelle im Freigabevermerk. Neue Zugangswege oder Veröffentlichungseinstellungen ändern nur die davon abhängigen Bewertungen. Eine Altersstufe, Nutzerzahl oder Schutzmaßnahme darf nicht frei erfunden oder automatisch als Freigabe behandelt werden.",
+        "Produktversion, Funktion, Inhaltsverantwortlicher, tatsächliche Altersgruppe und Reichweite, Zugangsweg, Datenverarbeitung, Schutzmaßnahme, Aktenfundstelle und einschlägige Rechtsquelle",
+        "begründeter Freigabevermerk, umsetzbare Produktanweisung oder vollständige Stellungnahme an die zuständige Aufsicht",
+    ),
     "arbeitsrecht-kuendigungsschutzklagewerkstatt": (
         "Welche Kündigung, welcher Zugangsnachweis oder welche Urteilsbegründung entscheidet über den nächsten Schritt?",
         "Zeige Kündigung und Zugang, Stand des Verfahrens, Anträge, belegte Fristen und entscheidenden Streitstoff. In der Berufung jede selbständig tragende Urteilsbegründung mit Angriff, Fundstelle aus der ersten Instanz und gegebenenfalls neuem Beleg verbinden.",

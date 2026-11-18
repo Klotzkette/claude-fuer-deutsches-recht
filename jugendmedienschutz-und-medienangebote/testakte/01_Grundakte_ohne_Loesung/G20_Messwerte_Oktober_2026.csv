@@ -1,0 +1,14 @@
+﻿Kennung;Zeitraum;Messgroesse;Wert;Einheit;System;Abgrenzung;Offene_Frage
+M01;2026-10-01/2026-10-31;Seitenaufrufe;1800000;Aufrufe;Webdashboard;"Mehrfachaufrufe enthalten; keine Personenanzahl";Botfilterung unvollstaendig dokumentiert
+M02;2026-10-01/2026-10-31;Sitzungen;286400;Sitzungen;Webdashboard;"Neue Sitzung nach 30 Minuten; keine Personenanzahl";Geraetewechsel nicht zusammengefuehrt
+M03;2026-10-01/2026-10-31;Browserkennungen;97210;Kennungen;Clientmessung;Cookies geloescht oder blockiert moeglich;Nicht mit Menschen oder Accounts gleichsetzen
+M04;2026-10-01/2026-10-31;Konten_mit_Login;18420;Konten;Authentifizierungsdienst;Mindestens ein erfolgreicher Login;Mehrere Konten pro Person moeglich
+M05;2026-10-01/2026-10-31;Gastbeitritte;64110;Beitrittsereignisse;Einladungsdienst;Wiederholungen und neue Browserkennungen enthalten;Kein Nachweis eindeutiger Personen
+M06;2026-10-01/2026-10-31;Vorschauabrufe_ohne_Login;812700;Abrufe;Vorschaudienst;Teilmenge kann sich mit Webdashboard ueberschneiden;Cache und Prefetch nicht vollstaendig getrennt
+M07;2026-10-01/2026-10-31;Oeffentliche_Inselaufrufe;368800;Abrufe;Spielserver;Oeffentlicher Link oder Entdeckungsseite;Weiterleitungen unvollstaendig zugeordnet
+M08;2026-10-01/2026-10-31;Teamraumaufrufe;279300;Abrufe;Spielserver;Nach Einladung oder eingeloggtem Zugriff;Nicht additiv zu M01
+M09;2026-10-01/2026-10-31;KI_Anfragen;62480;Anfragen;API-Zaehler;Enthaelt Wiederholungen und Fehlversuche;Keine Aussage zur Zahl von Nutzenden
+M10;2026-10-01/2026-10-31;Anteil_DE_IP;71.2;Prozent;Webdashboard;Geolokation nach IP;Kein Wohnsitznachweis
+M11;2026-10-01/2026-10-31;Anteil_andere_EU_IP;19.7;Prozent;Webdashboard;Geolokation nach IP;Keine verlaessliche Zahl aktiver Empfaenger
+M12;2026-10-01/2026-10-31;Anteil_sonstige_oder_unbekannte_IP;9.1;Prozent;Webdashboard;Restkategorie;VPN und fehlende Daten moeglich
+M13;2026-05-01/2026-10-31;Durchschnitt_aktive_Empfaenger_EU;;nicht_ermittelt;kein_abgestimmter_Export;Kein fertiger Schwellenwertbericht;Methodik und sechsmonatige Datenbasis fehlen

@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "plugin": "jugendmedienschutz-und-medienangebote",
+  "reviewed_on": "2026-11-18",
+  "selection": {
+    "target_skill": "medienangebot-pruefen",
+    "positive": [
+      "Prüfen Sie unser Browsergame mit KI-Inhalten und öffentlichen Chats vor dem Start nach JMStV und JuSchG.",
+      "Bearbeiten Sie die Aufsichtsanfrage zu Kennzeichnung und Jugendschutzorganisation unseres Online-Spiels."
+    ],
+    "negative": [
+      "Erstellen Sie meine Umsatzsteuervoranmeldung aus den Rechnungen.",
+      "Prüfen Sie die Sozialauswahl bei einer betriebsbedingten Kündigung."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/JMStV/true",
+      "checked_on": "2026-11-18",
+      "supports": "Aktueller JMStV einschließlich DSA-Abgrenzung, Inhaltsprüfung und Kennzeichnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/juschg/",
+      "checked_on": "2026-11-18",
+      "supports": "JuSchG insbesondere Plattformkennzeichnung und Nutzungsrisiken."
+    }
+  ],
+  "cases": [
+    {
+      "id": "browsergame-start",
+      "target_skill": "medienangebot-pruefen",
+      "request": "Die Wolkenwerft Worlds GmbH in Freiburg möchte das Browsergame Inselatlas am 01.12.2026 starten. Sie hat 17 Beschäftigte und 1.8 Millionen monatliche Seitenaufrufe. Die Werbung spricht 15-Jährige an, die Registrierung fordert 16 Jahre. Kuratierte KI-Szenarien sind eigene Inhalte, daneben gibt es öffentliche Nutzerbeiträge und private Teams. Die Selbstkontrollmitgliedschaft wurde nur angefragt. Erstellen Sie einen begründeten Freigabevermerk und eine konkrete Liste benötigter Belege, ohne aus den Aufrufzahlen aktive Nutzer oder aus der Anfrage einen Beitritt zu machen.",
+      "input_files": [
+        "jugendmedienschutz-und-medienangebote/testakte/01_Grundakte_ohne_Loesung/G01_Auftrag_und_erste_Unterlagen.docx",
+        "jugendmedienschutz-und-medienangebote/testakte/01_Grundakte_ohne_Loesung/G02_Unternehmen_Finanzierung_und_Beteiligung.pdf",
+        "jugendmedienschutz-und-medienangebote/testakte/01_Grundakte_ohne_Loesung/G03_Produkthandbuch_Inselatlas.docx",
+        "jugendmedienschutz-und-medienangebote/testakte/01_Grundakte_ohne_Loesung/G05_Nutzungsbedingungen_Entwurf.docx",
+        "jugendmedienschutz-und-medienangebote/testakte/01_Grundakte_ohne_Loesung/G09_Releasebesprechung_Protokoll.pdf",
+        "jugendmedienschutz-und-medienangebote/testakte/01_Grundakte_ohne_Loesung/G23_Inseln_Sichtbarkeit_und_Zustand.json"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Eigene Inhalte und Vermittlung funktionsbezogen nach § 2 Abs. 2 JMStV abgrenzen; keine pauschale Ausnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "§ 5c Abs. 3 seit 01.06.2026 prüfen; Plattform-Ausnahmen des § 14a JuSchG nicht übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "§ 7 Abs. 2 verlangt geringe Größe und Selbstkontrollanbindung; keine Freigabe allein wegen 17 Beschäftigten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Vollständiger Vermerk mit begründeten Maßnahmen; kein bloßes Ampelraster.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "privater-chat-wird-oeffentlich",
+      "target_skill": "chat-und-ugc-moderieren",
+      "request": "Ein Browsergame erlaubt seit gestern das öffentliche Teilen bisher privater Teamlinks. Eine 15-jährige Nutzerin erhält Nachrichten unbekannter Erwachsener. Die Eltern melden den Vorgang. Nur ein Ticket und eine Konfigurationsdatei liegen vor; Inhalt und Empfängerkreis einzelner Nachrichten sind ungeklärt. Erstellen Sie eine sofort umsetzbare Sicherungs- und Moderationsanweisung mit gezielten Nachfragen und begründen Sie, welche DSA-Pflichten Sie vorläufig zuordnen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Öffentliche Reichweite und private Kommunikation anhand der Belege unterscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beweissicherung und Schutz ohne pauschales Mitlesen privater Chats.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Art. 16/17 und gegebenenfalls 19/28 DSA differenzieren; keine automatische Generalfreistellung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anhoerung-kein-bescheid",
+      "target_skill": "aufsichtsverfahren-bearbeiten",
+      "request": "Die Landesmedienanstalt hört einen Spielebetreiber zu fehlender Kennzeichnung eigener KI-Szenarien an. Das Schreiben ging am 16.11.2026 nachweislich ein und nennt eine Stellungnahmefrist bis zum 30.11.2026. Ein Bescheid oder Bußgeld wurde nicht erlassen. Die Geschäftsführerin verlangt einen fertigen Antwortentwurf. Prüfen Sie zuerst die Unterlagenlage und erstellen Sie eine Stellungnahme mit kenntlich gemachten offenen Tatsachen; reichen Sie nichts ein.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Anhörung von Anordnung, Bußgeldverfahren und Rechtsbehelf trennen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Konkrete Frist und Zugang belegen; keine erfundene Einreichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ausformulierter Empfängertext mit zutreffender Inhaltsrolle und notwendigen Nachweisen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständige Prüfung von Produktfunktionen führt zum ausformulierten Dokument; Kennzeichnung, Zugangsschutz, DSA und Unternehmensgröße werden getrennt behandelt.",
+    "changes": [
+      "Konkreter Produktauftrag statt allgemeiner Einführung.",
+      "Nachreichungen ändern den führenden Entwurf, tatsächliche Oberflächenfunktionen mit Textalternative."
+    ],
+    "sha256": "7daff714f142a231c686385775eb9e7ef9ca2060afa00a76f0b92f43820cd93e"
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständige Prüfung von Produktfunktionen führt zum ausformulierten Dokument; Kennzeichnung, Zugangsschutz, DSA und Unternehmensgröße werden getrennt behandelt.",
+    "changes": [
+      "Konkreter Produktauftrag statt allgemeiner Einführung.",
+      "Nachreichungen ändern den führenden Entwurf, tatsächliche Oberflächenfunktionen mit Textalternative."
+    ],
+    "sha256": "b3caedeb9f90f8daf9e319c7ca33ff5582a450834845a9f5d66fa95922505d8c"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-11-18",
+    "method": "desk_review",
+    "files": [
+      "jugendmedienschutz-und-medienangebote/jugendmedienschutz-und-medienangebote-werkstatt.md",
+      "jugendmedienschutz-und-medienangebote/jugendmedienschutz-und-medienangebote-schnellstart.md"
+    ],
+    "opening_change": "Produktunterlagen und konkrete Freigabeentscheidung zuerst; juristische Abgrenzungen bestimmen die weitere Bearbeitung.",
+    "norms": [
+      "JMStV §§2,4,5,5c,7,12ff.; JuSchG §§10b,14a",
+      "DSA Art3,16,17,19,28; DSGVO Art8; MStV§18"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom09.11.2023 – C-376/22, EU:C:2023:835, Rn58–60 undTenor",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0376",
+        "application": "Generell-abstrakte Pflichten dürfen nicht als Einzelfallausnahme vom Herkunftslandprinzip behandelt werden.",
+        "limit": "Keine pauschale Befreiung von Aufsicht; konkrete Maßnahme und Regelungsbereich prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellen- und Ablaufprüfung; kein behaupteter Live-Modellvergleich oder behördliches Konformitätszertifikat."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-18",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ohne Unterlagen: entscheidende Produktfunktionen und Zielprodukt klären.",
+      "Mit Akte: zuerst lesen, Funktionskarte und Lückenbild erstellen.",
+      "Klare Bestellung: unmittelbar den Empfängertext ausarbeiten."
+    ],
+    "continuation": "Nachreichungen mit bisherigen Belegen abgleichen und betroffene Entscheidungen im führenden Entwurf anpassen.",
+    "enrichment": "Funktionskarte, Datenfluss und Quellenansicht nur bei tatsächlich verfügbaren Werkzeugen, sonst als Texttabelle.",
+    "limits": "Keine beobachtete End-to-End-Modellausführung; keine externen Handlungen ohne konkreten Auftrag."
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "jugendmedienschutz-und-medienangebote/jugendmedienschutz-und-medienangebote-werkstatt.md",
+      "jugendmedienschutz-und-medienangebote/references/arbeitsoberflaeche-und-visualisierung.md",
+      "jugendmedienschutz-und-medienangebote/skills/medienangebot-pruefen/SKILL.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
+  },
+  "reviewed_file_hashes": {
+    "jugendmedienschutz-und-medienangebote/references/amtliche-quellen.md": "1d8a11139ecb013587011ddeeac88c3271265ee836bc568b84ed4e500a743754",
+    "jugendmedienschutz-und-medienangebote/references/arbeitsoberflaeche-und-visualisierung.md": "886390b3154f524edff85b8efbf1ef2c51d485ddee1dc202802d0d56547425c4",
+    "jugendmedienschutz-und-medienangebote/references/fallpruefung.md": "17c9b8d63b473f9049c3d41f43b1e7a2507abbfcd97f175aec5b616a50b0bb47",
+    "jugendmedienschutz-und-medienangebote/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+    "jugendmedienschutz-und-medienangebote/skills/alterskennzeichnung-und-zugangsschutz/SKILL.md": "de6c9e6ce1788ef671bed930d8cda3d2ebaf927464fe4fdb6d4f0bddca8e6eed",
+    "jugendmedienschutz-und-medienangebote/skills/angebot-und-rollen-einordnen/SKILL.md": "2b95682b7b51f9f8559ac19ca83ed96a8116658a426712c16fe82d2143f55077",
+    "jugendmedienschutz-und-medienangebote/skills/aufsichtsverfahren-bearbeiten/SKILL.md": "b5d4fdc39ed39aae5c5b941229937a257e82b3f2b50ca542f6838624053975b7",
+    "jugendmedienschutz-und-medienangebote/skills/chat-und-ugc-moderieren/SKILL.md": "2d303a5bb060975debdaed65bdf35de935616171ae58fd75a4335204b9ca392c",
+    "jugendmedienschutz-und-medienangebote/skills/datenschutz-und-plattformpflichten/SKILL.md": "9c1d37b4ada6eb06132ae0855296359cef93b3655c262666bec149c62d48edd8",
+    "jugendmedienschutz-und-medienangebote/skills/inhalte-und-altersstufen-pruefen/SKILL.md": "00951705e303e6af04ef50231de99e093c7a2dfd502ec33219662ffeae20295f",
+    "jugendmedienschutz-und-medienangebote/skills/jugendschutzorganisation-aufbauen/SKILL.md": "3a92444d25083832a7bcb38d5102a82ac2d3c7f627edba23ba2e56849f960afc",
+    "jugendmedienschutz-und-medienangebote/skills/ki-szenarien-verantworten/SKILL.md": "80a95b37030d55fdada072dc8e26eb1ea6a3262fe495d1164e2405b74274a0e4",
+    "jugendmedienschutz-und-medienangebote/skills/medienangebot-pruefen/SKILL.md": "963def790b0a4bbd471eb0f3b2fa89b1ff8d6fd79cc0ef77eaa2d08a29fe9775",
+    "jugendmedienschutz-und-medienangebote/skills/medienpflichten-und-werbung/SKILL.md": "a91f7de2b7719917982777a6e89c8abc07e5a89c5bbadf11fead711b92c2560d"
+  },
+  "source_review": {
+    "date": "2026-11-18",
+    "method": "desk_review",
+    "report": "quality/source-audits/2026-11-18-issues/jugendmedien.md",
+    "limits": "Quellen- und Funktionsprüfung, kein beobachteter Modell-Pass."
+  }
+}

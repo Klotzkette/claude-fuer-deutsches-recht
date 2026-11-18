@@ -1,0 +1,13 @@
+﻿Ticket;Zeitpunkt_Europe_Berlin;Akteur;Vorgang;Beleg_ID;Status
+SUP-261109-04;2026-11-09T20:12:00+01:00;Maren Fischer;"Eingang: Tochter15 nutzte Gastlink; Inhalt als bedrohlich beschrieben";G13;offen
+SUP-261109-04;2026-11-10T09:18:00+01:00;Lea Hartmann;"Eingang bestaetigt; Link und Zeitpunkt erfragt";G10;Rueckfrage
+SUP-261109-04;2026-11-10T18:46:00+01:00;Maren Fischer;"Link abgelaufen; Name Nebelgarten; ungefaehr19:40";G10;Zuordnung_offen
+SUP-261113-11;2026-11-13T12:09:00+01:00;Testkonto;Altes Vorschaubild nach Aenderung sichtbar;G10;offen
+SUP-261113-11;2026-11-13T15:30:00+01:00;Rafael Ott;"Cache manuell geleert; Reproduktion noch offen";G25;Test_offen
+SUP-261115-03;2026-11-15T16:40:00+01:00;Ada;Link aus vermeintlich privatem Raum weitergeleitet;G19;offen
+SUP-261115-03;2026-11-16T09:05:00+01:00;Lea Hartmann;Insel IA-1184 im aktuellen Zustand gefunden;G23;Historie_fehlend
+INTERN-261116-02;2026-11-16T10:42:00+01:00;Cem Sander;Muendliche Aussage Altersabfrage betrifft Registrierung;G09;praezisiert
+INTERN-261116-02;2026-11-17T08:58:00+01:00;Cem Sander;Gastzugang ohne Altersfeld schriftlich bestaetigt;G17;beobachtet
+INTERN-261117-07;2026-11-17T11:20:00+01:00;Rafael Ott;Anbieter um Modellkennung und Protokollfrist gebeten;G16;Antwort_erhalten
+INTERN-261117-08;2026-11-17T15:10:00+01:00;Ines Weiss;Fehlende Beteiligungsanlagen angefordert;G18;Unterlagen_fehlen
+SUP-261109-04;2026-11-18T08:35:00+01:00;Lea Hartmann;Uebergabe an Romy ohne abschliessende Bewertung;G10;in_Aufklaerung

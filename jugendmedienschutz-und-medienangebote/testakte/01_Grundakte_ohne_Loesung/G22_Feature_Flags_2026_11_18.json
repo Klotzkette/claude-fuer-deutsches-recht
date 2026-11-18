@@ -1,0 +1,54 @@
+{
+  "environment": "invited-beta",
+  "capturedAt": "2026-11-18T07:10:00Z",
+  "publicBetaPlanned": "2026-12-01",
+  "registration": {
+    "ageCheckboxText": "Ich bin mindestens 16 Jahre alt",
+    "minimumDeclaredAge": 16,
+    "dateOfBirthCollected": false,
+    "externalAgeService": "not_configured"
+  },
+  "campaign": {
+    "headline": "Gemeinsam kreativ ab 15",
+    "published": true,
+    "reviewState": "open"
+  },
+  "guestAccess": {
+    "enabled": true,
+    "ageQuestion": false,
+    "displayNameRequired": true,
+    "defaultLinkDays": 7,
+    "maxBrowserTokens": 20
+  },
+  "visibilityModes": {
+    "team-private": "invited_accounts_or_guest_token",
+    "unlisted-public": "anyone_with_link",
+    "discover-public": "listed_and_anyone_with_link"
+  },
+  "ai": {
+    "enabled": true,
+    "provider": "Lumenpfad AI B.V.",
+    "model": "LP-Story-2026-10",
+    "inputFields": [
+      "scene_request",
+      "style",
+      "length",
+      "language",
+      "request_id"
+    ],
+    "debugContextReview": "open",
+    "outputInitiallyInEditor": true,
+    "separatePublishAction": true
+  },
+  "moderation": {
+    "reportForm": true,
+    "anonymousReports": true,
+    "weekendContentShift": "unassigned",
+    "searchRemovalAlsoDisablesLink": false
+  },
+  "payments": {
+    "subscriptionCheckout": false,
+    "plannedMonthlyEUR": "4.90"
+  },
+  "note": "Fiktiver technischer Zustandsauszug; keine Aussage zur Rechtmaessigkeit oder Vollstaendigkeit der Umsetzung."
+}

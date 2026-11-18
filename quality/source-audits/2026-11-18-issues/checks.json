@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-18",
+  "method": "local_commands",
+  "base_commit": "e458e111f94ce0bcd9788e192beeb61a81d20812",
+  "checks": [
+    {
+      "name": "validate-marketplace-import",
+      "arguments": [
+        "scripts/validate-marketplace-import.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-plugin-structure",
+      "arguments": [
+        "scripts/validate-plugin-structure.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-yaml-frontmatter",
+      "arguments": [
+        "scripts/validate-yaml-frontmatter.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-runtime-performance",
+      "arguments": [
+        "scripts/validate-runtime-performance.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "audit-skill-activation",
+      "arguments": [
+        "scripts/audit-skill-activation.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "audit-skill-selection",
+      "arguments": [
+        "scripts/audit-skill-selection.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "quality_lab",
+      "arguments": [
+        "scripts/quality_lab.py",
+        "audit",
+        "--require-editorial",
+        "--require-workflow"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-current-law-sentinels",
+      "arguments": [
+        "scripts/validate-current-law-sentinels.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "consolidate-skill-cap",
+      "arguments": [
+        "scripts/consolidate-skill-cap.py",
+        "--verify",
+        "quality/skill-consolidation/2026-11-14/source-map.json",
+        "--strict-links"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-root-readme-overview",
+      "arguments": [
+        "scripts/validate-root-readme-overview.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-readme-navigation",
+      "arguments": [
+        "scripts/validate-readme-navigation.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-markdown-structure",
+      "arguments": [
+        "scripts/validate-markdown-structure.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-testakten-gesamt-pdf",
+      "arguments": [
+        "scripts/validate-testakten-gesamt-pdf.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "validate-testakten-readme-downloads",
+      "arguments": [
+        "scripts/validate-testakten-readme-downloads.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "sync-werkstatt-visualisierung",
+      "arguments": [
+        "scripts/sync-werkstatt-visualisierung.py",
+        "--check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-cap-migration",
+      "arguments": [
+        "scripts/test-skill-cap-migration.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-cap-integration",
+      "arguments": [
+        "scripts/test-skill-cap-integration.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-plugin-consolidation",
+      "arguments": [
+        "scripts/test-plugin-consolidation.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-activation",
+      "arguments": [
+        "scripts/test-skill-activation.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-source-replacements",
+      "arguments": [
+        "scripts/test-skill-source-replacements.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-marketplace-import",
+      "arguments": [
+        "scripts/test-marketplace-import.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-quality-release",
+      "arguments": [
+        "scripts/test-skill-quality-release.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-anfechtung-werkstattprompts",
+      "arguments": [
+        "scripts/test-anfechtung-werkstattprompts.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-insolvenzanfechtung",
+      "arguments": [
+        "scripts/test-insolvenzanfechtung.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-quality-lab",
+      "arguments": [
+        "scripts/test-quality-lab.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-package-links",
+      "arguments": [
+        "scripts/test-skill-package-links.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-runtime-performance",
+      "arguments": [
+        "scripts/test-runtime-performance.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-selection",
+      "arguments": [
+        "scripts/test-skill-selection.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-sources",
+      "arguments": [
+        "scripts/test-skill-sources.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-schwerpunkt-coverage",
+      "arguments": [
+        "scripts/test-schwerpunkt-coverage.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-vergaberecht-module-routing",
+      "arguments": [
+        "scripts/test-vergaberecht-module-routing.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-markdown-structure",
+      "arguments": [
+        "scripts/test-markdown-structure.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-current-law-fachinhalte",
+      "arguments": [
+        "scripts/test-current-law-fachinhalte.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-agenten-digitalrecht",
+      "arguments": [
+        "scripts/test-agenten-digitalrecht.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-datenschutz-fanpage-quellen",
+      "arguments": [
+        "scripts/test-datenschutz-fanpage-quellen.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-release-assets",
+      "arguments": [
+        "scripts/test-release-assets.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-release-rate-limits",
+      "arguments": [
+        "scripts/test-release-rate-limits.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-scoped-release-routing",
+      "arguments": [
+        "scripts/test-scoped-release-routing.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-generator-cli",
+      "arguments": [
+        "scripts/test-generator-cli.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-skill-map-references",
+      "arguments": [
+        "--test",
+        "scripts/test-skill-map-references.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-audit-link-contexts",
+      "arguments": [
+        "--test",
+        "scripts/test-audit-link-contexts.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "name": "test-jugendmedien-paket",
+      "arguments": [
+        "scripts/test-jugendmedien-paket.py"
+      ],
+      "exit_code": 0,
+      "tests": 12
+    }
+  ],
+  "limits": "Lokale technische Prüfungen; kein juristischer Live-Modellvergleich. Akten-/Release-Verifikation gesondert dokumentiert.",
+  "initial_findings": [
+    "Fehlende Akten-/Downloadnavigation während Aufbau behoben.",
+    "Neue Promptübersicht und Zähler in historischen Nachweisen exakt nachgeführt.",
+    "Eine verwaiste Markdown-Tabellenzeile korrigiert.",
+    "Vorbestehende veraltete Vergabe-Rückführung an unveränderte heutige Texte gebunden."
+  ],
+  "document_verification": {
+    "originals": 34,
+    "initial_documents": 25,
+    "later_documents": 4,
+    "blank_templates": 5,
+    "reading_documents": 33,
+    "pages": 47,
+    "source": "jugendmedienschutz-und-medienangebote/testakte/bestand.json",
+    "original_zip_sha256": "ae5b3c614ca0e7418cce69e452ffe09831bd9652da7bdb4e0caf35dc0da323f1",
+    "font_check": "Echte Word-PDFs auf eingebettete Times New Roman geprüft. Regression weist Liberation-Ersatz zurück.",
+    "visual_review": "Alle Seiten gesichtet; nach Schriftkorrekturen betroffene Seiten erneut geprüft."
+  }
+}

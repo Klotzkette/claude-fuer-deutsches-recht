@@ -33,6 +33,8 @@ Absatz 3 erfasst den Produkthersteller beim gemeinsamen Inverkehrbringen unter s
 
 Absatz 4 verlangt zwischen Hochrisikoanbieter und relevantem Dritten eine schriftliche Vereinbarung zu erforderlichen Informationen, Fähigkeiten, technischem Zugang und sonstiger Unterstützung. Die Ausnahme für bestimmte frei und quelloffen öffentlich bereitgestellte Instrumente, Dienste, Verfahren oder Komponenten gilt nicht pauschal für GPAI-Modelle. Absatz 5 wahrt geistiges Eigentum, vertrauliche Geschäftsinformation und Geschäftsgeheimnisse.
 
+Für ein GPAI-Modell beginnt die Anbieterprüfung bei Artikel 3 Nummer 3: Wer entwickelt das Modell oder lässt es entwickeln und bringt es unter eigenem Namen oder eigener Marke in Verkehr? Modellveränderung, Veröffentlichung und tatsächliche Entwicklung sind zu belegen. Das Umbenennen einer Oberfläche allein erlaubt weder eine automatische Übertragung des Artikels 25 auf das Modell noch einen pauschalen Ausschluss der Anbieterrolle. Die einschlägigen Modellpflichten stehen in Kapitel V; ein darauf aufgebautes System ist daneben eigenständig zu prüfen.
+
 Die GPAI-Leitlinien Randnummern 60 bis 71 zur erheblichen Modelländerung und dem indikativen Drittel des Trainingsaufwands betreffen die Modellanbieterrolle. Auch unterhalb dieses Werts kann ein eigenständig integriertes oder umgewidmetes System Anbieterpflichten auslösen. Modell, System, Betreiber und Vertrag getrennt bilanzieren.
 
 ### 3.4. Arbeitsergebnis
@@ -47,7 +49,7 @@ Eine vorhersehbare Fehlanwendung nach Artikel 3 Nummer 13 ist zunächst Risikoma
 
 ## 4. Quellenpflicht
 
-Artikel 3 Nummern 3, 12 und 23, Artikel 25 vollständig; GPAI-Leitlinien Randnummern 57 und 60 bis 71 als unverbindliche Auslegung. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
+Artikel 3 Nummern 3, 12 und 23, Artikel 25 vollständig; GPAI-Leitlinien Randnummern 57 und 60 bis 71 als unverbindliche Auslegung. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Für die Rollenabgrenzung wurden am 18. November 2026 zusätzlich die amtlich bereitgestellten Texte zu [Artikel 3](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-3) und [Artikel 25](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-25) gelesen. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
 ## 5. Ausgabeformat
 

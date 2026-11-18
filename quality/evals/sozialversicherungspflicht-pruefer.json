@@ -906,7 +906,7 @@
     "sozialversicherungspflicht-pruefer/skills/vorstaende-aufsichtsraete-und-organe/SKILL.md": "e1a10f09dc22bdc308ef2f9d1ba82a296633733157bd582474d12add6a778463"
   },
   "reviewed_file_hashes": {
-    "sozialversicherungspflicht-pruefer/README.md": "c69c6051c768111ab5c86e20b382fb64d57446646ae10ca4b735b33875ad29ac",
+    "sozialversicherungspflicht-pruefer/README.md": "48bba693346dca12631c9eac9330e613850c1fbb3dbe7c6db557ebea71c5898d",
     "sozialversicherungspflicht-pruefer/FACHMODULE.md": "abe99ecd59bdcbcdf7527e622b9b5f5c0133ed1741ea1f07e5754980d0571765",
     "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md": "a07ce95eb3248693cdb0f89abd19fcc4298191fd4bd9a431a856e42598b5e4fe",
     "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-schnellstart.md": "0b37b41d30394570d11c43d29ea4ab20708a9ba408db727554bec8cfc59d7ff5",
@@ -938,5 +938,10 @@
     ],
     "scope": "Generierte Navigation erneut gelesen: 14 aktive Arbeitswege, 100 Fachtexte, zehn REFERENZ-Router und zwölf unveränderte Fallverweise; alle 100 Fachtexte und zehn Referenzrouter weiterhin aus aktiven Skills erreichbar. Downloadnavigation und Versionsangabe 445.36.5, Marketplacezählung 311.",
     "limits": "Nur Navigations- und Inhaltszuordnung geprüft; keine neue Rechtsquellenverifikation und kein Live-Modelllauf."
+  },
+  "navigation_count_review": {
+    "report": "quality/source-audits/2026-11-18-issues/navigation.json",
+    "date": "2026-11-18",
+    "limits": "Ausschließlich Marketplace-Zähler 311 zu 312; übrige Bytes unverändert."
   }
 }

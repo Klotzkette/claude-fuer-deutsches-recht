@@ -1,0 +1,428 @@
+{
+  "case": "Inselatlas vor dem Start – Gäste, geteilte Welten und ein KI-Assistent",
+  "source": "scripts/data/jugendmedien-wolkenwerft.json",
+  "source_sha256": "2ccae1dca79129d87dba081bc5aa64f095663e1201279bab97b8743dd10580f2",
+  "original_count": 34,
+  "grundakte_count": 25,
+  "nachreichungen_count": 4,
+  "vorlagen_count": 5,
+  "pdf_documents": 33,
+  "pages": 47,
+  "originals": [
+    {
+      "file": "01_Grundakte_ohne_Loesung/G01_Auftrag_und_erste_Unterlagen.docx",
+      "sha256": "faac39efcb9a0513fdc61cc069adbf2652cb57bf124a934fb6b642b9431e6971",
+      "bytes": 40250
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G02_Unternehmen_Finanzierung_und_Beteiligung.pdf",
+      "sha256": "79a2382c66b318afb1056c01d51d43a85dd164ae4d2bbd692c6539a7ffad227a",
+      "bytes": 88097
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G03_Produkthandbuch_Inselatlas.docx",
+      "sha256": "1dd41a882ac67e37a3d7bf141e50bca2777ed3eb2dfd581a0b201fd8ae879fbd",
+      "bytes": 40633
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G04_Registrierung_Alter_und_Gastzugang.docx",
+      "sha256": "f68292d62bd1c5d577c6aaeb974573c74f10d39b862729145f115f8b61bf5e08",
+      "bytes": 40572
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G05_Nutzungsbedingungen_Entwurf.docx",
+      "sha256": "7685f0e1d2d4df2832d055f983c6572ce5122f27748a1a2b356b45e99da783f7",
+      "bytes": 40372
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G06_Moderationshandbuch_Arbeitsstand.docx",
+      "sha256": "717c8db9463026d4cc6697731b190bfc012dbb8897dddf154cb151b82252ad07",
+      "bytes": 40529
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G07_KI_Szenarien_und_Beobachtungen.docx",
+      "sha256": "503b464b1ceed30f4f93e354fb26d7aa4b1da4e7e56e443e03377f953d76d23a",
+      "bytes": 40594
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G08_Anbietervereinbarung_Lumenpfad_Entwurf.pdf",
+      "sha256": "faf6497853217d45a7a5f2b67d19433b49522168c4c70532ae58dd1c4ea2de34",
+      "bytes": 88688
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G09_Releasebesprechung_Protokoll.pdf",
+      "sha256": "44500a20dd133a47b81f94a46f98c040d00554dd6e27bd2f910d4a2065b73019",
+      "bytes": 88441
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G10_Supportuebergabe_und_Ereignisnotizen.pdf",
+      "sha256": "e4382ebded6126d3fcd758e825ebafdc4544619075192be27299eb0dc53be9b1",
+      "bytes": 88129
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G11_Betriebsplan_und_Verantwortlichkeiten.pdf",
+      "sha256": "2d2b235617c37b5f38184afa6a494a73f6de366ef2513f85bdc36f48eb138549",
+      "bytes": 88515
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G12_E_Mail_Bitte_zunächst_den_tatsächlichen_Stand_ausein.eml",
+      "sha256": "6522726ca8f84a278ffe1ce2f643655285f5f42791e629497d6e38d16220c76e",
+      "bytes": 1481
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G13_E_Mail_Einladung_für_meine_Tochter_–_warum_ohne_Alte.eml",
+      "sha256": "bb45545ccbd6e978471ca202473869fb1f158ce119e19ed72906360fe8304260",
+      "bytes": 1577
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G14_E_Mail_Ihre_Anfrage_zu_Aufnahme_und_Beratung_–_noch_.eml",
+      "sha256": "904154937ba25e53cbf62f01f7988ebb935f606dd8561741812f34d179091727",
+      "bytes": 1660
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G15_E_Mail_Kampagne.eml",
+      "sha256": "4b48b7793150ec5d1170f7c741a2bcd85845583d178e73fd465e8466d070e999",
+      "bytes": 1482
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G16_E_Mail_Re.eml",
+      "sha256": "f5a29e61f88fe4a348a64e4243e125ef6fb27c528102d680b5ca11f8ed6841ad",
+      "bytes": 1715
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G17_E_Mail_Korrektur_meiner_Aussage_zum_Gastzugang.eml",
+      "sha256": "ac7ba9f77c0d49e17cdcd594e5a55aff8b314c403928b00a6eac4ee9ca4b303f",
+      "bytes": 1588
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G18_E_Mail_Beteiligungsanlagen_fehlen_weiterhin.eml",
+      "sha256": "73369e2d52f4b7a98d51f3cbc36e17bd909dffc9d50e882271de1f06d126a848",
+      "bytes": 1410
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G19_E_Mail_Mein_geteilter_Raum_war_offenbar_nicht_privat.eml",
+      "sha256": "038308dd6864e0b6043558851e1a38631320fab12db75beb7338b3de419da177",
+      "bytes": 1432
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G20_Messwerte_Oktober_2026.csv",
+      "sha256": "0b29f6e8ea080d0cf133a02a7fa2c15310aa5183575344ce4a234c3eb968a90a",
+      "bytes": 2045
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G21_Ticketverlauf.csv",
+      "sha256": "f770fe43706caa2f6a928ab87f5e00d03a8fbeb08540aaa8f64581561b3da513",
+      "bytes": 1495
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G22_Feature_Flags_2026_11_18.json",
+      "sha256": "410d4ca156287e11d86bf5d8c1b63c0b5f74bd38121051340813ef8ddc4ce913",
+      "bytes": 1453
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G23_Inseln_Sichtbarkeit_und_Zustand.json",
+      "sha256": "570f7673d9fc91048d36ea0fac511e878794624a7f9b159b4ff0887316ed7e7b",
+      "bytes": 1711
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G24_URL_Wege_und_Texte.txt",
+      "sha256": "f0c54b59fa0d3191a424828115220a6daa235e0d2f20ba0ad5673551689b0e05",
+      "bytes": 2231
+    },
+    {
+      "file": "01_Grundakte_ohne_Loesung/G25_Testdurchlaeufe_und_Luecken.csv",
+      "sha256": "901e404b4a7094c2ee90f4b04706b65f2db3d031891119459173a84f481ab2d1",
+      "bytes": 1379
+    },
+    {
+      "file": "02_Nachreichungen/N01_Neue_Beschwerde_weitergeleiteter_Link.eml",
+      "sha256": "4d671953f404059ff26522dd616ba57443f21407f0eb0137ce148cf8012688e3",
+      "bytes": 2008
+    },
+    {
+      "file": "02_Nachreichungen/N02_Releaseaenderung_ohne_Gesamtfreigabe.docx",
+      "sha256": "617c86b84c7b4eac93b319800d924258e31bb1ba614fcea37fd155b9f9347079",
+      "bytes": 39509
+    },
+    {
+      "file": "02_Nachreichungen/N03_Fiktive_LfK_Anhoerung.pdf",
+      "sha256": "457ad311f21b96517507989a105fd629074a78d2d9b6be1621d24c271cd32e71",
+      "bytes": 87907
+    },
+    {
+      "file": "02_Nachreichungen/N04_Nachgereichte_Beteiligungsnotiz.pdf",
+      "sha256": "58648d140f278a2b9d1fa885f25c227ba986ee9c546ca92a152a166d9d9bc139",
+      "bytes": 85167
+    },
+    {
+      "file": "03_Vorlagen/V01_Leere_Sachverhalts_und_Belegmatrix.docx",
+      "sha256": "e96ecfb303760c1b585e4754a35677b5b9f0c8659574259d86301030337fd1d1",
+      "bytes": 38311
+    },
+    {
+      "file": "03_Vorlagen/V02_Leere_Funktionsentscheidung_Beta.docx",
+      "sha256": "baa1a7c392bab6f74c60fe7fd857ed56f0c0f9ca1538210ec58e7e7bb1fb20da",
+      "bytes": 38350
+    },
+    {
+      "file": "03_Vorlagen/V03_Leere_Stellungnahme_Anhoerung.docx",
+      "sha256": "402721ecd2e2823e8b977046d27cc9ec939222c82f71a59bfbb999c6ebd6b6aa",
+      "bytes": 38544
+    },
+    {
+      "file": "03_Vorlagen/V04_Leere_Pruef_und_Massnahmenliste.csv",
+      "sha256": "29807071bdfa3d4db15c7714f2f623667277b4a3992d8665ab1dfbdb1469330b",
+      "bytes": 307
+    },
+    {
+      "file": "03_Vorlagen/V05_Leere_Arbeitsmatrix.xlsx",
+      "sha256": "aa4996a2e78cf0aefc5f79da685cd4d2b976b17bd847409eab380c7c07f34c7b",
+      "bytes": 4696
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "G01",
+      "file": "lesefassung/G01_Auftrag_und_erste_Unterlagen.pdf",
+      "pages": 2,
+      "first_page": 1,
+      "sha256": "433501b8abbd73d7bb858d5798b0fe8d09cc54cdf9eb2976ada58bbbbc3f4c82"
+    },
+    {
+      "id": "G02",
+      "file": "lesefassung/G02_Unternehmen_Finanzierung_und_Beteiligung.pdf",
+      "pages": 2,
+      "first_page": 3,
+      "sha256": "79a2382c66b318afb1056c01d51d43a85dd164ae4d2bbd692c6539a7ffad227a"
+    },
+    {
+      "id": "G03",
+      "file": "lesefassung/G03_Produkthandbuch_Inselatlas.pdf",
+      "pages": 2,
+      "first_page": 5,
+      "sha256": "311cdba25515ce6f1b8990e1d3f5d23ed4c13629b7f456de41b7d21a437a0d57"
+    },
+    {
+      "id": "G04",
+      "file": "lesefassung/G04_Registrierung_Alter_und_Gastzugang.pdf",
+      "pages": 2,
+      "first_page": 7,
+      "sha256": "487521c4daa54b063e50179b4f7c6d0128b4b0ad1a5a5a682b5405ae24140a37"
+    },
+    {
+      "id": "G05",
+      "file": "lesefassung/G05_Nutzungsbedingungen_Entwurf.pdf",
+      "pages": 2,
+      "first_page": 9,
+      "sha256": "33ed10afd4f0fcc72c2917c0b356f752a20431c3f954d25d05c37a88e55322fb"
+    },
+    {
+      "id": "G06",
+      "file": "lesefassung/G06_Moderationshandbuch_Arbeitsstand.pdf",
+      "pages": 2,
+      "first_page": 11,
+      "sha256": "a6d195bb49d1ee48c640339b7ce22f2082a8f5b5f84226f1ff90aad20d452dec"
+    },
+    {
+      "id": "G07",
+      "file": "lesefassung/G07_KI_Szenarien_und_Beobachtungen.pdf",
+      "pages": 2,
+      "first_page": 13,
+      "sha256": "3715b612bc6909499bad9064aac747cef1a1b6736083c1ec755124c5e40bedc7"
+    },
+    {
+      "id": "G08",
+      "file": "lesefassung/G08_Anbietervereinbarung_Lumenpfad_Entwurf.pdf",
+      "pages": 2,
+      "first_page": 15,
+      "sha256": "faf6497853217d45a7a5f2b67d19433b49522168c4c70532ae58dd1c4ea2de34"
+    },
+    {
+      "id": "G09",
+      "file": "lesefassung/G09_Releasebesprechung_Protokoll.pdf",
+      "pages": 2,
+      "first_page": 17,
+      "sha256": "44500a20dd133a47b81f94a46f98c040d00554dd6e27bd2f910d4a2065b73019"
+    },
+    {
+      "id": "G10",
+      "file": "lesefassung/G10_Supportuebergabe_und_Ereignisnotizen.pdf",
+      "pages": 2,
+      "first_page": 19,
+      "sha256": "e4382ebded6126d3fcd758e825ebafdc4544619075192be27299eb0dc53be9b1"
+    },
+    {
+      "id": "G11",
+      "file": "lesefassung/G11_Betriebsplan_und_Verantwortlichkeiten.pdf",
+      "pages": 2,
+      "first_page": 21,
+      "sha256": "2d2b235617c37b5f38184afa6a494a73f6de366ef2513f85bdc36f48eb138549"
+    },
+    {
+      "id": "G12",
+      "file": "lesefassung/G12_E_Mail_Bitte_zunächst_den_tatsächlichen_Stand_ausein.pdf",
+      "pages": 1,
+      "first_page": 23,
+      "sha256": "78c71bfaf912569ddbd5e0a8bf16a5ece13c9e3b39933c4c30960e3cd62929ea"
+    },
+    {
+      "id": "G13",
+      "file": "lesefassung/G13_E_Mail_Einladung_für_meine_Tochter_–_warum_ohne_Alte.pdf",
+      "pages": 1,
+      "first_page": 24,
+      "sha256": "bc1c22624b444499d6a926c6a5eaf401073272fd345225352880bab0eced7271"
+    },
+    {
+      "id": "G14",
+      "file": "lesefassung/G14_E_Mail_Ihre_Anfrage_zu_Aufnahme_und_Beratung_–_noch_.pdf",
+      "pages": 1,
+      "first_page": 25,
+      "sha256": "d29a2fe45cc19bf6ad92d06ed2598c4c85adb9f32049740caf70859c38f0a0d2"
+    },
+    {
+      "id": "G15",
+      "file": "lesefassung/G15_E_Mail_Kampagne.pdf",
+      "pages": 1,
+      "first_page": 26,
+      "sha256": "2019336a133922e2454cce8708460f9f9c8fc1dd4dffd7e0eed13de4b13adf96"
+    },
+    {
+      "id": "G16",
+      "file": "lesefassung/G16_E_Mail_Re.pdf",
+      "pages": 1,
+      "first_page": 27,
+      "sha256": "182372c5cd1304df830f208007b3efda23db9343aab79551a45e8136f8e6d7de"
+    },
+    {
+      "id": "G17",
+      "file": "lesefassung/G17_E_Mail_Korrektur_meiner_Aussage_zum_Gastzugang.pdf",
+      "pages": 1,
+      "first_page": 28,
+      "sha256": "5f2a614175d5c83680bb81212dfa306bd44ae633fc0e539a4e79d02e0fc2f6dc"
+    },
+    {
+      "id": "G18",
+      "file": "lesefassung/G18_E_Mail_Beteiligungsanlagen_fehlen_weiterhin.pdf",
+      "pages": 1,
+      "first_page": 29,
+      "sha256": "96d9e49641f3303a642603afeccd719c4820cf3eeba11327a349d2a056f26292"
+    },
+    {
+      "id": "G19",
+      "file": "lesefassung/G19_E_Mail_Mein_geteilter_Raum_war_offenbar_nicht_privat.pdf",
+      "pages": 1,
+      "first_page": 30,
+      "sha256": "3564be04836d47c01a6961f117d624a94ef5130b8a36e4f256db40849ce6a4c6"
+    },
+    {
+      "id": "G20",
+      "file": "lesefassung/G20_Messwerte_Oktober_2026.pdf",
+      "pages": 2,
+      "first_page": 31,
+      "sha256": "c1cc5071422d52c9b7c17500b216bf80d8f0693379aa0665767335e4534d13a2"
+    },
+    {
+      "id": "G21",
+      "file": "lesefassung/G21_Ticketverlauf.pdf",
+      "pages": 1,
+      "first_page": 33,
+      "sha256": "09bdab9f28a0fddaf687252b8ea14cfa2f9ef5840e64b5c5f728f4d5fd4774e7"
+    },
+    {
+      "id": "G22",
+      "file": "lesefassung/G22_Feature_Flags_2026_11_18.pdf",
+      "pages": 1,
+      "first_page": 34,
+      "sha256": "566eb6bf8ff451e995e48337a2a074d41b0cc04e75833b45bfd5b42b3d2684e4"
+    },
+    {
+      "id": "G23",
+      "file": "lesefassung/G23_Inseln_Sichtbarkeit_und_Zustand.pdf",
+      "pages": 1,
+      "first_page": 35,
+      "sha256": "de251cf8b9f480c37683677bf0d8433380e003a57240a8121e0d1c4beb14dfc1"
+    },
+    {
+      "id": "G24",
+      "file": "lesefassung/G24_URL_Wege_und_Texte.pdf",
+      "pages": 1,
+      "first_page": 36,
+      "sha256": "5f3b9305a13bea50c7fbfe85b668cf03755abf34605ffc4e0fd12e377dcf672b"
+    },
+    {
+      "id": "G25",
+      "file": "lesefassung/G25_Testdurchlaeufe_und_Luecken.pdf",
+      "pages": 2,
+      "first_page": 37,
+      "sha256": "8a5e67c916ba256ba860098b0a6c719e09e0cc3fa9d79b01e072c08aa7ee7c40"
+    },
+    {
+      "id": "N01",
+      "file": "lesefassung/N01_Neue_Beschwerde_weitergeleiteter_Link.pdf",
+      "pages": 1,
+      "first_page": 39,
+      "sha256": "aac555ce62b889c7c8ff4e48aa163a1b42ad073bf1256339d877615eb16cc180"
+    },
+    {
+      "id": "N02",
+      "file": "lesefassung/N02_Releaseaenderung_ohne_Gesamtfreigabe.pdf",
+      "pages": 1,
+      "first_page": 40,
+      "sha256": "68afee723858769e332ac82e35e44bb2297acc2bdd510be2c6bcfcfccca9b4ec"
+    },
+    {
+      "id": "N03",
+      "file": "lesefassung/N03_Fiktive_LfK_Anhoerung.pdf",
+      "pages": 2,
+      "first_page": 41,
+      "sha256": "457ad311f21b96517507989a105fd629074a78d2d9b6be1621d24c271cd32e71"
+    },
+    {
+      "id": "N04",
+      "file": "lesefassung/N04_Nachgereichte_Beteiligungsnotiz.pdf",
+      "pages": 1,
+      "first_page": 43,
+      "sha256": "58648d140f278a2b9d1fa885f25c227ba986ee9c546ca92a152a166d9d9bc139"
+    },
+    {
+      "id": "V01",
+      "file": "lesefassung/V01_Leere_Sachverhalts_und_Belegmatrix.pdf",
+      "pages": 1,
+      "first_page": 44,
+      "sha256": "a0d75d84677a69f78742633f976219c25e98fedf636f8f7e9e376e4c602be75e"
+    },
+    {
+      "id": "V02",
+      "file": "lesefassung/V02_Leere_Funktionsentscheidung_Beta.pdf",
+      "pages": 1,
+      "first_page": 45,
+      "sha256": "a90274533b052e169635c7a221f870a1d51c6fbd191ab2d10efdc94a1d46b46c"
+    },
+    {
+      "id": "V03",
+      "file": "lesefassung/V03_Leere_Stellungnahme_Anhoerung.pdf",
+      "pages": 1,
+      "first_page": 46,
+      "sha256": "f58e86f0c366f0ff36dd34dc1b84dc0a584a6151932ff888ffdfad815342ea08"
+    },
+    {
+      "id": "V04",
+      "file": "lesefassung/V04_Leere_Pruef_und_Massnahmenliste.pdf",
+      "pages": 1,
+      "first_page": 47,
+      "sha256": "26094c29529e7457c41df855bfdbc5642d552330917d970187b3b24d2f668afb"
+    }
+  ],
+  "downloads": [
+    {
+      "file": "downloads/testakte-jugendmedien-wolkenwerft-originaldateien.zip",
+      "sha256": "ae5b3c614ca0e7418cce69e452ffe09831bd9652da7bdb4e0caf35dc0da323f1",
+      "bytes": 988567
+    },
+    {
+      "file": "downloads/testakte-jugendmedien-wolkenwerft-gesamt.pdf",
+      "sha256": "f2d5dd3f7f74eeb592f1ec1ebedb296399248b7b28fe3ed1643a96a72b158953",
+      "bytes": 3207751
+    }
+  ]
+}

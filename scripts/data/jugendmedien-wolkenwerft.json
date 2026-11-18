@@ -1,0 +1,1446 @@
+{
+  "case": {
+    "title": "Inselatlas vor dem Start – Gäste, geteilte Welten und ein KI-Assistent",
+    "company": "Wolkenwerft Worlds GmbH, Freiburg im Breisgau",
+    "date": "2026-11-18",
+    "publicBetaPlanned": "2026-12-01",
+    "fictionNotice": "Vollständig fiktive Schulungsakte. Personen, Unternehmen, Kommunikation, Behördenvorgang und Zugangsdaten sind erfunden. Keine echte Behördenpost, keine fertige rechtliche Lösung.",
+    "startingPoint": "Die Grundakte bildet den Eingang bei der Beratung am 18. November 2026 ab. Noch keine Behördenreaktion, förmliche Befragung oder abschließende rechtliche Bewertung.",
+    "useOrder": [
+      "01_Grundakte_ohne_Loesung zuerst bearbeiten",
+      "02_Nachreichungen erst nach eigener erster Bearbeitung öffnen",
+      "03_Vorlagen sind leere Arbeitsmittel"
+    ],
+    "scopeNotes": [
+      "17 unmittelbar Beschäftigte der GmbH; Gruppenzuordnung offen.",
+      "1,8 Millionen Monatsseitenaufrufe sind keine verifizierte Zahl monatlich aktiver Empfänger.",
+      "Selbstkontrollmitgliedschaft ist lediglich angefragt, nicht nachgewiesen.",
+      "Keine fertige rechtliche Lösung, Gesamtfreigabe, Klage oder Rechtsbehelfsentscheidung enthalten."
+    ]
+  },
+  "documents": [
+    {
+      "id": "G01",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G01_Auftrag_und_erste_Unterlagen.docx",
+      "format": "docx",
+      "sender": "Nora Wendt, Geschäftsführerin",
+      "recipient": "Rechtsanwältin Amelie Vogt, Vogt & Hecht",
+      "date": "2026-11-18",
+      "title": "Unser Auftrag vor der öffentlichen Beta",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Werkstattgasse 14 · 79106 Freiburg im Breisgau\nNora Wendt, Geschäftsführung · An Rechtsanwältin Amelie Vogt, Vogt & Hecht, Freiburg\nFreiburg, 18. November 2026 · Projekt IA-2612 · Vertrauliche Arbeitsunterlage",
+        "Sehr geehrte Frau Vogt,\nwir möchten am 1. Dezember unseren Browserdienst Inselatlas öffentlich freischalten. Heute ist der Zugang noch auf eingeladene Testpersonen beschränkt. Wer eingeladen wurde, kann allerdings andere Personen per Link in einzelne Räume holen. Wir haben inzwischen verstanden, dass unser Ausdruck „geschlossene Testphase“ daher möglicherweise nicht für jede Funktion passt. Ich schicke Ihnen die Unterlagen in dem Zustand, in dem sie bei uns vorliegen. Es gibt noch keine abgestimmte Darstellung aller Funktionen.",
+        "Inselatlas ist ein Spiel mit gemeinsam gebauten Inseln, aber auch ein Baukasten für Geschichten. Man kann Gegenstände versetzen, Texte und Bilder hochladen und sich von einer KI einen Szenenentwurf vorschlagen lassen. Ein kleiner Kreis kann an einer Insel arbeiten. Daneben soll es öffentliche Inseln geben, die auf einer Entdeckungsseite erscheinen. Das Team spricht abwechselnd von Räumen, Welten, Gruppen und Veröffentlichungen. Bitte gehen Sie deshalb von den konkreten Schaltern und Ansichten aus, nicht allein von den Namen. Einen Verkauf körperlicher Waren gibt es nicht. Wir planen ein Monatsabo für zusätzliche Speicherplätze und Gestaltungselemente.",
+        "Unser Marketingmaterial verspricht ein Angebot „ab 15“. Im Registrierungsformular steht „mindestens 16“. Für eingeladene Gäste wird derzeit nur ein Anzeigename erfragt. Ich kann nicht sagen, ob das eine bewusst beschlossene Ausnahme oder ein liegen gebliebener Prototyp ist. Im letzten Freigabegespräch hieß es, dies werde bis zum Start bereinigt. Jetzt liegt ein Supportfall vor, in dem eine Mutter nachfragt, was ihre Tochter ohne Anmeldung ansehen konnte. Ich möchte verstehen, was wirklich funktioniert, bevor ich eine öffentliche Erklärung abgebe.",
+        "Die Unterlagen enthalten die uns bekannten Beschwerden und Testbeobachtungen, keine nachträglich verschönerte Freigabedokumentation. Es wurden noch keine Mitarbeitenden förmlich befragt. Wir haben weder einen behördlichen Bescheid noch eine gerichtliche Entscheidung erhalten. Von einer Selbstkontrolle liegt meines Wissens nur die Antwort auf unsere Anfrage vor. Auf einer Präsentationsfolie steht trotzdem „Mitgliedschaft vorgesehen“. Bitte behandeln Sie das nicht als Zusage einer Organisation.",
+        "Wir beschäftigen unmittelbar 17 Personen. Ob bei irgendwelchen Schwellenwerten unser Investor oder ein Entwicklungsstudio mitgezählt wird, kann ich nicht beurteilen. Die Finanzierungsunterlagen enthalten Zustimmungsvorbehalte und eine noch nicht ausgeübte Option. Unser Controlling nennt 1,8 Millionen Monatsaufrufe. Das sind nach meinem Verständnis Seitenaufrufe; wie viele Menschen dahinterstehen, weiß ich nicht. Es wäre unredlich, diese Zahl ohne weitere Prüfung als Nutzerzahl oder als Zahl aktiver Empfänger zu verwenden.",
+        "Für die Besprechung am 24. November brauche ich zunächst eine verständliche Liste der offenen Tatsachen, der konkret betroffenen Funktionen und der Unterlagen, die Sie noch benötigen. Danach wollen wir entscheiden, welche Funktionen am 1. Dezember tatsächlich starten können. Eine automatisch erzeugte Gesamtfreigabe ohne Funktionsbezug hilft uns nicht. Bitte schreiben Sie bei jeder Feststellung dazu, auf welches Dokument oder welchen Test sie sich stützt und welche Annahmen noch ungeklärt sind. Zuständigkeiten und Fristen können wir erst belastbar organisieren, wenn wir verstanden haben, worauf sie sich beziehen.",
+        "Cem Sander darf technische Auskünfte geben; Romy Keller koordiniert Support und Moderation, ist aber nicht zur Abgabe von Erklärungen gegenüber Behörden bevollmächtigt. Externe Schreiben sollen vor dem Versand bei mir liegen. Die Entscheidung über Änderungen im Produkt treffe ich mit Cem; der Geschäftsführer des Investors ist nicht Teil unseres täglichen Freigabegremiums. Bitte teilen Sie uns ausdrücklich mit, falls Sie dafür etwas anderes aus den vorliegenden Vereinbarungen benötigen.",
+        "Mit freundlichen Grüßen\nNora Wendt · Geschäftsführerin\nAnlagen: G02–G25 gemäß Übergabeverzeichnis. Sämtliche Personen, Unternehmen, Vorgänge und Kommunikationsadressen dieses Falls sind fiktiv; die Unterlagen sind für eine Schulungsakte hergestellt."
+      ],
+      "layoutHint": "business-letter",
+      "signature": "Nora Wendt"
+    },
+    {
+      "id": "G02",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G02_Unternehmen_Finanzierung_und_Beteiligung.pdf",
+      "format": "pdf",
+      "sender": "Ines Weiß, Finanzen und Betriebsorganisation",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-17",
+      "title": "Unternehmensmappe: Wer hinter Wolkenwerft steht",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Geschäftsführungsbüro\nZusammengestellte Unternehmensunterlagen, Stand 17. November 2026\nBearbeitung: Ines Weiß · Keine Bestätigung durch ein Register oder einen Abschlussprüfer",
+        "1. Stammdatenblatt aus der laufenden Buchhaltung\nDie Gesellschaft entwickelt und betreibt digitale Freizeit- und Kreativangebote. Sitz und operative Geschäftsstelle befinden sich in Freiburg. Alle 17 unmittelbar bei der GmbH beschäftigten Personen arbeiten am Standort oder im deutschen Homeoffice. Nora Wendt ist alleinige Geschäftsführerin. Im internen Stammdatenblatt ist das Geschäftsjahr als Kalenderjahr eingetragen. Der Umsatz 2025 wird mit 740.000 Euro, der vorläufige Umsatz Januar bis Oktober 2026 mit 1,36 Millionen Euro angegeben. Beide Beträge stammen aus der internen Auswertung; der Jahresabschluss 2025 ist in dieser Mappe nicht enthalten.",
+        "2. Beteiligungsübersicht aus der Finanzierungsrunde\nNora Wendt hält nach der hier abgelegten Übersicht 58 Prozent, die Nordkamm Ventures GmbH mit Verwaltungssitz Hannover 32 Prozent und der Mitgründer Cem Sander 10 Prozent. Die Übersicht trägt den Vermerk „nach Vollzug Runde B“. Ein mit Datum versehener Handelsregisterabruf und eine aktuelle Gesellschafterliste wurden für diese Übergabe nicht beschafft. Ines Weiß hat die Anteile aus der Kapitalisierungstabelle übernommen. Die Tabelle enthält außerdem eine zusätzliche Spalte „Option Studio“, die nicht in die Prozentsumme einbezogen ist.",
+        "3. Finanzierungsschreiben vom 22. September 2026\nNordkamm sagt eine weitere Finanzierungsrate von 450.000 Euro zu, falls bestimmte Produktmeilensteine erreicht werden. In dem Schreiben steht: „Vorbehaltlich der Zustimmung zu wesentlichen Budgetänderungen, dem Abschluss eines exklusiven Vermarktungsvertrags und der Bestellung zusätzlicher Geschäftsleitung.“ Der Text verweist auf Anlage 4 der Beteiligungsvereinbarung. Diese Anlage fehlt in dem Export, den die Finanzabteilung erhalten hat. Eine Zusammenfassung aus der Verhandlung bezeichnet die Rechte als „übliche Investorenschutzrechte“. Ob diese Zusammenfassung den unterzeichneten Vertrag vollständig wiedergibt, ist nicht dokumentiert.",
+        "4. Auszug aus der Entwicklungsvereinbarung mit Tannenglas Studio GmbH\nTannenglas stellt ein Team für den Insel-Editor und rechnet monatlich Stunden ab. Vertragspartner bleibt Wolkenwerft. Die abgenommenen Arbeitsergebnisse sollen nach Zahlung zur Nutzung durch Wolkenwerft überlassen werden. Bei dringenden Störungen darf Cem unmittelbar Aufgaben priorisieren; disziplinarische Weisungen gegenüber den Beschäftigten des Studios bleiben nach dem Vertrag beim Studio. Eine Zusatzvereinbarung enthält eine Kaufoption auf 25 Prozent der Studioanteile zum 31. März 2027. Aus dieser Mappe ergibt sich weder eine Ausübung noch eine vorgezogene wirtschaftliche Übertragung.",
+        "5. Personalnotiz\nVon den 17 Beschäftigten sind sechs in Entwicklung und Infrastruktur, drei in Gestaltung und Redaktion, drei in Produkt und Qualitätssicherung, zwei in Vertrieb und Marketing, zwei in Support und Betriebsorganisation und eine Person in Geschäftsführung tätig. Diese Funktionsverteilung zählt Romy Keller zum Support und Nora Wendt zur Geschäftsführung. Externe Kräfte des Studios sind in der Zahl 17 nicht enthalten. Freie Übersetzer und ein externer Buchhaltungsdienst werden ebenfalls nicht mitgezählt. Eine Übersicht über Beschäftigte oder Umsätze verbundener Unternehmen liegt nicht vor.",
+        "6. Auszug aus einem Vermarktungsentwurf\nDer Investor soll auf seinen Portalen auf Inselatlas hinweisen dürfen. Er verlangt monatliche Kennzahlen zu Besuchen, Registrierungen und Abonnements, aber nach dem vorliegenden Entwurf keine einzelnen Kommunikationsinhalte. Ob auf Ebene des Investors bereits andere Plattformangebote bestehen, ist der Bearbeiterin nicht bekannt. Im Entwurf bleibt die Zeile „Verbundzuordnung / Konsolidierung“ leer. Unterzeichnet ist nur das Finanzierungsschreiben; der Vermarktungsentwurf enthält keine Unterschriften.",
+        "7. Übergabevermerk\nDas Organigramm im Pitchdeck zeigt Nordkamm, Wolkenwerft und Tannenglas in drei miteinander verbundenen Kästen. Die Pfeile sind nicht erklärt. Bitte verwenden Sie die Zeichnung nicht als Ersatz für die fehlenden Verträge. Nora hat ausdrücklich um eine Liste gebeten, welche Dokumente aus dem Beteiligungsordner noch benötigt werden. Zugriff auf diesen Ordner hat derzeit auch der externe Finanzierungsberater; die E-Mail dazu liegt als G18 vor. Angaben zur Unternehmensgröße oder zu Verflechtungen sind deshalb vorläufige Tatsachenangaben, keine rechtliche Einordnung."
+      ],
+      "layoutHint": "corporate-dossier"
+    },
+    {
+      "id": "G03",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G03_Produkthandbuch_Inselatlas.docx",
+      "format": "docx",
+      "sender": "Jona Metz, Produktmanagement",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-16",
+      "title": "Inselatlas: Nutzerwege vom ersten Klick bis zur veröffentlichten Insel",
+      "paragraphs": [
+        "Wolkenwerft Produktteam · Handbuch für Support und Entwicklung\nVersion 0.8, zusammengestellt am 16. November 2026 von Jona Metz\nDieses Dokument beschreibt die Testumgebung. Gelbe Markierungen aus dem Ursprungstext sind hier durch den Zusatz „noch offen“ ersetzt.",
+        "1. Was die Besucher zuerst sehen\nDie Startseite zeigt wechselnde Inselbilder und drei Knöpfe: „Insel entdecken“, „Mit Einladung hinein“ und „Eigene Insel bauen“. Eine Entdeckungsseite mit kuratierten Beispielen ist bereits erreichbar. Die URL einer Insel kann deshalb auch von Personen geöffnet werden, die keinen Account besitzen. Bei einigen Inseln erscheint zunächst eine Hinweistafel, bei anderen direkt eine Vorschau. Die Vorschau zeigt Vorschaubild, Titel, Kurzbeschreibung und bis zu drei Kommentare. Die technische Dokumentation nennt dies preview-public, das Marketing nennt es Schaufenster.",
+        "2. Eigene Inseln und gemeinsam bearbeitete Räume\nNach Registrierung können Nutzende eine Insel anlegen und andere zur Mitarbeit einladen. Im Modus Teamraum sehen eingeladene Personen die unveröffentlichte Insel und einen dazugehörigen Gruppenchat. Ein Team kann derzeit bis zu 18 Konten enthalten. Zusätzlich gibt es Gastlinks, die an höchstens 20 unterschiedliche Browserkennungen gebunden werden sollen. Der Support hat beobachtet, dass die Kennung nach dem Löschen lokaler Browserdaten neu vergeben wird. Ob die Begrenzung dadurch praktisch beliebig oft umgangen werden kann, ist noch nicht getestet.",
+        "3. Drei verschiedene Veröffentlichungswege\n„Nur Team“ verbirgt die Insel aus der öffentlichen Suche. „Link teilen“ erzeugt eine Adresse, die ohne weitere Einladung geöffnet werden kann. „In Entdecken aufnehmen“ meldet die Insel zur Sichtung durch das Redaktionsteam an. Die Oberfläche erklärt den mittleren Zustand als „nicht öffentlich gelistet“. Einige Testpersonen verstehen das als privat. Im Servermodell steht dafür unlisted-public. Ein Text neben dem Freigabeknopf, der den Unterschied erklärt, liegt nur als Entwurf vor. Auch eine nicht gelistete Insel kann durch Screenshots oder weitergeleitete Links einen großen Empfängerkreis erreichen.",
+        "4. Inhalte und Kommunikation\nNutzende können Texte, eigene Zeichnungen, Bilddateien und kurze Audiodateien hochladen. Das Spiel enthält keine unmittelbaren Videoübertragungen. Textkommentare unter einer veröffentlichten Insel sind öffentlich sichtbar, sofern die Insel nicht auf Teamzugriff beschränkt ist. Der Gruppenchat wird nur den eingeladenen Konten angezeigt. Ein Mitarbeiter hat allerdings einen Exportknopf ergänzt, mit dem ein ganzer Chatverlauf als Textdatei heruntergeladen werden kann. Es gibt noch keine Entscheidung, ob dieser Knopf in der Beta sichtbar bleiben soll. Direktnachrichten zwischen beliebigen unbekannten Accounts sind deaktiviert.",
+        "5. Der KI-Assistent im Editor\nDer Knopf „Szene vorschlagen“ sendet den eingegebenen Text und ausgewählte Einstellungen an Lumenpfad AI. Das System soll Figurenbeschreibungen, kurze Dialoge und Aufgaben für die Insel erzeugen. Es erhält nach der dokumentierten Vorgabe keine Chatverläufe und keine hochgeladenen Bilder. In einem älteren Debugpfad werden jedoch die letzten drei Editoraktionen an eine Protokollzeile angehängt; ob dazu auch eingefügte Texte gehören, prüft Rafael. Generierte Entwürfe werden zunächst nur im Editor gespeichert. Wer danach „Einsetzen“ und „Veröffentlichen“ anklickt, kann den Text auf einer öffentlichen Insel sichtbar machen.",
+        "6. Wirtschaftliches Angebot\nDie Grundfunktionen sind kostenlos. Vorgesehen ist ein Abo für 4,90 Euro monatlich mit zusätzlichen Speicherplätzen und Gestaltungspaketen. Es gibt bislang keine zufallsabhängigen Beutekisten und keine Wetten. Ein Entwurf der Roadmap erwähnt handelbare Sammlerstücke, ist aber weder implementiert noch freigegeben. Banner von Dritten sollen in der Beta nicht eingeblendet werden. Interne Hinweise auf das Abo erscheinen nach jedem fünften Speichervorgang. Bei einem Test wurden sie auch einem Gast angezeigt; ein Kauf war ohne Account nicht möglich.",
+        "7. Geräte, Sprachen und Erreichbarkeit\nDas Angebot läuft im Browser auf Desktop und Mobiltelefon. Die ersten Sprachfassungen sind Deutsch und Englisch. Verträge werden derzeit nur mit der deutschen GmbH angezeigt. Der Dienst soll auch aus anderen EU-Staaten aufrufbar sein. Es gibt keine verlässliche Liste, in welchen Ländern die eingeladenen Testpersonen wohnen. Die Sprachauswahl richtet sich zunächst nach dem Browser und lässt sich ändern. Eine deutsche IP-Adresse beweist deshalb weder Wohnsitz noch Alter einer Person.",
+        "8. Dokumentationslücken vor der Beta\nNicht abschließend dokumentiert sind die Altersprüfung für Gastlinks, die Sichtbarkeit älterer Vorschaubilder nach Änderung einer Insel, die Übernahme von KI-Ausgaben in Suchergebnisse und die Verantwortlichkeit während Abendstunden. Jona bittet darum, diese Punkte anhand der für den 18. November vorgesehenen Rohdatenexporte und durch reproduzierbare Tests abzugleichen. Die Exporte sollen bei der Aktenübergabe die Belegnummern G20–G25 erhalten. Die Begriffe „sicher“, „privat“ und „für Jugendliche“ in älteren Präsentationen sind keine Beschreibung einer bereits geprüften technischen Eigenschaft."
+      ],
+      "layoutHint": "product-manual"
+    },
+    {
+      "id": "G04",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G04_Registrierung_Alter_und_Gastzugang.docx",
+      "format": "docx",
+      "sender": "Cem Sander und Jona Metz",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-17",
+      "title": "Registrierung und Altersabfrage: Spezifikation mit offenen Punkten",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Entwicklung / Qualitätssicherung\nArbeitsstand A-17 vom 17. November 2026 · Verantwortlich: Cem Sander und Jona Metz\nDie folgenden Schritte geben den letzten gemeinsam besprochenen Stand wieder. Eine Produktfreigabe ist damit nicht erklärt.",
+        "1. Registrierung über E-Mail\nDie Seite verlangt eine E-Mail-Adresse, ein Passwort und einen Anzeigenamen. Unter den Feldern steht ein Kontrollkästchen mit dem Text „Ich bin mindestens 16 Jahre alt“. Ein Geburtsdatum wird nicht erfasst. Bei nicht gesetztem Häkchen bleibt der Weiter-Knopf in der normalen Oberfläche deaktiviert. Der Server prüft nach Cems Aussage ebenfalls den übertragenen Wert ageConfirmed. Ein Dokumentenabgleich oder eine Prüfung durch einen externen Altersdienst findet derzeit nicht statt. Nach Klick auf den Link in der Bestätigungsmail wird das Konto freigeschaltet.",
+        "2. Der alternative Einstieg aus der Kampagne\nEin Link aus der geplanten Jugendwerkstatt-Kampagne führt auf eine besondere Einstiegsseite. Dort heißt es „Gemeinsam kreativ ab 15“. Diese Seite wurde aus einer älteren Testkampagne übernommen. Bei Klick auf „Losbauen“ wird das gleiche Registrierungsformular geöffnet wie im Standardweg. Die Altersangabe der Einstiegsseite wird nicht übernommen und nicht technisch ausgewertet. Bela möchte den Werbetext vor dem Start unverändert lassen, bis die Zielgruppenentscheidung fällt. Im Freigabeprotokoll ist dazu lediglich „Altersfrage klären“ eingetragen.",
+        "3. Gastzugänge zu Teamräumen\nEin registriertes Mitglied kann einen Link erstellen und dessen Ablaufdatum setzen. Standard sind sieben Tage. Wer den Link öffnet, wählt einen Anzeigenamen und bestätigt „Ich halte mich an die Raumregeln“. Eine Altersabfrage fehlt. Gäste dürfen Inseln ansehen und im zugehörigen Gruppenchat schreiben, aber keine Dateien hochladen und keine KI-Szenen direkt erzeugen. Sie können die von Mitgliedern erzeugten Szenen lesen. Bei einem Link auf eine veröffentlichte Insel sehen Gäste auch öffentliche Kommentare. Die Grenze zwischen Gast eines privaten Teams und Besucher einer öffentlichen Insel ist in der Oberfläche nicht deutlich markiert.",
+        "4. Vorschlag eines externen Altersdienstes\nEin Anbieter hat drei Module angeboten: Selbstauskunft, Abgleich eines Dokuments und eine von ihm als Altersschätzung bezeichnete Bildanalyse. Es wurde kein Vertrag abgeschlossen. Die Preisliste befindet sich nicht in der übergebenen Akte. Romy möchte zunächst wissen, an welcher Stelle überhaupt eine zusätzliche Prüfung benötigt wird und welche Daten dafür verarbeitet würden. Cem möchte vermeiden, dass pauschal Ausweiskopien im Support landen. Bis zum Abschluss dieser Diskussion ist kein Modul aktiviert. Die Nennung des Anbieters in einem Ticket darf nicht als bereits eingerichtete Schutzfunktion verstanden werden.",
+        "5. Eltern- und Betreuungskontakte\nEs gibt keinen gesonderten Elternaccount. Eine E-Mail-Vorlage bietet an, einen Gastlink zu sperren oder ein Konto nach Prüfung zu löschen. Ein Verfahren zur Zuordnung einer anfragenden Person zu einem bestimmten Konto ist noch nicht verabschiedet. Die Supportkräfte sollen keine Ausweisdokumente ungefragt anfordern. In zwei Fällen wurde stattdessen nach dem Link und dem angezeigten Namen gefragt. Das beantwortet allerdings nicht, wer den Link ursprünglich erstellt hat und ob eine weitere Person denselben Anzeigenamen verwendet.",
+        "6. Oberfläche und tatsächliche Sperren\nIm Testbrowser wird eine Insel mit dem Hinweis „für ältere Jugendliche“ zunächst hinter einer Texttafel angezeigt. Der Schalter „Hinweis gelesen“ reicht zum Öffnen. Die Tafel ist keine Altersfeststellung. Ein serverseitiges Altersmerkmal wird für anonyme Besucher nicht gespeichert. Für angemeldete Konten wird nur die Bestätigung aus der Registrierung verwendet. Ob Vorschau, Suchtreffer und Kommentarbereich dieselben Sperren verwenden wie die vollständige Insel, ist Gegenstand der Testfälle in G25. Einige Tests sind dort ausdrücklich als nicht durchgeführt gekennzeichnet.",
+        "7. Noch zu treffende Produktentscheidungen\nEs ist offen, ob die Beta auf einen einheitlichen Mindestzugang beschränkt werden soll, ob Gastchats vorübergehend entfallen und ob für öffentlich sichtbare Inhalte eine eigenständige Inhaltskontrolle eingeführt wird. Eine Änderung des Werbetexts allein würde die technisch erreichbaren Wege nicht verändern. Umgekehrt würde ein neues Kästchen im Formular bestehende Gastlinks nicht automatisch schließen. Die Entscheidung soll deshalb mit einer Liste der betroffenen URLs, Nutzungsrollen und Übergangsmaßnahmen dokumentiert werden. Diese Liste ist noch nicht ausgefüllt.",
+        "8. Übergabe an die Beratung\nBitte berücksichtigen Sie den Unterschied zwischen der von uns angesprochenen Zielgruppe, dem tatsächlichen Zugang und der Einordnung einzelner Inhalte. Unser Team hat diese Fragen bisher unter dem Wort Alterscheck zusammengefasst. Es liegt weder eine externe Bestätigung noch ein Prüfzeichen für das Gesamtsystem vor. Bevor Aussagen in Werbung oder Bedingungen geändert werden, benötigt die Entwicklung eine präzise Beschreibung des künftig gewünschten Verhaltens."
+      ],
+      "layoutHint": "technical-specification"
+    },
+    {
+      "id": "G05",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G05_Nutzungsbedingungen_Entwurf.docx",
+      "format": "docx",
+      "sender": "Ines Weiß, Vertragskoordination",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-10",
+      "title": "Nutzungsbedingungen Inselatlas – Arbeitsfassung vor der Beta",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Vertragsentwurf Version 0.6\nEntwurf vom 10. November 2026; zur internen Abstimmung, nicht als freigegebene Fassung verwenden\nVerfasserin der Zusammenstellung: Ines Weiß",
+        "1. Anbieter und Gegenstand\nWolkenwerft Worlds GmbH, Werkstattgasse 14, 79106 Freiburg im Breisgau, stellt unter inselatlas.example einen Browserdienst zum Gestalten und gemeinsamen Erleben virtueller Inseln bereit. Nutzende können eigene Inhalte einstellen und andere Personen zur Mitarbeit einladen. Der Dienst umfasst einen Editor, Speichermöglichkeiten, eine Entdeckungsseite sowie Kommunikationsfunktionen. Einzelne Funktionen befinden sich in der Erprobung. Ein bestimmter wirtschaftlicher Erfolg oder eine bestimmte Reichweite veröffentlichter Inseln wird nicht zugesagt.",
+        "2. Registrierung und Zugang\nEin persönliches Konto setzt eine erreichbare E-Mail-Adresse und die Bestätigung voraus, mindestens 16 Jahre alt zu sein. Zugangsdaten dürfen nicht an andere Personen weitergegeben werden. Der Anzeigename darf nicht den Eindruck erwecken, für eine andere Person oder für Wolkenwerft zu sprechen. Gastzugänge richten sich nach der Einladung des jeweiligen Teams. [Interne Randnotiz Jona: Hier fehlt eine Aussage, ob für Gäste dieselbe Altersgrenze gilt. Bitte nicht automatisch aus der Kontoregel ableiten.]",
+        "3. Eigene Inhalte\nDie Verantwortung für die Berechtigung zum Hochladen von Texten, Bildern und Audiodateien liegt zunächst bei der einstellenden Person. Mit dem Hochladen soll Wolkenwerft die für Speicherung, Darstellung und technische Verarbeitung erforderliche Nutzung erlaubt werden. Für eine öffentliche Präsentation muss die veröffentlichende Person den entsprechenden Schalter betätigen. [Interne Randnotiz Cem: Der derzeitige Schalter „Link teilen“ führt bereits zu einem ohne Einladung erreichbaren Link. Die Erklärung „öffentlich“ steht bislang nur beim zweiten Schalter.]",
+        "4. Gemeinsame Bearbeitung und Kommunikation\nWer einer Insel als Teammitglied beitritt, kann entsprechend den vergebenen Rechten mitarbeiten. Einladungen können widerrufen werden. Änderungen an einer gemeinsam bearbeiteten Insel bleiben auch nach dem Ausscheiden eines Teammitglieds erhalten, soweit keine andere Vereinbarung getroffen wurde. Gruppenkommunikation soll nur für eingeladene Personen sichtbar sein. Ein Export des Gesprächsverlaufs kann technisch möglich sein. [Interne Randnotiz Romy: Es fehlen konkrete Hinweise zu Export, Meldung, Weiterleitung und dem Umgang mit versehentlich aufgenommenen Personen.]",
+        "5. Vorschläge durch künstliche Intelligenz\nAuf ausdrückliche Anforderung kann der Editor einen automatisiert erzeugten Szenenentwurf anbieten. Der Entwurf kann fehlerhafte, unpassende oder widersprüchliche Inhalte enthalten. Nutzende entscheiden, ob sie ihn einsetzen und veröffentlichen. Sie sollen keine vertraulichen Angaben oder Daten anderer Personen in die Eingabe übernehmen. [Interne Randnotiz Nora: Dieser Satz ersetzt keine Produktentscheidung. Wir müssen zuerst wissen, welche Eingaben tatsächlich an den Dienstleister gehen und welche Kontrolle vor der Veröffentlichung besteht.]",
+        "6. Meldungen und Maßnahmen\nInhalte können über den Knopf „Melden“ oder über die Supportadresse gemeldet werden. Meldungen sollen den betroffenen Link und eine verständliche Beschreibung enthalten. Wolkenwerft kann den Zugang zu Inhalten oder Konten vorläufig einschränken, wenn eine Prüfung erforderlich ist. Die betroffene Person soll eine nachvollziehbare Nachricht erhalten. [Interne Randnotiz Romy: Reaktionszeiten, Zuständigkeiten, Umgang mit Einwänden und Aufbewahrung der Entscheidungsgrundlagen sind noch nicht abgestimmt. Ein automatisches Standardfeld „Verstoß bestätigt“ darf die Sachprüfung nicht ersetzen.]",
+        "7. Bezahlte Zusatzfunktionen\nDas geplante Abo kostet 4,90 Euro monatlich einschließlich Umsatzsteuer und erweitert Speicher- und Gestaltungsmöglichkeiten. Es verlängert sich nach der bislang vorgeschlagenen Fassung jeweils um einen Monat. Kündigung und Verwaltung sollen direkt im Konto möglich sein. Der Kauf ist in der Testphase deaktiviert. [Interne Randnotiz Ines: Bestellstrecke, Bestätigungsmail, Widerrufstexte und Umgang mit Minderjährigen sind nicht Teil dieser Entwurfsfreigabe. Die Preisangabe allein ist keine Freigabe des Bezahlvorgangs.]",
+        "8. Kontakt und Schlussstand\nFür den Support ist hilfe@inselatlas.example vorgesehen. Ein zusätzlicher Kontaktweg für dringende Hinweise wird noch eingerichtet. Diese Fassung wurde nicht von allen Verantwortlichen abgenommen und nicht veröffentlicht. Im Dokumentenordner liegen ältere Fassungen mit einer Altersangabe ab 15. Sie sollen bis zur abschließenden Versionsentscheidung nicht weiterverwendet werden, sind aber zur Nachvollziehbarkeit in der Projektakte erhalten. Am Ende der freizugebenden Fassung sollen Versionsdatum, Geltungsbeginn und die tatsächlich verfügbaren Kontaktwege stehen."
+      ],
+      "layoutHint": "contract-draft",
+      "status": "Entwurf, nicht veröffentlicht"
+    },
+    {
+      "id": "G06",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G06_Moderationshandbuch_Arbeitsstand.docx",
+      "format": "docx",
+      "sender": "Romy Keller, Trust & Safety",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-15",
+      "title": "Wie Meldungen derzeit tatsächlich bearbeitet werden",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Support und Community\nArbeitsanweisung M-04, Stand 15. November 2026 · Romy Keller\nNicht abschließend freigegeben; tatsächlich gelebte Abläufe und offene Arbeitspunkte",
+        "1. Eingang einer Meldung\nEin Klick auf „Melden“ öffnet ein Formular mit Link, Kategorie und Freitext. Die Kategorie kann leer bleiben. Das System erzeugt eine Ticketnummer und sendet eine Eingangsbestätigung, wenn eine E-Mail-Adresse angegeben wurde. Anonyme Meldungen erscheinen ebenfalls im Postfach. Meldungen ohne direkten Link dürfen nicht allein deshalb geschlossen werden; häufig nennen Personen nur einen Inselnamen oder einen Screenshot. Dann versucht der Support, den Gegenstand anhand der verfügbaren Angaben zu finden. Ein Ergebnis soll nicht vorweggenommen werden.",
+        "2. Erste Sichtung im normalen Tagesbetrieb\nLea Hartmann prüft werktags morgens neue Tickets. Romy übernimmt schwierige Fälle und Rückfragen an Entwicklung oder Redaktion. Die erste Sichtung klärt, welche Funktion betroffen ist, ob der Inhalt noch erreichbar ist und ob eine zeitnahe Einschränkung benötigt wird. Im alten Formular steht ein Auswahlfeld „legal / illegal“. Das Team verwendet es ungern, weil es für viele zunächst ungeklärte Meldungen zu grob ist. Romy hat eine Änderung in „beobachtet / unklar / Rückfrage / Maßnahme“ vorgeschlagen. Sie ist noch nicht umgesetzt.",
+        "3. Vorläufige Einschränkungen\nDie Redaktion kann einzelne öffentliche Inseln aus der Entdeckungsseite entfernen. Dadurch verschwindet der Inhalt nach bisherigen Tests nicht automatisch unter seinem direkten Link. Die Entwicklung kann zusätzlich die Linkfreigabe abschalten. Der Support kann ein Konto vorläufig sperren, aber keine vollständigen Chatverläufe aus dem Administrationsbereich abrufen. Für eine Sicherung technischer Protokolle muss Rafael hinzugezogen werden. In einem Fall wurde die öffentliche Vorschau nach einer Sperre weiter aus dem Cache ausgeliefert; die vollständige Insel war nicht mehr erreichbar.",
+        "4. Umgang mit Gruppenkommunikation\nDas Team behandelt Teamchats im Alltag als privaten Arbeitsraum. Es kontrolliert sie nicht fortlaufend. Meldet ein Mitglied einen konkreten Vorgang, kann es einen Textausschnitt oder Export beifügen. Der Support weiß nicht immer, ob dabei Nachrichten anderer Personen ausgelassen wurden. Deshalb soll der unbearbeitete Eingang gesichert und die Auswahl des Ausschnitts dokumentiert werden. Eine automatische Übernahme des gesamten Chats in den KI-Assistenten ist nicht vorgesehen. Es fehlt jedoch eine verbindliche Regel, welche Gesprächsbestandteile in externe Ticketsysteme kopiert werden dürfen.",
+        "5. Rückmeldung an Beteiligte\nDie Standardantwort sagt bisher nur, die Meldung sei „bearbeitet“. Romy hält das für unzureichend, wenn Inhalte verborgen oder Konten eingeschränkt wurden. Eine Entwurfsantwort nennt den betroffenen Inhalt, die beobachtete Situation, die vorläufige Maßnahme und die Möglichkeit, ergänzende Informationen zu senden. Der Entwurf enthält noch keine festgelegten Fristen und keinen getrennten Ablauf für Beschwerden gegen Moderationsentscheidungen. Ob eine rechtliche Begründung notwendig ist und wer sie freigibt, wurde im Team bislang nicht entschieden.",
+        "6. Inhalte mit schwieriger Alters- oder Wirkungsfrage\nFür bedrohlich wirkende Szenen, stark belastende Erzählungen, diskriminierende Aussagen oder problematische Kontaktanbahnungen soll keine Entscheidung allein anhand eines einzelnen Schlagworts fallen. Bei den bisherigen Tests wurden solche Inhalte nur sachlich beschrieben und mit internen Szenario-IDs dokumentiert. Beschäftigte sollen problematische Inhalte nicht zu Vorführzwecken in neue öffentliche Inseln kopieren. In der Schulungsakte werden keine entsprechenden Originalinhalte reproduziert. Der Fall soll anhand von Wirkung, Reichweite, Kontext und den dokumentierten Produktwegen untersucht werden können.",
+        "7. Dienstzeiten und Eskalation\nDas Supportpostfach wird nach dem aktuellen Dienstplan werktags von 9 bis 17 Uhr bearbeitet. Für Wochenenden gibt es eine freiwillige Rufbereitschaft zweier Entwickler, aber keinen verbindlichen Moderationsdienst. Romy kann nachts nicht dauerhaft erreichbar sein. Der Plan für die öffentliche Beta sieht längere Öffnungszeiten vor, enthält aber noch keine Namen für alle Schichten. Ein dringender Hinweis am Freitagabend könnte deshalb bis Montag im normalen Postfach liegen bleiben. Die Geschäftsführung hat hierzu noch keine Budgetentscheidung getroffen.",
+        "8. Was bis zum Freigabegespräch offenbleibt\nUngeklärt sind die Abgrenzung der Kontaktwege, die nachvollziehbare Dokumentation von Maßnahmen, eine technische Sicherung nach Löschmeldungen, Vertretungen außerhalb der Dienstzeit und ein Verfahren für Einwände. Die Rolle einer externen Selbstkontrolle ist noch nicht vertraglich vereinbart. Dieses Handbuch beschreibt deshalb einen Arbeitsstand. Die Zeile „durch externes Gremium geprüft“ aus einer alten Checkliste ist zu streichen, solange kein entsprechendes Dokument vorliegt; bisher befindet sich dazu nur die Anfrageantwort G14 in der Akte."
+      ],
+      "layoutHint": "operating-manual"
+    },
+    {
+      "id": "G07",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G07_KI_Szenarien_und_Beobachtungen.docx",
+      "format": "docx",
+      "sender": "Rafael Ott und Jona Metz",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-17",
+      "title": "Eigener Szenariokatalog für den KI-Assistenten",
+      "paragraphs": [
+        "Wolkenwerft Qualitätsentwicklung · Szenariokatalog KI-09\nZusammengestellt von Rafael Ott und Jona Metz am 17. November 2026\nDie Beschreibungen sind sachliche Testvorgaben. Sie enthalten keine nachgebauten rechtswidrigen Inhalte und keine Aufforderung, solche Inhalte zu erzeugen.",
+        "1. Zweck und Abgrenzung\nDer Katalog soll zeigen, welche Produktwege kontrolliert werden müssen. Er ist keine Bewertung, welche Inhalte rechtlich zulässig sind. Getestet wurde bislang nur eine Vorabversion mit begrenzter Zahl von Eingaben. Ein unauffälliger Einzeltest belegt nicht, dass vergleichbare Ausgaben in anderen Sprachen, nach mehrstufiger Eingabe oder nach späteren Modelländerungen ausgeschlossen sind. Die Testumgebung speichert Szenario-ID, Modellkennung, Zeitpunkt und Beobachtung; vollständige Eingaben sind nur im internen Testprotokoll vorgesehen.",
+        "2. Szenario KI-01: harmlose Werkstattaufgabe\nEine erwachsene Testperson bittet um eine Geschichte, in der Inselbewohner gemeinsam eine kaputte Brücke reparieren. Die Ausgabe enthält kurze Dialoge und eine Materialliste. Der Test dient als Vergleichsfall für normale Bearbeitung, nicht als Nachweis der Gesamtqualität. Es wird geprüft, ob die Ausgabe zunächst im Editor bleibt und ob erst eine zusätzliche Veröffentlichung sie öffentlich erreichbar macht. Im Test am 14. November funktionierte diese Trennung für den Haupttext; ein aus dem Text erzeugter Vorschaustitel erschien jedoch bereits in einer internen Suchliste.",
+        "3. Szenario KI-02: bedrohliche Erzählung bei unklarer Altersgruppe\nDie Testperson beschreibt eine düstere Inselgeschichte mit Verfolgung und Angst. Das Protokoll hält nur fest, ob der Assistent nach Kontext fragt, eine weniger belastende Variante anbietet oder ohne weitere Rückfrage fortfährt. Es werden keine drastischen Szenen in die Schulungsakte aufgenommen. Offen ist, ob das gewählte Stilprofil „mysteriös“ die gleiche Wirkung hat wie „für ältere Spielende“ und ob eine veröffentlichte Insel später durch einen anderen Bearbeiter verändert werden kann, ohne erneut in eine Prüfung zu gelangen.",
+        "4. Szenario KI-03: persönliche Angaben im Szenenwunsch\nEine Eingabe enthält eine fiktive Kontaktadresse und eine angebliche private Information über eine ebenfalls fiktive Person. Beobachtet werden Weitergabe an den Dienstleister, Protokollierung, Ausgabe und Löschbarkeit. Der Test soll mit künstlichen Daten durchgeführt werden. Bisher wurde nur kontrolliert, dass eine Adresse im Editor markiert wird. Nicht nachgewiesen ist, ob sie vorher bereits an den externen Dienst übermittelt wurde. Die Anbieterantwort G16 nennt eine Protokollfrist, die vom Vertragsentwurf G08 abweicht.",
+        "5. Szenario KI-04: ausgegrenzte Figur und gruppenbezogene Abwertung\nBeschrieben wird eine Spielhandlung, in der eine Figur wegen einer zugeschriebenen Gruppenzugehörigkeit ausgeschlossen werden soll. Das Testteam verwendet neutrale Platzhalter statt abwertender Originalformulierungen. Es prüft, ob der Assistent eine alternative Handlung anbietet und ob eine spätere manuelle Änderung der Ausgabe über denselben Veröffentlichungsweg läuft wie vollständig selbst geschriebener Text. Eine erste Beobachtung zeigt, dass der Generierungsfilter und die spätere Prüfung hochgeladener Texte getrennte Komponenten sind.",
+        "6. Szenario KI-05: scheinbar sachlicher Rat in einer Geschichte\nEine Figur bittet um eine Empfehlung zu einem ernsten persönlichen Problem. Die beobachtete Ausgabe wird nur nach Art und behaupteter Sicherheit beschrieben. Geprüft werden insbesondere unerwünschte Autoritätssignale, Verweise auf reale Stellen und die Kennzeichnung als automatisierter Entwurf. Der Assistent darf im Test keine echte Person beraten; verwendet wird eine vollständig erfundene Spielsituation. Im aktuellen Produkt gibt es noch keinen festgelegten Umgang damit, wenn Nutzende aus einer Erzählung einen persönlichen Rat ableiten.",
+        "7. Szenario KI-06: Änderung durch andere Teammitglieder\nEin zunächst unauffälliger Entwurf wird von einer zweiten Person stark verändert. Danach wird die Insel mit einem öffentlichen Link versehen. Der Test soll den Übergang von KI-Ausgabe zu nutzergeneriertem Inhalt nachvollziehen und klären, welche Version die Moderation tatsächlich sieht. Die bisherige Versionsanzeige enthält nur den letzten Bearbeiter, nicht die Herkunft jedes Satzes. Das ist bei gemischten Texten eine praktische Beweislücke. Eine nachträgliche sichere Trennung aller KI-Anteile wird nicht zugesagt.",
+        "8. Szenario KI-07 und KI-08: Sprache, Wiederholung und Modellwechsel\nKI-07 wiederholt eine sachlich gleichartige Anfrage auf Englisch. KI-08 verwendet dasselbe Szenario nach dem geplanten Modellupdate. Die Ergebnisse dürfen nicht allein deshalb übernommen werden, weil die Szenario-ID gleich bleibt. Für den Dezemberstart fehlt die verbindliche Modellkennung des Anbieters. Ein weiteres Testfeld betrifft zugängliche Beschreibungstexte für Screenreader: Sie sollen nicht ungeprüft Inhalte enthalten, die in der sichtbaren Vorschau ausgeblendet werden. Die Auswertungsspalten dafür sind leer, weil diese Tests noch nicht ausgeführt wurden.",
+        "9. Übergabe\nDie Entwicklung benötigt für jedes Szenario eine nachvollziehbare Zielvorgabe und eine Entscheidung, wer einen abweichenden Befund bewertet. Dieser Katalog liefert Beobachtungen und offene Fragen. Er enthält bewusst keine fertige rechtliche Einstufung, kein Alterskennzeichen und keine vollständige Freigabe des KI-Assistenten."
+      ],
+      "layoutHint": "test-catalogue"
+    },
+    {
+      "id": "G08",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G08_Anbietervereinbarung_Lumenpfad_Entwurf.pdf",
+      "format": "pdf",
+      "sender": "Wolkenwerft Vertragskoordination / Lumenpfad AI B.V.",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-18",
+      "title": "Vereinbarung über den KI-Dienst – Verhandlungsfassung",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH / Lumenpfad AI B.V.\nVertragsentwurf LP-06 vom 12. November 2026 · Nicht unterzeichnet\nInterne Kommentierung und Zusammenstellung am 18. November 2026; spätere Anbieterantworten sind als Bearbeitungsstand einbezogen\nDie Namen und Vertragsdaten sind für diese Testakte erfunden. Die Parteien sind nicht mit realen Dienstanbietern identisch.",
+        "1. Leistungsgegenstand\nLumenpfad soll über eine Programmierschnittstelle kurze Szenenentwürfe für den Inselatlas-Editor bereitstellen. Wolkenwerft legt Eingabefelder, sichtbare Hinweise und den weiteren Veröffentlichungsweg fest. Der Dienstanbieter liefert eine Textantwort und technische Metadaten zu Modellkennung und Verarbeitung. Die Schnittstelle kann bei Ausfall eine neutrale Fehlermeldung zurückgeben. Eine automatische Veröffentlichung durch Lumenpfad ist nicht vorgesehen. Die Bezeichnung des zu verwendenden Modells ist im Vertrag noch als „LP Story, aktuelle stabile Fassung“ eingetragen.",
+        "2. Übermittelte Informationen\nNach Anlage A sollen übermittelt werden: Szenenwunsch, ausgewähltes Stilprofil, gewünschte Länge, Sprache und eine pseudonyme Anforderungskennung. Namen, E-Mail-Adressen, Kontokennungen und Chatverläufe sollen nicht als eigene Felder übertragen werden. Die Anlage weist darauf hin, dass Personen solche Angaben dennoch in Freitext eingeben könnten. Eine gesonderte Filterung wird in einem Arbeitspaket beschrieben, ist aber nicht als bereits abgenommen gekennzeichnet. Ein Testprotokoll über die tatsächlichen Netzwerkanfragen ist noch beizufügen.",
+        "3. Verarbeitung und Speicherorte\nDie Hauptverarbeitung ist nach dem Entwurf in Frankfurt vorgesehen. Technische Protokolle sollen höchstens sieben Tage gespeichert werden. Der Anbieter kann nach dem Entwurf Unterauftragnehmer einsetzen, wenn diese in einer gesonderten Liste benannt und Änderungen angekündigt werden. Die beigefügte Liste trägt das Datum 1. September 2026 und enthält nur einen Rechenzentrumsdienst. Eine E-Mail des Anbieters nennt später einen europäischen Supportdienst mit Sitz in Dublin und eine längere Protokollfrist. Der Entwurf ist darauf noch nicht angepasst.",
+        "4. Nutzung für Verbesserungen\nEine Klausel soll die Verwendung von Kundeneingaben für allgemeines Modelltraining ausschließen. Daneben erlaubt eine englische Randbemerkung „service quality evaluation“. Die Parteien haben nicht geklärt, ob darunter nur technische Fehleranalyse, eine menschliche Sichtung von Inhalten oder die Ableitung neuer Trainingsbeispiele fällt. Wolkenwerft hat am Rand „bitte präzisieren und technisch abwählbar machen“ notiert. Eine verbindliche Antwort liegt hierzu in dieser Vertragsfassung nicht vor. Der Anbieter hat die Möglichkeit eines gesonderten Enterprise-Tarifs erwähnt.",
+        "5. Sicherheits- und Inhaltsfunktionen\nLumenpfad stellt technische Filter bereit, die bestimmte Eingaben oder Ausgaben zurückweisen können. Die Filterliste wird nicht als vollständige Beschreibung aller Risiken verstanden. Wolkenwerft soll eigene Tests durchführen und den Einsatzkontext mitteilen. Eine im Vertriebsangebot verwendete Aussage „geeignet für Lern- und Kreativangebote“ wird im Vertrag nicht konkretisiert. Es ist weder ein bestimmtes Alterskennzeichen noch eine Mitgliedschaft oder Anerkennung durch eine deutsche Selbstkontrolle vereinbart. Eine Verfügbarkeit der Filter in Deutsch und Englisch wird zugesagt, ein Testbericht liegt nicht bei.",
+        "6. Änderungen und Störungen\nGeplante wesentliche Änderungen sollen zehn Werktage vorher mitgeteilt werden. Für dringende Sicherheitskorrekturen behält sich der Anbieter eine kürzere Mitteilung vor. Der Kunde kann die Schnittstelle deaktivieren. Wie eine solche Deaktivierung im laufenden Inselatlas erfolgt, ist in der technischen Anlage noch nicht beschrieben. Der vorliegende Betriebsplan sieht lediglich einen globalen Schalter vor; getrennte Schalter für Gastansicht, Veröffentlichung und einzelne Sprachfassungen sind noch in der Umsetzung. Bereits gespeicherte Texte würden durch Abschalten der Generierung nicht entfernt.",
+        "7. Bearbeitung von Betroffenen- und Nutzeranfragen\nDer Anbieter soll Wolkenwerft bei der Zuordnung technischer Anforderungskennungen unterstützen. Die Antwortzeit ist als „angemessen“ bezeichnet. Eine feste Ansprechperson und ein Notfallkontakt fehlen. Datenexporte sollen verschlüsselt erfolgen; die Art der Schlüsselübergabe ist offen. Wolkenwerft hat um eine Beschreibung gebeten, wie bei versehentlicher Übermittlung personenbezogener Daten eine gezielte Löschung aus Protokollen nachgewiesen werden kann. Der Vertrag enthält dafür bislang nur ein leeres Anlagenfeld.",
+        "8. Stand der Verhandlungen\nDie Geschäftsführung hat den Probebetrieb mit künstlichen Testeingaben zugelassen. Daraus folgt nach dem internen Freigabevermerk keine Zustimmung zur Verarbeitung sämtlicher Eingaben echter Nutzender in der öffentlichen Beta. Das Team verwendet den Dienst allerdings bereits in der eingeladenen Testgruppe. Wie dieser Übergang zustande kam, ist nicht dokumentiert. Die Unterschriftsfelder beider Parteien sind leer. Zur Besprechung vorzulegen sind insbesondere die Anbieterantwort G16, ein aktueller Export der Konfiguration und die tatsächlich verwendete Modellkennung."
+      ],
+      "layoutHint": "contract-draft",
+      "status": "Nicht unterzeichnet"
+    },
+    {
+      "id": "G09",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G09_Releasebesprechung_Protokoll.pdf",
+      "format": "pdf",
+      "sender": "Lea Hartmann, Protokollführung",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-16",
+      "title": "Produktbesprechung: Was ist am 1. Dezember wirklich bereit?",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Besprechungsraum „Dachgarten“ / Videokonferenz\nErgebnisprotokoll vom 16. November 2026, 10:00–11:25 Uhr\nTeilnehmende: Nora Wendt, Cem Sander, Jona Metz, Romy Keller, Bela Fink, Rafael Ott; Protokoll: Lea Hartmann",
+        "1. Anlass und Terminlage\nBela berichtet, dass die erste öffentliche Präsentation am 1. Dezember bereits mit zwei Kreativwerkstätten abgestimmt sei. Eine bezahlte Werbekampagne sei noch nicht verbindlich gebucht. Nora hält am Termin als Planungsziel fest, erklärt aber, dass offene Funktionen einzeln zurückgestellt werden können. Ein Beschluss, den gesamten Dienst unabhängig von Prüfungsergebnissen freizuschalten, wird nicht gefasst. Die Marketingseite soll erst nach dem nächsten Freigabegespräch als endgültig gelten.",
+        "2. Altersangaben in verschiedenen Oberflächen\nJona zeigt die Startseite „ab 15“, das Registrierungsformular „mindestens 16“ und den Gastzugang ohne Altersfeld. Bela erklärt, die Zahl 15 stamme aus Gesprächen mit einer Jugendwerkstatt und sei als Zielgruppe gemeint. Cem erklärt, die Zahl 16 sei aus einer früheren Kontospezifikation übernommen worden. Niemand kann einen dokumentierten Beschluss vorlegen, der beide Angaben miteinander verbindet. Romy bittet darum, nicht einfach nur eine Zahl auszutauschen, bevor klar ist, welche Wege Gäste tatsächlich nutzen können.",
+        "3. Private Räume und öffentliche Links\nCem führt vor, dass eine Insel im Modus „Nur Team“ nicht in der Entdeckungsseite erscheint. Rafael ergänzt, dass der Modus „Link teilen“ ohne Anmeldung erreichbar ist. Bela sagt, er habe „nicht gelistet“ bisher als privat verstanden und entsprechend formuliert. Nora bittet Jona, alle Schalter in einer verständlichen Nutzersprache zu beschreiben. Die Gruppe entscheidet nicht, dass jeder Raum öffentlich sein soll. Ebenso wird keine Aussage getroffen, dass alle bestehenden Links privat seien. Der technische Bestand soll zuerst exportiert werden.",
+        "4. Meldungen und Erreichbarkeit\nRomy schildert die drei aktuellen Supportmeldungen zu Gastzugängen, Vorschaubildern und einer belastenden Geschichte. Es gibt noch keine abgeschlossene Untersuchung. Die Meldungen sollen einzeln anhand von Links und Zeitpunkten nachvollzogen werden. Die bisherige Wochenendregel besteht aus freiwilligen Absprachen. Nora fordert einen belastbaren Dienstplan samt Vertretung und Kosten. Eine zusätzliche Stelle wird heute nicht freigegeben. Ein möglicher externer Dienst ist nur als Idee erwähnt, nicht beauftragt.",
+        "5. KI-Dienst und Vertragsstand\nRafael weist auf die Abweichung zwischen der Sieben-Tage-Frist im Vertragsentwurf und einer mündlich erwähnten längeren Protokollierung hin. Cem sagt, das Team habe bisher vor allem Antwortqualität und Geschwindigkeit getestet. Nora bittet um eine schriftliche Klärung von Modellkennung, Protokollen und Änderungen. Bis dahin sollen keine besonders personenbezogenen Testdaten eingegeben werden. Das Protokoll enthält keine Feststellung, dass die bisherige Verarbeitung bereits vollständig geprüft sei. Der Schalter zur Deaktivierung ist von Cem bis zum nächsten Tag zu dokumentieren.",
+        "6. Kennzahlen und Unternehmensangaben\nInes hat vorab die Zahl 1,8 Millionen aus dem Dashboard geliefert. Rafael erklärt, dass es sich um Seitenaufrufe einschließlich wiederholter Aufrufe handelt und bestimmte Messsysteme unterschiedliche Zeitfenster verwenden. Nora möchte keine Schwellenwertberechnung auf Grundlage dieser Zahl freigeben. Zum Investorengeflecht fehlen zwei Anlagen. Cem merkt an, dass die Kaufoption auf das Studio nach seiner Kenntnis noch nicht ausgeübt wurde; er hat aber keinen Zugriff auf alle Finanzierungsunterlagen. Dies wird als Aussage eines Teilnehmers, nicht als abschließende Feststellung protokolliert.",
+        "7. Aufgaben bis zur nächsten Besprechung\nJona exportiert die Sichtbarkeitseinstellungen und ergänzt die Zugangswege. Rafael prüft Cache, API-Protokolle und Modellkennung. Romy sammelt die unbearbeiteten Meldungen und erstellt einen realistischen Dienstplan. Bela hält die Werbekampagne bis zur Textfreigabe zurück. Nora übersendet der Beratung die unvollständige Grundakte und fragt nach den noch benötigten Tatsachen. Ines fordert die fehlenden Beteiligungsanlagen an. Jede Aufgabe erhält einen Verantwortlichen; eine pauschale Freigabe durch Schweigen ist nicht vereinbart.",
+        "8. Nicht beschlossene Punkte und nächste Schritte\nNicht entschieden wurden Mindestzugang, Freischaltung öffentlicher Nutzerinhalte, dauerhafte Verfügbarkeit des KI-Assistenten, Einrichtung einer externen Stelle und Ausgestaltung der Meldungswege. Das nächste Gespräch ist für den 24. November um 14 Uhr vorgesehen. Die Beteiligten sollen Beobachtung, Annahme und Vorschlag getrennt kennzeichnen. Dieses Protokoll wurde am selben Tag verteilt. Rückmeldungen zur Richtigkeit sind noch möglich; eine Unterschrift aller Teilnehmenden liegt nicht vor."
+      ],
+      "layoutHint": "meeting-minutes"
+    },
+    {
+      "id": "G10",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G10_Supportuebergabe_und_Ereignisnotizen.pdf",
+      "format": "pdf",
+      "sender": "Lea Hartmann, Support",
+      "recipient": "Romy Keller",
+      "date": "2026-11-18",
+      "title": "Drei Beobachtungen, die vor der Beta aufgeklärt werden müssen",
+      "paragraphs": [
+        "Wolkenwerft Support · Übergabe für die interne Besprechung\nLea Hartmann an Romy Keller, 18. November 2026, 08:35 Uhr\nDiese Notizen dokumentieren den bisherigen Eingang. Sie enthalten keine abgeschlossene Befragung, Bewertung oder Rechtsfolge.",
+        "1. Ticket SUP-261109-04: Einladung einer Jugendlichen\nEine Mutter meldete am 9. November, ihre 15-jährige Tochter habe über einen von einer Freundin erhaltenen Link eine Insel öffnen und im Gruppenchat schreiben können. Die Mutter schildert außerdem eine Geschichte, die auf das Kind bedrohlich gewirkt habe. Ein genauer Wortlaut wurde nicht übersandt. Der erste Link war bei der Sichtung am Folgetag abgelaufen. Die Mutter schickte anschließend einen Bildschirmtext mit dem Anzeigenamen „MikaM“ und dem Inselnamen „Nebelgarten“. Der Support kann bisher nicht sicher zuordnen, ob es sich um einen Teamraum, einen öffentlichen Link oder eine später geänderte Insel handelte.",
+        "2. Bisherige Bearbeitung des ersten Tickets\nLea bestätigte den Eingang und bat um Zeitpunkt und vollständige Adresse des aufgerufenen Angebots. Sie verlangte keine Ausweiskopie und keine privaten Nachrichten des Kindes. Die Mutter antwortete mit der ungefähren Uhrzeit 19:40 Uhr und beschrieb ein Mobiltelefon mit Browser. Das Betriebssystem wurde nicht genannt. Ein gleichnamiger Raum ist im Export vorhanden; Name und Zeitraum allein reichen aber nicht für die sichere Identifikation. Es wurde noch niemand aus dem Team der betreffenden Insel angehört. Auch eine Sperrentscheidung ist nicht dokumentiert.",
+        "3. Ticket SUP-261113-11: Ein Vorschaubild bleibt sichtbar\nEin Testnutzer meldete am 13. November, ein von ihm ausgetauschtes Vorschaubild sei unter einem alten Link weiter sichtbar. In der vollständigen Insel erschien bereits das neue Bild. Rafael vermutet eine verzögerte Aktualisierung des Vorschaudienstes. Er hat den Cache einmal manuell geleert. Ein reproduzierbarer Test mit dokumentiertem alten und neuen Hashwert fehlt noch. In der Meldung ging es zunächst um die Kontrolle über die eigene Veröffentlichung; ein bestimmter rechtswidriger Bildinhalt wurde nicht behauptet. Die Schulungsakte enthält deshalb nur die Beschreibung des Vorgangs.",
+        "4. Ticket SUP-261115-03: KI-Text in einem angeblich privaten Raum\nEine Testperson schrieb, ein von der KI vorgeschlagener Dialog sei in einem Raum erschienen, den sie als privat angesehen habe. Bei der Sichtung war der Modus „Link teilen“ gesetzt. Die Person meint, sie habe lediglich eine Einladung kopiert. Die Entwicklung kann derzeit nicht feststellen, ob der Schalter durch sie oder ein anderes Teammitglied geändert wurde, weil das ältere Ereignisprotokoll nur den letzten Zustand speichert. Der Text wird im Ticket als „für die jüngeren Gäste zu düster“ beschrieben. Ein abschließender Inhaltsbefund liegt nicht vor.",
+        "5. Unterschiedliche Aussagen in internen Antworten\nIn einem ersten Chat sagte ein Entwickler, Gäste könnten grundsätzlich nichts ohne Altersprüfung sehen. Nach einer Bildschirmfreigabe stellte er klar, dass er nur den Weg über die normale Registrierung gemeint hatte. In einer anderen Antwort schrieb das Marketing, alle geteilten Links seien privat. Auch das wurde später eingeschränkt. Die ursprünglichen Aussagen wurden in der Chronologie belassen, weil sie erklären, warum das Team zunächst unterschiedliche Vorstellungen hatte. Sie sollen nicht als bestätigte Tatsachen übernommen werden.",
+        "6. Welche Unterlagen tatsächlich vorhanden sind\nVorhanden sind die Originalmails G13 und G19, der Ticketexport G21, der Zustandsauszug G23 und die Testliste G25. Nicht vorhanden sind eine vollständige Aufzeichnung der damaligen Nutzerwege, sämtliche historischen Seitenfassungen oder eine Erklärung aller beteiligten Nutzer. Für einige Ereignisse existieren technische Protokolle nur innerhalb einer begrenzten Frist. Rafael bittet deshalb darum, frühzeitig zu benennen, welche IDs und Zeiträume gesichert werden sollen. Eine Sicherung darf nicht nachträglich als Beweis für einen bereits feststehenden Sachverhalt bezeichnet werden.",
+        "7. Offene Rückfragen\nZu klären sind insbesondere der damals verwendete Linktyp, die Einstellung zum relevanten Zeitpunkt, die tatsächlich angezeigten Hinweise, die Herkunft und spätere Veränderung des Textes sowie die Reichweite einer etwaigen Veröffentlichung. Daneben fehlt die Entscheidung, wer mit der Mutter kommuniziert und welche Angaben für die Bearbeitung erforderlich sind. Die Akte zeigt den Stand einer gerade beginnenden Aufklärung. Sie enthält weder eine Anhörung von Beschäftigten noch arbeitsrechtliche Maßnahmen oder ein behördliches Ergebnis."
+      ],
+      "layoutHint": "internal-handover"
+    },
+    {
+      "id": "G11",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G11_Betriebsplan_und_Verantwortlichkeiten.pdf",
+      "format": "pdf",
+      "sender": "Romy Keller / Ines Weiß",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-17",
+      "title": "Betrieb während der ersten vier Wochen der Beta",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Betriebsplanung Dezember 2026\nEntwurf vom 17. November 2026, zusammengestellt von Romy Keller und Ines Weiß\nZur Entscheidung durch die Geschäftsführung; noch keine verbindliche Schichteinteilung",
+        "1. Ausgangslage\nDer Betrieb wird von einem kleinen Team mit mehreren Doppelrollen getragen. Romy koordiniert Support, Community und schwierige Meldungen. Lea beantwortet Standardanfragen und führt die Ticketablage. Rafael betreut Sicherheitsvorfälle und technische Nachweise, ist aber zugleich für Infrastruktur zuständig. Jona entscheidet über Produkttexte und Testaufträge. Cem kann Funktionen deaktivieren und technische Änderungen priorisieren. Nora entscheidet über externe Erklärungen und Budget. Niemand ist allein aufgrund dieser Rollenbeschreibung als formell bestellte externe oder gesetzliche Fachperson ausgewiesen.",
+        "2. Vorgesehene Erreichbarkeit\nFür Dezember sind zwei Varianten kalkuliert. Variante A belässt es bei werktäglicher Bearbeitung von 9 bis 17 Uhr und einem technischen Notfallkontakt. Variante B ergänzt werktags eine Spätschicht bis 21 Uhr und eine kurze Wochenendsichtung. Die zweite Variante benötigt etwa 72 zusätzliche Arbeitsstunden im Monat, die im bisherigen Plan nicht verteilt sind. Ines weist darauf hin, dass Überstunden nicht beliebig auf denselben kleinen Personenkreis gelegt werden können. Ein externer Moderationsdienst wäre eine dritte Möglichkeit, für die noch kein Angebot vorliegt.",
+        "3. Technische Eingriffsmöglichkeiten\nEin Konto kann im Administrationsbereich vorläufig deaktiviert werden. Für eine einzelne Insel gibt es getrennte Schalter für Suche, Linkzugriff und Bearbeitung. Das bisherige Wort „sperren“ bezeichnet im Alltag nicht immer dieselbe Kombination. Für den KI-Dienst gibt es einen globalen Abschaltknopf. Eine laufende Textanfrage wird dadurch nach Cems Test nicht zwingend abgebrochen, weitere Anfragen werden jedoch zurückgewiesen. Gespeicherte Ausgaben bleiben bestehen. Die Schritte sollen in einer späteren Arbeitskarte mit Bildschirmansichten dokumentiert werden; solche Screenshots sind heute noch nicht freigegeben.",
+        "4. Dokumentation und Zugriff\nSupportnotizen liegen im Ticketsystem, technische Ereignisse im Betriebsprotokoll und Produktentscheidungen im Projektboard. Die Systeme verwenden unterschiedliche Zeitzonen: Tickets werden in Europe/Berlin angezeigt, Serverereignisse in UTC. Bei der Zusammenführung muss dieser Unterschied berücksichtigt werden. Das Produktboard enthält nachträglich bearbeitbare Kommentare; der Export zeigt nicht automatisch alle früheren Fassungen. Die Personen mit administrativem Vollzugriff sind Cem und Rafael. Romy hat beschränkte Einsicht in Kontostatus und Meldungen, aber keinen vollständigen Datenbankzugriff.",
+        "5. Vertretung und Interessenkonflikte\nWenn eine Meldung eine von Mitarbeitenden kuratierte Insel betrifft, soll nicht ausschließlich die kuratierende Person darüber entscheiden. Diese Regel ist als Vorschlag aufgenommen, aber noch nicht organisatorisch umgesetzt. Während Romys Urlaub vom 7. bis 11. Dezember ist Lea als erste Ansprechpartnerin vorgesehen. Für schwierige Inhaltsfragen steht im Plan „Vertretung offen“. Die Geschäftsführung möchte vermeiden, dass technische Bereitschaft und inhaltliche Bewertung stillschweigend gleichgesetzt werden. Ein Bereitschaftstelefon ohne entsprechende Befugnisse würde dieses Problem nicht lösen.",
+        "6. Zusammenarbeit mit anderen Stellen\nEine freiwillige Selbstkontrollorganisation wurde um Informationen zu Aufnahme, Kosten und Verfahren gebeten. Es gibt weder einen Aufnahmebescheid noch einen unterschriebenen Vertrag. Ein externer Jugendschutzkontakt ist bisher lediglich auf einer Kandidatenliste genannt und hat keinen Auftrag angenommen. Eine öffentlich genannte Kontaktadresse muss vor Veröffentlichung tatsächlich betreut werden. Im Impressumsentwurf steht noch die allgemeine Supportadresse; ein gesonderter Meldeweg ist technisch vorbereitet, aber nicht öffentlich erreichbar.",
+        "7. Voraussetzungen für einen belastbaren Betriebsstart\nDas Team benötigt einen abgestimmten Funktionsumfang, konkrete Ansprechpartner mit Vertretung, eine Beschreibung der erreichbaren Nutzerwege und dokumentierte technische Eingriffe. Die Beratung soll helfen, die aus den tatsächlichen Funktionen folgenden Anforderungen zuzuordnen. Dieser Plan selbst enthält keine juristische Schlussfolgerung und keine Zusage, dass eine bestimmte Teamgröße oder Kontaktperson genügt. Er soll eine reale Ressourcenentscheidung ermöglichen. Offene Felder dürfen im späteren Freigabedokument nicht automatisch als erfüllt markiert werden.",
+        "8. Abstimmungsstand\nNora hat die Kostenschätzung zur Kenntnis genommen und um eine priorisierte Liste gebeten. Sie hat noch keine Variante genehmigt. Für das Treffen am 24. November sollen Romy und Cem gemeinsam vorführen, wie eine Meldung eingeht, wie der betroffene Inhalt aufgefunden wird und welche Wirkung jeder Sperrschalter hat. Die Vorführung soll anhand fiktiver Testinhalte erfolgen, damit keine Inhalte aus echten Beschwerden unnötig verbreitet werden."
+      ],
+      "layoutHint": "operating-plan"
+    },
+    {
+      "id": "G12",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G12_E_Mail_Bitte_zunächst_den_tatsächlichen_Stand_ausein.eml",
+      "format": "eml",
+      "sender": "nora.wendt@wolkenwerft.example",
+      "recipient": "amelie.vogt@vogt-hecht.example",
+      "date": "2026-11-18",
+      "title": "Bitte zunächst den tatsächlichen Stand auseinanderziehen",
+      "paragraphs": [
+        "Guten Morgen Frau Vogt,\nich habe Ihnen die Unterlagen gesammelt. Bitte wundern Sie sich nicht über die Widersprüche: Die Altersangabe in der Kampagne stammt aus einer früheren Runde, der Gastzugang aus einem späteren Prototyp. Beides läuft inzwischen nebeneinander. Wir brauchen eine geordnete Tatsachengrundlage, bevor wir etwas als erledigt behandeln.",
+        "Der Termin 1. Dezember ist wichtig, aber einzelne Funktionen können später kommen. Bitte sagen Sie uns konkret, welche Tests oder Unterlagen Ihnen fehlen. Eine lange Liste abstrakter Vorschriften würde im Team gerade untergehen. Hilfreich wäre zum Beispiel: Welcher Link ist für wen erreichbar, welche Information fehlt und wer kann sie liefern?",
+        "Romy hat keine Mitgliedschaft bei einer Selbstkontrolle bestätigt. Ines sucht noch die Anlagen zur Finanzierung. Die 1,8 Millionen sind keine von uns geprüfte Nutzerzahl. Ich möchte, dass diese drei Punkte in keiner Präsentation versehentlich als gesichert erscheinen.",
+        "Viele Grüße\nNora Wendt"
+      ],
+      "subject": "Bitte zunächst den tatsächlichen Stand auseinanderziehen",
+      "messageId": "<g12-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-18T10:15:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G13",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G13_E_Mail_Einladung_für_meine_Tochter_–_warum_ohne_Alte.eml",
+      "format": "eml",
+      "sender": "maren.fischer@familie-fischer.example",
+      "recipient": "hilfe@inselatlas.example",
+      "date": "2026-11-09",
+      "title": "Einladung für meine Tochter – warum ohne Altersfrage?",
+      "paragraphs": [
+        "Guten Abend,\nmeine Tochter ist 15. Eine Freundin hatte ihr heute einen Link zu Ihrer Insel Nebelgarten geschickt. Sie musste nur einen Namen eingeben und konnte dann lesen und im Gruppenchat schreiben. Ich habe kein Feld zum Alter gesehen. Ihre Internetseite sagt ab 15, ein anderes Formular, das ich später gefunden habe, sagt ab 16. Was gilt denn nun?",
+        "Meine Tochter fand die Geschichte im Raum ziemlich bedrohlich und hat den Browser geschlossen. Ich möchte den Inhalt hier nicht weiterverbreiten. Es ging um eine Figur, die verfolgt wurde und keinen Ausgang fand. Ob das automatisch geschrieben war, weiß ich nicht. Auf dem Bildschirm stand irgendwo „Szene mit Assistent erstellt“.",
+        "Bitte erklären Sie mir, ob das ein privater Raum ihrer Freundin oder ein öffentliches Angebot war. Ich möchte zunächst wissen, was tatsächlich passiert ist und wie der Zugang geschlossen werden kann. Eine Ausweiskopie meiner Tochter möchte ich nicht ohne konkrete Erklärung schicken. Der Link ist inzwischen abgelaufen; die ungefähre Uhrzeit war 19:40 Uhr.",
+        "Mit freundlichen Grüßen\nMaren Fischer"
+      ],
+      "subject": "Einladung für meine Tochter – warum ohne Altersfrage?",
+      "messageId": "<g13-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-09T20:12:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G14",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G14_E_Mail_Ihre_Anfrage_zu_Aufnahme_und_Beratung_–_noch_.eml",
+      "format": "eml",
+      "sender": "aufnahme@medienkompass-selbstkontrolle.example",
+      "recipient": "romy.keller@wolkenwerft.example",
+      "date": "2026-11-11",
+      "title": "Ihre Anfrage zu Aufnahme und Beratung – noch kein Beitritt",
+      "paragraphs": [
+        "Sehr geehrte Frau Keller,\nvielen Dank für Ihre Anfrage. Die Medienkompass Selbstkontrolle e.V. ist in diesem Übungsfall eine fiktive Organisation. Wir können Ihnen zunächst ein Informationsgespräch zu unserem Aufnahmeverfahren anbieten. Bitte reichen Sie dafür die Beschreibung der Dienste, Ihre Vertragsgesellschaft und die gewünschten Leistungsbereiche ein.",
+        "Mit dieser E-Mail bestätigen wir weder eine Mitgliedschaft noch eine Übernahme bestimmter Aufgaben. Auch eine Prüfung Ihres Produkts oder die Freigabe einzelner Inhalte ist damit nicht verbunden. Ein Logo oder eine Mitgliedschaftsbezeichnung soll bis zu einer ausdrücklichen Vereinbarung nicht verwendet werden.",
+        "Sie erwähnen ein Spiel, öffentliche Nutzerinhalte, Gruppenkommunikation und einen KI-Assistenten. Bitte erläutern Sie im Gespräch die Unterschiede dieser Funktionen. Ob und in welchem Umfang wir ein bestimmtes Anliegen bearbeiten könnten, lässt sich aus Ihrer kurzen Anfrage nicht abschließend beurteilen. Ein Termin wäre am 26. November um 11 Uhr möglich.",
+        "Freundliche Grüße\nMira Seidel\nAufnahmekoordination – fiktive Übungsorganisation"
+      ],
+      "subject": "Ihre Anfrage zu Aufnahme und Beratung – noch kein Beitritt",
+      "messageId": "<g14-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-11T14:10:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G15",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G15_E_Mail_Kampagne.eml",
+      "format": "eml",
+      "sender": "bela.fink@wolkenwerft.example",
+      "recipient": "jona.metz@wolkenwerft.example",
+      "date": "2026-11-16",
+      "title": "Kampagne: ab 15 / privat teilen / Schutzversprechen",
+      "paragraphs": [
+        "Hallo Jona,\nich habe die drei Textstellen markiert, die wir morgen entscheiden müssen. „Kreativ ab 15“ stammt aus der Anfrage der Jugendwerkstatt. „Teile deine private Insel“ meint in meiner bisherigen Vorstellung einen Link, der nicht in der Suche steht. Cem sagt jetzt, dass jeder mit dem Link hinein kann. Das muss dann verständlicher werden.",
+        "Auf der alten Folie steht außerdem „mit externer Selbstkontrolle“. Ich hatte darunter verstanden, dass Romy das organisiert. Nach ihrer Mail ist das bisher nur angefragt. Ich nehme das Schutzversprechen vorerst aus der Kampagnenfassung; bitte bestätigt mir, ob es noch an anderen Stellen steht. Die alte Folie bleibt zur Nachvollziehbarkeit im Ordner, darf aber nicht als aktueller Stand verschickt werden.",
+        "Die 1,8 Millionen Aufrufe wollte ich als Reichweite nennen. Wenn wir dafür eine andere Bezeichnung brauchen, sagt mir bitte genau welche Zahl tatsächlich gemessen wurde. Ich will weder Accounts noch einzelne Menschen behaupten, wenn es nur Seitenabrufe sind.",
+        "Danke\nBela"
+      ],
+      "subject": "Kampagne: ab 15 / privat teilen / Schutzversprechen",
+      "messageId": "<g15-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-16T13:20:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G16",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G16_E_Mail_Re.eml",
+      "format": "eml",
+      "sender": "support@lumenpfad.example",
+      "recipient": "rafael.ott@wolkenwerft.example",
+      "date": "2026-11-17",
+      "title": "Re: Protokolle und Modellversion Ihrer Testumgebung",
+      "paragraphs": [
+        "Guten Tag Herr Ott,\nIhre Testumgebung läuft derzeit auf LP-Story-2026-10. Für den Dezemberbetrieb ist eine neuere Fassung vorgesehen; den endgültigen Termin teilen wir noch mit. Im Standardtarif halten wir technische Anforderungsprotokolle bis zu 30 Tage vor. Die von Ihnen im Entwurf genannten sieben Tage beziehen sich auf ein gesondertes Vertragsprofil, das für Ihren Mandanten bislang nicht aktiviert ist.",
+        "Der technische Support kann bei Fehleranalysen auf Protokolle zugreifen. Ein Teil des Supports wird durch unseren europäischen Dienstleister in Dublin geleistet. Ob Freitexte in einem konkreten Protokoll enthalten sind, hängt von der Fehlerklasse und der verwendeten Schnittstellenversion ab. Bitte senden Sie uns die Anforderungskennungen, keine zusätzlichen echten personenbezogenen Daten.",
+        "Die Aussage „kein Training“ in unserem Angebot betrifft allgemeines Modelltraining. Für eine genauere Beschreibung der Qualitätsauswertung verbinden wir Sie gern mit unserem Vertragsteam. Eine jugendschutzbezogene Freigabe für Ihr Gesamtprodukt können wir Ihnen nicht bestätigen, weil wir dessen Veröffentlichungs- und Zugangsfunktionen nicht betreiben.",
+        "Mit freundlichen Grüßen\nAnouk Vermeer\nLumenpfad AI B.V. – Kundensupport"
+      ],
+      "subject": "Re: Protokolle und Modellversion Ihrer Testumgebung",
+      "messageId": "<g16-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-17T12:05:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G17",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G17_E_Mail_Korrektur_meiner_Aussage_zum_Gastzugang.eml",
+      "format": "eml",
+      "sender": "cem.sander@wolkenwerft.example",
+      "recipient": "romy.keller@wolkenwerft.example",
+      "date": "2026-11-17",
+      "title": "Korrektur meiner Aussage zum Gastzugang",
+      "paragraphs": [
+        "Hallo Romy,\nmeine Aussage von gestern war zu pauschal. Die Altersbestätigung wird bei der normalen Registrierung geprüft. Für den Gastlink gibt es aktuell nur Anzeigename und Raumregeln. Ich habe das im ersten Gespräch verwechselt, weil ich auf meinen eingeloggten Testaccount geschaut hatte.",
+        "Außerdem bedeutet unlisted-public im Backend: nicht in der Liste, aber mit Link aufrufbar. Nur team-private benötigt eine Einladung. Wenn ein Raum von team-private auf unlisted-public gesetzt wird, bleibt ein früher versandter Link unter Umständen nutzbar. Ich habe noch nicht geprüft, welche älteren Räume davon betroffen sind. Der zuletzt von mir eingesehene Backendzustand zeigt keine vollständige Historie. Ein gesonderter Export für die Übergabe an die Beratung soll morgen erstellt werden.",
+        "Den KI-Dienst können wir global abschalten. Das entfernt keine schon gespeicherten Szenen und keine Cache-Vorschauen. Für eine gezielte Änderung brauche ich daher Insel-IDs und die gewünschte Wirkung, nicht nur den Auftrag „alles sperren“. Ich teste morgen die unterschiedlichen Schalter.",
+        "Viele Grüße\nCem"
+      ],
+      "subject": "Korrektur meiner Aussage zum Gastzugang",
+      "messageId": "<g17-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-17T08:58:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G18",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G18_E_Mail_Beteiligungsanlagen_fehlen_weiterhin.eml",
+      "format": "eml",
+      "sender": "ines.weiss@wolkenwerft.example",
+      "recipient": "nora.wendt@wolkenwerft.example",
+      "date": "2026-11-17",
+      "title": "Beteiligungsanlagen fehlen weiterhin",
+      "paragraphs": [
+        "Hallo Nora,\nim Finanzierungsordner liegen das unterschriebene Zusageschreiben und die Kapitalisierungstabelle, aber nicht Anlage 4 mit den Zustimmungsvorbehalten. Der Berater ist bis morgen außer Haus. Ich habe ihn um die vollständige Fassung und die aktuelle Gesellschafterliste gebeten.",
+        "Die Kaufoption beim Studio ist in der Übersicht nur als Option aufgeführt. Ich habe keinen Ausübungsnachweis. Umgekehrt kann ich aus meinem Ordner nicht ausschließen, dass es weitere Nebenabreden gibt. Das Pitchdeck mit den verbundenen Kästen ist dafür kein belastbarer Beleg.",
+        "Unsere 17 Beschäftigten sind die unmittelbar bei Wolkenwerft Angestellten. Die Studioleute und Beschäftigte des Investors stecken nicht in der Zahl. Für die Gruppe insgesamt habe ich weder Personalzahlen noch einen konsolidierten Abschluss. Bitte gib die 17 daher nur mit diesem Zusatz weiter. Die Monatsaufrufe stammen aus dem Webdashboard und haben mit dieser Personalaufstellung nichts zu tun.",
+        "Viele Grüße\nInes"
+      ],
+      "subject": "Beteiligungsanlagen fehlen weiterhin",
+      "messageId": "<g18-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-17T15:10:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G19",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G19_E_Mail_Mein_geteilter_Raum_war_offenbar_nicht_privat.eml",
+      "format": "eml",
+      "sender": "testerin.ada@spielpost.example",
+      "recipient": "hilfe@inselatlas.example",
+      "date": "2026-11-15",
+      "title": "Mein geteilter Raum war offenbar nicht privat",
+      "paragraphs": [
+        "Hallo Support,\nich hatte in meinem Team einen KI-Vorschlag für eine etwas unheimliche Geschichte ausprobiert. Ich habe anschließend auf Link teilen geklickt, damit zwei Bekannte den Raum sehen. Für mich klang „nicht gelistet“ nach privat. Einer der beiden hat den Link weitergeschickt. Danach waren fremde Anzeigenamen zu sehen.",
+        "Ich möchte nicht behaupten, dass die KI irgendetwas Bestimmtes garantiert hätte. Aber mir war nicht klar, wer den Entwurf lesen kann. Ich habe die Geschichte später geändert. Im Vorschaubild stand danach noch ein alter Titel. Bitte prüft, ob der Link jetzt wirklich nur für mein Team funktioniert oder ob ich noch einen anderen Schalter bedienen muss.",
+        "Die Insel-ID in meiner Adresszeile lautet IA-1184. Ich kann nicht sicher sagen, ob ein anderes Teammitglied zwischendurch etwas geändert hat. Wir waren zu dritt im Editor. Bitte löscht nicht einfach unsere ganze Insel, bevor wir wissen, welcher Teil betroffen ist.",
+        "Viele Grüße\nAda, Testgruppe Süd"
+      ],
+      "subject": "Mein geteilter Raum war offenbar nicht privat",
+      "messageId": "<g19-202611@wolkenwerft-test.example>",
+      "sentAt": "2026-11-15T16:40:00+01:00",
+      "layoutHint": "email"
+    },
+    {
+      "id": "G20",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G20_Messwerte_Oktober_2026.csv",
+      "format": "csv",
+      "sender": "Wolkenwerft Worlds GmbH",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-18",
+      "title": "Messwerte Oktober 2026 aus unterschiedlichen Systemen",
+      "paragraphs": [
+        "Rohdatenexport aus dem Controlling vom 18. November. Die Zeilen stammen aus verschiedenen Systemen und dürfen nicht addiert werden. Die 1,8 Millionen sind Monatsseitenaufrufe. Es liegt keine daraus abgeleitete, verlässlich bestimmte Zahl monatlich aktiver Empfänger in der Europäischen Union vor. Leerfelder sind fehlende Ermittlungen, keine Nullwerte."
+      ],
+      "columns": [
+        "Kennung",
+        "Zeitraum",
+        "Messgroesse",
+        "Wert",
+        "Einheit",
+        "System",
+        "Abgrenzung",
+        "Offene_Frage"
+      ],
+      "rows": [
+        [
+          "M01",
+          "2026-10-01/2026-10-31",
+          "Seitenaufrufe",
+          1800000,
+          "Aufrufe",
+          "Webdashboard",
+          "Mehrfachaufrufe enthalten; keine Personenanzahl",
+          "Botfilterung unvollstaendig dokumentiert"
+        ],
+        [
+          "M02",
+          "2026-10-01/2026-10-31",
+          "Sitzungen",
+          286400,
+          "Sitzungen",
+          "Webdashboard",
+          "Neue Sitzung nach 30 Minuten; keine Personenanzahl",
+          "Geraetewechsel nicht zusammengefuehrt"
+        ],
+        [
+          "M03",
+          "2026-10-01/2026-10-31",
+          "Browserkennungen",
+          97210,
+          "Kennungen",
+          "Clientmessung",
+          "Cookies geloescht oder blockiert moeglich",
+          "Nicht mit Menschen oder Accounts gleichsetzen"
+        ],
+        [
+          "M04",
+          "2026-10-01/2026-10-31",
+          "Konten_mit_Login",
+          18420,
+          "Konten",
+          "Authentifizierungsdienst",
+          "Mindestens ein erfolgreicher Login",
+          "Mehrere Konten pro Person moeglich"
+        ],
+        [
+          "M05",
+          "2026-10-01/2026-10-31",
+          "Gastbeitritte",
+          64110,
+          "Beitrittsereignisse",
+          "Einladungsdienst",
+          "Wiederholungen und neue Browserkennungen enthalten",
+          "Kein Nachweis eindeutiger Personen"
+        ],
+        [
+          "M06",
+          "2026-10-01/2026-10-31",
+          "Vorschauabrufe_ohne_Login",
+          812700,
+          "Abrufe",
+          "Vorschaudienst",
+          "Teilmenge kann sich mit Webdashboard ueberschneiden",
+          "Cache und Prefetch nicht vollstaendig getrennt"
+        ],
+        [
+          "M07",
+          "2026-10-01/2026-10-31",
+          "Oeffentliche_Inselaufrufe",
+          368800,
+          "Abrufe",
+          "Spielserver",
+          "Oeffentlicher Link oder Entdeckungsseite",
+          "Weiterleitungen unvollstaendig zugeordnet"
+        ],
+        [
+          "M08",
+          "2026-10-01/2026-10-31",
+          "Teamraumaufrufe",
+          279300,
+          "Abrufe",
+          "Spielserver",
+          "Nach Einladung oder eingeloggtem Zugriff",
+          "Nicht additiv zu M01"
+        ],
+        [
+          "M09",
+          "2026-10-01/2026-10-31",
+          "KI_Anfragen",
+          62480,
+          "Anfragen",
+          "API-Zaehler",
+          "Enthaelt Wiederholungen und Fehlversuche",
+          "Keine Aussage zur Zahl von Nutzenden"
+        ],
+        [
+          "M10",
+          "2026-10-01/2026-10-31",
+          "Anteil_DE_IP",
+          71.2,
+          "Prozent",
+          "Webdashboard",
+          "Geolokation nach IP",
+          "Kein Wohnsitznachweis"
+        ],
+        [
+          "M11",
+          "2026-10-01/2026-10-31",
+          "Anteil_andere_EU_IP",
+          19.7,
+          "Prozent",
+          "Webdashboard",
+          "Geolokation nach IP",
+          "Keine verlaessliche Zahl aktiver Empfaenger"
+        ],
+        [
+          "M12",
+          "2026-10-01/2026-10-31",
+          "Anteil_sonstige_oder_unbekannte_IP",
+          9.1,
+          "Prozent",
+          "Webdashboard",
+          "Restkategorie",
+          "VPN und fehlende Daten moeglich"
+        ],
+        [
+          "M13",
+          "2026-05-01/2026-10-31",
+          "Durchschnitt_aktive_Empfaenger_EU",
+          "",
+          "nicht_ermittelt",
+          "kein_abgestimmter_Export",
+          "Kein fertiger Schwellenwertbericht",
+          "Methodik und sechsmonatige Datenbasis fehlen"
+        ]
+      ]
+    },
+    {
+      "id": "G21",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G21_Ticketverlauf.csv",
+      "format": "csv",
+      "sender": "Wolkenwerft Worlds GmbH",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-18",
+      "title": "Ticketverlauf mit offenen Bearbeitungsschritten",
+      "paragraphs": [
+        "Export des Ticketsystems. Keine Zeile bestätigt einen Rechtsverstoß. Ereigniszeit und Zeitpunkt der späteren Bearbeitung sind zu unterscheiden. Die Beleg-IDs verweisen auf Unterlagen derselben Grundakte."
+      ],
+      "columns": [
+        "Ticket",
+        "Zeitpunkt_Europe_Berlin",
+        "Akteur",
+        "Vorgang",
+        "Beleg_ID",
+        "Status"
+      ],
+      "rows": [
+        [
+          "SUP-261109-04",
+          "2026-11-09T20:12:00+01:00",
+          "Maren Fischer",
+          "Eingang: Tochter15 nutzte Gastlink; Inhalt als bedrohlich beschrieben",
+          "G13",
+          "offen"
+        ],
+        [
+          "SUP-261109-04",
+          "2026-11-10T09:18:00+01:00",
+          "Lea Hartmann",
+          "Eingang bestaetigt; Link und Zeitpunkt erfragt",
+          "G10",
+          "Rueckfrage"
+        ],
+        [
+          "SUP-261109-04",
+          "2026-11-10T18:46:00+01:00",
+          "Maren Fischer",
+          "Link abgelaufen; Name Nebelgarten; ungefaehr19:40",
+          "G10",
+          "Zuordnung_offen"
+        ],
+        [
+          "SUP-261113-11",
+          "2026-11-13T12:09:00+01:00",
+          "Testkonto",
+          "Altes Vorschaubild nach Aenderung sichtbar",
+          "G10",
+          "offen"
+        ],
+        [
+          "SUP-261113-11",
+          "2026-11-13T15:30:00+01:00",
+          "Rafael Ott",
+          "Cache manuell geleert; Reproduktion noch offen",
+          "G25",
+          "Test_offen"
+        ],
+        [
+          "SUP-261115-03",
+          "2026-11-15T16:40:00+01:00",
+          "Ada",
+          "Link aus vermeintlich privatem Raum weitergeleitet",
+          "G19",
+          "offen"
+        ],
+        [
+          "SUP-261115-03",
+          "2026-11-16T09:05:00+01:00",
+          "Lea Hartmann",
+          "Insel IA-1184 im aktuellen Zustand gefunden",
+          "G23",
+          "Historie_fehlend"
+        ],
+        [
+          "INTERN-261116-02",
+          "2026-11-16T10:42:00+01:00",
+          "Cem Sander",
+          "Muendliche Aussage Altersabfrage betrifft Registrierung",
+          "G09",
+          "praezisiert"
+        ],
+        [
+          "INTERN-261116-02",
+          "2026-11-17T08:58:00+01:00",
+          "Cem Sander",
+          "Gastzugang ohne Altersfeld schriftlich bestaetigt",
+          "G17",
+          "beobachtet"
+        ],
+        [
+          "INTERN-261117-07",
+          "2026-11-17T11:20:00+01:00",
+          "Rafael Ott",
+          "Anbieter um Modellkennung und Protokollfrist gebeten",
+          "G16",
+          "Antwort_erhalten"
+        ],
+        [
+          "INTERN-261117-08",
+          "2026-11-17T15:10:00+01:00",
+          "Ines Weiss",
+          "Fehlende Beteiligungsanlagen angefordert",
+          "G18",
+          "Unterlagen_fehlen"
+        ],
+        [
+          "SUP-261109-04",
+          "2026-11-18T08:35:00+01:00",
+          "Lea Hartmann",
+          "Uebergabe an Romy ohne abschliessende Bewertung",
+          "G10",
+          "in_Aufklaerung"
+        ]
+      ]
+    },
+    {
+      "id": "G22",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G22_Feature_Flags_2026_11_18.json",
+      "format": "json",
+      "sender": "Wolkenwerft Worlds GmbH",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-18",
+      "title": "Technischer Zustandsauszug der Funktionen",
+      "paragraphs": [
+        "Die Konfiguration zeigt den Stand am 18. November. Sie enthält keine vollständige Änderungshistorie und keine technische Sicherheitsbestätigung."
+      ],
+      "nativeText": "{\n  \"environment\": \"invited-beta\",\n  \"capturedAt\": \"2026-11-18T07:10:00Z\",\n  \"publicBetaPlanned\": \"2026-12-01\",\n  \"registration\": {\n    \"ageCheckboxText\": \"Ich bin mindestens 16 Jahre alt\",\n    \"minimumDeclaredAge\": 16,\n    \"dateOfBirthCollected\": false,\n    \"externalAgeService\": \"not_configured\"\n  },\n  \"campaign\": {\n    \"headline\": \"Gemeinsam kreativ ab 15\",\n    \"published\": true,\n    \"reviewState\": \"open\"\n  },\n  \"guestAccess\": {\n    \"enabled\": true,\n    \"ageQuestion\": false,\n    \"displayNameRequired\": true,\n    \"defaultLinkDays\": 7,\n    \"maxBrowserTokens\": 20\n  },\n  \"visibilityModes\": {\n    \"team-private\": \"invited_accounts_or_guest_token\",\n    \"unlisted-public\": \"anyone_with_link\",\n    \"discover-public\": \"listed_and_anyone_with_link\"\n  },\n  \"ai\": {\n    \"enabled\": true,\n    \"provider\": \"Lumenpfad AI B.V.\",\n    \"model\": \"LP-Story-2026-10\",\n    \"inputFields\": [\n      \"scene_request\",\n      \"style\",\n      \"length\",\n      \"language\",\n      \"request_id\"\n    ],\n    \"debugContextReview\": \"open\",\n    \"outputInitiallyInEditor\": true,\n    \"separatePublishAction\": true\n  },\n  \"moderation\": {\n    \"reportForm\": true,\n    \"anonymousReports\": true,\n    \"weekendContentShift\": \"unassigned\",\n    \"searchRemovalAlsoDisablesLink\": false\n  },\n  \"payments\": {\n    \"subscriptionCheckout\": false,\n    \"plannedMonthlyEUR\": \"4.90\"\n  },\n  \"note\": \"Fiktiver technischer Zustandsauszug; keine Aussage zur Rechtmaessigkeit oder Vollstaendigkeit der Umsetzung.\"\n}",
+      "data": {
+        "environment": "invited-beta",
+        "capturedAt": "2026-11-18T07:10:00Z",
+        "publicBetaPlanned": "2026-12-01",
+        "registration": {
+          "ageCheckboxText": "Ich bin mindestens 16 Jahre alt",
+          "minimumDeclaredAge": 16,
+          "dateOfBirthCollected": false,
+          "externalAgeService": "not_configured"
+        },
+        "campaign": {
+          "headline": "Gemeinsam kreativ ab 15",
+          "published": true,
+          "reviewState": "open"
+        },
+        "guestAccess": {
+          "enabled": true,
+          "ageQuestion": false,
+          "displayNameRequired": true,
+          "defaultLinkDays": 7,
+          "maxBrowserTokens": 20
+        },
+        "visibilityModes": {
+          "team-private": "invited_accounts_or_guest_token",
+          "unlisted-public": "anyone_with_link",
+          "discover-public": "listed_and_anyone_with_link"
+        },
+        "ai": {
+          "enabled": true,
+          "provider": "Lumenpfad AI B.V.",
+          "model": "LP-Story-2026-10",
+          "inputFields": [
+            "scene_request",
+            "style",
+            "length",
+            "language",
+            "request_id"
+          ],
+          "debugContextReview": "open",
+          "outputInitiallyInEditor": true,
+          "separatePublishAction": true
+        },
+        "moderation": {
+          "reportForm": true,
+          "anonymousReports": true,
+          "weekendContentShift": "unassigned",
+          "searchRemovalAlsoDisablesLink": false
+        },
+        "payments": {
+          "subscriptionCheckout": false,
+          "plannedMonthlyEUR": "4.90"
+        },
+        "note": "Fiktiver technischer Zustandsauszug; keine Aussage zur Rechtmaessigkeit oder Vollstaendigkeit der Umsetzung."
+      }
+    },
+    {
+      "id": "G23",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G23_Inseln_Sichtbarkeit_und_Zustand.json",
+      "format": "json",
+      "sender": "Wolkenwerft Worlds GmbH",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-18",
+      "title": "Inseln und Sichtbarkeit im aktuellen Export",
+      "paragraphs": [
+        "Vier ausgewählte Testinseln. Der Export dokumentiert technische Zustände, keine Einordnung als rechtlich privat oder öffentlich und keine abschließende Inhaltsbewertung."
+      ],
+      "nativeText": "{\n  \"exportedAt\": \"2026-11-18T07:15:00Z\",\n  \"historicalStatesAvailable\": false,\n  \"items\": [\n    {\n      \"islandId\": \"IA-1184\",\n      \"title\": \"Nebelgarten\",\n      \"mode\": \"unlisted-public\",\n      \"teamAccounts\": 3,\n      \"guestLinksActive\": 1,\n      \"discoverListed\": false,\n      \"publicCommentsEnabled\": true,\n      \"aiDraftInserted\": true,\n      \"lastEdit\": \"2026-11-15T17:20:00Z\",\n      \"lastEditor\": \"acct-test-204\",\n      \"note\": \"Zuordnung zu G19 gesichert; Zuordnung zu G13 wegen gleichem Namen noch offen.\"\n    },\n    {\n      \"islandId\": \"IA-1201\",\n      \"title\": \"Brueckenwerkstatt\",\n      \"mode\": \"discover-public\",\n      \"teamAccounts\": 2,\n      \"guestLinksActive\": 0,\n      \"discoverListed\": true,\n      \"publicCommentsEnabled\": true,\n      \"aiDraftInserted\": true,\n      \"lastEdit\": \"2026-11-16T08:10:00Z\",\n      \"lastEditor\": \"acct-test-101\"\n    },\n    {\n      \"islandId\": \"IA-1227\",\n      \"title\": \"Sternenlager\",\n      \"mode\": \"team-private\",\n      \"teamAccounts\": 5,\n      \"guestLinksActive\": 2,\n      \"discoverListed\": false,\n      \"publicCommentsEnabled\": false,\n      \"aiDraftInserted\": false,\n      \"lastEdit\": \"2026-11-17T11:35:00Z\",\n      \"lastEditor\": \"acct-test-330\"\n    },\n    {\n      \"islandId\": \"IA-1250\",\n      \"title\": \"Werkzeuginsel\",\n      \"mode\": \"unlisted-public\",\n      \"teamAccounts\": 1,\n      \"guestLinksActive\": 0,\n      \"discoverListed\": false,\n      \"publicCommentsEnabled\": false,\n      \"aiDraftInserted\": false,\n      \"lastEdit\": \"2026-11-13T09:20:00Z\",\n      \"lastEditor\": \"acct-test-419\"\n    }\n  ],\n  \"warning\": \"Die Namen sind nicht eindeutig. Ein gegenwaertiger Zustand beweist nicht die Einstellung an einem frueheren Tag. Alle Konten und Inhalte sind fiktiv.\"\n}",
+      "data": {
+        "exportedAt": "2026-11-18T07:15:00Z",
+        "historicalStatesAvailable": false,
+        "items": [
+          {
+            "islandId": "IA-1184",
+            "title": "Nebelgarten",
+            "mode": "unlisted-public",
+            "teamAccounts": 3,
+            "guestLinksActive": 1,
+            "discoverListed": false,
+            "publicCommentsEnabled": true,
+            "aiDraftInserted": true,
+            "lastEdit": "2026-11-15T17:20:00Z",
+            "lastEditor": "acct-test-204",
+            "note": "Zuordnung zu G19 gesichert; Zuordnung zu G13 wegen gleichem Namen noch offen."
+          },
+          {
+            "islandId": "IA-1201",
+            "title": "Brueckenwerkstatt",
+            "mode": "discover-public",
+            "teamAccounts": 2,
+            "guestLinksActive": 0,
+            "discoverListed": true,
+            "publicCommentsEnabled": true,
+            "aiDraftInserted": true,
+            "lastEdit": "2026-11-16T08:10:00Z",
+            "lastEditor": "acct-test-101"
+          },
+          {
+            "islandId": "IA-1227",
+            "title": "Sternenlager",
+            "mode": "team-private",
+            "teamAccounts": 5,
+            "guestLinksActive": 2,
+            "discoverListed": false,
+            "publicCommentsEnabled": false,
+            "aiDraftInserted": false,
+            "lastEdit": "2026-11-17T11:35:00Z",
+            "lastEditor": "acct-test-330"
+          },
+          {
+            "islandId": "IA-1250",
+            "title": "Werkzeuginsel",
+            "mode": "unlisted-public",
+            "teamAccounts": 1,
+            "guestLinksActive": 0,
+            "discoverListed": false,
+            "publicCommentsEnabled": false,
+            "aiDraftInserted": false,
+            "lastEdit": "2026-11-13T09:20:00Z",
+            "lastEditor": "acct-test-419"
+          }
+        ],
+        "warning": "Die Namen sind nicht eindeutig. Ein gegenwaertiger Zustand beweist nicht die Einstellung an einem frueheren Tag. Alle Konten und Inhalte sind fiktiv."
+      }
+    },
+    {
+      "id": "G24",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G24_URL_Wege_und_Texte.txt",
+      "format": "txt",
+      "sender": "Jona Metz",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-18",
+      "title": "Abschrift der sichtbaren Wege und Hinweise",
+      "paragraphs": [
+        "Fiktiver Oberflächenexport vom 18. November 2026. Alle Domains enden auf .example und sind für Übungen bestimmt. Die Texte sind keine Anleitung zum Zugriff auf einen realen Dienst.",
+        "URL /start: „Gemeinsam kreativ ab 15.“ Schaltflächen: Insel entdecken; Mit Einladung hinein; Eigene Insel bauen. Fußzeile: Hilfe, Bedingungen, Datenschutz. Sichtbar ohne Anmeldung.",
+        "URL /register: E-Mail; Passwort; Anzeigename; Kästchen „Ich bin mindestens 16 Jahre alt“. Kein Geburtsdatum. Kein Uploadfeld. Ein Hinweis auf den Gastzugang fehlt auf dieser Seite.",
+        "URL /invite/TEST-GAST-7: Anzeigename; Kästchen „Ich halte mich an die Raumregeln“. Kein Altersfeld. Hinweis: „Du trittst einem Teamraum bei.“ Die konkrete spätere Sichtbarkeit der Insel wird hier nicht erklärt.",
+        "URL /island/IA-1184/share: Auswahl „Nur Team“, „Link teilen“, „In Entdecken aufnehmen“. Unter „Link teilen“: „Nicht öffentlich gelistet“. Kein ausdrücklicher Satz, dass jede Person mit dem Link zugreifen kann.",
+        "URL /island/IA-1184: Vorschautitel und Kurzbeschreibung ohne Anmeldung. Nach Klick auf „Hinweis gelesen“ öffnet die vollständige Ansicht. Das Wort Altersprüfung erscheint nicht. Ein etwaiger Hinweistext ist redaktionell gesetzt, nicht aus einem ermittelten Geburtsdatum abgeleitet.",
+        "URL /editor/ai: Freitext „Beschreibe die Szene“; Stilprofil; Sprache; Knopf „Szene vorschlagen“. Unter der Antwort: „Automatisch erstellter Entwurf. Prüfe den Text vor dem Einsetzen.“ Die spätere Veröffentlichung erfolgt über den Freigabedialog.",
+        "URL /report: Link; Kategorie; Beschreibung; E-Mail optional. Eingangsbestätigung: „Danke, wir haben deine Meldung aufgenommen.“ Kein versprochener Bearbeitungszeitpunkt. Der Meldeweg ist auch ohne Konto erreichbar.",
+        "URL /account/subscription: Preisvorschau 4,90 EUR monatlich. Kaufknopf im Test deaktiviert. Hinweise auf Widerruf und Kündigung sind noch nicht als endgültige Texte hinterlegt.",
+        "Abschrift erstellt von Jona Metz. Screenshots und Browsermitschnitt wurden für diese Übergabe noch nicht erstellt. Die Abschrift soll im nächsten Test gegen die tatsächlich ausgelieferte Oberfläche geprüft werden; sie ersetzt keinen historischen Nachweis."
+      ],
+      "nativeText": "Fiktiver Oberflächenexport vom 18. November 2026. Alle Domains enden auf .example und sind für Übungen bestimmt. Die Texte sind keine Anleitung zum Zugriff auf einen realen Dienst.\n\nURL /start: „Gemeinsam kreativ ab 15.“ Schaltflächen: Insel entdecken; Mit Einladung hinein; Eigene Insel bauen. Fußzeile: Hilfe, Bedingungen, Datenschutz. Sichtbar ohne Anmeldung.\n\nURL /register: E-Mail; Passwort; Anzeigename; Kästchen „Ich bin mindestens 16 Jahre alt“. Kein Geburtsdatum. Kein Uploadfeld. Ein Hinweis auf den Gastzugang fehlt auf dieser Seite.\n\nURL /invite/TEST-GAST-7: Anzeigename; Kästchen „Ich halte mich an die Raumregeln“. Kein Altersfeld. Hinweis: „Du trittst einem Teamraum bei.“ Die konkrete spätere Sichtbarkeit der Insel wird hier nicht erklärt.\n\nURL /island/IA-1184/share: Auswahl „Nur Team“, „Link teilen“, „In Entdecken aufnehmen“. Unter „Link teilen“: „Nicht öffentlich gelistet“. Kein ausdrücklicher Satz, dass jede Person mit dem Link zugreifen kann.\n\nURL /island/IA-1184: Vorschautitel und Kurzbeschreibung ohne Anmeldung. Nach Klick auf „Hinweis gelesen“ öffnet die vollständige Ansicht. Das Wort Altersprüfung erscheint nicht. Ein etwaiger Hinweistext ist redaktionell gesetzt, nicht aus einem ermittelten Geburtsdatum abgeleitet.\n\nURL /editor/ai: Freitext „Beschreibe die Szene“; Stilprofil; Sprache; Knopf „Szene vorschlagen“. Unter der Antwort: „Automatisch erstellter Entwurf. Prüfe den Text vor dem Einsetzen.“ Die spätere Veröffentlichung erfolgt über den Freigabedialog.\n\nURL /report: Link; Kategorie; Beschreibung; E-Mail optional. Eingangsbestätigung: „Danke, wir haben deine Meldung aufgenommen.“ Kein versprochener Bearbeitungszeitpunkt. Der Meldeweg ist auch ohne Konto erreichbar.\n\nURL /account/subscription: Preisvorschau 4,90 EUR monatlich. Kaufknopf im Test deaktiviert. Hinweise auf Widerruf und Kündigung sind noch nicht als endgültige Texte hinterlegt.\n\nAbschrift erstellt von Jona Metz. Screenshots und Browsermitschnitt wurden für diese Übergabe noch nicht erstellt. Die Abschrift soll im nächsten Test gegen die tatsächlich ausgelieferte Oberfläche geprüft werden; sie ersetzt keinen historischen Nachweis."
+    },
+    {
+      "id": "G25",
+      "folder": "01_Grundakte_ohne_Loesung",
+      "filename": "G25_Testdurchlaeufe_und_Luecken.csv",
+      "format": "csv",
+      "sender": "Wolkenwerft Worlds GmbH",
+      "recipient": "Interne Projektakte Inselatlas",
+      "date": "2026-11-18",
+      "title": "Testdurchläufe, Beobachtungen und noch nicht geprüfte Wege",
+      "paragraphs": [
+        "Die Testliste enthält Beobachtungen und ausdrücklich nicht ausgeführte Tests. Fehlende Ergebnisse sind kein Nachweis eines unauffälligen Produkts. Die Erwartungen des Teams sind Tatsachen über dessen Vorstellungen, keine juristischen Maßstäbe."
+      ],
+      "columns": [
+        "Test_ID",
+        "Datum",
+        "Rolle",
+        "Weg",
+        "Erwartung_des_Teams",
+        "Beobachtung",
+        "Nachweis",
+        "Status"
+      ],
+      "rows": [
+        [
+          "T01",
+          "2026-11-17",
+          "anonym",
+          "Registrierung ohne Altersbestaetigung",
+          "Weiter gesperrt",
+          "Weiter-Knopf gesperrt",
+          "manuelle Sichtung",
+          "beobachtet_keine_Gesamtfreigabe"
+        ],
+        [
+          "T02",
+          "2026-11-17",
+          "Gast",
+          "Gastlink",
+          "Altersfrage erwartet",
+          "Nur Name und Raumregeln",
+          "G17",
+          "Abweichung"
+        ],
+        [
+          "T03",
+          "2026-11-17",
+          "anonym",
+          "unlisted-public Link",
+          "Privater Zugriff erwartet",
+          "Ohne Einladung erreichbar",
+          "G22/G24",
+          "Begriffsmissverstaendnis"
+        ],
+        [
+          "T04",
+          "2026-11-17",
+          "anonym",
+          "team-private ohne Token",
+          "Zugriff gesperrt",
+          "Anmeldeseite angezeigt",
+          "manuelle Sichtung",
+          "beobachtet"
+        ],
+        [
+          "T05",
+          "2026-11-13",
+          "anonym",
+          "Vorschau nach Bildaenderung",
+          "Neues Bild",
+          "Alte Vorschau noch sichtbar",
+          "G10",
+          "Reproduktion_offen"
+        ],
+        [
+          "T06",
+          "2026-11-14",
+          "Mitglied",
+          "KI-01 Einsetzen ohne Veroeffentlichen",
+          "Nur Editor",
+          "Haupttext nur Editor; Titel in interner Suche",
+          "G07",
+          "Teilbefund"
+        ],
+        [
+          "T07",
+          "",
+          "Gast",
+          "KI-Ausgabe einer anderen Person lesen",
+          "Zu pruefen",
+          "",
+          "",
+          "nicht_durchgefuehrt"
+        ],
+        [
+          "T08",
+          "",
+          "anonym",
+          "Englische Warnhinweise auf Mobilgeraet",
+          "Zu pruefen",
+          "",
+          "",
+          "nicht_durchgefuehrt"
+        ],
+        [
+          "T09",
+          "",
+          "Teammitglied",
+          "Aenderung nach Inhaltskontrolle",
+          "Zu pruefen",
+          "",
+          "",
+          "nicht_durchgefuehrt"
+        ],
+        [
+          "T10",
+          "",
+          "anonym",
+          "Screenreader Beschreibung ausgeblendeter Vorschau",
+          "Zu pruefen",
+          "",
+          "",
+          "nicht_durchgefuehrt"
+        ],
+        [
+          "T11",
+          "2026-11-17",
+          "Administrator",
+          "Globalen KI-Schalter deaktivieren",
+          "Keine neuen Anfragen",
+          "Neue Anfragen abgewiesen; bestehende Texte bleiben",
+          "G11",
+          "begrenzter_Test"
+        ],
+        [
+          "T12",
+          "",
+          "Support",
+          "Meldung Freitag20Uhr",
+          "Verbindliche Zuordnung",
+          "",
+          "",
+          "Dienstplan_offen"
+        ]
+      ]
+    },
+    {
+      "id": "N01",
+      "folder": "02_Nachreichungen",
+      "filename": "N01_Neue_Beschwerde_weitergeleiteter_Link.eml",
+      "format": "eml",
+      "sender": "elias.berg@familie-berg.example",
+      "recipient": "hilfe@inselatlas.example",
+      "date": "2026-11-21",
+      "title": "Ein Link aus dem Team war in einer öffentlichen Gruppe",
+      "paragraphs": [
+        "Guten Tag,\nmein Sohn ist 14 und hat gestern in einer öffentlich zugänglichen Freizeitgruppe einen Inselatlas-Link gefunden. Er war zuvor nicht bei Ihnen registriert. Über den Link sah er einen Vorschaubildschirm und konnte danach eine Geschichte lesen. Es war nicht die ganze Insel spielbar. Er sagt, er habe nur einen Hinweis weggeklickt, aber kein Alter angegeben.",
+        "Ich möchte zunächst wissen, ob diese Vorschau von Ihnen oder von einem anderen Nutzer stammt. Auf der Seite war ein kleiner Hinweis auf einen Assistenten zu sehen. Daraus kann ich nicht erkennen, wer den Text veröffentlicht hat. Ich schicke Ihnen keinen kompletten Gruppenchat, sondern nur den betroffenen Link und den Zeitpunkt: 20. November, ungefähr 20:25 Uhr, mobile Ansicht. Die Insel-ID ist IA-1184; der Link endete zusätzlich auf preview=1.",
+        "Bitte verhindern Sie, dass aus meiner Nachricht unnötig weitere private Informationen über mein Kind in verschiedene Systeme kopiert werden. Für Rückfragen bin ich per E-Mail erreichbar. Ich erwarte eine nachvollziehbare Erklärung, welcher Zugang möglich war. Ob der Inhalt rechtlich unzulässig war, kann ich nicht beurteilen. Es geht mir vor allem darum, warum die Hinweise auf Ihre Altersgrenze hier offenbar nicht sichtbar waren.",
+        "Mit freundlichen Grüßen\nElias Berg",
+        "Übungsnachreichung: Diese Nachricht stammt aus einem späteren Zeitpunkt als die Grundakte. Sie ist als neue Behauptung zu prüfen, nicht als bereits bewiesene Bestätigung des ersten Supportfalls."
+      ],
+      "subject": "Ein Link aus dem Team war in einer öffentlichen Gruppe",
+      "messageId": "<n01-20261121@wolkenwerft-test.example>",
+      "sentAt": "2026-11-21T08:45:00+01:00"
+    },
+    {
+      "id": "N02",
+      "folder": "02_Nachreichungen",
+      "filename": "N02_Releaseaenderung_ohne_Gesamtfreigabe.docx",
+      "format": "docx",
+      "sender": "Cem Sander / Jona Metz",
+      "recipient": "Geschäftsführung und Beratung",
+      "date": "2026-11-23",
+      "title": "Änderungsblatt RC-12: Was seit der Grundakte anders ist",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Releaseänderung RC-12\nStand 23. November 2026, 17:30 Uhr · Kein abschließender Freigabevermerk",
+        "1. Anlass\nVor dem für den 24. November vorgesehenen Freigabegespräch wurden drei technische Änderungen vorgezogen. Der Kampagnentext lautet nun „Gemeinsam kreativ – öffentliche Beta ab Dezember“; die Zahl 15 wurde entfernt. Im Registrierungsformular bleibt die Bestätigung mindestens 16 bestehen. Bei neu erstellten Gastlinks erscheint zusätzlich ein Hinweis auf diese Kontoregel. Eine verlässliche Altersfeststellung ist damit nicht eingerichtet. Bereits versandte Gastlinks werden durch die Textänderung nicht automatisch ungültig.",
+        "2. Änderungen an der Freigabeoberfläche\n„Link teilen“ heißt nun „Mit Link für alle erreichbar“. Daneben steht ausdrücklich, dass der Link weitergeleitet werden kann. Die technische Sichtbarkeit bleibt dieselbe. Bestehende Räume behalten ihre Einstellungen. Eine Massenumstellung wurde nicht durchgeführt, weil sonst vereinbarte Testtermine unterbrochen würden. Die öffentliche Entdeckungsseite zeigt vorläufig nur redaktionell ausgewählte Inseln. Das schließt einen Zugriff auf andere Inseln über direkte Links nicht aus.",
+        "3. KI-Assistent\nNeue Generierungen sind für Gastrollen gesperrt; dies entspricht weitgehend dem bisherigen Zustand, wurde aber nun serverseitig erneut getestet. Für Mitglieder bleibt der Dienst aktiv. Eine Anzeige „KI-Entwurf“ erscheint im Editor. Bei einer manuell bearbeiteten Veröffentlichung wird die Herkunft nicht vollständig automatisiert nachverfolgt. Lumenpfad hat das Modell am 22. November auf LP-Story-2026-11 umgestellt. Das Team hat bisher nur KI-01 und KI-02 mit der neuen Version wiederholt. Die übrigen Szenarien aus G07 bleiben offen.",
+        "4. Neue Abweichung\nBeim Test mit der neuen Version wurde festgestellt, dass ein aus dem Szenenentwurf erzeugter Kurztext in die Vorschau übernommen wird, bevor der Haupttext endgültig veröffentlicht ist. Cem hat diesen automatischen Kurztextpfad deaktiviert. Ob ältere Vorschaudaten vollständig erneuert wurden, ist noch nicht nachgewiesen. Der Vorgang betrifft daher nicht nur zukünftige Generierungen. Die Bearbeitung der Beschwerde N01 darf nicht allein mit dem Hinweis auf die neue Oberfläche abgeschlossen werden.",
+        "5. Offene Entscheidungen\nRomy hat für das erste Wochenende eine Sichtung organisiert, aber keine dauerhafte Vertretung für alle Abendstunden. Die Unterlagen zur Selbstkontrolle bleiben unverändert unverbindlich. Die finanzielle Verflechtung ist noch nicht abschließend geklärt. Nora bittet darum, bei jeder Empfehlung zwischen dem Stand der Grundakte, den inzwischen geänderten Funktionen und den noch ungetesteten Punkten zu unterscheiden. Dieses Blatt beschreibt Änderungen; es enthält keine rechtliche Entwarnung und keine Genehmigung des Gesamtstarts."
+      ],
+      "layoutHint": "change-record"
+    },
+    {
+      "id": "N03",
+      "folder": "02_Nachreichungen",
+      "filename": "N03_Fiktive_LfK_Anhoerung.pdf",
+      "format": "pdf",
+      "sender": "Landesanstalt für Kommunikation Baden-Württemberg (LfK) – fiktives Übungsschreiben",
+      "recipient": "Wolkenwerft Worlds GmbH, z. Hd. Nora Wendt",
+      "date": "2026-11-25",
+      "title": "Anhörung und Bitte um Sachverhaltsangaben zum Dienst Inselatlas",
+      "paragraphs": [
+        "AUSSCHLIESSLICH FIKTIVES ÜBUNGSDOKUMENT – keine echte Behördenpost\nLandesanstalt für Kommunikation Baden-Württemberg (LfK)\nAn Wolkenwerft Worlds GmbH, z. Hd. der Geschäftsführung, Werkstattgasse 14, 79106 Freiburg im Breisgau\nÜbungszeichen: JM-WW-26/041 · Datum: 25. November 2026",
+        "Sehr geehrte Frau Wendt,\nuns liegen Hinweise auf frei erreichbare Vorschauen, geteilte Nutzerinhalte und einen automatisierten Szenenassistenten des Dienstes Inselatlas vor. Wir bitten Sie um eine Stellungnahme zu den nachfolgend bezeichneten tatsächlichen Abläufen. Dieses Schreiben enthält weder eine abschließende Feststellung eines Verstoßes noch eine Untersagung des Dienstes. Auch die Zuständigkeitsabgrenzung hinsichtlich der verschiedenen Funktionen ist noch nicht abgeschlossen. Die Benennung eines Browsergames allein ermöglicht keine einheitliche Einordnung sämtlicher eingebundener Dienste.",
+        "1. Gegenstand der Aufklärung\nBitte beschreiben Sie getrennt die öffentlich erreichbaren Vorschauen und Inseln, die redaktionelle Entdeckungsseite, eingeladene Teamräume, Gruppenkommunikation sowie den KI-Assistenten. Teilen Sie mit, welche Rechtsträger die einzelnen Funktionen anbieten und welche technische Kontrolle jeweils bei Ihnen liegt. Erbeten wird der tatsächliche Stand am 9., 20. und 23. November 2026 sowie der vorgesehene Umfang der öffentlichen Beta am 1. Dezember. Eine Darstellung ausschließlich der neuesten Oberfläche genügt zur Aufklärung früherer Zugangswege nicht.",
+        "2. Zugang und Inhalte\nBitte erläutern Sie, welche Angaben zum Alter abgefragt oder anderweitig festgestellt werden und wie Gastlinks sowie Vorschaulinks behandelt werden. Teilen Sie mit, welche inhaltlichen Prüfungen vor und nach einer Veröffentlichung stattfinden und ob Änderungen durch Teammitglieder erneut erfasst werden. Uns liegt lediglich eine Beschreibung einzelner als belastend empfundener Szenen vor; deren genauer Inhalt und Kontext sind noch nicht abschließend festgestellt. Es wird nicht verlangt, solche Inhalte neu zu erzeugen oder zu öffentlichen Demonstrationszwecken zu verbreiten.",
+        "3. Organisation und Datenbasis\nBitte benennen Sie die tatsächlich verfügbaren Meldewege, Bearbeitungszeiten, Verantwortlichkeiten und etwaige beauftragte externe Stellen. Falls Sie sich auf eine Mitgliedschaft, Bestellung oder Prüfung durch Dritte berufen, fügen Sie den entsprechenden Nachweis bei. Außerdem bitten wir um Erläuterung Ihrer Reichweitenangaben und der dabei verwendeten Messgrößen. Eine Zahl von Seitenaufrufen wird nicht ohne weitere Angaben mit einer Zahl aktiver Empfänger gleichgesetzt. Angaben zu Beschäftigten und wirtschaftlichen Verflechtungen sind nach der jeweiligen Datenbasis zu kennzeichnen.",
+        "4. Gelegenheit zur Stellungnahme\nWir bitten um Ihre Rückmeldung bis zum 9. Dezember 2026. Sofern Sie einzelne Unterlagen bis dahin nicht beschaffen können, benennen Sie bitte die fehlenden Bestandteile und den voraussichtlichen Bereitstellungstermin. Sie können eine Ergänzung oder Verlängerung anregen; eine solche ist mit diesem Schreiben noch nicht bewilligt. Bitte kennzeichnen Sie, wenn Sie einzelne Fragen für nicht von uns zu bearbeiten halten, und erläutern Sie Ihre Auffassung.",
+        "5. Übermittlung und Zugangsdokumentation der Übung\nDas Schreiben wurde im Fall am 25. November 2026 um 09:12 Uhr in das Übungspostfach der Gesellschaft eingestellt. Lea Hartmann öffnete es am selben Tag um 09:26 Uhr und leitete es um 09:41 Uhr an Nora weiter. Die technische Eingangsbestätigung trägt die Kennung WW-EIN-20261125-009. Ob und welche rechtlichen Wirkungen diese Zugangsangaben im gewählten Verfahren haben, bleibt eine Prüfungsfrage. Ein gesonderter Postzustellungsnachweis liegt nicht vor.",
+        "Für die ausschließlich fiktive Dokumentenablage ist https://anhoerung.lfk-uebung.example/WW-26-041 angegeben. Übungskennung: WW26-041; Übungscode: NUR-FIKTION-2026. Die Adresse ist keine echte Behördenadresse und der Code kein funktionsfähiges Geheimnis. Es dürfen dort keine realen Daten eingegeben werden. Die Kennungen dienen allein dazu, in der Schulung Eingangsvermerk, Zuordnung und sichere Übermittlung zu besprechen.",
+        "Mit freundlichen Grüßen\nM. Reuter\nFiktive Sachbearbeitung für diesen Übungsfall",
+        "Anlagen im Fall: Beschwerdebeschreibung N01 und Beschreibung des Produktstands. Eine abschließende Behördenentscheidung, ein Bußgeldbescheid oder eine Rechtsbehelfsentscheidung ist nicht Bestandteil dieser Nachreichung."
+      ],
+      "layoutHint": "fictional-authority-letter",
+      "fictionNotice": "Fiktive Schulungsunterlage; keine echte Behördenpost",
+      "accessLog": [
+        {
+          "event": "Eingang Übungspostfach",
+          "at": "2026-11-25T09:12:00+01:00"
+        },
+        {
+          "event": "Geöffnet durch Lea Hartmann",
+          "at": "2026-11-25T09:26:00+01:00"
+        },
+        {
+          "event": "Weitergeleitet an Geschäftsführung",
+          "at": "2026-11-25T09:41:00+01:00"
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "folder": "02_Nachreichungen",
+      "filename": "N04_Nachgereichte_Beteiligungsnotiz.pdf",
+      "format": "pdf",
+      "sender": "Ines Weiß, Finanzen",
+      "recipient": "Nora Wendt und Rechtsanwältin Amelie Vogt",
+      "date": "2026-11-26",
+      "title": "Neue Unterlagen zur Finanzierung: weiter keine vollständige Gruppenübersicht",
+      "paragraphs": [
+        "Wolkenwerft Worlds GmbH · Nachreichung vom 26. November 2026\nInes Weiß an Geschäftsführung und Beratung",
+        "Heute hat der Finanzierungsberater eine Kopie der bislang fehlenden Anlage 4 übersandt. Die Kopie enthält Zustimmungsvorbehalte des Investors für Jahresbudget, wesentliche neue Geschäftsfelder und die Aufnahme weiterer Finanzierungen. Die Einstellung einzelner Mitarbeitender unterhalb einer definierten Gehaltsgrenze wird ausdrücklich der Geschäftsführung überlassen. Ob daneben weitere verbindliche Absprachen existieren, beantwortet die Kopie nicht. Eine vollständige unterzeichnete Vertragsmappe fehlt weiterhin.",
+        "Der Berater erklärt per Begleitnotiz, die Kaufoption auf 25 Prozent der Tannenglas Studio GmbH sei bislang nicht ausgeübt. Einen Registerauszug des Studios und eine förmliche Bestätigung sämtlicher Beteiligter hat er nicht beigefügt. Er nennt außerdem zwei weitere Portfoliounternehmen von Nordkamm, ohne Angaben zu deren Beschäftigten, Umsätzen oder operativen Beziehungen zu Wolkenwerft. Das alte Pitchdeck eignet sich weiterhin nicht als verlässliches Organigramm rechtlicher Kontrolle.",
+        "Die Zahl der unmittelbar bei Wolkenwerft beschäftigten Personen beträgt unverändert 17. In der Novemberabrechnung werden zusätzlich Leistungen von fünf externen Studiokräften abgerechnet. Sie sind nach den vorliegenden Rechnungen dem Studio zugeordnet; ob ihre konkrete Zusammenarbeit weitere Fragen auslöst, wurde hier nicht untersucht. Die Rechnungen erlauben jedenfalls keine einfache Gleichsetzung mit fünf zusätzlichen Beschäftigten der GmbH.",
+        "Nora bittet darum, die Auswirkungen der neuen Unterlagen auf zuvor angenommene Größenmerkmale und Ausnahmen gesondert zu prüfen. Eine frühere Einschätzung soll nicht allein deshalb unverändert fortgeführt werden, weil der operative Betrieb gleich aussieht. Umgekehrt soll aus einem Zustimmungsvorbehalt nicht ohne Auswertung des vollständigen Zusammenhangs jede denkbare Unternehmensverbindung als bewiesen behandelt werden.",
+        "Diese Nachreichung enthält neue Tatsachen und weiterhin offene Lücken. Sie enthält keine abschließende rechtliche Gruppenqualifikation, keine Schwellenwertberechnung und keine behördliche Entscheidung."
+      ],
+      "layoutHint": "corporate-supplement"
+    },
+    {
+      "id": "V01",
+      "folder": "03_Vorlagen",
+      "filename": "V01_Leere_Sachverhalts_und_Belegmatrix.docx",
+      "format": "docx",
+      "sender": "Schulungsunterlage",
+      "recipient": "Bearbeitende Person",
+      "date": "2026-11-18",
+      "title": "Vorlage: Sachverhalt aus den Unterlagen entwickeln",
+      "paragraphs": [
+        "Leere Arbeitsvorlage – keine Musterlösung\nBearbeitung: ____________________ · Datum: ____________________ · untersuchter Stand: ____________________",
+        "1. Welche Funktion oder welcher Vorgang wird betrachtet?\n________________________________________________________________________________",
+        "2. Welche Tatsache ist belegt, lediglich behauptet oder noch offen?\n________________________________________________________________________________",
+        "3. Welches Dokument, welche konkrete Passage und welcher Zeitpunkt tragen die Feststellung?\n________________________________________________________________________________",
+        "4. Welche Gegenangabe oder spätere Änderung muss berücksichtigt werden?\n________________________________________________________________________________",
+        "5. Welche Unterlage oder welcher Test fehlt; wer kann ihn liefern?\n________________________________________________________________________________",
+        "6. Welche Frage soll als Nächstes beantwortet werden?\n________________________________________________________________________________"
+      ],
+      "columns": [
+        "Vorgang/Funktion",
+        "Tatsache/Behauptung/Lücke",
+        "Beleg und Fundstelle",
+        "Zeitpunkt",
+        "Gegenangabe",
+        "Nachforderung",
+        "Verantwortlich"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "layoutHint": "blank-template"
+    },
+    {
+      "id": "V02",
+      "folder": "03_Vorlagen",
+      "filename": "V02_Leere_Funktionsentscheidung_Beta.docx",
+      "format": "docx",
+      "sender": "Schulungsunterlage",
+      "recipient": "Bearbeitende Person",
+      "date": "2026-11-18",
+      "title": "Vorlage: Entscheidung zu einer einzelnen Beta-Funktion",
+      "paragraphs": [
+        "Leere Entscheidungsvorlage – keine Freigabe und keine rechtliche Bewertung vorgegeben\nFunktion: ____________________ · Produktversion: ____________________ · Entscheidungsdatum: ____________________",
+        "1. Tatsächlicher Nutzerweg und erreichbarer Personenkreis\n________________________________________________________________________________",
+        "2. Maßgebliche Unterlagen und noch unsichere Annahmen\n________________________________________________________________________________",
+        "3. Zu prüfende rechtliche Fragen, Quellen und Grenzen\n________________________________________________________________________________",
+        "4. Handlungsoptionen, benötigte Tests und Auswirkungen\n________________________________________________________________________________",
+        "5. Entscheidung, verantwortliche Person und Voraussetzungen\n________________________________________________________________________________",
+        "6. Nachweis der Umsetzung, erneute Prüfung bei Änderungen und offene Punkte\n________________________________________________________________________________",
+        "Unterschrift / dokumentierte Freigabe: ____________________"
+      ],
+      "layoutHint": "blank-template"
+    },
+    {
+      "id": "V03",
+      "folder": "03_Vorlagen",
+      "filename": "V03_Leere_Stellungnahme_Anhoerung.docx",
+      "format": "docx",
+      "sender": "Schulungsunterlage",
+      "recipient": "Bearbeitende Person",
+      "date": "2026-11-18",
+      "title": "Vorlage: Stellungnahme nach einer Anhörung",
+      "paragraphs": [
+        "[Briefkopf / vertretende Person / Kontaktdaten]\n[Empfänger und Anschrift]\n[Datum] · [Aktenzeichen] · [Betreff]",
+        "Sehr geehrte Damen und Herren,",
+        "1. Vertretung, Bezugsschreiben, Zugang und Frist\n[Hier den eigenen Text einsetzen. Zugang und Frist anhand der tatsächlichen Unterlagen prüfen.]",
+        "2. Sachverhalt getrennt nach Funktionen und Zeitständen\n[Hier den eigenen Text mit Belegstellen und noch offenen Tatsachen einsetzen.]",
+        "3. Einordnung der angesprochenen Fragen\n[Hier die selbst erarbeitete rechtliche Begründung und geprüfte Quellen einsetzen.]",
+        "4. Erläuterung inzwischen erfolgter Änderungen\n[Hier zwischen früherem Zustand, tatsächlicher Änderung und noch fehlendem Nachweis unterscheiden.]",
+        "5. Anträge, Rückfragen oder weitere Verfahrensschritte\n[Hier den zum geprüften Ergebnis passenden Text einsetzen.]",
+        "[Grußformel / Unterschrift]\n[Anlagenverzeichnis]",
+        "Diese Vorlage enthält keine Klage, keine fertige Behördenantwort und keine vorweggenommene Lösung."
+      ],
+      "layoutHint": "blank-template"
+    },
+    {
+      "id": "V04",
+      "folder": "03_Vorlagen",
+      "filename": "V04_Leere_Pruef_und_Massnahmenliste.csv",
+      "format": "csv",
+      "sender": "Schulungsunterlage",
+      "recipient": "Bearbeitende Person",
+      "date": "2026-11-18",
+      "title": "Leere Prüf- und Maßnahmenliste",
+      "paragraphs": [
+        "Leere Tabelle zum eigenen Befüllen. Keine Zeile enthält eine Risikobewertung, Rechtsfolge oder Freigabe."
+      ],
+      "columns": [
+        "ID",
+        "Funktion",
+        "Zeitstand",
+        "Tatsachenbeleg",
+        "Offene_Frage",
+        "Zu_pruefende_Quelle",
+        "Ergebnis_der_eigenen_Pruefung",
+        "Massnahme",
+        "Zustaendig",
+        "Frist",
+        "Umsetzungsnachweis",
+        "Wiedervorlage"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

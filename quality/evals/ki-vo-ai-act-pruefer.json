@@ -354,5 +354,22 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "reviewed_file_hashes": {
+    "ki-vo-ai-act-pruefer/skills/anbieter-werden-art-25/FACHINHALT.md": "8624a633d0a612e075551db00cc35649392d7e968c59571535a3a699ad340d44"
+  },
+  "issue_followup_2026_11_18": {
+    "date": "2026-11-18",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "report": "quality/source-audits/2026-11-18-issues/ki-daten.md",
+    "report_sha256": "31ba10543a31b5c7dc29e1d70766b77f03fe7807230f1bc9f9b1041df59cac7f",
+    "files": {
+      "ki-vo-ai-act-pruefer/skills/anbieter-werden-art-25/FACHINHALT.md": {
+        "before_sha256": "9039a3cd9ba001af1f2a37c80ae3a2a98263fe4232fff2adcd61956c3c4d7ffb",
+        "reviewed_sha256": "8624a633d0a612e075551db00cc35649392d7e968c59571535a3a699ad340d44",
+        "full_file_read": true
+      }
+    },
+    "limits": "Nur die bezeichneten Fachmodule und Quellenergänzungen; kein neuer vollständiger Prompt-Review, keine gesamte Rechtsprechungsprüfung und kein Live-Modelltest. Historische Reviews und ihre Daten unverändert."
   }
 }
