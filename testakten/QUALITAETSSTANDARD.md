@@ -24,6 +24,16 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 - Belege nicht nur behaupten, sondern als Datei, Tabelle, E-Mail, Scan oder Foto anlegen.
 - Juristische Spezialfragen nicht spoilern; die Akte darf neugierig machen, soll aber nicht lösen.
 
+### Seriöse und verständliche Beispielsfälle
+
+Testakten eignen sich für eine professionelle Vorführung vor Mandanten, Unternehmen, Behörden und Fortbildungsgruppen. Sie enthalten keine anrüchigen oder obszönen Darstellungen. Rechtlich erhebliche Grenzfälle werden nüchtern und, soweit erforderlich, abstrakt beschrieben. Die sachliche Benennung eines gesetzlichen Verbots oder eines Vorwurfs ist kein Anlass, dessen Inhalt bildlich oder ausführlich nachzustellen.
+
+Gefahren und Fehlverhalten können Gegenstand der Prüfung sein. Die Unterlagen liefern jedoch keine ausführbaren Schadprogramme, nutzbaren Zugangsdaten oder praktisch umsetzbaren Anleitungen zur Schädigung oder zur Umgehung von Schutzmaßnahmen. Ein technischer Vorfall lässt sich etwa durch ungefährliche Protokollauszüge, neutrale Platzhalter für schädliche Inhalte und nachvollziehbare Folgen belegen. Solche Auslassungen sind als Auslassungen erkennbar; sie dürfen keine entscheidenden Tatsachen erfinden oder verdecken.
+
+Die Lebensnähe entsteht durch verständliche Geschäftsvorgänge: Wer ist beteiligt, welche Leistung oder welches Produkt gibt es, was wurde vereinbart, was ist geschehen, welche Unterlagen widersprechen sich und was soll jetzt entschieden werden? Briefe, Verträge, Rechnungen, Nachrichten und Tabellen tragen diese Tatsachen selbst. Eine Prüfmatrix oder eine kurze Fallzusammenfassung ersetzt die Aktenstücke nicht. Vorwürfe gegen Beteiligte werden für die Testakte erfundenen Personen und Unternehmen zugeordnet; amtliche Stellen und überprüfte Rechtsquellen dürfen korrekt benannt werden.
+
+Vor der Freigabe die tatsächlichen Texte, Bilder, Anlagen und eingebetteten E-Mail-Dateien durchsehen. Eine unauffällige Dateibezeichnung oder eine reine Stichwortsuche belegt weder Verständlichkeit noch einen angemessenen Inhalt. Grundakte, spätere Ermittlungen oder Verfahren sowie gesonderte Vorlagen bleiben als unterschiedliche Bearbeitungsstände erkennbar.
+
 ### Grundakte für die erste Bearbeitung
 
 Fallakten mit ausreichend abgrenzbaren Eingangsunterlagen enthalten im Originalformat-ZIP den Unterordner `Grundakte`. Er bildet die für den ersten Arbeitsauftrag belegbare Sachgrundlage ab, etwa durch Erstkontakt, Verträge, E-Mails, Buchungen, Tabellen, Bilder oder technische Rohdaten. Ein bereits ergangener Ausgangsbescheid kann dazugehören. Ausgearbeitete Rechtsbehelfe, Entscheidungen darüber, gerichtliche Stücke, Lösungstexte und die Gesamt-PDF stehen außerhalb der Grundakte. Bei Mischdokumenten ist ein klar bezeichneter Tatsachenauszug möglich. Prüfen Sie bei E-Mails auch die eingebetteten Anlagen.

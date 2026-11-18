@@ -2,6 +2,16 @@
 
 Dieses Repository enthält Plugins für deutsche Kanzleien. Diese Datei gilt für **jedes** Werkzeug, das hier arbeitet. Der vollständige Leitfaden steht im zentralen Repository-Leitfaden im Wurzelverzeichnis; halte dich an beide.
 
+## Umfang und Qualität fachlicher Plugins
+
+Beitragsanfragen zuerst auf fachlichen Nutzen und Richtigkeit prüfen. Sinnvolle Ergänzungen eigenständig ausarbeiten; ein neues Plugin nur anlegen, wenn es einen klaren eigenen Arbeitsauftrag erfüllt. Ein bereits passendes Paket gezielt verbessern. Eine erledigte Anfrage begründet kein zweites gleichartiges Plugin.
+
+- Im Regelfall höchstens zehn aktive Skills, bei fachlich begründetem Mehrbedarf höchstens zwanzig. Der Hauptskill zählt mit. Fachvertiefungen dürfen ausführlich sein und über klar benannte Abschnitte oder lokale Referenzdateien erreichbar bleiben; keine zusätzlichen Skills allein zur Zerteilung eines zusammenhängenden Arbeitswegs.
+- Jedes fachliche Plugin hat einen eindeutig benannten Hauptskill, der den Gesamtauftrag führt, die passenden Spezialskills einbindet und bis zum bestellten Arbeitsprodukt weiterarbeitet.
+- Dazu gehören ein eigenständig nutzbarer großer Werkstatt-Prompt, ein eigenständig nutzbarer Mini-Prompt und zugeordnete Testakten. Die README macht diese Einstiege und ihre unterschiedlichen Zwecke unmittelbar auffindbar.
+- Prompts und Skills beginnen verständlich beim konkreten Fachproblem. Sie verbinden Unterlagen, entscheidende Rückfragen, belegte Rechtsprüfung, Gegenargumente und das vollständig ausformulierte Ergebnis. Länge dient der fachlichen Tiefe, nicht der Wiederholung. Rechtsprechung und Gesetzgebung nach den Quellenregeln prüfen; Recherchegrenzen offen benennen.
+- Testakten sind seriös, anschaulich und lebensnah. Sie erklären Beteiligte, Ablauf, Unterlagen und den noch offenen Arbeitsauftrag durch konkrete Aktenstücke. Der [Testakten-Qualitätsstandard](testakten/QUALITAETSSTANDARD.md) regelt Darstellung, Originalformate und die getrennte Grundakte. Beim Bündeln von Skills bleiben bestehende Testakten erhalten.
+
 ## README-Einstiege
 
 READMEs beginnen mit Zweck, Zielgruppe und Benutzung des jeweiligen Angebots. Keine vorangestellte Änderungschronik, keine Meldungen wie „Neu“, „Erweitert“ oder Vergleiche mit Vorgängerversionen. Versionsstände und Änderungen gehören ins Changelog oder in Release-Notes; im README genügt ein Verweis nach der Einführung. Fachlich erforderliche Rechtsstandsangaben und konkrete Nutzungshinweise bleiben erhalten.

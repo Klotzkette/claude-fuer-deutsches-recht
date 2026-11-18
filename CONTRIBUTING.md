@@ -9,6 +9,8 @@ Beiträge sind willkommen – insbesondere zu neuen Rechtsgebieten, aktuelleren 
 - [ ] Methodik nach [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md).
 - [ ] Skill-Frontmatter vollständig und validatorfest (ausschließlich `name` und `description`).
 - [ ] Skills sind kanzleitauglich (reproduzierbar, mit Quellenpflicht, mit Fristlogik wo relevant).
+- [ ] Fachliches Plugin: klarer Hauptskill, im Regelfall höchstens zehn und insgesamt höchstens zwanzig aktive Skills einschließlich Hauptskill; Werkstatt-Prompt, Mini-Prompt und passende Testakten nach [AGENTS.md](./AGENTS.md).
+- [ ] Testakten tatsächlich durchgesehen: verständlicher Sachverhalt, seriöse Darstellung, keine obszönen Inhalte oder praktisch gefährlichen Anleitungen; Bearbeitungsstände und Grundakte nach dem [Qualitätsstandard](./testakten/QUALITAETSSTANDARD.md) getrennt.
 - [ ] Keine Mandantendaten / personenbezogene Daten im Beispiel.
 - [ ] `node scripts/validate-plugin-structure.mjs` läuft fehlerfrei.
 - [ ] `python3 scripts/validate-yaml-frontmatter.py` läuft fehlerfrei.
