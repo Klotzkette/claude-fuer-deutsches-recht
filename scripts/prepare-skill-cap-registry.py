@@ -14,9 +14,13 @@ import re
 import unicodedata
 from themen_profile import profile_for
 from skill_cap_taxonomy import TOPICS
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 ROOT = Path(__file__).resolve().parents[1]
 STOP = set('und oder mit fuer von der die das den dem des ein eine einen einer einem im in zu zur zum als auf aus an am durch nach bei vor ist sind wird werden pruefen pruefung bearbeiten erstellen klaeren sowie getrennt konkret konkrete konkreten bestimmen fall fachlich'.split())
+NAME_ACTIONS = set('pruefen bearbeiten erstellen gestalten ausarbeiten kontrollieren auswerten ordnen einordnen berechnen vorbereiten planen organisieren steuern koordinieren entscheiden durchsetzen begleiten bewerten abstimmen analysieren formulieren beantworten verhandeln klaeren umsetzen vollziehen abrechnen dokumentieren vergleichen bestimmen sichern abschliessen fuehren'.split())
+GENERIC_NAME_WORDS = STOP | NAME_ACTIONS | set('skill skills workflow fachworkflow modul module kompendium kompendien allgemein spezial hauptsache hauptskill hauptworkflow hauptauftrag aufgabe aufgaben test thema themen bereich fachbereich fachthema faelle'.split())
+NAME_CONNECTORS = set('und oder mit fuer von der die das den dem des ein eine einen einer einem im in zu zur zum als auf aus an am durch nach bei vor'.split())
 
 # Die allgemeine Familie reicht für diese spezialisierten Produkte nicht aus.
 # Jede Station beschreibt Anlass und bearbeitbares Ergebnis, nicht nur ein Menü.
@@ -111,22 +115,64 @@ def clean(s):
     return re.sub(r'\s*->\s*skills/[^:]+:', ':', s).strip()
 
 def title(s):
-    head=s.split(':',1)[0].rstrip('.')
-    if len(head)>82: head=' '.join(head.split()[:9])
-    return head
+    return ' '.join(s.split(':',1)[0].strip().rstrip('.').split())
 
 def slug(s):
-    s=re.sub('[^a-z0-9]+','-',norm(s)).strip('-')
-    return s[:52].rstrip('-')+'-bearbeiten'
+    """Begriffswahrender Namensvorschlag; keine Prüfung fachlicher Qualität."""
+    tokens=re.findall('[a-z0-9]+',norm(s))
+    def meaningful(parts):
+        return any(re.search('[a-z]',word) and word.rstrip('0123456789') not in GENERIC_NAME_WORDS for word in parts)
+    if not meaningful(tokens):
+        raise ValueError(f'Verständlichen fachlichen Skill-Namen redaktionell festlegen: {s!r}')
+    action=tokens[-1] if tokens[-1] in NAME_ACTIONS else 'bearbeiten'
+    subject=tokens[:-1] if tokens[-1] in NAME_ACTIONS else tokens[:]
+    budget=64-len(action)-1
+    shortened=False
+    while subject and len('-'.join(subject))>budget:
+        subject.pop()
+        shortened=True
+    if shortened:
+        while subject and subject[-1] in NAME_CONNECTORS:
+            subject.pop()
+    if not meaningful(subject):
+        raise ValueError(f'Skill-Namen ohne Wortabbruch auf höchstens 64 Zeichen kürzen: {s!r}')
+    return '-'.join([*subject,action])
+
+def protect_entry_skills(name, keep, docs, profiles):
+    """Erhält deklarierte Einstiege; bewertet keinen vollständigen Hauptworkflow."""
+    profile=profiles.get(name)
+    entries=profile.get('entry_skills') if isinstance(profile,dict) else None
+    if (not isinstance(entries,list) or not 1<=len(entries)<=3
+            or any(not isinstance(entry,str) or not re.fullmatch('[a-z0-9]+(?:-[a-z0-9]+)*',entry) for entry in entries)
+            or len(set(entries))!=len(entries)):
+        raise ValueError(f'{name}: eindeutige Einstiegsskills im Visualisierungsprofil erforderlich')
+    if (not isinstance(keep,list) or any(not isinstance(item,str) for item in keep)
+            or len(set(keep))!=len(keep)):
+        raise ValueError(f'{name}: keep muss eindeutige vorhandene Skill-Namen enthalten')
+    missing=set(entries)-set(docs)
+    if missing:
+        raise ValueError(f'{name}: deklarierte Einstiegsskills fehlen als SKILL.md: {sorted(missing)}')
+    unprotected=set(entries)-set(keep)
+    if unprotected:
+        raise ValueError(f'{name}: bestehende Einstiegsskills in keep erhalten: {sorted(unprotected)}')
+    if set(keep)-set(docs):
+        raise ValueError(f'{name}: in keep genannte Skills fehlen: {sorted(set(keep)-set(docs))}')
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--keep',type=Path,required=True)
     parser.add_argument('--output',type=Path,required=True)
     args=parser.parse_args()
+    profile_data=json.loads((ROOT/'scripts/data/werkstatt-visualisierung-profile.json').read_text())
+    if profile_data.get('schema_version')!=1 or not isinstance(profile_data.get('plugins'),dict):
+        raise ValueError('Gültige bestehende Visualisierungsprofile für die Einstiegsskills erforderlich')
+    entry_profiles=profile_data['plugins']
     registry={'schema_version':1,'plugins':[]}; review=[]
     for item in json.loads(args.keep.read_text())['plugins']:
-        name=item['name']; root=ROOT/item['source']; profile=profile_for(name)
+        name=item['name']; root=ROOT/item['source']
+        docs={p.parent.name:p.read_text() for p in (root/'skills').glob('*/SKILL.md')}
+        protect_entry_skills(name,item['keep'],docs,entry_profiles)
+        profile=profile_for(name)
         topics=TOPICS.get(name,TOPICS.get(profile.key,[]))
         stations=[clean(s) for s in PLUGIN_OVERRIDES.get(name,OVERRIDES.get(profile.key,profile.stationen))]
         if topics: stations=[s for s,rx in topics]
@@ -137,8 +183,6 @@ def main():
             'Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären.',
         ]
         stations+=shared
-        if len(stations)>20-len(item['keep']): raise ValueError(f'Taxonomie manuell verdichten: {name}')
-        docs={p.parent.name:p.read_text() for p in (root/'skills').glob('*/SKILL.md')}
         groups=[[] for s in stations]
         # Nur der Entwurf nutzt diese Hilfe. Alle Zuordnungen stehen explizit in
         # der Registry und können dort ohne versteckte Laufzeitheuristik geändert werden.
@@ -180,7 +224,8 @@ def main():
         for i,(station,members) in enumerate(zip(stations,groups)):
             if not members:continue
             heading=title(station); route_slug=slug(heading)
-            if route_slug in docs or any(r['slug']==route_slug for r in routes): route_slug=f'fachworkflow-{i+1:02d}-'+route_slug[:48]
+            if route_slug in docs or any(r['slug']==route_slug for r in routes):
+                raise ValueError(f'{name}: Skill-Name {route_slug!r} für {heading!r} kollidiert; einen fachlich unterscheidbaren Namen redaktionell festlegen')
             topic_examples=[]
             for member in members[:2]:
                 h=re.search(r'^#\s+(.+)',docs[member],re.M)
@@ -194,6 +239,9 @@ def main():
                 'outputs':[f'Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „{heading}“, mit konkreten Belegstellen und erkennbaren offenen Punkten.', 'Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.'],
                 'examples':topic_examples,'members':members,
             })
+        active_count=len(item['keep'])+len(routes)
+        if active_count>MAX_ACTIVE_SKILLS_PER_PLUGIN:
+            raise ValueError(f'{name}: {active_count} aktive Skills überschreiten {MAX_ACTIVE_SKILLS_PER_PLUGIN}; Taxonomie manuell verdichten')
         registry['plugins'].append({'name':name,'source':item['source'],'keep':item['keep'],'routes':routes})
     args.output.parent.mkdir(parents=True,exist_ok=True)
     args.output.write_text(json.dumps(registry,ensure_ascii=False,indent=2)+'\n')

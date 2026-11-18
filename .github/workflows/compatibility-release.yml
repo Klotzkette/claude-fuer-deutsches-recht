@@ -13,6 +13,13 @@ on:
       - 'ki-halluzinationsreduzierer/**'
       - 'phishing-vorfall-pruefer/scripts/**'
       - 'scripts/*runtime-performance*'
+      - 'scripts/skill_limits.py'
+      - 'scripts/*skill-cap*'
+      - 'scripts/data/skill-cap-registry.schema.json'
+      - 'scripts/*skill-quality-release*'
+      - 'scripts/test-skill-registry-preparation.py'
+      - 'scripts/add-finale-entscheidung-skill.py'
+      - 'scripts/test-final-decision-generator.py'
       - 'scripts/*plugin-consolidation*'
       - 'quality/plugin-consolidation/**'
       - 'scripts/*quickstart-usability*'
@@ -105,6 +112,11 @@ jobs:
       - name: Regressionen prüfen
         run: |
           python3 scripts/test-runtime-performance.py
+          python3 scripts/test-skill-cap-migration.py
+          python3 scripts/test-skill-cap-integration.py
+          python3 scripts/test-skill-quality-release.py
+          python3 scripts/test-skill-registry-preparation.py
+          python3 scripts/test-final-decision-generator.py
           python3 scripts/test-plugin-consolidation.py
           python3 scripts/test-skill-activation.py
           python3 scripts/test-skill-source-replacements.py

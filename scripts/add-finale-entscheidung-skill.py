@@ -2,16 +2,29 @@
 """Erzeugt pro gerichtlichem Plugin einen Skill, der die finale Entscheidung
 als versandfertigen Volltext erzeugt (Urteil, Beschluss, Strafbefehl, Anklageschrift etc.).
 
-Skill-Name: 99-finale-entscheidung-volltext
+Neue Skills heißen entscheidung-volltext-erstellen. Bestehende aktive oder
+konsolidierte Fassungen bleiben unverändert; insbesondere wird der frühere
+Name 99-finale-entscheidung-volltext nicht umbenannt oder reaktiviert.
 
 Inhalt richtet sich nach Spruchkoerper und Verfahrensart.
 """
 from __future__ import annotations
+
+if __name__ == "__main__":
+    from generator_cli import parse_generator_cli
+
+    parse_generator_cli(__doc__)
+
+import json
 import pathlib
+import re
+
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
-SKILL_NAME = "99-finale-entscheidung-volltext"
+SKILL_NAME = "entscheidung-volltext-erstellen"
+LEGACY_SKILL_NAME = "99-finale-entscheidung-volltext"
 
 # (relative path, description fuer Frontmatter, Inhalt-Bausteine)
 # Inhalt = (heading, entscheidungsart, normen, struktur_liste)
@@ -221,18 +234,82 @@ def make_description(title: str) -> str:
     return desc[:300]
 
 
-def main() -> int:
-    created = 0
-    skipped = 0
-    for rel, cfg in PLUGINS.items():
-        plugin_dir = ROOT / rel
-        if not plugin_dir.is_dir():
-            print(f"MISSING {rel}")
-            skipped += 1
+def safe_target(root: pathlib.Path, relative: str | pathlib.Path) -> pathlib.Path:
+    relative = pathlib.Path(relative)
+    if relative.is_absolute() or not relative.parts or ".." in relative.parts:
+        raise ValueError(f"Ungültiger Zielpfad: {relative}")
+    candidate = root
+    for part in relative.parts:
+        candidate /= part
+        if candidate.is_symlink():
+            raise ValueError(f"Verlinkter Zielpfad: {relative}")
+    if not candidate.resolve().is_relative_to(root):
+        raise ValueError(f"Zielpfad außerhalb des Repositories: {relative}")
+    return candidate
+
+
+def generation_plan(root: pathlib.Path, plugins: dict) -> tuple[list[tuple[pathlib.Path, str]], list[str]]:
+    """Prüft alle Ziele vor dem ersten Schreibzugriff; bewertet keine Fachtexte."""
+    root = root.resolve()
+    profile_path = safe_target(root, "scripts/data/werkstatt-visualisierung-profile.json")
+    profiles = {}
+    if profile_path.exists():
+        data = json.loads(profile_path.read_text(encoding="utf-8"))
+        if not isinstance(data, dict) or data.get("schema_version") != 1 or not isinstance(data.get("plugins"), dict):
+            raise ValueError("Ungültige bestehende Einstiegsprofile")
+        profiles = data["plugins"]
+    outputs, skipped = [], []
+    targets = set()
+    for rel, cfg in plugins.items():
+        plugin_dir = safe_target(root, rel)
+        if not plugin_dir.exists():
+            skipped.append(f"MISSING {rel}")
             continue
-        skill_dir = plugin_dir / "skills" / SKILL_NAME
-        skill_dir.mkdir(parents=True, exist_ok=True)
-        skill_file = skill_dir / "SKILL.md"
+        if not plugin_dir.is_dir():
+            raise ValueError(f"Pluginziel ist kein Verzeichnis: {rel}")
+        skills_dir = safe_target(root, pathlib.Path(rel) / "skills")
+        if skills_dir.exists() and not skills_dir.is_dir():
+            raise ValueError(f"Skillziel ist kein Verzeichnis: {rel}/skills")
+        active = set()
+        for path in skills_dir.glob("*/SKILL.md"):
+            safe_target(root, path.relative_to(root))
+            if not path.is_file():
+                raise ValueError(f"Skill ist keine reguläre Datei: {path.relative_to(root)}")
+            active.add(path.parent.name)
+        profile = profiles.get(plugin_dir.name)
+        if plugin_dir.name in profiles:
+            entries = profile.get("entry_skills") if isinstance(profile, dict) else None
+            if (not isinstance(entries, list) or not entries
+                    or any(not isinstance(name, str) or not re.fullmatch(r"[a-z0-9-]{1,64}", name) for name in entries)
+                    or len(entries) != len(set(entries))):
+                raise ValueError(f"Ungültige deklarierte Einstiegsskills: {rel}")
+            missing = set(entries) - active
+            if missing:
+                raise ValueError(f"Deklarierte Einstiegsskills fehlen: {rel}: {sorted(missing)}")
+        existing = []
+        for name in (SKILL_NAME, LEGACY_SKILL_NAME):
+            directory = safe_target(root, pathlib.Path(rel) / "skills" / name)
+            if directory.exists() and not directory.is_dir():
+                raise ValueError(f"Skillziel ist kein Verzeichnis: {directory.relative_to(root)}")
+            for filename in ("SKILL.md", "FACHINHALT.md"):
+                candidate = safe_target(root, directory.relative_to(root) / filename)
+                if candidate.exists():
+                    if not candidate.is_file():
+                        raise ValueError(f"Vorhandener Fachtext ist keine Datei: {candidate.relative_to(root)}")
+                    existing.append(candidate)
+        if existing:
+            skipped.append(f"PRESERVED {rel}: vorhandener aktiver oder konsolidierter Entscheidungsskill")
+            continue
+        projected = len(active) + 1
+        if projected > MAX_ACTIVE_SKILLS_PER_PLUGIN:
+            raise ValueError(
+                f"{rel}: {projected} aktive Skills einschließlich Einstiegsskills "
+                f"überschreiten {MAX_ACTIVE_SKILLS_PER_PLUGIN}"
+            )
+        skill_file = skills_dir / SKILL_NAME / "SKILL.md"
+        if skill_file in targets:
+            raise ValueError(f"Doppeltes Ausgabeziel: {skill_file.relative_to(root)}")
+        targets.add(skill_file)
         title = cfg["title"]
         desc = make_description(title)
         content = SKILL_TEMPLATE.format(
@@ -243,10 +320,25 @@ def main() -> int:
             normen=cfg["normen"],
             tenor_beispiel=cfg["tenor_beispiel"],
         )
-        skill_file.write_text(content, encoding="utf-8")
-        created += 1
-        print(f"CREATED {skill_file.relative_to(ROOT)}")
-    print(f"Fertig: created={created} skipped={skipped}")
+        outputs.append((skill_file, content))
+    return outputs, skipped
+
+
+def main() -> int:
+    try:
+        outputs, skipped = generation_plan(ROOT, PLUGINS)
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        print(f"FEHLER: {exc}")
+        return 1
+    for message in skipped:
+        print(message)
+    for skill_file, content in outputs:
+        skill_file.parent.mkdir(parents=True, exist_ok=True)
+        # Selbst bei einer Änderung nach der Vorabprüfung keine Datei ersetzen.
+        with skill_file.open("x", encoding="utf-8") as handle:
+            handle.write(content)
+        print(f"CREATED {skill_file.relative_to(ROOT.resolve())}")
+    print(f"Fertig: created={len(outputs)} skipped={len(skipped)}")
     return 0
 
 

@@ -9,6 +9,11 @@ on:
       - 'scripts/test-reviewed-law-corrections.py'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
+      - 'scripts/skill_limits.py'
+      - 'scripts/prepare-skill-cap-registry.py'
+      - 'scripts/test-skill-registry-preparation.py'
+      - 'scripts/add-finale-entscheidung-skill.py'
+      - 'scripts/test-final-decision-generator.py'
       - 'scripts/test-prompt-generator-excerpts.py'
       - 'scripts/test-generate-megaprompt.py'
       - 'scripts/generate-*.py'
@@ -24,6 +29,11 @@ on:
       - 'scripts/test-reviewed-law-corrections.py'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
+      - 'scripts/skill_limits.py'
+      - 'scripts/prepare-skill-cap-registry.py'
+      - 'scripts/test-skill-registry-preparation.py'
+      - 'scripts/add-finale-entscheidung-skill.py'
+      - 'scripts/test-final-decision-generator.py'
       - 'scripts/test-prompt-generator-excerpts.py'
       - 'scripts/test-generate-megaprompt.py'
       - 'scripts/generate-*.py'
@@ -49,7 +59,10 @@ jobs:
       - name: Eigenständig geprüfte Norm- und Verfahrenskorrekturen testen
         run: python3 scripts/test-reviewed-law-corrections.py
       - name: Generator-Hilfe ohne Dateiveränderung prüfen
-        run: python3 scripts/test-generator-cli.py
+        run: |
+          python3 scripts/test-generator-cli.py
+          python3 scripts/test-skill-registry-preparation.py
+          python3 scripts/test-final-decision-generator.py
       - name: Fachtexte in generierten Prompts erhalten
         run: |
           python3 scripts/test-prompt-generator-excerpts.py

@@ -14,6 +14,7 @@ import zipfile
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from release_routing import validate_plugin_version
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 from skill_sources import active_owner, original_skill_sources, registry
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -74,7 +75,7 @@ class ImportTests(unittest.TestCase):
             active = {p.parent.name for p in (directory / 'skills').glob('*/SKILL.md')}
             modules = original_skill_sources(directory)
             self.assertEqual(len(modules), original_counts[name])
-            self.assertLessEqual(len(active), 20)
+            self.assertLessEqual(len(active), MAX_ACTIVE_SKILLS_PER_PLUGIN)
             self.assertGreater(len(active), 0)
             if record := registered.get(directory.resolve()):
                 self.assertEqual(active, set(record['keep']) | {r['slug'] for r in record['routes']})
@@ -154,7 +155,7 @@ class ImportTests(unittest.TestCase):
                         continue
                     source_names.add(relative.as_posix())
                 self.assertEqual(set(names), source_names | {'LICENSE', 'LICENSE-APACHE', 'LICENSE-MIT', 'NOTICE'})
-                self.assertLessEqual(len(active), 20)
+                self.assertLessEqual(len(active), MAX_ACTIVE_SKILLS_PER_PLUGIN)
                 self.assertEqual({n for n in names if n.startswith('skills/') and n.endswith('/SKILL.md')},
                                  {p.relative_to(directory).as_posix() for p in active})
                 for source in set(active) | set(modules):

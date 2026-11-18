@@ -76,6 +76,8 @@ jobs:
         run: |
           python3 scripts/test-skill-cap-migration.py
           python3 scripts/test-skill-cap-integration.py
+          python3 scripts/test-skill-registry-preparation.py
+          python3 scripts/test-final-decision-generator.py
           python3 scripts/test-plugin-consolidation.py
           python3 scripts/test-skill-activation.py
           python3 scripts/test-skill-source-replacements.py

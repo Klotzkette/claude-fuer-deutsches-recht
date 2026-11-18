@@ -14,11 +14,13 @@ import re
 import sys
 from pathlib import Path
 
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
+
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 
-MAX_SKILLS_PER_PLUGIN = 20
+MAX_SKILLS_PER_PLUGIN = MAX_ACTIVE_SKILLS_PER_PLUGIN
 MAX_DESCRIPTION_CHARS_PER_PLUGIN = 55_000
 MAX_SKILL_LINES = 500
 MAX_REFERENCE_BYTES = 96 * 1024

@@ -1,6 +1,8 @@
 # 1. Arbeitswege und Fachmodule
 
-Die 315 Plugins bleiben eigenständige Werkzeuge für ihre jeweiligen Aufgaben. Jedes Plugin bietet höchstens 20 auswählbare Skills. Ein Skill führt durch einen zusammenhängenden Arbeitsweg und zieht dafür die passenden ausführlichen Fachmodule, Vorlagen und Hilfsprogramme heran.
+Die Plugins bleiben eigenständige Werkzeuge für ihre jeweiligen Aufgaben. Jedes Plugin bietet höchstens 21 auswählbare Skills einschließlich eines Hauptskills. Dieser führt den Gesamtauftrag von den vorhandenen Unterlagen bis zum fertig ausgearbeiteten Ergebnis und verbindet die erforderlichen Spezialprüfungen. Ein kompakter Bestand ist erwünscht; die Obergrenze muss nicht ausgeschöpft werden. Ausführliche Fachmodule, Vorlagen und Hilfsprogramme werden nach dem konkreten Bedarf herangezogen.
+
+Skill-Namen benennen einen verständlichen Auftrag, etwa „Einspruch begründen“ oder „Liquidität prüfen“. Überschrift, technischer Name und Beschreibung müssen zueinander passen. Ein allgemeiner Argumentationsbaustein ist für sich noch kein Hauptworkflow. Eine vorhandene Startdatei oder eine fehlerfreie Namenssyntax ersetzt deshalb nicht die inhaltliche Prüfung nach den [Autorenregeln](../AGENTS.md).
 
 Wer beispielsweise eine Insolvenzforderung prüft, wählt den Arbeitsweg für Forderungen und Sicherheiten. Dieser liest abhängig vom Fall die vollständigen Anweisungen zu Anmeldung, Abtretung, Bestreiten oder Sicherheiten und führt die Prüfung im selben Vorgang fort. Die Auswahl eines Arbeitswegs ersetzt weder die Lektüre der einschlägigen Fachmodule noch die aktuelle Quellenprüfung.
 

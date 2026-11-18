@@ -18,6 +18,7 @@ from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES
 from release_routing import validate_plugin_version
 from werkstatt_visualisierung import BEGIN, block, load_profiles, remove_block
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 from skill_sources import active_owner, fachinhalt_path, original_skill_sources, registry
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -97,7 +98,7 @@ class ImportTests(unittest.TestCase):
                 expected = (set(configuration["keep"]) | {route["slug"] for route in configuration["routes"]}
                             if configuration else {path.parent.name for path in original_sources})
                 self.assertEqual(active, expected)
-                self.assertLessEqual(len(active), 20)
+                self.assertLessEqual(len(active), MAX_ACTIVE_SKILLS_PER_PLUGIN)
                 for original in original_sources:
                     owner = active_owner(ROOT / new, original.parent.name)
                     self.assertIn(owner, active)
@@ -238,7 +239,7 @@ class ImportTests(unittest.TestCase):
                     expected_active = {path.relative_to(ROOT / name).as_posix()
                                        for path in (ROOT / name / "skills").glob("*/SKILL.md")}
                     self.assertEqual(active, expected_active)
-                    self.assertLessEqual(len(active), 20)
+                    self.assertLessEqual(len(active), MAX_ACTIVE_SKILLS_PER_PLUGIN)
                     original_sources = original_skill_sources(ROOT / name)
                     self.assertEqual(len(original_sources), count)
                     for source in original_sources:

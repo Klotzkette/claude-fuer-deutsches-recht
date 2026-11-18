@@ -87,9 +87,11 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das e
 
 ## Skill-Konvention
 
+- Jedes Plugin hat höchstens 21 aktive Skills einschließlich eines klar erkennbaren Hauptskills, der vom vorhandenen Auftrag über die nötigen Fachprüfungen bis zum fertig ausgearbeiteten Ergebnis führt. Spezialskills werden nach Bedarf eingebunden. Ein bloßer Router oder Argumentationskern ersetzt diesen Gesamtworkflow nicht. Die verbindlichen Regeln für Umfang, Hauptworkflow und verständliche Namensgebung stehen in [`AGENTS.md`](./AGENTS.md#verständliche-skill-namen-und-generierung).
 - Jeder Skill liegt unter `<plugin>/skills/<skill-name>/SKILL.md`.
 - Frontmatter (YAML) enthält genau `name` und `description`. Keine weiteren Felder (insbesondere kein `triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
 - `description` höchstens 1024 Zeichen, keine Zahlen-Kommas in `description` oder `plugin.json`-Description (z. B. statt `1,5` schreibe `1.5` oder `eineinhalb`). Skill-`name` ≤ 64 ASCII-Zeichen.
+- Skill-Namen sind verständlich, fachlich konkret und möglichst handlungsbezogen. Sichtbare Überschrift und Beschreibung müssen denselben Auftrag erkennen lassen; keine abgeschnittenen Wörter oder automatisch nummerierten Ersatznamen. Vorhandene Verweise und Einstiegsskills bei Änderungen erhalten oder ausdrücklich nachführen.
 - Innenstruktur:
   1. Zweck und Anwendungsfall
   2. Eingaben

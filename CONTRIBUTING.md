@@ -9,7 +9,8 @@ Beiträge sind willkommen – insbesondere zu neuen Rechtsgebieten, aktuelleren 
 - [ ] Methodik nach [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md).
 - [ ] Skill-Frontmatter vollständig und validatorfest (ausschließlich `name` und `description`).
 - [ ] Skills sind kanzleitauglich (reproduzierbar, mit Quellenpflicht, mit Fristlogik wo relevant).
-- [ ] Fachliches Plugin: klarer Hauptskill, im Regelfall höchstens zehn und insgesamt höchstens zwanzig aktive Skills einschließlich Hauptskill; Werkstatt-Prompt, Mini-Prompt und passende Testakten nach [AGENTS.md](./AGENTS.md).
+- [ ] Höchstens 21 aktive Skills einschließlich eines klar erkennbaren Hauptskills, der den Gesamtworkflow bis zum bestellten Ergebnis führt; Werkstatt-Prompt, Mini-Prompt und passende Testakten nach [AGENTS.md](./AGENTS.md).
+- [ ] Verständliche Skill-Namen mit konkretem Fachgegenstand und Tätigkeit oder Arbeitsprodukt; keine abgeschnittenen Wörter oder nummerierten Ersatznamen. Hauptworkflow und Namensverständlichkeit am Inhalt geprüft, nicht nur Syntax und Dateiexistenz.
 - [ ] Testakten tatsächlich durchgesehen: verständlicher Sachverhalt, seriöse Darstellung, keine obszönen Inhalte oder praktisch gefährlichen Anleitungen; Bearbeitungsstände und Grundakte nach dem [Qualitätsstandard](./testakten/QUALITAETSSTANDARD.md) getrennt.
 - [ ] Keine Mandantendaten / personenbezogene Daten im Beispiel.
 - [ ] `node scripts/validate-plugin-structure.mjs` läuft fehlerfrei.

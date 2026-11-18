@@ -7,6 +7,7 @@ import json
 from pathlib import Path
 import re
 import unittest
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 from skill_sources import fachinhalt_path, original_skill_sources, active_owner, registry
 
 
@@ -344,7 +345,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
     def test_active_routes_cover_every_preserved_specialist(self):
         active = {p.parent.name for p in (PLUGIN / "skills").glob("*/SKILL.md")}
         self.assertEqual(active, ACTIVE_SKILLS)
-        self.assertLessEqual(len(active), 20)
+        self.assertLessEqual(len(active), MAX_ACTIVE_SKILLS_PER_PLUGIN)
         originals = original_skill_sources(PLUGIN)
         self.assertEqual(len(originals), 81)
         for path in originals:

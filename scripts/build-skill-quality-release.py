@@ -25,6 +25,7 @@ from prompt_profiles import PROMPT_SUFFIXES
 from release_asset_common import expected_asset_metadata, read_checksums, sha256_file, write_checksums
 from release_routing import check_asset_limit, scoped_asset_url, validate_plugin_version
 from release_rate_limits import require_download_budget
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 ROOT = Path(__file__).resolve().parents[1]
 SCOPE = ROOT / "scripts/data/skill-quality-release-scope.json"
@@ -239,8 +240,8 @@ def check_manifests(files: dict[str, Path], name: str, version: str) -> list[str
 
 def verify_reachability(files: dict[str, Path]) -> list[str]:
     active = sorted(name for name in files if SKILL.fullmatch(name))
-    if not 1 <= len(active) <= 20:
-        raise ValueError(f"Paket benötigt 1 bis 20 echte SKILL.md-Dateien, gefunden: {len(active)}")
+    if not 1 <= len(active) <= MAX_ACTIVE_SKILLS_PER_PLUGIN:
+        raise ValueError(f"Paket benötigt 1 bis {MAX_ACTIVE_SKILLS_PER_PLUGIN} echte SKILL.md-Dateien, gefunden: {len(active)}")
     links = {}
     for name, path in files.items():
         if path.suffix != ".md" or not name.startswith(("skills/", "references/")):

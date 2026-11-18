@@ -8,6 +8,8 @@ import json
 from pathlib import Path
 import subprocess
 
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
+
 ROOT = Path(__file__).resolve().parents[1]
 REGISTRY = "scripts/plugin-consolidations.json"
 INVENTORY = "quality/plugin-consolidation/2026-11-15/erhaltungsbestand.json"
@@ -86,8 +88,8 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
             continue
         source = inside(root, active[new]["source"].removeprefix("./"))
         skills = list((source / "skills").glob("*/SKILL.md"))
-        if len(skills) != row["active_skills"] or not 1 <= len(skills) <= 20:
-            errors.append(f"{new}: aktive Skill-Auswahl stimmt nicht oder überschreitet 20")
+        if len(skills) != row["active_skills"] or not 1 <= len(skills) <= MAX_ACTIVE_SKILLS_PER_PLUGIN:
+            errors.append(f"{new}: aktive Skill-Auswahl stimmt nicht oder überschreitet {MAX_ACTIVE_SKILLS_PER_PLUGIN}")
         for name in (old, new):
             path = inside(root, name + "/README.md")
             if not path.is_file():
