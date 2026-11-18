@@ -1,6 +1,7 @@
 """Aktive Arbeitswege und vollständig erhaltene Fachmodule getrennt prüfen."""
 from pathlib import Path
 from skill_sources import registry, original_skill_sources
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "ki-native-kanzlei"
@@ -10,7 +11,7 @@ ACTIVE_SKILL_COUNT = len(ACTIVE_SKILL_SLUGS)
 MODULE_COUNT = 30
 MODULE_SLUGS = frozenset(_SPEC["keep"] + [m for r in _SPEC["routes"] for m in r["members"]])
 assert len(MODULE_SLUGS) == MODULE_COUNT
-assert ACTIVE_SKILL_COUNT <= 20
+assert ACTIVE_SKILL_COUNT <= MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 def module_sources():
     paths = original_skill_sources(PLUGIN)

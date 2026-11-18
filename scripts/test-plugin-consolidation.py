@@ -72,6 +72,15 @@ class PreservationTests(unittest.TestCase):
         self.write("ziel/skills/unerwartet/SKILL.md", "# Zweiter Skill\n")
         self.assertTrue(any("Skill-Auswahl" in e for e in self.check()))
 
+    def test_declared_twenty_one_skills_pass_but_twenty_two_fail(self):
+        for number in range(20):
+            self.write(f"ziel/skills/fachfrage-{number}/SKILL.md", "# Fachfrage\n")
+        self.registry["consolidations"][0]["active_skills"] = 21
+        self.assertEqual(self.check(), [])
+        self.write("ziel/skills/zusaetzliche-frage/SKILL.md", "# Zusätzliche Frage\n")
+        self.registry["consolidations"][0]["active_skills"] = 22
+        self.assertTrue(any("überschreitet 21" in e for e in self.check()))
+
     def test_path_escape_is_rejected(self):
         self.inventory["protected_files"][0]["path"] = "../ausserhalb.pdf"
         with self.assertRaises(ValueError):

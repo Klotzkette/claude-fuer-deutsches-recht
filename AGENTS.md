@@ -2,15 +2,21 @@
 
 Dieses Repository enthält Plugins für deutsche Kanzleien. Diese Datei gilt für **jedes** Werkzeug, das hier arbeitet. Der vollständige Leitfaden steht im zentralen Repository-Leitfaden im Wurzelverzeichnis; halte dich an beide.
 
-## Umfang und Qualität fachlicher Plugins
+## Umfang und Qualität der Plugins
 
 Beitragsanfragen zuerst auf fachlichen Nutzen und Richtigkeit prüfen. Sinnvolle Ergänzungen eigenständig ausarbeiten; ein neues Plugin nur anlegen, wenn es einen klaren eigenen Arbeitsauftrag erfüllt. Ein bereits passendes Paket gezielt verbessern. Eine erledigte Anfrage begründet kein zweites gleichartiges Plugin.
 
-- Im Regelfall höchstens zehn aktive Skills, bei fachlich begründetem Mehrbedarf höchstens zwanzig. Der Hauptskill zählt mit. Fachvertiefungen dürfen ausführlich sein und über klar benannte Abschnitte oder lokale Referenzdateien erreichbar bleiben; keine zusätzlichen Skills allein zur Zerteilung eines zusammenhängenden Arbeitswegs.
-- Jedes fachliche Plugin hat einen eindeutig benannten Hauptskill, der den Gesamtauftrag führt, die passenden Spezialskills einbindet und bis zum bestellten Arbeitsprodukt weiterarbeitet.
+- Jedes Plugin hat höchstens **21 aktive Skills einschließlich Hauptskill**. Ein kompakter Bestand von etwa zehn Skills bleibt sinnvoll, wenn er den Fachauftrag vollständig abdeckt; 21 ist eine Obergrenze, kein Ausbauziel. Fachvertiefungen dürfen ausführlich sein und über klar benannte Abschnitte oder lokale Referenzdateien erreichbar bleiben; keine zusätzlichen Skills allein zur Zerteilung eines zusammenhängenden Arbeitswegs.
+- Jedes Plugin hat einen klar erkennbaren **Hauptsache-Skill (Hauptskill)** für den vollständigen Arbeitsablauf: vorhandenen Auftrag und Unterlagen verstehen, entscheidende Lücken klären, erforderliche Fachprüfungen verbinden, das bestellte Ergebnis ausarbeiten, prüfen und mit neuen Angaben fortführen. Er bindet die Spezialskills nach Bedarf ein; eine klare Einzelfrage beantwortet er direkt. Ein bloßes Themenmenü, ein Argumentationsbaustein oder eine Weiterleitung ohne Fortführung genügt nicht. Bei App-Plugins umfasst der Hauptskill den tatsächlich verfügbaren Bedien- und Ergebnisweg.
 - Dazu gehören ein eigenständig nutzbarer großer Werkstatt-Prompt, ein eigenständig nutzbarer Mini-Prompt und zugeordnete Testakten. Die README macht diese Einstiege und ihre unterschiedlichen Zwecke unmittelbar auffindbar.
 - Prompts und Skills beginnen verständlich beim konkreten Fachproblem. Sie verbinden Unterlagen, entscheidende Rückfragen, belegte Rechtsprüfung, Gegenargumente und das vollständig ausformulierte Ergebnis. Länge dient der fachlichen Tiefe, nicht der Wiederholung. Rechtsprechung und Gesetzgebung nach den Quellenregeln prüfen; Recherchegrenzen offen benennen.
 - Testakten sind seriös, anschaulich und lebensnah. Sie erklären Beteiligte, Ablauf, Unterlagen und den noch offenen Arbeitsauftrag durch konkrete Aktenstücke. Der [Testakten-Qualitätsstandard](testakten/QUALITAETSSTANDARD.md) regelt Darstellung, Originalformate und die getrennte Grundakte. Beim Bündeln von Skills bleiben bestehende Testakten erhalten.
+
+## Verständliche Skill-Namen und Generierung
+
+Skill-Name, sichtbare Überschrift und Beschreibung benennen denselben konkreten Auftrag. Namen verbinden möglichst Fachgegenstand und Tätigkeit oder Arbeitsprodukt, etwa `einspruch-begruenden`, `liquiditaet-pruefen` oder `nachtragsangebote-vergleichen`. Keine bedeutungsleeren Sammelnamen, bloßen Sortiernummern oder abgeschnittenen Wörter. Fachlich notwendige Abkürzungen sind zulässig; interne Generatorbegriffe sind kein verständlicher Skill-Name. Der technische Slug bleibt höchstens 64 Zeichen lang und verwendet Kleinbuchstaben, Ziffern und Bindestriche.
+
+Vor dem Schreiben neuer oder überarbeiteter Skills den Hauptworkflow, die Abgrenzung der Spezialaufgaben, die verständlichen Namen und die Gesamtzahl einschließlich Hauptskill prüfen. Generatoren dürfen bei Namenskollisionen keine nummerierten Ersatznamen erfinden und keine vorhandenen Einstiegsskills still entfernen oder reaktivieren. Bestehende Namen nur gezielt ändern und dann sämtliche Verweise nachführen. Eine bestandene Namenssyntax- oder Existenzprüfung belegt weder sprachliche Verständlichkeit noch einen fachlich vollständigen Hauptworkflow; diese Punkte zusätzlich am Inhalt prüfen.
 
 ## README-Einstiege
 

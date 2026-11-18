@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fachlich zugeordnete Skills verlustfrei in höchstens 20 Auswahlwege überführen.
+"""Fachlich zugeordnete Skills verlustfrei in höchstens 21 Auswahlwege überführen.
 
 Ohne --apply wird das Repository niemals geändert. --check prüft die Registry;
 --output erzeugt die ausgewählten Plugins in einem leeren Zielverzeichnis.
@@ -24,6 +24,7 @@ import sys
 from urllib.parse import unquote
 
 from skill_source_replacements import validate_replacements
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 
 REPO = Path(__file__).resolve().parents[1]
@@ -32,7 +33,7 @@ FRONTMATTER = re.compile(r"\A---\r?\n.*?\r?\n---(?:\r?\n|$)", re.S)
 LINK = re.compile(r"(?P<prefix>\]\()(?P<path><[^>]+>|[^)\s]+)(?P<suffix>[^)]*\))")
 INVOCATION = re.compile(r"/([a-z0-9-]+):([a-z0-9-]+)(?![a-z0-9-])")
 DOC_SUFFIXES = {".md", ".txt", ".html"}
-MAX_SKILLS = 20
+MAX_SKILLS = MAX_ACTIVE_SKILLS_PER_PLUGIN
 REPOSITORY_WEB = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/"
 VERGABE_OUTPUT_BLOCK = """<!-- BEGIN output-format-block (autogen) -->
 
@@ -122,6 +123,20 @@ def validate_registry(repo: Path, registry: dict, *, migrated: bool = False) -> 
     if registry.get("schema_version") != 1 or not isinstance(registry.get("plugins"), list):
         return ["Registry benötigt schema_version 1 und eine Plugin-Liste"]
     sources = marketplace_sources(repo)
+    profiles = {}
+    # Heutige Einstiegspunkte schützen den nächsten Umbau. Eine Prüfung bereits
+    # migrierter Quellen darf historische Zuordnungen nicht rückwirkend ändern.
+    profile_path = repo / "scripts/data/werkstatt-visualisierung-profile.json"
+    if not migrated and profile_path.is_file():
+        try:
+            data = json.loads(profile_path.read_text(encoding="utf-8"))
+        except (OSError, UnicodeError, ValueError) as exc:
+            return [f"Einstiegsprofile nicht lesbar: {exc}"]
+        if (not isinstance(data, dict) or type(data.get("schema_version")) is not int
+                or data.get("schema_version") != 1
+                or not isinstance(data.get("plugins"), dict)):
+            return ["Einstiegsprofile benötigen schema_version 1 und eine Plugin-Zuordnung"]
+        profiles = data["plugins"]
     replacement_archives, replacement_errors = validate_replacements(repo) if migrated else ({}, [])
     errors.extend(replacement_errors)
     consolidation_path = repo / "scripts/plugin-consolidations.json"
@@ -154,6 +169,21 @@ def validate_registry(repo: Path, registry: dict, *, migrated: bool = False) -> 
             errors.append(f"{name}: {len(keep) + len(routes)} Auswahlwege überschreiten {MAX_SKILLS}")
         if set(keep) - existing:
             errors.append(f"{name}: geschützte Skills fehlen: {sorted(set(keep) - existing)}")
+        if name in profiles:
+            profile = profiles[name]
+            entries = profile.get("entry_skills") if isinstance(profile, dict) else None
+            if (not isinstance(entries, list)
+                    or not 1 <= len(entries) <= 3
+                    or any(not isinstance(slug, str) or not SLUG.fullmatch(slug) for slug in entries)
+                    or len(entries) != len(set(entries))):
+                errors.append(f"{name}: entry_skills müssen ein bis drei eindeutige gültige Skill-Namen sein")
+            else:
+                missing = set(entries) - existing
+                omitted = set(entries) - set(keep)
+                if missing:
+                    errors.append(f"{name}: deklarierte Einstiegsskills fehlen: {sorted(missing)}")
+                if omitted:
+                    errors.append(f"{name}: deklarierte Einstiegsskills müssen in keep bleiben: {sorted(omitted)}")
         assigned = list(keep)
         new_slugs = set()
         for route in routes:

@@ -25,6 +25,7 @@ from quality_lab import load, marketplace, validate_profile
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from testakte_zip_common import working_dump_archive_pairs, original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf
 from themen_profile import EXACT_PROFILE_KEYS, profile_for
+from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 from skill_sources import active_owner, fachinhalt_path, original_skill_sources, registry as skill_registry
 
 
@@ -148,7 +149,7 @@ class BauwirtschaftTests(unittest.TestCase):
         configured = next(plugin for plugin in skill_registry() if plugin["name"] == PLUGIN)
         active_names = {path.parent.name for path in active}
         self.assertEqual(active_names, set(configured["keep"]) | {route["slug"] for route in configured["routes"]})
-        self.assertLessEqual(len(active), 20)
+        self.assertLessEqual(len(active), MAX_ACTIVE_SKILLS_PER_PLUGIN)
         self.assertLess(len(active), len(files))
         profile = load(ROOT / "quality/evals/bauwirtschaft.json")
         validate_profile(profile, PLUGIN, directory)

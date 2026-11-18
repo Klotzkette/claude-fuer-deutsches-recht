@@ -191,14 +191,22 @@ class QualityReleaseTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Nachprüfungsprofil gehört nicht zum Plugin"):
             B.validate_scope(self.scope, self.root)
 
-    def test_twenty_one_active_skills_or_orphaned_fachtext_cannot_ship(self):
+    def test_twenty_one_active_skills_ship_but_twenty_two_cannot(self):
+        for i in range(20):
+            name = f"fachfrage-{i}-pruefen"
+            self.write(f"{self.source}/skills/{name}/SKILL.md",
+                       f"---\nname: {name}\ndescription: Fachfrage prüfen\n---\n\n# Fachfrage prüfen\n")
+        report = self.build()
+        self.assertEqual(len(report["plugins"][self.name]["skills"]), 21)
+        for filename in ("beispiel.zip", "beispiel-portable.zip"):
+            with zipfile.ZipFile(self.dist / filename) as archive:
+                self.assertEqual(sum(name.endswith("/SKILL.md") for name in archive.namelist()), 21)
+        self.write(f"{self.source}/skills/zusaetzliche-frage/SKILL.md", "# Zusätzliche Frage\n")
+        with self.assertRaisesRegex(ValueError, "1 bis 21 echte SKILL.md-Dateien, gefunden: 22"):
+            B.build(self.dist.with_name("too-many"), self.scope, self.root)
+
+    def test_orphaned_fachtext_cannot_ship(self):
         directory = self.root / self.source
-        for i in range(20):
-            self.write(f"{self.source}/skills/extra-{i}/SKILL.md", "# Extra\n")
-        with self.assertRaises(ValueError):
-            B.verify_reachability(B.source_files(self.root, directory))
-        for i in range(20):
-            (directory / f"skills/extra-{i}/SKILL.md").unlink()
         self.write(f"{self.source}/skills/verwaist/FACHINHALT.md", "# Verwaist\n")
         with self.assertRaises(ValueError):
             B.verify_reachability(B.source_files(self.root, directory))
