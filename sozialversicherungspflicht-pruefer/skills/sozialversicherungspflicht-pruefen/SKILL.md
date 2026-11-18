@@ -1,9 +1,23 @@
 ---
 name: sozialversicherungspflicht-pruefen
-description: "Prüft deutsche Sozialversicherung von Beschäftigungsstatus über einzelne Versicherungszweige bis zu Beiträgen und Befreiungen. Hauptskill für gemischte Fälle mit Geschäftsführern, Lehrkräften, freien Mitarbeitern und Versorgungswerk. Erstellt einen belegten Gesamtbefund und führt Rückfragen im selben Vorgang fort."
+description: "Sozialversicherungsstatus bis zur begründeten Entscheidungsvorlage prüfen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Sozialversicherungspflicht prüfen
+# Sozialversicherungsstatus bis zur begründeten Entscheidungsvorlage prüfen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Verträge, tatsächliche Tätigkeit, Weisungen, Eingliederung, gesellschaftsrechtliche Macht und Bescheide erfassen; Zeitraum und beteiligte Unternehmen bestimmen.
+
+2. Beschäftigung und Selbstständigkeit anhand der wirklichen Durchführung prüfen; Status, Beitragspflicht, Versicherungsfreiheit und Befreiung nicht gleichsetzen.
+
+3. Bei Gesellschaftern, Lehrkräften, Vertretungsdiensten oder Tätigkeitswechsel gezielt den passenden Fachweg laden. Rechtliche Sperrmacht und bloße faktische Rücksichtnahme unterscheiden; Übergangsrecht anhand Zeitraum und bestehendem Bescheid prüfen.
+
+4. Statusantrag, Widerspruch oder interne Vorlage mit konkreten Pro- und Contra-Tatsachen ausformulieren; Terminbericht nur als begrenzte Entscheidungsinformation und nicht als gelesene Urteilsgründe ausgeben.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -79,6 +93,16 @@ Für Word- und PDF-Ausgaben soweit technisch möglich Times New Roman 11 pt, aus
 „Ich bin im Versorgungswerk und Geschäftsführer mit 20 Prozent. Bin ich komplett befreit?“ Prüfe zuerst beide Tätigkeiten und den Bescheid. Die Mitgliedschaft ersetzt weder die gesellschaftsrechtliche Prüfung noch eine zweigbezogene Befreiungsentscheidung.
 
 „Hier ist der Bescheid; bitte Widerspruch entwerfen.“ Lies Tenor, Rechtsgrundlage, Bekanntgabe und Begründung. Entwirf den Rechtsbehelf, kläre entscheidende Lücken und bearbeite die konkrete Zahlungswirkung; beginne nicht mit einem allgemeinen Fragebogen.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BSG, Urteil vom 23.07.2026 – B 12 BA 10/24 R; amtlicher Terminbericht 24/26, Nummer 4, PDF-Seite 4](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2): Bei einer Beteiligung von 50/50 und einem wirksamen Stichentscheid durch Dritte die tatsächliche Verhinderungsmacht prüfen. **Grenze:** Bericht statt Urteilsvolltext; keine Urteilsrandnummern und keine pauschale Abkehr von der Rechtsprechung zu 50 Prozent.
+
+- [BSG, Urteil vom 13.11.2025 – B 12 BA 2/23 R, Randnummern 21–35](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2025/2025_11_13_B_12_BA_02_23_R.pdf?__blob=publicationFile&v=2): Status gesondert prüfen; ältere offene Verfahren und Zustimmung nach Paragraf 127 differenzieren. **Grenze:** Bestandskräftige Altbescheide wurden offengelassen. Die gesetzlichen Enddaten wurden 2026 verlängert.
+
+- [BSG, Urteil vom 23.07.2026, B 12 BA 3/25 R; Terminbericht 24/26](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2): Berufsständische Befreiung tätigkeitsbezogen prüfen, insbesondere bei Arbeitgeberwechsel. **Grenze:** Versorgungswerksmitgliedschaft allein ersetzt weder Antrag noch tätigkeitsbezogene Prüfung.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

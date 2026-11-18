@@ -9,6 +9,7 @@ import re
 import subprocess
 import sys
 import unittest
+from unittest.mock import patch
 from tempfile import TemporaryDirectory
 import zipfile
 
@@ -56,6 +57,20 @@ class ImportTests(unittest.TestCase):
             cwd=COMPONENT, capture_output=True, text=True, timeout=60,
         )
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_local_role_identity_requires_current_public_version_and_exact_route(self):
+        spec = importlib.util.spec_from_file_location('role_identity_release', COMPONENT/'scripts/public_release.py')
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        local = json.loads((COMPONENT/'.claude-plugin/marketplace.json').read_text())
+        for plugin in local['plugins']:
+            with self.subTest(role=plugin['name']):
+                module.check_plugin_version(plugin)
+                with self.assertRaises(ValueError):
+                    module.check_plugin_version({**plugin, 'version': '0.0.1'})
+                for route in (None, f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/fremd-v0.0.1/{plugin['name']}.zip"):
+                    with patch.object(module, 'scoped_asset_url', return_value=route), self.assertRaises(ValueError):
+                        module.check_plugin_version(plugin)
 
     def test_registered_roles(self):
         marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())

@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Rentenprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Rentenbescheid rechnerisch und rechtlich prüfen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert nachvollziehbaren Rentenprüfvermerk mit konkreter Differenzrechnung und ausformuliertem Überprüfungs-, Widerspruchs- oder Klageantrag."
 ---
 
-# Juristischer Argumentationskern - Rentenprüfer
+# Rentenbescheid rechnerisch und rechtlich prüfen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Gleiche Versicherungsverlauf, Bescheid und beitrags- oder leistungsrelevante Nachweise ab. Rechne die beanstandete Position nach und formuliere die erforderliche Anfrage oder Einwendung.
+1.1. **Aktenstart.** Lies Versicherungsverlauf, Feststellungsbescheide, Rentenberechnung, Versicherungszeiten und bei Erwerbsminderung medizinische Leistungsbeschreibung. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Trenne bindend festgestellte Zeiten von erst später bewerteten Entgeltpunkten. Rechne Wartezeit, Zugangsfaktor, Rentenart und Zahlungsbeginn nach; Datums- und Beitragslücken nicht durch Annahmen schließen.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei Erwerbsminderung prüfe zeitliches Leistungsvermögen und Summierung funktioneller Einschränkungen; bei Teilrente Beiträge und Versicherungsstatus zum richtigen Zeitraum. Eine spätere Gesetzesfassung nicht rückwirkend auf alte Monate übertragen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Rentenprüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere nachvollziehbaren Rentenprüfvermerk mit konkreter Differenzrechnung und ausformuliertem Überprüfungs-, Widerspruchs- oder Klageantrag. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,85 +29,63 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Hinterbliebene und Familie | Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen |
 | Private und betriebliche Ebene | Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Bescheid Widerspruch Klage Sozialgericht](../bescheid-widerspruch-klage-sozialgericht/FACHINHALT.md)
-3.1.2. [rentenbescheid-prüfen-widerspruch](../rentenbescheid-widerspruch-rentencheck-fuenf/FACHINHALT.md)
-3.1.3. [widerspruch-sozialgericht-klage](../widerspruch-sozialgericht-klage/FACHINHALT.md)
-3.1.4. [Private Rentenversicherung im Rentenfahrplan](../private-rentenversicherung-vertragscheck/FACHINHALT.md)
+2.1.1. [Bescheid Widerspruch Klage Sozialgericht](../bescheid-widerspruch-klage-sozialgericht/FACHINHALT.md)
+2.1.2. [rentenbescheid-prüfen-widerspruch](../rentenbescheid-widerspruch-rentencheck-fuenf/FACHINHALT.md)
+2.1.3. [widerspruch-sozialgericht-klage](../widerspruch-sozialgericht-klage/FACHINHALT.md)
+2.1.4. [Private Rentenversicherung im Rentenfahrplan](../private-rentenversicherung-vertragscheck/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. SGB VI Paragraf 35: Regelaltersrente nach Erreichen der Regelaltersgrenze und Wartezeit.
-4.2. SGB VI Paragraf 36 und Paragraf 38: Altersrenten für langjährig und besonders langjährig Versicherte.
-4.3. SGB VI Paragraf 43: Erwerbsminderungsrente nach Leistungsvermögen und Wartezeit.
-4.4. SGB VI Paragraf 46: Witwen- und Witwerrente mit kleiner und großer Rente.
-4.5. SGB VI Paragraf 48: Waisenrente bei Ausbildung, Schule oder Studium.
-4.6. SGB VI Paragraf 55 und Paragraf 149: Beitragszeiten und Kontenklärung im Versicherungsverlauf.
+SGB VI §§ 35 ff., 43, 46, 50 ff., 64 ff., 77 und 149 nach konkreter Rentenart: Anspruch, Wartezeit, Berechnung, Zugangsfaktor und Versicherungsverlauf; SGB X §§ 44 ff. für Korrektur und SGG für Rechtsbehelf. Beitrags- und Nettowirkungen aus SGB V/XI beziehungsweise privatem Vertrag separat.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung als Entscheidungshilfe
 
-## 5. Rechtsprechung und Quellenstatus
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.1. BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Mehrere gewöhnliche Leistungseinschränkungen können durch besondere Additions- und Verstärkungswirkung ernsthafte Zweifel an der Einsetzbarkeit auf dem allgemeinen Arbeitsmarkt begründen.
-5.2. BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R: Der Vormerkungsbescheid stellt Art und Zeitraum rentenrechtlicher Zeiten bindend fest; ihre abschließende Anrechnung und Bewertung erfolgt erst im Leistungsbescheid.
-5.3. BSG, Urteil vom 31.10.2012 - B 12 R 3/11 R: Die Befreiung von der gesetzlichen Rentenversicherung für Mitglieder eines berufsständischen Versorgungswerks ist auf die konkrete Beschäftigung oder Tätigkeit bezogen.
-5.4. BSG, Urteil vom 03.04.2014 - B 5 RE 13/14 R: Für die Befreiung müssen Pflichtversicherung in gesetzlicher und berufsständischer Versorgung aus derselben konkreten Beschäftigung entstehen.
+1. [BSG, Urteil vom 21.03.2018, B 13 R 19/14 R, Randnummern 14 bis 17 und 22](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2018/2018_03_21_B_13_R_19_14_R.pdf?__blob=publicationFile&v=2). **Anwendung:** Fehlende Beitragszeiten und Bindung einer Vormerkung von späterer Entgeltpunktebewertung trennen; Renteninformation ist keine Leistungsbewilligung. **Grenze:** Keine Zusage künftiger Höhe oder Anerkennung beliebiger Zeiten; Streitgegenstand der ursprünglichen Entscheidung war Kindererziehung.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
 
-## 6. Beweislast und Gegenangriff
+2. [BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3). **Anwendung:** Im Werkstatt-EM-Zweig qualitative Einschränkungen und mögliche Pflicht zur Benennung konkreter Tätigkeit prüfen. **Grenze:** Kein Altersrentenanker und keine Rentenzusage aufgrund bloßer Diagnosen.
 
-Ausgangspunkt für dieses Plugin: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+3. [BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html). **Anwendung:** Rn. 13 bis 27: Die Teilrentenwahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Eine von Anfang an nur viermonatige Rentenabsenkung führte im Altfall 2021 nicht zur Familienversicherung; das regelmäßige Einkommen ist grundsätzlich über zwölf Monate vorausschauend anhand des damaligen Erkenntnisstands zu beurteilen. Ohne Familienversicherung keine darauf gestützte obligatorische Anschlussversicherung. **Grenze:** Das Urteil entscheidet einen Altfall aus 2021; die seit 2026 geltende Norm darf nicht rückwirkend angewandt werden. Kein generelles Teilrentenverbot. Der neue gesetzliche Ausschluss setzt sämtliche Merkmale voraus; eine längere Teilrentendauer allein umgeht ihn nicht.
 
-## 7. Prüffolge
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-16.
 
-7.1. Welche Rentenart und welcher Stichtag entscheiden den Fall.
-7.2. Welche Monate tragen Wartezeit oder Entgeltpunkte und welche Monate sind nur behauptet.
-7.3. Welche Berechnung hängt an Einkommen, Zulagen, Abschlägen oder Beiträgen zur Kranken- und Pflegeversicherung.
-7.4. Welche Unterlage belegt jeden rentenrechtlichen Zeitraum.
-7.5. Welche Frist läuft gegen Bescheid, Widerspruchsbescheid oder Zulagenrückforderung.
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-## 8. Juristisches Schreiben
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Rentenauftrag, Versicherungsverlauf, Anspruch und Höhe, Hinterbliebene und Familie: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+4.1.1. BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Mehrere gewöhnliche Leistungseinschränkungen können durch besondere Additions- und Verstärkungswirkung ernsthafte Zweifel an der Einsetzbarkeit auf dem allgemeinen Arbeitsmarkt begründen.
+4.1.2. BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R: Der Vormerkungsbescheid stellt Art und Zeitraum rentenrechtlicher Zeiten bindend fest; ihre abschließende Anrechnung und Bewertung erfolgt erst im Leistungsbescheid.
+4.1.3. BSG, Urteil vom 31.10.2012 - B 12 R 3/11 R: Die Befreiung von der gesetzlichen Rentenversicherung für Mitglieder eines berufsständischen Versorgungswerks ist auf die konkrete Beschäftigung oder Tätigkeit bezogen.
+4.1.4. BSG, Urteil vom 03.04.2014 - B 5 RE 13/14 R: Für die Befreiung müssen Pflichtversicherung in gesetzlicher und berufsständischer Versorgung aus derselben konkreten Beschäftigung entstehen.
 
-## 9. Ausgabemodi
+4.1.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+## 5. Beweis, Gegenposition und Fristen
 
-## 10. Qualitätskontrolle
+Amtsermittlung durch Träger und Sozialgericht verlangt gezielte Sachaufklärung zugunsten und zulasten der Beteiligten. Mitwirkung, Glaubhaftmachung im Eilverfahren und objektive Feststellungslast sind verschiedene Fragen. Erst nach ausgeschöpfter Ermittlung ist zu entscheiden, wen die Nichterweislichkeit des konkreten anspruchsbegründenden oder anspruchsvernichtenden Merkmals trifft. Im PKV-Vertragsprozess gelten dagegen die zivilprozessualen Darlegungs- und Beweisregeln.
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage verwendbar?
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere nachvollziehbaren Rentenprüfvermerk mit konkreter Differenzrechnung und ausformuliertem Überprüfungs-, Widerspruchs- oder Klageantrag. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

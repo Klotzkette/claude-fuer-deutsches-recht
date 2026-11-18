@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Europarecht Kompass ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Unionsrechtliche Frage zum konkreten Rechtsbehelf führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Europarecht Kompass
+# Unionsrechtliche Frage zum konkreten Rechtsbehelf führen
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Bestimme die konkrete nationale Maßnahme und die einschlägige unionsrechtliche Regel. Begründe, welche Auswirkung Vorrang, Auslegung oder Vorlagefrage für den Fall hat.
+Bestimme Maßnahme, Beteiligte, Mitgliedstaat, Regelungsdatum und betroffene Unionsnorm; lies nationale Entscheidung und Verfahrensstand gemeinsam.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,29 +62,38 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. EuGH, Urteil vom 05.02.1963 - 26/62: Van Gend en Loos zur unmittelbaren Wirkung hinreichend klarer und unbedingter unionsrechtlicher Bestimmungen.
-5.2. EuGH, Urteil vom 15.07.1964 - 6/64: Costa gegen ENEL zum Vorrang des Unionsrechts gegenüber entgegenstehendem nationalem Recht.
-5.3. EuGH, Urteil vom 19.11.1991 - C-6/90 und C-9/90: Francovich zur unionsrechtlichen Staatshaftung bei qualifizierter Nichtumsetzung einer Richtlinie.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. EuGH, Urteil vom 24.06.2019, C-573/17, Randnummern 60 bis 68: Vorrang ersetzt unmittelbare Wirkung nicht; keine zusätzlichen privaten Pflichten allein aus Richtlinie. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573) — dokumentierter Prüfstand 2026-09-14.
+
+5.2. EuGH, Urteil vom 24. Juni 2019, C-573/17, Popławski, Randnummern 60 bis 68. Anwendung: Vorrang von unmittelbarer Wirkung trennen; Richtlinie allein begründet grundsätzlich keine zusätzliche Pflicht eines Privaten. Grenze: Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0573) — dokumentierter Prüfstand 2026-09-22.
+
+5.3. EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77. Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV. Grenze: Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen. [Entscheidungsnachweis](https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html) — dokumentierter Prüfstand 2026-11-14.
+
+5.4. BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104. Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe. Grenze: Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen. [Entscheidungsnachweis](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html) — dokumentierter Prüfstand 2026-11-14.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welche Unionsnorm gilt sachlich, persönlich, räumlich und zeitlich.
-7.2. Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten.
-7.3. Welche nationale Norm oder Maßnahme kollidiert damit und welche Rechtsfolge folgt daraus.
-7.4. Welche Rechtfertigung, Ausnahme oder Verhältnismäßigkeitsprüfung ist entscheidend.
-7.5. Welches Gericht oder Organ kann den gewünschten Rechtsschutz gewähren.
+7.1. Trenne unmittelbare Wirkung, konforme Auslegung, Anwendungsvorrang und Staatshaftung. Bestimme bei Richtlinien insbesondere vertikales oder horizontales Verhältnis; Vorrang allein schafft keine zusätzliche private Pflicht.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Formuliere die bestellte Stellungnahme, Vorlageanregung oder Klagebegründung mit entscheidungserheblicher Frage und konkreter Auswirkung auf den Fall.
+
+7.4. Ein neuer nationaler Umsetzungsakt kann die Prüfung von unmittelbarer Wirkung zur Auslegung verlagern; eine bereits geklärte EuGH-Frage verändert die Vorlagebegründung.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

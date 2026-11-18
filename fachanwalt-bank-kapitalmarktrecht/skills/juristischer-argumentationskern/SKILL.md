@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Fachanwalt Bank Kapitalmarktrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Bank- und Kapitalmarktanspruch bis zum Schriftsatz prüfen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert beziffertes Anspruchsschreiben oder Klage-/Erwiderungsentwurf mit sauberer Zuordnung von Pflicht, Beweis und Schaden."
 ---
 
-# Juristischer Argumentationskern - Fachanwalt Bank Kapitalmarktrecht
+# Bank- und Kapitalmarktanspruch bis zum Schriftsatz prüfen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Prüfe Produkt, Kundenrolle, vertragliche Zusagen und dokumentierte Beratung. Begründe den verlangten Entwurf oder die Entscheidung zu Haftung, Aufsicht oder Vertragsgestaltung.
+1.1. **Aktenstart.** Lies Kontovertrag, Transaktionsdaten, Beratungsdokumentation, Produktunterlagen und Schadenberechnung; bestimme Anleger-, Kunden- oder Bankperspektive. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Unterscheide nicht autorisierte Zahlung, unzulässiges Entgelt, Kreditstreit und Anlageberatung. Rekonstruiere bei Anlagefällen Anlageziel, Kenntnisse, Risikohinweis, Kausalität und Vorteilsausgleich; bei Zahlung den konkreten Authentifizierungs- und Freigabevorgang.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei AGB-Zustimmungsfiktion prüfe Vertrag und Änderungsweg; bei Phishing den Informationsstand des Nutzers ohne Schluss von technischer Authentifizierung auf Autorisierung. Prüfe Verjährung anspruchsbezogen, nicht einheitlich ab Vertragsschluss. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Fachanwalt Bank Kapitalmarktrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere beziffertes Anspruchsschreiben oder Klage-/Erwiderungsentwurf mit sauberer Zuordnung von Pflicht, Beweis und Schaden. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,85 +29,74 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Haftung und Beweis | Beratungsfehler, Rückvergütung, Fehlüberweisung, Missbrauch, Marktinformation und Kausalität belegen |
 | Arbeitsprodukt | Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Kreditkündigung Paragraf 490 BGB](../fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb/FACHINHALT.md)
-3.1.2. [Kreditkündigung](../fachanwalt-bank-kapitalmarktrecht-kreditkuendigung/FACHINHALT.md)
-3.1.3. [SCHUFA-Löschungsanspruch](../fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch/FACHINHALT.md)
-3.1.4. [Beratungshaftung: Zahlen, Schwellenwerte und Berechnung](../beratungshaftung-zahlen-schwellen-und-berechnung/FACHINHALT.md)
+2.1.1. [Kreditkündigung Paragraf 490 BGB](../fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb/FACHINHALT.md)
+2.1.2. [Kreditkündigung](../fachanwalt-bank-kapitalmarktrecht-kreditkuendigung/FACHINHALT.md)
+2.1.3. [SCHUFA-Löschungsanspruch](../fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch/FACHINHALT.md)
+2.1.4. [Beratungshaftung: Zahlen, Schwellenwerte und Berechnung](../beratungshaftung-zahlen-schwellen-und-berechnung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. KWG Paragraf 32: Erlaubnispflicht für Bankgeschäfte und Finanzdienstleistungen.
-4.2. KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
-4.3. WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
-4.4. BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-4.5. BGB Paragraf 675u und Paragraf 675v: unverzügliche Erstattung und eigenständigen Gegenanspruch trennen. [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52, trägt die Erstattung trotz bloß behaupteter grober Fahrlässigkeit; trägt nicht endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot. Betrugsverdachtsausnahme gegen den Zahler und Behördenmitteilung gesondert belegen. [Geprüfte Quellen und Anwendungsgrenzen](../../references/eugh-c-70-25-erstattung-und-regress.md).
-4.6. BGB Paragraf 765 und Paragraf 766: Bürgschaft und Schriftform.
+3.1. KWG Paragraf 32: Erlaubnispflicht für Bankgeschäfte und Finanzdienstleistungen.
+3.2. KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
+3.3. WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
+3.4. BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
+3.5. BGB Paragraf 675u und Paragraf 675v: unverzügliche Erstattung und eigenständigen Gegenanspruch trennen. [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52, trägt die Erstattung trotz bloß behaupteter grober Fahrlässigkeit; trägt nicht endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot. Betrugsverdachtsausnahme gegen den Zahler und Behördenmitteilung gesondert belegen. [Geprüfte Quellen und Anwendungsgrenzen](../../references/eugh-c-70-25-erstattung-und-regress.md).
+3.6. BGB Paragraf 765 und Paragraf 766: Bürgschaft und Schriftform.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung als Entscheidungshilfe
 
-5.1. BGH, Urteil vom 19.12.2006 - XI ZR 56/05: Rückvergütungen in der Anlageberatung müssen offen gelegt werden, wenn sie für den Kunden einen Interessenkonflikt verdecken.
-5.2. BGH, Urteil vom 27.04.2021 - XI ZR 26/20: Zustimmungsfiktionen in Banken-AGB genügen der Inhaltskontrolle nicht, wenn sie wesentliche Vertragsänderungen ermöglichen.
-5.3. BGH, Urteil vom 28.10.2014 - XI ZR 348/13: formularmäßige Bearbeitungsentgelte in Verbraucherdarlehen sind kontrollfähig und regelmäßig unwirksam.
-5.4. EuGH, Urteil vom 09.09.2021 - C-33/20, C-155/20 und C-187/20: Verbraucherkreditinformationen müssen klar, verständlich und für den Fristlauf belastbar sein.
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+1. [BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19, 68–81](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1). **Anwendung:** Bei bestrittenen Onlinezahlungen muss die Bank mehr als ein Erfolgslog vorlegen: Autorisierung, konkrete Verfahrenssicherheit und fehlerfreie Anwendung getrennt würdigen; kein typischer Schluss auf grobe Fahrlässigkeit. **Grenze:** Entscheidung zum damaligen Zahlungsdiensterecht; kein Ausschluss des Vollbeweises und keine Übernahme alter Absatznummern in Paragraf 675v BGB.
 
-## 6. Beweislast und Gegenangriff
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-16.
 
-Ausgangspunkt für dieses Plugin: Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht.
+2. [BGH, Urteil vom 03.03.2026 – Az. XI ZR 20/24, Rn. 16–19, 26–35](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1). **Anwendung:** Beim geprüften manuellen chipTAN-Verfahren reicht ein fehlender Empfängername am Generator allein nicht für fehlende starke Authentifizierung; Anzeigen und vereinbarungsgemäßen Gesamtablauf rekonstruieren. **Grenze:** Allgemeine Namenspflicht und Bedeutung sämtlicher dynamischer Verknüpfungsanforderungen bleiben in Rn.27/31 offen; weder TAN-Log noch technische Sicherheit beweisen automatisch Autorisierung oder grobe Fahrlässigkeit.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
 
-## 7. Prüffolge
+3. [EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 31–42, 45–47, 52](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE). **Anwendung:** Trägt: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. **Grenze:** Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.
 
-7.1. Welche Bankleistung oder Kapitalmarktleistung ist betroffen.
-7.2. Welche Vertrags-, Aufsichts- oder Wohlverhaltenspflicht trägt den Fall.
-7.3. Welche Dokumentation beweist Beratung, Autorisierung, Warnung oder Zustimmung.
-7.4. Welche Frist, Verjährung oder Meldepflicht läuft.
-7.5. Welche Rechtsfolge ist realistisch: Rückabwicklung, Schadensersatz, Freigabe, Anzeige oder Verteidigung.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-16.
 
-## 8. Juristisches Schreiben
+4. [BGH, Urteil vom 10.03.2026, XI ZR 132/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1). **Anwendung:** Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität. **Grenze:** Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Produkt und Rolle, Vertragskern, Pflichten und Aufsicht, Haftung und Beweis: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-16.
 
-## 9. Ausgabemodi
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-## 10. Qualitätskontrolle
+4.1.1. BGH, Urteil vom 19.12.2006 - XI ZR 56/05: Rückvergütungen in der Anlageberatung müssen offen gelegt werden, wenn sie für den Kunden einen Interessenkonflikt verdecken.
+4.1.2. BGH, Urteil vom 27.04.2021 - XI ZR 26/20: Zustimmungsfiktionen in Banken-AGB genügen der Inhaltskontrolle nicht, wenn sie wesentliche Vertragsänderungen ermöglichen.
+4.1.3. BGH, Urteil vom 28.10.2014 - XI ZR 348/13: formularmäßige Bearbeitungsentgelte in Verbraucherdarlehen sind kontrollfähig und regelmäßig unwirksam.
+4.1.4. EuGH, Urteil vom 09.09.2021 - C-33/20, C-155/20 und C-187/20: Verbraucherkreditinformationen müssen klar, verständlich und für den Fristlauf belastbar sein.
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie verwendbar?
+4.1.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 5. Beweis, Gegenposition und Fristen
+
+Bei behaupteter fehlerhafter Aufklärung bleibt die anspruchsbegründende Pflichtverletzung grundsätzlich Sache des Anspruchstellers; auf einen substantiierten Vorwurf fehlender Aufklärung muss die Bank den behaupteten Aufklärungsverlauf konkret darlegen. Das ist keine pauschale Umkehr sämtlicher Beweislasten. Im Zahlungsdiensterecht § 675w BGB gesondert anwenden: technische Authentifizierung beweist nicht allein Autorisierung oder grobe Fahrlässigkeit. Kausalität, Schaden, Erfüllung und Einwendungen jeweils eigenständig prüfen.
+
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere beziffertes Anspruchsschreiben oder Klage-/Erwiderungsentwurf mit sauberer Zuordnung von Pflicht, Beweis und Schaden. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

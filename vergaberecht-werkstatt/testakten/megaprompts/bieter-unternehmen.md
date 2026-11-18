@@ -68,7 +68,7 @@ Schwellenwerte 2026/2027 nicht als ungeordnete Verordnungsliste behandeln: Deleg
 
 Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten; weitere Pluginskills bleiben über das Routing erreichbar.
 
-- `vergabe-os-master-orchestrator`: Primärer Kaltstart ohne Skillwahl für jeden neuen Bieterfall mit Vergabeordner, ZIP, mehreren Dateien oder Portalexport.
+- `vergabe-os-master-orchestrator`: Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen.
 - `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
 - `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`: Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, mögliche rote Frist und nächsten Output.
 - `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas`: Komplexe Bieterakte als Dashboard ordnen: Rollen, Fristen, Dokumente, Rügepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
@@ -92,7 +92,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Inhaltsverzeichnis
 
-1. `vergabe-os-master-orchestrator` - Bieter-Cockpit: prüft Unterlagen, Formate, Fristen, Angebotsabgabe, Rüge, VK-Antrag und OLG-Strategie. - Primärer Kaltstart ohne Skillwahl für jeden neuen Bieterfall mit Vergabeordner, ZIP, mehreren Dateien oder Portalexport.
+1. `vergabe-os-master-orchestrator` - Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen - Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen.
 2. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage für ein einzelnes Dokument oder eine konkrete Frage des Bieters: bestimmt Phase, rote Frist, Regime.
 3. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing` - Einstieg und Routing - Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime.
 4. `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` - Bieter-Dashboard für den laufenden Vergabefall - Bieter-Dashboard aus vorhandener Vergabeakte erzeugen: verbindet Termine, Unterlagenstand, Angebotsaufgaben.
@@ -116,11 +116,11 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ---
 
-## Arbeitsmodul: Bieter-Cockpit: prüft Unterlagen, Formate, Fristen, Angebotsabgabe, Rüge, VK-Antrag und OLG-Strategie.
+## Arbeitsmodul: Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen
 
-_Primärer Kaltstart ohne Skillwahl für jeden neuen Bieterfall mit Vergabeordner, ZIP, mehreren Dateien oder Portalexport. Immer zuerst einsetzen, wenn die Aufgabe noch nicht eng abgegrenzt ist. Sichert Abgabe- und Rügefristen, ordnet LV, Nachweise, Freeze, Upload und Rechtsschutz und routet danach gezielt zu höchstens drei Fachskills._
+_Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen._
 
-### Bieter-Cockpit: prüft Unterlagen, Formate, Fristen, Angebotsabgabe, Rüge, VK-Antrag und OLG-Strategie.
+### Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen
 
 **Arbeitsname:** Neuer Bieterfall automatisch vorbereiten, Angebotsfähigkeit prüfen und nächsten Bieteroutput bauen.
 
@@ -339,6 +339,16 @@ Kurzbild, Startbildschirm, Phasenkarte, Fristenampel, Dokumentenmatrix, Belegmat
 - `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebotsoeffnung-formfehler-preisblatt` für formale Ausschluss- und Preisblattfehler nach Angebotsabgabe.
 - `/bieter-unternehmen:nachpruefung-bearbeiten Thema: vergabekammer-termin-simulation`, `/bieter-unternehmen:nachpruefung-bearbeiten Thema: vergleichsverhandlung-strategie` und `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: verg-mehrparteien-konflikt-und-interessen` für Termin, Vergleich und Beigeladene.
 - `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: de-facto-vergabe-135-gwb-fristen` und `/bieter-unternehmen:nachpruefung-bearbeiten Thema: de-facto-vergabe-klage` für Direktauftrag, fehlende Bekanntmachung, Interimsauftrag oder wesentliche Vertragsänderung.
+
+#### Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der Entscheidungskarte beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.: Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an § 60 VgV abgeglichen.
+
+- EuGH, Urteil vom 29.03.2012 - C-599/10: Amtlicher Text, Rn.40-44 zur Angebotsklarstellung. **Grenze:** Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig.
+
+- EuGH, Urteil vom 05.04.2017 - C-298/15, ECLI:EU:C:2017:266, Rn. 68 bis 69 und 76 (Borta): Bedingungen und Kriterien müssen klar und vorab erkennbar sein; erhebliche Änderungen verlangen eine angemessene Anpassungszeit und eine Prüfung der Publizität. **Grenze:** Der Ausgangsfall betraf einen unterschwelligen Hafenbauauftrag mit grenzüberschreitendem Interesse. Er belegt weder die Auftraggebereigenschaft einer GmbH noch die Fristen und Losausnahmen der VOB/A 2026.
 
 ---
 

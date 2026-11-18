@@ -1,9 +1,17 @@
 ---
 name: mandat-bis-zum-schreiben-bearbeiten
-description: Bearbeitet wirtschaftsrechtliche Alltagsmandate aus vorhandenen Unterlagen selbst bis zum beauftragten Schreiben, Vertrag, Vermerk oder Schriftsatz. Klärt Rolle, Anspruch, Gegenposition, Beweis und Frist im gemeinsamen Aktenstand und vertieft bei Bedarf genau einen Fachweg statt einer neuen Mandatsaufnahme.
+description: "Wirtschaftsmandat zum fertigen Schreiben führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# 1. Mandat bis zum Schreiben bearbeiten
+# Wirtschaftsmandat zum fertigen Schreiben führen
+
+Ordne Vertrag, Nachtrag, Rechnung und Korrespondenz dem tatsächlichen Vertragspartner und dem bestellten Schreiben zu; sichere den frühesten belegten Rechtsverlust.
+
+**Entscheidung im Arbeitsablauf:** Trenne Zahlung, Nacherfüllung, Rücktritt und Schadensersatz; vertiefe nur den streitentscheidenden Anspruch, seine Einwendung und den fehlenden Beleg.
+
+**Bis zum Ergebnis weiterarbeiten:** Arbeite Begehren, Betrag, Leistungsfrist und Gegenargument in den adressierten Entwurf ein, statt nach der Anspruchsmatrix anzuhalten. Eine Teilzahlung verändert Rechnung, Zinsen und Begehren gemeinsam; eine neue Gesellschaftsbezeichnung verlangt vor dem Versand einen erneuten Parteiabgleich.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -47,7 +55,7 @@ Nach einer Antwort oder neuen Datei ändere die betroffenen Tatsachen, Rechnung,
 
 ## 4. Quellenpflicht
 
-Nutze [Zitierweise](../../references/zitierweise.md) und den einschlägigen Teil der [Fachquellen](../../references/fachquellen.md). BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, betrifft den konkreten Zugangsnachweis; EuGH, Urteil vom 12.01.2023, Az. C-154/21, konkrete Datenempfänger. Kein Zwang, diese Entscheidungen in fachfremde Dokumente einzubauen. BGH VIII ZR 49/15 und EuGH C-487/21 sind in der dokumentierten Recherche keine verifizierten Volltexte. Literatur nicht aus Erinnerung ergänzen. Quellenstatus intern bewahren.
+Nutze [Zitierweise](../../references/zitierweise.md) und den einschlägigen Teil der [Fachquellen](../../references/fachquellen.md). BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, betrifft den konkreten Zugangsnachweis; EuGH, Urteil vom 12.01.2023, Az. C-154/21, konkrete Datenempfänger. Kein Zwang, diese Entscheidungen in fachfremde Dokumente einzubauen. Die dokumentierte Nachprüfung vom 14.11.2026 hat die bezeichneten Passagen zu BGH VIII ZR 49/15 und EuGH C-487/21 erschlossen; Anwendung und Grenzen stehen in den Quellenkarten. Dies ist keine heutige erneute Volltextprüfung. Literatur nicht aus Erinnerung ergänzen. Quellenstatus intern bewahren.
 
 ## 5. Ausgabeformat
 

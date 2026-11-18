@@ -1,9 +1,23 @@
 ---
 name: a1-reinigungsauftrag-und-vergabeverfahren
-description: "Ordnet Reinigungsbedarf eines Berliner Verkehrsunternehmens nach Sektorenbezug, Losen und Auftragswert ein. Erstellt Vergabevermerk und Terminplan; Einstieg vor Veröffentlichung oder bei noch ungeklärtem Verfahrensweg."
+description: "Reinigungsbeschaffung vom Bedarf zur nachvollziehbaren Vergabeentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Reinigungsauftrag rechtlich einordnen und Vergabeweg festlegen
+# Reinigungsbeschaffung vom Bedarf zur nachvollziehbaren Vergabeentscheidung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Flächen, Nutzungsarten, Frequenzen, Qualitätsziele, Personalannahmen und vorhandene Verträge auswerten; Auftraggeber, Schwellenwert, Regime und Verfahrensbeginn festlegen.
+
+2. Leistungsbeschreibung, Eignung, Zuschlagswertung und Ausführungsbedingungen trennen. Kalkulationsannahmen und kontrollierbare Qualitätsmerkmale so formulieren, dass Angebote vergleichbar werden.
+
+3. Bei Losbildung, Personalübernahme, ungewöhnlichem Preis oder Nachforderung den passenden Fachweg öffnen; zusätzliche Erläuterung darf kein neues Angebot und keine nachträglich veränderte Eignungsbasis schaffen.
+
+4. Unterlagen, Wertungsvermerk oder Bieterschreiben vollständig ausformulieren; fehlende Entscheidung nur für ihren abhängigen Teil offenhalten und bereits belastbare Bestandteile fertigstellen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -34,7 +48,7 @@ Erstelle eine nachvollziehbare Nettowertrechnung nach Paragraf 2 SektVO: Vertrag
 
 Für gewöhnliche Sektorendienstleistungen beträgt der EU-Schwellenwert 2026/2027 432000 EUR netto; Rechtsgrundlage ist die Delegierte Verordnung (EU) 2025/2150. Bei einem anderen maßgeblichen Zeitpunkt neu feststellen. Nicht versehentlich den VgV-Schwellenwert oder Sonderregeln für soziale Dienstleistungen verwenden.
 
-Entwickle eine begründete Losstruktur nach Paragraf 97 Absatz 4 GWB: etwa Unterhaltsreinigung von Stationen, Fahrzeugreinigung, Glas- und Sonderreinigung sowie regionale Teillose. Prüfe Mittelstandszugang, getrennte Fachmärkte, Einsatzfenster und belegbare Schnittstellen. Ein einheitlicher Ansprechpartner ersetzt keine technische oder wirtschaftliche Bündelungsbegründung. Kapazitäts- oder Zuschlagsbegrenzungen müssen vorab transparent ausgestaltet werden.
+Entwickle eine begründete Losstruktur nach Paragraf 97a GWB unter Beachtung des einschlägigen Übergangsrechts: etwa Unterhaltsreinigung von Stationen, Fahrzeugreinigung, Glas- und Sonderreinigung sowie regionale Teillose. Prüfe Mittelstandszugang, getrennte Fachmärkte, Einsatzfenster und belegbare Schnittstellen. Ein einheitlicher Ansprechpartner ersetzt keine technische oder wirtschaftliche Bündelungsbegründung. Kapazitäts- oder Zuschlagsbegrenzungen müssen vorab transparent ausgestaltet werden.
 
 Wähle nach Paragraf 13 SektVO zwischen offenem Verfahren, nicht offenem Verfahren und Verhandlungsverfahren mit Teilnahmewettbewerb; einen Dialog nur bei entsprechendem Beschaffungsbedarf empfehlen. Für klar beschreibbare Standardreinigung prüfe zunächst den Nutzen eines einfachen offenen Verfahrens. Bei verhandelbaren Einsatz- und Qualitätskonzepten erläutere den Mehrwert des Verhandlungsverfahrens. Keine Verhandlungen im offenen Verfahren vorsehen.
 
@@ -71,13 +85,23 @@ WEITER: A2; bei unklarem Regime zunächst A1 fortsetzen
 FREIGABE: wer was ausdrücklich bestätigt hat oder noch bestätigen muss
 ```
 
-RUECKFRAGE beendet den Durchlauf bis zur Antwort; kein automatischer Folgeschritt. Block und Unterlagen weitergeben. UEBERGABEBEREIT ist keine externe Freigabe.
+RUECKFRAGE hält nur den von der fehlenden Angabe abhängigen Schritt offen. Unabhängige Prüfung und Entwurf fortführen; Antwort anschließend in denselben Vermerk übernehmen. UEBERGABEBEREIT bezeichnet die dokumentierte Übergabefassung und keine behauptete externe Freigabe.
 
 Endprodukte in vollständigen, ausformulierten Sätzen liefern. Keine Vertrags- oder Schriftsatzskelette und keine bloßen Halbsätze. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Interne Beleg- und Freigabenotizen nicht in Empfängerschreiben übernehmen.
 
 ## 6. Beispiele
 
 Die Betriebsleitung legt Bedarf und Kostenansatz der GVB vor. Ordne sämtliche Lose einschließlich Option und Abrufen zu; erstelle den Vergabevermerk und frage nur noch nach tatsächlich fehlenden Freigaben.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, 14.07.2016, C-6/15, TNS Dimarso](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62015CJ0006): Bewertungsmethode darf Kriterien und Gewichte nicht ändern. **Grenze:** Andere Richtlinienfassung; keine ausnahmslose Veröffentlichung jeder internen Methode.
+
+- [EuGH, Urteil vom 22.01.2026, C-812/24](https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE): Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen. **Grenze:** Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.
+
+- [EuGH, Urteil vom 25.10.2018 – C-413/17, ECLI:EU:C:2018:865, Rn. 34 bis 40 (Roche Lietuva)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0413): Detaillierte technische Spezifikationen sind auf Gleichbehandlung, Verhältnismäßigkeit und mittelbare Herstellerbevorzugung zu prüfen. **Grenze:** Der Ausgangsfall betraf medizinische Lieferungen. Die Entscheidung bestimmt keine deutschen Bau-, Hygiene- oder Apothekenstandards; diese sind gesondert fachlich und rechtlich zu prüfen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

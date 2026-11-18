@@ -1,9 +1,9 @@
 ---
 name: gesellschafterstreit-loesen
-description: "Hauptskill für einen konkreten GmbH-Gesellschafterstreit vom belegten Streitstand über Beschlüsse, Kapital, Geschäftsführung und Ansprüche bis zu vollständigen beauftragten Briefen, Beschlüssen, Schriftsätzen oder Vergleichsentwürfen."
+description: "Gesellschafterstreit vom Beschluss zum durchsetzbaren Antrag führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen Antrag, Klage-/Erwiderungsentwurf oder Vergleich mit Regelung von Mitgliedschaft, Organstellung, Liste, Geld und Vollzug."
 ---
 
-# Gesellschafterstreit geordnet lösen
+# Gesellschafterstreit vom Beschluss zum durchsetzbaren Antrag führen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -14,6 +14,19 @@ Bearbeite den konkreten Gesellschafterstreit zusammenhängend und produktorienti
 Nutze Auftrag, Satzung, Gesellschafterliste, Registerlage, Verträge, Einladungen/Beschlüsse, Protokolle, Zugänge, Zahlungsbelege und Korrespondenz. Bestimme Mandantin, Vertretung und Rechtsform. Eine GmbH, ihr Geschäftsführer und ihre Gesellschafter haben unterschiedliche Rechte und Interessen.
 
 ## 3. Ablauf und Checkliste
+
+**Aktenstart.** Lies Satzung, aktuelle und frühere Liste, Einladung, Protokoll, Stimmabgabe und streitige Verfügungen; ordne jede Maßnahme ihrem Rechtsträger zu. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Trenne Beschlussmangel, Listenlegitimation, materielle Mitgliedschaft, Abfindung und Organstellung. Prüfe wirksame Einberufung und Vertretung vor Mehrheiten; bei Selbstkontrahierung § 181 BGB konkret.
+
+**Gezielte Vertiefung.** Bei Einziehung prüfe freie Vermögensdeckung und Zahlungsfolge; bei Abberufung tatsächlichen wichtigen Grund und Stimmverbot; bei Blockade strenge Treuepflichtvoraussetzungen. Bei drohendem Vollzug formuliere einen genau begrenzten Eilantrag neben der Hauptsache. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere vollständigen Antrag, Klage-/Erwiderungsentwurf oder Vergleich mit Regelung von Mitgliedschaft, Organstellung, Liste, Geld und Vollzug. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 1. Kläre anhand der Akte Mandantin, Rechtsform, Vertretung und bestelltes Produkt. Führe eine gemeinsame Chronologie, aber getrennte Rechtspositionen für Anteil, Listenlegitimation, Amt, Anstellung und Gläubigerstellung. Bei bereits zugestellter Klage zuerst gerichtliche Fristen und Verteidigung sichern; eine vollständige Erwiderung ist ein anderes Produkt als ein Erstgutachten.
 2. Gehe mit Einladung, Beschlusswortlaut und Protokoll zu [streitstand-und-fristen-klaeren](../streitstand-und-fristen-klaeren/SKILL.md), [versammlung-und-tagesordnung-vorbereiten](../versammlung-und-tagesordnung-vorbereiten/SKILL.md) und [stimmen-und-mehrheiten-pruefen](../stimmen-und-mehrheiten-pruefen/SKILL.md). Übergib Beschlussdatum, Feststellungsbefugnis, tatsächliche Stimmen, Satzungsquoren und Streitfragen. Ergebnis sind konkrete Fristen, getrennte TOP und nachvollziehbare Nenner, keine pauschale Lagermehrheit.
@@ -39,6 +52,38 @@ Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollst�
 ## 6. Beispiele
 
 Drei Gesellschafter streiten über Finanzierung, gegenseitige Abberufung, einen Konkurrenzvorwurf und einen blockierten Anteilsverkauf. Ordne die verbundenen Vorgänge in einer gemeinsamen Chronologie, prüfe jede Maßnahme eigenständig und liefere den konkret beauftragten Brief beziehungsweise Vergleich. Aus dem Umfang des Konflikts folgt kein automatischer Klageauftrag.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BGH, Urt. v. 05.05.2026 – Az. II ZR 2/25, berichtigt durch Beschl. v. 29.07.2026, amtlicher Volltext, Rn. 19–31 und 35–44](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2). **Anwendung:** Liste und richtige Adressatin feststellen; Zugang für jede Gesellschaft getrennt belegen. Bei Geschäften mit verbundenen Unternehmen Vertretungsmacht, § 181 BGB und erforderliche gesellschaftsinterne Zustimmung getrennt prüfen. **Grenze:** Nicht jeder Beiratsvorbehalt beschränkt die Vertretungsmacht gegenüber außenstehenden Dritten. Die Treuepflicht kann auch Drittgeschäfte erfassen; sie erlaubt aber nicht allein wegen später verbesserter Liquidität, eine ursprünglich angemessene Erfolgsvergütung nachträglich zu kürzen. Der BGH hat die Sache zurückverwiesen; keine pauschale abschließende Unwirksamkeitsfeststellung für alle vergleichbaren Verträge.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-14.
+
+2. [BGH, Urt. v. 26.06.2018 – Az. II ZR 65/16, amtlicher Volltext, Rn. 13–17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1). **Anwendung:** Auf den Beschlusszeitpunkt bezogene Unterlagen zum freien Vermögen, zur Abfindungsschuld und zu realisierter Finanzierung verlangen. Unternehmenswert und kapitalerhaltungsrechtliche Vermögensbindung mit unterschiedlichen Rechenwerken prüfen. **Grenze:** Eine erst später eintretende Zahlungssperre ist gesondert zu behandeln. Weder Unternehmenswert noch Liquidität allein beantworten die Bilanzfrage nach §§ 30, 34 Abs. 3 GmbHG. Nicht jede Ungewissheit über die endgültige Abfindungshöhe belegt schon die im Urteil verlangte feststehende Unterdeckung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-14.
+
+3. [BGH, Urt. v. 04.04.2017 – Az. II ZR 77/16, amtlicher Volltext, Rn. 9–17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1). **Anwendung:** Für jeden TOP Organmaßnahme, Vertragsmaßnahme, behauptete Tatsachen, Belege, Gegenargumente und die Auswirkungen auf den Stimmennenner gesondert dokumentieren. § 38 GmbHG und § 626 BGB mit ihren unterschiedlichen Voraussetzungen prüfen. **Grenze:** Die im Urteil erörterte Frage, nach welchem Maßstab der Versammlungsleiter in der Versammlung ein Stimmverbot vorläufig behandelt, wurde nicht abschließend entschieden. Nicht behaupten, der BGH lasse jedes unbewiesene Schlagwort „wichtiger Grund“ sofort die Stimme entfallen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-14.
+
+4. [BGH, Urt. v. 12.04.2016 – Az. II ZR 275/14, amtlicher Volltext, Rn. 13–17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1). **Anwendung:** Bei streitiger Finanzierung oder Kapitalerhöhung Bedarf, Alternativen, Verhältnismäßigkeit und Minderheitenbelastung konkret prüfen. Eine rechtliche Stimmbindung aus Treuepflicht von einem gesetzlichen Stimmverbot und dessen Auswirkung auf den Nenner unterscheiden. **Grenze:** Aus der Entscheidung folgt keine allgemeine Sanierungszustimmung und erst recht keine automatische Pflicht, neues Geld bereitzustellen. Eine eigene Leistungspflicht benötigt ihre gesonderte Grundlage; insbesondere §§ 26 und 53 Abs. 4 GmbHG beachten. Keine nachträgliche Ergebniszählung allein nach der Meinung, ein Nein sei „unvernünftig“ gewesen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-14.
+
+5. [BGH, Urt. v. 21.04.2026 – Az. II ZR 50/25, amtlicher Volltext, Rn. 17–30, insbesondere Rn. 18, 22–29](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Nach Rückkehr in die Liste prüfen, ob der Mitgliedschaftsstreit weiterbesteht. Bestreiten, frühere Listenwechsel und konkrete Folgen belegen; Feststellung gegen die Gesellschaft beantragen. Anteil und Umfang hinreichend bestimmen; im Fall genügte die Feststellung der Beteiligung zu 75 Prozent, ohne dass bestimmte Anteile zugewiesen werden sollten. **Grenze:** Keine abstrakte Feststellung ohne rechtliches Interesse, kein pauschales Urteil gegen alle Mitgesellschafter und keine allgemeine Registersperre. Die Rechtmäßigkeit des Anteilserwerbs war in der Revision nicht mehr angegriffen. Die Entscheidung nimmt die nötige Prüfung des konkreten Erwerbs oder Ausschlusses nicht ab.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-14.
+
+#### 6.1.1. Beweis und Abschluss
+
+Bestimme die Darlegungs- und Beweislast je Anspruch und Merkmal. Bei Organhaftung sind Schaden und haftungsauslösender Zusammenhang von der Gesellschaft darzulegen; die organbezogene Sorgfalts-/Entlastungslast nach § 93 Abs. 2 AktG beziehungsweise den Regeln zu § 43 GmbHG darf nicht durch einen pauschalen Satz ersetzt werden. Die Business Judgment Rule betrifft unternehmerische Entscheidungen, nicht die Freiheit zur Missachtung zwingenden Rechts. Mitgliedschaft, Beschlussmangel und Treuepflichtanspruch benötigen jeweils eigene Belege; Register- oder Listeneintrag allein beweist nicht jeden materiellen Vorgang.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

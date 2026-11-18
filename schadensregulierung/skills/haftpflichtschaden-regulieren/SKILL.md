@@ -1,9 +1,23 @@
 ---
 name: haftpflichtschaden-regulieren
-description: "Bearbeitet einen Haftpflichtschaden aus Sicht des regulierenden Versicherers: Deckungsstand, Anspruchsprüfung, Besichtigung, Reserve, Abwehr, Teilzahlung und Vergleich. Für Schadenbearbeiter mit bestehender Schadenakte und geklärtem Mandat; nicht nur eine Schadenanzeige des versicherten Unternehmens."
+description: "Haftpflichtschaden bis zur nachvollziehbaren Regulierung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Haftpflichtschaden regulieren
+# Haftpflichtschaden bis zur nachvollziehbaren Regulierung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Ereignis, Beteiligte, Haftungsgrund, Versicherungsbezug und Schadennachweise auswerten; Eigen- und Fremdschaden sowie öffentliche und private Tätigkeit unterscheiden.
+
+2. Haftung, Kausalität, Mitverschulden und einzelne Schadenspositionen nacheinander prüfen; Schmerzensgeld aus konkreten Folgen statt schematischem Tagessatz ableiten.
+
+3. Bei Personenschaden, Schockschaden, Sachschaden oder Regress den passenden Fachweg laden. Pathologische Beeinträchtigung, Erwerbsausfall und Haushaltsführung jeweils belegen; bloße Betroffenheit ersetzt keinen Gesundheitsschaden.
+
+4. Regulierungsforderung, begründete Ablehnung oder Vergleich vollständig mit Quote, Betrag, Zukunftsschaden und Belegen schreiben; Deckungsfrage separat beantworten.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -59,6 +73,16 @@ Liefere eine interne Regulierungsvorlage mit Deckungsstand, Haftung, Positionsre
 ## 6. Beispiel
 
 Ein Abschleppbetrieb meldet einen beschädigten Schweller. Die Police enthält eine besondere Obhutsklausel, der öffentliche Auftrag ist noch nicht vollständig vorgelegt. Bereite Besichtigung und begrenzte Deckungsnachforderung vor; entscheide nicht aus dem Vorliegen der Police, dass der Betrieb dem Halter persönlich haftet oder bereits eine Zahlung zugesagt sei.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 15.02.2022, VI ZR 937/20, berichtigt am 23.02.2022](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_937-20.pdf?__blob=publicationFile&v=1): Taggenaue Berechnung durch Gesamtwürdigung von Verletzung, Leiden, Dauer und wahrgenommener Lebensbeeinträchtigung ersetzen. **Grenze:** Amtliche Leitsätze a und b gelesen, Volltextabruf gescheitert; keine feste Taxe für Bagatellverletzungen.
+
+- [BGH, Urteil vom 06.12.2022, VI ZR 168/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_168-21.pdf?__blob=publicationFile&v=1): Schockbedingte psychische Störung mit Krankheitswert als eigene Gesundheitsverletzung prüfen. **Grenze:** Amtlicher Leitsatz; kein Erfordernis über das Übliche hinausgehender Angehörigenreaktion, aber Kausalität bleibt nötig.
+
+- [BGH, Urteil vom 18.02.2014, VI ZR 383/12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2012/VI_ZR_383-12.pdf?__blob=publicationFile&v=1): Hoheitliches Abschleppen als Ersatzvornahme und öffentlich-rechtliche Verwahrung prüfen. **Grenze:** Amtliche Leitsätze a bis c; nicht auf privates Parkplatzabschleppen übertragen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

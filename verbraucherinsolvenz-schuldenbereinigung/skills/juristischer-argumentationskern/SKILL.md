@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Verbraucherinsolvenz Schuldenbereinigung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Verbraucherinsolvenz von der Schuldenübersicht zum vollständigen Antrag führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen Schuldenbereinigungsplan oder Antragssatz mit richtiger Verfahrensart, nachvollziehbarer Gläubigerliste und konkreten Bescheinigungsanforderungen."
 ---
 
-# Juristischer Argumentationskern - Verbraucherinsolvenz Schuldenbereinigung
+# Verbraucherinsolvenz von der Schuldenübersicht zum vollständigen Antrag führen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Gleiche Schuldenliste, Einnahmen, Titel und laufende Zahlungen ab. Bereite den beauftragten Einigungsversuch, Schuldenbereinigungsplan oder Verfahrensantrag mit belegten Beträgen vor.
+1.1. **Aktenstart.** Lies Gläubigerpost, Titel, Einkommen, Vermögen, Pfändungen und frühere selbstständige Tätigkeit; bereinige Dubletten und Abtretungen. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Prüfe Verbraucher- oder Regelinsolvenz anhand aktueller beziehungsweise früherer Selbstständigkeit, Gläubigerzahl und Arbeitnehmerforderungen. Stelle Schuldenbereinigungsversuch, Antrag und Restschuldbefreiung als getrennte Schritte dar.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei Kostenstundung wirtschaftlichen Neustart und Ausnahmen prüfen; bei Vermögensauskunft vollständige und widerspruchsfreie Angaben. Ausgenommene Forderungen, Deliktsattribut und mögliche Versagung dürfen nicht durch eine pauschale Entschuldungsquote verdeckt werden. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Verbraucherinsolvenz Schuldenbereinigung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständigen Schuldenbereinigungsplan oder Antragssatz mit richtiger Verfahrensart, nachvollziehbarer Gläubigerliste und konkreten Bescheinigungsanforderungen. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,85 +29,70 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Forderung und Tabelle | Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten |
 | Anfechtung und Plan | Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Außergerichtlicher Schuldenbereinigungsplan nach Paragrafen 305 InsO](../verbraucherinsolvenz-aussergerichtl-schuldenbereinigung/FACHINHALT.md)
-3.1.2. [Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung](../antrag-insolvenzgericht/FACHINHALT.md)
-3.1.3. [Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress](../buergschaften-und-mithaftung/FACHINHALT.md)
-3.1.4. [Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag](../formularcheck-insolvenzantrag/FACHINHALT.md)
+2.1.1. [Außergerichtlicher Schuldenbereinigungsplan nach Paragrafen 305 InsO](../verbraucherinsolvenz-aussergerichtl-schuldenbereinigung/FACHINHALT.md)
+2.1.2. [Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung](../antrag-insolvenzgericht/FACHINHALT.md)
+2.1.3. [Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress](../buergschaften-und-mithaftung/FACHINHALT.md)
+2.1.4. [Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag](../formularcheck-insolvenzantrag/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. InsO Paragraf 17: Zahlungsunfähigkeit.
-4.2. InsO Paragraf 18: drohende Zahlungsunfähigkeit.
-4.3. InsO Paragraf 19: Überschuldung.
-4.4. InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-4.5. InsO Paragraf 174: Forderungsanmeldung.
-4.6. StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
+3.1. InsO Paragraf 17: Zahlungsunfähigkeit.
+3.2. InsO Paragraf 18: drohende Zahlungsunfähigkeit.
+3.3. InsO Paragraf 19: Überschuldung.
+3.4. InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
+3.5. InsO Paragraf 174: Forderungsanmeldung.
+3.6. StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung als Entscheidungshilfe
 
-5.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-5.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
-5.3. BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
-5.4. BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+1. [BGH, Beschluss vom 22.09.2005, IX ZB 55/04, Gründe II.1 und II.2](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZB__55-04.pdf?__blob=publicationFile&v=1). **Anwendung:** Bei ehemaligem Alleingesellschafter-Geschäftsführer selbständige Tätigkeit und aus Beschäftigung herrührende Lohnsteuer-/Sozialversicherungsschulden auch bei persönlicher Haftung prüfen; Gläubiger, nicht Forderungspositionen zählen. **Grenze:** Nicht jeder Geschäftsführer ist selbständig und nicht jede öffentliche Forderung stammt aus Arbeitsverhältnissen. Regelinsolvenz bedeutet nicht Ausschluss der Restschuldbefreiung.
 
-## 6. Beweislast und Gegenangriff
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-Ausgangspunkt für dieses Plugin: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.
+2. [BGH, Beschluss vom 13.11.2025 – IX ZB 21/25, Rn. 7 bis 17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__21-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Eine ausgenommene Forderung verhindert nicht automatisch die Stundung. Es ist zu prüfen, ob ein wirtschaftlicher Neubeginn ernsthaft erreichbar erscheint; die tatsächlichen Verhältnisse und rechtlichen Möglichkeiten zählen. Eine feste Prozentgrenze darf nicht allein ausschlaggebend sein. Der Schuldner trägt die Feststellungslast für die ernsthaften Aussichten. **Grenze:** Jede Restschuld sei unschädlich oder Stundung müsse ungeprüft bewilligt werden. Gegenstand war eine Wertersatzeinziehung; die Entscheidung ist kein pauschaler Erlass ausgenommener Forderungen.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
 
-## 7. Prüffolge
+3. [BGH, Beschluss vom 18.11.2021 – IX ZB 1/21, Rn. 5 bis 18](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZB___1-21.pdf?__blob=publicationFile&v=1). **Anwendung:** Schriftliche Falschangaben im Vergleichs- oder Stundungsangebot können § 290 Absatz 1 Nummer 2 erfüllen. Auch mit Wissen und Billigung durch einen Dritten formulierte Angaben können zurechenbar sein. Angaben zu Eigentum und verfügbaren Sicherheiten müssen deshalb belegt werden. **Grenze:** Jeder Fehler oder jeder erfolglose Einigungsversuch führe automatisch zur Versagung. Zeitfenster, Vorsatz/grobe Fahrlässigkeit, tatbestandliche Zielsetzung und ein zulässiger Gläubigerantrag bleiben zu prüfen. Der BGH hob wegen eines Verfahrensfehlers auf und gab Hinweise für das weitere Verfahren; keine eigene abschließende Versagung.
 
-7.1. Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor.
-7.2. Welche Frist oder Pflicht trifft welche Person.
-7.3. Welche Zahlung oder Sicherheit ist anfechtbar.
-7.4. Welche Forderung ist mit welchem Rang anzumelden.
-7.5. Welche Sanierungsoption ist realistisch belegbar.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
 
-## 8. Juristisches Schreiben
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Krise feststellen, Pflichten zuordnen, Antrag und Sicherung, Forderung und Tabelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-## 9. Ausgabemodi
+4.1.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+4.1.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+4.1.3. BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
+4.1.4. BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+4.1.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
-## 10. Qualitätskontrolle
+## 5. Beweis, Gegenposition und Fristen
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt verwendbar?
+Unterscheide das Insolvenzverfahren mit § 5 InsO, die Glaubhaftmachung eines Gläubigerantrags nach § 14 InsO und einen streitigen Zivilprozess. Der Anfechtungskläger muss die anspruchsbegründenden Tatsachen darlegen und beweisen; sekundäre Darlegungslast oder Beweisvereitelung verlangen besondere Voraussetzungen. Ein außenstehender Empfänger muss fehlende Schuldnerbuchhaltung nicht generell ersetzen. Bei Organhaftung, Tabellenfeststellung und Planbestätigung gelten jeweils eigene Nachweisregeln. Rechnung, Indizienwürdigung und offene Datenlücke bleiben getrennt.
+
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere vollständigen Schuldenbereinigungsplan oder Antragssatz mit richtiger Verfahrensart, nachvollziehbarer Gläubigerliste und konkreten Bescheinigungsanforderungen. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

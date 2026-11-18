@@ -21,7 +21,7 @@ BGH, Beschl. v. 16.02.2012 - Az. V ZB 308/10. Nach Kraftloserklärung entfaltet 
 
 OLG München, Beschl. v. 01.08.2025 - Az. 34 Wx 153/25 e. Für das Briefaufgebot braucht der Grundstückseigentümer eine eigene Rechtsinhaberschaft oder tragfähige Verfahrensstandschaft. Die Ermächtigung kann aus einer Verzichtserklärung folgen; ein anfänglicher Berechtigungsmangel kann bis zur Entscheidung behoben werden. Grenze: Die Tilgung der Darlehensforderung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Die Voraussetzungen des übrigen Aufgebotsverfahrens bleiben offen; Zurückverweisung ist keine Kraftloserklärung.
 
-Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](../../grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
+Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
 
 # 4. Quellenpflicht
 

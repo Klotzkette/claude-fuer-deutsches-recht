@@ -1,9 +1,23 @@
 ---
 name: eu-sanktionsfall-steuern
-description: Führt die EU-Sanktionsprüfung für Unternehmen und Kanzleien vom konkreten Geschäft oder Mandat über Identität und Kontrolle bis zum begründeten Schreiben oder Antrag. Verbindet neun Fachskills und trennt ungeklärte Treffer von gesetzlichen Verboten und menschlicher Vollzugsfreigabe.
+description: "EU-Sanktionsfall zur nachvollziehbaren Transaktionsentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. EU-Sanktionsfall bis zum Dokument führen
+# EU-Sanktionsfall zur nachvollziehbaren Transaktionsentscheidung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Transaktion, Zeitpunkt, Beteiligte, wirtschaftlich Berechtigte, Kontrolle, Güter und Zahlungswege aus vorhandenen Nachweisen bestimmen.
+
+2. Persönlichen und territorialen Anwendungsbereich sowie konkrete Verbotsnorm prüfen. Namensähnlichkeit, Listung und Eigentums- oder Kontrollzurechnung unterscheiden; EU-Kontrolle nicht durch die US-50-Prozent-Regel ersetzen.
+
+3. Nur bei entsprechendem Befund Fachwege zu Einfrieren, Bereitstellung, sektoraler Beschränkung, Ausnahme oder Blocking-Verordnung öffnen. Beweisanzeichen für Kontrolle und ernsthafte Gegenbelege gegeneinander abwägen.
+
+4. Freigabe, Aussetzung oder Genehmigungsantrag mit genauem Umfang und verbleibenden Bedingungen ausformulieren; ein Listenscreening ist kein pauschaler Transaktionsfreibrief.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1.1. Zweck und Anwendungsfall
 
@@ -39,6 +53,16 @@ Liefern Sie zuerst das bestellte, vollständig ausformulierte Dokument in vollst
 Eine Bank hält eine Überweisung wegen eines ähnlichen Namens zurück: Zuerst Identitätsbelege und konkreten Rechtsakt klären, dann das Antwortschreiben an die Bank erstellen. Nicht pauschal Entlistung beantragen.
 
 Eine Kanzlei möchte einen gelisteten Mandanten vertreten: Mandatsleistung, Verfügung über Vorschuss, Honorarzahlung und etwaige Information getrennt prüfen. Das Ergebnis ist ein verwendbarer Mandats- oder Genehmigungsentwurf, keine allgemeine Ablehnung jeglicher Vertretung.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, 12.03.2026, C-84/24, EM System](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62024CJ0084): Widerlegbare Kontrollvermutung bei 50 Prozent Beteiligung unter Artikel 2 Absatz 1 der Verordnung 765/2006; Vermögen einer nicht selbst gelisteten Gesellschaft kann erfasst sein. **Grenze:** Keine neue Eigenlistung, keine unwiderlegbare US-Eigentumsregel; tatsächliche Gegenbelege und aktuelles Regime prüfen.
+
+- [EuGH, 21.05.2026, C-483/23, T Trust](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62023CJ0483): Fortbestehende Nutzungs-, Verfügungs- oder Einflussmöglichkeiten des gelisteten Settlors über Trustvermögen und Trusteeentscheidungen prüfen. **Grenze:** Frühere Settlorstellung allein genügt nicht; nicht die Schlussanträge vom 10.07.2025 als Urteil zitieren.
+
+- [EuGH, 03.09.2026, C-147/25, Inter Rao Lietuva](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CJ0147): Objektive, tragfähige Indizien für zugerechnete Kontrolle verlangen; politische Staatsstruktur allein ersetzt keine konkrete Beweisführung. **Grenze:** Keine pauschale Entlastung bei tatsächlichen Einflussrechten und keine Entscheidung über Namensvergleichsalgorithmen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 2. Verständlich arbeiten und sichtbar prüfen

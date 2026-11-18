@@ -1,9 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Begründet konkrete Formhindernisse einer beA-Versandmappe anhand von Datei, Signaturroute und Eingangsbeleg. Liefert einen nachvollziehbaren Freigabe- oder Rückfragevermerk; prüft keine Ansprüche, Erfolgsaussichten oder materiellen Einwendungen."
+description: "Versandmappe bis zur kontrollierten Übergabe vorbereiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Formhindernisse der Versandmappe begründen
+# Versandmappe bis zur kontrollierten Übergabe vorbereiten
+
+Lies bestimmte Endfassung, Anlagenbezüge, Originale, Zielgericht und bekannten Übermittlungsweg; trenne verschiedene Verfahren.
+
+**Entscheidung im Arbeitsablauf:** Prüfe Dateiinhalt, Zuordnung, Signaturanforderung, zulässige Form und tatsächlichen Eingang als eigene Kontrollpunkte. Ein sinnvoller Dateiname hilft, beweist aber nicht die richtige Endfassung.
+
+**Bis zum Ergebnis weiterarbeiten:** Erzeuge die beauftragte kontrollierte Mappe und den getrennten Prüfvermerk; keine tatsächliche Signatur oder Einreichung behaupten, die nicht durchgeführt wurde. Ein geänderter Schriftsatz verlangt erneuten Vergleich sämtlicher Anlagenverweise; nach autorisiertem Versand ist die Bestätigung genau dieser Datei zuzuordnen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

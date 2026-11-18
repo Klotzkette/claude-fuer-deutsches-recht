@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Ecommerce Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Onlineshop prüfen und konkrete Texte korrigieren. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Ecommerce Recht
+# Onlineshop prüfen und konkrete Texte korrigieren
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Prüfe den konkreten Bestellweg, die angezeigten Informationen und die Vertragsunterlagen. Begründe die nötige Änderung des Shops, der Plattformpraxis oder des Kundenschreibens.
+Rekonstruiere den tatsächlichen Kaufweg mit Produktseite, Warenkorb, Bestellschaltfläche, Pflichtinformationen und Bestätigung für das relevante Kundensegment.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,6 +62,8 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) enthalten die fallbezogene Anwendung, Aussagegrenze und den dokumentierten Prüfstand. Nutze einen Anker nur für die dort bezeichnete Frage; eine Dokumentation früherer Prüfung ist keine heutige Live-Verifikation.
+
 5.1. EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 5.2. BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 5.3. BGH, Urteil vom 04.03.2010 - III ZR 79/09: Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt.
@@ -72,20 +74,24 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welche Vertragstypen prägen die Leistung.
-7.2. Welche Spezifikation ist messbar und abnahmefähig.
-7.3. Welche Mitwirkung hat gefehlt oder war verzugsrelevant.
-7.4. Welche Nutzungsrechte und Datenpflichten sind erforderlich.
-7.5. Welche Eskalation verhindert Projektstillstand.
+7.1. Trenne Vertragsschluss, Preisangabe, Widerruf, digitale Leistung und Datenschutz. Beurteile die Beschriftung der zahlungsauslösenden Schaltfläche selbst und behandle B2B-Ausschlüsse nur bei tragfähiger Umsetzung.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Schreibe die erforderlichen Texte und konkreten Änderungen am Kaufweg aus; belege jeden Befund am betroffenen Bildschirm oder Dokument.
+
+7.4. Eine andere Bestellschaltfläche oder zusätzliche kostenpflichtige Option verlangt einen erneuten Vertragsschluss- und Preischeck; allgemeine AGB heilen keinen fehlerhaften Bestellschritt.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

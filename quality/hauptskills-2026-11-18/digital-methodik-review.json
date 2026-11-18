@@ -1,0 +1,1898 @@
+[
+  {
+    "plugin": "anwaltschaft-generell",
+    "source": "./anwaltschaft-generell",
+    "theme": "anwaltschaft-generell",
+    "main_skill": "mandat-bis-zum-schreiben-bearbeiten",
+    "path": "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md",
+    "before_sha256": "8ef8f611f57fca4533251e46dddc0386cb2d6570c71fd11b7d5bbfe1dd7a9134",
+    "after_sha256": "54c3bc714e379b608019ab8f3f80edfe1c4ff2311426db1a34bfcb751d7b7668",
+    "reference": "anwaltschaft-generell/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "6d8d6837bd72017368b44cedcbcbc251c2c7830a2fbf00ac8a8f76cc09a6864c",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Zahlung, Nacherfüllung, Rücktritt und Schadensersatz; vertiefe nur den streitentscheidenden Anspruch, seine Einwendung und den fehlenden Beleg.",
+      "Arbeite Begehren, Betrag, Leistungsfrist und Gegenargument in den adressierten Entwurf ein, statt nach der Anspruchsmatrix anzuhalten.",
+      "Eine Teilzahlung verändert Rechnung, Zinsen und Begehren gemeinsam; eine neue Gesellschaftsbezeichnung verlangt vor dem Versand einen erneuten Parteiabgleich."
+    ],
+    "scenario": {
+      "input": "Ordne Vertrag, Nachtrag, Rechnung und Korrespondenz dem tatsächlichen Vertragspartner und dem bestellten Schreiben zu; sichere den frühesten belegten Rechtsverlust.",
+      "expected_result": "Arbeite Begehren, Betrag, Leistungsfrist und Gegenargument in den adressierten Entwurf ein, statt nach der Anspruchsmatrix anzuhalten.",
+      "new_information": "Eine Teilzahlung verändert Rechnung, Zinsen und Begehren gemeinsam; eine neue Gesellschaftsbezeichnung verlangt vor dem Versand einen erneuten Parteiabgleich."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "barrierefreiheit-web-checker",
+    "source": "./barrierefreiheit-web-checker",
+    "theme": "barrierefreiheit",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "barrierefreiheit-web-checker/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "0500c3ffeb14de80774d28fae91ad060f417fb26156173b42b8b63d6c1786c9f",
+    "after_sha256": "8300916ed35192880c25da4ea98f01ea38f133c8dc4f517d4731ea8277ef88fc",
+    "reference": "barrierefreiheit-web-checker/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "a3ec8e08d9c6747ee10e45977c863324ab524a3c9c07674d079fc4ba9b9860ae",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne BFSG/BFSGV, öffentliches Barrierefreiheitsrecht und vertraglich zugesagte Eigenschaften. Prüfe einzelne Schritte mit Tastatur, Beschriftung und Fehlermeldung; ein automatischer Scanner allein beweist keine Konformität.",
+      "Liefere reproduzierbaren Befund, einschlägige Anforderung, konkreten Änderungsvorschlag und nachprüfbaren Abnahmeschritt; formuliere eine bestellte Behördenantwort vollständig.",
+      "Ein behobener Kontrastfehler schließt den Vorgang erst nach erneutem Nutzerwegtest; ein unerreichbarer Login bleibt ausdrücklich ungeprüft."
+    ],
+    "scenario": {
+      "input": "Bestimme Website oder App, Betreiberrolle, Nutzerweg, Veröffentlichungsstand und betroffene Personengruppe anhand der vorliegenden Screenshots und des tatsächlich zugänglichen Angebots.",
+      "expected_result": "Liefere reproduzierbaren Befund, einschlägige Anforderung, konkreten Änderungsvorschlag und nachprüfbaren Abnahmeschritt; formuliere eine bestellte Behördenantwort vollständig.",
+      "new_information": "Ein behobener Kontrastfehler schließt den Vorgang erst nach erneutem Nutzerwegtest; ein unerreichbarer Login bleibt ausdrücklich ungeprüft."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "bea-versand",
+    "source": "./bea-versand",
+    "theme": "dokumentenworkflow",
+    "main_skill": "bea-anlagen-versand",
+    "path": "bea-versand/skills/bea-anlagen-versand/SKILL.md",
+    "before_sha256": "ba99987ce84e1c49cd7f3950b21813c4079850874cda17454fcbf94178faf096",
+    "after_sha256": "e534700b7031c81155bfdcf096a8b57e8800ef1fadf71fbb90e993f9b8c80689",
+    "reference": "bea-versand/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "72f2055f946e5bab0afbb033bba350f3cc92487ddee9eab2b7405a4d01cbc9b2",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne fehlende Anlage, widersprüchliche Anlagenbezeichnung und ungeklärte Endfassung. Frage nur den blockierten Punkt nach und produziere die eindeutig zugeordneten Anlagen weiter.",
+      "Erzeuge die vereinbarten PDF-Kopien, kontrolliere Lesbarkeit, Seitenzahl, Stempel und Dateizuordnung und liefere eine tatsächlich vorhandene Versandmappe mit getrenntem Prüfvermerk.",
+      "Eine ersetzte Anlage führt zur erneuten Prüfung aller Verweise und zur Entfernung der überholten Kopie aus der neuen Versandmappe; Original und Vorfassung bleiben erhalten. Vorbereitung ist kein Versandauftrag."
+    ],
+    "scenario": {
+      "input": "Lies die bestimmte Endfassung samt Anlagenverweisen und ordne die gelieferten Originaldateien nach Inhalt, nicht allein nach Dateinamen zu.",
+      "expected_result": "Erzeuge die vereinbarten PDF-Kopien, kontrolliere Lesbarkeit, Seitenzahl, Stempel und Dateizuordnung und liefere eine tatsächlich vorhandene Versandmappe mit getrenntem Prüfvermerk.",
+      "new_information": "Eine ersetzte Anlage führt zur erneuten Prüfung aller Verweise und zur Entfernung der überholten Kopie aus der neuen Versandmappe; Original und Vorfassung bleiben erhalten. Vorbereitung ist kein Versandauftrag."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "berichtspflichten-erlediger",
+    "source": "./berichtspflichten-erlediger",
+    "theme": "reporting",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berichtspflichten-erlediger/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "4ecc34cf95e1042cc05fc213a4587a38b763b92c9f970da1a27bed6303629855",
+    "after_sha256": "e5232f88132f791a5a29497d3407a48d7f9e2948572d0efa5f1c53f9e3387a72",
+    "reference": "berichtspflichten-erlediger/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "4481a3e0ed2137e5da6ec8d02e2be5f47a5178cc70c00ddc9b5671268371aeb2",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Unterscheide gesetzliche Pflicht, behördliche Heranziehung und freiwillige Auskunft. Rechne Schwellen aus belegten Bezugsgrößen und prüfe Ausnahme, Datenlücke oder Belastungseinwand am einschlägigen Regime.",
+      "Fülle die verlangten Felder aus, erläutere ungeklärte Abweichungen und liefere die Meldung oder den begründeten Antwortentwurf samt Quellen der Kennzahlen.",
+      "Ein korrigierter Konzernumsatz kann Pflicht und Bezugsgruppe ändern; erneuere dann die betroffenen Felder und die Begründung, nicht nur den Zahlenwert."
+    ],
+    "scenario": {
+      "input": "Ermittle aus Aufforderung, Unternehmensdaten und Berichtszeitraum den konkreten Adressaten, Meldegegenstand, Stichtag und Eingangstermin.",
+      "expected_result": "Fülle die verlangten Felder aus, erläutere ungeklärte Abweichungen und liefere die Meldung oder den begründeten Antwortentwurf samt Quellen der Kennzahlen.",
+      "new_information": "Ein korrigierter Konzernumsatz kann Pflicht und Bezugsgruppe ändern; erneuere dann die betroffenen Felder und die Begründung, nicht nur den Zahlenwert."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "buerokratieversteher-entbuerokratisierer",
+    "source": "./buerokratieversteher-entbuerokratisierer",
+    "theme": "behoerdenklartext",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "buerokratieversteher-entbuerokratisierer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f8a8fc8aa50359b5747fe3d432ecfd92e8e77cc3e8630c0690720329348f0544",
+    "after_sha256": "da3dc818a9e6c8c4e4cfd7567a17c38133015aa6fa3f154bf09fd910686ee1d4",
+    "reference": "buerokratieversteher-entbuerokratisierer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "831005860c68b3dcda1ef9b88d16efc77ecd8908203b7f987aa339dc2df16723",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Übersetze die tragende Anforderung in Alltagssprache und trenne fehlende Tatsachen von einem Rechtsfehler. Bestimme anhand des konkreten Fachrechts, ob Antwort, Antrag oder Rechtsbehelf gebraucht wird.",
+      "Schreibe das beauftragte Antwortschreiben mit Bezug, Belegen, konkretem Anliegen und belegter Frist; gib die verständliche Erklärung getrennt vom Empfängertext aus.",
+      "Eine nachgereichte Anhörung verlangt Prüfung, ob tatsächliche Äußerungsmöglichkeit bestand und das Vorbringen berücksichtigt wurde; ein Widerspruch allein beweist keine Heilung."
+    ],
+    "scenario": {
+      "input": "Lies den vollständigen Bescheid einschließlich Anlagen, Rechtsbehelfsbelehrung und Zugangsnachweis; bestimme, ob Anhörung, Auskunft, Entscheidung oder Vollstreckung vorliegt.",
+      "expected_result": "Schreibe das beauftragte Antwortschreiben mit Bezug, Belegen, konkretem Anliegen und belegter Frist; gib die verständliche Erklärung getrennt vom Empfängertext aus.",
+      "new_information": "Eine nachgereichte Anhörung verlangt Prüfung, ob tatsächliche Äußerungsmöglichkeit bestand und das Vorbringen berücksichtigt wurde; ein Widerspruch allein beweist keine Heilung."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "common-law-kompass",
+    "source": "./common-law-kompass",
+    "theme": "commonlaw",
+    "main_skill": "kommandocenter",
+    "path": "common-law-kompass/skills/kommandocenter/SKILL.md",
+    "before_sha256": "19c9dcde51afe4ebaafc235fcf1a8fde1920fdd6e60dbd9c77f7e584efda832e",
+    "after_sha256": "fa5c16a02990f473bfbcb4bc881943d6973683a0d13dd06a50b96fd167fe6225",
+    "reference": "common-law-kompass/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "6e2d6f9aed5908befdb70c19269c29d42144a8173cbbf0bbe781e06bbca699cc",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne statutory law, binding precedent und persuasive authority nach Gerichtshierarchie und Zeitpunkt. Vergleiche ratio und entscheidungserhebliche Tatsachen, bevor ein Fall als Präjudiz behandelt wird.",
+      "Erstelle ein rechtsraumspezifisches Memo oder die verlangte Vertragsfassung mit begründeter Anwendung und Gegenfall; deutsche Anspruchsreihenfolgen nicht auf fremdes Recht übertragen.",
+      "Ein Wechsel von englischem Recht zu New Yorker Recht löst eine neue Rechtsquellen- und Durchsetzbarkeitsprüfung aus; eine sprachliche Anpassung allein genügt nicht."
+    ],
+    "scenario": {
+      "input": "Bestimme Staat, gegebenenfalls US-Bundesstaat, Gericht, Vertragsrechtswahl, Sachverhalt und gewünschtes Produkt; gleiche den englischen Originaltext mit seiner Übersetzung ab.",
+      "expected_result": "Erstelle ein rechtsraumspezifisches Memo oder die verlangte Vertragsfassung mit begründeter Anwendung und Gegenfall; deutsche Anspruchsreihenfolgen nicht auf fremdes Recht übertragen.",
+      "new_information": "Ein Wechsel von englischem Recht zu New Yorker Recht löst eine neue Rechtsquellen- und Durchsetzbarkeitsprüfung aus; eine sprachliche Anpassung allein genügt nicht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "datenbankrecht",
+    "source": "./datenbankrecht",
+    "theme": "datenbank",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "datenbankrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "10274b6802284ebebd3c150f9adb3e42e51477002634b767bce9ee829d723d80",
+    "after_sha256": "11eb3a8c04c492e5cc97dda3cf40f80192ec118d2189c332b7825d663932eb49",
+    "reference": "datenbankrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "b2f2b6c8bb309ef09e160b7522156c056a8f2ef251d0ae02611cf4e85b3d89fc",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Datenbankwerk, Herstellerrecht und Vertrag. Ordne Kosten der Erzeugung getrennt von Beschaffung, Prüfung und Darstellung zu; prüfe wesentliche Entnahme und kumulierte wiederholte Zugriffe.",
+      "Formuliere die erlaubte Nutzung, Lizenzklausel, Abmahnung oder Verteidigung mit belegtem Schutzgegenstand und konkret bestimmter Handlung.",
+      "Eine zusätzliche Exportserie verändert die kumulative Entnahmebewertung; aus dem bloßen Vorliegen einer Datenliste folgt weiterhin kein Herstellerrecht."
+    ],
+    "scenario": {
+      "input": "Sichere Datenbestand, Entstehung, Investitionsunterlagen, Zugriffsmethode und konkret übernommene Inhalte mit Umfang und Zeitfolge.",
+      "expected_result": "Formuliere die erlaubte Nutzung, Lizenzklausel, Abmahnung oder Verteidigung mit belegtem Schutzgegenstand und konkret bestimmter Handlung.",
+      "new_information": "Eine zusätzliche Exportserie verändert die kumulative Entnahmebewertung; aus dem bloßen Vorliegen einer Datenliste folgt weiterhin kein Herstellerrecht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 3
+  },
+  {
+    "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+    "source": "./datenschutz-sanktionsverfahren-verteidigung",
+    "theme": "datenschutz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "datenschutz-sanktionsverfahren-verteidigung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3881e0ed349c093eb420452f8d4f5fa85724c117a00f761bc16e90f19ffde89d",
+    "after_sha256": "96018bf9ca37c7e885af205c73f6787c7f513f14d4c25b71cecac19d86b4e6e7",
+    "reference": "datenschutz-sanktionsverfahren-verteidigung/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "ae313467b5e8cc5e6b08e98a1f3fff6effb054477d38656c31308c3ca1938e34",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe objektiven Verstoß, Zurechnung, Vorsatz oder Fahrlässigkeit, Umsatzbezug, Verfahrensrechte und Zumessung getrennt. Ein Unternehmensbußgeld erfordert keine zuvor identifizierte Leitungsperson, bleibt aber verschuldensgebunden.",
+      "Entwirf die konkrete Stellungnahme oder den statthaften Rechtsbehelf mit Beweisanträgen, Gegenrechnung und gegebenenfalls begründetem Hilfsbegehren zur Höhe.",
+      "Neue Löschprotokolle können Tatdauer und Zumessung verändern; sie beseitigen einen früheren Verstoß nicht automatisch. Jeden geänderten Punkt im selben Entwurf nachführen."
+    ],
+    "scenario": {
+      "input": "Sichere Anhörung, Bußgeldbescheid oder Anordnung, Zustellung, Verarbeitungsvorgang und verantwortliche Gesellschaft; trenne Sanktions- und Abhilfeverfahren.",
+      "expected_result": "Entwirf die konkrete Stellungnahme oder den statthaften Rechtsbehelf mit Beweisanträgen, Gegenrechnung und gegebenenfalls begründetem Hilfsbegehren zur Höhe.",
+      "new_information": "Neue Löschprotokolle können Tatdauer und Zumessung verändern; sie beseitigen einen früheren Verstoß nicht automatisch. Jeden geänderten Punkt im selben Entwurf nachführen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "datenschutzrecht",
+    "source": "./datenschutzrecht",
+    "theme": "datenschutz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "datenschutzrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "d5f6a3a68b4073fd7e7f1bd0a7a5ebead7c2bf06d290efa4a5bf6780a89944ca",
+    "after_sha256": "f0b95c2ccaa07948687721f0214df75a11900b1cf11774ce8f39b167b489f027",
+    "reference": "datenschutzrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "384b702f49aa26d3ea95055788e920857aece2cb5fdba70c314090047d5bdc6a",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Rechtsgrundlage, Zweck, Erforderlichkeit, Betroffenenrecht und Sicherheit. Bei Auskunft Datenkopie und notwendigen Kontext von fremden Daten abgrenzen; bei automatisierter Entscheidung die tatsächliche Einflusskette aufklären.",
+      "Erstelle den bestellten Bescheid, Auskunftsentwurf, Vertrag oder Vermerk mit konkreten Datenkategorien, Empfängern, Fristen und nachvollziehbarer Abwägung.",
+      "Eine neue Drittbetroffenheit verändert die konkrete Schwärzung, nicht pauschal den ganzen Auskunftsanspruch; eine menschliche Zwischenfreigabe ist auf tatsächlichen Einfluss zu prüfen."
+    ],
+    "scenario": {
+      "input": "Bestimme aus Datenfluss, Verträgen und Anfrage, wer für welchen Verarbeitungsschritt verantwortlich ist, welche Person betroffen ist und welches Ergebnis benötigt wird.",
+      "expected_result": "Erstelle den bestellten Bescheid, Auskunftsentwurf, Vertrag oder Vermerk mit konkreten Datenkategorien, Empfängern, Fristen und nachvollziehbarer Abwägung.",
+      "new_information": "Eine neue Drittbetroffenheit verändert die konkrete Schwärzung, nicht pauschal den ganzen Auskunftsanspruch; eine menschliche Zwischenfreigabe ist auf tatsächlichen Einfluss zu prüfen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "designrecht-geschmacksmusterrecht",
+    "source": "./designrecht-geschmacksmusterrecht",
+    "theme": "design",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "designrecht-geschmacksmusterrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8b49bf83888854befd37dca1dfcc04f6200c32b4ff1e1b082be6a799acbeb9dd",
+    "after_sha256": "707efd065b85ee117e2aba842abc6bc45af973f91ea958841c85672f03118092",
+    "reference": "designrecht-geschmacksmusterrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "874af48ddf33667882dad3ac8d9c5c7f2380da77ffe60427f6b926633a88a23f",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Schutzform, Neuheit, Eigenart und Schutzumfang getrennt. Vergleiche den Gesamteindruck jeweils mit einer einzelnen Vorveröffentlichung; bilde kein künstliches Mosaik aus mehreren Designs.",
+      "Erarbeite Anmeldeempfehlung, Verletzungsmatrix, Antrag oder Verteidigung mit erläuterten Gemeinsamkeiten, Unterschieden und passenden Belegen.",
+      "Eine frühere Messeveröffentlichung verändert Priorität und gegebenenfalls Schonfrist; eine andere Rückseitenansicht verlangt eine neue Gesamtbetrachtung statt bloßem Austausch des Fotos."
+    ],
+    "scenario": {
+      "input": "Sichere Abbildungen, Offenbarungsdaten, Registerstand, Rechtekette und angegriffene Gestaltung in vergleichbarer Ansicht.",
+      "expected_result": "Erarbeite Anmeldeempfehlung, Verletzungsmatrix, Antrag oder Verteidigung mit erläuterten Gemeinsamkeiten, Unterschieden und passenden Belegen.",
+      "new_information": "Eine frühere Messeveröffentlichung verändert Priorität und gegebenenfalls Schonfrist; eine andere Rückseitenansicht verlangt eine neue Gesamtbetrachtung statt bloßem Austausch des Fotos."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "deutsche-rechtsgeschichte",
+    "source": "./deutsche-rechtsgeschichte",
+    "theme": "rechtsgeschichte",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "deutsche-rechtsgeschichte/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e191a1f42bad6d38c6f5cd9b35f788de917535167b3f5a30f9f81830cc35aa04",
+    "after_sha256": "f17851943588bd838b4a3da928c1b29072501425585646ea30bee48e820928a8",
+    "reference": "deutsche-rechtsgeschichte/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "9b046ea4d279c95057457d5b8d100e12a43a625b8dc581579dce0a88a5a21f26",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne damalige Norm, tatsächliche Anwendung, spätere Deutung und heutige Anschlussfrage. Heutige Rechtsbegriffe nur als offengelegte Vergleichskategorien verwenden.",
+      "Schreibe die verlangte historische Analyse mit belegter Quellenkritik, Gegenlesart und nachvollziehbarer Einordnung; keine aktuelle Mandatslösung aus historischer Norm ableiten.",
+      "Eine spätere Edition kann den Textbefund verändern; eine neu aufgefundene Gerichtsakte kann die tatsächliche Anwendung korrigieren, ohne den Normtext zu ändern."
+    ],
+    "scenario": {
+      "input": "Bestimme Epoche, Rechtsraum, Institution und konkrete Forschungsfrage; sichere Ausgabe, Textzeuge, Sprache und Entstehungszeit jeder Quelle.",
+      "expected_result": "Schreibe die verlangte historische Analyse mit belegter Quellenkritik, Gegenlesart und nachvollziehbarer Einordnung; keine aktuelle Mandatslösung aus historischer Norm ableiten.",
+      "new_information": "Eine spätere Edition kann den Textbefund verändern; eine neu aufgefundene Gerichtsakte kann die tatsächliche Anwendung korrigieren, ohne den Normtext zu ändern."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "dfg-foerderantrag",
+    "source": "./dfg-foerderantrag",
+    "theme": "foerderantrag",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "dfg-foerderantrag/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8aef2af2eef86c1c45a8ba8e55603e11001e8684e0650b045fc17a26659694b9",
+    "after_sha256": "e30be044bff7600c03980f8e3d3c0d77028e0319cc311a6fe186493e7aef6b0c",
+    "reference": "dfg-foerderantrag/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "489e43a326e2c072e0bc1ff4e88901b3b18aa8c5fb122a2ff2563d3d5056f0a6",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Verbinde Forschungsfrage, Methode, Arbeitspakete, Personalbedarf und Kosten. Bei Interviews oder sensiblen Daten Schutzkonzept, Einwilligung und Grenzen zugesagter Vertraulichkeit gesondert ausarbeiten.",
+      "Liefere die bestellten Antragsteile vollständig mit konsistenten Arbeitspaketen, Begründung der Mittel und offenen Nachweisen; keine erfundenen Vorarbeiten oder Förderzusagen.",
+      "Eine gekürzte Personalstelle verändert Zeitplan, Meilensteine und Budget zusammen; methodische Risiken werden mit einer realistischen Alternative beantwortet."
+    ],
+    "scenario": {
+      "input": "Lies die konkrete Ausschreibung, Vorhabenbeschreibung, Vorarbeiten, Personalplanung und Budgetdaten; sichere geltende Formularfassung und Einreichtermin.",
+      "expected_result": "Liefere die bestellten Antragsteile vollständig mit konsistenten Arbeitspaketen, Begründung der Mittel und offenen Nachweisen; keine erfundenen Vorarbeiten oder Förderzusagen.",
+      "new_information": "Eine gekürzte Personalstelle verändert Zeitplan, Meilensteine und Budget zusammen; methodische Risiken werden mit einer realistischen Alternative beantwortet."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "diesel-schadensersatz",
+    "source": "./diesel-schadensersatz",
+    "theme": "produkt",
+    "main_skill": "01-kaltstart-aktenaufnahme",
+    "path": "diesel-schadensersatz/skills/01-kaltstart-aktenaufnahme/SKILL.md",
+    "before_sha256": "ab0620665cb2dfc3821edf068b29864fd3386b44b86fecbf02c852df98c3d648",
+    "after_sha256": "1a02805f6b271e635b584db75acf886b139a8b88d0eb2594a6a10cfbf8e07912",
+    "reference": "diesel-schadensersatz/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "912affe05b23e04603cf921b987e18e276c92b638b395a488816d23391ec335c",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne vorsätzliche sittenwidrige Schädigung von Schutzgesetzverletzung und Differenzschaden. Prüfe Einrichtung, Behördeninformation, Verschulden, Verjährung und Vorteilsausgleich anhand fahrzeugbezogener Belege.",
+      "Erstelle die beauftragte Anspruchsbewertung oder den vollständigen Schriftsatz mit passendem Haupt- und Hilfsbegehren und nachvollziehbarer Schadensrechnung.",
+      "Ein späterer KBA-Bescheid verlangt Abgleich von Version und Informationsgrundlage; geringe Jahresfahrleistung kann eine andere Nutzungsbewertung erfordern, ohne eine Pauschalquote zu rechtfertigen."
+    ],
+    "scenario": {
+      "input": "Ordne Kaufvertrag, Fahrzeugidentifikation, Motor, Zulassung, Softwarestand, Rückrufunterlagen und Nutzung genau diesem Fahrzeug und Erwerbszeitpunkt zu.",
+      "expected_result": "Erstelle die beauftragte Anspruchsbewertung oder den vollständigen Schriftsatz mit passendem Haupt- und Hilfsbegehren und nachvollziehbarer Schadensrechnung.",
+      "new_information": "Ein späterer KBA-Bescheid verlangt Abgleich von Version und Informationsgrundlage; geringe Jahresfahrleistung kann eine andere Nutzungsbewertung erfordern, ohne eine Pauschalquote zu rechtfertigen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "dsa-dma-digitalregulierung",
+    "source": "./dsa-dma-digitalregulierung",
+    "theme": "digitalplattform",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "dsa-dma-digitalregulierung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "4674f0bebfc1c16bd16a4d87607dbe2be79a171d79341c285d6ffb2e8a1c43f9",
+    "after_sha256": "a84c3d9458489930d372d7add866f49fa851136381b2876780951ca4db89eb7c",
+    "reference": "dsa-dma-digitalregulierung/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "529a9589628ef2e1da13bcc50be8ee755b12e85e45354e7de5b94e86399d3762",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne DSA-Dienstekategorie, VLOP/VLOSE-Benennung und DMA-Gatekeeperstellung. Ordne jede Pflicht dem betroffenen Dienst und Verfahren zu; Besucher, aktive Nutzer, Käufer und Umsatz nicht gleichsetzen.",
+      "Erstelle den verlangten Pflichtenplan, die Beschwerdeantwort oder Behördenstellungnahme mit Dienstbezug, Beleggrundlage und begründetem Umsetzungsweg.",
+      "Eine neue Vermittlungsfunktion kann die Dienstekategorie ändern; aktualisiere dann den betroffenen Pflichtenstrang, statt sämtliche Konzernangebote pauschal gleich einzustufen."
+    ],
+    "scenario": {
+      "input": "Ermittle Dienst, Funktionen, Unternehmensrolle, Nutzerzahlen, Zielmärkte und konkrete Behördenmaßnahme anhand des realen Angebots.",
+      "expected_result": "Erstelle den verlangten Pflichtenplan, die Beschwerdeantwort oder Behördenstellungnahme mit Dienstbezug, Beleggrundlage und begründetem Umsetzungsweg.",
+      "new_information": "Eine neue Vermittlungsfunktion kann die Dienstekategorie ändern; aktualisiere dann den betroffenen Pflichtenstrang, statt sämtliche Konzernangebote pauschal gleich einzustufen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "e-rechnung-werkstatt",
+    "source": "./e-rechnung-werkstatt",
+    "theme": "erechnung",
+    "main_skill": "e-rechnung-erstellen",
+    "path": "e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md",
+    "before_sha256": "b3f7a9ed10f307f6675c3307e1ef6cfebb70fe668dd2a2733eed8b60b1e2c808",
+    "after_sha256": "3d7fbea5971a2fe89e6d3f654152f3d2b8027a81e46c1217e487aef2e27df862",
+    "reference": "e-rechnung-werkstatt/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "31c8bd853f35e2af37f4305cf8437c8810c0b389ed996ceb9ddafa82621ed21f",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne sachliche Rechnungskorrektur von Formatkonvertierung. Kläre Steuerbehandlung und fehlende Pflichtangaben gezielt; wähle XRechnung oder ZUGFeRD mit dem tatsächlich verlangten Profil und Empfängerkanal.",
+      "Erzeuge die vereinbarte strukturierte Datei und gegebenenfalls eingebettete Darstellung; prüfe Schema, Geschäftsregeln, Rechenwerte und sichtbare Übereinstimmung mit dem verwendeten Validator.",
+      "Eine Gutschrift oder neue Steuersatzangabe verlangt Neuberechnung und erneute Validierung; ein erfolgreiches XML-Schema ersetzt weder materielle Steuerprüfung noch bestätigten Rechnungseingang."
+    ],
+    "scenario": {
+      "input": "Lies Auftrag, Leistungsbeleg und Rechnungsentwurf; bestimme Aussteller, Empfänger, Leistungszeit, Beträge und verlangtes Format anhand vorhandener Angaben.",
+      "expected_result": "Erzeuge die vereinbarte strukturierte Datei und gegebenenfalls eingebettete Darstellung; prüfe Schema, Geschäftsregeln, Rechenwerte und sichtbare Übereinstimmung mit dem verwendeten Validator.",
+      "new_information": "Eine Gutschrift oder neue Steuersatzangabe verlangt Neuberechnung und erneute Validierung; ein erfolgreiches XML-Schema ersetzt weder materielle Steuerprüfung noch bestätigten Rechnungseingang."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "ecommerce-recht",
+    "source": "./ecommerce-recht",
+    "theme": "ecommerce",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "ecommerce-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1d34a22f42afe29219860bea549d3c7932c413a0213e574381674a5787eb64c8",
+    "after_sha256": "3a7058a36ffa434c385d6ec37f9c10789365c383cfca1f61b0a2b9bc8352e4d1",
+    "reference": "ecommerce-recht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "b08d65038610fcea68c7380cc3fbe2f00158a83c91f86ea0c9c356f2b56b0f0e",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Vertragsschluss, Preisangabe, Widerruf, digitale Leistung und Datenschutz. Beurteile die Beschriftung der zahlungsauslösenden Schaltfläche selbst und behandle B2B-Ausschlüsse nur bei tragfähiger Umsetzung.",
+      "Schreibe die erforderlichen Texte und konkreten Änderungen am Kaufweg aus; belege jeden Befund am betroffenen Bildschirm oder Dokument.",
+      "Eine andere Bestellschaltfläche oder zusätzliche kostenpflichtige Option verlangt einen erneuten Vertragsschluss- und Preischeck; allgemeine AGB heilen keinen fehlerhaften Bestellschritt."
+    ],
+    "scenario": {
+      "input": "Rekonstruiere den tatsächlichen Kaufweg mit Produktseite, Warenkorb, Bestellschaltfläche, Pflichtinformationen und Bestätigung für das relevante Kundensegment.",
+      "expected_result": "Schreibe die erforderlichen Texte und konkreten Änderungen am Kaufweg aus; belege jeden Befund am betroffenen Bildschirm oder Dokument.",
+      "new_information": "Eine andere Bestellschaltfläche oder zusätzliche kostenpflichtige Option verlangt einen erneuten Vertragsschluss- und Preischeck; allgemeine AGB heilen keinen fehlerhaften Bestellschritt."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "einfache-leichte-sprache-jura",
+    "source": "./einfache-leichte-sprache-jura",
+    "theme": "methodik",
+    "main_skill": "kommandocenter",
+    "path": "einfache-leichte-sprache-jura/skills/kommandocenter/SKILL.md",
+    "before_sha256": "0c4bc7b36289103948e0cfd4459e2065d0299aff668fd1a2150213f98c496588",
+    "after_sha256": "dbdd45c93c2e0c35ba674494a283b4aecd90a683774ff667d28419ba22f33125",
+    "reference": "einfache-leichte-sprache-jura/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "e7710a3c23e56b3aa32884451c95e59dddd4f287bf3540655a547c483f181166",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Sichere Rechtsfolge, Voraussetzungen, Ausnahme, Betrag und Frist vor der sprachlichen Vereinfachung. Trenne eine vollständige Übertragung von einer ausdrücklich bestellten Zusammenfassung.",
+      "Liefere den verständlichen Text selbst; ergänze nur erforderliche Begriffserklärungen und einen getrennten kurzen Hinweis auf noch ungeprüfte Zielgruppenverständlichkeit.",
+      "Eine geänderte Frist oder Ausnahme muss im verständlichen Text und in jeder beigefügten Übersicht übereinstimmen; keine bestätigte Prüfung durch eine Zielgruppe behaupten, wenn sie nicht stattfand."
+    ],
+    "scenario": {
+      "input": "Lies Ausgangstext, Zielgruppe und gewünschtes Format; nutze einen bereits bestimmten Sprachmodus ohne erneute Auswahlfrage.",
+      "expected_result": "Liefere den verständlichen Text selbst; ergänze nur erforderliche Begriffserklärungen und einen getrennten kurzen Hinweis auf noch ungeprüfte Zielgruppenverständlichkeit.",
+      "new_information": "Eine geänderte Frist oder Ausnahme muss im verständlichen Text und in jeder beigefügten Übersicht übereinstimmen; keine bestätigte Prüfung durch eine Zielgruppe behaupten, wenn sie nicht stattfand."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "europarecht-kompass",
+    "source": "./europarecht-kompass",
+    "theme": "eu_recht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "europarecht-kompass/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "67e273adef63dd436b4023f2af6e8218faea5652593985972ebeb8de3b8e4bad",
+    "after_sha256": "6df647913fcbdff2414b7645318f0064a8fa946ddb590222368ef179c73de039",
+    "reference": "europarecht-kompass/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "5a96e80a00e29837cac3d12478031d8a88ebe012fd39c504664ec95b77f198ad",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne unmittelbare Wirkung, konforme Auslegung, Anwendungsvorrang und Staatshaftung. Bestimme bei Richtlinien insbesondere vertikales oder horizontales Verhältnis; Vorrang allein schafft keine zusätzliche private Pflicht.",
+      "Formuliere die bestellte Stellungnahme, Vorlageanregung oder Klagebegründung mit entscheidungserheblicher Frage und konkreter Auswirkung auf den Fall.",
+      "Ein neuer nationaler Umsetzungsakt kann die Prüfung von unmittelbarer Wirkung zur Auslegung verlagern; eine bereits geklärte EuGH-Frage verändert die Vorlagebegründung."
+    ],
+    "scenario": {
+      "input": "Bestimme Maßnahme, Beteiligte, Mitgliedstaat, Regelungsdatum und betroffene Unionsnorm; lies nationale Entscheidung und Verfahrensstand gemeinsam.",
+      "expected_result": "Formuliere die bestellte Stellungnahme, Vorlageanregung oder Klagebegründung mit entscheidungserheblicher Frage und konkreter Auswirkung auf den Fall.",
+      "new_information": "Ein neuer nationaler Umsetzungsakt kann die Prüfung von unmittelbarer Wirkung zur Auslegung verlagern; eine bereits geklärte EuGH-Frage verändert die Vorlagebegründung."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+    "source": "./fachanwalt-gewerblicher-rechtsschutz",
+    "theme": "gewerblicher_rechtsschutz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-gewerblicher-rechtsschutz/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "03054dac9620cbd7bf6f3b61bf1542f100ef2859dfa7193cc95dad46c14a4466",
+    "after_sha256": "6efaf75e822528362be35d75e8282850c39eb4f83803a842e4e693c41bfedf41",
+    "reference": "fachanwalt-gewerblicher-rechtsschutz/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "eecdc18789e2a99e583ff1cdaa79949fb3aa94d15aa8fbbbd099cd777820709b",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Rechtsbestand, Verletzung, Lauterkeitsrecht und prozessuale Eilbedürftigkeit. Prüfe Anspruchsinhaber, angegriffene Handlung und stärkste Einwendung vor der Auswahl von Abmahnung oder Antrag.",
+      "Erstelle den bestellten Entwurf mit bestimmter Verletzungsform, passenden Belegen und vertretbarer Rechtsfolge; rechne Schaden nach der gewählten Methode ohne Vermischung.",
+      "Eine neue Vorveröffentlichung verändert Rechtsbestand und Verfahrensrisiko; eine Lizenz kann Aktivlegitimation und Schadensmethode verändern. Beides muss im selben Entwurf sichtbar ankommen."
+    ],
+    "scenario": {
+      "input": "Ordne Registerauszug, Rechtekette, Benutzungsbeleg und beanstandetes Produkt dem konkreten Schutzrecht und Gebiet zu.",
+      "expected_result": "Erstelle den bestellten Entwurf mit bestimmter Verletzungsform, passenden Belegen und vertretbarer Rechtsfolge; rechne Schaden nach der gewählten Methode ohne Vermischung.",
+      "new_information": "Eine neue Vorveröffentlichung verändert Rechtsbestand und Verfahrensrisiko; eine Lizenz kann Aktivlegitimation und Schadensmethode verändern. Beides muss im selben Entwurf sichtbar ankommen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "fachanwalt-it-recht",
+    "source": "./fachanwalt-it-recht",
+    "theme": "it",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-it-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "c2356d5a3ebfbbb25c9813d148c81378364359b9c8fcc8728428ac8e0c9fbafa",
+    "after_sha256": "e58747ed926968c63609c231452482fbc2e5c1741ca6657179ce5fce80d7afd3",
+    "reference": "fachanwalt-it-recht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "fc05b2f5300350cefd6d54e817c6663d09ac6c0c88be60bf73d34abf04833bf4",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne ursprünglichen Mangel, neue Anforderung und fehlende Mitwirkung. Ordne die konkrete Leistung ihrem Vertragstyp zu und prüfe vor Abnahme Erfüllungsanspruch und danach einschlägige Mängelrechte.",
+      "Schreibe die bestellte Klausel, Mängelrüge, Abnahmeerklärung oder Projektvereinbarung mit messbarer Leistung, realistischer Frist und sauberer Rechte- und Datenregelung.",
+      "Ein nachgereichtes Abnahmeprotokoll verändert Fälligkeit und Rechtsbehelfe; ein neues Ticket ist nicht automatisch ein vergütungspflichtiger Änderungsauftrag."
+    ],
+    "scenario": {
+      "input": "Verbinde Vertrag, Leistungsbeschreibung, Tickets, Tests, Abnahmeprotokoll und Änderungsauftrag zu einem belegten Leistungsstand.",
+      "expected_result": "Schreibe die bestellte Klausel, Mängelrüge, Abnahmeerklärung oder Projektvereinbarung mit messbarer Leistung, realistischer Frist und sauberer Rechte- und Datenregelung.",
+      "new_information": "Ein nachgereichtes Abnahmeprotokoll verändert Fälligkeit und Rechtsbehelfe; ein neues Ticket ist nicht automatisch ein vergütungspflichtiger Änderungsauftrag."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 3
+  },
+  {
+    "plugin": "fachanwalt-urheber-medienrecht",
+    "source": "./fachanwalt-urheber-medienrecht",
+    "theme": "urheber",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-urheber-medienrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8024900c2b3507f1aca373afbc4595603b8c96fde71d3f1b4deb4df05b477e89",
+    "after_sha256": "a23571d7920d3e5c3dfbb29db0d08057a1ad7d69e88672f942af9d0f207f3a55",
+    "reference": "fachanwalt-urheber-medienrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "6ca0b98b78640122600b263a5de2b5e038516c50f4def23344e68038402a45e1",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Urheberrecht, Persönlichkeitsrecht und Äußerungsrecht. Prüfe für jede Nutzung Schutz, Berechtigung und Schranke; ordne Geldforderungen einer belegten Berechnungsmethode zu.",
+      "Erstelle Rechtefreigabe, Abmahnung, Gegendarstellung, Verteidigung oder Lizenztext mit bestimmtem Gegenstand, tatsächlichen Belegen und passendem Antrag.",
+      "Eine neu vorgelegte Lizenz ändert nur ihre gedeckten Nutzungsarten; nachträgliche Vergleichszahlungen sind keine ungeprüfte Preisliste für die Lizenzanalogie."
+    ],
+    "scenario": {
+      "input": "Sichere Ausgangswerk, konkrete Nutzung, Veröffentlichung, Rechtekette und beanstandete Passage samt Datum und Reichweite.",
+      "expected_result": "Erstelle Rechtefreigabe, Abmahnung, Gegendarstellung, Verteidigung oder Lizenztext mit bestimmtem Gegenstand, tatsächlichen Belegen und passendem Antrag.",
+      "new_information": "Eine neu vorgelegte Lizenz ändert nur ihre gedeckten Nutzungsarten; nachträgliche Vergleichszahlungen sind keine ungeprüfte Preisliste für die Lizenzanalogie."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "fashion-law-moderecht",
+    "source": "./fashion-law-moderecht",
+    "theme": "gewerblicher_rechtsschutz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fashion-law-moderecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f5f9ff20119d175065fddbfae14019667c4f652e4a0cb08c6bd47e2b6ad45440",
+    "after_sha256": "3141f613f52bf98075c32cbeb88e7cee1e3096243035c2dd2642f8c20e17440d",
+    "reference": "fashion-law-moderecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "3fa2a6abe3876644bac6acaa89c197c8bbfa69ead4ad0d528d163a3efff08f8f",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Design- und Markenrechte, Herkunfts- und Umweltaussagen, Produktsicherheit und Vertragszusagen. Prüfe die konkrete Aussage am Werbemittel statt nur im Hintergrundbericht.",
+      "Erstelle die bestellte Freigabe mit erforderlichen Textänderungen, Lieferantennachforderungen und klar bezeichneten offenen Nachweisen.",
+      "Ein neues Materialzertifikat ändert die Beleglage, nicht automatisch die Reichweite der Werbung; eine neue Produktform verlangt erneuten Schutzrechtsvergleich."
+    ],
+    "scenario": {
+      "input": "Lies Produktentwurf, Materialnachweise, Lieferkette, Kennzeichnung und geplante Werbemittel; sichere Zielmärkte und Markteinführung.",
+      "expected_result": "Erstelle die bestellte Freigabe mit erforderlichen Textänderungen, Lieferantennachforderungen und klar bezeichneten offenen Nachweisen.",
+      "new_information": "Ein neues Materialzertifikat ändert die Beleglage, nicht automatisch die Reichweite der Werbung; eine neue Produktform verlangt erneuten Schutzrechtsvergleich."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 3
+  },
+  {
+    "plugin": "gebrauchsmusterrecht",
+    "source": "./gebrauchsmusterrecht",
+    "theme": "gebrauchsmuster",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gebrauchsmusterrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "fb8d2cc17d84f40df6807e7312648723ab54facdff6379f97f8246ec3d221078",
+    "after_sha256": "ad4e164f50e9b01c7d8d5623924accbb2319bc700824d380292faee80025bba7",
+    "reference": "gebrauchsmusterrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "1f9624fce283fe95e42017df71a9604cf48caa1702a96ea94d1c4ad64432581c",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Schutzfähigkeit, Neuheit und erfinderischen Schritt anhand des gebrauchsmusterrechtlichen Stands der Technik. Eintragung ersetzt keine materielle Bestandsprüfung.",
+      "Formuliere Anmeldung, Löschungsangriff, Verteidigung oder Verletzungsbewertung mit Merkmalszuordnung und konkretem Beleg für jede Offenbarung.",
+      "Eine eigene Vorveröffentlichung verlangt konkrete Schonfristprüfung; eine unabhängige Wettbewerberoffenbarung darf nicht als eigene privilegierte Offenbarung behandelt werden."
+    ],
+    "scenario": {
+      "input": "Sichere Anspruchsfassung, technische Ausführung, Priorität, eigene und fremde Veröffentlichungen sowie Registerstand.",
+      "expected_result": "Formuliere Anmeldung, Löschungsangriff, Verteidigung oder Verletzungsbewertung mit Merkmalszuordnung und konkretem Beleg für jede Offenbarung.",
+      "new_information": "Eine eigene Vorveröffentlichung verlangt konkrete Schonfristprüfung; eine unabhängige Wettbewerberoffenbarung darf nicht als eigene privilegierte Offenbarung behandelt werden."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "gewerblicher-rechtsschutz",
+    "source": "./gewerblicher-rechtsschutz",
+    "theme": "gewerblicher_rechtsschutz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gewerblicher-rechtsschutz/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6f5b38416821c9ac67808e46cbd0a8a6cf8f69554bc0f9fb3d1748a4526e199b",
+    "after_sha256": "9795c2e9b7589d5374ba60f08d71e3ed093c1a90915b2fab5e6fc1e2ecfc3439",
+    "reference": "gewerblicher-rechtsschutz/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "e0b202f0cc94e04661ec634d16f768f9a02f3b359f39a26d76d751345e207584",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Marken-, Design-, Patent-, Geheimnis- und Lauterkeitsanspruch. Prüfe Bestand, Zustimmung, Erschöpfung und Beweisbarkeit der konkreten Verletzungsform.",
+      "Erstelle die beauftragte Abmahnung, Antwort, Lizenz oder Strategie mit begründetem Verfahrensweg und klar begrenzter Unterlassungsforderung.",
+      "Eine Rechnung aus einem Drittstaat belegt noch keine EWR-Erschöpfung; neue Vertriebsnachweise verlangen chargenbezogene Prüfung von Erstvertrieb und Zustimmung."
+    ],
+    "scenario": {
+      "input": "Bestimme Schutzrecht, Inhaber, Gebiet, Priorität und angegriffene Benutzung anhand Register, Produkt und Rechteverträgen.",
+      "expected_result": "Erstelle die beauftragte Abmahnung, Antwort, Lizenz oder Strategie mit begründetem Verfahrensweg und klar begrenzter Unterlassungsforderung.",
+      "new_information": "Eine Rechnung aus einem Drittstaat belegt noch keine EWR-Erschöpfung; neue Vertriebsnachweise verlangen chargenbezogene Prüfung von Erstvertrieb und Zustimmung."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "grundstuecksrecherche",
+    "source": "./grundstuecksrecherche",
+    "theme": "default",
+    "main_skill": "grundstuecksrecherche-starten",
+    "path": "grundstuecksrecherche/skills/grundstuecksrecherche-starten/SKILL.md",
+    "before_sha256": "62241035e22e08b8a9f445e76910c0ee79f46685770229f3bb38148b09ec48b5",
+    "after_sha256": "6709f298f541bb3a81e3ba5e940b58c250ce315859f1786e9d24ca9fa0386d9f",
+    "reference": "grundstuecksrecherche/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "d8a87aad3cbc6b0469f5642379f3118019a019855a1006726876e0b1665979a9",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne öffentlich zugängliche Planungs- und Kartendaten von Grundbuch-, Eigentümer- oder sonstigen zugangsbeschränkten Informationen. Dokumentiere Quelle, Stand und räumliche Deckung jeder Aussage.",
+      "Erzeuge die tatsächlich verfügbare Ergebnisansicht und den bestellten Bericht mit belegten Feststellungen, Kartenbezug und gezielten Nachforderungen.",
+      "Eine andere Flurstücksnummer verlangt Neuabgleich aller räumlichen Aussagen; ein Kartenhinweis beweist weder Eigentum noch lastenfreien Erwerb."
+    ],
+    "scenario": {
+      "input": "Übernimm Adresse, Flurstück oder Suchgebiet und den konkreten Rechercheauftrag in die verfügbare Anwendung; prüfe die eindeutige Zuordnung des Grundstücks.",
+      "expected_result": "Erzeuge die tatsächlich verfügbare Ergebnisansicht und den bestellten Bericht mit belegten Feststellungen, Kartenbezug und gezielten Nachforderungen.",
+      "new_information": "Eine andere Flurstücksnummer verlangt Neuabgleich aller räumlichen Aussagen; ein Kartenhinweis beweist weder Eigentum noch lastenfreien Erwerb."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "hausarbeitenmacher",
+    "source": "./hausarbeitenmacher",
+    "theme": "ausbildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "hausarbeitenmacher/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "ebaa73bc7aafc6c02b05f681fb70f8e805a511355132c6aca52f42383e08e30a",
+    "after_sha256": "6468bbc1c0886a02de2f813815163595d5f00eca3ca13947a56b0da84315589a",
+    "reference": "hausarbeitenmacher/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "4154d9af7838238d07e2ca7201df91e6a6af8a8661d41a230390991b50b1760f",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Ordne Ansprüche oder Prüfungsgegenstände und identifiziere den entscheidenden Streit. Entwickle Gegenauffassung und eigene Subsumtion am konkreten Sachverhalt statt einer Sammlung abstrakter Meinungen.",
+      "Liefere die bestellte Gliederung oder ausformulierte Passage mit überprüfbaren Quellen und sauberem Literaturstatus; keine unzugänglichen Kommentarstellen aus Erinnerung einsetzen.",
+      "Eine geänderte Aufgabenbegrenzung verlangt Anpassung von Gliederung, Schwerpunkt und Ergebnis; Tatsachen des Falls werden nicht zur bequemeren Lösung ergänzt."
+    ],
+    "scenario": {
+      "input": "Lies Aufgabenstellung, Bearbeitervermerk, Sachverhalt und Abgabevorgaben vollständig; trenne Fallvorgaben von recherchierbaren Rechtsfragen.",
+      "expected_result": "Liefere die bestellte Gliederung oder ausformulierte Passage mit überprüfbaren Quellen und sauberem Literaturstatus; keine unzugänglichen Kommentarstellen aus Erinnerung einsetzen.",
+      "new_information": "Eine geänderte Aufgabenbegrenzung verlangt Anpassung von Gliederung, Schwerpunkt und Ergebnis; Tatsachen des Falls werden nicht zur bequemeren Lösung ergänzt."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "influencer-recht",
+    "source": "./influencer-recht",
+    "theme": "influencer",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "influencer-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e8af093e59712d0033c700471b500ddf2582cdc1f0d3972dda52a8ad3f6edbe9",
+    "after_sha256": "ae0c0d027ebf4931a69415ac4ce03f293618b55edf387ce5ab71ebf7a6f7a919",
+    "reference": "influencer-recht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "7f8c61bfd8237d1f85b906151f7388bcef789c21d12cead4062625ce20224357",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne eigene und fremde geschäftliche Handlung, Gegenleistung, Kennzeichnung, Rechte am Inhalt und besondere Produktwerbung. Prüfe damalige Entscheidung und heutige Gesetzesfassung getrennt.",
+      "Erstelle die passende Kennzeichnung, Vertragsklausel oder Abmahnungsantwort anhand des konkreten Beitrags und seines tatsächlich erkennbaren kommerziellen Zwecks.",
+      "Eine nachträglich belegte kostenlose Produktüberlassung kann die Einordnung verändern; überarbeite dann Kennzeichnung und Vertragsangaben gemeinsam."
+    ],
+    "scenario": {
+      "input": "Lies Beitrag, Links, Vertrag, Vergütung, Sachzuwendungen und redaktionellen Kontext für die konkrete Veröffentlichung.",
+      "expected_result": "Erstelle die passende Kennzeichnung, Vertragsklausel oder Abmahnungsantwort anhand des konkreten Beitrags und seines tatsächlich erkennbaren kommerziellen Zwecks.",
+      "new_information": "Eine nachträglich belegte kostenlose Produktüberlassung kann die Einordnung verändern; überarbeite dann Kennzeichnung und Vertragsangaben gemeinsam."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "jura-in-einfacher-sprache",
+    "source": "./jura-in-einfacher-sprache",
+    "theme": "methodik",
+    "main_skill": "juristischen-text-erklaeren",
+    "path": "jura-in-einfacher-sprache/skills/juristischen-text-erklaeren/SKILL.md",
+    "before_sha256": "18c210987ac251a3d0ab50b95fea8d4c41a9acfce9da4da8c1fb5393c3958700",
+    "after_sha256": "bb23f09de3a51ad35eed93b604d87057056fa778cd95366519d7fe0e08f4e799",
+    "reference": "jura-in-einfacher-sprache/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "fc2455c562def2a4132e161433d808492d87a00e2856cb9bfb2bf4b406c7754e",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Erkläre Begehren, Rechtsfolge und entscheidende Ausnahme in vertrauten Worten; halte belegte Frist und mögliche Handlungswege auseinander.",
+      "Gib die verständliche Erklärung und bei entsprechendem Auftrag den fertigen Antwortentwurf aus, ohne unnötiges Lehrbuchwissen davorzustellen.",
+      "Eine neue Information wird in dieselbe Erklärung und Antwort eingearbeitet; ein einfacherer Satz darf keine Anspruchsvoraussetzung oder Ausnahme verlieren."
+    ],
+    "scenario": {
+      "input": "Lies den konkreten Brief oder die Frage und bestimme, welche Entscheidung die Person jetzt treffen muss.",
+      "expected_result": "Gib die verständliche Erklärung und bei entsprechendem Auftrag den fertigen Antwortentwurf aus, ohne unnötiges Lehrbuchwissen davorzustellen.",
+      "new_information": "Eine neue Information wird in dieselbe Erklärung und Antwort eingearbeitet; ein einfacherer Satz darf keine Anspruchsvoraussetzung oder Ausnahme verlieren."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "jurastudium",
+    "source": "./jurastudium",
+    "theme": "ausbildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "jurastudium/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8938e7fec4e05cc3d97f79a6d12dd0e54e24800077101eaaf10db5c404f41ebc",
+    "after_sha256": "30ba023028fdf354dad7b04c46b342fca53feda9585f88b29cedae63839fb984",
+    "reference": "jurastudium/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "7fe4ef5d0b58b5b96dfb7e126470a6a2027a005430d5239ba0024e5fe1c3da35",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Baue die einschlägige Prüfung auf und begründe die entscheidenden Merkmale mit Tatsachen. Verwende Rechtsprechung als Auslegungsbeispiel und prüfe, ob ihr Sachverhalt wirklich vergleichbar ist.",
+      "Liefere die bestellte Lernhilfe mit nachvollziehbarer Subsumtion und einer gezielten Fehlererklärung; eine reine Normliste ersetzt die Falllösung nicht.",
+      "Bei neuem Lösungsvorschlag korrigiere konkret den fehlerhaften Schluss und dessen Folge, statt den ganzen Fall ungefragt neu zu beginnen."
+    ],
+    "scenario": {
+      "input": "Lies Fall, Bearbeitervermerk und Lernziel; bestimme, ob eine Hilfestellung, Korrektur oder vollständige Musterlösung bestellt ist.",
+      "expected_result": "Liefere die bestellte Lernhilfe mit nachvollziehbarer Subsumtion und einer gezielten Fehlererklärung; eine reine Normliste ersetzt die Falllösung nicht.",
+      "new_information": "Bei neuem Lösungsvorschlag korrigiere konkret den fehlerhaften Schluss und dessen Folge, statt den ganzen Fall ungefragt neu zu beginnen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "juristische-praesentationen",
+    "source": "./juristische-praesentationen",
+    "theme": "juristische-praesentationen",
+    "main_skill": "praesentation-starten",
+    "path": "juristische-praesentationen/skills/praesentation-starten/SKILL.md",
+    "before_sha256": "81dd2a824dd9467bfa0af4f008486be711b84f8cb68ed0b3a6b5147019b6ed06",
+    "after_sha256": "3f10980cb5b0a61167949f59cc6463a818ecac7a48ba794ad3069c786d491620",
+    "reference": "juristische-praesentationen/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "d92b26b24c65c55191ec01848df586c088875962bcd21d44a64a57ef1c1d2c0e",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Wähle pro Folie eine tragende Aussage, belege Rechtsbehauptungen und unterscheide Falltatsache, Beispiel und Prognose. Eine Grafik darf keine unsichere Annahme als Ergebnis darstellen.",
+      "Erzeuge die tatsächlich mögliche Präsentation mit verständlichen Folien, Quellen und passenden Sprechernotizen; kennzeichne fehlenden Export statt eine Datei zu behaupten.",
+      "Eine neue Entscheidung verlangt Änderung der betroffenen Aussage, Grafik und Notiz; bloßes Ergänzen einer Quellenfolie reicht nicht."
+    ],
+    "scenario": {
+      "input": "Bestimme Publikum, Anlass, Zeitrahmen und zu vermittelnde Entscheidung aus vorhandenen Unterlagen; übernimm vorhandene Gestaltungsvorgaben.",
+      "expected_result": "Erzeuge die tatsächlich mögliche Präsentation mit verständlichen Folien, Quellen und passenden Sprechernotizen; kennzeichne fehlenden Export statt eine Datei zu behaupten.",
+      "new_information": "Eine neue Entscheidung verlangt Änderung der betroffenen Aussage, Grafik und Notiz; bloßes Ergänzen einer Quellenfolie reicht nicht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "juristische-presseberichterstattung",
+    "source": "./juristische-presseberichterstattung",
+    "theme": "presse",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "juristische-presseberichterstattung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "d2b25d095d937415a3ec5bb21e41fa1c6e674d4b372a4e8bd568c7fd8e9ea91e",
+    "after_sha256": "8c3a9d53e03b9647124e6a6f8e0b54c0bfa1b51c69fe90465165e593c2a5c0de",
+    "reference": "juristische-presseberichterstattung/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "deeee570923b6459b6eb562bce447c1ad4fdaaee532b6f6f4bee7e7814258438",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne festgestellte Tatsache, Verdacht und Werturteil. Prüfe Mindestbestand an Beweistatsachen, Informationsinteresse, konkrete Anhörung und Identifizierbarkeit in Text, Bild und Überschrift.",
+      "Schreibe die bestellte Meldung oder Stellungnahmeanfrage aus und dokumentiere offene Freigabepunkte getrennt; keine Schuldvorwegnahme aus bloßer Anklage.",
+      "Eine neue Stellungnahme muss vor Veröffentlichung in die Abwägung eingehen; eine spätere Entlastung verlangt Prüfung von Nachtrag, Berichtigung und fortwirkender Beeinträchtigung."
+    ],
+    "scenario": {
+      "input": "Lies Urteil oder Verfahrensunterlagen, Aussagen und geplanten Artikel; sichere Verfahrensstand, Zitate und betroffene Personen.",
+      "expected_result": "Schreibe die bestellte Meldung oder Stellungnahmeanfrage aus und dokumentiere offene Freigabepunkte getrennt; keine Schuldvorwegnahme aus bloßer Anklage.",
+      "new_information": "Eine neue Stellungnahme muss vor Veröffentlichung in die Abwägung eingehen; eine spätere Entlastung verlangt Prüfung von Nachtrag, Berichtigung und fortwirkender Beeinträchtigung."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+    "source": "./juristische-sprache-deutsch-als-zweitsprache",
+    "theme": "methodik",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "juristische-sprache-deutsch-als-zweitsprache/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "303e72b305f99865c69311f952b3867452a55300a7e80c5bd424e7d0199161bd",
+    "after_sha256": "c749a13cd5de411b446cc2637ff604c55cf9891b9beaaa11128c2478fef9c313",
+    "reference": "juristische-sprache-deutsch-als-zweitsprache/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "4e6aec265023a063a34881422a7fcafc765c61933913802763cb79dab11bc261",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Erkläre Satzbezug, Modalität, Voraussetzung und Rechtsfolge am Original. Ändere juristische Fachbedeutung nicht durch ein scheinbar einfaches Synonym.",
+      "Liefere die überarbeitete Fassung und nur die notwendigen Sprachhinweise; bei Lernauftrag erläutere die entscheidenden Änderungen an konkreten Sätzen.",
+      "Ein geänderter Sachverhalt verlangt sachliche Prüfung vor sprachlicher Glättung; aus einer Pflicht darf bei der Vereinfachung keine bloße Empfehlung werden."
+    ],
+    "scenario": {
+      "input": "Bestimme Zieltext, Sprachstand und konkrete Verständnishürde aus dem vorliegenden Material; trenne sprachlichen Lernauftrag von Rechtsberatung.",
+      "expected_result": "Liefere die überarbeitete Fassung und nur die notwendigen Sprachhinweise; bei Lernauftrag erläutere die entscheidenden Änderungen an konkreten Sätzen.",
+      "new_information": "Ein geänderter Sachverhalt verlangt sachliche Prüfung vor sprachlicher Glättung; aus einer Pflicht darf bei der Vereinfachung keine bloße Empfehlung werden."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "jveg-kostenpruefer",
+    "source": "./jveg-kostenpruefer",
+    "theme": "jveg",
+    "main_skill": "kommandocenter",
+    "path": "jveg-kostenpruefer/skills/kommandocenter/SKILL.md",
+    "before_sha256": "36f12888e203a9f9eb84d1a7e440f2333541dc5311893cf67b3498bb08a5d1f8",
+    "after_sha256": "a4e81a1025e176a2b9a4f072385458f36212a4e777a77bce8f70bcd8bc525075",
+    "reference": "jveg-kostenpruefer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "267c0078f52b4177b4863024c8d6d516158fae01124a74e0af32404cd706d382",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne gerichtliche Heranziehung von Privatgutachten und Gebührenbescheid. Prüfe Leistungszeit, geltende Gesetzesfassung, Frist, Honorargruppe, erforderlichen Aufwand und Auslagen jeweils belegt.",
+      "Erstelle die nachvollziehbare Berechnung oder den konkreten Festsetzungsantrag mit beanstandeten Einzelpositionen und begründeten Alternativbeträgen.",
+      "Ein nachgereichter Tätigkeitsnachweis kann Stunden belegen, ersetzt aber nicht die passende Honorargruppe; historische Urteilssätze sind keine aktuellen Tarife."
+    ],
+    "scenario": {
+      "input": "Ordne Heranziehung, Rolle, Auftrag, Leistungstage, Rechnung und Empfangsnachweise dem richtigen Vergütungsweg zu.",
+      "expected_result": "Erstelle die nachvollziehbare Berechnung oder den konkreten Festsetzungsantrag mit beanstandeten Einzelpositionen und begründeten Alternativbeträgen.",
+      "new_information": "Ein nachgereichter Tätigkeitsnachweis kann Stunden belegen, ersetzt aber nicht die passende Honorargruppe; historische Urteilssätze sind keine aktuellen Tarife."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "kanzlei-allgemein",
+    "source": "./kanzlei-allgemein",
+    "theme": "kanzleibetrieb",
+    "main_skill": "kommandocenter",
+    "path": "kanzlei-allgemein/skills/kommandocenter/SKILL.md",
+    "before_sha256": "6606719a8392f702b0d83ff7ab846ac81c095d2f29b25f4039a2fcf6af0ecd59",
+    "after_sha256": "ec51d7a535553d99d8354b572c8b1279d468c1734594bb5f14997d069b351875",
+    "reference": "kanzlei-allgemein/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "1bad78b07a699b84bb0510b18b9b692d009cccc43fb2aa2a68695aa342c57c9a",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Aufnahme, juristische Bearbeitung, Kosten, Dokumentproduktion und Versandkontrolle. Ein Sendeprotokoll oder Aktenstatus ersetzt keine Prüfung der richtigen Datei und des tatsächlichen Eingangs.",
+      "Erstelle das beauftragte Schreiben oder den erledigungsfähigen Arbeitsvorgang samt verantwortlicher Folgehandlung; interne Organisation bleibt außerhalb des Empfängertextes.",
+      "Eine geänderte Endfassung verlangt erneuten Inhalts-, Signatur- und Anlagenabgleich; eine ausbleibende Eingangsbestätigung löst rechtzeitige Klärung aus."
+    ],
+    "scenario": {
+      "input": "Ordne Nachricht, Mandant, Akte, Auftrag, Zustellung und Zuständigkeit zu; sichere unmittelbar drohende Fristen vor weiterer Bearbeitung.",
+      "expected_result": "Erstelle das beauftragte Schreiben oder den erledigungsfähigen Arbeitsvorgang samt verantwortlicher Folgehandlung; interne Organisation bleibt außerhalb des Empfängertextes.",
+      "new_information": "Eine geänderte Endfassung verlangt erneuten Inhalts-, Signatur- und Anlagenabgleich; eine ausbleibende Eingangsbestätigung löst rechtzeitige Klärung aus."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "kanzlei-builder-hub",
+    "source": "./kanzlei-builder-hub",
+    "theme": "dokumentenworkflow",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "kanzlei-builder-hub/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3d45d06c9670eca1b4278b5144c89a3f5e34dbbfa52731a94cf93f33a2f65a14",
+    "after_sha256": "d9516cfe66e0773ebba13479e4404e9a82c31e6bd71c88c99871615539cb4bb3",
+    "reference": "kanzlei-builder-hub/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "0b9d39a62439a0b677c13efc5a47abe2b91054584708b767119a2acb64dbed1b",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Fachlogik, Benutzerführung, Schnittstelle, Berechtigung und Speicherbedarf. Prüfe anhand realer Beispieldaten, ob Verarbeitung und Ausgabe den Auftrag erfüllen.",
+      "Erzeuge den beauftragten Prototyp oder die umsetzbare Spezifikation und prüfe einen normalen sowie einen fehlerhaften Eingabefall; keine produktive Bereitstellung ohne entsprechenden Auftrag.",
+      "Eine zusätzliche sensible Datenquelle verändert Berechtigungs- und Schutzkonzept; baue sie nicht stillschweigend in den bisherigen Test ein."
+    ],
+    "scenario": {
+      "input": "Lies den konkreten Arbeitsauftrag, Datenarten, vorhandenen Prozess und verfügbare Werkzeuge; bestimme das gewünschte Ergebnis statt vorsorglich eine neue Plattform zu planen.",
+      "expected_result": "Erzeuge den beauftragten Prototyp oder die umsetzbare Spezifikation und prüfe einen normalen sowie einen fehlerhaften Eingabefall; keine produktive Bereitstellung ohne entsprechenden Auftrag.",
+      "new_information": "Eine zusätzliche sensible Datenquelle verändert Berechtigungs- und Schutzkonzept; baue sie nicht stillschweigend in den bisherigen Test ein."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "kanzlei-management",
+    "source": "./kanzlei-management",
+    "theme": "kanzleibetrieb",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "kanzlei-management/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "4fd29764567ad9c61378adedecfee3101129e6aefb6f5a768d2efbcf11304ced",
+    "after_sha256": "e49b92fad12fb67eb2bd1f070e544c480f37c311a6cc11b15f508784e36db1b2",
+    "reference": "kanzlei-management/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "eee130f16262674aa2ec15b892f8898a0add57c65d44e3fbfd40ebee670df56b",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne rechtliche Pflicht, interne Vorgabe und wirtschaftliche Verbesserung. Prüfe Fremdgeldbewegung, Mandantenzuordnung und Auskehrung anhand der tatsächlichen Buchungskette.",
+      "Erstelle die verlangte Arbeitsanweisung, Entscheidungsvorlage oder Korrekturmaßnahme mit Zuständigkeit, Nachweis und Umsetzungstermin.",
+      "Ein aufgefundener Zahlungseingang verlangt Abstimmung von Saldo, Auskehrung und Mandantenmitteilung; bloße Verzögerung erlaubt keine automatische strafrechtliche Diagnose."
+    ],
+    "scenario": {
+      "input": "Lies Prozessbeschreibung, Verantwortlichkeiten, Kennzahlen und konkrete Störung; bestimme den betroffenen Mandats-, Personal-, Geld- oder Fristenprozess.",
+      "expected_result": "Erstelle die verlangte Arbeitsanweisung, Entscheidungsvorlage oder Korrekturmaßnahme mit Zuständigkeit, Nachweis und Umsetzungstermin.",
+      "new_information": "Ein aufgefundener Zahlungseingang verlangt Abstimmung von Saldo, Auskehrung und Mandantenmitteilung; bloße Verzögerung erlaubt keine automatische strafrechtliche Diagnose."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "kanzlei-mandant-lifecycle",
+    "source": "./kanzlei-mandant-lifecycle",
+    "theme": "kanzleibetrieb",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "kanzlei-mandant-lifecycle/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "2a84f3b65e6bc7c9837b9fdb65e4fbe156e24a1d9f6df1712d0976a30046e7f7",
+    "after_sha256": "a010f35f8aa361d7d0c2b58b0394406dbd620857f1bcf6ec6b6e3dee9ec53e8e",
+    "reference": "kanzlei-mandant-lifecycle/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "d500a74d705fe7fba9f15b0474bb8809491bc5d25aa9cff1971ea9b62180a24e",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Auftragsumfang, fachliche Bearbeitung, Budget, Fristen und Mandatsende. Prüfe die konkrete Vergütungsvereinbarung und nachgewiesene Tätigkeit vor einer Abrechnung.",
+      "Erstelle die bestellte Mandatsvereinbarung, Information, Rechnungserläuterung oder Abschlussmitteilung vollständig und nachvollziehbar.",
+      "Ein geänderter Auftrag verlangt klare Abgrenzung von bisheriger Leistung und Zusatzauftrag; eine neue Zeitaufstellung heilt keine unwirksame Abrechnungsklausel."
+    ],
+    "scenario": {
+      "input": "Verbinde Anfrage, Konfliktprüfung, Auftrag, Vollmacht, Vergütung und vorhandenen Bearbeitungsstand; vorhandene Angaben nicht erneut aufnehmen.",
+      "expected_result": "Erstelle die bestellte Mandatsvereinbarung, Information, Rechnungserläuterung oder Abschlussmitteilung vollständig und nachvollziehbar.",
+      "new_information": "Ein geänderter Auftrag verlangt klare Abgrenzung von bisheriger Leistung und Zusatzauftrag; eine neue Zeitaufstellung heilt keine unwirksame Abrechnungsklausel."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "kanzlei-website-redaktion",
+    "source": "./kanzlei-website-redaktion",
+    "theme": "kanzleibetrieb",
+    "main_skill": "website-redaktion-steuern",
+    "path": "kanzlei-website-redaktion/skills/website-redaktion-steuern/SKILL.md",
+    "before_sha256": "0863f50e4698fcb22ebf0dc3f7fbd929c4e2608eaced5201ecb07a0c3335687d",
+    "after_sha256": "3d49b4d5b66b5f7f5f160d9c3f271b3d6e8e2079b7d7ed2ca6e2364fc77f2c6a",
+    "reference": "kanzlei-website-redaktion/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "9e42fe0f80342afd871fff26959824fde2ac9cb94ae6530d5c05a70544ec8697",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Berufsangaben, konkrete Leistungsversprechen, Quellen und Kontaktweg. Erfunde keine Referenzen, Spezialisierungen, Bewertungen oder Erfolgsaussichten.",
+      "Schreibe die veröffentlichungsfertige Fassung mit verständlicher Nutzenbeschreibung und passenden Handlungswegen; Änderungen im Web nur bei entsprechender Beauftragung durchführen.",
+      "Eine geänderte Zulassung, Kanzleiadresse oder Leistung muss auf allen betroffenen Seiten konsistent nachgeführt werden, ohne fremde Inhalte pauschal neu zu veröffentlichen."
+    ],
+    "scenario": {
+      "input": "Lies vorhandene Seite, Zielgruppe, Leistungsangebot und freigegebene Tatsachen; bestimme die gewünschte Seitenfassung.",
+      "expected_result": "Schreibe die veröffentlichungsfertige Fassung mit verständlicher Nutzenbeschreibung und passenden Handlungswegen; Änderungen im Web nur bei entsprechender Beauftragung durchführen.",
+      "new_information": "Eine geänderte Zulassung, Kanzleiadresse oder Leistung muss auf allen betroffenen Seiten konsistent nachgeführt werden, ohne fremde Inhalte pauschal neu zu veröffentlichen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "ki-governance",
+    "source": "./ki-governance",
+    "theme": "technikregulierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "ki-governance/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1baddce7cfab64ff3a9eef9ffce33c2a129fe7a96a1243c1718ef41643f307e2",
+    "after_sha256": "94ec1c1384cb34cb4883b30849fa3bac0954e6fa8d53df2c4088b73ede5c2536",
+    "reference": "ki-governance/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "05d159190aab6acc41abc8ee4b6496a1008bea5f665b868dcea7ab0ae95af6e1",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe KI-Verordnung, Datenschutz, Fachrecht und Organisation getrennt. Untersuche bei Scoring den tatsächlichen Einfluss auf die Entscheidung statt nur die Beschriftung als Assistenz.",
+      "Erstelle den beauftragten Freigabevermerk, Einsatzregeln oder Maßnahmenplan mit Verantwortlichem, Nachweis, Kontrolle und erneuter Prüfauslösung.",
+      "Ein neuer Modellstand oder Verwendungszweck kann Rolle, Risiko und Datenbasis verändern; prüfe die betroffenen Pflichten neu und führe dieselbe Betriebsentscheidung fort."
+    ],
+    "scenario": {
+      "input": "Erfasse konkrete Funktion, Zweck, Nutzer, Betroffene, Datenfluss, Anbieterrolle und vorhandene menschliche Entscheidungspunkte.",
+      "expected_result": "Erstelle den beauftragten Freigabevermerk, Einsatzregeln oder Maßnahmenplan mit Verantwortlichem, Nachweis, Kontrolle und erneuter Prüfauslösung.",
+      "new_information": "Ein neuer Modellstand oder Verwendungszweck kann Rolle, Risiko und Datenbasis verändern; prüfe die betroffenen Pflichten neu und führe dieselbe Betriebsentscheidung fort."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "ki-halluzinationsreduzierer",
+    "source": "./ki-halluzinationsreduzierer",
+    "theme": "fundstellenverifikation",
+    "main_skill": "halluzinationspruefung-steuern",
+    "path": "ki-halluzinationsreduzierer/skills/halluzinationspruefung-steuern/SKILL.md",
+    "before_sha256": "20cf36833c15e9eb6f86cc1754a97a3ad6ba99bbe442bca548ba2e740889244b",
+    "after_sha256": "5dd210d7c0fa78ea2529e455891ad590f075670a8dfea1921c6bba634b8afe79",
+    "reference": "ki-halluzinationsreduzierer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "e460e84b759ebf4ca0e1af2fc8a3653f198607e01f74b8147ac5a06ccdf528b9",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe getrennt Existenz, Metadaten, Originalaussage, Kontext und Übertragbarkeit. Ein auffindbares Aktenzeichen beweist nicht die Richtigkeit der damit begründeten These.",
+      "Korrigiere die betroffene Begründung selbst mit belegbarer Quelle oder ausdrücklich offener Recherche; liefere zusätzlich nur entscheidende Nachweise und Restlücken.",
+      "Ein nachgereichter Volltext ersetzt eine frühere Unsicherheit erst nach Passagenabgleich; neue Quellen verändern bei Bedarf auch Ergebnis und Antrag, nicht bloß die Fußnote."
+    ],
+    "scenario": {
+      "input": "Lies das zu prüfende Dokument und extrahiere tragende Normen, Entscheidungen, Literaturstellen und ihnen zugeschriebene Aussagen.",
+      "expected_result": "Korrigiere die betroffene Begründung selbst mit belegbarer Quelle oder ausdrücklich offener Recherche; liefere zusätzlich nur entscheidende Nachweise und Restlücken.",
+      "new_information": "Ein nachgereichter Volltext ersetzt eine frühere Unsicherheit erst nach Passagenabgleich; neue Quellen verändern bei Bedarf auch Ergebnis und Antrag, nicht bloß die Fußnote."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "ki-native-kanzlei",
+    "source": "./ki-native-kanzlei",
+    "theme": "kanzleibetrieb",
+    "main_skill": "ki-kanzlei-steuern",
+    "path": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
+    "before_sha256": "a192c894079d29cc30b41987a324e3aaeff5fdcf871ee1833a5664253447b53b",
+    "after_sha256": "5da9d4cec7c3cf5f9622ff9e72a15ceb649f3ab89ffc1066a9aa4524286249ac",
+    "reference": "ki-native-kanzlei/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "ae4b2751bc3ba868a86fd674d21e28e2a01b2b9880a366615f077391bceb2a84",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Verbinde Fachprüfung, Quellenkontrolle, Berechnung und Dokumentbearbeitung in einem Arbeitsstand. Wähle nur tatsächlich verfügbare Werkzeuge und begrenze Datenzugriff auf den Auftrag.",
+      "Erstelle das vollständig ausgearbeitete Dokument oder die bestellte Anwendung mit belegten Tatsachen, nachvollziehbarer Gegenprüfung und tatsächlich geprüfter Ausgabe.",
+      "Neue Unterlagen werden in denselben Entwurf eingearbeitet; ein Werkzeugfehler verlangt einen funktionsfähigen Ersatzweg oder einen konkret benannten verbleibenden Schritt."
+    ],
+    "scenario": {
+      "input": "Lies Auftrag und bestehende Mandatsunterlagen, bestimme das bestellte Ergebnis und den entscheidenden Engpass; nutze vorhandene Aktenstände weiter.",
+      "expected_result": "Erstelle das vollständig ausgearbeitete Dokument oder die bestellte Anwendung mit belegten Tatsachen, nachvollziehbarer Gegenprüfung und tatsächlich geprüfter Ausgabe.",
+      "new_information": "Neue Unterlagen werden in denselben Entwurf eingearbeitet; ein Werkzeugfehler verlangt einen funktionsfähigen Ersatzweg oder einen konkret benannten verbleibenden Schritt."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "ki-richtlinie-kanzleien",
+    "source": "./ki-richtlinie-kanzleien",
+    "theme": "kanzleibetrieb",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "ki-richtlinie-kanzleien/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f86d041b0084526a32cc63b28d0f2ccb0fe07a5e1a4e001efff5f7c56697b5c7",
+    "after_sha256": "31ae9edf97c2307dcea26c1b135455e203eb9473f35830baa345d162cd98f73d",
+    "reference": "ki-richtlinie-kanzleien/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "e687a8323804ad3f49af7a5850b776d827573935b3d0d8ce1bb2f76536638c36",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Geheimnisschutz, Datenschutz, fachliche Eigenkontrolle und technische Zugriffsrechte. Verlange Originalkontrolle für tragende Rechtsfundstellen und Aktenabgleich für Tatsachen.",
+      "Schreibe die beauftragte Richtlinie mit verständlichen zulässigen Anwendungen, Verantwortlichkeiten, Prüfungen und einem praktikablen Ausnahmeweg.",
+      "Ein neuer externer Dienst oder eine neue Datenkategorie verändert die betreffende Freigaberegel; ein bekanntes Fehlzitat muss zu einem konkreten Kontrollschritt führen."
+    ],
+    "scenario": {
+      "input": "Erfasse konkrete Werkzeuge, Datenarten, Nutzerrollen, Mandatsprodukte und bisherige Freigaben aus vorhandenen Unterlagen.",
+      "expected_result": "Schreibe die beauftragte Richtlinie mit verständlichen zulässigen Anwendungen, Verantwortlichkeiten, Prüfungen und einem praktikablen Ausnahmeweg.",
+      "new_information": "Ein neuer externer Dienst oder eine neue Datenkategorie verändert die betreffende Freigaberegel; ein bekanntes Fehlzitat muss zu einem konkreten Kontrollschritt führen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "ki-verordnung-hochrisiko-pruefer",
+    "source": "./ki-verordnung-hochrisiko-pruefer",
+    "theme": "technikregulierung",
+    "main_skill": "hochrisikofrage-loesen",
+    "path": "ki-verordnung-hochrisiko-pruefer/skills/hochrisikofrage-loesen/SKILL.md",
+    "before_sha256": "785852b212862c33918d46b18ea3c73f8305950a008d490cb771e08de334bdf9",
+    "after_sha256": "093e8365ed7787b1d44b67e787f6bc0774a38a0de77980faa5d6123a8f0c4979",
+    "reference": "ki-verordnung-hochrisiko-pruefer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "f3c34a8c5ae422071d515e7c023facb3849670d2ca32428832af58577753ea22",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe die konkret einschlägige Einstufungsroute und Ausnahmen am geltenden Normtext. Trenne KI-Verordnung, Artikel 22 DSGVO und fachrechtliche Zulässigkeit.",
+      "Erstelle den begründeten Einstufungsvermerk mit Nachweisen, offenen Produktfragen und den daraus tatsächlich folgenden Pflichten.",
+      "Eine Zweckänderung oder Verwendung für Personalentscheidungen verlangt neue Einstufung; eine vorhandene CE-Kennzeichnung ersetzt den Abgleich der konkreten Systemfunktion nicht."
+    ],
+    "scenario": {
+      "input": "Bestimme Systemfunktion, beabsichtigte Verwendung, Produktbezug, Betreiber und Anbieter sowie maßgebliches Bereitstellungsdatum.",
+      "expected_result": "Erstelle den begründeten Einstufungsvermerk mit Nachweisen, offenen Produktfragen und den daraus tatsächlich folgenden Pflichten.",
+      "new_information": "Eine Zweckänderung oder Verwendung für Personalentscheidungen verlangt neue Einstufung; eine vorhandene CE-Kennzeichnung ersetzt den Abgleich der konkreten Systemfunktion nicht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 3
+  },
+  {
+    "plugin": "ki-verordnung-konformitaet",
+    "source": "./ki-verordnung-konformitaet",
+    "theme": "technikregulierung",
+    "main_skill": "konformitaetsfrage-loesen",
+    "path": "ki-verordnung-konformitaet/skills/konformitaetsfrage-loesen/SKILL.md",
+    "before_sha256": "7938360bdf37400f3fb1413ea04324b7015c3cf36202b5ca311c247c6a2f7730",
+    "after_sha256": "f0fe368a93bfcaa21e7154dcac42415dca66f57608fedc7164ab3515855d513e",
+    "reference": "ki-verordnung-konformitaet/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "9c8243fe4b53fad50ea3ad3f23553134fe0e4ffc1b71bddb2f50e1388b5f95d5",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne gesetzliche Pflicht, technische Norm, Konformitätsvermutung und tatsächliche Prüfung. Prüfe Änderungsstand, Risikomanagement, Daten, Tests und Nachweise auf denselben freizugebenden Stand.",
+      "Erstelle die beauftragte Dokumentation oder Lückenliste mit konkreten Nachforderungen und erforderlichen Freigabeschritten; keine selbst erfundene Zertifizierung.",
+      "Eine wesentliche Änderung oder neue bestimmungsgemäße Verwendung kann Rolle und Prüfweg ändern; passe Erklärung und Dokumentation gemeinsam an."
+    ],
+    "scenario": {
+      "input": "Ordne System, Version, Zweck, Wirtschaftsakteur und einschlägigen Konformitätsweg den vorhandenen technischen Unterlagen zu.",
+      "expected_result": "Erstelle die beauftragte Dokumentation oder Lückenliste mit konkreten Nachforderungen und erforderlichen Freigabeschritten; keine selbst erfundene Zertifizierung.",
+      "new_information": "Eine wesentliche Änderung oder neue bestimmungsgemäße Verwendung kann Rolle und Prüfweg ändern; passe Erklärung und Dokumentation gemeinsam an."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "ki-verordnung-transparenzpruefer",
+    "source": "./ki-verordnung-transparenzpruefer",
+    "theme": "technikregulierung",
+    "main_skill": "rollen-und-anwendungsdatum",
+    "path": "ki-verordnung-transparenzpruefer/skills/rollen-und-anwendungsdatum/SKILL.md",
+    "before_sha256": "a4d4c01cb77fd43e9b397f8f96367244439fa5d8c9033d1dfc075cd9d2f9076a",
+    "after_sha256": "fbc225eaa1c4653ac78353da8a4b1a1802274a454dbd342ea916f3a54baa2f94",
+    "reference": "ki-verordnung-transparenzpruefer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "16b8fe5328ac7d2009fb54fe1617f3ddb42dd7a3445ccdd7a5ee439f3cd49439",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe je Tatbestandsalternative die anwendbare Transparenzpflicht und Ausnahme. Trenne sichtbaren Nutzerhinweis, technische Kennzeichnung und daneben erforderliche Datenschutzinformation.",
+      "Formuliere die konkreten Hinweise für den jeweiligen Bildschirm oder Inhalt und beschreibe den überprüfbaren technischen Nachweis.",
+      "Eine redaktionelle Bearbeitung oder neue Zielgruppe verlangt erneute Prüfung der passenden Ausnahme; ein allgemeiner Hinweis im Impressum genügt nicht automatisch."
+    ],
+    "scenario": {
+      "input": "Lies tatsächliche Nutzerinteraktion, generierte Inhalte, Zielgruppe und Rollenverteilung; sichere Verwendungszeitpunkt und Ausgabekanal.",
+      "expected_result": "Formuliere die konkreten Hinweise für den jeweiligen Bildschirm oder Inhalt und beschreibe den überprüfbaren technischen Nachweis.",
+      "new_information": "Eine redaktionelle Bearbeitung oder neue Zielgruppe verlangt erneute Prüfung der passenden Ausnahme; ein allgemeiner Hinweis im Impressum genügt nicht automatisch."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "ki-verordnung-verbotene-praktiken",
+    "source": "./ki-verordnung-verbotene-praktiken",
+    "theme": "technikregulierung",
+    "main_skill": "verbotene-ki-praktiken-loesen",
+    "path": "ki-verordnung-verbotene-praktiken/skills/verbotene-ki-praktiken-loesen/SKILL.md",
+    "before_sha256": "df668d625576bfba10615b271a47f32f3f2dc033eabb3397015c7d3b21441c73",
+    "after_sha256": "8505a852181b8406fea7f297fbf307f76f2fedd61478c44a1809c486e65cb37c",
+    "reference": "ki-verordnung-verbotene-praktiken/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "dd4bd73bb6ac2d5eeb8f3ce3ecee508af2c2438d93fb33ef53303dbd0adfbabc",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe jede naheliegende Verbotsalternative mit ihren eigenen Merkmalen und Ausnahmen. Trenne bloßes Risiko, verbotenes Verhalten und möglicherweise zulässigen Hochrisikoeinsatz.",
+      "Erstelle die bestellte Stoppeinschätzung, Umgestaltung oder begründete Freigabevorlage mit genau benannter Funktion und erforderlichen Nachweisen.",
+      "Eine andere Nutzergruppe oder biometrische Funktion kann den Verbotsbefund ändern; eine organisatorische Zusage ersetzt keine tatsächliche Begrenzung des Systems."
+    ],
+    "scenario": {
+      "input": "Rekonstruiere Funktion, Ziel, betroffene Personen, Einsatzort, Datenarten und mögliche Folgen anhand von Produktunterlagen und realem Nutzungsvorgang.",
+      "expected_result": "Erstelle die bestellte Stoppeinschätzung, Umgestaltung oder begründete Freigabevorlage mit genau benannter Funktion und erforderlichen Nachweisen.",
+      "new_information": "Eine andere Nutzergruppe oder biometrische Funktion kann den Verbotsbefund ändern; eine organisatorische Zusage ersetzt keine tatsächliche Begrenzung des Systems."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "ki-vo-ai-act-pruefer",
+    "source": "./ki-vo-ai-act-pruefer",
+    "theme": "technikregulierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "ki-vo-ai-act-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "dd9f4a12a032348e5ad52bf10e4ac3f225693b09c6761e2eef6cc982907a53cc",
+    "after_sha256": "c094327d5029d7d179f6417f8e8eeefc145d434f89e714199e53e0363780d0be",
+    "reference": "ki-vo-ai-act-pruefer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "1bf2db19eb4bc6838a4470203197106fd598e5a305dc9e4a00711a367409fb4b",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Arbeite in der Reihenfolge Anwendungsbereich, Verbot, Einstufung, einschlägige Rolle, zeitliche Geltung und konkrete Pflicht; prüfe Datenschutz und Produktrecht eigenständig daneben.",
+      "Schreibe den verlangten Vermerk, Vertragsteil oder Maßnahmenplan mit Rechtsgrundlage, Nachweis und umsetzbarer Entscheidung je offenem Punkt.",
+      "Ein Modellwechsel ändert nicht automatisch alle Pflichten; ein neuer Zweck kann dagegen eine andere Rolle oder Risikoklasse auslösen und muss im selben Ergebnis berücksichtigt werden."
+    ],
+    "scenario": {
+      "input": "Bestimme Funktion, Rolle, Zweck, Bereitstellung, Einsatzgebiet und betroffene Personen aus dem vorhandenen Vorhaben.",
+      "expected_result": "Schreibe den verlangten Vermerk, Vertragsteil oder Maßnahmenplan mit Rechtsgrundlage, Nachweis und umsetzbarer Entscheidung je offenem Punkt.",
+      "new_information": "Ein Modellwechsel ändert nicht automatisch alle Pflichten; ein neuer Zweck kann dagegen eine andere Rolle oder Risikoklasse auslösen und muss im selben Ergebnis berücksichtigt werden."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "krankenhaus-it-ki",
+    "source": "./krankenhaus-it-ki",
+    "theme": "datenschutz",
+    "main_skill": "krankenhaus-digitalisierung-steuern",
+    "path": "krankenhaus-it-ki/skills/krankenhaus-digitalisierung-steuern/SKILL.md",
+    "before_sha256": "07fa683a92642cfeba4cd4095f61cf43fbb9303619af55d393ed4740e35455ae",
+    "after_sha256": "5e0c2b878dcb8083c86b106ec5a7461d4f588cc00ecbd3aecfbff98cf7ead525",
+    "reference": "krankenhaus-it-ki/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "d291bf12b398c04578250af6d476be430b9eb8768f1cca600a543f4b5f39e4c0",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Behandlung, Forschung, Verwaltung und Produktzweck sowie Datenschutz, Medizinproduktrecht, IT-Sicherheit und KI-Regulierung. Ein Krankenhausdatum ist nicht ohne Inhaltsprüfung stets Gesundheitsdatum.",
+      "Erstelle den bestellten Einsatzvermerk, Vertrag, Patienteninformation oder Auskunftsentwurf mit klinischer Verantwortlichkeit und konkreten Schutzmaßnahmen.",
+      "Eine neue Schnittstelle oder Sekundärnutzung verändert Datenfluss und Rechtsgrundlage; führe Schutzkonzept und Empfängerinformation gemeinsam fort."
+    ],
+    "scenario": {
+      "input": "Lies Behandlungsvorgang, Systembeschreibung, Schnittstellen, Verträge und betroffene Patientendaten; bestimme den konkreten klinischen Zweck.",
+      "expected_result": "Erstelle den bestellten Einsatzvermerk, Vertrag, Patienteninformation oder Auskunftsentwurf mit klinischer Verantwortlichkeit und konkreten Schutzmaßnahmen.",
+      "new_information": "Eine neue Schnittstelle oder Sekundärnutzung verändert Datenfluss und Rechtsgrundlage; führe Schutzkonzept und Empfängerinformation gemeinsam fort."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 3
+  },
+  {
+    "plugin": "lizenzvertragsersteller",
+    "source": "./lizenzvertragsersteller",
+    "theme": "lizenz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "lizenzvertragsersteller/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "08cf5d0578d0adede74ca704d2bebdec3b9a1885ff4b46ea7d6276b7fab71589",
+    "after_sha256": "f077857b9ba076b25290cb2346ba6ce3c4b575f88edc3ecfb9b421e320f86016",
+    "reference": "lizenzvertragsersteller/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "6f1d4e50ef20a598fb714902347c3169b217773c152ea43e523faeb4bd22377b",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Rechtebestand, Hauptlizenz, Unterlizenz und schuldrechtliche Nebenpflichten. Prüfe für jede Nutzungsart Befugnis, Exklusivität, Weitergabe und Folgen der Vertragsbeendigung.",
+      "Formuliere die vollständigen beauftragten Klauseln einschließlich konkreter Rechte, Vergütung, Leistungsumfang und belegt nötiger Beendigungsregelungen.",
+      "Eine bestehende Unterlizenz darf nicht allein wegen Endes der Hauptlizenz als erloschen behandelt werden; prüfe Wirksamkeit und Schutzgegenstand und passe Rückabwicklung und Zusicherungen an."
+    ],
+    "scenario": {
+      "input": "Ordne Schutzgegenstand, Inhaber, vorhandene Lizenzen, geplante Nutzung, Gebiet, Dauer und Vergütung aus den Unterlagen zu.",
+      "expected_result": "Formuliere die vollständigen beauftragten Klauseln einschließlich konkreter Rechte, Vergütung, Leistungsumfang und belegt nötiger Beendigungsregelungen.",
+      "new_information": "Eine bestehende Unterlizenz darf nicht allein wegen Endes der Hauptlizenz als erloschen behandelt werden; prüfe Wirksamkeit und Schutzgegenstand und passe Rückabwicklung und Zusicherungen an."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "mandantenanfragen-assistent",
+    "source": "./mandantenanfragen-assistent",
+    "theme": "methodik",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "mandantenanfragen-assistent/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "48d25814e49d3d7082e95a7632d7967de9959b7f014f1f7fc5255c239b010479",
+    "after_sha256": "9457c05a555f012dd6f0d662dbc6be2b7e39e212f5aa9e45d0c8ddc310bd8fcd",
+    "reference": "mandantenanfragen-assistent/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "1a977547d3671216ea03b45867651b6b3a5aeacc9b913be21c029361b3bd6674",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne bereits beantwortbare Frage, entscheidende Tatsachenlücke und fachlich zu vertiefenden Punkt. Stelle nur die Frage, deren Antwort den nächsten Entwurf tatsächlich verändert.",
+      "Erstelle die verständliche Antwort oder das beauftragte Schreiben mit klarer Empfehlung, tragender Begründung und konkretem nächsten Schritt.",
+      "Eine Antwort der Mandantschaft wird in denselben Entwurf übernommen; der Vorgang endet nicht mit einer Empfangsbestätigung oder einem neuen allgemeinen Fragenkatalog."
+    ],
+    "scenario": {
+      "input": "Lies Anfrage und vorhandene Anlagen; bestimme Anliegen, Rolle, Empfänger und erkennbare Eilbedürftigkeit ohne erneute vollständige Aufnahme.",
+      "expected_result": "Erstelle die verständliche Antwort oder das beauftragte Schreiben mit klarer Empfehlung, tragender Begründung und konkretem nächsten Schritt.",
+      "new_information": "Eine Antwort der Mandantschaft wird in denselben Entwurf übernommen; der Vorgang endet nicht mit einer Empfangsbestätigung oder einem neuen allgemeinen Fragenkatalog."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "markenamt-assistent",
+    "source": "./markenamt-assistent",
+    "theme": "marke",
+    "main_skill": "marke-sichern-trotz-offener-rechte",
+    "path": "markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md",
+    "before_sha256": "1180bc77799db28f71501ce75c4e8f7e820e3150cc550eafad6a524dac580615",
+    "after_sha256": "558e0b46d19a8d7763d70e908014393d2d52d00433a6ab530f9c6d250a1396d0",
+    "reference": "markenamt-assistent/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "f0c9d33ac5d3b72be97bcfbe92d82e29325055e650141e4c90e8d1a18d4ec388",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne absolute Schutzhindernisse, ältere Rechte, Benutzung und Verfahrensfristen. Ordne jede Beanstandung der konkreten Ware oder Dienstleistung zu.",
+      "Erstelle das bestellte Verzeichnis, die Anmeldeempfehlung, Bescheidserwiderung oder Widerspruchsbegründung mit bestimmten Anträgen und tatsächlichen Nachweisen.",
+      "Eine Einschränkung des Verzeichnisses verlangt neuen Schutzumfangsabgleich; eine Registerrecherche ist keine Garantie, dass keinerlei ältere Rechte bestehen."
+    ],
+    "scenario": {
+      "input": "Sichere Zeichenform, Waren- und Dienstleistungsverzeichnis, Anmelder, Priorität, Registerstand und laufenden Bescheid.",
+      "expected_result": "Erstelle das bestellte Verzeichnis, die Anmeldeempfehlung, Bescheidserwiderung oder Widerspruchsbegründung mit bestimmten Anträgen und tatsächlichen Nachweisen.",
+      "new_information": "Eine Einschränkung des Verzeichnisses verlangt neuen Schutzumfangsabgleich; eine Registerrecherche ist keine Garantie, dass keinerlei ältere Rechte bestehen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "markenrecht-fashion-luxus",
+    "source": "./markenrecht-fashion-luxus",
+    "theme": "marke",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "markenrecht-fashion-luxus/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6715c17265c0a6df04d448d544d86d5da6496d8a1406e6353b1446f60b87458f",
+    "after_sha256": "6c71e3583cdf07e96298fa753a0ff3f7246e2b39f42337c1009722419d1ecdee",
+    "reference": "markenrecht-fashion-luxus/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "97807b8866b4273d08f1b3b4b736261d42a82bac5496fdaa9bdca479e5db7348",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Zeichenverletzung, Erschöpfung, Lizenzverstoß und Rufbeeinträchtigung. Prüfe die konkrete Zustimmung und die tatsächliche Wirkung der Verkaufsumgebung.",
+      "Formuliere den bestellten Lizenztext, die Abmahnung oder Verteidigung mit belegter Verletzungsform und verhältnismäßigem Begehren.",
+      "Ein Rabattverkauf allein beweist keine Rufschädigung; neue Bilder der Verkaufsumgebung müssen in die konkrete Abwägung und den Entwurf eingehen."
+    ],
+    "scenario": {
+      "input": "Lies Register, Lizenz- und Vertriebsverträge, konkrete Ware, Absatzweg und beanstandete Markenverwendung.",
+      "expected_result": "Formuliere den bestellten Lizenztext, die Abmahnung oder Verteidigung mit belegter Verletzungsform und verhältnismäßigem Begehren.",
+      "new_information": "Ein Rabattverkauf allein beweist keine Rufschädigung; neue Bilder der Verkaufsumgebung müssen in die konkrete Abwägung und den Entwurf eingehen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "memorandums-ersteller",
+    "source": "./memorandums-ersteller",
+    "theme": "methodik",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "memorandums-ersteller/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "acbdf269f2b5955c7ded92b5def73e6e703085b32cad4be2b05d07102a427252",
+    "after_sha256": "a6a881d3bf370de059560c237a5971af64334857e745f173e3b00e717d19277e",
+    "reference": "memorandums-ersteller/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "57ab0aead2727874d6b04ed04cf7075c9451ef0d14c5cb320efad3fd8ad0c4f7",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Ordne tragende Norm, tatsächliches Merkmal, Beleg und Gegenargument. Unterscheide entscheidungserhebliche Unsicherheit von bloß interessantem Hintergrund.",
+      "Schreibe das Memo mit verständlicher Kurzantwort, nachvollziehbarer Prüfung, realistischen Optionen und begründeter Empfehlung.",
+      "Ein neuer Beleg verändert die betroffene Bewertung und Kurzantwort; ändere nicht nur den Sachverhaltsteil bei unverändert widersprüchlichem Ergebnis."
+    ],
+    "scenario": {
+      "input": "Bestimme aus Auftrag und Unterlagen die konkrete Entscheidung, den Empfänger und die verfügbaren Tatsachen; verwende vorhandene Mandatsangaben.",
+      "expected_result": "Schreibe das Memo mit verständlicher Kurzantwort, nachvollziehbarer Prüfung, realistischen Optionen und begründeter Empfehlung.",
+      "new_information": "Ein neuer Beleg verändert die betroffene Bewertung und Kurzantwort; ändere nicht nur den Sachverhaltsteil bei unverändert widersprüchlichem Ergebnis."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "methodenlehre-buergerliches-recht",
+    "source": "./methodenlehre-buergerliches-recht",
+    "theme": "ausbildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "methodenlehre-buergerliches-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "c64b9344713fa5398b54ce35baa16089efd3d126d0c2c028be4f1c6e91d80b08",
+    "after_sha256": "bcb1acac2615410fda526f4883d3aadc65dcb386a04cee37267c4444c6e64857",
+    "reference": "methodenlehre-buergerliches-recht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "8046e873e626d289a83827ce538264e93644c660ef99f6607c9b587d53dbbde5",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Wortlaut, Systematik, Entstehung und Zweck am konkreten Problem. Bei Analogie zuerst Lücke und Vergleichbarkeit belegen; Rechtsprechung nicht bloß nach ähnlichen Wörtern auswählen.",
+      "Liefere eine ausformulierte methodische Begründung mit stärkster Gegenlesart und ihrer konkreten Folge für den Fall.",
+      "Eine neue Vertragsklausel kann die Auslegungsfrage verändern; ein anderes Ergebnis darf nicht durch Austausch der Methode ohne Begründung erreicht werden."
+    ],
+    "scenario": {
+      "input": "Bestimme begehrte Rechtsfolge und Tatsachen aus dem Fall; unterscheide Auslegung einer Norm von Auslegung einer Willenserklärung.",
+      "expected_result": "Liefere eine ausformulierte methodische Begründung mit stärkster Gegenlesart und ihrer konkreten Folge für den Fall.",
+      "new_information": "Eine neue Vertragsklausel kann die Auslegungsfrage verändern; ein anderes Ergebnis darf nicht durch Austausch der Methode ohne Begründung erreicht werden."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "nis2-cybersecurity-compliance",
+    "source": "./nis2-cybersecurity-compliance",
+    "theme": "cybersicherheit",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "nis2-cybersecurity-compliance/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "d2d862fee2cd55e7878caa42c4580f4565abdc64caf5554942c6d65c27c93b10",
+    "after_sha256": "8970997b5e2b95eef99a6239898e9c80524640691931cabce567a6a2e3a7a30b",
+    "reference": "nis2-cybersecurity-compliance/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "6af5437dece74420b8d9a8767f0cbd62854f115a69ae49f267ceffd5b42bf3b7",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Anwendungsbereich und geltende nationale Umsetzung gesondert von DSGVO und Vertrag. Ordne Sicherheitsmaßnahme, Vorfall, Kenntniszeitpunkt und Meldepflicht dem richtigen Regime zu.",
+      "Erstelle den bestellten Pflichtenvermerk, Maßnahmenplan oder Meldungsentwurf mit konkret belegten Fakten, Verantwortlichen und Fristen.",
+      "Ein neuer Vorfallbefund kann Meldebewertung und Schutzmaßnahme ändern; Datenabfluss allein beweist weder ausreichende noch unzureichende Organisation."
+    ],
+    "scenario": {
+      "input": "Erfasse Dienste, Tätigkeiten, Unternehmensgrößen, Standorte, Verantwortlichkeiten und konkrete Sicherheitslage aus den vorhandenen Unterlagen.",
+      "expected_result": "Erstelle den bestellten Pflichtenvermerk, Maßnahmenplan oder Meldungsentwurf mit konkret belegten Fakten, Verantwortlichen und Fristen.",
+      "new_information": "Ein neuer Vorfallbefund kann Meldebewertung und Schutzmaßnahme ändern; Datenabfluss allein beweist weder ausreichende noch unzureichende Organisation."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "patentrecherche",
+    "source": "./patentrecherche",
+    "theme": "patent",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "patentrecherche/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "563f467c26d981486ccc35081b8c235389ff92fd81d1cdc82cbcd06e597c37df",
+    "after_sha256": "713ca6d766bb1b2c4a169d5df90486ec0299ea892e7c026284f319c18c27c051",
+    "reference": "patentrecherche/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "11f3d512cd5f6ce782336a6374ee3dfd24a90a3acb8f62e783f5e10d1f9594cd",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Neuheitsrecherche, erfinderische Tätigkeit und Benutzungsfreiheit. Dokumentiere Suchwege, Familien, Prioritäten und konkrete Fundstellen; eine Trefferliste ersetzt keinen Merkmalsvergleich.",
+      "Erstelle den beauftragten Recherchebericht mit relevantem Dokument, Offenbarungsstelle, Unterschied und ausgewiesener Suchgrenze.",
+      "Eine neue Anspruchsfassung oder neue Prioritätsangabe verlangt erneuten Merkmals- und Zeitabgleich; fehlende Treffer sind keine garantierte Benutzungsfreiheit."
+    ],
+    "scenario": {
+      "input": "Zerlege technische Beschreibung oder Patentanspruch in Merkmale und bestimme Stichtag, Suchraum und Rechercheauftrag.",
+      "expected_result": "Erstelle den beauftragten Recherchebericht mit relevantem Dokument, Offenbarungsstelle, Unterschied und ausgewiesener Suchgrenze.",
+      "new_information": "Eine neue Anspruchsfassung oder neue Prioritätsangabe verlangt erneuten Merkmals- und Zeitabgleich; fehlende Treffer sind keine garantierte Benutzungsfreiheit."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "patentrecht",
+    "source": "./patentrecht",
+    "theme": "patent",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "patentrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "797bfc269ec012a3f871b807edb2e7ddcfbfecd5f66d1b923a420314a79242fd",
+    "after_sha256": "ba03534fb87b744e8b08f536bdb49a8d6038f64ae6f7a809576eeb2ae8eeabae",
+    "reference": "patentrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "68fa9bac5a076159355785537e9940376f118b44ec1b694ac6273258f1434e5a",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Rechtsbestand, wortsinngemäße Verletzung, Äquivalenz und Verfahren. Jede Abwandlung braucht eigene Prüfung von Wirkung, Auffindbarkeit und Anspruchsorientierung.",
+      "Formuliere den bestellten Schriftsatz, Anspruchsvorschlag oder Lizenzvermerk mit Merkmalsmatrix, konkreten Belegstellen und begründeter Verfahrensfolge.",
+      "Eine geänderte Produktausführung verlangt erneute Verletzungsprüfung; aus einem allgemeinen Erfindungsgedanken folgt keine beliebige Erweiterung des Anspruchs."
+    ],
+    "scenario": {
+      "input": "Lies Anspruchsfassung, Beschreibung, Register, Prioritätskette, Stand der Technik und angegriffene Ausführung.",
+      "expected_result": "Formuliere den bestellten Schriftsatz, Anspruchsvorschlag oder Lizenzvermerk mit Merkmalsmatrix, konkreten Belegstellen und begründeter Verfahrensfolge.",
+      "new_information": "Eine geänderte Produktausführung verlangt erneute Verletzungsprüfung; aus einem allgemeinen Erfindungsgedanken folgt keine beliebige Erweiterung des Anspruchs."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "phishing-vorfall-pruefer",
+    "source": "./phishing-vorfall-pruefer",
+    "theme": "phishing",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "phishing-vorfall-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "806e6a47a20be58d6c670047c16de9edad50eb210638cf423f1d98a55ad7fb01",
+    "after_sha256": "aeabe6efce3886cd2528bd603a93fe9e6ad77b11710ee9a9a657a65a3bd7511a",
+    "reference": "phishing-vorfall-pruefer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "79b56da762b17546e7184ecbdae5cce6befe227c13ef539c8cb802f400716ff3",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Autorisierung, Authentifizierung, unverzügliche Erstattung und endgültige Verlusttragung getrennt. Aus technischer Bestätigung folgt nicht automatisch die Zustimmung zum konkreten Zahlungsauftrag.",
+      "Schreibe das beauftragte Bankschreiben oder den Schriftsatz mit bestimmtem Betrag, belegter Chronologie und getrennten Argumenten gegen die Einwendungen.",
+      "Ein neues TAN-Protokoll verlangt Abgleich mit der sichtbaren Anzeige und Transaktion; grobe Fahrlässigkeit und mögliche Bankmitverantwortung sind konkret zu würdigen."
+    ],
+    "scenario": {
+      "input": "Sichere Nachrichten, Anrufverlauf, Login- und Transaktionsdaten, Freigabeanzeige, Kontobelastung und Bankantwort; trenne Person, Gerät und tatsächlichen Zahlungsvorgang.",
+      "expected_result": "Schreibe das beauftragte Bankschreiben oder den Schriftsatz mit bestimmtem Betrag, belegter Chronologie und getrennten Argumenten gegen die Einwendungen.",
+      "new_information": "Ein neues TAN-Protokoll verlangt Abgleich mit der sichtbaren Anzeige und Transaktion; grobe Fahrlässigkeit und mögliche Bankmitverantwortung sind konkret zu würdigen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 4
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "source": "./preussisches-allgemeines-landrecht-pralr",
+    "theme": "pralr",
+    "main_skill": "historische-anfrage-einordnen",
+    "path": "preussisches-allgemeines-landrecht-pralr/skills/historische-anfrage-einordnen/SKILL.md",
+    "before_sha256": "b66182e97866f63fc74324d9076eaab1dd6b9d3e290a51a254bef348204d498f",
+    "after_sha256": "8784028f96fb9d030ebe2b013e1d26ff518379a69b3bd981a482ec2335f639fe",
+    "reference": "preussisches-allgemeines-landrecht-pralr/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "a52ac132f0b8670e03f576eccab45b8b07dfa98e7a96fee8d40eeaadda560398",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Lies Norm im damaligen System und prüfe zeitgenössische Begriffe, Institutionen und Ausnahmen. Trenne Originalregel von späterer Fortgeltung und heutiger Rezeption.",
+      "Erstelle die bestellte Quellenanalyse oder Fallrekonstruktion mit nachvollziehbarem Textbezug und gekennzeichneter Übersetzung.",
+      "Eine spätere Abänderung darf nicht in einen früheren Fall zurückprojiziert werden; eine heutige Anschlussfrage braucht eigenes geltendes Recht."
+    ],
+    "scenario": {
+      "input": "Bestimme historische Streitfrage, damaligen Rechtsraum und maßgebliche ALR-Fassung; sichere Fundstelle und Textausgabe.",
+      "expected_result": "Erstelle die bestellte Quellenanalyse oder Fallrekonstruktion mit nachvollziehbarem Textbezug und gekennzeichneter Übersetzung.",
+      "new_information": "Eine spätere Abänderung darf nicht in einen früheren Fall zurückprojiziert werden; eine heutige Anschlussfrage braucht eigenes geltendes Recht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "produktrecht",
+    "source": "./produktrecht",
+    "theme": "produkt",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "produktrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3dd3fcc3c18f2a930434ebd8c75e06d33b536cae5afb0d4582c5c65f9946a47d",
+    "after_sha256": "873128e0ab62481dce16777d135acfeb8d9d721de067e84844b338dcc0dcdb74",
+    "reference": "produktrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "ebfec0173a2ae1a91617d1f8ef369545a40ff33aa01d623991d44f34d0f1f40e",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Konformität, konkrete Gefahr, Produktfehler, Kausalität und Reaktion. Prüfe praktisch verfügbare sichere Alternative und Wirkung von Warnungen, statt nur Branchenüblichkeit abzuhaken.",
+      "Erstelle den beauftragten Freigabevermerk, Rückrufplan oder Behördenentwurf mit klarer betroffener Einheit, belegtem Risiko und angemessener Maßnahme.",
+      "Ein neuer Prüfbericht kann betroffene Chargen und Reaktionsumfang verändern; eine Rechtsentscheidung zur Verpackung ersetzt keine konkrete Rückruf- oder Haftungsprüfung."
+    ],
+    "scenario": {
+      "input": "Sichere Produkt, Charge, Version, Wirtschaftsakteur, Zielmarkt, Gebrauch, Vorfall und vorhandene Tests.",
+      "expected_result": "Erstelle den beauftragten Freigabevermerk, Rückrufplan oder Behördenentwurf mit klarer betroffener Einheit, belegtem Risiko und angemessener Maßnahme.",
+      "new_information": "Ein neuer Prüfbericht kann betroffene Chargen und Reaktionsumfang verändern; eine Rechtsentscheidung zur Verpackung ersetzt keine konkrete Rückruf- oder Haftungsprüfung."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "rechtsberatungsstelle",
+    "source": "./rechtsberatungsstelle",
+    "theme": "methodik",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "rechtsberatungsstelle/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "a87358182899eb21f8897674de285d213c6511cfba7c46130568b561cd05f5f7",
+    "after_sha256": "fd2e50707fb70f337644e31ea6e3122d6ae55d4584fc5cf1880cc92eb1acbdc3",
+    "reference": "rechtsberatungsstelle/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "d92834b1bb9c5ae93baf2e581dac242be6a2ca07ac962e47d2b606bd7e71ca6d",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne tatsächlich vorhandene Information, Behauptung und entscheidende Lücke. Wähle den einschlägigen Rechtsweg nach dem Problem, ohne jeden Konflikt zum Prozess auszuweiten.",
+      "Liefere die verständliche Einschätzung und das bestellte Schreiben mit klarer nächster Handlung und benötigten Nachweisen.",
+      "Eine neue Zustellung kann den Fristenstand verändern; führe die Handlungshilfe fort und beginne keine erneute allgemeine Aufnahme."
+    ],
+    "scenario": {
+      "input": "Lies Anliegen, Bescheid oder Vertrag und vorhandene Nachweise; erkenne den konkreten Rechtsverlust und die gewünschte Unterstützung.",
+      "expected_result": "Liefere die verständliche Einschätzung und das bestellte Schreiben mit klarer nächster Handlung und benötigten Nachweisen.",
+      "new_information": "Eine neue Zustellung kann den Fristenstand verändern; führe die Handlungshilfe fort und beginne keine erneute allgemeine Aufnahme."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "rechtstheorie-rechtsphilosophie",
+    "source": "./rechtstheorie-rechtsphilosophie",
+    "theme": "ausbildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "rechtstheorie-rechtsphilosophie/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "cafa9b1955413ea3c9e829213621457f676c614e7dd9453aa26259f16b71785d",
+    "after_sha256": "12db4d928a144e0d694c302a2b60cd25bf7ba783ce25eb4a0939feedb075154f",
+    "reference": "rechtstheorie-rechtsphilosophie/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "022dff3c8927fe6daf26426551c734332caa723bfb98e8d91ec26764845460a8",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne beschreibende, normative und begriffsanalytische Aussagen. Rekonstruiere stärkste Begründung und Gegenposition anhand tatsächlich verfügbarer Quellen.",
+      "Schreibe die verlangte Analyse mit begründeter Position und offengelegten Voraussetzungen; ein Gerichtszitat entscheidet keine philosophische Streitfrage kraft Autorität.",
+      "Ein anderes Begriffsverständnis verändert gegebenenfalls die ganze Schlusskette; erläutere diesen Wechsel statt bloß zusätzliche Zitate anzuhängen."
+    ],
+    "scenario": {
+      "input": "Bestimme konkrete These, Begriffe, historischen Kontext und verlangtes Analyseprodukt aus dem Auftrag.",
+      "expected_result": "Schreibe die verlangte Analyse mit begründeter Position und offengelegten Voraussetzungen; ein Gerichtszitat entscheidet keine philosophische Streitfrage kraft Autorität.",
+      "new_information": "Ein anderes Begriffsverständnis verändert gegebenenfalls die ganze Schlusskette; erläutere diesen Wechsel statt bloß zusätzliche Zitate anzuhängen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "robotik-recht",
+    "source": "./robotik-recht",
+    "theme": "produkt",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "robotik-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "43cdb134a549f912fa0bd58eedd956b4ef5716bcb5f8eab4ade243c5a4be4342",
+    "after_sha256": "80b624ab7cd7353003c27619fcdef57bd88728b7b08c50ec9adb0cb53d5d3240",
+    "reference": "robotik-recht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "3598751cbb02438862507fd0370e6fd0cff4774731bc7ac0cc1871652a42b741",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Produktsicherheit, bestimmungsgemäße Verwendung, vorhersehbare Fehlanwendung, Datenschutz und KI-Pflichten. Prüfe Konstruktion, Schutzsystem und Warnung in dieser konkreten Konstellation.",
+      "Erstelle den verlangten Einsatzvermerk, Vertragsteil oder Vorfallplan mit nachweisbaren Schutzmaßnahmen und eindeutigen Verantwortlichkeiten.",
+      "Eine neue Greiferfunktion oder Fernsteuerung kann Gefährdung und Rollen verändern; bloße Bedienerschulung ersetzt nicht automatisch erforderliche konstruktive Sicherheit."
+    ],
+    "scenario": {
+      "input": "Erfasse Maschine, Softwarestand, Einsatzort, Menschkontakt, Betreiberrolle und tatsächliche Betriebsgrenzen anhand technischer Unterlagen.",
+      "expected_result": "Erstelle den verlangten Einsatzvermerk, Vertragsteil oder Vorfallplan mit nachweisbaren Schutzmaßnahmen und eindeutigen Verantwortlichkeiten.",
+      "new_information": "Eine neue Greiferfunktion oder Fernsteuerung kann Gefährdung und Rollen verändern; bloße Bedienerschulung ersetzt nicht automatisch erforderliche konstruktive Sicherheit."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "roemisches-recht",
+    "source": "./roemisches-recht",
+    "theme": "roemisch",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "roemisches-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "32a70fde3b3e2bb250e77d89be62161a5572cfdefd160869b450ba1c5fe5d16b",
+    "after_sha256": "67ac0718776a58fbc51d7298ac6fd2e516bf3f41737e098802cd38d36907561d",
+    "reference": "roemisches-recht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "7f556ece5a7dd6e5e5c2f35be36536e45c11827cb35c47c6a1e14ad14f714a4c",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe damalige Klage, Anspruchsgegenstand und Rollen im Quellenzusammenhang. Vergleiche abweichende Fragmente und vermeide unbemerkte Übertragung moderner BGB-Kategorien.",
+      "Liefere Übersetzung, Quellenanalyse oder historische Falllösung mit begründeter Lesart und klaren Unsicherheiten.",
+      "Eine andere Interpunktion oder Textvariante kann das Ergebnis verändern; moderne Rechtsprechung ist nur bei ausdrücklich beauftragter Rezeptionsfrage ein eigener Prüfstrang."
+    ],
+    "scenario": {
+      "input": "Bestimme Fragment, Textzeuge, Ausgabe, Epoche und konkrete Frage; trenne lateinischen Text von Übersetzung und späterer Kommentierung.",
+      "expected_result": "Liefere Übersetzung, Quellenanalyse oder historische Falllösung mit begründeter Lesart und klaren Unsicherheiten.",
+      "new_information": "Eine andere Interpunktion oder Textvariante kann das Ergebnis verändern; moderne Rechtsprechung ist nur bei ausdrücklich beauftragter Rezeptionsfrage ein eigener Prüfstrang."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "schriftsatz-versandwerkstatt",
+    "source": "./schriftsatz-versandwerkstatt",
+    "theme": "dokumentenworkflow",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "schriftsatz-versandwerkstatt/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "ad925eb02f863d836f380bdd9b2d41293fe4349f5fa7bb4597f5d074cf83ec46",
+    "after_sha256": "e7577d6a59601b618ddf5706f134edc22b0e50d8ed33bf07ce9f3fd62d10a9ab",
+    "reference": "schriftsatz-versandwerkstatt/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "40c5d4a5e4b69fabd5d1e931935e4f2fe7c9ae24f114b0a4e63c6d4446cde729",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Dateiinhalt, Zuordnung, Signaturanforderung, zulässige Form und tatsächlichen Eingang als eigene Kontrollpunkte. Ein sinnvoller Dateiname hilft, beweist aber nicht die richtige Endfassung.",
+      "Erzeuge die beauftragte kontrollierte Mappe und den getrennten Prüfvermerk; keine tatsächliche Signatur oder Einreichung behaupten, die nicht durchgeführt wurde.",
+      "Ein geänderter Schriftsatz verlangt erneuten Vergleich sämtlicher Anlagenverweise; nach autorisiertem Versand ist die Bestätigung genau dieser Datei zuzuordnen."
+    ],
+    "scenario": {
+      "input": "Lies bestimmte Endfassung, Anlagenbezüge, Originale, Zielgericht und bekannten Übermittlungsweg; trenne verschiedene Verfahren.",
+      "expected_result": "Erzeuge die beauftragte kontrollierte Mappe und den getrennten Prüfvermerk; keine tatsächliche Signatur oder Einreichung behaupten, die nicht durchgeführt wurde.",
+      "new_information": "Ein geänderter Schriftsatz verlangt erneuten Vergleich sämtlicher Anlagenverweise; nach autorisiertem Versand ist die Bestätigung genau dieser Datei zuzuordnen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "schriftsatzwerkstatt-bea",
+    "source": "./schriftsatzwerkstatt-bea",
+    "theme": "default",
+    "main_skill": "01-bea-ordner-annahme",
+    "path": "schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md",
+    "before_sha256": "6938bc4b110e56a0bcfb2543d54c43973b0e39ea5ebdf529cb39e829f33e06b7",
+    "after_sha256": "f83c395cabe23f1c92bf81c5a9847be885334bf21ba983e7a443576af2122947",
+    "reference": "schriftsatzwerkstatt-bea/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "93145129d2c7485ccc1c5528aa47c4d4b27de0cbedf8659c3f8102426108fb86",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe unbekannte Zuordnung, Lesbarkeit, fehlende Datei und widersprüchliche Endfassung gezielt; nutze ausschließlich vorhandene App-Funktionen und bestätigte Ergebnisse.",
+      "Liefere die tatsächlich erzeugte Mappe mit prüfbarem Dateibestand und benannten offenen Formpunkten; die Anwendungsvorbereitung ist kein Auftrag zur Einreichung.",
+      "Eine ersetzte Hauptdatei löst neue Anlagenzuordnung und Endkontrolle aus; ein fehlgeschlagener Export wird konkret gemeldet und nicht als fertiger Download dargestellt."
+    ],
+    "scenario": {
+      "input": "Übernimm den bereitgestellten Ordner in den vorhandenen App-Arbeitsweg und bestimme die tatsächlich gewählte Hauptdatei und ihre Anlagen.",
+      "expected_result": "Liefere die tatsächlich erzeugte Mappe mit prüfbarem Dateibestand und benannten offenen Formpunkten; die Anwendungsvorbereitung ist kein Auftrag zur Einreichung.",
+      "new_information": "Eine ersetzte Hauptdatei löst neue Anlagenzuordnung und Endkontrolle aus; ein fehlgeschlagener Export wird konkret gemeldet und nicht als fertiger Download dargestellt."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "softwarerecht-de-eu-us",
+    "source": "./softwarerecht-de-eu-us",
+    "theme": "it",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "softwarerecht-de-eu-us/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7fe881071abf4a29acb6d881127ce12d31254f60d26eeb2a0044ff4ee5772fd6",
+    "after_sha256": "305626aad3b1e5228e9d1ed1f0c2b86b61172d554c4c4d2076f53abf528a3a00",
+    "reference": "softwarerecht-de-eu-us/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "2ff5cd5df2d0eff638640af857dd550d92fa15bec5ac51531cdf107a359e699c",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Lizenz, dauerhafte Kopie, SaaS, Entwicklung und Wartung. Prüfe deutsches, unionsrechtliches und US-Recht nach ihrem jeweiligen Anknüpfungspunkt; Erschöpfung einer Kopie ist keine allgemeine SaaS-Übertragbarkeit.",
+      "Schreibe die beauftragte Klausel, Mängelreaktion oder Rechtebewertung mit konkretem Leistungs- und Nutzungsumfang und belegtem Rechtsraum.",
+      "Ein Wechsel von dauerhaftem Download zu Cloud-Zugang verändert Übertragungs- und Beendigungsfragen; bloße Übersetzung der bisherigen Klausel genügt nicht."
+    ],
+    "scenario": {
+      "input": "Erfasse Vertragsrecht, Forum, Leistungsmodell, Rechtekette, Nutzungsdauer, Datenfluss und tatsächliche technische Leistung.",
+      "expected_result": "Schreibe die beauftragte Klausel, Mängelreaktion oder Rechtebewertung mit konkretem Leistungs- und Nutzungsumfang und belegtem Rechtsraum.",
+      "new_information": "Ein Wechsel von dauerhaftem Download zu Cloud-Zugang verändert Übertragungs- und Beendigungsfragen; bloße Übersetzung der bisherigen Klausel genügt nicht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "status-navigator-step-plan",
+    "source": "./status-navigator-step-plan",
+    "theme": "dokumentenworkflow",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "status-navigator-step-plan/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3b79bfcd7631b39f0f8afaec3db82f96c0425ece880adb42ee33d4d09e8fa570",
+    "after_sha256": "12d783886b97ebcdd6dc79fc09d071c5661b80ac4ee28b8a44dbc6f024a83f51",
+    "reference": "status-navigator-step-plan/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "6e5757b226f53a98f25519dc503b2397146ffd18773ca376c5701d812fc01484",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne erledigt, behauptet, belegt und noch offen. Ordne jede Frist ihrem Auslöser und jeder Freigabe ihrem genauen Gegenstand zu; ein Statusfeld ersetzt keinen Nachweis.",
+      "Erstelle die bestellte Schrittfolge und das dazu benötigte Schreiben mit verantwortlicher Person, Abhängigkeit und belegter Frist.",
+      "Ein neuer Zugangsnachweis verändert Frist und Folgehandlung; ein Trackingstatus allein darf nicht in eine feststehende Zustellung umetikettiert werden."
+    ],
+    "scenario": {
+      "input": "Sichere Dokumentfassung, Beteiligte, Ereignisse und den tatsächlich gewünschten nächsten Schritt aus dem vorhandenen Ordner.",
+      "expected_result": "Erstelle die bestellte Schrittfolge und das dazu benötigte Schreiben mit verantwortlicher Person, Abhängigkeit und belegter Frist.",
+      "new_information": "Ein neuer Zugangsnachweis verändert Frist und Folgehandlung; ein Trackingstatus allein darf nicht in eine feststehende Zustellung umetikettiert werden."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "subsumtions-pruefer",
+    "source": "./subsumtions-pruefer",
+    "theme": "ausbildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "subsumtions-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "169a7b325b62728367f9fbbd79daa07d8438876ea8289967b44607c226dd5db1",
+    "after_sha256": "7b3096fbaf3867e1d35395982ac53f70de73b6c2585193a12f3194c446fb0ea7",
+    "reference": "subsumtions-pruefer/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "4940a9ca6bd13212e828a4a6bbbe5518a0f957c5ec27008cf8b706d80c33af15",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Zerlege die Prüfung in Merkmal, Tatsache, Beleg und Schluss. Suche den stärksten Einwand gegen genau diesen Schluss und prüfe Ausnahmen sowie Beweislast.",
+      "Überarbeite die angegriffene Begründung selbst, mit tragfähigem Ergebnissatz und sauber konditionaler Behandlung offener Tatsachen.",
+      "Eine neue Tatsache verändert die betroffenen Merkmale und Rechtsfolge; zusätzliche Fundstellen heilen keinen logischen Sprung."
+    ],
+    "scenario": {
+      "input": "Lies konkrete These, zugrunde gelegten Sachverhalt und herangezogene Norm oder Entscheidung.",
+      "expected_result": "Überarbeite die angegriffene Begründung selbst, mit tragfähigem Ergebnissatz und sauber konditionaler Behandlung offener Tatsachen.",
+      "new_information": "Eine neue Tatsache verändert die betroffenen Merkmale und Rechtsfolge; zusätzliche Fundstellen heilen keinen logischen Sprung."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "tabellenreview-3d",
+    "source": "./tabellenreview-3d",
+    "theme": "dokumentenworkflow",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "tabellenreview-3d/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1ae70e0fa026c276d98835a8456432663422ad984e45237af015735f730bb530",
+    "after_sha256": "0359e4c1303910f39650f250b36308a586942e738f2af6ac148bf8ee9106bc19",
+    "reference": "tabellenreview-3d/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "fdaa49c3e63acfc0946b0ea4bf089aa721c960cd935341dfbd1ee8b1755003c6",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Quelle, Formel, Filter, Rundung und Summenabgleich getrennt. Unterscheide leere Zelle, Nullwert und fehlenden Beleg; zeige Abweichungen an konkreten Zellen.",
+      "Liefere die korrigierte oder kommentierte Tabelle mit nachvollziehbarer Kontrollrechnung und der verlangten begründeten Auswertung.",
+      "Eine neue Buchung aktualisiert betroffene Summen und Textaussage; ein gerichtlicher Export braucht nachvollziehbare Fundstellen, ohne dadurch Tatsachen schon zu beweisen."
+    ],
+    "scenario": {
+      "input": "Sichere Originaldatei, relevante Blätter, Bezugszeitraum, Einheiten, Formeln und beauftragte Fragestellung.",
+      "expected_result": "Liefere die korrigierte oder kommentierte Tabelle mit nachvollziehbarer Kontrollrechnung und der verlangten begründeten Auswertung.",
+      "new_information": "Eine neue Buchung aktualisiert betroffene Summen und Textaussage; ein gerichtlicher Export braucht nachvollziehbare Fundstellen, ohne dadurch Tatsachen schon zu beweisen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "telekommunikationsrecht",
+    "source": "./telekommunikationsrecht",
+    "theme": "telekom",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "telekommunikationsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f94895c9579e074e8152718ad8ce25df49724d2db286b0fa5b4ff258a9d66e82",
+    "after_sha256": "c9fb9a08951e497c15b54aab15c1d3a35b706c9abbbc1d709df11d9346011322",
+    "reference": "telekommunikationsrecht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "c8a9f11ececcb5dd0cd729c899ebee4d11de5d9a2ed777272c2cf0eddfbc7289",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Endkundenvertrag, Netzzugang und Regulierung. Prüfe Vertragsbeginn, Mindestlaufzeit, tatsächliche Leistung, Ersatzmöglichkeit und einschlägigen Rechtsweg.",
+      "Erstelle die bestellte Minderungsrechnung, Kündigung, Anbieterantwort oder Regulierungsstellungnahme mit Zeiträumen und konkreten Belegen.",
+      "Ein nachgereichtes Schaltungsdatum darf nicht ungeprüft den Vertragsbeginn ersetzen; eine Ersatzverbindung kann Schaden und Anrechnung verändern."
+    ],
+    "scenario": {
+      "input": "Lies Vertrag, Vertragszusammenfassung, Leistungsdaten, Störungstickets, Messungen, Wechselvorgang und Bescheide.",
+      "expected_result": "Erstelle die bestellte Minderungsrechnung, Kündigung, Anbieterantwort oder Regulierungsstellungnahme mit Zeiträumen und konkreten Belegen.",
+      "new_information": "Ein nachgereichtes Schaltungsdatum darf nicht ungeprüft den Vertragsbeginn ersetzen; eine Ersatzverbindung kann Schaden und Anrechnung verändern."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "urheberrecht-de-eu",
+    "source": "./urheberrecht-de-eu",
+    "theme": "urheber",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "urheberrecht-de-eu/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1fb9cab28b9d0d3be03bd516de661f714b0e086b1847d60ead5f8bd31201ecfc",
+    "after_sha256": "ad2a49bb2df36886aa3b4ae83b1cce8808de654887251554d9aa23bea10928be",
+    "reference": "urheberrecht-de-eu/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "62aa877036226ebc297dbbd67338b44afbab781422d5e7d2a921e79937f49214",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Schutzgegenstand, Verwertungsrecht, Lizenz und Schranke. Prüfe beim Zitat die geistige Verbindung zu eigenen Ausführungen und bei Bearbeitung oder Pastiche die jeweils eigenen Voraussetzungen.",
+      "Formuliere die bestellte Rechtefreigabe, Lizenz, Abmahnung oder Verteidigung mit bestimmtem Nutzungsgegenstand und belegtem Anwendungsmaßstab.",
+      "Ein anderer Ausschnitt oder werblicher Kontext kann die Schranke verändern; eine feste Wortzahl oder bloße Quellenangabe ersetzt keine Nutzungsbefugnis."
+    ],
+    "scenario": {
+      "input": "Sichere Werk, Urheber, Rechtekette und konkrete Nutzung mit Umfang, Kontext, Zielgruppe und Veröffentlichungsdatum.",
+      "expected_result": "Formuliere die bestellte Rechtefreigabe, Lizenz, Abmahnung oder Verteidigung mit bestimmtem Nutzungsgegenstand und belegtem Anwendungsmaßstab.",
+      "new_information": "Ein anderer Ausschnitt oder werblicher Kontext kann die Schranke verändern; eine feste Wortzahl oder bloße Quellenangabe ersetzt keine Nutzungsbefugnis."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "us-copyright-registrierung-verlag",
+    "source": "./us-copyright-registrierung-verlag",
+    "theme": "us_copyright",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "us-copyright-registrierung-verlag/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6f125207c386c3fd2c2f06ef382365645f40b705b618ec353bf50a725dff9cba",
+    "after_sha256": "f16ff658b90aa60f0d09de092e0e7faae023a62418042ea84930ce20ee4a2a19",
+    "reference": "us-copyright-registrierung-verlag/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "94b5c879e708fe53b1d418882bc3a7f0a68daa0f24e6e7d38a00485c1f4a120e",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Schutzentstehung, Anmeldung, behördliche Registrierungsentscheidung und Voraussetzungen der Klage. Prüfe Rechtsfolgen verspäteter Registrierung und gesetzliche Ausnahmen separat.",
+      "Erstelle das beauftragte Anmeldepaket oder den Verfahrensvermerk mit konkreter Werkangabe, erforderlichem Deposit, Rechtekette und offenen Nachweisen.",
+      "Ein eingegangener Registerbescheid verändert den Verfahrensstand; eine bloße Eingangsbestätigung ist noch keine Registrierungsentscheidung. Allgemeine EU-Vertragsanknüpfung ersetzt diese US-Prüfung nicht."
+    ],
+    "scenario": {
+      "input": "Bestimme Werk, Urheber, Rechteinhaber, Entstehung, Erstveröffentlichung, US-work-Status und bisherigen Registrierungsstand.",
+      "expected_result": "Erstelle das beauftragte Anmeldepaket oder den Verfahrensvermerk mit konkreter Werkangabe, erforderlichem Deposit, Rechtekette und offenen Nachweisen.",
+      "new_information": "Ein eingegangener Registerbescheid verändert den Verfahrensstand; eine bloße Eingangsbestätigung ist noch keine Registrierungsentscheidung. Allgemeine EU-Vertragsanknüpfung ersetzt diese US-Prüfung nicht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "verarbeitungsverzeichnis",
+    "source": "./verarbeitungsverzeichnis",
+    "theme": "datenschutz",
+    "main_skill": "verarbeitungsverzeichnis-steuern",
+    "path": "verarbeitungsverzeichnis/skills/verarbeitungsverzeichnis-steuern/SKILL.md",
+    "before_sha256": "89cbf5e8bf239ad7afecd9d917fd22ee3952af5285d94e852e3fe9e96ec227f4",
+    "after_sha256": "e462a13503e8f876bcb02cb7c1293089660745a155cb84a47f81c16dae0fab64",
+    "reference": "verarbeitungsverzeichnis/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "e2df7a620fdb2e1f8d7edf4e999f0a0f4b9bfb8deb8541fe5bb09ab2fbf171cb",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Ordne Zweck, Rolle, Rechtsgrundlage, Betroffene, Übermittlung, Aufbewahrung und Schutzmaßnahme jedem konkreten Vorgang zu. Eine Systembezeichnung allein ist noch keine Verarbeitungstätigkeit.",
+      "Erstelle das Verzeichnis mit nachvollziehbaren Einträgen und gezielten offenen Fragen; ergänze erforderliche Risiko- oder Vertragsprüfung, ohne deren Ergebnis zu erfinden.",
+      "Eine neue Schnittstelle oder Zweckänderung aktualisiert den betroffenen Eintrag und seine Folgeprüfung; ein ausgefülltes Verzeichnis beweist keine materielle Rechtmäßigkeit."
+    ],
+    "scenario": {
+      "input": "Lies tatsächliche Prozesse, Systeme, Verträge, Datenkategorien, Empfänger und Löschabläufe; verwende die bereits bekannten Unternehmensangaben.",
+      "expected_result": "Erstelle das Verzeichnis mit nachvollziehbaren Einträgen und gezielten offenen Fragen; ergänze erforderliche Risiko- oder Vertragsprüfung, ohne deren Ergebnis zu erfinden.",
+      "new_information": "Eine neue Schnittstelle oder Zweckänderung aktualisiert den betroffenen Eintrag und seine Folgeprüfung; ein ausgefülltes Verzeichnis beweist keine materielle Rechtmäßigkeit."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 2
+  },
+  {
+    "plugin": "verlagsrecht-buchpreisbindung",
+    "source": "./verlagsrecht-buchpreisbindung",
+    "theme": "verlag",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verlagsrecht-buchpreisbindung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "ad95c51d56c84151a37865195eb2245c0a9cae0fc2f4bf6e2eb6f3df243f59a0",
+    "after_sha256": "9132c24e4fbe9356d0f095b32eb6cdda13c9eb2d6816fee294e59ff2f687278d",
+    "reference": "verlagsrecht-buchpreisbindung/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "f58fc19d06f87344a42865b0cd3ee8bbfed2fba6688ce58d1196cdec960f981c",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Nutzungsrechte, verlegerische Pflichten und Preisbindungsrecht. Prüfe Preisnachlass und Ausnahme am konkreten Vertrieb, nicht allein anhand eines Mängelstempels.",
+      "Formuliere die bestellte Vertragsklausel, Vertriebsfreigabe oder Anspruchsabwehr mit belegtem Ausnahmetatbestand und passender Rechtsfolge.",
+      "Ein tatsächlicher Materialfehler kann die Bewertung verändern; eine bloße Kennzeichnung oder Rücksendung beweist die Ausnahme weiterhin nicht."
+    ],
+    "scenario": {
+      "input": "Lies Verlagsvertrag, Ausgabe, Vertriebsmodell, Preisbindung, Rabatt und behaupteten Ausnahmegrund; sichere tatsächlichen Zustand der Bücher.",
+      "expected_result": "Formuliere die bestellte Vertragsklausel, Vertriebsfreigabe oder Anspruchsabwehr mit belegtem Ausnahmetatbestand und passender Rechtsfolge.",
+      "new_information": "Ein tatsächlicher Materialfehler kann die Bewertung verändern; eine bloße Kennzeichnung oder Rücksendung beweist die Ausnahme weiterhin nicht."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "verlagsredaktion",
+    "source": "./verlagsredaktion",
+    "theme": "presse",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verlagsredaktion/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "4ef86ebdaf4eb7c7553241cdf3d1edb6f8a53d0452b587e879180bf00d4d9b2d",
+    "after_sha256": "43287f874c688f01981b7c428d8128b9ef1603006702f759b7982aea99edbc71",
+    "reference": "verlagsredaktion/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "a3176f29efb9f885240662ef9d4e9209cf3301a44145d5c8af84026d09a34743",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Tatsachen, Verdacht, Meinung und fremdes Zitat. Prüfe Beleggrundlage, Anhörung, Informationsinteresse und Wiedererkennbarkeit im gesamten Beitrag.",
+      "Schreibe die bestellte Meldung, Analyse oder Anfrage vollständig mit korrektem Verfahrensstand und verständlich eingeordneten Rechtsfolgen.",
+      "Eine neue Stellungnahme oder gerichtliche Entscheidung muss Überschrift, Text und gegebenenfalls Bildlegende verändern; sie gehört nicht nur in einen angehängten Quellenvermerk."
+    ],
+    "scenario": {
+      "input": "Lies Ausgangsentscheidung, Recherchematerial, Stellungnahmen und beauftragtes Format; sichere Veröffentlichungsziel und Redaktionsschluss.",
+      "expected_result": "Schreibe die bestellte Meldung, Analyse oder Anfrage vollständig mit korrektem Verfahrensstand und verständlich eingeordneten Rechtsfolgen.",
+      "new_information": "Eine neue Stellungnahme oder gerichtliche Entscheidung muss Überschrift, Text und gegebenenfalls Bildlegende verändern; sie gehört nicht nur in einen angehängten Quellenvermerk."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+    "source": "./word-legal-ai-plugin-and-skill-for-german-lawyers",
+    "theme": "dokumentenworkflow",
+    "main_skill": "kaltstart-drafting-kommandocenter",
+    "path": "word-legal-ai-plugin-and-skill-for-german-lawyers/skills/kaltstart-drafting-kommandocenter/SKILL.md",
+    "before_sha256": "68229bb06fafc4322cc4c908c3cc955171c77bf07c859358e4f88fc535354b4e",
+    "after_sha256": "1c42c86b1e2f3d25dd59eadc40363f9ef980fa3291f895e8348217849e727d84",
+    "reference": "word-legal-ai-plugin-and-skill-for-german-lawyers/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "fbafb4ea2bce0ea2191301b52ec7318ee8c86e5d21e717f29b15e294b1c3aa08",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne materielle Textänderung, Format, Nachverfolgung und späteren Einreichungsweg. Erhalte geschützte Inhalte und prüfe Verweise, Beträge und Namen nach jeder Änderung.",
+      "Erzeuge die tatsächlich bearbeitete Datei beziehungsweise die verfügbare Dokumentfassung mit vollständigem Text und kontrollierter Darstellung; offene Signaturfragen getrennt ausweisen.",
+      "Eine neue Klauselfassung verlangt Abgleich von Definitionen und Querverweisen; gerichtliche Signaturanforderungen sind keine Pflicht für jeden internen Entwurf."
+    ],
+    "scenario": {
+      "input": "Lies Auftrag, maßgebliche Dokumentfassung, Vorlagen und Anlagen; übernimm Kommentare oder Änderungswünsche nach ihrem tatsächlichen Inhalt.",
+      "expected_result": "Erzeuge die tatsächlich bearbeitete Datei beziehungsweise die verfügbare Dokumentfassung mit vollständigem Text und kontrollierter Darstellung; offene Signaturfragen getrennt ausweisen.",
+      "new_information": "Eine neue Klauselfassung verlangt Abgleich von Definitionen und Querverweisen; gerichtliche Signaturanforderungen sind keine Pflicht für jeden internen Entwurf."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 1
+  },
+  {
+    "plugin": "zitierweise-deutsches-recht",
+    "source": "./zitierweise-deutsches-recht",
+    "theme": "methodik",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "zitierweise-deutsches-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "96d0a18ad9610f2f0d9523be8b9532af2693906fab24a8477bd436b66b366770",
+    "after_sha256": "f559ec9594079a931ba5e66b2ba35d007573ab6cf8b2119cc9fd15eaefa8ae47",
+    "reference": "zitierweise-deutsches-recht/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "2c269184be969183c6f1dcfeb6a9655400fb5cb80cc0f62967ed15a6ec8ef70c",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Prüfe Existenz, Zitierform, Aussage und Übertragbarkeit getrennt. Eine Suchtrefferzeile ist kein gelesener Volltext, eine passende Fundstelle keine Bestätigung jeder damit verbundenen Behauptung.",
+      "Korrigiere Zitat und tragenden Text zugleich; verwende nur belegte Randnummern und führe offene Recherche getrennt vom Empfängertext.",
+      "Ein neuer Originaltext kann die bisherige Aussage widerlegen; passe dann die Argumentation an statt die alte These nur mit einem anderen Aktenzeichen zu versehen."
+    ],
+    "scenario": {
+      "input": "Lies die konkrete Aussage und ihre Fundstelle gemeinsam; erfasse Gericht, Datum, Aktenzeichen, Passage oder verifizierte Literaturausgabe.",
+      "expected_result": "Korrigiere Zitat und tragenden Text zugleich; verwende nur belegte Randnummern und führe offene Recherche getrennt vom Empfängertext.",
+      "new_information": "Ein neuer Originaltext kann die bisherige Aussage widerlegen; passe dann die Argumentation an statt die alte These nur mit einem anderen Aktenzeichen zu versehen."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  },
+  {
+    "plugin": "jugendmedienschutz-und-medienangebote",
+    "source": "./jugendmedienschutz-und-medienangebote",
+    "theme": "digitalplattform",
+    "main_skill": "medienangebot-pruefen",
+    "path": "jugendmedienschutz-und-medienangebote/skills/medienangebot-pruefen/SKILL.md",
+    "before_sha256": "963def790b0a4bbd471eb0f3b2fa89b1ff8d6fd79cc0ef77eaa2d08a29fe9775",
+    "after_sha256": "22a1abe2ea5e358c8748ef86fd8516b4c60e24f2a4e2577b516c7d4f6aa74a70",
+    "reference": "jugendmedienschutz-und-medienangebote/references/hauptworkflow-und-rechtsprechung.md",
+    "reference_sha256": "9651598d635e5af49948597eb6b79626fea8c0524a60712b169f018f9097389f",
+    "review_method": "strukturierte redaktionelle Workflowprüfung; vorhandene Fachabschnitte erhalten",
+    "changes": [
+      "Trenne Inhaltseinstufung, technische Zugangslösung, Anbieterpflichten, Werbung und Plattformrecht. Prüfe die tatsächlich einschlägigen Regeln und deren zeitliche Fassung.",
+      "Erstelle den beauftragten Einstufungsvermerk, Anbietertext oder Maßnahmenplan mit verständlicher Begründung und konkreten offenen Nachweisen.",
+      "Eine neue Chatfunktion oder andere Zielgruppe verlangt erneute Prüfung der betroffenen Risiken; eine Altersangabe allein beweist keine wirksame Zugangsbeschränkung."
+    ],
+    "scenario": {
+      "input": "Lies konkreten Inhalt, Funktionsbeschreibung, Zielgruppen, Alterszugang und geplanten Vertrieb; sichere nur seriöse, erforderliche Beispieldaten.",
+      "expected_result": "Erstelle den beauftragten Einstufungsvermerk, Anbietertext oder Maßnahmenplan mit verständlicher Begründung und konkreten offenen Nachweisen.",
+      "new_information": "Eine neue Chatfunktion oder andere Zielgruppe verlangt erneute Prüfung der betroffenen Risiken; eine Altersangabe allein beweist keine wirksame Zugangsbeschränkung."
+    },
+    "source_scope": "Dokumentierte Einzelquellen wiederverwendet; aktuelle Ergänzungen im gesonderten Quellenprotokoll. Keine pauschale Vollprüfung sämtlicher Fachquellen.",
+    "case_anchors": 0
+  }
+]

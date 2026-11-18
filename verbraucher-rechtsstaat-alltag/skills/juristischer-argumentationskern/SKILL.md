@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Verbraucher Rechtsstaat Alltag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Alltagsrechtliches Problem bis zum verständlichen und verwendbaren Schreiben lösen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Verbraucher Rechtsstaat Alltag
+# Alltagsrechtliches Problem bis zum verständlichen und verwendbaren Schreiben lösen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Lies Vertrag, Rechnung, beanstandete Leistung und bisherigen Schriftwechsel. Erk
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Verbraucher Rechtsstaat Alltag in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Vertrag, Rechnung, Mahnung, Behörden- oder Gerichtsschreiben auswerten; zuständige Stelle, Rechtsgebiet und tatsächliche Frist bestimmen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. In einfachen Worten Anspruch, Einwand und erreichbares Ziel erklären. Fälligkeit, Mahnung und Verzug trennen; Verbraucherabschluss und Rücktritt nicht allein aus Unzufriedenheit ableiten.
+
+3. Nur den durch den Sachverhalt ausgelösten Fachweg zu Vertrag, Widerruf, Zahlung, Behörde oder Gericht öffnen; eine Zuständigkeitsfrage nicht mit einer inhaltlichen Ablehnung beantworten.
+
+4. Das verlangte Antwortschreiben oder den Antrag vollständig erstellen; Betrag, Frist, Belege und nächster sinnvoller Schritt müssen auch ohne Fachwissen verständlich sein.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,15 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. EuGH, Urteil vom 7. April 2022, C-249/21: Maßgeblich ist die Beschriftung der auslösenden Schaltfläche selbst
-5.2. EuGH, Urteil vom 5. Oktober 2023, C-565/22: Beim Probeabo hängt ein weiteres Widerrufsrecht davon ab, ob über den späteren Preis bei Abschluss klar informiert wurde
-5.3. BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Nur für Fitnessstudio-Schließungsbeiträge und die damalige Laufzeitverlängerung heranziehen, nicht für jedes Abo
-5.4. EuGH, Urteil vom 7. April 2022, C-249/21: Für den Onlinevertrag zählt die eindeutige Buttonbeschriftung
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1): Ein einseitiges Zahlungsziel auf einer Rechnung begründet regelmäßig keinen Kalenderverzug; bei Verbrauchern fehlt ohne besonderen Hinweis auch die Wirkung nach Paragraf 286 Absatz 3 BGB. Erst verzugsbegründende Anwaltskosten sind nicht bereits Verzugsschaden. **Grenze:** Eine Rechnung kann eine eindeutige Mahnung enthalten; vereinbartes oder wirksam nach Paragraf 315 BGB bestimmtes Zahlungsziel bleibt gesondert zu prüfen.
+
+- [EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2](https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?language=en&num=C-249%252F21&page=1): Zahlungspflicht anhand des Schaltflächentextes prüfen. **Grenze:** Keine allgemeine Freigabe der übrigen Shopbedingungen; konkreter Abschlussweg bleibt zu prüfen.
+
+- [EuGH, Urteil vom 05.10.2023, C-565/22, Sofatutor, Rn. 43–50](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565): Bei Probeabo mit transparent mitgeteiltem späteren Gesamtpreis und unveränderten Bedingungen grundsätzlich einmaliges Widerrufsrecht; bei fehlender transparenter Information nach Testphase neues Recht, sofern ein bindender Vertrag besteht. **Grenze:** Nationale Feststellung der Information erforderlich; keine Entscheidung über Paragraf 327r BGB, keine pauschale Wirksamkeit aller Verlängerungsklauseln; alte Richtlinienfassung im Ausgangsverfahren beachten.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -79,13 +78,11 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
-7.2. Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen.
-7.3. Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
-7.4. Welche Pflichtverletzung oder welcher Mangel ist mit welchem Beleg bewiesen.
-7.5. Welche Einwendung ist entscheidungserheblich und wer trägt sie.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

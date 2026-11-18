@@ -90,7 +90,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Inhaltsverzeichnis
 
-1. `konkurrenzrechtsschutz-orchestrator` - Konkurrenzrechtsschutz Orchestrator - Primärer Kaltstart ohne Skillwahl für jeden Konkurrentenfall mit Aktenordner, ZIP, Informationsschreiben.
+1. `konkurrenzrechtsschutz-orchestrator` - Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen - Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen. Nutzt vorhandene Falldaten, entscheidet.
 2. `startbildschirm-konkurrentenangriff` - Startbildschirm Konkurrentenangriff - Stellt nach der Triage des Konkurrenten-Orchestrators Fristen, Angriff, Fundstellen, Beweise, Akteneinsichtslücken.
 3. `bundeswehrbeschaffung-bwbbg-2026` - Konkurrentenangriff nach dem BwBBG 2026 - Konkurrent greift Bundeswehrvergaben nach dem seit 14. Februar 2026 geltenden BwBBG an: Teilnahme.
 4. `ruege-konkurrent-160-gwb` - Rüge Konkurrent - Rüge eines Konkurrenten nach § 160 GWB vorbereiten: Kenntnis, Erkennbarkeit, Präklusion, Vergabeverstoß.
@@ -113,11 +113,11 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ---
 
-## Arbeitsmodul: Konkurrenzrechtsschutz Orchestrator
+## Arbeitsmodul: Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen
 
-_Primärer Kaltstart ohne Skillwahl für jeden Konkurrentenfall mit Aktenordner, ZIP, Informationsschreiben oder Portalbeleg. Immer zuerst einsetzen, wenn der Angriff noch nicht eng abgegrenzt ist. Sichert Rüge- und Zuschlagsfristen, ordnet Tatsachenkern, Beweiskette, Akteneinsicht und Antrag und routet danach zu höchstens drei Fachskills._
+_Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen._
 
-### Konkurrenzrechtsschutz Orchestrator
+### Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen
 
 **Arbeitsname:** Neuer Konkurrentenfall automatisch vorbereiten, stärksten Angriff finden und Rechtsschutzpfad starten.
 
@@ -301,6 +301,16 @@ Fehlt eine Stufe, keine ausformulierte Behauptung erzeugen. Stattdessen die offe
 - Gibt es für jeden Angriff Beleg, Akteneinsichtsziel oder Beweis-Cluster?
 - Ist der Antrag eindeutig als Rüge, VK-Antrag, Eilantrag, Akteneinsicht, OLG oder Kostenmemo geroutet?
 - Ist die nächste Anlage, Freigabe oder Gerichtshandlung klar?
+
+#### Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der Entscheidungskarte beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.: Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative. **Grenze:** Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.
+
+- EuGH, Urteil vom 12.02.2004 - C-230/02: Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28-29,37-40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; heutige § 160 Prüfung bleibt.
+
+- BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.: Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an § 60 VgV abgeglichen.
 
 ---
 

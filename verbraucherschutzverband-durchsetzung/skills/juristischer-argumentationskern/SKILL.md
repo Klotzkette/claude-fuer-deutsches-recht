@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Verbraucherschutzverband Durchsetzung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Verbandsdurchsetzung vom belegten Verstoß zum zulässigen Unterlassungsentwurf führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Verbraucherschutzverband Durchsetzung
+# Verbandsdurchsetzung vom belegten Verstoß zum zulässigen Unterlassungsentwurf führen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Gleiche Marktverhalten, Betroffenengruppe und vorhandene Fälle ab. Begründe An
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Verbraucherschutzverband Durchsetzung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Beweissicherung, beanstandete Gestaltung, Zielgruppe, Verbandseigenschaft und vorherige Verfahren auswerten; individuelle Leistung und kollektiven Unterlassungsanspruch unterscheiden.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Anspruchsberechtigung und konkrete Anspruchsgrundlage vor Rechtsverletzung prüfen; Datenschutz-, AGB- und Verbraucherschutzverstöße nicht ohne Prüfung der jeweiligen Ermächtigung zusammenziehen.
+
+3. Bei Klausel, Informationspflicht, Kündigungsschaltfläche oder Datenschutz den passenden Fachweg öffnen. Ein Unterlassungsurteil begründet nicht automatisch individuelle Zahlungsansprüche.
+
+4. Abmahnung, Unterlassungsantrag oder Erwiderung mit bestimmter Verletzungsform, Belegen und Wiederholungsgefahr ausformulieren; stärkste Zulässigkeits- und Rechtmäßigkeitsgegenposition beantworten.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,15 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. EuGH, Urteil vom 7. April 2022, C-249/21: Die Eindeutigkeit der Zahlungsverpflichtung folgt aus der Beschriftung der auslösenden Schaltfläche
-5.2. EuGH, Urteil vom 5. Oktober 2023, C-565/22: Bei Probeabo und automatischer Verlängerung Preisaufklärung und Zeitpunkt des Widerrufsrechts präzise vortragen
-5.3. BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Nur bei Fitnessstudio-Schließungsgruppen für Unmöglichkeit, Rückzahlung und unzulässige Laufzeitverlängerung verwenden
-5.4. EuGH, Urteil vom 21. März 2023, C-100/21, und BGH, Urteile vom 26. Juni 2023, VIa ZR 335/21, VIa ZR 533/21 und VIa ZR 1031/22: Bei Diesel-Fallgruppen unionsrechtlichen Schutzbereich und Differenzschaden
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [EuGH, Urteil vom 11. Juli 2024, C-757/22](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62022CJ0757): Verletzte Informationsrechte als Gegenstand datenschutzbezogener Verbandsklage einordnen. **Grenze:** Amtlicher Volltext Rn. 40–44 und 61–65 gelesen; kein pauschaler Zugang zu kollektiven Zahlungsansprüchen.
+
+- [BGH, Urteil vom 16.07.2026 – I ZR 200/25, Rn. 16–36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1): Bestätigungsseite des Kündigungsbuttons darf keine Rückgewinnungs-/Pausenangebote enthalten; zulässige Inhalte abschließend. **Grenze:** Angebote vor erster Schaltfläche gesondert; Beschriftung und Seiteninhalt verschiedene Verletzungsformen, individueller Endtermin nicht automatisch entschieden.
+
+- [BGH, Urteil vom 01.10.2026, III ZR 205/25, Rn. 20–32](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip): Prüfe Preis-, Widerspruchs- und Kündigungsklauseln gemeinsam. Lege fest, ob und bis wann Widerspruch den bisherigen Preis erhält und wann eine Kündigung wirkt. **Grenze:** Die Entscheidung zur konkreten AGB-Gruppe begründet kein allgemeines Erhöhungsverbot und spricht keine individuelle Erstattung zu. Die weitere Angriffsrichtung zur Kostenstruktur blieb für die Entscheidung offen.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -79,13 +78,11 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
-7.2. Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen.
-7.3. Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
-7.4. Welche Pflichtverletzung oder welcher Mangel ist mit welchem Beleg bewiesen.
-7.5. Welche Einwendung ist entscheidungserheblich und wer trägt sie.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

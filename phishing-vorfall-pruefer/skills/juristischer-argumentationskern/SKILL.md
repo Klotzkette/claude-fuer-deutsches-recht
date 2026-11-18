@@ -1,9 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Phishing Vorfall Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Phishingfall bis zur konkreten Erstattungsforderung bearbeiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Phishing Vorfall Prüfer
+# Phishingfall bis zur konkreten Erstattungsforderung bearbeiten
+
+Sichere Nachrichten, Anrufverlauf, Login- und Transaktionsdaten, Freigabeanzeige, Kontobelastung und Bankantwort; trenne Person, Gerät und tatsächlichen Zahlungsvorgang.
+
+**Entscheidung im Arbeitsablauf:** Prüfe Autorisierung, Authentifizierung, unverzügliche Erstattung und endgültige Verlusttragung getrennt. Aus technischer Bestätigung folgt nicht automatisch die Zustimmung zum konkreten Zahlungsauftrag.
+
+**Bis zum Ergebnis weiterarbeiten:** Schreibe das beauftragte Bankschreiben oder den Schriftsatz mit bestimmtem Betrag, belegter Chronologie und getrennten Argumenten gegen die Einwendungen. Ein neues TAN-Protokoll verlangt Abgleich mit der sichtbaren Anzeige und Transaktion; grobe Fahrlässigkeit und mögliche Bankmitverantwortung sind konkret zu würdigen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

@@ -1,9 +1,9 @@
 ---
 name: geldwaescheproblem-loesen
-description: Steuert den konkreten Geldwäschefall im Unternehmen, in der Anwaltskanzlei oder im Notariat von der Rollenklärung über Beteiligte und Zahlungen zur begründeten Entscheidung, zum fertigen Schreiben und zur Nachverfolgung.
+description: "Geldwäscheverdacht und Kundenprüfung bis zur Entscheidung bearbeiten. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert begründete Annahme-, Fortführungs- oder Meldeentscheidung und, wenn verlangt, ausgefüllten Meldungsentwurf mit Tatsachen statt Schuldbehauptungen."
 ---
 
-# Geldwäscheproblem lösen und den Vorgang weiterführen
+# Geldwäscheverdacht und Kundenprüfung bis zur Entscheidung bearbeiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -22,6 +22,19 @@ Lesen Sie vorhandene Akten, Verträge, Beteiligungsübersichten, Registerauszüg
 Die notwendige Rückfrage lautet etwa: „Handeln Sie hier als beauftragte Rechtsanwältin beim Grundstückskauf oder als Notarin beim Vollzug, und welcher Schritt soll heute ausgeführt werden?“ Wenn dies aus den Unterlagen hervorgeht, entfällt die Frage. Bei fehlender Unterschrifts- oder Meldebefugnis können Beteiligtenbild, Zahlungsabgleich und ein begründeter Entwurf dennoch erstellt werden.
 
 ## 3. Ablauf und Checkliste
+
+**Aktenstart.** Lies Geschäftsmodell, Verpflichtetenstatus, Kundenakte, Vertretung, Beteiligungskette und auffällige Transaktionen; dokumentiere Herkunft jedes Verdachtsindikators. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Trenne allgemeine Sorgfalt, verstärkte Prüfung, Sanktionen und Verdachtsmeldung. Bestimme wirtschaftlich Berechtigte anhand tatsächlicher Kontrolle; ein Sanktionskontrollbegriff ist nicht automatisch der GwG-Begriff.
+
+**Gezielte Vertiefung.** Bei ungeklärter Mittelherkunft verlange den entscheidenden Herkunftsbeleg; bei Meldeverdacht prüfe § 43 GwG, Durchführungssperre und Informationsverbot. Berufsgeheimnis-Ausnahmen anhand Rolle und konkreter Tätigkeit prüfen, nicht pauschal für alle Rechtsberater. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere begründete Annahme-, Fortführungs- oder Meldeentscheidung und, wenn verlangt, ausgefüllten Meldungsentwurf mit Tatsachen statt Schuldbehauptungen. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1. Eingang und Dringlichkeit
 
@@ -100,6 +113,34 @@ Eine Berliner Kanzlei begleitet einen Grundstückskauf für eine Gesellschaft. R
 ### 6.3. Notarielle Kaufpreisprüfung
 
 Eine Notarin erhält eine angebliche Barquittung, einen Bankbeleg eines Dritten und eine Bitte um sofortige Eigentumsumschreibung. Erstellen Sie einen Zahlungsabgleich nach Belegstatus, klären Sie Widersprüche und formulieren Sie die erforderliche Nachforderung. Prüfen Sie gesondert Zahlungsmittel, Meldetatbestand, zulässige Entkräftung, gesetzlichen Ablauf und sonstige Vollzugsvoraussetzungen. Ein Nachweis über einen Teilbetrag bestätigt nicht den gesamten Kaufpreis; ein rein rechnerischer Restbetrag beweist keinen weiteren Geldfluss.
+
+
+
+### 6.4. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [EuGH, Urteil vom 12.03.2026, C-84/24, Rn. 79–112](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62024CJ0084). **Anwendung:** Konkrete Kontrolle und widerlegbare Vermutung im untersuchten Sanktionsregime. **Grenze:** Kein Ersatz der GwG-Definition und keine Übertragung auf alle Sanktionsregime.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-08.
+
+2. [EuGH, Urteil vom 08.12.2022, C-694/20, Rn. 27–34, 59–66](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0694). **Anwendung:** Geschützte anwaltliche Kommunikation einschließlich Beratungsidentität sachgerecht einordnen. **Grenze:** DAC6-Kontext; keine pauschale Befreiung von § 43 GwG.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-08.
+
+3. [EuGH, Urteil vom 26.06.2007 - C-305/05, Rn. 32 bis 37](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62005CJ0305). **Anwendung:** Bei gemischter anwaltlicher Beratung und Transaktionsabwicklung Herkunft und Zusammenhang jeder Information abgrenzen; Meldepflichten setzen den Schutz verfahrensbezogener Beratung voraus. **Grenze:** Entscheidung zur Richtlinie 91/308/EWG und zum fairen Verfahren, keine pauschale Bestätigung jeder heutigen Meldepflicht oder sämtlicher Grundrechtsfragen. Aktuelles GwG Paragraf 43 Absatz 2 mit Rückausnahmen eigenständig prüfen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
+
+4. [EuGH, Urt. v. 22.11.2022 – Az. C-37/20 und C-601/20, Luxembourg Business Registers](https://juris.curia.europa.eu/juris/document/document.jsf?docid=268059&doclang=DE). **Anwendung:** Keine voraussetzungslose Zugänglichkeit von UBO-Daten für sämtliche Mitglieder der Öffentlichkeit; berechtigte Zwecke und andere Zugangsgruppen getrennt prüfen. **Grenze:** Mitteilungspflicht, Behörden- und Verpflichtetenzugang nicht aufgehoben; Registrierung allein legitimiert keinen unbeschränkten Abruf.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
+
+#### 6.4.1. Beweis und Abschluss
+
+Eine interne Prüfung ist kein Prozess mit pauschal zugeteilter Beweislast. Trenne bestätigte Tatsache, Verdachtsindiz, plausible Entlastung und nicht aufklärbaren Punkt; dokumentiere Herkunft und zulässigen Zugriff. Für späteren Rechtsstreit, Sanktion oder Meldung den jeweiligen gesetzlichen Maßstab gesondert bestimmen. HinSchG-Repressalienvermutung, GwG-Meldeschwelle und Datenschutz-Rechtmäßigkeit sind keine austauschbaren Beweisregeln.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

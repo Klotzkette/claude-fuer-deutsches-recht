@@ -1,6 +1,6 @@
 # grundsteuerrecht
 
-**10 Skills** · Stand `v445.35.3`
+**10 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../grundsteuerrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`grundsteuerrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`grundsteuerrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [grundsteuerrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundsteuerrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [grundsteuerrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/grundsteuerrecht.zip) |
 
 ## So benutzt man einen Skill
 
@@ -28,7 +28,7 @@ English: This index lists source skills, including specialist series accessed th
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`bescheide-und-fristen-ordnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/bescheide-und-fristen-ordnen/SKILL.md) | Ordnet Grundsteuerpost nach Wertfeststellung, Messbetrag und Jahressteuer und sichert für jeden Verwaltungsakt den eigenen Zugang und Rechtsbehelf. Nutzen bei mehreren Bescheiden in einer Datei, unklaren Fristen oder dem ersten Blick in einen Grundstücksordner; liefert sofort... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/bescheide-und-fristen-ordnen/SKILL.md) |
+| [`bescheide-und-fristen-ordnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/bescheide-und-fristen-ordnen/SKILL.md) | Grundsteuerbescheide richtig zuordnen und gezielt angreifen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert zutreffend adressierten Einspruch oder Korrekturantrag mit konkreter Wertänderung und gegebenenfalls gesondertem AdV-Antrag. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/bescheide-und-fristen-ordnen/SKILL.md) |
 | [`einspruch-und-aenderungsantrag-entwerfen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/einspruch-und-aenderungsantrag-entwerfen/SKILL.md) | Entwirft einen bescheidgenauen Einspruch oder begründeten Änderungsantrag zur Grundsteuer. Ordnet Flächenfehler, falsche Messzahl und Übernahmedifferenz der richtigen Stufe zu und prüft bei alten Bescheiden Korrektur, Wiedereinsetzung und Fortschreibung, statt durch den neuen... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/einspruch-und-aenderungsantrag-entwerfen/SKILL.md) |
 | [`folgebescheid-und-mandantenbericht-abschliessen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/folgebescheid-und-mandantenbericht-abschliessen/SKILL.md) | Kontrolliert nach einer Grundsteuerkorrektur Wert, Messbetrag, Jahressteuer, Erstattung und offene Folgejahre. Schließt den Vorgang mit einem verständlichen Mandantenbrief und überprüfbaren Restpunkten ab; eine Zusage oder ein geänderter Grundlagenbescheid gilt nicht schon als... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/folgebescheid-und-mandantenbericht-abschliessen/SKILL.md) |
 | [`grundsteuerwert-nachrechnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/grundsteuerwert-nachrechnen/SKILL.md) | Rechnet die Wertfeststellung für Wohngrundstücke im Bundesmodell vom typisierten Mietansatz bis zum abgerundeten Grundsteuerwert nach. Für falsche Flächen, Baujahre, Mietstufen oder unklare Zwischensummen; liefert eine prüfbare Rechenkette mit Quellen und trennt Eingabefehler... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/skills/grundsteuerwert-nachrechnen/SKILL.md) |

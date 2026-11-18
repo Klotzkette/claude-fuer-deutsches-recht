@@ -1,9 +1,23 @@
 ---
 name: sektorenvergabe-steuern
-description: "Steuert eine Sektorenvergabe aus Auftraggebersicht vom Reinigungsbedarf bis zur Zuschlagsfreigabe oder Nachprüfung. Verwenden, wenn mehrere Vergabeschritte zusammengeführt oder nach neuen Unterlagen fortgesetzt werden sollen; kein autonomer Versand."
+description: "Sektorenvergabe bis zum dokumentierten nächsten Verfahrensschritt führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Sektorenvergabe steuern
+# Sektorenvergabe bis zum dokumentierten nächsten Verfahrensschritt führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Auftraggeberstruktur, konkrete Sektorentätigkeit, Beschaffungszweck, Wert und Beginn aus der Akte ermitteln; Unternehmenszugehörigkeit allein genügt nicht für Sektorenrecht.
+
+2. Leistungsanforderung, Eignung, Wertung und Verfahrenswahl getrennt begründen; funktionalen Bezug zur Sektorentätigkeit und etwaige Befreiung prüfen.
+
+3. Bei Los, Gütezeichen, Aufklärung, Unterlagenänderung oder Geheimhaltung den passenden Fachweg öffnen. Vorhandenes erläutern und neues Angebot strikt unterscheiden; Kriterien nach Abgabe nicht austauschen.
+
+4. Unterlagen, Bieterschreiben oder Vergabevermerk vollständig formulieren; Transparenz, Fristen und konkreten Prüfpfad dokumentieren und neue Erkenntnisse in dieselbe Verfahrensakte zurückführen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -61,6 +75,16 @@ Liefere das bestellte Dokument vollständig ausformuliert, etwa Leistungsbeschre
 ## 6. Beispiel
 
 „Die Reinigungsunterlagen liegen im Ordner. Drei Anbieter haben die Nachtreinigung gerügt; morgen soll veröffentlicht werden.“ Kläre zuerst, ob bereits eine Bekanntmachung existiert oder erst eine Vorabstimmung stattfand. Bearbeite die Einwände mit Schritt 7, korrigiere betroffene Leistungs- und Preisunterlagen und führe anschließend Schritt 4 und 5 fort. Erfinde weder eine laufende Rügefrist noch einen bereits eröffneten Wettbewerb.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 28.10.2020, C-521/18, Pegaso](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62018CA0521): Amtlicher Tenor und indexierte Passagen zum funktionalen Zusammenhang unterstützender Leistungen. **Grenze:** Postfall, kein pauschaler U-Bahn- oder Konzernimmobilienfall; keine vollständige Urteilslektüre behauptet.
+
+- [EuGH, Urteil vom 05.04.2017, C-298/15, Borta](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62015CA0298): Amtlicher Tenor zu Änderungen, Publizität und Anpassungszeit. **Grenze:** Unterschwelliger Ausgangsfall; aktuelle SektVO eigenständig anwenden.
+
+- [EuGH, Urteil vom 10.05.2012, C-368/10, Kommission/Niederlande](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62010CA0368): Amtlicher Tenor zu klaren Nachhaltigkeitsbedingungen und Gütezeichen. **Grenze:** Alte Richtlinie; heutige Gütezeichenmöglichkeiten nicht pauschal ausschließen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

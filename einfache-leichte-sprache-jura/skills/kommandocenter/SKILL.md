@@ -1,35 +1,46 @@
 ---
 name: kommandocenter
-description: "Für Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte."
+description: "Juristischen Text verständlich und bedeutungstreu übertragen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Kommandocenter
+# Juristischen Text verständlich und bedeutungstreu übertragen
+
+Lies Ausgangstext, Zielgruppe und gewünschtes Format; nutze einen bereits bestimmten Sprachmodus ohne erneute Auswahlfrage.
+
+**Entscheidung im Arbeitsablauf:** Sichere Rechtsfolge, Voraussetzungen, Ausnahme, Betrag und Frist vor der sprachlichen Vereinfachung. Trenne eine vollständige Übertragung von einer ausdrücklich bestellten Zusammenfassung.
+
+**Bis zum Ergebnis weiterarbeiten:** Liefere den verständlichen Text selbst; ergänze nur erforderliche Begriffserklärungen und einen getrennten kurzen Hinweis auf noch ungeprüfte Zielgruppenverständlichkeit. Eine geänderte Frist oder Ausnahme muss im verständlichen Text und in jeder beigefügten Übersicht übereinstimmen; keine bestätigte Prüfung durch eine Zielgruppe behaupten, wenn sie nicht stattfand.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 Dieser Einstieg führt in jede Übertragung juristischer Texte in
 Einfache Sprache oder Leichte Sprache.
 
 ## Triage zu Beginn
+
+Diese Angaben aus den vorhandenen Unterlagen übernehmen; nur entscheidende Lücken erfragen.
+
 1. Einfache Sprache oder Leichte Sprache — Zielgruppe bekannt?
 2. Welches Format: Brief, Bescheid, Formular, Website, Flyer, Gerichtsinformation?
 3. Darf der Text inhaltlich gekuerzt werden oder muss alles erhalten bleiben?
 4. Gibt es einen institutionellen Hausstil oder Prüfgruppen für Leichte Sprache?
 
 ## Zentrale Normen
-- § 11 BGG — Barrierefreiheit: Behörden müssen Informationen in Leichter Sprache oder Einfacher Sprache bereitstellen
-- BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung (gilt für öffentliche Stellen)
-- § 43 SGB I — Beratungspflicht sozialrechtlich in verstaendlicher Sprache
-- § 58 VwGO — Rechtsbehelfsbelehrung: Klarheit als Wirksamkeitsvoraussetzung
+- [§ 11 BGG](https://www.gesetze-im-internet.de/bgg/__11.html) — adressaten- und bedarfsbezogene Soll-Regel: einfache verständliche Kommunikation, auf Verlangen Erläuterung und bei deren Unzulänglichkeit Erläuterung in Leichter Sprache; keine pauschale Pflicht zur vollständigen Neufassung jedes Behördenbescheids
+- BITV 2.0 — Anforderungen im gesetzlichen Bundes-Anwendungsbereich; für Landesstellen das jeweilige Landesrecht gesondert bestimmen
+- [§ 14 SGB I](https://www.gesetze-im-internet.de/sgb_1/__14.html) — Anspruch auf Beratung über Rechte und Pflichten; keine Gleichsetzung mit § 43 SGB I (vorläufige Leistungen)
+- [§ 58 VwGO](https://www.gesetze-im-internet.de/vwgo/__58.html) — ordnungsgemäße Rechtsbehelfsbelehrung als Voraussetzung des regulären Fristbeginns; nicht mit der Wirksamkeit des Bescheids verwechseln
 
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
-- § 11 SGB I (Verständlichkeit)
+- § 14 SGB I (Beratung); § 11 SGB I betrifft Leistungsarten und ist kein allgemeines Verständlichkeitsgebot
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
 
-## Output-Template: Routing-Entscheidung
+## Interne Auswahl vor der Textbearbeitung
 
 **Adressat-Bestimmung:**
 
@@ -42,11 +53,11 @@ Konkret zu prüfen:
 | Hausstil vorhanden | ja/nein |
 | Prüfgruppe vorhanden | ja/nein |
 
-**Naechster Schritt:** Lade `elsj-einfache-sprache` oder `elsj-leichte-sprache` + immer `elsj-juristische-sicherung`.
+**Weiter zum fertigen Text:** Vertiefe den passenden Sprachmodus und die juristische Sicherung mit den vorhandenen Fachabschnitten. Übernimm das Ergebnis in die verständliche Fassung; die Auswahlentscheidung allein erfüllt den Auftrag nicht.
 
 ## Erste Entscheidung
 
-Frage zuerst:
+Kläre nur, soweit aus Auftrag und Text noch nicht ersichtlich:
 
 1. Soll der Text in **Einfache Sprache** oder in **Leichte Sprache**?
 2. Wer soll den Text lesen?
@@ -90,10 +101,10 @@ Extrahiere vor der Übertragung:
 
 Lade danach:
 
-- `elsj-einfache-sprache`, wenn Einfache Sprache gewünscht ist.
-- `elsj-leichte-sprache`, wenn Leichte Sprache gewünscht ist.
-- `elsj-juristische-sicherung` immer parallel als Prüfschritt.
-- `elsj-qualitaetsgate` vor Herausgabe.
+- [Einfache Sprache](../einfache-sprache/FACHINHALT.md), wenn Einfache Sprache gewünscht ist.
+- [Leichte Sprache](../leichte-sprache/FACHINHALT.md), wenn Leichte Sprache gewünscht ist.
+- [Juristischen Inhalt sichern](../juristische-sicherung/FACHINHALT.md) immer parallel als Prüfschritt.
+- [Verständlichkeit und Rechtsnormen kontrollieren](../qualitaetsgate-rechtsnormen-einfach/FACHINHALT.md) vor Herausgabe.
 
 ### 4. Rückfragen nur wenn nötig
 

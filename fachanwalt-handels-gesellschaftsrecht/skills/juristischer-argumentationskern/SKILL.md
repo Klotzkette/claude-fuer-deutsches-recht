@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Fachanwalt Handels Gesellschaftsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Handels- und Gesellschaftsmandat zum vollziehbaren Ergebnis führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen Beschluss-, Vertrags- oder Schriftsatzentwurf mit richtiger Partei, Anspruchsfolge und erforderlichem Register- oder Zahlungsanschluss."
 ---
 
-# Juristischer Argumentationskern - Fachanwalt Handels Gesellschaftsrecht
+# Handels- und Gesellschaftsmandat zum vollziehbaren Ergebnis führen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Bestimme Gesellschaftsform, Organ, Gesellschafterstellung und maßgebliche Dokumentfassung. Leite daraus den beauftragten Beschluss, Vertragsentwurf, Registerantrag oder Haftungsvermerk ab.
+1.1. **Aktenstart.** Stimme Gesellschaftsvertrag, Register, Listen, Beschlüsse und betroffene Geschäfte mit der vertretenen Person und dem maßgeblichen Zeitpunkt ab. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Trenne Mitgliedschaft, organschaftliche Vertretung, schuldrechtliche Verpflichtung und Anspruchsinhaberschaft. Bei Einziehung prüfe Beschluss, Kapitalerhaltung und Abfindungsfinanzierung; bei Organanspruch Vertretung der Gesellschaft und Entlastung.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei Listenabweichung prüfe materielle Berechtigung und § 16 GmbHG getrennt; bei Managerbeteiligung die gesamte Beteiligungsstruktur und konkrete Ausübung; bei Handelsgeschäft Kaufmannseigenschaft, Rüge und Vertragsinhalt. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Fachanwalt Handels Gesellschaftsrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständigen Beschluss-, Vertrags- oder Schriftsatzentwurf mit richtiger Partei, Anspruchsfolge und erforderlichem Register- oder Zahlungsanschluss. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,84 +29,62 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen |
 | Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung](../fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung/FACHINHALT.md)
-3.1.2. [Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit](../fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit/FACHINHALT.md)
-3.1.3. [Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich](../fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich/FACHINHALT.md)
-3.1.4. [Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung](../fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung/FACHINHALT.md)
+2.1.1. [Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung](../fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung/FACHINHALT.md)
+2.1.2. [Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit](../fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit/FACHINHALT.md)
+2.1.3. [Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich](../fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich/FACHINHALT.md)
+2.1.4. [Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung](../fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-4.2. HGB Paragraf 105: offene Handelsgesellschaft.
-4.3. GmbHG Paragraf 13: Rechtsnatur der GmbH.
-4.4. GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-4.5. GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
-4.6. AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
+3.1. BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+3.2. HGB Paragraf 105: offene Handelsgesellschaft.
+3.3. GmbHG Paragraf 13: Rechtsnatur der GmbH.
+3.4. GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+3.5. GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
+3.6. AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung als Entscheidungshilfe
 
-5.1. Bestimme zuerst den konkreten Streitpunkt in Fachanwalt Handels Gesellschaftsrecht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
-5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
-5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
-5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-## 6. Beweislast und Gegenangriff
+1. [BGH, Urteil vom 26.06.2018 - II ZR 65/16, Rn. 13 bis 17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1). **Anwendung:** Steht bei Einziehungsbeschluss fest, dass die Abfindung nicht aus freiem Vermögen gezahlt werden kann, Nichtigkeit analog Paragraf 241 Nummer 3 AktG prüfen; nicht realisierte stille Reserven nicht wie verfügbares freies Vermögen behandeln. **Grenze:** Beschlusszeitpunkt von später eintretender Auszahlungssperre unterscheiden; aus nichtiger Einziehung folgt keine automatische persönliche Haftung aller Mitgesellschafter.
 
-Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+2. [BGH, Urteil vom 10.05.2016 - II ZR 342/14, Rn. 21 bis 33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1). **Anwendung:** Bei wirksamer Einziehung und späterer Abfindungssperre prüfen, ob verbleibende Gesellschafter die Gesellschaft treuwidrig ohne zumutbare Finanzierungs- oder Auflösungsmaßnahmen fortsetzen. **Grenze:** Keine automatische Ausfallbürgschaft. Rechtzeitige Insolvenzantragstellung und konkrete Finanzierungsmaßnahmen können eine Treuwidrigkeit ausschließen; Sicherheitsabreden gesondert prüfen.
 
-## 7. Prüffolge
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-7.1. Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-7.2. Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter.
-7.3. Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-7.4. Welche Haftungsnorm und welcher Schaden sind konkret.
-7.5. Welcher Vollzugsschritt ist noch offen.
+3. [BGH, Urteil vom 10.02.2026 – Az. II ZR 71/24, Rn. 21, 55–58, 66–67](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1). **Anwendung:** Managerbeteiligung und Hinauskündigung anhand Gesamtmodell prüfen; Verkehrswertkauf und Verlustrisiko schließen sachliche Rechtfertigung nicht allein aus. **Grenze:** Keine generelle Freigabe beliebiger Gründer-Leaver-Klauseln; Ausübungskontrolle nach Paragraf242BGB nach Zurückverweisung offen.
 
-## 8. Juristisches Schreiben
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten, Transaktionsschritte, Notarform: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+4. [BGH, Urteil vom 21.04.2026 – Az. II ZR 50/25, Rn. 18–25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Formelle Listenlegitimation und materielle Gesellschafterstellung unterscheiden; bei ernstlichem Bestreiten kann Feststellungsinteresse trotz zutreffender Liste bestehen. **Grenze:** Kein Nachweis von Einziehungsgrund, Kapitalerhaltung oder Finanzierbarkeit der Abfindung.
 
-## 9. Ausgabemodi
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+## 5. Beweis, Gegenposition und Fristen
 
-## 10. Qualitätskontrolle
+Bestimme die Darlegungs- und Beweislast je Anspruch und Merkmal. Bei Organhaftung sind Schaden und haftungsauslösender Zusammenhang von der Gesellschaft darzulegen; die organbezogene Sorgfalts-/Entlastungslast nach § 93 Abs. 2 AktG beziehungsweise den Regeln zu § 43 GmbHG darf nicht durch einen pauschalen Satz ersetzt werden. Die Business Judgment Rule betrifft unternehmerische Entscheidungen, nicht die Freiheit zur Missachtung zwingenden Rechts. Mitgliedschaft, Beschlussmangel und Treuepflichtanspruch benötigen jeweils eigene Belege; Register- oder Listeneintrag allein beweist nicht jeden materiellen Vorgang.
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich verwendbar?
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere vollständigen Beschluss-, Vertrags- oder Schriftsatzentwurf mit richtiger Partei, Anspruchsfolge und erforderlichem Register- oder Zahlungsanschluss. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

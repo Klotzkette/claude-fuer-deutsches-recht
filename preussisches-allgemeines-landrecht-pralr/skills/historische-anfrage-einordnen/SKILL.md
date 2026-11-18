@@ -1,9 +1,17 @@
 ---
 name: historische-anfrage-einordnen
-description: "Ordnet einen neuen PrALR-Auftrag nach Quelle, historischer Frage und gewünschtem Ergebnis ein. Führt ohne zusätzlichen Auswahlkatalog zum passenden Fachthema."
+description: "ALR-Frage historisch und quellenbezogen bearbeiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Historische Anfrage einordnen
+# ALR-Frage historisch und quellenbezogen bearbeiten
+
+Bestimme historische Streitfrage, damaligen Rechtsraum und maßgebliche ALR-Fassung; sichere Fundstelle und Textausgabe.
+
+**Entscheidung im Arbeitsablauf:** Lies Norm im damaligen System und prüfe zeitgenössische Begriffe, Institutionen und Ausnahmen. Trenne Originalregel von späterer Fortgeltung und heutiger Rezeption.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle die bestellte Quellenanalyse oder Fallrekonstruktion mit nachvollziehbarem Textbezug und gekennzeichneter Übersetzung. Eine spätere Abänderung darf nicht in einen früheren Fall zurückprojiziert werden; eine heutige Anschlussfrage braucht eigenes geltendes Recht.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

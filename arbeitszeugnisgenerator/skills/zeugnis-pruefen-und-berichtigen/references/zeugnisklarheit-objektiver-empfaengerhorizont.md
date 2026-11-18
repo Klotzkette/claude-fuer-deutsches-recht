@@ -1,6 +1,6 @@
 # Zeugnisklarheit - objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10)
 
-Nutze diese Detailreferenz nur für den konkreten Arbeitsschritt. Quellenstatus und Grenzen älterer Anker stehen in der [Rechtsprüfung](../../../references/rechtsstand.md); für Zitate gilt die [Zitierweise](../../../../references/zitierweise.md).
+Nutze diese Detailreferenz nur für den konkreten Arbeitsschritt. Quellenstatus und Grenzen älterer Anker stehen in der [Rechtsprüfung](../../../references/rechtsstand.md); für Zitate gilt die [Zitierweise](../../../references/zitierweise.md).
 
 ## 1. Ziel
 

@@ -1,9 +1,17 @@
 ---
 name: bea-anlagen-versand
-description: Bereitet beliebige Hauptdokumente mit Anlagen für den beA-Versand vor. Ermittelt Anlagen aus Dokument und Kontext, ordnet Originale inhaltlich zu, konvertiert Kopien in PDF, stempelt die erste Anlagenseite und benennt die Dateien für den beA-Upload.
+description: "Hauptdokument und Anlagen versandfertig aufbereiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# beA-Anlagen-Versand vorbereiten
+# Hauptdokument und Anlagen versandfertig aufbereiten
+
+Lies die bestimmte Endfassung samt Anlagenverweisen und ordne die gelieferten Originaldateien nach Inhalt, nicht allein nach Dateinamen zu.
+
+**Entscheidung im Arbeitsablauf:** Trenne fehlende Anlage, widersprüchliche Anlagenbezeichnung und ungeklärte Endfassung. Frage nur den blockierten Punkt nach und produziere die eindeutig zugeordneten Anlagen weiter.
+
+**Bis zum Ergebnis weiterarbeiten:** Erzeuge die vereinbarten PDF-Kopien, kontrolliere Lesbarkeit, Seitenzahl, Stempel und Dateizuordnung und liefere eine tatsächlich vorhandene Versandmappe mit getrenntem Prüfvermerk. Eine ersetzte Anlage führt zur erneuten Prüfung aller Verweise und zur Entfernung der überholten Kopie aus der neuen Versandmappe; Original und Vorfassung bleiben erhalten. Vorbereitung ist kein Versandauftrag.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

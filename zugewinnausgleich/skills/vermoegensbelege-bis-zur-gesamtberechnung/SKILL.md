@@ -1,9 +1,23 @@
 ---
 name: vermoegensbelege-bis-zur-gesamtberechnung
-description: Berechnet den Zugewinnausgleich beider Ehegatten aus vorhandenen Vermögensbelegen und Stichtagen einschließlich Schulden, privilegierter Erwerbe und streitiger Bewegungen bis zum beauftragten Dokument.
+description: "Zugewinnausgleich von den Belegen zur nachvollziehbaren Gesamtberechnung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Vermögensbelege bis zur Gesamtberechnung
+# Zugewinnausgleich von den Belegen zur nachvollziehbaren Gesamtberechnung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Eheschließung, Güterstand, Trennung, Zustellung und Vermögensbelege auslesen; Anfangs-, Trennungs- und Endvermögen mit eigenen Stichtagen erfassen.
+
+2. Jede Position nach Eigentum, Wert, Verbindlichkeit und privilegiertem Erwerb zuordnen; fehlende Werte als offen führen. Negatives Trennungsvermögen verlangt dieselbe nachvollziehbare Aufschlüsselung wie positives.
+
+3. Bei Unternehmen, Nießbrauch, gemeinsamer Schuld oder Lebensversicherung den passenden Fachweg laden; Unternehmerlohn, latente Steuer und tatsächliche Zuordnung prüfen, ohne Werte doppelt anzusetzen.
+
+4. Gesamtberechnung mit Indexierung, Zwischensummen und Belegpfad erstellen; Auskunftsverlangen, Antrag oder Vergleich im selben Ergebnis ausformulieren und strittige Bewertungsalternativen getrennt zeigen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -62,6 +76,16 @@ Liefere eine nachrechenbare Vermögensrechnung und das beauftragte Endprodukt in
 ## 6. Beispiele
 
 Reines Rechenbeispiel mit bereits indexierten Größen: Ehegatte eins hat Anfangsvermögen von minus 20.000 EUR und Endvermögen von 80.000 EUR, Ehegatte zwei 30.000 EUR und 70.000 EUR. Die Zugewinne betragen 100.000 EUR und 40.000 EUR; Ehegatte zwei erhält vorbehaltlich weiterer Einwendungen 30.000 EUR. Die Begrenzung auf 80.000 EUR greift nicht. Fehlt ein Darlehensbeleg, wird keine endgültige Forderung behauptet; nach Vorlage wird auch der Ergebnisbrief korrigiert.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1): Erfüllende Trennungsauskunft, Titel und Annahme bestimmen Beweislast bei niedrigerem Endvermögen. **Grenze:** Kein Automatismus aus beliebiger Kontoliste und keine Feststellung jeder Minderung als illoyal.
+
+- [BGH, Urteil vom 09.02.2011, XII ZR 40/09, Randnummern 16 bis 37 und 52 bis 58](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2009/XII_ZR__40-09.pdf?__blob=publicationFile&v=1): Praxiswert mit individuellem Unternehmerlohn, latenten Steuern und Abgrenzung zum Unterhalt; Gesamtschuld samt durchsetzbarem Innenausgleich. **Grenze:** Keine Umsatz- oder Steuerpauschale; konkrete Methode, Personeneinsatz und anderweitige Schuldabrede prüfen.
+
+- [BGH, Beschluss vom 06.05.2015, XII ZB 306/14, Randnummern 21 bis 27](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2014/XII_ZB_306-14.pdf?__blob=publicationFile&v=1): Bei privilegierter Übertragung altersbedingtes Abschmelzen und marktbedingtes Steigen der Nießbrauchslast unterschiedlich rechnen. **Grenze:** Kein pauschaler Wegfall jeder Last; bei Wertanstieg beide Stichtagslasten ohne zusätzlichen negativen gleitenden Erwerb.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

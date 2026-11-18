@@ -1,9 +1,9 @@
 ---
 name: insolvenzsachbearbeitung-steuern
-description: "Steuert zehn Fachrouten der Insolvenzsachbearbeitung als fortlaufenden Aktenworkflow. Liest zuerst die Unterlagen, bündelt entscheidende Rückfragen, führt Produkte und Belegstand fort und sichert die konkrete Freigabe vor jeder Außenhandlung."
+description: "Insolvenzakte über Masse und Tabelle zum fertigen Verfahrensschritt führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert fertiges Schreiben, Tabellenprüfvermerk oder Bericht mit stimmiger Kassen-/Bestandsrechnung und terminiertem Folgeschritt."
 ---
 
-# Insolvenzsachbearbeitung vom Auftrag zum Arbeitsprodukt steuern
+# Insolvenzakte über Masse und Tabelle zum fertigen Verfahrensschritt führen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -46,6 +46,19 @@ Freigabestand: [Entwurf, fachlich freigegeben, zur Außenhandlung freigegeben od
 ```
 
 ## 3. Ablauf und Checkliste
+
+**Aktenstart.** Lies Bestellungsbeschluss, konkrete Ermächtigungen, Termine, Kassenlage, Vermögens- und Forderungslisten; ordne jede Aufgabe dem Verfahrensstadium zu. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Trenne Sicherung, Besitz, Verwertung und rechtliche Befugnis. Bei vorläufiger Verwaltung entsteht nicht aus jeder Bestellung eine allgemeine Masseverbindlichkeit; fremde Gegenstände und Sicherungsrechte gesondert erfassen.
+
+**Gezielte Vertiefung.** Bei Forderungseingang individualisieren und prüfen; bei Masseengpass Ausgabenpriorität und Anzeige; bei natürlicher Person Restschuldbefreiung und Kostenstundung separat. Formuliere den tatsächlichen gerichtlichen oder außergerichtlichen Schritt, nicht nur einen Aktenlauf. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere fertiges Schreiben, Tabellenprüfvermerk oder Bericht mit stimmiger Kassen-/Bestandsrechnung und terminiertem Folgeschritt. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1 Gespräch mit Aktenlektüre eröffnen
 
@@ -109,7 +122,7 @@ Bei mehreren möglichen Schuldnerpersonen, Verfahren oder Forderungen nehmen Sie
 
 Bei einer nicht aufgehenden Rechnung stoppen Sie nur die betroffene Freigabe. Zeigen Sie Originalsumme, nachgerechnete Summe, Differenz und die Positionen, die die Differenz erklären oder noch ungeklärt lassen. Nullsetzen ist keine Fehlerbehandlung. Bei fehlendem gerichtlichem Protokoll bleibt der gerichtliche Tabellenstand offen; der interne Prüfvorschlag wird nicht als Ersatz eingetragen.
 
-Bei fehlendem Zugriff auf den amtlichen Norm- oder Entscheidungsvolltext kennzeichnen Sie die tragende Rechtsaussage als unverifiziert. Nutzen Sie keine passende klingende Fundstelle aus Modellwissen. Bearbeiten Sie Tatsachen, Rechnung und bedingte Bewertung weiter. Bei fehlender Befugnis oder Freigabe erstellen Sie die vollständige interne Vorlage und benennen genau, wer welche Handlung noch freigeben muss.
+Bei fehlendem Zugriff auf den amtlichen Norm- oder Entscheidungsvolltext kennzeichnen Sie die tragende Rechtsaussage als unverifiziert. Nutzen Sie keine passend klingende Fundstelle aus Modellwissen. Bearbeiten Sie Tatsachen, Rechnung und bedingte Bewertung weiter. Bei fehlender Befugnis oder Freigabe erstellen Sie die vollständige interne Vorlage und benennen genau, wer welche Handlung noch freigeben muss.
 
 ### 3.8 Fachrouten bedarfsgerecht verbinden
 
@@ -164,6 +177,38 @@ Geeigneter Sprechgang: Der Skill trennt beide Verfahren, liest Eröffnungsbeschl
 ### 6.4 Unlesbare Anlage und akute Frist
 
 Ist Seite 4 einer Anmeldung unlesbar und endet am selben Tag eine gerichtliche Frist, sichert der Skill zuerst die belegbare Frist mit Auslöser und Verantwortlichkeit, erstellt den übrigen Vermerk und weist genau Seite 4 als Hindernis aus. Er erfindet den dort vermuteten Betrag nicht und verwirft nicht die gesamte Akte. Der Statusblock nennt den Ersatzscan als nächsten Beitrag und den bereits fertiggestellten Teil als führende Fassung.
+
+
+
+### 6.5. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BGH, Urteil vom 18.07.2002 – IX ZR 195/01, gedruckte Seiten 8 bis 9 und 19 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1). **Anwendung:** § 55 Absatz 2 knüpft grundsätzlich an starke vorläufige Verwaltung an. Eine schwache Verwaltung benötigt bestimmte, nach Art und Umfang erkennbare Einzelermächtigungen; eine pauschale Ermächtigung, für den Schuldner zu handeln, genügt nicht. **Grenze:** Jede vom schwachen Verwalter gebilligte Bestellung sei Masse. Die historische Absatznummer des § 108 darf nicht übernommen werden; die heutigen Absätze 3 und 4 des § 55 sind zusätzlich anzuwenden.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+2. [BGH, Urteil vom 24.01.2019 – IX ZR 110/17, Rn. 19 bis 40](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_110-17A.pdf?__blob=publicationFile&v=1). **Anwendung:** Antrag und Bestellung eines Verwalters mit Zustimmungsvorbehalt lassen Einziehungs-/Veräußerungsermächtigungen nicht automatisch entfallen. Widerruf und Sicherungsinteressen sind konkret zu prüfen. Rn. 32 bis 34 verneinen eine aus § 21 Absatz 2 Satz 1 Nummer 5 abgeleitete gerichtliche Ermächtigung zur Verarbeitung oder Veräußerung fremden Eigentums. Rn. 39 bis 40 verlangen Wahrung der Sicherungsrechte und eine geeignete Erlöszuordnung. **Grenze:** Eine Fortführung rechtfertige jede Veräußerung oder die Verwendung fremder Erlöse auf allgemeinen Geschäftskonten. **Dateifalle:** Die PDF-Datei ohne das Suffix `A` enthält einen Streitwertbeschluss, nicht dieses Urteil.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+3. [BGH, Urteil vom 25.06.2020 – IX ZR 47/19, Rn. 10 bis 12 und 15 bis 23 sowie amtlicher Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1). **Anwendung:** § 174 Absatz 2 verlangt einen bestimmten Lebenssachverhalt, keine bereits schlüssige und vollständig belegte Darlegung. Rn. 23 beschreibt das Bestreitens- und Kostenrisiko unzureichender Belege. Für eine Prozessaufnahme sind wirksame Anmeldung und Prüfung erforderlich. Nachträgliche Individualisierung wirkt nicht zurück. **Grenze:** Unbelegte Forderungen seien materiell berechtigt oder müssten festgestellt werden. Auch die gegenteilige pauschale Zurückweisung wegen jeder fehlenden Anlage wird nicht getragen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+4. [BGH, Beschluss vom 21.03.2024 – IX ZB 56/22, Rn. 22 bis 32 und 39 bis 43](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZB__56-22.pdf?__blob=publicationFile&v=1). **Anwendung:** Ein bloßes Deliktskästchen ersetzt keine Tatsachenangabe. Rn. 31 konkretisiert die Individualisierung bei Unterhaltspflichtverletzungen. Die entsprechende Anwendung von § 184 Absatz 2 auf einen isolierten Deliktsgrundwiderspruch setzt nach Rn. 22 voraus, dass Forderung und Deliktsgrund tituliert sind. Bei einem zusätzlichen deliktischen Anspruch aus anderem Streitgegenstand kann der Schuldnerwiderspruch die zusätzliche Forderung insgesamt erfassen. **Grenze:** Jeder Unterhaltstitel enthalte bereits einen titulierten Deliktsgrund. Die nicht fristgebundene Feststellungsklage nach § 184 Absatz 1 beseitigt nicht mögliche materiellrechtliche Verjährung. Der Fall betrifft eine natürliche Person und darf nicht als automatischer §-302-Mechanismus einer GmbH verwendet werden.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+5. [BGH, Beschluss vom 13.11.2025 – IX ZB 21/25, Rn. 7 bis 17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__21-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Eine ausgenommene Forderung verhindert nicht automatisch die Stundung. Es ist zu prüfen, ob ein wirtschaftlicher Neubeginn ernsthaft erreichbar erscheint; die tatsächlichen Verhältnisse und rechtlichen Möglichkeiten zählen. Eine feste Prozentgrenze darf nicht allein ausschlaggebend sein. Der Schuldner trägt die Feststellungslast für die ernsthaften Aussichten. **Grenze:** Jede Restschuld sei unschädlich oder Stundung müsse ungeprüft bewilligt werden. Gegenstand war eine Wertersatzeinziehung; die Entscheidung ist kein pauschaler Erlass ausgenommener Forderungen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+#### 6.5.1. Beweis und Abschluss
+
+Unterscheide das Insolvenzverfahren mit § 5 InsO, die Glaubhaftmachung eines Gläubigerantrags nach § 14 InsO und einen streitigen Zivilprozess. Der Anfechtungskläger muss die anspruchsbegründenden Tatsachen darlegen und beweisen; sekundäre Darlegungslast oder Beweisvereitelung verlangen besondere Voraussetzungen. Ein außenstehender Empfänger muss fehlende Schuldnerbuchhaltung nicht generell ersetzen. Bei Organhaftung, Tabellenfeststellung und Planbestätigung gelten jeweils eigene Nachweisregeln. Rechnung, Indizienwürdigung und offene Datenlücke bleiben getrennt.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

@@ -3,6 +3,7 @@
 from __future__ import annotations
 import argparse
 import copy
+from contextlib import contextmanager
 from datetime import date, datetime
 from email import policy
 from email.parser import BytesParser
@@ -12,6 +13,8 @@ import importlib.util
 import json
 from pathlib import Path
 import re
+import shutil
+import tempfile
 import unittest
 from unittest.mock import patch
 from urllib.parse import unquote
@@ -88,6 +91,36 @@ def case_items(case):
     return {item['name']: item for item in case['files']}
 
 
+@contextmanager
+def historical_component_fixture(source_root=ROOT):
+    """Den erhaltenen Komponentenstand prüfen, ohne heutige Produktpins umzudeuten."""
+    original_scope = json.loads((source_root/COMPONENT_SCOPE).read_text())
+    with tempfile.TemporaryDirectory(prefix='anfechtung-komponentenstand-') as folder:
+        root = Path(folder)
+        (root/'.claude-plugin').mkdir()
+        (root/'scripts').mkdir()
+        (root/NAME).mkdir()
+        market = {
+            'version': COMPONENT_VERSION,
+            'plugins': [{'name': NAME, 'version': COMPONENT_VERSION, 'source': f'./{NAME}'}],
+        }
+        (root/'.claude-plugin/marketplace.json').write_text(json.dumps(market))
+        pins = {'schema_version': 1, 'assets': {
+            f'{NAME}.zip': COMPONENT_TAG,
+            f'{NAME}-portable.zip': COMPONENT_TAG,
+        }}
+        (root/'scripts/scoped-release-assets.json').write_text(json.dumps(pins))
+        for filename in original_scope['plugins'][0]['prompts']:
+            shutil.copyfile(source_root/NAME/filename, root/NAME/filename)
+        for asset in original_scope['additional_assets']:
+            for field in ('source', 'evidence'):
+                relative = asset[field]
+                target = root/relative
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(source_root/relative, target)
+        yield root
+
+
 def validate_component_scope(scope, root=ROOT):
     """Fester Komponentenstand; spätere Qualitätsrunden sind kein Identitätsbeleg."""
     if scope.get('version') != COMPONENT_VERSION or scope.get('tag') != COMPONENT_TAG:
@@ -99,9 +132,11 @@ def validate_component_scope(scope, root=ROOT):
                         for ext in ('md', 'txt')}
     if plugins[0].get('variants') != ['native', 'portable'] or set(plugins[0].get('prompts', [])) != expected_prompts:
         raise ValueError('Native und portable Variante sowie sechs Promptdateien erforderlich')
-    # Die etablierte Scopeprüfung kontrolliert exakte Pins, Marketplace-Version,
-    # vollständige Prompts und das verpflichtende, hashgebundene Werkstattpaar.
-    entries = module('build-skill-quality-release.py').validate_scope(scope, root)
+    # Die echte Scopeprüfung kontrolliert exakte historische Pins, Version,
+    # vollständige Prompts und das hashgebundene Werkstattpaar in einer isolierten
+    # Fixture. Die heutigen Produktrouten dürfen inzwischen weitergezogen sein.
+    with historical_component_fixture(root) as fixture:
+        entries = module('build-skill-quality-release.py').validate_scope(scope, fixture)
     evidence = json.loads((root/'quality/insolvenzanfechtung/tatbestandswerkstaetten-2026-11-15/umfang.json').read_text())
     if evidence.get('version') != COMPONENT_VERSION or evidence.get('module_count') != 10:
         raise ValueError('Version oder Werkstattumfang passt nicht zum erhaltenen Nachweis')
@@ -281,7 +316,7 @@ class AnfechtungTest(unittest.TestCase):
             validate_plugin_version(entries[0], market['version'], root=ROOT)
             version = entries[0]['version']
             if name == NAME:
-                if version != '1.1.0':
+                if version == COMPONENT_VERSION:
                     scope = json.loads((ROOT/COMPONENT_SCOPE).read_text())
                     self.assertEqual(version, validate_component_scope(scope))
             for relative in (('plugin.json', '.claude-plugin/plugin.json', '.codex-plugin/plugin.json') if name == NAME else ('.claude-plugin/plugin.json',)):
@@ -300,6 +335,47 @@ class AnfechtungTest(unittest.TestCase):
 
         with patch.object(Path, 'read_text', independent_read):
             self.test_manifests_and_marketplace_agree()
+            scope = json.loads((ROOT/COMPONENT_SCOPE).read_text())
+            self.assertEqual(validate_component_scope(scope), COMPONENT_VERSION)
+
+    def test_historical_scope_does_not_read_current_product_routes_or_versions(self):
+        forbidden = {
+            (ROOT/'scripts/scoped-release-assets.json').resolve(),
+            (ROOT/'.claude-plugin/marketplace.json').resolve(),
+            (ROOT/'scripts/data/skill-quality-release-scope.json').resolve(),
+        }
+        read_text = Path.read_text
+
+        def historical_read(path, *args, **kwargs):
+            if path.resolve() in forbidden:
+                raise AssertionError('Historischer Komponentenstand liest aktuelle Produktrouten')
+            return read_text(path, *args, **kwargs)
+
+        scope = json.loads((ROOT/COMPONENT_SCOPE).read_text())
+        with patch.object(Path, 'read_text', historical_read):
+            self.assertEqual(validate_component_scope(scope), COMPONENT_VERSION)
+
+    def test_historical_fixture_still_checks_exact_routes_and_marketplace_version(self):
+        scope = json.loads((ROOT/COMPONENT_SCOPE).read_text())
+        builder = module('build-skill-quality-release.py')
+        for mutation in ('missing-pin', 'wrong-tag', 'wrong-version'):
+            with self.subTest(mutation=mutation), historical_component_fixture() as fixture:
+                self.assertEqual(builder.validate_scope(scope, fixture)[NAME]['version'], COMPONENT_VERSION)
+                if mutation == 'wrong-version':
+                    path = fixture/'.claude-plugin/marketplace.json'
+                    market = json.loads(path.read_text())
+                    market['version'] = market['plugins'][0]['version'] = '445.36.8'
+                    path.write_text(json.dumps(market))
+                else:
+                    path = fixture/'scripts/scoped-release-assets.json'
+                    pins = json.loads(path.read_text())
+                    if mutation == 'missing-pin':
+                        del pins['assets'][f'{NAME}-portable.zip']
+                    else:
+                        pins['assets'][f'{NAME}.zip'] = 'qualitaetsrunde-v445.36.8'
+                    path.write_text(json.dumps(pins))
+                with self.assertRaises(ValueError):
+                    builder.validate_scope(scope, fixture)
 
     def test_component_scope_rejects_wrong_identity_incomplete_assets_and_bad_hash(self):
         valid = json.loads((ROOT/COMPONENT_SCOPE).read_text())

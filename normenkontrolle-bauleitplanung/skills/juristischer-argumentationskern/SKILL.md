@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Normenkontrolle Bauleitplanung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Bauleitplan bis zum zulässigen Normenkontrollantrag oder zur Verteidigung prüfen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Normenkontrolle Bauleitplanung
+# Bauleitplan bis zum zulässigen Normenkontrollantrag oder zur Verteidigung prüfen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Gleiche Planzeichnung, Planbegründung, Verfahrensakte und konkrete Betroffenhei
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Normenkontrolle Bauleitplanung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Planfassung, Bekanntmachung, Begründung, Beteiligungsakte und betroffene Grundstücksposition auswerten; ursprünglichen Plan, Änderung und ergänzendes Verfahren auseinanderhalten.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Zulässigkeit nach § 47 VwGO einschließlich Antragsbefugnis und Jahresfrist getrennt von der Fehlerbeachtlichkeit nach §§ 214, 215 BauGB prüfen. Eine Planänderung vermittelt nicht automatisch Betroffenheit durch alle alten Festsetzungen.
+
+3. Nur bei konkretem Fehler Fachwege zu Umweltprüfung, Abwägung, Festsetzung, Beteiligung oder städtebaulichem Vertrag öffnen. Alte §-13b-Rechtsprechung nach damaligem Regime und aktuellen Übergangs- oder Heilungsmöglichkeiten einordnen.
+
+4. Normenkontrollantrag, Erwiderung oder Heilungsvermerk vollständig schreiben; Fehler, Rüge, Beleg und Rechtsfolge verbinden und für Eilrechtsschutz die besonderen Voraussetzungen gesondert darlegen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -57,36 +56,34 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 4.4. BauGB Paragraf 9: textliche und zeichnerische Festsetzungen des Bebauungsplans.
 4.5. BauGB Paragraf 11: städtebaulicher Vertrag mit Kausalität, Angemessenheit und Schriftform.
 4.6. BauGB Paragraf 12: vorhabenbezogener Bebauungsplan und Durchführungsvertrag.
+4.7. VwGO Paragraf 47: Antragsbefugnis, Jahresfrist und eigenständiger Eilrechtsschutz; BauGB Paragrafen 214, 215: Beachtlichkeit, Rüge und ergänzendes Verfahren getrennt prüfen.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. BVerwG, Urteil vom 25.11.2005 - 4 C 15.04: Kostenübernahme in städtebaulichen Verträgen braucht zurechenbaren städtebaulichen Bezug und darf nicht nicht delegierbare Gemeindeaufgaben verlagern.
-5.2. BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
-5.3. BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Nach der damals geltenden Fassung des BauGB war Paragraf 124 die Spezialregelung für Erschließungsverträge; für heutige Verträge sind BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1 und der nun anders geregelte Paragraf 124 zugrunde zu legen.
-5.4. BVerwG, Urteil vom 25.01.2021 - 9 C 1.19: Der Durchführungsvertrag nach BauGB Paragraf 12 bezieht sich auf die Einzelerschließung und Durchführung eines Vorhabens.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BVerwG, Urteil vom 20. Januar 2021, 4 CN 7.19, Rn. 25](https://ssl.bverwg.de/200121U4CN7.19.0): Eigene Gründe gelesen: Rüge braucht konkret substantiierten Sachverhalt, Auslegung im Aktenkontext kann Fachamtsstellungnahmen erfassen. **Grenze:** Keine pauschale Fehlererhaltung und keine materielle Planunwirksamkeit allein durch wirksame Rüge; damalige Beteiligungsfassung gesondert vom heutigen Paragraf 3.
+
+- [BVerwG, Urteil vom 18. Juli 2023, 4 CN 3.22, Rn. 8 bis 21](https://www.bverwg.de/180723U4CN3.22.0): Amtlicher Volltext gelesen: pauschale Befreiung von Umweltprüfung im früheren Paragraf 13b unionsrechtswidrig; rechtzeitig gerügter Umweltprüfungs- und Berichtsfehler führte dort zur Gesamtunwirksamkeit. **Grenze:** Kein allgemeines Verbot des Paragrafen 13a; spätere Fehlerbehebung und geltende Planerhaltung gesondert prüfen.
+
+- [BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25](https://www.bverwg.de/280726B4BN36.25.0): Beim Änderungsbebauungsplan entscheiden dessen eigene Festsetzungen über unmittelbare Betroffenheit. Mittelbare Nachteile benötigen eigene abwägungserhebliche Belange. Lage im ursprünglichen Plangebiet und überobligatorische gemeindliche Einwendungsbehandlung begründen allein keine Antragsbefugnis. Leicht auswertbare Gutachten dürfen fehlende Betroffenheit bereits bei Zulässigkeit zeigen. **Grenze:** Erfolglose Nichtzulassungsbeschwerde, kein genereller Ausschluss von Plannachbarn und keine Entscheidung über die materielle Unwirksamkeit des Plans. Mündliche Verhandlung nach Artikel 6 EMRK gesondert; mögliche Abwägungsverletzung allein nicht stets ausreichend. Kein Vollbeweis der Rechtsverletzung auf Zulässigkeitsebene.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand.
+Ausgangspunkt: Im Normenkontrollverfahren gelten Amtsermittlung und die prozessualen Mitwirkungsanforderungen. Antragsteller müssen insbesondere eigene Betroffenheit und entscheidungserhebliche Rügen konkret darlegen; Gemeinde und Behördenakten liefern das Planungs- und Abwägungsmaterial. Materielle Beweislast und Fehlerbeachtlichkeit nach der jeweiligen Norm bestimmen, nicht aus dem Planerhonorarrecht übernehmen.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Welche Satzung, Festsetzung oder Vertragsklausel ist genau angegriffen.
-7.2. Welche Rechtsgrundlage trägt die Festsetzung oder Vertragsleistung.
-7.3. Ist die Festsetzung bestimmt, erforderlich und abgewogen.
-7.4. Ist die Vertragsleistung kausal, angemessen, schriftlich und nicht kopplungswidrig.
-7.5. Greifen Planerhaltungsregeln oder ist der Fehler beachtlich.
-7.6. Welcher Rechtsschutzweg passt: Normenkontrolle, Leistungsklage, Feststellung oder Planheilung.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 
@@ -120,7 +117,7 @@ Ausgangspunkt für dieses Plugin: Planer für Leistungsstand, Koordination und H
 11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
 11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-11.7. Ist das Ergebnis unmittelbar als Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung verwendbar?
+11.7. Ist das Ergebnis unmittelbar als Normenkontrollantrag, Antragserwiderung, Eilantrag, Planungs- oder Heilungsvermerk verwendbar?
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 12. Verständlich arbeiten und sichtbar prüfen

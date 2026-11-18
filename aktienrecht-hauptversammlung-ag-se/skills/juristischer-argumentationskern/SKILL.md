@@ -1,36 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Aktienrecht Hauptversammlung AG SE ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Hauptversammlung vorbereiten und Beschlussrisiken lösen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert Einladung, Beschlussvorlage, Leitfaden für die Versammlungsleitung oder Anfechtungsentwurf mit dem konkret verlangten Text und terminierter Vollzugsfolge."
 ---
 
-# Juristischer Argumentationskern - Aktienrecht Hauptversammlung AG SE
+# Hauptversammlung vorbereiten und Beschlussrisiken lösen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Gleiche Tagesordnung, Satzung, Einberufung und Stimmrechtsnachweise ab. Erstelle daraus den benötigten Beschlussentwurf, Ablaufplan oder Prüfvermerk für die Hauptversammlung.
+1.1. **Aktenstart.** Lies Satzung, Aktienregister oder Depotnachweise, Einberufung, Tagesordnung und die vorhandenen Beschlussvorschläge. Bestimme AG oder SE, Börsennotierung, Präsenz- oder virtuelle Versammlung und den konkreten Versammlungstag. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-Sichere Einberufung, Aktionärsrechte, Versammlungsleitung, Abstimmung, Niederschrift, Beschlussmängel und Vollzug als eine durchgehende Belegkette.
+1.2. **Entscheidende Weiche.** Berechne Einberufungs-, Ergänzungs- und Nachweisfristen aus der anwendbaren Fassung; prüfe Teilnahmelegitimation getrennt vom materiellen Aktienbesitz. Ordne jedem Tagesordnungspunkt Kompetenz, Mehrheit, Auskunftsbedarf und Niederschriftsform zu.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.3. **Gezielte Vertiefung.** Bei verweigerter Teilnahme bearbeite den Nachweis und das Zulassungsverlangen; bei Auskunfts- oder Redebeschränkung den konkreten Fragegegenstand und die Ermessensausübung. Bei Beschlussangriff prüfe Klagebefugnis, Widerspruch und Monatsfrist, statt die Versammlungsvorbereitung neu zu starten. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-## 2. Die tragende These
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Formuliere das Ergebnis für Aktienrecht Hauptversammlung AG SE in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: wirksame Einberufung, Teilnahme oder Stimmabgabe, belastbarer Beschluss, Nichtigkeit, Anfechtung, Freigabe oder Registervollzug.
+1.5. **Fertigstellen und fortschreiben.** Liefere Einladung, Beschlussvorlage, Leitfaden für die Versammlungsleitung oder Anfechtungsentwurf mit dem konkret verlangten Text und terminierter Vollzugsfolge. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+## 2. Bedingte Fachwege und materielle Prüfung
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
-
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -40,86 +29,62 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Beschluss und Dokumentation | Mehrheit, Stimmverbot, Abstimmungsfeststellung, notarielle Niederschrift, Veröffentlichung und Registeranmeldung verbinden |
 | Beschlussmängel und Output | Nichtigkeit, Anfechtbarkeit, Informationsmangel, Klagefrist, Freigabe und Bestätigung in den passenden Entwurf überführen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Anfechtungsklage 243 Aktg](../anfechtungsklage-243-aktg/FACHINHALT.md)
-3.1.2. [Auskunftsrecht 131 Aktg](../auskunftsrecht-131-aktg/FACHINHALT.md)
-3.1.3. [Nichtigkeitsklage 241 Aktg](../nichtigkeitsklage-241-aktg/FACHINHALT.md)
-3.1.4. [Aktionärsregister Namensaktien](../aktionaersregister-namensaktien-aktivistische/FACHINHALT.md)
+2.1.1. [Anfechtungsklage 243 Aktg](../anfechtungsklage-243-aktg/FACHINHALT.md)
+2.1.2. [Auskunftsrecht 131 Aktg](../auskunftsrecht-131-aktg/FACHINHALT.md)
+2.1.3. [Nichtigkeitsklage 241 Aktg](../nichtigkeitsklage-241-aktg/FACHINHALT.md)
+2.1.4. [Aktionärsregister Namensaktien](../aktionaersregister-namensaktien-aktivistische/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. AktG Paragraf 118 und Paragraf 118a: Präsenzversammlung, elektronische Teilnahme und virtuelle Hauptversammlung.
-4.2. AktG Paragraf 121 bis Paragraf 125: Zuständigkeit, Einberufung, Fristen, Nachweisstichtag und Mitteilungen.
-4.3. AktG Paragraf 126 und Paragraf 127: Gegenanträge und Wahlvorschläge.
-4.4. AktG Paragraf 129 und Paragraf 130: Teilnehmerverzeichnis und notarielle Niederschrift.
-4.5. AktG Paragraf 131: Auskunftsrecht, Auskunftsverweigerung sowie Frage- und Rederecht.
-4.6. AktG Paragraf 133 und Paragraf 134: Mehrheit, Stimmrecht und Legitimationsprüfung.
-4.7. AktG Paragraf 241 bis Paragraf 246a: Nichtigkeit, Anfechtung, Klagefrist und Freigabeverfahren.
-4.8. SE-VO Artikel 52 bis Artikel 60 und SEAG: Zuständigkeit und Beschlussfassung der Hauptversammlung einer SE.
+AktG §§ 118, 118a, 121–123: Format, Einberufung und Teilnahme; §§ 124–127: Tagesordnung und Gegenanträge; §§ 130–132: Niederschrift und Auskunft; §§ 241–246: Beschlussmängel und Klagefrist. Bei SE zusätzlich SE-VO, SEAG und Organisationsmodell prüfen.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung als Entscheidungshilfe
 
-## 5. Rechtsprechung und Quellenstatus
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.1. BGH, Urteil vom 25.03.2025 - II ZR 208/22: Bei einer nicht börsennotierten AG mit Inhaberaktien besteht für den satzungsmäßigen Nachweis der Teilnahme- und Stimmberechtigung ein weiter Gestaltungsspielraum; die Vermutung des AktG Paragraf 123 Absatz 4 Satz 5 gilt nicht für abweichende Satzungsnachweise.
-5.2. BGH, Urteil vom 30.06.2015 - II ZR 142/14: Das Einberufungsorgan kann die Versammlung grundsätzlich absagen, aber nicht mehr, wenn erschienene Aktionäre nach dem angekündigten Beginn im Versammlungsraum zusammengekommen sind.
-5.3. BGH, Urteil vom 08.02.2010 - II ZR 94/08: Eine Satzung darf angemessene Zeitrahmen für Rede- und Fragerecht vorsehen; der Versammlungsleiter muss die konkrete Beschränkung sachgerecht, verhältnismäßig und gleichbehandelnd ausüben.
+1. [BGH, Urteil vom 25.03.2025 - II ZR 208/22, Rn. 18, 26, 30 bis 36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_208-22.pdf?__blob=publicationFile&v=1). **Anwendung:** Bei nicht börsennotierter AG mit satzungsmäßiger Öffnungsklausel für gleichwertige Nachweise Zuverlässigkeit einer anwaltlichen Verwahrbescheinigung und Zulassung zur Hauptversammlung prüfen. **Grenze:** Kein allgemeiner Eigentumsnachweis und keine Übertragung der gesetzlichen Nachweisfiktion auf jede Satzung; Präsenzsachverhalt aus 2020, keine Entscheidung über heutige virtuelle Versammlungsrechte.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-## 6. Beweislast und Gegenangriff
+2. [BGH, Urteil vom 08.02.2010 – II ZR 94/08](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2010-2&Gericht=bgh&file=dokument.pdf&linked=urt&nr=51361). **Anwendung:** Satzungsmäßige Ermächtigung und angemessenen Zeitrahmen für Rede- und Fragerecht im Leitfaden abbilden; konkrete Einschränkung pflichtgemäß und gleichbehandelnd begründen. **Grenze:** Die Satzung beseitigt nicht die Einzelfallprüfung. Präsenzfall; Besonderheiten heutiger virtueller Hauptversammlungen gesondert prüfen.
 
-Ausgangspunkt für dieses Plugin: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; der Anfechtungskläger bezeichnet den konkreten Gesetzes- oder Satzungsverstoß, seine Anfechtungsbefugnis, den rechtzeitigen Widerspruch und die Klagefrist.
+   **Quellenstatus:** Am 18.11.2026 amtlichen Leitsatz im Suchindex gelesen; direkter PDF-Abruf 403. Keine heutige vollständige Gründeprüfung.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+3. [BGH, Urteil vom 30.06.2015 – II ZR 142/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=72472&pos=0&anz=1&Blank=1.pdf). **Anwendung:** Bei Absage feststellen, welches Organ einberufen hat und ob erschienene Aktionäre nach dem angekündigten Beginn bereits im Versammlungsraum zusammengetreten sind. **Grenze:** Grundsätzliche Absagekompetenz endet in der beschriebenen Präsenzsituation; keine pauschale Übertragung auf den technischen Ablauf einer virtuellen Versammlung.
 
-## 7. Prüffolge
+   **Quellenstatus:** Am 18.11.2026 amtlichen Leitsatz im Suchindex gelesen; direkter PDF-Abruf nicht verfügbar. Keine heutige vollständige Gründeprüfung.
 
-7.1. Welche AG-, SE-, Börsen- und Versammlungsform bestimmt Satzung, Fristen und Aktionärsrechte.
-7.2. Sind Einberufungsbeschluss, Bekanntmachung, Tagesordnung und Nachweisregime vollständig und rechtzeitig.
-7.3. Welche Aktionärsfrage, Auskunftsverweigerung, Ordnungsmaßnahme oder technische Störung kann einen Beschlussmangel tragen.
-7.4. Sind Teilnahme, Abstimmung, Feststellung, Widerspruch und notarielle Niederschrift beweissicher dokumentiert.
-7.5. Welcher Beschluss-, Register- oder Prozessschritt ist nach der Versammlung noch fristgebunden.
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-## 8. Juristisches Schreiben
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: HV-Fristenblatt, Einberufungs- und Tagesordnungscheck, Q&A-Katalog, Beschlussvorschlag, Leitfaden für den Versammlungsleiter, Abstimmungs- und Widerspruchsprotokoll, Beschlussrisikomatrix oder Klageentwurf.
+4.1.1. BGH, Urteil vom 25.03.2025 - II ZR 208/22: Bei einer nicht börsennotierten AG mit Inhaberaktien besteht für den satzungsmäßigen Nachweis der Teilnahme- und Stimmberechtigung ein weiter Gestaltungsspielraum; die Vermutung des AktG Paragraf 123 Absatz 4 Satz 5 gilt nicht für abweichende Satzungsnachweise.
+4.1.2. BGH, Urteil vom 30.06.2015 - II ZR 142/14: Das Einberufungsorgan kann die Versammlung grundsätzlich absagen, aber nicht mehr, wenn erschienene Aktionäre nach dem angekündigten Beginn im Versammlungsraum zusammengekommen sind.
+4.1.3. BGH, Urteil vom 08.02.2010 - II ZR 94/08: Eine Satzung darf angemessene Zeitrahmen für Rede- und Fragerecht vorsehen; der Versammlungsleiter muss die konkrete Beschränkung sachgerecht, verhältnismäßig und gleichbehandelnd ausüben.
 
-## 9. Ausgabemodi
+4.1.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+## 5. Beweis, Gegenposition und Fristen
 
-## 10. Qualitätskontrolle
+Bestimme die Darlegungs- und Beweislast je Anspruch und Merkmal. Bei Organhaftung sind Schaden und haftungsauslösender Zusammenhang von der Gesellschaft darzulegen; die organbezogene Sorgfalts-/Entlastungslast nach § 93 Abs. 2 AktG beziehungsweise den Regeln zu § 43 GmbHG darf nicht durch einen pauschalen Satz ersetzt werden. Die Business Judgment Rule betrifft unternehmerische Entscheidungen, nicht die Freiheit zur Missachtung zwingenden Rechts. Mitgliedschaft, Beschlussmangel und Treuepflichtanspruch benötigen jeweils eigene Belege; Register- oder Listeneintrag allein beweist nicht jeden materiellen Vorgang.
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Einberufungsunterlage, Versammlungsleitfaden, Beschluss, Niederschrift, Anfechtungsprüfung oder Registervollzug verwendbar?
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere Einladung, Beschlussvorlage, Leitfaden für die Versammlungsleitung oder Anfechtungsentwurf mit dem konkret verlangten Text und terminierter Vollzugsfolge. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

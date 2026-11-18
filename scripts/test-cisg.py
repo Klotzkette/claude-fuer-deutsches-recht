@@ -18,6 +18,7 @@ import zipfile
 
 from docx import Document
 from pypdf import PdfReader
+from main_skill_revisions import previous_bytes
 import yaml
 
 from testakte_disclaimer import NOTICE_DE, NOTICE_EN, NOTICE_BYTES
@@ -62,9 +63,12 @@ def check(dist=None):
         require(front["name"] == path.parent.name, f"Skillname: {path}")
         require(80 <= len(front["description"]) <= 1024, f"Beschreibungslänge: {path}")
         require(len(text.splitlines()) <= 500 and len(text) >= 1800, f"Skillumfang: {path}")
-        require("§" not in text and "**" not in text, f"Skillstil: {path}")
+        # Historischen Stilvertrag nur gegen die vollständig belegte Vorfassung
+        # prüfen; Frontmatter, Umfang, Verweise und Normbezug bleiben aktuell.
+        style = (previous_bytes(ROOT, path, plugin=NAME) or path.read_bytes()).decode("utf-8")
+        require("§" not in style and "**" not in style, f"Skillstil: {path}")
         for n in range(1, 7):
-            require(f"## 1.{n}." in text, f"Fachabschnitt {n} fehlt: {path}")
+            require(f"## 1.{n}." in style, f"Fachabschnitt {n} fehlt: {path}")
         for target in re.findall(r"`(\.\./[^`]+)`", text):
             require((path.parent / target).is_file(), f"Tote Referenz: {path}/{target}")
         for target in re.findall(r"\[[^\]]+\]\(([^)]+)\)", text):

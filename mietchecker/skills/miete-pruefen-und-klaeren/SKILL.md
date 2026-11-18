@@ -1,8 +1,22 @@
 ---
 name: miete-pruefen-und-klaeren
-description: Führt Mieter und Vermieter vom vorhandenen Mietvertrag zum nachvollziehbaren Mietvergleich und passenden Klärungsschreiben. Unterscheidet Anfangsmiete, laufende Miete und Sondermodelle, ohne Streit oder eine automatische Mietänderung auszulösen.
+description: "Mietpreisfrage vom Vertrag zur nachvollziehbaren Berechnung und Erklärung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
-# 1. Miethöhe prüfen und sachlich klären
+# Mietpreisfrage vom Vertrag zur nachvollziehbaren Berechnung und Erklärung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Mietvertrag, Erhöhungsschreiben, tatsächliche Wohnfläche, Ausstattung, Vormiete und Zugang auswerten; Neuvermietung, Vergleichsmietenerhöhung und Modernisierung unterscheiden.
+
+2. Die richtige Preisregel und örtliche Grundlage bestimmen. Tatsächliche Fläche, anrechenbare Ausstattung, Kappung und gesetzliche Ausnahme getrennt prüfen; unwirksame Vormiete nicht als zulässige Ausgangsmiete fortschreiben.
+
+3. Nur den einschlägigen Fachweg zu Mietspiegel, Mietpreisbremse, Modernisierung oder Rückforderung öffnen; Rechenannahmen und Ausstattungsbelege mitführen.
+
+4. Zustimmung, Teilzustimmung, Rüge oder Erstattungsverlangen vollständig mit Betrag und Fristen schreiben; jede Tabellenzahl muss auf Vertrag, Messung oder belastbarer Vergleichsgrundlage beruhen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -34,6 +48,16 @@ Liefere das beauftragte Endprodukt in vollständigen, ausformulierten Sätzen, n
 ## 6. Beispiel
 
 Ein Vermieter fragt, ob 620 Euro zu niedrig seien. Ermittle die Vergleichsmiete und erkläre einen etwaigen Anpassungsweg, ohne die bisherige Miete für rechtswidrig oder eine Erhöhung für zwingend zu erklären.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 18.11.2015, VIII ZR 266/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015&Gericht=bgh&file=dokument.pdf&linked=urt&nr=73174): Tatsächliche Fläche und weiter bestehende Kappungsgrenze. **Grenze:** Keine automatische Mietminderung.
+
+- [BGH, Urteil vom 24.10.2018, VIII ZR 52/18](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2018-10&Gericht=bgh&Seite=2&anz=276&nr=89384&pos=73): Mieterseits finanzierte Küche von Vermieterausstattung trennen. **Grenze:** Eigentum und Erstattung belegen.
+
+- [BGH, Urteil vom 18.11.2020, VIII ZR 123/20](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=12&anz=3286&nr=112910&pos=370): Tabellen und Orientierungshilfe unterscheiden. **Grenze:** Keine allgemeine Übertragung Berliner Methodik.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

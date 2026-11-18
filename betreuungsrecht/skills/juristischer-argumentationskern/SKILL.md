@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Betreuungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Betreuungsfall vom konkreten Bedarf zum begründeten Antrag führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Betreuungsrecht
+# Betreuungsfall vom konkreten Bedarf zum begründeten Antrag führen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Lies Betreuungsbeschluss, Belege und gerichtliche Anfragen. Grenze Aufgabenkreis
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Betreuungsrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Beschluss, Vollmacht, ärztliche Angaben und Wünsche der betroffenen Person aus vorhandener Akte erfassen; Aufgabenkreis, Erforderlichkeit und mildere Unterstützung bestimmen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Betreuerbestellung, Einwilligungsvorbehalt, Genehmigung und Geschäftsfähigkeit getrennt prüfen. Eigene Anhörung, Verfahrenspfleger und Beteiligung dürfen nicht allein wegen anwaltlicher Vertretung entfallen.
+
+3. Je nach Entscheidung Fachweg zu Vermögenssorge, Gesundheit, Unterbringung oder Betreuungsauswahl laden; konkrete Gefahr und Unterstützungsbedarf belegen, familiären Wunsch ohne pauschalen Vorrang würdigen.
+
+4. Antrag, Stellungnahme oder gerichtlichen Entwurf auf den erforderlichen Umfang begrenzen und vollständig formulieren; eilbedürftige Maßnahme von der Hauptsache und ihren Verfahrensgarantien trennen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,15 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
-5.2. BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Bei der Betreuerauswahl ist der besondere Schutz enger Familienbindungen zu berücksichtigen; fehlende Eignung eines Angehörigen muss für den konkreten Aufgabenkreis tragfähig festgestellt und gegen unterstützende Hilfen oder eine Mitbetreuung abgewogen werden.
-5.3. BGH, Beschluss vom 09.04.2025 - XII ZB 235/24: Auch bei unbekanntem Aufenthalt kann ein konkreter Betreuungsbedarf bestehen, wenn rechtliche Entscheidungen die Lage des Betroffenen positiv beeinflussen können.
-5.4. BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BVerfG, Beschluss vom 31.03.2021, 1 BvR 413/20, Randnummern 20, 23, 34 bis 35](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rk20210331_1bvr041320.html): Bei Ablehnung oder Entlassung eines gewünschten Angehörigen konkrete Eignung, familiäre Bindung und unterstützende Alternativen prüfen. **Grenze:** Kein absoluter Angehörigenvorrang; Entscheidung zu altem Betreuungsrecht, Übertragung nur mit aktuellen Paragrafen 1816, 1817 und 1868 BGB.
+
+- [BGH, Beschluss vom 29.07.2026, XII ZB 171/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2026/XII_ZB_171-26.pdf?__blob=publicationFile&v=1): Beschränkten Beschwerdegegenstand und fortbestehende Beteiligung des bestellten Verfahrenspflegers prüfen; anwaltliche Vertretung beendet Bestellung nicht automatisch. **Grenze:** Zurückverweisung zur Betreuerauswahl, keine automatische Aufhebung der gesamten Betreuung.
+
+- [EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 31–42, 45–47, 52](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE): Trägt: Nicht autorisierte Altbelastungen zeitnah der Bank anzeigen, Aufgabenkreis und tatsächliche Zustimmung prüfen und Erstattung in Excel mit Ursprungsausgabe verbinden; keine Doppelzählung oder automatische Geschäftsunfähigkeit aus Betreuung ableiten. **Grenze:** Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -79,13 +78,11 @@ Ausgangspunkt für dieses Plugin: Gericht ermittelt von Amts wegen; Betreuer und
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Welche konkrete Angelegenheit kann der Betroffene krankheitsbedingt nicht selbst besorgen.
-7.2. Welche Unterstützung oder Vollmacht macht eine Betreuung ganz oder teilweise entbehrlich.
-7.3. Welcher aktuelle Wunsch ist feststellbar und wie wird er dokumentiert.
-7.4. Welche Maßnahme benötigt eine gerichtliche Genehmigung oder besondere Verfahrenssicherung.
-7.5. Welche Belege und Berichte fehlen für eine kontrollierbare Entscheidung.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

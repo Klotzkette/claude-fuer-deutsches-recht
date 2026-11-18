@@ -1,6 +1,6 @@
 # Verhalten gegenüber Vorgesetzten, Kollegen und Kunden
 
-Die Bewertungsüberschriften ordnen redaktionelle Beispiele. Außerhalb etablierter Zufriedenheitsformeln sind sie keine festen Schulnoten; mögliche Risikolesarten sind Prüfhinweise, keine festgestellten Vorwürfe. Nutze diese Detailreferenz nur für den konkreten Arbeitsschritt. Quellenstatus und Grenzen älterer Anker stehen in der [Rechtsprüfung](../../../references/rechtsstand.md); für Zitate gilt die [Zitierweise](../../../../references/zitierweise.md).
+Die Bewertungsüberschriften ordnen redaktionelle Beispiele. Außerhalb etablierter Zufriedenheitsformeln sind sie keine festen Schulnoten; mögliche Risikolesarten sind Prüfhinweise, keine festgestellten Vorwürfe. Nutze diese Detailreferenz nur für den konkreten Arbeitsschritt. Quellenstatus und Grenzen älterer Anker stehen in der [Rechtsprüfung](../../../references/rechtsstand.md); für Zitate gilt die [Zitierweise](../../../references/zitierweise.md).
 
 ## 1. Ziel
 

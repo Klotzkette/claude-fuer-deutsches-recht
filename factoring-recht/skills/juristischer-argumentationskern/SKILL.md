@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Factoring Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Factoringgeschäft von der Forderungskette zur belastbaren Abrechnung prüfen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Factoring Recht
+# Factoringgeschäft von der Forderungskette zur belastbaren Abrechnung prüfen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Gleiche Abtretung, Debitorenkonto, Einwendungen und Zahlungen ab. Begründe den 
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Factoring Recht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Factoringvertrag, Abtretungen, Rechnungen, Debitorenanzeigen und Zahlungsflüsse erfassen; echtes und unechtes Factoring sowie offene und stille Abtretung unterscheiden.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Forderungsbestand, Abtretbarkeit, Priorität und Einwendungen des Debitors vor Rückgriff und Gebühren prüfen. Kaufpreiszahlung des Factors nicht ohne Weiteres als Erfüllung der Schuldnerforderung behandeln.
+
+3. Bei Globalzession, Sicherheitenkonflikt, Rückbelastung oder Insolvenz den Fachweg zum konkreten Risiko laden; Rechtsgrund jeder Zahlung und betroffene Vermögensmasse separat bestimmen.
+
+4. Forderungs- und Zahlungsabgleich mit nachvollziehbarem Saldo erstellen; Zahlungsaufforderung, Rückgriffserklärung oder Vertragskorrektur vollständig begründen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,13 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11: Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen.
-5.2. BGH, Urteil vom 04.05.2011 - VIII ZR 171/10: Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.3. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.4. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Urteil vom 08.05.2014, IX ZR 128/12, Rn. 10–18](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR_128-12.pdf?__blob=publicationFile&v=1): Beim echten Factoring erfüllt der Factor mit dem Forderungskaufpreis seine eigene Kaufpreisschuld. Einfacher Eigentumsvorbehalt und gesonderte Eigentumsübertragung sind anhand der Abreden zu prüfen. **Grenze:** Keine Gleichsetzung jeder Factorzahlung mit Schuldnerleistung und kein allgemeiner Vorrang des Factors; verlängerten Eigentumsvorbehalt und Sicherungsrechte gesondert behandeln.
+
+- [BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1): Ein einseitiges Zahlungsziel auf einer Rechnung begründet regelmäßig keinen Kalenderverzug; bei Verbrauchern fehlt ohne besonderen Hinweis auch die Wirkung nach Paragraf 286 Absatz 3 BGB. Erst verzugsbegründende Anwaltskosten sind nicht bereits Verzugsschaden. **Grenze:** Eine Rechnung kann eine eindeutige Mahnung enthalten; vereinbartes oder wirksam nach Paragraf 315 BGB bestimmtes Zahlungsziel bleibt gesondert zu prüfen.
+
+- [BGH, Urteil vom 01.10.2020, IX ZR 247/19, Rn. 10–12 und 39–43](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_247-19.pdf?__blob=publicationFile&v=1): Irrtümliche Zahlung auf vermeintliche entgeltliche Schuld im Zweipersonenverhältnis ist bei durchsetzbarem Bereicherungsausgleich nicht schon unentgeltlich; Kondiktionssperren gesondert prüfen. Verjährungsverzicht auslegen. **Grenze:** Genussrechtsfall, keine universelle Regel für Mehrpersonenverhältnisse oder AnfG; Reichweite nicht formularmäßigen Verzichts bleibt Auslegungsfrage.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -77,13 +78,11 @@ Ausgangspunkt für dieses Plugin: Gläubiger für Vertrag, Fälligkeit, Verzug u
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Welche Forderung ist aus welchem Vertrag fällig.
-7.2. Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
-7.3. Welche Einwendungen sind substantiiert und beweisbar.
-7.4. Welche Nebenforderungen sind rechnerisch und rechtlich haltbar.
-7.5. Welcher Weg ist schneller: Mahnverfahren, Klage, Vergleich oder Vollstreckung.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

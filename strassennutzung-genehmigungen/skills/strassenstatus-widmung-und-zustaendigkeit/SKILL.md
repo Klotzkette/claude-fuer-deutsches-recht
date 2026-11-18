@@ -1,45 +1,67 @@
 ---
 name: strassenstatus-widmung-und-zustaendigkeit
-description: Klärt bei Streit über öffentliche Straßen zuerst Widmung, tatsächliche Verkehrsöffnung, Straßenklasse und Zuständigkeit und erstellt daraus den passenden Vermerk oder eine gezielte Behördenanfrage.
+description: "Straßennutzung bis zur abgestimmten Genehmigung oder Abhilfe führen. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# 1. Straßenstatus, Widmung und Zuständigkeit
+# Straßennutzung bis zur abgestimmten Genehmigung oder Abhilfe führen
 
-## 1. Zweck und Anwendungsfall
+## 1. Aus der vorhandenen Akte beginnen
 
-Bearbeite unklaren Straßenstatus und behördliche Zuständigkeit für Zufahrt, Straßennutzung oder Sperrung. Ein privat gehörender Vorplatz kann tatsächlich öffentlicher Verkehrsraum sein, ohne straßenrechtlich gewidmet zu sein. Ein Straßenname oder kommunales Eigentum beweist umgekehrt keine bestimmte Widmung. Keine Werbeschilderprüfung und keine OWi-Verteidigung.
+1.1. Erstelle das bestellte Ergebnis: vollständiger Nutzungs-/Ausnahmeantrag, Behördenantwort oder Rechtsbehelf mit genauer Fläche, Dauer und Nutzungsweise. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: Widmung, Eigentum, Verkehrsöffnung, Straßenklasse, Nutzung, Lageplan, Bescheid und tatsächliche Behinderung. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-## 2. Eingaben
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-Lies zuerst vorhandene Lagepläne, Widmungsunterlagen, Verkehrszeichenanordnungen, Bescheide und Korrespondenz. Entnimm Auftrag, Rolle, Ort, Bundesland, betroffene Fläche und Frist daraus. Frage nur nach entscheidenden Lücken, etwa dem konkreten Straßenabschnitt oder der fehlenden Widmungsanlage; beginne keine erneute Mandatsaufnahme.
+## 2. Den Fall in die richtige Fachroute führen
 
-## 3. Ablauf / Checkliste
+2.1. Straßenrechtlichen Gemeingebrauch/Sondernutzung vom Straßenverkehrsrecht unterscheiden. Privates Eigentum schließt tatsächlichen öffentlichen Verkehrsraum nicht aus; Widmung und Verkehrsöffnung sind verschiedene Befunde.
 
-### 3.1. Fläche und Rechtsregime bestimmen
+2.2. Für Bauzaun, Container, Poller, Lieferzufahrt und Schulstraße erforderliche Sondernutzung, Ausnahme und Verkehrsanordnung aufeinander abstimmen. Konzentrationswirkung nur bei einschlägiger gesetzlicher Voraussetzung annehmen.
 
-Trenne Grundstückseigentum, Widmung mit Beschränkungen, tatsächliche Verkehrsöffnung und konkrete Verkehrsregelung. Prüfe Straßenverzeichnis und Widmungsakt einschließlich späterer Einziehung oder Teileinziehung. Ordne Fahrbahn, Gehweg, Seitenstreifen und privaten Zugang anhand der Unterlagen zu. Behandle fehlende Unterlagen nicht als Beweis fehlender Widmung.
+2.3. Eigene Nutzungshandlung von fremdem Parken unterscheiden; ein Ladengeschäft haftet nicht automatisch für jeden Kunden. Anliegerzugang schützt keine unveränderliche günstige Verkehrsanbindung.
 
-### 3.2. Zuständigkeit aus der Aufgabe ableiten
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-Prüfe Bundesfernstraßenrecht oder das Straßenrecht des betreffenden Landes, Straßenklasse und Ortsdurchfahrt. Unterscheide Straßenbaulastträger, Straßenbaubehörde, Straßenverkehrsbehörde und Ordnungsbehörde. Die für Paragraf 45 StVO zuständige Stelle ist nicht allein deshalb Eigentümerin oder für die Pollerwartung zuständig. Prüfe Paragraf 44 StVO, die landesrechtliche Zuständigkeitsregelung sowie bei Sondernutzungen die Konzentrationsnorm. In NRW sind insbesondere Paragrafen 14, 14a, 18 und 21 StrWG NRW, in Niedersachsen Paragrafen 14, 18 bis 20 NStrG einschlägige Einstiegspunkte, keine austauschbaren Normketten.
+## 3. Nur die benötigte Vertiefung öffnen
 
-### 3.3. Zum Auftrag weiterarbeiten
+Wähle anhand der vollständigen vorhandenen Fachrouten (einschließlich Sonderfristen und besonderen Rechtswegen) den passenden Ablauf. Lies dafür die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-Fertige den verlangten Vermerk oder eine konkret adressierbare Anfrage nach Widmung, Anordnung und Zuständigkeitsgrundlage. Benenne genau die benötigten Anlagen und den Bezug zum Nutzungsziel. Ist der Status geklärt, setze unmittelbar bei Zufahrt, Sondernutzung oder Rechtsschutz fort; ein bloßes Weiterverweisen ersetzt keinen bestellten Entwurf. Neue Unterlagen ändern nur die betroffenen Feststellungen. Versende nichts ohne Auftrag.
+3.1. [1. Sondernutzung und Ausnahme abstimmen](../sondernutzung-und-ausnahme-abstimmen/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 4. Quellenpflicht
+3.2. [1. Anliegergebrauch und Lieferzufahrt sichern](../anliegergebrauch-und-lieferzufahrt-sichern/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Nutze die lokale [Zitierweise](../../references/zitierweise.md) und das [Quellenregister](../../references/strassenrecht-quellen.md), insbesondere Abschnitt 1.1 bis 1.3. Prüfe Bundes-, Landes- und Kommunalrecht am maßgeblichen Stichtag. Die Verwaltungsvorschrift zu Paragraf 1 StVO, Randnummer 2, hilft bei der tatsächlichen Verkehrsöffentlichkeit; sie ersetzt keinen Widmungsnachweis. Erfinde für die fiktive Stadt Eichenstedt kein Ortsrecht.
+3.3. [1. Poller, Sperren und Schlüsselzugang prüfen](../poller-sperren-und-schluesselzugang-pruefen/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 5. Ausgabeformat
+3.4. [1. Anträge, Rechtsbehelfe und Eilrechtsschutz](../antraege-rechtsbehelfe-und-eilrechtsschutz/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Liefere das beauftragte Ergebnis in vollständigen, ausformulierten Sätzen: eine begründete Statusbewertung oder ein verwendbares Anforderungsschreiben, nicht nur eine Zuständigkeitsmatrix. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Kennzeichne eine entscheidende Statusunsicherheit und ihre konkrete Folge. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei reiner Textausgabe steht der Exporthinweis getrennt vom Empfängertext.
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-## 6. Beispiele
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
 
-Ein Laden liegt an einem privaten, allgemein befahrbaren Vorplatz. Kläre die tatsächliche Verkehrsöffnung und verlange den Widmungsbeleg, statt automatisch eine Sondernutzung nach Landesstraßenrecht anzunehmen.
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
 
-Für eine Zufahrt in Münster verweist das Ordnungsamt auf die Straßenverwaltung. Bestimme die beantragte Entscheidung und die Konzentrationsregel, statt beide Stellen ohne Aufgabenabgrenzung als gleich zuständig zu behandeln.
+4.1. [BVerwG, Urteil vom 6. Juni 2024, 3 C 5.23, Rn. 39–63](https://ssl.bverwg.de/060624U3C5.23.0): Eigene erhebliche Gehwegbeeinträchtigung begründet begrenzten Bescheidungsanspruch. Grenze: Keine feste Restbreite, kein automatisches Abschleppen im Stadtgebiet.
+
+4.2. [BVerwG, Urteile vom 11. Dezember 2014, 3 C 6.13 und 3 C 7.13, Rn. 13–30](https://ssl.bverwg.de/111214U3C6.13.0): Bauzaun als mögliches Hindernis und Konzentration bei objektiv erforderlicher Verkehrsausnahme. Grenze: Landesrechtliche Zuständigkeit und fortbestehende Gebühren; nicht jede Sondernutzung ist Hindernis.
+
+4.3. [BVerwG, Beschluss vom 25. Juli 2019, 9 B 8.19, Rn. 3–5](https://www.bverwg.de/de/250719B9B8.19.0): Unterscheidung eigener Containerbedienung im Straßenraum von beliebigen Fremdparkern. Grenze: Nichtzulassungsbeschluss zu hessischem Recht, keine bundesweite Ladeninhaberhaftung.
+
+4.4. [BVerwG, Beschluss vom 30. Juni 2014, 9 B 6.14, Rn. 13](https://www.bverwg.de/300614B9B6.14.0): Günstige Verkehrsanbindung nicht unveränderlich; Anliegerbelange abwägungsrelevant. Grenze: Planfeststellungskontext, keine feste Transportdistanz oder automatische Ausnahme.
+
+4.5. [VG Minden, Beschluss vom 24. September 2021, 2 L 450/21, Rn. 13–20, 33–48, 71–80 und 101–103](https://nrwe.justiz.nrw.de/ovgs/vg_minden/j2021/2_L_450_21_Beschluss_20210924.html): Regelnde Poller, befristeter Versuch und behördliche Vollzugsfolgenbeseitigung. Grenze: Historische StVO-Fassung, Eilverfahren und keine private Abbaubefugnis.
+
+## 5. Lücken schließen und denselben Entwurf fortschreiben
+
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
+
+5.2. Fortsetzungsszenario: Der Lageplan verschiebt den Container auf Privatgrund: verbleibende Verkehrsbehinderung, Genehmigungsbedarf und Antrag im selben Dokument berichtigen. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
+
+## 6. Vollständig formuliertes Ergebnis übergeben
+
+6.1. Das Endprodukt ist: vollständiger Nutzungs-/Ausnahmeantrag, Behördenantwort oder Rechtsbehelf mit genauer Fläche, Dauer und Nutzungsweise. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
+
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
+
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

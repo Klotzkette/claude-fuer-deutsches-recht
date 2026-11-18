@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in NIS2 Cybersecurity Compliance ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Cyberpflichten vom Unternehmen bis zum belastbaren Vorfallplan bearbeiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - NIS2 Cybersecurity Compliance
+# Cyberpflichten vom Unternehmen bis zum belastbaren Vorfallplan bearbeiten
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Ordne Einrichtung, betroffenen Dienst und den tatsächlichen Sicherheitsvorfall oder Kontrollbedarf. Begründe die nächsten technischen und organisatorischen Schritte samt belegter Meldeentscheidung.
+Erfasse Dienste, Tätigkeiten, Unternehmensgrößen, Standorte, Verantwortlichkeiten und konkrete Sicherheitslage aus den vorhandenen Unterlagen.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,28 +62,32 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07: Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-5.2. EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt belastbare Prüfung von Datentransfers und Schutzniveau.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.3. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.4. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. EuGH, Urteil vom 14. Dezember 2023, C-340/21, Natsionalna agentsia za prihodite, Randnummern 30 bis 47 und 57. Anwendung: Datenabfluss beweist nicht automatisch unzureichende Sicherheit; konkrete Maßnahmen und Umsetzung prüfen, Nachweislast des Verantwortlichen im Artikel-82-Verfahren beachten. Grenze: DSGVO-Urteil, keine unmittelbare Auslegung von BSIG-Sektoren oder NIS-2-Meldezeiten. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0340) — dokumentierter Prüfstand 2026-09-22.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welche Einrichtung und welcher Rechtsrahmen sind betroffen.
-7.2. Welche Maßnahme ist organisatorisch, technisch oder vertraglich geschuldet.
-7.3. Welche Frist läuft für Meldung, Kundeninformation oder Aufsicht.
-7.4. Welche Nachweise belegen Governance und Risikomanagement.
-7.5. Welche Lücke ist sicherheitskritisch und welche nur Dokumentationsmangel.
+7.1. Prüfe Anwendungsbereich und geltende nationale Umsetzung gesondert von DSGVO und Vertrag. Ordne Sicherheitsmaßnahme, Vorfall, Kenntniszeitpunkt und Meldepflicht dem richtigen Regime zu.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Erstelle den bestellten Pflichtenvermerk, Maßnahmenplan oder Meldungsentwurf mit konkret belegten Fakten, Verantwortlichen und Fristen.
+
+7.4. Ein neuer Vorfallbefund kann Meldebewertung und Schutzmaßnahme ändern; Datenabfluss allein beweist weder ausreichende noch unzureichende Organisation.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

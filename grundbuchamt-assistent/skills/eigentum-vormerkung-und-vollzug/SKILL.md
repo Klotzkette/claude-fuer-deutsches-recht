@@ -19,7 +19,7 @@ Gezielte Frage, nur soweit die Antwort fehlt: „Welcher Vertragsschritt ist sch
 
 
 
-Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](../../grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
+Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
 
 # 4. Quellenpflicht
 

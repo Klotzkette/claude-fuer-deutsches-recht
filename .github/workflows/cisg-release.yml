@@ -6,6 +6,8 @@ on:
       - 'un-kaufrecht-cisg/**'
       - 'testakten/cisg-*/**'
       - 'scripts/*cisg*'
+      - 'scripts/*classic-components-checkout.py'
+      - 'scripts/build-skill-quality-release.py'
       - 'scripts/data/cisg-akten.json'
       - 'quality/evals/un-kaufrecht-cisg.json'
       - '.github/workflows/cisg-release.yml'
@@ -47,6 +49,15 @@ jobs:
           python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-cisg.py
+      - name: Aktuellen Checkout ohne Veröffentlichungsanspruch prüfen
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/test-classic-components-checkout.py
+          python3 scripts/check-classic-components-checkout.py cisg --dist "$RUNNER_TEMP/cisg-dist"
+          python3 scripts/check-classic-components-checkout.py cisg --dist "$RUNNER_TEMP/cisg-dist" --verify
+      - name: Historischen Komponentenrelease bauen und prüfen
+        if: github.event_name == 'workflow_dispatch'
+        run: |
           python3 scripts/build-cisg-release.py --dist "$RUNNER_TEMP/cisg-dist"
           python3 scripts/test-cisg.py --dist "$RUNNER_TEMP/cisg-dist"
       - uses: actions/upload-artifact@v4

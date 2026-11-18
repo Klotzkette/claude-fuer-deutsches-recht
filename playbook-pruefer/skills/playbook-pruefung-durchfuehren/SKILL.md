@@ -1,9 +1,23 @@
 ---
 name: playbook-pruefung-durchfuehren
-description: "Hauptskill für die vollständige Prüfung eines Vertragsverbunds gegen ein Kanzlei- oder Unternehmensplaybook: bestimmt Versionen, bewertet jede Regel belegt, aggregiert Risiken und liefert Bericht sowie beauftragte Änderungen."
+description: "Playbookprüfung bis zur begründeten Vertrags- und Ausnahmefassung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Vertrag vollständig am Playbook prüfen
+# Playbookprüfung bis zur begründeten Vertrags- und Ausnahmefassung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Vertrag, verbindliche Playbookversion, Verhandlungshistorie und gewünschte Risikotoleranz zusammenlesen; vorhandene Ausnahmeentscheidungen übernehmen.
+
+2. Jede Abweichung als Rechtsproblem, Geschäftspräferenz oder redaktionellen Unterschied einordnen. Interne rote Linie ist keine gesetzliche Unwirksamkeit und rechtliche Zulässigkeit keine interne Freigabe.
+
+3. Bei Geheimhaltung, Freistellung, Arbeitszeit, Vergütung oder Haftung nur den einschlägigen Fachweg laden; den tatsächlich vereinbarten Vertragstyp und zwingendes Recht als Maßstab verwenden.
+
+4. Begründete Redline und verlangte Verhandlungsantwort vollständig schreiben; zulässige Alternative, Restrisiko und tatsächlich noch benötigte Entscheidung im selben Arbeitsprodukt darstellen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -39,6 +53,16 @@ Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollst�
 ## 6. Beispiele
 
 „Prüfen Sie dieses NDA und seine Anlage gegen unser freigegebenes Playbook und geben Sie mir einen Wordbericht sowie zulässige Ersatzklauseln.“ Bearbeite den eindeutigen Verbund vollständig, stelle nur verbleibende entscheidende Fragen und liefere das bestellte Dokument. Bei „Vergleichen Sie Fassung 2 und 3“ bleiben beide Fassungen getrennt nachvollziehbar.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BAG, Urteil vom 17.10.2024 – 8 AZR 172/23, Rn. 24–27 und 31–40](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/): Tatsächliche angemessene Geheimhaltungsmaßnahmen und nachvertragliche Catch-all-Klausel getrennt prüfen. **Grenze:** Arbeitsvertragliche AGB-Aussage nicht pauschal auf sämtliche beiderseitigen B2B-NDAs übertragen.
+
+- [BAG, Urteil vom 25.03.2026 – 5 AZR 108/25, Rn. 25–34](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-108-25/): Pauschale Freistellung nach jeder Kündigung in ARB-04 am tatsächlich einschlägigen Fall von 2026 prüfen. **Grenze:** Konkrete überwiegende Arbeitgeberinteressen bleiben eigenständig zu prüfen; kein Verbot jeder Freistellung.
+
+- [EuGH, Urteil vom 14.05.2019 – C-55/18, Rn. 60–63 und 71](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=ecli:ECLI:EU:C:2019:402): Arbeitszeiterfassung erfasst die tägliche Zeit objektiv, verlässlich und zugänglich. **Grenze:** Keine Entscheidung über den konkreten deutschen Überstundenvergütungsanspruch.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

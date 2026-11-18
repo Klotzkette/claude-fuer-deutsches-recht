@@ -17,6 +17,7 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 import yaml
 from quality_lab import validate_profile
+from release_routing import validate_plugin_version
 from testakte_disclaimer import NOTICE_BYTES
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -145,10 +146,11 @@ class SachbearbeitungTest(unittest.TestCase):
 
     def test_manifests_and_marketplace_agree(self):
         market = json.loads((ROOT/'.claude-plugin/marketplace.json').read_text())
-        for name, version in ((NAME, '1.1.0'), (PARENT, '445.35.5')):
+        for name in (NAME, PARENT):
             entries = [p for p in market['plugins'] if p['name'] == name]
             self.assertEqual(len(entries), 1)
-            self.assertEqual(entries[0]['version'], version)
+            validate_plugin_version(entries[0], market['version'], root=ROOT)
+            version = entries[0]['version']
             for relative in (('plugin.json', '.claude-plugin/plugin.json', '.codex-plugin/plugin.json') if name == NAME else ('.claude-plugin/plugin.json',)):
                 manifest = json.loads((ROOT/name/relative).read_text())
                 self.assertEqual((manifest['name'], manifest['version']), (name, version))

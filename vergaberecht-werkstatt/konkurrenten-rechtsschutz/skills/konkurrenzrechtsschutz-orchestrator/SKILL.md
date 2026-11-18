@@ -1,13 +1,27 @@
 ---
 name: konkurrenzrechtsschutz-orchestrator
-description: 'Primärer Kaltstart ohne Skillwahl für jeden Konkurrentenfall mit Aktenordner, ZIP, Informationsschreiben oder Portalbeleg. Immer zuerst einsetzen, wenn der Angriff noch nicht eng abgegrenzt ist. Sichert Rüge- und Zuschlagsfristen, ordnet Tatsachenkern, Beweiskette, Akteneinsicht und Antrag und routet danach zu höchstens drei Fachskills.'
+description: "Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Konkurrenzrechtsschutz Orchestrator
+# Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen
 
 **Arbeitsname:** Neuer Konkurrentenfall automatisch vorbereiten, stärksten Angriff finden und Rechtsschutzpfad starten.
 
 <!-- BEGIN output-format-block (autogen) -->
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Bekanntmachung, eigene Angebotsunterlagen, Mitteilungen und Zugangsdaten auswerten; eigene Betroffenheit, erreichbaren Zuschlag und Verfahrensstand sichern.
+
+2. Fehler nach Kenntnis, Erkennbarkeit und konkreter Benachteiligung ordnen; Rügeobliegenheit und Nachprüfungsfristen nicht durch allgemeine Fairnessargumente ersetzen.
+
+3. Bei Geheimhaltung, Eignung oder Wertung den passenden Fachweg öffnen. Konkurrentenunterlagen nicht pauschal offenlegen lassen, sondern entscheidungserheblichen nichtvertraulichen Kern und effektive Überprüfung verlangen.
+
+4. Rüge, Nachprüfungsantrag oder Beschwerde mit präzisem Abhilfeziel, Tatsachen und Beweisantritt ausformulieren; drohenden Zuschlag und Eilrechtsschutz im selben Ergebnis behandeln.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## Output-Format (verbindlich)
 
@@ -194,6 +208,16 @@ Fehlt eine Stufe, keine ausformulierte Behauptung erzeugen. Stattdessen die offe
 - Gibt es für jeden Angriff Beleg, Akteneinsichtsziel oder Beweis-Cluster?
 - Ist der Antrag eindeutig als Rüge, VK-Antrag, Eilantrag, Akteneinsicht, OLG oder Kostenmemo geroutet?
 - Ist die nächste Anlage, Freigabe oder Gerichtshandlung klar?
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/jcms/jcms/p1_3865069/fr/): Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative. **Grenze:** Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.
+
+- [EuGH, Urteil vom 12.02.2004 – C-230/02](https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=CELEX%3A62002CJ0230): Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28–29,37–40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; heutige Paragraf 160 Prüfung bleibt.
+
+- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an Paragraf 60 VgV abgeglichen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

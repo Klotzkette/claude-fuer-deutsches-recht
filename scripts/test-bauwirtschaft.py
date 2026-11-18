@@ -21,7 +21,9 @@ from akten_build_runtime import serif_font_path
 from bauwirtschaft_hoai import PHASEN, werkstatt_path
 from prompt_limits import MAX_WORKSHOP_BYTES
 from readme_decimal_headings import normalize_decimal_headings
-from quality_lab import load, marketplace, validate_profile
+from quality_lab import checked_visual_followup, load, marketplace, validate_profile
+from main_skill_revisions import historical_bytes
+from werkstatt_visualisierung import remove_block
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from testakte_zip_common import working_dump_archive_pairs, original_zip_preserves_directories, safe_archive_name, source_zip_includes_gesamt_pdf
 from themen_profile import EXACT_PROFILE_KEYS, profile_for
@@ -41,6 +43,18 @@ PROJECT_CASES = {
 }
 PHASE_CASES = {case for _, _, _, case, _ in PHASEN}
 CASES = PROJECT_CASES | PHASE_CASES
+PHASE_VISUAL_PROOF = ROOT / "quality/hauptskills-2026-11-18/bauwirtschaft-phasen-visualfortschreibung.json"
+PHASE_VISUAL_AUDIT = "quality/source-audits/2026-11-14/bauwirtschaft-visualisierung-nachpruefung.json"
+
+
+def checked_phase_visual(review, proof, audit, data):
+    """Alten Fachreview nur für den damals dokumentierten, identischen Haupttext nutzen."""
+    return (proof.get("path") == review.get("path") == audit.get("path")
+            and proof.get("previous_sha256") == review.get("sha256") == audit.get("current_sha256")
+            and proof.get("body_sha256") == audit.get("historical_text_sha256")
+            and hashlib.sha256(data[len(remove_block(data.decode("utf-8")).encode("utf-8")):]).hexdigest()
+                == proof.get("visual_block_sha256")
+            and checked_visual_followup(PLUGIN, {"path": review["path"], "reviewed_sha256": review["sha256"]}, proof, data))
 
 
 def script_module(name):
@@ -206,7 +220,8 @@ class BauwirtschaftTests(unittest.TestCase):
                          {path.resolve() for path in files})
         for entry in reviews:
             source = fachinhalt_path(ROOT / entry["skill_path"])
-            self.assertEqual(entry["sha256"], hashlib.sha256(source.read_bytes()).hexdigest())
+            reviewed = historical_bytes(ROOT, source, entry["sha256"], plugin=PLUGIN)
+            self.assertEqual(entry["sha256"], hashlib.sha256(reviewed).hexdigest())
             self.assertEqual(entry["runtime_status"], "not_run")
 
     def test_downloads_are_separate_visible_and_protected(self):
@@ -267,6 +282,15 @@ class BauwirtschaftTests(unittest.TestCase):
         profile = load(ROOT / "quality/evals/bauwirtschaft.json")
         reviews = profile["phase_workshop_reviews"]
         self.assertEqual([review["phase"] for review in reviews], list(range(1, 10)))
+        visual = json.loads(PHASE_VISUAL_PROOF.read_text())
+        self.assertEqual(visual["schema_version"], 1)
+        self.assertEqual(visual["previous_audit"], PHASE_VISUAL_AUDIT)
+        audit_bytes = (ROOT / PHASE_VISUAL_AUDIT).read_bytes()
+        self.assertEqual(hashlib.sha256(audit_bytes).hexdigest(), visual["previous_audit_sha256"])
+        audit_records = {row["path"]: row for row in json.loads(audit_bytes)["records"]}
+        self.assertEqual(len(visual["files"]), 9)
+        followups = {row["path"]: row for row in visual["files"]}
+        self.assertEqual(set(followups), {review["path"] for review in reviews})
         sources = []
         for phase, _, skill, case, _ in PHASEN:
             with self.subTest(phase=phase):
@@ -274,7 +298,8 @@ class BauwirtschaftTests(unittest.TestCase):
                 text = prompt.read_text()
                 review = reviews[phase - 1]
                 self.assertEqual(review["path"], werkstatt_path(phase))
-                self.assertEqual(review["sha256"], hashlib.sha256(prompt.read_bytes()).hexdigest())
+                self.assertTrue(checked_phase_visual(review, followups[review["path"]],
+                                                     audit_records[review["path"]], prompt.read_bytes()))
                 self.assertEqual(review["runtime_status"], "not_run")
                 self.assertGreaterEqual(len(text.encode()), 18_000)
                 self.assertLessEqual(len(text.encode()), MAX_WORKSHOP_BYTES)
@@ -304,6 +329,25 @@ class BauwirtschaftTests(unittest.TestCase):
         self.assertRegex(references, rf"\b{active_count} (?:aktive )?Skills\b")
         self.assertEqual(len(original_skill_sources(ROOT / PLUGIN)), 29)
         self.assertIn("bauwirtschaft-hoai-phasen.md", references)
+
+    def test_phase_visual_followup_rejects_changed_body_or_foreign_block(self):
+        proof = json.loads(PHASE_VISUAL_PROOF.read_text())["files"][0]
+        audit = next(row for row in json.loads((ROOT / PHASE_VISUAL_AUDIT).read_text())["records"]
+                     if row["path"] == proof["path"])
+        review = next(row for row in load(ROOT / "quality/evals/bauwirtschaft.json")["phase_workshop_reviews"]
+                      if row["path"] == proof["path"])
+        data = (ROOT / proof["path"]).read_bytes()
+        self.assertTrue(checked_phase_visual(review, proof, audit, data))
+        for modified in (b"Ungepruefter Haupttext\n" + data,
+                         data.replace(b"<!-- END werkstatt-visualisierung -->",
+                                      b"Ungepruefte Zusatzanweisung\n<!-- END werkstatt-visualisierung -->")):
+            with self.subTest(modified_hash=hashlib.sha256(modified).hexdigest()):
+                body = remove_block(modified.decode()).encode()
+                # Selbst erneuerte äußere Hashes dürfen Fachtext oder freie Blöcke nicht legitimieren.
+                refreshed = {**proof, "sha256": hashlib.sha256(modified).hexdigest(),
+                             "body_sha256": hashlib.sha256(body).hexdigest(),
+                             "visual_block_sha256": hashlib.sha256(modified[len(body):]).hexdigest()}
+                self.assertFalse(checked_phase_visual(review, refreshed, audit, modified))
 
     def test_installed_skills_do_not_depend_on_excluded_workshops(self):
         directory = ROOT / PLUGIN

@@ -8,7 +8,7 @@ Beginnen Sie mit einer konkreten Aufgabe und den zugehörigen Unterlagen. Verwen
 
 | Arbeitsmittel | Zugriff |
 | --- | --- |
-| Installierbares Plugin mit 14 Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.5/bauunternehmer-einkauf.zip) |
+| Installierbares Plugin mit 14 Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bauunternehmer-einkauf.zip) |
 | Mini-Prompt | [Schnellstart als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-schnellstart.md) |
 | Werkstatt-Prompt | [Werkstatt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md) |
 | Master-Prompt | [Master-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=testakten/megaprompts/bauunternehmer-einkauf.md) |

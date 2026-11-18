@@ -1,6 +1,6 @@
 # zugewinnausgleich
 
-**10 Skills** · Stand `v445.35.3`
+**10 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../zugewinnausgleich/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`zugewinnausgleich-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/zugewinnausgleich-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`zugewinnausgleich-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/zugewinnausgleich-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [zugewinnausgleich.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zugewinnausgleich.zip) |
+| **Plugin (installierbar)** | ZIP | [zugewinnausgleich.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/zugewinnausgleich.zip) |
 
 ## So benutzt man einen Skill
 
@@ -38,4 +38,4 @@ English: This index lists source skills, including specialist series accessed th
 | [`trennungsbewegungen-und-beweislast-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/trennungsbewegungen-und-beweislast-pruefen/SKILL.md) | Klärt Vermögensabflüsse zwischen Trennung und Endstichtag, prüft erfüllende Auskunft und Beweislastumkehr und beziffert begründete Hinzurechnungen oder Gegenargumente. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/trennungsbewegungen-und-beweislast-pruefen/SKILL.md) |
 | [`unternehmenswert-steuern-und-doppelverwertung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/unternehmenswert-steuern-und-doppelverwertung/SKILL.md) | Prüft Unternehmens- und Praxiswerte für den Zugewinnausgleich anhand von Erträgen, Unternehmerlohn, latenten Steuern und Unterhaltsabgrenzung und liefert konkrete Bewertungskorrekturen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/unternehmenswert-steuern-und-doppelverwertung/SKILL.md) |
 | [`varianten-und-vergleich-durchrechnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/varianten-und-vergleich-durchrechnen/SKILL.md) | Berechnet streitige Zugewinnvarianten mit Nullgrenze und Anspruchsbegrenzung, bewertet Vergleichszahlungen und entwickelt eine konkrete, formbewusste Einigung ohne Verfahrenszwang. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/varianten-und-vergleich-durchrechnen/SKILL.md) |
-| [`vermoegensbelege-bis-zur-gesamtberechnung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md) | Berechnet den Zugewinnausgleich beider Ehegatten aus vorhandenen Vermögensbelegen und Stichtagen einschließlich Schulden, privilegierter Erwerbe und streitiger Bewegungen bis zum beauftragten Dokument. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md) |
+| [`vermoegensbelege-bis-zur-gesamtberechnung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md) | Zugewinnausgleich von den Belegen zur nachvollziehbaren Gesamtberechnung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenp... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md) |

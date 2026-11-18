@@ -19,7 +19,7 @@ Gezielte Frage, nur soweit die Antwort fehlt: „Welche tatsächliche Unklarheit
 
 BGH, Beschl. v. 20.11.2025 - Az. V ZB 40/24. Bei öffentlich beurkundeter Verfügung können Personenstandsurkunden nicht namentlich genannte Abkömmlinge identifizieren. Das Fehlen weiterer Abkömmlinge kann durch einfache Erklärungen in der Form des § 29 Absatz 1 GBO nachgewiesen werden. Verbleibende konkrete tatsächliche Zweifel sind entscheidend. Grenze: Keine formlose E-Mail als Ersatz; keine automatische Erbscheinbefreiung bei konkreten Zweifeln oder privatschriftlichem Testament. Eine eidesstattliche Versicherung ist im Verfahren nach § 35 Absatz 1 GBO nicht das gesetzliche Nachweismittel.
 
-Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](../../grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
+Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
 
 # 4. Quellenpflicht
 

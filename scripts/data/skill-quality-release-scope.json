@@ -1,54 +1,4648 @@
 {
   "schema_version": 1,
-  "version": "445.36.7",
-  "tag": "qualitaetsrunde-v445.36.7",
+  "version": "445.36.8",
+  "tag": "qualitaetsrunde-v445.36.8",
+  "title": "312 Hauptskills: fachliche Workflows und eingeordnete Rechtsprechung",
+  "required_main_workflow_reviews": true,
   "plugins": [
+    {
+      "name": "agb-recht-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "agb-recht-pruefer-werkstatt.md": "586d49ff48c7fd84538954ec7a93d9c8d5e5393bef04a040eff2c5d1babc72ab",
+        "agb-recht-pruefer-schnellstart.md": "d9fafc89a0d3da2de135be76b20c3ba3b46c4a320db01ad9f1a8d7bcff723a6c"
+      }
+    },
+    {
+      "name": "agb-werkstatt",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "agb-werkstatt-werkstatt.md": "86217bdb951c1a15ac249f1cd96e7f887d77745f77d43a349a53a9e7c9878843",
+        "agb-werkstatt-schnellstart.md": "dc90d8cfaebf60d1fb64c04a5a0e754cd06a1e78cd725f078866ca62c3f5e7a2",
+        "agb-werkstatt-hauptproblem.md": "086b03889752a7dffbe8b277b7c18fa39d9331d52c8a2a04fcdf4fad716d6db6"
+      }
+    },
+    {
+      "name": "aktenaufbereiter-strafrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "aktenaufbereiter-strafrecht-werkstatt.md": "6a0c91a261f3f480cfe79deadff4cc56018fea7ee9f70cbed153f02bdfe147d6",
+        "aktenaufbereiter-strafrecht-schnellstart.md": "297ec2515efa6f175e36580779181fdb6ffebee2fb2ed5c2863e2e9a012d2b00"
+      }
+    },
+    {
+      "name": "aktenauszug-gerichtsverfahren",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "aktenauszug-gerichtsverfahren-werkstatt.md": "36d6d44b5e0270e8a85dff91915a69737d9dc00e78208dbdf772059bb6d211fc",
+        "aktenauszug-gerichtsverfahren-schnellstart.md": "5229f2516058a89e7f274b40478c65e3e5612b02fb07e752feed79192716cff5"
+      }
+    },
+    {
+      "name": "aktienrecht-hauptversammlung-ag-se",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "aktienrecht-hauptversammlung-ag-se-werkstatt.md": "7e2c7c875fdca0073ef8151d1d059015ee554331f04e885fd99c6d747d195ee8",
+        "aktienrecht-hauptversammlung-ag-se-schnellstart.md": "f724058644dac561fc5dd61fdfdfed1a0a1b0141733bc1cb251101edbee0f0f3"
+      }
+    },
+    {
+      "name": "anlagen-zu-schriftsaetzen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "anlagen-zu-schriftsaetzen-werkstatt.md": "86ce2acf50b1a5c96bd682ffda4da75ee8ea75c0c320d08f8364a7e2fa8ebe92",
+        "anlagen-zu-schriftsaetzen-schnellstart.md": "08a3cf76e957ccd00938f489157f70a7885495c5d49ab3a58c567b52c757226d"
+      }
+    },
+    {
+      "name": "antidiskriminierung-agg",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "antidiskriminierung-agg-werkstatt.md": "4e39e41d509cade6a4d56638f8da4535c5cbb28291718191a9136499102dbb21",
+        "antidiskriminierung-agg-schnellstart.md": "2c588f9591ab2afc6061ff09cb03d34f15b9a8f111fe4a26417825f375c2c407"
+      }
+    },
+    {
+      "name": "anwaltschaft-generell",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "anwaltschaft-generell-werkstatt.md": "82e7356533559ee10db064aae0e1d84315f88179c243041c04808f9decd6a37e",
+        "anwaltschaft-generell-schnellstart.md": "b6ff129f1eca3d05a53be288a2fe0a7f1cbf25304eec4179092e3bd667a9dbca",
+        "anwaltschaft-generell-hauptproblem.md": "695720408a58aec3c2626385201a2d3f7b8c41f2997c41a7a7c2b1e67d3056ee"
+      }
+    },
+    {
+      "name": "apothekenrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "apothekenrecht-werkstatt.md": "c1ce0ae8d889fb9bd8cf384e31b604fa176c5cd92020f8aea11eceddd3ac9b71",
+        "apothekenrecht-schnellstart.md": "6ea0e2601ae38842d5e41e80e89db3745410076bf752ab325fe6c22934dae458"
+      }
+    },
+    {
+      "name": "arbeitsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "arbeitsrecht-werkstatt.md": "51bebb42f107505fe7a9b12ad4920f1e1c51d66eac7495377e3cce3631dd4f54",
+        "arbeitsrecht-schnellstart.md": "3b1c0bb6b4a78447462a18582b98b9522113bb47687f2f72b14e981deb74f6de"
+      }
+    },
+    {
+      "name": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md": "5a73005f021d52de34d901dbba309297a8fc188baa15ee378842feae397a382d",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md": "df917cb9be9c8c4419e55e8c3c7fbbcdc58a4396051726ea31cea231539ba7f5",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md": "e0a8c1bcddf685904d86c0705fe092c0cb7b7efda80f86e9bcac5e5e4d2a6c1a"
+      }
+    },
+    {
+      "name": "arbeitszeugnisgenerator",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "arbeitszeugnisgenerator-werkstatt.md": "cc52f1a23717f719967ffd9a0e923b8a219dced6eec6e0abd7da8a4c2a2c1211",
+        "arbeitszeugnisgenerator-schnellstart.md": "ffcc7e601ace13034b390338df7d44c091c66fb7bc373b83714e06396a93e626"
+      }
+    },
+    {
+      "name": "arbeitszeugnispruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "arbeitszeugnispruefer-werkstatt.md": "413f900e0df980989165e83241ec98c12879475c9212fa9a3a901b8d06cce79a",
+        "arbeitszeugnispruefer-schnellstart.md": "624fa59204c00a730d6a5f333501bc9cdee7a5a7744df38e97d076adad486f9b"
+      }
+    },
+    {
+      "name": "aufsichtsrat-ag-se-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "aufsichtsrat-ag-se-praxis-werkstatt.md": "08179e06ec8ff31e2ec3c8be01c2df4722f10c742271b9b40cb4572232c20945",
+        "aufsichtsrat-ag-se-praxis-schnellstart.md": "f4480366caf8de3cc5a93a76ddcc7fd992bf9c5eea1d24e2b835192086f57c0c"
+      }
+    },
+    {
+      "name": "aussenwirtschaft-zoll-sanktionen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "aussenwirtschaft-zoll-sanktionen-werkstatt.md": "446d4ce42194841ec94473c726d117c5a07e2888daf6c61fa2efb6d1a9570574",
+        "aussenwirtschaft-zoll-sanktionen-schnellstart.md": "9728d461b006f5b2cf06951a54920bec57ebf238d6895cc677406b50e55daf15"
+      }
+    },
+    {
+      "name": "bank-rechtsabteilung",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bank-rechtsabteilung-werkstatt.md": "617564471d252a88659fac76dc33d5390342d82e81479e0c47744e240da72aab",
+        "bank-rechtsabteilung-schnellstart.md": "4f49e2cae0a13453c018e28aac0aeb80de41e49f7bfaa8c1f65cea77c09fccf1"
+      }
+    },
+    {
+      "name": "barrierefreiheit-web-checker",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "barrierefreiheit-web-checker-werkstatt.md": "6d97361357a48429fb920ff9811d1b09e32a038cfc5db0578ade340eca3a839d",
+        "barrierefreiheit-web-checker-schnellstart.md": "b71c8fb21c7c9f8f8e16bf10a23438d0f54f9b152d38dea5f735e1ff67f1b589"
+      }
+    },
+    {
+      "name": "bautraegervertrag-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bautraegervertrag-pruefer-werkstatt.md": "0d68465896891adf5ae290bc6a8f1347866e351121b78ec30db1205114574f96",
+        "bautraegervertrag-pruefer-schnellstart.md": "c41a347bab2451551625143ff736e7f254e64c00beba492ba0e28f048a1fdd27"
+      }
+    },
+    {
+      "name": "bauunternehmer-einkauf",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauunternehmer-einkauf-werkstatt.md": "f1e6bee8fdc7fb46c76aba5d01949cc0751a4bf592b808193da37ccbcb39a63e",
+        "bauunternehmer-einkauf-schnellstart.md": "950771b80791102240fcf622a7d76370e74b697a1688e8914a6df75f12fd3347"
+      }
+    },
+    {
+      "name": "bauvergabe-bieter",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauvergabe-bieter-werkstatt.md": "63f02ae54f487a034d41052de2d3f058e4443a872d96ed5ff39f014dd7e4e5d4",
+        "bauvergabe-bieter-werkstatt.txt": "63f02ae54f487a034d41052de2d3f058e4443a872d96ed5ff39f014dd7e4e5d4",
+        "bauvergabe-bieter-schnellstart.md": "8a251f3ea427235251c648365a972ece6a51a4befbb6c1138dd2c4c8d85f54c3",
+        "bauvergabe-bieter-schnellstart.txt": "8a251f3ea427235251c648365a972ece6a51a4befbb6c1138dd2c4c8d85f54c3"
+      }
+    },
+    {
+      "name": "bauvergabe-nachtragsmanagement",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauvergabe-nachtragsmanagement-werkstatt.md": "c108311524ca8fa63c30acde43deae2020798fe71b046e6a4ac0e9ee4c6b71f7",
+        "bauvergabe-nachtragsmanagement-werkstatt.txt": "c108311524ca8fa63c30acde43deae2020798fe71b046e6a4ac0e9ee4c6b71f7",
+        "bauvergabe-nachtragsmanagement-schnellstart.md": "ca9771a24357f483b62dfe189f59c1be89a277ca216be67811c61442df0988f6",
+        "bauvergabe-nachtragsmanagement-schnellstart.txt": "ca9771a24357f483b62dfe189f59c1be89a277ca216be67811c61442df0988f6"
+      }
+    },
+    {
+      "name": "bauvergabe-rechtsschutz",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauvergabe-rechtsschutz-werkstatt.md": "99a9580b116583bbf0c62d592f1c5a0ce5f50aa73ee2eb48c421611e8e6263c9",
+        "bauvergabe-rechtsschutz-werkstatt.txt": "99a9580b116583bbf0c62d592f1c5a0ce5f50aa73ee2eb48c421611e8e6263c9",
+        "bauvergabe-rechtsschutz-schnellstart.md": "63d768058b1d55dc6c6e7bf1cefdbf2b0f23e9ad41bc319a311e53c88a89b66f",
+        "bauvergabe-rechtsschutz-schnellstart.txt": "63d768058b1d55dc6c6e7bf1cefdbf2b0f23e9ad41bc319a311e53c88a89b66f"
+      }
+    },
+    {
+      "name": "bauvergabe-unterlagen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauvergabe-unterlagen-werkstatt.md": "bfc8bb5e68303645e19d067f053e45fed56eaf60dae707e9e0435a8cac1b29a2",
+        "bauvergabe-unterlagen-werkstatt.txt": "bfc8bb5e68303645e19d067f053e45fed56eaf60dae707e9e0435a8cac1b29a2",
+        "bauvergabe-unterlagen-schnellstart.md": "6a9a149a8d576f702957605679c35759280ce0bb59e79cb1bee8d95cfc44702b",
+        "bauvergabe-unterlagen-schnellstart.txt": "6a9a149a8d576f702957605679c35759280ce0bb59e79cb1bee8d95cfc44702b"
+      }
+    },
+    {
+      "name": "bauvergabe-verfahren",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauvergabe-verfahren-werkstatt.md": "c8c9fed3d951f8b65e07d210623fd30485fa714f2ca23b7a6c9b55ca7fba15f6",
+        "bauvergabe-verfahren-werkstatt.txt": "c8c9fed3d951f8b65e07d210623fd30485fa714f2ca23b7a6c9b55ca7fba15f6",
+        "bauvergabe-verfahren-schnellstart.md": "e01448ba2d967b4cb43700ccdef2396873852f13cf01e57d2b3addad6c3de2a2",
+        "bauvergabe-verfahren-schnellstart.txt": "e01448ba2d967b4cb43700ccdef2396873852f13cf01e57d2b3addad6c3de2a2"
+      }
+    },
+    {
+      "name": "bauwirtschaft",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauwirtschaft-werkstatt.md": "717882ae981bffcbd8f2fb961ff03d47c3ea763e18f53a98e62e3ca91409ce49",
+        "bauwirtschaft-schnellstart.md": "f59ac87084f6a249d83067b1af0313207fd52365c8c6467a9a68fbc3b1f7234a",
+        "bauwirtschaft-hauptproblem.md": "5ae291ea025b1c6f5bfcbedc999c5d832771d51b9a8767b5d4751e550872f0e2"
+      }
+    },
+    {
+      "name": "bauwirtschaft-anfaenger",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauwirtschaft-anfaenger-werkstatt.md": "9520598b5aa64b55b025ec466224dd5eff5c3e5fbdf157a5422d86f6a9f4bdb4",
+        "bauwirtschaft-anfaenger-schnellstart.md": "c62e53d484991ac118cc261252db1d0cbdbf9d85ef34e98b390dbba58ed1fc07"
+      }
+    },
+    {
+      "name": "bauwirtschaft-fortgeschrittene",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bauwirtschaft-fortgeschrittene-werkstatt.md": "8d78d31e09c324cb8a29bf034950511003923097e48a5be066332b92d004cc5e",
+        "bauwirtschaft-fortgeschrittene-schnellstart.md": "cfe89189ba528eb0a9fdf88cafeee1851d9443995bd4b60a1818b214010ad554"
+      }
+    },
+    {
+      "name": "bav-strategie-konzern",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bav-strategie-konzern-werkstatt.md": "4f59c13acff0f961de291030c82a7bedd9dcb3b59d548eae14271c55752bfc70",
+        "bav-strategie-konzern-schnellstart.md": "111e23e17c2f960ff5d3697749ebd69edc5a5516e29bc07de1653d7cf587b84e"
+      }
+    },
+    {
+      "name": "bea-versand",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bea-versand-werkstatt.md": "2e5d53ba977b43151a8d84a88229efc3c0b1dd5b0f6d237c51159f0396d1265f",
+        "bea-versand-werkstatt.txt": "2e5d53ba977b43151a8d84a88229efc3c0b1dd5b0f6d237c51159f0396d1265f"
+      }
+    },
+    {
+      "name": "beamtenrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "beamtenrecht-werkstatt.md": "f1a564d15572cc43bdaa6c2407f2051da1e5fe0a6b3d2cf324a8ea74bcbaf4a3",
+        "beamtenrecht-schnellstart.md": "e8a90c6894484921cb2697fca973d405ae16d49f785e30d657a6c476fa0399d3"
+      }
+    },
+    {
+      "name": "bereicherungs-und-anfechtungsrecht-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md": "5646f250aa2554bb5c6abddda2a64b56ddaf026c95e5b8bf8647b881a4363d0a",
+        "bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md": "25192d1e057d2e0b33f9a33f9f3d373e3b93ceb5157e86947823fc17000c7053"
+      }
+    },
+    {
+      "name": "berichtspflichten-erlediger",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berichtspflichten-erlediger-werkstatt.md": "ae6de3818402e38f58fc6f61f326a54ebee4ae73a192a87821d65302945f5957",
+        "berichtspflichten-erlediger-schnellstart.md": "d58e8768be95bfa204005448b4215a96705ffc0bd48713f38de0b24e09b249b1"
+      }
+    },
+    {
+      "name": "berliner-asog-polizeirecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berliner-asog-polizeirecht-werkstatt.md": "545f2548cb7530785034223e77144c63ddf8b883d815618836e0c80c37e8ca79",
+        "berliner-asog-polizeirecht-werkstatt.txt": "545f2548cb7530785034223e77144c63ddf8b883d815618836e0c80c37e8ca79",
+        "berliner-asog-polizeirecht-schnellstart.md": "61a04511e60125ffbf59112d5b6b0a799081b1213c665724063364e0a4de0965",
+        "berliner-asog-polizeirecht-schnellstart.txt": "61a04511e60125ffbf59112d5b6b0a799081b1213c665724063364e0a4de0965",
+        "berliner-asog-polizeirecht-hauptproblem.md": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad",
+        "berliner-asog-polizeirecht-hauptproblem.txt": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad"
+      }
+    },
+    {
+      "name": "berliner-gewerbeaufsicht-betrieb",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berliner-gewerbeaufsicht-betrieb-werkstatt.md": "e21b492187f5482d1b5f01b8452a8dc8d5db31a7aa120f57e745777cd3cc46f0",
+        "berliner-gewerbeaufsicht-betrieb-werkstatt.txt": "e21b492187f5482d1b5f01b8452a8dc8d5db31a7aa120f57e745777cd3cc46f0",
+        "berliner-gewerbeaufsicht-betrieb-schnellstart.md": "65c4b566675287c0c57dae6e97a11c2a7d95da4b22afe684269ead9170aff0dd",
+        "berliner-gewerbeaufsicht-betrieb-schnellstart.txt": "65c4b566675287c0c57dae6e97a11c2a7d95da4b22afe684269ead9170aff0dd",
+        "berliner-gewerbeaufsicht-betrieb-hauptproblem.md": "43b4529a29c36555c34e2933fee0101da5dab7c40e05bc8973384f18dda7f0fb",
+        "berliner-gewerbeaufsicht-betrieb-hauptproblem.txt": "43b4529a29c36555c34e2933fee0101da5dab7c40e05bc8973384f18dda7f0fb"
+      }
+    },
+    {
+      "name": "berliner-hochschulrecht-professoren",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berliner-hochschulrecht-professoren-werkstatt.md": "a0973271e65aff9ac94c7cb332d45bbdd94be7654b43b1be14a7e64a60034df0",
+        "berliner-hochschulrecht-professoren-werkstatt.txt": "a0973271e65aff9ac94c7cb332d45bbdd94be7654b43b1be14a7e64a60034df0",
+        "berliner-hochschulrecht-professoren-schnellstart.md": "f28fc296b2f0a64ab1f85016ec3c8f5f26453b684514b84773eb82326f2dbe88",
+        "berliner-hochschulrecht-professoren-schnellstart.txt": "f28fc296b2f0a64ab1f85016ec3c8f5f26453b684514b84773eb82326f2dbe88",
+        "berliner-hochschulrecht-professoren-hauptproblem.md": "490c96cb6bccdda70f5136fc3c0681941d58590deadce5c2389ccf009047a149",
+        "berliner-hochschulrecht-professoren-hauptproblem.txt": "490c96cb6bccdda70f5136fc3c0681941d58590deadce5c2389ccf009047a149"
+      }
+    },
+    {
+      "name": "berliner-schulrecht-eltern-schueler",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berliner-schulrecht-eltern-schueler-werkstatt.md": "a1ae045f5a339acf01ff983a83160b000d6e2885f659cc98f388e1991cae8b65",
+        "berliner-schulrecht-eltern-schueler-werkstatt.txt": "a1ae045f5a339acf01ff983a83160b000d6e2885f659cc98f388e1991cae8b65",
+        "berliner-schulrecht-eltern-schueler-schnellstart.md": "f1f94c47bfabeeb40db85abe8b682900aa887fba0f8e9e4aefd7421d3c131b18",
+        "berliner-schulrecht-eltern-schueler-schnellstart.txt": "f1f94c47bfabeeb40db85abe8b682900aa887fba0f8e9e4aefd7421d3c131b18",
+        "berliner-schulrecht-eltern-schueler-hauptproblem.md": "1f403cae25cf0ce8415d4debfe3f10482548fddf7ff93609241f8e21e4142457",
+        "berliner-schulrecht-eltern-schueler-hauptproblem.txt": "1f403cae25cf0ce8415d4debfe3f10482548fddf7ff93609241f8e21e4142457"
+      }
+    },
+    {
+      "name": "berliner-versammlungsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berliner-versammlungsrecht-werkstatt.md": "c1d03282a510e0333f065c810587f37f27a26cb3db4f42cb5b10f9b216c80c33",
+        "berliner-versammlungsrecht-werkstatt.txt": "c1d03282a510e0333f065c810587f37f27a26cb3db4f42cb5b10f9b216c80c33",
+        "berliner-versammlungsrecht-schnellstart.md": "25c1e30c988ce3f93d9e7eb9a4daf1e87d6a6f4829f9afb72883208995736168",
+        "berliner-versammlungsrecht-schnellstart.txt": "25c1e30c988ce3f93d9e7eb9a4daf1e87d6a6f4829f9afb72883208995736168",
+        "berliner-versammlungsrecht-hauptproblem.md": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f",
+        "berliner-versammlungsrecht-hauptproblem.txt": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f"
+      }
+    },
+    {
+      "name": "berufsgerichtliche-verfahren-freie-berufe",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berufsgerichtliche-verfahren-freie-berufe-werkstatt.md": "a3560fb5cb803d1a95be7de352978c94fcbebddebc4c98e5a3de3b87c391ee6c",
+        "berufsgerichtliche-verfahren-freie-berufe-schnellstart.md": "af62ef3a31570c2f69a0d1c807d06059c2cdce339f91513251f572f4761fe532"
+      }
+    },
+    {
+      "name": "berufsrecht-anwaelte",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berufsrecht-anwaelte-werkstatt.md": "8b87795fb40b2514838efd0f6f1eb28aa5818a40c94018ac18f1e57f1105ef6d",
+        "berufsrecht-anwaelte-schnellstart.md": "6695f390126c2a3751efc970ca9661a7efe54e1bf53da608813a9cd984b9d84f"
+      }
+    },
+    {
+      "name": "berufsrecht-ki-vertragspruefung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berufsrecht-ki-vertragspruefung-werkstatt.md": "d5992a4d9be8f1c3d1954e4ba496b1b5f1fc1c6a0f9a2590cc55149fba33d94c",
+        "berufsrecht-ki-vertragspruefung-schnellstart.md": "51863dfb640ff20a5c8b0d18e68122daa6b2b3feef1b084f49c2198465e87b32"
+      }
+    },
+    {
+      "name": "berufsrecht-notare",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berufsrecht-notare-werkstatt.md": "770ade5d466cd56abe34704ad4d6ff66abd68fd24ec1c33c729c7c9d00d4bc27",
+        "berufsrecht-notare-schnellstart.md": "f070b0ae1204a5d43cf9bbad90ec081c725b446e9a292a5dd6e6345795b85932"
+      }
+    },
+    {
+      "name": "berufsrecht-patentanwaelte",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berufsrecht-patentanwaelte-werkstatt.md": "3e90acd45ed62ccb4e3e0f6aa714a4a0877065849d84ab62c6538f31794d4489",
+        "berufsrecht-patentanwaelte-schnellstart.md": "8157a7fd10b1b6702ba707fa251c0dbdfe0dd03b1579cfb4fb6c0a4d158368dc"
+      }
+    },
+    {
+      "name": "berufsrecht-steuerberater",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berufsrecht-steuerberater-werkstatt.md": "55004b36ad578711405a94b4fc2e4abab0da2a6e995f0545cc56b29a5efab174",
+        "berufsrecht-steuerberater-schnellstart.md": "cb888e96cea1cc006b6799e730cf69b54d31f81d3a3570f2ecbd30c3e533a8b8"
+      }
+    },
+    {
+      "name": "berufsrecht-wirtschaftspruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "berufsrecht-wirtschaftspruefer-werkstatt.md": "3e0a5ebd20f8221c1e4577a8f97d640b80ec7417145394d000645b5a11a968bd",
+        "berufsrecht-wirtschaftspruefer-schnellstart.md": "8a32f04d534ede7dea4b68f1fb58fcab7b6ba41fcc722c8dd4fd133b0ae832ca"
+      }
+    },
+    {
+      "name": "betaeubungsmittelrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "betaeubungsmittelrecht-werkstatt.md": "fb857b8a6713b25b6e5deb5511811f07aba45798b9379d2c206d28a6380ff603",
+        "betaeubungsmittelrecht-schnellstart.md": "f09b5e0c15d37e52ef6f0ec6f90f6f0bd0e1a54df749e7f0a71868bfa9db9c8c"
+      }
+    },
+    {
+      "name": "betreuungsrecht",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "betreuungsrecht-werkstatt.md": "728734e1a4f601c70c31b4c1376c6604c89da9d87b24d059fc46a8d24d940f47",
+        "betreuungsrecht-schnellstart.md": "7e3489177e138ae11395a06f02c484c74e2ba200f257bac4a1d766b33ba5990b"
+      }
+    },
+    {
+      "name": "betriebskosten-hausverwaltung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "betriebskosten-hausverwaltung-werkstatt.md": "a3e3809648d3e4aae5a931a9894e1d9dcf5c3ca5ac25618eb8b77ed7c5383fb7",
+        "betriebskosten-hausverwaltung-schnellstart.md": "d5fb6d1fd6326b336b232a37118ebb178de29bb64349d2d21d4bd1db407383c4"
+      }
+    },
+    {
+      "name": "bgb-at-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bgb-at-pruefer-werkstatt.md": "4cd9c2562146459f21a0f610ef31a687e9ef95208b98285225e640e0295d031a",
+        "bgb-at-pruefer-schnellstart.md": "52fe9a04cbbb05b237bae459d4327b307cd8b37ef9e3c6739b65ebbb6633a1f9"
+      }
+    },
+    {
+      "name": "bgb-bt-pruefer",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bgb-bt-pruefer-werkstatt.md": "1de094bc7cbb9ca9684c530aacdf15b710b17fabd376bd54a844ce7fdeaf3e2d",
+        "bgb-bt-pruefer-schnellstart.md": "e0e957edfd6dec71f13bd979647364b051e2b99e7f0e181a099b58c6e979f4e2"
+      }
+    },
+    {
+      "name": "bieter-unternehmen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bieter-unternehmen-werkstatt.md": "90a151f066358d8e1e71fd5c412da292caedddbac6492748e6141a22bcdfcb25",
+        "bieter-unternehmen-schnellstart.md": "70d7729a906a029be37be2b32f0f8d80a7b13ba62ef4e0cf93b07fb43c7ce6f7"
+      }
+    },
+    {
+      "name": "buerokratieversteher-entbuerokratisierer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "buerokratieversteher-entbuerokratisierer-werkstatt.md": "fd82c1ac61c71ce12f0dfef5184ac3853baf1c70e164caa5d61ac4c77d0ab0c2",
+        "buerokratieversteher-entbuerokratisierer-schnellstart.md": "31fc09adc899dafeb84e013fe9ba50b2353a8853f251075e8e193fc1910a2256"
+      }
+    },
+    {
+      "name": "bundesnetzagentur-verfahren",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bundesnetzagentur-verfahren-werkstatt.md": "62f06cd74bc0b2836775eda69af964fada1579a1f85fbadffc7dbc2784e88377",
+        "bundesnetzagentur-verfahren-schnellstart.md": "927d92960c791ecc8737d75f39237846ae43f44701d22395b1a8449aa2ceb239"
+      }
+    },
+    {
+      "name": "bundeswehrrecht-wehrrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "bundeswehrrecht-wehrrecht-werkstatt.md": "84e118878c1526bb574b1f62bad09d19517b6727728be1714270e49f732fea49",
+        "bundeswehrrecht-wehrrecht-schnellstart.md": "225f9d9e3aabc03cca020befa6f1d6db7c8cda995cf553877be58693a5c141ff"
+      }
+    },
+    {
+      "name": "commercial-courts-deutschland",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "commercial-courts-deutschland-werkstatt.md": "6a1a33626efba9489eec1645744a8db1bea51ad2eded716bf02a5707d0b6e5a9",
+        "commercial-courts-deutschland-schnellstart.md": "3a7c596759c16e1639997054f9883c6cfa2a614fa88b494c20fc404682561a44"
+      }
+    },
+    {
+      "name": "common-law-kompass",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "common-law-kompass-werkstatt.md": "2f639e85b3dfd0bd5d011444e25fb0351d16bdee605b65a5d2be4fb06a35a57d",
+        "common-law-kompass-schnellstart.md": "a8904608b2e4193ff6bbdc0305caae6bd8c3078437b94404f41e14c2ffb99774"
+      }
+    },
+    {
+      "name": "compliance-abteilung-grosskonzern",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "compliance-abteilung-grosskonzern-werkstatt.md": "e4d95706ae36bdfd8effc07e23823b2a1a3f673f1b4c8c890707128cc0a15bfc",
+        "compliance-abteilung-grosskonzern-schnellstart.md": "427e17878f9eec97e1ced58e1657f0d8338342d1e559b90bc31a0f6c2f7677b1"
+      }
+    },
+    {
+      "name": "corporate-contract-law",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "corporate-contract-law-werkstatt.md": "366327a7667d547651c9eca305fa2f4813452ecc05318a1b6d35a2c7f9b3a784",
+        "corporate-contract-law-schnellstart.md": "f8e270d69673910302885d90a7ded7d36129f41b4035d262438d28053e6d4fe3",
+        "corporate-contract-law-hauptproblem.md": "ff77209391fd0757f866d08cb8aab4b83c5d7d6119f3f067886edeb1102864bc"
+      }
+    },
+    {
+      "name": "corporate-kanzlei",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "corporate-kanzlei-werkstatt.md": "3b1db69a0bc7fc0a71501d914d35daf06cbb5e1e7ca10798c4a6b84dc104b0ed",
+        "corporate-kanzlei-schnellstart.md": "26c75be42376db6266b4d41153f38cf10374127b4a94314c3be8589c33feabc8"
+      }
+    },
+    {
+      "name": "datenbankrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "datenbankrecht-werkstatt.md": "dbfd6d792b5fbd8262fc09606ec3ec23dc52193bf7b953dfb18e280e0a647ab5",
+        "datenbankrecht-schnellstart.md": "5711a5d953ae316f8ea72dfa9e128537d14d7e279888c05b06f2c8e3e552c917"
+      }
+    },
+    {
+      "name": "datenschutz-sanktionsverfahren-verteidigung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "datenschutz-sanktionsverfahren-verteidigung-werkstatt.md": "b7e20eb292bd39478235a6a662d550733e6cb2467bfd9720843ec943dcdfbe93",
+        "datenschutz-sanktionsverfahren-verteidigung-schnellstart.md": "b5ee5ba64b5ec42f0e7a49a6a9f48e2961f671e24cf9cb825c97ab60e65404d4",
+        "datenschutz-sanktionsverfahren-verteidigung-schnellstart.txt": "b5ee5ba64b5ec42f0e7a49a6a9f48e2961f671e24cf9cb825c97ab60e65404d4"
+      }
+    },
+    {
+      "name": "datenschutzrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "datenschutzrecht-werkstatt.md": "567014901f517adc588d8326648db5c1e3f421029f821aff43e43424c182addb",
+        "datenschutzrecht-schnellstart.md": "c75853add58c864f4d6800909665621ab7581366fcf8665a115653d97cd519cb",
+        "datenschutzrecht-schnellstart.txt": "c75853add58c864f4d6800909665621ab7581366fcf8665a115653d97cd519cb"
+      }
+    },
+    {
+      "name": "denkmalschutzrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "denkmalschutzrecht-werkstatt.md": "1d2afe3a8f1952c45d9db6055a75f64487f3a510c3bd42c978092fc56c265b77",
+        "denkmalschutzrecht-schnellstart.md": "37206166a9a9656959ea4d20051e034fe2d4357f500d15eeeeccb00a7e90a196"
+      }
+    },
+    {
+      "name": "designrecht-geschmacksmusterrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "designrecht-geschmacksmusterrecht-werkstatt.md": "0b8851f6e314ac7872791422c34d7f3fe6275c0e9cd0b03ef98e9542b5ee987f",
+        "designrecht-geschmacksmusterrecht-schnellstart.md": "d5e9aa3e86a8d86e0964d20db72dc68e41bdf3c760409b76812ecd99ee859f1c"
+      }
+    },
+    {
+      "name": "deutsche-rechtsgeschichte",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "deutsche-rechtsgeschichte-werkstatt.md": "85c550ff2b9dc5402a0f33bf00af6f5ee8f7f414c0ebfdd7770612b8155fe5f8",
+        "deutsche-rechtsgeschichte-schnellstart.md": "83f691e8085157351957597f06c37c98bb98e78f40c95fb7023408238fb1a051"
+      }
+    },
+    {
+      "name": "dfg-foerderantrag",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "dfg-foerderantrag-werkstatt.md": "9b5ab7538e0a8ffc7ad82e6d8b10513bfceb19abcaf4315f5bd07efc9e9111c0",
+        "dfg-foerderantrag-schnellstart.md": "7ffd89dc2444bdad1a666a8ddee4571cdca5a26884ba755454846d55862a2616"
+      }
+    },
+    {
+      "name": "diesel-schadensersatz",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "diesel-schadensersatz-werkstatt.md": "e6cd6c22cb247a708c2b11394f9d850d3594bed58607db630c0e52668d0b18d6",
+        "diesel-schadensersatz-schnellstart.md": "9d83444466fc9907f51b4be432e0a3d90c1de73e63a0cbfe4a58461d7a8618e3"
+      }
+    },
+    {
+      "name": "dsa-dma-digitalregulierung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "dsa-dma-digitalregulierung-werkstatt.md": "42f5bd9f90138398cffd9a09194d4ea234435b14f11ba17d445babfae4a79ced",
+        "dsa-dma-digitalregulierung-schnellstart.md": "7588c333966e5c6defac29562e7b4d85e1ff8bf899655ad9b8db81a639b2392d"
+      }
+    },
+    {
+      "name": "due-diligence",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "due-diligence-werkstatt.md": "52d5604a52c8b67532eceb39a66ac2d19fedd5f20edbaa5dd3930215cdf2aee5",
+        "due-diligence-werkstatt.txt": "52d5604a52c8b67532eceb39a66ac2d19fedd5f20edbaa5dd3930215cdf2aee5",
+        "due-diligence-schnellstart.md": "f1603fd2ae5957d1edc23e6fca4b4442cfae9a495c32e778287a2c1837554e8d",
+        "due-diligence-schnellstart.txt": "f1603fd2ae5957d1edc23e6fca4b4442cfae9a495c32e778287a2c1837554e8d",
+        "due-diligence-hauptproblem.md": "c6e35c7f10df243e55cd7abbbcf74ea1b7f7858c1a2210f4c01ac39dcc2b2a1e",
+        "due-diligence-hauptproblem.txt": "c6e35c7f10df243e55cd7abbbcf74ea1b7f7858c1a2210f4c01ac39dcc2b2a1e"
+      }
+    },
+    {
+      "name": "e-rechnung-werkstatt",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "e-rechnung-werkstatt-werkstatt.md": "5f650304ef23a12f4e6f0100a76dcad84bae81e8e56f379f4d0c86a203b4e346",
+        "e-rechnung-werkstatt-schnellstart.md": "c031db825aff3eccd2859cf10862ff713c8b2092e136a03fba8c1ebe9e19c310",
+        "e-rechnung-werkstatt-hauptproblem.md": "e8f5bd194d28b8d6209280ca514a84c7574cfd6da08cb25e0958c386cd42e25a"
+      }
+    },
+    {
+      "name": "ecommerce-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ecommerce-recht-werkstatt.md": "6cf2a3828473b2ce749f754127061ef7b15935eac603e063b03a951e005bf92f",
+        "ecommerce-recht-schnellstart.md": "6096f9f6193c335bfbc842150ccc209bece7a962a9fe3545b4a0be1d849b2b69"
+      }
+    },
+    {
+      "name": "eigenbedarfskuendigungschecker",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "eigenbedarfskuendigungschecker-werkstatt.md": "2dc7256120949a0eda056389cc74c32c1406dacd75b06e56bd781330e2a7ea89",
+        "eigenbedarfskuendigungschecker-schnellstart.md": "a4938b05862e3f409534359aff6163c2ec0354637567aeee17c05430431ab373"
+      }
+    },
+    {
+      "name": "einfache-leichte-sprache-jura",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "einfache-leichte-sprache-jura-werkstatt.md": "4d737109bdd3e590bc759b8dafd6917631746a89965d67bebc50b04aded52343",
+        "einfache-leichte-sprache-jura-schnellstart.md": "c7b793c3897f4e6ded65cd7d6030fa28d2edfd039dd9805781130d8a22b71909"
+      }
+    },
+    {
+      "name": "einigungsvertrag-vermoegensrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "einigungsvertrag-vermoegensrecht-werkstatt.md": "3424929a71435e09ed6d88adf8b656fe8d826f3c7e6b1a8da013ce7f816fb476",
+        "einigungsvertrag-vermoegensrecht-schnellstart.md": "059fa4ea9b38cb4f8012f27b182e4f000d81853a53fa5bba3f0aea320f5b2bc9"
+      }
+    },
+    {
+      "name": "email-umformulierer-berufsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "email-umformulierer-berufsrecht-werkstatt.md": "a3b01283e28e3b4c59b334c6a9d793416988e376bb59ce0790a138bdfa81a21a",
+        "email-umformulierer-berufsrecht-schnellstart.md": "23436a0f0daca958827d92023154c7a7534c112f3c5bf9b07fa9836e0904f41a"
+      }
+    },
+    {
+      "name": "energierecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "energierecht-werkstatt.md": "80c3d592f17e2a1bd774f8901ea9fdc41361f2d256fef32c244e73ac7e79d02d",
+        "energierecht-schnellstart.md": "da692ea9a833c4abe376beb31c22adf4d66fa243074dd2d29274e62df238259d"
+      }
+    },
+    {
+      "name": "enteignung-artikel-14",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "enteignung-artikel-14-werkstatt.md": "81988853c52e1cbf57514c1e0ea71d2be2d9be00f6e39027866bd4d7c76dac01",
+        "enteignung-artikel-14-schnellstart.md": "91ab8e9caa8c0f3847fac028ddc7fd071ff400ee25cc9d84a4ed0cb33842ba5e"
+      }
+    },
+    {
+      "name": "erbbaurecht-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "erbbaurecht-praxis-werkstatt.md": "c7e39e781ded2816bed2701cde886492f48f4518830862d1a2efd823ae4c7259",
+        "erbbaurecht-praxis-schnellstart.md": "b69822ec4b5236c437bdeb47aca8303a05325e3a3ad0ec6d147ce7766f4dffb9"
+      }
+    },
+    {
+      "name": "eu-sanktionspruefer",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "eu-sanktionspruefer-werkstatt.md": "e200104378d12eeae385487117ade0421358d69e40729d096f4239b15351fc4c",
+        "eu-sanktionspruefer-schnellstart.md": "1c221d2a99e3c2c1e33636cd371b7410f3232d7488b64b96a673b122e81e0c0a",
+        "eu-sanktionspruefer-hauptproblem.md": "e6c6a4b327b7a80c42683c0a0a815b0968b6e24129789071323203d3e0e38134"
+      }
+    },
+    {
+      "name": "europaeisches-prozessrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "europaeisches-prozessrecht-werkstatt.md": "007dfb7ad813e18403835d12c83ceeaadeef6a0b6bae0117262d17ba0fa61163",
+        "europaeisches-prozessrecht-schnellstart.md": "e50c69f30af46e40bf92c70887f83ac71ed312df4ded0f9d9cef3e7eed375402"
+      }
+    },
+    {
+      "name": "europarecht-kompass",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "europarecht-kompass-werkstatt.md": "85663c2bb85d86ce215d1a602885b50326b502f5191c6bb9fbb4099868d3d8d3",
+        "europarecht-kompass-schnellstart.md": "5b5aaab1c5b91c0f4a37d0e8c282b66699ed85619505891af9157b88cd603294"
+      }
+    },
+    {
+      "name": "fachanwalt-agrarrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-agrarrecht-werkstatt.md": "971a1610707679ddc673155574b1e485a65d0b42ed488eaf8574fb4820bdf171",
+        "fachanwalt-agrarrecht-schnellstart.md": "59a4dc05cf2e246a36c9030e7dc85e4f419439030597051a96451c3dd68be6aa",
+        "fachanwalt-agrarrecht-hauptproblem.md": "3073daf86c59e886018ea4f9bcd1160d6950e1b6fdb9f8ce7162644245418887"
+      }
+    },
+    {
+      "name": "fachanwalt-arbeitsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-arbeitsrecht-werkstatt.md": "1558e22246e6ee389a7dbc5f0095f8215f0632eb17c77054fd8bcc7d9a815981",
+        "fachanwalt-arbeitsrecht-schnellstart.md": "85087718548b539a973b3ba2d2fabd90069be98c59fc089b604fbed4255e9f11",
+        "fachanwalt-arbeitsrecht-hauptproblem.md": "963d4c6c4dc29182350419462eb6aa7340641652a17e3bb91ecb1ab4bc0797e5"
+      }
+    },
+    {
+      "name": "fachanwalt-bank-kapitalmarktrecht",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-bank-kapitalmarktrecht-werkstatt.md": "eb729a4c708c44d695d1626dc89cb8fca41a7f64bc7d4f9032e10ca475f5778a",
+        "fachanwalt-bank-kapitalmarktrecht-schnellstart.md": "ec908da93a0c368f6cfc8221e36803744e15649b8c2444bb93baa6dbc2d6ee1c",
+        "fachanwalt-bank-kapitalmarktrecht-hauptproblem.md": "8bf84ae56ce717456b2b83f127c6d55ada2245c15a01a73a4244d88042c497d2"
+      }
+    },
+    {
+      "name": "fachanwalt-bau-architektenrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-bau-architektenrecht-werkstatt.md": "5d551874a9e7b225ab95e39b482a24aa24bc61089982e3b60e00e96b6b293c2e",
+        "fachanwalt-bau-architektenrecht-schnellstart.md": "0f6df219cde5a01eec82672a1b46393c7d771b21b9786cad18ee50e356abb00f",
+        "fachanwalt-bau-architektenrecht-hauptproblem.md": "f0776501b42f0991eff37efab72c9a7d3015ce386e1b5a0f1b206de52286ed34"
+      }
+    },
+    {
+      "name": "fachanwalt-erbrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-erbrecht-werkstatt.md": "8fa3a7dc5bb276bc4641490cd7916777341d5c921f1b13ce6fd5f034660aa2f7",
+        "fachanwalt-erbrecht-schnellstart.md": "b25be979c283054575d243804c30830bcc0f00758c0bcf59c30e41b493ea9f1a",
+        "fachanwalt-erbrecht-hauptproblem.md": "aad981fb21ae7cdd3db53ce836066c7cd901bced312f581fc251cca03620d16f"
+      }
+    },
+    {
+      "name": "fachanwalt-familienrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-familienrecht-werkstatt.md": "29dee29bcd152d43c49c12d95f6e96dcc4b34b3e609599d0b0e57851f80940c5",
+        "fachanwalt-familienrecht-schnellstart.md": "2734f696668f99aeb73becdbc9628d19f66e16e0fd255c7367974f7f9ddabade",
+        "fachanwalt-familienrecht-hauptproblem.md": "ad11fd6bc234f111dd478ff2c877ed0bd6e29b90979e8b8d7c3e9f68ff802849"
+      }
+    },
+    {
+      "name": "fachanwalt-gewerblicher-rechtsschutz",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-gewerblicher-rechtsschutz-werkstatt.md": "67b604ce3760a62f61ce0f839207aebaf09e4cd131c1cd594a9fe198a76ae546",
+        "fachanwalt-gewerblicher-rechtsschutz-schnellstart.md": "efc020fa5d09927c71e3b9e7c7d395c6966a571336d1ca608fb773725433cc4d",
+        "fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md": "fc0d96c3553af9420d62a7ec26f8e57f19b4b00dd976bc59e96a7f6edc7da5ae"
+      }
+    },
+    {
+      "name": "fachanwalt-handels-gesellschaftsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-handels-gesellschaftsrecht-werkstatt.md": "256c1022bc754206ce8eb884912d752daf2238d09bbc37c3596b8715dad50d9d",
+        "fachanwalt-handels-gesellschaftsrecht-schnellstart.md": "d5608bf2ba8ce6fa754f9083218349a31a796f8bb01bcda8fcb55069da4fa8c3",
+        "fachanwalt-handels-gesellschaftsrecht-hauptproblem.md": "af871bbaf284b24957e1c690360b298fceb7d1e70f2f13878dce1090287f4c13"
+      }
+    },
+    {
+      "name": "fachanwalt-insolvenz-sanierungsrecht",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-insolvenz-sanierungsrecht-werkstatt.md": "73db52156889c52ea977f564cd5aeb326dc7263201cc5b504839d66ef52c1fd1",
+        "fachanwalt-insolvenz-sanierungsrecht-schnellstart.md": "e8566178e5e4691f2c3e6182a0c72db4e2685613a8f8b726304e4152473a992d",
+        "fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md": "feb14c56a8e8d74fc8c64f2f3aefe396f818c91ea2ed7338be22e4584eff32a1"
+      }
+    },
+    {
+      "name": "fachanwalt-internationales-wirtschaftsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-internationales-wirtschaftsrecht-werkstatt.md": "9c037a24e1f01100391c6b521ceed0943dd77e48d987df9b8814863d488abb42",
+        "fachanwalt-internationales-wirtschaftsrecht-schnellstart.md": "b4662e242e2bfb1917563b6b3afa7820d5d8fcd7c051f00b407772d5ec16b75e",
+        "fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md": "a7e296f1d92038d5e000d41db132a542106c51848c8932d6231a2396eed5e2a8"
+      }
+    },
+    {
+      "name": "fachanwalt-it-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-it-recht-werkstatt.md": "1cc376ea7683536cb61baed996f3acf94d3700ccfba11781544ba195c6857fad",
+        "fachanwalt-it-recht-schnellstart.md": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb",
+        "fachanwalt-it-recht-schnellstart.txt": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb",
+        "fachanwalt-it-recht-hauptproblem.md": "aad81e03bd0237f7253a3dfd4f985c87f107c95fa7345ea22c8eb8ce064b7c87"
+      }
+    },
+    {
+      "name": "fachanwalt-medizinrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-medizinrecht-werkstatt.md": "4af3a439c6304c47e266b8da068f31458eae92816ace7be9614fb85a5eacd48c",
+        "fachanwalt-medizinrecht-schnellstart.md": "afb67dd2f172b2a96c86e25cb428339baee7ab3e505a292b2cd030dc29b4b32d",
+        "fachanwalt-medizinrecht-hauptproblem.md": "a8f73d467e16847248a19d1e54cfd2120ab954dca9ea4ee0d2c624536c21005c"
+      }
+    },
+    {
+      "name": "fachanwalt-miet-wohnungseigentumsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md": "38ae86f0e98056551335f8588743065939f2b21a2f20b8a5509e2a72645bb4be",
+        "fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md": "0a5670ee39f02d913bd988e1cf18dfd7c51763beeb6df725913c079570cd9402",
+        "fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md": "b48c1af8874ce23bb8574387e5d9c158256b435690342f247bc0588e5ad6c4a4"
+      }
+    },
+    {
+      "name": "fachanwalt-migrationsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-migrationsrecht-werkstatt.md": "934da1dec881dd72089f64bb96c6f26cddf659295ee55eab8704c35888b036f5",
+        "fachanwalt-migrationsrecht-schnellstart.md": "de7f95a33252af38711b6c72f7d7107d8e9585ea4780803d32a1c3741a3a00a2",
+        "fachanwalt-migrationsrecht-hauptproblem.md": "f7a9f4595a463d103f780afbcedd6e81814297cc12bb459d8b8e50324b3fa5ce"
+      }
+    },
+    {
+      "name": "fachanwalt-sozialrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-sozialrecht-werkstatt.md": "d7a2344b575aacf37345f82856658f7a5ed2478bc32e2b9744219b72cc4f74ab",
+        "fachanwalt-sozialrecht-schnellstart.md": "f0147e61f05d4b8d04fe2050a0ed2d2e3a56e56c29d1651873d7962a2fd1f86d",
+        "fachanwalt-sozialrecht-hauptproblem.md": "a0073428150ef2185eed14c4218bb1c2e0b66036a3a1aafadf8c4be9d38cc3f2"
+      }
+    },
+    {
+      "name": "fachanwalt-sportrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-sportrecht-werkstatt.md": "7d612db5f4dd957c374296da9b0c1ff9674d5e787eac487e30ee68d499e42328",
+        "fachanwalt-sportrecht-schnellstart.md": "c36e66ae693cac15714b4e646241e01cfc9a960f23d50f5e0eac281c5d7a644b",
+        "fachanwalt-sportrecht-hauptproblem.md": "2e51074e32113d67441bf40dce28da9dc5a9f4ae46ba2f4d14d4f0ea85e8c07d"
+      }
+    },
+    {
+      "name": "fachanwalt-strafrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-strafrecht-werkstatt.md": "6a93a10f3fb3dd7bd6c814049061458a6862aa25cd6e28e96e3dfbf3f7fc3e9c",
+        "fachanwalt-strafrecht-schnellstart.md": "491b0f84d7cae07ff3b4ce743d7a072ab59e979ce542c0f0e61b57109b537c11",
+        "fachanwalt-strafrecht-hauptproblem.md": "066d7d4b4f150c8c4e61aecff1ec312099eb9821240b7292f912974f85653830"
+      }
+    },
+    {
+      "name": "fachanwalt-transport-speditionsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-transport-speditionsrecht-werkstatt.md": "b21ad2b81105a99db1fb824c7e1c5f22b41c0bfdd3d6fc9dd7d071ac16d614c0",
+        "fachanwalt-transport-speditionsrecht-schnellstart.md": "b31b73b3184ee73cfdce645d584acf065cacdfdacf7ee84049bc9240e2057380",
+        "fachanwalt-transport-speditionsrecht-hauptproblem.md": "90fa04e72d5e0cefbd12dfec8be3c21301d41f719b4aad7ed5c8ec84ab6449de"
+      }
+    },
+    {
+      "name": "fachanwalt-urheber-medienrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-urheber-medienrecht-werkstatt.md": "e3cb016a3846577d159709c18fa5b8699f6b8787970d43d6c527bf63ae04e898",
+        "fachanwalt-urheber-medienrecht-schnellstart.md": "e91636b252528ee2f000f291f072446ff0885f93a75f9d97487b0bfbb8100817",
+        "fachanwalt-urheber-medienrecht-hauptproblem.md": "a0440f968aeeeff0771ff7f4484f9b6c32b8901311c68e3d4c779f774068b01a"
+      }
+    },
+    {
+      "name": "fachanwalt-vergaberecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-vergaberecht-werkstatt.md": "44b2c0d7d6e88101e1cd99769f5efc4322289b807dedf312e587b29e4ef8fe8a",
+        "fachanwalt-vergaberecht-schnellstart.md": "1e8dc447b0902688bf9674b72ec0ca3350ae39029b69a071a94fc3c1af848e54",
+        "fachanwalt-vergaberecht-hauptproblem.md": "12a66e3269643bed0147a945ec2987d3d053fe365fdf1ade497755b115b9b0a8"
+      }
+    },
+    {
+      "name": "fachanwalt-verkehrsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-verkehrsrecht-werkstatt.md": "c8c00b5f2331ce857ebdec160b87c848026e62ed8b4882986a0487cfff68f697",
+        "fachanwalt-verkehrsrecht-schnellstart.md": "be8953962cb6c1ac1b3d95d5eef661cb1e061777265dc5db23e10fa1f8a35040",
+        "fachanwalt-verkehrsrecht-hauptproblem.md": "f0a9fe1b4ef68fd0c4390bc69a433115228e10c7dd84136ad1646cd56e2db1e4"
+      }
+    },
+    {
+      "name": "fachanwalt-versicherungsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-versicherungsrecht-werkstatt.md": "d0508b0ef3d7ba6b4e91dd59e99976bef40f4505069fd8b6ee0d5e13d4ce49e5",
+        "fachanwalt-versicherungsrecht-schnellstart.md": "f3a54c1534eeefb971d929f68d1127c4bb5bab55d18ce3b62666f359587cb06e",
+        "fachanwalt-versicherungsrecht-hauptproblem.md": "af863f9b895d56af7917f29d52b7c9a2bf1648b7fb7e2c65e64d6e4b5ab5a80d"
+      }
+    },
+    {
+      "name": "fachanwalt-verwaltungsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fachanwalt-verwaltungsrecht-werkstatt.md": "547f709e9fc0bdec22e75ed9c50314de32668404fe9785552022cbc229ec33f6",
+        "fachanwalt-verwaltungsrecht-schnellstart.md": "5756a02dd177086daf702342f0949184e0bd32621af0e8bfc1f8038daf598fbd",
+        "fachanwalt-verwaltungsrecht-hauptproblem.md": "e1934bee755feb8a81c52fe4a5fa6f35b648c6fe024164b9b2d388a1784cf8a8"
+      }
+    },
+    {
+      "name": "factoring-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "factoring-recht-werkstatt.md": "74e9ac239ae5af13c5930d92331425a9f5f06328d220bf24b3bd049afb4272f9",
+        "factoring-recht-schnellstart.md": "500933953b7e08fd3a86a1e04d3061068b93e8e64712a8d2d6d82d772c3156db"
+      }
+    },
+    {
+      "name": "fahrgastrechte",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fahrgastrechte-werkstatt.md": "b8af59bb0b3376ba426d2a53a5cf6071cd024ebdbc9c811014bd94e1ede70588",
+        "fahrgastrechte-schnellstart.md": "c47440de30f10186ec304749885467e70c82850b8d263696390ca5c3e35d6ba9"
+      }
+    },
+    {
+      "name": "fashion-law-moderecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fashion-law-moderecht-werkstatt.md": "1b1ddc0769acad1430ac68c198a40008b61032b77a57192076e20779ff4cb709",
+        "fashion-law-moderecht-schnellstart.md": "ea4d294af495d15b2a59f31d2f5db1f8a445c2b9ba7bf6928e0bac2d740bc860"
+      }
+    },
+    {
+      "name": "festlandchina-wirtschaftsverkehr",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "festlandchina-wirtschaftsverkehr-werkstatt.md": "0b1075ef81c853401e5b3c646f5648a00a74d1f1b62c61f25644667f6444025b",
+        "festlandchina-wirtschaftsverkehr-schnellstart.md": "e4f5ae137dd921d15df8f6672d86497b69973e911f7bdd8a6a9ff8342c0157c8"
+      }
+    },
+    {
+      "name": "fluggastrechte",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fluggastrechte-werkstatt.md": "a3484f03cfec2145b9a3a75bfe942764cb7aad9689d1b6d605dbca8722257bdb",
+        "fluggastrechte-schnellstart.md": "e8080915e0d6ea244a0480ec9262ef92b5ae6acb43d4bc1da5a7c47f091053d9"
+      }
+    },
+    {
+      "name": "forderungsmanagement-klagewerkstatt",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "forderungsmanagement-klagewerkstatt-werkstatt.md": "46ec865a15cd625cc8b17e505ac3587ad9be104f1ec3384c8af57ac1cd86e9f2",
+        "forderungsmanagement-klagewerkstatt-schnellstart.md": "1b4f8fd434feba4274d270a80e83d57ee32be32a0918a6a0c4b577978fe9ffe0"
+      }
+    },
+    {
+      "name": "forschungszulage-antragstellung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "forschungszulage-antragstellung-werkstatt.md": "a9b9115954f1d6e84493e9a117684b33b4a3258574aa3b9734096e87f4ba6fd9",
+        "forschungszulage-antragstellung-schnellstart.md": "2543bb987830ca3eaf5d983f721e2a17011a8164e797c41b1632180a9a9a4323"
+      }
+    },
+    {
+      "name": "fortbestehensprognose",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "fortbestehensprognose-werkstatt.md": "84ee04c1ef1078b7277bdff9ea27289970d257a3ec09a9f3d8977fe0fc9ade0f",
+        "fortbestehensprognose-schnellstart.md": "69588462b45415227504e15add4e5744078fdc2dac195be4ff7380b1d510c35c"
+      }
+    },
+    {
+      "name": "franchiserecht-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "franchiserecht-praxis-werkstatt.md": "946280a92d63f718959a7765105f1d94b1bbcfd602069e75eb232b1943b56113",
+        "franchiserecht-praxis-schnellstart.md": "e51a4ccaa5b3ff19a036e8facf753965718d84ecaf2fdd7afc04abe99c70c694"
+      }
+    },
+    {
+      "name": "gebrauchsmusterrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gebrauchsmusterrecht-werkstatt.md": "6db5e562f0bf90ba22cfb3ffecb63de1c995b2a39522b0630a0fe453511b518e",
+        "gebrauchsmusterrecht-schnellstart.md": "aea59f2af0a5cd3723468ac9d089cf4ab3b25aa31acc528f76cf915379d81c41"
+      }
+    },
+    {
+      "name": "geldwaeschebeauftragter",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "geldwaeschebeauftragter-werkstatt.md": "8651ed5deff46826b427e75275adc34ee5cf604ec7258932381cb999d9a0d581",
+        "geldwaeschebeauftragter-werkstatt.txt": "8651ed5deff46826b427e75275adc34ee5cf604ec7258932381cb999d9a0d581",
+        "geldwaeschebeauftragter-schnellstart.md": "b0e1448fd7bcc377a44c154957229c36b7910bf87f198562cb814806ddc6c9a0",
+        "geldwaeschebeauftragter-schnellstart.txt": "b0e1448fd7bcc377a44c154957229c36b7910bf87f198562cb814806ddc6c9a0",
+        "geldwaeschebeauftragter-hauptproblem.md": "adb3550d88fc11ad3ab791b511f4493d4f0ef10ab49c0522bf8baa585a6f0c4d",
+        "geldwaeschebeauftragter-hauptproblem.txt": "adb3550d88fc11ad3ab791b511f4493d4f0ef10ab49c0522bf8baa585a6f0c4d"
+      }
+    },
+    {
+      "name": "geldwaeschepraevention-aml-kyc",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "geldwaeschepraevention-aml-kyc-werkstatt.md": "2b184fb31549c4edb14a692910b119f330540554b771ac531caf0fedc7827db9",
+        "geldwaeschepraevention-aml-kyc-schnellstart.md": "4369cb30002797b728ec8c3b91e6608e6b1bef7ced478362ecd248e8e8a22b15"
+      }
+    },
+    {
+      "name": "gesellschafterstreit",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gesellschafterstreit-werkstatt.md": "f0946ae09236a95bfbeaeae30e406880aa3f66c6430533bb30d245dea728907f",
+        "gesellschafterstreit-werkstatt.txt": "f0946ae09236a95bfbeaeae30e406880aa3f66c6430533bb30d245dea728907f",
+        "gesellschafterstreit-schnellstart.md": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
+        "gesellschafterstreit-schnellstart.txt": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
+        "gesellschafterstreit-hauptproblem.md": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30",
+        "gesellschafterstreit-hauptproblem.txt": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30"
+      }
+    },
+    {
+      "name": "gesellschaftervereinbarung",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "gesellschaftervereinbarung-werkstatt.md": "c2c80904b92bb565fae31fd2ac06c7a519c1fd65d027e8a03b285440b149d47d",
+        "gesellschaftervereinbarung-schnellstart.md": "dc322594a533acd15523df29905f4a59af27e6a710672a81b9c9aead81e40b9e",
+        "gesellschaftervereinbarung-hauptproblem.md": "6273a0e25726ac4293600be51d881f71e8e0a33403b04caa895a2cedbb71badc"
+      }
+    },
+    {
+      "name": "gesellschaftsgruender",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gesellschaftsgruender-werkstatt.md": "955be452193e8300279ba1ae9fea3f83649955654fde962090a746ef69135768",
+        "gesellschaftsgruender-schnellstart.md": "24c744cfccdf38e825f11fd373f80fc5cc9a57007b1f0978fee76670d4f53824"
+      }
+    },
+    {
+      "name": "gesellschaftsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gesellschaftsrecht-werkstatt.md": "851b43e77f2aaaacece5f155013747d36759b3f32508e16aab99fb075a78ac5e",
+        "gesellschaftsrecht-schnellstart.md": "359996415ec8ea4ea2fc2d1ff6eeed8fed865718f15c8821136bdc9f3182b5fc"
+      }
+    },
+    {
+      "name": "gesellschaftsrecht-legal-english",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gesellschaftsrecht-legal-english-werkstatt.md": "109d217b03e5f5498c04f833a31001044f8ea477aa941bb9de5975867a6bd980",
+        "gesellschaftsrecht-legal-english-schnellstart.md": "addb88f3b1d22d32d100319aff1329a0c44e89994d916de9a1406c0aada25e15"
+      }
+    },
+    {
+      "name": "gesellschaftsrechtliche-treuepflicht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gesellschaftsrechtliche-treuepflicht-werkstatt.md": "0e6e60a87e948a72ec8d5941c04a54b468ba184d8b7cbb20827b05fbd1778518",
+        "gesellschaftsrechtliche-treuepflicht-schnellstart.md": "de2f1ef2bbd62aab52b0c30a86835aebb2d60a9d8adf0a19d4834bfb32a5d02e"
+      }
+    },
+    {
+      "name": "gewerblicher-rechtsschutz",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gewerblicher-rechtsschutz-werkstatt.md": "7a3cff7ac7f70f0773fe96d1e742ed815f2c3a2850d16b70c46065069065f08d",
+        "gewerblicher-rechtsschutz-schnellstart.md": "b202a7d5ea19f20b2f3eab6a7106fe22f09289d7c7d7978edb105ed6909efb3e"
+      }
+    },
+    {
+      "name": "gmbh-gesellschafterversammlung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "gmbh-gesellschafterversammlung-werkstatt.md": "a7bfb3baf634d2eddb4da375dc816f11276165f388833faa026310fcf53e02c4",
+        "gmbh-gesellschafterversammlung-schnellstart.md": "87b196962d6814d4d7d4fb2c093981fbcaae9a5ba7bb312f637296e220e1c46f"
+      }
+    },
+    {
+      "name": "goae-gebuehrenordnung-aerzte",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "goae-gebuehrenordnung-aerzte-werkstatt.md": "89c87b98c034537025dfe1b0712d72d5d29d5627ec543aa91f88f7a7fb591e9a",
+        "goae-gebuehrenordnung-aerzte-schnellstart.md": "62f111d917c95a2f843859b62233a221484f18420f47aeccf219dfda1bb81f5a"
+      }
+    },
+    {
+      "name": "grosskanzlei-corporate-ma",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "grosskanzlei-corporate-ma-werkstatt.md": "7383b2bdd3ebb9b520c591085e9daafd34b202e17fe43b8eaf9b842fbeff37dc",
+        "grosskanzlei-corporate-ma-schnellstart.md": "53c6e5d7ee755ddc1adc3aac9da3924fcd68f04b0b93526cda49f16fff5a1145"
+      }
+    },
+    {
+      "name": "grundbuchamt-assistent",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "grundbuchamt-assistent-werkstatt.md": "e1b429f073338e71bd155a4cfc059d63e06651866be397ef9e2b70c236474e2e",
+        "grundbuchamt-assistent-werkstatt.txt": "e1b429f073338e71bd155a4cfc059d63e06651866be397ef9e2b70c236474e2e",
+        "grundbuchamt-assistent-schnellstart.md": "b61dc1780b32f7aa728ba52046aae88ec4ba1f4596ea88417e0354f9a14fe0f6",
+        "grundbuchamt-assistent-schnellstart.txt": "b61dc1780b32f7aa728ba52046aae88ec4ba1f4596ea88417e0354f9a14fe0f6",
+        "grundbuchamt-assistent-hauptproblem.md": "c0c91561f566b5bccd96ab6a6e8ce8c0a2664ad98b7b11e9044afa6f008b524b",
+        "grundbuchamt-assistent-hauptproblem.txt": "c0c91561f566b5bccd96ab6a6e8ce8c0a2664ad98b7b11e9044afa6f008b524b"
+      }
+    },
+    {
+      "name": "grundbuchamt-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "grundbuchamt-praxis-werkstatt.md": "434c380758e2be62ae2603dc944e2a808920862731828bf4a0a1a713f5eb8a3d",
+        "grundbuchamt-praxis-schnellstart.md": "8c08ffdad40bced6b0b46735767e8ffba29ad8ba8bb84d8301fdd74b45666a36"
+      }
+    },
+    {
+      "name": "grundsteuerrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "grundsteuerrecht-werkstatt.md": "0ad9e8aad7979ab221d2464655f6a3830ee9b65d3016b5b91264311331e5f0c2",
+        "grundsteuerrecht-schnellstart.md": "5d74dc40437a8802b809283d0cb17321e172f3a6cc8dd0928bb4721a6948fceb"
+      }
+    },
+    {
+      "name": "grundstuecksrecherche",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {}
+    },
+    {
+      "name": "gvb-reinigungsvergabe",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "gvb-reinigungsvergabe-werkstatt.md": "fe6e002f5a0810b0bb70cb19692d806b8381820e7ff7dae5ee0691acd46823d8",
+        "gvb-reinigungsvergabe-schnellstart.md": "533699fd375daaaed7196f48859165d70f02b4b303eb7db9adf6e33531ecfb09"
+      }
+    },
+    {
+      "name": "handelsrecht-hgb",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "handelsrecht-hgb-werkstatt.md": "2e85fba7898aab5378105d23b82a86f519c78be67789a85059c69567f216529d",
+        "handelsrecht-hgb-schnellstart.md": "0bcbb637e50ca093478af7d2fa8efb51597e4ec26fa97f549a662415934ff63e"
+      }
+    },
+    {
+      "name": "handelsregister-assistent",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "handelsregister-assistent-werkstatt.md": "de0b784d7bcfb28c92109e08e7a90fccfa1960d58dd27472d443920a38f54364",
+        "handelsregister-assistent-werkstatt.txt": "de0b784d7bcfb28c92109e08e7a90fccfa1960d58dd27472d443920a38f54364",
+        "handelsregister-assistent-schnellstart.md": "b5a3c7b103c44f83d25b93293f411112911f329e686fae8d225b59f995577e28",
+        "handelsregister-assistent-schnellstart.txt": "b5a3c7b103c44f83d25b93293f411112911f329e686fae8d225b59f995577e28",
+        "handelsregister-assistent-hauptproblem.md": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d",
+        "handelsregister-assistent-hauptproblem.txt": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d"
+      }
+    },
+    {
+      "name": "handelsregister-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "handelsregister-praxis-werkstatt.md": "dfdb8b61dce05bd39c9412248e5a44d3828c492dc6099839f21f205f14362335",
+        "handelsregister-praxis-schnellstart.md": "fe24ce4082db502b945c973f03fd99f544c10609c3364f31552108e4f9457548"
+      }
+    },
+    {
+      "name": "handelsvertreterrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "handelsvertreterrecht-werkstatt.md": "f1104215845b4bee7c29f1a9a07d06dac9e9228e4262d06a863bd1fd3d7f79e6",
+        "handelsvertreterrecht-schnellstart.md": "a1024b66a62f1f3b29c8e4c903fe65907db7a2dd9074ff7fba5e53a92a634b70"
+      }
+    },
+    {
+      "name": "hausarbeitenmacher",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "hausarbeitenmacher-werkstatt.md": "94cc8a530c61b749a4f95ef40cc3ea4736f3e8b3ca490e120f55e10a717197cb",
+        "hausarbeitenmacher-schnellstart.md": "71e6809f903c4ca9a466cba162c3138aec87813dfd2e29b04c5f4d7642ac8669"
+      }
+    },
+    {
+      "name": "haushaltsrecht-bho-bund-laender",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "haushaltsrecht-bho-bund-laender-werkstatt.md": "8eaaa196fe8a7a4cab5790ab1320e907fe9178a29338938736301d77427d194c",
+        "haushaltsrecht-bho-bund-laender-schnellstart.md": "d0467d61dfaf022827fa1e490ebefdb75d0400c91fe6a944a826014eafed2a29"
+      }
+    },
+    {
+      "name": "hinweisgeberschutz-compliance",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "hinweisgeberschutz-compliance-werkstatt.md": "da9465e0d0d85a7d7cdc1fa4c97e94199d735e33ccf1fef01643fecbd7e11905",
+        "hinweisgeberschutz-compliance-schnellstart.md": "3f4f9fd71d3f9f09802d7fe90994447039a28fa0dea0e146c173a5bae641411f"
+      }
+    },
+    {
+      "name": "hoai-leistungsphasen-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "hoai-leistungsphasen-praxis-werkstatt.md": "71ef4e5b84a257a2efb8ddc8dff04759de5e7d25ea52add30e57e3fa97df4fd9",
+        "hoai-leistungsphasen-praxis-schnellstart.md": "de84ddecf91af69ca7cf4cabf96c846bf39bacb56ba4fe338a2f33cf14f34881"
+      }
+    },
+    {
+      "name": "hochschulrecht-laender",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "hochschulrecht-laender-werkstatt.md": "360abe57232bf7d74a2bf813a0ca8928ab76a539764caf69bf61eecbe358038d",
+        "hochschulrecht-laender-schnellstart.md": "e0c557ec5fb402a00111c57951be74b69dad0ff07b1f800696a64512b835ca64"
+      }
+    },
+    {
+      "name": "immobilienrechtspraxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "immobilienrechtspraxis-werkstatt.md": "2eb187e274aca68408904f2d0d79f54cd91e94ce7d24dbdf4cdee2463cb2f6c4",
+        "immobilienrechtspraxis-schnellstart.md": "7be82c23a8634e457fa7551060ec5543aa03fab8a4afd316ec6e552597dace58"
+      }
+    },
+    {
+      "name": "influencer-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "influencer-recht-werkstatt.md": "1d3e4ceac4f3ef230124dfe9fa4f958ef1c7f8ddb923a252c3aeb52d6c1a4d4b",
+        "influencer-recht-schnellstart.md": "2ffbe9ace02d5d527d7e40316d536d754ae3e66c817575ded22f7130d843ddaf"
+      }
+    },
+    {
+      "name": "informationsfreiheit-presseauskunft",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "informationsfreiheit-presseauskunft-werkstatt.md": "f2edc70c9d5dc295bbffc3df621c1fc21a9ffd64d2b045d6aa2c82a08baeddea",
+        "informationsfreiheit-presseauskunft-schnellstart.md": "dc363cbeff2899c91211b68e2fd4e33739a91412e864ecd6977ee3a194bc38f2"
+      }
+    },
+    {
+      "name": "insiderrecht-compliance",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "insiderrecht-compliance-werkstatt.md": "1632fc5cd3b14bfcdff9a8d7b7620275ead3d2b34650cdc512ba83a629fd27c9",
+        "insiderrecht-compliance-schnellstart.md": "5d2442b454a7beee1ba849300eedca84c1656a4fe5fee0ee1b3fef9c52148060"
+      }
+    },
+    {
+      "name": "insolvenzanfechtung",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzanfechtung-werkstatt.md": "7850633a5ea911bf54714667bb1774749cce779f13e0180e13c6aec548e09f58",
+        "insolvenzanfechtung-werkstatt.txt": "7850633a5ea911bf54714667bb1774749cce779f13e0180e13c6aec548e09f58",
+        "insolvenzanfechtung-schnellstart.md": "b1312620748c237ce39e654123920ed862df3a099fc0469494180f1febbe6876",
+        "insolvenzanfechtung-schnellstart.txt": "b1312620748c237ce39e654123920ed862df3a099fc0469494180f1febbe6876",
+        "insolvenzanfechtung-hauptproblem.md": "88684838a7bbf0119f4f903f2c059f91b19b01d5bbdb8ae0bb9707a17f78dc38",
+        "insolvenzanfechtung-hauptproblem.txt": "88684838a7bbf0119f4f903f2c059f91b19b01d5bbdb8ae0bb9707a17f78dc38"
+      }
+    },
+    {
+      "name": "insolvenzforderungen-checker",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzforderungen-checker-werkstatt.md": "8e20f0c4a3e7408bb78cd6e21102ebee4dfce7335475d4b343c5b72a6dca2a58",
+        "insolvenzforderungen-checker-werkstatt.txt": "8e20f0c4a3e7408bb78cd6e21102ebee4dfce7335475d4b343c5b72a6dca2a58",
+        "insolvenzforderungen-checker-schnellstart.md": "5583ac2439646d8ab21705291f04df93e7c390dbb15cb428cc8f56ceaaf5a6ea",
+        "insolvenzforderungen-checker-schnellstart.txt": "5583ac2439646d8ab21705291f04df93e7c390dbb15cb428cc8f56ceaaf5a6ea"
+      }
+    },
+    {
+      "name": "insolvenzforderungsanmeldungspruefung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzforderungsanmeldungspruefung-werkstatt.md": "801f6c9fe0b4396f2332fb14f03c2b24ea31eb3b84d2352fd66a594674a41fbb",
+        "insolvenzforderungsanmeldungspruefung-schnellstart.md": "e233dbf0d699616cf29135edbe6a4045a3ed852a8395eaf383f4f39b756f7fd7"
+      }
+    },
+    {
+      "name": "insolvenzplan-starug-planwerkstatt",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzplan-starug-planwerkstatt-werkstatt.md": "815ee632c97fa915a436987e3f67d4a12e87ebd371bb8cbe0c89159ed2edc7ef",
+        "insolvenzplan-starug-planwerkstatt-schnellstart.md": "3b9b803d36cada96885f9ac6a6b4d39ff6440ca71ca62e75aa1c39209035ecc1"
+      }
+    },
+    {
+      "name": "insolvenzrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzrecht-werkstatt.md": "1a66e9db00b0d36363ecb60854e69e02275c1d9676eab807b4927eefb82970b4",
+        "insolvenzrecht-schnellstart.md": "405768541ce1131327b38864dd4e8254c110e4fa5c932990fe9922323aed027f",
+        "insolvenzrecht-hauptproblem.md": "2447162f0bc9ff3a87d37dfc49e3a1d95316d534e6eec20395adda4f8062e3e2"
+      }
+    },
+    {
+      "name": "insolvenzsachbearbeitung",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzsachbearbeitung-werkstatt.md": "74f52df97eed05572e98ce66bf4075abce61eeeb3bde866928f5fbdbb09720ce",
+        "insolvenzsachbearbeitung-werkstatt.txt": "74f52df97eed05572e98ce66bf4075abce61eeeb3bde866928f5fbdbb09720ce",
+        "insolvenzsachbearbeitung-schnellstart.md": "ff092836c13076516d3524a0ed1b8d9f0e7adb3b82232ca9d6b767363bba59df",
+        "insolvenzsachbearbeitung-schnellstart.txt": "ff092836c13076516d3524a0ed1b8d9f0e7adb3b82232ca9d6b767363bba59df",
+        "insolvenzsachbearbeitung-hauptproblem.md": "d341df72b59b1860ad30779c2e4562693953679b0272610e42c808126dd2d797",
+        "insolvenzsachbearbeitung-hauptproblem.txt": "d341df72b59b1860ad30779c2e4562693953679b0272610e42c808126dd2d797"
+      }
+    },
+    {
+      "name": "insolvenzverwaltung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzverwaltung-werkstatt.md": "09dc2e3ac707cdff25c3229151e7b0fb32c578e9cc8f878fa6f508c3f88283bd",
+        "insolvenzverwaltung-schnellstart.md": "6d525ddfe679407febdf98da4513b8b1a79c140bcbf16bd135554ebc3aa6c79d"
+      }
+    },
+    {
+      "name": "insolvenzverwaltung-berichtsersteller",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "insolvenzverwaltung-berichtsersteller-werkstatt.md": "17040bd0cc2c656d119bce0a1767ed00aa0059a99285ae6f3eb8fc76414f01dd",
+        "insolvenzverwaltung-berichtsersteller-werkstatt.txt": "17040bd0cc2c656d119bce0a1767ed00aa0059a99285ae6f3eb8fc76414f01dd",
+        "insolvenzverwaltung-berichtsersteller-schnellstart.md": "6119ec119c8ffaed140ce0bc90ca532317d5e1955e492a35b04f6d832d12f3b5",
+        "insolvenzverwaltung-berichtsersteller-schnellstart.txt": "6119ec119c8ffaed140ce0bc90ca532317d5e1955e492a35b04f6d832d12f3b5"
+      }
+    },
+    {
+      "name": "internal-investigations-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "internal-investigations-praxis-werkstatt.md": "96152e785d1f4483654773953f91d74cda4c45dc06af277ce3b4a8069f36d4fc",
+        "internal-investigations-praxis-schnellstart.md": "cd2f699cbaddc6965e2d63fc337a0eb8f586c0172bec61307076f022c893d953"
+      }
+    },
+    {
+      "name": "internationales-handelsrecht-lex-mercatoria",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "internationales-handelsrecht-lex-mercatoria-werkstatt.md": "1113a7e8ce1736d8db4cae9a83501651bda5d966df576777f93fc71dace8b40a",
+        "internationales-handelsrecht-lex-mercatoria-schnellstart.md": "61df8a42548f63090b12cb9fbc7a80f496ea71c9bded5717376c9b16096b7f4e"
+      }
+    },
     {
       "name": "jugendmedienschutz-und-medienangebote",
       "variants": [
         "native",
         "portable"
       ],
-      "prompts": [
-        "jugendmedienschutz-und-medienangebote-werkstatt.md",
-        "jugendmedienschutz-und-medienangebote-werkstatt.txt",
-        "jugendmedienschutz-und-medienangebote-schnellstart.md",
-        "jugendmedienschutz-und-medienangebote-schnellstart.txt"
-      ]
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "jugendmedienschutz-und-medienangebote-werkstatt.md": "7daff714f142a231c686385775eb9e7ef9ca2060afa00a76f0b92f43820cd93e",
+        "jugendmedienschutz-und-medienangebote-werkstatt.txt": "7daff714f142a231c686385775eb9e7ef9ca2060afa00a76f0b92f43820cd93e",
+        "jugendmedienschutz-und-medienangebote-schnellstart.md": "b3caedeb9f90f8daf9e319c7ca33ff5582a450834845a9f5d66fa95922505d8c",
+        "jugendmedienschutz-und-medienangebote-schnellstart.txt": "b3caedeb9f90f8daf9e319c7ca33ff5582a450834845a9f5d66fa95922505d8c"
+      }
     },
     {
-      "name": "agb-recht-pruefer",
+      "name": "jura-in-einfacher-sprache",
       "variants": [
         "native"
       ],
-      "prompts": [
-        "agb-recht-pruefer-werkstatt.md",
-        "agb-recht-pruefer-schnellstart.md"
-      ]
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "jura-in-einfacher-sprache-werkstatt.md": "ae46c027acf925b30c6b64970ba55419b9addf21ae27a8485dd164f8921f269a",
+        "jura-in-einfacher-sprache-schnellstart.md": "536cb6069136f47699acaddff8426c5b977a32a3e2a4339e426dfe75eaba2fd4"
+      }
+    },
+    {
+      "name": "jurastudium",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "jurastudium-werkstatt.md": "8d9f3170d0364f375619065adf488ec3b690e0fb61747f7a7cba9b2f089a1517",
+        "jurastudium-schnellstart.md": "7d2bd2aef398f79729aa83f029e0791cdc72edd6faa711172e5fbcad2708026c"
+      }
+    },
+    {
+      "name": "juristische-praesentationen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "juristische-praesentationen-werkstatt.md": "189614d1077de13af0de567804378fc90cb5653bd99b4d3050a8ec9bb16a3ef4",
+        "juristische-praesentationen-schnellstart.md": "76272a712102f2e546a7db84d34482380a4a0aa87d992a14d57edf6c6c88fbd0"
+      }
+    },
+    {
+      "name": "juristische-presseberichterstattung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "juristische-presseberichterstattung-werkstatt.md": "b76c2195988a81676c0bd1d62ca64075aa4757e349d6510d495a4341064b12b4",
+        "juristische-presseberichterstattung-schnellstart.md": "f654e73f4168e23a227a0717abe54617355dbee15f60b4e5805593459139fb2e"
+      }
+    },
+    {
+      "name": "juristische-sprache-deutsch-als-zweitsprache",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "juristische-sprache-deutsch-als-zweitsprache-werkstatt.md": "24b3ebf432ba6bb367e24556cb348d5eb21435143757e6b15b8f05e8e7b650f4",
+        "juristische-sprache-deutsch-als-zweitsprache-schnellstart.md": "71dca2056305660aac432e345d2e61ec1379c0c9d344a96f1cc2fdd7cb175a7a"
+      }
+    },
+    {
+      "name": "jveg-kostenpruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "jveg-kostenpruefer-werkstatt.md": "af9d24824d64a987c04d63d0dd89633f17730de58f1a170c42dc62588d022c3f",
+        "jveg-kostenpruefer-schnellstart.md": "1086511f7c8cfe51dea491a479e2e20c45855e40d62507631c8ab78cdb33cd20"
+      }
+    },
+    {
+      "name": "kanzlei-allgemein",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kanzlei-allgemein-werkstatt.md": "1c343b37749f2c97529126688b66a7813b46877d1ee070e24412d436b8ce30ad",
+        "kanzlei-allgemein-schnellstart.md": "b5a9f180b938f3c1c930ddcb5835888843e387a8e2ed1a56f8e6ac73371718ea"
+      }
+    },
+    {
+      "name": "kanzlei-builder-hub",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kanzlei-builder-hub-werkstatt.md": "df8ca694cb53c942e57fb0e8696135d26d704f6758bc648221edc62b2bb95bbb",
+        "kanzlei-builder-hub-schnellstart.md": "83286940ccd959916220e26e7dc5aeaf641a22d2a72fb5d823f1159ca4f81ded"
+      }
+    },
+    {
+      "name": "kanzlei-management",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kanzlei-management-werkstatt.md": "c1a7b42c22326bd45480fee4ac3170c5db3b8fc6484a4978cac5c975b707f50c",
+        "kanzlei-management-schnellstart.md": "33e1d0ade01b79b297b28dc1200326e5d41a37e319d49e5423c417caee55be54"
+      }
+    },
+    {
+      "name": "kanzlei-mandant-lifecycle",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kanzlei-mandant-lifecycle-werkstatt.md": "e4265eee7493266e3f105d9de27baae4258caf646ccfc9b62f277c47dcc3f17e",
+        "kanzlei-mandant-lifecycle-schnellstart.md": "478bcbb89e743aea19d272286c66edd8f5dad554c4627d5a43033da956368467"
+      }
+    },
+    {
+      "name": "kanzlei-website-redaktion",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "kanzlei-website-redaktion-werkstatt.md": "3be05265e1fa87a1e122afec74d3c769b6cc3cc3bb70e64445c8423464c75469",
+        "kanzlei-website-redaktion-schnellstart.md": "fe5612ab339d25fa9e16b7df791e0eca48465a1e8c24add66778c84b4e6973a3"
+      }
+    },
+    {
+      "name": "kartellrecht-marktabgrenzung-pruefung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kartellrecht-marktabgrenzung-pruefung-werkstatt.md": "dbff5c918091cb682e1afbcb33d862894900d3962fd79094fd0a8b8a4948d081",
+        "kartellrecht-marktabgrenzung-pruefung-schnellstart.md": "c3127538ccedfd1cd0f43d0d20514b5fec14391140a678e6f671cb5972ac0999"
+      }
+    },
+    {
+      "name": "ki-governance",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-governance-werkstatt.md": "cb03235fa3840ab5afdf325fe2444122c480cb11b65f5581b38f5e931b9d6e60",
+        "ki-governance-schnellstart.md": "4d33000d7095c10eb13ce9eb4e73d851b680bb1ce77b63420b96f58717d67421",
+        "ki-governance-schnellstart.txt": "4d33000d7095c10eb13ce9eb4e73d851b680bb1ce77b63420b96f58717d67421"
+      }
+    },
+    {
+      "name": "ki-halluzinationsreduzierer",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-halluzinationsreduzierer-werkstatt.md": "23ba2bae990744d43271299ba289bd1ae982dfdc3c229b1a44b7c56343331f77",
+        "ki-halluzinationsreduzierer-werkstatt.txt": "23ba2bae990744d43271299ba289bd1ae982dfdc3c229b1a44b7c56343331f77",
+        "ki-halluzinationsreduzierer-schnellstart.md": "6ec9cbbfaffb6d86e54cd92e92f5c56d2fdfb617245b3af473a81403811f775d",
+        "ki-halluzinationsreduzierer-schnellstart.txt": "6ec9cbbfaffb6d86e54cd92e92f5c56d2fdfb617245b3af473a81403811f775d",
+        "ki-halluzinationsreduzierer-hauptproblem.md": "cfc3e46772b0a55ed6640f3ece31cfc16815b761b0d08db181537975f547b382",
+        "ki-halluzinationsreduzierer-hauptproblem.txt": "cfc3e46772b0a55ed6640f3ece31cfc16815b761b0d08db181537975f547b382"
+      }
+    },
+    {
+      "name": "ki-native-kanzlei",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-native-kanzlei-werkstatt.md": "56485dfd40f5d941b6f0d8a8134cce4386b5364e0806852efbc5ecd9e5b18c86",
+        "ki-native-kanzlei-werkstatt.txt": "56485dfd40f5d941b6f0d8a8134cce4386b5364e0806852efbc5ecd9e5b18c86",
+        "ki-native-kanzlei-schnellstart.md": "e35234383ddbe7d342eeed6964813c24632d9b4f3700da0ba71e6b9d9cfa8095",
+        "ki-native-kanzlei-schnellstart.txt": "e35234383ddbe7d342eeed6964813c24632d9b4f3700da0ba71e6b9d9cfa8095",
+        "ki-native-kanzlei-hauptproblem.md": "06cab7c33ec546afa41611436ac0bbd5e767dc21e5f9f6b2a0c2e114581ec9ef",
+        "ki-native-kanzlei-hauptproblem.txt": "06cab7c33ec546afa41611436ac0bbd5e767dc21e5f9f6b2a0c2e114581ec9ef"
+      }
+    },
+    {
+      "name": "ki-richtlinie-kanzleien",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-richtlinie-kanzleien-werkstatt.md": "f169554da8a436dc8a706c97d87a948b9658f75461d8f488fdbcdadad38276ec",
+        "ki-richtlinie-kanzleien-schnellstart.md": "4359e4c5dacd892a5a6a5f57ab881cf82a26c365e8b7e15508b9dfddd7856078",
+        "ki-richtlinie-kanzleien-schnellstart.txt": "4359e4c5dacd892a5a6a5f57ab881cf82a26c365e8b7e15508b9dfddd7856078"
+      }
+    },
+    {
+      "name": "ki-verordnung-hochrisiko-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-verordnung-hochrisiko-pruefer-werkstatt.md": "6e089ef994817845d0c497c8402a7449c7c2f4fca03d04fe0c7e30ddb7e15da3",
+        "ki-verordnung-hochrisiko-pruefer-werkstatt.txt": "6e089ef994817845d0c497c8402a7449c7c2f4fca03d04fe0c7e30ddb7e15da3",
+        "ki-verordnung-hochrisiko-pruefer-schnellstart.md": "43d13b185f643e27733e13ef7ffaf6fff8597e1fbdce5b84d0479b6f6a70d00a",
+        "ki-verordnung-hochrisiko-pruefer-schnellstart.txt": "43d13b185f643e27733e13ef7ffaf6fff8597e1fbdce5b84d0479b6f6a70d00a",
+        "ki-verordnung-hochrisiko-pruefer-hauptproblem.md": "37ee0a35c6bd21c1e63ff6c094b3d229366d48f2408ec256f148539384e81425",
+        "ki-verordnung-hochrisiko-pruefer-hauptproblem.txt": "37ee0a35c6bd21c1e63ff6c094b3d229366d48f2408ec256f148539384e81425"
+      }
+    },
+    {
+      "name": "ki-verordnung-konformitaet",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-verordnung-konformitaet-werkstatt.md": "8a25467f7724df74c4930dc8cdd68224ac0074db2bb0c2ccdd52cd610a89106c",
+        "ki-verordnung-konformitaet-werkstatt.txt": "8a25467f7724df74c4930dc8cdd68224ac0074db2bb0c2ccdd52cd610a89106c",
+        "ki-verordnung-konformitaet-schnellstart.md": "8eb5b8a471f4f3d99761671a45c176608c341d3d28c26449198a9596cda0d94f",
+        "ki-verordnung-konformitaet-schnellstart.txt": "8eb5b8a471f4f3d99761671a45c176608c341d3d28c26449198a9596cda0d94f",
+        "ki-verordnung-konformitaet-hauptproblem.md": "c365859747b54f27bf8692b543593234fcabc1e3249577ea930a7033764f2aa0",
+        "ki-verordnung-konformitaet-hauptproblem.txt": "c365859747b54f27bf8692b543593234fcabc1e3249577ea930a7033764f2aa0"
+      }
+    },
+    {
+      "name": "ki-verordnung-register-meldungen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-verordnung-register-meldungen-werkstatt.md": "df50082284be36951854e7473b1bd0f88a1f7a3c90a725676aed5ce80804d659",
+        "ki-verordnung-register-meldungen-werkstatt.txt": "df50082284be36951854e7473b1bd0f88a1f7a3c90a725676aed5ce80804d659",
+        "ki-verordnung-register-meldungen-schnellstart.md": "224e8cd9f8a4ef52ba734dc26e1e4b62ce944944f4b158e3dfa3078457cab54c",
+        "ki-verordnung-register-meldungen-schnellstart.txt": "224e8cd9f8a4ef52ba734dc26e1e4b62ce944944f4b158e3dfa3078457cab54c",
+        "ki-verordnung-register-meldungen-hauptproblem.md": "41a5e4dc2205593c7b2e978e3a177f96781feae7af770c666f527da7ab73b9f7",
+        "ki-verordnung-register-meldungen-hauptproblem.txt": "41a5e4dc2205593c7b2e978e3a177f96781feae7af770c666f527da7ab73b9f7"
+      }
+    },
+    {
+      "name": "ki-verordnung-transparenzpruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-verordnung-transparenzpruefer-werkstatt.md": "a09a6151561321bd0989f8a10f5544894e783eecafc5cdf59c6f456e4200d4cb",
+        "ki-verordnung-transparenzpruefer-werkstatt.txt": "a09a6151561321bd0989f8a10f5544894e783eecafc5cdf59c6f456e4200d4cb",
+        "ki-verordnung-transparenzpruefer-schnellstart.md": "ecf6fea21de8ec4fc24b3cac8f52375d70eacc5a5eb37cf5d412158871d538a2",
+        "ki-verordnung-transparenzpruefer-schnellstart.txt": "ecf6fea21de8ec4fc24b3cac8f52375d70eacc5a5eb37cf5d412158871d538a2",
+        "ki-verordnung-transparenzpruefer-hauptproblem.md": "77f6ceefcfbc91d98e594771eed0a70bad93bb72fa5ec5a5581df2d7121d36c8",
+        "ki-verordnung-transparenzpruefer-hauptproblem.txt": "77f6ceefcfbc91d98e594771eed0a70bad93bb72fa5ec5a5581df2d7121d36c8"
+      }
+    },
+    {
+      "name": "ki-verordnung-verbotene-praktiken",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-verordnung-verbotene-praktiken-werkstatt.md": "87f8c6c3c33f4bfd260bcfb111dfe2c3ea6acdd4d325bdb03521f7969c4a34c6",
+        "ki-verordnung-verbotene-praktiken-werkstatt.txt": "87f8c6c3c33f4bfd260bcfb111dfe2c3ea6acdd4d325bdb03521f7969c4a34c6",
+        "ki-verordnung-verbotene-praktiken-schnellstart.md": "2886b416305bfb6acc28ccbeb908d6f927bc25fe047faeb7f8114590808e2edb",
+        "ki-verordnung-verbotene-praktiken-schnellstart.txt": "2886b416305bfb6acc28ccbeb908d6f927bc25fe047faeb7f8114590808e2edb",
+        "ki-verordnung-verbotene-praktiken-hauptproblem.md": "10f512ac61259fd50574f75e2e78e2bd38066fea3bf2273587b57fb6f311db75",
+        "ki-verordnung-verbotene-praktiken-hauptproblem.txt": "10f512ac61259fd50574f75e2e78e2bd38066fea3bf2273587b57fb6f311db75"
+      }
     },
     {
       "name": "ki-vo-ai-act-pruefer",
       "variants": [
         "native"
       ],
-      "prompts": [
-        "ki-vo-ai-act-pruefer-werkstatt.md",
-        "ki-vo-ai-act-pruefer-werkstatt.txt",
-        "ki-vo-ai-act-pruefer-schnellstart.md",
-        "ki-vo-ai-act-pruefer-schnellstart.txt",
-        "ki-vo-ai-act-pruefer-hauptproblem.md",
-        "ki-vo-ai-act-pruefer-hauptproblem.txt"
-      ]
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ki-vo-ai-act-pruefer-werkstatt.md": "c39868ad8d9de42da1d0e2f3d4dcf6b6451f0a87bb60267eb1116bda5f858771",
+        "ki-vo-ai-act-pruefer-werkstatt.txt": "c39868ad8d9de42da1d0e2f3d4dcf6b6451f0a87bb60267eb1116bda5f858771",
+        "ki-vo-ai-act-pruefer-schnellstart.md": "313fb811a4577e738048d0eb6cd506dd44475c42cb3c7b416794f1a6c343d415",
+        "ki-vo-ai-act-pruefer-schnellstart.txt": "313fb811a4577e738048d0eb6cd506dd44475c42cb3c7b416794f1a6c343d415",
+        "ki-vo-ai-act-pruefer-hauptproblem.md": "b1ade8ed2488e98a0de941f6657b9fb45970b1ec2ab4c2d070195fe32b61a5ed",
+        "ki-vo-ai-act-pruefer-hauptproblem.txt": "b1ade8ed2488e98a0de941f6657b9fb45970b1ec2ab4c2d070195fe32b61a5ed"
+      }
+    },
+    {
+      "name": "kommunale-haftpflicht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kommunale-haftpflicht-werkstatt.md": "02105407abf228e4c1d123f5c066dbd42597fb6f8d623038edc7d5a33043c56a",
+        "kommunale-haftpflicht-werkstatt.txt": "02105407abf228e4c1d123f5c066dbd42597fb6f8d623038edc7d5a33043c56a",
+        "kommunale-haftpflicht-schnellstart.md": "96267b2246b1f2f20379cde382b5e366402900e63389a4d8f0d0ed73afe42c25",
+        "kommunale-haftpflicht-schnellstart.txt": "96267b2246b1f2f20379cde382b5e366402900e63389a4d8f0d0ed73afe42c25",
+        "kommunale-haftpflicht-hauptproblem.md": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
+        "kommunale-haftpflicht-hauptproblem.txt": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f"
+      }
+    },
+    {
+      "name": "kommunalrecht-laender",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kommunalrecht-laender-werkstatt.md": "0de93b61b56f9f7bad810f844c66d0da03daf69fcc9d6923050c9f16b945e71c",
+        "kommunalrecht-laender-schnellstart.md": "8e515d49c33819d61c6cd2aee9a1afc187697cae421e0bba2c24c452fa071fff"
+      }
+    },
+    {
+      "name": "konkurrenten-rechtsschutz",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "konkurrenten-rechtsschutz-werkstatt.md": "c5cef3fb897305e60a03c58837e4c8dcd509583027a4eb2f6bd54bdae4695190",
+        "konkurrenten-rechtsschutz-schnellstart.md": "53450b9e24c39b3592cfa10a27f26858549958baf20fa13c748882a935b5c939"
+      }
+    },
+    {
+      "name": "krankenhaus-it-ki",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "krankenhaus-it-ki-werkstatt.md": "2cbe673c1ac9625ace56ea8a80d654ec6566a40a3968734e6a52304fc9c84711",
+        "krankenhaus-it-ki-werkstatt.txt": "2cbe673c1ac9625ace56ea8a80d654ec6566a40a3968734e6a52304fc9c84711",
+        "krankenhaus-it-ki-schnellstart.md": "2107b577294dbe5a5d451ab2e23945671f31fab7b2359de3c09b6aee9b6a601e",
+        "krankenhaus-it-ki-schnellstart.txt": "2107b577294dbe5a5d451ab2e23945671f31fab7b2359de3c09b6aee9b6a601e",
+        "krankenhaus-it-ki-hauptproblem.md": "1ba7bd1e1b90348373711188d28bb3c447a378659aaae7e6ab1646be9845de55",
+        "krankenhaus-it-ki-hauptproblem.txt": "1ba7bd1e1b90348373711188d28bb3c447a378659aaae7e6ab1646be9845de55"
+      }
+    },
+    {
+      "name": "krankenhausrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "krankenhausrecht-werkstatt.md": "f765423b3b58e91af5a49c6de7c1e2df0aa1d54559cfbcb3230a1009cf2106c4",
+        "krankenhausrecht-schnellstart.md": "b9ebbde1f167d1c03df9d82e9c600adae76ad5fb3daaa402c997283266b771fc"
+      }
+    },
+    {
+      "name": "krankenkassenrecht-krankenversicherung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "krankenkassenrecht-krankenversicherung-werkstatt.md": "bc3d6726e66099d67592dc0632d7a080274a12c03704d1bb43e447a02c68b03b",
+        "krankenkassenrecht-krankenversicherung-schnellstart.md": "2c88a591531a36d52124b0b9b4809bff2de0a211027fa44cfeecb7e9ef8c5bb8"
+      }
+    },
+    {
+      "name": "kriegsdienstverweigerung-wehrdienst",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "kriegsdienstverweigerung-wehrdienst-werkstatt.md": "22b4c1a363d8d929edac191efb9b70982aaae9b1b5539aa22b68785a956644ca",
+        "kriegsdienstverweigerung-wehrdienst-schnellstart.md": "602f20fb2d1846f24423a51d4eaba548655b4a332a24cb22e2161a004398b9f8"
+      }
+    },
+    {
+      "name": "krisenfrueherkennung-starug",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "krisenfrueherkennung-starug-werkstatt.md": "7db22f4a9db037dfd5f4d19a32a14ffdb3acd45e90f783c06d74ac93722d85c3",
+        "krisenfrueherkennung-starug-schnellstart.md": "3ea51d268bd402f761e605f4a170cf754276e70ceabb9ad726b27ef29fa70015"
+      }
+    },
+    {
+      "name": "leasingrecht-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "leasingrecht-praxis-werkstatt.md": "9ee7ebdc410a69aaebdab467f4fc92cc992877a86d36909367cb60fd55303b24",
+        "leasingrecht-praxis-schnellstart.md": "9d5fc86fb04052a9264ee46f4a3cc578d9ad1cab0437e06d16c673cc50f75c93"
+      }
+    },
+    {
+      "name": "legistik-werkstatt",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "legistik-werkstatt-werkstatt.md": "a6a8f39a1999881ec28665ae0dce498d7a99dd77e0511e2cda03d6bdd539cb62",
+        "legistik-werkstatt-schnellstart.md": "a4b76a0617739dec75a36c72dcb68ad4994a21262a8b65d612dbf2e7bdf51d34"
+      }
+    },
+    {
+      "name": "liquiditaetsplanung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "liquiditaetsplanung-werkstatt.md": "10d2cfc1a62aedd8f4298ca8f8c27aecca80dfb657526d685a2e8c65b44dd248",
+        "liquiditaetsplanung-schnellstart.md": "e69559e768e30574ec523630a40aaab6b5b8d26342fbcc19960d7a0d0072fbf4"
+      }
+    },
+    {
+      "name": "lizenzvertragsersteller",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "lizenzvertragsersteller-werkstatt.md": "558e6fb53305519055817b273995351d9202aded12649bb42341bf3dc610333f",
+        "lizenzvertragsersteller-schnellstart.md": "3bf50b25744fe0ec6369c0623f640dce8714697f528d33cd6a6c096959069d05"
+      }
+    },
+    {
+      "name": "lobbyregister-bundestag",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "lobbyregister-bundestag-werkstatt.md": "bfe81bb28b4f43bc63dfbb6f302258b5bbdccb5c1811c94e5c3c47a452bc7419",
+        "lobbyregister-bundestag-schnellstart.md": "79e7b54a3ea616458ca8f7072ee43a807c824bc22fcebe48845c28aa47df2998"
+      }
+    },
+    {
+      "name": "luftrecht-flughafenrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "luftrecht-flughafenrecht-werkstatt.md": "e2513f158e8b69dde322d984f219aa2b19d8e701592c5f126821d1e94c47da4f",
+        "luftrecht-flughafenrecht-schnellstart.md": "3ad35a1ec994339dec0de637c3df83b178ae4cc5310343be8caebed0c48d5a96"
+      }
+    },
+    {
+      "name": "mandantenanfragen-assistent",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "mandantenanfragen-assistent-werkstatt.md": "8bf2a39650b72549c08800e49cb3c275c6d356e9106c41fd249c836f7a099f7d",
+        "mandantenanfragen-assistent-schnellstart.md": "f4f2580fe3695a698eab9be9ee282c897dbda72712ad7e356d7a21e36985c9df"
+      }
+    },
+    {
+      "name": "markenamt-assistent",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "markenamt-assistent-werkstatt.md": "fb7752c2e7ed39878c4b3f9bf9ffffc573355a089fdf787570e5a2b06e5c99aa",
+        "markenamt-assistent-werkstatt.txt": "fb7752c2e7ed39878c4b3f9bf9ffffc573355a089fdf787570e5a2b06e5c99aa",
+        "markenamt-assistent-schnellstart.md": "b0195a9d90e57814c7d60a13c47f63e79200de659a9681f72fdcf2bb1e0faaa2",
+        "markenamt-assistent-schnellstart.txt": "b0195a9d90e57814c7d60a13c47f63e79200de659a9681f72fdcf2bb1e0faaa2",
+        "markenamt-assistent-hauptproblem.md": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc",
+        "markenamt-assistent-hauptproblem.txt": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc"
+      }
+    },
+    {
+      "name": "markenrecht-fashion-luxus",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "markenrecht-fashion-luxus-werkstatt.md": "0c260b0e3f1fcb28b5d4a16a62b9fed993e083fec8017337f8ddc28d5ee00e00",
+        "markenrecht-fashion-luxus-schnellstart.md": "3117d681ae7dbeee543369d360d4645f93e6f89149b9d95b9b1cb570c047926d"
+      }
+    },
+    {
+      "name": "meinungspruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "meinungspruefer-werkstatt.md": "1f029514cda9883d4f71078d95af85ce00cbcba7b6ccfed6291f131666018dc3",
+        "meinungspruefer-schnellstart.md": "1683d9c55a5a8e3e0c85bb2623b5213905438346e620d506cf5bca4cc06b3f44"
+      }
+    },
+    {
+      "name": "memorandums-ersteller",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "memorandums-ersteller-werkstatt.md": "9bdec5e5e5922149cbce9683307fabc467039dace95a292c0509789635a45728",
+        "memorandums-ersteller-schnellstart.md": "2ff7ae8b6b64bb3b8daa8574d561326bf8c281f62b536ea38b2a500bd9761aa7"
+      }
+    },
+    {
+      "name": "methodenlehre-buergerliches-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "methodenlehre-buergerliches-recht-werkstatt.md": "736901e61fded994533cc514ea1f6b596a0aa3209a5c6aa85bcd92308cdb0e4a",
+        "methodenlehre-buergerliches-recht-schnellstart.md": "18e2ff9dbff40fec9ad910384b44245a4a2605a84ce7646c268ebad3f51848d5"
+      }
+    },
+    {
+      "name": "mietchecker",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "mietchecker-werkstatt.md": "3a3f3f32c61da748799a629f3a06ba2bc7312b62091f197eac6ecdb4f3bd92d1",
+        "mietchecker-schnellstart.md": "275d83079660052b797c4d0b2fedb03782e8be70b3223ec19af9cec1b70c9363"
+      }
+    },
+    {
+      "name": "mietrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "mietrecht-werkstatt.md": "7c5ca10e9aed70697c04b824cbe25627c408c57818a7c3c45852534d87a634fe",
+        "mietrecht-schnellstart.md": "a2f423a204c86e00557664edff669de9c3e6aada86afc1e94b35f616ddb644f4"
+      }
+    },
+    {
+      "name": "mittelstand-corporate-ma",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "mittelstand-corporate-ma-werkstatt.md": "507797342bfad2eeacf4986ff462edda48150463dcaea81a52b303807dddb7d4",
+        "mittelstand-corporate-ma-schnellstart.md": "6f4c181222b2cf0fd61dea191af82ce548376a9edf32c230b21b64779fe41d54"
+      }
+    },
+    {
+      "name": "nachbarschaftsstreit-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "nachbarschaftsstreit-pruefer-werkstatt.md": "cdc24794824b2c8a953904add6b76c3ec3be7ecb078eb739d38e065fda811d50",
+        "nachbarschaftsstreit-pruefer-schnellstart.md": "3c6c0a95415afcc9512883763cd4d0ed3c4deef2331f6119377344460cd11217"
+      }
+    },
+    {
+      "name": "nda-abgleich",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "nda-abgleich-werkstatt.md": "076399a3665b96f2a7e61003d4f194a71b326008a3a45f8438b6892f6ad7e671",
+        "nda-abgleich-schnellstart.md": "fc88c49c185db121e5adc38e5b651b4d81314aaddc3cea1fa9ff79e2407f2004"
+      }
+    },
+    {
+      "name": "nda-verschwiegenheit-generator-checker",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "nda-verschwiegenheit-generator-checker-werkstatt.md": "d7ee09a22ec06021d84f688e513816d8bc598e3e3d1fbfddf9f10e576f8dbc99",
+        "nda-verschwiegenheit-generator-checker-schnellstart.md": "bc60178e8463ebc75ad0f3019a89f904f5bd3e70e1b2a7ead31e554d4e898e65"
+      }
+    },
+    {
+      "name": "nis2-cybersecurity-compliance",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "nis2-cybersecurity-compliance-werkstatt.md": "d9bacf6c0b71d23e66cdf499f3125dafb79da21fb6f22cd1e598550d44bab2e0",
+        "nis2-cybersecurity-compliance-schnellstart.md": "904a4fcc89d1d23d2a071b0f431f4ef5eeb72c21cd2acdae8762ea5f55ab10c9"
+      }
+    },
+    {
+      "name": "normenkontrolle-bauleitplanung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "normenkontrolle-bauleitplanung-werkstatt.md": "73bba80c52274970d331799a47425ab7508e349c10a1ef6d240ee6a499c1a181",
+        "normenkontrolle-bauleitplanung-schnellstart.md": "592896b9081692572505fdff3a91814677f392de6f0c1d2b37942bc2c2e37a67"
+      }
+    },
+    {
+      "name": "normenkontrollrat-nkr",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "normenkontrollrat-nkr-werkstatt.md": "f9534efe502cd3450606a9e0a17a88a4dbd6a3fac9de6350f068eaccdf3f2bb7",
+        "normenkontrollrat-nkr-schnellstart.md": "f3fc71bea5e9dff365aec41ead9e5df11d911aeb83859921f1989f2d65361d80"
+      }
+    },
+    {
+      "name": "notariat-alltag",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "notariat-alltag-werkstatt.md": "f409b79d3ab176d335cfd95ea932b971d7d81a500cda83cd3b50c110af270492",
+        "notariat-alltag-schnellstart.md": "176bcb1e7cc034b1e7d43a05676c6dec1eb631ce1b7943b334beaf38ca68389c"
+      }
+    },
+    {
+      "name": "oeffentliches-wirtschaftsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "oeffentliches-wirtschaftsrecht-werkstatt.md": "c5f12adddfc99aa2c4e3524acacde70f08eddaa5316e92f68ed0559a80e2abcd",
+        "oeffentliches-wirtschaftsrecht-schnellstart.md": "6299cd719863513993748055898623f163eb1902738a7919f15f12713e1ba3b9"
+      }
+    },
+    {
+      "name": "ordnungswidrigkeitenrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "ordnungswidrigkeitenrecht-werkstatt.md": "c8469f569f88aff5e56cb957deba0ffe56565bcafd61a22a84fef33ce6973822",
+        "ordnungswidrigkeitenrecht-schnellstart.md": "7302ea39fa63a1dbad96a7d275cb0f4c6ad6b9074ba131dcb1b14bd226e1ffe1"
+      }
+    },
+    {
+      "name": "parteienrecht-parteiorganisation",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "parteienrecht-parteiorganisation-werkstatt.md": "12b01642e781bac2c18282c9ade3eb1f1bd0b3927a0aac1cbeb920065f5c2757",
+        "parteienrecht-parteiorganisation-schnellstart.md": "f8b08ba2ca7ea27221369bacaad97439c5e30b8ef536314ba859755f3c35a7c4"
+      }
+    },
+    {
+      "name": "patentrecherche",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "patentrecherche-werkstatt.md": "d80027104707bf0c895835f768a528b8ebd451fa2e757c9d246b085b6e0672c2",
+        "patentrecherche-schnellstart.md": "f52c4b71d88355e9c4c7c20e51cb0a2a67f2257d8f68bbbdfbaed0d60c041173"
+      }
+    },
+    {
+      "name": "patentrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "patentrecht-werkstatt.md": "1b97e7c724fb48820e3871136be026d17573d7d4ff10e46c35bc454906a82b87",
+        "patentrecht-schnellstart.md": "969ae59eb540cdacbb9267ab05ccd41ae4ba49bbd0156fd03467760f9c7164fc"
+      }
+    },
+    {
+      "name": "pflegerecht-sgb-xi",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "pflegerecht-sgb-xi-werkstatt.md": "57b7f0064d851537906c49d7a4c526fa0c182212dc82999a2277135fdf92158a",
+        "pflegerecht-sgb-xi-schnellstart.md": "dc24e57ee56b6c38e5bc9b99e2ab733e1f7976e258fac332ac61e6a358a9dce1"
+      }
+    },
+    {
+      "name": "phishing-vorfall-pruefer",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "phishing-vorfall-pruefer-werkstatt.md": "a4275a896458c825eca0e9fe3a620ed8d9de2f3089ab5ae831c8f668e517a283",
+        "phishing-vorfall-pruefer-schnellstart.md": "658734dd11cdb8dc120769b5a48624b0b6413746642a2a34d63b857b6a34c2ad"
+      }
+    },
+    {
+      "name": "playbook-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "playbook-pruefer-werkstatt.md": "ed45ba7080bca418982b62b1c87531b1a9f9640c37554ec851df550213d333aa",
+        "playbook-pruefer-werkstatt.txt": "ed45ba7080bca418982b62b1c87531b1a9f9640c37554ec851df550213d333aa",
+        "playbook-pruefer-schnellstart.md": "4286ff3931782deb49026046308572d1af2325b06a944021b3e897f3ef86c1d5",
+        "playbook-pruefer-schnellstart.txt": "4286ff3931782deb49026046308572d1af2325b06a944021b3e897f3ef86c1d5",
+        "playbook-pruefer-hauptproblem.md": "7bc2a943d6db61843030c7d3cb242f00983fed5626588a8bceb65736ea571083",
+        "playbook-pruefer-hauptproblem.txt": "7bc2a943d6db61843030c7d3cb242f00983fed5626588a8bceb65736ea571083"
+      }
+    },
+    {
+      "name": "preussisches-allgemeines-landrecht-pralr",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "preussisches-allgemeines-landrecht-pralr-werkstatt.md": "f7370db4aee8c1613b1a12c73077c4a814c3ce2ee0b92226f0355b22939b750f",
+        "preussisches-allgemeines-landrecht-pralr-schnellstart.md": "44f5ddc93ba8e01dd6d7e7c17a762386e2ff9f964c7aaf5ffa0725ceacd197e2"
+      }
+    },
+    {
+      "name": "private-equity-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "private-equity-praxis-werkstatt.md": "df4ab58da1ac5d19dad3b45101a5a043ea87088da4d839781a1a300fb2565b64",
+        "private-equity-praxis-schnellstart.md": "56459a4647bdd7f020fe936998005091dbc0e47341156a67cc0e3e06c04b8692"
+      }
+    },
+    {
+      "name": "produktrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "produktrecht-werkstatt.md": "afa4b659c1383d06e8f4deb7658d406590a0e886b8b563baade252eb0021d0f2",
+        "produktrecht-schnellstart.md": "b05e95564f33d4362b902a276e7d23e46ce2b85dc7d3ac47f79029e2ad231326"
+      }
+    },
+    {
+      "name": "prozessrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "prozessrecht-werkstatt.md": "074e7f043047336060f307233a96ffe2bc1a7482434c6db00b1fe05d62e4abba",
+        "prozessrecht-schnellstart.md": "f41f6b7c25d36369f5e5e398f7e1a72ad357dd80044a31924a4d4e32eae76fa5"
+      }
+    },
+    {
+      "name": "pruefungsrecht-hochschule",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "pruefungsrecht-hochschule-werkstatt.md": "19734b6eaa1736cc3d50d115b2392afcd70a4a2a96f0a228ce130a056e1af37a",
+        "pruefungsrecht-hochschule-schnellstart.md": "630e5da3d3f40a528ac47ebf7e2eedc73cb0c29b5d4b039a62fea02220e51f6f"
+      }
+    },
+    {
+      "name": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md": "20880595dc978cd7bdc27ed56b38a57a4c7ba887b56db6212624a65183737753",
+        "rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md": "5351a44b27f7660c07aef038b32880eecc92d218b367b01185ace0b171ae1ac9"
+      }
+    },
+    {
+      "name": "rechtsberatungsstelle",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "rechtsberatungsstelle-werkstatt.md": "edabd82d9d6ead7379df46012094fe851cd15618acc2deeb3cbdba7359a97d8a",
+        "rechtsberatungsstelle-schnellstart.md": "210641d2eac09230c67e7f206938c44f2ebf65dca79efba26f2b341e03639889"
+      }
+    },
+    {
+      "name": "rechtstheorie-rechtsphilosophie",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "rechtstheorie-rechtsphilosophie-werkstatt.md": "648d7669922a2533e40d6f72b0951bd01af2238c56b0bf6537746cc618b86877",
+        "rechtstheorie-rechtsphilosophie-schnellstart.md": "42faa049945c782011ff85a9e2d59fdd7ff60bf0dd9d4d040f4a048d0da21c70"
+      }
+    },
+    {
+      "name": "regulatorisches-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "regulatorisches-recht-werkstatt.md": "6337ec6e968a8859ebfaa25d05fd465b216c048e3cecb74b50325044da8c841d",
+        "regulatorisches-recht-schnellstart.md": "8810bf5121d45180b188e3184543d011a34ffb6d3aaad88b960ff518a14cfdc9"
+      }
+    },
+    {
+      "name": "relationstechnik-zivilrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "relationstechnik-zivilrecht-werkstatt.md": "72f01aa95cb75ed596461dadc42bd35a1a577554ad269fa1b6c8492a9c111638",
+        "relationstechnik-zivilrecht-schnellstart.md": "6c83b45cf1e31c8c3d1cd89fa277a7ad50d4043dbc7c7b660d0a09af4da65de7"
+      }
+    },
+    {
+      "name": "rentenpruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "rentenpruefer-werkstatt.md": "5228536c25521c69b5c2551cae009604d7c95f876f9590b822c28f7d2f737fc6",
+        "rentenpruefer-schnellstart.md": "69a15b2d61734d260cca48ecb73cc060541f6f749392ce2e51928be3a891c7b7"
+      }
+    },
+    {
+      "name": "richter-amtsgericht-handelsregister",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-amtsgericht-handelsregister-werkstatt.md": "a82ca54c5f0ce9cead1d303806fab26c90461bfc209c0705e7bb06c1a9cf8358",
+        "richter-amtsgericht-handelsregister-schnellstart.md": "7faa52f93a395530776b3e34fa6c2ea6e99fd4c68886bf99e96512df3fa36cef"
+      }
+    },
+    {
+      "name": "richter-amtsgericht-insolvenz-restrukturierung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md": "14a34be4e6d7d0abe51c353a85f566e50680d49935950390f6a25a602982ad50",
+        "richter-amtsgericht-insolvenz-restrukturierung-schnellstart.md": "a52f45ff661d9601bacd9d039c120194aa4fb2b88bdffb9daea172da74d88855"
+      }
+    },
+    {
+      "name": "richter-amtsgericht-straf",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-amtsgericht-straf-werkstatt.md": "e0cb6a1e2c623b4b96581e2a6b4c9b09b128843b5dafd4bf40e7184779bd2754",
+        "richter-amtsgericht-straf-schnellstart.md": "d2fa0fa01cc31f6654c5300e8cc49b28b2036d401257142fa200f28a417eed2f"
+      }
+    },
+    {
+      "name": "richter-amtsgericht-zivil",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-amtsgericht-zivil-werkstatt.md": "7c2496aedfb9c0b4b3b421e0079c53481e2b9f8a7ddf0a9744c51dd69166ed1b",
+        "richter-amtsgericht-zivil-schnellstart.md": "dc0ff418507d972f20badd00d8167aed470bc5a3f89b061e6dbfb2c1adec68fb"
+      }
+    },
+    {
+      "name": "richter-arbeitsgericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-arbeitsgericht-werkstatt.md": "cdfbdcafe9a99173203a9043a781edc4b021aae214be024aea71172a80ad2109",
+        "richter-arbeitsgericht-schnellstart.md": "5545e2fc4fd985b99164e0128ae0ef8c0527de43f18a9343815391ff206ac4df"
+      }
+    },
+    {
+      "name": "richter-bverfg-verfassungsbeschwerden",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-bverfg-verfassungsbeschwerden-werkstatt.md": "393da760d00844831191fd2010bf4957e1a5afbcdbfd2cd9455a8c43212a9f06",
+        "richter-bverfg-verfassungsbeschwerden-schnellstart.md": "621ca9661c669dd12708883154b0fb5acaa48174699ee957595ad78ce148923d"
+      }
+    },
+    {
+      "name": "richter-familiengericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-familiengericht-werkstatt.md": "6c71b4e54409d148e2ca4afaa0c688fd02c375cbfbb898d5d4b80c5181ae2bf1",
+        "richter-familiengericht-schnellstart.md": "d9e9a4c6384e6878db85f5f36de28aed3a625fabfb665675612ef69089e9830c"
+      }
+    },
+    {
+      "name": "richter-finanzgericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-finanzgericht-werkstatt.md": "9520d60bace66502a7edf77abccbaf9003b37230a7605fc002f31f92285a5877",
+        "richter-finanzgericht-schnellstart.md": "e5bf3a1073e5ebf201aca1f3c2a901abc8b8c84c00a732223a84e9013bd736fa"
+      }
+    },
+    {
+      "name": "richter-landgericht-strafkammer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-landgericht-strafkammer-werkstatt.md": "e297685e9ab7342b2f13595088a4e2f26b83f938b0111b8d1978c04a2d17e119",
+        "richter-landgericht-strafkammer-schnellstart.md": "dedbf2484655b4d4f0e19821e5e167323a2a537ffed8e89f0c721048390129e3"
+      }
+    },
+    {
+      "name": "richter-landgericht-zivilkammer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-landgericht-zivilkammer-werkstatt.md": "429a350f1b9df4c507e5fc9ba9dfd8cbaa9ebb6efb31fb097074bc0920913372",
+        "richter-landgericht-zivilkammer-schnellstart.md": "b4a039ae37aa5346f99095437824ed0e58e05b5e35033b0674e936a939836856"
+      }
+    },
+    {
+      "name": "richter-sozialgericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-sozialgericht-werkstatt.md": "7db38e0b6ccf6198d069b0516cd157e1e86259d27ee68538890bb5ec9c7bafb1",
+        "richter-sozialgericht-schnellstart.md": "fb5edeb6c454b39f909ddc99c76ad3c33e932fd2de16efc6b35bd0712fc750ef"
+      }
+    },
+    {
+      "name": "richter-verwaltungsgericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "richter-verwaltungsgericht-werkstatt.md": "037e5dd4591a744877c781017d58f47c448588e518d432524e9875051d543ca3",
+        "richter-verwaltungsgericht-schnellstart.md": "16af9325c078b1d892d6f10c6b14e3640f790d91f554e7ff87389346e63be413"
+      }
     },
     {
       "name": "robotik-recht",
       "variants": [
         "native"
       ],
-      "prompts": [
-        "robotik-recht-werkstatt.md",
-        "robotik-recht-schnellstart.md"
-      ]
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "robotik-recht-werkstatt.md": "9fd843419967da1e03b48022452886872e6a475e5daecf67a2299e79c30e0c54",
+        "robotik-recht-schnellstart.md": "3ff23297831ff5372c36829d6ae23fcb3cfb9b1b7e9c53ab99dccc00fe543fd7"
+      }
+    },
+    {
+      "name": "roemisch-katholisches-kirchenrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "roemisch-katholisches-kirchenrecht-werkstatt.md": "cd83fbd099d6b4d4ef0739923e224dd382a61c51f331ef7c875a8cdb69093fea",
+        "roemisch-katholisches-kirchenrecht-schnellstart.md": "7a7d7edfe5ba3cfe04b03e7e57c96654f4f02dc82a7bf37582fc1072bee051d8"
+      }
+    },
+    {
+      "name": "roemisches-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "roemisches-recht-werkstatt.md": "ccc22407158f8b3177008ba9ecb78126a727769b3061bb1061e31655925b5214",
+        "roemisches-recht-schnellstart.md": "2dc92c2b95e6556d362541d045ee48956f9149d9556c1cce723988fc66fce265"
+      }
+    },
+    {
+      "name": "schadensregulierung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "schadensregulierung-werkstatt.md": "edade77b0989aa8c185be672522b9fca1bf302daf2185dec33c15f28f0fcdb93",
+        "schadensregulierung-schnellstart.md": "117ac3c3580d4ddb893244ee7829ea8ea52a6c829d0dc310194277b536a73226"
+      }
+    },
+    {
+      "name": "schoeffen-handelsrichter-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "schoeffen-handelsrichter-praxis-werkstatt.md": "9160e0b3583c3e2c0ced38ca2f71b1b2a2c2edca0d781d2dfc438285681bf20a",
+        "schoeffen-handelsrichter-praxis-schnellstart.md": "5dea3a23bf3f3a1795e774d132962e7cf95683bd2e75e37ce243a309f2400ab7"
+      }
+    },
+    {
+      "name": "schriftform-und-textform-bgb",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "schriftform-und-textform-bgb-werkstatt.md": "1e17df47a33f249ff6eabcd7f0112760c449d264ee39f409a1ab1680a885fabe",
+        "schriftform-und-textform-bgb-schnellstart.md": "0f03cfb2ac18b3c1df2c06915df564825af226646c4b228c29e674a741848278"
+      }
+    },
+    {
+      "name": "schriftsatz-versandwerkstatt",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "schriftsatz-versandwerkstatt-werkstatt.md": "745657ded74e2fbc20572d1d4d2b5ef886bd207cf9fa7ecf105097f4a80eaca1",
+        "schriftsatz-versandwerkstatt-schnellstart.md": "a1aeb8377727f388794f23c08204cbe0ac9004e1f5e2af82e0cb0bb698f916aa"
+      }
+    },
+    {
+      "name": "schriftsatzwerkstatt-bea",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {}
+    },
+    {
+      "name": "schulrecht-laender",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "schulrecht-laender-werkstatt.md": "3ba31edcaf920914d0fc380c150187ff281236cd285aa1657e5cbff4d6e11dab",
+        "schulrecht-laender-schnellstart.md": "b66ec4ebebb4d3d5de5e15ff8e907842f3ff1fb79f26cd74240068ef02e4ae6a"
+      }
+    },
+    {
+      "name": "seerecht-schifffahrtsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "seerecht-schifffahrtsrecht-werkstatt.md": "26277ad55b3bcbc1402ff0064de3b211b3767bdfd277e90ca4aee5b4cac2a95f",
+        "seerecht-schifffahrtsrecht-schnellstart.md": "1ee47e88ab4cf80a19de986495bddc9726b16d3f5365ecbea7378468ae3632d3"
+      }
+    },
+    {
+      "name": "sektorenvergabe-workflow",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "sektorenvergabe-workflow-werkstatt.md": "a0cb4778903b7f67108148702c7b3b1d936fafdebdb143c240e6d6015ef6bd1f",
+        "sektorenvergabe-workflow-schnellstart.md": "0ddf88f20d548d0a5817b68aaaa6ad30f0da73672e1bfc34e102b2e6b62ab1af"
+      }
+    },
+    {
+      "name": "selbstvertreter-amtsgericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "selbstvertreter-amtsgericht-werkstatt.md": "ceb6bac4fddfbf310792fc15108789446c1942370f7c181a08c70d59916d3edb",
+        "selbstvertreter-amtsgericht-schnellstart.md": "99b83688cae76851942e1b55c2d6bab283059c291f30e1de8b6367f1fb80a42f"
+      }
+    },
+    {
+      "name": "selbstvertreter-sozialgericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "selbstvertreter-sozialgericht-werkstatt.md": "be70d8913c7934161370424f98691a8bfa7a55301d51378de8712acd813ce9d9",
+        "selbstvertreter-sozialgericht-schnellstart.md": "d9355cd1f901bbb0d544088506c306c29798a2b909e7173d5f4bb9984d8cc0bf"
+      }
+    },
+    {
+      "name": "softwarerecht-de-eu-us",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "softwarerecht-de-eu-us-werkstatt.md": "70529f82cd69c6af11be8c48113e43f8428efbc0d29b410ba4ba3a22bad86cc6",
+        "softwarerecht-de-eu-us-schnellstart.md": "5b2ad5a232735f9bb8669a039e15d13869aa4f3bf901f1f91d1e71153f133901"
+      }
+    },
+    {
+      "name": "solo-selbststaendige-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "solo-selbststaendige-praxis-werkstatt.md": "7342b17e3c012214bae1f1c76c0c1c7b9d26408cea550d31e2686d49aab6a06d",
+        "solo-selbststaendige-praxis-schnellstart.md": "44428bf5152eb4f3ebc5df2aebf2ab0252dd563ef6b885c8d5ddda7ceb716c79"
+      }
+    },
+    {
+      "name": "sozialrecht-fuer-laien",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "sozialrecht-fuer-laien-werkstatt.md": "e0b4ebdf030faf9ead442120b54b4f152aa951a373e2a38ce4a049656c0a484e",
+        "sozialrecht-fuer-laien-schnellstart.md": "1b11687007e78cbf5b6058184c8b497230734176cd0ca364807309423df153ac"
+      }
+    },
+    {
+      "name": "sozialversicherungspflicht-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "sozialversicherungspflicht-pruefer-werkstatt.md": "a07ce95eb3248693cdb0f89abd19fcc4298191fd4bd9a431a856e42598b5e4fe",
+        "sozialversicherungspflicht-pruefer-schnellstart.md": "0b37b41d30394570d11c43d29ea4ab20708a9ba408db727554bec8cfc59d7ff5"
+      }
+    },
+    {
+      "name": "staatsanwaltschaft-amtsanwaltschaft",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "staatsanwaltschaft-amtsanwaltschaft-werkstatt.md": "4f6f52abb17fa51c3360b8220ec9f438f2e58f8991c2d483e864674383152f98",
+        "staatsanwaltschaft-amtsanwaltschaft-schnellstart.md": "09e34438d521a9ba0ed9cbaa6851821d7e9e8f81f64182e913ad52a1d6434a23"
+      }
+    },
+    {
+      "name": "staatsanwaltschaft-praxis-einstieg",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "staatsanwaltschaft-praxis-einstieg-werkstatt.md": "f45c97aa215da0a482d47ead32a1b78b74c0e7db64fb4c105e3ff6aa7cbf1382",
+        "staatsanwaltschaft-praxis-einstieg-schnellstart.md": "2a217bda1245ffaa40c046274eea496d5247a8a031c9561294b334af8ae37f81"
+      }
+    },
+    {
+      "name": "startup-gruender",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "startup-gruender-werkstatt.md": "df70667193533caa0d6bc9a9726bb90aed872f7edee639c1765e7595d1435102",
+        "startup-gruender-werkstatt.txt": "df70667193533caa0d6bc9a9726bb90aed872f7edee639c1765e7595d1435102",
+        "startup-gruender-schnellstart.md": "2b7d0980647e3c0ba2be001846721294b22ac794320a65e1f862b5a6a4ac1235",
+        "startup-gruender-schnellstart.txt": "2b7d0980647e3c0ba2be001846721294b22ac794320a65e1f862b5a6a4ac1235"
+      }
+    },
+    {
+      "name": "startup-hr-personalabteilung-berlin",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "startup-hr-personalabteilung-berlin-werkstatt.md": "11d79d9c1fff9422ef0b5dca9e585924aa5ff56407e5b2982c62d11651fd2da4",
+        "startup-hr-personalabteilung-berlin-schnellstart.md": "22951e8c40f568b699484df4031cef5c16f4470da0eacfaa0590da3850c5f653"
+      }
+    },
+    {
+      "name": "status-navigator-step-plan",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "status-navigator-step-plan-werkstatt.md": "1005b20393053db1fa71bb7e5a58c6941d61a73c0c966624c48534ffc46d0916",
+        "status-navigator-step-plan-schnellstart.md": "a76f2cabc6d94ce66766c32102995dedcb9c1066fb192e217c1c0a5de7ff85d2"
+      }
+    },
+    {
+      "name": "steuerrecht-anwalt-und-berater",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "steuerrecht-anwalt-und-berater-werkstatt.md": "ce3a8e0121b2bd212e1835fcf16d834fc12a6a2905007dc8dd560cbd4be2a6fe",
+        "steuerrecht-anwalt-und-berater-schnellstart.md": "bbeb35dffdd81ffd3ff2b5335f1cf4210c7d631eb12dd513ae9642d96fd90a71",
+        "steuerrecht-anwalt-und-berater-hauptproblem.md": "14f1fc13848ca92be91b304293e2d0c23100ddb00ec3f48871d38284ee90152e"
+      }
+    },
+    {
+      "name": "strafanzeige-vorbereiter",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "strafanzeige-vorbereiter-werkstatt.md": "f25b85929be43c1ca25f665444c7ebf62f0e8391b9fdec72eb550fea3b04424e",
+        "strafanzeige-vorbereiter-schnellstart.md": "efc5a64a623a33fcdcf9e4b81fa98a3bdf7af0d75c0eb409abe7f8c2501f7d8b"
+      }
+    },
+    {
+      "name": "strafbefehl-verteidiger",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "strafbefehl-verteidiger-werkstatt.md": "366c30436f604bb7dc86d6326be45bbe04a0a414b015ba0cf43637fbeb50c0c6",
+        "strafbefehl-verteidiger-schnellstart.md": "f6682e73a39b454115b5f2d0b04aac60dddafdbd82f17147fc9ec46f5a0ed4a5"
+      }
+    },
+    {
+      "name": "strafvollzug-jva",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "strafvollzug-jva-werkstatt.md": "a5ed2763a682e3edf40c08e4c88aa8501f719ef08a8c9d8b51b474f6cc701958",
+        "strafvollzug-jva-werkstatt.txt": "a5ed2763a682e3edf40c08e4c88aa8501f719ef08a8c9d8b51b474f6cc701958",
+        "strafvollzug-jva-schnellstart.md": "5dc7f93b18ff2cad85152c94d3d8b64b061d53f7e67c22abf95aedec8471bdd7",
+        "strafvollzug-jva-schnellstart.txt": "5dc7f93b18ff2cad85152c94d3d8b64b061d53f7e67c22abf95aedec8471bdd7",
+        "strafvollzug-jva-hauptproblem.md": "72a6234b151b75bd8f6e22130ecf481375c13fdfb5f5fe1e3d73758fed970604",
+        "strafvollzug-jva-hauptproblem.txt": "72a6234b151b75bd8f6e22130ecf481375c13fdfb5f5fe1e3d73758fed970604"
+      }
+    },
+    {
+      "name": "strafzumessung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "strafzumessung-werkstatt.md": "a643a752fd654b3017a7e5616109d9ae6fad4334af6dd0d1318effb6f54cb93c",
+        "strafzumessung-schnellstart.md": "2259fb3252274917aa97009e3dd9ac0c843fd3ea4d95421997b3cfed4b10616c"
+      }
+    },
+    {
+      "name": "strassennutzung-genehmigungen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "strassennutzung-genehmigungen-werkstatt.md": "a28c237c9eb9a5a9d183585db5146e7946c9928da13b80ddd9c0e37da5caf14a",
+        "strassennutzung-genehmigungen-schnellstart.md": "33c339707dbfa483cd7b251dd26ff5ad52715467780bd7f509d434a811cc90fb"
+      }
+    },
+    {
+      "name": "strassenrecht-infrastruktur",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "strassenrecht-infrastruktur-werkstatt.md": "61741890ee2174fb78a0a05ea9e2d4f84aa929e1bca405f048be21434e885488",
+        "strassenrecht-infrastruktur-schnellstart.md": "c317cc16ec781e1796e70436d8ccff5f4bb90fa0fdcf81b46448592f87a2442b"
+      }
+    },
+    {
+      "name": "strassenverkehrsrecht-stvo",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "strassenverkehrsrecht-stvo-werkstatt.md": "7d2eeeada6ce98a60b32804baceb364ae30da49a28aa728face4eabbe67508c6",
+        "strassenverkehrsrecht-stvo-schnellstart.md": "7d6e20e09b3139c7892036aabd59a208e9552eb9cdd79bd040f034527d715c48"
+      }
+    },
+    {
+      "name": "subsumtions-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "subsumtions-pruefer-werkstatt.md": "05e46624f8de4dc2b909b1518124217fc4ce111d1aa976d3d6f4d817c9730251",
+        "subsumtions-pruefer-schnellstart.md": "7ac0519ce72913ef8cfa927e97b20b2ac783bb2a0e91b31e824376888de1e3ef"
+      }
+    },
+    {
+      "name": "tabellenreview-3d",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "tabellenreview-3d-werkstatt.md": "6eb7bdfc47fe9d75fe337bea316ecfc1476b0c17331e2a0ad40028b31bb73cd6",
+        "tabellenreview-3d-schnellstart.md": "c52b5f288191d66175068a3de66b9f04badea859c610d9965be35240008690ec"
+      }
+    },
+    {
+      "name": "telekommunikationsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "telekommunikationsrecht-werkstatt.md": "d89fdb78b3db0b99631f95674cd6e42d8ace17f9895cecf665adf502ebf1efc2",
+        "telekommunikationsrecht-schnellstart.md": "45b86a67811df4fe09cdb08eaa66a4590381240b36491abcf5d42acb98bcb229"
+      }
+    },
+    {
+      "name": "tierschutzrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "tierschutzrecht-werkstatt.md": "71af0962cfcd83001f38fdc6594ef8ca2c480459ba64cc6bbe80e319b41d7a16",
+        "tierschutzrecht-schnellstart.md": "1ff15efc3bccb3823b7e20bda29289d31b734870a7c285c07de384d11afc627d"
+      }
+    },
+    {
+      "name": "transparenzregister-assistent",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "transparenzregister-assistent-werkstatt.md": "b2fd6fd23926aa00069b18e57e555629fd81e5d473b0c7e473be37e18796d70d",
+        "transparenzregister-assistent-werkstatt.txt": "b2fd6fd23926aa00069b18e57e555629fd81e5d473b0c7e473be37e18796d70d",
+        "transparenzregister-assistent-schnellstart.md": "feb63fce1c870968f0d9353f578648abf5e64b2a726dd3626017b073ef5803cc",
+        "transparenzregister-assistent-schnellstart.txt": "feb63fce1c870968f0d9353f578648abf5e64b2a726dd3626017b073ef5803cc",
+        "transparenzregister-assistent-hauptproblem.md": "2fae2d4fd6b80d316b51798e8072b325b6a2e596fe09085ef9fe017abfdb852b",
+        "transparenzregister-assistent-hauptproblem.txt": "2fae2d4fd6b80d316b51798e8072b325b6a2e596fe09085ef9fe017abfdb852b"
+      }
+    },
+    {
+      "name": "umweltrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "umweltrecht-werkstatt.md": "60fc0b8104c6ef4e650ddce67dd881ff61a416675c1232f677e8f29bdb566bfe",
+        "umweltrecht-schnellstart.md": "bb0d71342ed61dbbe6b8495438401cdb44f955b4081125a318db06dbd9db710d"
+      }
+    },
+    {
+      "name": "umweltschutzverband-verbandsklage",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "umweltschutzverband-verbandsklage-werkstatt.md": "f8128357087056d836fd02583c643f24746b1710f5f1c9349b517c1e7fba998b",
+        "umweltschutzverband-verbandsklage-schnellstart.md": "75c088f79ba917210d4c54f2e7976037358f92519b7377f814d0a22b7426b515"
+      }
+    },
+    {
+      "name": "un-kaufrecht-cisg",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "un-kaufrecht-cisg-werkstatt.md": "c3c21cbc8e5bc7be87b39cd44a2af262659e892321a0170b4cfaa4c0ced600e6",
+        "un-kaufrecht-cisg-schnellstart.md": "a0168f5979d2d765373dcc783f0388fd0e49306d2bfdc517a110246b55d1cef0",
+        "un-kaufrecht-cisg-hauptproblem.md": "03e1b1ec3c28a71d2d6f6846079768dab93bfee84c77643c922f6646ba5f5397"
+      }
+    },
+    {
+      "name": "untersuchungshaft",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "untersuchungshaft-werkstatt.md": "afb729682fee31e41d433b8c73541ea529120252fe58e98dfb3800b05777799b",
+        "untersuchungshaft-schnellstart.md": "cbbf1a5cc3b209984c9669b0e936ddd1f215d7d4295b9912f1812c78e46755fc"
+      }
+    },
+    {
+      "name": "urheberrecht-de-eu",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "urheberrecht-de-eu-werkstatt.md": "0b3db25bca141d21166380e005642b9f4bfc1476ec0a5b12911dbb6be170e182",
+        "urheberrecht-de-eu-schnellstart.md": "7f86b3dffe026b70e1ec8d5cc3f61f49cc79ed0ed7c2135206dd414751416e88"
+      }
+    },
+    {
+      "name": "urteilsbauer-relationsmacher",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "urteilsbauer-relationsmacher-werkstatt.md": "50a016019d7e84564f0881f2d85e6eb8e533fd6ee7c239ae42f3536fc7cbb549",
+        "urteilsbauer-relationsmacher-schnellstart.md": "b736d7a475ea917f4a1c3d3aa837d13993acf052a432bac30c060f7205da47f1"
+      }
+    },
+    {
+      "name": "us-bankruptcy-code",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "us-bankruptcy-code-werkstatt.md": "6efe9f7b8da87ffe2d58f28856587c9075e8c3a58837f99e8edb506754c21c10",
+        "us-bankruptcy-code-schnellstart.md": "fb4cf3c05ab049073502dbe4bfcad2c229c87f53adc09291f3e463742f580742"
+      }
+    },
+    {
+      "name": "us-copyright-registrierung-verlag",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "us-copyright-registrierung-verlag-werkstatt.md": "9d84b7000cf7159a1a725b8a3af2f23735491b3822ddbf9d270fe4e7afe7d508",
+        "us-copyright-registrierung-verlag-schnellstart.md": "282d8308f219530d5c7ca20151a2ff0adf09903fe2761556ed676e30f56ff684"
+      }
+    },
+    {
+      "name": "us-sanktionspruefer",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "us-sanktionspruefer-werkstatt.md": "50ddd63cddda0646f73e504c1015ada8551d76f4a15ba27771f0fa25743e8ce9",
+        "us-sanktionspruefer-schnellstart.md": "c6fbb110bca56e6594c766bb0e46ef04a6f8b57de1616baa2363a2bf760dce86",
+        "us-sanktionspruefer-hauptproblem.md": "62a58fb5206ae9e0144a3c23bdb3db92b00b9ebe842a5ce6791c87c63fb3af27"
+      }
+    },
+    {
+      "name": "venture-capital-geber",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "venture-capital-geber-werkstatt.md": "f90948081bf8c8aa0ddfbe3e98490b28a2303f2c071f361d3eaa0be71c912b2b",
+        "venture-capital-geber-schnellstart.md": "61f433ecec895a648d1a6a837ae74bba25804295b417c7c71b3c06b998355e14"
+      }
+    },
+    {
+      "name": "verarbeitungsverzeichnis",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "verarbeitungsverzeichnis-werkstatt.md": "b4d507117b0627ca9551853c977d48050add86056adec262dc5572474bf3174a",
+        "verarbeitungsverzeichnis-werkstatt.txt": "b4d507117b0627ca9551853c977d48050add86056adec262dc5572474bf3174a",
+        "verarbeitungsverzeichnis-schnellstart.md": "8e9de691b4852811dfe145bafa0358ef3a19bf2587a122c95ef443e4a98bfbe3",
+        "verarbeitungsverzeichnis-schnellstart.txt": "8e9de691b4852811dfe145bafa0358ef3a19bf2587a122c95ef443e4a98bfbe3",
+        "verarbeitungsverzeichnis-hauptproblem.md": "190db9556965f18f68a4377a6dde965683a55a55234b279f2532bbc7311c1d89",
+        "verarbeitungsverzeichnis-hauptproblem.txt": "190db9556965f18f68a4377a6dde965683a55a55234b279f2532bbc7311c1d89"
+      }
+    },
+    {
+      "name": "verbraucher-rechtsstaat-alltag",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verbraucher-rechtsstaat-alltag-werkstatt.md": "dc6eed3ad5d5ec30d3499e45b05aa40861eaf0405592cf0f99e4c9892b8a5c51",
+        "verbraucher-rechtsstaat-alltag-schnellstart.md": "11265aa3c6d2c5b1afd8b9bde47e01c92acd8c1ee9cd31dd2794ed909b74b534"
+      }
+    },
+    {
+      "name": "verbraucherinsolvenz-schuldenbereinigung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verbraucherinsolvenz-schuldenbereinigung-werkstatt.md": "4a05c498e009fa22e888c2d66b0605f4b71298758746c4e202388f70027123b1",
+        "verbraucherinsolvenz-schuldenbereinigung-schnellstart.md": "f890452c2a7c9d7169e21af94f45b78e3bfea94592309e3b952aef72c2f738f7"
+      }
+    },
+    {
+      "name": "verbraucherschutzrecht-pruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verbraucherschutzrecht-pruefer-werkstatt.md": "8351e968c29339854fb2099f379f1de4cee8b7634edabd7705083b6e31722578",
+        "verbraucherschutzrecht-pruefer-schnellstart.md": "2619b4bb4dba8b42f1f5a59b1b55f711ac167ecab48d37d544421ec1e69d9e02"
+      }
+    },
+    {
+      "name": "verbraucherschutzverband-durchsetzung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verbraucherschutzverband-durchsetzung-werkstatt.md": "669136dfefb339f9714496267024dd79e6b3bfb7b8c393ae7cea3b32fcbcd5ee",
+        "verbraucherschutzverband-durchsetzung-schnellstart.md": "b140ffb0dcfad506db5a6904d6e26392953358eb397e010e4dd276316a1c972e"
+      }
+    },
+    {
+      "name": "vereinsrecht-vereinsmanager",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "vereinsrecht-vereinsmanager-werkstatt.md": "a0f30a789fd12451736151855d3aea0befb4ecab548241de3184c071ac567ee4",
+        "vereinsrecht-vereinsmanager-schnellstart.md": "88355b029a3f80f3019323ccb496e4e19c9ee92081c8656c1e94a71b22fc2348"
+      }
+    },
+    {
+      "name": "verfassungsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verfassungsrecht-werkstatt.md": "89c7942c138b5e38264f95cd7337dc8f806f307ea52eb1ac110799a5b8303f8c",
+        "verfassungsrecht-schnellstart.md": "8ec0279d5c5ff49c025f2415b7e19a6f2c211fbdc84bbf69edcdb3d7de688710"
+      }
+    },
+    {
+      "name": "vergabestelle-behoerden",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "vergabestelle-behoerden-werkstatt.md": "dba7494ecc173cb809ac0c2fa2d75bc18caa02e45a6db95a20df228cb97bb1eb",
+        "vergabestelle-behoerden-schnellstart.md": "d968fcf9a60093480cb32be239eee4cb954cee16216a8206b53101753360394d"
+      }
+    },
+    {
+      "name": "vergesellschaftung-artikel-15",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "vergesellschaftung-artikel-15-werkstatt.md": "86e7385e196d4d0f4949128c3f9a3ca2c27fa3cb80791a6977954e118dc390ed",
+        "vergesellschaftung-artikel-15-schnellstart.md": "8a8995f98863bbfac75f3c3e17cc78cb8282bdc3cfb6ccbccd7883baab8bc2dd"
+      }
+    },
+    {
+      "name": "verhaeltnismaessigkeitspruefer",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verhaeltnismaessigkeitspruefer-werkstatt.md": "c6345a5016fc3b65c39381e9d870d845789059dd59c9f7cd7d8a62c86d1b4a38",
+        "verhaeltnismaessigkeitspruefer-schnellstart.md": "06e4a09e3ab2ef0964000d80e8924071e939805157c94a8c465b9ccfa6732bc9"
+      }
+    },
+    {
+      "name": "verkehr-infrastrukturrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verkehr-infrastrukturrecht-werkstatt.md": "dfe5cf444da4bfff91bce6b2df2793e9af37c930a2b0c4f316b0c7311f5cd70a",
+        "verkehr-infrastrukturrecht-schnellstart.md": "95fd6f30a0f2a22aa84b9dd20fddcf55921af95c7ee24d5f4a9460baeffd867c"
+      }
+    },
+    {
+      "name": "verkehrsowi-verteidiger",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verkehrsowi-verteidiger-werkstatt.md": "9bb2e81cf39fcd7accf356bc441c2d13569f583076bc4a962ea1f14aa4a3a387",
+        "verkehrsowi-verteidiger-schnellstart.md": "725057d0d79a2b3c623d53c655cc24719884c044e90ee55278ea5b34690f8557"
+      }
+    },
+    {
+      "name": "verlagsrecht-buchpreisbindung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verlagsrecht-buchpreisbindung-werkstatt.md": "49833c45c7bd6bbf55c900810a195720a400661eaea4332cfed4aa102ff6952b",
+        "verlagsrecht-buchpreisbindung-schnellstart.md": "4396122e3f988e73f38f103da58b90bff4b9d4907d0d9ed06baa2cce10777a6c"
+      }
+    },
+    {
+      "name": "verlagsredaktion",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "verlagsredaktion-werkstatt.md": "ca727f176241eca743d5c8aedcaf51a70cbf43a141d7a709c22471e43d04526f",
+        "verlagsredaktion-schnellstart.md": "51bded26619aaedda4617f895220598c4242079db6748add1660b57c0efd40d4"
+      }
+    },
+    {
+      "name": "versammlungsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "versammlungsrecht-werkstatt.md": "42c8ba97979d76c7af295ce5c4a5d614bbf0a6af3da320894d5bc8e6b5b92742",
+        "versammlungsrecht-schnellstart.md": "267ac1a895a284ec07fadd530bbb1a44583cd7fc48b9ca411fc968c34a7b4076"
+      }
+    },
+    {
+      "name": "versicherungsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "versicherungsrecht-werkstatt.md": "a5edacb05b43afc1bf16438faecb5065f572b5e29ed272044f115e28499e6785",
+        "versicherungsrecht-schnellstart.md": "d25be1f541c86c5a8d481d68264226f48e4332d72d93e718cbfaff7c37b158a6"
+      }
+    },
+    {
+      "name": "vertragsausfueller",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "vertragsausfueller-werkstatt.md": "b80bee518d8bd41c898d5ef880989b7b513ad2ae37ad6f748f37e2f2c317bf38",
+        "vertragsausfueller-schnellstart.md": "c9a47f91f2ae6206abee04fbdf1917cafb712bd9c64b242753d0b2ef58622017"
+      }
+    },
+    {
+      "name": "vertragserstellung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "vertragserstellung-werkstatt.md": "02b1991643af76444aad134e5e9ef49429c9c2459243027e0af3d6429871ebed",
+        "vertragserstellung-schnellstart.md": "af92c837204ff453382a431f03309b81b481c2807b8a709432319891c559371b",
+        "vertragserstellung-hauptproblem.md": "49fb5df3d3b3e1a63b30955334b6a54181006782add246780fd63ce741bd3985"
+      }
+    },
+    {
+      "name": "vertragsrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "vertragsrecht-werkstatt.md": "9f0f6b4909628696286fd8c6fd3fb9d9efdabbd4e5e5399d7293a46727c9a2b7",
+        "vertragsrecht-schnellstart.md": "053ea08bf2f17dcf064770c58f672474f680aa35a99cb9d96095f4b6172a6293"
+      }
+    },
+    {
+      "name": "wahlkampfrecht-praxis",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "wahlkampfrecht-praxis-werkstatt.md": "969a32119d949ca3b0ba2cd9a408bf2320ea9f26b4e6512210032c23550c30d3",
+        "wahlkampfrecht-praxis-schnellstart.md": "970ffd6785dc818f76ecba40e9893de5124055e3c7d0a71bb9c2f16ea8ff9c64"
+      }
+    },
+    {
+      "name": "wandeldarlehen-lebenszyklus",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "wandeldarlehen-lebenszyklus-werkstatt.md": "67200d48217a423721358fe8e32325c8d52bf326e1e386f8ecef7e60c72501cf",
+        "wandeldarlehen-lebenszyklus-schnellstart.md": "349ba34b8214acb69c50fc43548b1363c04ec6733c66b6db3252cda270573c4a"
+      }
+    },
+    {
+      "name": "weg-hausverwaltung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "weg-hausverwaltung-werkstatt.md": "d8c679b08606bf8678e13d0222de595ba474b152bdebb92211bbb6f932b82b87",
+        "weg-hausverwaltung-werkstatt.txt": "d8c679b08606bf8678e13d0222de595ba474b152bdebb92211bbb6f932b82b87",
+        "weg-hausverwaltung-schnellstart.md": "ff35569ec0c996c05a7d144e1e3d1fe9774344ac3c9afc388874f89515a141f4",
+        "weg-hausverwaltung-schnellstart.txt": "ff35569ec0c996c05a7d144e1e3d1fe9774344ac3c9afc388874f89515a141f4",
+        "weg-hausverwaltung-hauptproblem.md": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e",
+        "weg-hausverwaltung-hauptproblem.txt": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e"
+      }
+    },
+    {
+      "name": "weltraumrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "weltraumrecht-werkstatt.md": "a5dc5589202a0773aa915eef96f6dc6aba4d3e066292f086b9c064063929bb92",
+        "weltraumrecht-schnellstart.md": "cfd03ed2c4f3167aef0a1891e5cd615065af00e1800dafb73040016bc83a2a18"
+      }
+    },
+    {
+      "name": "wirtschaftsanwalt",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "wirtschaftsanwalt-werkstatt.md": "b6d98e0f37326f988e4ba25d250f94439a9fd9e2d66823a9b3e7b3ae6612baac",
+        "wirtschaftsanwalt-schnellstart.md": "fa43056f942c2f2032e86333be618eaa184eee8e646da31c5c07d8a18a18eb05",
+        "wirtschaftsanwalt-hauptproblem.md": "1c68b7076da31d73a158b4bbee82a8167633985b3862a41237fe81f16f2576af"
+      }
+    },
+    {
+      "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md": "bc68fc8e45661c7a8eced95660fa0b2a642f3c7fe7a1f1b6aee5dddedb831841",
+        "word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md": "fb3879ab9ce722c151725ffcb7f1aa37fcbd1177214e7cd384994bbf799278be"
+      }
+    },
+    {
+      "name": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json",
+        "plugin.json"
+      ],
+      "preserved_prompts": {
+        "zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md": "5fa6888c58583e8f5f660eddde0995d36692fac670007d933340eecd3e233440",
+        "zahlungsunfaehigkeits-und-ueberschuldungspruefer-schnellstart.md": "2f77fac978d304d87783fa2de09253713eae48bda5b79a04a8989d5059bc8f42"
+      }
+    },
+    {
+      "name": "zitierweise-deutsches-recht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "zitierweise-deutsches-recht-werkstatt.md": "a290c98a08a10313d608db9fd1b8ad98480e23c90b61676a2825366e5411cde8",
+        "zitierweise-deutsches-recht-schnellstart.md": "10846b0c1b3159f75eb83a8c35feabdc053a2afa88aa684c3ec0bf32433e7777"
+      }
+    },
+    {
+      "name": "zugewinnausgleich",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "zugewinnausgleich-werkstatt.md": "11363fb7b4e9ee0c04065d786e6a73152ee1345bf940b153a5650dc45ebc80a0",
+        "zugewinnausgleich-schnellstart.md": "b40dd8c1b9352ecd2a708e403c99302538edccbf46b94e4f87313e1008ab2a14",
+        "zugewinnausgleich-hauptproblem.md": "9a00ce7c71c4de8845e97bd8fe7bf57066ab4bd3e0973b6da96edcf73d9fdc2f"
+      }
+    },
+    {
+      "name": "zwangsverwaltung-zvg",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "zwangsverwaltung-zvg-werkstatt.md": "422d35e5802a576fef29766656b2d08e3555bb740e6aa5413bebbd9ed9916134",
+        "zwangsverwaltung-zvg-schnellstart.md": "dd99af4b645987962e6454a4a9fbfa85828c6c1c3fa669d0d3bd8dbadcfa93c3"
+      }
+    },
+    {
+      "name": "zwangsvollstreckung",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "manifests": [
+        ".claude-plugin/plugin.json"
+      ],
+      "preserved_prompts": {
+        "zwangsvollstreckung-werkstatt.md": "625631ac31182ac2d9224c632670afc504d9b31aad24adf598fe9e26a500ca02",
+        "zwangsvollstreckung-schnellstart.md": "013b4cfca6e5ae4a6b96d821e44425b6d7ab12c4ae82c50c8d613343f1a0f950"
+      }
     }
   ]
 }

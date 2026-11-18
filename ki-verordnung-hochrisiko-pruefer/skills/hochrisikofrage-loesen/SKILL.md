@@ -1,9 +1,17 @@
 ---
 name: hochrisikofrage-loesen
-description: "Führt eine Hochrisikofrage vom Auftrag über Systemabgrenzung, Artikel-6-Einstufung und offene Anbieterfragen bis zur begründeten Entscheidung. Koordiniert die zehn Fachskills, hält Version, Belege, Pflichten und nächste Dokumente zusammen und setzt nach neuen Antworten am bestehenden Entwurf fort."
+description: "Hochrisikoeinstufung bis zur begründeten Handlungsentscheidung führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Hochrisikofrage durch den ganzen Vorgang lösen
+# Hochrisikoeinstufung bis zur begründeten Handlungsentscheidung führen
+
+Bestimme Systemfunktion, beabsichtigte Verwendung, Produktbezug, Betreiber und Anbieter sowie maßgebliches Bereitstellungsdatum.
+
+**Entscheidung im Arbeitsablauf:** Prüfe die konkret einschlägige Einstufungsroute und Ausnahmen am geltenden Normtext. Trenne KI-Verordnung, Artikel 22 DSGVO und fachrechtliche Zulässigkeit.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle den begründeten Einstufungsvermerk mit Nachweisen, offenen Produktfragen und den daraus tatsächlich folgenden Pflichten. Eine Zweckänderung oder Verwendung für Personalentscheidungen verlangt neue Einstufung; eine vorhandene CE-Kennzeichnung ersetzt den Abgleich der konkreten Systemfunktion nicht.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1 Zweck und Anwendungsfall
 

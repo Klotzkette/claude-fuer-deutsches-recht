@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Designrecht Geschmacksmusterrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Designschutz und Verletzung zum konkreten Antrag führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Designrecht Geschmacksmusterrecht
+# Designschutz und Verletzung zum konkreten Antrag führen
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Vergleiche die geschützten Ansichten, den Formenschatz und die beanstandete Gestaltung. Begründe aus diesen Belegen die Anmelde-, Bestands- oder Verletzungsposition.
+Sichere Abbildungen, Offenbarungsdaten, Registerstand, Rechtekette und angegriffene Gestaltung in vergleichbarer Ansicht.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,30 +62,32 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. EuGH, Urteil vom 20.10.2011 - C-281/10 P: PepsiCo gegen Grupo Promer konkretisiert informierten Benutzer, Gestaltungsfreiheit und unterschiedlichen Gesamteindruck.
-5.2. EuGH, Urteil vom 19.06.2014 - C-345/13: Karen Millen verlangt für die Eigenart den Vergleich mit einzelnen vorbekannten Designs, nicht mit einem Merkmalsmosaik.
-5.3. EuGH, Urteil vom 08.03.2018 - C-395/16: DOCERAM bestimmt technische Bedingtheit anhand aller objektiven Umstände; das Vorhandensein alternativer Formen ist nicht allein entscheidend.
-5.4. EuGH, Urteil vom 28.10.2021 - C-123/20: Ferrari lässt Schutz für sichtbare Teilbereiche eines Erzeugnisses zu, wenn die Offenbarung diesen Teil klar erkennbar macht.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. EuGH, Urteil vom 19.06.2014, Az. C-345/13, Karen Millen, Randnummern 25 bis 47. Anwendung: Eigenart am Gesamteindruck einzelner älterer Designs; besondere Darlegung für Gültigkeitsvermutung des nicht eingetragenen Designs. Grenze und Prüfzugang: Kein Ersatz für Nachahmungsnachweis; nicht sämtliche Fragen technischer Bedingtheit oder Ersatzteile entschieden. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013) — dokumentierter Prüfstand 2026-09-22.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welche Ansichten und Merkmale definieren den beanspruchten Designgegenstand.
-7.2. Welche konkrete Vorveröffentlichung ist neuheits- oder eigenartsschädlich.
-7.3. Wie groß ist die Gestaltungsfreiheit im betroffenen Erzeugnisbereich.
-7.4. Welchen Gesamteindruck gewinnt der informierte Benutzer aus jedem Vergleichsdesign.
-7.5. Welche Rechtsfolge ist territorial, zeitlich und gegenständlich vom Schutzumfang gedeckt.
+7.1. Prüfe Schutzform, Neuheit, Eigenart und Schutzumfang getrennt. Vergleiche den Gesamteindruck jeweils mit einer einzelnen Vorveröffentlichung; bilde kein künstliches Mosaik aus mehreren Designs.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Erarbeite Anmeldeempfehlung, Verletzungsmatrix, Antrag oder Verteidigung mit erläuterten Gemeinsamkeiten, Unterschieden und passenden Belegen.
+
+7.4. Eine frühere Messeveröffentlichung verändert Priorität und gegebenenfalls Schonfrist; eine andere Rückseitenansicht verlangt eine neue Gesamtbetrachtung statt bloßem Austausch des Fotos.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

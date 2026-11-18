@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn bei der Governance algorithmischer Systeme ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "KI-Einsatz vom Anwendungsfall zur belastbaren Betriebsentscheidung führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Governance algorithmischer Systeme
+# KI-Einsatz vom Anwendungsfall zur belastbaren Betriebsentscheidung führen
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Ordne das konkrete KI-System nach Einsatz, Rollen, Datenfluss und Auswirkungen ein. Begründe die benötigte Risikoprüfung, Zuständigkeit und Freigabeentscheidung.
+Erfasse konkrete Funktion, Zweck, Nutzer, Betroffene, Datenfluss, Anbieterrolle und vorhandene menschliche Entscheidungspunkte.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -70,31 +70,34 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 Datenschutz-Grundverordnung sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.
-5.2. Für eine Entscheidung im Sinne von Art. 22 Abs. 1 DSGVO verlangt Art. 15 Abs. 1 lit. h eine verständliche Erklärung des konkret verwendeten Verfahrens und der das Ergebnis bestimmenden Grundsätze. Ein Formelabdruck genügt dafür nicht. Behauptete Geschäftsgeheimnisse oder geschützte Drittdaten im Streit der zuständigen Aufsicht oder dem Gericht zur Abwägung vorlegen. [EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–66 und 67–76](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203).
-5.3. BVerfG, Urteil vom 16.02.2023 - 1 BvR 1547/19, 1 BvR 2634/20: automatisierte Polizeidatenanalyse braucht normenklare Eingriffsschwellen, Zweckbindung und Verhältnismäßigkeit.
-5.4. BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Ausgangspunkt datengetriebener Systeme.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634) — dokumentierter Prüfstand 2026-09-22.
+
+5.2. EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203) — dokumentierter Prüfstand 2026-11-10.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welche konkrete Funktion und Zweckbestimmung hat das System.
-7.2. Welche Rolle hat der Mandant und wer schuldet welche Pflicht.
-7.3. Welche Risikoklasse ist nach Art. 5, Art. 6, Art. 50 oder Kapitel V einschlägig.
-7.4. Welcher Stichtag gilt nach aktuellem Normstand und welcher Quellenstatus belegt ihn.
-7.5. Welche Dokumentation fehlt, obwohl sie für Konformität, Betrieb oder Verteidigung entscheidend ist.
-7.6. Welche Ausgabe löst den nächsten praktischen Engpass: Freigabe, Stopp, Nachforderung, Behördenschreiben oder Roadmap.
+7.1. Prüfe KI-Verordnung, Datenschutz, Fachrecht und Organisation getrennt. Untersuche bei Scoring den tatsächlichen Einfluss auf die Entscheidung statt nur die Beschriftung als Assistenz.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Erstelle den beauftragten Freigabevermerk, Einsatzregeln oder Maßnahmenplan mit Verantwortlichem, Nachweis, Kontrolle und erneuter Prüfauslösung.
+
+7.4. Ein neuer Modellstand oder Verwendungszweck kann Rolle, Risiko und Datenbasis verändern; prüfe die betroffenen Pflichten neu und führe dieselbe Betriebsentscheidung fort.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

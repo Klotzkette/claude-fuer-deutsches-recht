@@ -1,6 +1,6 @@
 # umweltrecht
 
-**7 Skills** · Stand `v445.36.0`
+**7 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../umweltrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`umweltrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/umweltrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`umweltrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/umweltrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [umweltrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/umweltrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [umweltrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/umweltrecht.zip) |
 
 ## So benutzt man einen Skill
 
@@ -30,7 +30,7 @@ English: This index lists source skills, including specialist series accessed th
 | --- | --- | --- |
 | [`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) | Umweltrecht: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) |
 | [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Umweltrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/juristischer-argumentationskern/SKILL.md) |
-| [`kommandocenter`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/kommandocenter/SKILL.md) | Für Umweltrecht-Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/kommandocenter/SKILL.md) |
+| [`kommandocenter`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/kommandocenter/SKILL.md) | Umweltvorhaben von Fachunterlagen bis zum vollständigen Ergebnis führen. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/kommandocenter/SKILL.md) |
 | [`materielle-pruefung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/materielle-pruefung-bearbeiten/SKILL.md) | Für Umwelt-, Planungs- und Infrastrukturrecht: Materielle Prüfung: Schutzgüter, Artenschutz, Immissionen, Denkmalschutzbelange, Fachbeiträge und Abwägung ordnen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten Auftrag eingesetzt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/materielle-pruefung-bearbeiten/SKILL.md) |
 | [`rechtsschutz-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/rechtsschutz-bearbeiten/SKILL.md) | Umweltrecht: Rechtsschutz: Klagebefugnis, Verbandsklage, Eilverfahren und Fehlerfolgen (Heilung, Planergänzung) bewerten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/rechtsschutz-bearbeiten/SKILL.md) |
 | [`unterlagen-und-quellen-auswerten-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) | Umweltrecht: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) |

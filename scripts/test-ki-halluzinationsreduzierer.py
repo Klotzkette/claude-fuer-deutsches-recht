@@ -16,6 +16,9 @@ import pdfplumber
 from pypdf import PdfReader
 import yaml
 
+from main_skill_revisions import historical_bytes
+from release_routing import validate_plugin_version
+
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "ki-halluzinationsreduzierer"
 PLUGIN = ROOT / NAME
@@ -73,16 +76,20 @@ class HallucinationReducerTests(unittest.TestCase):
         self.assertTrue(DIST.is_dir(), str(DIST))
 
     def test_manifests_and_marketplace_version(self):
-        for relative in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
-            with self.subTest(manifest=relative):
-                data = json.loads((PLUGIN / relative).read_text(encoding="utf-8"))
-                self.assertEqual((data["name"], data["version"]), (NAME, VERSION))
-        portable = json.loads((PLUGIN / "plugin.json").read_text(encoding="utf-8"))
-        self.assertEqual(portable["$schema"], "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json")
         marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
         found = [entry for entry in marketplace["plugins"] if entry["name"] == NAME]
         self.assertEqual(len(found), 1)
-        self.assertEqual((found[0]["source"], found[0]["version"]), ("./" + NAME, VERSION))
+        self.assertEqual(found[0]["source"], "./" + NAME)
+        validate_plugin_version(found[0], marketplace["version"], root=ROOT)
+        # Aktuellen Quellenstand prüfen; VERSION bleibt der historische
+        # Komponentenvertrag für ausdrücklich übergebene --dist-Artefakte.
+        current_version = found[0]["version"]
+        for relative in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
+            with self.subTest(manifest=relative):
+                data = json.loads((PLUGIN / relative).read_text(encoding="utf-8"))
+                self.assertEqual((data["name"], data["version"]), (NAME, current_version))
+        portable = json.loads((PLUGIN / "plugin.json").read_text(encoding="utf-8"))
+        self.assertEqual(portable["$schema"], "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json")
 
     def test_eleven_skills_frontmatter_sections_and_formats(self):
         paths = list((PLUGIN / "skills").glob("*/SKILL.md"))
@@ -135,8 +142,10 @@ class HallucinationReducerTests(unittest.TestCase):
                     self.assertLessEqual(len(data), 7500)
                     self.assertLessEqual(len(data.replace(b"\r\n", b"\n").replace(b"\n", b"\r\n")), 7500)
                 self.assertEqual(profile[key]["prompt_sha256" if kind == "hauptproblem" else "sha256"], sha(path))
-        self.assertEqual(profile["focus_review"]["skill_sha256"],
-                         sha(PLUGIN / "skills/halluzinationspruefung-steuern/SKILL.md"))
+        expected = profile["focus_review"]["skill_sha256"]
+        reviewed = historical_bytes(
+            ROOT, PLUGIN / "skills/halluzinationspruefung-steuern/SKILL.md", expected, plugin=NAME)
+        self.assertEqual(hashlib.sha256(reviewed).hexdigest(), expected)
 
     def test_renderer_comparison_detects_omissions_and_changed_identifiers(self):
         builder = module("build-ki-halluzinationsreduzierer-release.py")

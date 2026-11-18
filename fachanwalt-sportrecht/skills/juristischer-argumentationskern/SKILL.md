@@ -1,128 +1,66 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Fachanwalt Sportrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Sportmandat vom Regelwerk bis zum fristgerechten Ergebnis führen. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# Juristischer Argumentationskern - Fachanwalt Sportrecht
+# Sportmandat vom Regelwerk bis zum fristgerechten Ergebnis führen
 
-## 1. Direktstart
+## 1. Aus der vorhandenen Akte beginnen
 
-Ordne Wettbewerb, Vertrags- und Verbandsfassung sowie die angegriffene Entscheidung. Sichere die maßgeblichen Fristen und begründe Anspruch, Einwendung oder Rechtsschutzweg anhand der Wettbewerbsbelege.
+1.1. Erstelle das bestellte Ergebnis: vollständiger Verbands- oder Schiedsschriftsatz, Eilantrag, Vertragsredline oder begründeter Anspruchsbrief. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: Athleten-/Vereinsrolle, Regelwerkfassung, Vertrag, Verbandsentscheidung, Zustellung und Wettkampfkalender. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-## 2. Die tragende These
+## 2. Den Fall in die richtige Fachroute führen
 
-Formuliere das Ergebnis für Fachanwalt Sportrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk.
+2.1. Verbandsmaßnahme, Dopingverfahren, Vertragsstreit und Registrierung unterscheiden; internen Rechtsweg und etwaige Schiedsklausel prüfen, bevor staatliche oder schiedsgerichtliche Anträge gewählt werden.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+2.2. Einsatzschwellen, Vergütung und Befristung rechnen; bei Sanktion Tatbestand, Proben-/Beweiskette, Verschulden und Verhältnismäßigkeit prüfen. Wirtschaftlichen EU-Bezug und effektive Kontrolle gesondert erfassen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2.3. Nicht jede sportliche Nichtaufstellung ist treuwidrige Optionsvereitelung; Zwang zur Schiedsvereinbarung ersetzt keine Prüfung gerichtlicher Kontrollrechte. Wettkampftermin belegt Dringlichkeit nur mit konkretem Nachteil.
 
-## 3. Materienspezifische Tatbestandsarbeit
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-| Prüfpunkt | Konkrete Arbeitsfrage |
-| --- | --- |
-| Verbandsentscheidung | Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen |
-| Dopingverfahren | Probe, Kette des Gewahrsams, Substanz, Verschuldensgrad, Sanktion, Rechtsmittel und Wettkampfkalender verbinden |
-| Athleten- und Trainervertrag | Befristung, Vergütung, Einsatz, Verletzung, Bildrechte, Freistellung und Beendigung redlinen |
-| Transfer und Spielberechtigung | Registrierung, Transferfenster, Ausbildungsentschädigung, Freizügigkeit und vorläufige Teilnahme klären |
-| Schiedsverfahren und Eilrechtsschutz | Schiedsklausel, interne Ausschöpfung, Frist, Panel, Öffentlichkeit, Antrag und Aufhebungskontrolle planen |
+## 3. Nur die benötigte Vertiefung öffnen
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+Lies für den einschlägigen Teilpunkt die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+3.1. [Regelwerk und Beteiligte](../regelwerk-und-beteiligte-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-3.1.1. [Spielervertrag](../fachanwalt-sportrecht-spielervertrag/FACHINHALT.md)
-3.1.2. [Athletenvertrag: Fristennotiz und nächster Schritt](../athletenvertrag-fristennotiz-und-naechster-schritt/FACHINHALT.md)
-3.1.3. [Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände](../fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren/FACHINHALT.md)
-3.1.4. [Doping-Berufung CAS](../fachanwalt-sportrecht-doping-cas-berufung/FACHINHALT.md)
+3.2. [Instanzenzug und Eilbedarf](../instanzenzug-und-eilbedarf-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+3.3. [Kontrollmaßstab](../kontrollmassstab-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 4. Normenanker
+3.4. [Materielle Prüfung](../materielle-pruefung-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-4.1. BGB Paragraf 25 ff.: Satzung, Mitgliedschaft, Organ und vereinsrechtliche Bindung.
-4.2. BGB Paragraf 242 und Paragraf 315: Billigkeits- und Kontrollmaßstab bei Verbandsentscheidungen und Leistungsbestimmung.
-4.3. ZPO Paragraf 1025, Paragraf 1032 und Paragraf 1059: Schiedsvereinbarung, Einrede und Aufhebungsantrag.
-4.4. GWB Paragraf 19 und Paragraf 20: Marktmacht und Missbrauch bei monopolartig organisiertem Verbandszugang.
-4.5. AntiDopG Paragraf 3, Paragraf 4 und Paragraf 11: Selbstdoping, Besitz und Schiedsvereinbarungen.
-4.6. TzBfG Paragraf 14 Absatz 1 Satz 2 Nummer 4: Eigenart der Arbeitsleistung als möglicher Sachgrund im professionellen Sport.
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
 
-## 5. Rechtsprechung und Quellenstatus
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
 
-5.1. BVerfG, Beschluss vom 03.06.2022 - 1 BvR 2103/16: Die Pechstein-Entscheidung des BGH verletzte den Justizgewährungsanspruch, weil die dortige Anwendung der Schiedseinrede den Anspruch auf öffentliche Verhandlung nicht hinreichend berücksichtigte.
-5.2. BAG, Urteil vom 16.01.2018 - 7 AZR 312/16: Die Befristung eines Arbeitsvertrags mit einem Lizenzspieler der ersten Fußball-Bundesliga kann regelmäßig durch die Eigenart der Arbeitsleistung sachlich gerechtfertigt sein.
-5.3. EuGH, Urteil vom 15.12.1995 - C-415/93: Bosman zu Arbeitnehmerfreizügigkeit, Ablöseregeln nach Vertragsende und Nationalitätsklauseln im Profifußball.
-5.4. EuGH, Urteil vom 13.04.2000 - C-176/96: Transferfristen können die Arbeitnehmerfreizügigkeit beschränken und bedürfen einer sportbezogenen, verhältnismäßigen Rechtfertigung.
+4.1. [BAG, Urteil vom 16.01.2018, 7 AZR 312/16](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/): Bei verfehlter Einsatzschwelle sportliche Gründe und Kausalität prüfen; berechtigte Nichtaufstellung löst nicht allein die Fiktion des Bedingungseintritts aus. Grenze: Volltext Rn. 31 bis 44; keine allgemeine Wirksamkeitsbestätigung sämtlicher Options- oder Prämienklauseln.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+4.2. [EuGH, Urteil vom 01.08.2025, C-600/23](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303003&doclang=DE): Bei faktisch aufgezwungenem CAS-Verfahren und wirtschaftlichem EU-Bezug wirksame Kontrolle des EU-ordre-public durch zuständige mitgliedstaatliche Gerichte einschließlich Eilrechtsschutz sicherstellen. Grenze: Kein universelles neues Berufungsgericht und keine Vollrevision sämtlicher Tatsachen; gerichtliche Zuständigkeit und Streitgegenstand bleiben gesondert.
 
-## 6. Beweislast und Gegenangriff
+4.3. [EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313633&doclang=DE): Berufsbezogene Verbandssanktionen brauchen überprüfbare verhältnismäßige Kriterien und wirksame gerichtliche Kontrolle einschließlich Aufhebung und Eilschutz. Grenze: Kein Recht auf zwei Instanzen: nachgelagerte Entschädigungskontrolle kann genügen, wenn bereits das letztinstanzliche Sportorgan sämtliche EU-Gerichtsanforderungen erfüllt.
 
-Ausgangspunkt für dieses Plugin: Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung.
+## 5. Lücken schließen und denselben Entwurf fortschreiben
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
 
-## 7. Prüffolge
+5.2. Fortsetzungsszenario: Die Einsatzliste wird korrigiert: Schwellenrechnung, Verlängerungsanspruch und Forderung im bestehenden Vertragsschreiben aktualisieren. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
 
-7.1. Welche Fassung von Satzung, Code oder Wettkampfreglement galt beim Ereignis.
-7.2. Welche interne Instanz ist vor welchem staatlichen oder schiedsgerichtlichen Weg auszuschöpfen.
-7.3. Welche kurze Frist hängt an Zustellung, Wettkampf oder Saisonwechsel.
-7.4. Welche Probe, Video-, Vertrags-, Kommunikations- oder Registrierungsdaten tragen den Vorwurf oder die Abwehr.
-7.5. Welche Maßnahme ist zur Sicherung der Teilnahme oder Existenz sofort beantragt zu formulieren.
+## 6. Vollständig formuliertes Ergebnis übergeben
 
-## 8. Juristisches Schreiben
+6.1. Das Endprodukt ist: vollständiger Verbands- oder Schiedsschriftsatz, Eilantrag, Vertragsredline oder begründeter Anspruchsbrief. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Sportfallkarte: Beteiligter, Regelwerkfassung, Entscheidung, Zustellung, interne Instanz, externe Instanz, Frist, Eilantrag und Beleg; Verbandsangriff: Satzungsgrundlage, Tatbestand, Verfahrensfehler, Gleichbehandlung, Verhältnismäßigkeit, Antrag und Sicherungsmaßnahme.
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
 
-## 9. Ausgabemodi
-
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
-
-## 10. Fachliche Formulierungsansätze
-
-10.1. Sportfallkarte: Beteiligter, Regelwerkfassung, Entscheidung, Zustellung, interne Instanz, externe Instanz, Frist, Eilantrag und Beleg.
-10.2. Verbandsangriff: Satzungsgrundlage, Tatbestand, Verfahrensfehler, Gleichbehandlung, Verhältnismäßigkeit, Antrag und Sicherungsmaßnahme.
-10.3. Schiedsfahrplan: Schiedsvereinbarung, Sitz, Sprache, Panel, Frist, Antrag, Beweismittel, vorläufige Maßnahme und Aufhebungskontrolle.
-
-## 11. Qualitätskontrolle
-
-11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-11.7. Ist das Ergebnis unmittelbar als Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk verwendbar?
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 12. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

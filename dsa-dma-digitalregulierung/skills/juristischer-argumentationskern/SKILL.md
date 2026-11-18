@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in DSA DMA Digitalregulierung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Plattformpflichten und Behördenreaktion gezielt bearbeiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - DSA DMA Digitalregulierung
+# Plattformpflichten und Behördenreaktion gezielt bearbeiten
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Ordne Dienst, Anbieterrolle und betroffene Funktion anhand der tatsächlichen Plattformpraxis ein. Erstelle einen Pflichten- oder Abhilfevermerk mit den einschlägigen Anforderungen und Belegen.
+Ermittle Dienst, Funktionen, Unternehmensrolle, Nutzerzahlen, Zielmärkte und konkrete Behördenmaßnahme anhand des realen Angebots.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,28 +62,34 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
-5.2. EuGH, Urteil vom 03.10.2019 - C-18/18: Glawischnig-Piesczek betrifft Unterlassungsanordnungen gegen Hostingdienste nach der früheren E-Commerce-Richtlinie; Reichweite und Übertragbarkeit sind unter dem DSA neu zu prüfen.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.3. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.4. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. EuG, Urteil vom 3. September 2025, T-348/23, Zalando/Kommission, Randnummern 60 bis 67 und 86 bis 91. Anwendung: Aktive Nutzer nach tatsächlichem Kontakt mit fremden Informationen prüfen, nicht allein Käufer oder Umsatzanteile zählen. Grenze: Nicht sämtliche Besucher eines Eigenhandelsangebots automatisch erfassen; Rechtsmittelstand separat prüfen. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ0348) — dokumentierter Prüfstand 2026-09-22.
+
+5.2. EuG, Urteil vom 17. Juli 2024, T-1077/23, Bytedance/Kommission, Randnummern 39 bis 51 und 59 bis 66. Anwendung: Widerlegung nach Artikel 3 Absatz 5 DMA mit belegten Umständen zum Zusammenhang der Schwellen und Vermutungen. Grenze: Kein allgemeiner Marktdefinitions- oder Effizienzeinwand gegen die Gatekeeper-Benennung. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ1077) — dokumentierter Prüfstand 2026-09-22.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welche konkrete technische und wirtschaftliche Funktion übt der Dienst aus.
-7.2. Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt.
-7.3. Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus.
-7.4. Welche Begründungs-, Transparenz-, Beschwerde- und Aufbewahrungspflicht gilt.
-7.5. Welche Behörde, Kommission oder welches Gericht ist für den nächsten Schritt zuständig.
+7.1. Trenne DSA-Dienstekategorie, VLOP/VLOSE-Benennung und DMA-Gatekeeperstellung. Ordne jede Pflicht dem betroffenen Dienst und Verfahren zu; Besucher, aktive Nutzer, Käufer und Umsatz nicht gleichsetzen.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Erstelle den verlangten Pflichtenplan, die Beschwerdeantwort oder Behördenstellungnahme mit Dienstbezug, Beleggrundlage und begründetem Umsetzungsweg.
+
+7.4. Eine neue Vermittlungsfunktion kann die Dienstekategorie ändern; aktualisiere dann den betroffenen Pflichtenstrang, statt sämtliche Konzernangebote pauschal gleich einzustufen.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

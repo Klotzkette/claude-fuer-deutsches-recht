@@ -463,6 +463,8 @@ def integration_file(path: str, plugin_sources: dict[str, str]) -> bool:
 
 
 def verify_source_map(repo: Path, report: dict, *, strict_links: bool = False, include_integration: bool = False) -> list[str]:
+    from main_skill_revisions import historical_bytes
+
     errors = []
     items = report.get("files", []) + report.get("shared_dependencies", []) + (report.get("integration_inventory", []) if include_integration else [])
     for item in items:
@@ -470,14 +472,15 @@ def verify_source_map(repo: Path, report: dict, *, strict_links: bool = False, i
         if not path.is_file():
             errors.append(f"{item['path']}: erhaltene Datei fehlt")
             continue
-        if file_sha(path) != item["sha256"]:
-            errors.append(f"{item['path']}: Endhash stimmt nicht")
         try:
+            preserved = historical_bytes(repo, path, item["sha256"], plugin=item.get("plugin"))
+            if sha(preserved) != item["sha256"]:
+                errors.append(f"{item['path']}: Endhash stimmt nicht")
             edits = item.get("edits", [])
-            original_sha = sha(restore_original(path.read_bytes(), edits)) if edits else file_sha(path)
+            original_sha = sha(restore_original(preserved, edits)) if edits else sha(preserved)
             if original_sha != item["original_sha256"]:
                 errors.append(f"{item['path']}: ursprünglicher Dateiinhalt ist nicht bytegleich rekonstruierbar")
-        except (ValueError, KeyError) as exc:
+        except (OSError, ValueError, KeyError) as exc:
             errors.append(f"{item['path']}: {exc}")
     plugins = report.get("plugins", [])
     revised_routes = any("original_sha256" in route for plugin in plugins for route in plugin["routes"])
@@ -501,7 +504,11 @@ def verify_source_map(repo: Path, report: dict, *, strict_links: bool = False, i
             path = directory / "skills" / route["slug"] / "SKILL.md"
             if not path.is_file():
                 continue
-            current = path.read_bytes()
+            try:
+                current = historical_bytes(repo, path, route["sha256"], plugin=plugin["name"])
+            except (OSError, ValueError, KeyError) as exc:
+                errors.append(f"{path}: {exc}")
+                continue
             if sha(current) != route["sha256"]:
                 errors.append(f"{path}: erzeugter Workflow weicht ab")
             if "original_sha256" in route:

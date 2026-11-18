@@ -6,19 +6,19 @@ Lesen Sie die Aktenunterlagen und liefern Sie das konkret bestellte Dokument. Ei
 
 ## 2. Kaufhaus Katzenbogen, München
 
-[Kaufhaus Katzenbogen, München](../../testakten/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen/README.md): Fünf Forderungs-PDFs, Kommission, Vorbehaltsware und Gläubigerkommunikation.
+[Kaufhaus Katzenbogen, München](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen/README.md): Fünf Forderungs-PDFs, Kommission, Vorbehaltsware und Gläubigerkommunikation.
 
 ## 3. Werkzeugkiste, Augsburg
 
-[Werkzeugkiste, Augsburg](../../testakten/insolvenzsachbearbeitung-werkzeugkiste-augsburg/README.md): Maschinen, Sicherheiten, laufende Verträge und Personal.
+[Werkzeugkiste, Augsburg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-werkzeugkiste-augsburg/README.md): Maschinen, Sicherheiten, laufende Verträge und Personal.
 
 ## 4. Café Abendrot, Regensburg
 
-[Café Abendrot, Regensburg](../../testakten/insolvenzsachbearbeitung-cafe-abendrot-regensburg/README.md): Kasse, Gutscheine, Belege, Masse und Bericht.
+[Café Abendrot, Regensburg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-cafe-abendrot-regensburg/README.md): Kasse, Gutscheine, Belege, Masse und Bericht.
 
 ## 5. Familie Haberlein, Nürnberg
 
-[Familie Haberlein, Nürnberg](../../testakten/insolvenzsachbearbeitung-familie-haberlein-nuernberg/README.md): Getrennte Verfahren, Eigentum, Einkommen, Unterhalt und P-Konto.
+[Familie Haberlein, Nürnberg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-familie-haberlein-nuernberg/README.md): Getrennte Verfahren, Eigentum, Einkommen, Unterhalt und P-Konto.
 
 ## 6. Auswertung
 

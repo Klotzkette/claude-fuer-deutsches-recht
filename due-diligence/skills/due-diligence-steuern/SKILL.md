@@ -1,9 +1,9 @@
 ---
 name: due-diligence-steuern
-description: Steuert die Käufer-, Investoren- oder Verkäuferprüfung eines Unternehmens, Betriebs oder Kreditportfolios. Verbindet zehn Fachskills zu belegter Analyse, Excel-Abgleich, Rückfragen, Vertragsabsicherung und Vollzugsentscheidung.
+description: "Due Diligence in Vertrags- und Entscheidungsfolgen übersetzen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert einen ausformulierten DD-Bericht mit konkreten Vertragsformulierungen für die priorisierten Findings und dokumentierter Reichweite der Prüfung."
 ---
 
-# Due Diligence vom Einstieg bis zur Kaufentscheidung steuern
+# Due Diligence in Vertrags- und Entscheidungsfolgen übersetzen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -18,6 +18,19 @@ Lesen Sie zuerst Auftrag, Datenraumindex, Transaktionsentwurf und vorhandene Zah
 Klären Sie verfügbare Dateien, zulässigen Speicherort, Prüfbudget und vorhandene Fachberater. Vertraulichkeitsstufe, personenbezogene Daten, Einsichtsrechte und eingeschränkte Datenräume bestimmen die Verarbeitung. Fehlende Zugriffsrechte werden nicht durch Weiterleitungen an externe Dienste umgangen. Übernehmen Sie keine Zugangsdaten in den Bericht.
 
 ## 3. Ablauf und Checkliste
+
+**Aktenstart.** Lies Auftrag, Prüfungsumfang, Datenraumindex, Versionen und konkrete Primärdokumente; fehlende Dokumente bleiben offen und werden nicht als mangelfrei bewertet. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Bestimme pro Finding Tatsache, tatsächlichen Umfang, Eintrittswahrscheinlichkeit und Dealfolge. Prüfe bei widersprüchlichem Datenraum Zeitpunkt, Auffindbarkeit und konkrete Q&A-Antwort statt pauschal Kenntnis des Käufers zu unterstellen.
+
+**Gezielte Vertiefung.** Bei Arbeitnehmerdaten prüfe Schutz und mögliche Verwertbarkeit; bei Genehmigungs-, Eigentums- oder Finanzierungsrisiko die für Closing nötige Abhilfe. Ordne jedes wesentliche Finding begründet einer CP, Garantie, Freistellung, Preisanpassung oder Offenlegung zu. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere einen ausformulierten DD-Bericht mit konkreten Vertragsformulierungen für die priorisierten Findings und dokumentierter Reichweite der Prüfung. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1. Auftrag in einen überprüfbaren Lauf übersetzen
 
@@ -74,6 +87,30 @@ Ein neuer Upload verändert die Bewertung einer wesentlichen Kundenbindung. Sie 
 ### 6.3. Bankfiliale Erfurt
 
 Eine Forderung wird als vollwertig angeboten, obwohl das Insolvenzverfahren eröffnet ist. Sie trennen Rechtsbestand, Durchsetzbarkeit und erwartbaren Rückfluss und verlangen die Verfahrensunterlagen. Die übrigen neunzehn Fälle werden währenddessen weiterbearbeitet.
+
+
+
+### 6.4. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BGH, Urteil vom 15.09.2023 – V ZR77/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__77-22.pdf?__blob=publicationFile&v=1). **Anwendung:** Wesentliche Befunde gezielt offenlegen und tatsächliche Auffindbarkeit belegen. **Grenze:** Immobilienkauf, keine pauschale Haftungsentscheidung für sämtliche Unternehmenskäufe.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-10.
+
+2. [BAG, Urteil vom 21.03.2024 – 2 AZR79/23](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-79-23/). **Anwendung:** Wirtschaftliche Einheit und Zuordnung einzelner Arbeitnehmer getrennt prüfen. **Grenze:** Keine automatische Auswahlfreiheit des Käufers und keine pauschale Unschädlichkeit aller Unterrichtungsmängel.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-10.
+
+3. [BGH, Urteil vom 08.01.2019 - II ZR 364/18, Rn. 24 bis 47](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1). **Anwendung:** Beim Verkauf des ganzen GmbH-Unternehmens interne Zustimmung der Gesellschafter von externer Vertretungsmacht trennen; Kenntnis oder Evidenz eines Vollmachtsmissbrauchs auf Käuferseite prüfen. **Grenze:** Paragraf 179a AktG gilt nicht analog für die GmbH; fehlender Beschluss macht den Vertrag nicht automatisch unwirksam. Kein allgemeiner Maßstab für jeden Share Deal.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
+
+#### 6.4.1. Beweis und Abschluss
+
+Ordne Vertragsschluss, Leistung, Abnahme, Mangel, Rüge, Kausalität, Schaden und Erfüllung nach dem konkreten Anspruch zu. Informationsrechte und sekundäre Darlegungslast verlangen eigene Voraussetzungen; fehlende Unterlagen beweisen weder Mangelfreiheit noch Verschulden. Bei einem Gutachten oder Datenraumfund die Wahrnehmbarkeit und tatsächliche Kenntnis gesondert belegen.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

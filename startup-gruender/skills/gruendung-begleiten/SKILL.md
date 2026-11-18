@@ -1,9 +1,9 @@
 ---
 name: gruendung-begleiten
-description: Führt eine deutsche UG- oder GmbH-Gründung vom vorhandenen Gründerkontext zügig zu einer vollständigen Satzung, Gesellschaftervereinbarung und Vollzugsplanung. Hauptsache-Skill für ein abgestimmtes Gründungspaket mit gezielten Rückfragen.
+description: "Start-up-Gründung vom Vorhaben zu Satzung und Gründervereinbarung führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert zusammenhängendes Gründungs- oder Beteiligungspaket mit ausformulierten Regelungen, belastbarem Cap Table und konkretem Notar-/Registeranschluss."
 ---
 
-# Startup-Gründung begleiten
+# Start-up-Gründung vom Vorhaben zu Satzung und Gründervereinbarung führen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -16,6 +16,19 @@ Richte die Bearbeitung nach der vertretenen Seite aus. Berate bei einem neutrale
 Nutze bereits genannte Personen, Rollen, Quoten, Rechtsformwunsch, Unternehmensgegenstand, Kapital, Geschäftsführer, Stand der Gründung, vorhandene Verträge, Zeitplan und gewünschte Sprache. Für eine individualisierte Satzung sind Firma, Sitz, Unternehmensgegenstand, Stammkapital sowie Zahl und Nennbeträge der Geschäftsanteile je Gründer entscheidend. Fehlen einzelne Identitätsdetails, nutze sichtbare Platzhalter, ohne ganze Regelungen wegzulassen. Kläre zusätzlich die bisher offenen Entscheidungen, die den beauftragten Entwurf tatsächlich ändern, etwa Kontrollrechte, Leaver-Regeln, IP-Beiträge oder Zweisprachigkeit.
 
 ## 3. Ablauf und Checkliste
+
+**Aktenstart.** Lies Gründerabreden, Cap Table, IP-Nachweise, Finanzierung, bestehende Verträge und Gründungsstand. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Trenne Vorgründung, Vorgesellschaft und eingetragene Gesellschaft sowie echte Beteiligung und virtuelle Vergütung. Ordne IP, Vertragspartner, Kapital und Vertretung dem richtigen Rechtsträger zu.
+
+**Gezielte Vertiefung.** Bei Vesting/Leaver bewerte Gesamtmodell und Abfindung; bei Finanzierungsrunde Zustimmungspflichten nicht aus wirtschaftlicher Zweckmäßigkeit ableiten. Satzung, SHA, Dienstvertrag und IP-Übertragung auf gleiche Auslöser und widerspruchsfreie Folgen abstimmen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere zusammenhängendes Gründungs- oder Beteiligungspaket mit ausformulierten Regelungen, belastbarem Cap Table und konkretem Notar-/Registeranschluss. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1. Auftrag und verlässlichen Ausgangsstand bestimmen
 
@@ -64,6 +77,38 @@ Die sieben Personen, Unternehmensgegenstand, 25.000 EUR Kapital und Geschäftsf�
 ### 6.2. Fortsetzung nach neuer Information
 
 Eine Gründerin legt einen früheren Arbeitsvertrag mit Rechteklausel vor. Aktualisiere die IP-Bewertung und die betroffenen Garantien; arbeite am übrigen Paket weiter. Gib nicht vor, der Code sei deshalb automatisch frei übertragbar.
+
+
+
+### 6.3. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BGH, Urteil vom 2026-02-10 – II ZR 71/24, Rn. 18–21, 31, 40, 47, 55, 58, 67](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1). **Anwendung:** Vesting-/Leaver-Matrix: Erwerbsmotiv, Kaufpreis, Risiko, Mitarbeit, eigenständige Gründerstellung, Auslöser, vested/unvested, Abfindung und Missbrauchsschutz getrennt begründen. **Grenze:** Entschieden wurde eine mittelbare Managementbeteiligung über eine KG; keine allgemeine Freigabe von Founder-Vesting oder Nennwertabfindungen. Zurückverweisung, insbesondere zur Ausübungskontrolle nach § 242 BGB. Nicht mit II ZR 71/23 verwechseln. Auch Startup-Gestaltungen bleiben einzelfallabhängig (Rn. 40).
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+2. [BGH, Urteil vom 2014-04-29 – II ZR 216/13, Rn. 9–18, insbesondere 11–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1). **Anwendung:** Kein Standardtext „Bad Leaver verliert alles“. Verschulden, wesentliche Pflichtverletzung, Heilungsfrist, sachliche Rechtfertigung, Gutachterverfahren und Finanzierbarkeit getrennt bearbeiten. **Grenze:** Kein Verbot jeder differenzierten Abfindungsklausel oder angemessenen Vertragsstrafe. Konkrete Schäden, Bewertungsmaßstab, Einziehungsgrund und Kaufpreisregelung unterscheiden. Sonderfälle können anders liegen; SG01 trennt ebenfalls Ausschluss und Abfindung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+3. [BGH, Urteil vom 2021-04-15 – III ZR 139/20, Rn. 24–25; amtlicher Leitsatz a](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2020/III_ZR_139-20.pdf?__blob=publicationFile&v=1). **Anwendung:** Jeden Altvertrag nach Datum, Rechtsträger, Zeichner, Verpflichtung und Überleitungs-/Genehmigungsbedarf erfassen; bereits privat bestellte Drohnenteile und IP-Verträge gesondert übertragen. **Grenze:** Ob eine solche Ausnahme vereinbart wurde, folgt aus konkreter Auslegung. Der bloße Zusatz „i. G.“ erzeugt keine Haftungsbefreiung. Stiftungsrechtliche weitere Aussagen des Urteils sind für die Gründung nicht zu übertragen. Amtlicher PDF-Text enthält Berichtigung vom 27.05.2021.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+4. [BGH, Urteil vom 2024-07-16 – II ZR 71/23, Rn. 20–24 sowie 43–45; amtliche Leitsätze](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__71-23A.pdf?__blob=publicationFile&v=1). **Anwendung:** Jede Regel bekommt Ebene, Bindungsadressaten, Mehrheit, Durchsetzung und Änderungspfad: Satzung, SHA, Geschäftsordnung, Beiratsordnung oder Dienstvertrag. **Grenze:** Nicht behaupten, ein SHA-Verstoß könne niemals Beschlussfolgen haben: Rn. 23 nennt die Ausnahme der von allen Gesellschaftern untereinander eingegangenen Bindung. Dauerhafte Satzungsdurchbrechungen unterliegen Form-/Registeranforderungen. Entscheidung ist kein Ersatz für saubere Kompetenzverteilung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+5. [BGH, Urteil vom 2016-09-22 – III ZR 427/15, Rn. 14–19](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2015/III_ZR_427-15.pdf?__blob=publicationFile&v=1). **Anwendung:** Vor Unterschrift eine Formmatrix über Satzung, Investment Agreement, SHA, Optionsvereinbarung, Anlagen und Sideletters erstellen; keine bloße PDF-Unterschrift als Formersatz. **Grenze:** Besonderer Treuhandfall, kein allgemeiner Satz, alle SHA seien formfrei oder stets vollständig beurkundungsbedürftig. § 15 Abs. 4 GmbHG unmittelbar auf Übertragungspflichten, Optionen, Drag/Tag und Vestingmechanik prüfen; Paket und Anlagen notariell abstimmen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+#### 6.3.1. Beweis und Abschluss
+
+Bestimme die Darlegungs- und Beweislast je Anspruch und Merkmal. Bei Organhaftung sind Schaden und haftungsauslösender Zusammenhang von der Gesellschaft darzulegen; die organbezogene Sorgfalts-/Entlastungslast nach § 93 Abs. 2 AktG beziehungsweise den Regeln zu § 43 GmbHG darf nicht durch einen pauschalen Satz ersetzt werden. Die Business Judgment Rule betrifft unternehmerische Entscheidungen, nicht die Freiheit zur Missachtung zwingenden Rechts. Mitgliedschaft, Beschlussmangel und Treuepflichtanspruch benötigen jeweils eigene Belege; Register- oder Listeneintrag allein beweist nicht jeden materiellen Vorgang.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

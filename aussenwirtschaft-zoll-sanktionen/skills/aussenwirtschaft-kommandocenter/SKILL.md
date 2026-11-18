@@ -1,9 +1,23 @@
 ---
 name: aussenwirtschaft-kommandocenter
-description: "Für Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Außenwirtschaftsvorgang zur begründeten Handlungsentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung
+# Außenwirtschaftsvorgang zur begründeten Handlungsentscheidung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Aus Auftrag, Warenunterlagen und Zahlungsweg Ware, Technologie, Beteiligte, Länder, Zeitpunkt und eigene Rolle extrahieren. Exportkontrolle, Zoll, Sanktionen und statistische Meldung als getrennte Fragen erfassen.
+
+2. Güterklassifizierung und tatsächliche Endverwendung prüfen, danach Personenbezug einschließlich Eigentum und Kontrolle sowie territorialen und persönlichen Anwendungsbereich. Treffer nicht mit Verbot und Genehmigungsfähigkeit nicht mit erteilter Genehmigung gleichsetzen.
+
+3. Nur für den konkreten Treffer den Fachweg zu Dual Use, Sanktion, Zollwert oder Meldepflicht laden; behördliche Auskunft nach § 23 AWG und Meldetermin nach einschlägiger AWV-Regel getrennt behandeln.
+
+4. Freigabe, Zurückstellung oder Genehmigungsweg mit Tatsachenbasis und Reichweite begründen; das verlangte Behörden- oder Geschäftsschreiben ausformulieren und fehlende Endverwendungsbelege statt einer pauschalen Freigabe benennen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## Arbeitsweg
 
@@ -26,14 +40,14 @@ description: "Für Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuer
 3. Ressourcen zuordnen: externe Berater, interne Experten, IT-Kapazitaet.
 4. Kritische-Pfad-Analyse für zeitkritische Verfahren.
 5. Eskalationsprozess und Berichtslinien für Geschäftsführung definieren.
-6. Woechentliche Statusuebersicht und Fristen-Dashboard einrichten.
+6. Eine Statusübersicht mit konkreten Wiedervorlagen ausgeben. Wiederkehrende Überwachung nur bei ausdrücklichem Auftrag und tatsächlich eingerichteter Funktion als aktiv bezeichnen; sonst bleibt die Übersicht eine Momentaufnahme.
 
 ## Rechtsrahmen
 
-- **AWG § 14**: Auskunftspflichten mit Fristen gegenueber Behörden.
+- **AWG § 23**: Auskunfts- und Prüfungsbefugnisse einschließlich zuständiger Stelle und Grenzen; konkrete behördliche Frist aus dem Schreiben erfassen.
 - **UZK Art. 22**: Bescheidfrist bei Bewilligungsantraegen.
-- **AWV § 61**: Meldefristen AWV-Zahlungsmeldungen.
-- **BAFA-Verfahrensordnung**: Bearbeitungsfristen für Genehmigungsantraege.
+- **AWV § 71**: Meldeartbezogene Termine für Meldungen nach §§ 64–67 und 70 AWV; Zahlungs- und Bestandsmeldungen nicht gleichsetzen.
+- **Genehmigungsverfahren**: Frist und Verfahren aus der einschlägigen Rechtsgrundlage, konkreten BAFA-Mitteilung und Antragsart bestimmen; keine allgemeine Bearbeitungsfrist erfinden.
 - **§ 130 OWiG**: Organisationspflichtverletzung als Bussgelstatbestand.
 
 ## Prüf-Raster
@@ -76,6 +90,16 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [Zoll.de](https://www.zoll.de/DE/Home/home_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 21.12.2011, Az. C-72/11, Afrasiabi, Randnummern 45 bis 57](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0072): Kontrollierten Zwischenempfänger und beabsichtigten Endnutzen prüfen; fehlende sofortige Verwendungsbereitschaft schließt wirtschaftliche Ressource nicht aus. **Grenze:** Historischer Iran-Fall mit Sinterofen; aktuelle Verbotsnorm, Listung und subjektive Voraussetzungen gesondert, keine allgemeine Sperre jeder Zwischenlieferung.
+
+- [EuGH, Urteil vom 12.11.2026 – C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77](https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html): Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV. **Grenze:** Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.
+
+- [EuGH, 12.03.2026, C-84/24, EM System](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62024CJ0084): Widerlegbare Kontrollvermutung bei 50 Prozent Beteiligung unter Artikel 2 Absatz 1 der Verordnung 765/2006; Vermögen einer nicht selbst gelisteten Gesellschaft kann erfasst sein. **Grenze:** Keine neue Eigenlistung, keine unwiderlegbare US-Eigentumsregel; tatsächliche Gegenbelege und aktuelles Regime prüfen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

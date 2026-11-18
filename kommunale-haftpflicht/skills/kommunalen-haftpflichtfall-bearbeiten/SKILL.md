@@ -1,9 +1,23 @@
 ---
 name: kommunalen-haftpflichtfall-bearbeiten
-description: "Hauptworkflow für die kommunale Schadenbearbeitung vom belegten Sachverhalt über Haftung, Schadenhöhe und gesonderte Deckung bis zur vollständigen Antwort, Entscheidungsvorlage oder beauftragten Regulierung."
+description: "Kommunalen Haftpflichtfall bis zur begründeten Regulierung oder Ablehnung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Kommunalen Haftpflichtfall bearbeiten
+# Kommunalen Haftpflichtfall bis zur begründeten Regulierung oder Ablehnung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Schadenanzeige, Ortsbefund, Fotos, Zuständigkeit, Satzung, Einsatz- und Kontrollnachweise auslesen; Kommune, Eigenbetrieb und beauftragtes Unternehmen unterscheiden.
+
+2. Hoheitliche Tätigkeit, privatrechtliche Verkehrssicherung und Gefährdungshaftung getrennt zuordnen. Pflicht, Zuständigkeit, Kausalität und Mitverschulden anhand des konkreten Geschehens prüfen.
+
+3. Nur für einschlägige Streitpunkte Fachwege zu Winterdienst, Organisation, Fahrzeugschaden, Personenschaden oder Regress öffnen; Versicherungsschutz und Außenhaftung bleiben getrennte Entscheidungen.
+
+4. Regulierung, Ablehnung oder Vergleich mit belegter Quote, Betrag und Verjährungswirkung vollständig schreiben; Haushaltsführungsschaden und Zukunftsvorbehalt nicht durch pauschale Tabellenwerte ersetzen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -43,6 +57,16 @@ Die Ausformulierungspflicht gilt ausdrücklich: Das beauftragte Endprodukt beste
 ## 6. Beispiele
 
 Eine Besucherin meldet einen Sturz im kommunalen Saal; gleichzeitig fehlen Reinigungsnachweise und die Deckungsakte. Erstelle zuerst den auswertbaren Haftungsstand und ein konkretes Anforderungsschreiben. Behaupte weder eine Haftungsfreiheit wegen fehlender Fotos noch Deckung allein wegen kommunaler Trägerschaft.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 11.01.2024 – III ZR 15/23, Rn. 9, 11–17.](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR__15-23.pdf?__blob=publicationFile&v=1): Für das Handeln in Ausübung eines öffentlichen Amtes kommt es auf Zielsetzung und engen äußeren und inneren Zusammenhang mit der hoheitlichen Aufgabe an, nicht allein auf die Rechtsform oder den Arbeitgeber. Auch Mitarbeiter eines privaten Unternehmens können Verwaltungshelfer sein. Im entschiedenen Fall setzten sie eine behördlich angeordnete Verkehrsregelung durch das Aufstellen von Verkehrszeichen um; Art. 34 GG verdrängte ihre persönliche Außenhaftung. **Grenze:** Keine Pauschalregel für jede kommunale GmbH oder jedes Bürgerhaus. Betreiber, Auftrag, Einfluss der Behörde, konkrete Verrichtung, Satzung und Vertrag feststellen. Straßenverkehrsrechtlicher Ausgangsfall; bayerisches Landesrecht und private Veranstaltungsvermietung eigenständig zuordnen.
+
+- [BGH, Beschluss vom 01.07.2025 – VI ZR 357/24, Rn. 8–14, 18–22.](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_357-24.pdf?__blob=publicationFile&v=1): Der Geschädigte trägt grundsätzlich die Darlegungs- und Beweislast für die streupflichtauslösende Gefahrenlage und Pflichtverletzung; an schlüssigen Vortrag dürfen keine überhöhten Anforderungen gestellt werden. Eine vollständige Verdrängung der Verantwortung des Streupflichtigen erfordert besondere, schlechthin unverständliche Sorglosigkeit. Bloße Erkennbarkeit der Glätte genügt dafür nicht; die Voraussetzungen des Mitverschuldens hat der Schädiger darzulegen und zu beweisen. **Grenze:** Entschieden wurde winterliche Glätte auf einem Verkehrsweg. Für einen nassen Innenraumeingang nur die begrenzten Darlegungs- und Mitverschuldensgrundsätze verwenden; keine automatische Streupflicht, feste Reinigungsfrist oder Haftungsquote übertragen.
+
+- [BGH, Urteil vom 05.11.2024 – VI ZR 12/24, Rn. 7–14.](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__12-24.pdf?__blob=publicationFile&v=1): Der Ausfall eigener Haushaltstätigkeit kann auch bei unentgeltlicher Hilfe Dritter ersatzfähig sein. Zuerst sind die ausgefallenen Leistungen und Stunden festzustellen. Bei fiktiver Ersatzkraftbeschaffung geht es um Nettokosten; bei tatsächlich beschäftigter Ersatzkraft können erforderliche Bruttokosten maßgeblich sein. Eine Schätzung des Stundensatzes benötigt nachvollziehbare tatsächliche Grundlagen. JVEG-Sätze sind allein keine geeignete Bemessungsbasis; ein gesetzlicher Bruttomindestlohn ist nicht ohne Weiteres der passende Nettostundensatz. **Grenze:** Kein bundesweit fester Haushaltssatz und keine Preisempfehlung für 2026. Region, Zeitraum, Tätigkeit, erforderlicher Ersatz und tatsächliche beziehungsweise fiktive Abrechnung getrennt belegen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

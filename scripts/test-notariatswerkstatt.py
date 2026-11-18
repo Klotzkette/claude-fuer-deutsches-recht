@@ -13,6 +13,7 @@ import zipfile
 
 from docx import Document
 from pypdf import PdfReader
+from main_skill_revisions import historical_bytes
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_grundakte import FOLDER, selection
@@ -95,14 +96,15 @@ class NotariatswerkstattTests(unittest.TestCase):
                 if '://' not in target and not target.startswith('#'):
                     self.assertTrue((path.parent / target.partition('#')[0]).is_file(), (path, target))
 
-    def test_individual_reviews_cover_current_skill_and_prompt_content(self):
+    def test_individual_reviews_bind_reviewed_skills_and_current_prompts(self):
         profile = json.loads((ROOT / 'quality/evals/notariat-alltag.json').read_text(encoding='utf-8'))
         reviews = profile['individual_skill_review']
         expected = {path.relative_to(ROOT).as_posix() for path in (PLUGIN / 'skills').glob('*/SKILL.md')}
         self.assertEqual({item['path'] for item in reviews}, expected)
         self.assertEqual(len(reviews), len(expected))
         for item in reviews:
-            self.assertEqual(item['sha256'], hashlib.sha256((ROOT / item['path']).read_bytes()).hexdigest(), item['path'])
+            reviewed = historical_bytes(ROOT, ROOT / item['path'], item['sha256'], plugin='notariat-alltag')
+            self.assertEqual(item['sha256'], hashlib.sha256(reviewed).hexdigest(), item['path'])
             self.assertEqual(item['method'], 'desk_review')
         for kind, field in [('schnellstart', 'mini_review'), ('werkstatt', 'workshop_review')]:
             path = PLUGIN / f'notariat-alltag-{kind}.md'

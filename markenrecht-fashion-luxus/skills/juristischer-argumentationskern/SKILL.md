@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Markenrecht Fashion Luxus ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Luxusmarke und Vertriebsfall zur belastbaren Position führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Markenrecht Fashion Luxus
+# Luxusmarke und Vertriebsfall zur belastbaren Position führen
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Gleiche Zeichen, Register, Waren, Benutzung und beanstandetes Angebot ab. Leite daraus die beauftragte Anmelde-, Lizenz- oder Durchsetzungsposition ab.
+Lies Register, Lizenz- und Vertriebsverträge, konkrete Ware, Absatzweg und beanstandete Markenverwendung.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,30 +62,32 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. EuGH, Urteil vom 11.11.1997 - C-251/95: SABEL verlangt eine umfassende Beurteilung der Verwechslungsgefahr; bloße Assoziation genügt nicht.
-5.2. EuGH, Urteil vom 29.09.1998 - C-39/97: Canon verbindet Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und Kennzeichnungskraft im Wechselwirkungsgrundsatz.
-5.3. EuGH, Urteil vom 22.06.1999 - C-342/97: Lloyd bestimmt den normal informierten, angemessen aufmerksamen und verständigen Durchschnittsverbraucher als Bezugspunkt.
-5.4. EuGH, Urteil vom 06.10.2005 - C-120/04: Medion erfasst die selbständig kennzeichnende Stellung eines Bestandteils in einer zusammengesetzten Marke.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. EuGH, Urteil vom 23.04.2009, Az. C-59/08, Copad, Randnummern 31 bis 37, 46 bis 51 und 57 bis 59. Anwendung: Bei Lizenznehmervertrieb an Discounter einschlägige Lizenzklausel und konkrete Schädigung des Luxusimages für Zustimmung und Widerspruch prüfen. Grenze und Prüfzugang: Keine pauschale Markensperre bei jedem Vertragsbruch oder jedem Rabattvertrieb; kein allgemeiner Beleg für Drittlandserschöpfung. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059) — dokumentierter Prüfstand 2026-09-22.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welches Zeichen beansprucht für welche Waren und Dienstleistungen welchen Zeitrang.
-7.2. Welches absolute oder relative Hindernis ist tatsächlich einschlägig.
-7.3. Welche Benutzung ist in welchem Zeitraum, Gebiet und Warenumfang belegt.
-7.4. Welche konkrete Verletzungshandlung ist markenmäßig und welche Einrede greift.
-7.5. Welcher Antrag und welches Waren- oder Dienstleistungsverzeichnis sind verfahrensfest.
+7.1. Trenne Zeichenverletzung, Erschöpfung, Lizenzverstoß und Rufbeeinträchtigung. Prüfe die konkrete Zustimmung und die tatsächliche Wirkung der Verkaufsumgebung.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Formuliere den bestellten Lizenztext, die Abmahnung oder Verteidigung mit belegter Verletzungsform und verhältnismäßigem Begehren.
+
+7.4. Ein Rabattverkauf allein beweist keine Rufschädigung; neue Bilder der Verkaufsumgebung müssen in die konkrete Abwägung und den Entwurf eingehen.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

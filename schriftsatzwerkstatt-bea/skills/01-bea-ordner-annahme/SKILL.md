@@ -1,9 +1,17 @@
 ---
 name: 01-bea-ordner-annahme
-description: "Bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln: startet die technische Werkstatt ohne juristische Inhaltsänderung. Inventarisiert Originale, klärt fehlende Pflichtdaten und führt durch Version, Anlagen, PDF, Namen und Signatur bis zum Paket mit Freigabe- und Eingangskontrolle."
+description: "beA-Werkstatt vom Dateiordner zur geprüften Mappe führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# beA-Ordner annehmen und Werkstatt starten
+# beA-Werkstatt vom Dateiordner zur geprüften Mappe führen
+
+Übernimm den bereitgestellten Ordner in den vorhandenen App-Arbeitsweg und bestimme die tatsächlich gewählte Hauptdatei und ihre Anlagen.
+
+**Entscheidung im Arbeitsablauf:** Prüfe unbekannte Zuordnung, Lesbarkeit, fehlende Datei und widersprüchliche Endfassung gezielt; nutze ausschließlich vorhandene App-Funktionen und bestätigte Ergebnisse.
+
+**Bis zum Ergebnis weiterarbeiten:** Liefere die tatsächlich erzeugte Mappe mit prüfbarem Dateibestand und benannten offenen Formpunkten; die Anwendungsvorbereitung ist kein Auftrag zur Einreichung. Eine ersetzte Hauptdatei löst neue Anlagenzuordnung und Endkontrolle aus; ein fehlgeschlagener Export wird konkret gemeldet und nicht als fertiger Download dargestellt.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## Zweck und Anwendungsfall
 

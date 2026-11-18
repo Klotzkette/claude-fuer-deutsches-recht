@@ -1,9 +1,23 @@
 ---
 name: agb-hauptproblem-loesen
-description: "Erstellt aus Geschäftsmodell, Altbedingungen, Preislisten und Beschwerden vollständige passende AGB samt Einführungstexten. Steuert zehn Fachskills gezielt, fragt entscheidende Lücken nach und prüft aktuelle Normen und Rechtsprechung."
+description: "AGB prüfen, überarbeiten und im Vertrag fortführen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Aus Geschäftsunterlagen vollständige AGB erstellen
+# AGB prüfen, überarbeiten und im Vertrag fortführen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Aus vorhandener Fassung und Auftrag erkennen, ob einzelne Klausel, Gesamtvertrag oder Verbandsangriff zu bearbeiten ist; Abschlussdatum und Zielgruppe nur bei Entscheidungserheblichkeit ergänzen.
+
+2. Klauselzweck und gesetzliches Leitbild bestimmen. Bei Online-Abschluss Bestellschaltfläche und Pflichtinformationen, bei Bankzahlung Autorisierung und Erstattung eigenständig prüfen.
+
+3. Den Fachweg nach Klauseltyp öffnen; Einbeziehung, Kontrollfähigkeit und konkrete Inhaltskontrolle nicht ineinander schieben. Widersprechende Definitionen und Anhänge mitprüfen.
+
+4. Die gewählte Alternative in eine vollständige Klausel oder verlangte Vertragsfassung übernehmen; Rückzahlungs-, Kündigungs- oder Unterlassungsfolge gesondert begründen und verbleibende Lücken kennzeichnen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1 Zweck und Anwendungsfall
 
@@ -40,6 +54,16 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen Sätzen, nicht 
 ## 6 Beispiel
 
 Ein gemischter Tierbedarfshändler übersendet Lieferantenbedingungen, Beschwerden und einen alten Universalentwurf. Erarbeiten Sie passende Verbraucher- und Händlerfassungen mit Umsetzung für Laden und Shop, statt nur die Fehler des alten Dokuments aufzulisten.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2](https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?language=en&num=C-249%252F21&page=1): Zahlungspflicht anhand des Schaltflächentextes prüfen. **Grenze:** Keine allgemeine Freigabe der übrigen Shopbedingungen; konkreter Abschlussweg bleibt zu prüfen.
+
+- [EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 31–42, 45–47, 52](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE): Trägt: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten. **Grenze:** Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.
+
+- [BGH, Urteil vom 01.10.2026, III ZR 205/25, Rn. 20–32](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip): Prüfe Preis-, Widerspruchs- und Kündigungsklauseln gemeinsam. Lege fest, ob und bis wann Widerspruch den bisherigen Preis erhält und wann eine Kündigung wirkt. **Grenze:** Die Entscheidung zur konkreten AGB-Gruppe begründet kein allgemeines Erhöhungsverbot und spricht keine individuelle Erstattung zu. Die weitere Angriffsrichtung zur Kostenstruktur blieb für die Entscheidung offen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

@@ -30,6 +30,7 @@ from pypdf import PdfReader
 import yaml
 
 from quality_lab import validate_profile
+from release_routing import validate_plugin_version
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
@@ -91,14 +92,16 @@ class BerichtserstellerTest(unittest.TestCase):
                 self.assertEqual(builder.fontconfig_path("Liberation Serif", "Bold"), bold)
 
     def test_manifests_marketplace_and_skill_contract(self):
-        for relative in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
-            manifest = json.loads((PLUGIN / relative).read_text())
-            self.assertEqual((manifest["name"], manifest["version"]), (NAME, VERSION))
         market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         entries = [p for p in market["plugins"] if p["name"] == NAME]
         self.assertEqual(len(entries), 1)
+        validate_plugin_version(entries[0], market["version"], root=ROOT)
+        version = entries[0]["version"]
+        for relative in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
+            manifest = json.loads((PLUGIN / relative).read_text())
+            self.assertEqual((manifest["name"], manifest["version"]), (NAME, version))
+            self.assertEqual(manifest["description"], entries[0]["description"])
         self.assertEqual(entries[0]["source"], "./" + NAME)
-        self.assertEqual(entries[0]["version"], VERSION)
         skills = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
         self.assertEqual(len(skills), 11)
         self.assertEqual(sum(path.parent.name == "berichtserstellung-steuern" for path in skills), 1)

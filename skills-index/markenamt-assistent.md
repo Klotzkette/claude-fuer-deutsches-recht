@@ -1,6 +1,6 @@
 # markenamt-assistent
 
-**11 Skills** · Stand `v445.35.3`
+**11 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../markenamt-assistent/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`markenamt-assistent-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/markenamt-assistent-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`markenamt-assistent-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/markenamt-assistent-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [markenamt-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenamt-assistent.zip) |
+| **Plugin (installierbar)** | ZIP | [markenamt-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/markenamt-assistent.zip) |
 
 ## So benutzt man einen Skill
 
@@ -34,7 +34,7 @@ English: This index lists source skills, including specialist series accessed th
 | --- | --- | --- |
 | [`dpma-marke-anmelden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/dpma-marke-anmelden/SKILL.md) | Eine Markenanmeldung beim DPMA mit Inhaber, Darstellung, Verzeichnis, Priorität, Gebühren und Eingangskontrolle vorbereiten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/dpma-marke-anmelden/SKILL.md) |
 | [`euipo-unionsmarke-anmelden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/euipo-unionsmarke-anmelden/SKILL.md) | Eine EUIPO-Anmeldung mit unionsweiter Schutzstrategie, Sprachen, Inhaber, Warenverzeichnis und Gebühren steuern. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/euipo-unionsmarke-anmelden/SKILL.md) |
-| [`marke-sichern-trotz-offener-rechte`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md) | Einen DPMA- oder EUIPO-Fall bei Fristdruck und ungeklärter Inhaber- oder Beweislage priorisieren und bis zur fertigen Anmeldung oder Verteidigung führen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md) |
+| [`marke-sichern-trotz-offener-rechte`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md) | Markenverfahren vom Zeichen bis zum begründeten Antrag führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md) |
 | [`markenauftrag-und-fristen-klaeren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/markenauftrag-und-fristen-klaeren/SKILL.md) | Markenverfahren beim DPMA oder EUIPO aufnehmen und Zustellung, Vollmacht, Gebühren sowie den passenden Verfahrensweg prüfen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/markenauftrag-und-fristen-klaeren/SKILL.md) |
 | [`markenbeanstandung-beantworten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/markenbeanstandung-beantworten/SKILL.md) | Formelle und materielle DPMA- oder EUIPO-Beanstandungen anhand der konkreten Waren und Belege beantworten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/markenbeanstandung-beantworten/SKILL.md) |
 | [`markeninhaber-und-lizenzen-umschreiben`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/markeninhaber-und-lizenzen-umschreiben/SKILL.md) | Übertragung, Namensänderung, Lizenz, Vertretung und Berichtigungen in DPMA- und EUIPO-Registern sauber nachhalten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/skills/markeninhaber-und-lizenzen-umschreiben/SKILL.md) |

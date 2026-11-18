@@ -1,0 +1,57 @@
+---
+name: website-redaktion-steuern
+description: Führt Kanzlei-Website-Aufträge vom eingereichten Material über Beitrag, Profil oder Seitenänderung bis zur geprüften Vorschau und freigegebenen Veröffentlichung. Koordiniert genau den benötigten Fachschritt, ohne die gesamte Website neu aufzubauen.
+---
+
+# Kanzlei-Website redaktionell führen
+
+## 1. Zweck und Anwendungsfall
+
+Verwandeln Sie „Hier ist etwas Neues für unsere Website“ in die passende konkrete Änderung. Sie bearbeiten die Außenkommunikation einer Kanzlei, nicht deren Mandate, Personalverwaltung oder Postfach. Ein klarer Einzelauftrag braucht weder ein vollständiges Interview noch eine Bestandspräsentation.
+
+## 2. Eingaben
+
+Lesen Sie den Auftrag, die freigegebenen Dateien und, falls vorhanden, die lokale Kanzlei-Redaktionsakte. Prüfen Sie nur betroffene Seiten und Personen. Fehlen Auftrag und Ziel, fragen Sie: „Soll daraus ein Beitrag, eine Profiländerung oder eine andere Website-Aktualisierung werden?“ Fehlt nur die Veröffentlichungsbefugnis, arbeiten Sie bereits am Entwurf weiter.
+
+## 3. Ablauf
+
+1. Legen Sie eine Auftragskennung und Zielseite fest. Trennen Sie publizierbaren Text von privaten Belegen. Ein hochgeladener Lebenslauf begründet keine Erlaubnis, dessen private Anschrift zu veröffentlichen.
+2. Wählen Sie den passenden Schritt: `blogbeitrag-erstellen`, `urteil-in-kanzleinews-uebertragen`, `teamprofile-lebenslaeufe-pflegen`, `fotos-medien-einpflegen` oder `leistungen-kontaktseiten-pflegen`. Laden Sie nicht alle Skills vorsorglich. Neue Verbindungen und grundlegende Gestaltung gehören zu `website-einrichten-verbinden`.
+3. Liefern Sie die konkrete Textfassung oder Änderungsvorschau. Höchstens zwei zusammenhängende, entscheidende Rückfragen je Runde; keine Frage nach Informationen, die der Bestand bereits belegt. Bei widersprechenden Angaben beide Quellen nennen und den übrigen Entwurf fortsetzen.
+4. Lassen Sie `transparenz-veroeffentlichung-pruefen` die Veröffentlichungsvoraussetzungen prüfen. Ein Korrekturwunsch führt zur betroffenen Passage zurück, nicht zum erneuten Kanzleistart.
+5. Nach eindeutigem Auftrag und konkreter Freigabe an `website-veroeffentlichen-wiederherstellen` übergeben. Ohne passende Verbindung die Dateien samt Zielzuordnung ausgeben. „Fertig“ bedeutet dann Entwurf oder Übergabepaket, nicht „online“.
+6. Halten Sie Auftragskennung, Fassung, offene Frage und nächsten Schritt lokal fest. Bei Abbruch daran anknüpfen; keine wiederholten Uploads oder Endlossuche. Wiederkehrende Quellenbeobachtung ist ein eigener, begrenzter Auftrag.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Unterscheiden Sie das Erzeugen eines öffentlichen Informationstexts von der technischen Bildmarkierung. Prüfen Sie eine redaktionelle Ausnahme nur anhand der tatsächlich vorgenommenen Kontrolle und übernommenen Verantwortung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
+## 4. Quellenpflicht
+
+Für Veröffentlichungen gelten [Recht und Transparenz](../../references/recht-und-transparenz.md) und [Redaktionsbetrieb](../../references/redaktionsbetrieb.md). Artikel 50 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2024/1689, Paragraf 43b BRAO und belegte Kanzleifakten sind keine nachträgliche Dekoration: offene Voraussetzungen bleiben vor Veröffentlichung sichtbar. Zitieren nach [Quellenregeln](../../references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Zeigen Sie zuerst den verwendbaren Text oder die konkrete Änderung, danach knapp „Noch offen“ und den nächsten Entscheidungsschritt. Schreiben Sie vollständige Sätze, keine bloßen Textskelette. Webtexte folgen dem vorhandenen Webdesign. Ein getrennter Kanzleivermerk verwendet bei formatierter Ausgabe Times New Roman 11 pt und dezimale Gliederung. Protokolle und interne Freigaben nie in den öffentlichen Artikel kopieren.
+
+## 6. Beispiele
+
+„Hier sind Urteil und zwei Stichpunkte“ führt zu einem adressatengerechten Artikelentwurf mit Quellenprüfung, nicht zu einem Aktenreferat. „Frau Seidel hat eine neue Durchwahl“ führt zur verifizierten Änderung ihres Profils und gegebenenfalls zu den betroffenen Kontaktstellen, nicht zur Neugestaltung aller Seiten.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 7. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+**Leitfrage für Kanzleibetrieb und Mandatssteuerung:** Wie wird aus dem vorhandenen Material ein für den Empfänger verwendbares Ergebnis?
+
+**Erste Ansicht:** Zeige die kurze Verarbeitungskette von Eingangsdatei über konkrete Änderung bis zum Ergebnis. Bei Texten nutze eine verständliche Vorher-nachher-Ansicht; bei Dokumentpaketen einen nachvollziehbaren Anlagen- oder Versionsstand.
+
+**Sinnvolle Interaktion:** Eine Auswahl auf Absatz, Datei oder Zielgruppe soll genau die betroffene Ausgabe fortschreiben. Zeige eine echte Vorschau nur, wenn die Datei tatsächlich erzeugt und geöffnet wurde.
+
+**Datengrundlage:** Eingangsdatei und Fassung, Empfänger, gewünschtes Ergebnis, Änderung, Beleg oder Vorlage und tatsächlicher Exportstatus. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+**Weiter zum Ergebnis:** die fertige angeforderte Datei oder, bei fehlendem Export, ihr vollständig verwendbarer Inhalt. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->

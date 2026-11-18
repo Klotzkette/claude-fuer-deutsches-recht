@@ -1,125 +1,70 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Richter Verwaltungsgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Verwaltungsstreit bis zum entscheidungsreifen Beschluss oder Urteil führen. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# Juristischer Argumentationskern - Richter Verwaltungsgericht
+# Verwaltungsstreit bis zum entscheidungsreifen Beschluss oder Urteil führen
 
-## 1. Direktstart
+## 1. Aus der vorhandenen Akte beginnen
 
-Gleiche Antrag, Bescheid und Verwaltungsvorgang ab. Bestimme Prüfungsmaßstab und entscheidungserhebliche Tatsachen und entwirf die verlangte Verfügung oder Entscheidung.
+1.1. Erstelle das bestellte Ergebnis: vollständig begründete gerichtliche Verfügung, Beweisbeschluss, Eilentscheidung oder Urteil mit vollziehbarem Tenor. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: Klage-/Antragsschrift, Bescheid, Verwaltungsvorgang, Zustellung, Vollziehbarkeit und Beteiligtenvortrag. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-## 2. Die tragende These
+## 2. Den Fall in die richtige Fachroute führen
 
-Formuliere das Ergebnis für Richter Verwaltungsgericht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+2.1. Rechtsschutzziel nach § 88 VwGO bestimmen; Zulässigkeit, notwendige Beteiligung und gerichtliche Aufklärung vom materiellen Prüfungsmaßstab trennen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+2.2. Anfechtungs-, Verpflichtungs- und Leistungsbegehren unterscheiden; Spruchreife oder Bescheidung begründen. Im Eilverfahren § 80/80a und § 123 VwGO sowie Hauptsache- und Folgenprüfung sauber zuordnen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2.3. Amtsermittlung verlangt Aufklärung entscheidender Widersprüche, nicht ungezielte Vollermittlung. Materielle Beweislast bleibt beim Non-liquet gesondert zu begründen.
 
-## 3. Materienspezifische Tatbestandsarbeit
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-| Prüfpunkt | Konkrete Arbeitsfrage |
-| --- | --- |
-| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
-| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
-| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
-| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
-| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+## 3. Nur die benötigte Vertiefung öffnen
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+Lies für den einschlägigen Teilpunkt die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+3.1. [1. Zulässigkeit der Verwaltungsklage](../01-zulaessigkeit-verwaltungsklage/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-3.1.1. [01 Zulässigkeit Verwaltungsklage](../01-zulaessigkeit-verwaltungsklage/SKILL.md)
-3.1.2. [03 Begründetheit Anfechtungsklage](../03-begruendetheit-anfechtungsklage/SKILL.md)
-3.1.3. [04 Begründetheit Verpflichtungsklage](../04-begruendetheit-verpflichtungsklage/SKILL.md)
-3.1.4. [07 Beweisaufnahme Verwaltungsgericht](../07-beweisaufnahme-verwaltungsgericht/SKILL.md)
+3.2. [02 Amtsermittlung und Sachverhaltsfeststellung](../02-amtsermittlung-und-sachverhaltsfeststellung/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+3.3. [Eilrechtsschutz nach Paragraf 80 Absatz 5 VwGO](../05-eilrechtsschutz-paragraf-80-abs-5/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 4. Normenanker
+3.4. [1. Einstweilige Anordnung nach Paragraf 123 VwGO](../06-eilrechtsschutz-paragraf-123/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
-4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
-4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
-4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
-4.6. VwGO Paragraf 123: einstweilige Anordnung.
+3.5. [08 Urteilsentwurf Paragraf 117 Vwgo](../08-urteilsentwurf-paragraf-117-vwgo/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
 
-5.1. Bestimme zuerst den konkreten Streitpunkt in Richter Verwaltungsgericht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
-5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
-5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
-5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
 
-## 6. Beweislast und Gegenangriff
+4.1. [BVerwG, Beschluss vom 14.04.2025, 10 VR 3.25](https://www.bverwg.de/de/pm/2025/31): Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen. Grenze: Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe.
 
-Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+4.2. [BVerwG, Beschluss vom 14.04.2025 – 10 VR 3.25, Randnummern 9–18](https://www.bverwg.de/de/140425B10VR3.25.0): Vorhandenen Anker im direkten amtlichen Entscheidungstext nachgelesen: Dringlichkeit und Anspruch getrennt; Pressevorwegnahme nicht pauschal verbieten. Grenze: Materielles Presserecht und BND-Schutzzwecke nicht auf jeden Einsichtsanspruch übertragen.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+4.3. [BVerwG, Beschluss vom 27.05.2026 – 2 VR 5.26, Randnummern 12–21](https://www.bverwg.de/de/270526B2VR5.26.0): Sachlicher Umsetzungsgrund ersetzt keine Abwägung für die Vorverlegung; zeitlich begrenzten Unterlassungstenor prüfen. Grenze: BND-Sonderfall, Verwaltungsaktqualität offen; kein Wunschdienstpostenanspruch und keine allgemeine Monatsfrist.
 
-## 7. Prüffolge
+4.4. [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip): Rn. 4–7: Bei einfacher Beiladung ist für die Berührung rechtlicher Interessen der mögliche rechtskraftfähige Entscheidungssatz maßgeblich. Grenze: Bloße Vorfragen in den Gründen reichen allein nicht. Die notwendige Beiladung nach § 65 Abs. 2 VwGO gesondert prüfen.
 
-7.1. Welche Handlungsform liegt vor.
-7.2. Welche Klage- oder Antragsart ist statthaft.
-7.3. Welche formellen Fehler können geheilt werden und welche nicht.
-7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
-7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+## 5. Lücken schließen und denselben Entwurf fortschreiben
 
-## 8. Juristisches Schreiben
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+5.2. Fortsetzungsszenario: Eine neue Behördenentscheidung erledigt nur einen Antragsteil: Tenor, Kosten und verbliebenes Rechtsschutzbedürfnis im selben Entwurf aktualisieren. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
 
-## 9. Ausgabemodi
+## 6. Vollständig formuliertes Ergebnis übergeben
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+6.1. Das Endprodukt ist: vollständig begründete gerichtliche Verfügung, Beweisbeschluss, Eilentscheidung oder Urteil mit vollziehbarem Tenor. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
 
-## 10. Qualitätskontrolle
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

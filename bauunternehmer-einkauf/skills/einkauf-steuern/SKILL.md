@@ -1,9 +1,23 @@
 ---
 name: einkauf-steuern
-description: "Steuert komplexe Bau-Einkaufsvorgänge vom Bedarf bis zum Vertrag und zur Nachverfolgung. Erstellt eine belegte Entscheidungsliste und verteilt Fachfragen auf die zuständigen Schritte."
+description: "Bau-Einkauf vom Bedarf zur belastbaren Bestellentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Einkaufsvorgang steuern
+# Bau-Einkauf vom Bedarf zur belastbaren Bestellentscheidung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Leistungsverzeichnis, Angebote, Termine und bestehende Rahmenverträge auswerten; Materialkauf, Nachunternehmerwerk und öffentliche Vergabe voneinander abgrenzen.
+
+2. Mengen, Einheiten, Nebenleistungen, Logistik und Ausschlüsse vergleichbar machen. Fehlende Preisbestandteile als Lücke ausweisen; GAEB-Struktur allein beweist weder Leistungsidentität noch wirtschaftliche Gleichwertigkeit.
+
+3. Bei Einkaufsbedingungen AGB und tatsächliches Aushandeln prüfen; bei Mengenabweichung oder geänderter Leistung den passenden Nachtragsweg öffnen. Die Preisregel für reine Mehrmengen nicht auf jeden Nachtrag übertragen.
+
+4. Vergabe- oder Bestellvorschlag mit nachvollziehbarem Gesamtpreis, Liefertermin, Sicherheiten und ausgehandelten Abweichungen formulieren; die verlangte Bestellung oder Verhandlungsantwort fertig ausgeben.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1 Zweck und Anwendungsfall
 
@@ -40,6 +54,16 @@ Formulieren Sie den Vermerk oder Empfängertext vollständig aus. Prüfen Sie vo
 ## 6 Beispiel
 
 Bei Krimpfort setzt die Bauleitung einen Termin für funktionsbereite Türen, die Fachplanung prüft zehn Sonderwandeinbauten und der Einkauf sichert Angebotsbindungen. Erst ein freigegebener, konsistenter Bestellstand verbindet diese Entscheidungen.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 08.08.2019, VII ZR 34/18, Rn. 17, 29–30 und 35](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9): Vergütung der über zehn Prozent hinausgehenden Mehrmenge ohne abweichende Preisvereinbarung. **Grenze:** Keine direkte Aussage für Zusatzleistung, Kranstillstand oder § 650c BGB.
+
+- [BGH, Urteil vom 08.08.2019 – VII ZR 34/18](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1): Rn.17–20 und 27–29: Preisabrede vorrangig; tatsächlich erforderliche Kosten bei reiner Mehrmenge. **Grenze:** Keine pauschale Übertragung auf §2 Absatz5/6 VOB/B.
+
+- [BGH, Versäumnisurt. v. 26.10.2017 – VII ZR 16/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1): Rn.18–21 und25–28: zeitliche Grenze von §642, Vorhaltung und spätere Kostensteigerung. **Grenze:** Andere Anspruchsgrundlagen und deren Voraussetzungen bleiben gesondert zu prüfen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

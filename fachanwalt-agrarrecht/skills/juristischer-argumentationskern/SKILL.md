@@ -1,132 +1,70 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Fachanwalt Agrarrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Agrarmandat von Betriebsakte bis Vertrag oder Rechtsbehelf führen. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# Juristischer Argumentationskern - Fachanwalt Agrarrecht
+# Agrarmandat von Betriebsakte bis Vertrag oder Rechtsbehelf führen
 
-## 1. Direktstart
+## 1. Aus der vorhandenen Akte beginnen
 
-Lies Hof-, Pacht- und Förderunterlagen für den betroffenen Betrieb. Begründe die Entscheidung zu Rechtsnachfolge, Pacht oder Förderung anhand der konkreten Nutzung und Fristen.
+1.1. Erstelle das bestellte Ergebnis: vollständiger Vertrag, Nachfolgevermerk, berechneter Anspruch, Förderwiderspruch oder Behördenstellungnahme. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: Betrieb, Flächen, Eigentum/Pacht, Hofstatus, Stichtag, Förderjahr, Tierbestand und Bescheide. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-## 2. Die tragende These
+## 2. Den Fall in die richtige Fachroute führen
 
-Formuliere das Ergebnis für Fachanwalt Agrarrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf.
+2.1. Landpacht, Hofnachfolge und Grundstücksverkehr getrennt eröffnen; Form und Übergangsrecht, Hofwert und Hoferbenstellung sowie Genehmigungsbedürftigkeit jeweils am maßgeblichen Zeitpunkt prüfen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+2.2. Bei Förderung Antrag, Kontrollbefund, Fläche und Kürzung zuordnen; bei Stall, Dünge- oder Tierhaltungsfragen tatsächlichen Gesamtbetrieb statt bloßer alter Genehmigungsbezeichnung prüfen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2.3. Windentgelt, Hofveräußerung und Nachabfindung brauchen eine belegte Zahlungs- und Stichtagskette. Neue Werte oder Rechtsänderungen nicht rückwirkend ohne Übergangsprüfung verwenden.
 
-## 3. Materienspezifische Tatbestandsarbeit
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-| Prüfpunkt | Konkrete Arbeitsfrage |
-| --- | --- |
-| Landpacht | Vertrag, Textform und Übergangsrecht, Anzeige, Pachtanpassung, Kündigung, Flächenübergabe und Landwirtschaftsgericht anhand der Vertragsakte prüfen |
-| Hofnachfolge | Hofstatus, Grundsteuerwert, Hoferbenberechtigung, Abfindung, Nachabfindung und Übergangsrecht in einer Stichtagsmatrix verbinden |
-| Landwirtschaftlicher Grundstücksverkehr | Genehmigungspflicht, Versagungsgrund, leistungsfähigen Landwirt, Kaufpreis und gerichtlichen Antrag belegen |
-| GAP und Direktzahlungen | Förderjahr, Fläche, Konditionalität, Kontrolle, Kürzung, Rückforderung und Rechtsbehelf zeilenweise nachweisen |
-| Betriebsbezogene Fachaufsicht | Tierhaltung, Düngung, Pflanzenschutz, Natur-, Immissions- und Forstrecht dem konkreten Betriebsvorgang zuordnen |
+## 3. Nur die benötigte Vertiefung öffnen
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+Lies für den einschlägigen Teilpunkt die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+3.1. [Betrieb und Fläche](../betrieb-und-flaeche-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-3.1.1. [Sammelantrag GAP-Direktzahlungen](../fachanwalt-agrarrecht-gap-direktzahlungen-antrag/FACHINHALT.md)
-3.1.2. [Landpachtstreit strategisch führen](../fachanwalt-agrarrecht-pachtvertrag-streitig/FACHINHALT.md)
-3.1.3. [Düngerechtliche Ordnungswidrigkeit](../fachanwalt-agrarrecht-duenge-ordnungswidrigkeit/FACHINHALT.md)
-3.1.4. [EU-Agrarförderung](../fachanwalt-agrarrecht-eu-agrarfoerderung/FACHINHALT.md)
+3.2. [Vertrags- und Erbfolgeweg](../vertrags-und-erbfolgeweg-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+3.3. [Genehmigung und Förderung](../genehmigung-und-foerderung-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 4. Normenanker
+3.4. [Fachaufsicht](../fachaufsicht-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-4.1. HöfeO Paragraf 1: Hofeigenschaft ab 54.000 EUR Grundsteuerwert sowie Erklärungsbereich von 27.000 EUR bis unter 54.000 EUR.
-4.2. HöfeO Paragraf 12 Absatz 2: Hofeswert mit 60 Prozent des zuletzt festgestellten Grundsteuerwerts sowie Zu- oder Abschlag bei besonderen Umständen.
-4.3. BGB Paragraf 585 bis Paragraf 597: Landpachtvertrag, Form, Erhaltung, Kündigung und Rückgabe.
-4.4. LPachtVG Paragraf 2, Paragraf 4, Paragraf 7 und Paragraf 8 sowie LwVfG Paragraf 2: Anzeige, Beanstandung und ausschließliche erstinstanzliche Zuständigkeit des Amtsgerichts als Landwirtschaftsgericht.
-4.5. GrdstVG Paragraf 2 und Paragraf 9: Genehmigungspflicht und Versagungsgründe beim landwirtschaftlichen Grundstücksverkehr.
-4.6. HöfeO Paragraf 4 bis Paragraf 7 sowie Paragraf 12 und Paragraf 13: Sondererbfolge, Hoferbe, Abfindung und Nachabfindung.
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
 
-## 5. Rechtsprechung und Quellenstatus
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
 
-5.1. BGH, Urteil vom 06.11.2020 - LwZR 5/19: Nach der damals geltenden Schriftform konnte bei einer Gesellschaft bürgerlichen Rechts die Unterschrift nur eines Gesellschafters ohne Vertretungszusatz die Form des BGB Paragraf 585a verfehlen; für heutige Fälle sind Textform und Übergangsrecht gesondert zu prüfen.
-5.2. BGH, Beschluss vom 23.11.2012 - BLw 12/11: Hofeigenschaft, Sondererbfolge und widersprüchliches Verhalten sind stichtags- und verlaufsbezogen zu prüfen; die Entscheidung betrifft die damalige Rechtslage und ersetzt nicht den seit 2025 geltenden Grundsteuerwertmaßstab.
-5.3. BGH, Beschluss vom 29.04.2016 - BLw 2/15: Ein Landpachtvertrag kann wegen ungesunder Verteilung der Bodennutzung beanstandet und vom Landwirtschaftsgericht auch bei angenommener Unwirksamkeit aufgehoben werden.
-5.4. BGH, Beschluss vom 23.11.2012 - BLw 12/11: historische Entscheidung zu Hofeigenschaft und Sondererbfolge
+4.1. [BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, Randnummern 13 bis 20](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1): Windnutzung trotz landwirtschaftlicher Restnutzung; gesamte einschlägige Entgelte bei längerfristigem Zweckwegfall und erheblichem Gewinn. Grenze: Anspruchsgrund bestätigt, endgültige Höhe und Eigenleistungen gesondert; keine Übernahme damaliger Hofwertbasis.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+4.2. [BGH, Urteil vom 06.11.2020, Az. LwZR 5/19](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2019/LwZR___5-19.pdf?__blob=publicationFile&v=1): Fehlender Vertretungszusatz einer GbR unter damaliger Schriftform. Grenze: Nur zeitlich einschlägige Altfrage; keine heutige Unterschriftspflicht bei Textform.
 
-[BGH, Beschluss vom 09.05.2025 – BLw 2/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1), Rn. 8–17: Beim Verkauf eines einzelnen Erbteils zunächst feststellen, ob zum Nachlass nur Agrargrundstücke oder ein landwirtschaftlicher Betrieb gehören. Einzelne Grundstücke allein lösen Paragraf 2 Absatz 2 Nummer 2 GrdstVG nicht aus. Für eine Umgehung alle Anteilsgeschäfte, Erwerber und abgestimmte Gesamtabsicht prüfen; der bloße Wunsch des Erwerbers, weitere Erbteile zu kaufen, genügt nicht. Keine Freistellung sämtlicher Anteilsgeschäfte daraus ableiten.
+4.3. [BGH, Beschluss vom 23.11.2012, Az. BLw 12/11](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2011/BLw__12-11.pdf?__blob=publicationFile&v=1): Hofeigenschaft im Vorerbfall und spätere Nacherbfolge; besondere Treuwidrigkeitskonstellation. Grenze: Historische Normfassung, nicht jeder spätere Hofverlust oder irrtümliche Pflichtteilsanspruch beseitigt Sondererbfolge.
 
-[BVerwG, Urteil vom 24.06.2026 – 4 C 2.25](https://www.bverwg.de/de/240626U4C2.25.0), Rn. 7–14, 19–24: Bei Stalländerungen nach Paragraf 29 BauGB das Gesamtvorhaben in geänderter Gestalt prüfen. Tierbestand und mögliche Futtererzeugung des tatsächlich einheitlichen Betriebs zusammenrechnen; frühere getrennte Genehmigungen als landwirtschaftliche und gewerbliche Haltung entscheiden dies nicht. Fordere Betriebsorganisation, Flächenbindungen und Futterbilanz für alle Tiere an. Scheitert Paragraf 35 Absatz 1 Nummer 1 oder 4 BauGB, gegebenenfalls Absatz 4 Satz 1 Nummer 6 gesondert prüfen. Zurückverweisung bedeutet keine Baugenehmigung; ein Gesetzentwurf entfaltet keine Vorwirkung.
+4.4. [BGH, Beschluss vom 29.04.2016, Az. BLw 2/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1): Kauf unter siedlungsrechtlichem Vorkaufsrecht mit eng verbundener Verpachtung an Käufer; Beanstandung und Aufhebung. Grenze: Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert.
 
-## 6. Beweislast und Gegenangriff
+4.5. [BGH, Beschluss vom 09.05.2025 – BLw 2/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1): Einzelner Erbteil mit landwirtschaftlichen Grundstücken ist nicht schon nach § 2 Abs. 2 Nr. 2 GrdstVG genehmigungspflichtig; Umgehung konkret prüfen. Grenze: Nachlassbetrieb und auf vollständigen Anteilserwerb angelegte Umgehung gesondert; keine allgemeine Freistellung sämtlicher Anteilstransaktionen.
 
-Ausgangspunkt für dieses Plugin: Antragsteller oder Bewirtschafter für Fläche, Hofstatus, Fördervoraussetzung und Beleg; Behörde oder Vertragspartner für Beanstandung, Kürzung, Einwendung und Zustellung.
+## 5. Lücken schließen und denselben Entwurf fortschreiben
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
 
-## 7. Prüffolge
+5.2. Fortsetzungsszenario: Ein Pachtanhang enthält weitere Flächen: Förderzuordnung, Futtergrundlage und betroffene Vertragsklausel im bestehenden Dokument berichtigen. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
 
-7.1. Welche Fläche, welcher Betrieb und welches Wirtschaftsjahr sind betroffen.
-7.2. Gilt allgemeines Erbrecht oder die Höfeordnung und welcher Stichtag bestimmt Grundsteuerwert und Übergangsrecht.
-7.3. Welche Anzeige, Genehmigung, Fördervoraussetzung oder Bewirtschaftungsauflage ist tatbestandlich entscheidend.
-7.4. Welche Flächen-, Tier-, Mess-, Register- oder Vertragsbelege tragen den Vortrag.
-7.5. Welcher Behörden- oder Gerichtsweg und welche Frist gelten für den konkreten Bescheid oder Vertrag.
+## 6. Vollständig formuliertes Ergebnis übergeben
 
-## 8. Juristisches Schreiben
+6.1. Das Endprodukt ist: vollständiger Vertrag, Nachfolgevermerk, berechneter Anspruch, Förderwiderspruch oder Behördenstellungnahme. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Agraraktenblatt: Betrieb, Fläche, Nutzungsart, Eigentum, Pacht, Hofstatus, Förderjahr, Behörde, Frist und Beleg; Hofnachfolgematrix: Stichtag, Hofeigenschaft, Grundsteuerwert, Hoferbe, Abfindungsberechtigte, Hofeswert, Zu- oder Abschlag und Nachabfindung.
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
 
-## 9. Ausgabemodi
-
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
-
-## 10. Fachliche Formulierungsansätze
-
-10.1. Agraraktenblatt: Betrieb, Fläche, Nutzungsart, Eigentum, Pacht, Hofstatus, Förderjahr, Behörde, Frist und Beleg.
-10.2. Hofnachfolgematrix: Stichtag, Hofeigenschaft, Grundsteuerwert, Hoferbe, Abfindungsberechtigte, Hofeswert, Zu- oder Abschlag und Nachabfindung.
-10.3. Förderprüfung: Maßnahme, Antragsjahr, Voraussetzung, Kontrolle, Feststellung, Kürzung, Gegenbeleg und Rechtsbehelf.
-
-## 11. Qualitätskontrolle
-
-11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-11.7. Ist das Ergebnis unmittelbar als Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf verwendbar?
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 12. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

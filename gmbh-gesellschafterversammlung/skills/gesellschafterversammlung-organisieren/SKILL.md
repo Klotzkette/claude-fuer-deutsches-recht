@@ -1,9 +1,9 @@
 ---
 name: gesellschafterversammlung-organisieren
-description: "Organisiert GmbH- und UG-Gesellschafterversammlungen von Unterlagen, Einladung und Nachträgen bis zu ausfüllbarem Leitfaden, tatsächlichem Protokoll und Vollzug. Hauptproblem-Skill für den gesamten Vorgang; Einstieg auch bei begonnener Einladung oder konkretem TOP. Keine AG-Hauptversammlung oder Unternehmensgründung."
+description: "GmbH-Gesellschafterversammlung rechtssicher durchführen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert fertige Einladung, Tagesordnung, Beschlussformulierungen und Protokoll oder, bei laufendem Streit, gezielte Mängel- und Vollzugskorrektur."
 ---
 
-# Gesellschafterversammlung organisieren
+# GmbH-Gesellschafterversammlung rechtssicher durchführen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -16,6 +16,19 @@ Lies zuerst den Auftrag und die tatsächlich verfügbaren Dateien: vollständige
 Bei bloßem Start etwa fragen: „Für welche GmbH oder UG, welche Beschlüsse und welchen Termin bereiten wir die Versammlung vor, und liegt die aktuelle Satzung vor?“ Liefern Unterlagen einzelne Angaben schon, kürze die Frage entsprechend. Kläre bei einer streitigen Versammlung, für wen der Nutzer handelt; die Belegdarstellung bleibt von der vertretenen Rechtsposition unterscheidbar.
 
 ## 3. Ablauf und Verzweigungen
+
+**Aktenstart.** Lies Satzung, Liste, Vertretungsnachweise, Einladung und Beschlussgegenstände; bestimme ordentliche Einberufung oder Vollversammlung und die betroffene Gesellschaft. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Prüfe Zugang, Tagesordnung, Vollmacht, Beschlussfähigkeit, Mehrheit und Stimmverbot für jeden Punkt. Verfahrenszustimmung aller Beteiligten ist von deren Stimmrecht in der Sache zu unterscheiden.
+
+**Gezielte Vertiefung.** Bei Geschäftsführerabberufung zuerst den grundsätzlich jederzeit möglichen Widerruf nach § 38 Abs. 1 GmbHG von einer Satzungsbeschränkung nach Abs. 2 und einer ausdrücklich auf wichtigen Grund gestützten Abberufung unterscheiden. Nur im einschlägigen Zweig den tatsächlichen wichtigen Grund und daraus folgende Stimmverbote prüfen; das Fehlen eines wichtigen Grundes sperrt nicht automatisch eine gewöhnliche Abberufung. Organstellung und Dienstvertrag getrennt behandeln. Bei Vertretung auf beiden Seiten § 181 BGB, bei Einziehung Kapitalerhaltung und Abfindung prüfen. Ein streitiges Stimmverbot nicht als bereits gerichtlich feststehend darstellen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere fertige Einladung, Tagesordnung, Beschlussformulierungen und Protokoll oder, bei laufendem Streit, gezielte Mängel- und Vollzugskorrektur. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1. Im bestehenden Vorgang beginnen
 
@@ -58,6 +71,30 @@ Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt 
 „Die Einladung ging gestern heraus; heute verlangt eine Minderheit einen weiteren TOP.“ Setze am Nachtrag an, prüfe Adressaten, Zweck, Gründe und gesonderte Frist. Ersetze nicht stillschweigend den versandten Altstand.
 
 „Wir haben schon abgestimmt; die Stimme des Geschäftsführers ist umstritten.“ Erfasse Wortlaut, Einzelvoten, beide Positionen und die tatsächliche Verkündung. Rechne die Varianten, ohne eine fehlende Feststellung oder anwaltliche Streitentscheidung zu erfinden.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BGH, Urteil vom05.05.2026 – II ZR2/25, Rn.34–40](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=1). **Anwendung:** Einladung pro juristischer Gesellschafterin; fehlende Erstladung nicht durch bloßen Nachtrag ersetzen. **Grenze:** Keine allgemeine Vierwochenfrist und keine pauschale Gleichsetzung jedes Adressfehlers mit Nichtladung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-29.
+
+2. [BGH, Urteil vom04.04.2017 – II ZR77/16, Rn.9–15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1). **Anwendung:** Objektiven wichtigen Grund und die streitige Behandlung in der Versammlung getrennt prüfen und beide Stimmenvarianten dokumentieren. **Grenze:** Rn14 entscheidet den Leitungsmaßstab ausdrücklich nicht; kein Stimmausschluss allein aus Behauptung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-29.
+
+3. [BGH, Versäumnisurt. v. 16.06.2026 – Az. II ZR 13/25, amtlicher Volltext, Rn. 19–29, insbesondere Rn. 21–26 und 28](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__13-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Erst konkrete Satzung lesen; dann getrennt das Einverständnis sämtlicher Gesellschafter mit dem Verfahren und die Sachstimmen der für den Gegenstand Stimmberechtigten feststellen. Erklärende Person, jeweilige Vertretungsrolle und tatsächliches Verhalten belegen. Auch ein vom Sachstimmrecht ausgeschlossener Gesellschafter ist bei notwendigem allseitigem Verfahrenseinverständnis nicht einfach wegzulassen. **Grenze:** Kein allgemeiner Vorrang mündlicher Absprachen vor § 48 GmbHG, kein Einverständnis durch bloßes Schweigen und keine abschließend festgestellte Genehmigung. Der BGH verwies zurück: konkrete Erklärungen und wirksame Bestellung des genehmigenden Geschäftsführers blieben aufzuklären. Die Grundschuld ersetzt weder Organbestellung noch Vertretungsmacht. Das Versäumnisurteil beruht auf Sachprüfung; eine spätere Rechtskraft oder Einspruchserledigung wird hier nicht behauptet.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-14.
+
+#### 6.1.1. Beweis und Abschluss
+
+Bestimme die Darlegungs- und Beweislast je Anspruch und Merkmal. Bei Organhaftung sind Schaden und haftungsauslösender Zusammenhang von der Gesellschaft darzulegen; die organbezogene Sorgfalts-/Entlastungslast nach § 93 Abs. 2 AktG beziehungsweise den Regeln zu § 43 GmbHG darf nicht durch einen pauschalen Satz ersetzt werden. Die Business Judgment Rule betrifft unternehmerische Entscheidungen, nicht die Freiheit zur Missachtung zwingenden Rechts. Mitgliedschaft, Beschlussmangel und Treuepflichtanspruch benötigen jeweils eigene Belege; Register- oder Listeneintrag allein beweist nicht jeden materiellen Vorgang.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

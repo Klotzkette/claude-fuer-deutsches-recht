@@ -1,9 +1,17 @@
 ---
 name: halluzinationspruefung-steuern
-description: Prüft juristische Texte durchgehend auf Existenz und Identität ihrer Quellen, richtige Fundpunkte, Aussagekraft und Fallübertragbarkeit. Erstellt einen belegten Prüfbericht und eine getrennte Korrekturfassung; fehlender Originalvolltext bleibt ausdrücklich unverifiziert.
+description: "Rechtsfundstellen vom Zitat bis zur korrigierten Begründung prüfen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristische Fundstellenprüfung steuern
+# Rechtsfundstellen vom Zitat bis zur korrigierten Begründung prüfen
+
+Lies das zu prüfende Dokument und extrahiere tragende Normen, Entscheidungen, Literaturstellen und ihnen zugeschriebene Aussagen.
+
+**Entscheidung im Arbeitsablauf:** Prüfe getrennt Existenz, Metadaten, Originalaussage, Kontext und Übertragbarkeit. Ein auffindbares Aktenzeichen beweist nicht die Richtigkeit der damit begründeten These.
+
+**Bis zum Ergebnis weiterarbeiten:** Korrigiere die betroffene Begründung selbst mit belegbarer Quelle oder ausdrücklich offener Recherche; liefere zusätzlich nur entscheidende Nachweise und Restlücken. Ein nachgereichter Volltext ersetzt eine frühere Unsicherheit erst nach Passagenabgleich; neue Quellen verändern bei Bedarf auch Ergebnis und Antrag, nicht bloß die Fußnote.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

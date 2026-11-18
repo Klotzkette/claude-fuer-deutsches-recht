@@ -1,125 +1,64 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in GOÄ Gebührenordnung Ärzte ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "GOÄ-Rechnung bis zur nachgerechneten Stellungnahme prüfen. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# Juristischer Argumentationskern - GOÄ Gebührenordnung Ärzte
+# GOÄ-Rechnung bis zur nachgerechneten Stellungnahme prüfen
 
-## 1. Direktstart
+## 1. Aus der vorhandenen Akte beginnen
 
-Gleiche Rechnungspositionen mit den erbrachten Leistungen und der dokumentierten Begründung ab. Rechne den Betrag nach und formuliere die verlangte Rechnungskorrektur oder Stellungnahme.
+1.1. Erstelle das bestellte Ergebnis: vollständig ausformulierte Rechnungskorrektur, Honorarstellungnahme oder Klageerwiderung mit überprüfbarer Positionsrechnung. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: Behandlungsdatum, Rechnung, Leistungsdokumentation, Honorarvereinbarung, Steigerungsbegründung und Zahlung. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-## 2. Die tragende These
+## 2. Den Fall in die richtige Fachroute führen
 
-Formuliere das Ergebnis für GOÄ Gebührenordnung Ärzte in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort.
+2.1. Ziffer, Leistungsinhalt, persönliche Leistung, Ausschluss und Zielleistungsprinzip je Rechnungsposition prüfen; Analogbewertung und Gebührenvereinbarung gesondert begründen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+2.2. Faktor, Punktzahl, Punktwert, Auslagen und Rechnungserfordernisse berechnen; Fälligkeit, materielle Berechtigung und Verzug trennen. Entwurfsrecht einer GOÄ-Reform nicht als geltenden Tarif anwenden.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2.3. Eine Rechnung beweist die Leistung nicht allein. Überschreitung des Schwellenwerts braucht fallbezogene Begründung; unterhalb des Schwellenwerts gelten dennoch Leistungs- und Ausschlussregeln.
 
-## 3. Materienspezifische Tatbestandsarbeit
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-| Prüfpunkt | Konkrete Arbeitsfrage |
-| --- | --- |
-| Falltyp | Behandlungsfehler, Aufklärung, Abrechnung, Zulassung, Leistungspflicht, Apotheke oder Krankenhausaufsicht bestimmen |
-| Medizinischer Kern | Befund, Indikation, Standard, Leitlinie, Dokumentation, Kausalität und Schaden in eine Zeitachse bringen |
-| Beweislast | grober Fehler, Befunderhebungsfehler, Aufklärung, hypothetische Einwilligung und Dokumentationslücke gesondert prüfen |
-| Verfahren | Gutachten, MD/MDK, Schlichtungsstelle, Kasse, Behörde, Sozialgericht oder Zivilgericht richtig routen |
-| Arbeitsprodukt | Gutachterfragen, Anspruchsschreiben, Klage, Widerspruch, Eilantrag, Abrechnungsprüfung oder Behördenantwort erstellen |
+## 3. Nur die benötigte Vertiefung öffnen
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+Lies für den einschlägigen Teilpunkt die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
+3.1. [Rechnung und Behandlung](../rechnung-und-behandlung-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-3.1.1. [Fälligkeit Verzug Mahnung Honorarklage](../faelligkeit-verzug-mahnung-honorarklage/FACHINHALT.md)
-3.1.2. [IGeL Aufklärung Kosteninformation](../igel-aufklaerung-klageerwiderung/FACHINHALT.md)
-3.1.3. [Klageerwiderung Honorarprozess](../klageerwiderung-honorarprozess/FACHINHALT.md)
-3.1.4. [GOÄ Rechnung aus PDF extrahieren](../rechnung-pdf-reform-referentenentwuerfe/FACHINHALT.md)
+3.2. [Ziffernkette](../ziffernkette-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+3.3. [Faktor und Betrag](../faktor-und-betrag-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 4. Normenanker
+3.4. [Sonderweg](../sonderweg-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-4.1. BGB Paragraf 630a bis Paragraf 630h: Behandlungsvertrag, Aufklärung, Einwilligung, Dokumentation, Einsicht und Beweislast.
-4.2. BGB Paragraf 280, Paragraf 823 und Paragraf 253: Schadensersatz, deliktische Haftung und Schmerzensgeld.
-4.3. SGB V Paragraf 27, Paragraf 39, Paragraf 73, Paragraf 92 und Paragraf 135: Krankenbehandlung, Krankenhaus, Vertragsarzt und Methodenbewertung.
-4.4. SGB X Paragraf 20 und Paragraf 25: Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren.
-4.5. SGG Paragraf 86b und Paragraf 87: Eilrechtsschutz und Klagefrist.
-4.6. ApBetrO, AMG und BtMG: Apothekenbetrieb, Arzneimittelverkehr und Betäubungsmittelbezug je nach Fall.
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
 
-## 5. Rechtsprechung und Quellenstatus
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
 
-5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+4.1. [BGH, Urteil vom 08.11.2007, III ZR 54/07](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__54-07.pdf?__blob=publicationFile&v=1): Durchschnittliche ärztliche Leistung darf mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden; oberhalb Schwelle gesonderte Begründung prüfen. Grenze: Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen.
 
-5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+4.2. [BVerwG, Urteil vom 20.03.2008 – 2 C 19.06](https://www.bverwg.de/200308U2C19.06.0): Gebührenrechtliche Rechnung und beihilferechtlichen Nachweis medizinischer Notwendigkeit auseinanderhalten; fehlende Diagnose nicht ungeprüft zum GOÄ-Formfehler erklären. Grenze: Entscheidung zu damaligen Beihilfevorschriften; keine allgemeine Zusage heutiger Beihilfe oder privater Kostenerstattung.
 
-## 6. Beweislast und Gegenangriff
+## 5. Lücken schließen und denselben Entwurf fortschreiben
 
-Ausgangspunkt für dieses Plugin: Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung.
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+5.2. Fortsetzungsszenario: Eine Leistung wurde doppelt angesetzt: betroffene Ziffern, Saldo und Zahlungsaufforderung im selben Antwortbrief korrigieren. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
 
-## 7. Prüffolge
+## 6. Vollständig formuliertes Ergebnis übergeben
 
-7.1. Welcher medizinische Standard oder welche Leistungspflicht ist konkret betroffen.
-7.2. Welche Dokumentation beweist Behandlung, Aufklärung, Einwilligung oder Befund.
-7.3. Welche Beweislastregel kann sich durch Fehlerqualität oder Dokumentationslücke verschieben.
-7.4. Welche Frist und welches Verfahren sichern den Anspruch.
-7.5. Welche Gutachterfrage entscheidet den Fall.
+6.1. Das Endprodukt ist: vollständig ausformulierte Rechnungskorrektur, Honorarstellungnahme oder Klageerwiderung mit überprüfbarer Positionsrechnung. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
 
-## 8. Juristisches Schreiben
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Gutachterfrage: War [Maßnahme] am [Datum] nach dem damaligen fachärztlichen Standard indiziert, durchgeführt und dokumentiert; Behandlungsfehlermatrix: Standard, Abweichung, Befund, Dokument, Kausalität, Schaden, Beweislast und Gutachtenfrage.
-
-## 9. Ausgabemodi
-
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
-
-## 10. Fachliche Formulierungsansätze
-
-10.1. Gutachterfrage: War [Maßnahme] am [Datum] nach dem damaligen fachärztlichen Standard indiziert, durchgeführt und dokumentiert.
-10.2. Behandlungsfehlermatrix: Standard, Abweichung, Befund, Dokument, Kausalität, Schaden, Beweislast und Gutachtenfrage.
-10.3. Kassenverfahren: Leistung, Diagnose, Dringlichkeit, Wirtschaftlichkeit, Alternativen, Belege und Eilantrag als Zeitleiste.
-
-## 11. Qualitätskontrolle
-
-11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-11.7. Ist das Ergebnis unmittelbar als Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort verwendbar?
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 12. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

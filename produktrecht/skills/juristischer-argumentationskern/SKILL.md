@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Produktrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Produktfall bis zur begründeten Sicherheitsmaßnahme führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Produktrecht
+# Produktfall bis zur begründeten Sicherheitsmaßnahme führen
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Gleiche Produkt, konkrete Gefährdung, Dokumentation und tatsächliche Vertriebsschritte ab. Begründe die erforderliche Sicherheitsmaßnahme, Behördenkommunikation oder Haftungsposition.
+Sichere Produkt, Charge, Version, Wirtschaftsakteur, Zielmarkt, Gebrauch, Vorfall und vorhandene Tests.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,29 +62,34 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. BGH, Urteil vom 16.06.2009 - VI ZR 107/08: Ein Konstruktionsfehler liegt vor, wenn das Produkt unter dem bei Inverkehrbringen nach Wissenschaft und Technik objektiv möglichen und zumutbaren Sicherheitsstandard bleibt; eine überlegene Alternative muss praktisch serienreif sein.
-5.2. BGH, Urteil vom 05.02.2013 - VI ZR 1/12: Die berechtigte Sicherheitserwartung schützt grundsätzlich bei vorhersehbarer üblicher Verwendung unter Beachtung der Gebrauchs- und Installationsanleitung.
-5.3. EuGH, Urteil vom 29.05.1997 - C-300/95: Entwicklungsrisiko und Stand von Wissenschaft und Technik sind eng auszulegen.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24 und 27 bis 31. Anwendung: Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht. Grenze: Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung. [Entscheidungsnachweis](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1) — dokumentierter Prüfstand 2026-09-22.
+
+5.2. EuGH, Urteil vom 05.11.2026, C-395/25, Orkla Care, ECLI:EU:C:2026:945, Rn. 44–56, 64–71, 85–99 und 109–112 Gefahrstoffverpackung im konkreten Zielmarkt nach Fotos vor und nach Öffnung, vertrauter Lebensmittelaufmachung und Wirkung auf Kinder und schutzbedürftige Personen prüfen. Art. 35 Abs. 2 CLP. Die Vorabentscheidung entscheidet nicht über eine bestimmte Verpackungsfreigabe, GPSR-Meldung, Rückrufpflicht oder Haftung. [Entscheidungsnachweis](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316758&doclang=EN) — dokumentierter Prüfstand 2026-11-16.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welches Produkt, welche Charge, welche Version und welche Nutzung sind betroffen.
-7.2. Welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt.
-7.3. Welche Warnung, Anleitung, Norm oder Beobachtungslage trägt die Entscheidung.
-7.4. Welche Schäden und Kausalität sind belegt.
-7.5. Welche Sofortmaßnahme reduziert Rechts-, Sicherheits- und Reputationsrisiko.
+7.1. Trenne Konformität, konkrete Gefahr, Produktfehler, Kausalität und Reaktion. Prüfe praktisch verfügbare sichere Alternative und Wirkung von Warnungen, statt nur Branchenüblichkeit abzuhaken.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Erstelle den beauftragten Freigabevermerk, Rückrufplan oder Behördenentwurf mit klarer betroffener Einheit, belegtem Risiko und angemessener Maßnahme.
+
+7.4. Ein neuer Prüfbericht kann betroffene Chargen und Reaktionsumfang verändern; eine Rechtsentscheidung zur Verpackung ersetzt keine konkrete Rückruf- oder Haftungsprüfung.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

@@ -1,6 +1,6 @@
 # 1. Geburtsschaden und interner Großschadenausgleich
 
-Prüfstand: 05.10.2026. Diese Ergänzung verbindet den Personenschadenworkflow mit der [Würzburger Geburtsschadenakte](../../testakten/akha-wuerzburg-geburtsschaden/README.md). Deren Beteiligte, Beteiligungsquote, Vergleichsbeträge und internen Vertragsparameter sind erfunden. Die folgenden Quellen tragen allgemeine rechtliche Aussagen; sie bestätigen weder die konkrete Akte noch echte AKHA-Konditionen.
+Prüfstand: 05.10.2026. Diese Ergänzung verbindet den Personenschadenworkflow mit der [Würzburger Geburtsschadenakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/akha-wuerzburg-geburtsschaden/README.md). Deren Beteiligte, Beteiligungsquote, Vergleichsbeträge und internen Vertragsparameter sind erfunden. Die folgenden Quellen tragen allgemeine rechtliche Aussagen; sie bestätigen weder die konkrete Akte noch echte AKHA-Konditionen.
 
 ## 1.1. Mandat und Bearbeitungsstand zuerst
 

@@ -1,9 +1,9 @@
 ---
 name: bauangebot-steuern
-description: Steuert Bauvergabe Bieter über mehrere Phasen und setzt die Bearbeitung nach neuen Unterlagen fort; liefert vollständige Dokumente mit rollengetrennten Entscheidungen und Fristen.
+description: "Bauangebot von den Vergabeunterlagen bis zur fristgerechten Abgabe führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Zweck und Anwendungsfall
+# Bauangebot von den Vergabeunterlagen bis zur fristgerechten Abgabe führen
 
 Sie bearbeiten öffentliche Bauvergaben aus Sicht des konkret beauftragten Bauunternehmens oder einer Bietergemeinschaft. Liefern Sie das verlangte Arbeitsprodukt vom Teilnahmeentscheid bis zur Übergabe des geschlossenen Bauvertrags. Lesen Sie vorhandene Unterlagen zuerst. Fragen Sie nur nach Tatsachen, die Entscheidung, Frist, Preis oder Formulierung verändern. Eine bereits geklärte Rolle wird nicht erneut aufgenommen. Das Ergebnis ist ein ausformulierter Vermerk, ein konkreter Brief, eine geprüfte Angebotsfassung oder eine belastbare Übergabe. Eine allgemeine Wissenssammlung erledigt keinen Dokumentenauftrag.
 
@@ -14,6 +14,20 @@ Dieses Plugin ist ohne Reporoot und ohne gesonderten Großprompt nutzbar. Der Ha
 Lies Bekanntmachung, maßgebliche Unterlagenfassungen, eigenes Angebot, Rügen, Antworten, Entscheidungen und Zeitnachweise. Erfasse konkrete Mandatsrolle, gewünschtes Produkt und nächsten fristgebundenen Schritt. Unbekannte Akteninhalte werden nicht erfunden. Die Testakten Klinikum Münster und Wohnhaus Bielefeld bleiben in Namen, Preisen und Zeitabläufen getrennt. Die fiktive Fortsetzung 2027 nutzt den eingefrorenen Stand 06.10.2026.
 
 # 3. Ablauf und Checkliste
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Aktuelle Bekanntmachung, Unterlagen, Änderungen und Nachrichten zusammenführen; Bieterrolle, Regime, Verfahrensbeginn und Abgabefrist aus den Originalen übernehmen.
+
+2. Eignung, Ausschlussgründe, Leistungsangebot und Zuschlagskriterien getrennt prüfen. Unklare Vorgabe vor Abgabe als Frage oder gegebenenfalls Rüge bearbeiten; keine eigenmächtige Änderung des Leistungsverzeichnisses.
+
+3. Bei Nachforderung oder Aufklärung den einschlägigen Fachweg öffnen und bestimmen, ob nur vorhandene Tatsachen erläutert oder ein neues Angebot geschaffen würde. Fremde AGB, Nachunternehmer und Eignungsleihe jeweils ausdrücklich behandeln.
+
+4. Angebotsbestandteile und Preisstände abgleichen; das verlangte Bieterschreiben oder Angebotspaket ausformulieren. Bei drohendem Ausschluss konkrete Rügefrist, Nachprüfungsroute und noch nutzbare Alternativen einarbeiten.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3.1 Teilnahme und Angebotsbudget entscheiden
 
@@ -92,6 +106,16 @@ Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelet
 „Wir rügen die Vorgabe in [Fundstelle], wonach [Anforderung]. Sie beeinträchtigt unsere Teilnahme, weil [konkrete Folge], obwohl [belegte Fähigkeit]. Ein auftragsbezogener Grund für diese Beschränkung ist nicht ersichtlich. Wir bitten um Abhilfe durch [Korrektur], einheitliche Information aller Interessenten und die erforderliche Anpassung der Angebotsfrist. Bitte teilen Sie uns bis [Zeitpunkt] mit, ob Sie abhelfen. Die erbetene Antwortfrist verändert die gesetzlichen Fristen nicht.“
 
 „Dem Projektteam wird die im Verzeichnis bezeichnete Vertragsfassung übergeben. Der Vertragsschlussvermerk bestätigt den Zugang und Inhalt des Zuschlags, soweit dort keine offenen Punkte ausgewiesen sind. Die interne Annahme [Annahme] wird nicht als eigenständige Zusage der Auftraggeberin dargestellt. Bei einer Abweichung dokumentiert die Bauleitung Zustand, Datum und Auswirkung und legt den Vorgang der Vertragsbearbeitung zur Prüfung vor.“
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 18.06.2019 – X ZR 86/17](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019&Gericht=bgh&Sort=14&anz=2959&nr=98839&pos=11): Amtlich indexierte Leitsätze zu Abwehrklauseln und beigefügten Bieterbedingungen geprüft. **Grenze:** Alter Endpunkt bei erneutem Abruf wechselhaft; keine nicht geprüften Randnummern; keine allgemeine Heilung geänderter Leistung.
+
+- [EuGH, Urteil vom 29.03.2012 – C-599/10](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A62010CJ0599%3AEN%3AHTML): Amtlicher Text, Rn.40–44 zur Angebotsklarstellung. **Grenze:** Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig.
+
+- [EuGH, Urteil vom 05.04.2017 – C-298/15, ECLI:EU:C:2017:266, Rn. 68 bis 69 und 76 (Borta)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298): Bedingungen und Kriterien müssen klar und vorab erkennbar sein; erhebliche Änderungen verlangen eine angemessene Anpassungszeit und eine Prüfung der Publizität. **Grenze:** Der Ausgangsfall betraf einen unterschwelligen Hafenbauauftrag mit grenzüberschreitendem Interesse. Er belegt weder die Auftraggebereigenschaft einer GmbH noch die Fristen und Losausnahmen der VOB/A 2026.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 4. Verständlich arbeiten und sichtbar prüfen

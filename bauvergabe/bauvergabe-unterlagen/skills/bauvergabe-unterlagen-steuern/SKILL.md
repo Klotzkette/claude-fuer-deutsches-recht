@@ -1,9 +1,23 @@
 ---
 name: bauvergabe-unterlagen-steuern
-description: Steuert die Erstellung von Bauvergabeunterlagen auf Auftraggeberseite und verbindet genau zehn bauspezifische Fachschritte. Bei einem Einzelauftrag direkt den passenden Fachskill verwenden.
+description: "Bauvergabebedarf in konsistente Vergabeunterlagen übersetzen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Erstellung der Bauvergabeunterlagen steuern
+# Bauvergabebedarf in konsistente Vergabeunterlagen übersetzen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Bedarf, Planstände, Mengen, Kostenschätzung und Beschaffungsziel aus vorhandenen Unterlagen übernehmen; Verfahrensregime und sachliche Schnittstellen bestimmen.
+
+2. Leistungsbeschreibung, Eignung und Wertung voneinander trennen. Produkt- oder Herkunftsbezug sachlich rechtfertigen und Gleichwertigkeit operationalisieren; nicht messbare Anforderungen in prüfbare Leistungsmerkmale überführen.
+
+3. Bei Losbildung, Nebenangeboten oder Vertragsbedingungen den passenden Spezialweg öffnen. Jede Änderung mit betroffenen Dokumenten, Bieterkreis und erforderlicher Fristverlängerung verbinden.
+
+4. Ein konsistentes Unterlagenpaket oder die verlangte Berichtigung erstellen; Widersprüche zwischen Leistungsverzeichnis, Vertrag, Formular und Bekanntmachung tatsächlich auflösen und die Entscheidung dokumentieren.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -71,6 +85,16 @@ Bei dem fiktiven Klinikum Münster beträgt der Gesamtbauwert 40 Mio. EUR netto.
 Die freigegebene Klinikumunterlage enthält die abgestimmten Apothekenschnittstellen. Eine ältere GAEB-Datei ohne diese Anpassung wird in der Übergabe als überholt gekennzeichnet und nicht versehentlich bereitgestellt.
 
 Bei den kanonischen Testakten bilden Unterlagen, Verfahren, Bieterarbeit, Rechtsschutz und Nachträge fünf getrennte Stufen derselben fiktiven Akte. Vorbereitung ist September 2026; die Fortsetzung 2027 verwendet für die Simulation den eingefrorenen Rechtsstand 06.10.2026. Im Echtfall ist dieser neu zu prüfen. Für die Nutzung des installierten Skills müssen keine Testakten oder Werkstattdateien vorhanden sein.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 25.10.2018 – C-413/17, ECLI:EU:C:2018:865, Rn. 34 bis 40 (Roche Lietuva)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0413): Detaillierte technische Spezifikationen sind auf Gleichbehandlung, Verhältnismäßigkeit und mittelbare Herstellerbevorzugung zu prüfen. **Grenze:** Der Ausgangsfall betraf medizinische Lieferungen. Die Entscheidung bestimmt keine deutschen Bau-, Hygiene- oder Apothekenstandards; diese sind gesondert fachlich und rechtlich zu prüfen.
+
+- [EuGH, Urteil vom 05.04.2017 – C-298/15, ECLI:EU:C:2017:266, Rn. 68 bis 69 und 76 (Borta)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298): Bedingungen und Kriterien müssen klar und vorab erkennbar sein; erhebliche Änderungen verlangen eine angemessene Anpassungszeit und eine Prüfung der Publizität. **Grenze:** Der Ausgangsfall betraf einen unterschwelligen Hafenbauauftrag mit grenzüberschreitendem Interesse. Er belegt weder die Auftraggebereigenschaft einer GmbH noch die Fristen und Losausnahmen der VOB/A 2026.
+
+- [EuGH, Urteil vom 14.07.2016, C-6/15, TNS Dimarso](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62015CJ0006): Volltext, Randnummern 27 bis 32 zur unveränderten Gewichtung und diskriminierungsfreien Methode. **Grenze:** Keine generelle Veröffentlichungspflicht sämtlicher interner Methoden behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

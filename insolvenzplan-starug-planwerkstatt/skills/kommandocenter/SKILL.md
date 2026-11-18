@@ -1,85 +1,71 @@
 ---
 name: kommandocenter
-description: "Für Kommandocenter für Planverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Insolvenz- oder StaRUG-Plan bis zur prüfbaren Planfassung entwickeln. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert zusammenhängenden darstellenden und gestaltenden Planabschnitt mit Vergleichsrechnung, Gruppen, Mehrheiten und vollziehbaren Bedingungen; bei Ablehnung begründete Cramdown- oder Änderungsfassung."
 ---
 
-# Kommandocenter für Planverfahren
+# Insolvenz- oder StaRUG-Plan bis zur prüfbaren Planfassung entwickeln
 
-## Arbeitsweg
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1.1. **Aktenstart.** Lies Insolvenzstatus, Finanzierung, Forderungs- und Sicherheitenlisten, Beteiligungen und bestehenden Plan; bestimme Schuldnerrolle und Verfahrensstadium. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kommandocenter für Planverfahren` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+1.2. **Entscheidende Weiche.** Entscheide zuerst Zugang zu StaRUG oder Insolvenzplan. Plane bei eingetretener Insolvenz die gesetzlichen Verfahrensfolgen gesondert; eine attraktive Quote hält das StaRUG-Verfahren nicht automatisch offen.
 
-## Startet bei
+1.3. **Gezielte Vertiefung.** Bilde Gruppen nach Rechtsstellung und sachgerechten Interessen, prüfe Gestaltungsausschlüsse und berechne Abstimmung: InsO mehr als die Hälfte der abstimmenden Gläubiger nach Köpfen und mehr als die Hälfte der Forderungssumme der abstimmenden Gläubiger je Gruppe, StaRUG grundsätzlich 75 Prozent der Stimmrechte je Gruppe. Vergleich ist die realistische nächstbeste Alternative, nicht stets Liquidation. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-- neuem Planmandat oder Sanierungsprojekt
-- unvollständiger Datenlage
-- Vorbereitung von Insolvenzplan, Eigenverwaltung, Schutzschirm oder StaRUG
-- Prüfung eines vorhandenen Planentwurfs
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-## Geführter Workflow
+1.5. **Fertigstellen und fortschreiben.** Liefere zusammenhängenden darstellenden und gestaltenden Planabschnitt mit Vergleichsrechnung, Gruppen, Mehrheiten und vollziehbaren Bedingungen; bei Ablehnung begründete Cramdown- oder Änderungsfassung. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-1. Rolle klären: Schuldner, Verwalter, Sachwalter, Restrukturierungsbeauftragter, Gläubiger oder Beraterteam.
-2. Verfahrensziel bestimmen: Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG oder reine Vorbereitung.
-3. Datenraum, Zahlenstand, Sanierungskonzept, Stakeholder und Fristen auf Ampel setzen.
-4. Den nächsten Arbeitsmodus vorschlagen und fehlende Eingaben als präzise Fragen sammeln.
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## Ausgabe
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
-- Startvermerk mit Route und Rollen
-- Datenlückenliste
-- Priorisierte To-do-Liste
-- Skill-Fahrplan
+| Konkreter Auslöser | Vertiefung im laufenden Auftrag |
+| --- | --- |
+| Verfahrenszugang, Rolle, Datenraum, Eigenverwaltung oder Schutzschirm | [Planauftrag und Verfahrenswahl](../planauftrag-datenraum-verfahrenswahl-bearbeiten/SKILL.md) |
+| Sanierung, Liquidität und realistische Vergleichsrechnung | [Sanierungs- und Vergleichsrechnung](../sanierung-planung-vergleichsrechnung-bearbeiten/SKILL.md) |
+| Planinhalt, Gruppen, Beteiligungen und Sicherheiten | [Planinhalt und Gruppen](../planinhalt-gruppen-sicherheiten-bearbeiten/SKILL.md) |
+| Abstimmung, Ablehnung, Minderheitenschutz und Cramdown | [Abstimmung und Minderheit](../abstimmung-cramdown-minderheit-bearbeiten/SKILL.md) |
+| Stabilisierung, Gericht, Bestätigung und Vollzug | [Gericht und Vollzug](../stabilisierung-gericht-vollzug-bearbeiten/SKILL.md) |
+| Anlagen, Adressatenkommunikation und Prüfung der fertigen Fassung | [Planfassung abschließen](../plananlage-kommunikation-qualitaet-bearbeiten/SKILL.md) |
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
 
-## Qualitätsgates
 
-- Keine Rechtswirkung ohne genaue Betroffenengruppe, Betrag, Zeitpunkt und Beleg.
-- Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
-- Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
-- Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+## 3. Tragende Normen fallbezogen anwenden
 
-## Rückfragen
+InsO §§ 217–222, 231, 235 ff., 244–245, 248, 251 und 254: Inhalt, Vorprüfung, Abstimmung, Bestätigung, Minderheitenschutz und Wirkung; §§ 270 ff. für Eigenverwaltung/Schutzschirm. StaRUG §§ 2–10, 25–28, 29 ff., 33, 49 ff. und 60 ff.: Reichweite, Gruppen, Mehrheiten, Verfahrenszugang, Stabilisierung und Bestätigung. Ausgeschlossene Forderungen, Drittbeiträge und realistische Alternativszenarien konkret prüfen.
 
-Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie nach Zahlen, Recht, Stakeholdern und Verfahren. Bei Eilfällen liefere zuerst eine Minimalroute mit Stoppern.
+## 4. Rechtsprechung als Entscheidungshilfe
 
-## Arbeitsstil
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
+1. [BGH, Beschluss vom 20.07.2017, IX ZB 13/16, Rn. 9–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1). **Anwendung:** Bei versprochener Drittkompensation volle und sichere Deckung einer Schlechterstellung prüfen: Bürgenbonität, Grundschuldrang und Grundstückswert statt bloßer Nennbeträge. **Grenze:** Altes InsO-Verfahren und Vorprüfung nach Paragraf 231 InsO; dort nur offensichtlicher, nahezu sicher erfolgreicher Minderheitenschutzangriff. Kein unmittelbarer StaRUG-Präzedenzfall.
 
-## Paragrafenkette (Insolvenzplan / StaRUG)
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung)
+2. [BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Für die bereits anhängige Restrukturierung gilt BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Nach Anzeige von Zahlungsunfähigkeit oder Überschuldung gemäß § 32 Absatz 3 StaRUG ist die Aufhebung nach § 33 Absatz 2 Satz 1 Nummer 1 StaRUG die Regel. Die Ausnahmen eröffnen gerichtliches Ermessen, keinen automatischen Fortsetzungsanspruch. Bloß fehlende Vorteile eines Insolvenzverfahrens oder eine unsichere Ein-Prozent-Quote beweisen kein offensichtliches Gläubigerinteresse gegen die Eröffnung. Beruht Insolvenzreife auf vorgezogener Fälligkeit einer planbetroffenen Forderung, muss das Restrukturierungsziel überwiegend wahrscheinlich erreichbar sein. Frage nach Stand, Betrag, Bedingungen und Absicherung nötiger Drittbeiträge und aktualisiere Route, Liquiditätsplan und Vermerk. Eine freiwillige, ungesicherte Zusage genügt hierfür nicht ohne weitere tragfähige Umstände. Die Gruppenbildung wurde ausdrücklich offengelassen (Rn. 24). Ein Schutzschirm nach § 270d InsO setzt beim Zugang fehlende Zahlungsunfähigkeit voraus. **Grenze:** Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25.
 
-## Triage — Plan-Vorarbeiten
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
 
-Bevor losgelegt wird, klaere:
-1. **Verfahrensart?** Insolvenzplan nach Paragrafen 217 ff. InsO oder StaRUG-Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG?
-2. **Klassenbildung schluessig?** Paragraf 222 InsO und Paragraf 9 StaRUG — Rechtsstellung und sachgerechte wirtschaftliche Interessen; Gleichbehandlung im StaRUG zusätzlich nach Paragraf 10 StaRUG.
-3. **Mehrheits-Simulation?** Ist 75%-Schwelle (StaRUG) oder 50%+50% (InsO) realistisch?
-4. **Vergleichsrechnung?** Liquidationswert als Referenz für Best-Interest-Test berechnen.
-5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?
+3. [BGH, Beschluss vom 16.07.2026, IX ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein. **Grenze:** Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-16.
+
+## 5. Beweis, Gegenposition und Fristen
+
+Unterscheide das Insolvenzverfahren mit § 5 InsO, die Glaubhaftmachung eines Gläubigerantrags nach § 14 InsO und einen streitigen Zivilprozess. Der Anfechtungskläger muss die anspruchsbegründenden Tatsachen darlegen und beweisen; sekundäre Darlegungslast oder Beweisvereitelung verlangen besondere Voraussetzungen. Ein außenstehender Empfänger muss fehlende Schuldnerbuchhaltung nicht generell ersetzen. Bei Organhaftung, Tabellenfeststellung und Planbestätigung gelten jeweils eigene Nachweisregeln. Rechnung, Indizienwürdigung und offene Datenlücke bleiben getrennt.
+
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere zusammenhängenden darstellenden und gestaltenden Planabschnitt mit Vergleichsrechnung, Gruppen, Mehrheiten und vollziehbaren Bedingungen; bei Ablehnung begründete Cramdown- oder Änderungsfassung. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 1. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

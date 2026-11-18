@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Private Equity Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Private-Equity-Transaktion und Managementbeteiligung ausarbeiten. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständige Investitions- oder Beteiligungsregelung beziehungsweise Investment-Memo mit berechneter Exit-/Leaver-Wirkung und vollziehbarer Struktur."
 ---
 
-# Juristischer Argumentationskern - Private Equity Praxis
+# Private-Equity-Transaktion und Managementbeteiligung ausarbeiten
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Ordne Fonds- oder Transaktionsstruktur, Beteiligte, Freigaben und konkrete Risiken. Begründe den verlangten Entwurf für Beteiligung, Vertragsänderung, Vollzug oder Exit.
+1.1. **Aktenstart.** Lies Erwerbsstruktur, Finanzierung, Managementprogramm, SHA, SPA und Exit-Regeln; trenne Fonds, Erwerber, Zielgesellschaft und Manager. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Prüfe Finanzierung, Kapitalerhaltung, Zustimmungen und wirtschaftliche Risikoverteilung. Bei Managementbeteiligung sind Erwerbspreis, Unternehmerrisiko, Einfluss und Verknüpfung zum Dienstvertrag gemeinsam zu würdigen.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei Leaver-Ereignis konkrete Rückerwerbsausübung und Preisregel prüfen; bei Debt Pushdown rechtliche Schuldner und Sicherheiten; bei Exit Drag/Tag, Vollmacht und Form. Ein zulässiges Managermodell rechtfertigt nicht jede Founder-Klausel. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Private Equity Praxis in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständige Investitions- oder Beteiligungsregelung beziehungsweise Investment-Memo mit berechneter Exit-/Leaver-Wirkung und vollziehbarer Struktur. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,84 +29,58 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen |
 | Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Debt-Equity-Swap](../debt-equity-swap-pe/FACHINHALT.md)
-3.1.2. [ELTIF 2.0: europäischer Long-Term-Fund für Private Markets](../eltif-private-markets-euveca-fonds-kvg-erlaubnis/FACHINHALT.md)
-3.1.3. [Portfolio: 100-Tage-Plan Legal](../portfolio-100-tage-plan/FACHINHALT.md)
-3.1.4. [Preferred Equity und hybride Finanzierung](../preferred-equity-hybrid-finance/FACHINHALT.md)
+2.1.1. [Debt-Equity-Swap](../debt-equity-swap-pe/FACHINHALT.md)
+2.1.2. [ELTIF 2.0: europäischer Long-Term-Fund für Private Markets](../eltif-private-markets-euveca-fonds-kvg-erlaubnis/FACHINHALT.md)
+2.1.3. [Portfolio: 100-Tage-Plan Legal](../portfolio-100-tage-plan/FACHINHALT.md)
+2.1.4. [Preferred Equity und hybride Finanzierung](../preferred-equity-hybrid-finance/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-4.2. HGB Paragraf 105: offene Handelsgesellschaft.
-4.3. GmbHG Paragraf 13: Rechtsnatur der GmbH.
-4.4. GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-4.5. GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
-4.6. AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
+3.1. BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+3.2. HGB Paragraf 105: offene Handelsgesellschaft.
+3.3. GmbHG Paragraf 13: Rechtsnatur der GmbH.
+3.4. GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+3.5. GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
+3.6. AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung als Entscheidungshilfe
 
-5.1. Bestimme zuerst den konkreten Streitpunkt in Private Equity Praxis und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
-5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
-5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
-5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-## 6. Beweislast und Gegenangriff
+1. [BGH, Urteil vom 19.09.2005 - II ZR 173/04, Gründe zur sachlichen Rechtfertigung des Managermodells, S. 5 bis 9 und 13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2004/II_ZR_173-04.pdf?__blob=publicationFile&v=1). **Anwendung:** Rückübertragung einer verbilligten, risikoarmen Minderheitsbeteiligung als Annex zur Geschäftsführerstellung von sachgrundlosem Hinauskündigen unterscheiden; Erwerbspreis, Risiko, Gewinnfunktion und Austrittsanlass prüfen. **Grenze:** Keine pauschale Billigung jeder PE-Leaver-Klausel oder selbst finanzierten Vollwertbeteiligung. Treuwidrig herbeigeführter Bedingungseintritt nach Paragraf 162 Absatz 2 BGB bleibt gesondert zu prüfen.
 
-Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+2. [BGH, Urteil vom 10.02.2026 – II ZR 71/24, Wiederverwendet:18–21,55–58,66–67](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1). **Anwendung:** Marktpreis/Verlustrisiko schließen funktionsgebundenes Management-Rückerwerbsmodell nicht allein aus; Missbrauch der Abberufung gesondert. **Grenze:** KG-Managementfall, Zurückverweisung; keine pauschale Freigabe von Founder-Vesting/Bad-Leaver-Abschlägen.
 
-## 7. Prüffolge
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
 
-7.1. Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-7.2. Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter.
-7.3. Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-7.4. Welche Haftungsnorm und welcher Schaden sind konkret.
-7.5. Welcher Vollzugsschritt ist noch offen.
+3. [BGH, Urteil vom 08.01.2019 - II ZR 364/18, Rn. 24 bis 47](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1). **Anwendung:** Beim Verkauf des ganzen GmbH-Unternehmens interne Zustimmung der Gesellschafter von externer Vertretungsmacht trennen; Kenntnis oder Evidenz eines Vollmachtsmissbrauchs auf Käuferseite prüfen. **Grenze:** Paragraf 179a AktG gilt nicht analog für die GmbH; fehlender Beschluss macht den Vertrag nicht automatisch unwirksam. Kein allgemeiner Maßstab für jeden Share Deal.
 
-## 8. Juristisches Schreiben
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten, Transaktionsschritte, Notarform: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+## 5. Beweis, Gegenposition und Fristen
 
-## 9. Ausgabemodi
+Bestimme die Darlegungs- und Beweislast je Anspruch und Merkmal. Bei Organhaftung sind Schaden und haftungsauslösender Zusammenhang von der Gesellschaft darzulegen; die organbezogene Sorgfalts-/Entlastungslast nach § 93 Abs. 2 AktG beziehungsweise den Regeln zu § 43 GmbHG darf nicht durch einen pauschalen Satz ersetzt werden. Die Business Judgment Rule betrifft unternehmerische Entscheidungen, nicht die Freiheit zur Missachtung zwingenden Rechts. Mitgliedschaft, Beschlussmangel und Treuepflichtanspruch benötigen jeweils eigene Belege; Register- oder Listeneintrag allein beweist nicht jeden materiellen Vorgang.
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
 
-## 10. Qualitätskontrolle
+## 6. Fertige Fassung und Abschlussprüfung
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich verwendbar?
+Liefere vollständige Investitions- oder Beteiligungsregelung beziehungsweise Investment-Memo mit berechneter Exit-/Leaver-Wirkung und vollziehbarer Struktur. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

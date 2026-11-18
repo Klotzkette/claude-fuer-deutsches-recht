@@ -1,9 +1,23 @@
 ---
 name: vertrag-vom-auftrag-bis-zur-endfassung-erstellen
-description: Erstellt einen deutschen B2B-Vertrag für ein mittelständisches Einzelgeschäft aus Auftrag, Angebot und Anlagen und führt denselben Entwurf nach Rückfragen bis zur Endfassung fort. Geeignet für Lieferung, Wartung und überschaubare Projekte; keine umfassende Konzern-, Unternehmenskauf- oder internationale Vertriebsstrukturierung.
+description: "Vertrag vom konkreten Auftrag bis zur vollständigen Endfassung erstellen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Einen B2B-Vertrag aus dem konkreten Geschäftsauftrag erstellen
+# Vertrag vom konkreten Auftrag bis zur vollständigen Endfassung erstellen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Geschäftsziel, Parteien, vorhandene Entwürfe, Leistung und wirtschaftliche Eckdaten aus dem Auftrag übernehmen; fehlende Kernentscheidung gezielt isolieren.
+
+2. Leistung, Gegenleistung, Fälligkeit, Abnahme, Haftung und Beendigung entlang des Vertragstyps entwickeln. AGB-Charakter und zwingendes Recht prüfen; eine Verhandlungsformel beweist kein tatsächliches Aushandeln.
+
+3. Bei Werkleistung, Verbraucherbezug, Ausland, Sicherheiten oder Daten den passenden Fachweg öffnen; Ergebnisse in Klauseln und Nebenfolgen derselben Fassung zurückführen.
+
+4. Den Vertrag vollständig mit Definitionen, Anlagen und Unterschriftsblöcken schreiben; widersprüchliche Fristen und Rechtsfolgen bereinigen und verbleibende Auswahlpunkte kurz außerhalb der Endfassung erklären.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -66,6 +80,16 @@ Liefere den vollständigen Vertrag und getrennt davon nur die entscheidenden off
 Eine Druckerei beauftragt vierteljährliche Inspektionen und gesonderte Reparaturen. Schreibe den Wartungsvertrag mit getrenntem Reparaturauftrag, statt aus der Wartung automatisch eine jederzeitige Funktionsgarantie zu machen. Fehlt die Einbeziehung der Ersatzteile in den Pauschalpreis, frage genau danach und vervollständige den übrigen Vertrag.
 
 Bei neu bestätigten 8400 EUR jährlich sind 700 EUR monatlich nur bei monatlicher Abrechnung richtig. Ändere Preisstellen, nicht ungefragt Haftung oder Laufzeit. Liefere dieselbe bereinigte Fassung ohne Versand.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 19.01.2017 – VII ZR 301/13, Rn. 31–51](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1): Mängelrechte grundsätzlich nach Abnahme; beim endgültigen Abrechnungsverhältnis begrenzte Ausnahme, Vorschussverlangen allein genügt nicht. **Grenze:** Vor Abnahme Erfüllung/allgemeine Leistungsstörung erhalten; keine automatische Übertragung auf Kauf/Dienstleistung.
+
+- [BGH, Urteil vom 20.03.2014 – VII ZR 248/13, Rn. 22–32](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1): Tatsächliches Zur-Disposition-Stellen des Klauselkerns belegen; bloße Verhandlungsbestätigung/Abwahl des AGB-Rechts reichen nicht. **Grenze:** Konkreter Bau-Sicherheitenfall begründet keine allgemeine Prozentgrenze.
+
+- [BGH, Urteil vom 13.11.2025, III ZR 165/24, Rn. 32–36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2024/III_ZR_165-24.pdf?__blob=publicationFile&v=1): Transparenz nach typischem aufmerksamen Adressaten und Klauselzusammenhang beurteilen; widersprüchliche Laufzeit- und Kündigungsregeln bleiben intransparent. **Grenze:** Nicht jede sprachlich verbesserbare Klausel ist unwirksam; keine Freigabe widersprüchlicher Belastungen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

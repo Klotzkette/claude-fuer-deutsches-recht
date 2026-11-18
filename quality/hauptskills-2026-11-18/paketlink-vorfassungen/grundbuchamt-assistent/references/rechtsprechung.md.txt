@@ -1,0 +1,47 @@
+# 1. Geprüfte Rechtsprechung und Anwendungsgrenzen
+
+Stand der Quellenprüfung: 01.10.2026. Amtliche Entscheidungstexte wurden in den nachstehend bezeichneten Passagen gelesen. Das Datum bezeichnet den Prüfstand, nicht die Behauptung vollständiger Rechtsprechungserfassung. Vor einem späteren Mandat Folgeentscheidungen und geänderte Normen prüfen.
+
+## 1.1. OLG München, Beschl. v. 18.02.2026 - Az. 34 Wx 36/26 e
+
+[Amtlicher Entscheidungstext](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-1941). Gelesen: Tenor und Rn. 1–17, besonders 7, 9–14.
+
+**Anwendung:** Bloßes Kaufinteresse erlaubt keine Eigentümerausforschung. Sachlich begründetes Interesse, Verhandlungsstand und Umfang der verlangten Unterlagen sind konkret darzulegen. Gegen eine bestätigte Einsichtsversagung den Weg über § 12c Absatz 4 GBO beachten.
+
+**Grenze:** Nicht jedes Kaufinteresse ist ausgeschlossen: Nach begonnenen Verhandlungen kann die Lage anders sein. Eine konkrete Nachbarrechtsfrage ist eigenständig zu prüfen. Artikel 6 DSGVO schafft keinen selbständigen Auskunftsanspruch.
+
+## 1.2. BGH, Beschl. v. 21.05.2026 - Az. V ZB 90/25
+
+[Amtlicher Entscheidungstext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB__90-25.pdf?__blob=publicationFile&v=1). Gelesen: Kopf und Tenor; Rn. 1–17 und 23–40, besonders 8–14 und 32–33.
+
+**Anwendung:** § 42 ZVG eröffnet jedermann Einsicht in die dort erfassten Teile einer konkreten Versteigerungsakte ohne vorherige Schwärzung personenbezogener Daten. Überlassene Inhalte dürfen nicht öffentlich verbreitet oder zu verfahrensfremden Zwecken an Dritte weitergegeben werden.
+
+**Grenze:** Das ist keine allgemeine Öffnung des Grundbuchs und kein Anspruch auf die komplette Versteigerungsakte. Für übrige Aktenteile gilt insbesondere § 299 Absatz 2 ZPO. Gericht und Verfahrensart zuerst bestimmen.
+
+## 1.3. BGH, Beschl. v. 20.11.2025 - Az. V ZB 40/24
+
+[Amtlicher Entscheidungstext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__40-24.pdf?__blob=publicationFile&v=1). Gelesen: Kopf, Tenor und vollständige Rn. 1–30, insbesondere 8–11, 15–24, 28–29.
+
+**Anwendung:** Bei öffentlich beurkundeter Verfügung können Personenstandsurkunden nicht namentlich genannte Abkömmlinge identifizieren. Das Fehlen weiterer Abkömmlinge kann durch einfache Erklärungen in der Form des § 29 Absatz 1 GBO nachgewiesen werden. Verbleibende konkrete tatsächliche Zweifel sind entscheidend.
+
+**Grenze:** Keine formlose E-Mail als Ersatz; keine automatische Erbscheinbefreiung bei konkreten Zweifeln oder privatschriftlichem Testament. Eine eidesstattliche Versicherung ist im Verfahren nach § 35 Absatz 1 GBO nicht das gesetzliche Nachweismittel.
+
+## 1.4. OLG München, Beschl. v. 01.08.2025 - Az. 34 Wx 153/25 e
+
+[Amtlicher Entscheidungstext](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2025-N-19312). Gelesen: Tenor und Rn. 1–33, besonders 18 und 22–31.
+
+**Anwendung:** Für das Briefaufgebot braucht der Grundstückseigentümer eine eigene Rechtsinhaberschaft oder tragfähige Verfahrensstandschaft. Die Ermächtigung kann aus einer Verzichtserklärung folgen; ein anfänglicher Berechtigungsmangel kann bis zur Entscheidung behoben werden.
+
+**Grenze:** Die Tilgung der Darlehensforderung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Die Voraussetzungen des übrigen Aufgebotsverfahrens bleiben offen; Zurückverweisung ist keine Kraftloserklärung.
+
+## 1.5. BGH, Beschl. v. 16.02.2012 - Az. V ZB 308/10
+
+[Amtlicher Entscheidungstext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2010/V_ZB_308-10A.pdf?__blob=publicationFile&v=1). Gelesen: Kopf, Tenor und vollständige Rn. 1–21, besonders 8, 10–15 und 19–20.
+
+**Anwendung:** Nach Kraftloserklärung entfaltet der später aufgefundene alte Brief keine Rechtswirkungen mehr. Die Erteilung des neuen Briefs nach § 67 GBO verlangt die Berechtigung; der bloße Erfolg im Aufgebot ersetzt sie nicht.
+
+**Grenze:** Pfändungsfall mit altem Ausschlussurteil; die Ausführungen zum Antragsrecht des Pfändungsgläubigers nicht auf beliebige Grundstückseigentümer übertragen. Gleiches Aktenzeichen am 04.04.2011 bezeichnet nur den früheren Verfahrenskostenhilfebeschluss.
+
+## 1.6. Verwendung im konkreten Dokument
+
+Zitiere nur die für den Streitpunkt tragende Passage. Nenne Gericht, Entscheidungsform, Datum, Aktenzeichen und den tatsächlich gelesenen Pinpoint. Die Aktenzeichen sind keine universellen Textbausteine. Der Wiederfund-Fall trägt die fehlende Rechtswirkung des kraftlosen Briefs, nicht die Behauptung einer automatischen Löschung des Grundpfandrechts. Die zwei Entscheidungen von 2026 behandeln unterschiedliche Einsichtsregime. Vermeide eine gegenseitige Übertragung allein aufgrund des Worts „Grundbuch“. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle. Maßgeblich ist die zentrale [Zitierweise](../../references/zitierweise.md).

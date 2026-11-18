@@ -1,9 +1,9 @@
 ---
 name: pflegefall-bearbeiten
-description: Führt einen Pflegefall nach SGB XI vom vorhandenen Bescheid oder Versorgungsbedarf zum Antrag, Leistungsplan oder Schreiben. Nutzen bei offener Pflegeberatung, mehreren zusammenhängenden Leistungen und neuen Unterlagen. Bei klarer Gutachten-, Rechnungs- oder Rechtsbehelfsfrage unmittelbar den passenden Fachskill nutzen; keine erneute Vollaufnahme.
+description: "Pflegefall vom Alltagssachverhalt zum richtigen Leistungsantrag führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert fertigen Antrag oder Widerspruch mit konkreter Leistungsart, Alltagsbelegen, Berechnung und gegebenenfalls begründetem Eilantrag."
 ---
 
-# Pflegefall nach SGB XI bearbeiten
+# Pflegefall vom Alltagssachverhalt zum richtigen Leistungsantrag führen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -14,6 +14,19 @@ Führe den Vorgang zu dem beauftragten Pflegeantrag, belastbaren Finanzierungspl
 Lies zuerst Auftrag, Bescheid, Gutachten, Vollmacht und einschlägige Rechnungen im freigegebenen Ordner. Übernimm Namen, Zugang, Zeitraum und Pflegegrad mit Beleg. Frage nur fehlende Entscheidungen ab: Geht es um Einstufung, Versorgung zu Hause, Heimkosten oder einen abgelehnten Antrag? Bei klarer Aufgabe nicht erneut wählen lassen.
 
 ## 3. Ablauf / Checkliste
+
+**Aktenstart.** Lies Pflegegutachten, Bescheid, Pflegetagebuch, Wohnsituation, Heimvertrag und Rechnungen; ordne Pflegekasse, privates Versicherungsunternehmen oder Sozialhilfeträger zu. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Prüfe tatsächliche Selbstständigkeit und die gewichteten Begutachtungsmodule statt bloßer Diagnosen. Trenne Pflegegrad, Geld-/Sachleistung, Entlastung, Wohnumfeld, Hilfsmittel und Heimkosten.
+
+**Gezielte Vertiefung.** Bei strittigem Gutachten benenne konkrete Verrichtungen und Frequenzen; bei Heimzuschlag Aufenthaltsmonate und berücksichtigungsfähige Kosten; bei Wohnraumanpassung grenze GKV-Hilfsmittel ab. Vorläufige Terminberichte nur in ihrem veröffentlichten Umfang nutzen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere fertigen Antrag oder Widerspruch mit konkreter Leistungsart, Alltagsbelegen, Berechnung und gegebenenfalls begründetem Eilantrag. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 1. Sorge bei naher Frist zuerst für einen formgerechten Rechtsbehelfsentwurf; bei akuter Versorgungslücke frage, welche Hilfe heute fehlt. Keine medizinische Notfallversorgung durch Texte ersetzen.
 2. Prüfe Versicherung nach Paragrafen 20 oder 23, Antrag und Beginn nach Paragraf 33 sowie Beratung nach Paragraf 7a SGB XI. Beihilfequote und private Zusatzversicherung gesondert halten.
@@ -50,6 +63,34 @@ Das bestellte Dokument in vollständigen, ausformulierten Sätzen liefern, keine
 „Meine Mutter kommt morgen aus der Klinik; die Unterlagen liegen im Ordner.“ Versorgungsbedarf und bereits beantragte Leistungen aus dem Entlassbrief übernehmen; nur ungeklärte Pflegeorganisation erfragen und den nötigen Antrag vorbereiten.
 
 „Hier ist die Antwort der Kasse auf unseren Widerspruch.“ Den bisherigen Antrag fortführen; nicht erneut nach sämtlichen Stammdaten fragen.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BSG, Urteil vom 05.03.2026, B 3 P 5/24 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html). **Anwendung:** Gewichtung der Module und besondere Bedarfskonstellation getrennt prüfen. **Grenze:** Kein Ausschluss eines Pflegegrads allein wegen einer Diagnose.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+2. [BSG, Urteil vom 30.11.2023, B 3 P 5/22 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_11_30_B_03_P_05_22_R.html). **Anwendung:** Technische Hilfe, Wohnumfeld und Gesamtmaßnahme unterscheiden. **Grenze:** Keine Zusage einer Krankenversicherungsleistung; Verzögerungszahlung nach damaliger Fassung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+3. [BSG, Urteil vom 01.10.2026, B 3 P 2/25 R](https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_02_25_R.html). **Anwendung:** Die Wahl einer Bezugspflegekraft erlaubt keine Pflegevergütung oberhalb der vereinbarten Preise nach Paragraf 89 SGB XI. Investitionskosten können dem Entlastungsbetrag zugeordnet werden, wenn sie unmittelbar mit der Leistung verbunden, wirksam vereinbart und nach Paragraf 82 Absatz 3 oder 4 gesondert berechnet sind. Im Fall fehlte der Nachweis gesonderter Berechnung; die Revision blieb erfolglos. **Grenze:** Nur amtlicher Entscheidungsbericht vollständig gelesen, keine erfundenen Randnummern. Die Jahresübersicht verlinkte noch keine Urteilsgründe zu diesem Verfahren; daraus wird keine weltweite Nichtverfügbarkeit abgeleitet. Vor tragender Schriftsatzverwendung Gründe nachrecherchieren. Streitzeitraum 2017 mit 125 Euro nicht auf aktuellen Entlastungsbetrag von 131 Euro übertragen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-16.
+
+4. [BSG, Urteil vom 01.10.2026, B 3 P 3/25 R](https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html). **Anwendung:** Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich. **Grenze:** Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-16.
+
+#### 6.1.1. Beweis und Abschluss
+
+Amtsermittlung durch Träger und Sozialgericht verlangt gezielte Sachaufklärung zugunsten und zulasten der Beteiligten. Mitwirkung, Glaubhaftmachung im Eilverfahren und objektive Feststellungslast sind verschiedene Fragen. Erst nach ausgeschöpfter Ermittlung ist zu entscheiden, wen die Nichterweislichkeit des konkreten anspruchsbegründenden oder anspruchsvernichtenden Merkmals trifft. Im PKV-Vertragsprozess gelten dagegen die zivilprozessualen Darlegungs- und Beweisregeln.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

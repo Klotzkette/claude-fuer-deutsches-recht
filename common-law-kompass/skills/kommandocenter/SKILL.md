@@ -1,9 +1,17 @@
 ---
 name: kommandocenter
-description: "Für Common-Law-Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Common-Law-Frage nach Rechtsraum und Verfahren lösen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Common-Law-Kommandocenter
+# Common-Law-Frage nach Rechtsraum und Verfahren lösen
+
+Bestimme Staat, gegebenenfalls US-Bundesstaat, Gericht, Vertragsrechtswahl, Sachverhalt und gewünschtes Produkt; gleiche den englischen Originaltext mit seiner Übersetzung ab.
+
+**Entscheidung im Arbeitsablauf:** Trenne statutory law, binding precedent und persuasive authority nach Gerichtshierarchie und Zeitpunkt. Vergleiche ratio und entscheidungserhebliche Tatsachen, bevor ein Fall als Präjudiz behandelt wird.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle ein rechtsraumspezifisches Memo oder die verlangte Vertragsfassung mit begründeter Anwendung und Gegenfall; deutsche Anspruchsreihenfolgen nicht auf fremdes Recht übertragen. Ein Wechsel von englischem Recht zu New Yorker Recht löst eine neue Rechtsquellen- und Durchsetzbarkeitsprüfung aus; eine sprachliche Anpassung allein genügt nicht.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## Regelungs- und Quellenanker
 

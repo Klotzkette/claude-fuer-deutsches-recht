@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Bereicherungs Und Anfechtungsrecht Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Bereicherung und Anfechtung bis zum Rückabwicklungsentwurf prüfen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Bereicherungs Und Anfechtungsrecht Prüfer
+# Bereicherung und Anfechtung bis zum Rückabwicklungsentwurf prüfen
 
 ## 1. Direktstart
 
@@ -15,20 +15,19 @@ Rekonstruiere, wer wem was aufgrund welchen Rechtsgeschäfts verschafft hat. Pr�
 
 Beziehe Gesellschafterdarlehen, Bargeschäft oder Verteidigung des Anfechtungsgegners ein, wenn die Akte dafür einen Grund gibt. Das Ergebnis dient der fachlichen Weiterprüfung.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Bereicherungs Und Anfechtungsrecht Prüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Zahlungs- und Leistungskette, Rechtsgrund und mögliche Anfechtungserklärung aus Belegen rekonstruieren; zivilrechtliche Anfechtung und insolvenzrechtliche Gläubigeranfechtung trennen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Für jede Leistung bestimmen, wer wem was zu welchem Zweck zuwendete. Vorrang der Leistungsbeziehung, Rechtsgrundwegfall und Einwendungen wie § 814 oder Entreicherung merkmalsbezogen prüfen.
+
+3. Nur bei entsprechenden Tatsachen Fachwege zu Irrtum, Täuschung, Dreipersonenverhältnis oder Insolvenz öffnen. Kenntnis der Nichtschuld nicht aus bloßem Zweifel ableiten; die einschlägige Darlegungs- und Beweislast benennen.
+
+4. Rückzahlungsbetrag, Nutzungen, Gegenansprüche und Fristen nachvollziehbar darstellen; das verlangte Rückforderungsschreiben oder die Abwehr ausformulieren.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -62,12 +61,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Hinweisbeschluss vom 04.09.2018, VIII ZR 100/18, Rn. 9 und 17–21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2018/VIII_ZR_100-18.pdf?__blob=publicationFile&v=1): Bei Paragraf 814 BGB positive Kenntnis der Nichtschuld bei Zahlung einschließlich laienhafter rechtlicher Schlussfolgerung prüfen; Beweislast beim Empfänger. **Grenze:** Mietminderungsfall; Revisionsrücknahme nach Hinweisbeschluss. Keine pauschale Rückforderung, keine vollständige Detailkenntnis oder exakt bekannte Minderungsquote erforderlich.
+
+- [BGH, Urteil vom 01.10.2020, IX ZR 247/19, Rn. 10–12 und 39–43](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_247-19.pdf?__blob=publicationFile&v=1): Irrtümliche Zahlung auf vermeintliche entgeltliche Schuld im Zweipersonenverhältnis ist bei durchsetzbarem Bereicherungsausgleich nicht schon unentgeltlich; Kondiktionssperren gesondert prüfen. Verjährungsverzicht auslegen. **Grenze:** Genussrechtsfall, keine universelle Regel für Mehrpersonenverhältnisse oder AnfG; Reichweite nicht formularmäßigen Verzichts bleibt Auslegungsfrage.
+
+- [EuGH, Urteil vom 03.10.2019, C-260/18, Dziubak, Rn. 48, 51 und 62](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0260): Verbraucherinteressen an Folgen der Gesamtnichtigkeit aktuell beurteilen; keine freie Lückenfüllung allein nach Billigkeit oder Verkehrssitte. **Grenze:** Fremdwährungskredit; Ersatz durch dispositives Recht nur unter den genannten Schutzvoraussetzungen, keine beliebige Vertragsreparatur.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -78,13 +80,11 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
-7.2. Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen.
-7.3. Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
-7.4. Welche Pflichtverletzung oder welcher Mangel ist mit welchem Beleg bewiesen.
-7.5. Welche Einwendung ist entscheidungserheblich und wer trägt sie.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

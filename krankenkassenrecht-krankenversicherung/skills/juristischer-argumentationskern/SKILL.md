@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Krankenkassenrecht Krankenversicherung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Krankenversicherungsfall bis zum Leistungs- oder Rechtsbehelfsantrag führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen Leistungsantrag, Widerspruch, Kostenerstattungs- oder Eilantrag mit beantragter Versorgung und nachvollziehbarem medizinischen Beleg."
 ---
 
-# Juristischer Argumentationskern - Krankenkassenrecht Krankenversicherung
+# Krankenversicherungsfall bis zum Leistungs- oder Rechtsbehelfsantrag führen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Gleiche Versicherungsstatus, Leistungsantrag, Befunde und Bescheid ab. Begründe den verlangten Widerspruch, Leistungsantrag oder Kostenvermerk anhand der entscheidenden Unterlagen.
+1.1. **Aktenstart.** Lies Versicherungsstatus, Antrag, Bescheid, medizinische Unterlagen, Kostenvoranschlag und Zeitpunkt einer Selbstbeschaffung. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Trenne GKV-Sachleistung, Kostenerstattung, Beiträge und PKV-Vertragsleistung. Prüfe Bedarf und Anspruchsgrundlage im richtigen System; medizinische Notwendigkeit in der PKV ersetzt keine GKV-Leistungsvoraussetzung.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei Genehmigungsfiktion prüfe Antrag, Fristlauf, Mitteilung, Selbstbeschaffung und Vertrauenslage; bei Hilfsmitteln das konkrete Alltagsziel. Bei akuter Versorgung begründe Eilbedarf mit tatsächlichen Folgen statt nur der Diagnose. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Krankenkassenrecht Krankenversicherung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständigen Leistungsantrag, Widerspruch, Kostenerstattungs- oder Eilantrag mit beantragter Versorgung und nachvollziehbarem medizinischen Beleg. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,86 +29,74 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Krankenversicherung | Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen |
 | Pflege und Teilhabe | Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht](../krankenversicherung-pkv-vertrag-antrag-betriebliche/FACHINHALT.md)
-3.1.2. [Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit](../kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit/FACHINHALT.md)
-3.1.3. [Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif](../kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif/FACHINHALT.md)
-3.1.4. [Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung](../kv-024-widerspruch-ablehnung-frist-begruendung/FACHINHALT.md)
+2.1.1. [PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht](../krankenversicherung-pkv-vertrag-antrag-betriebliche/FACHINHALT.md)
+2.1.2. [Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit](../kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit/FACHINHALT.md)
+2.1.3. [Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif](../kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif/FACHINHALT.md)
+2.1.4. [Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung](../kv-024-widerspruch-ablehnung-frist-begruendung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
-4.2. SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
-4.3. SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
-4.4. SGG Paragraf 87: Klagefrist.
-4.5. SGG Paragraf 103: Amtsermittlung im sozialgerichtlichen Verfahren.
-4.6. SGG Paragraf 86b: einstweiliger Rechtsschutz.
+3.1. SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
+3.2. SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
+3.3. SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
+3.4. SGG Paragraf 87: Klagefrist.
+3.5. SGG Paragraf 103: Amtsermittlung im sozialgerichtlichen Verfahren.
+3.6. SGG Paragraf 86b: einstweiliger Rechtsschutz.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung als Entscheidungshilfe
 
-5.1. BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-5.2. BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle.
-5.3. BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
-5.4. BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+1. [BGH, Urteil vom 29.03.2017, IV ZR 533/15, Randnummern 20 bis 31](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_533-15.pdf?__blob=publicationFile&v=1). **Anwendung:** Eine verfügbare Brille allein schließt bei den dortigen Bedingungen medizinische Notwendigkeit einer LASIK nicht aus; objektive Befunde zum Behandlungszeitpunkt prüfen. **Grenze:** Tarifabhängig; Zurückverweisung zur Notwendigkeit, keine allgemeine Kostenzusage und keine GKV-Regel.
 
-## 6. Beweislast und Gegenangriff
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
 
-Ausgangspunkt für dieses Plugin: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege.
+2. [BSG, Urteil vom 10.03.2022, B 1 KR 6/21 R, Randnummern 12 bis 25](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_03_10_B_01_KR_06_21_R.pdf?__blob=publicationFile&v=2). **Anwendung:** Fristabhängige Kostenerstattung setzt unter anderem Gutgläubigkeit, Kosten und Ursächlichkeit voraus; vorherige Vorfestlegung und tatsächlichen Zugang der MD-Unterrichtung prüfen. **Grenze:** Keine automatische Sachleistung; Vorauszahlung nur gewichtiges Indiz, Unaufschiebbarkeit eigenständig nach Absatz 3.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
 
-## 7. Prüffolge
+3. [BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2020/2020_05_26_B_01_KR_09_18_R.html). **Anwendung:** Kein automatisches Sachleistungsversprechen aus Genehmigungsfiktion. **Grenze:** Erstattung, Selbstbeschaffung und Sonderrecht gesondert prüfen.
 
-7.1. Welcher Bescheid wird mit welchem Ziel angegriffen.
-7.2. Welche Frist läuft und ist Vorverfahren erforderlich.
-7.3. Welche Anspruchsvoraussetzung ist durch welchen Beleg bewiesen.
-7.4. Welche medizinische, pflegerische oder wirtschaftliche Tatsache fehlt.
-7.5. Ob die Ablehnung nur pauschal auf Wirtschaftlichkeit verweist oder die konkrete Funktion des begehrten Mittels widerlegt.
-7.6. Welche existenzielle Folge droht ohne Eilentscheidung.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
 
-## 8. Juristisches Schreiben
+4. [BSG, Urteil vom 18.06.2026 – B 3 KR 2/25 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html). **Anwendung:** Konkrete Alltagswege, Restkräfte, sichere Nutzbarkeit und Alternativen für motorunterstütztes Hilfsmittel prüfen. **Grenze:** Zurückverweisung, kein Anspruch auf Wunschmodell; Sport-/Freizeitinteressen außerhalb der alltäglichen Wege gesondert.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Bescheidlage, Leistungsrecht, Medizin, Krankenversicherung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
 
-## 9. Ausgabemodi
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-## 10. Qualitätskontrolle
+4.1.1. BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
+4.1.2. BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle.
+4.1.3. BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
+4.1.4. BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich verwendbar?
+4.1.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 5. Beweis, Gegenposition und Fristen
+
+Amtsermittlung durch Träger und Sozialgericht verlangt gezielte Sachaufklärung zugunsten und zulasten der Beteiligten. Mitwirkung, Glaubhaftmachung im Eilverfahren und objektive Feststellungslast sind verschiedene Fragen. Erst nach ausgeschöpfter Ermittlung ist zu entscheiden, wen die Nichterweislichkeit des konkreten anspruchsbegründenden oder anspruchsvernichtenden Merkmals trifft. Im PKV-Vertragsprozess gelten dagegen die zivilprozessualen Darlegungs- und Beweisregeln.
+
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere vollständigen Leistungsantrag, Widerspruch, Kostenerstattungs- oder Eilantrag mit beantragter Versorgung und nachvollziehbarem medizinischen Beleg. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

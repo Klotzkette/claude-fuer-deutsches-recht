@@ -1,9 +1,23 @@
 ---
 name: cisg-kaufmandat-steuern
-description: Führt internationale Warenkaufmandate für Käufer oder Verkäufer vom Lesen der Unterlagen über gezielte Rückfragen zum fertigen Brief, Vertragsnachtrag oder Gutachten. Hauptskill für zehn Fachskills zum UN-Kaufrecht CISG.
+description: "CISG-Kaufmandat bis zum konkreten Anspruch oder Vertragstext führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. UN-Kaufrecht: Kaufmandat bis zum Dokument führen
+# CISG-Kaufmandat bis zum konkreten Anspruch oder Vertragstext führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Niederlassungen, Vertrag, Waren, Kommunikationsfolge, Liefertermine und Rügen auslesen; CISG-Anwendbarkeit und Ausschluss vor deutschem Kaufrecht prüfen.
+
+2. Vertragsschluss, Vertragsinhalt, Lieferung, Untersuchung und Mängelanzeige nacheinander bearbeiten. Anfechtung, Eigentumswirkung und Verfahrensrecht nicht ungeprüft dem CISG zuordnen.
+
+3. Bei kollidierenden AGB, Vertragsaufhebung, Deckungskauf oder Schadensminderung den passenden Fachweg laden; Wesentlichkeit und Nachfrist anhand konkreter Pflichtverletzung begründen.
+
+4. Anspruchsschreiben, Erwiderung oder Vertragsklausel vollständig formulieren; Schaden, Mitteilung und Frist belegen. Ein bloßer Zulassungsbeschluss ist kein tragender materieller CISG-Rechtssatz.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1.1. Zweck und Anwendungsfall
 
@@ -32,6 +46,16 @@ Ausformulierungspflicht: vollständige, grammatikalisch saubere Sätze; keine Sk
 ## 1.6. Beispiele
 
 Eine Käuferin verlangt wegen einer reparierbaren Maschine sofort einen Deckungskaufbrief. Lies den Reparaturplan, frage nur nach dem noch unbekannten Stillstandsende und liefere zunächst die sachlich passende Nachbesserungsaufforderung. Liegt später eine begründete endgültige Ablehnung vor, aktualisiere Aufhebung, Deckungsgeschäft und Schadensforderung. Ein Verkäufer mit offener Rechnung erhält keine Käuferbelehrung, sondern eine bezifferte Forderung mit Prüfung der konkreten Einwendungen.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Beschluss vom 31.03.2026 – VIII ZR 23/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR__23-25.pdf?__blob=publicationFile&v=2): Eigenständige angemessene Frist zur Aufhebung nach Artikel 49 Absatz 2 CISG. **Grenze:** Zurückweisung der Nichtzulassungsbeschwerde; keine starre Sechswochenfrist und keine abschließende Prüfung aller Mängelrechte.
+
+- [BGH, 06.11.2025, I ZB 33/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__33-25.pdf?__blob=publicationFile&v=1): Schiedsbindung, Vertragsbeziehung und ausländisches Recht getrennt ermitteln. **Grenze:** Zurückverweisung, kein allgemeiner Nachweis der Wirksamkeit oder Unwirksamkeit jeder AGB-Schiedsklausel.
+
+- [BGH, 09.01.2002, VIII ZR 304/00](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2000/VIII_ZR_304-00.pdf?__blob=publicationFile&v=1): Kollidierende Bedingungen im Zusammenhang würdigen, Vertragsschluss und Durchführung beachten. **Grenze:** Keine pauschale Entscheidung sämtlicher Kollisionsmethoden und keine Missachtung späterer ausdrücklicher Einigung.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 2. Verständlich arbeiten und sichtbar prüfen

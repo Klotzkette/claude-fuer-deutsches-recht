@@ -1,9 +1,9 @@
 ---
 name: bauvergaberechtsschutz-steuern
-description: Steuert Bauvergabe Rechtsschutz über mehrere Phasen und setzt die Bearbeitung nach neuen Unterlagen fort; liefert vollständige Dokumente mit rollengetrennten Entscheidungen und Fristen.
+description: "Bauvergaberechtsschutz bis zum begründeten Rechtsbehelf steuern. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Zweck und Anwendungsfall
+# Bauvergaberechtsschutz bis zum begründeten Rechtsbehelf steuern
 
 Sie bearbeiten Rechtsschutz in öffentlichen Bauvergaben. Bestimmen Sie zunächst, ob Sie einen antragstellenden Bieter, einen Auftraggeber, ein beigeladenes Unternehmen oder einen anderen Beteiligten vertreten. Halten Sie die Rollen in getrennten Dokumenten. Die Verteidigung der Wertung durch den Auftraggeber ist nicht dieselbe Aufgabe wie die Wahrung der Zuschlagschance eines Bieters. Lesen Sie vorhandene Unterlagen zuerst und erstellen Sie das konkret bestellte Schreiben, den Antrag, die Erwiderung oder den begründeten Entscheidungsvermerk. Eine umfangreiche Theorieeinleitung ersetzt das Arbeitsprodukt nicht.
 
@@ -14,6 +14,20 @@ Dieses Plugin ist ohne Reporoot und ohne gesonderten Großprompt nutzbar. Der Ha
 Lies Bekanntmachung, maßgebliche Unterlagenfassungen, eigenes Angebot, Rügen, Antworten, Entscheidungen und Zeitnachweise. Erfasse konkrete Mandatsrolle, gewünschtes Produkt und nächsten fristgebundenen Schritt. Unbekannte Akteninhalte werden nicht erfunden. Die Testakten Klinikum Münster und Wohnhaus Bielefeld bleiben in Namen, Preisen und Zeitabläufen getrennt. Die fiktive Fortsetzung 2027 nutzt den eingefrorenen Stand 06.10.2026.
 
 # 3. Ablauf und Checkliste
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Unterlagen, Ausschluss- oder Vorabinformation, Zugang und bisherige Rügen sichern; Auftraggebertyp, Schwellenwert, Regime und Verfahrensbeginn aus der Akte feststellen.
+
+2. Jeden behaupteten Fehler mit Kenntniszeitpunkt, eigener Betroffenheit und drohendem Schaden verbinden. Rüge, Wartefrist und Nachprüfungsfrist getrennt berechnen; bloße Teilnahmeverweigerung nicht als sichere Rechtsschutzstrategie darstellen.
+
+3. Nur bei einschlägigem Streit den Fachweg zu Wertung, Eignung, Akteneinsicht oder Eilrechtsschutz laden. Vertraulichkeit konkret begründen und eine nichtvertrauliche Kernauskunft verlangen, statt pauschale Offenlegung zu fordern.
+
+4. Rüge oder Antrag vollständig mit verletzter Regel, Tatsachen, Belegen, Gegenposition und konkret erreichbarer Abhilfe schreiben; nach Zuschlag die verbliebene Rechtsfolge gesondert prüfen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3.1 Rechtsschutzweg und Antragsbefugnis prüfen
 
@@ -94,6 +108,16 @@ Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelet
 „Es wird beantragt, der Antragsgegnerin zu untersagen, den Zuschlag auf Grundlage der angegriffenen Wertung zu erteilen, und ihr aufzugeben, bei fortbestehender Beschaffungsabsicht die Wertung unter Beachtung der Rechtsauffassung der Vergabekammer zu wiederholen. Ferner wird Einsicht in die für die Anwendung des streitigen Kriteriums maßgeblichen Teile der Vergabeakte beantragt. Die Antragstellerin wendet sich gegen [konkreter Fehler]; der hierdurch verursachte Nachteil ergibt sich aus [Beleg und Zusammenhang].“
 
 „Nachdem die Antragsgegnerin die in [Dokument] bezeichnete Korrektur umgesetzt und die Wertung in den betroffenen Stand zurückversetzt hat, wird der Nachprüfungsantrag zurückgenommen. Die Erklärung beruht auf dieser konkret dokumentierten Abhilfe. Eine Kostenentscheidung wird unter Berücksichtigung des Verfahrensverlaufs und der einschlägigen Billigkeitsregeln beantragt. Ein darüber hinausgehender materiell-rechtlicher Verzicht wird nicht erklärt. Vor Einreichung werden Reichweite, Zuschlagsstatus und verbleibender Schutzbedarf abschließend geprüft.“
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 17.11.2022 – C-54/21](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A62021CJ0054_RES): Amtlicher Text Rn.64–66 und 83–85 zu Geheimnissen und wesentlichem Inhalt. **Grenze:** Kein grenzenloser Konkurrenzzugang, deutsches Verfahren nach Paragraf 165 zusätzlich.
+
+- [EuGH, Urteil vom 12.02.2004 – C-230/02](https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=CELEX%3A62002CJ0230): Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28–29,37–40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; heutige Paragraf 160 Prüfung bleibt.
+
+- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an Paragraf 60 VgV abgeglichen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 4. Verständlich arbeiten und sichtbar prüfen

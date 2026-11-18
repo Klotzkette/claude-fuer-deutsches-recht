@@ -1,0 +1,870 @@
+{
+  "anwaltschaft-generell": [
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2023-05/cp230071de.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliche Pressemitteilung zu C-487/21 erschlossen; Urteilsvolltext nicht zugänglich. Keine Randnummern oder Volltextprüfung behauptet.",
+      "source_profile": "quality/evals/anwaltschaft-generell.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=273286&doclang=de",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urteil vom 04.05.2023 – C-487/21; genannte tragende Passagen im geöffneten amtlichen Volltext; Rn. 20–45; zusätzlich Kontext Rn. 1–19, 46–54 und Tenor Grenze: Datenkopie und erforderlicher Dokumentkontext, Rechte Dritter; kein voraussetzungsloser Vollaktenanspruch.",
+      "audit_source_id": "AW-C487-voll",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json",
+      "source_profile": "quality/evals/anwaltschaft-generell.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 13.07.2016 – VIII ZR 49/15; Vollständige Entscheidung einschließlich Sachverhalt und Rückverweisung gelesen; Rn. 25–31 und 33–36; Gesamtkontext Rn. 1–41 Grenze: Damals geltende kaufrechtliche Vorschriften nicht als aktuelle Nummerierung übernehmen; sechs Wochen sind keine Universalfrist.",
+      "audit_source_id": "AW-BGH2016-voll",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json",
+      "source_profile": "quality/evals/anwaltschaft-generell.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__89-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-14",
+      "supports": "BGH, Urteil vom 13.10.2026 – II ZR 89/25; Vollständige Entscheidung einschließlich Tatbestand und Tenor gelesen; Rn. 9–24, insbesondere 11 und 15–22 Grenze: Nur vertretungsberechtigter GbR-Gesellschafter bei vorliegenden weiteren Zustellungsvoraussetzungen; kein Automatismus für Beschäftigte oder jeden Gesellschafter.",
+      "audit_source_id": "AW-BGH2026",
+      "audit_path": "quality/source-audits/2026-11-14-nachpruefung/anwaltschaft-generell.json",
+      "source_profile": "quality/evals/anwaltschaft-generell.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "barrierefreiheit-web-checker": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZR__79-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 4. März 2010, III ZR 79/09, Randnummern 15 bis 27. Anwendung: Geschuldete funktionsfähige Website als Erfolg im Gesamtvertrag; werkvertragliche Mängelprüfung. Grenze: Keine Entscheidung über BFSG/WCAG und keine pauschale Einordnung von Hosting oder Beratung.",
+      "source_profile": "quality/evals/barrierefreiheit-web-checker.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "bea-versand": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen. Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht.",
+      "source_profile": "quality/evals/schriftsatz-versandwerkstatt.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZB___9-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 11.05.2021, VIII ZB 9/20: Randnummern 18, 21 bis 24 und 41 bis 54: Gerichtseingang und konkrete organisatorische Kontrolle der automatisierten Bestätigung; fehlender Nachweis verlangt rechtzeitige Klärung. Grenze: Eingangsbestätigung ersetzt weder Inhalts- noch Formprüfung; bloß fehlende Bestätigung beweist noch keine Verspätung.",
+      "source_profile": "quality/evals/kanzlei-allgemein.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "berichtspflichten-erlediger": [],
+  "buerokratieversteher-entbuerokratisierer": [],
+  "common-law-kompass": [],
+  "datenbankrecht": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62002CJ0203",
+      "checked_on": "2026-09-14",
+      "supports": "EuGH, Urteil vom 9. November 2004, C-203/02: Datenerzeugung und erzeugungsbegleitende Prüfung sind von Investitionen in vorhandene Daten abzugrenzen.",
+      "source_profile": "quality/evals/datenbankrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0304",
+      "checked_on": "2026-09-14",
+      "supports": "EuGH, Urteil vom 9. Oktober 2008, C-304/07: Auch Übertragung nach Bildschirmabfrage und eigener Auswahl kann Entnahme sein.",
+      "source_profile": "quality/evals/datenbankrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2008:552",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 09.10.2008, Az. C-304/07, Directmedia, Randnummern 34 bis 45. Anwendung: Auch Übertragung nach Bildschirmkonsultation und eigener Auswahl kann Entnahme sein. Grenze und Prüfzugang: Bloße Konsultation genügt nicht; geschützte Datenbank und wesentliche oder systematisch kumulierte Teile bleiben nachzuweisen.",
+      "source_profile": "quality/evals/datenbankrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "datenschutz-sanktionsverfahren-verteidigung": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 5. Dezember 2023, C-807/21, Deutsche Wohnen, Randnummern 60 und 68 bis 78. Anwendung: Unternehmensgeldbuße ohne vorherige Identifizierung einer natürlichen Person möglich, Vorsatz oder Fahrlässigkeit bleiben erforderlich. Grenze: Keine verschuldenslose Haftung und kein Maßstab für sämtliche Anordnungen oder zivilrechtlichen Schäden.",
+      "source_profile": "quality/evals/datenschutz-sanktionsverfahren-verteidigung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "datenschutzrecht": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler, Rn. 37–45, 48–55 und 59–67. Auch der erste Auskunftsantrag kann bei nachgewiesener Absicht, künstlich einen Ersatzanspruch herbeizuführen, exzessiv sein. Ein Auskunftsverstoß kann Art. 82 DSGVO auslösen. Anzahl früherer Anträge und kurze Zeitabstände reichen für sich genommen nicht. Tatsächlichen Schaden und Kausalität eigenständig prüfen. Eine Handlung der betroffenen Person kann als entscheidende Schadensursache die Kausalität unterbrechen.",
+      "source_profile": "quality/evals/datenschutzrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+      "source_profile": "quality/evals/datenschutzrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=316753&doclang=DE",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urteil vom 05.11.2026, C-205/25, Lindenberg, Rn. 29–47, 54–67: Aufsicht als Verantwortlicher eigener Beschwerdeverarbeitung; eigene Daten statt allgemeinem Aktenzugang; keine pauschale Verweigerung, konkrete Einschränkung und mögliche Schwärzung.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "492736d42dc2fa5e5497beed79131c8bc16348c5f3c5f50ce669975304751969",
+      "source_profile": "quality/evals/datenschutzrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=312704&doclang=DE",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urteil vom 18.06.2026, C-484/24, NTH Haustechnik, Rn. 81–86 und 108–130: Art. 17 Abs. 3 Buchst. e DSGVO ist keine eigene Verarbeitungsgrundlage; gerichtliche Verarbeitung von vorher rechtswidrig erlangten Daten nicht generell ausgeschlossen; Datenminimierung vor Offenlegung. Nationale Zulässigkeit und ursprüngliche Verarbeitung getrennt.",
+      "verification_status": "amtlicher_volltext_passagenbezogen",
+      "source_sha256": "72d4d8a669518dd97be977705bfda61d9f33d500cdc5082e05fb9bb5dbf82560",
+      "source_profile": "quality/evals/datenschutzrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "designrecht-geschmacksmusterrecht": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 19.06.2014, Az. C-345/13, Karen Millen, Randnummern 25 bis 47. Anwendung: Eigenart am Gesamteindruck einzelner älterer Designs; besondere Darlegung für Gültigkeitsvermutung des nicht eingetragenen Designs. Grenze und Prüfzugang: Kein Ersatz für Nachahmungsnachweis; nicht sämtliche Fragen technischer Bedingtheit oder Ersatzteile entschieden.",
+      "source_profile": "quality/evals/designrecht-geschmacksmusterrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "deutsche-rechtsgeschichte": [],
+  "dfg-foerderantrag": [],
+  "diesel-schadensersatz": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_545-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-26",
+      "supports": "BGH, Urteil vom 28.07.2026, VIa ZR 545/23: Konkreter Vortrag, die Abgasrückführung werde unter +17 °C um 33 Prozent reduziert und unter +5 °C sowie über +33 °C vollständig deaktiviert, genügte den Darlegungsanforderungen für die Prüfung eines Thermofensters. Der BGH bestätigte nur die Ablehnung des großen Schadensersatzes aus § 826 BGB und verwies zur erstmaligen Prüfung des Differenzschadens zurück; Einrichtung, Verschulden, Kausalität und Schadenshöhe wurden nicht festgestellt. Grenze: Temperaturschwellen, Reduktionsgrad und Abschaltwirkung mit fahrzeugbezogener Quelle vortragen und wirksames Bestreiten gesondert prüfen. Das Urteil als Darlegungs- und Anwendungsanker für Fiat-Euro-5-Wohnmobile verwenden, nicht als Serien-, Haftungs- oder Quotenbeweis; § 826 BGB und § 823 Abs. 2 BGB strikt trennen. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr545-23-fiat-thermofenster-vortrag",
+      "source_profile": "quality/evals/diesel-schadensersatz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZR__46-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-26",
+      "supports": "BGH, Beschluss vom 28.07.2026, VIa ZR 46/24: In einem EA288-Euro-6-Fall durfte das Berufungsgericht bei der Bejahung von § 826 BGB den zentralen Beklagtenvortrag nicht übergehen, das Kraftfahrt-Bundesamt habe die Fahrkurvenerkennung geprüft und nicht als unzulässig bewertet. Das Übergehen war entscheidungserheblich und verletzte Art. 103 Abs. 1 GG; der BGH stellte weder die Rechtmäßigkeit der Funktion noch einen allgemeinen Haftungsausschluss fest. Grenze: Konkret belegten Behördenvortrag und seine Informationsgrundlage bei der §-826-Vorsatz- und Sittenwidrigkeitsprüfung würdigen und beantworten. Den Beschluss nicht auf § 823 Abs. 2 BGB übertragen: Er enthält keine Entscheidung zu Differenzschaden, tatsächlichem Verbotsirrtum, vollständiger Behördeninformation oder Unvermeidbarkeit und ist kein Serienbeweis für EA288. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr46-24-ea288-fahrkurve-gehoer",
+      "source_profile": "quality/evals/diesel-schadensersatz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_151-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-26",
+      "supports": "BGH, Urteil vom 28.07.2026, VIa ZR 151/23: Der bereits erstinstanzlich gehaltene Vortrag zum Temperaturbereich einer reduzierten Abgasrückführung war nicht ins Blaue hinein erfolgt und durfte die Prüfung eines Differenzschadens nicht abschneiden. Der BGH billigte die Ablehnung des großen Schadensersatzes aus § 826 BGB und verwies nur zur Prüfung der Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit §§ 6, 27 EG-FGV zurück. Grenze: Im OM651-Euro-5-Fall Temperatursteuerung und Fahrzeugbezug konkret, aber ohne unerreichbare interne Detailkenntnis vortragen. Die Zurückverweisung belegt weder eine unzulässige Abschalteinrichtung noch Verschulden, Haftung oder Quote; Vorsatz- und Fahrlässigkeitsspur getrennt halten. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr151-23-om651-thermofenster-vortrag",
+      "source_profile": "quality/evals/diesel-schadensersatz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZR_549-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-09",
+      "supports": "BGH, Beschluss vom 21.07.2026, VIa ZR 549/24: Der BGH beanstandete es nicht, dass das Berufungsgericht die Nutzungsvorteile wegen einer über 13 Jahre festgestellten, mit durchschnittlich 5.750 Kilometern ungewöhnlich niedrigen Jahresfahrleistung zeitanteilig nach einem Bruchteil des Kaufpreises geschätzt hatte. Die Wahl der Schätzungsmethode liegt innerhalb der Grenzen des § 287 ZPO im tatrichterlichen Ermessen; die Entscheidung schreibt weder allgemein eine Zeitmethode noch allgemein die lineare Kilometermethode vor. Grenze: Bei Wohnmobilen, Sammler- oder sonstigen Fahrzeugen mit atypisch geringer Jahresfahrleistung mindestens Kilometer- und Zeitmethode als Sensitivität rechnen. Fahrzeugart, Nutzungsdauer, Jahresfahrleistung, Gesamtlaufleistungsannahme und wirtschaftliche Plausibilität offenlegen; keine Methode als universell zwingend ausgeben. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr549-24-nutzungsmethode",
+      "source_profile": "quality/evals/diesel-schadensersatz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "dsa-dma-digitalregulierung": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ0348",
+      "checked_on": "2026-09-22",
+      "supports": "EuG, Urteil vom 3. September 2025, T-348/23, Zalando/Kommission, Randnummern 60 bis 67 und 86 bis 91. Anwendung: Aktive Nutzer nach tatsächlichem Kontakt mit fremden Informationen prüfen, nicht allein Käufer oder Umsatzanteile zählen. Grenze: Nicht sämtliche Besucher eines Eigenhandelsangebots automatisch erfassen; Rechtsmittelstand separat prüfen.",
+      "source_profile": "quality/evals/dsa-dma-digitalregulierung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ1077",
+      "checked_on": "2026-09-22",
+      "supports": "EuG, Urteil vom 17. Juli 2024, T-1077/23, Bytedance/Kommission, Randnummern 39 bis 51 und 59 bis 66. Anwendung: Widerlegung nach Artikel 3 Absatz 5 DMA mit belegten Umständen zum Zusammenhang der Schwellen und Vermutungen. Grenze: Kein allgemeiner Marktdefinitions- oder Effizienzeinwand gegen die Gatekeeper-Benennung.",
+      "source_profile": "quality/evals/dsa-dma-digitalregulierung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "e-rechnung-werkstatt": [],
+  "ecommerce-recht": [],
+  "einfache-leichte-sprache-jura": [],
+  "europarecht-kompass": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573",
+      "checked_on": "2026-09-14",
+      "supports": "EuGH, Urteil vom 24.06.2019, C-573/17, Randnummern 60 bis 68: Vorrang ersetzt unmittelbare Wirkung nicht; keine zusätzlichen privaten Pflichten allein aus Richtlinie.",
+      "source_profile": "quality/evals/europarecht-kompass.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0573",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 24. Juni 2019, C-573/17, Popławski, Randnummern 60 bis 68. Anwendung: Vorrang von unmittelbarer Wirkung trennen; Richtlinie allein begründet grundsätzlich keine zusätzliche Pflicht eines Privaten. Grenze: Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen.",
+      "source_profile": "quality/evals/europarecht-kompass.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://publications.europa.eu/resource/celex/62023CJ0512.ENG.html",
+      "checked_on": "2026-11-14",
+      "supports": "EuGH, Urt. v. 12.11.2026 – Az. C-512/23, Polen/Parlament und Rat, ECLI:EU:C:2026:967, Rn. 38–50, 69–77. Rechtsgrundlage der CBAM-Verordnung anhand Ziel, Inhalt und Kontext; Artikel 192 Absatz 1 AEUV. Grenze: Keine Entscheidung über konkrete Einreihung, Emissionswerte oder spätere Fassungen; historische Fristen nicht als heutiges Pflichtenprogramm übernehmen.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Englischer amtlicher Volltext: Kopf, Rn. 38–77 und Tenor",
+      "sha256": "73beb84999ce90bae75dc6987f68439305de2a429fa4faf7a2bd147aad5930d0",
+      "source_profile": "quality/evals/europarecht-kompass.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/10/es20261014_2bve000720.html",
+      "checked_on": "2026-11-14",
+      "supports": "BVerfG, Beschl. v. 14.10.2026 – Az. 2 BvE 7/20, 2 BvR 420/21 (PEPP), Rn. 93–104. Substantiierte Auseinandersetzung mit gerichtlichen Maßstäben und begründeten Kompetenzauffassungen der integrationsverantwortlichen Organe. Grenze: Unzulässigkeitsentscheidung; keine umfassende materielle Billigung des PEPP oder künftiger Maßnahmen.",
+      "verification_status": "Amtlicher Volltext in den dokumentierten Passagen gelesen; keine pauschale Prüfung übriger Quellen.",
+      "read_passages": "Kopf, Leitsatz, Verwerfung; Rn. 90–109, 151–156",
+      "sha256": "a0f2be84d0f36bcb31a65a0891879e42964602589d2ff7e1c69838f8f2a30f60",
+      "source_profile": "quality/evals/europarecht-kompass.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "fachanwalt-gewerblicher-rechtsschutz": [
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2000-11&Gericht=bgh&Sort=1&anz=239&client=%5B%27%5B%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%2C+%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%5D%27%2C+%27%5B%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%2C+%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%5D%27%5D&nr=22971&pos=13",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98: amtliche Leitsätze im Suchauszug zur unmittelbaren Gemeinkostenzurechnung und eigenen Vertriebsleistung gelesen. Direkter Volltextabruf mit Zugriffssperre; keine Volltext- oder Randnummernverifikation behauptet.",
+      "source_profile": "quality/evals/fachanwalt-gewerblicher-rechtsschutz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil, amtliche Leitsätze. Anwendung: Kostenabzug erfordert unmittelbare Zuordnung zur Verletzungsproduktion; Gemeinkosten nicht automatisch vom Verletzergewinn abziehen. Grenze und Prüfzugang: Historische Anspruchsnorm; heutige Grundlage Paragraf 42 DesignG und gesonderte Kausalitätsquote prüfen. Amtlicher indexierter Leitsatz geprüft, Volltextabruf gesperrt.",
+      "source_profile": "quality/evals/fachanwalt-gewerblicher-rechtsschutz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 19.06.2014, Az. C-345/13, Karen Millen, Randnummern 25 bis 47. Anwendung: Eigenart am Gesamteindruck einzelner älterer Designs; besondere Darlegung für Gültigkeitsvermutung des nicht eingetragenen Designs. Grenze und Prüfzugang: Kein Ersatz für Nachahmungsnachweis; nicht sämtliche Fragen technischer Bedingtheit oder Ersatzteile entschieden.",
+      "source_profile": "quality/evals/designrecht-geschmacksmusterrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61996CJ0355",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 16.07.1998, Az. C-355/96, Silhouette, Randnummern 25 bis 31. Anwendung: Keine allgemeine internationale Erschöpfung bei Erstvertrieb außerhalb des EWR; konkrete Charge und Zustimmung prüfen. Grenze und Prüfzugang: Historische Richtlinie, heutige Anspruchsgrundlage separat; spätere EWR-Zustimmung nicht ausgeschlossen.",
+      "source_profile": "quality/evals/gewerblicher-rechtsschutz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "fachanwalt-it-recht": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19. Januar 2017, VII ZR 301/13, Randnummern 31 bis 48. Anwendung: Vor ERP-Abnahme Erfüllungsanspruch von Mängelrechten unterscheiden; bloße Vorschussforderung begründet noch kein Abrechnungsverhältnis. Grenze: Fassadenfall mit allgemeinem Werkvertragsmaßstab, keine automatische ERP-Abnahme oder Übertragung baurechtlicher Nachtragsregeln.",
+      "source_profile": "quality/evals/fachanwalt-it-recht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62011CJ0128",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 3. Juli 2012, C-128/11, UsedSoft, Randnummern 44 bis 49, 69 bis 71 und 77 bis 88. Anwendung: Erschöpfung bei dauerhaft überlassener Downloadkopie mit wertentsprechendem Entgelt; Erwerbskette und Stilllegung beim Verkäufer prüfen. Grenze: Keine freie SaaS-Übertragung, keine Aufspaltung der dortigen Servermehrnutzerlizenz und keine Aussage zum US-Recht.",
+      "source_profile": "quality/evals/softwarerecht-de-eu-us.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZR__79-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 4. März 2010, III ZR 79/09, Randnummern 15 bis 27. Anwendung: Geschuldete funktionsfähige Website als Erfolg im Gesamtvertrag; werkvertragliche Mängelprüfung. Grenze: Keine Entscheidung über BFSG/WCAG und keine pauschale Einordnung von Hosting oder Beratung.",
+      "source_profile": "quality/evals/softwarerecht-de-eu-us.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "fachanwalt-urheber-medienrecht": [
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=63&anz=3286&nr=108768&pos=1900",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 18.06.2020, Az. I ZR 93/19: amtlich indexierter Leitsatz und Auszüge geprüft; Nachlizenzierungen enthalten regelmäßig Streitbeilegungsmehrwert. Direkter Volltextabruf war nicht erfolgreich; keine Volltext-Randnummern verwendet.",
+      "source_profile": "quality/evals/fachanwalt-urheber-medienrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZR__93-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 18.06.2020, Az. I ZR 93/19, Nachlizenzierung, amtlicher Leitsatz. Anwendung: Nach Verletzung vereinbarte Zahlungen regelmäßig nicht ohne Bereinigung als Indikator für den Preis einer zuvor eingeräumten Lizenz verwenden. Grenze und Prüfzugang: Kein kategorisches Verbot sämtlicher nachträglicher Vereinbarungen und keine verbindliche Pauschaltariftabelle; Leitsatz amtlich indexiert, Volltext gesperrt.",
+      "source_profile": "quality/evals/fachanwalt-urheber-medienrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "fashion-law-moderecht": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 27.06.2024, Az. I ZR 98/23, klimaneutral, amtliche Leitsätze. Anwendung: Mehrdeutige Klimaneutralitätswerbung am Werbemittel selbst erklären; Reduktion und Kompensation nicht gleichsetzen. Grenze und Prüfzugang: Keine Entscheidung über jede vegane Materialangabe oder sämtliche ab September 2026 geltenden Regeln; Leitsätze amtlich indexiert, direkter Volltext nicht abrufbar.",
+      "source_profile": "quality/evals/fashion-law-moderecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 19.06.2014, Az. C-345/13, Karen Millen, Randnummern 25 bis 47. Anwendung: Eigenart am Gesamteindruck einzelner älterer Designs; besondere Darlegung für Gültigkeitsvermutung des nicht eingetragenen Designs. Grenze und Prüfzugang: Kein Ersatz für Nachahmungsnachweis; nicht sämtliche Fragen technischer Bedingtheit oder Ersatzteile entschieden.",
+      "source_profile": "quality/evals/designrecht-geschmacksmusterrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 23.04.2009, Az. C-59/08, Copad, Randnummern 31 bis 37, 46 bis 51 und 57 bis 59. Anwendung: Bei Lizenznehmervertrieb an Discounter einschlägige Lizenzklausel und konkrete Schädigung des Luxusimages für Zustimmung und Widerspruch prüfen. Grenze und Prüfzugang: Keine pauschale Markensperre bei jedem Vertragsbruch oder jedem Rabattvertrieb; kein allgemeiner Beleg für Drittlandserschöpfung.",
+      "source_profile": "quality/evals/markenrecht-fashion-luxus.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "gebrauchsmusterrecht": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2005/X_ZB__27-05.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 20.06.2006, Az. X ZB 27/05, Demonstrationsschrank, Leitsätze a und c. Anwendung: Erfinderischen Schritt qualitativ mit den patentrechtlichen Grundsätzen prüfen, nicht durch pauschal geringere Erfindungshöhe ersetzen. Grenze und Prüfzugang: Abweichender Stand der Technik des Paragraf 3 GebrMG bleibt; kein Schutz unabhängiger Wettbewerberoffenbarung durch Schonfrist. Amtliche Leitsätze einschließlich Fortsetzung indexiert geprüft, direkter Volltext gesperrt.",
+      "source_profile": "quality/evals/gebrauchsmusterrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "gewerblicher-rechtsschutz": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61996CJ0355",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 16.07.1998, Az. C-355/96, Silhouette, Randnummern 25 bis 31. Anwendung: Keine allgemeine internationale Erschöpfung bei Erstvertrieb außerhalb des EWR; konkrete Charge und Zustimmung prüfen. Grenze und Prüfzugang: Historische Richtlinie, heutige Anspruchsgrundlage separat; spätere EWR-Zustimmung nicht ausgeschlossen.",
+      "source_profile": "quality/evals/gewerblicher-rechtsschutz.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "grundstuecksrecherche": [],
+  "hausarbeitenmacher": [],
+  "influencer-recht": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR__90-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 09.09.2021, Az. I ZR 90/20, Influencer I, Leitsatz c. Anwendung: Gegenleistung für Beitrag begründet geschäftliche Handlung für das beworbene Unternehmen; Honorar und Produktvergütung konkret zuordnen. Grenze und Prüfzugang: Urteil zum früheren Recht; unbezahlte Fremdwerbung heute gesondert nach Gegenleistungsvermutung und Widerlegung. Amtlicher indexierter Leitsatz geprüft, Volltext nicht neu gelesen.",
+      "source_profile": "quality/evals/influencer-recht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "jura-in-einfacher-sprache": [],
+  "jurastudium": [],
+  "juristische-praesentationen": [],
+  "juristische-presseberichterstattung": [
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: Entscheidungskopf und Randnummern 51 und 52 am 25.09.2026 im amtlichen Volltext gelesen. Gesamtschau der Recherche, Mindestbestand an Beweistatsachen und Gewicht des öffentlichen Interesses statt schematischer strafprozessualer Verdachtsstufen; keine pauschale Freigabe von Namensnennungen.",
+      "source_profile": "quality/evals/juristische-presseberichterstattung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2021&Gericht=bgh&Seite=13&anz=3571&nr=125294&pos=408",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Leitsatzauszug zu BGH, 16. November 2021, VI ZR 1241/20: Mindestbestand an Beweistatsachen, keine Vorverurteilung, grundsätzlich Stellungnahme einholen und berücksichtigen.",
+      "source_profile": "quality/evals/juristische-presseberichterstattung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_1241-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, amtliche Leitsätze. Anwendung: Mindestbestand, öffentliches Interesse und sichtbare Stellungnahme vor identifizierendem Verdachtsbericht prüfen. Grenze und Prüfzugang: Anhörung heilt keine fehlenden Beweistatsachen oder eigenständig unzulässige Bildverwendung; Leitsätze amtlich indexiert geprüft.",
+      "source_profile": "quality/evals/juristische-presseberichterstattung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2014/VI_ZR__76-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 18.11.2014, Az. VI ZR 76/14, amtlicher Leitsatz. Anwendung: Bei ursprünglich rechtmäßigem Bericht und später ausgeräumtem Verdacht neutralen Nachtrag statt Korrektur einer anfänglichen Falschaussage prüfen. Grenze und Prüfzugang: Nicht jede Verfahrenseinstellung räumt Verdacht aus; fortwirkende Beeinträchtigung prüfen. Amtlicher Leitsatz der verlinkten Entscheidung gelesen.",
+      "source_profile": "quality/evals/juristische-presseberichterstattung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "juristische-sprache-deutsch-als-zweitsprache": [],
+  "jveg-kostenpruefer": [
+    {
+      "url": "https://www.bverwg.de/151117U10C4.16.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 15.11.2017, 10 C 4.16: Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen. Volltext Rn. 12 bis 19 gelesen; keine Übernahme historischen Stundensatzes, echte Privatgutachten und gesetzliche Sonderregeln bleiben getrennt.",
+      "source_profile": "quality/evals/jveg-kostenpruefer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "kanzlei-allgemein": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZB___9-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 11.05.2021, VIII ZB 9/20: Randnummern 18, 21 bis 24 und 41 bis 54: Gerichtseingang und konkrete organisatorische Kontrolle der automatisierten Bestätigung; fehlender Nachweis verlangt rechtzeitige Klärung. Grenze: Eingangsbestätigung ersetzt weder Inhalts- noch Formprüfung; bloß fehlende Bestätigung beweist noch keine Verspätung.",
+      "source_profile": "quality/evals/kanzlei-allgemein.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "kanzlei-builder-hub": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62021CJ0340",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 14.12.2023, C-340/21: Bei personenbezogenen Aktenzugriffen Risiken und tatsächliche Schutzmaßnahmen prüfen; Sicherheitsabsicht und Werbung genügen nicht. Amtlicher Volltext Rn. 24 bis 64 gelesen. Datenschutzmaßstab, keine Produktzulassung und kein pauschales Verbot externer Dienste.",
+      "source_profile": "quality/evals/kanzlei-builder-hub.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "kanzlei-management": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/2_StS/2018/2_StR_588-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 26.11.2019, 2 StR 588/18: Volltext, insbesondere Randnummern 13 bis 23: Fremdgeldauskehr, Mittelverfügbarkeit, konkrete Vermögensminderung und Verknüpfung einer bezifferbaren Honorarforderung mit deren Befriedigung. Grenze: Verurteilung aufgehoben; Verzögerung oder fehlendes Anderkonto allein beweisen keinen Vermögensnachteil. Kein Freibrief zur Verrechnung oder strafrechtliche Diagnose aus Wochenlücke.",
+      "source_profile": "quality/evals/kanzlei-management.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "kanzlei-mandant-lifecycle": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_140-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 13.02.2020, IX ZR 140/19: Entscheidende Randnummern 32 bis 40: Tätigkeiten und Aufwand konkret nachweisen, Angemessenheit prüfen; formularmäßiger Viertelstundentakt jedenfalls im Verbrauchermandat unwirksam. Grenze: Selbständig wirksames Stundenhonorar bleibt bestehen; keine automatische Übertragung auf ausgehandelte Unternehmensvereinbarung und keine Budgetfreigabe.",
+      "source_profile": "quality/evals/kanzlei-mandant-lifecycle.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "kanzlei-website-redaktion": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62021CJ0340",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 14.12.2023, C-340/21: Bei personenbezogenen Aktenzugriffen Risiken und tatsächliche Schutzmaßnahmen prüfen; Sicherheitsabsicht und Werbung genügen nicht. Amtlicher Volltext Rn. 24 bis 64 gelesen. Datenschutzmaßstab, keine Produktzulassung und kein pauschales Verbot externer Dienste.",
+      "source_profile": "quality/evals/kanzlei-builder-hub.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-governance": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-halluzinationsreduzierer": [
+    {
+      "url": "https://www.landesrecht-bw.de/perma?d=NJRE001652167",
+      "checked_on": "2026-10-19",
+      "supports": "VGH Baden-Württemberg, Beschluss vom 27.08.2026 – 10 S 581/26, Rn. 40–43: Zweifel an eigener Prüfung und Durchdringung; Beschwerde auch bei Berücksichtigung unbegründet. Grenze: Folge und Nichtberücksichtigung ausdrücklich offengelassen; keine allgemeine Offenlegungspflicht daraus ableiten.",
+      "source_profile": "quality/evals/ki-halluzinationsreduzierer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://gesetze.berlin.de/perma?d=NJRE001640995",
+      "checked_on": "2026-10-19",
+      "supports": "KG, Beschluss vom 20.11.2025 – 17 WF 144/25, Rn. 6–8: Vorsorglicher Kontrollhinweis für KI-Zitate; konkret fehlender Eilbedarf trägt die Unbegründetheit. Grenze: Keine Verwerfung allein wegen KI; keine in diesem Beschluss verhängte Berufssanktion.",
+      "source_profile": "quality/evals/ki-halluzinationsreduzierer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://gesetze.berlin.de/perma?d=NJRE001625355",
+      "checked_on": "2026-10-19",
+      "supports": "KG, Beschluss vom 25.08.2025 – 3 ORbs 164/25, Rn. 2–4: Fallfremde Textbausteine und unwahre Verfahrensbehauptungen; zusätzlicher Aktenabgleich erforderlich. Grenze: Generative KI nicht festgestellt; keine tragende Entscheidung über einen tatsächlich zutreffenden Zufallstreffer.",
+      "source_profile": "quality/evals/ki-halluzinationsreduzierer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://gesetze.berlin.de/perma?d=NJRE001632277",
+      "checked_on": "2026-10-19",
+      "supports": "KG, Beschluss vom 22.04.2025 – 3 ORbs 46/25, Rn. 2–3: Mögliche Gesamtunstatthaftigkeit ausdrücklich als offene Frage behandeln. Grenze: Kein beschiedener automatischer Ausschluss sämtlicher automatisierter Rechtsmittel.",
+      "source_profile": "quality/evals/ki-halluzinationsreduzierer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-native-kanzlei": [
+    {
+      "url": "https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html",
+      "checked_on": "2026-09-22",
+      "supports": "AG Köln, Beschluss vom 02.07.2025, 312 F 130/25, Randnummern 23 und 24: Amtlicher Volltext gelesen: erfundene und falsch zugeordnete Fundstellen beanstandet; konkrete Originalkontrolle vor externer Verwendung als Kanzleistandard. Grenze: Keine disziplinarrechtliche Verurteilung, kein allgemeines KI-Verbot oder Urteil zum geänderten Artikel 4; KI-Ursprung nur als offenbar angenommen.",
+      "source_profile": "quality/evals/ki-richtlinie-kanzleien.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62021CJ0340",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 14.12.2023, C-340/21: Bei personenbezogenen Aktenzugriffen Risiken und tatsächliche Schutzmaßnahmen prüfen; Sicherheitsabsicht und Werbung genügen nicht. Amtlicher Volltext Rn. 24 bis 64 gelesen. Datenschutzmaßstab, keine Produktzulassung und kein pauschales Verbot externer Dienste.",
+      "source_profile": "quality/evals/kanzlei-builder-hub.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-richtlinie-kanzleien": [
+    {
+      "url": "https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html",
+      "checked_on": "2026-09-22",
+      "supports": "AG Köln, Beschluss vom 02.07.2025, 312 F 130/25, Randnummern 23 und 24: Amtlicher Volltext gelesen: erfundene und falsch zugeordnete Fundstellen beanstandet; konkrete Originalkontrolle vor externer Verwendung als Kanzleistandard. Grenze: Keine disziplinarrechtliche Verurteilung, kein allgemeines KI-Verbot oder Urteil zum geänderten Artikel 4; KI-Ursprung nur als offenbar angenommen.",
+      "source_profile": "quality/evals/ki-richtlinie-kanzleien.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-verordnung-hochrisiko-pruefer": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A62021CJ0634",
+      "checked_on": "2026-09-28",
+      "supports": "EuGH C-634/21 zum maßgeblichen Scoreeinfluss unter Artikel 22 DSGVO, keine KI-VO-Klassifikation.",
+      "source_profile": "quality/evals/ki-verordnung-hochrisiko-pruefer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-verordnung-konformitaet": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-verordnung-transparenzpruefer": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-verordnung-verbotene-praktiken": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "ki-vo-ai-act-pruefer": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203",
+      "checked_on": "2026-11-10",
+      "supports": "EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend.",
+      "source_profile": "quality/evals/ki-governance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "krankenhaus-it-ki": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526",
+      "checked_on": "2026-10-06",
+      "supports": "EuGH, Urt. v. 19.03.2026 – Az. C-526/24, Rn. 29–45 im Original: enger, vom Verantwortlichen nachzuweisender Missbrauchseinwand.",
+      "source_profile": "quality/evals/krankenhaus-it-ki.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0307",
+      "checked_on": "2026-10-06",
+      "supports": "EuGH, Urt. v. 26.10.2023 – Az. C-307/22, Rn. 31–43 und 75–79 im Original: kostenlose erste Kopie und erforderliche originalgetreue Kontextwiedergabe.",
+      "source_profile": "quality/evals/krankenhaus-it-ki.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0474",
+      "checked_on": "2026-10-06",
+      "supports": "EuGH, Urt. v. 14.07.2026 – Az. C-474/24, Rn. 57–73 im Original: Gesundheitsdaten nach Inhalt und konkreter Schlussfolgerungsmöglichkeit; Reichweite nicht auf alle Krankenhausdaten überdehnen.",
+      "source_profile": "quality/evals/krankenhaus-it-ki.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "lizenzvertragsersteller": [
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597188",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19.07.2012, Az. I ZR 70/10, M2Trade, Randnummern 19 und 26 bis 30. Anwendung: Bei Ende des Hauptlizenzvertrags Rückfall des Hauptrechts und grundsätzlich fortbestehende wirksame Unterlizenzen getrennt regeln. Grenze und Prüfzugang: Keine Heilung unwirksamer Rechteeinräumung und keine pauschale Insolvenzfestigkeit; vollständige gerichtliche Gründe in WIPO Lex gelesen.",
+      "source_profile": "quality/evals/lizenzvertragsersteller.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "mandantenanfragen-assistent": [],
+  "markenamt-assistent": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 23.04.2009, Az. C-59/08, Copad, Randnummern 31 bis 37, 46 bis 51 und 57 bis 59. Anwendung: Bei Lizenznehmervertrieb an Discounter einschlägige Lizenzklausel und konkrete Schädigung des Luxusimages für Zustimmung und Widerspruch prüfen. Grenze und Prüfzugang: Keine pauschale Markensperre bei jedem Vertragsbruch oder jedem Rabattvertrieb; kein allgemeiner Beleg für Drittlandserschöpfung.",
+      "source_profile": "quality/evals/markenrecht-fashion-luxus.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "markenrecht-fashion-luxus": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 23.04.2009, Az. C-59/08, Copad, Randnummern 31 bis 37, 46 bis 51 und 57 bis 59. Anwendung: Bei Lizenznehmervertrieb an Discounter einschlägige Lizenzklausel und konkrete Schädigung des Luxusimages für Zustimmung und Widerspruch prüfen. Grenze und Prüfzugang: Keine pauschale Markensperre bei jedem Vertragsbruch oder jedem Rabattvertrieb; kein allgemeiner Beleg für Drittlandserschöpfung.",
+      "source_profile": "quality/evals/markenrecht-fashion-luxus.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "memorandums-ersteller": [],
+  "methodenlehre-buergerliches-recht": [],
+  "nis2-cybersecurity-compliance": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0340",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 14. Dezember 2023, C-340/21, Natsionalna agentsia za prihodite, Randnummern 30 bis 47 und 57. Anwendung: Datenabfluss beweist nicht automatisch unzureichende Sicherheit; konkrete Maßnahmen und Umsetzung prüfen, Nachweislast des Verantwortlichen im Artikel-82-Verfahren beachten. Grenze: DSGVO-Urteil, keine unmittelbare Auslegung von BSIG-Sektoren oder NIS-2-Meldezeiten.",
+      "source_profile": "quality/evals/nis2-cybersecurity-compliance.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "patentrecherche": [
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597230",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d. Anwendung: Abgewandeltes Mittel nach Gleichwirkung, fachmännischer Auffindbarkeit und anspruchsorientierter Gleichwertigkeit prüfen. Grenze und Prüfzugang: Keine allgemeine Abweichungstoleranz und kein Ersatz numerischer Anspruchsgrenzen durch bloßen Erfindungsgedanken; gerichtliche Gründe bei WIPO Lex gelesen.",
+      "source_profile": "quality/evals/patentrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "patentrecht": [
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597230",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d. Anwendung: Abgewandeltes Mittel nach Gleichwirkung, fachmännischer Auffindbarkeit und anspruchsorientierter Gleichwertigkeit prüfen. Grenze und Prüfzugang: Keine allgemeine Abweichungstoleranz und kein Ersatz numerischer Anspruchsgrenzen durch bloßen Erfindungsgedanken; gerichtliche Gründe bei WIPO Lex gelesen.",
+      "source_profile": "quality/evals/patentrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "phishing-vorfall-pruefer": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 26. Januar 2016, XI ZR 91/14, Randnummern 18 bis 26 und 68 bis 75. Anwendung: Authentifizierungsprotokoll nicht mit Autorisierung gleichsetzen; Anscheinsbeweis verlangt konkret festgestellte Sicherheit und fehlerfreie Anwendung. Grenze: Historischer smsTAN-Fall; TAN-Nutzung allein beweist keine grobe Fahrlässigkeit.",
+      "source_profile": "quality/evals/phishing-vorfall-pruefer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_107-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22. Juli 2025, XI ZR 107/24, Randnummern 25 bis 39. Anwendung: Starke Kundenauthentifizierung des Zahlungsvorgangs vom Login trennen; Bankmitverschulden eigenständig prüfen. Grenze: Konkreter Telefon-/chipTAN-Sachverhalt, keine pauschale grobe Fahrlässigkeit aller Phishingopfer.",
+      "source_profile": "quality/evals/phishing-vorfall-pruefer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/xi_zr_107-24.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich bereitgestellter BGH-Volltext XI ZR 107/24, Randnummern 25 bis 39 erneut gelesen: konkrete Zahlung für starke Authentifizierung, eigenständige Gesamtwürdigung und Bankmitverschulden; keine pauschale Haftung sämtlicher Phishingopfer.",
+      "source_profile": "quality/evals/phishing-vorfall-pruefer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852. Amtlicher deutscher Volltext über InfoCuria, Dokument 328145, Rn. 1–53 gelesen; Rn. 31–34, 38–42, 45–47 und 52 gesondert gegengelesen. Trägt: unverzügliche Erstattung nicht autorisierter Zahlungen trotz Vorwurfs grober Fahrlässigkeit; eng begrenzte Ausnahme bei begründetem Verdacht eines vom Zahler begangenen Betrugs mit schriftlicher Behördenmitteilung; spätere endgültige Verlusttragung gesondert. Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "does_not_support": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "source_status": "amtlicher Urteilsvolltext; Pressemitteilung nicht als Urteilsbeleg verwendet",
+      "source_profile": "quality/evals/phishing-vorfall-pruefer.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "preussisches-allgemeines-landrecht-pralr": [],
+  "produktrecht": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24 und 27 bis 31. Anwendung: Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht. Grenze: Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung.",
+      "source_profile": "quality/evals/produktrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=316758&doclang=EN",
+      "checked_on": "2026-11-16",
+      "supports": "EuGH, Urteil vom 05.11.2026, C-395/25, Orkla Care, ECLI:EU:C:2026:945, Rn. 44–56, 64–71, 85–99 und 109–112 Gefahrstoffverpackung im konkreten Zielmarkt nach Fotos vor und nach Öffnung, vertrauter Lebensmittelaufmachung und Wirkung auf Kinder und schutzbedürftige Personen prüfen. Art. 35 Abs. 2 CLP. Die Vorabentscheidung entscheidet nicht über eine bestimmte Verpackungsfreigabe, GPSR-Meldung, Rückrufpflicht oder Haftung.",
+      "verification_status": "Amtlicher englischer Volltext und Tenor geprüft.",
+      "source_profile": "quality/evals/produktrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "rechtsberatungsstelle": [],
+  "rechtstheorie-rechtsphilosophie": [],
+  "robotik-recht": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24 und 27 bis 31. Anwendung: Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht. Grenze: Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung.",
+      "source_profile": "quality/evals/robotik-recht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "roemisches-recht": [],
+  "schriftsatz-versandwerkstatt": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen. Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht.",
+      "source_profile": "quality/evals/schriftsatz-versandwerkstatt.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "schriftsatzwerkstatt-bea": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen. Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht.",
+      "source_profile": "quality/evals/schriftsatz-versandwerkstatt.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "softwarerecht-de-eu-us": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62011CJ0128",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 3. Juli 2012, C-128/11, UsedSoft, Randnummern 44 bis 49, 69 bis 71 und 77 bis 88. Anwendung: Erschöpfung bei dauerhaft überlassener Downloadkopie mit wertentsprechendem Entgelt; Erwerbskette und Stilllegung beim Verkäufer prüfen. Grenze: Keine freie SaaS-Übertragung, keine Aufspaltung der dortigen Servermehrnutzerlizenz und keine Aussage zum US-Recht.",
+      "source_profile": "quality/evals/softwarerecht-de-eu-us.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZR__79-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 4. März 2010, III ZR 79/09, Randnummern 15 bis 27. Anwendung: Geschuldete funktionsfähige Website als Erfolg im Gesamtvertrag; werkvertragliche Mängelprüfung. Grenze: Keine Entscheidung über BFSG/WCAG und keine pauschale Einordnung von Hosting oder Beratung.",
+      "source_profile": "quality/evals/softwarerecht-de-eu-us.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "status-navigator-step-plan": [
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24: Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen. Amtlicher Volltext gelesen, Rn. 15 bis 20. Kündigungszugang, keine Entscheidung über Vertragsfreigabe; kein Beweis des Nichtzugangs und keine abschließende Beweiswürdigung durch Dokumentenregister.",
+      "source_profile": "quality/evals/status-navigator-step-plan.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "subsumtions-pruefer": [],
+  "tabellenreview-3d": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR_134-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 02.12.2025, II ZR 134/24: Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport. Amtliche Metadaten und entscheidende Rn. 17 bis 20 im indizierten Primär-PDF gelesen; direkter Abruf 403. Kein Tabellenformaturteil, kein Wahrheitsbeweis und kein automatischer Prozessauftrag.",
+      "source_profile": "quality/evals/tabellenreview-3d.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "telekommunikationsrecht": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR__98-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 24. Januar 2013, III ZR 98/12, Randnummern 7 und 16 bis 22. Anwendung: Privater Internetausfall kann ohne Zusatzkosten Vermögensschaden auslösen; gleichwertigen Ersatz und objektiven Nutzungswert prüfen. Grenze: Haftungsgrund revisionsrechtlich vorausgesetzt; verlangte 50 Euro keine zugesprochene Pauschale, heutige TKG-Anrechnung zusätzlich prüfen.",
+      "source_profile": "quality/evals/telekommunikationsrecht.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "urheberrecht-de-eu": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62017CJ0516",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 29.07.2019, Az. C-516/17, Spiegel Online, Randnummern 78 bis 87. Anwendung: Zitatzweck anhand enger geistiger Verbindung zu eigenen Ausführungen und verhältnismäßigem Umfang bestimmen. Grenze und Prüfzugang: Verlinkte Datei kann zitierfähig sein, aber nicht jede Verlinkung oder werbliche Dekoration ist Zitat; keine feste Wortzahl.",
+      "source_profile": "quality/evals/urheberrecht-de-eu.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "us-copyright-registrierung-verlag": [
+    {
+      "url": "https://www.supremecourt.gov/opinions/18pdf/17-571_e29f.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "Supreme Court of the United States, Opinion vom 04.03.2019, No. 17-571, Fourth Estate v. Wall-Street.com, Gründe II.A. Anwendung: Für reguläre Klage nach Section 411(a) Behördenentscheidung statt bloßer ordnungsgemäßer Antragseinreichung abwarten. Grenze und Prüfzugang: US-work-Einordnung, Ablehnung mit Zustellung an den Register und gesetzliche Sonderfälle separat; keine Aussage, dass Schutz oder frühere Ansprüche insgesamt entfallen.",
+      "source_profile": "quality/evals/us-copyright-registrierung-verlag.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "verarbeitungsverzeichnis": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0252",
+      "checked_on": "2026-10-10",
+      "supports": "EuGH C-252/21, gelesene Rn.98–100 und106: objektive Vertragserforderlichkeit und Interessenprüfung.",
+      "source_profile": "quality/evals/verarbeitungsverzeichnis.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62021CJ0340",
+      "checked_on": "2026-10-10",
+      "supports": "EuGH C-340/21, gelesene Rn.30–39,42–45,52–57: tatsächliche Angemessenheit und Nachweis der Schutzmaßnahmen.",
+      "source_profile": "quality/evals/verarbeitungsverzeichnis.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "verlagsrecht-buchpreisbindung": [
+    {
+      "url": "https://www.rv.hessenrecht.hessen.de/perma?d=LARE190013259",
+      "checked_on": "2026-09-22",
+      "supports": "OLG Frankfurt am Main, Urteil vom 24.04.2007, Az. 11 U 41/06, Randnummern 14 bis 20. Anwendung: Mängelstempel begründet keinen Anscheinsbeweis für tatsächlichen Fehler; Händler muss preisbindungsrechtliche Ausnahme belegen. Grenze und Prüfzugang: Echte Fehler mit Kennzeichnung bleiben ausnahmefähig; nicht sämtliche Kostenfragen des historischen Urteils auf heutiges Recht übertragen. Vollständiger amtlich indexierter Entscheidungstext gelesen.",
+      "source_profile": "quality/evals/verlagsrecht-buchpreisbindung.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "verlagsredaktion": [
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: Entscheidungskopf und Randnummern 51 und 52 am 25.09.2026 im amtlichen Volltext gelesen. Gesamtschau der Recherche, Mindestbestand an Beweistatsachen und Gewicht des öffentlichen Interesses statt schematischer strafprozessualer Verdachtsstufen; keine pauschale Freigabe von Namensnennungen.",
+      "source_profile": "quality/evals/verlagsredaktion.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "word-legal-ai-plugin-and-skill-for-german-lawyers": [
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Beschluss vom 22.01.2025, 7 ABR 23/23: Mitarbeiterversand verlangt qualifizierte Signatur der verantwortenden Person an der endgültigen Schriftsatzdatei; negativer technischer Vermerk allein nicht unwiderleglich. Amtlicher Volltext Rn. 33 bis 36 gelesen. Arbeitsgerichtlicher Formfall, keine allgemeine Signaturpflicht interner Entwürfe, keine Prüfung aller Vertragsklauseln oder technische Live-Signaturvalidierung.",
+      "source_profile": "quality/evals/word-legal-ai-plugin-and-skill-for-german-lawyers.json",
+      "scope": "wiederverwendeter dokumentierter Nachweis; keine heutige neue Volltextprüfung"
+    }
+  ],
+  "zitierweise-deutsches-recht": [],
+  "jugendmedienschutz-und-medienangebote": []
+}

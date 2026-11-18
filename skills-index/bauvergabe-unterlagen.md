@@ -1,6 +1,6 @@
 # bauvergabe-unterlagen
 
-**11 Skills** · Stand `v445.35.1`
+**11 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauvergabe/bauvergabe-unterlagen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bauvergabe-unterlagen-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`bauvergabe-unterlagen-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bauvergabe-unterlagen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bauvergabe-unterlagen.zip) |
+| **Plugin (installierbar)** | ZIP | [bauvergabe-unterlagen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bauvergabe-unterlagen.zip) |
 
 ## So benutzt man einen Skill
 
@@ -31,7 +31,7 @@ English: This index lists source skills, including specialist series accessed th
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
 | [`bauarten-schnittstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bauarten-schnittstellen/SKILL.md) | Übertragen Sie die Unterlagenprüfung auf Klinik- und Apothekenbau, Hallen, Wohnungsbau, Tunnel, Straßen, Autobahnen und Schutzplanken. Technische Besonderheiten werden fachlich belegt und in kalkulierbare Vertragsanforderungen übersetzt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bauarten-schnittstellen/SKILL.md) |
-| [`bauvergabe-unterlagen-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bauvergabe-unterlagen-steuern/SKILL.md) | Steuert die Erstellung von Bauvergabeunterlagen auf Auftraggeberseite und verbindet genau zehn bauspezifische Fachschritte. Bei einem Einzelauftrag direkt den passenden Fachskill verwenden. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bauvergabe-unterlagen-steuern/SKILL.md) |
+| [`bauvergabe-unterlagen-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bauvergabe-unterlagen-steuern/SKILL.md) | Bauvergabebedarf in konsistente Vergabeunterlagen übersetzen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bauvergabe-unterlagen-steuern/SKILL.md) |
 | [`bedarf-planungsreife`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bedarf-planungsreife/SKILL.md) | Überführen Sie Bauherrenziele und Planungsunterlagen in einen kalkulierbaren Beschaffungsgegenstand. Der Skill stellt rechtliche Vergabereife fest; er ersetzt keine Architektur-, Tragwerks-, TGA- oder Baugrundplanung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/bedarf-planungsreife/SKILL.md) |
 | [`eignung-nachweise`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/eignung-nachweise/SKILL.md) | Entwerfen Sie verhältnismäßige Eignungskriterien und eine eindeutige Nachweisliste für die Bauvergabe unter Berücksichtigung der Erleichterungen von 2026. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/eignung-nachweise/SKILL.md) |
 | [`leistungsbeschreibung-gaeb`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/leistungsbeschreibung-gaeb/SKILL.md) | Prüfen und redigieren Sie Leistungsverzeichnisse sowie deren digitale Austauschfassung auf eindeutige, vollständige und kalkulierbare Leistungsangaben. Kennzeichnen Sie technisch nicht belegbare Aussagen statt sie zu erfinden. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/skills/leistungsbeschreibung-gaeb/SKILL.md) |

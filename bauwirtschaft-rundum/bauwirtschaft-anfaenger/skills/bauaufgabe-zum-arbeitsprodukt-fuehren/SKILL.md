@@ -1,9 +1,23 @@
 ---
 name: bauaufgabe-zum-arbeitsprodukt-fuehren
-description: Führt Einsteiger aus Planung, Bauüberwachung, Bauleitung, Ingenieurbüro und Vergabestelle von vorhandenen Projektunterlagen zum ersten ausformulierten Arbeitsprodukt. Wählt einen der fünf Seminarfälle, klärt höchstens zwei entscheidende Lücken und arbeitet am konkreten Entwurf weiter.
+description: "Bauaufgabe verständlich bis zum verwendbaren Ergebnis bearbeiten. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Bauaufgabe zum Arbeitsprodukt führen
+# Bauaufgabe verständlich bis zum verwendbaren Ergebnis bearbeiten
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Aus vorhandenen Plänen, Schreiben und Rechnungen in einfachen Worten festhalten, wer was von wem bis wann benötigt. Unbekannte Fachbegriffe am konkreten Vorgang erklären.
+
+2. Vertragsleistung, tatsächliche Abweichung und verlangte Reaktion unterscheiden. Bei Terminproblemen eine Anordnung nicht schon aus einem neuen Terminplan ableiten; bei Zahlung Abnahme und Fälligkeit getrennt lesen.
+
+3. Nur den benötigten Fachweg zu Angebot, Nachtrag, Behinderung oder Mangel hinzuziehen. Die eigene Projektrolle begrenzt, wer eine Leistung anordnen oder rechtlich bindende Erklärung abgeben kann.
+
+4. Das gewünschte Schreiben, die Vergleichstabelle oder den Prüfvermerk ausformulieren; Annahmen als solche und fehlende Kernbelege als konkrete Nachforderung kennzeichnen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -31,22 +45,16 @@ Vorhandene freigegebene Unterlagen, gewünschter Empfänger und Arbeitsauftrag. 
 5. Halte die maßgebliche Verzweigung sichtbar: vor/nach Abnahme, Entwurfsstand/veröffentlichte Unterlage, belegte Störung/vermutete Ursache oder Hauptgutachten/Ergänzung. Aktualisiere bei Nachlieferung nur die betroffenen Stellen unter denselben Kennungen.
 6. Prüfe am Ende Tatsachen, Quellen, Zahlen, Empfänger und Vollständigkeit. Entwurf bedeutet weder technische Freigabe noch Abnahme. Versand, Veröffentlichung, Einreichung, Anerkenntnis oder Verzicht nur nach ausdrücklicher auf den konkreten Vorgang bezogener Zustimmung. Keine selbständige Fristenüberwachung zusagen.
 
-## 4. Quellenpflicht
+## Quellen, Ausgabe und Fortsetzung
 
-[Zitierweise](../../references/zitierweise.md) und [Rechtsquellen](../../references/rechtsquellen.md) verwenden. Aktenstelle und Rechtsquelle auseinanderhalten. VOB/B nur bei belegter vertraglicher Einbeziehung anwenden. Für öffentliche Vergabe Auftragsart, Startzeitpunkt und Rechtsstand prüfen. HOAI-Leistungsbilder schaffen keine Vollmacht oder allgemeine Rechtsberatungsbefugnis.
+Die [Quellen-, Ausgabe- und Beispieldetails](../../references/hauptworkflow-entscheidungen.md) bei der jeweiligen Route mitlesen. Fertige Dokumente vollständig ausformulieren; Beleg, stärkste Gegenposition und nächste Handlung nennen. Nachgereichte Unterlagen in derselben Fassung fortführen.
 
-## 5. Ausgabeformat
+## Tragende Entscheidungsanker
 
-Zuerst das bestellte Arbeitsprodukt in vollständigen, ausformulierten Sätzen. Die Ausformulierungspflicht gilt auch bei Tabellen: Einträge müssen verständliche Feststellungen sein; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Danach eine getrennte kurze Prüfanmerkung mit offenen entscheidenden Punkten und nächstem Verantwortlichen. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung. Bei Markdown nur getrennten Exporthinweis geben; keine nicht erzeugte Datei behaupten.
-
-## 6. Beispiele
-
-„Hier sind die Unterlagen der Begehung. Ich brauche das Protokoll für den Bauherrn.“ Starte mit dem Protokollzweig, nicht mit einer allgemeinen KI-Einführung. Übungsbezug: `testakten/bau-rundum-begehung-einbeck`.
-
-„Ich möchte eine gute LV-Prüfanweisung im Büro wiederverwenden.“ Starte mit dem Baustein; nutze nur tatsächlich bereitgestellte Inhalte aus `testakten/bau-rundum-lv-abgleich-detmold`. Die Fallkennung enthält keine Musterlösung.
+Die [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) mit Primärfundstellen, konkreten Prüfentscheidungen und Übertragungsgrenzen enthält VII ZR 10/24 zur Terminfortschreibung, VII ZR 34/18 zur Mehrmengenvergütung und VII ZR 190/22 zu Grenzen rechtlicher Vertragsgestaltung. Der dort ausgewiesene frühere Quellenstand ist keine neue Volltextprüfung.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 7. Verständlich arbeiten und sichtbar prüfen
+## 4. Verständlich arbeiten und sichtbar prüfen
 
 Erkläre Beteiligte, Vorgang und nächste Entscheidung kurz. Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
 

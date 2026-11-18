@@ -1,17 +1,17 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Datenschutzrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Datenschutzvorgang bis zum verwendbaren Ergebnis bearbeiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - Datenschutzrecht
+# Datenschutzvorgang bis zum verwendbaren Ergebnis bearbeiten
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Rekonstruiere die betroffene Verarbeitung aus Daten, Zwecken, Beteiligten und tatsächlichem Datenfluss. Liefere die verlangte Auskunft, Vertragsprüfung, Folgenabschätzung oder Meldung mit den entscheidenden Belegen.
+Bestimme aus Datenfluss, Verträgen und Anfrage, wer für welchen Verarbeitungsschritt verantwortlich ist, welche Person betroffen ist und welches Ergebnis benötigt wird.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
@@ -62,30 +62,42 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
-5.2. EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
-5.3. EuGH, Urteil vom 05.12.2023 - C-683/21: Verantwortlichkeit setzt Einfluss auf Zwecke und Mittel der Verarbeitung voraus.
-5.4. EuGH, Urteil vom 07.12.2023 - C-634/21: automatisiertes Scoring kann an Artikel 22 Datenschutz-Grundverordnung scheitern.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler, Rn. 37–45, 48–55 und 59–67. Auch der erste Auskunftsantrag kann bei nachgewiesener Absicht, künstlich einen Ersatzanspruch herbeizuführen, exzessiv sein. Ein Auskunftsverstoß kann Art. 82 DSGVO auslösen. Anzahl früherer Anträge und kurze Zeitabstände reichen für sich genommen nicht. Tatsächlichen Schaden und Kausalität eigenständig prüfen. Eine Handlung der betroffenen Person kann als entscheidende Schadensursache die Kausalität unterbrechen. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526) — dokumentierter Prüfstand 2026-11-10.
+
+5.2. EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–76. Bei einer automatisierten Entscheidung die konkret angewandte Ergebnislogik verständlich erklären. Geschützte Drittdaten und behauptete Geschäftsgeheimnisse sind der zuständigen Aufsicht oder dem Gericht zur Abwägung zugänglich zu machen. An Art. 15 Abs. 1 lit. h und Art. 22 Abs. 1 DSGVO gebunden. Eine bloße mathematische Formel ist als Erklärung unzureichend. [Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203) — dokumentierter Prüfstand 2026-11-10.
+
+5.3. EuGH, Urteil vom 05.11.2026, C-205/25, Lindenberg, Rn. 29–47, 54–67: Aufsicht als Verantwortlicher eigener Beschwerdeverarbeitung; eigene Daten statt allgemeinem Aktenzugang; keine pauschale Verweigerung, konkrete Einschränkung und mögliche Schwärzung. [Entscheidungsnachweis](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316753&doclang=DE) — dokumentierter Prüfstand 2026-11-14.
+
+5.4. EuGH, Urteil vom 18.06.2026, C-484/24, NTH Haustechnik, Rn. 81–86 und 108–130: Art. 17 Abs. 3 Buchst. e DSGVO ist keine eigene Verarbeitungsgrundlage; gerichtliche Verarbeitung von vorher rechtswidrig erlangten Daten nicht generell ausgeschlossen; Datenminimierung vor Offenlegung. Nationale Zulässigkeit und ursprüngliche Verarbeitung getrennt. [Entscheidungsnachweis](https://juris.curia.europa.eu/juris/document/document.jsf?docid=312704&doclang=DE) — dokumentierter Prüfstand 2026-11-14.
+
+**EuGH, Urteil vom 05.11.2026 – C-205/25:** Aktueller Verfahrenszweig: Auskunft gegenüber der Datenschutzaufsicht gesondert prüfen. Einzelbeleg, Aussagegrenze und tatsächlicher Leseumfang stehen in der lokalen Quellenkarte.
+
+**EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler:** Bei behauptetem Auskunftsmissbrauch konkrete Tatsachen prüfen; kein pauschaler Ablehnungsautomatismus. Einzelbeleg, Aussagegrenze und tatsächlicher Leseumfang stehen in der lokalen Quellenkarte.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Wer entscheidet über Zweck und Mittel.
-7.2. Welche Datenkategorie und welcher Zweck liegen vor.
-7.3. Welche Rechtsgrundlage trägt die Verarbeitung.
-7.4. Welche Betroffenenrechte und Fristen laufen.
-7.5. Welche Dokumentation muss vorliegen.
+7.1. Trenne Rechtsgrundlage, Zweck, Erforderlichkeit, Betroffenenrecht und Sicherheit. Bei Auskunft Datenkopie und notwendigen Kontext von fremden Daten abgrenzen; bei automatisierter Entscheidung die tatsächliche Einflusskette aufklären.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Erstelle den bestellten Bescheid, Auskunftsentwurf, Vertrag oder Vermerk mit konkreten Datenkategorien, Empfängern, Fristen und nachvollziehbarer Abwägung.
+
+7.4. Eine neue Drittbetroffenheit verändert die konkrete Schwärzung, nicht pauschal den ganzen Auskunftsanspruch; eine menschliche Zwischenfreigabe ist auf tatsächlichen Einfluss zu prüfen.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 

@@ -1,124 +1,96 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Internal Investigations Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Interne Untersuchung von der Meldung zum belastbaren Abschluss führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen Untersuchungsbericht mit gesicherten Feststellungen, offenen Punkten, Gegenposition, methodischer Grenze und konkret begründeter Abhilfe."
 ---
 
-# Juristischer Argumentationskern - Internal Investigations Praxis
+# Interne Untersuchung von der Meldung zum belastbaren Abschluss führen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Kläre den Untersuchungsauftrag anhand des konkreten Hinweises und der vorhandenen Beweise. Begründe Reihenfolge, Beweissicherung und Schutz der Beteiligten und liefere den angeforderten Zwischenbericht.
+1.1. **Aktenstart.** Lies Untersuchungsauftrag, Meldung, Rollen, vorhandene Dokumente und Aufbewahrungsregeln; bestimme Gesellschaft, Empfänger und prüfbare Tatsachenhypothesen. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-Erfasse je Tat im prozessualen Sinn den Vorwurf, die einschlägige Norm, Beweismittel, Einlassung und Frist. Lass die Tatübersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
+1.2. **Entscheidende Weiche.** Definiere Untersuchungsumfang und verhältnismäßige Beweissicherung. Prüfe je Datenquelle Rechtsgrundlage, Zugriff, Privatnutzung, Aufbewahrung und mögliche Mitbestimmung; ein Verdacht erlaubt keine unbegrenzte Überwachung.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.3. **Gezielte Vertiefung.** Bei Interviews gewährleiste rollengerechte Information und faire Möglichkeit zur Stellungnahme; bei Strafverfolgungsrisiko prüfe Beschlagnahme- und Verteidigungsschnittstelle konkret. Entlastende Beweise genauso würdigen wie belastende; keine strafgerichtliche Schuldfeststellung simulieren. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-## 2. Die tragende These
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Formuliere das Ergebnis für Internal Investigations Praxis in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständigen Untersuchungsbericht mit gesicherten Feststellungen, offenen Punkten, Gegenposition, methodischer Grenze und konkret begründeter Abhilfe. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+## 2. Bedingte Fachwege und materielle Prüfung
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
-## 3. Materienspezifische Tatbestandsarbeit
-
-| Prüfpunkt | Konkrete Arbeitsfrage |
+| Untersuchungszweig | Konkrete Entscheidung |
 | --- | --- |
-| Blitz-Zergliederung | jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen |
-| Beweise und Einlassung | Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten |
-| Tatbestand | objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen |
-| Prozessuales | Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst |
-| Rechtsfolge | Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative |
+| Auftrag und Scope | Rolle, Hypothese, Gesellschaft, Berichtsempfänger und zeitliche Grenze |
+| Datensicherung | Quelle, Rechtmäßigkeit, Minimierung, Integrität und Nachvollziehbarkeit |
+| Interviews | faire Information, konkrete Frage, Dokumentation, Entlastung und Mitwirkung |
+| Bewertung | bestätigte Tatsache, Indiz, Widerspruch, Gegenbeweis und verbleibende Lücke |
+| Strafrechtliche Schnittstelle | nur bei konkretem Anlass Tatbestand, Schweige-/Zeugnisrechte, Beschlagnahme, Verteidigungsbedarf, Behördenstrategie und mögliche Folgen getrennt prüfen |
+| Abschluss | Abhilfe, Verantwortlichkeit und begründete Kommunikation ohne simuliertes Strafurteil |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Untersuchungsauftrag und Scope](../inv-001-auftrag-scope/FACHINHALT.md)
-3.1.2. [Honeypot-Risiko Staatsanwaltschaft](../inv-002-honeypot-risiko/FACHINHALT.md)
-3.1.3. [Legal Hold und Beweissicherung](../inv-003-legal-hold/FACHINHALT.md)
-3.1.4. [Mitarbeiterinterviews](../inv-004-mitarbeiterinterview/FACHINHALT.md)
+2.1.1. [Untersuchungsauftrag und Scope](../inv-001-auftrag-scope/FACHINHALT.md)
+2.1.2. [Honeypot-Risiko Staatsanwaltschaft](../inv-002-honeypot-risiko/FACHINHALT.md)
+2.1.3. [Legal Hold und Beweissicherung](../inv-003-legal-hold/FACHINHALT.md)
+2.1.4. [Mitarbeiterinterviews](../inv-004-mitarbeiterinterview/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
-4.2. StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
-4.3. StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
-4.4. StPO Paragraf 261: freie richterliche Beweiswürdigung.
-4.5. StPO Paragraf 267: Urteilsgründe im Strafurteil.
-4.6. StGB Paragraf 46: Strafzumessung.
+DSGVO Art. 5, 6, 9, 15 und 32 sowie einschlägiges BDSG-Beschäftigtendatenschutzrecht: Datennutzung, Auskunft und Sicherheit; BetrVG § 87 bei einschlägiger Mitbestimmung; HinSchG bei geschützter Meldung; Organpflichten nach Rechtsform. StPO §§ 53, 97, 160a nur bei konkreter Verteidigungs-, Zeugnis- oder Beschlagnahmeschnittstelle; kein allgemeines Privileg sämtlicher Untersuchungsunterlagen.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung als Entscheidungshilfe
 
-## 5. Rechtsprechung und Quellenstatus
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.1. BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
-5.2. BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
-5.3. BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
-5.4. BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
+1. [BAG, Urteil vom 27.07.2017, 2 AZR 681/16, Rn. 15 bis 41](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-681-16/). **Anwendung:** Eingriffsintensive Vollüberwachung verlangt konkrete Verdachtstatsachen; Rechnungs- und Zahlungsabgleich als milderes Mittel vorrangig prüfen, Schweigen nicht als Einwilligung behandeln. **Grenze:** Historischer Paragraf 32 BDSG, keine pauschale Unzulässigkeit offener weniger intensiver Kontrollen; heutige Rechtsgrundlage und Verwertbarkeit gesondert.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+   **Quellenstatus:** Am 18.11.2026 amtlichen HTML-Volltext, insbesondere Rn. 15–41 zur Verwertung und Verhältnismäßigkeit, erneut gelesen.
 
-## 6. Beweislast und Gegenangriff
+2. [EuGH, Urteil vom 4. Mai 2023, C-487/21, Rn. 32, 39–45](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A62021CJ0487). **Anwendung:** Erhalte Kundendaten und benötigten Kontext in der Datenkopie. Wähle einen geeigneten Auszug oder das ganze Dokument, soweit dies für die wirksame Rechtsausübung erforderlich ist. **Grenze:** Kopie der personenbezogenen Daten und einzelfallbezogene Abwägung nach Art. 15 Abs. 4 DSGVO. Eine rote KI-Markierung ersetzt keine Entscheidung.
 
-Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-10.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+3. [EuGH, Urteil vom 22. Juni 2023, C-579/21, Rn. 73–83](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62021CJ0579). **Anwendung:** Bei Zugriffsprotokollen Datum und Zweck der Abfragen von der Identität weisungsgebundener Beschäftigter trennen. **Grenze:** Identität der Beschäftigten bei Unerlässlichkeit für die wirksame Rechtsausübung und unter Berücksichtigung ihrer Rechte und Freiheiten prüfen. Der Fall betrifft interne Zugriffe.
 
-## 7. Prüffolge
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-10.
 
-7.1. Welcher Tatvorwurf wird mit welcher Norm verbunden.
-7.2. Welche Tatsache wird durch welches Beweismittel getragen.
-7.3. Welche Beweisverwertungs- oder Aussageprobleme sind entscheidend.
-7.4. Welche Einlassungs- oder Antragsstrategie ist prozessual sauber.
-7.5. Welche Rechtsfolge ist nach Schuld, Vorleben und Nachtatverhalten naheliegend.
+4. [BAG, Urteil vom 24.08.2023, 2 AZR 17/23](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-17-23/). **Anwendung:** Bei groben beleidigenden und menschenverachtenden Gruppenchatäußerungen besondere Darlegung berechtigter Vertraulichkeit anhand Inhalt, Zusammensetzung, Beteiligung und Medium verlangen. **Grenze:** Amtlicher Volltext, Rn. 15 bis 41: keine feste Teilnehmergrenze, keine abschließende Kündigungsbestätigung; Interessenabwägung und Verwertbarkeit gesondert.
 
-## 8. Juristisches Schreiben
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Blitz-Zergliederung, Beweise und Einlassung, Tatbestand, Prozessuales: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-## 9. Ausgabemodi
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+4.1.1. BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
+4.1.2. BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
+4.1.3. BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht. Der damalige Verwendungsmaßstab stand in § 161 Abs. 2 Satz 1 StPO a. F.; für die heutige Verwendung von aufgrund entsprechender Maßnahmen nach anderen Gesetzen erlangten personenbezogenen Daten ist [§ 161 Abs. 3 Satz 1 StPO](https://www.gesetze-im-internet.de/stpo/__161.html) fallbezogen zu prüfen. Der aktuelle Abs. 2 betrifft die Löschung personenbezogener Daten. Amtlichen Normtext am 18.11.2026 gelesen; damit wird keine erneute Volltextprüfung des Urteils von 2017 behauptet.
+4.1.4. BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 
-## 10. Qualitätskontrolle
+4.1.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag verwendbar?
+## 5. Beweis, Gegenposition und Fristen
+
+Eine interne Prüfung ist kein Prozess mit pauschal zugeteilter Beweislast. Trenne bestätigte Tatsache, Verdachtsindiz, plausible Entlastung und nicht aufklärbaren Punkt; dokumentiere Herkunft und zulässigen Zugriff. Für späteren Rechtsstreit, Sanktion oder Meldung den jeweiligen gesetzlichen Maßstab gesondert bestimmen. HinSchG-Repressalienvermutung, GwG-Meldeschwelle und Datenschutz-Rechtmäßigkeit sind keine austauschbaren Beweisregeln.
+
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
+
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere vollständigen Untersuchungsbericht mit gesicherten Feststellungen, offenen Punkten, Gegenposition, methodischer Grenze und konkret begründeter Abhilfe. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

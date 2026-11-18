@@ -1,9 +1,9 @@
 ---
 name: bescheide-und-fristen-ordnen
-description: Ordnet Grundsteuerpost nach Wertfeststellung, Messbetrag und Jahressteuer und sichert für jeden Verwaltungsakt den eigenen Zugang und Rechtsbehelf. Nutzen bei mehreren Bescheiden in einer Datei, unklaren Fristen oder dem ersten Blick in einen Grundstücksordner; liefert sofort Bescheidregister und fristwahrenden Erstentwurf statt Vollinterview.
+description: "Grundsteuerbescheide richtig zuordnen und gezielt angreifen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert zutreffend adressierten Einspruch oder Korrekturantrag mit konkreter Wertänderung und gegebenenfalls gesondertem AdV-Antrag."
 ---
 
-# Bescheide und Fristen ordnen
+# Grundsteuerbescheide richtig zuordnen und gezielt angreifen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -14,6 +14,19 @@ Mache aus einem Stapel Steuerpost einen handlungsfähigen Vorgang. Die Zahl der 
 Lies vorhandene Bescheide vollständig einschließlich Rückseiten, Briefumschläge, Übermittlungsprotokolle und Posteingangsnotizen. Übernimm den gewünschten Bearbeitungsstichtag. Bei einer historischen Übung gilt deren Zeitstand; heutige Fristen und später ergangene Entscheidungen dürfen nicht zurückprojiziert werden.
 
 ## 3. Ablauf
+
+**Aktenstart.** Lege Wert-, Mess- und Steuerbescheid getrennt an; lies Bekanntgabe, Bundesland, Bewertungsmodell, Flächen, Bodenrichtwert und bisherigen Rechtsbehelf. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Ordne jeden Fehler der zuständigen Bescheidebene zu. Die Bindung eines Grundlagenbescheids lässt sich nicht durch einen pauschalen Angriff auf den Folgebescheid ersetzen; Einspruch und Aussetzung der Vollziehung getrennt prüfen.
+
+**Gezielte Vertiefung.** Bei niedrigerem gemeinem Wert prüfe landes- und stichtagsspezifische Nachweisregel; übertrage weder alte AdV-Aussagen noch eine Landesmodell-Schwelle ungeprüft auf das Bundesmodell. Konkrete Flächen- oder Lagefehler berechnen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere zutreffend adressierten Einspruch oder Korrekturantrag mit konkreter Wertänderung und gegebenenfalls gesondertem AdV-Antrag. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1. Sofort den nächsten Schritt bestimmen
 
@@ -48,6 +61,30 @@ Keine bloßen Skelette; Quellenstatus und technische Grenzen getrennt vom Empfä
 ## 6. Beispiele
 
 „Zwei Dateien, bitte anfangen“ führt zuerst zur Prüfung aller Verfügungssätze, nicht zu Fragen nach einem dritten Dateianhang. „Alten Wert erst beim neuen Steuerbescheid bemerkt“ führt zur Prüfung des alten Verfahrensstands und möglicher Korrekturvorschriften, nicht zur Behauptung einer erneut laufenden Wert-Einspruchsfrist.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BFH, Urteil vom 12.11.2025, II R 3/25, Rn. 31–34](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/). **Anwendung:** Bei Einwand gegen den Bodenrichtwert konkrete gesetzliche, methodische oder verfahrensbezogene Fehler benennen; ohne solche Anhaltspunkte darf das Finanzgericht den Richtwert übernehmen. Bahntrasse und niedrige Ist-Miete genügen nicht automatisch. **Grenze:** Bundesmodell, keine Bestätigung jedes Einzelbescheids oder aller Landesmodelle; niedrigerer gemeiner Wert ist ein gesonderter Nachweisweg.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-22.
+
+2. [BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV)](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410095/). **Anwendung:** Substantiiert desolater Gebäudezustand kann die Möglichkeit eines niedrigeren Werts der gesamten Einheit und damit AdV tragen; konkrete Zustands- und Stichtagsbelege verlangen. **Grenze:** Summarische Prüfung vor Paragraf 220 Absatz 2 BewG, kein genereller Reformstopp oder endgültiger Wertnachweis.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-22.
+
+3. [BFH, Urteil vom 22.04.2026, II R 26/24](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610124/). **Anwendung:** Im baden-württembergischen Bodenwertmodell ist abweichende Grundstückstiefe kein automatischer Abschlag; gesonderten Gutachtenweg nach Paragraf 38 Absatz 4 LGrStG mit mehr als 30 Prozent Abweichung prüfen. **Grenze:** Nicht auf die 40-Prozent-Regel des Bundesmodells übertragen. Erst in der Revision vorgebrachte neue Werttatsachen tragen grundsätzlich keine Tatsachenkorrektur.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-22.
+
+#### 6.1.1. Beweis und Abschluss
+
+Finanzamt und Finanzgericht ermitteln den Sachverhalt von Amts wegen; Mitwirkungspflichten und objektive Feststellungslast bleiben anspruchs- und tatbestandsbezogen. Steuererhöhende und steuermindernde Tatsachen nicht ohne Prüfung von Vermutungen, Dokumentationspflichten und Beweiserleichterungen pauschal zuordnen. Eine Schätzungsbefugnis erlaubt keine beliebige Höhe. Eilrechtsschutz erfordert eine eigene summarische Prüfung und zutreffende Differenzrechnung.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

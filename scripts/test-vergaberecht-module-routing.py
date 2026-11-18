@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Fachthemen bleiben erhalten; ausführbare Vergabewege müssen tatsächlich existieren."""
 from contextlib import redirect_stdout
+import copy
+import gzip
+import hashlib
 import importlib.util
 import io
 import json
@@ -12,6 +15,8 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
 NESTED = ROOT / 'vergaberecht-werkstatt'
+PREVIOUS_AUDIT = 'quality/skill-consolidation/2026-11-14/vergaberecht-role-routing-followup.json'
+PROMPT_REVISION = 'quality/hauptskills-2026-11-18/vergabeprompt-fortschreibung.json'
 sys.path.insert(0, str(NESTED / 'scripts'))
 import skill_routing_priorities as R
 
@@ -26,6 +31,42 @@ def load(name):
 V = load('validate-prompt-routing-autarky')
 M = load('generate-megaprompt')
 U = load('generate-unified-mini-prompts')
+
+
+def verified_previous_prompt_bytes(revision=None):
+    """Nur drei exakt nachgewiesene Fortschreibungen auf ihren Vorstand zurückführen."""
+    if revision is None:
+        revision = json.loads((ROOT / PROMPT_REVISION).read_text())
+    if revision.get('schema_version') != 1 or revision.get('previous_audit') != PREVIOUS_AUDIT:
+        raise ValueError('Unbekannte Vergabeprompt-Fortschreibung')
+    sha = lambda data: hashlib.sha256(data).hexdigest()
+    if sha((ROOT / PREVIOUS_AUDIT).read_bytes()) != revision.get('previous_audit_sha256'):
+        raise ValueError('Historischer Nachweis wurde verändert')
+    expected = {f'vergaberecht-werkstatt/testakten/megaprompts/{role}.md' for role in V.ROLE_FILES}
+    records = revision.get('files', [])
+    if len(records) != len(expected) or {record.get('path') for record in records} != expected:
+        raise ValueError('Fortschreibung muss genau die drei Vergaberollen enthalten')
+    previous = {}
+    for record in records:
+        path = record['path']
+        snapshot = f"quality/hauptskills-2026-11-18/vergabeprompt-vorfassungen/{Path(path).name}.gz"
+        if record.get('before_snapshot') != snapshot:
+            raise ValueError(f'{path}: falsche Vorfassung')
+        if record.get('generator') != 'vergaberecht-werkstatt/scripts/generate-megaprompt.py':
+            raise ValueError(f'{path}: falscher Generator')
+        archived = (ROOT / snapshot).read_bytes()
+        if sha(archived) != record.get('before_snapshot_sha256'):
+            raise ValueError(f'{path}: Archivhash stimmt nicht')
+        before = gzip.decompress(archived)
+        if sha(before) != record.get('before_sha256'):
+            raise ValueError(f'{path}: Vorherhash stimmt nicht')
+        current = (ROOT / path).read_bytes()
+        if sha(current) != record.get('after_sha256'):
+            raise ValueError(f'{path}: Nachherhash stimmt nicht')
+        if before == current:
+            raise ValueError(f'{path}: keine Fortschreibung')
+        previous[path] = before
+    return previous
 
 
 class ModuleRoutingTests(unittest.TestCase):
@@ -80,11 +121,30 @@ class ModuleRoutingTests(unittest.TestCase):
 
     def test_original_prompt_bytes_remain_recoverable_from_exact_deltas(self):
         engine = runpy.run_path(str(ROOT / 'scripts/consolidate-skill-cap.py'))
-        audit = json.loads((ROOT / 'quality/skill-consolidation/2026-11-14/vergaberecht-role-routing-followup.json').read_text())
+        audit = json.loads((ROOT / PREVIOUS_AUDIT).read_text())
+        previous = verified_previous_prompt_bytes()
         for record in audit['files']:
-            current = (ROOT / record['path']).read_bytes()
-            self.assertEqual(engine['sha'](current), record['sha256'])
-            self.assertEqual(engine['sha'](engine['restore_original'](current, record['edits'])), record['original_sha256'])
+            audited = previous[record['path']] if record['path'] in previous else (ROOT / record['path']).read_bytes()
+            self.assertEqual(engine['sha'](audited), record['sha256'])
+            self.assertEqual(engine['sha'](engine['restore_original'](audited, record['edits'])), record['original_sha256'])
+
+    def test_prompt_revision_rejects_missing_records_and_broken_hash_bindings(self):
+        valid = json.loads((ROOT / PROMPT_REVISION).read_text())
+        self.assertEqual(len(verified_previous_prompt_bytes(valid)), 3)
+        for change in ('missing-role', 'duplicate-role', 'previous_audit_sha256',
+                       'before_sha256', 'after_sha256', 'before_snapshot_sha256',
+                       'before_snapshot', 'generator'):
+            revision = copy.deepcopy(valid)
+            if change == 'missing-role':
+                revision['files'].pop()
+            elif change == 'duplicate-role':
+                revision['files'][1] = copy.deepcopy(revision['files'][0])
+            elif change == 'previous_audit_sha256':
+                revision[change] = '0' * 64
+            else:
+                revision['files'][0][change] = '0' * 64
+            with self.subTest(change=change), self.assertRaises(ValueError):
+                verified_previous_prompt_bytes(revision)
 
     def test_future_generators_keep_valid_calls_and_match_reviewed_full_outputs(self):
         for role in V.ROLE_FILES:

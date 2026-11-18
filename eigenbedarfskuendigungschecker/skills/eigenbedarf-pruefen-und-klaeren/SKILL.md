@@ -1,8 +1,22 @@
 ---
 name: eigenbedarf-pruefen-und-klaeren
-description: Prüft eine geplante oder erhaltene Eigenbedarfskündigung für Mieter und Vermieter. Führt von Mietvertrag und Kündigung über Bedarf, Sperrfrist und Härte zum konkreten Schreiben oder Einigungsvorschlag, ohne einen Räumungsstreit vorauszusetzen.
+description: "Eigenbedarfskündigung bis zum belastbaren Schreiben oder Widerspruch prüfen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
-# 1. Eigenbedarf prüfen und sachlich klären
+# Eigenbedarfskündigung bis zum belastbaren Schreiben oder Widerspruch prüfen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Mietvertrag, Kündigung, Zugang, Eigentums- und Familienverhältnisse auslesen; Bedarfsperson, Nutzungswunsch und Termin konkretisieren.
+
+2. Berechtigtes Interesse, nachvollziehbaren Bedarf, Formalien und Kündigungsfrist getrennt prüfen; Sperrfrist und Umwandlungstatbestand anhand des tatsächlichen Erwerbs einordnen.
+
+3. Bei Alternativwohnung oder Härte den einschlägigen Fachweg öffnen. Eigentümerseitige Nutzungsmöglichkeit und mieterseitige Anbietpflicht nicht vermischen; Gesundheitsrisiken mit konkreter Prognose statt bloßem Schlagwort prüfen.
+
+4. Kündigung, Widerspruch oder Erwiderung ausformulieren; konkrete Bedarfstatsachen, medizinische Belege, Fristen und stärkste Gegenposition im selben Text verarbeiten.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -32,6 +46,16 @@ Kurze Einordnung, anschließend das beauftragte Endprodukt in vollständigen Sä
 ## 6. Beispiel
 
 Der Mieter legt eine Kündigung und einen Arztbrief vor. Prüfe zuerst Zugang und Frist, dann Kündigungsgrund und konkrete Umzugsfolgen. Entwirf den beauftragten Widerspruch, statt nur den Arztbrief zusammenzufassen.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Beschluss vom 01.09.2026, VIII ZR 16/26](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE616382026&psml=bsjrsprod.psml&max=true): Gesundheitsfolgen, Prognosebeweis und Wohnungssuche. Amtlicher Volltext gelesen. **Grenze:** Keine automatische dauerhafte Fortsetzung.
+
+- [BGH, Beschluss vom 23.06.2026, VIII ZR 237/25](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE600892026&psml=bsjrsprod.psml&max=true): Alternative für eigene Nutzung und Anbietpflicht trennen. Amtlicher Volltext gelesen. **Grenze:** Keine schematische Pflicht zur Nutzung jeder anderen Wohnung.
+
+- [BGH, Urteil vom 21.01.2026, VIII ZR 247/24](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE701642026&psml=bsjrsprod.psml&max=true): Familien-GbR und Umwandlungssperrfrist. Amtliche Leitsätze geprüft. **Grenze:** Familienausnahme aus Absatz 1a nicht auf Absatz 1 übertragen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

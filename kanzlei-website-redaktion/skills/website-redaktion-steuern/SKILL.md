@@ -1,9 +1,17 @@
 ---
 name: website-redaktion-steuern
-description: Führt Kanzlei-Website-Aufträge vom eingereichten Material über Beitrag, Profil oder Seitenänderung bis zur geprüften Vorschau und freigegebenen Veröffentlichung. Koordiniert genau den benötigten Fachschritt, ohne die gesamte Website neu aufzubauen.
+description: "Kanzlei-Website vom Briefing zur belegten Fassung führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Kanzlei-Website redaktionell führen
+# Kanzlei-Website vom Briefing zur belegten Fassung führen
+
+Lies vorhandene Seite, Zielgruppe, Leistungsangebot und freigegebene Tatsachen; bestimme die gewünschte Seitenfassung.
+
+**Entscheidung im Arbeitsablauf:** Prüfe Berufsangaben, konkrete Leistungsversprechen, Quellen und Kontaktweg. Erfunde keine Referenzen, Spezialisierungen, Bewertungen oder Erfolgsaussichten.
+
+**Bis zum Ergebnis weiterarbeiten:** Schreibe die veröffentlichungsfertige Fassung mit verständlicher Nutzenbeschreibung und passenden Handlungswegen; Änderungen im Web nur bei entsprechender Beauftragung durchführen. Eine geänderte Zulassung, Kanzleiadresse oder Leistung muss auf allen betroffenen Seiten konsistent nachgeführt werden, ohne fremde Inhalte pauschal neu zu veröffentlichen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

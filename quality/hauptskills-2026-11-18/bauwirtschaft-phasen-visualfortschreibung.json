@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "method": "mechanical_visual_followup",
+  "previous_audit": "quality/source-audits/2026-11-14/bauwirtschaft-visualisierung-nachpruefung.json",
+  "previous_audit_sha256": "ef126035bc5d44f8da013bbdf46093757efe62c66e46f7c8259530b4400a0523",
+  "scope": "Rein mechanischer Nachweis des heute kanonischen Visualisierungsblocks und des unveränderten Haupttexts aus der Visual-Nachprüfung vom 14.11.2026. Die alten Reviewhashes und ihre fachlichen Prüfgrenzen bleiben unverändert; kein neuer Fachreview, Primärquellenabruf oder Live-Modelltest. Die neun Phasenprompts wurden in dieser Hauptskillrunde nicht geändert.",
+  "files": [
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-1-werkstatt.md",
+      "phase": 1,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "0587bc3fb0ab3842dff4e31a7b069afdc64032578985e8b27c5b0a6f1914a2a5",
+      "body_sha256": "41b96a7fe60ddebef37dfd4b345370774b8bc1745944fdcf382a0d7a8fb997b9",
+      "sha256": "215b81b34cd1e6efbb372a4ad8258e39fcbe078a8f65d4ee0986783838f4135a",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-2-werkstatt.md",
+      "phase": 2,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "0b2856e5a79ef0929694023832b2bd0639583455407b197bf8292154867161f1",
+      "body_sha256": "0299754ecea70e8ca6ced96afa2680380ab04bdf87d8f487a644660bed156f93",
+      "sha256": "ba588b2d46dec516a41a81ebd4373aea4656d112a360fac3cfe678b86c17224d",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-3-werkstatt.md",
+      "phase": 3,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "393a912b6163dd1a5f64f36b146e1a0bef1ef68baf22c87ad503784516d7b60c",
+      "body_sha256": "d2c25a9a82ec0d774fa8721e04214922d77718fde760373c8d6380b5ee1ac920",
+      "sha256": "2fe53f38c59baf1bfae8cb18626a90c80b3536aa10c6d9360123d3779ad2af8b",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-4-werkstatt.md",
+      "phase": 4,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "c61e83fcd2009d74d3972b8675d9fe4309cd31dd17ed1c1b08cd3444defc06b8",
+      "body_sha256": "bca785943d250b7280d40ab1fdb5430483d4836a5bd329a6a1dc9bb96200e042",
+      "sha256": "11ab82bc0226b8c4d992101b543a392e16fbace1ab35749451ac9d91418cff2a",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "phase": 5,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "934f8a22a391311e9ccaa385c96c3fcb3705404058a18fe83590cddfc2c91882",
+      "body_sha256": "928169acce18e3ff8a658f50941d6187686cc2aec1bc64152ca911a3bdb01789",
+      "sha256": "65b7328030b2cd972a1816971bdea7066afca7d2ff91d4e26d868092b5d324a4",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-6-werkstatt.md",
+      "phase": 6,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "e20b835c185ce8e7ef4f82d0986c5fdb409b8727c43a202f8c45c5d95cfdb025",
+      "body_sha256": "6fa735e8109f34dfcbba4d1f82c417d01f34117d212a657d699e43971b4deb2a",
+      "sha256": "ca25eab56cafa06860636e4fe999c5de50f34f02fcda69bcfe04f417819c837b",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-7-werkstatt.md",
+      "phase": 7,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "d6772fb9797eb948c0dda7ab1dce5c3f930f72458e9fd404c9cb48ab78040c55",
+      "body_sha256": "54a832a22ca5f963078e22aff9186743109ed6411acadde22969dc2a6923c8d2",
+      "sha256": "378f4ad8e0dae918d8ad00478016c0b2a2c75350b54cf64beff8e5c4de766231",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
+      "phase": 8,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "cb63590d530a9b937821fb14055c9b8072c962c85c24774be0c5095fe1293e10",
+      "body_sha256": "71c48a7fbe3eb33989dd8b219d59f38b168720fa9788c18ed1bcea0f9a9645ec",
+      "sha256": "e657f4949c5dd11225a91cbf7c6fc4187d54505113451554ed3216bf8ccf26dc",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-9-werkstatt.md",
+      "phase": 9,
+      "method": "visual_block_only",
+      "date": "2026-11-18",
+      "previous_sha256": "9b65e78d5e25ce58682cab3a96a6ec46e6dc16c5f49d0d8b8063ce32b7e0883c",
+      "body_sha256": "2f514fec030c5504478e82c736661a5788c67740a10b7ac8e6cc172685558f19",
+      "sha256": "9d4de08b5ce4b94bc739c70eef90c17b2a14b32702a2fcbc8109733f4ba6359a",
+      "visual_block_sha256": "8f32f4adf005ca82c55fa61556894727ac47e629a2d72af5f99ccfca43e259df"
+    }
+  ]
+}

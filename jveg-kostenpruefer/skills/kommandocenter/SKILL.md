@@ -1,9 +1,17 @@
 ---
 name: kommandocenter
-description: "Für JVEG-Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "JVEG-Abrechnung bis zur prüfbaren Forderung bearbeiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# JVEG-Kommandocenter
+# JVEG-Abrechnung bis zur prüfbaren Forderung bearbeiten
+
+Ordne Heranziehung, Rolle, Auftrag, Leistungstage, Rechnung und Empfangsnachweise dem richtigen Vergütungsweg zu.
+
+**Entscheidung im Arbeitsablauf:** Trenne gerichtliche Heranziehung von Privatgutachten und Gebührenbescheid. Prüfe Leistungszeit, geltende Gesetzesfassung, Frist, Honorargruppe, erforderlichen Aufwand und Auslagen jeweils belegt.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle die nachvollziehbare Berechnung oder den konkreten Festsetzungsantrag mit beanstandeten Einzelpositionen und begründeten Alternativbeträgen. Ein nachgereichter Tätigkeitsnachweis kann Stunden belegen, ersetzt aber nicht die passende Honorargruppe; historische Urteilssätze sind keine aktuellen Tarife.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## Arbeitsweg
 
