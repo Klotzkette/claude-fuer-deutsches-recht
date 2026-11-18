@@ -62,6 +62,7 @@ jobs:
           python3 scripts/validate-runtime-performance.py
           python3 scripts/audit-skill-activation.py
           python3 scripts/audit-skill-selection.py
+          python3 scripts/audit-prompt-profile-routing.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/validate-current-law-sentinels.py
           python3 scripts/consolidate-skill-cap.py --verify quality/skill-consolidation/2026-11-14/source-map.json --strict-links
@@ -81,6 +82,7 @@ jobs:
           python3 scripts/test-marketplace-import.py
           python3 scripts/test-skill-quality-release.py
           python3 scripts/test-jugendmedien-paket.py
+          python3 scripts/test-prompt-workflow-preservation.py
           python3 scripts/test-anfechtung-werkstattprompts.py
           python3 scripts/test-insolvenzanfechtung.py
           python3 scripts/test-quality-lab.py
