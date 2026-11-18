@@ -29,6 +29,9 @@ on:
       - 'scripts/audit-prompt-profile-routing.py'
       - 'scripts/themen_profile.py'
       - 'scripts/test-schwerpunkt-coverage.py'
+      - 'scripts/*jugendmedien*'
+      - 'scripts/data/jugendmedien*'
+      - 'jugendmedienschutz-und-medienangebote/**'
       - 'scripts/quality_lab.py'
       - 'scripts/test-quality-lab.py'
       - 'scripts/test-ustva-ausgabe.py'
@@ -125,6 +128,7 @@ jobs:
           python3 scripts/test-prompt-routing-scope.py
           python3 scripts/test-schwerpunkt-coverage.py SchwerpunktCoverage.test_every_specialist_has_concrete_skill_and_prompt SchwerpunktContractRegressions
           python3 scripts/test-quality-lab.py
+          python3 scripts/test-jugendmedien-paket.py
           python3 scripts/test-ustva-ausgabe.py
           python3 scripts/test-e-rechnung-werkstatt.py
           python3 scripts/test-notariatswerkstatt.py

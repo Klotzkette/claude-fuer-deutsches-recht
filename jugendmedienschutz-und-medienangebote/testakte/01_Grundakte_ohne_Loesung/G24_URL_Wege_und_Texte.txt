@@ -1,0 +1,19 @@
+Fiktiver Oberflächenexport vom 18. November 2026. Alle Domains enden auf .example und sind für Übungen bestimmt. Die Texte sind keine Anleitung zum Zugriff auf einen realen Dienst.
+
+URL /start: „Gemeinsam kreativ ab 15.“ Schaltflächen: Insel entdecken; Mit Einladung hinein; Eigene Insel bauen. Fußzeile: Hilfe, Bedingungen, Datenschutz. Sichtbar ohne Anmeldung.
+
+URL /register: E-Mail; Passwort; Anzeigename; Kästchen „Ich bin mindestens 16 Jahre alt“. Kein Geburtsdatum. Kein Uploadfeld. Ein Hinweis auf den Gastzugang fehlt auf dieser Seite.
+
+URL /invite/TEST-GAST-7: Anzeigename; Kästchen „Ich halte mich an die Raumregeln“. Kein Altersfeld. Hinweis: „Du trittst einem Teamraum bei.“ Die konkrete spätere Sichtbarkeit der Insel wird hier nicht erklärt.
+
+URL /island/IA-1184/share: Auswahl „Nur Team“, „Link teilen“, „In Entdecken aufnehmen“. Unter „Link teilen“: „Nicht öffentlich gelistet“. Kein ausdrücklicher Satz, dass jede Person mit dem Link zugreifen kann.
+
+URL /island/IA-1184: Vorschautitel und Kurzbeschreibung ohne Anmeldung. Nach Klick auf „Hinweis gelesen“ öffnet die vollständige Ansicht. Das Wort Altersprüfung erscheint nicht. Ein etwaiger Hinweistext ist redaktionell gesetzt, nicht aus einem ermittelten Geburtsdatum abgeleitet.
+
+URL /editor/ai: Freitext „Beschreibe die Szene“; Stilprofil; Sprache; Knopf „Szene vorschlagen“. Unter der Antwort: „Automatisch erstellter Entwurf. Prüfe den Text vor dem Einsetzen.“ Die spätere Veröffentlichung erfolgt über den Freigabedialog.
+
+URL /report: Link; Kategorie; Beschreibung; E-Mail optional. Eingangsbestätigung: „Danke, wir haben deine Meldung aufgenommen.“ Kein versprochener Bearbeitungszeitpunkt. Der Meldeweg ist auch ohne Konto erreichbar.
+
+URL /account/subscription: Preisvorschau 4,90 EUR monatlich. Kaufknopf im Test deaktiviert. Hinweise auf Widerruf und Kündigung sind noch nicht als endgültige Texte hinterlegt.
+
+Abschrift erstellt von Jona Metz. Screenshots und Browsermitschnitt wurden für diese Übergabe noch nicht erstellt. Die Abschrift soll im nächsten Test gegen die tatsächlich ausgelieferte Oberfläche geprüft werden; sie ersetzt keinen historischen Nachweis.

@@ -11,7 +11,7 @@
       "name": "agb-recht-pruefer",
       "source": "./agb-recht-pruefer",
       "description": "Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.",
-      "version": "445.36.0",
+      "version": "445.36.7",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1538,6 +1538,16 @@
       }
     },
     {
+      "name": "jugendmedienschutz-und-medienangebote",
+      "version": "445.36.7",
+      "description": "Jugendschutz für Browsergames, KI-Szenarien, Medienangebote und Nutzerkommunikation. Zehn Skills prüfen JuSchG, JMStV, MStV und Schnittstellen zu DSA, Datenschutz und KI-Verordnung bis zum konkreten Dokument.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./jugendmedienschutz-und-medienangebote"
+    },
+    {
       "name": "jura-in-einfacher-sprache",
       "source": "./jura-in-einfacher-sprache",
       "description": "Juristische Texte in einfache Sprache und zurück in juristische Standardsprache übertragen, erklären, schreiben und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen. Keine erfundenen Ergänzungen bei fehlendem Original.",
@@ -1751,7 +1761,7 @@
       "name": "ki-vo-ai-act-pruefer",
       "source": "./ki-vo-ai-act-pruefer",
       "description": "Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis.",
-      "version": "445.36.0",
+      "version": "445.36.7",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2423,7 +2433,7 @@
       "name": "robotik-recht",
       "source": "./robotik-recht",
       "description": "Robotik-Recht Deutschland/EU: Maschinenverordnung, KI-VO, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte.",
-      "version": "445.36.0",
+      "version": "445.36.7",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

@@ -2137,8 +2137,8 @@
       "gesellschafterstreit/gesellschafterstreit-werkstatt.md"
     ],
     "evidence": {
-      "path": "quality/plugin-consolidation/2026-11-15/navigation-reviews/gesellschafterstreit.json",
-      "sha256": "7e714b9076bbe12602678f1a78716a407e9bfe1ff14028347d6bb26d05deadb7"
+      "path": "quality/source-audits/2026-11-18-issues/gesellschafterstreit-navigation-review.json",
+      "sha256": "cd9c725bccec246d3a80e3fe2460b3d9cd89cb1985398deb3a6efe5841921c5f"
     },
     "visual_followups": {
       "gesellschafterstreit/gesellschafterstreit-werkstatt.md": {

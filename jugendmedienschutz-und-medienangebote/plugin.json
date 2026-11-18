@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "jugendmedienschutz-und-medienangebote",
+  "version": "445.36.7",
+  "description": "Jugendschutz für Browsergames, KI-Szenarien, Medienangebote und Nutzerkommunikation. Zehn Skills prüfen JuSchG, JMStV, MStV und Schnittstellen zu DSA, Datenschutz und KI-Verordnung bis zum konkreten Dokument.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "jugendschutz",
+    "jmstv",
+    "juschg",
+    "mstv",
+    "browsergame",
+    "medienrecht",
+    "dsa",
+    "ki-szenarien"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Jugendmedienschutz und Medienangebote",
+        "shortDescription": "Spiele, Chats und Medien prüfen",
+        "longDescription": "Jugendschutz für Browsergames, KI-Szenarien, Medienangebote und Nutzerkommunikation. Zehn Skills prüfen JuSchG, JMStV, MStV und Schnittstellen zu DSA, Datenschutz und KI-Verordnung bis zum konkreten Dokument.",
+        "developerName": "Klotzkette"
+      }
+    }
+  }
+}

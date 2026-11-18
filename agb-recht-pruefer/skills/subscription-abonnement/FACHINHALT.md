@@ -1,27 +1,36 @@
 ---
 name: subscription-abonnement
-description: "Für Subscription Abonnement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Abonnements auf Laufzeit, Verlängerung, Preisänderung, Kündigung und Datenzugang. Trennt Verbraucher- und Unternehmensverträge und entwickelt klare Ersatzregelungen.
 ---
 
-# Subscription Abonnement
+# Abonnements und Verlängerungen prüfen
 
-## Fachkern: Subscription Abonnement
+## 1. Zweck und Anwendungsfall
 
-- **Klauselproblem (Subscription Abonnement):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+Prüfe den Weg vom Probeangebot bis zum Vertragsende. Entscheidend sind die tatsächliche Bindung, die Verlängerungsmechanik und eine praktisch nutzbare Kündigung.
 
-## Prüfpfad
+## 2. Eingaben
 
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Subscription Abonnement besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+Bestellstrecke, Preisblatt, Probephase, Erstlaufzeit, Verlängerung, Vertragsschlussdatum, Kündigungsbedingungen, Website-Ansichten und Bestätigungsmails. Bei digitalen Diensten auch Export- und Löschregeln lesen.
 
-## Quellenanker
+## 3. Ablauf und Checkliste
 
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+Lies die vorhandenen Unterlagen vor Rückfragen. Bestimme AGB-Eigenschaft, Einbeziehung, Individualabreden und Kundengruppe. Prüfe die konkrete Klausel nach §§ 305 bis 310 BGB; § 309 gilt im unternehmerischen Verkehr nicht unmittelbar. Trenne Leistungsbeschreibung, Leistungsänderung, Haftung und Rechtsfolgen einer unwirksamen Klausel. Ein schlechter Preis allein macht keine Klausel unwirksam.
+
+1. Zeichne die Zeitachse aus Beginn, Entgeltbeginn, Erstlaufzeit, Kündigungstermin und Verlängerung. Prüfe § 309 Nummer 9 BGB im sachlichen und zeitlichen Anwendungsbereich: grundsätzlich höchstens zwei Jahre Erstbindung; zulässige stillschweigende Verlängerung auf unbestimmte Zeit mit Kündigungsmöglichkeit innerhalb höchstens eines Monats. Keine pauschale Übertragung auf Unternehmensverträge.
+2. Prüfe bei entgeltlichen Verbraucherdauerschuldverhältnissen, deren Abschluss auf einer Website ermöglicht wird, § 312k BGB einschließlich Ausnahmen. AGB-Kündigungsrecht und tatsächlich erreichbare Kündigungsschaltfläche getrennt prüfen. Die Rechtsfolge des Absatzes 6 setzt den dort bezeichneten Pflichtverstoß voraus; nicht jeder Schreibfehler ist automatisch eine fristlose Kündigung.
+3. Trenne ordentliche Kündigung, wichtigen Grund, Widerruf und Rückabwicklung. Prüfe Formvorgaben insbesondere nach § 309 Nummer 13 BGB. Dokumentiere Zugang und Bestätigung statt bloß den Versand zu behaupten.
+4. Prüfe Preisänderungen nach Anlass, Berechnung, Anpassungsrichtung, Vorankündigung und Rechtsfolgen. Die Zustimmung zu AGB ist kein grenzenloses Preisanpassungsrecht. Lege eine konkrete Vertragsrechnung vor und benenne die verwendeten Annahmen.
+5. Bei SaaS zuerst Artikel 2 Nummer 8 Data Act prüfen. Bei eröffnetem Kapitel VI Wechselmechanismus nach Artikel 25, Entgelte nach Artikel 29 und Ausnahmen nach Artikel 31 anwenden. Export und Datenabruf dürfen nicht mit jeder vertraglichen Kündigungsfrist gleichgesetzt werden; laufendes Entgelt und vorzeitige Beendigung gesondert beurteilen.
+
+## 4. Quellenpflicht
+
+Nutze die [amtlichen Quellen für digitale AGB](../../references/digitaldienste-data-act-ki.md) und die dort bezeichneten Normen. Prüfe die für Vertragsdatum, Kundengruppe und Diensttyp geltende Fassung. Fehlenden Quellenzugriff ausdrücklich benennen und weder Rechtsprechung noch eine pauschale Freigabe behaupten.
+
+## 5. Ausgabeformat
+
+Liefere eine begründete Klauselbewertung mit Originalwortlaut, tragender Norm, stärkstem Gegenargument und vollständig ausformulierter Ersatzfassung. Kennzeichne Tatsachenlücken und verhandelbare Varianten. Für Empfänger bestimmte Texte enthalten keine internen Arbeitsanweisungen; DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Eine nicht erfolgte technische Prüfung oder gerichtliche Bestätigung nicht behaupten.
+
+## 6. Beispiel
+
+Ein Verbraucherabo verlängert sich nach zwölf Monaten um weitere zwölf Monate; nur ein verstecktes Kontaktformular ist vorhanden. Prüfe Vertragsdatum, § 309 Nummer 9 und den eigenständigen Website-Pfad des § 312k BGB. Liefere getrennte Befunde zu Bindung und Kündigungszugang.

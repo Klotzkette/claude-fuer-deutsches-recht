@@ -1,27 +1,36 @@
 ---
 name: verfuegbarkeit-wartungsfenster
-description: "Für Verfügbarkeit Wartungsfenster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Service-Level auf Messung, Ausnahmen, Wartung und Rechtsbehelfe. Berechnet Ausfallbudgets und entwirft klare Verfügbarkeits- und Eskalationsklauseln.
 ---
 
-# Verfügbarkeit Wartungsfenster
+# Verfügbarkeit und Wartungsfenster prüfen
 
-## Fachkern: Verfügbarkeit Wartungsfenster
+## 1. Zweck und Anwendungsfall
 
-- **Klauselproblem (Verfügbarkeit Wartungsfenster):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+Prüfe, ob ein zugesagter Service-Level die tatsächlich benötigte Nutzung abdeckt. Prozentwerte sind erst mit Messzeitraum, Messpunkt und zulässigen Ausnahmen aussagekräftig.
 
-## Prüfpfad
+## 2. Eingaben
 
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Verfügbarkeit Wartungsfenster besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+Service-Level-Vereinbarung, Leistungsbeschreibung, Betriebszeiten, Wartungskalender, Ausfallprotokolle, Statusmeldungen, Überwachungsdaten, Gutschriftentabelle und Haftungsklauseln.
 
-## Quellenanker
+## 3. Ablauf und Checkliste
 
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+Lies die vorhandenen Unterlagen vor Rückfragen. Bestimme AGB-Eigenschaft, Einbeziehung, Individualabreden und Kundengruppe. Prüfe die konkrete Klausel nach §§ 305 bis 310 BGB; § 309 gilt im unternehmerischen Verkehr nicht unmittelbar. Trenne Leistungsbeschreibung, Leistungsänderung, Haftung und Rechtsfolgen einer unwirksamen Klausel. Ein schlechter Preis allein macht keine Klausel unwirksam.
+
+1. Definiere Bezugszeit und Messpunkt: Kalendermonat oder Jahr, gesamte Zeit oder vereinbartes Betriebsfenster, einzelne Funktion oder Gesamtdienst. Berechne das Ausfallbudget mit Einheiten. Bei 30 Tagen und durchgehender Bereitstellung bedeuten 99,9 Prozent rechnerisch 43,2 Minuten Ausfall; vereinbarte Ausnahmen verändern die Berechnung.
+2. Ordne jede Ausnahme einer beherrschbaren Ursache zu. Prüfe geplante Wartung, Notfallwartung, Kundennetz, höhere Gewalt und Subunternehmer. Unbegrenzte Wartung außerhalb der Messung kann eine scheinbar hohe Zusage entwerten; untersuche Transparenz und Leistungsgefährdung nach § 307 BGB.
+3. Formuliere Ankündigung, Zeitzone, Wartungsdauer, Häufigkeit und Ansprechpartner. Eine notwendige Sicherheitsmaßnahme kann beschleunigtes Handeln rechtfertigen, aber kein beliebiges Wartungsfenster. Sicherheitsaktualisierungen und erforderliche Verbraucherinformationen nach § 327f BGB gesondert berücksichtigen.
+4. Trenne Reaktionszeit, Wiederherstellungsziel und zugesagte Verfügbarkeit. Prüfe Messbeweise, Abgleich widersprüchlicher Logs und Störungsmeldungen. Ein geschlossenes Supportticket belegt keinen wiederhergestellten Betrieb.
+5. Prüfe Gutschriften, Minderung, Kündigung und Schadensersatz nach Vertragsmodell und Klauselinhalt. Servicegutschriften nicht automatisch als alleinigen Rechtsbehelf akzeptieren; zwingende Haftungsgrenzen und § 309 Nummer 7 beziehungsweise § 307 BGB beachten. Für qualifizierende Cloud-Dienste darf ein Wechsel nach Kapitel VI Data Act nicht durch pauschale Sperrung oder Wartung verhindert werden.
+
+## 4. Quellenpflicht
+
+Nutze die [amtlichen Quellen für digitale AGB](../../references/digitaldienste-data-act-ki.md) und die dort bezeichneten Normen. Prüfe die für Vertragsdatum, Kundengruppe und Diensttyp geltende Fassung. Fehlenden Quellenzugriff ausdrücklich benennen und weder Rechtsprechung noch eine pauschale Freigabe behaupten.
+
+## 5. Ausgabeformat
+
+Liefere eine begründete Klauselbewertung mit Originalwortlaut, tragender Norm, stärkstem Gegenargument und vollständig ausformulierter Ersatzfassung. Kennzeichne Tatsachenlücken und verhandelbare Varianten. Für Empfänger bestimmte Texte enthalten keine internen Arbeitsanweisungen; DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Eine nicht erfolgte technische Prüfung oder gerichtliche Bestätigung nicht behaupten.
+
+## 6. Beispiel
+
+Der Dienst verspricht 99,9 Prozent, nimmt jedoch jede beliebig angekündigte Wartung aus. Stelle Bruttoverfügbarkeit und vertragliche Messung nebeneinander und formuliere ein begrenztes Wartungsregime mit belastbarer Eskalation.

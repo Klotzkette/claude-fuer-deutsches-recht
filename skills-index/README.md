@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 3153 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 3163 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -194,6 +194,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### J
 
+- [jugendmedienschutz-und-medienangebote](./jugendmedienschutz-und-medienangebote.md) (10 Skills)
 - [jura-in-einfacher-sprache](./jura-in-einfacher-sprache.md) (5 Skills)
 - [jurastudium](./jurastudium.md) (8 Skills)
 - [juristische-praesentationen](./juristische-praesentationen.md) (12 Skills)
@@ -551,6 +552,7 @@ Beginne einen Vorgang mit dem Hauptskill des passenden Plugins. Gib den Auftrag 
 | [insolvenzverwaltung-berichtsersteller](./insolvenzverwaltung-berichtsersteller.md) | [`berichtserstellung-steuern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/skills/berichtserstellung-steuern/SKILL.md) |
 | [internal-investigations-praxis](./internal-investigations-praxis.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=internal-investigations-praxis/skills/juristischer-argumentationskern/SKILL.md) |
 | [internationales-handelsrecht-lex-mercatoria](./internationales-handelsrecht-lex-mercatoria.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=internationales-handelsrecht-lex-mercatoria/skills/juristischer-argumentationskern/SKILL.md) |
+| [jugendmedienschutz-und-medienangebote](./jugendmedienschutz-und-medienangebote.md) | [`medienangebot-pruefen` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jugendmedienschutz-und-medienangebote/skills/medienangebot-pruefen/SKILL.md) |
 | [jura-in-einfacher-sprache](./jura-in-einfacher-sprache.md) | [`juristischen-text-erklaeren` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-erklaeren/SKILL.md) |
 | [jurastudium](./jurastudium.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jurastudium/skills/juristischer-argumentationskern/SKILL.md) |
 | [juristische-praesentationen](./juristische-praesentationen.md) | [`praesentation-starten` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/skills/praesentation-starten/SKILL.md) |

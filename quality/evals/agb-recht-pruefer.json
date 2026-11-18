@@ -355,5 +355,46 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "reviewed_file_hashes": {
+    "agb-recht-pruefer/references/digitaldienste-data-act-ki.md": "a8a9d613bf5bd2134e6963460f533f41f1387aac66ee1523fc14aede8d22d867",
+    "agb-recht-pruefer/skills/backup-datenverlust/FACHINHALT.md": "b976979574b4efa7606771d2fcd7751e9e951a305207bdc6a1d097554d720bfe",
+    "agb-recht-pruefer/skills/softwarelizenz-agb/FACHINHALT.md": "e228887913e7ed33ba6e509589554a1dd47020b0500d5e92e8728fc4f143bd83",
+    "agb-recht-pruefer/skills/subscription-abonnement/FACHINHALT.md": "3baae5dffa0fae4fbb7f0cbc640c66a4359ddf294c49035166b83609d233d7c0",
+    "agb-recht-pruefer/skills/verfuegbarkeit-wartungsfenster/FACHINHALT.md": "ea578714bbbf11e3ca4c6fc8ba90e65fcd76f0f512c0c77ce4fcb9167154e75c"
+  },
+  "issue_followup_2026_11_18": {
+    "date": "2026-11-18",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "report": "quality/source-audits/2026-11-18-issues/ki-daten.md",
+    "report_sha256": "31ba10543a31b5c7dc29e1d70766b77f03fe7807230f1bc9f9b1041df59cac7f",
+    "files": {
+      "agb-recht-pruefer/references/digitaldienste-data-act-ki.md": {
+        "before_sha256": "9e5ccdff83a6f3180e4376dc5e1350e7f80efe9da934726ce55bb681ee937e71",
+        "reviewed_sha256": "a8a9d613bf5bd2134e6963460f533f41f1387aac66ee1523fc14aede8d22d867",
+        "full_file_read": true
+      },
+      "agb-recht-pruefer/skills/backup-datenverlust/FACHINHALT.md": {
+        "before_sha256": "9dc5165d245ce06694c320eba5bca17a7fb02b17d744c35548fd50618292c6ea",
+        "reviewed_sha256": "b976979574b4efa7606771d2fcd7751e9e951a305207bdc6a1d097554d720bfe",
+        "full_file_read": true
+      },
+      "agb-recht-pruefer/skills/softwarelizenz-agb/FACHINHALT.md": {
+        "before_sha256": "080903c4fdbbe7c5ef75900a587acf282a82dc6706b52373816cd74aee6d8b1c",
+        "reviewed_sha256": "e228887913e7ed33ba6e509589554a1dd47020b0500d5e92e8728fc4f143bd83",
+        "full_file_read": true
+      },
+      "agb-recht-pruefer/skills/subscription-abonnement/FACHINHALT.md": {
+        "before_sha256": "39aff8ae4342d9edda620e2fdc9e7df23f757d6af834df8faf0ef7defdf60dec",
+        "reviewed_sha256": "3baae5dffa0fae4fbb7f0cbc640c66a4359ddf294c49035166b83609d233d7c0",
+        "full_file_read": true
+      },
+      "agb-recht-pruefer/skills/verfuegbarkeit-wartungsfenster/FACHINHALT.md": {
+        "before_sha256": "0eb73453ec69f8b9e597027d60faa18baff4d1f4a63b4aa450e05defd126f5a0",
+        "reviewed_sha256": "ea578714bbbf11e3ca4c6fc8ba90e65fcd76f0f512c0c77ce4fcb9167154e75c",
+        "full_file_read": true
+      }
+    },
+    "limits": "Nur die bezeichneten Fachmodule und Quellenergänzungen; kein neuer vollständiger Prompt-Review, keine gesamte Rechtsprechungsprüfung und kein Live-Modelltest. Historische Reviews und ihre Daten unverändert."
   }
 }

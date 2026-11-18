@@ -23,9 +23,9 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 
 ## Rechtlicher Rahmen
 
-- **CRA** VO (EU) 2024/2847; Anhang I Cybersecurity Requirements (Teil I) und Vulnerability Handling (Teil II); Anhang III Wichtige/kritische Produkte.
+- **CRA** VO (EU) 2024/2847; Anhang I Cybersecurity Requirements (Teil I) und Vulnerability Handling (Teil II); Anhang III wichtige Produkte, Anhang IV kritische Produkte.
 - **Geltungsstaffelung Art. 71 CRA:** Vorfall- und Schwachstellenmeldungen ab 11.09.2026; Hauptpflichten 11.12.2027.
-- **Schnittstellen:** MaschinenVO VO (EU) 2023/1230; KI-VO VO (EU) 2024/1689; NIS-2-RL (EU) 2022/2555 und BSIG; ProdHaftG/VO (EU) 2024/2853; RED-VO (EU) 2014/53 i. V. m. delegierter VO (EU) 2022/30 (RED-Cybersecurity).
+- **Schnittstellen:** MaschinenVO VO (EU) 2023/1230; KI-VO VO (EU) 2024/1689; NIS-2-RL (EU) 2022/2555 und BSIG; ProdHaftG und Produkthaftungs-Richtlinie (EU) 2024/2853; RED-Richtlinie 2014/53/EU i. V. m. delegierter VO (EU) 2022/30 (RED-Cybersecurity).
 - **Herstellermeldungen nach Artikel 14 CRA:** Aktiv ausgenutzte Schwachstellen und schwerwiegende Sicherheitsvorfälle getrennt prüfen. 24-/72-Stunden-Meldungen knüpfen an Kenntnis an; für den Abschlussbericht gelten je nach Pfad unterschiedliche Auslöser und Fristen (siehe Meldeplan).
 - **Geldbußen** Art. 64 CRA: bis 15 Mio. EUR oder 2,5 % weltweiter Jahresumsatz für wichtigste Pflichtverstöße.
 
@@ -52,7 +52,7 @@ Der **Zwischenbericht** nach Artikel 14 Absatz 6 enthält relevante Statusaktual
 5. **Penetration Testing** und Threat Modeling vor Inverkehrbringen.
 6. **Vorfall- und Schwachstellenmeldungen.** Seit 11.09.2026 den vorstehenden Meldeplan anwenden: Tatbestand und Kenntniszeitpunkt, zuständigen CSIRT-Endpunkt, Pflichtangaben jeder Stufe und fristauslösendes Ereignis des Abschlussberichts dokumentieren. Zwischenberichte nach Absatz 6 nur auf entsprechende Aufforderung vorlegen.
 7. **Konformitätsbewertung** Modul nach Anhang VIII CRA; bei kritischen Produkten Pflicht zur Notified Body.
-8. **Support-Periode.** Mindestens 5 Jahre, sofern Lebenszyklus nicht kürzer (Art. 13 Abs. 8 CRA).
+8. **Support-Periode.** Nach Artikel 13 Absatz 8 CRA anhand der zu erwartenden Nutzungsdauer und der dortigen Faktoren festlegen und dokumentieren. Grundsätzlich mindestens fünf Jahre; bei erwarteter Nutzung unter fünf Jahren entspricht die Periode dieser kürzeren Nutzung. Eine längere erwartbare Nutzung darf nicht ohne Prüfung auf fünf Jahre begrenzt werden. Geltungsbeginn der Hauptpflichten und Artikel 69 getrennt beachten.
 9. **Vertragsklauseln** mit Zulieferern: SBOM-Pflicht, Schwachstellen-SLA, Update-Bereitstellung.
 
 ## Trade-off-Matrix
@@ -76,11 +76,13 @@ Der **Zwischenbericht** nach Artikel 14 Absatz 6 enthält relevante Statusaktual
 
 **Schwachstellen-Policy (Auszug):**
 
-> Wir nehmen Schwachstellenmeldungen an psirt@[Firma].de entgegen. Acknowledgment binnen 48 Stunden; Status-Update alle 14 Tage. Schweregradkategorien CVSS v3.1; kritische Schwachstellen erhalten Patch binnen 30 Tagen, hoch innerhalb 90 Tagen. Wir veröffentlichen Security Advisories in CycloneDX VEX-Format. Wir verpflichten uns zur koordinierten Offenlegung gemäß ISO/IEC 29147 und Art. 13 Abs. 8 CRA.
+> Wir nehmen Schwachstellenmeldungen an psirt@[Firma].de entgegen und bestätigen den Eingang innerhalb von [vereinbarte Reaktionszeit]. Wir bewerten aktive Ausnutzung, Betroffenheit, Auswirkungen und verfügbare Abhilfe unverzüglich. Die Bearbeitung richtet sich nach dem konkreten Risiko; allgemeine Zielzeiten rechtfertigen kein Aufschieben erforderlicher Maßnahmen. Wir dokumentieren Verantwortliche, Zwischenmaßnahmen und den Termin der nächsten Lagebewertung. Sicherheitsinformationen veröffentlichen wir abgestimmt mit der koordinierten Offenlegung. Gesetzliche Herstellermeldungen laufen unabhängig von dieser Eingangsbestätigung und den Lieferantenfristen.
 
 **Vertragsklausel mit Zulieferer:**
 
-> Der Lieferant stellt mit jeder Lieferung eine SBOM im CycloneDX-Format zur Verfügung. Der Lieferant verpflichtet sich, sicherheitsrelevante Schwachstellen seiner gelieferten Komponenten innerhalb von 24 Stunden nach Bekanntwerden gegenüber dem Auftraggeber zu melden und innerhalb von 72 Stunden eine Risikoeinschätzung zu liefern. Sicherheitsupdates werden im Rahmen der CRA-Support-Periode von 5 Jahren bereitgestellt.
+> Der Lieferant stellt mit jeder Lieferung eine maschinenlesbare SBOM im vereinbarten Format bereit. Sicherheitsrelevante Schwachstellen meldet er dem Auftraggeber unverzüglich, spätestens innerhalb von [für die Meldekette begründete Höchstfrist] nach Bekanntwerden, mit betroffener Version, Kenntniszeitpunkt, Hinweisen auf Ausnutzung und verfügbaren Maßnahmen. Fehlende Angaben werden fortlaufend ergänzt. Er unterstützt erforderliche Abhilfe während der für das konkrete Produkt vereinbarten Support-Periode bis [Datum]; deren Bemessung berücksichtigt die erwartete Nutzungsdauer nach Artikel 13 Absatz 8 CRA. Die gesetzlichen Pflichten jedes Beteiligten bleiben unberührt.
+
+Eine Lieferantenfrist darf die eigene 24-Stunden-Frühwarnung nicht praktisch unmöglich machen. Lieferanteninformation, Sicherheitsbehebung und behördliche Meldung sind drei verschiedene Arbeitsstränge. Für die Vorbereitung der Hauptpflichten die risikobezogene Behebung nach Anhang I Teil II Nummer 2 berücksichtigen; keine gesetzliche 30- oder 90-Tage-Schonfrist aus einem Muster ableiten.
 
 **Frühwarnung einer aktiv ausgenutzten Schwachstelle (auszufüllendes Beispiel):**
 
@@ -102,7 +104,11 @@ Eine lediglich vermutete Angriffshandlung nicht als belegte aktive Schwachstelle
 - VO (EU) 2023/1230 (MaschinenVO).
 - VO (EU) 2024/1689 (KI-VO).
 - RL (EU) 2022/2555 (NIS-2); BSIG.
-- VO (EU) 2014/53 (RED) i. V. m. delegierter VO (EU) 2022/30.
+- Richtlinie 2014/53/EU (RED) i. V. m. delegierter VO (EU) 2022/30.
 - ISO/IEC 29147 (CVD); ISO/IEC 30111.
 - Live-Verifikation auf eur-lex.europa.eu, enisa.europa.eu, bsi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
 Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
+## Ergänzender Quellenabgleich vom 18. November 2026
+
+Die [Kommissionsinformation zu CRA-Meldungen](https://digital-strategy.ec.europa.eu/en/policies/cra-reporting) bestätigt die unterschiedlichen Abschlussfristen und die seit 11. September 2026 verwendete einheitliche Meldeplattform. Die dort für Open-Source-Stewards erläuterte Anwendung des Artikels 24 Absatz 3 ab 11. Dezember 2027 nicht mit der bereits geltenden Herstellermeldepflicht verwechseln. Supportdauer und risikobezogene Abhilfe sind anhand von [Artikel 13 Absatz 8 und Anhang I Teil II CRA](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) produktbezogen zu bestimmen. Dieser Abgleich betrifft die bezeichneten Melde- und Supportfragen; er ist keine Vollprüfung sämtlicher Produktvorschriften.

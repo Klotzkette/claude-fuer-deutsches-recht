@@ -1200,8 +1200,8 @@
       "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md"
     ],
     "evidence": {
-      "path": "quality/plugin-consolidation/2026-11-15/navigation-reviews/wirtschaftsanwalt.json",
-      "sha256": "562db2cc1f3e1110b13c21c82a3bcfbdfe23455a4e2079750daba3da08efe181"
+      "path": "quality/source-audits/2026-11-18-issues/wirtschaftsanwalt-navigation-review.json",
+      "sha256": "9290855b7c35d83d70d38213047b7582ecf61c0f91dd2ec502cc367c9c9a2cc6"
     },
     "visual_followups": {
       "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md": {

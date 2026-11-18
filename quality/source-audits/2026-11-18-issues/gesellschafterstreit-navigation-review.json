@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "plugin": "gesellschafterstreit",
+  "date": "2026-11-14",
+  "method": "full_file_review",
+  "base_commit": "d4d621de34186d03e343fdb144176b9986f1f1fe",
+  "limits": "Dateireview umfasst die vollständig gelesenen benannten Dateien; kein pauschales Gütesiegel für sämtliche sonstigen Plugin-Dateien, alle Testakten oder alle Rechtsgebiete. Desk-Review mit aktuellen amtlichen Abrufen und gezielter Norm-/Passagenprüfung, keine neue Live-Ausführung durch ein externes Modell. Historische Profile, Prüfstände und Freigabehashes werden nicht rückdatiert oder überschrieben. Root führt neuen Dateistatus, Artefakthashes und Release-Routing nach Abschluss separat nach.",
+  "previous_status": {
+    "status": "needs_review",
+    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "files": [
+      "gesellschafterstreit/README.md",
+      "gesellschafterstreit/gesellschafterstreit-schnellstart.md",
+      "gesellschafterstreit/gesellschafterstreit-werkstatt.md"
+    ]
+  },
+  "files": [
+    {
+      "path": "gesellschafterstreit/README.md",
+      "before_sha256": "3b47bbb9de64f1a1a92b560c580fd86481f79ebc9885d11554beb9e2c606ac5d",
+      "reviewed_sha256": "8fe4e236ee69c87c550cb58fd1b198e99b8c6cb5fdfb6082efe4247e933b62ff",
+      "full_file_read": true,
+      "read_method": "Vollständige fortlaufende Textlektüre; lange Werkstätten in lückenlosen Teilabschnitten, danach Änderungen und Quellenpassagen nachgelesen.",
+      "bytes": 34792,
+      "lines": 214,
+      "result": "revised",
+      "checked_points": [
+        "README vollständig gelesen; Zweck, alle elf Skillwege, drei eigenständige Prompts, Original-/Einzel-PDF-Downloads und zugeordnete Testakten kontrolliert.",
+        "Beschriebene Aktenumfänge lokal abgeglichen: München 18 Kernbelege plus 20 Nachtragsdateien; Zink und Zunder 38 plus 20. Nachtrags-README sind Metadaten, keine zusätzlichen Sachbelege. Berliner Vergleichsnachtrag enthält fünf DOCX/PDF-Paare plus sechs E-Mails; reine Metadaten separat.",
+        "18 zitierte BGH-Originale frisch vom BGH geladen; Hashgleichheit mit Archivoriginalen und tragende Passagen tatsächlich geprüft. Artikel-/Satzungsebenen, Mitgliedschaft, Manager-Leaver und Prozessfolgen in der Darstellung konsistent.",
+        "Früherer Jetzt-/Versionsabsatz als sachbezogene Fallbeschreibung neu gefasst. Historische Handbuch-/Werkstatt-PDFs ausdrücklich Stand 445.34.2 vom 09.10.2026, aktuelle MD/Pluginroute getrennt; keine neue PDF-Erzeugung behauptet.",
+        "Abschließendes Metadaten-Diff gelesen: drei aktuelle Plugin-ZIP-Links auf qualitaetsrunde-v445.36.1; historische Testakten-/PDF-Tags unverändert. Kein inhaltlicher Widerspruch der historischen PDFs durch diese Quellen-/README-Klarstellungen."
+      ],
+      "source_ids": [
+        "GS-01",
+        "GS-02",
+        "GS-03",
+        "GS-04",
+        "GS-05",
+        "GS-06",
+        "GS-07",
+        "GS-08",
+        "GS-09",
+        "GS-10",
+        "GS-11",
+        "GS-12",
+        "GS-13",
+        "GS-14",
+        "GS-15",
+        "GS-16",
+        "GS-17",
+        "GS-18",
+        "GS-GmbHG48",
+        "GS-GmbHG53",
+        "GS-GmbHG51b",
+        "GS-AktG132",
+        "GS-GmbHG16",
+        "GS-GmbHG30",
+        "GS-InsO135"
+      ],
+      "issues": [
+        "Historische PDF-Fassung war nicht deutlich genug von aktuellen Quellen getrennt; Kennzeichnung und konkrete Nachprüfung ergänzt."
+      ],
+      "finding": "Historische PDF-Fassung war nicht deutlich genug von aktuellen Quellen getrennt; Kennzeichnung und konkrete Nachprüfung ergänzt.",
+      "navigation_only_revision_history": [
+        {
+          "date": "2026-11-15",
+          "method": "exact_metadata_delta_review",
+          "previous_review": {
+            "path": "quality/source-audits/2026-11-14-nachpruefung/completed/gesellschafterstreit.json",
+            "sha256": "611e02d022ad6ba490094bb698b35c612f975bf54cbb7936116fde507b1262be"
+          },
+          "before_sha256": "1833337bf2c4a0fb9787e1c55d5bdb5cfbc5546b1fbc0f0efdea47bfad566af8",
+          "after_sha256": "1987ad22bbfe65e1db9f8ff4f668db65fe9b1c7783d4f0c8a9631099c317a205",
+          "scope": "Ausschließlich die aktuelle Marketplace-Anzahl 315 → 311 in den beiden Navigationshinweisen. Vollständiger Bytevergleich belegt: sämtliche übrigen Inhalte unverändert. Historische vollständige Fachprüfung und Quellenprüfdaten werden unverändert übernommen, nicht erneuert.",
+          "model_execution": "not_run"
+        }
+      ],
+      "navigation_only_revision": {
+        "date": "2026-11-18",
+        "method": "exact_metadata_delta_review",
+        "previous_review": {
+          "path": "quality/plugin-consolidation/2026-11-15/navigation-reviews/gesellschafterstreit.json",
+          "sha256": "7e714b9076bbe12602678f1a78716a407e9bfe1ff14028347d6bb26d05deadb7"
+        },
+        "before_sha256": "1987ad22bbfe65e1db9f8ff4f668db65fe9b1c7783d4f0c8a9631099c317a205",
+        "after_sha256": "8fe4e236ee69c87c550cb58fd1b198e99b8c6cb5fdfb6082efe4247e933b62ff",
+        "scope": "Ausschließlich Marketplace-Zähler 311 zu 312. Vollständiger Bytevergleich; historische fachliche Vollprüfung unverändert übernommen, nicht erneut behauptet.",
+        "model_execution": "not_run"
+      }
+    },
+    {
+      "path": "gesellschafterstreit/gesellschafterstreit-schnellstart.md",
+      "before_sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
+      "reviewed_sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
+      "full_file_read": true,
+      "read_method": "Vollständige fortlaufende Textlektüre; lange Werkstätten in lückenlosen Teilabschnitten, danach Änderungen und Quellenpassagen nachgelesen.",
+      "bytes": 7321,
+      "lines": 43,
+      "result": "retained",
+      "checked_points": [
+        "Mini vollständig gelesen; eigenständiger Auftrag, Aktenstand, Beschlussprüfung, Kapital, Abberufung, Leaver, Wettbewerb, Darlehen, Dokumentproduktion und Fortsetzung.",
+        "§ 48 Abs. 2 aktuelle Textform und konkrete Satzungsabweichung; § 53 Abs. 2 Mehrheit, Abs. 3 Beurkundung, Abs. 4 Mehrbelastung stimmen mit aktuellen amtlichen Normen überein.",
+        "Quoten/Mehrheitsnenner, wichtiger Grund und Stimmverbote je TOP; kein abstrakter Lagerausschluss. BGH-Monatsmaßstab nicht als gesetzliche Universalfrist dargestellt.",
+        "Drei 2026-Anker GS-16 bis GS-18 direkt frisch geladen und die konkret genannten Randnummern gelesen: Satzungsabhängigkeit, Feststellungsinteresse trotz positiver Liste sowie getrennte Klausel-/Preis-/Ausübungskontrolle bestätigt.",
+        "§ 16 Abs. 3-Widerspruch nicht mit Mitgliedschaftsausübung verwechselt; § 30-Ausnahme für echte Gesellschafterdarlehensrückgewähr nicht zur insolvenzrechtlichen Zahlungsfreigabe gemacht.",
+        "7.321 UTF-8-Bytes; inhaltlich unverändert belassen. Bestehendes MD/TXT-Paar ist identisch; keine Kürzung oder zusätzliche Skills."
+      ],
+      "source_ids": [
+        "GS-16",
+        "GS-17",
+        "GS-18",
+        "GS-GmbHG48",
+        "GS-GmbHG53",
+        "GS-GmbHG16",
+        "GS-GmbHG30"
+      ],
+      "issues": [],
+      "finding": "Mini vollständig gelesen; eigenständiger Auftrag, Aktenstand, Beschlussprüfung, Kapital, Abberufung, Leaver, Wettbewerb, Darlehen, Dokumentproduktion und Fortsetzung. § 48 Abs. 2 aktuelle Textform und konkrete Satzungsabweichung; § 53 Abs. 2 Mehrheit, Abs. 3 Beurkundung, Abs. 4 Mehrbelastung stimmen mit aktuellen amtlichen Normen überein. Quoten/Mehrheitsnenner, wichtiger Grund und Stimmverbote je TOP; kein abstrakter Lagerausschluss. BGH-Monatsmaßstab nicht als gesetzliche Universalfrist dargestellt. Drei 2026-Anker GS-16 bis GS-18 direkt frisch geladen und die konkret genannten Randnummern gelesen: Satzungsabhängigkeit, Feststellungsinteresse trotz positiver Liste sowie getrennte Klausel-/Preis-/Ausübungskontrolle bestätigt. § 16 Abs. 3-Widerspruch nicht mit Mitgliedschaftsausübung verwechselt; § 30-Ausnahme für echte Gesellschafterdarlehensrückgewähr nicht zur insolvenzrechtlichen Zahlungsfreigabe gemacht. 7.321 UTF-8-Bytes; inhaltlich unverändert belassen. Bestehendes MD/TXT-Paar ist identisch; keine Kürzung oder zusätzliche Skills."
+    },
+    {
+      "path": "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+      "before_sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
+      "reviewed_sha256": "9c6d16d91c4e8925af24ff63946a057f5a92f8f7ea4fdf79b71c1b624c926d8a",
+      "full_file_read": true,
+      "read_method": "Vollständige fortlaufende Textlektüre; lange Werkstätten in lückenlosen Teilabschnitten, danach Änderungen und Quellenpassagen nachgelesen.",
+      "bytes": 108195,
+      "lines": 547,
+      "result": "retained",
+      "checked_points": [
+        "Alle 547 Zeilen einschließlich kompletter 18-Anker-Sektion, Beispieldialoge, Fallwege, Anträge und Visualisierungsanleitung vollständig fortlaufend gelesen. Verfahrenswahl, Beschlusslogik und Finanzierung/Wettbewerb als Kontext nachgelesen.",
+        "Alle GS-01 bis GS-18 am 14.11.2026 im öffentlichen Direktabruf HTTP200/PDF; SHA256 jeweils identisch mit den archivierten amtlichen Originalen. Die im Prompt benannten tragenden Randnummern bzw. bei GS-13 Originalseiten 7–11 erneut gelesen.",
+        "Liste, materielle Mitgliedschaft, Ladung jeder Gesellschaft und fehlende automatische Registersperre getrennt; GS-01/07/08/17 tragen die konkreten begrenzten Aussagen.",
+        "Beschlussverfahren, allseitiges Verfahrenseinverständnis, Sachstimme, Satzungsmehrheit, Enthaltung und verbindliche Feststellung getrennt. Gegenrechnung 50 Ja/25 Nein/25 Enthaltung = 50/75 unter 75 Prozent; bei rechtlich begründetem Ausschluss der Nein-Stimmen 50/50.",
+        "Abberufung/Anstellung und gerichtlicher Nachweis wichtigen Grunds getrennt; gemeinschaftliche Pflichtverletzung nach GS-14 nicht mit andersartigem Aufsichtsversäumnis nach GS-15 verwechselt. Gesellschaftsanspruch/actio pro socio nach GS-04/06 subsidiär und korrekt zugeordnet.",
+        "Abfindungswert, buchwertbezogene Kapitaldeckung und Liquidität getrennt. GS-06/09 erfassen fehlende freie Mittel; stille Reserven nicht ungeprüft als § 30-Deckung. Wirksame Ausstattung benötigt Vertrag/Werthaltigkeit.",
+        "GS-02: Geldhingabe/Fremdschuldtilgung versus Austauschforderung; keine Mindestlaufzeit bei echtem Darlehen und keine Dreimonatsfreigrenze für jede Rückzahlung. § 135 Abs. 1 Nr. 2/§ 39 InsO von § 30 Abs. 1 Satz 3 getrennt.",
+        "GS-05 zu Geschäftsführerwettbewerb nicht als entschiedene AGB-Kontrolle ausgegeben; GS-18 zu Managementbeteiligung verlangt Gesamtwürdigung und getrennte Kontrolle von Hinauskündigung, Preis und konkreter Ausübung.",
+        "GS-13 nur als historische Originalentscheidung mit Seitenfundstelle, nicht mit erfundenen amtlichen Randnummern; damalige § 55-Einanteilsregel nicht auf heutige Kapitalerhöhung übertragen.",
+        "§ 51b GmbHG verweist nicht auf § 132 Abs. 2 AktG: keine erfundene Zweiwochenfrist. Hauptsache-/Eilanträge, Gegenpartei, Prozessvertretung, Vollziehung und Geheimnisschutz konkret und differenziert.",
+        "Kein materieller Fehler im geprüften Text festgestellt; vollständiger Inhalt und bestehendes MD/TXT-Paar unverändert erhalten. Kein Anspruch auf neu durchgeführte Live-Modellprobe oder vollständige externe Rechtsprechungserfassung."
+      ],
+      "source_ids": [
+        "GS-01",
+        "GS-02",
+        "GS-03",
+        "GS-04",
+        "GS-05",
+        "GS-06",
+        "GS-07",
+        "GS-08",
+        "GS-09",
+        "GS-10",
+        "GS-11",
+        "GS-12",
+        "GS-13",
+        "GS-14",
+        "GS-15",
+        "GS-16",
+        "GS-17",
+        "GS-18",
+        "GS-GmbHG48",
+        "GS-GmbHG53",
+        "GS-GmbHG51b",
+        "GS-AktG132",
+        "GS-GmbHG16",
+        "GS-GmbHG30",
+        "GS-InsO135"
+      ],
+      "issues": [],
+      "finding": "Alle 547 Zeilen einschließlich kompletter 18-Anker-Sektion, Beispieldialoge, Fallwege, Anträge und Visualisierungsanleitung vollständig fortlaufend gelesen. Verfahrenswahl, Beschlusslogik und Finanzierung/Wettbewerb als Kontext nachgelesen. Alle GS-01 bis GS-18 am 14.11.2026 im öffentlichen Direktabruf HTTP200/PDF; SHA256 jeweils identisch mit den archivierten amtlichen Originalen. Die im Prompt benannten tragenden Randnummern bzw. bei GS-13 Originalseiten 7–11 erneut gelesen. Liste, materielle Mitgliedschaft, Ladung jeder Gesellschaft und fehlende automatische Registersperre getrennt; GS-01/07/08/17 tragen die konkreten begrenzten Aussagen. Beschlussverfahren, allseitiges Verfahrenseinverständnis, Sachstimme, Satzungsmehrheit, Enthaltung und verbindliche Feststellung getrennt. Gegenrechnung 50 Ja/25 Nein/25 Enthaltung = 50/75 unter 75 Prozent; bei rechtlich begründetem Ausschluss der Nein-Stimmen 50/50. Abberufung/Anstellung und gerichtlicher Nachweis wichtigen Grunds getrennt; gemeinschaftliche Pflichtverletzung nach GS-14 nicht mit andersartigem Aufsichtsversäumnis nach GS-15 verwechselt. Gesellschaftsanspruch/actio pro socio nach GS-04/06 subsidiär und korrekt zugeordnet. Abfindungswert, buchwertbezogene Kapitaldeckung und Liquidität getrennt. GS-06/09 erfassen fehlende freie Mittel; stille Reserven nicht ungeprüft als § 30-Deckung. Wirksame Ausstattung benötigt Vertrag/Werthaltigkeit. GS-02: Geldhingabe/Fremdschuldtilgung versus Austauschforderung; keine Mindestlaufzeit bei echtem Darlehen und keine Dreimonatsfreigrenze für jede Rückzahlung. § 135 Abs. 1 Nr. 2/§ 39 InsO von § 30 Abs. 1 Satz 3 getrennt. GS-05 zu Geschäftsführerwettbewerb nicht als entschiedene AGB-Kontrolle ausgegeben; GS-18 zu Managementbeteiligung verlangt Gesamtwürdigung und getrennte Kontrolle von Hinauskündigung, Preis und konkreter Ausübung. GS-13 nur als historische Originalentscheidung mit Seitenfundstelle, nicht mit erfundenen amtlichen Randnummern; damalige § 55-Einanteilsregel nicht auf heutige Kapitalerhöhung übertragen. § 51b GmbHG verweist nicht auf § 132 Abs. 2 AktG: keine erfundene Zweiwochenfrist. Hauptsache-/Eilanträge, Gegenpartei, Prozessvertretung, Vollziehung und Geheimnisschutz konkret und differenziert. Kein materieller Fehler im geprüften Text festgestellt; vollständiger Inhalt und bestehendes MD/TXT-Paar unverändert erhalten. Kein Anspruch auf neu durchgeführte Live-Modellprobe oder vollständige externe Rechtsprechungserfassung."
+    }
+  ],
+  "reports": {
+    "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.md": "8f7dcedf03beccfcfac3895bfb23a9d4143e4f43461640f6fce3c964268139e8",
+    "quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.json": "26e0c042879f2bf9e8e18c277831d4a28070a9bd676c104241eb9a78fa93421c",
+    "quality/source-audits/2026-11-14-nachpruefung/baseline.json": "3c9567b52965ea6abe0376b5e9d3f0a936165a702a668f8be0c9e672ccda341f",
+    "quality/source-audits/2026-11-14-nachpruefung/historical-profiles/gesellschafterstreit.json": "6eaa032b25c02ae96cdab58d7fa87ef5f8fc5957ac0ffb4bafafce60191a8942",
+    "quality/source-audits/2026-11-18-issues/navigation.json": "7fae8e4957bab21088518a90283c57323a01584c5a85e1d7543f1e8579ce4143"
+  },
+  "date_timezone": "UTC",
+  "integration_date_local": "2026-11-15",
+  "integration_timezone": "Europe/Berlin",
+  "navigation_only_revision": {
+    "date": "2026-11-15",
+    "method": "exact_metadata_delta_review",
+    "previous_review": {
+      "path": "quality/source-audits/2026-11-14-nachpruefung/completed/gesellschafterstreit.json",
+      "sha256": "611e02d022ad6ba490094bb698b35c612f975bf54cbb7936116fde507b1262be"
+    },
+    "before_sha256": "1833337bf2c4a0fb9787e1c55d5bdb5cfbc5546b1fbc0f0efdea47bfad566af8",
+    "after_sha256": "1987ad22bbfe65e1db9f8ff4f668db65fe9b1c7783d4f0c8a9631099c317a205",
+    "scope": "Ausschließlich die aktuelle Marketplace-Anzahl 315 → 311 in den beiden Navigationshinweisen. Vollständiger Bytevergleich belegt: sämtliche übrigen Inhalte unverändert. Historische vollständige Fachprüfung und Quellenprüfdaten werden unverändert übernommen, nicht erneuert.",
+    "model_execution": "not_run"
+  }
+}

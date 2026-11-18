@@ -1,27 +1,36 @@
 ---
 name: backup-datenverlust
-description: "Für Backup Datenverlust: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Backup-Pflichten, Rücksicherung und Haftung für Datenverlust. Ordnet Verantwortlichkeit und Mitverschulden anhand konkreter Belege und formuliert passende Ersatzklauseln.
 ---
 
-# Backup Datenverlust
+# Datensicherung und Datenverlust regeln
 
-## Fachkern: Backup Datenverlust
+## 1. Zweck und Anwendungsfall
 
-- **Klauselproblem (Backup Datenverlust):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+Prüfe, wer welche Daten sichern und wiederherstellen muss und welche Folgen ein Ausfall hat. Ein vorhandenes Backup belegt weder dessen Vollständigkeit noch seine Wiederherstellbarkeit.
 
-## Prüfpfad
+## 2. Eingaben
 
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Backup Datenverlust besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+Vertrag, Datenkategorien, Sicherungsplan, Aufbewahrungsfristen, Schlüsselverwaltung, Protokolle erfolgreicher und fehlgeschlagener Backups, Rücksicherungstests, Schadensablauf und zugesagte Wiederanlaufzeiten.
 
-## Quellenanker
+## 3. Ablauf und Checkliste
 
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+Lies die vorhandenen Unterlagen vor Rückfragen. Bestimme AGB-Eigenschaft, Einbeziehung, Individualabreden und Kundengruppe. Prüfe die konkrete Klausel nach §§ 305 bis 310 BGB; § 309 gilt im unternehmerischen Verkehr nicht unmittelbar. Trenne Leistungsbeschreibung, Leistungsänderung, Haftung und Rechtsfolgen einer unwirksamen Klausel. Ein schlechter Preis allein macht keine Klausel unwirksam.
+
+1. Bestimme den geschuldeten Sicherungsumfang: Produktivdaten, Konfiguration, Metadaten, Protokolle und Schlüssel. Trenne Sicherungstakt, zulässigen Datenverlust seit letzter Sicherung und Wiederherstellungsdauer. Technische Zielwerte nicht ohne Vertrag als garantierte Beschaffenheit darstellen.
+2. Ordne Infrastruktur, Sicherungsdurchführung, Kontrolle und Rücksicherung einzelnen Beteiligten zu. Eine Pflicht des Kunden zur eigenen Sicherung muss tatsächlich erfüllbar sein; ein gesperrter Exportzugang ist mitzuberücksichtigen. Bei einem Datenverarbeitungsdienst ergänze Kapitel VI Data Act, insbesondere Artikel 25, 29 und 30. Migrationsexport und Notfallsicherung bleiben verschiedene Leistungen.
+3. Prüfe Kausalität und Schaden anhand von Logs, Wiederherstellungsversuchen und ersetzbaren Daten. Trenne Rekonstruktionskosten, Ausfall und weitere Folgeschäden. Eine Tabelle ohne Herkunftsnachweis ersetzt keinen Schadensbeleg.
+4. Prüfe Haftungsausschlüsse nach § 309 Nummer 7 beziehungsweise § 307 BGB und Beweislastklauseln nach dem einschlägigen AGB-Regime. Eine Begrenzung auf den Wiederherstellungsaufwand bei ordnungsgemäßer Sicherung darf nicht pauschal als stets wirksam übernommen werden. Vertragliche Sicherungspflicht, Verschuldensgrad und typische Schäden begründen die Einzelfallprüfung.
+5. Prüfe Mitverschulden nach § 254 BGB konkret: War eine Kundensicherung möglich, zumutbar und zur Schadensvermeidung geeignet? Fehlende Sicherung führt nicht automatisch zum vollständigen Anspruchsverlust. Löschung, Aufbewahrung und Zugang nach Vertragsende mit Datenschutz und Exportrecht abstimmen.
+
+## 4. Quellenpflicht
+
+Nutze die [amtlichen Quellen für digitale AGB](../../references/digitaldienste-data-act-ki.md) und die dort bezeichneten Normen. Prüfe die für Vertragsdatum, Kundengruppe und Diensttyp geltende Fassung. Fehlenden Quellenzugriff ausdrücklich benennen und weder Rechtsprechung noch eine pauschale Freigabe behaupten.
+
+## 5. Ausgabeformat
+
+Liefere eine begründete Klauselbewertung mit Originalwortlaut, tragender Norm, stärkstem Gegenargument und vollständig ausformulierter Ersatzfassung. Kennzeichne Tatsachenlücken und verhandelbare Varianten. Für Empfänger bestimmte Texte enthalten keine internen Arbeitsanweisungen; DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Eine nicht erfolgte technische Prüfung oder gerichtliche Bestätigung nicht behaupten.
+
+## 6. Beispiel
+
+Ein Anbieter löscht bei einer Migration die Produktivdaten. Er verweist auf eine Kundensicherung, die über die von ihm gesperrte Schnittstelle hätte erfolgen sollen. Prüfe Pflichten, technische Möglichkeit, Kausalität und Mitverschulden getrennt und entwerfe eine durchführbare Sicherungsregelung.

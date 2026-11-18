@@ -2796,6 +2796,15 @@
       "theme": "vollstreckung",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Zwangsvollstreckung – Kommandocenter“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
+    },
+    "jugendmedienschutz-und-medienangebote": {
+      "entry_skills": [
+        "medienangebot-pruefen"
+      ],
+      "theme": "digitalplattform",
+      "mode": "prompt",
+      "rationale": "Eigene Inhalte, KI-Szenarien, öffentliche Beiträge und private Kommunikation anhand einer Funktionskarte bis zum begründeten Empfängertext prüfen.",
+      "plain_labels": true
     }
   }
 }

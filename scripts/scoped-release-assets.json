@@ -207,12 +207,12 @@
     "ki-verordnung-register-meldungen.zip": "ki-verordnung-v445.35.2",
     "ki-verordnung-transparenzpruefer.zip": "ki-verordnung-v445.35.2",
     "ki-verordnung-verbotene-praktiken.zip": "ki-verordnung-v445.35.2",
-    "ki-vo-ai-act-pruefer.zip": "qualitaetsrunde-v445.36.0",
+    "ki-vo-ai-act-pruefer.zip": "qualitaetsrunde-v445.36.7",
     "markenrecht-fashion-luxus.zip": "qualitaetsrunde-v445.36.0",
     "mittelstand-corporate-ma.zip": "qualitaetsrunde-v445.36.0",
     "produktrecht.zip": "qualitaetsrunde-v445.36.0",
     "regulatorisches-recht.zip": "qualitaetsrunde-v445.36.0",
-    "robotik-recht.zip": "qualitaetsrunde-v445.36.0",
+    "robotik-recht.zip": "qualitaetsrunde-v445.36.7",
     "startup-gruender.zip": "ki-verordnung-v445.35.2",
     "steuerrecht-anwalt-und-berater.zip": "qualitaetsrunde-v445.36.0",
     "subsumtions-pruefer.zip": "qualitaetsrunde-v445.36.0",
@@ -1083,7 +1083,7 @@
     "testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt-einzelpdfs.zip": "grundakten-ergaenzung-v1.0.0",
     "testakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg.zip": "insolvenz-arbeitsakten-v1.0.0",
     "testakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg-einzelpdfs.zip": "insolvenz-arbeitsakten-v1.0.0",
-    "agb-recht-pruefer.zip": "qualitaetsrunde-v445.36.0",
+    "agb-recht-pruefer.zip": "qualitaetsrunde-v445.36.7",
     "aktenaufbereiter-strafrecht.zip": "qualitaetsrunde-v445.36.0",
     "aktenauszug-gerichtsverfahren.zip": "qualitaetsrunde-v445.36.0",
     "aktienrecht-hauptversammlung-ag-se.zip": "qualitaetsrunde-v445.36.0",
@@ -1593,6 +1593,8 @@
     "testakte-zwangsverwaltung-friedrichshoefe-berlin-einzelpdfs.zip": "akten-2-v445.35.3",
     "testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse-einzelpdfs.zip": "akten-2-v445.35.3",
     "testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau-einzelpdfs.zip": "akten-2-v445.35.3",
-    "testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde-einzelpdfs.zip": "akten-2-v445.35.3"
+    "testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde-einzelpdfs.zip": "akten-2-v445.35.3",
+    "jugendmedienschutz-und-medienangebote.zip": "qualitaetsrunde-v445.36.7",
+    "jugendmedienschutz-und-medienangebote-portable.zip": "qualitaetsrunde-v445.36.7"
   }
 }

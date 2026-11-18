@@ -161,5 +161,28 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "reviewed_file_hashes": {
+    "robotik-recht/skills/cra-produkt-lager-intralogistikflotte/FACHINHALT.md": "731f97f0cca66316f4c17aea643de05d855b25281161068e08f42c541f77bd0c",
+    "robotik-recht/skills/cra-produkt-mit-digitalen-elementen/FACHINHALT.md": "add2bf9cd1edb854ad4ff4e5b3376b7340907a11b7666e6b8001ebb43c06a6b6"
+  },
+  "issue_followup_2026_11_18": {
+    "date": "2026-11-18",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "report": "quality/source-audits/2026-11-18-issues/ki-daten.md",
+    "report_sha256": "31ba10543a31b5c7dc29e1d70766b77f03fe7807230f1bc9f9b1041df59cac7f",
+    "files": {
+      "robotik-recht/skills/cra-produkt-lager-intralogistikflotte/FACHINHALT.md": {
+        "before_sha256": "4005b2bffd3b3dfc9ab76a5766387c3f199e901b301148be3d350b218a411eb6",
+        "reviewed_sha256": "731f97f0cca66316f4c17aea643de05d855b25281161068e08f42c541f77bd0c",
+        "full_file_read": true
+      },
+      "robotik-recht/skills/cra-produkt-mit-digitalen-elementen/FACHINHALT.md": {
+        "before_sha256": "ba0beffeb0e25f568a9afd5ab7c746debdd14be15f34665786dd0479bd13595c",
+        "reviewed_sha256": "add2bf9cd1edb854ad4ff4e5b3376b7340907a11b7666e6b8001ebb43c06a6b6",
+        "full_file_read": true
+      }
+    },
+    "limits": "Nur die bezeichneten Fachmodule und Quellenergänzungen; kein neuer vollständiger Prompt-Review, keine gesamte Rechtsprechungsprüfung und kein Live-Modelltest. Historische Reviews und ihre Daten unverändert."
   }
 }
