@@ -58,14 +58,14 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Steuerrecht](#steuerrecht) | 4 |
 | [Strafrecht](#strafrecht) | 10 |
 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 5 |
-| [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
+| [Urheber- und Medienrecht](#urheber--und-medienrecht) | 6 |
 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
 | [Vergaberecht](#vergaberecht) | 10 |
 | [Verkehrsrecht](#verkehrsrecht) | 3 |
 | [Versicherungsrecht](#versicherungsrecht) | 4 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-275 kuratierte Plugins in 34 Kategorien, aus insgesamt 311 Marketplace-Plugins (Abgleich: 13. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
+276 kuratierte Plugins in 34 Kategorien, aus insgesamt 312 Marketplace-Plugins (Abgleich: 18. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
 
 ## Agrarrecht
 
@@ -371,6 +371,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 ## Urheber- und Medienrecht
 
 - [fachanwalt-urheber-medienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht): Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md)
+- [jugendmedienschutz-und-medienangebote](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jugendmedienschutz-und-medienangebote): Browsergames, Chats, Nutzerbeiträge und KI-Szenarien nach JuSchG, JMStV und MStV prüfen: Alterskennzeichnung, Zugangsschutz, Moderation, Datenschutz und Aufsicht führen vom Produktstand zum begründeten Freigabevermerk oder Schreiben. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jugendmedienschutz-und-medienangebote/jugendmedienschutz-und-medienangebote-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jugendmedienschutz-und-medienangebote/jugendmedienschutz-und-medienangebote-werkstatt.md)
 - [urheberrecht-de-eu](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urheberrecht-de-eu): Deutsches und EU-Urheberrecht für Werkhöhe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md)
 - [us-copyright-registrierung-verlag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/us-copyright-registrierung-verlag): US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-werkstatt.md)
 - [verlagsrecht-buchpreisbindung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsrecht-buchpreisbindung): Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md)
