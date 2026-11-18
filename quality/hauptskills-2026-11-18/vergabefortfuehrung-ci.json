@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "method": "procurement_entrypoint_ci_followup",
+  "date": "2026-11-18",
+  "baseline_commit": "8c4f6ab0afaf3342d68ee1142fffc178dc584f13",
+  "previous_prompt_revision": "quality/hauptskills-2026-11-18/vergabeprompt-fortschreibung.json",
+  "previous_prompt_revision_sha256": "2c0be1ca94535986d6dc8f8f97bc36ad93b0c80ec6dd150c82a325eebaacb7f9",
+  "previous_main_registry": "quality/hauptskills-2026-11-18/revisionen.json",
+  "previous_main_registry_sha256": "06dd2b55c8ec8a859708381cd8dd04e211ff99435f594b6872e7c8d61ee2b1d3",
+  "scope": "Gezielte redaktionelle Nachführung der drei Dateieinstiege und dreier Normschreibweisen; keine Änderung der tragenden Rechtsaussagen oder Quellenstatus. Drei Megaprompts unverändert deterministisch generiert. Drei Referenznavigationen ergänzt. Kein neuer Fachquellenabruf und kein Live-Modelltest. Historische Prüfbelege und ihre Archive bleiben unverändert.",
+  "files": [
+    {
+      "plugin": "vergabestelle-behoerden",
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md",
+      "kind": "main_skill",
+      "before_sha256": "b86cc90c955bd3849479f47998210a616c2d41d80c1b2ac6f111e9a06880e4ef",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md.gz",
+      "before_snapshot_sha256": "712ac469f8b89bb2d3f5e777e9b1cd581ad2fe1c4cd3fe119343b6ef70800833",
+      "after_sha256": "381f1a817cfb4b3464094f2f5d6238013cb706eb5e8dae1ad943606179c94345",
+      "changes": [
+        "Beschreibung benennt Ordner, ZIP und Bearbeitung ohne Skillwahl sowie das konkrete Ergebnis der jeweiligen Marktrolle.",
+        "Erster Arbeitsabsatz verbindet den automatischen Dateieinstieg mit den vorhandenen Antworten und dem fortzuführenden Arbeitsprodukt."
+      ],
+      "scenario": {
+        "input": "Neuer Vergabestellenfall als Ordner mit Bekanntmachung, LV, Bieterfragen und Fristbelegen; bitte Vermerk und Antwort fertigstellen.",
+        "expected_result": "Der Hauptskill beginnt ohne vorgeschaltete Skillwahl, übernimmt belegte Angaben und führt die erforderlichen Fachprüfungen in das bestellte Dokument zurück.",
+        "new_information": "Ein zusätzlicher Zugangsbeleg oder eine fachliche Antwort wird in denselben Entwurf und die betroffene Frist- beziehungsweise Belegbewertung eingearbeitet."
+      }
+    },
+    {
+      "plugin": "vergabestelle-behoerden",
+      "path": "vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md",
+      "kind": "generated_megaprompt",
+      "before_sha256": "20619936d77627292b722eff8677ef6ce325c8efcf557ad0e63d263dd68f9afc",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md.gz",
+      "before_snapshot_sha256": "79f904664ba9476c56256057be5b5e3a919d1e0e15417bb26226aa0cccbfda72",
+      "after_sha256": "ef26ba4f1d7c27a8130553ed708cb9211a9983fd164aac852cffef17427ea12f",
+      "generator": "vergaberecht-werkstatt/scripts/generate-megaprompt.py",
+      "generator_sha256": "981523944d74d833e53526611985b7b642a124e62db9db1f5613bac184b0909e",
+      "changes": [
+        "Vorhandenen Generator ohne Codeänderung aus den drei präzisierten Hauptskills erneut ausgeführt; reproduzierbare Promptfassung."
+      ]
+    },
+    {
+      "plugin": "vergabestelle-behoerden",
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/README.md",
+      "kind": "readme_navigation",
+      "before_sha256": "ccd8226cf4fd67e48f580cb2b170590fbaeb47c3d45bae7d3c4c47654b4d0e4a",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/vergabestelle-behoerden/README.md.gz",
+      "before_snapshot_sha256": "6fe29af0c859bfeefaca5a89322b4da3ba65b55a034776cf1bf38b365c00d0d8",
+      "after_sha256": "be799a0f728502b2df4ffb3fb12d74071f613ba082e1c54a0b21a549d235cc55",
+      "changes": [
+        "Bestehende lokale Arbeits- und Quellenkarte in der Referenztabelle mit Ansichts- und Raw-Link ergänzt; Dateizahl um eins berichtigt."
+      ]
+    },
+    {
+      "plugin": "bieter-unternehmen",
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md",
+      "kind": "main_skill",
+      "before_sha256": "ef9cf30656b524c19992508deca11125829283bfaff69f41cf8666401a267de2",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md.gz",
+      "before_snapshot_sha256": "5ccf91c7b7a839ac3ca6c47ec8f5ce4329cfcd107203c534ae56c1443ccfe5a6",
+      "after_sha256": "cd4d7522bdb785bd8d6bd4e7b3710e86c9150a2f6a9f95eec43a686060891eb4",
+      "changes": [
+        "Beschreibung benennt Ordner, ZIP und Bearbeitung ohne Skillwahl sowie das konkrete Ergebnis der jeweiligen Marktrolle.",
+        "Erster Arbeitsabsatz verbindet den automatischen Dateieinstieg mit den vorhandenen Antworten und dem fortzuführenden Arbeitsprodukt.",
+        "Sichtbare Normzitate als § 60 VgV beziehungsweise § 160 GWB geschrieben; Quellenstatus und Grenzen unverändert."
+      ],
+      "scenario": {
+        "input": "Neuer Angebotsfall als ZIP mit LV, Eignungsnachweisen und Preisaufklärungsfrage; bitte eine vollständige Aufklärungsantwort erstellen.",
+        "expected_result": "Der Hauptskill beginnt ohne vorgeschaltete Skillwahl, übernimmt belegte Angaben und führt die erforderlichen Fachprüfungen in das bestellte Dokument zurück.",
+        "new_information": "Ein zusätzlicher Zugangsbeleg oder eine fachliche Antwort wird in denselben Entwurf und die betroffene Frist- beziehungsweise Belegbewertung eingearbeitet."
+      }
+    },
+    {
+      "plugin": "bieter-unternehmen",
+      "path": "vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md",
+      "kind": "generated_megaprompt",
+      "before_sha256": "e07045415b74c24057db938d40d4bed7b0823dc4cb004a5ae5255722f9523266",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md.gz",
+      "before_snapshot_sha256": "b988f51fbd43a7c13d47dcce1475912f9a5f7aa55d727571f9ffa46a0a1c1eba",
+      "after_sha256": "b583693b16bfcb2e4fc2d9990d9d107bc50fbba751a7522fde57ca3b1c8e490e",
+      "generator": "vergaberecht-werkstatt/scripts/generate-megaprompt.py",
+      "generator_sha256": "981523944d74d833e53526611985b7b642a124e62db9db1f5613bac184b0909e",
+      "changes": [
+        "Vorhandenen Generator ohne Codeänderung aus den drei präzisierten Hauptskills erneut ausgeführt; reproduzierbare Promptfassung."
+      ]
+    },
+    {
+      "plugin": "bieter-unternehmen",
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/README.md",
+      "kind": "readme_navigation",
+      "before_sha256": "905ba556c27741c1617a5aa2123e7511b5f51b3ff91c826c46123b64f0916c0a",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/bieter-unternehmen/README.md.gz",
+      "before_snapshot_sha256": "ec2e35d85560ad95ef2f82654e311b217953b066cdbb17fd54a46770d6d44dcb",
+      "after_sha256": "74db0b45d46f7523af40a406001a6774189a98a304a836ae67fe95fc9a4d3116",
+      "changes": [
+        "Bestehende lokale Arbeits- und Quellenkarte in der Referenztabelle mit Ansichts- und Raw-Link ergänzt; Dateizahl um eins berichtigt."
+      ]
+    },
+    {
+      "plugin": "konkurrenten-rechtsschutz",
+      "path": "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/konkurrenzrechtsschutz-orchestrator/SKILL.md",
+      "kind": "main_skill",
+      "before_sha256": "a7944dc0b05b77f58e52da5dd496127afc349427fea50759ff9547479a3714cb",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/konkurrenzrechtsschutz-orchestrator/SKILL.md.gz",
+      "before_snapshot_sha256": "f7781861b577605d808a8c0f426c004805c477deced2514e76af9148e1680c12",
+      "after_sha256": "eeb4ea3c7e29bb9c23808024bb800bb72fae21a1741496db36922e78941516ee",
+      "changes": [
+        "Beschreibung benennt Ordner, ZIP und Bearbeitung ohne Skillwahl sowie das konkrete Ergebnis der jeweiligen Marktrolle.",
+        "Erster Arbeitsabsatz verbindet den automatischen Dateieinstieg mit den vorhandenen Antworten und dem fortzuführenden Arbeitsprodukt.",
+        "Sichtbare Normzitate als § 60 VgV beziehungsweise § 160 GWB geschrieben; Quellenstatus und Grenzen unverändert."
+      ],
+      "scenario": {
+        "input": "Akteneinsichtsexport als ZIP mit Vorabinformation und Rüge; bitte den erforderlichen fristgerechten Rechtsbehelf ausarbeiten.",
+        "expected_result": "Der Hauptskill beginnt ohne vorgeschaltete Skillwahl, übernimmt belegte Angaben und führt die erforderlichen Fachprüfungen in das bestellte Dokument zurück.",
+        "new_information": "Ein zusätzlicher Zugangsbeleg oder eine fachliche Antwort wird in denselben Entwurf und die betroffene Frist- beziehungsweise Belegbewertung eingearbeitet."
+      }
+    },
+    {
+      "plugin": "konkurrenten-rechtsschutz",
+      "path": "vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md",
+      "kind": "generated_megaprompt",
+      "before_sha256": "1698f68471af93bc295e044e6db6cbb874d4615713a0f95b195de34d93294954",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md.gz",
+      "before_snapshot_sha256": "ffda2e41f810805a3e69799273f15df3544eb1ae2f6e99c711a568df3f9c2293",
+      "after_sha256": "fece4882ee3a1ffa90116843fa0751a2cd0aac9b2b89047f0fe0573d77232c53",
+      "generator": "vergaberecht-werkstatt/scripts/generate-megaprompt.py",
+      "generator_sha256": "981523944d74d833e53526611985b7b642a124e62db9db1f5613bac184b0909e",
+      "changes": [
+        "Vorhandenen Generator ohne Codeänderung aus den drei präzisierten Hauptskills erneut ausgeführt; reproduzierbare Promptfassung."
+      ]
+    },
+    {
+      "plugin": "konkurrenten-rechtsschutz",
+      "path": "vergaberecht-werkstatt/konkurrenten-rechtsschutz/README.md",
+      "kind": "readme_navigation",
+      "before_sha256": "30ddef4a6e21396dcf50183489fb4f31cce30f535c9da6c7167fe8f60dafae12",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/vergaberecht-werkstatt/konkurrenten-rechtsschutz/README.md.gz",
+      "before_snapshot_sha256": "bb3459aa32c9c7e97622fbce734b73bf887c42672af4f82a1314282367042a7f",
+      "after_sha256": "4714113f5a7dd941122704001091c153e9a9c6e0a141a3ce3cc46931c517f505",
+      "changes": [
+        "Bestehende lokale Arbeits- und Quellenkarte in der Referenztabelle mit Ansichts- und Raw-Link ergänzt; Dateizahl um eins berichtigt."
+      ]
+    }
+  ],
+  "previous_main_registry_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/revisionen.json.gz",
+  "previous_main_registry_snapshot_sha256": "bde1437fa8fed561057bdfae90a711be23b0d17e2b2a773aa97c9d5673815264",
+  "previous_prompt_revision_snapshot": "quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/quality/hauptskills-2026-11-18/vergabeprompt-fortschreibung.json.gz",
+  "previous_prompt_revision_snapshot_sha256": "f7579d1deb373e5cd4f896b187397c254b0325856edd221704df7bb470584784"
+}

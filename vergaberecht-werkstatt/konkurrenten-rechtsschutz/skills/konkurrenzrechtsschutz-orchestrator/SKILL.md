@@ -1,6 +1,6 @@
 ---
 name: konkurrenzrechtsschutz-orchestrator
-description: "Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
+description: "Übernimmt Streitunterlagen als Ordner, ZIP oder Akteneinsichtsexport ohne Skillwahl. Sichert Kenntnis, Zugang und Fristen, prüft Antragsbefugnis und Vergabeverstoß und erstellt die begründete Rüge, den Nachprüfungsantrag oder die Beschwerde mit Belegen und Gegenargumenten."
 ---
 
 # Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag führen
@@ -11,7 +11,7 @@ description: "Konkurrenzrechtsschutz vom Vergabefehler zum wirksamen Antrag füh
 
 ## Fallführung bis zum fertigen Ergebnis
 
-Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+Einen Ordner, ein ZIP oder einen Akteneinsichtsexport selbständig für den beauftragten Konkurrentenrechtsschutz auswerten, ohne eine Skillwahl zu verlangen. Vorhandene Zugangsbelege, frühere Antworten und den bisherigen Entwurf übernehmen. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
 1. Bekanntmachung, eigene Angebotsunterlagen, Mitteilungen und Zugangsdaten auswerten; eigene Betroffenheit, erreichbaren Zuschlag und Verfahrensstand sichern.
 
@@ -215,9 +215,9 @@ Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quel
 
 - [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/jcms/jcms/p1_3865069/fr/): Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative. **Grenze:** Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.
 
-- [EuGH, Urteil vom 12.02.2004 – C-230/02](https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=CELEX%3A62002CJ0230): Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28–29,37–40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; heutige Paragraf 160 Prüfung bleibt.
+- [EuGH, Urteil vom 12.02.2004 – C-230/02](https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=CELEX%3A62002CJ0230): Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28–29,37–40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; die heutige Prüfung nach § 160 GWB bleibt erforderlich.
 
-- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an Paragraf 60 VgV abgeglichen.
+- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an § 60 VgV abgeglichen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

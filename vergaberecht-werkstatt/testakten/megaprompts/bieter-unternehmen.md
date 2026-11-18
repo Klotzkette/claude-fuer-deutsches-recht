@@ -68,7 +68,7 @@ Schwellenwerte 2026/2027 nicht als ungeordnete Verordnungsliste behandeln: Deleg
 
 Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten; weitere Pluginskills bleiben über das Routing erreichbar.
 
-- `vergabe-os-master-orchestrator`: Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen.
+- `vergabe-os-master-orchestrator`: Bearbeitet einen Angebotsfall aus Ordner, ZIP oder Portalexport ohne Skillwahl.
 - `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
 - `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`: Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, mögliche rote Frist und nächsten Output.
 - `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas`: Komplexe Bieterakte als Dashboard ordnen: Rollen, Fristen, Dokumente, Rügepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
@@ -92,7 +92,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Inhaltsverzeichnis
 
-1. `vergabe-os-master-orchestrator` - Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen - Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen.
+1. `vergabe-os-master-orchestrator` - Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen - Bearbeitet einen Angebotsfall aus Ordner, ZIP oder Portalexport ohne Skillwahl.
 2. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage für ein einzelnes Dokument oder eine konkrete Frage des Bieters: bestimmt Phase, rote Frist, Regime.
 3. `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing` - Einstieg und Routing - Orientiert Bewerber und Bieter ohne Unterlagen: klärt Rolle, Ziel, Phase, Auftraggeber- und Auftragsart, Regime.
 4. `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` - Bieter-Dashboard für den laufenden Vergabefall - Bieter-Dashboard aus vorhandener Vergabeakte erzeugen: verbindet Termine, Unterlagenstand, Angebotsaufgaben.
@@ -118,7 +118,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Arbeitsmodul: Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen
 
-_Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen._
+_Bearbeitet einen Angebotsfall aus Ordner, ZIP oder Portalexport ohne Skillwahl. Verbindet Abgabefrist, Eignung, Wertungslogik und Formatprüfung mit dem fertigen Angebotsschreiben, der Aufklärungsantwort oder Rüge; führt neue Angaben im selben Bieterprodukt fort._
 
 ### Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen
 

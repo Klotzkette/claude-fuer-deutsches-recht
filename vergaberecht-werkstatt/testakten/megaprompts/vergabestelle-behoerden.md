@@ -66,7 +66,7 @@ Schwellenwerte 2026/2027 nicht als ungeordnete Verordnungsliste behandeln: Deleg
 
 Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten; weitere Pluginskills bleiben über das Routing erreichbar.
 
-- `vergabe-os-master-orchestrator`: Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen.
+- `vergabe-os-master-orchestrator`: Übernimmt Vergabeakten als Ordner, ZIP oder Portalexport ohne Skillwahl. Führt die Vergabestelle von Bedarf und Verfahrensstand über Regime, Fristen und passende Fachprüfungen.
 - `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
 - `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`: Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, Zuständigkeit, mögliche rote Frist und nächsten Output.
 - `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel`: Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist, Nachprüfung, OLG-Beschwerde, Zuständigkeit und Sofortmaßnahme.
@@ -90,7 +90,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Inhaltsverzeichnis
 
-1. `vergabe-os-master-orchestrator` - Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen - Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen.
+1. `vergabe-os-master-orchestrator` - Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen - Übernimmt Vergabeakten als Ordner, ZIP oder Portalexport ohne Skillwahl. Führt die Vergabestelle von Bedarf.
 2. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage der Vergabestelle für ein einzelnes Dokument oder eine konkrete Frage: bestimmt Rolle, Phase.
 3. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing` - Einstieg und Routing - Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime.
 4. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` - Fristen- und Risikoampel - Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist.
@@ -116,7 +116,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Arbeitsmodul: Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen
 
-_Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen._
+_Übernimmt Vergabeakten als Ordner, ZIP oder Portalexport ohne Skillwahl. Führt die Vergabestelle von Bedarf und Verfahrensstand über Regime, Fristen und passende Fachprüfungen zum begründeten Vergabevermerk oder Bieterschreiben; arbeitet neue Belege in dasselbe Ergebnis ein._
 
 ### Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen
 

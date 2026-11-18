@@ -1,11 +1,13 @@
 from __future__ import annotations
 
 import importlib.util
+import json
 import sys
 import tempfile
 import unittest
 import zipfile
 from pathlib import Path
+from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
@@ -23,6 +25,34 @@ spec.loader.exec_module(public_validation)
 
 
 class PublicIntegrationTests(unittest.TestCase):
+    def test_mini_readme_keeps_import_edition_despite_marketplace_version_change(self):
+        original_read = Path.read_text
+        marketplace_path = ROOT / ".claude-plugin/marketplace.json"
+
+        def read_with_new_version(path, *args, **kwargs):
+            text = original_read(path, *args, **kwargs)
+            if path == marketplace_path:
+                record = json.loads(text)
+                record["version"] = "9.8.7"
+                return json.dumps(record)
+            return text
+
+        with patch.object(Path, "read_text", read_with_new_version):
+            spec = importlib.util.spec_from_file_location("release_version_probe", ROOT / "scripts/public_release.py")
+            release = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(release)
+            with patch.dict(sys.modules, {"public_release": release}):
+                spec = importlib.util.spec_from_file_location("mini_version_probe", ROOT / "scripts/generate-unified-mini-prompts.py")
+                generator = importlib.util.module_from_spec(spec)
+                spec.loader.exec_module(generator)
+            self.assertEqual(release.VERSION, "9.8.7")
+            self.assertEqual(release.RELEASE_TAG, "vergaberecht-werkstatt-v9.8.7")
+            self.assertTrue(release.RELEASE_BASE.endswith("/vergaberecht-werkstatt-v9.8.7"))
+            self.assertEqual(release.COMPONENT_RELEASE_TAG, json.loads((ROOT / "source-import.json").read_text())["release"])
+            self.assertEqual(generator.RELEASE_BASE, release.COMPONENT_RELEASE_BASE)
+            self.assertEqual(generator.render_readme(generator.marketplace()["plugins"]),
+                             (ROOT / "unified-mini-prompts/README.md").read_text())
+
     def test_shared_navigation_is_explicit_and_requires_existing_file(self):
         with tempfile.TemporaryDirectory() as directory:
             parent = Path(directory)

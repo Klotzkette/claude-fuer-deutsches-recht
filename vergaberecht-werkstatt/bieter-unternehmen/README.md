@@ -200,7 +200,7 @@ Der vollständige Katalog enthält 8 Skills. Für die normale Fallbearbeitung ge
 Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plugin-ZIP enthalten.
 
 <details>
-<summary><strong>Alle 28 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
+<summary><strong>Alle 29 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
@@ -224,6 +224,7 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 | `references/QUELLEN-AKTUALITAET.md` | [Ansehen](references/QUELLEN-AKTUALITAET.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/QUELLEN-AKTUALITAET.md) |
 | `references/arbeitsoberflaeche-und-visualisierung.md` | [Ansehen](references/arbeitsoberflaeche-und-visualisierung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/arbeitsoberflaeche-und-visualisierung.md) |
 | `references/bundeswehrbeschaffung-bwbbg-2026.md` | [Ansehen](references/bundeswehrbeschaffung-bwbbg-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/bundeswehrbeschaffung-bwbbg-2026.md) |
+| `references/hauptworkflow-entscheidungen.md` | [Ansehen](references/hauptworkflow-entscheidungen.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/hauptworkflow-entscheidungen.md) |
 | `references/leitentscheidungen-anker.md` | [Ansehen](references/leitentscheidungen-anker.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/leitentscheidungen-anker.md) |
 | `references/methodik-vergaberecht.md` | [Ansehen](references/methodik-vergaberecht.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/methodik-vergaberecht.md) |
 | `references/netto-null-technologien-vergabe-2026.md` | [Ansehen](references/netto-null-technologien-vergabe-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/netto-null-technologien-vergabe-2026.md) |
