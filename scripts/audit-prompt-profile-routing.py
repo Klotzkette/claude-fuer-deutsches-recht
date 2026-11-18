@@ -106,6 +106,9 @@ PROMPT_BRANDS: tuple[str, ...] = (
 # Nur Leerraum wird normalisiert, damit ein Zeilenumbruch keine neue Prüfung
 # erzwingt. Rechtsfehler und generische Rollenwerbung bleiben immer gesperrt.
 REVIEWED_BRAND_PARAGRAPHS: dict[str, dict[str, str]] = {
+    "jugendmedienschutz-und-medienangebote/jugendmedienschutz-und-medienangebote-werkstatt.md": {
+        "982b7d970744bd80e5ae422ecc63ba035b2bae762ff1b64ddf18af6b20e2a1ae": "Tatsächlich verfügbare Dokument- und Appletfunktionen prüfen; der Produktname begründet keine Fähigkeit, eine gleichwertige Textausgabe bleibt möglich.",
+    },
     "ki-native-kanzlei/ki-native-kanzlei-werkstatt.md": {
         "3b3471faa8b6203ed8342f78517640bb27d7bc5bc22b1f1fea0c177e38e61f9a": "Tatsächlicher Skill-, Datei- und Exportzugriff je Umgebung.",
         "5286c633af47ec699da0049e5706606078ef88ca649bf9b42c617f74a130391a": "Statusfortsetzung im Textmodus ohne behauptete Speicherung.",

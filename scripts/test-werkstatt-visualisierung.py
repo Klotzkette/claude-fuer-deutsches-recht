@@ -221,7 +221,8 @@ class VisualisierungTests(unittest.TestCase):
 
     def test_plain_label_profiles_preserve_local_style_in_skills_workshops_and_references(self):
         expected = {'un-kaufrecht-cisg', 'eu-sanktionspruefer', 'us-sanktionspruefer',
-                    'arbeitsrecht-kuendigungsschutzklagewerkstatt', 'agb-werkstatt', 'untersuchungshaft'}
+                    'arbeitsrecht-kuendigungsschutzklagewerkstatt', 'agb-werkstatt', 'untersuchungshaft',
+                    'jugendmedienschutz-und-medienangebote'}
         self.assertEqual({slug for slug, entry in self.profiles.items() if entry.get('plain_labels')}, expected)
         for slug in expected:
             entry = self.profiles[slug]
